@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Данні телеметрії">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Змінити
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Вивантаження даних FHR <span>увімкнено</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Вивантаження даних FHR <span>вимкнено</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Запис розширеної телеметрії <span>увімкнено</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Запис розширеної телеметрії <span>вимкнено</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Джерело даних пінга:
 ">
@@ -35,10 +15,6 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Дані архівованого пінга
 ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Відображення даних пінга:">
-
-<!ENTITY aboutTelemetry.structured "Структуровано">
 
 <!ENTITY aboutTelemetry.raw "Необроблений JSON">
 
@@ -58,16 +34,28 @@
 Старіший пінг &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Необроблені дані пінгу ...
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Тиждень
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Тип пінгу
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Пінг
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Сьогодні
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Вчора
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Раніше
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -134,18 +122,6 @@
   Інформація про сеанс
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Гістограми, зібрані за допомогою додатків
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Натисніть, щоб перемкнути розділ
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (данні не зібрано)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
  Примітка: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.
 ">
@@ -164,8 +140,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Корисне навантаження
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Необроблене корисне навантаження
 ">

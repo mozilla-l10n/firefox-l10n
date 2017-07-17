@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Число виграшів кешу">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Число виграшів мережі">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Загальна кількість мережевих запитів">
+<!ENTITY aboutNetworking.rcwnOperation         "Робота кешу">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Відкрито">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Прочитано">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Записано">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Відкрито записів">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Коротке середнє">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Довге середнє">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Довге стандартне відхилення">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Лічильник повільного кешу">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Лічильник не повільного кешу">
