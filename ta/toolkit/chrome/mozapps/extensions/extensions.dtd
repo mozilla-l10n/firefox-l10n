@@ -250,7 +250,7 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "தங்கள் கூடுதல் இணைப்புகளை உறுதிப்படுத்த விரும்பும் உருவாக்குநர்கள் வாசிப்பதின் மூலம் தொடரலாம்">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "கையேடு">
-
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் &brandShortName; உலாவியால் ஆதரிக்கப்படாது.">
 <!ENTITY pluginDeprecation.learnMore "மேலும் அறிய.">
