@@ -46,3 +46,5 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Aseklas n tzerkatut ad ittwarebḥen">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Tazerkatut n uẓeṭṭa ad ittwarebḥen">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Aseklas uγrid n isuturen n uẓeṭṭa">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ldi">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Aru">
