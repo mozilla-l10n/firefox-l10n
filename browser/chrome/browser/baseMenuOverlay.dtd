@@ -31,7 +31,7 @@
 <!ENTITY healthReport2.label      "Αναφορά υγείας του &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "γ">
 
-<!ENTITY helpTroubleshootingInfo.label      "Πληρ. αντιμετώπισης προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey  "μ">
 
 <!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
