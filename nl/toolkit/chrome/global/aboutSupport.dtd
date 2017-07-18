@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess-vensters">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Webinhoudsprocessen">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google-sleutel">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-locatieservicesleutel">
 
