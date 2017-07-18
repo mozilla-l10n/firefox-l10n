@@ -33,7 +33,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie">
 
-<!ENTITY healthReportDesc.label          "Helpt u uw browserprestaties te begrijpen en deelt gegevens met &vendorShortName; over uw browserstatus">
+<!ENTITY healthReportDesc.label          "Helpt u uw browserprestaties te begrijpen en deelt gegevens over uw browserstatus met &vendorShortName;">
 <!ENTITY enableHealthReport.label        "&brandShortName;-statusrapport inschakelen">
 <!ENTITY enableHealthReport.accesskey    "s">
 <!ENTITY healthReportLearnMore.label     "Meer info">
