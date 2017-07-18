@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "হালনাগাদের জন্য রিলিজ নোট প্রদর্শন করা হবে">
 <!ENTITY cmd.hideReleaseNotes.label           "রিলিজ নোট আড়াল করা হবে">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "এই হালনাগাদের জন্য রিলিজ নোট আড়াল করা হবে">
-
+<!ENTITY cmd.findReplacement.label            "কোন প্রতিস্থাপন খুঁজুন">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
