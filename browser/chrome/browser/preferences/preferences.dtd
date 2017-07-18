@@ -10,10 +10,13 @@
 <!ENTITY prefWinMinSize.styleGNOME "width: 50em; min-height: 43.5em;">
 <!ENTITY paneSearchResults.title "Risultati della ricerca">
 <!ENTITY paneGeneral.title "Generale">
+<!ENTITY paneSearch.title "Ricerca">
 <!ENTITY paneFilesApplications.title "File e applicazioni">
 <!ENTITY panePrivacySecurity.title "Privacy e sicurezza">
 <!ENTITY paneContainers.title "Schede contenitore">
 <!ENTITY paneUpdates.title "Aggiornamenti">
+<!ENTITY languageAndAppearance.label "Lingua e aspetto">
+<!ENTITY filesAndApplications.label "File e applicazioni">
+<!ENTITY browserPrivacy.label "Privacy del browser">
 <!ENTITY paneSync1.title "Account Firefox">
 <!ENTITY helpButton2.label "Supporto a &brandShortName;">
-<!ENTITY searchInput.label "Cerca">

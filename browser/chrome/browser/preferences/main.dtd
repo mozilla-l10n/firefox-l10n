@@ -28,8 +28,8 @@
 <!ENTITY alwaysAskWhere.accesskey "e">
 <!ENTITY alwaysCheckDefault2.label "Controlla sempre se &brandShortName; è il browser predefinito">
 <!ENTITY alwaysCheckDefault2.accesskey "t">
-<!ENTITY setAsMyDefaultBrowser2.label "Imposta come browser predefinito">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "o">
+<!ENTITY setAsMyDefaultBrowser3.label "Imposta come browser predefinito…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "o">
 <!ENTITY isDefault.label "&brandShortName; è attualmente il browser predefinito">
 <!ENTITY isNotDefault.label "&brandShortName; non è il browser predefinito">
 <!ENTITY separateProfileMode.label "Consenti l’esecuzione in contemporanea di &brandShortName; e Firefox">
