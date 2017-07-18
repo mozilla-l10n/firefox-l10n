@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైటు నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "సైటుతో మీ మైక్రోఫోనుని పంచుకోవడాన్ని నిర్వహించండి">
@@ -247,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "మొబైలు ఇష్టాంశాలు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
 <!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల పట్టీని చూడండి">
+<!ENTITY searchBookmarks.label              "ఇష్టాంశాలను శోధించు">
 
 <!ENTITY containersMenu.label "కంటైనర్లు">
 
@@ -973,7 +975,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 
-<!ENTITY sendToDevice.label "పరికరానికి పంపు…">
 <!ENTITY sendToDevice.viewTitle "పరికరానికి పంపు">
 <!ENTITY sendToDevice.fxaRequired.label "అవసరం">
 <!ENTITY sendToDevice.noDevices.label "పరికరాలు అందుబాటులో లేవు">
