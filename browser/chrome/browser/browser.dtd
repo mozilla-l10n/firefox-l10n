@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "خصص…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 
-<!ENTITY historyMenu.label "تأريخ">
+<!ENTITY historyMenu.label "التأريخ">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "الألسنة المُغلقة مؤخرًا">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
