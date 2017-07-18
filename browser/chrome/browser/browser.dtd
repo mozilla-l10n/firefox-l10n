@@ -146,6 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.generic.label "Aqueste document a lo contraròtle sul vòstre gredon. Quichatz Esc per tornar prendre lo contra-ròtle.">
 
 <!ENTITY closeWindow.label "Tampar la fenèstra">
 <!ENTITY closeWindow.accesskey "f">
@@ -201,6 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mostrar la notificacion">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mostrar la demanda de geolocalizacion">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navigador es contrarotlat a distància">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
