@@ -40,6 +40,9 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Espingolar aqueste onglet">
 <!ENTITY  unpinTab.accesskey                 "p">
+<!ENTITY  sendTabToDevice.label              "Enviar l'onglet al periferic">
+<!ENTITY  sendPageToDevice.label             "Enviar la pagina al periferic">
+<!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
@@ -175,6 +178,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 <!ENTITY recentBookmarks.label "Marcats recentament">
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
+<!ENTITY mobileBookmarksCmd.label "Marcapaginas del mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Afichar los Marcats recentament">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -196,10 +200,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mostrar la notificacion">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navigador es contrarotlat a distància">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Obrir lo panèl de messatge d’installar">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduire aquesta pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
 
@@ -408,6 +415,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchSubmit.tooltip  "Mandar la recèrca">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -725,6 +735,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
