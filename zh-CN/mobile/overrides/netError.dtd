@@ -91,7 +91,7 @@
 
 <!ENTITY unknownProtocolFound.title "无法理解该地址">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>您可能需要安装其他软件以打开此地址。</li> 
+<li>您可能需要安装其他软件才能打开此地址。</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "代理服务器拒绝连接">
