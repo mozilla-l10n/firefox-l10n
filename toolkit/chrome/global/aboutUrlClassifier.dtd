@@ -4,8 +4,8 @@
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.providerTitle               "পরিষেবা প্রদানকারী">
 <!ENTITY aboutUrlClassifier.provider                    "পরিষেবা প্রদানকারী">
-
-
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "সর্বশেষ হালনাগাদের সময়">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "পরবর্তি হালনাগাদের সময়">
 
 
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "হালনাগাদ">
