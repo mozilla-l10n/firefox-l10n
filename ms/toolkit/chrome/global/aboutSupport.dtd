@@ -115,8 +115,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
 <!ENTITY aboutSupport.updateHistoryTitle "Kemaskini Sejarah">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Salin teks ke klipbod">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah kepada klipbod">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
