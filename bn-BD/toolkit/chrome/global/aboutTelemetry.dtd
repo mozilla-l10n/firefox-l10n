@@ -25,8 +25,11 @@
 
 <!ENTITY aboutTelemetry.archivePingHeader "পিং">
 
+<!ENTITY aboutTelemetry.optionGroupToday "আজ">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "গতকাল">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "পুরানো">
 
 <!ENTITY aboutTelemetry.generalDataSection "   সাধারণ তথ্য">
 

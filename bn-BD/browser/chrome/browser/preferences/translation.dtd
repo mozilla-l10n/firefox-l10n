@@ -8,10 +8,10 @@
 
 <!ENTITY noTranslationForLanguages.label  "নিম্নলিখিত সাইটগুলোর অনুবাদ করা যাবে না:">
 <!ENTITY treehead.languageName.label      "ভাষা">
-<!ENTITY removeLanguage.label             "ভাষা মুছে ফেলুন R">
+<!ENTITY removeLanguage.label             "ভাষা মুছে ফেলুন">
 <!ENTITY removeLanguage.accesskey         "R">
-<!ENTITY removeAllLanguages.label         "সব ভাষা মুছে ফেলুন R">
-<!ENTITY removeAllLanguages.accesskey     "R">
+<!ENTITY removeAllLanguages.label         "সব ভাষা মুছে ফেলুন">
+<!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "নিচের সাইটগুলোর জন্য অনুবাদ প্রস্তাব করা হবেনা।">
 <!ENTITY treehead.siteName.label          "সাইট সমূহ">
