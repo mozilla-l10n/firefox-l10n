@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Zuɣer sakin sers iferdisen akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka...">
 <!ENTITY customizeMode.uidensity "Taneẓẓi">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Amagnu">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Amagnu">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Ussid">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ussid">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Amennal">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Amennal">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 
-<!ENTITY sendToDevice.label "Azen ɣer yibenk…">
+<!ENTITY sendToDevice.label2 "Azen ɣer yibenk">
 <!ENTITY sendToDevice.viewTitle "Azen ɣer yibenk">
 <!ENTITY sendToDevice.fxaRequired.label "Yettawsra">
 <!ENTITY sendToDevice.noDevices.label "Ulac ibenk">
