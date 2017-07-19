@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "सामान्य">
 
-<!ENTITY accessibility.label             "पहुँच">
-
 <!ENTITY useCursorNavigation.label       "पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "अहाँक ब्राउज़र प्रदर्शन केँ समझाबैमे मदत करैछ आओर &vendorShortName; क संग अहाँक ब्राउज़रक स्वास्थ्य संबंधी आँकड़ा साझा करैत अछि">
-<!ENTITY enableHealthReport.label        "&brandShortName; स्थास्थ्य रिपोर्ट सक्रिय करू (R)">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "&vendorShortName; क संग &brandShortName; केँ बेहतर बनाबैक लेल प्रदर्शन, प्रयोग, हार्डवेयर आओर पसंदीदाकरण आँकड़े केँ अपन ब्राउज़रक साथ साझा करैत अछि">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "संजाल">
 
-<!ENTITY connection.label                "कनेक्शन">
 
 <!ENTITY connectionDesc.label            "विन्यस्त करू जे कहिना &brandShortName; इंटरनेट सँ जुड़ैत  अछि ">
 <!ENTITY connectionSettings.label        "सेटिंग…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
