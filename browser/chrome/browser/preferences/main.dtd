@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Prózdnu stronu pokazać">
 <!ENTITY startupPrevSession.label  "Wokna a rajtarki wot poslednjeho raza pokazać">
 
-
+<!ENTITY homepage2.label           "Startowa strona">
+<!ENTITY homepage2.accesskey       "S">
 <!ENTITY useCurrentPage.label      "Aktualnu stronu wužiwać">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktualne strony wužiwać">
@@ -32,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Přeco kontrolować, hač &brandShortName; je waš standardny wobhladowak">
 <!ENTITY alwaysCheckDefault2.accesskey    "c">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "K standardej činić…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "t">
 <!ENTITY isDefault.label                  "&brandShortName; je tuchwilu waš standardny wobhladowak">
 <!ENTITY isNotDefault.label               "&brandShortName; tuchwilu waš standardny wobhladowak njeje">
 
