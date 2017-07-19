@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Sken ibenkan yettwafernen">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Asmel inta">
+<!ENTITY home_unpinned_site "Kkes asmel intan">
+
 <!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer inu?">
 <!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren-inek seg ibenkan nniḍen ɣer ugalis ɣef usebter agejdan-inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
 <!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis inu amaynut.">
