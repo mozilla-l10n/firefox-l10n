@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Vyskakovacie okná">
+<!ENTITY  permissions.label           "Povolenia">
 
 <!ENTITY  blockPopups.label           "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Upozornenia">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ďalšie informácie">
 <!ENTITY  notificationsPolicyDesc3.label       "Vyberte, ktoré stránky majú povolené vám posielať upozornenia">
 <!ENTITY  notificationsPolicyButton.accesskey  "y">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "F">
 
 
-<!ENTITY languages.label              "Jazyky">
+<!ENTITY language2.label              "Jazyk">
 <!ENTITY chooseLanguage.label         "Vybrať jazyky pre zobrazovanie webových stránok">
 <!ENTITY chooseButton.label           "Vybrať…">
 <!ENTITY chooseButton.accesskey       "V">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Preložené pomocou služby">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Obsah DRM">
+<!ENTITY  drmContent2.label              "Obsah chránený pomocou Digital Rights Management (DRM)">
 
-<!ENTITY  playDRMContent.label         "Prehrávať obsah DRM">
-<!ENTITY  playDRMContent.accesskey     "h">
+<!ENTITY  playDRMContent2.label          "Prehrávať obsah chránený pomocou DRM">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Ďalšie informácie">
