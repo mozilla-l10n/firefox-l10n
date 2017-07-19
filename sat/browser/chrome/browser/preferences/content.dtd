@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "पॉप-ऑप विंडो आकोट मे  (B)">
 <!ENTITY  blockPopups.accesskey       "B">
-
 
 
 
@@ -29,8 +27,6 @@
 <!ENTITY  colors.label                "रोङ को … (C)">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "पा़रसी को">
 <!ENTITY chooseLanguage.label         "उदुक् होचो साहटा को ला़गित् आमाक् कुसियाक् पा़रसी बाछाव मे">
 <!ENTITY chooseButton.label           "बाछाव मे…  (o)">
 <!ENTITY chooseButton.accesskey       "o">

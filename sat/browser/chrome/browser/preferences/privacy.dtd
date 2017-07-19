@@ -27,7 +27,6 @@
 <!ENTITY  history.label                 "हिता़ल">
 
 
-<!ENTITY  locationBar.label             "ठांव बार">
 
 
 
@@ -97,7 +96,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     " साजाव को(t)…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
 
 
 

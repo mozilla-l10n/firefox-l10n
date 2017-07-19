@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "साधारोन">
 
-<!ENTITY accessibility.label             "आ़तुर दाड़े तेत्">
-
 <!ENTITY useCursorNavigation.label       "साहटा भितिर रे पानते ला़गित् जावगे कार्सर का़ठी बेभार मे (c)">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "आमाक् ब्राउजार उदुक् सोदोर आम बुझाव होचो ला़गित् गोड़ो आमा आर  &vendorShortName; सांव डाटाय हा़टिञ आ आमाक् ब्राउजार बेस होड़मो बाबोत ते .">
-<!ENTITY enableHealthReport.label        " &brandShortName;  हुय होचो तेयार बेस होड़मो रिपोर्ट ( R).">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "उदुग सोदोर हा़टिञ,  बेबोहार , हाडवेयार आर कुसियाक् तेयार डाटा  &vendorShortName; सांव आमाक् ब्राउजार बाबोत  &brandShortName; आले गोड़ो ला़गित् खोन बेस.">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "नेटवार्क">
 
-<!ENTITY connection.label                "जोनोड़ाव">
 
 <!ENTITY connectionDesc.label            "तेयार मे चेत् लेका &brandShortName; इंटरनेट सांव ए  जुड़ा़क् आ">
 <!ENTITY connectionSettings.label        "साजाव को (e)...">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "हा़ली को बो़हाल ला़गित् मित् ओनोड़ का़मी बे्भार मे (b)">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
