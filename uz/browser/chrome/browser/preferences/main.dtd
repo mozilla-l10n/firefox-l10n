@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Bo‘sh sahifa ko‘rsatilsin">
 <!ENTITY startupPrevSession.label  "So‘nggi marta ochilgan barcha oynalar ko‘rsatilsin">
 
-<!ENTITY homepage2.label           "Bosh sahifa">
-<!ENTITY homepage2.accesskey       "s">
+
 <!ENTITY useCurrentPage.label      "Joriy sahifadan foydalanish">
 <!ENTITY useCurrentPage.accesskey  "J">
 <!ENTITY useMultiple.label         "Joriy sahifalardan foydalanish">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Agar &brandShortName; standart brauzeringiz bo‘lsa, doimo tekshirilsin">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
-<!ENTITY setAsMyDefaultBrowser2.label     "Asosiy sifatida o‘rnatish">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "A">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; - hozircha standart brauzeringiz">
 <!ENTITY isNotDefault.label               "&brandShortName; - standart brauzeringiz emas">
 

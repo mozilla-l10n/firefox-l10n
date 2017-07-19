@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Umumiy">
 
-<!ENTITY accessibility.label             "Qulaylik">
-
 <!ENTITY useCursorNavigation.label       "Doimo koʻrsatkich tugmalaridan sahifani kuzatish uchun foydalanish ">
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchOnStartTyping.label       "Yozishni boshlaganimda, matn izlansin">
 <!ENTITY searchOnStartTyping.accesskey   "n">
-<!ENTITY blockAutoReload.label           "Agar veb saytlar sahifani boshqa sahifaga yo‘naltirsa yoki qayta yuklansa, menga ogohlantirish ko‘rsatilsin">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Kerak bo‘lganda terish uchun klaviaturani ko‘rsatish">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan">
 
-<!ENTITY healthReportDesc.label          "Brauzeringizning ishlashini tushunishingizga  va uning yaroqliligi haqidagi ma`lumotlarni &vendorShortName; bilan boʻlishishingizga yordam beradi.">
-<!ENTITY enableHealthReport.label        "&brandShortName; yaroqlilik ma`lumotlari">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Batafsil ma’lumot">
 
-<!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun brauzeringiz haqidagi ishlashi, foydalanish, qurilma va moslash ma`lumotlarini boʻlishadi">
-<!ENTITY enableTelemetryData.label       "Qo‘shimcha ma’lumotlarni bo‘lishish (masalan, Telemetriya)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Batafsil ma’lumot">
 
-<!ENTITY crashReporterDesc2.label         "Nosozlik hisobotlari &vendorShortName;ga muammolarni tuzatish, brauzerni yanada xavfsiz va yaxshi ishlaydigan qilishda yordam beradi">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName;ga nosozlik hisobotlarini sizning nomingizdan jo‘natishga ruxsat berish">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Batafsil ma’lumot">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Batafsil ma’lumot">
 
 <!ENTITY networkTab.label                "Tarmoq">
 
-<!ENTITY connection.label                "Ulanish">
 
 <!ENTITY connectionDesc.label            "&brandShortName;ni internetga ulashni moslash">
 <!ENTITY connectionSettings.label        "Parametrlar…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Qidiruv tizimlarini avtomatik yangilasin">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Hisobotlar">
 
 <!ENTITY offlineStorageNotify.label               "Sayt oflayn foydalanishingiz uchun ma’lumotlarni joylashtirishni soʻrasa, menga xabar berilsin">
 <!ENTITY offlineStorageNotify.accesskey           "x">

@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Paydo bo‘luvchi oynalarni bloklash">
 <!ENTITY  blockPopups.accesskey       "P">
 
-<!ENTITY  notificationsPolicy.label            "Eslatmalar">
 <!ENTITY  notificationsPolicyLearnMore.label   "Batafsil ma’lumot">
 <!ENTITY  notificationsPolicyDesc3.label       "Qaysi saytlar sizga eslatma yuborishi mumkinligini tanlang">
 <!ENTITY  notificationsPolicyButton.accesskey  "T">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Ranglar…">
 <!ENTITY  colors.accesskey            "R">
 
-
-<!ENTITY languages.label              "Tillar">
 <!ENTITY chooseLanguage.label         "Sahifalar ko‘rinishi kerak bo‘lgan til">
 <!ENTITY chooseButton.label           "Tanlash…">
 <!ENTITY chooseButton.accesskey       "T">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tarjimon:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM tarkib">
 
-<!ENTITY  playDRMContent.label         "DRM tarkibni ko‘rsatish">
-<!ENTITY  playDRMContent.accesskey     "k">
+
 <!ENTITY  playDRMContent.learnMore.label "Batafsil ma’lumot">

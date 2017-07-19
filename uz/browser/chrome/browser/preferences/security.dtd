@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Xavfsizlik">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Saytlar qoʻshimcha dasturlar oʻrnatishga urinsa foydalanuvchi ogohlantirilsin">
 <!ENTITY  warnOnAddonInstall.accesskey    "o">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

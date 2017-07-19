@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Parametrlar">
 <!ENTITY removeButton.label   "Olib tashlash">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Maxfiylikka qaytish">
 
 <!ENTITY window.title         "Yangi konteyner qo‘shish">
 <!ENTITY window.width         "45em">
