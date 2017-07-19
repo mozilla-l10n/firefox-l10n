@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Προτιμήσεις">
 <!ENTITY removeButton.label   "Αφαίρεση">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Επιστροφή στο απόρρητο">
+<!ENTITY backLink2.label      "&#171; Επιστροφή">
 
 <!ENTITY window.title         "Προσθήκη νέας θεματικής ενότητας">
 <!ENTITY window.width         "45em">
