@@ -14,11 +14,13 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "ಸಾಮಾನ್ಯ">
+<!ENTITY  paneSearch.title              "ಹುಡುಕು">
 
 
 <!ENTITY  paneContainers.title          "ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍">
 
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-
-<!ENTITY  searchInput.label        "ಹುಡುಕು">

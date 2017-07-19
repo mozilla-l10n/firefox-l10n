@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "ಇತಿಹಾಸ">
 
 
-<!ENTITY  locationBar.label             "ಸ್ಥಳ ಪಟ್ಟಿಕೆ">
 
 <!ENTITY  locbar.history.label          "History">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -102,7 +101,6 @@
 <!ENTITY  clearOnCloseSettings.label     "ಸಿದ್ಧತೆಗಳು…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು">
 <!ENTITY  browserContainersLearnMore.label      "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY  browserContainersEnabled.label        "ಕಂಟೈನರ್ ಟ್ಯಾಬ್ಸ್ ಸಕ್ರಿಯಗೊಳಿಸಿ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
