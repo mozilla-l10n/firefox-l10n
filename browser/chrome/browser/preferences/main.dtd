@@ -31,8 +31,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "सधैं &brandShortName; आफ्नो पूर्वनिर्धारित ब्राउजर हो भन्ने बारे जाँच गर्नुहोस्">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "पूर्वनिर्धारित बनाउनुहोस">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+
+
 <!ENTITY isDefault.label                  "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
 <!ENTITY isNotDefault.label               "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
 
