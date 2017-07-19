@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "ಸೂಚನೆಗಳು">
 <!ENTITY  notificationsPolicyLearnMore.label   "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY  notificationsPolicyDesc3.label       "ನಿಮಗೆ ಸೂಚನೆಗಳನ್ನು ಯಾವ ತಾಣಗಳು ಕಳಿಸಬಹುದೆಂದು ಆಯ್ಕೆ ಮಾಡಿ">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "ಬಣ್ಣಗಳು...">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "ಭಾಷೆಗಳು">
 <!ENTITY chooseLanguage.label         "ಪುಟಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಬಯಕೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ">
 <!ENTITY chooseButton.label           "ಆರಿಸಿ…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,6 +48,5 @@
 <!ENTITY translation.options.attribution.afterLogo "‌">
 
 
-<!ENTITY  playDRMContent.label         "Play DRM ವಿಷಯ">
-<!ENTITY  playDRMContent.accesskey     "P">
+
 <!ENTITY  playDRMContent.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
