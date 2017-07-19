@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Imbali">
 <!ENTITY  permissions.label             "Iimvume">
 
-<!ENTITY  locationBar.label             "Ibha yendawo">
 
-<!ENTITY  locbar.suggest2.label         "Cebisa xa usebenzisa ibha yendawo">
 <!ENTITY  locbar.history.label          "Imbali">
 <!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Imimiselo…">
 <!ENTITY  clearOnCloseSettings.accesskey "m">
 
-<!ENTITY  browserContainersHeader.label         "Iithebhu Zekhonteyina">
 <!ENTITY  browserContainersLearnMore.label      "Funda ngakumbi">
 <!ENTITY  browserContainersEnabled.label        "Vumela iiThebhu zeKhonteyina">
 <!ENTITY  browserContainersEnabled.accesskey    "u">

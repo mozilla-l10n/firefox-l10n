@@ -7,7 +7,6 @@
 
 
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Buyela kweyaBucala">
 
 <!ENTITY window.title         "Yongeza iKhonteyina eNtsha">
 <!ENTITY window.width         "45em">

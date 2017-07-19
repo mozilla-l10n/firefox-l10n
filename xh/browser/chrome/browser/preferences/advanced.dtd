@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Jikelele">
 
-<!ENTITY accessibility.label             "Ufikelelo">
-
 <!ENTITY useCursorNavigation.label       "Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi">
 <!ENTITY useCursorNavigation.accesskey   "a">
 <!ENTITY searchOnStartTyping.label       "Khangela iteksti xa uqalisa ukuchwetheza">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Ndikulumkise xa iiwebhusayithi zizama ukwalathisa okanye ukulayisha iphepha">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Bonisa ukuphatha nekhibhodi xa kuyimfuneko">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko">
 
-<!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho ne-&vendorShortName; malungi nempilo yebhrawuza yakho">
-<!ENTITY enableHealthReport.label        "Yenza isebenze i-&brandShortName; iNgxelo yeMpilo">
-<!ENTITY enableHealthReport.accesskey    "y">
+
 <!ENTITY healthReportLearnMore.label     "Funda okungakumbi">
 
-<!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ye-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
-<!ENTITY enableTelemetryData.label       "Yabelana ngeNgcombolo eyoNgezelelweyo (oko kukuthi yi-Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Funda okungakumbi">
 
-<!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &vendorShortName; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
-<!ENTITY alwaysSubmitCrashReports.label   "Vumela &brandShortName; lithumele iingxelo ezifumbileyo egameni lakho">
-<!ENTITY alwaysSubmitCrashReports.accesskey "f">
-<!ENTITY crashReporterLearnMore.label     "Funda okungakumbi">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Funda okungakumbi">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
-<!ENTITY connection.label                "Umdibaniso">
 
 <!ENTITY connectionDesc.label            "Lungiselela indlela i-&brandShortName; enxibelela ngayo kwi-Intanethi">
 <!ENTITY connectionSettings.label        "Isetingi…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Ngokuzenzekelayo hlaziya iinjini zokukhangela">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Iingxelo">
 
 <!ENTITY offlineStorageNotify.label               "Iyakuxelela xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
 <!ENTITY offlineStorageNotify.accesskey           "I">

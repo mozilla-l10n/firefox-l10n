@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
 <!ENTITY startupPrevSession.label  "Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam">
 
-<!ENTITY homepage2.label           "IPhepha lokuQala">
-<!ENTITY homepage2.accesskey       "I">
+
 <!ENTITY useCurrentPage.label      "Sebenzisa iPhepha laNgoku">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sebenzisa amaPhepha aNgoku">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Yenza Ibe yemiselweyo">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "I">
+
+
 <!ENTITY isDefault.label                  "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
 <!ENTITY isNotDefault.label               "I-&brandShortName; ayiyobhrawuza yakho esisiseko">
 

@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Ukhuseleko">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Ndilumkise xa iisayithi zizama ukufakela izongezelelo">
 <!ENTITY  warnOnAddonInstall.accesskey    "N">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
