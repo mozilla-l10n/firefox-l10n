@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Algemeen">
 
-<!ENTITY accessibility.label             "Toeganklikheid">
-
 <!ENTITY useCursorNavigation.label       "Gebruik altyd die por-sleutels om binne bladsye te navigeer">
 <!ENTITY useCursorNavigation.accesskey   "p">
 <!ENTITY searchOnStartTyping.label       "Soek vir teks wanneer ek begin tik">
 <!ENTITY searchOnStartTyping.accesskey   "s">
-<!ENTITY blockAutoReload.label           "Waarsku wanneer webwerwe probeer om die bladsy te herlaai of herlei">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Wys 'n skermsleutelbord indien nodig">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Help om die blaaier se werkverrigting te verstaan en deel data met &vendorShortName; oor die blaaier se gesondheid">
-<!ENTITY enableHealthReport.label        "Aktiveer &brandShortName;-gesondheidsverslag">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Meer inligting">
 
-<!ENTITY telemetryDesc.label             "Deel data oor werkverrigting, gebruik, hardeware en aanpassings van die blaaier met &vendorShortName; om te help om &brandShortName; te verbeter">
-<!ENTITY enableTelemetryData.label       "Deel verdere data (m.a.w. Telemetrie)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Meer inligting">
 
-<!ENTITY crashReporterDesc2.label         "Omvalverslae help &vendorShortName; om probleme op te los en die blaaier meer stabiel en veilig te maak">
-<!ENTITY alwaysSubmitCrashReports.label   "Laat &brandShortName; toe om opgehoopte omvalverslae namens u te stuur">
-<!ENTITY alwaysSubmitCrashReports.accesskey "h">
-<!ENTITY crashReporterLearnMore.label     "Meer inligting">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Meer inligting">
 
 <!ENTITY networkTab.label                "Netwerk">
 
-<!ENTITY connection.label                "Verbinding">
 
 <!ENTITY connectionDesc.label            "Stel op hoe &brandShortName; aan die internet koppel">
 <!ENTITY connectionSettings.label        "Opstelling…">
@@ -109,7 +98,6 @@ available. -->
 
 <!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
 <!ENTITY useService.accesskey            "a">
-
 
 
 

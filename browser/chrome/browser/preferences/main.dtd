@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Wys 'n leë bladsy">
 <!ENTITY startupPrevSession.label  "Wys die vensters en oortjies van laas keer">
 
-<!ENTITY homepage2.label           "Tuisblad">
-<!ENTITY homepage2.accesskey       "b">
+
 <!ENTITY useCurrentPage.label      "Gebruik huidige bladsy">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gebruik huidige bladsye">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Kontroleer altyd of &brandShortName; die verstekblaaier is">
 <!ENTITY alwaysCheckDefault2.accesskey    "K">
-<!ENTITY setAsMyDefaultBrowser2.label     "Maak verstek">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "v">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; is tans die verstekblaaier">
 <!ENTITY isNotDefault.label               "&brandShortName; is nie die verstekblaaier nie">
 
