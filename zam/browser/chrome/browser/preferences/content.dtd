@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Naa güit loo taa maas loo">
 <!ENTITY  blockPopups.accesskey       "N">
 
@@ -29,8 +28,6 @@
 <!ENTITY  colors.label                "Xha niey...">
 <!ENTITY  colors.accesskey            "X">
 
-
-<!ENTITY languages.label              "Ta más dedizh dediz Firefox">
 <!ENTITY chooseLanguage.label         "Toob dizh koo lash lu lab luu lo Firefox">
 <!ENTITY chooseButton.label           "Mxhen na...">
 <!ENTITY chooseButton.accesskey       "M">

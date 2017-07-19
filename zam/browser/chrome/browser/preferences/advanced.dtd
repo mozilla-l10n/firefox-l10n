@@ -12,9 +12,6 @@
 
 
 
-
-
-
 <!ENTITY browsing.label                  "Te tak kuan lu koo lash luu">
 
 
@@ -26,9 +23,6 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
-<!ENTITY enableHealthReport.label        "Toob kii &brandShortName; Xha key Xhin">
-<!ENTITY enableHealthReport.accesskey    "X">
 
 
 
@@ -78,7 +72,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
