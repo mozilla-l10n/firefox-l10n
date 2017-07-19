@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Giştî">
 
-<!ENTITY accessibility.label             "Gihîştin">
-
 <!ENTITY useCursorNavigation.label       "Ji bo veguhestina bi nava rûpelan ve, her tim peyvên ji rêzê bi kar bîne">
 <!ENTITY useCursorNavigation.accesskey   "J">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Alîkariyê dide te ku performansa geroka xwe fêm bikî û zanyariyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike">
-<!ENTITY enableHealthReport.label        "Rapora Tenduristiyê ya &brandShortName;ê çalak bike">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "&brandShortName; ji bo ku em dikaribin geroka te baştir bikin, daneyên performans, bikaranîn, reqalav û takekeskirinê yên geroka te bi &vendorShortName;ê re parve dike">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Tor">
 
-<!ENTITY connection.label                "Girêdan">
 
 <!ENTITY connectionDesc.label            "Wekî ku &brandShortName; xwe li Internetê girê dide mîheng bike">
 <!ENTITY connectionSettings.label        "Mîheng…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne">
 <!ENTITY useService.accesskey            "p">
-
 
 
 
