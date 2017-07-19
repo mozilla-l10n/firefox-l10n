@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Επανεμφάνιση επιλεγμένων συσκευών">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Η ιστοσελίδα καρφιτσώθηκε">
+<!ENTITY home_unpinned_site "Η ιστοσελίδα ξεκαρφιτσώθηκε">
+
 <!ENTITY remote_tabs_panel_moved_title "Πού πήγαν οι καρτέλες μου;">
 <!ENTITY remote_tabs_panel_moved_desc "Έχουμε μετακινήσει τις καρτέλες από άλλες συσκευές σας σε ένα πλαίσιο στην αρχική σελίδα για εύκολη πρόσβαση κάθε φορά που ανοίγετε μια νέα καρτέλα.">
 <!ENTITY remote_tabs_panel_moved_link "Μετάβαση στον νέο μου πλαίσιο.">
