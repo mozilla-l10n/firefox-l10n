@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "&quot;Атып шығатын&quot; терезелерді болдырмау">
 <!ENTITY  blockPopups.accesskey       "б">
 
-<!ENTITY  notificationsPolicy.label            "Хабарламалар">
 <!ENTITY  notificationsPolicyLearnMore.label   "Көбірек білу">
 <!ENTITY  notificationsPolicyDesc3.label       "Қай сайттарға сізге хабарламаларды жіберу рұқсат етілгенді таңдау">
 <!ENTITY  notificationsPolicyButton.accesskey  "у">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Түстер…">
 <!ENTITY  colors.accesskey            "Т">
 
-
-<!ENTITY languages.label              "Тілдер">
 <!ENTITY chooseLanguage.label         "Интернет-беттерді көрсету үшін тілді таңдаңыз">
 <!ENTITY chooseButton.label           "Таңдау…">
 <!ENTITY chooseButton.accesskey       "у">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Аударманы ұсынған">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM құрамасы">
 
-<!ENTITY  playDRMContent.label         "DRM құрамасын ойнату">
-<!ENTITY  playDRMContent.accesskey     "й">
+
 <!ENTITY  playDRMContent.learnMore.label "Көбірек білу">

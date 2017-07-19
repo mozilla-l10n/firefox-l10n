@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Жалпы">
 
-<!ENTITY accessibility.label             "Қолжетерлілік">
-
 <!ENTITY useCursorNavigation.label       "Парақтарға навигация жасау үшін әрқашан курсор батырмаларын қолдану">
 <!ENTITY useCursorNavigation.accesskey   "н">
 <!ENTITY searchOnStartTyping.label       "Мәтін терілген кезде оны парақтан іздей бастау">
 <!ENTITY searchOnStartTyping.accesskey   "т">
-<!ENTITY blockAutoReload.label           "Веб-сайт парақты басқа жерге бағдарласа, немесе өздігінен жаңартса, мені ескерту">
-<!ENTITY blockAutoReload.accesskey       "п">
 <!ENTITY useOnScreenKeyboard.label       "Керек болған кезде шерту пернетақтасын қолдану">
 <!ENTITY useOnScreenKeyboard.accesskey   "п">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Деректер есептемесін беру бұл жинақта сөндірілген">
 
-<!ENTITY healthReportDesc.label          "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
-<!ENTITY enableHealthReport.label        "&brandShortName; денсаулық есептемесін іске қосу">
-<!ENTITY enableHealthReport.accesskey    "п">
+
 <!ENTITY healthReportLearnMore.label     "Көбірек білу">
 
-<!ENTITY telemetryDesc.label             "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
-<!ENTITY enableTelemetryData.label       "Қосымша ақпаратпен бөлісу (мыс. телеметрия)">
-<!ENTITY enableTelemetryData.accesskey   "т">
-<!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
-<!ENTITY crashReporterDesc2.label         "Құлау жөнінде хабарламалар &vendorShortName; үшін мәселелерді шешу және браузеріңізді тұрақтылау және қауіпсіз қылуға көмектеседі">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; үшін сіздің атыңыздан құлаулар жөнінде архивті хабарламаларды жіберуді рұқсат ету">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Көбірек білу">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Көбірек білу">
 
 <!ENTITY networkTab.label                "Желі">
 
-<!ENTITY connection.label                "Байланыс">
 
 <!ENTITY connectionDesc.label            "&brandShortName; Интернетке байланысу параметрлерін баптау">
 <!ENTITY connectionSettings.label        "Баптау…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Іздеу жүйелерін автожаңарту">
 <!ENTITY enableSearchUpdate2.accesskey   "а">
-
-<!ENTITY reports.label                   "Есептемелер">
 
 <!ENTITY offlineStorageNotify.label               "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, сені ескерту">
 <!ENTITY offlineStorageNotify.accesskey           "р">

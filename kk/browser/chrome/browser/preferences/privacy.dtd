@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Тарихы">
 <!ENTITY  permissions.label             "Рұқсаттар">
 
-<!ENTITY  locationBar.label             "Адрес жолы">
 
-<!ENTITY  locbar.suggest2.label         "Адрес жолағын қолдану кезінде, ұсыну">
 <!ENTITY  locbar.history.label          "Тарихы">
 <!ENTITY  locbar.history.accesskey      "Т">
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Баптау…">
 <!ENTITY  clearOnCloseSettings.accesskey "п">
 
-<!ENTITY  browserContainersHeader.label         "Контейнер беттері">
 <!ENTITY  browserContainersLearnMore.label      "Көбірек білу">
 <!ENTITY  browserContainersEnabled.label        "Контейнер беттерін іске қосу">
 <!ENTITY  browserContainersEnabled.accesskey    "е">
