@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Pop-ups">
+<!ENTITY  permissions.label           "Tastimmingen">
 
 <!ENTITY  blockPopups.label           "Pop-upfinsters blokkearje">
 <!ENTITY  blockPopups.accesskey       "P">
 
-<!ENTITY  notificationsPolicy.label            "Notifikaasjes">
 <!ENTITY  notificationsPolicyLearnMore.label   "Mear ynfo">
 <!ENTITY  notificationsPolicyDesc3.label       "Kieze hokker websites jo notifikaasjes stjoere meie">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "K">
 
 
-<!ENTITY languages.label              "Talen">
+<!ENTITY language2.label              "Taal">
 <!ENTITY chooseLanguage.label         "Talen kieze dêr't websites yn werjûn wurde moatte.">
 <!ENTITY chooseButton.label           "Kieze…">
 <!ENTITY chooseButton.accesskey       "i">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Oersettingen troch">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM-ynhâld">
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM)-ynhâld">
 
-<!ENTITY  playDRMContent.label         "DRM-ynhâld ôfspylje">
-<!ENTITY  playDRMContent.accesskey     "D">
+<!ENTITY  playDRMContent2.label          "DRM-kontrolearre ynhâld ôfspylje">
+<!ENTITY  playDRMContent2.accesskey      "D">
 <!ENTITY  playDRMContent.learnMore.label "Mear ynfo">

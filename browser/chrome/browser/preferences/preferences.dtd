@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Sykresultaten">
 <!ENTITY  paneGeneral.title             "Algemien">
+<!ENTITY  paneSearch.title              "Sykje">
 <!ENTITY  paneFilesApplications.title   "Bestannen &amp; Tapassingen">
 <!ENTITY  panePrivacySecurity.title     "Privacy &amp; Befeiliging">
 <!ENTITY  paneContainers.title          "Kontenerljepblêden">
 <!ENTITY  paneUpdates.title             "Fernijingen">
 
+<!ENTITY  languageAndAppearance.label   "Taal en úterlik">
+<!ENTITY  filesAndApplications.label    "Bestannen en Tapassingen">
+<!ENTITY  browserPrivacy.label          "Browserprivacy">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-account">
 
 <!ENTITY  helpButton2.label        "&brandShortName;-stipe">
-
-<!ENTITY  searchInput.label        "Sykje">

@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Skiednis">
 <!ENTITY  permissions.label             "Tastimmingen">
 
-<!ENTITY  locationBar.label             "Lokaasjebalke">
-
-<!ENTITY  locbar.suggest2.label         "By gebrûk fan de lokaasjebalke, suggestjes werjaan út">
+<!ENTITY  addressBar.label              "Adresbalke">
+<!ENTITY  addressBar.suggest.label      "By gebrûk fan de adresbalke, suggestjes werjaan út">
 <!ENTITY  locbar.history.label          "Skiednis">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Blêdwizers">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ynstellingen…">
 <!ENTITY  clearOnCloseSettings.accesskey "Y">
 
-<!ENTITY  browserContainersHeader.label         "Kontenerljepblêden">
 <!ENTITY  browserContainersLearnMore.label      "Mear ynfo">
 <!ENTITY  browserContainersEnabled.label        "Kontenerljepblêden ynskeakelje">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
