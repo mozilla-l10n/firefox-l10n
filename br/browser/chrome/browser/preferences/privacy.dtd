@@ -31,7 +31,6 @@
 <!ENTITY  history.label                 "Roll istor">
 
 
-<!ENTITY  locationBar.label             "Barrenn chomlec'hioù">
 
 <!ENTITY  locbar.history.label          "Roll istor">
 <!ENTITY  locbar.history.accesskey      "R">
@@ -104,7 +103,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Arventennoù…">
 <!ENTITY  clearOnCloseSettings.accesskey "v">
 
-<!ENTITY  browserContainersHeader.label         "Ivinelloù endalc'her">
 <!ENTITY  browserContainersLearnMore.label      "Gouzout hiroc'h">
 <!ENTITY  browserContainersEnabled.label        "Gweredekaat an ivinelloù endalc'her">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

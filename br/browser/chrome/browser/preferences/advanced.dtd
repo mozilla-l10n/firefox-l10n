@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Hollek">
 
-<!ENTITY accessibility.label             "Haezadusted">
-
 <!ENTITY useCursorNavigation.label       "Atav arverañ ar stokelloù bir da vageal er bajennadoù">
 <!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchOnStartTyping.label       "Klask an destenn pa grogan da skrivañ">
 <!ENTITY searchOnStartTyping.accesskey   "K">
-<!ENTITY blockAutoReload.label           "Kemenn din pa vez klasket adheñchañ pe adkargañ ar bajennad gant al lec'hiennoù">
-<!ENTITY blockAutoReload.accesskey       "e">
 <!ENTITY useOnScreenKeyboard.label       "Diskouez ur c'hlavier stokañ pa vez ezhomm">
 <!ENTITY useOnScreenKeyboard.accesskey   "c">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Skoazellañ a ra ac'hanoc'h kompren digonusted ho merdeer ha rannañ roadennoù a-fet yec'hed ho merdeer gant &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Gweredekaat danevell yec'hed &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "y">
 
 
-<!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Rannañ roadennoù ouzhpenn (d.l.e. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
 
 
-<!ENTITY crashReporterDesc2.label         "A drugarez d'an danevelloù sac'hadenn eo gouest &vendorShortName; da gempenn kudennoù ha da lakaat da vezañ stabiloc'h ha suroc'h ho merdeer.">
-<!ENTITY alwaysSubmitCrashReports.label   "Aotren &brandShortName; da gas danevelloù sac'hadennoù enrollet evidoc'h">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+
+
+
 
 
 <!ENTITY networkTab.label                "Rouedad">
 
-<!ENTITY connection.label                "Kennask">
 
 <!ENTITY connectionDesc.label            "Kefluniañ penaos en em gennask &brandShortName; ouzh an Internet">
 <!ENTITY connectionSettings.label        "Arventennoù…">
@@ -108,7 +97,6 @@ available. -->
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
-
 
 
 

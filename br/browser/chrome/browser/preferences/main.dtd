@@ -31,8 +31,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Gwiriañ atav ma'z eo &brandShortName; ho merdeer dre ziouer">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Lakaat dre ziouer">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+
+
 <!ENTITY isDefault.label                  "Ho merdeer dre ziouer eo &brandShortName;">
 <!ENTITY isNotDefault.label               "N'eo ket &brandShortName; ho merdeer dre ziouer">
 

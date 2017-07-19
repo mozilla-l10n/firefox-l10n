@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Gwellvezioù">
 <!ENTITY removeButton.label   "Lemel kuit">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Distreiñ d'ar buhez prevez">
 
 <!ENTITY window.title         "Ouzhpennañ un endalc'her nevez">
 <!ENTITY window.width         "45em">

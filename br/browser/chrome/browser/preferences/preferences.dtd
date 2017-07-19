@@ -14,11 +14,13 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 57em; min-height: 39.5em;">
 
 <!ENTITY  paneGeneral.title             "Hollek">
+<!ENTITY  paneSearch.title              "Klask">
 
 
 <!ENTITY  paneContainers.title          "Ivinelloù endalc'her">
 
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-
-<!ENTITY  searchInput.label        "Klask">
