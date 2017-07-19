@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Általános">
 
-<!ENTITY accessibility.label             "Kisegítő lehetőségek">
-
 <!ENTITY useCursorNavigation.label       "Kurzorbillentyűk használata az oldalon belüli navigációhoz">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Szöveg keresése a keresett szó beírásának elkezdésétől">
 <!ENTITY searchOnStartTyping.accesskey   "d">
-<!ENTITY blockAutoReload.label           "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
-<!ENTITY blockAutoReload.accesskey       "w">
 <!ENTITY useOnScreenKeyboard.label       "Érintőbillentyűzet megjelenítése, ha szükséges">
 <!ENTITY useOnScreenKeyboard.accesskey   "r">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
-<!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
-<!ENTITY enableHealthReport.accesskey    "b">
+
 <!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
-<!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
-<!ENTITY enableTelemetryData.label       "További adatok (például Telemetria) megosztása">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "További tudnivalók">
 
-<!ENTITY crashReporterDesc2.label         "Az összeomlási jelentések segítenek abban, hogy a &vendorShortName; javítsa a problémákat, és a böngésző stabilabb és biztonságosabb legyen">
-<!ENTITY alwaysSubmitCrashReports.label   "A &brandShortName; a háttérben küldhet összeomlási jelentéseket az Ön nevében">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "További tudnivalók">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "További tudnivalók">
 
 <!ENTITY networkTab.label                "Hálózat">
 
-<!ENTITY connection.label                "Kapcsolat">
 
 <!ENTITY connectionDesc.label            "A &brandShortName; internetkapcsolatának megadása">
 <!ENTITY connectionSettings.label        "Beállítások…">
@@ -113,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Keresőszolgáltatások automatikus frissítése">
 <!ENTITY enableSearchUpdate2.accesskey   "u">
-
-<!ENTITY reports.label                   "Jelentések">
 
 <!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
 <!ENTITY offlineStorageNotify.accesskey           "w">

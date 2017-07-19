@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Találatok">
 <!ENTITY  paneGeneral.title             "Általános">
+<!ENTITY  paneSearch.title              "Keresés">
 <!ENTITY  paneFilesApplications.title   "Fájlok és alkalmazások">
 <!ENTITY  panePrivacySecurity.title     "Adatvédelem és biztonság">
 <!ENTITY  paneContainers.title          "Konténer lapok">
 <!ENTITY  paneUpdates.title             "Frissítések">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox fiók">
 
 <!ENTITY  helpButton2.label        "&brandShortName; támogatás">
-
-<!ENTITY  searchInput.label        "Keresés">

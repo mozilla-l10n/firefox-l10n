@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Beállítások">
 <!ENTITY removeButton.label   "Eltávolítás">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Vissza a privát módba">
 
 <!ENTITY window.title         "Új konténer hozzáadása">
 <!ENTITY window.width         "45em">
