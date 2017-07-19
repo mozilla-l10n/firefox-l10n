@@ -18,7 +18,7 @@
 <!ENTITY engine.addons.accesskey    "t">
 <!-- Device Settings -->
 
-<!ENTITY fxaSyncDeviceName.label       "Rub'i' ri okisaxel:">
+<!ENTITY fxaSyncDeviceName.label       "Rub'i' ri okisaxel">
 <!ENTITY changeSyncDeviceName2.label "Tijal rub'i' okisaxel…">
 <!ENTITY changeSyncDeviceName2.accesskey "j">
 <!ENTITY cancelChangeSyncDeviceName.label "Tiq'at">
@@ -49,7 +49,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Man atikirisan ta molojri'ïl.">
 <!ENTITY signIn.label                "Tatikirisaj molojri'ïl">
 <!ENTITY signIn.accesskey            "t">
-<!ENTITY profilePicture.tooltip      "Tijal ruwachib'äl ruwäch b'i'aj">
+<!ENTITY profilePicture.tooltip      "Tijal ruwachib'al ruwäch b'i'aj">
 <!ENTITY verifiedManage.label        "Tinuk'samajïx rub'i' taqoya'l">
 <!ENTITY verifiedManage.accesskey    "y">
 <!ENTITY disconnect3.label           "Tichup…">
