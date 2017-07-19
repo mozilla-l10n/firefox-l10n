@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Odkryť zvolené zariadenia">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Pripnutá stránka">
+<!ENTITY home_unpinned_site "Odopnutá stránka">
+
 <!ENTITY remote_tabs_panel_moved_title "Kam zmizli moje karty?">
 <!ENTITY remote_tabs_panel_moved_desc "Karty z vašich ďalších zariadení sme presunuli do panela na vašej domovskej stránke, ktorá sa zobrazí zakaždým, keď otvoríte novú kartu.">
 <!ENTITY remote_tabs_panel_moved_link "Prejsť na môj nový panel">
