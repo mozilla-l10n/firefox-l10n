@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Buscador predeterminado">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Seleccione su buscador predeterminado. &brandShortName; lo usa en la barra de direcciones, barra de búsqueda y página de inicio.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Seleccionar el buscador predeterminado para usar en la barra de direcciones y la barra de búsqueda.">
 
 <!ENTITY provideSearchSuggestions.label        "Proveer sugerencias de búsqueda">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones">
+<!ENTITY showURLBarSuggestions2.accesskey       "M">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado &brandShortName; para que nunca recuerde el historial.">
 
 <!ENTITY oneClickSearchEngines.label           "Buscadores con un clic">
 
-<!ENTITY chooseWhichOneToDisplay.label         "La barra de búsqueda permite usar buscadores alternativos directamente. Seleccione cuales se mostrarán.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Seleccionar los buscadores alternativos que aparecen debajo de la barra de direcciones y barra de búsqueda al comenzar a escribir una palabra.">
 
 <!ENTITY engineNameColumn.label                "Buscador">
 <!ENTITY engineKeywordColumn.label             "Palabra clave">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Eliminar">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines2.label           "Agregar más buscadores">
+<!ENTITY findMoreSearchEngines.label           "Agregar más buscadores">
