@@ -44,9 +44,6 @@
   Późne zapisy
 ">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informacje o sesji">
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramy zebrane przez dodatki
-">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   UWAGA: Debugowanie powolnych poleceń SQL jest włączone. Pełne ciągi SQL mogą być widoczne poniżej, ale nie
