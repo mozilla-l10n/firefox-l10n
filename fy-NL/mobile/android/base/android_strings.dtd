@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Selektearre apparaten net ferstopje">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Fêstsette side">
+<!ENTITY home_unpinned_site "Losmakke side">
+
 <!ENTITY remote_tabs_panel_moved_title "Wêr binne myn ljepblêden bleaun?">
 <!ENTITY remote_tabs_panel_moved_desc "Wy hawwe jo ljepblêden fan oare apparaten ferpleatst nei in paniel op jo startside dy’t maklik tagonklik is elke kear as jo in nij ljepblêd iepenje.">
 <!ENTITY remote_tabs_panel_moved_link "Bring my nei myn nije paniel.">
