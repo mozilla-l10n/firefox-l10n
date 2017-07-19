@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "مسدود کردن پنجره‌های بازشو">
 <!ENTITY  blockPopups.accesskey       "م">
 
-<!ENTITY  notificationsPolicy.label            "اعلان‌ها">
 <!ENTITY  notificationsPolicyLearnMore.label   "بیشتر بدانید">
 <!ENTITY  notificationsPolicyDesc3.label       "انتخاب کنید چه سایت‌هایی اجازه دارند به شما اعلان ارسال کنند">
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "رنگها‌...">
 <!ENTITY  colors.accesskey            "ر">
 
-
-<!ENTITY languages.label              "زبان‌ها">
 <!ENTITY chooseLanguage.label         "زبان مورد علاقهٔ خود را برای نمایش صفحات انتخاب کنید">
 <!ENTITY chooseButton.label           "انتخاب…">
 <!ENTITY chooseButton.accesskey       "ا">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "ترجمه با">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "محتوای DRM">
 
-<!ENTITY  playDRMContent.label         "پخش محتوا DRM">
-<!ENTITY  playDRMContent.accesskey     "پ">
+
 <!ENTITY  playDRMContent.learnMore.label "بیشتر بدانید">

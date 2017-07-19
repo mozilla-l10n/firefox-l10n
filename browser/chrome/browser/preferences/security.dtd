@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "امنیت">
 
+
 <!ENTITY  warnOnAddonInstall.label        "در هنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود">
 <!ENTITY  warnOnAddonInstall.accesskey    "د">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

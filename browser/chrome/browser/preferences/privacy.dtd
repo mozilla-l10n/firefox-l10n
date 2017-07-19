@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "تاریخچه">
 <!ENTITY  permissions.label             "مجوزها">
 
-<!ENTITY  locationBar.label             "نوار مکان">
 
-<!ENTITY  locbar.suggest2.label         "هنگام استفاده از نوار مکان، پیشنهاد بده">
 <!ENTITY  locbar.history.label          "تاریخچه">
 <!ENTITY  locbar.history.accesskey      "ت">
 <!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "تنظیمات">
 <!ENTITY  clearOnCloseSettings.accesskey "ت">
 
-<!ENTITY  browserContainersHeader.label         "زبانه‌های حامل">
 <!ENTITY  browserContainersLearnMore.label      "اطلاعات بیشتر">
 <!ENTITY  browserContainersEnabled.label        "فعال‌سازی زبانه‌های حامل">
 <!ENTITY  browserContainersEnabled.accesskey    "ع">
