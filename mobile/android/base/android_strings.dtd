@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ఎంపికైన పరికరాలు కనబరచు">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "పిన్‌చేసిన సైట్">
+<!ENTITY home_unpinned_site "పిన్ తీసిన సైట్">
+
 <!ENTITY remote_tabs_panel_moved_title "నా ట్యాబులు ఎక్కడికి వెళ్ళాయి?">
 <!ENTITY remote_tabs_panel_moved_desc "మేము మీ టాబ్‌లను ఇతర పరికరాలనుండి మీ ముంగిలిపేజీ పైని ప్యానల్‌కు మార్చాము మీరు కొత్త టాబ్ తెరిచిన ప్రతిసారి మీరు వాటిని సులువుగా ఏక్సెస్ చేయవచ్చు.">
 <!ENTITY remote_tabs_panel_moved_link "నన్ను నా కొత్త ప్యానల్‌కు తీసుకుపో.">
