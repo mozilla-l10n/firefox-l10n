@@ -15,14 +15,14 @@
 
 <!ENTITY  paneSearchResults.title       "Hasil Pencarian">
 <!ENTITY  paneGeneral.title             "Umum">
+<!ENTITY  paneSearch.title              "Cari">
 <!ENTITY  paneFilesApplications.title   "Berkas &amp; Aplikasi">
 <!ENTITY  panePrivacySecurity.title     "Privasi &amp; Keamanan">
 <!ENTITY  paneContainers.title          "Tab Kontainer">
 <!ENTITY  paneUpdates.title             "Pemutakhiran">
 
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Akun Firefox">
 
 <!ENTITY  helpButton2.label        "Dukungan &brandShortName;">
-
-<!ENTITY  searchInput.label        "Cari">
