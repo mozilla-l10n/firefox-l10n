@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'">
 
-
+<!ENTITY enableHealthReport1.label       "Tiya' q'ij chi re &brandShortName; richin nitaq pa ruyonil etamatel taq tzij chuqa' jutzijonem rik'in Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
+<!ENTITY dataCollection.label            "&brandShortName; Kimolik chuqa' Kokisaxik taq Tzij">
+<!ENTITY dataCollectionDesc.label        "Niqatïj qaq'ij richin yeqasüj taq cha'oj chawe chuqa' yeqamöl xa xe ri niqajo' niqaq'axaj chawe chuqa' ri niqutzilaj &brandShortName; kichin konojel. Junelïk naqak'utuj qij chuwäch niqak'ül ri awetamab'al.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Rutzijol Ichinanem">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Tiya' q'ij chi re &brandShortName; richin nutäq kitzijol taq k'ayewal chi re Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "k">
 <!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
 
 <!ENTITY networkTab.label                "K'amab'ey">
 
+<!ENTITY networkProxy.label              "Ruproxi K'amab'ey">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 <!ENTITY connectionSettings.label        "Tinuk'…">
