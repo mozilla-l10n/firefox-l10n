@@ -4,15 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Standardna pytawa">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Wubjerće standardnu pytawu, kotraž ma so w adresowym polu a pytanskim polu wužiwać.">
 
 <!ENTITY provideSearchSuggestions.label        "Pytanske namjety podać">
 <!ENTITY provideSearchSuggestions.accesskey    "P">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Pytanske namjety we wuslědkach adresoweho pola pokazać">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Pytanske namjety njebudu so we wuslědkach adresoweho pola pokazać, dokelž sće &brandShortName; tak konfigurował, zo sej ženje historiju njespomjatkuje.">
 
 <!ENTITY oneClickSearchEngines.label           "Pytawy z jednym kliknjenjom">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Wubjerće alternatiwne pytawy, kotrež so pod adresowym polom a pytanskim polom jewja, hdyž klučowe słowo zapodawaće.">
 
 <!ENTITY engineNameColumn.label                "Pytawa">
 <!ENTITY engineKeywordColumn.label             "Klučowe słowo">
@@ -23,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Wotstronić">
 <!ENTITY removeEngine.accesskey                "o">
 
+<!ENTITY findMoreSearchEngines.label           "Dalše pytawy pytać">

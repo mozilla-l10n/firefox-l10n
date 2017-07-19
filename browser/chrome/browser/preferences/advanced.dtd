@@ -40,6 +40,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Syć">
 
+<!ENTITY networkProxy.label              "Syćowy proksy">
 
 <!ENTITY connectionDesc.label            "Konfigurować, kak &brandShortName; ma z internetom zwjazać">
 <!ENTITY connectionSettings.label        "Nastajenja…">
