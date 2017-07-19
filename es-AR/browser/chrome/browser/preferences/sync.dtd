@@ -52,7 +52,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cambiar imagen de perfil">
 <!ENTITY verifiedManage.label        "Administrar cuenta">
 <!ENTITY verifiedManage.accesskey    "u">
-<!ENTITY disconnect3.label           "Desconecte...">
+<!ENTITY disconnect3.label           "Desconectar…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verificar correo">
 <!ENTITY verify.accesskey            "V">
