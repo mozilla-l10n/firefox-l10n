@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Kawaida">
 
-<!ENTITY accessibility.label             "Ufikikaji">
-
 <!ENTITY useCursorNavigation.label       "Kila wakati tumia ufunguo wa mishale kuabiri kwenye kurasa">
 <!ENTITY useCursorNavigation.accesskey   "u">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Hukusaidia kuelewa utendaji wa kivinjari chako na hushirikisha data na &vendorShortName; kuhusu hali ya kivinjari chako">
-<!ENTITY enableHealthReport.label        "Wezesha Ripoti ya Hali ya &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "Hushiriki utendaji, utumizi, maunzi na ugeuzaji wa data kuhusu kivinjari chako na &vendorShortName; ili kutusaidia kufanya &brandShortName; bora">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Mtandao">
 
-<!ENTITY connection.label                "Muunganisho">
 
 <!ENTITY connectionDesc.label            "Sanidi jinsi &brandShortName; inaunganishwa kwenye Wavuti">
 <!ENTITY connectionSettings.label        "Mipangilio…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Tumia huduma ya usuli ili kusakinisha visasisho">
 <!ENTITY useService.accesskey            "s">
-
 
 
 

@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Zuia dirisha ibukizi">
 <!ENTITY  blockPopups.accesskey       "Z">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "Rangi…">
 <!ENTITY  colors.accesskey            "R">
 
-
-<!ENTITY languages.label              "Lugha">
 <!ENTITY chooseLanguage.label         "Chagua lugha unayopendelea ya kuonyesha kurasa">
 <!ENTITY chooseButton.label           "Chagua…">
 <!ENTITY chooseButton.accesskey       "a">
