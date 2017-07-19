@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
 <!ENTITY  blockPopups.accesskey       "Կ">
 
-<!ENTITY  notificationsPolicy.label            "Ծանուցումներ">
 <!ENTITY  notificationsPolicyLearnMore.label   "Իմանալ ավելին">
 <!ENTITY  notificationsPolicyDesc3.label       "Ընտրեք, թե որ կայքերին է թույլատրված ուղարկել ձեզ ծանուցումներ">
 <!ENTITY  notificationsPolicyButton.accesskey  "ն">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Գույներ…">
 <!ENTITY  colors.accesskey            "Գ">
 
-
-<!ENTITY languages.label              "Լեզուներ">
 <!ENTITY chooseLanguage.label         "Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար">
 <!ENTITY chooseButton.label           "Ընտրել…">
 <!ENTITY chooseButton.accesskey       "տ">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Թարգմանել է՝">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM բովանդակություն">
 
-<!ENTITY  playDRMContent.label         "Նվագարկել DRM բովանդակություն">
-<!ENTITY  playDRMContent.accesskey     "Ն">
+
 <!ENTITY  playDRMContent.learnMore.label "Իմանալ ավելին">

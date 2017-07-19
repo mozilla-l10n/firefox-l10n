@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Նախընտրություններ">
 <!ENTITY removeButton.label   "Հեռացնել">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Հետ Գաղտնիությանը">
 
 <!ENTITY window.title         "Ավելացնել նոր պարունակ">
 <!ENTITY window.width         "45em">

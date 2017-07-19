@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Անվտանգուրյուն">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Զգուշացնել, երբ կայքերը փորձում են տեղադրել հավելումներ">
 <!ENTITY  warnOnAddonInstall.accesskey    "Զ">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

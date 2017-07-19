@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Հիմնական որոնիչը">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Ընտրեք հիմնական որոնիչը: &brandShortName;-ը այն օգտագործում է հասցեի տողում, որոնման վահանակում և մեկնարկային էջում:">
 
 <!ENTITY provideSearchSuggestions.label        "Ցուցադրել որոնման հուշումներ">
 <!ENTITY provideSearchSuggestions.accesskey    "ո">
 
-<!ENTITY showURLBarSuggestions.label           "Ցուցադրել որոնման առաջարկություններ տեղադրության գոտու արդյունքներում">
-<!ENTITY showURLBarSuggestions.accesskey       "տ">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Որոնման առաջարկությունները չեն ցուցադրվի գտնման վայրի տողի արդյունքներում, քանի որ դուք կազմաձևել եք &brandShortName;-ը, որ երբեք չհիշի պատմությունը։">
 
 <!ENTITY oneClickSearchEngines.label           "Մեկ սեղմամբ որոնիչներ">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Որոնման վահանակը հնարավորություն է տալիս փնտրել տարբեր որոնիչներով:">
 
 <!ENTITY engineNameColumn.label                "Որոնիչներ">
 <!ENTITY engineKeywordColumn.label             "Հիմնաբառ">
@@ -26,4 +23,3 @@
 <!ENTITY removeEngine.label                    "Հեռացնել">
 <!ENTITY removeEngine.accesskey                "Հ">
 
-<!ENTITY addMoreSearchEngines2.label           "Ավելացնել որոնիչներ">
