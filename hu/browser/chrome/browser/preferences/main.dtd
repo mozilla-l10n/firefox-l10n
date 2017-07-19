@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
 <!ENTITY startupPrevSession.label  "A legutóbbi ablakok és lapok megjelenítése">
 
-<!ENTITY homepage2.label           "Kezdőlap">
-<!ENTITY homepage2.accesskey       "K">
+
 <!ENTITY useCurrentPage.label      "Aktuális oldal használata">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktuális oldalak használata">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Mindig ellenőrizze, hogy a &brandShortName;-e az alapértelmezett böngésző">
 <!ENTITY alwaysCheckDefault2.accesskey    "M">
-<!ENTITY setAsMyDefaultBrowser2.label     "Legyen alapértelmezett">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+
+
 <!ENTITY isDefault.label                  "Jelenleg a &brandShortName; az alapértelmezett böngésző.">
 <!ENTITY isNotDefault.label               "A &brandShortName; nem az alapértelmezett böngésző">
 

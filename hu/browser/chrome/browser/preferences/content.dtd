@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Felugró ablakok tiltása">
 <!ENTITY  blockPopups.accesskey       "F">
 
-<!ENTITY  notificationsPolicy.label            "Értesítések">
 <!ENTITY  notificationsPolicyLearnMore.label   "További tudnivalók">
 <!ENTITY  notificationsPolicyDesc3.label       "Válassza ki, mely oldalak küldhetnek értesítéseket">
 <!ENTITY  notificationsPolicyButton.accesskey  "T">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Színek…">
 <!ENTITY  colors.accesskey            "z">
 
-
-<!ENTITY languages.label              "Nyelvek">
 <!ENTITY chooseLanguage.label         "Az oldalak megjelenítésére előnyben részesített nyelv megadása">
 <!ENTITY chooseButton.label           "Tallózás…">
 <!ENTITY chooseButton.accesskey       "T">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Fordítás:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM tartalom">
 
-<!ENTITY  playDRMContent.label         "DRM tartalom lejátszása">
-<!ENTITY  playDRMContent.accesskey     "D">
+
 <!ENTITY  playDRMContent.learnMore.label "További tudnivalók">

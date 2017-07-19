@@ -31,7 +31,6 @@
 <!ENTITY  history.label                 "Előzmények">
 
 
-<!ENTITY  locationBar.label             "Címsáv">
 
 <!ENTITY  locbar.history.label          "Előzmények">
 <!ENTITY  locbar.history.accesskey      "E">
@@ -104,7 +103,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Beállítások…">
 <!ENTITY  clearOnCloseSettings.accesskey "B">
 
-<!ENTITY  browserContainersHeader.label         "Konténer lapok">
 <!ENTITY  browserContainersLearnMore.label      "További tudnivalók">
 <!ENTITY  browserContainersEnabled.label        "Konténer lapok engedélyezése">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
