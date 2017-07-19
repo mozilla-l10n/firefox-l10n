@@ -31,6 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "કોરીયનસ">
 <!ENTITY  font.langGroup.cyrillic                 "સીરીલીક">
 <!ENTITY  font.langGroup.el                       "ગ્રીક">
+<!ENTITY  font.langGroup.other                    "અન્ય લેખન ગોઠવણો">
 <!ENTITY  font.langGroup.thai                     "થાઈ">
 <!ENTITY  font.langGroup.hebrew                   "હિબ્રુ">
 <!ENTITY  font.langGroup.arabic                   "અરેબીક">
@@ -45,6 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "ગુરુમુખી">
 <!ENTITY  font.langGroup.khmer                    "ખમેર">
 <!ENTITY  font.langGroup.malayalam                "મલયાલમ">
+<!ENTITY  font.langGroup.math                     "ગણિતશાસ્ત્ર">
+<!ENTITY  font.langGroup.odia                     "ઉડિયા">
 <!ENTITY  font.langGroup.telugu                   "તેલુગુ">
 <!ENTITY  font.langGroup.kannada                  "કન્નડ">
 <!ENTITY  font.langGroup.sinhala                  "સિંહાલા">
@@ -58,7 +61,13 @@
 <!ENTITY  useDefaultFontSerif.label               "શેરીફ">
 <!ENTITY  useDefaultFontSansSerif.label           "સાન્સ શેરીફ">
 
+<!ENTITY  allowPagesToUseOwn.label                "ઉપરોક્ત તમારી પસંદગીઓને બદલે પાનાને પોતાના ફોન્ટ્સ પસંદ કરવાની મંજૂરી આપો">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "વસિયત સામગ્રી માટે ટેક્સ્ટ એન્કોડિંગ">
+<!ENTITY languages.customize.Fallback2.label      "ફોલબેક ટેક્સ્ટ એન્કોડિંગ:">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "આ ટેક્સ્ટ એન્કોડિંગનો ઉપયોગ વસિયત સામગ્રી માટે થાય છે જે તેના એન્કોડિંગને જાહેર કરવામાં નિષ્ફળ જાય છે.">
 
 <!ENTITY languages.customize.Fallback.auto        "વર્તમાન લોકેલ માટે મૂળભૂત">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
