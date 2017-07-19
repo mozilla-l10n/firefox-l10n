@@ -15,14 +15,14 @@
 
 <!ENTITY  paneSearchResults.title       "搜尋結果">
 <!ENTITY  paneGeneral.title             "一般">
+<!ENTITY  paneSearch.title              "搜尋">
 <!ENTITY  paneFilesApplications.title   "檔案與應用程式">
 <!ENTITY  panePrivacySecurity.title     "隱私權與安全性">
 <!ENTITY  paneContainers.title          "容器分頁">
 <!ENTITY  paneUpdates.title             "更新">
 
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox 帳號">
 
 <!ENTITY  helpButton2.label        "&brandShortName; 技術支援">
-
-<!ENTITY  searchInput.label        "搜尋">
