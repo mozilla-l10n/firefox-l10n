@@ -4,7 +4,6 @@
 
 <!ENTITY defaultSearchEngine.label             "मुळावे सोद इंजिन">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "तुमचे मुळावे सोद इंजिन निवडात. &brandShortName; ते थळ पट्टी, सोद पट्टी, आनी सुरवेच्या पानान वापरता.">
 
 <!ENTITY provideSearchSuggestions.label        "सोद सुचोवण्यो दियात">
 <!ENTITY provideSearchSuggestions.accesskey    "स">
@@ -13,7 +12,6 @@
 
 
 
-<!ENTITY chooseWhichOneToDisplay.label         "सोद पट्टी तुमका थेट वैकल्पिक इंजिनां सोदपाक दिता. खंयचे दाखोवपाचे ते निवडात.">
 
 <!ENTITY engineNameColumn.label                "सोद इंजिन">
 <!ENTITY engineKeywordColumn.label             "कीवर्ड">

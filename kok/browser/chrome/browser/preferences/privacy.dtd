@@ -27,7 +27,6 @@
 <!ENTITY  history.label                 "इतिहास">
 
 
-<!ENTITY  locationBar.label             "थळ पट्टी">
 
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -98,7 +97,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "मांडावळी…">
 <!ENTITY  clearOnCloseSettings.accesskey "ड">
-
 
 
 

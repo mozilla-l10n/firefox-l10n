@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "पॉप अप जनेलां आडयात">
 <!ENTITY  blockPopups.accesskey       "B">
-
 
 
 
@@ -29,8 +27,6 @@
 <!ENTITY  colors.label                "रंग...">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "भासो">
 <!ENTITY chooseLanguage.label         "पानांचें प्रदर्शन करूंक तुमची आवडीची भास निवडची">
 <!ENTITY chooseButton.label           "निवडचें...">
 <!ENTITY chooseButton.accesskey       "व">
