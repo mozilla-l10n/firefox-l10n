@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Moteurs de recherche accessibles en un clic">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Sélectionnez les moteurs de recherche alternatifs qui apparaissent sous la barre d’adresse et la barre de recherche lorsque vous commencez à saisir un mot-clé.">
 
 <!ENTITY engineNameColumn.label                "Moteur de recherche">
 <!ENTITY engineKeywordColumn.label             "Mot-clé">
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Supprimer">
 <!ENTITY removeEngine.accesskey                "S">
 
+<!ENTITY findMoreSearchEngines.label           "Découvrir d’autres moteurs de recherche">
