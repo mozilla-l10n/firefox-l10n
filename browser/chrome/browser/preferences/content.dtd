@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Blochează ferestrele pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Notificări">
 <!ENTITY  notificationsPolicyLearnMore.label   "Află mai multe">
 <!ENTITY  notificationsPolicyDesc3.label       "Alege ce site-uri au permisiunea de a-ți trimite notificări">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Culori…">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "Limbi">
 <!ENTITY chooseLanguage.label         "Alege limba în care preferi să vezi paginile">
 <!ENTITY chooseButton.label           "Alege…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduceri de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Conținut DRM">
 
-<!ENTITY  playDRMContent.label         "Redă conținut DRM">
-<!ENTITY  playDRMContent.accesskey     "P">
+
 <!ENTITY  playDRMContent.learnMore.label "Află mai multe">

@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accesibilitate">
-
 <!ENTITY useCursorNavigation.label       "Folosește întotdeauna săgețile pentru a naviga în pagini">
 <!ENTITY useCursorNavigation.accesskey   "F">
 <!ENTITY searchOnStartTyping.label       "Caută textul când încep să tastez">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avertizează când site-urile web încearcă să redirecționeze sau să reîncarce pagina">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Arată o tastatură tactilă când este necesar">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța browserului și împărtășește date cu &vendorShortName; privind stabilitatea browserului">
-<!ENTITY enableHealthReport.label        "Activează raportul de stare &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
-<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex., Telemetrie)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Află mai multe">
 
-<!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
-<!ENTITY alwaysSubmitCrashReports.label   "Permite &brandShortName; să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Află mai multe">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Află mai multe">
 
 <!ENTITY networkTab.label                "Rețea">
 
-<!ENTITY connection.label                "Conexiune">
 
 <!ENTITY connectionDesc.label            "Configurează modul în care &brandShortName; se conectează la internet">
 <!ENTITY connectionSettings.label        "Setări…">
@@ -113,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualizează automat motoarele de căutare">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Rapoarte">
 
 <!ENTITY offlineStorageNotify.label               "Spune-mi când un site solicită să stocheze date pentru utilizarea offline">
 <!ENTITY offlineStorageNotify.accesskey           "t">

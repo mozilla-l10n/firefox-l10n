@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Securitate">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Avertizează atunci când site-urile încearcă să instaleze file">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
