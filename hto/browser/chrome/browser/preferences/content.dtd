@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Eroirafo zúiya ɨ́bai">
 <!ENTITY  blockPopups.accesskey       "E">
 
-<!ENTITY  notificationsPolicy.label            "Ráfue yote">
 <!ENTITY  notificationsPolicyLearnMore.label   "Aiyo ráfue">
 <!ENTITY  notificationsPolicyDesc3.label       "Íyano nɨze ráfue óreyena">
 <!ENTITY  notificationsPolicyButton.accesskey  "z">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "jideriya...">
 <!ENTITY  colors.accesskey            "j">
 
-
-<!ENTITY languages.label              "Úaido">
 <!ENTITY chooseLanguage.label         "Ñúe úiado nɨze web jenoyena">
 <!ENTITY chooseButton.label           "Nɨzede...">
 <!ENTITY chooseButton.accesskey       "z">
@@ -52,6 +48,5 @@
 <!ENTITY translation.options.attribution.afterLogo ".">
 
 
-<!ENTITY  playDRMContent.label         "Ráa ofítaɨra DRM jóne">
-<!ENTITY  playDRMContent.accesskey     "R">
+
 <!ENTITY  playDRMContent.learnMore.label "Aiyo onóde">

@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "Jagaɨ">
 
 
-<!ENTITY  locationBar.label             "Radozɨ íyano">
 
 <!ENTITY  locbar.history.label          "Jagaɨ">
 <!ENTITY  locbar.history.accesskey      "J">
@@ -100,7 +99,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Abɨdo  fɨnoka...">
 <!ENTITY  clearOnCloseSettings.accesskey "A">
-
 
 
 

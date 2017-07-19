@@ -6,10 +6,6 @@
 
 <!ENTITY generalTab.label                "Nána">
 
-<!ENTITY accessibility.label             "Jáitɨkue izoide">
-
-
-
 
 
 
@@ -33,10 +29,6 @@ available. -->
 
 
 
-<!ENTITY telemetryDesc.label             "Fekayena taɨjɨe, hardware  kúe dáma ráa makara biedo &vendorShortName; kái kánoyena &brandShortName; ñúera">
-
-
-
 
 
 
@@ -44,7 +36,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Fóikui">
 
-<!ENTITY connection.label                "Nítaoide">
 
 <!ENTITY connectionSettings.label        "Abɨdo  fɨnoka...">
 <!ENTITY connectionSettings.accesskey    "A">
@@ -85,7 +76,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
