@@ -29,9 +29,12 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "進行編譯設定時，已停用了資料回報功能">
 
+<!ENTITY enableHealthReport1.label       "允許 &brandShortName; 自動傳送技術與互動資料給 Mozilla">
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "更多資訊">
 
+<!ENTITY dataCollection.label            "&brandShortName; 資料收集與使用">
+<!ENTITY dataCollectionDesc.label        "我們致力於提供您選擇，也只會收集我們在提供與改善 &brandShortName; 時所必需的資料。我們也一定會經過您的同意才收集您的個人資訊。">
 <!ENTITY dataCollectionPrivacyNotice.label    "隱私權公告">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "允許 &brandShortName; 傳送錯誤回報給 Mozilla">

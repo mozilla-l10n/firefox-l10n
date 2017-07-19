@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "瀏覽紀錄">
 <!ENTITY  permissions.label             "權限">
 
-<!ENTITY  locationBar.label             "網址列">
-
-<!ENTITY  locbar.suggest2.label         "使用網址列時，建議">
+<!ENTITY  addressBar.label              "網址列">
+<!ENTITY  addressBar.suggest.label      "在使用網址列時提供建議">
 <!ENTITY  locbar.history.label          "瀏覽紀錄">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "書籤">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "設定…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "容器分頁">
 <!ENTITY  browserContainersLearnMore.label      "詳細資訊">
 <!ENTITY  browserContainersEnabled.label        "開啟容器分頁">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

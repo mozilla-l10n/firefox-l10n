@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "偏好設定">
 <!ENTITY removeButton.label   "移除">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; 回到隱私權">
+<!ENTITY backLink2.label      "&#171; 返回">
 
 <!ENTITY window.title         "新增容器">
 <!ENTITY window.width         "45em">
