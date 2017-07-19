@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Man ke\u0027ewäx chik ri ewan taq okisaxel">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Jikib\u0027an ruxaq k\u0027amaya\u0027l">
+<!ENTITY home_unpinned_site "Man jikib\u0027an ta ruxaq k\u0027amaya\u0027l">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Ri taq nuwi\u0027 k\u0027a?">
 <!ENTITY remote_tabs_panel_moved_desc "Xeqasiloj el ri taq ruwi\u0027 kichin ch\u0027aqa\u0027 chik taq okisaxel pa jun pas pa ri ruxaq atikirib\u0027al, achoj chupam chanin xkatok toq xtajaqala\u0027 jun k\u0027ak\u0027a\u0027 ruwi\u0027.">
