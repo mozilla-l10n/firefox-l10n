@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Serĉrezultoj">
 <!ENTITY  paneGeneral.title             "Ĉefaj">
+<!ENTITY  paneSearch.title              "Serĉi">
 <!ENTITY  paneFilesApplications.title   "Dosieroj kaj programoj">
 <!ENTITY  panePrivacySecurity.title     "Privateco kaj sekureco">
 <!ENTITY  paneContainers.title          "Ingaj langetoj">
 <!ENTITY  paneUpdates.title             "Ĝisdatigoj">
 
+<!ENTITY  languageAndAppearance.label   "Lingvo kaj aspekto">
+<!ENTITY  filesAndApplications.label    "Dosieroj kaj programoj">
+<!ENTITY  browserPrivacy.label          "Retumila privateco">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Konto de Firefox">
 
 <!ENTITY  helpButton2.label        "Helpo pri &brandShortName;">
-
-<!ENTITY  searchInput.label        "Serĉi">

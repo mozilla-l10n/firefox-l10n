@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Ĝenerala">
 
-<!ENTITY accessibility.label             "Alirebleco">
-
 <!ENTITY useCursorNavigation.label       "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
 <!ENTITY useCursorNavigation.accesskey   "m">
 <!ENTITY searchOnStartTyping.label       "Serĉi tekston kiam vi ektajpas">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Averti min kiam retejoj provas redirekti aŭ reŝargi la paĝon">
-<!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Montri tuŝklavaron se necesas">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "La raporto de datumoj estas malŝaltita pro la agordoj de konstruo">
 
-<!ENTITY healthReportDesc.label          "Tiu raporto helpas vin kompreni la efikecon de via retumilo kaj dividas datumojn kun &vendorShortName; pri la sano de via retumilo">
-<!ENTITY enableHealthReport.label        "Aktivigi la sanraporton de &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "Permesi al &brandShortName; aŭtomate sendi teĥnikajn kaj interagajn datumojn al Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "A">
 <!ENTITY healthReportLearnMore.label     "Pli da informo">
 
-<!ENTITY telemetryDesc.label             "Tio dividas kun &vendorShortName; datumojn pri efikeco, uzado, aparataro kaj personaj agordoj de via restesplorilo, por helpi nin plibonigi &brandShortName;.">
-<!ENTITY enableTelemetryData.label       "Dividi aldonajn datumojn (ekzemple telemezuro)">
-<!ENTITY enableTelemetryData.accesskey   "D">
-<!ENTITY telemetryLearnMore.label        "Pli da informo">
+<!ENTITY dataCollection.label            "Kolekto kaj uzo de datumojn de &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi &brandShortName; por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Rimarko pri privateco">
 
-<!ENTITY crashReporterDesc2.label         "La raportoj pri paneoj helpas &vendorShortName; solvi problemojn kaj igi vian retumilon pli stabila kaj sekura">
-<!ENTITY alwaysSubmitCrashReports.label   "Permesi al &brandShortName; sendi nome via antaŭe registritajn raportojn pri paneo">
-<!ENTITY alwaysSubmitCrashReports.accesskey "P">
-<!ENTITY crashReporterLearnMore.label     "Pli da informo">
+<!ENTITY alwaysSubmitCrashReports1.label  "Permesi al &brandShortName; sendi al Mozilla raportojn pri paneo">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "p">
+<!ENTITY crashReporterLearnMore.label    "Pli da informo">
 
 <!ENTITY networkTab.label                "Reto">
 
-<!ENTITY connection.label                "Konektado">
+<!ENTITY networkProxy.label              "Retperanto">
 
 <!ENTITY connectionDesc.label            "Agordi la manieron kiel &brandShortName; konektiĝas al la reto">
 <!ENTITY connectionSettings.label        "Agordoj…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Aŭtomate ĝisdatigi serĉilojn">
 <!ENTITY enableSearchUpdate2.accesskey   "t">
-
-<!ENTITY reports.label                   "Raportoj">
 
 <!ENTITY offlineStorageNotify.label               "Diri al mi kiam retejoj petas konservi datumojn por uzi malkonektite">
 <!ENTITY offlineStorageNotify.accesskey           "r">
