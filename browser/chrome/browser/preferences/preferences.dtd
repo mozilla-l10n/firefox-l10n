@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Αποτελέσματα αναζήτησης">
 <!ENTITY  paneGeneral.title             "Γενικά">
+<!ENTITY  paneSearch.title              "Αναζήτηση">
 <!ENTITY  paneFilesApplications.title   "Αρχεία &amp; εφαρμογές">
 <!ENTITY  panePrivacySecurity.title     "Απόρρητο &amp; ασφάλεια">
 <!ENTITY  paneContainers.title          "Θεματικές καρτέλες">
 <!ENTITY  paneUpdates.title             "Ενημερώσεις">
 
+<!ENTITY  languageAndAppearance.label   "Γλώσσα και εμφάνιση">
+<!ENTITY  filesAndApplications.label    "Αρχεία και εφαρμογές">
+<!ENTITY  browserPrivacy.label          "Απόρρητο προγράμματος περιήγησης">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Λογαριασμός Firefox">
 
 <!ENTITY  helpButton2.label        "Υποστήριξη &brandShortName;">
-
-<!ENTITY  searchInput.label        "Αναζήτηση">
