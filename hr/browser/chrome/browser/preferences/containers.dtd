@@ -7,7 +7,6 @@
 
 
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Idi nazad na Privatnost">
 
 <!ENTITY window.title         "Dodaj novi spremnik">
 <!ENTITY window.width         "45em">

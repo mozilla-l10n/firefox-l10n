@@ -31,8 +31,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Uvijek provjeri je li &brandShortName; zadani preglednik">
 <!ENTITY alwaysCheckDefault2.accesskey    "z">
-<!ENTITY setAsMyDefaultBrowser2.label     "Označi zadanim">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "z">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; je trenutno vaš zadani preglednik">
 <!ENTITY isNotDefault.label               "&brandShortName; trenutno nije vaš zadani preglednik">
 

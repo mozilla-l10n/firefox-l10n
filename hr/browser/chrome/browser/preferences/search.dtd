@@ -4,17 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "Zadana tražilica">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Odaberite vašu zadanu tražilicu. &brandShortName; je koristi u lokacijskoj traci, traci pretraživanja i početnoj stranici.">
 
 <!ENTITY provideSearchSuggestions.label        "Prikaži prijedloge pretraživanja">
 <!ENTITY provideSearchSuggestions.accesskey    "P">
 
-<!ENTITY showURLBarSuggestions.label           "Prikaži prijedloge pretraživanja među rezultatima lokacijskoj traci">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili &brandShortName; da ne pamti povijest.">
 
 
-<!ENTITY chooseWhichOneToDisplay.label         "Traka pretraživanja vam omogućava izravno korištenje tražilica. Odaberite one koje želite da budu prikazane.">
 
 <!ENTITY engineNameColumn.label                "Pretraživač">
 <!ENTITY engineKeywordColumn.label             "Ključna riječ">

@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Blokiraj skočne prozore">
 <!ENTITY  blockPopups.accesskey       "s">
 
-<!ENTITY  notificationsPolicy.label            "Obavijesti">
 <!ENTITY  notificationsPolicyLearnMore.label   "Saznajte više">
 <!ENTITY  notificationsPolicyDesc3.label       "Odaberite koje stranice mogu slati obavijesti">
 <!ENTITY  notificationsPolicyButton.accesskey  "O">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "Boje...">
 <!ENTITY  colors.accesskey            "B">
 
-
-<!ENTITY languages.label              "Jezici">
 <!ENTITY chooseLanguage.label         "Odaberite jezik za prikazivanje stranica">
 <!ENTITY chooseButton.label           "Odabir…">
 <!ENTITY chooseButton.accesskey       "d">
@@ -52,6 +48,5 @@
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
-<!ENTITY  playDRMContent.label         "Reproduciraj DRM sadržaj">
-<!ENTITY  playDRMContent.accesskey     "p">
+
 <!ENTITY  playDRMContent.learnMore.label "Saznajte više">
