@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Prawa">
 
-<!ENTITY  locationBar.label             "Adresowe polo">
 
-<!ENTITY  locbar.suggest2.label         "Při wužiwanju adresoweho pola ma so namjetować">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Zapołožki">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastajenja…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
 
-<!ENTITY  browserContainersHeader.label         "Kontejnerowe rajtarki">
 <!ENTITY  browserContainersLearnMore.label      "Dalše informacije">
 <!ENTITY  browserContainersEnabled.label        "Kontejnerowe rajtarki zmóžnić">
 <!ENTITY  browserContainersEnabled.accesskey    "m">
