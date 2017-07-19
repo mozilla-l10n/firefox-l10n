@@ -295,6 +295,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "คัดลอก URL แล้ว">
 
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "สตรีมกิจกรรม">
 <!ENTITY pref_activity_stream_summary "ฟีดประวัติแบบเห็นภาพและหน้าแรกโฉมใหม่ทำให้คุณมองหาสิ่งที่ต้องการใน &brandShortName; ได้ง่ายกว่าที่เคย">
@@ -621,6 +622,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "เลิกซ่อนอุปกรณ์ที่เลือก">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "ปักหมุดไซต์แล้ว">
+<!ENTITY home_unpinned_site "ถอดหมุดไซต์แล้ว">
 
 <!ENTITY remote_tabs_panel_moved_title "แท็บของฉันไปอยู่ที่ไหน?">
 <!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่น ๆ ไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
