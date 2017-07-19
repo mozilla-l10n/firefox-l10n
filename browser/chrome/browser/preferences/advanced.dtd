@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Okuvamile">
 
-<!ENTITY accessibility.label             "Ukungena kulo">
-
 <!ENTITY useCursorNavigation.label       "Makuhlalwe kusetshenziswa izinkinobho zesikhombisi ekuzuleni kumakhasi">
 <!ENTITY useCursorNavigation.accesskey   "z">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Ikusiza ukuthi uqonde ukusebenza kwesibuki sakho futhi yabela idatha ne-&vendorShortName; mayelana nokuphila kwesibuki sakho">
-<!ENTITY enableHealthReport.label        "Nika amandla Umbiko wezempilo we-&brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "e">
 
-
-<!ENTITY telemetryDesc.label             "Yabelana ngokusebenza, ukusetshenziswa, ingxenyekazi nedatha yokwenza ngezifiso mayelana nesibukisi sakho ne-&vendorShortName; ukusisiza ukwenza i-&brandShortName; ibengcono">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
-<!ENTITY connection.label                "Ukuxhuma">
 
 <!ENTITY connectionDesc.label            "Misa indlela yokuthi i-&brandShortName; ixhumeka kanjani ku-inthanethi">
 <!ENTITY connectionSettings.label        "Izilungiselelo…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva">
 <!ENTITY useService.accesskey            "y">
-
 
 
 
