@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Tèarainteachd">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Thoir rabhadh nuair a dh’fheuchas làraichean ri tuilleadan a stàladh">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

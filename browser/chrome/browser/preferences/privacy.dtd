@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Eachdraidh">
 <!ENTITY  permissions.label             "Ceadan">
 
-<!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
-<!ENTITY  locbar.suggest2.label         "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh">
 <!ENTITY  locbar.history.label          "Eachdraidh">
 <!ENTITY  locbar.history.accesskey      "h">
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Roghainnean…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">
 
-<!ENTITY  browserContainersHeader.label         "Tabaichean soithich">
 <!ENTITY  browserContainersLearnMore.label      "Barrachd fiosrachaidh">
 <!ENTITY  browserContainersEnabled.label        "Cuir an comas tabaichean soithich">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

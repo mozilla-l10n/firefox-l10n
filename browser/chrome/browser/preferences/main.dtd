@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupPrevSession.label  "Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh">
 
-<!ENTITY homepage2.label           "An duilleag-dhachaigh">
-<!ENTITY homepage2.accesskey       "A">
+
 <!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Dèan cinnteach an-còmhnaidh an e &brandShortName; fhèin do roghainn brabhsair">
 <!ENTITY alwaysCheckDefault2.accesskey    "D">
-<!ENTITY setAsMyDefaultBrowser2.label     "Cleachd mar am brabhsair bunaiteach">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "b">
+
+
 <!ENTITY isDefault.label                  "'S e &brandShortName; am brabhsair bunaiteach agad an-dràsta">
 <!ENTITY isNotDefault.label               "Chan e &brandShortName; am brabhsair bunaiteach agad an-dràsta">
 
