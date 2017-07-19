@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Kakaretšo">
 
-<!ENTITY accessibility.label             "Phihlelelo">
-
 <!ENTITY useCursorNavigation.label       "Ka mehla diriša dinotlelo tša khesa go sepela-sepela ka gare ga matlakala">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "E go thuša go kwešiša tsela yeo praosara ya gago e šomago ka yona le go abelana tsebišo le &vendorShortName; ka ga boemo bja tša maphelo bja praosara ya gago">
-<!ENTITY enableHealthReport.label        "Dumelela pego ya tša maphelo ya &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "e">
 
-
-<!ENTITY telemetryDesc.label             "E abelana tsela ya go šoma, tirišo, tsebišo ya hatewere le ya tlwaelantšo ka ga praosara ya gago le &vendorShortName; go thuša go dira gore &brandShortName; e be kaone">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Neteweke">
 
-<!ENTITY connection.label                "Kgokaganyo">
 
 <!ENTITY connectionDesc.label            "Kopanya kamoo &brandShortName; e kgokaganyago le inthanete">
 <!ENTITY connectionSettings.label        "Dipeakanyo…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Diriša tirelo ya bokamorago gore o lokele dimpshafatšo">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
