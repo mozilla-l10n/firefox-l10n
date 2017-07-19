@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "取消隱藏選擇的裝置">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "已釘選網站">
+<!ENTITY home_unpinned_site "已取消釘選網站">
+
 <!ENTITY remote_tabs_panel_moved_title "我的分頁跑去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "我們將您其他裝置中開啟的分頁移到首頁中的面板，這樣您可以在開啟新分頁後快速開啟那些分頁。">
 <!ENTITY remote_tabs_panel_moved_link "帶我到我的新面板那兒去。">
