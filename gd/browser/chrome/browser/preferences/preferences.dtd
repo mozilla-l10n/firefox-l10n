@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Toraidhean luirg">
 <!ENTITY  paneGeneral.title             "Coitcheann">
+<!ENTITY  paneSearch.title              "Lorg">
 <!ENTITY  paneFilesApplications.title   "Faidhlichean ⁊ aplacaidean">
 <!ENTITY  panePrivacySecurity.title     "Prìobhaideachd ⁊ tèarainteachd">
 <!ENTITY  paneContainers.title          "Tabaichean soithich">
 <!ENTITY  paneUpdates.title             "Ùrachaidhean">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cunntas Firefox">
 
 <!ENTITY  helpButton2.label        "Taic le &brandShortName;">
-
-<!ENTITY  searchInput.label        "Lorg">

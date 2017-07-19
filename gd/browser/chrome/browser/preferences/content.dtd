@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Cuir bacadh air priob-uinneagan">
 <!ENTITY  blockPopups.accesskey       "b">
 
-<!ENTITY  notificationsPolicy.label            "Brathan">
 <!ENTITY  notificationsPolicyLearnMore.label   "Barrachd fiosrachaidh">
 <!ENTITY  notificationsPolicyDesc3.label       "Tagh na làraichean aig a bheil cead brathan a chur thugad">
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Dathan…">
 <!ENTITY  colors.accesskey            "D">
 
-
-<!ENTITY languages.label              "Cànain">
 <!ENTITY chooseLanguage.label         "Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan">
 <!ENTITY chooseButton.label           "Tagh…">
 <!ENTITY chooseButton.accesskey       "a">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "An t-eadar-theangachadh le">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Susbaint DRM">
 
-<!ENTITY  playDRMContent.label         "Cluich an t-susbaint DRM">
-<!ENTITY  playDRMContent.accesskey     "t">
+
 <!ENTITY  playDRMContent.learnMore.label "Barrachd fiosrachaidh">

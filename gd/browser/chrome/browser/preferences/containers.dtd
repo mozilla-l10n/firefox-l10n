@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Roghainnean">
 <!ENTITY removeButton.label   "Thoir air falbh">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Till gu na roghainnean prìobhaideachd">
 
 <!ENTITY window.title         "Cuir soitheach ùr ris">
 <!ENTITY window.width         "50em">
