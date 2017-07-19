@@ -20,9 +20,9 @@
 <!ENTITY  paneContainers.title          "แท็บแยกข้อมูล">
 <!ENTITY  paneUpdates.title             "อัปเดต">
 
+<!ENTITY  filesAndApplications.label    "ไฟล์และแอปพลิเคชัน">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "บัญชี Firefox">
 
 <!ENTITY  helpButton2.label        "การสนับสนุนของ &brandShortName;">
-
-<!ENTITY  searchInput.label        "ค้นหา">
