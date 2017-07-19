@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "Natab'äl">
 <!ENTITY  permissions.label             "Taq ya'oj q'ij">
 
-
+<!ENTITY  addressBar.label              "Kikajtz'ik Ochochib'äl">
+<!ENTITY  addressBar.suggest.label      "Jampe' toq nawokisaj ri rukajtz'ik ochochib'äl, tichilab'ëx">
 <!ENTITY  locbar.history.label          "Natab'äl">
 <!ENTITY  locbar.history.accesskey      "N">
 <!ENTITY  locbar.bookmarks.label        "Taq etal">

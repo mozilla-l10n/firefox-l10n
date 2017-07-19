@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Ajk'wayöl taq ruwi'">
 <!ENTITY  paneUpdates.title             "Taq K'exoj">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Ch'ab'äl chuqa' Rutzub'al">
+<!ENTITY  filesAndApplications.label    "Taq Yakb'äl chuqa' taq Chokoy">
+<!ENTITY  browserPrivacy.label          "Richinanem Okik'amaya'l">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Rub'i' rutaqoya'l Firefox">

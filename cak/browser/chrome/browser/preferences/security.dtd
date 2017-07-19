@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Jikomal">
-
+<!ENTITY  phishingProtection.label       "Chajinïk chuwäch K'exonel">
 
 <!ENTITY  warnOnAddonInstall.label        "Taya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">

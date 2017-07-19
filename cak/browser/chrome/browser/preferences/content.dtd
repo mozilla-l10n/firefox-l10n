@@ -54,5 +54,6 @@
 
 <!ENTITY  drmContent2.label              "Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam">
 
-
+<!ENTITY  playDRMContent2.label          "Titzij DRM-chajin rupam">
+<!ENTITY  playDRMContent2.accesskey      "T">
 <!ENTITY  playDRMContent.learnMore.label "Tetamäx ch'aqa' chik">
