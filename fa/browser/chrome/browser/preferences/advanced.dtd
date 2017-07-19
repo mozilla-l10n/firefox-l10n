@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "عمومی">
 
-<!ENTITY accessibility.label             "دسترسی‌پذیری">
-
 <!ENTITY useCursorNavigation.label       "در مرور صفحات همیشه از مکان‌نما استفاده شود">
 <!ENTITY useCursorNavigation.accesskey   "ص">
 <!ENTITY searchOnStartTyping.label       "هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود">
 <!ENTITY searchOnStartTyping.accesskey   "ج">
-<!ENTITY blockAutoReload.label           "هنگامی که پایگاه‌های اینترنتی تلاش می‌کنند صفحه را بازآوری کنند یا تغییر مسیر دهند، هشدار داده شود">
-<!ENTITY blockAutoReload.accesskey       "ا">
 <!ENTITY useOnScreenKeyboard.label       "نمایش یک صفحه‌کلید لمسی در صورت لزوم">
 <!ENTITY useOnScreenKeyboard.accesskey   "ص">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است">
 
-<!ENTITY healthReportDesc.label          "به شما در درک عملکرد مرورگرتان یاری می‌رساند و اطلاعاتی را در مورد سلامتی مرورگر شما با&vendorShortName; به اشتراک می‌گذارد.">
-<!ENTITY enableHealthReport.label        "فعال‌کردن گزارش سلامتی &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "گ">
+
 <!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
-<!ENTITY telemetryDesc.label             "به اشتراک‌گذاری کارایی، کاربرد، سخت‌افزار و اطلاعات سفارشی‌سازی در مورد مرورگر شما با &vendorShortName; به ما کمک می کند تا &brandShortName; بهتری داشته باشیم">
-<!ENTITY enableTelemetryData.label       "به‌ اشتراک‌گذاری اطلاعات اضافی (به عنوان مثال: دورسنجی)">
-<!ENTITY enableTelemetryData.accesskey   "د">
-<!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
-<!ENTITY crashReporterDesc2.label         "گزارش‌های فروپاشی به &vendorShortName; کمک می‌کند تا مشکلات را برطرف و مرورگر شما را پایدارتر و امن‌تر کند">
-<!ENTITY alwaysSubmitCrashReports.label   "اجازه به &brandShortName; برای ارسال وقایع ثبت شدهٔ گزارش‌های فروپاشی از طرف شما">
-<!ENTITY alwaysSubmitCrashReports.accesskey "و">
-<!ENTITY crashReporterLearnMore.label     "بیشتر بدانید">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
 
-<!ENTITY connection.label                "اتصال">
 
 <!ENTITY connectionDesc.label            "چگونگی اتصال &brandShortName; به اینترنت را پیکربندی کنید">
 <!ENTITY connectionSettings.label        "تنظیمات…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "بطور خودکار موتورهای جست‌وجو بروزرسانی شوند">
 <!ENTITY enableSearchUpdate2.accesskey   "س">
-
-<!ENTITY reports.label                   "گزارش‌ها">
 
 <!ENTITY offlineStorageNotify.label               "هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند به من اطلاع بده">
 <!ENTITY offlineStorageNotify.accesskey           "ه">

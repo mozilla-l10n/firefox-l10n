@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "ترجیحات">
 <!ENTITY removeButton.label   "حذف">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; بازگشت به حریم شخصی">
 
 <!ENTITY window.title         "افزودن حامل جدید">
 <!ENTITY window.width         "45em">

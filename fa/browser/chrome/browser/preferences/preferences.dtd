@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "نتایج جستجو">
 <!ENTITY  paneGeneral.title             "عمومی">
+<!ENTITY  paneSearch.title              "جست‌وجو">
 <!ENTITY  paneFilesApplications.title   "پرونده‌ها و برنامه‌ها">
 <!ENTITY  panePrivacySecurity.title     "حریم‌خصوصی و امنیت">
 <!ENTITY  paneContainers.title          "زبانه‌های حامل">
 <!ENTITY  paneUpdates.title             "به‌روزرسانی‌ها">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "حساب فایرفاکس">
 
 <!ENTITY  helpButton2.label        "پشتیبانی &brandShortName;">
-
-<!ENTITY  searchInput.label        "جست‌وجو">
