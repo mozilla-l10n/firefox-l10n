@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Adwogi me yeny">
 <!ENTITY  paneGeneral.title             "Lumuku">
+<!ENTITY  paneSearch.title              "Yeny">
 <!ENTITY  paneFilesApplications.title   "Pwail ki Purugram">
 <!ENTITY  panePrivacySecurity.title     "Mung ki Ber bedo">
 <!ENTITY  paneContainers.title          "Dirica matidi me mako jami">
 <!ENTITY  paneUpdates.title             "Ngec manyen">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Akaunt me Firefox">
 
 <!ENTITY  helpButton2.label        "Cwak me &brandShortName;">
-
-<!ENTITY  searchInput.label        "Yeny">

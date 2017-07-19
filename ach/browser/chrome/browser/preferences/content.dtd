@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Geng dirica ma pye-malo">
 <!ENTITY  blockPopups.accesskey       "G">
 
-<!ENTITY  notificationsPolicy.label            "Jami angeya">
 <!ENTITY  notificationsPolicyLearnMore.label   "Nong ngec mapol">
 <!ENTITY  notificationsPolicyDesc3.label       "Yer kakube mene ma ki ye gi me cwalo jami angeya">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Rangi…">
 <!ENTITY  colors.accesskey            "R">
 
-
-<!ENTITY languages.label              "Leb">
 <!ENTITY chooseLanguage.label         "Yer leb ma imito pi yaro pot buk">
 <!ENTITY chooseButton.label           "Yer…">
 <!ENTITY chooseButton.accesskey       "e">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Ngat ma okobo aye">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Jami me DRM">
 
-<!ENTITY  playDRMContent.label         "Tuk jami me DRM">
-<!ENTITY  playDRMContent.accesskey     "T">
+
 <!ENTITY  playDRMContent.learnMore.label "Nong ngec mapol">

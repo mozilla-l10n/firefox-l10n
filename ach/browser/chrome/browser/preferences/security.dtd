@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Ber bedo">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Miyi ngec kace kakube tye ka temo me keto med-ikome">
 <!ENTITY  warnOnAddonInstall.accesskey    "M">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

@@ -4,17 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "Ingin me yeny makwongo">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Yer ingin me yeny mamegi makwongo. &brandShortName; tiyo kwede i lanyut me kabedo, lanyut me yeny, ki pot buk me acaki.">
 
 <!ENTITY provideSearchSuggestions.label        "Mi tam me yeny">
 <!ENTITY provideSearchSuggestions.accesskey    "y">
 
-<!ENTITY showURLBarSuggestions.label           "Nyut tam me yeny i adwogi pa lanyut me kabedo">
-<!ENTITY showURLBarSuggestions.accesskey       "k">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero &brandShortName; pe me poo ikom gin mukato matwal.">
 
 
-<!ENTITY chooseWhichOneToDisplay.label         "Lanyut me yeny weko i yenyo atir ingin ma igwenyo kingi. Yer mene me nyuto kama leng.">
 
 <!ENTITY engineNameColumn.label                "Ingin me Yeny">
 <!ENTITY engineKeywordColumn.label             "Lok mapire tek">
@@ -25,4 +22,3 @@
 <!ENTITY removeEngine.label                    "Kwany">
 <!ENTITY removeEngine.accesskey                "K">
 
-<!ENTITY addMoreSearchEngines2.label           "Med injin me yeny mukene">

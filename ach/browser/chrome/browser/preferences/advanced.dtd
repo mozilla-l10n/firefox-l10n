@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Lumuku">
 
-<!ENTITY accessibility.label             "Kite me nongo">
-
 <!ENTITY useCursorNavigation.label       "Jwijwi tii ki lagony me cursor me wot iye pot buk">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Yeny coc ka acako coyo coc">
 <!ENTITY searchOnStartTyping.accesskey   "c">
-<!ENTITY blockAutoReload.label           "Miya ngec kace kakube tye katemo me cwalo onyo cano pot buk">
-<!ENTITY blockAutoReload.accesskey       "k">
 <!ENTITY useOnScreenKeyboard.label       "Nyut kadiyo coc ma ki gudo aguda ka mite">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Konyo yin me niang kit ma layent tye katic kwede kadong nywako tic ki &vendorShortName; ikom yot kom pa layeny mamegi">
-<!ENTITY enableHealthReport.label        "Ye &brandShortName; Ripot me yot kom">
-<!ENTITY enableHealthReport.accesskey    "i">
+
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
-<!ENTITY telemetryDesc.label             "Poko kit ma tic tye kawot kwede, tc kwede, nyonyo kadong yub me tic ikom layeny mamegi ki &vendorShortName; wek okony wa me yubu &brandShortName; maber">
-<!ENTITY enableTelemetryData.label       "Nywak data mukenen (calo, Pimo data)">
-<!ENTITY enableTelemetryData.accesskey   "P">
-<!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
-<!ENTITY crashReporterDesc2.label         "Ripot me poto konyo &vendorShortName; me yubo bal ki weko layeny mamegi cung matek dok ki ber bedo">
-<!ENTITY alwaysSubmitCrashReports.label   "Yee &brandShortName; me cwalo ripot me poto ma odure pi in">
-<!ENTITY alwaysSubmitCrashReports.accesskey "d">
-<!ENTITY crashReporterLearnMore.label     "Nong ngec mapol">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
 
-<!ENTITY connection.label                "Kube">
 
 <!ENTITY connectionDesc.label            "Yik kit ma &brandShortName; kube kwede ki intanet">
 <!ENTITY connectionSettings.label        "Tero…">
@@ -112,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Ket pire kene ngec manyen i injin yeny">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Ripot">
 
 <!ENTITY offlineStorageNotify.label               "Miyi ngec kace kakube penyo me kano tic pi tic kwede ma nongo pe okube iwi yamo">
 <!ENTITY offlineStorageNotify.accesskey           "M">

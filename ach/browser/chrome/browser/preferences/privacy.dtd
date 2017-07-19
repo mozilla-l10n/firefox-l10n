@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Gin mukato">
 <!ENTITY  permissions.label             "Rukuca">
 
-<!ENTITY  locationBar.label             "Gintic me kabedo">
 
-<!ENTITY  locbar.suggest2.label         "Ka i tye katic ki lanyut me kabedo, mi tam">
 <!ENTITY  locbar.history.label          "Gin mukato">
 <!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Alama buk">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ter…">
 <!ENTITY  clearOnCloseSettings.accesskey "r">
 
-<!ENTITY  browserContainersHeader.label         "Dirica matidi me mako jami">
 <!ENTITY  browserContainersLearnMore.label      "Nong ngec mapol">
 <!ENTITY  browserContainersEnabled.label        "Cak Dirica matino me mako jami">
 <!ENTITY  browserContainersEnabled.accesskey    "a">
