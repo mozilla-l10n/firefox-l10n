@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "നാള്‍വഴി">
 
 
-<!ENTITY  locationBar.label             "സ്ഥാന തട്ട്">
 
 <!ENTITY  locbar.history.label          "നാള്‍വഴി">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -100,7 +99,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "സജ്ജീകരണങ്ങള്‍ …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
 
 
 

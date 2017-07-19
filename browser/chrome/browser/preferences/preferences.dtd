@@ -14,11 +14,13 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "സാധാരണ">
+<!ENTITY  paneSearch.title              "തെരയുക">
+
+
+
 
 
 
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-
-<!ENTITY  searchInput.label        "തെരയുക">

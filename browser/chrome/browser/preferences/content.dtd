@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "അറിയിപ്പുകള്‍">
 <!ENTITY  notificationsPolicyLearnMore.label   "കൂടുതല്‍ മനസിലാക്കൂ">
 <!ENTITY  notificationsPolicyDesc3.label       "താങ്കള്‍ക്ക് അറിയിപ്പുകള്‍ നല്‍കാന്‍ അനുമതി ഉള്ള വെബ്‌സൈറ്റുകള്‍ തിരഞ്ഞെടുക്കുക">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "നിറങ്ങള്‍…">
 <!ENTITY  colors.accesskey            "റ">
 
-
-<!ENTITY languages.label              "ഭാഷകള്‍">
 <!ENTITY chooseLanguage.label         "താളുകള്‍ക്കുള്ള ഭാഷ തെരഞ്ഞെടുക്കുക">
 <!ENTITY chooseButton.label           "തെരഞ്ഞെടുക്കുക…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,6 +48,5 @@
 <!ENTITY translation.options.attribution.afterLogo "‌‌">
 
 
-<!ENTITY  playDRMContent.label         "ഡിആര്‍എം വിവരം നടപ്പിലാക്കുക">
-<!ENTITY  playDRMContent.accesskey     "P">
+
 <!ENTITY  playDRMContent.learnMore.label "കൂടുതല്‍ മനസിലാക്കൂ">
