@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Falo kenorɗe cuppitte">
 <!ENTITY  blockPopups.accesskey       "o">
 
-<!ENTITY  notificationsPolicy.label            "Tintine">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ɓeydu humpito">
 <!ENTITY  notificationsPolicyDesc3.label       "Suɓo hol lowe njamiraa neldude ma tintine">
 <!ENTITY  notificationsPolicyButton.accesskey  "o">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Nooneeji…">
 <!ENTITY  colors.accesskey            "N">
 
-
-<!ENTITY languages.label              "Ɗemɗe">
 <!ENTITY chooseLanguage.label         "Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle">
 <!ENTITY chooseButton.label           "Suɓo…">
 <!ENTITY chooseButton.accesskey       "u">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Fulii ko">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Loowdi DRM">
 
-<!ENTITY  playDRMContent.label         "Tar loowdi DRM">
-<!ENTITY  playDRMContent.accesskey     "T">
+
 <!ENTITY  playDRMContent.learnMore.label "Ɓeydu humpito">

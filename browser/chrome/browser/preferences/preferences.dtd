@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Njaltudi Njiilawu">
 <!ENTITY  paneGeneral.title             "Kuuɓal">
+<!ENTITY  paneSearch.title              "Yiylo">
 <!ENTITY  paneFilesApplications.title   "Pille &amp; Jaaɓnirɗe">
 <!ENTITY  panePrivacySecurity.title     "Suturo &amp; Kisal">
 <!ENTITY  paneContainers.title          "Tabbe Mooftirɗe">
 <!ENTITY  paneUpdates.title             "Kesɗitine">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Konte Firefox">
 
 <!ENTITY  helpButton2.label        "Wallitorde &brandShortName;">
-
-<!ENTITY  searchInput.label        "Yiylo">
