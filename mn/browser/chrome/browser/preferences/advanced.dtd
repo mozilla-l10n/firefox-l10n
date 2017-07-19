@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Ердийн">
 
-<!ENTITY accessibility.label             "Хандалт">
-
 <!ENTITY useCursorNavigation.label       "Хуудсанд зорчих үед үргэлж хулганы заагчийг хэрэглэ">
 <!ENTITY useCursorNavigation.accesskey   "у">
-
-
 
 
 
@@ -39,12 +35,8 @@ available. -->
 
 
 
-
-
-
 <!ENTITY networkTab.label                "Сүлжээ">
 
-<!ENTITY connection.label                "Холболт">
 
 <!ENTITY connectionDesc.label            "&brandShortName; интернэтэд хэрхэн холбогдохыг тохируул">
 
@@ -84,7 +76,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 

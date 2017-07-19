@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Дэлгэгдэх цонхуудыг хорих">
 <!ENTITY  blockPopups.accesskey       "Д">
-
 
 
 
@@ -27,8 +25,6 @@
 
 
 
-
-<!ENTITY languages.label              "Хэл">
 <!ENTITY chooseLanguage.label         "Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу">
 <!ENTITY chooseButton.label           "Сонго…">
 <!ENTITY chooseButton.accesskey       "н">
