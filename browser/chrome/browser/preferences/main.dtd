@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
 <!ENTITY startupPrevSession.label  "Berreskuratu azken saioko fitxak eta leihoak">
 
-<!ENTITY homepage2.label           "Hasiera-orria">
-<!ENTITY homepage2.accesskey       "H">
+
 <!ENTITY useCurrentPage.label      "Erabili uneko orria">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Erabili uneko orriak">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Egiaztatu beti ea &brandShortName; nabigatzaile lehenetsia den">
 <!ENTITY alwaysCheckDefault2.accesskey    "E">
-<!ENTITY setAsMyDefaultBrowser2.label     "Lehenetsi">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "L">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; nabigatzaile lehenetsia da une honetan">
 <!ENTITY isNotDefault.label               "&brandShortName; ez da zure nabigatzaile lehenetsia">
 

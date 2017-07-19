@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Historia">
 <!ENTITY  permissions.label             "Baimenak">
 
-<!ENTITY  locationBar.label             "Helbide-barra">
 
-<!ENTITY  locbar.suggest2.label         "Helbide-barra erabiltzean, gomendatu">
 <!ENTITY  locbar.history.label          "Historia">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Laster-markak">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ezarpenak…">
 <!ENTITY  clearOnCloseSettings.accesskey "r">
 
-<!ENTITY  browserContainersHeader.label         "Edukiontzi-fitxak">
 <!ENTITY  browserContainersLearnMore.label      "Argibide gehiago">
 <!ENTITY  browserContainersEnabled.label        "Gaitu edukiontzi-fitxak">
 <!ENTITY  browserContainersEnabled.accesskey    "G">
