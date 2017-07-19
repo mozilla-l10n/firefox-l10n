@@ -4,8 +4,11 @@
 
 <!ENTITY startup.label             "શરૂઆત">
 
+<!ENTITY startupPage2.label        "જ્યારે &brandShortName; શરૂ થાય છે">
+<!ENTITY startupUserHomePage.label "તમારું મુખ્ય પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
 
+<!ENTITY homepage2.label           "મુખ્ય પૃષ્ઠ">
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
@@ -23,5 +26,7 @@
 <!ENTITY chooseFolderMac.label        "પસંદ કરો...">
 <!ENTITY chooseFolderMac.accesskey    "e">
 
+<!ENTITY alwaysCheckDefault2.label        "હંમેશાં તપાસો કે &brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
+<!ENTITY isDefault.label                  "&brandShortName; હાલમાં તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
 
 
