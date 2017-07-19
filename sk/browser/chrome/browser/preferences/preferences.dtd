@@ -15,14 +15,15 @@
 
 <!ENTITY  paneSearchResults.title       "Výsledky vyhľadávania">
 <!ENTITY  paneGeneral.title             "Všeobecné">
+<!ENTITY  paneSearch.title              "Hľadať">
 <!ENTITY  paneFilesApplications.title   "Súbory a aplikácie">
 <!ENTITY  panePrivacySecurity.title     "Súkromie a bezpečnosť">
 <!ENTITY  paneContainers.title          "Kontajnerové karty">
 <!ENTITY  paneUpdates.title             "Aktualizácie">
 
+<!ENTITY  filesAndApplications.label    "Súbory a aplikácie">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Účet Firefox Account">
 
 <!ENTITY  helpButton2.label        "Podpora aplikácie &brandShortName;">
-
-<!ENTITY  searchInput.label        "Hľadať">
