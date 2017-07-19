@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Ŝprucfenestroj">
+<!ENTITY  permissions.label           "Permesoj">
 
 <!ENTITY  blockPopups.label           "Bloki ŝprucfenestrojn">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Sciigoj">
 <!ENTITY  notificationsPolicyLearnMore.label   "Pli da informo">
 <!ENTITY  notificationsPolicyDesc3.label       "Elektu la retejojn, kiuj rajtas sendi sciigojn al vi">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "K">
 
 
-<!ENTITY languages.label              "Lingvoj">
+<!ENTITY language2.label              "Lingvo">
 <!ENTITY chooseLanguage.label         "Elektu vian preferatan lingvon por retpaĝoj">
 <!ENTITY chooseButton.label           "Elekti…">
 <!ENTITY chooseButton.accesskey       "l">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tradukita de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Enhavo DRM">
+<!ENTITY  drmContent2.label              "Enhavo kun cifereca administrado de rajtoj (DRM)">
 
-<!ENTITY  playDRMContent.label         "Ludi enhavon DRM">
-<!ENTITY  playDRMContent.accesskey     "L">
+<!ENTITY  playDRMContent2.label          "Ludi DRM-administritan enhavon">
+<!ENTITY  playDRMContent2.accesskey      "L">
 <!ENTITY  playDRMContent.learnMore.label "Pli da informo">
