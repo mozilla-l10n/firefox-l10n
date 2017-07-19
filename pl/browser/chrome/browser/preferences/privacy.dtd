@@ -24,7 +24,7 @@
 <!ENTITY changeBlockList.label "Zmień listę blokowanych">
 <!ENTITY changeBlockList.accesskey "">
 
-<!ENTITY doNotTrack.description "Informuj witryny o preferencjach względem śledzenia (wywysłanie nagłówka „Do Not Track”):">
+<!ENTITY doNotTrack.description "Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):">
 <!ENTITY doNotTrack.learnMore.label "Więcej informacji">
 <!ENTITY doNotTrack.default.label "Tylko podczas używania ochrony przed śledzeniem">
 <!ENTITY doNotTrack.always.label "Zawsze">
