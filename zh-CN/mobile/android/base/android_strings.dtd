@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "不再隐藏选中的设备">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "已固定网站">
+<!ENTITY home_unpinned_site "已取消固定网站">
+
 <!ENTITY remote_tabs_panel_moved_title "我的标签页去哪了？">
 <!ENTITY remote_tabs_panel_moved_desc "您其他设备上打开的标签页现在会在首页上的一个面板里显示，方便您在打开新标签页时查看。">
 <!ENTITY remote_tabs_panel_moved_link "带我去我的新面板吧。">
