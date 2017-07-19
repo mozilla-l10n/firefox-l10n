@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Segurtasuna">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Abisatu gune bat gehigarriak instalatzen saiatzen bada">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

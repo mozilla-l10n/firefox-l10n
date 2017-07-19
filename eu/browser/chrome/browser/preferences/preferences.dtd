@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Bilaketaren emaitzak">
 <!ENTITY  paneGeneral.title             "Orokorra">
+<!ENTITY  paneSearch.title              "Bilaketa">
 <!ENTITY  paneFilesApplications.title   "Fitxategiak eta aplikazioak">
 <!ENTITY  panePrivacySecurity.title     "Pribatutasuna eta segurtasuna">
 <!ENTITY  paneContainers.title          "Edukiontzi-fitxak">
 <!ENTITY  paneUpdates.title             "Eguneraketak">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox kontua">
 
 <!ENTITY  helpButton2.label        "&brandShortName; laguntza">
-
-<!ENTITY  searchInput.label        "Bilaketa">

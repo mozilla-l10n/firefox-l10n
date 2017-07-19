@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Orokorra">
 
-<!ENTITY accessibility.label             "Erabilgarritasuna">
-
 <!ENTITY useCursorNavigation.label       "Erabili beti kurtsore-teklak orriak nabigatzeko">
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchOnStartTyping.label       "Bilatu testua idazten hasi bezain laster">
 <!ENTITY searchOnStartTyping.accesskey   "B">
-<!ENTITY blockAutoReload.label           "Abisatu webguneek orria berritu edo beste norabait birbideratu nahi badute">
-<!ENTITY blockAutoReload.accesskey       "A">
 <!ENTITY useOnScreenKeyboard.label       "Beharrezkoa denean, erakutsi ukipen-teklatua">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako">
 
-<!ENTITY healthReportDesc.label          "Nabigatzailearen errendimendua ulertzen laguntzen dizu eta nabigatzailearen osasunaren inguruko datuak partekatzen ditu &vendorShortName;(r)ekin">
-<!ENTITY enableHealthReport.label        "Gaitu &brandShortName;(r)en osasun-txostena">
-<!ENTITY enableHealthReport.accesskey    "o">
+
 <!ENTITY healthReportLearnMore.label     "Argibide gehiago">
 
-<!ENTITY telemetryDesc.label             "Nabigatzailearen errendimenduaren, erabilpenaren, hardwarearen eta pertsonalizazioen inguruko datuak partekatzen ditu &vendorShortName;(r)ekin &brandShortName; hobetzen laguntzeko">
-<!ENTITY enableTelemetryData.label       "Partekatu datu gehigarriak (adib. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
-<!ENTITY crashReporterDesc2.label         "Hutsegite-txostenek arazoak konpondu eta zure nabigatzailea egonkor eta seguruagoa egiten laguntzen diote &vendorShortName;(r)i">
-<!ENTITY alwaysSubmitCrashReports.label   "Baimendu &brandShortName;(r)i atzeratutako hutsegite-txostenak zuregatik bidaltzea">
-<!ENTITY alwaysSubmitCrashReports.accesskey "B">
-<!ENTITY crashReporterLearnMore.label     "Argibide gehiago">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
 
-<!ENTITY connection.label                "Konexioa">
 
 <!ENTITY connectionDesc.label            "Konfiguratu &brandShortName; nola konektatzen den Internetera">
 <!ENTITY connectionSettings.label        "Ezarpenak…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Eguneratu automatikoki bilaketa-motorrak">
 <!ENTITY enableSearchUpdate2.accesskey   "E">
-
-<!ENTITY reports.label                   "Txostenak">
 
 <!ENTITY offlineStorageNotify.label               "Abisatu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
 <!ENTITY offlineStorageNotify.accesskey           "A">
