@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Ιστορικό">
 <!ENTITY  permissions.label             "Δικαιώματα">
 
-<!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
-
-<!ENTITY  locbar.suggest2.label         "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση:">
+<!ENTITY  addressBar.label              "Γραμμή διευθύνσεων">
+<!ENTITY  addressBar.suggest.label      "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση">
 <!ENTITY  locbar.history.label          "Ιστορικού">
 <!ENTITY  locbar.history.accesskey      "Ι">
 <!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ρυθμίσεις…">
 <!ENTITY  clearOnCloseSettings.accesskey "θ">
 
-<!ENTITY  browserContainersHeader.label         "Θεματικές καρτέλες">
 <!ENTITY  browserContainersLearnMore.label      "Μάθετε περισσότερα">
 <!ENTITY  browserContainersEnabled.label        "Ενεργοποίηση θεματικών καρτελών">
 <!ENTITY  browserContainersEnabled.accesskey    "ν">

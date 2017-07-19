@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Γενικά">
 
-<!ENTITY accessibility.label             "Προσβασιμότητα">
-
 <!ENTITY useCursorNavigation.label       "Πάντα χρήση των πλήκτρων του δρομέα για πλοήγηση στις ιστοσελίδες">
 <!ENTITY useCursorNavigation.accesskey   "ω">
 <!ENTITY searchOnStartTyping.label       "Αναζήτηση κειμένου κατά την έναρξη πληκτρολόγησης">
 <!ENTITY searchOnStartTyping.accesskey   "ν">
-<!ENTITY blockAutoReload.label           "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να ανακατευθύνουν ή να επαναφορτώσουν τη σελίδα">
-<!ENTITY blockAutoReload.accesskey       "σ">
 <!ENTITY useOnScreenKeyboard.label       "Εμφάνιση πληκτρολογίου αφής όταν χρειάζεται">
 <!ENTITY useOnScreenKeyboard.accesskey   "π">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση">
 
-<!ENTITY healthReportDesc.label          "Σάς βοηθάει να κατανοήσετε τις επιδόσεις του προγράμματος περιήγησής σας και αποστέλλει δεδομένα στη &vendorShortName; σχετικά με την υγεία του">
-<!ENTITY enableHealthReport.label        "Ενεργοποίηση αναφορών υγείας του &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "φ">
+<!ENTITY enableHealthReport1.label       "Να επιτρέπεται στο &brandShortName; η αυτόματη αποστολή τεχνικών και διαδραστικών δεδομένων στη Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "δ">
 <!ENTITY healthReportLearnMore.label     "Μάθετε περισσότερα">
 
-<!ENTITY telemetryDesc.label             "Αποστολή δεδομένων επιδόσεων, χρήσης, υλικού και προσαρμογών του προγράμματος περιήγησής σας στη &vendorShortName;, ώστε να βελτιωθεί το &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Αποστολή επιπρόσθετων δεδομένων (δηλ. Τηλεμετρία)">
-<!ENTITY enableTelemetryData.accesskey   "λ">
-<!ENTITY telemetryLearnMore.label        "Μάθετε περισσότερα">
+<!ENTITY dataCollection.label            "Συλλογή και χρήση δεδομένων &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Αγωνιζόμαστε για να σάς παρέχουμε επιλογές και συλλέγουμε μόνο αυτά που χρειαζόμαστε, ώστε να παρέχουμε και να βελτιώσουμε το &brandShortName; για όλους. Ζητούμε πάντα την άδεια πριν λάβουμε προσωπικές πληροφορίες.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Σημείωση απορρήτου">
 
-<!ENTITY crashReporterDesc2.label         "Οι αναφορές καταρρεύσεων βοηθούν τη &vendorShortName; να διορθώνει προβλήματα και να κάνει το πρόγραμμα περιήγησής σας πιο σταθερό και ασφαλές">
-<!ENTITY alwaysSubmitCrashReports.label   "Να επιτρέπεται στο &brandShortName; να στέλνει εκ μέρους σας αναφορές καταρρεύσεων">
-<!ENTITY alwaysSubmitCrashReports.accesskey "κ">
-<!ENTITY crashReporterLearnMore.label     "Μάθετε περισσότερα">
+<!ENTITY alwaysSubmitCrashReports1.label  "Να επιτρέπεται στο &brandShortName; η αποστολή αναφορών κατάρρευσης στη Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "κ">
+<!ENTITY crashReporterLearnMore.label    "Μάθετε περισσότερα">
 
 <!ENTITY networkTab.label                "Δίκτυο">
 
-<!ENTITY connection.label                "Σύνδεση">
+<!ENTITY networkProxy.label              "Διακομιστής μεσολάβησης δικτύου">
 
 <!ENTITY connectionDesc.label            "Ρύθμιση τρόπου σύνδεσης του &brandShortName; με το διαδίκτυο">
 <!ENTITY connectionSettings.label        "Ρυθμίσεις…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Αυτόματη ενημέρωση μηχανών αναζήτησης">
 <!ENTITY enableSearchUpdate2.accesskey   "μ">
-
-<!ENTITY reports.label                   "Αναφορές">
 
 <!ENTITY offlineStorageNotify.label               "Ειδοποίηση όταν μια ιστοσελίδα ζητά να αποθηκεύσει δεδομένα για χρήση εκτός σύνδεσης">
 <!ENTITY offlineStorageNotify.accesskey           "Ε">

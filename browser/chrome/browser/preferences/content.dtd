@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Δικαιώματα">
 
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
 
-<!ENTITY  notificationsPolicy.label            "Ειδοποιήσεις">
 <!ENTITY  notificationsPolicyLearnMore.label   "Μάθετε περισσότερα">
 <!ENTITY  notificationsPolicyDesc3.label       "Επιλέξτε ποιες ιστοσελίδες μπορούν να σας στέλνουν ειδοποιήσεις">
 <!ENTITY  notificationsPolicyButton.accesskey  "ι">
@@ -32,7 +32,7 @@
 <!ENTITY  colors.accesskey            "Χ">
 
 
-<!ENTITY languages.label              "Γλώσσες">
+<!ENTITY language2.label              "Γλώσσα">
 <!ENTITY chooseLanguage.label         "Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση των ιστοσελίδων">
 <!ENTITY chooseButton.label           "Επιλογή...">
 <!ENTITY chooseButton.accesskey       "λ">
@@ -52,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Μεταφράσεις από">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Περιεχόμενο με DRM">
+<!ENTITY  drmContent2.label              "Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)">
 
-<!ENTITY  playDRMContent.label         "Αναπαραγωγή περιεχομένου με DRM">
-<!ENTITY  playDRMContent.accesskey     "Α">
+<!ENTITY  playDRMContent2.label          "Αναπαραγωγή περιεχομένου με έλεγχο DRM">
+<!ENTITY  playDRMContent2.accesskey      "Α">
 <!ENTITY  playDRMContent.learnMore.label "Μάθε περισσότερα">

@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησής σας. Χρησιμοποιείται από το &brandShortName; στη γραμμή διευθύνσεων, τη γραμμή αναζήτησης και την αρχική σελίδα.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης για χρήση στη γραμμή διευθύνσεων και στη γραμμή αναζήτησης.">
 
 <!ENTITY provideSearchSuggestions.label        "Παροχή προτάσεων αναζήτησης">
 <!ENTITY provideSearchSuggestions.accesskey    "Π">
 
-<!ENTITY showURLBarSuggestions.label           "Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων">
-<!ENTITY showURLBarSuggestions.accesskey       "Ε">
+<!ENTITY showURLBarSuggestions2.label           "Εμφάνιση προτάσεων αναζήτησης στα αποτελέσματα της γραμμής διευθύνσεων">
+<!ENTITY showURLBarSuggestions2.accesskey       "τ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Οι προτάσεις αναζήτησης δεν θα εμφανίζονται στη γραμμή διευθύνσεων, καθώς έχετε ρυθμίσει το &brandShortName; ώστε να μην διατηρεί ποτέ το ιστορικό.">
 
 <!ENTITY oneClickSearchEngines.label           "Μηχανές αναζήτησης με ένα κλικ">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Η γραμμή αναζήτησης σάς επιτρέπει την άμεση αναζήτηση σε εναλλακτικές μηχανές. Επιλέξτε ποιες θα εμφανίζονται.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Επιλέξτε τις εναλλακτικές μηχανές αναζήτησης που εμφανίζονται κάτω από τη γραμμή διευθύνσεων και τη γραμμή αναζήτησης όταν αρχίσετε να πληκτρολογείτε μια λέξη-κλειδί.">
 
 <!ENTITY engineNameColumn.label                "Μηχανή αναζήτησης">
 <!ENTITY engineKeywordColumn.label             "Λέξη-κλειδί">
@@ -26,4 +26,3 @@
 <!ENTITY removeEngine.label                    "Αφαίρεση">
 <!ENTITY removeEngine.accesskey                "Α">
 
-<!ENTITY addMoreSearchEngines2.label           "Προσθήκη περισσότερων μηχανών αναζήτησης">
