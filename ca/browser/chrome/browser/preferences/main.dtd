@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupPrevSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
 
-<!ENTITY homepage2.label           "Pàgina d'inici">
-<!ENTITY homepage2.accesskey       "P">
+
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Comprova sempre si el &brandShortName; és el navegador per defecte">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Fes que sigui el navegador per defecte">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+
+
 <!ENTITY isDefault.label                  "Actualment el &brandShortName; és el navegador per defecte">
 <!ENTITY isNotDefault.label               "El &brandShortName; no és el navegador per defecte">
 

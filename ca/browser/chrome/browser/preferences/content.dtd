@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Bloca les finestres emergents">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Notificacions">
 <!ENTITY  notificationsPolicyLearnMore.label   "Més informació">
 <!ENTITY  notificationsPolicyDesc3.label       "Trieu quins llocs us poden enviar notificacions">
 <!ENTITY  notificationsPolicyButton.accesskey  "T">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Colors…">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "Llengües">
 <!ENTITY chooseLanguage.label         "Trieu la llengua en què es mostraran preferentment les pàgines">
 <!ENTITY chooseButton.label           "Trieu…">
 <!ENTITY chooseButton.accesskey       "T">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traducció feta per">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Contingut amb DRM">
 
-<!ENTITY  playDRMContent.label         "Reprodueix el contingut amb DRM">
-<!ENTITY  playDRMContent.accesskey     "R">
+
 <!ENTITY  playDRMContent.learnMore.label "Més informació">
