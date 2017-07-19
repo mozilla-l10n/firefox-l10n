@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Preferencias">
 <!ENTITY removeButton.label   "Eliminar">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Volver a Privacidad">
+<!ENTITY backLink2.label      "&#171; Ir atrás">
 
 <!ENTITY window.title         "Agregar nuevo contenedor">
 <!ENTITY window.width         "45em">
