@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Thintela iifestile ezizivelelayo">
 <!ENTITY  blockPopups.accesskey       "T">
 
-<!ENTITY  notificationsPolicy.label            "Izaziso">
 <!ENTITY  notificationsPolicyLearnMore.label   "Funda okungakumbi">
 <!ENTITY  notificationsPolicyDesc3.label       "Khetha ukuba ziziphi iisayithi ezivumelekileyo ukuba zikuthumelele izaziso">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Imibala…">
 <!ENTITY  colors.accesskey            "I">
 
-
-<!ENTITY languages.label              "Iilwimi">
 <!ENTITY chooseLanguage.label         "Khetha ulwimi oluthandayo lokubonisa amaphepha">
 <!ENTITY chooseButton.label           "Khetha…">
 <!ENTITY chooseButton.accesskey       "e">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Iinguqulelo ngu">
 <!ENTITY translation.options.attribution.afterLogo "​‌‌">
 
-<!ENTITY  drmContent.label             "Isiqulatho se-DRM">
 
-<!ENTITY  playDRMContent.label         "Dlala isiqulatho se-DRM">
-<!ENTITY  playDRMContent.accesskey     "D">
+
 <!ENTITY  playDRMContent.learnMore.label "Funda okungakumbi">

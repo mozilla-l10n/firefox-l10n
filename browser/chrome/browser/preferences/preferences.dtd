@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "IZiphumo zoKhangelo">
 <!ENTITY  paneGeneral.title             "Jikelele">
+<!ENTITY  paneSearch.title              "Khangela">
 <!ENTITY  paneFilesApplications.title   "IiFayile neeAplikheyshini">
 <!ENTITY  panePrivacySecurity.title     "UbuNgasese noKhuseleko">
 <!ENTITY  paneContainers.title          "Iithebhu Zekhonteyina">
 <!ENTITY  paneUpdates.title             "Uhlaziyo">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "IAkhawunti yeFirefox">
 
 <!ENTITY  helpButton2.label        "INkxaso ye&brandShortName;">
-
-<!ENTITY  searchInput.label        "Khangela">
