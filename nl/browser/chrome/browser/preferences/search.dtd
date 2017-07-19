@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Standaardzoekmachine">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Kies uw standaardzoekmachine. &brandShortName; gebruikt deze in de locatiebalk, zoekbalk en startpagina.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Kies de standaardzoekmachine die u in de adresbalk en zoekbalk wilt gebruiken.">
 
 <!ENTITY provideSearchSuggestions.label        "Zoeksuggesties geven">
 <!ENTITY provideSearchSuggestions.accesskey    "Z">
 
-<!ENTITY showURLBarSuggestions.label           "Zoeksuggesties in locatiebalkresultaten tonen">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Zoeksuggesties in adresbalkresultaten tonen">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u &brandShortName; hebt geconfigureerd om nooit geschiedenis te onthouden.">
 
 <!ENTITY oneClickSearchEngines.label           "Eén-klik-zoekmachines">
 
-<!ENTITY chooseWhichOneToDisplay.label         "In de zoekbalk kunt u direct bij alternatieve zoekmachines zoeken. Kies de machines om weer te geven.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Kies de alternatieve zoekmachines die onder de adresbalk en zoekbalk verschijnen als u een sleutelwoord begint in te voeren.">
 
 <!ENTITY engineNameColumn.label                "Zoekmachine">
 <!ENTITY engineKeywordColumn.label             "Sleutelwoord">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Verwijderen">
 <!ENTITY removeEngine.accesskey                "V">
 
-<!ENTITY addMoreSearchEngines2.label           "Meer zoekmachines toevoegen">
+<!ENTITY findMoreSearchEngines.label           "Meer zoekmachines zoeken">

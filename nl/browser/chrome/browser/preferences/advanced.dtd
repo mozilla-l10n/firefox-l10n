@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Algemeen">
 
-<!ENTITY accessibility.label             "Toegankelijkheid">
-
 <!ENTITY useCursorNavigation.label       "Altijd de pijltoetsen gebruiken om binnen pagina’s te navigeren">
 <!ENTITY useCursorNavigation.accesskey   "o">
 <!ENTITY searchOnStartTyping.label       "Naar tekst zoeken wanneer u begint met typen">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Waarschuwen wanneer websites proberen de pagina door te sturen of te herladen">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Een schermtoetsenbord tonen wanneer nodig">
 <!ENTITY useOnScreenKeyboard.accesskey   "c">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie">
 
-<!ENTITY healthReportDesc.label          "Helpt u uw browserprestaties te begrijpen en deelt gegevens over uw browserstatus met &vendorShortName;">
-<!ENTITY enableHealthReport.label        "&brandShortName;-statusrapport inschakelen">
-<!ENTITY enableHealthReport.accesskey    "s">
+<!ENTITY enableHealthReport1.label       "&brandShortName; toestaan om automatisch technische en interactiegegevens naar Mozilla te verzenden">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Meer info">
 
-<!ENTITY telemetryDesc.label             "Deelt gegevens over prestaties, hardware, gebruik en aanpassingen van uw browser met &vendorShortName; om &brandShortName; te helpen verbeteren">
-<!ENTITY enableTelemetryData.label       "Aanvullende gegevens delen (d.w.z. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Meer info">
+<!ENTITY dataCollection.label            "&brandShortName;-gegevensverzameling en -gebruik">
+<!ENTITY dataCollectionDesc.label        "We streven ernaar u keuzes te bieden en alleen te verzamelen wat we nodig hebben om &brandShortName; voor iedereen beschikbaar te maken en te verbeteren. We vragen altijd toestemming voordat we persoonlijke gegevens ontvangen.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Privacyverklaring">
 
-<!ENTITY crashReporterDesc2.label         "Crashrapporten helpen &vendorShortName; problemen te verhelpen en maken uw browser stabieler en veiliger">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; toestaan namens u achterstallige crashrapporten te verzenden">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Meer info">
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; toestaan om crashrapporten naar Mozilla te verzenden">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Meer info">
 
 <!ENTITY networkTab.label                "Netwerk">
 
-<!ENTITY connection.label                "Verbinding">
+<!ENTITY networkProxy.label              "Netwerkproxy">
 
 <!ENTITY connectionDesc.label            "Configureren hoe &brandShortName; verbinding maakt met het internet">
 <!ENTITY connectionSettings.label        "Instellingen…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Zoekmachines automatisch bijwerken">
 <!ENTITY enableSearchUpdate2.accesskey   "Z">
-
-<!ENTITY reports.label                   "Rapporten">
 
 <!ENTITY offlineStorageNotify.label               "Vertellen wanneer een website vraagt gegevens op te slaan voor offlinegebruik">
 <!ENTITY offlineStorageNotify.accesskey           "e">
