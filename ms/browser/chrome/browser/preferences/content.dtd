@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Popup">
+<!ENTITY  permissions.label           "Keizinan">
 
 <!ENTITY  blockPopups.label           "Sekat tetingkap popup">
 <!ENTITY  blockPopups.accesskey       "S">
 
-<!ENTITY  notificationsPolicy.label            "Notifikasi">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ketahui selanjutnya">
 <!ENTITY  notificationsPolicyDesc3.label       "Pilih laman yang diberi izin untuk menghantar notifikasi">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "W">
 
 
-<!ENTITY languages.label              "Bahasa">
+<!ENTITY language2.label              "Bahasa">
 <!ENTITY chooseLanguage.label         "Pilih bahasa pilihan anda untuk memaparkan halaman">
 <!ENTITY chooseButton.label           "Pilih…">
 <!ENTITY chooseButton.accesskey       "P">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Terjemahan oleh">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Kandungan DRM">
+<!ENTITY  drmContent2.label              "Kandungan Digital Rights Management (DRM)">
 
-<!ENTITY  playDRMContent.label         "Main kandungan DRM">
-<!ENTITY  playDRMContent.accesskey     "a">
+<!ENTITY  playDRMContent2.label          "Mainkan kandungan DRM-dikawal">
+<!ENTITY  playDRMContent2.accesskey      "M">
 <!ENTITY  playDRMContent.learnMore.label "Ketahui selanjutnya">

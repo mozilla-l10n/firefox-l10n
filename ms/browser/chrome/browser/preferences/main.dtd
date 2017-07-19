@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Sentiasa semak samada &brandShortName; adalah pelayar piawai anda">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "Jadikan Piawai">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "Jadikan Piawai…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "P">
 <!ENTITY isDefault.label                  "&brandShortName; kini adalah pelayar piawai anda">
 <!ENTITY isNotDefault.label               "&brandShortName; bukan pelayar piawai anda">
 
