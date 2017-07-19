@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "പൊതുവായവ">
 
-<!ENTITY accessibility.label             "ആക്സസ്സെബിലിറ്റി ">
-
 <!ENTITY useCursorNavigation.label       "താളുകള്‍ക്കുള്ളില്‍ നീങ്ങുവാന്‍ കഴ്‌സര്‍ കീ ഉപയോഗിക്കുക">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "നിങ്ങളുടെ ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം മനസ്സിലാക്കുവാന്‍ സഹായിയ്ക്കുന്നു, ബ്രൌസര്‍ വിവരങ്ങള്‍ &vendorShortName;-മായി പങ്കിടുന്നു">
-<!ENTITY enableHealthReport.label        "&brandShortName;  ആരോഗ്യ വിവരപ്പട്ടിക സജ്ജമാക്കുക">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "പ്രകടനം, ഉപയോഗം, ഹാർഡ്‌വെയർ തുടങ്ങിയ വിവരങ്ങൾ &vendorShortName; -മായി പങ്കു വെയ്ക്കുക.  &brandShortName;  മെച്ചപ്പെടുത്തുവാൻ സഹായിക്കുക.">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "നെറ്റ്‌വര്‍ക്ക്‌">
 
-<!ENTITY connection.label                "കണക്ഷന്‍">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ഇന്റര്‍നെറ്റുമായി എങ്ങനെ ബന്ധപ്പെടണമെന്നു് ക്രമീകരിക്കുക ">
 <!ENTITY connectionSettings.label        "ക്രമീകരണങ്ങള്‍ ">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
