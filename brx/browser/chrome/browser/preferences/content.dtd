@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "जौखांनाय उनद'सखौ होबथा">
 <!ENTITY  blockPopups.accesskey       "ह">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "गाबफोर...">
 <!ENTITY  colors.accesskey            "ग">
 
-
-<!ENTITY languages.label              "रावफोर">
 <!ENTITY chooseLanguage.label         "पेजफोर डिसफ्ले खालामनायनि थाखाय नोंथांनि थाखिनाय रावखौ सायख'">
 <!ENTITY chooseButton.label           "Choose…">
 <!ENTITY chooseButton.accesskey       "o">

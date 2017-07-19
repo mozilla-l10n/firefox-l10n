@@ -27,7 +27,6 @@
 <!ENTITY  history.label                 "जारिमिन">
 
 
-<!ENTITY  locationBar.label             "जायगा बार">
 
 <!ENTITY  locbar.history.label          "जारिमिन">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -98,7 +97,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "सेटिं....  (t)">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
 
 
 

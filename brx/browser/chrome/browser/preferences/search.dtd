@@ -4,7 +4,6 @@
 
 <!ENTITY defaultSearchEngine.label             "डिफल्ट नागिरनाय इन्जिन">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "नोंथांनि डिफल्ट नागिरनाय इन्जिनखौ बासिख। &brandShortName; आ बेखौ जायगा बार, नागिरनाय बार आरो जागायनाय बिलाइआव बाहायो।">
 
 <!ENTITY provideSearchSuggestions.label        "नागिरनाय बोसोन हो">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
@@ -13,7 +12,6 @@
 
 
 
-<!ENTITY chooseWhichOneToDisplay.label         "नागिनाय बारआ नोंथांखौ सोलायथाव इन्जिनखौ थोंजोङै नागिरनो गनायथि होयो। मबेखौ दिन्थिफुंनांगौ बासिख।">
 
 <!ENTITY engineNameColumn.label                "नागिरनाय इन्जिन">
 <!ENTITY engineKeywordColumn.label             "गाहाय सोदोब">

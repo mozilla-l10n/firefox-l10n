@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "सरासनस्रा">
 
-<!ENTITY accessibility.label             "हाबनो हाथाव">
-
 <!ENTITY useCursorNavigation.label       "बिलाइफोरनि सिङाव नेभिगेट खालामनो अरायबो कार्सर साबिफोरखौ बाहाय">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "नोंथांनि ब्राउजार मावफुंनायखौ बुजिनो नोंथांखौ मदद खालामो आरो डाटाखौ नोंथांनि ब्राउजार सावस्रिनि सोमोन्दै डाटाखौ &vendorShortName; जों शेयार खालामो।">
-<!ENTITY enableHealthReport.label        "&brandShortName; सावस्रि रिपर्टखौ हाहोनाय खालाम">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "&brandShortName; खौ साबसिन खालामनो जोंखौ मदद होनो &vendorShortName; जों ब्राउजारनि मावफुंनाय, बाहायथि, हार्डवेयार आरो कास्ट'माइजेसनखौ शेयार खालाम">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "नेटवार्क">
 
-<!ENTITY connection.label                "फोनांजाब">
 
 <!ENTITY connectionDesc.label            "&brandShortName; आ इन्टारनेटआव फोनांजाब खालामनायखौ महर दा">
 <!ENTITY connectionSettings.label        "सेटिं...(e)">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
