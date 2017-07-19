@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Almennt">
 
-<!ENTITY accessibility.label             "Auðveldað aðgengi">
-
 <!ENTITY useCursorNavigation.label       "Alltaf nota örvalykla til að ferðast á síðum">
 <!ENTITY useCursorNavigation.accesskey   "ö">
 <!ENTITY searchOnStartTyping.label       "Leita í texta þegar byrjað er að slá inn orð">
 <!ENTITY searchOnStartTyping.accesskey   "L">
-<!ENTITY blockAutoReload.label           "Vara við þegar vefsvæði reyna að endurbeina eða endurnýja síðuna">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Sýna snertilyklaborð þegar það er nauðsynlegt">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Gagna skýrsla er óvirk í þessari útgáfu">
 
-<!ENTITY healthReportDesc.label          "Hjálpar þér að fá betri yfirsýn yfir afköst vafra og deilir gögnum um afköst vafra með &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Virkja &brandShortName; ástandsskoðun">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
-<!ENTITY telemetryDesc.label             "Deilir afköstum, notkun, vélbúnaðarupplýsingum og sérsniði vafra með &vendorShortName; svo hægt sé að betrumbæta &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Deila öðrum gögnum (t.d., Fjarmælingum)">
-<!ENTITY enableTelemetryData.accesskey   "F">
-<!ENTITY telemetryLearnMore.label        "Fræðast meira">
 
-<!ENTITY crashReporterDesc2.label         "Hrunskýrslur hjálpa &vendorShortName; að laga vandamál og gera vafrann betri og öruggari">
-<!ENTITY alwaysSubmitCrashReports.label   "Leyfa &brandShortName; að senda hrunskýrslu í bakgrunni í þínu nafni">
-<!ENTITY alwaysSubmitCrashReports.accesskey "h">
-<!ENTITY crashReporterLearnMore.label     "Fræðast meira">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
 
-<!ENTITY connection.label                "Tenging">
 
 <!ENTITY connectionDesc.label            "Stilla hvernig &brandShortName; tengist við Internetið">
 <!ENTITY connectionSettings.label        "Stillingar…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Uppfæra leitarvélar sjálfvirkt">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Skýrslur">
 
 <!ENTITY offlineStorageNotify.label               "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineStorageNotify.accesskey           "t">
