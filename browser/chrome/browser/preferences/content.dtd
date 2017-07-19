@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Popup-fönster">
+<!ENTITY  permissions.label           "Rättigheter">
 
 <!ENTITY  blockPopups.label           "Blockera popup-fönster">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Aviseringar">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ta reda på mer">
 <!ENTITY  notificationsPolicyDesc3.label       "Välj vilka webbplatser som får skicka dig aviseringar">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "F">
 
 
-<!ENTITY languages.label              "Språk">
+<!ENTITY language2.label              "Språk">
 <!ENTITY chooseLanguage.label         "Välj språk som webbsidor ska visas i">
 <!ENTITY chooseButton.label           "Välj…">
 <!ENTITY chooseButton.accesskey       "V">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Översättningar av">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM-innehåll">
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) innehåll">
 
-<!ENTITY  playDRMContent.label         "Spela upp DRM-innehåll">
-<!ENTITY  playDRMContent.accesskey     "S">
+<!ENTITY  playDRMContent2.label          "Spela DRM-kontrollerat innehåll">
+<!ENTITY  playDRMContent2.accesskey      "S">
 <!ENTITY  playDRMContent.learnMore.label "Lär dig mer">

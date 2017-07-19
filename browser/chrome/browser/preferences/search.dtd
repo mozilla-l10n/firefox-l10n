@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard sökmotor">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Välj din standardsökmotor. &brandShortName; använder den i adressfältet, i sökfältet och på startsidan.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Välj standardsökmotor som ska användas i adressfältet och sökfältet.">
 
 <!ENTITY provideSearchSuggestions.label        "Ge sökförslag">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Visa sökförslag i och adressfältet">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Visa sökförslag i adressfältets resultat">
+<!ENTITY showURLBarSuggestions2.accesskey       "f">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat &brandShortName; att aldrig spara historik.">
 
 <!ENTITY oneClickSearchEngines.label           "Sökfältets sökmotorer">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Sökfältet låter dig söka med alternativa sökmotorer direkt. Välj vilka som ska visas.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Välj alternativa sökmotorer som visas under adressfältet och sökfältet när du börjar skriva in ett nyckelord.">
 
 <!ENTITY engineNameColumn.label                "Sökmotor">
 <!ENTITY engineKeywordColumn.label             "Nyckelord">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Ta bort">
 <!ENTITY removeEngine.accesskey                "T">
 
-<!ENTITY addMoreSearchEngines2.label           "Lägg till fler sökmotorer">
+<!ENTITY findMoreSearchEngines.label           "Hitta fler sökmotorer">
