@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Ցուցադրել դատարկ էջ">
 <!ENTITY startupPrevSession.label  "Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները">
 
-<!ENTITY homepage2.label           "Տնային էջ">
-<!ENTITY homepage2.accesskey       "է">
+
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">
 <!ENTITY useCurrentPage.accesskey  "ը">
 <!ENTITY useMultiple.label         "Օգտագործել ընթացիկ էջերը">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Միշտ ստուգել, թե արդյոք &brandShortName;-ը ձեր հիմնական դիտարկիչն է">
 <!ENTITY alwaysCheckDefault2.accesskey    "շ">
-<!ENTITY setAsMyDefaultBrowser2.label     "Դարձնել հիմնականը">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "հ">
+
+
 <!ENTITY isDefault.label                  "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչն է">
 <!ENTITY isNotDefault.label               "&brandShortName;-ը այժմ ձեր հիմնական դիտարկիչը չէ">
 

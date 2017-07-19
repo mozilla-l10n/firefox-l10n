@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Պատմություն">
 
 
-<!ENTITY  locationBar.label             "Հասցեի վահանակ">
 
-<!ENTITY  locbar.suggest2.label         "Հասցեի գոտին օգտագործելիս առաջարկել">
 <!ENTITY  locbar.history.label          "Պատմություն">
 <!ENTITY  locbar.history.accesskey      "Պ">
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Կարգավորումներ...">
 <!ENTITY  clearOnCloseSettings.accesskey "ր">
 
-<!ENTITY  browserContainersHeader.label         "Պարունակ ներդիրներ">
 <!ENTITY  browserContainersLearnMore.label      "Իմանալ ավելին">
 <!ENTITY  browserContainersEnabled.label        "Միացնել պարունակ ներդիրները">
 <!ENTITY  browserContainersEnabled.accesskey    "ի">

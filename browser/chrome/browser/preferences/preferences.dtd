@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Որոնման արդյունքներ">
 <!ENTITY  paneGeneral.title             "Ընդհանուր">
+<!ENTITY  paneSearch.title              "Որոնում">
 <!ENTITY  paneFilesApplications.title   "Ֆայլեր և ծրագրեր">
 <!ENTITY  panePrivacySecurity.title     "Գաղտնիություն և անվտանգություն">
 <!ENTITY  paneContainers.title          "Պարունակ ներդիրներ">
 <!ENTITY  paneUpdates.title             "Թարմացումներ">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox-ի Հաշիվ">
 
 <!ENTITY  helpButton2.label        "&brandShortName;-ի աջակցում">
-
-<!ENTITY  searchInput.label        "Որոնում">
