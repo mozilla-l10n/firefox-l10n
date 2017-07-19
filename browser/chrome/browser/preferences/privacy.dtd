@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "Motlhala wa tsedifitileng">
 
 
-<!ENTITY  locationBar.label             "Bara ya Lefelo">
 
 <!ENTITY  locbar.history.label          "Motlhala wa tsedifitileng">
 <!ENTITY  locbar.history.accesskey      "M">
@@ -73,7 +72,6 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 
 
 

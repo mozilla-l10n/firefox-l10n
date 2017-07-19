@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Thibela di Window tse di tlhagelelang">
 <!ENTITY  blockPopups.accesskey       "T">
 
-<!ENTITY  notificationsPolicy.label            "Dikitsiso">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ithute mo go tseneletseng">
 <!ENTITY  notificationsPolicyDesc3.label       "Tlhopha gore ke di saete tse fe tse di letlelelwang go go romelela dikitsiso">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "Mebala…">
 <!ENTITY  colors.accesskey            "M">
 
-
-<!ENTITY languages.label              "Dipuo">
 <!ENTITY chooseLanguage.label         "Tlhopha puo e o dumelanang le yone go bontsha ditsebe.">
 <!ENTITY chooseButton.label           "Tlhopha…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,6 +48,5 @@
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
-<!ENTITY  playDRMContent.label         "Tshameka diteng tsa DRM">
-<!ENTITY  playDRMContent.accesskey     "T">
+
 <!ENTITY  playDRMContent.learnMore.label "Ithute mo go tseneletseng">

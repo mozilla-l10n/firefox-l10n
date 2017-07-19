@@ -6,10 +6,6 @@
 
 <!ENTITY generalTab.label                "Ka kakaretso">
 
-<!ENTITY accessibility.label             "Tetlelesego">
-
-
-
 
 
 
@@ -38,10 +34,6 @@ available. -->
 
 
 
-
-
-
-<!ENTITY connection.label                "Kgolagano">
 
 
 
@@ -80,7 +72,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
