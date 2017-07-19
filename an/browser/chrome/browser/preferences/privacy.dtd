@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Historial">
 
 
-<!ENTITY  locationBar.label             "Barra d'adrezas">
 
-<!ENTITY  locbar.suggest2.label         "Quan se faiga servir a barra d'adrezas, sucherir">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcapachinas">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Configuración…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
 
-<!ENTITY  browserContainersHeader.label         "Pestanyas de contenedor">
 <!ENTITY  browserContainersLearnMore.label      "Saber-ne mas">
 <!ENTITY  browserContainersEnabled.label        "Habilitar las pestanyas de contenedor">
 <!ENTITY  browserContainersEnabled.accesskey    "H">

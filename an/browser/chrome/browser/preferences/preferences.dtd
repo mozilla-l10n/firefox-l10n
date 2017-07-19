@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Resultaus de buscar">
 <!ENTITY  paneGeneral.title             "Cheneral">
+<!ENTITY  paneSearch.title              "Mirar">
 <!ENTITY  paneFilesApplications.title   "Fichers &amp; Aplicacions">
 <!ENTITY  panePrivacySecurity.title     "Privacidat &amp; Seguranza">
 <!ENTITY  paneContainers.title          "Pestanyas contenederas">
 <!ENTITY  paneUpdates.title             "Actualizacions">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Conto de Firefox">
 
 <!ENTITY  helpButton2.label        "Soporte de &brandShortName;">
-
-<!ENTITY  searchInput.label        "Mirar">
