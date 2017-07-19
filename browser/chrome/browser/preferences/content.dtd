@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Wuskakowace wokno blokować">
 <!ENTITY  blockPopups.accesskey       "k">
 
-<!ENTITY  notificationsPolicy.label            "Zdźělenja">
 <!ENTITY  notificationsPolicyLearnMore.label   "Dalše informacije">
 <!ENTITY  notificationsPolicyDesc3.label       "Wubjerće, kotre sydła smědźa wam zdźělenki pósłać">
 <!ENTITY  notificationsPolicyButton.accesskey  "u">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Barby…">
 <!ENTITY  colors.accesskey            "B">
 
-
-<!ENTITY languages.label              "Rěče">
 <!ENTITY chooseLanguage.label         "Wubjerće swoju preferowanu rěč za zwobraznjenje stronow">
 <!ENTITY chooseButton.label           "Wubrać…">
 <!ENTITY chooseButton.accesskey       "u">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Přełožki wot">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM-wobsah">
 
-<!ENTITY  playDRMContent.label         "DRM-wobsah wothrać">
-<!ENTITY  playDRMContent.accesskey     "h">
+
 <!ENTITY  playDRMContent.learnMore.label "Dalše informacije">
