@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "نتائج البحث">
 <!ENTITY  paneGeneral.title             "عام">
+<!ENTITY  paneSearch.title              "البحث">
 <!ENTITY  paneFilesApplications.title   "الملفات و التطبيقات">
 <!ENTITY  panePrivacySecurity.title     "الخصوصية و الأمان">
 <!ENTITY  paneContainers.title          "الألسنة الحاوية">
 <!ENTITY  paneUpdates.title             "التحديثات">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "حساب فَيَرفُكس">
 
 <!ENTITY  helpButton2.label        "دعم &brandShortName;">
-
-<!ENTITY  searchInput.label        "البحث">

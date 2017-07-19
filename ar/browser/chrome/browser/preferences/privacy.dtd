@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "التأريخ">
 <!ENTITY  permissions.label             "الصلاحيات">
 
-<!ENTITY  locationBar.label             "شريط العناوين">
 
-<!ENTITY  locbar.suggest2.label         "عند استخدام شريط العناوين، اقترح">
 <!ENTITY  locbar.history.label          "التأريخ">
 <!ENTITY  locbar.history.accesskey      "ت">
 <!ENTITY  locbar.bookmarks.label        "العلامات">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "إعدادات…">
 <!ENTITY  clearOnCloseSettings.accesskey "د">
 
-<!ENTITY  browserContainersHeader.label         "الألسنة الحاوية">
 <!ENTITY  browserContainersLearnMore.label      "اطّلع على المزيد">
 <!ENTITY  browserContainersEnabled.label        "فعل الألسنة الحاوية">
 <!ENTITY  browserContainersEnabled.accesskey    "ف">
