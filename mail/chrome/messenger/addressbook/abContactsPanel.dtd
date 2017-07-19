@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Lastnosti dopisnega seznama">
 <!ENTITY mailingListPropertiesMenu.accesskey "d">
 
+<!ENTITY abContextMenuButton.tooltip        "Prikaži vsebinski meni imenika">
 <!ENTITY addressbookPicker.label            "Imenik:">
 <!ENTITY addressbookPicker.accesskey        "m">
 <!ENTITY searchContacts.label               "Išči po stikih:">
