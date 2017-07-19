@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Hacer visible los dispositivos seleccionados">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sitio pegado">
+<!ENTITY home_unpinned_site "Sitio despegado">
+
 <!ENTITY remote_tabs_panel_moved_title "¿A donde fueron mis pestañas?">
 <!ENTITY remote_tabs_panel_moved_desc "Movimos las pestañas de tus otros dispositivos a un panel en tu página de inicio que puede accederse fácilmente cada vez que abrás una nueva pestaña.">
 <!ENTITY remote_tabs_panel_moved_link "Ir a mi nuevo panel.">
