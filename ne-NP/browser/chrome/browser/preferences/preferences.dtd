@@ -14,11 +14,13 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "सामान्य">
+<!ENTITY  paneSearch.title              "खोज">
 
 
 <!ENTITY  paneContainers.title          "कन्टेनर ट्याबहरू">
 
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-
-<!ENTITY  searchInput.label        "खोज">

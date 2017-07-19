@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "इतिहास">
 
 
-<!ENTITY  locationBar.label             "स्थानपट्टी ">
 
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -102,7 +101,6 @@
 <!ENTITY  clearOnCloseSettings.label     "ढाँचाहरू...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "कन्टेनर ट्याबहरू">
 <!ENTITY  browserContainersLearnMore.label      "अझ जान्नुहोस्">
 <!ENTITY  browserContainersEnabled.label        "कन्टेनर ट्याबहरू सक्षम गर्नुहोस्">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "सामान्य">
 
-<!ENTITY accessibility.label             "पहुँचता">
-
 <!ENTITY useCursorNavigation.label       "पृष्ठहरू सफर गर्दा जहिले पनि कर्सर किहरू प्रयोग गर्नुहोस्">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार टच किबोर्ड देखाउनु होस्। ">
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "तपाईँलाई तपाईँको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईँको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईँको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; सँग बाँड्दछ ।">
-<!ENTITY enableHealthReport.label        " &brandShortName; को स्वास्थ्य रिपोर्ट सक्षम पार्नुहोस्">
-<!ENTITY enableHealthReport.accesskey    "R">
-
-
-<!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; तपाईँको ब्राउजरसँग सम्बन्धित प्रदर्शन, उपयोग, हार्डवेयर र अनुकुलन डाटा लाई &vendorShortName; सँग बाँड्दछ">
 
 
 
 
-<!ENTITY crashReporterDesc2.label         "क्रयास् रिपोटले &vendorShortName; लाई समस्या समाधान गर्न मद्दत गर्छ र तपाईँको ब्राउजरलाई स्थिर र सुरक्षित बनाउँछ">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; लाई तपाईँको तर्फबाट ब्याकलग क्रयास् रिपोट पठाउन अनुमति दिनुहोस्">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+
+
+
 
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
-<!ENTITY connection.label                "जडान">
 
 <!ENTITY connectionDesc.label            "&brandShortName; कसरी इन्टरनेटसँग जोडिएको छ कन्फिगर गर्नुहोस्">
 <!ENTITY connectionSettings.label        "सेटिङ्हरू…">
@@ -104,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
