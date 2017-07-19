@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Opće">
 
-<!ENTITY accessibility.label             "Pristupačnost">
-
 <!ENTITY useCursorNavigation.label       "Uvijek koristi strelice na tastaturi za kretanje po stranicama">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Traži tekst čim počnem da kucam">
 <!ENTITY searchOnStartTyping.accesskey   "k">
-<!ENTITY blockAutoReload.label           "Upozori me kada web stranice pokušaju da preusmjere ili osvježe stranicu">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Prikaži tastaturu za dodir kada je potrebno">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Pomaže vam da razumijete performanse vašeg računara i dijeli podatke sa &vendorShortName;-om o zdravlju vašeg browsera">
-<!ENTITY enableHealthReport.label        "Omogući &brandShortName; izvještaje o zdravlju">
-<!ENTITY enableHealthReport.accesskey    "r">
 
 
-<!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, upotrebi, hardveru i prilagođenjima vašeg browsera sa &vendorShortName;-om kako bi nam pomogli da unaprijedimo &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Dijeli dodatne podatke (npr. Telemetriju)">
-<!ENTITY enableTelemetryData.accesskey   "T">
 
 
-<!ENTITY crashReporterDesc2.label         "Izvještaji o rušenju pomažu &vendorShortName;-i da popravi probleme i učini vaš browser stabilnijim i sigurnijim">
-<!ENTITY alwaysSubmitCrashReports.label   "Omogući &brandShortName;u da u vaše ime šalje zapisane izvještaje o rušenju">
-<!ENTITY alwaysSubmitCrashReports.accesskey "a">
+
+
+
 
 
 <!ENTITY networkTab.label                "Mreža">
 
-<!ENTITY connection.label                "Konekcija">
 
 <!ENTITY connectionDesc.label            "Konfigurišite kako se &brandShortName; konektuje na internet">
 <!ENTITY connectionSettings.label        "Postavke…">
@@ -112,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automatski nadograđuj pretraživače">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Izvještaji">
 
 <!ENTITY offlineStorageNotify.label               "Obavijestiti vas kada web stranica zatraži dozvolu za pohranu podataka za offline upotrebu">
 <!ENTITY offlineStorageNotify.accesskey           "t">

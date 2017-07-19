@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Postavke">
 <!ENTITY removeButton.label   "Ukloni">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Nazad na Privatnost">
 
 <!ENTITY window.title         "Dodaj novi Container">
 <!ENTITY window.width         "45em">

@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
 <!ENTITY startupPrevSession.label  "Prikazati vaše prozore i tabove od zadnjeg puta">
 
-<!ENTITY homepage2.label           "Početna stranica">
-<!ENTITY homepage2.accesskey       "P">
+
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Uvijek provjeravaj da li je &brandShortName; glavni browser">
 <!ENTITY alwaysCheckDefault2.accesskey    "g">
-<!ENTITY setAsMyDefaultBrowser2.label     "Učini izvornim">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "i">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; je trenutno vaš glavni browser">
 <!ENTITY isNotDefault.label               "&brandShortName; trenutno nije vaš glavni browser">
 

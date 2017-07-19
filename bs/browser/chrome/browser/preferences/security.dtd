@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Sigurnost">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Upozoriti vas kada stranice pokušaju instalirati add-one">
 <!ENTITY  warnOnAddonInstall.accesskey    "U">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

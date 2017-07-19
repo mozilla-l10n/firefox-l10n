@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Historija">
 
 
-<!ENTITY  locationBar.label             "Adresna traka">
 
-<!ENTITY  locbar.suggest2.label         "Pri korištenju adresne trake, predloži">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Zabilješke">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Container tabovi">
 <!ENTITY  browserContainersLearnMore.label      "Saznajte više">
 <!ENTITY  browserContainersEnabled.label        "Omogući Container tabove">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
