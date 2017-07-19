@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "ପପ୍-ଅପ୍ ୱିଣ୍ଡୋକୁ ବ୍ଲକ କରନ୍ତୁ">
 <!ENTITY  blockPopups.accesskey       "B">
-
 
 
 
@@ -29,8 +27,6 @@
 <!ENTITY  colors.label                "ରଙ୍ଗ…">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "ଭାଷା">
 <!ENTITY chooseLanguage.label         "ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଦର୍ଶାଇବା ପାଇଁ ଆପଣଙ୍କର ପସନ୍ଦଯୋଗ୍ୟ ଭାଷା ବାଛନ୍ତୁ">
 <!ENTITY chooseButton.label           "ବାଛନ୍ତୁ…">
 <!ENTITY chooseButton.accesskey       "o">
