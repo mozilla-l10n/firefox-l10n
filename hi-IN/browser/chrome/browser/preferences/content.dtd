@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "पॉपअप विंडो को अवरोधित करें">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "अधिसूचना">
 <!ENTITY  notificationsPolicyLearnMore.label   "अधिक जानें">
 <!ENTITY  notificationsPolicyDesc3.label       "कौन-सी वेबसाइटों अधिसूचना भेजने की अनुमति दे रहा">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "रंग...">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "भाषाएँ">
 <!ENTITY chooseLanguage.label         "पृष्ठ प्रदर्शन के लिए अपनी पसंदीदा भाषा का चयन करें">
 <!ENTITY chooseButton.label           "चयन करें…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM अंतर्वस्तु">
 
-<!ENTITY  playDRMContent.label         "DRM सामग्री बजाएँ">
-<!ENTITY  playDRMContent.accesskey     "P">
+
 <!ENTITY  playDRMContent.learnMore.label "अधिक जानें">

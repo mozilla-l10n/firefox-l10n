@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "सामान्य">
 
-<!ENTITY accessibility.label             "पहुँच">
-
 <!ENTITY useCursorNavigation.label       "पृष्ठ के अंदर संचरण के लिए हमेशा कर्सर का प्रयोग करें">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "जब टाइप करना शुरू करते हैं तभी पाठ के लिए खोजें">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "आपको चेतावनी दें जब वेबसाइट पृष्ठ को पुनर्निर्देशित या पुनर्लोड करना चाहते हैं">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार स्पर्श वाला कीबोर्ड दिखाएँ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "आपके ब्राउज़र प्रदर्शन को समझने में मदद करता है और &vendorShortName; के साथ आपके ब्राउज़र के स्वास्थ्य संबंधी आँकड़ा साझा करता है">
-<!ENTITY enableHealthReport.label        "&brandShortName; स्थास्थ्य रिपोर्ट सक्रिय करें">
-<!ENTITY enableHealthReport.accesskey    "R">
+
 <!ENTITY healthReportLearnMore.label     "अधिक जानें">
 
-<!ENTITY telemetryDesc.label             "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए प्रदर्शन, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करते हैं">
-<!ENTITY enableTelemetryData.label       "अतिरिक्त आँकड़ा साझा करें (यानी, टेलीमिति)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "अधिक जानें">
 
-<!ENTITY crashReporterDesc2.label         "क्रेश विवरण &vendorShortName; समस्याएँ ठीक करने और आपके ब्राउज़र को ज्यादा स्थायी और सुरक्षित रखने में मदद करता है ">
-<!ENTITY alwaysSubmitCrashReports.label   "आपके निमित्त कार्यसंचित क्रेश विवरण भेजने हेतु &brandShortName; को अनुमति दें">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "अधिक जानें">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "अधिक जानें">
 
 <!ENTITY networkTab.label                "संजाल">
 
-<!ENTITY connection.label                "कनेक्शन">
 
 <!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे &brandShortName; इंटरनेट से जुड़ता है">
 <!ENTITY connectionSettings.label        "सेटिंग…">
@@ -113,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "स्वचालित रूप से खोज इंजन का अद्यतन करें">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "रिपोर्ट">
 
 <!ENTITY offlineStorageNotify.label               "आपको बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
 <!ENTITY offlineStorageNotify.accesskey           "T">

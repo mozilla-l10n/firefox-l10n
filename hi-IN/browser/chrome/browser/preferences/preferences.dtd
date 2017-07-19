@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "खोज परिणाम">
 <!ENTITY  paneGeneral.title             "सामान्य">
+<!ENTITY  paneSearch.title              "खोजें">
 <!ENTITY  paneFilesApplications.title   "फ़ाइल व अनुप्रयोग">
 <!ENTITY  panePrivacySecurity.title     "गोपनीयता व सुरक्षा">
 <!ENTITY  paneContainers.title          "पात्र टैब">
 <!ENTITY  paneUpdates.title             "अद्यतन">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox खाता">
 
 <!ENTITY  helpButton2.label        "&brandShortName; समर्थन">
-
-<!ENTITY  searchInput.label        "खोजें">

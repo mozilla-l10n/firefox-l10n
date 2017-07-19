@@ -31,7 +31,6 @@
 <!ENTITY  history.label                 "इतिहास">
 
 
-<!ENTITY  locationBar.label             "स्थान पट्टी">
 
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -104,7 +103,6 @@
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्स…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "आधान टैब">
 <!ENTITY  browserContainersLearnMore.label      "और जानें">
 <!ENTITY  browserContainersEnabled.label        "आधान टैब चालू करें ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

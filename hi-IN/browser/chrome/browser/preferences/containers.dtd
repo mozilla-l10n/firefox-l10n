@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "प्राथमिकताएँ">
 <!ENTITY removeButton.label   "हटायें">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "#171; फिर से गोपनीयता पर जाएँ">
 
 <!ENTITY window.title         "नया पात्र जोड़े">
 <!ENTITY window.width         "45em">
