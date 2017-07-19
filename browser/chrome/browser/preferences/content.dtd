@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Guhagarika Amadirishya y'Ibyiramburirahejuru">
 <!ENTITY  blockPopups.accesskey       "h">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "Amabara...">
 <!ENTITY  colors.accesskey            "A">
 
-
-<!ENTITY languages.label              "Indimi">
 
 
 
