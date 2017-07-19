@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "रिक्त पृष्ठ दाखवा">
 <!ENTITY startupPrevSession.label  "शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा">
 
-<!ENTITY homepage2.label           "मुख्य पृष्ठ">
-<!ENTITY homepage2.accesskey       "P">
+
 <!ENTITY useCurrentPage.label      "सध्याच्या पृष्ठाचे वापर करा">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सध्याच्या पृष्ठांचा वापर करा">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "नेहमी &brandShortName; पूर्वनिर्धारित ब्राउझर आहे याची खात्री करा">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "पूर्वनिर्धारित ब्राउजर बनवा">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; सध्या आपले पूर्वनिर्धारित ब्राउझर आहे">
 <!ENTITY isNotDefault.label               "&brandShortName; सध्या आपले पूर्वनिर्धारित ब्राउझर नाही आहे">
 

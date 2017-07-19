@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "इतिहास">
 <!ENTITY  permissions.label             "परवानग्या">
 
-<!ENTITY  locationBar.label             "ठिकाण पट्टी">
 
-<!ENTITY  locbar.suggest2.label         "स्थान पट्टी वापरतेवेळी, सूचवा">
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "वाचनखूण">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "सेटिंग्ज…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "कंटेनर टॅब्स">
 <!ENTITY  browserContainersLearnMore.label      "आणखी शिका">
 <!ENTITY  browserContainersEnabled.label        "कंटेनर टॅब्स सक्रीय करा">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

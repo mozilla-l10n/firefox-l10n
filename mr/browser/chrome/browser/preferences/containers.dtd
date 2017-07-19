@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "प्राधान्यक्रम">
 <!ENTITY removeButton.label   "काढून टाका">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "#171; परत गोपनीयतेकडे जा">
 
 <!ENTITY window.title         "नवीन कंटेनर जोडा">
 <!ENTITY window.width         "45em">

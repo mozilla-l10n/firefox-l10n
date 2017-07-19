@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "सामान्य">
 
-<!ENTITY accessibility.label             "प्रवेश">
-
 <!ENTITY useCursorNavigation.label       "पृष्ठाच्या आत संचार करण्याकरता नेहमी कर्सर कळचा वापर करा">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "लिहीण्यास सुरूवात केल्यावर मजकुर शोधा">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "संकेतस्थळ पृष्ठ पुन्हनिर्देशीत किंवा पुन्हदाखल करतेवेळी मला सतर्क करा">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "जेव्हा आवश्यक असेल तेव्हा टच कीबोर्ड दाखवा">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे">
 
-<!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास आपली मदत करतो व ब्राउझरची प्रकृती &vendorShortName; सह शेअर करतो">
-<!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
-<!ENTITY enableHealthReport.accesskey    "R">
+
 <!ENTITY healthReportLearnMore.label     "आणखी जाणा">
 
-<!ENTITY telemetryDesc.label             "ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
-<!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजेच Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "आणखी जाणा">
 
-<!ENTITY crashReporterDesc2.label         "क्रॅश अहवाल &vendorShortName; ला आपल्या अडचणी सोडविण्यासाठी आणि ब्राउझर अधिक स्थिर व सुरक्षित ठेवण्यासाठी मदत करतो">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; ला आपल्या वतीने अनुशेषित क्रॅश अहवाल पाठविण्याची परवानगी द्या">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "आणखी जाणा">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "आणखी जाणा">
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
-<!ENTITY connection.label                "जोडणी">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ची इंटरनेटशी जुळणीकरता संरचना करा">
 <!ENTITY connectionSettings.label        "सेटिंग्ज…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "शोध इंजिन आपोआप अद्ययावत करा">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "अहवाल">
 
 <!ENTITY offlineStorageNotify.label               "ऑफलाइन वापरासाठी माहिती केंव्हा साठवली जाते, ते कळवा">
 <!ENTITY offlineStorageNotify.accesskey           "T">
