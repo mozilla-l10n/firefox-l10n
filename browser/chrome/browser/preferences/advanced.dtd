@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Ginearálta">
 
-<!ENTITY accessibility.label             "Inrochtaineacht">
-
 <!ENTITY useCursorNavigation.label       "Úsáid eochracha cúrsóra i gcónaí chun bogadh laistigh de leathanaigh">
 <!ENTITY useCursorNavigation.accesskey   "e">
 <!ENTITY searchOnStartTyping.label       "Cuardaigh téacs nuair a thosóidh mé ag clóscríobh">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht leathanach a athlódáil nó a atreorú">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Taispeáin méarchlár tadhaill nuair is gá">
 <!ENTITY useOnScreenKeyboard.accesskey   "m">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo">
 
-<!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht an bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do leagan den bhrabhsálaí chuig &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Cumasaigh Tuairisc Shláinte &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "T">
+
 <!ENTITY healthReportLearnMore.label     "Tuilleadh eolais">
 
-<!ENTITY telemetryDesc.label             "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh an bhrabhsálaí chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
-<!ENTITY enableTelemetryData.label       "Comhroinn Sonraí Breise (.i., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Tuilleadh eolais">
 
-<!ENTITY crashReporterDesc2.label         "Cabhraíonn tuairiscí tuairteála le &vendorShortName; fadhbanna a réiteach agus brabhsálaí níos cobhsaí níos sláine a chur ar fáil">
-<!ENTITY alwaysSubmitCrashReports.label   "Lig do &brandShortName; seantuairiscí tuairteála a sheoladh ar do shon">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Tuilleadh eolais">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Tuilleadh eolais">
 
 <!ENTITY networkTab.label                "Líonra">
 
-<!ENTITY connection.label                "Ceangal">
 
 <!ENTITY connectionDesc.label            "Cumraigh conas a cheanglófar &brandShortName; leis an Idirlíon">
 <!ENTITY connectionSettings.label        "Socruithe…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Nuashonraigh innill chuardaigh go huathoibríoch">
 <!ENTITY enableSearchUpdate2.accesskey   "c">
-
-<!ENTITY reports.label                   "Tuairiscí">
 
 <!ENTITY offlineStorageNotify.label               "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
 <!ENTITY offlineStorageNotify.accesskey           "t">

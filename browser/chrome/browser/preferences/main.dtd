@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Taispeáin leathanach folamh">
 <!ENTITY startupPrevSession.label  "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
 
-<!ENTITY homepage2.label           "Leathanach Baile">
-<!ENTITY homepage2.accesskey       "B">
+
 <!ENTITY useCurrentPage.label      "Úsáid an Leathanach Reatha">
 <!ENTITY useCurrentPage.accesskey  "R">
 <!ENTITY useMultiple.label         "Úsáid na Leathanaigh Reatha">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Seiceáil i gcónaí an é &brandShortName; an brabhsálaí réamhshocraithe">
 <!ENTITY alwaysCheckDefault2.accesskey    "g">
-<!ENTITY setAsMyDefaultBrowser2.label     "Úsáid mar Réamhshocrú">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+
+
 <!ENTITY isDefault.label                  "Is é &brandShortName; do bhrabhsálaí réamhshocraithe faoi láthair">
 <!ENTITY isNotDefault.label               "Ní hé &brandShortName; do bhrabhsálaí réamhshocraithe faoi láthair">
 

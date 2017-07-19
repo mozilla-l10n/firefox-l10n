@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Inneall Cuardaigh Réamhshocraithe">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Roghnaigh inneall cuardaigh réamhshocraithe. Úsáideann &brandShortName; é sa bharra suímh, sa bharra cuardaigh, agus ar an leathanach tosaigh.">
 
 <!ENTITY provideSearchSuggestions.label        "Tabhair moltaí cuardaigh dom">
 <!ENTITY provideSearchSuggestions.accesskey    "c">
 
-<!ENTITY showURLBarSuggestions.label           "Taispeáin moltaí cuardaigh i dtorthaí sa mbarra suímh">
-<!ENTITY showURLBarSuggestions.accesskey       "s">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le &brandShortName; gan do stair bhrabhsála a mheabhrú.">
 
 <!ENTITY oneClickSearchEngines.label           "Innill Chuardaigh Aonchlic">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Is féidir leat innill chuardaigh a roghnú go díreach sa bharra cuardaigh. Roghnaigh na cinn atá uait.">
 
 <!ENTITY engineNameColumn.label                "Inneall Cuardaigh">
 <!ENTITY engineKeywordColumn.label             "Lorgfhocal">
@@ -26,4 +23,3 @@
 <!ENTITY removeEngine.label                    "Bain">
 <!ENTITY removeEngine.accesskey                "B">
 
-<!ENTITY addMoreSearchEngines2.label           "Tuilleadh inneall cuardaigh">
