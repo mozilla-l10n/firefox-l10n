@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "ทั่วไป">
 
-<!ENTITY accessibility.label             "การช่วยเข้าถึง">
-
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ">
 <!ENTITY useCursorNavigation.accesskey   "ก">
 <!ENTITY searchOnStartTyping.label       "ค้นหาข้อความเมื่อคุณเริ่มพิมพ์">
 <!ENTITY searchOnStartTyping.accesskey   "ว">
-<!ENTITY blockAutoReload.label           "เตือนคุณเมื่อเว็บไซต์พยายามจะเปลี่ยนเส้นทางหรือโหลดหน้าใหม่">
-<!ENTITY blockAutoReload.accesskey       "พ">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น">
 <!ENTITY useOnScreenKeyboard.accesskey   "ผ">
 
@@ -28,24 +24,18 @@
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
-<!ENTITY healthReportDesc.label          "ช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณและแบ่งปันข้อมูลกับ &vendorShortName; เกี่ยวกับสุขภาพเบราว์เซอร์ของคุณ">
-<!ENTITY enableHealthReport.label        "เปิดใช้งานรายงานสุขภาพ &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
-<!ENTITY telemetryDesc.label             "แบ่งปันข้อมูลประสิทธิภาพ, การใช้งาน, ฮาร์ดแวร์ และการปรับแต่งเกี่ยวกับเบราว์เซอร์ของคุณกับ &vendorShortName; เพื่อช่วยเราทำ &brandShortName; ให้ดีขึ้น">
-<!ENTITY enableTelemetryData.label       "แบ่งปันข้อมูลเพิ่มเติม (เช่น การวัดและส่งข้อมูลทางไกล)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่มเติม">
+<!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
-<!ENTITY crashReporterDesc2.label         "รายงานข้อขัดข้องช่วยให้ &vendorShortName; แก้ไขปัญหาและทำให้เบราว์เซอร์ของคุณเสถียรและปลอดภัยขึ้น">
-<!ENTITY alwaysSubmitCrashReports.label   "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องที่ค้างอยู่ในนามของคุณ">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "เรียนรู้เพิ่มเติม">
+<!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
 
-<!ENTITY connection.label                "การเชื่อมต่อ">
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
@@ -110,8 +100,6 @@
 
 <!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
 <!ENTITY enableSearchUpdate2.accesskey   "อ">
-
-<!ENTITY reports.label                   "รายงาน">
 
 <!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
 <!ENTITY offlineStorageNotify.accesskey           "T">

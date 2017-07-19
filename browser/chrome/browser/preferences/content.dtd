@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "ป๊อปอัป">
+<!ENTITY  permissions.label           "การอนุญาต">
 
 <!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป๊อปอัป">
 <!ENTITY  blockPopups.accesskey       "ป">
 
-<!ENTITY  notificationsPolicy.label            "การแจ้งเตือน">
 <!ENTITY  notificationsPolicyLearnMore.label   "เรียนรู้เพิ่มเติม">
 <!ENTITY  notificationsPolicyDesc3.label       "เลือกว่าไซต์ใดที่อนุญาตให้ส่งการแจ้งเตือนมาให้คุณ">
 <!ENTITY  notificationsPolicyButton.accesskey  "ล">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "ส">
 
 
-<!ENTITY languages.label              "ภาษา">
+<!ENTITY language2.label              "ภาษา">
 <!ENTITY chooseLanguage.label         "เลือกภาษาที่คุณต้องการในการแสดงผลหน้า">
 <!ENTITY chooseButton.label           "เลือก…">
 <!ENTITY chooseButton.accesskey       "ล">
@@ -53,8 +52,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "แปลโดย">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "เนื้อหา DRM">
 
-<!ENTITY  playDRMContent.label         "เล่นเนื้อหา DRM">
-<!ENTITY  playDRMContent.accesskey     "ล">
 <!ENTITY  playDRMContent.learnMore.label "เรียนรู้เพิ่มเติม">
