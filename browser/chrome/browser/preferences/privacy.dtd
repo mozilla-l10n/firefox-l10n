@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "History">
 
 
-<!ENTITY  locationBar.label             "Location Bar">
 
 <!ENTITY  locbar.history.label          "History">
 <!ENTITY  locbar.history.accesskey      "H">
@@ -102,7 +101,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Settings…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Container Tabs">
 <!ENTITY  browserContainersLearnMore.label      "Learn more">
 <!ENTITY  browserContainersEnabled.label        "Enable Container Tabs">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

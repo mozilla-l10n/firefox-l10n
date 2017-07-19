@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accessibility">
-
 <!ENTITY useCursorNavigation.label       "Always use the cursor keys to navigate within pages">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 <!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
-<!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customisation data about your browser with &vendorShortName; to help us make &brandShortName; better">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Network">
 
-<!ENTITY connection.label                "Connection">
 
 <!ENTITY connectionDesc.label            "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionSettings.label        "Settings…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
