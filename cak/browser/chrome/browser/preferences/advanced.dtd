@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Tikanöx taq rucholajem tzij toq tajin yatz'ib'an">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Tiya' rutzijol chi re toq jun ruxaq k'amaya'l nrajo' yiruk'waj juk'an chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'.">
+<!ENTITY blockAutoReload.label           "Tiya' rutzijol chi re toq jun ruxaq k'amaya'l nrajo' yiruk'waj juk'an chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'">
 <!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin">
 <!ENTITY useOnScreenKeyboard.accesskey   "p">
@@ -50,7 +50,7 @@ available. -->
 
 <!ENTITY networkTab.label                "K'amab'ey">
 
-<!ENTITY connection.label                "Okem pa k'amaya'l:">
+<!ENTITY connection.label                "Okem">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 <!ENTITY connectionSettings.label        "Tinuk'…">
@@ -129,7 +129,7 @@ available. -->
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
-<!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
+<!ENTITY certificateTab.label            "Taq ruwujil b'i'aj">
 <!ENTITY certPersonal2.description       "Toq jun ruk'u'x samaj nuk'utuj pe ri ruwujil ab'i'">
 <!ENTITY selectCerts.auto                "Pa ruyonil ticha' jun">
 <!ENTITY selectCerts.auto.accesskey      "S">
