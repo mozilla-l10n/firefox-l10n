@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Cyffredinol">
 
-<!ENTITY accessibility.label             "Hygyrchedd">
-
 <!ENTITY useCursorNavigation.label       "Defnyddio bysellau'r cyrchwr ar gyfer symud o fewn tudalennau">
 <!ENTITY useCursorNavigation.accesskey   "D">
 <!ENTITY searchOnStartTyping.label       "Chwilio am destun wrth i mi gychwyn teipio">
 <!ENTITY searchOnStartTyping.accesskey   "d">
-<!ENTITY blockAutoReload.label           "Rhybuddio pan fydd gwefannau yn ceisio ailgyfeirio neu ail lwytho tudalen">
-<!ENTITY blockAutoReload.accesskey       "R">
 <!ENTITY useOnScreenKeyboard.label       "Dangos bysellfwrdd cyffwrdd pan fydd angen">
 <!ENTITY useOnScreenKeyboard.accesskey   "b">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn">
 
-<!ENTITY healthReportDesc.label          "Mae'n eich cynorthwyo i ddeall berfformiad eich porwr ac yn rhannu data gyda &vendorShortName; am iechyd eich porwr">
-<!ENTITY enableHealthReport.label        "Galluogi Adroddiad Iechyd &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "A">
+
 <!ENTITY healthReportLearnMore.label     "Dysgu rhagor">
 
-<!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich porwr gyda &vendorShortName; er mwyn gwella &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Rhannu Data Ychwanegol (h.y., Telemetreg)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Dysgu rhagor">
 
-<!ENTITY crashReporterDesc2.label         "Mae adroddiadau chwalu yn cynorthwyo &vendorShortName; i ddatrys problemau ac i wneud eich porwr yn fwy sefydlog a diogel">
-<!ENTITY alwaysSubmitCrashReports.label   "Caniatáu i &brandShortName; i anfon adroddiadau chwalu wedi eu cadw ar eich rhan">
-<!ENTITY alwaysSubmitCrashReports.accesskey "a">
-<!ENTITY crashReporterLearnMore.label     "Dysgu rhagor">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Dysgu rhagor">
 
 <!ENTITY networkTab.label                "Rhwydwaith">
 
-<!ENTITY connection.label                "Cyswllt">
 
 <!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We">
 <!ENTITY connectionSettings.label        "Gosodiadau…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Diweddaru peiriannau chwilio yn awtomatig">
 <!ENTITY enableSearchUpdate2.accesskey   "p">
-
-<!ENTITY reports.label                   "Adroddiadau">
 
 <!ENTITY offlineStorageNotify.label               "Dweud wrthyf pan fydd gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
 <!ENTITY offlineStorageNotify.accesskey           "D">

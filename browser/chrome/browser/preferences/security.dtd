@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Diogelwch">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Rhybuddio pan fydd gwefan yn ceisio gosod ychwanegion">
 <!ENTITY  warnOnAddonInstall.accesskey    "y">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
