@@ -4,18 +4,17 @@
 
 <!ENTITY defaultSearchEngine.label             "Moteur de recherche par défaut">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Sélectionnez votre moteur de recherche par défaut. &brandShortName; l’utilise dans la barre d’adresse, la barre de recherche et sur la page de démarrage.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Sélectionnez le moteur de recherche à utiliser par défaut dans la barre d’adresse et la barre de recherche.">
 
 <!ENTITY provideSearchSuggestions.label        "Afficher les suggestions de recherche">
 <!ENTITY provideSearchSuggestions.accesskey    "A">
 
-<!ENTITY showURLBarSuggestions.label           "Afficher les suggestions de recherche parmi les résultats de la barre d’adresse">
-<!ENTITY showURLBarSuggestions.accesskey       "f">
+<!ENTITY showURLBarSuggestions2.label           "Afficher les suggestions de recherche parmi les résultats de la barre d’adresse">
+<!ENTITY showURLBarSuggestions2.accesskey       "c">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré &brandShortName; de façon à ce qu’il ne conserve jamais l’historique.">
 
 <!ENTITY oneClickSearchEngines.label           "Moteurs de recherche accessibles en un clic">
 
-<!ENTITY chooseWhichOneToDisplay.label         "La barre de recherche vous permet de changer de moteur de recherche à la volée. Sélectionnez ceux à afficher.">
 
 <!ENTITY engineNameColumn.label                "Moteur de recherche">
 <!ENTITY engineKeywordColumn.label             "Mot-clé">
@@ -26,4 +25,3 @@
 <!ENTITY removeEngine.label                    "Supprimer">
 <!ENTITY removeEngine.accesskey                "S">
 
-<!ENTITY addMoreSearchEngines2.label           "Ajouter d’autres moteurs de recherche">
