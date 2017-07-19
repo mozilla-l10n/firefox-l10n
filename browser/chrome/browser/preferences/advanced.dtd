@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "பொது">
 
-<!ENTITY accessibility.label             "அணுகுதிறன்">
-
 <!ENTITY useCursorNavigation.label       "எப்போதும் நிலைக்காட்டி விசைகளைப் பயன்படுத்திப் பக்கங்களிடையே செல்">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,10 +27,6 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ளவும் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; உடன் தரவைப் பகிர்ந்துகொள்ளவும் உதவுகிறது.">
-<!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை இயல்புபடுத்தவும்">
-<!ENTITY enableHealthReport.accesskey    "R">
-
 
 
 
@@ -46,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "வலையமைப்பு">
 
-<!ENTITY connection.label                "இணைப்பு">
 
 <!ENTITY connectionDesc.label            " &brandShortName; எவ்வாறு இணையத்துடன் இணைக்கப்படுகிறது என அமைக்க">
 <!ENTITY connectionSettings.label        "அமைவுகள்…">
@@ -102,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக">
 <!ENTITY useService.accesskey            "b">
-
 
 
 

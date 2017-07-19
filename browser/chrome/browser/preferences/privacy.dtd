@@ -26,7 +26,6 @@
 
 
 
-<!ENTITY  locationBar.label             "இடப் பட்டை">
 
 
 
@@ -71,7 +70,6 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 
 
 
