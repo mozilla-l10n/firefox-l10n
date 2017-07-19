@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Wěstota">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Warnowaś, gaž sedła wopytuju dodanki instalěrowaś">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
