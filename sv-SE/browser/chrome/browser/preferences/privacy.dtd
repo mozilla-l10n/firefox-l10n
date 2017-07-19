@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Historik">
 <!ENTITY  permissions.label             "Rättigheter">
 
-<!ENTITY  locationBar.label             "Adressfältet">
-
-<!ENTITY  locbar.suggest2.label         "När du använder adressfältet, föreslå">
+<!ENTITY  addressBar.label              "Adressfält">
+<!ENTITY  addressBar.suggest.label      "När du använder adressfältet, föreslå">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Inställningar…">
 <!ENTITY  clearOnCloseSettings.accesskey "n">
 
-<!ENTITY  browserContainersHeader.label         "Innehållsflikar">
 <!ENTITY  browserContainersLearnMore.label      "Lär dig mer">
 <!ENTITY  browserContainersEnabled.label        "Aktivera innehållsflikar">
 <!ENTITY  browserContainersEnabled.accesskey    "k">

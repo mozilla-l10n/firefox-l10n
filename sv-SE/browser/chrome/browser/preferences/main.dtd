@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrollera alltid om &brandShortName; är din standardwebbläsare">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">
-<!ENTITY setAsMyDefaultBrowser2.label     "Gör till standard">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "s">
+<!ENTITY setAsMyDefaultBrowser3.label     "Ange som standard…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "s">
 <!ENTITY isDefault.label                  "&brandShortName; är redan standardwebbläsare">
 <!ENTITY isNotDefault.label               "&brandShortName; är redan standardwebbläsare">
 
