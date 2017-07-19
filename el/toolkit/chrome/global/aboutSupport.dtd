@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Παράθυρα πολυδιεργασιών">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Διεργασίες διαδικτυακού περιεχομένου">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Κλειδί Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Κλειδί υπηρεσίας τοποθεσίας Mozilla">
 
