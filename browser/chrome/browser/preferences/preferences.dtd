@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Výsledky hledání">
 <!ENTITY  paneGeneral.title             "Obecné">
+<!ENTITY  paneSearch.title              "Hledání">
 <!ENTITY  paneFilesApplications.title   "Soubory a aplikace">
 <!ENTITY  panePrivacySecurity.title     "Soukromí a zabezpečení">
 <!ENTITY  paneContainers.title          "Kontejnerové panely">
 <!ENTITY  paneUpdates.title             "Aktualizace">
 
+<!ENTITY  languageAndAppearance.label   "Jazyk a zobrazení stránek">
+<!ENTITY  filesAndApplications.label    "Soubory a aplikace">
+<!ENTITY  browserPrivacy.label          "Nastavení soukromí">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Účet Firefoxu">
 
 <!ENTITY  helpButton2.label        "Nápověda aplikace &brandShortName;">
-
-<!ENTITY  searchInput.label        "Hledat">

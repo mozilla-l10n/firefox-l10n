@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Historie">
 <!ENTITY  permissions.label             "Oprávnění">
 
-<!ENTITY  locationBar.label             "Adresní řádek">
-
-<!ENTITY  locbar.suggest2.label         "V adresním řádku našeptávat">
+<!ENTITY  addressBar.label              "Adresní řádek">
+<!ENTITY  addressBar.suggest.label      "V adresním řádku našeptávat">
 <!ENTITY  locbar.history.label          "Historii">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastavení…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Kontejnery">
 <!ENTITY  browserContainersLearnMore.label      "Zjistit více">
 <!ENTITY  browserContainersEnabled.label        "Povolit kontejnerové panely">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

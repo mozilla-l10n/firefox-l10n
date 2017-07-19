@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Předvolby">
 <!ENTITY removeButton.label   "Odebrat">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Zpět na nastavení Soukromí">
+<!ENTITY backLink2.label      "&#171; Jít zpět">
 
 <!ENTITY window.title         "Přidat kontejner">
 <!ENTITY window.width         "45em">

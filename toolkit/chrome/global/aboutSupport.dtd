@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesová okna">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesy pro webový obsah">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Klíč Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Klíč Mozilla Location Service">
 

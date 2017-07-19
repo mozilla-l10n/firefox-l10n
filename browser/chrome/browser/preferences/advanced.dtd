@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Obecné">
 
-<!ENTITY accessibility.label             "Přístupnost">
-
 <!ENTITY useCursorNavigation.label       "Používat kurzorové šipky pro pohyb po stránce">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Psaním vyhledávat text na stránce">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "V případě potřeby zobrazit dotykovou klávesnici">
 <!ENTITY useOnScreenKeyboard.accesskey   "d">
 
@@ -33,24 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Odesílání dat je zakázáno konfigurací tohoto sestavení">
 
-<!ENTITY healthReportDesc.label          "Pomáhá porozumět výkonu a zdraví prohlížeče. Data jsou sdílena s organizací &vendorShortName;.">
-<!ENTITY enableHealthReport.label        "Povolit hlášení o zdraví aplikace &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "z">
 <!ENTITY healthReportLearnMore.label     "Zjistit více">
 
-<!ENTITY telemetryDesc.label             "Zaznamenává data o výkonu, hardwaru, používání a přizpůsobení prohlížeče &brandShortName;. Data o prohlížeči jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
-<!ENTITY enableTelemetryData.label       "Sdílet další údaje (např. telemetrii)">
-<!ENTITY enableTelemetryData.accesskey   "S">
-<!ENTITY telemetryLearnMore.label        "Zjistit více">
+<!ENTITY dataCollectionPrivacyNotice.label    "Zásady ochrany soukromí">
 
-<!ENTITY crashReporterDesc2.label         "Hlášení o pádech pomáhají organizaci &vendorShortName; opravovat chyby a zlepšovat stabilitu a bezpečnost vašeho prohlížeče.">
-<!ENTITY alwaysSubmitCrashReports.label   "Povolit aplikaci &brandShortName; odesílat nevyřízená hlášení o pádech za vás">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Zjistit více">
+<!ENTITY crashReporterLearnMore.label    "Zjistit více">
 
 <!ENTITY networkTab.label                "Síť">
 
-<!ENTITY connection.label                "Připojení">
+<!ENTITY networkProxy.label              "Nastavení připojení">
 
 <!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k internetu">
 <!ENTITY connectionSettings.label        "Nastavení…">
@@ -115,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovat vyhledávací moduly">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Hlášení">
 
 <!ENTITY offlineStorageNotify.label               "Upozornit, pokud server chce uložit offline obsah">
 <!ENTITY offlineStorageNotify.accesskey           "U">
