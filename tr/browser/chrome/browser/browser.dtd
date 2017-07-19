@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 
-<!ENTITY sendToDevice.label "Cihaza gönder…">
+<!ENTITY sendToDevice.label2 "Cihaza gönder">
 <!ENTITY sendToDevice.viewTitle "Cihaza gönder">
 <!ENTITY sendToDevice.fxaRequired.label "Gerekli">
 <!ENTITY sendToDevice.noDevices.label "Kullanılabilir cihaz yok">

@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Genel">
 
-<!ENTITY accessibility.label             "Erişilebilirlik">
-
 <!ENTITY useCursorNavigation.label       "Sayfaların içinde hareket ederken her zaman işaretçi tuşlarını kullan">
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchOnStartTyping.label       "Yazmaya başlar başlamaz arama yap">
 <!ENTITY searchOnStartTyping.accesskey   "z">
-<!ENTITY blockAutoReload.label           "Siteler sayfaları yönlendirmek veya tazelemek istediğinde beni uyar">
-<!ENTITY blockAutoReload.accesskey       "r">
 <!ENTITY useOnScreenKeyboard.label       "Gerektiğinde dokunmatik klavyeyi göster">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Bu yapılandırma için veri raporlama devre dışı bırakılmış">
 
-<!ENTITY healthReportDesc.label          "Tarayıcı performansınızı anlamanıza yardımcı olur ve tarayıcı sağlığınızla ilgili verileri &vendorShortName; ile paylaşır">
-<!ENTITY enableHealthReport.label        "&brandShortName; Sağlık Raporu’nu etkinleştir">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "&brandShortName;, teknik ve etkileşim verilerimi otomatik olarak Mozilla’ya gönderebilir">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Daha fazla bilgi al">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; tarayıcınızı iyileştirmemize yardımcı olmak için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
-<!ENTITY enableTelemetryData.label       "Ek verileri paylaş (örn. Telemetri)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Daha fazla bilgi al">
+<!ENTITY dataCollection.label            "&brandShortName; veri toplama ve kullanma izinleri">
+<!ENTITY dataCollectionDesc.label        "Yalnızca &brandShortName; tarayıcımızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Gizlilik bildirimi">
 
-<!ENTITY crashReporterDesc2.label         "Çökme raporları, &vendorShortName;’nın sorunları gidermesini, tarayıcınızı daha güvenilir ve güvenli hale getirmesini sağlar">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; geriye dönük çökme raporlarını benim adıma gönderebilir">
-<!ENTITY alwaysSubmitCrashReports.accesskey "k">
-<!ENTITY crashReporterLearnMore.label     "Daha fazla bilgi al">
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;, çökme raporlarımı Mozilla’ya gönderebilir">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ö">
+<!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi al">
 
 <!ENTITY networkTab.label                "Ağ">
 
-<!ENTITY connection.label                "Bağlantı">
+<!ENTITY networkProxy.label              "Ağ vekil sunucusu">
 
 <!ENTITY connectionDesc.label            "&brandShortName; tarayıcısının internete nasıl bağlanacağını ayarlayın">
 <!ENTITY connectionSettings.label        "Ayarlar…">
@@ -114,8 +107,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Arama motorlarını otomatik olarak güncelle">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Raporlar">
 
 <!ENTITY offlineStorageNotify.label               "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
 <!ENTITY offlineStorageNotify.accesskey           "v">
