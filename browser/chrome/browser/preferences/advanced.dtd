@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accessibilitat">
-
 <!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per navegar en les pàgines">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Cerca el text en començar a teclejar">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avisa quan els llocs web provin de redirigir o actualitzar la pàgina">
-<!ENTITY blockAutoReload.accesskey       "v">
 <!ENTITY useOnScreenKeyboard.label       "Mostra un teclat tàctil quan calgui">
 <!ENTITY useOnScreenKeyboard.accesskey   "M">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "L'informe de dades està desactivat en la configuració d'aquesta versió">
 
-<!ENTITY healthReportDesc.label          "Us ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
-<!ENTITY enableHealthReport.label        "Activa l'informe de salut del &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Més informació">
 
-<!ENTITY telemetryDesc.label             "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Comparteix dades addicionals (és a dir, la telemesura)">
-<!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Més informació">
 
-<!ENTITY crashReporterDesc2.label         "Els informes de fallada ajuden a &vendorShortName; a resoldre problemes i a fer més estable i segur el vostre navegador">
-<!ENTITY alwaysSubmitCrashReports.label   "Permet que el &brandShortName; enviï els informes de fallada pendents automàticament">
-<!ENTITY alwaysSubmitCrashReports.accesskey "P">
-<!ENTITY crashReporterLearnMore.label     "Més informació">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Més informació">
 
 <!ENTITY networkTab.label                "Xarxa">
 
-<!ENTITY connection.label                "Connexió">
 
 <!ENTITY connectionDesc.label            "Configureu com el &brandShortName; es connecta a Internet">
 <!ENTITY connectionSettings.label        "Paràmetres…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualitza automàticament els motors de cerca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Informes">
 
 <!ENTITY offlineStorageNotify.label               "Avisa quan un lloc web demani emmagatzemar dades per utilitzar-les fora de línia">
 <!ENTITY offlineStorageNotify.accesskey           "f">

@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
 
-<!ENTITY  locationBar.label             "Barra d'ubicació">
 
-<!ENTITY  locbar.suggest2.label         "Quan s'utilitzi la barra d'ubicació, suggereix">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Adreces d'interès">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Paràmetres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Pestanyes de contenidor">
 <!ENTITY  browserContainersLearnMore.label      "Més informació">
 <!ENTITY  browserContainersEnabled.label        "Habilita les pestanyes de contenidor">
 <!ENTITY  browserContainersEnabled.accesskey    "H">
