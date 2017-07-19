@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Hollu hello meho">
 <!ENTITY startupPrevSession.label  "Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe">
 
-<!ENTITY homepage2.label           "Hello Jaɓɓorgo">
-<!ENTITY homepage2.accesskey       "J">
+
 <!ENTITY useCurrentPage.label      "Huutoro Hello Wonaango">
 <!ENTITY useCurrentPage.accesskey  "W">
 <!ENTITY useMultiple.label         "Huutoro Kelle Gonaaɗe Ɗee">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Ƴeewto sahaa kala so &brandShortName; ko wanngorde maa woowaande">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
-<!ENTITY setAsMyDefaultBrowser2.label     "Waɗtu Woowaande">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "W">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; ko wanngoraade maa woowaande oo sahaa">
 <!ENTITY isNotDefault.label               "&brandShortName; wonaa wanngoraade maa woowaande">
 

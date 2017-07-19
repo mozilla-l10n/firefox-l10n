@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Cuɓaaɗe">
 <!ENTITY removeButton.label   "Momtu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Rutto to Suturo">
 
 <!ENTITY window.title         "Ɓeydu Mooftiree Hesere">
 <!ENTITY window.width         "45em">

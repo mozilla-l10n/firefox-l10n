@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Kisal">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Reentin am so lowe ina etoo aafde ɓeyditte">
 <!ENTITY  warnOnAddonInstall.accesskey    "R">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

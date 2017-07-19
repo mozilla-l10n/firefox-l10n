@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Kuuɓal">
 
-<!ENTITY accessibility.label             "Weeɓitaare">
-
 <!ENTITY useCursorNavigation.label       "Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle">
 <!ENTITY useCursorNavigation.accesskey   "g">
 <!ENTITY searchOnStartTyping.label       "Yiylo binndi so mi fuɗɗiima tappude">
 <!ENTITY searchOnStartTyping.accesskey   "n">
-<!ENTITY blockAutoReload.label           "Reentin am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
-<!ENTITY blockAutoReload.accesskey       "e">
 <!ENTITY useOnScreenKeyboard.label       "Hollu tappirde memto so soklaama">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo">
 
-<!ENTITY healthReportDesc.label          "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
-<!ENTITY enableHealthReport.label        "Hurmin &brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey    "R">
+
 <!ENTITY healthReportLearnMore.label     "Jokku Taro">
 
-<!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Lollin keɓe ɓeydaaɗe (i.e., Telemeetri)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Jokku taro">
 
-<!ENTITY crashReporterDesc2.label         "Jaŋte Kooke ena mballa &vendorShortName; ñawndude caɗe kadi ɓeyda peeragol maa deeƴde e hisde.">
-<!ENTITY alwaysSubmitCrashReports.label   "Yamir &brandShortName; yoo neldu jaŋte kooke ejtaaɗe caggal e innde maa">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Jokku taro">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Jokku taro">
 
 <!ENTITY networkTab.label                "Laylaytol">
 
-<!ENTITY connection.label                "Seŋorde">
 
 <!ENTITY connectionDesc.label            "Teelto no &brandShortName; seŋortoo e Enternet">
 <!ENTITY connectionSettings.label        "Teelte…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Kesɗitingol ajaaja jiylorɗe">
 <!ENTITY enableSearchUpdate2.accesskey   "l">
-
-<!ENTITY reports.label                   "Ciimti">
 
 <!ENTITY offlineStorageNotify.label               "&amp;Haalan mo so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
 <!ENTITY offlineStorageNotify.accesskey           "g">

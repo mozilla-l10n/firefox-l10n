@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Aslol">
 <!ENTITY  permissions.label             "Jamirooje">
 
-<!ENTITY  locationBar.label             "Palal Nokkuure">
 
-<!ENTITY  locbar.suggest2.label         "So aɗa huutoroo palal nokkuure, wasiyo:">
 <!ENTITY  locbar.history.label          "Aslol">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Maantore">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Teelte…">
 <!ENTITY  clearOnCloseSettings.accesskey "e">
 
-<!ENTITY  browserContainersHeader.label         "Tabbe Mooftirɗe">
 <!ENTITY  browserContainersLearnMore.label      "Ɓeydu humpito">
 <!ENTITY  browserContainersEnabled.label        "Hurmin Tabbe Mooftirɗe">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
