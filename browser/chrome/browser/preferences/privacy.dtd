@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "Povijest">
 
 
-<!ENTITY  locationBar.label             "Adresna traka">
 
 <!ENTITY  locbar.history.label          "Povijest">
 <!ENTITY  locbar.history.accesskey      "P">
@@ -102,7 +101,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Postavke…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Sadržajne kartice">
 <!ENTITY  browserContainersLearnMore.label      "Saznajte više">
 <!ENTITY  browserContainersEnabled.label        "Omogući sadržajne kartice">
 <!ENTITY  browserContainersEnabled.accesskey    "m">
