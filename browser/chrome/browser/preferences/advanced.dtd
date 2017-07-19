@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Umum">
 
-<!ENTITY accessibility.label             "Aksesibiliti">
-
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk navigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Cari teks sebaik sahaja anda mula menaip">
 <!ENTITY searchOnStartTyping.accesskey   "e">
-<!ENTITY blockAutoReload.label           "Beri amaran apabila laman web cuba mengalihkan atau mengulang muat halaman">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Papar papan kekunci sentuh apabila perlu">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Laporan data dinyahdayakan bagi konfigurasi binaan ini">
 
-<!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar dan berkongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda ini">
-<!ENTITY enableHealthReport.label        "Dayakan &brandShortName; Laporan Sistem">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "Izinkan &brandShortName; secara automatik menghantar data teknikal dan interaksi kepada Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ketahui Selanjutnya">
 
-<!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
-<!ENTITY enableTelemetryData.label       "Kongsi data tambahan (i.e., Telemetri)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Ketahui Selanjutnya">
+<!ENTITY dataCollection.label            "Pengumpulan dan penggunaan data &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Kami berusaha untuk menyediakan anda dengan pilihan dan hanya mengumpulkan apa yang kami perlukan, dan memajukan &brandShortName; untuk semua orang. Kami sentiasa meminta izin sebelum menerima maklumat peribadi.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Notis Privasi">
 
-<!ENTITY crashReporterDesc2.label         "Laporan ranap membantu &vendorShortName; membaiki masalah dan membuat pelayar anda lebih stabil dan lebih selamat">
-<!ENTITY alwaysSubmitCrashReports.label   "Izinkan &brandShortName; untuk menghantar backlog laporan ranap bagi pihak anda">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Ketahui Selanjutnya">
+<!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; menghantar laporan ranap kepada Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "l">
+<!ENTITY crashReporterLearnMore.label    "Ketahui Selanjutnya">
 
 <!ENTITY networkTab.label                "Rangkaian">
 
-<!ENTITY connection.label                "Sambungan">
+<!ENTITY networkProxy.label              "Proksi Rangkaian">
 
 <!ENTITY connectionDesc.label            "Konfigur cara &brandShortName; menyambung ke Internet">
 <!ENTITY connectionSettings.label        "Ubah suai…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Kemaskini enjin carian secara automatik">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Laporan">
 
 <!ENTITY offlineStorageNotify.label               "Maklumkan anda apabila laman web mahu menyimpan data bagi kegunaan luar talian">
 <!ENTITY offlineStorageNotify.accesskey           "B">

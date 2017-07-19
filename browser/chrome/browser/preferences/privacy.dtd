@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Sejarah">
 <!ENTITY  permissions.label             "Keizinan">
 
-<!ENTITY  locationBar.label             "Bar Lokasi">
-
-<!ENTITY  locbar.suggest2.label         "Semasa menggunakan bar lokasi, cadang">
+<!ENTITY  addressBar.label              "Bar Alamat">
+<!ENTITY  addressBar.suggest.label      "Apabila menggunakan bar alamat, syorkan">
 <!ENTITY  locbar.history.label          "Sejarah">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Tetapan…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Tab Penyimpan">
 <!ENTITY  browserContainersLearnMore.label      "Ketahui selanjutnya">
 <!ENTITY  browserContainersEnabled.label        "Dayakan Tab Kontena">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
