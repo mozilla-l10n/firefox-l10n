@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de busca por defecto">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Trigue o tuyo motor de busca por defecto. &brandShortName; lo fa servir en a barra de posición, y a pachina de inicio.">
 
 <!ENTITY provideSearchSuggestions.label        "Dar sucherencia de busca">
 <!ENTITY provideSearchSuggestions.accesskey    "b">
 
-<!ENTITY showURLBarSuggestions.label           "Amostrar sucherencias de busca en os resultaus d'a barra d'ubicación.">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "No s'amostrarán sucherencias de busca a os resultaus d'a barra d'ubicación porque ha configurau o &brandShortName; pa que no recuerde nunca o historial.">
 
 <!ENTITY oneClickSearchEngines.label           "Motors de busca d'un solo click">
 
-<!ENTITY chooseWhichOneToDisplay.label         "A barra de busca le deixa buscar en motors alternativos dreitament. Triga quáls quiers que s'amuestren.">
 
 <!ENTITY engineNameColumn.label                "Motors de busca">
 <!ENTITY engineKeywordColumn.label             "Parola clau">
@@ -26,4 +23,3 @@
 <!ENTITY removeEngine.label                    "Borrar…">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines2.label           "Anyader mas motors de busca…">

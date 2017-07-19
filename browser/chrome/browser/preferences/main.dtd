@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
 <!ENTITY startupPrevSession.label  "Amostrar las mías finestras y pestanyas d'a zaguer vegada">
 
-<!ENTITY homepage2.label           "Pachina d'inicio">
-<!ENTITY homepage2.accesskey       "P">
+
 <!ENTITY useCurrentPage.label      "Usar pachina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar pachinas actuals">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Comprebar siempre si lo &brandShortName; ye o suyo navegador por defecto">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Fer o navegador por defecto">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; ye agora o suyo navegador por defecto">
 <!ENTITY isNotDefault.label               "&brandShortName; no ye o suyo navegador por defecto">
 

@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Seguranza">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Alvertir quan bell puesto web mire d'instalar complementos">
 <!ENTITY  warnOnAddonInstall.accesskey    "v">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
