@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "rodyti tuščią puslapį">
 <!ENTITY startupPrevSession.label  "Atverti paskiausio seanso langus ir korteles">
 
-<!ENTITY homepage2.label           "Pradžios tinklalapis">
-<!ENTITY homepage2.accesskey       "P">
+
 <!ENTITY useCurrentPage.label      "Šiuo metu atvertas tinklalapis">
 <!ENTITY useCurrentPage.accesskey  "Š">
 <!ENTITY useMultiple.label         "Šiuo metu atverti tinklalapiai">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Visada tikrinti, ar „&brandShortName;“ yra jūsų numatytoji naršyklė">
 <!ENTITY alwaysCheckDefault2.accesskey    "d">
-<!ENTITY setAsMyDefaultBrowser2.label     "Padaryti numatytąja">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "n">
+
+
 <!ENTITY isDefault.label                  "„&brandShortName;“ šiuo metu yra numatytoji naršyklė">
 <!ENTITY isNotDefault.label               "„&brandShortName;“ šiuo metu nėra numatytoji naršyklė">
 
