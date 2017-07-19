@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Gyɛnɛral">
 
-<!ENTITY accessibility.label             "Hokwanma">
-
 <!ENTITY useCursorNavigation.label       "Fa kɛɛsa akee nom kyini akrataafa mu">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Ɛboa ma wo te wo brawsa adwumayɛ ase san kyɛ data ne &vendorShortName; ɛfa wo brawsa apowmuden ho">
-<!ENTITY enableHealthReport.label        "&brandShortName; Apowmuden Amandebɔ">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "Ɛkyɛ wo mbɔdenbɔ, dwumadi, haadwɛɛ ne ankorankor-nhyehyɛe data a ɛfa wo brawsa ho ne &vendorShortName; sɛnea ɛbɛboa ama yɛn ayɛ &brandShortName; papa">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "Nɛtwɛɛke">
 
-<!ENTITY connection.label                "Kɔnɛkhyen">
 
 <!ENTITY connectionDesc.label            "Hyehyɛ sɛnea &brandShortName; kɔnɛkte abɛɛfo kwantenpɔn">
 <!ENTITY connectionSettings.label        "Nhyehyɛe…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "Fa ndaekyiri asom no instɔɔle ntoso bi">
 <!ENTITY useService.accesskey            "n">
-
 
 
 

@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Siw ntokuro mpɔpap">
 <!ENTITY  blockPopups.accesskey       "S">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "Ahosu…">
 <!ENTITY  colors.accesskey            "h">
 
-
-<!ENTITY languages.label              "Kasa">
 <!ENTITY chooseLanguage.label         "Paw kasa a wo pɛ sɛ wo de kyerɛ nkrataafa">
 <!ENTITY chooseButton.label           "Paw…">
 <!ENTITY chooseButton.accesskey       "w">
