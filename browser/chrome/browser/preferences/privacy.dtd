@@ -26,7 +26,6 @@
 
 
 
-<!ENTITY  locationBar.label             "অৱস্থান বাৰ">
 
 
 
@@ -96,7 +95,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "সংহতিসমূহ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
 
 
 
