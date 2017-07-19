@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Rusange">
 
-<!ENTITY accessibility.label             "Imikoresherezwe">
-
 <!ENTITY useCursorNavigation.label       "Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji">
 <!ENTITY useCursorNavigation.accesskey   "r">
-
-
 
 
 
@@ -39,12 +35,8 @@ available. -->
 
 
 
-
-
-
 <!ENTITY networkTab.label                "Urusobemiyoboro">
 
-<!ENTITY connection.label                "Umwinjiro">
 
 <!ENTITY connectionDesc.label            "Kugena uko &brandShortName; yinjira kuri Interineti">
 <!ENTITY connectionSettings.label        "Amagenamiterere...">
@@ -84,7 +76,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
