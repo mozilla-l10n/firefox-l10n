@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "總是檢查 &brandShortName; 是否為您的預設瀏覽器">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "設為預設瀏覽器">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "設為預設瀏覽器…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; 是您目前的預設瀏覽器">
 <!ENTITY isNotDefault.label               "&brandShortName; 不是您的預設瀏覽器">
 
