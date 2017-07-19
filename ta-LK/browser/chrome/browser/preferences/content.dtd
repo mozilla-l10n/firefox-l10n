@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "முன்னெழும் சாளரங்களை நிறுத்துக">
 <!ENTITY  blockPopups.accesskey       "B">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "நிறங்கள்...">
 <!ENTITY  colors.accesskey            "C">
 
-
-<!ENTITY languages.label              "மொழிகள்">
 <!ENTITY chooseLanguage.label         "பக்கங்களிற்கான விருப்பமான மொழியைத் தெரிக">
 <!ENTITY chooseButton.label           "தெரிக...">
 <!ENTITY chooseButton.accesskey       "o">
