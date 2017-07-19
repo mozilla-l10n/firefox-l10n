@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Torthaí an Chuardaigh">
 <!ENTITY  paneGeneral.title             "Ginearálta">
+<!ENTITY  paneSearch.title              "Cuardaigh">
 <!ENTITY  paneFilesApplications.title   "Comhaid agus Feidhmchláir">
 <!ENTITY  panePrivacySecurity.title     "Príobháideachas agus Slándáil">
 <!ENTITY  paneContainers.title          "Cluaisíní Coimeádáin">
 <!ENTITY  paneUpdates.title             "Nuashonruithe">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cuntas Firefox">
 
 <!ENTITY  helpButton2.label        "Tacaíocht &brandShortName;">
-
-<!ENTITY  searchInput.label        "Cuardaigh">

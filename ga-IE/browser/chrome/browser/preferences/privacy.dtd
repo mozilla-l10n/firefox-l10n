@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Stair">
 <!ENTITY  permissions.label             "Ceadanna">
 
-<!ENTITY  locationBar.label             "Barra Suímh">
 
-<!ENTITY  locbar.suggest2.label         "Agus an barra suímh in úsáid, mol">
 <!ENTITY  locbar.history.label          "Stair">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Leabharmharcanna">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Socruithe…">
 <!ENTITY  clearOnCloseSettings.accesskey "c">
 
-<!ENTITY  browserContainersHeader.label         "Cluaisíní Coimeádáin">
 <!ENTITY  browserContainersLearnMore.label      "Tuilleadh eolais">
 <!ENTITY  browserContainersEnabled.label        "Cumasaigh Cluaisíní Coimeádáin">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
