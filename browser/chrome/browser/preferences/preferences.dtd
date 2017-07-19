@@ -15,14 +15,15 @@
 
 <!ENTITY  paneSearchResults.title       "Вынікі пошуку">
 <!ENTITY  paneGeneral.title             "Агульныя">
+<!ENTITY  paneSearch.title              "Пошук">
 <!ENTITY  paneFilesApplications.title   "Файлы і Праграмы">
 <!ENTITY  panePrivacySecurity.title     "Прыватнасць і Бяспека">
 <!ENTITY  paneContainers.title          "Карткі кантэйнераў">
 <!ENTITY  paneUpdates.title             "Абнаўленні">
 
+<!ENTITY  filesAndApplications.label    "Файлы і Праграмы">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Уліковы запіс Firefox">
 
 <!ENTITY  helpButton2.label        "Падтрымка &brandShortName;">
-
-<!ENTITY  searchInput.label        "Пошук">
