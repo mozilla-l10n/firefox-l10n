@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Выплыўныя вокны">
+<!ENTITY  permissions.label           "Дазволы">
 
 <!ENTITY  blockPopups.label           "Блакаваць выплыўныя вокны">
 <!ENTITY  blockPopups.accesskey       "Б">
 
-<!ENTITY  notificationsPolicy.label            "Апавяшчэнні">
 <!ENTITY  notificationsPolicyLearnMore.label   "Даведацца больш">
 <!ENTITY  notificationsPolicyDesc3.label       "Пазначце, якія сайты могуць дасылаць вам апавяшчэнні">
 <!ENTITY  notificationsPolicyButton.accesskey  "а">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "К">
 
 
-<!ENTITY languages.label              "Мовы">
+<!ENTITY language2.label              "Мова">
 <!ENTITY chooseLanguage.label         "Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак">
 <!ENTITY chooseButton.label           "Выбраць…">
 <!ENTITY chooseButton.accesskey       "В">
@@ -53,8 +52,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "Пераклад">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM змесціва">
 
-<!ENTITY  playDRMContent.label         "Прайграваць DRM змесціва">
-<!ENTITY  playDRMContent.accesskey     "П">
 <!ENTITY  playDRMContent.learnMore.label "Даведацца больш">
