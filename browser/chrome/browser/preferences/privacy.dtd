@@ -26,7 +26,6 @@
 
 
 
-<!ENTITY  locationBar.label             "Хаягийн самбар">
 
 
 
@@ -85,7 +84,6 @@
 
 <!ENTITY  rememberHistory2.label      "Үзсэн болон татаж авсан мэдээллийг санах">
 <!ENTITY  rememberHistory2.accesskey  "b">
-
 
 
 
