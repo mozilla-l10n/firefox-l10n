@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "সাধাৰণ">
 
-<!ENTITY accessibility.label             "অভিগম্যতা">
-
 <!ENTITY useCursorNavigation.label       "পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
 
 
 
@@ -31,12 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "আপোনাক আপোনাৰ ব্ৰাউছাৰৰ পৰিৱেশন বুজি পোৱাত সহায় কৰে আৰু আপোনাৰ ব্ৰাউছাৰৰ স্বাস্থ্য বিষয়ে তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে">
-<!ENTITY enableHealthReport.label        "&brandShortName; স্বাস্থ্য সংবাদ">
-<!ENTITY enableHealthReport.accesskey    "R">
 
-
-<!ENTITY telemetryDesc.label             "আপোনাৰ ব্ৰাউছাৰৰ বিষয়ে পৰিৱেশন, ব্যৱহাৰ, হাৰ্ডৱেৰ আৰু স্বনিৰ্বাচন তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে যাতে আমি &brandShortName; উন্নত কৰিব পাৰো">
 
 
 
@@ -47,7 +38,6 @@ available. -->
 
 <!ENTITY networkTab.label                "নেটৱাৰ্ক">
 
-<!ENTITY connection.label                "সংযোগ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; কেনেদৰে ইন্টাৰনেটলৈ সংযোগ কৰে সংৰূপণ কৰক">
 <!ENTITY connectionSettings.label        "পছন্দসমূহ…">
@@ -103,7 +93,6 @@ available. -->
 
 <!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
