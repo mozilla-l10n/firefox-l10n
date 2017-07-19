@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Thibela mafasetere a runyago">
 <!ENTITY  blockPopups.accesskey       "T">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "Mebala…">
 <!ENTITY  colors.accesskey            "M">
 
-
-<!ENTITY languages.label              "Maleme">
 <!ENTITY chooseLanguage.label         "Kgetha leleme leo o le kganyogago la go bontšha matlakala">
 <!ENTITY chooseButton.label           "Kgetha…">
 <!ENTITY chooseButton.accesskey       "g">
