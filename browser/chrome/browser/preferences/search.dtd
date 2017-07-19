@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "默认搜索引擎">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "请选择您的默认搜索引擎。&brandShortName; 会在地址栏和搜索栏使用该搜索引擎。">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。">
 
 <!ENTITY provideSearchSuggestions.label        "提供搜索建议">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "在地址栏结果中显示搜索建议">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "在地址栏结果中显示搜索建议">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "由于您已经设置 &brandShortName; 不要记住浏览历史，地址栏中将不会显示搜索建议。">
 
 <!ENTITY oneClickSearchEngines.label           "快捷搜索引擎列表">
 
-<!ENTITY chooseWhichOneToDisplay.label         "您可以在搜索栏中直接使用不同搜索引擎进行搜索。请选择要显示哪些搜索引擎。">
+<!ENTITY chooseWhichOneToDisplay2.label         "请选择在地址栏和搜索栏输入关键词时，您希望显示在下方的其他可选用的搜索引擎。">
 
 <!ENTITY engineNameColumn.label                "搜索引擎">
 <!ENTITY engineKeywordColumn.label             "关键词">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "移除">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines2.label           "添加更多搜索引擎">
+<!ENTITY findMoreSearchEngines.label           "寻找更多搜索引擎">

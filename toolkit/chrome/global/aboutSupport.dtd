@@ -68,6 +68,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "多进程窗口">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "网页内容处理进程">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google 密钥">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla 位置服务密钥">
 

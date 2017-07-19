@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "历史记录">
 <!ENTITY  permissions.label             "权限">
 
-<!ENTITY  locationBar.label             "地址栏">
-
-<!ENTITY  locbar.suggest2.label         "当使用地址栏时，为我提供来自以下位置的建议">
+<!ENTITY  addressBar.label              "地址栏">
+<!ENTITY  addressBar.suggest.label      "在使用地址栏时为我提供建议">
 <!ENTITY  locbar.history.label          "历史记录">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "书签">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "设置…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "身份标签页">
 <!ENTITY  browserContainersLearnMore.label      "详细了解">
 <!ENTITY  browserContainersEnabled.label        "启用身份标签页">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

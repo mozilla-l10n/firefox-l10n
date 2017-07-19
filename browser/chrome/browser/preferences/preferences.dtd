@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "搜索结果">
 <!ENTITY  paneGeneral.title             "常规">
+<!ENTITY  paneSearch.title              "搜索">
 <!ENTITY  paneFilesApplications.title   "文件与应用程序">
 <!ENTITY  panePrivacySecurity.title     "隐私与安全">
 <!ENTITY  paneContainers.title          "身份标签页">
 <!ENTITY  paneUpdates.title             "更新">
 
+<!ENTITY  languageAndAppearance.label   "语言与外观">
+<!ENTITY  filesAndApplications.label    "文件与应用程序">
+<!ENTITY  browserPrivacy.label          "浏览器隐私权">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox 账户">
 
 <!ENTITY  helpButton2.label        "&brandShortName; 支持">
-
-<!ENTITY  searchInput.label        "搜索">
