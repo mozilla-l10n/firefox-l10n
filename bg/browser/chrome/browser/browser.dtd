@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
 
-<!ENTITY sendToDevice.label "Изпращане към устройство…">
+<!ENTITY sendToDevice.label2 "Изпращане към устройство">
 <!ENTITY sendToDevice.viewTitle "Изпращане към устройство">
 <!ENTITY sendToDevice.fxaRequired.label "Задължително">
 <!ENTITY sendToDevice.noDevices.label "Липсват устройства">
