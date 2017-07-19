@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Tuichakue">
 
-<!ENTITY accessibility.label             "Jeikekuaa">
-
 <!ENTITY useCursorNavigation.label       "Eipuru tapia tairenda hu'ykuéra aikundaha kuatiaroguépe">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Eheka moñe'ẽrã ehaikuévo">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Ehechakuaa oĩramo peteĩ ñanduti kuatiarogue omboguata'ykese térã omyenyhẽsejeýramo pe kuatiarogue">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Ehechauka peteĩ tairenda jepokokuaáva oñeikotevẽ jave">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã">
 
-<!ENTITY healthReportDesc.label          "Oipytyvõ chupe oikumby hag̃ua ikundahára rembiapo ha ombohasa mba'ekuaarã &vendorShortName; ndive mbaéichapa oĩhína kóva">
-<!ENTITY enableHealthReport.label        "Emomarandu mba'éichapa oĩ &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "Emoneĩ &brandShortName; omondo hag̃ua ijehegui mba'ekuaarã aporekóva ha avei Mozilla ndivegua">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Kuaave">
 
-<!ENTITY telemetryDesc.label             "Embohasa mba'ekuaarã rembiapokue, jepuru, hardware ha ñemomba'egua ikundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
-<!ENTITY enableTelemetryData.label       "Emoherakuã mba'ekuaarã ykepeguáva (ja'étarõ, Ha'ãha mombyryguáva)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Kuaave">
+<!ENTITY dataCollection.label            "&brandShortName; Ñembyaty ha mba'ekuaarã jepuru">
+<!ENTITY dataCollectionDesc.label        "Roñeha'ã mbarete rome'ẽ hag̃ua jeporavorã ha rombyaty pe roikotevẽva rome'ẽ añoite ha romoĩporãve &brandShortName; arapy tuichakue javépe g̃uarã. Tapiaite rojerure ñemoneĩ marandu og̃uahẽ mboyve oréve.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Marandu Ñemigua">
 
-<!ENTITY crashReporterDesc2.label         "Marandu ñepytyvõ jejavy rehegua &vendorShortName; omoĩporã apañuãi ha ojapóta ne kundahágui hekopyta ha hekorosãva">
-<!ENTITY alwaysSubmitCrashReports.label   "Emoneĩ &brandShortName; omondóvo marandu'í jejavygua nde rérape hasypeterei">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Kuaave">
+<!ENTITY alwaysSubmitCrashReports1.label  "Emoneĩ &brandShortName; omondóvo marandu'i Mozilla-pe">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Kuaave">
 
 <!ENTITY networkTab.label                "Ñanduti">
 
-<!ENTITY connection.label                "Jeikeha">
+<!ENTITY networkProxy.label              "Proxy ñanduti rehegua">
 
 <!ENTITY connectionDesc.label            "Emboheko &brandShortName;-ramo; Ñandutípe jeike">
 <!ENTITY connectionSettings.label        "Ñemboheko…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Jehekaha mongu'eha ñembohekopyahu ijeheguíva">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Momarandu">
 
 <!ENTITY offlineStorageNotify.label               "Chemomarandu peteĩ tenda ojerujérõ mba'ekuaarã ñongatu jeikekatu'ỹre ojepuru hag̃ua">
 <!ENTITY offlineStorageNotify.accesskey           "T">

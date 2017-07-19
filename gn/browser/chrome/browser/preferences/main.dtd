@@ -11,7 +11,7 @@
 <!ENTITY startupPrevSession.label  "Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka">
 
 <!ENTITY homepage2.label           "Kuatiarogue ñepyrũ">
-<!ENTITY homepage2.accesskey       "K">
+<!ENTITY homepage2.accesskey       "p">
 <!ENTITY useCurrentPage.label      "Kuatiarogue Ag̃agua jepuru">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Kuatiarogue ag̃agua jepuru">
@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Ehecha tapia ha'épa &brandShortName; kundaha ypykuéva">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "Ejapo chugui ypykuéva">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "Ejapo chugui yjypykuéva…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ko'ág̃a nde hekaha ypykuéva">
 <!ENTITY isNotDefault.label               "&brandShortName; ndaha'éi kundahára ypykuéva">
 

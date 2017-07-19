@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Hekaha ypykuéva">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Eiporavo jehekaha ypykuéva &brandShortName; oipurútava kundaharape renda, ha avei kuatiarogue ñepyrũme.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Eiporavo hekaha mongu'eha ijypykuéva eipuru hag̃ua kundaharape ha jehekaha rendápe.">
 
 <!ENTITY provideSearchSuggestions.label        "Ehechauka ñe'ẽreka joguaha">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Ehechauka ñe'ẽreka joguaha kundaharape rendápe ha avei jejuhuhague rendápe">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Ehechauka ñe'ẽreka joguaha kundaharape ha avei jejuhu hague rendápe">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi &brandShortName; aníke nemandu'a tembiasakuére.">
 
 <!ENTITY oneClickSearchEngines.label           "Jehekaha mongu'eha jekutu peteĩva">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Jehekaha renda nepytyvõ reheka hagua pya'evehápe reipuru rupi ambue kuatiarogue rekaha. Eiporavo mba'e kuatiarogue rekaha ojehechaukáta ndéve.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Eiporavo hekaha mongu'eha mbojopyrukuaáva ojekuaáva kundaharape ha jehekaha renda guýpe eñepyrũvo emoinge peteĩ ñe'ẽ ñemigua.">
 
 <!ENTITY engineNameColumn.label                "Jehekaha">
 <!ENTITY engineKeywordColumn.label             "Jehero">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Pe'a">
 <!ENTITY removeEngine.accesskey                "R">
 
-<!ENTITY addMoreSearchEngines2.label           "Embojuajuve jehekaha">
+<!ENTITY findMoreSearchEngines.label           "Ejuhu hetave hekaha mongu'eha">

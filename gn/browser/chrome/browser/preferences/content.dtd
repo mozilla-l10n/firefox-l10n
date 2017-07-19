@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Ñemoneĩ">
 
 <!ENTITY  blockPopups.label           "Ovetã apysẽ joko">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Marandu'i">
 <!ENTITY  notificationsPolicyLearnMore.label   "Kuaave">
 <!ENTITY  notificationsPolicyDesc3.label       "Eiporavo mba'e tendápa oñemoneĩ omondóvo ndéve marandu'i">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -32,7 +32,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "Ñe'ẽita">
+<!ENTITY language2.label              "Ñe'ẽ">
 <!ENTITY chooseLanguage.label         "Eipoiravo pe ñe'ẽ erohoryvéva ehechauka hag̃ua ñanduti kuatiarogue">
 <!ENTITY chooseButton.label           "Poravo…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -52,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Ñe'ẽasaha">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM retepy">
+<!ENTITY  drmContent2.label              "Tembiapo Ñandutigua Derécho (TÑD) retepy">
 
-<!ENTITY  playDRMContent.label         "DRM retepýre eñembosarái">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent2.label          "Emboheta tetepy oñangarekóva DRM rehe">
+<!ENTITY  playDRMContent2.accesskey      "E">
 <!ENTITY  playDRMContent.learnMore.label "Kuaave">

@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Arapokõindy">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping Peteĩchagua">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Ko'árape">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Kuehe">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Tuichave">
 
 <!ENTITY aboutTelemetry.generalDataSection " Opaichagua marandu">
 

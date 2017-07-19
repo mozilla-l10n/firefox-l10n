@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Jehekakue rehegua">
 <!ENTITY  paneGeneral.title             "Tuichakue">
+<!ENTITY  paneSearch.title              "Heka">
 <!ENTITY  paneFilesApplications.title   "Marandurenda ha Tembipuru'i">
 <!ENTITY  panePrivacySecurity.title     "Ñemigua ha Tekorosã">
 <!ENTITY  paneContainers.title          "Tendayke guerekoha">
 <!ENTITY  paneUpdates.title             "Ñembohekopyahu">
+
+<!ENTITY  languageAndAppearance.label   "Ñe'ẽ ha Mba'ejeguarã">
+<!ENTITY  filesAndApplications.label    "Marandurenda ha Tembipuru'i">
+<!ENTITY  browserPrivacy.label          "Kundahára Ñemigua">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox mba'ete">
 
 <!ENTITY  helpButton2.label        "&brandShortName; mombytaha">
-
-<!ENTITY  searchInput.label        "Heka">

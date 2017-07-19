@@ -66,6 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Windows rembiapoita">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Ñanduti Retepy Rembiapo">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google ñe'ẽñemi">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla mba'epytyvõrã rendaite rehegua">
 

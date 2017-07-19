@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Tekorosã">
+<!ENTITY  phishingProtection.label       "Ñemo'ã phishing rovak">
 
 <!ENTITY  warnOnAddonInstall.label        "Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">

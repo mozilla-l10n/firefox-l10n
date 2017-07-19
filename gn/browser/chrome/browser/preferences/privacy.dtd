@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Tembiasakue">
 <!ENTITY  permissions.label             "Ñemoneĩkuéra">
 
-<!ENTITY  locationBar.label             "Kundaharape renda">
-
-<!ENTITY  locbar.suggest2.label         "Eipurúramo kundaharape renda, eñemoñe'ẽ">
+<!ENTITY  addressBar.label              "Kundaharape renda">
+<!ENTITY  addressBar.suggest.label      "Eipurúramo kundaharape renda, eñemoñe'ẽ">
 <!ENTITY  locbar.history.label          "Tembiasakue">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Techaukaha">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ñemboheko…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Tendayke Guerekoha">
 <!ENTITY  browserContainersLearnMore.label      "Kuaave">
 <!ENTITY  browserContainersEnabled.label        "Embojuruja tendayke guerekoha">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

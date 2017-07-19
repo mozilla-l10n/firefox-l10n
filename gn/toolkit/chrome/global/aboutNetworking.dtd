@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Kache nemba'etéva rehegua">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Kache nemba'eteéva">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Ñanduti rehegua mba'ejerure">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "Kache Rembiapo">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ijurujáva">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Moñe'ẽ">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Hai">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Jeikeha ijurujáva">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Mombytegua mbykýva">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Mombytegua ipukúva">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Ñemboyke ha'etéva ipukúva">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Kache nemba'etéva imbeguéva">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Kache nemba'etéva imbegue'ỹva">
