@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Powšykne">
 
-<!ENTITY accessibility.label             "Pśistupnosć">
-
 <!ENTITY useCursorNavigation.label       "Pśecej kursorowe tasty za pógibowanje na bokach wužywaś">
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchOnStartTyping.label       "Pśi pisanju tekst pytaś">
 <!ENTITY searchOnStartTyping.accesskey   "P">
-<!ENTITY blockAutoReload.label           "Warnowaś, gaž websedła wopytuju bok dalej pósrědniś abo znowego zacytaś">
-<!ENTITY blockAutoReload.accesskey       "W">
 <!ENTITY useOnScreenKeyboard.label       "Dotykańsku tastaturu pokazaś, jolic trěbne">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju">
 
-<!ENTITY healthReportDesc.label          "Pomaga wam, wugbaśe wašogo wobglědowaka rozměś a źěli daty z &vendorShortName; wó statusu wašogo wobglědowaka">
-<!ENTITY enableHealthReport.label        "&brandShortName; - statusowu rozpšawu zmóžniś">
-<!ENTITY enableHealthReport.accesskey    "r">
+
 <!ENTITY healthReportLearnMore.label     "Dalšne informacije">
 
-<!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardware a pśiměrjenja wašogo wobglědowaka z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
-<!ENTITY enableTelemetryData.label       "Pśidatne daty źěliś (na pś. telemetriju)">
-<!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
-<!ENTITY crashReporterDesc2.label         "Wowaleńske rozpšawy pomagaju &vendorShortName;, problemy rozwězaś a waš woglědowak stabilnješy a wěsćejišy cyniś">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś">
-<!ENTITY alwaysSubmitCrashReports.accesskey "b">
-<!ENTITY crashReporterLearnMore.label     "Dalšne informacije">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Dalšne informacije">
 
 <!ENTITY networkTab.label                "Seś">
 
-<!ENTITY connection.label                "Zwisk">
 
 <!ENTITY connectionDesc.label            "Konfigurěrowaś, kak &brandShortName; ma z internetom zwězaś">
 <!ENTITY connectionSettings.label        "Nastajenja…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Pytnice awtomatiski aktualizěrowaś">
 <!ENTITY enableSearchUpdate2.accesskey   "k">
-
-<!ENTITY reports.label                   "Rozpšawy">
 
 <!ENTITY offlineStorageNotify.label               "Informěrowaś, gaž websedło co daty za wužywanje offline składowaś">
 <!ENTITY offlineStorageNotify.accesskey           "I">

@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Pšawa">
 
-<!ENTITY  locationBar.label             "Adresowe pólo">
 
-<!ENTITY  locbar.suggest2.label         "Pśi wužywanju adresowego póla ma se naraźiś">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Cytańske znamjenja">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastajenja…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
 
-<!ENTITY  browserContainersHeader.label         "Kontejnerowe rejtarki">
 <!ENTITY  browserContainersLearnMore.label      "Dalšne informacije">
 <!ENTITY  browserContainersEnabled.label        "Kontejnerowe rejtarki zmóžniś">
 <!ENTITY  browserContainersEnabled.accesskey    "m">
