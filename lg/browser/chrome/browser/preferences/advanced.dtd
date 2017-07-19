@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Byonna wamu">
 
-<!ENTITY accessibility.label             "Kifunikwa">
-
 <!ENTITY useCursorNavigation.label       "Bulikisera kozesa amapesa nga akawandiika lambula mumiko">
 <!ENTITY useCursorNavigation.accesskey   "r">
-
-
 
 
 
@@ -39,12 +35,8 @@ available. -->
 
 
 
-
-
-
 <!ENTITY networkTab.label                "Omukutu">
 
-<!ENTITY connection.label                "Eyunga">
 
 <!ENTITY connectionDesc.label            "Tekawo nga &brandShortName; eyunga ku lutimbe">
 <!ENTITY connectionSettings.label        "Etegeka…">
@@ -100,7 +92,6 @@ available. -->
 
 <!ENTITY useService.label                "Kozesa empereza ekolera emabega okutekamu ebituusa">
 <!ENTITY useService.accesskey            "e">
-
 
 
 
