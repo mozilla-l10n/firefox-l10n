@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Hanes">
 <!ENTITY  permissions.label             "Caniatâd">
 
-<!ENTITY  locationBar.label             "Bar Lleoliad">
 
-<!ENTITY  locbar.suggest2.label         "Pan yn defnyddio'r bar lleoliad, cynnig">
 <!ENTITY  locbar.history.label          "Hanes">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Gosodiadau…">
 <!ENTITY  clearOnCloseSettings.accesskey "G">
 
-<!ENTITY  browserContainersHeader.label         "Tabiau Cynwysyddion">
 <!ENTITY  browserContainersLearnMore.label      "Dysgu rhagor">
 <!ENTITY  browserContainersEnabled.label        "Galluogi Tabiau Cynwysyddion">
 <!ENTITY  browserContainersEnabled.accesskey    "G">

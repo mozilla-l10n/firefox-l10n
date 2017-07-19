@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Canlyniadau Chwilio">
 <!ENTITY  paneGeneral.title             "Cyffredinol">
+<!ENTITY  paneSearch.title              "Chwilio">
 <!ENTITY  paneFilesApplications.title   "Ffeiliau a Rhaglenni">
 <!ENTITY  panePrivacySecurity.title     "Preifatrwydd a Diogelwch">
 <!ENTITY  paneContainers.title          "Tabiau Cynwysyddion">
 <!ENTITY  paneUpdates.title             "Diweddariadau">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cyfrif Firefox">
 
 <!ENTITY  helpButton2.label        "Cefnogaeth &brandShortName;">
-
-<!ENTITY  searchInput.label        "Chwilio">

@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Rhwystro ffenestri llamlen">
 <!ENTITY  blockPopups.accesskey       "R">
 
-<!ENTITY  notificationsPolicy.label            "Hysbysiadau">
 <!ENTITY  notificationsPolicyLearnMore.label   "Dysgu rhagor">
 <!ENTITY  notificationsPolicyDesc3.label       "Dewis pa wefannau sy'n cael anfon hysbysiadau atoch">
 <!ENTITY  notificationsPolicyButton.accesskey  "D">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Lliwiau…">
 <!ENTITY  colors.accesskey            "i">
 
-
-<!ENTITY languages.label              "Iaith">
 <!ENTITY chooseLanguage.label         "Dewis eich iaith ar gyfer dangos tudalennau">
 <!ENTITY chooseButton.label           "Dewis…">
 <!ENTITY chooseButton.accesskey       "D">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Cyfieithiadau gan">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Cynnwys DRM">
 
-<!ENTITY  playDRMContent.label         "Chwarae cynnwys DRM">
-<!ENTITY  playDRMContent.accesskey     "C">
+
 <!ENTITY  playDRMContent.learnMore.label "Dysgu rhagor">

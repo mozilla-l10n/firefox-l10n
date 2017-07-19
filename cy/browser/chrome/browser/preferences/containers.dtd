@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Dewisiadau">
 <!ENTITY removeButton.label   "Tynnu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Nôl i Breifatrwydd">
 
 <!ENTITY window.title         "Ychwanegu Cynhwysydd Newydd">
 <!ENTITY window.width         "45em">
