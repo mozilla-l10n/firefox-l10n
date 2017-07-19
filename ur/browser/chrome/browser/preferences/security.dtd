@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "سلامتی">
 
+
 <!ENTITY  warnOnAddonInstall.label        "مجھے متنبہ کریں جب کوئی سائٹ اضافہ جات کی تنصیب کرنے کی کوشش کرے">
 <!ENTITY  warnOnAddonInstall.accesskey    "م">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

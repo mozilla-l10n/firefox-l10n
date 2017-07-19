@@ -29,7 +29,6 @@
 <!ENTITY  history.label                 "سابقات">
 
 
-<!ENTITY  locationBar.label             "مقام بند">
 
 <!ENTITY  locbar.history.label          "سابقات">
 <!ENTITY  locbar.history.accesskey      "س">
@@ -102,7 +101,6 @@
 <!ENTITY  clearOnCloseSettings.label     "سیٹنگیں…">
 <!ENTITY  clearOnCloseSettings.accesskey "س">
 
-<!ENTITY  browserContainersHeader.label         "حامل ٹیبز">
 <!ENTITY  browserContainersLearnMore.label      "مزید سیکھیں">
 <!ENTITY  browserContainersEnabled.label        "حامل ٹہن بحال کریں">
 <!ENTITY  browserContainersEnabled.accesskey    "ح">

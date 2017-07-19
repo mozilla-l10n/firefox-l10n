@@ -14,14 +14,16 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "عمومی">
+<!ENTITY  paneSearch.title              "تلاش کریں">
 
 <!ENTITY  panePrivacySecurity.title     "رازداری اور سلامتی">
 <!ENTITY  paneContainers.title          "حامل ٹیبز">
 <!ENTITY  paneUpdates.title             "تازہ کاری">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox اکاؤنٹس">
 
 <!ENTITY  helpButton2.label        "&brandShortName; تعاون">
-
-<!ENTITY  searchInput.label        "تلاش کریں">

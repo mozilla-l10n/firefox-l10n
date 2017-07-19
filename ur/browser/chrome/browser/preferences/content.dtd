@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "پوپ اپ دریچے بلاک کیجیے">
 <!ENTITY  blockPopups.accesskey       "ب">
 
-<!ENTITY  notificationsPolicy.label            "اعلانات">
 <!ENTITY  notificationsPolicyLearnMore.label   "مزید سیکھیں">
 <!ENTITY  notificationsPolicyDesc3.label       "انتخاب کیجیئے کونسی سائٹس کو آپ کو اطلاع ارسال کرنے کی اجازت ہے">
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
@@ -30,8 +28,6 @@
 <!ENTITY  colors.label                "رنگ…">
 <!ENTITY  colors.accesskey            "ر">
 
-
-<!ENTITY languages.label              "زبانیں">
 <!ENTITY chooseLanguage.label         "صفحہ دکھانے کے لیے اپنی زبان چنیں">
 <!ENTITY chooseButton.label           "انتخاب کریں…">
 <!ENTITY chooseButton.accesskey       "ا">
@@ -51,8 +47,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM مواد">
 
-<!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
-<!ENTITY  playDRMContent.accesskey     "چ">
+
 <!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">

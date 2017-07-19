@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "ترجیحات">
 <!ENTITY removeButton.label   "ہٹائیں">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "رازداری کی طرف واپس جاَیں؛ &#171;">
 
 <!ENTITY window.title         "نئے حامل کا اضافہ کریں">
 <!ENTITY window.width         "45em">

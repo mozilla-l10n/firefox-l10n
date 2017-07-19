@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "عمومی">
 
-<!ENTITY accessibility.label             "رسائی پزیری">
-
 <!ENTITY useCursorNavigation.label       "صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں">
 <!ENTITY useCursorNavigation.accesskey   "ک">
 <!ENTITY searchOnStartTyping.label       "میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں">
 <!ENTITY searchOnStartTyping.accesskey   "م">
-<!ENTITY blockAutoReload.label           "جب ویب سائٹیں صفحہ کو دوسری سمت بھیجنے کی یا پھر لوڈ کرنے کی کوشش کریں تو مجھے متنبہ کریں">
-<!ENTITY blockAutoReload.accesskey       "س">
 <!ENTITY useOnScreenKeyboard.label       "ضرورت کے وقت ٹچ کی بورڈ دکھایں">
 <!ENTITY useOnScreenKeyboard.accesskey   "ک">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے اور &vendorShortName; کے ساتھ آپ کے براؤزر کی تندرستی کے کوائف شیئر کرتا ہے">
-<!ENTITY enableHealthReport.label        "&brandShortName; تندرستی رپورٹ اہل بنائیں">
-<!ENTITY enableHealthReport.accesskey    "ر">
+
 <!ENTITY healthReportLearnMore.label     "مزید سیکھیں">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
 
 
-<!ENTITY telemetryLearnMore.label        "مزید سیکھیں">
 
-<!ENTITY crashReporterDesc2.label         "تباہ کاری کی رپورٹ &vendorShortName; میں مدد کرتی ھے۔ اور آپ کے براؤزر کو زیادہ مستحکم اور محفوظ بناتی ھے">
-<!ENTITY alwaysSubmitCrashReports.label   "آپ کی طرف سے &brandShortName; کو روکے ہوئے ناکامی کی اطلاع بھیجنے کی اجازت دے۔">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "مزید سیکھیں">
+
+<!ENTITY crashReporterLearnMore.label    "مزید سیکھیں">
 
 <!ENTITY networkTab.label                "نیٹ ورک">
 
-<!ENTITY connection.label                "کنکشن">
 
 <!ENTITY connectionDesc.label            "&brandShortName;  کا انٹرنیٹ سے جڑنے کا طریقہ تشکیل کریں">
 <!ENTITY connectionSettings.label        "سیٹنگیں…">
@@ -111,8 +100,6 @@ available. -->
 <!ENTITY useService.accesskey            "پ">
 
 
-
-<!ENTITY reports.label                   "رپورٹ کریں">
 
 <!ENTITY offlineStorageNotify.label               "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
 <!ENTITY offlineStorageNotify.accesskey           "ب">
