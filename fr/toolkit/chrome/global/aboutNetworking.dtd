@@ -46,3 +46,10 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombre de victoires du cache">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Nombre de victoires du réseau">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Nombre total de requêtes réseau">
+<!ENTITY aboutNetworking.rcwnOperation         "Opérations du cache">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ouvertures">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lectures">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Écritures">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Ouvertures d’entrées">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Nombre de fois où le cache est lent">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Nombre de fois où le cache est rapide">
