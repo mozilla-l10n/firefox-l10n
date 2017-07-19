@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Қауіпсіздік">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Вебсайттар кеңейтулерді орнатқысы келсе, ескерту">
 <!ENTITY  warnOnAddonInstall.accesskey    "В">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Баптаулар">
 <!ENTITY removeButton.label   "Өшіру">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Жекелікке қайта оралу">
 
 <!ENTITY window.title         "Жаңа контейнерді қосу">
 <!ENTITY window.width         "45em">

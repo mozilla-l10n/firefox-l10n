@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Іздеу нәтижелері">
 <!ENTITY  paneGeneral.title             "Жалпы">
+<!ENTITY  paneSearch.title              "Іздеу">
 <!ENTITY  paneFilesApplications.title   "Файлдар және қолданбалар">
 <!ENTITY  panePrivacySecurity.title     "Жекелік және қауіпсіздік">
 <!ENTITY  paneContainers.title          "Контейнер беттері">
 <!ENTITY  paneUpdates.title             "Жаңартулар">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox тіркелгісі">
 
 <!ENTITY  helpButton2.label        "&brandShortName; қолдауы">
-
-<!ENTITY  searchInput.label        "Іздеу">
