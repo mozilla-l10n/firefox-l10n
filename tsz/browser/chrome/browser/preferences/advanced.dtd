@@ -6,12 +6,8 @@
 
 <!ENTITY generalTab.label                "Iamintu ampe">
 
-<!ENTITY accessibility.label             "Marhuatakua">
-
 <!ENTITY useCursorNavigation.label       "Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani">
 <!ENTITY useCursorNavigation.accesskey   "m">
-
-
 
 
 
@@ -29,9 +25,6 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
-
-
 
 
 
@@ -82,7 +75,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
