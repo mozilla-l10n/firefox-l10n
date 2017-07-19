@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Hayakul">
 
-<!ENTITY accessibility.label             "Duwandiyan">
-
 <!ENTITY useCursorNavigation.label       "Waati kul ma moo dirandikaw kufaley ka naaru moɲey ra">
 <!ENTITY useCursorNavigation.accesskey   "d">
 <!ENTITY searchOnStartTyping.label       "Hantum ceeci waati kaŋ ay šintin ka hantum">
 <!ENTITY searchOnStartTyping.accesskey   "H">
-<!ENTITY blockAutoReload.label           "War yaamar waati kaŋ Interneti nungey ga wiri ka moɲoo bisandi wala k'a zumandi taaga">
-<!ENTITY blockAutoReload.accesskey       "n">
 <!ENTITY useOnScreenKeyboard.label       "Maate walha cebe nd'a ga hima">
 <!ENTITY useOnScreenKeyboard.accesskey   "h">
 
@@ -31,24 +27,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "Ga war gaa ka faham ceecikaa goysahãa se nda ka bayhaya žemni war ceecikaa baanoo ga nda &vendorShortName;">
-<!ENTITY enableHealthReport.label        "&brandShortName; baani bayrandikaa tunandi">
-<!ENTITY enableHealthReport.accesskey    "r">
 
 
-<!ENTITY telemetryDesc.label             "Goysahã, goyfondo, jinay šenda nda boŋse hanseyan bayhayey žemni war ceecikaa ga nda &vendorShortName; k'ir gaa ka &brandShortName; boryandi">
-<!ENTITY enableTelemetryData.label       "Bayhaya tontonantey žemna (sanda mooray neešiyan)">
-<!ENTITY enableTelemetryData.accesskey   "T">
 
 
-<!ENTITY crashReporterDesc2.label         "Kaŋyan bayrandey ga &vendorShortName; faaba ka harasawey hanse nda ka war ceecijinaa tabatandi nda saajaw">
-<!ENTITY alwaysSubmitCrashReports.label   "Naŋ &brandShortName; ma kaŋyan bayrandi margantey sanba war se">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+
+
+
 
 
 <!ENTITY networkTab.label                "Sankay">
 
-<!ENTITY connection.label                "Ciyari">
 
 <!ENTITY connectionDesc.label            "Hanse taka kaŋ nda &brandShortName; ga Interneti ciya">
 <!ENTITY connectionSettings.label        "Kayandiyaney…">
@@ -112,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Ceecijinawey ma taagandi ngi boŋ se">
 <!ENTITY enableSearchUpdate2.accesskey   "a">
-
-<!ENTITY reports.label                   "Bayrandey">
 
 <!ENTITY offlineStorageNotify.label               "Har war se waati kaŋ interneti nungu ga hãa ka bayhayey jiši bila nda interneti-ciyari">
 <!ENTITY offlineStorageNotify.accesskey           "H">

@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Saajaw">
 
+
 <!ENTITY  warnOnAddonInstall.label        "War yaamar waati kaŋ nungey ga wiri ka tontoniyaŋ sinji">
 <!ENTITY  warnOnAddonInstall.accesskey    "a">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Ceeci duurawey">
 <!ENTITY  paneGeneral.title             "Yamma">
+<!ENTITY  paneSearch.title              "Ceeci">
 <!ENTITY  paneFilesApplications.title   "Tukey nda porogaramey">
 <!ENTITY  panePrivacySecurity.title     "Sutura nda saajaw">
 <!ENTITY  paneContainers.title          "Diikey kanjey">
 <!ENTITY  paneUpdates.title             "Taagandirey">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox kontu">
 
 <!ENTITY  helpButton2.label        "&brandShortName; faaba">
-
-<!ENTITY  searchInput.label        "Ceeci">

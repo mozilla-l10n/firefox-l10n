@@ -7,7 +7,6 @@
 
 <!ENTITY removeButton.label   "Kaa">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Willi sutura ga">
 
 <!ENTITY window.title         "Sun taaga tonton">
 <!ENTITY window.width         "45em">

@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Moo koonu cebe">
 <!ENTITY startupPrevSession.label  "War zanfuney nda cee koraa kanjey cebe">
 
-<!ENTITY homepage2.label           "Šintin moo">
-<!ENTITY homepage2.accesskey       "m">
+
 <!ENTITY useCurrentPage.label      "Sohõ moɲoo goyandi">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sohõ moɲey goyandi">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Guna waati kul wala &brandShortName; ti war tilasu ceecikaa">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "Ka tee tilasu">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "t">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; ti war tilasu ceecikaa sohõda.">
 <!ENTITY isNotDefault.label               "&brandShortName; manti war tilasu ceecikaa sohõda">
 
