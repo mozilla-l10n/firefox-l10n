@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Jikomal">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Taya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

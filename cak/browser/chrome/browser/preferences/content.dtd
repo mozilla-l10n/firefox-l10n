@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Keq'at elenel taq tzuwäch">
 <!ENTITY  blockPopups.accesskey       "K">
 
-<!ENTITY  notificationsPolicy.label            "Taq rutzijol">
 <!ENTITY  notificationsPolicyLearnMore.label   "Tetamäx ch'aqa' chik">
 <!ENTITY  notificationsPolicyDesc3.label       "Ticha' achike taq ruxaq k'amaya'l ya'on q'ij chi ke richin niqatäq taq kitzijol chawe">
 <!ENTITY  notificationsPolicyButton.accesskey  "c">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Taq b'onil…">
 <!ENTITY  colors.accesskey            "T">
 
-
-<!ENTITY languages.label              "Taq ch'ab'äl">
 <!ENTITY chooseLanguage.label         "Ticha' ri ch'ab'äl nawajo' richin yek'ut pe ri taq ruxaq k'amaya'l">
 <!ENTITY chooseButton.label           "Ticha'…">
 <!ENTITY chooseButton.accesskey       "c">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tzalq'oman ruma">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM rupam etamab'äl">
 
-<!ENTITY  playDRMContent.label         "Titzij DRM rupam ">
-<!ENTITY  playDRMContent.accesskey     "T">
+
 <!ENTITY  playDRMContent.learnMore.label "Tetamäx ch'aqa' chik">

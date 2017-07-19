@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Taq ruq'i'oj kanoxïk">
 <!ENTITY  paneGeneral.title             "Chijun">
+<!ENTITY  paneSearch.title              "Tikanöx">
 <!ENTITY  paneFilesApplications.title   "Taq Yakb'äl &amp; taq Chokoy">
 <!ENTITY  panePrivacySecurity.title     "Ichinanem &amp; Jikomal">
 <!ENTITY  paneContainers.title          "Ajk'wayöl taq ruwi'">
 <!ENTITY  paneUpdates.title             "Taq K'exoj">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Rub'i' rutaqoya'l Firefox">
 
 <!ENTITY  helpButton2.label        "Ruto'ik &brandShortName; Temeb'äl">
-
-<!ENTITY  searchInput.label        "Tikanöx">

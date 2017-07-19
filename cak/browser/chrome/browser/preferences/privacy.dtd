@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Natab'äl">
 <!ENTITY  permissions.label             "Taq ya'oj q'ij">
 
-<!ENTITY  locationBar.label             "Kikajtz'ik taq k'ojlib'äl">
 
-<!ENTITY  locbar.suggest2.label         "Jampe' toq nawokisaj ri rukajtz'ik k'ojlemal, tichilab'ëx">
 <!ENTITY  locbar.history.label          "Natab'äl">
 <!ENTITY  locbar.history.accesskey      "N">
 <!ENTITY  locbar.bookmarks.label        "Taq etal">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nuk'ulem…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
 
-<!ENTITY  browserContainersHeader.label         "Ajk'wayöl taq ruwi'">
 <!ENTITY  browserContainersLearnMore.label      "Tetamäx ch'aqa' chik">
 <!ENTITY  browserContainersEnabled.label        "Ketzij Ajk'wayöl taq ruwi'">
 <!ENTITY  browserContainersEnabled.accesskey    "t">

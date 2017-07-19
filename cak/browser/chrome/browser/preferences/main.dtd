@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "Tik'ut pe jun kowöl ruxaq">
 <!ENTITY startupPrevSession.label  "Kek'ut ri taq rutzuwäch chuqa' taq ruwi' ruk'isib'äl rumolojri'ïl">
 
-<!ENTITY homepage2.label           "Tikirib'äl ruxaq">
-<!ENTITY homepage2.accesskey       "r">
+
 <!ENTITY useCurrentPage.label      "Tokisäx ri ruxaq k'amaya'l k'o wakami">
 <!ENTITY useCurrentPage.accesskey  "w">
 <!ENTITY useMultiple.label         "Ke'okisäx ri taq ruxaq k'amaya'l e k'o wakami">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Junelïk tinik'öx we &brandShortName; ja ri' ri awokik'amaya'l">
 <!ENTITY alwaysCheckDefault2.accesskey    "e">
-<!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "k">
+
+
 <!ENTITY isDefault.label                  "&brandShortName; ja awokik'amaya'l kan k'o wi">
 <!ENTITY isNotDefault.label               "&brandShortName; man ja ta ri awokik'amaya'l kan k'o wi">
 

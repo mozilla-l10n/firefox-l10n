@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Chijun">
 
-<!ENTITY accessibility.label             "Okel">
-
 <!ENTITY useCursorNavigation.label       "Junelïk ke'awokisaj ri taq rupitz'b'al retal ch'oy richin yatok pa taq ruxaq k'amaya'l">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Tikanöx taq rucholajem tzij toq tajin yatz'ib'an">
 <!ENTITY searchOnStartTyping.accesskey   "t">
-<!ENTITY blockAutoReload.label           "Tiya' rutzijol chi re toq jun ruxaq k'amaya'l nrajo' yiruk'waj juk'an chik chuqa' toq nujïk' jub'ey chik re ruxaq k'amaya'l re'">
-<!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Tik'ut pe ri na'onel pitzb'äl toq xtik'atzin">
 <!ENTITY useOnScreenKeyboard.accesskey   "p">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'">
 
-<!ENTITY healthReportDesc.label          "Xkaruto' richin niq'ax pan awi' rub'eyal nisamäj ri owokik'amaya'l chuqa' nukomonij taq tzij rik'in &vendorShortName; chi rij ri raxnaqil">
-<!ENTITY enableHealthReport.label        "Rutzijol Raxnaqil &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
-<!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik awokik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
-<!ENTITY enableTelemetryData.label       "Tikomonïx kitz'aqat taq tzij (achi'el, Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
-<!ENTITY crashReporterDesc2.label         "Ri rutzijol taq sachoj &vendorShortName; yeruchojmirisaj taq k'ayewal chuqa' nub'än chi k'o ruchuq'a' chuqa' jikil ri awokik'amaya'l">
-<!ENTITY alwaysSubmitCrashReports.label   "Tiya' q'ij chi re &brandShortName; nutäq backlogged pan ab'i' ri rutzijol taq sachoj">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Tetamäx ch'aqa' chik">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "Tetamäx ch'aqa' chik">
 
 <!ENTITY networkTab.label                "K'amab'ey">
 
-<!ENTITY connection.label                "Okem">
 
 <!ENTITY connectionDesc.label            "Tanuk'samajij ri rub'eyal nok ri &brandShortName; pa k'amaya'l">
 <!ENTITY connectionSettings.label        "Tinuk'…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Pa yonil k'exoj chuqa' ruk'wayöl kanob'äl">
 <!ENTITY enableSearchUpdate2.accesskey   "x">
-
-<!ENTITY reports.label                   "Kitzijol taq samaj">
 
 <!ENTITY offlineStorageNotify.label               "Taya' rutzijol we k'o jun k'amaya'l nrajo' nuyäk taq tzij richin nrokisaj toq majun okem pa k'amaya'l">
 <!ENTITY offlineStorageNotify.accesskey           "T">
