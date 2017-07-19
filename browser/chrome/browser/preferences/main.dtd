@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Her zaman &brandShortName; tarayıcısının varsayılan olup olmadığını denetle">
 <!ENTITY alwaysCheckDefault2.accesskey    "H">
-<!ENTITY setAsMyDefaultBrowser2.label     "Varsayılan yap">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "V">
+<!ENTITY setAsMyDefaultBrowser3.label     "Varsayılan yap…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "a">
 <!ENTITY isDefault.label                  "&brandShortName; şu anda varsayılan tarayıcınız">
 <!ENTITY isNotDefault.label               "&brandShortName; varsayılan tarayıcınız değil">
 

@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Arama sonuçları">
 <!ENTITY  paneGeneral.title             "Genel">
+<!ENTITY  paneSearch.title              "Arama">
 <!ENTITY  paneFilesApplications.title   "Dosyalar ve Uygulamalar">
 <!ENTITY  panePrivacySecurity.title     "Gizlilik ve Güvenlik">
 <!ENTITY  paneContainers.title          "Kapsayıcı sekmeler">
 <!ENTITY  paneUpdates.title             "Güncellemeler">
 
+<!ENTITY  languageAndAppearance.label   "Dil ve görünüm">
+<!ENTITY  filesAndApplications.label    "Dosyalar ve uygulamalar">
+<!ENTITY  browserPrivacy.label          "Tarayıcı gizliliği">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox Hesabı">
 
 <!ENTITY  helpButton2.label        "&brandShortName; Desteği">
-
-<!ENTITY  searchInput.label        "Arama">

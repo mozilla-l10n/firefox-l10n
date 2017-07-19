@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Varsayılan arama motoru">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Varsayılan arama motorunuzu seçin. &brandShortName; bunu konum çubuğunda, arama çubuğunda ve başlangıç sayfasında kullanır.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.">
 
 <!ENTITY provideSearchSuggestions.label        "Arama önerileri sun">
 <!ENTITY provideSearchSuggestions.accesskey    "ö">
 
-<!ENTITY showURLBarSuggestions.label           "Konum çubuğu sonuçlarında arama önerilerini göster">
-<!ENTITY showURLBarSuggestions.accesskey       "K">
+<!ENTITY showURLBarSuggestions2.label           "Adres çubuğu sonuçlarında arama önerilerini göster">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.">
 
 <!ENTITY oneClickSearchEngines.label           "Tek tıklamalı arama motorları">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Arama çubuğu alternatif motorlarda doğrudan arama yapmanızı sağlar. Hangilerinin görüneceğini seçin.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Anahtar kelimeleri yazmaya başladığınızda adres çubuğunun ve arama çubuğunun altında görünen alternatif arama motorlarını seçin.">
 
 <!ENTITY engineNameColumn.label                "Arama motoru">
 <!ENTITY engineKeywordColumn.label             "Anahtar kelime">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Kaldır">
 <!ENTITY removeEngine.accesskey                "K">
 
-<!ENTITY addMoreSearchEngines2.label           "Daha fazla arama motoru ekle">
+<!ENTITY findMoreSearchEngines.label           "Daha fazla arama motoru bul">

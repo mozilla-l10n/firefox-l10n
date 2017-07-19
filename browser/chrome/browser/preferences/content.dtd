@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Açılır pencereler">
+<!ENTITY  permissions.label           "İzinler">
 
 <!ENTITY  blockPopups.label           "Açılır pencereleri engelle">
 <!ENTITY  blockPopups.accesskey       "n">
 
-<!ENTITY  notificationsPolicy.label            "Bildirimler">
 <!ENTITY  notificationsPolicyLearnMore.label   "Daha fazla bilgi al">
 <!ENTITY  notificationsPolicyDesc3.label       "Hangi sitelerin size bildirim gönderebileceğini seçin">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "R">
 
 
-<!ENTITY languages.label              "Diller">
+<!ENTITY language2.label              "Dil">
 <!ENTITY chooseLanguage.label         "Sayfaların gösteriminde kullanılacak dili seçin">
 <!ENTITY chooseButton.label           "Seç…">
 <!ENTITY chooseButton.accesskey       "S">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Çeviriler:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM içeriği">
+<!ENTITY  drmContent2.label              "Sayısal Hak Yönetimi (DRM) içerikleri">
 
-<!ENTITY  playDRMContent.label         "DRM içeriklerini oynat">
-<!ENTITY  playDRMContent.accesskey     "D">
+<!ENTITY  playDRMContent2.label          "DRM denetimli içerikleri oynat">
+<!ENTITY  playDRMContent2.accesskey      "D">
 <!ENTITY  playDRMContent.learnMore.label "Daha fazla bilgi al">
