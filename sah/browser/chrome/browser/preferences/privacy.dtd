@@ -26,7 +26,6 @@
 
 
 
-<!ENTITY  locationBar.label             "Аадырыс ">
 
 
 
@@ -96,7 +95,6 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Туруоруулар...">
 <!ENTITY  clearOnCloseSettings.accesskey "р">
-
 
 
 
