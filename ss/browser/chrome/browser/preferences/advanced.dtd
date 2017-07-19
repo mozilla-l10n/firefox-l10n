@@ -6,10 +6,6 @@
 
 <!ENTITY generalTab.label                "Lokuvamisile">
 
-<!ENTITY accessibility.label             "Kungeneka">
-
-
-
 
 
 
@@ -27,9 +23,6 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
-
-
 
 
 
@@ -79,7 +72,6 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
 
 
 
