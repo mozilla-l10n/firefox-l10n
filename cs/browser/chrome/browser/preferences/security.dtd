@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Zabezpečení">
+<!ENTITY  phishingProtection.label       "Ochrana proti phishingu">
 
 <!ENTITY  warnOnAddonInstall.label        "Vždy upozornit při pokusu o instalaci doplňku">
 <!ENTITY  warnOnAddonInstall.accesskey    "u">
