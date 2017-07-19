@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "Istoric">
 <!ENTITY  permissions.label             "Permisiuni">
 
-<!ENTITY  locationBar.label             "Bară de adresă">
 
-<!ENTITY  locbar.suggest2.label         "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Setări…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "File container">
 <!ENTITY  browserContainersLearnMore.label      "Află mai multe">
 <!ENTITY  browserContainersEnabled.label        "Activează filele container">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

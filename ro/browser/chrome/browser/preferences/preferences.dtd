@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Rezultatele căutării">
 <!ENTITY  paneGeneral.title             "General">
+<!ENTITY  paneSearch.title              "Caută">
 <!ENTITY  paneFilesApplications.title   "Fișiere și aplicații">
 <!ENTITY  panePrivacySecurity.title     "Confidențialitate și securitate">
 <!ENTITY  paneContainers.title          "File container">
 <!ENTITY  paneUpdates.title             "Actualizări">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cont Firefox">
 
 <!ENTITY  helpButton2.label        "Suport &brandShortName;">
-
-<!ENTITY  searchInput.label        "Caută">
