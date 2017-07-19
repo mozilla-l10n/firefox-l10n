@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "عام">
 
-<!ENTITY accessibility.label             "الإتاحة">
-
 <!ENTITY useCursorNavigation.label       "استعمل دائمًا مفاتيح الأسهم للتنقل داخل الصفحات">
 <!ENTITY useCursorNavigation.accesskey   "س">
 <!ENTITY searchOnStartTyping.label       "ابحث عن النص مع بداية الكتابة">
 <!ENTITY searchOnStartTyping.accesskey   "ح">
-<!ENTITY blockAutoReload.label           "حذّرني عندما تحاول مواقع وِب إعادة توجيه أو تحميل الصفحة">
-<!ENTITY blockAutoReload.accesskey       "و">
 <!ENTITY useOnScreenKeyboard.label       "اعرض لوحة مفاتيح باللمس عند الضرورة">
 <!ENTITY useOnScreenKeyboard.accesskey   "م">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "الإبلاغ عن البيانات معطّل في إعدادات البناء">
 
-<!ENTITY healthReportDesc.label          "يساعدك في تفحص أداء متصفحك ومشاركة بيانات حالة المتصفح مع &vendorShortName;">
-<!ENTITY enableHealthReport.label        "فعّل تقرير حالة &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "ت">
+
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
-<!ENTITY telemetryDesc.label             "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
-<!ENTITY enableTelemetryData.label       "شارك بيانات إضافية (تليميتري)">
-<!ENTITY enableTelemetryData.accesskey   "ت">
-<!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
-<!ENTITY crashReporterDesc2.label         "بلاغات الانهيار تساعد &vendorShortName; على إصلاح المشاكل و جعل متصفحك أكثر أمانًا و ثباتًا">
-<!ENTITY alwaysSubmitCrashReports.label   "اسمح بأن يُرسل &brandShortName; بلاغات الانهيار المعلقة نيابة عنك">
-<!ENTITY alwaysSubmitCrashReports.accesskey "ن">
-<!ENTITY crashReporterLearnMore.label     "اطّلع على المزيد">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
 
 <!ENTITY networkTab.label                "الشبكة">
 
-<!ENTITY connection.label                "الاتصال">
 
 <!ENTITY connectionDesc.label            "اضبط كيفية اتصال &brandShortName; بالإنترنت">
 <!ENTITY connectionSettings.label        "الإعدادات…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "حدّث محركات البحث تلقائيًا">
 <!ENTITY enableSearchUpdate2.accesskey   "ك">
-
-<!ENTITY reports.label                   "التقارير">
 
 <!ENTITY offlineStorageNotify.label               "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
 <!ENTITY offlineStorageNotify.accesskey           "ه">

@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "احجب النوافذ المنبثقة">
 <!ENTITY  blockPopups.accesskey       "ذ">
 
-<!ENTITY  notificationsPolicy.label            "التنبيهات">
 <!ENTITY  notificationsPolicyLearnMore.label   "اطّلع على المزيد">
 <!ENTITY  notificationsPolicyDesc3.label       "اختر أيّ المواقع يُسمح لها بإرسال تنبيهات إليك">
 <!ENTITY  notificationsPolicyButton.accesskey  "خ">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "الألوان…">
 <!ENTITY  colors.accesskey            "ل">
 
-
-<!ENTITY languages.label              "اللّغات">
 <!ENTITY chooseLanguage.label         "اختر لغتك المفضلة لعرض الصفحات">
 <!ENTITY chooseButton.label           "اختر…">
 <!ENTITY chooseButton.accesskey       "خ">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "ترجمات">
 <!ENTITY translation.options.attribution.afterLogo "​">
 
-<!ENTITY  drmContent.label             "محتوى محمي بإدارة الحقوق الرقمية">
 
-<!ENTITY  playDRMContent.label         "شغّل المحتوى المحمي بإدارة الحقوق الرقمية">
-<!ENTITY  playDRMContent.accesskey     "ش">
+
 <!ENTITY  playDRMContent.learnMore.label "اطّلع على المزيد">

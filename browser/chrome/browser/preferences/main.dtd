@@ -10,8 +10,7 @@
 <!ENTITY startupBlankPage.label    "اعرض صفحة فارغة">
 <!ENTITY startupPrevSession.label  "اعرض نوافذي و ألسنتي من المرّة السابقة">
 
-<!ENTITY homepage2.label           "صفحة البداية">
-<!ENTITY homepage2.accesskey       "د">
+
 <!ENTITY useCurrentPage.label      "استخدم الصفحة الحالية">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "استخدم الصفحات الحالية">
@@ -33,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "تحقق دائمًا من كون &brandShortName; متصفّحك المبدئي">
 <!ENTITY alwaysCheckDefault2.accesskey    "د">
-<!ENTITY setAsMyDefaultBrowser2.label     "اجعله المبدئي">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "م">
+
+
 <!ENTITY isDefault.label                  "‏&brandShortName; هو المتصفح المبدئي حاليا">
 <!ENTITY isNotDefault.label               "‏&brandShortName; ليس المتصفح المبدئي حاليا">
 

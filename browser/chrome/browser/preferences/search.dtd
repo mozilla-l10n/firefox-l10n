@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "محرك البحث المبدئي">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "اختر محرك البحث المبدئي. سيستخدمه &brandShortName; في شريط العنوان و شريط البحث و صفحة البداية.">
 
 <!ENTITY provideSearchSuggestions.label        "اعرض اقتراحات البحث">
 <!ENTITY provideSearchSuggestions.accesskey    "ع">
 
-<!ENTITY showURLBarSuggestions.label           "أظهر اقتراحات البحث في نتائج شريط الموقع">
-<!ENTITY showURLBarSuggestions.accesskey       "ق">
+
 <!ENTITY urlBarSuggestionsPermanentPB.label    "لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت &brandShortName; على ألّا يتذكر التأريخ.">
 
 <!ENTITY oneClickSearchEngines.label           "محركات البحث بنقرة واحدة">
 
-<!ENTITY chooseWhichOneToDisplay.label         "شريط البحث يمكنك من البحث في محركات البحث البديلة مباشرة. اختر المحركات التي تريد عرضها.">
 
 <!ENTITY engineNameColumn.label                "محرك البحث">
 <!ENTITY engineKeywordColumn.label             "كلمة مفتاحية">
@@ -26,4 +23,3 @@
 <!ENTITY removeEngine.label                    "احذف">
 <!ENTITY removeEngine.accesskey                "ح">
 
-<!ENTITY addMoreSearchEngines2.label           "أضف المزيد من محركات البحث">
