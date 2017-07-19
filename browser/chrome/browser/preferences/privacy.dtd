@@ -31,9 +31,7 @@
 <!ENTITY  history.label                 "ইতিহাস">
 <!ENTITY  permissions.label             "অনুমতি">
 
-<!ENTITY  locationBar.label             "অবস্থান সূচক বার">
 
-<!ENTITY  locbar.suggest2.label         "অবস্থান বার ব্যবহার হলে, পরামর্শ দিন">
 <!ENTITY  locbar.history.label          "ইতিহাস">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
@@ -107,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "সেটিং…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "কন্টেইনার ট্যাব">
 <!ENTITY  browserContainersLearnMore.label      "আরো জানতে">
 <!ENTITY  browserContainersEnabled.label        "কন্টেইনার ট্যাব সক্রিয় করুন">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

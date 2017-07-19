@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "নিরাপত্তা">
 
+
 <!ENTITY  warnOnAddonInstall.label        "আপনাকে সতর্ক করা হবে যখন কোন সাইট অ্যাড-অন ইনস্টল করার চেষ্টা করবে।">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
