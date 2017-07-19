@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Nuostatos">
 <!ENTITY removeButton.label   "Pašalinti">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Grįžti į „Privatumą“">
 
 <!ENTITY window.title         "Pridėti naują sudėtinį rodinį">
 <!ENTITY window.width         "45em">

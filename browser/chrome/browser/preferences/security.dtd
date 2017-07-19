@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Saugumas">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Įspėti, kai svetainės bando diegti priedus">
 <!ENTITY  warnOnAddonInstall.accesskey    "p">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

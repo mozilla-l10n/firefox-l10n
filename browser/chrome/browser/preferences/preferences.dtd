@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Paieškos rezultatai">
 <!ENTITY  paneGeneral.title             "Bendrosios">
+<!ENTITY  paneSearch.title              "Paieška">
 <!ENTITY  paneFilesApplications.title   "Failai ir programos">
 <!ENTITY  panePrivacySecurity.title     "Privatumas ir saugumas">
 <!ENTITY  paneContainers.title          "Sudėtinio rodinio kortelės">
 <!ENTITY  paneUpdates.title             "Naujinimai">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "„Firefox“ paskyra">
 
 <!ENTITY  helpButton2.label        "„&brandShortName;“ pagalba">
-
-<!ENTITY  searchInput.label        "Paieška">

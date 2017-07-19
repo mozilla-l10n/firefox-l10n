@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Žurnalas">
 <!ENTITY  permissions.label             "Leidimai">
 
-<!ENTITY  locationBar.label             "Adreso laukas">
 
-<!ENTITY  locbar.suggest2.label         "Rašant adreso lauke, siūlyti tinklalapius iš">
 <!ENTITY  locbar.history.label          "Žurnalas">
 <!ENTITY  locbar.history.accesskey      "Ž">
 <!ENTITY  locbar.bookmarks.label        "Adresynas">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nuostatos…">
 <!ENTITY  clearOnCloseSettings.accesskey "u">
 
-<!ENTITY  browserContainersHeader.label         "Sudėtinio rodinio kortelės">
 <!ENTITY  browserContainersLearnMore.label      "Sužinoti daugiau">
 <!ENTITY  browserContainersEnabled.label        "Įjungti sudėtinio rodinio korteles">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
