@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Prawa">
+
 <!ENTITY  blockPopups.label           "Wuskakowace wokno blokować">
 <!ENTITY  blockPopups.accesskey       "k">
 
@@ -29,6 +31,8 @@
 <!ENTITY  colors.label                "Barby…">
 <!ENTITY  colors.accesskey            "B">
 
+
+<!ENTITY language2.label              "Rěč">
 <!ENTITY chooseLanguage.label         "Wubjerće swoju preferowanu rěč za zwobraznjenje stronow">
 <!ENTITY chooseButton.label           "Wubrać…">
 <!ENTITY chooseButton.accesskey       "u">
@@ -48,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Přełožki wot">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Wobsha Digital Right Management (DRM)">
 
-
+<!ENTITY  playDRMContent2.label          "Wobsah wodźeny přez DRM wothrać">
+<!ENTITY  playDRMContent2.accesskey      "h">
 <!ENTITY  playDRMContent.learnMore.label "Dalše informacije">

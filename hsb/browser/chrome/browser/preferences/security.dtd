@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Wěstota">
-
+<!ENTITY  phishingProtection.label       "Škit přećiwo kradnjenju datow">
 
 <!ENTITY  warnOnAddonInstall.label        "Warnować, hdyž sydła pospytuja přidatki instalować">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
