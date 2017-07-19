@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "வரலாறு">
 <!ENTITY  permissions.label             "அனுமதிகள்">
 
-<!ENTITY  locationBar.label             "இடப் பட்டை">
 
-<!ENTITY  locbar.suggest2.label         "இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்">
 <!ENTITY  locbar.history.label          "வரலாறு">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "அமைவுகள்…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "கலன் கீற்றுகள்">
 <!ENTITY  browserContainersLearnMore.label      "மேலும் அறிய">
 <!ENTITY  browserContainersEnabled.label        "கலன் கீற்றுகளை செயற்படுத்து">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
