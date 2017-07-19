@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "பொது">
 
-<!ENTITY accessibility.label             "அணுகக்கூடியது">
-
 <!ENTITY useCursorNavigation.label       "எப்போதும் நிலைக்காட்டி விசைகளை பயன்படுத்தி பக்கங்களிடையே செல்">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "இணையதளங்கள் பக்கத்தை ஏற்றும் போதோ அல்லது வேறு பக்கத்திற்கு திருப்பும்போதோ உங்களை எச்சரிக்கும்">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "தேவைப்படும் பொருட்டு தொடு விசைப்பலகையைக் காட்டு">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது">
 
-<!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ள உதவுகிறது, மேலும் உங்கள் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; தரவைப் பகிர்ந்துகொள்கிறது">
-<!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையைச் செயல்படுத்தவும்">
-<!ENTITY enableHealthReport.accesskey    "R">
+
 <!ENTITY healthReportLearnMore.label     "மேலும் அறிய">
 
-<!ENTITY telemetryDesc.label             "நாங்கள் &brandShortName; உலாவியை மேலும் சிறப்பானதாக மாற்ற உதவும் வகையில் உங்கள் உலாவியைப் பற்றிய செயல்திறன், பயனளவு, வன்பொருள் மற்றும் தனிப்பயனாக்க தரவை &vendorShortName; உடன் பகிர்ந்துகொள்ளும்">
-<!ENTITY enableTelemetryData.label       "கூடுதல் தரவைப் பகிரவும்(அ.து தொலையலகு)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
-<!ENTITY crashReporterDesc2.label         "சிதைவு அறிக்கைகள் &vendorShortName; சிக்கல்களைச் சரிசெய்து உங்கள் உலாவியை இன்னும் நிலையானதாகவும் பாதுகாப்பானதாகவும் மாற்ற உதவுகிறது">
-<!ENTITY alwaysSubmitCrashReports.label   "உங்களின் சார்பாக பின்புல நொறுக்கு அறிக்கையை அனுப்பு &brandShortName; உலாவியை அனுமதி">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
+
+
+
+<!ENTITY crashReporterLearnMore.label    "மேலும் அறிய">
 
 <!ENTITY networkTab.label                "பிணையம்">
 
-<!ENTITY connection.label                "இணைப்பு">
 
 <!ENTITY connectionDesc.label            "எவ்வாறு &brandShortName; இணையத்துடன் இணைக்கப்பட்டுள்ளது என கட்டமைக்கவும்">
 <!ENTITY connectionSettings.label        "அமைவுகள்…">
@@ -115,8 +104,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "தேடுபொறிகளைத் தானாகப் புதுப்பிக்கும்">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "அறிக்கைகள்">
 
 <!ENTITY offlineStorageNotify.label               "ஒரு வலைத்தளம் இணைப்பில்லாமல் தரவைச் சேமித்து பயன்படுத்தக் கேட்டால் என்னிடம் சொல்">
 <!ENTITY offlineStorageNotify.accesskey           "T">
