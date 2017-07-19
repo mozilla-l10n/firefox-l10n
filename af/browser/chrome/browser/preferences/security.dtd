@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Sekuriteit">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Waarsku wanneer werwe byvoegings probeer installeer">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

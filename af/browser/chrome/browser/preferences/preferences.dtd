@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "Soekresultate">
 <!ENTITY  paneGeneral.title             "Algemeen">
+<!ENTITY  paneSearch.title              "Soek">
 <!ENTITY  paneFilesApplications.title   "Lêers en toepassings">
 <!ENTITY  panePrivacySecurity.title     "Privaatheid en sekuriteit">
 <!ENTITY  paneContainers.title          "Konteksoortjies">
 <!ENTITY  paneUpdates.title             "Bywerkings">
+
+
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox-rekening">
 
 <!ENTITY  helpButton2.label        "&brandShortName;-ondersteuning">
-
-<!ENTITY  searchInput.label        "Soek">
