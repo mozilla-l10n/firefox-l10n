@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Öryggi">
 
+
 <!ENTITY  warnOnAddonInstall.label        "Vara við þegar vefsvæði reynir að setja inn viðbætur">
 <!ENTITY  warnOnAddonInstall.accesskey    "V">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

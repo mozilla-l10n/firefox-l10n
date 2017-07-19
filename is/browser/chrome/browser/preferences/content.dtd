@@ -2,11 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Loka á sprettiglugga">
 <!ENTITY  blockPopups.accesskey       "g">
 
-<!ENTITY  notificationsPolicy.label            "Tilkynningar">
 <!ENTITY  notificationsPolicyLearnMore.label   "Vita meira">
 <!ENTITY  notificationsPolicyDesc3.label       "Veldu hvaða versvæði hafa leyfi til að senda þér tilkynningar">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
@@ -31,8 +29,6 @@
 <!ENTITY  colors.label                "Litir…">
 <!ENTITY  colors.accesskey            "L">
 
-
-<!ENTITY languages.label              "Tungumál">
 <!ENTITY chooseLanguage.label         "Veldu þau tungumál sem hafa forgang við birtingu vefsíðu">
 <!ENTITY chooseButton.label           "Velja…">
 <!ENTITY chooseButton.accesskey       "V">
@@ -52,8 +48,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Þýtt af">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM innihald">
 
-<!ENTITY  playDRMContent.label         "Spila DRM innihald">
-<!ENTITY  playDRMContent.accesskey     "S">
+
 <!ENTITY  playDRMContent.learnMore.label "Vita meira">

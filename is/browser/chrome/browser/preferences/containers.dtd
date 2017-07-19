@@ -7,7 +7,6 @@
 <!ENTITY preferencesButton.label "Stillingar">
 <!ENTITY removeButton.label   "Fjarlægja">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Til baka í friðhelgi">
 
 <!ENTITY window.title         "Bæta við nýjum innihaldsflipa">
 <!ENTITY window.width         "45em">
