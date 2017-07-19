@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  blockPopups.label           "Vimbela amawindi azivelelayo">
 <!ENTITY  blockPopups.accesskey       "V">
-
 
 
 
@@ -28,8 +26,6 @@
 <!ENTITY  colors.label                "Imibala…">
 <!ENTITY  colors.accesskey            "I">
 
-
-<!ENTITY languages.label              "Izilimi">
 <!ENTITY chooseLanguage.label         "Khetha ulimi olithandayo lokuboniswa kwamakhasi">
 <!ENTITY chooseButton.label           "Khetha…">
 <!ENTITY chooseButton.accesskey       "e">
