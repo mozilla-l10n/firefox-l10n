@@ -512,8 +512,8 @@
 <!ENTITY contextmenu_subscribe "Prenumerera på sidan">
 <!ENTITY contextmenu_site_settings "Redigera platsinställningar">
 <!ENTITY contextmenu_top_sites_edit "Redigera">
-<!ENTITY contextmenu_top_sites_pin "Fäst plats">
-<!ENTITY contextmenu_top_sites_unpin "Lösgör plats">
+<!ENTITY contextmenu_top_sites_pin "Fäst webbplats">
+<!ENTITY contextmenu_top_sites_unpin "Lösgör webbplats">
 <!ENTITY contextmenu_add_search_engine "Lägg till en sökmotor">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ta fram valda enheter">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Webbplats fäst">
+<!ENTITY home_unpinned_site "Webbplats lösgjord">
 
 <!ENTITY remote_tabs_panel_moved_title "Vart tog mina flikar vägen?">
 <!ENTITY remote_tabs_panel_moved_desc "Vi har flyttat dina flikar från dina andra enheter till en panel på din hem-sida så att du enkelt kan hitta dom varje gång du öppnar en ny flik.">
