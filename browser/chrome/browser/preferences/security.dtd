@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "सुरक्षा">
 
+
 <!ENTITY  warnOnAddonInstall.label        "साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
