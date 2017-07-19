@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Verificar sempre se o &brandShortName; é o seu navegador predefinido">
 <!ENTITY alwaysCheckDefault2.accesskey    "V">
-<!ENTITY setAsMyDefaultBrowser2.label     "Tornar predefinido">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "T">
+<!ENTITY setAsMyDefaultBrowser3.label     "Tornar predefinido…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "d">
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador predefinido">
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador predefinido">
 
