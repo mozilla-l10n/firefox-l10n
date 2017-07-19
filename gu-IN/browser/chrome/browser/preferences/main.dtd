@@ -28,5 +28,6 @@
 
 <!ENTITY alwaysCheckDefault2.label        "હંમેશાં તપાસો કે &brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
 <!ENTITY isDefault.label                  "&brandShortName; હાલમાં તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
+<!ENTITY isNotDefault.label               "&brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર નથી">
 
 
