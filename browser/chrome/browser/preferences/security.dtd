@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "सुरक्षा">
 
+
 <!ENTITY  warnOnAddonInstall.label        "आपको चेताएँ जब साइट सहयुक्तियों को जोड़ना चाहता है">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
