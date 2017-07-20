@@ -24,13 +24,14 @@
 <!ENTITY changeBlockList.label          "تغییر لیست مسدودی‌ها">
 <!ENTITY changeBlockList.accesskey      "ت">
 
-
-
-
+<!ENTITY  doNotTrack.learnMore.label    "اطلاعات بیشتر">
+<!ENTITY  doNotTrack.default.label      "تنها زمانی که از محافظ دنبال کردن استفاده ‌می‌شود">
+<!ENTITY  doNotTrack.always.label       "همیشه">
 
 <!ENTITY  history.label                 "تاریخچه">
 <!ENTITY  permissions.label             "مجوزها">
 
+<!ENTITY  addressBar.label              "نوار نشانی">
 
 <!ENTITY  locbar.history.label          "تاریخچه">
 <!ENTITY  locbar.history.accesskey      "ت">
