@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "સામાન્ય">
 
-<!ENTITY accessibility.label             "સુલભતા">
-
 <!ENTITY useCursorNavigation.label       "પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "જ્યારે તમે ટાઇપ કરવાનું શરૂ કરો ત્યારે ટેક્સ્ટ માટે શોધો">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "તમને ચેતવે છે કે જ્યારે વેબસાઇટ્સ પૃષ્ઠને રીડાયરેક્ટ અથવા ફરીથી લોડ કરવાનો પ્રયાસ કરે છે">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "જ્યારે જરૂરી હોય ત્યારે ટચ કીબોર્ડ બતાવો">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,16 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે">
 
-<!ENTITY healthReportDesc.label          "તમારાં બ્રાઉઝર પ્રભાવને સમજવા તમને મદદ કરે છે અને તમારાં બ્રાઉઝર આરોગ્ય વિશે &vendorShortName; સાથે માહિતીને વહેંચે છે">
-<!ENTITY enableHealthReport.label        "&brandShortName; આરોગ્ય અહેવાલને સક્રિય કરો">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "Mozilla પર આપમેળે ટેકનિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે &brandShortName; નેેે પરવાનગી આપો">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "વધારે શીખો">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; ને સારુ બનાવવા અમને મદદ કરવા માટે &vendorShortName; સાથે તમારાં બ્રાઉઝર વિશે પ્રભાવ, વપરાશ, હાર્ડવેર અને વૈવિધ્યપૂર્ણ માહિતીને વહેંચે છે">
-<!ENTITY enableTelemetryData.label       "વધારાના ડેટા શેર કરો (દાખલા તરીકે, Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "વધારે શીખો">
+<!ENTITY dataCollection.label            "&brandShortName; ડેટા સંગ્રહ અને ઉપયોગ">
 
-<!ENTITY crashReporterDesc2.label         "&vendorShortName; ભંગાણ અહેવાલો સમસ્યાઓ ઠીક કરવામાં સહાય કરે છે અને તમારા બ્રાઉઝરને વધુ સ્થિર અને સલામત બનાવો">
-<!ENTITY alwaysSubmitCrashReports.label   "તમારા વતી &brandShortName; ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "વધારે શીખો">
+<!ENTITY crashReporterLearnMore.label    "વધારે શીખો">
 
 <!ENTITY networkTab.label                "નેટવર્ક">
 
-<!ENTITY connection.label                "જોડાણ">
 
 <!ENTITY connectionDesc.label            "કેવી રીતે &brandShortName; ઈન્ટરનેટ સાથે જોડાય છે તે રૂપરેખાંકિત કરો">
 <!ENTITY connectionSettings.label        "સેટીંગ...">
@@ -115,8 +103,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "આપમેળે શોધ એન્જિન અપડેટ કરો">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "અહેવાલો">
 
 <!ENTITY offlineStorageNotify.label               "જ્યારે કોઈ વેબસાઇટ ઑફલાઇન ઉપયોગ માટે ડેટા સ્ટોર કરવા માટે પૂછે ત્યારે તમને જણાવશે">
 <!ENTITY offlineStorageNotify.accesskey           "T">

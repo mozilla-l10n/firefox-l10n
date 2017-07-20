@@ -7,6 +7,7 @@
 <!ENTITY startupPage2.label        "જ્યારે &brandShortName; શરૂ થાય છે">
 <!ENTITY startupUserHomePage.label "તમારું મુખ્ય પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
+<!ENTITY startupPrevSession.label  "છેલ્લા સમયની તમારી વિંડોઝ અને ટેબ્સ બતાવો">
 
 <!ENTITY homepage2.label           "મુખ્ય પૃષ્ઠ">
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
@@ -30,4 +31,9 @@
 <!ENTITY isDefault.label                  "&brandShortName; હાલમાં તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
 <!ENTITY isNotDefault.label               "&brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર નથી">
 
+<!ENTITY separateProfileMode.label        "પરવાનગી આપો &brandShortName; અને તે જ સમયે Firefox ને ચલાવવા માટે">
+<!ENTITY useFirefoxSync.label             "છૂપી સૂચના: આ અલગ પ્રોફાઇલ્સનો ઉપયોગ કરે છે. તેમની વચ્ચે ડેટા શેર કરવા માટે સમન્વયનનો ઉપયોગ કરો.">
+<!ENTITY getStarted.notloggedin.label     "સાઇન ઇન કરો &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "ખોલો કરો &syncBrand.shortName.label; પસંદગીઓ">
 
+<!ENTITY e10sEnabled.label                "બહુવિધ-પ્રક્રિયા અને &brandShortName; સક્ષમ કરો">
