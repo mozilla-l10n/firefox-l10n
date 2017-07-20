@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Kontraŭspura protekto">
-<!ENTITY  trackingProtection.description       "Spurado estas la kolekto de informoj pri vi, kiun faras entreprenoj por krei profilon vian kaj montri enhavon surbaze de viaj retumaj kaj personaj datumoj.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Bloki la montron de enhavo de konataj spurantaj entreprenoj">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Uzi protekton kontraŭ spurado por bloki konatajn spurilojn">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Nur en privataj fenestroj">
@@ -15,24 +14,23 @@
 <!ENTITY  trackingProtectionExceptions.label   "Esceptoj…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
-<!ENTITY tracking.label                 "Spurado">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Uzi protekton kontraŭ spurado en privataj fenestroj">
 <!ENTITY trackingProtectionPBM5.accesskey     "f">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
 <!ENTITY changeBlockList.label          "Ŝanĝi liston de blokado">
 <!ENTITY changeBlockList.accesskey      "l">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Vi ankaŭ povas ">
-<!ENTITY  doNotTrack.settings.label     "administri viajn agordojn pri Ne spuri">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.learnMore.label    "Pli da informo">
+<!ENTITY  doNotTrack.default.label      "Nur dum uzo de protekto kontraŭ spurado">
+<!ENTITY  doNotTrack.always.label       "Ĉiam">
 
 <!ENTITY  history.label                 "Historio">
+<!ENTITY  permissions.label             "Permesoj">
 
-<!ENTITY  locationBar.label             "Retadresa strio">
-
-<!ENTITY  locbar.suggest2.label         "Dum uzo de la retadresa strio, sugesti">
+<!ENTITY  addressBar.label              "Adresa strio">
+<!ENTITY  addressBar.suggest.label      "Dum uzo de la retadresa strio, sugesti">
 <!ENTITY  locbar.history.label          "Historio">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
@@ -106,7 +104,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Agordoj…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
 
-<!ENTITY  browserContainersHeader.label         "Ingaj langetoj">
 <!ENTITY  browserContainersLearnMore.label      "Pli da informo">
 <!ENTITY  browserContainersEnabled.label        "Aktivigi ingajn langetojn">
 <!ENTITY  browserContainersEnabled.accesskey    "i">
