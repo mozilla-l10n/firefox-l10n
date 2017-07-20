@@ -38,6 +38,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Rețea">
 
+<!ENTITY networkProxy.label              "Proxy pentru rețea">
 
 <!ENTITY connectionDesc.label            "Configurează modul în care &brandShortName; se conectează la internet">
 <!ENTITY connectionSettings.label        "Setări…">
