@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "موتور جست‌وجو پیش‌فرض">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو">
 
 <!ENTITY provideSearchSuggestions.label        "عرضه پیشنهادهای جست‌وجو">
 <!ENTITY provideSearchSuggestions.accesskey    "ج">
