@@ -232,7 +232,7 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Qu’est-ce que ceci ? La télémétrie peut installer et lancer des expérimentations de temps en temps.">
+<!ENTITY experiment.info.label "De quoi s’agit-il ? La télémétrie peut installer et lancer des expérimentations de temps en temps.">
 <!ENTITY experiment.info.learnmore "En savoir plus">
 <!ENTITY experiment.info.learnmore.accesskey "E">
 <!ENTITY experiment.info.changetelemetry "Paramètres de la télémétrie">
