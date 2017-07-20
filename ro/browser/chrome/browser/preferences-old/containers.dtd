@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Preferințe">
 <!ENTITY removeButton.label   "Elimină">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Revino la confidențialitate">
+<!ENTITY backLink.label       "&#171; Întoarce-te la Confidențialitate">
 
 <!ENTITY window.title         "Adaugă un nou container">
 <!ENTITY window.width         "45em">

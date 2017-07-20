@@ -131,7 +131,7 @@ available. -->
 
 <!ENTITY useRecommendedPerformanceSettings.description "Aceste setări sunt adaptate pentru hardware-ul și sistemul de operare al calculatorului.">
 
-
+<!ENTITY performanceSettingsLearnMore.label "Află mai multe">
 <!ENTITY limitContentProcessOption.label "Limita proceselor pentru conținut">
 <!ENTITY limitContentProcessOption.description "Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.">
 <!ENTITY limitContentProcessOption.accesskey   "L">

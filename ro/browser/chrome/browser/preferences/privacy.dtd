@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecția față de urmărire">
-
-
+<!ENTITY  trackingProtection2.description      "Urmărirea este colecția datelor tale de navigare pe multiple site-uri web. Urmărirea poate fi folosită pentru a construi un profil și pentru a afișa conținut pe baza informațiilor tale de navigare și personale.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
 <!ENTITY  trackingProtectionAlways.label       "Întotdeauna">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Doar în ferestrele private">
@@ -19,19 +19,22 @@
 <!ENTITY trackingProtectionPBM5.label         "Folosește protecția față de urmărire în ferestre private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Află mai multe">
 <!ENTITY changeBlockList.label          "Schimbă lista de blocări">
 <!ENTITY changeBlockList.accesskey      "c">
 
-
+<!ENTITY  doNotTrack.description        "Trimite site-urilor web un semnal „Do Not Track” prin care nu dorești să fii urmărit">
+<!ENTITY  doNotTrack.learnMore.label    "Află mai multe">
 
 
 
 <!ENTITY  history.label                 "Istoric">
 <!ENTITY  permissions.label             "Permisiuni">
 
-
+<!ENTITY  addressBar.label              "Bară de adresă">
+<!ENTITY  addressBar.suggest.label      "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">

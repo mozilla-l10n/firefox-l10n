@@ -7,7 +7,7 @@
 
 <!ENTITY loadError.label "Problemă la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
-<!ENTITY returnToPreviousPage.label "Mergi înapoi">
+<!ENTITY returnToPreviousPage.label "Întoarce-te">
 <!ENTITY advanced.label "Avansat">
 <!-- Specific error messages -->
 

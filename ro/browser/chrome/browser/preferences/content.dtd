@@ -48,6 +48,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduceri de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Conținut Digital Rights Management (DRM)">
 
-
+<!ENTITY  playDRMContent2.label          "Redă conținut controlat prin DRM">
+<!ENTITY  playDRMContent2.accesskey      "p">
 <!ENTITY  playDRMContent.learnMore.label "Află mai multe">
