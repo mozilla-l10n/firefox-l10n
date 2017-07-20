@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "زبانه‌های حامل">
 <!ENTITY  paneUpdates.title             "به‌روزرسانی‌ها">
 
-
-
+<!ENTITY  languageAndAppearance.label   "زبان و ظاهر">
+<!ENTITY  filesAndApplications.label    "پرونده‌ها و برنامه‌ها">
+<!ENTITY  browserPrivacy.label          "حریم خصوصی مرورگر">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "حساب فایرفاکس">

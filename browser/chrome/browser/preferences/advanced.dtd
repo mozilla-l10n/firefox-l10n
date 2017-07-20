@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است">
 
-
+<!ENTITY enableHealthReport1.label       "اجازه داده به &brandShortName; برای ارسال خودکار اطلاعات فعالیت‌های فنی به موزیلا">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
+<!ENTITY dataCollection.label            "ذخیره اطلاعات و استفاده &brandShortName;">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "نکات حفظ حریم خصوصی">
 
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "اجازه دادن به &brandShortName; برای ارسال گزارشات خرابی برای موزیلا">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
 
+<!ENTITY networkProxy.label              "شبکه پراکسی">
 
 <!ENTITY connectionDesc.label            "چگونگی اتصال &brandShortName; به اینترنت را پیکربندی کنید">
 <!ENTITY connectionSettings.label        "تنظیمات…">
