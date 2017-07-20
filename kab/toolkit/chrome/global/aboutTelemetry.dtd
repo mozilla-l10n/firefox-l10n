@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Isefka n tilisɣelt">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Snifel">
-
-<!ENTITY aboutTelemetry.uploadEnabled "Asali n isefka FHR <span>irmed</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "Asali n isefka FHR <span>itturemed</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Asekles n tilisɣelt ɣuzzifen <span>yermed</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Asekles n tilisɣelt ɣuzzifen <span>ur yermid ara</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Aɣbalu n isefka n Ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Isefkan Ping amiran">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Isefka n Ping ittwaɣebṛen">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Askan n isefka n Ping:">
-
-<!ENTITY aboutTelemetry.structured "Yettusemkes">
 
 <!ENTITY aboutTelemetry.raw "Izirig JSON">
 
@@ -34,11 +20,16 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping aqbuṛ &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Isefka ping irewwayen…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Dduṛt">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Ass-a">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Iḍelli">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Iqbuṛen">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Isefka imatuten">
 
@@ -72,12 +63,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Talɣut n tɣimit">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Adlef amazray i d-leqḍen izegrar">
-
-<!ENTITY aboutTelemetry.toggle "  Sit ɣef Snefli/Fneẓ tigezmi">
-
-<!ENTITY aboutTelemetry.emptySection "  (ulac isefk d iţugemren)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Awi-d ismawen n twuriwin i tnebdanin">
@@ -87,5 +72,3 @@
 <!ENTITY aboutTelemetry.filterText "  Zizdeg (izriren n isekkilen neɣ tinfaliyin tiluganin)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "   Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "   Payload arewway">
