@@ -4,18 +4,17 @@
 
 <!ENTITY defaultSearchEngine.label             "Mecanismo de pesquisa padrão">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Escolha o seu mecanismo de pesquisa padrão. O &brandShortName; irá usá-lo na barra de endereço, barra de pesquisa e na página inicial.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Escolha o mecanismo de pesquisa padrão para usar na barra de endereços e na barra de pesquisa.">
 
 <!ENTITY provideSearchSuggestions.label        "Sugestões de pesquisa">
 <!ENTITY provideSearchSuggestions.accesskey    "S">
 
-<!ENTITY showURLBarSuggestions.label           "Mostrar sugestões de pesquisa na barra de endereço">
-<!ENTITY showURLBarSuggestions.accesskey       "M">
+<!ENTITY showURLBarSuggestions2.label           "Mostrar sugestões de pesquisa nos resultados da barra de endereços">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o &brandShortName; para nunca lembrar o histórico.">
 
 <!ENTITY oneClickSearchEngines.label           "Mecanismos de pesquisa em um clique">
 
-<!ENTITY chooseWhichOneToDisplay.label         "A barra de pesquisa permite pesquisar em mecanismos alternativos. Escolha um.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a inserir uma palavra-chave.">
 
 <!ENTITY engineNameColumn.label                "Mecanismo de pesquisa">
 <!ENTITY engineKeywordColumn.label             "Palavra-chave">
@@ -26,4 +25,4 @@
 <!ENTITY removeEngine.label                    "Remover">
 <!ENTITY removeEngine.accesskey                "R">
 
-<!ENTITY addMoreSearchEngines2.label           "Adicionar mais mecanismos de pesquisa">
+<!ENTITY findMoreSearchEngines.label           "Procurar mais mecanismos de pesquisa">
