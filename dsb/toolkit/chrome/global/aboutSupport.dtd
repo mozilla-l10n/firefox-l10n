@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesowe wokna">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Webwopśimjeśowe procese">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kluc Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kluc słužby póstajenja stojnišća Mozilla">

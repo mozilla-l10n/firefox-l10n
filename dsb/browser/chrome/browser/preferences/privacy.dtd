@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Pšawa">
 
-
+<!ENTITY  addressBar.label              "Adresowe pólo">
+<!ENTITY  addressBar.suggest.label      "Pśi wužywanju adresowego póla ma se naraźiś">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Cytańske znamjenja">

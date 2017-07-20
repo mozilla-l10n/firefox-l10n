@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Pšawa">
+
 <!ENTITY  blockPopups.label           "Wuskokujuce wokno blokěrowaś">
 <!ENTITY  blockPopups.accesskey       "k">
 
@@ -29,6 +31,8 @@
 <!ENTITY  colors.label                "Barwy…">
 <!ENTITY  colors.accesskey            "B">
 
+
+<!ENTITY language2.label              "Rěc">
 <!ENTITY chooseLanguage.label         "Wubjeŕśo swóju preferěrowanu rěc za zwobraznjenje bokow">
 <!ENTITY chooseButton.label           "Wubraś…">
 <!ENTITY chooseButton.accesskey       "u">
@@ -48,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Pśełožki wót">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Wopśimjeśe Digital Right Management (DRM)">
 
-
+<!ENTITY  playDRMContent2.label          "Wopśimjeśe wóźony pśez DRM wótgraś">
+<!ENTITY  playDRMContent2.accesskey      "m">
 <!ENTITY  playDRMContent.learnMore.label "Dalšne informacije">
