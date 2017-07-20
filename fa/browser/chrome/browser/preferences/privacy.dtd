@@ -32,7 +32,7 @@
 <!ENTITY  permissions.label             "مجوزها">
 
 <!ENTITY  addressBar.label              "نوار نشانی">
-
+<!ENTITY  addressBar.suggest.label      "هنگام استفاده از نوار مکان، پیشنهاد بده">
 <!ENTITY  locbar.history.label          "تاریخچه">
 <!ENTITY  locbar.history.accesskey      "ت">
 <!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
@@ -49,7 +49,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ث">
-
+<!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
 
