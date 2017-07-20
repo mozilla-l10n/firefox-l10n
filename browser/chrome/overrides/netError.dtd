@@ -114,7 +114,7 @@ was trying to connect. -->
 </ul>">
 
 <!ENTITY cspBlocked.title "已依内容安全策略拦截">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已按该页面包含的内容安全策略阻止其以此种方式加载。</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已依照该页面的内容安全策略阻止了它以这种方式载入。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到在数据传输过程中存在错误，无法显示您正要查看的页面。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
