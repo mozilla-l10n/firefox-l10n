@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_message "Ansuf γer &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
 <!ENTITY firstrun_bookmarks_title "Amazray">
-<!ENTITY firstrun_bookmarks_message "Ismenyifen-inek; sdat akked tlemmast">
+<!ENTITY firstrun_bookmarks_message "Ismenyifen-ik; zdat akked tlemmast">
 <!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtar akked umazray-inek ticki tettnadiḍ.">
 <!ENTITY firstrun_data_title "Isefka">
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
@@ -19,7 +19,7 @@
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
-<!ENTITY firstrun_button_next "Ɣer sdat">
+<!ENTITY firstrun_button_next "Ɣer zdat">
 
 <!ENTITY firstrun_tabqueue_title "Iseɣwan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
