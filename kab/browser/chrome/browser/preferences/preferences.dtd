@@ -21,6 +21,7 @@
 <!ENTITY  paneContainers.title          "Iccaren imagbaren">
 <!ENTITY  paneUpdates.title             "Leqqem">
 
+<!ENTITY  languageAndAppearance.label   "Tutlayt d urwes">
 <!ENTITY  filesAndApplications.label    "Ifuyla d isnasen">
 <!ENTITY  browserPrivacy.label          "Tabaḍnit n iminig">
 

@@ -46,7 +46,11 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Aseklas n tzerkatut ad ittwarebḥen">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Tazerkatut n uẓeṭṭa ad ittwarebḥen">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Aseklas uγrid n isuturen n uẓeṭṭa">
+<!ENTITY aboutNetworking.rcwnOperation         "Tamhelt n tuffirt">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Ldi">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Γaṛ">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Aru">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Ldi anekcum">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Talemmast meẓẓiyet">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Talemmast γezzifet">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Amgared tizeγt muqren">

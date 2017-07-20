@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Fren amsedday n unadi amezwer ad tesqedceḍ di ufeggag n tansa akked deg ufeggag n unadi.">
 
 <!ENTITY provideSearchSuggestions.label        "Sken isumar n unadi">
 <!ENTITY provideSearchSuggestions.accesskey    "S">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Imseddayen n unadi ara tkecmeḍ s yiwen n usiti ">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Fren imseddayen n unadi nniḍen ad d-ibanen daw ufeggag n tansa akked ufeggag n unadi m'ara ad tebduḍ ad tsekcameḍ awal n tsarut.">
 
 <!ENTITY engineNameColumn.label                "Amsedday n unadi">
 <!ENTITY engineKeywordColumn.label             "Awal tasarut">
