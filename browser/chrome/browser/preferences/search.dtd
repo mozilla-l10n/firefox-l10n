@@ -15,7 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Vyhledávání jedním klepnutím">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Vyberte další vyhledávače k zobrazení pod adresním řádkem a polem hledání, když začnete psát.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a pole hledání.">
 
 <!ENTITY engineNameColumn.label                "Vyhledávací modul">
 <!ENTITY engineKeywordColumn.label             "Klíčové slovo">
