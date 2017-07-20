@@ -21,7 +21,7 @@
 <!ENTITY  paneContainers.title          "Kontejnerové panely">
 <!ENTITY  paneUpdates.title             "Aktualizace">
 
-<!ENTITY  languageAndAppearance.label   "Jazyk a zobrazení stránek">
+<!ENTITY  languageAndAppearance.label   "Zobrazení a jazyk stránek">
 <!ENTITY  filesAndApplications.label    "Soubory a aplikace">
 <!ENTITY  browserPrivacy.label          "Nastavení soukromí">
 
