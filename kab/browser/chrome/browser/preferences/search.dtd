@@ -4,18 +4,16 @@
 
 <!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Fren amsedday n unadi amezwer. &brandShortName; ad t-isseqdec deg ufeggag n tansa, afeggag n unadi akked usebter n usenker.">
 
 <!ENTITY provideSearchSuggestions.label        "Sken isumar n unadi">
 <!ENTITY provideSearchSuggestions.accesskey    "S">
 
-<!ENTITY showURLBarSuggestions.label           "Sken isumar n unadi deg ugmuḍ n ufeggag n tansa">
-<!ENTITY showURLBarSuggestions.accesskey       "S">
+<!ENTITY showURLBarSuggestions2.label           "Sken isumar n unadi deg ugmuḍ n ufeggag n tansa">
+<!ENTITY showURLBarSuggestions2.accesskey       "u">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ &brandShortName; akken ur iḥerrez ara amazray.">
 
 <!ENTITY oneClickSearchEngines.label           "Imseddayen n unadi ara tkecmeḍ s yiwen n usiti ">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Afeggag n unadi a k-yeǧǧ ad tesnifleḍ amsedday n unadi s ucelqef. Fren wid ad d-tsekneḍ.">
 
 <!ENTITY engineNameColumn.label                "Amsedday n unadi">
 <!ENTITY engineKeywordColumn.label             "Awal tasarut">
@@ -26,4 +24,4 @@
 <!ENTITY removeEngine.label                    "Kkes">
 <!ENTITY removeEngine.accesskey                "K">
 
-<!ENTITY addMoreSearchEngines2.label           "Rnu ugar n yimseddayen n unadi">
+<!ENTITY findMoreSearchEngines.label           "Af ugar n yimseddayen n unadi">

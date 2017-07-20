@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Taγellist">
+<!ENTITY  phishingProtection.label       "Ammesten mgal asfuɣel">
 
 <!ENTITY  warnOnAddonInstall.label        "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar ">
 <!ENTITY  warnOnAddonInstall.accesskey    "L">

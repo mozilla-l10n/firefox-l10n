@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Amazray">
 <!ENTITY  permissions.label             "Tisirag">
 
-<!ENTITY  locationBar.label             "Afeggag n tansa">
-
-<!ENTITY  locbar.suggest2.label         "Ticki tesqedceḍ afeggag n tansa, sumer">
+<!ENTITY  addressBar.label              "Afeggag n tansa">
+<!ENTITY  addressBar.suggest.label      "Ticki tesqedceḍ afeggag n tansa, sumer">
 <!ENTITY  locbar.history.label          "Amazray">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Ticraḍ n isebtar">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Iγewwaṛen…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
-<!ENTITY  browserContainersHeader.label         "Iccaren imagbaren">
 <!ENTITY  browserContainersLearnMore.label      "Issin ugar">
 <!ENTITY  browserContainersEnabled.label        "Rmed Iccaren imagbaren">
 <!ENTITY  browserContainersEnabled.accesskey    "g">
