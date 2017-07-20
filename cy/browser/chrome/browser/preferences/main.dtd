@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
 <!ENTITY startupPrevSession.label  "Dangos fy ffenestri a'm tabiau o'r tro diwethaf">
 
-
+<!ENTITY homepage2.label           "Tudalen cartref">
+<!ENTITY homepage2.accesskey       "T">
 <!ENTITY useCurrentPage.label      "Defnyddio'r Dudalen Bresennol">
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Defnyddio'r Dudalen Bresennol">
@@ -32,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Wrth gychwyn, gwirio ai &brandShortName; yw eich porwr ragosodedig">
 <!ENTITY alwaysCheckDefault2.accesskey    "W">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "Gwneud yn Ragosodedig">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "R">
 <!ENTITY isDefault.label                  "&brandShortName; yw eich porwr rhagosodedig cyfredol">
 <!ENTITY isNotDefault.label               "&brandShortName; yw eich porwr rhagosodedig cyfredol">
 

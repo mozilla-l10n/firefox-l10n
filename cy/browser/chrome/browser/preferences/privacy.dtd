@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "Hanes">
 <!ENTITY  permissions.label             "Caniatâd">
 
-
+<!ENTITY  addressBar.label              "Bar Cyfeiriadau">
+<!ENTITY  addressBar.suggest.label      "Pan yn defnyddio'r bar cyfeiriad, cynnig">
 <!ENTITY  locbar.history.label          "Hanes">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">

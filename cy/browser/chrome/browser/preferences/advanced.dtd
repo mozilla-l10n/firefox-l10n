@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn">
 
-
+<!ENTITY enableHealthReport1.label       "Caniatáu i &brandShortName; anfon yn awtomatig ddata technegol a rhyngweithio i Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Dysgu rhagor">
 
+<!ENTITY dataCollection.label            "Casglu Data a Defnyddio &brandShortName; ">
+<!ENTITY dataCollectionDesc.label        "Rydym yn ceisio darparu dewisiadau  i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella &brandShortName; ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Rhybudd Preifatrwydd">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Caniatáu i &brandShortName; anfon adroddiadau chwalu i Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Dysgu rhagor">
 
 <!ENTITY networkTab.label                "Rhwydwaith">
 
+<!ENTITY networkProxy.label              "Dirprwy Rhwydwaith">
 
 <!ENTITY connectionDesc.label            "Pennu sut mae &brandShortName; yn cysylltu â'r We">
 <!ENTITY connectionSettings.label        "Gosodiadau…">

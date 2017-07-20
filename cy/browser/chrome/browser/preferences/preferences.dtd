@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Tabiau Cynwysyddion">
 <!ENTITY  paneUpdates.title             "Diweddariadau">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Iaith a Gwedd">
+<!ENTITY  filesAndApplications.label    "Ffeiliau a Rhaglenni">
+<!ENTITY  browserPrivacy.label          "Preifatrwydd y Porwr">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cyfrif Firefox">
