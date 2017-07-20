@@ -33,8 +33,11 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "T">
 <!ENTITY healthReportLearnMore.label     "Les meir">
 
+<!ENTITY dataCollection.label            "Datainnsamling og bruk for &brandShortName;">
 <!ENTITY dataCollectionPrivacyNotice.label    "Personvernpraksis">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapportar til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
 <!ENTITY crashReporterLearnMore.label    "Les meir">
 
 <!ENTITY networkTab.label                "Nettverk">
