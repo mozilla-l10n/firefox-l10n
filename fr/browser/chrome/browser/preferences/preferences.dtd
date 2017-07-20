@@ -21,7 +21,7 @@
 <!ENTITY  paneContainers.title          "Onglets contextuels">
 <!ENTITY  paneUpdates.title             "Mises à jour">
 
-<!ENTITY  languageAndAppearance.label   "Langue et apparence">
+<!ENTITY  languageAndAppearance.label   "Langues et apparence">
 <!ENTITY  filesAndApplications.label    "Fichiers et applications">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
