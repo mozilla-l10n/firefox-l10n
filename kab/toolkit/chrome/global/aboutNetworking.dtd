@@ -54,3 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Talemmast meẓẓiyet">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Talemmast γezzifet">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Amgared tizeγt muqren">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Amḍan n tuffirt ẓẓayen">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Amdan n tuffirt ur nelli ẓẓayet">
