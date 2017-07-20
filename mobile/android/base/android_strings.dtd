@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Opphev gøyming av einingar">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Låst nettstad">
+<!ENTITY home_unpinned_site "Ulåst nettstad">
+
 <!ENTITY remote_tabs_panel_moved_title "Kvar forsvann fanene mine?">
 <!ENTITY remote_tabs_panel_moved_desc "Me har flytta fanene dine frå andre einingar til eit panel på startsida, som du enkelt kan få tilgang til kvar gong du opnar ei ny fane.">
 <!ENTITY remote_tabs_panel_moved_link "Ta meg til det nye panelet.">
