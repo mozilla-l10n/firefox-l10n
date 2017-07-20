@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Amatu">
 
-<!ENTITY accessibility.label             "Tuffart">
-
 <!ENTITY useCursorNavigation.label       "Seqdec yal tikelt tiqeffalin n tunigin i tikli deg usebter">
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchOnStartTyping.label       "Nadi aḍris ticki tebda tira">
 <!ENTITY searchOnStartTyping.accesskey   "N">
-<!ENTITY blockAutoReload.label           "Lɣu-yid ticki asmel web ad yeɛreḍ asnifel n ubrid neɣ asniles n usali">
-<!ENTITY blockAutoReload.accesskey       "L">
 <!ENTITY useOnScreenKeyboard.label       "Sken anasiw amennalan ticki terra tmara">
 <!ENTITY useOnScreenKeyboard.accesskey   "n">
 
@@ -33,24 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-a n usefsu">
 
-<!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig-inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig-inek.">
-<!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.accesskey   "g">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
-<!ENTITY telemetryDesc.label             "Ad yazen tilɣa ɣef timellit, aseqdec, arrum d waggen i &vendorShortName; iwakken ad aɣ-d-yefk afus i usnerni n tɣara n &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Azen isefka isemmadanen (Amedya: isefka tilisɣal)">
-<!ENTITY enableTelemetryData.accesskey   "A">
-<!ENTITY telemetryLearnMore.label        "Issin ugar">
+<!ENTITY dataCollectionPrivacyNotice.label    "Tasertit n tbaḍnit">
 
-<!ENTITY crashReporterDesc2.label         "Ineqqisen n uɣelluy ad allen &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig-inek d urkid d aɣelsan">
-<!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen ineqqisen n uɣelluy deg ugilal">
-<!ENTITY alwaysSubmitCrashReports.accesskey "e">
-<!ENTITY crashReporterLearnMore.label     "Issin ugar">
+<!ENTITY crashReporterLearnMore.label    "Issin ugar">
 
 <!ENTITY networkTab.label                "Aẓeṭṭa">
 
-<!ENTITY connection.label                "Tuqqna">
 
 <!ENTITY connectionDesc.label            "Swel tarrayt n tuqqna n &brandShortName; ɣer Internet ">
 <!ENTITY connectionSettings.label        "Iɣewwaṛen…">
@@ -115,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Lqem awurman n umsedday n unadi">
 <!ENTITY enableSearchUpdate2.accesskey   "Ẓ">
-
-<!ENTITY reports.label                   "Ineqqisen">
 
 <!ENTITY offlineStorageNotify.label               "Lɣu-yi-d ticki asmel yebɣa ad isekles isefka i useqdec arusrid ">
 <!ENTITY offlineStorageNotify.accesskey           "L">

@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Isfuyla udhimen">
+<!ENTITY  permissions.label           "Tisirag">
 
 <!ENTITY  blockPopups.label           "Sewḥel isfuyla udhimen">
 <!ENTITY  blockPopups.accesskey       "S">
 
-<!ENTITY  notificationsPolicy.label            "Ilɣa">
 <!ENTITY  notificationsPolicyLearnMore.label   "Issin ugar">
 <!ENTITY  notificationsPolicyDesc3.label       "Fren ismal web i izemren a k-d-aznen ilɣuten">
 <!ENTITY  notificationsPolicyButton.accesskey  "F">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "I">
 
 
-<!ENTITY languages.label              "Tutlayin">
+<!ENTITY language2.label              "Tutlayt">
 <!ENTITY chooseLanguage.label         "Fren tutlayt tebɣiḍ i uskan n isebtar">
 <!ENTITY chooseButton.label           "Fren…">
 <!ENTITY chooseButton.accesskey       "F">
@@ -53,8 +52,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tasuqilt sɣuṛ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Agbur DRM">
 
-<!ENTITY  playDRMContent.label         "Ɣeṛ agbur DRM">
-<!ENTITY  playDRMContent.accesskey     "g">
 <!ENTITY  playDRMContent.learnMore.label "Issin ugar">
