@@ -32,11 +32,16 @@ available. -->
 <!ENTITY enableHealthReport1.label       "Permitir que o &brandShortName; automaticamente envie dados técnicos e de interação para a Mozilla">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
 
+<!ENTITY dataCollection.label            "Coleta e Uso de Dados pelo &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Nós nos esforçamos para lhe proporcionar escolhas e coletar somente o que precisamos para fornecer e melhorar o &brandShortName; para todos. Nós sempre pedimos permissão antes de receber informações pessoais.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Política de Privacidade">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que o &brandShortName; envie relatórios de travamento para a Mozilla">
 <!ENTITY crashReporterLearnMore.label    "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
 
+<!ENTITY networkProxy.label              "Proxy de Rede">
 
 <!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se conecta à internet">
 <!ENTITY connectionSettings.label        "Configurar conexão…">
