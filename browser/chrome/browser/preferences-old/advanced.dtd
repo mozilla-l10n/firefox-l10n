@@ -20,6 +20,10 @@
 
 <!ENTITY dataChoicesTab.label            "માહિતી પસંદગી">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "તમારાં બ્રાઉઝર પ્રભાવને સમજવા તમને મદદ કરે છે અને તમારાં બ્રાઉઝર આરોગ્ય વિશે &vendorShortName; સાથે માહિતીને વહેંચે છે">
 <!ENTITY enableHealthReport.label        "&brandShortName; આરોગ્ય અહેવાલને સક્રિય કરો">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -43,6 +47,10 @@
 <!ENTITY offlineStorage2.label           "ઑફલાઇન વેબ સમાવિષ્ટો અને વપરાશકર્તા માહિતી">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "સાઇટ ડેટા">
+<!ENTITY clearSiteData.label             "તમામ ડેટા સાફ કરો">
+<!ENTITY siteDataSettings.label          "સેટિંગ્સ…">
+<!ENTITY siteDataLearnMoreLink.label     "વધુ શીખો">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -62,6 +70,7 @@
 
 <!ENTITY updateTab.label                 "સુધારો">
 
+<!ENTITY updateApplication.label         "&brandShortName; સુધારો">
 <!ENTITY updateAuto1.label               "આપમેળે સુધારાને સ્થાપિત કરો (અગ્રહણીય: સુધારેલ સુરક્ષા)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateManual.label              "સુધારાઓ માટે ક્યારેય ચકાસો નહિં (આગ્રહણીય નથી: સુરક્ષા જોખમ)">
@@ -86,6 +95,7 @@
 <!ENTITY offlineAppRemove.confirm        "ઓફલાઈન માહિતી દૂર કરો">
 
 <!ENTITY certificateTab.label            "પ્રમાણપત્રો">
+<!ENTITY certPersonal.label              "વિનંતીઓ">
 <!ENTITY selectCerts.auto                "એક આપોઆપ પસંદ કરો">
 <!ENTITY enableOCSP.label                "પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો">
 <!ENTITY enableOCSP.accesskey            "Q">
@@ -94,5 +104,6 @@
 <!ENTITY viewSecurityDevices.label       "સુરક્ષા ઉપકરણો">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "કામગીરી">
 <!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
 <!ENTITY allowHWAccel.accesskey          "r">
