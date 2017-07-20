@@ -52,5 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tasuqilt sɣuṛ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Izerfan n usefrek n ugbur umḍin (DRM)">
 
+<!ENTITY  playDRMContent2.label          "Γaṛ agbur ittwaḥerzen s DRM-">
+<!ENTITY  playDRMContent2.accesskey      "Γ">
 <!ENTITY  playDRMContent.learnMore.label "Issin ugar">

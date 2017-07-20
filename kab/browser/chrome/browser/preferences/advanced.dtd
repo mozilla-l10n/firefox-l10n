@@ -29,15 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-a n usefsu">
 
+<!ENTITY enableHealthReport1.label       "Sireg &brandShortName; as yazen s wudem awurman isefka itiknikanen γer Mozilla">
 <!ENTITY enableHealthReport1.accesskey   "g">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
+<!ENTITY dataCollection.label            "Alqqaḍ d useqdec n isefka &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n &brandShortName; i yal yiwen. ad k-d-nsuter yal tikkelt tasiregt send ad nawi talγut tudmawant.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tasertit n tbaḍnit">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; as yazen aneqqis n uɣelluy i Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "R">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
 
 <!ENTITY networkTab.label                "Aẓeṭṭa">
 
+<!ENTITY networkProxy.label              "Apruksi n uẓeṭṭa">
 
 <!ENTITY connectionDesc.label            "Swel tarrayt n tuqqna n &brandShortName; ɣer Internet ">
 <!ENTITY connectionSettings.label        "Iɣewwaṛen…">
