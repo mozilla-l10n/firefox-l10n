@@ -30,11 +30,13 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "L’envoi de données est désactivé pour cette configuration de compilation">
 
 <!ENTITY enableHealthReport1.label       "Autoriser &brandShortName; à envoyer automatiquement des données techniques et des données d’interaction à Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "A">
 <!ENTITY healthReportLearnMore.label     "En savoir plus">
 
 <!ENTITY dataCollectionPrivacyNotice.label    "Politique de confidentialité">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "u">
 <!ENTITY crashReporterLearnMore.label    "En savoir plus">
 
 <!ENTITY networkTab.label                "Réseau">
