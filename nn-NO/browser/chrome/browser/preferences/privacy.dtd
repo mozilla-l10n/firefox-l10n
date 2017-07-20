@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Historikk">
 <!ENTITY  permissions.label             "Løyve">
 
-<!ENTITY  locationBar.label             "Adresselinje">
-
-<!ENTITY  locbar.suggest2.label         "Når du brukar adressefeltet, føreslå">
+<!ENTITY  addressBar.label              "Adresselinje">
+<!ENTITY  addressBar.suggest.label      "Når du brukar adresselinja, føreslå">
 <!ENTITY  locbar.history.label          "Historikk">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmerke">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Innstillingar…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
-<!ENTITY  browserContainersHeader.label         "Innhaldsfaner">
 <!ENTITY  browserContainersLearnMore.label      "Les meir">
 <!ENTITY  browserContainersEnabled.label        "Aktiver innehaldsfaner">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
