@@ -29,10 +29,16 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Odesílání dat je zakázáno konfigurací tohoto sestavení">
 
+<!ENTITY enableHealthReport1.label       "Povolit aplikaci &brandShortName; automaticky odesílat Mozille technická data a data o interakcích">
+<!ENTITY enableHealthReport1.accesskey   "z">
 <!ENTITY healthReportLearnMore.label     "Zjistit více">
 
+<!ENTITY dataCollection.label            "Sběr a používání dat o aplikaci &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen ta data, která nám pomohou aplikaci &brandShortName; dále zlepšovat. Před odesíláním osobních dat vždy žádáme o váš souhlas.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zásady ochrany soukromí">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Odesílat Mozille hlášení o pádech aplikace &brandShortName;">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Zjistit více">
 
 <!ENTITY networkTab.label                "Síť">
