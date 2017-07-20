@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju">
 
-
+<!ENTITY enableHealthReport1.label       "&brandShortName; zmóžniś, awtomatiski techniske a interakciske daty na Mozilla pósłaś">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Dalšne informacije">
 
+<!ENTITY dataCollection.label            "Gromaźenje a wužywanje datow &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my &brandShortName; za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Powěźeńka priwatnosći">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; zmóžniś, wowaleńske rozpšawy na Mozilla pósłaś">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "l">
 <!ENTITY crashReporterLearnMore.label    "Dalšne informacije">
 
 <!ENTITY networkTab.label                "Seś">
 
+<!ENTITY networkProxy.label              "Seśowy proksy">
 
 <!ENTITY connectionDesc.label            "Konfigurěrowaś, kak &brandShortName; ma z internetom zwězaś">
 <!ENTITY connectionSettings.label        "Nastajenja…">

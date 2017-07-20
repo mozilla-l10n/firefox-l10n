@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Kontejnerowe rejtarki">
 <!ENTITY  paneUpdates.title             "Aktualizacije">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Rěc a wuglěd">
+<!ENTITY  filesAndApplications.label    "Dataje a nałoženja">
+<!ENTITY  browserPrivacy.label          "Priwatnosć wobglědowaka">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Konto Firefox">
