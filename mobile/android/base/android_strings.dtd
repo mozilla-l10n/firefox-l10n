@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Opphev skjuling av enheter">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Låst nettsted">
+<!ENTITY home_unpinned_site "Ulåst nettsted">
+
 <!ENTITY remote_tabs_panel_moved_title "Hvor forsvant fanene mine?">
 <!ENTITY remote_tabs_panel_moved_desc "Vi har flyttet fanene dine fra andre enheter til et panel på startsiden, som du enkelt kan få tilgang til hver gang du åpner en ny fane.">
 <!ENTITY remote_tabs_panel_moved_link "Ta meg med til det nye panelet.">
