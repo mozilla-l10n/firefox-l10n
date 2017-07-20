@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat informațiile privind locația pentru acest site web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ai blocat stocarea de date pentru acest site web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 

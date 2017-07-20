@@ -18,7 +18,7 @@
 <!ENTITY session.label                "Permite pentru sesiune">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Permite">
-<!ENTITY allow.accesskey              "P">
+<!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Renunță">
