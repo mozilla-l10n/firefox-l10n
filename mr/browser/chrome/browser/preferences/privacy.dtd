@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "इतिहास">
 <!ENTITY  permissions.label             "परवानग्या">
 
-
+<!ENTITY  addressBar.label              "पत्ता पट्टी">
+<!ENTITY  addressBar.suggest.label      "पत्ता पट्टी वापरतेवेळी, सूचवा">
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "वाचनखूण">
