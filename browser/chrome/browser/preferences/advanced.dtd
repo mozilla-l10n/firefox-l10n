@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Geral">
 
-<!ENTITY accessibility.label             "Acessibilidade">
-
 <!ENTITY useCursorNavigation.label       "Sempre usar as teclas de cursor para navegar nas páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começa a digitar">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avisar quando websites tentarem redirecionar ou recarregar a página">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado sensível ao toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -33,24 +29,14 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "O relatório de dados está desabilitado nesta configuração">
 
-<!ENTITY healthReportDesc.label          "Ajuda a entender o desempenho do navegador e compartilha dados com a &vendorShortName; sobre a saúde do seu navegador">
-<!ENTITY enableHealthReport.label        "Habilitar o relatório de integridade do &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "Permitir que o &brandShortName; automaticamente envie dados técnicos e de interação para a Mozilla">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
 
-<!ENTITY telemetryDesc.label             "Compartilha dados de desempenho, uso, hardware e personalização do seu navegador com a &vendorShortName; para ajudar a fazer o &brandShortName; melhor">
-<!ENTITY enableTelemetryData.label       "Compartilhar dados adicionais (Telemetria)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Saber mais">
 
-<!ENTITY crashReporterDesc2.label         "Os relatórios de travamento ajudam a &vendorShortName; na solução de problemas e a fazer o seu navegador mais estável e seguro">
-<!ENTITY alwaysSubmitCrashReports.label   "Permitir ao &brandShortName; enviar relatórios de travamento em seu nome">
-<!ENTITY alwaysSubmitCrashReports.accesskey "P">
-<!ENTITY crashReporterLearnMore.label     "Saber mais">
+<!ENTITY crashReporterLearnMore.label    "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
 
-<!ENTITY connection.label                "Conexão">
 
 <!ENTITY connectionDesc.label            "Configurar como o &brandShortName; se conecta à internet">
 <!ENTITY connectionSettings.label        "Configurar conexão…">
@@ -115,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Atualizar automaticamente os mecanismos de pesquisa">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Relatórios">
 
 <!ENTITY offlineStorageNotify.label               "Informar quando um site solicitar armazenamento para uso offline">
 <!ENTITY offlineStorageNotify.accesskey           "t">

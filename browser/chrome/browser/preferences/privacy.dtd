@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Histórico">
 <!ENTITY  permissions.label             "Permissões">
 
-<!ENTITY  locationBar.label             "Barra de endereço">
-
-<!ENTITY  locbar.suggest2.label         "Ao digitar um endereço, sugerir">
+<!ENTITY  addressBar.label              "Barra de Endereços">
+<!ENTITY  addressBar.suggest.label      "Ao usar a barra de endereços, sugerir">
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Favoritos">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Configurar…">
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
-<!ENTITY  browserContainersHeader.label         "Abas contêineres">
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
 <!ENTITY  browserContainersEnabled.label        "Habilitar abas contêineres">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
