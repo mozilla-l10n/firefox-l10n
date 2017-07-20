@@ -29,9 +29,11 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju">
 
-
+<!ENTITY enableHealthReport1.label       "&brandShortName; zmóžnić, awtomatisce techniske a interakciske daty na Mozilla pósłać">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Dalše informacije">
 
+<!ENTITY dataCollection.label            "Hromadźenje a wužiwanje daotw &brandShortName;">
 
 
 
