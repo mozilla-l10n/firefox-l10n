@@ -30,7 +30,7 @@
 <!ENTITY account.edit.accesskey       "С">
 <!ENTITY account.moveup.label         "Преместване на&amp;горе">
 <!ENTITY account.movedown.label       "Преместване на&amp;долу">
-<!ENTITY account.cancelReconnection.label         "Прекъсване на свързването наново">
+<!ENTITY account.cancelReconnection.label         "Прекъсване на повторното свързване">
 <!ENTITY account.cancelReconnection.accesskey     "П">
 <!ENTITY account.copyDebugLog.label     "Копиране на журнала">
 <!ENTITY account.copyDebugLog.accesskey "К">
