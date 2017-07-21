@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa (URL) nie je platná a nemožno ju načítať. Prosím, skontrolujte text v paneli s adresou a skúste to znova.</p>">
 
 <!ENTITY netInterrupt.title "Chyba: Prenos dát prerušený">
-<!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.</p><ul><li>Môže to byť zlyhanie siete medzi vašim počítačom a serverom</li><li>Prosím skúste to neskôr. Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.  Prosím, skúste to znova</p><ul><li>Nemôžete navštíviť ani iné stránky? Skontrolujte pripojenie svojho počítača k sieti.</li><li>Ak problém pretrváva, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa internetu.</li></ul>">
 
 <!ENTITY notCached.title "Platnosť dokumentu vypršala">
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača.</p><ul><li>Z bezpečnostných dôvodov prehliadač automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
