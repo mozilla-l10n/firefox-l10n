@@ -989,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Thumela kwiSixhobo">
 <!ENTITY sendToDevice.viewTitle "Thumela kwiSixhobo">
-<!ENTITY sendToDevice.fxaRequired.label "Iyafuneka">
-<!ENTITY sendToDevice.noDevices.label "Akukho Zixhobo Zikhoyo">
 <!ENTITY sendToDevice.syncNotReady.label "Iingqamanisa iziXhobo…">
