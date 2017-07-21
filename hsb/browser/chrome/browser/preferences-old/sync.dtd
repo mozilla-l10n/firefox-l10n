@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Přidatki">
 <!ENTITY engine.addons.accesskey    "P">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mjeno grata">
