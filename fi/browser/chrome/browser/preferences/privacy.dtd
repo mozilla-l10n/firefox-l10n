@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Historiatiedot">
 <!ENTITY  permissions.label             "Oikeudet">
 
-<!ENTITY  locationBar.label             "Osoitepalkki">
-
-<!ENTITY  locbar.suggest2.label         "Ehdota osoitepalkissa sivuja">
+<!ENTITY  addressBar.label              "Osoitepalkki">
 <!ENTITY  locbar.history.label          "sivuhistoriasta">
 <!ENTITY  locbar.history.accesskey      "s">
 <!ENTITY  locbar.bookmarks.label        "kirjanmerkeistä">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Asetukset…">
 <!ENTITY  clearOnCloseSettings.accesskey "u">
 
-<!ENTITY  browserContainersHeader.label         "Luokitellut välilehdet">
 <!ENTITY  browserContainersLearnMore.label      "Lue lisää">
 <!ENTITY  browserContainersEnabled.label        "Käytä luokiteltuja välilehtiä">
 <!ENTITY  browserContainersEnabled.accesskey    "v">
