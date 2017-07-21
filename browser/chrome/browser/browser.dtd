@@ -989,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Cuir gu uidheam">
 <!ENTITY sendToDevice.viewTitle "Cuir gu uidheam">
-<!ENTITY sendToDevice.fxaRequired.label "Riatanach">
-<!ENTITY sendToDevice.noDevices.label "Chan eil uidheam ri làimh">
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
