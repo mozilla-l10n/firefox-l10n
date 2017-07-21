@@ -27,9 +27,8 @@
 <!ENTITY  history.label                 "História">
 <!ENTITY  permissions.label             "Povolenia">
 
-<!ENTITY  locationBar.label             "Panel s adresou">
-
-<!ENTITY  locbar.suggest2.label         "Pri používaní panela s adresou ponúkať">
+<!ENTITY  addressBar.label              "Panel s adresou">
+<!ENTITY  addressBar.suggest.label      "Pri používaní panela s adresou ponúkať">
 <!ENTITY  locbar.history.label          "záznamy z histórie">
 <!ENTITY  locbar.history.accesskey      "r">
 <!ENTITY  locbar.bookmarks.label        "záložky">
@@ -103,7 +102,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastavenia…">
 <!ENTITY  clearOnCloseSettings.accesskey "N">
 
-<!ENTITY  browserContainersHeader.label         "Kontajnerové karty">
 <!ENTITY  browserContainersLearnMore.label      "Ďalšie informácie">
 <!ENTITY  browserContainersEnabled.label        "Povoliť kontajnerové karty">
 <!ENTITY  browserContainersEnabled.accesskey    "o">

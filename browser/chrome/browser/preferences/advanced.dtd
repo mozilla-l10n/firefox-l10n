@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Všeobecné">
 
-<!ENTITY accessibility.label             "Zjednodušenie ovládania">
-
 <!ENTITY useCursorNavigation.label       "Vždy používať kurzorové klávesy na navigáciu na stránkach">
 <!ENTITY useCursorNavigation.accesskey   "V">
 <!ENTITY searchOnStartTyping.label       "Povoliť vyhľadávanie textu počas písania">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
-<!ENTITY blockAutoReload.accesskey       "U">
 <!ENTITY useOnScreenKeyboard.label       "Zobraziť dotykovú klávesnicu, keď je to potrebné">
 <!ENTITY useOnScreenKeyboard.accesskey   "d">
 
@@ -33,24 +29,14 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Odosielanie údajov je v konfigurácii tohto zostavenia zakázané">
 
-<!ENTITY healthReportDesc.label          "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
-<!ENTITY enableHealthReport.label        "Povoliť správy o kondícii prehliadača &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "o">
 <!ENTITY healthReportLearnMore.label     "Ďalšie informácie">
 
-<!ENTITY telemetryDesc.label             "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
-<!ENTITY enableTelemetryData.label       "Zdieľať ďalšie údaje (napr. telemetriu)">
-<!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Ďalšie informácie">
+<!ENTITY dataCollectionPrivacyNotice.label    "Zásady ochrany súkromia">
 
-<!ENTITY crashReporterDesc2.label         "Správy o zlyhaní pomáhajú spoločnosti &vendorShortName; opravovať chyby a robiť prehliadač stabilnejším a bezpečnejším">
-<!ENTITY alwaysSubmitCrashReports.label   "Povoliť prehliadaču &brandShortName; odosielať vo vašom mene správy o zlyhaní">
-<!ENTITY alwaysSubmitCrashReports.accesskey "p">
-<!ENTITY crashReporterLearnMore.label     "Ďalšie informácie">
+<!ENTITY crashReporterLearnMore.label    "Ďalšie informácie">
 
 <!ENTITY networkTab.label                "Sieť">
 
-<!ENTITY connection.label                "Pripojenie">
 
 <!ENTITY connectionDesc.label            "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
 <!ENTITY connectionSettings.label        "Nastavenia…">
@@ -115,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovať vyhľadávacie moduly">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Hlásenia">
 
 <!ENTITY offlineStorageNotify.label               "Upozorniť, ak chce stránka uložiť údaje na použitie v režime offline">
 <!ENTITY offlineStorageNotify.accesskey           "U">

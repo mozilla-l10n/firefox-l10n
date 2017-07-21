@@ -7,7 +7,7 @@
 <!ENTITY engine.bookmarks.label     "Záložky">
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label2         "Otvorené karty">
-<!ENTITY engine.tabs.accesskey      "K">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "História prehliadania">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.logins.label        "Prihlasovacie údaje">
@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Doplnky">
 <!ENTITY engine.addons.accesskey    "D">
+<!ENTITY engine.addresses.label     "Adresy">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Platobné karty">
+<!ENTITY engine.creditcards.accesskey "k">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Názov zariadenia">
