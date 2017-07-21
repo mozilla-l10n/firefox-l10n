@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 
 
-<!ENTITY sendToDevice.fxaRequired.label "Necessari">
-<!ENTITY sendToDevice.noDevices.label "Cap dispositiu disponible">
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
