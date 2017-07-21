@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "التأريخ">
 <!ENTITY  permissions.label             "الصلاحيات">
 
-
+<!ENTITY  addressBar.label              "شريط العناوين">
+<!ENTITY  addressBar.suggest.label      "عند استخدام شريط العناوين، اقترح">
 <!ENTITY  locbar.history.label          "التأريخ">
 <!ENTITY  locbar.history.accesskey      "ت">
 <!ENTITY  locbar.bookmarks.label        "العلامات">

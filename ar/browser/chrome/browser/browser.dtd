@@ -989,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "أرسِل إلى جهاز">
 <!ENTITY sendToDevice.viewTitle "أرسِل إلى جهاز">
-<!ENTITY sendToDevice.fxaRequired.label "مطلوب">
-<!ENTITY sendToDevice.noDevices.label "لا تتوفر أي أجهزة">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">

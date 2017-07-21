@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "ض">
 <!ENTITY engine.addons.label        "الإضافات">
 <!ENTITY engine.addons.accesskey    "ض">
+<!ENTITY engine.addresses.label     "العناوين">
+<!ENTITY engine.addresses.accesskey "ع">
+<!ENTITY engine.creditcards.label   "بطاقات الائتمان">
+<!ENTITY engine.creditcards.accesskey "ق">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "اسم الجهاز">
