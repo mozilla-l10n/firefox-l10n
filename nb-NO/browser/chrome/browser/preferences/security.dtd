@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Sikkerhet">
+<!ENTITY  phishingProtection.label       "Vern mot nettfiske (phishing)">
 
 <!ENTITY  warnOnAddonInstall.label        "Advar deg når nettsider forsøker å installere programtillegg">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">

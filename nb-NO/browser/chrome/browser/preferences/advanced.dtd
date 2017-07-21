@@ -34,9 +34,11 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Les mer">
 
 <!ENTITY dataCollection.label            "Datainnsamling og bruk for &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Vi prøver alltid å gi deg valg og samler bare det vi trenger for å levere og forbedre &brandShortName; for alle. Vi ber alltid om tillatelse før vi aksepterer personopplysninger.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Personvernbestemmelser">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapporter til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "T">
 <!ENTITY crashReporterLearnMore.label    "Les mer">
 
 <!ENTITY networkTab.label                "Nettverk">

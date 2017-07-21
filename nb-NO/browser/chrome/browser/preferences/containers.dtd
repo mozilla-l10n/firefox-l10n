@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Innstillinger">
 <!ENTITY removeButton.label   "Fjern">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Gå tilbake til personvern">
+<!ENTITY backLink2.label      "&#171; Gå tilbake">
 
 <!ENTITY window.title         "Legg til ny beholder">
 <!ENTITY window.width         "45em">
