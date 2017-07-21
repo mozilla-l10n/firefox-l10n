@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "ডিভাইসে পাঠাও">
 <!ENTITY sendToDevice.viewTitle "ডিভাইসে পাঠাও">
-<!ENTITY sendToDevice.fxaRequired.label "আবশ্যকীয়">
-<!ENTITY sendToDevice.noDevices.label "কোন ডিভাইস পাওয়া যায়নি">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
