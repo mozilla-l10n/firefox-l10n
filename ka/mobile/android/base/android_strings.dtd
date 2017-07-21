@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "არჩეული მოწყობილობების გამოჩენა">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "მიმაგრებული საიტები">
+<!ENTITY home_unpinned_site "მოხსნილი საიტები">
+
 <!ENTITY remote_tabs_panel_moved_title "სად წავიდა ჩემი ჩანართები?">
 <!ENTITY remote_tabs_panel_moved_desc "თქვენი სხვა მოწყობილობების ჩანართები გადავიტანეთ თქვენი საწყისი გვერდის პანელში, რათა მარტივად გქონდეთ მათზე წვდომა ახალი ჩანართის გახსნისას.">
 <!ENTITY remote_tabs_panel_moved_link "მაჩვენეთ ახალი პანელი.">
