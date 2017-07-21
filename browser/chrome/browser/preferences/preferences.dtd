@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "ძიების შედეგები">
 <!ENTITY  paneGeneral.title             "მთავარი ">
+<!ENTITY  paneSearch.title              "ძიება">
 <!ENTITY  paneFilesApplications.title   "ფაილები &amp; პროგრამები">
 <!ENTITY  panePrivacySecurity.title     "პირადულობა &amp; უსაფრთხოება">
 <!ENTITY  paneContainers.title          "სათავსი ჩანართები">
 <!ENTITY  paneUpdates.title             "განახლებები">
 
+<!ENTITY  languageAndAppearance.label   "ენა და იერსახე">
+<!ENTITY  filesAndApplications.label    "ფაილები და პროგრამები">
+<!ENTITY  browserPrivacy.label          "პირადული ბრაუზერი">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox ანგარიში">
 
 <!ENTITY  helpButton2.label        "&brandShortName; დახმარება">
-
-<!ENTITY  searchInput.label        "ძიება">

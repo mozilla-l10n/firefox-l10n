@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "ზოგადი">
 
-<!ENTITY accessibility.label             "დამხმარე საშუალებები">
-
 <!ENTITY useCursorNavigation.label       "გვერდებს შიგნით მოძრაობისას ყოველთვის კურსორის კლავიშების გამოყენება">
 <!ENTITY useCursorNavigation.accesskey   "რ">
 <!ENTITY searchOnStartTyping.label       "ტექსტის ძიება აკრეფის დაწყებისთანავე">
 <!ENTITY searchOnStartTyping.accesskey   "ტ">
-<!ENTITY blockAutoReload.label           "გაფრთხილება, გვერდის გადამისამართების ან ხელახლა ჩატვირთვის მცდელობისას">
-<!ENTITY blockAutoReload.accesskey       "ფ">
 <!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება საჭიროების შემთხვევაში">
 <!ENTITY useOnScreenKeyboard.accesskey   "კ">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის">
 
-<!ENTITY healthReportDesc.label          "გაწვდით ინფორმაციას თქვენი ბრაუზერის წარმადობაზე და მისი მდგომარეობის მონაცემებს უზიარებს &vendorShortName;-ს">
-<!ENTITY enableHealthReport.label        "მოხსენება &brandShortName; -ის გამართულობის შესახებ">
-<!ENTITY enableHealthReport.accesskey    "ხ">
+<!ENTITY enableHealthReport1.label       "&brandShortName;-ისთვის ნების დართვა, ტექნიკური მონაცემების ავტომატურად გასაგზავნად Mozilla-სთვის">
+<!ENTITY enableHealthReport1.accesskey   "ხ">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
-<!ENTITY telemetryDesc.label             "თქვენი ბრაუზერის წარმადობის, გამოყენების, აპრატურის და მორგების მონაცემებს უზიარებს &vendorShortName;-ს , რაც &brandShortName;-ის გაუმჯობესებაში გვეხმარება.">
-<!ENTITY enableTelemetryData.label       "დამატებითი მონაცემების გაზიარება (მაგ. ტელემეტრია)">
-<!ENTITY enableTelemetryData.accesskey   "ტ">
-<!ENTITY telemetryLearnMore.label        "შეიტყვეთ მეტი">
+<!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
+<!ENTITY dataCollectionDesc.label        "ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რაც საჭიროა &brandShortName;-ის გასაუმჯობესებლად. ჩვენ ყოველთვის დაგეკითხებით, პირადი ინფორმაციის მიღებამდე.">
+<!ENTITY dataCollectionPrivacyNotice.label    "პირადი მონაცემების დაცვის დებულება">
 
-<!ENTITY crashReporterDesc2.label         "ავარიული დახურვის მოხსენებები &vendorShortName;-ს ეხმარება ხარვეზების აღმოფხვრასა და ბრაუზერის წარმადობის და უსაფრთხოების გაუმჯობესებაში">
-<!ENTITY alwaysSubmitCrashReports.label   "მიეცეს &brandShortName;-ს დაგროვილი ავარიული დახურვის შეტყობინებების თქვენი სახელით გადაგზავნის უფლება">
-<!ENTITY alwaysSubmitCrashReports.accesskey "ს">
-<!ENTITY crashReporterLearnMore.label     "შეიტყვეთ მეტი">
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;-სთვის ნების დართვა, ავარიული დახურვების მოხსენების გასაგზავნად Mozilla-სთვის">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ვ">
+<!ENTITY crashReporterLearnMore.label    "შეიტყვეთ მეტი">
 
 <!ENTITY networkTab.label                "ქსელი">
 
-<!ENTITY connection.label                "კავშირი">
+<!ENTITY networkProxy.label              "ქსელის პროქსი">
 
 <!ENTITY connectionDesc.label            "მითითება თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
@@ -115,8 +108,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "საძიებო სისტემების ავტომატური განახლება">
 <!ENTITY enableSearchUpdate2.accesskey   "ს">
-
-<!ENTITY reports.label                   "მოხსენებები">
 
 <!ENTITY offlineStorageNotify.label               "გაფრთხილება, საიტის მიერ მონაცემების კავშირგარეშე გამოყენებისთვის შენახვისას">
 <!ENTITY offlineStorageNotify.accesskey           "ფ">
