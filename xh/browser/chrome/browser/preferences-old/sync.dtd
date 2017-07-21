@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Izongezelelo">
 <!ENTITY engine.addons.accesskey    "z">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Igama lesixhobo">
