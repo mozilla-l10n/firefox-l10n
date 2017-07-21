@@ -18,7 +18,7 @@
 <!ENTITY icon.label           "Ikon:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Färg:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY color.accesskey      "F">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Klar">
