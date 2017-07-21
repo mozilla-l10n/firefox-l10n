@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Naslov:">
 <!ENTITY feedTitle.accesskey         "N">
 
-
+<!ENTITY feedLocation.label          "URL kanala:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Unesite ispravnu web adresu kanala za dodati">
 <!ENTITY locationValidate.label      "Provjeri ispravnost">
 <!ENTITY validateText.label          "Provjeri ispravnost i dohvati ispravan url.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "S">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Preuzmi nove članke svakih ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "minute">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dani">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Izdavatelj preporučuje:">
 
 <!ENTITY quickMode.label             "Prikaži kratki pregled članka umjesto učitavanja web stranice">
 <!ENTITY quickMode.accesskey         "r">
 
-
+<!ENTITY autotagEnable.label         "Automatski stvori oznake iz naziva &lt;kategorija&gt; kanala">
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Prefiks za oznake:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Unesite prefiks oznake">
