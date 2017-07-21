@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "O">
 <!ENTITY engine.addons.label        "Dodaci">
 <!ENTITY engine.addons.accesskey    "a">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Naziv uređaja">
