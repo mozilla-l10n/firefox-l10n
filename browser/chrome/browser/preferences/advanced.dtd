@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "الإبلاغ عن البيانات معطّل في إعدادات البناء">
 
-
+<!ENTITY enableHealthReport1.label       "اسمح أن يُرسل &brandShortName; تلقائيًا بيانات تقنية و بيانات التفاعل إلى موزيلا">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
+<!ENTITY dataCollection.label            "جمع &brandShortName; للبيانات و استخدامها">
+<!ENTITY dataCollectionDesc.label        "نبذل جهدنا لإعطائك الخيار و جمه ما نحتاجه فقط لتحسين &brandShortName;. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.">
+<!ENTITY dataCollectionPrivacyNotice.label    "تنويه الخصوصية">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "اسم أن يرسل &brandShortName; بلاغلات الانهيار إلى موزيلا">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ن">
 <!ENTITY crashReporterLearnMore.label    "اطّلع على المزيد">
 
 <!ENTITY networkTab.label                "الشبكة">
 
+<!ENTITY networkProxy.label              "وسيط الشبكة">
 
 <!ENTITY connectionDesc.label            "اضبط كيفية اتصال &brandShortName; بالإنترنت">
 <!ENTITY connectionSettings.label        "الإعدادات…">

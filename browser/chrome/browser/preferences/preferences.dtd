@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "الألسنة الحاوية">
 <!ENTITY  paneUpdates.title             "التحديثات">
 
-
-
+<!ENTITY  languageAndAppearance.label   "اللغة و المظهر">
+<!ENTITY  filesAndApplications.label    "الملفات و التطبيقات">
+<!ENTITY  browserPrivacy.label          "خصوصية المتصفح">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "حساب فَيَرفُكس">
