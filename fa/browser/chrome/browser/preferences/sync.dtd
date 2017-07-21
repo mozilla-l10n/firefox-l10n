@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "ت">
 <!ENTITY engine.addons.label        "افزودنی‌ها">
 <!ENTITY engine.addons.accesskey    "ا">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "نام دستگاه">
