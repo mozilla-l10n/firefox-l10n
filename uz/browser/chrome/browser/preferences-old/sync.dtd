@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "M">
 <!ENTITY engine.addons.label        "Qoʻshimcha dasturlar">
 <!ENTITY engine.addons.accesskey    "Q">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Qurilma nomi">
