@@ -69,6 +69,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "მრავალპროცესიანი ფანჯრები">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "ვებ-შიგთავსის პროცესები">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google გასაღები">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla მდებარეობის განსაზღვრის გასაღები">
 
