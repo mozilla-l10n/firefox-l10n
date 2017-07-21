@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "m">
 <!ENTITY engine.addons.label        "Med-ikome">
 <!ENTITY engine.addons.accesskey    "M">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
