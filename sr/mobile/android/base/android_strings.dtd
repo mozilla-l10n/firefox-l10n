@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Прикажи одабране уређаје">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Закачени сајт">
+<!ENTITY home_unpinned_site "Незакачени сајт">
+
 <!ENTITY remote_tabs_panel_moved_title "Где су моји језичци отишли?">
 <!ENTITY remote_tabs_panel_moved_desc "Преместили смо језичке са других уређаја на панел на почетној страници ради лакшег приступа при отварању новог језичка.">
 <!ENTITY remote_tabs_panel_moved_link "Одведи ме до новог панела.">
