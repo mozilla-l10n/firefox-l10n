@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "B">
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Eszköznév">
