@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "o">
 <!ENTITY engine.addons.label        "Gehigarriak">
 <!ENTITY engine.addons.accesskey    "G">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Gailuaren izena">
