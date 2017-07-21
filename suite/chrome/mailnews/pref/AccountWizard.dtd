@@ -22,6 +22,7 @@
 
 <!ENTITY identityTitle.label "Identita">
 <!ENTITY identityDesc.label "Každý účet má svoje identifikačné údaje, podľa ktorých vás ostatní spoznajú, keď dostanú vaše správy.">
+
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Zadajte meno, ktoré sa má objavovať v poli &quot;Od&quot; v odchádzajúcich správach">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
@@ -85,7 +86,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Pre odosielanie pošty bude použitý váš aktuálne nastavený server SMTP, &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;.">
-
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
@@ -97,7 +97,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Váš server pre odosielanie pošty, &quot;">
-<!ENTITY haveSmtp3.suffix3 "&quot;, je zhodný s vašim serverom pre príjem pošty. Používateľské meno pre príjem pošty sa použije aj pri odosielaní pošty.">
+<!ENTITY haveSmtp3.suffix3 "&quot;, je zhodný s vaším serverom pre príjem pošty. Používateľské meno pre príjem pošty sa použije aj pri odosielaní pošty.">
 
 <!-- Entities for Account name page -->
 
