@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Doplňky">
 <!ENTITY engine.addons.accesskey    "D">
+<!ENTITY engine.addresses.label     "Adresy">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Kreditní karty">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Název zařízení">
