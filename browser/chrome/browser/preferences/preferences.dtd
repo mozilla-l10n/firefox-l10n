@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Søkeresultat">
 <!ENTITY  paneGeneral.title             "Generelt">
+<!ENTITY  paneSearch.title              "Søk">
 <!ENTITY  paneFilesApplications.title   "Filer og program">
 <!ENTITY  panePrivacySecurity.title     "Personvern og sikkerhet">
 <!ENTITY  paneContainers.title          "Innholdsfaner">
 <!ENTITY  paneUpdates.title             "Oppdateringer">
 
+<!ENTITY  languageAndAppearance.label   "Språk og utseende">
+<!ENTITY  filesAndApplications.label    "Filer og programmer">
+<!ENTITY  browserPrivacy.label          "Nettleserpersonvern">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-konto">
 
 <!ENTITY  helpButton2.label        "&brandShortName; brukerstøtte">
-
-<!ENTITY  searchInput.label        "Søk">

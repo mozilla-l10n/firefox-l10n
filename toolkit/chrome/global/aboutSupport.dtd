@@ -66,6 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprosess-vinduer">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Nettinnholdsprosesser">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nøkkel">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nøkkel">
 
