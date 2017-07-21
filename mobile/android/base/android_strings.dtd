@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; stavke">
 <!ENTITY bookmark_folder_one_item "1 stavka">
-
-
+<!ENTITY bookmark_parent_folder "Nadređena mapa">
+<!ENTITY bookmark_add_folder "Dodaj novu mapu">
 
 <!ENTITY reader_saved_offline "Spremljeno izvanmrežno">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Početna stranica">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Koristi i za nove kartice">
 <!ENTITY home_homepage_title "Postavi početnu stranicu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,10 +290,13 @@
 <!ENTITY pref_custom_tabs_summary3 "Dozvoli aplikacijama otvaranje web stranica koristeći prilagođenu &brandShortName; inačicu.">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Otvori kao &formatS;">
+<!ENTITY custom_tabs_menu_footer "Pokreće &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL je kopiran">
 
-
+<!ENTITY pref_pwa "Progresivne web aplikacije">
+<!ENTITY pref_pwa_summary "Dozvoli dodavanje web aplikacija na početnu stranicu">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Pregled aktivnosti">
@@ -367,6 +371,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Koristi sistemski određenu veličinu fonta">
+<!ENTITY pref_use_system_font_size_summary "Prilagodi sadržaj prema sistemski određenoj veličini fonta">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
@@ -497,7 +503,7 @@
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
 <!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
-
+<!ENTITY contextmenu_set_as_homepage "Postavi kao početnu stranicu">
 <!ENTITY contextmenu_share "Dijeli">
 <!ENTITY contextmenu_pasteandgo "Zalijepi i kreni">
 <!ENTITY contextmenu_paste "Zalijepi">
@@ -545,7 +551,7 @@
 <!ENTITY bookmark_edit_name "Naziv">
 <!ENTITY bookmark_edit_location "Lokacija">
 <!ENTITY bookmark_edit_keyword "Ključna riječ">
-
+<!ENTITY bookmark_select_folder "Izaberite mapu">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -567,7 +573,7 @@
 <!ENTITY button_yes "Da">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Obriši podatke">
-
+<!ENTITY button_set "Postavi">
 <!ENTITY button_clear "Obriši">
 <!ENTITY button_copy "Kopiraj">
 
@@ -618,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži odabrane uređaje">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Zakačena stranica">
+<!ENTITY home_unpinned_site "Otkačena stranica">
 
 <!ENTITY remote_tabs_panel_moved_title "Gdje su nestale moje kartice?">
 <!ENTITY remote_tabs_panel_moved_desc "Premjestili smo vaše kartice sa drugih uređaja u panel na vašoj početnoj stranici, kojemu se može jednostavno pristupiti svaki put kada otvorite novu karticu.">
