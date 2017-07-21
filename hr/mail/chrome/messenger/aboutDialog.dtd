@@ -11,7 +11,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Provjeri dostupnost dopuna">
 <!ENTITY update.checkForUpdatesButton.accesskey   "d">
-
+<!ENTITY update.updateButton.label3               "Ponovno pokrenite za ažuriranje &brandShorterName;a">
 <!ENTITY update.updateButton.accesskey            "r">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
