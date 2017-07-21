@@ -211,7 +211,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Obrir lo panèl de messatge d’installar">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduire aquesta pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerir l’utilizacion dels logicials DRM">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Avètz blocat la camarà per aqueste site.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Avètz blocat lo microfòn per aqueste site.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Avètz blocat la geolocalizacion per aqueste site.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
@@ -225,9 +229,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
 <!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
+<!ENTITY bookmarksMenuButton.mobile.label "Marcapaginas del mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
+<!ENTITY searchBookmarks.label              "Recercar dins los marcapaginas">
 
+<!ENTITY containersMenu.label "Contenidors">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -327,11 +334,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
+<!ENTITY appMenuHelp.label "Ajuda">
 <!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Pas cap d’onglet dobèrt">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
