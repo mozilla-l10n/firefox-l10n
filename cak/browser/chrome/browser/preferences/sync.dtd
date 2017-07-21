@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Taq tz'aqat">
 <!ENTITY engine.addons.accesskey    "t">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Rub'i' ri okisaxel">
