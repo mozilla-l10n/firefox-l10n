@@ -989,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Neldu to Masiŋel">
 <!ENTITY sendToDevice.viewTitle "Neldu to Masiŋel">
-<!ENTITY sendToDevice.fxaRequired.label "Ena waɗɗii">
-<!ENTITY sendToDevice.noDevices.label "Alaa masiŋel heɓii">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
