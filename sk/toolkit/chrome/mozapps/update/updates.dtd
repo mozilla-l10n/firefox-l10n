@@ -22,8 +22,8 @@
 <!ENTITY  manualUpdateGetMsg.label        "Najnovšiu verziu programu &brandShortName; nájdete na adrese:">
 
 <!ENTITY  unsupported.title               "Systém nie je podporovaný">
-<!ENTITY  unsupported.label               "Váš &brandShortName; nie je aktuálny, ale jeho najnovšia verzia nie
-                                           je podporovaná vašim operačným systémom. Inovujte svoj systém a skúste to znova.
+<!ENTITY  unsupported.label               "Váš prehliadač &brandShortName; nie je aktuálny, ale jeho najnovšia verzia nie je
+                                           podporovaná vaším operačným systémom. Inovujte svoj systém a skúste to znova.
                                            Táto správa sa už viac nezobrazí.">
 <!ENTITY  unsupportedLink.label           "Ďalšie informácie">
 

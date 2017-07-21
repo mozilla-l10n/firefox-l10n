@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "má kontrolu nad vašim kurzorom. Ovládanie kurzora prevezmete stlačením klávesy Esc.">
-<!ENTITY pointerlockWarning.generic.label "Tento dokument má kontrolu nad vašim kurzorom. Ovládanie kurzora prevezmete stlačením klávesy Esc.">
+<!ENTITY pointerlockWarning.afterDomain.label "má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.">
+<!ENTITY pointerlockWarning.generic.label "Tento dokument má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.">
 
 <!ENTITY closeWindow.label "Zavrieť okno">
 <!ENTITY closeWindow.accesskey "v">
@@ -986,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 
-<!ENTITY sendToDevice.label "Odoslať do zariadenia…">
 <!ENTITY sendToDevice.viewTitle "Odoslať do zariadenia">
 <!ENTITY sendToDevice.fxaRequired.label "Požadované">
 <!ENTITY sendToDevice.noDevices.label "K dispozícii nie sú žiadne zariadenia">
