@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Generelt">
 
-<!ENTITY accessibility.label             "Tilgjengelighet">
-
 <!ENTITY useCursorNavigation.label       "Alltid bruk piltaster for å navigere innenfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchOnStartTyping.label       "Søk etter tekst når jeg begynner å skrive">
 <!ENTITY searchOnStartTyping.accesskey   "k">
-<!ENTITY blockAutoReload.label           "Varsle deg når nettsider forsøker å omdirigere eller laste siden på nytt">
-<!ENTITY blockAutoReload.accesskey       "V">
 <!ENTITY useOnScreenKeyboard.label       "Vis et touch-tastatur når nødvendig">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -33,24 +29,19 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Datarapportering er deaktivert for denne byggekonfigurasjonen">
 
-<!ENTITY healthReportDesc.label          "Hjelper deg å forstå nettleserytelsen, og deler data med &vendorShortName; om helsen til nettleseren din">
-<!ENTITY enableHealthReport.label        "Slå på &brandShortName; Helserapport">
-<!ENTITY enableHealthReport.accesskey    "S">
+<!ENTITY enableHealthReport1.label       "Tillat &brandShortName; å automatisk sende teknisk- og interaksjonsdata til Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Les mer">
 
-<!ENTITY telemetryDesc.label             "Deler data om ytelse, bruksmønster, maskinvare og utvidelser med &vendorShortName;, for å hjelpe oss gjøre &brandShortName; bedre">
-<!ENTITY enableTelemetryData.label       "Del ekstra data (f.eks. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "l">
-<!ENTITY telemetryLearnMore.label        "Les mer">
+<!ENTITY dataCollection.label            "Datainnsamling og bruk for &brandShortName;">
+<!ENTITY dataCollectionPrivacyNotice.label    "Personvernbestemmelser">
 
-<!ENTITY crashReporterDesc2.label         "Krasjrapporter hjelper &vendorShortName; å løse problemer og gjøre nettleseren mer stabil og sikker">
-<!ENTITY alwaysSubmitCrashReports.label   "Tillat &brandShortName; å sende etterslepne krasjrapporter på dine vegne">
-<!ENTITY alwaysSubmitCrashReports.accesskey "e">
-<!ENTITY crashReporterLearnMore.label     "Les mer">
+<!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapporter til Mozilla">
+<!ENTITY crashReporterLearnMore.label    "Les mer">
 
 <!ENTITY networkTab.label                "Nettverk">
 
-<!ENTITY connection.label                "Tilkobling">
+<!ENTITY networkProxy.label              "Nettverksproxy">
 
 <!ENTITY connectionDesc.label            "Konfigurer hvordan &brandShortName; kobler til Internett">
 <!ENTITY connectionSettings.label        "Innstillinger …">
@@ -115,8 +106,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorer automatisk">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Rapporter">
 
 <!ENTITY offlineStorageNotify.label               "Fortell deg når et nettsted ber om å lagre data for frakoblet bruk">
 <!ENTITY offlineStorageNotify.accesskey           "F">
