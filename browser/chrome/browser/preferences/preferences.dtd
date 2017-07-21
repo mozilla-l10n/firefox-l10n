@@ -15,7 +15,7 @@
 
 <!ENTITY  paneSearchResults.title       "Resultados da pesquisa">
 <!ENTITY  paneGeneral.title             "Geral">
-<!ENTITY  paneSearch.title              "Pesquisar">
+<!ENTITY  paneSearch.title              "Pesquisa">
 <!ENTITY  paneFilesApplications.title   "Ficheiros e Aplicações">
 <!ENTITY  panePrivacySecurity.title     "Privacidade e Segurança">
 <!ENTITY  paneContainers.title          "Separadores contentores">

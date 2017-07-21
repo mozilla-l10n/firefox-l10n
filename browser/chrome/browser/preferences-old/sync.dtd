@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Extras">
 <!ENTITY engine.addons.accesskey    "a">
+<!ENTITY engine.addresses.label     "Endereços">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Cartões de crédito">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nome do dispositivo">
