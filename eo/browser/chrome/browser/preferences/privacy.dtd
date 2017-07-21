@@ -19,10 +19,13 @@
 <!ENTITY trackingProtectionPBM5.label         "Uzi protekton kontraŭ spurado en privataj fenestroj">
 <!ENTITY trackingProtectionPBM5.accesskey     "f">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn">
+<!ENTITY trackingProtectionPBM6.accesskey     "U">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
 <!ENTITY changeBlockList.label          "Ŝanĝi liston de blokado">
 <!ENTITY changeBlockList.accesskey      "l">
 
+<!ENTITY  doNotTrack.description        "Sendi al retejoj sciigon, ke vi ne volas esti spurata">
 <!ENTITY  doNotTrack.learnMore.label    "Pli da informo">
 <!ENTITY  doNotTrack.default.label      "Nur dum uzo de protekto kontraŭ spurado">
 <!ENTITY  doNotTrack.always.label       "Ĉiam">
