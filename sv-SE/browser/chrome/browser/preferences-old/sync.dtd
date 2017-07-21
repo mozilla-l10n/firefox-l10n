@@ -26,13 +26,13 @@
 <!ENTITY changeSyncDeviceName.label "Byt enhetens namn…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "v">
 <!ENTITY saveChangeSyncDeviceName.label "Spara">
-<!ENTITY saveChangeSyncDeviceName.accesskey "v">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Tjänstevillkor">
-<!ENTITY fxaPrivacyNotice.link.label "Integritetsinfo">
+<!ENTITY prefs.tosLink.label        "Användarvillkor">
+<!ENTITY fxaPrivacyNotice.link.label "Sekretesspolicy">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -57,11 +57,11 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "Hantera Konto">
 <!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Koppla ifrån…">
-<!ENTITY disconnect.accesskey        "D">
+<!ENTITY disconnect.accesskey        "f">
 <!ENTITY verify.label                "Verifiera e-postadress">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
-<!ENTITY forget.accesskey            "F">
+<!ENTITY forget.accesskey            "G">
 
 <!ENTITY signedOut.caption            "Ta din webb med dig">
 <!ENTITY signedOut.description        "Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.">
@@ -87,4 +87,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              "  för att synkronisera med din mobila enhet.">
+<!ENTITY mobilePromo3.end              " för att synkronisera med din mobila enhet.">
