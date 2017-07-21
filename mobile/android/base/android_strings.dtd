@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "தேர்ந்த சாதனங்கள் மறைக்காதே">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "பொருத்திய தளம்">
+<!ENTITY home_unpinned_site "பொருத்தாத தளம்">
 
 <!ENTITY remote_tabs_panel_moved_title "என் கீற்றுகள் எங்கே பொனது?">
 <!ENTITY remote_tabs_panel_moved_desc "உங்கள் கீற்றுகள்மற்ற சாதனங்களில் இருந்து முகப்பு பக்கத்திற்கு நகர்த்திவிட்டன நீங்கள் அதை புதிய கீற்றைத் திறக்கும் சமயங்களில் எளிதாக அணுக முடியும்.">
