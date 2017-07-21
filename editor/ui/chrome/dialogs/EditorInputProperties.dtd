@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!ENTITY windowTitle.label "Vlastnosti vstupného poľa">
 <!ENTITY windowTitleImage.label "Vlastnosti obrázkového poľa">
 
@@ -41,7 +41,7 @@
 <!ENTITY TextSize.accesskey "e">
 <!ENTITY TextLength.label "Maximálna dĺžka:">
 <!ENTITY TextLength.accesskey "x">
-<!ENTITY AccessKey.label "Prístupová klávesa:">
+<!ENTITY AccessKey.label "Prístupový kláves:">
 <!ENTITY AccessKey.accesskey "s">
 <!ENTITY Accept.label "Akceptovať typy:">
 <!ENTITY Accept.accesskey "c">
