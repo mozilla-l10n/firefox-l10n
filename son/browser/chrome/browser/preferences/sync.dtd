@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tontoney">
 <!ENTITY engine.addons.accesskey    "T">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Jinay maa">
