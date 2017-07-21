@@ -68,6 +68,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Plurprocezaj fenestroj">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Teksaĵaj enhavaj taskoj">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ŝlosilo de Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ŝlosilo de la servo de pozicio de Mozilla">
 
@@ -106,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Alirebleco">
 <!ENTITY aboutSupport.a11yActivated "Aktiva">
 <!ENTITY aboutSupport.a11yForceDisabled "Eviti alireblon">
+<!ENTITY aboutSupport.a11yHandlerUsed "Alirebleca pelilo uzita">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versioj de bibliotekoj">
 
