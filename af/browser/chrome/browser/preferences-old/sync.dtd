@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "V">
 <!ENTITY engine.addons.label        "Byvoegings">
 <!ENTITY engine.addons.accesskey    "B">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Toestelnaam">
