@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "ყოველთვის შემოწმდეს, არის თუ არა &brandShortName; ნაგულისხმევი ბრაუზერი">
 <!ENTITY alwaysCheckDefault2.accesskey    "ვ">
-<!ENTITY setAsMyDefaultBrowser2.label     "ნაგულისხმევად დაყენება">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "ნ">
+<!ENTITY setAsMyDefaultBrowser3.label     "ნაგულისხმევად მითითება…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "ნ">
 <!ENTITY isDefault.label                  "ამჟამად &brandShortName; ნაგულისხმევი ბრაუზერია">
 <!ENTITY isNotDefault.label               "&brandShortName; ნაგულისხმევი ბრაუზერი არაა">
 

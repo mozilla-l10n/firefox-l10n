@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "პ">
 <!ENTITY engine.addons.label        "დამატებები">
 <!ENTITY engine.addons.accesskey    "დ">
+<!ENTITY engine.addresses.label     "მისამართები">
+<!ENTITY engine.addresses.accesskey "ს">
+<!ENTITY engine.creditcards.label   "საკრედიტო ბარათები">
+<!ENTITY engine.creditcards.accesskey "კ">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "მოწყობილობის სახელი">

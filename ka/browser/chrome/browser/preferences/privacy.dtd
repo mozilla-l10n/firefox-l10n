@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "ისტორია">
 <!ENTITY  permissions.label             "უფლებები">
 
-<!ENTITY  locationBar.label             "მისამართების ზოლი">
-
-<!ENTITY  locbar.suggest2.label         "მისამართების ზოლის გამოყენებისას, შემოთავაზებებში გამოჩნდება">
+<!ENTITY  addressBar.label              "მისამართების ზოლი">
+<!ENTITY  addressBar.suggest.label      "შემოთავაზებები, მისამართების ზოლით სარგებლობისას">
 <!ENTITY  locbar.history.label          "ისტორია">
 <!ENTITY  locbar.history.accesskey      "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "პარამეტრები…">
 <!ENTITY  clearOnCloseSettings.accesskey "ტ">
 
-<!ENTITY  browserContainersHeader.label         "სათავსი ჩანართები">
 <!ENTITY  browserContainersLearnMore.label      "შეიტყვეთ მეტი">
 <!ENTITY  browserContainersEnabled.label        "სათავსი ჩანართების ჩართვა">
 <!ENTITY  browserContainersEnabled.accesskey    "ჩ">

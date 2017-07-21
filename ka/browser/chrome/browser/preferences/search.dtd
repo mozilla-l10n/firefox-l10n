@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "აირჩიეთ თქვენი ნაგულისხმევი საძიებო სისტემა. &brandShortName; მას იყენებს მისამართების ზოლში, ძიების ზოლში და საწყის გვერდზე.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართების და ძიების ზოლებში.">
 
 <!ENTITY provideSearchSuggestions.label        "ძიების შემოთავაზებები">
 <!ENTITY provideSearchSuggestions.accesskey    "ძ">
 
-<!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
-<!ENTITY showURLBarSuggestions.accesskey       "შ">
+<!ENTITY showURLBarSuggestions2.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
+<!ENTITY showURLBarSuggestions2.accesskey       "ძ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
-<!ENTITY chooseWhichOneToDisplay.label         "საძიებო ზოლი პირდაპირ სხვა სისტემებში ძიების საშუალებას გაძლევთ. აირჩიეთ, მათგან რომელი გამოჩნდეს.">
+<!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართების და ძიების ზოლების ქვეშ, საძებნი ფრაზის აკრეფისას.">
 
 <!ENTITY engineNameColumn.label                "საძიებო სისტემა">
 <!ENTITY engineKeywordColumn.label             "საკვანძო სიტყვა">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "ამოღება">
 <!ENTITY removeEngine.accesskey                "ა">
 
-<!ENTITY addMoreSearchEngines2.label           "საძიებო სისტემების დამატება">
+<!ENTITY findMoreSearchEngines.label           "ახალი საძიებო სისტემების მოძიება">
