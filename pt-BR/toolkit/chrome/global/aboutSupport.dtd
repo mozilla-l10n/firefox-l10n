@@ -68,6 +68,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Janelas multiprocesso">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Processos de conteúdo Web">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Chave do Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Chave do serviço de localização da Mozilla">
 
