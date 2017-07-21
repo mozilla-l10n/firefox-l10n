@@ -93,7 +93,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY menubarCmd.label                               "Barra de menu">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Barra do livro de endereços">
+<!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do livro de endereços">
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
