@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Breiseáin">
 <!ENTITY engine.addons.accesskey    "B">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Ainm an Ghléis">

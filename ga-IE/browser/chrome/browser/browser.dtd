@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Gníomhartha leathanaigh">
 
 
-<!ENTITY sendToDevice.fxaRequired.label "Riachtanach">
-<!ENTITY sendToDevice.noDevices.label "Níl Aon Ghléasanna Ar Fáil">
 <!ENTITY sendToDevice.syncNotReady.label "Gléasanna á Sioncronú…">
