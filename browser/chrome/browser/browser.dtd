@@ -989,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Na rěd pósłaś">
 <!ENTITY sendToDevice.viewTitle "Na rěd pósłaś">
-<!ENTITY sendToDevice.fxaRequired.label "Trěbny">
-<!ENTITY sendToDevice.noDevices.label "Žedne rědy k dispoziciji">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">

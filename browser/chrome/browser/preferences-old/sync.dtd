@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Dodanki">
 <!ENTITY engine.addons.accesskey    "D">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mě rěda">
