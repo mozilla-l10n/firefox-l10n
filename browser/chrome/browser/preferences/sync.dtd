@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY engine.addons.accesskey    "A">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
