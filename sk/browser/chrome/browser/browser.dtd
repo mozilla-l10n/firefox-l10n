@@ -986,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akcie stránky">
 
+<!ENTITY sendToDevice.label2 "Odoslať do zariadenia">
 <!ENTITY sendToDevice.viewTitle "Odoslať do zariadenia">
-<!ENTITY sendToDevice.fxaRequired.label "Požadované">
-<!ENTITY sendToDevice.noDevices.label "K dispozícii nie sú žiadne zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
