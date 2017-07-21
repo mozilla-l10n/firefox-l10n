@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.addons.label        "Қосымшалар">
 <!ENTITY engine.addons.accesskey    "о">
+
+
+
+
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Құрылғы аты">
