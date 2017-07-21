@@ -33,6 +33,8 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "A">
 <!ENTITY healthReportLearnMore.label     "En savoir plus">
 
+<!ENTITY dataCollection.label            "Collecte de données par &brandShortName; et utilisation">
+<!ENTITY dataCollectionDesc.label        "Nous nous efforçons de vous laisser le choix et de recueillir uniquement les informations dont nous avons besoin pour proposer et améliorer &brandShortName; pour tout le monde. Nous demandons toujours votre permission avant de recevoir des données personnelles.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Politique de confidentialité">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Autoriser &brandShortName; à envoyer les rapports de plantage à Mozilla">
