@@ -2,12 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Ponnahdusikkunat">
 
 <!ENTITY  blockPopups.label           "Estä ponnahdusikkunat">
 <!ENTITY  blockPopups.accesskey       "E">
 
-<!ENTITY  notificationsPolicy.label            "Ilmoitukset">
 <!ENTITY  notificationsPolicyLearnMore.label   "Lue lisää">
 <!ENTITY  notificationsPolicyDesc3.label       "Valitse sivustot, joilta vastaanotetaan ilmoituksia">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
@@ -33,7 +31,7 @@
 <!ENTITY  colors.accesskey            "ä">
 
 
-<!ENTITY languages.label              "Kielet">
+<!ENTITY language2.label              "Kieli">
 <!ENTITY chooseLanguage.label         "Valitse kielet, joilla sivut näytetään">
 <!ENTITY chooseButton.label           "Valitse…">
 <!ENTITY chooseButton.accesskey       "V">
@@ -53,8 +51,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "Sivujen kääntäjä">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM-sisältö">
 
-<!ENTITY  playDRMContent.label         "Toista DRM-sisältöä">
-<!ENTITY  playDRMContent.accesskey     "D">
 <!ENTITY  playDRMContent.learnMore.label "Lue lisää">
