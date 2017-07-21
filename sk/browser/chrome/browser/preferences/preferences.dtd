@@ -15,7 +15,7 @@
 
 <!ENTITY  paneSearchResults.title       "Výsledky vyhľadávania">
 <!ENTITY  paneGeneral.title             "Všeobecné">
-<!ENTITY  paneSearch.title              "Hľadať">
+<!ENTITY  paneSearch.title              "Vyhľadávanie">
 <!ENTITY  paneFilesApplications.title   "Súbory a aplikácie">
 <!ENTITY  panePrivacySecurity.title     "Súkromie a bezpečnosť">
 <!ENTITY  paneContainers.title          "Kontajnerové karty">
