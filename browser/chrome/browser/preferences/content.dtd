@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Leidimai">
+
 <!ENTITY  blockPopups.label           "Neleisti iškylančiųjų langų">
 <!ENTITY  blockPopups.accesskey       "N">
 
@@ -29,6 +31,8 @@
 <!ENTITY  colors.label                "Spalvos…">
 <!ENTITY  colors.accesskey            "S">
 
+
+<!ENTITY language2.label              "Kalba">
 <!ENTITY chooseLanguage.label         "Pasirinkite kalbą, kuria pageidaujate matyti tinklalapių turinį.">
 <!ENTITY chooseButton.label           "Pasirinkti…">
 <!ENTITY chooseButton.accesskey       "P">
@@ -48,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Vertimą teikia">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Skaitmeninių teisių valdymo (DRM) turinys">
 
-
+<!ENTITY  playDRMContent2.label          "Atkurti DRM valdomą turinį">
+<!ENTITY  playDRMContent2.accesskey      "k">
 <!ENTITY  playDRMContent.learnMore.label "Sužinoti daugiau">

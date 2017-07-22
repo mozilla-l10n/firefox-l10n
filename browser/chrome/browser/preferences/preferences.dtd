@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Sudėtinio rodinio kortelės">
 <!ENTITY  paneUpdates.title             "Naujinimai">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Kalba ir išvaizda">
+<!ENTITY  filesAndApplications.label    "Failai ir programos">
+<!ENTITY  browserPrivacy.label          "Naršyklės privatumas">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "„Firefox“ paskyra">
