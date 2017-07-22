@@ -6,9 +6,8 @@
 
 <!ENTITY startupPage.label         "જ્યારે &brandShortName; શરૂ થાય:">
 <!ENTITY startupPage.accesskey     "s">
-
+<!ENTITY startupUserHomePage.label "તમારું મુખ્ય પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
-
 
 <!ENTITY homepage.label            "ઘર પાનું:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,15 +27,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "પસંદ કરો...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
-
-
-
-
-
-
-
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 
 
