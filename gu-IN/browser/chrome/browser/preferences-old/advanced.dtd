@@ -90,6 +90,7 @@ available. -->
 <!ENTITY useService.label                "સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "સ્વચાલિત સુધારાઓ કરો">
 <!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
@@ -107,6 +108,7 @@ available. -->
 <!ENTITY certPersonal.label              "વિનંતીઓ">
 <!ENTITY selectCerts.auto                "એક આપોઆપ પસંદ કરો">
 <!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "દર વખતે તમને કહો">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો">
 <!ENTITY enableOCSP.accesskey            "Q">
