@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "История">
 <!ENTITY  permissions.label             "Разрешения">
 
-<!ENTITY  locationBar.label             "Панель адреса">
-
-<!ENTITY  locbar.suggest2.label         "При использовании панели адреса предлагать ссылки">
+<!ENTITY  addressBar.label              "Панель адреса">
+<!ENTITY  addressBar.suggest.label      "При использовании панели адреса предлагать ссылки">
 <!ENTITY  locbar.history.label          "из журнала">
 <!ENTITY  locbar.history.accesskey      "ж">
 <!ENTITY  locbar.bookmarks.label        "из закладок">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Параметры…">
 <!ENTITY  clearOnCloseSettings.accesskey "ы">
 
-<!ENTITY  browserContainersHeader.label         "Вкладки в контейнере">
 <!ENTITY  browserContainersLearnMore.label      "Подробнее">
 <!ENTITY  browserContainersEnabled.label        "Включить «Вкладки в контейнере»">
 <!ENTITY  browserContainersEnabled.accesskey    "ч">

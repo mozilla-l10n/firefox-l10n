@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Всегда проверять, является ли &brandShortName; вашим браузером по умолчанию">
 <!ENTITY alwaysCheckDefault2.accesskey    "а">
-<!ENTITY setAsMyDefaultBrowser2.label     "Установить по умолчанию">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "н">
+<!ENTITY setAsMyDefaultBrowser3.label     "Установить по умолчанию…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "н">
 <!ENTITY isDefault.label                  "В настоящий момент &brandShortName; является вашим браузером по умолчанию">
 <!ENTITY isNotDefault.label               "&brandShortName; не является вашим браузером по умолчанию">
 
