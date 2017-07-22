@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Seçilen cihazları göster">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Site sabitlendi">
+<!ENTITY home_unpinned_site "Sabitleme kaldırıldı">
+
 <!ENTITY remote_tabs_panel_moved_title "Sekmelerim nereye gitti?">
 <!ENTITY remote_tabs_panel_moved_desc "Diğer aygıtlardaki sekmelerinizi giriş sayfasındaki bir panele taşıdık. Her yeni sekme açtığınızda onlara kolayca ulaşabilirsiniz.">
 <!ENTITY remote_tabs_panel_moved_link "Yeni panelime gidelim.">
