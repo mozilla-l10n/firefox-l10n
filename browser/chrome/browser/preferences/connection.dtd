@@ -7,8 +7,8 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "配置访问国际互联网的代理">
-<!ENTITY  noProxyTypeRadio.label        "不使用代理">
+<!ENTITY  proxyTitle.label              "配置访问国际互联网的代理服务器">
+<!ENTITY  noProxyTypeRadio.label        "不使用代理服务器">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "使用系统代理设置">
 <!ENTITY  systemTypeRadio.accesskey     "U">
@@ -16,7 +16,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "手动配置代理：">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "自动代理配置（PAC）：">
+<!ENTITY  autoTypeRadio.label           "自动代理配置的 URL（PAC）：">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新载入">
 <!ENTITY  reload.accesskey              "e">
@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "不使用代理：">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "例如：.mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "为所有协议使用相同代理">
+<!ENTITY  shareproxy.label              "为所有协议使用相同代理服务器">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "如果密码已保存，不提示身份验证">
 <!ENTITY  autologinproxy.accesskey      "i">
