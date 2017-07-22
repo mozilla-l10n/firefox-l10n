@@ -19,7 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uporabljaj gladko drsenje">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY checkUserSpelling.label         "Preverjajte črkovanje med vnašanjem">
+<!ENTITY checkUserSpelling.label         "Preverjaj črkovanje med tipkanjem">
 <!ENTITY checkUserSpelling.accesskey     "v">
 
 <!ENTITY dataChoicesTab.label            "Podatkovne možnosti">
