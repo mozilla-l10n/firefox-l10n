@@ -33,6 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "Əsas səyyahım et…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; hazırda əsas səyyahınızdır">
 <!ENTITY isNotDefault.label               "&brandShortName; əsas səyyahınız deyil">
 

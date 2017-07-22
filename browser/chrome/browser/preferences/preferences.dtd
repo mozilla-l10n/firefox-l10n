@@ -23,6 +23,7 @@
 
 <!ENTITY  languageAndAppearance.label   "Dil və Görünüş">
 <!ENTITY  filesAndApplications.label    "Fayllar və Tətbiqlər">
+<!ENTITY  browserPrivacy.label          "Səyahər Məxfiliyi">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox Hesabı">

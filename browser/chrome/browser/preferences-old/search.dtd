@@ -20,7 +20,7 @@
 <!ENTITY engineNameColumn.label                "Axtarış Mühərriyi">
 <!ENTITY engineKeywordColumn.label             "Açar söz">
 
-<!ENTITY restoreDefaultSearchEngines.label     "İlk axtarış mühərriklərini bərpa et">
+<!ENTITY restoreDefaultSearchEngines.label     "İlkin axtarış nizamlarını bərpa et">
 <!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 <!ENTITY removeEngine.label                    "Sil">

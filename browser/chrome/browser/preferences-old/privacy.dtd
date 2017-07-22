@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "h">
 <!ENTITY  historyHeader.remember.label     "Tarixçəni xatırla">
 <!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlama">
-<!ENTITY  historyHeader.custom.label       "Tarixçə üçün sizin seçimləriniz istifadə edilsin">
+<!ENTITY  historyHeader.custom.label       "Tarixçə üçün fərdi tənzimləmələri işlət">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sizin səyahət, endirmə, forma və axtarış tarixçənizi xatırlayacaq, və daxil olduğunuz veb saytlardan çərəzləri saxlayacaq.">

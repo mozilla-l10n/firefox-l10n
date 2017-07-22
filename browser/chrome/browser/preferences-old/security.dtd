@@ -31,7 +31,7 @@
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
-<!ENTITY  useMasterPassword.label        "Ana parol istifadə et">
+<!ENTITY  useMasterPassword.label        "Ana parol işlət">
 <!ENTITY  useMasterPassword.accesskey    "i">
 <!ENTITY  changeMasterPassword.label     "Ana parolu dəyişdir…">
 <!ENTITY  changeMasterPassword.accesskey "d">
