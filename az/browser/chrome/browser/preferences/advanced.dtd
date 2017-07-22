@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Ümumi">
 
-<!ENTITY accessibility.label             "Əlçatanlıq">
-
 <!ENTITY useCursorNavigation.label       "Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et">
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchOnStartTyping.label       "Yazmağa başladığınız zaman söz axtarılsın">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Saytlar sizi yönləndirməyə və ya səhifəni yeniləməyə çalışdıqda xəbərdar olun">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Lazım olduqda toxunmalı klaviaturanı göstər">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,26 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb">
 
-<!ENTITY healthReportDesc.label          "Sizə səyyahınızın performansı barədə daha çox məlumat əldə etməyə köməklik edir və səyahətinizin sağlamlığı haqqında məlumatı &vendorShortName; ilə bölüşür">
-<!ENTITY enableHealthReport.label        "&brandShortName; İş qabiliyyəti hesabatını aktiv et">
-<!ENTITY enableHealthReport.accesskey    "h">
 <!ENTITY healthReportLearnMore.label     "Ətraflı">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; səyyahınızı yaxşılaşdırmağımıza kömək etmək üçün səyyahınız haqqında olan performans, istifadə, avadanlıq və fərdiləşdirmə məlumatlarını &vendorShortName; ilə paylaşır">
-<!ENTITY enableTelemetryData.label       "Ətraflı məlumat paylaş (məs. Telemetriya)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Ətraflı">
 
-<!ENTITY crashReporterDesc2.label         "Xəta məlumatları &vendorShortName; tərəfinə xətaları düzəltməyə, səyyahınızı daha stabil və güvənilir etməyə kömək edir">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; səyyahına arxada sizin adınıza xəta məlumatlarını göndərməsinə icazə ver">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Daha Ətraflı">
+<!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
 
-<!ENTITY connection.label                "Bağlantı">
 
-<!ENTITY connectionDesc.label            "&brandShortName;-un internetə necə bağlanacağını nizamlayın">
+<!ENTITY connectionDesc.label            "&brandShortName; səyyahının internetə necə qoşulacağını nizamlayın">
 <!ENTITY connectionSettings.label        "Nizamlar…">
 <!ENTITY connectionSettings.accesskey    "a">
 
@@ -115,8 +100,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Axtarış mühərriklərini avtomatik yenilə">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Raportlar">
 
 <!ENTITY offlineStorageNotify.label               "Sayt oflayn istifadə üçün məlumat saxlamaq istədiyində mənə bildir">
 <!ENTITY offlineStorageNotify.accesskey           "T">

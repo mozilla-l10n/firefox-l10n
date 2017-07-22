@@ -52,7 +52,7 @@ available. -->
 
 <!ENTITY connection.label                "Bağlantı">
 
-<!ENTITY connectionDesc.label            "&brandShortName;-un internetə necə bağlanacağını nizamlayın">
+<!ENTITY connectionDesc.label            "&brandShortName; səyyahının internetə necə qoşulacağını nizamlayın">
 <!ENTITY connectionSettings.label        "Nizamlar…">
 <!ENTITY connectionSettings.accesskey    "a">
 
