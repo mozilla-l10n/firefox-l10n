@@ -8,7 +8,8 @@
 <!ENTITY provideSearchSuggestions.label        "Birta uppástungur fyrir leit">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Sýna leitarábendingar sem niðurstöður í staðsetningarslá">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt &brandShortName; þannig að hann muni ekki neina leitarsögu.">
 
 <!ENTITY oneClickSearchEngines.label           "Leitarvélar með einum smelli">
@@ -23,3 +24,4 @@
 <!ENTITY removeEngine.label                    "Fjarlægja">
 <!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY findMoreSearchEngines.label           "Finna fleiri leitarvélar">

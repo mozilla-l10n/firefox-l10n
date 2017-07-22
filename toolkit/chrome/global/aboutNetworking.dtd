@@ -48,8 +48,8 @@
 <!ENTITY aboutNetworking.totalNetworkRequests  "Heildarfjöldi net beiðna">
 
 
-
-
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lesa">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Skrifa">
 
 
 

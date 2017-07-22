@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Sýna tóma síðu">
 <!ENTITY startupPrevSession.label  "Sýna flipa og glugga frá seinustu keyrslu">
 
-
+<!ENTITY homepage2.label           "Heimasíða">
+<!ENTITY homepage2.accesskey       "i">
 <!ENTITY useCurrentPage.label      "Nota núverandi síðu">
 <!ENTITY useCurrentPage.accesskey  "o">
 <!ENTITY useMultiple.label         "Nota núverandi síður">
@@ -32,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Alltaf athuga hvort &brandShortName; sé sjálfgefin vafri">
 <!ENTITY alwaysCheckDefault2.accesskey    "l">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "Gera sjálfgefið…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "s">
 <!ENTITY isDefault.label                  "&brandShortName; er núna sjálfgefinn vafri">
 <!ENTITY isNotDefault.label               "&brandShortName; er ekki sjálfgefinn vafri">
 

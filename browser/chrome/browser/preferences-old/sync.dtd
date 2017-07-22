@@ -18,8 +18,8 @@
 <!ENTITY engine.addons.accesskey    "æ">
 
 
-
-
+<!ENTITY engine.creditcards.label   "Greiðslukort">
+<!ENTITY engine.creditcards.accesskey "G">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Tækjanafn">

@@ -21,7 +21,8 @@
 <!ENTITY  paneContainers.title          "Innihalds flipar">
 <!ENTITY  paneUpdates.title             "Uppfærslur">
 
-
+<!ENTITY  languageAndAppearance.label   "Tungumál og útlit">
+<!ENTITY  filesAndApplications.label    "Skrár og forrit">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
