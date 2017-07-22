@@ -184,7 +184,7 @@
 <!ENTITY pref_category_logins "登录信息">
 <!ENTITY pref_learn_more "详细了解">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
-<!ENTITY pref_category_add_search_providers "添加更多搜索提供商">
+<!ENTITY pref_category_add_search_providers "添加更多搜索引擎">
 <!ENTITY pref_category_search_restore_defaults "恢复搜索引擎">
 <!ENTITY pref_search_restore_defaults "恢复默认设置">
 <!ENTITY pref_search_restore_defaults_summary "恢复默认设置">
@@ -193,7 +193,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "提示：您可以长按任何网站的搜索框，然后轻触 &formatI; 图标，将网站添加到您的搜索提供商列表。">
+<!ENTITY pref_search_hint2 "提示：您可以长按任何网站的搜索框，然后轻触 &formatI; 图标，将网站添加到您的搜索引擎列表。">
 <!ENTITY pref_category_advanced "高级">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -286,7 +286,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "自定义标签页(Custom Tabs)">
+<!ENTITY pref_custom_tabs "自定义标签页 (Custom Tabs)">
 <!ENTITY pref_custom_tabs_summary3 "允许应用使用定制版本的 &brandShortName; 打开网站">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -314,7 +314,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "您以后可以在“设置”中更改此行为">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "开启在其他应用上绘制的权限">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "授予“在其他应用上绘制”的权限">
 <!ENTITY tab_queue_prompt_positive_action_button "启用">
 <!ENTITY tab_queue_prompt_negative_action_button "暂时不要">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -526,7 +526,7 @@
 <!ENTITY doorhanger_login_edit_toggle "显示密码">
 <!ENTITY doorhanger_login_select_message "复制 &formatS; 的密码？">
 <!ENTITY doorhanger_login_select_toast_copy "密码已复制到剪贴板">
-<!ENTITY doorhanger_login_select_action_text "选择其他登录信息">
+<!ENTITY doorhanger_login_select_action_text "选择另一组登录信息">
 <!ENTITY doorhanger_login_select_title "复制密码从">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
@@ -685,7 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "正在从 Android 导入历史记录">
 <!ENTITY bookmarkhistory_import_wait "请稍候...">
 
-<!ENTITY suggestions_prompt3 "您是否要开启搜索建议？">
+<!ENTITY suggestions_prompt3 "想要开启搜索建议吗？">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "继续">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 将重新启动">
-<!ENTITY new_guest_session_text2 "使用此模式的人不会看到您的任何个人数据（如已保存的登录信息、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
+<!ENTITY new_guest_session_text2 "使用此模式的人不会看到您的任何个人数据（如已保存的登录信息、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据将被删除，将还原您的浏览状态。">
 <!ENTITY guest_browsing_notification_title "访客浏览已启用">
 <!ENTITY guest_browsing_notification_text "点按以退出">
 
