@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
 <!ENTITY chooseBookmark.label      "Əlfəcin istifadə et…">
 <!ENTITY chooseBookmark.accesskey  "Ə">
-<!ENTITY restoreDefault.label      "Standart vəziyyətə qaytar">
+<!ENTITY restoreDefault.label      "İlkin vəziyyətə qaytar">
 <!ENTITY restoreDefault.accesskey  "S">
 
 <!ENTITY downloads.label     "Endirilənlər">
