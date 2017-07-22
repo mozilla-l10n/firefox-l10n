@@ -32,27 +32,27 @@
 </li> 
 </ul>">
 
-<!ENTITY fileNotFound.title "未找到文件">
+<!ENTITY fileNotFound.title "找不到文件">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>请检查文件名的大小写或者其他输入错误。</li> 
+<li>请检查文件名是否有大小写错误、输错字。</li> 
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
-<!ENTITY fileAccessDenied.title "访问该文件被拒绝">
+<!ENTITY fileAccessDenied.title "访问该文件的要求被拒绝">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>它可能已被移除或移动，或者没有访问该文件的权限。</li>
+  <li>文件可能已被移走、移除，或者没有访问该文件的权限。</li>
 </ul>
 ">
 
-<!ENTITY generic.title "哎呀。">
+<!ENTITY generic.title "噢！">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
-<!ENTITY malformedURI.title "无效的地址">
+<!ENTITY malformedURI.title "网址无效">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
-<li>网页地址通常格式为 
+<li>网址通常长得像 
 <strong>http://www.example.com/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
@@ -66,13 +66,13 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "文档已过期">
-<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>作为一个安全上的预防措施，&brandShortName; 不会自动重新获取敏感信息文档。</li><li>您可以点击“重试”来重新请求从网站获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
-<li>请重试。 &brandShortName; 将会尝试打开一个链接并重新载入页面。 
+<li>再试一次。 &brandShortName; 会再次尝试建立连接并重新载入页面。 
 <button id='wifi'>启用 Wi-Fi</button> 
 </li> 
 </ul>">
