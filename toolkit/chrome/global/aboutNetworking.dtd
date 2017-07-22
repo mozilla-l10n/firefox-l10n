@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "مرات غلبة الخبيئة">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "مرات غلبة الشبكة">
 <!ENTITY aboutNetworking.totalNetworkRequests  "العدد الكلي لطلبات الشبكة">
-
+<!ENTITY aboutNetworking.rcwnOperation         "عملية خبيئة">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "فتح">
 <!ENTITY aboutNetworking.rcwnPerfRead          "قراءة">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "كتابة">
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "فتح المُدخلة">
+<!ENTITY aboutNetworking.rcwnAvgShort          "متوسط القصير">
+<!ENTITY aboutNetworking.rcwnAvgLong           "متوسط الطويل">
+<!ENTITY aboutNetworking.rcwnStddevLong        "الانحراف المعياري الطويل">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "مرات بطء الخبيئة">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "مرات عدم بطء الخبيئة">
