@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "附加组件">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "地址">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "信用卡">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "设备名称">
