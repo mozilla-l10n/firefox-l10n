@@ -5,11 +5,13 @@
 <!ENTITY startup.label             "શરૂઆત">
 
 <!ENTITY startupPage2.label        "જ્યારે &brandShortName; શરૂ થાય છે">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "તમારું મુખ્ય પાનું બતાવો">
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
 <!ENTITY startupPrevSession.label  "છેલ્લા સમયની તમારી વિંડોઝ અને ટેબ્સ બતાવો">
 
 <!ENTITY homepage2.label           "મુખ્ય પૃષ્ઠ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
@@ -26,8 +28,11 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "પસંદ કરો...">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "હંમેશાં તમને પૂછે છે કે ફાઇલો ક્યાં સાચવવી">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "હંમેશાં તપાસો કે &brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY isDefault.label                  "&brandShortName; હાલમાં તમારું ડિફૉલ્ટ બ્રાઉઝર છે">
 <!ENTITY isNotDefault.label               "&brandShortName; તમારું ડિફૉલ્ટ બ્રાઉઝર નથી">
 
