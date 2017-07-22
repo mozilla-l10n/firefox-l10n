@@ -76,11 +76,11 @@
 <!ENTITY bookmark_updated "Tandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
 <!ENTITY bookmark_save "Simpan">
-<!ENTITY screenshot_added_to_bookmarks "Skrinshot ditambah ke tandabuku">
+<!ENTITY screenshot_added_to_bookmarks "Skrinsyot ditambah ke tandabuku">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Skrinshot">
+<!ENTITY screenshot_folder_label_in_bookmarks "Skrinsyot">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Senarai Bacaan">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
@@ -603,7 +603,7 @@
 <!ENTITY home_most_recent_empty "Laman web terkini yang anda kerap lawati akan dipaparkan di sini.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: menggunakan &formatS1; Tab Peribadi Baru&formatS2; tidak akan menyimpan sejarah anda.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: gunakan &formatS1;Tab Peribadi Baru&formatS2; yang tidak akan menyimpan sejarah anda.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
