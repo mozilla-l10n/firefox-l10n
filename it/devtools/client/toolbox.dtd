@@ -25,8 +25,6 @@
 <!ENTITY options.enableChrome.tooltip3 "Attivando questa opzione è possibile utilizzare diversi strumenti di sviluppo direttamente sul browser (da Strumenti > Sviluppo web > Cassetta degli attrezzi browser) ed effettuare il debug dei componenti aggiuntivi">
 <!ENTITY options.enableRemote.label3 "Attiva debug remoto">
 <!ENTITY options.enableRemote.tooltip2 "Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug su istanze remote come Firefox OS">
-<!ENTITY options.enableWorkers.label "Attiva debug worker (in sviluppo)">
-<!ENTITY options.enableWorkers.tooltip "Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug dei worker">
 <!ENTITY options.disableJavaScript.label "Disattiva JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti di sviluppo vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.disableHTTPCache.label "Disattiva cache HTTP (quando gli strumenti sono aperti)">
