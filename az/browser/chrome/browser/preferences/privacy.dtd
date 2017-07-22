@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Tarixçəni xatırlayacaq">
 <!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlamayacaq">
-<!ENTITY  historyHeader.custom.label       "Tarixçə üçün sizin seçimləriniz istifadə edəcək">
+<!ENTITY  historyHeader.custom.label       "Tarixçə üçün fərdi tənzimləmələri işlət">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; sizin səyahət, endirmə, forma və axtarış tarixçənizi xatırlayacaq, və daxil olduğunuz veb saytlardan çərəzləri saxlayacaq.">
