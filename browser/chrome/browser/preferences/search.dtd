@@ -4,18 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "Əsas axtarış mühərriyi">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Əsas axtarış mühərriyinizi seçin. &brandShortName; bunu ünvan sətrində, axtarış sətrində və başlanğıc səhifədə işlədir.">
 
 <!ENTITY provideSearchSuggestions.label        "Axtarış təkliflərini göstər">
 <!ENTITY provideSearchSuggestions.accesskey    "t">
 
-<!ENTITY showURLBarSuggestions.label           "Ünvan sətri nəticələrində axtarış təkliflərini göstər">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; səyyahını keçmişi xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.">
 
 <!ENTITY oneClickSearchEngines.label           "Tək klikli axtarış mühərrikləri">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Axtarış sətri sizə birbaşa fərqli mühərriklərdə axtarma imkanı verir. Hansını görmək istədiyinizi seçin.">
 
 <!ENTITY engineNameColumn.label                "Axtarış Mühərriyi">
 <!ENTITY engineKeywordColumn.label             "Açar söz">
@@ -26,4 +22,4 @@
 <!ENTITY removeEngine.label                    "Sil">
 <!ENTITY removeEngine.accesskey                "S">
 
-<!ENTITY addMoreSearchEngines2.label           "Daha çox axtarış mühərrikləri əlavə edin">
+<!ENTITY findMoreSearchEngines.label           "Daha çox axtarış mühərriyi tap">

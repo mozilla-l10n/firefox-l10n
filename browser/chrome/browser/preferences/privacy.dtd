@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Tarixçə">
 <!ENTITY  permissions.label             "İcazələr">
 
-<!ENTITY  locationBar.label             "Ünvan sətiri">
-
-<!ENTITY  locbar.suggest2.label         "Ünvan sətrindən istifadə edərkən, təklif et">
+<!ENTITY  addressBar.label              "Ünvan Sətri">
+<!ENTITY  addressBar.suggest.label      "Ünvan sətrindən istifadə edərkən bunları təklif et:">
 <!ENTITY  locbar.history.label          "Tarixçə">
 <!ENTITY  locbar.history.accesskey      "T">
 <!ENTITY  locbar.bookmarks.label        "Əlfəcinlər">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Nizamlar…">
 <!ENTITY  clearOnCloseSettings.accesskey "a">
 
-<!ENTITY  browserContainersHeader.label         "Konteyner Vərəqləri">
 <!ENTITY  browserContainersLearnMore.label      "Ətraflı öyrən">
 <!ENTITY  browserContainersEnabled.label        "Konteyner Vərəqlərini Aktivləşdir">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
