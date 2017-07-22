@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "й">
 <!ENTITY engine.addons.label        "Дополнения">
 <!ENTITY engine.addons.accesskey    "п">
+<!ENTITY engine.addresses.label     "Адреса">
+<!ENTITY engine.addresses.accesskey "с">
+<!ENTITY engine.creditcards.label   "Банковские карты">
+<!ENTITY engine.creditcards.accesskey "н">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Имя устройства">
