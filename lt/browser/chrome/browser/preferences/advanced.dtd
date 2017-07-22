@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Duomenų pranešimai yra išjungti šiai darinio sąrankai">
 
-
+<!ENTITY enableHealthReport1.label       "Leisti „&brandShortName;“ automatiškai siųsti techninius ir naudojimosi duomenis „Mozillai“">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Sužinoti daugiau">
 
+<!ENTITY dataCollection.label            "„&brandShortName;“ duomenų rinkimas ir naudojimas">
+<!ENTITY dataCollectionDesc.label        "Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „&brandShortName;“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Privatumo nuostatai">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Leisti „&brandShortName;“ siųsti strigčių ataskaitas „Mozillai“">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
 
 <!ENTITY networkTab.label                "Tinklas">
 
+<!ENTITY networkProxy.label              "Tinklo įgaliotasis serveris">
 
 <!ENTITY connectionDesc.label            "Parinkite „&brandShortName;“ ryšio su internetu nuostatas.">
 <!ENTITY connectionSettings.label        "Nuostatos…">
