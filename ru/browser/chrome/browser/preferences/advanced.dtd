@@ -33,7 +33,7 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "е">
 <!ENTITY healthReportLearnMore.label     "Подробнее">
 
-<!ENTITY dataCollection.label            "Сбор данных &brandShortName; и их использование">
+<!ENTITY dataCollection.label            "Сбор и использование данных &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения &brandShortName; для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Уведомление о приватности">
 
