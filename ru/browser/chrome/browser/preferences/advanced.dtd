@@ -29,12 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Для этой конфигурации сборки отправка данных отключена">
 
+<!ENTITY enableHealthReport1.label       "Разрешить &brandShortName; автоматически отправлять технические данные и данные взаимодействия в Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "е">
 <!ENTITY healthReportLearnMore.label     "Подробнее">
 
-<!ENTITY dataCollection.label            "Сбор &brandShortName; данных и их использование">
+<!ENTITY dataCollection.label            "Сбор данных &brandShortName; и их использование">
+<!ENTITY dataCollectionDesc.label        "Мы стремимся предоставить вам выбор и собирать только то, что нам нужно, для выпуска и улучшения &brandShortName; для всех и каждого. Мы всегда спрашиваем разрешения перед получением личной информации.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Уведомление о приватности">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падении в Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падениях в Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "ш">
 <!ENTITY crashReporterLearnMore.label    "Подробнее">
 
