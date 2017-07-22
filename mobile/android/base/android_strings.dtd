@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস অনির্বাচন করুন">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "পিন করা সাইট">
+<!ENTITY home_unpinned_site "আনপিন করা সাইট">
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাব কোথায় গিয়েছিলে?">
 <!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার নীড় পাতায় একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
