@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Izegrar">
 <!ENTITY engine.addons.accesskey    "z">
+<!ENTITY engine.addresses.label     "Tansiwin">
+<!ENTITY engine.addresses.accesskey "w">
+<!ENTITY engine.creditcards.label   "Tikarḍiwin n usmad">
+<!ENTITY engine.creditcards.accesskey "G">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
