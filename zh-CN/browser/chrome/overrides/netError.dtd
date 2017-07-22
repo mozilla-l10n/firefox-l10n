@@ -55,7 +55,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "文档已过期">
-<!ENTITY notCached.longDesc "<p>您请求的文档已无法从 &brandShortName; 的缓存中读取。</p><ul><li>出于安全考虑，&brandShortName; 不会自动重新获取敏感文档。</li><li>请点击重试来重新请求从网站获取该文档。</li></ul>">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>出于安全考虑，&brandShortName; 不会自动重新获取敏感文档。</li><li>您可以点击“重试”来重新请求从网站获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -64,10 +64,12 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "内容编码错误">
-<!ENTITY contentEncodingError.longDesc "<ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>建议向此网站的管理员反馈这个问题。</li></ul>">
 
 <!ENTITY unsafeContentType.title "不安全的文件类型">
-<!ENTITY unsafeContentType.longDesc "<ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>建议向此网站的管理员反馈这个问题。</li> </ul>">
 
 <!ENTITY netReset.title "连接被重置">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -98,7 +100,7 @@
 <!ENTITY nssFailure2.title "建立安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>由于不能验证所收到的数据是否可信，无法显示您想要查看的页面。</li> 
-<li>请联系此网站的所有者并告知此问题。</li> 
+<li>建议向此网站的管理员反馈这个问题。</li> 
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "您的连接并不安全">
@@ -117,7 +119,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已依照该页面的内容安全策略阻止了它以这种方式载入。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到在数据传输过程中存在错误，无法显示您正要查看的页面。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到在数据传输过程中存在错误，无法显示您正要查看的页面。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
@@ -126,7 +128,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>请联系此网站的管理员并告知此问题。</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul></p>">
 
 <!ENTITY sslv3Used.title "无法安全地进行连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
