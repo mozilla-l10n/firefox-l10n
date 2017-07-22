@@ -23,10 +23,14 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uporabljaj gladko drsenje">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY checkUserSpelling.label         "Preverjajte črkovanje med vnašanjem">
+<!ENTITY checkUserSpelling.label         "Preverjaj črkovanje med tipkanjem">
 <!ENTITY checkUserSpelling.accesskey     "v">
 
 <!ENTITY dataChoicesTab.label            "Podatkovne možnosti">
+
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Pomaga vam razumeti delovanje vašega brskalnika in pošilja podatke o zdravstvenem stanju vašega brskalnika organizaciji &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Omogoči zdravniško spričevalo za &brandShortName;">
