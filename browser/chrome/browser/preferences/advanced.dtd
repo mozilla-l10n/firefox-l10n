@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Общие">
 
-<!ENTITY accessibility.label             "Расширенные возможности">
-
 <!ENTITY useCursorNavigation.label       "Всегда использовать клавиши курсора для навигации по страницам">
 <!ENTITY useCursorNavigation.accesskey   "к">
 <!ENTITY searchOnStartTyping.label       "Искать текст на странице по мере его набора">
 <!ENTITY searchOnStartTyping.accesskey   "а">
-<!ENTITY blockAutoReload.label           "Предупреждать при попытке веб-сайтов перенаправить или перезагрузить страницу">
-<!ENTITY blockAutoReload.accesskey       "р">
 <!ENTITY useOnScreenKeyboard.label       "При необходимости отображать сенсорную клавиатуру">
 <!ENTITY useOnScreenKeyboard.accesskey   "н">
 
@@ -33,24 +29,18 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Для этой конфигурации сборки отправка данных отключена">
 
-<!ENTITY healthReportDesc.label          "Помогает вам больше узнать о скорости работы вашего браузера и поделиться данными о его работоспособности с &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Включить отправку Отчёта о работоспособности &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "ю">
 <!ENTITY healthReportLearnMore.label     "Подробнее">
 
-<!ENTITY telemetryDesc.label             "Поделиться сведениями о производительности, использовании, аппаратном обеспечении и настройках вашего браузера с &vendorShortName;, чтобы помочь нам сделать &brandShortName; ещё лучше">
-<!ENTITY enableTelemetryData.label       "Делиться дополнительными данными (называемыми Телеметрией)">
-<!ENTITY enableTelemetryData.accesskey   "и">
-<!ENTITY telemetryLearnMore.label        "Подробнее">
+<!ENTITY dataCollection.label            "Сбор &brandShortName; данных и их использование">
+<!ENTITY dataCollectionPrivacyNotice.label    "Уведомление о приватности">
 
-<!ENTITY crashReporterDesc2.label         "Сообщения о падении помогают &vendorShortName; исправлять проблемы и сделать ваш браузер более стабильным и безопасным">
-<!ENTITY alwaysSubmitCrashReports.label   "Разрешить &brandShortName; отправлять от вашего имени накопившиеся сообщения о падении">
-<!ENTITY alwaysSubmitCrashReports.accesskey "ш">
-<!ENTITY crashReporterLearnMore.label     "Подробнее">
+<!ENTITY alwaysSubmitCrashReports1.label  "Разрешить &brandShortName; отправлять сообщения о падении в Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "ш">
+<!ENTITY crashReporterLearnMore.label    "Подробнее">
 
 <!ENTITY networkTab.label                "Сеть">
 
-<!ENTITY connection.label                "Соединение">
+<!ENTITY networkProxy.label              "Прокси-сервер">
 
 <!ENTITY connectionDesc.label            "Настройка параметров соединения &brandShortName; с Интернетом">
 <!ENTITY connectionSettings.label        "Настроить…">
@@ -115,8 +105,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Автоматически обновлять поисковые системы">
 <!ENTITY enableSearchUpdate2.accesskey   "л">
-
-<!ENTITY reports.label                   "Отчёты">
 
 <!ENTITY offlineStorageNotify.label               "Сообщать, когда веб-сайт просит сохранить данные для автономной работы">
 <!ENTITY offlineStorageNotify.accesskey           "б">
