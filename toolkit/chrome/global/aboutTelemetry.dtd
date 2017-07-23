@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriya Məlumatları">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Dəyişdir">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FSH məlumat yükləməsi <span>aktivdir</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FSH məlumat yükləməsi <span>deaktivdir</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Genişləndirilmiş Telemetry qeydi <span>aktivdir</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Genişləndirilmiş Telemetry qeydi <span>deaktivdir</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping məlumatı mənbəsi:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "İndiki ping məlumatı">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arxivlənmiş ping məlumatı">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping məlumat ekranı:">
-
-<!ENTITY aboutTelemetry.structured "Strukturlu">
 
 <!ENTITY aboutTelemetry.raw "Xam JSON">
 
@@ -34,11 +20,25 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Əvvəlki ping &gt;&gt; ">
 
-<!ENTITY aboutTelemetry.rawPingData "Xam ping məlumatı…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Həftə">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Ping Növü
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Bu gün
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Dünən
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Daha əvvəl
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Ümumi Məlumat">
 
@@ -52,6 +52,9 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Əlaqənin donması">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Tutulan Dəstələr
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalyarlar">
 
@@ -75,18 +78,16 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Sessiya Məlumatı">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Əlavələr tərəfindən toplanmış Histoqram">
-
-<!ENTITY aboutTelemetry.toggle "  Bölümü keçirmək üçün klikləyin">
-
-<!ENTITY aboutTelemetry.emptySection "  (Heç bir məlumat toplanmayıb)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Dəstələr üçün funksiya adlarını çək
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Xam dəstə məlumatlarını göstər
+">
 
 <!ENTITY aboutTelemetry.filterText "  Filtr (sətir və ya /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Yük">
-
-<!ENTITY aboutTelemetry.rawPayload "  Xam yük">

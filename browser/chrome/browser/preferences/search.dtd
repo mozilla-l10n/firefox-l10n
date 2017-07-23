@@ -10,6 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "t">
 
 <!ENTITY showURLBarSuggestions2.label           "Ünvan sətri nəticələrində axtarış təkliflərini göstər">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; səyyahını keçmişi xatırlamayacaq şəkildə nizamladığınız üçün ünvan sətri nəticələrində axtarış təklifləri göstərilməyəcək.">
 
 <!ENTITY oneClickSearchEngines.label           "Tək klikli axtarış mühərrikləri">
