@@ -29,11 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb">
 
+<!ENTITY enableHealthReport1.label       "&brandShortName; səyyahına avtomatik Mozillaya texniki və qarşılıqlı əlaqə məlumatlarını göndərməyə icazə ver">
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ətraflı">
 
+<!ENTITY dataCollection.label            "&brandShortName; məlumat toplama və istifadəsi">
+<!ENTITY dataCollectionDesc.label        "&brandShortName; səyyahını hamı üçün yaxşılaşdırmağa lazım olacaq məlumatları yığıb sizi ən yaxşı seçimlərlə təmin etmək üçün işləyirik. Şəxsi məlumatları almazdan əvvəl hər dəfə sizdən icazə istəyirik.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Məxfilik Bildirişi">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; səyyahına Mozillaya xəta hesabatlarını göndərməyə icazə ver">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
