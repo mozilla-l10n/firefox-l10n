@@ -37,6 +37,7 @@ available. -->
 
 <!ENTITY networkTab.label                "เครือข่าย">
 
+<!ENTITY networkProxy.label              "พร็อกซีเครือข่าย">
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
