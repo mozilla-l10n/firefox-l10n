@@ -10,8 +10,11 @@
 
 <!ENTITY useCursorNavigation.label       "પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "જ્યારે તમે ટાઇપ કરવાનું શરૂ કરો ત્યારે લખાણ માટે શોધો">
 <!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "તમને ચેતવે છે કે જ્યારે વેબસાઇટ્સ પૃષ્ઠને રીડાયરેક્ટ અથવા ફરીથી લોડ કરવાનો પ્રયાસ કરે છે">
 <!ENTITY blockAutoReload.accesskey       "b">
+<!ENTITY useOnScreenKeyboard.label       "જ્યારે જરૂરી હોય ત્યારે ટચ કીબોર્ડ બતાવો">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "બ્રાઉઝીંગ">
@@ -20,6 +23,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "લીસી રીતે સરકાવવાનું વાપરો">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "તમે લખો તે મુજબ તમારી જોડણી તપાસો">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "માહિતી પસંદગી">
 
@@ -33,6 +38,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "વધારે શીખો">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; ને સારુ બનાવવા અમને મદદ કરવા માટે &vendorShortName; સાથે તમારાં બ્રાઉઝર વિશે પ્રભાવ, વપરાશ, હાર્ડવેર અને વૈવિધ્યપૂર્ણ માહિતીને વહેંચે છે">
+<!ENTITY enableTelemetryData.label       "અતિરિક્ત ડેટા શેર કરો (દા.ત., ટેલિમેટ્રી)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
 

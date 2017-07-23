@@ -54,5 +54,6 @@
 
 <!ENTITY  drmContent2.label              "ડિજિટલ અધિકાર સંચાલન (DRM) કન્ટેન્ટ">
 
+<!ENTITY  playDRMContent2.label          "DRM-નિયંત્રિત સામગ્રીને ચાલુ કરો">
 <!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "વધુ શીખો">
