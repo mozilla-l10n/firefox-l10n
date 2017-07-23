@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "History">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Logins">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Add-ons">
