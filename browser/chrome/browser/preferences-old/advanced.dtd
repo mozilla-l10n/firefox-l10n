@@ -20,9 +20,9 @@
 <!ENTITY browsing.label                  "การท่องเว็บ">
 
 <!ENTITY useAutoScroll.label             "ใช้การเลื่อนหน้าอัตโนมัติ">
-<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useAutoScroll.accesskey         "ช">
 <!ENTITY useSmoothScrolling.label        "ใช้การเลื่อนหน้าแบบลื่นไหล">
-<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY useSmoothScrolling.accesskey    "ก">
 <!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดของคุณเมื่อคุณพิมพ์">
 <!ENTITY checkUserSpelling.accesskey     "จ">
 
