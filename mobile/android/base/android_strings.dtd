@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Erakutsi hautatutako gailuak">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Gunea ainguratuta">
+<!ENTITY home_unpinned_site "Gunea desainguratuta">
 
 <!ENTITY remote_tabs_panel_moved_title "Nora joan dira nire fitxak?">
 <!ENTITY remote_tabs_panel_moved_desc "Zure beste gailuetako fitxak hasiera-orriko panel batera aldatu ditugu lekuz, fitxa berri bat irekitzen duzun bakoitzean eskura izan ditzazun.">
