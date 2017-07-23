@@ -69,6 +69,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Palanteeri bari-jëfiin">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Jëfiinu Ëmbéefu Web">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Caabi Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Caabig Mozilla Location Service">
 
