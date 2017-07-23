@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Taq tz'aqat">
 <!ENTITY engine.addons.accesskey    "t">
-
-
-
-
+<!ENTITY engine.addresses.label     "Taq Ochochib'äl">
+<!ENTITY engine.addresses.accesskey "i">
+<!ENTITY engine.creditcards.label   "Taq Ch'utit'im pwäq">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Rub'i' ri okisaxel:">
