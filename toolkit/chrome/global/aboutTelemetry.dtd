@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
+<!ENTITY aboutTelemetry.archivePingType "Tipus de ping">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Avui">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Ahir">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Més antic">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dades generals">
 

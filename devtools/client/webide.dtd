@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Informació de l'entorn d'execució">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "e">
 <!ENTITY runtimeMenu_showMonitor_label "Supervisa">
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferències del dispositiu">

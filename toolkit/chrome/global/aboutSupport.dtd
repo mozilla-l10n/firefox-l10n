@@ -67,6 +67,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestres multiprocés">
 
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clau de Google">
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode segur">
