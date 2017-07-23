@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Kontroller alltid om &brandShortName; er standard-nettlesar">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">
-<!ENTITY setAsMyDefaultBrowser3.label     "Spesifiser som standard…">
+<!ENTITY setAsMyDefaultBrowser3.label     "Bruk som standard…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "S">
 <!ENTITY isDefault.label                  "&brandShortName; er standard nettlesar">
 <!ENTITY isNotDefault.label               "&brandShortName; er ikkje standard nettlesar">
