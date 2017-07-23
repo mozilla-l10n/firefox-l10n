@@ -23,7 +23,7 @@
 <!ENTITY downloads.label     "ดาวน์โหลด">
 
 <!ENTITY saveTo.label "บันทึกไฟล์ไปยัง">
-<!ENTITY saveTo.accesskey "บ">
+<!ENTITY saveTo.accesskey "ฟ">
 <!ENTITY chooseFolderWin.label        "เรียกดู…">
 <!ENTITY chooseFolderWin.accesskey    "ร">
 <!ENTITY chooseFolderMac.label        "เลือก…">

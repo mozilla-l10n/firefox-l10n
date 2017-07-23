@@ -108,6 +108,6 @@
 <!ENTITY  browserContainersHeader.label         "แท็บแยกข้อมูล">
 <!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
 <!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บแยกข้อมูล">
-<!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersEnabled.accesskey    "ย">
 <!ENTITY  browserContainersSettings.label        "การตั้งค่า…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
