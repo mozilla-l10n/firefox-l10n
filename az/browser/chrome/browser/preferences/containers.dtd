@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Nizamlamalar">
 <!ENTITY removeButton.label   "Sil">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Məxfiliyə geri get">
+<!ENTITY backLink2.label      "&#171; Geri qayıt">
 
 <!ENTITY window.title         "Yeni konteyner əlavə et">
 <!ENTITY window.width         "45em">

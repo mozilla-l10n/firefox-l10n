@@ -46,3 +46,6 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Keşin qazanma sayısı">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Şəbəkənin qazanma sayısı">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam şəbəkə istək sayısı">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Aç">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Oxu">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Yaz">

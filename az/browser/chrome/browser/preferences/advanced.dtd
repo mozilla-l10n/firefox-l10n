@@ -29,13 +29,17 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb">
 
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ətraflı">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "Məxfilik Bildirişi">
 
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Daha Ətraflı">
 
 <!ENTITY networkTab.label                "Şəbəkə">
 
+<!ENTITY networkProxy.label              "Şəbəkə Proksisi">
 
 <!ENTITY connectionDesc.label            "&brandShortName; səyyahının internetə necə qoşulacağını nizamlayın">
 <!ENTITY connectionSettings.label        "Nizamlar…">

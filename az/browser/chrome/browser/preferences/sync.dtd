@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "l">
 <!ENTITY engine.addons.label        "Əlavələr">
 <!ENTITY engine.addons.accesskey    "Ə">
+<!ENTITY engine.addresses.label     "Ünvanlar">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Kredit kartları">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Cihaz Adı">
