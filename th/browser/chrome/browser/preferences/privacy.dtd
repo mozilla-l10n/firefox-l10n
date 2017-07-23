@@ -105,6 +105,6 @@
 
 <!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
 <!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บแยกข้อมูล">
-<!ENTITY  browserContainersEnabled.accesskey    "ป">
+<!ENTITY  browserContainersEnabled.accesskey    "ย">
 <!ENTITY  browserContainersSettings.label        "การตั้งค่า…">
 <!ENTITY  browserContainersSettings.accesskey    "ต">
