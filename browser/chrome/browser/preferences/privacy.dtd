@@ -28,9 +28,8 @@
 <!ENTITY  history.label                 "ประวัติ">
 <!ENTITY  permissions.label             "การอนุญาต">
 
-<!ENTITY  locationBar.label             "แถบตำแหน่งที่ตั้ง">
-
-<!ENTITY  locbar.suggest2.label         "เมื่อใช้แถบตำแหน่งที่ตั้ง เสนอแนะ">
+<!ENTITY  addressBar.label              "แถบที่อยู่">
+<!ENTITY  addressBar.suggest.label      "เมื่อใช้แถบที่อยู่ เสนอแนะ">
 <!ENTITY  locbar.history.label          "ประวัติ">
 <!ENTITY  locbar.history.accesskey      "ป">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
@@ -104,7 +103,6 @@
 <!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
 <!ENTITY  clearOnCloseSettings.accesskey "ก">
 
-<!ENTITY  browserContainersHeader.label         "แท็บแยกข้อมูล">
 <!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
 <!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บแยกข้อมูล">
 <!ENTITY  browserContainersEnabled.accesskey    "ป">
