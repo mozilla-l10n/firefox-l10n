@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Pelayaran Peribadi)">
 
-<!ENTITY appmenu.tooltip                     "Menu buka">
+<!ENTITY appmenu.tooltip                     "Buka menu">
 <!ENTITY navbarOverflow.label                "Alatan seterusnya…">
 
 <!-- Tab context menu -->
@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Hantar ke Peranti">
 <!ENTITY sendToDevice.viewTitle "Hantar ke Peranti">
-<!ENTITY sendToDevice.fxaRequired.label "Diperlukan">
-<!ENTITY sendToDevice.noDevices.label "Tiada Peranti Tersedia">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
