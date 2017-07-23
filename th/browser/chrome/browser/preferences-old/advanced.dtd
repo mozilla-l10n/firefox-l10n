@@ -28,6 +28,10 @@
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "ช่วยให้คุณเข้าใจประสิทธิภาพเบราว์เซอร์ของคุณและแบ่งปันข้อมูลกับ &vendorShortName; เกี่ยวกับสุขภาพเบราว์เซอร์ของคุณ">
 <!ENTITY enableHealthReport.label        "เปิดใช้งานรายงานสุขภาพ &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -49,7 +53,7 @@
 
 <!ENTITY connectionDesc.label            "กำหนดค่าวิธีที่ &brandShortName; เชื่อมต่อกับอินเทอร์เน็ต">
 <!ENTITY connectionSettings.label        "การตั้งค่า…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "ต">
 
 <!ENTITY httpCache.label                 "เนื้อหาเว็บที่ถูกแคชไว้">
 
