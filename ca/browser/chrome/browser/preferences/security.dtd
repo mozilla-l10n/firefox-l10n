@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Seguretat">
-
+<!ENTITY  phishingProtection.label       "Protecció contra la pesca electrònica (phishing)">
 
 <!ENTITY  warnOnAddonInstall.label        "Avisa quan els llocs web intentin instal·lar complements">
 <!ENTITY  warnOnAddonInstall.accesskey    "i">
