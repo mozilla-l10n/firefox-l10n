@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu itxura gehiago">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
 
-
+<!ENTITY customizeMode.uidensity "Dentsitatea">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 

@@ -7,6 +7,7 @@
 <!ENTITY preferencesButton.label "Hobespenak">
 <!ENTITY removeButton.label   "Kendu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Joan atzera">
 
 <!ENTITY window.title         "Gehitu edukiontzi berria">
 <!ENTITY window.width         "45em">

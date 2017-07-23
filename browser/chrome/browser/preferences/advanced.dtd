@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako">
 
-
+<!ENTITY enableHealthReport1.label       "Baimendu &brandShortName;(r)i datu tekniko eta interakziozkoak automatikoki Mozillara bidaltzea">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Argibide gehiago">
 
+<!ENTITY dataCollection.label            "&brandShortName; datuen bilketa eta erabilera">
+<!ENTITY dataCollectionDesc.label        "Aukerak ematen ahalegintzen gara &brandShortName; denontzat hobetzeko behar ditugun datuak soilik biltzeko. Informazio pertsonala jaso aurretik zure baimena eskatzen dugu beti.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Pribatutasun-oharra">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Baimendu &brandShortName;(r)i hutsegite-txostenak Mozillara bidaltzea">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "h">
 <!ENTITY crashReporterLearnMore.label    "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
 
+<!ENTITY networkProxy.label              "Sareko proxya">
 
 <!ENTITY connectionDesc.label            "Konfiguratu &brandShortName; nola konektatzen den Internetera">
 <!ENTITY connectionSettings.label        "Ezarpenak…">

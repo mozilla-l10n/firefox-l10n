@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Edukiontzi-fitxak">
 <!ENTITY  paneUpdates.title             "Eguneraketak">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Hizkuntza eta itxura">
+<!ENTITY  filesAndApplications.label    "Fitxategiak eta aplikazioak">
+<!ENTITY  browserPrivacy.label          "Nabigatzailearen pribatutasuna">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox kontua">

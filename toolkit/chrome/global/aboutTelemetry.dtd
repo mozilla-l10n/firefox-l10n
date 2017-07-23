@@ -25,7 +25,9 @@
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Gaur">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Atzo">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datu orokorrak">
