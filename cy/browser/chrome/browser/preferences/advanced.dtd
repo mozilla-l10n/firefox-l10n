@@ -125,7 +125,7 @@ available. -->
 <!ENTITY selectCerts.auto                "Dewis un yn awtomatig">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Gofyn i mi bob tro">
-<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts.label                 "Darllen Tystysgrifau">
