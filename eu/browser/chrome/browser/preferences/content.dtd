@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Baimenak">
+
 <!ENTITY  blockPopups.label           "Blokeatu pop-up leihoak">
 <!ENTITY  blockPopups.accesskey       "B">
 
@@ -29,6 +31,8 @@
 <!ENTITY  colors.label                "Koloreak…">
 <!ENTITY  colors.accesskey            "o">
 
+
+<!ENTITY language2.label              "Hizkuntza">
 <!ENTITY chooseLanguage.label         "Aukeratu orriak bistaratzeko hizkuntza hobetsia">
 <!ENTITY chooseButton.label           "Aukeratu…">
 <!ENTITY chooseButton.accesskey       "A">
@@ -48,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Itzulpenak:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "DRM edukia">
 
-
+<!ENTITY  playDRMContent2.label          "Erreproduzitu DRM bidez kontrolatutako edukia">
+<!ENTITY  playDRMContent2.accesskey      "E">
 <!ENTITY  playDRMContent.learnMore.label "Argibide gehiago">
