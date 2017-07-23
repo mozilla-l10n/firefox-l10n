@@ -627,8 +627,8 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
-<!ENTITY home_pinned_site "Lloc fix">
-
+<!ENTITY home_pinned_site "S\u0027ha fixat el lloc">
+<!ENTITY home_unpinned_site "S\u0027ha deixat de fixar el lloc">
 
 <!ENTITY remote_tabs_panel_moved_title "On són les meves pestanyes?">
 <!ENTITY remote_tabs_panel_moved_desc "Hem mogut les vostres pestanyes dels altres dispositius a una subfinestra de la pàgina d\u0027inici, a la qual podeu accedir fàcilment sempre que obriu una pestanya nova.">
