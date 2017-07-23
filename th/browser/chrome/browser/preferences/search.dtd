@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "เครื่องมือค้นหาเริ่มต้น">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "เลือกเครื่องมือค้นหาเริ่มต้นของคุณ &brandShortName; ใช้ในแถบตำแหน่งที่ตั้ง, แถบค้นหา และหน้าเริ่มต้น">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา">
 
 <!ENTITY provideSearchSuggestions.label        "ให้คำแนะนำการค้นหา">
 <!ENTITY provideSearchSuggestions.accesskey    "ค">
 
-<!ENTITY showURLBarSuggestions.label           "แสดงผลลัพธ์คำแนะนำการค้นหาในแถบตำแหน่งที่ตั้ง">
-<!ENTITY showURLBarSuggestions.accesskey       "ถ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "คำแนะนำการค้นหาจะไม่แสดงผลลัพธ์ในแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
 
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 
-<!ENTITY chooseWhichOneToDisplay.label         "แถบค้นหาช่วยให้คุณค้นหาโดยใช้เครื่องมืออื่นได้โดยตรง เลือกว่าจะให้แสดงผลตัวไหนบ้าง">
 
 <!ENTITY engineNameColumn.label                "เครื่องมือค้นหา">
 <!ENTITY engineKeywordColumn.label             "คำสำคัญ">
@@ -26,4 +23,4 @@
 <!ENTITY removeEngine.label                    "เอาออก">
 <!ENTITY removeEngine.accesskey                "อ">
 
-<!ENTITY addMoreSearchEngines2.label           "เพิ่มเครื่องมือค้นหาเพิ่มเติม">
+<!ENTITY findMoreSearchEngines.label           "ค้นหาเครื่องมือค้นหาเพิ่มเติม">
