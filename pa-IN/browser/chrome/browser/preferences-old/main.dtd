@@ -8,7 +8,6 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "Show your home page">
 <!ENTITY startupBlankPage.label    "ਇੱਕ ਖਾਲੀ ਸਫ਼ਾ ਨੂੰ ਵੇਖੋ">
-<!ENTITY startupBlankPage.label    "Show a blank page">
 <!ENTITY startupPrevSession.label  "Show your windows and tabs from last time">
 
 
