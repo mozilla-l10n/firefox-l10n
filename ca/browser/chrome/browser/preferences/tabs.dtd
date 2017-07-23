@@ -9,7 +9,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Avisa en tancar diverses pestanyes de cop">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "d">
 
 <!ENTITY warnOnOpenManyTabs.label       "Avisa quan el fet d'obrir moltes pestanyes pugui alentir el &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "o">
