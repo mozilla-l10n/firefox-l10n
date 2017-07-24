@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "கலன் கீற்றுகள்">
 <!ENTITY  paneUpdates.title             "மேம்படுத்தல்">
 
-
-
+<!ENTITY  languageAndAppearance.label   "மொழி மற்றும் தேற்றம்">
+<!ENTITY  filesAndApplications.label    "கோப்புகள் மற்றும் செயலிகள்">
+<!ENTITY  browserPrivacy.label          "உலாவி தனியுரிமை">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "பயர்பாக்ஸ் கணக்கு">
