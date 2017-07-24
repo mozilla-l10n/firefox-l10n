@@ -33,8 +33,8 @@
 <!ENTITY welcomeback2.pageTitle     "Succes!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; er klar.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Gendan alle vinduer og faneblade">
-<!ENTITY welcomeback2.label.restoreSome "Gendan kun dem, du ønsker">
+<!ENTITY welcomeback2.restoreAll.label  "Gendan alle vinduer og faneblade">
+<!ENTITY welcomeback2.restoreSome.label "Gendan kun dem, du ønsker">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
