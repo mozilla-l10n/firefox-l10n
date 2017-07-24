@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datumoj de telemezuro">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Ŝanĝi
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Alŝuso de datumoj FHR estas <span>aktiva</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Alŝuto de datumoj FHR estas <span>malaktiva</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Etendita telemezura registro estas <span>aktiva</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Etendita telemezura registro estas <span>malaktiva</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Fonto de datumoj de «ping»:
 ">
@@ -34,14 +14,6 @@ Nunaj datumoj de «ping»
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Arkĥivo de datumoj de «ping»
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Montro de «ping» datumoj:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Strukturita
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,25 @@ Elekti «ping»:
 Pli malnova «ping» &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Krudaj datumoj de «ping»…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semajno
 ">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 «Ping»
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hodiaŭ
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Hieraŭ
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Antaŭe
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -140,18 +121,6 @@ Semajno
   Informo pri seanco
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Grafikaĵoj kolektitaj de aldonaĵoj
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klaku por ŝalti/malŝalti sekcion
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Ne estas kolektitaj datumoj)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
@@ -170,8 +139,4 @@ Semajno
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Utilŝarĝo
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Kruda utilŝarĝo
 ">

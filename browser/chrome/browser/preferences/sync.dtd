@@ -16,6 +16,8 @@
 <!ENTITY engine.prefs.accesskey     "p">
 <!ENTITY engine.addons.label        "aldonaĵon">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "Adresoj">
+<!ENTITY engine.creditcards.label   "Kreditkartoj">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nomo de aparato">
