@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Consola web">
-<!ENTITY browserConsole.title "Consola del navegador">
 <!ENTITY openURL.label "Abrir en una pestaña nueva">
 <!ENTITY openURL.accesskey "T">
 <!ENTITY btnPageNet.label "Red">
