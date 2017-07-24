@@ -46,3 +46,6 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombro de venkoj de staplo">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Nombro de venkon de la reto">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Tuta nombro de retaj petoj">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Malfermi">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Legi">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Skribi">
