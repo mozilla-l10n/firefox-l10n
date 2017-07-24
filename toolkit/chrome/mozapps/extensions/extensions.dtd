@@ -254,7 +254,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "Ada sesuatu yang tidak kena? Ada plugin tidak lagi disokong oleh &brandShortName;.">
+<!ENTITY pluginDeprecation.description "Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong oleh &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ketahui Selanjutnya.">
 
 <!ENTITY legacyWarning.description "Ada sesuatu yang tidak kena? Ada ekstensi tidak lagi disokong oleh &brandShortName;.">
