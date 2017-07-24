@@ -25,8 +25,6 @@
 <!ENTITY options.enableChrome.tooltip3 "Activar esta opción le permitirá usar varias herramientas de desarrollador en el contexto del navegador (a través de Herramientas > Desarrollador web > Caja de herramientas del navegador) y depurar complementos desde el administrador de complementos">
 <!ENTITY options.enableRemote.label3 "Activar depuración remota">
 <!ENTITY options.enableRemote.tooltip2 "Activar esta opción permitirá a las herramientas de desarrollo depurar una instancia remota como Firefox OS">
-<!ENTITY options.enableWorkers.label "Activar depuración del worker (en desarrollo)">
-<!ENTITY options.enableWorkers.tooltip "Activar esta opción permitirá a las herramientas de desarrollo depurar los workers">
 <!ENTITY options.disableJavaScript.label "Desactivar JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip "Activar esta opción desactivará JavaScript en la pestaña actual. Si la pestaña o la caja de herramientas se cierra entonces este ajuste será descartado.">
 <!ENTITY options.disableHTTPCache.label "Desactivar caché HTTP (cuando la caja de herramientas está abierta)">
