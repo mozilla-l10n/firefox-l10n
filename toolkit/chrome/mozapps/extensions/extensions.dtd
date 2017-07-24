@@ -33,7 +33,7 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dinyahdayakan oleh mod selamat.">
-<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dimatikan. Anda mungkin mempunya add-on yang tidak sesuai.">
+<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.">
 <!ENTITY warning.checkcompatibility.enable.label   "Dayakan">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Dayakan semakan kesesuaian add-on">
 <!ENTITY warning.updatesecurity.label              "Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.">
@@ -141,9 +141,9 @@
 <!ENTITY detail.updateType                    "Kemaskini automatik">
 <!ENTITY detail.updateDefault.label           "Piawai">
 <!ENTITY detail.updateDefault.tooltip         "Pasang kemaskini secara automatik hanya jika itulah piawai">
-<!ENTITY detail.updateAutomatic.label         "Hidupkan">
+<!ENTITY detail.updateAutomatic.label         "Aktif">
 <!ENTITY detail.updateAutomatic.tooltip       "Pasang kemaskini secara automatik">
-<!ENTITY detail.updateManual.label            "Matikan">
+<!ENTITY detail.updateManual.label            "Nyahaktif">
 <!ENTITY detail.updateManual.tooltip          "Jangan pasang kemaskini secara automatik">
 <!ENTITY detail.home                          "Halaman utama">
 <!ENTITY detail.repository                    "Profil add-on">
