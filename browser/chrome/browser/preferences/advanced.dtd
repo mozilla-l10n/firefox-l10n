@@ -3,13 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY generalTab.label "General">
-<!ENTITY accessibility.label "Accesibilidad">
 <!ENTITY useCursorNavigation.label "Usar siempre las teclas del cursor para navegar dentro de las páginas">
 <!ENTITY useCursorNavigation.accesskey "c">
 <!ENTITY searchOnStartTyping.label "Buscar texto cuando comience a escribir">
 <!ENTITY searchOnStartTyping.accesskey "x">
-<!ENTITY blockAutoReload.label "Advertirle cuando los sitios web intenten redirigir o recargar la página">
-<!ENTITY blockAutoReload.accesskey "d">
 <!ENTITY useOnScreenKeyboard.label "Mostrar un teclado táctil cuando sea necesario">
 <!ENTITY useOnScreenKeyboard.accesskey "s">
 <!ENTITY browsing.label "Navegación">
@@ -21,20 +18,17 @@
 <!ENTITY checkUserSpelling.accesskey "v">
 <!ENTITY dataChoicesTab.label "Elección de datos">
 <!ENTITY healthReportingDisabled.label "La recopilación de datos está deshabilitada en esta configuración de compilación">
-<!ENTITY healthReportDesc.label "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de éste">
-<!ENTITY enableHealthReport.label "Activar el informe de salud de &brandShortName;">
-<!ENTITY enableHealthReport.accesskey "R">
+<!ENTITY enableHealthReport1.label "Permitir a &brandShortName; enviar automáticamente datos técnicosy de interacción a Mozilla">
+<!ENTITY enableHealthReport1.accesskey "r">
 <!ENTITY healthReportLearnMore.label "Saber más">
-<!ENTITY telemetryDesc.label "Comparte datos de rendimiento, uso, hardware y personalizaciones sobre su navegador con &vendorShortName; para ayudar a hacer &brandShortName; mejor">
-<!ENTITY enableTelemetryData.label "Compartir datos adicionales (i.e., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey "C">
-<!ENTITY telemetryLearnMore.label "Saber más">
-<!ENTITY crashReporterDesc2.label "Los informes de fallos ayudan a &vendorShortName; a solucionar problemas y a hacer su navegador más estable y seguro">
-<!ENTITY alwaysSubmitCrashReports.label "Permitir a &brandShortName; enviar informes de fallos registrados en nombre suyo">
-<!ENTITY alwaysSubmitCrashReports.accesskey "P">
+<!ENTITY dataCollection.label "Recopilación y uso de datos de &brandShortName;">
+<!ENTITY dataCollectionDesc.label "Nos esforzamos en proporcionarle opciones y recopilamos solo lo que necesitamos para proporcionarle y mejorar &brandShortName; para todos. Siempre pedimos permiso antes de recibir información personal.">
+<!ENTITY dataCollectionPrivacyNotice.label "Aviso sobre privacidad">
+<!ENTITY alwaysSubmitCrashReports1.label "Permitir a &brandShortName; enviar informes de fallos a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "P">
 <!ENTITY crashReporterLearnMore.label "Saber más">
 <!ENTITY networkTab.label "Red">
-<!ENTITY connection.label "Conexión">
+<!ENTITY networkProxy.label "Proxy de red">
 <!ENTITY connectionDesc.label "Configurar cómo &brandShortName; se conecta a Internet">
 <!ENTITY connectionSettings.label "Configuración…">
 <!ENTITY connectionSettings.accesskey "o">
@@ -72,7 +66,6 @@
 <!ENTITY useService.accesskey "p">
 <!ENTITY enableSearchUpdate2.label "Actualizar automáticamente los buscadores">
 <!ENTITY enableSearchUpdate2.accesskey "A">
-<!ENTITY reports.label "Informes">
 <!ENTITY offlineStorageNotify.label "Avisarle cuando un sitio web solicite guardar datos para su uso sin conexión">
 <!ENTITY offlineStorageNotify.accesskey "v">
 <!ENTITY offlineStorageNotifyExceptions.label "Excepciones…">
