@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Moĩmbaha">
 <!ENTITY engine.addons.accesskey    "A">
-
-
-
-
+<!ENTITY engine.addresses.label     "Kundaharape">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Kuatia'atã ñemurã">
+<!ENTITY engine.creditcards.accesskey "K">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mba'e'oka Réra">
