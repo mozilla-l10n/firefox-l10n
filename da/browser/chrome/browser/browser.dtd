@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobil-bogmærker">
 <!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanel">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
+<!ENTITY searchBookmarks.label              "Søg i bogmærker">
 
 <!ENTITY containersMenu.label "Containers">
 
@@ -469,6 +470,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Søgeforespørgsel">
 <!ENTITY contentSearchSubmit.tooltip    "Søg">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Søg">
+<!ENTITY searchIcon.tooltip           "Søg">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -849,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
+<!ENTITY customizeMode.emptyOverflowList.description "Træk og slip knapper herhen for at have dem indenfor rækkevidde, men væk fra din værktøjslinje…">
+<!ENTITY customizeMode.uidensity "Layout">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Brug touch-tilstand til tablets">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera til deling:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -959,7 +986,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
 
-<!ENTITY sendToDevice.label "Send til enhed…">
+<!ENTITY sendToDevice.label2 "Send til enhed">
 <!ENTITY sendToDevice.viewTitle "Send til enhed">
-<!ENTITY sendToDevice.fxaRequired.label "Påkrævet">
-<!ENTITY sendToDevice.noDevices.label "Ingen enheder tilgængelig">
+<!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
