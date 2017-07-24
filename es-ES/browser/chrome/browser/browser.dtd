@@ -699,6 +699,4 @@
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
 <!ENTITY sendToDevice.label2 "Enviar al dispositivo">
 <!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
-<!ENTITY sendToDevice.fxaRequired.label "Requerido">
-<!ENTITY sendToDevice.noDevices.label "No hay dispositivos disponibles">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">

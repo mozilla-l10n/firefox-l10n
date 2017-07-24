@@ -27,8 +27,8 @@
 <!ENTITY doNotTrack.always.label "Siempre">
 <!ENTITY history.label "Historial">
 <!ENTITY permissions.label "Permisos">
-<!ENTITY locationBar.label "Barra de direcciones">
-<!ENTITY locbar.suggest2.label "Al usar la barra de direcciones, sugerir">
+<!ENTITY addressBar.label "Barra de direcciones">
+<!ENTITY addressBar.suggest.label "Al usar la barra de direcciones, sugerir">
 <!ENTITY locbar.history.label "Historial">
 <!ENTITY locbar.history.accesskey "H">
 <!ENTITY locbar.bookmarks.label "Marcadores">
@@ -79,7 +79,6 @@
 <!ENTITY clearOnClose.accesskey "h">
 <!ENTITY clearOnCloseSettings.label "Configuración…">
 <!ENTITY clearOnCloseSettings.accesskey "g">
-<!ENTITY browserContainersHeader.label "Pestañas contenedoras">
 <!ENTITY browserContainersLearnMore.label "Saber más">
 <!ENTITY browserContainersEnabled.label "Activar pestañas contenedoras">
 <!ENTITY browserContainersEnabled.accesskey "ñ">
