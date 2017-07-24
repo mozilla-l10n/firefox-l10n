@@ -30,6 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "O relatório de dados está desabilitado nesta configuração">
 
 <!ENTITY enableHealthReport1.label       "Permitir que o &brandShortName; automaticamente envie dados técnicos e de interação para a Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
 
 <!ENTITY dataCollection.label            "Coleta e Uso de Dados pelo &brandShortName;">
@@ -37,6 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Política de Privacidade">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitir que o &brandShortName; envie relatórios de travamento para a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "t">
 <!ENTITY crashReporterLearnMore.label    "Saber mais">
 
 <!ENTITY networkTab.label                "Rede">
