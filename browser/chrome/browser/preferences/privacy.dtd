@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "வரலாறு">
 <!ENTITY  permissions.label             "அனுமதிகள்">
 
-
+<!ENTITY  addressBar.label              "முகவரி பட்டை">
+<!ENTITY  addressBar.suggest.label      "இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்">
 <!ENTITY  locbar.history.label          "வரலாறு">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">

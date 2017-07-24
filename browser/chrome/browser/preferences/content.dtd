@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "அனுமதிகள்">
+
 <!ENTITY  blockPopups.label           "பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்">
 <!ENTITY  blockPopups.accesskey       "ப">
 
@@ -29,6 +31,8 @@
 <!ENTITY  colors.label                "நிறங்கள்...">
 <!ENTITY  colors.accesskey            "ந">
 
+
+<!ENTITY language2.label              "மொழி">
 <!ENTITY chooseLanguage.label         "பக்கங்களை காட்ட உங்களுக்கு பிடித்தமான முதன்மை மொழியைத் தேர்ந்தெடுக்கவும்">
 <!ENTITY chooseButton.label           "தேர்ந்தெடு...">
 <!ENTITY chooseButton.accesskey       "o">
@@ -48,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "ஆல் மொழிபெயர்ப்பு">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்">
 
-
+<!ENTITY  playDRMContent2.label          "DRM உள்ளடக்கங்கத்தை இயக்கு">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "மேலும் அறிய">

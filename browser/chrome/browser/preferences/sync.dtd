@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "கூடுதல்-வசதிகள்">
 <!ENTITY engine.addons.accesskey    "க">
-
-
-
-
+<!ENTITY engine.addresses.label     "முகவரிகள்">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "கடன் அட்டைகள்">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "கருவியின் பெயர்">

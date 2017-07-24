@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பன்செயல் சாளரங்கள்">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "வலை உள்ளடக்க செயல்பாடுகள்">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "கூகுள் திறவகோல்ஹ">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "மொசில்லா புவியிடச்சேவைச் சாவி">
