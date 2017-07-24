@@ -42,6 +42,7 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
 
+<!ENTITY alwaysSubmitCrashReports.label   "તમારા વતી &brandShortName; ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "વધારે શીખો">
 
@@ -86,6 +87,7 @@ available. -->
 <!ENTITY updateApplication.label         "&brandShortName; સુધારો">
 <!ENTITY updateAuto1.label               "આપમેળે સુધારાને સ્થાપિત કરો (અગ્રહણીય: સુધારેલ સુરક્ષા)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.label         "અપડેટ્સ માટે તપાસો, પરંતુ તેમને સ્થાપિત કરવા કે નહીં તે પસંદ કરવા દો">
 <!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "સુધારાઓ માટે ક્યારેય ચકાસો નહિં (આગ્રહણીય નથી: સુરક્ષા જોખમ)">
 <!ENTITY updateManual.accesskey          "N">
@@ -100,6 +102,7 @@ available. -->
 <!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "જ્યારે કોઈ વેબસાઇટ ઑફલાઇન ઉપયોગ માટે ડેટા સંગ્રહ કરવા માટે પૂછે ત્યારે તમને જણાવશે">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "અપવાદો…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
@@ -112,6 +115,7 @@ available. -->
 
 <!ENTITY certificateTab.label            "પ્રમાણપત્રો">
 <!ENTITY certPersonal.label              "વિનંતીઓ">
+<!ENTITY certPersonal.description        "જ્યારે વિનંતીઓ સર્વર તમારા વ્યક્તિગત પ્રમાણપત્રની વિનંતી કરે છે:">
 <!ENTITY selectCerts.auto                "એક આપોઆપ પસંદ કરો">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "દર વખતે તમને કહો">
@@ -124,10 +128,21 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "કામગીરી">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "આગ્રહણીય પ્રદર્શન સેટિંગ્સનો ઉપયોગ કરો">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "આ સેટિંગ્સ તમારા કમ્પ્યુટરનાં હાર્ડવેર અને ઑપરેટિંગ સિસ્ટમ અનુસાર બનાવાય છે.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "વધુ શીખો">
+<!ENTITY limitContentProcessOption.label "સામગ્રી પ્રક્રિયા મર્યાદા">
+<!ENTITY limitContentProcessOption.description
+                                         "બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો">
 <!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
 <!ENTITY allowHWAccel.accesskey          "r">
