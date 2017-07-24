@@ -25,7 +25,7 @@
 <!ENTITY changeBlockList.label          "更换拦截列表">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!ENTITY  doNotTrack.description        "向网站发送“不要跟踪”的信号，表明您不想被跟踪">
+<!ENTITY  doNotTrack.description        "向网站发出“请勿跟踪”信号，示明您不想被跟踪">
 <!ENTITY  doNotTrack.learnMore.label    "详细了解">
 <!ENTITY  doNotTrack.default.label      "仅在使用跟踪保护时">
 <!ENTITY  doNotTrack.always.label       "始终">
