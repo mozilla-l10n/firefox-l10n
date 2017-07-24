@@ -39,7 +39,7 @@
 <!ENTITY  adminDisabled.wizard.title      "Methu Gwirio am Ddiweddariadau">
 <!ENTITY  adminDisabled.warning.label     "Nid yw'n bosibl gwirio am ddiweddariad i ychwanegion anghymarus oherwydd mae gosod meddalwedd ar gyfer &brandShortName; wedi ei analluogi. Cysylltwch â'ch Gweinyddwr System am gymorth.">
 
-<!ENTITY  versioninfo.wizard.title        "Gwirio fod Ychwaegion yn Cydweddu">
+<!ENTITY  versioninfo.wizard.title        "Gwirio fod Ychwanegion yn Cydweddu">
 <!ENTITY  versioninfo.top.label           "Gwirio pa ychwanegion sy'n gymharus gyda'r fersiwn yma o &brandShortName;.">
 <!ENTITY  versioninfo.waiting             "Gall hyn gymryd ychydig o amser…">
 

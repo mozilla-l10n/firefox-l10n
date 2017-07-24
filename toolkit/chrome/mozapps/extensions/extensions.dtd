@@ -252,7 +252,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "canllawiau">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "Colli Rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
+<!ENTITY pluginDeprecation.description "Rhywbeth ar goll? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dysgu Rhagor.">
 
 <!ENTITY legacyWarning.description "Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
