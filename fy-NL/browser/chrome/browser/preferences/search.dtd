@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Ien-klik-sykmasinen">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Kies de alternative sykmasinen dy't ûnder de adresbalke en sykbalke ferskine as jo in kaaiwurd begjinne yn te fieren.">
 
 <!ENTITY engineNameColumn.label                "Sykmasine">
 <!ENTITY engineKeywordColumn.label             "Kaaiwurd">

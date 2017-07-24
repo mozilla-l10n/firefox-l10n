@@ -34,6 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Mear ynfo">
 
 <!ENTITY dataCollection.label            "Gegevenssamling en gebrûk fan &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Wy stribje dernei jo kar te bieden en allinnich te sammeljen wat wy nedich hawwe om &brandShortName; foar elkenien beskikber te meitsjen en te ferbetterjen. Wy freegje altyd tastimming eardat wy persoanlike gegevens ûntfange.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privacyferklearring">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; tastean ûngelokrapporten te ferstjoeren nei Mozilla">
