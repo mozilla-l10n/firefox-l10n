@@ -52,5 +52,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduções por">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Conteúdo DRM (Digital Rights Management - Gerenciamento de Direitos Digitais)">
 
+<!ENTITY  playDRMContent2.label          "Reproduzir conteúdo controlado por DRM">
 <!ENTITY  playDRMContent.learnMore.label "Saber mais">
