@@ -12,7 +12,7 @@
 <!ENTITY ssl.accesskey                "L">
 <!ENTITY ftp.label                    "FTP-proxy:">
 <!ENTITY ftp.accesskey                "F">
-<!ENTITY reuseProxy.label             "HTTP-proxyserver gebruiken voor alle protocollen">
+<!ENTITY reuseProxy.label             "HTTP-proxyinstellingen gebruiken voor alle protocollen">
 <!ENTITY reuseProxy.accesskey         "u">
 <!ENTITY port.label                   "Poort:">
 <!ENTITY HTTPPort.accesskey           "P">
