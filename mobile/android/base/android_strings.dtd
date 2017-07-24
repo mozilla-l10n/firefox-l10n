@@ -624,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Na falaich na h-uidheaman a thagh thu tuilleadh">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Chaidh an làrach a phrìneachadh">
+<!ENTITY home_unpinned_site "Chaidh an làrach a dhì-phrìneachadh">
 
 <!ENTITY remote_tabs_panel_moved_title "Cà bheil na tabaichean agam?">
 <!ENTITY remote_tabs_panel_moved_desc "Ghluais sinn na tabaichean agad o uidheaman eile gu panail air an duilleag mhòr agad ach am faigh thu greim orra gu luath gach turas a dh’fhosglas tu taba ùr.">
