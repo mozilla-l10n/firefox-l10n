@@ -32,7 +32,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY language2.label              "Langues">
+<!ENTITY language2.label              "Langue">
 <!ENTITY chooseLanguage.label         "Choix de la langue préférée pour l’affichage des pages">
 <!ENTITY chooseButton.label           "Choisir…">
 <!ENTITY chooseButton.accesskey       "o">

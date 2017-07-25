@@ -21,7 +21,7 @@
 <!ENTITY  paneContainers.title          "Onglets contextuels">
 <!ENTITY  paneUpdates.title             "Mises à jour">
 
-<!ENTITY  languageAndAppearance.label   "Langues et apparence">
+<!ENTITY  languageAndAppearance.label   "Langue et apparence">
 <!ENTITY  filesAndApplications.label    "Fichiers et applications">
 <!ENTITY  browserPrivacy.label          "Vie privée">
 
