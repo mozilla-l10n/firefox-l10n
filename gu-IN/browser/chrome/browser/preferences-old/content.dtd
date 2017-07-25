@@ -10,8 +10,10 @@
 <!ENTITY  notificationsPolicy.label            "સૂચનાઓ">
 <!ENTITY  notificationsPolicyLearnMore.label   "વધુ શીખો">
 <!ENTITY  notificationsPolicyDesc3.label       "કઈ સાઇટ્સને તમને સૂચનાઓ મોકલવાની મંજૂરી છે તે પસંદ કરો">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "પસંદ કરો…">
 <!ENTITY  notificationsDoNotDisturb.label      "મને હેરાન કરશો નહી">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "જ્યાં સુધી તમે ફરીથી પ્રારંભ ન કરો ત્યાં સુધી કોઈ સૂચના દર્શાવવામાં આવશે નહીં &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "અપવાદો...">
@@ -54,4 +56,5 @@
 <!ENTITY  drmContent.label             "DRM સામગ્રી">
 
 <!ENTITY  playDRMContent.label         "DRM સામગ્રી ચાલુ કરો">
+<!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "વધુ શીખો">

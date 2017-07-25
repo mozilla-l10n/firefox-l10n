@@ -6,14 +6,28 @@
 
 <!ENTITY engine.bookmarks.label     "બુકમાર્કો">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "ટૅબ ખોલો">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ઇતિહાસ">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "લોગીન">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "પસંદગીઓ">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ઍડ-ઓન">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "સરનામાઓ">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "ક્રડિટ કાર્ડ્ઝ">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "ઉપકરણનું નામ">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "રદ કરો">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "સાચવો">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "સેવાની મર્યાદાઓ">
@@ -36,6 +50,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "તમે પ્રવેશેલ નથી.">
+<!ENTITY signIn.label                "સાઇન ઇન કરો">
+<!ENTITY signIn.accesskey            "g">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "ઈમેલ ચકાસો">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.accesskey            "F">
 
 
 

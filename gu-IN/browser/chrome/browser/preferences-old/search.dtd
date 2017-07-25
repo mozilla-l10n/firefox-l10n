@@ -4,15 +4,17 @@
 
 
 
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+<!ENTITY showURLBarSuggestions.accesskey       "I">
 
 
 
+<!ENTITY engineNameColumn.label                "શોધ એન્જિન">
+<!ENTITY engineKeywordColumn.label             "મુખ્ય શબ્દ">
 
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
-
-
-
-
-
-
+<!ENTITY removeEngine.label                    "દૂર કરો">
+<!ENTITY removeEngine.accesskey                "r">
 

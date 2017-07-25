@@ -4,22 +4,25 @@
 
 <!ENTITY  general.label                 "સામાન્ય">
 
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.accesskey        "D">
 
-
-
-
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "અપવાદો...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "પ્રવેશો">
 
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "અપવાદો...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -28,4 +31,5 @@
 <!ENTITY  changeMasterPassword.label     "મુખ્ય પાસવર્ડ બદલો...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "સાચવેલા લૉગિન્સ…">
+<!ENTITY  savedLogins.accesskey          "L">
