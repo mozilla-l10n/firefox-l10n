@@ -20,9 +20,8 @@
 <!ENTITY resetUserPrefs.label         "Obnoviť všetky nastavenia aplikácie &brandShortName; na predvolené hodnoty">
 <!ENTITY resetUserPrefs.accesskey     "v">
 
-<!ENTITY restoreSearch.label          "Obnoviť prednastavené vyhľadávacie moduly">
+<!ENTITY restoreSearch.label          "Obnoviť predvolené vyhľadávacie moduly">
 <!ENTITY restoreSearch.accesskey      "m">
 
 <!ENTITY changeAndRestartButton.label "Vykonať zmeny a reštartovať">
 <!ENTITY continueButton.label         "Pokračovať v núdzovom režime">
-
