@@ -13,10 +13,14 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "નામ:">
+<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "કન્ટેનર નામ દાખલ કરો">
 <!ENTITY icon.label           "આયકન:">
+<!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "રંગ:">
 <!ENTITY color.accesskey      "o">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "થઈ ગયું">
+<!ENTITY button.ok.accesskey  "D">
 
