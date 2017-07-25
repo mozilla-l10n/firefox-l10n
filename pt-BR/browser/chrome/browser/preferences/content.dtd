@@ -55,4 +55,5 @@
 <!ENTITY  drmContent2.label              "Conteúdo DRM (Digital Rights Management - Gerenciamento de Direitos Digitais)">
 
 <!ENTITY  playDRMContent2.label          "Reproduzir conteúdo controlado por DRM">
+<!ENTITY  playDRMContent2.accesskey      "R">
 <!ENTITY  playDRMContent.learnMore.label "Saber mais">

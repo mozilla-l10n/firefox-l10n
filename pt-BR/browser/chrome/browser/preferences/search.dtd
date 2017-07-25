@@ -10,6 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "S">
 
 <!ENTITY showURLBarSuggestions2.label           "Mostrar sugestões de pesquisa nos resultados da barra de endereços">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o &brandShortName; para nunca lembrar o histórico.">
 
 <!ENTITY oneClickSearchEngines.label           "Mecanismos de pesquisa em um clique">
