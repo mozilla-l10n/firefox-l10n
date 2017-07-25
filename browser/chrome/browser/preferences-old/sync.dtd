@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Pengaya">
 <!ENTITY engine.addons.accesskey    "y">
+<!ENTITY engine.addresses.label     "Alamat">
+<!ENTITY engine.addresses.accesskey "a">
+<!ENTITY engine.creditcards.label   "Kartu kredit">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nama Perangkat">
