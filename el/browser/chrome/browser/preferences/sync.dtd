@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "ρ">
 <!ENTITY engine.addons.label        "Πρόσθετα">
 <!ENTITY engine.addons.accesskey    "θ">
+<!ENTITY engine.addresses.label     "Διευθύνσεις">
+<!ENTITY engine.addresses.accesskey "Δ">
+<!ENTITY engine.creditcards.label   "Πιστωτικές κάρτες">
+<!ENTITY engine.creditcards.accesskey "Π">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
