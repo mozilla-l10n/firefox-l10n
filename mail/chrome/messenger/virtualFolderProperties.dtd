@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY virtualFolderProperties.title "新建已保存搜索文件夹">
+<!ENTITY virtualFolderProperties.title "新建即时搜索文件夹">
 <!ENTITY name.label                 "名称：">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "作为所选文件夹的子文件夹创建：">
