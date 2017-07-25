@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Quaisquer políticas de privacidade aplicáveis a este produto devem ser listadas aqui.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais, tais como a atualização de complementos; no entanto, não podemos garantir que sejam 100&#037; precisos ou livres de erro. Mais informações, incluindo sobre como desativar os serviços, podem ser encontradas nos ">
+<!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais, tais como o serviço de atualização de extensões; no entanto, não podemos garantir que eles sejam 100&#037; precisos ou livres de erro. Mais detalhes, incluindo informações sobre como desativar os serviços, podem ser encontradas nos ">
 <!ENTITY rights.intro-point4b "termos de serviço">
 <!ENTITY rights.intro-point4c ".">
 
