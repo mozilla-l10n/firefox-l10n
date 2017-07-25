@@ -6,6 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "બુકમાર્કો">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ઇતિહાસ">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.prefs.label         "પસંદગીઓ">

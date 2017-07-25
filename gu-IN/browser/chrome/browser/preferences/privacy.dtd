@@ -2,20 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY  trackingProtectionAlways.label       "હંમેશા">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "ખાનગી વિન્ડો માં જ">
+<!ENTITY  trackingProtectionPrivate.accesskey  "I">
+<!ENTITY  trackingProtectionNever.label        "ક્યારેય નહિં">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionLearnMore.label    "વધુ શીખો">
+<!ENTITY  trackingProtectionExceptions.label   "અપવાદો…">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "ટ્રૅક કરી રહ્યા છે">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
+<!ENTITY changeBlockList.accesskey      "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.learnMore.label    "વધુ શીખો">
+<!ENTITY  doNotTrack.always.label       "હંમેશા">
 
+<!ENTITY  history.label                 "ઇતિહાસ">
+<!ENTITY  permissions.label             "પરવાનગીઓ">
 
-<!ENTITY  locationBar.label             "સ્થાન પટ્ટી">
-
+<!ENTITY  addressBar.label              "સરનામા પટ્ટી">
+<!ENTITY  locbar.history.label          "ઇતિહાસ">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "બુકમાર્કો">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ટૅબ ખોલો">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 
 <!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
 <!ENTITY  acceptCookies.accesskey       "A">
 
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
 <!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
@@ -32,6 +56,8 @@
 <!ENTITY  showCookies.label             "કુકીઓ બતાવો...">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; કરશે">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "ઇતિહાસ યાદ રાખો">
 <!ENTITY  historyHeader.dontremember.label "ક્યારેય ઇતિહાસ યાદ રાખશો નહિં">
 <!ENTITY  historyHeader.custom.label       "ઇતિહાસ માટે વૈવિધ્યપૂર્ણ સેટીંગ વાપરો">
@@ -71,3 +97,7 @@
 <!ENTITY  clearOnCloseSettings.label     "સેટીંગ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersLearnMore.label      "વધુ શીખો">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "સેટીંગ…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
