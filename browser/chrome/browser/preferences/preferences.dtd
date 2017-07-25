@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "검색 결과">
 <!ENTITY  paneGeneral.title             "일반">
+<!ENTITY  paneSearch.title              "검색">
 <!ENTITY  paneFilesApplications.title   "파일 및 애플리케이션">
 <!ENTITY  panePrivacySecurity.title     "개인 정보 및 보안">
 <!ENTITY  paneContainers.title          "포함 탭">
 <!ENTITY  paneUpdates.title             "업데이트">
 
+<!ENTITY  languageAndAppearance.label   "언어와 표현">
+<!ENTITY  filesAndApplications.label    "파일과 어플리케이션">
+<!ENTITY  browserPrivacy.label          "브라우저 개인정보">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox Account">
 
 <!ENTITY  helpButton2.label        "&brandShortName; 도움말">
-
-<!ENTITY  searchInput.label        "검색">

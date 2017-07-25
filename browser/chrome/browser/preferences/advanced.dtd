@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "일반">
 
-<!ENTITY accessibility.label             "접근성">
-
 <!ENTITY useCursorNavigation.label       "커서 키를 항상 페이지 내에서 사용">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "타이핑을 시작하면 검색">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "웹사이트가 리다이렉트나 리로드를 하려하면 알려주기">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "필요하면 터치 키보드 보여주기">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음">
 
-<!ENTITY healthReportDesc.label          "브라우저 성능에 대해 이해할 수 있도록 돕고 &vendorShortName;와 브라우저 건강 데이터를 공유함">
-<!ENTITY enableHealthReport.label        "&brandShortName; 상태 검사 보고서 켜기">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.label       "&brandShortName;가 자동으로 기술과 상호작용 데이터를 Mozilla로 전송하도록 허용">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "더 알아보기">
 
-<!ENTITY telemetryDesc.label             "브라우저의 성능, 사용, 그리고 설정에 대한 데이터를 &vendorShortName;와 공유하여 &brandShortName;가 보나 나아지도록 도움">
-<!ENTITY enableTelemetryData.label       "부가적인 데이터 공유">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "더 알아보기">
 
-<!ENTITY crashReporterDesc2.label         "충돌 보고서는 &vendorShortName;가 문제를 해결하고 브라우저를 더욱 안정하고 안전하게 만드는데 도움이 됩니다.">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName;가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 함">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "더 알아보기">
+<!ENTITY crashReporterLearnMore.label    "더 알아보기">
 
 <!ENTITY networkTab.label                "네트워크">
 
-<!ENTITY connection.label                "연결">
 
 <!ENTITY connectionDesc.label            "&brandShortName;가 인터넷에 연결하는 방법을 선택합니다.">
 <!ENTITY connectionSettings.label        "설정…">
@@ -115,8 +102,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "검색 엔진 자동 업데이트">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "리포트">
 
 <!ENTITY offlineStorageNotify.label               "웹사이트가 오프라인 상태일 때 데이터를 저장하려하면 물어봄">
 <!ENTITY offlineStorageNotify.accesskey           "T">
