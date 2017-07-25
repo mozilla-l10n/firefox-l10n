@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName;가 기본 브라우저인지 항상 확인">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "기본 브라우저로 설정">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "기본값으로…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "현재 &brandShortName;가 기본 브라우저입니다.">
 <!ENTITY isNotDefault.label               "&brandShortName;가 기본 브라우저가 아닙니다.">
 

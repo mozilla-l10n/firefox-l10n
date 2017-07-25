@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "부가 기능">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "주소">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "신용카드">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "기기 이름">

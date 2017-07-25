@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "설정">
 <!ENTITY removeButton.label   "삭제">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; 개인 정보로 돌아가기">
+<!ENTITY backLink2.label      "&#171; 뒤로가기">
 
 <!ENTITY window.title         "새 컨테이너 추가">
 <!ENTITY window.width         "45em">
