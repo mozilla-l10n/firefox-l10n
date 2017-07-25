@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Деректер есептемесін беру бұл жинақта сөндірілген">
 
-
+<!ENTITY enableHealthReport1.label       "&brandShortName; үшін Mozilla адресіне автоматты түрде техникалық және әрекеттесу деректерін жіберуді рұқсат ету">
+<!ENTITY enableHealthReport1.accesskey   "р">
 <!ENTITY healthReportLearnMore.label     "Көбірек білу">
 
+<!ENTITY dataCollection.label            "&brandShortName; деректер жинауы және қолданылуы">
+<!ENTITY dataCollectionDesc.label        "Біз сізге таңдауды қолыңызға беріп, тек әркім үшін &brandShortName; өнімін ұсыну және жақсарту мақсатында керек деректерді жинаймыз. Жеке ақпаратты алу алдында біз әрқашан рұқсатты сұраймыз.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Жекелік ескертуі">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; үшін Mozilla адресіне құлау хабарламаларын жіберуді рұқсат ету">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "л">
 <!ENTITY crashReporterLearnMore.label    "Көбірек білу">
 
 <!ENTITY networkTab.label                "Желі">
 
+<!ENTITY networkProxy.label              "Желілік прокси">
 
 <!ENTITY connectionDesc.label            "&brandShortName; Интернетке байланысу параметрлерін баптау">
 <!ENTITY connectionSettings.label        "Баптау…">

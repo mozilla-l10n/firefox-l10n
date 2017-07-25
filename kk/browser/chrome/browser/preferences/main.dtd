@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Таза парақты көрсету">
 <!ENTITY startupPrevSession.label  "Алдында ашылған терезелер мен беттерді көрсету">
 
-
+<!ENTITY homepage2.label           "Үй парағы">
+<!ENTITY homepage2.accesskey       "й">
 <!ENTITY useCurrentPage.label      "Ағымдағы бетті қолдану">
 <!ENTITY useCurrentPage.accesskey  "А">
 <!ENTITY useMultiple.label         "Ағымдағы беттерді қолдану">
@@ -32,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Әр қосылған кезде &brandShortName; жүйедегі негізгі браузер екенін тексеру">
 <!ENTITY alwaysCheckDefault2.accesskey    "н">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "Негізгі браузер қылу…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "Н">
 <!ENTITY isDefault.label                  "&brandShortName; сіздің ағымдағы негізгі браузеріңіз">
 <!ENTITY isNotDefault.label               "&brandShortName; негізгі браузер емес">
 

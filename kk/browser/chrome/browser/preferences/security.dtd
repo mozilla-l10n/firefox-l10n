@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Қауіпсіздік">
-
+<!ENTITY  phishingProtection.label       "Фишингтан қорғаныс">
 
 <!ENTITY  warnOnAddonInstall.label        "Вебсайттар кеңейтулерді орнатқысы келсе, ескерту">
 <!ENTITY  warnOnAddonInstall.accesskey    "В">

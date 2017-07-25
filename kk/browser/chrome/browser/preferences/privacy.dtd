@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "Тарихы">
 <!ENTITY  permissions.label             "Рұқсаттар">
 
-
+<!ENTITY  addressBar.label              "Адрес жолағы">
+<!ENTITY  addressBar.suggest.label      "Адрес жолағын қолдану кезінде, ұсыну">
 <!ENTITY  locbar.history.label          "Тарихы">
 <!ENTITY  locbar.history.accesskey      "Т">
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
