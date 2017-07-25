@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "ટ્રૅકિંગ સંરક્ષણ વાપારો">
 <!ENTITY  trackingProtectionAlways.label       "હંમેશા">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "ફકત ખાનગી વિન્ડો માં જ">
 <!ENTITY  trackingProtectionPrivate.accesskey  "I">
 <!ENTITY  trackingProtectionNever.label        "ક્યારેય નહિં">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
