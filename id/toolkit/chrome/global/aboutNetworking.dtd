@@ -47,3 +47,5 @@
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Total jumlah permintaan jaringan">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Buka">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Baca">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Tulis">

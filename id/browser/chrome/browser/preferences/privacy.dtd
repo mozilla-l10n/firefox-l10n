@@ -33,9 +33,7 @@
 <!ENTITY  history.label                 "Riwayat">
 <!ENTITY  permissions.label             "Hak Akses">
 
-<!ENTITY  locationBar.label             "Bilah Lokasi">
-
-<!ENTITY  locbar.suggest2.label         "Saat menggunakan bilah lokasi, sarankan">
+<!ENTITY  addressBar.label              "Bilah Alamat">
 <!ENTITY  locbar.history.label          "Riwayat">
 <!ENTITY  locbar.history.accesskey      "R">
 <!ENTITY  locbar.bookmarks.label        "Markah">
@@ -109,7 +107,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Pengaturan…">
 <!ENTITY  clearOnCloseSettings.accesskey "P">
 
-<!ENTITY  browserContainersHeader.label         "Tab Kontainer">
 <!ENTITY  browserContainersLearnMore.label      "Pelajari lebih lanjut">
 <!ENTITY  browserContainersEnabled.label        "Aktifkan Tab Kontainer">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
