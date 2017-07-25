@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "ສຳເນົາ URL ແລ້ວ">
 
+<!ENTITY pref_pwa "Progressive Web Apps">
+<!ENTITY pref_pwa_summary "ອະນູຍາດໃຫ້ເພີ່ມເວັບແອັບເຂົ້າໄປຫນ້າຈໍຫລັກ">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
 <!ENTITY pref_activity_stream_summary "ດ້ວຍຄວາມອຸດົມສົມບູນໄປດ້ວຍຄວາມສາມາດໃນການຄົ້ນຫາທີ່ຫລາກຫລາຍ ແລະ ຫນ້າລັກຮູບແບບໃຫມ່ທີ່ເຮັດໃຫ້ທ່ານສາມາດຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການຄົ້ນຫາໄດ້ຢ່າງງ່າຍດາຍ &brandShortName;.">
@@ -621,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ບໍ່ສາມາດເລືອກອຸປະກອນໄດ້">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Pin ເວັບໄຊຕ໌ແລ້ວ">
+<!ENTITY home_unpinned_site "Unpin ເວັບໄຊຕ໌ແລ້ວ">
 
 <!ENTITY remote_tabs_panel_moved_title "ແທັບຂອງຂ້ອຍຫາຍໄປໃສແລ້ວ?">
 <!ENTITY remote_tabs_panel_moved_desc "ພວກເຮົາໄດ້ຍ້າຍແທັບຂອງທ່ານຈາກອຸປະກອນອື່ນມາໄວ້ຢູ່ໃນຫນ້າກະດານທຳອິດເພື່ອເຮັດໃຫ້ທ່ານສາມາດເຂົ້າໃຊ້ໄດ້ຢ່າງສະດວກສະບາຍໃນເວລາທີ່ທ່ານເປີດແທັບໃຫມ່ທຸກໆຄັ້ງ.">
