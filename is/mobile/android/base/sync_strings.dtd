@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Bókarmerki skjáborðs">
 <!ENTITY bookmarks.folder.mobile.label "Bókarmerki handhægra tækja">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Pinned">
+<!ENTITY bookmarks.folder.pinned.label "Fest">
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
