@@ -14,6 +14,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "เลือกเครื่องมือค้นหาทางเลือกที่จะปรากฏด้านล่างแถบที่อยู่และแถบค้นหาเมื่อคุณเริ่มป้อนคำสำคัญ">
 
 <!ENTITY engineNameColumn.label                "เครื่องมือค้นหา">
 <!ENTITY engineKeywordColumn.label             "คำสำคัญ">
