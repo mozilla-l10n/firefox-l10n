@@ -34,6 +34,7 @@
 <!ENTITY alwaysCheckDefault2.label        "Sempre verificar se o &brandShortName; é o navegador padrão">
 <!ENTITY alwaysCheckDefault2.accesskey    "S">
 <!ENTITY setAsMyDefaultBrowser3.label     "Tornar padrão…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "O &brandShortName; é o seu navegador padrão">
 <!ENTITY isNotDefault.label               "O &brandShortName; não é o seu navegador padrão">
 
