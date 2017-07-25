@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.addons.label        "Қосымшалар">
 <!ENTITY engine.addons.accesskey    "о">
-
-
-
-
+<!ENTITY engine.addresses.label     "Адрестер">
+<!ENTITY engine.addresses.accesskey "е">
+<!ENTITY engine.creditcards.label   "Несиелік карталар">
+<!ENTITY engine.creditcards.accesskey "Н">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Құрылғы аты">
