@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "보안">
+<!ENTITY  phishingProtection.label       "피싱 보호">
 
 <!ENTITY  warnOnAddonInstall.label        "사이트가 부가 기능을 설치하려 할 때 알리기">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
