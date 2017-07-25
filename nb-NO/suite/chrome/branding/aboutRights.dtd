@@ -64,6 +64,8 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Stedsbevisst nettlesing: ">
+<!ENTITY rights.locationawarebrowsing-term1 "Åpne programinnstillingene">
+<!ENTITY rights.locationawarebrowsing-term2 "Velg hovedpanelet på &security.label;-panelet">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller forandre Tjenestene etter eget ønske.">
