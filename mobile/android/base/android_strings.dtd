@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Pagina verwijderd">
 
 <!ENTITY bookmark_edit_title "Bladwijzer bewerken">
+<!ENTITY bookmark_edit_folder_title "Map bewerken">
 <!ENTITY bookmark_edit_name "Naam">
 <!ENTITY bookmark_edit_location "Locatie">
 <!ENTITY bookmark_edit_keyword "Sleutelwoord">
@@ -853,7 +854,3 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Welkom bij uw Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; maakt nu highlights aan van dingen die u op het web hebt ontdekt, zodat u interessante artikelen, video’s, bladwijzers en andere pagina’s makkelijk kunt terugvinden.">
-
-<!ENTITY private_tab_panel_title "Privénavigatie + Bescherming tegen volgen">
-<!ENTITY private_tab_panel_description "Firefox zal voorkomen dat u wordt gevolgd en geen geschiedenis onthouden, maar gedownloade bestanden en nieuwe bladwijzers worden wel op uw apparaat opgeslagen." >
-<!ENTITY private_tab_learn_more "Wilt u meer weten?">
