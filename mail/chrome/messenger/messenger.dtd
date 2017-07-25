@@ -455,7 +455,7 @@
 <!ENTITY addressBookCmd.label "Catálogo de endereços">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
-<!ENTITY addons.label "Complementos">
+<!ENTITY addons.label "Extensões">
 <!ENTITY addons.accesskey "C">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">

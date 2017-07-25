@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "O &brandFullName; oferece serviços opcionais (“Serviços”), tais como a atualização de complementos, que estão disponíveis para seu uso com esta versão binária do &brandShortName;, como descrito abaixo. Se você não quiser usar os Serviços ou não aceitar os termos a seguir, você pode desativar o serviço de atualização de complemento: abra as preferências do aplicativo, selecione o painel ">
+<!ENTITY rights.webservices-a "O &brandFullName; oferece serviços opcionais (&quot;Serviços&quot;), tais como o serviço de atualização de extensões, que estão disponíveis para a sua utilização com esta versão binária do &brandShortName;, como descrito abaixo. Se você não quiser utilizar os Serviços ou os termos abaixo são inaceitáveis, você pode desativar o serviço de atualização de extensões abrindo as preferências do aplicativo, selecionando ">
 <!ENTITY rights.webservices-b "Avançado">
 <!ENTITY rights.webservices-c ", clique na aba ">
 <!ENTITY rights.webservices-d "Atualizações">

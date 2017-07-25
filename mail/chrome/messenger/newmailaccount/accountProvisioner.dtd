@@ -31,7 +31,7 @@
 <!ENTITY successful.successMessage "Você configurou com êxito a sua conta.">
 <!ENTITY successful.write "Envie algumas mensagens">
 <!ENTITY successful.write.desc "Conte sobre seu novo endereço para seus amigos e sua família.<br/>É por isso que você criou esta conta, não é?">
-<!ENTITY successful.customize "Personalizar o &brandShortName; com alguns complementos legais">
+<!ENTITY successful.customize "Personalizar o &brandShortName; com algumas extensões legais">
 <!ENTITY successful.customize.desc "Há milhares de extensões que lhe permitem personalizar o &brandShortName; para que ele satisfaça as suas necessidades.">
 <!ENTITY successful.attach "Anexar uma assinatura pessoal em minhas mensagens">
 <!ENTITY successful.attach.desc "Você pode anexar automaticamente uma citação ou qualquer informação sobre você no fim de cada mensagem que enviar.">
