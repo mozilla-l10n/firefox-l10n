@@ -43,6 +43,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Red">
 
+<!ENTITY networkProxy.label              "Proxy de red">
 
 <!ENTITY connectionDesc.label            "Configurar cómo se conecta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configurar…">
