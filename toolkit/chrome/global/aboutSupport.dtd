@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Мультипроцесс терезелері">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Веб құрамасы процестері">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google кілті">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla орналасулар қызметінің кілті">
