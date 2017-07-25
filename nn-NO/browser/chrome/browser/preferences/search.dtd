@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Eittklikks-søkemotorar">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Vel alternative søkemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkeord.">
 
 <!ENTITY engineNameColumn.label                "Søkemotor">
 <!ENTITY engineKeywordColumn.label             "Nykelord">
