@@ -33,11 +33,17 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "더 알아보기">
 
+<!ENTITY dataCollection.label            "&brandShortName; 데이터 수집과 사용">
+<!ENTITY dataCollectionDesc.label        "&brandShortName;를 모두를 위해 제공하고 개선하기 위해서 필요한 것만 수집하고 선택권을 제공하기 위해 노력합니다. 개인 정보를 전송하기 전에 항상 허가여부를 묻습니다.">
+<!ENTITY dataCollectionPrivacyNotice.label    "개인정보 안내">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;가 Mozilla에 충돌 보고를 보내도록 허용">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "더 알아보기">
 
 <!ENTITY networkTab.label                "네트워크">
 
+<!ENTITY networkProxy.label              "네트워크 프록시">
 
 <!ENTITY connectionDesc.label            "&brandShortName;가 인터넷에 연결하는 방법을 선택합니다.">
 <!ENTITY connectionSettings.label        "설정…">
