@@ -34,7 +34,7 @@
 <!ENTITY  permissions.label             "Tilladelser">
 
 <!ENTITY  addressBar.label              "Adresselinje">
-<!ENTITY  addressBar.suggest.label      "Når jeg bruger adresselinjen ønsker jeg forslag for">
+<!ENTITY  addressBar.suggest.label      "Når jeg bruger adresselinjen ønsker jeg forslag fra">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
