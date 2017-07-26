@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "Z">
 <!ENTITY viewCustomizeToolbar.label       "Aanpassen…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
+<!ENTITY overflowCustomizeToolbar.label       "Werkbalk aanpassen…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "a">
 
 <!ENTITY historyMenu.label "Geschiedenis">
 <!ENTITY historyMenu.accesskey "G">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
 <!ENTITY appMenuHistory.viewSidebar.label "Geschiedeniszijbalk weergeven">
+<!ENTITY appMenuHistory.recentHistory.label "Recente geschiedenis">
 <!ENTITY appMenuHelp.label "Help">
 <!ENTITY appMenuHelp.tooltip "Menu Help openen">
 
