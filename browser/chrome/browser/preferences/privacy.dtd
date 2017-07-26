@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "การป้องกันการตามรอย">
+<!ENTITY  trackingProtection2.radioGroupLabel  "ใช้การป้องกันการตามรอยเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY  trackingProtectionAlways.label       "เสมอ">
 <!ENTITY  trackingProtectionAlways.accesskey   "ส">
 <!ENTITY  trackingProtectionPrivate.label      "เฉพาะในหน้าต่างส่วนตัว">
@@ -17,6 +18,7 @@
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "ใช้การป้องกันการตามรอยในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY changeBlockList.label          "เปลี่ยนรายการการปิดกั้น">
 <!ENTITY changeBlockList.accesskey      "ป">
