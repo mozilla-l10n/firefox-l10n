@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Carauterístiques de &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nome">
+<!ENTITY aboutSupport.featureVersion "Versión">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Carauterístiques esperimentales">
 <!ENTITY aboutSupport.experimentName "Nome">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -60,6 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Perfiles">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanes multiprocesu">
+
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mou seguru">
