@@ -23,7 +23,7 @@
 
 <!ENTITY  languageAndAppearance.label   "Sprog og udseende">
 <!ENTITY  filesAndApplications.label    "Filer og programmer">
-<!ENTITY  browserPrivacy.label          "Privatlivsbeskyttelse">
+<!ENTITY  browserPrivacy.label          "Beskyttelse af privatliv">
 
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-konto">
