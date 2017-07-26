@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "캐시 성공 수">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "네트워크 성공 수">
 <!ENTITY aboutNetworking.totalNetworkRequests  "총 네트워크 요청 수">
+<!ENTITY aboutNetworking.rcwnOperation         "캐시 작업">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "열기">
+<!ENTITY aboutNetworking.rcwnPerfRead          "읽기">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "쓰기">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "엔트리 열기">
+<!ENTITY aboutNetworking.rcwnAvgShort          "짧은 평균">
+<!ENTITY aboutNetworking.rcwnAvgLong           "긴 평균">
+<!ENTITY aboutNetworking.rcwnStddevLong        "긴 표준 편차">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "느린 캐시 횟수">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "느리지 않은 캐시 횟수">
