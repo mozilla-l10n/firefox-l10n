@@ -151,7 +151,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Editar Lista">
 <!ENTITY editMailingListContext.accesskey               "E">
-<!ENTITY newmsgButton.label                             "Nova msg">
+<!ENTITY newmsgButton.label                             "Escrever">
 <!ENTITY newmsgButton.accesskey                         "N">
 <!ENTITY newIM.label                                    "Msg instantânea">
 <!ENTITY newIM.accesskey                                "M">
