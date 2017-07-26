@@ -856,12 +856,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lortu itxura gehiago">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
-
+<!ENTITY customizeMode.emptyOverflowList.description "Elementuak eskura izan baina tresna-barratik kanpo mantentzeko, arrasta eta jaregin itzazu hona…">
 <!ENTITY customizeMode.uidensity "Dentsitatea">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Arrunta">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Arrunta">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "A">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
