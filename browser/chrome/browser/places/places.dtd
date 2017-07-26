@@ -101,7 +101,7 @@
 <!ENTITY detailsPane.more.accesskey "ტ">
 <!ENTITY detailsPane.less.label "ნაკლები">
 <!ENTITY detailsPane.less.accesskey "ნ">
-<!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტის საჩვენებლად და პარამეტრების რედაქტირებისთვის">
+<!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად">
 
 <!ENTITY view.label               "ხედი">
 <!ENTITY view.accesskey           "ხ">
