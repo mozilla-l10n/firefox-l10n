@@ -423,7 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "ส่วนขยาย:">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการปรับปรุงประสบการณ์การค้นหาของคุณด้วยคำแนะนำหรือไม่?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการปรับปรุงประสบการณ์การค้นหาของคุณด้วยข้อเสนอแนะหรือไม่?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ร">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
