@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; პროგრამის შესახებ">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; ექსპერიმენტული და შესაძლოა არასტაბილურიცაა.">
-<!ENTITY aboutPage.telemetryStart               " იგი ავტომატურად უბრუნებს ინფორმაციას წარმადობის, კომპიუტერის, მოხმარებისა და მორგების შესახებ ">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; საცდელი ვერსიაა და შესაძლოა არამდგრადად იმუშაოს.">
+<!ENTITY aboutPage.telemetryStart               " იგი ავტომატურად უგზავნის ინფორმაციას წარმადობის, აპარატურის, მორგებისა და გამოყენების შესახებ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;-ს">
 <!ENTITY aboutPage.telemetryEnd                 " რათა &brandShortName; უკეთესი გახდეს.">
 <!ENTITY aboutPage.checkForUpdates.link         "შემოწმება განახლებებზე »">

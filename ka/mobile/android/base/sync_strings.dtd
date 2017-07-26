@@ -29,10 +29,10 @@
 <!ENTITY sync.default.client.name '&formatS1; &formatS2; მოწყობილობაზე '>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'სანიშნეთა მენიუ'>
+<!ENTITY bookmarks.folder.menu.label 'სანიშნეების მენიუ'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'ჭდეები'>
-<!ENTITY bookmarks.folder.toolbar.label 'სანიშნეთა პულტი'>
+<!ENTITY bookmarks.folder.toolbar.label 'სანიშნეების ხელსაწყოები'>
 <!ENTITY bookmarks.folder.other.label 'სხვა სანიშნეები'>
 <!ENTITY bookmarks.folder.desktop.label 'კომპიუტერის სანიშნეები'>
 <!ENTITY bookmarks.folder.mobile.label 'მობილურის სანიშნეები'>
