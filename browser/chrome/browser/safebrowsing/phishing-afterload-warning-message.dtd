@@ -15,7 +15,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "მ">
 <!ENTITY safeb.palm.reportPage.label "რატომაა ამ გვერდზე შესვლა აკრძალული?">
 
-<!ENTITY safeb.blocked.malwarePage.title "ეს გვერდი მიჩნეულია მოიერიშედ!">
+<!ENTITY safeb.blocked.malwarePage.title "გვერდი მიჩნეულია მოიერიშედ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ვებ-გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ პირად მონაცემებს, იყენებენ თქვენს კომპიუტერს სხვებისთვის შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე პროგრამებს, თუმცა ბევრი საიტი გატეხილიც შეიძლება იყოს და მათი მფლობელების ნებართვის გარეშე მოქმედებდეს.</p>">
