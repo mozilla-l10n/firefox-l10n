@@ -176,7 +176,7 @@
 <!ENTITY pref_category_search_summary2 "დამატება, ნაგულისხმევად დაყენება, შემოთავაზებების ჩვენება">
 <!ENTITY pref_category_accessibility "დამხმარე საშუალებები">
 <!ENTITY pref_category_accessibility_summary2 "ტექსტის ზომა, მასშტაბი, ხმოვანი შეყვანა">
-<!ENTITY pref_category_privacy_short "პრივატულობა">
+<!ENTITY pref_category_privacy_short "პირადულობა">
 <!ENTITY pref_category_privacy_summary4 "თვალთვალი, შესვლები, მონაცემთა არჩევანი">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName;-იშ შესახენ. ხდკ, უკუკავშირი">
@@ -240,7 +240,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "საერთო">
 <!ENTITY pref_header_search "ძიება">
-<!ENTITY pref_header_privacy_short "პრივატულობა">
+<!ENTITY pref_header_privacy_short "პირადულობა">
 <!ENTITY pref_header_accessibility "დამხმარე საშუალებები">
 <!ENTITY pref_header_notifications "ცნობები">
 <!ENTITY pref_header_advanced "დამატებითი">
@@ -304,7 +304,7 @@
 
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
 <!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტების ინსტენსიური ბლოკვა, რათა თქვენ არ იდარდოთ.">
-<!ENTITY tracking_protection_prompt_tip_text "მეტის გასაგებად ეწვიეთ პრივატულობის პარამეტრებს">
+<!ENTITY tracking_protection_prompt_tip_text "მეტის გასაგებად ეწვიეთ პირადი მონაცემების პარამეტრებს">
 <!ENTITY tracking_protection_prompt_action_button "გასაგებია!">
 
 <!ENTITY tab_queue_toast_message3 "ჩანართი შეინახა &brandShortName;-ში">
