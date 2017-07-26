@@ -262,7 +262,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "სურათების ჩვენება">
 <!ENTITY pref_tap_to_load_images_enabled "ყოველთვის">
 <!ENTITY pref_tap_to_load_images_data "მხოლოდ Wi-Fi-თ">
-<!ENTITY pref_tap_to_load_images_disabled2 "დაბლოკილი">
+<!ENTITY pref_tap_to_load_images_disabled2 "შეზღუდულია">
 
 <!ENTITY pref_show_web_fonts "ვებ-შრიფტების ჩვენება">
 <!ENTITY pref_show_web_fonts_summary2 "დისტანციური შრიფტების ჩამოტვირთვა გვერდის ჩატვირთვისას">
@@ -303,7 +303,7 @@
 <!ENTITY pref_activity_stream_summary "ისტორიის მდიდარი ვიზუალური ლენტი და საშინაო გვერდის განახლებული ხედი გეხმარებათ, &brandShortName;-ში უფრო მარტივად იპოვოთ ის, რასაც ეძებთ.">
 
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
-<!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტების ინსტენსიური ბლოკვა, რათა თქვენ არ იდარდოთ.">
+<!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტები იზღუდება მუდმივად, ასე რომ, შეგიძლიათ არ იდარდოთ.">
 <!ENTITY tracking_protection_prompt_tip_text "მეტის გასაგებად ეწვიეთ პირადი მონაცემების პარამეტრებს">
 <!ENTITY tracking_protection_prompt_action_button "გასაგებია!">
 
@@ -659,8 +659,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "ეს &brandShortName;-ის დაცული გვერდია">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსი დაბლოკა.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName;-მა ამ გვერდზე გარკვეული დაუცველი შიგთავსი დაბლოკა.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსი შეზღუდა.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName;-მა ამ გვერდზე დაუცველი შიგთავსის ნაწილი შეზღუდა.">
 <!ENTITY mixed_content_display_loaded1 "ამ გვერდის ნაწილები დაუცველია (მაგალითად სურათები).">
 <!ENTITY mixed_content_protection_disabled1 "თქვენ ამ გვერდზე დაუცველი სიგთავსისგან დაცვა გამორთეთ.">
 
@@ -668,7 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "თვალთვალისგან დაცვა">
 <!ENTITY doorhanger_tracking_state_enabled "ჩართული">
 <!ENTITY doorhanger_tracking_state_disabled "გამორთული">
-<!ENTITY doorhanger_tracking_message_enabled1 "ინტერნეტში თქვენი მოქმედების თვალთვალის მცდელობა დაიბლოკა.">
+<!ENTITY doorhanger_tracking_message_enabled1 "ინტერნეტში თქვენს მოქმედებებზე თვალთვალის მცდელობა აღიკვეთა.">
 <!ENTITY doorhanger_tracking_message_disabled2 "ეს გვერდი შეიცავს ელემენტებს, რომელთაც შესაძლოა გითვალთვალონ.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -677,7 +677,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "დაცვის ამორთვა">
 
 <!ENTITY private_data_success "პირადი მონაცემები გასუფთავდა">
-<!ENTITY private_data_fail "ზოგი პირადი მონაცემების გასუფთავება ვერ ხერხდება">
+<!ENTITY private_data_fail "ზოგიერთი პირადი მონაცემის გასუფთავება ვერ ხერხდება">
 
 <!ENTITY bookmarkhistory_button_import "იმპორტი">
 <!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის გადმოტანა
@@ -774,7 +774,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "გამოხვალთ პირადი დათვალიერებიდან?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "გსურთ, პირადი თვალიერების რეჟიმის დატოვება?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -789,7 +789,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "დამატებები">
 <!ENTITY restrictable_feature_addons_installation_description "დაამატეთ ფუნქციები და შესაძლებლობები Firefox-ს. შენიშვნა: დამატებებს გარკვეული შეზღუდვების გამორთვა ძალუძთ.">
-<!ENTITY restrictable_feature_private_browsing "პირადი დათვალიერება">
+<!ENTITY restrictable_feature_private_browsing "პირადი თვალიერების რეჟიმი">
 <!ENTITY restrictable_feature_private_browsing_description "ოჯახის წევრებს საშულაებას აძლევს დაათვალიერონ ინტერნეტი მათ მიერ მონახულებული საიტების და გვერდების შენახვის გარეშე.">
 <!ENTITY restrictable_feature_clear_history "ისტორიის გასუფთავება">
 <!ENTITY restrictable_feature_clear_history_description "ოჯახის წევრებს მათ მიერ მონახულებული საიტების და გვერდების შესახებ ინფორმაციის წაშლის საშუალებას აძლევს.">
