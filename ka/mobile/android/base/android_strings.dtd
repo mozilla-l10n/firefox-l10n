@@ -797,8 +797,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "ეს შეიცავს სანიშნეების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
 <!ENTITY restrictable_feature_camera_microphone "კამერა და მიკროფონი">
 <!ENTITY restrictable_feature_camera_microphone_description "ოჯახის წევრებს ვებ-საიტებზე რეალური დროის კომუნიკაციის საშუალებას აძლევს.">
-<!ENTITY restrictable_feature_block_list "დაბლოკილი სია">
-<!ENTITY restrictable_feature_block_list_description "ვებ-საიტების დაბლოკვა, რომლებიც მგრძნობიარე შიგთავსს შეიცავენ.">
+<!ENTITY restrictable_feature_block_list "შეზღუდულთა სია">
+<!ENTITY restrictable_feature_block_list_description "ვებ-საიტების შეზღუდვა, რომლებიც პირად მონაცემებს შეიცავენ.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
