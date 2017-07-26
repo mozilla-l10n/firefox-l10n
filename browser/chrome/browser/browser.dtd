@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з сваіх іншых прылад.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Даслаць на прыладу">
 <!ENTITY sendToDevice.viewTitle "Даслаць на прыладу">
-<!ENTITY sendToDevice.fxaRequired.label "Патрабуецца">
-<!ENTITY sendToDevice.noDevices.label "Няма даступных прылад">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">

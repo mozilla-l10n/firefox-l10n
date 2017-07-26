@@ -16,6 +16,8 @@
 <!ENTITY engine.prefs.accesskey     "Н">
 <!ENTITY engine.addons.label        "Дадаткі">
 <!ENTITY engine.addons.accesskey    "Д">
+<!ENTITY engine.addresses.label     "Адрасы">
+<!ENTITY engine.creditcards.label   "Крэдытныя карты">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Назва прылады">
