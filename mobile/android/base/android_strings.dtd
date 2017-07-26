@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 
 <!ENTITY firstrun_urlbar_message "ยินดีต้อนรับสู่ &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยทางลัดคำแนะนำการค้นหาที่เป็นประโยชน์">
+<!ENTITY firstrun_urlbar_subtext "ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยทางลัดข้อเสนอแนะการค้นหาที่เป็นประโยชน์">
 <!ENTITY firstrun_bookmarks_title "ประวัติ">
 <!ENTITY firstrun_bookmarks_message "รายการโปรดของคุณ เด่นชัดในทุกที่">
 <!ENTITY firstrun_bookmarks_subtext "รับผลลัพธ์จากที่คั่นหน้าและประวัติของคุณเมื่อคุณค้นหา">
@@ -173,7 +173,7 @@
 <!ENTITY overlay_no_synced_devices "ไม่พบอุปกรณ์ที่เชื่อมต่อกับบัญชี Firefox">
 
 <!ENTITY pref_category_search3 "ค้นหา">
-<!ENTITY pref_category_search_summary2 "เพิ่ม, ตั้งค่าเริ่มต้น, แสดงคำแนะนำ">
+<!ENTITY pref_category_search_summary2 "เพิ่ม, ตั้งค่าเริ่มต้น, แสดงข้อเสนอแนะ">
 <!ENTITY pref_category_accessibility "การช่วยเข้าถึง">
 <!ENTITY pref_category_accessibility_summary2 "ขนาดตัวอักษร, ซูม, การรับค่าด้วยเสียง">
 <!ENTITY pref_category_privacy_short "ความเป็นส่วนตัว">
@@ -386,7 +386,7 @@
 <!ENTITY pref_use_master_password "ใช้รหัสผ่านหลัก">
 <!ENTITY pref_sync2 "ลงชื่อเข้า">
 <!ENTITY pref_sync_summary2 "ซิงค์แท็บ, ที่คั่นหน้า, การเข้าสู่ระบบ และประวัติของคุณ">
-<!ENTITY pref_search_suggestions "แสดงคำแนะนำการค้นหา">
+<!ENTITY pref_search_suggestions "แสดงข้อเสนอแนะการค้นหา">
 <!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_options "ตัวเลือกการนำเข้า">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเบราว์เซอร์ในเครื่อง">
@@ -685,7 +685,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "กำลังนำเข้าประวัติจาก Android">
 <!ENTITY bookmarkhistory_import_wait "โปรดรอ...">
 
-<!ENTITY suggestions_prompt3 "คุณต้องการเปิดคำแนะนำการค้นหาหรือไม่?">
+<!ENTITY suggestions_prompt3 "คุณต้องการเปิดข้อเสนอแนะการค้นหาหรือไม่?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
