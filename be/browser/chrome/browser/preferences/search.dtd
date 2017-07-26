@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Прадвызначаны пашукавік">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Выберыце прадвызначаную пошукавую сістэму для выкарыстання ў адрасным радку і панэлі пошуку.">
 
 <!ENTITY provideSearchSuggestions.label        "Паказваць пошукавыя прапановы">
 <!ENTITY provideSearchSuggestions.accesskey    "ы">
