@@ -28,4 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Proteccion contra lo seguiment">
+<!ENTITY trackingProtection.description2                 "De sites web utilizan de traçaires que pòdon seguir la vòstra activitat sus internet. Amb la proteccion contra los traçaires, Firefox blocarà mantuns traçaires que pòdon collectar d'informacions sul vòstre comportament de navigacion.">
 <!ENTITY trackingProtection.startTour1                   "Cossí fonciona ?">
