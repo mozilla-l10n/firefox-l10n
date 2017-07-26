@@ -264,6 +264,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Ripristina la sessione precedente">
 <!ENTITY appMenuHistory.viewSidebar.label "Visualizza barra laterale cronologia">
+<!ENTITY appMenuHistory.recentHistory.label "Cronologia recente">
 <!ENTITY appMenuHelp.label "Aiuto">
 <!ENTITY appMenuHelp.tooltip "Apri la guida">
 <!ENTITY appMenuRemoteTabs.label "Schede sincronizzate">
