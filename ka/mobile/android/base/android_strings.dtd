@@ -67,16 +67,16 @@
 
 <!ENTITY bookmark "სანიშნე">
 <!ENTITY bookmark_remove "სანიშნის ამოღება">
-<!ENTITY bookmark_added "სანიშნე დაემატა">
+<!ENTITY bookmark_added "სანიშნე დამატებულია">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "უკვე ჩანიშნულია">
-<!ENTITY bookmark_removed "სანიშნე ამოღებული">
-<!ENTITY bookmark_updated "სანიშნე განახლდა">
+<!ENTITY bookmark_removed "სანიშნე ამოღებულია">
+<!ENTITY bookmark_updated "სანიშნე განახლებულია">
 <!ENTITY bookmark_options "პარამეტრები">
 <!ENTITY bookmark_save "შენახვა">
-<!ENTITY screenshot_added_to_bookmarks "ანაბეჭდი დაემატა სანიშნეებს">
+<!ENTITY screenshot_added_to_bookmarks "ეკრანის სურათი დაემატა სანიშნეებში">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -87,7 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ელემენტი">
 <!ENTITY bookmark_folder_one_item "1 ელემენტი">
-<!ENTITY bookmark_parent_folder "ზედა საქაღალდე">
+<!ENTITY bookmark_parent_folder "საქაღალდე">
 <!ENTITY bookmark_add_folder "ახალი საქაღალდის დამატება">
 
 <!ENTITY reader_saved_offline "შენახულია კავშირგარეშე">
@@ -389,7 +389,7 @@
 <!ENTITY pref_search_suggestions "ძიების შემოთავაზების ჩვენება">
 <!ENTITY pref_history_search_suggestions "ძიების ისტორიის ჩვენება">
 <!ENTITY pref_import_options "შემოტანის პარამეტრები">
-<!ENTITY pref_import_android_summary "შემოიტანეთ სანიშნეები და ისტორია თქვენი ადგილობრივი ბრაუზერიდან">
+<!ENTITY pref_import_android_summary "გადმოიტანეთ სანიშნეები და ისტორია სხვა ბრაუზერებიდან">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "გახსნილი ჩანართები">
@@ -472,12 +472,12 @@
 <!ENTITY save_as_pdf "შენახვა PDF ფორმატში">
 <!ENTITY print "დაბეჭდვა">
 <!ENTITY find_in_page "პოვნა გვერდზე">
-<!ENTITY desktop_mode "საიტის სული ვერსია">
+<!ENTITY desktop_mode "საიტის სრული ვერსია">
 <!ENTITY page "გვერდი">
 <!ENTITY tools "ხელსაწყოები">
 <!ENTITY new_tab "ახალი ჩანართი">
 <!ENTITY new_private_tab "ახალი პირადი ჩანართი">
-<!ENTITY close_all_tabs "ყველა ჩანართის დახურვა">
+<!ENTITY close_all_tabs "ყველას დახურვა">
 <!ENTITY close_private_tabs "პირადი ჩანართების დახურვა">
 <!ENTITY tabs_normal "დაფები">
 <!ENTITY tabs_private "პირადი">
@@ -547,7 +547,7 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "გვერდი ამოიშალა">
 
-<!ENTITY bookmark_edit_title "სანიშნეს რედაქტირება">
+<!ENTITY bookmark_edit_title "სანიშნის ჩასწორება">
 <!ENTITY bookmark_edit_name "სახელი">
 <!ENTITY bookmark_edit_location "მისამართი">
 <!ENTITY bookmark_edit_keyword "საკვანძო სიტყვა">
@@ -680,9 +680,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "ზოგი პირადი მონაცემების გასუფთავება ვერ ხერხდება">
 
 <!ENTITY bookmarkhistory_button_import "იმპორტი">
-<!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის იმპორტი
+<!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის გადმოტანა
                                       Android-იდან">
-<!ENTITY bookmarkhistory_import_bookmarks "სანიშნეების იმპორტი
+<!ENTITY bookmarkhistory_import_bookmarks "სანიშნეების გადმოტანა
                                            Android-იდან">
 <!ENTITY bookmarkhistory_import_history "ისტორიის იმპორტი
                                          Android-იდან">
