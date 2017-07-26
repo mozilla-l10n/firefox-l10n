@@ -50,16 +50,16 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "ნაჩვენებია კავშირგარეშე ვერსია">
 
-<!ENTITY  crash_reporter_title "&brandShortName; პრობლემის პატაკი">
+<!ENTITY  crash_reporter_title "&brandShortName; ავარიული დახურვის მომხსენებელი">
 <!ENTITY  crash_message2 "&brandShortName; მუშაობა შეწყდა. თქვენი დაფები &brandShortName;-ის ხელახლა გახსნისას საწყის გვერდზე უნდა აისახოს.">
 <!ENTITY  crash_send_report_message3 "აცნობეთ &vendorShortName;-ს ამ პრობლემის შესახებ">
 <!ENTITY  crash_include_url2 "თან დაერთოს გვერდის მისამართი, რომელზეც ვიყავი">
 <!ENTITY  crash_sorry "ძალიან ვწუხვართ">
 <!ENTITY  crash_comment "კომენტარის დამატება (ხილულია საზოგადოდ)">
-<!ENTITY  crash_allow_contact2 "ნებართვა &vendorShortName;-ს დამიკავშირდეს ამ პატაკის შესახებ">
+<!ENTITY  crash_allow_contact2 "ნების დართვა &vendorShortName;-სთვის გამომეხმაუროს მოხსენების შესახებ">
 <!ENTITY  crash_email "თქვენი ელფოსტა">
-<!ENTITY  crash_closing_alert "გამოვიდე შეცდომის პატაკის გაგზავნის გარეშე?">
-<!ENTITY  sending_crash_report "შეცდომის პატაკის გაგზავნა\u2026">
+<!ENTITY  crash_closing_alert "გსურთ გამოსვლა, ავარიული დახურვის მოხსენების გადაგზავნის გარეშე?">
+<!ENTITY  sending_crash_report "ავარიული დახურვის მოხსენება იგზავნება\u2026">
 <!ENTITY  crash_close_label "დახურვა">
 <!ENTITY  crash_restart_label "&brandShortName; გადატვირთვა">
 
@@ -437,15 +437,15 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; დიაგნოსტიკა">
+<!ENTITY datareporting_fhr_title "&brandShortName; გამართულობის შესახებ მოხსენება">
 <!ENTITY datareporting_fhr_summary2 "მონაცემთა გაზიარება &vendorShortName;-სთან თქვენი ბრაუზერის შესახებ მისი წარმადობის გაგებაში დაგეხმარებათ">
-<!ENTITY datareporting_abouthr_title "ჩემი პატაკის ჩვენება">
+<!ENTITY datareporting_abouthr_title "წარმადობის მოხსენების ნახვა">
 <!ENTITY datareporting_telemetry_title "ტელემეტრია">
 <!ENTITY datareporting_telemetry_summary "გაუზიარებს წარმადობის, გამოყენების, მოწყობილობის, და პარამეტრების მონაცემებს &vendorShortName;-ს, რათა &brandShortName; ბრაუზერი კიდევ უფრო დაიხვეწოს">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; შეცდომის პატაკს გაგზავნის, რათა &vendorShortName;-მ იგი კიდევ უფრო სტაბილური და უსაფრთხო გახადოს">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; აგზავნის ავარიული დახურვის მოხსენებებს, რაც &vendorShortName;-ს თქვენი ბრაუზერის მდგრადობის და უსაფრთხოების გაუმჯობესებაში ეხმარება.">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "შეცდომების მოპატაკე">
+<!ENTITY datareporting_crashreporter_title_short "ავარიული დახურვის მომხსენებელი">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; მდებარეობის სერვისი">
 <!ENTITY datareporting_wifi_geolocation_summary4 "დაეხმარე &vendorShortName;-ს მსოფლიოს დაგეგმარებაში! გააზიარეთ თქვენი მოწყობილობის მიახლოებითი Wi-Fi და მობილური მდებარეობა ჩვენი გეოლოკაციის მომსახურების გასაუმჯობესებლად.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
