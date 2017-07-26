@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL-ն պատճենվել է">
 
-
+<!ENTITY pref_pwa "Առաջադիմական վեբ հավելվածներ">
+<!ENTITY pref_pwa_summary "Թույլատրել վեբ հավելվածներին ավելացվել տուն էկրանին">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Ակտիվության հոսք">
@@ -623,6 +624,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ցուցադրել նշված սարքերը">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Գամված կայք">
+<!ENTITY home_unpinned_site "Ապագամված կայք">
 
 <!ENTITY remote_tabs_panel_moved_title "Որտե՞ղ են իմ ներդիրները:">
 <!ENTITY remote_tabs_panel_moved_desc "Մենք տեղափոխել եք ձեր ներդիրները այլ սարքերից մեկնարկային էջի վահանակ՝ ամեն անգամնոր ներդիր բացելիս դրանց արագ մուտք ունենալու համար: ">
