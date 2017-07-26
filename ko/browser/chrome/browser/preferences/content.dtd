@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "팝업">
+<!ENTITY  permissions.label           "권한">
 
 <!ENTITY  blockPopups.label           "팝업 창 차단">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "알림">
 <!ENTITY  notificationsPolicyLearnMore.label   "자세히 보기">
 <!ENTITY  notificationsPolicyDesc3.label       "알림 전송이 허용된 사이트 선택">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "언어">
+<!ENTITY language2.label              "언어">
 <!ENTITY chooseLanguage.label         "웹 페이지를 표시할 선호 언어 선택">
 <!ENTITY chooseButton.label           "선택…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -53,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "번역: ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM 콘텐츠">
+<!ENTITY  drmContent2.label              "디지털 권리 관리(DRM) 콘텐츠">
 
-<!ENTITY  playDRMContent.label         "DRM 콘텐츠 재생">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent2.label          "DRM 제어 콘텐츠 재생">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "더 알아보기">
