@@ -27,7 +27,7 @@
 
 <!ENTITY searchTextBox.clear.label "გასუფთავება">
 
-<!ENTITY fillLoginMenu.label          "შესვლის შევსება">
+<!ENTITY fillLoginMenu.label          "შესვლის მონაცემების შევსება">
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "პაროლის შევსება">
 <!ENTITY fillPasswordMenu.accesskey   "F">

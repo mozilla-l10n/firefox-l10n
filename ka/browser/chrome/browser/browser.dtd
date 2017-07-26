@@ -292,7 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "ფ">
 <!ENTITY newNonRemoteWindow.label   "ერთპროცესიანი ფანჯარა">
 
-<!ENTITY editMenu.label         "რედაქტირება"> 
+<!ENTITY editMenu.label         "ჩასწორება"> 
 <!ENTITY editMenu.accesskey       "რ"> 
 <!ENTITY undoCmd.label            "დაბრუნება">  
 <!ENTITY undoCmd.key            "Z">  
@@ -988,6 +988,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "მოწყობილობაზე გაგზავნა">
 <!ENTITY sendToDevice.viewTitle "მოწყობილობაზე გაგზავნა">
-<!ENTITY sendToDevice.fxaRequired.label "აუცილებელია">
-<!ENTITY sendToDevice.noDevices.label "მოწყობილობები არაა ხელმისაწვდომი">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
