@@ -203,6 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Mostrar la notificacion">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Mostrar la demanda de geolocalizacion">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerir l'utilizacion dels moduls complementaris">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Lo navigador es contrarotlat a distància">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
@@ -267,6 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fichièr"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "Onglet contèxtual novèl">
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -377,6 +379,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Desplaçar cap al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Penjar al menú de desbordament">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Levar del menú de desbordament">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Levar de la barra d'aisinas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Levar del menú">
@@ -396,6 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Extension :">
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Volètz melhorar lo biais de far de recercas amb de suggestions ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ne saber mai…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
@@ -705,8 +712,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
+<!ENTITY identity.disableMixedContentBlocking.label "Desactivar la proteccion per ara">
 <!ENTITY identity.learnMore "Ne saber mai">
 
+<!ENTITY identity.removeCertException.label "Suprimir l'excepcion">
 
 <!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
 
@@ -816,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
+<!ENTITY trackingContentBlocked.disabled.message "La proteccion de traçatge es desactivada">
 
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
@@ -864,7 +874,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Actualizatz vòstre &brandShorterName; per obténer las darrièras melhorament sus la velocitat e la vida privada.">
 <!ENTITY updateAvailable.whatsnew.label "Descobrissètz las novetats.">
+<!ENTITY updateAvailable.header.message "Una nòva mesa a jorn de &brandShorterName; es disponibla.">
 <!ENTITY updateAvailable.acceptButton.label "Telecargar la mesa a jorn">
 <!ENTITY updateAvailable.cancelButton.label "Pas ara">
 <!ENTITY updateAvailable.panelUI.label "Telecargar la mesa a jorn de &brandShorterName;">
@@ -872,9 +884,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.whatsnew.label "Descobrissètz las novetats.">
 <!ENTITY updateManual.acceptButton.label "Telecargar &brandShorterName;">
 <!ENTITY updateManual.cancelButton.label "Pas ara">
+<!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Après una reaviada rapida, &brandShorterName; restablirà l’ensemble de vòstras fenèstras e onglets dobèrts.">
+<!ENTITY updateRestart.header.message2 "Tornatz aviar per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
 <!ENTITY updateRestart.cancelButton.label "Pas ara">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 
+<!ENTITY sendToDevice.label2 "Enviar a un periferic">
+<!ENTITY sendToDevice.viewTitle "Enviar a un periferic">
+<!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
