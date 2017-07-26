@@ -6,12 +6,12 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "เลือกเครื่องมือค้นหาเริ่มต้นของคุณ &brandShortName; ใช้ในแถบตำแหน่งที่ตั้ง, แถบค้นหา และหน้าเริ่มต้น">
 
-<!ENTITY provideSearchSuggestions.label        "ให้คำแนะนำการค้นหา">
+<!ENTITY provideSearchSuggestions.label        "ให้ข้อเสนอแนะการค้นหา">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "แสดงผลลัพธ์คำแนะนำการค้นหาในแถบตำแหน่งที่ตั้ง">
+<!ENTITY showURLBarSuggestions.label           "แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบตำแหน่งที่ตั้ง">
 <!ENTITY showURLBarSuggestions.accesskey       "ถ">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "คำแนะนำการค้นหาจะไม่แสดงผลลัพธ์ในแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
 
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 

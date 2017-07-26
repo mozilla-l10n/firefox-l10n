@@ -6,11 +6,11 @@
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา">
 
-<!ENTITY provideSearchSuggestions.label        "ให้คำแนะนำการค้นหา">
+<!ENTITY provideSearchSuggestions.label        "ให้ข้อเสนอแนะการค้นหา">
 <!ENTITY provideSearchSuggestions.accesskey    "ค">
 
-<!ENTITY showURLBarSuggestions2.label           "แสดงคำแนะนำการค้นหาในผลลัพธ์ของแถบที่อยู่">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "คำแนะนำการค้นหาจะไม่แสดงผลลัพธ์ในแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
+<!ENTITY showURLBarSuggestions2.label           "แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบที่อยู่">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
 
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
 
