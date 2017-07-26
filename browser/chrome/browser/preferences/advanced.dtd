@@ -32,6 +32,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Даведацца больш">
 
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Дазволіць &brandShortName; адпраўляць справаздачы пра падзенні ў Mozilla">
 <!ENTITY crashReporterLearnMore.label    "Даведацца больш">
 
 <!ENTITY networkTab.label                "Сетка">
