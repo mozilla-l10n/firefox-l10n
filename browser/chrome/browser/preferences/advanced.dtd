@@ -18,7 +18,7 @@
 <!ENTITY checkUserSpelling.accesskey "v">
 <!ENTITY dataChoicesTab.label "Elección de datos">
 <!ENTITY healthReportingDisabled.label "La recopilación de datos está deshabilitada en esta configuración de compilación">
-<!ENTITY enableHealthReport1.label "Permitir a &brandShortName; enviar automáticamente datos técnicosy de interacción a Mozilla">
+<!ENTITY enableHealthReport1.label "Permitir a &brandShortName; enviar automáticamente datos técnicos y de interacción a Mozilla">
 <!ENTITY enableHealthReport1.accesskey "r">
 <!ENTITY healthReportLearnMore.label "Saber más">
 <!ENTITY dataCollection.label "Recopilación y uso de datos de &brandShortName;">
