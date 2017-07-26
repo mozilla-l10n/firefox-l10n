@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Søgeresultater">
 <!ENTITY  paneGeneral.title             "Generelt">
+<!ENTITY  paneSearch.title              "Søgning">
 <!ENTITY  paneFilesApplications.title   "Filer &amp; programmer">
 <!ENTITY  panePrivacySecurity.title     "Privatliv &amp; sikkerhed">
 <!ENTITY  paneContainers.title          "Kontekst-faneblade">
 <!ENTITY  paneUpdates.title             "Opdateringer">
 
+<!ENTITY  languageAndAppearance.label   "Sprog og udseende">
+<!ENTITY  filesAndApplications.label    "Filer og programmer">
+<!ENTITY  browserPrivacy.label          "Privatlivsbeskyttelse">
+
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-konto">
 
 <!ENTITY  helpButton2.label        "Hjælp til &brandShortName;">
-
-<!ENTITY  searchInput.label        "Søg">

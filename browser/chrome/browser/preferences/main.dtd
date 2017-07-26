@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Undersøg altid om &brandShortName; er din standardbrowser">
 <!ENTITY alwaysCheckDefault2.accesskey    "U">
-<!ENTITY setAsMyDefaultBrowser2.label     "Sæt som standard">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "Sæt som standard">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; er sat som din standardbrowser">
 <!ENTITY isNotDefault.label               "&brandShortName; er ikke din standardbrowser">
 
