@@ -443,6 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Recercar">
 <!ENTITY contentSearchSubmit.tooltip  "Mandar la recèrca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -491,6 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "o">
 <!ENTITY openFrameCmd.label           "Dobrir lo quadre dins una fenèstra novèla">
 <!ENTITY openFrameCmd.accesskey       "f">
+<!ENTITY openLinkCmdInContainerTab.label "Dobrir lo ligam dins un novèl onglet contèxtual">
 <!ENTITY showOnlyThisFrameCmd.label     "Dobrir lo quadre dins un onglet novèl">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -705,10 +707,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
+<!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
+<!ENTITY identity.connectionVerified2 "Sètz connectat amb seguretat a aquel site, proprietat de :">
+<!ENTITY identity.connectionInternal "Aquò es una pagina segura de &brandShortName;.">
+<!ENTITY identity.extensionPage "Aquela pagina es estada cargada dempuèi una extension.">
+<!ENTITY identity.insecureLoginForms2 "Los identificants marcats sus aquela pagina pòdon far perilh.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; a blocat d'elements pas segurs sus aquela pagina.">
+<!ENTITY identity.passiveLoaded "D'elements de la pagina son pas segurs (coma los imatges).">
+<!ENTITY identity.activeLoaded "Avètz desactivat la proteccion sus aquela pagina.">
+<!ENTITY identity.weakEncryption "Aquela pagina utiliza un chiframent flac.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "La vòstra connexion a aquel site es pas privada. Las informacions qu'enviatz pòdon èsser vistas per d’autres (coma per exemple los senhals, los messatges, las cartas de crèdit, etc.).">
+<!ENTITY identity.description.insecureLoginForms "Las informacions d’identificacion que marcatz sus aquela pagina son pas seguras e pòdon far perilh.">
+<!ENTITY identity.description.weakCipher "Vòstra connexion a aquel site web utiliza un chiframent flac e es pas privada.">
+<!ENTITY identity.description.weakCipher2 "D’autres pòdon accedir a vòstras informacions o modificar lo comportament del site web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; a blocat d'elements pas segurs sus aquela pagina.">
+<!ENTITY identity.description.passiveLoaded "Vòstra connexion es pas privada e las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres.">
+<!ENTITY identity.description.passiveLoaded2 "Aquel site ten de contenguts pas segurs (coma d'imatges).">
+<!ENTITY identity.description.passiveLoaded3 "Pasmens se &brandShortName; a blocat de contengut, demòra d'elements pas segurs sus la pagina (coma d'imatges).">
+<!ENTITY identity.description.activeLoaded "Aquel site web ten de contengut non segurs (coma d'scripts) e la connexion establida es pas privada.">
+<!ENTITY identity.description.activeLoaded2 "Las informacions que partejatz amb aquel site pòdon èsser vistas per d’autres (coma par exemple los senhals, los messatges, las cartas de crèdit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
@@ -778,6 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
 <!ENTITY customizeMode.done "Acabat">
 <!ENTITY customizeMode.titlebar "Barra de títol">
+<!ENTITY customizeMode.toolbars2 "Barras d’aisinas">
 <!ENTITY customizeMode.lwthemes "Tèmas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mos tèmas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomandats">
@@ -793,18 +815,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compacte">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacte">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tactil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tactil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilizatz lo tactil pel mòde tauleta">
 
 <!ENTITY getUserMedia.selectCamera.label "Webcam de partejar :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "L’àudio de l’onglet serà partejat.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon espiar vòstra navigacion. Avètz desactivat la proteccion.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -881,7 +912,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.label "Pas ara">
 <!ENTITY updateAvailable.panelUI.label "Telecargar la mesa a jorn de &brandShorterName;">
 
+<!ENTITY updateManual.message "Telecargatz una còpia novèla de &brandShorterName; e poirem vos guidar per l’installar.">
 <!ENTITY updateManual.whatsnew.label "Descobrissètz las novetats.">
+<!ENTITY updateManual.header.message "&brandShorterName; pòt pas èsser mes a jorn amb la version mai recenta.">
 <!ENTITY updateManual.acceptButton.label "Telecargar &brandShorterName;">
 <!ENTITY updateManual.cancelButton.label "Pas ara">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
@@ -889,7 +922,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.message "Après una reaviada rapida, &brandShorterName; restablirà l’ensemble de vòstras fenèstras e onglets dobèrts.">
 <!ENTITY updateRestart.header.message2 "Tornatz aviar per metre a jorn &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restablir">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Pas ara">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
 
