@@ -7,7 +7,7 @@
 <!ENTITY preferencesButton.label "Налады">
 <!ENTITY removeButton.label   "Выдаліць">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Вярнуцца да прыватнасці">
+<!ENTITY backLink2.label      "&#171; Вярнуцца">
 
 <!ENTITY window.title         "Дадаць новы кантэйнер">
 <!ENTITY window.width         "45em">

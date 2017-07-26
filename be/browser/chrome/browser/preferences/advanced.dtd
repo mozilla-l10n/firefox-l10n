@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Асноўныя">
 
-<!ENTITY accessibility.label             "Даступнасць">
-
 <!ENTITY useCursorNavigation.label       "Заўсёды ўжываць клавішы-стрэлкі для перамяшчэння ў старонках">
 <!ENTITY useCursorNavigation.accesskey   "с">
 <!ENTITY searchOnStartTyping.label       "Шукаць тэкст, калі вы пачынаеце набор">
 <!ENTITY searchOnStartTyping.accesskey   "ч">
-<!ENTITY blockAutoReload.label           "Папярэджваць, калі вэб-сайт спрабуе перанакіраваць ці перагрузіць старонку">
-<!ENTITY blockAutoReload.accesskey       "і">
 <!ENTITY useOnScreenKeyboard.label       "Паказваць экранную клавіятуру, калі неабходна">
 <!ENTITY useOnScreenKeyboard.accesskey   "л">
 
@@ -33,24 +29,14 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Адпраўка дадзеных адключана для гэтай канфігурацыі зборкі">
 
-<!ENTITY healthReportDesc.label          "Дапамагае зразумець, як працуе ваш браўзер, і адпраўляе дадзеныя аб яго працаздольнасці ў &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Дазволіць справаздачу пра стан &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "с">
 <!ENTITY healthReportLearnMore.label     "Даведацца больш">
 
-<!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
-<!ENTITY enableTelemetryData.accesskey   "т">
-<!ENTITY telemetryLearnMore.label        "Падрабязней">
 
-<!ENTITY crashReporterDesc2.label         "Справаздачы аб памылках дапамагаюць &vendorShortName; выпраўляць праблемы і рабіць ваш браўзер больш стабільным і бяспечным">
-<!ENTITY alwaysSubmitCrashReports.label   "Дазволіць &brandShortName; адпраўляць назапашаныя справаздачы аб памылках ад вашага імя">
-<!ENTITY alwaysSubmitCrashReports.accesskey "с">
-<!ENTITY crashReporterLearnMore.label     "Даведацца больш">
+<!ENTITY crashReporterLearnMore.label    "Даведацца больш">
 
 <!ENTITY networkTab.label                "Сетка">
 
-<!ENTITY connection.label                "Злучэнне">
+<!ENTITY networkProxy.label              "Проксі-сервер">
 
 <!ENTITY connectionDesc.label            "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
 <!ENTITY connectionSettings.label        "Налады…">
@@ -115,8 +101,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Аўтаматычна абнаўляць пашукавікі">
 <!ENTITY enableSearchUpdate2.accesskey   "а">
-
-<!ENTITY reports.label                   "Справаздачы">
 
 <!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага выкарыстання">
 <!ENTITY offlineStorageNotify.accesskey           "П">
