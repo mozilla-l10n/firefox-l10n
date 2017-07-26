@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Generelt">
 
-<!ENTITY accessibility.label             "Tilgængelighed">
-
 <!ENTITY useCursorNavigation.label       "Brug altid markør og tastatur til at navigere på sider">
 <!ENTITY useCursorNavigation.accesskey   "m">
 <!ENTITY searchOnStartTyping.label         "Begynd søgning mens du taster">
 <!ENTITY searchOnStartTyping.accesskey     "s">
-<!ENTITY blockAutoReload.label          "Advar mig når sider forsøger at viderestille eller genindlæse siden">
-<!ENTITY blockAutoReload.accesskey      "r">
 <!ENTITY useOnScreenKeyboard.label       "Vis et berørings-tastatur, når det er nødvendigt">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -28,24 +24,26 @@
 
 <!ENTITY dataChoicesTab.label            "Datadeling">
 
-<!ENTITY healthReportDesc.label          "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Aktiver &brandShortName; sundhedsrapport">
-<!ENTITY enableHealthReport.accesskey    "s">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Data-rapportering er deaktiveret for denne build-konfiguration">
+
+<!ENTITY enableHealthReport1.label       "Tillad at &brandShortName; automatisk indsender tekniske data og data om brug til Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "d">
 <!ENTITY healthReportLearnMore.label     "Læs mere">
 
-<!ENTITY telemetryDesc.label             "Deler browserdata om ydelse, brug, hardware og tilpasninger med &vendorShortName; for at hjælpe os med at gøre &brandShortName; bedre">
-<!ENTITY enableTelemetryData.label       "Del yderligere data (dvs. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Læs mere">
+<!ENTITY dataCollection.label            "Indsamling og brug af data i &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre &brandShortName; for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Privatlivspolitik">
 
-<!ENTITY crashReporterDesc2.label         "Fejlrapporter hjælper &vendorShortName; med at gøre din browser mere stabil og sikker">
-<!ENTITY alwaysSubmitCrashReports.label   "Tillad at &brandShortName; sender ophobede fejlrapporter på dine vegne">
-<!ENTITY alwaysSubmitCrashReports.accesskey "f">
+<!ENTITY alwaysSubmitCrashReports1.label   "Tillad at &brandShortName; sender fejlrapporter til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "f">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
 
 <!ENTITY networkTab.label                "Netværk">
 
-<!ENTITY connection.label                "Forbindelse">
+<!ENTITY networkProxy.label              "Netværks-proxy">
 
 <!ENTITY connectionDesc.label            "Konfigurer hvordan &brandShortName; forbinder til internettet">
 <!ENTITY connectionSettings.label        "Indstillinger…">
@@ -81,6 +79,10 @@
 
 <!ENTITY updateTab.label                 "Opdateringer">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label          "&brandShortName;-opdateringer">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -88,11 +90,13 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Hold &brandShortName; opdateret for at få den bedste ydelse, stabilitet og sikkerhed.">
 <!ENTITY updateApplication.version.pre   "Version ">
 <!ENTITY updateApplication.version.post  ".">
 <!ENTITY updateApplication.description   "&brandShortName; skal">
-<!ENTITY updateAuto2.label                "installere opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
-<!ENTITY updateAuto2.accesskey            "A">
+<!ENTITY updateAuto3.label                "installere opdateringer automatisk (anbefalet)">
+<!ENTITY updateAuto3.accesskey            "A">
 <!ENTITY updateCheckChoose2.label         "søge efter opdateringer, men lad mig vælge, om de skal installeres">
 <!ENTITY updateCheckChoose2.accesskey     "S">
 <!ENTITY updateManual2.label              "aldrig søge efter opdateringer (frarådes)">
@@ -106,8 +110,6 @@
 
 <!ENTITY enableSearchUpdate2.label        "opdatere søgetjenester automatisk">
 <!ENTITY enableSearchUpdate2.accesskey    "g">
-
-<!ENTITY reports.label                   "Rapporter">
 
 <!ENTITY offlineStorageNotify.label               "Fortæl mig når et websted ønsker at lagre data til brug offline">
 <!ENTITY offlineStorageNotify.accesskey           "o">
