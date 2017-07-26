@@ -36,7 +36,7 @@
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "შეცვლა">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "გადართვა">
+<!ENTITY toggle.label "ჩამრთველი">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "აღდგენა">
 <!ENTITY reset.accesskey "R">
