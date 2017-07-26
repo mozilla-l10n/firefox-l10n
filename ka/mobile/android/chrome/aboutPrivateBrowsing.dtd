@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "პირადი სეანსი">
+<!ENTITY privatebrowsingpage.title "პირადი თვალიერების რეჟიმი">
 
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
@@ -19,7 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "პირადი დათვალიერების დროს ჩვენ არ შევინახავთ თქვენს დათვალიერების ისტორიას ან ფუნთუშებს. თუმცა თქვენ მიერ ჩანიშნული გვერდები და ჩამოტვირთული ფაილები მაინც შეინახება.">
+<!ENTITY privatebrowsingpage.description.normal2 "პირადი დათვალიერების დროს არ შეინახება მონახულებული გვერდების ისტორია და ფუნთუშები. თუმცა, თქვენ მიერ ჩანიშნული გვერდები და ჩამოტვირთული ფაილები შენარჩუნდება.">
 
 <!ENTITY privatebrowsingpage.link.private "გსურთ შეიტყოთ მეტი?">
 <!ENTITY privatebrowsingpage.link.normal "ახალი პირადი ჩანართის გახსნა">
