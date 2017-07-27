@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "​">
 <!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
-<!ENTITY updateAuto2.label               "Eguneraketak automatikoki instalatzen (gomendatua: segurtasun hobea)">
-<!ENTITY updateAuto2.accesskey           "E">
+
+
 <!ENTITY updateCheckChoose2.label        "Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez">
 <!ENTITY updateCheckChoose2.accesskey    "b">
 <!ENTITY updateManual2.label             "Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua)">
