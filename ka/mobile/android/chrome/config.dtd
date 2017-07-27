@@ -8,13 +8,13 @@
 <!ENTITY newPref.namePlaceholder       "სახელი">
 
 <!ENTITY newPref.valueBoolean          "ორობითი">
-<!ENTITY newPref.valueString           "სტრიქონი">
+<!ENTITY newPref.valueString           "ტექსტი">
 <!ENTITY newPref.valueInteger          "მთელი რიცხვი">
 
-<!ENTITY newPref.stringPlaceholder     "შეიყვანეთ სტრიქონი">
+<!ENTITY newPref.stringPlaceholder     "შეიყვანეთ ტექსტი">
 <!ENTITY newPref.numberPlaceholder     "შეიყვანეთ რიცხვი">
 
-<!ENTITY newPref.toggleButton          "ბერკეტი">
+<!ENTITY newPref.toggleButton          "ჩამრთველი">
 <!ENTITY newPref.cancelButton          "გაუქმება">
 
 <!ENTITY contextMenu.copyPrefName      "სახელის დაკოპირება">

@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; საცდელი ვერსიაა და შესაძლოა არამდგრადად იმუშაოს.">
 <!ENTITY aboutPage.telemetryStart               " იგი ავტომატურად უგზავნის ინფორმაციას წარმადობის, აპარატურის, მორგებისა და გამოყენების შესახებ ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;-ს">
-<!ENTITY aboutPage.telemetryEnd                 " რათა &brandShortName; უკეთესი გახდეს.">
+<!ENTITY aboutPage.telemetryEnd                 " რომ &brandShortName; უკეთესი გახდეს.">
 <!ENTITY aboutPage.checkForUpdates.link         "შემოწმება განახლებებზე »">
 <!ENTITY aboutPage.checkForUpdates.checking     "განახლებების მოძიება…">
 <!ENTITY aboutPage.checkForUpdates.none         "განახლებები ვერ მოიძებნა">
