@@ -19,7 +19,7 @@
 <!ENTITY engine.addresses.label     "Adresser">
 <!ENTITY engine.addresses.accesskey "A">
 <!ENTITY engine.creditcards.label   "Betalingskort">
-<!ENTITY engine.creditcards.accesskey "B">
+<!ENTITY engine.creditcards.accesskey "e">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
