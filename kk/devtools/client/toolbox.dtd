@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Қашықтан жөндеуді іске қосу">
 <!ENTITY options.enableRemote.tooltip2  "Бұл баптауды іске қосу нәтижесінде өндіруші саймандарына Firefox OS сияқты қашықтағы нұсқаларын жөндеу рұқсат етіледі">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Жұмыс үрдісінің жөндеуін іске қосу (әлі жасалуда)">
-<!ENTITY options.enableWorkers.tooltip  "Бұл опцияны іске қосу сізге өндіруші саймандары көмегімен жұмыс үрдістерін жөндеуге мүмкіндігін береді">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Нұсқасы ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; үшін рұқсат ету">
-<!ENTITY updateAuto2.label               "Жаңартуларды автоматты түрде орнату (қауіпсіздікті арттыру мақсатында ұсынылады)">
-<!ENTITY updateAuto2.accesskey           "а">
+
+
 <!ENTITY updateCheckChoose2.label        "Жаңартуларды тексеру, бірақ орнату керектігін өзіңіз тандайсыз">
 <!ENTITY updateCheckChoose2.accesskey    "з">
 <!ENTITY updateManual2.label             "Жаңартуларды тексермеу (ұсынылмайды)">
