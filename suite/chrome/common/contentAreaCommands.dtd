@@ -4,9 +4,9 @@
 
 <!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Avslå sprettoppvinduer fra dette nettstedet">
-<!ENTITY popupWindowRejectCmd.accesskey "">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Tillat sprettoppvinduer fra dette nettstedet">
-<!ENTITY popupWindowAllowCmd.accesskey  "">
+<!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Åpne lenke i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "p">
 <!ENTITY openLinkCmd.label            "Åpne lenke i nytt vindu">
@@ -147,3 +147,4 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "r">
 <!ENTITY spellAddDictionaries.label     "Last ned flere ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
+<!-- Developer Tools -->
