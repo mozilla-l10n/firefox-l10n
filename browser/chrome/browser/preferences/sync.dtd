@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Autentifică-te">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
-<!ENTITY verifiedManage.label        "Gestionează contul">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "Deconectează-te…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verifică e-mailul">
