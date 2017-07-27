@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "d">
 <!ENTITY viewCustomizeToolbar.label       "Tilpass…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
+<!ENTITY overflowCustomizeToolbar.label       "Tilpassverktøylinje…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Historikk">
 <!ENTITY historyMenu.accesskey "s">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Bygg oppatt siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
+<!ENTITY appMenuHistory.recentHistory.label "Nyleg historikk">
 <!ENTITY appMenuHelp.label "Hjelp">
 <!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Send til eining">
 <!ENTITY sendToDevice.viewTitle "Send til eining">
-<!ENTITY sendToDevice.fxaRequired.label "Påkravd">
-<!ENTITY sendToDevice.noDevices.label "Ingen einingar tilgjengelege">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
