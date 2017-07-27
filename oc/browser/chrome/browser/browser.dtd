@@ -41,8 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Espingolar aqueste onglet">
 <!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendTabToDevice.label              "Enviar l'onglet al periferic">
+<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Enviar la pagina al periferic">
+<!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
+<!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
@@ -108,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Afichar totes los onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Dobrir las preferénciias del &syncBrand.shortName.label;">
@@ -217,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Avètz blocat la camarà per aqueste site.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Avètz blocat lo microfòn per aqueste site.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Avètz blocat la geolocalizacion per aqueste site.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Avètz blocat las notificacions per aquel site.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
@@ -269,6 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Fichièr"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Onglet contèxtual novèl">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -288,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copiar">  
-  
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pegar">  
 <!ENTITY pasteCmd.key           "V">  
@@ -353,13 +359,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Mostrar totes los onglets d’aqueste periferic">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Pas cap d’onglet sincronizat pel moment.">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Volètz veire aquí los onglets dels vòstres autres periferics ?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Connectatz-vos per veire una lista d'onglets dels vòstres autres periferics.">
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerir los periferics…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Veire los onglets sincronizats dins la barra laterala">
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -370,6 +380,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Apondre al menú desbordament">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Desplaçar cap a la barra d'aisinas">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "D">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -414,7 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Astúcias :">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modificar las opcions…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modificar las preferéncias…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -478,7 +492,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Cambiar los paramètres de recèrca">
 
 <!ENTITY searchInNewTab.label         "Recercar dins un onglet novèl">
+<!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "Causir coma motor de cerca per defaut">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Dobrir lo ligam dins un onglet novèl">
 <!ENTITY openLinkCmdInTab.accesskey   "o">
@@ -493,6 +509,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "Dobrir lo quadre dins una fenèstra novèla">
 <!ENTITY openFrameCmd.accesskey       "f">
 <!ENTITY openLinkCmdInContainerTab.label "Dobrir lo ligam dins un novèl onglet contèxtual">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Dobrir lo quadre dins un onglet novèl">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -595,14 +612,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.label     "Velocitat de lectura">
 <!ENTITY mediaPlaybackRate2.accesskey "l">
 <!ENTITY mediaPlaybackRate050x2.label "Lenta (×0.5)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "Normala">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Rapida (×1.25)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "R">
 <!ENTITY mediaPlaybackRate150x2.label "Fòrça rapida (×1.5)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Subrerapida (×2)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "Tornar legir">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -734,13 +757,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactivar la proteccion per ara">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ne saber mai">
 
 <!ENTITY identity.removeCertException.label "Suprimir l'excepcion">
+<!ENTITY identity.removeCertException.accesskey "L">
 
 <!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
 
 <!ENTITY identity.permissions "Permissions">
+<!ENTITY identity.permissionsEmpty "Avètz donat pas cap de permission espaciala a aquel site.">
+<!ENTITY identity.permissionsReloadHint "Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -750,18 +777,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Onglets sincronizats">
 
 <!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Connectatz-vos mejan Firefox dempuèi los vòstres autres periferics per afichar lors onglets aquí.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Pas cap d’onglet sincronizat pel moment.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Volètz afichar los onglets dels vòstres autres periferics aquí ?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Connectaz-vos per afichar la lista dels onglets dels vòstres autres periferics.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Pas cap d’onglet dobèrt">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activatz la sincronizacion dels onglets per afichar la lista dels onglets dels vòstres autres periferics.">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Dobrir">
+<!ENTITY syncedTabs.context.open.accesskey                   "D">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Dobrir dins un onglet novèl">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "n">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Dobrir lo ligam dins una fenèstra novèla">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "o">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Dobrir lo ligam dins una fenèstra de navigacion privada">
@@ -772,7 +805,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Tot dobrir dins d'onglets">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "D">
 <!ENTITY syncedTabs.context.managedevices.label              "Gerir los periferics…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
@@ -807,11 +842,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telecargar d'autres tèmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "Far lisar e pausar los elements aquí per los gardar a man, mas fòra de vòstra barra d’aisinas…">
 <!ENTITY customizeMode.uidensity "Densitat">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normala">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normala">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
@@ -835,7 +872,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon espiar vòstra navigacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon espiar vòstra navigacion. Avètz desactivat la proteccion.">
+<!ENTITY trackingProtection.notDetected3 "Pas cap d'element de traçatge es estat detectat sus aquela pagina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -850,6 +889,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Pistatge">
+<!ENTITY trackingContentBlocked.moreinfo "Las partidas de la pagina qu'espian la vòstra activitat en linha son estadas blocadas.">
 <!ENTITY trackingContentBlocked.learnMore "Ne saber mai">
 <!ENTITY trackingContentBlocked.options "Opcions">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactivar la proteccion per aqueste site">
@@ -909,14 +949,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.whatsnew.label "Descobrissètz las novetats.">
 <!ENTITY updateAvailable.header.message "Una nòva mesa a jorn de &brandShorterName; es disponibla.">
 <!ENTITY updateAvailable.acceptButton.label "Telecargar la mesa a jorn">
+<!ENTITY updateAvailable.acceptButton.accesskey "M">
 <!ENTITY updateAvailable.cancelButton.label "Pas ara">
+<!ENTITY updateAvailable.cancelButton.accesskey "A">
 <!ENTITY updateAvailable.panelUI.label "Telecargar la mesa a jorn de &brandShorterName;">
 
 <!ENTITY updateManual.message "Telecargatz una còpia novèla de &brandShorterName; e poirem vos guidar per l’installar.">
 <!ENTITY updateManual.whatsnew.label "Descobrissètz las novetats.">
 <!ENTITY updateManual.header.message "&brandShorterName; pòt pas èsser mes a jorn amb la version mai recenta.">
 <!ENTITY updateManual.acceptButton.label "Telecargar &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "T">
 <!ENTITY updateManual.cancelButton.label "Pas ara">
+<!ENTITY updateManual.cancelButton.accesskey "A">
 <!ENTITY updateManual.panelUI.label "Telecargatz una còpia novèla de &brandShorterName;">
 
 <!ENTITY updateRestart.message "Après una reaviada rapida, &brandShorterName; restablirà l’ensemble de vòstras fenèstras e onglets dobèrts.">
