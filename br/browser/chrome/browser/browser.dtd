@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Personelaat…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
+
+
 <!ENTITY historyMenu.label "Roll istor">
 <!ENTITY historyMenu.accesskey "l">
 <!ENTITY historyUndoMenu.label "Ivinelloù serret nevez zo">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Skarzhañ ar roll istor nevesañ…">
 <!ENTITY appMenuHistory.restoreSession.label "Assav an estez kent">
 <!ENTITY appMenuHistory.viewSidebar.label "Gwelout barrenn gostez ar roll istor">
+
 <!ENTITY appMenuHelp.label "Skoazell">
 <!ENTITY appMenuHelp.tooltip "Digeriñ al lañser skoazell">
 

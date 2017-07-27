@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Kennaskañ">
 <!ENTITY signIn.accesskey            "a">
 <!ENTITY profilePicture.tooltip      "Kemmañ ar skeudenn aelad">
-<!ENTITY verifiedManage.label        "Ardeiñ ar gont">
-<!ENTITY verifiedManage.accesskey    "g">
+
+
 
 
 <!ENTITY verify.label                "Gwiriañ ar chomlec'h postel">
