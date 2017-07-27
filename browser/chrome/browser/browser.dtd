@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Penyesuaian…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "u">
+<!ENTITY overflowCustomizeToolbar.label       "Penyesuaian Bar Alatan…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Sejarah">
 <!ENTITY historyMenu.accesskey "s">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
 <!ENTITY appMenuHistory.restoreSession.label "Kembalikan semula Sesi Terdahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
+<!ENTITY appMenuHistory.recentHistory.label "Sejarah Terkini">
 <!ENTITY appMenuHelp.label "Bantuan">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
