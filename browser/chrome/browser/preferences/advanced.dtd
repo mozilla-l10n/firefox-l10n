@@ -92,13 +92,27 @@ available. -->
  -->
 <!ENTITY updateApplicationDescription.label
                                          "Manténer &brandShortName; a jorn per de performança, estabilitat, e seguretat melhoras.">
+<!ENTITY updateApplication.version.pre   "Version ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Autorizar &brandShortName; a">
+<!ENTITY updateAuto3.label               "Installar automaticament las mesas a jorn (recomandat)">
+<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Verificar las mesas a jorn disponiblas, mas podètz decidir de las installar o non">
+<!ENTITY updateCheckChoose2.accesskey    "V">
+<!ENTITY updateManual2.label             "Verificar pas jamai las mesas a jorns (pas recomandat)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Afichar l'istoric de las mesas a jorn…">
+<!ENTITY updateHistory2.accesskey        "M">
 
 <!ENTITY useService.label                "Utilizar un servici en rèireplan per installar las mesas a jorn">
 <!ENTITY useService.accesskey            "z">
 
+<!ENTITY enableSearchUpdate2.label       "Metre a jorn automaticament los motors de recèrca">
+<!ENTITY enableSearchUpdate2.accesskey   "m">
 
+<!ENTITY offlineStorageNotify.label               "Avisar quand un site demanda a gardar de donadas per una utilizacion fòra linha">
+<!ENTITY offlineStorageNotify.accesskey           "A">
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -109,11 +123,27 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
+<!ENTITY certPersonal2.description       "Quand un servidor demanda vòstre certificat personal">
 <!ENTITY selectCerts.auto                "ne seleccionar un automaticament">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Vos demandar cada còp">
+<!ENTITY selectCerts.ask.accesskey       "D">
+<!ENTITY enableOCSP.label                "Consultar los servidors respondeires OCSP per confirmar la validitat actuala de vòstres certificats">
+<!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Afichar los certificats">
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "g">
 
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ne saber mai">
+<!ENTITY limitContentProcessOption.label "Limita del procediment del contengut">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Aprendre a verificar se de multiprocediments son activats">
 <!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
 <!ENTITY allowHWAccel.accesskey          "n">
