@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-data">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Skift
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR-data-upload er <span>aktiveret</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR-data-upload er <span>deaktiveret</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Udvidet Telemetry-recording er <span>aktiveret</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Udvidet Telemetry-recording er <span>deaktiveret</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Ping datakilde:
 ">
@@ -34,14 +14,6 @@ Nuværende ping-data
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Arkiverede ping-data
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Visning af ping-data:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Struktureret
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@ Vælg ping:
 Ældre ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Rå ping-data ...
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Uge
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Ping-type
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+I dag
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+I går
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Ældre
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -87,6 +71,7 @@ Ping
 <!ENTITY aboutTelemetry.telemetryLogSection "
   Telemetry-log
 ">
+
 <!ENTITY aboutTelemetry.slowSqlSection "
   Langsomme SQL-statements
 ">
@@ -139,18 +124,6 @@ Ping
   Sessionsoplysninger
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrammer indsamlet af tilføjelser
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klik for at udvide eller folde sektionen sammen
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Ingen oplysninger fundet)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   Bemærk: Langsom SQL-debugging er aktiveret. Hele SQL-strenge vil måske være vist nedenfor, men de bliver ikke sendt til Telemetry.
 ">
@@ -169,8 +142,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Payload
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Rå Payload
 ">
