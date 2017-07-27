@@ -309,6 +309,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Kifuule ky'oyagala…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 
+
+
 <!ENTITY historyMenu.label "Ebyafayo">
 <!ENTITY historyMenu.accesskey "f">
 <!ENTITY historyUndoMenu.label "Awadirira Awakaggalwawo">
@@ -319,6 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Fula">
+
 
 
 
