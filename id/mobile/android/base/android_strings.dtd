@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Laman dihapus">
 
 <!ENTITY bookmark_edit_title "Edit Markah">
+<!ENTITY bookmark_edit_folder_title "Edit Direktori">
 <!ENTITY bookmark_edit_name "Nama">
 <!ENTITY bookmark_edit_location "Lokasi">
 <!ENTITY bookmark_edit_keyword "Kata Kunci">
@@ -624,6 +625,10 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Tampilkan perangkat dipilih">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Situs tersemat">
 
 <!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
 <!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab dari perangkat lain ke panel di beranda agar mudah diakses saat Anda membuka tab baru.">
