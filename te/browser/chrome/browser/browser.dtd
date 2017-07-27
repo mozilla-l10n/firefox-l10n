@@ -332,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "అనుకూలీకరణ..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "చరిత్ర">
 <!ENTITY historyMenu.accesskey "s">
@@ -976,5 +977,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 
 <!ENTITY sendToDevice.viewTitle "పరికరానికి పంపు">
-<!ENTITY sendToDevice.fxaRequired.label "అవసరం">
-<!ENTITY sendToDevice.noDevices.label "పరికరాలు అందుబాటులో లేవు">
