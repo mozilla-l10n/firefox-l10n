@@ -30,6 +30,11 @@
 
 <!ENTITY dataChoicesTab.label            "Datadeling">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Data-rapportering er deaktiveret for denne build-konfiguration">
+
 <!ENTITY healthReportDesc.label          "Hjælper dig med at forstå din browsers ydelse og deler data om din browsers sundhed med &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Aktiver &brandShortName; sundhedsrapport">
 <!ENTITY enableHealthReport.accesskey    "s">

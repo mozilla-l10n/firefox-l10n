@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tilføjelser">
 <!ENTITY engine.addons.accesskey    "T">
+<!ENTITY engine.addresses.label     "Adresser">
+<!ENTITY engine.addresses.accesskey "A">
+<!ENTITY engine.creditcards.label   "Betalingskort">
+<!ENTITY engine.creditcards.accesskey "B">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
