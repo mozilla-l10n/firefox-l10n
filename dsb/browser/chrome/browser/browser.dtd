@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Pśiměriś…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "m">
 
+
+
 <!ENTITY historyMenu.label "Historija">
 <!ENTITY historyMenu.accesskey "H">
 <!ENTITY historyUndoMenu.label "Rowno zacynjone rejtarki">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
 <!ENTITY appMenuHistory.restoreSession.label "Pjerwjejšne pósejźenje wótnowiś">
 <!ENTITY appMenuHistory.viewSidebar.label "Bócnicu historije pokazaś">
+
 <!ENTITY appMenuHelp.label "Pomoc">
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wócyniś">
 
