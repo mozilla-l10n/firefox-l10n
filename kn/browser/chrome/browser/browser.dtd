@@ -330,6 +330,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "ಇತಿಹಾಸ">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "ಇತ್ತೀಚೆಗೆ ಮುಚ್ಚಲಾದ ಟ್ಯಾಬ್‌ಗಳು">
@@ -349,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
 <!ENTITY appMenuHistory.restoreSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY appMenuHistory.viewSidebar.label "ಇತಿಹಾಸ ಪಕ್ಕದಂಕಣ ಪ್ರದರ್ಶಿಸಿ">
+
 
 <!ENTITY appMenuHelp.tooltip "ಸಹಾಯ ಪರಿವಿಡಿ ತೆಗೆ">
 
