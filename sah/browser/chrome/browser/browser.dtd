@@ -316,6 +316,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Т">
 
+
+
 <!ENTITY historyMenu.label "Сурунаал">
 <!ENTITY historyMenu.accesskey "С">
 <!ENTITY historyUndoMenu.label "Соторутааҕыта сабыллыбыт кыбытыктар">
@@ -326,6 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Уларыт">
+
 
 
 
