@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "मनपसंत करा…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "इतिहास">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "अलिकडील बंद केलेले टॅब्स">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ताजे इतिहास नष्ट करा…">
 <!ENTITY appMenuHistory.restoreSession.label "मागील सत्र पूर्वस्थितीत आणा">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाजूच्यापट्टीचे दृष्य">
+
 <!ENTITY appMenuHelp.label "मदत">
 <!ENTITY appMenuHelp.tooltip "मदत मेन्यु उघडा">
 
