@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Inicia la sessió">
 <!ENTITY signIn.accesskey            "I">
 <!ENTITY profilePicture.tooltip      "Canvia la imatge de perfil">
-<!ENTITY verifiedManage.label        "Gestiona el compte">
-<!ENTITY verifiedManage.accesskey    "a">
+
+
 <!ENTITY disconnect3.label           "Desconnecta…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verifiqueu l'adreça electrònica">
