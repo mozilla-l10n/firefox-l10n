@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Leagan ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Lig do &brandShortName;">
-<!ENTITY updateAuto2.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
 <!ENTITY updateCheckChoose2.accesskey    "L">
 <!ENTITY updateManual2.label             "Ná lorg nuashonruithe (ní mholtar é seo)">

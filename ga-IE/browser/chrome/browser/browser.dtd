@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Saincheap…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 
+
+
 <!ENTITY historyMenu.label "Stair">
 <!ENTITY historyMenu.accesskey "i">
 <!ENTITY historyUndoMenu.label "Cluaisíní a Dúnadh Le Déanaí">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an Stair Is Déanaí…">
 <!ENTITY appMenuHistory.restoreSession.label "Athchóirigh an Seisiún Roimhe Seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Taispeáin Stair sa Bharra Taoibh">
+
 <!ENTITY appMenuHelp.label "Cabhair">
 <!ENTITY appMenuHelp.tooltip "Oscail an Roghchlár Cabhrach">
 
