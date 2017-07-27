@@ -39,7 +39,7 @@ available. -->
 
 <!ENTITY networkProxy.label              "Прокси">
 
-<!ENTITY connectionDesc.label            "Конфигуриране на начина, по който &brandShortName; се свързва с Интернет">
+<!ENTITY connectionDesc.label            "Настройване на начина, по който &brandShortName; достъпва Мрежата">
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
@@ -84,9 +84,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "За най-добра производителност, стабилност и защита поддържайте вашия &brandShortName; обновен.">
 <!ENTITY updateApplication.version.pre   "Версия ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
+<!ENTITY updateAuto3.label               "Да инсталира обновяванията автоматично (препоръчва се)">
+<!ENTITY updateAuto3.accesskey           "и">
 <!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
 <!ENTITY updateCheckChoose2.accesskey    "п">
 <!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
