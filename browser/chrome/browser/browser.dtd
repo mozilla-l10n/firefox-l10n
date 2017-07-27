@@ -310,8 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Hapus">  
-<!ENTITY deleteCmd.key            "P">  
-<!ENTITY deleteCmd.accesskey        "a"> 
+<!ENTITY deleteCmd.key            "H">  
+<!ENTITY deleteCmd.accesskey        "H"> 
 <!ENTITY selectAllCmd.label         "Pilih Semua">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 

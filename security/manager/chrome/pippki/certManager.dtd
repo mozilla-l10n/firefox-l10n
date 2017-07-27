@@ -40,7 +40,7 @@
 <!ENTITY certmgr.editcert.trustemail          "Sijil ini boleh mengenal pasti pengguna e-mel.">
 <!ENTITY certmgr.editcert.trustobjsign        "Sijil boleh mengenal penipta perisian.">
 
-<!ENTITY certmgr.deletecert.title             "Padam Sijil">
+<!ENTITY certmgr.deletecert.title             "Hapus Sijil">
 
 <!ENTITY certmgr.certname                     "Nama Sijil">
 <!ENTITY certmgr.certserver                   "Pelayan">
@@ -60,9 +60,9 @@
 <!ENTITY certmgr.export.label                 "Eksport…">
 <!ENTITY certmgr.export.accesskey             "r">
 <!ENTITY certmgr.delete2.label                "Hapus...">
-<!ENTITY certmgr.delete2.accesskey            "p">
-<!ENTITY certmgr.delete_builtin.label         "Menyingkirkan atau tidak mempercayai">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete2.accesskey            "H">
+<!ENTITY certmgr.delete_builtin.label         "Hapus atau Tidak Percaya…">
+<!ENTITY certmgr.delete_builtin.accesskey     "H">
 <!ENTITY certmgr.backup2.label                "Sandar…">
 <!ENTITY certmgr.backup2.accesskey            "S">
 <!ENTITY certmgr.backupall2.label             "Backup Semua">
