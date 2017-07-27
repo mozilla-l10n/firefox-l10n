@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versió ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Actualitzacions del &brandShortName;">
-<!ENTITY updateAuto2.label               "Instal·la les actualitzacions automàticament (l'opció recomanada per seguretat)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Cerca actualitzacions, però demana'm si vull instal·lar-les">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No cerquis mai actualitzacions (no recomanat)">
