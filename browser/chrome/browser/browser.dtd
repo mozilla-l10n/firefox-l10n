@@ -328,6 +328,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "tshwanedisa..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "t">
 
+
+
 <!ENTITY historyMenu.label "Tiragalo Tse di Fetileng">
 <!ENTITY historyMenu.accesskey "T">
 <!ENTITY historyUndoMenu.label "Dithebe tse di tswetsweng Bosheng">
@@ -347,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Phimola Ditiragalo tsa ga jaana...">
 <!ENTITY appMenuHistory.restoreSession.label "Busetsa botlameladikopanelwa jo bo fetileng">
 <!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
+
 
 <!ENTITY appMenuHelp.tooltip "Bula Menu wa Thuso">
 
