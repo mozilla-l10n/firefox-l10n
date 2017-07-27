@@ -113,6 +113,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY fxaSignIn.label "Mag Sign in sa &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Buksan ang Pagpipilian ng &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Muling kumonekta sa &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "I-verify ang Iyong Account">
 
 
@@ -130,10 +133,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "ngayon ay naka-full screen na">
+<!ENTITY fullscreenWarning.generic.label "Ang dokument na ito ay naka full screen">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Alisin ang pagkaka-full screen(Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Alisin ang pakaka-full screen(esc)">
 <!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -143,12 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "ay may kontrol sa iyong pointer. Pindutin ang ESC para mabawi ang kontrol.">
+<!ENTITY pointerlockWarning.generic.label "Ang dokumentong ito ay may kontrol sa iyong pointer. Pindutin ang Esc para manumbalik ang kontrol.">
 
 <!ENTITY closeWindow.label "Isara ang Window">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "b">
+<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahina na Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -157,7 +167,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Ibahagi ang Link na ito">
 <!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "Ibahagi ang larawan na ito">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.accesskey "r">
@@ -216,22 +228,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
 <!ENTITY fileMenu.label         "File"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newNonRemoteWindow.label   "Bagong Di-e10s Window">
 
 <!ENTITY editMenu.label         "i-Edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
-  
+<!ENTITY undoCmd.label            "Ibalik sa dati">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Ulitin">  
@@ -257,6 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Mga Preferences">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
+<!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "M">
 
@@ -269,6 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 
+<!ENTITY historyMenu.label "Kasaysayan">
 <!ENTITY historyMenu.accesskey "s">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Bagong Sarang mga Window">
