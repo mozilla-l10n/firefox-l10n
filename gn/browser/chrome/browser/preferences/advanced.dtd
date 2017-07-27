@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Eguereko &brandShortName; tekopyahúreve hembiapo porã, hekopyta ha hekorosã hag̃ua.">
 <!ENTITY updateApplication.version.pre   "Peteĩchagua">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Emomeĩ &brandShortName;">
-
-
+<!ENTITY updateAuto3.label               "Emohenda ñembohekopyahu ijeheguíva (je'epyréva)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguejysépa">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Ani eheka ñembohekopyahu (jerovia'ỹ)">

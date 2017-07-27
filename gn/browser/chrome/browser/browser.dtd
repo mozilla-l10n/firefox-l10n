@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Ñemomba'e…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Tembiporu rendáre ñemomba'e…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Tembiasakue">
 <!ENTITY historyMenu.accesskey "s">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
-
+<!ENTITY appMenuHistory.recentHistory.label "Tembiasakue ramovéva">
 <!ENTITY appMenuHelp.label "Pytyvõ">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
