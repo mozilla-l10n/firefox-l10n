@@ -87,8 +87,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Verzió">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "A következők engedélyezése a &brandShortName;nak:">
-<!ENTITY updateAuto2.label               "Frissítések automatikus telepítése (ajánlott a maximális biztonság érdekében)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Frissítések keresése, de a telepítés jóváhagyással történik">
 <!ENTITY updateCheckChoose2.accesskey    "k">
 <!ENTITY updateManual2.label             "Ne legyen frissítve (nem ajánlott)">
