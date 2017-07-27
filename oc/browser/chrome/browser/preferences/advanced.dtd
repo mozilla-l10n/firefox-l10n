@@ -1,21 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accessibilitat">
-
 <!ENTITY useCursorNavigation.label       "Utilizar totjorn las tòcas de navigacion per se desplaçar a l'interior d'una pagina">
 <!ENTITY useCursorNavigation.accesskey   "t">
-
-
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Recercar dins lo tèxte al picar començant">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY useOnScreenKeyboard.label       "Mostrar un clavièr tactil quand es necessari">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Navigacion">
 
@@ -23,28 +19,31 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilizar lo desfilament doç">
 <!ENTITY useSmoothScrolling.accesskey    "d">
-
-
+<!ENTITY checkUserSpelling.label         "Verificar l'ortografia al picar">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Donadas">
 
-<!ENTITY healthReportDesc.label          "Vos ajuda a comprene las performàncias de vòstre navigador e manda a &vendorShortName; d'informacions a prepaus de la santat de vòstre navigador">
-<!ENTITY enableHealthReport.label        "Activar lo bilanç de santat de &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "c">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Lo rapòrt de donadas es desactivat per aquela configuracion de compilacion">
 
+<!ENTITY enableHealthReport1.label       "Autorizar &brandShortName; a mandar automaticament de donadas tecnicas e d’interaccions a Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY healthReportLearnMore.label     "Ne saber mai">
 
-<!ENTITY telemetryDesc.label             "Manda d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
+<!ENTITY dataCollection.label            "Recuèlh de donadas e utilizacion per &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar &brandShortName; per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidencialitat">
 
-
-
-
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Autorizar &brandShortName; a mandar los rapòrts de plantatge a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">
 
-<!ENTITY connection.label                "Connexion">
+<!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cossí &brandShortName; se connècta a internet">
 <!ENTITY connectionSettings.label        "Paramètres">
@@ -53,11 +52,14 @@
 <!ENTITY httpCache.label                 "Contengut Web en cache">
 
 <!ENTITY offlineStorage2.label           "Contengut Web e donadas de l'utilizaire fòra connexion">
+
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
-
-
-
+<!ENTITY siteData.label                  "Donadas del site">
+<!ENTITY clearSiteData.label             "Escafar totas las donadas">
+<!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteDataSettings.label          "Paramètres…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Ne saber mai">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -65,7 +67,6 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Limitar lo cache a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "Mo d'espaci de disc">
@@ -77,32 +78,25 @@
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
 <!ENTITY updateTab.label                 "Metre a jorn">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "Mesas a jorn de &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Manténer &brandShortName; a jorn per de performança, estabilitat, e seguretat melhoras.">
 <!ENTITY updateApplication.version.post  "">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY useService.label                "Utilizar un servici en rèireplan per installar las mesas a jorn">
 <!ENTITY useService.accesskey            "z">
-
-
-
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
@@ -115,24 +109,11 @@
 <!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
-
 <!ENTITY selectCerts.auto                "ne seleccionar un automaticament">
-
-
-
-
-
 <!ENTITY viewCerts.label                 "Afichar los certificats">
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "g">
-
-
-
-
-
-
-
 
 <!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
 <!ENTITY allowHWAccel.accesskey          "n">
