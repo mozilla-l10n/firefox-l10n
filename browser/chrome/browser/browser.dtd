@@ -296,10 +296,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Kuboneza..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "b">
 
+
+
 <!ENTITY historyMenu.label "Amateka">
 <!ENTITY historyMenu.accesskey "t">
 <!ENTITY historyUndoMenu.label "Udufishi Twafunze Iyimura">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+
 
 
 
