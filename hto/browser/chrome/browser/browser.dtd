@@ -303,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Kúe dama íena…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 
+
+
 <!ENTITY historyMenu.label "Jagaɨ">
 <!ENTITY historyMenu.accesskey "J">
 <!ENTITY historyUndoMenu.label "Kómo ɨ́baika úitɨraɨ">
@@ -322,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Kómue jagaɨ dono...">
 
 <!ENTITY appMenuHistory.viewSidebar.label "Jagaɨ radozi ákata">
+
 
 
 
