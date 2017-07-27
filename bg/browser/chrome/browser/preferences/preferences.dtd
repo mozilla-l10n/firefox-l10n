@@ -21,7 +21,7 @@
 <!ENTITY  paneContainers.title          "Изолирани раздели">
 <!ENTITY  paneUpdates.title             "Обновявания">
 
-<!ENTITY  languageAndAppearance.label   "Език и облик">
+<!ENTITY  languageAndAppearance.label   "Език и изглед">
 <!ENTITY  filesAndApplications.label    "Файлове и приложения">
 <!ENTITY  browserPrivacy.label          "Поверителност на четеца">
 
