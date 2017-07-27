@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Yamre">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yamir &brandShortName; to">
-<!ENTITY updateAuto2.label               "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
-<!ENTITY updateAuto2.accesskey           "s">
+
+
 <!ENTITY updateCheckChoose2.label        "Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe">
 <!ENTITY updateCheckChoose2.accesskey    "Y">
 <!ENTITY updateManual2.label             "Hoto yuurnito kesɗitine (wasiyaaka)">
