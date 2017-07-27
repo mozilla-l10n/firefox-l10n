@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Peteĩchagua">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Emomeĩ &brandShortName;">
-<!ENTITY updateAuto2.label               "Tekopyahu ijeheguíva mohenda (jeroviapyrãva: omohekorosãvéta)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguejysépa">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Ani eheka ñembohekopyahu (jerovia'ỹ)">

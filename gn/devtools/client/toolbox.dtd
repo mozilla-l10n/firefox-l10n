@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Ñemopotĩ okayguáva myandy">
 <!ENTITY options.enableRemote.tooltip2  "Emyandývo ko poravopyrã omoneĩta mboguatahára tembiporukuérape omopotĩvo mba'e okaygua Firefox mab'éva, Firefox OS ichagua">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Emoapysẽ mba'apohára mopotĩha (ojejapohína)">
-<!ENTITY options.enableWorkers.tooltip  "Emyandývo ko poravopyrã omoneĩta tembipurukuéra mboguatahápe umi mba'apohára mopotĩhápe">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
