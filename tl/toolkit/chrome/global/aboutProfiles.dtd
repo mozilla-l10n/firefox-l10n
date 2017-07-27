@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
+<!ENTITY aboutProfiles.title "Tungkol sa Mga Profile">
+<!ENTITY aboutProfiles.subtitle "Tinutulungan ka ng pahinang ito na pamahalaan ang iyong profile. Ang bawat profile ay isang hiwalay na mundo na naglalaman ng hiwalay na kasaysayan, mga bookmark, mga setting at mga add-on.">
+<!ENTITY aboutProfiles.create "Lumikha ng isang Bagong Profile">
+<!ENTITY aboutProfiles.restart.title "I-restart">
+<!ENTITY aboutProfiles.restart.inSafeMode "I-restart na may Add-ons Disabled...">
+<!ENTITY aboutProfiles.restart.normal "I-restart ng pangkaraniwan...">
