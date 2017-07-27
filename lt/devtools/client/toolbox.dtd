@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Įgalinti nuotolinį derinimą">
 <!ENTITY options.enableRemote.tooltip2  "Įjungę šią nuostatą, galėsite užsiimti nutolusios „Firefox“ versijos (pavyzdžiui, „Firefox OS“) derinimu">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Įjungti scenarijų derinimą (programuojant)">
-<!ENTITY options.enableWorkers.tooltip  "Įjungę šią nuostatą, leisite saityno kūrėjų priemonėms derinti scenarijus">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
