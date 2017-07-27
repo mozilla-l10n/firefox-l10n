@@ -141,7 +141,7 @@ available. -->
 <!ENTITY limitContentProcessOption.label "Grense for innholdsprosesser">
 <!ENTITY limitContentProcessOption.description
                                          "Ytterligere innholdsprosesser kan forbedre ytelsen når du bruker flere faner, men vil også bruke mer minne.">
-<!ENTITY limitContentProcessOption.accesskey   "Y">
+<!ENTITY limitContentProcessOption.accesskey   "G">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Endring av antall innholdsprosesser kan bare gjøres med multiprosess &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
