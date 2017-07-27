@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "ისტორიის დასუფთავების პარამეტრები">
+<!ENTITY sanitizePrefs2.title          "ისტორიის გასუფთავების პარამეტრები">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
@@ -47,17 +47,17 @@ that require it.  -->
 <!ENTITY dataSection.label            "მონაცემები">
 
 <!ENTITY itemHistoryAndDownloads.label     "საიტებისა &amp; ჩამოტვირთვების ისტორია">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "ს">
 <!ENTITY itemFormSearchHistory.label       "შევსებული ველების &amp; ძიების ისტორია">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemFormSearchHistory.accesskey   "შ">
 <!ENTITY itemCookies.label                 "ფუნთუშები">
 <!ENTITY itemCookies.accesskey             "ფ">
 <!ENTITY itemCache.label                   "კეში">
 <!ENTITY itemCache.accesskey               "კ">
 <!ENTITY itemOfflineApps.label             "ვებსაიტის შენახული მონაცემები">
-<!ENTITY itemOfflineApps.accesskey         "შ">
+<!ENTITY itemOfflineApps.accesskey         "მ">
 <!ENTITY itemActiveLogins.label            "მიმდინარე შესვლები">
-<!ENTITY itemActiveLogins.accesskey        "ქ">
+<!ENTITY itemActiveLogins.accesskey        "შ">
 <!ENTITY itemSitePreferences.label         "საიტის პარამეტრები">
 <!ENTITY itemSitePreferences.accesskey     "პ">
 

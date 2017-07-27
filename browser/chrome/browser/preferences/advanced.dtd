@@ -74,7 +74,7 @@ available. -->
 <!ENTITY clearCacheNow.accesskey         "ფ">
 <!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
 <!ENTITY clearOfflineAppCacheNow.accesskey "გ">
-<!ENTITY overrideSmartCacheSize.label    "კეშის ავტომატური მართვის უგულებელყოფა">
+<!ENTITY overrideSmartCacheSize.label    "კეშის ზომის ავტომატურად განსაზღვრის უგულებელყოფა">
 <!ENTITY overrideSmartCacheSize.accesskey "უ">
 
 <!ENTITY updateTab.label                 "განახლება">
@@ -93,8 +93,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "ვერსია ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "ნების დართვა &brandShortName;-ისთვის">
-<!ENTITY updateAuto2.label               "ავტომატურად დააყენოს განახლებები (რეკომენდებულია უსაფრთხოების გასაუმჯობესებლად)">
-<!ENTITY updateAuto2.accesskey           "დ">
 <!ENTITY updateCheckChoose2.label        "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დაყენდეს თუ არა">
 <!ENTITY updateCheckChoose2.accesskey    "ე">
 <!ENTITY updateManual2.label             "არასდროს შემოწმდეს განახლებებზე (არარეკომენდებულია)">

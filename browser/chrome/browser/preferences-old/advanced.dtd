@@ -74,14 +74,14 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "კეშის შეზღუდვა:">
+<!ENTITY limitCacheSizeBefore.label      "კეშის ზომის შეზღუდვა:">
 <!ENTITY limitCacheSizeBefore.accesskey  "შ">
 <!ENTITY limitCacheSizeAfter.label       "MB დისკზე">
 <!ENTITY clearCacheNow.label             "გასუფთავება">
 <!ENTITY clearCacheNow.accesskey         "ფ">
 <!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
 <!ENTITY clearOfflineAppCacheNow.accesskey "გ">
-<!ENTITY overrideSmartCacheSize.label    "კეშის ავტომატური მართვის უგულებელყოფა">
+<!ENTITY overrideSmartCacheSize.label    "კეშის ზომის ავტომატურად განსაზღვრის უგულებელყოფა">
 <!ENTITY overrideSmartCacheSize.accesskey "ბ">
 
 <!ENTITY updateTab.label                 "განახლება">
