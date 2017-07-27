@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Wersija ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&amp;brandShortName dowolić,">
-<!ENTITY updateAuto2.label               "Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "Za aktualizacijemi pytać, ale prjedy so prašeć, hač maja so instalować">
 <!ENTITY updateCheckChoose2.accesskey    "Z">
 <!ENTITY updateManual2.label             "Ženje za aktualizacijemi njepytać (njeporuča so)">
