@@ -26,4 +26,5 @@ their language. -->
 <!ENTITY searchreset.noChangeButton        "Huwag Baguhin">
 <!ENTITY searchreset.noChangeButton.access "D">
 
+<!ENTITY searchreset.changeEngineButton        "Baguhin ang Search Engine">
 <!ENTITY searchreset.changeEngineButton.access "C">

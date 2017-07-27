@@ -32,7 +32,10 @@
 <!ENTITY welcomeback2.tabtitle      "Tagumpay!">
 
 <!ENTITY welcomeback2.pageTitle     "Tagumpay!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; ay nakahanda na.">
 
+<!ENTITY welcomeback2.restoreAll.label  "I-restore ang lahat ng mga window &amp; tab">
+<!ENTITY welcomeback2.restoreSome.label "I-restore ang mga gusto mo lang">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -41,6 +44,8 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Ang iyong add-ons at customizations ay na tanggal at ang iyong browser settings ay naibalik sa defaults. Pag ito ay hindi na ayos ang iyong issue, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
+<!ENTITY welcomeback2.link.pageInfo2        "matuto nang higit pa tungkol sa kung ano ang maaari mong gawin.">
 

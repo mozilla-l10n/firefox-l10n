@@ -15,7 +15,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Hala! Ang iyong Tab ay nag-crash.">
 <!ENTITY tabCrashed.offerHelp "Kaya ka namin na tulungan!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Piliin ang &tabCrashed.restoreTab; para ma-load muli ang mga nilalaman ng pahina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Piliin ang &tabCrashed.restoreTab; o &tabCrashed.restoreAll; para ma-load muli ang mga nilalaman ng pahina.">
 <!ENTITY tabCrashed.requestHelp "Matutulungan mo ba kami?">
+<!ENTITY tabCrashed.requestHelpMessage "Crash reports ay tinutulungan i-diagnose ang mga problema at gagawing &brandShortName; mas maigi.">
 <!ENTITY tabCrashed.requestReport "I-report ang tab na ito">
+<!ENTITY tabCrashed.sendReport2 "Magpadala ng crash report para sa kasalukuyang tab">
+<!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (mga kumento ay nakikita ng publiko)">
+<!ENTITY tabCrashed.includeURL2 "Isama ang page URL sa crash report">
 <!ENTITY tabCrashed.emailPlaceholder "Ibigay ang iyong email address dito">
 <!ENTITY tabCrashed.emailMe "I-email ako kapag may bagong impormasyon">
+<!ENTITY tabCrashed.reportSent "Crash report ay nai-padala na; salamat sa pag tulong gawing mas maayos ang &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "I-report ang background tabs ">
+<!ENTITY tabCrashed.autoSubmit2 "I-update ang iyong mga preferences na kusang mag-send ng mga crash report, kabilang ang mga report tungkol sa mga crashed background tabs galing sa session na ito at sa mga hinaharap na sessions">
