@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Stránka odebrána">
 
 <!ENTITY bookmark_edit_title "Upravit záložku">
+<!ENTITY bookmark_edit_folder_title "Upravit složku">
 <!ENTITY bookmark_edit_name "Název">
 <!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
@@ -624,6 +625,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Odkrýt zvolená zařízení">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Připnutá stránka">
+<!ENTITY home_unpinned_site "Odepnutá stránka">
 
 <!ENTITY remote_tabs_panel_moved_title "Kam zmizely moje panely?">
 <!ENTITY remote_tabs_panel_moved_desc "Panely z vašich dalších zařízení jsme přesunuli do panelu na vaší domovské stránce, která se zobrazí při každém otevření nového panelu.">
