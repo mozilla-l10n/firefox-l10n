@@ -51,5 +51,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Terjemahan oleh">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Konten Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent.learnMore.label "Pelajari lebih lanjut">
