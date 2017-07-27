@@ -328,6 +328,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Pekxkĩiçxaa"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
+
+
 <!ENTITY historyMenu.label "Yaçka fxi'hjnxi's">
 <!ENTITY historyMenu.accesskey "Y">
 <!ENTITY historyUndoMenu.label "Çxhunden aphna u'se u'kasa's">
@@ -347,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Khukhna u'se fxi'hjnxi's…">
 <!ENTITY appMenuHistory.restoreSession.label "Sweete' phewu'nxi yaçka phakhenxitx">
 <!ENTITY appMenuHistory.viewSidebar.label "Na's thegna paneltewe'sxa's yaçka txikhnxi's">
+
 
 <!ENTITY appMenuHelp.tooltip "Pu'çxnxi's thegn">
 
