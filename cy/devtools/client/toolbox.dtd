@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Galluogi dadfygio pell">
 <!ENTITY options.enableRemote.tooltip2  "Bydd cychwyn y dewis hwn yn caniatáu i chi ddefnyddio offer datblygu i ddadfygio enghreifftiau o Firefox pell megis Firefox OS">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Galluogi dadfygio gweithwyr (yn cael ei ddatblygu)">
-<!ENTITY options.enableWorkers.tooltip  "Bydd cychwyn y dewis hwn yn caniatáu i offer datblygwyr ddadfygio gweithwyr">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

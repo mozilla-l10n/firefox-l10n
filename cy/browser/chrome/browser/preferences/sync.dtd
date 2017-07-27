@@ -54,7 +54,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Mewngofnodi">
 <!ENTITY signIn.accesskey            "M">
 <!ENTITY profilePicture.tooltip      "Newid llun proffil">
-<!ENTITY verifiedManage.label        "Rheoli Cyfrif">
+<!ENTITY verifiedManage.label        "Rheoli cyfrif">
 <!ENTITY verifiedManage.accesskey    "R">
 <!ENTITY disconnect3.label           "Datgysylltu…">
 <!ENTITY disconnect3.accesskey       "D">
