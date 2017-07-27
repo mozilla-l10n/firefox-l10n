@@ -9,7 +9,7 @@
 
 <!ENTITY            profilename.label      "პროფილის სახელი:">
 
-<!ENTITY            start.label            "დაწყება – &brandShortName;">
+<!ENTITY            start.label            "&brandShortName;-ის გაშვება">
 <!ENTITY            exit.label             "გასვლა">
 
 <!ENTITY            availprofiles.label    "არსებული პროფილები">
@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "კავშირგარეშე რეჟიმი">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "ჩატვირთვის დროს ამ პროფილის გამოყენება შეკითხვის გარეშე">
+<!ENTITY            useSelected.label       "მონიშნული პროფილის გამოყენება ყოველი ჩართვისას">
 <!ENTITY            useSelected.accesskey   "s">
