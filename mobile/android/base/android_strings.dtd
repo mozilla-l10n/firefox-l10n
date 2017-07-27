@@ -548,6 +548,7 @@
 <!ENTITY page_removed "页面已移除">
 
 <!ENTITY bookmark_edit_title "编辑书签">
+<!ENTITY bookmark_edit_folder_title "编辑文件夹">
 <!ENTITY bookmark_edit_name "名称">
 <!ENTITY bookmark_edit_location "地址">
 <!ENTITY bookmark_edit_keyword "关键词">
