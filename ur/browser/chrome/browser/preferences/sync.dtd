@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "سائن ان کریں">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "پروفائل کی تصویر تبدیل کریں">
-<!ENTITY verifiedManage.label        "اکاؤنٹ کا بندوبست کریں">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 
 
 <!ENTITY verify.label                "ای میل کی توثیق کریں">

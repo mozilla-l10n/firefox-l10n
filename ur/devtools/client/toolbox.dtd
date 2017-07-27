@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "بعید ٹھیک کر رہا ہے اہل بنائیں">
 <!ENTITY options.enableRemote.tooltip2  "اس اختیار کو چالوں کرنے سے تخلیق کار ٹول کو بعید انسٹانس جیسے کی Firefox OS کو ٹھیک کرنے دیگا">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "کارکن ٹھیک کرنا (ترقی میں) فعال کریں">
-<!ENTITY options.enableWorkers.tooltip  "اس اختیار کو چالو کرنے سے آپ تخلیق کار ٹول کو کارکنان کو  ٹھیک کرنے کی اجازت دیں گے">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

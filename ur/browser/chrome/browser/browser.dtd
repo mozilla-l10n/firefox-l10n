@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "تخصیص کریں…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 
+
+
 <!ENTITY historyMenu.label "سابقات">
 <!ENTITY historyMenu.accesskey "س">
 <!ENTITY historyUndoMenu.label "حالیہ بند کیے گئے ٹیب">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
 <!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
+
 <!ENTITY appMenuHelp.label "مدد">
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
