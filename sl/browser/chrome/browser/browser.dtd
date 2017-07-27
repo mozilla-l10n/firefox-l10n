@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "v">
 <!ENTITY viewCustomizeToolbar.label       "Prilagodi …"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Prilagodi orodno vrstico …">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Zgodovina">
 <!ENTITY historyMenu.accesskey "i">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Počisti nedavno zgodovino …">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovi prejšnjo sejo">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži stransko vrstico z zgodovino">
+<!ENTITY appMenuHistory.recentHistory.label "Nedavna zgodovina">
 <!ENTITY appMenuHelp.label "Pomoč">
 <!ENTITY appMenuHelp.tooltip "Odpri meni Pomoč">
 
@@ -875,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "Dotik">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dotik">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Uporabi Dotik za tablični način">
 
 <!ENTITY getUserMedia.selectCamera.label "Uporabi kamero:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -987,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Pošlji na napravo">
 <!ENTITY sendToDevice.viewTitle "Pošlji na napravo">
-<!ENTITY sendToDevice.fxaRequired.label "Zahtevano">
-<!ENTITY sendToDevice.noDevices.label "Nobena naprava ni na voljo">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">
