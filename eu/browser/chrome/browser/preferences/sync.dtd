@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Hasi saioa">
 <!ENTITY signIn.accesskey            "H">
 <!ENTITY profilePicture.tooltip      "Aldatu profileko argazkia">
-<!ENTITY verifiedManage.label        "Kudeatu kontua">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "Deskonektatu…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Egiaztatu helbide elektronikoa">

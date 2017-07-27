@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Gaitu urruneko arazketa">
 <!ENTITY options.enableRemote.tooltip2  "Ezarrita badago, garatzaile-tresnekin urruneko instantziak araztu ahal izango dira, adibidez Firefox OS">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Gaitu langileen arazketa (garapenean)">
-<!ENTITY options.enableWorkers.tooltip  "Ezarrita badago, garatzaile-tresnek langileak arazi ahal izango dituzte">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
