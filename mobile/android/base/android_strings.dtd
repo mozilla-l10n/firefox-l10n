@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Siden fjernet">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
+<!ENTITY bookmark_edit_folder_title "Rediger mappe">
 <!ENTITY bookmark_edit_name "Navn">
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nøkkelord">
