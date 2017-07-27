@@ -86,8 +86,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versi ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
-<!ENTITY updateAuto2.label               "Otomatis pasang pemutakhiran (disarankan untuk keamanan lebih baik)">
-<!ENTITY updateAuto2.accesskey           "O">
+<!ENTITY updateAuto3.label               "Secara otomatis memasang pemutakhiran (disarankan)">
+<!ENTITY updateAuto3.accesskey           "S">
 <!ENTITY updateCheckChoose2.label        "Periksa pemutakhiran, biarkan saya memilih memasangnya atau tidak">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Jangan pernah memeriksa pemutakhiran (tidak disarankan)">
