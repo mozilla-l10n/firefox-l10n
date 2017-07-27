@@ -323,6 +323,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "স্বনিৰ্বাচন…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "ইতিহাস">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ">
@@ -342,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰক…">
 <!ENTITY appMenuHistory.restoreSession.label "পুৰ্বৱৰ্তী অধিবেশন পুনৰদ্ধাৰ কৰক">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস কাষবাৰ দৰ্শন কৰক">
+
 
 <!ENTITY appMenuHelp.tooltip "সহায় মেনু খোলক">
 
