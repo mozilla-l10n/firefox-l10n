@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
-<!ENTITY verifiedManage.label        "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು‍">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 
 
 <!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">

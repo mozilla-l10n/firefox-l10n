@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "ದೂರದಿಂದಲೆ ಡೀಬಗ್‌ ಮಾಡುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "ವರ್ಕರ್ ಡೀಬಗ್ ಮಾಡುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ (ವಿಕಸನೆಯಲ್ಲಿ)">
-<!ENTITY options.enableWorkers.tooltip  "ಈ ಆಯ್ಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದರಿಂದ ಡೀಬಗ್‌ ಮಾಡಲು ವಿಕಸನೆಗಾರ ಉಪಕರಣಗಳಿಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
