@@ -5,11 +5,11 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Converter para tabela">
-<!ENTITY instructions1.label   "Cada parágrafo da seleção será transformado em uma linha da tabela.">
-<!ENTITY instructions2.label   "Selecione o caractere usado para separar as colunas:">
+<!ENTITY instructions1.label   "O Composer cria uma nova linha na tabela para cada parágrafo na seleção.">
+<!ENTITY instructions2.label   "Escolha o caractere usado para separar a seleção em colunas:">
 <!ENTITY commaRadio.label      "Vírgula">
 <!ENTITY spaceRadio.label      "Espaço">
-<!ENTITY otherRadio.label      "Outro:">
+<!ENTITY otherRadio.label      "Outro caractere:">
 <!ENTITY deleteCharCheck.label "Excluir o caractere separador">
 <!ENTITY collapseSpaces.label  "Ignorar espaços extras">
 <!ENTITY collapseSpaces.tooltip "Converter espaços adjacentes em um separador">

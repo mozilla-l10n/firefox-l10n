@@ -6,17 +6,17 @@
 <!ENTITY lastPickedColor.label "Última cor selecionada">
 <!ENTITY lastPickedColor.accessKey "m">
 <!ENTITY setColor1.label "Clique em uma cor ou">
-<!ENTITY setColor2.label "forneça uma string de cor HTML">
+<!ENTITY setColor2.label "insira uma string de cor HTML">
 <!ENTITY setColor2.accessKey "c">
-<!ENTITY setColorExample.label "(exemplo: “#0000ff” ou “blue”):">
+<!ENTITY setColorExample.label "(ex.: &quot;#0000ff&quot; ou &quot;blue&quot;):">
 <!ENTITY default.label "Padrão">
 <!ENTITY default.accessKey "d">
-<!ENTITY palette.label "Palete:">
+<!ENTITY palette.label "Paleta:">
 <!ENTITY standardPalette.label "Padrão">
 <!ENTITY webPalette.label "Todas as cores web">
 <!ENTITY background.label "Plano de fundo para:">
 <!ENTITY background.accessKey "u">
 <!ENTITY table.label "Tabela">
 <!ENTITY table.accessKey "T">
-<!ENTITY cell.label "Células">
+<!ENTITY cell.label "Célula(s)">
 <!ENTITY cell.accessKey "a">
