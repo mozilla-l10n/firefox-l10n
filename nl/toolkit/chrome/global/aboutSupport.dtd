@@ -141,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Beslissingenlogboek">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Door crashbeveiliging uitgeschakelde functies">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Uitvoerapparaten">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Invoerapparaten">
+<!ENTITY aboutSupport.mediaDeviceName "Naam">
+<!ENTITY aboutSupport.mediaDeviceGroup "Groep">
+<!ENTITY aboutSupport.mediaDeviceVendor "Leverancier">
+<!ENTITY aboutSupport.mediaDeviceState "Status">
+<!ENTITY aboutSupport.mediaDevicePreferred "Voorkeur">
+<!ENTITY aboutSupport.mediaDeviceFormat "Indeling">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanalen">
+<!ENTITY aboutSupport.mediaDeviceRate "Frequentie">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latentie">
