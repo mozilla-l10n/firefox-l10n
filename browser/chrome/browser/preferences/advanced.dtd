@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Źaržćo &brandShortName; aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.">
 <!ENTITY updateApplication.version.pre   "Wersija ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&amp;brandShortName dowóliś,">
-
-
+<!ENTITY updateAuto3.label               "Aktualizacije awtomatiski instalěrowaś (dopórucone)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Za aktualizacijami pytaś, ale do togo se pšašaś, lěc maju se instalěrowaś">
 <!ENTITY updateCheckChoose2.accesskey    "Z">
 <!ENTITY updateManual2.label             "Nigda za aktualizacijami njepytaś (njepśiraźijo se)">
