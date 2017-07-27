@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "ზ">
 <!ENTITY viewCustomizeToolbar.label       "მორგება…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "მ">
+<!ENTITY overflowCustomizeToolbar.label       "ხელსაწყოთა ზოლის მორგება…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "ზ">
 
 <!ENTITY historyMenu.label "ისტორია">
 <!ENTITY historyMenu.accesskey "ი">

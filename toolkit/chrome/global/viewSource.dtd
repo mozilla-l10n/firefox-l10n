@@ -13,16 +13,16 @@
 <!ENTITY mainWindow.preface "პირველწყარო: ">
 
 <!ENTITY fileMenu.label "ფაილი">
-<!ENTITY fileMenu.accesskey "F">
+<!ENTITY fileMenu.accesskey "ფ">
 <!ENTITY savePageCmd.label "გვერდის შენახვა როგორც…">
-<!ENTITY savePageCmd.accesskey "A">
+<!ENTITY savePageCmd.accesskey "შ">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY pageSetupCmd.accesskey "u">
+<!ENTITY pageSetupCmd.accesskey "პ">
 <!ENTITY printPreviewCmd.label "ნახვა ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "ნ">
 <!ENTITY printCmd.label "ბეჭდვა…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "ბ">
 <!ENTITY printCmd.commandkey "P">
 <!ENTITY closeCmd.label "დახურვა">
 <!ENTITY closeCmd.accesskey "დ">
@@ -43,40 +43,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "გადასვლა სტრიქონზე…">
-<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.accesskey "გ">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "ჩვენება">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.accesskey       "ჩ">
 <!ENTITY reloadCmd.label "ხელახლა გახსნა">
 <!ENTITY reloadCmd.accesskey "ხ">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "გრძელი სტრიქონების გადატანა"> 
-<!ENTITY menu_wrapLongLines.accesskey "W">
+<!ENTITY menu_wrapLongLines.accesskey "ს">
 <!ENTITY menu_highlightSyntax.label "სინტაქსის შემოწმება">
-<!ENTITY menu_highlightSyntax.accesskey "H">
+<!ENTITY menu_highlightSyntax.accesskey "ქ">
 <!ENTITY menu_textSize.label "ტექსტის ზომა">
-<!ENTITY menu_textSize.accesskey "z">
+<!ENTITY menu_textSize.accesskey "ტ">
 <!ENTITY menu_textEnlarge.label "შრიფტის გაზრდა">
-<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textEnlarge.accesskey "ზ">
 <!ENTITY menu_textReduce.label "შრიფტის შემცირება">
-<!ENTITY menu_textReduce.accesskey "D">
-<!ENTITY menu_textReset.label "Normal">
-<!ENTITY menu_textReset.accesskey "N">
+<!ENTITY menu_textReduce.accesskey "ც">
+<!ENTITY menu_textReset.label "ნორმალური">
+<!ENTITY menu_textReset.accesskey "ნ">
 
 <!ENTITY findOnCmd.label     "პოვნა ამ გვერდზე…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "პ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "კვლავძებნა">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "კ">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "უკან">
-<!ENTITY backCmd.accesskey "B">
+<!ENTITY backCmd.accesskey "უ">
 <!ENTITY forwardCmd.label "წინ">
-<!ENTITY forwardCmd.accesskey "F">
+<!ENTITY forwardCmd.accesskey "წ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
