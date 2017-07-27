@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Tionndadh ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Thoir cead dha &brandShortName;">
-<!ENTITY updateAuto2.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd nas fhearr)">
-<!ENTITY updateAuto2.accesskey           "S">
+
+
 <!ENTITY updateCheckChoose2.label        "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
 <!ENTITY updateCheckChoose2.accesskey    "c">
 <!ENTITY updateManual2.label             "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo)">
