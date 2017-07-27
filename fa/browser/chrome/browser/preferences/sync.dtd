@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "ورود">
 <!ENTITY signIn.accesskey            "و">
 <!ENTITY profilePicture.tooltip      "تغییرتصویر نمایه">
-<!ENTITY verifiedManage.label        "مدیریت حساب">
-<!ENTITY verifiedManage.accesskey    "ح">
+
+
 <!ENTITY disconnect3.label           "قطع ارتباط…">
 <!ENTITY disconnect3.accesskey       "ق">
 <!ENTITY verify.label                "تایید پست‌الکترونیکی">
