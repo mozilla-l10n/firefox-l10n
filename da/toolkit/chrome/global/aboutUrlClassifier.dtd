@@ -9,6 +9,7 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Seneste opdateringstidspunkt">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næste opdateringstidspunkt">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seneste opdateringsstatus">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Back-off time">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Opdatering">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Genindlæs">
