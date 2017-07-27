@@ -3,3 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Impormasyon tungkol sa url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Tagapagbigay">
+<!ENTITY aboutUrlClassifier.provider                    "Tagapagbigay">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Huling pag-update ng oras">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Susunod na oras ng pag-update">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Back-off time">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Huling katayuan ng pag-update">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "I-update">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refresh">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Malinaw">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Pangalan ng talahanayan">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Bilang ng mga negatibong entry sa cache">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Bilang ng mga positibong entry sa cache">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Ipakita ang mga entry">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Mga Entry ng Cache">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Negatibong pag-expire ng cache">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Buong hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Positibong pag-expire ng cache">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Itakda ang Mga Module ng Pag-log">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Itakda ang Log ng File">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Itakda ang JS Log">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Mga module ng pag-log ng Ligtas na pag-browse">
+<!ENTITY aboutUrlClassifier.debugModules                "Kasalukuyang mga log module">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Ligtas na pag-browse ng JS log">
+<!ENTITY aboutUrlClassifier.debugFile                   "Kasalukuyang log file">
