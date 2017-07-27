@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
+<!ENTITY  trackingProtection2.description      "Sledovanie je zhromažďovanie údajov o vašom prehliadaní na rôznych stránkach. Môže byť použité na vytvorenie profilu a zobrazovanie obsahu alebo reklám na základe vašich osobných údajov.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Blokovať sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
@@ -24,6 +25,7 @@
 <!ENTITY changeBlockList.label          "Zmeniť Zoznam blokovania">
 <!ENTITY changeBlockList.accesskey      "l">
 
+<!ENTITY  doNotTrack.description        "Požiadať webové stránky pomocou signálu “Do Not Track”, aby vás nesledovali">
 <!ENTITY  doNotTrack.learnMore.label    "Ďalšie informácie">
 <!ENTITY  doNotTrack.default.label      "Len pri použití Ochrany pred sledovaním">
 <!ENTITY  doNotTrack.always.label       "Vždy">
