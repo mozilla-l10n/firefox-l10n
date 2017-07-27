@@ -84,10 +84,11 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalar las actualizacions automaticament (ye la opción recomendada, por seguranza)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Comprebar as actualizacions, pero deixar-me trigar si las quiero instalar">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No comprebar nunca las actualizacions">
