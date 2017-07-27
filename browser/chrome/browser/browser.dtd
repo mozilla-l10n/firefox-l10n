@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Sérsníða…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 
+
+
 <!ENTITY historyMenu.label "Ferill">
 <!ENTITY historyMenu.accesskey "F">
 <!ENTITY historyUndoMenu.label "Nýlega lokaðir flipar">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
+
 <!ENTITY appMenuHelp.label "Hjálp">
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
