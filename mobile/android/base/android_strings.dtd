@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Stránka odstránená">
 
 <!ENTITY bookmark_edit_title "Úprava záložky">
+<!ENTITY bookmark_edit_folder_title "Upraviť priečinok">
 <!ENTITY bookmark_edit_name "Názov">
 <!ENTITY bookmark_edit_location "Umiestnenie">
 <!ENTITY bookmark_edit_keyword "Kľúčové slovo">
