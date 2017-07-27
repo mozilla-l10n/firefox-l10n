@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Prisijungti">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Keisti profilio nuotrauką">
-<!ENTITY verifiedManage.label        "Tvarkyti paskyrą">
-<!ENTITY verifiedManage.accesskey    "y">
+
+
 <!ENTITY disconnect3.label           "Atsijungti…">
 <!ENTITY disconnect3.accesskey       "t">
 <!ENTITY verify.label                "Patvirtinti el. paštą">

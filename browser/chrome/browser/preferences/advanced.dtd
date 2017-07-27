@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Laida ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Leisti „&brandShortName;“">
-<!ENTITY updateAuto2.label               "Automatiškai įdiegti naujinimus (rekomenduojama didesniam saugumui)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "Tikrinti ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
 <!ENTITY updateCheckChoose2.accesskey    "T">
 <!ENTITY updateManual2.label             "Niekada netikrinti ar yra naujinimų (nerekomenduojama)">
