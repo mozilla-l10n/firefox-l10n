@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "პირადი დათვალიერების რეჟიმში არ იმყოფებით">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს.">
-<!ENTITY privatebrowsingpage.description.privateDetails "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
+<!ENTITY privatebrowsingpage.description.privateDetails "არანაირი ისტორია არ შეინახება, თუმცა, თქვენ მიერ ჩანიშნული გვერდები და ჩამოტვირთული ფაილები შენარჩუნდება.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
