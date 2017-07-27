@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Pastikan &brandShortName; sentiasa terkini dengan prestasi, kesatabilan dan keselamatan terbaik.">
 <!ENTITY updateApplication.version.pre   "Versi ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
-<!ENTITY updateAuto2.label               "Pasang kemaskini secara automatik (digalakkan untuk meningkatkan keselamatan)">
-<!ENTITY updateAuto2.accesskey           "P">
+<!ENTITY updateAuto3.label               "Pemasangan kemaskini automatik (disyorkan)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Semak kemaskini tetapi anda pilih samada mahu memasangnya">
 <!ENTITY updateCheckChoose2.accesskey    "S">
 <!ENTITY updateManual2.label             "Jangan semak kemaskini (tidak disyorkan)">
