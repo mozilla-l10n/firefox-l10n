@@ -323,6 +323,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "गावनि गोसोबादि माव... (C)"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "जारिमिन">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "बावैसो बन्द खालामनाय टेबफोर">
@@ -342,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
+
 
 <!ENTITY appMenuHelp.tooltip "मदद मेनुखौ खेव">
 
