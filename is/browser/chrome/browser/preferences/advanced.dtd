@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Útgáfa ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Leyfa &brandShortName; að">
-<!ENTITY updateAuto2.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
 <!ENTITY updateCheckChoose2.accesskey    "t">
 <!ENTITY updateManual2.label             "Aldrei athuga með uppfærslur (ekki mælt með)">
