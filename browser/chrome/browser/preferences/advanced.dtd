@@ -87,8 +87,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "संस्करण">
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "के लिए &brandShortName; को अनुमति दें">
-<!ENTITY updateAuto2.label               "अद्यतन स्वतः संस्थापित करें (बेहतर सुरक्षा हेतु अनुशंसित)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "अद्यतन हेतु जाँचें; लेकिन आपको उन्हें संस्थापित करने के लिए चुनने दें">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं)">
