@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Predvolený vyhľadávací modul">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vyberte si predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela.">
 
 <!ENTITY provideSearchSuggestions.label        "Zobrazovať návrhy vyhľadávania">
 <!ENTITY provideSearchSuggestions.accesskey    "Z">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Vyhľadávacie moduly na jedno kliknutie">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.">
 
 <!ENTITY engineNameColumn.label                "Vyhľadávací modul">
 <!ENTITY engineKeywordColumn.label             "Kľúčové slovo">
@@ -24,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Odstrániť">
 <!ENTITY removeEngine.accesskey                "d">
 
+<!ENTITY findMoreSearchEngines.label           "Nájsť ďalšie vyhľadávacie moduly">

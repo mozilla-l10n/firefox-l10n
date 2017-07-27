@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Blokovať sledovacie prvky pomocou Ochrany pred sledovaním">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Len v súkromných oknách">
@@ -17,11 +18,14 @@
 <!ENTITY trackingProtectionPBM5.label         "Používať Ochranu pred sledovaním v režime Súkromné prehliadanie">
 <!ENTITY trackingProtectionPBM5.accesskey     "c">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Používať Ochranu pred sledovaním na blokovanie sledovacích prvkov v režime Súkromné prehliadanie">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 <!ENTITY changeBlockList.label          "Zmeniť Zoznam blokovania">
 <!ENTITY changeBlockList.accesskey      "l">
 
 <!ENTITY  doNotTrack.learnMore.label    "Ďalšie informácie">
+<!ENTITY  doNotTrack.default.label      "Len pri použití Ochrany pred sledovaním">
 <!ENTITY  doNotTrack.always.label       "Vždy">
 
 <!ENTITY  history.label                 "História">
