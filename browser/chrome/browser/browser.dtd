@@ -331,6 +331,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "บ">
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
+<!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
@@ -351,6 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
+<!ENTITY appMenuHistory.recentHistory.label "ประวัติเมื่อเร็ว ๆ นี้">
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
