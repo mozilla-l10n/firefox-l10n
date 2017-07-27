@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versiyasi">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName;">
-<!ENTITY updateAuto2.label               "Yangilanishlarni avtomatik o‘rnatsin (yaxshilangan xavfsizlik uchun tavsiya qilinadi)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Yangilanishlar uchun tekshirsin, ammo foydalanuvchining o‘zi tanlab oʻrnatsin">
 <!ENTITY updateCheckChoose2.accesskey    "t">
 <!ENTITY updateManual2.label             "Yangilanishlar uchun hech qachon tekshirmasin (tavsiya qilinmaydi)">

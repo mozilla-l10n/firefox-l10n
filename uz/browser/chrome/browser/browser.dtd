@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Moslash…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
 
+
+
 <!ENTITY historyMenu.label "Tarix">
 <!ENTITY historyMenu.accesskey "r">
 <!ENTITY historyUndoMenu.label "Yaqinda yopilgan ichki oynalar">
@@ -351,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "So‘nggi tarixni tozalash">
 <!ENTITY appMenuHistory.restoreSession.label "Oldingi seansni tiklash">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
+
 <!ENTITY appMenuHelp.label "Yordam">
 <!ENTITY appMenuHelp.tooltip "Yordam menyusini ochish">
 

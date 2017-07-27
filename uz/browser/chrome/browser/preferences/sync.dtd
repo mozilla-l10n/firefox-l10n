@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Kirish">
 <!ENTITY signIn.accesskey            "K">
 <!ENTITY profilePicture.tooltip      "Profil rasmini o‘zgartirish">
-<!ENTITY verifiedManage.label        "Hisobni boshqarish">
-<!ENTITY verifiedManage.accesskey    "H">
+
+
 <!ENTITY disconnect3.label           "Uzilmoqda…">
 <!ENTITY disconnect3.accesskey       "U">
 <!ENTITY verify.label                "E-pochtani tasdiqlash">
