@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Prilagodi..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
 
+
+
 <!ENTITY historyMenu.label "Povijest">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Nedavno zatvorene kartice">
@@ -351,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Obriši nedavnu povijest…">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prijašnju sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
+
 
 <!ENTITY appMenuHelp.tooltip "Otvori izbornik pomoći">
 

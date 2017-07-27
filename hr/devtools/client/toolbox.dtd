@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Omogući udaljeno riješavanje problema">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Omogući otklanjanje grešaka za workere (u razvoju)">
-<!ENTITY options.enableWorkers.tooltip  "Uključivanje ove opcije će dopustiti alatima za razvijatelje otklanjanje grešaka za workere ">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
