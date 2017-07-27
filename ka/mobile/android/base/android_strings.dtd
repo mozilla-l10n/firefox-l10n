@@ -548,6 +548,7 @@
 <!ENTITY page_removed "გვერდი ამოიშალა">
 
 <!ENTITY bookmark_edit_title "სანიშნის ჩასწორება">
+<!ENTITY bookmark_edit_folder_title "საქაღალდის ჩასწორება">
 <!ENTITY bookmark_edit_name "სახელი">
 <!ENTITY bookmark_edit_location "მისამართი">
 <!ENTITY bookmark_edit_keyword "საკვანძო სიტყვა">
