@@ -25,7 +25,7 @@
 <!ENTITY changeBlockList.label          "Skift blokerings-liste">
 <!ENTITY changeBlockList.accesskey      "S">
 
-<!ENTITY  doNotTrack.description        "Send websteder signalet "Spor mig ikke" ("Do not track") for at fortælle, at du ikke vil spores">
+<!ENTITY  doNotTrack.description        "Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores">
 <!ENTITY  doNotTrack.learnMore.label    "Læs mere">
 <!ENTITY  doNotTrack.default.label      "Kun når jeg bruger beskyttelse mod sporing">
 <!ENTITY  doNotTrack.always.label       "Altid">
