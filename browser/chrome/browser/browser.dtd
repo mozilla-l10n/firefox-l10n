@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Přiměrić…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "m">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Symbolowu lajstu přiměrić…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Historija">
 <!ENTITY historyMenu.accesskey "s">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprózdnić…">
 <!ENTITY appMenuHistory.restoreSession.label "Předchadne posedźenje wobnowić">
 <!ENTITY appMenuHistory.viewSidebar.label "Bóčnicu historije pokazać">
-
+<!ENTITY appMenuHistory.recentHistory.label "Najnowša historija">
 <!ENTITY appMenuHelp.label "Pomoc">
 <!ENTITY appMenuHelp.tooltip "Meni Pomoc wočinić">
 
