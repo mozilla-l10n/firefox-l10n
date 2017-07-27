@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "సాధారణం">
 
-<!ENTITY accessibility.label             "అందుబాటు">
-
 <!ENTITY useCursorNavigation.label       "పేజీల మధ్య సంచరణకు ఎల్లప్పుడు కర్సరు కీలను ఉపయోగించండి">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "మీరు టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "వెబ్‌సైటులు పేజీని మళ్ళించుటకు లేదా తిరిగి లోడుచేయుటకు ప్రయత్నిస్తున్నప్పుడు నిన్ను హెచ్చరించు">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "అవసరమైనప్పుడు స్పర్శా కీ బోర్డు చూపించు">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -32,24 +28,13 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "మీ బ్రౌజర్ పనితనం అర్ధంచేసుకొనుటకు మీకు సహాయంచేయును మరియు మీ బ్రౌజర్ ఆరోగ్యమును గురించి &vendorShortName; తో దత్తాంశం పంచుకొనును.">
-<!ENTITY enableHealthReport.label        "&brandShortName; ఆరోగ్య నివేదిక చేతనంచేయి">
-<!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "ఇంకా తెలుసుకోండి">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ బ్రౌజర్ పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం &vendorShortName; తో పంచుకొనును">
-<!ENTITY enableTelemetryData.label       "అదనపు డేటాను (అంటే, టెలిమెట్రీ) పంచుకోండి">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "ఇంకా తెలుసుకోండి">
 
-<!ENTITY crashReporterDesc2.label         "క్రాష్ నివేదికల &vendorShortName; సమస్యలు పరిష్కరించడానికి మరియు మీ బ్రౌజర్ ని మరింత స్థిరంగా మరియు భద్రంగా ఉంచడానికి సహాయపడుతుంది">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; మీ తరపున క్రాష్ నివేదికలను పంపడానికి అనుమతించండి">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "ఇంకా తెలుసుకోండి">
+<!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
 <!ENTITY networkTab.label                "నెట్‌వర్క్">
 
-<!ENTITY connection.label                "అనుసంధానము">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
 <!ENTITY connectionSettings.label        "అమరికలు…">
@@ -99,8 +84,7 @@ available. -->
 <!ENTITY updateApplication.version.pre   "సంచిక ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "వీటికి &brandShortName;ని అనుమతించు">
-<!ENTITY updateAuto2.label               "తాజాకరణలను స్వయంచాలకంగా స్థాపించు (మెరుగైన భద్రత కోసం సిఫారసు చేయబడింది)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "తాజాకరణల కోసం చూస్తుంది కానీ స్థాపించుకోవాలో వద్దో మిమ్నల్ని ఎంచుకోనిస్తుంది">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "తాజాకరణల కోసం ఎప్పుడూ చూడవద్దు (సిఫారసు చేయము)">
@@ -114,8 +98,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "సెర్చింజన్లను స్వయంచాలకంగా తాజాకరించు">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "నివేదికలు">
 
 <!ENTITY offlineStorageNotify.label               "వెబ్‌ సైటు ఆఫ్‌లైన్ ఉపయోగం కొరకు డాటాను నిల్వచేయుటకు అడిగినప్పుడు మీకు తెలియజేయును">
 <!ENTITY offlineStorageNotify.accesskey           "T">
