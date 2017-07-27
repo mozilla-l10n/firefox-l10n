@@ -318,6 +318,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Taybet Bike"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
+
+
 <!ENTITY historyMenu.label "Raborî">
 <!ENTITY historyMenu.accesskey "R">
 <!ENTITY historyUndoMenu.label "Hilpekînên di nêzîk de hatine girtin">
@@ -337,6 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Raboriya nêzîk paqij bike…">
 <!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
 <!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
+
 
 <!ENTITY appMenuHelp.tooltip "Menuya Alîkariyê veke">
 
