@@ -177,10 +177,10 @@
 <!ENTITY pref_category_accessibility "დამხმარე საშუალებები">
 <!ENTITY pref_category_accessibility_summary2 "ტექსტის ზომა, მასშტაბი, ხმოვანი შეყვანა">
 <!ENTITY pref_category_privacy_short "პირადულობა">
-<!ENTITY pref_category_privacy_summary4 "თვალთვალი, შესვლები, მონაცემთა არჩევანი">
+<!ENTITY pref_category_privacy_summary4 "თვალთვალი, შესვლები, მონაცემთა შერჩევა">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "&brandShortName;-იშ შესახენ. ხდკ, უკუკავშირი">
-<!ENTITY pref_category_datareporting "მონაცემთა არჩევნი">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName;-ის შესახებ, ხ.დ.კ. უკუკავშირი">
+<!ENTITY pref_category_datareporting "მონაცემთა შერჩევა">
 <!ENTITY pref_category_logins "შესვლები">
 <!ENTITY pref_learn_more "შეიტყვეთ მეტი">
 <!ENTITY pref_category_installed_search_engines "დაყენებული საძიებო სისტემები">
@@ -205,16 +205,16 @@
 <!ENTITY pref_content_notifications_summary2 "აღმოაჩინეთ ახალი შიგთავსი მხარდაჭერილი საიტებიდან">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვა მოითხოვს, რომ თქვენს მოწყობილობაზე ინსტალირებული იყოს QR კოდის წამკითხავი.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვისთვის საჭიროა დაყენებული იყოს QR კოდის წამკითხავი.">
 <!ENTITY pref_remember_signons2 "შესვლების შენახვა">
-<!ENTITY pref_manage_logins "შესვლების გამართვა">
+<!ENTITY pref_manage_logins "შესვლების მართვა">
 
 <!ENTITY pref_category_home "მთავარი">
 <!ENTITY pref_category_home_summary "მოირგეთ თქვენი საწყისი გვერდი">
 <!ENTITY pref_category_home_panels "პანელები">
 <!ENTITY pref_category_home_add_ons "დამატებები">
 <!ENTITY pref_home_updates2 "შიგთავსის განახლებები">
-<!ENTITY pref_home_updates_enabled "ჩართული">
+<!ENTITY pref_home_updates_enabled "ჩართულია">
 <!ENTITY pref_home_updates_wifi "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_category_home_homepage "საწყისი გვერდი">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -262,7 +262,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "სურათების ჩვენება">
 <!ENTITY pref_tap_to_load_images_enabled "ყოველთვის">
 <!ENTITY pref_tap_to_load_images_data "მხოლოდ Wi-Fi-თ">
-<!ENTITY pref_tap_to_load_images_disabled2 "შეზღუდულია">
+<!ENTITY pref_tap_to_load_images_disabled2 "არასდროს">
 
 <!ENTITY pref_show_web_fonts "ვებ-შრიფტების ჩვენება">
 <!ENTITY pref_show_web_fonts_summary2 "დისტანციური შრიფტების ჩამოტვირთვა გვერდის ჩატვირთვისას">
@@ -272,9 +272,9 @@
 <!ENTITY pref_donottrack_title "არ მითვალთვალო">
 <!ENTITY pref_donottrack_summary "&brandShortName; მიუთითებს საიტებს, რომ არ გსურთ, გითვალთვალონ">
 
-<!ENTITY pref_tracking_protection_enabled "ჩართული">
-<!ENTITY pref_tracking_protection_enabled_pb "ჩართული პირად დათვალიერებაში">
-<!ENTITY pref_tracking_protection_disabled "გამორთული">
+<!ENTITY pref_tracking_protection_enabled "ჩართულია">
+<!ENTITY pref_tracking_protection_enabled_pb "ჩართულია პირად დათვალიერებაში">
+<!ENTITY pref_tracking_protection_disabled "გამორთულია">
 
 <!ENTITY pref_whats_new_notification "რა არის ახალი &brandShortName;-ში">
 <!ENTITY pref_whats_new_notification_summary "გაიგეთ ახალ ფუნქციებზე განახლების შემდეგ">
@@ -296,11 +296,11 @@
 <!ENTITY custom_tabs_hint_url_copy "URL დაკოპირდა">
 
 <!ENTITY pref_pwa "მზარდი ვებ-აპლიკაციები">
-<!ENTITY pref_pwa_summary "ვებ-აპლიკაციებისთვის მთავარ გვერდზე დასამატებლად ნებართვის მიცემა">
+<!ENTITY pref_pwa_summary "ვებ-აპლიკაციების მთავარ გვერდზე დამატების დაშვება">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "აქტიურობის ნაკადი">
-<!ENTITY pref_activity_stream_summary "ისტორიის მდიდარი ვიზუალური ლენტი და საშინაო გვერდის განახლებული ხედი გეხმარებათ, &brandShortName;-ში უფრო მარტივად იპოვოთ ის, რასაც ეძებთ.">
+<!ENTITY pref_activity_stream "მოქმედებების აღრიცხვა">
+<!ENTITY pref_activity_stream_summary "განახლებული საწყისი გვერდი, სადაც მოცემული იქნება ყველა საჭირო და მნიშვნელოვანი მონაკვეთი მონახულებული გვერდების ისტორიიდან, რაც გაგიმარტივებთ საჭირო და ზუსტი ინფორმაციის მოძიებას &brandShortName;-ში.">
 
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
 <!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტები იზღუდება მუდმივად, ასე რომ, შეგიძლიათ არ იდარდოთ.">
@@ -359,11 +359,11 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ახლავე გასუფთავება">
 <!ENTITY pref_clear_on_exit_title3 "პირადი მონაცემების გასუფთავება გამოსვლისას">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავრი მენიუდან \u0022გასვლის\u0022 არჩევის დროს">
-<!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ გასასუფთავებელი მონაცემები">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავარი მენიუდან \u0022გასვლის\u0022 დროს">
+<!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ მონაცემები">
 <!ENTITY pref_plugins "მოდულები">
 <!ENTITY pref_plugins_enabled "ჩართულია">
-<!ENTITY pref_plugins_tap_to_play2 "შეეხეთ დასაკრავად">
+<!ENTITY pref_plugins_tap_to_play2 "შეხებით გაშვება">
 <!ENTITY pref_plugins_disabled "ამორთულია">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
@@ -371,12 +371,12 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "შრიფტის სისტემაში მითითებული ზომის გამოყენება">
+<!ENTITY pref_use_system_font_size "შრიფტის სისტემური ზომის გამოყენება">
 <!ENTITY pref_use_system_font_size_summary "ვებ-შიგთავსის ზომების ცვლილება, სისტემის შრიფტის ზომის მიხედვით">
 
-<!ENTITY pref_media_autoplay_enabled "ავტო-დაკვრის დაშვება">
-<!ENTITY pref_media_autoplay_enabled_summary "ვებ-საიტის ვიდეოების და სხვა მედია შიგთავსის ავტო-დაკვრის კონტროლი">
-<!ENTITY pref_zoom_force_enabled "ყოველთვის ჩაირთოს მასშტაბი">
+<!ENTITY pref_media_autoplay_enabled "ნებართვა თვით-გაშვებაზე">
+<!ENTITY pref_media_autoplay_enabled_summary "ვებ-საიტის უფლებების მართვა, ვიდეოებისა და სხვა მედია შიგთავსის ავტომატურ გაშვებაზე">
+<!ENTITY pref_zoom_force_enabled "მასშტაბირების ჩართვა ყველგან">
 <!ENTITY pref_zoom_force_enabled_summary "უგულებელყოფს საიტების პარამეტრებს, რათა ყველა გვერდზე შეცვალოთ მასშტაბი">
 <!ENTITY pref_voice_input "ხმოვანი შეყვანა">
 <!ENTITY pref_voice_input_summary2 "ხმოვანი კარნახის დაშვება URL ზოლში">
@@ -388,18 +388,18 @@
 <!ENTITY pref_sync_summary2 "დაასინქრონეთ თქვენი ჩანართები, სანიშნეები, შესვლები, ისტორია">
 <!ENTITY pref_search_suggestions "ძიების შემოთავაზების ჩვენება">
 <!ENTITY pref_history_search_suggestions "ძიების ისტორიის ჩვენება">
-<!ENTITY pref_import_options "შემოტანის პარამეტრები">
+<!ENTITY pref_import_options "გადმოტანის პარამეტრები">
 <!ENTITY pref_import_android_summary "გადმოიტანეთ სანიშნეები და ისტორია სხვა ბრაუზერებიდან">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "გახსნილი ჩანართები">
 <!ENTITY pref_private_data_history2 "დათვალიერების ისტორია">
 <!ENTITY pref_private_data_searchHistory "ძიების ისტორია">
-<!ENTITY pref_private_data_formdata2 "ისტორიიდან">
-<!ENTITY pref_private_data_cookies2 "ფუნთუშები და სეანსები ავტორიზაციით">
+<!ENTITY pref_private_data_formdata2 "ველები">
+<!ENTITY pref_private_data_cookies2 "ფუნთუშები და მიმდინარე შესვლები">
 <!ENTITY pref_private_data_passwords2 "შენახული შესვლები">
 <!ENTITY pref_private_data_cache "ბუფერი">
-<!ENTITY pref_private_data_offlineApps "ავტონომიურად შენახული მონაცემები">
+<!ENTITY pref_private_data_offlineApps "საიტების კავშირგარეშე მონაცემები">
 <!ENTITY pref_private_data_siteSettings2 "საიტის პარამეტრები">
 <!ENTITY pref_private_data_downloadFiles2 "ჩამოტვირთვები">
 <!ENTITY pref_private_data_syncedTabs "სინქრონიზებული ჩანართები">
@@ -407,7 +407,7 @@
 <!ENTITY pref_default_browser "ნაგულისხმევი ბრაუზერი">
 <!ENTITY pref_default_browser_mozilla_support_tablet "ეწვიეთ Mozilla მხარდაჭერას">
 <!ENTITY pref_about_firefox "&brandShortName; ინფორმაცია">
-<!ENTITY pref_vendor_faqs "ფ.ა.კ.">
+<!ENTITY pref_vendor_faqs "ხ.დ.კ.">
 <!ENTITY pref_vendor_feedback "გამოხმაურება">
 
 <!ENTITY pref_dialog_set_default "ნაგულისხმევად დაყენება">
@@ -446,7 +446,7 @@
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ავარიული დახურვის მომხსენებელი">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; მდებარეობის სერვისი">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; მდებარეობა">
 <!ENTITY datareporting_wifi_geolocation_summary4 "დაეხმარე &vendorShortName;-ს მსოფლიოს დაგეგმარებაში! გააზიარეთ თქვენი მოწყობილობის მიახლოებითი Wi-Fi და მობილური მდებარეობა ჩვენი გეოლოკაციის მომსახურების გასაუმჯობესებლად.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -540,7 +540,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "ჩანართების შემჭიდროება">
-<!ENTITY pref_compact_tabs_summary2 "ჩანართების ორ რიგად დალაგება შვეული რეჟიმისას">
+<!ENTITY pref_compact_tabs_summary2 "ჩანართების ორ რიგად დალაგება შვეულად ჩვენებისას">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -666,8 +666,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "თვალთვალისგან დაცვა">
-<!ENTITY doorhanger_tracking_state_enabled "ჩართული">
-<!ENTITY doorhanger_tracking_state_disabled "გამორთული">
+<!ENTITY doorhanger_tracking_state_enabled "ჩართულია">
+<!ENTITY doorhanger_tracking_state_disabled "გამორთულია">
 <!ENTITY doorhanger_tracking_message_enabled1 "ინტერნეტში თქვენს მოქმედებებზე თვალთვალის მცდელობა აღიკვეთა.">
 <!ENTITY doorhanger_tracking_message_disabled2 "ეს გვერდი შეიცავს ელემენტებს, რომელთაც შესაძლოა გითვალთვალონ.">
 
@@ -679,12 +679,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "პირადი მონაცემები გასუფთავდა">
 <!ENTITY private_data_fail "ზოგიერთი პირადი მონაცემის გასუფთავება ვერ ხერხდება">
 
-<!ENTITY bookmarkhistory_button_import "იმპორტი">
+<!ENTITY bookmarkhistory_button_import "გადმოტანა">
 <!ENTITY bookmarkhistory_import_both "სანიშნეებისა და ისტორიის გადმოტანა
                                       Android-იდან">
 <!ENTITY bookmarkhistory_import_bookmarks "სანიშნეების გადმოტანა
                                            Android-იდან">
-<!ENTITY bookmarkhistory_import_history "ისტორიის იმპორტი
+<!ENTITY bookmarkhistory_import_history "ისტორიის გადმოტანა
                                          Android-იდან">
 <!ENTITY bookmarkhistory_import_wait "გთხოვთ დაიცადოთ...">
 
@@ -794,7 +794,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "ისტორიის გასუფთავება">
 <!ENTITY restrictable_feature_clear_history_description "ოჯახის წევრებს მათ მიერ მონახულებული საიტების და გვერდების შესახებ ინფორმაციის წაშლის საშუალებას აძლევს.">
 <!ENTITY restrictable_feature_advanced_settings "დამატებითი პარამეტრები">
-<!ENTITY restrictable_feature_advanced_settings_description "ეს შეიცავს სანიშნეების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
+<!ENTITY restrictable_feature_advanced_settings_description "ეს მოიცავს სანიშნეების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
 <!ENTITY restrictable_feature_camera_microphone "კამერა და მიკროფონი">
 <!ENTITY restrictable_feature_camera_microphone_description "ოჯახის წევრებს ვებ-საიტებზე რეალური დროის კომუნიკაციის საშუალებას აძლევს.">
 <!ENTITY restrictable_feature_block_list "შეზღუდულთა სია">
