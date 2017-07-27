@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Meld aan">
 <!ENTITY signIn.accesskey            "M">
 <!ENTITY profilePicture.tooltip      "Verander profielprent">
-<!ENTITY verifiedManage.label        "Bestuur rekening">
-<!ENTITY verifiedManage.accesskey    "u">
+
+
 <!ENTITY disconnect3.label           "Ontkoppel…">
 <!ENTITY disconnect3.accesskey       "O">
 <!ENTITY verify.label                "Verifieer e-posadres">
