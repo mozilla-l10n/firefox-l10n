@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Ḥrez &brandShortName; yettwalqem i tmellit ifazen, arkad, akked tɣellist.">
 <!ENTITY updateApplication.version.pre   "Lqem ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Sireg &brandShortName; akken ad">
-<!ENTITY updateAuto2.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
-<!ENTITY updateAuto2.accesskey           "L">
+<!ENTITY updateAuto3.label               "Sebded ileqman s wudem awurman (yelha)">
+<!ENTITY updateAuto3.accesskey           "S">
 <!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman macac ad k-yeǧǧ ad ferneḍ asebded">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)">

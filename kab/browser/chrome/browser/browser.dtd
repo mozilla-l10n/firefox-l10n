@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "g">
 <!ENTITY viewCustomizeToolbar.label       "Sagen…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
+<!ENTITY overflowCustomizeToolbar.label       "Mudd udem i ufeggag n ifecka…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Amazray">
 <!ENTITY historyMenu.accesskey "A">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-inek n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit izrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
+<!ENTITY appMenuHistory.recentHistory.label "Amazray n melmi kan">
 <!ENTITY appMenuHelp.label "Tallalt">
 <!ENTITY appMenuHelp.tooltip "Ldi umuɣ n tallalt">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Azen ɣer yibenk">
 <!ENTITY sendToDevice.viewTitle "Azen ɣer yibenk">
-<!ENTITY sendToDevice.fxaRequired.label "Yettawsra">
-<!ENTITY sendToDevice.noDevices.label "Ulac ibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
