@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Testreszabás…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
+
+
 <!ENTITY historyMenu.label "Előzmények">
 <!ENTITY historyMenu.accesskey "m">
 <!ENTITY historyUndoMenu.label "Nemrég bezárt lapok">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
+
 <!ENTITY appMenuHelp.label "Súgó">
 <!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 

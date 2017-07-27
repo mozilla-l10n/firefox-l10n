@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Bejelentkezés">
 <!ENTITY signIn.accesskey            "B">
 <!ENTITY profilePicture.tooltip      "Profilkép módosítása">
-<!ENTITY verifiedManage.label        "Fiók kezelése">
-<!ENTITY verifiedManage.accesskey    "F">
+
+
 <!ENTITY disconnect3.label           "A kapcsolat bontása…">
 <!ENTITY disconnect3.accesskey       "t">
 <!ENTITY verify.label                "E-mail ellenőrzése">
