@@ -49,7 +49,10 @@
 <!ENTITY  finishedBackground.name         "Mesa a jorn :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "La mesa a jorn s'installarà quand aviarètz tornamai &brandShortName;. Podètz tornar aviar &brandShortName; ara o contunhar de trabalhar e torniar aviar pus tard.">
-
+<!ENTITY  finishedBackground.moreElevated "Aquesta mesa a jorn fa mestièr dels privilègis administrator. La mesa a jorn
+                                           serà installada a l'aviada venenta de &brandShortName;.
+Podètz tornar aviar &brandShortName; ara o contunhar vòstre trabalh e
+                                           tornar aviar mai tard o regetar aquesta mesa a jorn.">
 
 <!ENTITY  update.details.label            "Detalhs">
 <!ENTITY  update.installedOn.label        "Installat lo :">
