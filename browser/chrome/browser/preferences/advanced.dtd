@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Cadw &brandShortName; yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.">
 <!ENTITY updateApplication.version.pre   "Fersiwn ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Caniatau i &brandShortName;">
-<!ENTITY updateAuto2.label               "Gosod diweddariadau yn awtomatig (argymell ar gyfer gwella diogelwch)">
-<!ENTITY updateAuto2.accesskey           "G">
+<!ENTITY updateAuto3.label               "Gosod diweddariadau'n awtomatig (argymell)">
+<!ENTITY updateAuto3.accesskey           "G">
 <!ENTITY updateCheckChoose2.label        "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
 <!ENTITY updateCheckChoose2.accesskey    "G">
 <!ENTITY updateManual2.label             "Byth gwirio am ddiweddariadau (ddim yn argymell)">

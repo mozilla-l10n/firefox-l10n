@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "B">
 <!ENTITY viewCustomizeToolbar.label       "Cyfaddasu…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "y">
+<!ENTITY overflowCustomizeToolbar.label       "Cyfaddasu'r Bar Offer…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Hanes">
 <!ENTITY historyMenu.accesskey "H">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
+<!ENTITY appMenuHistory.recentHistory.label "Hanes Diweddar">
 <!ENTITY appMenuHelp.label "Cymorth">
 <!ENTITY appMenuHelp.tooltip "Agor Dewislen Cymorth">
 
