@@ -311,6 +311,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Tlwaelanya…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
+
+
 <!ENTITY historyMenu.label "Histori">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Dithepo tšeo di tswaletšwego morago bjale">
@@ -321,6 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Tlwaelanya">
+
 
 
 
