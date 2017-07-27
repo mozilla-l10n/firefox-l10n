@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "定制…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "自定义工具栏…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "历史">
 <!ENTITY historyMenu.accesskey "s">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复上一次会话">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
+<!ENTITY appMenuHistory.recentHistory.label "近期历史记录">
 <!ENTITY appMenuHelp.label "帮助">
 <!ENTITY appMenuHelp.tooltip "打开帮助菜单">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "发送到设备">
 <!ENTITY sendToDevice.viewTitle "发送到设备">
-<!ENTITY sendToDevice.fxaRequired.label "必填">
-<!ENTITY sendToDevice.noDevices.label "无可用设备">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
