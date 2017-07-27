@@ -46,3 +46,10 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Спечелени от кеша">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Спечелени от мрежата">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Общ брой мрежови заявки">
+<!ENTITY aboutNetworking.rcwnOperation         "Действия с кеша">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Отваряне">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Четене">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Писане">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Отваряне на елемент">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Брой бавен кеш">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Брой не бавен кеш">
