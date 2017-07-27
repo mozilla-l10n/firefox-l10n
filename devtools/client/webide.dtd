@@ -76,7 +76,6 @@
 <!ENTITY details_location "Indirizzo">
 <!ENTITY details_manifestURL "ID app">
 <!ENTITY details_removeProject_button "Rimuovi progetto">
-<!ENTITY details_showPrepackageLog_button "Visualizza registro pre-packaging">
 <!ENTITY newAppWindowTitle "Nuova app">
 <!ENTITY newAppHeader "Seleziona modello">
 <!ENTITY newAppLoadingTemplate "Caricamento modelli…">
