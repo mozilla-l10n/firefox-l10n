@@ -93,3 +93,15 @@
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro decisioni">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funzioni disattivate da Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluzioni alternative">
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivi di output">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivi di input">
+<!ENTITY aboutSupport.mediaDeviceName "Nome">
+<!ENTITY aboutSupport.mediaDeviceGroup "Gruppo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Produttore">
+<!ENTITY aboutSupport.mediaDeviceState "Stato">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferito">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canali">
+<!ENTITY aboutSupport.mediaDeviceRate "Frequenza">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latenza">
