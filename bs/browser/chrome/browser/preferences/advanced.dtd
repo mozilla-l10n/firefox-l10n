@@ -84,10 +84,11 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Dozvoli &brandShortName;u da">
-<!ENTITY updateAuto2.label               "Automatski instaliraj nadogradnje (preporučeno: unaprijeđena sigurnost)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "Provjeri za nadogradnju, ali me prvo pitaj da li želim instalirati">
 <!ENTITY updateCheckChoose2.accesskey    "P">
 <!ENTITY updateManual2.label             "Nikad ne provjeravaj za nadogradnju (nije preporučeno)">

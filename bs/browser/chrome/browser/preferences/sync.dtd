@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Prijava">
 <!ENTITY signIn.accesskey            "a">
 <!ENTITY profilePicture.tooltip      "Promijenite profilnu sliku">
-<!ENTITY verifiedManage.label        "Upravljanje računom">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 
 
 <!ENTITY verify.label                "Potvrdi email">
