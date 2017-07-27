@@ -75,10 +75,6 @@
 
 <!ENTITY options.enableRemote.label3    "தொலைநிலை வழுநீக்கத்தை செயல்படுத்து">
 <!ENTITY options.enableRemote.tooltip2  "இந்த விருப்பத்தைச் செயற்படுத்தினால் உருவாக்குநர் கருவிகளால் Firefox OS போன்ற தொலைநிலை Firefox வடிவங்களை வழுநீக்க முடியும்">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

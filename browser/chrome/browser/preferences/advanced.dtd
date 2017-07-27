@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "பதிப்பு ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "பின்வரும் தேர்வுக்கு &brandShortName; உலாவியை அனுமதி">
-<!ENTITY updateAuto2.label               "புதுப்பிப்புகளைத் தானாக நிறுவு (மேம்பட்ட பாதுகாப்பிற்கு பரிந்துரைக்கப்படுவது)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "புதுப்பிப்புகள் உள்ளதா எனச் சோதிக்கவும், நிறுவ வேண்டுமா என்பதை நானே தேர்வு செய்கிறேன்">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "புதுப்பித்தல்களைப் பார்க்க வேண்டாம் (பரிந்துரைக்கவில்லை)">
