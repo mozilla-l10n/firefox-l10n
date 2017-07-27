@@ -548,6 +548,7 @@
 <!ENTITY page_removed "పేజీ తీసివేయబడెను">
 
 <!ENTITY bookmark_edit_title "ఇష్టాంశాన్ని సవరించు">
+<!ENTITY bookmark_edit_folder_title "సంచికను సవరించు">
 <!ENTITY bookmark_edit_name "పేరు">
 <!ENTITY bookmark_edit_location "ప్రాంతం">
 <!ENTITY bookmark_edit_keyword "కీపదం">
