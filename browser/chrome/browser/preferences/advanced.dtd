@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Uhlobo ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Vumela i-&brandShortName; ukuba">
-<!ENTITY updateAuto2.label               "Fakela uhlaziyo ngokuzenzekela (kucetyiswa njalo ukwenzela ukhuseleko oluphuculweyo)">
-<!ENTITY updateAuto2.accesskey           "F">
+
+
 <!ENTITY updateCheckChoose2.label        "Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na">
 <!ENTITY updateCheckChoose2.accesskey    "K">
 <!ENTITY updateManual2.label             "Ungaze ukhangele uhlaziyo (akunconyelwa)">

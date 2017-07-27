@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Sayina uNgene">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Tshintsha umfanekiso weprofayili">
-<!ENTITY verifiedManage.label        "Lawula iAkhawunti">
-<!ENTITY verifiedManage.accesskey    "k">
+
+
 <!ENTITY disconnect3.label           "Khupha uqhagamshelo...">
 <!ENTITY disconnect3.accesskey       "K">
 <!ENTITY verify.label                "Qinisekisa i-Imeyili">
