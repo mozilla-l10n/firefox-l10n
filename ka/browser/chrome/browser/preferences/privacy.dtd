@@ -58,14 +58,14 @@
 <!ENTITY  keepUntil.label               "შენახვა სანამ:">
 <!ENTITY  keepUntil.accesskey           "ს">
 
-<!ENTITY  expire.label                  "ვადა გაუვათ">
+<!ENTITY  expire.label                  "ვადა გაუვა">
 <!ENTITY  close.label                   "&brandShortName; დაიხურება">
 
 <!ENTITY  cookieExceptions.label        "გამონაკლისები…">
 <!ENTITY  cookieExceptions.accesskey    "გ">
 
 <!ENTITY  showCookies.label             "ფუნთუშების ნახვა…">
-<!ENTITY  showCookies.accesskey         "ჩ">
+<!ENTITY  showCookies.accesskey         "ფ">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; ბრაუზერი">
 <!ENTITY  historyHeader2.pre.accesskey     "ბ">
