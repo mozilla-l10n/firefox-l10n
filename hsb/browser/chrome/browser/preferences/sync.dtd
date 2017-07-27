@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Přizjewić">
 <!ENTITY signIn.accesskey            "z">
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změnić">
-<!ENTITY verifiedManage.label        "Konto rjadować">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "Zwisk dźělić…">
 <!ENTITY disconnect3.accesskey       "Z">
 <!ENTITY verify.label                "E-mejl přepruwować">

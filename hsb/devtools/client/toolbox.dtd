@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Zdalene pytanje za zmylkami">
 <!ENTITY options.enableRemote.tooltip2  "Zmóžnjenje tutoho nastajenja dowoli wuwiwarskim nastrojam, zdalenu instancu Firefox kaž Firefox OS za zmylkami přepytać">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Pytanje zmylkow z workerami zmóžnić (wuwiwa so)">
-<!ENTITY options.enableWorkers.tooltip  "Hdyž so tute nastajenje zmóžnja, móža wuwiwanske nastroje za zmylkami workerow pytać">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
