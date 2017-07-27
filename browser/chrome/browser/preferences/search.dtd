@@ -4,18 +4,19 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard-søgetjeneste">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Vælg hvilken søgetjeneste, du vil bruge som standard. &brandShortName; bruger den i adresselinjen, søgelinjen og på startsiden.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vælg den søgetjeneste, du vil bruge   
+i adresselinjen og søgelinjen.">
 
 <!ENTITY provideSearchSuggestions.label        "Vis søgeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Vis søgeforslag i adresselinjen">
-<!ENTITY showURLBarSuggestions.accesskey       "a">
+<!ENTITY showURLBarSuggestions2.label           "Vis søgeforslag i adresselinjen">
+<!ENTITY showURLBarSuggestions2.accesskey       "a">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat &brandShortName; op til aldrig at gemme historik.">
 
 <!ENTITY oneClickSearchEngines.label           "Lyn-søgetjenester">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Du kan søge direkte i andre søgetjenester. Vælg hvilke, der skal vises.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vælg de alternatiev søgetjenester, der vises under adresselinjen og søgelinjen, når du begynder at indtaste en søgeterm.">
 
 <!ENTITY engineNameColumn.label                "Søgetjeneste">
 <!ENTITY engineKeywordColumn.label             "Stikord">
@@ -26,4 +27,4 @@
 <!ENTITY removeEngine.label                    "Fjern">
 <!ENTITY removeEngine.accesskey                "f">
 
-<!ENTITY addMoreSearchEngines2.label            "Tilføj flere søgetjenester">
+<!ENTITY findMoreSearchEngines.label           "Find flere søgetjenester">
