@@ -14,12 +14,12 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "თქვენი პროფილის შესაქმნელად დააწკაპეთ 'შემდეგს'.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "რამდენიმე პროფილის შექმნის შემთხვევაში მათ სხვადასხვა სახელი უნდა მიანიჭოთ.  შეგიძლიათ გამოიყენოთ ქვემოთ მოყვანილი ან მოიფიქროთ და დაარქვათ თქვენ თვითონ.">
+<!ENTITY profileCreationIntro.text      "რამდენიმე პროფილის შექმნის შემთხვევაში მათ სხვადასხვა სახელი უნდა მიანიჭოთ. შეგიძლიათ გამოიყენოთ ქვემოთ მოყვანილი ან მოიფიქროთ და დაარქვათ თქვენ თვითონ.">
 <!ENTITY profilePrompt.label            "მიუთითეთ პროფილის ახალი სახელი:">
-<!ENTITY profilePrompt.accesskey        "E">
+<!ENTITY profilePrompt.accesskey        "მ">
 <!ENTITY profileDirectoryExplanation.text   "თქვენი პარამეტრები და დანარჩენი მონაცემები აქ შეინახება:">
 <!ENTITY profileDefaultName             "ნაგულისხმევი მომხმარებელი">
-<!ENTITY button.choosefolder.label      "დასტის არჩევა…">
-<!ENTITY button.choosefolder.accesskey  "C">
+<!ENTITY button.choosefolder.label      "საქაღალდის არჩევა…">
+<!ENTITY button.choosefolder.accesskey  "ს">
 <!ENTITY button.usedefault.label        "ნაგულისხმევი საქაღალდის გამოყენება">
-<!ENTITY button.usedefault.accesskey    "U">
+<!ENTITY button.usedefault.accesskey    "ნ">
