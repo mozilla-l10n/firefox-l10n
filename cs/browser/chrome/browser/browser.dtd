@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "P">
 <!ENTITY viewCustomizeToolbar.label       "Nastavit lišty…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "V">
+<!ENTITY overflowCustomizeToolbar.label       "Nastavit lišty…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "N">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyMenu.accesskey "H">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
+<!ENTITY appMenuHistory.recentHistory.label "Nedávná historie">
 <!ENTITY appMenuHelp.label "Nápověda">
 <!ENTITY appMenuHelp.tooltip "Otevře nabídku s nápovědou">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Odeslat do zařízení">
 <!ENTITY sendToDevice.viewTitle "Odeslat do zařízení">
-<!ENTITY sendToDevice.fxaRequired.label "Vyžadováno">
-<!ENTITY sendToDevice.noDevices.label "Žádná zařízení nejsou k dispozici">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
