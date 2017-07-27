@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Iniciar sessão">
 <!ENTITY signIn.accesskey            "c">
 <!ENTITY profilePicture.tooltip      "Alterar imagem de perfil">
-<!ENTITY verifiedManage.label        "Gerir conta">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "Desligar…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verificar email">

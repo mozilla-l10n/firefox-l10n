@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "Ativar depuração remota">
 <!ENTITY options.enableRemote.tooltip2  "Se ativar esta opção irá permitir às ferramentas de programador depurar uma instância remota como o Firefox OS">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "Ativar depuração de workers (em desenvolvimento)">
-<!ENTITY options.enableWorkers.tooltip  "Ativar esta opção irá permitir que as ferramentas de programador depurem workers">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
