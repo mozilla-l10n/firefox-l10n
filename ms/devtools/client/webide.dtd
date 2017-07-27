@@ -178,7 +178,7 @@
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Tetapan Pensimulasi">
-<!ENTITY simulator_remove "Hapuskan Simulator">
+<!ENTITY simulator_remove "Hapus Simulator">
 <!ENTITY simulator_reset "Kembalikan Piawai">
 <!ENTITY simulator_name "Nama">
 <!ENTITY simulator_software "Perisian">
