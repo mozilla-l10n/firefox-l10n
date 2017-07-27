@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "საიტი">
-<!ENTITY treehead.status.label        "სტატუსი">
+<!ENTITY treehead.status.label        "მდგომარეობა">
 <!ENTITY removepermission.label       "საიტის ამოღება">
 <!ENTITY removepermission.accesskey   "ა">
 <!ENTITY removeallpermissions.label   "ყველა საიტის ამოღება">

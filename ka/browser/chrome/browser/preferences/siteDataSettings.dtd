@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "პარამეტრები - საიტის მონაცემები">
 <!ENTITY     hostCol.label                 "საიტი">
-<!ENTITY     statusCol.label               "სტატუსი">
+<!ENTITY     statusCol.label               "მდგომარეობა">
 <!ENTITY     usageCol.label                "მეხსიერების საცავი">
 <!ENTITY     searchTextboxPlaceHolder             "საიტების ძიება">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "ს">

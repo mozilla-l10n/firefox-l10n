@@ -6,13 +6,13 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "პირადი ფანჯრის გახსნა">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "პ">
 
-<!ENTITY privateBrowsing.title                           "პირადი თვალიერება">
+<!ENTITY privateBrowsing.title                           "პირადი თვალიერების რეჟიმი">
 <!ENTITY privateBrowsing.title.tracking                  "პირადი დათვალიერების რეჟიმი თვალთვალისგან დაცვით">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "პირადი ფანჯრით სარგებლობისას, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "არ შეინახავს">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "მონახულებულ გვერდებს">
-<!ENTITY aboutPrivateBrowsing.info.searches              "მოძიებულ გვერდებს">
+<!ENTITY aboutPrivateBrowsing.info.searches              "მოძიებულ ფრაზებს">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "ფუნთუშებს">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "დროებით ფაილებს">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">

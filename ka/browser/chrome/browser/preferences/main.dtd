@@ -8,7 +8,7 @@
 <!ENTITY startupPage2.accesskey    "გ">
 <!ENTITY startupUserHomePage.label "მთავარი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
-<!ENTITY startupPrevSession.label  "ბოლო სესიის ფანჯრებისა და ჩანართების ჩვენება">
+<!ENTITY startupPrevSession.label  "ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება">
 
 <!ENTITY homepage2.label           "მთავარი გვერდი">
 <!ENTITY homepage2.accesskey       "ს">

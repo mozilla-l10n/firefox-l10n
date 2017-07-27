@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ორგანიზება">
 <!ENTITY organize.accesskey    "ო">
-<!ENTITY organize.tooltip      "მოაწესრიგეთ სანიშნეები">
+<!ENTITY organize.tooltip      "დაალაგეთ სანიშნეები">
 
 <!ENTITY file.close.label               "დახურვა">
 <!ENTITY file.close.accesskey           "დ">

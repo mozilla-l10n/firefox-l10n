@@ -18,7 +18,7 @@
 ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-ქვესესიის მონაცემების ჩვენება
+ქვესეანსის მონაცემების ჩვენება
 ">
 
 <!ENTITY aboutTelemetry.choosePing "
@@ -117,7 +117,7 @@
   გვიანი ჩაწერები">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
-  სესიის ინფორმაცია
+  სეანსის ინფორმაცია
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
