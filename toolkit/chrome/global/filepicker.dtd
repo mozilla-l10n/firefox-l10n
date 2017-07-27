@@ -14,8 +14,8 @@
 <!ENTITY showHiddenFiles.label  "დამალული ფაილებისა და დასტების ჩვენება">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
-<!ENTITY noPermissionError.label "თქვენ არ გაგაჩნიათ საჭირო უფლებები ამ დასტის სანახავად.">
+<!ENTITY noPermissionError.label "თქვენ არ გაგაჩნიათ საჭირო უფლებები ამ საქაღალდის სანახავად.">
 
 <!ENTITY folderUp.tooltiptext   "ერთი დონით ზევით">
 <!ENTITY folderHome.tooltiptext "სათაო გვერდზე დაბრუნება">
-<!ENTITY folderNew.tooltiptext  "ახალი დასტის შექმნა">
+<!ENTITY folderNew.tooltiptext  "ახალი საქაღალდის შექმნა">
