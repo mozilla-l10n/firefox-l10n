@@ -878,7 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "За докосване">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "За докосване">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "д">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Използване на За докосване при режим за таблети">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Включване на За докосване в таблетен режим">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
