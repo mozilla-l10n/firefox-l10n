@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "История">
 <!ENTITY  permissions.label             "Права">
 
-<!ENTITY  locationBar.label             "Адресна лента">
-
-<!ENTITY  locbar.suggest2.label         "При въвеждане в адресната лента, подсказване с">
+<!ENTITY  addressBar.label              "Адресна лента">
+<!ENTITY  addressBar.suggest.label      "При въвеждане в адресната лента, подсказване с">
 <!ENTITY  locbar.history.label          "История">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Настройки…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
-<!ENTITY  browserContainersHeader.label         "Изолирани раздели">
 <!ENTITY  browserContainersLearnMore.label      "Научете повече">
 <!ENTITY  browserContainersEnabled.label        "Включване на изолатора на раздели">
 <!ENTITY  browserContainersEnabled.accesskey    "к">

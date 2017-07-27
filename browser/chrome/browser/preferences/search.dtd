@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Стандартна търсеща машина">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Изберете търсеща машина, която да използвате от адресната лента и лентата за търсене.">
 
 <!ENTITY provideSearchSuggestions.label        "Показване на подсказки при въвеждане на думи за търсене">
 <!ENTITY provideSearchSuggestions.accesskey    "П">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Търсене с едно щракване">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Изберете допълнителни търсещи машини, които да се показват под адресната лента и лентата за търсене при въвеждане на текст.">
 
 <!ENTITY engineNameColumn.label                "Търсеща машина">
 <!ENTITY engineKeywordColumn.label             "Ключова дума">
