@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
+
+
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestanyas zarradas en zagueras">
@@ -351,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Borrar o historial recient…">
 <!ENTITY appMenuHistory.restoreSession.label "Recuperar a sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Amostrar a barra lateral de l'historial">
+
 
 <!ENTITY appMenuHelp.tooltip "Ubrir o menú d'aduya">
 
