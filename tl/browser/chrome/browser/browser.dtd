@@ -50,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Ibalik sa dati ang Pagsara ng Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Isara ang Tab">
 <!ENTITY  closeTab.accesskey                 "c">
@@ -62,10 +63,13 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Buksan ang Lokasyon…">
 <!ENTITY openFileCmd.label "Magbukas ng file…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Maglagay ng Pahina…">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Print Preview">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "p">
@@ -76,12 +80,16 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Mga Navigation Toolbar">
 <!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "I-Reload ang Lahat na mga Tab">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "I-bookmark ang lahat na mga Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Ibalik ang Nakasarang Tab">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Source code ng web page">
@@ -90,6 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Mirror Tab">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -589,6 +598,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.introText "E click ang serbisyo para maidagdag sa &brandShortName;.">
 
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 
 <!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
