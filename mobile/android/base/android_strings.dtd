@@ -548,6 +548,7 @@
 <!ENTITY page_removed "S\u0027ha eliminat la pàgina">
 
 <!ENTITY bookmark_edit_title "Edita l\u0027adreça d\u0027interès">
+<!ENTITY bookmark_edit_folder_title "Edita la carpeta">
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
