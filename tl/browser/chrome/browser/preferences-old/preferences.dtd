@@ -18,10 +18,12 @@
 <!ENTITY  paneSearch.title        "Hanapin">
 <!ENTITY  paneContent.title       "Nilalaman">
 <!ENTITY  paneApplications.title  "Mga Application">
-
+<!ENTITY  panePrivacy.title       "Privacy">
+<!ENTITY  paneContainers.title    "Mga Tab ng Lalagyan">
 <!ENTITY  paneSecurity.title      "Seguridad">
 <!ENTITY  paneAdvanced.title      "Advanced">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
+<!ENTITY  helpButton.label        "Tulong">
