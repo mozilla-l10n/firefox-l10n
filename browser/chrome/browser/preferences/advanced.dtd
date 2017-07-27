@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versão ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir ao &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalar atualizações automaticamente (recomendado para melhoria de segurança)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Procurar atualizações mas deixar-lhe escolher instalá-las">
 <!ENTITY updateCheckChoose2.accesskey    "c">
 <!ENTITY updateManual2.label             "Nunca procurar atualizações (não recomendado)">
