@@ -89,8 +89,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "आवृत्ती">
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "&brandShortName; ला परवानगी द्या">
-<!ENTITY updateAuto2.label               "स्वयंरित्या सुधारणा इंस्टॉल करा (सुधारित सुरक्षेसाठी शिफारसीय)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापन करायचे की नाही ते मला ठरवू द्या">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "सुधारणांकरिता कधीच तपासणी करू नका (शिफारसीय नाही)">
