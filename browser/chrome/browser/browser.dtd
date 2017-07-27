@@ -323,6 +323,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "ଇଚ୍ଛାରୂପଣ କରନ୍ତୁ…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "ନିକଟରେ ବନ୍ଦ ହୋଇଥିବା ଟ୍ୟାବଗୁଡ଼ିକ">
@@ -342,6 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
 <!ENTITY appMenuHistory.restoreSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">
+
 
 <!ENTITY appMenuHelp.tooltip "ସହାୟତା ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
 
