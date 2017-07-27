@@ -14,5 +14,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.requestHelp "Volètz nos ajudar ?">
+<!ENTITY tabCrashed.requestReport "Senhalar aqueste onglet">
+<!ENTITY tabCrashed.sendReport2 "Enviar un rapòrt de plantatge per aqueste onglet">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentaris opcionals (los comentaris son visibles publicament)">
 <!ENTITY tabCrashed.emailPlaceholder "Picatz vòstra adreça electronica aicí">
