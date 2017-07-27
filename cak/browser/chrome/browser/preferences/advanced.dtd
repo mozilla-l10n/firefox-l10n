@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Ruwäch ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Tiya' q'ij &brandShortName; chi re">
-<!ENTITY updateAuto2.label               "Keyak pa ruyonil taq k'exoj ruwäch (chilab'en richin nrutzilaj ri jikomal)">
-<!ENTITY updateAuto2.accesskey           "r">
+
+
 <!ENTITY updateCheckChoose2.label        "Kenik'öx taq k'exoj ruwäch, xa xe chi tiya' q'ij chwe richin nincha' we yenyäk">
 <!ENTITY updateCheckChoose2.accesskey    "K">
 <!ENTITY updateManual2.label             "Majub'ey kekanöx taq k'exoj ruwäch (we man echilab'en ta)">

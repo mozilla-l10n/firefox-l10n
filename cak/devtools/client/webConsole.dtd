@@ -6,20 +6,15 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
-
 <!ENTITY window.title "Ajk'amaya'l Temeb'äl">
-<!ENTITY browserConsole.title "Rutemeb'al okik'amaya'l">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-
 <!ENTITY openURL.label     "Tijaq URL pa jun k'ak'a' ruwi'">
 <!ENTITY openURL.accesskey "r">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-
 <!ENTITY btnPageNet.label   "K'amab'ey">
 <!ENTITY btnPageNet.tooltip "Tiq'alajisäx okem pa k'amab'ey">
 <!ENTITY btnPageNet.accesskey "K">
