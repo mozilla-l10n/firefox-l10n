@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
-<!ENTITY updateAuto2.label               "نصب خودکار بروزرسانی‌ها (جهت بهبود امنیت توصیه می‌شود)">
-<!ENTITY updateAuto2.accesskey           "ن">
+
+
 <!ENTITY updateCheckChoose2.label        "وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود">
 <!ENTITY updateCheckChoose2.accesskey    "و">
 <!ENTITY updateManual2.label             "هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)">

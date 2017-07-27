@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "س">
 
+
+
 <!ENTITY historyMenu.label "تاریخچه">
 <!ENTITY historyMenu.accesskey "ت">
 <!ENTITY historyUndoMenu.label "زبانه‌های تازه بسته شده">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
+
 <!ENTITY appMenuHelp.label "راهنما">
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 

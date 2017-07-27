@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "فعال‌سازی رفع‌اشکال از راه دور">
 <!ENTITY options.enableRemote.tooltip2  "فعال کردن این گزینه به ابزار توسعه اجازه اشکال زدایی از راه دور فایرفاکس مانند سیستم عامل فایرفاکس را می‌دهد">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "فعال‌سازی اشکال‌زدایی کارگر (در حال توسعه)">
-<!ENTITY options.enableWorkers.tooltip  "فعال کردن این امکان به ابزارهای توسعه امکان اشکال‌زدایی workers را می‌دهد">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
