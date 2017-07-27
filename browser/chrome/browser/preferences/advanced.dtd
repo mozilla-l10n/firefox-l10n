@@ -87,8 +87,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Տարբերակ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Թույլատրել &brandShortName;-ին">
-<!ENTITY updateAuto2.label               "Թարմացումների ինքնաբար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
-<!ENTITY updateAuto2.accesskey           "Թ">
+
+
 <!ENTITY updateCheckChoose2.label        "Ստուգել թարմացումները, բայց ես կընտրեմ, թե որը տեղադրել">
 <!ENTITY updateCheckChoose2.accesskey    "Ս">
 <!ENTITY updateManual2.label             "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
