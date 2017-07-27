@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Հարմարեցնել…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Հ">
 
+
+
 <!ENTITY historyMenu.label "Պատմություն">
 <!ENTITY historyMenu.accesskey "տ">
 <!ENTITY historyUndoMenu.label "Վերջին փակված ներդիրները">
@@ -351,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Մաքրել Վերջին Պատմությունը...">
 <!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
+
 <!ENTITY appMenuHelp.label "Օգնություն">
 <!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
