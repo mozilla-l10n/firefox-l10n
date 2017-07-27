@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "সাইন ইন">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
-<!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "বিচ্ছিন্ন…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ইমেল যাচাই">

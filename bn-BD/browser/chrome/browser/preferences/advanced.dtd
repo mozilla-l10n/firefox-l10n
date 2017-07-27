@@ -87,8 +87,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "সংস্করণ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
-<!ENTITY updateAuto2.label               "হালনাগাদ স্বয়ংক্রিয়ভাবে ইনস্টল হয় (উন্নত নিরাপত্তার জন্য প্রস্তাবিত)">
-<!ENTITY updateAuto2.accesskey           "A">
+
+
 <!ENTITY updateCheckChoose2.label        "হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 

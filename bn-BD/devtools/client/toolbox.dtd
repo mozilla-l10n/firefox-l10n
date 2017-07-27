@@ -81,12 +81,6 @@
 
 <!ENTITY options.enableRemote.label3    "রিমোট ডিবাগিং সক্রিয় করুন">
 <!ENTITY options.enableRemote.tooltip2  "অপশনটি চালু করলে ডেভেলোপার টুলগুলো দূরে থেকে ডিবাগ করা যাবে যেমন Firefox OS">
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-
-<!ENTITY options.enableWorkers.label    "ওয়ার্কার ডিবাগিং সক্রিয় করুন (ডেভেলপিং চলমান)">
-<!ENTITY options.enableWorkers.tooltip  "এই অপশন অন করলে ওয়ার্কাররা ডেভলপারদের টুল ডিবাগ করতে পারবে">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
