@@ -84,10 +84,11 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Naŋ &brandShortName; ma">
-<!ENTITY updateAuto2.label               "Taagandirey sinji ngi boŋse (woo yaamarandi saajaw tontoni se)">
-<!ENTITY updateAuto2.accesskey           "a">
+
+
 <!ENTITY updateCheckChoose2.label        "Taagandirey guna, amma naŋ ma sinji dogoo suuba">
 <!ENTITY updateCheckChoose2.accesskey    "g">
 <!ENTITY updateManual2.label             "Ma ši taagandirey ceeci abada (ši yaamarandi)">

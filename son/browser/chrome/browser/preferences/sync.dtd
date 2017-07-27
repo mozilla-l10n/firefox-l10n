@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Huru">
 <!ENTITY signIn.accesskey            "H">
 <!ENTITY profilePicture.tooltip      "Alhaali bii barmay">
-<!ENTITY verifiedManage.label        "Kontu juwal">
-<!ENTITY verifiedManage.accesskey    "o">
+
+
 <!ENTITY disconnect3.label           "Ciyari dunbu…">
 <!ENTITY disconnect3.accesskey       "d">
 <!ENTITY verify.label                "Bataga aderesu koroši">

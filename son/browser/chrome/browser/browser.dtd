@@ -333,6 +333,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 
+
+
 <!ENTITY historyMenu.label "Taariki">
 <!ENTITY historyMenu.accesskey "T">
 <!ENTITY historyUndoMenu.label "Kanjey kaŋ kokor ka daaba">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
 <!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
+
 <!ENTITY appMenuHelp.label "Faaba">
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
 
