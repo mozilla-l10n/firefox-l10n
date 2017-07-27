@@ -37,6 +37,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Sieť">
 
+<!ENTITY networkProxy.label              "Nastavenie pripojenia">
 
 <!ENTITY connectionDesc.label            "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
 <!ENTITY connectionSettings.label        "Nastavenia…">
@@ -86,8 +87,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Verzia ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Povoliť aplikácii &brandShortName;">
-<!ENTITY updateAuto2.label               "Automaticky inštalovať aktualizácie (odporúčané z dôvodu vyššej bezpečnosti)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Automaticky inštalovať aktualizácie (odporúčané)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
 <!ENTITY updateCheckChoose2.accesskey    "k">
 <!ENTITY updateManual2.label             "Nevyhľadávať aktualizácie (neodporúča sa)">
