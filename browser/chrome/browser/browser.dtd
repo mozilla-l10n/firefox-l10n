@@ -312,6 +312,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Yenza ngokwezifiso…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
+
+
 <!ENTITY historyMenu.label "Umlando">
 <!ENTITY historyMenu.accesskey "l">
 <!ENTITY historyUndoMenu.label "Omaki abasanda ukuvalwa">
@@ -322,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Yenza ngokwezifiso">
+
 
 
 
