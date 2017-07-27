@@ -14,5 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Alterar entre URL relativo e absoluto. Você deve salvar a página antes de alterar isso.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Forneça o endereço da página, um arquivo do computador ou selecione uma âncora nomeada ou título:">
+<!ENTITY LinkURLEditField.label "Insira o endereço de uma página web, um arquivo local ou, selecione uma Âncora Nomeada ou um Título a partir da lista suspensa:">
 <!ENTITY LinkURLEditField.accessKey "F">
