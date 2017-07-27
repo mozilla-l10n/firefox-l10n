@@ -314,6 +314,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "कुसियाक् तेयार…(C)"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
+
+
 <!ENTITY historyMenu.label "हिता़ल  (s)">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "नितोक् बोनदोवाक् टैब को.">
@@ -332,6 +334,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY appMenuHistory.viewSidebar.label "हिता़ल धारेबार ञेंल">
+
 
 <!ENTITY appMenuHelp.tooltip "गोड़ो मिनु झिज मे">
 
