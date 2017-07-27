@@ -15,17 +15,17 @@
 <!ENTITY            availprofiles.label    "არსებული პროფილები">
 
 <!ENTITY            newButton.label        "პროფილის შექმნა…">
-<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            newButton.accesskey    "შ">
 <!ENTITY            renameButton.label     "პროფილის გადარქმევა…">
-<!ENTITY            renameButton.accesskey "R">
+<!ENTITY            renameButton.accesskey "გ">
 <!ENTITY            deleteButton.label     "პროფილის წაშლა…">
-<!ENTITY            deleteButton.accesskey "D">
+<!ENTITY            deleteButton.accesskey "წ">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; მონაცემებს თქვენი პარამეტრების, მახასიათებლებისა და სხვა ელემენტების შესახებ თქვენს პროფილში ინახავს.">
 
 <!ENTITY            offlineState.label    "კავშირგარეშე რეჟიმი">
-<!ENTITY            offlineState.accesskey "o">
+<!ENTITY            offlineState.accesskey "კ">
 
 <!ENTITY            useSelected.label       "მონიშნული პროფილის გამოყენება ყოველი ჩართვისას">
-<!ENTITY            useSelected.accesskey   "s">
+<!ENTITY            useSelected.accesskey   "მ">
