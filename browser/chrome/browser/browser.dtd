@@ -340,7 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "ბოლოს დახურული ჩანართები">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული ფანჯრები">
-<!ENTITY historyRestoreLastSession.label "წინა სესიის აღდგენა">
+<!ENTITY historyRestoreLastSession.label "წინა სეანსის აღდგენა">
 
 <!ENTITY showAllHistoryCmd2.label "სრული ისტორიის ჩვენება">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "ისტორია">
 <!ENTITY appMenuHistory.showAll.label "სრული ისტორიის ჩვენება">
 <!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
-<!ENTITY appMenuHistory.restoreSession.label "წინა სესიის აღდგენა">
+<!ENTITY appMenuHistory.restoreSession.label "წინა სეანსის აღდგენა">
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
 <!ENTITY appMenuHelp.label "დახმარება">
 <!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
