@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Clàraich a-steach">
 <!ENTITY signIn.accesskey            "t">
 <!ENTITY profilePicture.tooltip      "Atharraich dealbh na pròifil">
-<!ENTITY verifiedManage.label        "Stiùirich an cunntas">
-<!ENTITY verifiedManage.accesskey    "n">
+
+
 <!ENTITY disconnect3.label           "Dì-cheangail...">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Dearbh am post-d">
