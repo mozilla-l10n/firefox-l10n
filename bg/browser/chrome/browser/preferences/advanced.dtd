@@ -6,18 +6,14 @@
 
 <!ENTITY generalTab.label                "Основни">
 
-<!ENTITY accessibility.label             "Достъпност">
-
 <!ENTITY useCursorNavigation.label       "Използване на каретка за придвижване в страниците">
 <!ENTITY useCursorNavigation.accesskey   "к">
 <!ENTITY searchOnStartTyping.label       "Търсене на текст при започване на въвеждане">
 <!ENTITY searchOnStartTyping.accesskey   "Т">
-<!ENTITY blockAutoReload.label           "Предупреждаване, когато страница се опитва да пренасочи или презареди">
-<!ENTITY blockAutoReload.accesskey       "П">
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, при необходимост">
 <!ENTITY useOnScreenKeyboard.accesskey   "д">
 
-<!ENTITY browsing.label                  "Сърфиране">
+<!ENTITY browsing.label                  "Разглеждане">
 
 <!ENTITY useAutoScroll.label             "Автоматично плъзгане">
 <!ENTITY useAutoScroll.accesskey         "А">
@@ -33,24 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Докладването да данни е изключено за тази конфигурация на изданието">
 
-<!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
-<!ENTITY enableHealthReport.label        "Включване на Доклада за изправност на &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "и">
 <!ENTITY healthReportLearnMore.label     "Научете повече">
 
-<!ENTITY telemetryDesc.label             "Споделя данни за използването, производителността, хардуера, настройките на браузъра ви с &vendorShortName; за да ни помогне да направим &brandShortName; по-добър">
-<!ENTITY enableTelemetryData.label       "Споделяне на допълнителни данни (напр. Телеметрия)">
-<!ENTITY enableTelemetryData.accesskey   "С">
-<!ENTITY telemetryLearnMore.label        "Научете повече">
+<!ENTITY dataCollectionPrivacyNotice.label    "Политика на поверителност">
 
-<!ENTITY crashReporterDesc2.label         "Докладите за сривове помагат на &vendorShortName; да отстранява проблеми и да направи браузъра по-стабилен и по-сигурен">
-<!ENTITY alwaysSubmitCrashReports.label   "Разрешаване на &brandShortName; да изпраща от ваше име предишни доклади за срив">
-<!ENTITY alwaysSubmitCrashReports.accesskey "д">
-<!ENTITY crashReporterLearnMore.label     "Научете повече">
+<!ENTITY crashReporterLearnMore.label    "Научете повече">
 
 <!ENTITY networkTab.label                "Мрежа">
 
-<!ENTITY connection.label                "Свързване">
+<!ENTITY networkProxy.label              "Прокси">
 
 <!ENTITY connectionDesc.label            "Конфигуриране на начина, по който &brandShortName; се свързва с Интернет">
 <!ENTITY connectionSettings.label        "Настройки…">
@@ -100,8 +87,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Версия ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
-<!ENTITY updateAuto2.label               "Автоматично да инсталира обновяванията (препоръчано: подобрява защитата)">
-<!ENTITY updateAuto2.accesskey           "а">
 <!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
 <!ENTITY updateCheckChoose2.accesskey    "п">
 <!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
@@ -115,8 +100,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Автоматично обновяване на търсещите машини">
 <!ENTITY enableSearchUpdate2.accesskey   "т">
-
-<!ENTITY reports.label                   "Доклади">
 
 <!ENTITY offlineStorageNotify.label               "Предупреждение, при опит на сайт да запазва информация за работа извън мрежата">
 <!ENTITY offlineStorageNotify.accesskey           "П">
