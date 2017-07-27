@@ -506,7 +506,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Endre søkeinnstillinger">
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
-<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchInNewTab.accesskey     "f">
 <!ENTITY searchSetAsDefault.label     "Bruk som standard søkemotor">
 <!ENTITY searchSetAsDefault.accesskey "B">
 
