@@ -15,13 +15,13 @@
 <!ENTITY     props.secure.label             "Mandat per :">
 <!ENTITY     props.expires.label            "Expira :">
 
-
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Recèrca">
+<!ENTITY     searchFilter.accesskey         "R">
 
 <!ENTITY     button.close.label             "Tampar">
 <!ENTITY     button.close.accesskey         "T">

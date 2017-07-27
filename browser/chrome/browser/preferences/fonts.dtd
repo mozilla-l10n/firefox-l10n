@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Largor fixa :">
 <!ENTITY  monospace.accesskey                     "L">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japonés">
 <!ENTITY  font.langGroup.trad-chinese             "Chinés tradicional (Taiwan)">
@@ -46,8 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cmèr">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
+<!ENTITY  font.langGroup.math                     "Matematicas">
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -56,16 +56,15 @@
 <!ENTITY minSize.label                            "Talha minimala de la poliça :">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Pas cap">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Autorizar las paginas de causir lors poliças, puslèu que las seleccions precedentas">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Encodatge del tèxte pel contengut obsolèt">
-
-
 <!ENTITY languages.customize.Fallback2.desc       "Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.">
 
 <!ENTITY languages.customize.Fallback.auto        "Valor per defaut per la lenga correnta">
