@@ -25,24 +25,24 @@
 <!ENTITY newevent.status.needsaction.label        "Trenger handling" >
 <!ENTITY newevent.status.inprogress.label         "Under arbeid" >
 <!ENTITY newevent.status.completed.label          "Fullført" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; fullført">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label                "Varsle deltakere">
 <!ENTITY event.attendees.notify.accesskey            "s">
 <!ENTITY event.attendees.notifyundisclosed.label     "Egen invitasjon for hver deltaker">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "E">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Denne innstillingen sender en invitasjon for hver deltaker. Hver invitasjon inneholder bare informasjon om om den enkelte deltaker, slik at andre deltakere ikke vises.">
 <!ENTITY event.attendees.disallowcounter.label       "Forby teller">
 <!ENTITY event.attendees.disallowcounter.accesskey   "b">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Indikerer at du ikke vil akseptere motforslag">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Ny">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Hendelse">
@@ -70,21 +70,21 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "A">
 <!ENTITY  event.menu.item.close.label                     "Lukk">
 <!ENTITY  event.menu.item.close.accesskey                 "L">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Lagre">
 <!ENTITY  event.menu.item.save.accesskey                  "a">
 <!ENTITY  event.menu.item.save.tab.accesskey              "a">
+
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Lagre og lukk">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
@@ -163,8 +163,8 @@
 <!ENTITY event.remove.attendees.accesskey                 "F">
 <!ENTITY event.remove.attendee.label                      "Fjern deltaker">
 <!ENTITY event.remove.attendee.accesskey                  "e">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Lagre">
 <!ENTITY  event.toolbar.saveandclose.label                "Lagre og lukk">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
@@ -180,6 +180,7 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Endre prioritet">
 <!ENTITY  event.toolbar.status.tooltip                    "Endre status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Endre ledig/opptatt-tid">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -187,15 +188,14 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
-
 <!ENTITY counter.button.proposal.label                    "Anvend forslag">
 <!ENTITY counter.button.proposal.accesskey                "n">
 <!ENTITY counter.button.proposal.tooltip2                 "Hendelsesfeltene vil bli fylt ut med de verdiene fra motforslag, bare lagring med eller uten ytterligere endringer vil varsle alle deltakere deretter">
 <!ENTITY counter.button.original.label                    "Anvend opprinnelig data">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Feltene vil bli satt til verdiene fra den opprinnelige hendelsen, før motforslaget ble gjort">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tittel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Sted:" >
@@ -261,8 +261,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
 <!ENTITY event.statusbarpanel.privacy.label               "Personvern:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Rediger gjentakelse">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Gjentas ikke">
@@ -311,6 +311,7 @@
 <!ENTITY event.recurrence.every.label                        "Hver:" >
 <!ENTITY repeat.units.years.both                             "år" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Hver" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -318,7 +319,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januar" >
@@ -368,8 +368,8 @@
 <!ENTITY event.recurrence.appointments.label            "avtaler" >
 <!ENTITY event.repeat.until.label                       "Gjenta frem til" >
 <!ENTITY event.recurrence.preview.label                 "Forhåndsvisning">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Inviter deltakere">
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Foreslå tidsluke:">
@@ -390,12 +390,12 @@
 <!ENTITY event.attendee.usertype.resource       "Ressurs">
 <!ENTITY event.attendee.usertype.room           "Rom">
 <!ENTITY event.attendee.usertype.unknown        "Ukjent">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Oppgi tidssone">
 <!ENTITY event.timezone.custom.label     "Flere tidssoner …">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Generelt">
 <!ENTITY read.only.title.label           "Tittel:">
 <!ENTITY read.only.event.start.label     "Startdato:">
