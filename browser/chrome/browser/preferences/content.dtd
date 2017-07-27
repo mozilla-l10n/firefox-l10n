@@ -54,6 +54,6 @@
 
 <!ENTITY  drmContent2.label              "采用数字版权管理（DRM）的内容">
 
-<!ENTITY  playDRMContent2.label          "播放采用 DRM 的內容">
+<!ENTITY  playDRMContent2.label          "播放采用 DRM 的内容">
 <!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "详细了解">
