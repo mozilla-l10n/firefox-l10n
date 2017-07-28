@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "היסטוריה">
 <!ENTITY  permissions.label             "הרשאות">
 
-<!ENTITY  locationBar.label             "סרגל המיקום">
-
-<!ENTITY  locbar.suggest2.label         "כאשר משתמשים בשורת המיקום, יוצגו המלצות עבור">
+<!ENTITY  addressBar.label              "שורת כתובת">
+<!ENTITY  addressBar.suggest.label      "כאשר משתמשים בסרגל החיפוש, יוצגו המלצות עבור">
 <!ENTITY  locbar.history.label          "היסטוריה">
 <!ENTITY  locbar.history.accesskey      "ה">
 <!ENTITY  locbar.bookmarks.label        "סימניות">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "הגדרות…">
 <!ENTITY  clearOnCloseSettings.accesskey "ה">
 
-<!ENTITY  browserContainersHeader.label         "מגירות לשוניות">
 <!ENTITY  browserContainersLearnMore.label      "מידע נוסף">
 <!ENTITY  browserContainersEnabled.label        "הפעלת מגירות לשוניות">
 <!ENTITY  browserContainersEnabled.accesskey    "מ">

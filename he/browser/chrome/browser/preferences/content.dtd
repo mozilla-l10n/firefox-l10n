@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "חלונות קופצים">
+<!ENTITY  permissions.label           "הרשאות">
 
 <!ENTITY  blockPopups.label           "חסימת חלונות קופצים">
 <!ENTITY  blockPopups.accesskey       "ח">
 
-<!ENTITY  notificationsPolicy.label            "התרעות">
 <!ENTITY  notificationsPolicyLearnMore.label   "מידע נוסף">
 <!ENTITY  notificationsPolicyDesc3.label       "בחירת אתרים מורשים לשליחת התרעות">
 <!ENTITY  notificationsPolicyButton.accesskey  "ב">
@@ -33,7 +32,6 @@
 <!ENTITY  colors.accesskey            "צ">
 
 
-<!ENTITY languages.label              "שפות">
 <!ENTITY chooseLanguage.label         "בחירת השפה המועדפת עליך להצגת דפים">
 <!ENTITY chooseButton.label           "בחירה…">
 <!ENTITY chooseButton.accesskey       "ב">
@@ -53,8 +51,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "תרגום של">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "תוכן ניהול זכויות קניין">
 
-<!ENTITY  playDRMContent.label         "ניגון תוכן ניהול זכויות קניין">
-<!ENTITY  playDRMContent.accesskey     "ז">
 <!ENTITY  playDRMContent.learnMore.label "מידע נוסף">

@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "ה">
 <!ENTITY engine.addons.label        "תוספות">
 <!ENTITY engine.addons.accesskey    "ת">
+<!ENTITY engine.addresses.label     "כתובות">
+<!ENTITY engine.addresses.accesskey "כ">
+<!ENTITY engine.creditcards.label   "כרטיסי אשראי">
+<!ENTITY engine.creditcards.accesskey "א">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">

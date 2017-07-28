@@ -352,6 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
+<!ENTITY appMenuHistory.recentHistory.label "היסטוריה אחרונה">
 <!ENTITY appMenuHelp.label "עזרה">
 <!ENTITY appMenuHelp.tooltip "פתיחת תפריט העזרה">
 
@@ -988,6 +989,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "שליחה להתקן">
 <!ENTITY sendToDevice.viewTitle "שליחה להתקן">
-<!ENTITY sendToDevice.fxaRequired.label "נדרש">
-<!ENTITY sendToDevice.noDevices.label "אין התקנים זמינים">
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון התקנים…">
