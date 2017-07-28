@@ -20,7 +20,7 @@
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Hapus">
-<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY deleteCmd.accesskey       "h">
 <!ENTITY selectAllCmd.label        "Pilih Semua">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
