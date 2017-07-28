@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Version ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Autoriser &brandShortName; à">
-<!ENTITY updateAuto2.label               "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Installer les mises à jour automatiquement (recommandé)">
+<!ENTITY updateAuto3.accesskey           "I">
 <!ENTITY updateCheckChoose2.label        "Vérifier l’existence de mises à jour, mais vous laisser décider de leur installation">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Ne jamais vérifier les mises à jour (déconseillé)">
