@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label       "Прилагоди…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ш">
+<!ENTITY overflowCustomizeToolbar.label       "Прилагоди алатну траку…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "г">
 
 <!ENTITY historyMenu.label "Историјат">
 <!ENTITY historyMenu.accesskey "И">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
+<!ENTITY appMenuHistory.recentHistory.label "Недавни историјат">
 <!ENTITY appMenuHelp.label "Помоћ">
 <!ENTITY appMenuHelp.tooltip "Отвори мени за помоћ">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Пошаљи на уређај">
 <!ENTITY sendToDevice.viewTitle "Пошаљи на уређај">
-<!ENTITY sendToDevice.fxaRequired.label "Обавезно">
-<!ENTITY sendToDevice.noDevices.label "Нема доступних уређаја">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
