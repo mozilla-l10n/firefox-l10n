@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "ช">
 <!ENTITY useSmoothScrolling.label        "ใช้การเลื่อนหน้าแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey    "ก">
-<!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดของคุณเมื่อคุณพิมพ์">
+<!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดคำของคุณเมื่อคุณพิมพ์">
 <!ENTITY checkUserSpelling.accesskey     "จ">
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">

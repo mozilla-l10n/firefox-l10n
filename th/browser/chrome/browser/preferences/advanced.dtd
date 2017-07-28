@@ -19,7 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "ช">
 <!ENTITY useSmoothScrolling.label        "ใช้การเลื่อนหน้าแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey    "ก">
-<!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดของคุณเมื่อคุณพิมพ์">
+<!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดคำของคุณเมื่อคุณพิมพ์">
 <!ENTITY checkUserSpelling.accesskey     "จ">
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
@@ -28,8 +28,10 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY enableHealthReport1.label       "อนุญาตให้ &brandShortName; ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง Mozilla โดยอัตโนมัติ">
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
+<!ENTITY dataCollection.label            "การเก็บรวบรวมและใช้ข้อมูล &brandShortName;">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
@@ -87,8 +89,7 @@ available. -->
 <!ENTITY updateApplication.version.pre   "รุ่น ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
-<!ENTITY updateAuto2.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำสำหรับความปลอดภัยที่เพิ่มขึ้น)">
-<!ENTITY updateAuto2.accesskey           "ด">
+<!ENTITY updateAuto3.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ)">
 <!ENTITY updateCheckChoose2.label        "ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
 <!ENTITY updateCheckChoose2.accesskey    "ว">
 <!ENTITY updateManual2.label             "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)">
