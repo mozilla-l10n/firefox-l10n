@@ -52,5 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Пераклад">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) змесціва">
 
+<!ENTITY  playDRMContent2.label          "Прайграваць DRM-кантраляванае змесціва">
+<!ENTITY  playDRMContent2.accesskey      "П">
 <!ENTITY  playDRMContent.learnMore.label "Даведацца больш">

@@ -89,6 +89,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Трымайце &brandShortName; абноўленым для лепшай прадукцыйнасці, стабільнасці і бяспекі.">
 <!ENTITY updateApplication.version.pre   "Версія ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Дазволіць &brandShortName;">

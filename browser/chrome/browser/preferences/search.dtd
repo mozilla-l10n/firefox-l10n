@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Пашукавікі ў адну пстрычку">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Абярыце альтэрнатыўныя пашукавікі, якія з'яўляюцца пад адрасным радком ці панэллю пошуку, калі вы пачынаеце ўводзіць ключавое слова.">
 
 <!ENTITY engineNameColumn.label                "Пашукавік">
 <!ENTITY engineKeywordColumn.label             "Ключавое слова">
