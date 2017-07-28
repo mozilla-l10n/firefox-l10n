@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Listahan ng Block">
-<!ENTITY window.width                 "55 em">
+<!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "Listahan">
 <!ENTITY windowClose.key              "w">
