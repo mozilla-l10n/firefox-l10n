@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "ป">
 <!ENTITY spellUndoAddToDictionary.label "ยกเลิกการเพิ่มไปยังพจนานุกรม">
 <!ENTITY spellUndoAddToDictionary.accesskey "ย">
-<!ENTITY spellCheckToggle.label "ตรวจสอบการสะกด">
+<!ENTITY spellCheckToggle.label "ตรวจสอบการสะกดคำ">
 <!ENTITY spellCheckToggle.accesskey "ส">
 <!ENTITY spellNoSuggestions.label "(ไม่มีข้อเสนอแนะการสะกดคำ)">
 <!ENTITY spellDictionaries.label "ภาษา">
