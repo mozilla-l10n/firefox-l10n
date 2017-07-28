@@ -12,7 +12,7 @@
 <!ENTITY aboutWarningCheckbox.label "გაფრთხილების ჩვენება ყოველ ჯერზე">
 
 <!ENTITY searchPrefs.label "ძიება:">
-<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY searchPrefs.accesskey "ძ">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
 
@@ -29,19 +29,19 @@
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "დაკოპირება">
-<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyPref.accesskey "დ">
 <!ENTITY copyName.label "სახელის დაკოპირება">
-<!ENTITY copyName.accesskey "N">
+<!ENTITY copyName.accesskey "ს">
 <!ENTITY copyValue.label "მნიშვნელობის დაკოპირება">
-<!ENTITY copyValue.accesskey "V">
+<!ENTITY copyValue.accesskey "მ">
 <!ENTITY modify.label "შეცვლა">
-<!ENTITY modify.accesskey "M">
+<!ENTITY modify.accesskey "შ">
 <!ENTITY toggle.label "ჩამრთველი">
-<!ENTITY toggle.accesskey "T">
+<!ENTITY toggle.accesskey "ჩ">
 <!ENTITY reset.label "აღდგენა">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.accesskey "ღ">
 <!ENTITY new.label "ახალი">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "ა">
 <!ENTITY string.label "ტექსტი">
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "მთელი რიცხვი">

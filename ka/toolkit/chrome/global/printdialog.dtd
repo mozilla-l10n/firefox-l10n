@@ -37,8 +37,8 @@
 
 <!ENTITY printframeGroup.label "ბლოკების ბეჭდვა">
 <!ENTITY aslaidoutRadio.label "ისე, როგორც ეკრანზეა">
-<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY aslaidoutRadio.accesskey "კ">
 <!ENTITY selectedframeRadio.label  "მონიშნული ბლოკის">
-<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY selectedframeRadio.accesskey  "ლ">
 <!ENTITY eachframesepRadio.label  "თითოეული ბლოკის ცალკე">
-<!ENTITY eachframesepRadio.accesskey  "E">
+<!ENTITY eachframesepRadio.accesskey  "ც">
