@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY dateTimeFormatting.label      "Formatering av datum och tid">
 <!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lagringstyp för meddelande i nya konton:">
