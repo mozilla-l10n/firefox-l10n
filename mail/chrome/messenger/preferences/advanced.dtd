@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY dateTimeFormatting.label      "Formato de fecha y hora">
 <!ENTITY allowHWAccel.label            "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipo de almacenamiento de mensajes para nuevas cuentas:">
