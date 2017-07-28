@@ -23,6 +23,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ઉપકરણનું નામ">
+<!ENTITY changeSyncDeviceName.label "ઉપકરણ નામ બદલો…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "રદ કરો">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
@@ -52,10 +53,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "તમે પ્રવેશેલ નથી.">
 <!ENTITY signIn.label                "સાઇન ઇન કરો">
 <!ENTITY signIn.accesskey            "g">
+<!ENTITY profilePicture.tooltip      "પ્રોફાઇલ ચિત્ર બદલો">
+<!ENTITY verifiedManage.label        "ખાતાને સંચાલિત કરો">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "જોડાણ તોડી નાખો…">
 <!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ઈમેલ ચકાસો">
 <!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "આ ઇમેઇલ ભૂલી જાઓ">
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "તમે તમારા વેબ ને લો">
