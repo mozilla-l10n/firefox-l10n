@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "S">
 <!ENTITY viewCustomizeToolbar.label       "Oanpasse…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "O">
+<!ENTITY overflowCustomizeToolbar.label       "Arkbalke wizigje…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "A">
 
 <!ENTITY historyMenu.label "Skiednis">
 <!ENTITY historyMenu.accesskey "S">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Resinte skiednis wiskje…">
 <!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werom bringe">
 <!ENTITY appMenuHistory.viewSidebar.label "Skiednissydbalke werjaaan">
+<!ENTITY appMenuHistory.recentHistory.label "Resinte skiednis">
 <!ENTITY appMenuHelp.label "Help">
 <!ENTITY appMenuHelp.tooltip "Menu Help iepenje">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Ferstjoere nei apparaat">
 <!ENTITY sendToDevice.viewTitle "Ferstjoere nei apparaat">
-<!ENTITY sendToDevice.fxaRequired.label "Fereaske">
-<!ENTITY sendToDevice.noDevices.label "Gjin apparaten beskikber">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
