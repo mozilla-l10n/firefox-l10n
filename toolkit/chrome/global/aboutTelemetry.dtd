@@ -4,36 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "נתוני Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  שינוי
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  העלאת נתוני FHR <span>מופעלת</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  העלאת נתוני FHR <span>מנוטרלת</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  רישום Telemetry מורחב <span>מופעל</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  רישום Telemetry מורחב <span>מנוטרל</span>.
-">
-
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 נתוני הפינג הנוכחיים
 ">
 
-
-
-<!ENTITY aboutTelemetry.structured "
-מובנה
-">
 
 <!ENTITY aboutTelemetry.raw "
 JSON גולמי
@@ -46,13 +21,19 @@ JSON גולמי
 
 
 
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 שבוע
 ">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 פינג
+">
+
+
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+ישן יותר
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "  מידע כללי">
@@ -92,12 +73,6 @@ JSON גולמי
   פרטי הפעלה
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  נתוני היסטוגרמה שנאספו על־ידי תוספות">
-
-<!ENTITY aboutTelemetry.toggle "  לחיצה כדי להציג או להסתיר מקטע">
-
-<!ENTITY aboutTelemetry.emptySection "  (לא נאספו נתונים)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  הערה: ניפוי שגיאות עבור משפטי SQL איטיים פעילה. מחרוזות SQL מלאות אמנם יוצגו, אבל הן לא תישלחנה אל Telemetry.">
 
 
@@ -106,8 +81,4 @@ JSON גולמי
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   מטען
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  מטען גולמי
 ">

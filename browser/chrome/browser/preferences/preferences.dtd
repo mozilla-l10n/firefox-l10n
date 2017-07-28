@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "תוצאות חיפוש">
 <!ENTITY  paneGeneral.title             "כללי">
+<!ENTITY  paneSearch.title              "חיפוש">
 <!ENTITY  paneFilesApplications.title   "קבצים ויישומים">
 <!ENTITY  panePrivacySecurity.title     "פרטיות ואבטחה">
 <!ENTITY  paneContainers.title          "מגירת לשוניות">
 <!ENTITY  paneUpdates.title             "עדכונים">
 
+<!ENTITY  languageAndAppearance.label   "שפה ותצוגה">
+<!ENTITY  filesAndApplications.label    "קבצים ויישומים">
+<!ENTITY  browserPrivacy.label          "פרטיות דפדפן">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "חשבון Firefox">
 
 <!ENTITY  helpButton2.label        "תמיכה ב־&brandShortName;">
-
-<!ENTITY  searchInput.label        "חיפוש">
