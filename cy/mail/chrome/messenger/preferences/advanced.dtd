@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Galluogi Chwilio a Mynegeio Eang">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+<!ENTITY dateTimeFormatting.label      "Fformatio Dyddiad ac Amser">
 <!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey        "y">
 <!ENTITY storeType.label               "Math o Storio Negeseuon ar gyfer cyfrifon newydd:">
