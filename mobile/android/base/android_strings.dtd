@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Η σελίδα αφαιρέθηκε">
 
 <!ENTITY bookmark_edit_title "Επεξεργασία σελιδοδείκτη">
+<!ENTITY bookmark_edit_folder_title "Επεξεργασία φακέλου">
 <!ENTITY bookmark_edit_name "Όνομα">
 <!ENTITY bookmark_edit_location "Τοποθεσία">
 <!ENTITY bookmark_edit_keyword "Λέξη κλειδί">
