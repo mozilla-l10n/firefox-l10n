@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "K">
 <!ENTITY viewCustomizeToolbar.label       "Özelleştir…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Ö">
+<!ENTITY overflowCustomizeToolbar.label       "Araç çubuğunu özelleştir…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "u">
 
 <!ENTITY historyMenu.label "Geçmiş">
 <!ENTITY historyMenu.accesskey "G">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
 <!ENTITY appMenuHistory.viewSidebar.label "Geçmiş kenar çubuğunu aç">
+<!ENTITY appMenuHistory.recentHistory.label "Yakın geçmiş">
 <!ENTITY appMenuHelp.label "Yardım">
 <!ENTITY appMenuHelp.tooltip "Yardım menüsünü aç">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Cihaza gönder">
 <!ENTITY sendToDevice.viewTitle "Cihaza gönder">
-<!ENTITY sendToDevice.fxaRequired.label "Gerekli">
-<!ENTITY sendToDevice.noDevices.label "Kullanılabilir cihaz yok">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
