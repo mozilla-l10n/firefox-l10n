@@ -29,8 +29,8 @@
 <!ENTITY permissions.label "Permessi">
 <!ENTITY addressBar.label "Barra degli indirizzi">
 <!ENTITY addressBar.suggest.label "Nella barra degli indirizzi visualizza suggerimenti da">
-<!ENTITY locbar.history.label "cronologia">
-<!ENTITY locbar.history.accesskey "n">
+<!ENTITY locbar.history2.label "cronologia di navigazione">
+<!ENTITY locbar.history2.accesskey "n">
 <!ENTITY locbar.bookmarks.label "segnalibri">
 <!ENTITY locbar.bookmarks.accesskey "g">
 <!ENTITY locbar.openpage.label "schede aperte">
