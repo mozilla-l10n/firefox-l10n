@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "">
 <!ENTITY updateApplication.version.post  " 版">
 <!ENTITY updateApplication.description   "讓 &brandShortName;:">
-<!ENTITY updateAuto2.label               "自動安裝更新（建議的，保持安全性）">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "自動安裝更新（推薦）">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "自動檢查更新，但讓您選擇要不要安裝">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "不要檢查更新（不建議，可能會有安全性風險）">
