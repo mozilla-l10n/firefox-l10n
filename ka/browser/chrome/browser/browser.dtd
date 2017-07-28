@@ -83,7 +83,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "ნავიგაციის ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.label "სანიშნეების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
-<!ENTITY bookmarksToolbarItem.label "სანიშნეების ზოლის ელემენტები">
+<!ENTITY bookmarksToolbarItem.label "სანიშნეების ზოლის ხელსაწყოები">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის განახლება">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
@@ -858,8 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმებები">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
-<!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, მეტად ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
-<!ENTITY customizeMode.uidensity "სიხშირე">
+<!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ხელსაწყოები აქ, მეტი ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
+<!ENTITY customizeMode.uidensity "სიმჭიდროვე">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ჩვეულებრივი">
@@ -878,7 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "შეხება">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "შეხება">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "შ">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხების გამოყენება ტაბლეტ რეჟიმისთვის">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხებაზე რეაგირება პლანშეტის რეჟიმისას">
 
 <!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
 <!ENTITY getUserMedia.selectCamera.accesskey "კ">
