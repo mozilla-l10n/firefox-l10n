@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personnaliser…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Personnaliser la barre d’outils…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historique">
 <!ENTITY historyMenu.accesskey "H">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Effacer l’historique récent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurer la session précédente">
 <!ENTITY appMenuHistory.viewSidebar.label "Afficher le panneau de l’historique">
+<!ENTITY appMenuHistory.recentHistory.label "Historique récent">
 <!ENTITY appMenuHelp.label "Aide">
 <!ENTITY appMenuHelp.tooltip "Ouvrir le menu d’aide">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Envoyer à un appareil">
 <!ENTITY sendToDevice.viewTitle "Envoyer à un appareil">
-<!ENTITY sendToDevice.fxaRequired.label "Requis">
-<!ENTITY sendToDevice.noDevices.label "Aucun appareil disponible">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
