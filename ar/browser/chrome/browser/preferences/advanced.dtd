@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "أبقِ &brandShortName; للحصول على أحسن أداء و ثبات و أمان.">
 <!ENTITY updateApplication.version.pre   "الإصدارة ">
 <!ENTITY updateApplication.version.post  "​">
 <!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
-
-
+<!ENTITY updateAuto3.label               "نزّل التحديثات تلقائيا (مستحسن)">
+<!ENTITY updateAuto3.accesskey           "ن">
 <!ENTITY updateCheckChoose2.label        "يلتمس التحديثات، و لكن يترك لك خيار تنصيبها من عدمه">
 <!ENTITY updateCheckChoose2.accesskey    "ت">
 <!ENTITY updateManual2.label             "لا يلتمس التحديثات أبدًا (غير مستحسن)">
