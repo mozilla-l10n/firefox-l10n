@@ -10,10 +10,13 @@
 
 
 
+<!ENTITY engineNameColumn.label                "શોધ એન્જિન">
 <!ENTITY engineKeywordColumn.label             "મુખ્ય શબ્દ">
 
+<!ENTITY restoreDefaultSearchEngines.label     "મૂળભૂત શોધ એંજીન તરીકે પુનઃસંગ્રહો">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "દૂર કરો">
 <!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY findMoreSearchEngines.label           "વધુ શોધ યંત્ર શોધો">

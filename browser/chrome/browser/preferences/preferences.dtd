@@ -21,6 +21,9 @@
 <!ENTITY  paneContainers.title          "કન્ટેઈનર ટેબ્સ">
 <!ENTITY  paneUpdates.title             "સુધારો">
 
+<!ENTITY  languageAndAppearance.label   "ભાષા અને દેખાવ">
+<!ENTITY  filesAndApplications.label    "ફાઇલો અને એપ્લિકેશન્સ">
+<!ENTITY  browserPrivacy.label          "બ્રાઉઝર ગોપનીયતા">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox ખાતુ">

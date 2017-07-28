@@ -42,6 +42,7 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
 
+<!ENTITY crashReporterDesc2.label         "ભંગાણ અહેવાલો મદદ &vendorShortName; અને સમસ્યાઓ ઠીક કરો અને તમારા બ્રાઉઝરને વધુ સ્થિર અને સુરક્ષિત બનાવો">
 <!ENTITY alwaysSubmitCrashReports.label   "તમારા વતી &brandShortName; ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "વધારે શીખો">

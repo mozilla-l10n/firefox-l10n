@@ -20,6 +20,7 @@
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "તમે પણ કરી શકો છો ">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ઇતિહાસ">
@@ -99,6 +100,7 @@
 
 <!ENTITY  browserContainersHeader.label         "કન્ટેઈનર ટેબ્સ">
 <!ENTITY  browserContainersLearnMore.label      "વધુ શીખો">
+<!ENTITY  browserContainersEnabled.label        "કન્ટેઈનર ટેબ્સ સક્ષમ કરો">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "સેટીંગ…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
