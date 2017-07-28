@@ -548,6 +548,7 @@
 <!ENTITY page_removed "صفحه حذف شده">
 
 <!ENTITY bookmark_edit_title "ویرایش نشانک">
+<!ENTITY bookmark_edit_folder_title "ویرایش پوشه">
 <!ENTITY bookmark_edit_name "نام">
 <!ENTITY bookmark_edit_location "مکان">
 <!ENTITY bookmark_edit_keyword "کلیدواژه">
