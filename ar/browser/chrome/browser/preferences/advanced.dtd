@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
 <!ENTITY dataCollection.label            "جمع &brandShortName; للبيانات و استخدامها">
-<!ENTITY dataCollectionDesc.label        "نبذل جهدنا لإعطائك الخيار و جمه ما نحتاجه فقط لتحسين &brandShortName;. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.">
+<!ENTITY dataCollectionDesc.label        "نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين &brandShortName;. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.">
 <!ENTITY dataCollectionPrivacyNotice.label    "تنويه الخصوصية">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "اسم أن يرسل &brandShortName; بلاغلات الانهيار إلى موزيلا">
