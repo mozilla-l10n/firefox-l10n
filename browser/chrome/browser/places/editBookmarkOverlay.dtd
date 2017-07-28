@@ -10,7 +10,7 @@
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ხ">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "საიტის მისამართი:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "ტ">
-<!ENTITY editBookmarkOverlay.folder.label                    "დასტა:">
+<!ENTITY editBookmarkOverlay.folder.label                    "საქაღალდე:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ყველა საქაღალდის გამოჩენა">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "დამალვა">
 <!ENTITY editBookmarkOverlay.tags.label                      "ჭდეები:">
@@ -24,5 +24,5 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "სანიშნის გვერდითა პანელში ჩატვირთვა">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "პ">
 <!ENTITY editBookmarkOverlay.choose.label                    "შერჩევა…">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "ახალი დასტა">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "ახალი საქაღალდე">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "დ">

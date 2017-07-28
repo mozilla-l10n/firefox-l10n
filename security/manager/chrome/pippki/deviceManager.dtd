@@ -13,24 +13,24 @@
 <!ENTITY devmgr.details.title2                  "მნიშვნელობა">
 
 <!ENTITY devmgr.button.login.label              "შესვლა">
-<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.login.accesskey          "შ">
 <!ENTITY devmgr.button.logout.label             "გამოსვლა">
-<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.logout.accesskey         "გ">
 <!ENTITY devmgr.button.changepw.label           "პაროლის შეცვლა">
-<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.changepw.accesskey       "პ">
 <!ENTITY devmgr.button.load.label               "ჩატვირთვა">
-<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.load.accesskey           "ჩ">
 <!ENTITY devmgr.button.unload.label             "ამოტვირთვა">
-<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.unload.accesskey         "ა">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "სასურველი დასამატებელი მოდულის მონაცემების მითითება.">
 <!ENTITY loaddevice.modname                     "მოდულის სახელი:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname.accesskey           "მ">
 <!ENTITY loaddevice.modname.default             "ახალი PKCS#11 მოდული">
 <!ENTITY loaddevice.filename                    "მოდულის ფაილის სახელი:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename.accesskey          "ფ">
 <!ENTITY loaddevice.browse                      "ამორჩევა…">
-<!ENTITY loaddevice.browse.accesskey            "B">
+<!ENTITY loaddevice.browse.accesskey            "ა">
 
 <!ENTITY loaddevice.title2                      "PKCS#11 მოწყობილობის დრაივერის გაშვება">
