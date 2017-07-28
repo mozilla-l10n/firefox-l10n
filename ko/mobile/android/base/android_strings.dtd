@@ -548,6 +548,7 @@
 <!ENTITY page_removed "페이지 삭제됨">
 
 <!ENTITY bookmark_edit_title "북마크 편집">
+<!ENTITY bookmark_edit_folder_title "폴더 편집">
 <!ENTITY bookmark_edit_name "이름">
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
