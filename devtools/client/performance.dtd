@@ -25,6 +25,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "המאגר מלא. דגימות ישנות תעבורנה שכתוב.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
@@ -41,7 +42,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree "עץ קריאות">
 <!ENTITY performanceUI.toolbar.memory-calltree "הקצאות">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "הצגת איפה הזיכרון הוקצה במהלך ההקלטה.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "תרשים להבות ל־JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "הצגת מחסנית הקריאות של JavaScript במהלך ההקלטה.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "תרשים להבות להקצאות">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -71,32 +74,42 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "היפוך תרשים הלהבות">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "הצגת נתוני סביבת Gecko">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "הצגת שיפורי JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "הצגת נתוני שיפור JIT שנדגמים בכל מסגרת JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "שיטוח רקורסיית עץ">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "שיטוח הרקורסיה בעת חקירת פונקציות.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableMemory             "הקלטת הזיכרון">
+<!ENTITY performanceUI.enableMemory.tooltiptext "הקלטת צריכת זיכרון בזמן אבחון.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "הקלטת הקצאות">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "הקלטת הקצאת פריטים בזמן אבחון.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "קצב תמונות של ההקלטה">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "קצב התמונות בזמן האבחון.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

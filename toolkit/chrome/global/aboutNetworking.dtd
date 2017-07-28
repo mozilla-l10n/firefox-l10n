@@ -46,3 +46,5 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "ספירת ניצחונות מטמון">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "ספירת ניצחונות רשת">
 <!ENTITY aboutNetworking.totalNetworkRequests  "ספירת סה״כ בקשות רשת">
+<!ENTITY aboutNetworking.rcwnAvgShort          "ממוצע קצר">
+<!ENTITY aboutNetworking.rcwnAvgLong           "ממוצע ארוך">
