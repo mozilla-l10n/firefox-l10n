@@ -877,19 +877,48 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Gamitin ang Touch para sa Tablet Mode">
 
+<!ENTITY getUserMedia.selectCamera.label "Camera upang para ibahagi:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Mga mikropono na pwedeng ibahagi:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Ang mga audio na galing sa tab ay  maaring ibahagi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
+<!ENTITY trackingProtection.title "Tracking Protection">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ay humaharang ng ilang parte ng page na maaaring sumusunod sa iyong pag-brbrowse.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Kasama sa site na ito ang mga elemento na maaaring subaybayan ang iyong pagba-browse. Pinigilan mo ang proteksyon.">
+<!ENTITY trackingProtection.notDetected3 "Walang nakitang mga elemento sa pagsubaybay sa pahinang ito.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Huwag paganahin ang proteksyon para sa site na ito">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Huwag paganahin ang proteksyon para sa session na ito">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Paganahin ang protection">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingContentBlocked.message "Subaybayan">
+<!ENTITY trackingContentBlocked.moreinfo "Ang mga bahagi ng pahina na sumusubaybay sa iyong online na aktibidad ay na-block.">
+<!ENTITY trackingContentBlocked.learnMore "Matuto ng higit pa">
+<!ENTITY trackingContentBlocked.options "Pagpipilitan">
+<!ENTITY trackingContentBlocked.unblock2.label "Patayin ang protection sa site na ito">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Paganahin ang proteksyon">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.disabled.message "Hindi pinapagana ang proteksyon sa pagsubaybay">
 
+<!ENTITY pluginNotification.showAll.label "Ipakita ang lahat ">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Payagan Ngayon">
+<!ENTITY pluginActivateAlways.label "Payagan at Tandaan">
 <!ENTITY pluginBlockNow.label "I-block ang Plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
@@ -899,21 +928,66 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Isarado">
 
+<!ENTITY appMenuSidebars.label         "Mga sidebar">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Kalimutan ang huli:">
+<!ENTITY panicButton.view.5min                    "Limang minuto">
+<!ENTITY panicButton.view.2hr                     "Dalawang oras ">
+<!ENTITY panicButton.view.day                     "24 na oras">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Pagpatuloy ay:">
+<!ENTITY panicButton.view.deleteCookies           "Burahin ang nakaraang <html:strong>Cookies</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Burahin ang nakaraang <html:strong>History</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Isara lahat ng <html:strong>Tabs</html:strong> at <html:strong>Windows</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Magbukas ng bagong malinis na Window">
 
+<!ENTITY panicButton.view.undoWarning             "Ang aksyon na ito ay hindi na mababawi.">
+<!ENTITY panicButton.view.forgetButton            "Kalimutan!">
 
+<!ENTITY panicButton.thankyou.msg1                "Ang mga nakaraan mong kasaysayan ay sadyang natanggal na.">
+<!ENTITY panicButton.thankyou.msg2                "Ligtas na pag-browse!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Salamat!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Matuto nang higit pa tungkol sa DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "I-update ang iyong &brandShorterName; para sa pinakabago sa speed and privacy.">
+<!ENTITY updateAvailable.whatsnew.label "Makita kung ano ang bago.">
+<!ENTITY updateAvailable.header.message "Ang &brandShorterName; ay may bagong update.">
+<!ENTITY updateAvailable.acceptButton.label "I-download ang Pagbabago">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Wag muna">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
 
+<!ENTITY updateManual.message "Mag-download ng bagong kopya ng &brandShorterName; at tutulungan ka namin i-install ito.">
+<!ENTITY updateManual.whatsnew.label "Tingnan kung ano ang bago.">
+<!ENTITY updateManual.header.message "&brandShorterName; ay hindi ma-update sa bagong bersyon na ito.">
+<!ENTITY updateManual.acceptButton.label "I-download &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Hindi Ngayon">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "I-download ang bagong kopya ng &brandShorterName;">
 
+<!ENTITY updateRestart.message "Pagkatapos ng isang mabilis na pag-restart, &brandShorterName; Ibabalik ang lahat ng iyong mga bukas na tab at window.">
+<!ENTITY updateRestart.header.message2 "Mag-restart para ma-update &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "I-restart at Ibalik">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Hindi ngayun">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Page actions">
 
+<!ENTITY sendToDevice.label2 "Ipadala sa device">
+<!ENTITY sendToDevice.viewTitle "Ipadala sa Device">
+<!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
