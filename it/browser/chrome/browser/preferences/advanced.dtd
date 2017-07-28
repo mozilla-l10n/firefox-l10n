@@ -84,10 +84,10 @@
 <!ENTITY selectCerts.ask.accesskey "h">
 <!ENTITY enableOCSP.label "Interroga risponditori OCSP per confermare la validità attuale dei certificati">
 <!ENTITY enableOCSP.accesskey "P">
-<!ENTITY viewCerts.label "Mostra certificati">
-<!ENTITY viewCerts.accesskey "M">
-<!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
-<!ENTITY viewSecurityDevices.accesskey "D">
+<!ENTITY viewCerts2.label "Mostra certificati…">
+<!ENTITY viewCerts2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Dispositivi di sicurezza…">
+<!ENTITY viewSecurityDevices2.accesskey "D">
 <!ENTITY performance.label "Prestazioni">
 <!ENTITY useRecommendedPerformanceSettings2.label "Utilizza le impostazioni predefinite">
 <!ENTITY useRecommendedPerformanceSettings2.description "Queste impostazioni sono determinate in base alle caratteristiche hardware del computer e al sistema operativo.">
