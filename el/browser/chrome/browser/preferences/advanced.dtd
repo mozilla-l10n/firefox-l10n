@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Κρατήστε το &brandShortName; ενημερωμένο για καλύτερη απόδοση, σταθερότητα κι ασφάλεια.">
 <!ENTITY updateApplication.version.pre   "Έκδοση ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Να επιτρέπεται στο &brandShortName;">
-<!ENTITY updateAuto2.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται για βελτιωμένη ασφάλεια)">
-<!ENTITY updateAuto2.accesskey           "Α">
+<!ENTITY updateAuto3.label               "Αυτόματη εγκατάσταση ενημερώσεων (συνιστάται)">
 <!ENTITY updateCheckChoose2.label        "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση">
 <!ENTITY updateCheckChoose2.accesskey    "Ε">
 <!ENTITY updateManual2.label             "Να μην γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται)">
