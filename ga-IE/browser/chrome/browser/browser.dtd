@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "T">
 <!ENTITY viewCustomizeToolbar.label       "Saincheap…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Saincheap an Barra Uirlisí…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "c">
 
 <!ENTITY historyMenu.label "Stair">
 <!ENTITY historyMenu.accesskey "i">
