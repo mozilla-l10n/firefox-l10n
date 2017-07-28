@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
 <!ENTITY recentBookmarks.label "Nedavno zabilježeno">
 <!ENTITY otherBookmarksCmd.label "Druge zabilješke">
-
+<!ENTITY mobileBookmarksCmd.label "Mobilne zabilješke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 <!ENTITY showRecentlyBookmarked.label     "Prikaži ne~davno zabilježeno">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
