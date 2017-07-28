@@ -52,9 +52,9 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "ข้อมูลไซต์">
 <!ENTITY clearSiteData.label             "ล้างข้อมูลทั้งหมด">
-<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY clearSiteData.accesskey         "ง">
 <!ENTITY siteDataSettings.label          "การตั้งค่า…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings.accesskey      "ต">
 <!ENTITY siteDataLearnMoreLink.label     "เรียนรู้เพิ่มเติม">
 
 <!-- LOCALIZATION NOTE:
@@ -64,14 +64,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "จำกัดแคชไว้ที่">
-<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeBefore.accesskey  "ว">
 <!ENTITY limitCacheSizeAfter.label       "MB">
 <!ENTITY clearCacheNow.label             "ล้างตอนนี้">
-<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearCacheNow.accesskey         "ล">
 <!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+<!ENTITY overrideSmartCacheSize.accesskey "ข">
 
 <!ENTITY updateTab.label                 "อัปเดต">
 
@@ -90,6 +90,7 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
 <!ENTITY updateAuto3.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ)">
+<!ENTITY updateAuto3.accesskey           "ด">
 <!ENTITY updateCheckChoose2.label        "ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
 <!ENTITY updateCheckChoose2.accesskey    "ว">
 <!ENTITY updateManual2.label             "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)">
@@ -140,6 +141,6 @@ available. -->
 <!ENTITY limitContentProcessOption.label "ขีดจำกัดโปรเซสเนื้อหา">
 <!ENTITY limitContentProcessOption.description
                                          "โปรเซสเนื้อหาที่เพิ่มขึ้นสามารถปรับปรุงประสิทธิภาพเมื่อใช้หลายแท็บ แต่จะใช้หน่วยความจำมากขึ้นเช่นกัน">
-<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.accesskey   "ข">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
-<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY allowHWAccel.accesskey          "ง">

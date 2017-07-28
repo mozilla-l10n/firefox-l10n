@@ -55,4 +55,5 @@
 <!ENTITY  drmContent2.label              "เนื้อหา Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent2.label          "เล่นเนื้อหาที่ถูกควบคุมโดย DRM">
+<!ENTITY  playDRMContent2.accesskey      "ล">
 <!ENTITY  playDRMContent.learnMore.label "เรียนรู้เพิ่มเติม">
