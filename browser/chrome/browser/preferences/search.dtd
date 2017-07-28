@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Подразумевани претраживач">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Изаберите подразумевани претраживач. &brandShortName; га користи у траци за локацију, адресној траци и на почетној страници.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Изаберите подразумевани претраживач за адресну траку и траку за претрагу.">
 
 <!ENTITY provideSearchSuggestions.label        "Пружи предлоге претраге">
 <!ENTITY provideSearchSuggestions.accesskey    "г">
 
-<!ENTITY showURLBarSuggestions.label           "Прикажи предлоге претраге у резултатима адресне траке">
-<!ENTITY showURLBarSuggestions.accesskey       "а">
+<!ENTITY showURLBarSuggestions2.label           "Прикажи предлоге претраге у резултатима адресне траке">
+<!ENTITY showURLBarSuggestions2.accesskey       "г">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да &brandShortName; никада не памти историју.">
 
 <!ENTITY oneClickSearchEngines.label           "One-click претраживачи">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Трака за претрагу вам омогућава да промените претраживач. Изаберите онај који желите да се приказује.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Изаберите алтернативне претраживаче који ће се појављивати испод адресне траке и траке за претрагу приликом уноса кључне речи.">
 
 <!ENTITY engineNameColumn.label                "Претраживач">
 <!ENTITY engineKeywordColumn.label             "Кључна реч">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Уклони">
 <!ENTITY removeEngine.accesskey                "У">
 
-<!ENTITY addMoreSearchEngines2.label           "Додајте још претраживача">
+<!ENTITY findMoreSearchEngines.label           "Нађите још претраживача">
