@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "F">
 <!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Personecigi ilaron…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historio">
 <!ENTITY historyMenu.accesskey "h">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
+<!ENTITY appMenuHistory.recentHistory.label "Ĵusa historio">
 <!ENTITY appMenuHelp.label "Helpo">
 <!ENTITY appMenuHelp.tooltip "Malfermi menuon de helpo">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Sendi al aparato">
 <!ENTITY sendToDevice.viewTitle "Sendi al aparato">
-<!ENTITY sendToDevice.fxaRequired.label "Postulata">
-<!ENTITY sendToDevice.noDevices.label "Neniu disponebla aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">

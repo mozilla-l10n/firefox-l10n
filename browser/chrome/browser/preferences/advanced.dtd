@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Tenu &brandShortName; ĝisdatigita por havi la plej bonan efikecon, stabilecon kaj sekurecon.">
 <!ENTITY updateApplication.version.pre   "Versio ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permesi al &brandShortName;">
-<!ENTITY updateAuto2.label               "Aŭtomate instali ĝisdatigojn (rekomendata por plibonigi sekurecon)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Aŭtomate instali ĝisdatigojn (rekomendita)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Kontroli ĉu estas ĝisdatigoj, sed ebligi al uzanto elekti ĉu ilin instali">
 <!ENTITY updateCheckChoose2.accesskey    "K">
 <!ENTITY updateManual2.label             "Neniam kontroli ĉu estas ĝisdatigoj (malkonsilinda)">
