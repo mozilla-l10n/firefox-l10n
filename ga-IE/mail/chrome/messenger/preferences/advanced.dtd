@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Cumasaigh Cuardach Cuimsitheach agus an tInneacsóir">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
 <!ENTITY allowHWAccel.label            "Bain úsáid as luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey        "l">
 <!ENTITY storeType.label               "Cineál Stórais na dTeachtaireachtaí le haghaidh cuntas nua:">
