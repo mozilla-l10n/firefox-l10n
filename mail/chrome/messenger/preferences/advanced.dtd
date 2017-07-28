@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indicěrowanje zmóžniś">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+<!ENTITY dateTimeFormatting.label      "Formatěrowanje datuma a casa">
 <!ENTITY allowHWAccel.label            "Hardwarowe póspěšenje wužywaś, jolic jo k dispoziciji">
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Sładowański typ powěsćow za nowe konta:">
