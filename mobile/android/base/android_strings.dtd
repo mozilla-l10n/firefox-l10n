@@ -730,7 +730,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Sambung">
 <!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
-<!ENTITY new_guest_session_text2 "Pelawat yang menggunakannya tidak akan dapat melihat data pelayaran peribadi anda (seperti log masuk tersimpan, sejaran atau tandabuku).\n\n Apabila pelawat anda keluar, data pelayaran mereka akan dihapuskan dan sesi anda dikembalikan semula.">
+<!ENTITY new_guest_session_text2 "Pelawat yang menggunakannya tidak akan dapat melihat data pelayaran peribadi anda (seperti log masuk tersimpan, sejarah atau tandabuku).\n\n Apabila pelawat anda keluar, data pelayaran mereka akan dihapuskan dan sesi anda dikembalikan semula.">
 <!ENTITY guest_browsing_notification_title "Pelayaran pelawat didayakan">
 <!ENTITY guest_browsing_notification_text "Tap untuk keluar">
 
@@ -793,7 +793,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_private_browsing "Pelayaran peribadi">
 <!ENTITY restrictable_feature_private_browsing_description "Izinkan ahli keluarga melayar tanpa menyimpan maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_clear_history "Buang Sejarah">
-<!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapus maklumat laman dan halaman yang mereka lawati.">
+<!ENTITY restrictable_feature_clear_history_description "Izinkan ahli keluarga menghapuskan maklumat laman dan halaman yang mereka lawati.">
 <!ENTITY restrictable_feature_advanced_settings "Tetapan Lanjutan">
 <!ENTITY restrictable_feature_advanced_settings_description "Ini termasuk mengimport tandabuku, mengembalikan semula tab dan kemaskini automatik. Nyahaktifkan tetapan ringkas yang sesuai untuk ahli keluarga.">
 <!ENTITY restrictable_feature_camera_microphone "Kamera &amp; Mikrofon">
@@ -850,7 +850,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Abai">
-<!ENTITY activity_stream_delete_history "Hapuskan dari Sejarah">
+<!ENTITY activity_stream_delete_history "Hapus daripada Sejarah">
 
 <!ENTITY activity_stream_welcome_title "Welcome to your Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\&apos;ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
