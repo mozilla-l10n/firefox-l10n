@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Sayfa silindi">
 
 <!ENTITY bookmark_edit_title "Yer imini düzenle">
+<!ENTITY bookmark_edit_folder_title "Klasörü düzenle">
 <!ENTITY bookmark_edit_name "İsim">
 <!ENTITY bookmark_edit_location "Konum">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
