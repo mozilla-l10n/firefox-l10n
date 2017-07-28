@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Кіру">
 <!ENTITY signIn.accesskey            "К">
 <!ENTITY profilePicture.tooltip      "Профиль суретін ауыстыру">
-
-
+<!ENTITY verifiedManage.label        "Тіркелгіні басқару">
+<!ENTITY verifiedManage.accesskey    "к">
 <!ENTITY disconnect3.label           "Байланысты үзу…">
 <!ENTITY disconnect3.accesskey       "з">
 <!ENTITY verify.label                "Эл. поштаны растау">

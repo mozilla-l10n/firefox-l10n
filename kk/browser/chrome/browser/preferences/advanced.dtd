@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "&brandShortName; жақсырақ өнімділік, тұрақтылық және қауіпсіздікпен жаңартылған етіп ұстаңыз.">
 <!ENTITY updateApplication.version.pre   "Нұсқасы ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; үшін рұқсат ету">
-
-
+<!ENTITY updateAuto3.label               "Жаңартуларды автоорнату (ұсынылады)">
+<!ENTITY updateAuto3.accesskey           "а">
 <!ENTITY updateCheckChoose2.label        "Жаңартуларды тексеру, бірақ орнату керектігін өзіңіз тандайсыз">
 <!ENTITY updateCheckChoose2.accesskey    "з">
 <!ENTITY updateManual2.label             "Жаңартуларды тексермеу (ұсынылмайды)">
