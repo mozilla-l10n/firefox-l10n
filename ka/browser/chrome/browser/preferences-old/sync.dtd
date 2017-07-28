@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "შესვლა">
 <!ENTITY signedOut.accountBox.signin.accesskey  "ლ">
 
-<!ENTITY signedIn.engines.label       "დაასინქრონირეთ ყველა მოწყობილობაზე">
+<!ENTITY signedIn.engines.label       "დაასინქრონება ყველა მოწყობილობაზე">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

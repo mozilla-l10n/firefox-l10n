@@ -11,7 +11,7 @@
 <!ENTITY name.label             "სახელი">
 <!ENTITY size.label             "ზომა">
 <!ENTITY lastModified.label     "ბოლო ცვლილება">
-<!ENTITY showHiddenFiles.label  "დამალული ფაილებისა და დასტების ჩვენება">
+<!ENTITY showHiddenFiles.label  "დამალული ფაილებისა და საქაღალდეების ჩვენება">
 <!ENTITY showHiddenFiles.accesskey  "S">
 
 <!ENTITY noPermissionError.label "თქვენ არ გაგაჩნიათ საჭირო უფლებები ამ საქაღალდის სანახავად.">

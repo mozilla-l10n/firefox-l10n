@@ -357,7 +357,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHelp.label "დახმარება">
 <!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
 
-<!ENTITY appMenuRemoteTabs.label "სინქრონირებული ჩანართები">
+<!ENTITY appMenuRemoteTabs.label "დასინქრონებული ჩანართები">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
@@ -375,13 +375,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "სინქრონირებული ჩანართები არაა… ჯერ!">
+<!ENTITY appMenuRemoteTabs.noclients.title "დასინქრონებული ჩანართები არაა… ჯერ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
 <!ENTITY appMenuRemoteTabs.managedevices.label "მოწყობილობების მართვა…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "სინქრონირებული ჩანართების გვერდითი ზოლის ნახვა">
+<!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
 
 <!ENTITY customizeMenu.addToToolbar.label "ხელსაწყოთა ზოლში დამატება">
 <!ENTITY customizeMenu.addToToolbar.accesskey "დ">
@@ -604,7 +604,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "კ">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის დაკოპირება">
 <!ENTITY copyEmailCmd.accesskey       "ე">
-<!ENTITY thisFrameMenu.label              "ეს ჩარჩო">
+<!ENTITY thisFrameMenu.label              "ჩარჩო">
 <!ENTITY thisFrameMenu.accesskey          "ჩ">
 
 <!-- Media (video/audio) controls -->
@@ -789,11 +789,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "სინქრონირებული ჩანართები">
+<!ENTITY syncTabsMenu3.label     "დასინქრონებული ჩანართები">
 
-<!ENTITY syncedTabs.sidebar.label              "სინქრონირებული ჩანართები">
+<!ENTITY syncedTabs.sidebar.label              "დასინქრონებული ჩანართები">
 <!ENTITY syncedTabs.sidebar.noclients.label    "შედით Firefox-ში თქვენი სხვა მოწყობილობებიდან მათი ჩანართების აქ სანახავად.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "სინქრონირებული ჩანართები არაა… ჯერ!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "დასინქრონებული ჩანართები არაა… ჯერ!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "გახსნილი ჩანართები არაა">
@@ -829,7 +829,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; - შესვლა…">
 <!ENTITY syncSignIn.accesskey         "შ">
-<!ENTITY syncSyncNowItem.label        "სინქრონირება ახლა">
+<!ENTITY syncSyncNowItem.label        "დასინქრონება ახლავე">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; - ხელახლა დაკავშირება…">
 <!ENTITY syncReAuthItem.accesskey     "ხ">

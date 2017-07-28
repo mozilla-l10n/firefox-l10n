@@ -49,7 +49,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "განახლების ისტორია">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "განახლების ისტორიის ჩვენება">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "პროფილის დირექტორია">
+<!ENTITY aboutSupport.appBasicsProfileDir "პროფილის საქაღალდე">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
