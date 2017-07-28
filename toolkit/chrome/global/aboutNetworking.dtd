@@ -48,3 +48,4 @@
 <!ENTITY aboutNetworking.totalNetworkRequests  "ספירת סה״כ בקשות רשת">
 <!ENTITY aboutNetworking.rcwnAvgShort          "ממוצע קצר">
 <!ENTITY aboutNetworking.rcwnAvgLong           "ממוצע ארוך">
+<!ENTITY aboutNetworking.rcwnStddevLong        "סטיית תקן ארוכה">
