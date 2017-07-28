@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Cóipeáladh an URL">
 
-
+<!ENTITY pref_pwa "Aipeanna Gréasáin Forásacha">
+<!ENTITY pref_pwa_summary "Ceadaigh aipeanna Gréasáin ar an scáileán baile">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Sruth Gníomhaíochta">
@@ -547,6 +548,7 @@
 <!ENTITY page_removed "Leathanach bainte">
 
 <!ENTITY bookmark_edit_title "Cuir Leabharmharc in Eagar">
+<!ENTITY bookmark_edit_folder_title "Cuir an Fillteán in eagar">
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Suíomh">
 <!ENTITY bookmark_edit_keyword "Lorgfhocal">
@@ -623,6 +625,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Dífholaigh na gléasanna roghnaithe">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+<!ENTITY home_pinned_site "Suíomh pionnáilte">
+<!ENTITY home_unpinned_site "Suíomh díphionnáilte">
 
 <!ENTITY remote_tabs_panel_moved_title "Cá bhfuil mo chuid cluaisíní?">
 <!ENTITY remote_tabs_panel_moved_desc "Bhogamar na cluaisíní ó do ghléasanna eile go painéal nua ar do leathanach baile ar féidir teacht air go héasca nuair a osclóidh tú cluaisín nua.">
