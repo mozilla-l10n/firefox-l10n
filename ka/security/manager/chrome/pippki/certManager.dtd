@@ -17,7 +17,7 @@
 <!ENTITY certmgr.orphans                      "თქვენი სერთიფიკატის ფაილი არც ერთ სხვა კატეგორიას არ შეესაბამება:">
 
 <!ENTITY certmgr.detail.general_tab.title     "ძირითადი">
-<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.general_tab.accesskey "ძ">
 <!ENTITY certmgr.detail.prettyprint_tab.title "ვრცლად">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "ვ">
 
