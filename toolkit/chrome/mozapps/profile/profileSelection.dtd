@@ -18,8 +18,8 @@
 <!ENTITY            newButton.accesskey    "C">
 <!ENTITY            renameButton.label     "Menamakan Profil…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Memadam Profil…">
-<!ENTITY            deleteButton.accesskey "D">
+<!ENTITY            deleteButton.label     "Hapus Profil…">
+<!ENTITY            deleteButton.accesskey "H">
 
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; menyimpan maklumat perihal tetapan anda, keutamaan, dan item pengguna lain dalam profil pengguna anda.">
