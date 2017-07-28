@@ -21,6 +21,7 @@
 <!ENTITY  paneContainers.title          "Карткі кантэйнераў">
 <!ENTITY  paneUpdates.title             "Абнаўленні">
 
+<!ENTITY  languageAndAppearance.label   "Мова і выгляд">
 <!ENTITY  filesAndApplications.label    "Файлы і Праграмы">
 <!ENTITY  browserPrivacy.label          "Прыватнасць браўзера">
 
