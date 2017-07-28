@@ -16,7 +16,7 @@
 <!ENTITY landscape.label     "პეიზაჟი">
 <!ENTITY landscape.accesskey "ზ">
 
-<!ENTITY scale.label         "მასშტაბი:">
+<!ENTITY scale.label         "ზომის ცვლილება:">
 <!ENTITY scale.accesskey     "მ">
 <!ENTITY scalePercent        "&#037;">
 
@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "ფონის დაბეჭდვა (ფერები და სურათები)">
 <!ENTITY printBG.accesskey   "ფ">
 
-<!ENTITY advanced.tab        "მინდვრები და ზედა კოლონტიტული/Footer">
+<!ENTITY advanced.tab        "მინდვრები &amp; ზედა/ქვედა კოლონტიტული">
 
 <!ENTITY marginGroup.label   "საზღვრები (#1)">
 <!ENTITY marginUnits.inches  "დუიმებში">
