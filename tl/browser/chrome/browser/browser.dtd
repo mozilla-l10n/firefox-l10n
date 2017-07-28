@@ -375,34 +375,59 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Walang naka-sync na mga tab ... pa!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
+<!ENTITY appMenuRemoteTabs.openprefs.label "I-sync ang Preferences">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
+<!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
 
+<!ENTITY customizeMenu.addToToolbar.label "Ilagay sa Toolbar">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "I-dagdag sa Menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "I-dagdag sa Overflow Menu">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Ilipat sa Toolbar">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label "Ilipat sa Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "I-pin sa Overflow Menu">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "I-unpin mula sa Overflow Menu">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.removeFromToolbar.label "Alisin sa Toolbar">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "Alisin sa Menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.label "Magdagdag ng Higit pang Mga Item...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Higit pa">
 
 <!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder2          "Hanapin o ilagay ang address">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extension:">
 <!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Ikaw ba ay gustong mapabuti ang iyong paghahanap na may suhestiyon?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Matuto ng higit pa...">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Hindi">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
@@ -410,8 +435,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Humingi ng tulong sa paghahanap ng mga bagay! Hanapin ang &#x1F50E; Sa tabi ng mga mungkahi sa paghahanap.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Baguhin ang Pagpipilian…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Baguhin ang Preferences…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
@@ -441,13 +470,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Hanapin ang tanong">
+<!ENTITY contentSearchSubmit.tooltip  "Isumite ang hinahanap">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Maghanap">
+<!ENTITY searchIcon.tooltip           "Maghanap">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Hanapin ang ">
+<!ENTITY searchWith.label             " pati:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -455,23 +490,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Hanapin ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Hanapin gamit ang:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Baguhin ang Search Settings">
+<!ENTITY changeSearchSettings.tooltip "Baguhin ang search settings ">
 
+<!ENTITY searchInNewTab.label         "Hanapin sa Bagong Tab">
 <!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "I-set sa Default Search Engine">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Buksan ang Link sa Bagong Tab">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkInPrivateWindowCmd.label "Buksan ang Link sa Bagong Pribadong Window">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Open Link">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -479,6 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "Mag-bukas ng Link sa Bagong Container Tab">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
@@ -504,6 +547,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
+<!ENTITY viewImageDescCmd.label       "Ipakita ang mga Paglalarawan">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Tingnan ang Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
@@ -511,10 +555,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "k">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
+<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang Page na ito">
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Kopyahin ang URL">
+<!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -525,25 +572,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "I-print ang Frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
+<!ENTITY saveLinkCmd.label            "I-save ang Link Bilang…">
 <!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveImageCmd.label           "I-save ang Larawan Bilang...">
 <!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.label           "I-save ang Video Bilang...">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.label          "I-email ang Imahe....">
 <!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "I-Email ang Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.label           "Ipadala ang Video sa Device">
 <!ENTITY castVideoCmd.accesskey       "e">
+<!ENTITY emailAudioCmd.label          "I-email ang Audio...">
 <!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Paganahin ang plugin na ito">
 <!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.label          "Itago ang plugin na ito">
 <!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.label            "Kopyahin ang Lokasyon ng Link">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
 <!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Kopyahin ang Imahe">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Kopyahin ang E-mail Address">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Eto ang Frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
@@ -552,21 +611,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "I-play">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "I-mute">
 <!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "I-unmute">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "I-play ang Bilis">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "Pabagalin ng(0.5 x)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normal">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Mabilis ng(1.25 x)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate150x2.label "Mas mabilis ng (1.5 x )">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.label             "Loop">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -592,10 +664,14 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY fullZoomEnlargeCmd.label       "Palapitin">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.label        "Palayuin">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -604,23 +680,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "I-zoom lamang ang Teksto">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "I-zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY sidebarCloseButton.tooltip     "Isara ang sidebar ">
+<!ENTITY sidebarMenuClose.label         "Isara ang Sidebar">
 
+<!ENTITY quitApplicationCmdWin2.label       "Lumabas">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
- 
+<!ENTITY quitApplicationCmd.label       "Huminto"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Isara">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "I">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Style ng Page">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Walang Style">
 <!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStylePersistentOnly.label "Basic na Estilo ng Pahina">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Change pop-up blocking settings for this web site">
 
@@ -642,13 +731,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
 <!ENTITY findOnCmd.accesskey "H">
 <!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Ipahanap Ulit">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY spellAddDictionaries.label "Ilagay sa Diksyonaryo...">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Tapos na">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 
 <!-- Strings for connection state warnings. -->
 
