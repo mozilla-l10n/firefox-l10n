@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Глобалды іздеуді және индекстеуді іске қосу">
 <!ENTITY enableGlodaSearch.accesskey   "е">
+<!ENTITY dateTimeFormatting.label      "Күн және уақытты пішімдеу">
 <!ENTITY allowHWAccel.label            "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey        "р">
 <!ENTITY storeType.label               "Жаңа тіркелгілер үшін хабарламаларды сақтау түрі:">
