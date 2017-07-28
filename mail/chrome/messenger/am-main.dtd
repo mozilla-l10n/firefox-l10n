@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Varsayılan sunucuyu kullan">
 
+<!ENTITY smtpServerEdit.label "SMTP sunucusunu düzenle…">
+<!ENTITY smtpServerEdit.accesskey "P">

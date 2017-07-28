@@ -21,6 +21,7 @@
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffMinutes.label           "dakika">
 <!ENTITY biffDays.label              "gün">
+<!ENTITY recommendedUnits.label      "Yayıncının önerisi:">
 
 <!ENTITY quickMode.label             "Web sayfasını yüklemek yerine haber özetini göster">
 <!ENTITY quickMode.accesskey         "ö">
