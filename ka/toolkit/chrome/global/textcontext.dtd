@@ -20,7 +20,7 @@
 <!ENTITY spellUndoAddToDictionary.label "ლექსიკონში დამატების გაუქმება">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "მართლწერის შემოწმება">
-<!ENTITY spellCheckToggle.accesskey "ბ">
+<!ENTITY spellCheckToggle.accesskey "თ">
 <!ENTITY spellNoSuggestions.label "(მართლწერის შემოთავაზებები არაა)">
 <!ENTITY spellDictionaries.label "ენები">
 <!ENTITY spellDictionaries.accesskey "ე">

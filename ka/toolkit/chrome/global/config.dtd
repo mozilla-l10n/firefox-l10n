@@ -36,15 +36,15 @@
 <!ENTITY copyValue.accesskey "მ">
 <!ENTITY modify.label "შეცვლა">
 <!ENTITY modify.accesskey "შ">
-<!ENTITY toggle.label "ჩამრთველი">
-<!ENTITY toggle.accesskey "ჩ">
+<!ENTITY toggle.label "გადართვა">
+<!ENTITY toggle.accesskey "თ">
 <!ENTITY reset.label "აღდგენა">
 <!ENTITY reset.accesskey "ღ">
 <!ENTITY new.label "ახალი">
 <!ENTITY new.accesskey "ა">
 <!ENTITY string.label "ტექსტი">
-<!ENTITY string.accesskey "S">
+<!ENTITY string.accesskey "ტ">
 <!ENTITY integer.label "მთელი რიცხვი">
-<!ENTITY integer.accesskey "I">
+<!ENTITY integer.accesskey "რ">
 <!ENTITY boolean.label "ლოგიკური ოპერატორი">
-<!ENTITY boolean.accesskey "B">
+<!ENTITY boolean.accesskey "ლ">
