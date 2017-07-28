@@ -3,44 +3,48 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "about:config">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
 <!ENTITY aboutWarningTitle.label "Baka mawala ang bisa ng iyong warranty!">
 <!ENTITY aboutWarningText.label "Maaring ikasama ang pagbago ng mga advanced settings sa katatagan, kasiguruhan, at pagtakbo ng application na ito. Dapat mo lang ipagpatuloy kung sigurado kayo sa inyong ginagawa.">
-
+<!ENTITY aboutWarningButton2.label "Tinatanggap ko ang panganib!">
 <!ENTITY aboutWarningCheckbox.label "Ipakita ang babalang ito sa susunod">
 
 <!ENTITY searchPrefs.label "Hanapin:">
 <!ENTITY searchPrefs.accesskey "H">
 <!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-
-
+<!ENTITY prefColumn.label "Pangalan ng Kagustuhan">
+<!ENTITY lockColumn.label "Kalagayan">
+<!ENTITY typeColumn.label "Klase">
+<!ENTITY valueColumn.label "Nilalaman">
 
 <!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Pindutin para i-sort"> 
+<!ENTITY columnChooser.tooltip "Pindutin para piliin ang hanay na ipapakita"> 
 
 <!-- Context Menu -->
-
 <!ENTITY copyPref.key "C">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY copyPref.label "Kopyahin">
+<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyName.label "Kopyahin ang pangalan">
+<!ENTITY copyName.accesskey "N">
+<!ENTITY copyValue.label "Kopyahin ang laman">
+<!ENTITY copyValue.accesskey "V">
+<!ENTITY modify.label "Baguhin">
+<!ENTITY modify.accesskey "M">
+<!ENTITY toggle.label "Ipakita">
+<!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "I-reset">
 <!ENTITY reset.accesskey "I">
 <!ENTITY new.label "Bago">
 <!ENTITY new.accesskey "B">
-
-
-
-
-
-
+<!ENTITY string.label "String">
+<!ENTITY string.accesskey "S">
+<!ENTITY integer.label "Integer">
+<!ENTITY integer.accesskey "I">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">

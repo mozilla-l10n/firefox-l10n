@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mozilla.title.15.1 "Ang Aklat ng Mozilla, 15:1">
+<!ENTITY mozilla.title.15.1
+'Ang Aklat ng Mozilla, 15:1'>
 
+<!ENTITY mozilla.quote.15.1
+"Ang <em>kambal</em> ng Mammon ay nag-away. Ang kanilang pakikipaglaban ay sinimulan ang mundo sa isang <em>bagong emosyon</em>, at ang hayop ay kinamuhian ang kadiliman. Kaya't nagsimula itong lumipat nang <em>mabilis </em>, at lumaking mas malakas, at umalis at dumami. At ang mga hayop ay nagdala ng <em>apoy</em> at nagbibigay liwanag sa kadiliman.">
 
+<!ENTITY mozilla.from.15.1
+'mula sa <strong>Ang Aklat ng Mozilla,</strong> 15:1'>

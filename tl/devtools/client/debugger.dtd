@@ -52,6 +52,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton "I-clear">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -167,6 +168,7 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "Mga manggagawa">
 <!ENTITY debuggerUI.tabs.sources        "Pinagmulan">
+<!ENTITY debuggerUI.tabs.traces         "Mga trace">
 <!ENTITY debuggerUI.tabs.callstack      "Call Stack">
 <!ENTITY debuggerUI.tabs.variables      "Variables">
 <!ENTITY debuggerUI.tabs.events         "Mga Kaganapan">
