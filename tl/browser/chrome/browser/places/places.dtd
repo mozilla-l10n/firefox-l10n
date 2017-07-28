@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Aklatan">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Ayusin">
@@ -33,6 +34,8 @@
 <!ENTITY importOtherBrowser.label          "I-import ang Data mula sa Ibang Browser...">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
+<!ENTITY cmd.backup.label               "I-backup...">
+<!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "Ibalik">
 <!ENTITY cmd.restore2.accesskey         "I">
 <!ENTITY cmd.restoreFromFile.label      "Pumili ng File…">
@@ -45,11 +48,15 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Buksan sa Bagong Window">
 <!ENTITY cmd.open_window.accesskey       "n">
+<!ENTITY cmd.open_private_window.label     "Buksan sa Bagong Pribadong Window">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "Open in a New Tab">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
+<!ENTITY cmd.properties.label      "Mga katangian">
+<!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Pagsunod-sunurin ayon sa Pangalan">
 <!ENTITY cmd.sortby_name.accesskey          "s">
@@ -72,13 +79,13 @@
 <!ENTITY col.name.label          "Pangalan">
 <!ENTITY col.tags.label          "Mga Tag">
 <!ENTITY col.url.label           "Lokasyon">
+<!ENTITY col.mostrecentvisit.label "Pinakabagong Kamakailang Pagbisita">
 <!ENTITY col.visitcount.label    "Bilang ng Pagbisita">
 <!ENTITY col.description.label   "Paglalarawan">
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">
 
-<!ENTITY search.label                              "Search:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "Paghahanap">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -96,8 +103,8 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Pumili ng item na titingnan at i-edit ang mga properties nito">
 
-<!ENTITY find.label               "Search:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY view.label               "I-view ">
+<!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Ayon sa Petsa">
 <!ENTITY byDate.accesskey         "A">
 <!ENTITY bySite.label             "Ayon sa Site">
