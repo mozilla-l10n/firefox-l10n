@@ -21,23 +21,24 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>შეამოწმეთ მისამართი აკრეფის შეცდომებზე, როგორიცაა
-    <strong>ww</strong>.example.com ნაცვლად სწორი ფორმისა
+  <li>შეამოწმეთ აკრეფილი მისამართის სისწორე. მაგალითად
+    <strong>ww</strong>.example.com-ის ნაცვლად უნდა იყოს
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>ძიება</button>
     </div>
-  <li>თუ ვერცერთ გვერდს ვერ ტვირთავთ, შეამოწმეთ თქვენი მოწყობილობის მონაცემებთან ან Wi-Fi-ზე წვდომა .
+  <li>თუ ვერცერთი საიტის გახსნას ვერ ახერხებთ, შეამოწმეთ მოწყობილობის მობილურ, ან Wi-Fi ინტერნეტთან კავშირი.
     <button id='wifi'>Wi-Fi-ს ჩართვა</button>
   </li>
-</ul>">
+</ul>
+">
 
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>შეამოწმეთ ფაილის სახელი მთავრულების გათვალისწინებით ან სხვა შეცდომებზე.</li>
-  <li>შეამოწმეთ, ხომ არაა ფაილი გადატანილი, გადარქმეული ან წაშლილი.</li>
+  <li>შეამოწმეთ ფაილის სახელი მთავრულის გათვალისწინებით ან სხვა შეცდომებზე.</li>
+  <li>შეამოწმეთ, ხომ არაა ფაილის გადაადგილებული, გადარქმეული ან წაშლილი.</li>
 </ul>
 ">
 
