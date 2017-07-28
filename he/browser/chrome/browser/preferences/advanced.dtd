@@ -31,6 +31,7 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "מידע נוסף">
 
+<!ENTITY dataCollectionDesc.label        "אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את &brandShortName; לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.">
 <!ENTITY dataCollectionPrivacyNotice.label    "הצהרת פרטיות">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "לאפשר ל־&brandShortName; לשלוח דיווחי קריסה ל־Mozilla">
@@ -85,10 +86,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "כדאי להשאיר את &brandShortName; עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.">
 <!ENTITY updateApplication.version.pre   "גרסה ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "לאפשר ל־&brandShortName;">
 <!ENTITY updateAuto3.label               "להתקין עדכונים באופן אוטומטי (מומלץ)">
+<!ENTITY updateAuto3.accesskey           "א">
 <!ENTITY updateCheckChoose2.label        "לבדוק אם קיימים עדכונים אבל לדרוש אישור כדי להתקין אותם">
 <!ENTITY updateCheckChoose2.accesskey    "ב">
 <!ENTITY updateManual2.label             "לעולם לא לבדוק לעדכונים (לא מומלץ)">

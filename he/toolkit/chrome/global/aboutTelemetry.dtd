@@ -31,6 +31,9 @@ JSON גולמי
 ">
 
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+אתמול
+">
 
 <!ENTITY aboutTelemetry.optionGroupOlder "
 ישן יותר
