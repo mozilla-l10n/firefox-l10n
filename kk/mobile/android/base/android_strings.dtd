@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Парақ өшірілді">
 
 <!ENTITY bookmark_edit_title "Бетбелгіні түзету">
+<!ENTITY bookmark_edit_folder_title "Буманы түзету">
 <!ENTITY bookmark_edit_name "Аты">
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Қысқаша атауы">
