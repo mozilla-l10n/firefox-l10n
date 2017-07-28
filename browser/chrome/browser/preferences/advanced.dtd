@@ -90,10 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "En yüksek performans, güvenilirlik ve güvenlik için &brandShortName; tarayıcınızı güncel tutmalısınız.">
 <!ENTITY updateApplication.version.pre   "Sürüm ">
-<!ENTITY updateApplication.description   "&brandShortName;">
-<!ENTITY updateAuto2.label               "Güncellemeleri otomatik olarak yüklesin (Güvenliğiniz için önerilir)">
-<!ENTITY updateAuto2.accesskey           "G">
+<!ENTITY updateApplication.description   "&brandShortName; tarayıcım">
+<!ENTITY updateAuto3.label               "Güncellemeleri otomatik olarak yüklesin (Önerilir)">
+<!ENTITY updateAuto3.accesskey           "o">
 <!ENTITY updateCheckChoose2.label        "Güncellemeleri denetlesin ama yükleme kararını bana bıraksın">
 <!ENTITY updateCheckChoose2.accesskey    "d">
 <!ENTITY updateManual2.label             "Güncellemeleri hiçbir zaman denetlemesin (Önerilmez)">
