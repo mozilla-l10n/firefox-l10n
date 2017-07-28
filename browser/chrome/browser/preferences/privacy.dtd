@@ -19,8 +19,8 @@
 <!ENTITY trackingProtectionPBM6.label "Attiva la protezione antitracciamento in modalità Navigazione anonima per bloccare i tracciatori conosciuti">
 <!ENTITY trackingProtectionPBM6.accesskey "g">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
-<!ENTITY changeBlockList.label "Seleziona elenco">
-<!ENTITY changeBlockList.accesskey "l">
+<!ENTITY changeBlockList2.label "Seleziona elenco…">
+<!ENTITY changeBlockList2.accesskey "l">
 <!ENTITY doNotTrack.description "Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento">
 <!ENTITY doNotTrack.learnMore.label "Ulteriori informazioni">
 <!ENTITY doNotTrack.default.label "Solo quando è attiva la protezione antitracciamento">
