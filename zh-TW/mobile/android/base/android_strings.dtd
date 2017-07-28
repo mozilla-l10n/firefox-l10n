@@ -548,6 +548,7 @@
 <!ENTITY page_removed "已移除頁面">
 
 <!ENTITY bookmark_edit_title "編輯書籤">
+<!ENTITY bookmark_edit_folder_title "編輯資料夾">
 <!ENTITY bookmark_edit_name "名稱">
 <!ENTITY bookmark_edit_location "網址">
 <!ENTITY bookmark_edit_keyword "關鍵字">
