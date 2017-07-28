@@ -34,6 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Даведацца больш">
 
 <!ENTITY dataCollection.label            "Збор і выкарыстанне звестак &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння &brandShortName;. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Паведамленне аб прыватнасці">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Дазволіць &brandShortName; адпраўляць справаздачы пра падзенні ў Mozilla">
