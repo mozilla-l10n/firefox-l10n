@@ -33,9 +33,8 @@
 <!ENTITY  history.label                 "Историјат">
 <!ENTITY  permissions.label             "Дозволе">
 
-<!ENTITY  locationBar.label             "Адресна трака">
-
-<!ENTITY  locbar.suggest2.label         "Када користим траку локације, предложи">
+<!ENTITY  addressBar.label              "Адресна трака">
+<!ENTITY  addressBar.suggest.label      "Приликом коришћења адресне траке, предлажи">
 <!ENTITY  locbar.history.label          "Историјат">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Забелешке">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Поставке…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
 
-<!ENTITY  browserContainersHeader.label         "Контејнер језичци">
 <!ENTITY  browserContainersLearnMore.label      "Сазнајте више">
 <!ENTITY  browserContainersEnabled.label        "Омогући контејнер језичке">
 <!ENTITY  browserContainersEnabled.accesskey    "к">

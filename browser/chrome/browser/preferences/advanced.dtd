@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Опште">
 
-<!ENTITY accessibility.label             "Приступачност">
-
 <!ENTITY useCursorNavigation.label       "Увек користи стрелице за кретање по страницама">
 <!ENTITY useCursorNavigation.accesskey   "с">
 <!ENTITY searchOnStartTyping.label       "Тражи текст када почнем да куцам">
 <!ENTITY searchOnStartTyping.accesskey   "т">
-<!ENTITY blockAutoReload.label           "Упозори ме када сајтови покушају да преусмере или поново учитају страницу">
-<!ENTITY blockAutoReload.accesskey       "у">
 <!ENTITY useOnScreenKeyboard.label       "Прикажи тастатуру на додир када је неопходно">
 <!ENTITY useOnScreenKeyboard.accesskey   "П">
 
@@ -33,24 +29,21 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Слање података је онемогућено за ову конфигурацију за изградњу">
 
-<!ENTITY healthReportDesc.label          "Помаже да разумете перформансе свог прегледача и поделите податке са &vendorShortName;-ом о здрављу свог прегледача">
-<!ENTITY enableHealthReport.label        "Омогући &brandShortName; извештај здравља">
-<!ENTITY enableHealthReport.accesskey    "з">
+<!ENTITY enableHealthReport1.label       "Дозволи &brandShortName;-у да аутоматски шаље техничке податке и податке о коришћењу Mozilla-и">
+<!ENTITY enableHealthReport1.accesskey   "з">
 <!ENTITY healthReportLearnMore.label     "Сазнајте више">
 
-<!ENTITY telemetryDesc.label             "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
-<!ENTITY enableTelemetryData.label       "Подели додатне информације (нпр. Телеметрија)">
-<!ENTITY enableTelemetryData.accesskey   "л">
-<!ENTITY telemetryLearnMore.label        "Сазнајте више">
+<!ENTITY dataCollection.label            "&brandShortName; сакупљање и коришћење података">
+<!ENTITY dataCollectionDesc.label        "Трудимо се да вам пружимо избор и да сакупљамо само оно што нам је потребно да градимо и побољшамо &brandShortName; за све. Увек ћемо питати за дозволу пре примања личних података.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Обавештење о приватности">
 
-<!ENTITY crashReporterDesc2.label         "Извештаји о рушењу помажу &vendorShortName;-и да реши проблеме и да учини ваш прегледач стабилнијим и безбеднијим">
-<!ENTITY alwaysSubmitCrashReports.label   "Дозволи &brandShortName;-у да шаље извештаје у ваше име">
-<!ENTITY alwaysSubmitCrashReports.accesskey "ш">
-<!ENTITY crashReporterLearnMore.label     "Сазнајте више">
+<!ENTITY alwaysSubmitCrashReports1.label  "Дозволи &brandShortName;-у да шаље Mozilla-и извештаје о рушењу">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "л">
+<!ENTITY crashReporterLearnMore.label    "Сазнајте више">
 
 <!ENTITY networkTab.label                "Мрежа">
 
-<!ENTITY connection.label                "Веза">
+<!ENTITY networkProxy.label              "Мрежни прокси">
 
 <!ENTITY connectionDesc.label            "Подешавање начина како се &brandShortName; повезује на интернет">
 <!ENTITY connectionSettings.label        "Поставке…">
@@ -97,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Учините &brandShortName; ажурним за боље перформансе, стабилност и безбедност.">
 <!ENTITY updateApplication.version.pre   "Верзија ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Дозволи &brandShortName;-у да">
-<!ENTITY updateAuto2.label               "Аутоматски инсталира надоградње (препоручено: повећана сигурност)">
-<!ENTITY updateAuto2.accesskey           "А">
+<!ENTITY updateAuto3.label               "Аутоматски инсталирај ажурирања (препоручено)">
+<!ENTITY updateAuto3.accesskey           "А">
 <!ENTITY updateCheckChoose2.label        "Проверава надоградње али ме питај да ли да их инсталирам">
 <!ENTITY updateCheckChoose2.accesskey    "и">
 <!ENTITY updateManual2.label             "Никадa не проверава надоградње (не препоручује се)">
@@ -115,8 +110,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Аутоматски ажурирај претраживаче">
 <!ENTITY enableSearchUpdate2.accesskey   "п">
-
-<!ENTITY reports.label                   "Извештаји">
 
 <!ENTITY offlineStorageNotify.label               "Обавести ме када веб сајт затражи да смести податке за коришћење ван мреже">
 <!ENTITY offlineStorageNotify.accesskey           "ж">

@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Резултати претраге">
 <!ENTITY  paneGeneral.title             "Опште">
+<!ENTITY  paneSearch.title              "Претрага">
 <!ENTITY  paneFilesApplications.title   "Датотеке и апликације">
 <!ENTITY  panePrivacySecurity.title     "Приватност и безбедност">
 <!ENTITY  paneContainers.title          "Контејнер језичци">
 <!ENTITY  paneUpdates.title             "Ажурирања">
 
+<!ENTITY  languageAndAppearance.label   "Језик и изглед">
+<!ENTITY  filesAndApplications.label    "Датотеке и програми">
+<!ENTITY  browserPrivacy.label          "Приватност прегледача">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox налог">
 
 <!ENTITY  helpButton2.label        "&brandShortName; подршка">
-
-<!ENTITY  searchInput.label        "Претражи">
