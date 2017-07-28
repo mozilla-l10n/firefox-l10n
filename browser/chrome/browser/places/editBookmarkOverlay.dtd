@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "დამალვა">
 <!ENTITY editBookmarkOverlay.tags.label                      "ჭდეები:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "ჭ">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "დაყავით ჭდეები მძიმეებით">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "გამოყავით ჭდეები მძიმეებით">
 <!ENTITY editBookmarkOverlay.description.label               "აღწერილობა:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "ღ">
 <!ENTITY editBookmarkOverlay.keyword.label                   "საკვანძო სიტყვა:">
