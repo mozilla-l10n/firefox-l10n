@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Personalizar barra de herramientas…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "h">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "H">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión previa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
+<!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
 <!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 
@@ -619,7 +622,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mudo">
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "Activar el sonido">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate2.label     "Velocidad de reproducción">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Lenta (0.5×)">
