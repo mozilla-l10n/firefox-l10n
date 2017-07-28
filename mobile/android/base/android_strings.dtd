@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Stranica je uklonjena">
 
 <!ENTITY bookmark_edit_title "Uredi zabilješku">
+<!ENTITY bookmark_edit_folder_title "Uredi mapu">
 <!ENTITY bookmark_edit_name "Naziv">
 <!ENTITY bookmark_edit_location "Lokacija">
 <!ENTITY bookmark_edit_keyword "Ključna riječ">
