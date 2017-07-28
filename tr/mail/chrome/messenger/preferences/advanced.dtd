@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Küresel aramayı ve dizin oluşturmayı etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "o">
+<!ENTITY dateTimeFormatting.label      "Tarih ve saat biçimi">
 <!ENTITY allowHWAccel.label            "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey        "d">
 <!ENTITY storeType.label               "Yeni hesaplarda ileti depolama türü:">
@@ -56,6 +57,7 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName; güncellemeleri">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
