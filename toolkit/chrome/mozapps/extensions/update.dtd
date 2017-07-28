@@ -9,7 +9,7 @@
 თქვენი მოდულების შესაძლო განახლებები თქვენს მიმდინარე ვერსიასთან 
 თავსებადობის უზრუნველსაყოფად.">
 <!ENTITY  offline.toggleOffline.label     "კავშირის რეჟიმი.">
-<!ENTITY  offline.toggleOffline.accesskey "G">
+<!ENTITY  offline.toggleOffline.accesskey "კ">
 
 <!ENTITY  mismatch.win.title              "არათავსებადი დამატებები">
 <!ENTITY  mismatch.top.label              "შემდეგი მოდულები არათავსებადია &brandShortName; პროგრამის მიმდინარე ვერსიასთან 

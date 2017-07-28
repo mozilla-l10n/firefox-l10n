@@ -90,9 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "მუდმივად განაახლეთ &brandShortName;, რომ შეინარჩუნოთ წარმადობა, მდგრადობა და უსაფრთხოება.">
 <!ENTITY updateApplication.version.pre   "ვერსია ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "ნების დართვა &brandShortName;-ისთვის">
+<!ENTITY updateAuto3.label               "ავტომატურად დააყენოს განახლებები (რეკომენდებულია)">
+<!ENTITY updateAuto3.accesskey           "ტ">
 <!ENTITY updateCheckChoose2.label        "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დაყენდეს თუ არა">
 <!ENTITY updateCheckChoose2.accesskey    "ე">
 <!ENTITY updateManual2.label             "არასდროს შემოწმდეს განახლებებზე (არარეკომენდებულია)">

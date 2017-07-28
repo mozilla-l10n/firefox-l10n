@@ -354,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY appMenuHistory.restoreSession.label "წინა სეანსის აღდგენა">
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
+<!ENTITY appMenuHistory.recentHistory.label "უახლესი ისტორია">
 <!ENTITY appMenuHelp.label "დახმარება">
 <!ENTITY appMenuHelp.tooltip "დახმარების მენიუს გახსნა">
 
@@ -532,7 +533,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "M">
+<!ENTITY viewPartialSourceCmd.accesskey "წ">
 <!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
 <!ENTITY viewPageSourceCmd.accesskey  "წ">
 <!ENTITY viewFrameSourceCmd.label     "ჩარჩოს წყაროს ჩვენება">
