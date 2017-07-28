@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Wedi tynnu\u0027r dudalen">
 
 <!ENTITY bookmark_edit_title "Golygu Nod Tudalen">
+<!ENTITY bookmark_edit_folder_title "Golygu Ffolder">
 <!ENTITY bookmark_edit_name "Enw">
 <!ENTITY bookmark_edit_location "Lleoliad">
 <!ENTITY bookmark_edit_keyword "Allweddair">
