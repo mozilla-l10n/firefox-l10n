@@ -548,6 +548,7 @@
 <!ENTITY page_removed "أزِيلت الصفحة">
 
 <!ENTITY bookmark_edit_title "حرّر العلامة">
+<!ENTITY bookmark_edit_folder_title "حرّر المجلد">
 <!ENTITY bookmark_edit_name "الاسم">
 <!ENTITY bookmark_edit_location "المكان">
 <!ENTITY bookmark_edit_keyword "كلمة مفتاحية">
