@@ -22,7 +22,7 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "ส">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "แสดงป้ายกำกับทั้งหมด">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "โหลดที่คั่นหน้านี้ในแถบข้าง">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "ห">
 <!ENTITY editBookmarkOverlay.choose.label                    "เลือก…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "โฟลเดอร์ใหม่">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "ฟ">
