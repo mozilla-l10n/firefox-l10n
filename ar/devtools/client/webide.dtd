@@ -85,7 +85,6 @@
 <!ENTITY details_location "المكان">
 <!ENTITY details_manifestURL "معرّف التطبيق">
 <!ENTITY details_removeProject_button "أزل المشروع">
-
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "تطبيق جديد">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "التطبيقات">
-<!ENTITY  applications.description "اختر كيف يتعامل &brandShortName; مع الملفات التي تنزلها من الوب أو التطبيقات التي تستخدمها أثناء التصفح.">
+
 
 <!ENTITY  typeColumn.label        "نوع المحتوى">
 <!ENTITY  typeColumn.accesskey    "ن">
