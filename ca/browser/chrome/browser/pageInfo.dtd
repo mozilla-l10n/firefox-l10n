@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Lloc web: ">
 <!ENTITY  securityView.identity.verifier "Verificat per: ">
 
+
 <!ENTITY  securityView.privacy.header                   "Privadesa i historial">
 <!ENTITY  securityView.privacy.history                  "He visitat aquest lloc web abans d'avui?">
 <!ENTITY  securityView.privacy.cookies                  "Aquest lloc web emmagatzema informació (galetes) al meu ordinador?">
