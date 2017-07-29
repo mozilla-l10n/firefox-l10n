@@ -90,7 +90,6 @@
 <!ENTITY details_location "थळ">
 <!ENTITY details_manifestURL "अॅप ID">
 <!ENTITY details_removeProject_button "प्रकल्प काडात">
-<!ENTITY details_showPrepackageLog_button "पूर्व-पॅकेज लॉग दाखयात">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "नवे अॅप">

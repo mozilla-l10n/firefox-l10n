@@ -28,8 +28,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "इतिहास">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "बुकमार्कस्">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "टॅबां उगडात">

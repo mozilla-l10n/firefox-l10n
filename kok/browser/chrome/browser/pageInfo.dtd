@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "वेबसायट:">
 <!ENTITY  securityView.identity.verifier "सत्यत्वस्थापन केलां:">
 
+
 <!ENTITY  securityView.privacy.header                   "गुप्तता &amp; इतिहास">
 <!ENTITY  securityView.privacy.history                  "आयच्या पयली ह्या वेबसायटीक हावे केन्ना भेट दिल्ली?">
 <!ENTITY  securityView.privacy.cookies                  "ही वेबसायट मज्या संगणकार माहिती (कुकीज) जतनाय करता?">
