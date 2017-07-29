@@ -90,7 +90,6 @@
 <!ENTITY details_location "অবস্থান">
 <!ENTITY details_manifestURL "অ্যাপ ID">
 <!ENTITY details_removeProject_button "প্রকল্প অপসারণ করুন">
-<!ENTITY details_showPrepackageLog_button "প্রি-প্যাকেজ লগ দেখান">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "নতুন অ্যাপ">
