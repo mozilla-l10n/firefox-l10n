@@ -128,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "پرس‌وجو از کارگزار پاسخگوی OCSP جهت تصدیق اعتبار فعلی گواهینامه">
 <!ENTITY enableOCSP.accesskey            "پ">
-<!ENTITY viewCerts.label                 "نمایش‌ گواهینامه‌ها">
-<!ENTITY viewCerts.accesskey             "گ">
-<!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
-<!ENTITY viewSecurityDevices.accesskey   "د">
+
+
+
+
 
 <!ENTITY performance.label               "کارایی">
 <!ENTITY useRecommendedPerformanceSettings2.label "استفاده از تنظیماتِ کارایی توصیه شده">
