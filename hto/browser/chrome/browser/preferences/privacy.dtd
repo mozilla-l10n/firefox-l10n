@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Aiyo onóde">
-<!ENTITY changeBlockList.label          "Ɨ́bai raɨe kuejina">
-<!ENTITY changeBlockList.accesskey      "Ɨ">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Jagaɨ">
-<!ENTITY  locbar.history.accesskey      "J">
+
+
 <!ENTITY  locbar.bookmarks.label        "Rɨgɨnua">
 <!ENTITY  locbar.bookmarks.accesskey    "R">
 <!ENTITY  locbar.openpage.label         "Úitɨraɨ tuño">
