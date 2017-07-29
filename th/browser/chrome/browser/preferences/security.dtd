@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "ความปลอดภัย">
+<!ENTITY  phishingProtection.label       "การป้องกันฟิชชิ่ง">
 
 <!ENTITY  warnOnAddonInstall.label        "เตือนคุณเมื่อไซต์พยายามจะติดตั้งส่วนเสริม">
 <!ENTITY  warnOnAddonInstall.accesskey    "ต">
