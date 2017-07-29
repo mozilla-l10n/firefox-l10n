@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Վեբ Կայք`">
 <!ENTITY  securityView.identity.verifier "Ստուգվել է`">
 
+
 <!ENTITY  securityView.privacy.header                   "Գաղտնիությունը և պատմությունը">
 <!ENTITY  securityView.privacy.history                  "Ես այցելե՞լ էմ այս կայք մինչև այսօր">
 <!ENTITY  securityView.privacy.cookies                  "Այս վեբ կայքը պահո՞ւմ է տեղեկություն (քուկի) իմ համակարգչում">
