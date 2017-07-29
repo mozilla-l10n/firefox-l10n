@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Iwebhusayithi:">
 <!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
+
 <!ENTITY  securityView.privacy.history                  "Ingabe ngiyivakashele le webhusayithi ngaphambi kwanamuhla?">
 <!ENTITY  securityView.privacy.cookies                  "Ingabe le webhu sayithi iyalugcina ulwazi (amakhukhi) kukhompyutha yami?">
 <!ENTITY  securityView.privacy.viewCookies              "Bheka amakhukhi">
