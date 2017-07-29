@@ -51,5 +51,8 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Прочитано">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Записано">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Открыто записей">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Короткое среднее">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Долгое среднее">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Долгое стандартное отклонение">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "Счётчик медленного кэша">
 <!ENTITY aboutNetworking.rcwnCacheNotSlow      "Счётчик не медленного кэша">

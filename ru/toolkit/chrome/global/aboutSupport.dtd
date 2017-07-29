@@ -138,3 +138,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Лог решения">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Возможности, отключённые защитой от падения">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Способы обхода">
+
+<!ENTITY aboutSupport.mediaTitle "Медиа">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Устройства вывода">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Устройства ввода">
+<!ENTITY aboutSupport.mediaDeviceName "Имя">
+<!ENTITY aboutSupport.mediaDeviceGroup "Группа">
+<!ENTITY aboutSupport.mediaDeviceVendor "Производитель">
+<!ENTITY aboutSupport.mediaDeviceState "Состояние">
+<!ENTITY aboutSupport.mediaDevicePreferred "Предпочитаемо">
+<!ENTITY aboutSupport.mediaDeviceFormat "Формат">
+<!ENTITY aboutSupport.mediaDeviceChannels "Каналы">
+<!ENTITY aboutSupport.mediaDeviceRate "Частота">
+<!ENTITY aboutSupport.mediaDeviceLatency "Задержка">
