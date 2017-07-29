@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Babestu jarraipena egiteaz ezagunak diren guneetatik nabigatze pribatuan">
 <!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Argibide gehiago">
-<!ENTITY changeBlockList.label          "Aldatu blokeo-zerrenda">
-<!ENTITY changeBlockList.accesskey      "A">
+
+
 
 <!ENTITY  doNotTrack.description        "Bidali webguneei &quot;Do Not Track&quot; seinalea zure jarraipena ez egitea adierazteko">
 <!ENTITY  doNotTrack.learnMore.label    "Argibide gehiago">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Helbide-barra">
 <!ENTITY  addressBar.suggest.label      "Helbide-barra erabiltzean, gomendatu">
-<!ENTITY  locbar.history.label          "Historia">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Laster-markak">
 <!ENTITY  locbar.bookmarks.accesskey    "L">
 <!ENTITY  locbar.openpage.label         "Irekitako fitxak">

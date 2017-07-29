@@ -14,6 +14,7 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "i">
 <!ENTITY safeb.palm.reportPage.label "Zergatik blokeatu da orri hau?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 <!ENTITY safeb.blocked.malwarePage.title "Ustezko orri erasotzailea!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
