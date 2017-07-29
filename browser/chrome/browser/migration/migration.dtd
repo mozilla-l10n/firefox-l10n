@@ -25,7 +25,7 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-<!ENTITY importFrom360se.label          "360安全浏览器">
+<!ENTITY importFrom360se.label          "360 安全浏览器">
 <!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "找不到存有书签、历史记录或密码数据的浏览器。">
