@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcionalidades desativadas do Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternativas">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Multimédia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivos de saída">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivos de entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nome">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendedor">
+<!ENTITY aboutSupport.mediaDeviceState "Estado">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferido">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canais">
+<!ENTITY aboutSupport.mediaDeviceRate "Taxa">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latência">
