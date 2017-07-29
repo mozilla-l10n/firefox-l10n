@@ -20,6 +20,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "ใช้การป้องกันการตามรอยในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
+<!ENTITY changeBlockList2.label               "เปลี่ยนรายการการปิดกั้น…">
 
 <!ENTITY  doNotTrack.learnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  doNotTrack.default.label      "เฉพาะเมื่อใช้การป้องกันการตามรอย">
