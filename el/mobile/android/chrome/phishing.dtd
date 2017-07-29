@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Μακριά από εδώ!">
 <!ENTITY safeb.palm.decline.label "Αγνόηση αυτής της προειδοποίησης">
 <!ENTITY safeb.palm.reportPage.label "Γιατί έχει γίνει φραγή αυτής της ιστοσελίδας;">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Συμβουλές από τον πάροχο <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Η σελίδα έχει αναφερθεί ως κακόβουλη!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
