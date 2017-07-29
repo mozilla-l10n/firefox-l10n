@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "თვალთვალისგან დაცვის საშუალებით, პირადი თვალიერებისას, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა">
 <!ENTITY trackingProtectionPBM6.accesskey     "თ">
 <!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
-<!ENTITY changeBlockList.label          "შეზღუდულთა სიის ჩასწორება">
-<!ENTITY changeBlockList.accesskey      "შ">
+<!ENTITY changeBlockList2.label               "შეზღუდულთა სიის ჩასწორება…">
+<!ENTITY changeBlockList2.accesskey           "შ">
 
 <!ENTITY  doNotTrack.description        "საიტებისთვის “არ მითვალთვალო” მოთხოვნის გაგზავნა">
 <!ENTITY  doNotTrack.learnMore.label    "შეიტყვეთ მეტი">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "მისამართების ზოლი">
 <!ENTITY  addressBar.suggest.label      "შემოთავაზებები, მისამართების ზოლით სარგებლობისას">
-<!ENTITY  locbar.history.label          "ისტორია">
-<!ENTITY  locbar.history.accesskey      "ი">
+<!ENTITY  locbar.history2.label         "დათვალიერების ისტორია">
+<!ENTITY  locbar.history2.accesskey     "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
 <!ENTITY  locbar.bookmarks.accesskey    "ს">
 <!ENTITY  locbar.openpage.label         "გახსნილი ჩანართები">

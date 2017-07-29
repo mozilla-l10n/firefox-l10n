@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "მფლობელი: ">
 <!ENTITY  securityView.identity.domain   "საიტი:">
 <!ENTITY  securityView.identity.verifier "დამმოწმებელი: ">
+<!ENTITY  securityView.identity.validity "ვადის გასვლის დრო:">
 
 <!ENTITY  securityView.privacy.header                   "პირადულობა და ისტორია">
 <!ENTITY  securityView.privacy.history                  "ამ საიტზე აქამდე ნამყოფი ვარ?">
