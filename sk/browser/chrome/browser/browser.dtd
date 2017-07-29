@@ -781,8 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ďalšie informácie">
 
-<!ENTITY identity.permissions "Oprávnenia">
-<!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne oprávnenia.">
+<!ENTITY identity.permissions "Povolenia">
+<!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
