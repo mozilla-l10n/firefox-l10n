@@ -90,7 +90,6 @@
 <!ENTITY details_location "مکان">
 <!ENTITY details_manifestURL "شناسه برنامه">
 <!ENTITY details_removeProject_button "حذف پروژه">
-<!ENTITY details_showPrepackageLog_button "نمایش پرونده قبل از بسته‌بندی ">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "برنامه جدید">

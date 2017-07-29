@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
-<!ENTITY changeBlockList.label          "تغییر لیست مسدودی‌ها">
-<!ENTITY changeBlockList.accesskey      "ت">
+
+
 
 <!ENTITY  doNotTrack.learnMore.label    "اطلاعات بیشتر">
 <!ENTITY  doNotTrack.default.label      "تنها زمانی که از محافظ دنبال کردن استفاده ‌می‌شود">
@@ -33,8 +33,8 @@
 
 <!ENTITY  addressBar.label              "نوار نشانی">
 <!ENTITY  addressBar.suggest.label      "هنگام استفاده از نوار مکان، پیشنهاد بده">
-<!ENTITY  locbar.history.label          "تاریخچه">
-<!ENTITY  locbar.history.accesskey      "ت">
+
+
 <!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
 <!ENTITY  locbar.openpage.label         "زبانه‌های باز">

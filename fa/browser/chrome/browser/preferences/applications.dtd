@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "برنامه‌ها">
-<!ENTITY  applications.description "نحوهٔ رفتار &brandShortName; با پرونده‌هایی که از طریق وب دریافت می‌کنید یا برنامه‌هایی که هنگام مرور استفاده می‌کنید را انتخاب کنید.">
+
 
 <!ENTITY  typeColumn.label        "نوع محتوا">
 <!ENTITY  typeColumn.accesskey    "ن">
