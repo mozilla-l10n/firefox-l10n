@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Уладальнік:">
 <!ENTITY  securityView.identity.domain   "Веб-сайт:">
 <!ENTITY  securityView.identity.verifier "Пацверджана:">
+<!ENTITY  securityView.identity.validity "Канчаецца:">
 
 <!ENTITY  securityView.privacy.header                   "Прыватнасць і бяспека">
 <!ENTITY  securityView.privacy.history                  "Я наведваў гэты вэб-сайт напярэдадні?">
