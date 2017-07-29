@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Wɛbsaet:">
 <!ENTITY  securityView.identity.verifier "Eyi agye ato mu:">
 
+
 <!ENTITY  securityView.privacy.history                  "M'asra wɛbsaet yi da anaa?">
 <!ENTITY  securityView.privacy.cookies                  "Wɛbsaet yi de infɔmehyen (akuki) resie wɔ me kɔmputa no so anaa?">
 <!ENTITY  securityView.privacy.viewCookies              "Hwɛ akuki">
