@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Wobsedźer:">
 <!ENTITY  securityView.identity.domain   "Websydło:">
 <!ENTITY  securityView.identity.verifier "Přepruwowany wot:">
-
+<!ENTITY  securityView.identity.validity "Spadnje:">
 
 <!ENTITY  securityView.privacy.header                   "Priwatnosć a historija">
 <!ENTITY  securityView.privacy.history                  "Sym tute websydło hižo prjedy wopytał?">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Nałoženja">
-
+<!ENTITY  applications.description "Wubjerće, kak &brandShortName; ma z datajemi wobchadźeć, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće.">
 
 <!ENTITY  typeColumn.label        "Wobsahowy typ">
 <!ENTITY  typeColumn.accesskey    "W">
