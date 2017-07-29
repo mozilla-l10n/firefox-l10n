@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Cleachd dìon o thracadh sa bhrabhsadh phrìobhaideach airson casg a chur air tracaichean aithnichte">
 <!ENTITY trackingProtectionPBM6.accesskey     "p">
 <!ENTITY trackingProtectionPBMLearnMore.label "Barrachd fiosrachaidh">
-<!ENTITY changeBlockList.label          "Cleachd liosta bacaidh eile">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 <!ENTITY  doNotTrack.description        "Cuir sanas “Na dèan tracadh orm” gu làraichean-lìn a dh’innseas nach eil thu ag iarraidh gun dèanar tracadh ort">
 <!ENTITY  doNotTrack.learnMore.label    "Barrachd fiosrachaidh">
@@ -34,8 +34,8 @@
 <!ENTITY  permissions.label             "Ceadan">
 
 
-<!ENTITY  locbar.history.label          "Eachdraidh">
-<!ENTITY  locbar.history.accesskey      "h">
+
+
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
 <!ENTITY  locbar.bookmarks.accesskey    "o">
 <!ENTITY  locbar.openpage.label         "Tabaichean fosgailte">
