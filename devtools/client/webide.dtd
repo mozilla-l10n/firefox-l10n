@@ -90,7 +90,6 @@
 <!ENTITY details_location "Hely">
 <!ENTITY details_manifestURL "App azonosító">
 <!ENTITY details_removeProject_button "Projekt eltávolítása">
-<!ENTITY details_showPrepackageLog_button "Előzetes csomagolási napló megjelenítése">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Új app">
