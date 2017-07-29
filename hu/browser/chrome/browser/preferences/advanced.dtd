@@ -122,10 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "M">
 <!ENTITY enableOCSP.label                "Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez">
 <!ENTITY enableOCSP.accesskey            "C">
-<!ENTITY viewCerts.label                 "Tanúsítványkezelő">
-<!ENTITY viewCerts.accesskey             "T">
-<!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
-<!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
 
 <!ENTITY performance.label               "Teljesítmény">
 <!ENTITY useRecommendedPerformanceSettings2.label "Javasolt teljesítménybeállítások használata">

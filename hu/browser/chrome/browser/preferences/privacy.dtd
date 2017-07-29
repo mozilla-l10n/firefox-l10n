@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "További tudnivalók">
-<!ENTITY changeBlockList.label          "Blokkolási lista módosítása">
-<!ENTITY changeBlockList.accesskey      "d">
+
+
 
 
 
@@ -32,8 +32,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Előzmények">
-<!ENTITY  locbar.history.accesskey      "E">
+
+
 <!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
 <!ENTITY  locbar.bookmarks.accesskey    "K">
 <!ENTITY  locbar.openpage.label         "Nyitott lapok">
