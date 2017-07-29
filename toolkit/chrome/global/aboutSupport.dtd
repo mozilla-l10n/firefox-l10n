@@ -137,3 +137,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisiones">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Características de protección contra fallos deshabilitadas">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluciones">
+
+<!ENTITY aboutSupport.mediaTitle "Multimedia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivos de salida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivos de entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nombre">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Fabricante">
+<!ENTITY aboutSupport.mediaDeviceState "Estado">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferido">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canales">
+<!ENTITY aboutSupport.mediaDeviceRate "Frecuencia">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencia">
