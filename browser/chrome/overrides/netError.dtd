@@ -40,7 +40,7 @@
 <!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.</li>
+  <li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho povolenia.</li>
 </ul>
 ">
 

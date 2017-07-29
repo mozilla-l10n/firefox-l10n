@@ -17,10 +17,10 @@
 <!ENTITY dnsNotFound.longDesc "<p>Adresa (URL) nezodpovedá žiadnemu známemu serveru a nemožno ju načítať.</p><ul><li>Skontrolujte, či má adresa správny formát.</li><li>Je možné, že server už dlhšie neexistuje.</li><li>Túto chybu môžu zapríčiniť problémy s vašou lokálnou sieťou, proxy serverom alebo DNS serverom.</li></ul>">
 
 <!ENTITY fileNotFound.title "Chyba: Súbor nenájdený">
-<!ENTITY fileNotFound.longDesc "<p>Požadovaný súbor nebol na zadanej adrese (URL) nájdený. Je možné, že bol odstránený, premenovaný alebo premiestnený</p><ul><li>Skontrolujte, či má adresa správny formát.</li><li>Ak ste autorom tohto súboru, overte, či daný súbor na serveri existuje a že má príslušné práva na zobrazenie.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Požadovaný súbor nebol na zadanej adrese (URL) nájdený. Je možné, že bol odstránený, premenovaný alebo premiestnený.</li><li>Skontrolujte, či má adresa správny formát.</li><li>Ak ste autorom tohto súboru, overte, či daný súbor na serveri existuje a že má príslušné povolenia na zobrazenie.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho povolenia.</li></ul>">
 
 <!ENTITY generic.title "Chyba: Nepodarilo sa dokončiť požiadavku">
 <!ENTITY generic.longDesc "<p>Dodatočná informácia o tomto probléme, alebo chybe je momentálne nedostupná.</p>">
