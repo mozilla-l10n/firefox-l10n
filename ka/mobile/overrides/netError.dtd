@@ -13,7 +13,7 @@
 <!ENTITY connectionFailure.title "დაკავშირება ვერ მოხერხდა">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
+<!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით მისამართი შეზღუდულია">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "გვერდი ვერ მოიძებნა">
