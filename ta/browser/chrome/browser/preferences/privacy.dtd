@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "அறியப்பட்ட தடமறிவான்களை முடக்க தனிப்பட்ட உலாவலில் தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "மேலும் அறிய">
-<!ENTITY changeBlockList.label          "தடை பட்டியலை மாற்று">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 <!ENTITY  doNotTrack.description        "நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு">
 <!ENTITY  doNotTrack.learnMore.label    "மேலும் அறிய">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "முகவரி பட்டை">
 <!ENTITY  addressBar.suggest.label      "இடப்பட்டையைப் பயன்படுத்தும் போது, பரிந்துரைக்கவும்">
-<!ENTITY  locbar.history.label          "வரலாறு">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "கீற்றுகளைத் திற">
