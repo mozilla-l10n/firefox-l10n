@@ -128,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "V">
 <!ENTITY enableOCSP.label                "Interroger le répondeur OCSP pour confirmer la validité de vos certificats">
 <!ENTITY enableOCSP.accesskey            "I">
-<!ENTITY viewCerts.label                 "Afficher les certificats">
-<!ENTITY viewCerts.accesskey             "A">
-<!ENTITY viewSecurityDevices.label       "Périphériques de sécurité">
-<!ENTITY viewSecurityDevices.accesskey   "P">
+<!ENTITY viewCerts2.label                "Afficher les certificats…">
+<!ENTITY viewCerts2.accesskey            "A">
+<!ENTITY viewSecurityDevices2.label      "Périphériques de sécurité…">
+<!ENTITY viewSecurityDevices2.accesskey  "P">
 
 <!ENTITY performance.label               "Performances">
 <!ENTITY useRecommendedPerformanceSettings2.label
