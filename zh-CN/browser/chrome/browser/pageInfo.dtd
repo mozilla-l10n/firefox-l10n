@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "所有者：">
 <!ENTITY  securityView.identity.domain   "网站：">
 <!ENTITY  securityView.identity.verifier "验证者：">
+<!ENTITY  securityView.identity.validity "过期时间：">
 
 <!ENTITY  securityView.privacy.header                   "隐私和历史记录">
 <!ENTITY  securityView.privacy.history                  "我之前访问过该网站吗？ ">
