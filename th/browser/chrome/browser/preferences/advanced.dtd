@@ -69,7 +69,7 @@ available. -->
 <!ENTITY clearCacheNow.label             "ล้างตอนนี้">
 <!ENTITY clearCacheNow.accesskey         "ล">
 <!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY clearOfflineAppCacheNow.accesskey "ล">
 <!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
 <!ENTITY overrideSmartCacheSize.accesskey "ข">
 
