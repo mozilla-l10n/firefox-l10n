@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Websydło:">
 <!ENTITY  securityView.identity.verifier "Přepruwowany wot:">
 
+
 <!ENTITY  securityView.privacy.header                   "Priwatnosć a historija">
 <!ENTITY  securityView.privacy.history                  "Sym tute websydło hižo prjedy wopytał?">
 <!ENTITY  securityView.privacy.cookies                  "Składuje tute websydło informacije (placki) na mojim ličaku?">
