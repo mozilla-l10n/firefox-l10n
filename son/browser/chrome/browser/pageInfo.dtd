@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Interneti nungu:">
 <!ENTITY  securityView.identity.verifier "Kaŋ woo n'a koroši:">
 
+
 <!ENTITY  securityView.privacy.header                   "Sutura nda taariki">
 <!ENTITY  securityView.privacy.history                  "Wala yan ka bay ka Interneti nungoo woo naaru ka bisa?">
 <!ENTITY  securityView.privacy.cookies                  "Interneti nungoo woo mma alhabar (aleewayaŋ) jiši ay ordinateroo ga?">
