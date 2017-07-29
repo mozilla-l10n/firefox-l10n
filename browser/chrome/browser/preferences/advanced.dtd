@@ -130,6 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "ყ">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების მიმდინარე მდგომარეობის კითხვა">
 <!ENTITY enableOCSP.accesskey            "O">
+<!ENTITY viewCerts2.label                "სერთიფიკატების ნახვა…">
+<!ENTITY viewCerts2.accesskey            "ნ">
+<!ENTITY viewSecurityDevices2.label      "უსაფრთხოების მოწყობილობები…">
+<!ENTITY viewSecurityDevices2.accesskey  "მ">
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings2.label

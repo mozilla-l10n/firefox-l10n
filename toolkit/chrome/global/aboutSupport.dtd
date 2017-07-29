@@ -141,3 +141,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "ავარიული დახურვის დაცვის მიერ გამორთული ფუნქციები">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "შემოვლითი გზები">
 
+<!ENTITY aboutSupport.mediaTitle "მედია">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "გამოტანის მოწყობილობები">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "შეტანის მოწყობილობები">
+<!ENTITY aboutSupport.mediaDeviceName "სახელი">
+<!ENTITY aboutSupport.mediaDeviceGroup "ჯგუფი">
+<!ENTITY aboutSupport.mediaDeviceVendor "მწარმოებელი">
+<!ENTITY aboutSupport.mediaDeviceState "მდგომარეობა">
+<!ENTITY aboutSupport.mediaDevicePreferred "უპირატესი">
+<!ENTITY aboutSupport.mediaDeviceFormat "ფორმატი">
+<!ENTITY aboutSupport.mediaDeviceChannels "არხები">
+<!ENTITY aboutSupport.mediaDeviceRate "სიხშირე">
+<!ENTITY aboutSupport.mediaDeviceLatency "დაყოვნება">
