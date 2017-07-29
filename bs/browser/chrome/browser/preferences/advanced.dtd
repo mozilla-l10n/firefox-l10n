@@ -122,10 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "a">
 <!ENTITY enableOCSP.label                "Upitajte OCSP servere da biste potvrdili validnost certifikata">
 <!ENTITY enableOCSP.accesskey            "U">
-<!ENTITY viewCerts.label                 "Prikaži certifikate">
-<!ENTITY viewCerts.accesskey             "P">
-<!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">
-<!ENTITY viewSecurityDevices.accesskey   "S">
+
+
+
+
 
 
 

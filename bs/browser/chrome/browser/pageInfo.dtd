@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Web stranica:">
 <!ENTITY  securityView.identity.verifier "Ovjerio:">
 
+
 <!ENTITY  securityView.privacy.header                   "Privatnost &amp; Historija">
 <!ENTITY  securityView.privacy.history                  "Da li sam posjetio ovu web stranicu ranije danas?">
 <!ENTITY  securityView.privacy.cookies                  "Da li ova web stranica čuva podatke (kolačiće) na mom računaru?">
