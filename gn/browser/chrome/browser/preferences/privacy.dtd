@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Eipuru tapykueho ñemo'ã kundaha ñemigua ejoko hag̃ua jeporekeha kuaapyréva">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Kuaave">
-<!ENTITY changeBlockList.label          "Jokoha rysýi moambue">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 <!ENTITY  doNotTrack.description        "Emondo ñanduti rendápe peteĩ kuaaharã “Jehapykueho'ỹ” ndereipotáiva ojehapykueho">
 <!ENTITY  doNotTrack.learnMore.label    "Kuaave">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Kundaharape renda">
 <!ENTITY  addressBar.suggest.label      "Eipurúramo kundaharape renda, eñemoñe'ẽ">
-<!ENTITY  locbar.history.label          "Tembiasakue">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Techaukaha">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Tendayke ijurujáva">
