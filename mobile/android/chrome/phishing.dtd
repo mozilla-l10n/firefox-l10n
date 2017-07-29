@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "გამიყვანეთ აქედან!">
 <!ENTITY safeb.palm.decline.label "ამ გაფრთხილების იგნორირება">
 <!ENTITY safeb.palm.reportPage.label "რატომაა ეს გვერდი შეზღუდული?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "მონაცემების მომწოდებელი: <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "გვერდი მიჩნეულია მოიერიშედ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
