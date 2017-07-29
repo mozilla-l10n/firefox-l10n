@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Pla wótegronowych serwerow OCSP se napšašowaś, aby aktualnu płaśiwosć certifikatow wobkšuśiło">
 <!ENTITY enableOCSP.accesskey            "P">
-<!ENTITY viewCerts.label                 "Certifikaty pokazaś">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Wěstotne rědy">
-<!ENTITY viewSecurityDevices.accesskey   "t">
+
+
+
+
 
 <!ENTITY performance.label               "Wugbaśe">
 <!ENTITY useRecommendedPerformanceSettings2.label "Dopórucone wugbaśowe nastajenja wužywaś">

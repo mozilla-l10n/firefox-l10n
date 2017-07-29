@@ -90,7 +90,6 @@
 <!ENTITY details_location "Městno">
 <!ENTITY details_manifestURL "ID nałoženja">
 <!ENTITY details_removeProject_button "Projekt wótpóraś">
-<!ENTITY details_showPrepackageLog_button "Paketowy protokol pokazaś">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nowe nałoženje">
