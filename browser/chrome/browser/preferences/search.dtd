@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Inneall Cuardaigh Réamhshocraithe">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Roghnaigh inneall cuardaigh réamhshocraithe le húsáid sa bharra suímh agus sa bharra cuardaigh.">
 
 <!ENTITY provideSearchSuggestions.label        "Tabhair moltaí cuardaigh dom">
 <!ENTITY provideSearchSuggestions.accesskey    "c">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Innill Chuardaigh Aonchlic">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Roghnaigh innill chuardaigh mhalartacha le taispeáint faoin bharra suímh agus faoin bharra cuardaigh nuair a thosaíonn tú ag clóscríobh.">
 
 <!ENTITY engineNameColumn.label                "Inneall Cuardaigh">
 <!ENTITY engineKeywordColumn.label             "Lorgfhocal">

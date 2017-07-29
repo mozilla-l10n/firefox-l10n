@@ -29,14 +29,16 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo">
 
-
+<!ENTITY enableHealthReport1.label       "Tabhair cead do &brandShortName; sonraí teicniúla agus gníomhaíochta a sheoladh chuig Mozilla go huathoibríoch">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Tuilleadh eolais">
 
 <!ENTITY dataCollection.label            "Bailiúchán agus Úsáid Sonraí &brandShortName;">
 
 <!ENTITY dataCollectionPrivacyNotice.label    "Fógra Príobháideachais">
 
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Tabhair cead do &brandShortName; tuairiscí tuairteála a sheoladh chuig Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Tuilleadh eolais">
 
 <!ENTITY networkTab.label                "Líonra">
@@ -88,6 +90,7 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Coinnigh &brandShortName; cothrom le dáta chun an fheidhmíocht, an chobhsaíocht, agus an tslándáil is fearr a dheimhniú.">
 <!ENTITY updateApplication.version.pre   "Leagan ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Lig do &brandShortName;">
