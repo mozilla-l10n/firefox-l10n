@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "വെബ് സൈറ്റ്: ">
 <!ENTITY  securityView.identity.verifier "ഉറപ്പാക്കിയതു്:: ">
 
+
 <!ENTITY  securityView.privacy.header                   "സ്വകാര്യതയും നാള്‍വഴിയും">
 <!ENTITY  securityView.privacy.history                  "ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?">
 <!ENTITY  securityView.privacy.cookies                  "ഈ വെബ്സൈറ്റ് വിവരങ്ങള്‍ (കുക്കികള്‍) കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നുണ്ടോ?">
