@@ -38,7 +38,7 @@
 <!ENTITY chooseButton.label           "არჩევა…">
 <!ENTITY chooseButton.accesskey       "ა">
 
-<!ENTITY translateWebPages.label      "ვებ-შიგთავსის გადათარგმნა">
+<!ENTITY translateWebPages.label      "ვებშიგთავსის გადათარგმნა">
 <!ENTITY translateWebPages.accesskey  "გ">
 <!ENTITY translateExceptions.label    "გამონაკლისები…">
 <!ENTITY translateExceptions.accesskey "ნ">

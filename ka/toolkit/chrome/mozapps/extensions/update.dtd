@@ -25,7 +25,7 @@
 <!ENTITY  found.top.label                 "ჩადგმისთვის სასურველი მოდულის არჩევა:">
 <!ENTITY  found.disabledXPinstall.label   "ეს განახლებები ვერ ჩაიდგმება, რადგან პროგრამების ჩადგმა ამჟამად ამორთულია. 
 ამ პარამეტრის შეცვლა შეგიძლიათ ქვემოთ.">
-<!ENTITY  found.enableXPInstall.label     "ვებ-საიტისთვის პროგრამის ჩადგმაზე ნების დართვა">
+<!ENTITY  found.enableXPInstall.label     "ვებსაიტისთვის პროგრამის ჩადგმაზე ნების დართვა">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "თავსებადი დამატებების ჩადგმა">

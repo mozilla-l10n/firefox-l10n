@@ -69,7 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "მრავალპროცესიანი ფანჯრები">
 
-<!ENTITY aboutSupport.appBasicsProcessCount "ვებ-შიგთავსის პროცესები">
+<!ENTITY aboutSupport.appBasicsProcessCount "ვებშიგთავსის პროცესები">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google გასაღები">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla მდებარეობის განსაზღვრის გასაღები">
@@ -140,3 +140,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "გადაწყვეტილებების ჟურნალი">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "ავარიული დახურვის დაცვის მიერ გამორთული ფუნქციები">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "შემოვლითი გზები">
+

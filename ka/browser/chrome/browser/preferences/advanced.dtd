@@ -49,9 +49,9 @@ available. -->
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "პ">
 
-<!ENTITY httpCache.label                 "კეშირებული ვებ-შიგთავსი">
+<!ENTITY httpCache.label                 "კეშირებული ვებშიგთავსი">
 
-<!ENTITY offlineStorage2.label           "კავშირგარეშე ვებ-შიგთავსი და მომხმარებლის მონაცემები">
+<!ENTITY offlineStorage2.label           "კავშირგარეშე ვებშიგთავსი და მომხმარებლის მონაცემები">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "საიტის მონაცემები">
@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "გამონაკლისები…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ნ">
 
-<!ENTITY offlineAppsList2.label          "მოცემულ ვებ-საიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
+<!ENTITY offlineAppsList2.label          "მოცემულ ვებსაიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "ა">
@@ -130,10 +130,6 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "ყ">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების მიმდინარე მდგომარეობის კითხვა">
 <!ENTITY enableOCSP.accesskey            "O">
-<!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
-<!ENTITY viewCerts.accesskey             "ს">
-<!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey   "მ">
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings2.label
