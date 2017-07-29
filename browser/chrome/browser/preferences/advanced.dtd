@@ -32,14 +32,16 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "Tuilleadh eolais">
 
+<!ENTITY dataCollection.label            "Bailiúchán agus Úsáid Sonraí &brandShortName;">
 
-
+<!ENTITY dataCollectionPrivacyNotice.label    "Fógra Príobháideachais">
 
 
 <!ENTITY crashReporterLearnMore.label    "Tuilleadh eolais">
 
 <!ENTITY networkTab.label                "Líonra">
 
+<!ENTITY networkProxy.label              "Seachfhreastalaí Líonra">
 
 <!ENTITY connectionDesc.label            "Cumraigh conas a cheanglófar &brandShortName; leis an Idirlíon">
 <!ENTITY connectionSettings.label        "Socruithe…">
@@ -89,8 +91,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Leagan ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Lig do &brandShortName;">
-
-
+<!ENTITY updateAuto3.label               "Suiteáil nuashonruithe go huathoibríoch (molta)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
 <!ENTITY updateCheckChoose2.accesskey    "L">
 <!ENTITY updateManual2.label             "Ná lorg nuashonruithe (ní mholtar é seo)">

@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Cluaisíní Coimeádáin">
 <!ENTITY  paneUpdates.title             "Nuashonruithe">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Teanga agus Cuma">
+<!ENTITY  filesAndApplications.label    "Comhaid agus Feidhmchláir">
+<!ENTITY  browserPrivacy.label          "Príobháideachas">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Cuntas Firefox">

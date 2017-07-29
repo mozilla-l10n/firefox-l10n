@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an Stair Is Déanaí…">
 <!ENTITY appMenuHistory.restoreSession.label "Athchóirigh an Seisiún Roimhe Seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Taispeáin Stair sa Bharra Taoibh">
-
+<!ENTITY appMenuHistory.recentHistory.label "Stair is Déanaí">
 <!ENTITY appMenuHelp.label "Cabhair">
 <!ENTITY appMenuHelp.tooltip "Oscail an Roghchlár Cabhrach">
 
@@ -990,5 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Gníomhartha leathanaigh">
 
-
+<!ENTITY sendToDevice.label2 "Seol chuig Gléas">
+<!ENTITY sendToDevice.viewTitle "Seol chuig Gléas">
 <!ENTITY sendToDevice.syncNotReady.label "Gléasanna á Sioncronú…">

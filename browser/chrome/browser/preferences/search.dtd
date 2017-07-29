@@ -8,7 +8,8 @@
 <!ENTITY provideSearchSuggestions.label        "Tabhair moltaí cuardaigh dom">
 <!ENTITY provideSearchSuggestions.accesskey    "c">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Taispeáin moltaí cuardaigh i dtorthaí sa mbarra suímh">
+<!ENTITY showURLBarSuggestions2.accesskey       "s">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le &brandShortName; gan do stair bhrabhsála a mheabhrú.">
 
 <!ENTITY oneClickSearchEngines.label           "Innill Chuardaigh Aonchlic">
@@ -23,3 +24,4 @@
 <!ENTITY removeEngine.label                    "Bain">
 <!ENTITY removeEngine.accesskey                "B">
 
+<!ENTITY findMoreSearchEngines.label           "Tuilleadh inneall cuardaigh">
