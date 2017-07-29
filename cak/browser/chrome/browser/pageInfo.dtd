@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Ruxaq k'amaya'l:">
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
 
+
 <!ENTITY  securityView.privacy.header                   "Ichinanem chuqa' natab'äl">
 <!ENTITY  securityView.privacy.history                  "¿La nintz'ët chik re jun ruxaq k'amaya'l re'?">
 <!ENTITY  securityView.privacy.cookies                  "¿Re ruxaq k'amaya'l re' tajin nuyäk taq na'oj (taq kaxlanwey) pa re kematz'ib' re'?">

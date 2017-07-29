@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Tokisäx ri Chajinïk chuwäch Ojqanïk pan ichinan okem pa k'amaya'l richin yeq'at ri kanonela' etaman kiwäch">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Tetamäx ch'aqa' chik">
-<!ENTITY changeBlockList.label          "Tijaq rucholajem taq q'atoj">
-<!ENTITY changeBlockList.accesskey      "T">
+
+
 
 <!ENTITY  doNotTrack.description        "Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx” raqän kumal chi man nojowäx ta chi tikanöx">
 <!ENTITY  doNotTrack.learnMore.label    "Tetamäx ch'aqa' chik">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Kikajtz'ik Ochochib'äl">
 <!ENTITY  addressBar.suggest.label      "Jampe' toq nawokisaj ri rukajtz'ik ochochib'äl, tichilab'ëx">
-<!ENTITY  locbar.history.label          "Natab'äl">
-<!ENTITY  locbar.history.accesskey      "N">
+
+
 <!ENTITY  locbar.bookmarks.label        "Taq etal">
 <!ENTITY  locbar.bookmarks.accesskey    "e">
 <!ENTITY  locbar.openpage.label         "Kejaq taq ruwi'">
