@@ -47,9 +47,9 @@
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Líon amas ón líonra">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Líon iomlán iarratas líonra">
 
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Oscail">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Leámh">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Scríobh">
 
 
 

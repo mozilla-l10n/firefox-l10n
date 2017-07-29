@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Slándáil">
-
+<!ENTITY  phishingProtection.label       "Cosaint ar Fhioscaireacht">
 
 <!ENTITY  warnOnAddonInstall.label        "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">

@@ -33,7 +33,8 @@
 <!ENTITY  history.label                 "Stair">
 <!ENTITY  permissions.label             "Ceadanna">
 
-
+<!ENTITY  addressBar.label              "Barra Suímh">
+<!ENTITY  addressBar.suggest.label      "Agus an barra suímh in úsáid, mol">
 <!ENTITY  locbar.history.label          "Stair">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Leabharmharcanna">
