@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Pola wotmołwnych serwerow OCSP so naprašować, zo by aktualnu płaćiwosć certifikatow wobkrućiło">
 <!ENTITY enableOCSP.accesskey            "P">
-<!ENTITY viewCerts.label                 "Certifikaty pokazać">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Wěstotne graty">
-<!ENTITY viewSecurityDevices.accesskey   "t">
+
+
+
+
 
 <!ENTITY performance.label               "Wukon">
 <!ENTITY useRecommendedPerformanceSettings2.label "Doporučene wukonowe nastajenja wužiwać">

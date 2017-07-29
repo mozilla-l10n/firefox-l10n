@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Slědowanski škit w priwatnym modusu wužiwać, zo by znate přesćěhowaki blokował">
 <!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalše informacije">
-<!ENTITY changeBlockList.label          "Blokowansku lisćinu změnić">
-<!ENTITY changeBlockList.accesskey      "z">
+
+
 
 <!ENTITY  doNotTrack.description        "Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja">
 <!ENTITY  doNotTrack.learnMore.label    "Dalše informacije">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresowe polo">
 <!ENTITY  addressBar.suggest.label      "Při wužiwanju adresoweho pola ma so namjetować">
-<!ENTITY  locbar.history.label          "Historija">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Zapołožki">
 <!ENTITY  locbar.bookmarks.accesskey    "Z">
 <!ENTITY  locbar.openpage.label         "Wočinjene rajtarki">
