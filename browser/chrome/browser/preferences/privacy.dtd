@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "استخدم الحماية من التعقب في التصفح الخاص لحظر المتعقبات المعروفة">
 <!ENTITY trackingProtectionPBM6.accesskey     "ص">
 <!ENTITY trackingProtectionPBMLearnMore.label "اطّلع على المزيد">
-<!ENTITY changeBlockList.label          "غيّر قائمة الحجب">
-<!ENTITY changeBlockList.accesskey      "غ">
+
+
 
 <!ENTITY  doNotTrack.description        "أرسل للمواقع إشارة ”لا تتعقبني“ بأنك لا تريد أن يتعقبوك">
 <!ENTITY  doNotTrack.learnMore.label    "اطّلع على المزيد">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "شريط العناوين">
 <!ENTITY  addressBar.suggest.label      "عند استخدام شريط العناوين، اقترح">
-<!ENTITY  locbar.history.label          "التأريخ">
-<!ENTITY  locbar.history.accesskey      "ت">
+
+
 <!ENTITY  locbar.bookmarks.label        "العلامات">
 <!ENTITY  locbar.bookmarks.accesskey    "ع">
 <!ENTITY  locbar.openpage.label         "الألسنة المفتوحة">
