@@ -90,6 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Conservez &brandShortName; à jour pour bénéficier des dernières avancées en matière de performances, de stabilité et de sécurité.">
 <!ENTITY updateApplication.version.pre   "Version ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Autoriser &brandShortName; à">
