@@ -138,6 +138,19 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Záznam chýb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Protokol rozhodovania">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Zakázať funkcie Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Možné riešenia">
+
+<!ENTITY aboutSupport.mediaTitle "Médium">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Výstupné zariadenia">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Vstupné zariadenia">
+<!ENTITY aboutSupport.mediaDeviceName "Názov">
+<!ENTITY aboutSupport.mediaDeviceGroup "Skupina">
+<!ENTITY aboutSupport.mediaDeviceVendor "Spoločnosť">
+<!ENTITY aboutSupport.mediaDeviceState "Stav">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferované">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formát">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanále">
+<!ENTITY aboutSupport.mediaDeviceRate "Miera">
+<!ENTITY aboutSupport.mediaDeviceLatency "Oneskorenie">
