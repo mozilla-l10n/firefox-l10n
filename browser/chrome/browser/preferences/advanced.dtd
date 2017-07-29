@@ -131,6 +131,9 @@ available. -->
 <!ENTITY enableOCSP.label                "Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet">
 <!ENTITY enableOCSP.accesskey            "F">
 <!ENTITY viewCerts2.label                "Visa certifikat…">
+<!ENTITY viewCerts2.accesskey            "c">
+<!ENTITY viewSecurityDevices2.label      "Säkerhetsenheter…">
+<!ENTITY viewSecurityDevices2.accesskey  "e">
 
 <!ENTITY performance.label               "Prestanda">
 <!ENTITY useRecommendedPerformanceSettings2.label
