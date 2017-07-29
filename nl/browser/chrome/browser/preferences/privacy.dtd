@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Bescherming tegen volgen gebruiken in Privénavigatie om bekende volgers te blokkeren">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer info">
-<!ENTITY changeBlockList.label          "Blokkeerlijst wijzigen">
-<!ENTITY changeBlockList.accesskey      "k">
+<!ENTITY changeBlockList2.label               "Blokkeerlijst wijzigen…">
+<!ENTITY changeBlockList2.accesskey           "k">
 
 <!ENTITY  doNotTrack.description        "Websites een ‘Niet volgen’-signaal sturen om te laten weten dat u niet wilt worden gevolgd">
 <!ENTITY  doNotTrack.learnMore.label    "Meer info">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresbalk">
 <!ENTITY  addressBar.suggest.label      "Bij gebruik van de adresbalk, suggesties weergeven uit">
-<!ENTITY  locbar.history.label          "Geschiedenis">
-<!ENTITY  locbar.history.accesskey      "G">
+<!ENTITY  locbar.history2.label         "Geschiedenis">
+<!ENTITY  locbar.history2.accesskey     "G">
 <!ENTITY  locbar.bookmarks.label        "Bladwijzers">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Open tabbladen">

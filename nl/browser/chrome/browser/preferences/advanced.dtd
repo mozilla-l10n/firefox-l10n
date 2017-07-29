@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "E">
 <!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
 <!ENTITY enableOCSP.accesskey            "v">
-<!ENTITY viewCerts.label                 "Certificaten bekijken">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Beveiligingsapparaten">
-<!ENTITY viewSecurityDevices.accesskey   "B">
+<!ENTITY viewCerts2.label                "Certificaten bekijken…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Beveiligingsapparaten…">
+<!ENTITY viewSecurityDevices2.accesskey  "B">
 
 <!ENTITY performance.label               "Prestaties">
 <!ENTITY useRecommendedPerformanceSettings2.label
