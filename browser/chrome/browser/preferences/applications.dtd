@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "ॲप्लिकेशन">
-<!ENTITY  applications.description "आपण ब्राऊझिंग करताना वापरलेल्या ऍप्लिकेशन्स किंवा वेब वरून डाउनलोड केलेल्या फाईल्स &brandShortName; कसे हाताळते ते निवडा">
+
 
 <!ENTITY  typeColumn.label        "अंतर्भुत माहिती प्रकार">
 <!ENTITY  typeColumn.accesskey    "T">

@@ -124,10 +124,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "क्वेरी OCSP रेसपाँडर सध्याच्या प्रमाणपत्रांची वैधताची खात्री करते">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "प्रमाणपत्रे पहा">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा साधने">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 <!ENTITY performance.label               "कार्यक्षमता">
 <!ENTITY useRecommendedPerformanceSettings2.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
