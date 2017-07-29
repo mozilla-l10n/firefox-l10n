@@ -140,3 +140,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "决策日志">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "被崩溃守卫禁用的功能">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "变通方法">
+
+<!ENTITY aboutSupport.mediaTitle "媒体">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "输出设备">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "输入设备">
+<!ENTITY aboutSupport.mediaDeviceName "名称">
+<!ENTITY aboutSupport.mediaDeviceVendor "厂商">
+<!ENTITY aboutSupport.mediaDeviceState "状态">
+<!ENTITY aboutSupport.mediaDevicePreferred "首选">
+<!ENTITY aboutSupport.mediaDeviceFormat "格式">
+<!ENTITY aboutSupport.mediaDeviceChannels "声道">
+<!ENTITY aboutSupport.mediaDeviceRate "采样率">
+<!ENTITY aboutSupport.mediaDeviceLatency "延迟">
