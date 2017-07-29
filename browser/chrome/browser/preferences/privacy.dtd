@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Defnyddio Diogelwch rhag Tracio yn Pori Preifat i rwystro tracwyr hysbys">
 <!ENTITY trackingProtectionPBM6.accesskey     "P">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dysgu rhagor">
-<!ENTITY changeBlockList.label          "Newid y Rhestr Rhwystro">
-<!ENTITY changeBlockList.accesskey      "N">
+
+
 
 <!ENTITY  doNotTrack.description        "Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio">
 <!ENTITY  doNotTrack.learnMore.label    "Dysgu rhagor">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Bar Cyfeiriadau">
 <!ENTITY  addressBar.suggest.label      "Pan yn defnyddio'r bar cyfeiriad, cynnig">
-<!ENTITY  locbar.history.label          "Hanes">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
 <!ENTITY  locbar.bookmarks.accesskey    "N">
 <!ENTITY  locbar.openpage.label         "Tabiau ar agor">
