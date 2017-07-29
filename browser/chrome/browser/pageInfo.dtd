@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "擁有者:">
 <!ENTITY  securityView.identity.domain   "網站:">
 <!ENTITY  securityView.identity.verifier "驗證機構:">
+<!ENTITY  securityView.identity.validity "到期於:">
 
 <!ENTITY  securityView.privacy.header                   "隱私及歷史記錄">
 <!ENTITY  securityView.privacy.history                  "我以前瀏覽過這個網站嗎？">

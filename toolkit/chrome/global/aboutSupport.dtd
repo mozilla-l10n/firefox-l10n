@@ -139,3 +139,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "決策紀錄">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "因 Crash Guard 停用的功能">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+<!ENTITY aboutSupport.mediaTitle "媒體">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "輸出裝置">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "輸入裝置">
+<!ENTITY aboutSupport.mediaDeviceName "名稱">
+<!ENTITY aboutSupport.mediaDeviceGroup "群組">
+<!ENTITY aboutSupport.mediaDeviceVendor "廠商">
+<!ENTITY aboutSupport.mediaDeviceState "狀態">
+<!ENTITY aboutSupport.mediaDevicePreferred "偏好使用">
+<!ENTITY aboutSupport.mediaDeviceFormat "格式">
+<!ENTITY aboutSupport.mediaDeviceChannels "頻道">
+<!ENTITY aboutSupport.mediaDeviceRate "取樣率">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
