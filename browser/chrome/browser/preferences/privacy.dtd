@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer inligting">
-<!ENTITY changeBlockList.label          "Verander bloklys">
-<!ENTITY changeBlockList.accesskey      "V">
+
+
 
 <!ENTITY  doNotTrack.learnMore.label    "Meer inligting">
 <!ENTITY  doNotTrack.default.label      "Slegs wanneer volgbeskerming gebruik word">
@@ -32,8 +32,8 @@
 <!ENTITY  permissions.label             "Toestemmings">
 
 
-<!ENTITY  locbar.history.label          "Geskiedenis">
-<!ENTITY  locbar.history.accesskey      "G">
+
+
 <!ENTITY  locbar.bookmarks.label        "Boekmerke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Oop oortjies">
