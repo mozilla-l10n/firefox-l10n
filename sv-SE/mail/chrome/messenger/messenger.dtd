@@ -952,3 +952,4 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Alternativ programsymbol…">
+<!ENTITY writeNewMessageDock.label      "Skriv nytt meddelande">
