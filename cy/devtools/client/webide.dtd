@@ -90,7 +90,6 @@
 <!ENTITY details_location "Lleoliad">
 <!ENTITY details_manifestURL "Enw Rhaglen">
 <!ENTITY details_removeProject_button "Tynnu Project">
-<!ENTITY details_showPrepackageLog_button "Dangos y Cofnod Cyn-becynnu">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Ap Newydd">

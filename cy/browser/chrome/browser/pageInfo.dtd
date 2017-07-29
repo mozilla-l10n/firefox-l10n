@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Gwefan:">
 <!ENTITY  securityView.identity.verifier "Gwirio gan:">
 
+
 <!ENTITY  securityView.privacy.header                   "Preifatrwydd a Hanes">
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
 <!ENTITY  securityView.privacy.cookies                  "A yw'r wefan yma'n cadw gwybodaeth (cwcis) ar fy nghyfrifiadur?">
