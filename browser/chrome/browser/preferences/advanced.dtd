@@ -90,6 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "保持更新 &brandShortName;，獲得最佳效能、穩定度以及安全性。">
 <!ENTITY updateApplication.version.pre   "">
 <!ENTITY updateApplication.version.post  " 版">
 <!ENTITY updateApplication.description   "讓 &brandShortName;:">
