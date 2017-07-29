@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "കൂടുതല്‍ അറിയുക">
-<!ENTITY changeBlockList.label          "തടയല്‍ പട്ടിക തിരുത്തുക">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "നാള്‍വഴി">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "തുറന്ന ടാബുകള്‍">

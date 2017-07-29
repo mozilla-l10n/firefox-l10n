@@ -90,7 +90,6 @@
 <!ENTITY details_location "സ്ഥാനം">
 <!ENTITY details_manifestURL "ആപ്പ് ഐഡി">
 <!ENTITY details_removeProject_button "പ്രോജെക്റ്റ് നീക്കം ചെയ്യുക">
-<!ENTITY details_showPrepackageLog_button "പ്രീ-പാക്കേജ് ലോഗ് കാണിയ്ക്കുക">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "പുതിയ ആപ്പ്">
