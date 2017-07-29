@@ -11,13 +11,13 @@
 <!ENTITY organize.tooltip      "จัดระเบียบที่คั่นหน้าของคุณ">
 
 <!ENTITY file.close.label               "ปิด">
-<!ENTITY file.close.accesskey           "ด">
+<!ENTITY file.close.accesskey           "ป">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "มุมมอง">
 <!ENTITY views.accesskey                "ม">
 <!ENTITY views.tooltip                  "เปลี่ยนมุมมองของคุณ">
 <!ENTITY view.columns.label             "แสดงคอลัมน์">
-<!ENTITY view.columns.accesskey         "ค">
+<!ENTITY view.columns.accesskey         "ส">
 <!ENTITY view.sort.label                "เรียง">
 <!ENTITY view.sort.accesskey            "ร">
 <!ENTITY view.unsorted.label            "ไม่เรียง">
