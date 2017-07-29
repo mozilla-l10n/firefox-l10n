@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Sebenzisa uKhuseleko lokuTreka ukuBhrawza kwaBucala ukuze ubhloke abatreki abaziwayo">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Funda okungakumbi">
-<!ENTITY changeBlockList.label          "Tshintsha Uludwe Lokubloka">
-<!ENTITY changeBlockList.accesskey      "T">
+
+
 
 <!ENTITY  doNotTrack.description        "Thumelela iiwebhsayithi umqondiso othi &quot;Musa ukuTreka&quot; obonisa ukuba akufuni kutrekwa">
 <!ENTITY  doNotTrack.learnMore.label    "Funda ngakumbi">
@@ -34,8 +34,8 @@
 <!ENTITY  permissions.label             "Iimvume">
 
 
-<!ENTITY  locbar.history.label          "Imbali">
-<!ENTITY  locbar.history.accesskey      "I">
+
+
 <!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Vula iithebhu">

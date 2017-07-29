@@ -124,10 +124,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi">
 <!ENTITY enableOCSP.accesskey            "B">
-<!ENTITY viewCerts.label                 "Bona izatifikethi">
-<!ENTITY viewCerts.accesskey             "i">
-<!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
-<!ENTITY viewSecurityDevices.accesskey   "z">
+
+
+
+
 
 <!ENTITY performance.label               "Ukusebenza">
 <!ENTITY useRecommendedPerformanceSettings2.label "Sebenzisa iisetingi ezinconyelwayo zokusebenza">

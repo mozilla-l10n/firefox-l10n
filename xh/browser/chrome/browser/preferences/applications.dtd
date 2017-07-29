@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Ii-aplikheyishini">
-<!ENTITY  applications.description "Khetha indlela i-&brandShortName; eziphatha ngayo iifayile ozidawnlowudayo kwiWebhu okanye ii-aplikheyishini ozisebenzisayo ngoxa ubhrawza.">
+
 
 <!ENTITY  typeColumn.label        "Udidi lomxholo">
 <!ENTITY  typeColumn.accesskey    "l">
