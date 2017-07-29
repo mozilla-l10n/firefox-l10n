@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Toepassings">
-<!ENTITY  applications.description "Kies hoe &brandShortName; afgelaaide lêers vanaf die Web hanteer of die toepassings wat gebruik word tydens blaaiery.">
+
 
 <!ENTITY  typeColumn.label        "Inhoudsoort">
 <!ENTITY  typeColumn.accesskey    "s">
