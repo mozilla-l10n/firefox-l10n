@@ -115,10 +115,10 @@ available. -->
 
 <!ENTITY enableOCSP.label                "OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "ପ୍ରମାଣ ପତ୍ର ଦେଖନ୍ତୁ">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "ସୁରକ୍ଷା ଉପକରଣଗୁଡ଼ିକ">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 
