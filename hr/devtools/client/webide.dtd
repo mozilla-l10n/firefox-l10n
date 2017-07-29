@@ -90,7 +90,6 @@
 <!ENTITY details_location "Lokacija">
 <!ENTITY details_manifestURL "ID aplikacije">
 <!ENTITY details_removeProject_button "Ukloni projekt">
-<!ENTITY details_showPrepackageLog_button "Prikaži pre-package zapisnik">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nova aplikacija">

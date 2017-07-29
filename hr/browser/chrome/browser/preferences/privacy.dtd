@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Saznajte više">
-<!ENTITY changeBlockList.label          "Promijenite popis blokiranih">
-<!ENTITY changeBlockList.accesskey      "b">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Povijest">
-<!ENTITY  locbar.history.accesskey      "P">
+
+
 <!ENTITY  locbar.bookmarks.label        "Zabilješke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Otvori kartice">
