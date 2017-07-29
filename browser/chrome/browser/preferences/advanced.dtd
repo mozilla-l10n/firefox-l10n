@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Используйте последнюю версию &brandShortName; для наилучшей производительности, стабильности и безопасности.">
 <!ENTITY updateApplication.version.pre   "Версия ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешить &brandShortName;">
-<!ENTITY updateAuto2.label               "Автоматически устанавливать обновления (рекомендуется для повышения безопасности)">
-<!ENTITY updateAuto2.accesskey           "м">
+<!ENTITY updateAuto3.label               "Автоматически устанавливать обновления (рекомендуется)">
+<!ENTITY updateAuto3.accesskey           "ч">
 <!ENTITY updateCheckChoose2.label        "Проверять наличие обновлений, но позволять вам решать, устанавливать ли их">
 <!ENTITY updateCheckChoose2.accesskey    "в">
 <!ENTITY updateManual2.label             "Никогда не проверять наличие обновлений (не рекомендуется)">
@@ -128,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "ш">
 <!ENTITY enableOCSP.label                "Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов">
 <!ENTITY enableOCSP.accesskey            "п">
-<!ENTITY viewCerts.label                 "Просмотр сертификатов">
-<!ENTITY viewCerts.accesskey             "с">
-<!ENTITY viewSecurityDevices.label       "Устройства защиты">
-<!ENTITY viewSecurityDevices.accesskey   "о">
+<!ENTITY viewCerts2.label                "Просмотр сертификатов…">
+<!ENTITY viewCerts2.accesskey            "м">
+<!ENTITY viewSecurityDevices2.label      "Устройства защиты…">
+<!ENTITY viewSecurityDevices2.accesskey  "т">
 
 <!ENTITY performance.label               "Производительность">
 <!ENTITY useRecommendedPerformanceSettings2.label
