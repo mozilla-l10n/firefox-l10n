@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Programos">
-<!ENTITY  applications.description "Pasirinkite, kaip „&brandShortName;“ elgsis su parsiunčiamais failais arba programomis, kurias naudojate naršydami.">
+
 
 <!ENTITY  typeColumn.label        "Turinio tipas">
 <!ENTITY  typeColumn.accesskey    "t">

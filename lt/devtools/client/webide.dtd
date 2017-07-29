@@ -90,7 +90,6 @@
 <!ENTITY details_location "Adresas">
 <!ENTITY details_manifestURL "Programos ID">
 <!ENTITY details_removeProject_button "Šalinti projektą">
-<!ENTITY details_showPrepackageLog_button "Rodyti paruošimo žurnalą">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Nauja programa">

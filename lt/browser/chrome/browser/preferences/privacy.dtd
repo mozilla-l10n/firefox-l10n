@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Naudokite apsaugą nuo stebėjimo privačiojo naršymo veiksenoje, norėdami užblokuoti žinomus stebėjimo elementus">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Sužinoti daugiau">
-<!ENTITY changeBlockList.label          "Keisti blokavimo sąrašą">
-<!ENTITY changeBlockList.accesskey      "K">
+
+
 
 <!ENTITY  doNotTrack.description        "Siųsti svetainėms „Do Not Track“ signalą, nurodant pageidavimą nebūti sekamiems">
 <!ENTITY  doNotTrack.learnMore.label    "Sužinoti daugiau">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adreso juosta">
 <!ENTITY  addressBar.suggest.label      "Rašant adreso juostoje, siūlyti">
-<!ENTITY  locbar.history.label          "Žurnalas">
-<!ENTITY  locbar.history.accesskey      "Ž">
+
+
 <!ENTITY  locbar.bookmarks.label        "Adresynas">
 <!ENTITY  locbar.bookmarks.accesskey    "y">
 <!ENTITY  locbar.openpage.label         "Atverti korteles">
