@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "V">
 <!ENTITY enableOCSP.label                "Aktuálnu platnosť certifikátov overovať na serveroch OCSP">
 <!ENTITY enableOCSP.accesskey            "A">
-<!ENTITY viewCerts.label                 "Zobraziť certifikáty">
-<!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Bezpečnostné zariadenia">
-<!ENTITY viewSecurityDevices.accesskey   "z">
+<!ENTITY viewCerts2.label                "Zobraziť certifikáty…">
+<!ENTITY viewCerts2.accesskey            "c">
+<!ENTITY viewSecurityDevices2.label      "Bezpečnostné zariadenia…">
+<!ENTITY viewSecurityDevices2.accesskey  "d">
 
 <!ENTITY performance.label               "Výkon">
 <!ENTITY useRecommendedPerformanceSettings2.label
