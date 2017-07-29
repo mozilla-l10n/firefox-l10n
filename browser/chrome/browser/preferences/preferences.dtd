@@ -22,7 +22,7 @@
 <!ENTITY  paneUpdates.title             "Абнаўленні">
 
 <!ENTITY  languageAndAppearance.label   "Мова і выгляд">
-<!ENTITY  filesAndApplications.label    "Файлы і Праграмы">
+<!ENTITY  filesAndApplications.label    "Файлы і праграмы">
 <!ENTITY  browserPrivacy.label          "Прыватнасць браўзера">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

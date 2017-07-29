@@ -86,7 +86,7 @@ available. -->
 
 <!ENTITY updateTab.label                 "Абнаўленне">
 
-<!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
+<!ENTITY updateApplication.label         "Абнаўленні &brandShortName;">
 <!ENTITY updateAuto1.label               "Аўтаматычнае ўсталяванне абнаўленняў (рэкамендуецца: палепшаная бяспека)">
 <!ENTITY updateAuto1.accesskey           "с">
 <!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўсталёўваць іх">
