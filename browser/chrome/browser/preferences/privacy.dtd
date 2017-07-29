@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Ithute mo go tseneletseng">
-<!ENTITY changeBlockList.label          "Fetola Lenaane Kganelo">
-<!ENTITY changeBlockList.accesskey      "F">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Motlhala wa tsedifitileng">
-<!ENTITY  locbar.history.accesskey      "M">
+
+
 <!ENTITY  locbar.bookmarks.label        "Matshwaotsebe">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Dithebe tse di butsweng">
