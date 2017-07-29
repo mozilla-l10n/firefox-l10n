@@ -46,7 +46,7 @@
 </ul>">
 
 <!ENTITY netReset.title "连接被中断">
-<!ENTITY netReset.longDesc "<p>当连接握手时，到该站点的连接被断开。请重试</p>">
+<!ENTITY netReset.longDesc "<p>协商连接时网络连接被中断。请重试。</p>">
 
 <!ENTITY netTimeout.title "网络超时">
 <!ENTITY netTimeout.longDesc "<p>请求的站点在指定的时间内没有响应连接，因此浏览器停止了等待。</p><ul><li>该服务器是否过载或者暂时不可用？请稍后再试。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接。</li><li>您的计算机或网络是否被防火墙、代理服务器保护？请尝试修正可能与网页浏览相关的不正确设置。</li><li>仍然不行？请联系您的网络管理员或者互联网服务提供商寻求援助。</li></ul>">
