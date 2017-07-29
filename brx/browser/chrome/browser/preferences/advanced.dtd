@@ -115,10 +115,10 @@ available. -->
 
 <!ENTITY enableOCSP.label                "सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "सार्टिफिकेटखौ नाय">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "रैखाथि डिभाइस">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 

@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "वेबसाइट:">
 <!ENTITY  securityView.identity.verifier "..जों नायबिजिरबाय : ">
 
+
 <!ENTITY  securityView.privacy.header                   "गुमुरथि आरो जारिमिन">
 <!ENTITY  securityView.privacy.history                  "आं दिनैनि सिगाङाव बे वेबसाइटाव फैनाय नामा?">
 <!ENTITY  securityView.privacy.cookies                  "बे वेबसाइटहा नोंथांनि कम्पुटाराव दोनथुमनाय फोरमायथिहोग्रा (कुकिफोर) दं नामा?">
