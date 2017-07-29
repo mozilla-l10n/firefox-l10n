@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Webgunea: ">
 <!ENTITY  securityView.identity.verifier "Egiaztatzailea: ">
 
+
 <!ENTITY  securityView.privacy.header                   "Pribatutasuna eta historia">
 <!ENTITY  securityView.privacy.history                  "Webgune hau lehenago bisitatu dut?">
 <!ENTITY  securityView.privacy.cookies                  "Webgune hau informazioa (cookieak) nire ordenagailuan gordetzen ari da?">

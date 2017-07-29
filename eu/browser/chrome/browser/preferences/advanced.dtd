@@ -128,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
 <!ENTITY enableOCSP.accesskey            "G">
-<!ENTITY viewCerts.label                 "Ikusi ziurtagiriak">
-<!ENTITY viewCerts.accesskey             "k">
-<!ENTITY viewSecurityDevices.label       "Segurtasun-gailuak">
-<!ENTITY viewSecurityDevices.accesskey   "S">
+
+
+
+
 
 <!ENTITY performance.label               "Errendimendua">
 <!ENTITY useRecommendedPerformanceSettings2.label "Erabili gomendatutako errendimendu-ezarpenak">

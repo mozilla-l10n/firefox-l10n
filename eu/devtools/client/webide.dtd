@@ -90,7 +90,6 @@
 <!ENTITY details_location "Helbidea">
 <!ENTITY details_manifestURL "Aplikazioaren IDa">
 <!ENTITY details_removeProject_button "Kendu proiektua">
-<!ENTITY details_showPrepackageLog_button "Erakutsi aurre-paketatzearen erregistroa">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplikazio berria">
