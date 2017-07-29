@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Meililisti omadused">
 <!ENTITY mailingListPropertiesMenu.accesskey "o">
 
+<!ENTITY abContextMenuButton.tooltip        "Kuva aadressiraamatu kontekstimenüü">
 <!ENTITY addressbookPicker.label            "Aadressiraamat:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Kontakti otsimine:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "M">
 <!ENTITY editMailingListContext.label       "Muuda meililisti">
 <!ENTITY editMailingListContext.accesskey   "M">
+
+<!ENTITY newContactAbContext.label          "Uus kontakt">
+<!ENTITY newContactAbContext.accesskey      "k">
+<!ENTITY newListAbContext.label             "Uus list">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Lisa väljale Saaja:">
 <!ENTITY toButton.accesskey                 "L">

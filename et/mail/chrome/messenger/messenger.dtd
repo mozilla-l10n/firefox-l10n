@@ -952,3 +952,4 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Rakenduse ikooni sätted…">
+<!ENTITY writeNewMessageDock.label      "Kirjuta uus kiri">
