@@ -90,7 +90,6 @@
 <!ENTITY details_location "Հասցե">
 <!ENTITY details_manifestURL "Հավելվածի ID">
 <!ENTITY details_removeProject_button "Հեռացնել նախագիծը">
-<!ENTITY details_showPrepackageLog_button "Ցուցադրել նախափաթեթային մատյանը">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Նոր հավելված">

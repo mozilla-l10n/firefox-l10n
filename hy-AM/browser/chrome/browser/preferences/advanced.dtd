@@ -122,10 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Հարցում OCSP պատասխանիչի սպասարկիչին՝ հաստատելու հավաստագրի իսկությունը">
 <!ENTITY enableOCSP.accesskey            "Հ">
-<!ENTITY viewCerts.label                 "Դիտել վկայագրերը">
-<!ENTITY viewCerts.accesskey             "վ">
-<!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
-<!ENTITY viewSecurityDevices.accesskey   "Ս">
+
+
+
+
 
 <!ENTITY performance.label               "Արտադրողականություն">
 <!ENTITY useRecommendedPerformanceSettings2.label "Օգտ. արտադրողականության հանձնարարելի կարգավորումները">

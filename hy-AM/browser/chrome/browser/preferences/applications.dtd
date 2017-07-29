@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Ծրագրեր">
-<!ENTITY  applications.description "Ընտրեք, թե &brandShortName;-ը ինչպես կառավարի ներբեռնված ֆայլերը կամ այն ծրագրերը, որոնք դուք օգտագործում եք դիտարկման ժամանակ:">
+
 
 <!ENTITY  typeColumn.label        "Բովանդակության տեսակը">
 <!ENTITY  typeColumn.accesskey    "տ">

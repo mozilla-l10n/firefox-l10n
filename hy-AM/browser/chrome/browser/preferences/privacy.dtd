@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Իմանալ ավելին">
-<!ENTITY changeBlockList.label          "Փոխել արգելացուցակը">
-<!ENTITY changeBlockList.accesskey      "Փ">
+
+
 
 
 
@@ -32,8 +32,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Պատմություն">
-<!ENTITY  locbar.history.accesskey      "Պ">
+
+
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
 <!ENTITY  locbar.bookmarks.accesskey    "ի">
 <!ENTITY  locbar.openpage.label         "Բացել ներդիրները">
