@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "वेब साइट: ">
 <!ENTITY  securityView.identity.verifier "एकटार द्वारा सत्यापित: ">
 
+
 <!ENTITY  securityView.privacy.header                   "गोपनीयता आ इतिहास">
 <!ENTITY  securityView.privacy.history                  "की हम ई वेब साइट आइसँ पहिने देखने छी?">
 <!ENTITY  securityView.privacy.cookies                  "की ई वेब साइट हमर कंप्यूटर पर सूचना (कुकी) जमा कए रहल अछि?">
