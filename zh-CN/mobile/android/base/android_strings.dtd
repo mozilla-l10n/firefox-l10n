@@ -65,7 +65,7 @@
 
 <!ENTITY url_bar_default_text2 "搜索或输入网址">
 
-<!ENTITY bookmark "书签">
+<!ENTITY bookmark "添加书签">
 <!ENTITY bookmark_remove "移除书签">
 <!ENTITY bookmark_added "书签已添加">
 <!-- Localization note (bookmark_already_added) : This string is
