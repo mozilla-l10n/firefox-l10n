@@ -115,10 +115,10 @@ available. -->
 
 <!ENTITY enableOCSP.label                "প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "প্ৰমাণপত্ৰসমূহ চাওক">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "সুৰক্ষা ডিভাইচসমূহ">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 
