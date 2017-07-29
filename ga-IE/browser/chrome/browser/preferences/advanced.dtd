@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
 <!ENTITY enableOCSP.accesskey            "O">
-<!ENTITY viewCerts.label                 "Taispeáin Teastais">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Gléasanna Slándála">
-<!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
 
 <!ENTITY performance.label               "Feidhmíocht">
 <!ENTITY useRecommendedPerformanceSettings2.label "Bain úsáid as na socruithe feidhmíochta a mholtar">

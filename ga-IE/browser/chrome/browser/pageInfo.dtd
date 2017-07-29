@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Suíomh Gréasáin:">
 <!ENTITY  securityView.identity.verifier "Fíoraithe ag:">
 
+
 <!ENTITY  securityView.privacy.header                   "Príobháideachas agus Stair">
 <!ENTITY  securityView.privacy.history                  "Ar thug mé cuairt ar an suíomh seo roimh inniu?">
 <!ENTITY  securityView.privacy.cookies                  "An bhfuil an suíomh Gréasáin seo ag stóráil faisnéise (fianáin) ar mo ríomhaire?">
