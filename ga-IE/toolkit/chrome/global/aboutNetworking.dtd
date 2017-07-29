@@ -46,7 +46,7 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Líon amas ón taisce">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Líon amas ón líonra">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Líon iomlán iarratas líonra">
-
+<!ENTITY aboutNetworking.rcwnOperation         "Oibríocht na Taisce">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Oscail">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Leámh">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Scríobh">
@@ -54,5 +54,5 @@
 
 
 
-
-
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Líon amas mall ón taisce">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Líon amas nach mall ón taisce">
