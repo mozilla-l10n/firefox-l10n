@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Bruk sporingsbeskyttelse i privat nettlesing for å blokkere kjente sporere">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Les mer">
-<!ENTITY changeBlockList.label          "Endre blokkeringsliste">
-<!ENTITY changeBlockList.accesskey      "b">
+<!ENTITY changeBlockList2.label               "Endre blokkeringsliste…">
+<!ENTITY changeBlockList2.accesskey           "b">
 
 <!ENTITY  doNotTrack.description        "Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet">
 <!ENTITY  doNotTrack.learnMore.label    "Les mer">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresselinje">
 <!ENTITY  addressBar.suggest.label      "Når du bruker adresselinjen, føreslå">
-<!ENTITY  locbar.history.label          "Historikk">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.label         "Nettleserhistorikk">
+<!ENTITY  locbar.history2.accesskey     "h">
 <!ENTITY  locbar.bookmarks.label        "Bokmerker">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Åpne faner">
