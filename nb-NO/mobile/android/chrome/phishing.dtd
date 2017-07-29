@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Få meg bort herfra!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne advarselen">
 <!ENTITY safeb.palm.reportPage.label "Hvorfor ble denne nettsiden blokkert?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Rådgiving levert av <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportert som angrepsnettsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
