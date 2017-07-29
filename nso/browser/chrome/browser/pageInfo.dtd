@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Wepesaete: ">
 <!ENTITY  securityView.identity.verifier "Kgonthišeditšwe ke:">
 
+
 <!ENTITY  securityView.privacy.history                  "Na nkile ka etela wepesaete ye pele ga lehono?">
 <!ENTITY  securityView.privacy.cookies                  "Na wepesaete ye e boloka tshedimošo (dikhukhi) khomphutheng ya ka?">
 <!ENTITY  securityView.privacy.viewCookies              "Lebelela dikhukhi">
