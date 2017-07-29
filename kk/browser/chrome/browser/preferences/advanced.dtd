@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "р">
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
 <!ENTITY enableOCSP.accesskey            "с">
-
-
-
-
+<!ENTITY viewCerts2.label                "Сертификаттарды қарау…">
+<!ENTITY viewCerts2.accesskey            "С">
+<!ENTITY viewSecurityDevices2.label      "Қауіпсіздік құрылғылары…">
+<!ENTITY viewSecurityDevices2.accesskey  "ы">
 
 <!ENTITY performance.label               "Өнімділік">
 <!ENTITY useRecommendedPerformanceSettings2.label "Ұсынылатын өнімділік баптауларын қолдану">

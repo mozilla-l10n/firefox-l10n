@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Қулаудан қорғаныс сөндірген мүмкіндіктері">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Арнайы қолдау">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Мультимедиа">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Шығыс құрылғылары">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Енгізу құрылғылары">
+<!ENTITY aboutSupport.mediaDeviceName "Аты">
+<!ENTITY aboutSupport.mediaDeviceGroup "Топ">
+<!ENTITY aboutSupport.mediaDeviceVendor "Өндіруші">
+<!ENTITY aboutSupport.mediaDeviceState "Күйі">
+<!ENTITY aboutSupport.mediaDevicePreferred "Таңдамалы">
+<!ENTITY aboutSupport.mediaDeviceFormat "Пішімі">
+<!ENTITY aboutSupport.mediaDeviceChannels "Арналар">
+<!ENTITY aboutSupport.mediaDeviceRate "Жиілігі">
+<!ENTITY aboutSupport.mediaDeviceLatency "Кідірісі">

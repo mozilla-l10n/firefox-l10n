@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Иесі:">
 <!ENTITY  securityView.identity.domain   "Веб-сайт:">
 <!ENTITY  securityView.identity.verifier "Растаған:">
-
+<!ENTITY  securityView.identity.validity "Мерзімі аяқталады:">
 
 <!ENTITY  securityView.privacy.header                   "Жекешелік пен Тарихы">
 <!ENTITY  securityView.privacy.history                  "Бұл сайтта бүгінге дейін болдым ба?">
