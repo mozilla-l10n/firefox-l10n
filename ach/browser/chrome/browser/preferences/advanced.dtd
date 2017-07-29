@@ -122,10 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Yeny lapok tic ma miyo lagam pa OCSP me moko kare me tic ma kombedi pa waraga">
 <!ENTITY enableOCSP.accesskey            "Y">
-<!ENTITY viewCerts.label                 "Nen karatac lok ada">
-<!ENTITY viewCerts.accesskey             "t">
-<!ENTITY viewSecurityDevices.label       "Nyonyo me ber bedo">
-<!ENTITY viewSecurityDevices.accesskey   "o">
+
+
+
+
 
 <!ENTITY performance.label               "Tic">
 <!ENTITY useRecommendedPerformanceSettings2.label "Tii ki ter me tic ma kicimo.">

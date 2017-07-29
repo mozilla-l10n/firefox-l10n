@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Nong ngec mapol">
-<!ENTITY changeBlockList.label          "Lok jami bulok">
-<!ENTITY changeBlockList.accesskey      "L">
+
+
 
 <!ENTITY  doNotTrack.learnMore.label    "Nong ngec mapol">
 
@@ -32,8 +32,8 @@
 <!ENTITY  permissions.label             "Rukuca">
 
 
-<!ENTITY  locbar.history.label          "Gin mukato">
-<!ENTITY  locbar.history.accesskey      "G">
+
+
 <!ENTITY  locbar.bookmarks.label        "Alama buk">
 <!ENTITY  locbar.bookmarks.accesskey    "l">
 <!ENTITY  locbar.openpage.label         "Yab dirica matino">
