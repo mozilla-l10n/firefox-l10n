@@ -122,10 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "प्रमाणपत्र देखें">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 <!ENTITY performance.label               "प्रदर्शन">
 <!ENTITY useRecommendedPerformanceSettings2.label "अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें">
