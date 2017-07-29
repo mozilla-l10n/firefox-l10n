@@ -115,10 +115,10 @@ available. -->
 
 <!ENTITY enableOCSP.label                "OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "प्रमाणपत्र देखू">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "सुरक्षा डिवाइस">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 
