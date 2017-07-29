@@ -140,7 +140,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებ-საიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ ვებ-საიტს არ დაუკავშირდება.">
+<!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ ვებ-საიტს არ დაუკავშირდება.">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -166,7 +166,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "შეიტყვეთ მეტი…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებ-საიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ დაუკავშირდით ვებსაიტის მფლობელებს და შეატყობინეთ ამ პრობლემის შესახებ.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "უსაფრთხო კავშირი ვერ ხერხდება">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
