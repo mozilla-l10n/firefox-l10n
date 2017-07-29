@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Ägare:">
 <!ENTITY  securityView.identity.domain   "Webbplats:">
 <!ENTITY  securityView.identity.verifier "Verifierad av:">
+<!ENTITY  securityView.identity.validity "Upphör:">
 
 <!ENTITY  securityView.privacy.header                   "Sekretess och historik">
 <!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare dagar?">

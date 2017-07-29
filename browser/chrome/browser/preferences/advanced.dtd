@@ -130,10 +130,7 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "F">
 <!ENTITY enableOCSP.label                "Fråga OCSP responder-servrar för att bekräfta certifikatens aktuella giltighet">
 <!ENTITY enableOCSP.accesskey            "F">
-<!ENTITY viewCerts.label                 "Visa Certifikat">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
-<!ENTITY viewSecurityDevices.accesskey   "e">
+<!ENTITY viewCerts2.label                "Visa certifikat…">
 
 <!ENTITY performance.label               "Prestanda">
 <!ENTITY useRecommendedPerformanceSettings2.label
