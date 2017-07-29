@@ -124,10 +124,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Cuir iarrtas gu frithealaichean OCSP Responder gus dligheachd nan teisteanasan làithreach a dhearbhadh">
 <!ENTITY enableOCSP.accesskey            "C">
-<!ENTITY viewCerts.label                 "Seall na teisteanasan">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Uidheaman tèarainteachd">
-<!ENTITY viewSecurityDevices.accesskey   "n">
+
+
+
+
 
 <!ENTITY performance.label               "Dèanadas">
 <!ENTITY useRecommendedPerformanceSettings2.label "Cleachd na roghainnean dèanadais a mholamaid-ne">
