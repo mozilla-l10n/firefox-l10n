@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Huutoro ndeenka dewindagol nder banngagol sutura ngam faddaade ñukkintooɓe anndaaɓe">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ɓeydu humpito">
-<!ENTITY changeBlockList.label          "Waylu Doggol Daaƴol">
-<!ENTITY changeBlockList.accesskey      "W">
+
+
 
 <!ENTITY  doNotTrack.description        "Neldu lowe internet siñaal &quot;Hoto rewindo&quot; so a yiɗaa ñukkindeede">
 <!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
@@ -34,8 +34,8 @@
 <!ENTITY  permissions.label             "Jamirooje">
 
 
-<!ENTITY  locbar.history.label          "Aslol">
-<!ENTITY  locbar.history.accesskey      "A">
+
+
 <!ENTITY  locbar.bookmarks.label        "Maantore">
 <!ENTITY  locbar.bookmarks.accesskey    "t">
 <!ENTITY  locbar.openpage.label         "Tabbe udditiiɗe">
