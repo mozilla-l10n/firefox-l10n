@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Úsáid Cosaint ar Lorgaireacht i mBrabhsáil Phríobháideach chun cosc a chur ar lorgairí aitheanta">
 <!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Tuilleadh eolais">
-<!ENTITY changeBlockList.label          "Athraigh an Liosta Coiscthe">
-<!ENTITY changeBlockList.accesskey      "A">
+
+
 
 <!ENTITY  doNotTrack.description        "Inis do shuímh “Ná Lorgaítear Mé” mura bhfuil tú ag iarraidh go lorgófaí thú">
 <!ENTITY  doNotTrack.learnMore.label    "Tuilleadh eolais">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Barra Suímh">
 <!ENTITY  addressBar.suggest.label      "Agus an barra suímh in úsáid, mol">
-<!ENTITY  locbar.history.label          "Stair">
-<!ENTITY  locbar.history.accesskey      "S">
+
+
 <!ENTITY  locbar.bookmarks.label        "Leabharmharcanna">
 <!ENTITY  locbar.bookmarks.accesskey    "L">
 <!ENTITY  locbar.openpage.label         "Cluaisíní oscailte">

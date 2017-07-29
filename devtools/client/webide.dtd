@@ -90,7 +90,6 @@
 <!ENTITY details_location "Suíomh">
 <!ENTITY details_manifestURL "Aitheantas na hAipe">
 <!ENTITY details_removeProject_button "Bain Tionscadal">
-<!ENTITY details_showPrepackageLog_button "Taispeáin an Logchomhad Réamhphacáistithe">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aip Nua">
