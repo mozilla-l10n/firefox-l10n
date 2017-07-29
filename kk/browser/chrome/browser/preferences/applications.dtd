@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Қолданбалар">
-<!ENTITY  applications.description "&brandShortName; сіз интернеттен жүктеп алған файлдарды немесе шолу кезінде қолданатын қолданбаларды қалай өңдейтінін таңдаңыз.">
+
 
 <!ENTITY  typeColumn.label        "Құрамының түрі">
 <!ENTITY  typeColumn.accesskey    "р">

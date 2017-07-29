@@ -90,7 +90,6 @@
 <!ENTITY details_location "Орналасуы">
 <!ENTITY details_manifestURL "Қолданба ID-і">
 <!ENTITY details_removeProject_button "Жобаны өшіру">
-<!ENTITY details_showPrepackageLog_button "Дестелеу алдындағы логты көрсету">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Жаңа қолданба">

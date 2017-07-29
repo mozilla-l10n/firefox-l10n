@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Жекелік шолуда белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану">
 <!ENTITY trackingProtectionPBM6.accesskey     "Ж">
 <!ENTITY trackingProtectionPBMLearnMore.label "Көбірек білу">
-<!ENTITY changeBlockList.label          "Блоктізімді өзгерту">
-<!ENTITY changeBlockList.accesskey      "г">
+
+
 
 <!ENTITY  doNotTrack.description        "Сайттарға &quot;Мені бақыламау&quot; сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау">
 <!ENTITY  doNotTrack.learnMore.label    "Көбірек білу">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Адрес жолағы">
 <!ENTITY  addressBar.suggest.label      "Адрес жолағын қолдану кезінде, ұсыну">
-<!ENTITY  locbar.history.label          "Тарихы">
-<!ENTITY  locbar.history.accesskey      "Т">
+
+
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
 <!ENTITY  locbar.bookmarks.accesskey    "л">
 <!ENTITY  locbar.openpage.label         "Ашық беттер">
