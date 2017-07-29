@@ -141,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Ciri Crash Guard Dinyahdayakan">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Peranti Output">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Peranti Input">
+<!ENTITY aboutSupport.mediaDeviceName "Nama">
+<!ENTITY aboutSupport.mediaDeviceGroup "Kumpulan">
+<!ENTITY aboutSupport.mediaDeviceVendor "Pembekal">
+<!ENTITY aboutSupport.mediaDeviceState "Keadaan">
+<!ENTITY aboutSupport.mediaDevicePreferred "Diutamakan">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Saluran">
+<!ENTITY aboutSupport.mediaDeviceRate "Kadar">
+<!ENTITY aboutSupport.mediaDeviceLatency "Kependaman">
