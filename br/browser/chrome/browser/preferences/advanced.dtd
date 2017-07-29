@@ -120,10 +120,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
 <!ENTITY enableOCSP.accesskey            "G">
-<!ENTITY viewCerts.label                 "Gwelout an testenioù">
-<!ENTITY viewCerts.accesskey             "a">
-<!ENTITY viewSecurityDevices.label       "Trobarzhelloù diogelroez">
-<!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
 
 
 

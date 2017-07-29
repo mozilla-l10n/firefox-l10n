@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Gouzout hiroc'h">
-<!ENTITY changeBlockList.label          "Kemmañ ar roll stankañ">
-<!ENTITY changeBlockList.accesskey      "K">
+
+
 
 
 
@@ -32,8 +32,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Roll istor">
-<!ENTITY  locbar.history.accesskey      "R">
+
+
 <!ENTITY  locbar.bookmarks.label        "Sinedoù">
 <!ENTITY  locbar.bookmarks.accesskey    "S">
 <!ENTITY  locbar.openpage.label         "Digeriñ ivinelloù">
