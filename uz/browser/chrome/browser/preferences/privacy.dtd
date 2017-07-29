@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Batafsil ma’lumot">
-<!ENTITY changeBlockList.label          "Blok ro‘yxatini o‘zgartirish">
-<!ENTITY changeBlockList.accesskey      "B">
+
+
 
 
 
@@ -32,8 +32,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Tarix">
-<!ENTITY  locbar.history.accesskey      "T">
+
+
 <!ENTITY  locbar.bookmarks.label        "Xatcho‘plar">
 <!ENTITY  locbar.bookmarks.accesskey    "X">
 <!ENTITY  locbar.openpage.label         "Ichki oynalarni ochish">

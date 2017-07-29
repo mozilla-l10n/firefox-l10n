@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Veb sayt:">
 <!ENTITY  securityView.identity.verifier "Tekshiruvchi:">
 
+
 <!ENTITY  securityView.privacy.header                   "Maxfiylik va tarix">
 <!ENTITY  securityView.privacy.history                  "Bugun ushbu sahifaga tashrif buyurdimmi?">
 <!ENTITY  securityView.privacy.cookies                  "Ushbu veb sayt ma’lumotlar (kukilar)ni kompyuterimga joylashtiryaptimi?">

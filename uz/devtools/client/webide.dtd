@@ -90,7 +90,6 @@
 <!ENTITY details_location "Manzili">
 <!ENTITY details_manifestURL "Ilova dastur nomi">
 <!ENTITY details_removeProject_button "Loyihani olib tashlash">
-<!ENTITY details_showPrepackageLog_button "Oldindan paketlash jurnallarini ko‘rsatish">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Yangi ilova dastur">
