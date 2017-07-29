@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "س">
 <!ENTITY enableOCSP.label                "استعلم من خواديم مستجيبي OCSP عن الصلاحية الحالية للشهادات">
 <!ENTITY enableOCSP.accesskey            "س">
-
-
-
-
+<!ENTITY viewCerts2.label                "اعرض الشهادات…">
+<!ENTITY viewCerts2.accesskey            "ش">
+<!ENTITY viewSecurityDevices2.label      "أجهزة الأمن…">
+<!ENTITY viewSecurityDevices2.accesskey  "ج">
 
 <!ENTITY performance.label               "الأداء">
 <!ENTITY useRecommendedPerformanceSettings2.label "استعمل إعدادات الأداء المستحسنة">
