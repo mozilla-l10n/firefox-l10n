@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "વધુ શીખો">
 <!ENTITY  doNotTrack.always.label       "હંમેશા">
@@ -27,8 +27,7 @@
 <!ENTITY  permissions.label             "પરવાનગીઓ">
 
 <!ENTITY  addressBar.label              "સરનામા પટ્ટી">
-<!ENTITY  locbar.history.label          "ઇતિહાસ">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "બુકમાર્કો">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ટૅબ ખોલો">
@@ -39,6 +38,7 @@
 <!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
 <!ENTITY  acceptCookies.accesskey       "A">
 
+<!ENTITY  acceptThirdParty.pre.label      "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
@@ -98,6 +98,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersLearnMore.label      "વધુ શીખો">
+<!ENTITY  browserContainersEnabled.label        "કન્ટેઈનર ટેબ્સ સક્ષમ કરો">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "સેટીંગ…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
