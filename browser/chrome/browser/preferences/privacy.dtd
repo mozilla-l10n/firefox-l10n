@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber-ne mas">
-<!ENTITY changeBlockList.label          "Cambiar a lista de bloqueyos">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 
 
@@ -32,8 +32,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Marcapachinas">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Ubrir as pestanyas">
