@@ -30,6 +30,9 @@ JSON גולמי
 פינג
 ">
 
+<!ENTITY aboutTelemetry.optionGroupToday "
+היום
+">
 
 <!ENTITY aboutTelemetry.optionGroupYesterday "
 אתמול
