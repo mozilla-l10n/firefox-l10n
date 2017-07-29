@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Блакіраваць вядомыя элементы сачэння ў рэжыме прыватнага аглядання">
 <!ENTITY trackingProtectionPBM6.accesskey     "м">
 <!ENTITY trackingProtectionPBMLearnMore.label "Даведацца больш">
-<!ENTITY changeBlockList.label          "Змяніць спіс блакавання">
-<!ENTITY changeBlockList.accesskey      "З">
+<!ENTITY changeBlockList2.label               "Змяніць спіс блакавання…">
+<!ENTITY changeBlockList2.accesskey           "З">
 
 <!ENTITY  doNotTrack.description        "Адсылаць вэб-сайтам сігнал “Не сачыць”">
 <!ENTITY  doNotTrack.learnMore.label    "Даведацца больш">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Адрасны радок">
 <!ENTITY  addressBar.suggest.label      "Пры выкарыстанні адраснага радка, прапаноўваць">
-<!ENTITY  locbar.history.label          "Гісторыю">
-<!ENTITY  locbar.history.accesskey      "Г">
+<!ENTITY  locbar.history2.label         "Гісторыя аглядання">
+<!ENTITY  locbar.history2.accesskey     "Г">
 <!ENTITY  locbar.bookmarks.label        "Закладкі">
 <!ENTITY  locbar.bookmarks.accesskey    "л">
 <!ENTITY  locbar.openpage.label         "Адкрытыя карткі">
