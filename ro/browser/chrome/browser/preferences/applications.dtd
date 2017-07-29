@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicații">
-<!ENTITY  applications.description "Alege felul în care &brandShortName; gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești atunci când navighezi.">
+
 
 <!ENTITY  typeColumn.label        "Tip de conținut">
 <!ENTITY  typeColumn.accesskey    "T">

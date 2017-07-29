@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Află mai multe">
-<!ENTITY changeBlockList.label          "Schimbă lista de blocări">
-<!ENTITY changeBlockList.accesskey      "c">
+
+
 
 <!ENTITY  doNotTrack.description        "Trimite site-urilor web un semnal „Do Not Track” prin care nu dorești să fii urmărit">
 <!ENTITY  doNotTrack.learnMore.label    "Află mai multe">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Bară de adresă">
 <!ENTITY  addressBar.suggest.label      "Când se folosește bara de adresă, sugerează:">
-<!ENTITY  locbar.history.label          "Istoric">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "File deschise">
