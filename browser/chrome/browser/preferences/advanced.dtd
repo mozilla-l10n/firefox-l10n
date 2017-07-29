@@ -116,10 +116,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A‍">
 <!ENTITY enableOCSP.label                "ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "ಸುರಕ್ಷತಾ ಸಾಧನಗಳು">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 

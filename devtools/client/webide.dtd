@@ -90,7 +90,6 @@
 <!ENTITY details_location "ಸ್ಥಳ">
 <!ENTITY details_manifestURL "ಅನ್ವಯ ID">
 <!ENTITY details_removeProject_button "ಯೋಜನೆ ತೆಗೆದುಹಾಕಿ">
-<!ENTITY details_showPrepackageLog_button "ಪ್ರೀ-ಪ್ಯಾಕೇಜ್ ದಿನಚರಿ ತೋರಿಸು">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "ಹೊಸ ಅನ್ವಯ">
