@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Propriétaire : ">
 <!ENTITY  securityView.identity.domain   "Site web : ">
 <!ENTITY  securityView.identity.verifier "Vérifiée par : ">
+<!ENTITY  securityView.identity.validity "Expire le :">
 
 <!ENTITY  securityView.privacy.header                   "Vie privée et historique">
 <!ENTITY  securityView.privacy.history                  "Ai-je déjà visité ce site web auparavant ?">
