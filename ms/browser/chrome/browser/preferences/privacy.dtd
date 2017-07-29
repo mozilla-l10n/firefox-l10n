@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali">
 <!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
-<!ENTITY changeBlockList.label          "Tukar Senarai Sekatan">
-<!ENTITY changeBlockList.accesskey      "a">
+<!ENTITY changeBlockList2.label               "Tukar Senarai Sekatan…">
+<!ENTITY changeBlockList2.accesskey           "T">
 
 <!ENTITY  doNotTrack.description        "Hantar laman web isyarat “Jangan Jejak” bahawa anda tidak mahu dikesan">
 <!ENTITY  doNotTrack.learnMore.label    "Ketahui selanjutnya">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Bar Alamat">
 <!ENTITY  addressBar.suggest.label      "Apabila menggunakan bar alamat, syorkan">
-<!ENTITY  locbar.history.label          "Sejarah">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.label         "Sejarah pelayaran">
+<!ENTITY  locbar.history2.accesskey     "S">
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Buka tab">

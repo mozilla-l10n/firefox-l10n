@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Tanya pelayan responder OCSP untuk memastikan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "Papar Sijil">
-<!ENTITY viewCerts.accesskey             "r">
-<!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
-<!ENTITY viewSecurityDevices.accesskey   "k">
+<!ENTITY viewCerts2.label                "Papar Sijil…">
+<!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Peranti Keselamatan…">
+<!ENTITY viewSecurityDevices2.accesskey  "P">
 
 <!ENTITY performance.label               "Prestasi">
 <!ENTITY useRecommendedPerformanceSettings2.label

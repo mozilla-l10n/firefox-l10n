@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Pemilik:">
 <!ENTITY  securityView.identity.domain   "Laman Web:">
 <!ENTITY  securityView.identity.verifier "Disahkan oleh:">
+<!ENTITY  securityView.identity.validity "Luput pada:">
 
 <!ENTITY  securityView.privacy.header                   "Peribadi &amp; Sejarah">
 <!ENTITY  securityView.privacy.history                  "Adakah saya pernah lawati laman web ini sebelum ini?">
