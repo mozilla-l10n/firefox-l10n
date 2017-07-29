@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Puesto web:">
 <!ENTITY  securityView.identity.verifier "Verificau por:">
 
+
 <!ENTITY  securityView.privacy.header                   "Privacidat y historia">
 <!ENTITY  securityView.privacy.history                  "He visitau iste puesto web antes de hue?">
 <!ENTITY  securityView.privacy.cookies                  "Iste puesto web almagazena información (cookies) en o mío ordinador?">
