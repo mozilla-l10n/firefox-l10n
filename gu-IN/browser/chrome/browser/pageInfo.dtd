@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "માલિક: ">
 <!ENTITY  securityView.identity.domain   "વેબ સાઈટ: ">
 <!ENTITY  securityView.identity.verifier "ચકાસનાર: ">
+<!ENTITY  securityView.identity.validity "ના રોજ સમાપ્ત થયેલ:">
 
 <!ENTITY  securityView.privacy.header                   "ખાનગીપણું &amp; ઇતિહાસ">
 <!ENTITY  securityView.privacy.history                  "શું મેં આ વેબસાઈટની આજે પહેલાં મુલાકાત લીધી છે?">
