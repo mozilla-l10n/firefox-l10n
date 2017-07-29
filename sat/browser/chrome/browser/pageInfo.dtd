@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.domain   "वेब साइट:">
 <!ENTITY  securityView.identity.verifier "दाराय ते ञेल मिला़व:">
 
+
 <!ENTITY  securityView.privacy.header                   "निजेर हिता़ल (&amp; H) ">
 <!ENTITY  securityView.privacy.history                  "चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?">
 <!ENTITY  securityView.privacy.cookies                  "चेत् नोवा वेबसाइट इञाक् काम्प्युटार रे ला़य सोदोर  (कुकी को ) जोगावेत् आ ?">
