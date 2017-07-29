@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Ситим-сир:">
 <!ENTITY  securityView.identity.verifier "Бигэргэтилиннэ:">
 
+
 <!ENTITY  securityView.privacy.history                  "Урут бу ситим-сиргэ сылдьыбыттаахпын дуо?">
 <!ENTITY  securityView.privacy.cookies                  "Бу ситим-сир мин туспунан информацияны (куукалары) көмпүүтэрбэр уга сытар дуо?">
 <!ENTITY  securityView.privacy.viewCookies              "Куукалары көрөргө">
