@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Веб-сайт:">
 <!ENTITY  securityView.identity.verifier "Растаған:">
 
+
 <!ENTITY  securityView.privacy.header                   "Жекешелік пен Тарихы">
 <!ENTITY  securityView.privacy.history                  "Бұл сайтта бүгінге дейін болдым ба?">
 <!ENTITY  securityView.privacy.cookies                  "Осы сайт компьютерімде ақпаратты (cookies) сақтап отыр ма?">
