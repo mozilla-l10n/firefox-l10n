@@ -71,6 +71,7 @@
 <!ENTITY  securityView.identity.domain   "ویب سايٹ :">
 <!ENTITY  securityView.identity.verifier "مولوم كرنئ آمُت :">
 
+
 <!ENTITY  securityView.privacy.history                  "م۪ی چھا وچھمَژ یئ ویب سایٹ  اَز برونٹھ تئ ؟">
 <!ENTITY  securityView.privacy.cookies                  "یئ ویب سایٹ چھا تھاوان جمع مولومات (كوكیز) مینِن كمپیوٹرس پ۪یٹھ؟">
 <!ENTITY  securityView.privacy.viewCookies              "كوكیز وچھیو">

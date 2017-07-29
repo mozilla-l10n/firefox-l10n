@@ -115,10 +115,10 @@ available. -->
 
 <!ENTITY enableOCSP.label                "کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز">
 <!ENTITY enableOCSP.accesskey            "ک">
-<!ENTITY viewCerts.label                 "سرٹیفیٹ  وچھیو">
-<!ENTITY viewCerts.accesskey             "س">
-<!ENTITY viewSecurityDevices.label       "حفئظتی  عالئ&amp;">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
 
 
 
