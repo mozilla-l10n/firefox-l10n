@@ -120,10 +120,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "سوال OCSP ریسپانڈر سرور کی موجودہ سرٹیفکیٹ کی تصدیق کرتی ہے">
 <!ENTITY enableOCSP.accesskey            "س">
-<!ENTITY viewCerts.label                 "تصدیق نامہ دیکھیں">
-<!ENTITY viewCerts.accesskey             "ت">
-<!ENTITY viewSecurityDevices.label       "سلامتی آلات">
-<!ENTITY viewSecurityDevices.accesskey   "آ">
+
+
+
+
 
 <!ENTITY performance.label               "کارکردگی">
 

@@ -90,7 +90,6 @@
 <!ENTITY details_location "محل وقوع">
 <!ENTITY details_manifestURL "اپلی کیشن آئی ڈی">
 <!ENTITY details_removeProject_button "پراجیکٹ ہٹائیں">
-<!ENTITY details_showPrepackageLog_button "پہلے سے پیکیج شدپ لاگ دکھائیں">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "نیا اپلی کیشن">

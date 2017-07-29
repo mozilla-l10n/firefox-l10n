@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
-<!ENTITY changeBlockList.label          "بلاک فہرست تبدیل کریں">
-<!ENTITY changeBlockList.accesskey      "ت">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "سابقات">
-<!ENTITY  locbar.history.accesskey      "س">
+
+
 <!ENTITY  locbar.bookmarks.label        "نشانیاں">
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
 <!ENTITY  locbar.openpage.label         "ٹیب کھولیے">
