@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Vefsetur:">
 <!ENTITY  securityView.identity.verifier "Staðfest af:">
 
+
 <!ENTITY  securityView.privacy.header                   "Friðhelgi og ferill">
 <!ENTITY  securityView.privacy.history                  "Hef ég skoðað þetta vefsvæði áður?">
 <!ENTITY  securityView.privacy.cookies                  "Geymir þetta vefsvæði upplýsingar (smákökur) á tölvunni minni?">

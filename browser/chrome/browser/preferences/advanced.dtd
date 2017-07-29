@@ -124,10 +124,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "S">
 <!ENTITY enableOCSP.label                "Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild">
 <!ENTITY enableOCSP.accesskey            "S">
-<!ENTITY viewCerts.label                 "Skoða skilríki">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Öryggistæki">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+
+
 
 <!ENTITY performance.label               "Afköst">
 <!ENTITY useRecommendedPerformanceSettings2.label "Nota afkastastillingar sem er mælt með">

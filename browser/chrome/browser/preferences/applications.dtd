@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Forrit">
-<!ENTITY  applications.description "Veldu hvernig &brandShortName; meðhöndlar skrár sem þú halar niður frá vefnum eða forritum þegar þú ert að vafra.">
+
 
 <!ENTITY  typeColumn.label        "Efnistegund">
 <!ENTITY  typeColumn.accesskey    "t">

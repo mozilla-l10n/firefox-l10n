@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Nota vörn gegn gagnasöfnun í huliðsgluggum til að loka á þekkta gagnasafnara">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Fræðast meira">
-<!ENTITY changeBlockList.label          "Breyta lokunarlista">
-<!ENTITY changeBlockList.accesskey      "B">
+
+
 
 <!ENTITY  doNotTrack.description        "Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér">
 <!ENTITY  doNotTrack.learnMore.label    "Fræðast meira">
@@ -34,8 +34,8 @@
 <!ENTITY  permissions.label             "Heimildir">
 
 <!ENTITY  addressBar.suggest.label      "Þegar ég nota staðsetningarslá, stinga upp á:">
-<!ENTITY  locbar.history.label          "Ferill">
-<!ENTITY  locbar.history.accesskey      "F">
+
+
 <!ENTITY  locbar.bookmarks.label        "Bókamerki">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Opnir flipar">
