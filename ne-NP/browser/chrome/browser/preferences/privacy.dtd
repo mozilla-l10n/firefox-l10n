@@ -19,8 +19,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
-<!ENTITY changeBlockList.label          "ब्लक सूची परिवर्तन गर्नुहोस्">
-<!ENTITY changeBlockList.accesskey      "C">
+
+
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-<!ENTITY  locbar.history.label          "इतिहास">
-<!ENTITY  locbar.history.accesskey      "H">
+
+
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">

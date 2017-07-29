@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Web site:">
 <!ENTITY  securityView.identity.verifier "रुजू गरिएको:">
 
+
 <!ENTITY  securityView.privacy.header                   "गोपनीयता तथा इतिहास">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
 <!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
