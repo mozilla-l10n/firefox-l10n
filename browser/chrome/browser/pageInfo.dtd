@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Websedło:">
 <!ENTITY  securityView.identity.verifier "Pśespytany wót:">
 
+
 <!ENTITY  securityView.privacy.header                   "Priwatnosć a historija">
 <!ENTITY  securityView.privacy.history                  "Som se k toś tomu websedłoju južo do togo woglědał?">
 <!ENTITY  securityView.privacy.cookies                  "Składujo toś to websedło informacije (cookieje) na mójom licadle?">
