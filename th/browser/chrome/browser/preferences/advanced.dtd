@@ -124,10 +124,8 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "ดูใบรับรอง">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "อุปกรณ์ความปลอดภัย">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.label                "ดูใบรับรอง…">
+<!ENTITY viewSecurityDevices2.label      "อุปกรณ์ความปลอดภัย…">
 
 <!ENTITY performance.label               "ประสิทธิภาพ">
 <!ENTITY useRecommendedPerformanceSettings2.label
