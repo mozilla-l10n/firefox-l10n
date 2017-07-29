@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey   "с">
+<!ENTITY dateTimeFormatting.label      "Формат даты и времени">
 <!ENTITY allowHWAccel.label            "По возможности использовать аппаратное ускорение">
 <!ENTITY allowHWAccel.accesskey        "м">
 <!ENTITY storeType.label               "Тип хранилища сообщений для новых учётных записей:">
