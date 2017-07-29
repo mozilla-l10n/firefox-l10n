@@ -5,13 +5,13 @@
 <!ENTITY startup.label             "გაშვება">
 
 <!ENTITY startupPage2.label        "როცა &brandShortName; გაეშვება">
-<!ENTITY startupPage2.accesskey    "გ">
+<!ENTITY startupPage2.accesskey    "ე">
 <!ENTITY startupUserHomePage.label "მთავარი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
 <!ENTITY startupPrevSession.label  "ბოლოს დახურული ფანჯრებისა და ჩანართების ჩვენება">
 
 <!ENTITY homepage2.label           "მთავარი გვერდი">
-<!ENTITY homepage2.accesskey       "ს">
+<!ENTITY homepage2.accesskey       "გ">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "მ">
 <!ENTITY useMultiple.label         "მიმდინარე გვერდების გამოყენება">
