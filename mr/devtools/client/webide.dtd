@@ -90,7 +90,6 @@
 <!ENTITY details_location "स्थान">
 <!ENTITY details_manifestURL "ॲप ID">
 <!ENTITY details_removeProject_button "प्रकल्प काढून टाका">
-<!ENTITY details_showPrepackageLog_button "प्रिपॅकेज नोंदी दाखवा">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "नवीन ॲप">
