@@ -51,5 +51,8 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Lectures">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Écritures">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Ouvertures d’entrées">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Petite moyenne">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Grande moyenne">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Grand écart-type">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "Nombre de fois où le cache est lent">
 <!ENTITY aboutNetworking.rcwnCacheNotSlow      "Nombre de fois où le cache est rapide">
