@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Dajće mi tu won!">
 <!ENTITY safeb.palm.decline.label "Tute warnowanje ignorować">
 <!ENTITY safeb.palm.reportPage.label "Čehodla je so tuta strona zablokowała?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "wot <a id='advisory_provider'/> poradźowacy">
 
 <!ENTITY safeb.blocked.malwarePage.title "Nadpadowa strona zdźělena!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
