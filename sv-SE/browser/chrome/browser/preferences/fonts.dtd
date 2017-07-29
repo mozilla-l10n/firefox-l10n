@@ -11,8 +11,8 @@
 <!ENTITY  sizeProportional.accesskey              "t">
 <!ENTITY  sizeMonospace.accesskey                 "o">
 
-<!ENTITY  proportional.label                      "Variabel bredd:">
-<!ENTITY  proportional.accesskey                  "V">
+<!ENTITY  proportional.label                      "Proportionell:">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
