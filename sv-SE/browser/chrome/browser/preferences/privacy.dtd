@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Använd spårningsskydd i Privat surfning för att blockera kända trackers">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lär dig mer">
-<!ENTITY changeBlockList.label          "Ändra blockeringslista">
-<!ENTITY changeBlockList.accesskey      "n">
+<!ENTITY changeBlockList2.label               "Ändra blockeringslista…">
+<!ENTITY changeBlockList2.accesskey           "n">
 
 <!ENTITY  doNotTrack.description        "Skicka webbplatser en “Spåra inte”-signal att du inte vill bli spårad">
 <!ENTITY  doNotTrack.learnMore.label    "Läs mer">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adressfält">
 <!ENTITY  addressBar.suggest.label      "När du använder adressfältet, föreslå">
-<!ENTITY  locbar.history.label          "Historik">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.label         "Webbläsarhistorik">
+<!ENTITY  locbar.history2.accesskey     "W">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Öppna flikar">
