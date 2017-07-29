@@ -74,6 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Site web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
 
+
 <!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am vizitat acest site web înainte de azi?">
 <!ENTITY  securityView.privacy.cookies                  "Acest site web stochează informații (cookie-uri) pe calculatorul meu?">
