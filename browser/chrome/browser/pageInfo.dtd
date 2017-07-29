@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "المالك:">
 <!ENTITY  securityView.identity.domain   "موقع الوِب:">
 <!ENTITY  securityView.identity.verifier "تحقق منها:">
-
+<!ENTITY  securityView.identity.validity "تنقضي في:">
 
 <!ENTITY  securityView.privacy.header                   "الخصوصية و التأريخ">
 <!ENTITY  securityView.privacy.history                  "هل زُرتُ هذا الموقع من قبل؟">
