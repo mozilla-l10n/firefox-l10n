@@ -148,6 +148,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "Groupe">
 <!ENTITY aboutSupport.mediaDeviceVendor "Fabricant">
 <!ENTITY aboutSupport.mediaDeviceState "État">
+<!ENTITY aboutSupport.mediaDevicePreferred "Préféré">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Canaux">
 <!ENTITY aboutSupport.mediaDeviceRate "Fréquence">
