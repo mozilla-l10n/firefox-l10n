@@ -131,7 +131,9 @@ available. -->
 <!ENTITY enableOCSP.label                "Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil">
 <!ENTITY enableOCSP.accesskey            "U">
 <!ENTITY viewCerts2.label                "Preglej digitalna potrdila …">
+<!ENTITY viewCerts2.accesskey            "D">
 <!ENTITY viewSecurityDevices2.label      "Varnostne naprave …">
+<!ENTITY viewSecurityDevices2.accesskey  "V">
 
 <!ENTITY performance.label               "Učinkovitost">
 <!ENTITY useRecommendedPerformanceSettings2.label

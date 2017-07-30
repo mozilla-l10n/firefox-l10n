@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Ponudnik">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas zadnje posodobitve">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas naslednje posodobitve">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Čas umika">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stanje zadnje posodobitve">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Posodobi">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
