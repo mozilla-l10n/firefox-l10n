@@ -76,7 +76,7 @@
 <!ENTITY  securityView.identity.validity "Λήγει στις:">
 
 <!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; ιστορικό">
-<!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή τη σελίδα ξανά σήμερα;">
+<!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή τη σελίδα ποτέ μέχρι σήμερα;">
 <!ENTITY  securityView.privacy.cookies                  "Αποθηκεύει αυτή η ιστοσελίδα πληροφορίες (cookies) στον υπολογιστή μου;">
 <!ENTITY  securityView.privacy.viewCookies              "Προβολή cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "π">
