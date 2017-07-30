@@ -142,7 +142,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogočene možnosti zaščite pred sesutjem">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobidenja">
 
+<!ENTITY aboutSupport.mediaTitle "Predstavnost">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Izhodne naprave">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Vhodne naprave">
 <!ENTITY aboutSupport.mediaDeviceName "Ime">
+<!ENTITY aboutSupport.mediaDeviceGroup "Skupina">
+<!ENTITY aboutSupport.mediaDeviceVendor "Ponudnik">
+<!ENTITY aboutSupport.mediaDeviceState "Stanje">
+<!ENTITY aboutSupport.mediaDevicePreferred "Prednostno">
+<!ENTITY aboutSupport.mediaDeviceFormat "Oblika">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanali">
+<!ENTITY aboutSupport.mediaDeviceRate "Hitrost">
 <!ENTITY aboutSupport.mediaDeviceLatency "Zakasnitev">
