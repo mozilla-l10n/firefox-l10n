@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "เจ้าของ:">
 <!ENTITY  securityView.identity.domain   "เว็บไซต์:">
 <!ENTITY  securityView.identity.verifier "ยืนยันโดย:">
+<!ENTITY  securityView.identity.validity "หมดอายุเมื่อ:">
 
 <!ENTITY  securityView.privacy.header                   "ความเป็นส่วนตัวและประวัติ">
 <!ENTITY  securityView.privacy.history                  "ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?">
