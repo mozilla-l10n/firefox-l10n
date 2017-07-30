@@ -22,6 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Χρήση της προστασίας από παρακολούθηση στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών">
 <!ENTITY trackingProtectionPBM6.accesskey     "δ">
 <!ENTITY trackingProtectionPBMLearnMore.label "Μάθετε περισσότερα">
+<!ENTITY changeBlockList2.label               "Αλλαγή λίστας αποκλεισμού…">
+<!ENTITY changeBlockList2.accesskey           "λ">
 
 <!ENTITY  doNotTrack.description        "Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες">
 <!ENTITY  doNotTrack.learnMore.label    "Μάθετε περισσότερα">
@@ -34,6 +36,7 @@
 <!ENTITY  addressBar.label              "Γραμμή διευθύνσεων">
 <!ENTITY  addressBar.suggest.label      "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση">
 <!ENTITY  locbar.history2.label         "Ιστορικό περιήγησης">
+<!ENTITY  locbar.history2.accesskey     "Ι">
 <!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
 <!ENTITY  locbar.bookmarks.accesskey    "δ">
 <!ENTITY  locbar.openpage.label         "Ανοικτών καρτελών">
