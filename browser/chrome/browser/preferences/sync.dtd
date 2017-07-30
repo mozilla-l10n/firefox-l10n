@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Dodatke">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "Naslove">
+<!ENTITY engine.addresses.accesskey "s">
+<!ENTITY engine.creditcards.label   "Kreditne kartice">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Ime naprave">

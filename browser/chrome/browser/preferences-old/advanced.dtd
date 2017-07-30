@@ -31,6 +31,7 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Pošiljanje podatkov je onemogočeno za to nastavitev graditve">
 
 <!ENTITY healthReportDesc.label          "Pomaga vam razumeti delovanje vašega brskalnika in pošilja podatke o zdravstvenem stanju vašega brskalnika organizaciji &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Omogoči zdravniško spričevalo za &brandShortName;">

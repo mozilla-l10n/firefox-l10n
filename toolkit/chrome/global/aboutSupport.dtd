@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Večprocesna okna">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesi spletne vsebine">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ključ Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ključ lokacijskih storitev Mozilla">
 
@@ -108,6 +110,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Dostopnost">
 <!ENTITY aboutSupport.a11yActivated "Vključeno">
 <!ENTITY aboutSupport.a11yForceDisabled "Prepreči dostopnost">
+<!ENTITY aboutSupport.a11yHandlerUsed "Uporabljen upravljalec dostopnosti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Različice knjižnic">
 
@@ -138,3 +141,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Dnevnik odločitev">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogočene možnosti zaščite pred sesutjem">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobidenja">
+
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Izhodne naprave">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Vhodne naprave">
+<!ENTITY aboutSupport.mediaDeviceName "Ime">
+<!ENTITY aboutSupport.mediaDeviceLatency "Zakasnitev">
