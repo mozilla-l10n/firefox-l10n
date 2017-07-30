@@ -116,7 +116,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; 个标签页">
 <!ENTITY new_tab_opened "已打开新标签页">
-<!ENTITY new_private_tab_opened "已新建隐私浏览标签页">
+<!ENTITY new_private_tab_opened "已新建隐私标签页">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -476,9 +476,9 @@
 <!ENTITY page "页面">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "新建标签页">
-<!ENTITY new_private_tab "新建隐私浏览标签页">
+<!ENTITY new_private_tab "新建隐私标签页">
 <!ENTITY close_all_tabs "关闭所有标签页">
-<!ENTITY close_private_tabs "关闭隐私浏览标签页">
+<!ENTITY close_private_tabs "关闭隐私标签页">
 <!ENTITY tabs_normal "标签页">
 <!ENTITY tabs_private "隐私">
 <!ENTITY set_image_fail "无法设置图像">
@@ -500,7 +500,7 @@
 <!ENTITY media_stop "停止">
 
 <!ENTITY contextmenu_open_new_tab "在新标签页中打开">
-<!ENTITY contextmenu_open_private_tab "在隐私浏览标签页中打开">
+<!ENTITY contextmenu_open_private_tab "在隐私标签页中打开">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_set_as_homepage "设为主页">
@@ -604,7 +604,7 @@
 <!ENTITY home_most_recent_empty "您最近常访问的网站将出现在这里。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "悄悄告诉你：在&formatS1;隐私浏览标签页&formatS2; 中浏览网页不会留下任何痕迹！">
+<!ENTITY home_most_recent_emptyhint2 "悄悄告诉你：在&formatS1;隐私标签页&formatS2; 中浏览网页不会留下任何痕迹！">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
