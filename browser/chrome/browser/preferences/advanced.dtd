@@ -29,11 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "El reporte de datos está deshabilitado para esta configuración de compilación">
 
+<!ENTITY enableHealthReport1.label       "Permitir a &brandShortName; enviar automáticamente datos técnicos y de interacción a Mozilla">
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Aprender más">
 
+<!ENTITY dataCollection.label            "Recolección y uso de datos de &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Nos esforzamos por proveerte con opciones y recolectar solo lo que necesitamos para proveer y mejorar &brandShortName; para todos. Siempre solicitamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Aviso de privacidad">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir a &brandShortName; enviar reportes de fallos a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Aprender más">
 
@@ -86,9 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Mantener &brandShortName; a la fecha para un mejor rendimiento, estabilidad y seguridad.">
 <!ENTITY updateApplication.version.pre   "Versión ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;">
+<!ENTITY updateAuto3.label               "Instalar actualizaciones automáticamente (recomendado)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Buscar actualizaciones pero permitirte elegir cuando instalarlas">
 <!ENTITY updateCheckChoose2.accesskey    "C">
