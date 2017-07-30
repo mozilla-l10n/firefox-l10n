@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
+<!ENTITY dateTimeFormatting.label      "Oblika datuma in časa">
 <!ENTITY allowHWAccel.label            "Uporabi strojno pospeševanje, kadar je na voljo">
 <!ENTITY allowHWAccel.accesskey        "n">
 <!ENTITY storeType.label               "Vrsta shrambe sporočil za nove račune:">
