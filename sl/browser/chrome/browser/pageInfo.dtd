@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Lastnik:">
 <!ENTITY  securityView.identity.domain   "Spletna stran:">
 <!ENTITY  securityView.identity.verifier "Preveril:">
+<!ENTITY  securityView.identity.validity "Poteče:">
 
 <!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
 <!ENTITY  securityView.privacy.history                  "Ali sem to stran obiskal že kdaj pred današnjim dnem?">

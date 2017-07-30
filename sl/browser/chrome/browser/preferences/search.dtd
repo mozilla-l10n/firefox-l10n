@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Privzet iskalnik">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Izberite privzet iskalnik. &brandShortName; ga uporablja v vrstici z naslovom, v vrstici za iskanje in na začetnih straneh.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.">
 
 <!ENTITY provideSearchSuggestions.label        "Predlogi iskanja">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Prikaži predloge iskanja med zadetki vrstice z naslovom">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Prikaži predloge iskanja v rezultatih naslovne vrstice">
+<!ENTITY showURLBarSuggestions2.accesskey       "P">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste &brandShortName; nastavili tako, da si nikoli ne zapomni zgodovine.">
 
 <!ENTITY oneClickSearchEngines.label           "Iskalniki, dostopni z enim klikom">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Vrstica za iskanje omogoča dostop tudi do nekaterih drugih iskalnikov. Izberite, katere želite prikazati.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Izberite nadomestne iskalnike, ki se pojavijo pod vrstico z naslovom in vrstico za iskanje, ko začnete vnašati ključno besedo.">
 
 <!ENTITY engineNameColumn.label                "Iskalnik">
 <!ENTITY engineKeywordColumn.label             "Ključna beseda">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Odstrani">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines2.label           "Dodaj več iskalnikov">
+<!ENTITY findMoreSearchEngines.label           "Najdi več iskalnikov">

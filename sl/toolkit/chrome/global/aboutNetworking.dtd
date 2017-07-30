@@ -46,3 +46,12 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Število zmag predpomnilnika">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Število zmag omrežja">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Skupno število zahtevkov omrežja">
+<!ENTITY aboutNetworking.rcwnOperation         "Opravilo predpomnilnika">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Odpiranje">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Branje">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Pisanje">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Kratko povprečje">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Dolgo povprečje">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Dolg standardni odklon">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Število počasnih delovanj diska">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Število hitrih delovanj diska">

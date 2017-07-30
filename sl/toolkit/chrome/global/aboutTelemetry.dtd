@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrija">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Spremeni
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Nalaganje podatkov FHR je <span>omogočeno</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Nalaganje podatkov FHR je <span>onemogočeno</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Razširjenjo spremljanje telemetrije je <span>omogočeno</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Razširjenjo spremljanje telemetrije je <span>onemogočeno</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Podatkovni vir pinga:
 ">
@@ -35,10 +15,6 @@ Trenutni podatki pinga
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Arhivirani podatki pinga
 ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Prikaz podatkov pinga:">
-
-<!ENTITY aboutTelemetry.structured "Strukturirano">
 
 <!ENTITY aboutTelemetry.raw "Neobdelan JSON">
 
@@ -58,14 +34,28 @@ Izberite ping:
 Starejši ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "Surovi podatki pinga ...">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Teden
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Vrsta pinga
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Danes
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Včeraj
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Starejše
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -125,18 +115,6 @@ Ping
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Podatki o seji">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrami dodatkov
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Kliknite za preklop odseka
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Ni zbranih podatkov)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   Opomba: Vključeno je razhroščevanje počasnega SQL. Spodaj se lahko pojavijo celotni nizi SQL, vendar ne bodo poslani telemetriji.
 ">
@@ -153,7 +131,3 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Koristna vsebina">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Surova koristna vsebina
-">

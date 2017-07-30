@@ -27,14 +27,23 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Pošiljanje podatkov je onemogočeno za to nastavitev graditve">
 
+<!ENTITY enableHealthReport1.label       "&brandShortName;u dovoli samodejno pošiljanje tehničnih podatkov in podatkov o uporabi Mozilli">
+<!ENTITY enableHealthReport1.accesskey   "t">
 <!ENTITY healthReportLearnMore.label     "Več o tem">
 
+<!ENTITY dataCollection.label            "Zbiranje in uporaba podatkov &brandShortName;a">
+<!ENTITY dataCollectionDesc.label        "Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave &brandShortName;a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljene.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Obvestilo o zasebnosti">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Dovoli &brandShortName;u pošiljanje poročil o sesutjih Mozilli">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "p">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
 
 <!ENTITY networkTab.label                "Omrežje">
 
+<!ENTITY networkProxy.label              "Omrežni posrednik">
 
 <!ENTITY connectionDesc.label            "Določite, kako naj se &brandShortName; poveže na internet.">
 <!ENTITY connectionSettings.label        "Nastavitve …">
@@ -81,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Ohranite &brandShortName; posodobljen za najboljšo zmogljivost, stabilnost in varnost.">
 <!ENTITY updateApplication.version.pre   "Različica ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; naj">
-<!ENTITY updateAuto2.label               "Samodejno namešča posodobitve (priporočeno za večjo varnost)">
-<!ENTITY updateAuto2.accesskey           "p">
+<!ENTITY updateAuto3.label               "Samodejno nameščaj posodobitve (priporočeno)">
+<!ENTITY updateAuto3.accesskey           "S">
 <!ENTITY updateCheckChoose2.label        "Preverja posodobitve, vendar vam prepusti odločitev o nameščanju">
 <!ENTITY updateCheckChoose2.accesskey    "o">
 <!ENTITY updateManual2.label             "Nikoli ne preverja posodobitev (ni priporočeno)">
@@ -119,10 +130,8 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "k">
 <!ENTITY enableOCSP.label                "Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil">
 <!ENTITY enableOCSP.accesskey            "U">
-<!ENTITY viewCerts.label                 "Preglej digitalna potrdila">
-<!ENTITY viewCerts.accesskey             "e">
-<!ENTITY viewSecurityDevices.label       "Varnostne naprave">
-<!ENTITY viewSecurityDevices.accesskey   "a">
+<!ENTITY viewCerts2.label                "Preglej digitalna potrdila …">
+<!ENTITY viewSecurityDevices2.label      "Varnostne naprave …">
 
 <!ENTITY performance.label               "Učinkovitost">
 <!ENTITY useRecommendedPerformanceSettings2.label
