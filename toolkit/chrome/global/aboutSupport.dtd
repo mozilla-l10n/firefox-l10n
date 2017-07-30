@@ -142,8 +142,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">
 
+<!ENTITY aboutSupport.mediaTitle "Πολυμέσα">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Συσκευές εξόδου">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Συσκευές εισόδου">
 <!ENTITY aboutSupport.mediaDeviceName "Όνομα">
 <!ENTITY aboutSupport.mediaDeviceGroup "Ομάδα">
+<!ENTITY aboutSupport.mediaDeviceVendor "Κατασκευαστής">
 <!ENTITY aboutSupport.mediaDeviceState "Κατάσταση">
+<!ENTITY aboutSupport.mediaDevicePreferred "Προτίμηση">
+<!ENTITY aboutSupport.mediaDeviceFormat "Τύπος">
 <!ENTITY aboutSupport.mediaDeviceChannels "Κανάλια">
 <!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
+<!ENTITY aboutSupport.mediaDeviceLatency "Καθυστέρηση">
