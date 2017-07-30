@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Usar protección de rastreo en navegación privada para bloquear los rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">
-<!ENTITY changeBlockList.label          "Cambiar lista de bloqueo">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList2.label               "Cambiar lista de bloqueo…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        'Enviar a los sitios web una señal "No rastrear" para que sepan que no quieres ser rastreado'>
 <!ENTITY  doNotTrack.learnMore.label    "Aprender más">
@@ -33,11 +33,10 @@
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
 
-<!ENTITY  locationBar.label             "Barra de direcciones">
-
-<!ENTITY  locbar.suggest2.label         "Al usar la barra de ubicación, sugerir">
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  addressBar.label              "Barra de direcciones">
+<!ENTITY  addressBar.suggest.label      "Al usar la barra de direcciones, sugerir">
+<!ENTITY  locbar.history2.label         "Historial de navegación">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Pestañas abiertas">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Ajustes…">
 <!ENTITY  clearOnCloseSettings.accesskey "g">
 
-<!ENTITY  browserContainersHeader.label         "Pestañas contenedoras">
 <!ENTITY  browserContainersLearnMore.label      "Aprender más">
 <!ENTITY  browserContainersEnabled.label        "Activar pestañas contenedoras">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
