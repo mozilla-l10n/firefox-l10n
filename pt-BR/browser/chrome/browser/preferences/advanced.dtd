@@ -93,8 +93,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versão ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir que o &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalar atualizações automaticamente (recomendado para melhoria da segurança)">
-<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Verificar atualizações, mas deixa você optar por instalá-las">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Nunca verificar se há atualizações (não recomendado)">
@@ -128,10 +126,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "a">
 <!ENTITY enableOCSP.label                "Consultar servidores OCSP para confirmar a validade atual dos certificados">
 <!ENTITY enableOCSP.accesskey            "o">
-<!ENTITY viewCerts.label                 "Ver certificados">
-<!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.label                "Ver Certificados…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Dispositivos de Segurança…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Desempenho">
 <!ENTITY useRecommendedPerformanceSettings2.label
