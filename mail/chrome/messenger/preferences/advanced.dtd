@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY dateTimeFormatting.label      "Format de data i hora">
 <!ENTITY allowHWAccel.label            "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey        "r">
 <!ENTITY storeType.label               "Tipus d'emmagatzematge de missatges per als comptes nous:">
