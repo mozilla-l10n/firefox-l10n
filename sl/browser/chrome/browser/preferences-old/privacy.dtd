@@ -28,7 +28,7 @@
 
 <!ENTITY  history.label                 "Zgodovina">
 
-<!ENTITY  locationBar.label             "Vrstica z naslovom">
+<!ENTITY  locationBar.label             "Naslovna vrstica">
 
 <!ENTITY  locbar.suggest.label          "Pri uporabi vrstice z naslovom predlagaj:">
 <!ENTITY  locbar.history.label          "Zgodovino">
