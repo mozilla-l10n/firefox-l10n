@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "A">
 <!ENTITY viewCustomizeToolbar.label       "Pertsonalizatu…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Pertsonalizatu tresna-barra…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historia">
 <!ENTITY historyMenu.accesskey "H">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
-
+<!ENTITY appMenuHistory.recentHistory.label "Azken historia">
 <!ENTITY appMenuHelp.label "Laguntza">
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 

@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "​">
 <!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
-
-
+<!ENTITY updateAuto3.label               "Instalatu eguneraketak automatikoki (gomendatua)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez">
 <!ENTITY updateCheckChoose2.accesskey    "b">
 <!ENTITY updateManual2.label             "Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua)">
@@ -128,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
 <!ENTITY enableOCSP.accesskey            "G">
-
-
-
-
+<!ENTITY viewCerts2.label                "Ikusi ziurtagiriak…">
+<!ENTITY viewCerts2.accesskey            "k">
+<!ENTITY viewSecurityDevices2.label      "Segurtasun-gailuak…">
+<!ENTITY viewSecurityDevices2.accesskey  "S">
 
 <!ENTITY performance.label               "Errendimendua">
 <!ENTITY useRecommendedPerformanceSettings2.label "Erabili gomendatutako errendimendu-ezarpenak">
