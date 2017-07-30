@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "소유자: ">
 <!ENTITY  securityView.identity.domain   "사이트 정보: ">
 <!ENTITY  securityView.identity.verifier "신원 확인자: ">
+<!ENTITY  securityView.identity.validity "만료일:">
 
 <!ENTITY  securityView.privacy.header                   "개인 정보 및 방문 기록">
 <!ENTITY  securityView.privacy.history                  "이전에 현재 웹 사이트 방문 여부">

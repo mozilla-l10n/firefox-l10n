@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "사용자 지정…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "툴바 개인화…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "이동">
 <!ENTITY historyMenu.accesskey "s">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
+<!ENTITY appMenuHistory.recentHistory.label "최근 기록">
 <!ENTITY appMenuHelp.label "도움말">
 <!ENTITY appMenuHelp.tooltip "도움말 메뉴 열기">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "기기로 전송">
 <!ENTITY sendToDevice.viewTitle "기기로 보내기">
-<!ENTITY sendToDevice.fxaRequired.label "필수항목">
-<!ENTITY sendToDevice.noDevices.label "사용 가능한 장치가 없음">
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
