@@ -22,7 +22,14 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "వారం">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "పింగ్">
+
+<!ENTITY aboutTelemetry.optionGroupToday "నేడు">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "నిన్న">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "పాతవి">
 
 <!ENTITY aboutTelemetry.generalDataSection "సాధారణ దత్తాంశం">
 

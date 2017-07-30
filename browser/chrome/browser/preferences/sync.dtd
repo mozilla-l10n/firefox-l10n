@@ -17,6 +17,7 @@
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
 <!ENTITY engine.addresses.label     "చిరునామాలు">
+<!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "క్రెడిట్ కార్డులు">
 <!ENTITY engine.creditcards.accesskey "C">
 
