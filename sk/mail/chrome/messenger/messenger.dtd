@@ -952,3 +952,4 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Nastavenia ikony aplikácie…">
+<!ENTITY writeNewMessageDock.label      "Nová e-mailová správa">
