@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "పాప్-అప్స్">
+<!ENTITY  permissions.label           "అనుమతులు">
 
 <!ENTITY  blockPopups.label           "పాప్-అప్ విండోలను నిరోధించు">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "గమనింపులు">
 <!ENTITY  notificationsPolicyLearnMore.label   "ఇంకా తెలుసుకోండి">
 <!ENTITY  notificationsPolicyDesc3.label       "ఏయే సైట్లు మీకు గమనింపులను పంపవచ్చో ఎంచుకోండి">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -33,7 +32,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "భాషలు">
+<!ENTITY language2.label              "భాష">
 <!ENTITY chooseLanguage.label         "పేజీలను చూపించడానికి మీ ప్రాధాన్య భాషను ఎంచుకోండి">
 <!ENTITY chooseButton.label           "ఎంచుకోండి…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -53,8 +52,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "అనువాదాల సౌజన్యం">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM కాంటెంట్">
 
-<!ENTITY  playDRMContent.label         "DRM కాంటెంట్ నడుపు">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "ఇంకా తెలుసుకోండి">

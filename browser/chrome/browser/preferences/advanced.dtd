@@ -31,6 +31,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "ఇంకా తెలుసుకోండి">
 
 
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
 <!ENTITY networkTab.label                "నెట్‌వర్క్">
@@ -117,10 +118,9 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ధృవీకరణపత్రాల ప్రస్తుత ప్రమాణతను నిర్థారించుటకు OCSP రెస్పాండర్ సేవికలను ప్రశ్నిస్తుంది">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "ధృవీకరణ పత్రాలను దర్శించు">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "రక్షణ పరికరాలు">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "రక్షణ పరికరాలు…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "పనితనం">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey

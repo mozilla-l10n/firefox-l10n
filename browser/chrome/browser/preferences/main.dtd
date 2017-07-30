@@ -33,8 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "అప్రమేయం చేయి">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ప్రస్తుతం మీ అప్రమేయ విహారిణి">
 <!ENTITY isNotDefault.label               "&brandShortName; ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు">
 
