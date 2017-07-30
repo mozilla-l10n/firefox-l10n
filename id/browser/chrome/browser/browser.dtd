@@ -332,6 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "m">
 <!ENTITY viewCustomizeToolbar.label       "Ubahsuai…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "U">
+<!ENTITY overflowCustomizeToolbar.label       "Ubahsuai Bilah Alat…">
 
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
@@ -352,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Bersihkan Riwayat Terakhir">
 <!ENTITY appMenuHistory.restoreSession.label "Pulihkan Sesi Sebelumnya">
 <!ENTITY appMenuHistory.viewSidebar.label "Tampilkan Bilah Samping Riwayat">
+<!ENTITY appMenuHistory.recentHistory.label "Riwayat Terakhir">
 <!ENTITY appMenuHelp.label "Bantuan">
 <!ENTITY appMenuHelp.tooltip "Buka Menu Bantuan">
 
@@ -988,6 +990,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Kirim ke Peranti">
 <!ENTITY sendToDevice.viewTitle "Kirim ke Peranti">
-<!ENTITY sendToDevice.fxaRequired.label "Diwajibkan">
-<!ENTITY sendToDevice.noDevices.label "Peranti Tidak Tersedia">
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">

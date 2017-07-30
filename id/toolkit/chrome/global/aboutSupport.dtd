@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Jendela Multiproses">
 
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kunci Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kunci Layanan Lokasi Mozilla">
 
@@ -135,3 +136,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Log Keputusan">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Fitur Penjaga Kerusakan yang Dinonaktifkan">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solusi sementara">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaDeviceName "Nama">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grup">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanal">
+<!ENTITY aboutSupport.mediaDeviceRate "Nilai">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latensi">
