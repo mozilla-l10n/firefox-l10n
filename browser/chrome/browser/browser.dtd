@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Open save password message panel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Manage plug-in use">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Change whether you can receive notifications from the site">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Manage sharing your camera and/or microphone with the site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Manage sharing your microphone with the site">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "You have blocked location information for this website.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "You have blocked data storage for this website.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "You have blocked notifications for this website.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 
@@ -245,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ">
 <!ENTITY viewBookmarksSidebar2.label        "ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
+<!ENTITY searchBookmarks.label              "ਬੁੱਕਮਾਰਕ ਲੱਭੋ">
 
 <!ENTITY containersMenu.label "ਕਨਟੇਨਰ">
 
@@ -328,6 +331,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "…ਪਸੰਦ"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "…ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "ਅਤੀਤ">
 <!ENTITY historyMenu.accesskey "s">
@@ -348,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "…ਤਾਜ਼ੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY appMenuHistory.restoreSession.label "ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY appMenuHistory.viewSidebar.label "ਅਤੀਤ ਬਾਹੀ ਨੂੰ ਵੇਖੋ">
+<!ENTITY appMenuHistory.recentHistory.label "ਤਾਜ਼ਾ ਅਤੀਤ">
 <!ENTITY appMenuHelp.label "ਮਦਦ">
 <!ENTITY appMenuHelp.tooltip "ਮਦਦ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ">
 
@@ -396,6 +402,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ਮੇਨੂ ਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "ਟੂਲਬਾਰ  ਚੋਂ ਹਟਾਓ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "ਮੇਨੂ ਤੋਂ ਹਟਾਓ">
@@ -459,6 +467,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ਖੋਜ ਕਿਊਰੀ">
 <!ENTITY contentSearchSubmit.tooltip  "Submit search">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "ਖੋਜੋ">
+<!ENTITY searchIcon.tooltip           "ਖੋਜੋ">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -542,6 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ਇਹ ਫਰੇਮ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "URL ਕਾਪੀ ਕਰੋ">
 <!ENTITY emailPageCmd.label           "…ਲਿੰਕ ਨੂੰ ਈਮੇਲ ਕਰੋ">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "…ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ">
@@ -667,6 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "ਸਾਇਡ-ਬਾਰ ਨੂੰ ਬੰਦ ਕਰੋ">
+<!ENTITY sidebarMenuClose.label         "ਬਾਹੀ ਨੂੰ ਬੰਦ ਕਰੋ">
 
 <!ENTITY quitApplicationCmdWin2.label       "ਬਾਹਰ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -676,6 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "ਬਾਹਰ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; ਤੋਂ ਬਾਹਰ">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "ਬੰਦ ਕਰੋ">  
 <!ENTITY closeCmd.key                   "W">  
@@ -727,6 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ਇਹ ਸਫ਼ਾ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਹੈ।">
 <!ENTITY identity.connectionVerified2 "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਕਨੈਕਟ ਹੈ, ਮਲਕੀਅਤ:">
 <!ENTITY identity.connectionInternal "ਇਹ ਸੁਰੱਖਿਅਤ &brandShortName; ਸਫ਼ਾ ਹੈ।">
+<!ENTITY identity.extensionPage "ਇਸ ਸਫ਼ੇ ਨੂੰ ਇਕਸਟੈਨਸ਼ਨ ਤੋਂ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।">
 <!ENTITY identity.insecureLoginForms2 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦਿੱਤੇ ਲਾਗਇਨਾਂ ਦੀ ਗਲਤ ਵਰਤੋ ਹੋ ਸਕਦੀ ਹੈ।">
 
 <!-- Strings for connection state warnings. -->
@@ -800,6 +817,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "ਸਾਰਿਆਂ ਨੂੰ ਟੈਬਾਂ 'ਚ ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "…ਡਿਵਾਈਸਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "ਸਿੰਕ">
@@ -824,7 +843,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ਹੋਰ ਟੂਲ ਚਾਹੀਦੇ ਹਨ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ਹਜ਼ਾਰਾਂ ਐਡ-ਆਨ ਵਿੱਚੋਂ ਚੁਣੋ">
 <!ENTITY customizeMode.restoreDefaults "ਡਿਫਾਲਟ ਮੁੜ-ਸਟੋਰ">
+<!ENTITY customizeMode.done "ਮੁਕੰਮਲ">
 <!ENTITY customizeMode.titlebar "ਟਾਈਟਲਬਾਰ">
+<!ENTITY customizeMode.toolbars2 "ਟੂਲਬਾਰ">
 <!ENTITY customizeMode.lwthemes "Themes">
 <!ENTITY customizeMode.lwthemes.myThemes "ਮੇਰੇ ਥੀਮ">
 <!ENTITY customizeMode.lwthemes.recommended "ਸਿਫਾਰਸ਼ੀ ਹੈ">
@@ -832,6 +853,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ਹੋਰ ਥੀਮ ਲਵੋ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "ਸਧਾਰਨ">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ਸਧਾਰਨ">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "ਸੰਖਿਪਤ">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "ਸੰਖਿਪਤ">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "ਛੂਹੋ">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "ਟੱਚ ਕਰੋ">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ਟੇਬਲੇਟ ਮੋਡ ਲਈ ਛੂਹੋ ਨੂੰ ਵਰਤੋ">
 
 <!ENTITY getUserMedia.selectCamera.label "ਸਾਂਝਾ ਕਰਨ ਲਈ ਕੈਮਰਾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -914,6 +954,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "…DRM ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "ਗਤੀ ਅਤੇ ਪਰਦੇਦਾਰੀ ਵਿੱਚ ਨਵੇਂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਆਪਣੇ &brandShorterName; ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।">
+<!ENTITY updateAvailable.whatsnew.label "ਵੇਖੋ ਕਿ ਕੀ ਨਵਾਂ ਹੈ।">
+<!ENTITY updateAvailable.header.message "ਨਵਾਂ &brandShorterName; ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ।">
 <!ENTITY updateAvailable.acceptButton.label "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ਹੁਣੇ ਨਹੀਂ">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ">
+
+<!ENTITY updateManual.message "&brandShorterName; ਦੀ ਨਵੀਂ ਕਾਪੀ ਡਾਊਨਲੋਡ ਕਰੋ ਅਤੇ ਅਸੀਂ ਇਸ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ।">
+<!ENTITY updateManual.whatsnew.label "ਵੇਖੋ ਕਿ ਕੀ ਨਵਾਂ ਹੈ।">
+<!ENTITY updateManual.header.message "&brandShorterName; ਨੂੰ ਨਵੇਂ ਵਰਜ਼ਨ ਲਈ ਅੱਪਡੇਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "ਹੁਣੇ ਨਹੀਂ">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; ਦੀ ਨਵੀਂ ਕਾਪੀ ਡਾਊਨਲੋਡ ਕਰੋ">
+
+<!ENTITY updateRestart.message "ਤੁਰੰਤ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShorterName; ਤੁਹਾਡੀਆਂ ਖੋਲ੍ਹੀਆਂ ਹੋਈਆਂ ਟੈਬਾਂ ਅਤੇ ਵਿੰਡੋ ਨੂੰ ਬਹਾਲ ਕਰੇਗਾ।">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; ਅੱਪਡੇਟ ਕਰਨ ਵਾਸਤੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ।">
+<!ENTITY updateRestart.acceptButton.label "ਮੁੜ-ਚਾਲੂ ਅਤੇ ਬਹਾਲ ਕਰੋ">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "ਹੁਣੇ ਨਹੀਂ">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
+
+<!ENTITY pageActionButton.tooltip "ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ">
+
+<!ENTITY sendToDevice.label2 "ਡਿਵਾਈਸ ’ਤੇ ਭੇਜੋ">
+<!ENTITY sendToDevice.viewTitle "ਡਿਵਾਇਸ ’ਤੇ ਭੇਜੋ">
+<!ENTITY sendToDevice.syncNotReady.label "…ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
