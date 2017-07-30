@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Proprietari :">
 <!ENTITY  securityView.identity.domain   "Site web :">
 <!ENTITY  securityView.identity.verifier "Verificat per :">
+<!ENTITY  securityView.identity.validity "S'acabar lo ">
 
 <!ENTITY  securityView.privacy.header                   "Vida privada e istoric">
 <!ENTITY  securityView.privacy.history                  "Ai ja visitat aqueste site ?">
