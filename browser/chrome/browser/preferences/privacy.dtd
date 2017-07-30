@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Usar la Protección de rastreo en la navegación privada para bloquear rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Conocer más">
-<!ENTITY changeBlockList.label          "Cambiar lista de bloqueo">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList2.label               "Cambiar lista de bloqueo…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        'Enviar los sitios web una señal de "No rastrear" que significa que no quiere ser rastreado'>
 <!ENTITY  doNotTrack.learnMore.label    "Conocer más">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Barra de direcciones">
 <!ENTITY  addressBar.suggest.label      "Al usar la barra de direcciones, sugerir">
-<!ENTITY  locbar.history.label          "Historial">
-<!ENTITY  locbar.history.accesskey      "i">
+<!ENTITY  locbar.history2.label         "Historial de navegación">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Abrir pestañas">
