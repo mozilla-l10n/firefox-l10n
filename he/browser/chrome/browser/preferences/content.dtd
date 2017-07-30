@@ -32,6 +32,7 @@
 <!ENTITY  colors.accesskey            "צ">
 
 
+<!ENTITY language2.label              "שפה">
 <!ENTITY chooseLanguage.label         "בחירת השפה המועדפת עליך להצגת דפים">
 <!ENTITY chooseButton.label           "בחירה…">
 <!ENTITY chooseButton.accesskey       "ב">

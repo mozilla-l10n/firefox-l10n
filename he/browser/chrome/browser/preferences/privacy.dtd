@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "שימוש בהגנת מעקב בגלישה פרטית לחסימת רכיבי מעקב ידועים">
 <!ENTITY trackingProtectionPBM6.accesskey     "ט">
 <!ENTITY trackingProtectionPBMLearnMore.label "מידע נוסף">
-<!ENTITY changeBlockList.label          "שינוי רשימת חסימות">
-<!ENTITY changeBlockList.accesskey      "ש">
+<!ENTITY changeBlockList2.label               "שינוי רשימת חסימות…">
+<!ENTITY changeBlockList2.accesskey           "ר">
 
 <!ENTITY  doNotTrack.description        "שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך">
 <!ENTITY  doNotTrack.learnMore.label    "מידע נוסף">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "שורת כתובת">
 <!ENTITY  addressBar.suggest.label      "כאשר משתמשים בסרגל החיפוש, יוצגו המלצות עבור">
-<!ENTITY  locbar.history.label          "היסטוריה">
-<!ENTITY  locbar.history.accesskey      "ה">
+<!ENTITY  locbar.history2.label         "היסטוריית גלישה">
+<!ENTITY  locbar.history2.accesskey     "ג">
 <!ENTITY  locbar.bookmarks.label        "סימניות">
 <!ENTITY  locbar.bookmarks.accesskey    "ס">
 <!ENTITY  locbar.openpage.label         "לשוניות פתוחות">

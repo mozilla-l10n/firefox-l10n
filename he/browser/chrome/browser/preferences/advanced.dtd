@@ -126,10 +126,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "ש">
 <!ENTITY enableOCSP.label                "תשאול שרתי OCSP לאימות תקפות נוכחית של אישורי אבטחה">
 <!ENTITY enableOCSP.accesskey            "ת">
-<!ENTITY viewCerts.label                 "הצגת אישורים">
-<!ENTITY viewCerts.accesskey             "צ">
-<!ENTITY viewSecurityDevices.label       "התקני אבטחה">
-<!ENTITY viewSecurityDevices.accesskey   "ה">
+<!ENTITY viewCerts2.label                "הצגת אישורים…">
+<!ENTITY viewCerts2.accesskey            "א">
+<!ENTITY viewSecurityDevices2.label      "התקני אבטחה…">
+<!ENTITY viewSecurityDevices2.accesskey  "א">
 
 <!ENTITY performance.label               "ביצועים">
 <!ENTITY useRecommendedPerformanceSettings2.label

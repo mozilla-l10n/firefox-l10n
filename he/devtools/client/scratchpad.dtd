@@ -92,6 +92,7 @@
 
 <!ENTITY pprint.label                 "הדפסה יפה">
 <!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "ד">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
