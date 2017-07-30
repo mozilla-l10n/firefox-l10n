@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "书签">
+<!ENTITY  bookmarks_title "移动书签">
 <!ENTITY  history_title "历史记录">
 
 <!ENTITY  switch_to_tab "切换到标签页">
@@ -303,7 +303,7 @@
 <!ENTITY pref_activity_stream_summary "将您的上网足迹可视化并重新构想首页设计，让您能更方便地在 &brandShortName; 中找到想要的信息。">
 
 <!ENTITY tracking_protection_prompt_title "现在有了跟踪保护功能">
-<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，不再需要担心。">
+<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，无需劳心。">
 <!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
 <!ENTITY tracking_protection_prompt_action_button "明白了！">
 
