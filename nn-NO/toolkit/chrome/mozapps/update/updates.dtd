@@ -17,7 +17,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Du kan òg lasta ned den nyaste versjonen av &brandShortName; frå:">
 
 <!ENTITY  unsupported.title               "Systemet er ikkje støtta">
-<!ENTITY  unsupported.label               "&brandShortName; er utdatert, men den nyaste versjonen er ikkje støtta på systemet ditt. Oppgrader systemet, og prøv igjen. Du vil ikkje sjå dette varselet igjen, men du kan ">
+<!ENTITY  unsupported.label               "&brandShortName; er forelda, men den nyaste versjonen er ikkje støtta på systemet ditt. Oppgrader systemet, og prøv igjen. Du vil ikkje sjå dette varselet igjen, men du kan ">
 <!ENTITY  unsupportedLink.label           "lesa meir om det.">
 
 <!ENTITY  clickHere.label                 "Trykk her for meir informasjon om denne oppdateringa">
