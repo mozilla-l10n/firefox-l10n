@@ -129,10 +129,7 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "Ε">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ρ">
-<!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
-<!ENTITY viewCerts.accesskey             "Π">
-<!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">
-<!ENTITY viewSecurityDevices.accesskey   "Σ">
+<!ENTITY viewCerts2.label                "Προβολή Πιστοποιητικών…">
 
 <!ENTITY performance.label               "Επιδόσεις">
 <!ENTITY useRecommendedPerformanceSettings2.label

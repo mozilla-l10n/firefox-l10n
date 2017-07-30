@@ -141,3 +141,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Αρχείο καταγραφής αποφάσεων">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Απενεργοποιημένες λειτουργίες φύλαξης κατάρρευσης">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Λύσεις">
+
+<!ENTITY aboutSupport.mediaDeviceName "Όνομα">
+<!ENTITY aboutSupport.mediaDeviceGroup "Ομάδα">
+<!ENTITY aboutSupport.mediaDeviceState "Κατάσταση">
+<!ENTITY aboutSupport.mediaDeviceChannels "Κανάλια">
+<!ENTITY aboutSupport.mediaDeviceRate "Ρυθμός">
