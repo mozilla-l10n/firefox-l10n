@@ -141,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "의사결정 로그">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "크래시 보호 비활성화 기능">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "회피방법">
+
+<!ENTITY aboutSupport.mediaTitle "미디어">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "출력 기기">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "입력 기기">
+<!ENTITY aboutSupport.mediaDeviceName "이름">
+<!ENTITY aboutSupport.mediaDeviceGroup "그룹">
+<!ENTITY aboutSupport.mediaDeviceVendor "벤더">
+<!ENTITY aboutSupport.mediaDeviceState "주">
+<!ENTITY aboutSupport.mediaDevicePreferred "선호">
+<!ENTITY aboutSupport.mediaDeviceFormat "형식">
+<!ENTITY aboutSupport.mediaDeviceChannels "채널">
+<!ENTITY aboutSupport.mediaDeviceRate "비율">
+<!ENTITY aboutSupport.mediaDeviceLatency "지연">

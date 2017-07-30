@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "&brandShortName;가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지힙니다.">
 <!ENTITY updateApplication.version.pre   "버전 ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; 설치 방법">
-<!ENTITY updateAuto2.label               "업데이트 자동 설치(보안을 위해 권장됨)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "자동으로 업데이트 설치(추천)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "새로운 업데이트를 확인하지만 설치는 수동으로 진행">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "업데이트 확인 안함(권장하지 않음)">
@@ -128,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "OCSP서버를 통해 인증서 유효성 실시간 확인">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "인증서 보기">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "보안 장치">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+<!ENTITY viewCerts2.label                "인증서 보기…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "보안 기기…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "성능">
 <!ENTITY useRecommendedPerformanceSettings2.label
