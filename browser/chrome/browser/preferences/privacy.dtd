@@ -27,6 +27,9 @@
 <!ENTITY  history.label                 "చరిత్ర">
 <!ENTITY  permissions.label             "అనుమతులు">
 
+<!ENTITY  addressBar.label              "చిరునామా పట్టీ">
+<!ENTITY  locbar.history2.label         "విహరణ చరిత్ర">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "తెరిచిన ట్యాబులు">
