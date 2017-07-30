@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Affichage">
 <!ENTITY viewMenu_accesskey "f">
-<!ENTITY viewMenu_toggleEditor_label "Activer/Désactiver l’éditeur">
-<!ENTITY viewMenu_toggleEditor_accesskey "c">
 <!ENTITY viewMenu_zoomin_label "Zoom avant">
 <!ENTITY viewMenu_zoomin_accesskey "v">
 <!ENTITY viewMenu_zoomout_label "Zoom arrière">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -94,7 +90,6 @@
 <!ENTITY details_location "Emplacement">
 <!ENTITY details_manifestURL "Identifiant de l’application">
 <!ENTITY details_removeProject_button "Supprimer le projet">
-<!ENTITY details_showPrepackageLog_button "Afficher le journal pré-empaquetage">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nouvelle application">
@@ -123,21 +118,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurer le dernier projet au démarrage de WebIDE">
 <!ENTITY prefs_options_templatesurl "URL des modèles">
 <!ENTITY prefs_options_templatesurl_tooltip "Index des modèles disponibles">
-<!ENTITY prefs_options_showeditor "Afficher l’éditeur">
-<!ENTITY prefs_options_showeditor_tooltip "Afficher l’éditeur interne">
-<!ENTITY prefs_options_tabsize "Taille des tabulations">
-<!ENTITY prefs_options_expandtab "Tabulations avec des espaces">
-<!ENTITY prefs_options_expandtab_tooltip "Utiliser des espaces à la place du caractère tabulation">
-<!ENTITY prefs_options_detectindentation "Indentation automatique">
-<!ENTITY prefs_options_detectindentation_tooltip "Déduire l’indentation d’après le contenu source">
-<!ENTITY prefs_options_autocomplete "Complètement automatique">
-<!ENTITY prefs_options_autocomplete_tooltip "Activer le complètement automatique du code">
-<!ENTITY prefs_options_autoclosebrackets "Fermer automatiquement les parenthèses et les accolades">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Insérer automatiquement les parenthèses et les accolades fermantes">
-<!ENTITY prefs_options_keybindings "Raccourcis clavier">
-<!ENTITY prefs_options_keybindings_default "Par défaut">
-<!ENTITY prefs_options_autosavefiles "Enregistrements automatiques">
-<!ENTITY prefs_options_autosavefiles_tooltip "Enregistrer automatiquement les fichiers modifiés avant d’exécuter le projet">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informations sur l’environnement">
