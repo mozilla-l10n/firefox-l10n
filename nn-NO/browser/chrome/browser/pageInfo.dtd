@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Eigar: ">
 <!ENTITY  securityView.identity.domain   "Nettstad: ">
 <!ENTITY  securityView.identity.verifier "Stadfesta av: ">
+<!ENTITY  securityView.identity.validity "Går ut:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har eg besøkt denne nettsida tidlegare i dag?">

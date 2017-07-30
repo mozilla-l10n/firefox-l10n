@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "S">
 <!ENTITY enableOCSP.label                "Spør OCSP-tenarar om å stadfeste gyldigheita til sertifikat">
 <!ENTITY enableOCSP.accesskey            "O">
-<!ENTITY viewCerts.label                 "Vis sertifikat">
-<!ENTITY viewCerts.accesskey             "V">
-<!ENTITY viewSecurityDevices.label       "Sikkerheitseiningar">
-<!ENTITY viewSecurityDevices.accesskey   "k">
+<!ENTITY viewCerts2.label                "Vis sertifikat…">
+<!ENTITY viewCerts2.accesskey            "s">
+<!ENTITY viewSecurityDevices2.label      "Tryggingseiningar…">
+<!ENTITY viewSecurityDevices2.accesskey  "T">
 
 <!ENTITY performance.label               "Yting">
 <!ENTITY useRecommendedPerformanceSettings2.label
