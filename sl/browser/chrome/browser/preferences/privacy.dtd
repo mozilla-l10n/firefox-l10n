@@ -23,6 +23,7 @@
 <!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Več o tem">
 <!ENTITY changeBlockList2.label               "Zamenjaj seznam za zavračanje …">
+<!ENTITY changeBlockList2.accesskey           "a">
 
 <!ENTITY  doNotTrack.description        "S signalom “Brez sledenja” sporočaj spletnim stranem, naj vam ne sledijo">
 <!ENTITY  doNotTrack.learnMore.label    "Več o tem">
@@ -35,6 +36,7 @@
 <!ENTITY  addressBar.label              "Naslovna vrstica">
 <!ENTITY  addressBar.suggest.label      "Pri uporabi naslovne vrstice predlagaj">
 <!ENTITY  locbar.history2.label         "Zgodovina brskanja">
+<!ENTITY  locbar.history2.accesskey     "Z">
 <!ENTITY  locbar.bookmarks.label        "Zaznamke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Odprte zavihke">
