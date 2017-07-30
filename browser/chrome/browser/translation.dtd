@@ -35,7 +35,7 @@
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
 <!ENTITY translation.translatedFrom.label       "หน้านี้ถูกแปลจาก">
-<!ENTITY translation.translatedTo.label         "ถึง">
+<!ENTITY translation.translatedTo.label         "เป็น">
 <!ENTITY translation.translatedToSuffix.label   "">
 
 <!ENTITY translation.showOriginal.button        "แสดงต้นฉบับ">
@@ -53,9 +53,9 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "ไม่แปลไซต์นี้เสมอ">
-<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.neverForSite.accesskey "ป">
 <!ENTITY translation.options.preferences.label  "ค่ากำหนดการแปล">
-<!ENTITY translation.options.preferences.accesskey "ก">
+<!ENTITY translation.options.preferences.accesskey "ค">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
