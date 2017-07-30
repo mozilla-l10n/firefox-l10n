@@ -15,14 +15,16 @@
 
 <!ENTITY  paneSearchResults.title       "వెతుకుడు ఫలితాలు">
 <!ENTITY  paneGeneral.title             "సాధారణం">
+<!ENTITY  paneSearch.title              "వెతుకు">
 <!ENTITY  paneFilesApplications.title   "దస్త్రాలు &amp; అనువర్తనాలు">
 <!ENTITY  panePrivacySecurity.title     "అంతరంగికత &amp; భద్రత">
 <!ENTITY  paneContainers.title          "కంటైనర్ ట్యాబులు">
 <!ENTITY  paneUpdates.title             "తాజాకరణలు">
 
+<!ENTITY  languageAndAppearance.label   "భాష మరియు రూపురేఖలు">
+<!ENTITY  filesAndApplications.label    "దస్త్రాలు & అనువర్తనాలు">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox ఖాతా">
 
 <!ENTITY  helpButton2.label        "&brandShortName; తోడ్పాటు">
-
-<!ENTITY  searchInput.label        "వెతుకు">

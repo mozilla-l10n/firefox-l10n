@@ -16,6 +16,9 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "చిరునామాలు">
+<!ENTITY engine.creditcards.label   "క్రెడిట్ కార్డులు">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">

@@ -19,8 +19,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
-<!ENTITY changeBlockList.label          "నిషేధిత జాబితా మార్చు">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "ఇంకా తెలుసుకోండి">
 <!ENTITY  doNotTrack.always.label       "ఎల్లప్పుడూ">
@@ -28,11 +27,6 @@
 <!ENTITY  history.label                 "చరిత్ర">
 <!ENTITY  permissions.label             "అనుమతులు">
 
-<!ENTITY  locationBar.label             "స్థానపు పట్టీ">
-
-<!ENTITY  locbar.suggest2.label         "స్థానపు పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు">
-<!ENTITY  locbar.history.label          "చరిత్ర">
-<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "తెరిచిన ట్యాబులు">
@@ -104,7 +98,6 @@
 <!ENTITY  clearOnCloseSettings.label     "అమరికలు…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "కంటైనర్ ట్యాబులు">
 <!ENTITY  browserContainersLearnMore.label      "ఇంకా తెలుసుకోండి">
 <!ENTITY  browserContainersEnabled.label        "కంటైనర్ ట్యాబులను చేతనం చేయి">
 <!ENTITY  browserContainersEnabled.accesskey    "n">

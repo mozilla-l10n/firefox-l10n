@@ -982,4 +982,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 
+<!ENTITY sendToDevice.label2 "పరికరానికి పంపించు">
 <!ENTITY sendToDevice.viewTitle "పరికరానికి పంపు">
+<!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
