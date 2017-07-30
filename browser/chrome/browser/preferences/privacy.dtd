@@ -22,8 +22,7 @@
 <!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Pelacakan di mode Penjelajahan Pribadi untuk memblokir pelacak yang diketahui">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pelajari lebih lanjut">
-<!ENTITY changeBlockList.label          "Ubah Daftar Blokir">
-<!ENTITY changeBlockList.accesskey      "U">
+<!ENTITY changeBlockList2.label               "Ubah Daftar Blokir…">
 
 <!ENTITY  doNotTrack.description        "Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak">
 <!ENTITY  doNotTrack.learnMore.label    "Pelajari lebih lanjut">
@@ -34,8 +33,6 @@
 <!ENTITY  permissions.label             "Hak Akses">
 
 <!ENTITY  addressBar.label              "Bilah Alamat">
-<!ENTITY  locbar.history.label          "Riwayat">
-<!ENTITY  locbar.history.accesskey      "R">
 <!ENTITY  locbar.bookmarks.label        "Markah">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Tab terbuka">

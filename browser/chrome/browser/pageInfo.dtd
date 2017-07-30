@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Pemilik: ">
 <!ENTITY  securityView.identity.domain   "Situs web: ">
 <!ENTITY  securityView.identity.verifier "Diverifikasi oleh: ">
+<!ENTITY  securityView.identity.validity "Kedaluwarsa pada:">
 
 <!ENTITY  securityView.privacy.header                   "Privasi &amp; Riwayat">
 <!ENTITY  securityView.privacy.history                  "Pernahkah situs ini dikunjungi sebelum hari ini?">
