@@ -189,7 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "UTDATERT">
+<!ENTITY addon.legacy.label                   "FORELDA">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -255,8 +255,8 @@
 <!ENTITY pluginDeprecation.description "Saknar du noko? Nokre programtillegg er ikkje lenger støtta av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Les meir.">
 
-<!ENTITY legacyWarning.description "Saknar du noko? Visse utvidingar er ikkje lenger støtta av &brandShortName;.">
-<!ENTITY legacyWarning.showLegacy "Vis utdaterte utvidingar">
-<!ENTITY legacyExtensions.title "Utdaterte utvidingar">
+<!ENTITY legacyWarning.description "Saknar du noko? Nokre utvidingar er ikkje lenger støtta av &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Vis forelda utvidingar">
+<!ENTITY legacyExtensions.title "Forelda utvidingar">
 <!ENTITY legacyExtensions.description "Desse utvidingane oppfyller ikkje gjeldande standardar i &brandShortName; og er difor slått av.">
 <!ENTITY legacyExtensions.learnMore "Les meir om endringar av utvidingar">

@@ -64,10 +64,10 @@
 <!ENTITY  allowPagesToUseOwn.label                "Tillat nettsider å velje eigne skrifttypar i staden for dei som er valde ovanfor">
 <!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Tekstkoding for gammalt innhald">
+<!ENTITY languages.customize.Fallback2.grouplabel "Tekstkoding for eldre innhald">
 <!ENTITY languages.customize.Fallback2.label      "Reservetekstkoding:">
 <!ENTITY languages.customize.Fallback2.accesskey  "R">
-<!ENTITY languages.customize.Fallback2.desc       "Denne teiknkodinga vert brukt for gammalt innhald som ikkje har spesifisert noko anna koding.">
+<!ENTITY languages.customize.Fallback2.desc       "Denne teiknkodinga vert brukt for eldre innhald som ikkje har spesifisert noko anna koding.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard for gjeldande språk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
