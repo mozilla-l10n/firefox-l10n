@@ -4,18 +4,15 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de búsqueda predeterminado">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Elige el buscador predeterminado. &brandShortName; lo usa en la barra de direcciones, la barra de búsqueda y en la página de inicio.">
 
 <!ENTITY provideSearchSuggestions.label        "Proveer sugerencias de búsqueda">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste &brandShortName; para que nunca recuerde el historial.">
 
 <!ENTITY oneClickSearchEngines.label           "Cambio rápido de buscadores">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Esta barra de búsqueda te permite buscar con motores alternativos directamente. Escoge los que deseas mostrar.">
 
 <!ENTITY engineNameColumn.label                "Motor de búsqueda">
 <!ENTITY engineKeywordColumn.label             "Palabra clave">
@@ -26,4 +23,4 @@
 <!ENTITY removeEngine.label                    "Remover">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines2.label           "Añadir más motores de búsqueda">
+<!ENTITY findMoreSearchEngines.label           "Buscar más motores de búsqueda">
