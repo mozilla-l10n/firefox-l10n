@@ -128,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
 <!ENTITY enableOCSP.accesskey            "C">
-
-
-
-
+<!ENTITY viewCerts2.label                "Visualitza els certificats…">
+<!ENTITY viewCerts2.accesskey            "c">
+<!ENTITY viewSecurityDevices2.label      "Dispositius de seguretat…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rendiment">
 <!ENTITY useRecommendedPerformanceSettings2.label "Utilitza els paràmetres de rendiment recomanats">

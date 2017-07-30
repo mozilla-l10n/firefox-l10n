@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalitza…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Personalitza la barra d'eines…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
-
+<!ENTITY appMenuHistory.recentHistory.label "Historial recent">
 <!ENTITY appMenuHelp.label "Ajuda">
 <!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
 
