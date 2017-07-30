@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanas multiproceso">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesos de contenido web">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clave de Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Clave del servicio de localización de Mozilla">
 
@@ -139,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decisiones">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funciones desactivadas de protección contra fallos">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluciones">
+
+<!ENTITY aboutSupport.mediaTitle "Medios">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivos de salida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivos de entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nombre">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Fabricante">
+<!ENTITY aboutSupport.mediaDeviceState "Estado">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferido">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canales">
+<!ENTITY aboutSupport.mediaDeviceRate "Frecuencia">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencia">
