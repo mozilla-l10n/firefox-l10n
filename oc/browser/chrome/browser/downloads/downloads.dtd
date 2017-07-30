@@ -64,12 +64,14 @@
 <!ENTITY cmd.removeFromHistory.label      "Levar de la lista">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Escafar lo panèl d'apercebut">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Escafar los telecargaments">
 <!ENTITY cmd.clearDownloads.accesskey     "t">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Autorizar los telecargaments">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -79,16 +81,19 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Suprimir lo fichièr o autorizar los telecargaments">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Dobrir o suprimir lo fichièr">
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "Mostrar mai d'informacions">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
