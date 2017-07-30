@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Tinklalapis pašalintas">
 
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
+<!ENTITY bookmark_edit_folder_title "Redaguoti aplanką">
 <!ENTITY bookmark_edit_name "Pavadinimas">
 <!ENTITY bookmark_edit_location "Vieta">
 <!ENTITY bookmark_edit_keyword "Gairė">
