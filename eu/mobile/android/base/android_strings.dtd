@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Orria kenduta">
 
 <!ENTITY bookmark_edit_title "Editatu laster-marka">
+<!ENTITY bookmark_edit_folder_title "Editatu karpeta">
 <!ENTITY bookmark_edit_name "Izena">
 <!ENTITY bookmark_edit_location "Helbidea">
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
