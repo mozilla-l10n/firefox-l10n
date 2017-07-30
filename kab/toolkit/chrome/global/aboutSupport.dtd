@@ -145,6 +145,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "Agraw">
 <!ENTITY aboutSupport.mediaDeviceVendor "Asaǧǧaw">
 <!ENTITY aboutSupport.mediaDeviceState "Addad">
+<!ENTITY aboutSupport.mediaDevicePreferred "imsenyafen">
 <!ENTITY aboutSupport.mediaDeviceFormat "Amasal">
 <!ENTITY aboutSupport.mediaDeviceChannels "Ibuda">
 <!ENTITY aboutSupport.mediaDeviceRate "Afmiḍi">
