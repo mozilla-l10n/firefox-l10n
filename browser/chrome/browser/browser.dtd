@@ -333,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Π">
 <!ENTITY overflowCustomizeToolbar.label       "Προσαρμογή γραμμής εργαλείων…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "ο">
 
 <!ENTITY historyMenu.label "Ιστορικό">
 <!ENTITY historyMenu.accesskey "Ι">

@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Ιδιοκτήτης: ">
 <!ENTITY  securityView.identity.domain   "Ιστοσελίδα: ">
 <!ENTITY  securityView.identity.verifier "Επιβεβαιώθηκε από: ">
+<!ENTITY  securityView.identity.validity "Λήγει στις:">
 
 <!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; ιστορικό">
 <!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή τη σελίδα ξανά σήμερα;">
