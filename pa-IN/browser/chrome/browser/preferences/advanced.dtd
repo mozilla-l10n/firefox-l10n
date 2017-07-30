@@ -10,9 +10,9 @@
 
 <!ENTITY useCursorNavigation.label       "ਪੇਜ਼ ਵਿੱਚ ਨੇਵੀਗੇਸ਼ਨ ਦੌਰਾਨ ਹਮੇਸ਼ਾਂ ਕਰਸਰ ਸਵਿੱਚਾਂ ਵੇਖੋ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "Search for text when you start typing">
+<!ENTITY searchOnStartTyping.label       "ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Warn you when websites try to redirect or reload the page">
+<!ENTITY blockAutoReload.label           "ਜਦੋਂ ਵੈੱਬ-ਸਾਈਟਾਂ ਸਫ਼ੇ ਲਈ ਟਿਕਾਣਾ-ਬਦਲਣ ਜਾਂ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਤਾਂ ਤੁਹਾਨੂੰ ਚੇਤਾਵਨੀ ਦਿਓ">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "ਜਦੋਂ ਲੋੜ ਹੋਵੇ ਤਾਂ ਟੱਚ ਕੀਬੋਰਡ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkUserSpelling.label         "Check your spelling as you type">
+<!ENTITY checkUserSpelling.label         "ਜਿਵੇਂ ਤੁਸੀਂ ਟਾਈਪ ਕਰੋ ਤਾਂ ਆਪਣੇ ਸਪੈਲਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰੋ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "ਡਾਟਾ ਚੋਣਾਂ">
@@ -39,7 +39,7 @@
 <!ENTITY telemetryLearnMore.label        "ਹੋਰ ਜਾਣੋ">
 
 <!ENTITY crashReporterDesc2.label         "Crash reports help &vendorShortName; fix problems and make your browser more stable and secure">
-<!ENTITY alwaysSubmitCrashReports.label   "Allow &brandShortName; to send backlogged crash reports on your behalf">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; ਨੂੰ ਤੁਹਾਡੇ ਵਜੋਂ ਪਿਛਲੀਆਂ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤਾਂ ਦਿਓ">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "ਹੋਰ ਜਾਣੋ">
 
@@ -56,12 +56,12 @@
 <!ENTITY offlineStorage2.label           "ਆਫਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਅਤੇ ਯੂਜ਼ਰ ਡਾਟਾ">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
-<!ENTITY siteData.label                  "Site Data">
-<!ENTITY clearSiteData.label             "Clear All Data">
+<!ENTITY siteData.label                  "ਸਾਈਟ ਡਾਟਾ">
+<!ENTITY clearSiteData.label             "ਸਾਰਾ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearSiteData.accesskey         "l">
-<!ENTITY siteDataSettings.label          "Settings…">
+<!ENTITY siteDataSettings.label          "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "Learn more">
+<!ENTITY siteDataLearnMoreLink.label     "ਹੋਰ ਜਾਣੋ">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -99,9 +99,9 @@
 
 
 
-<!ENTITY offlineStorageNotify.label               "Tell you when a website asks to store data for offline use">
+<!ENTITY offlineStorageNotify.label               "ਜਦੋਂ ਵੈੱਬਸਾਈਟ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਲਈ ਪੁੱਛੇ ਤਾਂ ਤੁਹਾਨੂੰ ਦੱਸੋ">
 <!ENTITY offlineStorageNotify.accesskey           "T">
-<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
+<!ENTITY offlineStorageNotifyExceptions.label     "…ਛੋਟਾਂ">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ:">
@@ -111,9 +111,9 @@
 <!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ">
 
 <!ENTITY certificateTab.label            "ਸਰਟੀਫਿਕੇਟ">
-<!ENTITY selectCerts.auto                "Select one automatically">
+<!ENTITY selectCerts.auto                "ਕਿਸੇ ਦੀ ਆਪਣੇ-ਆਪ ਚੋਣ ਕਰੋ">
 <!ENTITY selectCerts.auto.accesskey      "S">
-<!ENTITY selectCerts.ask                 "Ask you every time">
+<!ENTITY selectCerts.ask                 "ਹਰ ਵਾਰ ਤੁਹਾਨੂੰ ਪੁੱਛੋ">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                " ਕਿਊਰੀ OCSP ਜਵਾਬ-ਦੇਣ ਵਾਲੇ ਸਰਵਰਾਂ ਨੂੰ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਮੌਜੂਦਾ ਵੈਧਤਾ ਦੀ ਪਸ਼ਟੀ ਕਰਨ">
 <!ENTITY enableOCSP.accesskey            "Q">

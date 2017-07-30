@@ -14,13 +14,13 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-<!ENTITY tabCrashed.header2 "Gah. Your tab just crashed.">
-<!ENTITY tabCrashed.offerHelp "We can help you!">
+<!ENTITY tabCrashed.header2 "ਓਹ। ਤੁਹਾਡੀ ਟੈਬ ਕਰੈਸ਼ ਹੋਈ।">
+<!ENTITY tabCrashed.offerHelp "ਅਸੀਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹਾਂ!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Choose &tabCrashed.restoreTab; to reload page content.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Choose &tabCrashed.restoreTab; or &tabCrashed.restoreAll; to reload page content.">
-<!ENTITY tabCrashed.requestHelp "Will you help us?">
+<!ENTITY tabCrashed.requestHelp "ਕੀ ਤੁਸੀਂ ਸਾਡੀ ਮਦਦ ਕਰੋਗੇ?">
 <!ENTITY tabCrashed.requestHelpMessage "Crash reports help us diagnose problems and make &brandShortName; better.">
-<!ENTITY tabCrashed.requestReport "Report this tab">
+<!ENTITY tabCrashed.requestReport "ਇਸ ਟੈਬ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ">
 <!ENTITY tabCrashed.sendReport2 "Send a crash report for the tab you are viewing">
 <!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (comments are publicly visible)">
 <!ENTITY tabCrashed.includeURL2 "Include page URL with this crash report">

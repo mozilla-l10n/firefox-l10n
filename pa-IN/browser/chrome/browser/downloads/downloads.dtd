@@ -63,7 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "Clear Preview Panel">
+<!ENTITY cmd.clearList2.label             "ਝਲਕ ਪੈਨਲ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
@@ -94,25 +94,25 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
-<!ENTITY showMoreInformation.label        "Show more information">
+<!ENTITY showMoreInformation.label        "ਹੋਰ ਜਾਣਕਾਰੀ ਵੇਖਾਓ">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
-<!ENTITY openFile.label                   "Open File">
+<!ENTITY openFile.label                   "ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "Retry Download">
+<!ENTITY retryDownload.label              "ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
-<!ENTITY cancelDownload.label             "Cancel Download">
+<!ENTITY cancelDownload.label             "ਡਾਊਨਲੋਡ ਨੂੰ ਰੱਦ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -135,7 +135,7 @@
 <!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "Open Downloads Folder">
+<!ENTITY openDownloadsFolder.label       "ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearDownloadsButton.tooltip     "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">

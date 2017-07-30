@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label                "ਪੋਪ-ਅੱਪ">
 
-<!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ ਨੂੰ ਬਲਾਕ ਕਰੋ">
+<!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "ਸੂਚਨਾਵਾਂ">
@@ -19,7 +19,7 @@
 <!ENTITY  popupExceptions.label       "…ਛੋਟ">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "ਫੋਂਟ &amp; ਰੰਗ">
+<!ENTITY  fontsAndColors.label        "ਫੋਂਟ ਤੇ ਰੰਗ">
 
 
 <!ENTITY  advancedFonts.label         "…ਤਕਨੀਕੀ">
@@ -34,7 +34,7 @@
 <!ENTITY chooseButton.label           "…ਚੁਣੋ">
 <!ENTITY chooseButton.accesskey       "o">
 
-<!ENTITY translateWebPages.label      "ਵੈੱਬ ਸਮੱਗਰੀ ਨੂੰ ਅਨੁਵਾਦ ਕਰੋ">
+<!ENTITY translateWebPages.label      "ਵੈੱਬ ਸਮੱਗਰੀ ਦਾ ਉਲੱਥਾ ਕਰੋ">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "…ਛੋਟ">
 <!ENTITY translateExceptions.accesskey "x">
@@ -46,7 +46,7 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-<!ENTITY translation.options.attribution.beforeLogo "ਤਰਜਮਾ ਕੀਤਾ">
+<!ENTITY translation.options.attribution.beforeLogo "ਉਲੱਥਾ ਕੀਤਾ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent.label             "DRM ਸਮੱਗਰੀ">

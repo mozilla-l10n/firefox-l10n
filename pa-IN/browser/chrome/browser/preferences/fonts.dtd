@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.latin                    "ਲਾਤੀਨੀ">
 <!ENTITY  font.langGroup.japanese                 "ਜਾਪਾਨੀ">
 <!ENTITY  font.langGroup.trad-chinese             "ਮੂਲ ਚੀਨੀ (ਤਾਈਵਾਨ)">
 <!ENTITY  font.langGroup.simpl-chinese            "ਸਧਾਰਨ ਚੀਨੀ">
@@ -61,7 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUseOwn.label                "Allow pages to choose their own fonts, instead of your selections above">
+<!ENTITY  allowPagesToUseOwn.label                "ਸਫ਼ਿਆਂ ਨੂੰ ਉੱਤੇ ਦਿੱਤੀ ਮੇਰੀ ਚੋਣ ਦੀ ਬਜਾਏ ਆਪਣੇ ਖੁਦ ਦੇ ਫ਼ੋਂਟ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ">

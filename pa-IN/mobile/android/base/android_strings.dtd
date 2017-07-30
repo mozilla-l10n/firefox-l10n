@@ -448,7 +448,7 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
+<!ENTITY pref_update_autodownload3 "ਆਪਣੇ-ਆਪ ਹੀ ਅੱਪਡੇਟ ਕਰੋ">
 <!ENTITY pref_update_autodownload_wifi "ਸਿਰਫ਼ Wi-Fi ਤੇ ਹੀ">
 <!ENTITY pref_update_autodownload_never "ਕਦੇ ਨਹੀਂ">
 <!ENTITY pref_update_autodownload_always "ਹਮੇਸ਼ਾ">
@@ -510,7 +510,7 @@
 <!ENTITY contextmenu_site_settings "ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧੋ">
 <!ENTITY contextmenu_top_sites_edit "ਸੋਧੋ">
 <!ENTITY contextmenu_top_sites_pin "ਸਾਈਟ ਨੂੰ ਪਿੰਨ ਕਰੋ">
-<!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਦੇ ਪਿੰਨ ਨੂ ਹਟਾਓ">
+<!ENTITY contextmenu_top_sites_unpin "ਸਾਈਟ ਦੇ ਪਿੰਨ ਨੂੰ ਹਟਾਓ">
 <!ENTITY contextmenu_add_search_engine "ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਜੋੜੋ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -587,7 +587,7 @@
 <!ENTITY home_synced_devices_number "&formatD; ਡਿਵਾਈਸ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 ਡਿਵਾਈਸ">
-<!ENTITY home_history_back_to2 "ਪੂੇ ਅਤੀਤ ਤੇ ਜਾਓ">
+<!ENTITY home_history_back_to2 "ਪੂਰੇ ਅਤੀਤ 'ਤੇ ਜਾਓ">
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
@@ -827,8 +827,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ਰੀਡਰ ਝਲਕ ਆਈਤਮਾਂ ਨੂੰ ਆਫ਼ਲਾਈਨ ਪੜ੍ਹਨ ਵਾਸਤੇ ਬੁੱਕਮਾਰਕ ਕਰੋ।">
 <!ENTITY helper_triple_readerview_open_button "ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜੋ">
 
-<!ENTITY activity_stream_topsites "Top Sites">
-<!ENTITY activity_stream_highlights "Highlights">
+<!ENTITY activity_stream_topsites "ਚੋਟੀ ਦੀਆਂ ਸਟਾਈਆਂ">
+<!ENTITY activity_stream_highlights "ਸੁਰਖੀਆਂ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->

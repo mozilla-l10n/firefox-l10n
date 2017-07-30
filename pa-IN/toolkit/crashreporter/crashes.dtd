@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashReports.title         "Crash Reports">
+<!ENTITY crashReports.title         "ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ">
 <!ENTITY crashesUnsubmitted.label   "Unsubmitted Crash Reports">
 <!ENTITY crashesSubmitted.label     "Submitted Crash Reports">
 <!ENTITY id.heading                 "ਰਿਪੋਰਟ ID">
 
-<!ENTITY dateCrashed.heading        "Date Crashed">
+<!ENTITY dateCrashed.heading        "ਕਰੈਸ਼ ਦੀ ਮਿਤੀ">
 <!ENTITY dateSubmitted.heading      "Date Submitted">
 <!ENTITY noReports.label            "ਕੋਈ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਨਹੀਂ ਦਿੱਤੀ ਗਈ">
 <!ENTITY noConfig.label             "ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵੇਖਾਉਣ ਲਈ ਸੰਰਚਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ। <code>breakpad.reportURL</code> ਸੈੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।">
