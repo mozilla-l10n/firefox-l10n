@@ -5,10 +5,10 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab cycles through tabs in recently used order">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.label       "ਬਜਾਏ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਨਵੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਖੋਲ੍ਹਦਾ ਹੈ">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "Warn you when closing multiple tabs">
+<!ENTITY warnOnCloseMultipleTabs.label      "ਜਦੋਂ ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹੋਣ ਤਾਂ ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Warn you when opening multiple tabs might slow down &brandShortName;">

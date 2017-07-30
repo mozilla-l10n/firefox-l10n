@@ -213,7 +213,7 @@
 
 <!ENTITY addon.createdBy.label                "ਵਲੋਂ ">
 
-<!ENTITY eula.title                           "ਅੰਤਿਮ ਯੂਜ਼ਰ ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ">
+<!ENTITY eula.title                           "ਅੰਤਿਮ ਵਰਤੋਂਕਾਰ ਲਸੰਸ ਇਕਰਾਰਨਾਮਾ">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "…ਮਨਜ਼ੂਰ ਤੇ ਇੰਸਟਾਲ">
@@ -249,4 +249,4 @@
 <!ENTITY disabledUnsigned.devInfo.end " ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।">
 
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Learn More.">
+<!ENTITY pluginDeprecation.learnMore "ਹੋਰ ਜਾਣੋ।">

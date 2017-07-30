@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label2         "Open Tabs">
+<!ENTITY engine.tabs.label2         "ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ਅਤੀਤ">
 <!ENTITY engine.history.accesskey   "r">

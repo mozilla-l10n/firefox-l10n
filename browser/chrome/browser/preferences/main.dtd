@@ -4,9 +4,9 @@
 
 <!ENTITY startup.label             "ਸ਼ੁਰੂ">
 
-<!ENTITY startupUserHomePage.label "Show your home page">
-<!ENTITY startupBlankPage.label    "Show a blank page">
-<!ENTITY startupPrevSession.label  "Show your windows and tabs from last time">
+<!ENTITY startupUserHomePage.label "ਆਪਣਾ ਮੁੱਖ ਸਫ਼ਾ ਵੇਖੋ">
+<!ENTITY startupBlankPage.label    "ਖ਼ਾਲੀ ਸਫ਼ਾ ਵੇਖੋ">
+<!ENTITY startupPrevSession.label  "ਪਿਛਲੀ ਵਾਰ ਦੀਆਂ ਆਪਣੀਆਂ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ">
 
 <!ENTITY useCurrentPage.label      "ਮੇਰੇ ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useCurrentPage.accesskey  "C">
@@ -24,7 +24,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "…ਚੋਣ">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAskWhere.label         "Always ask you where to save files">
+<!ENTITY alwaysAskWhere.label         "ਹਮੇਸ਼ਾ ਤੁਹਾਨੂੰ ਪੁੱਛੇ ਕਿ ਫਾਈਲਾਂ ਕਿੱਥੇ ਸੰਭਾਲਣੀਆਂ ਹਨ">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "ਹਮੇਸ਼ਾ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ &brandShortName; ਤੁਹਾਡਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਹੈ">

@@ -49,12 +49,12 @@
 <p>&brandShortName; ਕੁਝ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।</p>
 ">
 
-<!ENTITY captivePortal.title "Log in to network">
+<!ENTITY captivePortal.title "ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰੋ">
 <!ENTITY captivePortal.longDesc2 "
-<p>You must log in to this network before you can access the Internet.</p>
+<p>ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕੋ, ਤੁਹਾਨੂੰ ਇਸ ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।</p>
 ">
 
-<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
+<!ENTITY openPortalLoginPage.label2 "ਨੈੱਟਵਰਕ ਲਾਗਇਨ ਸਫ਼ਾ ਖੋਲ੍ਹੋ">
 
 
 <!ENTITY malformedURI.title "ਇਹ ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ ਜੀ।">

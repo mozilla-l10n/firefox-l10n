@@ -115,7 +115,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "ਸੈਂਡਬਾਕਸ">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
-<!ENTITY aboutSupport.sandboxSyscallAge "Seconds Ago">
+<!ENTITY aboutSupport.sandboxSyscallAge "ਸਕਿੰਟ ਪਹਿਲਾਂ">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
