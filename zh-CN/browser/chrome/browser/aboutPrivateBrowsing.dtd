@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "您当前打开的不属于隐私窗口。">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "您当前不在隐私窗口中。">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "打开隐私窗口">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
