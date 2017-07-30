@@ -96,6 +96,7 @@ available. -->
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Να επιτρέπεται στο &brandShortName;">
 <!ENTITY updateAuto3.label               "Αυτόματη εγκατάσταση ενημερώσεων (συνιστάται)">
+<!ENTITY updateAuto3.accesskey           "Α">
 <!ENTITY updateCheckChoose2.label        "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση">
 <!ENTITY updateCheckChoose2.accesskey    "Ε">
 <!ENTITY updateManual2.label             "Να μην γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται)">
@@ -130,6 +131,9 @@ available. -->
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
 <!ENTITY enableOCSP.accesskey            "Ρ">
 <!ENTITY viewCerts2.label                "Προβολή Πιστοποιητικών…">
+<!ENTITY viewCerts2.accesskey            "Π">
+<!ENTITY viewSecurityDevices2.label      "Συσκευές ασφαλείας…">
+<!ENTITY viewSecurityDevices2.accesskey  "Σ">
 
 <!ENTITY performance.label               "Επιδόσεις">
 <!ENTITY useRecommendedPerformanceSettings2.label
