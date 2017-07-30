@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Accesibilidad">
-
 <!ENTITY useCursorNavigation.label       "Usar siempre las teclas del cursor para navegar dentro de las páginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Buscar texto al empezar a escribir">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Advertir cuando el sitio intente redirigir o recargar la página">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar un teclado en pantalla cuando sea necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -33,24 +29,17 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "El reporte de datos está deshabilitado para esta configuración de compilación">
 
-<!ENTITY healthReportDesc.label          "Te ayuda a entender el rendimiento del navegador y comparte los datos de salud del navegador con &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Activar reporte de salud de &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Aprender más">
 
-<!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizaciones de tu navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Compartir datos adicionales (por ejemplo: telemetría)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Aprender más">
+<!ENTITY dataCollectionPrivacyNotice.label    "Aviso de privacidad">
 
-<!ENTITY crashReporterDesc2.label         "Los reportes de fallos ayudan a &vendorShortName; a arreglar problemas y hacer tu navegador más estable y seguro">
-<!ENTITY alwaysSubmitCrashReports.label   "Permitir a &brandShortName; enviar reportes de fallos acumulados a tu nombre">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Aprender más">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Aprender más">
 
 <!ENTITY networkTab.label                "Red">
 
-<!ENTITY connection.label                "Conexión">
+<!ENTITY networkProxy.label              "Proxy de red">
 
 <!ENTITY connectionDesc.label            "Configurar cómo &brandShortName; se conecta a Internet">
 <!ENTITY connectionSettings.label        "Configuraciones…">
@@ -100,8 +89,7 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versión ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalar automáticamente las actualizaciones (recomendado para una mayor seguridad)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Buscar actualizaciones pero permitirte elegir cuando instalarlas">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Nunca buscar actualizaciones (no recomendado)">
@@ -115,8 +103,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualizar motores de búsqueda automáticamente">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
-
-<!ENTITY reports.label                   "Reportes">
 
 <!ENTITY offlineStorageNotify.label               "Avisarte cuando un sitio solicite almacenar datos para uso sin conexión">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -137,10 +123,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Consultar a los servidores de respuesta OCSP para confirmar la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "Ver certificados">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Dispositivos de seguridad">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.label                "Ver certificados…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Dispositivos de seguridad…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rendimiento">
 <!ENTITY useRecommendedPerformanceSettings2.label
