@@ -136,3 +136,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Karar günlüğü">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çökme koruyucusu tarafından kapatılan özellikler">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Çözümler">
+
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Çıktı cihazları">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Girdi cihazları">
+<!ENTITY aboutSupport.mediaDeviceName "Adı">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grup">
