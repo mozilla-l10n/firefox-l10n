@@ -138,4 +138,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Timhalin ur nermid ara n uɛessas n uɣelluy">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tifrat n usellek">
 
+<!ENTITY aboutSupport.mediaTitle "Allalen n teγwalt">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Ibenkan n tuffɣa">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Ibenkan n n unekcum">
 <!ENTITY aboutSupport.mediaDeviceName "Isem">
+<!ENTITY aboutSupport.mediaDeviceGroup "Agraw">
+<!ENTITY aboutSupport.mediaDeviceVendor "Asaǧǧaw">
+<!ENTITY aboutSupport.mediaDeviceState "Addad">
+<!ENTITY aboutSupport.mediaDeviceFormat "Amasal">
+<!ENTITY aboutSupport.mediaDeviceChannels "Ibuda">
+<!ENTITY aboutSupport.mediaDeviceRate "Afmiḍi">
+<!ENTITY aboutSupport.mediaDeviceLatency "Akud n ugani">
