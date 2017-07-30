@@ -7,6 +7,8 @@
 <!ENTITY  window.macWidth                 "41em">
 
 
+<!ENTITY  overrideDefaultPageColors.always.label "Siempres">
+<!ENTITY  overrideDefaultPageColors.never.label  "Enxamás">
 
 <!ENTITY  color                           "Testu y fondu">
 <!ENTITY  textColor.label                 "Testu:">
