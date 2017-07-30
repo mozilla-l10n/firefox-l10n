@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ਕਾਪੀ ਕੀਤਾ">
 
+<!ENTITY pref_pwa "ਸਿਲਸਿਲੇਵਾਰ ਵੈੱਬ ਐਪਾਂ">
+<!ENTITY pref_pwa_summary "ਵੈੱਬ ਐਪਾਂ ਨੂੰ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ਸਰਗਰਮੀ ਸਟਰੀਮ">
 <!ENTITY pref_activity_stream_summary "ਭਰਪੂਰ ਦਿੱਖ ਅਤੀਤ ਫੀਡ ਅਤੇ ਮੁੜ-ਤਿਆਰ ਕੀਤੇ ਮੁੱਖ ਸਫ਼ੇ ਨਾਲ &brandShortName; ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਲੱਭਣੇ ਜਾਣ ਵਾਲਾ ਹੋਰ ਵੀ ਸੌਖਾ ਹੋ ਗਿਆ ਹੈ।">
@@ -545,6 +548,7 @@
 <!ENTITY page_removed "ਸਫ਼ਾ ਹਟਾਇਆ">
 
 <!ENTITY bookmark_edit_title "ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ">
+<!ENTITY bookmark_edit_folder_title "ਫੋਲਡਰ ਸੋਧੋ">
 <!ENTITY bookmark_edit_name "ਨਾਂ">
 <!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
 <!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
@@ -621,6 +625,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ਚੁਣੇ ਡਿਵਾਈਸਾਂ ਨੂੰ ਨਾ-ਲੁਕਾਓ">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "ਪਿੰਨ ਕੀਤੀ ਸਾਈਟ">
+<!ENTITY home_unpinned_site "ਨਾ-ਪਿੰਨ ਕੀਤੀ ਸਾਈਟ">
 
 <!ENTITY remote_tabs_panel_moved_title "ਮੇਰੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਗਈਆਂ?">
 <!ENTITY remote_tabs_panel_moved_desc "ਅਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਪੈਨਲ ਵਿੱਚ ਭੇਜ ਦਿੱਤੀਆਂ ਹਨ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਤੁਹਾਡੇ ਕੋਲ ਸੌਖੀ ਤਰ੍ਹਾਂ ਮੌਜੂਦ ਰਹਿਣ।">
