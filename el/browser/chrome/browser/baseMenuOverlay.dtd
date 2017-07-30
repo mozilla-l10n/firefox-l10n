@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
 <!ENTITY helpKeyboardShortcuts.accesskey "υ">
 
-<!ENTITY helpSafeMode.label       "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
+<!ENTITY helpSafeMode.label       "Επανεκκίνηση με ανενεργά πρόσθετα…">
 <!ENTITY helpSafeMode.accesskey   "χ">
 <!ENTITY helpSafeMode.stop.label       "Επανεκκίνηση με ενεργά πρόσθετα">
 <!ENTITY helpSafeMode.stop.accesskey   "π">
