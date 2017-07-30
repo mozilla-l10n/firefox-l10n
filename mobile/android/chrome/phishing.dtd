@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Դուրս բեր ինձ այստեղից:">
 <!ENTITY safeb.palm.decline.label "Անտեսել այս զգուշացումը">
 <!ENTITY safeb.palm.reportPage.label "Ինչու՞ է այս էջը արգելափակված:">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Խորհրդակցությունը տրամադրել է՝ <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Բողոքել և պիտակել որպես հաձակողական էջ:">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

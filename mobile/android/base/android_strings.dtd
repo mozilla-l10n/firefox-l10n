@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Էջը հեռացվել է">
 
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
+<!ENTITY bookmark_edit_folder_title "Խմբագրել թղթապանակը">
 <!ENTITY bookmark_edit_name "Անունը">
 <!ENTITY bookmark_edit_location "Տեղադրությունը">
 <!ENTITY bookmark_edit_keyword "Հիմնաբառ">
