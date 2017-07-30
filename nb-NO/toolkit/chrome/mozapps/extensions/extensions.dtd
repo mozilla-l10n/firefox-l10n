@@ -256,7 +256,7 @@
 <!ENTITY pluginDeprecation.learnMore "Les mer">
 
 <!ENTITY legacyWarning.description "Savner du noe? Enkelte utvidelser er ikke lenger støttet av &brandShortName;.">
-<!ENTITY legacyWarning.showLegacy "Vis utdaterte utvidelser">
-<!ENTITY legacyExtensions.title "Utdaterte utvidelser">
+<!ENTITY legacyWarning.showLegacy "Vis foreldete utvidelser">
+<!ENTITY legacyExtensions.title "Foreldete utvidelser">
 <!ENTITY legacyExtensions.description "Disse utvidelsene oppfyller ikke gjeldende standarder i &brandShortName; og er derfor slått av.">
 <!ENTITY legacyExtensions.learnMore "Les mer om endringer av utvidelser">
