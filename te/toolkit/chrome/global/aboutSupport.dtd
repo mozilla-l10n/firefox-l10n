@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "మల్టీప్రోసెస్ విండోలు">
 
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "గూగుల్ కీ">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "సురక్షిత రీతి">
@@ -133,3 +134,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "డెసిషన్ లాగ్">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "క్రాష్ గార్డ్ యొక్క నిలిపివేసిన ఫీచర్స్">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "పరిష్కారాలను">
+
+<!ENTITY aboutSupport.mediaDeviceName "పేరు">
