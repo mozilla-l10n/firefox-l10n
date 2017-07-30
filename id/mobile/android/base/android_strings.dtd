@@ -629,6 +629,7 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "Situs tersemat">
+<!ENTITY home_unpinned_site "Situs tidak disemat">
 
 <!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
 <!ENTITY remote_tabs_panel_moved_desc "Kami telah memindahkan tab dari perangkat lain ke panel di beranda agar mudah diakses saat Anda membuka tab baru.">
