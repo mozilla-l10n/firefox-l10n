@@ -4,10 +4,10 @@
 
 <!ENTITY crashReports.title         "Çökmə Hesabatları">
 <!ENTITY crashesUnsubmitted.label   "Göndərilməmiş Çökmə Hesabatları">
-<!ENTITY crashesSubmitted.label     "Gönderilen çökmə hesabatları">
+<!ENTITY crashesSubmitted.label     "Göndərilmiş Çökmə Hesabatları">
 <!ENTITY id.heading                 "Hesabat kimliyi">
 <!ENTITY dateCrashed.heading        "Çökmə Tarixi">
-<!ENTITY dateSubmitted.heading      "Gönderilmə tarixi">
+<!ENTITY dateSubmitted.heading      "Göndərilmə Tarixi">
 <!ENTITY noReports.label            "Hələki heç bir xəta hesabatı göndərilməyib.">
 <!ENTITY noConfig.label             "Bu proqram hələki çökmə hesabatı göstərməkçün nizamlanmayıb.<code>breakpad.reporturl</code> seçimi seçilmiş olmalıdır ">
 <!ENTITY clearAllReports.label      "Bütün hesabatları sil">
