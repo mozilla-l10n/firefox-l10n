@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Utilitza la protecció contra el seguiment en la navegació privada per blocar elements de seguiment coneguts">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Més informació">
-
-
+<!ENTITY changeBlockList2.label               "Canvia la llista de bloquejos…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment">
 <!ENTITY  doNotTrack.learnMore.label    "Més informació">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Barra d'adreces">
 <!ENTITY  addressBar.suggest.label      "Quan s'utilitzi la barra d'adreces, suggereix">
-
-
+<!ENTITY  locbar.history2.label         "Historial de navegació">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Adreces d'interès">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Pestanyes obertes">
