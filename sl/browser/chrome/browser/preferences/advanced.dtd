@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Več o tem">
 
 <!ENTITY dataCollection.label            "Zbiranje in uporaba podatkov &brandShortName;a">
-<!ENTITY dataCollectionDesc.label        "Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave &brandShortName;a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljene.">
+<!ENTITY dataCollectionDesc.label        "Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave &brandShortName;a za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Obvestilo o zasebnosti">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Dovoli &brandShortName;u pošiljanje poročil o sesutjih Mozilli">
