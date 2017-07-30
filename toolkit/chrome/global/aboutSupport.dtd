@@ -137,3 +137,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Avgjerdslogg">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Krasjvern slo av funksjonar">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Løysingar">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Ut-einingar">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Inn-einingar">
+<!ENTITY aboutSupport.mediaDeviceName "Namn">
+<!ENTITY aboutSupport.mediaDeviceGroup "Gruppe">
+<!ENTITY aboutSupport.mediaDeviceVendor "Leverandør">
+<!ENTITY aboutSupport.mediaDeviceState "Status">
+<!ENTITY aboutSupport.mediaDevicePreferred "Føretrekt">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanalar">
+<!ENTITY aboutSupport.mediaDeviceRate "Fart">
+<!ENTITY aboutSupport.mediaDeviceLatency "Forseinking">
