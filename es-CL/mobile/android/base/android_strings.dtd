@@ -548,6 +548,7 @@
 <!ENTITY page_removed "Página removida">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_folder_title "Editar carpeta">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Ubicación">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
