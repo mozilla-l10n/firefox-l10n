@@ -48,7 +48,7 @@
 <!ENTITY helpus.getInvolvedLink     "一起来参与！">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "最近更新">
+<!ENTITY releaseNotes.link          "有什么新鲜事">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "授权信息">
