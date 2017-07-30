@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Taq chokoy">
-
+<!ENTITY  applications.description "Tacha' achi'el rub'eyal &brandShortName; yerusamajij ri taq yakb'äl ye'aqasaj pan ajk'amaya'l o ri taq chokoy ye'awokisaj toq atokinäq pa k'amaya'l.">
 
 <!ENTITY  typeColumn.label        "Ruwäch rupam">
 <!ENTITY  typeColumn.accesskey    "R">

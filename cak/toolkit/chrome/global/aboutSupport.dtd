@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Tzaqoj Chajïy q'ajon taq b'anikil">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tz'aqat taq soloj">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Q'ojom">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Elem taq Okisaxel">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Okib'äl taq Okisaxel">
+<!ENTITY aboutSupport.mediaDeviceName "B'i'aj">
+<!ENTITY aboutSupport.mediaDeviceGroup "Molaj">
+<!ENTITY aboutSupport.mediaDeviceVendor "K'ayinel">
+<!ENTITY aboutSupport.mediaDeviceState "Amaq'">
+<!ENTITY aboutSupport.mediaDevicePreferred "Ichinanel">
+<!ENTITY aboutSupport.mediaDeviceFormat "B'anikil">
+<!ENTITY aboutSupport.mediaDeviceChannels "Taq b'ey">
+<!ENTITY aboutSupport.mediaDeviceRate "Rajil">
 

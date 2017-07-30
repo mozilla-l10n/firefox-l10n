@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "J">
 <!ENTITY enableOCSP.label                "Rutzolixik rutzij ri OCSP peyon tzij, ri ruk'u'x taq samaj nikijikib'a' ri kutzil ri taq ruwujil rub'i'">
 <!ENTITY enableOCSP.accesskey            "p">
-
-
-
-
+<!ENTITY viewCerts2.label                "Titz'et taq Ruwujil b'i'aj…">
+<!ENTITY viewCerts2.accesskey            "R">
+<!ENTITY viewSecurityDevices2.label      "Kokisaxel taq jikomal…">
+<!ENTITY viewSecurityDevices2.accesskey  "K">
 
 <!ENTITY performance.label               "Rub'eyal nisamäj">
 <!ENTITY useRecommendedPerformanceSettings2.label "Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe">

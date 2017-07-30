@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Rajaw">
 <!ENTITY  securityView.identity.domain   "Ruxaq k'amaya'l:">
 <!ENTITY  securityView.identity.verifier "Jikib'an ruma:">
-
+<!ENTITY  securityView.identity.validity "Nik'is ruq'ijul ri:">
 
 <!ENTITY  securityView.privacy.header                   "Ichinanem chuqa' natab'äl">
 <!ENTITY  securityView.privacy.history                  "¿La nintz'ët chik re jun ruxaq k'amaya'l re'?">
