@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A ">
 <!ENTITY enableOCSP.label                "Suter iqeddacen imerrayen OCSP akken ad sentmen taneɣbalt n iselkinen ">
 <!ENTITY enableOCSP.accesskey            "S">
-<!ENTITY viewCerts.label                 "Sken iselkinen">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Taɣellist n ibenkan">
-<!ENTITY viewSecurityDevices.accesskey   "T">
+<!ENTITY viewCerts2.label                "Sken iselkinen…">
+<!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Ibenkan n tɣellist…">
+<!ENTITY viewSecurityDevices2.accesskey  "B">
 
 <!ENTITY performance.label               "Tamellit">
 <!ENTITY useRecommendedPerformanceSettings2.label

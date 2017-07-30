@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Bab:">
 <!ENTITY  securityView.identity.domain   "Asmel web:">
 <!ENTITY  securityView.identity.verifier "Isenqed-it:">
+<!ENTITY  securityView.identity.validity "Ad yemmet di:">
 
 <!ENTITY  securityView.privacy.header                   "Tudert tusligt d umezgar">
 <!ENTITY  securityView.privacy.history                  "Rziɣ yakan ɣer usmel-a web?">

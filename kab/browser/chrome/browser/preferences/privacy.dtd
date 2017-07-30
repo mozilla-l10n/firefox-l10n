@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Seqdec amesten deg iminig uslig akken ad teswaḥleḍ imsfuγal irusinin">
 <!ENTITY trackingProtectionPBM6.accesskey     "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "Issin ugar">
-<!ENTITY changeBlockList.label          "Snifel tabdart n usewḥel">
-<!ENTITY changeBlockList.accesskey      "S">
+<!ENTITY changeBlockList2.label               "Snifel tabdart n usewḥel…">
+<!ENTITY changeBlockList2.accesskey           "D">
 
 <!ENTITY  doNotTrack.description        "Ad yazen tamuli “ur sfu$yul ara” γer ismal web akken ad gzun d akken ur tebγiḍ ara asfuγel">
 <!ENTITY  doNotTrack.learnMore.label    "Issin ugar">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Afeggag n tansa">
 <!ENTITY  addressBar.suggest.label      "Ticki tesqedceḍ afeggag n tansa, sumer">
-<!ENTITY  locbar.history.label          "Amazray">
-<!ENTITY  locbar.history.accesskey      "A">
+<!ENTITY  locbar.history2.label         "Amazray n tunigin">
+<!ENTITY  locbar.history2.accesskey     "M">
 <!ENTITY  locbar.bookmarks.label        "Ticraḍ n isebtar">
 <!ENTITY  locbar.bookmarks.accesskey    "T">
 <!ENTITY  locbar.openpage.label         "Iccaren yeldin">

@@ -137,3 +137,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Aɣmis n ugemmen">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Timhalin ur nermid ara n uɛessas n uɣelluy">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Tifrat n usellek">
+
+<!ENTITY aboutSupport.mediaDeviceName "Isem">
