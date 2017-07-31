@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Заберіть мене звідси!">
 <!ENTITY safeb.palm.decline.label "Ігнорувати це попередження">
 <!ENTITY safeb.palm.reportPage.label "Чому цю сторінку заблоковано?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Інформація отримана від <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Сторінка звітована як нападницька!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
