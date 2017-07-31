@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Podėlio laimėjimų kiekis">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Tinklo laimėjimų kiekis">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Bendras tinklo užklausų kiekis">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "Podėlio operacija">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Atvėrimas">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Skaitymas">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Rašymas">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Įrašas atvertas">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Trumpas vidurkis">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Ilgas vidurkis">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Ilgas standartinis nuokrypis">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Podėlio lėto kiekis">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Podėlio ne lėto kiekis">

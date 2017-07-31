@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Laiku atnaujinkite „&brandShortName;“ didesniam našumui, stabilumui bei saugumui užtikrinti.">
 <!ENTITY updateApplication.version.pre   "Laida ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Leisti „&brandShortName;“">
-
-
+<!ENTITY updateAuto3.label               "Automatiškai įdiegti naujinimus (rekomenduojama).">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Tikrinti ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
 <!ENTITY updateCheckChoose2.accesskey    "T">
 <!ENTITY updateManual2.label             "Niekada netikrinti ar yra naujinimų (nerekomenduojama)">
@@ -128,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "v">
 <!ENTITY enableOCSP.label                "Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių">
 <!ENTITY enableOCSP.accesskey            "O">
-
-
-
-
+<!ENTITY viewCerts2.label                "Peržiūrėti liudijimus…">
+<!ENTITY viewCerts2.accesskey            "l">
+<!ENTITY viewSecurityDevices2.label      "Saugumo priemonės…">
+<!ENTITY viewSecurityDevices2.accesskey  "S">
 
 <!ENTITY performance.label               "Našumas">
 <!ENTITY useRecommendedPerformanceSettings2.label "Naudoti rekomenduojamas našumo nuostatas">
