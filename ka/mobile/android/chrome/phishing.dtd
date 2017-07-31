@@ -15,8 +15,8 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "მატყუარა საიტი!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ვებ-გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>თაღლითური საიტები შექმნილია, რომ მოტყუებით გაგაკეთებინოთ ისეთი სახიფათო ქმედებები, როგორიცაა არასასურველი პროგრამის დაყენება, ან თქვენი პირადი მონაცემების, პაროლების, ტელეფონის ნომრების და საკრედიტო ბარათების გამჟღავნება.</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანით, შესაძლოა ქურდობის ან თაღლითობის მსხვერპლი გახდეთ.</p>">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "ვებგვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>თაღლითური საიტები შექმნილია, რომ მოტყუებით გაგაკეთებინოთ ისეთი სახიფათო ქმედებები, როგორიცაა არასასურველი პროგრამის დაყენება, ან თქვენი პირადი მონაცემების, პაროლების, ტელეფონის ნომრების და საკრედიტო ბარათების გამჟღავნება.</p><p>ამ ვებგვერდზე ნებისმიერი სახის ინფორმაციის შეყვანით, შესაძლოა ქურდობის ან თაღლითობის მსხვერპლი გახდეთ.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "შეტყობინებული არასასურველი პროგრამის საიტი!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
