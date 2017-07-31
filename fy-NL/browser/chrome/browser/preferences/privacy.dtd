@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Beskerming tsjin folgjen brûke yn Priveenavigaasje om bekende folgers te blokkearjen">
 <!ENTITY trackingProtectionPBM6.accesskey     "f">
 <!ENTITY trackingProtectionPBMLearnMore.label "Mear ynfo">
-<!ENTITY changeBlockList.label          "Blokkearlist wizigje">
-<!ENTITY changeBlockList.accesskey      "k">
+<!ENTITY changeBlockList2.label               "Blokkearlist wizigje…">
+<!ENTITY changeBlockList2.accesskey           "B">
 
 <!ENTITY  doNotTrack.description        "Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle">
 <!ENTITY  doNotTrack.learnMore.label    "Mear ynfo">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresbalke">
 <!ENTITY  addressBar.suggest.label      "By gebrûk fan de adresbalke, suggestjes werjaan út">
-<!ENTITY  locbar.history.label          "Skiednis">
-<!ENTITY  locbar.history.accesskey      "S">
+<!ENTITY  locbar.history2.label         "Navigaasjeskiednis">
+<!ENTITY  locbar.history2.accesskey     "N">
 <!ENTITY  locbar.bookmarks.label        "Blêdwizers">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Iepen ljeplêden">

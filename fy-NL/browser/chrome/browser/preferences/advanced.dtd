@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "M">
 <!ENTITY enableOCSP.label                "Freegje OCSP-responderservers om de aktuele faliditeit fan sertifikaten te befêstigjen">
 <!ENTITY enableOCSP.accesskey            "F">
-<!ENTITY viewCerts.label                 "Sertifikaten besjen">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Feilichheidsapparaten">
-<!ENTITY viewSecurityDevices.accesskey   "p">
+<!ENTITY viewCerts2.label                "Sertifikaten besjen…">
+<!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Feilichheidsapparaten…">
+<!ENTITY viewSecurityDevices2.accesskey  "F">
 
 <!ENTITY performance.label               "Prestaasjes">
 <!ENTITY useRecommendedPerformanceSettings2.label
