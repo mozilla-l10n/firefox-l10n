@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Власник: ">
 <!ENTITY  securityView.identity.domain   "Сайт: ">
 <!ENTITY  securityView.identity.verifier "Засвідчено: ">
+<!ENTITY  securityView.identity.validity "Завершується:">
 
 <!ENTITY  securityView.privacy.header                   "Конфіденційність та історія">
 <!ENTITY  securityView.privacy.history                  "Чи відвідувався цей сайт раніше?">

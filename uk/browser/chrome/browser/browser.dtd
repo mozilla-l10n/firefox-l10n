@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "ч">
 <!ENTITY viewCustomizeToolbar.label       "Пристосування…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "П">
+<!ENTITY overflowCustomizeToolbar.label       "Налаштувати панель інструментів…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "Н">
 
 <!ENTITY historyMenu.label "Історія">
 <!ENTITY historyMenu.accesskey "І">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Показати панель історії">
+<!ENTITY appMenuHistory.recentHistory.label "Недавня історія">
 <!ENTITY appMenuHelp.label "Довідка">
 <!ENTITY appMenuHelp.tooltip "Відкрити меню довідки">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Надіслати на пристрій">
 <!ENTITY sendToDevice.viewTitle "Надіслати на пристрій">
-<!ENTITY sendToDevice.fxaRequired.label "Обов'язково">
-<!ENTITY sendToDevice.noDevices.label "Немає доступних пристроїв">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
