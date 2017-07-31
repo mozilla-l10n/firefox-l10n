@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Блокувати відомі елементи стеження в приватному перегляді">
 <!ENTITY trackingProtectionPBM6.accesskey     "с">
 <!ENTITY trackingProtectionPBMLearnMore.label "Докладніше">
-<!ENTITY changeBlockList.label          "Змінити список блокування">
-<!ENTITY changeBlockList.accesskey      "З">
+<!ENTITY changeBlockList2.label               "Змінити список блокування…">
+<!ENTITY changeBlockList2.accesskey           "м">
 
 <!ENTITY  doNotTrack.description        "Передавати веб-сайтам сигнал “Не стежити”">
 <!ENTITY  doNotTrack.learnMore.label    "Докладніше">
@@ -33,11 +33,10 @@
 <!ENTITY  history.label                 "Історія відвідувань">
 <!ENTITY  permissions.label             "Дозволи">
 
-<!ENTITY  locationBar.label             "Панель адреси">
-
-<!ENTITY  locbar.suggest2.label         "При використанні панелі адреси, пропонувати">
-<!ENTITY  locbar.history.label          "Історію">
-<!ENTITY  locbar.history.accesskey      "т">
+<!ENTITY  addressBar.label              "Панель адреси">
+<!ENTITY  addressBar.suggest.label      "При використанні панелі адреси, пропонувати">
+<!ENTITY  locbar.history2.label         "Історію переглядів">
+<!ENTITY  locbar.history2.accesskey     "т">
 <!ENTITY  locbar.bookmarks.label        "Закладки">
 <!ENTITY  locbar.bookmarks.accesskey    "а">
 <!ENTITY  locbar.openpage.label         "Відкриті вкладки">
@@ -109,7 +108,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Налаштування…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
-<!ENTITY  browserContainersHeader.label         "Контейнери вкладок">
 <!ENTITY  browserContainersLearnMore.label      "Докладніше">
 <!ENTITY  browserContainersEnabled.label        "Увімкнути контейнери вкладок">
 <!ENTITY  browserContainersEnabled.accesskey    "к">

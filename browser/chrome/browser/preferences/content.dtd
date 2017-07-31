@@ -54,4 +54,6 @@
 
 <!ENTITY  drmContent2.label              "Вміст з керуванням цифровими правами (DRM)">
 
+<!ENTITY  playDRMContent2.label          "Відтворювати вміст з DRM">
+<!ENTITY  playDRMContent2.accesskey      "В">
 <!ENTITY  playDRMContent.learnMore.label "Докладніше">
