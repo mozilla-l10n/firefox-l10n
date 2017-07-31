@@ -97,7 +97,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Llwytho i lawr diweddariad - ">
+<!ENTITY update.downloading.start   "Llwytho'r diweddariad i lawr - ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Gosod diweddariad…">
