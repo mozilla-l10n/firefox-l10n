@@ -18,8 +18,8 @@
 <!ENTITY engine.addons.accesskey    "க">
 
 
-
-
+<!ENTITY engine.creditcards.label   "கடன் அட்டைகள்">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "சாதனத்தின் பெயர்">
