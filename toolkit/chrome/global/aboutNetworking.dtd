@@ -7,7 +7,7 @@
 <!ENTITY aboutNetworking.showNextTime          "Rodyti šį pranešimą kitą kartą">
 <!ENTITY aboutNetworking.ok                    "Gerai">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
-<!ENTITY aboutNetworking.sockets               "Sockets">
+<!ENTITY aboutNetworking.sockets               "Sujungimai">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Atnaujinti">
@@ -50,7 +50,7 @@
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Atvėrimas">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Skaitymas">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Rašymas">
-<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Įrašas atvertas">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Įrašo atvėrimas">
 <!ENTITY aboutNetworking.rcwnAvgShort          "Trumpas vidurkis">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Ilgas vidurkis">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Ilgas standartinis nuokrypis">

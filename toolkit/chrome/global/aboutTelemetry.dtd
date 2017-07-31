@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Savaitė">
 
+<!ENTITY aboutTelemetry.archivePingType "Ryšio tikrinimo tipas">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ryšio patikrinimas">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Šiandien">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Vakar">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Senesni">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Įprasti duomenys">
 
