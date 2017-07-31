@@ -990,5 +990,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Acciones de la página">
 
 <!ENTITY sendToDevice.label2 "Enviar al dispositivo">
-<!ENTITY sendToDevice.viewTitle "Enviar a dispositivo">
+<!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
