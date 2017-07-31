@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "p">
 <!ENTITY viewCustomizeToolbar.label       "Muokkaa…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
+<!ENTITY overflowCustomizeToolbar.label       "Muokkaa työkalupalkkia…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "M">
 
 <!ENTITY historyMenu.label "Sivuhistoria">
 <!ENTITY historyMenu.accesskey "S">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
+<!ENTITY appMenuHistory.recentHistory.label "Viimeaikainen historia">
 <!ENTITY appMenuHelp.label "Ohje">
 <!ENTITY appMenuHelp.tooltip "Avaa ohjevalikko">
 
@@ -988,6 +991,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label2 "Lähetä laitteeseen">
 <!ENTITY sendToDevice.viewTitle "Lähetä laitteeseen">
-<!ENTITY sendToDevice.fxaRequired.label "Pakollinen">
-<!ENTITY sendToDevice.noDevices.label "Ei laitteita">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">

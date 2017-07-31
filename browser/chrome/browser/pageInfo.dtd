@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Omistaja:">
 <!ENTITY  securityView.identity.domain   "WWW-sivusto:">
 <!ENTITY  securityView.identity.verifier "Varmentaja:">
+<!ENTITY  securityView.identity.validity "Vanhenee:">
 
 <!ENTITY  securityView.privacy.header                   "Tietosuoja ja sivuhistoria">
 <!ENTITY  securityView.privacy.history                  "Onko sivustolla käyty ennen tätä päivää?">
