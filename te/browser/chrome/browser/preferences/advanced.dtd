@@ -28,14 +28,18 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "ఇంకా తెలుసుకోండి">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "గోప్యతా విధానం">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "& BrandShortName;ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
 <!ENTITY networkTab.label                "నెట్‌వర్క్">
 
+<!ENTITY networkProxy.label              "నెట్‌వర్క్ ప్రోక్సీ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ఎలా అంతర్జాలముకు అనుసంధానించబడుతోందో ఆకృతీకరించు">
 <!ENTITY connectionSettings.label        "అమరికలు…">
