@@ -29,9 +29,11 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது">
 
-
+<!ENTITY enableHealthReport1.label       "தொழில்நுட்ப மற்றும் தொடர்புத் தரவுகளை மொசில்லாவிற்கு தானாக அனுப்ப &brandShortName; உலாவியை அனுமதி">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "மேலும் அறிய">
 
+<!ENTITY dataCollection.label            "&brandShortName; தரவுத் திரட்டும் பயனளவும்">
 
 
 
