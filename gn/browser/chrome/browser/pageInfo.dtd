@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Mba'ejára:">
 <!ENTITY  securityView.identity.domain   "Ñanduti renda:">
 <!ENTITY  securityView.identity.verifier "Ojehechapyréva:">
-
+<!ENTITY  securityView.identity.validity "Ndoikovéitama ag̃a:">
 
 <!ENTITY  securityView.privacy.header                   "Ñemigua ha tembiasakue">
 <!ENTITY  securityView.privacy.history                  "Ojehechámapa ko ñanduti renda ymavegua">

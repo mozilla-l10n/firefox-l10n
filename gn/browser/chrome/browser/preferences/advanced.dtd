@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Mohendahavusu mbohovái porandu OCSP rehegua emoañete hag̃ua oiko gueteriha umi mboajepyre ag̃aguáva.">
 <!ENTITY enableOCSP.accesskey            "Q">
-
-
-
-
+<!ENTITY viewCerts2.label                "Mboajepyre jehecha…">
+<!ENTITY viewCerts2.accesskey            "M">
+<!ENTITY viewSecurityDevices2.label      "Tekorosã mba'e'oka rehegua…">
+<!ENTITY viewSecurityDevices2.accesskey  "m">
 
 <!ENTITY performance.label               "Mba'eaporã">
 <!ENTITY useRecommendedPerformanceSettings2.label "Eipuru ñemboheko tembiapokue oje'epyréva">

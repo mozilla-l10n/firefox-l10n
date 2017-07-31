@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Tembipuru'i">
-
+<!ENTITY  applications.description "Eiporavo &brandShortName; eipuru marandurenda ñemboguejy ñanduti guive térã umi tembipuru'i eipurúva eikundaha aja.">
 
 <!ENTITY  typeColumn.label        "Peteĩchagua tetepy">
 <!ENTITY  typeColumn.accesskey    "T">

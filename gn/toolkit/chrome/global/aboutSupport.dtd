@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Hesegua ojokóva Apopyvusu je'a Ñangarekoha ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Ñemyatyrõ sapy'agua">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Marandu myasãiha">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Mba'e'oka osẽha">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Mba'e'oka oikeha">
+<!ENTITY aboutSupport.mediaDeviceName "Téra">
+<!ENTITY aboutSupport.mediaDeviceGroup "Aty">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendaha">
+<!ENTITY aboutSupport.mediaDeviceState "Tekotee">
+<!ENTITY aboutSupport.mediaDevicePreferred "Ojehecharamovéva">
+<!ENTITY aboutSupport.mediaDeviceFormat "Ysaja">
+<!ENTITY aboutSupport.mediaDeviceChannels "Mbohapeha">
+<!ENTITY aboutSupport.mediaDeviceRate "Mba'erepy">
+<!ENTITY aboutSupport.mediaDeviceLatency "Tekoteete">
