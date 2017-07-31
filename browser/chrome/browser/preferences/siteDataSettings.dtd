@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "ਸਾਈਟ">
 <!ENTITY     statusCol.label               "ਹਾਲਤ">
 <!ENTITY     usageCol.label                "ਸਟੋਰੇਜ਼">
+<!ENTITY     searchTextboxPlaceHolder             "ਖੋਜ ਵੈੱਬਸਾਈਟ">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "ਚੁਣੇ ਨੂੰ ਹਟਾਓ">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ">

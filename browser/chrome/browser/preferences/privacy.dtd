@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
+<!ENTITY  trackingProtection2.radioGroupLabel  "ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY  trackingProtectionAlways.label       "ਹਮੇਸ਼ਾ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ">
@@ -13,25 +14,26 @@
 <!ENTITY  trackingProtectionExceptions.label   "…ਛੋਟਾਂ">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "ਟਰੈਕ ਕਰਨਾ">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ਹੋਰ ਜਾਣੋ">
-<!ENTITY changeBlockList.label          "ਪਾਬੰਦੀ ਸੂਚੀ ਨੂੰ ਬਦਲੋ">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList2.label               "ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "ਤੁਸੀਂ">
-<!ENTITY  doNotTrack.settings.label     "ਆਪਣੀਆਂ ਟਰੈਕ ਨਾ ਕਰੋ ਸੈਟਿੰਗਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰ ਸਕਦੇ ਹੋ">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.learnMore.label    "ਹੋਰ ਸਿੱਖੋ">
+<!ENTITY  doNotTrack.default.label      "ਕੇਵਲ ਤਾਂ ਜਦੋਂ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਦੀ ਵਰਤੋਂ ਹੁੰਦੀ ਹੋਵੇ">
+<!ENTITY  doNotTrack.always.label       "ਹਮੇਸ਼ਾ">
 
 <!ENTITY  history.label                 "ਅਤੀਤ">
+<!ENTITY  permissions.label             "ਇਜਾਜ਼ਤਾਂ">
 
-<!ENTITY  locationBar.label             "ਟਿਕਾਣਾ ਪੱਟੀ">
-
-<!ENTITY  locbar.history.label          "ਅਤੀਤ">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  addressBar.label              "ਸਿਰਨਾਵਾਂ ਪੱਟੀ">
+<!ENTITY  addressBar.suggest.label      "ਜਦੋਂ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੋਵੇ ਤਾਂ ਸੁਝਾਓ">
+<!ENTITY  locbar.history2.label         "ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "ਬੁੱਕਮਾਰਕ">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ਟੈਬਾਂ ਖੋਲ੍ਹੋ">
@@ -39,6 +41,7 @@
 <!ENTITY  locbar.searches.label         "ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਤੋਂ ਸੰਬੰਧਿਤ ਖੋਜਾਂ">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "ਖੋਜ ਇੰਜਣ ਸੁਝਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ">
 
 <!ENTITY  acceptCookies.label           "ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -102,7 +105,6 @@
 <!ENTITY  clearOnCloseSettings.label     "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "ਕਨਟੇਨਰ ਟੈਬ">
 <!ENTITY  browserContainersLearnMore.label      "ਹੋਰ ਜਾਣੋ">
 <!ENTITY  browserContainersEnabled.label        "ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
