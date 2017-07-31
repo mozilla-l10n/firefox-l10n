@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Pennvad !">
 <!ENTITY welcomeback2.pageInfo1     "Prest eo &brandShortName;">
 
+<!ENTITY welcomeback2.restoreAll.label  "Assav an holl brenestroù hag ivinelloù">
 <!ENTITY welcomeback2.restoreSome.label "Dibab ar re a fell din assav">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
