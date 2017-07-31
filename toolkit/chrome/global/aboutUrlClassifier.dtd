@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "ప్రొవైడర్">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "చివరిగా నవీకరించిన సమయం">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "తరువాత నవీకరించు సమయం">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "చివరి నవీకరణ స్థితి">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "తాజాకరించు">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "క్యాషె">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "తాజాపరుచు">
