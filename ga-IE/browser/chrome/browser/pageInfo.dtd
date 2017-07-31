@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Úinéir:">
 <!ENTITY  securityView.identity.domain   "Suíomh Gréasáin:">
 <!ENTITY  securityView.identity.verifier "Fíoraithe ag:">
-
+<!ENTITY  securityView.identity.validity "In éag ar:">
 
 <!ENTITY  securityView.privacy.header                   "Príobháideachas agus Stair">
 <!ENTITY  securityView.privacy.history                  "Ar thug mé cuairt ar an suíomh seo roimh inniu?">

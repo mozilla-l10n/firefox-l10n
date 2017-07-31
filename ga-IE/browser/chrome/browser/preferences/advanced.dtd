@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Tuilleadh eolais">
 
 <!ENTITY dataCollection.label            "Bailiúchán agus Úsáid Sonraí &brandShortName;">
-
+<!ENTITY dataCollectionDesc.label        "Déanaimid ár ndícheall roghanna a thabhairt duit agus an méid is lú sonraí a bhailiú chun feabhas a chur ar &brandShortName; ar son an phobail. Iarraimid cead ort i gcónaí sula mbailímid sonraí pearsanta uait.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Fógra Príobháideachais">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Tabhair cead do &brandShortName; tuairiscí tuairteála a sheoladh chuig Mozilla">
@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Iarr ar fhreastalaí freagróra OCSP bailíocht teastais a dheimhniú">
 <!ENTITY enableOCSP.accesskey            "O">
-
-
-
-
+<!ENTITY viewCerts2.label                "Taispeáin Teastais…">
+<!ENTITY viewCerts2.accesskey            "s">
+<!ENTITY viewSecurityDevices2.label      "Gléasanna Slándála…">
+<!ENTITY viewSecurityDevices2.accesskey  "d">
 
 <!ENTITY performance.label               "Feidhmíocht">
 <!ENTITY useRecommendedPerformanceSettings2.label "Bain úsáid as na socruithe feidhmíochta a mholtar">
