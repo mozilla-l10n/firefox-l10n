@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Собственик:">
 <!ENTITY  securityView.identity.domain   "Уеб сайт:">
 <!ENTITY  securityView.identity.verifier "Проверено от:">
+<!ENTITY  securityView.identity.validity "Изтича на:">
 
 <!ENTITY  securityView.privacy.header                   "Поверителност и история">
 <!ENTITY  securityView.privacy.history                  "Посещавал ли съм този сайт и преди, изключвайки днес?">
