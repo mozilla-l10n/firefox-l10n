@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Perchennog:">
 <!ENTITY  securityView.identity.domain   "Gwefan:">
 <!ENTITY  securityView.identity.verifier "Gwirio gan:">
-
+<!ENTITY  securityView.identity.validity "Daw i ben ar:">
 
 <!ENTITY  securityView.privacy.header                   "Preifatrwydd a Hanes">
 <!ENTITY  securityView.privacy.history                  "A ydw i wedi ymweld â'r wefan hon cyn heddiw?">
