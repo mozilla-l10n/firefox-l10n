@@ -129,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
 <!ENTITY enableOCSP.accesskey            "Y">
-
-
-
-
+<!ENTITY viewCerts2.label                "Darllen Tystysgrifau…">
+<!ENTITY viewCerts2.accesskey            "D">
+<!ENTITY viewSecurityDevices2.label      "Dyfeisiau Diogelwch…">
+<!ENTITY viewSecurityDevices2.accesskey  "y">
 
 <!ENTITY performance.label               "Perfformiad">
 <!ENTITY useRecommendedPerformanceSettings2.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">

@@ -138,12 +138,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Nodweddion Crash Guard wedi ei Analluogi">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Dulliau Datrys">
 
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Cyfrwng">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dyfeisiau Allbwn">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dyfeisiau Mewnbwn">
+<!ENTITY aboutSupport.mediaDeviceName "Enw">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grŵp">
+<!ENTITY aboutSupport.mediaDeviceVendor "Gwerthwr">
+<!ENTITY aboutSupport.mediaDeviceState "Cyflwr">
 
 
 
