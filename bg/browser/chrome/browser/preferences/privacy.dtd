@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Използвайте защитата от проследяване докато разглеждате поверително за блокиране на известните проследяващи сайтове">
 <!ENTITY trackingProtectionPBM6.accesskey     "з">
 <!ENTITY trackingProtectionPBMLearnMore.label "Научете повече">
-<!ENTITY changeBlockList.label          "Промяна списъка за блокиране">
-<!ENTITY changeBlockList.accesskey      "б">
+<!ENTITY changeBlockList2.label               "Промяна на блокиращия списък…">
+<!ENTITY changeBlockList2.accesskey           "с">
 
 <!ENTITY  doNotTrack.description        "Указване на сайтовете, че не желаете да бъдете проследявани">
 <!ENTITY  doNotTrack.learnMore.label    "Научете повече">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Адресна лента">
 <!ENTITY  addressBar.suggest.label      "При въвеждане в адресната лента, подсказване с">
-<!ENTITY  locbar.history.label          "История">
-<!ENTITY  locbar.history.accesskey      "И">
+<!ENTITY  locbar.history2.label         "История на разглеждане">
+<!ENTITY  locbar.history2.accesskey     "р">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
 <!ENTITY  locbar.bookmarks.accesskey    "О">
 <!ENTITY  locbar.openpage.label         "Отворени раздели">
