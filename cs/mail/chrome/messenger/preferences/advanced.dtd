@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Povolit globální hledání a indexaci">
 <!ENTITY enableGlodaSearch.accesskey   "g">
+<!ENTITY dateTimeFormatting.label      "Formátování data a času">
 <!ENTITY allowHWAccel.label            "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Typ úložiště zpráv pro nové účty:">
