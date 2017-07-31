@@ -748,6 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్లో భద్రమయివుంటుంది.">
 <!ENTITY identity.connectionVerified2 "మీరు సురక్షితంగా ఈ సైటుకి అనుసంధానమయ్యారు, యాజమాన్యం:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
+<!ENTITY identity.extensionPage "ఈ పేజీ పొడిగింత నుండి లోడ్ చేయబడింది.">
 <!ENTITY identity.insecureLoginForms2 "ఈ పేజీలో మీరు ఇచ్చే లాగిన్లు రాజీపడవచ్చు.">
 
 <!-- Strings for connection state warnings. -->
@@ -856,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "మీ పనిముట్లపట్టీ నుండి వాటిని దూరంగా ఉంచడానికి ఇక్కడ అంశాలను లాగి, వదలండి…">
 <!ENTITY customizeMode.uidensity "సాంద్రత">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -969,12 +971,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "&brandShorterName; ఒక తాజా కాపీని డౌన్లోడ్ చేయండి మరియు మేము ఇన్స్టాల్ చేయడానికి సహాయం చేస్తాము.">
 <!ENTITY updateManual.whatsnew.label "కొత్తవేమిటో చూడండి.">
+<!ENTITY updateManual.header.message "&brandShorterName; తాజా వర్షన్కు నవీకరించలేరు.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName;‌ను దించుకోండి">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; యొక్క తాజా నాకలుని దిగుమతి చేయండి">
 
+<!ENTITY updateRestart.message "శీఘ్ర పునఃప్రారంభమైన తర్వాత, మీ తెరిచిన ట్యాబ్లు మరియు విండోలను &brandShorterName; పునరుద్ధరిస్తోంది.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి.">
+<!ENTITY updateRestart.acceptButton.label "పునఃప్రారంభించండి మరియు పునరుద్ధరించండి">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
