@@ -591,7 +591,7 @@
 <!ENTITY home_synced_devices_number "&formatD; ਡਿਵਾਈਸ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 ਡਿਵਾਈਸ">
-<!ENTITY home_history_back_to2 "ਪੂਰੇ ਅਤੀਤ 'ਤੇ ਜਾਓ">
+<!ENTITY home_history_back_to2 "ਪੂਰੇ ਅਤੀਤ ਤੇ ਜਾਓ">
 <!ENTITY home_clear_history_button "ਬਰਾਊਜ਼ਿੰਗ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY home_clear_history_confirm "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY home_bookmarks_empty "ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।">
