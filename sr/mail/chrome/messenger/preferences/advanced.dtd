@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Омогући општу претрагу и пописивање">
 <!ENTITY enableGlodaSearch.accesskey   "О">
+<!ENTITY dateTimeFormatting.label      "Форматирање времена и датума">
 <!ENTITY allowHWAccel.label            "Користи хардверско убрзање када је доступно">
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Врста складишта порука за нове налоге:">
