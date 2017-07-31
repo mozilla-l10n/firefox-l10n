@@ -22,6 +22,7 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "వారం">
 
+<!ENTITY aboutTelemetry.archivePingType "పింగ్ రకం">
 
 <!ENTITY aboutTelemetry.archivePingHeader "పింగ్">
 

@@ -257,3 +257,7 @@
 <!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
 
 <!ENTITY legacyWarning.description "ఏదైనా లేదా? కొన్ని పొడగింతలను &brandShortName; ఇకపై తోడ్పాటు లేదు.">
+<!ENTITY legacyWarning.showLegacy "లెగసీ పొడగింతలను చూపించు">
+<!ENTITY legacyExtensions.title "లెగసీ పొడిగింతలు">
+<!ENTITY legacyExtensions.description "ఈ పొడిగింతలు ప్రస్తుత &brandShortName; ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి.">
+<!ENTITY legacyExtensions.learnMore "పొడిగింతల మార్పుల గురించి తెలుసుకోండి">
