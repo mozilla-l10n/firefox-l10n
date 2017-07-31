@@ -2,12 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "ਪੋਪ-ਅੱਪ">
+<!ENTITY  permissions.label           "ਇਜਾਜ਼ਤਾਂ">
 
 <!ENTITY  blockPopups.label           "ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "ਸੂਚਨਾਵਾਂ">
 <!ENTITY  notificationsPolicyLearnMore.label   "ਹੋਰ ਜਾਣੋ">
 <!ENTITY  notificationsPolicyDesc3.label       "ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
@@ -21,6 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "ਫੋਂਟ ਤੇ ਰੰਗ">
 
+<!ENTITY  defaultFont2.label          "ਡਿਫਾਲਟ ਫ਼ੋਂਟ">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "ਆਕਾਰ">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "…ਤਕਨੀਕੀ">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -29,7 +32,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "ਭਾਸ਼ਾ">
+<!ENTITY language2.label              "ਭਾਸ਼ਾ">
 <!ENTITY chooseLanguage.label         "ਸਫ਼ੇ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਚੁਣੋ">
 <!ENTITY chooseButton.label           "…ਚੁਣੋ">
 <!ENTITY chooseButton.accesskey       "o">
@@ -49,8 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "ਉਲੱਥਾ ਕੀਤਾ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM ਸਮੱਗਰੀ">
+<!ENTITY  drmContent2.label              "ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ">
 
-<!ENTITY  playDRMContent.label         "DRM ਸਮੱਗਰੀ ਨੂੰ ਚਲਾਓ">
-<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent2.label          "DRM-ਕੰਟਰੋਲ ਕੀਤੀ ਸਮੱਗਰੀ ਚਲਾਓ">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "ਹੋਰ ਜਾਣੋ">

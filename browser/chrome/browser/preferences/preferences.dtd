@@ -13,9 +13,19 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "ਖੋਜ ਨਤੀਜੇ">
 <!ENTITY  paneGeneral.title             "ਆਮ">
+<!ENTITY  paneSearch.title              "ਖੋਜ">
+<!ENTITY  paneFilesApplications.title   "ਫਾਈਲਾਂ ਤੇ ਐਪਲੀਕੇਸ਼ਨ">
+<!ENTITY  panePrivacySecurity.title     "ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ">
 <!ENTITY  paneContainers.title          "ਕਨਟੇਨਰ ਟੈਬਾਂ">
+<!ENTITY  paneUpdates.title             "ਅੱਪਡੇਟ">
+
+<!ENTITY  languageAndAppearance.label   "ਭਾਸ਼ਾ ਤੇ ਦਿੱਖ">
+<!ENTITY  filesAndApplications.label    "ਫਾਈਲਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ">
+<!ENTITY  browserPrivacy.label          "ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "ਫਾਇਰਫਾਕਸ ਖਾਤਾ">
 
-
+<!ENTITY  helpButton2.label        "&brandShortName; ਸਹਿਯੋਗ">
