@@ -145,8 +145,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "Grŵp">
 <!ENTITY aboutSupport.mediaDeviceVendor "Gwerthwr">
 <!ENTITY aboutSupport.mediaDeviceState "Cyflwr">
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDevicePreferred "Amgen">
+<!ENTITY aboutSupport.mediaDeviceFormat "Fformat">
+<!ENTITY aboutSupport.mediaDeviceChannels "Sianeli">
+<!ENTITY aboutSupport.mediaDeviceRate "Cyfradd">
+<!ENTITY aboutSupport.mediaDeviceLatency "Cuddni">
