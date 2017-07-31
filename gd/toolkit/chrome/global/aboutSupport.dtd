@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Uinneagan ioma-phròiseasaidh">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Pròiseasan susbaint-lìn">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Iuchair seirbheis nan ionad aig Mozilla">
@@ -137,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Gleusan a chuir freiceadan nan tuislidhean à comas">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Meadhanan">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Uidheaman às-chuir">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Uidheaman ion-chuir">
+<!ENTITY aboutSupport.mediaDeviceName "Ainm">
+<!ENTITY aboutSupport.mediaDeviceGroup "Buidheann">
+<!ENTITY aboutSupport.mediaDeviceVendor "Reiceadair">
+<!ENTITY aboutSupport.mediaDeviceState "Staid">
+<!ENTITY aboutSupport.mediaDevicePreferred "As fhearr">
+<!ENTITY aboutSupport.mediaDeviceFormat "Fòrmat">
+<!ENTITY aboutSupport.mediaDeviceChannels "Seanailean">
+<!ENTITY aboutSupport.mediaDeviceRate "Reat">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latency">
