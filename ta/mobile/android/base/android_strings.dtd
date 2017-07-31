@@ -548,6 +548,7 @@
 <!ENTITY page_removed "பக்கம் நீக்கப்பட்டது">
 
 <!ENTITY bookmark_edit_title "புத்தகக்குறியை திருத்து">
+<!ENTITY bookmark_edit_folder_title "அடைத் தொகு">
 <!ENTITY bookmark_edit_name "பெயர்">
 <!ENTITY bookmark_edit_location "இடம்">
 <!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
