@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Sealbhadair:">
 <!ENTITY  securityView.identity.domain   "Làrach-lìn:">
 <!ENTITY  securityView.identity.verifier "Air a dhearbhadh le:">
-
+<!ENTITY  securityView.identity.validity "Falbhaidh an ùine air:">
 
 <!ENTITY  securityView.privacy.header                   "Prìobhaideachd ⁊ eachdraidh">
 <!ENTITY  securityView.privacy.history                  "Na thadhail mi air an làrach-lìn seo ro an-diugh?">

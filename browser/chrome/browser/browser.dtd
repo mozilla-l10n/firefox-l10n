@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "t">
 <!ENTITY viewCustomizeToolbar.label       "Gnàthaich…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Gnàthaich am bàr-inneal...">
+<!ENTITY overflowCustomizeToolbar.accesskey   "G">
 
 <!ENTITY historyMenu.label "Eachdraidh">
 <!ENTITY historyMenu.accesskey "E">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an eachdraidh faisg ort…">
 <!ENTITY appMenuHistory.restoreSession.label "Aisig an seisean roimhe seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
-
+<!ENTITY appMenuHistory.recentHistory.label "Eachdraidh o chionn goirid">
 <!ENTITY appMenuHelp.label "Cobhair">
 <!ENTITY appMenuHelp.tooltip "Fosgail clàr-taice na cobharach">
 
