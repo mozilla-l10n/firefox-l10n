@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+<!ENTITY dateTimeFormatting.label      "Datum- en tijdopmaak">
 <!ENTITY allowHWAccel.label            "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey        "v">
 <!ENTITY storeType.label               "Type berichtenopslag voor nieuwe accounts:">
