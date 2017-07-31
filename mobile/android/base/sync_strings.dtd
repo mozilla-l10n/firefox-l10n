@@ -60,7 +60,7 @@
 <!ENTITY fxaccount_status_sync_server 'სინქრონიზციის სერვერი'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ჩართულია'>
-<!ENTITY fxaccount_status_needs_verification2 'თქვენს ანგარიშს გადამოწმება სჭირდება. შეეხეთ გადამოწმების ელ-ფოსტის ხელახლა გამოსაგზავნად.'>
+<!ENTITY fxaccount_status_needs_verification2 'თქვენს ანგარიშს დამოწმება სჭირდება. შეეხეთ, დასამოწმებელი წერილის ხელახლა გამოსაგზავნად.'>
 <!ENTITY fxaccount_status_needs_credentials 'დაკავშირება ვერ მოხერხდა. შეეხეთ შესასვლელად.'>
 <!ENTITY fxaccount_status_needs_upgrade 'შესასვლელად უნდა განაახლოთ &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; მონაცემების გამოყენება.'>
@@ -110,8 +110,8 @@
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ანგარიში უკვე არსებობს. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'არასწორი ელ-ფოსტა ან პაროლი'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'არასწორი ელ-ფოსტა ან პაროლი'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'არასწორი ელფოსტა ან პაროლი'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'არასწორი ელფოსტა ან პაროლი'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ანგარიში არაა გადამოწმებული'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
