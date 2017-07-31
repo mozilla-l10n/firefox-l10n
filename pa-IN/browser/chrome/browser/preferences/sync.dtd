@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "ਐਡ-ਆਨ">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "ਸਿਰਨਾਵੇਂ">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "ਕਰੈਡਿਟ ਕਾਰਡ">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ">

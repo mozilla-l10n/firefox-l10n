@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "ਸੁਰੱਖਿਆ">
+<!ENTITY  phishingProtection.label       "ਫਿਸ਼ਿੰਗ ਸੁਰੱਖਿਆ">
 
 <!ENTITY  warnOnAddonInstall.label        "ਸਾਵਧਾਨ ਕਰੋ ਜਦੋਂ ਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
