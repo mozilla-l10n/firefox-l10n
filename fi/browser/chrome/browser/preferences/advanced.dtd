@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Yleiset">
 
-<!ENTITY accessibility.label             "Esteettömyystoiminnot">
-
 <!ENTITY useCursorNavigation.label       "Liiku sivuilla nuolinäppäimillä">
 <!ENTITY useCursorNavigation.accesskey   "s">
 <!ENTITY searchOnStartTyping.label       "Ala etsiä tekstistä heti kirjoitettaessa">
 <!ENTITY searchOnStartTyping.accesskey   "A">
-<!ENTITY blockAutoReload.label           "Varoita, kun sivustot yrittävät päivittää sivua tai uudelleenohjata toiselle sivulle">
-<!ENTITY blockAutoReload.accesskey       "r">
 <!ENTITY useOnScreenKeyboard.label       "Näytä kosketusnäppäimistö tarvittaessa">
 <!ENTITY useOnScreenKeyboard.accesskey   "N">
 
@@ -33,24 +29,14 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa">
 
-<!ENTITY healthReportDesc.label          "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
-<!ENTITY enableHealthReport.label        "&brandShortName;in terveydentilaraportti käytössä">
-<!ENTITY enableHealthReport.accesskey    "F">
 <!ENTITY healthReportLearnMore.label     "Lue lisää">
 
-<!ENTITY telemetryDesc.label             "Lähetä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;ia">
-<!ENTITY enableTelemetryData.label       "Jaa muita tietoja (so. kaukomittaustietoja)">
-<!ENTITY enableTelemetryData.accesskey   "k">
-<!ENTITY telemetryLearnMore.label        "Lue lisää">
 
-<!ENTITY crashReporterDesc2.label         "Kaatumisilmoitusten ansiosta &vendorShortName; voi korjata ongelmia ja tehdä selaimestasi vakaamman ja turvallisemman">
-<!ENTITY alwaysSubmitCrashReports.label   "Salli, että &brandShortName; lähettää lähettämättömät kaatumisilmoitukset puolestasi">
-<!ENTITY alwaysSubmitCrashReports.accesskey "S">
-<!ENTITY crashReporterLearnMore.label     "Lue lisää">
+<!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
 <!ENTITY networkTab.label                "Verkko">
 
-<!ENTITY connection.label                "Yhteys">
+<!ENTITY networkProxy.label              "Verkon välityspalvelin">
 
 <!ENTITY connectionDesc.label            "Muokkaa &brandShortName;in verkkoyhteysasetuksia">
 <!ENTITY connectionSettings.label        "Asetukset…">
@@ -100,8 +86,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versio ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName;in päivitystapa">
-<!ENTITY updateAuto2.label               "Asenna päivitykset automaattisesti (suositellaan paremman turvallisuuden vuoksi)">
-<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Hae päivitykset, mutta anna sinun päättää asennetaanko ne">
 <!ENTITY updateCheckChoose2.accesskey    "e">
 <!ENTITY updateManual2.label             "Älä hae päivityksiä (ei suositella)">
@@ -115,8 +99,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Päivitä hakukoneet automaattisesti">
 <!ENTITY enableSearchUpdate2.accesskey   "k">
-
-<!ENTITY reports.label                   "Raportit">
 
 <!ENTITY offlineStorageNotify.label               "Näytä ilmoitus, kun sivusto pyytää lupaa tallentaa tietoa yhteydetöntä tilaa varten">
 <!ENTITY offlineStorageNotify.accesskey           "N">
@@ -137,10 +119,6 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "k">
 <!ENTITY enableOCSP.label                "Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta">
 <!ENTITY enableOCSP.accesskey            "C">
-<!ENTITY viewCerts.label                 "Näytä varmenteet">
-<!ENTITY viewCerts.accesskey             "N">
-<!ENTITY viewSecurityDevices.label       "Turvallisuuslaitteet">
-<!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Suorituskyky">
 <!ENTITY useRecommendedPerformanceSettings2.label
