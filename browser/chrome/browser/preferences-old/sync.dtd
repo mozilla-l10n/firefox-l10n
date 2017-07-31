@@ -58,9 +58,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey    "მ">
 <!ENTITY disconnect.label            "კავშირის გაწყვეტა…">
 <!ENTITY disconnect.accesskey        "წ">
-<!ENTITY verify.label                "ელ-ფოსტის დამოწმება">
+<!ENTITY verify.label                "ელფოსტის დამოწმება">
 <!ENTITY verify.accesskey            "დ">
-<!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
+<!ENTITY forget.label                "ამ ელფოსტის დავიწყება">
 <!ENTITY forget.accesskey            "ყ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
