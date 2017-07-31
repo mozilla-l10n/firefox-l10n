@@ -33,7 +33,11 @@
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 
+<!ENTITY webide.keycode                      "VK_F8">
+<!ENTITY webide.keytext                      "F8">
 
+<!ENTITY devToolbar.keycode                  "VK_F2">
+<!ENTITY devToolbar.keytext                  "F2">
 
 
 
