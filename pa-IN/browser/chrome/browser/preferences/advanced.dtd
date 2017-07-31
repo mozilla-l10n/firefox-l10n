@@ -126,5 +126,7 @@ available. -->
                                          "ਸਿਫਾਰਸ਼ੀ ਕਾਰਗੁਜਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
+<!ENTITY limitContentProcessOption.label "ਸਮੱਗਰੀ ਕਾਰਵਾਈ ਹੱਦ">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
 <!ENTITY allowHWAccel.accesskey          "h">
