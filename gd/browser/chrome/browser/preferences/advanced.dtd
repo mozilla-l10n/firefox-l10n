@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo">
 
-
+<!ENTITY enableHealthReport1.label       "Leig le &brandShortName; dàta teicnigeach is dàta mu eadar-ghabhail a chur gu Mozilla gu fèin-obrachail">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Barrachd fiosrachaidh">
 
+<!ENTITY dataCollection.label            "Cruinneachadh is cleachdadh dàta le &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Tha sinn ag obair gu cruaidh airson an dà chuid roghainnean a thoirt dhut agus dìreach an dàta a chruinneachadh a dh’fheumas sinn airson &brandShortName; a sholar dhan a h-uile duine agus airson a leasachadh. Iarraidh sinn cead ort uair sam bith ma bhios feum air dàta pearsanta.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Sanas prìobhaideachd">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Leig le &brandShortName; aithisgean mu thuislidhean a chur gu Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
 
 <!ENTITY networkTab.label                "Lìonra">
 
+<!ENTITY networkProxy.label              "Progsaidh lìonraidh">
 
 <!ENTITY connectionDesc.label            "Rèitich mar a cheanglas &brandShortName; ris an lìon">
 <!ENTITY connectionSettings.label        "Roghainnean…">
@@ -86,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Cum &brandShortName; ùraichte airson dèanadas, seasmhachd is tèarainteachd as fhearr.">
 <!ENTITY updateApplication.version.pre   "Tionndadh ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Thoir cead dha &brandShortName;">
-
-
+<!ENTITY updateAuto3.label               "Stàlaich ùrachaidhean gu fèin-obrachail (mholamaid seo)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
 <!ENTITY updateCheckChoose2.accesskey    "c">
 <!ENTITY updateManual2.label             "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo)">
@@ -124,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Cuir iarrtas gu frithealaichean OCSP Responder gus dligheachd nan teisteanasan làithreach a dhearbhadh">
 <!ENTITY enableOCSP.accesskey            "C">
-
-
-
-
+<!ENTITY viewCerts2.label                "Seall na teisteanasan...">
+<!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Uidheaman tèarainteachd...">
+<!ENTITY viewSecurityDevices2.accesskey  "n">
 
 <!ENTITY performance.label               "Dèanadas">
 <!ENTITY useRecommendedPerformanceSettings2.label "Cleachd na roghainnean dèanadais a mholamaid-ne">
