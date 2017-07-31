@@ -10,7 +10,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "გვერდი მიჩნეულია მოიერიშედ!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "ვებ-გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ვებგვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "მატყუარა საიტი!">

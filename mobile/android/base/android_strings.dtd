@@ -193,7 +193,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "რჩევა: დაამატეთ ნებისმიერი ვებ-საიტი თქვენს საძიებო პროვაიდერებს მის საძიებო ველზე დაჭერით შემდეგ კი &formatI; ხატულაზე შეხებით.">
+<!ENTITY pref_search_hint2 "რჩევა: დაამატეთ ნებისმიერი ვებსაიტი თქვენს საძიებო პროვაიდერებს მის საძიებო ველზე დაჭერით შემდეგ კი &formatI; ხატულაზე შეხებით.">
 <!ENTITY pref_category_advanced "დამატებითი">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -264,7 +264,7 @@
 <!ENTITY pref_tap_to_load_images_data "მხოლოდ Wi-Fi-თ">
 <!ENTITY pref_tap_to_load_images_disabled2 "არასდროს">
 
-<!ENTITY pref_show_web_fonts "ვებ-შრიფტების ჩვენება">
+<!ENTITY pref_show_web_fonts "ვებშრიფტების ჩვენება">
 <!ENTITY pref_show_web_fonts_summary2 "დისტანციური შრიფტების ჩამოტვირთვა გვერდის ჩატვირთვისას">
 
 <!ENTITY pref_tracking_protection_title2 "თვალთვალისგან დაცვა">
@@ -295,8 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL დაკოპირდა">
 
-<!ENTITY pref_pwa "მზარდი ვებ-აპლიკაციები">
-<!ENTITY pref_pwa_summary "ვებ-აპლიკაციების მთავარ გვერდზე დამატების დაშვება">
+<!ENTITY pref_pwa "მზარდი ვებაპლიკაციები">
+<!ENTITY pref_pwa_summary "ვებაპლიკაციების მთავარ გვერდზე დამატების დაშვება">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "მოქმედებების აღრიცხვა">
@@ -372,10 +372,10 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "შრიფტის სისტემური ზომის გამოყენება">
-<!ENTITY pref_use_system_font_size_summary "ვებ-შიგთავსის ზომების ცვლილება, სისტემის შრიფტის ზომის მიხედვით">
+<!ENTITY pref_use_system_font_size_summary "ვებშიგთავსის ზომების ცვლილება, სისტემის შრიფტის ზომის მიხედვით">
 
 <!ENTITY pref_media_autoplay_enabled "ნებართვა თვით-გაშვებაზე">
-<!ENTITY pref_media_autoplay_enabled_summary "ვებ-საიტის უფლებების მართვა, ვიდეოებისა და სხვა მედია შიგთავსის ავტომატურ გაშვებაზე">
+<!ENTITY pref_media_autoplay_enabled_summary "ვებსაიტის უფლებების მართვა, ვიდეოებისა და სხვა მედია შიგთავსის ავტომატურ გაშვებაზე">
 <!ENTITY pref_zoom_force_enabled "მასშტაბირების ჩართვა ყველგან">
 <!ENTITY pref_zoom_force_enabled_summary "უგულებელყოფს საიტების პარამეტრებს, რათა ყველა გვერდზე შეცვალოთ მასშტაბი">
 <!ENTITY pref_voice_input "ხმოვანი შეყვანა">
@@ -601,7 +601,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; ჩანართი">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 ჩანართი">
-<!ENTITY home_most_recent_empty "ბოლოს მონახულებული ვებ-საიტები გამოჩნდება აქ.">
+<!ENTITY home_most_recent_empty "ბოლოს მონახულებული ვებსაიტები გამოჩნდება აქ.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "ჩშუუ: &formatS1;ახალი პირადი ჩანართი&formatS2; თქვენს ისტორიას არ შეინახავს.">
@@ -797,9 +797,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "დამატებითი პარამეტრები">
 <!ENTITY restrictable_feature_advanced_settings_description "ეს მოიცავს სანიშნეების გადმოტანას, ჩანართების აღდგენას და ავტომატურ განახლებებს. შეგიძლიათ გამორთოთ, პარამეტრების გასამარტივებლად ოჯახის დანარჩენი წევრებისთვის.">
 <!ENTITY restrictable_feature_camera_microphone "კამერა და მიკროფონი">
-<!ENTITY restrictable_feature_camera_microphone_description "ოჯახის წევრებს ვებ-საიტებზე რეალური დროის კომუნიკაციის საშუალებას აძლევს.">
+<!ENTITY restrictable_feature_camera_microphone_description "ოჯახის წევრებს ვებსაიტებზე რეალური დროის კომუნიკაციის საშუალებას აძლევს.">
 <!ENTITY restrictable_feature_block_list "შეზღუდულთა სია">
-<!ENTITY restrictable_feature_block_list_description "ვებ-საიტების შეზღუდვა, რომლებიც პირად მონაცემებს შეიცავენ.">
+<!ENTITY restrictable_feature_block_list_description "ვებსაიტების შეზღუდვა, რომლებიც პირად მონაცემებს შეიცავენ.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
