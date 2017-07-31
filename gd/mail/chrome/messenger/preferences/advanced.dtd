@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+<!ENTITY dateTimeFormatting.label      "Fòrmatadh a’ chinn-là ’s an ama">
 <!ENTITY allowHWAccel.label            "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey        "m">
 <!ENTITY storeType.label               "Seòrsa stòras nan teachdaireachdan airson cunntasan ùra:">
