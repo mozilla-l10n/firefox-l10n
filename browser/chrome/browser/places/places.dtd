@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Lisatud">
 <!ENTITY col.lastmodified.label  "Viimati muudetud">
 
-<!ENTITY search.label                              "Otsing:">
-<!ENTITY search.accesskey                          "O">
+<!ENTITY search.placeholder  "Otsi">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vali element, et vaadata ja muuta selle omadusi">
 
-<!ENTITY find.label               "Otsi:">
-<!ENTITY find.accesskey           "O">
 <!ENTITY view.label               "Näita">
 <!ENTITY view.accesskey           "N">
 <!ENTITY byDate.label             "Kuupäeva järgi">
