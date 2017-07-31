@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Feidhmchláir">
-
+<!ENTITY  applications.description "Conas ba chóir do &brandShortName; déileáil le comhaid a íoslódálann tú ón Ghréasán nó le feidhmchláir a úsáideann tú le linn brabhsála.">
 
 <!ENTITY  typeColumn.label        "Cineál Ábhair">
 <!ENTITY  typeColumn.accesskey    "b">
