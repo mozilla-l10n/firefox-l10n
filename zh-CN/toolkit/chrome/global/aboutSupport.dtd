@@ -145,6 +145,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "输出设备">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "输入设备">
 <!ENTITY aboutSupport.mediaDeviceName "名称">
+<!ENTITY aboutSupport.mediaDeviceGroup "组别">
 <!ENTITY aboutSupport.mediaDeviceVendor "厂商">
 <!ENTITY aboutSupport.mediaDeviceState "状态">
 <!ENTITY aboutSupport.mediaDevicePreferred "首选">
