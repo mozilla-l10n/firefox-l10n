@@ -562,7 +562,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY copyURLCmd.label             "URL-ს დაკოპირება">
-<!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
+<!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
 <!ENTITY savePageCmd.accesskey        "შ">
@@ -581,13 +581,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "ვ">
 <!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
 <!ENTITY saveAudioCmd.accesskey       "ა">
-<!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელ-ფოსტით…">
+<!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელფოსტით…">
 <!ENTITY emailImageCmd.accesskey      "ს">
-<!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელ-ფოსტით…">
+<!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
 <!ENTITY emailVideoCmd.accesskey      "ვ">
 <!ENTITY castVideoCmd.label           "ვიდეოს გაგზავნა მოწყობილობაში">
 <!ENTITY castVideoCmd.accesskey       "წ">
-<!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელ-ფოსტით…">
+<!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "ა">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
 <!ENTITY playPluginCmd.accesskey      "ჩ">

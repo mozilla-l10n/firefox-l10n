@@ -23,7 +23,7 @@
 <!ENTITY tabCrashed.sendReport2 "ჩანართის ავარიული დახურვის შესახებ მოხსენების გაგზავნა">
 <!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი კომენტარი (კომენტარები ხილულია საჯაროდ)">
 <!ENTITY tabCrashed.includeURL2 "URL-ს დამატება მოხსენებაში">
-<!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელ-ფოსტის მისამართი">
+<!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელფოსტის მისამართი">
 <!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
 <!ENTITY tabCrashed.reportSent "ავარიული დახურვის შეტყობინება უკვე გადმოგზავნილია; მადლობას გიხდით &brandShortName;-ის გაუმჯობესებაში დახმარებისთვის!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "გააგზავნეთ მოხსენება ფონურ ჩანართებზე">
