@@ -3,3 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "url-classifier ਬਾਰੇ ਜਾਣਕਾਰੀ">
+<!ENTITY aboutUrlClassifier.providerTitle               "ਪੂਰਕ">
+<!ENTITY aboutUrlClassifier.provider                    "ਪੂਰਕ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ਆਖਰੀ ਅੱਪਡੇਟ ਸਮਾਂ">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "ਅਗਲਾ ਅੱਪਡੇਟ ਸਮਾਂ">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "ਬੈਕ-ਆਫ਼ ਸਮਾਂ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "ਆਖਰੀ ਅੱਪਡੇਟ ਹਾਲਤ">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "ਅੱਪਡੇਟ">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "ਕੈਸ਼">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "ਤਾਜ਼ਾ ਕਰੋ">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY aboutUrlClassifier.cacheTableName              "ਸਾਰਣੀ ਦਾ ਨਾਂ">
