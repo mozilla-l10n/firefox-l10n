@@ -109,7 +109,7 @@
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Infokapsler fra dette nettstedet vil alltid bli blokkert.">
 
-<!ENTITY cookieImageMessageTitle.label "Bildetillatelser forandret">
+<!ENTITY cookieImageMessageTitle.label "Tillatelser for bilder endret">
 <!ENTITY cookieDisplayImagesCmd.label "Behandle bildetillatelser">
 <!ENTITY cookieDisplayImagesCmd.accesskey "e">
 <!ENTITY cookieAllowImagesCmd.label "Tillat bilder fra dette nettstdet">
@@ -122,17 +122,17 @@
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "Bilder fra dette nettstedet vil aldri lastes ned.">
 
-<!ENTITY cookieAllowPopupsCmd.label "Tillat sprettoppvinduer fra dette nettstedet">
-<!ENTITY cookieAllowPopupsCmd.accesskey "T">
-<!ENTITY cookieManagePopups.label "Behandle sprettoppvinduer">
-<!ENTITY cookieManagePopups.accesskey "B">
+<!ENTITY popupsMessageChangeTitle.label "Tillatelser for sprettoppvinduer endret">
+<!ENTITY popupAllowCmd.label "Tillat sprettoppvinduer fra denne nettsiden">
+<!ENTITY popupAllowCmd.accesskey "T">
+<!ENTITY popupAllowMsg.label "Sprettoppvinduer fra dette nettstedet vil alltid bli vist.">
+<!ENTITY popupDefaultCmd.label "Bruk standardregler for sprettoppvinduer">
+<!ENTITY popupDefaultCmd.accesskey "B">
 
 <!ENTITY cookieCookieManager.label "Infokapsler">
 <!ENTITY cookieCookieManager.accesskey "I">
 <!ENTITY cookieImageManager.label "Bilder">
 <!ENTITY cookieImageManager.accesskey "B">
-<!ENTITY cookiePopupManager.label "Sprettoppvinduer">
-<!ENTITY cookiePopupManager.accesskey "S">
 
 <!ENTITY clearPrivateDataCmd.label "Slett private data …">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
