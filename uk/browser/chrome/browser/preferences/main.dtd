@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Завжди перевіряти чи є &brandShortName; типовим браузером">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
-<!ENTITY setAsMyDefaultBrowser2.label     "Зробити типовим">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "т">
+<!ENTITY setAsMyDefaultBrowser3.label     "Зробити типовим…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "т">
 <!ENTITY isDefault.label                  "&brandShortName; зараз ваш типовий браузер">
 <!ENTITY isNotDefault.label               "&brandShortName; не є вашим типовим браузером">
 
