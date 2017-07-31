@@ -15,6 +15,13 @@
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "శుభ్రపరుచు">
 <!ENTITY aboutUrlClassifier.cacheTableName              "పట్టిక పేరు">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "ఉపసర్గ">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Full hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "అనుకూల క్యాషె గడువు పూర్తి">
 <!ENTITY aboutUrlClassifier.debugTitle                  "డీబగ్">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "లాగ్ మాడ్యూలు సెట్ చేయి">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "లాగ్ ఫైల్ సెట్ చేయి">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS లాగ్ ఫైలు సెట్ చేయి">
+<!ENTITY aboutUrlClassifier.debugSBModules              "సురక్షిత బ్రౌజింగ్ లాగ్ మాడ్యూళ్ళు">
+<!ENTITY aboutUrlClassifier.debugModules                "ప్రస్తుత లాగ్ మాడ్యూళ్ళు">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "సురక్షిత బ్రౌజింగ్ JS లాగ్">
 <!ENTITY aboutUrlClassifier.debugFile                   "ప్రస్తుత లాగ్ ఫైలు">
