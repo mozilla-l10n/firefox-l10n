@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Õnnestus!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; on kasutamiseks valmis.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Taasta kõik aknad ja kaardid">
-<!ENTITY welcomeback2.label.restoreSome "Taasta ainult soovitud">
+<!ENTITY welcomeback2.restoreAll.label  "Taastatakse kõik aknad ja kaardid">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

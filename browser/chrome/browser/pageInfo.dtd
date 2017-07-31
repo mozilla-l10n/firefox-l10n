@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Omanik: ">
 <!ENTITY  securityView.identity.domain   "Veebileht: ">
 <!ENTITY  securityView.identity.verifier "Verifitseerija: ">
+<!ENTITY  securityView.identity.validity "Aegub:">
 
 <!ENTITY  securityView.privacy.header                   "Privaatsus ja ajalugu">
 <!ENTITY  securityView.privacy.history                  "Kas ma olen enne tänast seda lehte juba külastanud?">
