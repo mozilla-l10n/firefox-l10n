@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Suskleisti">
 <!ENTITY fullScreenRestore.tooltip "Normalioji veiksena">
 <!ENTITY fullScreenClose.tooltip "Užverti">
-<!ENTITY fullScreenAutohide.label "Slėpti įrankių juostas">
+<!ENTITY fullScreenAutohide.label "Slėpti priemonių juostas">
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Grįžti iš viso ekrano veiksenos">
 <!ENTITY fullScreenExit.accesskey "v">
@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "P">
 <!ENTITY viewCustomizeToolbar.label       "Tvarkyti…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Tvarkyti priemonių juostą…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Žurnalas">
 <!ENTITY historyMenu.accesskey "u">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
 <!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
-
+<!ENTITY appMenuHistory.recentHistory.label "Žurnalas">
 <!ENTITY appMenuHelp.label "Žinynas">
 <!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 

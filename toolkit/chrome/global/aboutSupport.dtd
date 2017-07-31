@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Saityno turinio procesai">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "„Google“ raktas">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "„Mozillos“ buvimo vietos nustatymo paslaugos raktas">
@@ -105,7 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Pritaikymas neįgaliesiems">
 <!ENTITY aboutSupport.a11yActivated "Aktyvintas">
 <!ENTITY aboutSupport.a11yForceDisabled "Pritaikymas neįgaliesiems uždraustas">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Panaudota pasiekiama doroklė ">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekų versijos">
 
@@ -137,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Strigčių apsaugos išjungtos funkcijos">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Apėjimai">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Laikmenos">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Išvedimo įrenginiai">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Įvedimo įrenginiai">
+<!ENTITY aboutSupport.mediaDeviceName "Pavadinimas">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupė">
+<!ENTITY aboutSupport.mediaDeviceVendor "Gamintojas">
+<!ENTITY aboutSupport.mediaDeviceState "Būsena">
+<!ENTITY aboutSupport.mediaDevicePreferred "Pageidautinas">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formatas">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanalai">
+<!ENTITY aboutSupport.mediaDeviceRate "Dažnis">
+<!ENTITY aboutSupport.mediaDeviceLatency "Delsa">
