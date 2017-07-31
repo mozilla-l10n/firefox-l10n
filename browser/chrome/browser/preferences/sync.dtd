@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.addons.label        "na tuilleadain">
 <!ENTITY engine.addons.accesskey    "a">
-
-
-
-
+<!ENTITY engine.addresses.label     "Seòlaidhean">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Cairtean-creideis">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Ainm an uidheim">
@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Clàraich a-steach">
 <!ENTITY signIn.accesskey            "t">
 <!ENTITY profilePicture.tooltip      "Atharraich dealbh na pròifil">
-
-
+<!ENTITY verifiedManage.label        "Stiùirich an cunntas">
+<!ENTITY verifiedManage.accesskey    "n">
 <!ENTITY disconnect3.label           "Dì-cheangail...">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Dearbh am post-d">

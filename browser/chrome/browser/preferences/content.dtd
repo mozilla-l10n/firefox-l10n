@@ -31,6 +31,8 @@
 <!ENTITY  colors.label                "Dathan…">
 <!ENTITY  colors.accesskey            "D">
 
+
+<!ENTITY language2.label              "Cànan">
 <!ENTITY chooseLanguage.label         "Tagh an cànan as fhearr leat anns a nochdar dhut duilleagan">
 <!ENTITY chooseButton.label           "Tagh…">
 <!ENTITY chooseButton.accesskey       "a">
@@ -50,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "An t-eadar-theangachadh le">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Susbaint Digital Rights Management (DRM)">
 
-
+<!ENTITY  playDRMContent2.label          "Cluich susbaint fo smachd DRM">
+<!ENTITY  playDRMContent2.accesskey      "u">
 <!ENTITY  playDRMContent.learnMore.label "Barrachd fiosrachaidh">
