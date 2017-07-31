@@ -95,11 +95,11 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versión ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir que &brandShortName;">
-<!ENTITY updateAuto3.label               "Instalar actualizaciones automáticamente (recomendado)">
+<!ENTITY updateAuto3.label               "Instale actualizaciones automáticamente (recomendado)">
 <!ENTITY updateAuto3.accesskey           "a">
-<!ENTITY updateCheckChoose2.label        "Buscar actualizaciones pero dejarme elegir si las instalo">
+<!ENTITY updateCheckChoose2.label        "Busque actualizaciones pero dejarme elegir si las instalo">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "Nunca buscar actualizaciones (no recomendado)">
+<!ENTITY updateManual2.label             "Nunca busqie actualizaciones (no recomendado)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Mostrar historial de actualizaciones…">
@@ -137,7 +137,7 @@ available. -->
 
 <!ENTITY performance.label               "Rendimiento">
 <!ENTITY useRecommendedPerformanceSettings2.label
-                                         "Uso configuración de rendimiento recomendada">
+                                         "Usar configuración de rendimiento recomendada">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Esta configuración se ajusta al hardware y sistema operativo de su computadora.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
