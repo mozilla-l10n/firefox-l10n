@@ -143,7 +143,7 @@ items are mutually exclusive. -->
 <!ENTITY spellAddToDictionary.label     "Toevoegen aan woordenboek">
 <!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellUndoAddToDictionary.label      "Toevoegen aan woordenboek ongedaan maken">
-<!ENTITY spellUndoAddToDictionary.accesskey  "n">
+<!ENTITY spellUndoAddToDictionary.accesskey  "r">
 <!ENTITY spellIgnoreWord.label          "Woord negeren">
 <!ENTITY spellIgnoreWord.accesskey      "W">
 <!ENTITY spellCheckEnable.label         "Spelling controleren">
