@@ -19,6 +19,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
+<!ENTITY changeBlockList2.label               "నిషేధిత జాబితాను మార్చు…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "ఇంకా తెలుసుకోండి">
