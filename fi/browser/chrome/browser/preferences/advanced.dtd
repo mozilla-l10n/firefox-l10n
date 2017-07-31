@@ -31,7 +31,10 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "Lue lisää">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "Tietosuojakäytäntö">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Salli, että &brandShortName; lähettää kaatumisilmoitukset Mozillalle">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "e">
 <!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
 <!ENTITY networkTab.label                "Verkko">
@@ -83,9 +86,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Pidä &brandShortName; ajan tasalla parhaan suorituskyvyn, vakauden ja turvallisuuden vuoksi.">
 <!ENTITY updateApplication.version.pre   "Versio ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName;in päivitystapa">
+<!ENTITY updateAuto3.label               "Asenna päivitykset automaattisesti (suositellaan)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Hae päivitykset, mutta anna sinun päättää asennetaanko ne">
 <!ENTITY updateCheckChoose2.accesskey    "e">
 <!ENTITY updateManual2.label             "Älä hae päivityksiä (ei suositella)">
@@ -119,6 +126,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "k">
 <!ENTITY enableOCSP.label                "Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta">
 <!ENTITY enableOCSP.accesskey            "C">
+<!ENTITY viewCerts2.label                "Näytä varmenteet…">
+<!ENTITY viewCerts2.accesskey            "y">
+<!ENTITY viewSecurityDevices2.label      "Turvallisuuslaitteet…">
+<!ENTITY viewSecurityDevices2.accesskey  "T">
 
 <!ENTITY performance.label               "Suorituskyky">
 <!ENTITY useRecommendedPerformanceSettings2.label
