@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Taγellist">
 <!ENTITY  phishingProtection.label       "Ammesten mgal asfuɣel">
 
-<!ENTITY  warnOnAddonInstall.label        "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar ">
-<!ENTITY  warnOnAddonInstall.accesskey    "L">
+<!ENTITY  warnOnAddonInstall2.label       "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar">
+<!ENTITY  warnOnAddonInstall2.accesskey   "B">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Tiferka &amp; akked awalen uffiren">
 
-<!ENTITY  rememberLogins1.label          "Cfu γef unekcum neγ awal uffir i yismal">
-<!ENTITY  rememberLogins1.accesskey      "Γ">
+<!ENTITY  rememberLogins2.label         "Cfu γef unekcum neγ awal uffir i yismal web">
+<!ENTITY  rememberLogins2.accesskey     "Z">
 <!ENTITY  passwordExceptions.label      "Tisuraf…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 

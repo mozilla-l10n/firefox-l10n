@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Snifel ismenyifen i yisumar n umsedday n unadi…">
 <!ENTITY  suggestionSettings.accesskey  "n">
 
-<!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yismal-a">
-<!ENTITY  acceptCookies.accesskey       "Q">
+<!ENTITY  acceptCookies2.label          "Qbel inagan n tuqqna n yismal-agi">
+<!ENTITY  acceptCookies2.accesskey      "S">
 
 <!ENTITY  acceptThirdParty.pre.label      "Qbel inagan n tuqqna n wis kraḍ:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Q">

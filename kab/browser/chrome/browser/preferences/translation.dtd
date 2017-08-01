@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Ur d-tettwasumar ara tsuqilt i yismal-a:">
-<!ENTITY treehead.siteName.label          "Ismal web">
+<!ENTITY treehead.siteName2.label         "Ismal web">
 <!ENTITY removeSite.label                 "Kkes asmel">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Kkes akk ismal">

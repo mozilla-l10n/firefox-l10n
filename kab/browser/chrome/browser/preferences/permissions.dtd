@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Tisuraf">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Asmel web">
+<!ENTITY treehead.sitename2.label     "Asmel Web">
 <!ENTITY treehead.status.label        "Addad">
-<!ENTITY removepermission.label       "Kkes asmel web">
-<!ENTITY removepermission.accesskey   "K">
-<!ENTITY removeallpermissions.label   "Kkes akk ismal web">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removepermission2.label      "Kkes asmel web">
+<!ENTITY removepermission2.accesskey  "Z">
+<!ENTITY removeallpermissions2.label  "Kkes akk ismal web">
+<!ENTITY removeallpermissions2.accesskey "w">
 <!ENTITY address.label                "Tansa n usmel web.">
 <!ENTITY address.accesskey            "T">
 <!ENTITY block.label                  "Sewḥel">
