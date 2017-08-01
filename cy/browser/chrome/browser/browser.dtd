@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 
-<!ENTITY sendToDevice.label2 "Anfon i Ddyfais">
-<!ENTITY sendToDevice.viewTitle "Anfon i Ddyfais">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
