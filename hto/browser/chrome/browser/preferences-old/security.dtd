@@ -21,8 +21,7 @@
 
 <!ENTITY  logins.label                  "Taɨnede">
 
-<!ENTITY  rememberLogins.label          "Bíe yuamo úibiri">
-<!ENTITY  rememberLogins.accesskey      "B">
+
 <!ENTITY  passwordExceptions.label      "Jɨ́aɨmakɨ…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 

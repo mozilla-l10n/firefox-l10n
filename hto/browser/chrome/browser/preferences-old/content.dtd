@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Ráfue yote">
 <!ENTITY  notificationsPolicyLearnMore.label   "Aiyo ráfue">
-<!ENTITY  notificationsPolicyDesc3.label       "Íyano nɨze ráfue óreyena">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "z">
 <!ENTITY  notificationsPolicyButton.label      "Nɨzede...">
 <!ENTITY  notificationsDoNotDisturb.label      "Kúemo éroñeno">

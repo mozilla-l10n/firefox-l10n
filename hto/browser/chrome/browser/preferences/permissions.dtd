@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Kúena dama jananɨaɨ">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Íyano">
 <!ENTITY treehead.status.label        "Táɨnia">
-<!ENTITY removepermission.label       "Íyano óni óte">
-<!ENTITY removepermission.accesskey   "Í">
-<!ENTITY removeallpermissions.label   "Nana&amp; íyano óni óte">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Web íyano:">
 <!ENTITY address.accesskey            "W">
 <!ENTITY block.label                  "Ɨ́baika">
