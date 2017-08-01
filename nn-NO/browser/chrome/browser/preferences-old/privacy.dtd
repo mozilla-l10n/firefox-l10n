@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Endre innstillingar for forslag frå søkemotoren…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Tillat infokapslar">
-<!ENTITY  acceptCookies.accesskey       "T">
+<!ENTITY  acceptCookies2.label          "Godta infokapslar frå nettsider">
+<!ENTITY  acceptCookies2.accesskey      "G">
 
 <!ENTITY  acceptThirdParty.pre.label      "Tillat infokapslar frå tredjepart:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "T">

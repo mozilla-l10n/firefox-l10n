@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-<!ENTITY  warnOnAddonInstall.label        "Åtvar meg når nettstadar prøver å installere programtillegg">
-<!ENTITY  warnOnAddonInstall.accesskey    "Å">
+<!ENTITY  warnOnAddonInstall2.label       "Åtvar meg når nettsider vil installere utvidingar">
+<!ENTITY  warnOnAddonInstall2.accesskey   "Å">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Innloggingar">
 
-<!ENTITY  rememberLogins.label          "Hugs innlogging for nettstadar">
-<!ENTITY  rememberLogins.accesskey      "H">
+<!ENTITY  rememberLogins2.label         "Hugs innloggingar for nettsider">
+<!ENTITY  rememberLogins2.accesskey     "H">
 <!ENTITY  passwordExceptions.label      "Unntak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

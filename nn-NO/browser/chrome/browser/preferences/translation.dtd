@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Omsetting vert ikkje tilbydd for følgjande nettsider:">
-<!ENTITY treehead.siteName.label          "Nettstadar">
+<!ENTITY treehead.siteName2.label         "Nettsider">
 <!ENTITY removeSite.label                 "Fjern nettstad">
 <!ENTITY removeSite.accesskey             "F">
 <!ENTITY removeAllSites.label             "Fjern alle nettstadar">
