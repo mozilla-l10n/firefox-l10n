@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Seguretat">
 <!ENTITY  phishingProtection.label       "Protecció contra la pesca electrònica (phishing)">
 
-<!ENTITY  warnOnAddonInstall.label        "Avisa quan els llocs web intentin instal·lar complements">
-<!ENTITY  warnOnAddonInstall.accesskey    "i">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Formularis i contrasenyes">
 
-<!ENTITY  rememberLogins1.label          "Recorda les dades d'inici de sessió i contrasenyes dels llocs">
-<!ENTITY  rememberLogins1.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
