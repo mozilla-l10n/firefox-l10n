@@ -44,6 +44,7 @@
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies2.label          "Dovoli spletnim stranem, da ustvarijo piškotke">
+<!ENTITY  acceptCookies2.accesskey      "S">
 
 <!ENTITY  acceptThirdParty.pre.label      "Sprejemaj piškotke tretjih strani:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "r">
