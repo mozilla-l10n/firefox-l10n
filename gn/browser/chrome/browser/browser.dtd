@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
 
-<!ENTITY sendToDevice.label2 "Emondo Mba'e'okápe">
-<!ENTITY sendToDevice.viewTitle "Emondo Mba'e'okápe">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "Mba'e'oka ñembojuehe…">

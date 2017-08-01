@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Marandu'i">
 <!ENTITY  notificationsPolicyLearnMore.label   "Kuaave">
-<!ENTITY  notificationsPolicyDesc3.label       "Eiporavo mba'e tendápa oñemoneĩ omondóvo ndéve marandu'i">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Poravo…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ani chemyangekói">

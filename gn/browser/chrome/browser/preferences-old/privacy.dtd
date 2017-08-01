@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Jerohoryvéva jehekaha mongu'eha je'epyre mombue…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Kookie moneĩ">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Emoneĩ kookie ambue mba'éva:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
