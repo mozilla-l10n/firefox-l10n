@@ -308,10 +308,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Kentitani ch\u0027éeti ampek\u0027u énkari wéntaaka">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kéntitakuariaati méntku ísï énkari \u0022Wéntani\u0022 erakuaaka">
 <!ENTITY pref_clear_on_exit_dialog_title "Eraku amperisï ampentarhio">
-<!ENTITY pref_plugins "kúntakwa">
-<!ENTITY pref_plugins_enabled "Étskuntskataecha">
-
-<!ENTITY pref_plugins_disabled "P\u0027átakateecha">
 
 <!ENTITY pref_restore_always "Jatsiintskwarhikwa">
 <!ENTITY pref_restore_quit "Énkari wéntaaka ásï pentsi &brandShortName; -ni éska na jápka">
@@ -478,6 +474,7 @@
 <!ENTITY page_removed "Eranharitakua kentitanhastia">
 
 <!ENTITY bookmark_edit_title "Kuirutsekatani ma únharita">
+
 <!ENTITY bookmark_edit_name "Jakankurhikwa">
 <!ENTITY bookmark_edit_location "Nani jarhaski">
 <!ENTITY bookmark_edit_keyword "Mítentskua">
@@ -542,6 +539,9 @@
      title of a dialog; we expect more than one device. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 
 
