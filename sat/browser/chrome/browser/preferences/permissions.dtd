@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "बादाक् को">
 
 
-<!ENTITY treehead.sitename.label      "साइट">
 <!ENTITY treehead.status.label        "दोसा ">
-<!ENTITY removepermission.label       "साइट ओचोग मे  (R)">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "जोतो साइट को ओचोग मे   (e)">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "वेब साइट रेयाक् ठिका़ना:  (d)">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "आकोट  (B)">

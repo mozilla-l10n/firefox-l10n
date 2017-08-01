@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "तोरजोमा दो नोवा को साइट ला़गित् एमोकेआ :">
-<!ENTITY treehead.siteName.label          "साइटस को">
+
 <!ENTITY removeSite.label                 "साइच ओचोग मे ( S).">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "जोतो साइट को ओचोग में(i) .">
