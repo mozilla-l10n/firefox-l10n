@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Glan ag am scortha">
 <!ENTITY pref_clear_on_exit_summary2 "Bánófar &brandShortName; do chuid sonraí pearsanta nuair a roghnóidh tú \u0022Scoir\u0022 ón bpríomhroghchlár">
 <!ENTITY pref_clear_on_exit_dialog_title "Roghnaigh na sonraí le glanadh">
-<!ENTITY pref_plugins "Forlíontáin">
-<!ENTITY pref_plugins_enabled "Cumasaithe">
-<!ENTITY pref_plugins_tap_to_play2 "Brúigh agus spraoi">
-<!ENTITY pref_plugins_disabled "Díchumasaithe">
 <!ENTITY pref_restore_tabs "Athchóirigh cluaisíní">
 <!ENTITY pref_restore_always "Athchóirigh i gcónaí">
 <!ENTITY pref_restore_quit "Ná hathchóirigh tar éis scor ó &brandShortName;">
