@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Kwanya woko ki kany!">
 <!ENTITY safeb.palm.decline.label "Caa woko cik man">
 <!ENTITY safeb.palm.reportPage.label "Pingo kigengo potbuk man woko?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 <!ENTITY safeb.blocked.malwarePage.title "Mino ngec pi Pot buk ma Kicobo woko!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

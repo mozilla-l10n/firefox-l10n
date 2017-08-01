@@ -354,10 +354,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Jwa data me mung inge kato woko">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; pire kene bi jwayo data ni tekke i yero \u0022Quit\u0022 ki i jami ayera mapire tek">
 <!ENTITY pref_clear_on_exit_dialog_title "Yer data mene me ajwaya">
-<!ENTITY pref_plugins "Rwaki iyie">
-<!ENTITY pref_plugins_enabled "Kicako">
-<!ENTITY pref_plugins_tap_to_play2 "Gudi me tuko">
-<!ENTITY pref_plugins_disabled "Kijuko woko">
 <!ENTITY pref_restore_tabs "Dwok dirica matino">
 <!ENTITY pref_restore_always "Pol kare dwoki">
 <!ENTITY pref_restore_quit "Pe idwok inge weko &brandShortName;">
@@ -541,6 +537,7 @@
 <!ENTITY page_removed "Kikwanyo woko pot buk">
 
 <!ENTITY bookmark_edit_title "Yub Alama buk">
+
 <!ENTITY bookmark_edit_name "Nying">
 <!ENTITY bookmark_edit_location "Kabedo">
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
@@ -617,6 +614,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Nyut nyonyo ma kiyero gi">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Dirica matino na gi ocito kwene?">
 <!ENTITY remote_tabs_panel_moved_desc "Wa kobo dirica matino ni ki i nyonyo mukene i dirica ma tye i potbuk me gangi ma kitwero nongo ma yot cawa weng ma iyabo dirica matidi manyen.">
