@@ -225,12 +225,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovat překlad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Správa využívání softwaru DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Zakázali jste této stránce přístup k vaší kameře.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Zakázali jste této stránce přístup k vašemu mikrofonu.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Zakázali jste této stránce sdílení vaší obrazovky.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Zakázali jste této stránce zjišťovat vaši polohu.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Zakázali jste této stránce ukládat data do vašeho počítače.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Zakázali jste této stránce zobrazovat oznámení.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tomuto serveru jste zablokovali přístup k vaší kameře.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tomuto serveru jste zablokovali přístup k vašemu mikrofonu.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Tomuto serveru jste zablokovali sdílení vaší obrazovky.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tomuto serveru jste zablokovali zjišťovat vaši polohu.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tomuto serveru jste zablokovali ukládání dat do vašeho počítače.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tomuto serveru jste zablokovali zobrazovat oznámení.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Této stránce jste zakázali ukládat data natrvalo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
@@ -764,11 +764,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Vaše připojení k tomuto serveru používá slabé šifrování a není soukromé.">
 <!ENTITY identity.description.weakCipher2 "Ostatní lidé mohou vidět vaše informace nebo pozměnit chování stránky.">
 <!ENTITY identity.description.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
-<!ENTITY identity.description.passiveLoaded "Vaše připojení není soukromé a informace, které sdílíte s tímto webem, mohou být viděny ostatními.">
+<!ENTITY identity.description.passiveLoaded "Vaše připojení není soukromé a informace, které sdílíte s tímto serverem, mohou být viděny ostatními.">
 <!ENTITY identity.description.passiveLoaded2 "Tato webová stránka obsahuje obsah, který není zabezpečen (například obrázky).">
 <!ENTITY identity.description.passiveLoaded3 "Ačkoli aplikace &brandShortName; zablokovala nějaký obsah, stránka stále ještě obsahuje nezabezpečený obsah (například obrázky).">
 <!ENTITY identity.description.activeLoaded "Tato webová stránka obsahuje obsah, který není zabezpečen (například skripty), a připojení k tomuto serveru tak není soukromé.">
-<!ENTITY identity.description.activeLoaded2 "Informace, které sdílíte s touto stránkou (jako hesla, zprávy, číslo kreditní karty, atd.), mohou být viděny ostatními.">
+<!ENTITY identity.description.activeLoaded2 "Informace, které sdílíte s tímto serverem (jako hesla, zprávy, číslo kreditní karty, atd.), mohou být viděny ostatními.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povolit ochranu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
