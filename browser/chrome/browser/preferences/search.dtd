@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Типовий засіб пошуку">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Виберіть свій типовий засіб пошуку. &brandShortName; використовує його в панелі адреси, панелі пошуку та на початковій сторінці.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Оберіть типовий пошуковий засіб для використання в панелях адреси і пошуку.">
 
 <!ENTITY provideSearchSuggestions.label        "Показувати пошукові пропозиції">
 <!ENTITY provideSearchSuggestions.accesskey    "і">
 
-<!ENTITY showURLBarSuggestions.label           "Показувати пошукові пропозиції в результатах панелі адреси">
-<!ENTITY showURLBarSuggestions.accesskey       "П">
+<!ENTITY showURLBarSuggestions2.label           "Показувати пошукові пропозиції в результатах панелі адреси">
+<!ENTITY showURLBarSuggestions2.accesskey       "ш">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували &brandShortName; ніколи не запам'ятовувати історію.">
 
 <!ENTITY oneClickSearchEngines.label           "Засоби пошуку в один клік">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Панель пошуку дозволяє вам напряму використовувати альтернативні засоби пошуку. Виберіть, який з них показувати.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Оберіть альтернативні пошукові засоби, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.">
 
 <!ENTITY engineNameColumn.label                "Засіб пошуку">
 <!ENTITY engineKeywordColumn.label             "Скорочення">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Прибрати">
 <!ENTITY removeEngine.accesskey                "б">
 
-<!ENTITY addMoreSearchEngines2.label           "Додати інші засоби пошуку">
+<!ENTITY findMoreSearchEngines.label           "Знайти інші засоби пошуку">
