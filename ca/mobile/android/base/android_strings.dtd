@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Neteja les dades privades en sortir">
 <!ENTITY pref_clear_on_exit_summary2 "El &brandShortName; netejarà automàticament les vostres dades quan seleccioneu «Surt» en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccioneu quines dades cal netejar">
-<!ENTITY pref_plugins "Connectors">
-<!ENTITY pref_plugins_enabled "Habilitats">
-<!ENTITY pref_plugins_tap_to_play2 "Toca per iniciar-los">
-<!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_restore_tabs "Restaura les pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
 <!ENTITY pref_restore_quit "No les restauris en sortir del &brandShortName;">
