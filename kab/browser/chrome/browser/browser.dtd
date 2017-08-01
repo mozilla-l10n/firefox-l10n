@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt nniḍen akken ad tleqmeḍ&brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
+<!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
+<!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
 
 <!ENTITY sendToDevice.label2 "Azen ɣer yibenk">
-<!ENTITY sendToDevice.viewTitle "Azen ɣer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
