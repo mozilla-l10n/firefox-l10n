@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Voorkeuren voor zoekmachinesuggesties wijzigen…">
 <!ENTITY  suggestionSettings.accesskey  "m">
 
-<!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
-<!ENTITY  acceptCookies.accesskey       "C">
+<!ENTITY  acceptCookies2.label          "Cookies van websites accepteren">
+<!ENTITY  acceptCookies2.accesskey      "C">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookies van derden accepteren:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">

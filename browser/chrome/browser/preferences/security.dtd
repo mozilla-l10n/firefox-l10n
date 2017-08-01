@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Beveiliging">
 <!ENTITY  phishingProtection.label       "Phishing-bescherming">
 
-<!ENTITY  warnOnAddonInstall.label        "Waarschuwen wanneer websites add-ons proberen te installeren">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "Waarschuwen wanneer websites add-ons proberen te installeren">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulieren &amp; Wachtwoorden">
 
-<!ENTITY  rememberLogins1.label          "Aanmeldingen en wachtwoorden voor websites onthouden">
-<!ENTITY  rememberLogins1.accesskey      "o">
+<!ENTITY  rememberLogins2.label         "Aanmeldingen en wachtwoorden voor websites onthouden">
+<!ENTITY  rememberLogins2.accesskey     "o">
 <!ENTITY  passwordExceptions.label      "Uitzonderingen…">
 <!ENTITY  passwordExceptions.accesskey  "t">
 
