@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Zmeniť nastavenia pre návrhy vyhľadávania">
 
-<!ENTITY  acceptCookies.label           "Povoliť serverom nastavovať cookies">
-<!ENTITY  acceptCookies.accesskey       "s">
+<!ENTITY  acceptCookies2.label          "Povoliť cookies webových stránok">
+<!ENTITY  acceptCookies2.accesskey      "o">
 
 <!ENTITY  acceptThirdParty.pre.label      "Povoliť cookies tretích strán:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

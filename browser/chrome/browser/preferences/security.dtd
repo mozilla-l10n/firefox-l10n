@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Bezpečnosť">
 <!ENTITY  phishingProtection.label       "Ochrana pred phishingom">
 
-<!ENTITY  warnOnAddonInstall.label        "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
-<!ENTITY  warnOnAddonInstall.accesskey    "U">
+<!ENTITY  warnOnAddonInstall2.label       "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
+<!ENTITY  warnOnAddonInstall2.accesskey   "U">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formuláre a heslá">
 
-<!ENTITY  rememberLogins1.label          "Pamätať si používateľské mená a heslá na stránkach">
-<!ENTITY  rememberLogins1.accesskey      "a">
+<!ENTITY  rememberLogins2.label         "Pamätať si používateľské mená a heslá na stránkach">
+<!ENTITY  rememberLogins2.accesskey     "t">
 <!ENTITY  passwordExceptions.label      "Výnimky…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
