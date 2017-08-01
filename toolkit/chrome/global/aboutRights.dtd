@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point2.5 "Mõned &brandShortName;i komponendid, nagu näiteks vigadest teatamise rakendus, annavad sulle võimaluse saata tagasisidet &vendorShortName;le. Valides tagasiside saatmise kasuks, annad sa &vendorShortName;le õiguse kasutada seda tagasisidet toote täiustamiseks, tagasiside avaldamiseks veebilehel ja tagasiside edasijagamiseks.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Kuidas me sinu läbi &brandShortName;i &vendorShortName;le edastatud isiklikku infot ja tagasisidet kasutame on ära kirjeldatud ">
+<!ENTITY rights2.intro-point3a "Kuidas me sinu läbi &brandShortName;i &vendorShortName;le edastatud isiklikku infot ja tagasisidet kasutame, on ära kirjeldatud ">
 <!ENTITY rights2.intro-point3b "&brandShortName;i privaatsuse reeglites">
 <!ENTITY rights.intro-point3c ".">
 
@@ -86,6 +86,6 @@
 <!ENTITY rights2.webservices-term3 "Oled teretulnud kasutama neid teenuseid kaasneva &brandShortName;i versiooniga ja &vendorShortName; annab sulle selleks oma õigused.  &vendorShortName; ja selle litsentsiaarid on kaitsnud kõik muud teenuste õigused.  Need tingimused ei ole mõeldud piirama mistahes õigusi, mis on tagatud  &brandShortName;ile ja vastavale &brandShortName;i lähtekoodi versioonile rakenduvate avatud koodi litsentsidega.">
 <!ENTITY rights.webservices-term4 "Teenuseid osutatakse &quot;nii, nagu nad on&quot; ning &vendorShortName;, selle kaasautorid, litsentsiaarid ja levitajad ütlevad lahti igasugustest garantiidest, nii otsestest kui kaudsetest, sealhulgas ilma piiranguta garantiist, et teenused on turustatavad ja sobivad sinu vajadustele. Sa kannad kogu riski oma vajadustele vastavate teenuste valimise ning nende kvaliteedi ja toimimise eest. Mõnes õigusruumis ei ole kaudsete garantiide välistamine või piiramine lubatud; sel juhul ei pruugi lahtiütlus sinu kohta kehtida.">
 <!ENTITY rights.webservices-term5 "Kui seadusega ei ole teisiti ette nähtud, ei vastuta &vendorShortName;, selle kaasautorid, litsentsiaarid ega levitajad mitte mingisuguse kaudse, erakordse, ettenägematu ega millestki muust tulenenud rahalist hüvitust või hoiatust nõudva kahju eest, mis võib tekkida &brandShortName;i ja selle teenuste kasutamisest või on mingil viisil seotud nende kasutamisega. Nende tingimuste kohane kollektiivne vastutus ei ületa 500 dollarit. Mõnes õigusruumis ei ole teatud kahjude välistamine või piiramine lubatud; sel juhul ei pruugi see välistamine ja piiramine sinu kohta kehtida.">
-<!ENTITY rights.webservices-term6 "&vendorShortName; võib neid tingimusi vajadusel aegajalt muuta. Tingimuste muutmine või nendest loobumine &vendorShortName; kirjaliku loata on keelatud.">
+<!ENTITY rights.webservices-term6 "&vendorShortName; võib neid tingimusi vajadusel aeg-ajalt muuta. Tingimuste muutmine või nendest loobumine &vendorShortName; kirjaliku loata on keelatud.">
 <!ENTITY rights.webservices-term7 "Need tingimused vastavad USA California osariigi seadustele, mis välistab konflikti seadustega. Kui mingi osa neist tingimustest osutub kehtetuks või ei ole jõustatavad, jäävad teised osad täielikult jõusse. Konflikti korral nende tingimuste tõlgitud ja ingliskeelse versiooni vahel kehtib ingliskeelne
 versioon.">
