@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "常规">
 
-<!ENTITY  warnOnAddonInstall.label        "站点尝试安装附加组件时询问我">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "当网站尝试安装附加组件时警告您">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "登录信息">
 
-<!ENTITY  rememberLogins.label          "记住网站登录信息">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "记住网站的登录信息">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "例外…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
