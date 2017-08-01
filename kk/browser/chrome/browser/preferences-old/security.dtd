@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Жалпы">
 
-<!ENTITY  warnOnAddonInstall.label        "Вебсайттар кеңейтулерді орнатқысы келсе, ескерту">
-<!ENTITY  warnOnAddonInstall.accesskey    "В">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Логиндер">
 
-<!ENTITY  rememberLogins.label          "Сайттар үшін логиндерді сақтау">
-<!ENTITY  rememberLogins.accesskey      "т">
+
 <!ENTITY  passwordExceptions.label      "Ережелерден бөлек…">
 <!ENTITY  passwordExceptions.accesskey  "р">
 
