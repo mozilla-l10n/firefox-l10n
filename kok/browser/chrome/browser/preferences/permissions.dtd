@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "अपवाद">
 
 
-<!ENTITY treehead.sitename.label      "सायट">
 <!ENTITY treehead.status.label        "स्थिती">
-<!ENTITY removepermission.label       "सायट काडात">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   " सगळ्यो सायटी काडात">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "वेबसायटीचो नामो:">
 <!ENTITY address.accesskey            "व">
 <!ENTITY block.label                  " आडोवपी">
