@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "No s'ofrirá garra traducción en os puestos siguients:">
-<!ENTITY treehead.siteName.label          "Puestos">
+
 <!ENTITY removeSite.label                 "Eliminar o puesto">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Borrar totz os puestos">
