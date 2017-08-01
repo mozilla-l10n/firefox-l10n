@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Susa idatha yabucala xa uphuma">
 <!ENTITY pref_clear_on_exit_summary2 "I-&brandShortName; iya kuyisusa ngokwayo ingcombolo yakho xa ukhetha \u0022Quit\u0022 kwimenyu ephambili">
 <!ENTITY pref_clear_on_exit_dialog_title "Khetha ingcombolo emayisuswe">
-<!ENTITY pref_plugins "Izifakelo">
-<!ENTITY pref_plugins_enabled "Ezenziwe zasebenza">
-<!ENTITY pref_plugins_tap_to_play2 "Cofa ukuze udlale">
-<!ENTITY pref_plugins_disabled "Yenziwe ukuba ingasebenzi">
 <!ENTITY pref_restore_tabs "Buyisela iithebhu">
 <!ENTITY pref_restore_always "Soloko ubuyisela">
 <!ENTITY pref_restore_quit "Musa ukubuyisela izinto emva kuyeka i-&brandShortName;">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "Ikhasi lisusiwe">
 
 <!ENTITY bookmark_edit_title "Hlela isalathisi esiphawulayo">
+
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
 <!ENTITY bookmark_edit_keyword "Igama eliphambili">
@@ -624,6 +621,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Izixhobo ezikhethiweyo ezingafihlwanga">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Ziyephi iithebhu zam?">
 <!ENTITY remote_tabs_panel_moved_desc "Sizisusile iithebhu zakho ukusuka kwezinye izixhobo sazisa kwipheneli ekwikhasi lakho lasekhaya engafikeleleka lula ngalo lonke ixesha uvula ithebhu yewebhu.">
