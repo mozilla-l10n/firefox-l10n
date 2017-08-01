@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "Б">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Докладніше">
-<!ENTITY  notificationsPolicyDesc3.label       "Оберіть сайти, яким дозволено надсилати вам сповіщення">
+<!ENTITY  notificationsPolicyDesc4.label       "Оберіть сайти, яким дозволено надсилати вам сповіщення">
 <!ENTITY  notificationsPolicyButton.accesskey  "и">
 <!ENTITY  notificationsPolicyButton.label      "Вибрати…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не турбувати мене">
