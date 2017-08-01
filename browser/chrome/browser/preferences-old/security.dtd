@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Geral">
 
-<!ENTITY  warnOnAddonInstall.label        "Avisar-lhe quando os sites tentarem instalar extras">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Avisar-lhe quando os websites tentam instalar extras">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Credenciais">
 
-<!ENTITY  rememberLogins.label          "Memorizar credenciais para sites">
-<!ENTITY  rememberLogins.accesskey      "M">
+<!ENTITY  rememberLogins2.label         "Memorizar credenciais para websites">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

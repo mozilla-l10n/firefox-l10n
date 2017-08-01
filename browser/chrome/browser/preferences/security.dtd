@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Segurança">
 <!ENTITY  phishingProtection.label       "Proteção de Phishing">
 
-<!ENTITY  warnOnAddonInstall.label        "Avisar-lhe quando os sites tentarem instalar extras">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Avisar-lhe quando os websites tentam instalar extras">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulários e palavras-passe">
 
-<!ENTITY  rememberLogins1.label          "Memorizar credenciais e palavras-passe para sites">
-<!ENTITY  rememberLogins1.accesskey      "r">
+<!ENTITY  rememberLogins2.label         "Memorizar credenciais e palavras-passe para websites">
+<!ENTITY  rememberLogins2.accesskey     "r">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
