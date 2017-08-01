@@ -5,6 +5,7 @@
 <!ENTITY  security.label                 "Varnost">
 <!ENTITY  phishingProtection.label       "Zaščita pred ribarjenjem">
 
+<!ENTITY  warnOnAddonInstall2.label       "Opozori, ko bodo spletne strani poskušale namestiti dodatke">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

@@ -7,6 +7,8 @@
 
 <!ENTITY treehead.sitename2.label     "Spletna stran">
 <!ENTITY treehead.status.label        "Stanje">
+<!ENTITY removepermission2.label      "Odstrani spletno stran">
+<!ENTITY removeallpermissions2.label  "Odstrani vse spletne strani">
 <!ENTITY address.label                "Naslov strani:">
 <!ENTITY address.accesskey            "N">
 <!ENTITY block.label                  "Prepovej">
