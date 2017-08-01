@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Saber más">
-<!ENTITY  notificationsPolicyDesc3.label       "Elegir cuales sitios tienen permiso para enviarte notificaciones">
+<!ENTITY  notificationsPolicyDesc4.label       "Elegir que sitios web tienen permiso de enviarte notificaciones">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Seleccionar…">
 <!ENTITY  notificationsDoNotDisturb.label      "No me molestes">
