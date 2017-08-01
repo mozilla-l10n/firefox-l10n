@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Varsel">
 <!ENTITY  notificationsPolicyLearnMore.label   "Les meir">
-<!ENTITY  notificationsPolicyDesc3.label       "Vel kva for nettstad som har løyve til å sende deg varsel">
+<!ENTITY  notificationsPolicyDesc4.label       "Vel kva for nettsider som har løyve til å sende deg varsel">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Vel…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ikkje forstyrr meg">
