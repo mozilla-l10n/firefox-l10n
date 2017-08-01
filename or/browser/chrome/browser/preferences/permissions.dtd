@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "ବ୍ୟତିକ୍ରମଗୁଡ଼ିକ">
 
 
-<!ENTITY treehead.sitename.label      "ସାଇଟ">
 <!ENTITY treehead.status.label        "ଅବସ୍ଥିତି">
-<!ENTITY removepermission.label       "ସାଇଟ ହଟାନ୍ତୁ">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "ସମସ୍ତ ସାଇଟଗୁଡ଼ିକୁ ହଟାନ୍ତୁ">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "ୱେବ ସାଇଟର ଠିକଣା:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ବ୍ଲକ">
