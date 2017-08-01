@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Očisti privatne podatke prilikom izlaza">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski očistiti vaše podatke svaki puta kada odaberete \u0022Izlaz\u0022 u glavnom izborniku">
 <!ENTITY pref_clear_on_exit_dialog_title "Odaberite koje podatke očistiti">
-<!ENTITY pref_plugins "Priključci">
-<!ENTITY pref_plugins_enabled "Omogućeno">
-<!ENTITY pref_plugins_tap_to_play2 "Pritisnite za pokretanje">
-<!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_restore_tabs "Vrati kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;">
