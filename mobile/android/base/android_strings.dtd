@@ -357,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Momtu keɓe cuuriiɗe so aɗa yalta">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; maa momtu e jaajol tuma kala nde labi-ɗaa  \0022Yaltu\u0022 e dosol dowrowol ngol">
 <!ENTITY pref_clear_on_exit_dialog_title "Labo keɓe momteteeɗe">
-<!ENTITY pref_plugins "Ceŋe">
-<!ENTITY pref_plugins_enabled "Hurminaama">
-<!ENTITY pref_plugins_tap_to_play2 "Mem ɗoo tarde">
-<!ENTITY pref_plugins_disabled "Daaƴaama">
 <!ENTITY pref_restore_tabs "Artir tabbe">
 <!ENTITY pref_restore_always "Artir sahaa kala">
 <!ENTITY pref_restore_quit "Hoto artir caggal jaltugol &brandShortName;">
@@ -539,6 +535,7 @@
 <!ENTITY page_removed "Hello momtaama">
 
 <!ENTITY bookmark_edit_title "Taƴto Maantorol">
+
 <!ENTITY bookmark_edit_name "Innde">
 <!ENTITY bookmark_edit_location "Nokkuure">
 <!ENTITY bookmark_edit_keyword "Helmere yiylorde">
@@ -615,6 +612,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Suuɗtu kaɓirɗi labaaɗi ɗii">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Hoto tabbe am ngoni?">
 <!ENTITY remote_tabs_panel_moved_desc "Min ndirtinii tabbe maa iwɗe e kaɓirɗi goɗɗi fayde e alluwal e hello jaɓɓorgo maa baawbgal heɓaade tuma kala nde uddit-ɗaa tabbere hesere.">
