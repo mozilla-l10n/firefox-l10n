@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Kisal">
 
 
-<!ENTITY  warnOnAddonInstall.label        "Reentin am so lowe ina etoo aafde ɓeyditte">
-<!ENTITY  warnOnAddonInstall.accesskey    "R">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; pinle">
 
-<!ENTITY  rememberLogins1.label          "Siiftor baccooje e pinle lowe">
-<!ENTITY  rememberLogins1.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 

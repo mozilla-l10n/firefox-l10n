@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Waylu cuɓoraaɗe basiye yiylorde…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
-<!ENTITY  acceptCookies.accesskey       "J">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Jaɓ kukiiji jiggaaɗi:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
