@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "সাধারণ">
 
-<!ENTITY  warnOnAddonInstall.label        "আপনাকে সতর্ক করা হবে যখন কোন সাইট অ্যাড-অন ইনস্টল করার চেষ্টা করবে।">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "লগইন">
 
-<!ENTITY  rememberLogins.label          "সাইটের জন্য লগইন মনে রাখুন R">
-<!ENTITY  rememberLogins.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
