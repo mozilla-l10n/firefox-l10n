@@ -14,8 +14,10 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "ટ્રૅક કરી રહ્યા છે">
+<!ENTITY trackingProtectionPBM5.label         "ખાનગી વિન્ડોઝમાં ટ્રેકિંગ પ્રોટેક્શનનો ઉપયોગ કરો">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
+<!ENTITY changeBlockList.label          "બ્લોક સૂચિ બદલો">
 <!ENTITY changeBlockList.accesskey      "C">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
@@ -37,8 +39,6 @@
 
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
-<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">

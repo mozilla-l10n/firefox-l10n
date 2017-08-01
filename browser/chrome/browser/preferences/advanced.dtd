@@ -90,9 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "શ્રેષ્ઠ પ્રદર્શન, સ્થિરતા અને સુરક્ષા માટે &brandShortName; અધતન રાખો.">
 <!ENTITY updateApplication.version.pre   "આવૃત્તિ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "મંજૂરી આપો &brandShortName; માટે">
+<!ENTITY updateAuto3.label               "આપમેળે સુધારા ઇન્સ્ટોલ કરો (ભલામણ કરેલ)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "સુધારાઓ માટે ચકાસો પરંતુ તમે તેમને સ્થાપિત કરવા માટે પસંદ કરી દો">
 <!ENTITY updateCheckChoose2.accesskey    "C">
@@ -127,6 +130,7 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો">
 <!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "પ્રમાણપત્રો જુઓ…">
 <!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "સુરક્ષા ઉપકરણો…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
