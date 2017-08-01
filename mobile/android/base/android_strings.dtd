@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Személyes adatok törlése kilépéskor">
 <!ENTITY pref_clear_on_exit_summary2 "A &brandShortName; automatikusan törli az adatait, amikor a főmenü \u201eKilépés\u201d pontját választja">
 <!ENTITY pref_clear_on_exit_dialog_title "Válassza ki a törlendő adatokat">
-<!ENTITY pref_plugins "Bővítmények">
-<!ENTITY pref_plugins_enabled "Engedélyezve">
-<!ENTITY pref_plugins_tap_to_play2 "Érintse meg a lejátszáshoz">
-<!ENTITY pref_plugins_disabled "Tiltva">
 <!ENTITY pref_restore_tabs "Lapok visszaállítása">
 <!ENTITY pref_restore_always "Visszaállítás mindig">
 <!ENTITY pref_restore_quit "Ne állítsa vissza a &brandShortName; bezárása után">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "Oldal eltávolítva">
 
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
+
 <!ENTITY bookmark_edit_name "Név">
 <!ENTITY bookmark_edit_location "Hely">
 <!ENTITY bookmark_edit_keyword "Kulcsszó">
@@ -624,6 +621,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Kijelölt eszközök megjelenítése">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Hová tűntek a lapok?">
 <!ENTITY remote_tabs_panel_moved_desc "A más készülékekről származó lapokat a kezdőlap egy paneljére mozgattuk, amely új lap megnyitásakor mindig egyszerűen elérhető.">
