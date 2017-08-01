@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">

@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
-<!ENTITY  notificationsPolicyDesc3.label       "ನಿಮಗೆ ಸೂಚನೆಗಳನ್ನು ಯಾವ ತಾಣಗಳು ಕಳಿಸಬಹುದೆಂದು ಆಯ್ಕೆ ಮಾಡಿ">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "ಆರಿಸಿ…">
 <!ENTITY  notificationsDoNotDisturb.label      "ತೊಂದರೆ ಮಾಡಬೇಡಿ">
