@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Paltooje">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Lowre">
 <!ENTITY treehead.status.label        "Ngonka">
-<!ENTITY removepermission.label       "Momtu Lowre">
-<!ENTITY removepermission.accesskey   "M">
-<!ENTITY removeallpermissions.label   "Momtu Lowe Fof">
-<!ENTITY removeallpermissions.accesskey "o">
+
+
+
+
 <!ENTITY address.label                "Ñiiɓirɗe lowre:">
 <!ENTITY address.accesskey            "i">
 <!ENTITY block.label                  "Falo">

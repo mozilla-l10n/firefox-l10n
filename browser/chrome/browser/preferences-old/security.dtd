@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Kuuɓal">
 
-<!ENTITY  warnOnAddonInstall.label        "Reentin am so lowe ndee ina etoo aafde ɓeyditte">
-<!ENTITY  warnOnAddonInstall.accesskey    "R">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Ceŋorɗe">
 
-<!ENTITY  rememberLogins.label          "Siiftor ceŋorɗe lowe">
-<!ENTITY  rememberLogins.accesskey      "S">
+
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
