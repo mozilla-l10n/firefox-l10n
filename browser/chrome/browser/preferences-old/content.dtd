@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Értesítések">
 <!ENTITY  notificationsPolicyLearnMore.label   "További tudnivalók">
-<!ENTITY  notificationsPolicyDesc3.label       "Válassza ki, mely oldalak küldhetnek értesítéseket">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "T">
 <!ENTITY  notificationsPolicyButton.label      "Tallózás…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne zavarjanak">

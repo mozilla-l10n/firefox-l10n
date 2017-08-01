@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "M">
 
 <!ENTITY noTranslationForSites.label      "A fordítás nem lesz felajánlva ezen oldalakhoz:">
-<!ENTITY treehead.siteName.label          "Oldalak">
+
 <!ENTITY removeSite.label                 "Webhely eltávolítása">
 <!ENTITY removeSite.accesskey             "W">
 <!ENTITY removeAllSites.label             "Minden webhely eltávolítása">

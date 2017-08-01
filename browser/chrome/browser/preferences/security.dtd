@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Biztonság">
 
 
-<!ENTITY  warnOnAddonInstall.label        "Figyelmeztetés kiegészítők telepítése előtt">
-<!ENTITY  warnOnAddonInstall.accesskey    "F">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Űrlapok és jelszavak">
 
-<!ENTITY  rememberLogins1.label          "Felhasználónevek és jelszavak megjegyzése az oldalakhoz">
-<!ENTITY  rememberLogins1.accesskey      "F">
+
 <!ENTITY  passwordExceptions.label      "Kivételek…">
 <!ENTITY  passwordExceptions.accesskey  "v">
 
