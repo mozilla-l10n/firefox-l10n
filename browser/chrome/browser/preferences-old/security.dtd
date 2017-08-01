@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Umum">
 
-<!ENTITY  warnOnAddonInstall.label        "Beri amaran apabila laman cuba memasang add-ons">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Beri amaran apabila laman web cuba memasang add-ons">
+<!ENTITY  warnOnAddonInstall2.accesskey   "B">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Log masuk">
 
-<!ENTITY  rememberLogins.label          "Ingat log masuk untuk laman ini">
-<!ENTITY  rememberLogins.accesskey      "a">
+<!ENTITY  rememberLogins2.label         "Ingat log masuk untuk laman web ini">
+<!ENTITY  rememberLogins2.accesskey     "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "g">
 

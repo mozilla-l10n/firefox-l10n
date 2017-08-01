@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "S">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ketahui selanjutnya">
-<!ENTITY  notificationsPolicyDesc3.label       "Pilih laman yang diberi izin untuk menghantar notifikasi">
+<!ENTITY  notificationsPolicyDesc4.label       "Pilih laman web yang diberi izin untuk menghantar notifikasi">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Pilih…">
 <!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu saya">
