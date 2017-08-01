@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 
-<!ENTITY sendToDevice.label2 "Envia a un dispositiu">
-<!ENTITY sendToDevice.viewTitle "Envia a un dispositiu">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
