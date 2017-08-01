@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Brathan">
 <!ENTITY  notificationsPolicyLearnMore.label   "Barrachd fiosrachaidh">
-<!ENTITY  notificationsPolicyDesc3.label       "Tagh na làraichean aig a bheil cead brathan a chur thugad">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
 <!ENTITY  notificationsPolicyButton.label      "Tagh…">
 <!ENTITY  notificationsDoNotDisturb.label      "Na bris a-steach orm">

@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
-<!ENTITY  acceptCookies.accesskey       "a">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Gabh ri briosgaidean treas pàrtaidh:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "G">

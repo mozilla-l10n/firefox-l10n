@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "o">
 
 <!ENTITY noTranslationForSites.label      "Cha bhi eadar-theangachadh ri làimh air na làraichean a leanas:">
-<!ENTITY treehead.siteName.label          "Làraichean">
+
 <!ENTITY removeSite.label                 "Thoir air falbh an làrach">
 <!ENTITY removeSite.accesskey             "r">
 <!ENTITY removeAllSites.label             "Thoir air falbh a h-uile làrach">
