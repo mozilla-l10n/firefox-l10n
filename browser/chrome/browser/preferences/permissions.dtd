@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Excepții">
 <!ENTITY window.width                 "50em">
 
-<!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Stare">
-<!ENTITY removepermission.label       "Elimină site-ul">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Elimină toate site-urile">
-<!ENTITY removeallpermissions.accesskey "E">
+
+
+
+
 <!ENTITY address.label                "Adresa site-ului web:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blochează">

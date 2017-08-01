@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Schimbă preferințele pentru sugestiile motoarelor de căutare…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Acceptă cookie-uri terțe:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
