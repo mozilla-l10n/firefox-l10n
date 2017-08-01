@@ -144,7 +144,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Input-enheder">
 <!ENTITY aboutSupport.mediaDeviceName "Navn">
 <!ENTITY aboutSupport.mediaDeviceGroup "Gruppe">
-<!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceVendor "Producent">
 <!ENTITY aboutSupport.mediaDeviceState "Tilstand">
 <!ENTITY aboutSupport.mediaDevicePreferred "Foretrukken">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
