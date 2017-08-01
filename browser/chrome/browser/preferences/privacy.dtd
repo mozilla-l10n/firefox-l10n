@@ -46,10 +46,10 @@
 
 <!ENTITY  suggestionSettings2.label     "Изменить настройки для предложений поисковых систем">
 
-<!ENTITY  acceptCookies.label           "Принимать куки с сайтов">
-<!ENTITY  acceptCookies.accesskey       "у">
+<!ENTITY  acceptCookies2.label          "Принимать куки с веб-сайтов">
+<!ENTITY  acceptCookies2.accesskey      "у">
 
-<!ENTITY  acceptThirdParty.pre.label      "Принимать куки со сторонних сайтов:">
+<!ENTITY  acceptThirdParty.pre.label      "Принимать куки со сторонних веб-сайтов:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "н">
 <!ENTITY  acceptThirdParty.always.label   "Всегда">
 <!ENTITY  acceptThirdParty.never.label    "Никогда">
