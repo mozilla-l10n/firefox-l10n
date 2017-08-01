@@ -358,10 +358,6 @@
 <!ENTITY pref_clear_on_exit_title3 "نجی کوائف صاف کریں خروج پر">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \u0022Quit\u0022  منتخب کریں گے">
 <!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
-<!ENTITY pref_plugins "پلگ ان">
-<!ENTITY pref_plugins_enabled "اہل">
-<!ENTITY pref_plugins_tap_to_play2 "کھیلنے کیلئے ٹچ کریں">
-<!ENTITY pref_plugins_disabled "نا اہل">
 <!ENTITY pref_restore_tabs "ٹیبیں بحال کریں">
 <!ENTITY pref_restore_always "ہمیشہ بحال کریں">
 <!ENTITY pref_restore_quit "&brandShortName; کو بند کرنے کے بعد بحال نا کریں">
@@ -543,6 +539,7 @@
 <!ENTITY page_removed "صفحہ ہٹا دیا گیا">
 
 <!ENTITY bookmark_edit_title "نشانی تدوین کریں">
+
 <!ENTITY bookmark_edit_name "نام">
 <!ENTITY bookmark_edit_location "محل وقوع">
 <!ENTITY bookmark_edit_keyword "کلیدی لفظ">
@@ -619,6 +616,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "منتخب آلات چھپانا ختم کریں">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
 <!ENTITY remote_tabs_panel_moved_desc "ہم نے دیگر آلات سے آپ کی ٹیبیں آپ کے ابتدائی صفحہ کے ایک پینل میں منتقل کر دیے ہیں جو کہ آپ کے نئے ٹیب کھولنے پر آسانی سے رسائی پذیر ہے۔">
