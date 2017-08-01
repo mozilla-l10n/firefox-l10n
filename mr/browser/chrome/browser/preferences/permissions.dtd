@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "अपवाद">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "संकेतस्थळ">
 <!ENTITY treehead.status.label        "परीस्थिती">
-<!ENTITY removepermission.label       "साईट काढून टाका">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "सर्व साईट्स काढून टाका">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "संकेतस्थळाचा पत्ता:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "अडवा">

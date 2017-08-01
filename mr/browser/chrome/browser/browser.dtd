@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 
-<!ENTITY sendToDevice.label2 "साधनाकडे पाठवा">
-<!ENTITY sendToDevice.viewTitle "साधनाकडे पाठवा">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
