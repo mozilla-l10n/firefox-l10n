@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Keisti ieškyklių siūlymų nuostatas…">
 <!ENTITY  suggestionSettings.accesskey  "e">
 
-<!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
-<!ENTITY  acceptCookies.accesskey       "L">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Leisti trečiųjų šalių slapukus:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
