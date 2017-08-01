@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Splošno">
 
-<!ENTITY  warnOnAddonInstall.label        "Opozori, ko bodo strani poskušale namestiti dodatke">
-<!ENTITY  warnOnAddonInstall.accesskey    "O">
+<!ENTITY  warnOnAddonInstall2.label       "Opozori, ko bodo spletne strani poskušale namestiti dodatke">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Prijave">
 
-<!ENTITY  rememberLogins.label          "Zapomni si prijave strani">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "Zapomni si prijave spletnih strani">
 <!ENTITY  passwordExceptions.label      "Izjeme …">
 <!ENTITY  passwordExceptions.accesskey  "i">
 
