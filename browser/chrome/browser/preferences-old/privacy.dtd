@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту…">
 <!ENTITY  suggestionSettings.accesskey  "г">
 
-<!ENTITY  acceptCookies.label           "Cookies қабылдау">
-<!ENTITY  acceptCookies.accesskey       "д">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Үшінші жақты cookies қабылдау:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ш">

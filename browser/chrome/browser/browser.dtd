@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 
-<!ENTITY sendToDevice.label2 "Құрылғыға жіберу">
-<!ENTITY sendToDevice.viewTitle "Құрылғыға жіберу">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
