@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "웹 페이지 나가기">
 <!ENTITY safeb.palm.decline.label "경고 무시">
 <!ENTITY safeb.palm.reportPage.label "차단 이유 상세 정보">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "<a id='advisory_provider'/>의 자문을 받음">
 
 <!ENTITY safeb.blocked.malwarePage.title "공격 사이트 보고!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
