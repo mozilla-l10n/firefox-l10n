@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 
-<!ENTITY sendToDevice.label2 "சாதனத்திற்கு அனுப்பு">
-<!ENTITY sendToDevice.viewTitle "சாதனத்திற்கு அனுப்பு">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">

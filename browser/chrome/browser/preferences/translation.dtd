@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "பின்வரும் தளங்களுக்கு மொழி பெயர்ப்பு வழங்கப்பட மாட்டாது:">
-<!ENTITY treehead.siteName.label          "தளங்கள்">
+
 <!ENTITY removeSite.label                 "தளத்தை நீக்கு">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "அனைத்து தளங்களையும் நீக்கு">

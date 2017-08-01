@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "பாதுகாப்பு">
 <!ENTITY  phishingProtection.label       "ஃபிசிங் பாதுகாப்பு">
 
-<!ENTITY  warnOnAddonInstall.label        "வலைத்தளங்கள் துணை நிரல்களை நிறுவ முயற்சிக்கும் போது உங்களை எச்சரிக்கும்">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "படிவங்கள் &amp; கடவுச்சொற்கள்">
 
-<!ENTITY  rememberLogins1.label          "இணைய தளங்களுக்கான பயனர் கடவுச்சொற்களை நினைவுப்படுத்து">
-<!ENTITY  rememberLogins1.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

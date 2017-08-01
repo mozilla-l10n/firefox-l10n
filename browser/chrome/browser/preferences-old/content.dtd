@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "அறிவிப்புகள்">
 <!ENTITY  notificationsPolicyLearnMore.label   "மேலும் அறிய">
-<!ENTITY  notificationsPolicyDesc3.label       "எந்த தளங்கள் உங்களுக்கு அறிவிப்புகளை அனுப்பலாம் என தேர்ந்தெடுக்கவும்">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "தேர்ந்தெடு…">
 <!ENTITY  notificationsDoNotDisturb.label      "தொந்தரவு செய்ய வேண்டாம்">
