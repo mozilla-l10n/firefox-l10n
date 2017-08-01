@@ -5,7 +5,8 @@
 <!ENTITY  security.label                 "Saugumas">
 <!ENTITY  phishingProtection.label       "Apsauga nuo apgaulės">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Įspėti, kai svetainės bando diegti priedus">
+<!ENTITY  warnOnAddonInstall2.accesskey   "t">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formos ir slaptažodžiai">
 
-
+<!ENTITY  rememberLogins2.label         "Atsiminti svetainių prisijungimus">
+<!ENTITY  rememberLogins2.accesskey     "A">
 <!ENTITY  passwordExceptions.label      "Išimtys…">
 <!ENTITY  passwordExceptions.accesskey  "š">
 

@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Pranešimai">
 <!ENTITY  notificationsPolicyLearnMore.label   "Sužinoti daugiau">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Pasirinkite, kurioms svetainėms leidžiate jums siųsti pranešimus">
 <!ENTITY  notificationsPolicyButton.accesskey  "r">
 <!ENTITY  notificationsPolicyButton.label      "Pasirinkti…">
 <!ENTITY  notificationsDoNotDisturb.label      "Netrukdyti manęs">

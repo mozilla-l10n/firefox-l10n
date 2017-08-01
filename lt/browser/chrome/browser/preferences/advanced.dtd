@@ -27,7 +27,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportingDisabled.label   "Duomenų pranešimai yra išjungti šiai darinio sąrankai">
+<!ENTITY healthReportingDisabled.label   "Duomenų siuntimas šiai darinio sąrankai yra išjungtas">
 
 <!ENTITY enableHealthReport1.label       "Leisti „&brandShortName;“ automatiškai siųsti techninius ir naudojimosi duomenis „Mozillai“">
 <!ENTITY enableHealthReport1.accesskey   "r">
