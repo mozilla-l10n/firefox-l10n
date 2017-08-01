@@ -17,8 +17,8 @@
 <!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
 <!ENTITY chooseBookmark.label      "Guna Tandabuku…">
 <!ENTITY chooseBookmark.accesskey  "B">
-<!ENTITY restoreDefault.label      "Kembalikan kepada Piawai">
-<!ENTITY restoreDefault.accesskey  "a">
+<!ENTITY restoreDefault.label      "Pulih Piawai">
+<!ENTITY restoreDefault.accesskey  "P">
 
 <!ENTITY downloads.label     "Muat Turun">
 

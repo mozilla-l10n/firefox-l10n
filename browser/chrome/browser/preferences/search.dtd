@@ -20,8 +20,8 @@
 <!ENTITY engineNameColumn.label                "Enjin Carian">
 <!ENTITY engineKeywordColumn.label             "Kata kunci">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Kembalikan Enjin Carian Piawai">
-<!ENTITY restoreDefaultSearchEngines.accesskey "K">
+<!ENTITY restoreDefaultSearchEngines.label     "Pulih Enjin Carian Piawai">
+<!ENTITY restoreDefaultSearchEngines.accesskey "w">
 
 <!ENTITY removeEngine.label                    "Alih keluar">
 <!ENTITY removeEngine.accesskey                "r">

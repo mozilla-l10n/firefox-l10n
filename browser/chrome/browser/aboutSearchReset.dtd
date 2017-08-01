@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Kembalikan semula Tetapan Carian">
+<!ENTITY searchreset.tabtitle       "Pulih Tetapan Carian">
 
-<!ENTITY searchreset.pageTitle      "Kembalikan semula tetapan carian anda?">
+<!ENTITY searchreset.pageTitle      "Pulih tetapan carian anda?">
 
-<!ENTITY searchreset.pageInfo1      "Tetapan carian anda sudah usang. &brandShortName; boleh membantu anda kembalikan semula tetapan carian piawai.">
+<!ENTITY searchreset.pageInfo1      "Tetapan carian anda sudah lapok. &brandShortName; boleh membantu anda memulihkan tetapan piawai carian.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
