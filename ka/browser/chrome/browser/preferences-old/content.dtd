@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "შეტყობინებები">
 <!ENTITY  notificationsPolicyLearnMore.label   "შეიტყვეთ მეტი">
-<!ENTITY  notificationsPolicyDesc3.label       "საიტები, რომელთაგანაც შეტყობინებების მიღება დაშვებულია">
+<!ENTITY  notificationsPolicyDesc4.label       "საიტები, რომელთაგანაც შეტყობინებების მიღება დაშვებულია">
 <!ENTITY  notificationsPolicyButton.accesskey  "რ">
 <!ENTITY  notificationsPolicyButton.label      "არჩევა…">
 <!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
