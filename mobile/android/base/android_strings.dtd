@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Priwatne daty při kónčenju zhašeć">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; waše daty awtomatiscé zhaša, hdyžkuli \u0022Skónčić\u0022 z hłowneho menija wuběraće">
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjerće, kotre daty maja so zhašeć">
-<!ENTITY pref_plugins "Tykače">
-<!ENTITY pref_plugins_enabled "Zmóžnjeny">
-<!ENTITY pref_plugins_tap_to_play2 "Podótkńće so, zo byšće wothrał">
-<!ENTITY pref_plugins_disabled "Znjemóžnjeny">
 <!ENTITY pref_restore_tabs "Rajtarki wobnowić">
 <!ENTITY pref_restore_always "Přeco wobnowić">
 <!ENTITY pref_restore_quit "Po startowanju &brandShortName; njewobnowić">
