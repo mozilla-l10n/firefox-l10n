@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "م">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "بیشتر بدانید">
-<!ENTITY  notificationsPolicyDesc3.label       "انتخاب کنید چه سایت‌هایی اجازه دارند به شما اعلان ارسال کنند">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
 <!ENTITY  notificationsPolicyButton.label      "انتخاب…">
 <!ENTITY  notificationsDoNotDisturb.label      "مزاحم من نشوید">

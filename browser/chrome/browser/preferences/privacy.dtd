@@ -44,8 +44,7 @@
 
 <!ENTITY  suggestionSettings2.label     "تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو">
 
-<!ENTITY  acceptCookies.label           "به سایت‌ها اجازهٔ استفاده از کوکی داده شود">
-<!ENTITY  acceptCookies.accesskey       "ج">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ث">
