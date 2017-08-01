@@ -287,10 +287,6 @@
 
 
 
-<!ENTITY pref_plugins "Ebyongerwako">
-
-
-
 
 
 
@@ -447,6 +443,7 @@
 <!ENTITY page_removed "Omuko gujjidwawo">
 
 <!ENTITY bookmark_edit_title "Kyuusa Akalambe">
+
 <!ENTITY bookmark_edit_name "Erinnya">
 <!ENTITY bookmark_edit_location "Ekifo">
 <!ENTITY bookmark_edit_keyword "Ekigambo ekikulu">
@@ -504,6 +501,9 @@
      title of a dialog; we expect more than one device. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 
 
