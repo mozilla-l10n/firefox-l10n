@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "एंगारनायफोर">
 
 
-<!ENTITY treehead.sitename.label      "साइट">
 <!ENTITY treehead.status.label        "थाखोमान">
-<!ENTITY removepermission.label       "साइटखौ गैया खालाम (R)">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "गासै साइटखौ गैया खालाम (e)">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "वेब साइटनि थं: (d)">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ब्लक खालाम (B)">
