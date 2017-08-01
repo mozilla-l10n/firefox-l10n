@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "w">
 
 <!ENTITY noTranslationForSites.label      "Pe ki bimiyo kob pi kakube magi:">
-<!ENTITY treehead.siteName.label          "Kakube">
+
 <!ENTITY removeSite.label                 "Kwany kakube">
 <!ENTITY removeSite.accesskey             "k">
 <!ENTITY removeAllSites.label             "Kwany kakube weng">

@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Lok jami ayera pi tam ma kimiyo pi injin yeny…">
 <!ENTITY  suggestionSettings.accesskey  "k">
 
-<!ENTITY  acceptCookies.label           "Ye angija ki bot kakube">
-<!ENTITY  acceptCookies.accesskey       "e">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Yee angija ki bot dul me adek:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">

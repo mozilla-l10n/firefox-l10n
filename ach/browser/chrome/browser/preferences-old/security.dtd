@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Lumuku">
 
-<!ENTITY  warnOnAddonInstall.label        "Miyi ngec kace kakube tye ka temo me keto med-ikome">
-<!ENTITY  warnOnAddonInstall.accesskey    "M">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Donyo iyie">
 
-<!ENTITY  rememberLogins.label          "Poo ikom donyo iyie pi kakube">
-<!ENTITY  rememberLogins.accesskey      "o">
+
 <!ENTITY  passwordExceptions.label      "Ma kiweko woko…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
