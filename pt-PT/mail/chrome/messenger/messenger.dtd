@@ -953,4 +953,4 @@
 
 <!ENTITY dockOptions.label              "Opções do ícone…">
 <!ENTITY writeNewMessageDock.label      "Escrever nova mensagem">
-
+<!ENTITY openAddressBookDock.label      "Abrir livro de endereços">
