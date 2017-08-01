@@ -46,8 +46,7 @@
 
 <!ENTITY  suggestionSettings2.label     "शोध इंजिनसाठी सूचना प्राधान्यता बदला">
 
-<!ENTITY  acceptCookies.label           "स्थळांकडून कूकीज स्वीकारा">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "तिसरे-पक्षीय कूकिज स्वीकारा:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
