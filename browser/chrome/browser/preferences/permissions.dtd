@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Okuhlukile">
 
 
-<!ENTITY treehead.sitename.label      "Ingosi">
 <!ENTITY treehead.status.label        "Isimo">
-<!ENTITY removepermission.label       "Susa Ingosi">
-<!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Susa Zonke Izingosi">
-<!ENTITY removeallpermissions.accesskey "u">
+
+
+
+
 <!ENTITY address.label                "Ikheli lewebhusayithi:">
 <!ENTITY address.accesskey            "k">
 <!ENTITY block.label                  "Vimbela">
