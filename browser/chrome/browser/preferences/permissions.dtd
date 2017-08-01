@@ -10,6 +10,7 @@
 <!ENTITY removepermission2.label      "Remover site">
 <!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "Remover todos os sites">
+<!ENTITY removeallpermissions2.accesskey "t">
 <!ENTITY address.label                "Endereço do site:">
 <!ENTITY address.accesskey            "n">
 <!ENTITY block.label                  "Bloquear">
