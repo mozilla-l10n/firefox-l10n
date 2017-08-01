@@ -10,14 +10,33 @@
 
 <!ENTITY useCursorNavigation.label       "Palagiang gamitin ang mga cursor key upang libutin ang mga pahina">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Mag hanap ng kapareho na text pagnagsimula ka nang mag-type">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Mag-babala kung ang mga website ay sinusubukan i-redirect o i-reload ang pahina">
+<!ENTITY blockAutoReload.accesskey       "b">
+<!ENTITY useOnScreenKeyboard.label       "Ipakita ang touch keyboard kung kinakailangan">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
+<!ENTITY browsing.label                  "Mag browse">
 
 <!ENTITY useAutoScroll.label             "Gamitin ang autoscrolling">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Gamitin ang maayos na pag-scroll">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "I-check ang pagbaybay habang nagta-type">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
+<!ENTITY dataChoicesTab.label            "Mga Pagpipilian na Data">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Ang data reporting ay naka-disabled para sa build configuration na ito">
+
+<!ENTITY healthReportDesc.label          "Tutulungan kang intindihin ang iyong browser perfomance at nagbabahagi ng data sa &vendorShortName; tungkol sa iyong browser health">
+<!ENTITY enableHealthReport.label        "Paganahin ang &brandShortName; Health Report">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "Matuto ng higit pa">
 
 
 
