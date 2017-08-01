@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Priwatne daty pśi kóńcenju wulašowaś">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; wulašujo waše daty awtomatiski, gažkuli wuběraśo \u0022Skóńcyś\u0022 z głownego menija">
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
-<!ENTITY pref_plugins "Tykace">
-<!ENTITY pref_plugins_enabled "Zmóžnjony">
-<!ENTITY pref_plugins_tap_to_play2 "Pótusniśo, aby wótgrał">
-<!ENTITY pref_plugins_disabled "Znjemóžnjony">
 <!ENTITY pref_restore_tabs "Rejtarki wótnowiś">
 <!ENTITY pref_restore_always "Pśecej wótnowiś">
 <!ENTITY pref_restore_quit "Po skóńcenju &brandShortName; njewótnowiś">
