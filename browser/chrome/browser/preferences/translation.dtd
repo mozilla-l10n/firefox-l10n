@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "নিম্নলিখিত ছাইটসমূহৰ বাবে অনুবাদ প্ৰদান কৰা নহব:">
-<!ENTITY treehead.siteName.label          "ছাইটসমূহ">
+
 <!ENTITY removeSite.label                 "ছাইট আঁতৰাওক">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "সকলো ছাইট আঁতৰাওক">
