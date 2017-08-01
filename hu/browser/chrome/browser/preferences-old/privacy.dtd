@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Keresőszolgáltatás-javaslatok beállításainak módosítása…">
 <!ENTITY  suggestionSettings.accesskey  "r">
 
-<!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
-<!ENTITY  acceptCookies.accesskey       "w">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Harmadik féltől származó sütik elfogadása:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "H">

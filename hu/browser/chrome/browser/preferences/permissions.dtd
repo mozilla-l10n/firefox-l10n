@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Kivételek">
 <!ENTITY window.width                 "55em">
 
-<!ENTITY treehead.sitename.label      "Webhely">
 <!ENTITY treehead.status.label        "Állapot">
-<!ENTITY removepermission.label       "Webhely eltávolítása">
-<!ENTITY removepermission.accesskey   "W">
-<!ENTITY removeallpermissions.label   "Minden webhely eltávolítása">
-<!ENTITY removeallpermissions.accesskey "M">
+
+
+
+
 <!ENTITY address.label                "Webhely címe:">
 <!ENTITY address.accesskey            "h">
 <!ENTITY block.label                  "Tiltás">
