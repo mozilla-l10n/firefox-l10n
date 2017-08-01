@@ -341,10 +341,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Clear private data on exit">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; will automatically clear your data whenever you select \u0022Quit\u0022 from the main menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Select which data to clear">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Enabled">
-<!ENTITY pref_plugins_tap_to_play2 "Touch to play">
-<!ENTITY pref_plugins_disabled "Disabled">
 <!ENTITY pref_restore_tabs "Restore tabs">
 <!ENTITY pref_restore_always "Always restore">
 <!ENTITY pref_restore_quit "Don\u0027t restore after quitting &brandShortName;">
@@ -521,6 +517,7 @@
 <!ENTITY page_removed "Page removed">
 
 <!ENTITY bookmark_edit_title "Edit Bookmark">
+
 <!ENTITY bookmark_edit_name "Name">
 <!ENTITY bookmark_edit_location "Location">
 <!ENTITY bookmark_edit_keyword "Keyword">
@@ -594,6 +591,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Unhide selected devices">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
 <!ENTITY remote_tabs_panel_moved_desc "We\u0027ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
