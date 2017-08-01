@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "n">
 
 <!ENTITY noTranslationForSites.label      "Preklad nebude ponúkaný pre nasledujúce stránky:">
-<!ENTITY treehead.siteName.label          "Stránky">
+<!ENTITY treehead.siteName2.label         "Webové stránky">
 <!ENTITY removeSite.label                 "Odstrániť stránku">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Odstrániť všetky stránky">

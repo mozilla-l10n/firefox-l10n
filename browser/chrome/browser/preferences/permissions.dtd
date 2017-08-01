@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Výnimky">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Server">
+<!ENTITY treehead.sitename2.label     "Webová stránka">
 <!ENTITY treehead.status.label        "Stav">
-<!ENTITY removepermission.label       "Odstrániť server">
-<!ENTITY removepermission.accesskey   "s">
-<!ENTITY removeallpermissions.label   "Odstrániť všetky servery">
-<!ENTITY removeallpermissions.accesskey "v">
+<!ENTITY removepermission2.label      "Odstrániť stránku">
+<!ENTITY removepermission2.accesskey  "r">
+<!ENTITY removeallpermissions2.label  "Odstrániť všetky stránky">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Adresa webového servera:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Zakázať">
