@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "k">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Dalše informacije">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Wubjerće, kotre sydła smědźa wam zdźělenki pósłać">
 <!ENTITY  notificationsPolicyButton.accesskey  "u">
 <!ENTITY  notificationsPolicyButton.label      "Wubrać…">
 <!ENTITY  notificationsDoNotDisturb.label      "Njemylće">
