@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Uitsonderings">
 
 
-<!ENTITY treehead.sitename.label      "Werf">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Verwyder werf">
-<!ENTITY removepermission.accesskey   "V">
-<!ENTITY removeallpermissions.label   "Verwyder alle werwe">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Adres van webwerf:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokkeer">

@@ -12,7 +12,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Vertaling sal nie aangebied word by die volgende werwe nie:">
-<!ENTITY treehead.siteName.label          "Werwe">
+
 <!ENTITY removeSite.label                 "Verwyder werf">
 <!ENTITY removeSite.accesskey             "w">
 <!ENTITY removeAllSites.label             "Verwyder alle werwe">

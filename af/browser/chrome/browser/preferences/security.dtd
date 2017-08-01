@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Sekuriteit">
 
 
-<!ENTITY  warnOnAddonInstall.label        "Waarsku wanneer werwe byvoegings probeer installeer">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Vorms en wagwoorde">
 
-<!ENTITY  rememberLogins1.label          "Onthou rekeninge en wagwoorde vir werwe">
-<!ENTITY  rememberLogins1.accesskey      "O">
+
 <!ENTITY  passwordExceptions.label      "Uitsonderings…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 

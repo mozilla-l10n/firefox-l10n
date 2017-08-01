@@ -43,8 +43,7 @@
 
 <!ENTITY  suggestionSettings2.label     "&amp;Verander voorkeure vir voorstelle vanaf soekenjins">
 
-<!ENTITY  acceptCookies.label           "Aanvaar koekies van werwe">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Aanvaar derdeparty-koekies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
