@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Tše sa akaretšwego">
 
 
-<!ENTITY treehead.sitename.label      "Saete">
 <!ENTITY treehead.status.label        "Boemo">
-<!ENTITY removepermission.label       "Tloša saete">
-<!ENTITY removepermission.accesskey   "T">
-<!ENTITY removeallpermissions.label   "Tloša disaete tšohle">
-<!ENTITY removeallpermissions.accesskey "o">
+
+
+
+
 <!ENTITY address.label                "Aterese ya wepesaete:">
 <!ENTITY address.accesskey            "t">
 <!ENTITY block.label                  "Thibela">
