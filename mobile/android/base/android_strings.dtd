@@ -336,10 +336,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Di derketinê de daneyên taybet paqij bike">
 <!ENTITY pref_clear_on_exit_summary2 "Dema ku tu ji menuya giştî \u0022Quit\u0022ê hilbijêrî, &brandShortName; dê daneyên te otomatîk paqij bike">
 <!ENTITY pref_clear_on_exit_dialog_title "Daneyên bên paqijkirin hilbijêre">
-<!ENTITY pref_plugins "Pêvek">
-<!ENTITY pref_plugins_enabled "Çalak">
-<!ENTITY pref_plugins_tap_to_play2 "Ji bo lêdanê bihingêve">
-<!ENTITY pref_plugins_disabled "Neçalak">
 <!ENTITY pref_restore_tabs "Hilpekînan vegerîne">
 <!ENTITY pref_restore_always "Her tim vegerîne">
 <!ENTITY pref_restore_quit "Piştî derketinê venegerîne &brandShortName;">
@@ -516,6 +512,7 @@
 <!ENTITY page_removed "Rûpel hat rakirin">
 
 <!ENTITY bookmark_edit_title "Bijareyan seras bike">
+
 <!ENTITY bookmark_edit_name "Nav">
 <!ENTITY bookmark_edit_location "Cî">
 <!ENTITY bookmark_edit_keyword "Peyva Kilît">
@@ -589,6 +586,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Cîhazên hilbijartî nîşan bide">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Hilpekînên min çûn ku derê?">
 <!ENTITY remote_tabs_panel_moved_desc "Me hilpekînên te yên di cîhazên din de bar kirin paneleke li serûpelê. Her ku hilpekînekê vekî tu yê wan bi hêsanî bibînî.">
