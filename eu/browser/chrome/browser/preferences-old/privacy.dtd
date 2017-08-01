@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Aldatu bilaketa-motorren iradokizunetarako hobespenak…">
 <!ENTITY  suggestionSettings.accesskey  "d">
 
-<!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
-<!ENTITY  acceptCookies.accesskey       "O">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Onartu hirugarrenen cookieak:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "n">
