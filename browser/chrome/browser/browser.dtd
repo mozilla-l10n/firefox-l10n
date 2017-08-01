@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Genstart for at opdatere &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
+<!ENTITY pageAction.addToUrlbar.label "Føj til adresselinje">
+<!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
 
 <!ENTITY sendToDevice.label2 "Send til enhed">
-<!ENTITY sendToDevice.viewTitle "Send til enhed">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
