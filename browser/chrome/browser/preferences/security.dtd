@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Segurança">
 <!ENTITY  phishingProtection.label       "Proteção contra phishing">
 
-<!ENTITY  warnOnAddonInstall.label        "Avisar quando sites tentarem instalar extensões">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Avisar quando sites tentarem instalar extensões">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulários e Senhas">
 
-<!ENTITY  rememberLogins1.label          "Memorizar contas de acesso e senhas de sites">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "Memorizar contas de acesso e senhas de sites">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
