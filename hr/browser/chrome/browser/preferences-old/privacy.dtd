@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Promijenite postavke prijedloga tražilica…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
-<!ENTITY  acceptCookies.accesskey       "c">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Prihvati kolačiće trećih strana:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

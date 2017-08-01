@@ -24,8 +24,7 @@
 
 <!ENTITY  logins.label                  "Prijave">
 
-<!ENTITY  rememberLogins.label          "Zapamti prijave za stranice">
-<!ENTITY  rememberLogins.accesskey      "r">
+
 <!ENTITY  passwordExceptions.label      "Iznimke...">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
