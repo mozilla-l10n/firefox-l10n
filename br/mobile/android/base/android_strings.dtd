@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Skarzhañ roadennoù pa vez kuitaet">
 <!ENTITY pref_clear_on_exit_summary2 "Skarzhet e vo ho roadennoù ent-emgefreek gant &brandShortName; pa vo diuzet \u0022Quit\u0022 ganeoc\u0027h diwar al lañser pennañ">
 <!ENTITY pref_clear_on_exit_dialog_title "Diuzañ ar roadennoù da skarzhañ">
-<!ENTITY pref_plugins "Enlugelladoù">
-<!ENTITY pref_plugins_enabled "Gweredekaet">
-<!ENTITY pref_plugins_tap_to_play2 "Stokit evit lenn">
-<!ENTITY pref_plugins_disabled "Diweredekaet">
 <!ENTITY pref_restore_tabs "Assav an ivinelloù">
 <!ENTITY pref_restore_always "Assav bewech">
 <!ENTITY pref_restore_quit "Arabat assav goude bezañ kuitaet &brandShortName;">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "Pajenn dilamet">
 
 <!ENTITY bookmark_edit_title "Embann ar sined">
+
 <!ENTITY bookmark_edit_name "Anv">
 <!ENTITY bookmark_edit_location "Lec\u0027h">
 <!ENTITY bookmark_edit_keyword "Gerioù alc\u0027hwez">
