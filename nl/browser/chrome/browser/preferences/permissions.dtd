@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Uitzonderingen">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Website">
+<!ENTITY treehead.sitename2.label     "Website">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Website verwijderen">
-<!ENTITY removepermission.accesskey   "v">
-<!ENTITY removeallpermissions.label   "Alle websites verwijderen">
-<!ENTITY removeallpermissions.accesskey "A">
+<!ENTITY removepermission2.label      "Website verwijderen">
+<!ENTITY removepermission2.accesskey  "v">
+<!ENTITY removeallpermissions2.label  "Alle websites verwijderen">
+<!ENTITY removeallpermissions2.accesskey "A">
 <!ENTITY address.label                "Adres van website:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokkeren">

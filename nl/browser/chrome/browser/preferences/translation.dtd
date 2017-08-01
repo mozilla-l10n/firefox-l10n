@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Voor de volgende websites zal geen vertaling worden aangeboden:">
-<!ENTITY treehead.siteName.label          "Websites">
+<!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Website verwijderen">
 <!ENTITY removeSite.accesskey             "v">
 <!ENTITY removeAllSites.label             "Alle websites verwijderen">

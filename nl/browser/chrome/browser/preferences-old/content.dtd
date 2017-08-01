@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Notificaties">
 <!ENTITY  notificationsPolicyLearnMore.label   "Meer info">
-<!ENTITY  notificationsPolicyDesc3.label       "Kiezen welke websites u notificaties mogen sturen">
+<!ENTITY  notificationsPolicyDesc4.label       "Kiezen welke websites u notificaties mogen sturen">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Kiezen…">
 <!ENTITY  notificationsDoNotDisturb.label      "Mij niet storen">
