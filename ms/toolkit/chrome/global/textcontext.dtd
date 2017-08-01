@@ -17,8 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
 <!ENTITY spellAddToDictionary.accesskey "a">
-<!ENTITY spellUndoAddToDictionary.label "Undur telah ditambah ke dalam kamus">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "Batal Tambah Dalam Kamus">
+<!ENTITY spellUndoAddToDictionary.accesskey "a">
 <!ENTITY spellCheckToggle.label "Semak Ejaan">
 <!ENTITY spellCheckToggle.accesskey "j">
 <!ENTITY spellNoSuggestions.label "(Tiada Cadangan Ejaan)">

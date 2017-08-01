@@ -201,9 +201,9 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Kemaskini">
-<!ENTITY addon.undoAction.label               "Kembali Asal">
-<!ENTITY addon.undoAction.tooltip             "Membatalkan tindakan ini">
-<!ENTITY addon.undoRemove.label               "Kembali Asal">
+<!ENTITY addon.undoAction.label               "Batal">
+<!ENTITY addon.undoAction.tooltip             "Batal tindakan ini">
+<!ENTITY addon.undoRemove.label               "Batal">
 <!ENTITY addon.undoRemove.tooltip             "Kekalkan pemasangan add-on ini">
 <!ENTITY addon.restartNow.label               "Mula semula sekarang">
 <!ENTITY addon.install.label                  "Pasang">

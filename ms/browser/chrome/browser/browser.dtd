@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tandabuku Semua Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Batalkan Tutup Tab">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Batal Tutup Tab">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Sumber Halaman">
