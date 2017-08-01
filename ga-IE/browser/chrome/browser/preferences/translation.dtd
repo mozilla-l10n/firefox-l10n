@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Ní thairgfear aistriúchán ar na suímh seo a leanas:">
-<!ENTITY treehead.siteName.label          "Suímh">
+
 <!ENTITY removeSite.label                 "Bain Suíomh">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Bain Gach Suíomh">
