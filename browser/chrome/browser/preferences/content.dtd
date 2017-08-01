@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Les mer">
-<!ENTITY  notificationsPolicyDesc3.label       "Velg hvilke nettsted som har tillatelse til å sende deg varsler">
+<!ENTITY  notificationsPolicyDesc4.label       "Velg hvilke nettsteder som har tillatelse til å sende deg varsler">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Velg …">
 <!ENTITY  notificationsDoNotDisturb.label      "Ikke forstyrr meg">
