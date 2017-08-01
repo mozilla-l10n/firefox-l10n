@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "الأمان">
 <!ENTITY  phishingProtection.label       "الحماية من الاحتيال">
 
-<!ENTITY  warnOnAddonInstall.label        "حذّرني عندما يحاول موقع تنصيب إضافات">
-<!ENTITY  warnOnAddonInstall.accesskey    "ح">
+<!ENTITY  warnOnAddonInstall2.label       "حذّرني عندما يحاول موقع وِب تنصيب إضافات">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ح">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "النماذج و كلمات السر">
 
-<!ENTITY  rememberLogins1.label          "تذكر كلمات سر و بيانات ولوج المواقع">
-<!ENTITY  rememberLogins1.accesskey      "ت">
+<!ENTITY  rememberLogins2.label         "تذكر كلمات سر و بيانات ولوج مواقع الوِب">
+<!ENTITY  rememberLogins2.accesskey     "ت">
 <!ENTITY  passwordExceptions.label      "الاستثناءات…">
 <!ENTITY  passwordExceptions.accesskey  "س">
 

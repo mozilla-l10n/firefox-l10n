@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "الاستثناءات">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "الموقع">
+<!ENTITY treehead.sitename2.label     "موقع وِب">
 <!ENTITY treehead.status.label        "الحالة">
-<!ENTITY removepermission.label       "احذف الموقع">
-<!ENTITY removepermission.accesskey   "ح">
-<!ENTITY removeallpermissions.label   "احذف كل المواقع">
-<!ENTITY removeallpermissions.accesskey "ذ">
+<!ENTITY removepermission2.label      "احذف موقع الوِب">
+<!ENTITY removepermission2.accesskey  "ح">
+<!ENTITY removeallpermissions2.label  "احذف كل مواقع الوِب">
+<!ENTITY removeallpermissions2.accesskey "ذ">
 <!ENTITY address.label                "عنوان موقع وِب:">
 <!ENTITY address.accesskey            "و">
 <!ENTITY block.label                  "احجب">

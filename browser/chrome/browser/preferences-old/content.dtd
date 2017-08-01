@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "التنبيهات">
 <!ENTITY  notificationsPolicyLearnMore.label   "اطّلع على المزيد">
-<!ENTITY  notificationsPolicyDesc3.label       "اختر أيّ المواقع يُسمح لها بإرسال تنبيهات إليك">
+<!ENTITY  notificationsPolicyDesc4.label       "اختر أيّ من مواقع الوِب يُسمح لها بإرسال تنبيهات إليك">
 <!ENTITY  notificationsPolicyButton.accesskey  "خ">
 <!ENTITY  notificationsPolicyButton.label      "اختر…">
 <!ENTITY  notificationsDoNotDisturb.label      "لا تزعجني">

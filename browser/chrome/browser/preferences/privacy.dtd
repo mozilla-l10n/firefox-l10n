@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "غيّر تفضيلات اقتراحات محرّك البحث">
 
-<!ENTITY  acceptCookies.label           "اقبل الكعكات من المواقع">
-<!ENTITY  acceptCookies.accesskey       "ق">
+<!ENTITY  acceptCookies2.label          "اقبل الكعكات من مواقع الوِب">
+<!ENTITY  acceptCookies2.accesskey      "ق">
 
 <!ENTITY  acceptThirdParty.pre.label      "اقبل الكعكات من أطراف أخرى:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ب">
