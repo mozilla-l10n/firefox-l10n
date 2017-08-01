@@ -333,10 +333,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Kasen Khũkhn ptasxn peekxkĩçxa\u0027s.">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; txãaiçxaa khũkhna idx pta\u0027sxni\u0027s bagaçxtepa kĩ\u0027h txitxna \u0022Quit\u0022 kuh fxi\u0027nisa\u0027s jxkaasaju.">
 <!ENTITY pref_clear_on_exit_dialog_title "Txitxna kĩ\u0027h pta\u0027sxn khũkhna">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Jxkahane\u0027ga">
-<!ENTITY pref_plugins_tap_to_play2 "Kxtethna ki\u0027h yu\u0027ptehn">
-<!ENTITY pref_plugins_disabled "Khçxhaçxanimee">
 <!ENTITY pref_restore_tabs "Ma\u0027wẽ u\u0027pte txãawẽy ki\u0027pya">
 <!ENTITY pref_restore_always "Ma\u0027wẽn swete phewu\u0027ni">
 <!ENTITY pref_restore_quit "Swete phewu\u0027nimee e\u0027su kase\u0027hte &brandShortName;">
@@ -513,6 +509,7 @@
 <!ENTITY page_removed "Kxtee kaapçu\u0027jun">
 
 <!ENTITY bookmark_edit_title "Ki\u0027phni kase\u0027k">
+
 <!ENTITY bookmark_edit_name "Yase">
 <!ENTITY bookmark_edit_location "Thegçxaa uyutxna">
 <!ENTITY bookmark_edit_keyword "Yuwe ew">
@@ -586,6 +583,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Txitxna vxiana ãatewe\u0027sxtxi">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "¿Mdee u\u0027jweçkwe adxa\u0027s txuhden?">
 <!ENTITY remote_tabs_panel_moved_desc "Kwe\u0027sxa ẽ\u0027sesetha\u0027w idxa\u0027s txunden vxite\u0027 ãatewe\u0027sxtxi panelesa\u0027s çxhunden takhna kĩh yuhpa thẽymee u\u0027kan ewuya\u0027 ma\u0027wẽn u\u0027kaççxaa teeçx u\u0027sesa\u0027s txundeya\u0027.">
