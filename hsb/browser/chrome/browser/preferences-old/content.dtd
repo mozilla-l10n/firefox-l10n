@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Zdźělenja">
 <!ENTITY  notificationsPolicyLearnMore.label   "Dalše informacije">
-<!ENTITY  notificationsPolicyDesc3.label       "Wubjerće, kotre sydła smědźa wam zdźělenki pósłać">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "u">
 <!ENTITY  notificationsPolicyButton.label      "Wubrać…">
 <!ENTITY  notificationsDoNotDisturb.label      "Njemylće">

@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Wuwzaća">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Sydło">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Sydło wotstronić">
-<!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Wšě sydła wotstronić">
-<!ENTITY removeallpermissions.accesskey "y">
+
+
+
+
 <!ENTITY address.label                "Adresa websydła:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokować">

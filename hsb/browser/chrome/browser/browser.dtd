@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 
-<!ENTITY sendToDevice.label2 "Na grat pósłać">
-<!ENTITY sendToDevice.viewTitle "Na grat pósłać">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "Graty so synchronizuja…">

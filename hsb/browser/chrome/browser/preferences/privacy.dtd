@@ -46,8 +46,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Nastajenja za namjety pytawy změnić">
 
-<!ENTITY  acceptCookies.label           "Placki ze sydłow akceptować">
-<!ENTITY  acceptCookies.accesskey       "c">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Placki třećich poskićowarjow akceptować:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
