@@ -301,10 +301,6 @@
 
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; এ আপুনি মূখ্য মেনুৰ পৰা \u0022প্ৰস্থান কৰক\u0022 নিৰ্বাচন কৰিলে স্বচালিতভাৱে আপোনাৰ তথ্য আতৰাব">
 <!ENTITY pref_clear_on_exit_dialog_title "কোনো তথ্য আতৰোৱা হব বাছক">
-<!ENTITY pref_plugins "প্লাগিনসমূহ">
-<!ENTITY pref_plugins_enabled "সামৰ্থবান">
-
-<!ENTITY pref_plugins_disabled "অসামৰ্থবান">
 
 <!ENTITY pref_restore_always "সদায় পুনৰুদ্ধাৰ কৰিব">
 <!ENTITY pref_restore_quit "&brandShortName; প্ৰস্থান কৰাৰ পিছত পুনৰুদ্ধাৰ নকৰিব">
@@ -477,6 +473,7 @@
 <!ENTITY page_removed "পৃষ্ঠা আতৰোৱা হল">
 
 <!ENTITY bookmark_edit_title "পত্ৰচিহ্ন সম্পাদন কৰক">
+
 <!ENTITY bookmark_edit_name "নাম">
 <!ENTITY bookmark_edit_location "অৱস্থান">
 <!ENTITY bookmark_edit_keyword "মূলশব্দ">
@@ -546,6 +543,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "নিৰ্বাচিত ডিভাইচসমূহ উন্মুক্ত কৰক">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "মোৰ টেবসমূহ কলৈ গল?">
 <!ENTITY remote_tabs_panel_moved_desc "আমি আপোনাৰ টেবসমূহক অন্য ডিভাইচসমূহৰ পৰা আপোনাৰ আৰম্ভণি পৃষ্ঠাৰ এটা পেনেললৈ স্থানান্তৰ কৰিছো যি আপুনি প্ৰতিবাৰ এটা নতুন টেব খোলোতে সহজে অভিগম কৰিব পাৰিব।">
