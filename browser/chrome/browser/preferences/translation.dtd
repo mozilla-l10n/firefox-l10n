@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Nesiūlyti versti tinklalapių šiose svetainėse:">
-<!ENTITY treehead.siteName.label          "Svetainės">
+
 <!ENTITY removeSite.label                 "Pašalinti svetainę">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Pašalinti visas svetaines">
