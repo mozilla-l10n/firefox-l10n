@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Туорааһыннар">
 
 
-<!ENTITY treehead.sitename.label      "Ситим-сир">
 <!ENTITY treehead.status.label        "Стаатуһа">
-<!ENTITY removepermission.label       "Сири сот">
-<!ENTITY removepermission.accesskey   "С">
-<!ENTITY removeallpermissions.label   "Сирдэри барыларын сот">
-<!ENTITY removeallpermissions.accesskey "б">
+
+
+
+
 <!ENTITY address.label                "Ситим-сир аадырыһа:">
 <!ENTITY address.accesskey            "а">
 <!ENTITY block.label                  "Бүөлээ">
