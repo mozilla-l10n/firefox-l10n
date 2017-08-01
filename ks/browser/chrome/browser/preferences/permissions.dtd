@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "غٲر مومول">
 
 
-<!ENTITY treehead.sitename.label      "سائٹ ">
 <!ENTITY treehead.status.label        "سٹیٹس ">
-<!ENTITY removepermission.label       "سایٹ ہٹٲویو">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "سارے سایٹئ ہٹٲویو">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "ویب سایٹئ ہیوند پتئ">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "بلاك">
