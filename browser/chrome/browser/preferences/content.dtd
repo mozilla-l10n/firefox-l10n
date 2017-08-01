@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Argibide gehiago">
-<!ENTITY  notificationsPolicyDesc3.label       "Aukeratu zein gune dauden jakinarazpenak bidaltzeko baimenduta">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "A">
 <!ENTITY  notificationsPolicyButton.label      "Aukeratu…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ez molestatu">

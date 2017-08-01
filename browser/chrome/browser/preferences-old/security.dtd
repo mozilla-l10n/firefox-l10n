@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Orokorra">
 
-<!ENTITY  warnOnAddonInstall.label        "Abisatu gune bat gehigarriak instalatzen saiatzen bada">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Saio-hasierak">
 
-<!ENTITY  rememberLogins.label          "Gogoratu guneetako saio-hasierak">
-<!ENTITY  rememberLogins.accesskey      "G">
+
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

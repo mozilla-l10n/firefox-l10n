@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Salbuespenak">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Gunea">
 <!ENTITY treehead.status.label        "Egoera">
-<!ENTITY removepermission.label       "Ezabatu gunea">
-<!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Ezabatu gune guztiak">
-<!ENTITY removeallpermissions.accesskey "g">
+
+
+
+
 <!ENTITY address.label                "Webgunearen helbidea:">
 <!ENTITY address.accesskey            "h">
 <!ENTITY block.label                  "Blokeatu">
