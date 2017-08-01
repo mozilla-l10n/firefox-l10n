@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Chiqishda maxfiy ma’lumotlarni tozalash">
 <!ENTITY pref_clear_on_exit_summary2 "Asosiy menyudan \u0022Quit\u0022 ni tanlasangiz, avtomatik tarzda &brandShortName; ma’lumotlaringizni tozalaydi.">
 <!ENTITY pref_clear_on_exit_dialog_title "Tozalanadigan ma’lumotlarni tanlang">
-<!ENTITY pref_plugins "Plaginlar">
-<!ENTITY pref_plugins_enabled "Yoqib qo‘yilgan">
-<!ENTITY pref_plugins_tap_to_play2 "Boshlash uchun bosing">
-<!ENTITY pref_plugins_disabled "O‘chirib qo‘yilgan">
 <!ENTITY pref_restore_tabs "Ichki oynalarni tiklash">
 <!ENTITY pref_restore_always "Doimo tiklash">
 <!ENTITY pref_restore_quit "&brandShortName;dan chiqqandan so‘ng tiklanmasin">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "Sahifa olib tashlandi">
 
 <!ENTITY bookmark_edit_title "Xatcho‘plarni o‘zgartirish">
+
 <!ENTITY bookmark_edit_name "Nomi">
 <!ENTITY bookmark_edit_location "Manzili">
 <!ENTITY bookmark_edit_keyword "Kalit so‘z">
@@ -624,6 +621,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Tanlangan qurilmalarni ko‘rsatish">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Ichki oynalarim qayerga ketdi?">
 <!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
