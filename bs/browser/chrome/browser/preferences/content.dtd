@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Saznajte više">
-<!ENTITY  notificationsPolicyDesc3.label       "Izaberite koje vam stranice mogu slati obavještenja">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "I">
 <!ENTITY  notificationsPolicyButton.label      "Izaberi…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne ometaj me">
