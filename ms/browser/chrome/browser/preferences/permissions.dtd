@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Pengecualian">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Laman">
+<!ENTITY treehead.sitename2.label     "Laman web">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Alih keluar Laman">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Alih keluar Semua Laman">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removepermission2.label      "Buang Laman Web">
+<!ENTITY removepermission2.accesskey  "B">
+<!ENTITY removeallpermissions2.label  "Buang Semua Laman Web">
+<!ENTITY removeallpermissions2.accesskey "a">
 <!ENTITY address.label                "Alamat laman web:">
 <!ENTITY address.accesskey            "m">
 <!ENTITY block.label                  "Sekat">

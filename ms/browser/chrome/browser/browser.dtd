@@ -50,8 +50,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Kembalikan Tab Ditutup">
-<!ENTITY  undoCloseTab.accesskey             "K">
+<!ENTITY  undoCloseTab.label                 "Batal Tutup Tab">
+<!ENTITY  undoCloseTab.accesskey             "B">
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "b">
 
@@ -89,8 +89,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tandabuku Semua Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Kembalikan Tab Ditutup">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Batalkan Tutup Tab">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Sumber Halaman">
 <!ENTITY pageSourceCmd.accesskey "H">

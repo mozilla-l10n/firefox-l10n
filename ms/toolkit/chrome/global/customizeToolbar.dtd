@@ -13,4 +13,4 @@
 <!ENTITY restoreDefaultSet.label  "Kembalikan Tetapan Piawai">
 <!ENTITY addNewToolbar.label      "Tambah Bar Alat Baru">
 <!ENTITY saveChanges.label        "Selesai">
-<!ENTITY undoChanges.label        "Batalkan Perubahan">
+<!ENTITY undoChanges.label        "Batal Perubahan">
