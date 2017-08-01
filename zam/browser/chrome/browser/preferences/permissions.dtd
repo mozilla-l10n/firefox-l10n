@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Koo tak toob luu">
 
 
-<!ENTITY treehead.sitename.label      "Paa lahs loo yaal">
 <!ENTITY treehead.status.label        "Xha duy">
-<!ENTITY removepermission.label       "Kib kue">
-<!ENTITY removepermission.accesskey   "K">
-<!ENTITY removeallpermissions.label   "Kib ree taa kue">
-<!ENTITY removeallpermissions.accesskey "i">
+
+
+
+
 <!ENTITY address.label                "Taa paa doob kue:">
 <!ENTITY address.accesskey            "T">
 <!ENTITY block.label                  "Naa xhalt luy">
