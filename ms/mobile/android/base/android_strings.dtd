@@ -185,9 +185,9 @@
 <!ENTITY pref_learn_more "Ketahui selanjutnya">
 <!ENTITY pref_category_installed_search_engines "Enjin carian dipasang">
 <!ENTITY pref_category_add_search_providers "Tambah lagi penyedia carian">
-<!ENTITY pref_category_search_restore_defaults "Kembalikan semula enjin carian">
-<!ENTITY pref_search_restore_defaults "Kembalikan semula piawai">
-<!ENTITY pref_search_restore_defaults_summary "Kembalikan semula piawai">
+<!ENTITY pref_category_search_restore_defaults "Pulih enjin carian">
+<!ENTITY pref_search_restore_defaults "Pulih piawai">
+<!ENTITY pref_search_restore_defaults_summary "Pulih piawai">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -198,7 +198,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Kembalikan semula tab, penjimat data, alatan pembangun">
+<!ENTITY pref_category_advanced_summary3 "Pulih semula tab, penjimat data, alatan pembangun">
 <!ENTITY pref_category_notifications "Notifikasi">
 <!ENTITY pref_category_notifications_summary "Ciri baru, kemaskini laman web">
 <!ENTITY pref_content_notifications "Kemaskini laman web">
@@ -361,13 +361,9 @@
 <!ENTITY pref_clear_on_exit_title3 "Buang data perbadi apabila keluar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang mahu dibuang">
-<!ENTITY pref_plugins "Plugin">
-<!ENTITY pref_plugins_enabled "Dayakan">
-<!ENTITY pref_plugins_tap_to_play2 "Sentuh untuk memainkan">
-<!ENTITY pref_plugins_disabled "Dinyahdayakan">
-<!ENTITY pref_restore_tabs "Kembalikan semula tab">
-<!ENTITY pref_restore_always "Sentiasa kembalikan semula">
-<!ENTITY pref_restore_quit "Jangan kembalikan semula selepas keluar &brandShortName;">
+<!ENTITY pref_restore_tabs "Pulih tab">
+<!ENTITY pref_restore_always "Sentiasa pulih">
+<!ENTITY pref_restore_quit "Jangan pulih selepas keluar &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
@@ -597,7 +593,7 @@
 <!ENTITY home_bookmarks_empty "Tandabuku yang anda simpan dipaparkan di sini.">
 <!ENTITY home_closed_tabs_title2 "Terkini ditutup">
 <!ENTITY home_last_tabs_empty "Tab terkini anda dipaparkan di sini.">
-<!ENTITY home_restore_all "Ambil semula semua">
+<!ENTITY home_restore_all "Pulih semua">
 <!ENTITY home_closed_tabs_number "&formatD; tab">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
@@ -730,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Sambung">
 <!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
-<!ENTITY new_guest_session_text2 "Pelawat yang menggunakannya tidak akan dapat melihat data pelayaran peribadi anda (seperti log masuk tersimpan, sejarah atau tandabuku).\n\n Apabila pelawat anda keluar, data pelayaran mereka akan dihapuskan dan sesi anda dikembalikan semula.">
+<!ENTITY new_guest_session_text2 "Pengguna yang menggunakannya tidak akan dapat  melihat data pelayaran peribadi anda (seperti log masuk, sejarah atau tandabuku anda).\n\nApabila sudah siap, data pelayaran mereka akan dihapuskan dan sesi anda akan dipulihkan.">
 <!ENTITY guest_browsing_notification_title "Pelayaran pelawat didayakan">
 <!ENTITY guest_browsing_notification_text "Tap untuk keluar">
 
