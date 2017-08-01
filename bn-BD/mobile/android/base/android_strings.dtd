@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "প্রস্থানকালে ব্যক্তিগত তথ্য পরিষ্কার করুন">
 <!ENTITY pref_clear_on_exit_summary2 "যখনই আপনি প্রধান মেনু থেকে \u0022Quit\u0022 নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে আপনার তথ্য মুছে ফেলবে">
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
-<!ENTITY pref_plugins "প্লাগইন">
-<!ENTITY pref_plugins_enabled "সক্রিয়">
-<!ENTITY pref_plugins_tap_to_play2 "চালাতে স্পর্শ করুন">
-<!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_restore_tabs "ট্যাব পুনরুদ্ধার করুন">
 <!ENTITY pref_restore_always "সর্বদা রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
