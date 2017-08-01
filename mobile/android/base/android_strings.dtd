@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "ನಿಲ್ಲಿಸುವಾಗ ಖಾಸಗಿ ಮಾಹಿತಿ ಅಳಿಸು">
 <!ENTITY pref_clear_on_exit_summary2 "ನೀವು ಮುಖ್ಯ ಪರಿವಿಡಿಯಿಂದ \u0022\u0027ಆಚೆ ಬಾ\u0027\u0022ವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ &brandShortName; ಸ್ವಯಂಚಾಲಿತವಾಗಿ ನಿಮ್ಮ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸುವುದು">
 <!ENTITY pref_clear_on_exit_dialog_title "ಯಾವ ಡೇಟಾ ತೆರವುಗೊಳಿಸಬೇಕು ಆಯ್ಕೆಮಾಡು">
-<!ENTITY pref_plugins "ಪ್ಲಗ್‌ಇನ್‌ಗಳು">
-<!ENTITY pref_plugins_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
-<!ENTITY pref_plugins_tap_to_play2 "ಆಡಲು ತಟ್ಟಿ">
-<!ENTITY pref_plugins_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_restore_tabs "ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_always "ಯಾವಾಗಲೂ ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_quit "&brandShortName; ನಿಂದ ಆಚೆ ಬಂದಾಗ, ರಿಸ್ಟೋರ್ ಮಾಡಬೇಡಿ">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 
 <!ENTITY bookmark_edit_title "ಪುಟ ಗುರುತನ್ನು ಸಂಪಾದಿಸು">
+
 <!ENTITY bookmark_edit_name "ಹೆಸರು">
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
@@ -624,6 +621,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ಆಯ್ಕೆಮಾಡಿದ ಸಾಧನಗಳನ್ನು ತೋರಿಸು">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
 <!ENTITY remote_tabs_panel_moved_desc "ನೀವು ಹೊಸ ಹಾಳೆ ತೆರೆದಾಗೆಲ್ಲ ಬಳಕೆಗೆ ಲಭ್ಯವಿರುವಂತೆ ನಿಮ್ಮ ಜಾಲ ಪುಟಕ್ಕೆ ಬೇರೆಯ ಸಾಧನಗಳಲ್ಲಿದ್ದ ಹಾಳೆಗಳನ್ನು ಜರುಗಿಸಿದ್ದೇವೆ.">
