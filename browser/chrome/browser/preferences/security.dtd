@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "सुरक्षा">
 
 
-<!ENTITY  warnOnAddonInstall.label        "आपको चेताएँ जब साइट सहयुक्तियों को जोड़ना चाहता है">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "फ़ॉर्म व कूटशब्द">
 
-<!ENTITY  rememberLogins1.label          "साइटों के लिए लॉग इन और कूटशब्द याद रखें">
-<!ENTITY  rememberLogins1.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

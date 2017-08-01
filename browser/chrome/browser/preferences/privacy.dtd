@@ -42,8 +42,7 @@
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
-<!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "त्रिपक्षीय कुकीज़ स्वीकारें:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
