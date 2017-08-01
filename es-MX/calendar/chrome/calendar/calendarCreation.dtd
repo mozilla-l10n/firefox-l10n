@@ -6,6 +6,17 @@
 <!ENTITY wizard.label             "Crear un nuevo calendario" >
 <!ENTITY wizard.description       "Ubica tu calendario" >
 
+<!ENTITY initialpage.description    "Tu calendario puede ser almacenado en tu computadora o ser almacenado en un servidor para tener acceso remotamente o compartirlo con tus amigos o compañeros." >
+<!ENTITY initialpage.computer.label  "En mi computadora">
+<!ENTITY initialpage.network.label  "En la red">
 
+<!ENTITY locationpage.description         "Proveer información sobre qué es necesario para acceder a tu calendario remoto" >
+<!ENTITY locationpage.login.description   "Opcional: ingresa un nombre de usuario y contraseña" >
+<!ENTITY locationpage.username.label      "Nombre de usuario:" >
+<!ENTITY locationpage.password.label      "Contraseña:" >
 
+<!ENTITY custompage.shortdescription  "Personaliza tu calendario" >
+<!ENTITY custompage.longdescription   "Puedes darle a tu calendario un sobrenombre y colorear los eventos." >
 
+<!ENTITY finishpage.shortdescription  "Calendario creado" >
+<!ENTITY finishpage.longdescription   "Tu calendario ha sido creado." >
