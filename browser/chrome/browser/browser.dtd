@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
 <!ENTITY pageActionButton.tooltip "Akcije boka">
+<!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
+<!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
 
-
-
+<!ENTITY sendToDevice.label2 "Na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">

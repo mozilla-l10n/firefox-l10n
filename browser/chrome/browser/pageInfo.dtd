@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Wobsejźaŕ:">
 <!ENTITY  securityView.identity.domain   "Websedło:">
 <!ENTITY  securityView.identity.verifier "Pśespytany wót:">
-
+<!ENTITY  securityView.identity.validity "Spadnjo:">
 
 <!ENTITY  securityView.privacy.header                   "Priwatnosć a historija">
 <!ENTITY  securityView.privacy.history                  "Som se k toś tomu websedłoju južo do togo woglědał?">

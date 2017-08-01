@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "W">
 
 <!ENTITY noTranslationForSites.label      "Pśełožowanje njepóbitujo se za slědujuce sedła:">
-
+<!ENTITY treehead.siteName2.label         "Websedła">
 <!ENTITY removeSite.label                 "Sedło wótpóraś">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Wšykne sedła wótpóraś">

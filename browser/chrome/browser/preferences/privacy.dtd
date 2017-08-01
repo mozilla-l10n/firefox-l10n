@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Slědowański šćit w priwatnem modusu wužywaś, aby znate pśeslědowarje blokěrował">
 <!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalšne informacije">
-
-
+<!ENTITY changeBlockList2.label               "Blokěrowańsku lisćinu změniś…">
+<!ENTITY changeBlockList2.accesskey           "z">
 
 <!ENTITY  doNotTrack.description        "Websedłam signal “Njeslědowaś” pósłaś, až njocośo, až wóne was slěduju">
 <!ENTITY  doNotTrack.learnMore.label    "Dalšne informacije">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresowe pólo">
 <!ENTITY  addressBar.suggest.label      "Pśi wužywanju adresowego póla ma se naraźiś">
-
-
+<!ENTITY  locbar.history2.label         "Pśeglědowańska historija">
+<!ENTITY  locbar.history2.accesskey     "g">
 <!ENTITY  locbar.bookmarks.label        "Cytańske znamjenja">
 <!ENTITY  locbar.bookmarks.accesskey    "C">
 <!ENTITY  locbar.openpage.label         "Wócynjone rejtarki">
@@ -46,7 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Nastajenja za naraźenja pytnice změniś">
 
-
+<!ENTITY  acceptCookies2.label          "Cookieje ze sedłow akceptěrowaś">
+<!ENTITY  acceptCookies2.accesskey      "c">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookieje tśeśich póbitowarjow akceptěrowaś:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

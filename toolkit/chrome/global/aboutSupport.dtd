@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcije, kótarež su se wót wowaleńskego stražnika znjemóžnili">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Nuzowe rozwězanja">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Medije">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Wudawańske rědy">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Zapódawańske rědy">
+<!ENTITY aboutSupport.mediaDeviceName "Mě">
+<!ENTITY aboutSupport.mediaDeviceGroup "Kupka">
+<!ENTITY aboutSupport.mediaDeviceVendor "Pśedawaŕ">
+<!ENTITY aboutSupport.mediaDeviceState "Status">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferěrowany">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
+<!ENTITY aboutSupport.mediaDeviceRate "Rata">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latenca">
