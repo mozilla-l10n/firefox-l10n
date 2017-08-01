@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "வெளியேறும் போது தனிப்பட்ட தரவுகளை அழி">
 <!ENTITY pref_clear_on_exit_summary2 "முதன்மை பட்டியலில் \u0022Quit\u0022 என்பதை தெரிவுச்செய்யும் போதெல்லாம் உங்களுடைய தரவை &brandShortName; இது தானாகவே துடைத்துவிடும்">
 <!ENTITY pref_clear_on_exit_dialog_title "துடைக்க வேண்டிய தரவை தேர்">
-<!ENTITY pref_plugins "செருகுநிரல்கள்">
-<!ENTITY pref_plugins_enabled "செயல்படுத்தப்பட்டது">
-<!ENTITY pref_plugins_tap_to_play2 "தட்டி விளையாடு">
-<!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_restore_tabs "கீற்றுகளை மீளமை">
 <!ENTITY pref_restore_always "எப்போதும் மீட்டமை">
 <!ENTITY pref_restore_quit "&brandShortName; வெளியேறியப்பின் மீட்டமைக்காதே">
