@@ -46,8 +46,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Newid dewisiadau am awgrymiadau peiriannau chwilio">
 
-<!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
-<!ENTITY  acceptCookies.accesskey       "w">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Derbyn cwcis trydydd parti:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
