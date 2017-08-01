@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Змінити налаштування для пропозицій засобу пошуку…">
 <!ENTITY  suggestionSettings.accesskey  "м">
 
-<!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
-<!ENTITY  acceptCookies.accesskey       "к">
+<!ENTITY  acceptCookies2.label          "Приймати куки від сайтів">
+<!ENTITY  acceptCookies2.accesskey      "й">
 
 <!ENTITY  acceptThirdParty.pre.label      "Приймати куки від сторонніх сайтів:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "с">

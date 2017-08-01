@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "в">
 
 <!ENTITY noTranslationForSites.label      "Переклад не буде пропонуватись для таких сайтів:">
-<!ENTITY treehead.siteName.label          "Сайти">
+<!ENTITY treehead.siteName2.label         "Веб-сайти">
 <!ENTITY removeSite.label                 "Прибрати сайт">
 <!ENTITY removeSite.accesskey             "с">
 <!ENTITY removeAllSites.label             "Прибрати всі сайти">

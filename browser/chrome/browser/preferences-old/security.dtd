@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Загальні">
 
-<!ENTITY  warnOnAddonInstall.label        "Попереджати при спробі сайтів встановити додаток">
-<!ENTITY  warnOnAddonInstall.accesskey    "П">
+<!ENTITY  warnOnAddonInstall2.label       "Попереджати при спробі веб-сайтів встановити додаток">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ж">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Паролі">
 
-<!ENTITY  rememberLogins.label          "Запам’ятовувати паролі для сайтів">
-<!ENTITY  rememberLogins.accesskey      "З">
+<!ENTITY  rememberLogins2.label         "Запам’ятовувати паролі для веб-сайтів">
+<!ENTITY  rememberLogins2.accesskey     "п">
 <!ENTITY  passwordExceptions.label      "Винятки…">
 <!ENTITY  passwordExceptions.accesskey  "и">
 
