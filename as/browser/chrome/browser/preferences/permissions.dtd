@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "ব্যতিক্ৰম">
 
 
-<!ENTITY treehead.sitename.label      "ছাইট">
 <!ENTITY treehead.status.label        "অৱস্থা">
-<!ENTITY removepermission.label       "ছাইট আঁতৰাওক">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "সকলো ছাইট আঁতৰাওক">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "ৱেব ছাইটৰ ঠিকনা:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ৰোধ কৰক">
