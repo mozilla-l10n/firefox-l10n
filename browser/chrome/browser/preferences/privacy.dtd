@@ -43,8 +43,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Փոխել որոնիչների նախապատվությունները">
 
-<!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
-<!ENTITY  acceptCookies.accesskey       "Ը">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Ընդունել cookie-ներ կողմնակի կայքերից.">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ր">

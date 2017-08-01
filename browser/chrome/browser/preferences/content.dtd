@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "Կ">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Իմանալ ավելին">
-<!ENTITY  notificationsPolicyDesc3.label       "Ընտրեք, թե որ կայքերին է թույլատրված ուղարկել ձեզ ծանուցումներ">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "ն">
 <!ENTITY  notificationsPolicyButton.label      "Ընտրել…">
 <!ENTITY  notificationsDoNotDisturb.label      "Չխանգարել ինձ">
