@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Jikomal">
 <!ENTITY  phishingProtection.label       "Chajinïk chuwäch K'exonel">
 
-<!ENTITY  warnOnAddonInstall.label        "Taya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
-<!ENTITY  warnOnAddonInstall.accesskey    "T">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Nojwuj &amp; Ewan taq Tzij ">
 
-<!ENTITY  rememberLogins1.label          "Kerunataj ri kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq k'amaya'l">
-<!ENTITY  rememberLogins1.accesskey      "K">
+
 <!ENTITY  passwordExceptions.label      "Taq man relik ta…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 
