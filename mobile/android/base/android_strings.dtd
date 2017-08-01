@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Hreinsa persónuleg gögn þegar lokað er">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; mun hreinsa gögnin þín sjálfvirkt þegar þú velur  \u0022hætta\u0022  úr aðal valmyndinni">
 <!ENTITY pref_clear_on_exit_dialog_title "Veldu hvaða gögn á að hreinsa">
-<!ENTITY pref_plugins "Tengiforrit">
-<!ENTITY pref_plugins_enabled "Virkt">
-<!ENTITY pref_plugins_tap_to_play2 "Snerta til að spila">
-<!ENTITY pref_plugins_disabled "Óvirkt">
 <!ENTITY pref_restore_tabs "Endurheimta flipa">
 <!ENTITY pref_restore_always "Alltaf endurheimta">
 <!ENTITY pref_restore_quit "Ekki endurheimta þegar &brandShortName; er lokað">
