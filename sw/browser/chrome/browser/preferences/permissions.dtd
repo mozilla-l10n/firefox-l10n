@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Mambo ya pekee">
 
 
-<!ENTITY treehead.sitename.label      "Tovuti">
 <!ENTITY treehead.status.label        "Hadhi">
-<!ENTITY removepermission.label       "Ondoa Tovuti">
-<!ENTITY removepermission.accesskey   "O">
-<!ENTITY removeallpermissions.label   "Ondoa Tovuti Zote">
-<!ENTITY removeallpermissions.accesskey "d">
+
+
+
+
 <!ENTITY address.label                "Anwani ya wavuti:">
 <!ENTITY address.accesskey            "n">
 <!ENTITY block.label                  "Zuia">
