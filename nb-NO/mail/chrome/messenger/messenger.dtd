@@ -953,3 +953,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Innstillinger for app-ikon …">
 <!ENTITY writeNewMessageDock.label      "Skriv ny melding">
+<!ENTITY openAddressBookDock.label      "Åpne adressebok">
