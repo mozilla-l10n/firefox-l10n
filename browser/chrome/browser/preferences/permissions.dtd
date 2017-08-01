@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "വിട്ടുവീഴ്ചകള്‍">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "സൈറ്റ്‌">
 <!ENTITY treehead.status.label        "സ്ഥിതി ">
-<!ENTITY removepermission.label       "സൈറ്റ് നീക്കം ചെയ്യുക">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "വെബ്‌ സൈറ്റിന്റെ വിലാസം ">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "തടയുക ">

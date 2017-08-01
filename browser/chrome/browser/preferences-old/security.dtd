@@ -22,8 +22,7 @@
 
 <!ENTITY  logins.label                  "പ്രവേശനങ്ങള്‍">
 
-<!ENTITY  rememberLogins.label          "സൈറ്റുകള്‍ക്കുള്ള പ്രവേശനങ്ങള്‍ സൂക്ഷിക്കുക">
-<!ENTITY  rememberLogins.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "ഒഴിവാക്കേണ്ടവ…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

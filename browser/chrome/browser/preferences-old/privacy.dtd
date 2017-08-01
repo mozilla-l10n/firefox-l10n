@@ -41,8 +41,7 @@
 <!ENTITY  suggestionSettings.label      "തിരച്ചിൽ യന്ത്രത്തിന്‍റെ നിര്‍ദ്ദേശങ്ങള്‍ ക്രമീകരിക്കുക…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 
 <!ENTITY  acceptThirdParty.always.label   "എപ്പോഴും">

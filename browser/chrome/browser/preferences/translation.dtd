@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ക">
 
 <!ENTITY noTranslationForSites.label      "ഈ സൈറ്റുകള്‍ക്ക് തര്‍ജ്ജമ ലഭ്യമല്ല:">
-<!ENTITY treehead.siteName.label          "സൈറ്റുകള്‍">
+
 <!ENTITY removeSite.label                 "സൈറ്റ് നീക്കം ചെയ്യുക">
 <!ENTITY removeSite.accesskey             "സ">
 <!ENTITY removeAllSites.label             "എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യുക">
