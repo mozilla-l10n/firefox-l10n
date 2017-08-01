@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Otsingutulemused">
 <!ENTITY  paneGeneral.title             "Üldine">
+<!ENTITY  paneSearch.title              "Otsing">
 <!ENTITY  paneFilesApplications.title   "Failid ja rakendused">
 <!ENTITY  panePrivacySecurity.title     "Privaatsus ja turvalisus">
 <!ENTITY  paneContainers.title          "Konteinerkaardid">
 <!ENTITY  paneUpdates.title             "Uuendused">
 
+<!ENTITY  languageAndAppearance.label   "Keel ja välimus">
+<!ENTITY  filesAndApplications.label    "Failid ja rakendused">
+<!ENTITY  browserPrivacy.label          "Veebilehitseja privaatsus">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefoxi konto">
 
 <!ENTITY  helpButton2.label        "&brandShortName;i abi">
-
-<!ENTITY  searchInput.label        "Otsi">
