@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Prijevod neće biti ponuđen za sljedeće stranice:">
-<!ENTITY treehead.siteName.label          "Stranice">
+
 <!ENTITY removeSite.label                 "Ukloni stranicu">
 <!ENTITY removeSite.accesskey             "r">
 <!ENTITY removeAllSites.label             "Ukloni sve stranice">

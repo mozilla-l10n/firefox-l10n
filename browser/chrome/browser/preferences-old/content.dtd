@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Obavijesti">
 <!ENTITY  notificationsPolicyLearnMore.label   "Saznajte više">
-<!ENTITY  notificationsPolicyDesc3.label       "Odaberite koje stranice mogu slati obavijesti">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "O">
 <!ENTITY  notificationsPolicyButton.label      "Odaberi…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne uznemiravaj">

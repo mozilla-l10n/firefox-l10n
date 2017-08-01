@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Iznimke">
 <!ENTITY window.width                 "41em">
 
-<!ENTITY treehead.sitename.label      "Stranica">
 <!ENTITY treehead.status.label        "Stanje">
-<!ENTITY removepermission.label       "Ukloni stranicu">
-<!ENTITY removepermission.accesskey   "r">
-<!ENTITY removeallpermissions.label   "Ukloni sve stranice">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Adresa web stranice:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokiraj">
