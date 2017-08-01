@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Nastajenja za naraźenja pytnice změniś…">
 <!ENTITY  suggestionSettings.accesskey  "s">
 
-<!ENTITY  acceptCookies.label           "Cookieje ze sedłow akceptěrowaś">
-<!ENTITY  acceptCookies.accesskey       "c">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookieje tśeśich póbitowarjow akceptěrowaś:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
