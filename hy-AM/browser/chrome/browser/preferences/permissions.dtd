@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Բացառումներ">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Կայքը">
 <!ENTITY treehead.status.label        "Կարգավիճակը">
-<!ENTITY removepermission.label       "Հեռացնել կայքը">
-<!ENTITY removepermission.accesskey   "Հ">
-<!ENTITY removeallpermissions.label   "Հեռացնել Բոլոր կայքերը">
-<!ENTITY removeallpermissions.accesskey "ե">
+
+
+
+
 <!ENTITY address.label                "Կայքի հասցեն">
 <!ENTITY address.accesskey            "ա">
 <!ENTITY block.label                  "Արգելել">

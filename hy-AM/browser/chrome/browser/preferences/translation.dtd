@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ե">
 
 <!ENTITY noTranslationForSites.label      "Թարգմանություն չի առաջարկվի հետևյալ կայքերի համար.">
-<!ENTITY treehead.siteName.label          "Կայքեր">
+
 <!ENTITY removeSite.label                 "Հեռացնել կայքը">
 <!ENTITY removeSite.accesskey             "կ">
 <!ENTITY removeAllSites.label             "Հեռացնել Բոլոր Կայքերը">

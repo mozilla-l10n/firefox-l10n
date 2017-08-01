@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Անվտանգուրյուն">
 
 
-<!ENTITY  warnOnAddonInstall.label        "Զգուշացնել, երբ կայքերը փորձում են տեղադրել հավելումներ">
-<!ENTITY  warnOnAddonInstall.accesskey    "Զ">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Ձևեր և գաղտնաբառեր">
 
-<!ENTITY  rememberLogins1.label          "Հիշել մուտքագրումները և գաղտնաբառերը կայքերի համար">
-<!ENTITY  rememberLogins1.accesskey      "Հ">
+
 <!ENTITY  passwordExceptions.label      "Բացառություններ…">
 <!ENTITY  passwordExceptions.accesskey  "ա">
 
