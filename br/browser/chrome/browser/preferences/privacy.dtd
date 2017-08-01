@@ -42,8 +42,7 @@
 <!ENTITY  locbar.searches.accesskey     "o">
 
 
-<!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
-<!ENTITY  acceptCookies.accesskey       "D">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Degemer toupinoù un trede:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "g">

@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Hollek">
 
-<!ENTITY  warnOnAddonInstall.label        "Kas keloù din pa glask al lec'hiennoù staliañ askouezhioù">
-<!ENTITY  warnOnAddonInstall.accesskey    "K">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Titouroù kennaskañ">
 
-<!ENTITY  rememberLogins.label          "Derc'hel soñj eus va titouroù kennaskañ evit al lec'hiennoù">
-<!ENTITY  rememberLogins.accesskey      "D">
+
 <!ENTITY  passwordExceptions.label      "Nemedennoù…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 

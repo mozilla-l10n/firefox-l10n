@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask...">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
-<!ENTITY  acceptCookies.accesskey       "D">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Degemer toupinoù un trede:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "g">

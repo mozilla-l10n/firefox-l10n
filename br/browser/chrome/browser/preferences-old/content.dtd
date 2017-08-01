@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Rebuzadurioù">
 <!ENTITY  notificationsPolicyLearnMore.label   "Gouzout hiroc'h">
-<!ENTITY  notificationsPolicyDesc3.label       "Dibab peseurt lec'hiennoù a zo aotreet da gas rebuzadurioù deoc'h">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "i">
 <!ENTITY  notificationsPolicyButton.label      "Dibab…">
 <!ENTITY  notificationsDoNotDisturb.label      "Arabat direnkañ ac'hanon">

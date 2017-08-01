@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "h">
 
 <!ENTITY noTranslationForSites.label      "An droidigezh ne vo ket kinniget evit al lec'hiennoù da-heul :">
-<!ENTITY treehead.siteName.label          "Lec'hiennoù">
+
 <!ENTITY removeSite.label                 "Lemel al lec'hienn">
 <!ENTITY removeSite.accesskey             "a">
 <!ENTITY removeAllSites.label             "Lemel an holl lec'hiennoù">
