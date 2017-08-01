@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "امسح البيانات الخاصة عند الخروج">
 <!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك ”أغلق“ من القائمة الرئيسية">
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
-<!ENTITY pref_plugins "الملحقات">
-<!ENTITY pref_plugins_enabled "مفعّلة">
-<!ENTITY pref_plugins_tap_to_play2 "المس للتشغيل">
-<!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_restore_tabs "استعد الألسنة">
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
