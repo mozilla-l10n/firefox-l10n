@@ -34,8 +34,8 @@
 <!ENTITY locbar.searches.accesskey "h">
 <!ENTITY suggestionSettings.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca…">
 <!ENTITY suggestionSettings.accesskey "g">
-<!ENTITY acceptCookies.label "Accetta i cookie dai siti">
-<!ENTITY acceptCookies.accesskey "k">
+<!ENTITY acceptCookies2.label "Accetta i cookie dai siti web">
+<!ENTITY acceptCookies2.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Accetta i cookie di terze parti:">
 <!ENTITY acceptThirdParty.pre.accesskey "t">
 <!ENTITY acceptThirdParty.always.label "sempre">
