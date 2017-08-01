@@ -360,10 +360,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Nadure\u0027 nuguan\u0027 huii nga gahui">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ganadure\u0027 ma\u0027an nej dan nga ganahui \u0022Quit\u0022 riñan ñanj taj ne\u0027ian an.">
 <!ENTITY pref_clear_on_exit_dialog_title "Ganahui ahuin si ruat ganare\u0027">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ngà huaj">
-<!ENTITY pref_plugins_tap_to_play2 "Gruyru\u0027ma ra\u0027a da\u0027 gayi\u0027ij">
-<!ENTITY pref_plugins_disabled "Ganikinj">
 <!ENTITY pref_restore_tabs "Nagui\u0027iaj nako\u0027 rakij man">
 <!ENTITY pref_restore_always "Nagui\u0027iaj naka">
 <!ENTITY pref_restore_quit "Si nagui\u0027io\u0027 nga gahui\u0027 riñan &brandShortName;">
@@ -547,6 +543,7 @@
 <!ENTITY page_removed "Ñanj ngà nare\u0027">
 
 <!ENTITY bookmark_edit_title "Nachrun\u0027 \u0027ngo sa arajsun nichrò\u0027 doj">
+
 <!ENTITY bookmark_edit_name "Si yugui\u0027">
 <!ENTITY bookmark_edit_location "Dane\u0027 huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
@@ -623,6 +620,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Nadigun\u0027 nej aga\u0027a">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "¿Rakïj ñanj doj?">
 <!ENTITY remote_tabs_panel_moved_desc "Nadusiki\u0027 ñuj nej rakïj ñaj arajsunt ngà a\u0027ngô nej aga\u0027 sikà\u0027 ràa ni nachrûn ñuj ma riña \u0027ngo ñanj ayi\u0027ì\u0027 da\u0027 nga na\u0027nïjt \u0027ngo rakíj ñanj nakàa ni se si chì\u0027 narì\u0027t ma.">
