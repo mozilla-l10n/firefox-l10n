@@ -19,9 +19,9 @@
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
-<!ENTITY firstrun_button_next "Ɣer zdat">
+<!ENTITY firstrun_button_next "Γer zdat">
 
-<!ENTITY firstrun_tabqueue_title "Iseɣwan">
+<!ENTITY firstrun_tabqueue_title "Iseγwan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Rmed adras n yiccer">
 <!ENTITY firstrun_tabqueue_subtext_off "Sekles iseɣwan deg &brandShortName; ticki tettaruḍ-ten deg yisnasen nniḍen.">
@@ -54,7 +54,7 @@
 <!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren deg usebter agejdan n &brandShortName; ticki t-senkreṭ.">
 <!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy-agi akken ad yefru wugur">
 <!ENTITY  crash_include_url2 "Seddu tansa n usebter anda lliɣ">
-<!ENTITY  crash_sorry "Sureft-aɣ">
+<!ENTITY  crash_sorry "Sureft-aγ">
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
 <!ENTITY  crash_email "Imayl inek">
@@ -104,7 +104,7 @@
 <!ENTITY search "Nadi">
 <!ENTITY reload "Smiren">
 <!ENTITY forward "Asebter d-itteddun">
-<!ENTITY menu "Umuɣ">
+<!ENTITY menu "Umuγ">
 <!ENTITY back "Uɣal ɣer deffir">
 <!ENTITY stop "Rken">
 <!ENTITY site_security "Taɣellist n usmel web">
@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
-<!ENTITY pref_plugins "Izegrar imernan">
-<!ENTITY pref_plugins_enabled "Irmed">
-<!ENTITY pref_plugins_tap_to_play2 "Nnal akken ad yeddu">
-<!ENTITY pref_plugins_disabled "Arurmid">
 <!ENTITY pref_restore_tabs "Err-d iccaren">
 <!ENTITY pref_restore_always "Ttarra-d yal tikelt">
 <!ENTITY pref_restore_quit "Ur d-ttarra ara seld ma teffɣeḍ seg &brandShortName;">
