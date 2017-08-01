@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Fetola dikgethwa tsa ditshitshinyo tsa sebatli sa inthanete...">
 <!ENTITY  suggestionSettings.accesskey  "F">
 
-<!ENTITY  acceptCookies.label           "Amogela dikhukhi go tsweng mo disaeteng">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 
 <!ENTITY  acceptThirdParty.always.label   "Ka nako tsotlhe">
