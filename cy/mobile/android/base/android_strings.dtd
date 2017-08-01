@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Clirio data preifat wrth adael">
 <!ENTITY pref_clear_on_exit_summary2 "Bydd &brandShortName; yn clirio eich data yn awtomatig pryd bynnag fyddwch yn dewis \u0022Gadael\u0022 o\u0027r brif ddewislen">
 <!ENTITY pref_clear_on_exit_dialog_title "Dewis pa ddata i\u0027w glirio">
-<!ENTITY pref_plugins "Ategion">
-<!ENTITY pref_plugins_enabled "Galluogwyd">
-<!ENTITY pref_plugins_tap_to_play2 "Cyffwrdd i chwarae">
-<!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_restore_tabs "Adfer tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
 <!ENTITY pref_restore_quit "Peidio eu hadfer ar ôl gadael &brandShortName;">
