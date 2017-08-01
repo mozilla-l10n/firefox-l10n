@@ -36,7 +36,7 @@
 <!ENTITY  addressBar.label              "Adresní řádek">
 <!ENTITY  addressBar.suggest.label      "V adresním řádku našeptávat">
 <!ENTITY  locbar.history2.label         "Historii prohlížení">
-<!ENTITY  locbar.history2.accesskey     "i">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
 <!ENTITY  locbar.bookmarks.accesskey    "Z">
 <!ENTITY  locbar.openpage.label         "Otevřené panely">
@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Změnit předvolby našeptávání vyhledávače">
 
-<!ENTITY  acceptCookies.label           "Povolit serverům nastavovat cookies">
-<!ENTITY  acceptCookies.accesskey       "a">
+<!ENTITY  acceptCookies2.label          "Povolit serverům nastavovat cookies">
+<!ENTITY  acceptCookies2.accesskey      "a">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookies třetích stran">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

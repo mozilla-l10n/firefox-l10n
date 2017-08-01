@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Změnit předvolby našeptávání vyhledávače…">
 <!ENTITY  suggestionSettings.accesskey  "y">
 
-<!ENTITY  acceptCookies.label           "Povolit serverům nastavovat cookies">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Povolit serverům nastavovat cookies">
+<!ENTITY  acceptCookies2.accesskey      "c">
 
 <!ENTITY  acceptThirdParty.pre.label      "Povolit cookies třetích stran:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "a">

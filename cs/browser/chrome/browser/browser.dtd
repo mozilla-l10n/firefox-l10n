@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartovat a aktualizovat aplikaci &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Akce stránky">
+<!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
+<!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
 
 <!ENTITY sendToDevice.label2 "Odeslat do zařízení">
-<!ENTITY sendToDevice.viewTitle "Odeslat do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
