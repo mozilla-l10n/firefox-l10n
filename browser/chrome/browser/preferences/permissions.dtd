@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Zêdekarî">
 
 
-<!ENTITY treehead.sitename.label      "Cî">
 <!ENTITY treehead.status.label        "Rewş">
-<!ENTITY removepermission.label       "Malperê Jê Bibe">
-<!ENTITY removepermission.accesskey   "J">
-<!ENTITY removeallpermissions.label   "Hemû Malperan Jê Bibe">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Navnîşana malperê:">
 <!ENTITY address.accesskey            "N">
 <!ENTITY block.label                  "Asteng Bike">
