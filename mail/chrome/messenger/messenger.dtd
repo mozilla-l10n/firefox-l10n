@@ -953,3 +953,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Options de l’icône de l’application…">
 <!ENTITY writeNewMessageDock.label      "Rédiger un nouveau message">
+<!ENTITY openAddressBookDock.label      "Ouvrir le carnet d’adresses">
