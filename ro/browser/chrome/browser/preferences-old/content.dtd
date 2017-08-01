@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Notificări">
 <!ENTITY  notificationsPolicyLearnMore.label   "Află mai multe">
-<!ENTITY  notificationsPolicyDesc3.label       "Alege ce site-uri au permisiunea de a-ți trimite notificări">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Alege…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nu mă deranja">
