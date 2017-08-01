@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "बन्द गर्दा निजी डाटा हटाउनुहोस्">
 <!ENTITY pref_clear_on_exit_summary2 "तपाईँले मुख्य मेनु बाट \u0022बाहिर निस्कनुहोस\u0022 थिच्नुभयो भने &brandShortName; ले तपाईँको सबै डाटाहरू स्वतः हटाउनेछ">
 <!ENTITY pref_clear_on_exit_dialog_title "कुन डाटा खाली गर्ने चयन गर्नुहोस्">
-<!ENTITY pref_plugins "प्लगइनहरू">
-<!ENTITY pref_plugins_enabled "सक्षम पारिएको">
-<!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
-<!ENTITY pref_plugins_disabled "अक्षम पारिएको">
 <!ENTITY pref_restore_tabs "ट्याबहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_restore_always "सधैँ पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनः स्थापना नगर्नुहोस्">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "पृष्ठ हटाइयो">
 
 <!ENTITY bookmark_edit_title "पुस्तकचिनो सम्पादन गर्नुहोस्">
+
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
@@ -624,6 +621,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "रोजिएका यन्त्रहरूलाई नलुकाउनुहोस्।">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो?">
 <!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य यन्त्रहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
