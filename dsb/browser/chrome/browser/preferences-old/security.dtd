@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Powšykne">
 
-<!ENTITY  warnOnAddonInstall.label        "Warnowaś, gaž sedła wopytuju dodanki instalěrowaś">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Pśizjawjenja">
 
-<!ENTITY  rememberLogins.label          "Pśizjawjenja za sedła se spomnjeś">
-<!ENTITY  rememberLogins.accesskey      "P">
+
 <!ENTITY  passwordExceptions.label      "Wuwześa…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
