@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "一般">
 
-<!ENTITY  warnOnAddonInstall.label        "在網站試圖安裝附加元件時通知您">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "當網站嘗試安裝附加元件時警告您">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "登入資訊">
 
-<!ENTITY  rememberLogins.label          "為網站記住登入資訊">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "為網站記住登入資訊">
+<!ENTITY  rememberLogins2.accesskey     "">
 <!ENTITY  passwordExceptions.label      "例外網站…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

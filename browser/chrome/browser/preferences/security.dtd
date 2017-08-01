@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "安全性">
 <!ENTITY  phishingProtection.label       "釣魚防護">
 
-<!ENTITY  warnOnAddonInstall.label        "在網站試圖安裝附加元件時通知您">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "當網站嘗試安裝附加元件時警告您">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "表單與密碼">
 
-<!ENTITY  rememberLogins1.label          "記住網站的登入帳號與密碼">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "記住網站的登入帳號與密碼">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "例外網站…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

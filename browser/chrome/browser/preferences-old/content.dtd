@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "通知">
 <!ENTITY  notificationsPolicyLearnMore.label   "詳細資訊">
-<!ENTITY  notificationsPolicyDesc3.label       "選擇您允許哪些網站傳送通知">
+<!ENTITY  notificationsPolicyDesc4.label       "選擇要允許哪些網站傳送通知給您">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "選擇…">
 <!ENTITY  notificationsDoNotDisturb.label      "勿干擾">
@@ -58,4 +58,3 @@
 <!ENTITY  playDRMContent.label         "播放 DRM 內容">
 <!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "詳細資訊">
-
