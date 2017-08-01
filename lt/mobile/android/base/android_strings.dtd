@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Išvalyti privačius duomenis baigus darbą">
 <!ENTITY pref_clear_on_exit_summary2 "„&brandShortName;“ automatiškai išvalys privačius duomenis kaskart jums pasirinkus pagrindinio meniu punktą „Baigti darbą“">
 <!ENTITY pref_clear_on_exit_dialog_title "Pasirinkite, kuriuos duomenis reikia valyti">
-<!ENTITY pref_plugins "Papildiniai">
-<!ENTITY pref_plugins_enabled "Įjungta">
-<!ENTITY pref_plugins_tap_to_play2 "Bakstelėkite grojimui">
-<!ENTITY pref_plugins_disabled "Išjungta">
 <!ENTITY pref_restore_tabs "Atkurti korteles">
 <!ENTITY pref_restore_always "Visada atkurti">
 <!ENTITY pref_restore_quit "Neatkurti po „&brandShortName;“ darbo pabaigos">
