@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Тодорхойлж өгөх">
 
 
-<!ENTITY treehead.sitename.label      "Хуудас">
 <!ENTITY treehead.status.label        "Төлөв байдал">
-<!ENTITY removepermission.label       "Хуудсыг устга">
-<!ENTITY removepermission.accesskey   "у">
-<!ENTITY removeallpermissions.label   "Бүх хуудсыг устга">
-<!ENTITY removeallpermissions.accesskey "Б">
+
+
+
+
 
 
 <!ENTITY block.label                  "Хорих">
