@@ -5,11 +5,12 @@
 <!ENTITY window.title                 "Wuwześa">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "Websedło">
 <!ENTITY treehead.status.label        "Status">
-
-
-
-
+<!ENTITY removepermission2.label      "Websedło wowónoźeś">
+<!ENTITY removepermission2.accesskey  "w">
+<!ENTITY removeallpermissions2.label  "Wšykne sedła wótwónoźeś">
+<!ENTITY removeallpermissions2.accesskey "s">
 <!ENTITY address.label                "Adresa websedła:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokěrowaś">
