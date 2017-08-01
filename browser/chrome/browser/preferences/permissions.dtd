@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "अपवाद">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "साइट">
 <!ENTITY treehead.status.label        "स्थिति">
-<!ENTITY removepermission.label       "साइट हटाउ">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "सभटा साइट हटाउ">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "वेब साइट पता:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "रोकू">
