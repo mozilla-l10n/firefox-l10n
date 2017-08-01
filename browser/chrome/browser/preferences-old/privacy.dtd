@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Tshintsha iipreferensi zamacebiso enjini yokukhangela…">
 <!ENTITY  suggestionSettings.accesskey  "n">
 
-<!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwiisayithi">
-<!ENTITY  acceptCookies.accesskey       "Y">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Yamkela iikhukhi zomnye umntu:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
