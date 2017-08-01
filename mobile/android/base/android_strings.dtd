@@ -212,10 +212,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Elimina dati personali alla chiusura">
 <!ENTITY pref_clear_on_exit_summary2 "I dati personali in &brandShortName; verranno eliminati automaticamente quando si seleziona “Esci” nel menu principale">
 <!ENTITY pref_clear_on_exit_dialog_title "Selezionare i dati da eliminare">
-<!ENTITY pref_plugins "Plugin">
-<!ENTITY pref_plugins_enabled "Attivati">
-<!ENTITY pref_plugins_tap_to_play2 "Tocca per avviare">
-<!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_restore_tabs "Ripristina schede">
 <!ENTITY pref_restore_always "Sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
