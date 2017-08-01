@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Eisgeachdan">
 <!ENTITY window.width                 "49em">
 
-<!ENTITY treehead.sitename.label      "Seòladh">
 <!ENTITY treehead.status.label        "Staid">
-<!ENTITY removepermission.label       "Thoir air falbh làrach">
-<!ENTITY removepermission.accesskey   "r">
-<!ENTITY removeallpermissions.label   "Thoir air falbh a h-uile làrach">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Seòladh na làraich-lìn:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Cuir bacadh air">
