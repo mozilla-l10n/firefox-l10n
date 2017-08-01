@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "ವಿನಾಯಿತಿಗಳು">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "ತಾಣ">
 <!ENTITY treehead.status.label        "ಸ್ಥಿತಿ">
-<!ENTITY removepermission.label       "ತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು ">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "ಎಲ್ಲಾ ತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "ಜಾಲತಾಣದ ವಿಳಾಸ:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "ನಿರ್ಬಂಧಿಸು">

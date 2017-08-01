@@ -40,8 +40,7 @@
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
-<!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
