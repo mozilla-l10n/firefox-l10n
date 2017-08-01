@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Slándáil">
 <!ENTITY  phishingProtection.label       "Cosaint ar Fhioscaireacht">
 
-<!ENTITY  warnOnAddonInstall.label        "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
-<!ENTITY  warnOnAddonInstall.accesskey    "T">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Foirmeacha agus Focail Fhaire">
 
-<!ENTITY  rememberLogins1.label          "Meabhraigh ainmneacha úsáideora agus focail fhaire do shuímh">
-<!ENTITY  rememberLogins1.accesskey      "M">
+
 <!ENTITY  passwordExceptions.label      "Eisceachtaí…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Eisceachtaí">
 <!ENTITY window.width                 "49em">
 
-<!ENTITY treehead.sitename.label      "Suíomh">
 <!ENTITY treehead.status.label        "Stádas">
-<!ENTITY removepermission.label       "Bain Suíomh">
-<!ENTITY removepermission.accesskey   "B">
-<!ENTITY removeallpermissions.label   "Scrios na Suímh Uile">
-<!ENTITY removeallpermissions.accesskey "e">
+
+
+
+
 <!ENTITY address.label                "Seoladh an tsuímh Ghréasáin:">
 <!ENTITY address.accesskey            "G">
 <!ENTITY block.label                  "Coisc">

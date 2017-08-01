@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "Ginearálta">
 
-<!ENTITY  warnOnAddonInstall.label        "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
-<!ENTITY  warnOnAddonInstall.accesskey    "T">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "Focail fhaire">
 
-<!ENTITY  rememberLogins.label          "Meabhraigh focail fhaire">
-<!ENTITY  rememberLogins.accesskey      "r">
+
 <!ENTITY  passwordExceptions.label      "Eisceachtaí…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

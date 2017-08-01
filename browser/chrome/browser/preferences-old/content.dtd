@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Fógraí">
 <!ENTITY  notificationsPolicyLearnMore.label   "Tuilleadh eolais">
-<!ENTITY  notificationsPolicyDesc3.label       "Roghnaigh na suímh a bhfuil cead acu fógraí a thaispeáint duit">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "o">
 <!ENTITY  notificationsPolicyButton.label      "Roghnaigh…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ná cuir isteach orm">
