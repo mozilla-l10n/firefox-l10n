@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "सूचनाहरू">
 <!ENTITY  notificationsPolicyLearnMore.label   "अझै जान्नुहोस्">
-<!ENTITY  notificationsPolicyDesc3.label       "कुन कुन साइटहरूलाई तपाईँलाई सूचना पठाउने अनुमति दिन चहानुहुन्छ, छान्नुहोस्">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "छान्नुहोस् ...">
 <!ENTITY  notificationsDoNotDisturb.label      "मलाई सोधिरहनु पर्दैन">
