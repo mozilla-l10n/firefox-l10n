@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Saajaw">
 
 
-<!ENTITY  warnOnAddonInstall.label        "War yaamar waati kaŋ nungey ga wiri ka tontoniyaŋ sinji">
-<!ENTITY  warnOnAddonInstall.accesskey    "a">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Takarey nda šennikufaley">
 
-<!ENTITY  rememberLogins1.label          "Honga huruyan tammaasawey nda šennikufaley nungey se">
-<!ENTITY  rememberLogins1.accesskey      "H">
+
 <!ENTITY  passwordExceptions.label      "Hasarawey…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Bangandiyaney">
 <!ENTITY  notificationsPolicyLearnMore.label   "Bay ka tonton">
-<!ENTITY  notificationsPolicyDesc3.label       "Nungey suuba kaŋ war ga naŋ i ma bangandiyan sanba war se">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "u">
 <!ENTITY  notificationsPolicyButton.label      "Suuba…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ya mma dejje">

@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Berandiyan ši duwandi interneti nungey wey ga:">
-<!ENTITY treehead.siteName.label          "Nungey">
+
 <!ENTITY removeSite.label                 "Nungu kaa">
 <!ENTITY removeSite.accesskey             "N">
 <!ENTITY removeAllSites.label             "Nungey kul kaa">

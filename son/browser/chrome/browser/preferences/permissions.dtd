@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Hasarawey">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Nungu">
 <!ENTITY treehead.status.label        "Assariya">
-<!ENTITY removepermission.label       "Nungu kaa">
-<!ENTITY removepermission.accesskey   "N">
-<!ENTITY removeallpermissions.label   "Nungey kul kaa">
-<!ENTITY removeallpermissions.accesskey "N">
+
+
+
+
 <!ENTITY address.label                "Interneti nungoo aderesoo:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Gagay">

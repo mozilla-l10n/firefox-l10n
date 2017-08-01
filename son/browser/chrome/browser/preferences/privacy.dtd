@@ -43,8 +43,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Ibaa&amp;ey barmay ceecijinay honnandiyaney se">
 
-<!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
-<!ENTITY  acceptCookies.accesskey       "t">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Doo-waaney aleewawey taa:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
