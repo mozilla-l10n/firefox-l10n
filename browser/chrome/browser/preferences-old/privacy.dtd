@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "साइटहरूबाट कुकी स्वीकार गर्नुहुोस्">
-<!ENTITY  acceptCookies.accesskey       "A">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
