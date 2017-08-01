@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester">
 <!ENTITY trackingProtectionPBM6.accesskey     "p">
 <!ENTITY trackingProtectionPBMLearnMore.label "Læs mere">
-<!ENTITY changeBlockList.label          "Skift blokerings-liste">
-<!ENTITY changeBlockList.accesskey      "S">
+<!ENTITY changeBlockList2.label          "Skift blokerings-liste">
+<!ENTITY changeBlockList2.accesskey      "S">
 
 <!ENTITY  doNotTrack.description        "Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores">
 <!ENTITY  doNotTrack.learnMore.label    "Læs mere">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresselinje">
 <!ENTITY  addressBar.suggest.label      "Når jeg bruger adresselinjen ønsker jeg forslag fra">
-<!ENTITY  locbar.history.label          "Historik">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.label          "Historik">
+<!ENTITY  locbar.history2.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Åbne faneblade">
@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label      "Skift indstillinger for søgeforslag">
 
-<!ENTITY  acceptCookies.label           "Accepter cookies fra websteder">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label           "Accepter cookies fra websteder">
+<!ENTITY  acceptCookies2.accesskey       "c">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepter tredjeparts cookies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

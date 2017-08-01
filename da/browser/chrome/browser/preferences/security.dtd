@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Sikkerhed">
 <!ENTITY  phishingProtection.label       "Beskyttelse mod phishing">
 
-<!ENTITY  warnOnAddonInstall.label        "Advar mig når websteder forsøger at installere tilføjelser">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label        "Advar mig når websteder forsøger at installere tilføjelser">
+<!ENTITY  warnOnAddonInstall2.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formularer &amp; adgangskoder">
 
-<!ENTITY  rememberLogins1.label          "Husk logins og adgangskoder til websteder">
-<!ENTITY  rememberLogins1.accesskey      "H">
+<!ENTITY  rememberLogins2.label          "Husk logins og adgangskoder til websteder">
+<!ENTITY  rememberLogins2.accesskey      "H">
 <!ENTITY  passwordExceptions.label      "Undtagelser…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 

@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproces-vinduer">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Webindholds-processer">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nøgle">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nøgle">
 
@@ -108,6 +110,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Tilgængelighed">
 <!ENTITY aboutSupport.a11yActivated "Aktiveret">
 <!ENTITY aboutSupport.a11yForceDisabled "Slå tilgængelighed fra">
+<!ENTITY aboutSupport.a11yHandlerUsed "Tilgængelig håndeting anvendt">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Biblioteksversioner">
 

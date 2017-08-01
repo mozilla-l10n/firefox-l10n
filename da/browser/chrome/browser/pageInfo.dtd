@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Ejer: ">
 <!ENTITY  securityView.identity.domain   "Websted: ">
 <!ENTITY  securityView.identity.verifier "Bekræftet af: ">
+<!ENTITY  securityView.identity.validity "Udløber:">
 
 <!ENTITY  securityView.privacy.header                   "Privatliv &amp; Historik">
 <!ENTITY  securityView.privacy.history                  "Har jeg besøgt dette websted før?">

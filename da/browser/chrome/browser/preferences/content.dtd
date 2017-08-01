@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Læs mere">
-<!ENTITY  notificationsPolicyDesc3.label       "Vælg websteder, der må sende dig beskeder">
+<!ENTITY  notificationsPolicyDesc4.label       "Vælg websteder, der må sende dig beskeder">
 <!ENTITY  notificationsPolicyButton.accesskey  "g">
 <!ENTITY  notificationsPolicyButton.label      "Vælg…">
 <!ENTITY  notificationsDoNotDisturb.label      "Forstyr ikke">

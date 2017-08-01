@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "a">
 
 <!ENTITY noTranslationForSites.label      "Oversættelse vil ikke blive tilbudt for de følgende websteder:">
-<!ENTITY treehead.siteName.label          "Websteder">
+<!ENTITY treehead.siteName2.label          "Websteder">
 <!ENTITY removeSite.label                 "Fjern websted">
 <!ENTITY removeSite.accesskey             "j">
 <!ENTITY removeAllSites.label             "Fjern alle websteder">

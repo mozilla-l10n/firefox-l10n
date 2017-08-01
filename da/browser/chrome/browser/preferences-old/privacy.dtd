@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Skift indstillinger for søgeforslag…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Accepter cookies fra websteder">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Accepter cookies fra websteder">
+<!ENTITY  acceptCookies2.accesskey      "c">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepter tredjeparts cookies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
