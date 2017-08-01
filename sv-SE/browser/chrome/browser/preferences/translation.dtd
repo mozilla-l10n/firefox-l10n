@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "T">
 
 <!ENTITY noTranslationForSites.label      "Översättning finns inte för följande hemsidor: ">
-<!ENTITY treehead.siteName.label          "Platser">
+<!ENTITY treehead.siteName2.label         "Webbplatser">
 <!ENTITY removeSite.label                 "Ta bort Sajt">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Ta bort alla Sajter">

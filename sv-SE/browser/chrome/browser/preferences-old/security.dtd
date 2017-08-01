@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Allmänt">
 
-<!ENTITY  warnOnAddonInstall.label        "Varna när webbplatser försöker installera tillägg">
-<!ENTITY  warnOnAddonInstall.accesskey    "V">
+<!ENTITY  warnOnAddonInstall2.label       "Varna när webbplatser försöker installera tillägg">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Inloggningar ">
 
-<!ENTITY  rememberLogins.label          "Kom ihåg inloggningar för webbplatser">
-<!ENTITY  rememberLogins.accesskey      "K">
+<!ENTITY  rememberLogins2.label         "Kom ihåg inloggningar för webbplatser">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Undantag…">
 <!ENTITY  passwordExceptions.accesskey  "d">
 
