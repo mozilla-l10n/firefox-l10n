@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 <!ENTITY safeb.palm.decline.label "यस चेतावनीलाई उपेक्षा गर्नुहोस्">
 <!ENTITY safeb.palm.reportPage.label "यो पृष्ठ किन बन्द गरिएको थियो?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 <!ENTITY safeb.blocked.malwarePage.title "उजुर गरिएको आक्रमण साइट!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
