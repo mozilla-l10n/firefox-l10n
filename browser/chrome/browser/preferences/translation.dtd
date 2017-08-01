@@ -9,16 +9,16 @@
 <!ENTITY noTranslationForLanguages.label  "Překlady nebudou nabízeny pro následující jazyky:">
 <!ENTITY treehead.languageName.label      "Jazyky">
 <!ENTITY removeLanguage.label             "Odebrat jazyk">
-<!ENTITY removeLanguage.accesskey         "O">
+<!ENTITY removeLanguage.accesskey         "r">
 <!ENTITY removeAllLanguages.label         "Odebrat všechny jazyky">
-<!ENTITY removeAllLanguages.accesskey     "e">
+<!ENTITY removeAllLanguages.accesskey     "y">
 
-<!ENTITY noTranslationForSites.label      "Překlady nebudou nabízeny pro následující stránky:">
+<!ENTITY noTranslationForSites.label      "Překlady nebudou nabízeny pro následující servery:">
 <!ENTITY treehead.siteName2.label         "Server">
-<!ENTITY removeSite.label                 "Odebrat stránku">
-<!ENTITY removeSite.accesskey             "S">
-<!ENTITY removeAllSites.label             "Odebrat všechny stránky">
-<!ENTITY removeAllSites.accesskey         "v">
+<!ENTITY removeSite.label                 "Odebrat server">
+<!ENTITY removeSite.accesskey             "O">
+<!ENTITY removeAllSites.label             "Odebrat všechny servery">
+<!ENTITY removeAllSites.accesskey         "e">
 
 <!ENTITY button.close.label               "Zavřít">
 <!ENTITY button.close.accesskey           "Z">
