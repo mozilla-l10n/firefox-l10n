@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Шыққанда, жеке деректерді өшіру">
 <!ENTITY pref_clear_on_exit_summary2 "Сіз басты мәзірден \u0022Шығу\u0022 батырмасын басқан кезде &brandShortName; деректеріңізді автоөшіреді">
 <!ENTITY pref_clear_on_exit_dialog_title "Өшірілетін деректерді таңдаңыз">
-<!ENTITY pref_plugins "Плагиндер">
-<!ENTITY pref_plugins_enabled "Іске қосулы">
-<!ENTITY pref_plugins_tap_to_play2 "Ойнату үшін шертіңіз">
-<!ENTITY pref_plugins_disabled "Сөндірілген">
 <!ENTITY pref_restore_tabs "Беттерді қалпына келтіру">
 <!ENTITY pref_restore_always "Әрқашан қалпына келтіру">
 <!ENTITY pref_restore_quit "&brandShortName; жұмысын аяқтағаннан кейін қалпына келтірмеу">
