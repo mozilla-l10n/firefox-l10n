@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Général">
 
-<!ENTITY  warnOnAddonInstall.label        "Prévenir lorsque les sites essaient d’installer des modules complémentaires">
-<!ENTITY  warnOnAddonInstall.accesskey    "P">
+<!ENTITY  warnOnAddonInstall2.label       "Prévenir lorsque les sites essaient d’installer des modules complémentaires">
+<!ENTITY  warnOnAddonInstall2.accesskey   "P">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,7 @@
 
 <!ENTITY  logins.label                  "Identifiants">
 
-<!ENTITY  rememberLogins.label          "Enregistrer les identifiants">
-<!ENTITY  rememberLogins.accesskey      "s">
+<!ENTITY  rememberLogins2.label         "Enregistrer les identifiants">
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
