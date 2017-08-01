@@ -309,10 +309,6 @@
 
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski brisati vaše podatke svaki put kada izaberete \u0022Quit\u0022 u glavnom meniju">
 <!ENTITY pref_clear_on_exit_dialog_title "Izaberite podatke za brisanje">
-<!ENTITY pref_plugins "Plugini">
-<!ENTITY pref_plugins_enabled "Omogućeno">
-
-<!ENTITY pref_plugins_disabled "Onemogućeno">
 
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;a">
@@ -485,6 +481,7 @@
 <!ENTITY page_removed "Stranica uklonjena">
 
 <!ENTITY bookmark_edit_title "Uredi zabilješku">
+
 <!ENTITY bookmark_edit_name "Naziv">
 <!ENTITY bookmark_edit_location "Lokacija">
 <!ENTITY bookmark_edit_keyword "Ključna riječ">
@@ -554,6 +551,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži izabrane uređaje">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "Gdje su nestali moji tabovi?">
 <!ENTITY remote_tabs_panel_moved_desc "Premjestili smo vaše tabove sa drugih uređaja u panel na vašoj početnoj stranici, kojem možete jednostavno pristupiti svaki put kada otvorite novi tab.">
