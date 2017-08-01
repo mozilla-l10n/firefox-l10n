@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "बाहेर पडताना खाजगी माहिती पुसुन टाका">
 <!ENTITY pref_clear_on_exit_summary2 "जेव्हा आपण मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 <!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
-<!ENTITY pref_plugins "प्लगइन्स">
-<!ENTITY pref_plugins_enabled "कार्यान्वीत">
-<!ENTITY pref_plugins_tap_to_play2 "प्ले करण्यासाठी स्पर्श करा">
-<!ENTITY pref_plugins_disabled "निष्क्रिय">
 <!ENTITY pref_restore_tabs "टॅब्स मूळस्थितीत आणा">
 <!ENTITY pref_restore_always "नेहमी पूर्वस्थित करा">
 <!ENTITY pref_restore_quit "&brandShortName; बंद केल्यावर पूर्वस्थित करु नका">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "पान काढले गेले">
 
 <!ENTITY bookmark_edit_title "वाचनखूण संपादीत करा">
+
 <!ENTITY bookmark_edit_name "नाव">
 <!ENTITY bookmark_edit_location "स्थळ">
 <!ENTITY bookmark_edit_keyword "संकेतशब्द">
