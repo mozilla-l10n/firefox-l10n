@@ -6,6 +6,7 @@
 <!ENTITY  phishingProtection.label       "Zaščita pred ribarjenjem">
 
 <!ENTITY  warnOnAddonInstall2.label       "Opozori, ko bodo spletne strani poskušale namestiti dodatke">
+<!ENTITY  warnOnAddonInstall2.accesskey   "P">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,6 +28,7 @@
 <!ENTITY  formsAndPasswords.label       "Obrazci in gesla">
 
 <!ENTITY  rememberLogins2.label         "Zapomni si prijave in gesla spletnih strani">
+<!ENTITY  rememberLogins2.accesskey     "Z">
 <!ENTITY  passwordExceptions.label      "Izjeme …">
 <!ENTITY  passwordExceptions.accesskey  "i">
 
