@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Prevajanje ne bo na voljo za naslednje strani:">
-<!ENTITY treehead.siteName.label          "Strani">
+<!ENTITY treehead.siteName2.label         "Spletne strani">
 <!ENTITY removeSite.label                 "Odstrani stran">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Odstrani vse strani">
