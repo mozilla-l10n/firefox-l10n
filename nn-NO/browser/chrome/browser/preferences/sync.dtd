@@ -23,7 +23,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Einingsnamn">
-<!ENTITY changeSyncDeviceName2.label "Endre einingsnamn…">
+<!ENTITY changeSyncDeviceName2.label "Endre namn på eininga…">
 <!ENTITY changeSyncDeviceName2.accesskey "E">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
