@@ -336,10 +336,6 @@
 <!ENTITY pref_clear_on_exit_title3 "പുറത്തു പോകുമ്പോള്‍ സ്വകാര്യവിവരങ്ങള്‍ നീക്കം ചെയ്യൂ">
 <!ENTITY pref_clear_on_exit_summary2 "മെയിന്‍ മെനുവില്‍ നിന്നും \u0022പുറത്തു് കടക്കൂ\u0022 എന്നതെടുക്കുമ്പോള്‍ &brandShortName; നിങ്ങളുടെ ഉപയോഗവിവരങ്ങള്‍ സ്വയം നീക്കം ചെയ്യും.">
 <!ENTITY pref_clear_on_exit_dialog_title "വെടിപ്പാക്കേണ്ട ഡേറ്റാ തെരഞ്ഞെടുക്കൂ">
-<!ENTITY pref_plugins "പ്ലഗിനുകള്‍">
-<!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
-<!ENTITY pref_plugins_tap_to_play2 "പ്രവര്‍ത്തിപ്പിക്കാന്‍ തൊടൂ">
-<!ENTITY pref_plugins_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
 
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
 <!ENTITY pref_restore_quit "&brandShortName;-ല്‍ വിരമിച്ച ശേഷം പഴയപടിയാക്കേണ്ട">
@@ -517,6 +513,7 @@
 <!ENTITY page_removed "താൾ നീക്കം ചെയ്തു">
 
 <!ENTITY bookmark_edit_title "ഓർമ്മക്കുറിപ്പ് പുനക്രമീകരിക്കുക">
+
 <!ENTITY bookmark_edit_name "പേരു്">
 <!ENTITY bookmark_edit_location "സ്ഥലം">
 <!ENTITY bookmark_edit_keyword "കീവേര്‍ഡ്">
@@ -591,6 +588,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "തിരഞ്ഞെടുത്തിരിക്കുന്ന ഡിവൈസുകള്‍ മറനീക്കുക">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "എന്റെ ടാബുകള്‍ എവിടെപ്പോയി?">
 <!ENTITY remote_tabs_panel_moved_desc "പുതിയ ടാബ് തുറക്കുമ്പോള്‍ ലഭ്യമാവുന്ന തരത്തില്‍ നിങ്ങളുടെ മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഞങ്ങള്‍ ആസ്ഥാന താളില്‍ ഒരു പാനല്‍ വഴി സജ്ജമാക്കിയിരിക്കുന്നു.">
