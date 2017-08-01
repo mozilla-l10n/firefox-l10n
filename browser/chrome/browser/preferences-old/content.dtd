@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Dikitsiso">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ithute mo go tseneletseng">
-<!ENTITY  notificationsPolicyDesc3.label       "Tlhopha gore ke di saete tse fe tse di letlelelwang go go romelela dikitsiso">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Tlhopha…">
 <!ENTITY  notificationsDoNotDisturb.label      "O seka wa nkgoreletsa">
