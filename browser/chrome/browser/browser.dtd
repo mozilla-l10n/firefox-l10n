@@ -700,6 +700,7 @@
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Riavvia per aggiornare &brandShorterName;">
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
+<!ENTITY pageAction.addToUrlbar.label "Aggiungi alla barra degli indirizzi">
+<!ENTITY pageAction.removeFromUrlbar.label "Rimuovi dalla barra degli indirizzi">
 <!ENTITY sendToDevice.label2 "Invia a dispositivo">
-<!ENTITY sendToDevice.viewTitle "Invia a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizzazione dispositivi…">
