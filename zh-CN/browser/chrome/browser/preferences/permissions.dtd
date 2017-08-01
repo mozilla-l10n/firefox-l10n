@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "例外">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "站点">
+<!ENTITY treehead.sitename2.label     "网站">
 <!ENTITY treehead.status.label        "状态">
-<!ENTITY removepermission.label       "移除此站点">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "移除全部站点">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removepermission2.label      "移除网站">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "移除全部网站">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "网站地址：">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "阻止">

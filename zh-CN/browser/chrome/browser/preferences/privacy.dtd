@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "更改搜索引擎建议的首选项">
 
-<!ENTITY  acceptCookies.label           "接受来自站点的 Cookie">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "接受来自网站的 Cookie">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "接受第三方 Cookie：">
 <!ENTITY  acceptThirdParty.pre.accesskey  "C">
