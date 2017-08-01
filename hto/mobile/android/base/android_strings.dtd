@@ -336,10 +336,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Jáiadɨ kue ráana dóo ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; nɨziamo nána ó ranɨaɨ oni oye \u0022Salir\u0022 ráanɨaɨ taɨneyena">
 <!ENTITY pref_clear_on_exit_dialog_title "Nɨzede ráanɨaɨ óni óyena">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ite ráa taɨneka abɨdo">
-<!ENTITY pref_plugins_tap_to_play2 "Jéta fɨnodeyena">
-<!ENTITY pref_plugins_disabled "Já oni oga ">
 <!ENTITY pref_restore_tabs "Úitɨraɨ abɨdo fɨ́no">
 <!ENTITY pref_restore_always "Ñúe fɨ́no">
 <!ENTITY pref_restore_quit "Jóneñenona jáiri de &brandShortName;">
@@ -516,6 +512,7 @@
 <!ENTITY page_removed "Rábe óni óiri">
 
 <!ENTITY bookmark_edit_title "Rɨgɨnoa ábɨdo fɨnode">
+
 <!ENTITY bookmark_edit_name "Mámekɨ">
 <!ENTITY bookmark_edit_location "Íyano">
 <!ENTITY bookmark_edit_keyword "Ñuera úai">
@@ -589,6 +586,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Nɨzede joriaɨ ákatete">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "¿Íemei kúe úitɨraɨ?">
 <!ENTITY remote_tabs_panel_moved_desc "O uitɨraɨ jɨaɨ joria jɨredɨkaɨ ñue raɨre uitɨraɨ tuño.">
