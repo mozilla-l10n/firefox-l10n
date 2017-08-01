@@ -30,7 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "الإبلاغ عن البيانات معطّل في إعدادات البناء">
 
 <!ENTITY enableHealthReport1.label       "اسمح أن يُرسل &brandShortName; تلقائيًا بيانات تقنية و بيانات التفاعل إلى موزيلا">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport1.accesskey   "س">
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
 <!ENTITY dataCollection.label            "جمع &brandShortName; للبيانات و استخدامها">

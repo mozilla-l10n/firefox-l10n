@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "ت">
 
 <!ENTITY runtimeMenu_showMonitor_accesskey "ش">
 <!ENTITY runtimeMenu_showDevicePrefs_label "تفضيلات الجهاز">
@@ -168,7 +168,7 @@
 <!ENTITY simulator_title "خيارات المحاكي">
 <!ENTITY simulator_remove "احذف المحاكي">
 <!ENTITY simulator_reset "استعد الإعدادات المبدئية">
-
+<!ENTITY simulator_name "الاسم">
 <!ENTITY simulator_software "البرمجيات">
 <!ENTITY simulator_version "النسخة">
 
