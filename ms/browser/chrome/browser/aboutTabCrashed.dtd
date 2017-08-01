@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.closeTab "Tutup Tab Ini">
-<!ENTITY tabCrashed.restoreTab "Kembalikan semula Tab Ini">
-<!ENTITY tabCrashed.restoreAll "Kembalikan semula Semua Tab Ranap">
+<!ENTITY tabCrashed.restoreTab "Pulih Tab Ini">
+<!ENTITY tabCrashed.restoreAll "Pulih Semua Tab Ranap">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -15,8 +15,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Alamak. Tab anda sudah ranap.">
 <!ENTITY tabCrashed.offerHelp "Kami boleh membantu anda!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Pilih &tabCrashed.restoreTab; untuk memuat kandungan halaman.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Pilih &tabCrashed.restoreTab; atau &tabCrashed.restoreAll; untuk memuat kandungan halaman.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Pilih &tabCrashed.restoreTab; untuk memuat semula kandungan halaman.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Pilih &tabCrashed.restoreTab; atau &tabCrashed.restoreAll; untuk memuat semula kandungan halaman.">
 <!ENTITY tabCrashed.requestHelp "Anda mahu bantu kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Laporan ranap membantu kami mendiagnos masalah dan membuatkan &brandShortName; lebih baik.">
 <!ENTITY tabCrashed.requestReport "Laporkan tab ini">

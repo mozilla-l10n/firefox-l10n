@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimum">
-<!ENTITY fullScreenRestore.tooltip "Kembalikan semula">
+<!ENTITY fullScreenRestore.tooltip "Pulih">
 <!ENTITY fullScreenClose.tooltip "Tutup">
 <!ENTITY fullScreenAutohide.label "Sorok Bar Alat">
 <!ENTITY fullScreenAutohide.accesskey "B">
@@ -340,7 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Tab Terkini Ditutup">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Tetingkap Terkini Ditutup">
-<!ENTITY historyRestoreLastSession.label "Kembalikan semula Sesi Terdahulu">
+<!ENTITY historyRestoreLastSession.label "Pulih Sesi Terdahulu">
 
 <!ENTITY showAllHistoryCmd2.label "Papar Semua Sejarah">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Sejarah">
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
-<!ENTITY appMenuHistory.restoreSession.label "Kembalikan semula Sesi Terdahulu">
+<!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Terdahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
 <!ENTITY appMenuHistory.recentHistory.label "Sejarah Terkini">
 <!ENTITY appMenuHelp.label "Bantuan">
@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-ons">
-<!ENTITY customizeMode.restoreDefaults "Kembalikan Piawai">
+<!ENTITY customizeMode.restoreDefaults "Pulih Piawai">
 <!ENTITY customizeMode.done "Siap">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.toolbars2 "Bar alat">
@@ -979,7 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "B">
 <!ENTITY updateManual.panelUI.label "Muat turun versi baru &brandShorterName;">
 
-<!ENTITY updateRestart.message "Selepas mula semula, &brandShorterName; akan mengembalikan semua tab dan tetingkap yang anda buka.">
+<!ENTITY updateRestart.message "Selepas mula semula, &brandShorterName; akan memulihkan semua tab dan tetingkap yang anda buka.">
 <!ENTITY updateRestart.header.message2 "Mula semula untuk mengemaskini &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Mula semula dan Pulihkan">
 <!ENTITY updateRestart.acceptButton.accesskey "S">
