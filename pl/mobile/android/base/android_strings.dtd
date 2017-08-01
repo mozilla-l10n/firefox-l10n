@@ -254,10 +254,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Czyszczenie przy wyłączaniu">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zawsze będzie czyścił prywatne dane po wybraniu opcji \u201eZakończ\u201d z głównego menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
-<!ENTITY pref_plugins "Wtyczki">
-<!ENTITY pref_plugins_enabled "Włączone">
-<!ENTITY pref_plugins_tap_to_play2 "Dotknięcie, aby odtworzyć">
-<!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_restore_tabs "Przywracanie kart">
 <!ENTITY pref_restore_always "Zawsze">
 <!ENTITY pref_restore_quit "Nigdy">
