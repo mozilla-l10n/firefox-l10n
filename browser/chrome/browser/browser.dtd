@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Перезапуск для оновлення &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
+<!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
+<!ENTITY pageAction.removeFromUrlbar.label "Вилучити з панелі адреси">
 
 <!ENTITY sendToDevice.label2 "Надіслати на пристрій">
-<!ENTITY sendToDevice.viewTitle "Надіслати на пристрій">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
