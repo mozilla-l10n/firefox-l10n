@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Ändra inställningar för förslag från sökmotorn">
 
-<!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
-<!ENTITY  acceptCookies.accesskey       "w">
+<!ENTITY  acceptCookies2.label          "Tillåt kakor från webbplatser">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Tillåt tredjepartskakor:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "T">
