@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Meddelelser modtaget">
 <!ENTITY aboutNetworking.bytesSent             "Bytes sendt">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes modtaget">
-<!ENTITY aboutNetworking.logging               "Logger">
+<!ENTITY aboutNetworking.logging               "Logning">
 <!ENTITY aboutNetworking.logTutorial           "Læs <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for vejledning til at bruge dette værktøj.">
 <!ENTITY aboutNetworking.currentLogFile        "Aktuel logfil:">
 <!ENTITY aboutNetworking.currentLogModules     "Aktuelle logmoduler:">
@@ -41,11 +41,11 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå op">
 <!ENTITY aboutNetworking.dnsDomain             "Domæne">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adresser">
-<!ENTITY aboutNetworking.rcwn                  "RCWN-statistik">
-<!ENTITY aboutNetworking.rcwnStatus            "RCWN-status">
-<!ENTITY aboutNetworking.rcwnCacheWonCount     "Antal gange cachen vandt">
-<!ENTITY aboutNetworking.rcwnNetWonCount       "Antal gange netværket vandt">
-<!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antal netværk-requests">
+<!ENTITY aboutNetworking.rcwn                  "RCWN Stats">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN Status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
 <!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Open">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Read">
