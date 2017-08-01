@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados privados ao sair">
 <!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente os seus dados, sempre que selecionar \u0022Sair\u0022 no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar os dados a limpar">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ativados">
-<!ENTITY pref_plugins_tap_to_play2 "Toque para reproduzir">
-<!ENTITY pref_plugins_disabled "Desativados">
 <!ENTITY pref_restore_tabs "Restaurar separadores">
 <!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar depois de sair do &brandShortName;">
