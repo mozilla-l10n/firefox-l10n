@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana proti sledování">
 <!ENTITY  trackingProtection2.description      "Sledování je shromažďování údajů o vašem prohlížení na různých serverech. Může být použito pro vytvoření profilu a zobrazování obsahu nebo reklam na základě vašich osobních informací.">
-<!ENTITY  trackingProtection2.radioGroupLabel  "Používat ochranu proti sledování známými sledujícími prvky">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Používat ochranu proti sledování známými sledovacími prvky">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
@@ -19,7 +19,7 @@
 <!ENTITY trackingProtectionPBM5.label         "Používat ochranu proti sledování v anonymním okně">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-<!ENTITY trackingProtectionPBM6.label         "Používat ochranu proti sledování známými sledujícími prvky při anonymním prohlížení">
+<!ENTITY trackingProtectionPBM6.label         "Používat ochranu proti sledování známými sledovacími prvky při anonymním prohlížení">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Zjistit více">
 <!ENTITY changeBlockList2.label               "Změnit seznam blokací…">
