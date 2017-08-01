@@ -52,5 +52,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "תרגום של">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "תוכן ניהול זכויות דיגיטלי (DRM)">
 
+<!ENTITY  playDRMContent2.label          "לנגן תוכן מוגן DRM">
 <!ENTITY  playDRMContent.learnMore.label "מידע נוסף">
