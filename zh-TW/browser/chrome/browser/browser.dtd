@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "重新啟動以更新 &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "頁面操作">
+<!ENTITY pageAction.addToUrlbar.label "新增至網址列">
+<!ENTITY pageAction.removeFromUrlbar.label "從網址列移除">
 
 <!ENTITY sendToDevice.label2 "傳送到裝置">
-<!ENTITY sendToDevice.viewTitle "傳送到裝置">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">

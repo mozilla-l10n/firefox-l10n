@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "不對下列網站提供翻譯:">
-<!ENTITY treehead.siteName.label          "網站">
+<!ENTITY treehead.siteName2.label         "網站">
 <!ENTITY removeSite.label                 "移除網站">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "移除全部網站">
@@ -22,4 +22,3 @@
 
 <!ENTITY button.close.label               "關閉">
 <!ENTITY button.close.accesskey           "C">
-

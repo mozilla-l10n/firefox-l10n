@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "修改搜尋建議偏好設定">
 
-<!ENTITY  acceptCookies.label           "允許網站設定 Cookie">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "允許網站設定 Cookie">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "接受來自第三方的 Cookie:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
