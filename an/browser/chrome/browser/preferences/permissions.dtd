@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Excepcions">
 <!ENTITY window.width                 "48em">
 
-<!ENTITY treehead.sitename.label      "Puesto web">
 <!ENTITY treehead.status.label        "Estau">
-<!ENTITY removepermission.label       "Eliminar o puesto web">
-<!ENTITY removepermission.accesskey   "E">
-<!ENTITY removeallpermissions.label   "Eliminar totz os puestos web">
-<!ENTITY removeallpermissions.accesskey "l">
+
+
+
+
 <!ENTITY address.label                "Adreza d'o puesto web:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blocar">
