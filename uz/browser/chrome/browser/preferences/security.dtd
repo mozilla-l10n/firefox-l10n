@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "Xavfsizlik">
 
 
-<!ENTITY  warnOnAddonInstall.label        "Saytlar qoʻshimcha dasturlar oʻrnatishga urinsa foydalanuvchi ogohlantirilsin">
-<!ENTITY  warnOnAddonInstall.accesskey    "o">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Shakllar va parollar">
 
-<!ENTITY  rememberLogins1.label          "Saytlar uchun taxallus va parollar eslab qolinsin">
-<!ENTITY  rememberLogins1.accesskey      "e">
+
 <!ENTITY  passwordExceptions.label      "Istisnolar">
 <!ENTITY  passwordExceptions.accesskey  "I">
 

@@ -24,8 +24,7 @@
 
 <!ENTITY  logins.label                  "Kirishlar">
 
-<!ENTITY  rememberLogins.label          "Saytlardagi login ma’lumotlari eslab qolinsin">
-<!ENTITY  rememberLogins.accesskey      "S">
+
 <!ENTITY  passwordExceptions.label      "Istisnolar">
 <!ENTITY  passwordExceptions.accesskey  "I">
 

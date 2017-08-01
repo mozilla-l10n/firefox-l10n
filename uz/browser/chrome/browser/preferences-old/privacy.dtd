@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "Qidiruv tizimi tavsiyalari parametrlarini o‘zgartirish…">
 <!ENTITY  suggestionSettings.accesskey  "Q">
 
-<!ENTITY  acceptCookies.label           "Saytlardan kukilarga rozi bo‘lish">
-<!ENTITY  acceptCookies.accesskey       "r">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Begona taraf kukilariga ruxsat berish:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "r">

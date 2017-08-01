@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "r">
 
 <!ENTITY noTranslationForSites.label      "Quyidagi saytlar uchun tarjima taklif qilinmaydi:">
-<!ENTITY treehead.siteName.label          "Saytlar">
+
 <!ENTITY removeSite.label                 "Saytni olib tashlash">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Barcha saytlarni olib tashlash">

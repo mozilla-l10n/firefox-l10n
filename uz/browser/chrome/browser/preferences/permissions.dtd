@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Istisnolar">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Sayt">
 <!ENTITY treehead.status.label        "Holati">
-<!ENTITY removepermission.label       "Saytni oʻchirish">
-<!ENTITY removepermission.accesskey   "r">
-<!ENTITY removeallpermissions.label   "Barcha saytlarni oʻchirish">
-<!ENTITY removeallpermissions.accesskey "c">
+
+
+
+
 <!ENTITY address.label                "Vebsayt manzili:">
 <!ENTITY address.accesskey            "m">
 <!ENTITY block.label                  "Bloklash">
