@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Zjistit více">
-<!ENTITY  notificationsPolicyDesc3.label       "Vyberte, které stránky vám mohou posílat oznámení">
+<!ENTITY  notificationsPolicyDesc4.label       "Vyberte, které servery vám mohou posílat oznámení">
 <!ENTITY  notificationsPolicyButton.accesskey  "y">
 <!ENTITY  notificationsPolicyButton.label      "Vybrat…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nerušit mě">
