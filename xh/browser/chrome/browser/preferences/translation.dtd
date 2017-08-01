@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Akukho nguqulelo iya kwenziwa kwezi sayithi zilandelayo:">
-<!ENTITY treehead.siteName.label          "Iisayithi">
+
 <!ENTITY removeSite.label                 "Shenxisa isayithi">
 <!ENTITY removeSite.accesskey             "i">
 <!ENTITY removeAllSites.label             "Shenxisa zonke iisayithi">

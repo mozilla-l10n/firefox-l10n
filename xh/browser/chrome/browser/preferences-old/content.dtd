@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Izaziso">
 <!ENTITY  notificationsPolicyLearnMore.label   "Funda okungakumbi">
-<!ENTITY  notificationsPolicyDesc3.label       "Khetha ukuba ziziphi iisayithi ezivumelekileyo ukuba zikuthumelele izaziso">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Khetha…">
 <!ENTITY  notificationsDoNotDisturb.label      "Musa ukundiphazamisa">
