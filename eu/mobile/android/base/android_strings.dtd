@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Garbitu datu pribatuak irtetean">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;(e)k zure datuak automatikoki garbituko ditu menu nagusitik \u0022Irten\u0022 hautatzen duzun bakoitzean">
 <!ENTITY pref_clear_on_exit_dialog_title "Hautatu garbitu beharreko datuak">
-<!ENTITY pref_plugins "Pluginak">
-<!ENTITY pref_plugins_enabled "Gaituta">
-<!ENTITY pref_plugins_tap_to_play2 "Ukitu erreproduzitzeko">
-<!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_restore_tabs "Berreskuratu fitxak">
 <!ENTITY pref_restore_always "Berreskuratu beti">
 <!ENTITY pref_restore_quit "Ez berreskuratu &brandShortName;(e)tik irten ondoren">
