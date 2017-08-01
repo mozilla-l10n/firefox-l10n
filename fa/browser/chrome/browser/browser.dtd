@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "کنش‌های صفحه">
 
-<!ENTITY sendToDevice.label2 "ارسال به دستگاه">
-<!ENTITY sendToDevice.viewTitle "ارسال به دستگاه">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">
