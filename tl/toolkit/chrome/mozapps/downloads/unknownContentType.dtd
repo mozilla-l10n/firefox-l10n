@@ -2,17 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  intro2.label                "Iyong piniling buksan:">
+<!ENTITY  from.label                  "mula:">
 <!ENTITY  actionQuestion.label        "Ano dapat gawin ng &brandShortName; sa file na ito?">
 
 <!ENTITY  openWith.label              "I-Open gamit ang">
 <!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "Iba…">
 
-
+<!ENTITY  saveFile.label              "I-save ang File">
+<!ENTITY  saveFile.accesskey          "s">
 
 <!ENTITY  rememberChoice.label        "Gawin ito nang awtomatiko para sa mga file na tulad nito mula ngayon.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
+<!ENTITY  whichIs.label              "na ay:">
 
 <!ENTITY  chooseHandlerMac.label      "Mamili">
 <!ENTITY  chooseHandlerMac.accesskey  "M">

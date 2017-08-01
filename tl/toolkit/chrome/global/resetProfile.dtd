@@ -9,6 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Ibalik ang iyong mga setting ng browser sa kanilang mga default">
 <!ENTITY refreshProfile.dialog.button.label  "Refresh &brandShortName;">
 
+<!ENTITY refreshProfile.title                "Bigyan &brandShortName; Isang tune up">
 <!ENTITY refreshProfile.button.label         "Refresh &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Halos tapos na...">

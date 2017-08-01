@@ -4,12 +4,27 @@
 
 <!ENTITY print.label          "I-print...">
 <!ENTITY print.accesskey      "p">
+<!ENTITY pageSetup.label      "Page Setup…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Pahina:">
 <!ENTITY page.accesskey       "a">
 <!ENTITY of.label             "ng">
+<!ENTITY scale.label          "Scale:">
+<!ENTITY scale.accesskey      "S">
+<!ENTITY portrait.label       "Patayo">
+<!ENTITY portrait.accesskey   "o">
+<!ENTITY landscape.label      "Pahiga">
+<!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "Close">
 <!ENTITY close.accesskey      "C">
+<!ENTITY p30.label            "30&#037;">
+<!ENTITY p40.label            "40&#037;">
+<!ENTITY p50.label            "50&#037;">
+<!ENTITY p60.label            "60&#037;">
+<!ENTITY p70.label            "70&#037;">
+<!ENTITY p80.label            "80&#037;">
+<!ENTITY p90.label            "90&#037;">
+<!ENTITY p100.label           "100&#037;">
 
 <!ENTITY homearrow.tooltip    "Unang pahina">
 <!ENTITY endarrow.tooltip     "Huling pahina">

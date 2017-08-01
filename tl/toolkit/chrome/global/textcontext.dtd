@@ -15,20 +15,23 @@
 <!ENTITY deleteCmd.label "Delete">
 <!ENTITY deleteCmd.accesskey "D">
 
-
-
-
-
-
-
+<!ENTITY spellAddToDictionary.label "Idagdag sa Diksyunaryo">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "I-undo ang Idinagdag sa Diksyunaryo">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "I-check ang Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Walang Spelling na Iminumungkahi)">
 <!ENTITY spellDictionaries.label "Mga Wika">
 <!ENTITY spellDictionaries.accesskey "M">
 
+<!ENTITY searchTextBox.clear.label "Burahin">
 
-
+<!ENTITY fillLoginMenu.label          "Pakipunan ang Login">
+<!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Pakipunan ang patlang na ito.">
 <!ENTITY fillPasswordMenu.accesskey   "P">
-
-
-
-
+<!ENTITY fillUsernameMenu.label       "Pakipunan ang Username">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Walang Iminumungkahing Login)">
+<!ENTITY viewSavedLogins.label        "Tignan ang Naka-save na Logins">
