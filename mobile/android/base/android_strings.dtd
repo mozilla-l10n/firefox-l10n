@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "حذف اطلاعات خصوصی هنگام خروج">
 <!ENTITY pref_clear_on_exit_summary2 "هر زمان \u0022خروج\u0022 را از منوی اصلی انتخاب کنید &brandShortName; اطلاعات شما را به طور خودکار پاک می‌کند">
 <!ENTITY pref_clear_on_exit_dialog_title "داده‌هایی که می‌خواهید پاک شوند را انتخاب کنید">
-<!ENTITY pref_plugins "افزونه‌ها">
-<!ENTITY pref_plugins_enabled "فعال شد">
-<!ENTITY pref_plugins_tap_to_play2 "اجرا از طریق لمس کردن">
-<!ENTITY pref_plugins_disabled "غیرفعال شد">
 <!ENTITY pref_restore_tabs "بازآوری زبانه‌ها">
 <!ENTITY pref_restore_always "همیشه برگردان">
 <!ENTITY pref_restore_quit "پس از خروج از &brandShortName; بازآوری نکن">
