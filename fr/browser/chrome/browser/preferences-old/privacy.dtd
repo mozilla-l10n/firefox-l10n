@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Modifier les préférences pour les suggestions de recherche…">
 <!ENTITY  suggestionSettings.accesskey  "f">
 
-<!ENTITY  acceptCookies.label           "Accepter les cookies">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "Accepter les cookies">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepter les cookies tiers :">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">
