@@ -22,7 +22,7 @@
 <!ENTITY  paneUpdates.title             "తాజాకరణలు">
 
 <!ENTITY  languageAndAppearance.label   "భాష మరియు రూపురేఖలు">
-<!ENTITY  filesAndApplications.label    "దస్త్రాలు & అనువర్తనాలు">
+<!ENTITY  filesAndApplications.label    "దస్త్రాలు &amp; అనువర్తనాలు">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox ఖాతా">

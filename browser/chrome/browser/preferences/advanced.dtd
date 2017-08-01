@@ -34,7 +34,7 @@ available. -->
 
 <!ENTITY dataCollectionPrivacyNotice.label    "గోప్యతా విధానం">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "& BrandShortName;ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; ను అనుమతించు Mozillaకు క్రాష్ నివేదికలను పంపటానికి">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "ఇంకా తెలుసుకోండి">
 
