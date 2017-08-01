@@ -4,13 +4,13 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-<!ENTITY  warnOnAddonInstall.label        "Advar deg når nettsider forsøker å installere programtillegg">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Advar deg når nettsteder forsøker å installere utvidelser">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Blokker farlig og villendende innhold">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Innlogginger">
 
-<!ENTITY  rememberLogins.label          "Husk innlogginger for nettsted">
-<!ENTITY  rememberLogins.accesskey      "H">
+<!ENTITY  rememberLogins2.label         "Husk innlogginger for nettsted">
+<!ENTITY  rememberLogins2.accesskey     "H">
 <!ENTITY  passwordExceptions.label      "Unntak …">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

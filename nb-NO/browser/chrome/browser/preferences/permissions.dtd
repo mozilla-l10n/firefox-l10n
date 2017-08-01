@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Unntak">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Nettsted">
+<!ENTITY treehead.sitename2.label     "Nettsted">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Fjern nettsted">
-<!ENTITY removepermission.accesskey   "F">
-<!ENTITY removeallpermissions.label   "Fjern alle nettsted">
-<!ENTITY removeallpermissions.accesskey "a">
+<!ENTITY removepermission2.label      "Fjern nettsted">
+<!ENTITY removepermission2.accesskey  "F">
+<!ENTITY removeallpermissions2.label  "Fjern alle nettsteder">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Adressen til nettstedet:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blokker">
