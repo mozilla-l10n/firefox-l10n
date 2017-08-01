@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "കൂടുതല്‍ മനസിലാക്കൂ">
-<!ENTITY  notificationsPolicyDesc3.label       "താങ്കള്‍ക്ക് അറിയിപ്പുകള്‍ നല്‍കാന്‍ അനുമതി ഉള്ള വെബ്‌സൈറ്റുകള്‍ തിരഞ്ഞെടുക്കുക">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "തെരഞ്ഞെടുക്കൂ…">
 <!ENTITY  notificationsDoNotDisturb.label      "എന്നെ ശല്യം ചെയ്യരുത്">
