@@ -21,8 +21,7 @@
 
 <!ENTITY  logins.label                  "लॉगइन">
 
-<!ENTITY  rememberLogins.label          "साइट लेल लॉगइन याद राखू">
-<!ENTITY  rememberLogins.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
