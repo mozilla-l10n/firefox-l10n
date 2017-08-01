@@ -5,7 +5,7 @@
 <!ENTITY  security.label                 "Sikkerhet">
 <!ENTITY  phishingProtection.label       "Vern mot nettfiske (phishing)">
 
-<!ENTITY  warnOnAddonInstall2.label       "Advar deg når nettsteder forsøker å installere utvidelser">
+<!ENTITY  warnOnAddonInstall2.label       "Advar meg når nettsteder forsøker å installere utvidelser">
 <!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):

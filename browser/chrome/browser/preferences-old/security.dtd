@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-<!ENTITY  warnOnAddonInstall2.label       "Advar deg når nettsteder forsøker å installere utvidelser">
+<!ENTITY  warnOnAddonInstall2.label       "Advar meg når nettsteder forsøker å installere utvidelser">
 <!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Innlogginger">
 
-<!ENTITY  rememberLogins2.label         "Husk innlogginger for nettsted">
+<!ENTITY  rememberLogins2.label         "Husk innlogginger for nettsteder">
 <!ENTITY  rememberLogins2.accesskey     "H">
 <!ENTITY  passwordExceptions.label      "Unntak …">
 <!ENTITY  passwordExceptions.accesskey  "n">
