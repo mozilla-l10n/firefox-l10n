@@ -132,6 +132,8 @@ available. -->
 <!ENTITY enableOCSP.accesskey            "o">
 <!ENTITY viewCerts2.label                "Zobrazit certifikáty…">
 <!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Bezpečnostní zařízení…">
+<!ENTITY viewSecurityDevices2.accesskey  "B">
 
 <!ENTITY performance.label               "Výkon">
 <!ENTITY useRecommendedPerformanceSettings2.label
