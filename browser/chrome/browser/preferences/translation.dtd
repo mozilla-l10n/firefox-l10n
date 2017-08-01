@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "ନିମ୍ନଲିଖିତ ସାଇଟଗୁଡ଼ିକ ପାଇଁ ଅନୁବାଦ ଦିଆଯିବ ନାହିଁ:">
-<!ENTITY treehead.siteName.label          "ସାଇଟଗୁଡ଼ିକ">
+
 <!ENTITY removeSite.label                 "ସାଇଟ ହଟାନ୍ତୁ">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "ସମସ୍ତ ସାଇଟଗୁଡ଼ିକୁ ହଟାନ୍ତୁ">
