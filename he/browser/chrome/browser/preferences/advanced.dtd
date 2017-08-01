@@ -33,6 +33,7 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "ש">
 <!ENTITY healthReportLearnMore.label     "מידע נוסף">
 
+<!ENTITY dataCollection.label            "איסוף המידע של &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את &brandShortName; לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.">
 <!ENTITY dataCollectionPrivacyNotice.label    "הצהרת פרטיות">
 
@@ -42,6 +43,7 @@ available. -->
 
 <!ENTITY networkTab.label                "רשת">
 
+<!ENTITY networkProxy.label              "מתווך רשת">
 
 <!ENTITY connectionDesc.label            "הגדרת אופן החיבור של &brandShortName; לאינטרנט">
 <!ENTITY connectionSettings.label        "הגדרות...">
