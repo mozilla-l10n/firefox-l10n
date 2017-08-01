@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "g">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Vita meira">
-<!ENTITY  notificationsPolicyDesc3.label       "Veldu hvaða versvæði hafa leyfi til að senda þér tilkynningar">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Velja…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ekki trufla mig">

@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "F">
 
 <!ENTITY noTranslationForSites.label      "Ekki verður boðið upp á þýðingu fyrir eftirfarandi vefsvæði:">
-<!ENTITY treehead.siteName.label          "Vefsvæði">
+
 <!ENTITY removeSite.label                 "Fjarlægja vefsvæði">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Fjarlægja öll vefsvæði">

@@ -45,8 +45,7 @@
 
 <!ENTITY  suggestionSettings2.label     "Breyta stillingum fyrir ábendingar leitarvéla">
 
-<!ENTITY  acceptCookies.label           "Þiggja smákökur frá vefsvæðum">
-<!ENTITY  acceptCookies.accesskey       "Þ">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "Þiggja smákökur frá þriðja aðila:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Þ">

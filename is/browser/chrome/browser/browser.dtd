@@ -990,6 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 
-<!ENTITY sendToDevice.label2 "Senda í tæki">
-<!ENTITY sendToDevice.viewTitle "Senda í tæki">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
