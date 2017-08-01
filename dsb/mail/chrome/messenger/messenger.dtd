@@ -952,3 +952,5 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Nastajenja nałožeńskich symbolow…">
+<!ENTITY writeNewMessageDock.label      "Nowu powěsć pisaś">
+<!ENTITY openAddressBookDock.label      "Adresnik wócyniś">
