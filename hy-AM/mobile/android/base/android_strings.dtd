@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Փակելիս մաքրել անձնական տվյալները">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնաբար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
-<!ENTITY pref_plugins "Բաղադիրներ">
-<!ENTITY pref_plugins_enabled "Միացնել">
-<!ENTITY pref_plugins_tap_to_play2 "Դիպչել՝ նվագարկելու համար">
-<!ENTITY pref_plugins_disabled "Անջատել">
 <!ENTITY pref_restore_tabs "Վերականգնել ներդիրները">
 <!ENTITY pref_restore_always "Միշտ վերականգնել">
 <!ENTITY pref_restore_quit "&brandShortName;-ը փակելուց հետո չվերականգնել">
