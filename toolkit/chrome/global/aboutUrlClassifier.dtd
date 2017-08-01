@@ -8,7 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Tiekėjas">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Paskutinio atnaujinimo laikas">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Kito atnaujinimo laikas">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Atsitraukimo laikas">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Paskutinio atnaujinimo būsena">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Atnaujinti">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Podėlis">
