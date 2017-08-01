@@ -989,6 +989,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "পাতা পদক্ষেপ">
 
-<!ENTITY sendToDevice.label2 "ডিভাইসে পাঠাও">
-<!ENTITY sendToDevice.viewTitle "ডিভাইসে পাঠাও">
+
+
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
