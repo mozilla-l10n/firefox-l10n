@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "أعد التشغيل لتحديث &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
+<!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
+<!ENTITY pageAction.removeFromUrlbar.label "أزل من شريط العناوين">
 
 <!ENTITY sendToDevice.label2 "أرسِل إلى جهاز">
-<!ENTITY sendToDevice.viewTitle "أرسِل إلى جهاز">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">

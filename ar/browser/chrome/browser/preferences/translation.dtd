@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ذ">
 
 <!ENTITY noTranslationForSites.label      "لن يُقترح ترجمة للمواقع التالية:">
-<!ENTITY treehead.siteName.label          "المواقع">
+<!ENTITY treehead.siteName2.label         "مواقع وِب">
 <!ENTITY removeSite.label                 "احذف الموقع">
 <!ENTITY removeSite.accesskey             "ح">
 <!ENTITY removeAllSites.label             "احذف كل المواقع">
