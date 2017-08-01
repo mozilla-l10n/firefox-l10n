@@ -24,8 +24,7 @@
 
 <!ENTITY  logins.label                  "Logins">
 
-<!ENTITY  rememberLogins.label          "Remember logins for sites">
-<!ENTITY  rememberLogins.accesskey      "R">
+
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
