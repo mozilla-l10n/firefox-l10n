@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "Exceções">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Site">
+<!ENTITY treehead.sitename2.label     "Site">
 <!ENTITY treehead.status.label        "Estado">
-<!ENTITY removepermission.label       "Remover site">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Remover todos os sites">
-<!ENTITY removeallpermissions.accesskey "t">
+<!ENTITY removepermission2.label      "Remover site">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Remover todos os sites">
 <!ENTITY address.label                "Endereço do site:">
 <!ENTITY address.accesskey            "n">
 <!ENTITY block.label                  "Bloquear">
