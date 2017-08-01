@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Všeobecné">
 
-<!ENTITY  warnOnAddonInstall.label        "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
-<!ENTITY  warnOnAddonInstall.accesskey    "U">
+<!ENTITY  warnOnAddonInstall2.label       "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
+<!ENTITY  warnOnAddonInstall2.accesskey   "U">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Prihlasovacie údaje">
 
-<!ENTITY  rememberLogins.label          "Pamätať si prihlasovacie údaje k stránkam">
-<!ENTITY  rememberLogins.accesskey      "a">
+<!ENTITY  rememberLogins2.label         "Pamätať si prihlasovacie údaje k stránkam">
+<!ENTITY  rememberLogins2.accesskey     "t">
 <!ENTITY  passwordExceptions.label      "Výnimky…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
