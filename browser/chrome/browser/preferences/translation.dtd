@@ -13,8 +13,8 @@
 <!ENTITY removeAllLanguages.label         "Supprimer toutes les langues">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Aucune traduction ne sera proposée pour les sites suivants :">
-<!ENTITY treehead.siteName.label          "Sites">
+<!ENTITY noTranslationForSites.label      "Aucune traduction ne sera proposée pour les sites web suivants :">
+<!ENTITY treehead.siteName2.label         "Sites web">
 <!ENTITY removeSite.label                 "Supprimer le site">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Supprimer tous les sites">

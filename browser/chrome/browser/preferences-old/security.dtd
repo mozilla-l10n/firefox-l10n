@@ -27,6 +27,7 @@
 <!ENTITY  logins.label                  "Identifiants">
 
 <!ENTITY  rememberLogins2.label         "Enregistrer les identifiants">
+<!ENTITY  rememberLogins2.accesskey     "s">
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
