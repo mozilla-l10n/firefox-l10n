@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "اعلانات">
 <!ENTITY  notificationsPolicyLearnMore.label   "مزید سیکھیں">
-<!ENTITY  notificationsPolicyDesc3.label       "انتخاب کیجیئے کونسی سائٹس کو آپ کو اطلاع ارسال کرنے کی اجازت ہے">
+
 <!ENTITY  notificationsPolicyButton.accesskey  "ا">
 <!ENTITY  notificationsPolicyButton.label      "انتخاب کریں…">
 <!ENTITY  notificationsDoNotDisturb.label      "مجھے خلل نہ ڈالیے">

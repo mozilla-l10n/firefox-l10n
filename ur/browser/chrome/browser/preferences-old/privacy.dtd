@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
 <!ENTITY  suggestionSettings.accesskey  "ب">
 
-<!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
-<!ENTITY  acceptCookies.accesskey       "ق">
+
 
 <!ENTITY  acceptThirdParty.pre.label      "سہ فریقی کوکیاں قبول کریں:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">

@@ -5,12 +5,11 @@
 <!ENTITY window.title                 "استثنیات">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "سائٹ">
 <!ENTITY treehead.status.label        "حالت">
-<!ENTITY removepermission.label       "سائٹ ہٹائیں">
-<!ENTITY removepermission.accesskey   "ہ">
-<!ENTITY removeallpermissions.label   "تمام سائٹیں ہٹائیں">
-<!ENTITY removeallpermissions.accesskey "ہ">
+
+
+
+
 <!ENTITY address.label                "ویب سائٹ کا پتہ:">
 <!ENTITY address.accesskey            "پ">
 <!ENTITY block.label                  "بلاک کریں">

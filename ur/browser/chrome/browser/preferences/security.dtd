@@ -5,8 +5,7 @@
 <!ENTITY  security.label                 "سلامتی">
 
 
-<!ENTITY  warnOnAddonInstall.label        "مجھے متنبہ کریں جب کوئی سائٹ اضافہ جات کی تنصیب کرنے کی کوشش کرے">
-<!ENTITY  warnOnAddonInstall.accesskey    "م">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
