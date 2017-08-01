@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "Ikon">
 <!ENTITY text.label               "Teks">
 <!ENTITY useSmallIcons.label      "Guna Ikon Kecil">
-<!ENTITY restoreDefaultSet.label  "Kembalikan Tetapan Piawai">
+<!ENTITY restoreDefaultSet.label  "Pulih Set Piawai">
 <!ENTITY addNewToolbar.label      "Tambah Bar Alat Baru">
 <!ENTITY saveChanges.label        "Selesai">
 <!ENTITY undoChanges.label        "Batal Perubahan">
