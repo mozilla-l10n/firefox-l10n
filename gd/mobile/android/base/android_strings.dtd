@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Falamhaich an dàta prìobhaideach aig àm fàgail">
 <!ENTITY pref_clear_on_exit_summary2 "Falamhaichidh &brandShortName; an dàta agad gu fèin-obrachail gach turas a thaghas tu “Fàg an-seo” sa phrìomh chlàr-taice">
 <!ENTITY pref_clear_on_exit_dialog_title "Tagh an dàta a thèid fhalamhadh">
-<!ENTITY pref_plugins "Plugain">
-<!ENTITY pref_plugins_enabled "An comas">
-<!ENTITY pref_plugins_tap_to_play2 "Suath ris gus a chluich">
-<!ENTITY pref_plugins_disabled "À comas">
 <!ENTITY pref_restore_tabs "Aisig a h-uile taba">
 <!ENTITY pref_restore_always "Aisig an-còmhnaidh">
 <!ENTITY pref_restore_quit "Na aisig an dèidh dhomh &brandShortName; fhàgail">
