@@ -360,10 +360,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Tó bí dizh na lú">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; tob bi re chan lú \u0022Quit\u0022 b-šèn mtete">
 <!ENTITY pref_clear_on_exit_dialog_title "b-šèn dizh ko tòmbî">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Toob kiy">
-<!ENTITY pref_plugins_tap_to_play2 "Gás xá gon ná">
-<!ENTITY pref_plugins_disabled "Tog gá">
 <!ENTITY pref_restore_tabs "Bí~rè tób lô (lawo)">
 <!ENTITY pref_restore_always "Na tog luy">
 <!ENTITY pref_restore_quit "Na lit lu kub lu &brandShortName;">
@@ -547,6 +543,7 @@
 <!ENTITY page_removed "Yent kue">
 
 <!ENTITY bookmark_edit_title "Thus kue ko ndó~làz=ná">
+
 <!ENTITY bookmark_edit_name "Xha mud leel">
 <!ENTITY bookmark_edit_location "Pá duúl">
 <!ENTITY bookmark_edit_keyword "Taá thib dizh">
@@ -623,6 +620,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Na lôt yíʔb génul">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 
 <!ENTITY remote_tabs_panel_moved_title "¿Pa dá ko güín?">
 <!ENTITY remote_tabs_panel_moved_desc "Mtal nó re yets na gó loo yib kub xá tak güi goóy tilta.">
