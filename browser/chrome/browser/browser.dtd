@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა">
 
 <!ENTITY pageActionButton.tooltip "ვებგვერდზე მოქმედებები">
+<!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
+<!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
 
 <!ENTITY sendToDevice.label2 "მოწყობილობაზე გაგზავნა">
-<!ENTITY sendToDevice.viewTitle "მოწყობილობაზე გაგზავნა">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
