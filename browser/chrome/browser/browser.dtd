@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Отпечатване">
 <!ENTITY printButton.tooltip          "Отпечатване на страницата">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Показване информация за уебсайта">
+<!ENTITY urlbar.viewSiteInfo.label                      "Показване на информация за уеб страницата">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отваряне на панел със съобщението">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отваряне на панел със заявката за местоположение">
@@ -212,7 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отваряне на панел със съобщението за работа без мрежа">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отваряне на панел със съобщението за запазване на парола">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от сайта">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от уеб страницата">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
 
