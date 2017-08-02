@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Sjálfgefin leitarvél">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Veldu sjálfgefna leitarvél sem er notuð fyrir vistfangastiku og leitarstiku">
 
 <!ENTITY provideSearchSuggestions.label        "Birta uppástungur fyrir leit">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Leitarvélar með einum smelli">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Veldu auka leitarvélar sem birtast hér fyrir neðan vistfangastiku og leitarstiku þegar þú byrjar að slá inn lykilorð.">
 
 <!ENTITY engineNameColumn.label                "Leitarvél">
 <!ENTITY engineKeywordColumn.label             "Stikkorð">
