@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Kek'ex ri taq ajowab'äl richin yechilab'ëx taq rusamajinel kanob'äl…">
 <!ENTITY  suggestionSettings.accesskey  "k">
 
-
+<!ENTITY  acceptCookies2.label          "Kek'ulutäj taq rukaxlanwey ri ruxaq ajk'amaya'l">
+<!ENTITY  acceptCookies2.accesskey      "K">
 
 <!ENTITY  acceptThirdParty.pre.label      "Kek'ul taq kaxlanwey kichin aj rox winaqi':">
 <!ENTITY  acceptThirdParty.pre.accesskey  "o">
