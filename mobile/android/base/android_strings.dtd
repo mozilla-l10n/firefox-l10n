@@ -126,6 +126,7 @@
 
 <!ENTITY settings "Thiết lập">
 <!ENTITY settings_title "Thiết lập">
+<!ENTITY pref_category_general "Chính">
 <!ENTITY pref_category_general_summary3 "Trang chủ, ngôn ngữ, hàng đợi thẻ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
@@ -284,6 +285,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Đã sao chép URL">
 
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY tracking_protection_prompt_action_button "Hiểu rồi!">
@@ -335,10 +337,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Xóa dữ liệu riêng tư khi thoát">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sẽ tự động xóa dữ liệu của bạn khi bạn chọn \u0022Thoát\u0022 khỏi ứng dụng">
 <!ENTITY pref_clear_on_exit_dialog_title "Chọn dữ liệu để xóa">
-<!ENTITY pref_plugins "Phần bổ trợ">
-<!ENTITY pref_plugins_enabled "Đã bật">
-<!ENTITY pref_plugins_tap_to_play2 "Chạm để phát">
-<!ENTITY pref_plugins_disabled "Đã tắt">
 <!ENTITY pref_restore_tabs "Khôi phục thẻ">
 <!ENTITY pref_restore_always "Luôn khôi phục">
 <!ENTITY pref_restore_quit "Không khôi phục sau khi thoát &brandShortName;">
@@ -512,6 +510,7 @@
 <!ENTITY page_removed "Trang đã bị xóa">
 
 <!ENTITY bookmark_edit_title "Chỉnh sửa Trang đánh dấu">
+<!ENTITY bookmark_edit_folder_title "Chỉnh sửa thư mục">
 <!ENTITY bookmark_edit_name "Tên">
 <!ENTITY bookmark_edit_location "Địa chỉ">
 <!ENTITY bookmark_edit_keyword "Từ khóa">
@@ -587,6 +586,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Không để ẩn các thiết bị được chọn">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
 
 <!ENTITY remote_tabs_panel_moved_title "Các thẻ của tôi đã đi đâu?">
 
@@ -784,6 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Đã đánh dấu trang">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Đã thăm">
