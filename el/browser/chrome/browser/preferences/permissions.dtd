@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Εξαιρέσεις">
 <!ENTITY window.width                 "47em">
 
-<!ENTITY treehead.sitename.label      "Ιστοσελίδα">
+<!ENTITY treehead.sitename2.label     "Ιστοσελίδα">
 <!ENTITY treehead.status.label        "Κατάσταση">
-<!ENTITY removepermission.label       "Αφαίρεση ιστοσελίδας">
-<!ENTITY removepermission.accesskey   "Α">
-<!ENTITY removeallpermissions.label   "Αφαίρεση όλων των ιστοσελίδων">
-<!ENTITY removeallpermissions.accesskey "λ">
+<!ENTITY removepermission2.label      "Αφαίρεση Ιστοσελίδας">
+<!ENTITY removepermission2.accesskey  "φ">
+<!ENTITY removeallpermissions2.label  "Αφαίρεση όλων των Ιστοσελίδων">
+<!ENTITY removeallpermissions2.accesskey "λ">
 <!ENTITY address.label                "Διεύθυνση ιστοσελίδας:">
 <!ENTITY address.accesskey            "ι">
 <!ENTITY block.label                  "Φραγή">
