@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBM5.accesskey     "ช">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "ใช้การป้องกันการตามรอยในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
@@ -39,7 +39,7 @@
 <!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
 <!ENTITY  locbar.openpage.accesskey     "บ">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาเริ่มต้น">
-<!ENTITY  locbar.searches.accesskey     "d">
+<!ENTITY  locbar.searches.accesskey     "ก">
 
 <!ENTITY  suggestionSettings2.label     "เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา">
 
