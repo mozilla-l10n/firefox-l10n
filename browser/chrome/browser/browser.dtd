@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Start &brandShorterName; opnij om te fernijen">
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
+<!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
+<!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
 
 <!ENTITY sendToDevice.label2 "Ferstjoere nei apparaat">
-<!ENTITY sendToDevice.viewTitle "Ferstjoere nei apparaat">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">

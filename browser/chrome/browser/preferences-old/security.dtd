@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Algemien">
 
-<!ENTITY  warnOnAddonInstall.label        "My warskôgje as websites probearje add-ons te ynstallearjen">
-<!ENTITY  warnOnAddonInstall.accesskey    "M">
+<!ENTITY  warnOnAddonInstall2.label       "My warskôgje as websites probearje add-ons te ynstallearjen">
+<!ENTITY  warnOnAddonInstall2.accesskey   "M">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Oanmeldingen">
 
-<!ENTITY  rememberLogins.label          "Oanmeldingen foar websites ûnthâlde">
-<!ENTITY  rememberLogins.accesskey      "o">
+<!ENTITY  rememberLogins2.label         "Oanmeldingen foar websites ûnthâlde">
+<!ENTITY  rememberLogins2.accesskey     "O">
 <!ENTITY  passwordExceptions.label      "Utsûnderingen…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Foarkarren foar sykmasinesuggestjes wizigje…">
 <!ENTITY  suggestionSettings.accesskey  "m">
 
-<!ENTITY  acceptCookies.label           "Cookies fan websites akseptearje">
-<!ENTITY  acceptCookies.accesskey       "C">
+<!ENTITY  acceptCookies2.label          "Cookies fan websites akseptearje">
+<!ENTITY  acceptCookies2.accesskey      "C">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookies fan tredden akseptearje:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "o">
