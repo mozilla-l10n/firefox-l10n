@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "సాధారణం">
 
-<!ENTITY  warnOnAddonInstall.label        "సైట్లు పొడిగింతలను స్థాపించడానికి ప్రయత్నించినపుడు మిమ్మల్ని హెచ్చరించు">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +25,7 @@
 
 <!ENTITY  logins.label                  "ప్రవేశాలు">
 
-<!ENTITY  rememberLogins.label          "సైట్లలోని ప్రవేశాలను గుర్తుంచుకో">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "మినహాయింపులు…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

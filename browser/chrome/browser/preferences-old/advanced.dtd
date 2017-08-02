@@ -129,10 +129,15 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "పనితనం">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "సిఫారసు చేయబడిన పనితనపు అమరికలను వాడండి">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ఇంకా తెలుసుకోండి">
+<!ENTITY limitContentProcessOption.label "కంటెంట్ ప్రాసెస్ పరిమితి">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "బహుళప్రక్రియ ప్రారంభించబడిందో లేదో తెలుసుకోండి">
 <!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">
