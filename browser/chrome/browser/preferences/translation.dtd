@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "s">
 
 <!ENTITY noTranslationForSites.label      "Penerjemahan tidak akan ditawarkan untuk situs berikut:">
-<!ENTITY treehead.siteName.label          "Situs">
+<!ENTITY treehead.siteName2.label         "Situs web">
 <!ENTITY removeSite.label                 "Hapus Situs">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Hapus Semua Situs">
