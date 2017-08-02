@@ -104,9 +104,9 @@ available. -->
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
 <!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
-<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotify.accesskey           "จ">
 <!ENTITY offlineStorageNotifyExceptions.label     "ข้อยกเว้น…">
-<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "อ">
 
 <!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">

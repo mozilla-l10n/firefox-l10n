@@ -9,7 +9,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "ป">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "ต">
 
 <!ENTITY warnOnOpenManyTabs.label       "เตือนคุณเมื่อการเปิดหลายแท็บอาจทำให้ &brandShortName; ช้าลง">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">

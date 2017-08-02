@@ -15,7 +15,7 @@
 
 <!ENTITY tracking.label                 "การตามรอย">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBM5.accesskey     "ช">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY changeBlockList.label          "เปลี่ยนรายการการปิดกั้น">
 <!ENTITY changeBlockList.accesskey      "C">
@@ -38,7 +38,7 @@
 <!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาเริ่มต้น">
-<!ENTITY  locbar.searches.accesskey     "d">
+<!ENTITY  locbar.searches.accesskey     "ก">
 
 <!ENTITY  suggestionSettings.label      "เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา…">
 <!ENTITY  suggestionSettings.accesskey  "ล">
