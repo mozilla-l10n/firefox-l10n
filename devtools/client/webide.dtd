@@ -85,7 +85,6 @@
 <!ENTITY details_location "מיקום">
 <!ENTITY details_manifestURL "מזהה יישום">
 <!ENTITY details_removeProject_button "הסרת פרויקט">
-<!ENTITY details_showPrepackageLog_button "הצגת יומן טרום אריזה">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "יישום חדש">
@@ -164,6 +163,7 @@
 <!ENTITY wifi_auth_yes_scanner "מופיעה בפניך הצעה לסריקת QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_qr_size_note "אם קוד ה־QR קטן מכדי שהקמת החיבור תצליח, ניתן לנסות להתקרב או להגדיל את החלון.">
 
 <!-- Logs panel -->
 
