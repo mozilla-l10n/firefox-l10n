@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.other.label "Autres marque-pages">
 <!ENTITY bookmarksMenuButton.mobile.label "Marque-pages des appareils mobiles">
-<!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
+<!ENTITY viewBookmarksSidebar2.label        "Afficher le panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 <!ENTITY searchBookmarks.label              "Rechercher dans les marque-pages">
 
