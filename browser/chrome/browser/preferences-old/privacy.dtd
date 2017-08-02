@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης…">
 <!ENTITY  suggestionSettings.accesskey  "γ">
 
-<!ENTITY  acceptCookies.label           "Αποδοχή cookies από ιστοσελίδες">
-<!ENTITY  acceptCookies.accesskey       "χ">
+<!ENTITY  acceptCookies2.label          "Αποδοχή cookies από ιστοσελίδες">
+<!ENTITY  acceptCookies2.accesskey      "Α">
 
 <!ENTITY  acceptThirdParty.pre.label      "Αποδοχή cookies τρίτων:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "η">
