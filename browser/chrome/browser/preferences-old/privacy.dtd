@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Ŝanĝi preferojn por serĉilaj sugestoj…">
 <!ENTITY  suggestionSettings.accesskey  "s">
 
-<!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "Akcepti kuketojn el retejoj">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Akcepti nerektajn kuketojn:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
