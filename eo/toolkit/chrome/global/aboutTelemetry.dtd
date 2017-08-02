@@ -40,6 +40,7 @@ Pli malnova «ping» &gt;&gt;
 Semajno
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "Tipo de «ping»">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
 «Ping»

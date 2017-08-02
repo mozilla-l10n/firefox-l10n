@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "l">
 
 <!ENTITY noTranslationForSites.label      "Tradukoj ne estos proponitaj por la jenaj retejoj:">
-<!ENTITY treehead.siteName.label          "Retejoj">
+<!ENTITY treehead.siteName2.label         "Retejoj">
 <!ENTITY removeSite.label                 "Forigi retejon">
 <!ENTITY removeSite.accesskey             "r">
 <!ENTITY removeAllSites.label             "Forigi ĉiujn retejojn">

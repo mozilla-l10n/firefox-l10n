@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Provizanto">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Dato de lasta ĝisdatigo">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Dato de venonta ĝisdatigo">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Retiriĝa tempo">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Lasta stato de ĝisdatigo">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ĝisdatigi">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Staplo">

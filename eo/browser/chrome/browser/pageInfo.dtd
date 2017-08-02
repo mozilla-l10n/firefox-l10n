@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Posedanto:">
 <!ENTITY  securityView.identity.domain   "Retejo:">
 <!ENTITY  securityView.identity.verifier "Kontrolita de:">
+<!ENTITY  securityView.identity.validity "Eksvalidiĝas je:">
 
 <!ENTITY  securityView.privacy.header                   "Privateco kaj historio">
 <!ENTITY  securityView.privacy.history                  "Ĉu mi vizitis tiun ĉi retejon antaŭ ol hodiaŭ?">
