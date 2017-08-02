@@ -11,6 +11,7 @@
 <!ENTITY sync.title.connect.label 'Kết nối đến &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Để kích hoạt thiết bị mới của bạn, hãy chọn \&quot;&syncBrand.shortName.label;\&quot; trên thiết bị.'>
 <!ENTITY sync.subtitle.pair.label 'Để kích hoạt, chọn “Ghép đôi thiết bị” trên thiết bị khác của bạn.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 
@@ -50,6 +51,7 @@
 
 <!ENTITY fxaccount_status_signed_in_as 'Đã đăng nhập với tài khoản'>
 <!ENTITY fxaccount_status_manage_account 'Quản lý tài khoản'>
+<!ENTITY fxaccount_status_auth_server 'Máy chủ tài khoản'>
 <!ENTITY fxaccount_status_sync_now 'Đồng bộ ngay'>
 <!ENTITY fxaccount_status_syncing2 'Đang đồng bộ...'>
 <!ENTITY fxaccount_status_device_name 'Tên thiết bị'>
@@ -66,6 +68,7 @@
 <!ENTITY fxaccount_status_history 'Lược sử'>
 <!ENTITY fxaccount_status_passwords2 'Đăng nhập'>
 <!ENTITY fxaccount_status_tabs 'Các thẻ đang mở'>
+<!ENTITY fxaccount_status_legal 'Hợp pháp' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -76,6 +79,7 @@
 <!ENTITY fxaccount_remove_account 'Ngưng kết nối&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Dữ liệu duyệt web của bạn sẽ vẫn trên thiết bị này, nhưng nó sẽ không còn đồng bộ với tài khoản của bạn.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Tài khoản Firefox &formatS; ngắt kết nối.'>
