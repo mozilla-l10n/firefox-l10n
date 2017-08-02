@@ -891,12 +891,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingProtection.unblock.accesskey "ด">
+<!ENTITY trackingProtection.unblock.accesskey "ป">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "ปิดใช้งานการป้องกันในวาระนี้">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "ด">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "ป">
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
 

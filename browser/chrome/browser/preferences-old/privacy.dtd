@@ -4,11 +4,11 @@
 
 <!ENTITY  trackingProtectionHeader.label       "ใช้การป้องกันการตามรอย">
 <!ENTITY  trackingProtectionAlways.label       "เสมอ">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "ส">
 <!ENTITY  trackingProtectionPrivate.label      "เฉพาะในหน้าต่างส่วนตัว">
-<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionPrivate.accesskey  "พ">
 <!ENTITY  trackingProtectionNever.label        "ไม่เลย">
-<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionNever.accesskey    "ม">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
 <!ENTITY  trackingProtectionExceptions.accesskey "อ">
