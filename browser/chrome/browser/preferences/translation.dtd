@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ј">
 
 <!ENTITY noTranslationForSites.label      "Превод неће бити понуђен за следеће сајтове:">
-<!ENTITY treehead.siteName.label          "Сајтови">
+<!ENTITY treehead.siteName2.label         "Веб сајтови">
 <!ENTITY removeSite.label                 "Уклони сајт">
 <!ENTITY removeSite.accesskey             "с">
 <!ENTITY removeAllSites.label             "Уклони све сајтове">

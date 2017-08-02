@@ -46,6 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Измени поставке предлога претраживања">
 
+<!ENTITY  acceptCookies2.label          "Прихватај колачиће са сајтова">
+<!ENTITY  acceptCookies2.accesskey      "к">
 
 <!ENTITY  acceptThirdParty.pre.label      "Прихватај колачиће од трећих лица:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "т">
