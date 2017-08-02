@@ -438,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "చిట్కా:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "విషయాలు కనుగొనడంలో సహాయం పొందండి! సూచనల శోధన పక్కన ఉన్న &#x1F50E; కోసం చూడండి.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "ఎంపికలు మార్చండి…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "అభిరుచులను మార్చు…">
@@ -987,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను నవీకరించడానికి పునఃప్రారంభించండి">
 
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
+<!ENTITY pageAction.addToUrlbar.label "చిరునామా పట్టీకి చేర్చండి">
+<!ENTITY pageAction.removeFromUrlbar.label "చిరునామా పట్టీ నుండి తొలగించండి">
 
 <!ENTITY sendToDevice.label2 "పరికరానికి పంపించు">
-<!ENTITY sendToDevice.viewTitle "పరికరానికి పంపు">
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
