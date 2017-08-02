@@ -90,7 +90,6 @@
 <!ENTITY details_location "Locatie">
 <!ENTITY details_manifestURL "App-id">
 <!ENTITY details_removeProject_button "Project verwijderen">
-<!ENTITY details_showPrepackageLog_button "Logboek voor verpakken tonen">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nieuwe app">
