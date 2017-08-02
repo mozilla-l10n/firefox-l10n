@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Промяна настройките на подсказките от търсещите машини">
 
-<!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
-<!ENTITY  acceptCookies.accesskey       "Р">
+<!ENTITY  acceptCookies2.label          "Разрешаване на бисквитките">
+<!ENTITY  acceptCookies2.accesskey      "б">
 
 <!ENTITY  acceptThirdParty.pre.label      "Разрешаване на бисквитки от трети страни:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "т">

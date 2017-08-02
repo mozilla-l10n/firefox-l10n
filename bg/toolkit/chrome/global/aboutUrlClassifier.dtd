@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Доставчик">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Последно обновяване">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Следващо обновяване">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Време за премахване на елемент">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Състояние на последното обновяване">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Обновяване">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
