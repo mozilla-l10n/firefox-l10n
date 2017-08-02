@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "H">
 <!ENTITY viewCustomizeToolbar.label       "Sérsníða…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "S">
 
 <!ENTITY historyMenu.label "Ferill">
 <!ENTITY historyMenu.accesskey "F">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
-
+<!ENTITY appMenuHistory.recentHistory.label "Nýlegur ferill">
 <!ENTITY appMenuHelp.label "Hjálp">
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
+<!ENTITY pageAction.addToUrlbar.label "Bæta við í vistfangastiku">
+<!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr vistfangastiku">
 
-
-
+<!ENTITY sendToDevice.label2 "Senda í tæki">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
