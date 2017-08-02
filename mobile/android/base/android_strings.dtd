@@ -589,6 +589,7 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Đã ghim web">
 
 <!ENTITY remote_tabs_panel_moved_title "Các thẻ của tôi đã đi đâu?">
 
