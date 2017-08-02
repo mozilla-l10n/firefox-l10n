@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Разрешаване на глобално търсене и индексиране">
 <!ENTITY enableGlodaSearch.accesskey   "Р">
+<!ENTITY dateTimeFormatting.label      "Формат на датата и часа">
 <!ENTITY allowHWAccel.label            "Използване на хардуерно ускоряване, когато е налично">
 <!ENTITY allowHWAccel.accesskey        "х">
 <!ENTITY storeType.label               "Вид на съхранение на писмата за нови регистрации:">
