@@ -27,7 +27,7 @@
 
 <!ENTITY  formsAndPasswords.label       "טפסים וססמאות">
 
-<!ENTITY  rememberLogins2.label         "לזכור התחברויות וססמאות לאתרים">
+<!ENTITY  rememberLogins2.label         "לזכור פרטי כניסה וססמאות לכל האתרים">
 <!ENTITY  rememberLogins2.accesskey     "ז">
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
