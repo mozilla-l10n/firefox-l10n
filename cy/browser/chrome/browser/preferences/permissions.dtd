@@ -5,11 +5,12 @@
 <!ENTITY window.title                 "Eithriadau">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "Gwefan">
 <!ENTITY treehead.status.label        "Statws">
-
-
-
-
+<!ENTITY removepermission2.label      "Tynnu Gwefan">
+<!ENTITY removepermission2.accesskey  "T">
+<!ENTITY removeallpermissions2.label  "Tynnu Pob Gwefan">
+<!ENTITY removeallpermissions2.accesskey "G">
 <!ENTITY address.label                "Cyfeiriad y wefan:">
 <!ENTITY address.accesskey            "y">
 <!ENTITY block.label                  "Rhwystro">
