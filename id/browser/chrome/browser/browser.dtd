@@ -987,7 +987,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Mulai ulang untuk memutakhirkan &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
+<!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
+<!ENTITY pageAction.removeFromUrlbar.label "Singkirkan dari Bilah Alamat">
 
 <!ENTITY sendToDevice.label2 "Kirim ke Peranti">
-<!ENTITY sendToDevice.viewTitle "Kirim ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">

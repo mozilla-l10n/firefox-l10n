@@ -32,6 +32,7 @@ available. -->
 <!ENTITY enableHealthReport1.label       "Izinkan &brandShortName; agar secara otomatis mengirim data teknis dan interaksi ke Mozilla">
 <!ENTITY healthReportLearnMore.label     "Pelajari Lebih Lanjut">
 
+<!ENTITY dataCollection.label            "&brandShortName; Pengumpulan dan Penggunaan Data">
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">

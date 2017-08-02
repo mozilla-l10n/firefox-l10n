@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Pelajari lebih lanjut">
-<!ENTITY  notificationsPolicyDesc3.label       "Pilih situs yang diizinkan untuk mengirimkan notifikasi">
+<!ENTITY  notificationsPolicyDesc4.label       "Tentukan situs web apa saja yang boleh mengirimi Anda notifikasi">
 <!ENTITY  notificationsPolicyButton.accesskey  "P">
 <!ENTITY  notificationsPolicyButton.label      "Pilih…">
 <!ENTITY  notificationsDoNotDisturb.label      "Jangan ganggu">
@@ -54,4 +54,5 @@
 
 <!ENTITY  drmContent2.label              "Konten Digital Rights Management (DRM)">
 
+<!ENTITY  playDRMContent2.label          "Putar konten DRM-terkontrol">
 <!ENTITY  playDRMContent.learnMore.label "Pelajari lebih lanjut">

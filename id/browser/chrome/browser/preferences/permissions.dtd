@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Pengecualian">
 <!ENTITY window.width                 "41em">
 
-<!ENTITY treehead.sitename.label      "Situs">
+<!ENTITY treehead.sitename2.label     "Situs web">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Hapus Situs">
-<!ENTITY removepermission.accesskey   "H">
-<!ENTITY removeallpermissions.label   "Hapus Semua Situs">
-<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY removepermission2.label      "Hapus Situs Web">
+<!ENTITY removepermission2.accesskey  "H">
+<!ENTITY removeallpermissions2.label  "Hapus Semua Situs Web">
+<!ENTITY removeallpermissions2.accesskey "a">
 <!ENTITY address.label                "Alamat situs web:">
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokir">

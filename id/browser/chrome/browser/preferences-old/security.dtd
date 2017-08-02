@@ -4,8 +4,6 @@
 
 <!ENTITY  general.label                 "Umum">
 
-<!ENTITY  warnOnAddonInstall.label        "Ingatkan ketika situs mencoba memasang pengaya">
-<!ENTITY  warnOnAddonInstall.accesskey    "I">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +24,8 @@
 
 <!ENTITY  logins.label                  "Info masuk">
 
-<!ENTITY  rememberLogins.label          "Ingat info masuk situs">
-<!ENTITY  rememberLogins.accesskey      "I">
+<!ENTITY  rememberLogins2.label         "Ingat log masuk untuk situs web">
+<!ENTITY  rememberLogins2.accesskey     "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 

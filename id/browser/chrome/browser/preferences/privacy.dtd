@@ -33,6 +33,7 @@
 <!ENTITY  permissions.label             "Hak Akses">
 
 <!ENTITY  addressBar.label              "Bilah Alamat">
+<!ENTITY  locbar.history2.label         "Riwayat penjelajahan">
 <!ENTITY  locbar.bookmarks.label        "Markah">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Tab terbuka">
@@ -42,8 +43,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Ubah preferensi untuk penyaranan mesin pencari">
 
-<!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
-<!ENTITY  acceptCookies.accesskey       "w">
+<!ENTITY  acceptCookies2.label          "Terima kuki dari situs web">
+<!ENTITY  acceptCookies2.accesskey      "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Terima kuki dari pihak ketiga:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">

@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Mesin Pencari Baku">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Pilih mesin pencari utama yang akan digunakan di bilah alamat dan bilah pencarian.">
 
 <!ENTITY provideSearchSuggestions.label        "Sertakan saran pencarian">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
