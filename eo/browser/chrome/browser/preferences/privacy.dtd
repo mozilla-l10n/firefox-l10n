@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn">
 <!ENTITY trackingProtectionPBM6.accesskey     "U">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
-<!ENTITY changeBlockList.label          "Ŝanĝi liston de blokado">
-<!ENTITY changeBlockList.accesskey      "l">
+<!ENTITY changeBlockList2.label               "Ŝanĝi liston de blokado…">
+<!ENTITY changeBlockList2.accesskey           "b">
 
 <!ENTITY  doNotTrack.description        "Sendi al retejoj sciigon, ke vi ne volas esti spurata">
 <!ENTITY  doNotTrack.learnMore.label    "Pli da informo">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adresa strio">
 <!ENTITY  addressBar.suggest.label      "Dum uzo de la retadresa strio, sugesti">
-<!ENTITY  locbar.history.label          "Historio">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history2.label         "Retuma historio">
+<!ENTITY  locbar.history2.accesskey     "h">
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
 <!ENTITY  locbar.bookmarks.accesskey    "L">
 <!ENTITY  locbar.openpage.label         "Malfermitaj langetoj">
@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Ŝanĝi preferojn pri serĉilaj sugestoj">
 
-<!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "Akcepti kuketojn el retejoj">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Akcepti nerektajn kuketojn:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">

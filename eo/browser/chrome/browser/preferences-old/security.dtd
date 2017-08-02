@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Ĝenerala">
 
-<!ENTITY  warnOnAddonInstall.label        "Averti min kiam retejoj volas instali aldonaĵojn">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Averti min kiam retejoj volas instali aldonaĵojn">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Akreditiloj">
 
-<!ENTITY  rememberLogins.label          "Memori akreditilojn por retejoj">
-<!ENTITY  rememberLogins.accesskey      "a">
+<!ENTITY  rememberLogins2.label         "Memori akreditilojn por retejoj">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Esceptoj…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 

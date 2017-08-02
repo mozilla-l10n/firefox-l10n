@@ -46,6 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombro de venkoj de staplo">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Nombro de venkon de la reto">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Tuta nombro de retaj petoj">
+<!ENTITY aboutNetworking.rcwnOperation         "Operacioj de staplo">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Malfermi">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Legi">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Skribi">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Registro malfermita">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Mallonga mezumo">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Longa mezumo">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Longa norma devio">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Nombro de malrapida staplaj aliroj">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Nombro de ne malrapidaj staplaj aliroj">
