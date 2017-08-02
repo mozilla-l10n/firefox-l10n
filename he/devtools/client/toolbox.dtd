@@ -123,6 +123,7 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 <!ENTITY options.usedeveditiontheme.label   "שימוש בערכת הנושא של Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "החלפה בין ערכות נושא של גרסת המפתחים של הדפדפן.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
