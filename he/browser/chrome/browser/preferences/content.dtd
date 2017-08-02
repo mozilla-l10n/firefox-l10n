@@ -8,7 +8,6 @@
 <!ENTITY  blockPopups.accesskey       "ח">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "מידע נוסף">
-<!ENTITY  notificationsPolicyDesc3.label       "בחירת אתרים מורשים לשליחת התרעות">
 <!ENTITY  notificationsPolicyButton.accesskey  "ב">
 <!ENTITY  notificationsPolicyButton.label      "בחירה…">
 <!ENTITY  notificationsDoNotDisturb.label      "נא לא להפריע">
@@ -55,4 +54,5 @@
 <!ENTITY  drmContent2.label              "תוכן ניהול זכויות דיגיטלי (DRM)">
 
 <!ENTITY  playDRMContent2.label          "לנגן תוכן מוגן DRM">
+<!ENTITY  playDRMContent2.accesskey      "נ">
 <!ENTITY  playDRMContent.learnMore.label "מידע נוסף">
