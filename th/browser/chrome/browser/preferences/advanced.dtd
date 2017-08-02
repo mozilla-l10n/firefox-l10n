@@ -123,7 +123,7 @@ available. -->
 <!ENTITY selectCerts.ask                 "ถามคุณทุกครั้ง">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "ฟ">
 <!ENTITY viewCerts2.label                "ดูใบรับรอง…">
 <!ENTITY viewSecurityDevices2.label      "อุปกรณ์ความปลอดภัย…">
 
