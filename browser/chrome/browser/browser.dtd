@@ -984,7 +984,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "การดำเนินการของหน้า">
+<!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
+<!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
 
 <!ENTITY sendToDevice.label2 "ส่งไปยังอุปกรณ์">
-<!ENTITY sendToDevice.viewTitle "ส่งไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
