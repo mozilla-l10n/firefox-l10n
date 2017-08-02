@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "Umum">
 
+<!ENTITY  warnOnAddonInstall2.label       "Ingatkan ketika situs web mencoba memasang pengaya">
+<!ENTITY  warnOnAddonInstall2.accesskey   "I">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

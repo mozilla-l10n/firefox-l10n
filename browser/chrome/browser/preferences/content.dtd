@@ -55,4 +55,5 @@
 <!ENTITY  drmContent2.label              "Konten Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent2.label          "Putar konten DRM-terkontrol">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Pelajari lebih lanjut">
