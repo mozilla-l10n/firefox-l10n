@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Седмица">
 
+<!ENTITY aboutTelemetry.archivePingType "Вид на пакета">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Пакет">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Днес">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Вчера">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "По-стари">
 
 <!ENTITY aboutTelemetry.generalDataSection "Основни данни">
 

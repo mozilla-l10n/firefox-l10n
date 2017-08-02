@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Защита">
 <!ENTITY  phishingProtection.label       "Защита от измами">
 
-<!ENTITY  warnOnAddonInstall.label        "Предупреждаване при опит на страница да инсталира добавки">
-<!ENTITY  warnOnAddonInstall.accesskey    "П">
+<!ENTITY  warnOnAddonInstall2.label       "Предупреждаване при опит на уебсайт да инсталира добавки">
+<!ENTITY  warnOnAddonInstall2.accesskey   "д">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Формуляри и пароли">
 
-<!ENTITY  rememberLogins1.label          "Запазване на имена и пароли за вход в сайтовете">
-<!ENTITY  rememberLogins1.accesskey      "З">
+<!ENTITY  rememberLogins2.label         "Запазване на имена и пароли за вход в уебсайтовете">
+<!ENTITY  rememberLogins2.accesskey     "З">
 <!ENTITY  passwordExceptions.label      "Изключения…">
 <!ENTITY  passwordExceptions.accesskey  "к">
 

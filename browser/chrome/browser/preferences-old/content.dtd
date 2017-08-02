@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Известия">
 <!ENTITY  notificationsPolicyLearnMore.label   "Научете повече">
-<!ENTITY  notificationsPolicyDesc3.label       "Изберете на кои сайтове е разрешено да ви изпращат известия">
+<!ENTITY  notificationsPolicyDesc4.label       "Изберете на кои уебсайтове е разрешено да ви изпращат известия">
 <!ENTITY  notificationsPolicyButton.accesskey  "И">
 <!ENTITY  notificationsPolicyButton.label      "Избиране…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме безпокойте">
