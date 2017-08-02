@@ -67,7 +67,7 @@
 <!ENTITY  showCookies.label             "Správce cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader2.pre.label         "Historii prohlížení">
+<!ENTITY  historyHeader2.pre.label         "Historii prohlížení v aplikaci &brandShortName;">
 <!ENTITY  historyHeader2.pre.accesskey     "i">
 <!ENTITY  historyHeader.remember.label     "ukládat">
 <!ENTITY  historyHeader.dontremember.label "nikdy neukládat">
