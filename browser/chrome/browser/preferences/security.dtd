@@ -5,8 +5,6 @@
 <!ENTITY  security.label                 "אבטחה">
 <!ENTITY  phishingProtection.label       "הגנת דיוג">
 
-<!ENTITY  warnOnAddonInstall.label        "הזהרה כאשר אתרים מנסים להתקין תוספות">
-<!ENTITY  warnOnAddonInstall.accesskey    "ת">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +25,8 @@
 
 <!ENTITY  formsAndPasswords.label       "טפסים וססמאות">
 
-<!ENTITY  rememberLogins1.label          "לזכור פרטי כניסה וססמאות לכל האתרים">
-<!ENTITY  rememberLogins1.accesskey      "ז">
+<!ENTITY  rememberLogins2.label         "לזכור התחברויות וססמאות לאתרים">
+<!ENTITY  rememberLogins2.accesskey     "ז">
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
 

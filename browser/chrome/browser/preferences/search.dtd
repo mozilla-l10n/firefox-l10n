@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "מנוע חיפוש בררת מחדל">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "בחירת מנוע חיפוש ברירת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.">
 
 <!ENTITY provideSearchSuggestions.label        "הצגת המלצות חיפוש">
 <!ENTITY provideSearchSuggestions.accesskey    "מ">
@@ -14,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "מנועי חיפוש בלחיצה אחת">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "בחירת מנועי חיפוש חלופיים שיופיעו מתחת לסרגל הכתובת וסרגל החיפוש עם תחילת ההקלדה של מילות מפתח.">
 
 <!ENTITY engineNameColumn.label                "מנוע חיפוש">
 <!ENTITY engineKeywordColumn.label             "מילת מפתח">
