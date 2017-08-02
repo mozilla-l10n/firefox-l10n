@@ -198,7 +198,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Restaurar abas, proteção de dados, ferramentas do desenvolvedor">
+<!ENTITY pref_category_advanced_summary3 "Restaurar abas, economia de dados, ferramentas do desenvolvedor">
 <!ENTITY pref_category_notifications "Notificações">
 <!ENTITY pref_category_notifications_summary "Novas funcionalidades, atualizações de sites">
 <!ENTITY pref_content_notifications "Atualizações de sites">
@@ -255,7 +255,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Proteção de dados">
+<!ENTITY pref_category_data_saver "Economia de dados">
 <!ENTITY pref_category_media "Mídia">
 <!ENTITY pref_category_developer_tools "Ferramentas do desenvolvedor">
 
@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados ao sair">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar quais dados limpar">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Habilitado">
-<!ENTITY pref_plugins_tap_to_play2 "Tocar para reproduzir">
-<!ENTITY pref_plugins_disabled "Desabilitado">
 <!ENTITY pref_restore_tabs "Restaurar abas">
 <!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar após sair do &brandShortName;">
