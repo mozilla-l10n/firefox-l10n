@@ -5,8 +5,8 @@
 <!ENTITY  security.label                 "Güvenlik">
 <!ENTITY  phishingProtection.label       "Dolandırıcılık koruması">
 
-<!ENTITY  warnOnAddonInstall.label        "Siteler eklenti yüklemeye çalıştığında beni uyar">
-<!ENTITY  warnOnAddonInstall.accesskey    "e">
+<!ENTITY  warnOnAddonInstall2.label       "Siteler eklenti yüklemeye çalıştığında beni uyar">
+<!ENTITY  warnOnAddonInstall2.accesskey   "u">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -27,8 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formlar ve parolalar">
 
-<!ENTITY  rememberLogins1.label          "Sitelerdeki kullanıcı adlarını ve parolaları hatırla">
-<!ENTITY  rememberLogins1.accesskey      "h">
+<!ENTITY  rememberLogins2.label         "Sitelerdeki kullanıcı adlarını ve parolaları hatırla">
+<!ENTITY  rememberLogins2.accesskey     "k">
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

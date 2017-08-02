@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
+<!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
+<!ENTITY pageAction.removeFromUrlbar.label "Adres çubuğundan kaldır">
 
 <!ENTITY sendToDevice.label2 "Cihaza gönder">
-<!ENTITY sendToDevice.viewTitle "Cihaza gönder">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
