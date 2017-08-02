@@ -17,12 +17,12 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
-<!ENTITY debuggerUI.panesButton.tooltip "Toggle panes">
+<!ENTITY debuggerUI.panesButton.tooltip "Togol anak tetingkap">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "Sumber ini ialah kotak hitam: titik putus telah dinyahdayakan dan dilangkau.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Sumber ini telah dikotak hitamkan: titik putus telah dilumpuhkan, dan melangkauinya.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
@@ -31,19 +31,18 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-<!ENTITY debuggerUI.optsButton.tooltip  "Pilihan Debugger">
+<!ENTITY debuggerUI.optsButton.tooltip  "Pilihan Penyahpepijat">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Togol Black Boxing">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Togol Kotak Hitam">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
-<!ENTITY debuggerUI.sources.prettyPrint "Prettify Source">
+<!ENTITY debuggerUI.sources.prettyPrint "Mencantikkan Sumber">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint     "Auto Prettify Minified Sources">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
