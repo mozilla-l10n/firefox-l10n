@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "కింది సైట్లకు అనువాదం అందించబడదు:">
-<!ENTITY treehead.siteName.label          "సైట్లు">
+<!ENTITY treehead.siteName2.label         "వెబ్‌సైట్లు">
 <!ENTITY removeSite.label                 "సైటును తీసివేయి">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "అన్ని సైట్లను తీసివేయి">

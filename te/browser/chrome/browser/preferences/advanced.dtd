@@ -132,6 +132,10 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "పనితనం">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "సిఫారసు చేయబడిన పనితనపు అమరికలను వాడండి">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "ఈ సెట్టింగులు మీ కంప్యూటర్ హార్డ్వేర్ మరియు ఆపరేటింగ్ సిస్టంకు అనుగుణంగా ఉంటాయి.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label

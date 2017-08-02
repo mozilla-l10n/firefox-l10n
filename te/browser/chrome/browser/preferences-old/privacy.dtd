@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "శోధన యత్ర సూచనల అభిరుచులను మార్చండి…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "సైట్ల నుండి కుకీలను ఆమోదించు">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "మూడో-పార్టీ కుకీలను ఆమోదించు:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
