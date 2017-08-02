@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Изузеци">
 <!ENTITY window.width                 "46em">
 
-<!ENTITY treehead.sitename.label      "Веб сајт">
+<!ENTITY treehead.sitename2.label     "Веб сајт">
 <!ENTITY treehead.status.label        "Стање">
-<!ENTITY removepermission.label       "Уклони сајт">
-<!ENTITY removepermission.accesskey   "У">
-<!ENTITY removeallpermissions.label   "Уклони све сајтове">
-<!ENTITY removeallpermissions.accesskey "в">
+<!ENTITY removepermission2.label      "Уклони сајт">
+<!ENTITY removepermission2.accesskey  "У">
+<!ENTITY removeallpermissions2.label  "Уклони све сајтове">
+<!ENTITY removeallpermissions2.accesskey "в">
 <!ENTITY address.label                "Адреса веб сајта:">
 <!ENTITY address.accesskey            "А">
 <!ENTITY block.label                  "Блокирај">
