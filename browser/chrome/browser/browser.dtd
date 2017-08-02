@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
+<!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
+<!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
 
-
-
+<!ENTITY sendToDevice.label2 "Anfon i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">

@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "R">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Dysgu rhagor">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Dewis pa wefannau sy'n cael anfon hysbysiadau atoch">
 <!ENTITY  notificationsPolicyButton.accesskey  "D">
 <!ENTITY  notificationsPolicyButton.label      "Dewis…">
 <!ENTITY  notificationsDoNotDisturb.label      "Peidiwch â tharfu">
