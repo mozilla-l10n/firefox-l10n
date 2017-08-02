@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Искачући прозори">   
-   
+<!ENTITY  popups.label                "Искачући прозори">
+
 <!ENTITY  blockPopups.label           "Блокирај искачуће прозоре">
 <!ENTITY  blockPopups.accesskey       "ч">
 
 <!ENTITY  notificationsPolicy.label            "Обавештења">
 <!ENTITY  notificationsPolicyLearnMore.label   "Сазнајте више">
-<!ENTITY  notificationsPolicyDesc3.label       "Изаберите сајтове којима је дозвољено да вам шаљу обавештења">
+<!ENTITY  notificationsPolicyDesc4.label       "Изаберите којим веб сајтовима је дозвољено да вам шаљу обавештења">
 <!ENTITY  notificationsPolicyButton.accesskey  "И">
 <!ENTITY  notificationsPolicyButton.label      "Избор…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не узнемиравај ме">

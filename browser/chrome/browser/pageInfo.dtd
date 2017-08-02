@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Власник:">
 <!ENTITY  securityView.identity.domain   "Веб сајт:">
 <!ENTITY  securityView.identity.verifier "Проверио:">
+<!ENTITY  securityView.identity.validity "Истиче у:">
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историјат">
 <!ENTITY  securityView.privacy.history                  "Да ли сте раније посетили овај сајт?">
