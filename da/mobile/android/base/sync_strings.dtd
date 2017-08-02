@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label 'Forbind til &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg "Opsæt &syncBrand.shortName.label;" på enheden.'>
-<!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg "Tilføj enhed" på din anden enhed.'>
+<!ENTITY sync.subtitle.connect.label 'For at aktivere din nye enhed, vælg \u0022Opsæt &syncBrand.shortName.label;\u0022 på enheden.'>
+<!ENTITY sync.subtitle.pair.label 'For at aktivere, vælg \u0022Tilføj enhed\u0022 på din anden enhed.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Jeg har ikke enheden med mig…'>
 
