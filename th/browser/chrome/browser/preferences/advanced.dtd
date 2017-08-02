@@ -71,7 +71,7 @@ available. -->
 <!ENTITY clearOfflineAppCacheNow.label   "ล้างตอนนี้">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ล">
 <!ENTITY overrideSmartCacheSize.label    "เขียนทับการจัดการแคชอัตโนมัติ">
-<!ENTITY overrideSmartCacheSize.accesskey "ข">
+<!ENTITY overrideSmartCacheSize.accesskey "ค">
 
 <!ENTITY updateTab.label                 "อัปเดต">
 
@@ -119,9 +119,9 @@ available. -->
 <!ENTITY certificateTab.label            "ใบรับรอง">
 <!ENTITY certPersonal2.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของคุณ">
 <!ENTITY selectCerts.auto                "เลือกมาหนึ่งโดยอัตโนมัติ">
-<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.auto.accesskey      "ห">
 <!ENTITY selectCerts.ask                 "ถามคุณทุกครั้ง">
-<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY selectCerts.ask.accesskey       "ถ">
 <!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
 <!ENTITY enableOCSP.accesskey            "ฟ">
 <!ENTITY viewCerts2.label                "ดูใบรับรอง…">

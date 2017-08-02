@@ -32,7 +32,7 @@
 <!ENTITY  addressBar.label              "แถบที่อยู่">
 <!ENTITY  addressBar.suggest.label      "เมื่อใช้แถบที่อยู่ เสนอแนะ">
 <!ENTITY  locbar.history2.label         "ประวัติการท่องเว็บ">
-<!ENTITY  locbar.history2.accesskey     "ป">
+<!ENTITY  locbar.history2.accesskey     "ว">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
 <!ENTITY  locbar.bookmarks.accesskey    "ท">
 <!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
@@ -42,8 +42,6 @@
 
 <!ENTITY  suggestionSettings2.label     "เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา">
 
-<!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
-<!ENTITY  acceptCookies.accesskey       "ย">
 
 <!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "อ">
