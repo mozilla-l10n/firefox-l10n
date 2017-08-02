@@ -44,6 +44,7 @@
 <!ENTITY  suggestionSettings.accesskey  "ล">
 
 <!ENTITY  acceptCookies2.label          "ยอมรับคุกกี้จากเว็บไซต์">
+<!ENTITY  acceptCookies2.accesskey      "ย">
 
 <!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
