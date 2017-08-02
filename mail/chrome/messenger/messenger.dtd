@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Geçerli hesap">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "G">
-<!ENTITY getNextNMsgCmd.label "Sonraki 500 haber iletisini indir">
-<!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "Gönderilmemiş iletileri gönder">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abone ol…">
@@ -951,3 +949,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Uygulama simgesi seçenekleri…">
+<!ENTITY writeNewMessageDock.label      "Yeni ileti yaz">
+<!ENTITY openAddressBookDock.label      "Adres defterini aç">
