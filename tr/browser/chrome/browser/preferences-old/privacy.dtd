@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Arama motoru önerileri için tercihleri değiştir…">
 <!ENTITY  suggestionSettings.accesskey  "m">
 
-<!ENTITY  acceptCookies.label           "Sitelerden çerezleri kabul et">
-<!ENTITY  acceptCookies.accesskey       "k">
+<!ENTITY  acceptCookies2.label          "Sitelerden çerezleri kabul et">
+<!ENTITY  acceptCookies2.accesskey      "S">
 
 <!ENTITY  acceptThirdParty.pre.label      "Üçüncü taraf çerezlerini kabul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">

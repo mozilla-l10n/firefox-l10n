@@ -22,8 +22,6 @@
 <!ENTITY trackingProtectionPBM6.label         "Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY trackingProtectionPBM6.accesskey     "G">
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi al">
-<!ENTITY changeBlockList.label          "Engelleme listesini değiştir">
-<!ENTITY changeBlockList.accesskey      "E">
 
 <!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
 <!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
@@ -35,8 +33,6 @@
 
 <!ENTITY  addressBar.label              "Adres çubuğu">
 <!ENTITY  addressBar.suggest.label      "Adres çubuğunu kullanırken şunları öner:">
-<!ENTITY  locbar.history.label          "Geçmiş">
-<!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Yer imleri">
 <!ENTITY  locbar.bookmarks.accesskey    "Y">
 <!ENTITY  locbar.openpage.label         "Açık sekmeler">
@@ -46,8 +42,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Arama motoru önerileri için tercihleri değiştir">
 
-<!ENTITY  acceptCookies.label           "Sitelerden çerezleri kabul et">
-<!ENTITY  acceptCookies.accesskey       "k">
+<!ENTITY  acceptCookies2.label          "Sitelerden çerezleri kabul et">
+<!ENTITY  acceptCookies2.accesskey      "S">
 
 <!ENTITY  acceptThirdParty.pre.label      "Üçüncü taraf çerezlerini kabul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
