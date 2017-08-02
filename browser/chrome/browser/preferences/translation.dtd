@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "k">
 
 <!ENTITY noTranslationForSites.label      "Aşağıdaki siteler için çeviri önerisi yapılmayacaktır:">
-<!ENTITY treehead.siteName.label          "Siteler">
+<!ENTITY treehead.siteName2.label         "Web siteleri">
 <!ENTITY removeSite.label                 "Siteyi kaldır">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Tüm siteleri kaldır">

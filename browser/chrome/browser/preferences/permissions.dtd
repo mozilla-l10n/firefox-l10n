@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "İstisnalar">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Site">
+<!ENTITY treehead.sitename2.label     "Web sitesi">
 <!ENTITY treehead.status.label        "Durum">
-<!ENTITY removepermission.label       "Siteyi sil">
-<!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Tüm siteleri sil">
-<!ENTITY removeallpermissions.accesskey "m">
+<!ENTITY removepermission2.label      "Siteyi sil">
+<!ENTITY removepermission2.accesskey  "S">
+<!ENTITY removeallpermissions2.label  "Tüm siteleri sil">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Site adresi:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Engelle">

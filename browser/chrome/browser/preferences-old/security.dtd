@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Genel">
 
-<!ENTITY  warnOnAddonInstall.label        "Siteler eklenti yüklemeye çalıştığında beni uyar">
-<!ENTITY  warnOnAddonInstall.accesskey    "e">
+<!ENTITY  warnOnAddonInstall2.label       "Siteler eklenti yüklemeye çalıştığında beni uyar">
+<!ENTITY  warnOnAddonInstall2.accesskey   "t">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Hesaplar">
 
-<!ENTITY  rememberLogins.label          "Sitelerin giriş bilgilerini hatırla">
-<!ENTITY  rememberLogins.accesskey      "h">
+<!ENTITY  rememberLogins2.label         "Sitelerin giriş bilgilerini hatırla">
+<!ENTITY  rememberLogins2.accesskey     "h">
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 
