@@ -35,7 +35,7 @@
 <!ENTITY  useMasterPassword.label        "ใช้รหัสผ่านหลัก">
 <!ENTITY  useMasterPassword.accesskey    "ช">
 <!ENTITY  changeMasterPassword.label     "เปลี่ยนรหัสผ่านหลัก…">
-<!ENTITY  changeMasterPassword.accesskey "ล">
+<!ENTITY  changeMasterPassword.accesskey "ผ">
 
 <!ENTITY  savedLogins.label              "การเข้าสู่ระบบที่บันทึกไว้…">
 <!ENTITY  savedLogins.accesskey          "ก">
