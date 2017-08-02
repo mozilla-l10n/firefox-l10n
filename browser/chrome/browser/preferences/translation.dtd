@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Translation will not be offered for the following sites:">
-<!ENTITY treehead.siteName.label          "사이트">
+<!ENTITY treehead.siteName2.label         "웹사이트">
 <!ENTITY removeSite.label                 "사이트 제거">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "모든 사이트 제거">
