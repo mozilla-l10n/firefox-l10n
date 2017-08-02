@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ყ">
 
 <!ENTITY noTranslationForSites.label      "ამ გვერდების გადათარგმნა არ იქნება შემოთავაზებული:">
-<!ENTITY treehead.siteName.label          "საიტები">
+<!ENTITY treehead.siteName2.label         "საიტები">
 <!ENTITY removeSite.label                 "საიტის ამოღება">
 <!ENTITY removeSite.accesskey             "ს">
 <!ENTITY removeAllSites.label             "ყველა საიტის ამოღება">

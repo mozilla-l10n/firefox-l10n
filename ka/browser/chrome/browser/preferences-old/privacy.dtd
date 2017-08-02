@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "საძიებო სისტემის შემოთავაზებების პარამეტრები…">
 <!ENTITY  suggestionSettings.accesskey  "თ">
 
-<!ENTITY  acceptCookies.label           "ფუნთუშების მიღება საიტებიდან">
-<!ENTITY  acceptCookies.accesskey       "მ">
+<!ENTITY  acceptCookies2.label          "ფუნთუშების მიღება საიტებიდან">
+<!ENTITY  acceptCookies2.accesskey      "ფ">
 
 <!ENTITY  acceptThirdParty.pre.label      "მესამე მხარის ფუნთუშების მიღება:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ღ">
