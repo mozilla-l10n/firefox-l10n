@@ -7,23 +7,37 @@
 
 <!ENTITY loadError.label "Problema ng pagkarga ng pahina">
 <!ENTITY retry.label "Ulitin">
+<!ENTITY returnToPreviousPage.label "Bumalik">
+<!ENTITY advanced.label "Naka-usad">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Hindi makakonekta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "Ang address na ito ay pinagbabawalan">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Hindi makita ang server">
 
+<!ENTITY fileNotFound.title "Hindi makita ang file">
 
+<!ENTITY fileAccessDenied.title "Ang pagbukas ng file na ito ay hindi pinahihintulutan">
 
+<!ENTITY generic.title "Oops.">
 
+<!ENTITY captivePortal.title "Mag log in sa network">
 
+<!ENTITY openPortalLoginPage.label2 "Buksan ang Login na Pahina para sa Network">
 
+<!ENTITY malformedURI.title "Ang address na ito ay hindi pwede">
 
+<!ENTITY netInterrupt.title "Nasagabal ang koneksyon">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Ang Dokumentong ito ay Expired">
 
+<!ENTITY netOffline.title "Naka-Offline">
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 

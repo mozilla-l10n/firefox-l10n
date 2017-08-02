@@ -6,6 +6,8 @@
 <!ENTITY pluginActivationWarning                             "Ang site na ito ay gumagamit ng isang plugin na maaaring makapagpabagal sa &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Pindutin dito para paganahin ang plugin.">
 <!ENTITY clickToActivatePlugin                               "Paganahin ang plugin.">
+<!ENTITY checkForUpdates                                     "I-check para sa updates...">
+<!ENTITY blockedPlugin.label                                 "Ang plugin na ito ay hinarang para sa iyong proteksyon.">
 <!ENTITY hidePluginBtn.label                                 "Itago ang plugin">
 <!ENTITY managePlugins                                       "I-manage ang plugins...">
 
@@ -17,4 +19,15 @@
 <!ENTITY reloadPlugin.post                                   " ulitin muli.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Ipadala ang crash report">
+<!ENTITY report.submitting                                   "Ipinapadala ang report...">
+<!ENTITY report.submitted                                    "Ang crash report ay naipadala na.">
+<!ENTITY report.disabled                                     "Naka-disable ang crash reporting.">
+<!ENTITY report.failed                                       "Bigo ang pag-submit.">
+<!ENTITY report.unavailable                                  "Walang report na available.">
+<!ENTITY report.comment                                      "Magdagdag ng komento (ang mga komento ay kita sa publiko)">
+<!ENTITY report.pageURL                                      "Idagdag ang pahina ng URL">
 
+<!ENTITY plugin.file                                         "File">
+<!ENTITY plugin.mimeTypes                                    "MIME Types">
+<!ENTITY plugin.flashProtectedMode.label                     "Paganahin ang Adobe Flash protected mode">
+<!ENTITY plugin.enableBlocklists.label                       "Harangin ang delikado at mapanghimasok na kontento ng Flash">

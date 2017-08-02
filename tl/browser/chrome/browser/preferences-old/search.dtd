@@ -2,14 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Default na Search Engine">
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Pumili nang default search engine. &brandShortName; ginagamit ito sa location bar, search bar, at paunang pahina.">
 
+<!ENTITY provideSearchSuggestions.label        "Magbigay ng suhesyon sa paghahanap">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "Ipakita ang mga suhesyon sa paghahanap sa location bar results">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
+<!ENTITY oneClickSearchEngines.label           "One-click na Search Engines">
 
+<!ENTITY chooseWhichOneToDisplay.label         "Makakapili ka ng ibang alternatibong engines sa search bar. Pumili kung ano ang ipapakita.">
 
+<!ENTITY engineNameColumn.label                "Search Engine">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Ibalik sa default na Search Engines">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
+<!ENTITY removeEngine.label                    "Alisin">
+<!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY addMoreSearchEngines.label            "Mag-dagdag ng mga search engine…">
