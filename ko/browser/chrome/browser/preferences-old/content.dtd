@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "알림">
 <!ENTITY  notificationsPolicyLearnMore.label   "자세히 보기">
-<!ENTITY  notificationsPolicyDesc3.label       "알림 전송이 허용된 사이트 선택">
+<!ENTITY  notificationsPolicyDesc4.label       "알림을 보낼 수 있는 웹사이트 선택">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "선택…">
 <!ENTITY  notificationsDoNotDisturb.label      "방해하지 않기">

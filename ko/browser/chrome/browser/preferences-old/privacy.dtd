@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "검색 엔진 추천 설정 변경…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "웹 사이트에서 제공하는 쿠키 허용">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "웹사이트의 쿠기 허용">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "제3자 쿠키 허용:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">

@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "일반">
 
-<!ENTITY  warnOnAddonInstall.label        "사이트가 부가 기능을 설치하려 할 때 알리기">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "웹사이트가 부가 기능을 설치하려 할 때 경고">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "로그인">
 
-<!ENTITY  rememberLogins.label          "사이트 로그인 정보 저장">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "웹사이트 로그인 기억">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "예외 목록…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
