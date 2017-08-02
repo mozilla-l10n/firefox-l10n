@@ -8,6 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "ח">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "מידע נוסף">
+<!ENTITY  notificationsPolicyDesc4.label       "בחירת אתרים מורשים לשליחת התרעות">
 <!ENTITY  notificationsPolicyButton.accesskey  "ב">
 <!ENTITY  notificationsPolicyButton.label      "בחירה…">
 <!ENTITY  notificationsDoNotDisturb.label      "נא לא להפריע">

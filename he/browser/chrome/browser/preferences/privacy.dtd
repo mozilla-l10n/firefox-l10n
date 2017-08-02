@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "שינוי העדפות של הצעות מנועי חיפוש">
 
-<!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
-<!ENTITY  acceptCookies.accesskey       "ק">
+<!ENTITY  acceptCookies2.label          "קבלת עוגיות מאתרים">
+<!ENTITY  acceptCookies2.accesskey      "ק">
 
 <!ENTITY  acceptThirdParty.pre.label      "קבלת עוגיות צד שלישי:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ש">

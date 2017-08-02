@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "כ">
 
 <!ENTITY noTranslationForSites.label      "שירות התרגום לא יוצע עבור האתרים הבאים:">
-<!ENTITY treehead.siteName.label          "אתרים">
+<!ENTITY treehead.siteName2.label         "אתרים">
 <!ENTITY removeSite.label                 "הסרת אתר">
 <!ENTITY removeSite.accesskey             "ר">
 <!ENTITY removeAllSites.label             "הסרת כל האתרים">

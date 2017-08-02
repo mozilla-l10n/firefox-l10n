@@ -5,6 +5,8 @@
 <!ENTITY  security.label                 "אבטחה">
 <!ENTITY  phishingProtection.label       "הגנת דיוג">
 
+<!ENTITY  warnOnAddonInstall2.label       "הזהרה כאשר אתרים מנסים להתקין תוספות">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ה">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:

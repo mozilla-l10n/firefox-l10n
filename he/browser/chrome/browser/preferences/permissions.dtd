@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "חריגות">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "אתר">
+<!ENTITY treehead.sitename2.label     "אתר">
 <!ENTITY treehead.status.label        "מצב">
-<!ENTITY removepermission.label       "הסרת אתר">
-<!ENTITY removepermission.accesskey   "ה">
-<!ENTITY removeallpermissions.label   "הסרת כל האתרים">
-<!ENTITY removeallpermissions.accesskey "כ">
+<!ENTITY removepermission2.label      "הסרת אתר">
+<!ENTITY removepermission2.accesskey  "ה">
+<!ENTITY removeallpermissions2.label  "הסרת כל האתרים">
+<!ENTITY removeallpermissions2.accesskey "ס">
 <!ENTITY address.label                "כתובת אתר:">
 <!ENTITY address.accesskey            "ת">
 <!ENTITY block.label                  "חסום">

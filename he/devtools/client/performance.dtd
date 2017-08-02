@@ -40,6 +40,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "מפל">
 <!ENTITY performanceUI.toolbar.js-calltree "עץ קריאות">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "הדגשת פונקציות ה־JavaScript עליהן השקיע הדפדפן את הזמן הרב ביותר במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.memory-calltree "הקצאות">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "הצגת איפה הזיכרון הוקצה במהלך ההקלטה.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "תרשים להבות ל־JS">
