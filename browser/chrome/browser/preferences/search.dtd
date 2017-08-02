@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "מנוע חיפוש בררת מחדל">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "בחירת מנוע חיפוש ברירת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "בחירת מנוע חיפוש בררת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.">
 
 <!ENTITY provideSearchSuggestions.label        "הצגת המלצות חיפוש">
 <!ENTITY provideSearchSuggestions.accesskey    "מ">
