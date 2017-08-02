@@ -43,7 +43,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
-<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
+<!ENTITY debuggerUI.autoPrettyPrint     "Auto-Mencantikkan Sumber Mini">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "M">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -55,27 +56,27 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
-<!ENTITY debuggerUI.clearButton.tooltip "Lapangkan surihan  yang dikumpul">
+<!ENTITY debuggerUI.clearButton.tooltip "Buang jejak yang dikumpul">
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions           "Jeda pada Pengecualian">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "Abaikan Pengecualian Tangkap">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Abaikan Pengecualian Terperangkap">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
-<!ENTITY debuggerUI.showPanesOnInit           "Papar Panes pada Permulaan">
-<!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
+<!ENTITY debuggerUI.showPanesOnInit           "Pamer Anak Tettingkap pada Permulaan">
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "A">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penapis Pembolehubah">
-<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
+<!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penyaring Pembolehubah">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "K">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -93,8 +94,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
-<!ENTITY debuggerUI.autoBlackBox           "Automatically Black Box Minified Sources">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
+<!ENTITY debuggerUI.autoBlackBox           "Kotak Hitam Sumber Mini Automatik">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "H">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -102,7 +103,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "Filter Scripts">
+<!ENTITY debuggerUI.searchFile           "Saring Skrip">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
@@ -145,29 +146,29 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Breakpoint ini akan berhenti dilakukan hanya sekali jika diikuti expression yang betul">
+<!ENTITY debuggerUI.condBreakPanelTitle "Titik putus ini akan berhenti melaksana hanya jika ekspresi berikut adalah betul">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-<!ENTITY debuggerUI.seMenuBreak     "Tambah Breakpoint">
-<!ENTITY debuggerUI.seMenuBreak.key "B">
+<!ENTITY debuggerUI.seMenuBreak     "Tambah Titik putus">
+<!ENTITY debuggerUI.seMenuBreak.key "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-<!ENTITY debuggerUI.seMenuCondBreak     "Tambah Breakpoint Bersyarat">
-<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seMenuCondBreak     "Tambah Titik putus Bersyarat">
+<!ENTITY debuggerUI.seMenuCondBreak.key "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-<!ENTITY debuggerUI.seEditMenuCondBreak     "Tambah Breakpoint Bersyarat">
-<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Tambah Titik putus Bersyarat">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "T">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Sumber">
-<!ENTITY debuggerUI.tabs.traces         "Surih">
+<!ENTITY debuggerUI.tabs.traces         "Jejak">
 <!ENTITY debuggerUI.tabs.callstack      "Susunan Panggilan">
 <!ENTITY debuggerUI.tabs.variables      "Pembolehubah">
 <!ENTITY debuggerUI.tabs.events         "Acara">
@@ -200,12 +201,12 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
-<!ENTITY debuggerUI.context.newTab           "Buka di Tab Baru">
-<!ENTITY debuggerUI.context.newTab.accesskey "O">
+<!ENTITY debuggerUI.context.newTab           "Buka dalam Tab Baru">
+<!ENTITY debuggerUI.context.newTab.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Salin URL">
-<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
-<!ENTITY debuggerUI.context.copyUrl.key "C">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "S">
+<!ENTITY debuggerUI.context.copyUrl.key "S">
