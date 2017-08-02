@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Agoj de la paĝo">
+<!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
+<!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
 
 <!ENTITY sendToDevice.label2 "Sendi al aparato">
-<!ENTITY sendToDevice.viewTitle "Sendi al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">

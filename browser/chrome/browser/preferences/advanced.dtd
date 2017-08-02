@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj">
 <!ENTITY enableOCSP.accesskey            "P">
-<!ENTITY viewCerts.label                 "Vidi atestilojn">
-<!ENTITY viewCerts.accesskey             "a">
-<!ENTITY viewSecurityDevices.label       "Sekurecaj aparatoj">
-<!ENTITY viewSecurityDevices.accesskey   "s">
+<!ENTITY viewCerts2.label                "Vidi atestilojn…">
+<!ENTITY viewCerts2.accesskey            "A">
+<!ENTITY viewSecurityDevices2.label      "Sekurecaj aparatoj…">
+<!ENTITY viewSecurityDevices2.accesskey  "S">
 
 <!ENTITY performance.label               "Efikeco">
 <!ENTITY useRecommendedPerformanceSettings2.label
