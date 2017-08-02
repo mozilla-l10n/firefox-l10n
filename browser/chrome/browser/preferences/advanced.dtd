@@ -125,7 +125,9 @@ available. -->
 <!ENTITY enableOCSP.label                "สืบค้นเซิร์ฟเวอร์ตอบกลับ OCSP เพื่อยืนยันความถูกต้องของใบรับรองปัจจุบัน">
 <!ENTITY enableOCSP.accesskey            "ฟ">
 <!ENTITY viewCerts2.label                "ดูใบรับรอง…">
+<!ENTITY viewCerts2.accesskey            "บ">
 <!ENTITY viewSecurityDevices2.label      "อุปกรณ์ความปลอดภัย…">
+<!ENTITY viewSecurityDevices2.accesskey  "ค">
 
 <!ENTITY performance.label               "ประสิทธิภาพ">
 <!ENTITY useRecommendedPerformanceSettings2.label
