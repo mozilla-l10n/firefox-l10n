@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Ειδοποιήσεις">
 <!ENTITY  notificationsPolicyLearnMore.label   "Μάθετε περισσότερα">
-<!ENTITY  notificationsPolicyDesc3.label       "Επιλέξτε ποιες ιστοσελίδες μπορούν να σας στέλνουν ειδοποιήσεις">
+<!ENTITY  notificationsPolicyDesc4.label       "Επιλέξτε ποιοι ιστότοποι επιτρέπεται να σας στέλνουν ειδοποιήσεις">
 <!ENTITY  notificationsPolicyButton.accesskey  "ι">
 <!ENTITY  notificationsPolicyButton.label      "Επιλογή…">
 <!ENTITY  notificationsDoNotDisturb.label      "Μην ενοχλείτε">
