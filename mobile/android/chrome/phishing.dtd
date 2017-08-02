@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Få mig væk herfra!">
 <!ENTITY safeb.palm.decline.label "Ignorer denne advarsel">
 <!ENTITY safeb.palm.reportPage.label "Hvorfor blev denne side blokeret?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Rådgivning leveret af <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,3 +22,4 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønsket software og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønsket software prøver at lokke dig til at installere software, der kan påvirke dit system på uventede måder.">
+
