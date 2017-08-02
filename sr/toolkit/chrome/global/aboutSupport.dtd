@@ -141,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Дневник одлука">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Онемогућене могућности чувара рушења">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Алтернативна решења">
+
+<!ENTITY aboutSupport.mediaTitle "Медиј">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Излазни уређаји">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Улазни уређаји">
+<!ENTITY aboutSupport.mediaDeviceName "Име">
+<!ENTITY aboutSupport.mediaDeviceGroup "Група">
+<!ENTITY aboutSupport.mediaDeviceVendor "Произвођач">
+<!ENTITY aboutSupport.mediaDeviceState "Стање">
+<!ENTITY aboutSupport.mediaDevicePreferred "Жељено">
+<!ENTITY aboutSupport.mediaDeviceFormat "Формат">
+<!ENTITY aboutSupport.mediaDeviceChannels "Канали">
+<!ENTITY aboutSupport.mediaDeviceRate "Стопа">
+<!ENTITY aboutSupport.mediaDeviceLatency "Латентност">

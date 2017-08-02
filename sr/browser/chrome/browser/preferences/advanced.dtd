@@ -130,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "с">
 <!ENTITY enableOCSP.label                "Упит OCSP сервера да бисте проверили тренутну валидност сертификата">
 <!ENTITY enableOCSP.accesskey            "л">
-<!ENTITY viewCerts.label                 "Преглед сертификата">
-<!ENTITY viewCerts.accesskey             "ф">
-<!ENTITY viewSecurityDevices.label       "Безбедносни уређаји">
-<!ENTITY viewSecurityDevices.accesskey   "Б">
+<!ENTITY viewCerts2.label                "Погледај сертификате…">
+<!ENTITY viewCerts2.accesskey            "с">
+<!ENTITY viewSecurityDevices2.label      "Безбедносни уређаји…">
+<!ENTITY viewSecurityDevices2.accesskey  "Б">
 
 <!ENTITY performance.label               "Перформансе">
 <!ENTITY useRecommendedPerformanceSettings2.label
