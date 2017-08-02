@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "Papar Browser Styles">
+<!ENTITY options.showUserAgentStyles.label "Papar Gaya Pelayar">
 <!ENTITY options.showUserAgentStyles.tooltip "Mengaktifkan ini akan dapat memaparkan gaya piawai yang dimuatkan oleh pelayar.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
@@ -81,12 +81,6 @@
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Dayakan menyahpepijat jauh">
 <!ENTITY options.enableRemote.tooltip2  "Mengaktifkan pilihan ini akan membolehkan alatan pembangun menyahpepijat tika remote seperti Firefox OS">
-
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Dayakan worker debugging (dalam pembangunan)">
-<!ENTITY options.enableWorkers.tooltip  "Mengaktifkan pilihan ini akan membolehkan alatan pembangun menyahpepijat workers">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
