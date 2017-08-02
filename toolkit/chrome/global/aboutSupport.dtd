@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Багатопроцесні вікна">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Процеси веб-вмісту">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Служби визначення розташування від Mozilla">
 
@@ -139,3 +141,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Журнал рішень">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Можливості, вимкнені захистом від збоїв">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Способи обходу">
+
+<!ENTITY aboutSupport.mediaTitle "Медіа">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Пристрої відтворення">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Пристрої введення">
+<!ENTITY aboutSupport.mediaDeviceName "Назва">
+<!ENTITY aboutSupport.mediaDeviceGroup "Група">
+<!ENTITY aboutSupport.mediaDeviceVendor "Постачальник">
+<!ENTITY aboutSupport.mediaDeviceState "Стан">
+<!ENTITY aboutSupport.mediaDevicePreferred "Основний">
+<!ENTITY aboutSupport.mediaDeviceFormat "Формат">
+<!ENTITY aboutSupport.mediaDeviceChannels "Канали">
+<!ENTITY aboutSupport.mediaDeviceRate "Частота">
+<!ENTITY aboutSupport.mediaDeviceLatency "Затримка">
