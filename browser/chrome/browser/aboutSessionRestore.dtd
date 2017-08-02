@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "सफल!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; जाने के लिए तैयार है.">
 
+<!ENTITY welcomeback2.restoreAll.label  "सभी विंडो और टैब को पुरानी स्थिति में लाएँ">
 <!ENTITY welcomeback2.restoreSome.label "अपने चाहते को पुनर्स्थापित करें">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively

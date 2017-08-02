@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
 
+<!ENTITY searchItem.title             "खोज">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "घर">
@@ -247,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "मोबाइल बुकमार्क">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
-
+<!ENTITY searchBookmarks.label              "पुस्तचिह्न खोजें">
 
 <!ENTITY containersMenu.label "पात्र">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -437,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "युक्ति:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "चीजों को ढूंढने में सहायता पाएँ! खोज सुझावों के बगल में &#x1F50E; के लिए देखें.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "विकल्प परिवर्तन करें…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "प्राथमिकताएँ परिवर्तित करें…">
@@ -474,6 +476,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "खोज">
+<!ENTITY searchIcon.tooltip           "खोज">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -623,8 +627,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "धीमा (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "सामान्य">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "तेज (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "तेजी (1.5×)">
@@ -684,7 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "बाज़ू पट्टी बंद करें">
-<!ENTITY sidebarMenuClose.label         "साइडबार बंद करें">
+<!ENTITY sidebarMenuClose.label         "बाज़ू पट्टी बंद करें">
 
 <!ENTITY quitApplicationCmdWin2.label       "बाहर">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -855,17 +859,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "वस्तुओं को उन्हें पहुँच के भीतर लेकिन अपने टूलबार से बाहर रखने के लिए यहाँ खींचें और छोड़ें…">
+<!ENTITY customizeMode.uidensity "घनत्व">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "सामान्य">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "सामान्य">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "सघन">
 
-
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
@@ -979,11 +985,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अभी नहीं">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; का अद्यतन करने के लिए पुन: प्रारंभ करें">
+
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 
 
 
-<!ENTITY sendToDevice.label2 "उपकरण पर भेजें">
 
