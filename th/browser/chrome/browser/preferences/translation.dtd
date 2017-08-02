@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "ท">
 
 <!ENTITY noTranslationForSites.label      "การแปลจะไม่ถูกนำเสนอในไซต์เหล่านี้:">
-<!ENTITY treehead.siteName.label          "ไซต์">
+<!ENTITY treehead.siteName2.label         "เว็บไซต์">
 <!ENTITY removeSite.label                 "เอาไซต์ออก">
 <!ENTITY removeSite.accesskey             "ต">
 <!ENTITY removeAllSites.label             "เอาไซต์ทั้งหมดออก">

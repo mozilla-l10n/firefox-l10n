@@ -5,6 +5,7 @@
 <!ENTITY  general.label                 "ทั่วไป">
 
 <!ENTITY  warnOnAddonInstall2.label       "เตือนคุณเมื่อเว็บไซต์พยายามจะติดตั้งส่วนเสริม">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ต">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
