@@ -953,3 +953,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Опције иконица програма…">
 <!ENTITY writeNewMessageDock.label      "Напишите нову поруку">
+<!ENTITY openAddressBookDock.label      "Отвори именик">
