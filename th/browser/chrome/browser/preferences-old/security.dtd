@@ -4,8 +4,7 @@
 
 <!ENTITY  general.label                 "ทั่วไป">
 
-<!ENTITY  warnOnAddonInstall.label        "เตือนคุณเมื่อไซต์พยายามจะติดตั้งส่วนเสริม">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "เตือนคุณเมื่อเว็บไซต์พยายามจะติดตั้งส่วนเสริม">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +25,6 @@
 
 <!ENTITY  logins.label                  "การเข้าสู่ระบบ">
 
-<!ENTITY  rememberLogins.label          "จดจำการเข้าสู่ระบบสำหรับไซต์">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "อ">
 
