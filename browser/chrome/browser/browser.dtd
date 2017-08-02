@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
+<!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
+<!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
 
 <!ENTITY sendToDevice.label2 "Lähetä laitteeseen">
-<!ENTITY sendToDevice.viewTitle "Lähetä laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
