@@ -139,3 +139,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decidoj">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Trajtoj malŝaltitaj de la protekto kontraŭ paneoj">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Provizoraj solvoj">
+
+<!ENTITY aboutSupport.mediaTitle "Aŭdvidaĵo">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Eligaj aparatoj">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Enigaj aparatoj">
+<!ENTITY aboutSupport.mediaDeviceName "Nomo">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vendisto">
+<!ENTITY aboutSupport.mediaDeviceState "Ŝstato">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferata">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formo">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanaloj">
+<!ENTITY aboutSupport.mediaDeviceRate "Frekvenco">
+<!ENTITY aboutSupport.mediaDeviceLatency "Prokrasto">
