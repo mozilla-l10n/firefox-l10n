@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "שינוי העדפות של הצעות מנועי חיפוש…">
 <!ENTITY  suggestionSettings.accesskey  "צ">
 
-<!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
-<!ENTITY  acceptCookies.accesskey       "ק">
+<!ENTITY  acceptCookies2.label          "קבלת עוגיות מאתרים">
+<!ENTITY  acceptCookies2.accesskey      "ק">
 
 <!ENTITY  acceptThirdParty.pre.label      "קבלת עוגיות צד שלישי:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ש">

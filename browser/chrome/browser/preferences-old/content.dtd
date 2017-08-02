@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "התרעות">
 <!ENTITY  notificationsPolicyLearnMore.label   "מידע נוסף">
-<!ENTITY  notificationsPolicyDesc3.label       "בחירת אתרים מורשים לשליחת התרעות">
+<!ENTITY  notificationsPolicyDesc4.label       "בחירת אתרים מורשים לשליחת התרעות">
 <!ENTITY  notificationsPolicyButton.accesskey  "ב">
 <!ENTITY  notificationsPolicyButton.label      "בחירה…">
 <!ENTITY  notificationsDoNotDisturb.label      "נא לא להפריע">

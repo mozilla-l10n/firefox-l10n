@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "כללי">
 
-<!ENTITY  warnOnAddonInstall.label        "הזהרה כאשר אתרים מנסים להתקין תוספות">
-<!ENTITY  warnOnAddonInstall.accesskey    "ת">
+<!ENTITY  warnOnAddonInstall2.label       "הזהרה כאשר אתרים מנסים להתקין תוספות">
+<!ENTITY  warnOnAddonInstall2.accesskey   "ה">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "כניסות">
 
-<!ENTITY  rememberLogins.label          "שמירת כניסות לאתרים">
-<!ENTITY  rememberLogins.accesskey      "ש">
+<!ENTITY  rememberLogins2.label         "שמירת כניסות לאתרים">
+<!ENTITY  rememberLogins2.accesskey     "ש">
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
 

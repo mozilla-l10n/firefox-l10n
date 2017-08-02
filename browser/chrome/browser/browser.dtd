@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
+<!ENTITY pageAction.addToUrlbar.label "הוספה לשורת הכתובת">
+<!ENTITY pageAction.removeFromUrlbar.label "הסרה משורת הכתובת">
 
 <!ENTITY sendToDevice.label2 "שליחה להתקן">
-<!ENTITY sendToDevice.viewTitle "שליחה להתקן">
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון התקנים…">
