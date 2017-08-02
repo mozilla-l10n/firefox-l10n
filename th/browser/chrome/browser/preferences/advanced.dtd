@@ -31,7 +31,7 @@ available. -->
 <!ENTITY enableHealthReport1.label       "อนุญาตให้ &brandShortName; ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง Mozilla โดยอัตโนมัติ">
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
-<!ENTITY dataCollection.label            "การเก็บรวบรวมและใช้ข้อมูล &brandShortName;">
+<!ENTITY dataCollection.label            "การเก็บรวบรวมและการใช้ข้อมูล &brandShortName;">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">

@@ -27,6 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "แบบฟอร์มและรหัสผ่าน">
 
+<!ENTITY  rememberLogins2.label         "จดจำการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์">
+<!ENTITY  rememberLogins2.accesskey     "ด">
 <!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "อ">
 
