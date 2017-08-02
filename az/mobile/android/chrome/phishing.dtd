@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Məni burdan xilas et!">
 <!ENTITY safeb.palm.decline.label "Bu xəbərdarlığı göz ardı et">
 <!ENTITY safeb.palm.reportPage.label "Bu səhifə niyə əngəlləndi?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Məsləhətlər <a id='advisory_provider'/> tərəfindən təmin edilib">
 
 <!ENTITY safeb.blocked.malwarePage.title "Təhlükəli olaraq bildirilmiş sayt!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
