@@ -43,8 +43,7 @@
 <!ENTITY  suggestionSettings.label      "เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา…">
 <!ENTITY  suggestionSettings.accesskey  "ล">
 
-<!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "ยอมรับคุกกี้จากเว็บไซต์">
 
 <!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
