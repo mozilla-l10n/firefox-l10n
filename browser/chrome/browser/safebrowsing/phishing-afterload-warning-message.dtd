@@ -15,6 +15,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "n">
 <!ENTITY safeb.palm.reportPage.label "Miért nem jelenik meg ez a weboldal?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "A tanácsadást biztosítja: <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Bejelentett támadó weboldal!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

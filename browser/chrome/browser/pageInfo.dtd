@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Tulajdonos: ">
 <!ENTITY  securityView.identity.domain   "Webhely: ">
 <!ENTITY  securityView.identity.verifier "Ellenőrizte: ">
-
+<!ENTITY  securityView.identity.validity "Lejárat:">
 
 <!ENTITY  securityView.privacy.header                   "Adatvédelem és előzmények">
 <!ENTITY  securityView.privacy.history                  "Megnéztem már ezt a webhelyet korábban?">
