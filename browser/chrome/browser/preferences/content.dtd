@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "b">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ətraflı öyrən">
-<!ENTITY  notificationsPolicyDesc3.label       "Hansı saytların sizə bildiriş göndərə biləcəklərini seçin">
+<!ENTITY  notificationsPolicyDesc4.label       "Hansı saytların sizə bildiriş göndərə biləcəyini seçin">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Seç…">
 <!ENTITY  notificationsDoNotDisturb.label      "Məni narahat etmə">

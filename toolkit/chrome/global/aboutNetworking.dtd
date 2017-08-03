@@ -46,6 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Keşin qazanma sayısı">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Şəbəkənin qazanma sayısı">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam şəbəkə istək sayısı">
+<!ENTITY aboutNetworking.rcwnOperation         "Keş əməliyyatı">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Aç">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Oxu">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Yaz">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Yazma açılışı">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Qısa ortalama">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Uzun ortalama">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Uzun standart yayınma">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Yavaş keş sayısı">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Yavaş olmayan keş sayısı">

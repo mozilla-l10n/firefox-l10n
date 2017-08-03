@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş…">
 <!ENTITY  suggestionSettings.accesskey  "m">
 
-<!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
-<!ENTITY  acceptCookies.accesskey       "e">
+<!ENTITY  acceptCookies2.label          "Saytlardan çərəzləri qəbul et">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "l">

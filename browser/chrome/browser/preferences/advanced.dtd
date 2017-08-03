@@ -90,11 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Yaxşı məhsuldarlıq, sabitlik və təhlükəsizlik üçün &brandShortName; səyyahını daima yeni tutun.">
 <!ENTITY updateApplication.version.pre   "Buraxılış ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; səyyahı">
-<!ENTITY updateAuto2.label               "Yeniləmələri avtomatik olaraq qursun (təhlükəsizlik üçün məsləhətlidir)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Yeniləmələri avtomatik qur (məsləhət görülür)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Yeniləmələri yoxlasın amma qurma qərasını sizə versin">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Yeniləmələri heç vaxt yoxlamasın (məsləhətli deyil)">
@@ -128,10 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Sertifikatların keçərliliyini təsdiqləmək üçün OCSP cavabdehlik serverlərinə Sorğu göndər">
 <!ENTITY enableOCSP.accesskey            "S">
-<!ENTITY viewCerts.label                 "Sertifikatları göstər">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
-<!ENTITY viewSecurityDevices.accesskey   "C">
+<!ENTITY viewCerts2.label                "Sertifikatları göstər…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Təhlükəsizlik cihazları…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Məhsuldarlıq">
 <!ENTITY useRecommendedPerformanceSettings2.label

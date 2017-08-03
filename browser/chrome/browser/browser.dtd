@@ -332,6 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "K">
 <!ENTITY viewCustomizeToolbar.label       "Şəxsiləşdir…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
+<!ENTITY overflowCustomizeToolbar.label       "Alət sətrini şəxsiləşdir…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Tarixçə">
 <!ENTITY historyMenu.accesskey "r">
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Son Tarixçəni Təmizlə…">
 <!ENTITY appMenuHistory.restoreSession.label "Əvvəlki Seansı Bərpa et">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixçə yan panelini göstər">
+<!ENTITY appMenuHistory.recentHistory.label "Yaxın Tarixçə">
 <!ENTITY appMenuHelp.label "Kömək">
 <!ENTITY appMenuHelp.tooltip "Kömək Menyusunu Aç">
 
@@ -985,9 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yeniləmək üçün yenidən başladın">
 
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
+<!ENTITY pageAction.addToUrlbar.label "Ünvan sətrinə əlavə et">
+<!ENTITY pageAction.removeFromUrlbar.label "Ünvan sətrindən sil">
 
 <!ENTITY sendToDevice.label2 "Cihaza göndər">
-<!ENTITY sendToDevice.viewTitle "Cihaza göndər">
-<!ENTITY sendToDevice.fxaRequired.label "Tələb edilir">
-<!ENTITY sendToDevice.noDevices.label "Cihaz yoxdur">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Sinxronlaşdırılır…">
