@@ -38,17 +38,35 @@ available. -->
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Matuto ng higit pa">
 
+<!ENTITY telemetryDesc.label             "Magbahagi ng performance, paggamit, hardware at pag-sadya ng data tungkol sa iyong browser sa &vendorShortName; para makatulong mapabuti ang &brandShortName;">
+<!ENTITY enableTelemetryData.label       "Magbahagi ng karagdagan na Data (i.e., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryLearnMore.label        "Karagdagan na kaalaman">
 
+<!ENTITY crashReporterDesc2.label         "Ang mga crash report ay makakatulong sa &vendorShortName; para mag-ayos ng mga problema at gawing mas panatag at ligtas ang iyong browser">
+<!ENTITY alwaysSubmitCrashReports.label   "Payagan ang &brandShortName; na mag send ng backlogged crash reports para sayo">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY crashReporterLearnMore.label     "Karagdagan na kaalaman">
 
 <!ENTITY networkTab.label                "Network">
 
+<!ENTITY connection.label                "Koneksyon">
 
+<!ENTITY connectionDesc.label            "I-configure kung papano ang &brandShortName; komonek sa Internet">
 <!ENTITY connectionSettings.label        "Settings…">
 <!ENTITY connectionSettings.accesskey    "e">
 
+<!ENTITY httpCache.label                 "I-cached ang nilalaman ng Web">
 
+<!ENTITY offlineStorage2.label           "Pang-offline na Web Content at User Data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Data ng Site">
+<!ENTITY clearSiteData.label             "Burahin ang lahat ng Data">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Mga setting...">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Karagdagn na kaalaman">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -59,14 +77,25 @@ available. -->
 <!ENTITY limitCacheSizeBefore.label      "Limit cache to">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ng espasyo">
+<!ENTITY clearCacheNow.label             "Burahin na">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "Burahin na">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "I-override ang automatic na cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Pagsasangayon">
 
+<!ENTITY updateApplication.label         "&brandShortName; Mga update">
 <!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheckChoose.label         "I-check kung may mga update, subalit hayaan ka kung i-install ang mga ito">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
 <!ENTITY updateManual.accesskey          "n">
 
+<!ENTITY updateHistory.label             "Ipakita ang kasaysayan ng mga Update">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
@@ -74,10 +103,38 @@ available. -->
 <!ENTITY enableSearchUpdate.label        "Mga Search Engine">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Mga exception...">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList2.label          "Ang mga sumusunod na mga website ay may pahintulot na mag-tago ng data para sa offline na paggamit:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
+<!ENTITY certificateTab.label            "Mga certificate">
+<!ENTITY certPersonal.label              "Mga request">
+<!ENTITY certPersonal.description        "Kung ang server ay humihingi ng iyong personal certificate:">
+<!ENTITY selectCerts.auto                "Kaagad pumili ng isa">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Mag-tanong palagi">
+<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.label                "Magtanong sa OCSP responder servers para ma kumpirma ang kasalukuyang balidikasyon ng mga certificate">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "Tingnan ang mga certificate">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "Mga device pang-seguridad">
+<!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "Pagganap">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Gamitin ang iminungkahi na performance settings">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Ang mga setting na ito ay sadya para sa iyong computer hardware at operating system.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Karagdagan na kaalaman">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY allowHWAccel.accesskey          "r">

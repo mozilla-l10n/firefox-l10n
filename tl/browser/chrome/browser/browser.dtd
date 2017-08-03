@@ -988,7 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Page actions">
+<!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
+<!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
 
 <!ENTITY sendToDevice.label2 "Ipadala sa device">
-<!ENTITY sendToDevice.viewTitle "Ipadala sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
