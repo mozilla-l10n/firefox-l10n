@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Utilizzare il server predefinito">
 
+<!ENTITY smtpServerEdit.label "Modifica server SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">

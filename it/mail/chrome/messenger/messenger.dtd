@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Account corrente">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Scarica le successive 500 news">
-<!ENTITY getNextNMsgCmd.accesskey "5">
+<!ENTITY getNextNMsgCmd2.label "Scarica nuovi messaggi di news">
+<!ENTITY getNextNMsgCmd2.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Invia posta in uscita">
 <!ENTITY sendUnsentCmd.accesskey "U">
 <!ENTITY subscribeCmd.label "Sottoscrivi…">
@@ -952,3 +952,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opzioni icona applicazione…">
+<!ENTITY writeNewMessageDock.label      "Scrivi un nuovo messaggio">
+<!ENTITY openAddressBookDock.label      "Apri Rubrica">
