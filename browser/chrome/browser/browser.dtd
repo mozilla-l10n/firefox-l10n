@@ -705,12 +705,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "Page Style">
+<!ENTITY pageStyleMenu.label "Gaya Halaman">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "No Style">
-<!ENTITY pageStyleNoStyle.accesskey "n">
-<!ENTITY pageStylePersistentOnly.label "Basic Page Style">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStyleNoStyle.label "Tiada Gaya">
+<!ENTITY pageStyleNoStyle.accesskey "d">
+<!ENTITY pageStylePersistentOnly.label "Gaya Halaman Asas">
+<!ENTITY pageStylePersistentOnly.accesskey "a">
 
 <!ENTITY pageReportIcon.tooltip            "Tukar tetapan sekatan popup untuk laman web ini">
 

@@ -152,7 +152,7 @@
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
-<!ENTITY options.styleeditor.label            "Style Editor">
+<!ENTITY options.styleeditor.label            "Editor Gaya">
 
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
@@ -161,8 +161,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "Autocomplete CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Ciri, nilai dan pemilih autocomplete CSS dalam Editor Gaya sebaik sahaja anda menaip">
+<!ENTITY options.stylesheetAutocompletion.label      "CSS Auto-lengkap">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Ciri, nilai dan pemilih CSS auto-lengkap dalam Editor Gaya sebaik sahaja anda menaip">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
