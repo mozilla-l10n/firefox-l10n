@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label "Śledzenie">
 <!ENTITY trackingProtectionHeader2.label "Ochrona przed śledzeniem">
-<!ENTITY trackingProtection.description "Śledzenie to zbieranie informacji o Twoim przeglądaniu na wielu różnych stronach. Śledzenie jest używane do profilowania użytkowników i wyświetlania treści na podstawie Twojego przeglądania i osobistych danych.">
-<!ENTITY trackingProtection.radioGroupLabel "Chroń przed śledzeniem przez znane elementy śledzące:">
+<!ENTITY trackingProtection2.description "Śledzenie to zbieranie informacji o Twoim przeglądaniu na wielu różnych stronach. Śledzenie jest używane do profilowania użytkowników i wyświetlania treści na podstawie Twojego przeglądania i osobistych danych.">
+<!ENTITY trackingProtection2.radioGroupLabel "Chroń przed śledzeniem przez znane elementy śledzące:">
 <!ENTITY trackingProtectionAlways.label "Zawsze">
 <!ENTITY trackingProtectionAlways.accesskey "">
 <!ENTITY trackingProtectionPrivate.label "W oknach prywatnych">
