@@ -859,24 +859,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "u">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite dodatne teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Dovucite i ispustite stavke ovdje kako biste ih zadržali blizu, ali izvan vaše alatne trake…">
+<!ENTITY customizeMode.uidensity "Gustoća">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normalna">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalna">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktno">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktno">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Za dodir">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Za dodir">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "d">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Koristi Za dodir u tablet načinu">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera za dijeljenje:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -959,29 +962,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Saznajte više o DRM-u…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Ažurirajte &brandShorterName; za brže i sigurnije iskustvo.">
+<!ENTITY updateAvailable.whatsnew.label "Pogledajte novosti.">
+<!ENTITY updateAvailable.header.message "Novo &brandShorterName; ažuriranje je dostupno.">
+<!ENTITY updateAvailable.acceptButton.label "Preuzmi ažuriranje">
+<!ENTITY updateAvailable.acceptButton.accesskey "P">
+<!ENTITY updateAvailable.cancelButton.label "Ne sada">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Preuzmi &brandShorterName; ažuriranje">
 
+<!ENTITY updateManual.message "Preuzmite novu &brandShorterName; instalaciju i pomoći ćemo vam ga instalirati.">
+<!ENTITY updateManual.whatsnew.label "Pogledajte novosti.">
+<!ENTITY updateManual.header.message "&brandShorterName; nije moguće ažurirati na najnoviju inačicu.">
+<!ENTITY updateManual.acceptButton.label "Preuzmi &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "P">
+<!ENTITY updateManual.cancelButton.label "Ne sada">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Preuzmite novu &brandShorterName; instalaciju">
 
+<!ENTITY updateRestart.message "Nakon kratkog ponovnog pokretanja, &brandShorterName; će obnoviti vaše otvorene kartice i prozore.">
+<!ENTITY updateRestart.header.message2 "Ponovno pokrenite za ažuriranje &brandShorterName;a">
+<!ENTITY updateRestart.acceptButton.label "Ponovno pokreni i obnovi">
+<!ENTITY updateRestart.acceptButton.accesskey "r">
+<!ENTITY updateRestart.cancelButton.label "Ne sada">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Ponovno pokrenite za ažuriranje &brandShorterName;a">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pageActionButton.tooltip "Radnje na stranici">
 
 
 
