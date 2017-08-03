@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่จะล้าง">
-<!ENTITY pref_plugins "ปลั๊กอิน">
-<!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
-<!ENTITY pref_plugins_tap_to_play2 "สัมผัสเพื่อเล่น">
-<!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
 <!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "อย่าเรียกคืนหลังออกจาก &brandShortName;">
@@ -513,7 +509,7 @@
 <!ENTITY contextmenu_site_settings "แก้ไขการตั้งค่าไซต์">
 <!ENTITY contextmenu_top_sites_edit "แก้ไข">
 <!ENTITY contextmenu_top_sites_pin "ปักหมุดไซต์">
-<!ENTITY contextmenu_top_sites_unpin "ถอดหมุดไซต์">
+<!ENTITY contextmenu_top_sites_unpin "ถอนหมุดไซต์">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -629,7 +625,7 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "ปักหมุดไซต์แล้ว">
-<!ENTITY home_unpinned_site "ถอดหมุดไซต์แล้ว">
+<!ENTITY home_unpinned_site "ถอนหมุดไซต์แล้ว">
 
 <!ENTITY remote_tabs_panel_moved_title "แท็บของฉันไปอยู่ที่ไหน?">
 <!ENTITY remote_tabs_panel_moved_desc "เราได้ย้ายแท็บของคุณจากอุปกรณ์อื่น ๆ ไปไว้ที่แผงบนหน้าแรกของคุณ ซึ่งสามารถเข้าถึงได้อย่างง่ายดายในทุกครั้งที่คุณเปิดแท็บใหม่">
