@@ -5,9 +5,10 @@
 <!ENTITY window.title                 "Excepcions">
 <!ENTITY window.width                 "48em">
 
+<!ENTITY treehead.sitename2.label     "Lloc web">
 <!ENTITY treehead.status.label        "Estat">
-
-
+<!ENTITY removepermission2.label      "Elimina el lloc web">
+<!ENTITY removepermission2.accesskey  "E">
 <!ENTITY removeallpermissions2.label  "Suprimeix tots els llocs web">
 <!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Adreça del lloc web:">
