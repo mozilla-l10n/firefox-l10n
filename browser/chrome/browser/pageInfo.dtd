@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "בעלים: ">
 <!ENTITY  securityView.identity.domain   "אתר: ">
 <!ENTITY  securityView.identity.verifier "גורם מאמת: ">
+<!ENTITY  securityView.identity.validity "מועד תפוגה:">
 
 <!ENTITY  securityView.privacy.header                   "פרטיות והיסטוריה">
 <!ENTITY  securityView.privacy.history                  "האם ביקרתי באתר זה בעבר?">
