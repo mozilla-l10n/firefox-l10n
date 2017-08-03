@@ -952,5 +952,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Indstillinger for app-ikon…">
-<!ENTITY writeNewMessageDock.label      "Skriv ny besked">
+<!ENTITY writeNewMessageDock.label      "Skriv ny meddelelse">
 <!ENTITY openAddressBookDock.label      "Åbn adressebog">
