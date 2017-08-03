@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Operaçion ariescia">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; o l'é pronto.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Arvi torna tutti i feuggi e barcoin">
-<!ENTITY welcomeback2.label.restoreSome "Arvi torna solo i feuggi domandæ">
+<!ENTITY welcomeback2.restoreAll.label  "Repiggia tutti i barcoin e feuggi">
+<!ENTITY welcomeback2.restoreSome.label "Repiggia solo quelli che t'eu">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
