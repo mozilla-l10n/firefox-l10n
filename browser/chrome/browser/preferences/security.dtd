@@ -4,6 +4,7 @@
 
 <!ENTITY  security.label                 "Keamanan">
 
+<!ENTITY  warnOnAddonInstall2.label       "Ingatkan ketika situs web mencoba memasang pengaya">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
