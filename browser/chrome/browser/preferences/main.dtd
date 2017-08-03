@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Contròlla de longo se &brandShortName; o l'é o navegatô predefinio">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
-<!ENTITY setAsMyDefaultBrowser2.label     "Inpòsta comme navegatô predefinio">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "o">
+<!ENTITY setAsMyDefaultBrowser3.label     "Adeuvia comme predefinio…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "A">
 <!ENTITY isDefault.label                  "&brandShortName; o l'é o navegatô predefinio">
 <!ENTITY isNotDefault.label               "&brandShortName; o no l'é o navegatô predefinio">
 

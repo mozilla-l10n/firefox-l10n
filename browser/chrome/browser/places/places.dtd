@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Azonto">
 <!ENTITY col.lastmodified.label  "Cangiou o">
 
-<!ENTITY search.label                              "Riçerca:">
-<!ENTITY search.accesskey                          "R">
+<!ENTITY search.placeholder  "Çerca">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Seleçionn-a un ògetto pe vedde e modificâ e propietæ">
 
-<!ENTITY find.label               "Riçerca:">
-<!ENTITY find.accesskey           "R">
 <!ENTITY view.label               "Fanni vedde">
 <!ENTITY view.accesskey           "F">
 <!ENTITY byDate.label             "Pe dæta">

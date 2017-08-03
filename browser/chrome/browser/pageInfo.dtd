@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Propietaio:">
 <!ENTITY  securityView.identity.domain   "Scito:">
 <!ENTITY  securityView.identity.verifier "Verificou da:">
+<!ENTITY  securityView.identity.validity "Scazze o:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; stöia">
 <!ENTITY  securityView.privacy.history                  "T'æ za vixitou sto scito primma de ancheu?">

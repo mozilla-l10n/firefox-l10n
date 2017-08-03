@@ -406,6 +406,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Azonzi a-o menû Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Leva da-o menû Overflow">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Scancella da bara di strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
 <!ENTITY customizeMenu.removeFromMenu.label "Scancella dò-u menû">
@@ -434,7 +436,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Conseggi:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Fatte agiutâ a trovâ e cöse! Çerca a &#x1F50E; vixin a-i conseggi de riçerca.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cangia Inpostaçioin…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cangia preferense…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -468,6 +476,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Çerca">
+<!ENTITY searchIcon.tooltip           "Çerca">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -551,6 +561,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azonzi sto riquaddro a-i segnalibbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
+<!ENTITY copyURLCmd.label             "Còpia URL">
 <!ENTITY emailPageCmd.label           "Manda colegamento pe email…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Sarva pagina co-o nomme…">
@@ -676,6 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Særa a bara de scianco">
+<!ENTITY sidebarMenuClose.label         "Særa a bara de scianco">
 
 <!ENTITY quitApplicationCmdWin2.label       "Sciòrti">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
@@ -685,6 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Sciòrti"> 
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "Sciòrti da &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Særa">  
 <!ENTITY closeCmd.key                   "W">  
@@ -736,6 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.">
 <!ENTITY identity.connectionVerified2 "Ti ê conesso in mòddo seguo a sto scito de:">
 <!ENTITY identity.connectionInternal "Sta chi a l'é 'na pagina segua de &brandShortName;.">
+<!ENTITY identity.extensionPage "Sta pagina a l'é caregâ da 'na estenscion.">
 <!ENTITY identity.insecureLoginForms2 "I acessi a sta pagina porieivan ese vulnerabili.">
 
 <!-- Strings for connection state warnings. -->
@@ -834,7 +848,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "T'æ bezeugno di atri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Çerni fra migiæe di conponenti azonti">
 <!ENTITY customizeMode.restoreDefaults "Repiggia predefinii">
+<!ENTITY customizeMode.done "Fæto">
 <!ENTITY customizeMode.titlebar "Bara do titolo">
+<!ENTITY customizeMode.toolbars2 "Bare di strumenti">
 <!ENTITY customizeMode.lwthemes "Temi">
 <!ENTITY customizeMode.lwthemes.myThemes "I mæ temi">
 <!ENTITY customizeMode.lwthemes.recommended "Consegiou">
@@ -842,15 +858,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Piggia atri temi">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.emptyOverflowList.description "Rebela e mòlla i elementi chi pe tegnili razonzibili ma feua da teu bara di strumenti…">
+<!ENTITY customizeMode.uidensity "Densitæ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Conpatto">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Conpatto">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tòcco">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tòcco">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Deuvia tòcco pe-o mòddo Tablet">
 
 <!ENTITY getUserMedia.selectCamera.label "Fòtocamera da condividde:">
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
@@ -957,6 +985,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Oua No">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Arvi torna pe agiornâ &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Pagina açioin">
+<!ENTITY pageAction.addToUrlbar.label "Azonzi a-a bara di indirissi">
+<!ENTITY pageAction.removeFromUrlbar.label "Leva da-a bara di indirissi">
 
+<!ENTITY sendToDevice.label2 "Manda a-o dispoxitivo">
+<!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
