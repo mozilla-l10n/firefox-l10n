@@ -11,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Attiva la ricerca globale e l'indicizzazione">
 <!ENTITY enableGlodaSearch.accesskey   "E">
+<!ENTITY dateTimeFormatting.label      "Formattazione data e ora">
 <!ENTITY allowHWAccel.label            "Utilizza l'accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Modalità di salvataggio dei messaggi per i nuovi account:">
@@ -56,12 +57,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Aggiornamenti di &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Versione ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
 <!ENTITY updateAuto.accesskey            "n">
 <!ENTITY updateCheck.label               "Controlla aggiornamenti ma permetti all'utente di scegliere se installarli">
