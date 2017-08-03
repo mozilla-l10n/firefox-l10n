@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fanestras da plirs process">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Process per cuntegn da web">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clav da Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Clav dal servetsch da posiziun da Mozilla">
 
@@ -139,3 +141,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Protocol da decisiuns">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcziunalitads deactivadas da la protecziun cunter collaps">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluziuns">
+
