@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "புகுபதிகை">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "சுயவிவரப் படத்தை மாற்று">
-
-
+<!ENTITY verifiedManage.label        "கணக்கை நிர்வகி">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "துண்டி…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "மின்னஞ்சலை சரிபார்">
