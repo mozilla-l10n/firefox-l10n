@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "రెండర్ రీతి:">
 <!ENTITY  generalSize           "పరిమాణం:">
 <!ENTITY  generalReferrer       "సంప్రదించుచున్న URL:">
-<!ENTITY  generalSource         "క్యాచీ మూలం:">
+<!ENTITY  generalSource         "క్యాషేమూలం:">
 <!ENTITY  generalModified       "సవరించిన:">
 <!ENTITY  generalEncoding2      "పాఠ్యపు ఎన్‌కోడింగు:">
 <!ENTITY  generalMetaName       "పేరు">

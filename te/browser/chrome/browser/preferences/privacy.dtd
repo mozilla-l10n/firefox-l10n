@@ -40,6 +40,7 @@
 
 <!ENTITY  suggestionSettings2.label     "శోధన యత్ర సూచనల అభిరుచులను మార్చండి">
 
+<!ENTITY  acceptCookies2.label          "వెబ్‌సైటుల నుండి కుకీలను ఆమోదించు">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "మూడో-పార్టీ కుకీలను ఆమోదించు:">
