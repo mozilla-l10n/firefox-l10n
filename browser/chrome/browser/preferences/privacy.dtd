@@ -22,7 +22,7 @@
 <!ENTITY trackingProtectionPBM6.label         "Defnyddio Diogelwch rhag Tracio yn Pori Preifat i rwystro tracwyr hysbys">
 <!ENTITY trackingProtectionPBM6.accesskey     "P">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dysgu rhagor">
-<!ENTITY changeBlockList2.label               "Newid y Rhestr Rhwystro">
+<!ENTITY changeBlockList2.label               "Newid y Rhestr Rhwystro…">
 <!ENTITY changeBlockList2.accesskey           "N">
 
 <!ENTITY  doNotTrack.description        "Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio">
