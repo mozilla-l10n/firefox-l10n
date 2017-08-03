@@ -292,7 +292,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Kiloko URL">
 
-
+<!ENTITY pref_pwa_summary "Yee me medo purugram me kakube i wang kio me acaki">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -537,7 +537,7 @@
 <!ENTITY page_removed "Kikwanyo woko pot buk">
 
 <!ENTITY bookmark_edit_title "Yub Alama buk">
-
+<!ENTITY bookmark_edit_folder_title "Yub Boc">
 <!ENTITY bookmark_edit_name "Nying">
 <!ENTITY bookmark_edit_location "Kabedo">
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
@@ -617,6 +617,8 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
+<!ENTITY home_pinned_site "Kakube ma ki mwono">
+<!ENTITY home_unpinned_site "Kakube ma ki waro">
 
 <!ENTITY remote_tabs_panel_moved_title "Dirica matino na gi ocito kwene?">
 <!ENTITY remote_tabs_panel_moved_desc "Wa kobo dirica matino ni ki i nyonyo mukene i dirica ma tye i potbuk me gangi ma kitwero nongo ma yot cawa weng ma iyabo dirica matidi manyen.">
