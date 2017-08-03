@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY accessibility.label             "Agids d'endataziun">
-
 <!ENTITY useCursorNavigation.label       "Permetter da marcar text cun la tastatura">
 <!ENTITY useCursorNavigation.accesskey   "m">
 <!ENTITY searchOnStartTyping.label       "Retschertgar il text cura che ti cumenzas a tippar">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avertir sche websites emprovan da renviar u rechargiar la pagina">
-<!ENTITY blockAutoReload.accesskey       "v">
 <!ENTITY useOnScreenKeyboard.label       "Mussar ina tastatura tactila sche necessari">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -33,24 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Rapports da datas èn deactivads per questa configuraziun da compilaziun">
 
-<!ENTITY healthReportDesc.label          "Gida dad analisar la prestaziun da tes navigatur e cundivida cun &vendorShortName; las datas davart la sanadad da tes navigatur">
-<!ENTITY enableHealthReport.label        "Activar l'analisa da sanadad da &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "n">
+<!ENTITY enableHealthReport1.label       "Permetter a &brandShortName; da trametter automaticamain datas tecnicas e datas d'interacziun a Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
-<!ENTITY telemetryDesc.label             "Cundivida datas davart prestaziun, utilisaziun, hardware e persunalisaziun da tes navigatur cun &vendorShortName; per meglierar &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Cundivider datas supplementaras (p.ex. telemetria)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Ulteriuras infurmaziuns ">
 
-<!ENTITY crashReporterDesc2.label         "Annunzias da collaps gidan a &vendorShortName; da schliar problems e render tes navigatur pli stabel e segir">
-<!ENTITY alwaysSubmitCrashReports.label   "Permetter a &brandShortName; da trametter rapports da collaps anc betg tramess">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Ulteriuras infurmaziuns ">
+<!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns ">
 
 <!ENTITY networkTab.label                "Rait">
 
-<!ENTITY connection.label                "Connexiun">
 
 <!ENTITY connectionDesc.label            "Definir la moda da connexiun da &brandShortName; cun l'internet">
 <!ENTITY connectionSettings.label        "Parameters…">
@@ -100,8 +87,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Versiun ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permetter a &brandShortName; da">
-<!ENTITY updateAuto2.label               "Installar automaticamain las actualisaziuns (recumandà per motivs da segirezza)">
-<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Tschertgar actualisaziuns ma ta laschar tscherner cura installar">
 <!ENTITY updateCheckChoose2.accesskey    "T">
 <!ENTITY updateManual2.label             "Mai tschertgar actualisaziuns (betg recumandà)">
@@ -115,8 +100,6 @@ available. -->
 
 <!ENTITY enableSearchUpdate2.label       "Actualisar automaticamain maschinas da tschertgar">
 <!ENTITY enableSearchUpdate2.accesskey   "t">
-
-<!ENTITY reports.label                   "Rapports">
 
 <!ENTITY offlineStorageNotify.label               "Dumandar en cas che websites vulan memorisar datas per l'utilisaziun offline">
 <!ENTITY offlineStorageNotify.accesskey           "D">
@@ -137,10 +120,6 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Laschar confermar la validitad da certificats entras dumandar servers da OCSP">
 <!ENTITY enableOCSP.accesskey            "c">
-<!ENTITY viewCerts.label                 "Mussar ils certificats">
-<!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Moduls da criptadi">
-<!ENTITY viewSecurityDevices.accesskey   "M">
 
 <!ENTITY performance.label               "Prestaziun">
 <!ENTITY useRecommendedPerformanceSettings2.label

@@ -15,14 +15,17 @@
 
 <!ENTITY  paneSearchResults.title       "Resultats da tschertga">
 <!ENTITY  paneGeneral.title             "General">
+<!ENTITY  paneSearch.title              "Tschertgar">
 <!ENTITY  paneFilesApplications.title   "Datotecas &amp; applicaziuns">
 <!ENTITY  panePrivacySecurity.title     "Sfera privata &amp; segirezza">
 <!ENTITY  paneContainers.title          "Tabs da container">
 <!ENTITY  paneUpdates.title             "Actualisaziuns">
 
+<!ENTITY  languageAndAppearance.label   "Lingua ed apparientscha">
+<!ENTITY  filesAndApplications.label    "Datotecas ed applicaziuns">
+<!ENTITY  browserPrivacy.label          "Protecziun da datas">
+
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Conto da Firefox">
 
 <!ENTITY  helpButton2.label        "Agid da &brandShortName;">
-
-<!ENTITY  searchInput.label        "Tschertgar">
