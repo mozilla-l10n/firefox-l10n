@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Wrth gychwyn, gwirio ai &brandShortName; yw eich porwr ragosodedig">
 <!ENTITY alwaysCheckDefault2.accesskey    "W">
-<!ENTITY setAsMyDefaultBrowser3.label     "Gwneud yn Ragosodedig">
+<!ENTITY setAsMyDefaultBrowser3.label     "Gwneud yn Ragosodedig…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "R">
 <!ENTITY isDefault.label                  "&brandShortName; yw eich porwr rhagosodedig cyfredol">
 <!ENTITY isNotDefault.label               "&brandShortName; yw eich porwr rhagosodedig cyfredol">
