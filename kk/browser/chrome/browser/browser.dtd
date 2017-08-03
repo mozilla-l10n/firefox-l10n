@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; жаңарту үшін қайта іске қосу">
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
+<!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
+<!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
 
-
-
+<!ENTITY sendToDevice.label2 "Құрылғыға жіберу">
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">

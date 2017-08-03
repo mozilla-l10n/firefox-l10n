@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "р">
 
 <!ENTITY noTranslationForSites.label      "Аударма келесі сайттар үшін ұсынылмайды:">
-
+<!ENTITY treehead.siteName2.label         "Вебсайттар">
 <!ENTITY removeSite.label                 "Сайтты өшіру">
 <!ENTITY removeSite.accesskey             "С">
 <!ENTITY removeAllSites.label             "Барлық сайттарды өшіру">
