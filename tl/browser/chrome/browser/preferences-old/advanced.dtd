@@ -100,9 +100,11 @@ available. -->
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Awtomatikong Update">
 <!ENTITY enableSearchUpdate.label        "Mga Search Engine">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "Mag-paalam kung ang website ay mag-save ng data para sa offline na paggamit">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Mga exception...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
@@ -136,5 +138,13 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Karagdagan na kaalaman">
+<!ENTITY limitContentProcessOption.label "Nasa limit na ang pagproseso ng content">
+<!ENTITY limitContentProcessOption.description
+                                         "Ang mga karagdagan na proceso para sa nilalaman ay maaring makatulong sa performance kung gumagamit ng maramihan na tab, pero gagamit din ito ng karagdagan na memory.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Ang pag modipika ng numero ng content processes ay posible lamang sa multiprocess &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Alamin kung paano mag-check kung ang multiprocess ay na enable">
+<!ENTITY allowHWAccel.label              "Gumamit ng hardware acceleration kung ma-aari">
 <!ENTITY allowHWAccel.accesskey          "r">
