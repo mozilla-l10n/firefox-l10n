@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Хабарламалар">
 <!ENTITY  notificationsPolicyLearnMore.label   "Көбірек білу">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Қай вебсайттарға сізге хабарламаларды жіберу рұқсат етілгенді таңдау">
 <!ENTITY  notificationsPolicyButton.accesskey  "у">
 <!ENTITY  notificationsPolicyButton.label      "Таңдау…">
 <!ENTITY  notificationsDoNotDisturb.label      "Мазамды алмаңыз">
