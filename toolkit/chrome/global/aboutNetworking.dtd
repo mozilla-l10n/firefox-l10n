@@ -46,3 +46,7 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Dumber da victorias dal cache">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Dumber da victorias da la rait">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Dumber total da dumondas a la rait">
+<!ENTITY aboutNetworking.rcwnOperation         "Operaziun dal cache">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Avrir">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Leger">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Scriver">

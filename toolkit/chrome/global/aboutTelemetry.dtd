@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datas da telemetria">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Midar
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  La transmissiun da datas per il FHR è <span>activada</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  La transmissiun da datas per il FHR è <span>deactivada</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  La registraziun extendida da telemetria è <span>activada</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  La registraziun extendida da telemetria è <span>deactivada</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Funtauna da datas da ping:
 ">
@@ -34,14 +14,6 @@ Datas da ping actualas
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Datas da ping archivadas
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Visualisaziun da datas da ping:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Structurà
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,14 +36,28 @@ Tscherner il ping:
 Ping pli vegl &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "Datas da ping betg elavuradas ...">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Emna
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Tip da ping
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Oz
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ier
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Pli vegl
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -138,18 +124,6 @@ Ping
   Infurmaziuns davart la sessiun
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Istograms rimnads da supplements
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Cliccar per expander/reducir la secziun
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Naginas datas rimnadas)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart. Quels na vegnan dentant betg tramess a Telemetry.
 ">
@@ -168,8 +142,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Cuntegn
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Cuntegn betg elavurà
 ">

@@ -986,8 +986,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Acziuns da pagina">
 
-<!ENTITY sendToDevice.label "Trametter ad in apparat…">
-<!ENTITY sendToDevice.viewTitle "Trametter ad in apparat">
-<!ENTITY sendToDevice.fxaRequired.label "Obligatoric">
-<!ENTITY sendToDevice.noDevices.label "Nagins apparats disponibels">
+<!ENTITY sendToDevice.label2 "Trametter ad in apparat">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">

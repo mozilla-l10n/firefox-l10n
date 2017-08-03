@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Segirezza">
+<!ENTITY  phishingProtection.label       "Protecziun encunter phishing">
 
-<!ENTITY  warnOnAddonInstall.label        "Avertir, sche websites emprovan d'installar supplements">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +25,6 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulars &amp; pleds-clav">
 
-<!ENTITY  rememberLogins1.label          "Memorisar infurmaziuns d'annunzia e pleds-clav per websites">
-<!ENTITY  rememberLogins1.accesskey      "M">
 <!ENTITY  passwordExceptions.label      "Excepziuns…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
