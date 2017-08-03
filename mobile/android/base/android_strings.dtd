@@ -544,7 +544,7 @@
 <!ENTITY page_removed "Oldal eltávolítva">
 
 <!ENTITY bookmark_edit_title "Könyvjelző szerkesztése">
-
+<!ENTITY bookmark_edit_folder_title "Mappa szerkesztése">
 <!ENTITY bookmark_edit_name "Név">
 <!ENTITY bookmark_edit_location "Hely">
 <!ENTITY bookmark_edit_keyword "Kulcsszó">
@@ -624,6 +624,8 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
+<!ENTITY home_pinned_site "Oldal rögzítve">
+<!ENTITY home_unpinned_site "Rögzítés feloldva">
 
 <!ENTITY remote_tabs_panel_moved_title "Hová tűntek a lapok?">
 <!ENTITY remote_tabs_panel_moved_desc "A más készülékekről származó lapokat a kezdőlap egy paneljére mozgattuk, amely új lap megnyitásakor mindig egyszerűen elérhető.">
