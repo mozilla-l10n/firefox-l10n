@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "General">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Avisa quan els llocs web intentin instal·lar complements">
+<!ENTITY  warnOnAddonInstall2.accesskey   "i">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -25,7 +26,8 @@
 
 <!ENTITY  logins.label                  "Inicis de sessió">
 
-
+<!ENTITY  rememberLogins2.label         "Recorda les dades d'inici de sessió dels llocs web">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
