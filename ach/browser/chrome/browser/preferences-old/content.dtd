@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Jami angeya">
 <!ENTITY  notificationsPolicyLearnMore.label   "Nong ngec mapol">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Yer kakube mene ma ki yee gi me cwalo jami angeya boti">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Yer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Pe i yel an">

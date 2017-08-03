@@ -122,8 +122,8 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Yeny lapok tic ma miyo lagam pa OCSP me moko kare me tic ma kombedi pa waraga">
 <!ENTITY enableOCSP.accesskey            "Y">
-
-
+<!ENTITY viewCerts2.label                "Nen Catibiket…">
+<!ENTITY viewCerts2.accesskey            "C">
 
 
 

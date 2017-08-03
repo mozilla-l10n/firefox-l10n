@@ -8,8 +8,8 @@
 <!ENTITY treehead.status.label        "Kit ma tye kwede">
 
 
-
-
+<!ENTITY removeallpermissions2.label  "Kwany kakube weng">
+<!ENTITY removeallpermissions2.accesskey "w">
 <!ENTITY address.label                "Kanonge pa kakube:">
 <!ENTITY address.accesskey            "a">
 <!ENTITY block.label                  "Geng">

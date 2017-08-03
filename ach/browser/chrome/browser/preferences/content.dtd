@@ -6,7 +6,7 @@
 <!ENTITY  blockPopups.accesskey       "G">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Nong ngec mapol">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Yer kakube mene ma ki yee gi me cwalo jami angeya boti">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Yer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Pe i yel an">
@@ -29,6 +29,8 @@
 <!ENTITY  colors.label                "Rangi…">
 <!ENTITY  colors.accesskey            "R">
 
+
+<!ENTITY language2.label              "Leb">
 <!ENTITY chooseLanguage.label         "Yer leb ma imito pi yaro pot buk">
 <!ENTITY chooseButton.label           "Yer…">
 <!ENTITY chooseButton.accesskey       "e">
