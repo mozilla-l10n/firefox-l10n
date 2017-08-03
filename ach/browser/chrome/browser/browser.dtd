@@ -848,7 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Dwok i makwongo">
 <!ENTITY customizeMode.done "Otum">
 <!ENTITY customizeMode.titlebar "Gintic me wiye">
-
+<!ENTITY customizeMode.toolbars2 "Gitic">
 <!ENTITY customizeMode.lwthemes "Theme">
 <!ENTITY customizeMode.lwthemes.myThemes "Theme mamega">
 <!ENTITY customizeMode.lwthemes.recommended "Kicwako">
