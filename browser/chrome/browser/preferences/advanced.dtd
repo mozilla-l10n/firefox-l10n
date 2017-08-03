@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Més informació">
 
 <!ENTITY dataCollection.label            "Ús i recollida de dades i del &brandShortName;">
-
+<!ENTITY dataCollectionDesc.label        "Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar el &brandShortName; per a tothom i i millorar-lo. Sempre demanem permís abans de rebre informació personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Avís de privadesa">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permet que el &brandShortName; enviï informes de fallada a Mozilla">
@@ -90,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Manteniu el &brandShortName; actualitzat per obtenir el millor rendiment, estabilitat i seguretat.">
 <!ENTITY updateApplication.version.pre   "Versió ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Actualitzacions del &brandShortName;">
-
-
+<!ENTITY updateAuto3.label               "Instal·la les actualitzacions automàticament (recomanat)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Cerca actualitzacions, però demana'm si vull instal·lar-les">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No cerquis mai actualitzacions (no recomanat)">

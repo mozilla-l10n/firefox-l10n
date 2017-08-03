@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Propietari:">
 <!ENTITY  securityView.identity.domain   "Lloc web: ">
 <!ENTITY  securityView.identity.verifier "Verificat per: ">
-
+<!ENTITY  securityView.identity.validity "Data de venciment:">
 
 <!ENTITY  securityView.privacy.header                   "Privadesa i historial">
 <!ENTITY  securityView.privacy.history                  "He visitat aquest lloc web abans d'avui?">

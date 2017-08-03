@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "l">
 
 <!ENTITY noTranslationForSites.label      "No s'oferirà traducció per als llocs següents:">
-
+<!ENTITY treehead.siteName2.label         "Llocs web">
 <!ENTITY removeSite.label                 "Elimina el lloc">
 <!ENTITY removeSite.accesskey             "l">
 <!ENTITY removeAllSites.label             "Elimina tots els llocs">
