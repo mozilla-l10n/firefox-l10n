@@ -82,7 +82,7 @@
 <!ENTITY col.mostrecentvisit.label "เยี่ยมชมล่าสุด">
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
 <!ENTITY col.description.label   "คำอธิบาย">
-<!ENTITY col.dateadded.label     "เพิ่มเมื่อ">
+<!ENTITY col.dateadded.label     "วันที่เพิ่ม">
 <!ENTITY col.lastmodified.label  "เปลี่ยนแปลงล่าสุด">
 
 <!ENTITY search.placeholder  "ค้นหา">
