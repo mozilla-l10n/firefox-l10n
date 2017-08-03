@@ -47,7 +47,7 @@ available. -->
 <!ENTITY connectionSettings.label        "అమరికలు…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "క్యాచీ చేసిన వెబ్ విషయం">
+<!ENTITY httpCache.label                 "క్యాషేచేసిన వెబ్ విషయం">
 
 <!ENTITY offlineStorage2.label           "ఆఫ్‌లైన్ వెబ్ విషయం మరియు వాడుకరి దత్తాంశం">
 
@@ -72,7 +72,7 @@ available. -->
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "ఇప్పుడు శుభ్రంచేయి">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయి">
+<!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాషె నిర్వహణను వోవర్‌రైడ్ చేయి">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "నవీకరణ">

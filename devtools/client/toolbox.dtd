@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "బ్రౌజర్ టూల్ బార్ ప్రారంభించడంలో లోపం:">
+<!ENTITY browserToolboxErrorMessage          "విహారిణి టూల్ బార్ ప్రారంభించడంలో లోపం:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -73,20 +73,14 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "బ్రౌజర్ క్రోమ్ ను ప్రారంభించు మరియు యాడ్ ఆన్ టూల్ బాక్సులను డీబగ్గింగ్ చేయండి">
-<!ENTITY options.enableChrome.tooltip3  "ఈ ఎంపికను ఆన్ చెయ్యడానికి మీరు ఆడ్-ఆన్స్ మేనేజర్ నుండి మరియు డీబగ్ అనుబంధాలను (ఉపకరణాలు> వెబ్ డెవలపర్> బ్రౌజర్ టూల్ ద్వారా) బ్రౌజర్ సందర్భంలో వివిధ డెవలపర్ టూల్స్ ఉపయోగించడానికి అనుమతిస్తుంది">
+<!ENTITY options.enableChrome.label5    "విహారిణి క్రోమ్ ను ప్రారంభించు మరియు పొడిగింత టూల్ బాక్సులను డీబగ్గింగ్ చేయండి">
+<!ENTITY options.enableChrome.tooltip3  "ఈ ఎంపికను ఆన్ చెయ్యడానికి మీరు పొడిగింతలు మేనేజర్ నుండి మరియు డీబగ్ అనుబంధాలను (ఉపకరణాలు> వెబ్ డెవలపర్> విహారిణి టూల్ ద్వారా) విహారిణి సందర్భంలో వివిధ డెవలపర్ టూల్స్ ఉపయోగించడానికి అనుమతిస్తుంది">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "రిమోట్ డీబగ్గింగ్ చేతనంచేయి">
 <!ENTITY options.enableRemote.tooltip2  "ఈ ఎంపిక ఆన్ చేయుట వలన రిమోట్ Firefox పై OS వలె అభివృద్దికారి సాధనాలు డీబగ్ చేయుటకు అనుమతించును">
-
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "వర్కర్ డీబగ్గింగ్ (అభివృద్ధిలో) ప్రారంభించు">
-<!ENTITY options.enableWorkers.tooltip  "ఈ ఎంపికను ఆన్ చేయడం వల్ల డీబగ్ కార్మికులకు డెవలపర్ ఉపకరణాలు అనుమతిస్తుంది">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -134,8 +128,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "డెవలపర్ ఎడిషన్ బ్రౌజర్ థీమ్ ఉపయోగించండి">
-<!ENTITY options.usedeveditiontheme.tooltip "డెవలపర్ ఎడిషన్ బ్రౌజర్ థీమ్ మార్చండి.">
+<!ENTITY options.usedeveditiontheme.label   "డెవలపర్ ఎడిషన్ విహారిణి థీమ్ ఉపయోగించండి">
+<!ENTITY options.usedeveditiontheme.tooltip "డెవలపర్ ఎడిషన్ విహారిణి థీమ్ మార్చండి.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

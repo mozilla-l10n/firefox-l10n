@@ -43,6 +43,7 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN గణాంకాలు">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN స్థితి">
+<!ENTITY aboutNetworking.rcwnOperation         "క్యాషేఆపరేషన్">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "తెరువు">
 <!ENTITY aboutNetworking.rcwnPerfRead          "చదువు">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "రాయి">

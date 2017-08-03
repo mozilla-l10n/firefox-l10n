@@ -1,21 +1,16 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
 <!ENTITY window.title "వెబ్ కన్సోల్">
-<!ENTITY browserConsole.title "విహారిణి కన్సోల్">
-
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY openURL.label     "URL కొత్త ట్యాబులో తెరువు">
 <!ENTITY openURL.accesskey "T">
-
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -72,7 +67,7 @@
 <!ENTITY btnConsoleServiceWorkers "సర్వీస్ వర్కర్స్">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "యాడ్ ఆన్ లేదా క్రోం వర్కర్స్">
+<!ENTITY btnConsoleWindowlessWorkers "పొడిగింత లేదా Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "వడపోత అవుట్పుట్">
 <!ENTITY btnClear.label        "శుభ్రం">

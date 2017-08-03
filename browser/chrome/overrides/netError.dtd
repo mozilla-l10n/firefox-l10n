@@ -59,7 +59,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "పత్రం కాలం చెల్లింది">
-<!ENTITY notCached.longDesc "<p>అభ్యర్ధించిన పత్రం &brandShortName; క్యాషేలో లేదు.</p><ul><li> భద్రతాపరమైన ముందు జాగ్రత్తగా, &brandShortName; సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైటు నుండి పత్రాన్ని తిరిగి-అభ్యర్ధించడానికి మళ్ళీ ప్రయత్నించు నొక్కండి.</li></ul>">
+<!ENTITY notCached.longDesc "<p>అభ్యర్ధించిన పత్రం &brandShortName; క్యాషె లో లేదు.</p><ul><li> భద్రతాపరమైన ముందు జాగ్రత్తగా, &brandShortName; సున్నితమైన పత్రాలను స్వయంచాలకంగా తిరిగి-అభ్యర్ధించదు.</li><li>వెబ్‌సైటు నుండి పత్రాన్ని తిరిగి-అభ్యర్ధించడానికి మళ్ళీ ప్రయత్నించు నొక్కండి.</li></ul>">
 
 <!ENTITY netOffline.title "ఆఫ్‌లైన్ రీతి">
 <!ENTITY netOffline.longDesc2 "

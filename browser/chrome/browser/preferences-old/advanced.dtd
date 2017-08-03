@@ -32,17 +32,17 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportDesc.label          "మీ బ్రౌజర్ పనితనం అర్ధంచేసుకొనుటకు మీకు సహాయంచేయును మరియు మీ బ్రౌజర్ ఆరోగ్యమును గురించి &vendorShortName; తో దత్తాంశం పంచుకొనును.">
+<!ENTITY healthReportDesc.label          "మీ విహారిణి పనితనం అర్ధంచేసుకొనుటకు మీకు సహాయంచేయును మరియు మీ విహారిణి ఆరోగ్యమును గురించి &vendorShortName; తో దత్తాంశం పంచుకొనును.">
 <!ENTITY enableHealthReport.label        "&brandShortName; ఆరోగ్య నివేదిక చేతనంచేయి">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "ఇంకా తెలుసుకోండి">
 
-<!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ బ్రౌజర్ పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం &vendorShortName; తో పంచుకొనును">
+<!ENTITY telemetryDesc.label             "&brandShortName; ను మెరుగుగా చేయుటలో మాకు దోహదపడుటకు, మీ విహారిణి పనితనం, వినియోగం, హార్డువేరు మరియు తగురీతిన మలచిన వాటి గురించిన దత్తాంశం &vendorShortName; తో పంచుకొనును">
 <!ENTITY enableTelemetryData.label       "అదనపు డేటాను (అంటే, టెలిమెట్రీ) పంచుకోండి">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ఇంకా తెలుసుకోండి">
 
-<!ENTITY crashReporterDesc2.label         "క్రాష్ నివేదికల &vendorShortName; సమస్యలు పరిష్కరించడానికి మరియు మీ బ్రౌజర్ ని మరింత స్థిరంగా మరియు భద్రంగా ఉంచడానికి సహాయపడుతుంది">
+<!ENTITY crashReporterDesc2.label         "క్రాష్ నివేదికల &vendorShortName; సమస్యలు పరిష్కరించడానికి మరియు మీ విహారిణి ని మరింత స్థిరంగా మరియు భద్రంగా ఉంచడానికి సహాయపడుతుంది">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; మీ తరపున క్రాష్ నివేదికలను పంపడానికి అనుమతించండి">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "ఇంకా తెలుసుకోండి">
@@ -55,7 +55,7 @@ available. -->
 <!ENTITY connectionSettings.label        "అమరికలు…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "క్యాచీ చేసిన వెబ్ విషయం">
+<!ENTITY httpCache.label                 "క్యాషేచేసిన వెబ్ విషయం">
 
 <!ENTITY offlineStorage2.label           "ఆఫ్‌లైన్ వెబ్ విషయం మరియు వాడుకరి దత్తాంశం">
 
@@ -80,7 +80,7 @@ available. -->
 <!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "ఇప్పుడు శుభ్రంచేయి">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాచీ నిర్వహణను వోవర్‌రైడ్ చేయి">
+<!ENTITY overrideSmartCacheSize.label    "స్వయంచాలక క్యాషె నిర్వహణను వోవర్‌రైడ్ చేయి">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "నవీకరణ">

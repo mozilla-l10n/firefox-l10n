@@ -41,9 +41,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "వాటర్‌ఫాల్">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "బ్రౌజర్ రికార్డింగ్ సమయంలో నటిస్తున్నది వివిధ కార్యకలాపాల్లో చూపిస్తుంది, ఒక జలపాతం క్రమానుసారంగా వేసాడు.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "విహారిణి రికార్డింగ్ సమయంలో నటిస్తున్నది వివిధ కార్యకలాపాల్లో చూపిస్తుంది, ఒక జలపాతం క్రమానుసారంగా వేసాడు.">
 <!ENTITY performanceUI.toolbar.js-calltree "కాల్ ట్రీ">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "బ్రౌజర్ రికార్డింగ్ సమయంలో చాలా సమయం గడిపడాన్ని JavaScript ఫంక్షన్ లు హైలైట్ చేస్తాయి.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "విహారిణి రికార్డింగ్ సమయంలో చాలా సమయం గడిపడాన్ని JavaScript ఫంక్షన్ లు హైలైట్ చేస్తాయి.">
 <!ENTITY performanceUI.toolbar.memory-calltree "కేటాయింపులు">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "మెమరీ రికార్డింగ్ సమయంలో కేటాయించారో పేరు చూపిస్తుంది.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ఫ్లేమ్ చార్ట్">
