@@ -953,3 +953,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "应用图标选项…">
 <!ENTITY writeNewMessageDock.label      "撰写新邮件">
+<!ENTITY openAddressBookDock.label      "打开通讯录">
