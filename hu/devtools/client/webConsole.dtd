@@ -67,7 +67,7 @@
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleWindowlessWorkers "Kiegészítő vagy chrome Workers">
+<!ENTITY btnConsoleWindowlessWorkers "Kiegészítő vagy chrome workerek">
 
 <!ENTITY filterOutput.placeholder "Kimenet szűrése">
 <!ENTITY btnClear.label        "Törlés">
