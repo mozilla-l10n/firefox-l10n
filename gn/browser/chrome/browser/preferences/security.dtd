@@ -5,7 +5,8 @@
 <!ENTITY  security.label                 "Tekorosã">
 <!ENTITY  phishingProtection.label       "Ñemo'ã phishing rovak">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Ehechakuaa oĩ jave tenda omohendaséva moĩmbaha.">
+<!ENTITY  warnOnAddonInstall2.accesskey   "E">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Ysaja ha ñe'ẽnemi">
 
-
+<!ENTITY  rememberLogins2.label         "Nemandu'áke tembiapo ñepyrũ ha ñe'ẽnemi ñanduti rendaguáva">
+<!ENTITY  rememberLogins2.accesskey     "N">
 <!ENTITY  passwordExceptions.label      "Oĩ'ỹva">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

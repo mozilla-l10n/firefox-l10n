@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
+<!ENTITY pageAction.addToUrlbar.label "Embojuaju kundaharape rendáre ">
+<!ENTITY pageAction.removeFromUrlbar.label "Emboguete kundaharape rendágui">
 
-
-
+<!ENTITY sendToDevice.label2 "Emondo mba'e'okápe">
 <!ENTITY sendToDevice.syncNotReady.label "Mba'e'oka ñembojuehe…">
