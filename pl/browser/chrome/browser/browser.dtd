@@ -203,6 +203,7 @@
 <!ENTITY bookmarksMenuButton.mobile.label "Zakładki z urządzeń przenośnych">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
+<!ENTITY searchBookmarks.label "Szukaj w zakładkach">
 
 <!ENTITY containersMenu.label "Konteksty">
 
