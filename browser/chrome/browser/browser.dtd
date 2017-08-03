@@ -408,7 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "从折叠菜单中移出">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "从工具栏移除">
+<!ENTITY customizeMenu.removeFromToolbar.label "从工具栏中移除">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "从菜单中移除">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">

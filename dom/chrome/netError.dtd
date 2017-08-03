@@ -71,8 +71,8 @@
 
 <!ENTITY nssBadCert.title "安全连接失败">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>这可能是服务器配置的问题，或者有人尝试冒充该服务器所致。</li> 
-<li>如果您之前曾成功连接该服务器，那么此错误可能是暂时的，您可以稍后再试。</li> 
+<li>这可能是服务器配置的问题，也可能是有人尝试冒充该服务器所致。</li> 
+<li>如果您以前曾与该服务器正常连接，那么此错误可能是暂时的，您可以稍后再试。</li> 
 </ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
