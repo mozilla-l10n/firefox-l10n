@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "在退出时清除隐私数据">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 将在您每次从主菜单中选择“退出”时自动清除您的数据">
 <!ENTITY pref_clear_on_exit_dialog_title "选择要清除的数据">
-<!ENTITY pref_plugins "插件">
-<!ENTITY pref_plugins_enabled "启用">
-<!ENTITY pref_plugins_tap_to_play2 "轻触此处即可播放">
-<!ENTITY pref_plugins_disabled "禁用">
 <!ENTITY pref_restore_tabs "恢复标签页">
 <!ENTITY pref_restore_always "总是恢复">
 <!ENTITY pref_restore_quit "曾明确退出 &brandShortName; 则不要恢复">
@@ -483,7 +479,7 @@
 <!ENTITY tabs_private "隐私">
 <!ENTITY set_image_fail "无法设置图像">
 <!ENTITY set_image_path_fail "无法保存图像">
-<!ENTITY set_image_chooser_title "另存为图像">
+<!ENTITY set_image_chooser_title "将图像设为">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -808,7 +804,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox 帮助和支持 - 在 Android 平板电脑上受限制的配置文件">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "了解 Web：Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "学习 Web：Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
