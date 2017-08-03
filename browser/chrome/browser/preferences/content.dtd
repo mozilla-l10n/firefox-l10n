@@ -6,9 +6,7 @@
 <!ENTITY  blockPopups.label           "Bloccar fanestras pop-up">
 <!ENTITY  blockPopups.accesskey       "p">
 
-<!ENTITY  notificationsPolicy.label            "Communicaziuns">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ulteriuras infurmaziuns">
-<!ENTITY  notificationsPolicyDesc3.label       "Tscherna las paginas che ta dastgan trametter communicaziuns">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Tscherner…">
 <!ENTITY  notificationsDoNotDisturb.label      "Betg disturbar">
@@ -32,7 +30,7 @@
 <!ENTITY  colors.accesskey            "C">
 
 
-<!ENTITY languages.label              "Linguas">
+<!ENTITY language2.label              "Lingua">
 <!ENTITY chooseLanguage.label         "Tscherna tia lingua preferida per la visualisaziun da websites">
 <!ENTITY chooseButton.label           "Tscherner…">
 <!ENTITY chooseButton.accesskey       "T">
@@ -52,8 +50,5 @@
 <!ENTITY translation.options.attribution.beforeLogo "Translaziuns da">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Cuntegn da DRM">
 
-<!ENTITY  playDRMContent.label         "Far ir cuntegn da DRM">
-<!ENTITY  playDRMContent.accesskey     "i">
 <!ENTITY  playDRMContent.learnMore.label "Ulteriuras infurmaziuns">
