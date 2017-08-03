@@ -137,3 +137,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Qərar qeydi">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Çökmə qoruyucusu tərəfindən söndürülən özəlliklər">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Həllər">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Çıxış cihazları">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Giriş cihazları">
+<!ENTITY aboutSupport.mediaDeviceName "Ad">
+<!ENTITY aboutSupport.mediaDeviceGroup "Qrup">
+<!ENTITY aboutSupport.mediaDeviceVendor "Təminatçı">
+<!ENTITY aboutSupport.mediaDeviceState "Vəziyyəti">
+<!ENTITY aboutSupport.mediaDevicePreferred "Üstün tutulan">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanallar">
+<!ENTITY aboutSupport.mediaDeviceRate "Tempi">
+<!ENTITY aboutSupport.mediaDeviceLatency "Ləngimə">

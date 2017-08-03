@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Bilinən izləyiciləri bloklamaq üçün Məxfi Səyahətdə İzlənmə Qorumasını işlədin">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ətraflı öyrən">
-<!ENTITY changeBlockList.label          "Qara Siyahını Dəyiş">
-<!ENTITY changeBlockList.accesskey      "D">
+<!ENTITY changeBlockList2.label               "Qara Siyahını Dəyiş…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        'Saytlara "Məni İzləmə" siqnalı göndərərək izlənmək istəmədiyinizi bildirin'>
 <!ENTITY  doNotTrack.learnMore.label    "Ətraflı öyrən">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Ünvan Sətri">
 <!ENTITY  addressBar.suggest.label      "Ünvan sətrindən istifadə edərkən bunları təklif et:">
-<!ENTITY  locbar.history.label          "Tarixçə">
-<!ENTITY  locbar.history.accesskey      "T">
+<!ENTITY  locbar.history2.label         "Səyahət tarixçəsi">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Əlfəcinlər">
 <!ENTITY  locbar.bookmarks.accesskey    "l">
 <!ENTITY  locbar.openpage.label         "Açıq vərəqlər">
@@ -46,8 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş">
 
-<!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
-<!ENTITY  acceptCookies.accesskey       "e">
+<!ENTITY  acceptCookies2.label          "Saytlardan çərəzləri qəbul et">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "l">

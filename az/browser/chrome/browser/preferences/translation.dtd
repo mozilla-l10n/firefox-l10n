@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "B">
 
 <!ENTITY noTranslationForSites.label      "Tərcümə aşağıdakı saytlar üçün təklif olunmayacaq:">
-<!ENTITY treehead.siteName.label          "Saytlar">
+<!ENTITY treehead.siteName2.label         "Saytlar">
 <!ENTITY removeSite.label                 "Saytı Sil">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Bütün Saytları Sil">

@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Sahibi:">
 <!ENTITY  securityView.identity.domain   "Web sayt:">
 <!ENTITY  securityView.identity.verifier "Təsdiqləyən:">
+<!ENTITY  securityView.identity.validity "Vaxtı çıxma:">
 
 <!ENTITY  securityView.privacy.header                   "Məxfilik və Tarixçə">
 <!ENTITY  securityView.privacy.history                  "Bu saytı daha əvvəl açmışam?">
