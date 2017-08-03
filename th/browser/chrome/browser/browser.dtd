@@ -38,7 +38,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ปักหมุดแท็บ">
 <!ENTITY  pinTab.accesskey                   "ห">
-<!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
+<!ENTITY  unpinTab.label                     "ถอนหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "ถ">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
 <!ENTITY  sendTabToDevice.accesskey          "อ">
@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "ย">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ปักหมุดไปยังเมนูล้น">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "ป">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ถอดหมุดจากเมนูล้น">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ถอนหมุดจากเมนูล้น">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ถ">
 <!ENTITY customizeMenu.removeFromToolbar.label "เอาออกจากแถบเครื่องมือ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "อ">
