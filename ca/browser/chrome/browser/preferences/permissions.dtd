@@ -8,8 +8,8 @@
 <!ENTITY treehead.status.label        "Estat">
 
 
-
-
+<!ENTITY removeallpermissions2.label  "Suprimeix tots els llocs web">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Adreça del lloc web:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloca">

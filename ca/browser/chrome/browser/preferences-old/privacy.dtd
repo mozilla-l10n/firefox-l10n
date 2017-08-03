@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Canvia les preferències dels suggeriments de motors de cerca…">
 <!ENTITY  suggestionSettings.accesskey  "v">
 
-
+<!ENTITY  acceptCookies2.label          "Accepta galetes dels llocs web">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepta galetes de tercers:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
