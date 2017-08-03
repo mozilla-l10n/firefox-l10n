@@ -333,6 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "ป">
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
