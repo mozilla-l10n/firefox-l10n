@@ -211,10 +211,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Activados">
-<!ENTITY pref_plugins_tap_to_play2 "Tocar para reproducir">
-<!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar tras salir de &brandShortName;">
@@ -343,6 +339,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Organizar pestañas en dos columnas en la orientación vertical">
 <!ENTITY page_removed "Página eliminada">
 <!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_folder_title "Editar carpeta">
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
@@ -386,6 +383,8 @@
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivos ocultos">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos seleccionados">
+<!ENTITY home_pinned_site "Sitio fijado">
+<!ENTITY home_unpinned_site "Eliminar sitio fijado">
 <!ENTITY remote_tabs_panel_moved_title "¿Dónde han ido mis pestañas?">
 <!ENTITY remote_tabs_panel_moved_desc "Hemos movido sus pestañas de otros dispositivos a un panel en su página de inicio al que se puede acceder fácilmente cada vez que abra una pestaña nueva.">
 <!ENTITY remote_tabs_panel_moved_link "Llevarme a mi nuevo panel.">

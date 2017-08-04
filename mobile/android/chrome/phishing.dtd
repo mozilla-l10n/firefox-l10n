@@ -5,6 +5,7 @@
 <!ENTITY safeb.palm.accept.label "¡Sácame de aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué ha sido bloqueada esta página?">
+<!ENTITY safeb.palm.advisory.desc "Consejo proporcionado por <a id='advisory_provider' /> ">
 <!ENTITY safeb.blocked.malwarePage.title "¡Este sitio es una web atacante!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio web en <span id='malware_sitename'/> ha sido identificado como una web atacante y ha sido bloqueado basándose en sus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Los sitios atacantes intentan instalar programas que pueden robar información privada, usar su equipo para atacar otros o dañar su sistema.</p><p>Algunos sitios atacantes distribuyen intencionalmente software dañino, pero muchos son comprometidos sin el conocimiento o permiso de sus propietarios.</p>">
