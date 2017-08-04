@@ -114,10 +114,10 @@
 <!ENTITY cmd.contribute.accesskey             "П">
 <!ENTITY cmd.contribute.tooltip               "Посприяти розвитку цього додатку">
 
-<!ENTITY cmd.showReleaseNotes.label           "Показати примітки до випуску">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Показати примітки до випуску цього оновлення">
-<!ENTITY cmd.hideReleaseNotes.label           "Сховати примітки до випуску">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати примітки до випуску цього оновлення">
+<!ENTITY cmd.showReleaseNotes.label           "Показати інформацію про випуск">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Показати інформацію про випуск цього оновлення">
+<!ENTITY cmd.hideReleaseNotes.label           "Сховати інформацію про випуск">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати інформацію про випуск цього оновлення">
 <!ENTITY cmd.findReplacement.label            "Знайти заміну">
 
 <!-- discovery view -->
@@ -214,9 +214,9 @@
 <!ENTITY addon.includeUpdate.label            "Включити в оновлення">
 <!ENTITY addon.updateAvailable.label          "Доступне оновлення">
 <!ENTITY addon.checkingForUpdates.label       "Пошук оновлень…">
-<!ENTITY addon.releaseNotes.label             "Примітки до випуску:">
+<!ENTITY addon.releaseNotes.label             "Інформація про випуск:">
 <!ENTITY addon.loadingReleaseNotes.label      "Завантаження…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Шкода, але під час завантаження приміток сталася помилка.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Шкода, але під час завантаження інформації сталася помилка.">
 
 <!ENTITY addon.createdBy.label                "Від ">
 
