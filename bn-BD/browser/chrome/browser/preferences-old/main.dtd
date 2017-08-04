@@ -41,6 +41,6 @@
 <!ENTITY separateProfileMode.label        "অনুমতি দিন &brandShortName; এবং ফায়ারফক্স একই সময়ে চালানোর জন্য">
 <!ENTITY useFirefoxSync.label             "টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য সিঙ্ক ব্যবহার করুন।">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; এ সাইন ইন করুন…">
-
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; পছন্দসমূহ খুলুন">
 
 <!ENTITY e10sEnabled.label                "মাল্টি-প্রসেস সক্রিয় &brandShortName;">
