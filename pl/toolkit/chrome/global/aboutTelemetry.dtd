@@ -10,9 +10,10 @@
 <!ENTITY aboutTelemetry.raw "Nieprzetworzony JSON">
 <!ENTITY aboutTelemetry.showSubsessionData "Dane podsesji">
 <!ENTITY aboutTelemetry.choosePing "Pingi:">
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
-<!ENTITY aboutTelemetry.showOlderPing "Starsze &gt;&gt;">
+<!ENTITY aboutTelemetry.showNewerPing "Nowsze &gt;&gt;">
+<!ENTITY aboutTelemetry.showOlderPing "&lt;&lt; Starsze">
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tydzień">
+<!ENTITY aboutTelemetry.archivePingType "Typ">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
