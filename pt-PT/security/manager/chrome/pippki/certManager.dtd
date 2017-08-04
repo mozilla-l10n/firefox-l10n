@@ -10,7 +10,7 @@
 <!ENTITY certmgr.tab.ca                       "Autoridades">
 <!ENTITY certmgr.tab.orphan2                  "Outros">
 
-<!ENTITY certmgr.mine                         "Tem certificados destas organizações que o identificam:">
+<!ENTITY certmgr.mine                         "Tem certificados destas organizações que lhe identificam:">
 <!ENTITY certmgr.others                       "Tem certificados num ficheiro que identificam estas pessoas:">
 <!ENTITY certmgr.websites2                    "Tem certificados num ficheiro que identificam estes servidores:">
 <!ENTITY certmgr.cas                          "Tem certificados num ficheiro que identificam estas autoridades certificadas:">

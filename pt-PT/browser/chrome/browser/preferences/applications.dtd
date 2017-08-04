@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicações">
-<!ENTITY  applications.description "Escolher como o &brandShortName; manuseia os ficheiros que descarrega da web ou as aplicações que utiliza enquanto navega.">
+<!ENTITY  applications.description "Escolha como o &brandShortName; manuseia os ficheiros que descarrega da web ou as aplicações que utiliza enquanto navega.">
 
 <!ENTITY  typeColumn.label        "Tipo de conteúdo">
 <!ENTITY  typeColumn.accesskey    "T">
