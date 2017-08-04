@@ -115,9 +115,9 @@
 <!ENTITY cmd.contribute.tooltip               "Посприяти розвитку цього додатку">
 
 <!ENTITY cmd.showReleaseNotes.label           "Показати інформацію про випуск">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Показати інформацію про випуск цього оновлення">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Показати інформацію про випуск для цього оновлення">
 <!ENTITY cmd.hideReleaseNotes.label           "Сховати інформацію про випуск">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати інформацію про випуск цього оновлення">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати інформацію про випуск для цього оновлення">
 <!ENTITY cmd.findReplacement.label            "Знайти заміну">
 
 <!-- discovery view -->
