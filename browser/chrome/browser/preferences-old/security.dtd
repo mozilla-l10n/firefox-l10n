@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY general.label "General">
-<!ENTITY warnOnAddonInstall.label "Advertirle cuando los sitios intenten instalar complementos">
-<!ENTITY warnOnAddonInstall.accesskey "A">
+<!ENTITY warnOnAddonInstall2.label "Advertirle cuando los sitios web intenten instalar complementos">
+<!ENTITY warnOnAddonInstall2.accesskey "A">
 <!ENTITY enableSafeBrowsing.label "Bloquear contenido peligroso y engañoso">
 <!ENTITY enableSafeBrowsing.accesskey "B">
 <!ENTITY blockDownloads.label "Bloquear descargas peligrosas">
@@ -14,8 +14,8 @@
 <!ENTITY addonExceptions.label "Excepciones…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY logins.label "Inicios de sesión">
-<!ENTITY rememberLogins.label "Recordar cuentas de sitios">
-<!ENTITY rememberLogins.accesskey "R">
+<!ENTITY rememberLogins2.label "Recordar cuentas de los sitios web">
+<!ENTITY rememberLogins2.accesskey "R">
 <!ENTITY passwordExceptions.label "Excepciones…">
 <!ENTITY passwordExceptions.accesskey "x">
 <!ENTITY useMasterPassword.label "Usar una contraseña maestra">

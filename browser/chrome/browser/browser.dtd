@@ -248,6 +248,8 @@
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey "P">
+<!ENTITY overflowCustomizeToolbar.label "Personalizar barra de herramientas…">
+<!ENTITY overflowCustomizeToolbar.accesskey "P">
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Pestañas cerradas recientemente">
@@ -264,6 +266,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
+<!ENTITY appMenuHistory.recentHistory.label "Historial reciente">
 <!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
@@ -697,6 +700,7 @@
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
+<!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
+<!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
 <!ENTITY sendToDevice.label2 "Enviar al dispositivo">
-<!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
