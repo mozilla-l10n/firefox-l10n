@@ -31,7 +31,7 @@
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
-<!ENTITY filterActionOrderWarning.label "Примітка: Фільтр дій запуститься в іншому порядку.">
+<!ENTITY filterActionOrderWarning.label "Нотатка: Фільтр дій запуститься в іншому порядку.">
 <!ENTITY filterActionOrder.label "див. Порядок виконання">
 
 <!-- New Style Filter Rule Actions -->
@@ -57,9 +57,10 @@
 <!ENTITY removeAction.tooltip "Вилучити цю дію">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">

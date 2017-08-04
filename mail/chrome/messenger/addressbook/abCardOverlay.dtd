@@ -115,7 +115,7 @@
 <!ENTITY Custom3.accesskey              "3">
 <!ENTITY Custom4.label                  "Інше 4:">
 <!ENTITY Custom4.accesskey              "4">
-<!ENTITY Notes.label                    "Примітки:">
+<!ENTITY Notes.label                    "Нотатки:">
 <!ENTITY Notes.accesskey                "П">
 
 <!ENTITY Chat.tab                       "Чат">
