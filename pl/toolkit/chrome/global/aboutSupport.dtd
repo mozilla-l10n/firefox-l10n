@@ -54,6 +54,7 @@
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zarejestrowane wątki usługowe">
 <!ENTITY aboutSupport.appBasicsProfiles "Profile">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Okna wieloprocesowe">
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesy treści sieciowych">
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Klucz Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Klucz usługi lokalizacji Mozilli">
 <!ENTITY aboutSupport.appBasicsSafeMode "Tryb awaryjny">
