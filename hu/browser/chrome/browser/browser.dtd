@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "O">
 <!ENTITY viewCustomizeToolbar.label       "Testreszabás…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Eszköztár testreszabása…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "E">
 
 <!ENTITY historyMenu.label "Előzmények">
 <!ENTITY historyMenu.accesskey "m">
