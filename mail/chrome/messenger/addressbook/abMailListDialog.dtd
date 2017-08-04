@@ -12,10 +12,11 @@
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Nadimak liste: ">
 <!ENTITY ListNickName.accesskey         "N">
-
-
+<!ENTITY ListDescription.label          "Opis: ">
+<!ENTITY ListDescription.accesskey      "O">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Upišite adrese e-pošte da biste ih dodali na popis primatelja:">
+<!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Pomakni gore">
 <!ENTITY DownButton.label               "Pomakni dolje">
 

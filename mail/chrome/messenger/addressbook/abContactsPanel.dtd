@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Postavke popisa primatelja">
 <!ENTITY mailingListPropertiesMenu.accesskey "P">
 
+<!ENTITY abContextMenuButton.tooltip        "Prikaži kontekstualni izbornik adresara">
 <!ENTITY addressbookPicker.label            "Adresar:">
 <!ENTITY addressbookPicker.accesskey        "r">
 <!ENTITY searchContacts.label               "Pretraži kontakte:">
@@ -35,9 +36,10 @@
 <!ENTITY editMailingListContext.label       "Uredi popis">
 <!ENTITY editMailingListContext.accesskey   "e">
 
-
-
-
+<!ENTITY newContactAbContext.label          "Novi kontakt">
+<!ENTITY newContactAbContext.accesskey      "N">
+<!ENTITY newListAbContext.label             "Novi popis">
+<!ENTITY newListAbContext.accesskey         "N">
 
 <!ENTITY toButton.label                     "Dodaj u Prima:">
 <!ENTITY toButton.accesskey                 "D">
