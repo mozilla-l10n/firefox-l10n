@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Imbakan">
+<!ENTITY     searchTextboxPlaceHolder             "Maghanap ng mga website">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Inalis ang mga Napili">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "I-save ang mga Pagbabago">

@@ -1,12 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "Add-ons Manager">
 
 <!ENTITY search.placeholder                   "Hanapin lahat ng add-ons">
+<!ENTITY search.buttonlabel                   "Hanapin">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
+<!ENTITY loading.label                        "Nag-loload...">
 <!ENTITY listEmpty.installed.label            "Wala kang ganitong klaseng add-ons na naka-install">
 <!ENTITY listEmpty.availableUpdates.label     "Walang updates na nakita">
 <!ENTITY listEmpty.recentUpdates.label        "Wala kang bagong update na add-ons">
@@ -17,19 +20,28 @@
 <!ENTITY installAddonFromFile.accesskey       "i">
 <!ENTITY toolsMenu.tooltip                    "Tools para sa lahat ng add-ons">
 
+<!ENTITY getThemes.description                "Gusto mo bang i-personalize ang iyong browser?">
+<!ENTITY getThemes.learnMore                  "Mamili mula sa libo-libong tema.">
 
 <!ENTITY cmd.back.tooltip                     "Bumalik nang isang pahina">
 <!ENTITY cmd.forward.tooltip                  "Pumunta sa susunod na web page">
 
+<!ENTITY showUnsignedExtensions.button.label  "Ang ibang extensions ay hindi kayang ma-verify">
+<!ENTITY showAllExtensions.button.label       "Ipakita ang lahat ng extensions">
+<!ENTITY debugAddons.label                    "I-debug ang Add-ons">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Naka-disable lahat ng add-ons ng safe mode.">
 <!ENTITY warning.checkcompatibility.label          "Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.">
+<!ENTITY warning.checkcompatibility.enable.label   "I-enable">
 <!ENTITY warning.checkcompatibility.enable.tooltip "I-enable ang add-on compatibility checking">
 <!ENTITY warning.updatesecurity.label              "Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.">
+<!ENTITY warning.updatesecurity.enable.label       "I-enable">
 <!ENTITY warning.updatesecurity.enable.tooltip     "I-enable ang add-on security checking">
 
 <!-- categories / views -->
+<!ENTITY view.search.label                    "Hanapin">
 <!ENTITY view.discover.label                  "Kumuha ng Add-ons">
 <!ENTITY view.recentUpdates.label             "Mga Bagong Updates">
 <!ENTITY view.availableUpdates.label          "Mga Available na Update">
@@ -42,6 +54,8 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "I-update ang Add-ons nang kusa">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -73,8 +87,23 @@
 <!ENTITY cmd.about.label                      "Tungkol">
 <!ENTITY cmd.about.accesskey                  "T">
 
+<!ENTITY cmd.enableAddon.label                "I-enable">
+<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.disableAddon.label               "I-disable">
+<!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Isuot ang Theme">
 <!ENTITY cmd.enableTheme.accesskey            "I">
+<!ENTITY cmd.disableTheme.label               "Tigilan ang pagsuot ng Theme">
+<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.askToActivate.label              "Itanong para i-Activate">
+<!ENTITY cmd.askToActivate.tooltip            "Itanong para gamitin itong add-on bawat oras">
+<!ENTITY cmd.alwaysActivate.label             "Palaging i-activate">
+<!ENTITY cmd.alwaysActivate.tooltip           "Palaging gamitin itong add-on">
+<!ENTITY cmd.neverActivate.label              "Wag kailanman i-activate">
+<!ENTITY cmd.neverActivate.tooltip            "Wag kailanman gamitin itong add-on">
+<!ENTITY cmd.stateMenu.tooltip                "Magbago kung itong add-on ay natakbo">
+<!ENTITY cmd.installAddon.label               "I-install">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.showPreferencesWin.label         "Options">
@@ -89,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ipakita ang release notes ng update na ito">
 <!ENTITY cmd.hideReleaseNotes.label           "Itago ang pinakawalan na mga Tala">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Itago ang release notes ng update na ito">
+<!ENTITY cmd.findReplacement.label            "Maghanap ng Kapalit">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -100,13 +130,21 @@
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Bersyon">
 <!ENTITY detail.lastupdated.label             "Huling In-update">
+<!ENTITY detail.creator.label                 "Gumawa">
+<!ENTITY detail.homepage.label                "Ang homepage">
 <!ENTITY detail.numberOfDownloads.label       "Mga Download">
 
 <!ENTITY detail.contributions.description     "Hinihiling ang iyong suporta para sa pagpapatuloy ng development ng add-on na ito sa pamamagitan ng pagbibigay ng ano mang halaga ng kontribusyon.">
 
+<!ENTITY detail.updateType                    "Awtomatikong Updates">
+<!ENTITY detail.updateDefault.label           "Default">
 <!ENTITY detail.updateDefault.tooltip         "Awtomatikong mag-install ng updates">
+<!ENTITY detail.updateAutomatic.label         "I-on">
 <!ENTITY detail.updateAutomatic.tooltip       "Awtomatikong pag-install ng mga updates">
+<!ENTITY detail.updateManual.label            "I-off">
 <!ENTITY detail.updateManual.tooltip          "Hindi awtomatikong naiinstall updates">
+<!ENTITY detail.home                          "Ang homepage">
+<!ENTITY detail.repository                    "Karagdagang profile">
 <!ENTITY detail.size                          "Sukat">
 
 <!ENTITY detail.checkForUpdates.label         "Maghanap ng mga Update">
@@ -121,8 +159,10 @@
 
 
 <!-- ratings -->
+<!ENTITY rating2.label                        "Marka">
 
 <!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "I-pause">
 <!ENTITY progress.cancel.tooltip              "Kanselahin">
 
 
@@ -130,51 +170,93 @@
 <!ENTITY sort.name.label                      "Pangalan">
 <!ENTITY sort.name.tooltip                    "I-sort ayon sa Pangalan">
 <!ENTITY sort.dateUpdated.label               "Huling In-update">
+<!ENTITY sort.dateUpdated.tooltip             "I-sort ayon sa petsang inupdate">
 <!ENTITY sort.relevance.label                 "Pinakamagandang match">
+<!ENTITY sort.relevance.tooltip               "I-sort ayon sa kaugnayan">
 <!ENTITY sort.price.label                     "Presyo">
+<!ENTITY sort.price.tooltip                   "I-sort ayon sa presyo">
 
+<!ENTITY search.filter2.label                 "Hanapin:">
+<!ENTITY search.filter2.installed.label       "Aking Add-ons">
 <!ENTITY search.filter2.installed.tooltip     "Ipakita ang mga nakainstall na add-ons">
+<!ENTITY search.filter2.available.label       "Magagamit na Add-ons">
 <!ENTITY search.filter2.available.tooltip     "Ipakita ang mga add-ons na pwedeng i-install">
 
+<!ENTITY addon.homepage                       "Ang homepage">
 <!ENTITY addon.details.label                  "Karagdagan">
 <!ENTITY addon.details.tooltip                "Magpakita ng mga detalye tungkol sa add-on na ito">
 <!ENTITY addon.unknownDate                    "Unknown">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(naka-disable)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Pagsasangayon">
 <!ENTITY addon.undoAction.label               "I-undo">
+<!ENTITY addon.undoAction.tooltip             "I-undo ang aksyong ito">
 <!ENTITY addon.undoRemove.label               "I-undo">
 <!ENTITY addon.undoRemove.tooltip             "Hayaang naka-install ang add-on na ito">
+<!ENTITY addon.restartNow.label               "Magrestart ngayon">
+<!ENTITY addon.install.label                  "Mag-install">
 <!ENTITY addon.install.tooltip                "I-install itong add-on">
 <!ENTITY addon.updateNow.label                "I-update Ngayon">
 <!ENTITY addon.updateNow.tooltip              "Mag-install ng update para sa add-on na ito">
 <!ENTITY addon.includeUpdate.label            "Isama sa update">
 <!ENTITY addon.updateAvailable.label          "May update na available">
+<!ENTITY addon.checkingForUpdates.label       "Naghahanap ng updates…">
+<!ENTITY addon.releaseNotes.label             "Release Note:">
+<!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pasensya na po, pero may error sa pagload ng release notes.">
 
 <!ENTITY addon.createdBy.label                "Ni ">
 
+<!ENTITY eula.title                           "Pagkakasundo sa End-User License">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Tanggapin at mag-install…">
 
+<!ENTITY settings.path.button.label           "Magbrowse…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Ano ito? Ang Telemetry ay maaaring mag-install at mag eksperimento sa anumang oras.">
 <!ENTITY experiment.info.learnmore "Alamin pa">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Settings ng Telemetry">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Matuto pa…">
 
+<!ENTITY disabledUnsigned.heading "Ang ibang add-ons ay na-disable">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Ang sumusunod na add-ons ay hindi na-verify para magamit sa &brandShortName;. Maaari kang ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "maghanap ng mga pamalit">
+<!ENTITY disabledUnsigned.description.end " o magtanong sa developer para ma-verify.">
+<!ENTITY disabledUnsigned.learnMore "Matuto pa sa ukol sa aming mga hakbang para maprotektahan ka online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Ang developers na interesadong mapa-verify ang add-on nila ay pwedeng tumuloy sa pagbasa ng aming ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manwal">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "May hindi ka mahanap? Ang ibang plugin ay di na suportado ng &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Matuto pa.">
+
+<!ENTITY legacyWarning.description "Nawawala ang isang bagay? Ang ilang mga extension ay hindi na suportado ng &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Ipakita ang mga extension ng legacy">
+<!ENTITY legacyExtensions.title "Mga Extension ng Legacy">
+<!ENTITY legacyExtensions.description "Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang &brandShortName; Mga pamantayan upang ma-deactivate ang mga ito.">
+<!ENTITY legacyExtensions.learnMore "Alamin ang tungkol sa mga pagbabago sa mga add-on">

@@ -25,16 +25,22 @@
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFrom360se.label          "360 Ligtas na Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Walang mahanap na application na naglalaman ng bookmark, history o password data.">
 
 <!ENTITY importSource.title             "I-import ang Settings at Data">
 <!ENTITY importItems.title              "I-import ang mga">
+<!ENTITY importItems.label              "Pumili kung aling item ang i-import:">
 
 <!ENTITY migrating.title                "Ini-import...">
 <!ENTITY migrating.label                "Ang mga sumusunod na mga bagay ay kasalukuyang inaangkat">
 
 <!ENTITY selectProfile.title            "Piliin ang Profile">
+<!ENTITY selectProfile.label            "Ang mga sumusunod na mga profile ay pweden i-import mula sa:">
 
+<!ENTITY done.title                     "Nakumpleto na ang Pag-angkat">
 <!ENTITY done.label                     "Ang mga sumusunod na mga bagay ay matagumpay na naiangkat :">
 
+<!ENTITY closeSourceBrowser.label       "Seguraduhing mabuti na ang pinili na browser ay naka-sarado bago magpatuloy.">
