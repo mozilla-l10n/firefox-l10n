@@ -6,20 +6,33 @@
 
 <!ENTITY generalTab.label                "Pangkalahatan">
 
-<!ENTITY accessibility.label             "Accessibility">
-
 <!ENTITY useCursorNavigation.label       "Palagiang gamitin ang mga cursor key upang libutin ang mga pahina">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Maghahanap ng text kapag nag umpisang mag-type">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY useOnScreenKeyboard.label       "Ipakita ang touch keyboard kung kinakailangan">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
+<!ENTITY browsing.label                  "Pag-browse">
 
 <!ENTITY useAutoScroll.label             "Gamitin ang autoscrolling">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Gamitin ang maayos na pag-scroll">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "Suriin ang pagkabaybay habang nag ta-type">
+<!ENTITY checkUserSpelling.accesskey     "t">
+
+<!ENTITY dataChoicesTab.label            "Mga Pagpipiliang Datos">
+
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
+<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY healthReportLearnMore.label     "Karagdagang kaalaman">
 
 
-
-
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 
 <!ENTITY networkTab.label                "Network">
 
@@ -53,11 +66,11 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateAuto3.accesskey           "A">
 
 
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
-
 
 
 
