@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "நல்வரவு!">
+<!ENTITY firstrun_panel_title_welcome "நல்வரவு">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; வருக">
 <!ENTITY firstrun_urlbar_subtext "உதவும் தேடல் பரிந்துரைகளுடன் எளிதில் கண்டுபிடியுங்கள்.">
@@ -332,7 +332,7 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "\&quot;பல தொடுப்புகளை திறக்க\&quot;, \&quot;பிற செயலிகளின் மேல் வரை\&quot; அனுமதியை &brandShortName; என்பதற்கு வழங்கவும்">
+<!ENTITY tab_queue_notification_settings "\&quot;பல தொடுப்புகளை திறக்க\&quot;, \u0027பிற செயலிகளின் மேல் வரை\u0027 அனுமதியை &brandShortName; என்பதற்கு வழங்கவும்">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -443,7 +443,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
-<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலக வரைபடத்தை வரையலாம்! எங்களின் புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை அருகலை மற்றும் செல்லுலார் மூலம் பகிரவும்">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலக வரைபடத்தை வரையலாம்! எங்களின் புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை அருகலை மற்றும் செல்லுலார் மூலம் பகிரவும்.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -531,7 +531,7 @@
 <!ENTITY pref_scroll_title_bar_summary2 "ஒரு பக்கத்தை கீழே உருட்டும் போது &brandShortName; தலைப்பு பட்டையை மறை">
 
 <!ENTITY pref_tab_queue_title3 "கீற்று வரிசை">
-<!ENTITY pref_tab_queue_summary4 "அடுத்த முறை &brandShortName; திறக்கும் வரை இணைப்புகளைச் சேமி.">
+<!ENTITY pref_tab_queue_summary4 "அடுத்த முறை &brandShortName; திறக்கும் வரை இணைப்புகளைச் சேமி">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
@@ -658,14 +658,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "இப்பக்கத்தில் &brandShortName; பாதுகாப்பற்ற உள்ளடக்கங்களை முடக்கியது.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; சில பாதுகாப்பற்ற உள்ளடக்கங்களை இப்பக்கத்தில் முடக்கியது.">
-<!ENTITY mixed_content_display_loaded1 "இந்த பக்கத்தின் சில பகுதிகள் பாதுகாப்பற்றது (படங்கள் போன்றவை)">
+<!ENTITY mixed_content_display_loaded1 "இந்த பக்கத்தின் சில பகுதிகள் பாதுகாப்பற்றது (படங்கள் போன்றவை).">
 <!ENTITY mixed_content_protection_disabled1 "பாதுகாப்பற்ற உள்ளடக்கத் தடையை முடக்கியுள்ளீர்கள்.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title2 "தடமறியல் பாதுகாப்பு">
 <!ENTITY doorhanger_tracking_state_enabled "செயலில்">
 <!ENTITY doorhanger_tracking_state_disabled "முடக்கம்">
-<!ENTITY doorhanger_tracking_message_enabled1 "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் முயற்சி தடுக்கப்பட்டது">
+<!ENTITY doorhanger_tracking_message_enabled1 "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் முயற்சி தடுக்கப்பட்டது.">
 <!ENTITY doorhanger_tracking_message_disabled2 "இந்த வலைபக்கத்திலுள்ள சில உறுப்புகள் உங்கள் செயல்களை கண்காணிக்க கூடும்.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -723,7 +723,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "தொடரவும்">
 <!ENTITY guest_session_dialog_cancel "ரத்து">
 <!ENTITY new_guest_session_title "&brandShortName; இப்போது மீள்துவக்கம் செய்கிறது">
-<!ENTITY new_guest_session_text2 "இதை பயன்படுத்தும் நபர் உங்களுடைய தனிப்பட்ட உலாவின் தரவுகளை(அதாவது சேமித்த கடவுச்சொல், வரலாறு அல்லது புத்தகக்குறிகள்) பார்க்க முடியாது.\n\nவிருந்தினர் அமர்விற்கு பிறகு, அவர்களுடைய தரவுகள் நீக்கப்பட்டு உங்களுடைய அமர்வு மீட்டமைக்கப்படும்.">
+<!ENTITY new_guest_session_text2 "இதைப் பயன்படுத்தும் நபர் உங்களுடைய தனிப்பட்ட உலாவின் தரவுகளை (அதாவது சேமித்த கடவுச்சொல், வரலாறு அல்லது புத்தகக்குறிகள்) பார்க்க முடியாது.\n\nவிருந்தினர் அமர்விற்கு பிறகு, அவர்களுடைய தரவுகள் நீக்கப்பட்டு உங்களுடைய அமர்வு மீட்டமைக்கப்படும்.">
 <!ENTITY guest_browsing_notification_title "விருந்தினர் உலாவல் செயலிலுள்ளது">
 <!ENTITY guest_browsing_notification_text "வெளியேற தொடு">
 
@@ -734,7 +734,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
-<!ENTITY ellipsis "...">
+<!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
@@ -822,7 +822,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "முகப்பு திரையில் சேர்">
 
 <!ENTITY helper_first_offline_bookmark_title "இணையம் இல்லாமல் வாசி">
-<!ENTITY helper_first_offline_bookmark_message "இணையமற்ற நிலையிலும் வாசிப்பு பட்டியலை புத்தகக்குறிகளில் காணலாம்">
+<!ENTITY helper_first_offline_bookmark_message "இணையமற்ற நிலையிலும் வாசிப்பு பட்டியலை புத்தகக்குறிகளில் காணலாம்.">
 <!ENTITY helper_first_offline_bookmark_button "புத்தகக்குறிக்குச் செல்">
 
 <!ENTITY helper_triple_readerview_open_title "இணைப்பின்றி கிடைக்கிறது">
