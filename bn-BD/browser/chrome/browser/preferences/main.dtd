@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "ফাঁকা পাতা দেখাও">
 <!ENTITY startupPrevSession.label  "শেষ সময় থেকে আপনার উইন্ডো এবং ট্যাব প্রদর্শন করা হবে">
 
-
+<!ENTITY homepage2.label           "প্রধান পাতা">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "বর্তমান পাতা ব্যবহার কর">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বর্তমান পাতা ব্যবহার কর">
@@ -32,8 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "সবসময় পরীক্ষা করুন &brandShortName; আপনার ডিফল্ট ব্রাউজার কিনা">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-
-
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার">
 <!ENTITY isNotDefault.label               "&brandShortName; আপনার নির্ধারিত ব্রাউজার নয়">
 

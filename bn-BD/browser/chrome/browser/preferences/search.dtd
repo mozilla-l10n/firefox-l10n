@@ -8,7 +8,7 @@
 <!ENTITY provideSearchSuggestions.label        "অনুসন্ধান পরামর্শ প্রদান করুন s">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।">
 
 <!ENTITY oneClickSearchEngines.label           "এক-ক্লিক অনুসন্ধান ইঞ্জিন">
