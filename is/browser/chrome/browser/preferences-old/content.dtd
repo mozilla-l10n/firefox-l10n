@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Tilkynningar">
 <!ENTITY  notificationsPolicyLearnMore.label   "Vita meira">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Veldu hvaða vefsvæði hafa leyfi til að senda þér tilkynningar">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Velja…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ekki trufla mig">
