@@ -16,6 +16,10 @@
 <!ENTITY aboutTelemetry.archivePingType "Typ">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Dzisiaj">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Wczoraj">
+<!ENTITY aboutTelemetry.optionGroupOlder "Starsze">
+
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
 <!ENTITY aboutTelemetry.telemetryLogSection "Dziennik telemetrii">
