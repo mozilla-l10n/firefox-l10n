@@ -350,7 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Lopeta muokkaus">
 <!ENTITY appMenuCustomizeExit.tooltip "Lopeta muokkaus">
 <!ENTITY appMenuHistory.label "Sivuhistoria">
-<!ENTITY appMenuHistory.showAll.label "Näytä täydellinen sivuhistoria">
+<!ENTITY appMenuHistory.showAll.label "Näytä koko sivuhistoria">
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
