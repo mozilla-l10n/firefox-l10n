@@ -54,7 +54,7 @@
 <!ENTITY aboutNetworking.rcwnPerfRead "Odczytywanie">
 <!ENTITY aboutNetworking.rcwnPerfWrite "Zapisywanie">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen "Pozycja otwarta">
-<!ENTITY aboutNetworking.rcwnAvgShort "Krótka śrenida">
+<!ENTITY aboutNetworking.rcwnAvgShort "Krótka średnia">
 <!ENTITY aboutNetworking.rcwnAvgLong "Długa średnia">
 <!ENTITY aboutNetworking.rcwnStddevLong "Odchylenie standardowe długiej">
 <!ENTITY aboutNetworking.rcwnCacheSlow "Powolne trafienia">
