@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "S">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Trenutni račun">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "e">
-
-
+<!ENTITY getNextNMsgCmd2.label "Dohvati sljedeće poruke interesnih grupa">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Pošalji neposlane poruke">
 <!ENTITY sendUnsentCmd.accesskey "i">
 <!ENTITY subscribeCmd.label "Pretplati se…">
@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Dohvati poruke">
 <!ENTITY folderContextGetMessages.accesskey "D">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Zaustavi sva ažuriranja">
+<!ENTITY folderContextPauseUpdates.label "Zaustavi ažuriranja">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Otvori u novom prozoru">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otvori u novoj karticu">
@@ -952,5 +952,5 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Mogućnosti ikone aplikacije…">
-
-
+<!ENTITY writeNewMessageDock.label      "Piši novu poruku">
+<!ENTITY openAddressBookDock.label      "Otvori adresar">
