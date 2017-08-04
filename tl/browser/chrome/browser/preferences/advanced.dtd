@@ -43,6 +43,9 @@ available. -->
 
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY clearSiteData.label             "Burahin ang lahat na Data">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.accesskey      "i">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -53,6 +56,11 @@ available. -->
 <!ENTITY limitCacheSizeBefore.label      "Limit cache to">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ng espasyo">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "Burahin Ngayon">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "I-override ng awtomatiko ang cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Pagsasangayon">
 
@@ -60,23 +68,34 @@ available. -->
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "Mga update ng &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Ipakita ang kasaysayan nang pag-update…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "Awtomatikong i-update ang mga search engine">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
+<!ENTITY certificateTab.label            "Mga sertipiko">
 
