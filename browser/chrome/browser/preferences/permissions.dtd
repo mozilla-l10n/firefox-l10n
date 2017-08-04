@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Excepciones">
 <!ENTITY window.width                 "36em">
 
-<!ENTITY treehead.sitename.label      "Sitio">
+<!ENTITY treehead.sitename2.label     "Sitio web">
 <!ENTITY treehead.status.label        "Estado">
-<!ENTITY removepermission.label       "Eliminar sitio">
-<!ENTITY removepermission.accesskey   "r">
-<!ENTITY removeallpermissions.label   "Eliminar todos los sitios">
-<!ENTITY removeallpermissions.accesskey "E">
+<!ENTITY removepermission2.label      "Eliminar sitio web">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Eliminar todos los sitios">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Dirección del sitio web:">
 <!ENTITY address.accesskey            "D">
 <!ENTITY block.label                  "Bloquear">

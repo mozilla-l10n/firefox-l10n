@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "No se ofrecerá traducción para los siguientes sitios:">
-<!ENTITY treehead.siteName.label          "Sitios">
+<!ENTITY treehead.siteName2.label         "Sitios web">
 <!ENTITY removeSite.label                 "Quitar sitio">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Quitar todos los sitios">
