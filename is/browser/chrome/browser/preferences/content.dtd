@@ -52,6 +52,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Þýtt af">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) innihald">
 
 
 <!ENTITY  playDRMContent.learnMore.label "Vita meira">
