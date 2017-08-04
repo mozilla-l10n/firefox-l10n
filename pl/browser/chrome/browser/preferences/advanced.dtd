@@ -4,14 +4,10 @@
 
 <!ENTITY generalTab.label                "Ogólne">
 
-<!ENTITY accessibility.label             "Dostępność">
-
 <!ENTITY useCursorNavigation.label       "Zawsze używaj klawiszy kursora do nawigacji po stronach">
 <!ENTITY useCursorNavigation.accesskey "">
 <!ENTITY searchOnStartTyping.label "Rozpoczynaj wyszukiwanie podczas wpisywania tekstu">
 <!ENTITY searchOnStartTyping.accesskey "">
-<!ENTITY blockAutoReload.label "Ostrzegaj, jeśli witryny próbują przekierować lub odświeżyć stronę">
-<!ENTITY blockAutoReload.accesskey "">
 <!ENTITY useOnScreenKeyboard.label "Wyświetlanie klawiatury ekranowej, gdy zachodzi taka potrzeba">
 <!ENTITY useOnScreenKeyboard.accesskey "">
 
@@ -26,25 +22,19 @@
 
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
-<!ENTITY healthReportingDisabled.label "Przesyłanie danych jest wyłączone przy tej konfiguracji programu">
-<!ENTITY healthReportDesc.label "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
-<!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;.">
-<!ENTITY enableHealthReport.accesskey "">
+<!ENTITY dataCollection.label "Dane zbietane przez program &brandShortName;">
+<!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonaliż program &brandShortName; dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem osobistych danych.">
+<!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
+<!ENTITY enableHealthReport1.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
+<!ENTITY enableHealthReport1.accesskey "">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
-
-<!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
-<!ENTITY enableTelemetryData.label "Udostępnianie dodatkowych danych (np. Telemetrii).">
-<!ENTITY enableTelemetryData.accesskey "">
-<!ENTITY telemetryLearnMore.label "Więcej informacji">
-
-<!ENTITY crashReporterDesc2.label "Zgłoszenia awarii pomagają organizacji &vendorShortName; poprawiać stabilność, bezpieczeństwo i naprawiać problemy z przeglądarką.">
-<!ENTITY alwaysSubmitCrashReports.label "Przesyłanie zgromadzonych zgłoszeń awarii programu &brandShortName;.">
-<!ENTITY alwaysSubmitCrashReports.accesskey "">
+<!ENTITY alwaysSubmitCrashReports1.label "Przesyłanie raportów z awarii do Mozilli.">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
 <!ENTITY networkTab.label                "Sieć">
 
-<!ENTITY connection.label                "Połączenie">
+<!ENTITY networkProxy.label "Proxy sieciowe">
 
 <!ENTITY connectionDesc.label            "Określ, w jaki sposób &brandShortName; ma się łączyć z Internetem">
 <!ENTITY connectionSettings.label        "Ustawienia…">
@@ -87,8 +77,6 @@
 
 <!ENTITY enableSearchUpdate2.label "Automatyczne aktualizacje wyszukiwarek">
 <!ENTITY enableSearchUpdate2.accesskey "">
-
-<!ENTITY reports.label "Raporty">
 
 <!ENTITY offlineStorageNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
 <!ENTITY offlineStorageNotify.accesskey "">

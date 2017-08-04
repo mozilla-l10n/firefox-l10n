@@ -29,8 +29,8 @@
 <!ENTITY doNotTrack.default.label "Tylko podczas używania ochrony przed śledzeniem">
 <!ENTITY doNotTrack.always.label "Zawsze">
 
-<!ENTITY locationBar.label "Pasek adresu">
-<!ENTITY locbar.suggest2.label "Podpowiedzi w pasku adresu opieraj na:">
+<!ENTITY addressBar.label "Pasek adresu">
+<!ENTITY addressBar.suggest.label "Podpowiedzi w pasku adresu opieraj na:">
 <!ENTITY locbar.history.label "historii">
 <!ENTITY locbar.history.accesskey "">
 <!ENTITY locbar.bookmarks.label "zakładkach">
@@ -90,7 +90,6 @@
 <!ENTITY clearOnCloseSettings.label "Ustawienia…">
 <!ENTITY clearOnCloseSettings.accesskey "">
 
-<!ENTITY browserContainersHeader.label "Kontekst">
 <!ENTITY browserContainersLearnMore.label "Więcej informacji">
 <!ENTITY browserContainersEnabled.label "Karty z kontekstem">
 <!ENTITY browserContainersEnabled.accesskey "">

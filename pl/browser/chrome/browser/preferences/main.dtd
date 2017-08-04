@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label "Sprawdzanie, czy &brandShortName; jest domyślną przeglądarką">
 <!ENTITY alwaysCheckDefault2.accesskey "">
-<!ENTITY setAsMyDefaultBrowser2.label "Ustaw jako domyślną">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "">
+<!ENTITY setAsMyDefaultBrowser3.label "Ustaw jako domyślną…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "">
 <!ENTITY isDefault.label "&brandShortName; jest obecnie domyślną przeglądarką">
 <!ENTITY isNotDefault.label "&brandShortName; nie jest obecnie domyślną przeglądarką">
 
