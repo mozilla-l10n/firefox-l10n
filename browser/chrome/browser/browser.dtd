@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "ปิด">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "ด">
+<!ENTITY closeCmd.accesskey             "ป">
 
 <!ENTITY toggleMuteCmd.key              "M">
 

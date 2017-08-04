@@ -48,7 +48,7 @@
 
 <!ENTITY closeCmd.label               "ปิด">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "ด">
+<!ENTITY closeCmd.accesskey           "ป">
 
 <!ENTITY viewMenu.label               "มุมมอง">
 <!ENTITY viewMenu.accesskey           "ม">
