@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Λογαριασμοί">
 
-<!ENTITY  rememberLogins2.label         "Απομνημόνευση στοιχείων σύνδεσης για ιστοσελίδες">
+<!ENTITY  rememberLogins2.label         "Απομνημόνευση στοιχείων σύνδεσης σε ιστοσελίδες">
 <!ENTITY  rememberLogins2.accesskey     "μ">
 <!ENTITY  passwordExceptions.label      "Εξαιρέσεις…">
 <!ENTITY  passwordExceptions.accesskey  "ξ">
