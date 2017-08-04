@@ -48,3 +48,14 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount "Trafienia pamięci podręcznej">
 <!ENTITY aboutNetworking.rcwnNetWonCount "Trafienia sieciowe">
 <!ENTITY aboutNetworking.totalNetworkRequests "Liczba żądań sieciowych">
+
+<!ENTITY aboutNetworking.rcwnOperation "Operacje pamięci podręcznej">
+<!ENTITY aboutNetworking.rcwnPerfOpen "Otwieranie">
+<!ENTITY aboutNetworking.rcwnPerfRead "Odczytywanie">
+<!ENTITY aboutNetworking.rcwnPerfWrite "Zapisywanie">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen "Pozycja otwarta">
+<!ENTITY aboutNetworking.rcwnAvgShort "Krótka śrenida">
+<!ENTITY aboutNetworking.rcwnAvgLong "Długa średnia">
+<!ENTITY aboutNetworking.rcwnStddevLong "Odchylenie standardowe długiej">
+<!ENTITY aboutNetworking.rcwnCacheSlow "Powolne trafienia">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow "Normalne trafienia">
