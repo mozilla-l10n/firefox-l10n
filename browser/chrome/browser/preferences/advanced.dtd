@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "সাধারণ">
 
@@ -23,21 +23,24 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "ডাটা পছন্দ">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
+<!ENTITY dataCollection.label            "&brandShortName; ডাটা সংগ্রহ ও ব্যবহার">
+<!ENTITY dataCollectionPrivacyNotice.label    "গোপনীয়তা নীতি">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Mozilla তে ক্র্যাশ রিপোর্ট পাঠাতে &brandShortName; কে অনুমতি দিন">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "আরও জানুন">
 
 <!ENTITY networkTab.label                "নেটওয়ার্ক">
 
+<!ENTITY networkProxy.label              "নেটওয়ার্ক প্রক্সি">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ইন্টারনেটের সাথে কিভাবে সংযুক্ত হবে তা কনফিগার করুন">
 <!ENTITY connectionSettings.label        "বৈশিষ্ট্যাবলী...">
@@ -46,21 +49,21 @@ available. -->
 <!ENTITY httpCache.label                 "জমে থাকা ওয়েব কনটেন্ট">
 
 <!ENTITY offlineStorage2.label           "অফলাইন ওয়েব কনটেন্ট এবং ব্যবহারকারীর ডাটা">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "সাইট ডেটা">
 <!ENTITY clearSiteData.label             "সমস্ত ডেটা সাফ করুন">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "ক্যাশের সীমা L">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "মেগাবাইট জায়গা">
@@ -72,11 +75,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "হালনাগাদ">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName; হালনাগাদ">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -87,12 +90,10 @@ available. -->
 <!ENTITY updateApplication.version.pre   "সংস্করণ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
-
-
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-
-
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "হালনাগাদের ইতিহাস দেখাও…">
 <!ENTITY updateHistory2.accesskey        "p">
@@ -122,20 +123,14 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">
-
-
-
-
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "কার্যকারিতা">
-
-
-
-<!ENTITY performanceSettingsLearnMore.label "আরও জানুন">
-
-
-
-
-
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "আরও জানুন">
+<!ENTITY limitContentProcessOption.accesskey   "">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
 <!ENTITY allowHWAccel.accesskey          "r">
