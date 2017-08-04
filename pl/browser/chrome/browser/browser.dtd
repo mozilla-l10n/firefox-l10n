@@ -794,6 +794,4 @@
 
 <!ENTITY sendToDevice.label2 "Wyślij na urządzenie">
 <!ENTITY sendToDevice.viewTitle "Wysyłanie na urządzenie">
-<!ENTITY sendToDevice.fxaRequired.label "Wymagane">
-<!ENTITY sendToDevice.noDevices.label "Brak dostępnych urządzeń">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
