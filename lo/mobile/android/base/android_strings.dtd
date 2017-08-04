@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "ລົບລ້າງຂໍ້ມູນສ່ວນຕົວເມື່ອທ່ານອອກ">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ຈະລົບລ້າງຂໍ້ມູນຂອງທ່ານແບບອັດຕະໂນມັດທຸກຄັ້ງທີ່ທ່ານເລືອກ \u0022Quit\u0022 ຈາກລາຍການຫລັກ">
 <!ENTITY pref_clear_on_exit_dialog_title "ເລືອກຂໍ້ມູນທີ່ຕ້ອງການລົບລ້າງ">
-<!ENTITY pref_plugins "ປັກອິນ">
-<!ENTITY pref_plugins_enabled "ເປີດໃຊ້ງານແລ້ວ">
-<!ENTITY pref_plugins_tap_to_play2 "ແຕະເພື່ອຫລີ້ນ">
-<!ENTITY pref_plugins_disabled "ໄດ້ປິດໃຊ້ງານແລ້ວ">
 <!ENTITY pref_restore_tabs "ກູ້ຄືນແທັບ">
 <!ENTITY pref_restore_always "ເອີ້ນກັບຄືນຢູ່ສະເຫມີ">
 <!ENTITY pref_restore_quit "ບໍ່ຕ້ອງເອີ້ນກັບຄືນຫລັງຈາກອອກຈາກ &brandShortName;">
@@ -548,6 +544,7 @@
 <!ENTITY page_removed "ຫນ້າເວັບໄຊທ໌ໄດ້ຖືກລົບອອກແລ້ວ">
 
 <!ENTITY bookmark_edit_title "ແກ້ໄຂບຸກມາກສ໌">
+<!ENTITY bookmark_edit_folder_title "ແກ້ໄຂໂຟນເດີ">
 <!ENTITY bookmark_edit_name "ຊື່">
 <!ENTITY bookmark_edit_location "ຕຳແຫນ່ງທີ່ຢູ່">
 <!ENTITY bookmark_edit_keyword "ຄຳທື່ຕ້ອງການຄົ້ນຫາ">
