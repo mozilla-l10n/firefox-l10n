@@ -22,6 +22,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Verscion">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Carateristiche de&brandShortName;">
+<!ENTITY aboutSupport.featureName "Nomme">
+<!ENTITY aboutSupport.featureVersion "Verscion">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Carateristiche sperimentali">
 <!ENTITY aboutSupport.experimentName "Nome">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -61,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Profî">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Barcoin moltiprocesso">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Ciave Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Ciave do Serviçio de Localizaçion de Mozilla">
@@ -130,3 +136,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Diaio de Decixoin">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carateristiche pe-a proteçion di cianti dizabilitæ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Mastrussi">
+

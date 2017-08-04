@@ -41,3 +41,18 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Risolvi">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "Statistiche RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stato RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Conto da cache goagnâ">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Conto da ræ goagnâ">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Conto de tutte e domande da ræ">
+<!ENTITY aboutNetworking.rcwnOperation         "Operaçion Cache">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Arvi">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lezi">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Scrivi">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Arvi elemento">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Media curta">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Media longa">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Deviaçion standard longa">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Conto da cache lenta">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Conto da cache no lenta">
