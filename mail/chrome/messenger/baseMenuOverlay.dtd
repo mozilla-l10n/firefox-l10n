@@ -13,7 +13,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "В">
 <!ENTITY helpSafeMode.label     "Перезапуск з вимкненими додатками…">
 <!ENTITY helpSafeMode.accesskey "П">
-<!ENTITY releaseCmd2.label "Нотатки до випуску">
+<!ENTITY releaseCmd2.label "Інформація про випуск">
 <!ENTITY releaseCmd2.accesskey "в">
 <!ENTITY whatsNewCmd.label "Що нового">
 <!ENTITY whatsNewCmd.accesskey "Щ">
