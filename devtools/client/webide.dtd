@@ -76,7 +76,6 @@
 <!ENTITY details_location "Dirección">
 <!ENTITY details_manifestURL "ID de la aplicación">
 <!ENTITY details_removeProject_button "Eliminar proyecto">
-<!ENTITY details_showPrepackageLog_button "Mostrar registro previo al empaquetado">
 <!ENTITY newAppWindowTitle "Nueva aplicación">
 <!ENTITY newAppHeader "Seleccionar plantilla">
 <!ENTITY newAppLoadingTemplate "Cargando plantillas…">
