@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Awgrym:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Derbyniwch gymorth wrth canfod pethau! Chwiliwch yn yr &#x1F50E; nesaf i'r awgrymiadau chwilio.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Derbyniwch gymorth wrth ganfod pethau! Chwiliwch yn yr &#x1F50E; nesaf i'r awgrymiadau chwilio.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Newid Dewisiadau…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Newid Dewisiadau…">
