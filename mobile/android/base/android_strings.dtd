@@ -296,7 +296,7 @@
 <!ENTITY custom_tabs_hint_url_copy "Osoite kopioitu">
 
 <!ENTITY pref_pwa "Progressive Web Apps">
-<!ENTITY pref_pwa_summary "Salli verkkosovelluksien lisääminen kotinäyttöön">
+<!ENTITY pref_pwa_summary "Salli verkkosovellusten lisääminen kotinäyttöön">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Toimintavirta">
@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Poista yksityiset tiedot suljettaessa">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automaattisesti poistaa tiedot kun valitset \u0022Lopeta\u0022 päävalikosta">
 <!ENTITY pref_clear_on_exit_dialog_title "Valitse poistettavat tiedot">
-<!ENTITY pref_plugins "Liitännäiset">
-<!ENTITY pref_plugins_enabled "Käytössä">
-<!ENTITY pref_plugins_tap_to_play2 "Toista painamalla">
-<!ENTITY pref_plugins_disabled "Pois käytöstä">
 <!ENTITY pref_restore_tabs "Palauta välilehdet">
 <!ENTITY pref_restore_always "Palauta aina">
 <!ENTITY pref_restore_quit "Älä palauta sulkemisen jälkeen">
