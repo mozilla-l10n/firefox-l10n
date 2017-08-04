@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "Credenciais">
 <!ENTITY aboutLogins.update                      "Atualizar">
 <!ENTITY aboutLogins.emptyLoginText              "Manter as suas credenciais seguras">
-<!ENTITY aboutLogins.emptyLoginHint              "Inícios de sessão e credenciais que memoriza utilizando o &brandShortName; serão apresentadas aqui.">
+<!ENTITY aboutLogins.emptyLoginHint              "Inícios de sessão e credenciais que guardar utilizando o &brandShortName; irão aparecer aqui.">
