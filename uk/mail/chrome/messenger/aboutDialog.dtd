@@ -45,7 +45,7 @@
 <!ENTITY helpus.getInvolvedLink     "долучайтеся">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Нотатки до випуску">
+<!ENTITY releaseNotes.link          "Інформація про випуск">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Ліцензійна інформація">
