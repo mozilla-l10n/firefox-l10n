@@ -22,7 +22,7 @@
 
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
-<!ENTITY dataCollection.label "Dane zbietane przez program &brandShortName;">
+<!ENTITY dataCollection.label "Dane zbierane przez program &brandShortName;">
 <!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonaliż program &brandShortName; dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem osobistych danych.">
 <!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
 <!ENTITY enableHealthReport1.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
