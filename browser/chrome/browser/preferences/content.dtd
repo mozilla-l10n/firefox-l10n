@@ -54,5 +54,6 @@
 
 <!ENTITY  drmContent2.label              "Digital Rights Management (DRM) innihald">
 
-
+<!ENTITY  playDRMContent2.label          "Spila DRM stjórnuðu innihaldi">
+<!ENTITY  playDRMContent2.accesskey      "p">
 <!ENTITY  playDRMContent.learnMore.label "Vita meira">
