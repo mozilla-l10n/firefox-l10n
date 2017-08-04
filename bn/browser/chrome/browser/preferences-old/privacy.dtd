@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
 <!ENTITY changeBlockList.label          "ব্লক তালিকা পরিবর্তন করুন C">
 <!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "এছাড়াও আপনি ">
 <!ENTITY  doNotTrack.settings.label     "আপনার Do Not Track পরিচালনা করুন">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -43,7 +43,7 @@
 <!ENTITY  suggestionSettings.label      "সার্চ ইঞ্জিন পরামর্শের জন্য অগ্রাধিকার পরিবর্তন করুন g...">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
@@ -71,10 +71,10 @@
 <!ENTITY  historyHeader.post.label         "ইতিহাস">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; আপনার ব্রাউজিং, ডাউনলোড, ফরম এবং অনুসন্ধানের ইতিহাস মনে রাখবে এবং পরিদর্শিত ওয়েবসাইটের কুকি সংরক্ষণ করবে।">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "আপনি প্রয়োজনে ">
 <!ENTITY  rememberActions.clearHistory.label  "আপনার সাম্প্রতিক ইতিহাস মুছে ফেলতে">
 <!ENTITY  rememberActions.middle.label        ", বা ">
@@ -82,9 +82,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; একান্ত ব্রাউজিং এর মতোই সেটিং ব্যবহার করবে, এবং আপনার ব্রাউজিং এর কোন তথ্য সংরক্ষণ করবে না।">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "আপনি চাইলে ">
 <!ENTITY  dontrememberActions.clearHistory.label "বর্তমান সব ইতিহাস মুছে ফেলা হবে">
 <!ENTITY  dontrememberActions.post.label         ".">
