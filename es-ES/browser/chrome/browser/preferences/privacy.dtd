@@ -19,8 +19,8 @@
 <!ENTITY trackingProtectionPBM6.label "Usar protección contra rastreo en la navegación privada para bloquear los rastreadores conocidos">
 <!ENTITY trackingProtectionPBM6.accesskey "d">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
-<!ENTITY changeBlockList.label "Cambiar lista de bloqueo">
-<!ENTITY changeBlockList.accesskey "l">
+<!ENTITY changeBlockList2.label "Cambiar lista de bloqueo…">
+<!ENTITY changeBlockList2.accesskey "l">
 <!ENTITY doNotTrack.description 'Enviar a los sitios web una señal "No rastrearme".'>
 <!ENTITY doNotTrack.learnMore.label "Saber más">
 <!ENTITY doNotTrack.default.label "Solo al usar la protección contra rastreo">
@@ -29,8 +29,8 @@
 <!ENTITY permissions.label "Permisos">
 <!ENTITY addressBar.label "Barra de direcciones">
 <!ENTITY addressBar.suggest.label "Al usar la barra de direcciones, sugerir">
-<!ENTITY locbar.history.label "Historial">
-<!ENTITY locbar.history.accesskey "H">
+<!ENTITY locbar.history2.label "Historial de navegación">
+<!ENTITY locbar.history2.accesskey "t">
 <!ENTITY locbar.bookmarks.label "Marcadores">
 <!ENTITY locbar.bookmarks.accesskey "M">
 <!ENTITY locbar.openpage.label "Abrir pestañas">
@@ -38,8 +38,8 @@
 <!ENTITY locbar.searches.label "Búsquedas relacionadas del buscador por defecto">
 <!ENTITY locbar.searches.accesskey "B">
 <!ENTITY suggestionSettings2.label "Cambiar preferencias de sugerencias de buscadores">
-<!ENTITY acceptCookies.label "Aceptar cookies">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies2.label "Aceptar cookies de sitios web">
+<!ENTITY acceptCookies2.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Aceptar las cookies de terceras partes:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Siempre">

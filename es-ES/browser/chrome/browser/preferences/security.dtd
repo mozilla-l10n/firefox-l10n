@@ -4,8 +4,8 @@
 
 <!ENTITY security.label "Seguridad">
 <!ENTITY phishingProtection.label "Protección contra phishing">
-<!ENTITY warnOnAddonInstall.label "Advertirle cuando los sitios intenten instalar complementos">
-<!ENTITY warnOnAddonInstall.accesskey "A">
+<!ENTITY warnOnAddonInstall2.label "Advertirle cuando los sitios web intenten instalar complementos">
+<!ENTITY warnOnAddonInstall2.accesskey "A">
 <!ENTITY enableSafeBrowsing.label "Bloquear contenido peligroso y engañoso">
 <!ENTITY enableSafeBrowsing.accesskey "B">
 <!ENTITY blockDownloads.label "Bloquear descargas peligrosas">
@@ -15,8 +15,8 @@
 <!ENTITY addonExceptions.label "Excepciones…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY formsAndPasswords.label "Formularios y contraseñas">
-<!ENTITY rememberLogins1.label "Recordar usuarios y contraseñas de sitios">
-<!ENTITY rememberLogins1.accesskey "R">
+<!ENTITY rememberLogins2.label "Recordar nombres de usuario y contraseñas de los sitios web">
+<!ENTITY rememberLogins2.accesskey "R">
 <!ENTITY passwordExceptions.label "Excepciones…">
 <!ENTITY passwordExceptions.accesskey "x">
 <!ENTITY useMasterPassword.label "Usar una contraseña maestra">
