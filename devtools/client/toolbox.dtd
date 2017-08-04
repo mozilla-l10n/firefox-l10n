@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Activer le débogage distant">
 <!ENTITY options.enableRemote.tooltip2  "Activer cette option permettra de déboguer grâce aux outils de développement, une instance distante telle que Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Activer le débogage des workers (en développement)">
-<!ENTITY options.enableWorkers.tooltip  "Activer cette option permettra aux outils de développement de déboguer les workers">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
