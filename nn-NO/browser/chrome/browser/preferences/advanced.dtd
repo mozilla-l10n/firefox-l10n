@@ -137,7 +137,7 @@ available. -->
 
 <!ENTITY performance.label               "Yting">
 <!ENTITY useRecommendedPerformanceSettings2.label
-                                         "Bruk tilrådde ytingsinnstillingar">
+                                         "Bruk tilrådde ytings-innstillingar">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Desse innstillingane er skreddarsydd til datamaskinas maskinvare og operativsystem.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
