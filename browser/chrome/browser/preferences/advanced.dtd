@@ -29,7 +29,8 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Gagna skýrsla er óvirk í þessari útgáfu">
 
-
+<!ENTITY enableHealthReport1.label       "Leyfa &brandShortName; að senda sjálkrafa tæknilegar og notkunar upplýsingar til Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 
@@ -124,10 +125,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "S">
 <!ENTITY enableOCSP.label                "Senda fyrirspurn á OCSP þjóna til að staðfesta hvort núverandi skírteini séu gild">
 <!ENTITY enableOCSP.accesskey            "S">
-
-
-
-
+<!ENTITY viewCerts2.label                "Skoða skilríki…">
+<!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Öryggistæki…">
+<!ENTITY viewSecurityDevices2.accesskey  "y">
 
 <!ENTITY performance.label               "Afköst">
 <!ENTITY useRecommendedPerformanceSettings2.label "Nota afkastastillingar sem er mælt með">

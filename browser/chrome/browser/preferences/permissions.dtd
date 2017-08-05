@@ -5,11 +5,12 @@
 <!ENTITY window.title                 "Undanþágur">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "Vefsvæði">
 <!ENTITY treehead.status.label        "Staða">
-
-
-
-
+<!ENTITY removepermission2.label      "Fjarlægja vefsvæði">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "Fjarlægja öll vefsvæði">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "Vistfang vefsvæðis:">
 <!ENTITY address.accesskey            "V">
 <!ENTITY block.label                  "Loka á">
