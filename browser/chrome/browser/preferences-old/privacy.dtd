@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Змяніць налады для падказак пашукавіка…">
 <!ENTITY  suggestionSettings.accesskey  "п">
 
-<!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">
-<!ENTITY  acceptCookies.accesskey       "П">
+<!ENTITY  acceptCookies2.label          "Прымаць кукі з вэб-сайтаў">
+<!ENTITY  acceptCookies2.accesskey      "П">
 
 <!ENTITY  acceptThirdParty.pre.label      "Прымаць кукі з пабочных сайтаў:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "п">
