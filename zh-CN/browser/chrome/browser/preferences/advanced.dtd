@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "详细了解">
 
 <!ENTITY dataCollection.label            "&brandShortName; 数据收集与使用">
-<!ENTITY dataCollectionDesc.label        "我们努力为您提供选择权，并保证只收集我们为大家提供和改进 &brandShortName; 所需的信息。我们只会在征得您的同意后才会发送个人信息。">
+<!ENTITY dataCollectionDesc.label        "我们努力为您提供选择权，并保证只收集我们为大家提供和改进 &brandShortName; 所需的信息。我们仅在征得您的同意后才会发送个人信息。">
 <!ENTITY dataCollectionPrivacyNotice.label    "隐私声明">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "允许 &brandShortName; 向 Mozilla 发送错误报告">
