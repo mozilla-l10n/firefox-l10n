@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "ک">
 <!ENTITY viewCustomizeToolbar.label       "سفارشی‌سازی…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "س">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "سفارشی‌سازی نوار ابزار…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "س">
 
 <!ENTITY historyMenu.label "تاریخچه">
 <!ENTITY historyMenu.accesskey "ت">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
-
+<!ENTITY appMenuHistory.recentHistory.label "تاریخچهٔ اخیر">
 <!ENTITY appMenuHelp.label "راهنما">
 <!ENTITY appMenuHelp.tooltip "باز کردن منوراهنما">
 
@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "کنش‌های صفحه">
+<!ENTITY pageAction.addToUrlbar.label "اضافه کردن به نوار آدرس">
+<!ENTITY pageAction.removeFromUrlbar.label "حذف از نوار آدرس">
 
-
-
+<!ENTITY sendToDevice.label2 "ارسال به دستگاه">
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">

@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "عرضه پیشنهادهای جست‌وجو">
 <!ENTITY provideSearchSuggestions.accesskey    "ج">
 
-
+<!ENTITY showURLBarSuggestions2.label           "نمایش پیشنهادهای جست‌و‌جو در نوار آدرس">
+<!ENTITY showURLBarSuggestions2.accesskey       "آ">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "پیشنهادهای جست‌وجو در نوار مکان نمایش داده نخواهد شده زیرا شما &brandShortName; را به گونه‌ای تنظیم کرده‌اید که هیچ تاریخچه‌ای را نگه ندارد.">
 
 <!ENTITY oneClickSearchEngines.label           "موتورهای جست‌وجوی تک-کلیکی">
