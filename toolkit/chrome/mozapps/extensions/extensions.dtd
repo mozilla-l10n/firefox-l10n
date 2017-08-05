@@ -107,9 +107,9 @@
 <!ENTITY cmd.uninstallAddon.label             "Slett">
 <!ENTITY cmd.uninstallAddon.accesskey         "e">
 <!ENTITY cmd.showPreferencesWin.label         "Innstillingar">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Endra innstillingane til denne utvidinga">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Endre innstillingane i denne utvidinga">
 <!ENTITY cmd.showPreferencesUnix.label        "Innstillingar">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Endra innstillingane til denne utvidinga">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Endre innstillingane i denne utvidinga">
 <!ENTITY cmd.contribute.label                 "Ver med">
 <!ENTITY cmd.contribute.accesskey             "V">
 <!ENTITY cmd.contribute.tooltip               "Bidra til utviklinga av denne utvidinga">
@@ -124,8 +124,8 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Kva er utvidingar?">
-<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpassa &brandShortName; med ekstra funksjonalitet eller annan stil. Prøv ein sidestolpe som sparer deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
-<!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauget innehalda nokre av dei beste og mest populære utvidingane som du kan prøva ut.">
+<!ENTITY discover.description2                "Utvidingar er program som lèt deg tilpasse &brandShortName; med ekstra funksjonalitet eller stil. Prøv ein sidestolpe som sparar deg tid, vêrvarsling, eller eit tema som får &brandShortName; til å sjå ut som din eigen.">
+<!ENTITY discover.footer                      "Når du er kopla til nettet vil dette vindauge innehalde nokre av dei beste og mest populære utvidingane som du kan teste.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -134,7 +134,7 @@
 <!ENTITY detail.homepage.label                "Heimeside">
 <!ENTITY detail.numberOfDownloads.label       "Nedlastingar">
 
-<!ENTITY detail.contributions.description     "Utviklaren av denne utvidinga ber om at du hjelper til med å støtta vidare utvikling ved å gje eit lite bidrag.">
+<!ENTITY detail.contributions.description     "Utviklaren av denne utvidinga ber om at du hjelper til med å støtte vidare utvikling ved å gje eit lite bidrag.">
 
 <!ENTITY detail.updateType                    "Automatiske oppdateringar">
 <!ENTITY detail.updateDefault.label           "Standard">
@@ -149,13 +149,13 @@
 
 <!ENTITY detail.checkForUpdates.label         "Sjå etter oppdateringar">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
-<!ENTITY detail.checkForUpdates.tooltip       "Søkjer etter oppdateringar for denne utvidinga">
+<!ENTITY detail.checkForUpdates.tooltip       "Ser etter oppdateringar for denne utvidinga">
 <!ENTITY detail.showPreferencesWin.label      "Innstillingar">
 <!ENTITY detail.showPreferencesWin.accesskey  "I">
-<!ENTITY detail.showPreferencesWin.tooltip    "Endra innstillingane til denne utvidinga">
+<!ENTITY detail.showPreferencesWin.tooltip    "Endre innstillingane i denne utvidinga">
 <!ENTITY detail.showPreferencesUnix.label     "Innstillingar">
 <!ENTITY detail.showPreferencesUnix.accesskey "I">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Endra innstillingane til denne utvidinga">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Endre innstillingane i denne utvidinga">
 
 
 <!-- ratings -->
@@ -210,26 +210,26 @@
 <!ENTITY addon.updateNow.tooltip              "Installer oppdateringa for denne utvidinga">
 <!ENTITY addon.includeUpdate.label            "Inkluder i oppdateringa">
 <!ENTITY addon.updateAvailable.label          "Ei oppdatering er tilgjengeleg">
-<!ENTITY addon.checkingForUpdates.label       "Ser etter oppdateringer …">
+<!ENTITY addon.checkingForUpdates.label       "Ser etter oppdateringer…">
 <!ENTITY addon.releaseNotes.label             "Versjonsnotat:">
-<!ENTITY addon.loadingReleaseNotes.label      "Lastar …">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Orsak, men ein feil oppstod under lasting av versjonsnotatet.">
+<!ENTITY addon.loadingReleaseNotes.label      "Lastar…">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Beklagar, men det oppstod ein feil under lasting av versjonsnotatet.">
 
 <!ENTITY addon.createdBy.label                "Av ">
 
 <!ENTITY eula.title                           "Sluttbrukaravtale">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Godta og installer …">
+<!ENTITY eula.accept                          "Godta og installer…">
 
-<!ENTITY settings.path.button.label           "Bla gjennom …">
+<!ENTITY settings.path.button.label           "Bla gjennom…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Kva er dette? Telemetri kan installera og køyra eksperiment med jamne mellomrom.">
+<!ENTITY experiment.info.label "Kva er dette? Telemetri kan installere og køyre eksperiment med jamne mellomrom.">
 <!ENTITY experiment.info.learnmore "Les meir">
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "Telemetri-innstillingar">
@@ -242,13 +242,13 @@
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Desse utvidingane har ikkje blitt kontrollert for bruk i &brandShortName;. Du kan ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "finna erstatningar">
-<!ENTITY disabledUnsigned.description.end " eller spørja utviklaren om å få dei stadfesta.">
+<!ENTITY disabledUnsigned.description.findAddonsLink "finne erstatningar">
+<!ENTITY disabledUnsigned.description.end " eller spørje utviklaren om å få dei stadfesta.">
 <!ENTITY disabledUnsigned.learnMore "Les meir om tiltaka våre for å halde deg trygg på nettet.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Utviklarar som er interesserte i å få utvidingane sine stadfesta kan fortsette ved å lesa ">
+<!ENTITY disabledUnsigned.devInfo.start "Utviklarar som er interesserte i å få utvidingane sine stadfesta kan fortsetje ved å lese ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manualen vår">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
