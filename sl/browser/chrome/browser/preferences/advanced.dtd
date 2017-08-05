@@ -95,11 +95,11 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Različica ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; naj">
-<!ENTITY updateAuto3.label               "Samodejno nameščaj posodobitve (priporočeno)">
+<!ENTITY updateAuto3.label               "samodejno namešča posodobitve (priporočeno)">
 <!ENTITY updateAuto3.accesskey           "S">
-<!ENTITY updateCheckChoose2.label        "Preverja posodobitve, vendar vam prepusti odločitev o nameščanju">
+<!ENTITY updateCheckChoose2.label        "preverja posodobitve, vendar vam prepusti odločitev o nameščanju">
 <!ENTITY updateCheckChoose2.accesskey    "o">
-<!ENTITY updateManual2.label             "Nikoli ne preverja posodobitev (ni priporočeno)">
+<!ENTITY updateManual2.label             "nikoli ne preverja posodobitev (ni priporočeno)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Prikaži zgodovino posodobitev …">
