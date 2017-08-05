@@ -22,7 +22,7 @@
 <!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
-<!ENTITY fxaSyncDeviceName.label       "Einingsnamn">
+<!ENTITY fxaSyncDeviceName.label       "Namn på eininga">
 <!ENTITY changeSyncDeviceName2.label "Endre namn på eininga…">
 <!ENTITY changeSyncDeviceName2.accesskey "E">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
