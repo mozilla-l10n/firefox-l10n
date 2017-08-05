@@ -101,7 +101,7 @@ available. -->
 <!ENTITY useService.accesskey            "B">
 
 <!ENTITY autoUpdateOthers.label          "Automatisk oppdatering">
-<!ENTITY enableSearchUpdate.label        "Søkemotorar">
+<!ENTITY enableSearchUpdate.label        "Søkjemotorar">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
 <!ENTITY offlineStorageNotify.label               "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">

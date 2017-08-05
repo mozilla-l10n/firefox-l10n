@@ -108,7 +108,7 @@ available. -->
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
-<!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorar automatisk">
+<!ENTITY enableSearchUpdate2.label       "Oppdater søkjemotorar automatisk">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">
