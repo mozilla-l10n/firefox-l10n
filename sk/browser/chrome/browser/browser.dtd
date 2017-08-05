@@ -365,11 +365,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Zobraziť ďalšie">
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Zobrazí ďalšie karty z tohoto zariadenia">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Zobrazí ďalšie karty z tohto zariadenia">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Zobraziť všetky">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Zobrazí všetky karty z tohoto zariadenia">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Zobrazí všetky karty z tohto zariadenia">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">

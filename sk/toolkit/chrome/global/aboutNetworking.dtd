@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Odoslané bajty">
 <!ENTITY aboutNetworking.bytesReceived         "Prijaté bajty">
 <!ENTITY aboutNetworking.logging               "Záznam">
-<!ENTITY aboutNetworking.logTutorial           "Pre informácie o používaní tohoto nástroja prosím navštívte stránku <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
+<!ENTITY aboutNetworking.logTutorial           "Ak sa chcete dozvedieť informácie o používaní tohto nástroja, prosím, navštívte stránku <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
 <!ENTITY aboutNetworking.currentLogFile        "Aktuálny súbor protokolu:">
 <!ENTITY aboutNetworking.currentLogModules     "Aktuálne moduly protokolu:">
 <!ENTITY aboutNetworking.setLogFile            "Nastaviť súbor protokolu">
