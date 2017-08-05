@@ -11,6 +11,7 @@
 
 <!ENTITY  overrideDefaultPageColors.always.label "Palagi">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Tanging may mga tema ng High Contrast">
+<!ENTITY  overrideDefaultPageColors.never.label  "Hindi kailanman">
 
 <!ENTITY  color                           "Teksto at Background">
 <!ENTITY  textColor.label                 "Teksto:">
