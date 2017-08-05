@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY window.size                  "width: 45em; height: 32em;">
-<!-- First wizard page -->
 
+<!ENTITY newprofile.title             "Lumikha ng Profile Wizard">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
+
+<!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; nakaimbak na impormasyon tungkol sayong pinagmulan at kagustohang pagkakilanlan.">
 <!ENTITY profileCreationExplanation_2.text  "Kung ikaw ay magbabahagi ng kopya ng &brandShortName; sa ibang mga gumagamit, maaari kang gumamit ng profile upang panatilihing hiwalay ang impormasyon ng bawat user. Upang gawin ito, ang bawat gumagamit ay dapat na lumikha ng kanyang sariling profile.">
 <!ENTITY profileCreationExplanation_3.text  "Kung ikaw ay ang tanging tao na gagamit ng kopya ng &brandShortName;, kailangan mong magkaroon ng hindi bababa sa isang profile. Kung nais mo, maaari kang lumikha ng maramihang mga profile para sa iyong sarili upang i-imbak ang mga iba't ibang mga hanay ng mga setting at kagustuhan. Halimbawa, maaaring gusto mong magkaroon ng hiwalay na mga profile para sa negosyo at personal na paggamit.">
 <!ENTITY profileCreationExplanation_4.text  "Upang simulan ang paglikha ng iyong propayl, i-click ang Susunod.">
-
+<!ENTITY profileCreationExplanation_4Mac.text  "Upang simulan ang paglikha ng iyong profile, i-click ang Magpatuloy.">
 <!ENTITY profileCreationExplanation_4Gnome.text  "Upang simulan ang paglikha ng iyong propayl, i-click ang Susunod.">
-<!-- Second wizard page -->
 
+<!-- Second wizard page -->
 <!ENTITY profileCreationIntro.text      "Kung ikaw ay nakagawa ng maraming profiles, puwede mong hiawa-hiwalayin sila sa pamamagitan ng profile names. Puwede mong gamitin ang mga pangalan na nakalagay dito o gamitin mo kung ano ang gusto mo.">
 <!ENTITY profilePrompt.label            "Itala ang bagong profile name:">
 <!ENTITY profilePrompt.accesskey        "e">

@@ -5,4 +5,5 @@
 <!ENTITY window.title              "Mamili ng Folder">
 <!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "Ilipat sa:">
+<!ENTITY newFolderButton.label     "Bagong Folder">
 <!ENTITY newFolderButton.accesskey "N">

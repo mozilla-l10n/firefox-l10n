@@ -2,13 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  updateWizard.title              "&brandShortName; Update">
 
+<!ENTITY  offline.title                   "&BrandShortName; Ay gumagana sa offline">
+<!ENTITY  offline.description             "&BrandShortName; Kailangang mag-online upang makita kung ang mga update
+                                           ay magagamit para sa iyong mga add-on upang gawin itong katugma sa ito
+                                           bersyon.">
 <!ENTITY  offline.toggleOffline.label     "Mag-online na ngayon.">
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
 <!ENTITY  mismatch.win.title              "Incompatible na Add-ons">
 <!ENTITY  mismatch.top.label              "Ang mga sumusunod na add-ons ay hindi compatible sa version na ito ng &brandShortName; kaya ito ay naka-disable:">
-
+<!ENTITY  mismatch.bottom.label           "&BrandShortName; Maaaring suriin kung may magkatugma na mga bersyon
+                                           ng mga add-on na magagamit.">
 
 <!ENTITY  checking.wizard.title           "Naghahanap ng Compatible na Add-ons">
 <!ENTITY  checking.top.label              "Naghahanap ng updates para sa add-ons na incompatible…">
@@ -28,7 +34,8 @@
 <!ENTITY  noupdates.error.desc            "Nagkaroon ng problema habang naghahanap ng updates.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ay mag check paminsan-minsan at I-inform ka kung mayroon na compatible updates para sa add-ons na nahanap.">
 
-
+<!ENTITY  finished.wizard.title           "Naka-install na ang mga katugmang Add-on">
+<!ENTITY  finished.top.label              "&BrandShortName; Na-install na ang mga update sa iyong mga add-on.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName;kayang mag check paminsan-minsan at I-inform ka kung merong updates para sa add-ons na nahanap.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName;ay mag check paminsan-minsan at I-inform ka kung merong updates para sa add-ons na nahanap.">
 
@@ -40,9 +47,10 @@
 <!ENTITY  versioninfo.waiting             "Maghintay po ng ilang sandali…">
 
 <!ENTITY  installerrors.wizard.title      "Nagkaproblema habang iniinstall ang updates">
+<!ENTITY  installerrors.intro.label       "&BrandShortName; Nakatagpo ng mga problema kapag nag-a-update
+                                           Ilan sa iyong mga add-on.">
 
 <!-- general strings used by several of the finish pages -->
-
 <!ENTITY  clickFinish.label               "Lagatikin ang Tapos upang magpatuloy sa &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Lagatikin ang Tigil upang magpatuloy sa &brandShortName;.">
-
+<!ENTITY  enableChecking.label            "Payagan ang &brandShortName; upang suriin ang mga update.">

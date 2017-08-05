@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "I-install ang Add-on">
+<!ENTITY intro           "Ang isa pang programa sa iyong computer ay nais na baguhin
+                          &BrandShortName; gamit ang sumusunod na add-on:">
 <!ENTITY warning         "Mag-install lamang ng add-ons na mula sa pinagkakatiwalaang authors.">
 <!ENTITY allow           "Pahintulutan ang installation">
 <!ENTITY later           "Maari mong baguhin ang iyong add-ons kahit kailan pumunta lamang sa Add-ons Manager.">
 <!ENTITY continue        "Magpatuloy">
+<!ENTITY restartMessage  "Dapat mong i-restart ang &brandShortName; upang matapos ang pag-install ng add-on na ito.">
 <!ENTITY restartButton   "Mag-restart &brandShortName;">
 <!ENTITY cancelButton    "Kanselahin">

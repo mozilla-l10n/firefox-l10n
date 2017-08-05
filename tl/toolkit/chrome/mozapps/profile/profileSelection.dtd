@@ -10,7 +10,7 @@
 <!ENTITY            profilename.label      "Ngalan ng Profile:">
 
 <!ENTITY            start.label            "Simulan ang &brandShortName;">
-
+<!ENTITY            exit.label             "Lumabas">
 
 <!ENTITY            availprofiles.label    "Mga Magagamit na Pangunahing File">
 
@@ -20,11 +20,12 @@
 <!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Burahin ang Profile…">
 <!ENTITY            deleteButton.accesskey "B">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; nakaimbak na impormasyon tungkol sayong pinagmulan at kagustohang pagkakilanlan.">
 
 <!ENTITY            offlineState.label    "Matrabaho nang offline">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "Gamitin ang napiling profile nang walang pagtatanong sa startup">
+<!ENTITY            useSelected.accesskey   "s">

@@ -6,7 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "I-override ang mga kulay na tinukoy ng pahina sa iyong mga pagpipilian sa itaas:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Palagi">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Tanging may mga tema ng High Contrast">
 
 <!ENTITY  color                           "Teksto at Background">
 <!ENTITY  textColor.label                 "Teksto:">
