@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "Butiran aplikasi">
-<!ENTITY appManager.style     "lebar: 30em; tinggi-min: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Alih keluar">
-<!ENTITY remove.accesskey     "R">
+<!ENTITY remove.accesskey     "A">
