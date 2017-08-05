@@ -14,18 +14,18 @@
 
 <!ENTITY            availprofiles.label    "Tilgjengelege profilar">
 
-<!ENTITY            newButton.label        "Lag ny profil …">
+<!ENTITY            newButton.label        "Lag ny profil…">
 <!ENTITY            newButton.accesskey    "L">
-<!ENTITY            renameButton.label     "Endra profilnamn …">
+<!ENTITY            renameButton.label     "Endre profilnamn…">
 <!ENTITY            renameButton.accesskey "E">
 <!ENTITY            deleteButton.label     "Slett profil…">
 <!ENTITY            deleteButton.accesskey "S">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; lagrar informasjon om innstillingane, vala og anna i brukarprofilen din.">
 
 <!ENTITY            offlineState.label    "Arbeid fråkopla">
 <!ENTITY            offlineState.accesskey "A">
 
-<!ENTITY            useSelected.label       "Bruk den valde profilen utan å spørja ved oppstart">
+<!ENTITY            useSelected.label       "Bruk den valde profilen utan å spørje ved oppstart">
 <!ENTITY            useSelected.accesskey   "B">
