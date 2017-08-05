@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Выключэнні">
 <!ENTITY window.width                 "38em">
 
-<!ENTITY treehead.sitename.label      "Сайт">
+<!ENTITY treehead.sitename2.label     "Вэб-сайт">
 <!ENTITY treehead.status.label        "Статус">
-<!ENTITY removepermission.label       "Выдаліць сайт">
-<!ENTITY removepermission.accesskey   "д">
-<!ENTITY removeallpermissions.label   "Выдаліць усе сайты">
-<!ENTITY removeallpermissions.accesskey "у">
+<!ENTITY removepermission2.label      "Выдаліць вэб-сайт">
+<!ENTITY removepermission2.accesskey  "В">
+<!ENTITY removeallpermissions2.label  "Выдаліць усе вэб-сайты">
+<!ENTITY removeallpermissions2.accesskey "ы">
 <!ENTITY address.label                "Адрас вэб-сайта:">
 <!ENTITY address.accesskey            "А">
 <!ENTITY block.label                  "Блакаваць">
