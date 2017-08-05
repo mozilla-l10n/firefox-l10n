@@ -69,14 +69,14 @@
 <!ENTITY updates.updating.label               "Oppdaterer utvidingane">
 <!ENTITY updates.installed.label              "Utvidingane er oppdaterte">
 <!ENTITY updates.downloaded.label             "Oppdateringar til utvidingane er lasta ned.">
-<!ENTITY updates.restart.label                "Start på nytt no for å fullføra installeringa">
+<!ENTITY updates.restart.label                "Start på nytt no for å fullføre installeringa">
 <!ENTITY updates.noneFound.label              "Fann ingen oppdateringar">
 <!ENTITY updates.manualUpdatesFound.label     "Vis tilgjengelege oppdateringar">
 <!ENTITY updates.updateSelected.label         "Installer oppdateringane">
 <!ENTITY updates.updateSelected.tooltip       "Installer tilgjengelege oppdateringar i denne lista">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Vis detaljar">
+<!ENTITY cmd.showDetails.label                "Vis meir informasjon">
 <!ENTITY cmd.showDetails.accesskey            "V">
 <!ENTITY cmd.findUpdates.label                "Sjå etter oppdateringar">
 <!ENTITY cmd.findUpdates.accesskey            "S">
@@ -93,10 +93,10 @@
 <!ENTITY cmd.disableAddon.accesskey           "a">
 <!ENTITY cmd.enableTheme.label                "Bruk temaet">
 <!ENTITY cmd.enableTheme.accesskey            "B">
-<!ENTITY cmd.disableTheme.label               "Slutt å bruka temaet">
+<!ENTITY cmd.disableTheme.label               "Slutt å bruke temaet">
 <!ENTITY cmd.disableTheme.accesskey           "b">
 <!ENTITY cmd.askToActivate.label              "Spør for å aktivere">
-<!ENTITY cmd.askToActivate.tooltip            "Spør kvar gong for å bruka denne utvidinga">
+<!ENTITY cmd.askToActivate.tooltip            "Spør kvar gong for å bruke denne utvidinga">
 <!ENTITY cmd.alwaysActivate.label             "Alltid aktiver">
 <!ENTITY cmd.alwaysActivate.tooltip           "Alltid bruk denne utvidinga">
 <!ENTITY cmd.neverActivate.label              "Aldri aktiver">
