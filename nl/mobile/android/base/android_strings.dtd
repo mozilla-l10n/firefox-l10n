@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Privégegevens wissen bij afsluiten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; zal automatisch uw gegevens wissen als u \u2018Afsluiten\u2019 selecteert in het hoofdmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecteer welke gegevens u wilt wissen">
-<!ENTITY pref_plugins "Plug-ins">
-<!ENTITY pref_plugins_enabled "Ingeschakeld">
-<!ENTITY pref_plugins_tap_to_play2 "Aanraken voor afspelen">
-<!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_restore_tabs "Tabbladen herstellen">
 <!ENTITY pref_restore_always "Altijd herstellen">
 <!ENTITY pref_restore_quit "Niet herstellen na afsluiten van &brandShortName;">
@@ -854,3 +850,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Welkom bij uw Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; maakt nu highlights aan van dingen die u op het web hebt ontdekt, zodat u interessante artikelen, video’s, bladwijzers en andere pagina’s makkelijk kunt terugvinden.">
+
+<!ENTITY private_tab_panel_title "Privénavigatie + Bescherming tegen volgen">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkeert onderdelen van de pagina’s die uw surfactiviteit zouden kunnen volgen.">
+<!ENTITY private_tab_panel_description2 "Er wordt geen geschiedenis onthouden, maar gedownloade bestanden en nieuwe bladwijzers worden wel op uw apparaat opgeslagen.">
+<!ENTITY private_tab_learn_more "Wilt u meer weten?">
