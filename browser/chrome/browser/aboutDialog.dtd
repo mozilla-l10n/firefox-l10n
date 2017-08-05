@@ -45,7 +45,7 @@
 <!ENTITY helpus.donateLink          "Gje ei pengegåve">
 <!ENTITY helpus.middle              " eller ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "bli med!">
+<!ENTITY helpus.getInvolvedLink     "ver med!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Kva er nytt">
