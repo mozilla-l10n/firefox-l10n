@@ -11,4 +11,4 @@
 <!ENTITY aboutAccounts.noConnection.description "ನೀವು ಸೈನ್‌ಇನ್‌ ಮಾಡಲು ಅಂತರಜಾಲಕ್ಕೆ ಸಂಪರ್ಕ ಹೊಂದಿರಬೇಕಾಗುತ್ತದೆ.">
 <!ENTITY aboutAccounts.noConnection.retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸು">
 <!ENTITY aboutAccounts.badConfig.title "ತಪ್ಪಾದ ಸಂರಚನೆ">
-
+<!ENTITY aboutAccounts.badConfig.description "ನಿಮ್ಮ ಫೈರ್‌ಫಾಕ್ಸ್ ಸರ್ವರ್ ಆಯ್ಕೆಗಳನ್ನು ನಿರ್ಧರಿಸಲು ಆಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">

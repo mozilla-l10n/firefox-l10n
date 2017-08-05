@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Check ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-
+<!ENTITY update.updateButton.label3               "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
