@@ -4,7 +4,8 @@
 
 <!ENTITY startup.label             "आरंभन">
 
-
+<!ENTITY startupPage2.label        "जब &brandShortName; आरंभ होता है: ">
+<!ENTITY startupPage2.accesskey    "आ">
 <!ENTITY startupUserHomePage.label "आपका होम पेज दिखाएँ">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
 <!ENTITY startupPrevSession.label  "पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ">
