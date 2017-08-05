@@ -18,7 +18,7 @@
 <!ENTITY spellAddToDictionary.label "Toevoegen aan woordenboek">
 <!ENTITY spellAddToDictionary.accesskey "T">
 <!ENTITY spellUndoAddToDictionary.label "Toevoegen aan woordenboek ongedaan maken">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.accesskey "r">
 <!ENTITY spellCheckToggle.label "Spelling controleren">
 <!ENTITY spellCheckToggle.accesskey "c">
 <!ENTITY spellNoSuggestions.label "(Geen spellingsuggesties)">
