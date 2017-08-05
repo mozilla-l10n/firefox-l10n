@@ -65,7 +65,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Buang Panel Previu">
 <!ENTITY cmd.clearList2.accesskey         "a">
-<!ENTITY cmd.clearDownloads.label         "Padam Muat turun">
+<!ENTITY cmd.clearDownloads.label         "Buang Muat turun">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -134,9 +134,13 @@
 <!ENTITY downloadsHistory.label           "Papar Semua Muat turun">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "Buka Folder Muat turun">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Buka Folder Muat turun">
 
-<!ENTITY clearDownloadsButton.label       "Padam Muat turun">
+<!ENTITY clearDownloadsButton.label       "Buang Muat turun">
 <!ENTITY clearDownloadsButton.tooltip     "Hapuskan yang telah selesai, batal dan gagalkan muat turun">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):

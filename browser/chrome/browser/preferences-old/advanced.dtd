@@ -77,9 +77,9 @@ available. -->
 <!ENTITY limitCacheSizeBefore.label      "Had cache kepada">
 <!ENTITY limitCacheSizeBefore.accesskey  "d">
 <!ENTITY limitCacheSizeAfter.label       "MB daripada ruang">
-<!ENTITY clearCacheNow.label             "Padam Sekarang">
+<!ENTITY clearCacheNow.label             "Buang Sekarang">
 <!ENTITY clearCacheNow.accesskey         "g">
-<!ENTITY clearOfflineAppCacheNow.label   "Padam Sekarang">
+<!ENTITY clearOfflineAppCacheNow.label   "Buang Sekarang">
 <!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "Sampukan automatik pengurusan cache">
 <!ENTITY overrideSmartCacheSize.accesskey "O">
