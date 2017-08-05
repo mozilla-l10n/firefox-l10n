@@ -11,7 +11,7 @@
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-<!ENTITY searchreset.selector.label "Dette vil stille inn standard søkemotor til">
+<!ENTITY searchreset.selector.label "Dette vil stille inn standard søkjemotor til">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively

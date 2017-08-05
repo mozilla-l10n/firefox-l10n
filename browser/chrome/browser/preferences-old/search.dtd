@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard søkjemotor">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Vel standard søkemotor. &brandShortName; brukar han i adresselinja, i søkjelinja og på startsida.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Vel standard søkjemotor. &brandShortName; brukar han i adresselinja, i søkjelinja og på startsida.">
 
 <!ENTITY provideSearchSuggestions.label        "Tilby søkeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
@@ -13,7 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "s">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Søkeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert &brandShortName; til å aldri hugse historikk.">
 
-<!ENTITY oneClickSearchEngines.label           "Eittklikks-søkemotorar">
+<!ENTITY oneClickSearchEngines.label           "Eittklikks-søkjemotorar">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Søkelinja lèt deg søke i andre søkemotorar direkte. Vel kva dei som skal visast.">
 
