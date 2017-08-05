@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
+<!ENTITY search.placeholder  "ಹುಡುಕು:">
 
 <!ENTITY cmd.find.key  "f">
 
