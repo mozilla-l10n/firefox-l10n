@@ -59,8 +59,8 @@
 <!ENTITY cmd.properties.accesskey  "ส">
 
 <!ENTITY cmd.sortby_name.label              "เรียงตามชื่อ">
-<!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+<!ENTITY cmd.sortby_name.accesskey          "ร">
+<!ENTITY cmd.context_sortby_name.accesskey  "ร">
 
 <!ENTITY cmd.new_bookmark.label            "ที่คั่นหน้าใหม่…">
 <!ENTITY cmd.new_bookmark.accesskey        "ม">
@@ -79,7 +79,7 @@
 <!ENTITY col.name.label          "ชื่อ">
 <!ENTITY col.tags.label          "ป้ายกำกับ">
 <!ENTITY col.url.label           "ตำแหน่งที่ตั้ง">
-<!ENTITY col.mostrecentvisit.label "เยี่ยมชมล่าสุด">
+<!ENTITY col.mostrecentvisit.label "วันที่เยี่ยมชมล่าสุด">
 <!ENTITY col.visitcount.label    "ครั้งที่เข้าชม">
 <!ENTITY col.description.label   "คำอธิบาย">
 <!ENTITY col.dateadded.label     "วันที่เพิ่ม">
@@ -111,7 +111,7 @@
 <!ENTITY bySite.accesskey         "ม">
 <!ENTITY byMostVisited.label      "ตามที่เยี่ยมชมมากที่สุด">
 <!ENTITY byMostVisited.accesskey  "ท">
-<!ENTITY byLastVisited.label      "ตามที่เยี่ยมชมล่าสุด">
+<!ENTITY byLastVisited.label      "ตามวันที่เยี่ยมชมล่าสุด">
 <!ENTITY byLastVisited.accesskey  "ย">
 <!ENTITY byDayAndSite.label       "ตามวันที่และไซต์">
 <!ENTITY byDayAndSite.accesskey   "ต">
