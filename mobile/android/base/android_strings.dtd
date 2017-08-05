@@ -544,7 +544,7 @@
 <!ENTITY page_removed "ಪುಟವನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 
 <!ENTITY bookmark_edit_title "ಪುಟ ಗುರುತನ್ನು ಸಂಪಾದಿಸು">
-
+<!ENTITY bookmark_edit_folder_title "ಕಡತಕೋಶ ಸಂಪಾದಿಸಿ">
 <!ENTITY bookmark_edit_name "ಹೆಸರು">
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
@@ -624,6 +624,8 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
+<!ENTITY home_pinned_site "ಪಿನ್‌ ಮಾಡಲಾದ ತಾಣ">
+<!ENTITY home_unpinned_site "ಪಿನ್‌ ತೆಗೆದ ತಾಣ">
 
 <!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
 <!ENTITY remote_tabs_panel_moved_desc "ನೀವು ಹೊಸ ಹಾಳೆ ತೆರೆದಾಗೆಲ್ಲ ಬಳಕೆಗೆ ಲಭ್ಯವಿರುವಂತೆ ನಿಮ್ಮ ಜಾಲ ಪುಟಕ್ಕೆ ಬೇರೆಯ ಸಾಧನಗಳಲ್ಲಿದ್ದ ಹಾಳೆಗಳನ್ನು ಜರುಗಿಸಿದ್ದೇವೆ.">
