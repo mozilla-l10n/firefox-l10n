@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "आणखी शिका">
-
+<!ENTITY  notificationsPolicyDesc4.label       "कोणती संकेतस्थळे आपल्याला सूचना पाठवू शकतात ते निवडा">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "निवडा…">
 <!ENTITY  notificationsDoNotDisturb.label      "व्यत्यय आणू नका">

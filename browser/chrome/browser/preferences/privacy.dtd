@@ -22,8 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "माहित असलेले ट्रॅकर अडवण्यावासाठी प्रायव्हेट ब्राऊझिंग मध्ये मागोवा संरक्षण वापरा">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "आणखी शिका">
-
-
+<!ENTITY changeBlockList2.label               "अवरोधित सूची बदला…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "आपल्याला ट्रॅक न करण्यासाठी वेबसाइट्सना &quot;ट्रॅक करू नका&quot; हा इशारा पाठवा">
 <!ENTITY  doNotTrack.learnMore.label    "आणखी जाणा">
@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "पत्ता पट्टी">
 <!ENTITY  addressBar.suggest.label      "पत्ता पट्टी वापरतेवेळी, सूचवा">
-
-
+<!ENTITY  locbar.history2.label         "ब्राउझिंग इतिहास">
+<!ENTITY  locbar.history2.accesskey     "h">
 <!ENTITY  locbar.bookmarks.label        "वाचनखूण">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "टॅब्स उघडा">
@@ -46,7 +46,8 @@
 
 <!ENTITY  suggestionSettings2.label     "शोध इंजिनसाठी सूचना प्राधान्यता बदला">
 
-
+<!ENTITY  acceptCookies2.label          "स्थळांकडून कूकीज स्वीकारा">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "तिसरे-पक्षीय कूकिज स्वीकारा:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
