@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Usortert">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A -> Å sorteringsrekkjefølgje">
+<!ENTITY view.sortAscending.label       "Sorteringsrekkjefølgje A -> Å">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Å -> A sorteringsrekkjefølge">
+<!ENTITY view.sortDescending.label      "Sorteringsrekkjefølgje Å -> A">
 <!ENTITY view.sortDescending.accesskey  "Å">
 
 <!ENTITY importBookmarksFromHTML.label     "Importer bokmerke frå HTML…">
