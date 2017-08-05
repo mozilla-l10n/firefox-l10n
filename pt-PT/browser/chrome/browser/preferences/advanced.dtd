@@ -90,7 +90,7 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Manter o &brandShortName; atualizado para o melhor desempenho, estabilidade, e segurança.">
+<!ENTITY updateApplicationDescription.label "Mantenha o &brandShortName; atualizado para o melhor desempenho, estabilidade, e segurança.">
 <!ENTITY updateApplication.version.pre   "Versão ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir ao &brandShortName;">
