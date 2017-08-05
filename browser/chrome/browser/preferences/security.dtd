@@ -5,7 +5,8 @@
 <!ENTITY  security.label                 "सुरक्षा">
 <!ENTITY  phishingProtection.label       "फिशिंग संरक्षण">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "फॉर्म व पासवर्ड">
 
-
+<!ENTITY  rememberLogins2.label         "साईट्ससाठी लॉगिन्स व पासवर्ड लक्षात ठेवा">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ॲड-ऑन्स्">
 <!ENTITY engine.addons.accesskey    "A">
-
-
-
-
+<!ENTITY engine.addresses.label     "पत्ते">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "क्रेडिट कार्ड्स">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "साधनाचे नाव:">
@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "साइन इन">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "प्रोफाइल प्रतिमा बदला">
-
-
+<!ENTITY verifiedManage.label        "खाते व्यवस्थापित करा">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "जोडणी मोडा…">
 <!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ईमेल सत्यापित करा">
