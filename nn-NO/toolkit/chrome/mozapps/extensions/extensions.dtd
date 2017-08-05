@@ -14,13 +14,13 @@
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringar funne">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikkje nyleg oppdatert utvidingane">
 <!ENTITY listEmpty.findUpdates.label          "Sjå etter oppdateringar">
-<!ENTITY listEmpty.search.label               "Klarte ikkje å finna passande utvidingar">
+<!ENTITY listEmpty.search.label               "Klarte ikkje å finne passande utvidingar">
 <!ENTITY listEmpty.button.label               "Les meir om utvidingar">
-<!ENTITY installAddonFromFile.label           "Installer utviding frå fil …">
+<!ENTITY installAddonFromFile.label           "Installer utviding frå fil…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Verktøy for alle utvidingane">
 
-<!ENTITY getThemes.description                "Ønskjer du å tilpassa nettlesaren din?">
+<!ENTITY getThemes.description                "Ønskjer du å tilpasse nettlesaren din?">
 <!ENTITY getThemes.learnMore                  "Vel mellom tusenvis av tema.">
 
 <!ENTITY cmd.back.tooltip                     "Gå tilbake ei side">
@@ -62,9 +62,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidingane til å oppdatera automatisk">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Tilbakestill alle utvidingane til å oppdatere automatisk">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
-<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidingane til å oppdatera manuelt">
+<!ENTITY updates.resetUpdatesToManual.label          "Tilbakestill alle utvidingane til å oppdatere manuelt">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "T">
 <!ENTITY updates.updating.label               "Oppdaterer utvidingane">
 <!ENTITY updates.installed.label              "Utvidingane er oppdaterte">
