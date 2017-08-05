@@ -39,7 +39,7 @@
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
-<!ENTITY rights.intro-point4a-unbranded "यदि यस उत्पादनले वेब सेवाहरू समेवेश गरेमा, कुनै सेवा(s) लाई लागू हुने सेवा सर्तहरू यहाँ जोडिनु पर्छ ">
+<!ENTITY rights.intro-point4a-unbranded "यदि यस उत्पादनले वेब सेवाहरू समेवेश गरेमा, कुनै सेवा(हरु) लाई लागू हुने सेवा सर्तहरू यहाँ जोडिनु पर्छ ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
 <!ENTITY rights.intro-point4c-unbranded " खण्ड।">
 

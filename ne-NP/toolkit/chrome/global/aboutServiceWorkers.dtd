@@ -7,6 +7,6 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.maintitle                 "दर्ता भएका Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers सक्षम पारिएका छैनन्।">
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers सक्षम छैनन्।">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_no_serviceworkers "कुनै पनि Service Workers दर्ता गरिएको छैन।">

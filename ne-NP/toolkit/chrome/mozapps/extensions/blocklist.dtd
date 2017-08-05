@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY blocklist.title             "एडअनले समस्या पैदा गर्न सक्छ">
+<!ENTITY blocklist.title             "Add-onsले समस्या पैदा गर्न सक्छ">
 <!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "&brandShortName; ले निर्धारित गरेकोछ कि निम्न एडअनले स्थिरता वा सुरक्षा समस्या उत्पन्न गर्न सक्दछन्:">
 <!ENTITY blocklist.softblocked       "आफ्नो सुरक्षाका लागि, तपाईँ यी एडअन असक्षम गरेर पुनः सुरु गर्न अत्यधिक सिफारिस गरिएको छ।">
