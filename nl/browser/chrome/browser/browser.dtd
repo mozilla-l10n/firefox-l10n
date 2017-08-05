@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element inspecteren">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY fileMenu.label         "Bestand"> 
+<!ENTITY fileMenu.label         "Bestand">
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Nieuw containertabblad">
 <!ENTITY newUserContext.accesskey         "c">
@@ -292,29 +292,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "r">
 <!ENTITY newNonRemoteWindow.label   "Nieuw niet-e10s-venster">
 
-<!ENTITY editMenu.label         "Bewerken"> 
-<!ENTITY editMenu.accesskey       "w"> 
-<!ENTITY undoCmd.label            "Ongedaan maken">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "O"> 
-<!ENTITY redoCmd.label            "Opnieuw uitvoeren">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "u"> 
-<!ENTITY cutCmd.label           "Knippen">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "n"> 
-<!ENTITY copyCmd.label            "Kopiëren">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Plakken">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Verwijderen">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "V"> 
-<!ENTITY selectAllCmd.label         "Alles selecteren">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "Bewerken">
+<!ENTITY editMenu.accesskey       "w">
+<!ENTITY undoCmd.label            "Ongedaan maken">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "O">
+<!ENTITY redoCmd.label            "Opnieuw uitvoeren">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "u">
+<!ENTITY cutCmd.label           "Knippen">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "n">
+<!ENTITY copyCmd.label            "Kopiëren">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Plakken">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Verwijderen">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "V">
+<!ENTITY selectAllCmd.label         "Alles selecteren">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Opties">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren">
@@ -324,13 +324,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Beeld"> 
+<!ENTITY viewMenu.label         "Beeld">
 <!ENTITY viewMenu.accesskey       "l">
-<!ENTITY viewToolbarsMenu.label       "Werkbalken"> 
-<!ENTITY viewToolbarsMenu.accesskey     "W"> 
+<!ENTITY viewToolbarsMenu.label       "Werkbalken">
+<!ENTITY viewToolbarsMenu.accesskey     "W">
 <!ENTITY viewSidebarMenu.label "Zijbalk">
 <!ENTITY viewSidebarMenu.accesskey "Z">
-<!ENTITY viewCustomizeToolbar.label       "Aanpassen…"> 
+<!ENTITY viewCustomizeToolbar.label       "Aanpassen…">
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
 <!ENTITY overflowCustomizeToolbar.label       "Werkbalk aanpassen…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bron van selectie bekijken">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-bron bekijken">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label      "Paginabron bekijken">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; afsluiten">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Afsluiten"> 
+<!ENTITY quitApplicationCmd.label       "Afsluiten">
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; afsluiten">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Sluiten">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Sluiten">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY toggleMuteCmd.key              "M">
