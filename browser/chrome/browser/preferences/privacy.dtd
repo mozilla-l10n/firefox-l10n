@@ -41,7 +41,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Opne faner">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "Liknande søk frå standardsøkemotoren">
+<!ENTITY  locbar.searches.label         "Liknande søk frå standard-søkjemotoren">
 <!ENTITY  locbar.searches.accesskey     "L">
 
 <!ENTITY  suggestionSettings2.label     "Endre innstillingar for søkjeforslag">
