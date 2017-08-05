@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "हालिया इतिहास साफ करें...">
 <!ENTITY appMenuHistory.restoreSession.label "पिछला सत्र पुनर्बहाल करें">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखें">
-
+<!ENTITY appMenuHistory.recentHistory.label "ताजा इतिहास">
 <!ENTITY appMenuHelp.label "मदद">
 <!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
@@ -870,15 +870,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "सघन">
-
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "सघन">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "स्पर्श करें">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "स्पर्श करें">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "टेबलेट मोड के लिए स्पर्श करें">
 
 <!ENTITY getUserMedia.selectCamera.label " साझा करने के लिए कैमरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -985,10 +986,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अभी नहीं">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्यतन करने के लिए पुन: प्रारंभ करें">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 
 
 
-
+<!ENTITY sendToDevice.label2 "युक्ति मैं भेजें">
+<!ENTITY sendToDevice.syncNotReady.label "उपकरण सिंक हो रहा है…">
