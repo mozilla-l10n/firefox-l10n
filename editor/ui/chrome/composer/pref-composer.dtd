@@ -6,9 +6,8 @@
 
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
-<!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-
 <!ENTITY  recentFiles.title             "Ponuka naposledy otvorených stránok">
 <!ENTITY  documentsInMenu.label         "Maximálny počet zobrazených stránok:">
 <!ENTITY  documentsInMenu.accesskey     "M">
@@ -26,5 +25,5 @@
 <!ENTITY  maintainStructure.accesskey   "d">
 <!ENTITY  useCSS.label                  "Používať štýly CSS namiesto prvkov a atribútov HTML">
 <!ENTITY  useCSS.accesskey              "u">
-<!ENTITY  crInPCreatesNewP.label        "Návrat na začiatok riadku pomocou klávesy Enter vytvorí nový odstavec">
+<!ENTITY  crInPCreatesNewP.label        "Návrat na začiatok riadku pomocou klávesy Enter vždy vytvorí nový odsek">
 <!ENTITY  crInPCreatesNewP.accesskey    "N">
