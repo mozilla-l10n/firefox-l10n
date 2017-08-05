@@ -11,7 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
-
+<!ENTITY dateTimeFormatting.label      "Oblikovanje datuma i vremena">
 <!ENTITY allowHWAccel.label            "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tip pohrane poruka za nove račune:">
