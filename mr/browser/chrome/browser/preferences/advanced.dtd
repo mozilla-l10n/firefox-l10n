@@ -29,17 +29,21 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे">
 
-
+<!ENTITY enableHealthReport1.label       "Mozilla ला आपोआप तांत्रिक आणि परस्परसंवादाबद्दल माहिती पाठवण्याची &brandShortName; ला परवानगी द्या.">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "आणखी जाणा">
 
+<!ENTITY dataCollection.label            "&brandShortName; माहिती संग्रह आणि वापर">
+<!ENTITY dataCollectionDesc.label        "आम्ही आपल्याला पर्याय उपलब्ध करण्यासाठी प्रयत्न करतो आणि सर्वांसाठी &brandShortName; उपलब्ध होण्यासाठी आणि सुधारण्यासाठी गरजेपुरतेच गोळा करतो. वैयक्तिक माहिती घेण्याआधी आम्ही नेहमी परवानगी विचारतो.">
+<!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता सूचना">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Mozilla ला क्रॅश रिपोर्ट्स पाठवण्याची &brandShortName; ला परवानगी द्या">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "आणखी जाणा">
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
+<!ENTITY networkProxy.label              "नेटवर्क प्रॉक्सी">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ची इंटरनेटशी जुळणीकरता संरचना करा">
 <!ENTITY connectionSettings.label        "सेटिंग्ज…">
@@ -86,6 +90,7 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी &brandShortName; अद्ययावत ठेवा.">
 <!ENTITY updateApplication.version.pre   "आवृत्ती">
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "&brandShortName; ला परवानगी द्या">
@@ -124,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "क्वेरी OCSP रेसपाँडर सध्याच्या प्रमाणपत्रांची वैधताची खात्री करते">
 <!ENTITY enableOCSP.accesskey            "Q">
-
-
-
-
+<!ENTITY viewCerts2.label                "प्रमाणपत्रे बघा">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "सुरक्षा साधने">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "कार्यक्षमता">
 <!ENTITY useRecommendedPerformanceSettings2.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
