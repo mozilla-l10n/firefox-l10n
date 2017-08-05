@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
-<!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
+<!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
