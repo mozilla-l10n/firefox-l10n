@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Almennt">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Vara við þegar vefsvæði reynir að setja inn viðbætur">
+<!ENTITY  warnOnAddonInstall2.accesskey   "V">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -25,7 +26,8 @@
 
 <!ENTITY  logins.label                  "Innskráningar">
 
-
+<!ENTITY  rememberLogins2.label         "Muna innskráningar fyrir vefsvæði">
+<!ENTITY  rememberLogins2.accesskey     "r">
 <!ENTITY  passwordExceptions.label      "Undanþágur…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

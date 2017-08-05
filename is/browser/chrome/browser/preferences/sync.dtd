@@ -16,8 +16,8 @@
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Viðbætur">
 <!ENTITY engine.addons.accesskey    "æ">
-
-
+<!ENTITY engine.addresses.label     "Vistföng">
+<!ENTITY engine.addresses.accesskey "V">
 <!ENTITY engine.creditcards.label   "Greiðslukort">
 <!ENTITY engine.creditcards.accesskey "G">
 <!-- Device Settings -->
@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Innskráning">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Breyta notandamynd">
-
-
+<!ENTITY verifiedManage.label        "Sýsla með aðgang">
+<!ENTITY verifiedManage.accesskey    "S">
 <!ENTITY disconnect3.label           "Aftengja…">
 <!ENTITY disconnect3.accesskey       "A">
 <!ENTITY verify.label                "Staðfesta tölvupóstfang">

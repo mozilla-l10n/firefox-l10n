@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Eigandi:">
 <!ENTITY  securityView.identity.domain   "Vefsetur:">
 <!ENTITY  securityView.identity.verifier "Staðfest af:">
-
+<!ENTITY  securityView.identity.validity "Rennur út:">
 
 <!ENTITY  securityView.privacy.header                   "Friðhelgi og ferill">
 <!ENTITY  securityView.privacy.history                  "Hef ég skoðað þetta vefsvæði áður?">
