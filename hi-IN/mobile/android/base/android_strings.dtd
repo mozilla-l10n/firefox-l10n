@@ -276,7 +276,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम करें">
 <!ENTITY pref_tracking_protection_disabled "अक्षम करें">
 
-<!ENTITY pref_whats_new_notification "&brandShortName; में क्या नया है ">
+<!ENTITY pref_whats_new_notification "&brandShortName; में क्या नया है">
 <!ENTITY pref_whats_new_notification_summary "अद्यतन के बाद नई विशेषताओ के बारे में जाने">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -295,11 +295,12 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "यूआरएल की नकल की गई">
 
-
+<!ENTITY pref_pwa "प्रगतिशील वेब एप्लिकेशन">
+<!ENTITY pref_pwa_summary "होम स्क्रीन पर वेब एप्लिकेशन को शामिल करने की अनुमति दें">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
-<!ENTITY pref_activity_stream_summary "आप मुख्यतः जो पाना चाहते हैं उसे &brandShortName; में ढूँढ़ने की अपेक्षा एक बहुमूल्य दृश्य इतिहास फ़ीड और रीइमेजिनेड आमुख इसे आसान बनाता है ">
+<!ENTITY pref_activity_stream_summary "आप मुख्यतः जो पाना चाहते हैं उसे &brandShortName; में ढूँढ़ने की अपेक्षा एक बहुमूल्य दृश्य इतिहास फ़ीड और रीइमेजिनेड आमुख इसे आसान बनाता है">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रैकिंग संरक्षण के साथ">
 <!ENTITY tracking_protection_prompt_text "सक्रिय रूप से ट्रैकिंग तत्वों को अवरोध करता है इसीलिए आपको चिंता करने की जरुरत नही हैं.">
@@ -543,7 +544,7 @@
 <!ENTITY page_removed "पृष्ठ हटाया">
 
 <!ENTITY bookmark_edit_title "पुस्तचिह्न संपादित करें">
-
+<!ENTITY bookmark_edit_folder_title "फ़ोल्डर सम्पादन">
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
@@ -623,6 +624,8 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
+<!ENTITY home_pinned_site "पिन किए साइट">
+<!ENTITY home_unpinned_site "पिन किए साइट">
 
 <!ENTITY remote_tabs_panel_moved_title "मेरा टैब कहा गया?">
 <!ENTITY remote_tabs_panel_moved_desc "हमने अन्य उपकरणों से आपकै टैब एक पैनल में अपने मुख पृष्ठ पर स्थानांतरित किया है जो एक नया टैब खोलने पर हर बार पहुँचा जा सकता है.">
