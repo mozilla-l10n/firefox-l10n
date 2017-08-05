@@ -5,7 +5,7 @@
 <!-- extracted from institems.xul -->
 
 <!ENTITY dialog.title            "Pemasangan Perisian">
-<!ENTITY dialog.style            "lebar: 45em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "Pasang add-ons daripada pembangun yang anda percayai sahaja.">
 <!ENTITY warningSecondary.label  "Perisian hasad boleh merosakkan komputer anda atau mencabul privasi anda.">
 
