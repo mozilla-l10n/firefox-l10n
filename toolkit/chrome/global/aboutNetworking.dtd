@@ -13,12 +13,12 @@
 <!ENTITY aboutNetworking.refresh               "ताजा पार्नुहोस्">
 <!ENTITY aboutNetworking.autoRefresh           "हरेक ३ सेकेन्डमा आँफै ताजा पार्नुहोस्">
 <!ENTITY aboutNetworking.hostname              "Hostname">
-<!ENTITY aboutNetworking.port                  "पोर्ट">
+<!ENTITY aboutNetworking.port                  "Port">
 
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "सक्रिय पार्नुहोस्">
 <!ENTITY aboutNetworking.idle                  "निष्प्रयोजन">
-<!ENTITY aboutNetworking.host                  "SSL">
+<!ENTITY aboutNetworking.host                  "Host">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "पठाइयो">
 <!ENTITY aboutNetworking.received              "प्राप्त भयो">

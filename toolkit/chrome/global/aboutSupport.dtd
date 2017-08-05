@@ -7,7 +7,7 @@
 
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
-<!ENTITY aboutSupport.crashes.title "क्र्यास प्रतिवेदनहरू">
+<!ENTITY aboutSupport.crashes.title "समस्या समाधानको जानकारी">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "Report ID">
@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseIntegrity "समग्रता">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "समग्रता रूजु गर्नुहोस्">
 
-<!ENTITY aboutSupport.jsTitle "जाभास्क्रिप्ट">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
 
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
@@ -129,8 +129,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFeaturesTitle "विशेषताहरू">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "निदानात्मक">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "बिफलता लग">
-<!ENTITY aboutSupport.graphicsGPU1Title "जीपीयू #1">
-<!ENTITY aboutSupport.graphicsGPU2Title "जीपीयू #2">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "निर्णय लग">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्र्यास गार्डले असक्षम गरिएको विशेषताहरू">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "कार्यक्षेत्र">

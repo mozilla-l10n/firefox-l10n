@@ -34,11 +34,11 @@
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  टेलीमेट्री लग">
 
-<!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरू">
+<!ENTITY aboutTelemetry.slowSqlSection "  सुस्त SQL विवरणहरू">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर ह्याङ्ग हुन्छ">
+<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर अडकियो">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड ह्याङ्ग हुन्छ">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड अड्कियो">
 
 
 <!ENTITY aboutTelemetry.scalarsSection "  अदिष्टहरू">
@@ -47,12 +47,12 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरू">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  प्रमुख हिस्टोग्राम">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  प्रमुख हिस्टोग्रामहरु">
 
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  एडअन विवरणहरू">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on विवरणहरू">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
 
@@ -62,6 +62,6 @@
 
 
 
-<!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">
+<!ENTITY aboutTelemetry.filterText "Filter (strings or /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">

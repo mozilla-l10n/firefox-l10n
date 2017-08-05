@@ -84,7 +84,7 @@
 <!ENTITY exceptionMgr.supplementalWarning     "वैध बैँक, स्टोर, र अन्य सार्वजनिक साइटहरूले तपाईँलाई यस्तो प्रश्न सोध्दैनन्।">
 <!ENTITY exceptionMgr.certlocation.caption2   "सर्भर">
 <!ENTITY exceptionMgr.certlocation.url        "स्थान:">
-<!ENTITY exceptionMgr.certlocation.download   "प्रमाणपत्र प्राप्तगर्नुहोस्">
+<!ENTITY exceptionMgr.certlocation.download   "प्रमाणपत्र प्राप्त गर्नुहोस्">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "प्रमाणपत्र स्थिति">
 <!ENTITY exceptionMgr.certstatus.viewCert     "दृश्य…">
