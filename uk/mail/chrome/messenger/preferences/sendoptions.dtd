@@ -15,7 +15,7 @@
 <!ENTITY sendHTML.accesskey           "а">
 <!ENTITY sendBoth.label               "Відсилати лист у текстовому та в HTML-форматах (більший розмір листа)">
 <!ENTITY sendBoth.accesskey           "т">
-<!ENTITY override.label               "Нотатка: переважні формати можна указувати в адресній книзі.">
+<!ENTITY override.label               "Примітка: бажані формати можна вказувати в адресній книзі.">
 
 <!ENTITY domaindesc.label             "При надсиланні листа на адресу, доменна частина якої знаходиться в одному із списків нижче &brandShortName; автоматично посилає лист в правильному форматі.">
 <!ENTITY HTMLTab.label                "Домени, що підтримують HTML">
