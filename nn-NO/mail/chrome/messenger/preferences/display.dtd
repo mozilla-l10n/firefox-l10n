@@ -62,7 +62,7 @@
 <!ENTITY markAsReadDelay.label            "Etter dei er viste i">
 <!ENTITY markAsReadDelay.accesskey        "E">
 <!ENTITY secondsLabel.label               "sekund">
-<!ENTITY openMsgIn.label                  "Opna meldingar i:">
+<!ENTITY openMsgIn.label                  "Opne meldingar i:">
 <!ENTITY openMsgInNewTab.label            "Ei ny fane">
 <!ENTITY openMsgInNewTab.accesskey        "E">
 <!ENTITY reuseExpRadio0.label             "Eit nytt meldingsvindauge">

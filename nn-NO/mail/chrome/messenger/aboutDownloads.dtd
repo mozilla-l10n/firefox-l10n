@@ -9,11 +9,11 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                            "Opna mappa med fila">
+<!ENTITY cmd.show.label                            "Opne mappa med fila">
 <!ENTITY cmd.show.accesskey                        "O">
 <!ENTITY cmd.showMac.label                         "Vis i Finder">
 <!ENTITY cmd.showMac.accesskey                     "V">
-<!ENTITY cmd.open.label                            "Opna">
+<!ENTITY cmd.open.label                            "Opne">
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Fjern frå historikk">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">

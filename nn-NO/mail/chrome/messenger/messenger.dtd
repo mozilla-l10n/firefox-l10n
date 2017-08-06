@@ -6,7 +6,7 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Mappe …">
+<!ENTITY newFolderCmd.label "Mappe…">
 <!ENTITY newFolderCmd.accesskey "e">
 <!ENTITY closeTabCmd2.label "Lat att">
 <!ENTITY closeTabCmd2.accesskey "L">
@@ -36,9 +36,9 @@
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
-<!ENTITY openMessageFileCmd.label "Opna lagra melding…">
+<!ENTITY openMessageFileCmd.label "Opne lagra melding…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY saveAsMenu.label "Lagra som">
+<!ENTITY saveAsMenu.label "Lagre som">
 <!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fil">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -72,7 +72,7 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
 <!ENTITY synchronizeOfflineCmd.label "Last ned/Synkroniser no …">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd2.label "Fråkopla-innstillingar …">
+<!ENTITY settingsOfflineCmd2.label "Fråkopla-innstillingar…">
 <!ENTITY settingsOfflineCmd2.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Last ned valde meldingar">
 <!ENTITY downloadSelectedCmd.accesskey "n">
@@ -427,10 +427,10 @@
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uønskt e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
-<!ENTITY openMessageWindowCmd.label "Opna melding">
+<!ENTITY openMessageWindowCmd.label "Opne melding">
 <!ENTITY openMessageWindowCmd.accesskey "d">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Opna i samtale">
+<!ENTITY openConversationCmd.label "Opne i samtale">
 <!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Vedlegg">
@@ -465,7 +465,7 @@
 <!ENTITY imStatus.unavailable        "Utilgjengeleg">
 <!ENTITY imStatus.offline            "Fråkopla">
 <!ENTITY imStatus.showAccounts       "Vis kontoar …">
-<!ENTITY joinChatCmd.label "Opna nettprat …">
+<!ENTITY joinChatCmd.label "Opne nettprat …">
 <!ENTITY joinChatCmd.accesskey "O">
 <!ENTITY savedFiles.label "Lagra filer">
 <!ENTITY savedFiles.accesskey "L">
@@ -585,7 +585,7 @@
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
 <!ENTITY junkButton.tooltip "Merk dei valde meldingane som uønskte">
 <!ENTITY notJunkButton.tooltip "Merk den valde meldinga som ønskt">
-<!ENTITY addressBookButton.tooltip "Opna adresseboka">
+<!ENTITY addressBookButton.tooltip "Opne adresseboka">
 <!ENTITY chatButton.tooltip "Vis nettprat-fana">
 <!ENTITY tagButton.tooltip "Merk melding">
 <!ENTITY compactButton.tooltip "Fjern sletta meldingar frå vald mappe">
@@ -637,9 +637,9 @@
 <!ENTITY folderContextPauseAllUpdates.label "Set alle oppdateringar i pause">
 <!ENTITY folderContextPauseUpdates.label "Set oppdateringar i pause">
 <!ENTITY folderContextPauseUpdates.accesskey "o">
-<!ENTITY folderContextOpenInNewWindow.label "Opna i nytt vindauge">
+<!ENTITY folderContextOpenInNewWindow.label "Opne i nytt vindauge">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Opna i ny fane">
+<!ENTITY folderContextOpenNewTab.label "Opne i ny fane">
 <!ENTITY folderContextOpenNewTab.accesskey "p">
 <!ENTITY folderContextNew.label "Ny undermappe …">
 <!ENTITY folderContextNew.accesskey "N">
@@ -734,17 +734,17 @@
 <!ENTITY attachmentColumn2.tooltip "Sorter etter: Vedlegg">
 
 <!-- Thread Pane Context Menu -->
-<!ENTITY contextOpenNewWindow.label "Opna melding i nytt vindauge">
+<!ENTITY contextOpenNewWindow.label "Opne melding i nytt vindauge">
 <!ENTITY contextOpenNewWindow.accesskey "O">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Opna melding i ny fane">
+<!ENTITY contextOpenNewTab.label "Opne melding i ny fane">
 <!ENTITY contextOpenNewTab.accesskey "n">
-<!ENTITY contextOpenConversation.label "Opna melding i samtale">
+<!ENTITY contextOpenConversation.label "Opne melding i samtale">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextOpenContainingFolder.label "Opna melding i tilhøyrande mapppe">
+<!ENTITY contextOpenContainingFolder.label "Opne melding i tilhøyrande mappe">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediger som ny melding">
 <!ENTITY contextEditMsgAsNew.accesskey "R">
@@ -785,7 +785,7 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Lagra som …">
+<!ENTITY contextSaveAs.label "Lagre som…">
 <!ENTITY contextSaveAs.accesskey "L">
 <!ENTITY contextPrint.label "Skriv ut …">
 <!ENTITY contextPrint.accesskey "u">
@@ -923,9 +923,9 @@
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Oppdater">
 <!ENTITY reloadCmd.accesskey "O">
-<!ENTITY openInBrowser.label "Opna i nettlesar">
+<!ENTITY openInBrowser.label "Opne i nettlesar">
 <!ENTITY openInBrowser.accesskey "n">
-<!ENTITY openLinkInBrowser.label "Opna lenke i nettlesar">
+<!ENTITY openLinkInBrowser.label "Opne lenke i nettlesar">
 <!ENTITY openLinkInBrowser.accesskey "e">
 
 <!-- Statusbar -->

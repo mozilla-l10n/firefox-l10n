@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Opna fil…">
+<!-- File menu items -->
+<!ENTITY openFileCmd.label "Opne fil…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Opna nettadresse …">
+<!ENTITY openRemoteCmd.label "Opne nettadresse …">
 <!ENTITY openRemoteCmd.accesskey "n">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nyleg brukte sider">
 <!ENTITY fileRecentMenu.accesskey "N">
 <!ENTITY saveCmd.label "Lagre">
 <!ENTITY saveCmd.accesskey "L">
-<!ENTITY saveAsCmd.label "Lagra som …">
+<!ENTITY saveAsCmd.label "Lagre som…">
 <!ENTITY saveAsCmd.accesskey "a">
 <!ENTITY saveAsChangeEncodingCmd2.label "Lagra og endra tekstkoding">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "r">
@@ -24,15 +24,15 @@
 <!ENTITY publishAsCmd.accesskey "m">
 <!ENTITY fileRevert.label "Tilbakestill">
 <!ENTITY fileRevert.accesskey "T">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publiseringsinnstillingar …">
 <!ENTITY publishSettings.accesskey "b">
-<!-- Toolbar buttons/items -->
 
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Lag ei ny nettsideutviklar-side">
-<!ENTITY openToolbarCmd.label "Opna">
-<!ENTITY openToolbarCmd.tooltip "Opna ei lokal fil">
+<!ENTITY openToolbarCmd.label "Opne">
+<!ENTITY openToolbarCmd.tooltip "Opne ei lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Lagra fil lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til lokalt område">

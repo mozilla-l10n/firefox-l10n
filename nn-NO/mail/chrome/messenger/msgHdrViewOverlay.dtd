@@ -54,17 +54,17 @@
 
 <!ENTITY otherActionsButton2.label "Meir">
 <!ENTITY otherActionsButton.tooltip "Fleire handlingar">
-<!ENTITY otherActionsOpenConversation1.label "Opna i samtale">
+<!ENTITY otherActionsOpenConversation1.label "Opne i samtale">
 <!ENTITY otherActionsOpenConversation1.accesskey "O">
-<!ENTITY otherActionsOpenInNewWindow1.label "Opna i nytt vindauge">
+<!ENTITY otherActionsOpenInNewWindow1.label "Opne i nytt vindauge">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
-<!ENTITY otherActionsOpenInNewTab1.label "Opna i ny fane">
+<!ENTITY otherActionsOpenInNewTab1.label "Opne i ny fane">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "e">
 <!ENTITY markAsReadMenuItem1.label "Marker som lesen">
 <!ENTITY markAsReadMenuItem1.accesskey "M">
 <!ENTITY markAsUnreadMenuItem1.label "Marker som ulesen">
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
-<!ENTITY saveAsMenuItem1.label "Lagra som…">
+<!ENTITY saveAsMenuItem1.label "Lagre som…">
 <!ENTITY saveAsMenuItem1.accesskey "s">
 <!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
@@ -76,15 +76,15 @@
 <!ENTITY startExpandedCmd.accesskey    "V">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Opna">
+<!ENTITY openAttachmentCmd.label    "Opne">
 <!ENTITY openAttachmentCmd.accesskey    "O">
-<!ENTITY saveAsAttachmentCmd.label    "Lagra som…">
+<!ENTITY saveAsAttachmentCmd.label    "Lagre som…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "s">
 <!ENTITY detachAttachmentCmd.label    "Splitt …">
 <!ENTITY detachAttachmentCmd.accesskey    "t">
 <!ENTITY deleteAttachmentCmd.label    "Slett">
 <!ENTITY deleteAttachmentCmd.accesskey    "l">
-<!ENTITY openAllAttachmentsCmd.label    "Opna alle …">
+<!ENTITY openAllAttachmentsCmd.label    "Opne alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
 <!ENTITY saveAllAttachmentsCmd.label    "Lagra alle …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
@@ -93,7 +93,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Slett alle…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
-<!ENTITY openAttachment.tooltip "Opna vedlagde fil">
+<!ENTITY openAttachment.tooltip "Opne vedlagd fil">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Lagra">
@@ -106,7 +106,7 @@
 
 <!ENTITY CopyMessageId.label "Kopier meldings-ID">
 <!ENTITY CopyMessageId.accesskey "K">
-<!ENTITY OpenMessageForMsgId.label "Opna melding for ID">
+<!ENTITY OpenMessageForMsgId.label "Opne melding for ID">
 <!ENTITY OpenMessageForMsgId.accesskey "n">
-<!ENTITY OpenBrowserWithMsgId.label "Opna nettlesar med meldings-ID">
+<!ENTITY OpenBrowserWithMsgId.label "Opne nettlesar med meldings-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "e">
