@@ -19,7 +19,7 @@
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "Ang &brandShortName; ay kasalukuyang pinag-aaralan pa at maaring hindi pa gagana ng maigi.">
+<!ENTITY warningDesc.version        "Ang &brandShortName; ay eksperimental pa at maaring hindi gaanong stable.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
 
@@ -45,10 +45,10 @@
 <!ENTITY helpus.donateLink          "Magdonasyon">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "umanib na!">
+<!ENTITY helpus.getInvolvedLink     "sali na!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Anong bago">
+<!ENTITY releaseNotes.link          "Ano ang bago?">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Pinagtitibay ang Impormasyon">
@@ -57,12 +57,12 @@
 <!ENTITY bottomLinks.rights         "Mga Karapatan ng Gumagamit">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Pribadong patakaran">
+<!ENTITY bottomLinks.privacy        "Patakarang Pangpribasiya">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Naghahanap ng updates... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; ay up to date ">
+<!ENTITY update.noUpdatesFound      "Ang &brandShortName; ay up to date ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator. ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
