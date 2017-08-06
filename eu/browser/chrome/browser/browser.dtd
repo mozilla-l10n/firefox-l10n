@@ -988,8 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
-
-
+<!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
+<!ENTITY pageAction.removeFromUrlbar.label "Kendu helbide-barratik">
 
 <!ENTITY sendToDevice.label2 "Bidali gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
