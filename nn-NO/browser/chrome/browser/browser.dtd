@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Vis verktøylinje for bokmerke">
 <!ENTITY searchBookmarks.label              "Søk i bokmerke">
 
-<!ENTITY containersMenu.label "Konteinarar">
+<!ENTITY containersMenu.label "Behaldarar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
