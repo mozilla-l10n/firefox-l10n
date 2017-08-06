@@ -90,6 +90,7 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Mantendu &brandShortName; eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.">
 <!ENTITY updateApplication.version.pre   "​">
 <!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
