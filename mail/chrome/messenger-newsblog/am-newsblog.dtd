@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY loginAtStartup.label          "துவங்கும்போது புதிய கட்டுரைகளுக்கு சோதி">
+<!ENTITY loginAtStartup.accesskey      "C">
 
 
 
 
-
+<!ENTITY manageSubscriptions.label     "சந்தாக்களை பராமரிக்கவும்...">
+<!ENTITY manageSubscriptions.accesskey "ச">
 
 
