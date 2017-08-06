@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Jabea: ">
 <!ENTITY  securityView.identity.domain   "Webgunea: ">
 <!ENTITY  securityView.identity.verifier "Egiaztatzailea: ">
-
+<!ENTITY  securityView.identity.validity "Iraungitze-data:">
 
 <!ENTITY  securityView.privacy.header                   "Pribatutasuna eta historia">
 <!ENTITY  securityView.privacy.history                  "Webgune hau lehenago bisitatu dut?">

@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "Ez da itzulpenik eskainiko ondorengo guneetarako:">
-
+<!ENTITY treehead.siteName2.label         "Webguneak">
 <!ENTITY removeSite.label                 "Kendu gunea">
 <!ENTITY removeSite.accesskey             "n">
 <!ENTITY removeAllSites.label             "Kendu gune guztiak">

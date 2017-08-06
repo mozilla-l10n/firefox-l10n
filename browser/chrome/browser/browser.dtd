@@ -991,4 +991,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY sendToDevice.label2 "Bidali gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">

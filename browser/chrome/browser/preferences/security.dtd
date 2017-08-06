@@ -5,7 +5,8 @@
 <!ENTITY  security.label                 "Segurtasuna">
 <!ENTITY  phishingProtection.label       "Phishing babesa">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Abisatu webgune bat gehigarriak instalatzen saiatzen bada">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Inprimakiak eta pasahitzak">
 
-
+<!ENTITY  rememberLogins2.label         "Gogoratu webguneetako saio-hasierak eta pasahitzak">
+<!ENTITY  rememberLogins2.accesskey     "G">
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
