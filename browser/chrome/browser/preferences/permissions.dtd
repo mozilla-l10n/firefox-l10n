@@ -8,8 +8,8 @@
 <!ENTITY treehead.status.label        "நிலை">
 
 
-
-
+<!ENTITY removeallpermissions2.label  "அனைத்து தளங்களையும் நீக்கு">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "இணைய தளத்தின் முகவரி:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "தடு">
