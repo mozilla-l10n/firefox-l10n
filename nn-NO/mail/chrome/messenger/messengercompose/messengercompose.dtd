@@ -265,7 +265,7 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Legg til i ordboka">
 <!ENTITY spellCheckAddToDictionary.accesskey "L">
-<!ENTITY undo.label "Angra">
+<!ENTITY undo.label "Angre">
 <!ENTITY undo.accesskey "A">
 <!ENTITY cut.label "Klipp ut">
 <!ENTITY cut.accesskey "u">

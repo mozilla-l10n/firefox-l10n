@@ -5,7 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "For å spara diskplass, ikkje last ned:">
 <!ENTITY doNotDownloadNntp.label "For å spara diskplass, ikkje last ned for fråkopla bruk:">
 <!ENTITY doNotDownloadImap.label "For å spara diskplass kan nedlasting av meldingar frå tenaren og oppbevaring av lokale kopiar for fråkopla bruk avgrensast til ein bestemt alder eller storleik.">
-<!ENTITY allFoldersOffline.label "Lagra meldingar for denne kontoen på datamaskina">
+<!ENTITY allFoldersOffline.label "Lagre meldingar for denne kontoen på datamaskina">
 <!ENTITY allFoldersOffline.accesskey "t">
 <!ENTITY offlineNotDownload.label "Meldingar større enn">
 <!ENTITY offlineNotDownload.accesskey "M">
@@ -37,13 +37,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Meldingssynkronisering">
 <!ENTITY diskspaceGroupTitle.label "Diskplass">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Synkroniser alle meldingar lokalt uansett alder">
 <!ENTITY allAutosync.accesskey           "n">
 <!ENTITY ageAutosyncBefore.label         "Synkroniser med dei nyaste">

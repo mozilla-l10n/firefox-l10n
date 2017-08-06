@@ -15,7 +15,7 @@
 <!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveAsCmd.label "Lagre som…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd2.label "Lagra og endra tekstkoding">
+<!ENTITY saveAsChangeEncodingCmd2.label "Lagre og endre tekstkoding">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "r">
 <!ENTITY publishCmd.label "Publiser">
 <!ENTITY publishCmd.accesskey "P">
@@ -34,5 +34,5 @@
 <!ENTITY newToolbarCmd.tooltip "Lag ei ny nettsideutviklar-side">
 <!ENTITY openToolbarCmd.label "Opne">
 <!ENTITY openToolbarCmd.tooltip "Opne ei lokal fil">
-<!ENTITY saveToolbarCmd.tooltip "Lagra fil lokalt">
+<!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til lokalt område">
