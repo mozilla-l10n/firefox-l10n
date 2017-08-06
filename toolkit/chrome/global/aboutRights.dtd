@@ -4,7 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Om rettane dine">
-<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vera merksam på:">
+<!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vere merksam på:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -16,30 +16,30 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; er gjort tilgjengeleg for deg under vilkåra i ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c ". Dette tyder at du kan bruka, kopiera og distribuera &brandShortName; til andre. Du kan også endra kjeldekoden til &brandShortName; som du vil, for å passa til dine behov. Mozilla Public License gjev deg også rett til å distribuera endra versjonar.">
+<!ENTITY rights.intro-point1c ". Dette tyder at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også endre kjeldekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gjev deg også rett til å distribuere endra versjonar.">
 
-<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noko som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke kan du finna ">
+<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noko som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke kan du finne ">
 <!ENTITY rights.intro-point2-b "her">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Nokre funksjonar i &brandShortName;, som til dømes krasjrapporteraren, gjev deg høve til å gje tilbakemelding til &vendorShortName;. Ved å senda tilbakemelding gjev du &vendorShortName; løyve til å bruka tilbakemeldingane for å forbetra produkta sine, publisera tilbakemeldingane på nettstadene sine, og å distribuera tilbakemeldingane.">
+<!ENTITY rights.intro-point2.5 "Nokre funksjonar i &brandShortName;, som til dømes krasjrapporteraren, gjev deg høve til å gje tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gjev du &vendorShortName; løyve til å bruke tilbakemeldingane for å forbetre produkta sine, publisera tilbakemeldingane på nettstadene sine, og å distribuere tilbakemeldingane.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Korleis vi brukar personleg informasjon og tilbakemeldingar som er sendt til &vendorShortName; gjennom &brandShortName; er skildra i ">
-<!ENTITY rights2.intro-point3b "&brandShortName; personvernpraksis">
+<!ENTITY rights2.intro-point3b "&brandShortName;s personvernpraksis">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vera oppført her.">
+<!ENTITY rights.intro-point3-unbranded "Eventuelle personvernpaksisar for dette produktet bør førast opp her.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Nokre &brandShortName;-funksjonar brukar vevbaserte informasjonstenester, men vi kan ikkje garantera at dei er 100 &#037; nøyaktige eller feilfrie. Meir informasjon, også om korleis tenestene som brukar desse funksjonane kan slåast av, kan du finna i ">
+<!ENTITY rights2.intro-point4a "Nokre &brandShortName;-funksjonar brukar nettbaserte informasjonstenester, men vi kan ikkje garantere at dei er 100 &#037; nøyaktige eller feilfrie. Meir informasjon, også om korleis tenestene som brukar desse funksjonane kan slåast av, kan du finne i ">
 <!ENTITY rights.intro-point4b "tenestevilkåra">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkast opp til ">
+<!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkast opp i ">
 <!ENTITY rights.intro-point4b-unbranded "Informasjonstenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
