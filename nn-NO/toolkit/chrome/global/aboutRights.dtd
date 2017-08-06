@@ -62,17 +62,17 @@
 <!ENTITY rights.safebrowsing-b "Å slå av funksjonen Trygg nettlesing er ikkje tilrådd, sidan det kan føre til at du vitjar utrygge nettstadar.  Dersom du ønskjer å skru av funksjonen heilt, følg desse stega:">
 <!ENTITY rights.safebrowsing-term1 "Opne program-innstillingane">
 <!ENTITY rights.safebrowsing-term2 "Vel Sikkerheits-fana">
-<!ENTITY rights2.safebrowsing-term3 "Avmerk valet for å &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Slå av valet for å &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
 <!-- location aware browsing points for branded builds -->
-<!ENTITY rights.locationawarebrowsing-a "Stadmedviten nettlesing:">
-<!ENTITY rights.locationawarebrowsing-b "er alltid ein funksjon du må aktivt velja å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gjev løyve til det. Dersom du ynskjer å skru av denne funksjonen heilt, følg desse stega:">
-<!ENTITY rights.locationawarebrowsing-term1a "I adresselinja, skriv inn ">
+<!ENTITY rights.locationawarebrowsing-a "Stad-medviten nettlesing:">
+<!ENTITY rights.locationawarebrowsing-b "er alltid ein funksjon du må aktivt velje å slå på for at han skal brukast. Ingen stadinfo vert sendt utan at du gjev løyve til det. Dersom du ønskjer å slå av denne funksjonen heilt, følg desse stega:">
+<!ENTITY rights.locationawarebrowsing-term1a "I adresselinja, skriv du inn ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Skriv inn geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dobbelklikk på geo.enabled preference">
-<!ENTITY rights.locationawarebrowsing-term4 "Stadmedviten nettlesing er no slått av">
+<!ENTITY rights.locationawarebrowsing-term4 "Stad-medviten nettlesing er no slått av">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
