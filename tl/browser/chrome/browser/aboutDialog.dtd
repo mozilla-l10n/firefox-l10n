@@ -24,21 +24,21 @@
 <!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
-<!ENTITY community.exp.start        "Ingles">
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ay isang">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "komunidad na pangdaigdigan">
-<!ENTITY community.exp.end          "sama-samang nagtatrabaho upang panatilihing bukasang Web, pampubliko at naa-access ng lahat. ">
+<!ENTITY community.exp.creditsLink  "pangdaigdigang komunidad">
+<!ENTITY community.exp.end          " sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.">
 
 <!ENTITY community.start2           "&brandShortName; ay dinisenyo ng/ni">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "pangdaigdigan komunidad">
-<!ENTITY community.end3             "sama-samang nagtatrabaho upang panatilihing bukasang Web, pampubliko at naa-access ng lahat. ">
+<!ENTITY community.creditsLink      "pangdaigdigang komunidad">
+<!ENTITY community.end3             " sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.">
 
 <!ENTITY helpus.start               "Nais mong tumulong? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
