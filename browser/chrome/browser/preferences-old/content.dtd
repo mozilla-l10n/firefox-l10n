@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Aviseringar">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ta reda på mer">
-<!ENTITY  notificationsPolicyDesc3.label       "Välj vilka webbplatser som får skicka dig aviseringar">
+<!ENTITY  notificationsPolicyDesc4.label       "Välj vilka webbplatser som får skicka dig notifieringar">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Välj…">
 <!ENTITY  notificationsDoNotDisturb.label      "Stör mig inte">
@@ -42,6 +42,7 @@
 <!ENTITY translateWebPages.accesskey  "Ö">
 <!ENTITY translateExceptions.label    "Undantag…">
 <!ENTITY translateExceptions.accesskey "U">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,7 +50,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Översättningar av">
 <!ENTITY translation.options.attribution.afterLogo "">
 
