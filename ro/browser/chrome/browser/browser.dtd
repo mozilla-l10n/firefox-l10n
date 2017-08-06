@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copiază">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Lipește">  
 <!ENTITY pasteCmd.key           "V">  
@@ -686,7 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
-
+<!ENTITY sidebarMenuClose.label         "Închide bara laterală">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ieșire">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
