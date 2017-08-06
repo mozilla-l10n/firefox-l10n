@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्रॅश गार्ड निष्क्रिय वैशिष्ट्ये">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "वर्कअरोउंड्स">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "मीडिया">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "आऊटपुट साधने">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "इनपुट साधने">
+<!ENTITY aboutSupport.mediaDeviceName "नाव">
+<!ENTITY aboutSupport.mediaDeviceGroup "समूह">
+<!ENTITY aboutSupport.mediaDeviceVendor "पुरवठादार">
+<!ENTITY aboutSupport.mediaDeviceState "स्थिती">
+<!ENTITY aboutSupport.mediaDevicePreferred "प्राधान्यतेचे">
+<!ENTITY aboutSupport.mediaDeviceFormat "स्वरूप">
+<!ENTITY aboutSupport.mediaDeviceChannels "माध्यम">
+<!ENTITY aboutSupport.mediaDeviceRate "दर">
+<!ENTITY aboutSupport.mediaDeviceLatency "विलंब">
