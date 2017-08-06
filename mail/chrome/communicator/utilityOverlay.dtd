@@ -33,17 +33,19 @@
 <!ENTITY selectAllCmd.accesskey        "A">
 
 
+<!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+
+<!ENTITY viewMenu.label          "பார்வை">
+<!ENTITY viewMenu.accesskey        "V">
+<!ENTITY viewToolbarsMenu.label        "கருவிப்பட்டைகள்">
+<!ENTITY viewToolbarsMenu.accesskey      "T">
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY closeCmd.label      "மூடு">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "C">
 
 
 
