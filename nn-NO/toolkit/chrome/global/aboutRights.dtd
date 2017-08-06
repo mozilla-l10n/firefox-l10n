@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title "Omrettane dine">
+<!ENTITY rights.title "Om rettane dine">
 <!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vera merksam på:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -18,7 +18,7 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Dette tyder at du kan bruka, kopiera og distribuera &brandShortName; til andre. Du kan også endra kjeldekoden til &brandShortName; som du vil, for å passa til dine behov. Mozilla Public License gjev deg også rett til å distribuera endra versjonar.">
 
-<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noe som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke kan du finna ">
+<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noko som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke kan du finna ">
 <!ENTITY rights.intro-point2-b "her">
 <!ENTITY rights.intro-point2-c ".">
 
