@@ -36,7 +36,7 @@
 <!ENTITY saveCmd.label "Lagra">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "a">
-<!ENTITY saveAsCmd.label "Lagra som">
+<!ENTITY saveAsCmd.label "Lagre som">
 <!ENTITY saveAsCmd.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fil …">
 <!ENTITY saveAsFileCmd.accesskey "F">
@@ -276,7 +276,7 @@
 <!ENTITY pasteQuote.label "Lim inn som sitat">
 <!ENTITY pasteQuote.accesskey "t">
 
-<!ENTITY openAttachment.label "Opna">
+<!ENTITY openAttachment.label "Opne">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Slett">
 <!ENTITY delete.accesskey "S">
