@@ -33,7 +33,7 @@
 <!ENTITY closeCmd.label "Lukk">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "L">
-<!ENTITY saveCmd.label "Lagra">
+<!ENTITY saveCmd.label "Lagre">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "a">
 <!ENTITY saveAsCmd.label "Lagre som">
@@ -216,7 +216,7 @@
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merkt tekst eller heile meldinga">
 <!ENTITY statusLanguageText.tooltip "Stavekontrollspråk">
-<!ENTITY saveButton.tooltip "Lagra meldinga">
+<!ENTITY saveButton.tooltip "Lagre meldinga">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
