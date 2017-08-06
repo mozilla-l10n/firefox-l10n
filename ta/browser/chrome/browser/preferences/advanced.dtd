@@ -126,10 +126,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "அ">
 <!ENTITY enableOCSP.label                "சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
 <!ENTITY enableOCSP.accesskey            "Q">
-
-
-
-
+<!ENTITY viewCerts2.label                "சான்றிதழ்களைப் பார்…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "பாதுகாப்பு சாதனங்கள்…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "செயல்திறன்">
 <!ENTITY useRecommendedPerformanceSettings2.label "பரிந்துரைத்த செயல்திறன் அமைவுகளைப் பாவிக்கவும்">

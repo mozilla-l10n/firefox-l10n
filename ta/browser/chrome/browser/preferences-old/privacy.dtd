@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "தேடுபொறி பரிந்துரைத்துலுக்கான முன்னுரிமைகளை மாற்றுக">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-
+<!ENTITY  acceptCookies2.label          "தளங்களிலிருந்து நினைவிகளை ஏற்றுக்கொள்ளவும்">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பு நினைவிகளை அனுமதிக்கவும்:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
