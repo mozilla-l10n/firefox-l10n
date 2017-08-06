@@ -47,9 +47,9 @@ that require it.  -->
 <!ENTITY dataSection.label            "Data">
 
 <!ENTITY itemHistoryAndDownloads.label     "Sejarah Pelayaran &amp; Muat Turun">
-<!ENTITY itemHistoryAndDownloads.accesskey "S">
-<!ENTITY itemFormSearchHistory.label       "Form &amp; Sejarah Carian">
-<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemHistoryAndDownloads.accesskey "M">
+<!ENTITY itemFormSearchHistory.label       "Borang &amp; Sejarah Carian">
+<!ENTITY itemFormSearchHistory.accesskey   "B">
 <!ENTITY itemCookies.label                 "Kuki">
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Cache">
