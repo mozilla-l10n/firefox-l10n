@@ -89,11 +89,11 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Slett melding">
 <!ENTITY deleteMsgCmd.accesskey "t">
-<!ENTITY undeleteMsgCmd.label "Angra sletting av melding">
+<!ENTITY undeleteMsgCmd.label "Angre sletting av melding">
 <!ENTITY undeleteMsgCmd.accesskey "g">
 <!ENTITY deleteMsgsCmd.label "Slett valde meldingar">
 <!ENTITY deleteMsgsCmd.accesskey "v">
-<!ENTITY undeleteMsgsCmd.label "Angra «Slett valde meldingar»">
+<!ENTITY undeleteMsgsCmd.label "Angre valde meldingar">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
@@ -114,15 +114,15 @@
 <!ENTITY folderPropsFolderCmd2.label "Mappeeigenskapar">
 <!ENTITY folderPropsNewsgroupCmd2.label "Nyhendegruppe-innstillingar">
 <!ENTITY folderPropsCmd.accesskey "N">
-<!ENTITY undoDeleteMsgCmd.label "Angra sletting av melding">
+<!ENTITY undoDeleteMsgCmd.label "Ange sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
-<!ENTITY undoMoveMsgCmd.label "Angra flytting av melding">
+<!ENTITY undoMoveMsgCmd.label "Angre flytting av melding">
 <!ENTITY redoMoveMsgCmd.label "Gjenta flytting av melding">
-<!ENTITY undoCopyMsgCmd.label "Angra kopiering av melding">
+<!ENTITY undoCopyMsgCmd.label "Angre kopiering av melding">
 <!ENTITY redoCopyMsgCmd.label "Gjenta kopiering av melding">
-<!ENTITY undoMarkAllCmd.label "Angra merk alle som lesne">
+<!ENTITY undoMarkAllCmd.label "Angre merk alle som lesne">
 <!ENTITY redoMarkAllCmd.label "Gjenta merk alle som lesne">
-<!ENTITY undoDefaultCmd.label "Angra">
+<!ENTITY undoDefaultCmd.label "Angre">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Gjenta">
 <!ENTITY redoDefaultCmd.accesskey "G">
@@ -539,7 +539,7 @@
 <!ENTITY goForwardButton1.label "Fram">
 <!ENTITY deleteItem.title "Slett">
 <!ENTITY deleteButton.label "Slett">
-<!ENTITY undeleteButton.label "Angra sletting">
+<!ENTITY undeleteButton.label "Angre sletting">
 <!ENTITY markButton.label "Merk">
 <!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
@@ -579,7 +579,7 @@
 <!ENTITY goForwardButton.tooltip "Gå fram ei melding">
 <!ENTITY goBackButton.tooltip "Gå tilbake ei melding">
 <!ENTITY deleteButton.tooltip "Slett vald melding eller mappe">
-<!ENTITY undeleteButton.tooltip "Angra sletting av melding">
+<!ENTITY undeleteButton.tooltip "Angre sletting av melding">
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
 <!ENTITY stopButton.tooltip "Stopp denne overføringa">
