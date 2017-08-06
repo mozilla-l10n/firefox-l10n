@@ -15,7 +15,7 @@
 <!ENTITY locationValidate.label      "Valider">
 <!ENTITY validateText.label          "Kontroller validering og hent gyldig url.">
 
-<!ENTITY feedFolder.label            "Lagra artiklar i:">
+<!ENTITY feedFolder.label            "Lagre artiklar i:">
 <!ENTITY feedFolder.accesskey        "L">
 
 <!-- Account Settings and Subscription Dialog -->

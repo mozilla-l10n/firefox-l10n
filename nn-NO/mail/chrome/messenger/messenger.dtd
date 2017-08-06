@@ -22,7 +22,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Flytt til nytt vindauge">
 <!ENTITY moveToNewWindow.accesskey "F">
-<!ENTITY newVirtualFolderCmd.label "Lagra søk …">
+<!ENTITY newVirtualFolderCmd.label "Lagra søk…">
 <!ENTITY newVirtualFolderCmd.accesskey "L">
 <!ENTITY newOtherAccountsCmd.label "Annan konto …">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
@@ -686,7 +686,7 @@
 <!ENTITY searchRecipient.label "Til eller Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Emne, Til eller Cc">
 <!ENTITY searchMessageBody.label "Meldingskropp">
-<!ENTITY saveAsVirtualFolderMenu.label "Lagra søk som mappe …">
+<!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tråd">
@@ -909,9 +909,9 @@
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Lagra lenkemål som …">
+<!ENTITY saveLinkAsCmd.label "Lagre lenke som…">
 <!ENTITY saveLinkAsCmd.accesskey "r">
-<!ENTITY saveImageAsCmd.label "Lagra bilde som …">
+<!ENTITY saveImageAsCmd.label "Lagre bilde som…">
 <!ENTITY saveImageAsCmd.accesskey "a">
 <!ENTITY copyLinkCmd.label "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey "o">

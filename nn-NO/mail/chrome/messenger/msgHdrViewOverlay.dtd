@@ -86,7 +86,7 @@
 <!ENTITY deleteAttachmentCmd.accesskey    "l">
 <!ENTITY openAllAttachmentsCmd.label    "Opne alle…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "O">
-<!ENTITY saveAllAttachmentsCmd.label    "Lagra alle …">
+<!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "L">
 <!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "S">
@@ -96,10 +96,10 @@
 <!ENTITY openAttachment.tooltip "Opne vedlagd fil">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label       "Lagra">
-<!ENTITY saveAttachmentButton1.tooltip     "Lagra vedlagde fil">
-<!ENTITY saveAllAttachmentsButton1.label   "Lagra alle">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Lagra alle vedlagde filer">
+<!ENTITY saveAttachmentButton1.label       "Lagre">
+<!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagd fil">
+<!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Lagre alle vedlagde filer">
 
 <!ENTITY copyLinkCmd.label        "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey    "K">

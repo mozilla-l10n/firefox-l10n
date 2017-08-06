@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Avbryt">
 <!ENTITY button.cancel.accesskey      "A">
-<!ENTITY button.ok.label              "Lagra endringar">
+<!ENTITY button.ok.label              "Lagre endringar">
 <!ENTITY button.ok.accesskey          "L">
 
