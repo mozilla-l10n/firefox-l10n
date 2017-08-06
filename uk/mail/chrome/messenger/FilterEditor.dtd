@@ -31,7 +31,7 @@
 <!ENTITY filterActionDesc.label "Виконувати наступні дії:">
 <!ENTITY filterActionDesc.accesskey "и">
 
-<!ENTITY filterActionOrderWarning.label "Нотатка: Фільтр дій запуститься в іншому порядку.">
+<!ENTITY filterActionOrderWarning.label "Примітка: Дії фільтру запустяться в іншому порядку.">
 <!ENTITY filterActionOrder.label "див. Порядок виконання">
 
 <!-- New Style Filter Rule Actions -->
