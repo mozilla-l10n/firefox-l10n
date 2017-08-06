@@ -13,7 +13,7 @@
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „&brandShortName;“ niekada nevestų žurnalo.">
 
-<!ENTITY oneClickSearchEngines.label           "Vieno paspaudimo ieškyklės">
+<!ENTITY oneClickSearchEngines.label           "Ieškyklės vienu spustelėjimu">
 
 <!ENTITY chooseWhichOneToDisplay2.label         "Pasirinkite alternatyvias ieškykles, kurios pasirodo po adreso juosta bei paieškos juosta, kai pradedate vesti žodį.">
 
