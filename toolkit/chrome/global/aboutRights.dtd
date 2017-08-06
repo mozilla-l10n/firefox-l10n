@@ -40,28 +40,28 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkast opp i ">
-<!ENTITY rights.intro-point4b-unbranded "Informasjonstenester">
+<!ENTITY rights.intro-point4b-unbranded "nettstadtenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; vevbaserte informasjonstenester">
+<!ENTITY rights2.webservices-header "&brandFullName; nettbaserte informasjonstenester">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "For å spela av forskjellige typar videoinnhald, lastar &brandShortName; ned dekrypteringsmodular frå tredjepartar.">
+<!ENTITY rights.intro-point5 "For å spele av forskjellige typar videoinnhald, lastar &brandShortName; ned dekrypteringsmodular frå tredjepartar.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; brukar vevbaserte informasjonstenester («Tenester») for å tilgjengeleggjera nokre av funksjonane i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ynskjer å bruka ei eller fleire av tenestene, eller om du ikkje kan akseptera vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du ">
+<!ENTITY rights2.webservices-a "&brandFullName; brukar nettbaserte informasjonstenester («Tenester») for å gjere nokre av funksjonane tilgjengelege i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ønskjer å bruke ei eller fleire av tenestene, eller om du ikkje kan akseptere vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du ">
 <!ENTITY rights2.webservices-b "her">
 <!ENTITY rights3.webservices-c ". Andre funksjonar og tenester kan slåast av i programinnstillingane.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
-<!ENTITY rights.safebrowsing-b "Å slå av Trygg nettlesing-funksjonen er ikkje tilrådd, sidan det kan føra til at du vitjar utrygge nettstader. Dersom du ynskjer å skru av funksjonen heilt, følg desse stega:">
-<!ENTITY rights.safebrowsing-term1 "Opna programinnstillingane">
-<!ENTITY rights.safebrowsing-term2 "Vel Tryggleik-fana">
+<!ENTITY rights.safebrowsing-b "Å slå av funksjonen Trygg nettlesing er ikkje tilrådd, sidan det kan føre til at du vitjar utrygge nettstadar.  Dersom du ønskjer å skru av funksjonen heilt, følg desse stega:">
+<!ENTITY rights.safebrowsing-term1 "Opne program-innstillingane">
+<!ENTITY rights.safebrowsing-term2 "Vel Sikkerheits-fana">
 <!ENTITY rights2.safebrowsing-term3 "Avmerk valet for å &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Trygg nettlesing er no slått av">
 
