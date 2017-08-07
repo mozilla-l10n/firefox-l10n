@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "امنیت">
+<!ENTITY  phishingProtection.label       "محافظت از فیشینگ">
 
-
-
+<!ENTITY  warnOnAddonInstall2.label       "درهنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود ">
+<!ENTITY  warnOnAddonInstall2.accesskey   "د">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "فرم‌ها و گذرواژه‌ها">
 
-
+<!ENTITY  rememberLogins2.label         "ورودها و گذرواژه‌ها را برای‌ این پایگاه‌ اینترنتی به خاطر بسپار">
+<!ENTITY  rememberLogins2.accesskey     "و">
 <!ENTITY  passwordExceptions.label      "استثناها…">
 <!ENTITY  passwordExceptions.accesskey  "ث">
 
