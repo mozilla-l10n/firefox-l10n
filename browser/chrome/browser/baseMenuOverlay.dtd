@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "d">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Laporan Sistem">
+<!ENTITY healthReport2.label      "Laporan Sistem &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; Lawatan">
+<!ENTITY helpShowTour2.label            "Teroka &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Keutamaan…">
