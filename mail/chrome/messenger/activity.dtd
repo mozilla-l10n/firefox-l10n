@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "В">
 <!ENTITY cmd.cancel.label                 "Скасувати">
 <!ENTITY cmd.cancel.accesskey             "С">
-<!ENTITY cmd.undo.label                   "Відмінити">
+<!ENTITY cmd.undo.label                   "Скасувати">
 <!ENTITY cmd.undo.accesskey               "В">
 <!ENTITY cmd.recover.label                "Відновити">
 <!ENTITY cmd.recover.accesskey            "в">
