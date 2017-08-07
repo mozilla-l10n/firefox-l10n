@@ -57,7 +57,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "Керувати обліковим записом">
 <!ENTITY verifiedManage.accesskey    "К">
 <!ENTITY disconnect.label            "Від’єднатись…">
-<!ENTITY disconnect.accesskey        "В">
+<!ENTITY disconnect.accesskey        "є">
 <!ENTITY verify.label                "Підтвердити">
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забути">
