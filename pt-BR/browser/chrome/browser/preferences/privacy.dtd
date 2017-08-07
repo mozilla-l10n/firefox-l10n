@@ -109,7 +109,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "C">
 
 <!ENTITY  browserContainersLearnMore.label      "Saber mais">
-<!ENTITY  browserContainersEnabled.label        "Habilitar abas contêineres">
+<!ENTITY  browserContainersEnabled.label        "Habilitar abas contêiner">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Configurações…">
 <!ENTITY  browserContainersSettings.accesskey    "i">

@@ -18,7 +18,7 @@
 <!ENTITY  paneSearch.title              "Pesquisa">
 <!ENTITY  paneFilesApplications.title   "Arquivos e Aplicativos">
 <!ENTITY  panePrivacySecurity.title     "Privacidade e Segurança">
-<!ENTITY  paneContainers.title          "Abas contêineres">
+<!ENTITY  paneContainers.title          "Abas contêiner">
 <!ENTITY  paneUpdates.title             "Atualizações">
 
 <!ENTITY  languageAndAppearance.label   "Idioma e Aparência">
