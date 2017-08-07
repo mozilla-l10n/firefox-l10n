@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
 
 <!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
+<!ENTITY pageAction.addToUrlbar.label "Cuir ri bàr an t-seòlaidh">
+<!ENTITY pageAction.removeFromUrlbar.label "Thoir air falbh o bhàr an t-seòlaidh">
 
-
-
+<!ENTITY sendToDevice.label2 "Cuir gun uidheam">
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">

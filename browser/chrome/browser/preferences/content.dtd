@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "b">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Barrachd fiosrachaidh">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Tagh na làraichean-lìn aig a bheil cead brathan a chur thugad">
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
 <!ENTITY  notificationsPolicyButton.label      "Tagh…">
 <!ENTITY  notificationsDoNotDisturb.label      "Na bris a-steach orm">
