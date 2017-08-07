@@ -3,18 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Kopyahin">
 <!ENTITY  copy.accesskey        "C">
 <!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Piliin ang Lahat">
+<!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Pangkalahatan">
 <!ENTITY  generalTab.accesskey  "g">
+<!ENTITY  generalTitle          "Titulo:">
+<!ENTITY  generalURL            "Address:">
 <!ENTITY  generalType           "Uri:">
+<!ENTITY  generalMode           "Render Mode:">
 <!ENTITY  generalSize           "Sukat:">
 <!ENTITY  generalReferrer       "Pinanggalingan na URL:">
+<!ENTITY  generalSource         "Cache Source:">
 <!ENTITY  generalModified       "Ayusin:">
+<!ENTITY  generalEncoding2      "Ini-encode ang Text:">
 <!ENTITY  generalMetaName       "Pangalan">
 <!ENTITY  generalMetaContent    "Nilalaman">
 
@@ -23,15 +32,19 @@
 <!ENTITY  mediaLocation         "Lokasyon:">
 <!ENTITY  mediaText             "Kaugnay na Text:">
 <!ENTITY  mediaAltHeader        "Alternate na Text">
+<!ENTITY  mediaAddress          "Address">
+<!ENTITY  mediaType             "Uri">
 <!ENTITY  mediaSize             "Sukat">
 <!ENTITY  mediaCount            "Bilang">
 <!ENTITY  mediaDimension        "Mga sukat:">
 <!ENTITY  mediaLongdesc         "mahabang paglalarawan:">
 <!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "I-save Bilang…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Preview ng Media:">
 
+<!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
 <!ENTITY  feedSubscribe         "Mag-subscribe">
 <!ENTITY  feedSubscribe.accesskey "u">
@@ -41,6 +54,7 @@
 <!ENTITY  permUseDefault        "Gamitin ang Nakatakda">
 <!ENTITY  permAskAlways         "Palaging itanong">
 <!ENTITY  permAllow             "Payagan">
+<!ENTITY  permAllowSession      "Payagan para sa Session">
 <!ENTITY  permBlock             "Harangin">
 <!ENTITY  permissionsFor        "Mga Pahintulot para sa:">
 <!ENTITY  permPlugins           "I-activate ang mga Plugin">
@@ -59,7 +73,9 @@
 <!ENTITY  securityView.identity.owner    "May-ari:">
 <!ENTITY  securityView.identity.domain   "Web site:">
 <!ENTITY  securityView.identity.verifier "Pinatunayan ng:">
+<!ENTITY  securityView.identity.validity "Mag-e-expire sa:">
 
+<!ENTITY  securityView.privacy.header                   "Kasaysayan ng Privadong &amp;">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
 <!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Ipakita ang mga Cookie">
@@ -68,4 +84,6 @@
 <!ENTITY  securityView.privacy.viewPasswords            "Ipakita ang naka-saved na Passwords">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
+<!ENTITY  securityView.technical.header                 "Detalyeng Pangtiknikal">
 
+<!ENTITY  helpButton.label                              "Tulong">
