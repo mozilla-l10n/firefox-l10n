@@ -57,7 +57,7 @@
 <!ENTITY bottomLinks.rights         "最终用户权利">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "隐私权政策">
+<!ENTITY bottomLinks.privacy        "隐私政策">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "正在检查更新…">
