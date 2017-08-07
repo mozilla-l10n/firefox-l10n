@@ -43,8 +43,9 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "एप्पमेन्यू">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "&brandShortName; प्रदर्शित करें मेन्यू">
+<!ENTITY lightning.toolbar.calendarmenu.label        "पंचांग फलक">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "फलक कैलेंडर दिखाये">
 <!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
