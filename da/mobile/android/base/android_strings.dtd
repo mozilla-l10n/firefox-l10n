@@ -195,9 +195,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_advanced "Avanceret">
-<!-- Localization note (pref_category_advanced_summary3): "data saver" in this
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
-     "storing data". -->
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
@@ -252,9 +252,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
-<!-- Localization note (pref_category_data_saver): "data saver" in this
+<!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
-     "storing data". -->
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Data-sparer">
 <!ENTITY pref_category_media "Medie">
 <!ENTITY pref_category_developer_tools "Udviklerværktøjer">
@@ -547,7 +547,7 @@
 <!ENTITY bookmark_edit_folder_title "Rediger mappe">
 <!ENTITY bookmark_edit_name "Navn">
 <!ENTITY bookmark_edit_location "Adresse">
-<!ENTITY bookmark_edit_keyword "Stikord">
+<!ENTITY bookmark_edit_keyword "Genvej">
 <!ENTITY bookmark_select_folder "Vælg mappe">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
