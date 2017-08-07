@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Nepostojeći">
 <!ENTITY editDirectories.label                 "Uredi imenike…">
 <!ENTITY editDirectories.accesskey             "e">
-
-
-
+<!ENTITY showAsDefault.label                   "Zadana početna mapa u prozoru adresara:">
+<!ENTITY showAsDefault.accesskey               "s">
+<!ENTITY showAsDefaultLast.label               "Zadnje korištena mapa">
 
 <!ENTITY sendOptionsDescription.label          "Podesite ponašanje prilikom oblikovanja teksta">
 <!ENTITY sendOptions.label                     "Mogućnosti slanja…">
