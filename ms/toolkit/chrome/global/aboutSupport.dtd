@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "Homepage">
 <!ENTITY aboutSupport.experimentBranch "Cabang">
 
-<!ENTITY aboutSupport.appBasicsTitle "Aplikasi asas">
+<!ENTITY aboutSupport.appBasicsTitle "Asas Aplikasi">
 <!ENTITY aboutSupport.appBasicsName "Nama">
 <!ENTITY aboutSupport.appBasicsVersion "Versi">
 <!ENTITY aboutSupport.appBasicsBuildID "ID Binaan">
