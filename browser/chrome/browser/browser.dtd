@@ -951,7 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Закриті всі <html:strong>Вкладки</html:strong> та <html:strong>Вікна</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Відкрито нове чисте вікно">
 
-<!ENTITY panicButton.view.undoWarning             "Цю дію неможливо відмінити.">
+<!ENTITY panicButton.view.undoWarning             "Цю дію неможливо скасувати.">
 <!ENTITY panicButton.view.forgetButton            "Забути!">
 
 <!ENTITY panicButton.thankyou.msg1                "Ваша недавня історія була видалена.">
