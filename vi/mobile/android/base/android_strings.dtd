@@ -28,6 +28,7 @@
 
 <!ENTITY firstrun_readerview_title "Bài viết">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_subtext "Dùng Chế độ đọc để giúp bài viết đẹp hơn để đọc \u2014 kể cả khi ngoại tuyến.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Bạn">
@@ -43,6 +44,7 @@
 <!ENTITY  switch_to_tab "Chuyển sang thẻ">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Đang hiển thị phiên bản ngoại tuyến">
 
 <!ENTITY  crash_reporter_title "Trình báo cáo lỗi &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; đã gặp sự cố. Thẻ của bạn sẽ được liệt kê trên trang Khởi động &brandShortName; khi bạn khởi động lại.">
@@ -288,6 +290,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY tracking_protection_prompt_tip_text "Đi đến cài đặt Riêng tư để tìm hiểu thêm">
 <!ENTITY tracking_protection_prompt_action_button "Hiểu rồi!">
 
 <!ENTITY tab_queue_toast_action "Mở ngay">
