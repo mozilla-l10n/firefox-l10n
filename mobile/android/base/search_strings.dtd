@@ -18,11 +18,11 @@
 <!ENTITY search_pref_title 'Ρυθμίσεις'>
 <!ENTITY search_pref_button_content_description 'Ρυθμίσεις'>
 
-<!ENTITY pref_clearHistory_confirmation 'History cleared'>
-<!ENTITY pref_clearHistory_dialogMessage 'Delete all search history from this device?'>
-<!ENTITY pref_clearHistory_title 'Clear search history'>
+<!ENTITY pref_clearHistory_confirmation 'Το ιστορικό διαγράφηκε'>
+<!ENTITY pref_clearHistory_dialogMessage 'Να διαγραφεί όλο το ιστορικό αναζήτησης από αυτήν τη συσκευή;'>
+<!ENTITY pref_clearHistory_title 'Εκκαθάριση ιστορικού αναζήτησης'>
 
-<!ENTITY search_widget_button_label 'Search'>
+<!ENTITY search_widget_button_label 'Αναζήτηση'>
 
-<!ENTITY network_error_title 'No internet connection'>
-<!ENTITY network_error_message 'Tap here to check your network settings'>
+<!ENTITY network_error_title 'Χωρίς σύνδεση στο διαδίκτυο'>
+<!ENTITY network_error_message 'Πατήστε εδώ για να ελέγξετε τις ρυθμίσεις δικτύου'>
