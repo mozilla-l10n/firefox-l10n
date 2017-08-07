@@ -5,7 +5,8 @@
 <!ENTITY  security.label                 "Tèarainteachd">
 <!ENTITY  phishingProtection.label       "Dìon o fhiasgach">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Thoir rabhadh nuair a dh’fheuchas làraichean-lìn ri tuilleadan a stàladh">
+<!ENTITY  warnOnAddonInstall2.accesskey   "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Foirmean ⁊ faclan-faire">
 
-
+<!ENTITY  rememberLogins2.label         "Cuimhnich dàta clàradh a-steach is faclan-faire nan làraichean-lìn">
+<!ENTITY  rememberLogins2.accesskey     "r">
 <!ENTITY  passwordExceptions.label      "Eisgeachdan…">
 <!ENTITY  passwordExceptions.accesskey  "E">
 
