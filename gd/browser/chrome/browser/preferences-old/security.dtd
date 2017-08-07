@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Coitcheann">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Thoir rabhadh nuair a dh’fheuchas làraichean-lìn ri tuilleadan a stàladh">
+<!ENTITY  warnOnAddonInstall2.accesskey   "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -25,7 +26,8 @@
 
 <!ENTITY  logins.label                  "Clàraidhean a-steach">
 
-
+<!ENTITY  rememberLogins2.label         "Cuimhnich na clàraidhean a-steach air làraichean-lìn">
+<!ENTITY  rememberLogins2.accesskey     "r">
 <!ENTITY  passwordExceptions.label      "Eisgeachdan…">
 <!ENTITY  passwordExceptions.accesskey  "E">
 
