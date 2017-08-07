@@ -30,7 +30,7 @@
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
-<!ENTITY runtimeMenu_disconnect_label "Terputus">
+<!ENTITY runtimeMenu_disconnect_label "Memutuskan">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Skrinsyot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
