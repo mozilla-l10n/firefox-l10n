@@ -627,8 +627,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "b">
 <!ENTITY mediaPlaybackRate050x2.label "Motela (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Arrunta">
+<!ENTITY mediaPlaybackRate100x2.accesskey "A">
 <!ENTITY mediaPlaybackRate125x2.label "Azkarra (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "z">
 <!ENTITY mediaPlaybackRate150x2.label "Azkarragoa (1,5×)">
