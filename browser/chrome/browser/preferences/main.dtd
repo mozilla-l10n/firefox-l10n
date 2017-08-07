@@ -29,7 +29,7 @@
 <!ENTITY chooseFolderMac.label        "Вибрати…">
 <!ENTITY chooseFolderMac.accesskey    "В">
 <!ENTITY alwaysAskWhere.label         "Завжди запитувати де зберегти файли">
-<!ENTITY alwaysAskWhere.accesskey     "З">
+<!ENTITY alwaysAskWhere.accesskey     "ж">
 
 <!ENTITY alwaysCheckDefault2.label        "Завжди перевіряти чи є &brandShortName; типовим браузером">
 <!ENTITY alwaysCheckDefault2.accesskey    "б">
