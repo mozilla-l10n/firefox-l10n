@@ -23,6 +23,7 @@
 
 <!ENTITY  languageAndAppearance.label   "Kieli ja ulkoasu">
 <!ENTITY  filesAndApplications.label    "Tiedostot ja ohjelmat">
+<!ENTITY  browserPrivacy.label          "Selaimen tietosuoja">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-tili">
