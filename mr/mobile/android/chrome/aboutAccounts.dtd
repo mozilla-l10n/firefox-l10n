@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefox खाती">
-<!ENTITY aboutAccounts.connected.description "आपण यांच्यासह जुळलेले आहात">
+<!ENTITY aboutAccounts.connected.description "आपण या नावाने जुळलेले आहात">
 <!ENTITY aboutAccounts.syncPreferences.label "आपल्या ताळमेळ सेटिंग तपासण्यासाठी येथे दाबा">
 
 <!ENTITY aboutAccounts.noConnection.title "इंटरनेट जोडणी नाही">

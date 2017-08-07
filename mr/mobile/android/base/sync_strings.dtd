@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "परत ब्राउझिंगकडे">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ला जोडा">
-<!ENTITY fxaccount_getting_started_description2 "आपल्या टॅब्स, वाचनखूणा, लॉगइन्स आणि बरंच यांच्या ताळमेळीसाठी साइन इन करा.">
+<!ENTITY fxaccount_getting_started_description2 "आपल्या टॅब्स, वाचनखूणा, लॉगइन्स आणि बऱ्याच ताळमेळीसाठी साइन इन करा.">
 <!ENTITY fxaccount_getting_started_get_started "सुरु करा">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?">
 
@@ -123,7 +123,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; म्हणून साइन इनसाठी टिचकी द्या">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; अद्ययावत संपवायचे?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; अद्ययावत करणे संपवायचे?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; म्हणून साइन इनसाठी टिचकी द्या">

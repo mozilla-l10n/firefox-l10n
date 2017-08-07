@@ -371,7 +371,7 @@
 <!ENTITY pref_use_system_font_size_summary "प्रणाली फॉन्ट आकाराप्रमाणे वेब वरच्या मजकूराचा आकार बदला">
 
 <!ENTITY pref_media_autoplay_enabled "अाॅटोप्ले स्वीकारा">
-<!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून चित्रफिती आणि इतर मीडीया सामग्री चालवणे नियंत्रित करा">
+<!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून व्हिडिओ आणि इतर मीडीया सामग्री चालवू शकतात का हे नियंत्रित करा">
 <!ENTITY pref_zoom_force_enabled "झूम कायम सक्रीय">
 <!ENTITY pref_zoom_force_enabled_summary "फोर्स ओव्हरराइड मुळे आपण कुठल्यापण पानावर झूम करु शकता">
 <!ENTITY pref_voice_input "आवाज इनपुट">
@@ -381,17 +381,17 @@
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync2 "साइन इन">
-<!ENTITY pref_sync_summary2 "आपल्या टॅब्स, वाचनखूणा, लॉगइन्स, इतिहास यांचे ताळमेळ साधा">
+<!ENTITY pref_sync_summary2 "आपले टॅब्स, वाचनखूणा, लॉगइन्स, इतिहास यांचा ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
-<!ENTITY pref_history_search_suggestions "शोध इतिहास दर्शवा">
-<!ENTITY pref_import_options "आयात विकल्प">
+<!ENTITY pref_history_search_suggestions "शोध इतिहास दाखवा">
+<!ENTITY pref_import_options "विकल्प आयात करा">
 <!ENTITY pref_import_android_summary "मूळ ब्राउझरमधून वाचनखूणा आणि इतिहास आयात करा">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "टॅब उघडा">
 <!ENTITY pref_private_data_history2 "ब्राउझिंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
-<!ENTITY pref_private_data_formdata2 "इतिहास मधुन">
+<!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
 <!ENTITY pref_private_data_passwords2 "साठवलेले लॉगइन्स">
 <!ENTITY pref_private_data_cache "कॅशे">
@@ -490,7 +490,7 @@
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_sending_to "उपकरणात संचरण होत आहे">
+<!ENTITY media_sending_to "उपकरणाकडे पाठवत आहे">
 <!ENTITY media_play "चालू करा">
 <!ENTITY media_pause "थोडा वेळ थांबवा">
 <!ENTITY media_stop "थांबा">
@@ -521,7 +521,7 @@
 <!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड दाखवा">
 <!ENTITY doorhanger_login_select_message "&formatS; पासून पासवर्ड प्रत बनवायची?">
-<!ENTITY doorhanger_login_select_toast_copy "पासवर्ड क्लिपबोर्डवर प्रत झाली">
+<!ENTITY doorhanger_login_select_toast_copy "पासवर्डची क्लिपबोर्डवर प्रत बनवली">
 <!ENTITY doorhanger_login_select_action_text "दुसरे लॉगइन निवडा">
 <!ENTITY doorhanger_login_select_title "पासून पासवर्डची प्रत करा">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
@@ -544,7 +544,7 @@
 <!ENTITY page_removed "पान काढले गेले">
 
 <!ENTITY bookmark_edit_title "वाचनखूण संपादीत करा">
-
+<!ENTITY bookmark_edit_folder_title "फोल्डर संपादित करा">
 <!ENTITY bookmark_edit_name "नाव">
 <!ENTITY bookmark_edit_location "स्थळ">
 <!ENTITY bookmark_edit_keyword "संकेतशब्द">
@@ -587,7 +587,7 @@
 <!ENTITY home_synced_devices_number "&formatD; उपकरणे">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 उपकरण">
-<!ENTITY home_history_back_to2 "पूर्ण इतिहास कडे जा">
+<!ENTITY home_history_back_to2 "पूर्ण इतिहास कडे परत जा">
 <!ENTITY home_clear_history_button "ब्राऊजिंग इतिहास पुसा">
 <!ENTITY home_clear_history_confirm "आपला इतिहास पुसण्याबद्दल आपली खात्री आहे का?">
 <!ENTITY home_bookmarks_empty "आपण साठवलेल्या वाचनखूणा येथे दिसतील.">
@@ -614,13 +614,13 @@
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; लपविलेले साधने">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; उपकरणे लपवली आहेत">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "लपविलेले साधने">
+<!ENTITY home_remote_tabs_hidden_devices_title "लपविलेली उपकरणे">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "निवडलेले पर्याय दाखवा">
+<!ENTITY home_remote_tabs_unhide_selected_devices "निवडलेली उपकरणे दाखवा">
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 
@@ -656,17 +656,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "हे सुरक्षित &brandShortName; पान आहे.">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावर असुरक्षित आशय अडवले.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावरचा असुरक्षित आशय अडवला आहे.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ने या पानावर काही असुरक्षित आशय अडवला आहे.">
-<!ENTITY mixed_content_display_loaded1 "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
-<!ENTITY mixed_content_protection_disabled1 "असुरक्षित आशयापासुन आपण सुरक्षा निष्क्रिय केली आहे.">
+<!ENTITY mixed_content_display_loaded1 "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
+<!ENTITY mixed_content_protection_disabled1 "असुरक्षित मजकूरापासुन आपण सुरक्षा निष्क्रिय केली आहे.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title2 "सुरक्षेचा मागोवा">
+<!ENTITY doorhanger_tracking_title2 "मागोवा सुरक्षा">
 <!ENTITY doorhanger_tracking_state_enabled "सक्रीय">
 <!ENTITY doorhanger_tracking_state_disabled "निष्क्रिय">
 <!ENTITY doorhanger_tracking_message_enabled1 "आपल्या ऑनलाइन वागणुकीच्या मागोव्याचे प्रयत्न अडवले.">
-<!ENTITY doorhanger_tracking_message_disabled2 "आपलं ब्राउझिंगचा मागोवा घेउ शकणारे घटक या पानामधे आहेत.">
+<!ENTITY doorhanger_tracking_message_disabled2 "आपल्या ब्राउझिंगचा मागोवा घेऊ शकणारे घटक या पानामधे आहेत.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "आणखी शिका">
@@ -678,7 +678,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "आयात करा">
 <!ENTITY bookmarkhistory_import_both "Android मधून वाचनखूणा आणि इतिहास आयात करत आहे">
-<!ENTITY bookmarkhistory_import_bookmarks "Android मधून वाचनखूणा आयात करत आहे">
+<!ENTITY bookmarkhistory_import_bookmarks "Android मधून वाचनखूणा आयात करत आहे">
 <!ENTITY bookmarkhistory_import_history "Androidमधून इतिहास आयात करत आहे">
 <!ENTITY bookmarkhistory_import_wait "कृपया प्रतिक्षा करा...">
 
@@ -699,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "&brandShortName; साठी अद्ययावत उपलब्ध">
+<!ENTITY updater_start_title2 "&brandShortName; साठी नवीन आवृत्ती उपलब्ध">
 <!ENTITY updater_start_select2 "डाउनलोड करण्यासाठी स्पर्श करा">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड होत आहे">
@@ -707,7 +707,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड झाल्यावर अद्ययावत सक्रीय करण्यासाठी स्पर्श करा">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयत्नासाठी स्पर्श करा">
 
-<!ENTITY updater_apply_title3 "&brandShortName; साठी अद्ययावत डाउनलोड झाले आहे">
+<!ENTITY updater_apply_title3 "&brandShortName; ची नवीन आवृत्ती डाउनलोड झाली आहे">
 <!ENTITY updater_apply_select3 "प्रतिष्ठापनेसाठी स्पर्श करा">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -723,11 +723,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "सुरू ठेवा">
 <!ENTITY guest_session_dialog_cancel "रद्द">
 <!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
-<!ENTITY new_guest_session_text2 "जी व्यक्ती हे वापरत असेल त्याला आपली वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा आपल्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःप्रस्थापित होईल.">
+<!ENTITY new_guest_session_text2 "जी व्यक्ती हे वापरत असेल त्याला आपली वयैक्तिक ब्राउझिंग माहिती दिसणार नाही (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा आपल्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःप्रस्थापित होईल.">
 <!ENTITY guest_browsing_notification_title "अतिथी ब्राउझिंग सक्रीय.">
 <!ENTITY guest_browsing_notification_text "बाहेर जाण्यासाठी टिचकी">
 
-<!ENTITY exit_guest_session_title "&brandShortName; आता पुनःसुरु होईल">
+<!ENTITY exit_guest_session_title "&brandShortName; आता पुऩ्हा सुरु होईल">
 <!ENTITY exit_guest_session_text "या सत्राची ब्राउझिंग माहिती काढून टाकली जाईल.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -752,7 +752,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "शेवटचा ताळमेळ:&formatS;">
+<!ENTITY remote_tabs_last_synced "या आधिचा ताळमेळ:&formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "शेवटचा ताळमेळ: कधीच नाही">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -782,16 +782,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "ॲड-ऑन्स">
-<!ENTITY restrictable_feature_addons_installation_description "Firefox ची वैशिष्ट्ये किंवा कार्यक्षमता वाढवा. टीप: घातलेले काही निर्बंध, ॲड-ऑन्स निष्क्रीय करू शकतात.">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox ची वैशिष्ट्ये किंवा कार्यक्षमता वाढवा. टीप: ॲड-ऑन्स काही निर्बंध निष्क्रीय करू शकतात.">
 <!ENTITY restrictable_feature_private_browsing "खाजगी रीत्या ब्राउझिंग">
 <!ENTITY restrictable_feature_private_browsing_description "भेट दिलेल्या साईट किंवा पृष्ठांसंबंधी माहिती न साठविता कुटुंबातील सदस्यांना वेवसाईट ब्राउझ करण्याची परवानगी देते.">
 <!ENTITY restrictable_feature_clear_history "इतिहास पुसून टाका">
 <!ENTITY restrictable_feature_clear_history_description "भेट दिलेल्या साईट किंवा पृष्ठांसंबंधी माहिती नष्ट करण्याची कुटुंबातील सदस्यांना परवानगी देते.">
 <!ENTITY restrictable_feature_advanced_settings "प्रगत सेटिंग्स्">
-<!ENTITY restrictable_feature_advanced_settings_description "यात वाचनखूणा आयात करणे, टॅब्स् मूळस्थीतीत आणणे, आणि स्वयंचलीत अद्यावतीकरण याचा समावेश आहे. केणत्याही कुटुंबातील सदस्यासाठी सोप्या सेटींग्स साठी हे बंद करा.">
+<!ENTITY restrictable_feature_advanced_settings_description "यात वाचनखूणा आयात करणे, टॅब्स् मूळस्थीतीत आणणे, आणि स्वयंचलीत अद्यावतीकरण याचा समावेश आहे. कोणत्याही कुटुंबातील सदस्यासाठी सोप्या सेटींग्स साठी हे बंद करा.">
 <!ENTITY restrictable_feature_camera_microphone "कॅमेरा व मायक्रोफोन">
 <!ENTITY restrictable_feature_camera_microphone_description "कुटुंबातील सदस्यांना रिअल टाइम मध्ये वेबसाइटवर संवाद साधण्यासाठी परवानगी देते.">
-<!ENTITY restrictable_feature_block_list "ब्लॉक सूची">
+<!ENTITY restrictable_feature_block_list "सूची ब्लॉक करा">
 <!ENTITY restrictable_feature_block_list_description "संवेदनशील मजकूर असलेले संकेतस्थळ ब्लॉक करा.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_triple_readerview_open_title "ऑफलाइन उपलब्ध">
 <!ENTITY helper_triple_readerview_open_message "वाचक पद्धत घटकांना ऑफलाइन वाचण्यासाठी वाचनखूण लावा.">
-<!ENTITY helper_triple_readerview_open_button "वाचणखूणा बघा">
+<!ENTITY helper_triple_readerview_open_button "वाचनखुणांमध्ये समाविष्ट करा">
 
 <!ENTITY activity_stream_topsites "खास साईट्स">
 <!ENTITY activity_stream_highlights "महत्त्वाचे">
