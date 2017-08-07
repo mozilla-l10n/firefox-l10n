@@ -952,3 +952,5 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Параметри піктограми програми…">
+<!ENTITY writeNewMessageDock.label      "Написати нового листа">
+<!ENTITY openAddressBookDock.label      "Відкрити адресну книгу">
