@@ -18,12 +18,12 @@
 <!ENTITY chooseBookmark.label      "Використати закладку…">
 <!ENTITY chooseBookmark.accesskey  "к">
 <!ENTITY restoreDefault.label      "Відновити типову">
-<!ENTITY restoreDefault.accesskey  "н">
+<!ENTITY restoreDefault.accesskey  "д">
 
 <!ENTITY downloads.label     "Завантаження">
 
 <!ENTITY saveTo.label "Зберігати файли до">
-<!ENTITY saveTo.accesskey "л">
+<!ENTITY saveTo.accesskey "ф">
 <!ENTITY chooseFolderWin.label        "Вибрати…">
 <!ENTITY chooseFolderWin.accesskey    "В">
 <!ENTITY chooseFolderMac.label        "Вибрати…">
