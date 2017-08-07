@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "عمومی">
 
@@ -27,6 +27,7 @@
 <!ENTITY checkUserSpelling.accesskey     "ٹ">
 
 <!ENTITY dataChoicesTab.label            "کوائف پسند">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
@@ -57,21 +58,21 @@ available. -->
 <!ENTITY httpCache.label                 "کیسہ بند ویب مواد">
 
 <!ENTITY offlineStorage2.label           "آف لائن ویب مواد اور ویب کوائف">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "سائٹ کے کوائف">
 <!ENTITY clearSiteData.label             "تمام کوائف صاف کریں">
 <!ENTITY clearSiteData.accesskey         "ف">
 <!ENTITY siteDataSettings.label          "سیٹنگیں…">
 <!ENTITY siteDataSettings.accesskey      "ن">
 <!ENTITY siteDataLearnMoreLink.label     "مزید سیکھیں">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "کیسہ حد بند کریں">
 <!ENTITY limitCacheSizeBefore.accesskey  "ح">
 <!ENTITY limitCacheSizeAfter.label       "MB جگہ">
@@ -128,14 +129,10 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "آ">
 
 <!ENTITY performance.label               "کارکردگی">
-
-
-
-<!ENTITY performanceSettingsLearnMore.label "مزید سیکھیں">
-
-
-
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "مزید سیکھیں">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں">
 <!ENTITY allowHWAccel.accesskey          "ہ">

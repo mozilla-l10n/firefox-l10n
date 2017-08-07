@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  trackingProtectionAlways.label       "ہمیشہ">
 <!ENTITY  trackingProtectionAlways.accesskey   "ہ">
 <!ENTITY  trackingProtectionPrivate.label      "صرف نجی ونڈوں میں">
@@ -12,26 +11,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "مزید سیکھیں">
 <!ENTITY  trackingProtectionExceptions.label   "استثنیات…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ا">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ذاتی ونڈوز میں ٹریکنگ حفاظت کا استعمال کریں">
 <!ENTITY trackingProtectionPBM5.accesskey     "ت">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
-
-
-
-
-
+<!ENTITY changeBlockList2.accesskey           "C">
 
 
 <!ENTITY  history.label                 "سابقات">
 
-
-
-
-
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "نشانیاں">
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
 <!ENTITY  locbar.openpage.label         "ٹیب کھولیے">
@@ -40,11 +32,10 @@
 <!ENTITY  locbar.searches.accesskey     "و">
 
 
-
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "سہ فریقی کوکیاں قبول کریں:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-
 <!ENTITY  acceptThirdParty.never.label    "کبھی نہیں">
 <!ENTITY  acceptThirdParty.visited.label  "ملاحظہ شدہ سے">
 
@@ -60,17 +51,17 @@
 <!ENTITY  showCookies.label             "کوکی دکھائیں ...">
 <!ENTITY  showCookies.accesskey         "د">
 
-
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "سابقات یاد رکھے">
 <!ENTITY  historyHeader.dontremember.label "کبھی سابقات نہ یاد رکھے">
 <!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص ترتیب استعمال کریں">
 <!ENTITY  historyHeader.post.label         "‍">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براؤزنگ، ڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں سنبھالے گا۔">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "آپ شائد چاہیں کہ ">
 <!ENTITY  rememberActions.clearHistory.label  "اپنی حالیہ سابقات صاف کرنا چاہیں">
 <!ENTITY  rememberActions.middle.label        "، یا ">
@@ -78,9 +69,9 @@
 <!ENTITY  rememberActions.post.label          "۔">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "آپ شاید یہ بھی چاہیں کہ ">
 <!ENTITY  dontrememberActions.clearHistory.label "تمام موجودہ سابقات خالی کرنا چاہیں">
 <!ENTITY  dontrememberActions.post.label         "۔">

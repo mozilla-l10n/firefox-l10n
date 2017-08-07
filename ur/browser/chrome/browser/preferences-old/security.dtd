@@ -4,12 +4,12 @@
 
 <!ENTITY  general.label                 "عمومی">
 
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "خطرناک اور دھوکہ دینے والے مواد کو بلاک کریں">
 <!ENTITY  enableSafeBrowsing.accesskey    "ب">
 
@@ -25,7 +25,7 @@
 
 <!ENTITY  logins.label                  "لاگ ان">
 
-
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "استثنیات…">
 <!ENTITY  passwordExceptions.accesskey  "ا">
 

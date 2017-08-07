@@ -6,14 +6,9 @@
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     usageCol.label                "ذخیرہ">
-
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
-
-
-
-
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "منسوخ کریں">
 <!ENTITY     cancel.accesskey              "م">
 <!ENTITY     removingDialog.title          "سائٹ کے کوائف ہٹائیں">
-
-

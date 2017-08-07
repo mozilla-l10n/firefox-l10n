@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
 <!ENTITY changeBlockList.label          "بلاک فہرست تبدیل کریں">
 <!ENTITY changeBlockList.accesskey      "ت">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "آپ بھی ">
 <!ENTITY  doNotTrack.settings.label     "ٹریک نہ کریں کی سیٹنگیں کو بندوبست کریں">
 <!ENTITY  doNotTrack.post.label         "۔">
@@ -43,7 +43,7 @@
 <!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
 <!ENTITY  suggestionSettings.accesskey  "ب">
 
-
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "سہ فریقی کوکیاں قبول کریں:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
@@ -71,10 +71,10 @@
 <!ENTITY  historyHeader.post.label         "‍">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; آپ کی براؤزنگ، ڈاؤن لوڈ، فارم اور تلاش سابقات یاد رکھے گا، اور آپ کی دیکھی ہوئی ویب سائٹوں سے کوکیاں سنبھالے گا۔">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "آپ شائد چاہیں کہ ">
 <!ENTITY  rememberActions.clearHistory.label  "اپنی حالیہ سابقات صاف کرنا چاہیں">
 <!ENTITY  rememberActions.middle.label        "، یا ">
@@ -82,9 +82,9 @@
 <!ENTITY  rememberActions.post.label          "۔">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "آپ شاید یہ بھی چاہیں کہ ">
 <!ENTITY  dontrememberActions.clearHistory.label "تمام موجودہ سابقات خالی کرنا چاہیں">
 <!ENTITY  dontrememberActions.post.label         "۔">

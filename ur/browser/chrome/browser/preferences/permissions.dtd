@@ -5,11 +5,10 @@
 <!ENTITY window.title                 "استثنیات">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "ويب سائٹ">
 <!ENTITY treehead.status.label        "حالت">
-
-
-
-
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address.label                "ویب سائٹ کا پتہ:">
 <!ENTITY address.accesskey            "پ">
 <!ENTITY block.label                  "بلاک کریں">

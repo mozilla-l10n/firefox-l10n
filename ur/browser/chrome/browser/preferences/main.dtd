@@ -4,12 +4,13 @@
 
 <!ENTITY startup.label             "سٹارٹ اپ">
 
-
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "اپنا ہوم صفحہ دکھائیں">
 <!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
 <!ENTITY startupPrevSession.label  "اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں">
 
-
+<!ENTITY homepage2.label           "ابتدائی صفحہ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "حالیہ صفحہ برتیں">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "حالیہ صفحے استعمال کریں">
@@ -31,14 +32,11 @@
 
 <!ENTITY alwaysCheckDefault2.label        "ہمیشہ جانچ پڑتال کریں کہ &brandShortName; آپ کا پہلے سے طے شدہ براؤزر ہے">
 <!ENTITY alwaysCheckDefault2.accesskey    "ی">
-
-
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
 <!ENTITY isNotDefault.label               "&brandShortName; اس وقت آپ کا طےشدہ  براؤزر نھیں ہے">
 
 <!ENTITY separateProfileMode.label        "&brandShortName; اور Firefox کو ہم وقت چلنے کی اجازت دے">
 <!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
-
-
 
 <!ENTITY e10sEnabled.label                "کثیر عمل کاری &brandShortName; کو اہل بنائیں">

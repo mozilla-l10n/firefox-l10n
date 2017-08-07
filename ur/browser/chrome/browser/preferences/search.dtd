@@ -8,7 +8,7 @@
 <!ENTITY provideSearchSuggestions.label        "تلاش تجاویز مہیا کریں">
 <!ENTITY provideSearchSuggestions.accesskey    "ت">
 
-
+<!ENTITY showURLBarSuggestions2.accesskey       "I">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ &brandShortName; تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔">
 
 
