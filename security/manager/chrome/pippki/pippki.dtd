@@ -11,9 +11,9 @@
 <!ENTITY setPassword.meter.label "Medidor de qualidade da senha">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Resetar">
-<!ENTITY resetPassword.title  "Resetar senha mestra">
-<!ENTITY resetPassword.text  "Se resetar a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privativas serão perdidas. Deseja realmente resetar a senha mestra?">
+<!ENTITY resetPasswordButtonLabel "Redefinir">
+<!ENTITY resetPassword.title  "Redefinir senha mestra">
+<!ENTITY resetPassword.text  "Se redefinir a senha mestra, todas as suas senhas de sites e e-mails, dados de formulários, certificados pessoais e chaves privadas serão esquecidas. Tem certeza que quer redefinir sua senha mestra?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Baixando o certificado">
