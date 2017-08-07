@@ -9,7 +9,7 @@
 <!ENTITY newWindowsAsTabs.accesskey   "в">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Попереджати при закритті декількох вкладок">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "к">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "і">
 
 <!ENTITY warnOnOpenManyTabs.label       "Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "л">
