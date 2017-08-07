@@ -56,8 +56,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Tukar gambar profil">
 <!ENTITY verifiedManage.label        "Urus Akaun">
 <!ENTITY verifiedManage.accesskey    "s">
-<!ENTITY disconnect3.label           "Nyahsambung…">
-<!ENTITY disconnect3.accesskey       "N">
+<!ENTITY disconnect3.label           "Memutuskan…">
+<!ENTITY disconnect3.accesskey       "M">
 <!ENTITY verify.label                "Sahkan E-mel">
 <!ENTITY verify.accesskey            "S">
 <!ENTITY forget.label                "Lupakan E-mel ini">
