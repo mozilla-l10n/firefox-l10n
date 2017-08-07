@@ -8,8 +8,8 @@
 
 <!ENTITY useCursorNavigation.label       "Uvijek koristi tipke pokazivača za navigaciju unutar stranica">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
+<!ENTITY searchOnStartTyping.label       "Traženje teksta već prilikom upisivanja">
+<!ENTITY searchOnStartTyping.accesskey   "k">
 <!ENTITY useOnScreenKeyboard.label       "Prikaži tipkovnicu na zaslonu kada je potrebno">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -19,8 +19,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Koristi uglađeno klizanje">
 <!ENTITY useSmoothScrolling.accesskey    "u">
-
-
+<!ENTITY checkUserSpelling.label         "Provjeravanje pravopisa tijekom pisanja">
+<!ENTITY checkUserSpelling.accesskey     "v">
 
 <!ENTITY dataChoicesTab.label            "Izbori podataka">
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
@@ -48,7 +48,9 @@ available. -->
 <!ENTITY offlineStorage2.label           "Izvanmrežni web sadržaj i korisnički podaci">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "Podaci o stranici">
+<!ENTITY clearSiteData.label             "Očisti sve podatke">
+<!ENTITY clearSiteData.accesskey         "t">
 
 
 
@@ -97,7 +99,8 @@ available. -->
 
 
 
-
+<!ENTITY offlineStorageNotify.label               "Obavještava vas kada internetska stranica traži spremanje podataka za izvanmrežno korištenje">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Iznimke…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
@@ -111,7 +114,7 @@ available. -->
 
 <!ENTITY selectCerts.auto                "Automatski označi jednoga">
 
-
+<!ENTITY selectCerts.ask                 "Traži vas svaki put">
 
 <!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata">
 <!ENTITY enableOCSP.accesskey            "U">

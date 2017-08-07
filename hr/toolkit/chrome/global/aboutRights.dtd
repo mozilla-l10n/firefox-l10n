@@ -58,12 +58,12 @@
 <!ENTITY rights3.webservices-c ". Druge mogućnosti i usluge se mogu onemogućiti u postavkama programa.">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Onemogućavanjem Safe Browsing mogućnosti nije preporučljivo zbog mogućeg pristupa nesigurnim stranicama.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:">
+<!ENTITY rights.safebrowsing-a "Sigurno pretraživanje: ">
+<!ENTITY rights.safebrowsing-b "Nije preporučljivo onemogućavati značajku Sigurno pretraživanje jer u tom slučaju niste zaštićeni od pristupanja nesigurnim stranicama.  Ako želite u potpunosti onemogućiti ovu mogućnost, slijedite ove korake:">
 <!ENTITY rights.safebrowsing-term1 "Otvorite postavke aplikacije">
 <!ENTITY rights.safebrowsing-term2 "Odaberite kategoriju Sigurnost">
 <!ENTITY rights2.safebrowsing-term3 "Isključite mogućnost kako biste &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing je sada isključen">
+<!ENTITY rights.safebrowsing-term4 "Sigurno je pretraživanje onemogućeno">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Geolokacijsko pretraživanje: ">
@@ -81,7 +81,7 @@
 <!ENTITY rights.webservices-term1-unbranded "Bilo koji primijenjivi uvjeti usluga za ovaj proizvod bi trebali biti navedeni ovdje.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term1 "&vendorShortName; i njegovi doprinositelji, izdavatelji licenci i partneri rade na pružanju najpreciznijih i ažurnih usluga.  Međutim, ne možemo jamčiti da su ove informacije sveobuhvatne i bez grešaka.  Na primjer, usluga Safe Browsing možda neće identificirati neke rizične stranice ili će pak neke sigurne stranice prepoznati kao rizične. Lokacije u usluzi geolociranja su procjene naših pružatelja usluge, koji ne jamče preciznost dobivenih lokacija.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; i njegovi doprinositelji, izdavatelji licencija i partneri rade na pružanju najpreciznijih i ažurnih usluga.  Međutim, ne možemo jamčiti da su ove informacije sveobuhvatne i bez grešaka.  Na primjer, usluga Sigurno pretraživanje možda neće identificirati neke rizične stranice ili će pak neke sigurne stranice označiti rizičnima. Lokacije u usluzi geolociranja su procjene naših pružatelja usluge koji ne jamče preciznost dobivenih lokacija.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; može ukinuti ili promijeniti uslugu prema vlastitom nahođenju.">
 <!ENTITY rights2.webservices-term3 "Uz danu inačicu &brandShortName;a ste slobodni koristiti ove usluge i &vendorShortName; vam daje pravo za to.  &vendorShortName; i njezini pružatelji licence zadržavaju sva ostala prava u uslugama.  Ovi uvjeti nisu namjenjeni ograničavanju vaših prava danih u licencama otvorenog kôda koje se primjenjuju na &brandShortName; i odgovarajući izvorni kôd &brandShortName;a.">
 <!ENTITY rights.webservices-term4 "Usluge su pružete &quot;kakve jesu&quot;. &vendorShortName;, njegovi razvijatelji, vlasnici licenca i distributeri, poriču sva jamstva, izražena ili podrazumijevana, uključujući bez ograničenja, jamstva da su usluge uporabljive kvalitete i da su primjenjive vašim potrebama. Snosite cijeli rizik odabira Usluga za svoje potrebe i kvalitete i performansi Usluga. Neki entiteti ne dozvoljavaju izizueće ili ograničavanje podrazumijevanih jamstava, pa se ovo odricanje možda ne primjenjuje i na vas.">
