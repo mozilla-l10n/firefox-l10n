@@ -21,8 +21,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
-
-
+<!ENTITY changeBlockList2.label               "تغییر فهرست مسدودی‌ها…">
+<!ENTITY changeBlockList2.accesskey           "ت">
 
 <!ENTITY  doNotTrack.learnMore.label    "اطلاعات بیشتر">
 <!ENTITY  doNotTrack.default.label      "تنها زمانی که از محافظ دنبال کردن استفاده ‌می‌شود">

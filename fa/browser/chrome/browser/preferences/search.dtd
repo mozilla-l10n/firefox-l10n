@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "موتورهای جست‌وجوی تک-کلیکی">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "در هنگام وارد کردن کلید واژه‌ها جهت جست‌وجو، موتورهای جست‌وجو جایگزین را از قسمت پایینی نوار آدرس یا نوار جست‌وجو انتخاب کنید.">
 
 <!ENTITY engineNameColumn.label                "موتور جست‌وجو">
 <!ENTITY engineKeywordColumn.label             "کلیدواژه">
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "حذف">
 <!ENTITY removeEngine.accesskey                "ح">
 
+<!ENTITY findMoreSearchEngines.label           "پیدا کردن موتورهای جست‌وجو بیشتر">
