@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Tarkista aina, onko &brandShortName; oletusselain">
 <!ENTITY alwaysCheckDefault2.accesskey    "i">
-<!ENTITY setAsMyDefaultBrowser2.label     "Aseta oletukseksi">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "e">
+<!ENTITY setAsMyDefaultBrowser3.label     "Aseta oletukseksi…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "e">
 <!ENTITY isDefault.label                  "&brandShortName; on järjestelmän oletusselain">
 <!ENTITY isNotDefault.label               "&brandShortName; ei ole järjestelmän oletusselain">
 

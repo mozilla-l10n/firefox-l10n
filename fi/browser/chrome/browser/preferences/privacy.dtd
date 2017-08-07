@@ -22,8 +22,6 @@
 <!ENTITY trackingProtectionPBM6.label         "Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä">
 <!ENTITY trackingProtectionPBM6.accesskey     "m">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lue lisää">
-<!ENTITY changeBlockList.label          "Muuta estolistaa">
-<!ENTITY changeBlockList.accesskey      "M">
 
 <!ENTITY  doNotTrack.description        "Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan">
 <!ENTITY  doNotTrack.learnMore.label    "Lue lisää">
@@ -34,8 +32,9 @@
 <!ENTITY  permissions.label             "Oikeudet">
 
 <!ENTITY  addressBar.label              "Osoitepalkki">
-<!ENTITY  locbar.history.label          "sivuhistoriasta">
-<!ENTITY  locbar.history.accesskey      "s">
+<!ENTITY  addressBar.suggest.label      "Ehdota osoitepalkissa sivuja">
+<!ENTITY  locbar.history2.label         "selaushistoriasta">
+<!ENTITY  locbar.history2.accesskey     "h">
 <!ENTITY  locbar.bookmarks.label        "kirjanmerkeistä">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "avoimista välilehdistä">
@@ -45,8 +44,6 @@
 
 <!ENTITY  suggestionSettings2.label     "Muuta hakukoneiden ehdotusten asetuksia">
 
-<!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
-<!ENTITY  acceptCookies.accesskey       "v">
 
 <!ENTITY  acceptThirdParty.pre.label      "Salli kolmannen osapuolen evästeet:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">

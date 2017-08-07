@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Oletushakukone">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Valitse oletushakukone. &brandShortName; käyttää sitä osoitepalkin, hakupalkin ja aloitussivun hakukoneena.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Valitse oletushakukone, jota käytetään osoite- ja hakupalkissa.">
 
 <!ENTITY provideSearchSuggestions.label        "Näytä hakuehdotuksia">
 <!ENTITY provideSearchSuggestions.accesskey    "N">
 
-<!ENTITY showURLBarSuggestions.label           "Näytä hakuehdotukset osoitepalkkihauissa">
-<!ENTITY showURLBarSuggestions.accesskey       "o">
+<!ENTITY showURLBarSuggestions2.label           "Näytä hakuehdotukset osoitepalkkihauissa">
+<!ENTITY showURLBarSuggestions2.accesskey       "o">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet kieltänyt sivuhistorian tallentamisen.">
 
 <!ENTITY oneClickSearchEngines.label           "Hakukoneet pikavalikossa">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Hakukoneita voi vaihtaa nopeasti hakupalkin pikavalikosta. Valitse pikavalikon hakukoneet.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.">
 
 <!ENTITY engineNameColumn.label                "Hakukone">
 <!ENTITY engineKeywordColumn.label             "Pikakomento">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Poista">
 <!ENTITY removeEngine.accesskey                "P">
 
-<!ENTITY addMoreSearchEngines2.label           "Lisää hakukoneita">
+<!ENTITY findMoreSearchEngines.label           "Etsi lisää hakukoneita">

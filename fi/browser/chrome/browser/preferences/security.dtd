@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Turvallisuus">
+<!ENTITY  phishingProtection.label       "Verkkourkinnalta suojaus">
 
-<!ENTITY  warnOnAddonInstall.label        "Varoita, kun sivustot yrittävät asentaa lisäosia">
-<!ENTITY  warnOnAddonInstall.accesskey    "V">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +25,6 @@
 
 <!ENTITY  formsAndPasswords.label       "Lomakkeet ja salasanat">
 
-<!ENTITY  rememberLogins1.label          "Tallenna kirjautumistiedot">
-<!ENTITY  rememberLogins1.accesskey      "T">
 <!ENTITY  passwordExceptions.label      "Poikkeukset…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 

@@ -8,7 +8,6 @@
 <!ENTITY  blockPopups.accesskey       "E">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Lue lisää">
-<!ENTITY  notificationsPolicyDesc3.label       "Valitse sivustot, joilta vastaanotetaan ilmoituksia">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Valitse…">
 <!ENTITY  notificationsDoNotDisturb.label      "Älä häiritse minua">
@@ -52,5 +51,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Sivujen kääntäjä">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö">
 
+<!ENTITY  playDRMContent2.label          "Toista DRM-suojattua sisältöä">
+<!ENTITY  playDRMContent2.accesskey      "D">
 <!ENTITY  playDRMContent.learnMore.label "Lue lisää">
