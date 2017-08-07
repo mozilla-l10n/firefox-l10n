@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
 
-<!ENTITY containersMenu.label "Containers">
+<!ENTITY containersMenu.label "Contêineres">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Arquivo"> 
 <!ENTITY fileMenu.accesskey       "A">
-<!ENTITY newUserContext.label             "Nova aba container">
+<!ENTITY newUserContext.label             "Nova aba contêiner">
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -522,7 +522,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Abrir frame em uma nova janela">
 <!ENTITY openFrameCmd.accesskey       "A">
-<!ENTITY openLinkCmdInContainerTab.label "Abrir link em uma nova aba container">
+<!ENTITY openLinkCmdInContainerTab.label "Abrir link em uma nova aba contêiner">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar só este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
