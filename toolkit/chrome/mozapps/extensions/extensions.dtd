@@ -30,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "সব এক্সটেনশন দেখাও">
 <!ENTITY debugAddons.label                    "অ্যাড-অন ডিবাগ">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।">
 <!ENTITY warning.checkcompatibility.label          "অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।">
 <!ENTITY warning.checkcompatibility.enable.label   "সক্রিয়">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।">
 <!ENTITY warning.updatesecurity.enable.label       "সক্রিয়">
 <!ENTITY warning.updatesecurity.enable.tooltip     "অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "অনুসন্ধান">
 <!ENTITY view.discover.label                  "অ্যাড-অন নিন">
 <!ENTITY view.recentUpdates.label             "সাম্প্রতিক হালনাগাদ">
 <!ENTITY view.availableUpdates.label          "বিদ্যমান হালনাগাদ">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "হালনাগাদ পরীক্ষা C">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "সাম্প্রতিক হালনাগাদ প্রদর্শন V">
@@ -74,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "বিদ্যমান হালনাগাদ প্রদর্শিত হবে">
 <!ENTITY updates.updateSelected.label         "হালনাগাদ ইনস্টল করুন">
 <!ENTITY updates.updateSelected.tooltip       "তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "আরও তথ্য প্রদর্শন করা হবে S">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "হালনাগাদ অনুসন্ধান করা হবে F">
@@ -119,15 +119,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "রিলিজ নোট আড়াল করা হবে">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "এই হালনাগাদের জন্য রিলিজ নোট আড়াল করা হবে">
 <!ENTITY cmd.findReplacement.label            "কোন প্রতিস্থাপন খুঁজুন">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "অ্যাড-অন কি?">
 <!ENTITY discover.description2                "অ্যাড-অন হল এমন অ্যাপ্লিকেশন যা কি না অতিরিক্ত কার্যকরণ বা শৈলীসহ &brandShortName; এর সাথে আপনাকে পরিচিত করে। সময়- সংরক্ষণীয় সাইডবার, আবহাওয়া ঘোষক, বা &brandShortName; কে নিজের মত করে দেখার জন্য থীম চেহারা ব্যবহার করে।">
 <!ENTITY discover.footer                      "আপনি যখন ইন্টারনেট এর সাথে সংযুক্ত থাকবেন তখন আপনার ব্যবহারের জন্য এ প্যানে কিছু সর্বোৎকৃষ্ট ও সবচেয়ে জনপ্রিয় অ্যাড-অন প্রদর্শিত হবে।">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "সংস্করণ">
 <!ENTITY detail.lastupdated.label             "সর্বশেষ হালনাগাদ">
 <!ENTITY detail.creator.label                 "ডেভেলপার">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "পছন্দ সমূহ P">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "রেটিং">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "বিরতি">
 <!ENTITY progress.cancel.tooltip              "বাতিল">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "নাম">
 <!ENTITY sort.name.tooltip                    "নামানুসারে সাজান">
 <!ENTITY sort.dateUpdated.label               "সর্বশেষ হালনাগাদকৃত">
@@ -189,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -222,12 +223,12 @@
 <!ENTITY eula.accept                          "অনুমোদন এবং ইনস্টল…">
 
 <!ENTITY settings.path.button.label           "ব্রাউজ...">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "এটা কি? হয়তো টেলিমেট্রি ইন্সটল এবং পরীক্ষানিরীক্ষা চালাতে পারে।">
 <!ENTITY experiment.info.learnmore "আরও জানুন…">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -256,6 +257,3 @@
 
 <!ENTITY legacyWarning.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন এক্সটেনশন &brandShortName; আর সমর্থন করে না।">
 <!ENTITY legacyWarning.showLegacy "সব পুরাতন এক্সটেনশন দেখাও">
-
-
-
