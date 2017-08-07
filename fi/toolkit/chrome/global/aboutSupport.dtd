@@ -70,6 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Usean prosessin ikkunoita">
 
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google-avain">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service -avain">
 
@@ -139,3 +140,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Päätösloki">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Kaatumisvahdin käytöstä poistamat ominaisuudet">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Hätäratkaisut">
+
+<!ENTITY aboutSupport.mediaDeviceName "Nimi">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanavia">
+<!ENTITY aboutSupport.mediaDeviceRate "Taajuus">
+<!ENTITY aboutSupport.mediaDeviceLatency "Viive">
