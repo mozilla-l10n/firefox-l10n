@@ -61,7 +61,7 @@
 <!ENTITY unknownProtocolFound.title "पत्ता समझला नाही">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "जोडणींसाठी प्रॉक्सी सर्व्हर नकार देत आहे">
+<!ENTITY proxyConnectFailure.title "जोडणीसाठी प्रॉक्सी सर्व्हर नकार देत आहे">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>प्रॉक्सी सेटींग अचूक आहेत याची खात्री करा.</li> <li>प्रॉक्सी सर्व्हर कार्यरत आहे याची खात्री करण्यासाठी नेटवर्क प्रशासकाशी संपर्क करा.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्रॉक्सी सर्व्हर शोधू शकत नाही">
@@ -79,11 +79,11 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>जे पान आपण बघण्याचा प्रयत्न करत आहात त्यच्या माहितीचे प्रमाण तपासले जाऊ न शकल्यामुळे पान दाखवु शकत नाही.</li> <li>कृपया वेबसाइट मालकांना या व्यत्यया बद्दल सांगा.</li> </ul>">
 
 <!ENTITY nssBadCert.title "सुरक्षीत जोडणी अपयशी">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>हे या सर्व्हरवरील संयोजनातील अडचण असू शकते, किंवा सर्व्हर नुरूप बहरूपी सुद्धा असू शकतो.</li> <li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण पुनःप्रयत्न करू शकता.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>ही सर्व्हर च्या संयोजनातील अडचण असू शकते किंवा कोणीतरी या सर्व्हर सारखे रूप घेऊन फसवत असू शकते.</li> <li>आपण या सर्व्हरशी पूर्वी यशस्वीरित्या जुळवणी स्थापीत केली असल्यास, त्रुटी तात्पूर्ती असू शकते, व आपण पुनःप्रयत्न करू शकता.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> <li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनी जोडणी किंवा वाय-फाय जोडणी तपासा.  <button id='wifi'>वाय-फाय सक्रीय करा</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>हे संकेतस्थळ कदाचित तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> <li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीची डाटा जोडणी किंवा वाय-फाय जोडणी तपासा.<button id='wifi'>वाय-फाय सक्रीय करा</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठात अंतर्भुत मजकूर सुरक्षा धोरणामुळे &brandShortName;ने या पृष्ठाला, याप्रकारे लोड होण्यापासून रोखले आहे.</p>">
@@ -91,7 +91,7 @@
 <!ENTITY corruptedContentErrorv2.title "दुषीत मजकूर त्रुटी">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>माहिती स्थानांतरणवेळी त्रुटी आढळल्याने, अपेक्षीत पान दाखवणे शक्य नाही.</p><ul><li>या अडचणीविषयी माहिती देण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क साधा.</li></ul>">
 
-<!ENTITY securityOverride.linkText "किंवा आपण यास अपवाद यादीत जोडू शकता…">
+<!ENTITY securityOverride.linkText "किंवा आपण अपवाद जोडू शकता…">
 <!ENTITY securityOverride.getMeOutOfHereButton "मला येथून बाहेर काढा!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद यादीत जोडा…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -108,14 +108,14 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षितरित्या जोडणी करण्यात अक्षम">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc "आत्याधुनिक माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc "प्रगत माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY weakCryptoUsed.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc "आत्याधुनिक माहिती: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoUsed.longDesc "प्रगत माहिती: SSL_ERROR_NO_CYPHER_OVERLAP">
 
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आपण सुरक्षित समजत असलेली माहिती आक्रमणकर्ता सहजपणे मिळवू शकतो. आपण भेट देण्या आधी, वेबसाईट नियंत्रकाने हा सर्व्हर निर्दोष करायला हवा.</p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

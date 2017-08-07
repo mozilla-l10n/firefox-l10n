@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDevices.title              "उपकरणे">
-<!ENTITY aboutDevices.header             "आपले उपकरणे">
+<!ENTITY aboutDevices.header             "आपली उपकरणे">
 <!ENTITY aboutDevices.refresh            "पुनःदाखल">
 <!ENTITY aboutDevices.addDeviceHeader    "उपकरण समाविष्ट करा">
 <!ENTITY aboutDevices.roku               "Roku">
