@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Властивості списку розсилки">
 <!ENTITY mailingListPropertiesMenu.accesskey "с">
 
+<!ENTITY abContextMenuButton.tooltip        "Показати контекстне меню адресної книги">
 <!ENTITY addressbookPicker.label            "Адресна книга:">
 <!ENTITY addressbookPicker.accesskey        "к">
 <!ENTITY searchContacts.label               "Пошук контактів:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "З">
 <!ENTITY editMailingListContext.label       "Змінити список">
 <!ENTITY editMailingListContext.accesskey   "м">
+
+<!ENTITY newContactAbContext.label          "Новий контакт">
+<!ENTITY newContactAbContext.accesskey      "к">
+<!ENTITY newListAbContext.label             "Створити список">
+<!ENTITY newListAbContext.accesskey         "с">
 
 <!ENTITY toButton.label                     "Кому:">
 <!ENTITY toButton.accesskey                 "м">
