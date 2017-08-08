@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "اقبل الكعكات من مواقع الوِب">
 <!ENTITY  acceptCookies2.accesskey      "ق">
 
-<!ENTITY  acceptThirdParty.pre.label      "اقبل الكعكات من أطراف أخرى:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ب">
+
 <!ENTITY  acceptThirdParty.always.label   "دائمًا">
 <!ENTITY  acceptThirdParty.never.label    "أبدًا">
 <!ENTITY  acceptThirdParty.visited.label  "من المواقع المُزارة">
 
-<!ENTITY  keepUntil.label               "احتفظ بها حتى:">
-<!ENTITY  keepUntil.accesskey           "ظ">
+
 
 <!ENTITY  expire.label                  "تنتهي صلاحيتها">
 <!ENTITY  close.label                   "أغلق &brandShortName;">

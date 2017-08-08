@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "أدوات">
-<!ENTITY toolsMenu.accesskey          "د"> 
+<!ENTITY toolsMenu.accesskey          "د">
 
 <!ENTITY keywordfield.label           "أضِف كلمة رئيسية لهذا البحث…">
 <!ENTITY keywordfield.accesskey       "ك">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "افحص العنصر">
 <!ENTITY inspectContextMenu.accesskey "ح">
 
-<!ENTITY fileMenu.label         "ملف"> 
+<!ENTITY fileMenu.label         "ملف">
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "ن">
 <!ENTITY newNonRemoteWindow.label   "نافذة جديدة غير متعددة السيرورات">
 
-<!ENTITY editMenu.label         "حرّر"> 
-<!ENTITY editMenu.accesskey       "ح"> 
-<!ENTITY undoCmd.label            "تراجع">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ت"> 
-<!ENTITY redoCmd.label            "أعِد">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "ع"> 
-<!ENTITY cutCmd.label           "قصّ">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ق"> 
-<!ENTITY copyCmd.label            "انسخ">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ن"> 
-<!ENTITY pasteCmd.label           "ألصق">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ل"> 
-<!ENTITY deleteCmd.label          "احذف">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ذ"> 
-<!ENTITY selectAllCmd.label         "اختر الكل">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "ك"> 
+<!ENTITY editMenu.label         "حرّر">
+<!ENTITY editMenu.accesskey       "ح">
+<!ENTITY undoCmd.label            "تراجع">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "ت">
+<!ENTITY redoCmd.label            "أعِد">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "ع">
+<!ENTITY cutCmd.label           "قصّ">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "ق">
+<!ENTITY copyCmd.label            "انسخ">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "ن">
+<!ENTITY pasteCmd.label           "ألصق">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "ل">
+<!ENTITY deleteCmd.label          "احذف">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "ذ">
+<!ENTITY selectAllCmd.label         "اختر الكل">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "ك">
 <!ENTITY preferencesCmd2.label       "خيارات">
 <!ENTITY preferencesCmd2.accesskey     "خ">
 <!ENTITY preferencesCmdUnix.label       "التفضيلات">
-<!ENTITY preferencesCmdUnix.accesskey     "ف"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ف">
 
 <!ENTITY clearRecentHistory.label               "امسح التأريخ الحالي…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "عرض"> 
-<!ENTITY viewMenu.accesskey       "ع"> 
-<!ENTITY viewToolbarsMenu.label       "أشرطة الأدوات"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ش"> 
+<!ENTITY viewMenu.label         "عرض">
+<!ENTITY viewMenu.accesskey       "ع">
+<!ENTITY viewToolbarsMenu.label       "أشرطة الأدوات">
+<!ENTITY viewToolbarsMenu.accesskey     "ش">
 <!ENTITY viewSidebarMenu.label "الشريط الجانبي">
 <!ENTITY viewSidebarMenu.accesskey "ط">
-<!ENTITY viewCustomizeToolbar.label       "خصص…"> 
+<!ENTITY viewCustomizeToolbar.label       "خصص…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
 <!ENTITY overflowCustomizeToolbar.label       "خصّص شريط الأدوات…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ش">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ت">
 <!ENTITY viewPartialSourceForSelectionCmd.label "اعرض مصدر التحديد">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "اعرض مصدر MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ص">
 <!ENTITY viewPageSourceCmd.label      "اعرض مصدر هذه الصفحة">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "انسخ مكان الصورة">
 <!ENTITY copyImageCmd.accesskey       "س">
 <!ENTITY copyImageContentsCmd.label   "انسخ الصورة">
-<!ENTITY copyImageContentsCmd.accesskey  "خ"> 
+<!ENTITY copyImageContentsCmd.accesskey  "خ">
 <!ENTITY copyVideoURLCmd.label        "انسخ مكان الفديو">
 <!ENTITY copyVideoURLCmd.accesskey    "ف">
 <!ENTITY copyAudioURLCmd.label        "انسخ مكان الصوت">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "أغلق &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "أغلق"> 
+<!ENTITY quitApplicationCmd.label       "أغلق">
 <!ENTITY quitApplicationCmd.accesskey   "غ">
 <!ENTITY quitApplicationCmdMac2.label   "أغلق &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "أغلق">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "أغلق">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "غ">
 
 <!ENTITY toggleMuteCmd.key              "M">

@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "م">
 
 <!ENTITY loaddevice.info                        "أدخل معلومات الوحدة التي تريد إضافتها.">
-<!ENTITY loaddevice.modname                     "اسم الوحدة:">
-<!ENTITY loaddevice.modname.accesskey           "د">
+
+
 <!ENTITY loaddevice.modname.default             "وحدة PKCS#11 جديدة">
-<!ENTITY loaddevice.filename                    "اسم ملفّ الوحدة:">
-<!ENTITY loaddevice.filename.accesskey          "م">
+
+
 <!ENTITY loaddevice.browse                      "تصفّح…">
 <!ENTITY loaddevice.browse.accesskey            "ص">
 
