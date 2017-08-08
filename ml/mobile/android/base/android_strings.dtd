@@ -278,8 +278,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
 
 <!ENTITY tracking_protection_prompt_title "ഇപ്പോള്‍ പിന്തുടല്‍ സുരക്ഷയോടുകൂടെ">
 
@@ -793,6 +791,10 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
+
+
+
 
 
 
