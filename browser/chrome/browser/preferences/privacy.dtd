@@ -47,14 +47,12 @@
 <!ENTITY  acceptCookies2.label          "ยอมรับคุกกี้จากเว็บไซต์">
 <!ENTITY  acceptCookies2.accesskey      "ย">
 
-<!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "อ">
+<!ENTITY  acceptThirdParty2.pre.label     "ยอมรับคุกกี้จากบุคคลที่สาม">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
 
-<!ENTITY  keepUntil.label               "เก็บจนกระทั่ง:">
-<!ENTITY  keepUntil.accesskey           "ก">
+<!ENTITY  keepUntil2.label              "เก็บจนกระทั่ง">
 
 <!ENTITY  expire.label                  "คุกกี้หมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
