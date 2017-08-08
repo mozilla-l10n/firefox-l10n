@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Aplicaciones web progresives">
 <!ENTITY pref_pwa_summary "Permite que les aplicaciones web s\&apos;amiesten a la pantalla d\&apos;aniciu">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Fluxu d\&apos;actividá">
-<!ENTITY pref_activity_stream_summary "Un feed visual ricu del historial y una páxina d\&apos;aniciu reimaxinada que fai más cenciello qu\&apos;enxamás alcontrar exautamente lo que guetes en &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Agora con proteición de rastrexu">
 <!ENTITY tracking_protection_prompt_text "Bloquia activamente los elementos de rastrexu pa que nun t\&apos;esmolezas.">
 <!ENTITY tracking_protection_prompt_tip_text "Visita los axustes de privacidá pa deprender más">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Llimpiar datos privaos al colar">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va llimpiar automáticamente los tos datos siempres qu\&apos;esbilles \u00abColar\u00bb dende\&apos;l menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Esbilla qué datos llimpiar">
-<!ENTITY pref_plugins "Estensiones">
-<!ENTITY pref_plugins_enabled "Habilitáu">
-<!ENTITY pref_plugins_tap_to_play2 "Toca pa reproducir">
-<!ENTITY pref_plugins_disabled "Deshabilitáu">
 <!ENTITY pref_restore_tabs "Restaurar llingüetes">
 <!ENTITY pref_restore_always "Restaurar siempres">
 <!ENTITY pref_restore_quit "Nun restaurar dempués de colar de &brandShortName;">
@@ -548,6 +540,7 @@
 <!ENTITY page_removed "Desanicióse la páxina">
 
 <!ENTITY bookmark_edit_title "Editar marcador">
+<!ENTITY bookmark_edit_folder_title "Editar carpeta">
 <!ENTITY bookmark_edit_name "Nome">
 <!ENTITY bookmark_edit_location "Allugamientu">
 <!ENTITY bookmark_edit_keyword "Pallabra clave">
@@ -853,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bienllegáu a los tos destacaos">
 <!ENTITY activity_stream_welcome_content1 "Agora &brandShortName; crea destacaos de coses que descubrieres na web pa qu\&apos;asina pueas volver alcontrar artículos, vídeos, marcadores y otres páxines fabuloses.">
+
+<!ENTITY private_tab_panel_title "Restolar en privao + proteición de rastrexu">
+<!ENTITY private_tab_panel_description "&brandShortName; bloquia partes de les páxines que podríen rastrexar la to actividá en llinia.">
+<!ENTITY private_tab_panel_description2 "Nun recordaremos el to historial, pero los ficheros baxaos y les páxines amestaes a marcadores entá se guardarán nel to preséu.">
+<!ENTITY private_tab_learn_more "¿Quies deprender más?">
