@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Letra-tipoak">
 
-<!ENTITY  language.label                          "Letra-tipoa:">
-<!ENTITY  language.accesskey                      "r">
 
-<!ENTITY  size.label                              "Tamaina:">
+
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
-<!ENTITY  proportional.label                      "Proportzionala:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Tarte bakarrekoa:">
-<!ENTITY  monospace.accesskey                     "e">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetera">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Gutxieneko letra tamaina:">
-<!ENTITY minSize.accesskey                        "x">
+
 <!ENTITY minSize.none                             "Ezer ez">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "B">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Legatu-edukiarentzat karaktere-kodeketa">
-<!ENTITY languages.customize.Fallback2.label      "Testu-kodeketa lehenetsia:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Testu-kodeketa hau kodeketa deklaratzen ez duen legatu-edukiarentzat erabiltzen da.">
 
 <!ENTITY languages.customize.Fallback.auto        "Uneko hizkuntzaren lehenetsia">

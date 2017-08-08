@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Tresnak">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Gehitu bilaketa honentzat gako-hitza…">
 <!ENTITY keywordfield.accesskey       "k">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ikuskatu elementua">
 <!ENTITY inspectContextMenu.accesskey "s">
 
-<!ENTITY fileMenu.label         "Fitxategia"> 
+<!ENTITY fileMenu.label         "Fitxategia">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Edukiontzi-fitxa berria">
 <!ENTITY newUserContext.accesskey         "E">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "h">
 <!ENTITY newNonRemoteWindow.label   "E10s ez den leiho berria">
 
-<!ENTITY editMenu.label         "Editatu"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Desegin">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "D"> 
-<!ENTITY redoCmd.label            "Berregin">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "r"> 
-<!ENTITY cutCmd.label           "Ebaki">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "E"> 
-<!ENTITY copyCmd.label            "Kopiatu">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Itsatsi">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "I"> 
-<!ENTITY deleteCmd.label          "Ezabatu">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "z"> 
-<!ENTITY selectAllCmd.label         "Hautatu dena">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY editMenu.label         "Editatu">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Desegin">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY redoCmd.label            "Berregin">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label           "Ebaki">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "E">
+<!ENTITY copyCmd.label            "Kopiatu">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Itsatsi">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "I">
+<!ENTITY deleteCmd.label          "Ezabatu">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "z">
+<!ENTITY selectAllCmd.label         "Hautatu dena">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Aukerak">
 <!ENTITY preferencesCmd2.accesskey     "A">
 <!ENTITY preferencesCmdUnix.label       "Hobespenak">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "Garbitu azken historia…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Ikusi"> 
-<!ENTITY viewMenu.accesskey       "I"> 
-<!ENTITY viewToolbarsMenu.label       "Tresna-barrak"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Ikusi">
+<!ENTITY viewMenu.accesskey       "I">
+<!ENTITY viewToolbarsMenu.label       "Tresna-barrak">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Alboko barra">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Pertsonalizatu…"> 
+<!ENTITY viewCustomizeToolbar.label       "Pertsonalizatu…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Pertsonalizatu tresna-barra…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ikusi aukeraren iturburua">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ikusi MathML iturburua">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "Ikusi orriaren iturburua">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopiatu irudiaren helbidea">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopiatu irudia">
-<!ENTITY copyImageContentsCmd.accesskey  "K"> 
+<!ENTITY copyImageContentsCmd.accesskey  "K">
 <!ENTITY copyVideoURLCmd.label        "Kopiatu bideoaren helbidea">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopiatu audioaren helbidea">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Irten &brandShorterName;(e)tik">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Irten"> 
+<!ENTITY quitApplicationCmd.label       "Irten">
 <!ENTITY quitApplicationCmd.accesskey   "I">
 <!ENTITY quitApplicationCmdMac2.label   "Irten &brandShorterName;(e)tik">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Itxi">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Itxi">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "x">
 
 <!ENTITY toggleMuteCmd.key              "M">

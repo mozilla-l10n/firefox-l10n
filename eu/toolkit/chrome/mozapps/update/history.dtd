@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Eguneraketen historia">
-<!ENTITY  history.intro             "Hurrengo eguneraketak instalatu dira:">
+
 <!ENTITY  closebutton.label         "Itxi">
-                                     
+
 <!ENTITY  noupdates.label           "Ez dago instalatutako eguneraketarik">
 
 <!ENTITY  name.header               "Eguneraketaren izena">

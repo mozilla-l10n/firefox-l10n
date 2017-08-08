@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Web orri hau (<span id='phishing_sitename'/>) iruzurti gisa dago salatuta eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Zerbait arriskutsua egin dezazun daude diseinatuta gune iruzurtiak, adibidez softwarea instalatzea edo zure informazio pertsonala ezagutzera ematea, hala nola telefono-zenbakiak edo kreditu-txartelak.</p><p>Web orri honetan edozein informazio sartzean identitate-lapurreta edo bestelako iruzurren bat gerta liteke.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
