@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Aplacaidean-lìn adhartach">
 <!ENTITY pref_pwa_summary "Gabhaidh aplacaidean-lìn a chur ris an sgrìn mhòr">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Sruth na gnìomhachd">
-<!ENTITY pref_activity_stream_summary "Le inbhir lèirsinneach ùr na h-eachdraidh agus duilleag mhòr ùr, bidh e nas fhasa na bha e riamh na tha a dhìth ort a lorg ann am &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Le dìon o thracadh a-nis">
 <!ENTITY tracking_protection_prompt_text "Dèan bacadh air eileamaidean tracaidh.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Fàilte gu brod an t-surfaidh agad">
 <!ENTITY activity_stream_welcome_content1 "Seallaidh &brandShortName; brod an t-surfaidh agad dhut a-nis ach am faigh thu cothrom air brod nan artaigeal, video, comharran-lìn is duilleagan eile a lorg thu a-rithist.">
+
+
+
+
