@@ -13,11 +13,7 @@
 <!ENTITY prefEnableHTTP11.label              "Použít HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnablePipelining.label          "Povolit proudové zpracování (Pipelining)">
-<!ENTITY prefEnablePipelining.accesskey      "o">
-<!ENTITY prefEnablePipeliningProxy.accesskey "z">
 <!ENTITY prefPara                            "Zde lze podrobněji nastavit HTTP spojení pro vylepšení rychlosti nebo kompatibility. Některé proxy servery vyžadují např. použít HTTP/1.0.">
-<!ENTITY prefPipeWarning                     "VAROVÁNÍ: proudové zpracování je neověřená vlastnost, navržená pro zrychlení načítání stránek, ale není zcela správně podporována všemi webovými a proxy servery.">
 <!ENTITY prefUseragent.label                 "Řetězec User Agent">
 <!ENTITY prefFirefoxCompat.label             "Inzerovat kompatibilitu s Firefoxem">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
