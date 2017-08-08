@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Apiau Gwe Blaengar">
 <!ENTITY pref_pwa_summary "Caniatáu i apiau gwe gael eu hychwanegu i\u0027r sgrin cartref">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Ffrwd Gweithgaredd">
-<!ENTITY pref_activity_stream_summary "Mae ffrwd hanes cyfoethog yn weledol a thudalen cartref newydd yn ei gwneud hi\u0027n haws nag erioed i ganfod yr hyn rydych yn chwilio amdano yn &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Nawr gyda Diogelwch Rhag Tracio">
 <!ENTITY tracking_protection_prompt_text "Yn rhwystro elfennau tracio heb i chi orfod poeni.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Croeso i\u0027ch Uchafbwyntiau">
 <!ENTITY activity_stream_welcome_content1 "Mae &brandShortName; nawr yn creu uchafbwyntiau o bethau ydych wedi eu darganfod ar y we fel bod modd canfod eich ffordd yn ôl at erthyglau, nodau tudalen a thudalennau eraill, da.">
+
+
+
+
