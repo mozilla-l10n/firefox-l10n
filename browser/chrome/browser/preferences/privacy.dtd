@@ -44,14 +44,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Harmadik féltől származó sütik elfogadása:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "H">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Soha">
 <!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
 
-<!ENTITY  keepUntil.label               "Sütik megtartása:">
-<!ENTITY  keepUntil.accesskey           "m">
+
 
 <!ENTITY  expire.label                  "amíg le nem járnak">
 <!ENTITY  close.label                   "a &brandShortName; bezárásáig">

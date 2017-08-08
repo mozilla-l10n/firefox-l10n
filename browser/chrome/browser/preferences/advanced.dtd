@@ -108,7 +108,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Kivételek…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "K">
 
-<!ENTITY offlineAppsList2.label          "A következő webhelyek tárolhatnak adatokat kapcsolat nélküli használatra:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eltávolítás…">
 <!ENTITY offlineAppsListRemove.accesskey "E">

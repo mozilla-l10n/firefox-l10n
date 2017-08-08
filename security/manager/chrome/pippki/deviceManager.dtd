@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Adja meg a kívánt modulinformációkat">
-<!ENTITY loaddevice.modname                     "Modul neve:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "Új PKCS#11 modul">
-<!ENTITY loaddevice.filename                    "Modul fájlneve:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Tallózás…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
