@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "อ">
 <!ENTITY removeallpermissions2.label  "เอาเว็บไซต์ทั้งหมดออก">
 <!ENTITY removeallpermissions2.accesskey "ว">
-<!ENTITY address.label                "ที่อยู่เว็บไซต์:">
-<!ENTITY address.accesskey            "ท">
+<!ENTITY address2.label               "ที่อยู่เว็บไซต์">
+<!ENTITY address2.accesskey           "ท">
 <!ENTITY block.label                  "ปิดกั้น">
 <!ENTITY block.accesskey              "ป">
 <!ENTITY session.label                "อนุญาตในวาระ">
