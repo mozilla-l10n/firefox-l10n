@@ -117,3 +117,16 @@
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Decyzje">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funkcje wyłączone dla ochrony przed awariami">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Obejścia problemów">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Urządzenia wyjściowe">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Urządzenia wejściowe">
+<!ENTITY aboutSupport.mediaDeviceName "Nazwa">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupa">
+<!ENTITY aboutSupport.mediaDeviceVendor "Dostawca">
+<!ENTITY aboutSupport.mediaDeviceState "Stan">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferowane">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanały">
+<!ENTITY aboutSupport.mediaDeviceRate "Częstotliwość próbkowania">
+<!ENTITY aboutSupport.mediaDeviceLatency "Opóźnienie">
