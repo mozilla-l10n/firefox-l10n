@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoridades">
 <!ENTITY certmgr.tab.orphan2                  "Outros">
 
-<!ENTITY certmgr.mine                         "Tem certificados destas organizações que lhe identificam:">
-<!ENTITY certmgr.others                       "Tem certificados num ficheiro que identificam estas pessoas:">
-<!ENTITY certmgr.websites2                    "Tem certificados num ficheiro que identificam estes servidores:">
-<!ENTITY certmgr.cas                          "Tem certificados num ficheiro que identificam estas autoridades certificadas:">
-<!ENTITY certmgr.orphans                      "Tem certificados num ficheiro que identificam que não se enquadram em nenhuma das outras categorias:">
+<!ENTITY certmgr.mine2                        "Tem certificados destas organizações que lhe identificam">
+<!ENTITY certmgr.others2                      "Tem certificados em ficheiro que identificam estas pessoas">
+<!ENTITY certmgr.websites3                    "Tem certificados em ficheiro que identificam estes servidores">
+<!ENTITY certmgr.cas2                         "Tem certificados em ficheiro que identificam estas autoridades de certificados">
+<!ENTITY certmgr.orphans2                     "Tem certificados em ficheiro que não se enquadram em nenhuma das outras categorias">
 
 <!ENTITY certmgr.detail.general_tab.title     "Geral">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

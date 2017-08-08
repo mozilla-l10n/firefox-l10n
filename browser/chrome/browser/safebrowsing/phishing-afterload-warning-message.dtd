@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página web em <span id='phishing_sitename'/> foi reportada como um site decetivo e foi bloqueada com base nas suas preferências de segurança.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Os sites decetivos são desenhados para induzir-lhe a fazer algo perigoso, como instalar software, ou revelar a sua informação pessoal, como passwords, números de telefone ou cartões de crédito.</p><p>Introduzir qualquer informação nesta página web poderá resultar em furto de identidade ou outra fraude.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "O site adiante pode conter malware">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "O Firefox bloqueou esta página porque pode tentar instalar aplicações perigosas que furtam ou apagam a sua informação (por exemplo, fotos, palavras-passe, mensagens e cartões de crédito).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
