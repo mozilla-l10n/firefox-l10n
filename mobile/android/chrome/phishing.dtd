@@ -11,7 +11,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Gerapporteerde aanvalpagina!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Deze webpagina op <span id='malware_sitename'/> is gerapporteerd als een aanvalpagina en is geblokkeerd op basis van uw beveiligingsvoorkeuren.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Aanvalpagina’s proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p><p>Sommige aanvalpagina’s verspreiden bewust gevaarlijke software, maar vele zijn gecompromitteerd zonder medeweten of toestemming van hun eigenaars.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Aanvalpagina’s proberen programma’s te installeren die privégegevens stelen, uw computer gebruiken om anderen aan te vallen, of uw systeem beschadigen.</p><p>Sommige aanvalpagina’s verspreiden bewust schadelijke software, maar vele zijn gecompromitteerd zonder medeweten of toestemming van hun eigenaars.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Misleidende website!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
