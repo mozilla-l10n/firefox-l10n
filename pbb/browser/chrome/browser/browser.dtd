@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -257,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Vxisnxisa&amp;">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Teçx yuwe kãjaya paztena'&amp; na'wẽ pakweya…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Kãjanxisatx pakwen">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY fileMenu.label         "Eç jxawnxisa"> 
+<!ENTITY fileMenu.label         "Eç jxawnxisa">
 <!ENTITY fileMenu.accesskey       "E">
 
 
@@ -287,45 +287,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "U'se vxitx le'çxkwe Non-e10s">
 
-<!ENTITY editMenu.label         "Fxi'hj"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Khũkhnxi">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "K"> 
-<!ENTITY redoCmd.label            "Ki'h vxithna">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "K"> 
-<!ENTITY cutCmd.label           "Spẽthna">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "S"> 
+<!ENTITY editMenu.label         "Fxi'hj">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Khũkhnxi">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "K">
+<!ENTITY redoCmd.label            "Ki'h vxithna">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "K">
+<!ENTITY cutCmd.label           "Spẽthna">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "S">
 
 
 
-<!ENTITY pasteCmd.label           "Çxkitxanxi">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "Ç"> 
-<!ENTITY deleteCmd.label          "Khũkhna">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "K"> 
-<!ENTITY selectAllCmd.label         "Jxuka txihtxna">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "J"> 
+<!ENTITY pasteCmd.label           "Çxkitxanxi">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "Ç">
+<!ENTITY deleteCmd.label          "Khũkhna">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "K">
+<!ENTITY selectAllCmd.label         "Jxuka txihtxna">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "J">
 <!ENTITY preferencesCmd2.label       "Vxite">
 <!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Wejx vxisnxisa">
-<!ENTITY preferencesCmdUnix.accesskey     "W"> 
+<!ENTITY preferencesCmdUnix.accesskey     "W">
 
 <!ENTITY clearRecentHistory.label               "Khukhna u'se fxi'hjnxi's…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Thegna"> 
-<!ENTITY viewMenu.accesskey       "T"> 
-<!ENTITY viewToolbarsMenu.label       "Vxisnxi's &amp; takhya'"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Thegna">
+<!ENTITY viewMenu.accesskey       "T">
+<!ENTITY viewToolbarsMenu.label       "Vxisnxi's &amp; takhya'">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Pesathtewe'sx">
 <!ENTITY viewSidebarMenu.accesskey "P">
-<!ENTITY viewCustomizeToolbar.label       "Pekxkĩiçxaa"> 
+<!ENTITY viewCustomizeToolbar.label       "Pekxkĩiçxaa">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "K">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Thegna paçte we'sx'a dxijuy txitxhnxisa's">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Paçte we'sxa's dxijuy MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Thegna paçte dxijuy txãa thegnxisa's">
@@ -581,7 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kapsxidu pisanxi dxi'ha's">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kapsxidun piisanxi's ">
-<!ENTITY copyImageContentsCmd.accesskey  "K"> 
+<!ENTITY copyImageContentsCmd.accesskey  "K">
 <!ENTITY copyVideoURLCmd.label        "Kapsxidu pisanxi dxi'ha's">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kapsxidu pisanxi dxi'ha's">
@@ -677,13 +677,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Kasen &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Kase'h"> 
+<!ENTITY quitApplicationCmd.label       "Kase'h">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Kasen &brandShorterName;">
 
 
-<!ENTITY closeCmd.label                 "Apna">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Apna">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "A">
 
 <!ENTITY toggleMuteCmd.key              "M">
