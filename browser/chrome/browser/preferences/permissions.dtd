@@ -10,8 +10,8 @@
 
 
 
-<!ENTITY address.label                "Կայքի հասցեն">
-<!ENTITY address.accesskey            "ա">
+
+
 <!ENTITY block.label                  "Արգելել">
 <!ENTITY block.accesskey              "Ա">
 <!ENTITY session.label                "Թույլատրել աշխատաշրջանում">

@@ -45,14 +45,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Ընդունել cookie-ներ կողմնակի կայքերից.">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ր">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Երբեք">
 <!ENTITY  acceptThirdParty.visited.label  "Այցելածներից">
 
-<!ENTITY  keepUntil.label               "Պահել մինչև`">
-<!ENTITY  keepUntil.accesskey           "մ">
+
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
 <!ENTITY  close.label                   "&brandShortName;-ը փակելը">

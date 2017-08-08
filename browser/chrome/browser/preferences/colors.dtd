@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Երբեք">
 
 <!ENTITY  color                           "Տեքստ և Խորապատկեր">
-<!ENTITY  textColor.label                 "Տեքստ.">
-<!ENTITY  textColor.accesskey             "Տ">
-<!ENTITY  backgroundColor.label           "Խորապատկերը.">
-<!ENTITY  backgroundColor.accesskey       "Խ">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Օգտագործել համակարգի գույները">
 <!ENTITY  useSystemColors.accesskey       "գ">
 
 <!ENTITY  underlineLinks.label            "Հղումներն ընդգծել">
 <!ENTITY  underlineLinks.accesskey        "ղ">
 <!ENTITY  links                           "Հղումների Գույները">
-<!ENTITY  linkColor.label                 "Չայցելած հղումներ.">
-<!ENTITY  linkColor.accesskey             "հ">
-<!ENTITY  visitedLinkColor.label          "Այցելած հղումները.">
-<!ENTITY  visitedLinkColor.accesskey      "Ա">
+
+
+
+

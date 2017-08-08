@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Մուտքագրեք ավելացվող բաղադրի վերաբերվող տվյալները">
-<!ENTITY loaddevice.modname                     "Բաղադրի Անունը.">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "Նոր PKCS#11 Բաղադիր">
-<!ENTITY loaddevice.filename                    "Բաղադրի Ֆայլի Անունը">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Ընտրել…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
