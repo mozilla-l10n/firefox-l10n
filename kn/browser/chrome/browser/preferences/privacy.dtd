@@ -42,14 +42,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 
 <!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
 
-<!ENTITY  keepUntil.label               "ಇರಿಸಿಕೋ until ವರೆಗೆ:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "ಇದರ ಅವಧಿ ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  close.label                   "&brandShortName; ಅನ್ನು ನಾನು ಮುಚ್ಚುತ್ತೇನೆ">

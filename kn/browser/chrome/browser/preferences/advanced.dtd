@@ -102,7 +102,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ವಿನಾಯಿತಿಗಳು…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಲು ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳಿಗೆ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ತೆಗೆದು ಹಾಕು…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
