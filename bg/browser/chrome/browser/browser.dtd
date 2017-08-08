@@ -404,9 +404,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Преместване в меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "м">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Закачане към допълнителното меню">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Преместване в допълнителното меню">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "д">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачане от допълнителното меню">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Премахване от допълнителното меню">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.removeFromToolbar.label "Премахване от лентата с инструменти">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "П">
