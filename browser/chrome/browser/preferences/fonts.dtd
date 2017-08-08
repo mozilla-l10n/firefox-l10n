@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Ffontiau">
 
-<!ENTITY  language.label                          "Ffont:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Maint:">
+
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
-<!ENTITY  proportional.label                      "Cyfrannol:">
-<!ENTITY  proportional.accesskey                  "y">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "o">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibeteg">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Lleiafswm maint ffont:">
-<!ENTITY minSize.accesskey                        "L">
+
 <!ENTITY minSize.none                             "Dim">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "C">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Amgodiad Nod ar gyfer Hen Gynnwys">
-<!ENTITY languages.customize.Fallback2.label      "Amgodiad Testun Eilradd:">
-<!ENTITY languages.customize.Fallback2.accesskey  "E">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.">
 
 <!ENTITY languages.customize.Fallback.auto        "Y Rhagosodedig ar gyfer y Locale Cyfredol">
