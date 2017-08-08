@@ -111,7 +111,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Undanþágur…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "d">
 
-<!ENTITY offlineAppsList2.label          "Eftirfarandi vefsvæði hafa leyfi til að geyma gögn fyrir notkun án nettengingar:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fjarlægja…">
 <!ENTITY offlineAppsListRemove.accesskey "r">

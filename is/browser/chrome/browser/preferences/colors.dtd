@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Aldrei">
 
 <!ENTITY  color                           "Texti og Bakgrunnur">
-<!ENTITY  textColor.label                 "Texti:">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Bakgrunnur:">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Nota kerfisliti">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Undirstrika tengla">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Litir tengla">
-<!ENTITY  linkColor.label                 "Ónotaðir tenglar:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Notaðir tenglar:">
-<!ENTITY  visitedLinkColor.accesskey      "N">
+
+
+
+
