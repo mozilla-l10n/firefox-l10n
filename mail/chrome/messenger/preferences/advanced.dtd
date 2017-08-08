@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Įjungti globalią laiškų paiešką ir indeksavimą">
 <!ENTITY enableGlodaSearch.accesskey   "g">
+
 <!ENTITY allowHWAccel.label            "Jei įmanoma, naudoti aparatinį spartinimą">
 <!ENTITY allowHWAccel.accesskey        "a">
 <!ENTITY storeType.label               "Laiškų saugojimo būdas naujoms paskyroms:">
