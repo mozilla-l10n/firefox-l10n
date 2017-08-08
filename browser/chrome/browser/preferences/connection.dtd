@@ -14,33 +14,29 @@
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Bu ağın vekil sunucu ayarlarını kendiliğinden tanı">
 <!ENTITY  WPADTypeRadio.accesskey       "v">
-<!ENTITY  manualTypeRadio.label         "Vekil sunucuyu elle ayarla:">
-<!ENTITY  manualTypeRadio.accesskey     "u">
-<!ENTITY  autoTypeRadio.label           "Otomatik vekil sunucu yapılandırma URL’si:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio2.label          "Otomatik vekil sunucu yapılandırma URL’si">
+<!ENTITY  autoTypeRadio2.accesskey      "O">
 <!ENTITY  reload.label                  "Yenile">
 <!ENTITY  reload.accesskey              "l">
-<!ENTITY  ftp.label                     "FTP vekil sunucusu:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP vekil sunucusu:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL vekil sunucusu:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS sunucusu:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP vekil sunucusu">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP vekil sunucusu">
+<!ENTITY  http2.accesskey               "p">
+<!ENTITY  ssl2.label                    "SSL vekil sunucusu">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS sunucusu">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 kullanırken vekil sunucu DNS’i">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "İletișim noktası:">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "n">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Vekil sunucu kullanılmasın:">
-<!ENTITY  noproxy.accesskey             "k">
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .com.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tüm iletişim kuralları için bu vekil sunucuyu kullan">
 <!ENTITY  shareproxy.accesskey          "ü">
