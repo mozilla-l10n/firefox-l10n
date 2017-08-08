@@ -65,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teksta enkodigo por kaduka enhavo">
+<!ENTITY languages.customize.Fallback3.label      "Alternativa teksta ekondigo">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Tiu ĉi teksta enkodigo estas uzita por kaduka enhavo kiu ne deklaris sian enkodigon.">
 
 <!ENTITY languages.customize.Fallback.auto        "Normo por la nuna lokaĵaro">
