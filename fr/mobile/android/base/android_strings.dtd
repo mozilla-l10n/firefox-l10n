@@ -847,3 +847,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_title "Navigation privée avec protection contre le pistage">
 <!ENTITY private_tab_panel_description "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.">
 <!ENTITY private_tab_panel_description2 "Nous ne conserverons aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
+<!ENTITY private_tab_learn_more "Vous souhaitez en savoir plus ?">
