@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Emathulusi">
-<!ENTITY toolsMenu.accesskey          "E"> 
+<!ENTITY toolsMenu.accesskey          "E">
 
 <!ENTITY keywordfield.label           "Yengeta a ligamasikhiya kuloluphenyo…">
 <!ENTITY keywordfield.accesskey       "l">
@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fileMenu.label         "Lifayela"> 
+<!ENTITY fileMenu.label         "Lifayela">
 <!ENTITY fileMenu.accesskey       "L">
 
 
@@ -258,43 +258,43 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY editMenu.label         "Editha"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Cisha">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "C"> 
-<!ENTITY redoCmd.label            "Phindza wente">  
+<!ENTITY editMenu.label         "Editha">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Cisha">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "C">
+<!ENTITY redoCmd.label            "Phindza wente">
 
-<!ENTITY redoCmd.accesskey          "P"> 
-<!ENTITY cutCmd.label           "Juba">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "J"> 
+<!ENTITY redoCmd.accesskey          "P">
+<!ENTITY cutCmd.label           "Juba">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "J">
 
 
 
-<!ENTITY pasteCmd.label           "Namatsisela">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "N"> 
-<!ENTITY deleteCmd.label          "Susa">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "S"> 
-<!ENTITY selectAllCmd.label         "Kuphawule Konkhe">  
+<!ENTITY pasteCmd.label           "Namatsisela">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "N">
+<!ENTITY deleteCmd.label          "Susa">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "S">
+<!ENTITY selectAllCmd.label         "Kuphawule Konkhe">
 
-<!ENTITY selectAllCmd.accesskey       "K"> 
+<!ENTITY selectAllCmd.accesskey       "K">
 
 
 <!ENTITY preferencesCmdUnix.label       "Lokuncono">
-<!ENTITY preferencesCmdUnix.accesskey     "c"> 
+<!ENTITY preferencesCmdUnix.accesskey     "c">
 
 
 
-<!ENTITY viewMenu.label         "Buka"> 
-<!ENTITY viewMenu.accesskey       "B"> 
-<!ENTITY viewToolbarsMenu.label       "Emathulu-bha"> 
-<!ENTITY viewToolbarsMenu.accesskey     "E"> 
+<!ENTITY viewMenu.label         "Buka">
+<!ENTITY viewMenu.accesskey       "B">
+<!ENTITY viewToolbarsMenu.label       "Emathulu-bha">
+<!ENTITY viewToolbarsMenu.accesskey     "E">
 <!ENTITY viewSidebarMenu.label "Bhaceleni">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Yetateta…"> 
+<!ENTITY viewCustomizeToolbar.label       "Yetateta…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
 
@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Buka imvelaphi Yekukhetfwa/phawulwa">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Buka imvelaphi YeMathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Buka imvelaphi Yelipheji">
@@ -528,7 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopa Lendzawo Yesitfombe">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopa Sitfombe">
-<!ENTITY copyImageContentsCmd.accesskey  "S"> 
+<!ENTITY copyImageContentsCmd.accesskey  "S">
 
 
 
@@ -612,13 +612,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Shiya"> 
+<!ENTITY quitApplicationCmd.label       "Shiya">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 
 
 
-<!ENTITY closeCmd.label                 "Vala">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Vala">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "V">
 
 

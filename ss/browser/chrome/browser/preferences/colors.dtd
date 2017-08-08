@@ -12,17 +12,17 @@
 
 
 <!ENTITY  color                           "Umbhalo Neliphasi lawo">
-<!ENTITY  textColor.label                 "Umbhalo:">
-<!ENTITY  textColor.accesskey             "U">
-<!ENTITY  backgroundColor.label           "Likamuva:">
-<!ENTITY  backgroundColor.accesskey       "L">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Sebentisa imibala yenchubo">
 <!ENTITY  useSystemColors.accesskey       "e">
 
 <!ENTITY  underlineLinks.label            "Dvwebela tihlanganisi">
 <!ENTITY  underlineLinks.accesskey        "D">
 <!ENTITY  links                           "Hlanganisa imibala">
-<!ENTITY  linkColor.label                 "Tihlanganisi letingakavakashelwa:">
-<!ENTITY  linkColor.accesskey             "T">
-<!ENTITY  visitedLinkColor.label          "Tihlanganisi lesetivakashelwe:">
-<!ENTITY  visitedLinkColor.accesskey      "t">
+
+
+
+

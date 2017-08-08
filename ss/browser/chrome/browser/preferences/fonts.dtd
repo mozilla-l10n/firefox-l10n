@@ -6,19 +6,16 @@
 
 
 
-<!ENTITY  size.label                              "Isayizi:">
 
 
 
-<!ENTITY  proportional.label                      "Lokulinganiselwe:">
-<!ENTITY  proportional.accesskey                  "L">
 
-<!ENTITY  serif.label                             "Iserifu:">
-<!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "Isanserifu:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Khalasinye:">
-<!ENTITY  monospace.accesskey                     "K">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
