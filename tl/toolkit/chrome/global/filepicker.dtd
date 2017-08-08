@@ -4,7 +4,9 @@
 
 <!ENTITY lookInMenuList.label   "Hanapin sa:">
 <!ENTITY lookInMenuList.accesskey   "H">
+<!ENTITY textInput.label        "Pangalan ng file:">
 <!ENTITY textInput.accesskey        "n">
+<!ENTITY filterMenuList.label   "Mga file na nasa uri ng:">
 <!ENTITY filterMenuList.accesskey   "u">
 <!ENTITY name.label             "Pangalan">
 <!ENTITY size.label             "Sukat">
