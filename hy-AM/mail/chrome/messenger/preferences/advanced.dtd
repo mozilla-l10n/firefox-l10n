@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Միացնել Ընդհանուր Որոնումը և Ինդեքսավորումը">
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
+
 <!ENTITY allowHWAccel.label            "Հնարավորության դեպքում օգտագործել սարքակազմի արագացում">
 <!ENTITY allowHWAccel.accesskey        "ս">
 <!ENTITY storeType.label               "Նամակները պահելու եղանակը՝ նոր հաշիվների համար.">
