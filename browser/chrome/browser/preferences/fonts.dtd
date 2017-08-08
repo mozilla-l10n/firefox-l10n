@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Pisma">
 
-<!ENTITY  language.label                          "Pisma za:">
-<!ENTITY  language.accesskey                      "P">
 
-<!ENTITY  size.label                              "Wjelikosć:">
+
 <!ENTITY  sizeProportional.accesskey              "l">
 <!ENTITY  sizeMonospace.accesskey                 "k">
 
-<!ENTITY  proportional.label                      "Proporcionalne:">
-<!ENTITY  proportional.accesskey                  "p">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Singaleziske">
 <!ENTITY  font.langGroup.tibetan                  "Tibetiske">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimalna wjelikosć pisma:">
-<!ENTITY minSize.accesskey                        "M">
+
 <!ENTITY minSize.none                             "Žeden">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "B">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tekstowe koděrowanje za zestarjone wopśimjeśe">
-<!ENTITY languages.customize.Fallback2.label      "Narownanje za tekstowe koděrowanje:">
-<!ENTITY languages.customize.Fallback2.accesskey  "t">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Toś to tekstowe koděrowanje wužywa se za zestarjone wopśimjeśe, kótarež njepódawa swójske koděrowanje.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard za aktualnu lokalu">
