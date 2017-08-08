@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "ไม่เลย">
 
 <!ENTITY  color                           "ตัวอักษรและพื้นหลัง">
-<!ENTITY  textColor.label                 "ตัวอักษร:">
-<!ENTITY  textColor.accesskey             "ต">
-<!ENTITY  backgroundColor.label           "พื้นหลัง:">
-<!ENTITY  backgroundColor.accesskey       "พ">
+<!ENTITY  textColor2.label                "ตัวอักษร">
+<!ENTITY  textColor2.accesskey            "ต">
+<!ENTITY  backgroundColor2.label          "พื้นหลัง">
+<!ENTITY  backgroundColor2.accesskey      "พ">
 <!ENTITY  useSystemColors.label           "ใช้สีของระบบ">
 <!ENTITY  useSystemColors.accesskey       "ส">
 
 <!ENTITY  underlineLinks.label            "ขีดเส้นใต้ลิงก์">
 <!ENTITY  underlineLinks.accesskey        "ข">
 <!ENTITY  links                           "สีลิงก์">
-<!ENTITY  linkColor.label                 "ลิงก์ที่ยังไม่เคยเยี่ยมชม:">
-<!ENTITY  linkColor.accesskey             "ล">
-<!ENTITY  visitedLinkColor.label          "ลิงก์ที่เยี่ยมชมแล้ว:">
-<!ENTITY  visitedLinkColor.accesskey      "ง">
+<!ENTITY  linkColor2.label                "ลิงก์ที่ยังไม่เคยเยี่ยมชม">
+<!ENTITY  linkColor2.accesskey            "ล">
+<!ENTITY  visitedLinkColor2.label         "ลิงก์ที่เยี่ยมชมแล้ว">
+<!ENTITY  visitedLinkColor2.accesskey     "ง">

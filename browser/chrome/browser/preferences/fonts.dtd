@@ -4,22 +4,16 @@
 
 <!ENTITY  fontsDialog.title                       "แบบอักษร">
 
-<!ENTITY  language.label                          "แบบอักษรสำหรับ:">
-<!ENTITY  language.accesskey                      "บ">
+<!ENTITY  fonts.label                             "แบบอักษรสำหรับ">
+<!ENTITY  fonts.accesskey                         "บ">
 
-<!ENTITY  size.label                              "ขนาด:">
+<!ENTITY  size2.label                             "ขนาด">
 <!ENTITY  sizeProportional.accesskey              "ข">
 <!ENTITY  sizeMonospace.accesskey                 "น">
 
-<!ENTITY  proportional.label                      "ความกว้างตามสัดส่วน:">
-<!ENTITY  proportional.accesskey                  "ค">
 
-<!ENTITY  serif.label                             "มีเชิง:">
-<!ENTITY  serif.accesskey                         "ม">
-<!ENTITY  sans-serif.label                        "ไม่มีเชิง:">
-<!ENTITY  sans-serif.accesskey                    "ง">
-<!ENTITY  monospace.label                         "ความกว้างคงที่:">
-<!ENTITY  monospace.accesskey                     "ว">
+<!ENTITY  serif2.label                            "มีเชิง">
+<!ENTITY  serif2.accesskey                        "ม">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +47,6 @@
 <!ENTITY  font.langGroup.sinhala                  "สิงหล">
 <!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ขนาดอักษรต่ำสุด:">
-<!ENTITY minSize.accesskey                        "ด">
 <!ENTITY minSize.none                             "ไม่มี">
 
 <!-- default font type -->
@@ -65,8 +57,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "อ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาเก่า">
-<!ENTITY languages.customize.Fallback2.label      "รหัสอักขระตัวทางเลือก:">
-<!ENTITY languages.customize.Fallback2.accesskey  "ร">
 <!ENTITY languages.customize.Fallback2.desc       "รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาเก่าที่ขัดข้องจากการกำหนดอักขระ">
 
 <!ENTITY languages.customize.Fallback.auto        "ค่าเริ่มต้นสำหรับภาษาถิ่นปัจจุบัน">
