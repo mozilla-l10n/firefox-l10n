@@ -20,10 +20,10 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 
-<!ENTITY loaddevice.modname.accesskey           "M">
 
 
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Güiy...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

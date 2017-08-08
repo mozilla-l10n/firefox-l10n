@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Koo lii chemen">
-<!ENTITY toolsMenu.accesskey          "m"> 
+<!ENTITY toolsMenu.accesskey          "m">
 
 <!ENTITY keywordfield.label           "Taa diif dizh xha kuan luu...">
 <!ENTITY keywordfield.accesskey       "x">
@@ -272,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Güi kue">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Koo de güil"> 
+<!ENTITY fileMenu.label         "Koo de güil">
 <!ENTITY fileMenu.accesskey       "K">
 
 
@@ -283,44 +283,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "c">
 
 
-<!ENTITY editMenu.label         "Tùs kùe"> 
-<!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Vereé">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "V"> 
-<!ENTITY redoCmd.label            "Veree koo blil">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "V"> 
-<!ENTITY cutCmd.label           "Chuy">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "u"> 
-<!ENTITY copyCmd.label            "Lí Chopa">  
+<!ENTITY editMenu.label         "Tùs kùe">
+<!ENTITY editMenu.accesskey       "e">
+<!ENTITY undoCmd.label            "Vereé">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "V">
+<!ENTITY redoCmd.label            "Veree koo blil">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "V">
+<!ENTITY cutCmd.label           "Chuy">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "u">
+<!ENTITY copyCmd.label            "Lí Chopa">
 
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "Key">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "K"> 
-<!ENTITY deleteCmd.label          "Tòmbî">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "b"> 
-<!ENTITY selectAllCmd.label         "Mxhen reey">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "r"> 
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Key">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "K">
+<!ENTITY deleteCmd.label          "Tòmbî">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "b">
+<!ENTITY selectAllCmd.label         "Mxhen reey">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "r">
 <!ENTITY preferencesCmd2.label       "Koo tak lii chel">
 <!ENTITY preferencesCmd2.accesskey     "K">
 <!ENTITY preferencesCmdUnix.label       "Koo lash luu">
-<!ENTITY preferencesCmdUnix.accesskey     "l"> 
+<!ENTITY preferencesCmdUnix.accesskey     "l">
 
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Mbwíʔ"> 
-<!ENTITY viewMenu.accesskey       "w"> 
-<!ENTITY viewToolbarsMenu.label       "Koo tak lii chel"> 
-<!ENTITY viewToolbarsMenu.accesskey     "K"> 
+<!ENTITY viewMenu.label         "Mbwíʔ">
+<!ENTITY viewMenu.accesskey       "w">
+<!ENTITY viewToolbarsMenu.label       "Koo tak lii chel">
+<!ENTITY viewToolbarsMenu.accesskey     "K">
 <!ENTITY viewSidebarMenu.label "Yaa ">
 <!ENTITY viewSidebarMenu.accesskey "Y">
-<!ENTITY viewCustomizeToolbar.label       "Tùs kùe..."> 
+<!ENTITY viewCustomizeToolbar.label       "Tùs kùe...">
 <!ENTITY viewCustomizeToolbar.accesskey     "e">
 
 
@@ -496,7 +496,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mbwíʔ zá mud b-šèn lú kue">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Mbwíʔ MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Mbwíʔ lô ré">
@@ -563,7 +563,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Loo xhog xha nie kue">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Loo xhog kue">
-<!ENTITY copyImageContentsCmd.accesskey  "L"> 
+<!ENTITY copyImageContentsCmd.accesskey  "L">
 <!ENTITY copyVideoURLCmd.label        "Loo xhog kue">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Loo xhog tee xhob dezh ree">
@@ -660,13 +660,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Mb-ròɁ &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Bru"> 
+<!ENTITY quitApplicationCmd.label       "Bru">
 <!ENTITY quitApplicationCmd.accesskey   "B">
 <!ENTITY quitApplicationCmdMac2.label   "Mb-ròɁ &brandShorterName;">
 
 
-<!ENTITY closeCmd.label                 "TòɁw">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "TòɁw">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "T">
 
 <!ENTITY toggleMuteCmd.key              "M">
