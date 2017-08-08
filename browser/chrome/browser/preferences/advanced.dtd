@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Uitzonderingen…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList2.label          "De volgende websites hebben toestemming om gegevens op te slaan voor offlinegebruik:">
+<!ENTITY offlineAppsList3.label          "De volgende websites hebben toestemming om gegevens op te slaan voor offlinegebruik">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Verwijderen…">
 <!ENTITY offlineAppsListRemove.accesskey "V">

@@ -12,13 +12,13 @@
 <!ENTITY window.title         "Nieuwe container toevoegen">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Naam:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Naam">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Voer een containernaam in">
-<!ENTITY icon.label           "Pictogram:">
-<!ENTITY icon.accesskey       "P">
-<!ENTITY color.label          "Kleur:">
-<!ENTITY color.accesskey      "K">
+<!ENTITY icon2.label          "Pictogram">
+<!ENTITY icon2.accesskey      "P">
+<!ENTITY color2.label         "Kleur">
+<!ENTITY color2.accesskey     "K">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gereed">
