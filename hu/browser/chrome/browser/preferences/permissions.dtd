@@ -10,8 +10,8 @@
 
 
 
-<!ENTITY address.label                "Webhely címe:">
-<!ENTITY address.accesskey            "h">
+
+
 <!ENTITY block.label                  "Tiltás">
 <!ENTITY block.accesskey              "T">
 <!ENTITY session.label                "Engedélyezés a munkamenetben">

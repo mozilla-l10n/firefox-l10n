@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "A(z) <span id='phishing_sitename'/> címen működő weboldalról bejelentés érkezett, hogy félrevezető weboldal, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>A félrevezető weboldalakat arra tervezték, hogy a felhasználókat valami veszélyesre vegyék rá, például szoftverek telepítésére vagy jelszavakhoz, telefonszámokhoz vagy bankkártya-adatokhoz hasonló személyes adatok megadására.</p><p>Adatok megadása ezen az oldalon személyiséglopáshoz vagy más csaláshoz vezethet.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

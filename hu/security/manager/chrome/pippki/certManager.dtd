@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Hitelesítésszolgáltatók">
 <!ENTITY certmgr.tab.orphan2                  "Egyebek">
 
-<!ENTITY certmgr.mine                         "A következő szervezetektől vannak Önt azonosító tanúsítványok:">
-<!ENTITY certmgr.others                       "A következő embereket lehet azonosítani a meglevő tanúsítványokkal:">
-<!ENTITY certmgr.websites2                    "A következő kiszolgálókat lehet azonosítani a meglevő tanúsítványokkal:">
-<!ENTITY certmgr.cas                          "A következő hitelesítésszolgáltatókat lehet azonosítani a meglevő tanúsítványokkal:">
-<!ENTITY certmgr.orphans                      "Vannak olyan tanúsítványai, amelyek nem tartoznak a fenti kategóriákba:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Általános">
 <!ENTITY certmgr.detail.general_tab.accesskey "l">
