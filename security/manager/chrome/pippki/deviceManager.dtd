@@ -23,10 +23,10 @@
 
 
 <!ENTITY loaddevice.info                        "Tsenya tshedimosetso ya mmojule o o batlang go o tsenya.">
-<!ENTITY loaddevice.modname                     "Leina Mmojule:">
+
 
 <!ENTITY loaddevice.modname.default             "Mmojule o Montšhwa wa PKCS#11">
-<!ENTITY loaddevice.filename                    "Leina la faele la Mmojule:">
+
 
 <!ENTITY loaddevice.browse                      "Batla…">
 

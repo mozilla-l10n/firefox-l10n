@@ -14,33 +14,33 @@
 
 <!ENTITY  WPADTypeRadio.label           "Bona ka itiriso boalo jwa kemela jwa letloatiro le">
 <!ENTITY  WPADTypeRadio.accesskey       "l">
-<!ENTITY  manualTypeRadio.label         "Thulaganyo ya kemela ka go dira:">
-<!ENTITY  manualTypeRadio.accesskey     "T">
-<!ENTITY  autoTypeRadio.label           "URL ya Thulaganyo ya kemela ya itiriso:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
-
-
-<!ENTITY  ftp.label                     "Kemela ya FTP:">
-<!ENTITY  ftp.accesskey                 "K">
 
 
 
 
-<!ENTITY  socks.label                   "Khomphiutarakgolo ya SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "C">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "Segokaganyi:">
+
 
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ga gona Kemela ya:">
-<!ENTITY  noproxy.accesskey             "G">
+
+
 <!ENTITY  noproxyExplain.label          "Sekai: .mozilla.org, .net.za, 192.168.1.0/24">
 
 
