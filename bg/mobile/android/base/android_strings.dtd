@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Модерни приложения за уеб">
 <!ENTITY pref_pwa_summary "Разрешаване на приложения за уеб да бъдат добавяни към началния екран">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Поток от дейности">
-<!ENTITY pref_activity_stream_summary "Богатият визуален списък на историята и изцяло новата начална страница правят търсенето неща от &brandShortName; изключително лесно.">
-
 <!ENTITY tracking_protection_prompt_title "Сега със Защитата от проследяване">
 <!ENTITY tracking_protection_prompt_text "Активно блокира проследяващи елементи за ваше спокойствие.">
 <!ENTITY tracking_protection_prompt_tip_text "Вижте настройките на поверителност, за да научите повече">
@@ -850,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Добре дошли в Акценти">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; сега създава акценти от местата, които сте открили в мрежата, за да намирате по-лесно страхотни статии, видео, отметки и други страници.">
+
+<!ENTITY private_tab_panel_title "Поверително разглеждане + Защита от проследяване">
+<!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето разглеждане.">
+<!ENTITY private_tab_panel_description2 "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
+<!ENTITY private_tab_learn_more "Искате ли да научите повече?">
