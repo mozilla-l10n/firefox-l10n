@@ -108,7 +108,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "O puestos web siguients permiten alzar datos ta emplegar-los en modo sin connexión:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "l">

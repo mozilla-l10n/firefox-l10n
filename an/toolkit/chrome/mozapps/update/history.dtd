@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Historial d'actualizacions">
-<!ENTITY  history.intro             "S'han instalau as siguients actualizacions:">
+
 <!ENTITY  closebutton.label         "Zarrar">
-                                     
+
 <!ENTITY  noupdates.label           "Encara no s'ha instalau garra actualizacion">
 
 <!ENTITY  name.header               "Nombre de l'actualización">
