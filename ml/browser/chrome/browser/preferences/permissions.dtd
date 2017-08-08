@@ -10,8 +10,8 @@
 
 
 
-<!ENTITY address.label                "വെബ്‌ സൈറ്റിന്റെ വിലാസം ">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "തടയുക ">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "ഈ സെഷന്‌ അനുവദിക്കുക">

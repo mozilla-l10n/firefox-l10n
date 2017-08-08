@@ -47,8 +47,7 @@
 <!ENTITY  acceptThirdParty.never.label    "ഒരിക്കലും ഇല്ല">
 <!ENTITY  acceptThirdParty.visited.label  "സന്ദര്‍ശനം മുതല്‍">
 
-<!ENTITY  keepUntil.label               "എപ്പോള്‍ വരെ വെയ്ക്കേണം:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "അവയുടെ കാലാവധി കഴിയും വരെ">
 <!ENTITY  close.label                   "&brandShortName; അടയ്ക്കുന്നു ">
