@@ -32,7 +32,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Условия на услугата">
-<!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
+<!ENTITY fxaPrivacyNotice.link.label "Политика на поверителност">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
