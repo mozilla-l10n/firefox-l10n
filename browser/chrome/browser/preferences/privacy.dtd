@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Zaštita od praćenja">
+<!ENTITY  trackingProtection2.description      "Praćenje je skup vaših podataka pretraživanja diljem web stranica. Praćenje može biti korišteno kako bi se napravio vaš profil i prikazivao sadržaj na temelju vaših navika pretraživanja i osobnih informacija.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Koristi zaštitu od praćenja kako biste blokirali poznate alate za praćenje.">
 <!ENTITY  trackingProtectionAlways.label       "Uvijek">
 <!ENTITY  trackingProtectionAlways.accesskey   "j">
 <!ENTITY  trackingProtectionPrivate.label      "Samo u privatnim prozorima">
@@ -17,21 +19,24 @@
 <!ENTITY trackingProtectionPBM5.label         "Koristi zaštitu od praćenja u privatnim prozorima">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Koristite zaštitu od praćenja u Privatnom pretraživanju kako biste blokirali poznate alate za praćenje">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saznajte više">
+<!ENTITY changeBlockList2.label               "Promijenite popis blokiranih…">
+<!ENTITY changeBlockList2.accesskey           "b">
 
-
-
-
-
-
+<!ENTITY  doNotTrack.description        "Šalji “Ne prati me” signal web stranicama (stranice ga ne moraju poštivati)">
+<!ENTITY  doNotTrack.learnMore.label    "Saznajte više">
+<!ENTITY  doNotTrack.default.label      "Samo kada koristim zaštitu od praćenja">
+<!ENTITY  doNotTrack.always.label       "Uvijek">
 
 <!ENTITY  history.label                 "Povijest">
+<!ENTITY  permissions.label             "Dopuštenja">
 
-
-
-
-
+<!ENTITY  addressBar.label              "Adresna traka">
+<!ENTITY  addressBar.suggest.label      "Pri korištenju adresne trake, predloži">
+<!ENTITY  locbar.history2.label         "Povijest pretraživanja">
+<!ENTITY  locbar.history2.accesskey     "P">
 <!ENTITY  locbar.bookmarks.label        "Zabilješke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Otvori kartice">
@@ -39,17 +44,17 @@
 <!ENTITY  locbar.searches.label         "Povezana pretraživanja od zadane tražilice">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Promijenite postavke za prijedloge tražilica">
+
+<!ENTITY  acceptCookies2.label          "Prihvati kolačiće sa stranica">
+<!ENTITY  acceptCookies2.accesskey      "a">
 
 
-
-<!ENTITY  acceptThirdParty.pre.label      "Prihvati kolačiće trećih strana:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
-
+<!ENTITY  acceptThirdParty.always.label   "Uvijek">
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
 
-<!ENTITY  keepUntil.label               "Zadrži do:">
-<!ENTITY  keepUntil.accesskey           "ž">
+
 
 <!ENTITY  expire.label                  "isteka roka">
 <!ENTITY  close.label                   "zatvaranja &brandShortName;">
@@ -60,7 +65,8 @@
 <!ENTITY  showCookies.label             "Prikaži kolačiće...">
 <!ENTITY  showCookies.accesskey         "k">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; će">
+<!ENTITY  historyHeader2.pre.accesskey     "e">
 <!ENTITY  historyHeader.remember.label     "zapamtiti povijest">
 <!ENTITY  historyHeader.dontremember.label "neće nikada zapamtiti povijest">
 <!ENTITY  historyHeader.custom.label       "koristiti prilagođene postavke za povijest">

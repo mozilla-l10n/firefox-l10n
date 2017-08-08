@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Fontovi">
 
-<!ENTITY  language.label                          "Fontovi za:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Veličina:">
+
 <!ENTITY  sizeProportional.accesskey              "V">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcionalno:">
-<!ENTITY  proportional.accesskey                  "l">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetski">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimalna veličina fonta:">
-<!ENTITY minSize.accesskey                        "i">
+
 <!ENTITY minSize.none                             "Ništa">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kôdna stranica za zastarjeli sadržaj">
-<!ENTITY languages.customize.Fallback2.label      "Pomoćna kôdna stranica:">
-<!ENTITY languages.customize.Fallback2.accesskey  "k">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Ova kôdna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kôdnu stranicu.">
 
 <!ENTITY languages.customize.Fallback.auto        "Zadano za trenutni jezik">
