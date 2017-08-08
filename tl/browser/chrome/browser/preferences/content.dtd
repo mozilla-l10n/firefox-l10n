@@ -6,6 +6,8 @@
 <!ENTITY  blockPopups.label           "Harangin ang mga pop-up windows">
 <!ENTITY  blockPopups.accesskey       "H">
 
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 
 <!ENTITY  popupExceptions.label       "Mga Exceptions...">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -19,7 +21,6 @@
 <!ENTITY  colors.accesskey            "M">
 
 
-<!ENTITY languages.label              "Mga Wika">
 <!ENTITY chooseLanguage.label         "Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina">
 <!ENTITY chooseButton.label           "Choose…">
 <!ENTITY chooseButton.accesskey       "o">

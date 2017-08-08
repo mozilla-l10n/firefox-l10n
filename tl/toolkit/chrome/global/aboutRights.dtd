@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Tungkol sa Iyong mga Karapatan">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -47,6 +45,7 @@
 <!ENTITY rights2.webservices-a "&brandFullName; uses web-based information services (&quot;Services&quot;) to provide some of the features provided for your use with this binary version of &brandShortName; under the terms described below. If you do not want to use one or more of the Services or the terms below are unacceptable, you may disable the feature or Service(s). Instructions on how to disable a particular feature or Service may be found ">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Hindi pagpapagana sa Ligtas na Pagba-browse ng tampok ay hindi inirerekomenda bilang ito ay maaaring magresulta sa ka pagpunta sa hindi ligtas na mga site. Kung nais mong ganap na hindi paganahin ang tampok, sundin ang mga hakbang na ito:">
 <!ENTITY rights.safebrowsing-term4 "Disabled ang Safe Browsing">
 

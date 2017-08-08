@@ -10,11 +10,7 @@
 <!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng  &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Hindi Maka-update">
-
-
 <!ENTITY  manualUpdateGetMsg.label        "Makukuha mo ang pinakabagong bersyon ng &brandShortName; sa:">
-
-
 
 
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
@@ -24,7 +20,6 @@
 <!ENTITY  downloading.intro               "Dina-download na ang update">
 <!ENTITY  connecting.label                "Kumokonek sa update server…">
 
-
 <!ENTITY  viewDetails.tooltip             "Tingnan ang mga detalye para sa update na ito">
 
 
@@ -32,17 +27,13 @@
 <!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ngupdate. &brandShortName; hindi ma-update dahil:">
                                            
 <!ENTITY  errorManual.label               "Maaari mong i-update ang &brandShortName; ng mano-mano sa pamamagitan ng pagbisita sa link na ito at I-download ang pinakabagong version:">
+                                           
 
-
-<!ENTITY  errorCertAttrNoUpdate2.label    "Mayroong pumipigil sa pag-update ng &brandShortName; ng ligtas.  Mangyaring siguraduhin na mayroon kang pinakabagong version ng &brandShortName; mula sa:">
-<!ENTITY  errorCertAttrHasUpdate.label    "May isang bagay na sinusubukan lokohin ang &brandShortName; sa pagtanggap ng isang hindi secure na-update. Mangyaring makipag-ugnayan sa iyong network provider at humingi ng tulong.">
 
 <!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
-
 
 <!ENTITY  finishedBackground.name         "I-update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-
 <!ENTITY  update.installedOn.label        "Na-install noong:">
-
+<!ENTITY  update.status.label             "Estado:">

@@ -98,4 +98,15 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
 <!ENTITY certificateTab.label            "Mga sertipiko">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Magtanong sayo palagi">
+<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Karagdagang kalaaman">
+<!ENTITY limitContentProcessOption.accesskey   "L">

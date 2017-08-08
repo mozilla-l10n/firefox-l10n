@@ -1,28 +1,28 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 
-
-
-
 <!ENTITY aboutSupport.extensionName "Pangalan">
-
 <!ENTITY aboutSupport.extensionVersion "Bersyon">
+<!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featureName "Pangalan">
+<!ENTITY aboutSupport.featureVersion "Bersyon">
+<!ENTITY aboutSupport.featureId "ID">
 
-
-
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Paglalarawan">
-
-
-
-
+<!ENTITY aboutSupport.experimentActive "Aktibo">
+<!ENTITY aboutSupport.experimentEndDate "Katapusan">
+<!ENTITY aboutSupport.experimentHomepage "Homepage">
+<!ENTITY aboutSupport.experimentBranch "Sangay">
 
 <!ENTITY aboutSupport.appBasicsName "Pangalan">
 <!ENTITY aboutSupport.appBasicsVersion "Bersyon">
@@ -30,19 +30,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
-
-
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Paganahin na mga Plugin">
 
-
-
-
-
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
 
 
 
@@ -52,35 +48,21 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Ipakita sa Finder">
-<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
-<!ENTITY aboutSupport.showWin.label "Ipakita ang Folder">
 
 <!ENTITY aboutSupport.modifiedPrefsName "Pangalan">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-
-
-
+<!ENTITY aboutSupport.lockedPrefsName "Pangalan">
+<!ENTITY aboutSupport.lockedPrefsValue "Halaga">
 
 <!ENTITY aboutSupport.graphicsTitle "Grapiko">
 
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integredad">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.jsTitle "JavaScript">
 
 
 
