@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "ღ">
 <!ENTITY removeallpermissions2.label  "ყველა საიტის ამოღება">
 <!ENTITY removeallpermissions2.accesskey "ყ">
-<!ENTITY address.label                "საიტის მისამართი:">
-<!ENTITY address.accesskey            "მ">
+<!ENTITY address2.label               "საიტის მისამართი">
+<!ENTITY address2.accesskey           "მ">
 <!ENTITY block.label                  "აკრძალვა">
 <!ENTITY block.accesskey              "შ">
 <!ENTITY session.label                "სეანსზე დაშვება">

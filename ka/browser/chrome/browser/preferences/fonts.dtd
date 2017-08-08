@@ -14,6 +14,12 @@
 <!ENTITY  proportional2.label                     "ფარდობა">
 <!ENTITY  proportional2.accesskey                 "ფ">
 
+<!ENTITY  serif2.label                            "ნაჭდევებიანი">
+<!ENTITY  serif2.accesskey                        "ნ">
+<!ENTITY  sans-serif2.label                       "ნაჭდევის გარეშე">
+<!ENTITY  sans-serif2.accesskey                   "ე">
+<!ENTITY  monospace2.label                        "თანაბარი სიგანის">
+<!ENTITY  monospace2.accesskey                    "თ">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -39,24 +45,28 @@
 <!ENTITY  font.langGroup.gujarati                 "გუჯარათული">
 <!ENTITY  font.langGroup.gurmukhi                 "გურმუხი">
 <!ENTITY  font.langGroup.khmer                    "ქჰმერული">
-<!ENTITY  font.langGroup.malayalam                "მალაური">
+<!ENTITY  font.langGroup.malayalam                "მალაიური">
 <!ENTITY  font.langGroup.math                     "მათემატიკა">
 <!ENTITY  font.langGroup.odia                     "ორია">
 <!ENTITY  font.langGroup.telugu                   "ტელუგუ">
-<!ENTITY  font.langGroup.kannada                  "კანნადა">
-<!ENTITY  font.langGroup.sinhala                  "სინჰალა">
+<!ENTITY  font.langGroup.kannada                  "კანარა">
+<!ENTITY  font.langGroup.sinhala                  "სინჰალური">
 <!ENTITY  font.langGroup.tibetan                  "ტიბეტური">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "შრიფტის უმცირესი ზომა">
+<!ENTITY minSize2.accesskey                       "უ">
 <!ENTITY minSize.none                             "შეუზღუდავი">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "ნაჭდევებიანი">
-<!ENTITY  useDefaultFontSansSerif.label           "გროტესკი">
+<!ENTITY  useDefaultFontSansSerif.label           "ნაჭდევის გარეშე">
 
 <!ENTITY  allowPagesToUseOwn.label                "ნების დართვა ვებგვერდებისთვის, თავად აირჩიოს ფონტები, ზემოთ მითითებულის მიუხედავად">
 <!ENTITY  allowPagesToUseOwn.accesskey            "ნ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ტექსტის კოდირება მოძველებული შიგთავსითვის">
+<!ENTITY languages.customize.Fallback3.label      "ტექსტის სათადარიგო კოდირება">
+<!ENTITY languages.customize.Fallback3.accesskey  "თ">
 <!ENTITY languages.customize.Fallback2.desc       "ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომელიც თავის კოდირების ვერ უთითებს.">
 
 <!ENTITY languages.customize.Fallback.auto        "არჩეული ენისთვის ნაგულისხმევი">
