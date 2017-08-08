@@ -844,4 +844,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; สร้างรายการเด่นของสิ่งที่คุณได้ค้นพบบนเว็บเพื่อให้คุณสามารถกลับมาชมบทความ, วิดีโอ, ที่คั่นหน้า และหน้าอื่น ๆ ที่ยอดเยี่ยมได้">
 
+<!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการตามรอย">
 <!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
