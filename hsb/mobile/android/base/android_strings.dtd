@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Postupne webnałoženja">
 <!ENTITY pref_pwa_summary "Dowolće, zo so webnałoženja startowej wobrazowce přidawaja">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Prud aktiwity">
-<!ENTITY pref_activity_stream_summary "Bohata widźomna historija a nowo wuhotowana startowa strona wosnadnjetej wjace hač prjedy, to namakać, za čimž w &brandShortName; pytaće.">
 
 <!ENTITY tracking_protection_prompt_title "Nětko ze slědowanskim škitom">
 <!ENTITY tracking_protection_prompt_text "Slědowanske elementy so aktiwnje blokuja, njetrjebaće tuž so starosćić.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Witajće k swojim wjerškam">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; wutwori nětko wjerški wěcow, kotrež sće w interneće wotkrył, zo byšće puć wróćo k wulkotnym nastawkam, widejam, zapołožkam a druhim stronam namakał.">
+
+
+
+
