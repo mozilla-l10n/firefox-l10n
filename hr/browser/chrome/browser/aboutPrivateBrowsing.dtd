@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vas ne čini anonimnim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na Internetu. Vaš poslodavac ili pružatelj Internet usluga svejedno može pratiti koje stranice posjećujete.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Saznajte više o">
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privatno pretraživanje">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Zaštita od praćenja">
