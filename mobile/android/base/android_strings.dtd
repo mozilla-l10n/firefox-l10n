@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "प्रगतिशील वेब एप्लिकेशन">
 <!ENTITY pref_pwa_summary "होम स्क्रीन पर वेब एप्लिकेशन को शामिल करने की अनुमति दें">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "गतिविधि धारा">
-<!ENTITY pref_activity_stream_summary "आप मुख्यतः जो पाना चाहते हैं उसे &brandShortName; में ढूँढ़ने की अपेक्षा एक बहुमूल्य दृश्य इतिहास फ़ीड और रीइमेजिनेड आमुख इसे आसान बनाता है">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रैकिंग संरक्षण के साथ">
 <!ENTITY tracking_protection_prompt_text "सक्रिय रूप से ट्रैकिंग तत्वों को अवरोध करता है इसीलिए आपको चिंता करने की जरुरत नही हैं.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "आपकी प्रमुखताओं में आपका स्वागत है">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; अब आपके द्वारा वेब पर खोज की गई चीज़ों की प्रमुखताओं को बनाता है ताकि आप अच्छे लेख, वीडियो, बुकमार्क और अन्य पृष्ठों पर वापस आने का अपना तरीका पा सकें.">
+
+
+
+
