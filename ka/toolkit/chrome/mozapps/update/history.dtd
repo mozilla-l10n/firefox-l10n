@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "განახლების ისტორია">
-<!ENTITY  history.intro             "ჩაიდგა შემდეგი განახლებები:">
+<!ENTITY  history2.intro            "ჩაიდგა შემდეგი განახლებები">
 <!ENTITY  closebutton.label         "დახურვა">
-                                     
+
 <!ENTITY  noupdates.label           "განახლებები ჯერ არ ჩადგმულა">
 
 <!ENTITY  name.header               "განახლების სახელი">

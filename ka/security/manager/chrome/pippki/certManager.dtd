@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "სააგენტოები">
 <!ENTITY certmgr.tab.orphan2                  "სხვა">
 
-<!ENTITY certmgr.mine                         "თქვენ გაქვთ თქვენი სერთიფიკატები ამ ორგანიზაციებიდან:">
-<!ENTITY certmgr.others                       "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ პირებს:">
-<!ENTITY certmgr.websites2                    "თქვენ გაქვთ სერთიფიკატები რომელიც შემდეგ სერვერებს ეხება:">
-<!ENTITY certmgr.cas                          "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ გამომცემლებს:">
-<!ENTITY certmgr.orphans                      "თქვენი სერთიფიკატის ფაილი არც ერთ სხვა კატეგორიას არ შეესაბამება:">
+<!ENTITY certmgr.mine2                        "თქვენ გაქვთ თქვენი სერთიფიკატები ამ ორგანიზაციებიდან">
+<!ENTITY certmgr.others2                      "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ პირებს">
+<!ENTITY certmgr.websites3                    "თქვენ გაქვთ სერთიფიკატები რომელიც შემდეგ სერვერებს ეხება">
+<!ENTITY certmgr.cas2                         "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ გამომცემლებს">
+<!ENTITY certmgr.orphans2                     "თქვენი სერთიფიკატის ფაილი არც ერთ სხვა კატეგორიას არ შეესაბამება">
 
 <!ENTITY certmgr.detail.general_tab.title     "ძირითადი">
 <!ENTITY certmgr.detail.general_tab.accesskey "ძ">
