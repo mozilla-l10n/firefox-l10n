@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Offer">
-<!ENTITY toolsMenu.accesskey          "f"> 
+<!ENTITY toolsMenu.accesskey          "f">
 
 <!ENTITY keywordfield.label           "Ychwanegu Allweddair i'r Chwilio…">
 <!ENTITY keywordfield.accesskey       "Y">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Ffeil"> 
+<!ENTITY fileMenu.label         "Ffeil">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
 <!ENTITY newUserContext.accesskey         "y">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "B">
 <!ENTITY newNonRemoteWindow.label   "Ffenestr Newydd Nid e10s">
 
-<!ENTITY editMenu.label         "Golygu"> 
-<!ENTITY editMenu.accesskey       "G"> 
-<!ENTITY undoCmd.label            "Dadwneud">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "w"> 
-<!ENTITY redoCmd.label            "Ailwneud">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "A"> 
-<!ENTITY cutCmd.label           "Torri">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "T"> 
-<!ENTITY copyCmd.label            "Copïo">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "Gludo">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "G"> 
-<!ENTITY deleteCmd.label          "Dileu">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "i"> 
-<!ENTITY selectAllCmd.label         "Dewis Popeth">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "P"> 
+<!ENTITY editMenu.label         "Golygu">
+<!ENTITY editMenu.accesskey       "G">
+<!ENTITY undoCmd.label            "Dadwneud">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "w">
+<!ENTITY redoCmd.label            "Ailwneud">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "A">
+<!ENTITY cutCmd.label           "Torri">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "T">
+<!ENTITY copyCmd.label            "Copïo">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Gludo">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "G">
+<!ENTITY deleteCmd.label          "Dileu">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "i">
+<!ENTITY selectAllCmd.label         "Dewis Popeth">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "P">
 <!ENTITY preferencesCmd2.label       "Dewisiadau">
 <!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Dewisiadau">
-<!ENTITY preferencesCmdUnix.accesskey     "w"> 
+<!ENTITY preferencesCmdUnix.accesskey     "w">
 
 <!ENTITY clearRecentHistory.label               "Clirio Hanes Diweddar…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Golwg"> 
-<!ENTITY viewMenu.accesskey       "o"> 
-<!ENTITY viewToolbarsMenu.label       "Barrau Offer"> 
-<!ENTITY viewToolbarsMenu.accesskey     "B"> 
+<!ENTITY viewMenu.label         "Golwg">
+<!ENTITY viewMenu.accesskey       "o">
+<!ENTITY viewToolbarsMenu.label       "Barrau Offer">
+<!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Bar Ochr">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Cyfaddasu…"> 
+<!ENTITY viewCustomizeToolbar.label       "Cyfaddasu…">
 <!ENTITY viewCustomizeToolbar.accesskey     "y">
 <!ENTITY overflowCustomizeToolbar.label       "Cyfaddasu'r Bar Offer…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Edrych ar Ffynhonnell y Dewis">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Edrych ar Ffynhonnell MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "E">
 <!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Copïo Lleoliad Delwedd">
 <!ENTITY copyImageCmd.accesskey       "L">
 <!ENTITY copyImageContentsCmd.label   "Copïo Delwedd">
-<!ENTITY copyImageContentsCmd.accesskey  "D"> 
+<!ENTITY copyImageContentsCmd.accesskey  "D">
 <!ENTITY copyVideoURLCmd.label        "Copïo Lleoliad Delwedd">
 <!ENTITY copyVideoURLCmd.accesskey    "e">
 <!ENTITY copyAudioURLCmd.label        "Copïo Lleoliad Delwedd">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Gadael &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Gadael"> 
+<!ENTITY quitApplicationCmd.label       "Gadael">
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac2.label   "Gadael &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Cau">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Cau">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">

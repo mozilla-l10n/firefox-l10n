@@ -115,7 +115,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Eithriadau…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "E">
 
-<!ENTITY offlineAppsList2.label          "Mae'r gwefannau canlynol yn cael caniatâd i storio data ar gyfer defnydd all-lein:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tynnu…">
 <!ENTITY offlineAppsListRemove.accesskey "T">

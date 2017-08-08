@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Hanes Diweddaru">
-<!ENTITY  history.intro             "Mae'r diweddariadau canlynol wedi eu gosod:">
+
 <!ENTITY  closebutton.label         "Cau">
-                                     
+
 <!ENTITY  noupdates.label           "Dim diweddariadau wedi eu gosod eto">
 
 <!ENTITY  name.header               "Enw'r Diweddariad">
