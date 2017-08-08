@@ -2,32 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY undoCmd.label             "I-undo">
+<!ENTITY undoCmd.label             "i-Undo">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "I">
 <!ENTITY redoCmd.label             "Ulitin">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "U">
-
 <!ENTITY cutCmd.key                "X">
-
-
 <!ENTITY copyCmd.key               "C">
-
-
 <!ENTITY pasteCmd.key              "V">
-
 <!ENTITY deleteCmd.label           "Burahin">
 <!ENTITY deleteCmd.accesskey       "B">
-
 <!ENTITY selectAllCmd.key          "A">
-
 <!ENTITY findCmd.label             "Hanapin">
 <!ENTITY findCmd.key               "H">
 <!ENTITY findCmd.accesskey         "H">
-
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-
 <!ENTITY findPreviousCmd.label     "Hanapin ang Nakaraan">
 <!ENTITY findPreviousCmd.accesskey "v">

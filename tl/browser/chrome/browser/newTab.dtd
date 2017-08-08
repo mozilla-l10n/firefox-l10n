@@ -12,6 +12,6 @@
 <!ENTITY newtab.customize.blank2 "Ipakita ang walang laman na pahina
 ">
 <!ENTITY newtab.undo.removedLabel "Inalis na thumbnail.">
-<!ENTITY newtab.undo.undoButton "Balikan">
+<!ENTITY newtab.undo.undoButton "i-Undo.">
 <!ENTITY newtab.undo.restoreButton "Ibalik ang Lahat.">
 <!ENTITY newtab.undo.closeTooltip "Itago">

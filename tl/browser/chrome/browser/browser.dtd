@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Ibalik sa dati ang Pagsara ng Tab">
+<!ENTITY  undoCloseTab.label                 "Buksang Muli ang Isinarang Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Isara ang Tab">
 <!ENTITY  closeTab.accesskey                 "c">
@@ -294,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "i-Edit">
 <!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Ibalik sa dati">
+<!ENTITY undoCmd.label            "i-Undo">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Ulitin">
