@@ -14,33 +14,33 @@
 
 <!ENTITY  WPADTypeRadio.label           "Amagenamiterere ya porogisi nyamwitahura agenewe uru rusobemiyoboro">
 <!ENTITY  WPADTypeRadio.accesskey       "g">
-<!ENTITY  manualTypeRadio.label         "Itunganya n'Intoki rya Porogosi:">
-<!ENTITY  manualTypeRadio.accesskey     "t">
-<!ENTITY  autoTypeRadio.label           "URL Ihita Iboneza Porogisi:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+
+
+
+
 <!ENTITY  reload.label                  "Kongera Gutangiza">
 <!ENTITY  reload.accesskey              "n">
-<!ENTITY  ftp.label                     "Porogisi FTP:">
-<!ENTITY  ftp.accesskey                 "P">
-<!ENTITY  http.label                    "Porogosi ya HTTP:">
-<!ENTITY  http.accesskey                "i">
-<!ENTITY  ssl.label                     "Porogosi ya SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Inturo SOCKS:">
-<!ENTITY  socks.accesskey               "O">
 
 
 
 
 
 
-<!ENTITY  port.label                    "Imuyoboro:">
+
+
+
+
+
+
+
+
+
 <!ENTITY  HTTPport.accesskey            "y">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Nta Porogosi Igenewe:">
-<!ENTITY  noproxy.accesskey             "w">
+
+
 <!ENTITY  noproxyExplain.label          "Urugero: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koresha iyo seriveri porogisi kuri porotokoli zose">
 <!ENTITY  shareproxy.accesskey          "z">
