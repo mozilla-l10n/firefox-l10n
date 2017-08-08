@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "อนุญาตให้เพิ่มแอปบนเว็บไปยังหน้าจอหลัก">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "สตรีมกิจกรรม">
-<!ENTITY pref_activity_stream_summary "ฟีดประวัติแบบเห็นภาพและหน้าแรกโฉมใหม่ทำให้คุณมองหาสิ่งที่ต้องการใน &brandShortName; ได้ง่ายกว่าที่เคย">
-
 <!ENTITY tracking_protection_prompt_title "ขณะนี้มาพร้อมการป้องกันการตามรอย">
 <!ENTITY tracking_protection_prompt_text "ปิดกั้นองค์ประกอบที่ตามรอยอย่างต่อเนื่อง คุณจึงไม่จำเป็นต้องกังวล">
 <!ENTITY tracking_protection_prompt_tip_text "เยี่ยมชมการตั้งค่าความเป็นส่วนตัวเพื่อเรียนรู้เพิ่มเติม">
@@ -847,3 +843,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; สร้างรายการเด่นของสิ่งที่คุณได้ค้นพบบนเว็บเพื่อให้คุณสามารถกลับมาชมบทความ, วิดีโอ, ที่คั่นหน้า และหน้าอื่น ๆ ที่ยอดเยี่ยมได้">
+
+<!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
