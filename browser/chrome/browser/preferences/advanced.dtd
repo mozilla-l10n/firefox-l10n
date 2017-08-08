@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList2.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian:">
+<!ENTITY offlineAppsList3.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Alih keluar…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
