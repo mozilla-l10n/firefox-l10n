@@ -100,7 +100,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Okujako…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList2.label          "Ebyapa bino bikiribwa okutereka bwino owokukoozesa nga toyingiddwa kumutimbagano:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Jjamu…">
 <!ENTITY offlineAppsListRemove.accesskey "J">

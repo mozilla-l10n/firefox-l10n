@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Ennukuta">
 
-<!ENTITY  language.label                          "Ennukuta za:">
-<!ENTITY  language.accesskey                      "k">
 
-<!ENTITY  size.label                              "Obunene:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Kyenkanankana:">
-<!ENTITY  proportional.accesskey                  "a">
 
-<!ENTITY  serif.label                             "Serifa:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serifa:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Ebbangalimu:">
-<!ENTITY  monospace.accesskey                     "g">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Aba sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Abatibetani">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Olupimo lwawansi olwe'ennukuta:">
-<!ENTITY minSize.accesskey                        "w">
+
 <!ENTITY minSize.none                             "Tewali">
 <!-- default font type -->
 

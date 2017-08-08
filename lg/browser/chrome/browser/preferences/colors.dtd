@@ -13,17 +13,17 @@
 
 
 <!ENTITY  color                           "Ebigambo n'Obwaliriro">
-<!ENTITY  textColor.label                 "Ebigambo:">
-<!ENTITY  textColor.accesskey             "E">
-<!ENTITY  backgroundColor.label           "Obwaliriro:">
-<!ENTITY  backgroundColor.accesskey       "b">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Kozesa langi za sisitimu">
 <!ENTITY  useSystemColors.accesskey       "o">
 
 <!ENTITY  underlineLinks.label            "Saza layini ku akagatta">
 <!ENTITY  underlineLinks.accesskey        "S">
 <!ENTITY  links                           "Langi z'Agatta">
-<!ENTITY  linkColor.label                 "Obugatta Obutanakyaalirwa:">
-<!ENTITY  linkColor.accesskey             "t">
-<!ENTITY  visitedLinkColor.label          "Obugatta Obukyaliddwa:">
-<!ENTITY  visitedLinkColor.accesskey      "u">
+
+
+
+
