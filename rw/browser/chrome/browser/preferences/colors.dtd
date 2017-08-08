@@ -12,17 +12,17 @@
 
 
 <!ENTITY  color                           "Inyandiko n'Imbuganyuma">
-<!ENTITY  textColor.label                 "Inyandiko:">
-<!ENTITY  textColor.accesskey             "y">
-<!ENTITY  backgroundColor.label           "Mbuganyuma:">
-<!ENTITY  backgroundColor.accesskey       "M">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Koresha amabara ya sisitemu">
 <!ENTITY  useSystemColors.accesskey       "r">
 
 <!ENTITY  underlineLinks.label            "Guca umurongo ku mahuza">
 <!ENTITY  underlineLinks.accesskey        "c">
 <!ENTITY  links                           "Amabara ya Mahuza">
-<!ENTITY  linkColor.label                 "Amahuza Adasurwa:">
-<!ENTITY  linkColor.accesskey             "h">
-<!ENTITY  visitedLinkColor.label          "Amahuza Asurwa:">
-<!ENTITY  visitedLinkColor.accesskey      "z">
+
+
+
+

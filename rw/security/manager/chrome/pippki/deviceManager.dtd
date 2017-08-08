@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Kwinjiza amakuru arebana n'igice ushaka kongeraho.">
-<!ENTITY loaddevice.modname                     "Izina ry'Igice:">
-<!ENTITY loaddevice.modname.accesskey           "z">
+
+
 <!ENTITY loaddevice.modname.default             "Igice cya PKCS#11 gishya">
-<!ENTITY loaddevice.filename                    "Izinadosiye ry'igice:">
-<!ENTITY loaddevice.filename.accesskey          "I">
+
+
 <!ENTITY loaddevice.browse                      "Gushakisha...">
 <!ENTITY loaddevice.browse.accesskey            "s">
 
