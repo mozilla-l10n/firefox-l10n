@@ -11,12 +11,12 @@
 <!ENTITY initialpage.network.label  "Na rede">
 
 <!ENTITY locationpage.description         "Informe o que é necessário para acessar seu calendário remoto" >
-<!ENTITY locationpage.login.description   "Opcional: entre nome de usuário e senha" >
+<!ENTITY locationpage.login.description   "Opcional: insira um nome de usuário e senha" >
 <!ENTITY locationpage.username.label      "Nome de usuário:" >
 <!ENTITY locationpage.password.label      "Senha:" >
 
 <!ENTITY custompage.shortdescription  "Personalize seu calendário" >
-<!ENTITY custompage.longdescription   "Você pode dar um apelido para o seu calendário e colorir os eventos deste" >
+<!ENTITY custompage.longdescription   "Você pode dar um nome para o seu calendário e colorir os eventos deste." >
 
 <!ENTITY finishpage.shortdescription  "Calendário criado" >
-<!ENTITY finishpage.longdescription   "Seu calendário foi criado" >
+<!ENTITY finishpage.longdescription   "Seu calendário foi criado." >
