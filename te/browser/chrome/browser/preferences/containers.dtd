@@ -12,15 +12,9 @@
 <!ENTITY window.title         "కొత్త కంటేయినర్ జోడించు">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "పేరు:">
-<!ENTITY name.accesskey       "N">
 <!ENTITY name.placeholder     "ఒక కంటైనర్ పేరును ఇవ్వండి">
-<!ENTITY icon.label           "ఐకాన్:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "రంగు:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY color2.label         "రంగు">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "పూర్తయింది">
 <!ENTITY button.ok.accesskey  "D">
-
