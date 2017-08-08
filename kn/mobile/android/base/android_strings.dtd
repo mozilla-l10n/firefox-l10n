@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "ಪ್ರೋಗ್ರೆಸಿವ್ ಜಾಲ ">
 <!ENTITY pref_pwa_summary "ಜಾಲ ಅನ್ವಯಗಳನ್ನು ಮುಖಪುಟದ ಪರದೆಗೆ ಸೇರಿಸುವುದನ್ನು ">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "ಚಟುವಟಿಕೆ ಹರಿವು">
-<!ENTITY pref_activity_stream_summary "ಒಂದು ಸಮೃದ್ಧ ದೃಷ್ಟಿಗೋಚರ ಇತಿಹಾಸದ ಫೀಡ್ ಮತ್ತು ಒಂದು ಮರುಕಲ್ಪನೆಯ ಮುಖ ಪುಟ &brandShortName; ನಲ್ಲಿ ನೀವು ಹುಡುಕುತ್ತಿರುವುದನ್ನು ಬಹಳ ಸುಲಭವಾಗಿ ಸಿಗುವಂತೆ ಮಾಡುತ್ತದೆ.">
 
 <!ENTITY tracking_protection_prompt_title "ಈಗ ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ ಜೊತೆಗೆ">
 <!ENTITY tracking_protection_prompt_text "ಸಕ್ರಿಯವಾಗಿ ಜಾಡುಹಿಡಿಯುವ ಅಂಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ ನೀವು ಚಿಂತಿಸುವುದನ್ನು ಬಿಡಬಹುದು.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "‍ನಿಮ್ಮ ಹೈಲೈಟ್ಸ್‌ಗಳಿಗೆ ಸ್ವಾಗತ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ಈಗ ನೀವು ಜಾಲದಲ್ಲಿ ಅನ್ವೇಷಿಸಿದ್ದನ್ನು ಹೈಲೈಟ್ಸ್‌ಗಳನ್ನಾಗಿ ಸೃಷ್ಟಿಸುವುದರಿಂದ ನೀವು ಅತ್ಯುತ್ತಮ ಲೇಖನಗಳನ್ನು, ವಿಡಿಯೋಗಳನ್ನು, ಪುಟಗುರುತುಗಳನ್ನು ಮತ್ತು ಇತರೆ ಪುಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು.">
+
+
+
+
