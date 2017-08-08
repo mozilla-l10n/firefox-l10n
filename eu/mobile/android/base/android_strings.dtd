@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Web aplikazio aurrerakoiak">
 <!ENTITY pref_pwa_summary "Baimendu hasierako pantailan web aplikazioak gehitzea">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Jardueren korrontea">
-<!ENTITY pref_activity_stream_summary "Historia modu ikusgarrian erakusten duen jarioak eta birpentsatutako hasiera-orriak &brandShortName;(e)n bila zabiltzana aurkitzea sekula baino errazagoa egiten dute.">
 
 <!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
 <!ENTITY tracking_protection_prompt_text "Blokeatu modu aktiboan jarraipena egiten duten elementuak.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Ongi etorri zuretzat nabarmendutakoetara">
 <!ENTITY activity_stream_welcome_content1 "Webean deskubritu dituzun gauzak nabarmentzen ditu orain &brandShortName;(e)k, zuretzat garrantzia duten artikulu, bideo, laster-marka eta bestelako orrietara itzultzeko bidea izan dezazun.">
+
+
+
+
