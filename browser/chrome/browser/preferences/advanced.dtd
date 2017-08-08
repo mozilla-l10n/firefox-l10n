@@ -110,7 +110,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
-<!ENTITY offlineAppsList2.label          "Situs web berikut telah diizinkan untuk menyimpan data untuk penggunaan luring:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hapus…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
@@ -124,6 +123,7 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "T">
 <!ENTITY enableOCSP.label                "Kueri server penjawab OCSP untuk mengonfirmasukan validitas sertifikat">
 <!ENTITY enableOCSP.accesskey            "v">
+<!ENTITY viewCerts2.label                "Tampilkan Sertifikat…">
 
 <!ENTITY performance.label               "Kinerja">
 <!ENTITY useRecommendedPerformanceSettings2.label

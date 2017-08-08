@@ -14,17 +14,12 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Jangan">
 
 <!ENTITY  color                           "Teks dan Latar Belakang">
-<!ENTITY  textColor.label                 "Teks:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Latar Belakang:">
-<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  textColor2.label                "Teks">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Latar Belakang">
 <!ENTITY  useSystemColors.label           "Gunakan warna dari sistem">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Garisbawahi tautan">
 <!ENTITY  underlineLinks.accesskey        "G">
 <!ENTITY  links                           "Warna Tautan">
-<!ENTITY  linkColor.label                 "Tautan yang Belum Dikunjungi:">
-<!ENTITY  linkColor.accesskey             "i">
-<!ENTITY  visitedLinkColor.label          "Tautan yang Pernah Dikunjungi:">
-<!ENTITY  visitedLinkColor.accesskey      "P">
