@@ -11,9 +11,15 @@
 <!ENTITY  sizeProportional.accesskey              "ข">
 <!ENTITY  sizeMonospace.accesskey                 "น">
 
+<!ENTITY  proportional2.label                     "ความกว้างตามสัดส่วน">
+<!ENTITY  proportional2.accesskey                 "ค">
 
 <!ENTITY  serif2.label                            "มีเชิง">
 <!ENTITY  serif2.accesskey                        "ม">
+<!ENTITY  sans-serif2.label                       "ไม่มีเชิง">
+<!ENTITY  sans-serif2.accesskey                   "ง">
+<!ENTITY  monospace2.label                        "ความกว้างคงที่">
+<!ENTITY  monospace2.accesskey                    "ว">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -47,6 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "สิงหล">
 <!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "ขนาดอักษรขั้นต่ำ">
+<!ENTITY minSize2.accesskey                       "ด">
 <!ENTITY minSize.none                             "ไม่มี">
 
 <!-- default font type -->
