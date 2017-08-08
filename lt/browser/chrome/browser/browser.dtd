@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Priemonės">
-<!ENTITY toolsMenu.accesskey          "P"> 
+<!ENTITY toolsMenu.accesskey          "P">
 
 <!ENTITY keywordfield.label           "Įdėti šios paieškos reikšminį žodį…">
 <!ENTITY keywordfield.accesskey       "p">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Tirti elementą">
 <!ENTITY inspectContextMenu.accesskey "T">
 
-<!ENTITY fileMenu.label         "Failas"> 
+<!ENTITY fileMenu.label         "Failas">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nauja sudėtinė kortelė">
 <!ENTITY newUserContext.accesskey         "s">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Naujas ne „e10s“ langas">
 
-<!ENTITY editMenu.label         "Taisa"> 
-<!ENTITY editMenu.accesskey       "T"> 
-<!ENTITY undoCmd.label            "Atšaukti">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "A"> 
-<!ENTITY redoCmd.label            "Atstatyti">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "t"> 
-<!ENTITY cutCmd.label           "Iškirpti">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "r"> 
-<!ENTITY copyCmd.label            "Kopijuoti">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Įdėti">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "d"> 
-<!ENTITY deleteCmd.label          "Pašalinti">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "š"> 
-<!ENTITY selectAllCmd.label         "Pažymėti viską">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "v"> 
+<!ENTITY editMenu.label         "Taisa">
+<!ENTITY editMenu.accesskey       "T">
+<!ENTITY undoCmd.label            "Atšaukti">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "A">
+<!ENTITY redoCmd.label            "Atstatyti">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "t">
+<!ENTITY cutCmd.label           "Iškirpti">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "r">
+<!ENTITY copyCmd.label            "Kopijuoti">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Įdėti">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "d">
+<!ENTITY deleteCmd.label          "Pašalinti">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "š">
+<!ENTITY selectAllCmd.label         "Pažymėti viską">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "v">
 <!ENTITY preferencesCmd2.label       "Nuostatos">
 <!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
-<!ENTITY preferencesCmdUnix.accesskey     "N"> 
+<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY clearRecentHistory.label               "Valyti žurnalą…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Rodymas"> 
-<!ENTITY viewMenu.accesskey       "R"> 
-<!ENTITY viewToolbarsMenu.label       "Priemonių juostos"> 
-<!ENTITY viewToolbarsMenu.accesskey     "j"> 
+<!ENTITY viewMenu.label         "Rodymas">
+<!ENTITY viewMenu.accesskey       "R">
+<!ENTITY viewToolbarsMenu.label       "Priemonių juostos">
+<!ENTITY viewToolbarsMenu.accesskey     "j">
 <!ENTITY viewSidebarMenu.label "Parankinė">
 <!ENTITY viewSidebarMenu.accesskey "P">
-<!ENTITY viewCustomizeToolbar.label       "Tvarkyti…"> 
+<!ENTITY viewCustomizeToolbar.label       "Tvarkyti…">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 <!ENTITY overflowCustomizeToolbar.label       "Tvarkyti priemonių juostą…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Rodyti atrankos pirminį tekstą">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Rodyti „MathML“ pirminį tekstą">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "d">
 <!ENTITY viewPageSourceCmd.label      "Pirminis tekstas">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopijuoti paveikslo adresą">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopijuoti paveikslą">
-<!ENTITY copyImageContentsCmd.accesskey  "p"> 
+<!ENTITY copyImageContentsCmd.accesskey  "p">
 <!ENTITY copyVideoURLCmd.label        "Kopijuoti vaizdo adresą">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopijuoti garso adresą">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Baigti „&brandShorterName;“ darbą">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Baigti darbą"> 
+<!ENTITY quitApplicationCmd.label       "Baigti darbą">
 <!ENTITY quitApplicationCmd.accesskey   "B">
 <!ENTITY quitApplicationCmdMac2.label   "Baigti „&brandShorterName;“ darbą">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Užverti">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Užverti">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "U">
 
 <!ENTITY toggleMuteCmd.key              "M">

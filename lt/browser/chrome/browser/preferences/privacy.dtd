@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Priimti slapukus iš svetainių">
 <!ENTITY  acceptCookies2.accesskey      "P">
 
-<!ENTITY  acceptThirdParty.pre.label      "Leisti trečiųjų šalių slapukus:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+
 <!ENTITY  acceptThirdParty.always.label   "Visada">
 <!ENTITY  acceptThirdParty.never.label    "niekada">
 <!ENTITY  acceptThirdParty.visited.label  "tik lankytoms svetainėms">
 
-<!ENTITY  keepUntil.label               "Laikyti iki:">
-<!ENTITY  keepUntil.accesskey           "k">
+
 
 <!ENTITY  expire.label                  "jų galiojimo laiko pabaigos">
 <!ENTITY  close.label                   "„&brandShortName;“ seanso pabaigos">

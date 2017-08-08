@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Surinkite informaciją apie pridedamą modulį.">
-<!ENTITY loaddevice.modname                     "Modulio vardas:">
-<!ENTITY loaddevice.modname.accesskey           "v">
+
+
 <!ENTITY loaddevice.modname.default             "Naujas PKCS Nr. 11 modulis">
-<!ENTITY loaddevice.filename                    "Modulio failo vardas:">
-<!ENTITY loaddevice.filename.accesskey          "m">
+
+
 <!ENTITY loaddevice.browse                      "Parinkti failą…">
 <!ENTITY loaddevice.browse.accesskey            "r">
 
