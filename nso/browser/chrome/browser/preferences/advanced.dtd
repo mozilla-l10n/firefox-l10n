@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Maarogi…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList2.label          "Diwepesaete tše latelago di dumeletšwe go boloka tsebišo bakeng sa go e diriša e se inthaneteng:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tloša…">
 <!ENTITY offlineAppsListRemove.accesskey "T">

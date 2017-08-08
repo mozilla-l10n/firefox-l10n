@@ -10,10 +10,9 @@
 <!ENTITY certmgr.tab.ca                       "Ditaolo">
 
 
-<!ENTITY certmgr.mine                         "O na le disetifikheiti go tšwa go mekgahlo ye yeo e go tsebago:">
-<!ENTITY certmgr.others                       "O na le ditifikheiti mo faeleng tšeo di tsebago batho ba:">
 
-<!ENTITY certmgr.cas                          "O na le ditifikheiti mo faeleng tšeo di tsebago dilaola-setifikheiti tše:">
+
+
 
 
 <!ENTITY certmgr.detail.general_tab.title     "Kakaretšo">
