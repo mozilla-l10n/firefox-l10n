@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Applications web progressives">
 <!ENTITY pref_pwa_summary "Autoriser l’ajout d’applications web sur l’écran d’accueil">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Flux d’activité">
-<!ENTITY pref_activity_stream_summary "Un historique visuel et une page d’accueil repensée vous permettent de trouver plus facilement ce que vous recherchez dans &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Désormais avec protection contre le pistage">
 <!ENTITY tracking_protection_prompt_text "Les éléments pouvant pister votre navigation sont bloqués afin que vous n’ayez pas à vous en préoccuper.">
 <!ENTITY tracking_protection_prompt_tip_text "Consultez les paramètres de vie privée pour en savoir plus.">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Effacer mes traces à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal.">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
-<!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Activés">
-<!ENTITY pref_plugins_tap_to_play2 "Appuyer pour lancer la lecture">
-<!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_restore_tabs "Restaurer les onglets">
 <!ENTITY pref_restore_always "Toujours restaurer">
 <!ENTITY pref_restore_quit "Ne pas restaurer après avoir quitté &brandShortName;">
@@ -851,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Découvrez les éléments mis en avant">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; met désormais en avant des éléments-clés que vous avez découverts sur le Web, afin que vous puissiez retrouver facilement des articles, vidéos, marque-pages et d’autres pages.">
+
+<!ENTITY private_tab_panel_title "Navigation privée avec protection contre le pistage">
+<!ENTITY private_tab_panel_description "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.">
+<!ENTITY private_tab_panel_description2 "Nous ne conserverons aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
