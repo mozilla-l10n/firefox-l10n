@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Progresinės saityno programos">
 <!ENTITY pref_pwa_summary "Leisti saityno programoms būti pridėtoms į pradžios ekraną">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Veiklos srautas">
-<!ENTITY pref_activity_stream_summary "Vizualus naršymo žurnalo srautas ir perdarytas pradžios tinklalapis leidžia dar lengviau rasti tai, ko ieškote „&brandShortName;“.">
 
 <!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
 <!ENTITY tracking_protection_prompt_text "Aktyviai blokuoti stebėjimo elementus, kad jums nereikėtų jaudintis.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Sveiki, čia jūsų akcentai">
 <!ENTITY activity_stream_welcome_content1 "„&brandShortName;“ dabar formuoja akcentus iš jūsų saityne atrastų dalykų, kad galėtumėte grįžti prie puikių straipsnių, vaizdo įrašų, adresyno įrašų ir kitų tinklalapių.">
+
+
+
+
