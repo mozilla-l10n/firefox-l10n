@@ -76,7 +76,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Условия за услугата'>
-<!ENTITY fxaccount_status_linkprivacy2 'Политика за личните данни'>
+<!ENTITY fxaccount_status_linkprivacy2 'Политика на поверителност'>
 <!ENTITY fxaccount_status_more 'Още&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Изключване&ellipsis;'>
 
