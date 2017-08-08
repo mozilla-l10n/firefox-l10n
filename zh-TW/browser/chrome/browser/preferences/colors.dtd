@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "永不">
 
 <!ENTITY  color                           "文字與背景">
-<!ENTITY  textColor.label                 "文字:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "背景:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "文字">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "背景">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "使用系統色彩">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "鏈結加底線">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "鏈結色彩">
-<!ENTITY  linkColor.label                 "未拜訪鏈結:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "已拜訪鏈結:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  linkColor2.label                "未拜訪鏈結">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "已拜訪鏈結">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

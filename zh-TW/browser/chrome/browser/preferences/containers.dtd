@@ -12,15 +12,14 @@
 <!ENTITY window.title         "新增容器">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "名稱:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "名稱">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "輸入容器名稱">
-<!ENTITY icon.label           "圖示:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "色彩:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "圖示">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "色彩">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "完成">
 <!ENTITY button.ok.accesskey  "D">
-
