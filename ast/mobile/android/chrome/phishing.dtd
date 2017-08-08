@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "¡Sacáime d'equí!">
 <!ENTITY safeb.palm.decline.label "Inorar esta alvertencia">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué se bloquió esta páxina?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Asesoramientu forníu por <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "¡Informóse de páxina atacante!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
