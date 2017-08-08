@@ -14,8 +14,20 @@
 <!ENTITY  systemTypeRadio.accesskey     "ง">
 <!ENTITY  WPADTypeRadio.label           "ตรวจหาการตั้งค่าพร็อกซีอัตโนมัติสำหรับเครือข่ายนี้">
 <!ENTITY  WPADTypeRadio.accesskey       "ว">
+<!ENTITY  manualTypeRadio2.label        "การกำหนดค่าพร็อกซีด้วยตนเอง">
+<!ENTITY  manualTypeRadio2.accesskey    "ห">
+<!ENTITY  autoTypeRadio2.label          "URL กำหนดค่าพร็อกซีอัตโนมัติ">
+<!ENTITY  autoTypeRadio2.accesskey      "น">
 <!ENTITY  reload.label                  "โหลดใหม่">
 <!ENTITY  reload.accesskey              "ล">
+<!ENTITY  ftp2.label                    "พร็อกซี FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "พร็อกซี HTTP">
+<!ENTITY  http2.accesskey               "ก">
+<!ENTITY  ssl2.label                    "พร็อกซี SSL">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "โฮสต์ SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
@@ -27,6 +39,8 @@
 <!ENTITY  SSLport.accesskey             "อ">
 <!ENTITY  FTPport.accesskey             "ร">
 <!ENTITY  SOCKSport.accesskey           "ต">
+<!ENTITY  noproxy2.label                "ไม่มีพร็อกซีสำหรับ">
+<!ENTITY  noproxy2.accesskey            "ส">
 <!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโปรโตคอลทั้งหมด">
 <!ENTITY  shareproxy.accesskey          "ฟ">
