@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Progresszív webappok">
 <!ENTITY pref_pwa_summary "Webappok kezdőképernyőhöz adásának engedélyezése">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Tevékenységfolyam">
-<!ENTITY pref_activity_stream_summary "A részletes előzményfolyam és az újratervezett kezdőlap mindennél egyszerűbbé teszik mindannak megtalálását, amit a &brandShortName;ban keres.">
 
 <!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 <!ENTITY tracking_protection_prompt_text "Aktívan blokkolja a követő elemeket, hogy ne kelljen aggódnia.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Üdvözöljük a Kiemeléseknél">
 <!ENTITY activity_stream_welcome_content1 "A &brandShortName; kiemeléseket készít a weben felfedezett tartalmakról, így könnyedén visszatalálhat a remek cikkekhez, videókhoz, könyvjelzőkhöz és más oldalakhoz.">
+
+
+
+
