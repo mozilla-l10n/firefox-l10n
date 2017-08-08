@@ -53,6 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "Tamanho mínimo da fonte">
+<!ENTITY minSize2.accesskey                       "t">
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
