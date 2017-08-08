@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "მზარდი ვებაპლიკაციები">
 <!ENTITY pref_pwa_summary "ვებაპლიკაციების მთავარ გვერდზე დამატების დაშვება">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "მოქმედებების აღრიცხვა">
-<!ENTITY pref_activity_stream_summary "განახლებული საწყისი გვერდი, სადაც მოცემული იქნება ყველა საჭირო და მნიშვნელოვანი მონაკვეთი მონახულებული გვერდების ისტორიიდან, რაც გაგიმარტივებთ საჭირო და ზუსტი ინფორმაციის მოძიებას &brandShortName;-ში.">
-
 <!ENTITY tracking_protection_prompt_title "ახლა უკვე თვალთვალისგან დაცვით">
 <!ENTITY tracking_protection_prompt_text "მოთვალთვალე ელემენტები იზღუდება მუდმივად, ასე რომ, შეგიძლიათ არ იდარდოთ.">
 <!ENTITY tracking_protection_prompt_tip_text "მეტის გასაგებად ეწვიეთ პირადი მონაცემების პარამეტრებს">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "პირადი მონაცემების გასუფთავება გამოსვლისას">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავარი მენიუდან \u0022გასვლის\u0022 დროს">
 <!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ მონაცემები">
-<!ENTITY pref_plugins "მოდულები">
-<!ENTITY pref_plugins_enabled "ჩართულია">
-<!ENTITY pref_plugins_tap_to_play2 "შეხებით გაშვება">
-<!ENTITY pref_plugins_disabled "ამორთულია">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
 <!ENTITY pref_restore_quit "არ აღდგეს &brandShortName;-იდან გამოსვლის შემდეგ">
@@ -854,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "ყველაზე საინტერესო თქვენთვის">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ცალკე გამოჰყოფს ინტერნეტში თქვენ მიერ ნანახიდან ყველაზე მნიშვნელოვანს, ასე რომ, მარტივად შეგეძლებათ დაუბრუნდეთ საინტერესო სტატიებს, ვიდეოებს, სანიშნეებს და სხვ.">
+
+<!ENTITY private_tab_panel_title "პირადი თვალიერება + თვალთვალისგან დაცვა">
+<!ENTITY private_tab_panel_description "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს.">
+<!ENTITY private_tab_panel_description2 "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
+<!ENTITY private_tab_learn_more "გსურთ შეიტყოთ მეტი?">
