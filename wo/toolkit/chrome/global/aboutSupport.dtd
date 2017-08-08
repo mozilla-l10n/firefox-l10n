@@ -140,3 +140,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Yénekaayu Dogal yi">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Saytukaayu Taxaw gee Doxadil Solo yi">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Saafara">
+
+<!ENTITY aboutSupport.mediaTitle "Xibaarukaay">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Jumtukaayu génn">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Jumtukaayu dugg">
+<!ENTITY aboutSupport.mediaDeviceName "Tur">
+<!ENTITY aboutSupport.mediaDeviceGroup "Mbooloo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Jaaykat">
+<!ENTITY aboutSupport.mediaDeviceState "Tolluwaay">
+<!ENTITY aboutSupport.mediaDevicePreferred "Tànnéef">
+<!ENTITY aboutSupport.mediaDeviceFormat "Melokaanal">
+<!ENTITY aboutSupport.mediaDeviceChannels "Yoon">
+<!ENTITY aboutSupport.mediaDeviceRate "Baraay">
+<!ENTITY aboutSupport.mediaDeviceLatency "Yeexaay">
