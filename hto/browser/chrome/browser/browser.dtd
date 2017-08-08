@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "ch">
 
 <!ENTITY toolsMenu.label              "Ránɨaɨ táɨjɨyena">
-<!ENTITY toolsMenu.accesskey          "R"> 
+<!ENTITY toolsMenu.accesskey          "R">
 
 
 
@@ -251,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ráanɨaɨ éroiye">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY fileMenu.label         "Jónia ráa"> 
+<!ENTITY fileMenu.label         "Jónia ráa">
 <!ENTITY fileMenu.accesskey       "J">
 
 
@@ -262,45 +262,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "e">
 <!ENTITY newNonRemoteWindow.label   "Kómue eroirafo Non-e10s">
 
-<!ENTITY editMenu.label         "Abɨdo Fɨnode"> 
-<!ENTITY editMenu.accesskey       "A"> 
-<!ENTITY undoCmd.label            "Óni dóta">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Ó"> 
-<!ENTITY redoCmd.label            "Ábɨdo jóne">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Á"> 
-<!ENTITY cutCmd.label           "Kotade">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "d"> 
+<!ENTITY editMenu.label         "Abɨdo Fɨnode">
+<!ENTITY editMenu.accesskey       "A">
+<!ENTITY undoCmd.label            "Óni dóta">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Ó">
+<!ENTITY redoCmd.label            "Ábɨdo jóne">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "Á">
+<!ENTITY cutCmd.label           "Kotade">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "d">
 
 
 
-<!ENTITY pasteCmd.label           "Níta">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "N"> 
-<!ENTITY deleteCmd.label          "Fúitade">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Nána nɨze">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "n"> 
+<!ENTITY pasteCmd.label           "Níta">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "N">
+<!ENTITY deleteCmd.label          "Fúitade">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "F">
+<!ENTITY selectAllCmd.label         "Nána nɨze">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "n">
 <!ENTITY preferencesCmd2.label       "Nɨzede">
 <!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Kúe gaɨga">
-<!ENTITY preferencesCmdUnix.accesskey     "g"> 
+<!ENTITY preferencesCmdUnix.accesskey     "g">
 
 <!ENTITY clearRecentHistory.label               "Kómue jagaɨ dono...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Éroi"> 
-<!ENTITY viewMenu.accesskey       "É"> 
-<!ENTITY viewToolbarsMenu.label       "Jófo tajɨyena ránɨɨ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "r"> 
+<!ENTITY viewMenu.label         "Éroi">
+<!ENTITY viewMenu.accesskey       "É">
+<!ENTITY viewToolbarsMenu.label       "Jófo tajɨyena ránɨɨ">
+<!ENTITY viewToolbarsMenu.accesskey     "r">
 <!ENTITY viewSidebarMenu.label "Úieko rádozi">
 <!ENTITY viewSidebarMenu.accesskey "r">
-<!ENTITY viewCustomizeToolbar.label       "Kúe dama íena…"> 
+<!ENTITY viewCustomizeToolbar.label       "Kúe dama íena…">
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 
 
@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 
@@ -553,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY copyImageContentsCmd.label   "Fakádote jana">
-<!ENTITY copyImageContentsCmd.accesskey  "j"> 
+<!ENTITY copyImageContentsCmd.accesskey  "j">
 
 
 
@@ -647,13 +647,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Jino jaide íedo &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Jáiri"> 
+<!ENTITY quitApplicationCmd.label       "Jáiri">
 <!ENTITY quitApplicationCmd.accesskey   "J">
 <!ENTITY quitApplicationCmdMac2.label   "Jáiri íedo &brandShorterName;">
 
 
-<!ENTITY closeCmd.label                 "Ɨ́baide">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Ɨ́baide">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Ɨ">
 
 <!ENTITY toggleMuteCmd.key              "M">

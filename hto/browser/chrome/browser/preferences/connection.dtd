@@ -10,33 +10,33 @@
 
 
 
-<!ENTITY  manualTypeRadio.label         "ónoɨdo proxy ñúe fɨnoka:">
-<!ENTITY  manualTypeRadio.accesskey     "ó">
 
 
 
 
-<!ENTITY  ftp.label                     "Proxy FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "x">
-<!ENTITY  socks.label                   "Taɨjɨraɨma SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "Ígobe:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Proxy dɨga taɨjɨñeno bíena:">
-<!ENTITY  noproxy.accesskey             "P">
+
+
 <!ENTITY  noproxyExplain.label          "Bíe ízoi: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Dano proxy nana taɨji">
 <!ENTITY  shareproxy.accesskey          "s">

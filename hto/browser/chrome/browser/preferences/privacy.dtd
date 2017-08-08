@@ -47,8 +47,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Jáka">
 <!ENTITY  acceptThirdParty.visited.label  "Éroika">
 
-<!ENTITY  keepUntil.label               "Dɨno yɨno kómo íte:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "Báɨide">
 <!ENTITY  close.label                   "ɨbai &brandShortName;">
