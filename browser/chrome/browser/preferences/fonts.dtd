@@ -4,25 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "Tipos de letra">
 
-<!ENTITY  language.label                          "Tipos de letra para:">
-<!ENTITY  language.accesskey                      "T">
+<!ENTITY  fonts.label                             "Tipos de letra para">
+<!ENTITY  fonts.accesskey                         "T">
 
-<!ENTITY  size.label                              "Tamanho:">
+<!ENTITY  size2.label                             "Tamanho">
 <!ENTITY  sizeProportional.accesskey              "m">
 <!ENTITY  sizeMonospace.accesskey                 "h">
 
-<!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcional">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serifada:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sem serifa:">
-<!ENTITY  sans-serif.accesskey                    "m">
-<!ENTITY  monospace.label                         "Monoespaçada:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serifa">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sem serifa">
+<!ENTITY  sans-serif2.accesskey                   "m">
+<!ENTITY  monospace2.label                        "Monoespaçada">
+<!ENTITY  monospace2.accesskey                    "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Alfabeto romano">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
@@ -53,11 +53,11 @@
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tamanho mínimo:">
-<!ENTITY minSize.accesskey                        "h">
+<!ENTITY minSize2.label                           "Tamanho mínimo de tipo de letra">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Nenhum">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serifada">
 <!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
 
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo de legado">
-<!ENTITY languages.customize.Fallback2.label      "Codificação de texto de retorno:">
-<!ENTITY languages.customize.Fallback2.accesskey  "C">
+<!ENTITY languages.customize.Fallback3.label      "Codificação de texto de contingência">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é utilizada para conteúdo de legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predefinido para o idioma atual">
