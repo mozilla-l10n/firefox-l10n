@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Hay sahaa">
 
 <!ENTITY  color                           "Binndol e Cakkital">
-<!ENTITY  textColor.label                 "Binndol:">
-<!ENTITY  textColor.accesskey             "B">
-<!ENTITY  backgroundColor.label           "Cakkital:">
-<!ENTITY  backgroundColor.accesskey       "C">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Huutoro nooneeji yuɓɓo">
 <!ENTITY  useSystemColors.accesskey       "u">
 
 <!ENTITY  underlineLinks.label            "Waɗ diidlesol e jokkorɗe">
 <!ENTITY  underlineLinks.accesskey        "W">
 <!ENTITY  links                           "Nooneeji Jokkol">
-<!ENTITY  linkColor.label                 "Jokkorɗe ɗe Njillaaka:">
-<!ENTITY  linkColor.accesskey             "N">
-<!ENTITY  visitedLinkColor.label          "Jokkorɗe ɗe Jillaaɗe:">
-<!ENTITY  visitedLinkColor.accesskey      "J">
+
+
+
+

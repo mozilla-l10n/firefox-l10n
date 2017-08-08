@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Kuutorɗe">
-<!ENTITY toolsMenu.accesskey          "K"> 
+<!ENTITY toolsMenu.accesskey          "K">
 
 <!ENTITY keywordfield.label           "Ɓeydi Helmere tesko e oo Njiilaw…">
 <!ENTITY keywordfield.accesskey       "H">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Fiilde"> 
+<!ENTITY fileMenu.label         "Fiilde">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tabbere Mooftirɗe Hesere">
 <!ENTITY newUserContext.accesskey         "b">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "H">
 <!ENTITY newNonRemoteWindow.label   "Henorde Non-e10s Hesere">
 
-<!ENTITY editMenu.label         "Taƴto"> 
-<!ENTITY editMenu.accesskey       "T"> 
-<!ENTITY undoCmd.label            "Firtu">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "F"> 
-<!ENTITY redoCmd.label            "Waɗtu">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "W"> 
-<!ENTITY cutCmd.label           "Dottu">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Natto">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "N"> 
-<!ENTITY pasteCmd.label           "Ɗakku">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "Ɗ"> 
-<!ENTITY deleteCmd.label          "Momtu">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "M"> 
-<!ENTITY selectAllCmd.label         "Labo Fof">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "F"> 
+<!ENTITY editMenu.label         "Taƴto">
+<!ENTITY editMenu.accesskey       "T">
+<!ENTITY undoCmd.label            "Firtu">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "F">
+<!ENTITY redoCmd.label            "Waɗtu">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "W">
+<!ENTITY cutCmd.label           "Dottu">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Natto">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "N">
+<!ENTITY pasteCmd.label           "Ɗakku">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "Ɗ">
+<!ENTITY deleteCmd.label          "Momtu">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "M">
+<!ENTITY selectAllCmd.label         "Labo Fof">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "F">
 <!ENTITY preferencesCmd2.label       "Cuɓe">
 <!ENTITY preferencesCmd2.accesskey     "C">
 <!ENTITY preferencesCmdUnix.label       "Cuɓoraaɗe">
-<!ENTITY preferencesCmdUnix.accesskey     "ɗ"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ɗ">
 
 <!ENTITY clearRecentHistory.label               "Momtu Aslol cakkitiingol…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Hollir"> 
-<!ENTITY viewMenu.accesskey       "H"> 
-<!ENTITY viewToolbarsMenu.label       "Pale kuutorɗe"> 
-<!ENTITY viewToolbarsMenu.accesskey     "P"> 
+<!ENTITY viewMenu.label         "Hollir">
+<!ENTITY viewMenu.accesskey       "H">
+<!ENTITY viewToolbarsMenu.label       "Pale kuutorɗe">
+<!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Palal sawndo">
 <!ENTITY viewSidebarMenu.accesskey "s">
-<!ENTITY viewCustomizeToolbar.label       "Heertin…"> 
+<!ENTITY viewCustomizeToolbar.label       "Heertin…">
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 
 
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Hollu Ɗaɗi Labannde">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Hollu Ɗadol MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Hollu Ɗaɗi Hello">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Natto Nokkuure Natal">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Natto Natal">
-<!ENTITY copyImageContentsCmd.accesskey  "o"> 
+<!ENTITY copyImageContentsCmd.accesskey  "o">
 <!ENTITY copyVideoURLCmd.label        "Natto Nokkuure Widewoo">
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Natto Nokkuure Ojoo">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Yaltu &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Yaltu"> 
+<!ENTITY quitApplicationCmd.label       "Yaltu">
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 <!ENTITY quitApplicationCmdMac2.label   "Yaltu &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Uddu">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Uddu">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "U">
 
 <!ENTITY toggleMuteCmd.key              "M">

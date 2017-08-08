@@ -47,14 +47,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Jaɓ kukiiji jiggaaɗi:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 <!ENTITY  acceptThirdParty.always.label   "Sahaa kala">
 <!ENTITY  acceptThirdParty.never.label    "Hay sahaa">
 <!ENTITY  acceptThirdParty.visited.label  "Iwɗi e jillaaɗe">
 
-<!ENTITY  keepUntil.label               "Mooftu haa:">
-<!ENTITY  keepUntil.accesskey           "h">
+
 
 <!ENTITY  expire.label                  "ɗi kiiɗta">
 <!ENTITY  close.label                   "Miɗo udda &brandShortName;">

@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Ponte">
 
-<!ENTITY  language.label                          "Ponte:">
-<!ENTITY  language.accesskey                      "P">
 
-<!ENTITY  size.label                              "Ɓetol:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Pottondirɗe:">
-<!ENTITY  proportional.accesskey                  "t">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Saa-serif:">
-<!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhalaa">
 <!ENTITY  font.langGroup.tibetan                  "Tibetaŋkoore">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Ɓetol fontere lesol:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "Ndiga">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Y">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Dokkitannde binndol Loowdi Gaadanteeri">
-<!ENTITY languages.customize.Fallback2.label      "Dokkitannde Binndol Ɓartorde:">
-<!ENTITY languages.customize.Fallback2.accesskey  "Ɓ">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Ndee dokkitannde binndol huutortee ko e loowdi gaadanteeri korotoondi hollitde dokkitannde mum.">
 
 <!ENTITY languages.customize.Fallback.auto        "Goowaaɗo Lokaalde Wonaande">

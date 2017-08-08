@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ngoo hello geese to <span id='phishing_sitename'/> jaŋtaama ko lowre fuuntoore etee daaƴaama tugnaade e cuɓoraaɗe kisal maa.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Lowe puuntooje mbaɗiraa ko tuufaade-ma e waɗde ko ena bonnan-maa, hono aafde topateeri, walla saaktude humpito maa heeriingo, walla finndeeji, tonngooɗe noddirɗe walla karte banke.</p><p>Naatnude humpito waawngo wonde fof ena waawu wuftude e nguyka innde maa walla jaŋfe nannduɗe heen.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
