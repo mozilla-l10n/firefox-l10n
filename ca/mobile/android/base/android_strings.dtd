@@ -846,3 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Navegació privada i protecció contra el seguiment">
 <!ENTITY private_tab_panel_description "El &brandShortName; bloca les parts de les pàgines que podrien fer el seguiment de la vostra navegació.">
+<!ENTITY private_tab_panel_description2 "No es recordarà l\&apos;historial de navegació, però els fitxers que baixeu i les adreces d\&apos;interès noves sí que es desaran en el dispositiu.">
+<!ENTITY private_tab_learn_more "Voleu més informació?">
