@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "गाहायनि वेबसाइटफोरहा अफलाइन बाहायनायनि थाखाय डाटाखौ दोनथुमनो गनायथि दं:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "बोखार...">
 <!ENTITY offlineAppsListRemove.accesskey "R">

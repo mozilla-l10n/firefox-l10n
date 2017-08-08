@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "फन्टफोर">
 
-<!ENTITY  language.label                          "नि थाखाय फन्टफोर: (F)">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "महर:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "रुजुथाय गोनां: (P)">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ:(S)">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "सान्स-सेरिफ: (n)">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "म'न'स्पेस: (M)">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिनहाला">
 <!ENTITY  font.langGroup.tibetan                  "टाइबेटियान">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "इसे बिबांनि फन्टनि महर:(o)">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "मोनसेबो नङा">
 <!-- default font type -->
 

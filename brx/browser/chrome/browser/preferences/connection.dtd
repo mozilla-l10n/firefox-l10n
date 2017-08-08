@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "बे नेटवार्कनि थाखाय प्रक्सि सेटिंखौ गावआरि-संना दिहुन">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "मेनुयेल प्रक्सि बायजो महर: (M)">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "गावनो गाव प्रक्सि बायजो महर URL: (A)">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+
+
+
+
 <!ENTITY  reload.label                  "फिन ल'ड खालाम (e)">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP प्रक्सि: (F)">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP प्रक्सि:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL प्रक्सि: ">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS हस्ट:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOC KS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS &amp; v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "पर्ट:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "..नि थाखाय जेबो प्रक्सि गैया: (N)">
-<!ENTITY  noproxy.accesskey             "N">
+
+
 <!ENTITY  noproxyExplain.label          "बिदिन्थि: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "गासै प्र'ट'कलनि थाखाय बे प्रक्सि सार्भारखौ बाहाय">
 <!ENTITY  shareproxy.accesskey          "s">

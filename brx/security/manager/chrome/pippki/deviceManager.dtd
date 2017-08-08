@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "नोंथाङा दाजाबदेरनो लुबैनाय मडुलनि मोनथिहोनाय हाबहो।">
-<!ENTITY loaddevice.modname                     "मडुलनि मुं:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "गोदान PKCS#11 मडुल">
-<!ENTITY loaddevice.filename                    "मडुल फाइल मुं:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ब्राउज...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

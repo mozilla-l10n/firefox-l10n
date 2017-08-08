@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "रावफोर">
-<!ENTITY languages.customize.description                "वेब बिलाइखौ एखनब्ला एखनब्ला मोनसे निख्रुइ बांसिन रावाव होनाय जायो। पसन्दआव बेफोर वेब बिलाइखौ दिन्थिफुंनायनि थाखाय रावखौ बासिख:">
+
 <!ENTITY languages.customize.moveUp.label               "गोजौआव लां(U)">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "गाहायाव लाबो(D)">

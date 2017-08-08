@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "अथ'रिटि">
 <!ENTITY certmgr.tab.orphan2                  "गुबुनफोर">
 
-<!ENTITY certmgr.mine                         "नोंथांहा नोंथांखौ सिनायथि होनो बेफोर फसंथाननिफ्राय सार्टिफिकेटफोर दङ:">
-<!ENTITY certmgr.others                       "नोंथांहा सुबुंखौ सिनायथि होनो फाइलआव सार्टिफिकेटफोर दङ:">
-<!ENTITY certmgr.websites2                    "नोंथांहा सार्भारखौ सिनायथि होनो फाइलआव सार्टिफिकेटफोर दङ:">
-<!ENTITY certmgr.cas                          "नोंथांहा फाइलआव सार्टिफिकेट दं जाय बेफोर सार्टिफिकेट मोनथायगोहोखौ सिनायथियो:">
-<!ENTITY certmgr.orphans                      "नोंथांहा फाइलआव सार्टिफिकेट दं जाय जायखि जाया गुबुन थाखोफोराव गोरोबा:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "सरासनस्रा(G)">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
