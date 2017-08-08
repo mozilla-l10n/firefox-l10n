@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Tiparoj">
 
-<!ENTITY  language.label                          "Tiparoj por:">
-<!ENTITY  language.accesskey                      "T">
+<!ENTITY  fonts.label                             "Tiparoj por">
+<!ENTITY  fonts.accesskey                         "T">
 
-<!ENTITY  size.label                              "Grando:">
+<!ENTITY  size2.label                             "Grando">
 <!ENTITY  sizeProportional.accesskey              "r">
 <!ENTITY  sizeMonospace.accesskey                 "G">
 
-<!ENTITY  proportional.label                      "Proporcia:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcia">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serifa:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Senserifa:">
-<!ENTITY  sans-serif.accesskey                    "e">
-<!ENTITY  monospace.label                         "Egallarĝa:">
-<!ENTITY  monospace.accesskey                     "E">
+<!ENTITY  serif2.label                            "Serifa">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Senserifa">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Egallarĝa">
+<!ENTITY  monospace2.accesskey                    "E">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibeta">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimuma tipara grandeco:">
-<!ENTITY minSize.accesskey                        "i">
+<!ENTITY minSize2.label                           "Minimuma grando de tiparo">
+<!ENTITY minSize2.accesskey                       "M">
 <!ENTITY minSize.none                             "Neniu">
 
 <!-- default font type -->
@@ -65,8 +65,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teksta enkodigo por kaduka enhavo">
-<!ENTITY languages.customize.Fallback2.label      "Vica teksta enkodigo:">
-<!ENTITY languages.customize.Fallback2.accesskey  "V">
 <!ENTITY languages.customize.Fallback2.desc       "Tiu ĉi teksta enkodigo estas uzita por kaduka enhavo kiu ne deklaris sian enkodigon.">
 
 <!ENTITY languages.customize.Fallback.auto        "Normo por la nuna lokaĵaro">

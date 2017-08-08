@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Aŭtomate eltrovi la agordojn de retperantoj por tiu ĉi reto">
 <!ENTITY  WPADTypeRadio.accesskey       "e">
-<!ENTITY  manualTypeRadio.label         "Neaŭtomata agordo de retperantoj:">
-<!ENTITY  manualTypeRadio.accesskey     "N">
-<!ENTITY  autoTypeRadio.label           "Adreso de aŭtomata retperanta agordo:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "Neaŭtomata agordo de retperanto">
+<!ENTITY  manualTypeRadio2.accesskey    "n">
+<!ENTITY  autoTypeRadio2.label          "Adreso de aŭtomata agordo de retperanto">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Reŝargi">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP peranto:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP peranto:">
-<!ENTITY  http.accesskey                "n">
-<!ENTITY  ssl.label                     "SSL peranto:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS servilo:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Peranto por FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Peranto por HTTP">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "Peranto por SSL">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "Servilo SOCKS">
+<!ENTITY  socks2.accesskey              "S">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Peranta DNS dum uzo de SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Pordo:">
+<!ENTITY  port2.label                   "Pordo">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "d">
-<!ENTITY  noproxy.label                 "Ne uzi retperanton por:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy2.label                "Sen retperanto por">
+<!ENTITY  noproxy2.accesskey            "s">
 <!ENTITY  noproxyExplain.label          "Ekzemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Uzi tiun ĉi peranton por ĉiuj protokoloj">
 <!ENTITY  shareproxy.accesskey          "p">

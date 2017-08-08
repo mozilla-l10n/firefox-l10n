@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Aldoni novan ingon">
 <!ENTITY window.width         "36em">
 
-<!ENTITY name.label           "Nomo:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nomo">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Tajpu nomon de ingo">
-<!ENTITY icon.label           "Emblemo:">
-<!ENTITY icon.accesskey       "E">
-<!ENTITY color.label          "Koloro:">
-<!ENTITY color.accesskey      "K">
+<!ENTITY icon2.label          "Emblemo">
+<!ENTITY icon2.accesskey      "E">
+<!ENTITY color2.label         "Koloro">
+<!ENTITY color2.accesskey     "K">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Farita">
 <!ENTITY button.ok.accesskey  "F">
-
