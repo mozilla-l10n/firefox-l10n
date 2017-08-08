@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "നിങ്ങള്‍ക്ക് ചേറ്‍ക്കേണ്ട ഘടകത്തിനുള്ള വിവരങ്ങള്‍ നല്‍കുക.">
-<!ENTITY loaddevice.modname                     "ഘടകത്തിന്റെ പേര്‌">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "പുതിയ PKCS#11 ഘടകം">
-<!ENTITY loaddevice.filename                    "മോഡ്യൂള്‍ ഫയല്‍ന്റെ പേര്‌">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "തിരയുക ">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

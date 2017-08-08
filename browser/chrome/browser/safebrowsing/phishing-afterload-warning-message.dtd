@@ -29,3 +29,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> എന്ന സൈറ്റില്‍ തട്ടിപ്പുള്ളതായി രേഖപ്പെടുത്തിയിരിക്കുന്നു. നിങ്ങളുടെ സുരക്ഷ കണക്കിലെടുത്തു് ഇതു് ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു.">
 
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ഒഴിവാക്കേണ്ടവ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "ഓഫ്ലൈന്‍ ഉപയോഗത്തിനു് ഡേറ്റാ സൂക്ഷിയ്ക്കുവാന്‍ ഈ വെബ്സൈറ്റുകളെ അനുവദിയ്ക്കുന്നു:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "നീക്കം ചെയ്യുക…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
