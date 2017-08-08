@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "أُبلِغ عن أن الموقع <span id='phishing_sitename'/> موقع مخادع و حُجِبَ بناء على تفضيلات الأمن.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>تصمم المواقع المخادعة لتضليلك حتى تفعل شيئًا خطيرًا، مثل تنصيب برمجيات، أو الإفصاح عن معلوماتك الشخصية مثل كلمة السر أو رقم الهاتف أو بطاقات الائتمان.</p><p>إدخال أي معلومات في هذه الصفحة قد يكون سببًا في سرقة هويتك أو أي صورة أخرى من صور الاحتيال.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
