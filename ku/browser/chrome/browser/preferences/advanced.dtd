@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Rewşên Taybet...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList2.label          "Destûra malperên li jêrê heye ku daneyên negirêdayî tomar bikin:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Rake…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

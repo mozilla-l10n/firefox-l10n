@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Amûr">
-<!ENTITY toolsMenu.accesskey          "A"> 
+<!ENTITY toolsMenu.accesskey          "A">
 
 <!ENTITY keywordfield.label           "Ji bo lêgerînê peyveke kilît lê zêde bike...">
 <!ENTITY keywordfield.accesskey       "k">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Hêmanê vekole">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Pel"> 
+<!ENTITY fileMenu.label         "Pel">
 <!ENTITY fileMenu.accesskey       "P">
 
 
@@ -277,45 +277,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "P">
 
 
-<!ENTITY editMenu.label         "Serastkirin"> 
-<!ENTITY editMenu.accesskey       "S"> 
-<!ENTITY undoCmd.label            "Şûnde Bîne">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "n"> 
-<!ENTITY redoCmd.label            "Nû bike">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "N"> 
-<!ENTITY cutCmd.label           "Jê bike">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "J"> 
+<!ENTITY editMenu.label         "Serastkirin">
+<!ENTITY editMenu.accesskey       "S">
+<!ENTITY undoCmd.label            "Şûnde Bîne">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "n">
+<!ENTITY redoCmd.label            "Nû bike">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "N">
+<!ENTITY cutCmd.label           "Jê bike">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "J">
 
 
 
-<!ENTITY pasteCmd.label           "Pêve bike">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Jêbirin">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "b"> 
-<!ENTITY selectAllCmd.label         "Gişî hilbijêre">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "h"> 
+<!ENTITY pasteCmd.label           "Pêve bike">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Jêbirin">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "b">
+<!ENTITY selectAllCmd.label         "Gişî hilbijêre">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "h">
 <!ENTITY preferencesCmd2.label       "Vebijêrk">
 <!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Vebijêrk">
-<!ENTITY preferencesCmdUnix.accesskey     "V"> 
+<!ENTITY preferencesCmdUnix.accesskey     "V">
 
 <!ENTITY clearRecentHistory.label               "Raboriya nêzîk paqij bike…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "H">
 
-<!ENTITY viewMenu.label         "Nîşan bide"> 
-<!ENTITY viewMenu.accesskey       "b"> 
-<!ENTITY viewToolbarsMenu.label       "Darikê Amûran"> 
-<!ENTITY viewToolbarsMenu.accesskey     "A"> 
+<!ENTITY viewMenu.label         "Nîşan bide">
+<!ENTITY viewMenu.accesskey       "b">
+<!ENTITY viewToolbarsMenu.label       "Darikê Amûran">
+<!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Darikê Quncikê">
 <!ENTITY viewSidebarMenu.accesskey "Q">
-<!ENTITY viewCustomizeToolbar.label       "Taybet Bike"> 
+<!ENTITY viewCustomizeToolbar.label       "Taybet Bike">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
 
 
@@ -491,7 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "a">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Çavkaniya Hilbijartinê Nîşan Bide">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Çavkaniya MathMLê Nîşan Bide">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "a">
 <!ENTITY viewPageSourceCmd.label      "Çavkaniya Rûpelê Nîşan Bide">
@@ -558,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Ciyê Wêneyê Ji Ber Bigire">
 <!ENTITY copyImageCmd.accesskey       "C">
 <!ENTITY copyImageContentsCmd.label   "Wêneyê Ji Ber Bigire">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Navnîşana Vîdeoyê Ji Ber Bigire">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Navnîşana Audîoyê Ji Ber Bigire">
@@ -654,13 +654,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ji &brandShorterName;ê derkeve">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Derkeve"> 
+<!ENTITY quitApplicationCmd.label       "Derkeve">
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ji &brandShorterName;ê derkeve">
 
 
-<!ENTITY closeCmd.label                 "Bigire">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Bigire">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "B">
 
 
