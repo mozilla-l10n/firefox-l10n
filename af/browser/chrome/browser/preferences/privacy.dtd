@@ -45,14 +45,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Aanvaar derdeparty-koekies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
 <!ENTITY  acceptThirdParty.never.label    "Nooit">
 <!ENTITY  acceptThirdParty.visited.label  "Sedert besoek">
 
-<!ENTITY  keepUntil.label               "Hou tot:">
-<!ENTITY  keepUntil.accesskey           "H">
+
 
 <!ENTITY  expire.label                  "hulle verval">
 <!ENTITY  close.label                   "ek &brandShortName; afsluit">

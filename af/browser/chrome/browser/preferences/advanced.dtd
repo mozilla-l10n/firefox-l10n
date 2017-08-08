@@ -106,7 +106,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Uitsonderings…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "t">
 
-<!ENTITY offlineAppsList2.label          "Die volgende webwerwe het toestemming om data vir vanlyn gebruik te stoor:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Verwyder…">
 <!ENTITY offlineAppsListRemove.accesskey "V">
