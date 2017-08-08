@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "ପ୍ରାଧିକାରୀଗଣ">
 <!ENTITY certmgr.tab.orphan2                  "ଅନ୍ୟମାନେ">
 
-<!ENTITY certmgr.mine                         "ଆପଣ ଏହି ସଂସ୍ଥାମାନଙ୍କ ପାଖରୁ ପ୍ରମାଣପତ୍ର ପ୍ରାପ୍ତ ଯାହାକି ଆପଣଙ୍କୁ ଚିହ୍ନାଇଥାଏ:">
-<!ENTITY certmgr.others                       "ଏହି ବ୍ୟକ୍ତିମାନଙ୍କୁ ଚିହ୍ନାଇବା ପାଇଁ ଆପଣଙ୍କ ଫାଇଲରେ ପ୍ରମାଣପତ୍ର ଅଛି:">
-<!ENTITY certmgr.websites2                    "ଏହି ସର୍ଭରଗୁଡ଼ିକୁ ଚିହ୍ନାଇବା ପାଇଁ ଆପଣଙ୍କ ଫାଇଲରେ ପ୍ରମାଣପତ୍ର ଅଛି:">
-<!ENTITY certmgr.cas                          "ଏହି ପ୍ରମାଣପତ୍ର ପ୍ରାଧିକାରୀମାନଙ୍କୁ ଚିହ୍ନାଇବା ପାଇଁ ଆପଣଙ୍କ ଫାଇଲରେ ପ୍ରମାଣପତ୍ର ଅଛି:">
-<!ENTITY certmgr.orphans                      "ଆପଣଙ୍କ ଫାଇଲରେ ପ୍ରମାଣପତ୍ର ଅଛି ଯାହାକି ଅନ୍ୟ କୌଣସି ବିଭାଗରେ ମେଳ ଖାଏନାହିଁ:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "ସାଧାରଣ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

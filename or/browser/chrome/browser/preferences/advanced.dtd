@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ବ୍ୟତିକ୍ରମ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "ନିମ୍ନଲିଖିତ ୱେବ ସାଇଟଗୁଡ଼ିକ ଅଫ ଲାଇନ ବ୍ୟବହାର ପାଇଁ ତଥ୍ୟ ସଞ୍ଚୟ କରିବାକୁ ଅନୁମତି ପ୍ରାପ୍ତ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "କାଢ଼ନ୍ତୁ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

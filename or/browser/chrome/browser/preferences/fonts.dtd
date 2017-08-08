@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "ଅକ୍ଷରରୂପଗୁଡ଼ିକ">
 
-<!ENTITY  language.label                          "ପାଇଁ ଅକ୍ଷରରୂପ:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "ଆକାର:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "ଆନୁପାତିକ:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "ସେରିଫ:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "ସାନସ-ସେରିଫ:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "ମୋନୋସ୍ପେସ:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "ସିଙ୍ଘଳ">
 <!ENTITY  font.langGroup.tibetan                  "ତିବେତାନ">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ସର୍ବନିମ୍ନ ଅକ୍ଷରରୂପ ଆକାର:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "କିଛିନୁହଁ">
 <!-- default font type -->
 
