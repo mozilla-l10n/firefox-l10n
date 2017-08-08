@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Izinhlobo zemibhalo">
 
-<!ENTITY  language.label                          "Izinhlobo zemibhalo zalokhu:">
-<!ENTITY  language.accesskey                      "I">
 
-<!ENTITY  size.label                              "Usayizi:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Okuvumelanayo:">
-<!ENTITY  proportional.accesskey                  "O">
 
-<!ENTITY  serif.label                             "I-Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "I-Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "I-Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "isi-Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "isi-Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Usayizi wokugcina omncane wombhalo:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "Akukho">
 <!-- default font type -->
 

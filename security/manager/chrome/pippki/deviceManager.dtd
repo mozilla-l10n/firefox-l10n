@@ -23,11 +23,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Faka ukwaziswa kweMojuli ofuna ukuyenezela.">
-<!ENTITY loaddevice.modname                     "Igama LeMojuli:">
-<!ENTITY loaddevice.modname.accesskey           "Q">
+
+
 <!ENTITY loaddevice.modname.default             "Imojuli Entsha i-PKCS#11">
-<!ENTITY loaddevice.filename                    "Igama lefayela leMojuli:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Bheka…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -242,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Amathuluzi">
-<!ENTITY toolsMenu.accesskey          "A"> 
+<!ENTITY toolsMenu.accesskey          "A">
 
 <!ENTITY keywordfield.label           "Nezela igama elingukhiye kulolu sesho…">
 <!ENTITY keywordfield.accesskey       "m">
@@ -261,7 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ngamela i-elementi">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Ifayela"> 
+<!ENTITY fileMenu.label         "Ifayela">
 <!ENTITY fileMenu.accesskey       "I">
 
 
@@ -272,44 +272,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "w">
 
 
-<!ENTITY editMenu.label         "Hlela"> 
-<!ENTITY editMenu.accesskey       "H"> 
-<!ENTITY undoCmd.label            "Susa okwenzile">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "S"> 
-<!ENTITY redoCmd.label            "Buyisela okususile">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "B"> 
-<!ENTITY cutCmd.label           "Sika">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "k"> 
+<!ENTITY editMenu.label         "Hlela">
+<!ENTITY editMenu.accesskey       "H">
+<!ENTITY undoCmd.label            "Susa okwenzile">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "S">
+<!ENTITY redoCmd.label            "Buyisela okususile">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "B">
+<!ENTITY cutCmd.label           "Sika">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "k">
 
 
 
-<!ENTITY pasteCmd.label           "Namathisela">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "N"> 
-<!ENTITY deleteCmd.label          "Cisha">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "C"> 
-<!ENTITY selectAllCmd.label         "Khetha konke">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "k"> 
+<!ENTITY pasteCmd.label           "Namathisela">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "N">
+<!ENTITY deleteCmd.label          "Cisha">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "C">
+<!ENTITY selectAllCmd.label         "Khetha konke">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "k">
 <!ENTITY preferencesCmd2.label       "Izinketho">
 <!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Okuthandwayo">
-<!ENTITY preferencesCmdUnix.accesskey     "w"> 
+<!ENTITY preferencesCmdUnix.accesskey     "w">
 
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Bheka"> 
-<!ENTITY viewMenu.accesskey       "B"> 
-<!ENTITY viewToolbarsMenu.label       "Amabha wamathuluzi"> 
-<!ENTITY viewToolbarsMenu.accesskey     "A"> 
+<!ENTITY viewMenu.label         "Bheka">
+<!ENTITY viewMenu.accesskey       "B">
+<!ENTITY viewToolbarsMenu.label       "Amabha wamathuluzi">
+<!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Ibha esohlangothini">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Yenza ngokwezifiso…"> 
+<!ENTITY viewCustomizeToolbar.label       "Yenza ngokwezifiso…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
 
@@ -481,7 +481,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "P">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bheka umthombo wokukhetha">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Bheka umthombo we-MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Bheka umthombo wekhasi">
@@ -548,7 +548,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopisha indawo yesithombe">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopisha isithombe">
-<!ENTITY copyImageContentsCmd.accesskey  "i"> 
+<!ENTITY copyImageContentsCmd.accesskey  "i">
 <!ENTITY copyVideoURLCmd.label        "Kopisha indawo yevidiyo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopisha indawo yomsindo">
@@ -644,13 +644,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Yeka"> 
+<!ENTITY quitApplicationCmd.label       "Yeka">
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 
 
 
-<!ENTITY closeCmd.label                 "Vala">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Vala">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "V">
 
 

@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Okukhishiwe…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList2.label          "Lawa mawebhusayithi elandelayo avumelekile ukulondoloza idatha yokusetshenziswa okungaxhunyiwe:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Susa…">
 <!ENTITY offlineAppsListRemove.accesskey "S">
