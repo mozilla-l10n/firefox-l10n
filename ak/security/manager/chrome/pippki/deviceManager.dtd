@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Kyerɛw infɔmehyɛn a ɛfa mɔdul a wopɛ sɛ wode bata ho.">
-<!ENTITY loaddevice.modname                     "Mɔdul Din:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "PKCS#11 Mɔdul Foforo">
-<!ENTITY loaddevice.filename                    "Mɔdul fael din:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Brawse…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

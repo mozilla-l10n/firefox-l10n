@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Aban">
 <!ENTITY certmgr.tab.orphan2                  "Afoforonom">
 
-<!ENTITY certmgr.mine                         "Wowɔ abodin nkrata efi adwumakuw yi nom hɔ a wɔhyɛ wo nso:">
-<!ENTITY certmgr.others                       "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ nnipa yi nom nso:">
-<!ENTITY certmgr.websites2                    "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ somfo fidie yi nom nso:">
-<!ENTITY certmgr.cas                          "Wowɔ abodin nkrataa wɔ fael so a wɔhyɛ saa abodin nkrataa nkuw yi nom nso:">
-<!ENTITY certmgr.orphans                      "Wowɔ abodin nkrataa wɔ fael so a wɔn ne nkyekyɛmu no mu biara nsi so:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Gyɛnɛral">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Daabi da">
 
 <!ENTITY  color                           "Nkyerɛwee ne ndaekyiri">
-<!ENTITY  textColor.label                 "Nkyerɛwee:">
-<!ENTITY  textColor.accesskey             "N">
-<!ENTITY  backgroundColor.label           "Ndaekyiri:">
-<!ENTITY  backgroundColor.accesskey       "d">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Fa systɛm ahosu yɛ adwuma">
 <!ENTITY  useSystemColors.accesskey       "h">
 
 <!ENTITY  underlineLinks.label            "San alinke ase">
 <!ENTITY  underlineLinks.accesskey        "l">
 <!ENTITY  links                           "Alinke ahosu">
-<!ENTITY  linkColor.label                 "Alinke a wɔnsrae:">
-<!ENTITY  linkColor.accesskey             "k">
-<!ENTITY  visitedLinkColor.label          "Alinke a wɔasra:">
-<!ENTITY  visitedLinkColor.accesskey      "i">
+
+
+
+

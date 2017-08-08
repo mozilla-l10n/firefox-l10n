@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Nea ɛnnka ho…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "o">
 
-<!ENTITY offlineAppsList2.label          "Wɛbsaet ndidiso yi wɔ deta a wɔde asie sɛ wɔnnyɛ wɔ ho edwuma ɔflaen:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Yi…">
 <!ENTITY offlineAppsListRemove.accesskey "i">
