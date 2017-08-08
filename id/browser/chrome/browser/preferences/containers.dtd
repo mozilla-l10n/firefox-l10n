@@ -12,15 +12,9 @@
 <!ENTITY window.title         "Tambahkan Kontainer Baru">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nama:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nama">
 <!ENTITY name.placeholder     "Masukan nama kontainer">
-<!ENTITY icon.label           "Ikon:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Warna:">
-<!ENTITY color.accesskey      "W">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Selesai">
 <!ENTITY button.ok.accesskey  "S">
-
