@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Ajouter un nouveau contexte">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nom :">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nom">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Saisir un nom de contexte">
-<!ENTITY icon.label           "Icône :">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Couleur :">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "Icône">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Couleur">
+<!ENTITY color2.accesskey     "C">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Terminer">
 <!ENTITY button.ok.accesskey  "T">
-
