@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Саймандар">
-<!ENTITY toolsMenu.accesskey          "С"> 
+<!ENTITY toolsMenu.accesskey          "С">
 
 <!ENTITY keywordfield.label           "Осы ізденісті белгілейтін кілт сөзін енгізу…">
 <!ENTITY keywordfield.accesskey       "к">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Элементті бақылау">
 <!ENTITY inspectContextMenu.accesskey "Э">
 
-<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Жаңа контейнерлік бет">
 <!ENTITY newUserContext.accesskey         "к">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "к">
 <!ENTITY newNonRemoteWindow.label   "Жаңа e10s-емес терезесі">
 
-<!ENTITY editMenu.label         "Түзету"> 
-<!ENTITY editMenu.accesskey       "Т"> 
-<!ENTITY undoCmd.label            "Болдырмау">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Б"> 
-<!ENTITY redoCmd.label            "Қайталау">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "й"> 
-<!ENTITY cutCmd.label           "Қиып алу">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ы"> 
-<!ENTITY copyCmd.label            "Көшіріп алу">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "К"> 
-<!ENTITY pasteCmd.label           "Кірістіру">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "р"> 
-<!ENTITY deleteCmd.label          "Өшіру">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ш"> 
-<!ENTITY selectAllCmd.label         "Барлығын ерекшелеу">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "е"> 
+<!ENTITY editMenu.label         "Түзету">
+<!ENTITY editMenu.accesskey       "Т">
+<!ENTITY undoCmd.label            "Болдырмау">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Б">
+<!ENTITY redoCmd.label            "Қайталау">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "й">
+<!ENTITY cutCmd.label           "Қиып алу">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "ы">
+<!ENTITY copyCmd.label            "Көшіріп алу">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label           "Кірістіру">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "р">
+<!ENTITY deleteCmd.label          "Өшіру">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "ш">
+<!ENTITY selectAllCmd.label         "Барлығын ерекшелеу">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "е">
 <!ENTITY preferencesCmd2.label       "Опциялар">
 <!ENTITY preferencesCmd2.accesskey     "ц">
 <!ENTITY preferencesCmdUnix.label       "Параметрлер">
-<!ENTITY preferencesCmdUnix.accesskey     "м"> 
+<!ENTITY preferencesCmdUnix.accesskey     "м">
 
 <!ENTITY clearRecentHistory.label               "Жуырдағы тарихты өшіру…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Түрі"> 
-<!ENTITY viewMenu.accesskey       "р"> 
-<!ENTITY viewToolbarsMenu.label       "Саймандар панелдері"> 
-<!ENTITY viewToolbarsMenu.accesskey     "С"> 
+<!ENTITY viewMenu.label         "Түрі">
+<!ENTITY viewMenu.accesskey       "р">
+<!ENTITY viewToolbarsMenu.label       "Саймандар панелдері">
+<!ENTITY viewToolbarsMenu.accesskey     "С">
 <!ENTITY viewSidebarMenu.label "Бүйір панелі">
 <!ENTITY viewSidebarMenu.accesskey "Б">
-<!ENTITY viewCustomizeToolbar.label       "Баптау…"> 
+<!ENTITY viewCustomizeToolbar.label       "Баптау…">
 <!ENTITY viewCustomizeToolbar.accesskey     "а">
 <!ENTITY overflowCustomizeToolbar.label       "Саймандар панелін баптау…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "б">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ж">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ерекшеленгеннің бастапқы коды">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML бастапқы коды">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ы">
 <!ENTITY viewPageSourceCmd.label      "Парақтың бастапқы кодын қарау">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Суреттің сілтемесін көшіру">
 <!ENTITY copyImageCmd.accesskey       "С">
 <!ENTITY copyImageContentsCmd.label   "Суретті көшіру">
-<!ENTITY copyImageContentsCmd.accesskey  "р"> 
+<!ENTITY copyImageContentsCmd.accesskey  "р">
 <!ENTITY copyVideoURLCmd.label        "Видеоның сілтемесін көшіру">
 <!ENTITY copyVideoURLCmd.accesskey    "В">
 <!ENTITY copyAudioURLCmd.label        "Аудионың сілтемесін көшіру">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; жұмысын аяқтау">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Шығу"> 
+<!ENTITY quitApplicationCmd.label       "Шығу">
 <!ENTITY quitApplicationCmd.accesskey   "Ш">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; жұмысын аяқтау">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Жабу">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Жабу">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Ж">
 
 <!ENTITY toggleMuteCmd.key              "а">

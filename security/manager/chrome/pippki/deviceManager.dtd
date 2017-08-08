@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Модуль туралы қосқыңыз келетін ақпаратты енгізіңіз.">
-<!ENTITY loaddevice.modname                     "Модуль аты:">
-<!ENTITY loaddevice.modname.accesskey           "ь">
+
+
 <!ENTITY loaddevice.modname.default             "Жаңа PKCS#11 модулі">
-<!ENTITY loaddevice.filename                    "Модуль файлының аты:">
-<!ENTITY loaddevice.filename.accesskey          "ф">
+
+
 <!ENTITY loaddevice.browse                      "Қарап шығу…">
 <!ENTITY loaddevice.browse.accesskey            "ш">
 
