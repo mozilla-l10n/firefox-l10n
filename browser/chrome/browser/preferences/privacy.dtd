@@ -22,6 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY trackingProtectionPBM6.accesskey     "G">
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi al">
+<!ENTITY changeBlockList2.label               "Engelleme listesini değiştir…">
+<!ENTITY changeBlockList2.accesskey           "E">
 
 <!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
 <!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
