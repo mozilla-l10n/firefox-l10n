@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Onartu webguneetako cookieak">
 <!ENTITY  acceptCookies2.accesskey      "O">
 
-<!ENTITY  acceptThirdParty.pre.label      "Onartu hirugarrenen cookieak:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "n">
+
 <!ENTITY  acceptThirdParty.always.label   "Beti">
 <!ENTITY  acceptThirdParty.never.label    "Inoiz ez">
 <!ENTITY  acceptThirdParty.visited.label  "Bisitatutako guneetatik">
 
-<!ENTITY  keepUntil.label               "Mantentze-epea:">
-<!ENTITY  keepUntil.accesskey           "M">
+
 
 <!ENTITY  expire.label                  "iraungi arte">
 <!ENTITY  close.label                   "&brandShortName; itxi arte">
