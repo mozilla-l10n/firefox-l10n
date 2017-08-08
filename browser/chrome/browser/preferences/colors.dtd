@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Neniam">
 
 <!ENTITY  color                           "Teksto kaj fono">
-<!ENTITY  textColor.label                 "Teksto:">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Fono:">
-<!ENTITY  backgroundColor.accesskey       "f">
+<!ENTITY  textColor2.label                "Teksto">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fono">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Uzi la kolorojn de la sistemo">
 <!ENTITY  useSystemColors.accesskey       "z">
 
 <!ENTITY  underlineLinks.label            "Substreki ligojn">
 <!ENTITY  underlineLinks.accesskey        "s">
 <!ENTITY  links                           "Ligaj koloroj">
-<!ENTITY  linkColor.label                 "Nevizititaj ligoj:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Vizititaj ligoj:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  linkColor2.label                "Nevizititaj ligiloj">
+<!ENTITY  linkColor2.accesskey            "N">
+<!ENTITY  visitedLinkColor2.label         "Vizititaj ligiloj">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
