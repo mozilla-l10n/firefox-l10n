@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Tsenya tshedimošo ya motšule wo o nyakago go o lokela.">
-<!ENTITY loaddevice.modname                     "Leina la Motšule:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "Motšule o Mofsa wa PKCS#11">
-<!ENTITY loaddevice.filename                    "Leina la faele ya Motšule:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Fetleka…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

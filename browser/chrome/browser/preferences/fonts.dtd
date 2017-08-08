@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Difonte">
 
-<!ENTITY  language.label                          "Difonte tša:">
-<!ENTITY  language.accesskey                      "D">
 
-<!ENTITY  size.label                              "Bogolo:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Dikamagano:">
-<!ENTITY  proportional.accesskey                  "D">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Sekgobatee:">
-<!ENTITY  monospace.accesskey                     "S">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Se-sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Se-Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Bogolo bja fonte bjo bonyenyane:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "Ga go selo">
 <!-- default font type -->
 

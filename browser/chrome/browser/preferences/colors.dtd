@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Le gatee">
 
 <!ENTITY  color                           "Sengwalwa le bokamorago">
-<!ENTITY  textColor.label                 "Sengwalwa:">
-<!ENTITY  textColor.accesskey             "S">
-<!ENTITY  backgroundColor.label           "Bokamorago:">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Diriša mebala ya tshepedišo">
 <!ENTITY  useSystemColors.accesskey       "r">
 
 <!ENTITY  underlineLinks.label            "Thalela dilomaganyo">
 <!ENTITY  underlineLinks.accesskey        "T">
 <!ENTITY  links                           "Mebala ya dilomaganyo">
-<!ENTITY  linkColor.label                 "Dilomaganyo tšeo di sa etelwago:">
-<!ENTITY  linkColor.accesskey             "D">
-<!ENTITY  visitedLinkColor.label          "Dilomaganyo tšeo di etetšwego:">
-<!ENTITY  visitedLinkColor.accesskey      "e">
+
+
+
+
