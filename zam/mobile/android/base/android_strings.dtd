@@ -296,10 +296,6 @@
 <!ENTITY custom_tabs_hint_url_copy "URL gók chópa">
 
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "A rich visual history feed and a reimagined home page make it easier than ever to find exactly what you\u0027re looking for in &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Tob ko nagax tie men">
 <!ENTITY tracking_protection_prompt_text "Gash kuey sá na línt lú sgab pá dúl.">
@@ -844,3 +840,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bésta died lú lent xní">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\u0027ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
+
+
+
+
