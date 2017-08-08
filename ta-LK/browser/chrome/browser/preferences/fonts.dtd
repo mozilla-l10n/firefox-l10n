@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "எழுத்துருக்கள்">
 
-<!ENTITY  language.label                          "எழுத்துருக்கள்:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "அளவு:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "விகிதம்:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "ஷெரிஃப்:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "ஸான்ஸ்-ஷெரிஃப்:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "ஓரிடைவெளி">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -51,8 +47,7 @@
 <!ENTITY  font.langGroup.sinhala                  "சிங்களம்">
 <!ENTITY  font.langGroup.tibetan                  "திபேத்தியன்">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "குறைந்தபட்ச எழுத்துருவின் அளவு:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "ஒன்றுமில்லை">
 <!-- default font type -->
 
