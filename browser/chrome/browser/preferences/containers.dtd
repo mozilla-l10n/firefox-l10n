@@ -11,15 +11,13 @@
 <!ENTITY window.title         "नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "नाम:">
-<!ENTITY name.accesskey       "N">
 
-<!ENTITY icon.label           "प्रतिमाः">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "रङ्ग:">
-<!ENTITY color.accesskey      "o">
+
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "सम्पन्न भयो">
 <!ENTITY button.ok.accesskey  "D">
-

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -261,7 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "उपकरणहरू">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "यस खोज‌का लागि एउटा खोजशब्द थप्नुहोस्…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "इन्सपेक्ट इलेमेन्ट">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "फाइल"> 
+<!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "नयाँ कन्टेनर ट्याब">
 <!ENTITY newUserContext.accesskey         "b">
@@ -291,45 +291,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नयाँ Non-e10s सञ्झ्याल">
 
-<!ENTITY editMenu.label         "सम्पादन गर्नुहोस्"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "पूर्वस्थिति">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "रिडु गर्नुहोस्">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "काट्नुहोस्">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "प्रतिलिपि गर्नुहोस्">  
+<!ENTITY editMenu.label         "सम्पादन गर्नुहोस्">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "पूर्वस्थिति">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "रिडु गर्नुहोस्">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "काट्नुहोस्">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "प्रतिलिपि गर्नुहोस्">
 
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "टाँस्नुहोस्">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "मेट्नुहोस्">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "सबै चयन गर्नुहोस्">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "टाँस्नुहोस्">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "मेट्नुहोस्">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "सबै चयन गर्नुहोस्">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "विकल्पहरू">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "प्राथमिकताहरू…">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "हालको इतिहास हटाउनुहोस्…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "दृश्य"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "टुलबारहरू"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "दृश्य">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "टुलबारहरू">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "साइडबार">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "अनुकुलित बनाउनुहोस्..."> 
+<!ENTITY viewCustomizeToolbar.label       "अनुकुलित बनाउनुहोस्...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 
@@ -522,7 +522,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "छनोट श्रोत हेर्नुहोस्">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML श्रोत हेर्नुहोस्">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "पृष्ठ श्रोत हेर्नुहोस्">
@@ -589,7 +589,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "तस्बिरको स्थान प्रतिलिपि गर्नुहोस्">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "त्सविर नकल गर्नुहोस्">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "भिडियो स्थान प्रतिलिपि गर्नुनुहोस्">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ध्वनि स्थान प्रतिलिपि गर्नुनुहोस्">
@@ -686,13 +686,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; बन्द गर">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "अन्त्य गर्नुहोस्"> 
+<!ENTITY quitApplicationCmd.label       "अन्त्य गर्नुहोस्">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; बन्द गर्नुहोस्">
 
 
-<!ENTITY closeCmd.label                 "बन्द गर्नुहोस्">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "बन्द गर्नुहोस्">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">

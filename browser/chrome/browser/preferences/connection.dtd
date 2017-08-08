@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "यो नेटवर्क को लागि प्रोक्सी व्यवस्था आफै पत्ता लगाउनु ">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "मानवचालित प्रोक्सि कन्फिग्रेसन:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "स्वचालित प्रोक्सी कन्फिगरेसन युआरएल:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+
+
+
+
 <!ENTITY  reload.label                  "फेरी पेजको सामग्री भर्नुहोस ">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP प्रोक्सी:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP प्रोक्सी:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL प्रोक्सी:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS होस्ट:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 प्रयोग गर्दा DNS प्रोक्सी गर्नुहोस्">
 <!ENTITY  socksRemoteDNS.accesskey      "द ">
-<!ENTITY  port.label                    "पोर्ट:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "...का लागि कुनै प्रोक्सि छैन">
-<!ENTITY  noproxy.accesskey             "N">
+
+
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, १९२.१६८.१.०/२४">
 <!ENTITY  shareproxy.label              "सबै प्रोक्सी सर्वर प्रोटोकलको लागि यो प्रयोग गर्नुहोस् ">
 <!ENTITY  shareproxy.accesskey          "s">

@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "तपाईँले थप्न चाहनुभएको मोड्युलका लागि जानकारी प्रविष्ट गर्नुहोस्।">
-<!ENTITY loaddevice.modname                     "मोड्युल नाम:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "नयाँ PKCS#11 मोड्युल">
-<!ENTITY loaddevice.filename                    "मोड्युल फाइलनाम:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ब्राउज गर्नुहोस्…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

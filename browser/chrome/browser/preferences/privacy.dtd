@@ -42,14 +42,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
 <!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
 
-<!ENTITY  keepUntil.label               "यसबेलासम्म राख्नु:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "तिनीहरूको समय अवधि सकियो">
 <!ENTITY  close.label                   "मैले &brandShortName; बन्द गर्छु">
