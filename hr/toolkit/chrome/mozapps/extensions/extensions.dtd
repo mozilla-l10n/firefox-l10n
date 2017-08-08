@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Alati za sve dodatke">
 
-
+<!ENTITY getThemes.description                "Želite li možda prilagoditi preglednik?">
+<!ENTITY getThemes.learnMore                  "Možete izabrati između tisuća tema.">
 
 <!ENTITY cmd.back.tooltip                     "Povratak na prethodnu stranicu">
 <!ENTITY cmd.forward.tooltip                  "Odlazak na iduću stranicu">

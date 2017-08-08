@@ -30,8 +30,9 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
 
+<!ENTITY captivePortal.longDesc2 "<p>Morate se prijaviti na ovu mreži želite li koristiti internet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Otvaranje stranice prijave na mrežu">
 
 <!ENTITY malformedURI.title "Neispravna adresa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Adrese web stranica se obično pišu u formatu poput <strong>http://www.example.com/</strong></li> <li>Provjerite da upisujete kose crte prema naprijed (tj. <strong>/</strong>).</li> </ul>">
@@ -105,6 +106,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se nije uspio povezati na <span id='wrongSystemTime_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme i datum su na vašem računalu postavljeni na <span id='wrongSystemTime_systemDate'/>, a trebalo bi biti <span id='wrongSystemTime_actualDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
 
 
 <!ENTITY certerror.pagetitle1  "Nesigurna veza">
