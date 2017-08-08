@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoridades">
 <!ENTITY certmgr.tab.orphan2                  "Outros">
 
-<!ENTITY certmgr.mine                         "Você possui certificados destas empresas que o identificam:">
-<!ENTITY certmgr.others                       "Você possui certificados arquivados que identificam estas pessoas:">
-<!ENTITY certmgr.websites2                    "Você possui certificados arquivados que identificam estes servidores:">
-<!ENTITY certmgr.cas                          "Você possui certificados arquivados que identificam estas autoridades certificadoras:">
-<!ENTITY certmgr.orphans                      "Você possui certificados arquivados que não se enquadram nas demais categorias:">
+<!ENTITY certmgr.mine2                        "Você tem certificados dessa organização que identificam você">
+<!ENTITY certmgr.others2                      "Você possui certificados arquivados que identificam estas pessoas">
+<!ENTITY certmgr.websites3                    "Você possui certificados arquivados que identificam estes servidores">
+<!ENTITY certmgr.cas2                         "Você possui certificados arquivados que identificam estas autoridades certificadoras">
+<!ENTITY certmgr.orphans2                     "Você possui certificados arquivados que não se enquadram nas demais categorias">
 
 <!ENTITY certmgr.detail.general_tab.title     "Geral">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

@@ -65,6 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
+<!ENTITY languages.customize.Fallback3.label      "Codificação de texto alternativa">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é usada para conteúdo legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Padrão do idioma atual">
