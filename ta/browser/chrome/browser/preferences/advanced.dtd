@@ -112,7 +112,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "பின்வரும் இணைய தளங்கள் இணைப்பில்லாத பயனுக்கு தரவை சேமிக்க அனுமதிக்கப்படுபவை:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "நீக்குக…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

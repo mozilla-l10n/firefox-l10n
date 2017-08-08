@@ -12,15 +12,13 @@
 <!ENTITY window.title         "புதிய கலனைச் சேர்">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "பெயர்:">
-<!ENTITY name.accesskey       "N">
+
 <!ENTITY name.placeholder     "ஒரு கலனின் பெயரை இடுக">
-<!ENTITY icon.label           "சின்னம்:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "நிறம்:">
-<!ENTITY color.accesskey      "o">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "முடிந்தது">
 <!ENTITY button.ok.accesskey  "D">
-

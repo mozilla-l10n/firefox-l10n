@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "இந்தப் பிணையத்திற்குத் தானாக பதிலாள் அமைவுகளை கண்டறி">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "கைமுறை பதிலாள் கட்டமைப்பு:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "தானியக்க பதிலாள் கட்டமைப்பு URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+
+
+
+
 <!ENTITY  reload.label                  "மீளேற்று">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP ப்ராக்ஸி:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP பதிலாள்:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL ப்ராக்ஸி:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS புரவலன்:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "பதிலாள் DNS SOCKS V5 பயன்படுத்தும் போது">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "துறை:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "இதற்கு பதிலாள் இல்லை:">
-<!ENTITY  noproxy.accesskey             "N">
+
+
 <!ENTITY  noproxyExplain.label          "எடுத்துக்காட்டு: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "இந்த பதிலாள் சேவையகத்தை அனைத்து நெறிமுறைகளிலும் பயன்படுத்து">
 <!ENTITY  shareproxy.accesskey          "s">

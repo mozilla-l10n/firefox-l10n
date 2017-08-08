@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "அதிகாரம் உள்ளவர்கள்">
 <!ENTITY certmgr.tab.orphan2                  "மற்றவர்கள்">
 
-<!ENTITY certmgr.mine                         "நீங்கள் இந்த நிறுவனங்களின் சான்றிதழ்கள் உள்ளன என்பதை கண்டுபிடித்துள்ளீர்கள்:">
-<!ENTITY certmgr.others                       "இவர்களின் சான்றிதழ் கோப்புகள் உங்களிடம் உள்ளது:">
-<!ENTITY certmgr.websites2                    "இந்த சேவையகங்களை அடையாளப்படுத்தும் சான்றிதழ்களை கோப்பில் கொண்டுள்ளீர்கள்:">
-<!ENTITY certmgr.cas                          "இந்த சான்றிதழ் உரிமம் பெற்றவர்களி சான்றிதழ்கள் உங்களிடம் உள்ளது:">
-<!ENTITY certmgr.orphans                      "வேறு வகைகளில் பொருந்தாத சான்றிதழ்களை கோப்பில் கொண்டுள்ளீர்கள்:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "பொது">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

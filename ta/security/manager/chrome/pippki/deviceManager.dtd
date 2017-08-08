@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "சேர்க்க விரும்பும் பகுதி பற்றிய தகவலை உள்ளிடவும்.">
-<!ENTITY loaddevice.modname                     "பகுதி பெயர்:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "புதிய PKCS#11 பகுதி">
-<!ENTITY loaddevice.filename                    "பகுதி கோப்பு பெயர்:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "உலாவு...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
