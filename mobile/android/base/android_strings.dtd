@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "برنامه‌های پیشرفته وب">
 <!ENTITY pref_pwa_summary "به برنامه‌های وب اجازه بده تا به صفحه خانگی اضافه شوند">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "جریان فعالیت‌ها">
-<!ENTITY pref_activity_stream_summary "یک فیدِ بصریِ غنی و یک صفحه‌خانگی جدید که پیدا کردن آنچه دنبالش هستید را از هر زمانی در &brandShortName; سریع‌تر می‌کند.">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "عناصری که ممکن است شما را ردگیری کنند مسدود خواهند شد، تا شما هیچ نگرانی‌ای نداشته باشید.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "به موارد برجسته خوش ‌آمدید">
 <!ENTITY activity_stream_welcome_content1 "اکنون &brandShortName; موارد برجسته را برای چیزهایی که شما در وب کشفه کرده‌اید ایجاده میکند تا راه خود را به سوی مقالات،‌ ویدیو ها، نشانک ها و سایر صفحات خود پیدا کنید.">
+
+
+
+
