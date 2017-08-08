@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Never">
 
 <!ENTITY  color                           "Text and Background">
-<!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Background:">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Use system colours">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Underline links">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Link Colours">
-<!ENTITY  linkColor.label                 "Unvisited Links:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "Visited Links:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+
+
+
+
