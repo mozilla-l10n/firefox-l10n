@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "સમન્વિત કરેલા ટૅબ્સ">
 
 <!ENTITY syncedTabs.sidebar.label              "સમન્વિત કરેલા ટૅબ્સ">
-<!ENTITY syncedTabs.sidebar.noclients.label    "અહીંયા તેમના ટૅબ્સ જોવા માટે તમારા અન્ય ઉપકરણો માંથી ફાયરફોક્સ સાઇન ઇન કરો.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "અહીંયા તેમના ટૅબ્સ જોવા માટે તમારા અન્ય ઉપકરણો માંથી Firefox સાઇન ઇન કરો.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "કોઈ સમન્વયિત ટેબ્સ નથી...હજી!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે સાઇન ઇન કરો.">
@@ -990,5 +990,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
 
 <!ENTITY sendToDevice.label2 "ઉપકરણ પર મોકલો">
-<!ENTITY sendToDevice.viewTitle "ઉપકરણ પર મોકલો">
 <!ENTITY sendToDevice.syncNotReady.label "સમન્વય કરતા ઉપકરણો…">

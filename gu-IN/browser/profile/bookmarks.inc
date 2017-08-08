@@ -27,7 +27,7 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize ફાયરફોક્સ વૈવિધ્યપૂર્ણ બનાવો
+#define firefox_customize Firefox વૈવિધ્યપૂર્ણ બનાવો
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
