@@ -169,7 +169,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "ફાયરફોક્સ એકાઉન્ટ સાથે જોડાયેલ ઉપકરણો મળ્યા નથી">
+<!ENTITY overlay_no_synced_devices "Firefox ખાતા સાથે જોડાયેલ ઉપકરણો મળ્યા નથી">
 
 <!ENTITY pref_category_search3 "શોધો">
 <!ENTITY pref_category_search_summary2 "ઉમેરો, ડિફોલ્ટ સેટ કરો, સૂચનો બતાવો">
@@ -287,6 +287,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL નકલ">
 
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "પ્રવૃત્તિ સ્ટ્રીમ">
 
@@ -337,10 +338,6 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "હમણાં સાફ કરો">
 <!ENTITY pref_clear_on_exit_title3 "બહાર નીકળતી વખતે ખાનગી માહિતીને સાફ કરો">
-<!ENTITY pref_plugins "પ્લગઇન્સ">
-<!ENTITY pref_plugins_enabled "સક્રિય કરેલ">
-<!ENTITY pref_plugins_tap_to_play2 "રમવા માટે સ્પર્શ કરો">
-<!ENTITY pref_plugins_disabled "નિષ્ક્રિય કરેલ">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
 
@@ -581,6 +578,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "પસંદ કરેલ ઉપકરણ દેખીતી">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
 
 <!ENTITY remote_tabs_panel_moved_title "મારા ટૅબ્સ ક્યાં ગયા હતા?">
 <!ENTITY remote_tabs_panel_moved_desc "અમે તમારા ટૅબ્સને અન્ય ઉપકરણોમાંથી તમારા હોમ પેજ પરથી પેનલમાં ખસેડી દીધા છે જેથી દરેક વખતે જ્યારે તમે નવું ટેબ ખોલશો ત્યારે તે સરળતાથી ઍક્સેસ કરી શકાય છે.">
