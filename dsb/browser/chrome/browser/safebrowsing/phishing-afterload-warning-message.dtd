@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Toś ten webbok na <span id='phishing_sitename'/> jo se ako wobšudnikojske sedło k wěsći dał a na zakłaźe wašych wěstotnych nastajenjow zablokěrował.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Wobšudnkojske sedła su za to myslone, was zawjedowaś, něco tšašnego cyniś, ako na pś. instalěrowanje softwary abo pśeraźowanje wašych wósobinskich datow, na pś. gronidłow, telefonowych numerow abo numerow kreditnych kórtow.</p><p>Gaž daty na toś tom webboku zapódajośo, móžo to ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

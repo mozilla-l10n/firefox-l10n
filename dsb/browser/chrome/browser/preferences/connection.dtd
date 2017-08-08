@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Nastajenja proksy za toś tu seś awtomatiski namakaś">
 <!ENTITY  WPADTypeRadio.accesskey       "N">
-<!ENTITY  manualTypeRadio.label         "Manuelna konfiguracija proksy:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "URL awtomatiskeje proksy-konfiguracije:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+
+
+
+
 <!ENTITY  reload.label                  "Znowego">
 <!ENTITY  reload.accesskey              "Z">
-<!ENTITY  ftp.label                     "FTP-proksy:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP-proksy:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL-proksy:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS Host:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proksy-DNS, gaž se SOCKS v5 wužywa">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Žeden proksy za:">
-<!ENTITY  noproxy.accesskey             "d">
+
+
 <!ENTITY  noproxyExplain.label          "Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Ten samski proksy za wšykne protokole wužywaś">
 <!ENTITY  shareproxy.accesskey          "s">

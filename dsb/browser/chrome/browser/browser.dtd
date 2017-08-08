@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Rědy">
-<!ENTITY toolsMenu.accesskey          "R"> 
+<!ENTITY toolsMenu.accesskey          "R">
 
 <!ENTITY keywordfield.label           "Gronidło za toś to pytanje pśidaś…">
 <!ENTITY keywordfield.accesskey       "G">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Element pśepytowaś">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY fileMenu.label         "Dataja"> 
+<!ENTITY fileMenu.label         "Dataja">
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nowy kontejnerowy rejtark">
 <!ENTITY newUserContext.accesskey         "k">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "r">
 <!ENTITY newNonRemoteWindow.label   "Nowe wokno bźez e10s">
 
-<!ENTITY editMenu.label         "Wobźełaś"> 
-<!ENTITY editMenu.accesskey       "b"> 
-<!ENTITY undoCmd.label            "Anulěrowaś">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "A"> 
-<!ENTITY redoCmd.label            "Wóspjetowaś">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "s"> 
-<!ENTITY cutCmd.label           "Wurězaś">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "r"> 
-<!ENTITY copyCmd.label            "Kopěrowaś">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Zasajźiś">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "Z"> 
-<!ENTITY deleteCmd.label          "Lašowaś">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "L"> 
-<!ENTITY selectAllCmd.label         "Wšykno wubraś">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "u"> 
+<!ENTITY editMenu.label         "Wobźełaś">
+<!ENTITY editMenu.accesskey       "b">
+<!ENTITY undoCmd.label            "Anulěrowaś">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "A">
+<!ENTITY redoCmd.label            "Wóspjetowaś">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "s">
+<!ENTITY cutCmd.label           "Wurězaś">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "r">
+<!ENTITY copyCmd.label            "Kopěrowaś">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Zasajźiś">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "Z">
+<!ENTITY deleteCmd.label          "Lašowaś">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "L">
+<!ENTITY selectAllCmd.label         "Wšykno wubraś">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "u">
 <!ENTITY preferencesCmd2.label       "Nastajenja">
 <!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Nastajenja">
-<!ENTITY preferencesCmdUnix.accesskey     "N"> 
+<!ENTITY preferencesCmdUnix.accesskey     "N">
 
 <!ENTITY clearRecentHistory.label               "Aktualnu historiju wuprozniś…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Naglěd"> 
-<!ENTITY viewMenu.accesskey       "N"> 
-<!ENTITY viewToolbarsMenu.label       "Symbolowe rědki"> 
-<!ENTITY viewToolbarsMenu.accesskey     "S"> 
+<!ENTITY viewMenu.label         "Naglěd">
+<!ENTITY viewMenu.accesskey       "N">
+<!ENTITY viewToolbarsMenu.label       "Symbolowe rědki">
+<!ENTITY viewToolbarsMenu.accesskey     "S">
 <!ENTITY viewSidebarMenu.label "Bócnica">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Pśiměriś…"> 
+<!ENTITY viewCustomizeToolbar.label       "Pśiměriś…">
 <!ENTITY viewCustomizeToolbar.accesskey     "m">
 <!ENTITY overflowCustomizeToolbar.label       "Symbolowu rědku pśiměriś…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Žrědłowy tekst wuběrka zwobrazniś">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Žrědłowy tekst MathML zwobrazniś">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "t">
 <!ENTITY viewPageSourceCmd.label      "Žrědłowy tekst boka pokazaś">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Wobrazowu adresu kopěrowaś">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Wobraz kopěrowaś">
-<!ENTITY copyImageContentsCmd.accesskey  "r"> 
+<!ENTITY copyImageContentsCmd.accesskey  "r">
 <!ENTITY copyVideoURLCmd.label        "Wideowu adresu kopěrowaś">
 <!ENTITY copyVideoURLCmd.accesskey    "i">
 <!ENTITY copyAudioURLCmd.label        "Adresu awdiodataje kopěrowaś">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; skóńcyś">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Spušćiś"> 
+<!ENTITY quitApplicationCmd.label       "Spušćiś">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; skóńcyś">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Zacyniś">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zacyniś">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
 <!ENTITY toggleMuteCmd.key              "M">
