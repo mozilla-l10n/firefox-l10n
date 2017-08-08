@@ -6,11 +6,11 @@
 <!ENTITY calendar.calendar.label     "Calendário">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "Cria um novo evento" >
-<!ENTITY calendar.newtask.button.tooltip          "Cria uma nova tarefa" >
+<!ENTITY calendar.newevent.button.tooltip         "Criar um novo evento" >
+<!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Exibir tarefas completadas">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Exibir tarefas completas">
 
 <!ENTITY calendar.today.button.label          "Hoje">
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
@@ -29,7 +29,7 @@
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
-<!ENTITY calendar.unifinder.tree.done.label                "Completada">
+<!ENTITY calendar.unifinder.tree.done.label                "Finalizada">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por finalização">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar por prioridade">
