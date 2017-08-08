@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tilkynnt hefur verið að síðan <span id='phishing_sitename'/> sé svindlsíða og lokað var á síðuna vegna öryggisstillinga.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Svindlsvæði eru gerð til að plata þig í að gera eitthvað varhugavert, eins og setja inn hugbúnað, eða opinbera persónulegar upplýsingar, eins og lykilorð, símanúmer eða kortanúmer.</p><p>Ef þú slærð inn einhverjar upplýsingar á þetta vefsvæði gæti það leitt til þess að auðkenni þínu væri stolið eða annað svindl.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

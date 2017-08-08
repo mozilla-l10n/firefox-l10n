@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Verkfæri">
-<!ENTITY toolsMenu.accesskey          "V"> 
+<!ENTITY toolsMenu.accesskey          "V">
 
 <!ENTITY keywordfield.label           "Bæta við orði í leit…">
 <!ENTITY keywordfield.accesskey       "o">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
 <!ENTITY inspectContextMenu.accesskey "e">
 
-<!ENTITY fileMenu.label         "Skrá"> 
+<!ENTITY fileMenu.label         "Skrá">
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nýr hópaflipi">
 <!ENTITY newUserContext.accesskey         "h">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "g">
 <!ENTITY newNonRemoteWindow.label   "Nýr gluggi sem er ekki e10s">
 
-<!ENTITY editMenu.label         "Breyta"> 
-<!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Afturkalla">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "f"> 
-<!ENTITY redoCmd.label            "Endurtaka">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "n"> 
-<!ENTITY cutCmd.label           "Klippa">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Afrita">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "A"> 
-<!ENTITY pasteCmd.label           "Líma">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "L"> 
-<!ENTITY deleteCmd.label          "Eyða">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "E"> 
-<!ENTITY selectAllCmd.label         "Velja allt">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "j"> 
+<!ENTITY editMenu.label         "Breyta">
+<!ENTITY editMenu.accesskey       "e">
+<!ENTITY undoCmd.label            "Afturkalla">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "f">
+<!ENTITY redoCmd.label            "Endurtaka">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "n">
+<!ENTITY cutCmd.label           "Klippa">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "K">
+<!ENTITY copyCmd.label            "Afrita">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "A">
+<!ENTITY pasteCmd.label           "Líma">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "L">
+<!ENTITY deleteCmd.label          "Eyða">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "E">
+<!ENTITY selectAllCmd.label         "Velja allt">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "j">
 <!ENTITY preferencesCmd2.label       "Valkostir">
 <!ENTITY preferencesCmd2.accesskey     "V">
 <!ENTITY preferencesCmdUnix.label       "Valkostir">
-<!ENTITY preferencesCmdUnix.accesskey     "V"> 
+<!ENTITY preferencesCmdUnix.accesskey     "V">
 
 <!ENTITY clearRecentHistory.label               "Hreinsa nýlega ferla…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Skoða"> 
-<!ENTITY viewMenu.accesskey       "k"> 
-<!ENTITY viewToolbarsMenu.label       "Verkfæraslár"> 
-<!ENTITY viewToolbarsMenu.accesskey     "V"> 
+<!ENTITY viewMenu.label         "Skoða">
+<!ENTITY viewMenu.accesskey       "k">
+<!ENTITY viewToolbarsMenu.label       "Verkfæraslár">
+<!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Hliðslá">
 <!ENTITY viewSidebarMenu.accesskey "H">
-<!ENTITY viewCustomizeToolbar.label       "Sérsníða…"> 
+<!ENTITY viewCustomizeToolbar.label       "Sérsníða…">
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 <!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "S">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Sýna frumkóða vals">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Sýna MathML frumkóða">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "n">
 <!ENTITY viewPageSourceCmd.label      "Sýna frumkóða síðu">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Afrita staðsetningu myndar">
 <!ENTITY copyImageCmd.accesskey       "s">
 <!ENTITY copyImageContentsCmd.label   "Afrita mynd">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Afrita myndbandatengil">
 <!ENTITY copyVideoURLCmd.accesskey    "m">
 <!ENTITY copyAudioURLCmd.label        "Afrita hljóðtengil">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Hætta í &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Hætta"> 
+<!ENTITY quitApplicationCmd.label       "Hætta">
 <!ENTITY quitApplicationCmd.accesskey   "H">
 <!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Loka">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Loka">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "L">
 
 <!ENTITY toggleMuteCmd.key              "M">
