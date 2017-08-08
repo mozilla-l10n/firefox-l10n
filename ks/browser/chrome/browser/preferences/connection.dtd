@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "آٹو ڈیٹیكٹ پراكزی سیٹینگس یم۪ی نیٹورك خٲطرئ">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "پانٲی پراكزی كنفیوگریشن:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "پانٲی پراكزی كنفیوگریشن URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+
+
+
+
 <!ENTITY  reload.label                  "ری لوڈ">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP پراكزی:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP پراكزی:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL پراكزی:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS ہوسٹ:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "پورٹ">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "خٲطرئ چھَ نئ كہین پراكزی">
-<!ENTITY  noproxy.accesskey             "N">
+
+
 <!ENTITY  noproxyExplain.label          "مثلن: mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "یئ پراكزی سرور كریو استیمال سارزی پروٹوكالزن خٲطرئ">
 <!ENTITY  shareproxy.accesskey          "s">

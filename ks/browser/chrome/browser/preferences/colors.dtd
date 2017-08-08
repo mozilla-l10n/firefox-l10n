@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "زانہہ نْہ">
 
 <!ENTITY  color                           "مواد تئ پس۪ی منظر">
-<!ENTITY  textColor.label                 "مواد">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "پس۪ی منظر">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "سسٹم رنگ كریو استیمال">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "لینكسن دیو تلِم ر۪یكھ">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "رنگ كریو لینك">
-<!ENTITY  linkColor.label                 "وچھنٲ ی لینك">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "وچھمئت لینك">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+
+
+
+

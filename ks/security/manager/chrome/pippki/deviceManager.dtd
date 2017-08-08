@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        " ماڈیول خئطرئ كریو مولومات  دئخل یوْس تہئ جمع چھئوئ یژھان كر۪ین۔">
-<!ENTITY loaddevice.modname                     "ماڈیول ناو:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "نئو  PKCS#11 ماڈیول">
-<!ENTITY loaddevice.filename                    "ماڈيول فائل ناو:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ژھانڈ">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

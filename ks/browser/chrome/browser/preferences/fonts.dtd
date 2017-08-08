@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "فانٹس">
 
-<!ENTITY  language.label                          "خٲطرئ فانٹس:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "سایز:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "منٲسب:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "سیریف:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "سینس سیریف :">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "مونو سپیس:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "سِنہال">
 <!ENTITY  font.langGroup.tibetan                  "تبتی ">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "كم از كم فانٹ سایز:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "كہین نئ">
 <!-- default font type -->
 

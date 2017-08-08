@@ -45,8 +45,7 @@
 <!ENTITY  acceptThirdParty.never.label    "زانہہ نْہ">
 <!ENTITY  acceptThirdParty.visited.label  "سْیر کرنْہ آمتِہ پیٹھ">
 
-<!ENTITY  keepUntil.label               "تھأیو توتام:">
-<!ENTITY  keepUntil.accesskey           "ت">
+
 
 <!ENTITY  expire.label                  "یم چھَ مكلان">
 <!ENTITY  close.label                   "بند كریو برینڈ لكُٹ ناو">

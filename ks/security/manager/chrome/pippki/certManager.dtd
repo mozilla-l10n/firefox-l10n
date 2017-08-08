@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "منتظم">
 <!ENTITY certmgr.tab.orphan2                  "باقی">
 
-<!ENTITY certmgr.mine                         "تہئ چھئوئ سرٹئفیكیٹس تمئو تنظیمئو پیٹھ  یم تہ۪ی پرزناوئن:">
-<!ENTITY certmgr.others                       "تہئ چھئوئ سرٹئفیكیٹس فایل۪ی پیٹھ  یم تہ۪ی پرزناوئن:">
-<!ENTITY certmgr.websites2                    "تہئ چھئوئ سرٹئفیكیٹس فایل۪ی پیٹھ  یم تہ۪ی پرزناوئن :">
-<!ENTITY certmgr.cas                          "تہئ چھئوئ سرٹئفیكیٹس فایل۪ی پیٹھ   یم پرزناوان چھ  یِمن سرٹیفیکیٹ ایتھارٹیین: :">
-<!ENTITY certmgr.orphans                      "توہیہ چھ فایلہ پیٹھ سرٹیفیکیٹ یم ذن نْہ رلان چھ  باقین کونِہ کیٹاگرین سْیت:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "عام">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
