@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "自动检测此网络的代理设置">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "手动配置代理：">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "自动代理配置的 URL（PAC）：">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "手动代理配置">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "自动代理配置的 URL（PAC）">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "重新载入">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP 代理：">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP 代理：">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL 代理：">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS 主机：">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP 代理">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP 代理">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL 代理">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS 主机">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "使用 SOCKS v5 代理 DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
-<!ENTITY  port.label                    "端口：">
+<!ENTITY  port2.label                   "端口">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "不使用代理：">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy2.label                "不使用代理">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "例如：.mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "为所有协议使用相同代理服务器">
 <!ENTITY  shareproxy.accesskey          "s">
