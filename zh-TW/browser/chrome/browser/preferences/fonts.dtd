@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "字型">
 
-<!ENTITY  language.label                          "對應此種語言:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "對應此種語言">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "大小:">
+<!ENTITY  size2.label                             "大小">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "比例字型:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "比例字型">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "襯線字型:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "無襯線字型:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "等寬字型:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "襯線字型">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "無襯線字型">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "等寬字型">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "僧加羅文">
 <!ENTITY  font.langGroup.tibetan                  "藏文">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "最小字型大小:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "最小字型大小">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "無">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "開啟老舊內容時使用的文字編碼">
-<!ENTITY languages.customize.Fallback2.label      "備用字元編碼:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "備用字元編碼">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "將會使用此編碼來開啟未正確宣告其編碼的老舊內容。">
 
 <!ENTITY languages.customize.Fallback.auto        "目前語系的預設值">
