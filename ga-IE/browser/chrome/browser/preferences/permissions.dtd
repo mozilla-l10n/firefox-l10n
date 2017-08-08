@@ -10,8 +10,8 @@
 
 
 
-<!ENTITY address.label                "Seoladh an tsuímh Ghréasáin:">
-<!ENTITY address.accesskey            "G">
+
+
 <!ENTITY block.label                  "Coisc">
 <!ENTITY block.accesskey              "C">
 <!ENTITY session.label                "Ceadaigh don Seisiún">
