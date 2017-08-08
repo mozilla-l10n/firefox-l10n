@@ -45,8 +45,7 @@
 <!ENTITY  acceptThirdParty.never.label    "केन्नाच ना">
 <!ENTITY  acceptThirdParty.visited.label  "भेट दिल्ल्या कडल्यान">
 
-<!ENTITY  keepUntil.label               "दवरात मेरेन:">
-<!ENTITY  keepUntil.accesskey           "म">
+
 
 <!ENTITY  expire.label                  "ते सोपता">
 <!ENTITY  close.label                   "&brandShortName;हाव बंद करता">

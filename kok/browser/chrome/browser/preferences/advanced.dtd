@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "व">
 
-<!ENTITY offlineAppsList2.label          "ऑफलाईन वापराखातिर डेटा साठोवपाक मुखावयल्या वेबसायटींक परवानगी आसा:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "काडचें...">
 <!ENTITY offlineAppsListRemove.accesskey "क">

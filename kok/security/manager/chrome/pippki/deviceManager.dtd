@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "तुमी जोडपाक सोदता त्या प्रमाणाखातीर म्हायती भरात.">
-<!ENTITY loaddevice.modname                     "प्रमाण नाव:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "नविन PKCS#11 प्रमाण">
-<!ENTITY loaddevice.filename                    "प्रमाण धारिका नाव">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ब्रावज...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

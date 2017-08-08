@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "केन्नाच ना">
 
 <!ENTITY  color                           "मजकूर आनिक फांटभूंय">
-<!ENTITY  textColor.label                 "मजकूर:">
-<!ENTITY  textColor.accesskey             "म">
-<!ENTITY  backgroundColor.label           "फांटभूंय:">
-<!ENTITY  backgroundColor.accesskey       "फ">
+
+
+
+
 <!ENTITY  useSystemColors.label           "व्यवस्था रंग वापरात">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "जोडी अधोरेखित करात">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "जोडीचे रंग">
-<!ENTITY  linkColor.label                 "भेट दिंवक नाशिल्ल्यो जोडण्यो">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "भेट दिल्ल्यो जोडी">
-<!ENTITY  visitedLinkColor.accesskey      "भ">
+
+
+
+

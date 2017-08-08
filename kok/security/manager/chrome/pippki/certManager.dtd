@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "अधिकारी">
 <!ENTITY certmgr.tab.orphan2                  "हेर">
 
-<!ENTITY certmgr.mine                         "तुमका वळखुपी ह्या संस्थांकडली प्रमाणपत्रां तुमचेकडेन आसात:">
-<!ENTITY certmgr.others                       "ह्या लोकांक वळखुपी प्रमाणपत्रां धारिकेर आसात:">
-<!ENTITY certmgr.websites2                    "तुमचे कडेन फायलीचेर प्रमाणपत्रां आसात, जीं ह्या सर्वरांक वळखतातः">
-<!ENTITY certmgr.cas                          "तुमचेकडेन फायलीचेर प्रमाणपत्रा आसात जी ह्या प्रमाणपत्रांच्या अधिकारिणींक वळखतात:">
-<!ENTITY certmgr.orphans                      "तुमचेकडेन फायलीर प्रमाणपत्रां आसात जी कसल्याय हेर गटांत बसनात:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "सर्वसादारण">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

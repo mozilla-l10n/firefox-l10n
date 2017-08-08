@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "व">
 <!ENTITY  WPADTypeRadio.label           "ह्या network खातीर आपसूक प्रतिपत्र स्थापितां सोदात">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manual प्रतिपत्र संरचनाय:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatic प्रतिपत्र संरचनाय  URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+
+
+
+
 <!ENTITY  reload.label                  "Reload">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP प्रतिपत्र:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP प्रॉक्सी:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL प्रॉक्सी:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS येजमान:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "पोर्ट:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No खातीर प्रॉक्सी:">
-<!ENTITY  noproxy.accesskey             "N">
+
+
 <!ENTITY  noproxyExplain.label          "देखीक : मॉझीला. ऑर्ग, .नेट, .एनझेड,192.168.1.0/24">
 <!ENTITY  shareproxy.label              "हो प्रोक्सी सर्व्हर सगळ्या प्रोटोकॉलांक वापरात">
 <!ENTITY  shareproxy.accesskey          "s">
