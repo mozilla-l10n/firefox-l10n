@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "قلم‌ها">
 
-<!ENTITY  language.label                          "قلم‌ها برای:">
-<!ENTITY  language.accesskey                      "ق">
 
-<!ENTITY  size.label                              "اندازه:">
+
 <!ENTITY  sizeProportional.accesskey              "ن">
 <!ENTITY  sizeMonospace.accesskey                 "ز">
 
-<!ENTITY  proportional.label                      "مختلف العرض:">
-<!ENTITY  proportional.accesskey                  "م">
 
-<!ENTITY  serif.label                             "سریف:">
-<!ENTITY  serif.accesskey                         "س">
-<!ENTITY  sans-serif.label                        "بدون سریف:">
-<!ENTITY  sans-serif.accesskey                    "ب">
-<!ENTITY  monospace.label                         "تک‌عرض:">
-<!ENTITY  monospace.accesskey                     "ک">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "سینهالی">
 <!ENTITY  font.langGroup.tibetan                  "تبتی">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
-<!ENTITY minSize.accesskey                        "ل">
+
 <!ENTITY minSize.none                             "هیچ‌کدام">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "ج">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "کدگذاری متن برای محتوای قدیمی">
-<!ENTITY languages.customize.Fallback2.label      "کدگذاری متن و جانشین">
-<!ENTITY languages.customize.Fallback2.accesskey  "م">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.">
 
 <!ENTITY languages.customize.Fallback.auto        "پیش‌فرض برای مکان فعلی">

@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "اجازه استفاده از کوکی‌ها توسط پایگاه‌های اینترنتی">
 <!ENTITY  acceptCookies2.accesskey      "ک">
 
-<!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ث">
+
 <!ENTITY  acceptThirdParty.always.label   "همیشه">
 <!ENTITY  acceptThirdParty.never.label    "هرگز">
 <!ENTITY  acceptThirdParty.visited.label  "از بازدید">
 
-<!ENTITY  keepUntil.label               "نگهداری شوند تا:">
-<!ENTITY  keepUntil.accesskey           "ن">
+
 
 <!ENTITY  expire.label                  "منقضی شوند">
 <!ENTITY  close.label                   "&brandShortName; بسته شود">

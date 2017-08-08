@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "مراجع صدور">
 <!ENTITY certmgr.tab.orphan2                  "دیگران">
 
-<!ENTITY certmgr.mine                         "شما گواهی‌هایی از این سازمان‌ها دارید که هویت شما را تأیید می‌کنند:">
-<!ENTITY certmgr.others                       "شما گواهی‌هایی موجود دارید که هویت این افراد را تأیید می‌کنند:">
-<!ENTITY certmgr.websites2                    "شما گواهی‌هایی موجود دارید که هویت این پایگاه‌ها را تأیید می‌کنند:">
-<!ENTITY certmgr.cas                          "شما گواهی‌هایی موجود دارید که هویت این مراجع صدور گواهی را تأیید می‌کنند:">
-<!ENTITY certmgr.orphans                      "شما گواهی‌هایی موجود دارید که در هیچ یک از دسته‌های دیگر نمی‌گنجند:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "عمومی">
 <!ENTITY certmgr.detail.general_tab.accesskey "ع">
