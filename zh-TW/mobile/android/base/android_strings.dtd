@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "允許將 Web App 新增至裝置主畫面">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "將您的上網紀錄視覺化並重新發想首頁設計，讓您可以更簡單在 &brandShortName; 找到想找的東西。">
-
 <!ENTITY tracking_protection_prompt_title "現在開始提供追蹤保護功能">
 <!ENTITY tracking_protection_prompt_text "主動封鎖網頁中的追蹤元素，這樣您就不用再擔心了。">
 <!ENTITY tracking_protection_prompt_tip_text "前往隱私設定了解更多資訊">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "結束時，清除隱私資料">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
-<!ENTITY pref_plugins "外掛程式">
-<!ENTITY pref_plugins_enabled "啟用">
-<!ENTITY pref_plugins_tap_to_play2 "觸碰以顯示">
-<!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_restore_tabs "還原分頁">
 <!ENTITY pref_restore_always "總是還原">
 <!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "歡迎來到您的重點事項清單">
 <!ENTITY activity_stream_welcome_content1 "現在起，&brandShortName; 會為您在網路上發現的新事物建立重點事項清單，這樣您就可以快速地回到這些文章、影片、書籤等頁面。">
+
+<!ENTITY private_tab_panel_title "隱私瀏覽 + 追蹤保護">
+<!ENTITY private_tab_panel_description "&brandShortName; 會封鎖頁面中部分元素，以防止您的瀏覽行為被其追蹤。">
+<!ENTITY private_tab_panel_description2 "我們不會記住任何瀏覽紀錄，但下載的檔案與新建立的書籤還是會保留在裝置中。">
+<!ENTITY private_tab_learn_more "想了解更多資訊？">
