@@ -15,12 +15,19 @@
 <!ENTITY  WPADTypeRadio.label           "Détection automatique des paramètres de proxy pour ce réseau">
 <!ENTITY  WPADTypeRadio.accesskey       "u">
 <!ENTITY  manualTypeRadio2.label        "Configuration manuelle du proxy">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "Adresse de configuration automatique du proxy">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Actualiser">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp2.label                    "Proxy FTP">
+<!ENTITY  ftp2.accesskey                "F">
 <!ENTITY  http2.label                   "Proxy HTTP">
+<!ENTITY  http2.accesskey               "H">
 <!ENTITY  ssl2.label                    "Proxy SSL">
+<!ENTITY  ssl2.accesskey                "S">
 <!ENTITY  socks2.label                  "Hôte SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "k">
 <!ENTITY  socks5.label                  "SOCKS v5">
@@ -33,6 +40,7 @@
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy2.label                "Pas de proxy pour">
+<!ENTITY  noproxy2.accesskey            "x">
 <!ENTITY  noproxyExplain.label          "Exemples : .mozilla.org, .asso.fr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utiliser ce serveur proxy pour tous les protocoles">
 <!ENTITY  shareproxy.accesskey          "i">

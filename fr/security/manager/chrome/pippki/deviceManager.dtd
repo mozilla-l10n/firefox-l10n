@@ -26,8 +26,10 @@
 
 <!ENTITY loaddevice.info                        "Saisissez les informations sur le module que vous voulez ajouter.">
 <!ENTITY loaddevice.modname2                    "Nom du module">
+<!ENTITY loaddevice.modname2.accesskey          "o">
 <!ENTITY loaddevice.modname.default             "Nouveau module PKCS#11">
 <!ENTITY loaddevice.filename2                   "Nom de fichier du module">
+<!ENTITY loaddevice.filename2.accesskey         "i">
 <!ENTITY loaddevice.browse                      "Parcourir…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
