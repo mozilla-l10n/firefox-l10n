@@ -11,16 +11,16 @@
 <!ENTITY overrideDefaultPageColors.auto.label "solo con temi a contrasto elevato">
 <!ENTITY overrideDefaultPageColors.never.label "mai">
 <!ENTITY color "Testo e sfondo">
-<!ENTITY textColor.label "Testo:">
-<!ENTITY textColor.accesskey "T">
-<!ENTITY backgroundColor.label "Sfondo:">
-<!ENTITY backgroundColor.accesskey "S">
+<!ENTITY textColor2.label "Testo">
+<!ENTITY textColor2.accesskey "T">
+<!ENTITY backgroundColor2.label "Sfondo">
+<!ENTITY backgroundColor2.accesskey "S">
 <!ENTITY useSystemColors.label "Usa i colori di sistema">
 <!ENTITY useSystemColors.accesskey "U">
 <!ENTITY underlineLinks.label "Sottolinea i link">
 <!ENTITY underlineLinks.accesskey "o">
 <!ENTITY links "Colori link">
-<!ENTITY linkColor.label "Link non visitati:">
-<!ENTITY linkColor.accesskey "L">
-<!ENTITY visitedLinkColor.label "Link visitati:">
-<!ENTITY visitedLinkColor.accesskey "v">
+<!ENTITY linkColor2.label "Link non visitati">
+<!ENTITY linkColor2.accesskey "L">
+<!ENTITY visitedLinkColor2.label "Link visitati">
+<!ENTITY visitedLinkColor2.accesskey "v">

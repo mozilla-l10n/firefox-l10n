@@ -9,13 +9,13 @@
 <!ENTITY backLink2.label "&#171; Torna indietro">
 <!ENTITY window.title "Aggiungi nuovo contenitore">
 <!ENTITY window.width "45em">
-<!ENTITY name.label "Nome:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name2.label "Nome">
+<!ENTITY name2.accesskey "N">
 <!ENTITY name.placeholder "Inserire il nome del contenitore">
-<!ENTITY icon.label "Icona:">
-<!ENTITY icon.accesskey "I">
-<!ENTITY color.label "Colore:">
-<!ENTITY color.accesskey "C">
+<!ENTITY icon2.label "Icona">
+<!ENTITY icon2.accesskey "I">
+<!ENTITY color2.label "Colore">
+<!ENTITY color2.accesskey "C">
 <!ENTITY windowClose.key "w">
 <!ENTITY button.ok.label "Fatto">
 <!ENTITY button.ok.accesskey "F">
