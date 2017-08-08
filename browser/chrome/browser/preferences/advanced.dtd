@@ -144,7 +144,7 @@ available. -->
                                          "a">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Læs mere">
-<!ENTITY limitContentProcessOption.label "Begrænsing af indholds-processer">
+<!ENTITY limitContentProcessOption.label "Begrænsning af indholds-processer">
 <!ENTITY limitContentProcessOption.description
                                          "Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.">
 <!ENTITY limitContentProcessOption.accesskey   "i">
