@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Առաջադիմական վեբ հավելվածներ">
 <!ENTITY pref_pwa_summary "Թույլատրել վեբ հավելվածներին ավելացվել տուն էկրանին">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Ակտիվության հոսք">
-<!ENTITY pref_activity_stream_summary "Հարուստ տեսողական պատմությունը և վերաիմաստավորված մեկնարկային էջը ավելի դյուրին է դարձնում, քան երբևէ գտնելու այն, ինչ փնտրում եք &brandShortName;-ում:">
 
 <!ENTITY tracking_protection_prompt_title "Այժմ պաշտպանություն հետագծումից">
 <!ENTITY tracking_protection_prompt_text "Արգելափակում է հետագծող տարրերը:">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Բարի գալուստ ձեր Գունանշումներ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName;-ը այժմ ստեղծում է վեբում ձեր կողմից բացահայտված իրերի գունանշումները, որպեսզի դուք կարողանաք գտնել ձեր ճանապարհը դեպի ձեր նախընտրած լավագույն հոդվածներ, տեսանյութեր, էջանիշեր և այլ էջեր:">
+
+
+
+
