@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "General">
 
@@ -23,10 +23,10 @@
 <!ENTITY checkUserSpelling.accesskey     "o">
 
 <!ENTITY dataChoicesTab.label            "Elecció de dades">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "L'informe de dades està desactivat en la configuració d'aquesta versió">
 
 <!ENTITY enableHealthReport1.label       "Permet que el &brandShortName; enviï automàticament dades tècniques i d'interacció a Mozilla">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Contingut web en memòria cau">
 
 <!ENTITY offlineStorage2.label           "Contingut web i dades de l'usuari fora de línia">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Dades dels llocs">
 <!ENTITY clearSiteData.label             "Esborra totes les dades">
 <!ENTITY clearSiteData.accesskey         "b">
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteDataLearnMoreLink.label     "Més informació">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Limita la memòria cau a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espai">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 
 <!ENTITY updateTab.label                 "Actualització">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Actualitzacions del &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Manteniu el &brandShortName; actualitzat per obtenir el millor rendiment, estabilitat i seguretat.">
+<!ENTITY updateApplicationDescription.label
+                                         "Manteniu el &brandShortName; actualitzat per obtenir el millor rendiment, estabilitat i seguretat.">
 <!ENTITY updateApplication.version.pre   "Versió ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Actualitzacions del &brandShortName;">
@@ -115,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Els llocs web següents poden desar dades per utilitzar-les fora de línia:">
+<!ENTITY offlineAppsList3.label          "Els llocs web següents poden desar dades per utilitzar-les fora de línia">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Suprimeix…">
 <!ENTITY offlineAppsListRemove.accesskey "u">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rendiment">
-<!ENTITY useRecommendedPerformanceSettings2.label "Utilitza els paràmetres de rendiment recomanats">
-<!ENTITY useRecommendedPerformanceSettings2.description "Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
-<!ENTITY performanceSettingsLearnMore.label "Més informació">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Utilitza els paràmetres de rendiment recomanats">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Més informació">
 <!ENTITY limitContentProcessOption.label "Límit de processos de contingut">
-<!ENTITY limitContentProcessOption.description "Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.">
+<!ENTITY limitContentProcessOption.description
+                                         "Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
-<!ENTITY limitContentProcessOption.disabledDescription "El nombre de processos de contingut només es pot modificar amb el &brandShortName; multiprocés.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Més informació sobre com comprovar si el multiprocés està activat.">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "El nombre de processos de contingut només es pot modificar amb el &brandShortName; multiprocés.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Més informació sobre com comprovar si el multiprocés està activat.">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
