@@ -361,10 +361,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Изчистване на лични данни след изход">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; автоматично ще изчисти вашите данни при избиране на \u0022Изход\u0022 от главното меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Изберете кои данни да бъдат изтрити">
-<!ENTITY pref_plugins "Приставки">
-<!ENTITY pref_plugins_enabled "Включени">
-<!ENTITY pref_plugins_tap_to_play2 "Включване след докосване">
-<!ENTITY pref_plugins_disabled "Изключени">
 <!ENTITY pref_restore_tabs "Възстановяване на раздели">
 <!ENTITY pref_restore_always "Всеки път">
 <!ENTITY pref_restore_quit "Никога след изход от &brandShortName;">
@@ -393,7 +389,7 @@
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Отворени раздели">
-<!ENTITY pref_private_data_history2 "История на сърфиране">
+<!ENTITY pref_private_data_history2 "История на разглеждане">
 <!ENTITY pref_private_data_searchHistory "История на търсения">
 <!ENTITY pref_private_data_formdata2 "История на формуляри">
 <!ENTITY pref_private_data_cookies2 "Бисквитки и текущи вписвания">
