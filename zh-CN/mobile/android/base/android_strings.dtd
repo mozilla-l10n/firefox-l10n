@@ -286,7 +286,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "自定义标签页 (Custom Tabs)">
+<!ENTITY pref_custom_tabs "自定义标签页(Custom Tabs)">
 <!ENTITY pref_custom_tabs_summary3 "允许应用使用定制版本的 &brandShortName; 打开网站">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
