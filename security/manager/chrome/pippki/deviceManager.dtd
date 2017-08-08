@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "ଆପଣ ଯୋଗ କରିବାକୁ ଚାହୁଁଥିବା ଏକକାଂଶ ପାଇଁ ସୂଚନା ଭରଣକରନ୍ତୁ.">
-<!ENTITY loaddevice.modname                     "ଏକକାଂଶ ନାମ:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "ନୂତନ PKCS#11 ଏକକାଂଶ">
-<!ENTITY loaddevice.filename                    "ଏକକାଂଶ ଫାଇଲନାମ:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ବ୍ରାଉଜ କରନ୍ତୁ…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
