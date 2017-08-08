@@ -129,10 +129,8 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "H">
 <!ENTITY enableOCSP.label                "Sertifikaların geçerliliğini doğrulamak için OCSP otomatik yanıt sunucularını sorgula">
 <!ENTITY enableOCSP.accesskey            "d">
-<!ENTITY viewCerts.label                 "Sertifikaları göster">
-<!ENTITY viewCerts.accesskey             "S">
-<!ENTITY viewSecurityDevices.label       "Güvenlik aygıtları">
-<!ENTITY viewSecurityDevices.accesskey   "G">
+<!ENTITY viewCerts2.label                "Sertifikaları göster…">
+<!ENTITY viewSecurityDevices2.label      "Güvenlik aygıtları…">
 
 <!ENTITY performance.label               "Performans">
 <!ENTITY useRecommendedPerformanceSettings2.label
