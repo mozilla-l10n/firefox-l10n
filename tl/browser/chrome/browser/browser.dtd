@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Isara">
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
 <!ENTITY fullScreenAutohide.accesskey "I">
-<!ENTITY fullScreenExit.label "Itigil ang pag-gamit ng buong screen">
+<!ENTITY fullScreenExit.label "Lumabas sa Full Screen Mode">
 <!ENTITY fullScreenExit.accesskey "I">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Mga Tools">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Magdagdag ng Keyword para sa Search na ito...">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY fileMenu.label         "File"> 
+<!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
 <!ENTITY newUserContext.accesskey         "B">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "Bagong Di-e10s Window">
 
-<!ENTITY editMenu.label         "i-Edit"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Ibalik sa dati">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "Ulitin">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "U"> 
-<!ENTITY cutCmd.label           "I-cut">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Kopyahin">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "I-paste">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Burahin">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "B"> 
-<!ENTITY selectAllCmd.label         "Piliin Lahat">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "i-Edit">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Ibalik sa dati">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Ulitin">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "U">
+<!ENTITY cutCmd.label           "I-cut">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Kopyahin">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "I-paste">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Burahin">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "B">
+<!ENTITY selectAllCmd.label         "Piliin Lahat">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Options">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Mga Preferences">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "Burahin ang Kasaysayan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "M">
 
-<!ENTITY viewMenu.label         "Tingnan"> 
-<!ENTITY viewMenu.accesskey       "T"> 
-<!ENTITY viewToolbarsMenu.label       "Mga Toolbars"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Tingnan">
+<!ENTITY viewMenu.accesskey       "T">
+<!ENTITY viewToolbarsMenu.label       "Mga Toolbars">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Sidebar">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
+<!ENTITY viewCustomizeToolbar.label       "I-customize...">
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 <!ENTITY overflowCustomizeToolbar.label       "I-customize ang Toolbar...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -476,8 +476,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
-<!ENTITY searchInput.placeholder      "Maghanap">
-<!ENTITY searchIcon.tooltip           "Maghanap">
+<!ENTITY searchInput.placeholder      "Hanapin">
+<!ENTITY searchIcon.tooltip           "Hanapin">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "l">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ipakita ang Source Code ng Selection">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ipakita ang Source Code ng MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Tingnan ang source code ng web page">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopyahin ang Imahe">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Huminto"> 
+<!ENTITY quitApplicationCmd.label       "Huminto">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Isara">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Isara">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "I">
 
 <!ENTITY toggleMuteCmd.key              "M">

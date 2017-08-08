@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "Ang &brandShortName; ay eksperimental pa at maaring hindi gaanong stable.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
+<!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, paggamit at pag-aangkop sa &vendorShortName; upang mapaganda ang &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -40,12 +40,12 @@
 <!ENTITY community.creditsLink      "pangdaigdigang komunidad">
 <!ENTITY community.end3             " sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.">
 
-<!ENTITY helpus.start               "Nais mong tumulong? ">
+<!ENTITY helpus.start               "Nais mo bang tumulong? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Magdonasyon">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "sali na!">
+<!ENTITY helpus.getInvolvedLink     "sumali na!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Ano ang bago?">
