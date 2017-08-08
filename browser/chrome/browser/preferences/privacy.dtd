@@ -50,14 +50,16 @@
 <!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Accepter les cookies tiers">
-<!ENTITY  acceptThirdParty.always.label   "toujours">
-<!ENTITY  acceptThirdParty.never.label    "jamais">
-<!ENTITY  acceptThirdParty.visited.label  "depuis les sites visités">
+<!ENTITY  acceptThirdParty2.pre.accesskey "e">
+<!ENTITY  acceptThirdParty.always.label   "Toujours">
+<!ENTITY  acceptThirdParty.never.label    "Jamais">
+<!ENTITY  acceptThirdParty.visited.label  "Depuis les sites visités">
 
 <!ENTITY  keepUntil2.label              "Les conserver jusqu’à">
+<!ENTITY  keepUntil2.accesskey          "L">
 
-<!ENTITY  expire.label                  "leur expiration">
-<!ENTITY  close.label                   "la fermeture de &brandShortName;">
+<!ENTITY  expire.label                  "Leur expiration">
+<!ENTITY  close.label                   "La fermeture de &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Exceptions…">
 <!ENTITY  cookieExceptions.accesskey    "x">

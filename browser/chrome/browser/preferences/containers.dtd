@@ -18,7 +18,7 @@
 <!ENTITY icon2.label          "Icône">
 <!ENTITY icon2.accesskey      "I">
 <!ENTITY color2.label         "Couleur">
-<!ENTITY color2.accesskey     "C">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Terminer">
