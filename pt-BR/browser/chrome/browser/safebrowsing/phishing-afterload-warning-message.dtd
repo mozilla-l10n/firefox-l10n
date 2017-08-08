@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "A página da web localizada em <span id='phishing_sitename'/> foi reportada como sendo maliciosa e bloqueada baseando-se nas suas configurações de segurança.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Páginas maliciosas são feitas para convencê-lo a fazer algo perigoso, como instalar um programa ou revelar suas informações pessoais como senhas, números de telefone ou cartões de crédito.</p><p>Fornecer qualquer informação a esta página pode resultar em roubo de identidade ou outro tipo de fraude.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "O seguinte site pode conter malware">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "O Firefox bloqueou essa página por que pode tentar instalar aplicativos maliciosos ou excluir suas informações (por exemplo, fotos, senhas, mensagens e números de cartões de crédito).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
