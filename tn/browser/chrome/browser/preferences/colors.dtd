@@ -12,17 +12,17 @@
 
 
 <!ENTITY  color                           "Mafoko le Lemorago">
-<!ENTITY  textColor.label                 "Mafoko:">
-<!ENTITY  textColor.accesskey             "M">
-<!ENTITY  backgroundColor.label           "Lemorago:">
-<!ENTITY  backgroundColor.accesskey       "L">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Dirisa mebala ya tsamaiso">
 <!ENTITY  useSystemColors.accesskey       "i">
 
 <!ENTITY  underlineLinks.label            "Thalela digoke">
 <!ENTITY  underlineLinks.accesskey        "T">
 <!ENTITY  links                           "Gokaganya Mebala">
-<!ENTITY  linkColor.label                 "Digoke tse di sa Etelwang:">
-<!ENTITY  linkColor.accesskey             "D">
-<!ENTITY  visitedLinkColor.label          "Digoke tse di Etetsweng:">
-<!ENTITY  visitedLinkColor.accesskey      "D">
+
+
+
+

@@ -6,19 +6,16 @@
 
 
 
-<!ENTITY  size.label                              "Bogolo:">
 
 
 
-<!ENTITY  proportional.label                      "Lekalekanang:">
-<!ENTITY  proportional.accesskey                  "L">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monosepeisi:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
