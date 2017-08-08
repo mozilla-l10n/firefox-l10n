@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "प्राधिकार">
 <!ENTITY certmgr.tab.orphan2                  "अन्य">
 
-<!ENTITY certmgr.mine                         "आपके पास प्रमाणपत्र है इन संगठनों से जो कि आपको पहचानता है:">
-<!ENTITY certmgr.others                       "आपके पास प्रमाणपत्र है फाइल पर जो कि इन लोगों को पहचानता है:">
-<!ENTITY certmgr.websites2                    "आपके पास प्रमाणपत्र है फाइल पर जो कि इन सर्वर पहचानते हैं:">
-<!ENTITY certmgr.cas                          "आपके पास प्रमाणपत्र है फाइल पर जो कि ये प्रमाणपत्र प्राधिकारी इन्हें पहचानते हैं:">
-<!ENTITY certmgr.orphans                      "आपके पास प्रमाणपत्र है फाइल पर जो किसी श्रेणी में सटीक नहीं बैठते हैं:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "सामान्य">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
