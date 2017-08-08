@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
+
 <!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
