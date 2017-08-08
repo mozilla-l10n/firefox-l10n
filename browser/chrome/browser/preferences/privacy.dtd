@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "允許網站設定 Cookie">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "接受來自第三方的 Cookie:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty2.pre.label     "接受來自第三方的 Cookie">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "總是">
 <!ENTITY  acceptThirdParty.never.label    "永不">
 <!ENTITY  acceptThirdParty.visited.label  "造訪過的網站">
 
-<!ENTITY  keepUntil.label               "保留 Cookie 直到:">
-<!ENTITY  keepUntil.accesskey           "k">
+<!ENTITY  keepUntil2.label              "保留 Cookie 直到">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "Cookie 過期">
 <!ENTITY  close.label                   "關閉 &brandShortName;">
