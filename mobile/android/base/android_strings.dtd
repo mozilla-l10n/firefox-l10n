@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "वेब अनुकरणहरुलाई गृह पर्दामा थप्ने अनुमति दिनुहोस्">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "गतिविधि धारा">
-<!ENTITY pref_activity_stream_summary "पुरानो ईतिहासको धेरै तथ्याङ्क र पुनः संरचित गृह पृष्‍ठले &brandShortName; मा के खोज्नुभएको भन्ने हुबहु भेटाउन धेरै सजिलो बनाएको छ।">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
 <!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने वस्तुहरू रोक्नुहोस्।">
@@ -845,3 +841,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "स्वागत छ आफ्नो विशेषताहरूमा">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ले अब तपाईंले वेबमा फेला पार्नु भएको कुराहरू याद राख्छ, ताकि तपाईंले यहाँ भेट्नुभएका लेख, भिडियो, पुस्तकचिनोहरू सजिलै भेट्नुहोस्।">
+
+
+
+
