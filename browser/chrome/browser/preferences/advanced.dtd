@@ -139,7 +139,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "使用推荐的性能设置">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "这些设置是为您电脑的硬件与操作系统量身定制的。">
+                                         "最适合您的硬件和操作系统的设置。">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
