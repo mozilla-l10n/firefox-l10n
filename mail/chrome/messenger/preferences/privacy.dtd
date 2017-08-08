@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "E-postinnhald">
 
 <!ENTITY acceptRemoteContent.label "Tillat eksternt innhald i meldingar">
 <!ENTITY acceptRemoteContent.accesskey "T">
 <!ENTITY remoteContentExceptions.label "Unntak…">
 <!ENTITY remoteContentExceptions.accesskey "U">
-<!ENTITY acceptRemoteContentInfo.label "Les meir om personvernutfordringane ved eksternt innhald">
-<!-- Web Content -->
+<!ENTITY acceptRemoteContentInfo.label "Les meir om personvern-utfordringane ved eksternt innhald">
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Nettinnhald">
 
 <!ENTITY keepHistory.label "Hugs nettsider og lenker eg har besøkt">
@@ -23,16 +23,16 @@
 <!ENTITY acceptThirdParty.always.label "Alltid">
 <!ENTITY acceptThirdParty.never.label "Aldri">
 <!ENTITY acceptThirdParty.visited.label "Frå besøkte">
-<!ENTITY keepUntil.label "Ta vare på til:">
+<!ENTITY keepUntil.label "Ta vare på dei til:">
 <!ENTITY keepUntil.accesskey "e">
-<!ENTITY expire.label "dei går ut på dato">
-<!ENTITY close.label "eg lukkar &brandShortName;">
-<!ENTITY askEachTime.label "spør meg kvar gong">
+<!ENTITY expire.label "Dei går ut på dato">
+<!ENTITY close.label "Eg lukkar &brandShortName;">
+<!ENTITY askEachTime.label "Spør meg kvar gong">
 <!ENTITY cookieExceptions.label "Unntak…">
 <!ENTITY cookieExceptions.accesskey "U">
-<!ENTITY showCookies.label "Vis infokapslar …">
+<!ENTITY showCookies.label "Vis infokapslar…">
 <!ENTITY showCookies.accesskey "V">
 
-<!ENTITY dntTrackingNotOkay.label2 "Fortel nettsider at eg ikkje ønskjer å verta spora">
+<!ENTITY dntTrackingNotOkay.label2 "Fortel nettsider at eg ikkje ønskjer å verte spora">
 <!ENTITY dntTrackingNotOkay.accesskey "F">
 <!ENTITY doNotTrackInfo.label "Les meir om Sporingsval">
