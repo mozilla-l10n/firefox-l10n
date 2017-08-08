@@ -51,5 +51,8 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Четене">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Писане">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Отваряне на елемент">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Късо усреднение">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Дълго усреднение">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Дълго стандартно отклонение">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "Брой бавен кеш">
 <!ENTITY aboutNetworking.rcwnCacheNotSlow      "Брой не бавен кеш">

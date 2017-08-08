@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "с">
 <!ENTITY removeallpermissions2.label  "Премахване на всички уебсайтове">
 <!ENTITY removeallpermissions2.accesskey "в">
-<!ENTITY address.label                "Адрес на сайт:">
-<!ENTITY address.accesskey            "А">
+<!ENTITY address2.label               "Адрес на страница">
+<!ENTITY address2.accesskey           "д">
 <!ENTITY block.label                  "Забраняване">
 <!ENTITY block.accesskey              "З">
 <!ENTITY session.label                "Разрешаване за сесията">

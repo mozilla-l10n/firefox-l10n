@@ -109,7 +109,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Изключения…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "з">
 
-<!ENTITY offlineAppsList2.label          "На следните сайтове е позволено да съхраняват информация за работа извън мрежата:">
+<!ENTITY offlineAppsList2.label          "Страници с разрешение да съхраняват информация за работа извън мрежата:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Изчистване…">
 <!ENTITY offlineAppsListRemove.accesskey "И">

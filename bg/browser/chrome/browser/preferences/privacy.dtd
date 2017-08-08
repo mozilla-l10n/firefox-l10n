@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies2.accesskey      "б">
 
-<!ENTITY  acceptThirdParty.pre.label      "Разрешаване на бисквитки от трети страни:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "т">
+<!ENTITY  acceptThirdParty2.pre.label     "Разрешаване на бисквитки от трети страни">
+<!ENTITY  acceptThirdParty2.pre.accesskey "т">
 <!ENTITY  acceptThirdParty.always.label   "Винаги">
 <!ENTITY  acceptThirdParty.never.label    "Никога">
 <!ENTITY  acceptThirdParty.visited.label  "От посетените">
 
-<!ENTITY  keepUntil.label               "Пазене до:">
-<!ENTITY  keepUntil.accesskey           "П">
+<!ENTITY  keepUntil2.label              "Пазене до">
+<!ENTITY  keepUntil2.accesskey          "а">
 
 <!ENTITY  expire.label                  "загуба на валидност">
 <!ENTITY  close.label                   "затваряне на &brandShortName;">
