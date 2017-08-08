@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Aplicativos Web progressivos">
 <!ENTITY pref_pwa_summary "Permitir que aplicativos web sejam adicionados à tela inicial">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Fluxo de atividade">
-<!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil localizar exatamente o que está procurando no &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que não precise se preocupar.">
 <!ENTITY tracking_protection_prompt_tip_text "Visitar as configurações de privacidade para saber mais">
@@ -850,3 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bem-vindo aos seus Destaques">
 <!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que você descobriu na web para que possa encontrar o caminho de volta para grandes artigos, vídeos, favoritos e outras páginas.">
+
+<!ENTITY private_tab_panel_title "Navegação Privativa + Proteção Contra Rastreamento">
