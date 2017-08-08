@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "r">
 <!ENTITY removeallpermissions2.label  "Thoir air falbh a h-uile làrach-lìn">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Seòladh na làraich-lìn:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "Cuir bacadh air">
 <!ENTITY block.accesskey              "b">
 <!ENTITY session.label                "Ceadaich fad an t-seisein">

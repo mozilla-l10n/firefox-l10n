@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Chan ann idir">
 
 <!ENTITY  color                           "Teacsa is cùlaibh">
-<!ENTITY  textColor.label                 "Teacsa:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Cùlaibh:">
-<!ENTITY  backgroundColor.accesskey       "b">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Cleachd dathan an t-siostaim">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Cuir loidhne fo cheanglaichean">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Dathan nan ceangal">
-<!ENTITY  linkColor.label                 "Ceanglaichean gun tadhal orra:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Ceanglaichean a thadhladh orra:">
-<!ENTITY  visitedLinkColor.accesskey      "n">
+
+
+
+

@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Gabh ri briosgaidean o làraichean-lìn">
 <!ENTITY  acceptCookies2.accesskey      "a">
 
-<!ENTITY  acceptThirdParty.pre.label      "Gabh ri briosgaidean treas pàrtaidh:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "G">
+
 <!ENTITY  acceptThirdParty.always.label   "An-còmhnaidh">
 <!ENTITY  acceptThirdParty.never.label    "Chan ann idir">
 <!ENTITY  acceptThirdParty.visited.label  "O fheadhainn air an deach tadhal">
 
-<!ENTITY  keepUntil.label               "Cum gus:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "am falbh an ùine orra">
 <!ENTITY  close.label                   "an dùin mi &brandShortName;">

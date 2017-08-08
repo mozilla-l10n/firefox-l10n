@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Eachdraidh nan ùrachaidhean">
-<!ENTITY  history.intro             "Chaidh na h-ùrachaidhean a leanas a stàladh:">
+
 <!ENTITY  closebutton.label         "Dùin">
-                                     
+
 <!ENTITY  noupdates.label           "Cha deach ùrachadh a stàladh fhathast">
 
 <!ENTITY  name.header               "Ainm an ùrachaidh">
