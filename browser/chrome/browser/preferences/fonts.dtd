@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Fonturi">
 
-<!ENTITY  language.label                          "Fonturi pentru:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Mărime:">
+
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporțional:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Cu serife:">
-<!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "Fără serife:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospațiat:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetană">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mărime minimă a fontului:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "Fără">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
-<!ENTITY languages.customize.Fallback2.label      "Codare de rezervă pentru text:">
-<!ENTITY languages.customize.Fallback2.accesskey  "t">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.">
 
 <!ENTITY languages.customize.Fallback.auto        "Implicită pentru limba actuală">

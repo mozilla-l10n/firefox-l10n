@@ -109,7 +109,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepții…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Următoarele site-uri web au permisiunea de a stoca date pentru utilizare offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Elimină…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

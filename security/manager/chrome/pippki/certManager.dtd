@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Autorități">
 <!ENTITY certmgr.tab.orphan2                  "Extra">
 
-<!ENTITY certmgr.mine                         "Ai certificate de la aceste organizații care te identifică:">
-<!ENTITY certmgr.others                       "Ai stocate certificate care identifică aceste persoane:">
-<!ENTITY certmgr.websites2                    "Ai stocate certificate care identifică aceste servere:">
-<!ENTITY certmgr.cas                          "Ai stocate certificate care identifică aceste autorități de certificare:">
-<!ENTITY certmgr.orphans                      "Ai stocate certificate care nu se încadrează în niciuna dintre celelalte categorii:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

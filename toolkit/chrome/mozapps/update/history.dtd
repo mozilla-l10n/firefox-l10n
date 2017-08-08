@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Istoricul actualizărilor">
-<!ENTITY  history.intro             "S-au instalat următoarele actualizări:">
+
 <!ENTITY  closebutton.label         "Închide">
-                                     
+
 <!ENTITY  noupdates.label           "Nu s-a instalat nicio actualizare până acum">
 
 <!ENTITY  name.header               "Nume actualizare">

@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Detectează automat setările proxy-ului pentru această rețea">
 <!ENTITY  WPADTypeRadio.accesskey       "t">
-<!ENTITY  manualTypeRadio.label         "Configurare manuală a proxy-ului:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL pentru configurarea automată a proxy-ului:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+
+
+
+
 <!ENTITY  reload.label                  "Reîncarcă">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "Proxy FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Gazdă SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS cu SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Fără proxy pentru:">
-<!ENTITY  noproxy.accesskey             "n">
+
+
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
