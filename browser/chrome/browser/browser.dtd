@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -259,7 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ಉಪಕರಣಗಳು">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "ಈ ಹುಡುಕಾಟಕ್ಕೆ ಒಂದು ಮುಖ್ಯಪದವನ್ನು ಸೇರಿಸು...">
 <!ENTITY keywordfield.accesskey       "K">
@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ಪರೀಕ್ಷಕ ಘಟಕ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "ಕಡತ"> 
+<!ENTITY fileMenu.label         "ಕಡತ">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "ಹೊಸ ಕಂಟೇನರ್ ಟ್ಯಾಬ್">
 <!ENTITY newUserContext.accesskey         "b">
@@ -289,45 +289,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "ಹೊಸ Non-e10s ಕಿಟಕಿ">
 
-<!ENTITY editMenu.label         "ಸಂಪಾದನೆ"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "ಕತ್ತರಿಸು">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "ಪ್ರತಿ ಮಾಡು">  
+<!ENTITY editMenu.label         "ಸಂಪಾದನೆ">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "ರದ್ದು ಮಾಡು">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "ಮತ್ತೊಮ್ಮೆ ಮಾಡು">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "ಕತ್ತರಿಸು">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "ಪ್ರತಿ ಮಾಡು">
 
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "ಅಂಟಿಸು">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "ಅಳಿಸು">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "ಅಂಟಿಸು">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "ಅಳಿಸು">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "ಎಲ್ಲವನ್ನೂ ಆರಿಸು">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "ಆಯ್ಕೆಗಳು">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ಆದ್ಯತೆಗಳು">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "ನೋಟ"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "ಉಪಕರಣ ಪಟ್ಟಿಗಳು"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "ನೋಟ">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "ಉಪಕರಣ ಪಟ್ಟಿಗಳು">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ಬದಿಯ ಪಟ್ಟಿ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು..."> 
+<!ENTITY viewCustomizeToolbar.label       "ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 
@@ -520,7 +520,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ಆಯ್ಕೆಯ ಮೂಲವನ್ನು ನೋಡು">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML ಮೂಲವನ್ನು ನೋಡು">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "ಪುಟದ ಮೂಲವನ್ನು ನೋಡು">
@@ -587,7 +587,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "ಚಿತ್ರದ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ಚಿತ್ರವನ್ನು ಕಾಪಿ ಮಾಡು">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "ವೀಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ಆಡಿಯೋ ತಾಣವನ್ನು ಕಾಪಿ ಮಾಡು">
@@ -684,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ನಿರ್ಗಮಿಸು">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು"> 
+<!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "ತ್ಯಜಿಸು &brandShorterName;">
 
 
-<!ENTITY closeCmd.label                 "ಮುಚ್ಚು">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "ಮುಚ್ಚು">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">

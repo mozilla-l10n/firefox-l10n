@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ನಲ್ಲಿನ ಈ ಜಾಲ ಪುಟವು ಒಂದು ವಂಚಕ ತಾಣದ್ದೆಂದು ವರದಿಯಾಗಿದೆ ಮತ್ತು ನಿಮ್ಮ ಸುರಕ್ಷತಾ ಆದ್ಯತೆಗಳ ‍ಅನುಸಾರವಾಗಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ದಾಳಿಕಾರಕ ತಾಣಗಳು ನಿಮ್ಮನ್ನು ಮೋಸಗೊಳಿಸಿ ಹಾನಿಕಾರಕವಾದದ್ದನ್ನು ಮಾಡಿಸುತ್ತವೆ, ತಂತ್ರಾಂಶ ಅನುಸ್ಥಾಪನೆ, ಅಥವಾ ನಿಮ್ಮ ವೈಯುಕ್ತಿಕ ಮಾಹಿತಿ ತೆರೆದಿಡುವಂತೆಯೋ, ಗುಪ್ತಪದಗಳು, ಫೋನ್ ಸಂಖ್ಯೆಗಳು ಅಥವಾ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳಂತವು.</p><p>ಈ ಪುಟದಲ್ಲಿ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ಸೇರಿಸುವುದು ಗುರುತಿನ ಕಳ್ಳತನ ಅಥವಾ ಇತರೆ ವಂಚನೆಯಲ್ಲಿ ಕೊನೆಗೊಳ್ಳಬಹುದು.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

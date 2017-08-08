@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "ಅಕ್ಷರ ಶೈಲಿಗಳು">
 
-<!ENTITY  language.label                          "ಇದಕ್ಕಾಗಿನ ಅಕ್ಷರಶೈಲಿಗಳು:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "ಗಾತ್ರ:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "ಸರಿಯಾದ ಪ್ರಮಾಣದೊಂದಿಗೆ:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "ಸೆರಿಫ್:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "ಸಾನ್ಸ್‍-ಸೆರಿಫ್:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "ಮೋನೊಸ್ಪೇಸ್‍:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "ಸಿಂಹಳ">
 <!ENTITY  font.langGroup.tibetan                  "ಟಿಬೆಟಿಯನ್">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ಅಕ್ಷರದ ಕನಿಷ್ಠ  ಗಾತ್ರ:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "ಯಾವುದೂ ಇಲ್ಲ">
 <!-- default font type -->
 
@@ -64,8 +59,8 @@
 
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಟೆಕ್ಸ್ಟ್ ಎನ್ಕೋಡಿಂಗ್">
-<!ENTITY languages.customize.Fallback2.label      "ಹಿಮ್ಮರಳುವ Text ಎನ್ಕೋಡಿಂಗ್‌:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "ತಮ್ಮಲ್ಲಿರುವ ಎನ್ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಘೋಷಿಸದೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಈ ಕ್ಯಾರೆಕ್ಟರ್ ಎನ್ಕೋಡಿಂಗ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.">
 
 <!ENTITY languages.customize.Fallback.auto        "ಪ್ರಸಕ್ತ ಲೊಕ್ಯಾಲ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ">

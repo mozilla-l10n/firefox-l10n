@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "ಅಥಾರಿಟಿಗಳು">
 <!ENTITY certmgr.tab.orphan2                  "ಇತರರು">
 
-<!ENTITY certmgr.mine                         "ನಿಮ್ಮ ಬಳಿ ನಿಮ್ಮನ್ನು ಗುರುತಿಸುವಂತಹ ಸಂಸ್ಥೆಗಳಿಂದ ಬಂದ ಪ್ರಮಾಣಪತ್ರಗಳಿವೆ:">
-<!ENTITY certmgr.others                       "ನಿಮ್ಮ ಬಳಿ ಈ ಜನರನ್ನು ಗುರುತಿಸುವಂತಹ ಪ್ರಮಾಣಪತ್ರಗಳು ಕಡತದಲ್ಲಿ ಇವೆ:">
-<!ENTITY certmgr.websites2                    "ಕಡತದಲ್ಲಿ ಈ ಪರಿಚಾರಕಗಳನ್ನು ಗುರುತಿಸುವ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೀವು ಹೊಂದಿದ್ದೀರಿ:">
-<!ENTITY certmgr.cas                          "ಈ ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿಗಳಿಂದ ಗುರುತಿಸಲ್ಪಡುವ ಪ್ರಮಾಣಪತ್ರಗಳು ಕಡತದಲ್ಲಿವೆ:">
-<!ENTITY certmgr.orphans                      "ಕಡತದಲ್ಲಿ ಬೇರಾವುದೆ ವರ್ಗಗಳಿಗೆ ಸೇರದ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ನೀವು ಹೊಂದಿದ್ದೀರಿ:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "ಸಾಮಾನ್ಯ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
