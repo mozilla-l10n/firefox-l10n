@@ -4,22 +4,16 @@
 
 <!ENTITY  fontsDialog.title                       "შრიფტები">
 
-<!ENTITY  language.label                          "შრიფტები დამწერლობისთვის:">
-<!ENTITY  language.accesskey                      "შ">
+<!ENTITY  fonts.label                             "შრიფტები">
+<!ENTITY  fonts.accesskey                         "შ">
 
-<!ENTITY  size.label                              "ზომა:">
+<!ENTITY  size2.label                             "ზომა">
 <!ENTITY  sizeProportional.accesskey              "ზ">
 <!ENTITY  sizeMonospace.accesskey                 "გ">
 
-<!ENTITY  proportional.label                      "პროპორციული:">
-<!ENTITY  proportional.accesskey                  "პ">
+<!ENTITY  proportional2.label                     "ფარდობა">
+<!ENTITY  proportional2.accesskey                 "ფ">
 
-<!ENTITY  serif.label                             "ნაჭდევებიანი:">
-<!ENTITY  serif.accesskey                         "ნ">
-<!ENTITY  sans-serif.label                        "გროტესკი:">
-<!ENTITY  sans-serif.accesskey                    "გ">
-<!ENTITY  monospace.label                         "მონოსიგანის:">
-<!ENTITY  monospace.accesskey                     "მ">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +47,6 @@
 <!ENTITY  font.langGroup.sinhala                  "სინჰალა">
 <!ENTITY  font.langGroup.tibetan                  "ტიბეტური">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "შრიფტის უმცირესი ზომა:">
-<!ENTITY minSize.accesskey                        "ც">
 <!ENTITY minSize.none                             "შეუზღუდავი">
 
 <!-- default font type -->
@@ -65,8 +57,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "ნ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ტექსტის კოდირება მოძველებული შიგთავსითვის">
-<!ENTITY languages.customize.Fallback2.label      "ტექსტის სათადარიგო კოდირება:">
-<!ENTITY languages.customize.Fallback2.accesskey  "ტ">
 <!ENTITY languages.customize.Fallback2.desc       "ეს კოდირება გამოიყენება მოძველებული შიგთავსისთვის, რომელიც თავის კოდირების ვერ უთითებს.">
 
 <!ENTITY languages.customize.Fallback.auto        "არჩეული ენისთვის ნაგულისხმევი">
