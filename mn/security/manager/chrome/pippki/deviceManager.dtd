@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Та модульд нэмэх гэсэн мэдээллээ оруулна уу.">
-<!ENTITY loaddevice.modname                     "Модуль нэр:">
-<!ENTITY loaddevice.modname.accesskey           "М">
+
+
 <!ENTITY loaddevice.modname.default             "Шинэ PKCS#11 Модуль">
-<!ENTITY loaddevice.filename                    "Модулийн файлын нэр:">
-<!ENTITY loaddevice.filename.accesskey          "ф">
+
+
 <!ENTITY loaddevice.browse                      "Зааж өг…">
 <!ENTITY loaddevice.browse.accesskey            "З">
 

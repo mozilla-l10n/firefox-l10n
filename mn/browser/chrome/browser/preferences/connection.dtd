@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "е">
 <!ENTITY  WPADTypeRadio.label           "Энэ сүлжээний проксиг автоматаар тань">
 <!ENTITY  WPADTypeRadio.accesskey       "в">
-<!ENTITY  manualTypeRadio.label         "Прокси гар тохируулга:">
-<!ENTITY  manualTypeRadio.accesskey     "а">
-<!ENTITY  autoTypeRadio.label           "Автомат прокси тохируулах хаяг:">
-<!ENTITY  autoTypeRadio.accesskey       "п">
+
+
+
+
 <!ENTITY  reload.label                  "Дахин дууд">
 <!ENTITY  reload.accesskey              "а">
-<!ENTITY  ftp.label                     "FTP Прокси:">
-<!ENTITY  ftp.accesskey                 "F">
 
 
 
 
-<!ENTITY  socks.label                   "SOCKS Эзэн:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "Порт:">
+
 <!ENTITY  HTTPport.accesskey            "р">
 <!ENTITY  SSLport.accesskey             "п">
 <!ENTITY  FTPport.accesskey             "т">
 <!ENTITY  SOCKSport.accesskey           "о">
-<!ENTITY  noproxy.label                 "Прокси хэрэггүй хаяг:">
-<!ENTITY  noproxy.accesskey             "и">
+
+
 <!ENTITY  noproxyExplain.label          "Жишээ: .mozilla.org, .net.nz, 192.168.1.0/24">
 
 

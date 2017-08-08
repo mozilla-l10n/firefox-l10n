@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Үсгийн маяг">
 
-<!ENTITY  language.label                          "Үсгийн маяг:">
-<!ENTITY  language.accesskey                      "я">
 
-<!ENTITY  size.label                              "Хэмжээ:">
+
 <!ENTITY  sizeProportional.accesskey              "ж">
 <!ENTITY  sizeMonospace.accesskey                 "э">
 
-<!ENTITY  proportional.label                      "Харьцангуй:">
-<!ENTITY  proportional.accesskey                  "ь">
-
-<!ENTITY  serif.label                             "Сэриф:">
-<!ENTITY  serif.accesskey                         "С">
 
 
-<!ENTITY  monospace.label                         "Ижил зайтай:">
-<!ENTITY  monospace.accesskey                     "ж">
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Үсгийн бага хэмжээ:">
-<!ENTITY minSize.accesskey                        "ж">
+
 <!ENTITY minSize.none                             "Заагдаагүй">
 <!-- default font type -->
 

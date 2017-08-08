@@ -10,10 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Эрх">
 <!ENTITY certmgr.tab.orphan2                  "Бусад">
 
-<!ENTITY certmgr.others                       "Танд дараах хүмүүсийг таних файлд буй гэрчилгээ байна:">
-<!ENTITY certmgr.websites2                    "Танд эдгээр серверүүдийг таних гэрчилгээнүүдийг хадгалсан файл бий:">
-<!ENTITY certmgr.cas                          "Танд дараах гэрчилгээний эрхийг таних файлд буй гэрчилгээ байна:">
-<!ENTITY certmgr.orphans                      "Бусад гэрчилгээний аль ч төрөлд нь хамаарахгүй гэрчилгээнүүд таны файлд байна:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Ердийн">
 <!ENTITY certmgr.detail.general_tab.accesskey "р">
