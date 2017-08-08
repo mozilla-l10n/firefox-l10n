@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "E">
 <!ENTITY removeallpermissions2.label  "Suprimeix tots els llocs web">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Adreça del lloc web:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address2.label               "Adreça del lloc web">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Bloca">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permet durant la sessió">
