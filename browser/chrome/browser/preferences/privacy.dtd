@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Aceitar cookies de sites">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "f">
+<!ENTITY  acceptThirdParty2.pre.label     "Aceitar cookies de terceiros">
+<!ENTITY  acceptThirdParty2.pre.accesskey "a">
 <!ENTITY  acceptThirdParty.always.label   "Sempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "De sites visitados">
 
-<!ENTITY  keepUntil.label               "Preservar cookies até:">
-<!ENTITY  keepUntil.accesskey           "P">
+<!ENTITY  keepUntil2.label              "Manter até">
+<!ENTITY  keepUntil2.accesskey          "m">
 
 <!ENTITY  expire.label                  "expirarem">
 <!ENTITY  close.label                   "Sair do &brandShortName;">
