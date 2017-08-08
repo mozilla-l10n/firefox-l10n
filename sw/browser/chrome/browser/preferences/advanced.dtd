@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Mambo ya pekee…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "m">
 
-<!ENTITY offlineAppsList2.label          "Wavuti zifuatazo zinaruhusiwa kuhifadhi data ya matumizi ya nje ya mtandao:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ondoa…">
 <!ENTITY offlineAppsListRemove.accesskey "O">
