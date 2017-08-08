@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži bilješke izdanja za ovu dopunu">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij bilješke izdanja">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij bilješke izdanja za ovaj dodatak">
-
+<!ENTITY cmd.findReplacement.label            "Pronađi zamjenu">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -189,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ZASTARJELO">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -251,9 +252,11 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vodič">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Ne možete pronaći priključak koji tražite? Neke priključke &brandShortName; više ne podržava.">
+<!ENTITY pluginDeprecation.learnMore "Saznajte više.">
 
-
-
-
-
-
+<!ENTITY legacyWarning.description "Ne možete pronaći dodatak koji tražite? Neke dodatke &brandShortName; više ne podržava.">
+<!ENTITY legacyWarning.showLegacy "Prikaži zastarjele dodatke">
+<!ENTITY legacyExtensions.title "Zastarjeli dodaci">
+<!ENTITY legacyExtensions.description "Ovi dodaci ne zadovoljavaju trenutne &brandShortName; standarde te se isključeni.">
+<!ENTITY legacyExtensions.learnMore "Saznajte o promjenama u dodacima">

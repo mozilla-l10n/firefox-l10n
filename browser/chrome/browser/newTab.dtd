@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nova kartica">
-
+<!ENTITY newtab.customize.classic "Prikaz najpopularnijih stranica">
 <!ENTITY newtab.customize.cog.enhanced "Uključi predložene stranice">
 <!ENTITY newtab.customize.cog.title2 "KONTROLE NOVE KARTICE">
 <!ENTITY newtab.customize.cog.learn "Saznajte više o novoj kartici">

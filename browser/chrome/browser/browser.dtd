@@ -989,7 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Ponovno pokrenite za ažuriranje &brandShorterName;a">
 
 <!ENTITY pageActionButton.tooltip "Radnje na stranici">
+<!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
+<!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
 
-
-
-
+<!ENTITY sendToDevice.label2 "Pošalji na uređaj">
+<!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
