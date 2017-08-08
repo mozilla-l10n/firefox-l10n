@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "इतिहास अद्यतन  करू ">
-<!ENTITY  history.intro             "निम्न अद्यतन संस्थापित कएल गेल अछि:">
+
 <!ENTITY  closebutton.label         "बन्न करू">
-                                     
+
 <!ENTITY  noupdates.label           "कोनो अद्यतन अबतक संस्थापित नहि">
 
 <!ENTITY  name.header               "नाम अद्यतन करू ">
