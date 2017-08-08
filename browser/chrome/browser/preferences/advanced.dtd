@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "例外…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "以下网站已被允许存储供离线使用的数据：">
+<!ENTITY offlineAppsList3.label          "以下网站可以存储供离线使用的数据">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "移除…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

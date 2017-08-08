@@ -12,15 +12,14 @@
 <!ENTITY window.title         "添加新身份">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "名称：">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "名称">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "请输入身份名称">
-<!ENTITY icon.label           "图标：">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "颜色：">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "图标">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "颜色">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "完成">
 <!ENTITY button.ok.accesskey  "D">
-
