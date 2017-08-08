@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Aipeanna Gréasáin Forásacha">
 <!ENTITY pref_pwa_summary "Ceadaigh aipeanna Gréasáin ar an scáileán baile">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Sruth Gníomhaíochta">
-<!ENTITY pref_activity_stream_summary "Le stair shaibhir radharcach agus leathanach baile athdheartha, tá sé níos éasca ná riamh teacht ar an rud atá uait in &brandShortName;">
 
 <!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorgaireacht">
 <!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí lorgaireachta sa chaoi nach mbeidh imní ort.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Fáilte go dtí Buaicphointí">
 <!ENTITY activity_stream_welcome_content1 "Anois, cruthaíonn &brandShortName; buaicphointí as a bhfuil feicthe agat ar an nGréasán, ionas go mbeidh tú in ann filleadh ar altanna, físeáin, leabharmharcanna, nó leathanaigh iontacha eile gan mórán stró.">
+
+
+
+
