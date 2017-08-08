@@ -23,10 +23,10 @@
 
 
 <!ENTITY loaddevice.info                        "Faka lwati ngalemojuli lofuna kuyengeta.">
-<!ENTITY loaddevice.modname                     "Libito Lemojuli:">
+
 
 <!ENTITY loaddevice.modname.default             "Imojuli Lensha PKCS#11">
-<!ENTITY loaddevice.filename                    "Lifayelabito Lemojuli:">
+
 
 <!ENTITY loaddevice.browse                      "Sitfunguluti…">
 

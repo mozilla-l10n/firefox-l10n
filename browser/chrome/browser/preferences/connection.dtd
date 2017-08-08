@@ -14,33 +14,33 @@
 
 <!ENTITY  WPADTypeRadio.label           "Tinhlelo teproksi leyi-othodithekthi talenethiwekhi">
 <!ENTITY  WPADTypeRadio.accesskey       "t">
-<!ENTITY  manualTypeRadio.label         "Kulungiswa kweproksi Yekuphatfwa:">
-<!ENTITY  manualTypeRadio.accesskey     "K">
-<!ENTITY  autoTypeRadio.label           "Kulungiswa kweproksi Leyi-othomathiki I-URL:">
-<!ENTITY  autoTypeRadio.accesskey       "o">
-
-
-<!ENTITY  ftp.label                     "FTP Proksi:">
-<!ENTITY  ftp.accesskey                 "F">
 
 
 
 
-<!ENTITY  socks.label                   "Umvakashelwa SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 
 
-<!ENTITY  port.label                    "Sikhumulo:">
+
 
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Kute Iproksi ya:">
-<!ENTITY  noproxy.accesskey             "K">
+
+
 <!ENTITY  noproxyExplain.label          "Sibonelo: .mozilla.org, .net.za, 192.168.1.0/24">
 
 
