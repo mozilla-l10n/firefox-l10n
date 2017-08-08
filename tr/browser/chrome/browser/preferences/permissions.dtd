@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "S">
 <!ENTITY removeallpermissions2.label  "Tüm siteleri sil">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Site adresi:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address2.label               "Site adresi">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Engelle">
 <!ENTITY block.accesskey              "E">
 <!ENTITY session.label                "Oturum boyunca izin ver">

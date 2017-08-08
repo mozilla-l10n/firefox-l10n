@@ -47,14 +47,14 @@
 <!ENTITY  acceptCookies2.label          "Sitelerden çerezleri kabul et">
 <!ENTITY  acceptCookies2.accesskey      "S">
 
-<!ENTITY  acceptThirdParty.pre.label      "Üçüncü taraf çerezlerini kabul et:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty2.pre.label     "Üçüncü taraf çerezlerini kabul et">
+<!ENTITY  acceptThirdParty2.pre.accesskey "c">
 <!ENTITY  acceptThirdParty.always.label   "Her zaman">
 <!ENTITY  acceptThirdParty.never.label    "Asla">
 <!ENTITY  acceptThirdParty.visited.label  "Ziyaret edilenlerden">
 
-<!ENTITY  keepUntil.label               "Tutma sınırı:">
-<!ENTITY  keepUntil.accesskey           "T">
+<!ENTITY  keepUntil2.label              "Tutma sınırı">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "Süresi dolana dek">
 <!ENTITY  close.label                   "&brandShortName; kapatılana dek">

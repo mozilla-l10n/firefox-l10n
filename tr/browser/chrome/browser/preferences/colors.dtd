@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Asla">
 
 <!ENTITY  color                           "Metin ve arka plan">
-<!ENTITY  textColor.label                 "Metin:">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Arka plan:">
-<!ENTITY  backgroundColor.accesskey       "A">
+<!ENTITY  textColor2.label                "Metin">
+<!ENTITY  textColor2.accesskey            "M">
+<!ENTITY  backgroundColor2.label          "Arka plan">
+<!ENTITY  backgroundColor2.accesskey      "A">
 <!ENTITY  useSystemColors.label           "Sistem renklerini kullan">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
 <!ENTITY  underlineLinks.accesskey        "B">
 <!ENTITY  links                           "Bağlantı renkleri">
-<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
-<!ENTITY  visitedLinkColor.accesskey      "Z">
+<!ENTITY  linkColor2.label                "Ziyaret edilmemiş bağlantılar">
+<!ENTITY  linkColor2.accesskey            "Z">
+<!ENTITY  visitedLinkColor2.label         "Ziyaret edilmiş bağlantılar">
+<!ENTITY  visitedLinkColor2.accesskey     "a">
