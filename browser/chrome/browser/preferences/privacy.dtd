@@ -45,14 +45,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "त्रिपक्षीय कुकीज़ स्वीकारें:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 
 <!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण किए हुए से">
 
-<!ENTITY  keepUntil.label               "बनाए रखें:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "उनका समय समाप्त नहीं हो जाए">
 <!ENTITY  close.label                   "मैं &brandShortName; बंद करता हूँ">

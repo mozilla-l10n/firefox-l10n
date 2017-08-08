@@ -108,7 +108,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "निम्नलिखित वेबसाइट ऑफलाइन उपयोग के लिए आँकड़ा जमा करने में सक्षम है:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाएँ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

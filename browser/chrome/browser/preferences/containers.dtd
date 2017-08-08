@@ -11,15 +11,13 @@
 <!ENTITY window.title         "नया पात्र जोड़े">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "नाम:">
-<!ENTITY name.accesskey       "N">
+
 <!ENTITY name.placeholder     "एक पात्र का नाम प्रविष्ट करें">
-<!ENTITY icon.label           "प्रतीकः">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "रंगः">
-<!ENTITY color.accesskey      "o">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "कर दिया है">
 <!ENTITY button.ok.accesskey  "D">
-
