@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Fontes">
 
-<!ENTITY  language.label                          "Fontes para:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "Fontes para">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "Tamanho:">
+<!ENTITY  size2.label                             "Tamanho">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
-<!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcional">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Com serifa:">
-<!ENTITY  serif.accesskey                         "C">
-<!ENTITY  sans-serif.label                        "Sem serifa:">
-<!ENTITY  sans-serif.accesskey                    "S">
-<!ENTITY  monospace.label                         "Monoespaçada:">
-<!ENTITY  monospace.accesskey                     "o">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,6 @@
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tamanho mínimo permitido:">
-<!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
@@ -65,8 +63,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
-<!ENTITY languages.customize.Fallback2.label      "Codificação de texto secundária:">
-<!ENTITY languages.customize.Fallback2.accesskey  "C">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é usada para conteúdo legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Padrão do idioma atual">
