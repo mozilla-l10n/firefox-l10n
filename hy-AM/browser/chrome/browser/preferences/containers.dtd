@@ -11,15 +11,13 @@
 <!ENTITY window.title         "Ավելացնել նոր պարունակ">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Անվանումը.">
-<!ENTITY name.accesskey       "Ա">
+
 <!ENTITY name.placeholder     "Մուտքագրեք պարունակի անունը">
-<!ENTITY icon.label           "Պատկերակ․">
-<!ENTITY icon.accesskey       "Պ">
-<!ENTITY color.label          "Գույնը.">
-<!ENTITY color.accesskey      "ո">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Պատրաստ է">
 <!ENTITY button.ok.accesskey  "Պ">
-

@@ -108,7 +108,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Բացառություններ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ց">
 
-<!ENTITY offlineAppsList2.label          "Տվյալ կայքերին արտոնված է տվյալներ պահել՝ անցանց աշխատելու համար.">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ջնջել…">
 <!ENTITY offlineAppsListRemove.accesskey "Ջ">

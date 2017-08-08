@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Այս վեբ էջը <span id='phishing_sitename'/>- ում ներկայացված է որպես վեբ խաբուսիկ և այն արգելափակվել է համաձայն ձեր  անվտանգության կարգավորումների:">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Խաբուսիկ կայքերը նախագծված են դրդելու ձեզ կատարել վտանգավոր գործողություններ, ինչպես օրինակ տեղադրել ծրագրեր կամ ցուցադրել ձեր անձնական տեղեկությունները՝ գաղտնաբառեր, հեռախոսահամարներ կամ բանկային քարտեր:</p><p>Այս էջում ցանկացած տեղեկության մուտքագրումը կարող է հանգեցնել անձնական տվյալների կորստի կամ այլ վնասների:</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

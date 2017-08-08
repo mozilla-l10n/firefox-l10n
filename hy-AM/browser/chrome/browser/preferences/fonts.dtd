@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Տառատեսակներ">
 
-<!ENTITY  language.label                          "Տառատեսակներ՝">
-<!ENTITY  language.accesskey                      "Տ">
 
-<!ENTITY  size.label                              "Չափը.">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "ի">
 
-<!ENTITY  proportional.label                      "Համամասնորեն.">
-<!ENTITY  proportional.accesskey                  "Հ">
 
-<!ENTITY  serif.label                             "Գծիկավոր.">
-<!ENTITY  serif.accesskey                         "Գ">
-<!ENTITY  sans-serif.label                        "Հստակ-գծիկավոր.">
-<!ENTITY  sans-serif.accesskey                    "ս">
-<!ENTITY  monospace.label                         "Համաչափ.">
-<!ENTITY  monospace.accesskey                     "չ">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Սինգալյան">
 <!ENTITY  font.langGroup.tibetan                  "Թիբեթերեն">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Նվազագույն տառաչափը.">
-<!ENTITY minSize.accesskey                        "ա">
+
 <!ENTITY minSize.none                             "Չնշված">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Է">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Գրանշանի կոդավորումը տարբերանշանի բովանդակության համար">
-<!ENTITY languages.customize.Fallback2.label      "Վերականգնել Գրանշանների կոդավորումը.">
-<!ENTITY languages.customize.Fallback2.accesskey  "Գ">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Գրանշանի կոդավորումը օգտագործվում է այն տարբերանշանի բովանդակության համար, որը չի կարողանում որոշել իր կոդավորումը:">
 
 <!ENTITY languages.customize.Fallback.auto        "Ծրագրայինը տվյալ լեզվի համար">

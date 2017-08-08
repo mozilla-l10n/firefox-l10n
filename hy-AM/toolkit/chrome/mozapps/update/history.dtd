@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Թարմացման Մատյան">
-<!ENTITY  history.intro             "Հետևյալ թարմացումները տեղադրվել են.">
+
 <!ENTITY  closebutton.label         "Փակել">
-                                     
+
 <!ENTITY  noupdates.label           "Առայժմ թարմացումներ չեն տեղադրվել">
 
 <!ENTITY  name.header               "Թարմացման Անվանումը">
