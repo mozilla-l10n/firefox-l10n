@@ -661,8 +661,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "การป้องกันการติดตาม">
 <!ENTITY doorhanger_tracking_state_enabled "ถูกเปิดใช้งาน">
 <!ENTITY doorhanger_tracking_state_disabled "ถูกปิดใช้งาน">
-<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการตามรอยพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
-<!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจตามรอยการท่องเว็บของคุณ">
+<!ENTITY doorhanger_tracking_message_enabled1 "ความพยายามในการติดตามพฤติกรรมออนไลน์ของคุณถูกปิดกั้น">
+<!ENTITY doorhanger_tracking_message_disabled2 "หน้านี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "เรียนรู้เพิ่มเติม">
@@ -844,5 +844,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; สร้างรายการเด่นของสิ่งที่คุณได้ค้นพบบนเว็บเพื่อให้คุณสามารถกลับมาชมบทความ, วิดีโอ, ที่คั่นหน้า และหน้าอื่น ๆ ที่ยอดเยี่ยมได้">
 
-<!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการตามรอย">
+<!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการติดตาม">
+<!ENTITY private_tab_panel_description "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
 <!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
