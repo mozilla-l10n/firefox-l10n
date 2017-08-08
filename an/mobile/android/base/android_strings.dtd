@@ -296,10 +296,6 @@
 <!ENTITY custom_tabs_hint_url_copy "URL copiada">
 
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Fluxo d\u0027actividat">
-<!ENTITY pref_activity_stream_summary "Un alimentador d\u0027historial visual rico y una pachina d\u0027inicio reimachinada fan mas facil que trobes ixo que yes mirando en &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Agora con Protección contra Seguimiento">
 <!ENTITY tracking_protection_prompt_text "Blocar activament os elementos que faigan seguimiento de manera que no t\u0027has de preocupar.">
@@ -844,3 +840,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bienveniu a los tuyos Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; crea agora highlights de cosas que has descubierto en o web, pa que siga de buen tornar a trobar grans articlos, videos, marcapachinas y atras pachinas.">
+
+
+
+
