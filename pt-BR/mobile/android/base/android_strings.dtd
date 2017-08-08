@@ -848,3 +848,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que você descobriu na web para que possa encontrar o caminho de volta para grandes artigos, vídeos, favoritos e outras páginas.">
 
 <!ENTITY private_tab_panel_title "Navegação Privativa + Proteção Contra Rastreamento">
+<!ENTITY private_tab_panel_description "&brandShortName; bloqueia partes das páginas que podem rastrear suas atividades de navegação.">
+<!ENTITY private_tab_panel_description2 "Não guardaremos nenhum histórico, mas os arquivos baixados e novos favoritos ainda serão salvos no seu dispositivo.">
+<!ENTITY private_tab_learn_more "Deseja saber mais?">
