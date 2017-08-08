@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Web stranica <span id='phishing_sitename'/> je prijavljena kao obmanjujuća i blokirana je na temelju vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Obmanjujuće će vas stranice pokušati natjerati da napravite ono što inače ne biste, recimo da instalirate neki program ili otkrite osobne informacije poput lozinki, telefonskih brojeva ili brojeva kreditnih kartica.</p><p>Otkrivanjem bilo koje informacije na ovoj stranici može rezultirati krađom identiteta ili kojom drugom vrstom prijevare.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

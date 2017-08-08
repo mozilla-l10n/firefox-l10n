@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alati">
-<!ENTITY toolsMenu.accesskey          "t"> 
+<!ENTITY toolsMenu.accesskey          "t">
 
 <!ENTITY keywordfield.label           "Dodaj ključnu riječ za ovu pretragu...">
 <!ENTITY keywordfield.accesskey       "k">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ispitaj element">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Datoteka"> 
+<!ENTITY fileMenu.label         "Datoteka">
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nova sadržajna kartica">
 <!ENTITY newUserContext.accesskey         "d">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Novi non-e10s prozor">
 
-<!ENTITY editMenu.label         "Uredi"> 
-<!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Vrati">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "V"> 
-<!ENTITY redoCmd.label            "Ponovi">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "n"> 
-<!ENTITY cutCmd.label           "Izreži">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "r"> 
-<!ENTITY copyCmd.label            "Kopiraj">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Zalijepi">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "p"> 
-<!ENTITY deleteCmd.label          "Obriši">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "O"> 
-<!ENTITY selectAllCmd.label         "Označi sve">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY editMenu.label         "Uredi">
+<!ENTITY editMenu.accesskey       "e">
+<!ENTITY undoCmd.label            "Vrati">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "V">
+<!ENTITY redoCmd.label            "Ponovi">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "n">
+<!ENTITY cutCmd.label           "Izreži">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "r">
+<!ENTITY copyCmd.label            "Kopiraj">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Zalijepi">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "p">
+<!ENTITY deleteCmd.label          "Obriši">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "O">
+<!ENTITY selectAllCmd.label         "Označi sve">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Mogućnosti">
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Postavke">
-<!ENTITY preferencesCmdUnix.accesskey     "P"> 
+<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY clearRecentHistory.label               "Obriši nedavnu povijest…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Pogled"> 
-<!ENTITY viewMenu.accesskey       "g"> 
-<!ENTITY viewToolbarsMenu.label       "Alatne trake"> 
-<!ENTITY viewToolbarsMenu.accesskey     "t"> 
+<!ENTITY viewMenu.label         "Pogled">
+<!ENTITY viewMenu.accesskey       "g">
+<!ENTITY viewToolbarsMenu.label       "Alatne trake">
+<!ENTITY viewToolbarsMenu.accesskey     "t">
 <!ENTITY viewSidebarMenu.label "Bočna traka">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Prilagodi..."> 
+<!ENTITY viewCustomizeToolbar.label       "Prilagodi...">
 <!ENTITY viewCustomizeToolbar.accesskey     "l">
 <!ENTITY overflowCustomizeToolbar.label       "Prilagodi alatnu traku…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "a">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Prikaži izvorni kod odabranog">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Prikaži izvorni kod MathML-a">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Prikaži izvorni kod stranice">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopiraj lokaciju slike">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopiraj sliku">
-<!ENTITY copyImageContentsCmd.accesskey  "s"> 
+<!ENTITY copyImageContentsCmd.accesskey  "s">
 <!ENTITY copyVideoURLCmd.label        "Kopiraj lokaciju videa">
 <!ENTITY copyVideoURLCmd.accesskey    "v">
 <!ENTITY copyAudioURLCmd.label        "Kopiraj lokaciju zvuka">
@@ -695,13 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Zatvori &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Izlaz"> 
+<!ENTITY quitApplicationCmd.label       "Izlaz">
 <!ENTITY quitApplicationCmd.accesskey   "I">
 <!ENTITY quitApplicationCmdMac2.label   "Zatvori &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Zatvori">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zatvori">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
 <!ENTITY toggleMuteCmd.key              "M">

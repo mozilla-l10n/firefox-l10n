@@ -12,15 +12,13 @@
 <!ENTITY window.title         "Dodaj novi spremnik">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Naziv:">
-<!ENTITY name.accesskey       "N">
+
 <!ENTITY name.placeholder     "Unesite naziv spremnika">
-<!ENTITY icon.label           "Ikona:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Boja:">
-<!ENTITY color.accesskey      "o">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gotovo">
 <!ENTITY button.ok.accesskey  "G">
-

@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Otvaraj nove prozore u novim karticama">
 <!ENTITY newWindowsAsTabs.accesskey   "v">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Upozorava vas pri zatvaranju više kartica">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "v">
 
+<!ENTITY warnOnOpenManyTabs.label       "Upozorava vas kod višestrukog otvaranja kartica koje može usporiti &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "u">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Kada otvorite poveznicu u novoj kartici, odmah prijeđi na nju">
+<!ENTITY switchLinksToNewTabs.accesskey    "d">
 
 <!ENTITY showTabsInTaskbar.label          "Prikaži pretpregled kartica u Windows traci zadataka">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

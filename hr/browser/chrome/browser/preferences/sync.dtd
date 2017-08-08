@@ -6,25 +6,25 @@
 
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "Z">
-
-
+<!ENTITY engine.tabs.label2         "Otvorene kartice">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Povijest">
 <!ENTITY engine.history.accesskey   "j">
-
-
+<!ENTITY engine.logins.label        "Prijave">
+<!ENTITY engine.logins.accesskey    "P">
 <!ENTITY engine.prefs.label         "Osobitosti">
 <!ENTITY engine.prefs.accesskey     "O">
 <!ENTITY engine.addons.label        "Dodaci">
 <!ENTITY engine.addons.accesskey    "a">
-
-
-
-
+<!ENTITY engine.addresses.label     "Adrese">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Kreditne kartice">
+<!ENTITY engine.creditcards.accesskey "K">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Naziv uređaja">
-
-
+<!ENTITY changeSyncDeviceName2.label "Promijeni naziv uređaja…">
+<!ENTITY changeSyncDeviceName2.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Odustani">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Spremi">
@@ -54,23 +54,25 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Prijava">
 <!ENTITY signIn.accesskey            "P">
 <!ENTITY profilePicture.tooltip      "Primijeni sliku profila">
-
-
-
-
+<!ENTITY verifiedManage.label        "Upravljanje računom">
+<!ENTITY verifiedManage.accesskey    "u">
+<!ENTITY disconnect3.label           "Prekini vezu...">
+<!ENTITY disconnect3.accesskey       "k">
 <!ENTITY verify.label                "Potvrda e-pošte">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Zaboravi ovu adresu e-pošte">
 <!ENTITY forget.accesskey            "b">
 
+<!ENTITY signedOut.caption            "Ponesite vaš Web sa sobom">
 <!ENTITY signedOut.description        "Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.">
 <!ENTITY signedOut.accountBox.title   "Povežite se sa &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Stvori račun">
 <!ENTITY signedOut.accountBox.create.accesskey  "S">
-
+<!ENTITY signedOut.accountBox.signin  "Prijava">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
-
+<!ENTITY signedIn.settings.label       "Sync postavke">
+<!ENTITY signedIn.settings.description "Odaberite što sinkronizirati na vašim uređajima koji koriste &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
