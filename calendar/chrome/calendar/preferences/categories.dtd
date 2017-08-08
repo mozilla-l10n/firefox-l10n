@@ -15,7 +15,7 @@
 <!ENTITY pref.categories.editButton.accesskey "Р">
 <!ENTITY pref.categories.removeButton.label "Премахване">
 <!ENTITY pref.categories.removeButton.accesskey "П">
-<!ENTITY pref.categories.name.label "Име">
+<!ENTITY pref.categories.name.label "Наименование">
 <!ENTITY pref.categories.color.label "Цвят">
 <!ENTITY pref.categories.usecolor.label "Използване на цвят">
 <!ENTITY pref.categories.none.label "(няма)">
