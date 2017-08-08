@@ -11,15 +11,13 @@
 <!ENTITY window.title         "Ouzhpennañ un endalc'her nevez">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Anv:">
-<!ENTITY name.accesskey       "A">
+
 <!ENTITY name.placeholder     "Enankit anv un endalc'her">
-<!ENTITY icon.label           "Arlun:">
-<!ENTITY icon.accesskey       "r">
-<!ENTITY color.label          "Liv:">
-<!ENTITY color.accesskey      "L">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Mat eo">
 <!ENTITY button.ok.accesskey  "M">
-

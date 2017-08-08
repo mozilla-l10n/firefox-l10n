@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Nodrezhoù">
 
-<!ENTITY  language.label                          "Nodrezhoù evit :">
-<!ENTITY  language.accesskey                      "N">
 
-<!ENTITY  size.label                              "Ment :">
+
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Kenfeur :">
-<!ENTITY  proportional.accesskey                  "K">
 
-<!ENTITY  serif.label                             "Serif :">
-<!ENTITY  serif.accesskey                         "f">
-<!ENTITY  sans-serif.label                        "Hep-serif:">
-<!ENTITY  sans-serif.accesskey                    "H">
-<!ENTITY  monospace.label                         "Unegor :">
-<!ENTITY  monospace.accesskey                     "U">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetaneg">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Ment izek an nodrezh :">
-<!ENTITY minSize.accesskey                        "t">
+
 <!ENTITY minSize.none                             "Tra ebet">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Bonegañ an arouezennoù evit an endalc'hadoù diamzeret">
-<!ENTITY languages.customize.Fallback2.label      "Bonegañ an destenn dre ziouer : ">
-<!ENTITY languages.customize.Fallback2.accesskey  "d">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.">
 
 <!ENTITY languages.customize.Fallback.auto        "Diouer evit ar yezh vremanel">

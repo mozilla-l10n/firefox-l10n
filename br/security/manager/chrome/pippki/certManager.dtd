@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       " Aotrouniezhoù">
 <!ENTITY certmgr.tab.orphan2                  "Re all">
 
-<!ENTITY certmgr.mine                         "Testenioù hoc'h eus a-berzh an aozadurioù-mañ oc'h anaout ac'hanoc'h :">
-<!ENTITY certmgr.others                       "Testenioù ho peus diwar-benn an dud da-heul :">
-<!ENTITY certmgr.websites2                    "Testenioù ho peus diwar-benn an dafariadoù da-heul :">
-<!ENTITY certmgr.cas                          "Testenioù hoc'h eus er restr oc'h anaout an aotrouniezh testeniañ-mañ :">
-<!ENTITY certmgr.orphans                      "Testenioù hoc'h eus war ar restr nad ont kevatal da rummadoù all ebet :">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Hollek">
 <!ENTITY certmgr.detail.general_tab.accesskey "H">

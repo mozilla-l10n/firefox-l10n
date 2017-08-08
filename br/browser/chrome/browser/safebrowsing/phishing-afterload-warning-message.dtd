@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Marilhet eo bet ar bajenn-mañ e <span id='phishing_sitename'/> evel ur bajenn c'hwiberezh ha harzet eo bet gant ho kwellvezioù diogelroez.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Savet eo al lec'hiennoù tagus evit touellañ ac'hanoc'h hag ober traoù dañjerus, staliañ meziantoù pe lenn ho roadennoù personel (gerioù-tremen, niverennoù pellgomz, kartennoù kred, hag all)</p><p>Gallout a rafec'h bezañ tizhet gant ul laeroñsi pivelezh pe kudennoù all ma roit titouroù d'ar bajenn-mañ.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

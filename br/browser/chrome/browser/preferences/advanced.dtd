@@ -106,7 +106,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Nemedennoù…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "m">
 
-<!ENTITY offlineAppsList2.label          "Aotreet eo al lec'hiennoù da heul da gadaviñ roadennoù evit un arver ezlinenn :">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Dilemel…">
 <!ENTITY offlineAppsListRemove.accesskey "D">
