@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "ფუნთუშების მიღება საიტებიდან">
 <!ENTITY  acceptCookies2.accesskey      "ფ">
 
-<!ENTITY  acceptThirdParty.pre.label      "მესამე მხარის ფუნთუშების მიღება:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ღ">
+<!ENTITY  acceptThirdParty2.pre.label     "მესამე მხარის ფუნთუშების მიღება">
+<!ENTITY  acceptThirdParty2.pre.accesskey "ხ">
 <!ENTITY  acceptThirdParty.always.label   "ყოველთვის">
 <!ENTITY  acceptThirdParty.never.label    "არასდროს">
 <!ENTITY  acceptThirdParty.visited.label  "მხოლოდ მონახულებულიდან">
 
-<!ENTITY  keepUntil.label               "შენახვა სანამ:">
-<!ENTITY  keepUntil.accesskey           "ს">
+<!ENTITY  keepUntil2.label              "შენახვა სანამ">
+<!ENTITY  keepUntil2.accesskey          "ს">
 
 <!ENTITY  expire.label                  "ვადა გაუვა">
 <!ENTITY  close.label                   "&brandShortName; დაიხურება">

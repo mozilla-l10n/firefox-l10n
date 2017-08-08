@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ვებგვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>თაღლითური საიტები შექმნილია, რომ მოტყუებით გაგაკეთებინოთ ისეთი სახიფათო ქმედებები, როგორიცაა არასასურველი პროგრამის დაყენება, ან თქვენი პირადი მონაცემების, პაროლების, ტელეფონის ნომრების და საკრედიტო ბარათების გამჟღავნება.</p><p>ამ ვებგვერდზე ნებისმიერი სახის ინფორმაციის შეყვანით, შესაძლოა ქურდობის ან თაღლითობის მსხვერპლი გახდეთ.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "ეს საიტი შესაძლოა მავნე კოდს შეიცავდეს">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox-მა შეზღუდა ეს გვერდი, რადგან ცდილობდა საშიში პროგრამის დაყენებას, რომელსაც თქვენი მონაცემების მოპარვა ან დაზიანება შეეძლო (მაგალითად, ფოტოების, პაროლების, შეტყობინებების და საკრედიტო ბარათების).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
