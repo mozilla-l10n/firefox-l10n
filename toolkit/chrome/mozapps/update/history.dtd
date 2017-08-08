@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "更新历史">
-<!ENTITY  history.intro             "以下更新已被安装：">
+<!ENTITY  history2.intro            "以下更新已被安装">
 <!ENTITY  closebutton.label         "关闭">
-                                     
+
 <!ENTITY  noupdates.label           "还没有安装过更新">
 
 <!ENTITY  name.header               "更新名称">
