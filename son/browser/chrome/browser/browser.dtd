@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Goyjinawey">
-<!ENTITY toolsMenu.accesskey          "G"> 
+<!ENTITY toolsMenu.accesskey          "G">
 
 <!ENTITY keywordfield.label           "Kufalkalima foo tonton ceeciroo woo se…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Haya-ize koroši">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Tuku"> 
+<!ENTITY fileMenu.label         "Tuku">
 <!ENTITY fileMenu.accesskey       "T">
 <!ENTITY newUserContext.label             "Diikaw kanji taaga">
 <!ENTITY newUserContext.accesskey         "k">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "z">
 <!ENTITY newNonRemoteWindow.label   "Manti-e10s zanfun taaga">
 
-<!ENTITY editMenu.label         "Fasal"> 
-<!ENTITY editMenu.accesskey       "F"> 
-<!ENTITY undoCmd.label            "Taafeeri">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "T"> 
-<!ENTITY redoCmd.label            "Tee taaga">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "T"> 
-<!ENTITY cutCmd.label           "Dunbu">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "D"> 
-<!ENTITY copyCmd.label            "Berandi">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "B"> 
-<!ENTITY pasteCmd.label           "Dobu">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "D"> 
-<!ENTITY deleteCmd.label          "Tuusu">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "T"> 
-<!ENTITY selectAllCmd.label         "Kul suuba">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "K"> 
+<!ENTITY editMenu.label         "Fasal">
+<!ENTITY editMenu.accesskey       "F">
+<!ENTITY undoCmd.label            "Taafeeri">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "T">
+<!ENTITY redoCmd.label            "Tee taaga">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "T">
+<!ENTITY cutCmd.label           "Dunbu">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "D">
+<!ENTITY copyCmd.label            "Berandi">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "B">
+<!ENTITY pasteCmd.label           "Dobu">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "D">
+<!ENTITY deleteCmd.label          "Tuusu">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "T">
+<!ENTITY selectAllCmd.label         "Kul suuba">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "K">
 <!ENTITY preferencesCmd2.label       "Suubarey">
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Ibaayey">
-<!ENTITY preferencesCmdUnix.accesskey     "I"> 
+<!ENTITY preferencesCmdUnix.accesskey     "I">
 
 <!ENTITY clearRecentHistory.label               "Taariki kokorante tuusu…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Gunari"> 
-<!ENTITY viewMenu.accesskey       "G"> 
-<!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey"> 
-<!ENTITY viewToolbarsMenu.accesskey     "G"> 
+<!ENTITY viewMenu.label         "Gunari">
+<!ENTITY viewMenu.accesskey       "G">
+<!ENTITY viewToolbarsMenu.label       "Goyjinay žeerey">
+<!ENTITY viewToolbarsMenu.accesskey     "G">
 <!ENTITY viewSidebarMenu.label "Cerawžeeri">
 <!ENTITY viewSidebarMenu.accesskey "C">
-<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se…"> 
+<!ENTITY viewCustomizeToolbar.label       "Hanse war boŋ se…">
 <!ENTITY viewCustomizeToolbar.accesskey     "H">
 
 
@@ -523,7 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "d">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Suubari aššil guna">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML Source guna">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Moo aššil guna">
@@ -590,7 +590,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Biyoo dogoo berandi">
 <!ENTITY copyImageCmd.accesskey       "b">
 <!ENTITY copyImageContentsCmd.label   "Biyoo berandi">
-<!ENTITY copyImageContentsCmd.accesskey  "b"> 
+<!ENTITY copyImageContentsCmd.accesskey  "b">
 <!ENTITY copyVideoURLCmd.label        "Widewo dogoo berandi">
 <!ENTITY copyVideoURLCmd.accesskey    "b">
 <!ENTITY copyAudioURLCmd.label        "Jindetukoo dogoo berandi">
@@ -687,13 +687,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Fatta &brandShorterName; ra">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Fatta"> 
+<!ENTITY quitApplicationCmd.label       "Fatta">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Fatta &brandShorterName; ra">
 
 
-<!ENTITY closeCmd.label                 "Daabu">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Daabu">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "D">
 
 <!ENTITY toggleMuteCmd.key              "M">

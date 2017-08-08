@@ -108,7 +108,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Hasarawey…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "a">
 
-<!ENTITY offlineAppsList2.label          "Interneti nungey wey duu fondo ka bayhayey jiši bila-nda-ciyari goyyan se:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kaa…">
 <!ENTITY offlineAppsListRemove.accesskey "K">

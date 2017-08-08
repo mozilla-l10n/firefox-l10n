@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Hiney">
 <!ENTITY certmgr.tab.orphan2                  "Waaney">
 
-<!ENTITY certmgr.mine                         "War ga tabatiyan-tiirayaŋ may goykondawey wey kaŋ war tammaasa:">
-<!ENTITY certmgr.others                       "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka borey wey tammaasa:">
-<!ENTITY certmgr.websites2                    "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka feršikey wey tammaasa:">
-<!ENTITY certmgr.cas                          "War ga tabatiyan-tiira jisantayaŋ may kaŋ ka tabatiyan-tiira hiney wey tammaasa:">
-<!ENTITY certmgr.orphans                      "War ga tabatiyan-tiira jisantayaŋ may kaŋyaŋ ši tenji nda kuray cindey affoo kul:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Hankul">
 <!ENTITY certmgr.detail.general_tab.accesskey "H">

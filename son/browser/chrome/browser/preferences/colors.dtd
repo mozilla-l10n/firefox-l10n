@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Abada">
 
 <!ENTITY  color                           "Kalimaɲaa kuru nda bandafaari">
-<!ENTITY  textColor.label                 "Kalimaɲaa kuru:">
-<!ENTITY  textColor.accesskey             "K">
-<!ENTITY  backgroundColor.label           "Bandafaari:">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Dabariɲaa noonawey goyandi">
 <!ENTITY  useSystemColors.accesskey       "D">
 
 <!ENTITY  underlineLinks.label            "Dobey cire žeeri">
 <!ENTITY  underlineLinks.accesskey        "D">
 <!ENTITY  links                           "Dobu noonawey">
-<!ENTITY  linkColor.label                 "Dobey kaŋ ši diyandi:">
-<!ENTITY  linkColor.accesskey             "D">
-<!ENTITY  visitedLinkColor.label          "Dobu diyantey:">
-<!ENTITY  visitedLinkColor.accesskey      "D">
+
+
+
+

@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Interneti moɲoo woo <span id='phishing_sitename'/> ga ga bayrandi ka tee darga moo nda a gagayndi war saajaw ibaayey bande.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Darga nungey n' ka tee ka war darga ka mise laala tee, sanda ka porogaram sinji wala ka war boŋ gundu alhabar bangandi, sanda šennikufal, talfon lanba wala garaw katta.</p><p>Nda war n'alhabar tana dam interneti moɲoo woo ga boro tana ga hin ka war tammaasawey zay wal'a ma war zanba.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

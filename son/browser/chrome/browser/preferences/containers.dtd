@@ -11,15 +11,13 @@
 <!ENTITY window.title         "Sun taaga tonton">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Maa:">
-<!ENTITY name.accesskey       "M">
+
 <!ENTITY name.placeholder     "Sun maa dam">
-<!ENTITY icon.label           "Bii:">
-<!ENTITY icon.accesskey       "i">
-<!ENTITY color.label          "Noone:">
-<!ENTITY color.accesskey      "o">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "A ben">
 <!ENTITY button.ok.accesskey  "b">
-

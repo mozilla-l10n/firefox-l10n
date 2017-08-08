@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Šenney">
-<!ENTITY languages.customize.description                "Cee fooyaŋ interneti moɲey goo šenni booboyaŋ ra. Moɲey šenney suuba ga nungey wey cebe, war ibaayoo bande:">
+
 <!ENTITY languages.customize.moveUp.label               "Zijandi">
 <!ENTITY languages.customize.moveUp.accesskey           "Z">
 <!ENTITY languages.customize.moveDown.label             "Zumandi">

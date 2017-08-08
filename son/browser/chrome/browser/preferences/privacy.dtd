@@ -45,14 +45,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Doo-waaney aleewawey taa:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Abada">
 <!ENTITY  acceptThirdParty.visited.label  "Kaŋ gunandi">
 
-<!ENTITY  keepUntil.label               "Gaabu hala:">
-<!ENTITY  keepUntil.accesskey           "h">
+
 
 <!ENTITY  expire.label                  "ngi waatoo ga ben">
 <!ENTITY  close.label                   "Ay ga &brandShortName; daabu">
