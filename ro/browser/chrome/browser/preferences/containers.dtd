@@ -12,15 +12,13 @@
 <!ENTITY window.title         "Adaugă un nou container">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nume:">
-<!ENTITY name.accesskey       "N">
+
 <!ENTITY name.placeholder     "Introdu un nume pentru container">
-<!ENTITY icon.label           "Pictogramă:">
-<!ENTITY icon.accesskey       "i">
-<!ENTITY color.label          "Culoare:">
-<!ENTITY color.accesskey      "l">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Terminat">
 <!ENTITY button.ok.accesskey  "D">
-

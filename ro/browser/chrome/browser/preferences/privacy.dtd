@@ -48,14 +48,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Acceptă cookie-uri terțe:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
 <!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
 
-<!ENTITY  keepUntil.label               "Păstrează-le până când:">
-<!ENTITY  keepUntil.accesskey           "u">
+
 
 <!ENTITY  expire.label                  "expiră">
 <!ENTITY  close.label                   "închid &brandShortName;">
