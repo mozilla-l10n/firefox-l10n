@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Zadejte informace o modulu, který chcete přidat.">
-<!ENTITY loaddevice.modname                     "Jméno modulu:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname2                    "Název modulu">
+<!ENTITY loaddevice.modname2.accesskey          "m">
 <!ENTITY loaddevice.modname.default             "Nový modul PKCS#11">
-<!ENTITY loaddevice.filename                    "Název souboru modulu:">
-<!ENTITY loaddevice.filename.accesskey          "N">
+<!ENTITY loaddevice.filename2                   "Název souboru modulu">
+<!ENTITY loaddevice.filename2.accesskey         "N">
 <!ENTITY loaddevice.browse                      "Procházet…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 

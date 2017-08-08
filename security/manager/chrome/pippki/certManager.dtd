@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autority">
 <!ENTITY certmgr.tab.orphan2                  "Ostatní">
 
-<!ENTITY certmgr.mine                         "Pro vaši osobní identifikaci jsou dostupné tyto certifikáty:">
-<!ENTITY certmgr.others                       "Pro identifikaci ostatních lidí jsou dostupné tyto certifikáty:">
-<!ENTITY certmgr.websites2                    "Pro identifikaci serverů jsou dostupné tyto certifikáty:">
-<!ENTITY certmgr.cas                          "Pro identifikaci certifikačních autorit jsou dostupné tyto certifikáty:">
-<!ENTITY certmgr.orphans                      "Tyto dostupné certifikáty nepatří do žádné z předchozích skupin:">
+<!ENTITY certmgr.mine2                        "Pro vaši osobní identifikaci jsou dostupné tyto certifikáty">
+<!ENTITY certmgr.others2                      "Pro identifikaci ostatních lidí jsou dostupné tyto certifikáty">
+<!ENTITY certmgr.websites3                    "Pro identifikaci serverů jsou dostupné tyto certifikáty">
+<!ENTITY certmgr.cas2                         "Pro identifikaci certifikačních autorit jsou dostupné tyto certifikáty">
+<!ENTITY certmgr.orphans2                     "Tyto dostupné certifikáty nepatří do žádné z předchozích skupin">
 
 <!ENTITY certmgr.detail.general_tab.title     "Obecné">
 <!ENTITY certmgr.detail.general_tab.accesskey "O">
