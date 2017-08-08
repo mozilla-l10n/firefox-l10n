@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Emoĩnge marandu vore rembojuapysévape g̃uarã.">
-<!ENTITY loaddevice.modname                     "Ha'ãha réra:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "Ha'ãha pyahu PKCS#11">
-<!ENTITY loaddevice.filename                    "Marandurenda ra'ãha:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Poravo…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

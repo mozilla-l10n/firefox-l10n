@@ -115,7 +115,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Oĩ'ỹva">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Ko'ã ñanduti renda oguereko moneĩ oñongatúvo mba'ekuaarã jeikekatu'ỹre ojepuru hag̃ua:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Mboguete…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

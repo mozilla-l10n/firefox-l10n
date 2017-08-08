@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Ko ñanduti kuatiarogue <span id='phishing_sitename'/> ojehecha peteĩ ñanduti ra'angareíramo ha ojejokóma hembiapoite hekotee'ỹgui.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tenda hekomarãva ojejapo ikatu hag̃ua nembotavy ha ejapo mba'e ivaíva, software ñemohenda, térã oikuaauka ne maranduete, ko'ãva ha'e ñe'ẽñemi, pumbyry papapy térã tarjeta ñemurãva.</p><p>Oimeraẽva marandu ñemoinge ko ñanduti kuatiarogue pegua ikatu ombohape nde reraite ñemonda térã ambue mba'evai.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

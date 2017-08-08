@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Moakãhára">
 <!ENTITY certmgr.tab.orphan2                  "Ambue">
 
-<!ENTITY certmgr.mine                         "Oguereko mboajepyréva ko'ã atyguasúpe omoha'eñóva:">
-<!ENTITY certmgr.others                       "Eguereko mboajepyréva marandurendápe oikuaaporãva ko'ã tapicha:">
-<!ENTITY certmgr.websites2                    "Eguereko mboajepyréva marandurendápe oikuaaporãva ko'ã mohendahavusúpe:">
-<!ENTITY certmgr.cas                          "Oguereko mboajepyréva marandurendápe omoha'eñóva ko'ã moakãhára mboajehára.">
-<!ENTITY certmgr.orphans                      "Oguereko mboajepyréva marandurendápe ndojupytýiva mavavetéva ndive:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Opavavetépe">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

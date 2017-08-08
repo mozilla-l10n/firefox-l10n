@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Ñe'ẽita ha tai mbopapapy">
-<!ENTITY languages.customize.description                "Ñanduti kuatiarogue sapy'ánte oñekuave'ẽ ndaha'éi peteĩ ñe'ẽme añónte. Eiporavo ñe'ẽnguéra ojehecha hag̃ua ko'ã ñanduti kuatiarogue, jerohoryvéva rupi:">
+
 <!ENTITY languages.customize.moveUp.label               "Jupi">
 <!ENTITY languages.customize.moveUp.accesskey           "J">
 <!ENTITY languages.customize.moveDown.label             "Mboguejy">
