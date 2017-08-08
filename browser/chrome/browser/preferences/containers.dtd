@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Нов изолатор">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Име:">
-<!ENTITY name.accesskey       "И">
+<!ENTITY name2.label          "Наименование">
+<!ENTITY name2.accesskey      "н">
 <!ENTITY name.placeholder     "Въведете име на изолатор">
-<!ENTITY icon.label           "Пиктограма:">
-<!ENTITY icon.accesskey       "П">
-<!ENTITY color.label          "Цвят:">
-<!ENTITY color.accesskey      "Ц">
+<!ENTITY icon2.label          "Пиктограма">
+<!ENTITY icon2.accesskey      "п">
+<!ENTITY color2.label         "Цвят">
+<!ENTITY color2.accesskey     "ц">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Готово">
 <!ENTITY button.ok.accesskey  "Г">
-
