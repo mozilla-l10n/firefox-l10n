@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "P">
 <!ENTITY removeallpermissions2.label  "Pašalinti visas svetaines">
 <!ENTITY removeallpermissions2.accesskey "v">
-<!ENTITY address.label                "Svetainės adresas:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "Neleisti">
 <!ENTITY block.accesskey              "N">
 <!ENTITY session.label                "Leisti vienam seansui">

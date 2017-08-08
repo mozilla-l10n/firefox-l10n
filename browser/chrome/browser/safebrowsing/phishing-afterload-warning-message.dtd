@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Yra pranešta, jog tinklalapis adresu <span id='phishing_sitename'/> yra apgaulingas, tad jis užblokuotas remiantis jūsų saugumo nuostatomis.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Apgaulingos svetainės yra sukurtos siekiant priversti jus atlikti kažką pavojingo, pvz., įsidiegti programinę įrangą ar atskleisti asmeninius duomenis (slaptažodžius, telefono numerius, banko kortelių duomenis).</p><p>Šiame tinklalapyje įvesdami bet kokią informaciją rizikuojate tapti tapatybės vagystės ar kitos apgaulės auka.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

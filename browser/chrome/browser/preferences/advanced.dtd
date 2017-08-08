@@ -115,7 +115,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Išimtys…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "I">
 
-<!ENTITY offlineAppsList2.label          "Šioms svetainėms leista įrašyti darbui neprisijungus prie tinklo reikalingų duomenų:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Pašalinti…">
 <!ENTITY offlineAppsListRemove.accesskey "š">
