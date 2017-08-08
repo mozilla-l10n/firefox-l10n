@@ -135,13 +135,13 @@ available. -->
 
 <!ENTITY performance.label               "Performanse">
 <!ENTITY useRecommendedPerformanceSettings2.label "Koriste preporučene postavke performansi">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Ove postavke su skrojene za vaš hardver i operativni sustav.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "u">
-
-
-
-
-
-
+<!ENTITY performanceSettingsLearnMore.label "Saznajte više">
+<!ENTITY limitContentProcessOption.label "Granice procesiranja sadržaja">
+<!ENTITY limitContentProcessOption.description "Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.">
+<!ENTITY limitContentProcessOption.accesskey   "G">
+<!ENTITY limitContentProcessOption.disabledDescription "Izmjena broja procesa sadržaja je moguća samo s višeprocesnim &brandShortName;om.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Saznajte kako provjeriti da li je više procesa omogućeno.">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">
