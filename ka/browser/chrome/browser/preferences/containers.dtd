@@ -12,15 +12,14 @@
 <!ENTITY window.title         "ახალი სათავსის დამატება">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "სახელი:">
-<!ENTITY name.accesskey       "ს">
+<!ENTITY name2.label          "სახელი">
+<!ENTITY name2.accesskey      "ს">
 <!ENTITY name.placeholder     "შეიყვანეთ სათავსის სახელი">
-<!ENTITY icon.label           "ხატულა:">
-<!ENTITY icon.accesskey       "ხ">
-<!ENTITY color.label          "ფერი:">
-<!ENTITY color.accesskey      "ფ">
+<!ENTITY icon2.label          "ხატულა">
+<!ENTITY icon2.accesskey      "ხ">
+<!ENTITY color2.label         "ფერი">
+<!ENTITY color2.accesskey     "ფ">
 <!ENTITY windowClose.key      "დ">
 
 <!ENTITY button.ok.label      "მზადაა">
 <!ENTITY button.ok.accesskey  "მ">
-
