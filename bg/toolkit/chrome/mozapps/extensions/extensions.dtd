@@ -167,7 +167,7 @@
 
 
 <!-- list sorting -->
-<!ENTITY sort.name.label                      "Име">
+<!ENTITY sort.name.label                      "Наименование">
 <!ENTITY sort.name.tooltip                    "Сортиране по име">
 <!ENTITY sort.dateUpdated.label               "Последно обновяване">
 <!ENTITY sort.dateUpdated.tooltip             "Сортиране по дата на обновяване">

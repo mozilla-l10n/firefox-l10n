@@ -24,7 +24,7 @@
 <!ENTITY  generalSource         "Кеш:">
 <!ENTITY  generalModified       "Последна промяна:">
 <!ENTITY  generalEncoding2      "Кодиране на текста:">
-<!ENTITY  generalMetaName       "Име">
+<!ENTITY  generalMetaName       "Наименование">
 <!ENTITY  generalMetaContent    "Съдържание">
 
 <!ENTITY  mediaTab              "Медия">
