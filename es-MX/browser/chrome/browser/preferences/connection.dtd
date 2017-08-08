@@ -21,6 +21,9 @@
 <!ENTITY  reload.label                  "Recargar">
 <!ENTITY  reload.accesskey              "e">
 <!ENTITY  ftp2.label                    "Proxy FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Proxy HTTP">
+<!ENTITY  http2.accesskey               "x">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
