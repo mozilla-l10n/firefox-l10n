@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "เครื่องมือ">
-<!ENTITY toolsMenu.accesskey          "ค"> 
+<!ENTITY toolsMenu.accesskey          "ค">
 
 <!ENTITY keywordfield.label           "ใส่คำสำคัญเพื่อค้นหา…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "อ">
 
-<!ENTITY fileMenu.label         "ไฟล์"> 
+<!ENTITY fileMenu.label         "ไฟล์">
 <!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บแยกข้อมูลใหม่">
 <!ENTITY newUserContext.accesskey         "ย">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "ส">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
-<!ENTITY editMenu.label         "แก้ไข"> 
-<!ENTITY editMenu.accesskey       "ก"> 
-<!ENTITY undoCmd.label            "เลิกทำ">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ล"> 
-<!ENTITY redoCmd.label            "ทำซ้ำ">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "ท"> 
-<!ENTITY cutCmd.label           "ตัด">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ต"> 
-<!ENTITY copyCmd.label            "คัดลอก">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ค"> 
-<!ENTITY pasteCmd.label           "วาง">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ว"> 
-<!ENTITY deleteCmd.label          "ลบ">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "บ"> 
-<!ENTITY selectAllCmd.label         "เลือกทั้งหมด">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "ม"> 
+<!ENTITY editMenu.label         "แก้ไข">
+<!ENTITY editMenu.accesskey       "ก">
+<!ENTITY undoCmd.label            "เลิกทำ">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "ล">
+<!ENTITY redoCmd.label            "ทำซ้ำ">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "ท">
+<!ENTITY cutCmd.label           "ตัด">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "ต">
+<!ENTITY copyCmd.label            "คัดลอก">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "ค">
+<!ENTITY pasteCmd.label           "วาง">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "ว">
+<!ENTITY deleteCmd.label          "ลบ">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "บ">
+<!ENTITY selectAllCmd.label         "เลือกทั้งหมด">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "ม">
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
 <!ENTITY preferencesCmd2.accesskey     "ต">
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
-<!ENTITY preferencesCmdUnix.accesskey     "ก"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ก">
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "มุมมอง"> 
-<!ENTITY viewMenu.accesskey       "ม"> 
-<!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ถ"> 
+<!ENTITY viewMenu.label         "มุมมอง">
+<!ENTITY viewMenu.accesskey       "ม">
+<!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ">
+<!ENTITY viewToolbarsMenu.accesskey     "ถ">
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
 <!ENTITY viewSidebarMenu.accesskey "บ">
-<!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
+<!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
 <!ENTITY overflowCustomizeToolbar.label       "ปรับแต่งแถบเครื่องมือ…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ป">
@@ -530,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ล">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับที่เลือก">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
@@ -597,7 +597,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
 <!ENTITY copyImageCmd.accesskey       "ง">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
-<!ENTITY copyImageContentsCmd.accesskey  "ค"> 
+<!ENTITY copyImageContentsCmd.accesskey  "ค">
 <!ENTITY copyVideoURLCmd.label        "คัดลอกตำแหน่งที่ตั้งวิดีโอ">
 <!ENTITY copyVideoURLCmd.accesskey    "ง">
 <!ENTITY copyAudioURLCmd.label        "คัดลอกตำแหน่งที่ตั้งเสียง">
@@ -693,12 +693,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "ออกจาก &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "ออก"> 
+<!ENTITY quitApplicationCmd.label       "ออก">
 <!ENTITY quitApplicationCmd.accesskey   "อ">
 <!ENTITY quitApplicationCmdMac2.label   "ออกจาก &brandShorterName;">
 
-<!ENTITY closeCmd.label                 "ปิด">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "ปิด">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ป">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -884,7 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
-<!ENTITY trackingProtection.title "การป้องกันการตามรอย">
+<!ENTITY trackingProtection.title "การป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้าที่อาจตามรอยการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ไซต์นี้มีองค์ประกอบที่อาจตามรอยการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.notDetected3 "ไม่พบองค์ประกอบที่มีการตามรอยในหน้านี้">
