@@ -13,17 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "कखनो नहि">
 
 <!ENTITY  color                           "पाठ आ पृष्ठभूमि">
-<!ENTITY  textColor.label                 "पाठ:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "पृष्ठभूमि:">
-<!ENTITY  backgroundColor.accesskey       "B">
+
+
+
+
 <!ENTITY  useSystemColors.label           "सिस्टम रँगक प्रयोग करू ">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "रेखांकित कड़ी">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "रंग कड़ीबद्ध करू ">
-<!ENTITY  linkColor.label                 "बिनु देखल कड़ी:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "देखल कड़ी:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+
+
+
+

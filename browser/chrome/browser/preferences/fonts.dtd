@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "फ़ॉन्ट">
 
-<!ENTITY  language.label                          "एकरा लेल फान्ट:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "आकार:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "आनुपतिक:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ़:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "सैंस-सेरिफ़:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "मोनोस्पेस:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिंहाला">
 <!ENTITY  font.langGroup.tibetan                  "तिब्बती">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "न्यूनतम फान्ट आकार:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "कोनो नहि">
 <!-- default font type -->
 
@@ -64,8 +59,8 @@
 
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन कंटेंटक लेल वर्ण एनकोडिंग">
-<!ENTITY languages.customize.Fallback2.label      "फालबैक आओर पाठ एनकोडिं:">
-<!ENTITY languages.customize.Fallback2.accesskey  "प">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "पुरातन कंटेंटक लेल वर्ण एनकोडिंग जे अपन एन्कोडिंग कए घोषित करबामे विफल रहैत अछि.">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोकेलक लेल पूर्वनिर्धारित">
