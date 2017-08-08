@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवादहरू....">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "निम्न वेबसाइटहरू अफलाइन प्रयोगको लागि डाटा भण्डारण गर्न अनुमति प्राप्त छन्:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउनुहोस्…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

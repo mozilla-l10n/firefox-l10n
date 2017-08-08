@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "फन्टहरू">
 
-<!ENTITY  language.label                          "निम्नको लागि फन्ट्सहरू:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "साइज:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "समानुपातिक:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "सान-सेरिफ:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "मोनोस्पेस:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाली">
 <!ENTITY  font.langGroup.tibetan                  "तिब्बती">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "न्यूनतम अक्षर  साइज:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "कुनै पनि होइन">
 <!-- default font type -->
 
@@ -64,8 +59,8 @@
 
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरानो सामग्रीको लागि वर्ण संकेतन">
-<!ENTITY languages.customize.Fallback2.label      "निवर्तमान र पाठ सङ्केतन">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोक्यालका लागि पूर्वनिर्धारित">

@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "अद्यावधि इतिहास">
-<!ENTITY  history.intro             "निम्न अद्यावधिकहरू स्थापना भयो:">
+
 <!ENTITY  closebutton.label         "बन्द गर्नुहोस्">
-                                     
+
 <!ENTITY  noupdates.label           "अहिले सम्म कुनै पनि अद्यावधिक स्थापना भएको छैन">
 
 <!ENTITY  name.header               "नामलाई  अद्यावधिक गर्नुहोस्">

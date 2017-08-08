@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "यो वेब पृष्ठ <span id='phishing_sitename'/> आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईँको सुरक्षा प्राथमिकताहरूका अनुसार अवरुद्द गरिएको छ।">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p> भ्रामक साइटहरू तपाईँलाई झुक्काएर केही खतरनाक कार्य जस्तै सफ्टवेयर स्थापना, वा आफ्नो व्यक्तिगत जानकारी खुलासा गर्न जस्तै गोप्यशब्द, फोन नम्बर वा क्रेडिट कार्ड गर्न डिजाइन गरिएको हुन्छ।</p><p> यस वेब पेज मा कुनै पनि जानकारी राख्दा पहिचान चोरी वा अन्य ठगी को परिणाम आउन सक्छ।</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
