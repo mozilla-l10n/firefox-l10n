@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -261,7 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nutsgoed">
-<!ENTITY toolsMenu.accesskey          "u"> 
+<!ENTITY toolsMenu.accesskey          "u">
 
 <!ENTITY keywordfield.label           "Voeg 'n sleutelwoord vir dié soektog by…">
 <!ENTITY keywordfield.accesskey       "s">
@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspekteer element">
 <!ENTITY inspectContextMenu.accesskey "n">
 
-<!ENTITY fileMenu.label         "Lêer"> 
+<!ENTITY fileMenu.label         "Lêer">
 <!ENTITY fileMenu.accesskey       "L">
 <!ENTITY newUserContext.label             "Nuwe konteksoortjie">
 <!ENTITY newUserContext.accesskey         "r">
@@ -291,45 +291,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "v">
 
 
-<!ENTITY editMenu.label         "Redigeer"> 
-<!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Ontdoen">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "O"> 
-<!ENTITY redoCmd.label            "Herdoen">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "H"> 
-<!ENTITY cutCmd.label           "Knip">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "p"> 
-<!ENTITY copyCmd.label            "Kopieer">  
+<!ENTITY editMenu.label         "Redigeer">
+<!ENTITY editMenu.accesskey       "e">
+<!ENTITY undoCmd.label            "Ontdoen">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "O">
+<!ENTITY redoCmd.label            "Herdoen">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "H">
+<!ENTITY cutCmd.label           "Knip">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "p">
+<!ENTITY copyCmd.label            "Kopieer">
 
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Plak">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Skrap">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "S"> 
-<!ENTITY selectAllCmd.label         "Merk alles">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Plak">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Skrap">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "S">
+<!ENTITY selectAllCmd.label         "Merk alles">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Opsies">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeure">
-<!ENTITY preferencesCmdUnix.accesskey     "k"> 
+<!ENTITY preferencesCmdUnix.accesskey     "k">
 
 <!ENTITY clearRecentHistory.label               "Maak onlangse geskiedenis skoon…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Bekyk"> 
-<!ENTITY viewMenu.accesskey       "k"> 
-<!ENTITY viewToolbarsMenu.label       "Nutsbalke"> 
-<!ENTITY viewToolbarsMenu.accesskey     "N"> 
+<!ENTITY viewMenu.label         "Bekyk">
+<!ENTITY viewMenu.accesskey       "k">
+<!ENTITY viewToolbarsMenu.label       "Nutsbalke">
+<!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Kantbalk">
 <!ENTITY viewSidebarMenu.accesskey "b">
-<!ENTITY viewCustomizeToolbar.label       "Doelmaak…"> 
+<!ENTITY viewCustomizeToolbar.label       "Doelmaak…">
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
 
 
@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "H">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bekyk bron van gemerkte deel">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Bekyk MathML-bron">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Bekyk bron van bladsy">
@@ -596,7 +596,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopieer prentligging">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopieer prent">
-<!ENTITY copyImageContentsCmd.accesskey  "K"> 
+<!ENTITY copyImageContentsCmd.accesskey  "K">
 <!ENTITY copyVideoURLCmd.label        "Kopieer videoligging">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopieer klankligging">
@@ -693,13 +693,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sluit &brandShorterName; af">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Afsluit"> 
+<!ENTITY quitApplicationCmd.label       "Afsluit">
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label   "Sluit &brandShorterName; af">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Sluit">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Sluit">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY toggleMuteCmd.key              "M">
