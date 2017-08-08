@@ -12,15 +12,13 @@
 <!ENTITY window.title         "افزودن حامل جدید">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "نام:">
-<!ENTITY name.accesskey       "ن">
+
 <!ENTITY name.placeholder     "وارد کردن نام حامل">
-<!ENTITY icon.label           "تصویر:">
-<!ENTITY icon.accesskey       "ت">
-<!ENTITY color.label          "رنگ:">
-<!ENTITY color.accesskey      ":">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "انجام شد">
 <!ENTITY button.ok.accesskey  "ا">
-
