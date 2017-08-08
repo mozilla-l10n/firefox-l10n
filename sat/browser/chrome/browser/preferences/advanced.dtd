@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "बादाक् को (x)…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "नोवा को वेबसाइट को ला़गित् ऑफलाइन बेभार ला़गित् डाटा तोगाव ला़गित् बातावे एमोक्  आ :">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ओचोक्  (R)…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

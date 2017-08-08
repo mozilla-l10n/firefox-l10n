@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "आम सेलेद सानाम कान ना़मुना ला़गित् ला़य सोदोर आदेर मे.">
-<!ENTITY loaddevice.modname                     "ना़मुना ञुतुम:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "नावा  PKCS#11 ना़मुना ">
-<!ENTITY loaddevice.filename                    "रेत् ञुतुम ना़मुना: ">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "पानते…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

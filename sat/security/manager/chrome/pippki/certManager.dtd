@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "पोरमान एमोक् को">
 <!ENTITY certmgr.tab.orphan2                  "एटागाक्">
 
-<!ENTITY certmgr.mine                         "आम नोवा को आसड़ा खोन पोरमान साकाम एम ञाम आकात् आ ओका आमे उपरुम मेया:">
-<!ENTITY certmgr.others                       "रेत् रे आमाक् पोरमान साकाम मेनाक् आ ओना नुकु होड़को उपरुम कोवा:">
-<!ENTITY certmgr.websites2                    "रेत् रे आमाक् पोरमान साकाम को मेनाक् ओका नोवाको सर्वर ए उपरुमा:">
-<!ENTITY certmgr.cas                          "रेत् रे आमाक् पोरमान साकाम मेनाक् आ ओना नोवा पोरमान साकाम एमोक् को चिनहा़व कोवा:">
-<!ENTITY certmgr.orphans                      "आम ठेन रेत् रे पोरमान साकाम मेनाक् आ. ओका एटाक् हा़टिञ को रेयाक् जाहांनाक् रे बाय खापोक् आ :">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "साधरोन (G)">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
