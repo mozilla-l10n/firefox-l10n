@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "تطبيقات الوِب التدريجية">
 <!ENTITY pref_pwa_summary "اسمح بإضافة التطبيقات إلى شاشة البداية">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "تيار النشاطات">
-<!ENTITY pref_activity_stream_summary "تلقيمات غنية من تأريخ التصفح و إعادة تصور لصفحة البداية تجعل العثور على ما تبحث عنه في &brandShortName; أسهل من أي وقت كان.">
 
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 <!ENTITY tracking_protection_prompt_text "يحجب عناصر التعقب لئلا تقلق بشأنها.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "مرحبًا مع أهم الأحداث">
 <!ENTITY activity_stream_welcome_content1 "يسلط &brandShortName; الآن الضوء على أهم الأحداث التي تمر عليها أثناء تصفحك للوب، لتستطيع العودة إلى المقالات أو العلامات أو الصفحات المهمة الأخرى التي مررت عليها.">
+
+
+
+
