@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Үстүрүмүөннэр">
-<!ENTITY toolsMenu.accesskey          "Ү"> 
+<!ENTITY toolsMenu.accesskey          "Ү">
 
 <!ENTITY keywordfield.label           "Бу көрдөөһүҥҥэ күлүүс тылла эп…">
 <!ENTITY keywordfield.accesskey       "к">
@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Элэмиэни чинчий">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Билэ"> 
+<!ENTITY fileMenu.label         "Билэ">
 <!ENTITY fileMenu.accesskey       "Б">
 
 
@@ -276,44 +276,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "с">
 
 
-<!ENTITY editMenu.label         "Уларытыы"> 
-<!ENTITY editMenu.accesskey       "У"> 
-<!ENTITY undoCmd.label            "Төннөр">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Т"> 
-<!ENTITY redoCmd.label            "Хатылаа">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Х"> 
-<!ENTITY cutCmd.label           "Кырый">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "К"> 
+<!ENTITY editMenu.label         "Уларытыы">
+<!ENTITY editMenu.accesskey       "У">
+<!ENTITY undoCmd.label            "Төннөр">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Т">
+<!ENTITY redoCmd.label            "Хатылаа">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "Х">
+<!ENTITY cutCmd.label           "Кырый">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "К">
 
 
 
-<!ENTITY pasteCmd.label           "Ук">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "У"> 
-<!ENTITY deleteCmd.label          "Сот">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "С"> 
-<!ENTITY selectAllCmd.label         "Барытын тал">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "т"> 
+<!ENTITY pasteCmd.label           "Ук">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "У">
+<!ENTITY deleteCmd.label          "Сот">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "С">
+<!ENTITY selectAllCmd.label         "Барытын тал">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "т">
 <!ENTITY preferencesCmd2.label       "Туруоруулар">
 <!ENTITY preferencesCmd2.accesskey     "Т">
 <!ENTITY preferencesCmdUnix.label       "Туруоруулар">
-<!ENTITY preferencesCmdUnix.accesskey     "Т"> 
+<!ENTITY preferencesCmdUnix.accesskey     "Т">
 
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Көстүү"> 
-<!ENTITY viewMenu.accesskey       "К"> 
-<!ENTITY viewToolbarsMenu.label       "Тэриллэр"> 
-<!ENTITY viewToolbarsMenu.accesskey     "Т"> 
+<!ENTITY viewMenu.label         "Көстүү">
+<!ENTITY viewMenu.accesskey       "К">
+<!ENTITY viewToolbarsMenu.label       "Тэриллэр">
+<!ENTITY viewToolbarsMenu.accesskey     "Т">
 <!ENTITY viewSidebarMenu.label "Ойоҕос панель">
 <!ENTITY viewSidebarMenu.accesskey "О">
-<!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…"> 
+<!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Т">
 
 
@@ -485,7 +485,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "Ф">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Бэлиэтэммити исходнигын көрдөр">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML исходнай куода">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Сирэй исходнига">
@@ -552,7 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Ойууга сигэни хатылаа">
 <!ENTITY copyImageCmd.accesskey       "г">
 <!ENTITY copyImageContentsCmd.label   "Ойууну хатылаа">
-<!ENTITY copyImageContentsCmd.accesskey  "т"> 
+<!ENTITY copyImageContentsCmd.accesskey  "т">
 <!ENTITY copyVideoURLCmd.label        "Видеоҕа сигэни төгүллээ">
 <!ENTITY copyVideoURLCmd.accesskey    "г">
 <!ENTITY copyAudioURLCmd.label        "Аудиоҕа сигэни төгүллээ">
@@ -648,13 +648,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Маны &brandShorterName; бүтэр">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Таҕыс"> 
+<!ENTITY quitApplicationCmd.label       "Таҕыс">
 <!ENTITY quitApplicationCmd.accesskey   "Т">
 <!ENTITY quitApplicationCmdMac2.label   "Маны &brandShorterName; бүтэр">
 
 
-<!ENTITY closeCmd.label                 "Сап">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Сап">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "С">
 
 

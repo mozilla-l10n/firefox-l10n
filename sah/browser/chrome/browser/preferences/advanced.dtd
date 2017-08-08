@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Туорааһыннар...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "Т">
 
-<!ENTITY offlineAppsList2.label          "Бу ситим-сирдэр холбоммокко үлэлииргэ анаан хачайданыахтарын сөп:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Сот…">
 <!ENTITY offlineAppsListRemove.accesskey "о">

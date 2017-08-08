@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Бичиктэр">
 
-<!ENTITY  language.label                          "Анаммыт бичиктэр:">
-<!ENTITY  language.accesskey                      "А">
 
-<!ENTITY  size.label                              "Кээмэйэ:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Пропорциялаах">
-<!ENTITY  proportional.accesskey                  "р">
 
-<!ENTITY  serif.label                             "Эркээйилээх бичик:">
-<!ENTITY  serif.accesskey                         "Э">
-<!ENTITY  sans-serif.label                        "Эркээйитэ суох бичик:">
-<!ENTITY  sans-serif.accesskey                    "Э">
-<!ENTITY  monospace.label                         "Биир кэтиттээх:">
-<!ENTITY  monospace.accesskey                     "к">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Синхаала">
 <!ENTITY  font.langGroup.tibetan                  "Тибиэттии">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Бичик саамай кыра кээмэйэ:">
-<!ENTITY minSize.accesskey                        "и">
+
 <!ENTITY minSize.none                             "Суох">
 <!-- default font type -->
 
