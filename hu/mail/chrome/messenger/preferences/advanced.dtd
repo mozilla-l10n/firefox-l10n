@@ -11,6 +11,7 @@
 
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+
 <!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Üzenettároló és típus új fiókokhoz:">
