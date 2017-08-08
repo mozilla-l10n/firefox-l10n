@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
 <!ENTITY newFolderCmd.accesskey "C">
 <!ENTITY closeTabCmd2.label "Tanca la pestanya">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Suprimeix el missatge">
 <!ENTITY deleteMsgCmd.accesskey "u">
 <!ENTITY undeleteMsgCmd.label "Recupera el missatge esborrat">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refés">
 <!ENTITY redoDefaultCmd.accesskey "R">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showMessengerToolbarCmd.label "Barra d'eines de la Missatgeria">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Barra d'eines de la subfinestra de carpetes">
 <!ENTITY folderPaneBar.accesskey "f">
 <!ENTITY folderModeSelector.label "Vistes de carpetes">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordena">
 <!ENTITY sortMenu.accesskey "d">
 <!ENTITY sortByDateCmd.label "Data">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Cerca">
 <!ENTITY findMenu.accesskey "C">
 <!ENTITY findCmd.label "Cerca en aquest missatge…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey "d">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Vés">
 <!ENTITY goMenu.accesskey "s">
 <!ENTITY nextMenu.label "Següent">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "r">
 <!ENTITY startPageCmd.label "Pàgina d'inici de la Missatgeria">
 <!ENTITY startPageCmd.accesskey "s">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Missatge">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Missatge nou">
@@ -443,11 +443,11 @@
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Commuta la pàgina web i el resum en el quadre de missatges">
 <!ENTITY openFeedWebPageInMP.accesskey "q">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Finestra">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Eines">
 <!ENTITY tasksMenu.accesskey "n">
 <!ENTITY messengerCmd.label "Missatgeria">
@@ -493,8 +493,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Eines per a desenvolupadors">
 <!ENTITY devtoolsMenu.accesskey "E">
 <!ENTITY devToolboxCmd.label "Caixa d'eines per a desenvolupadors">
@@ -509,17 +509,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Bloc de proves">
 <!ENTITY scratchpadCmd.accesskey "B">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Recupera">
 <!ENTITY newMsgButton.label "Redacta">
 <!ENTITY replyButton.label "Respon">
@@ -556,8 +556,8 @@
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compacta">
 <!ENTITY appmenuButton.label "Menú d'aplicacions">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Cerca avançada de missatges">
 <!ENTITY getMsgButton.tooltip "Recupera els missatges nous">
 <!ENTITY getAllNewMsgCmd.label "Recupera tots els missatges nous">
@@ -590,48 +590,48 @@
 <!ENTITY tagButton.tooltip "Etiqueta els missatges">
 <!ENTITY compactButton.tooltip "Treu els missatges suprimits de la carpeta seleccionada">
 <!ENTITY appmenuButton1.tooltip "Mostra el menú del &brandShortName;">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenvia en el cos del missatge">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reenvia com a adjunció">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Mostra el contingut remot d'aquest missatge">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
 <!ENTITY editRemoteContentSettings.label "Edita les opcions de contingut remot…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!ENTITY editRemoteContentSettingsUnix.label "Edita les preferències de contingut remot…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignora l'avís per a aquest missatge">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Edita les opcions de detecció de missatges fraudulents…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Edita les preferències de detecció de missatges fraudulents…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Missatge nou">
 <!ENTITY appmenuNewContactCmd.label "Contacte de la llibreta d'adreces…">
 <!ENTITY appmenuEditMenu.label "Edita">
 <!ENTITY appmenuToolbarLayout.label "Format de la barra d'eines…">
 <!ENTITY appmenuSelectThread.label "Selecciona la conversa">
 <!ENTITY appmenuSelectFlagged.label "Selecciona els missatges amb estrella">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Afegeix una etiqueta…">
 <!ENTITY addNewTag.accesskey "n">
 <!ENTITY manageTags.label "Gestiona les etiquetes…">
 <!ENTITY manageTags.accesskey "G">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nom">
 <!ENTITY folderUnreadColumn.label "Per llegir">
 <!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Mida">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Recupera els missatges">
 <!ENTITY folderContextGetMessages.accesskey "g">
 <!ENTITY folderContextPauseAllUpdates.label "Posa en pausa totes les actualitzacions">
@@ -671,15 +671,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
 <!ENTITY folderContextSettings2.label "Paràmetres">
 <!ENTITY folderContextSettings2.accesskey "e">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "El nom o l'adreça electrònica conté:">
 <!ENTITY SearchNameOrEmail.accesskey "n">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Cerca missatges…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Assumpte">
 <!ENTITY searchFromMenu.label "Remitent">
 <!ENTITY searchSubjectOrFromMenu.label "Assumpte o remitent">
@@ -687,8 +687,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Assumpte, A o Cc">
 <!ENTITY searchMessageBody.label "Cos del missatge">
 <!ENTITY saveAsVirtualFolderMenu.label "Desa la cerca com una carpeta…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
@@ -709,8 +709,8 @@
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
 <!ENTITY attachmentColumn.label "Adjuncions">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tria les columnes que es mostraran">
 <!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
 <!ENTITY fromColumn2.tooltip "Ordena per remitent">
@@ -732,8 +732,8 @@
 <!ENTITY locationColumn2.tooltip "Ordena per ubicació">
 <!ENTITY idColumn2.tooltip "Ordena per ordre de recepció">
 <!ENTITY attachmentColumn2.tooltip "Ordena per adjuncions">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
@@ -791,12 +791,12 @@
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Exemple d'impressió">
 <!ENTITY contextPrintPreview.accesskey "E">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Restaura les columnes per defecte">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -837,9 +837,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Aquesta carpeta">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Reprodueix">
 <!ENTITY contextPlay.accesskey "R">
 <!ENTITY contextPause.label "Pausa">
@@ -848,12 +848,12 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "So">
 <!ENTITY contextUnmute.accesskey "S">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -877,8 +877,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Afegeix a la llibreta d'adreces…">
 <!ENTITY AddToAddressBook.accesskey "d">
 <!ENTITY AddDirectlyToAddressBook.label "Afegeix a la llibreta d'adreces">
@@ -903,12 +903,12 @@
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Informa d'un missatge fraudulent">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Anomena i desa l'enllaç…">
 <!ENTITY saveLinkAsCmd.accesskey "e">
 <!ENTITY saveImageAsCmd.label "Anomena i desa la imatge…">
@@ -927,17 +927,17 @@
 <!ENTITY openInBrowser.accesskey "O">
 <!ENTITY openLinkInBrowser.label "Obre l'enllaç en un navegador">
 <!ENTITY openLinkInBrowser.accesskey "O">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Fet">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimitza la finestra">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Porta-ho tot al davant">
 <!ENTITY zoomWindow.label "Finestra del zoom">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Preferències">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -949,8 +949,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mostra-ho tot">
-<!-- Mac OS X Dock Icon pop-up menu -->
 
+<!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Opcions de la icona de l'aplicació…">
 <!ENTITY writeNewMessageDock.label      "Escriu un missatge nou">
-
+<!ENTITY openAddressBookDock.label      "Obre la llibreta d'adreces">
