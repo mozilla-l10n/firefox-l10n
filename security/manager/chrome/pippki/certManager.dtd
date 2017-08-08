@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Peywirdar">
 <!ENTITY certmgr.tab.orphan2                  "Yên din">
 
-<!ENTITY certmgr.mine                         "Nasnameyên ku ji hêla vê saziyê ve hatine sertîfîkakirin:">
-<!ENTITY certmgr.others                       "Ev kes di vê pelê de hatin sertîfîkakirin:">
-<!ENTITY certmgr.websites2                    "Tu xwediyê sertîfîkayên li ser pelên ku van pêşkêşkeran diyar dike yî:">
-<!ENTITY certmgr.cas                          "Sertîfîkaya li ber destê te û peydakarên sertîfîkayên ku li jer hatine diyarkirin  hev digirin:">
-<!ENTITY certmgr.orphans                      "Di pelê de belgeyên te yên pejirandinê ku nakevin tu kategoriyekê, hene:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Giştî">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
