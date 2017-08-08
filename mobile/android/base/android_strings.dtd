@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresivne spletne aplikacije">
 <!ENTITY pref_pwa_summary "Dovoli dodajanje spletnih aplikacij na domač zaslon">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Tok dejavnosti">
-<!ENTITY pref_activity_stream_summary "Bogat vizualni tok zgodovine in prenovljena domača stran naredita iskanje s &brandShortName;om preprostejše kot kadarkoli prej.">
-
 <!ENTITY tracking_protection_prompt_title "Zdaj z zaščito pred sledenjem">
 <!ENTITY tracking_protection_prompt_text "Aktivno zavračanje elementov sledenja, da vam ni potrebno skrbeti.">
 <!ENTITY tracking_protection_prompt_tip_text "Za več informacij obiščite nastavitve zasebnosti">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Počisti zasebne podatke ob izhodu">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali \u0022Izhod\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
-<!ENTITY pref_plugins "Vtičniki">
-<!ENTITY pref_plugins_enabled "Vključeno">
-<!ENTITY pref_plugins_tap_to_play2 "Predvajaj ob dotiku">
-<!ENTITY pref_plugins_disabled "Onemogočeno">
 <!ENTITY pref_restore_tabs "Obnovi zavihke">
 <!ENTITY pref_restore_always "Vedno obnovi">
 <!ENTITY pref_restore_quit "Ne obnavljaj po zapiranju &brandShortName;a">
@@ -854,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Dobrodošli v vaše poudarke">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; zdaj ustvarja poudarke stvari, ki jih odkrivate na spletu, tako da lahko znova najdete zanimive članke, videoposnetke, zaznamke in druge strani.">
+
+<!ENTITY private_tab_panel_title "Zasebno brskanje in zaščita pred sledenjem">
+<!ENTITY private_tab_panel_description "&brandShortName; zavrača dele strani, ki lahko sledijo vaši dejavnosti na spletu.">
+<!ENTITY private_tab_panel_description2 "Ne bomo si zapomnili nobene zgodovine, prenesene datoteke in novi zaznamki pa bodo ostali shranjeni na vaši napravi.">
+<!ENTITY private_tab_learn_more "Želite izvedeti več?">
