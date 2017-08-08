@@ -17,7 +17,7 @@
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, при необходимост">
 <!ENTITY useOnScreenKeyboard.accesskey   "д">
 
-<!ENTITY browsing.label                  "Сърфиране">
+<!ENTITY browsing.label                  "Разглеждане">
 
 <!ENTITY useAutoScroll.label             "Автоматично плъзгане">
 <!ENTITY useAutoScroll.accesskey         "А">

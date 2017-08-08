@@ -8,7 +8,7 @@
 <!ENTITY textInput.accesskey        "ф">
 <!ENTITY filterMenuList.label   "Файлове от вид:">
 <!ENTITY filterMenuList.accesskey   "т">
-<!ENTITY name.label             "Име">
+<!ENTITY name.label             "Наименование">
 <!ENTITY size.label             "Размер">
 <!ENTITY lastModified.label     "Последна промяна">
 <!ENTITY showHiddenFiles.label  "Показване на скрити файлове и папки">

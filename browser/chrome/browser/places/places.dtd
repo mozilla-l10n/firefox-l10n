@@ -76,7 +76,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "Преместване…">
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
 
-<!ENTITY col.name.label          "Име">
+<!ENTITY col.name.label          "Наименование">
 <!ENTITY col.tags.label          "Етикети">
 <!ENTITY col.url.label           "Местоположение">
 <!ENTITY col.mostrecentvisit.label "Последно посещение">

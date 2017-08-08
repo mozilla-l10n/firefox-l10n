@@ -16,18 +16,18 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.noConfig "Приложението не е настроено да показва доклади за сривове.">
 
 <!ENTITY aboutSupport.extensionsTitle "Разширения">
-<!ENTITY aboutSupport.extensionName "Име">
+<!ENTITY aboutSupport.extensionName "Наименование">
 <!ENTITY aboutSupport.extensionEnabled "Включено">
 <!ENTITY aboutSupport.extensionVersion "Версия">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "Възможности на &brandShortName;">
-<!ENTITY aboutSupport.featureName "Име">
+<!ENTITY aboutSupport.featureName "Наименование">
 <!ENTITY aboutSupport.featureVersion "Версия">
 <!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Експериментални възможности">
-<!ENTITY aboutSupport.experimentName "Име">
+<!ENTITY aboutSupport.experimentName "Наименование">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Описание">
 <!ENTITY aboutSupport.experimentActive "Включен">
@@ -36,7 +36,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentBranch "Клон">
 
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
-<!ENTITY aboutSupport.appBasicsName "Име">
+<!ENTITY aboutSupport.appBasicsName "Наименование">
 <!ENTITY aboutSupport.appBasicsVersion "Версия">
 <!ENTITY aboutSupport.appBasicsBuildID "Build идентификатор">
 
@@ -83,7 +83,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Отваряне на папката">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променени настройки">
-<!ENTITY aboutSupport.modifiedPrefsName "Име">
+<!ENTITY aboutSupport.modifiedPrefsName "Наименование">
 <!ENTITY aboutSupport.modifiedPrefsValue "Стойност">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
@@ -91,7 +91,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSDescription "Папката с вашия профил съдържа файла <a id='prefs-user-js-link'>user.js</a>, в който има потребителски, не създадени от &brandShortName; настройки.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Важни заключени настройки">
-<!ENTITY aboutSupport.lockedPrefsName "Име">
+<!ENTITY aboutSupport.lockedPrefsName "Наименование">
 <!ENTITY aboutSupport.lockedPrefsValue "Стойност">
 
 <!ENTITY aboutSupport.graphicsTitle "Изчертаване">
