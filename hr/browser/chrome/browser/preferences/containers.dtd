@@ -4,16 +4,17 @@
 
 <!ENTITY addButton.label      "Dodaj novi spremnik">
 <!ENTITY addButton.accesskey  "a">
-
-
+<!ENTITY preferencesButton.label "Postavke">
+<!ENTITY removeButton.label   "Ukloni">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Idi natrag">
 
 <!ENTITY window.title         "Dodaj novi spremnik">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Naziv:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "Unesite naziv spremnika">
 <!ENTITY icon.label           "Ikona:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Boja:">

@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Dopuštenja">
+
 <!ENTITY  blockPopups.label           "Blokiraj skočne prozore">
 <!ENTITY  blockPopups.accesskey       "s">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Saznajte više">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Odaberite koje web stranice mogu slati obavijesti">
 <!ENTITY  notificationsPolicyButton.accesskey  "O">
 <!ENTITY  notificationsPolicyButton.label      "Odaberi…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne uznemiravaj">
@@ -18,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fontovi i boje">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Zadani font">
+<!ENTITY  defaultFont2.accesskey      "d">
+<!ENTITY  defaultSize2.label          "Veličina">
+<!ENTITY  defaultSize2.accesskey      "V">
 
 <!ENTITY  advancedFonts.label         "Napredno...">
 <!ENTITY  advancedFonts.accesskey     "a">
@@ -28,6 +31,8 @@
 <!ENTITY  colors.label                "Boje...">
 <!ENTITY  colors.accesskey            "B">
 
+
+<!ENTITY language2.label              "Jezik">
 <!ENTITY chooseLanguage.label         "Odaberite jezik za prikazivanje stranica">
 <!ENTITY chooseButton.label           "Odabir…">
 <!ENTITY chooseButton.accesskey       "d">
@@ -47,6 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Preveli">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) sadržaj">
 
-
+<!ENTITY  playDRMContent2.label          "Reproduciraj DRM-kontrolirani sadržaj">
+<!ENTITY  playDRMContent2.accesskey      "p">
 <!ENTITY  playDRMContent.learnMore.label "Saznajte više">
