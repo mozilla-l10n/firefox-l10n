@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "ს">
 <!ENTITY  WPADTypeRadio.label           "პროქსის პარამეტრების ავტომატური დადგენა ამ ქსელისთვის">
 <!ENTITY  WPADTypeRadio.accesskey       "ქ">
-<!ENTITY  manualTypeRadio.label         "პროქსის ხელით გამართვა:">
-<!ENTITY  manualTypeRadio.accesskey     "პ">
-<!ENTITY  autoTypeRadio.label           "პროქსის ავტომატური გამართვის URL:">
-<!ENTITY  autoTypeRadio.accesskey       "ვ">
+<!ENTITY  manualTypeRadio2.label        "პროქსის ხელით გამართვა">
+<!ENTITY  manualTypeRadio2.accesskey    "ხ">
+<!ENTITY  autoTypeRadio2.label          "პროქსის ავტომატური გამართვის URL">
+<!ENTITY  autoTypeRadio2.accesskey      "ა">
 <!ENTITY  reload.label                  "ხელახლა ჩატვირთვა">
 <!ENTITY  reload.accesskey              "ხ">
-<!ENTITY  ftp.label                     "FTP პროქსი:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP პროქსი:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL პროქსი:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS სერვერი:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP პროქსი">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP პროქსი">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL პროქსი">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS ჰოსტი">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label2         "პროქსის DNS SOCKS v5-ის გამოყენებისას">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "პორტი:">
+<!ENTITY  port2.label                   "პორტი">
 <!ENTITY  HTTPport.accesskey            "პ">
 <!ENTITY  SSLport.accesskey             "ო">
 <!ENTITY  FTPport.accesskey             "რ">
 <!ENTITY  SOCKSport.accesskey           "ტ">
-<!ENTITY  noproxy.label                 "არ გამოიყენება შემდეგ მისამართებზე:">
-<!ENTITY  noproxy.accesskey             "ა">
+<!ENTITY  noproxy2.label                "არ გამოიყენება შემდეგ მისამართებზე">
+<!ENTITY  noproxy2.accesskey            "ა">
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა პროტოკოლისთვის ამ პროქსი-სერვერის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "ყ">

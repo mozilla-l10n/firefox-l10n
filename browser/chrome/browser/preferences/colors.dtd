@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "არასდროს">
 
 <!ENTITY  color                           "ტექსტი და ფონი">
-<!ENTITY  textColor.label                 "ტექსტი:">
-<!ENTITY  textColor.accesskey             "ტ">
-<!ENTITY  backgroundColor.label           "ფონი:">
-<!ENTITY  backgroundColor.accesskey       "ფ">
+<!ENTITY  textColor2.label                "ტექსტი">
+<!ENTITY  textColor2.accesskey            "ტ">
+<!ENTITY  backgroundColor2.label          "ფონი">
+<!ENTITY  backgroundColor2.accesskey      "ო">
 <!ENTITY  useSystemColors.label           "სისტემის ფერების გამოყენება">
 <!ENTITY  useSystemColors.accesskey       "ს">
 
 <!ENTITY  underlineLinks.label            "ბმულების ხაზგასმა">
 <!ENTITY  underlineLinks.accesskey        "ხ">
 <!ENTITY  links                           "ბმულის ფერები">
-<!ENTITY  linkColor.label                 "მოუნახულებელი ბმულები:">
-<!ENTITY  linkColor.accesskey             "ბ">
-<!ENTITY  visitedLinkColor.label          "მონახულებული ბმულები:">
-<!ENTITY  visitedLinkColor.accesskey      "მ">
+<!ENTITY  linkColor2.label                "მოუნახულებელი ბმულები">
+<!ENTITY  linkColor2.accesskey            "უ">
+<!ENTITY  visitedLinkColor2.label         "მონახულებული ბმულები">
+<!ENTITY  visitedLinkColor2.accesskey     "ნ">

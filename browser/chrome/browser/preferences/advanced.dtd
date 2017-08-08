@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "გამონაკლისები…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ნ">
 
-<!ENTITY offlineAppsList2.label          "მოცემულ ვებსაიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">
+<!ENTITY offlineAppsList3.label          "მოცემულ ვებსაიტებს, მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "ა">
