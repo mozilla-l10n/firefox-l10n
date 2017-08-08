@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "根据举报，位于 <span id='phishing_sitename'/> 的此网页为欺诈网站。现已依照您的安全首选项予以拦截。">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>诈骗网站会诱导您做出严重威胁您安全的举动，例如安装恶意软件或者套取您的个人信息（如密码、电话号码、信用卡信息）。</p><p>在此网页上输入任何信息都可能使您的身份信息遭到盗用，您也可能受到其他方式的欺骗。</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "即将进入的网站可能含有恶意软件">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "此网页可能试图安装危险的应用程序来盗取或删除您的信息（例如照片、密码、短信和信用卡），因此 Firefox 拦截了此网页。">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
