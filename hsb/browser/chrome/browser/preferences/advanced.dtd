@@ -115,7 +115,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Wuwzaća…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "u">
 
-<!ENTITY offlineAppsList2.label          "Slědowace websydła smědźa daty za wužiwanje offline składować:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Wotstronić…">
 <!ENTITY offlineAppsListRemove.accesskey "o">

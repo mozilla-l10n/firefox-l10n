@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tuta webstrona na <span id='phishing_sitename'/> bu jako wobšudne sydło zdźělena a na zakładźe wašich wěstotnych nastajenjow zablokowane.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Wobšudne sydła su za to myslene, was zawjedować, něšto strašneho činić, kaž na př. instalowanje softwary abo přeradźowanje wašich wosobinskich datow, na př. hesłow, telefonowych čisłow abo čisłow kreditnych kartow.</p><p>Hdyž daty na tutej webstronje zapodaće, móže to ke kradnjenju identity abo druhej wobšudźe wjesć.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

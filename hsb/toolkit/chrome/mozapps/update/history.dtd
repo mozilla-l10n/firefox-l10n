@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Aktualizaciska historija">
-<!ENTITY  history.intro             "Slědowace aktualizacije su so instalowali:">
+
 <!ENTITY  closebutton.label         "Začinić">
-                                     
+
 <!ENTITY  noupdates.label           "Dotal žane aktualizacije instalowane">
 
 <!ENTITY  name.header               "Mjeno aktualizacije">

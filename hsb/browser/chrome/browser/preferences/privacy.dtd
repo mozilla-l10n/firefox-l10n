@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Placki ze sydłow akceptować">
 <!ENTITY  acceptCookies2.accesskey      "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Placki třećich poskićowarjow akceptować:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+
 <!ENTITY  acceptThirdParty.always.label   "Přeco">
 <!ENTITY  acceptThirdParty.never.label    "Ženje">
 <!ENTITY  acceptThirdParty.visited.label  "Jenož wot wopytanych třećich">
 
-<!ENTITY  keepUntil.label               "Wobchować:">
-<!ENTITY  keepUntil.accesskey           "c">
+
 
 <!ENTITY  expire.label                  "doniž njespadnu">
 <!ENTITY  close.label                   "doniž so &brandShortName; njezačini">
