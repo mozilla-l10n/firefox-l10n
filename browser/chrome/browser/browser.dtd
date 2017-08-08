@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nástroje">
-<!ENTITY toolsMenu.accesskey          "N"> 
+<!ENTITY toolsMenu.accesskey          "N">
 
 <!ENTITY keywordfield.label           "Přiřadit k tomuto vyhledávání klíčové slovo…">
 <!ENTITY keywordfield.accesskey       "h">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Prozkoumat prvek">
 <!ENTITY inspectContextMenu.accesskey "P">
 
-<!ENTITY fileMenu.label         "Soubor"> 
+<!ENTITY fileMenu.label         "Soubor">
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nový kontejnerový panel">
 <!ENTITY newUserContext.accesskey         "j">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "a">
 <!ENTITY newNonRemoteWindow.label   "Nové non-e10s okno">
 
-<!ENTITY editMenu.label         "Úpravy"> 
-<!ENTITY editMenu.accesskey       "a"> 
-<!ENTITY undoCmd.label            "Zpět">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Z"> 
-<!ENTITY redoCmd.label            "Znovu">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "o"> 
-<!ENTITY cutCmd.label           "Vyjmout">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "y"> 
-<!ENTITY copyCmd.label            "Kopírovat">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Vložit">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "l"> 
-<!ENTITY deleteCmd.label          "Smazat">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "m"> 
-<!ENTITY selectAllCmd.label         "Vybrat vše">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY editMenu.label         "Úpravy">
+<!ENTITY editMenu.accesskey       "a">
+<!ENTITY undoCmd.label            "Zpět">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Z">
+<!ENTITY redoCmd.label            "Znovu">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "o">
+<!ENTITY cutCmd.label           "Vyjmout">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "y">
+<!ENTITY copyCmd.label            "Kopírovat">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Vložit">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "l">
+<!ENTITY deleteCmd.label          "Smazat">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "m">
+<!ENTITY selectAllCmd.label         "Vybrat vše">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Možnosti">
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Předvolby">
-<!ENTITY preferencesCmdUnix.accesskey     "v"> 
+<!ENTITY preferencesCmdUnix.accesskey     "v">
 
 <!ENTITY clearRecentHistory.label               "Vymazat nedávnou historii…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Zobrazit"> 
-<!ENTITY viewMenu.accesskey       "Z"> 
-<!ENTITY viewToolbarsMenu.label       "Nástrojové lišty"> 
-<!ENTITY viewToolbarsMenu.accesskey     "N"> 
+<!ENTITY viewMenu.label         "Zobrazit">
+<!ENTITY viewMenu.accesskey       "Z">
+<!ENTITY viewToolbarsMenu.label       "Nástrojové lišty">
+<!ENTITY viewToolbarsMenu.accesskey     "N">
 <!ENTITY viewSidebarMenu.label "Postranní lišta">
 <!ENTITY viewSidebarMenu.accesskey "P">
-<!ENTITY viewCustomizeToolbar.label       "Nastavit lišty…"> 
+<!ENTITY viewCustomizeToolbar.label       "Nastavit lišty…">
 <!ENTITY viewCustomizeToolbar.accesskey     "V">
 <!ENTITY overflowCustomizeToolbar.label       "Nastavit lišty…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "N">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "m">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobrazit zdrojový kód výběru">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Zobrazit zdrojový kód MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "j">
 <!ENTITY viewPageSourceCmd.label      "Zobrazit zdrojový kód stránky">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopírovat adresu obrázku">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Kopírovat obrázek">
-<!ENTITY copyImageContentsCmd.accesskey  "r"> 
+<!ENTITY copyImageContentsCmd.accesskey  "r">
 <!ENTITY copyVideoURLCmd.label        "Kopírovat adresu videa">
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopírovat adresu audia">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ukončí &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ukončit"> 
+<!ENTITY quitApplicationCmd.label       "Ukončit">
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončit &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Zavřít">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zavřít">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
 <!ENTITY toggleMuteCmd.key              "M">
