@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Fonts">
 
-<!ENTITY  language.label                          "Fonts for:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "Size:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proportional:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimum font size:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "None">
 <!-- default font type -->
 
@@ -64,8 +59,8 @@
 
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Text Encoding for Legacy Content">
-<!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "This text encoding is used for legacy content that fails to declare its encoding.">
 
 <!ENTITY languages.customize.Fallback.auto        "Default for Current Locale">
