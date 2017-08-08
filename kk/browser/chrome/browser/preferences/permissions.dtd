@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "ш">
 <!ENTITY removeallpermissions2.label  "Барлық вебсайттарды өшіру">
 <!ENTITY removeallpermissions2.accesskey "р">
-<!ENTITY address.label                "Сайт адресі:">
-<!ENTITY address.accesskey            "д">
+
+
 <!ENTITY block.label                  "Блоктау">
 <!ENTITY block.accesskey              "Б">
 <!ENTITY session.label                "Тек осы сессияға рұқсат беру">

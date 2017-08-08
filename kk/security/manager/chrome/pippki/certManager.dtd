@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Сертификаттау орталықтары">
 <!ENTITY certmgr.tab.orphan2                  "Басқа">
 
-<!ENTITY certmgr.mine                         "Сізде келесі ұйымдардан алынған сізді анықтайтын сертификаттар бар:">
-<!ENTITY certmgr.others                       "Сізде келесі адамдарды анықтайтын сертификаттар файлы бар:">
-<!ENTITY certmgr.websites2                    "Сізде келесі серверлерді анықтайтын сертификаттар файлы бар:">
-<!ENTITY certmgr.cas                          "Сізде келесі сертификаттарды растаушыларды анықтайтын сертификаттар файлы бар:">
-<!ENTITY certmgr.orphans                      "Сізде бірде-бір категорияға сай келмейтін келесі сертификаттар файлы бар:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Жалпы">
 <!ENTITY certmgr.detail.general_tab.accesskey "Ж">
