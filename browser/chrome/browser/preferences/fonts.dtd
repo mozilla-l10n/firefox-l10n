@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "எழுத்துருக்கள்">
 
-<!ENTITY  language.label                          "என்பதற்கான எழுத்துருக்கள்:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "அளவு:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "விகிதப்படி:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "ஷெரிஃப்:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "ஸான்ஸ்-ஷெரிஃப்:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "மோனோஸ்பேஸ்:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "சிங்களம்">
 <!ENTITY  font.langGroup.tibetan                  "திபேத்தியன்">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "குறைந்தபட்ச எழுத்துருவின் அளவு:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "ஒன்றுமில்லை">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "பழமையான உள்ளடக்கத்திற்கான உரை குறியீடாக்கம்">
-<!ENTITY languages.customize.Fallback2.label      "பின்சார்பு உரை குறிமுறை:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "தனது குறியீடாக்கத்தை அறிவிக்காத பழமையான உள்ளடக்கத்திற்கு இந்த உரை குறியீடாக்கம் பயன்படுத்தப்படும்.">
 
 <!ENTITY languages.customize.Fallback.auto        "தற்பொதைய மொழிக்கு முன்னிருப்பு">
