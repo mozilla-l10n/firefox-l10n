@@ -293,10 +293,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Balol Dille">
-<!ENTITY pref_activity_stream_summary "Jiytol doggol asle juɓɓungol kañum e jaɓɓorgo yuɓɓitinaango ena mbeeɓnan-maa yiytude ko njiɗ-ɗaa kala e &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Jooni ena waɗi Ndeenka Dewindol">
 <!ENTITY tracking_protection_prompt_text "Falo geɗe dewindol e caasal kisa nattaa haŋkadi faayde.">
@@ -830,5 +826,9 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Haaytu">
 <!ENTITY activity_stream_delete_history "M&amp;omtu e Aslol">
+
+
+
+
 
 
