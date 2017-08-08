@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "输入您要添加的模块的信息。">
-<!ENTITY loaddevice.modname                     "模块名称:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "模块名称">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "新建PKCS#11模块">
-<!ENTITY loaddevice.filename                    "模块文件名:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "模块文件名">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "浏览…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
