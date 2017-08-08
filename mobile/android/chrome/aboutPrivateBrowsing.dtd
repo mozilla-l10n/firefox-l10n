@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Не сте в Поверително сърфиране">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; блокира части от страницата, които биха могли да ви следят докато разглеждате в Мрежата.">
 <!ENTITY privatebrowsingpage.description.privateDetails "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private

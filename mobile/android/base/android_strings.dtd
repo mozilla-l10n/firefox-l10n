@@ -848,6 +848,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; сега създава акценти от местата, които сте открили в мрежата, за да намирате по-лесно страхотни статии, видео, отметки и други страници.">
 
 <!ENTITY private_tab_panel_title "Поверително разглеждане + Защита от проследяване">
-<!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето разглеждане.">
+<!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да ви следят докато разглеждате в Мрежата.">
 <!ENTITY private_tab_panel_description2 "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
 <!ENTITY private_tab_learn_more "Искате ли да научите повече?">
