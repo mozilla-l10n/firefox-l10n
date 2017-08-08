@@ -101,7 +101,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্ৰমসমূহ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "নিম্মলিখিত ৱেবছাইটসমূহক অফলাইন ব্যৱহাৰৰ বাবে তথ্য সংৰক্ষণ কৰাৰ অনুমতি আছে:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "আঁতৰাওঁক…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

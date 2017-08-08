@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "ফন্ট">
 
-<!ENTITY  language.label                          "চিহ্নিত বস্তুৰ বাবে ফন্ট:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "আকাৰ:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "সমানুপাতিক:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "সিংহালা">
 <!ENTITY  font.langGroup.tibetan                  "তিব্বতীয়">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "সৰ্বনিম্ন ফন্টৰ আকাৰ:">
-<!ENTITY minSize.accesskey                        "o">
+
 <!ENTITY minSize.none                             "একো নাই">
 <!-- default font type -->
 

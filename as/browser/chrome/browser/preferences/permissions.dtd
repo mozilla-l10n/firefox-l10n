@@ -10,8 +10,8 @@
 
 
 
-<!ENTITY address.label                "ৱেব ছাইটৰ ঠিকনা:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "ৰোধ কৰক">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "অধিবেশনৰ বাবে অনুমতি দিয়ক">
