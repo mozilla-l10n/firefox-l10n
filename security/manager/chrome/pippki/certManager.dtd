@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Entidatz">
 <!ENTITY certmgr.tab.orphan2                  "Atros">
 
-<!ENTITY certmgr.mine                         "Tiene certificaus d'istas organizacions que le identifican:">
-<!ENTITY certmgr.others                       "Tiene certificaus en o fichero que identifican a istas personas:">
-<!ENTITY certmgr.websites2                    "Tiene certificaus en o fichero que identifican a istos servidors:">
-<!ENTITY certmgr.cas                          "Tiene certificaus en o fichero que identifican a istas entidatz certificaderas:">
-<!ENTITY certmgr.orphans                      "Tiene certificaus en o fichero que no s'achustan a garra d'a resta de categorías:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Cheneral">
 <!ENTITY certmgr.detail.general_tab.accesskey "C">

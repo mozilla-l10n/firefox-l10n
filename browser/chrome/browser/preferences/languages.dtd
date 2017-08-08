@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Luengas">
-<!ENTITY languages.customize.description                "As pachinas s'ofreixen en ocasions en mas d'un idioma. Trigue os idiomas pa amostrar ixas pachinas web, en orden de preferencia:">
+
 <!ENTITY languages.customize.moveUp.label               "Puyar">
 <!ENTITY languages.customize.moveUp.accesskey           "u">
 <!ENTITY languages.customize.moveDown.label             "Baixar">

@@ -31,3 +31,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "S'ha informau que lo puesto web en <span id='phishing_sitename'/> podría estar una falsificación web y ha estau blocau seguntes as suyas preferencias de seguranza.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los puestos web maliciosos son disenyaus pa enganyar-le y que faiga bella acción periglosa, como instalar software u revelar la suya información personal, ya contrasenyas, numeros de telefono u tarchetas de credito.</p><p>Introducir-ie qualsequier mena d'información puet resultar en una suplantación d'identidat u atra mena de fraus.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

@@ -45,14 +45,12 @@
 
 
 
-<!ENTITY  acceptThirdParty.pre.label      "Acceptar las cookies de tercers:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+
 
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
 
-<!ENTITY  keepUntil.label               "Conservar-las dica:">
-<!ENTITY  keepUntil.accesskey           "d">
+
 
 <!ENTITY  expire.label                  "que circumduzcan">
 <!ENTITY  close.label                   "que zarre o &brandShortName;">

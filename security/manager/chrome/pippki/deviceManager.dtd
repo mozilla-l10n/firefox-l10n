@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Introduzca la información d'o modulo que quiere adhibir.">
-<!ENTITY loaddevice.modname                     "Nombre d'o modulo:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+
+
 <!ENTITY loaddevice.modname.default             "Nuevo modulo PKCS#11">
-<!ENTITY loaddevice.filename                    "Nombre de fichero d'o modulo:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "Navegar…">
 <!ENTITY loaddevice.browse.accesskey            "N">
 
