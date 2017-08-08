@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "Arloadoù web argreskus">
 <!ENTITY pref_pwa_summary "Aotren an arloadoù web da vezañ ouzhpennet d\u0027ar skramm degemer">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-
-<!ENTITY pref_activity_stream "Lanv oberiantiz">
-<!ENTITY pref_activity_stream_summary "Gant ur roll istor pinvidik hag ur pennbajenn adijinet eo aesoc\u0027h c\u0027hoazh kavout ar pezh a fell deoc\u0027h e &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Bremañ gant ar gwarez heuliañ">
 <!ENTITY tracking_protection_prompt_text "Stankañ elfennoù heuliañ en un doare oberiant evit bezañ dinec\u0027het.">
@@ -847,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Donemat war ho mareoù pouezus">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; a grou liammoù davet traoù ho peus dizoloet war ar web evit ma c\u0027hallfec\u0027h kavout pennadoù, videoioù, sinedoù ha pajennoù all en-dro.">
+
+
+
+
