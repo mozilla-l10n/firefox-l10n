@@ -24,11 +24,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "আপুনি যোগ দিব খোজা মডিউলৰ তথ্য দিয়ক।">
-<!ENTITY loaddevice.modname                     "মডিউলৰ নাম:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+
+
 <!ENTITY loaddevice.modname.default             "নতুন PKCS#11 মডিউল">
-<!ENTITY loaddevice.filename                    "মডিউলৰ ফাইলনাম:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+
+
 <!ENTITY loaddevice.browse                      "ব্ৰাউছ কৰক…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
