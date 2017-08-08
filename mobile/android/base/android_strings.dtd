@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Aplikasi Web Progresif">
 <!ENTITY pref_pwa_summary "Benarkan aplikasi web untuk diletakkan di skrin utama">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Strim Aktiviti">
-<!ENTITY pref_activity_stream_summary "Halaman utama &brandShortName; yang penuh dengan suapan visual sejarah dan dikemaskini semula menjadikannya lebih mudah untuk anda menemukan apa yang anda cari.">
-
 <!ENTITY tracking_protection_prompt_title "Kini dengan Pelindungan Penjejakan">
 <!ENTITY tracking_protection_prompt_text "Menyekat elemen penjejakan secara aktif supaya anda tidak rasa bimbang.">
 <!ENTITY tracking_protection_prompt_tip_text "Lawati tetapan privasi untuk mengetahui lebih lanjut">
@@ -850,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Welcome to your Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\&apos;ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
+
+<!ENTITY private_tab_panel_title "Pelayaran Peribadi + Perlindungan Penjejakan">
+<!ENTITY private_tab_panel_description "&brandShortName; menyekat sebahagian halaman yang mungkin menjejaki aktiviti pelayaran anda.">
+<!ENTITY private_tab_panel_description2 "Kami tidak akan menyimpan sejarah, tetapi fail yang dimuat turun dan tandabuku baru akan masih disimpan pada peranti anda.">
+<!ENTITY private_tab_learn_more "Mahu ketahui selanjutnya?">
