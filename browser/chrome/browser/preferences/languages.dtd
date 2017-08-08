@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Rěče">
-<!ENTITY languages.customize.description                "Webstrony so druhdy we wjace hač jednej rěči k dispoziciji steja. Wubjerće rěče za předstajenje tutych webstronow we swojim preferowanym porjedźe:">
+
 <!ENTITY languages.customize.moveUp.label               "Horje">
 <!ENTITY languages.customize.moveUp.accesskey           "H">
 <!ENTITY languages.customize.moveDown.label             "Dele">

@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Awtority">
 <!ENTITY certmgr.tab.orphan2                  "Druhe">
 
-<!ENTITY certmgr.mine                         "Maće certifikaty z tutych organizacijow, kotrež was identifikuja:">
-<!ENTITY certmgr.others                       "Maće certifikaty wo dataji, kotrež tutych ludźi identifikuja:">
-<!ENTITY certmgr.websites2                    "Maće certifikaty wo dataji, kotreý tute serwery identifikuja:">
-<!ENTITY certmgr.cas                          "Maće certifikaty wo dataji, kotrež tute certifikatowe awtority identifikuja:">
-<!ENTITY certmgr.orphans                      "Maće certifikaty wo dataji, kotrež njehodźa so w jednej z druhich kategorijow:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Powšitkowny">
 <!ENTITY certmgr.detail.general_tab.accesskey "P">
