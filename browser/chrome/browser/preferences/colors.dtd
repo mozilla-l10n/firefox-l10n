@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Riamh">
 
 <!ENTITY  color                           "Téacs agus Cúlra">
-<!ENTITY  textColor.label                 "Téacs:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Cúlra:">
-<!ENTITY  backgroundColor.accesskey       "C">
+
+
+
+
 <!ENTITY  useSystemColors.label           "Úsáid dathanna an chórais">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Cuir líne faoi naisc">
 <!ENTITY  underlineLinks.accesskey        "f">
 <!ENTITY  links                           "Dathanna Nasc">
-<!ENTITY  linkColor.label                 "Naisc gan Chuairt:">
-<!ENTITY  linkColor.accesskey             "g">
-<!ENTITY  visitedLinkColor.label          "Naisc Fheicthe:">
-<!ENTITY  visitedLinkColor.accesskey      "e">
+
+
+
+

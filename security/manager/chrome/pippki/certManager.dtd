@@ -10,11 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Údaráis">
 <!ENTITY certmgr.tab.orphan2                  "Cinn Eile">
 
-<!ENTITY certmgr.mine                         "Tá teastais agat ó na heagrais seo a shainaithníonn tusa:">
-<!ENTITY certmgr.others                       "Tá teastais agat a shainaithníonn na daoine seo:">
-<!ENTITY certmgr.websites2                    "Tá teastais agat a shainaithníonn na freastalaithe seo:">
-<!ENTITY certmgr.cas                          "Tá teastais agat a shainaithníonn na húdaráis deimhniúcháin seo:">
-<!ENTITY certmgr.orphans                      "Tá teastais agat nach féidir iad a chur i gcatagóir ar bith eile:">
+
+
+
+
 
 <!ENTITY certmgr.detail.general_tab.title     "Ginearálta">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

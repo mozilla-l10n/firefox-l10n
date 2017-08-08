@@ -115,7 +115,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Eisceachtaí…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
-<!ENTITY offlineAppsList2.label          "Tá cead ag na suímh Ghréasáin seo a leanas sonraí a stóráil le húsáid as líne:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Bain…">
 <!ENTITY offlineAppsListRemove.accesskey "B">

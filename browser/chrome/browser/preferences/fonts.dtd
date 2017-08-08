@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Clófhoirne">
 
-<!ENTITY  language.label                          "Clófhoirne do:">
-<!ENTITY  language.accesskey                      "f">
 
-<!ENTITY  size.label                              "Méid:">
+
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "l">
 
-<!ENTITY  proportional.label                      "Cló Il-Leithid:">
-<!ENTITY  proportional.accesskey                  "I">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Cló Aonleithid:">
-<!ENTITY  monospace.accesskey                     "A">
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -53,8 +49,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Siolóinis">
 <!ENTITY  font.langGroup.tibetan                  "Tibéidis">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Clómhéid is lú:">
-<!ENTITY minSize.accesskey                        "C">
+
 <!ENTITY minSize.none                             "Gan sonrú">
 <!-- default font type -->
 
@@ -65,8 +60,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "b">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Ionchódú Carachtar le haghaidh Ábhair Oidhreachta">
-<!ENTITY languages.customize.Fallback2.label      "Ionchódú Réamhshocraithe Téacs:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+
+
 <!ENTITY languages.customize.Fallback2.desc       "Úsáidtear an t-ionchódú carachtar le haghaidh ábhair oidhreachta nuair nach bhfuil a ionchódú fógartha.">
 
 <!ENTITY languages.customize.Fallback.auto        "Réamhshocrú don Teanga Reatha">

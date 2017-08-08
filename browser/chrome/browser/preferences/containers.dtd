@@ -12,15 +12,13 @@
 <!ENTITY window.title         "Coimeádán Nua">
 <!ENTITY window.width         "50em">
 
-<!ENTITY name.label           "Ainm:">
-<!ENTITY name.accesskey       "n">
+
 <!ENTITY name.placeholder     "Cuir ainm an choimeádáin isteach">
-<!ENTITY icon.label           "Deilbhín:">
-<!ENTITY icon.accesskey       "i">
-<!ENTITY color.label          "Dath:">
-<!ENTITY color.accesskey      "t">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Críochnaithe">
 <!ENTITY button.ok.accesskey  "C">
-

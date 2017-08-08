@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tuairiscíodh gur suíomh cealgach an leathanach <span id='phishing_sitename'/> agus cuireadh bac air de bharr do roghanna slándála.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Deartar suíomhanna cealgacha chun tú a mhealladh le rud éigin dainséarach a dhéanamh. Mar shampla: cuirtear ar dhaoine bogearra a shuiteáil nó sonraí pearsanta a nochtadh; cosúil le d'fhocal faire, d'uimhir ghutháin nó do chárta creidmheasa. </p><p>Tá baol ann go ndéanfar bradaíl aitheantais nó calaois eile ort má iontrálann sonra ar bith ar an suíomh seo.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

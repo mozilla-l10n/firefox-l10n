@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Cuir isteach an fhaisnéis maidir leis an modúl a theastaíonn uait cur leis.">
-<!ENTITY loaddevice.modname                     "Ainm an Mhodúil:">
-<!ENTITY loaddevice.modname.accesskey           "A">
+
+
 <!ENTITY loaddevice.modname.default             "Modúl PKCS#11 Nua">
-<!ENTITY loaddevice.filename                    "Ainm chomhad an mhodúil:">
-<!ENTITY loaddevice.filename.accesskey          "c">
+
+
 <!ENTITY loaddevice.browse                      "Brabhsáil…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
