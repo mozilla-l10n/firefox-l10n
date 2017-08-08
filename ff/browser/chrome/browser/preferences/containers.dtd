@@ -11,15 +11,13 @@
 <!ENTITY window.title         "Ɓeydu Mooftiree Hesere">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Innde:">
-<!ENTITY name.accesskey       "I">
+
 <!ENTITY name.placeholder     "Winndu innde mooftirde">
-<!ENTITY icon.label           "Maandel:">
-<!ENTITY icon.accesskey       "M">
-<!ENTITY color.label          "Goobu:">
-<!ENTITY color.accesskey      "o">
+
+
+
+
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gasii">
 <!ENTITY button.ok.accesskey  "G">
-
