@@ -11,17 +11,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "хэзээ ч үгүй">
 
 <!ENTITY  color                           "Текст ба Ар дэвсгэр">
-<!ENTITY  textColor.label                 "Текст:">
-<!ENTITY  textColor.accesskey             "к">
-<!ENTITY  backgroundColor.label           "Ар дэвсгэр:">
-<!ENTITY  backgroundColor.accesskey       "А">
+
+
+
+
 
 
 
 <!ENTITY  underlineLinks.label            "Доогуур зурааст холбоос">
 <!ENTITY  underlineLinks.accesskey        "х">
 
-<!ENTITY  linkColor.label                 "Зорчоогүй холбоос:">
-<!ENTITY  linkColor.accesskey             "ч">
-<!ENTITY  visitedLinkColor.label          "Зорчсон холбоос:">
-<!ENTITY  visitedLinkColor.accesskey      "н">
+
+
+
+

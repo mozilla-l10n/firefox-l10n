@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 
 
@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Багаж">
-<!ENTITY toolsMenu.accesskey          "Б"> 
+<!ENTITY toolsMenu.accesskey          "Б">
 
 <!ENTITY keywordfield.label           "Энэ хайлтад түлхүүр үг нэм…">
 <!ENTITY keywordfield.accesskey       "ү">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
 
 
@@ -257,41 +257,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY editMenu.label         "Засварла"> 
-<!ENTITY editMenu.accesskey       "З"> 
+<!ENTITY editMenu.label         "Засварла">
+<!ENTITY editMenu.accesskey       "З">
 
-<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.key            "Z">
 
-<!ENTITY redoCmd.label            "Дахин үйлд">  
+<!ENTITY redoCmd.label            "Дахин үйлд">
 
-<!ENTITY redoCmd.accesskey          "Д"> 
-<!ENTITY cutCmd.label           "Тасдаж сана">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "Т"> 
+<!ENTITY redoCmd.accesskey          "Д">
+<!ENTITY cutCmd.label           "Тасдаж сана">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "Т">
 
 
 
-<!ENTITY pasteCmd.label           "Санамж буулга">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "С"> 
-<!ENTITY deleteCmd.label          "Устга">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "У"> 
-<!ENTITY selectAllCmd.label         "Бүгдийг сонго">  
+<!ENTITY pasteCmd.label           "Санамж буулга">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "С">
+<!ENTITY deleteCmd.label          "Устга">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "У">
+<!ENTITY selectAllCmd.label         "Бүгдийг сонго">
 
-<!ENTITY selectAllCmd.accesskey       "Б"> 
+<!ENTITY selectAllCmd.accesskey       "Б">
 
 
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
-<!ENTITY preferencesCmdUnix.accesskey     "Т"> 
+<!ENTITY preferencesCmdUnix.accesskey     "Т">
 
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Харагдац"> 
-<!ENTITY viewMenu.accesskey       "ц"> 
-<!ENTITY viewToolbarsMenu.label       "Багажит самбарууд"> 
-<!ENTITY viewToolbarsMenu.accesskey     "Б"> 
+<!ENTITY viewMenu.label         "Харагдац">
+<!ENTITY viewMenu.accesskey       "ц">
+<!ENTITY viewToolbarsMenu.label       "Багажит самбарууд">
+<!ENTITY viewToolbarsMenu.accesskey     "Б">
 <!ENTITY viewSidebarMenu.label "Хажуу самбарт">
 <!ENTITY viewSidebarMenu.accesskey "Х">
 
@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "Х">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Сонгосон хэсгийн эх бичлэгийг харах">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML эх бичлэгийг харах">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ч">
 <!ENTITY viewPageSourceCmd.label      "Хуудасны эх бичлэгийг харах">
@@ -529,7 +529,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Зургийн байрлалыг сануул">
 <!ENTITY copyImageCmd.accesskey       "З">
 <!ENTITY copyImageContentsCmd.label   "Зургийг сануул">
-<!ENTITY copyImageContentsCmd.accesskey  "у"> 
+<!ENTITY copyImageContentsCmd.accesskey  "у">
 <!ENTITY copyVideoURLCmd.label        "Видеоны байрлалыг сануул">
 <!ENTITY copyVideoURLCmd.accesskey    "л">
 <!ENTITY copyAudioURLCmd.label        "Дуут файлын байрлалыг сануул">
@@ -623,13 +623,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Гарах"> 
+<!ENTITY quitApplicationCmd.label       "Гарах">
 <!ENTITY quitApplicationCmd.accesskey   "Г">
 
 
 
-<!ENTITY closeCmd.label                 "Хаа">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Хаа">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Х">
 
 
