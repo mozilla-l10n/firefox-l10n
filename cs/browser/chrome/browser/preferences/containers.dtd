@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Přidat kontejner">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Název:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Název">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Zadejte název kontejneru">
-<!ENTITY icon.label           "Ikona:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Barva:">
-<!ENTITY color.accesskey      "r">
+<!ENTITY icon2.label          "Ikona">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Barva">
+<!ENTITY color2.accesskey     "r">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Hotovo">
 <!ENTITY button.ok.accesskey  "H">
-

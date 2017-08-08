@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Písma">
 
-<!ENTITY  language.label                          "Znaková sada:">
-<!ENTITY  language.accesskey                      "Z">
+<!ENTITY  fonts.label                             "Znaková sada">
+<!ENTITY  fonts.accesskey                         "Z">
 
-<!ENTITY  size.label                              "Velikost:">
+<!ENTITY  size2.label                             "Velikost">
 <!ENTITY  sizeProportional.accesskey              "l">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcionální:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcionální">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Patkové:">
-<!ENTITY  serif.accesskey                         "t">
-<!ENTITY  sans-serif.label                        "Bezpatkové:">
-<!ENTITY  sans-serif.accesskey                    "B">
-<!ENTITY  monospace.label                         "Neproporcionální:">
-<!ENTITY  monospace.accesskey                     "N">
+<!ENTITY  serif2.label                            "Patkové">
+<!ENTITY  serif2.accesskey                        "t">
+<!ENTITY  sans-serif2.label                       "Bezpatkové">
+<!ENTITY  sans-serif2.accesskey                   "B">
+<!ENTITY  monospace2.label                        "Neproporcionální">
+<!ENTITY  monospace2.accesskey                    "N">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhalština">
 <!ENTITY  font.langGroup.tibetan                  "Tibetština">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimální velikost písma:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Minimální velikost písma">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Žádná">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Znaková sada textu pro původní obsah">
-<!ENTITY languages.customize.Fallback2.label      "Výchozí znaková sada:">
-<!ENTITY languages.customize.Fallback2.accesskey  "z">
+<!ENTITY languages.customize.Fallback3.label      "Výchozí znaková sada">
+<!ENTITY languages.customize.Fallback3.accesskey  "z">
 <!ENTITY languages.customize.Fallback2.desc       "Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.">
 
 <!ENTITY languages.customize.Fallback.auto        "Výchozí pro aktuální lokalizaci">

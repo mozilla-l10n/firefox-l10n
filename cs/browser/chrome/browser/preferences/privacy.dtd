@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Povolit serverům nastavovat cookies">
 <!ENTITY  acceptCookies2.accesskey      "a">
 
-<!ENTITY  acceptThirdParty.pre.label      "Cookies třetích stran">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty2.pre.label     "Cookies třetích stran">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "povolit vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy nepovolovat">
 <!ENTITY  acceptThirdParty.visited.label  "povolit pouze navštívené">
 
-<!ENTITY  keepUntil.label               "Cookies ponechat do">
-<!ENTITY  keepUntil.accesskey           "d">
+<!ENTITY  keepUntil2.label              "Cookies ponechat do">
+<!ENTITY  keepUntil2.accesskey          "d">
 
 <!ENTITY  expire.label                  "konce doby platnosti">
 <!ENTITY  close.label                   "ukončení aplikace &brandShortName;">

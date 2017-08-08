@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Výjimky…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList2.label          "Následující servery mají povoleno ukládat offline obsah:">
+<!ENTITY offlineAppsList3.label          "Následující servery mají povoleno ukládat offline obsah">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Odebrat…">
 <!ENTITY offlineAppsListRemove.accesskey "d">
