@@ -8,10 +8,20 @@
 <!ENTITY clickToActivatePlugin                               "Doxal lawal gi.">
 <!ENTITY checkForUpdates                                     "Seet ay yeesal...">
 <!ENTITY blockedPlugin.label                                 "Gii lawal dees koo téye ngir mbiri kaaraange.">
+<!ENTITY hidePluginBtn.label                                 "Nëbb lawal gi">
+<!ENTITY managePlugins                                       "Yor lawal yi...">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
+<!ENTITY reloadPlugin.middle                                 "Yeesalaatal xët wi">
+<!ENTITY reloadPlugin.post                                   " ngir jéemaat.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Yónnee ag siiwalug taxaw">
+<!ENTITY report.submitting                                   "Yónneeg xibaar yi...">
+<!ENTITY report.submitted                                    "Yónnees na xibaar yi.">
+<!ENTITY report.disabled                                     "Doxadilees na siiwalug taxaw gi.">
+<!ENTITY report.failed                                       "Yónnee gi antuwul.">
+<!ENTITY report.unavailable                                  "Amul genn xibaaar gu jàppandi.">
 
