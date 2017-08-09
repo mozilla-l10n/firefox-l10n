@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Zgodovina posodobitev">
-<!ENTITY  history.intro             "Namestili ste naslednje posodobitve:">
+<!ENTITY  history2.intro            "Namestili ste naslednje posodobitve">
 <!ENTITY  closebutton.label         "Zapri">
-                                     
+
 <!ENTITY  noupdates.label           "Doslej niste namestili nobene posodobitve">
 
 <!ENTITY  name.header               "Ime posodobitve">

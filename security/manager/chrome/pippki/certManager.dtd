@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Overitelji">
 <!ENTITY certmgr.tab.orphan2                  "Drugi">
 
-<!ENTITY certmgr.mine                         "Imate digitalna potrdila naslednjih organizacij, ki predstavljajo vas:">
-<!ENTITY certmgr.others                       "Imate digitalna potrdila, ki predstavljajo naslednje ljudi:">
-<!ENTITY certmgr.websites2                    "Imate digitalna potrdila, ki predstavljajo naslednje strežnike:">
-<!ENTITY certmgr.cas                          "Imate digitalna potrdila, ki predstavljajo naslednje overitelje:">
-<!ENTITY certmgr.orphans                      "Imate digitalna potrdila, ki ne spadajo v nobeno izmed drugih kategorij:">
+<!ENTITY certmgr.mine2                        "Imate digitalna potrdila naslednjih organizacij, ki predstavljajo vas">
+<!ENTITY certmgr.others2                      "Imate digitalna potrdila, ki predstavljajo naslednje ljudi">
+<!ENTITY certmgr.websites3                    "Imate digitalna potrdila, ki predstavljajo naslednje strežnike">
+<!ENTITY certmgr.cas2                         "Imate digitalna potrdila, ki predstavljajo naslednje overitelje">
+<!ENTITY certmgr.orphans2                     "Imate digitalna potrdila, ki ne spadajo v nobeno izmed drugih kategorij">
 
 <!ENTITY certmgr.detail.general_tab.title     "Splošno">
 <!ENTITY certmgr.detail.general_tab.accesskey "S">

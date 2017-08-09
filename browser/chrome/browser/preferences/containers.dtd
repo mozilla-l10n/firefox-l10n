@@ -12,15 +12,11 @@
 <!ENTITY window.title         "Dodaj nov vsebnik">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Ime:">
-<!ENTITY name.accesskey       "m">
+<!ENTITY name2.label          "Ime">
 <!ENTITY name.placeholder     "Vnesite ime vsebnika">
-<!ENTITY icon.label           "Ikona:">
-<!ENTITY icon.accesskey       "k">
-<!ENTITY color.label          "Barva:">
-<!ENTITY color.accesskey      "B">
+<!ENTITY icon2.label          "Ikona">
+<!ENTITY color2.label         "Barva">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Končaj">
 <!ENTITY button.ok.accesskey  "K">
-
