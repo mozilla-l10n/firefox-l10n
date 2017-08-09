@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Oppdateringshistorikk">
-<!ENTITY  history.intro             "Desse oppdateringane er installerte:">
+<!ENTITY  history2.intro            "Følgjande oppdateringar er installerte">
 <!ENTITY  closebutton.label         "Lukk">
-                                     
+
 <!ENTITY  noupdates.label           "Ingen oppdateringar er installerte enno">
 
 <!ENTITY  name.header               "Oppdateringsnamn">

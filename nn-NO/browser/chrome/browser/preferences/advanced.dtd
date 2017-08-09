@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Unntak…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList2.label          "Følgjande nettstad har løyve til å lagre data for fråkopla bruk:">
+<!ENTITY offlineAppsList3.label          "Følgjande nettsider har løyve til å lagre datafiler for fråkopla bruk">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Slett…">
 <!ENTITY offlineAppsListRemove.accesskey "S">
