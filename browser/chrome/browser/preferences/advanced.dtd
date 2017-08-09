@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Výnimky…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "V">
 
-<!ENTITY offlineAppsList2.label          "Tieto webové stránky môžu ukladať údaje na použitie v režime offline:">
+<!ENTITY offlineAppsList3.label          "Tieto webové stránky môžu ukladať údaje na použitie v režime offline">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Odstrániť…">
 <!ENTITY offlineAppsListRemove.accesskey "O">

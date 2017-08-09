@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "r">
 <!ENTITY removeallpermissions2.label  "Odstrániť všetky stránky">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Adresa webového servera:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address2.label               "Adresa webovej stránky">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Zakázať">
 <!ENTITY block.accesskey              "a">
 <!ENTITY session.label                "Povoliť pre reláciu">
