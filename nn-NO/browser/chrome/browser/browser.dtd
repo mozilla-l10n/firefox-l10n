@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Utviding:">
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetre søkeopplevinga di med søkeforslag?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetre søkjeopplevinga di med søkjeforslag?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les meir…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjelp til å finne ting! Sjå etter &#x1F50E; ved sida av søkeforslag.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjelp til å finne ting! Sjå etter &#x1F50E; ved sida av søkjeforslag.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Endre innstillingar…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "E">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Endre innstillingar…">
