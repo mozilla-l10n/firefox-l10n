@@ -131,6 +131,10 @@ available. -->
 <!ENTITY performance.label               "ประสิทธิภาพ">
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "ใช้การตั้งค่าประสิทธิภาพที่แนะนำ">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "การตั้งค่าเหล่านี้ถูกปรับให้เหมาะสมกับฮาร์ดแวร์และระบบปฏิบัติการของคอมพิวเตอร์ของคุณ">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "ภ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "เรียนรู้เพิ่มเติม">
 <!ENTITY limitContentProcessOption.label "ขีดจำกัดโปรเซสเนื้อหา">

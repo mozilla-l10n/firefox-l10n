@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "ออกจากภาพเต็มหน้าจอ (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "ออกจากภาพเต็มหน้าจอ (esc)">
 <!ENTITY leaveDOMFullScreen.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "อ">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -170,13 +170,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.accesskey "บ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "แบ่งปันลิงก์นี้">
-<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareLink.accesskey "ง">
 <!ENTITY shareImage.label "แบ่งปันภาพนี้">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "ป">
 <!ENTITY shareSelect.label "แบ่งปันที่เลือก">
-<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareSelect.accesskey "ป">
 <!ENTITY shareVideo.label "แบ่งปันวิดีโอนี้">
-<!ENTITY shareVideo.accesskey "r">
+<!ENTITY shareVideo.accesskey "ป">
 <!ENTITY feedsMenu2.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
@@ -187,9 +187,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
 <!ENTITY showRecentlyBookmarked.label     "แสดงที่คั่นหน้าที่เพิ่งเพิ่ม">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.accesskey "ส">
 <!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่คั่นหน้าที่เพิ่งเพิ่ม">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
+<!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
 <!ENTITY backButton.tooltip           "ย้อนกลับไปหนึ่งหน้า">
