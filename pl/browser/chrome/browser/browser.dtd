@@ -303,6 +303,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
 <!ENTITY appMenuHistory.viewSidebar.label "Wyświetl historię w panelu bocznym">
+<!ENTITY appMenuHistory.recentHistory.label "Ostatnio odwiedzone">
 <!ENTITY appMenuHelp.label "Pomoc">
 <!ENTITY appMenuHelp.tooltip "Otwórz menu pomocy">
 
