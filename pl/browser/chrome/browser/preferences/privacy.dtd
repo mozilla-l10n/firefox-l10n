@@ -31,8 +31,8 @@
 
 <!ENTITY addressBar.label "Pasek adresu">
 <!ENTITY addressBar.suggest.label "Podpowiedzi w pasku adresu opieraj na:">
-<!ENTITY locbar.history.label "historii">
-<!ENTITY locbar.history.accesskey "">
+<!ENTITY locbar.history2.label "historii przeglądania">
+<!ENTITY locbar.history2.accesskey "">
 <!ENTITY locbar.bookmarks.label "zakładkach">
 <!ENTITY locbar.bookmarks.accesskey "">
 <!ENTITY locbar.openpage.label "otwartych kartach">
