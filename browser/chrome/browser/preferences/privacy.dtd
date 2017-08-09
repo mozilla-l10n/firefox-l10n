@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies2.accesskey      "a">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "Prihvati kolačiće trećih strana">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Uvijek">
 <!ENTITY  acceptThirdParty.never.label    "Nikad">
 <!ENTITY  acceptThirdParty.visited.label  "Od posjećenih">
 
-
+<!ENTITY  keepUntil2.label              "Zadrži do">
+<!ENTITY  keepUntil2.accesskey          "ž">
 
 <!ENTITY  expire.label                  "isteka roka">
 <!ENTITY  close.label                   "zatvaranja &brandShortName;">

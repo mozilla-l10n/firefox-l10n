@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "s">
 <!ENTITY  WPADTypeRadio.label           "Automatski pronađi postavke za ovu mrežu">
 <!ENTITY  WPADTypeRadio.accesskey       "t">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Ručno podešavanje proxyja">
+<!ENTITY  manualTypeRadio2.accesskey    "x">
+<!ENTITY  autoTypeRadio2.label          "URL za automatsko podešavanje proxyja">
+<!ENTITY  autoTypeRadio2.accesskey      "a">
 <!ENTITY  reload.label                  "Osvježi">
 <!ENTITY  reload.accesskey              "e">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "FTP Proxy">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP Proxy">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "SSL Proxy">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "SOCKS domaćin">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS kada se koristi SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "U">
 <!ENTITY  SSLport.accesskey             "l">
 <!ENTITY  FTPport.accesskey             "a">
 <!ENTITY  SOCKSport.accesskey           "z">
-
-
+<!ENTITY  noproxy2.label                "Bez proxyja za">
+<!ENTITY  noproxy2.accesskey            "z">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
 <!ENTITY  shareproxy.accesskey          "x">
