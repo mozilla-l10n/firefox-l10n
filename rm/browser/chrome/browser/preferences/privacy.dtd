@@ -46,15 +46,13 @@
 
 <!ENTITY  suggestionSettings2.label     "Midar las preferenzas per propostas da maschinas da tschertgar">
 
+<!ENTITY  acceptCookies2.label          "Acceptar cookies da websites">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Permetter cookies da terzs:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
 <!ENTITY  acceptThirdParty.always.label   "Adina">
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "Da visitads">
 
-<!ENTITY  keepUntil.label               "Memorisar fin che:">
-<!ENTITY  keepUntil.accesskey           "M">
 
 <!ENTITY  expire.label                  "els n'èn betg pli valids">
 <!ENTITY  close.label                   "&brandShortName; vegn serrà">
