@@ -112,6 +112,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ข้อยกเว้น…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "อ">
 
+<!ENTITY offlineAppsList3.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "เอาออก…">
 <!ENTITY offlineAppsListRemove.accesskey "อ">
