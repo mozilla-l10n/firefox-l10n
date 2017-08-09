@@ -33,6 +33,7 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
+<!ENTITY dataCollection.label            "&brandShortName;: Collecziun ed utilisaziun da datas">
 
 <!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns ">
 
@@ -106,7 +107,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepziuns…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Suandantas paginas d'internet dastgan memorisar datas per l'utilisaziun offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Allontanar…">
 <!ENTITY offlineAppsListRemove.accesskey "A">
