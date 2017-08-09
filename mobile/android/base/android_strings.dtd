@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Прогресивні веб-додатки">
 <!ENTITY pref_pwa_summary "Дозволити веб-додаткам додаватися на домашній екран">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Потік активності">
-<!ENTITY pref_activity_stream_summary "Розширена візуальна стрічка історії та оновлений вигляд домівки дозволяють дуже просто знайти саме те, що ви шукаєте в &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Тепер із захистом від стеження">
 <!ENTITY tracking_protection_prompt_text "Інтенсивне блокування елементів стеження, отже вам не потрібно хвилюватись.">
 <!ENTITY tracking_protection_prompt_tip_text "Щоб дізнатися більше, перегляньте налаштування приватності">
@@ -850,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Найцікавіші матеріали">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки найцікавіших матеріалів, які ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок та інших сторінок.">
+
+<!ENTITY private_tab_panel_title "Приватний перегляд + захист від стеження">
+<!ENTITY private_tab_panel_description "&brandShortName; блокує частини сторінок, які можуть стежити за вашою діяльністю.">
+<!ENTITY private_tab_panel_description2 "Ми не будемо запам\&apos;ятовувати будь-яку історію, але завантажені файли й нові закладки все одно будуть збережені на вашому пристрої.">
+<!ENTITY private_tab_learn_more "Хочете дізнатися більше?">
