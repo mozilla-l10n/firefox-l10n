@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresívne webové aplikácie">
 <!ENTITY pref_pwa_summary "Umožňuje webovým aplikáciám, aby boli pridané na domovskú obrazovku">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "Bohatý vizuálny výpis z histórie a upravená domovská stránka robia vyhľadávanie v prehliadači &brandShortName; príťažlivejšie než kedykoľvek predtým.">
-
 <!ENTITY tracking_protection_prompt_title "Teraz s Ochranou pred sledovaním">
 <!ENTITY tracking_protection_prompt_text "Aktívne blokuje prvky umožňujúce sledovanie, takže sa už viac nemusíte obávať.">
 <!ENTITY tracking_protection_prompt_tip_text "Ďalšie informácie v nastaveniach Súkromia">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Vymazať súkromné údaje pri ukončení">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku \u0022Ukončiť\u0022">
 <!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
-<!ENTITY pref_plugins "Zásuvné moduly">
-<!ENTITY pref_plugins_enabled "Povolené">
-<!ENTITY pref_plugins_tap_to_play2 "Ťuknutím prehrať">
-<!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_restore_tabs "Obnoviť karty">
 <!ENTITY pref_restore_always "Vždy obnoviť karty">
 <!ENTITY pref_restore_quit "Neobnovovať po ukončení prehliadača &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Vitajte vo vybraných stránkach">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; odteraz vytvára výber vecí, ktoré ste na webe objavili. Ľahko sa tak môžete dostať naspäť k zaujímavým článkom, videám, záložkám a iným stránkam.">
+
+<!ENTITY private_tab_panel_title "Súkromné prehliadanie + Ochrana pred sledovaním">
+<!ENTITY private_tab_panel_description "&brandShortName; blokuje tie časti stránok, ktoré môžu sledovať vašu aktivitu na webe.">
+<!ENTITY private_tab_panel_description2 "Neukladáme vašu históriu prehliadania, v zariadení zachováme len prevzaté súbory a novo vytvorené záložky.">
+<!ENTITY private_tab_learn_more "Chcete sa dozvedieť viac?">
