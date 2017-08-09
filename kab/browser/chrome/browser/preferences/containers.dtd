@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Rnu amagbar nniḍen">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Isem:">
-<!ENTITY name.accesskey       "I">
+<!ENTITY name2.label          "Isem">
+<!ENTITY name2.accesskey      "T">
 <!ENTITY name.placeholder     "Sekcem isem n umagbar ">
-<!ENTITY icon.label           "Tignit:">
-<!ENTITY icon.accesskey       "g">
-<!ENTITY color.label          "Ini:">
-<!ENTITY color.accesskey      "n">
+<!ENTITY icon2.label          "Tignit">
+<!ENTITY icon2.accesskey      "G">
+<!ENTITY color2.label         "Initen">
+<!ENTITY color2.accesskey     "w">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Immed">
 <!ENTITY button.ok.accesskey  "m">
-

@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Tisuraf…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "T">
 
-<!ENTITY offlineAppsList2.label          "Ismal-a web zemren ad skelsen isefka i useqdec arusrid:">
+<!ENTITY offlineAppsList3.label          "Ismal-agi web zemren ad sekelsen isefka i useqdec arusrid">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kkes…">
 <!ENTITY offlineAppsListRemove.accesskey "K">

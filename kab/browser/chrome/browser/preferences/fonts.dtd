@@ -4,22 +4,18 @@
 
 <!ENTITY  fontsDialog.title                       "Tisefsiyin">
 
-<!ENTITY  language.label                          "Tisefsiyin i:">
-<!ENTITY  language.accesskey                      "T">
+<!ENTITY  fonts.label                             "Tisefsiyin i">
+<!ENTITY  fonts.accesskey                         "S">
 
-<!ENTITY  size.label                              "Teɣzi:">
+<!ENTITY  size2.label                             "Teγzi">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Aẓunan:">
-<!ENTITY  proportional.accesskey                  "A">
+<!ENTITY  proportional2.label                     "Aẓunan">
+<!ENTITY  proportional2.accesskey                 "D">
 
-<!ENTITY  serif.label                             "Serif :">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Tehri tusbuṭ:">
-<!ENTITY  monospace.accesskey                     "T">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "T">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +49,6 @@
 <!ENTITY  font.langGroup.sinhala                  "Tasinhalit">
 <!ENTITY  font.langGroup.tibetan                  "Tatibitant">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Teɣzi taddayt n tsefsit:">
-<!ENTITY minSize.accesskey                        "T">
 <!ENTITY minSize.none                             "Ulac">
 
 <!-- default font type -->
@@ -65,8 +59,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
-<!ENTITY languages.customize.Fallback2.label      "Asettengel n uḍris n ufran aneggaru:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">

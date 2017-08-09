@@ -25,11 +25,9 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Sekcem talɣut ɣef uzegrir i tebɣiḍ aţernuḍ.">
-<!ENTITY loaddevice.modname                     "Isem n uzegrir:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Isem n uzegrir">
+<!ENTITY loaddevice.modname2.accesskey          "F">
 <!ENTITY loaddevice.modname.default             "Azegrir amaynut PKCS#11">
-<!ENTITY loaddevice.filename                    "Isem n ufaylu n uzegrir:">
-<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "ɛiwed nadi ...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

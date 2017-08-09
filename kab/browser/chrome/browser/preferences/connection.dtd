@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Tifin tawurmant n iɣewwaṛen n upṛuksi n uẓeṭṭa-a">
 <!ENTITY  WPADTypeRadio.accesskey       "T">
-<!ENTITY  manualTypeRadio.label         "Tawila s ufus n upṛuksi:">
-<!ENTITY  manualTypeRadio.accesskey     "w">
-<!ENTITY  autoTypeRadio.label           "Tansa n twila tawurmant n upṛuksi">
-<!ENTITY  autoTypeRadio.accesskey       "n">
+<!ENTITY  manualTypeRadio2.label        "Tawila s ufus n upṛuksi">
+<!ENTITY  manualTypeRadio2.accesskey    "k">
+<!ENTITY  autoTypeRadio2.label          "Tansa n twila tawurmant n upṛuksi URL">
+<!ENTITY  autoTypeRadio2.accesskey      "G">
 <!ENTITY  reload.label                  "Smiren">
 <!ENTITY  reload.accesskey              "S">
-<!ENTITY  ftp.label                     "Apṛuksi FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Apṛuksi HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Apṛuksi SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Asenneftaɣ SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Apṛuksi FTP">
+<!ENTITY  ftp2.accesskey                "S">
+<!ENTITY  http2.label                   "Apṛuksi HTTP">
+<!ENTITY  http2.accesskey               "q">
+<!ENTITY  ssl2.label                    "Apṛuksi SSL">
+<!ENTITY  ssl2.accesskey                "Y">
+<!ENTITY  socks2.label                  "Asenneftaɣ SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS L4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS L5">
 <!ENTITY  socks5.accesskey              "L">
 <!ENTITY  socksRemoteDNS.label2         "Apṛuksi DNS ticki SOCKS v5 yettwaseqdec">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Tabburt:">
+<!ENTITY  port2.label                   "Tabburt">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Ulac apṛuksi i:">
-<!ENTITY  noproxy.accesskey             "U">
+<!ENTITY  noproxy2.label                "Ulac apṛuksi i">
+<!ENTITY  noproxy2.accesskey            "l">
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Seqdec aqeddac-a, apṛuksi, i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">

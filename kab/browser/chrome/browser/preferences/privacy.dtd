@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Qbel inagan n tuqqna n yismal-agi">
 <!ENTITY  acceptCookies2.accesskey      "G">
 
-<!ENTITY  acceptThirdParty.pre.label      "Qbel inagan n tuqqna n wis kraḍ:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "Q">
+<!ENTITY  acceptThirdParty2.pre.label     "Qbel inagan n tuqqna n wis kraḍ">
+<!ENTITY  acceptThirdParty2.pre.accesskey "f">
 <!ENTITY  acceptThirdParty.always.label   "Yal ass">
 <!ENTITY  acceptThirdParty.never.label    "Weṛǧin">
 <!ENTITY  acceptThirdParty.visited.label  "Seg yismal ɣur terziḍ">
 
-<!ENTITY  keepUntil.label               "Gber-iten alama:">
-<!ENTITY  keepUntil.accesskey           "G">
+<!ENTITY  keepUntil2.label              "Ḥrez arma">
+<!ENTITY  keepUntil2.accesskey          "l">
 
 <!ENTITY  expire.label                  "Aneffeṛ nsen">
 <!ENTITY  close.label                   "Ad medleɣ &brandShortName;">
