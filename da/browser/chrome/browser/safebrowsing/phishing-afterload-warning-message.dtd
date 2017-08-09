@@ -31,3 +31,8 @@
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Webstedet <span id='phishing_sitename'/> er blevet anmeldt som et vildledende websted og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Vildledende websteder prøver at få dig til at foretage farlige handlinger, fx at installere skadelig software eller afsløre personlig information såsom adgangskoder, telefonnumre eller oplysninger om betalingskort.</p><p>Hvis du indtaster personlig information på denne side kan det resultere identitetstyveri eller anden svindel.</p>">
+
+<!ENTITY safeb.blocked.harmfulPage.title "Webstedet kan indeholde skadelig software">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox blokerede denne side, fordi den måske vil forsøge at installere skadelig software, der stjæler eller sletter dine informationer (eksempelvis billeder, adgangskoder, beskeder eller oplysninger om betalingskort).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
