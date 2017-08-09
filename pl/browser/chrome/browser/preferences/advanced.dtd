@@ -61,11 +61,12 @@
 
 <!ENTITY updateTab.label                 "Aktualizacja">
 <!ENTITY updateApplication.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateApplicationDescription.label "Utrzymuj program &brandShortName; aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.">
 <!ENTITY updateApplication.version.pre "Wersja: ">
 <!ENTITY updateApplication.version.post "">
 <!ENTITY updateApplication.description "Zezwalaj programowi &brandShortName; na:">
-<!ENTITY updateAuto2.label "Automatyczne instalowanie aktualizacji (zalecane dla większego bezpieczeństwa)">
-<!ENTITY updateAuto2.accesskey "">
+<!ENTITY updateAuto3.label "Automatyczne instalowanie aktualizacji (zalecane)">
+<!ENTITY updateAuto3.accesskey "">
 <!ENTITY updateCheckChoose2.label "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
 <!ENTITY updateCheckChoose2.accesskey "">
 <!ENTITY updateManual2.label "Niesprawdzanie dostępności aktualizacji (niezalecane)">
