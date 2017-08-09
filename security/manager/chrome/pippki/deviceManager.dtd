@@ -25,11 +25,8 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Skriv inn informasjonen for modulen du vil leggja til.">
-<!ENTITY loaddevice.modname                     "Modulnamn:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Modulnamn">
 <!ENTITY loaddevice.modname.default             "Ny PKCS#11-modul">
-<!ENTITY loaddevice.filename                    "Modulfilnamn:">
-<!ENTITY loaddevice.filename.accesskey          "f">
 <!ENTITY loaddevice.browse                      "Bla gjennom …">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
