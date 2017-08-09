@@ -95,7 +95,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "停用主题">
 <!ENTITY cmd.disableTheme.accesskey           "W">
-<!ENTITY cmd.askToActivate.label              "需要启用时问我">
+<!ENTITY cmd.askToActivate.label              "需要时询问">
 <!ENTITY cmd.askToActivate.tooltip            "每次询问是否使用此附加组件">
 <!ENTITY cmd.alwaysActivate.label             "总是激活">
 <!ENTITY cmd.alwaysActivate.tooltip           "总是使用此附加组件">

@@ -34,7 +34,7 @@
 <!ENTITY  permissions.label             "权限">
 
 <!ENTITY  addressBar.label              "地址栏">
-<!ENTITY  addressBar.suggest.label      "在使用地址栏时为我提供建议">
+<!ENTITY  addressBar.suggest.label      "使用地址栏时，为我建议：">
 <!ENTITY  locbar.history2.label         "浏览历史">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "书签">
