@@ -133,7 +133,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "使用推荐的性能设置">
 <!ENTITY useRecommendedPerformanceSettings.description
-                                         "最适合您的硬件和操作系统的设置。">
+                                         "自动选择适合此电脑配置的设置。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
