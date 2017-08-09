@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Шрифтове">
 
-<!ENTITY  language.label                          "Шрифтове за:">
-<!ENTITY  language.accesskey                      "Ш">
+<!ENTITY  fonts.label                             "Шрифтове за">
+<!ENTITY  fonts.accesskey                         "з">
 
-<!ENTITY  size.label                              "Големина:">
+<!ENTITY  size2.label                             "Големина">
 <!ENTITY  sizeProportional.accesskey              "Г">
 <!ENTITY  sizeMonospace.accesskey                 "а">
 
-<!ENTITY  proportional.label                      "Пропорционален:">
-<!ENTITY  proportional.accesskey                  "П">
+<!ENTITY  proportional2.label                     "Пропорционален">
+<!ENTITY  proportional2.accesskey                 "р">
 
-<!ENTITY  serif.label                             "Серифен:">
-<!ENTITY  serif.accesskey                         "С">
-<!ENTITY  sans-serif.label                        "Безсерифен:">
-<!ENTITY  sans-serif.accesskey                    "Б">
-<!ENTITY  monospace.label                         "Равноширок:">
-<!ENTITY  monospace.accesskey                     "в">
+<!ENTITY  serif2.label                            "Серифен">
+<!ENTITY  serif2.accesskey                        "ф">
+<!ENTITY  sans-serif2.label                       "Несерифен">
+<!ENTITY  sans-serif2.accesskey                   "е">
+<!ENTITY  monospace2.label                        "Равноширок">
+<!ENTITY  monospace2.accesskey                    "ш">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
 <!ENTITY  font.langGroup.tibetan                  "Тибетски">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Минимална големина:">
-<!ENTITY minSize.accesskey                        "М">
+<!ENTITY minSize2.label                           "Минимална големина">
+<!ENTITY minSize2.accesskey                       "л">
 <!ENTITY minSize.none                             "Няма">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "м">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодиране на остаряло съдържание">
-<!ENTITY languages.customize.Fallback2.label      "Резервно кодиране:">
-<!ENTITY languages.customize.Fallback2.accesskey  "к">
+<!ENTITY languages.customize.Fallback3.label      "Резервно кодиране на текст">
+<!ENTITY languages.customize.Fallback3.accesskey  "к">
 <!ENTITY languages.customize.Fallback2.desc       "Това кодиране на знаците ще бъде използвано за съдържание, което не предостави информация за своята кодировка.">
 
 <!ENTITY languages.customize.Fallback.auto        "Текущият локал да стане стандартен">
