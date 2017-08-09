@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressiva webbappar">
 <!ENTITY pref_pwa_summary "Tillåt att webappar läggs till på startskärmen">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktivitetsflöde">
-<!ENTITY pref_activity_stream_summary "En rik visuell historik och en återskapad startsida gör det enklare än någonsin att hitta exakt vad du letar efter i &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Nu med Spårningsskydd">
 <!ENTITY tracking_protection_prompt_text "Aktivt blockera spårningselement så att du inte behöver oroa dig.">
 <!ENTITY tracking_protection_prompt_tip_text "Besök Integritets inställningar för att lära dig mer">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Rensa privat data vid avslut">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \u0022Avsluta\u0022 från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
-<!ENTITY pref_plugins "Insticksmoduler">
-<!ENTITY pref_plugins_enabled "Aktiverad">
-<!ENTITY pref_plugins_tap_to_play2 "Tryck för att spela">
-<!ENTITY pref_plugins_disabled "Inaktiverat">
 <!ENTITY pref_restore_tabs "Återställ flikar">
 <!ENTITY pref_restore_always "Återställ alltid">
 <!ENTITY pref_restore_quit "Återställ inte när &brandShortName; avslutats">
@@ -851,3 +843,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Välkommen till dina höjdpunkter">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; skapar nu höjdpunkter av saker som du har upptäckt på webben så att du kan hitta tillbaka till bra artiklar, filmer, bokmärken och andra sidor.">
+
+<!ENTITY private_tab_panel_title "Privat surfning + spårningsskydd">
+<!ENTITY private_tab_panel_description "&brandShortName; blockerar delar av sidor som kan spåra din surfningsaktivitet.">
+<!ENTITY private_tab_learn_more "Vill du veta mer?">
