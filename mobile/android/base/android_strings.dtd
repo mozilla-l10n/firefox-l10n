@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Sveiki, čia jūsų akcentai">
 <!ENTITY activity_stream_welcome_content1 "„&brandShortName;“ dabar formuoja akcentus iš jūsų saityne atrastų dalykų, kad galėtumėte grįžti prie puikių straipsnių, vaizdo įrašų, adresyno įrašų ir kitų tinklalapių.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Privatusis naršymas + apsauga nuo stebėjimo">
+<!ENTITY private_tab_panel_description "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti tinklalapių dalis.">
+<!ENTITY private_tab_panel_description2 "Mes neįsiminsime jokios istorijos, tačiau parsiųsti failai ir nauji adresyno įrašai vis tiek bus įrašyti į jūsų įrenginį.">
+<!ENTITY private_tab_learn_more "Norite sužinoti daugiau?">
