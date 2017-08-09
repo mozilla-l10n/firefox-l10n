@@ -33,3 +33,5 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Laman mengelirukan direka untuk memperdaya anda membuat sesuatu yang berbahaya, seperti memasang perisian atau mendedahkan maklumat peribadi anda seperti kata laluan, nombor telefon atau kad kredit. 
 </p><p>Memasukkan apa jua maklumat dalam halaman web ini boleh menyebabkan kecurian identiti atau penyalahgunaan lain.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Laman ini mungkin mengandungi perisian hasad">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
