@@ -5,7 +5,7 @@
 <!ENTITY safeb.palm.accept.label "Zabierz mnie stąd!">
 <!ENTITY safeb.palm.decline.label "Zignoruj to ostrzeżenie">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
-<!ENTITY safeb.palm.advisory.desc "Ostrzeżenia zapewnia <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc "Na podstawie danych dostarczanych przez <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Strona zgłoszona jako dokonująca ataków!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Strona <span id='malware_sitename'/> została zgłoszona jako strona stanowiąca zagrożenie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
