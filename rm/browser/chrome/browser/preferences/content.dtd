@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Autorisaziuns">
 
 <!ENTITY  blockPopups.label           "Bloccar fanestras pop-up">
 <!ENTITY  blockPopups.accesskey       "p">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ulteriuras infurmaziuns">
+<!ENTITY  notificationsPolicyDesc4.label       "Tscherna las paginas che ta dastgan trametter communicaziuns">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Tscherner…">
 <!ENTITY  notificationsDoNotDisturb.label      "Betg disturbar">
@@ -50,5 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Translaziuns da">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Cuntegn DRM (Digital Rights Management)">
 
+<!ENTITY  playDRMContent2.label          "Far ir cuntegn controllà da DRM">
+<!ENTITY  playDRMContent2.accesskey      "F">
 <!ENTITY  playDRMContent.learnMore.label "Ulteriuras infurmaziuns">
