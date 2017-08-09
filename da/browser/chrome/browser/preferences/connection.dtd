@@ -18,8 +18,8 @@
 <!ENTITY manualTypeRadio2.accesskey    "M">
 <!ENTITY autoTypeRadio2.label          "Automatisk proxy-konfigurations-URL">
 <!ENTITY autoTypeRadio2.accesskey      "U">
-<!ENTITY reload2.label                 "Genindlæs">
-<!ENTITY reload2.accesskey             "e">
+<!ENTITY reload.label                 "Genindlæs">
+<!ENTITY reload.accesskey             "e">
 <!ENTITY ftp2.label                    "FTP-proxy">
 <!ENTITY ftp2.accesskey                "F">
 <!ENTITY http2.label                   "HTTP-proxy">
