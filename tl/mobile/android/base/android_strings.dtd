@@ -10,11 +10,13 @@
 <!ENTITY firstrun_data_message "Konting datos, mas maraming ipon">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_signin_button "Mag-sign in sa Sync">
+<!ENTITY  onboard_start_button_browser "Simulan ang pag-browse">
 <!ENTITY firstrun_button_notnow "Hindi ngayon">
 <!ENTITY firstrun_button_next "Susunod">
 
 <!ENTITY firstrun_tabqueue_title "Mga Link">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Buksan ang Tab queue">
 
 <!ENTITY firstrun_tabqueue_message_on "Tagumpay!">
 
@@ -25,6 +27,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ikaw">
+<!ENTITY firstrun_account_message "Mayroon &brandShortName; sa ibang aparato?">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -63,6 +66,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Ilipat">
 
 <!ENTITY history_today_section "Ngayon">
 <!ENTITY history_yesterday_section "Kahapon">
@@ -71,17 +75,21 @@
 <!ENTITY search "Hanapin">
 <!ENTITY reload "I-reload">
 <!ENTITY forward "Pasulong">
+<!ENTITY menu "Menu">
 <!ENTITY back "Balik">
 <!ENTITY stop "Hinto">
 <!ENTITY edit_mode_cancel "Kanselahin">
 
 <!ENTITY close_tab "Isara ang Tab">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; mga tab">
 <!ENTITY new_tab_opened "Bagong tab na binuksan">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -92,6 +100,7 @@
 
 <!ENTITY settings "Settings">
 <!ENTITY settings_title "Settings">
+<!ENTITY pref_category_general "Pangkalahatan">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -105,6 +114,7 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "I-dagdag ito &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
@@ -120,6 +130,7 @@
      are found. -->
 
 <!ENTITY pref_category_search3 "Paghahanap">
+<!ENTITY pref_category_logins "Mga login">
 <!ENTITY pref_learn_more "Alamin pa">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -130,7 +141,10 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 
+<!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home_panels "Mga panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_category_home_homepage "Homepage">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
@@ -173,14 +187,18 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ay na kopya na">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY tracking_protection_prompt_action_button "Nakuha ko!">
 
+<!ENTITY tab_queue_toast_action "Buksan ngayun">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "Paganahin">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Magpunta sa Settings">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -199,12 +217,15 @@
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Basahin ngayun">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
 
+<!ENTITY pref_char_encoding_on "Ipakita ang menu">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Burahin ngayon">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
@@ -313,6 +334,9 @@
      title of a dialog; we expect more than one device. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
 
 
 
@@ -438,4 +462,5 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+
 
