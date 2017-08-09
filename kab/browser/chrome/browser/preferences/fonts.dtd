@@ -16,6 +16,8 @@
 
 <!ENTITY  serif2.label                            "Serif">
 <!ENTITY  serif2.accesskey                        "T">
+<!ENTITY  sans-serif2.accesskey                   "l">
+<!ENTITY  monospace2.accesskey                    "F">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -49,6 +51,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Tasinhalit">
 <!ENTITY  font.langGroup.tibetan                  "Tatibitant">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "Teɣzi taddayt n tsefsit">
+<!ENTITY minSize2.accesskey                       "w">
 <!ENTITY minSize.none                             "Ulac">
 
 <!-- default font type -->
@@ -59,6 +63,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
+<!ENTITY languages.customize.Fallback3.label      "Asettengel n uḍris n ufran aneggaru">
 <!ENTITY languages.customize.Fallback2.desc       "Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">

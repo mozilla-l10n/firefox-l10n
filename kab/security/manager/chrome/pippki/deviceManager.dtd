@@ -28,6 +28,8 @@
 <!ENTITY loaddevice.modname2                    "Isem n uzegrir">
 <!ENTITY loaddevice.modname2.accesskey          "F">
 <!ENTITY loaddevice.modname.default             "Azegrir amaynut PKCS#11">
+<!ENTITY loaddevice.filename2                   "Isem n ufaylu n uzegrir">
+<!ENTITY loaddevice.filename2.accesskey         "a">
 <!ENTITY loaddevice.browse                      "ɛiwed nadi ...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

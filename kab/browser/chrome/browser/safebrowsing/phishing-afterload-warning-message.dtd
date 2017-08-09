@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Asebter-a web illan deg <span id='phishing_sitename'/> yettwammel d akken d asmel n ukellex. Ihi, ittusewḥel akken llan ismenyifen-inek n tɣellist.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ismal web n ukellex d wid ittaɛraḍen ad xedmen ayen ur yelhin ara, am usebded n iseɣẓan, neɣ takerḍa n telɣut-inek tudmawant, am awalen uffiren, uṭṭunen n tiliɣṛi, takarḍa n usmad.</p><p>Yezmer d akken ma teskecmeḍ talɣut-inek tudmawant, ad-yeglu s takeṛḍa-ines neɣ akellex nniḍen.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
