@@ -55,6 +55,7 @@
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
 
 <!ENTITY  keepUntil2.label              "เก็บจนกระทั่ง">
+<!ENTITY  keepUntil2.accesskey          "ก">
 
 <!ENTITY  expire.label                  "คุกกี้หมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">

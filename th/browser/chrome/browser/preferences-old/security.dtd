@@ -27,6 +27,7 @@
 <!ENTITY  logins.label                  "การเข้าสู่ระบบ">
 
 <!ENTITY  rememberLogins2.label         "จดจำการเข้าสู่ระบบสำหรับเว็บไซต์">
+<!ENTITY  rememberLogins2.accesskey     "ด">
 <!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "อ">
 
