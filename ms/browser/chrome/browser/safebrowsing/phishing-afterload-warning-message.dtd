@@ -35,3 +35,5 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Laman ini mungkin mengandungi perisian hasad">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox menyekat halaman ini kerana cuba memasang aplikasi berbahaya yang boleh mencuri atau menghapuskan maklumat anda (contoh, foto, kata laluan, mesej dan kad kredit).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
