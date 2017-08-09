@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "渐进式 Web 应用">
 <!ENTITY pref_pwa_summary "允许网页应用添加到主屏幕">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "活动流">
-<!ENTITY pref_activity_stream_summary "将您的上网足迹可视化并重新构想首页设计，让您能更方便地在 &brandShortName; 中找到想要的信息。">
-
 <!ENTITY tracking_protection_prompt_title "现在有了跟踪保护功能">
 <!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，无需劳心。">
 <!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
@@ -847,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "欢迎！这里是您的集锦">
 <!ENTITY activity_stream_welcome_content1 "现在，&brandShortName; 会把您在网上的新发现整理成集锦，方便您快速回到这些有用的文章、视频、加了书签的网页等。">
+
+<!ENTITY private_tab_panel_title "隐私浏览 + 跟踪保护">
+<!ENTITY private_tab_panel_description "&brandShortName; 将拦截页面中可能跟踪您的浏览行为的部分。">
+<!ENTITY private_tab_panel_description2 "我们不会记住任何浏览历史，但下载的文件和新添加的书签仍会保存在您的设备上。">
+<!ENTITY private_tab_learn_more "想详细了解？">
