@@ -29,12 +29,14 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 
 <!ENTITY enableHealthReport1.label       "อนุญาตให้ &brandShortName; ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง Mozilla โดยอัตโนมัติ">
+<!ENTITY enableHealthReport1.accesskey   "อ">
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
 <!ENTITY dataCollection.label            "การเก็บรวบรวมและใช้ข้อมูล &brandShortName;">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "น">
 <!ENTITY crashReporterLearnMore.label    "เรียนรู้เพิ่มเติม">
 
 <!ENTITY networkTab.label                "เครือข่าย">
@@ -110,7 +112,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ข้อยกเว้น…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "อ">
 
-<!ENTITY offlineAppsList2.label          "เว็บไซต์ดังต่อไปนี้ได้รับอนุญาตให้จัดเก็บข้อมูลสำหรับใช้งานออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "เอาออก…">
 <!ENTITY offlineAppsListRemove.accesskey "อ">
