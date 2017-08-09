@@ -135,7 +135,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ใช้การตั้งค่าประสิทธิภาพที่แนะนำ">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "การตั้งค่าเหล่านี้ถูกปรับให้เหมาะเข้ากับฮาร์ดแวร์และระบบปฏิบัติการของคุณ">
+                                         "การตั้งค่าเหล่านี้ถูกปรับให้เหมาะสมกับฮาร์ดแวร์และระบบปฏิบัติการของคอมพิวเตอร์ของคุณ">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "ภ">
 <!ENTITY performanceSettingsLearnMore.label

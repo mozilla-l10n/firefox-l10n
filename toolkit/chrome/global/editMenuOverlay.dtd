@@ -32,4 +32,4 @@
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "ห">
 <!ENTITY findPreviousCmd.label     "ค้นหาก่อนหน้า">
-<!ENTITY findPreviousCmd.accesskey "ก">
+<!ENTITY findPreviousCmd.accesskey "น">
