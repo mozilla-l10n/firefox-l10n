@@ -32,7 +32,7 @@
 <!ENTITY clientAuthAsk.message3 "所选证书细节：">
 
 <!ENTITY pkcs12.setpassword.title  "输入证书备份密码">
-<!ENTITY pkcs12.setpassword.message  "证书备份密码是用来保护您将创建的证书备份文件的。您必需设置此密码来进行备份。">
+<!ENTITY pkcs12.setpassword.message  "证书备份密码是用来保护您即将创建的证书备份文件。您必须设置此密码才能备份。">
 <!ENTITY pkcs12.setpassword.label1 "证书备份密码：">
 <!ENTITY pkcs12.setpassword.label2 "证书备份密码（重复）：">
 <!ENTITY pkcs12.setpassword.reminder "重要：如果您忘记了您的证书备份密码，您此后将无法恢复此备份。请将它记在一个安全的地方。">
@@ -41,7 +41,7 @@
 <!ENTITY chooseToken.message1 "请选择一个令牌。">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "产生新的私钥">
+<!ENTITY createCertInfo.title "生成一个私钥">
 <!ENTITY createCertInfo.msg1 "正在生成密钥… 可能需要几分钟…。">
 <!ENTITY createCertInfo.msg2 "请稍候…">
 

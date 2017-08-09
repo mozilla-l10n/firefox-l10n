@@ -8,7 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "连接失败">
-<!ENTITY connectionFailure.longDesc "<p>与此网站连接失败，但网址似乎是正确的。</p><ul><li>可能是此网站暂停服务了？请稍后再试。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接。</li><li>您的计算机或网络是否开启了防火墙、代理服务器？请确认它们是否正确设置了。</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>此网站似乎有效，但建立连接失败。</p><ul><li>也许此网站暂时停止服务？那么请稍后再试。</li><li>您能否浏览其他网站呢？如否则请检查您的网络连接。</li><li>您的计算机或网络是否开启了防火墙、代理服务器？请确认它们的设置是否正确。</li></ul>">
 
 <!ENTITY deniedPortAccess.title "安全原因导致访问端口受限">
 <!ENTITY deniedPortAccess.longDesc "<p>该网站指定的端口（例如 <q>mozilla.org:80</q> 表示使用 mozilla.org 的 80 端口）通常<em>不是</em>正常网站会使用的。为了您的安全考虑，浏览器取消了访问网站的请求。</p>">
