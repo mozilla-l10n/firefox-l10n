@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Undtagelser…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList2.label           "Følgende websteder har tilladelse til at gemme data til brug offline:">
+<!ENTITY offlineAppsList3.label           "Følgende websteder har tilladelse til at gemme data til brug offline">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fjern…">
 <!ENTITY offlineAppsListRemove.accesskey "F">
