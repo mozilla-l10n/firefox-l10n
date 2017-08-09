@@ -284,6 +284,8 @@
 <!ENTITY viewSidebarMenu.accesskey "b" >
 <!ENTITY viewCustomizeToolbar.label "Dostosuj…" >
 <!ENTITY viewCustomizeToolbar.accesskey "t" >
+<!ENTITY overflowCustomizeToolbar.label "Dostosuj pasek narzędzi…">
+<!ENTITY overflowCustomizeToolbar.accesskey "D">
 
 <!ENTITY historyMenu.label "Historia">
 <!ENTITY historyMenu.accesskey "h">
