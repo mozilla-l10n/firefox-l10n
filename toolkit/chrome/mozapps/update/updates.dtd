@@ -11,37 +11,37 @@
 <!ENTITY  noupdatesautodisabled.intro     "Ingen oppdateringar er tilgjengelege. Prøv igjen seinare, eller slå på
                                            automatisk oppdateringssøk for &brandShortName;.">
 
-<!ENTITY  manualUpdate.title              "Klarte ikkje å oppdatera">
-<!ENTITY  manualUpdate.desc               "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men du har ikkje tilgangsrettane som er nødvendig for å installera henne. Kontakt systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til å installera programvare på denne datamaskina.">
-<!ENTITY  manualUpdate.space.desc         "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men du har ikkje nok ledig diskplass til å installera henne.">
-<!ENTITY  manualUpdateGetMsg.label        "Du kan òg lasta ned den nyaste versjonen av &brandShortName; frå:">
+<!ENTITY  manualUpdate.title              "Klarte ikkje å oppdatere">
+<!ENTITY  manualUpdate.desc               "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men du har ikkje tilgangsrettane som er nødvendig for å installere henne. Kontakt systemansvarleg eller prøv på nytt frå ein brukarkonto som har tilgang til å installere programvare på denne datamaskina.">
+<!ENTITY  manualUpdate.space.desc         "Ei tilrådd tryggings- og stabilitetsoppdatering er tilgjengeleg, men du har ikkje nok ledig diskplass for å installere henne.">
+<!ENTITY  manualUpdateGetMsg.label        "Du kan òg laste ned den nyaste versjonen av &brandShortName; frå:">
 
 <!ENTITY  unsupported.title               "Systemet er ikkje støtta">
 <!ENTITY  unsupported.label               "&brandShortName; er utdatert, men den nyaste versjonen er ikkje støtta på systemet ditt. Oppgrader systemet, og prøv igjen. Du vil ikkje sjå dette varselet igjen, men du kan ">
-<!ENTITY  unsupportedLink.label           "lesa meir om det.">
+<!ENTITY  unsupportedLink.label           "lese meir om det.">
 
 <!ENTITY  clickHere.label                 "Trykk her for meir informasjon om denne oppdateringa">
 
-<!ENTITY  evangelism.desc                 "Det er sterkt tilrådd at du installerer denne oppdateringa for &brandShortName; så snart som muleg.">
+<!ENTITY  evangelism.desc                 "Det er sterkt tilrådd at du installerer denne oppdateringa for &brandShortName; så snart som mogleg.">
 
 <!ENTITY  downloadPage.title              "Lastar ned &brandShortName;">
-<!ENTITY  downloading.intro               "Lastar ned oppdateringa …">
-<!ENTITY  connecting.label                "Koplar til oppdateringstenaren …">
-<!ENTITY  verificationFailedText.label    "&brandShortName; klarte ikkje å kontrollera integriteten til den stegvise oppdateringa som vart lasta ned, og den fullstendige oppdateringspakken vert no lasta ned.">
+<!ENTITY  downloading.intro               "Lastar ned oppdateringa…">
+<!ENTITY  connecting.label                "Koplar til oppdateringstenaren…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; klarte ikkje å kontrollere integriteten til den stegvise oppdateringa som vart lasta ned, og den fullstendige oppdateringspakken vert no lasta ned.">
 
 <!ENTITY  viewDetails.tooltip             "Vis detaljar for denne oppdateringa">
 
 <!ENTITY  details.link                    "Detaljar">
 
-<!ENTITY  error.title                     "Mislukka oppdatering">
+<!ENTITY  error.title                     "Mislykka oppdatering">
 
-<!ENTITY  error.label                     "Det oppstod problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatera &brandShortName; fordi:">
+<!ENTITY  error.label                     "Det oppstod problem under kontroll, nedlasting eller installering av denne oppdateringa. Klarte ikkje å oppdatere &brandShortName; fordi:">
                                            
-<!ENTITY  errorManual.label               "Du kan oppdatera &brandShortName; manuelt ved å gå til denne lenka, for å lasta ned siste versjon:">
+<!ENTITY  errorManual.label               "Du kan oppdatere &brandShortName; manuelt ved å gå til denne lenka, for å lasta ned siste versjon:">
                                            
 <!ENTITY  errorpatching.intro             "Installering av den stegvise oppdateringa feila. &brandShortName; vil prøve å lasta ned ei fullstendige oppdatering.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjera om det finst ei tilgjengeleg oppdatering. Kontroller om du har den nyaste versjonen av &brandShortName; frå:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; klarer ikkje å avgjere om det finst ei tilgjengeleg oppdatering. Kontroller om du har den nyaste versjonen av &brandShortName; frå:">
 
 <!ENTITY  finishedPage.title              "Oppdatering klar for innstallering">
 <!ENTITY  finishedPage.text               "Oppdateringa vert installert neste gong &brandShortName; startar. Du kan starte &brandShortName; på nytt no, eller halde fram med å arbeide og starte på nytt seinare.">
@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackgroundPage.text     "Ei tryggings- og stabilitetsoppdatering for &brandShortName; er lasta ned og klar for installering.">
 <!ENTITY  finishedBackground.name         "Oppdatering:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Oppdateringa vil bli installert neste gong &brandShortName; startar. Du kan starta &brandShortName; på nytt no, eller du kan halda fram med å arbeida og starta på nytt einare.">
+<!ENTITY  finishedBackground.more         "Oppdateringa vil bli installert neste gong &brandShortName; startar. Du kan starte &brandShortName; på nytt no, eller du kan fortsetje med å arbeide og starte på nytt seinare.">
 <!ENTITY  finishedBackground.moreElevated "Denne oppdateringa krev administratorrettar. Opdateringa vil bli installert neste gong &brandShortName; vert starta. Du kan starte &brandShortName; på nytt no, fortsetje med å arbeide og starte på nytt seinare, eller du kan avvise denne opdateringa.">
 
 <!ENTITY  update.details.label            "Detaljar">
