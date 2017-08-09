@@ -6,7 +6,7 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Vel standard søkjemotor. &brandShortName; brukar han i adresselinja, i søkelinja og på startsida.">
 
-<!ENTITY provideSearchSuggestions.label        "Tilby søkeforslag">
+<!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
 
 <!ENTITY showURLBarSuggestions.label           "Vis søkjeforslag i adresselinjeresultata">
