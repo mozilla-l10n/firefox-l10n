@@ -24,6 +24,7 @@
 <!ENTITY changeBlockList2.label               "เปลี่ยนรายการการปิดกั้น…">
 <!ENTITY changeBlockList2.accesskey           "ร">
 
+<!ENTITY  doNotTrack.description        "ส่งสัญญาณ “ไม่ติดตาม” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม">
 <!ENTITY  doNotTrack.learnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  doNotTrack.default.label      "เฉพาะเมื่อใช้การป้องกันการติดตาม">
 <!ENTITY  doNotTrack.always.label       "เสมอ">
@@ -48,6 +49,7 @@
 <!ENTITY  acceptCookies2.accesskey      "ย">
 
 <!ENTITY  acceptThirdParty2.pre.label     "ยอมรับคุกกี้จากบุคคลที่สาม">
+<!ENTITY  acceptThirdParty2.pre.accesskey "อ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
