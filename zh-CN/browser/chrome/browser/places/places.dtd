@@ -46,13 +46,13 @@
 
 <!ENTITY cmd.open.label                  "打开">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "在新窗口中打开">
+<!ENTITY cmd.open_window.label           "新建窗口打开">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "在新的隐私窗口中打开">
+<!ENTITY cmd.open_private_window.label     "新建隐私浏览窗口打开">
 <!ENTITY cmd.open_private_window.accesskey "P">
-<!ENTITY cmd.open_tab.label              "在新标签页中打开">
+<!ENTITY cmd.open_tab.label              "新建标签页打开">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "在标签页中打开书签组">
+<!ENTITY cmd.open_all_in_tabs.label      "以标签页打开书签组">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "属性">
