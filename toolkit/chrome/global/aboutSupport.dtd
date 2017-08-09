@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Inačica">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; mogućnosti">
+<!ENTITY aboutSupport.featureName "Naziv">
+<!ENTITY aboutSupport.featureVersion "Inačica">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimentalne značajke">
 <!ENTITY aboutSupport.experimentName "Naziv">
@@ -65,8 +66,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Više procesni prozori">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesi web sadržaja">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Sigurni način rada">
 
@@ -77,6 +80,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Prikaži u Finderu">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Otvori mapu">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Važne izmijenjene osobitosti">
 <!ENTITY aboutSupport.modifiedPrefsName "Naziv">
@@ -136,12 +140,12 @@ variant of aboutSupport.showDir.label. -->
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDeviceName "Naziv">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupa">
+<!ENTITY aboutSupport.mediaDeviceVendor "Prodavač">
+<!ENTITY aboutSupport.mediaDeviceState "Država">
+<!ENTITY aboutSupport.mediaDevicePreferred "Željeno">
+<!ENTITY aboutSupport.mediaDeviceFormat "Oblik">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanali">
+<!ENTITY aboutSupport.mediaDeviceRate "Stopa">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencija">
