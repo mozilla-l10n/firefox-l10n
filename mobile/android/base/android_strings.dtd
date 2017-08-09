@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Προοδευτικές διαδικτυακές εφαρμογές">
 <!ENTITY pref_pwa_summary "Να επιτρέπεται η προσθήκη διαδικτυακών εφαρμογών στην αρχική οθόνη">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Ροή δραστηριότητας">
-<!ENTITY pref_activity_stream_summary "Μια πλούσια οπτική ροή ιστορικού και μια επανασχεδιασμένη αρχική σελίδα σάς βοηθούν περισσότερο από ποτέ να βρείτε ακριβώς αυτό που ψάχνετε στο &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Τώρα και με προστασία δεδομένων περιήγησης">
 <!ENTITY tracking_protection_prompt_text "Ενεργή φραγή της καταγραφής δεδομένων περιήγησης έτσι ώστε να μην χρειάζεται να ανησυχείτε.">
 <!ENTITY tracking_protection_prompt_tip_text "Μεταβείτε στις ρυθμίσεις απορρήτου για να μάθετε περισσότερα">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Εκκαθάριση ιδιωτικών δεδομένων κατά την έξοδο">
 <!ENTITY pref_clear_on_exit_summary2 "Ο &brandShortName; θα προχωρά αυτόματα σε εκκαθάριση των δεδομένων σας όταν θα επιλέγετε \u0022Έξοδος\u0022 από το κύριο μενού">
 <!ENTITY pref_clear_on_exit_dialog_title "Επιλέξετε τα δεδομένα προς εκκαθάριση">
-<!ENTITY pref_plugins "Πρόσθετες λειτουργίες">
-<!ENTITY pref_plugins_enabled "Ενεργοποιημένες">
-<!ENTITY pref_plugins_tap_to_play2 "Ενεργοποίηση με πάτημα">
-<!ENTITY pref_plugins_disabled "Απενεργοποιημένες">
 <!ENTITY pref_restore_tabs "Επαναφορά καρτελών">
 <!ENTITY pref_restore_always "Να επαναφέρονται πάντα">
 <!ENTITY pref_restore_quit "Να μην επαναφέρονται μετά την έξοδο από τον &brandShortName;">
@@ -854,3 +846,6 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Καλώς ορίσατε στις κορυφαίες στιγμές σας">
 <!ENTITY activity_stream_welcome_content1 "Το &brandShortName; δημιουργεί πλέον τις κορυφαίες στιγμές από πράγματα που έχετε ανακαλύψει στο διαδίκτυο, ώστε να μπορέσετε να επιστρέψετε σε έξοχα άρθρα, βίντεο, σελιδοδείκτες και άλλες σελίδες.">
+
+<!ENTITY private_tab_panel_title "Ιδιωτική Περιήγηση + Προστασία Παρακολούθησης">
+<!ENTITY private_tab_learn_more "Θέλετε να μάθετε περισσότερα;">
