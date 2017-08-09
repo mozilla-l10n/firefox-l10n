@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "u">
 
 <!ENTITY noTranslationForSites.label      "Per suandantas paginas na vegnan offeridas naginas translaziuns:">
-<!ENTITY treehead.siteName.label          "Paginas">
+<!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Allontanar pagina">
 <!ENTITY removeSite.accesskey             "l">
 <!ENTITY removeAllSites.label             "Allontanar tut las paginas">
