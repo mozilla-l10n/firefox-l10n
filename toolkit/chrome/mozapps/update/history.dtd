@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "ประวัติการอัปเดต">
-<!ENTITY  history.intro             "การอัปเดตดังต่อไปนี้ได้รับการติดตั้งแล้ว:">
+<!ENTITY  history2.intro            "การอัปเดตดังต่อไปนี้ได้รับการติดตั้งแล้ว">
 <!ENTITY  closebutton.label         "ปิด">
-                                     
+
 <!ENTITY  noupdates.label           "ยังไม่มีการอัปเดตถูกติดตั้ง">
 
 <!ENTITY  name.header               "ชื่อการอัปเดต">
