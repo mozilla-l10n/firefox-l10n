@@ -16,9 +16,15 @@
 <!ENTITY  color                           "लेखी मजकूर आणि पृष्ठभाग">
 <!ENTITY  textColor2.label                "मजकूर">
 <!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "पार्श्वभूमी">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "प्रणाली रंगांचा वापर करा">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "लिंक अधोरेखीत करा">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "लिंकचे रंग">
+<!ENTITY  linkColor2.label                "भेट न दिलेले दुवे">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "भेट दिलेले दुवे">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
