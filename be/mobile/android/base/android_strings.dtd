@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Прагрэсіўныя вэб-праграмы">
 <!ENTITY pref_pwa_summary "Дазволіць вэб-праграмам дадавацца на хатні экран">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Стужка актыўнасці">
-<!ENTITY pref_activity_stream_summary "Пашыраная візуальная стужка гісторыі і абноўлены выгляд пачатковай старонкі дазваляюць вельмі проста знайсці менавіта тое, што вы шукаеце ў &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Цяпер з аховай ад сачэння">
 <!ENTITY tracking_protection_prompt_text "Актыўна блакіруйце элементы асочвання, каб не турбавацца аб сачэнні.">
 <!ENTITY tracking_protection_prompt_tip_text "Каб даведацца больш, наведайце налады прыватнасці">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Выдаліць асабістыя дадзеныя пры выхадзе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будзе аўтаматычна выдаляць вашы дадзеныя пры націску вамі \u0022Выхад\u0022 ў галоўным меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберыце дадзеныя для выдалення">
-<!ENTITY pref_plugins "Убудовы">
-<!ENTITY pref_plugins_enabled "Дазволены">
-<!ENTITY pref_plugins_tap_to_play2 "Па дотыку">
-<!ENTITY pref_plugins_disabled "Забаронены">
 <!ENTITY pref_restore_tabs "Аднаўленне картак">
 <!ENTITY pref_restore_always "Заўсёды аднаўляць">
 <!ENTITY pref_restore_quit "Не аднаўляць пасля выхаду з &brandShortName;">
@@ -854,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Вітаем у Асноўным">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; цяпер адлюстроўвае асноўнае, што вы праглядалі ў Інтэрнэце, каб вы маглі зноў вярнуцца да выдатных артыкулаў, відэа, закладак, а таксама іншых старонак.">
+
+<!ENTITY private_tab_panel_title "Прыватнае агляданне + Ахова ад сачэння">
+<!ENTITY private_tab_panel_description "&brandShortName; блакуе часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
+<!ENTITY private_tab_panel_description2 "Мы не будзе запамінаць нічога з гісторыі, але сцягнутыя файлы і новыя закладкі будуць захаваны на вашай прыладзе.">
+<!ENTITY private_tab_learn_more "Жадаеце даведацца больш?">
