@@ -34,11 +34,16 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
 <!ENTITY dataCollection.label            "&brandShortName;: Collecziun ed utilisaziun da datas">
+<!ENTITY dataCollectionDesc.label        "Nus ta laschain la tscherna e ramassain mo las infurmaziuns che nus duvrain per porscher e meglierar &brandShortName; per tuts. Nus ta dumandain adina avant che rimnar datas persunalas.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Infurmaziuns davart la protecziun da datas">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permetter a &brandShortName; da trametter annunzias da collaps a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns ">
 
 <!ENTITY networkTab.label                "Rait">
 
+<!ENTITY networkProxy.label              "Proxy da la rait">
 
 <!ENTITY connectionDesc.label            "Definir la moda da connexiun da &brandShortName; cun l'internet">
 <!ENTITY connectionSettings.label        "Parameters…">
