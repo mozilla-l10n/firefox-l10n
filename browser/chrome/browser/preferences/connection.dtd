@@ -14,33 +14,33 @@
 <!ENTITY systemTypeRadio.accesskey     "B">
 <!ENTITY WPADTypeRadio.label           "Auto-detekter proxy-indstillinger for dette netværk">
 <!ENTITY WPADTypeRadio.accesskey       "A">
-<!ENTITY manualTypeRadio.label         "Manuel proxy-konfiguration:">
-<!ENTITY manualTypeRadio.accesskey     "M">
-<!ENTITY autoTypeRadio.label           "Automatisk proxy-konfigurations-URL:">
-<!ENTITY autoTypeRadio.accesskey       "U">
-<!ENTITY reload.label                  "Genindlæs">
-<!ENTITY reload.accesskey              "e">
-<!ENTITY ftp.label                     "FTP-proxy:">
-<!ENTITY ftp.accesskey                 "F">
-<!ENTITY http.label                    "HTTP-proxy:">
-<!ENTITY http.accesskey                "T">
-<!ENTITY ssl.label                     "SSL-proxy:">
-<!ENTITY ssl.accesskey                 "S">
-<!ENTITY socks.label                   "SOCKS-vært:">
-<!ENTITY socks.accesskey               "O">
+<!ENTITY manualTypeRadio2.label        "Manuel proxy-konfiguration">
+<!ENTITY manualTypeRadio2.accesskey    "M">
+<!ENTITY autoTypeRadio2.label          "Automatisk proxy-konfigurations-URL">
+<!ENTITY autoTypeRadio2.accesskey      "U">
+<!ENTITY reload2.label                 "Genindlæs">
+<!ENTITY reload2.accesskey             "e">
+<!ENTITY ftp2.label                    "FTP-proxy">
+<!ENTITY ftp2.accesskey                "F">
+<!ENTITY http2.label                   "HTTP-proxy">
+<!ENTITY http2.accesskey               "T">
+<!ENTITY ssl2.label                    "SSL-proxy">
+<!ENTITY ssl2.accesskey                "S">
+<!ENTITY socks2.label                  "SOCKS-vært">
+<!ENTITY socks2.accesskey              "O">
 <!ENTITY socks4.label                  "SOCKS v4">
 <!ENTITY socks4.accesskey              "4">
 <!ENTITY socks5.label                  "SOCKS v5">
 <!ENTITY socks5.accesskey              "5">
 <!ENTITY socksRemoteDNS.label2         "Proxy-DNS ved brug af SOCKS v5">
 <!ENTITY socksRemoteDNS.accesskey      "d">
-<!ENTITY port.label                    "Port:">
+<!ENTITY port2.label                   "Port">
 <!ENTITY HTTPport.accesskey            "">
 <!ENTITY SSLport.accesskey             "">
 <!ENTITY FTPport.accesskey             "">
 <!ENTITY SOCKSport.accesskey           "">
-<!ENTITY noproxy.label                 "Ingen proxy for:">
-<!ENTITY noproxy.accesskey             "n">
+<!ENTITY noproxy2.label                "Ingen proxy for">
+<!ENTITY noproxy2.accesskey            "n">
 <!ENTITY noproxyExplain.label          "Fx .mozilla.org, .net.dk, 192.168.1.0/24">
 <!ENTITY shareproxy.label              "Brug denne proxy-server for alle protokoller">
 <!ENTITY shareproxy.accesskey          "r">

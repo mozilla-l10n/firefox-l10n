@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label           "Accepter cookies fra websteder">
 <!ENTITY  acceptCookies2.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accepter tredjeparts cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty2.pr.label      "Accepter tredjeparts cookies">
+<!ENTITY  acceptThirdParty2.pr.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Altid">
 <!ENTITY  acceptThirdParty.never.label    "Aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
 
-<!ENTITY  keepUntil.label               "Behold indtil:">
-<!ENTITY  keepUntil.accesskey           "e">
+<!ENTITY  keepUntil2.label              "Behold indtil">
+<!ENTITY  keepUntil2.accesskey          "e">
 
 <!ENTITY  expire.label                  "De udløber">
 <!ENTITY  close.label                   "Jeg lukker &brandShortName;">

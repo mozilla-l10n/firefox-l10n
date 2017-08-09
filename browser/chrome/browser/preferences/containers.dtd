@@ -12,13 +12,13 @@
 <!ENTITY window.title         "Tilføj ny kontekst">
 <!ENTITY window.width         "33em">
 
-<!ENTITY name.label           "Navn:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Navn">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Indtast et navn til konteksten">
-<!ENTITY icon.label           "Ikon:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Farve:">
-<!ENTITY color.accesskey      "a">
+<!ENTITY icon2.label          "Ikon">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Farve">
+<!ENTITY color2.accesskey     "a">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Færdig">
