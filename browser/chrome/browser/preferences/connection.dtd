@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "с">
 <!ENTITY  WPADTypeRadio.label           "Автоматично откриване на прокси в мрежата">
 <!ENTITY  WPADTypeRadio.accesskey       "А">
-<!ENTITY  manualTypeRadio.label         "Ръчна настройка на прокси:">
-<!ENTITY  manualTypeRadio.accesskey     "Р">
-<!ENTITY  autoTypeRadio.label           "Адрес за автоматично настройване на прокси:">
-<!ENTITY  autoTypeRadio.accesskey       "д">
+<!ENTITY  manualTypeRadio2.label        "Ръчна настройка на прокси">
+<!ENTITY  manualTypeRadio2.accesskey    "а">
+<!ENTITY  autoTypeRadio2.label          "Адрес за автоматично настройване на прокси">
+<!ENTITY  autoTypeRadio2.accesskey      "д">
 <!ENTITY  reload.label                  "Презареждане">
 <!ENTITY  reload.accesskey              "з">
-<!ENTITY  ftp.label                     "Прокси за FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Прокси за HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Прокси за SSL:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS хост:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Прокси за FTP">
+<!ENTITY  ftp2.accesskey                "и">
+<!ENTITY  http2.label                   "Прокси за HTTP">
+<!ENTITY  http2.accesskey               "р">
+<!ENTITY  ssl2.label                    "Прокси за SSL">
+<!ENTITY  ssl2.accesskey                "о">
+<!ENTITY  socks2.label                  "Хост на SOCKS">
+<!ENTITY  socks2.accesskey              "с">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Прокси за DNS при използване на SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
-<!ENTITY  port.label                    "Порт:">
+<!ENTITY  port2.label                   "Порт">
 <!ENTITY  HTTPport.accesskey            "П">
 <!ENTITY  SSLport.accesskey             "о">
 <!ENTITY  FTPport.accesskey             "р">
 <!ENTITY  SOCKSport.accesskey           "т">
-<!ENTITY  noproxy.label                 "Без прокси за:">
-<!ENTITY  noproxy.accesskey             "Б">
+<!ENTITY  noproxy2.label                "Без прокси за">
+<!ENTITY  noproxy2.accesskey            "Б">
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Използване на този прокси сървър за всички протоколи">
 <!ENTITY  shareproxy.accesskey          "п">
