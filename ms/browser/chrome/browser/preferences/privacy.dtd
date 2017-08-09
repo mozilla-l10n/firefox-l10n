@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Terima kuki dari laman web">
 <!ENTITY  acceptCookies2.accesskey      "T">
 
-<!ENTITY  acceptThirdParty.pre.label      "Menerima kuki pihak ketiga:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "M">
+<!ENTITY  acceptThirdParty2.pre.label     "Terima kuki pihak ketiga">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Sentiasa">
 <!ENTITY  acceptThirdParty.never.label    "Tidak sekali">
 <!ENTITY  acceptThirdParty.visited.label  "Daripada yang dilawati">
 
-<!ENTITY  keepUntil.label               "Kekalkan sehingga:">
-<!ENTITY  keepUntil.accesskey           "h">
+<!ENTITY  keepUntil2.label              "Kekalkan sehingga">
+<!ENTITY  keepUntil2.accesskey          "s">
 
 <!ENTITY  expire.label                  "ianya luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">

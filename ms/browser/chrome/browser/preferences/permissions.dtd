@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "B">
 <!ENTITY removeallpermissions2.label  "Buang Semua Laman Web">
 <!ENTITY removeallpermissions2.accesskey "a">
-<!ENTITY address.label                "Alamat laman web:">
-<!ENTITY address.accesskey            "m">
+<!ENTITY address2.label               "Alamat laman web">
+<!ENTITY address2.accesskey           "l">
 <!ENTITY block.label                  "Sekat">
 <!ENTITY block.accesskey              "a">
 <!ENTITY session.label                "Benarkan Sesi">

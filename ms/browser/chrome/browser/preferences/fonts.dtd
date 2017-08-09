@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Font">
 
-<!ENTITY  language.label                          "Font untuk:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "Fon untuk">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "Saiz:">
+<!ENTITY  size2.label                             "Saiz">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Berkadaran:">
-<!ENTITY  proportional.accesskey                  "B">
+<!ENTITY  proportional2.label                     "Perkadaran">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monoruang:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibet">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Saiz font minima:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Saiz fon minimum">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Tiada">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "I">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Enkod Karakter untuk Legasi Maklumat">
-<!ENTITY languages.customize.Fallback2.label      "Jatuh Balik Pengekodan Teks:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Pengekodan Teks Unduran">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
 
 <!ENTITY languages.customize.Fallback.auto        "Locale Semasa Piawai">
