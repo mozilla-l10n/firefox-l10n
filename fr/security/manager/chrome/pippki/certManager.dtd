@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autorités">
 <!ENTITY certmgr.tab.orphan2                  "Autres">
 
-<!ENTITY certmgr.mine                         "Vous possédez des certificats de ces organisations qui vous identifient :">
-<!ENTITY certmgr.others                       "Vous possédez des certificats enregistrés identifiant ces personnes :">
-<!ENTITY certmgr.websites2                    "Vous possédez des certificats enregistrés identifiant ces serveurs :">
-<!ENTITY certmgr.cas                          "Vous possédez des certificats enregistrés identifiant ces autorités de certification :">
-<!ENTITY certmgr.orphans                      "Vous possédez des certificats enregistrés qui ne correspondent à aucune autre catégorie :">
+<!ENTITY certmgr.mine2                        "Vous possédez des certificats de ces organisations qui vous identifient">
+<!ENTITY certmgr.others2                      "Vous possédez des certificats enregistrés identifiant ces personnes">
+<!ENTITY certmgr.websites3                    "Vous possédez des certificats enregistrés identifiant ces serveurs">
+<!ENTITY certmgr.cas2                         "Vous possédez des certificats enregistrés identifiant ces autorités de certification">
+<!ENTITY certmgr.orphans2                     "Vous possédez des certificats enregistrés qui ne correspondent à aucune autre catégorie">
 
 <!ENTITY certmgr.detail.general_tab.title     "Général">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
