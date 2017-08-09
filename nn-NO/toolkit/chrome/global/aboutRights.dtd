@@ -18,12 +18,12 @@
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Dette tyder at du kan bruke, kopiere og distribuere &brandShortName; til andre. Du kan også endre kjeldekoden til &brandShortName; som du vil, for å passe til dine behov. Mozilla Public License gjev deg også rett til å distribuere endra versjonar.">
 
-<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noko som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke kan du finne ">
+<!ENTITY rights.intro-point2-a "Du vert ikkje gjeve varemerkerettar eller lisensar til varemerke som tilhøyrer Mozilla Foundation eller andre, noko som òg gjeld Firefox-namnet og logoen. Meir informasjon om varemerke finn du  ">
 <!ENTITY rights.intro-point2-b "her">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Nokre funksjonar i &brandShortName;, som til dømes krasjrapporteraren, gjev deg høve til å gje tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gjev du &vendorShortName; løyve til å bruke tilbakemeldingane for å forbetre produkta sine, publisera tilbakemeldingane på nettstadene sine, og å distribuere tilbakemeldingane.">
+<!ENTITY rights.intro-point2.5 "Nokre funksjonar i &brandShortName;, som til dømes krasjrapporteraren, gjev deg høve til å gje tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gjev du &vendorShortName; løyve til å bruke tilbakemeldingane for å forbetre produkta sine, publisere tilbakemeldingane på nettstadane sine, og å distribuere tilbakemeldingane.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Korleis vi brukar personleg informasjon og tilbakemeldingar som er sendt til &vendorShortName; gjennom &brandShortName; er skildra i ">
@@ -55,7 +55,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; brukar nettbaserte informasjonstenester («Tenester») for å gjere nokre av funksjonane tilgjengelege i den binære versjonen av &brandShortName;, under vilkår som er skildra nedanfor. Dersom du ikkje ønskjer å bruke ei eller fleire av tenestene, eller om du ikkje kan akseptere vilkåra, kan du slå av funksjonen eller tenesta/tenestene. Instruksjonar om korleis du slår av ein bestemt funksjon eller teneste finn du ">
 <!ENTITY rights2.webservices-b "her">
-<!ENTITY rights3.webservices-c ". Andre funksjonar og tenester kan slåast av i programinnstillingane.">
+<!ENTITY rights3.webservices-c ". Andre funksjonar og tenester kan slåast av i program-innstillingane.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">
@@ -81,9 +81,9 @@
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
 
 <!-- points 1-7 text for branded builds -->
-<!ENTITY rights2.webservices-term1 "&vendorShortName; og bidragsytarane, lisensgjevarar og partnarar jobbar for å tilby den mest nøyaktige og oppdaterte tenesta.  Vi kan likevel ikkje garantere at denne informasjonen er fullstendig og feilfri. Det kan til dømes hende at nokre risikable nettstader ikkje er oppdaga enno, og nokre trygge nettstader kan feilaktig ha blitt klassifiserte som risikable. All info som vert returnert frå tenestetilbydarane våre er berre estimat, og korkje vi eller tenestetilbydarane garanterer at informasjonen som vert spesifisert er heilt nøyaktig.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; og bidragsytarane, lisensgjevarar og partnarar jobbar for å tilby den mest nøyaktige og oppdaterte tenesta.  Vi kan likevel ikkje garantere at denne informasjonen er fullstendig og feilfri. Det kan til dømes hende at nokre risikable nettstader ikkje er oppdaga enno, og nokre trygge nettstadar kan feilaktig ha blitt klassifiserte som risikable. All info som vert returnert frå tenestetilbydarane våre er berre estimat, og korkje vi eller tenestetilbydarane garanterer at informasjonen som vert spesifisert er heilt nøyaktig.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; kan avbryte eller endre Tenestene etter eige ønskje.">
-<!ENTITY rights2.webservices-term3 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og &vendorShortName; gjev deg retten til å gjera det. &vendorShortName; og lisensgjevarane reserverer alle andre rettar til Tenestene.  Desse vilkåra er ikkje der for å avgrensa rettane som er gjevne under open kjeldekode-lisensane som gjeld for &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
+<!ENTITY rights2.webservices-term3 "Du er velkomen til å bruke desse Tenestene med den medfølgjande versjonen av &brandShortName;, og &vendorShortName; gjev deg retten til å gjera det. &vendorShortName; og lisensgjevarane reserverer alle andre rettar til Tenestene.  Desse vilkåra er ikkje der for å avgrense rettane som er gjevne under open kjeldekode-lisensane som gjeld for &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Tenestene er tilbydde &quot;som-dei-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, korkje eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passe til føremåla dine. Du har den fulle og heile risikoen for å velje Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenestene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dette dementiet gjeld kanskje ikkje deg.">
 <!ENTITY rights.webservices-term5 "Med unntak av der det er påkravd av lova, &vendorShortName;, dess bidragsytarar, lisensgjevarar og distributørar er ikkje ansvarlege for nokon indirekte, spesiell, tilfeldig, følgjeleg, strafferettsleg eller mønstergyldige skadar eller ulemper som skjer som ei følgje av eller relatert til bruk av &brandShortName; og Tenestene. Det kollektive ansvaret i desse vilkåra vil ikkje overstige $500 (fem hundre amerikanske dollar). Nokre jurisdiksjonar tillèt ikkje eksklusjon eller avgrensing av enkelte former av skade, så det er mogleg desse eksklusjonane og avgrensingane ikkje gjeld deg.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; kan oppdatere desse vilkåra etter behov med jamne mellomrom. Vilkåra kan ikkje endrast eller annullerast utan skriftleg avtale frå &vendorShortName;.">
