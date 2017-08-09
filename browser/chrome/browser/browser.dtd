@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "เอกสารชิ้นนี้ได้ควบคุมตัวชี้ของคุณ กด Esc เพื่อดึงการควบคุมคืน">
 
 <!ENTITY closeWindow.label "ปิดหน้าต่าง">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "ป">
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "ท">
@@ -167,7 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "ค้นหาบริการแบ่งปันเพิ่มเติม…">
 <!ENTITY sharePageCmd.label "แบ่งปันหน้านี้">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "บ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "แบ่งปันลิงก์นี้">
 <!ENTITY shareLink.accesskey "h">
@@ -311,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "ว">
 <!ENTITY deleteCmd.label          "ลบ">
 <!ENTITY deleteCmd.key            "D">
-<!ENTITY deleteCmd.accesskey        "บ">
+<!ENTITY deleteCmd.accesskey        "ล">
 <!ENTITY selectAllCmd.label         "เลือกทั้งหมด">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "ม">
