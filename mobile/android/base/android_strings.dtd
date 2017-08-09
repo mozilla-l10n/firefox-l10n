@@ -849,5 +849,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Приватний перегляд + захист від стеження">
 <!ENTITY private_tab_panel_description "&brandShortName; блокує частини сторінок, які можуть стежити за вашою діяльністю.">
-<!ENTITY private_tab_panel_description2 "Ми не будемо запам\&apos;ятовувати будь-яку історію, але завантажені файли й нові закладки все одно будуть збережені на вашому пристрої.">
+<!ENTITY private_tab_panel_description2 "Ми не будемо запам\&apos;ятовувати історію, але завантажені файли й нові закладки все одно будуть збережені на вашому пристрої.">
 <!ENTITY private_tab_learn_more "Хочете дізнатися більше?">
