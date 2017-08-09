@@ -12,11 +12,11 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ต">
 
 <!ENTITY warnOnOpenManyTabs.label       "เตือนคุณเมื่อการเปิดหลายแท็บอาจทำให้ &brandShortName; ช้าลง">
-<!ENTITY warnOnOpenManyTabs.accesskey   "d">
+<!ENTITY warnOnOpenManyTabs.accesskey   "อ">
 
 <!ENTITY switchLinksToNewTabs.label        "เมื่อคุณเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
-<!ENTITY switchLinksToNewTabs.accesskey    "ง">
+<!ENTITY switchLinksToNewTabs.accesskey    "ม">
 
 <!ENTITY showTabsInTaskbar.label          "แสดงตัวอย่างแท็บในแถบงาน Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "ด">
+<!ENTITY showTabsInTaskbar.accesskey      "ส">
 <!ENTITY tabsGroup.label          "แท็บ">
