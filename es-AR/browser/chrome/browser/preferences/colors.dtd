@@ -14,6 +14,10 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fondo">
+<!ENTITY  textColor2.label                "Texto">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fondo de pantalla">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Usar colores del sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
@@ -21,3 +25,6 @@
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Colores de los enlaces">
 <!ENTITY  linkColor2.label                "Enlaces no visitados">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Enlaces visitados">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
