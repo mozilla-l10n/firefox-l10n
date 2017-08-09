@@ -7,6 +7,7 @@
 <!ENTITY safeb.palm.notdeceptive.label "To nie jest oszustwo…">
 <!ENTITY safeb.palm.notdeceptive.accesskey "n">
 <!ENTITY safeb.palm.reportPage.label "Dlaczego ta strona została zablokowana?">
+<!ENTITY safeb.palm.advisory.desc "Na podstawie danych dostarczane przez <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Strona zgłoszona jako dokonująca ataków!">
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Strona <span id='malware_sitename'/> została zgłoszona jako strona stanowiąca zagrożenie i została zablokowana zgodnie z ustawieniami bezpieczeństwa.">
