@@ -21,8 +21,8 @@
 <!ENTITY trackingProtectionPBM6.label "Ochrona przed śledzeniem przez znane elementy śledzące w oknach prywatnych.">
 <!ENTITY trackingProtectionPBM6.accesskey "">
 <!ENTITY trackingProtectionPBMLearnMore.label "Więcej informacji">
-<!ENTITY changeBlockList.label "Zmień listę blokowanych">
-<!ENTITY changeBlockList.accesskey "">
+<!ENTITY changeBlockList2.label "Zmień listę blokowanych…">
+<!ENTITY changeBlockList2.accesskey "">
 
 <!ENTITY doNotTrack.description "Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):">
 <!ENTITY doNotTrack.learnMore.label "Więcej informacji">

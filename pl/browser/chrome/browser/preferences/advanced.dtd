@@ -98,10 +98,10 @@
 <!ENTITY selectCerts.ask.accesskey "">
 <!ENTITY enableOCSP.label "Odpytywanie serwerów OCSP w celu potwierdzenia wiarygodności certyfikatów">
 <!ENTITY enableOCSP.accesskey "">
-<!ENTITY viewCerts.label                 "Wyświetl certyfikaty">
-<!ENTITY viewCerts.accesskey "">
-<!ENTITY viewSecurityDevices.label       "Urządzenia zabezpieczające">
-<!ENTITY viewSecurityDevices.accesskey "">
+<!ENTITY viewCerts2.label "Wyświetl certyfikaty…">
+<!ENTITY viewCerts2.accesskey "">
+<!ENTITY viewSecurityDevices2.label "Urządzenia zabezpieczające…">
+<!ENTITY viewSecurityDevices2.accesskey "">
 
 <!ENTITY performance.label "Wydajność">
 <!ENTITY useRecommendedPerformanceSettings2.label "Rekomendowane ustawienia wydajności.">
