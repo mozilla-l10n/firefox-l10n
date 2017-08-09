@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Povoliť cookies webových stránok">
 <!ENTITY  acceptCookies2.accesskey      "o">
 
-<!ENTITY  acceptThirdParty.pre.label      "Povoliť cookies tretích strán:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty2.pre.label     "Povoliť cookies tretích strán">
+<!ENTITY  acceptThirdParty2.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy">
 <!ENTITY  acceptThirdParty.visited.label  "len pre navštívené">
 
-<!ENTITY  keepUntil.label               "Uchovávať cookies do:">
-<!ENTITY  keepUntil.accesskey           "v">
+<!ENTITY  keepUntil2.label              "Uchovávať cookies do">
+<!ENTITY  keepUntil2.accesskey          "U">
 
 <!ENTITY  expire.label                  "vypršania platnosti">
 <!ENTITY  close.label                   "ukončenia prehliadača &brandShortName;">
