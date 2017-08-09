@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoriti">
 <!ENTITY certmgr.tab.orphan2                  "Lain-lain">
 
-<!ENTITY certmgr.mine                         "Anda memiliki sijil daripada organisasi ini yang mengenali anda:">
-<!ENTITY certmgr.others                       "Anda memiliki sijil pada fail yang mengenal orang ini:">
-<!ENTITY certmgr.websites2                    "Anda ada sijil pada fail yang mengenal pasti pelayan ini:">
-<!ENTITY certmgr.cas                          "Anda memiliki sijil pada fail yang mengenal autoriti sijil ini:">
-<!ENTITY certmgr.orphans                      "Anda mempunyai sijil pada fail yang tidak sesuai dalam mana-mana katogori:">
+<!ENTITY certmgr.mine2                        "Anda memiliki sijil daripada organisasi ini yang mengenali anda">
+<!ENTITY certmgr.others2                      "Anda memiliki sijil fail yang mengenal pasti orang ini">
+<!ENTITY certmgr.websites3                    "Anda memiliki sijil fail yang mengenal pasti pelayan ini">
+<!ENTITY certmgr.cas2                         "Anda memiliki sijil fail yang mengenal pasti autoriti sijil ini">
+<!ENTITY certmgr.orphans2                     "Anda mempunyai sijil fail yang tidak sesuai dalam mana-mana kategori">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "u">
