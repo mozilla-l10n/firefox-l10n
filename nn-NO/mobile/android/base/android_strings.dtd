@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresive nettappar">
 <!ENTITY pref_pwa_summary "Tillat at nettappar vert lagde til på heimeskjermen">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktivitetsstarum">
-<!ENTITY pref_activity_stream_summary "Ein utvida visuell historikk gjer det enklare enn nokon gong å finna akkurat det du leitar etter i &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "No med sporingsvern">
 <!ENTITY tracking_protection_prompt_text "Aktivt blokker sporingselement slik at du slepp å uroa deg.">
 <!ENTITY tracking_protection_prompt_tip_text "Gå til personverninnstillingar for å lesa meir">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Tøm private data ved avslutting">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dine data kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
-<!ENTITY pref_plugins "Programtillegg">
-<!ENTITY pref_plugins_enabled "Slå på">
-<!ENTITY pref_plugins_tap_to_play2 "Trykk for å spela">
-<!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
 <!ENTITY pref_restore_quit "Ikkje gjenopprett etter avslutting av &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Velkomen til høgdepunkta dine">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar no høgdepunkt av det du har oppdaga på nettet, slik at du kan finna tilbake til gode artiklar, videoar, bokmerke og anna.">
+
+<!ENTITY private_tab_panel_title "Privat nettlesing + Sporingsvern">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spore nettlesaraktiviteten din.">
+<!ENTITY private_tab_panel_description2 "Vi vil ikkje hugse noko historikk, men nedlasta filer og nye bokmerke vert lagra på eininga di.">
+<!ENTITY private_tab_learn_more "Vil du finne ut meir?">
