@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Alatan">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Tambah satu Kata Kunci untuk pencarian ini…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Pemeriksaan Elemen">
 <!ENTITY inspectContextMenu.accesskey "i">
 
-<!ENTITY fileMenu.label         "Fail"> 
+<!ENTITY fileMenu.label         "Fail">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Bekas Tab Baru">
 <!ENTITY newUserContext.accesskey         "B">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "T">
 <!ENTITY newNonRemoteWindow.label   "Tetingkap Non-e10s Baru">
 
-<!ENTITY editMenu.label         "Edit"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Batal">  
-<!ENTITY undoCmd.key            "K">  
-<!ENTITY undoCmd.accesskey          "B"> 
-<!ENTITY redoCmd.label            "Buat semula">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "m"> 
-<!ENTITY cutCmd.label           "Potong">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Salin">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "S"> 
-<!ENTITY pasteCmd.label           "Tampal">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Hapus">  
-<!ENTITY deleteCmd.key            "H">  
-<!ENTITY deleteCmd.accesskey        "H"> 
-<!ENTITY selectAllCmd.label         "Pilih Semua">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "Edit">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Batal">
+<!ENTITY undoCmd.key            "K">
+<!ENTITY undoCmd.accesskey          "B">
+<!ENTITY redoCmd.label            "Buat semula">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "m">
+<!ENTITY cutCmd.label           "Potong">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Salin">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "S">
+<!ENTITY pasteCmd.label           "Tampal">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Hapus">
+<!ENTITY deleteCmd.key            "H">
+<!ENTITY deleteCmd.accesskey        "H">
+<!ENTITY selectAllCmd.label         "Pilih Semua">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Pilihan">
 <!ENTITY preferencesCmd2.accesskey     "h">
 <!ENTITY preferencesCmdUnix.label       "Keutamaan">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "Buang Sejarah Terkini…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Papar"> 
-<!ENTITY viewMenu.accesskey       "p"> 
-<!ENTITY viewToolbarsMenu.label       "Bar alat"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Papar">
+<!ENTITY viewMenu.accesskey       "p">
+<!ENTITY viewToolbarsMenu.label       "Bar alat">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Bar sisi">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Penyesuaian…"> 
+<!ENTITY viewCustomizeToolbar.label       "Penyesuaian…">
 <!ENTITY viewCustomizeToolbar.accesskey     "u">
 <!ENTITY overflowCustomizeToolbar.label       "Penyesuaian Bar Alatan…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "e">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Papar Sumber Dipilih">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Papar Sumber MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Papar Sumber Halaman">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Salin Lokasi Imej">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Salin Imej">
-<!ENTITY copyImageContentsCmd.accesskey  "n"> 
+<!ENTITY copyImageContentsCmd.accesskey  "n">
 <!ENTITY copyVideoURLCmd.label        "Salin Lokasi Video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Keluar &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Keluar"> 
+<!ENTITY quitApplicationCmd.label       "Keluar">
 <!ENTITY quitApplicationCmd.accesskey   "a">
 <!ENTITY quitApplicationCmdMac2.label   "Keluar &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "K">
 
-<!ENTITY closeCmd.label                 "Tutup">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Tutup">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "u">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -868,9 +868,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompak">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Padat">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Padat">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "P">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
