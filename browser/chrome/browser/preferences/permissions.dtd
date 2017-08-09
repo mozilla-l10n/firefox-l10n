@@ -16,7 +16,7 @@
 <!ENTITY block.label                  "ปิดกั้น">
 <!ENTITY block.accesskey              "ป">
 <!ENTITY session.label                "อนุญาตในวาระ">
-<!ENTITY session.accesskey            "ว">
+<!ENTITY session.accesskey            "น">
 <!ENTITY allow.label                  "อนุญาต">
 <!ENTITY allow.accesskey              "อ">
 <!ENTITY windowClose.key              "w">
