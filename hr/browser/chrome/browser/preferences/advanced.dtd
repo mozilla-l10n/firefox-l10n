@@ -115,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Iznimke…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
+<!ENTITY offlineAppsList3.label          "Sljedeće web stranice imaju dopuštenje spremiti podatke za izvanmrežno korištenje">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ukloni…">
 <!ENTITY offlineAppsListRemove.accesskey "U">

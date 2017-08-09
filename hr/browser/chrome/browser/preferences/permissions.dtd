@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "U">
 <!ENTITY removeallpermissions2.label  "Ukloni sve stranice">
 <!ENTITY removeallpermissions2.accesskey "e">
-
-
+<!ENTITY address2.label               "Adresa web stranice">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blokiraj">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Dopusti za sesiju">

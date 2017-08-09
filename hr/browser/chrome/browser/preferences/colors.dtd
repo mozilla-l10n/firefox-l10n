@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Nikad">
 
 <!ENTITY  color                           "Tekst i pozadina">
-
-
-
-
+<!ENTITY  textColor2.label                "Tekst">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Pozadina">
+<!ENTITY  backgroundColor2.accesskey      "z">
 <!ENTITY  useSystemColors.label           "Koristi boje sustava">
 <!ENTITY  useSystemColors.accesskey       "b">
 
 <!ENTITY  underlineLinks.label            "Podcrtaj poveznice">
 <!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Boje poveznica">
-
-
-
-
+<!ENTITY  linkColor2.label                "Neposjećene poveznice">
+<!ENTITY  linkColor2.accesskey            "e">
+<!ENTITY  visitedLinkColor2.label         "Posjećene poveznice">
+<!ENTITY  visitedLinkColor2.accesskey     "s">
