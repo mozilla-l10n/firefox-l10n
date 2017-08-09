@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar dan berkongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda ini">
 <!ENTITY enableHealthReport.label        "Dayakan Laporan Sistem &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.accesskey    "L">
 <!ENTITY healthReportLearnMore.label     "Ketahui Selanjutnya">
 
 <!ENTITY telemetryDesc.label             "Kongsi data prestasi, penggunaan, perkakasan dan pelangganan berkaitan pelayar anda dengan &vendorShortName; untuk membantu kami menjadikan &brandShortName; lebih baik">
