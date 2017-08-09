@@ -1,19 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                     "Mga Pagbubukod - Pagsasalin">
 <!ENTITY window.width                     "36em">
+<!ENTITY windowClose.key                  "w">
 
-
+<!ENTITY noTranslationForLanguages.label  "Ang pagsasalin ay hindi inaalok para sa mga sumusunod na wika:">
 <!ENTITY treehead.languageName.label      "Mga Wika">
+<!ENTITY removeLanguage.label             "Alisin ang Wika">
+<!ENTITY removeLanguage.accesskey         "R">
+<!ENTITY removeAllLanguages.label         "Alisin ang Lahat na Wika">
+<!ENTITY removeAllLanguages.accesskey     "e">
 
+<!ENTITY noTranslationForSites.label      "Ang pagsasalin ay hindi inaalok para sa mga sumusunod na site:">
+<!ENTITY treehead.siteName2.label         "Websites">
+<!ENTITY removeSite.label                 "Alisin ang Site">
+<!ENTITY removeSite.accesskey             "S">
+<!ENTITY removeAllSites.label             "Alisin ang lahat na mga Site">
+<!ENTITY removeAllSites.accesskey         "i">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY button.close.label               "Isara">
+<!ENTITY button.close.accesskey           "C">

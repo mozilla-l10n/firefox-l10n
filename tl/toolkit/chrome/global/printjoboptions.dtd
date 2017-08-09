@@ -1,19 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Mga Katangian ng Printer">
 
 <!ENTITY paperInput.label "Laki ng Papel:">
 <!ENTITY paperInput.accesskey "P">
 
-
+<!ENTITY jobTitleInput.label "Titulo sa Trabaho:">
+<!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "Kulay:">
-
-
+<!ENTITY grayRadio.label "Grayscale">
+<!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "Kulay">
 <!ENTITY colorRadio.accesskey "K">
 
+<!ENTITY edgeMarginInput.label "Gap mula sa gilid ng papel papunta sa Margin">
 <!ENTITY topInput.label "Tuktok:">
 <!ENTITY topInput.accesskey "T">
 <!ENTITY bottomInput.label "Ilalim:">
