@@ -50,14 +50,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "คุณไม่ได้ลงชื่อเข้า">
 <!ENTITY signIn.label                "ลงชื่อเข้า">
-<!ENTITY signIn.accesskey            "g">
+<!ENTITY signIn.accesskey            "ล">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโปรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
-<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY verifiedManage.accesskey    "จ">
 <!ENTITY disconnect.label            "ตัดการเชื่อมต่อ…">
-<!ENTITY disconnect.accesskey        "D">
+<!ENTITY disconnect.accesskey        "ต">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
-<!ENTITY verify.accesskey            "V">
+<!ENTITY verify.accesskey            "ร">
 <!ENTITY forget.label                "ลืมอีเมลนี้">
 <!ENTITY forget.accesskey            "ล">
 
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.signin.accesskey  "ล">
 
 <!ENTITY signedIn.engines.label       "ซิงค์ระหว่างอุปกรณ์ทั้งหมด">
 

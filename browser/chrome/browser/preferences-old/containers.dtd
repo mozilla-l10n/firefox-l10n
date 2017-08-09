@@ -13,12 +13,12 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "ชื่อ:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name.accesskey       "ช">
 <!ENTITY name.placeholder     "ป้อนชื่อการแยกข้อมูล">
 <!ENTITY icon.label           "ไอคอน:">
-<!ENTITY icon.accesskey       "I">
+<!ENTITY icon.accesskey       "อ">
 <!ENTITY color.label          "สี:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY color.accesskey      "ส">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "เสร็จสิ้น">

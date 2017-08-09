@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "อ">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "เตือนคุณเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "น">
 
 <!ENTITY  addonExceptions.label         "ข้อยกเว้น…">
 <!ENTITY  addonExceptions.accesskey     "ข">
