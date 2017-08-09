@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Izjeme …">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "I">
 
-<!ENTITY offlineAppsList2.label          "Naslednje strani lahko shranjujejo podatke za delo brez povezave:">
+<!ENTITY offlineAppsList3.label          "Naslednje spletne strani lahko shranjujejo podatke za delo brez povezave">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Odstrani ...">
 <!ENTITY offlineAppsListRemove.accesskey "R">

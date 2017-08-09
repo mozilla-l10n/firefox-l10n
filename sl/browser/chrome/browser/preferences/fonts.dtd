@@ -4,22 +4,15 @@
 
 <!ENTITY  fontsDialog.title                       "Pisave">
 
-<!ENTITY  language.label                          "Pisava:">
-<!ENTITY  language.accesskey                      "V">
 
-<!ENTITY  size.label                              "Velikost:">
+<!ENTITY  size2.label                             "Velikost">
 <!ENTITY  sizeProportional.accesskey              "l">
 <!ENTITY  sizeMonospace.accesskey                 "i">
 
-<!ENTITY  proportional.label                      "Proporcionalna pisava:">
-<!ENTITY  proportional.accesskey                  "R">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Enoširinska pisava:">
-<!ENTITY  monospace.accesskey                     "E">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  monospace2.label                        "Monospace">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +46,7 @@
 <!ENTITY  font.langGroup.sinhala                  "singalsko">
 <!ENTITY  font.langGroup.tibetan                  "tibetansko">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Najmanjša velikost pisav:">
-<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize2.label                           "Najmanjša velikost pisav">
 <!ENTITY minSize.none                             "je ni">
 
 <!-- default font type -->
@@ -65,8 +57,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "h">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Nabor znakov za starejše vsebine">
-<!ENTITY languages.customize.Fallback2.label      "Privzet nabor znakov:">
-<!ENTITY languages.customize.Fallback2.accesskey  "Z">
 <!ENTITY languages.customize.Fallback2.desc       "Ta nabor znakov se uporablja za starejše vsebine, ki nimajo navedenega nabora.">
 
 <!ENTITY languages.customize.Fallback.auto        "Privzeto za trenuten jezik">

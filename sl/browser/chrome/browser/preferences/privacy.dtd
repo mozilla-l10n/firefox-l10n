@@ -49,14 +49,12 @@
 <!ENTITY  acceptCookies2.label          "Dovoli spletnim stranem, da ustvarijo piškotke">
 <!ENTITY  acceptCookies2.accesskey      "S">
 
-<!ENTITY  acceptThirdParty.pre.label      "Sprejemaj piškotke tretjih strani:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "r">
+<!ENTITY  acceptThirdParty2.pre.label     "Sprejemaj piškotke tretjih strani">
 <!ENTITY  acceptThirdParty.always.label   "Vedno">
 <!ENTITY  acceptThirdParty.never.label    "Nikoli">
 <!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
 
-<!ENTITY  keepUntil.label               "Obdrži jih:">
-<!ENTITY  keepUntil.accesskey           "O">
+<!ENTITY  keepUntil2.label              "Obdrži jih">
 
 <!ENTITY  expire.label                  "dokler ne pretečejo">
 <!ENTITY  close.label                   "dokler ne zaprem &brandShortName;a">
