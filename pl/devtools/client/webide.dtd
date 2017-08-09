@@ -83,7 +83,6 @@
 <!ENTITY details_location "Położenie">
 <!ENTITY details_manifestURL "ID aplikacji">
 <!ENTITY details_removeProject_button "Usuń projekt">
-<!ENTITY details_showPrepackageLog_button "Wpisy dziennika poprzedzające pakowanie">
 
 <!ENTITY newAppWindowTitle "Nowa aplikacja">
 <!ENTITY newAppHeader "Szablon">
