@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Emoneĩ kookie ñanduti rendágui">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "Emoneĩ kookie ambue mba'éva">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Katui">
 <!ENTITY  acceptThirdParty.never.label    "Araka'eve">
 <!ENTITY  acceptThirdParty.visited.label  "Jehopyre">
 
-
+<!ENTITY  keepUntil2.label              "Eñongati ag̃ave">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "ndoikóiva">
 <!ENTITY  close.label                   "Emboty &brandShortName;">

@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Araka'eve">
 
 <!ENTITY  color                           "Moñe'ẽrã ha Tugua">
-
-
-
-
+<!ENTITY  textColor2.label                "Moñe'ẽrã">
+<!ENTITY  textColor2.accesskey            "M">
+<!ENTITY  backgroundColor2.label          "Mba'erugua">
+<!ENTITY  backgroundColor2.accesskey      "M">
 <!ENTITY  useSystemColors.label           "Eipuru apopyvusu sa'ykuéra">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Jojuha Jehaiguy">
 <!ENTITY  underlineLinks.accesskey        "J">
 <!ENTITY  links                           "Jaojuha sa'y">
-
-
-
-
+<!ENTITY  linkColor2.label                "Joajuhakuéra ojeike'ỹha">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Joajuhakuéra ojeikepyréva">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
