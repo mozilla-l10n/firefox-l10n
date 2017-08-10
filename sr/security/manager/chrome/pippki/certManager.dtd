@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Ауторитети">
 <!ENTITY certmgr.tab.orphan2                  "Остали">
 
-<!ENTITY certmgr.mine                         "Имате сертификате наведених организација које вас препознају:">
-<!ENTITY certmgr.others                       "Имате сертификате који идентификују ове особе:">
-<!ENTITY certmgr.websites2                    "Имате сертификате који идентификују ове сервере:">
-<!ENTITY certmgr.cas                          "Имате сертификате који идентификују ове ауторитете:">
-<!ENTITY certmgr.orphans                      "Имате сертификате који се не уклапају ни у једну другу категорију:">
+<!ENTITY certmgr.mine2                        "Имате сертификате ових организација које вас идентификују">
+<!ENTITY certmgr.others2                      "Имате сертификате датотеке која идентификује ове људе">
+<!ENTITY certmgr.websites3                    "Имате сертификате датотеке која идентификује ове сервере">
+<!ENTITY certmgr.cas2                         "Имате сертификате датотеке која идентификује ова сертификациона тела">
+<!ENTITY certmgr.orphans2                     "Имате сертификате датотеке која не спада ни у једну категорију">
 
 <!ENTITY certmgr.detail.general_tab.title     "Основне поставке">
 <!ENTITY certmgr.detail.general_tab.accesskey "О">
