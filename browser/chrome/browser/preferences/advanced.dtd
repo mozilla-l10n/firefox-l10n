@@ -115,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Осыдан бөлек…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "б">
 
+<!ENTITY offlineAppsList3.label          "Келесі вебсайттарға оффлайн қолдануы үшін мәліметті сақтауға рұқсат етілген:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Өшіру…">
 <!ENTITY offlineAppsListRemove.accesskey "ш">

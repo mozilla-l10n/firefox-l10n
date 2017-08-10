@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Жаңа контейнерді қосу">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Атауы">
+<!ENTITY name2.accesskey      "А">
 <!ENTITY name.placeholder     "Контейнер атауын енгізіңіз">
-
-
-
-
+<!ENTITY icon2.label          "Таңбашасы">
+<!ENTITY icon2.accesskey      "Т">
+<!ENTITY color2.label         "Түсі">
+<!ENTITY color2.accesskey     "с">
 <!ENTITY windowClose.key      "ж">
 
 <!ENTITY button.ok.label      "Дайын">

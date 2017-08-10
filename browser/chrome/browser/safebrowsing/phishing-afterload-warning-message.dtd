@@ -32,5 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Бұл веб <span id='phishing_sitename'/> парағы фишингті сайт ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Фишингті сайттар сізді алдап, қауіпті әрекетті жасатуға, мысалы, БҚ орнату, немесе, парольдер, телефон нөмірлері немесе несие карта ақпаратын анықтап, жинауға арналған.</p><p>Бұл веб парақта қандай болса да ақпаратты енгізу сіздің кім екеніңізді анықтауға немесе басқа да алаяқты әрекеттерге әкеп соғуы мүмкін.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Келесі вебсайтта зиянкес БҚ бар болуы мүмкін">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox бұл парақты блоктады, өйткені ол жеке ақпаратыңызды (мыс. фотолар, парольдер, хабарламалар және несие карталары) ұрлайтын немесе өшіретін қауіпті қолданбаларды орнату талабын жасауы мүмкін.">
 <!ENTITY safeb.blocked.harmfulPage.longDesc "">

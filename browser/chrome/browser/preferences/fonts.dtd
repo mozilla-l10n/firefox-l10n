@@ -4,18 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Қаріптер">
 
+<!ENTITY  fonts.label                             "Келесі символдар жинақтары үшін қаріптер">
+<!ENTITY  fonts.accesskey                         "с">
 
-
+<!ENTITY  size2.label                             "Өлшемі">
 <!ENTITY  sizeProportional.accesskey              "м">
 <!ENTITY  sizeMonospace.accesskey                 "л">
 
+<!ENTITY  proportional2.label                     "Пропорционалды">
+<!ENTITY  proportional2.accesskey                 "П">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Ені біркелкі">
+<!ENTITY  monospace2.accesskey                    "Е">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -49,7 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Сингальдық">
 <!ENTITY  font.langGroup.tibetan                  "Тибет">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Қаріптің мүмкін болатын ең аз өлшемі">
+<!ENTITY minSize2.accesskey                       "а">
 <!ENTITY minSize.none                             "Жоқ">
 <!-- default font type -->
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "О">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Ескірген құрама үшін мәтін кодталуы">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Қосалқы мәтін кодталуы">
+<!ENTITY languages.customize.Fallback3.accesskey  "т">
 <!ENTITY languages.customize.Fallback2.desc       "Бұл мәтін кодталуы кодталуды көрсетпейтін ескірген құраманы көрсету үшін қолданылатын болады.">
 
 <!ENTITY languages.customize.Fallback.auto        "Ағымдағы локаль үшін негізгі">
