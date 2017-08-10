@@ -4,9 +4,8 @@
 
 
 <!ENTITY  history.title             "Историјат ажурирања">
-<!ENTITY  history.intro             "Следеће надоградње су инсталиране:">
 <!ENTITY  closebutton.label         "Затвори">
-                                     
+
 <!ENTITY  noupdates.label           "Још није инсталирана ниједна надоградња">
 
 <!ENTITY  name.header               "Име надоградње">

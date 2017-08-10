@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Нисте инсталирали ни један додатак ове врсте">
 <!ENTITY listEmpty.availableUpdates.label     "Нема надоградњи">
 <!ENTITY listEmpty.recentUpdates.label        "Нисте недавно ажурирали додатке">
-<!ENTITY listEmpty.findUpdates.label          "Провери надоградње">
+<!ENTITY listEmpty.findUpdates.label          "Провери да ли постоје ажурирања">
 <!ENTITY listEmpty.search.label               "Нема резултата претраге додатака">
 <!ENTITY listEmpty.button.label               "Сазнајте више о додацима">
 <!ENTITY installAddonFromFile.label           "Инсталирај додатак из датотеке…">
@@ -71,14 +71,14 @@
 <!ENTITY updates.downloaded.label             "Ваши додаци су преузети.">
 <!ENTITY updates.restart.label                "Поново покрените да бисте довршили инсталацију">
 <!ENTITY updates.noneFound.label              "Нема надоградњи">
-<!ENTITY updates.manualUpdatesFound.label     "Погледај доступне надоградње">
-<!ENTITY updates.updateSelected.label         "Инсталирај надоградње">
-<!ENTITY updates.updateSelected.tooltip       "Инсталирајте доступне надоградње са овог списка">
+<!ENTITY updates.manualUpdatesFound.label     "Погледај доступна ажурирања">
+<!ENTITY updates.updateSelected.label         "Инсталирај ажурирања">
+<!ENTITY updates.updateSelected.tooltip       "Инсталирајте доступна ажурирања са овог списка">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Прикажи више информација">
 <!ENTITY cmd.showDetails.accesskey            "в">
-<!ENTITY cmd.findUpdates.label                "Нађи надоградње">
+<!ENTITY cmd.findUpdates.label                "Нађи ажурирања">
 <!ENTITY cmd.findUpdates.accesskey            "Н">
 <!ENTITY cmd.preferencesWin.label             "Поставке">
 <!ENTITY cmd.preferencesWin.accesskey         "П">
@@ -115,9 +115,9 @@
 <!ENTITY cmd.contribute.tooltip               "Дајте прилог аутору овог додатка">
 
 <!ENTITY cmd.showReleaseNotes.label           "Прикажи напомене о издању">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи напомене о издању ове надоградње">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи напомене о издању овог ажурирања">
 <!ENTITY cmd.hideReleaseNotes.label           "Сакриј напомене о издању">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Сакриј напомене о издању ове надоградње">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Сакриј напомене о издању овог ажурирања">
 <!ENTITY cmd.findReplacement.label            "Пронаћи замену">
 
 <!-- discovery view -->
@@ -141,7 +141,7 @@
 
 <!ENTITY detail.updateType                    "Аутоматска ажурирања">
 <!ENTITY detail.updateDefault.label           "Подразумевано">
-<!ENTITY detail.updateDefault.tooltip         "Аутоматски инсталирај надоградње само ако је то подразумевано">
+<!ENTITY detail.updateDefault.tooltip         "Аутоматски ажурирај само ако је то подразумевано">
 <!ENTITY detail.updateAutomatic.label         "Укључено">
 <!ENTITY detail.updateAutomatic.tooltip       "Аутоматски ажурирај додатке">
 <!ENTITY detail.updateManual.label            "Искључено">
@@ -173,7 +173,7 @@
 <!ENTITY sort.name.label                      "Име">
 <!ENTITY sort.name.tooltip                    "Сортирај по имену">
 <!ENTITY sort.dateUpdated.label               "Последња надоградња">
-<!ENTITY sort.dateUpdated.tooltip             "Сортирај по датуму надоградње">
+<!ENTITY sort.dateUpdated.tooltip             "Сортирај по датуму ажурирања">
 <!ENTITY sort.relevance.label                 "По значају">
 <!ENTITY sort.relevance.tooltip               "Поређај по значају">
 <!ENTITY sort.price.label                     "Цена">
