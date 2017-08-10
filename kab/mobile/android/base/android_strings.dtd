@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Isnasen web n usfari">
 <!ENTITY pref_pwa_summary "Sireg akke isnasen web ad ttwarnun γer uqgil agejdan">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Asuddem n warmud">
-<!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebter agejdan atrar sifsusen abrid akken ad d-tafeḍ ayen tebɣiḍ deg &brandShortName;">
-
 <!ENTITY tracking_protection_prompt_title "Tura s ummesten mgal asfuɣel">
 <!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yettili ara wugur yid-k.">
 <!ENTITY tracking_protection_prompt_tip_text "Wali iɣewwaṛen n tbadnit akken ad tissineḍ ugar">
@@ -847,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Anṣuf ɣef wayen tesebṛurqeḍ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; irennu tura asebṛuṛeq n tɣawsiwin i tufiḍ di i tzemreḍ sakin ad tuɣaleḍ ɣur-sent ama d imagraden, tividyutin, ticraḍ n isebtar neɣ isebtar-nniḍen.">
+
+<!ENTITY private_tab_panel_title "Tunigin tusligt + Ammesten mgal asfuɣel">
+<!ENTITY private_tab_panel_description "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n tunigin-inek.">
+<!ENTITY private_tab_panel_description2 "Ur nceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk-inek.">
+<!ENTITY private_tab_learn_more "Tebγiḍ ad tissineḍ ugar?">
