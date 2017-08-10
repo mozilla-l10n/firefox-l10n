@@ -68,7 +68,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profils">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenêtres multi-processus">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenêtres multiprocessus">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Processus de contenu web">
 
