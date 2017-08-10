@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Eg̃uahẽporãite kyta eguerohoryvévape">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ombosako\u0027i umi mba\u0027eita momba\u0027epýva ehechapyréva ñandutípe ejuhukuaajey hag̃ua tape jejugua mba\u0027eita iporãva, ta\u0027ãngamýi ha ambue kuatiarogue rehegua.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Kundaha ñemi + Tapykueho ñemo\u0027ã">
+<!ENTITY private_tab_panel_description "&brandShortName; ojoko kuatiarogue vore ikatúva ohapykueho ne rembiapo kundahára pegua.">
+<!ENTITY private_tab_panel_description2 "Nañanemandu\u0027amo\u0027ãi tembiasakue rehe, hákatu umi marandurenda oguejypyréva ha techaukaha pyahu oñeñongatúta gueteri ne mba\u0027e\u0027okápe.">
+<!ENTITY private_tab_learn_more "¿Eikuaasevépa?">
