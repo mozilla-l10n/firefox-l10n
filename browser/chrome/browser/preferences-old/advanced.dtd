@@ -52,7 +52,7 @@ available. -->
 
 <!ENTITY connection.label                "Свързване">
 
-<!ENTITY connectionDesc.label            "Настройване на начина, по който &brandShortName; достъпва Мрежата">
+<!ENTITY connectionDesc.label            "Настройки на &brandShortName; за достъп до Мрежата">
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 

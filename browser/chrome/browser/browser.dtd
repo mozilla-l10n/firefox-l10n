@@ -427,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Разширение:">
 <!ENTITY urlbar.switchToTab.label     "Превключване към раздел:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват подсказки при въвеждане на думи за търсене?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Желаете ли да подобрите изживяването си при търсене като виждате предложения?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "у">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Съвет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Получете помощ докато търсите! Огледайте се за &#x1F50E; до подсказките при търсене.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Получете помощ при търсене! Огледайте се за &#x1F50E; до предложенията при търсене.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Промяна на настройките…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "П">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Промяна на настройките…">

@@ -6,12 +6,12 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Изберете стандартната търсеща машина. &brandShortName; я използва при търсене от адресната лента, полето за търсене и началната страница.">
 
-<!ENTITY provideSearchSuggestions.label        "Показване на подсказки при въвеждане на думи за търсене">
+<!ENTITY provideSearchSuggestions.label        "Показване на предложения при търсене">
 <!ENTITY provideSearchSuggestions.accesskey    "П">
 
-<!ENTITY showURLBarSuggestions.label           "Показване на подсказки в резултатите на лентата за търсене">
+<!ENTITY showURLBarSuggestions.label           "Показване на предложения при търсене в резултатите на адресната лента">
 <!ENTITY showURLBarSuggestions.accesskey       "л">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Подсказките при търсене няма да бъдат показвани в резултатите от лентата за адрес, защото &brandShortName; е настроен никога да не запомня историята на браузване.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото &brandShortName; е настроен да не запазва историята на разглеждане.">
 
 <!ENTITY oneClickSearchEngines.label           "Търсене с едно щракване">
 
