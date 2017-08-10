@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "Жаңарту тарихы">
-
+<!ENTITY  history2.intro            "Келесі жаңартулар орнатылған">
 <!ENTITY  closebutton.label         "Жабу">
 
 <!ENTITY  noupdates.label           "Бірде-бір жаңарту орнатылмады">

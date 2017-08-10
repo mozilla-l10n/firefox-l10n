@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Вебсайттардан cookies қабылдау">
 <!ENTITY  acceptCookies2.accesskey      "д">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "Үшінші жақты cookies қабылдау">
+<!ENTITY  acceptThirdParty2.pre.accesskey "ш">
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
 
-
+<!ENTITY  keepUntil2.label              "Дейін сақтау">
+<!ENTITY  keepUntil2.accesskey          "н">
 
 <!ENTITY  expire.label                  "олардың мерзімі аяқталғанша дейін">
 <!ENTITY  close.label                   "Мен &brandShortName; жапқанға дейін">
