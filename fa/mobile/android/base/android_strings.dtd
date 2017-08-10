@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "به موارد برجسته خوش ‌آمدید">
 <!ENTITY activity_stream_welcome_content1 "اکنون &brandShortName; موارد برجسته را برای چیزهایی که شما در وب کشفه کرده‌اید ایجاده میکند تا راه خود را به سوی مقالات،‌ ویدیو ها، نشانک ها و سایر صفحات خود پیدا کنید.">
 
-
-
-
+<!ENTITY private_tab_panel_title "مرور ناشناس + امکان محافظت در برابر ردگیری">
+<!ENTITY private_tab_panel_description "&brandShortName; بخشی از صفحاتی که ممکن است فعالیت‌های شما را ردگیری کنند، مسدود می‌کند.">
+<!ENTITY private_tab_panel_description2 "ما هیچ تاریخچه‌ای از مرور شما را ذخیره نمی‌کنیم، اما پرونده‌های دریافت شده و نشانک‌های جدید بر روی دستگاه شما ذخیره خواهند شد.">
+<!ENTITY private_tab_learn_more "مایلید بیشتر بدانید؟">
