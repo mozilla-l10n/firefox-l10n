@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tjedan">
 
+<!ENTITY aboutTelemetry.archivePingType "Vrsta pinga">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Danas">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Jučer">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Starije">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Opći podaci">
 
