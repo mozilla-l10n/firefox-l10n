@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "مرحبًا مع أهم الأحداث">
 <!ENTITY activity_stream_welcome_content1 "يسلط &brandShortName; الآن الضوء على أهم الأحداث التي تمر عليها أثناء تصفحك للوب، لتستطيع العودة إلى المقالات أو العلامات أو الصفحات المهمة الأخرى التي مررت عليها.">
 
-
-
-
+<!ENTITY private_tab_panel_title "التصفح الخاص مع الحماية من التعقب">
+<!ENTITY private_tab_panel_description "يحجب &brandShortName; أجزاء الصفحة التي قد تتعقّب نشاط التصفح.">
+<!ENTITY private_tab_panel_description2 "لن نتذكّر أيّا من التأريخ، إلا أن الملفات المنزّلة و العلامات الجديدة ستبقى تُحفظ على الجهاز.">
+<!ENTITY private_tab_learn_more "هل تريد معرفة المزيد؟">
