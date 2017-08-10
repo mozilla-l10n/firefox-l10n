@@ -46,8 +46,8 @@
 <!ENTITY historyHeader.custom.label "będzie używał ustawień użytkownika">
 <!ENTITY historyHeader.post.label "">
 
-<!ENTITY acceptCookies.label "Akceptowanie ciasteczek">
-<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptCookies2.label "Akceptowanie ciasteczek">
+<!ENTITY acceptCookies2.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
 <!ENTITY acceptThirdParty.pre.accesskey "n">
 <!ENTITY acceptThirdParty.always.label "zawsze">

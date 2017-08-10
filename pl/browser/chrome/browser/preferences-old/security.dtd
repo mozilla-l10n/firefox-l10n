@@ -4,8 +4,8 @@
 
 <!ENTITY general.label "Ogólne">
 
-<!ENTITY warnOnAddonInstall.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
-<!ENTITY warnOnAddonInstall.accesskey "O">
+<!ENTITY warnOnAddonInstall2.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
+<!ENTITY warnOnAddonInstall2.accesskey "O">
 
 <!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
 <!ENTITY enableSafeBrowsing.accesskey "B">
@@ -19,8 +19,8 @@
 
 <!ENTITY logins.label "Dane logowania">
 
-<!ENTITY rememberLogins.label "Zachowywanie danych logowania do witryn">
-<!ENTITY rememberLogins.accesskey "l">
+<!ENTITY rememberLogins2.label "Zachowywanie danych logowania do witryn">
+<!ENTITY rememberLogins2.accesskey "l">
 
 <!ENTITY useMasterPassword.label "Hasło główne">
 <!ENTITY useMasterPassword.accesskey "H">

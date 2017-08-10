@@ -52,8 +52,8 @@
 
 <!ENTITY permissions.label "Uprawnienia">
 
-<!ENTITY acceptCookies.label "Akceptowanie ciasteczek">
-<!ENTITY acceptCookies.accesskey "">
+<!ENTITY acceptCookies2.label "Akceptowanie ciasteczek">
+<!ENTITY acceptCookies2.accesskey "">
 <!ENTITY acceptThirdParty.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
 <!ENTITY acceptThirdParty.pre.accesskey "">
 <!ENTITY acceptThirdParty.always.label "zawsze">

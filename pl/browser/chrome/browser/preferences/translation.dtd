@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey "">
 
 <!ENTITY noTranslationForSites.label "Tłumaczenia nie będą proponowane na następujących stronach:">
-<!ENTITY treehead.siteName.label "Strony">
+<!ENTITY treehead.siteName2.label "Witryny">
 <!ENTITY removeSite.label "Usuń stronę">
 <!ENTITY removeSite.accesskey "">
 <!ENTITY removeAllSites.label "Usuń wszystkie strony">

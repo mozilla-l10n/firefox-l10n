@@ -5,8 +5,8 @@
 <!ENTITY security.label "Bezpieczeństwo">
 <!ENTITY phishingProtection.label "Ochrona przed oszustwami">
 
-<!ENTITY warnOnAddonInstall.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
-<!ENTITY warnOnAddonInstall.accesskey "">
+<!ENTITY warnOnAddonInstall2.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
+<!ENTITY warnOnAddonInstall2.accesskey "">
 
 <!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
 <!ENTITY enableSafeBrowsing.accesskey "">
@@ -20,8 +20,8 @@
 
 <!ENTITY formsAndPasswords.label "Formularze i hasła">
 
-<!ENTITY rememberLogins1.label "Zachowywanie danych logowania do witryn">
-<!ENTITY rememberLogins1.accesskey "">
+<!ENTITY rememberLogins2.label "Zachowywanie danych logowania do witryn">
+<!ENTITY rememberLogins2.accesskey "">
 
 <!ENTITY useMasterPassword.label "Hasło główne">
 <!ENTITY useMasterPassword.accesskey "">

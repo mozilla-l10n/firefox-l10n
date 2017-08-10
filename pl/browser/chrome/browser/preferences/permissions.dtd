@@ -5,12 +5,12 @@
 <!ENTITY window.title                 "Wyjątki">
 <!ENTITY window.width "39em">
 
-<!ENTITY treehead.sitename.label      "Witryna">
+<!ENTITY treehead.sitename2.label "Witryna">
 <!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Usuń witrynę">
-<!ENTITY removepermission.accesskey "">
-<!ENTITY removeallpermissions.label   "Usuń wszystkie witryny">
-<!ENTITY removeallpermissions.accesskey "">
+<!ENTITY removepermission2.label "Usuń witrynę">
+<!ENTITY removepermission2.accesskey "">
+<!ENTITY removeallpermissions2.label "Usuń wszystkie witryny">
+<!ENTITY removeallpermissions2.accesskey "">
 <!ENTITY address.label                "Adres witryny:">
 <!ENTITY address.accesskey "">
 <!ENTITY block.label                  "Blokuj">
