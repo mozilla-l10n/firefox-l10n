@@ -43,8 +43,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Pergi ke Baris...">
-<!ENTITY goToLineCmd.accesskey "G">
-<!ENTITY goToLineCmd.commandkey "l">
+<!ENTITY goToLineCmd.accesskey "P">
+<!ENTITY goToLineCmd.commandkey "s">
 
 <!ENTITY viewMenu.label           "Papar">
 <!ENTITY viewMenu.accesskey       "p">

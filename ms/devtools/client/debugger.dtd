@@ -129,8 +129,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Pergi ke Baris…">
-<!ENTITY debuggerUI.searchGoToLine.key       "L">
-<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
+<!ENTITY debuggerUI.searchGoToLine.key       "B">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
