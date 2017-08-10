@@ -44,7 +44,7 @@
 <!ENTITY  locbar.searches.label         "Подобни търсения от стандартната търсеща машина">
 <!ENTITY  locbar.searches.accesskey     "П">
 
-<!ENTITY  suggestionSettings2.label     "Промяна настройките на подсказките от търсещите машини">
+<!ENTITY  suggestionSettings2.label     "Настройки на предложенията от търсещите машини">
 
 <!ENTITY  acceptCookies2.label          "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies2.accesskey      "б">
