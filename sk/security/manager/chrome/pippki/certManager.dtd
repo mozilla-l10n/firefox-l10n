@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autority">
 <!ENTITY certmgr.tab.orphan2                  "Iné">
 
-<!ENTITY certmgr.mine                         "Máte certifikáty od týchto organizácií, ktoré vás identifikujú:">
-<!ENTITY certmgr.others                       "Máte uložené certifikáty, ktoré identifikujú týchto ľudí:">
-<!ENTITY certmgr.websites2                    "Máte uložené certifikáty, ktoré identifikujú tieto servery:">
-<!ENTITY certmgr.cas                          "Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority:">
-<!ENTITY certmgr.orphans                      "Máte uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií:">
+<!ENTITY certmgr.mine2                        "Máte certifikáty od týchto organizácií, ktoré vás identifikujú">
+<!ENTITY certmgr.others2                      "Máte uložené certifikáty, ktoré identifikujú týchto ľudí">
+<!ENTITY certmgr.websites3                    "Máte uložené certifikáty, ktoré identifikujú tieto servery">
+<!ENTITY certmgr.cas2                         "Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority">
+<!ENTITY certmgr.orphans2                     "Máte uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií">
 
 <!ENTITY certmgr.detail.general_tab.title     "Všeobecné">
 <!ENTITY certmgr.detail.general_tab.accesskey "V">

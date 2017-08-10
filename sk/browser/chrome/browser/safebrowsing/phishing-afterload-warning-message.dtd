@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Webová stránka <span id='phishing_sitename'/> bola označená ako podvodná a na základe nastavení zabezpečenia bola zablokovaná.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Podvodné stránky majú za úlohu vás ohroziť. Môžu nainštalovať do vášho počítača nebezpečný softvér, alebo ukradnúť vaše osobné údaje, ako sú heslá, telefónne čísla alebo kreditné karty.</p><p>Zadanie akýchkoľvek informácií na takejto webovej stránke môže pre vás znamenať krádež vašej totožnosti alebo vaše ohrozenie inými podvodmi.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
