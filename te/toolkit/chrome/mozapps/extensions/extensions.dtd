@@ -133,7 +133,7 @@
 <!ENTITY detail.lastupdated.label             "చివరిగా నవీకరించింది">
 <!ENTITY detail.creator.label                 "అభివృద్దికారి">
 <!ENTITY detail.homepage.label                "హోం పేజీ">
-<!ENTITY detail.numberOfDownloads.label       "డౌన్‌లోడులు">
+<!ENTITY detail.numberOfDownloads.label       "దింపుకోళ్ళు">
 
 <!ENTITY detail.contributions.description     "ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.">
 

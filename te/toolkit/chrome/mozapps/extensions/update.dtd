@@ -27,7 +27,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "సారూప్యతగల పొడిగింతలను సంస్థాపించుచున్నది">
-<!ENTITY  installing.top.label            "మీ పొడిగింతలకు నవీకరణలను డౌనులోడుచేసి సంస్థాపిస్తున్నది...">
+<!ENTITY  installing.top.label            "మీ పొడిగింతలకు నవీకరణలను దింపుకుంటోంది మరియు సంస్థాపిస్తున్నది...">
 
 <!ENTITY  noupdates.wizard.title          "ఏ సారూప్యతగల పొడిగింతలు కనబడలేదు">
 <!ENTITY  noupdates.intro.desc            "మీ సారూప్యతగాని పొడిగింతలకు 
