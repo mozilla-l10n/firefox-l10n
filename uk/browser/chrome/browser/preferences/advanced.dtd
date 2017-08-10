@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Винятки…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "я">
 
-<!ENTITY offlineAppsList2.label          "Наступним веб-сайтам дозволено зберігати дані для автономного використання:">
+<!ENTITY offlineAppsList3.label          "Наступним веб-сайтам дозволено зберігати дані для автономного використання">
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "Вилучити…">
 <!ENTITY offlineAppsListRemove.accesskey "В">
