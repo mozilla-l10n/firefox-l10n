@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "தளங்களிலிருந்து நினைவிகளை ஏற்றுக்கொள்">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "மூன்றாம் தரப்பு நினைவிகளை அனுமதி">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
 <!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
 <!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
 
-
+<!ENTITY  keepUntil2.label              "அதுவரை வைத்திரு">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "அவை காலாவதியாகிவிட்டது">
 <!ENTITY  close.label                   "நான் &brandShortName;ஐ மூடுகிறேன்">
