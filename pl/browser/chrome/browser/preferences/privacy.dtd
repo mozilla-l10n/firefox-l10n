@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label "Śledzenie">
 <!ENTITY trackingProtectionHeader2.label "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection2.description "Śledzenie to zbieranie informacji o Twoim przeglądaniu na wielu różnych stronach. Śledzenie jest używane do profilowania użytkowników i wyświetlania treści na podstawie Twojego przeglądania i osobistych danych.">
 <!ENTITY trackingProtection2.radioGroupLabel "Chroń przed śledzeniem przez znane elementy śledzące:">
