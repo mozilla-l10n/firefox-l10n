@@ -321,7 +321,7 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural2 "&formatD; вкладки(ок) в черзі">
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; вкладок в черзі">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 вкладка в черзі">
