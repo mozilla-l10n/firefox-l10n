@@ -77,7 +77,7 @@ available. -->
 <!ENTITY overrideSmartCacheSize.label    "Занемари аутоматско управљање кешом">
 <!ENTITY overrideSmartCacheSize.accesskey "З">
 
-<!ENTITY updateTab.label                 "Надоградње">
+<!ENTITY updateTab.label                 "Ажурирања">
 
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -95,11 +95,11 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Верзија ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Дозволи &brandShortName;-у да">
-<!ENTITY updateAuto3.label               "Аутоматски инсталирај ажурирања (препоручено)">
+<!ENTITY updateAuto3.label               "Аутоматски ажурирај (препоручено)">
 <!ENTITY updateAuto3.accesskey           "А">
-<!ENTITY updateCheckChoose2.label        "Проверава надоградње али ме питај да ли да их инсталирам">
+<!ENTITY updateCheckChoose2.label        "Проверава ажурирања али ме питај да ли да их инсталирам">
 <!ENTITY updateCheckChoose2.accesskey    "и">
-<!ENTITY updateManual2.label             "Никадa не проверава надоградње (не препоручује се)">
+<!ENTITY updateManual2.label             "Никадa не проверава ажурирања (не препоручује се)">
 <!ENTITY updateManual2.accesskey         "Н">
 
 <!ENTITY updateHistory2.label            "Прикажи историјат ажурирања…">
@@ -116,7 +116,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Изузеци">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "И">
 
-<!ENTITY offlineAppsList2.label          "Следећи сајтови смеју да складиште податке за коришћење ван мреже:">
 <!ENTITY offlineAppsList.height          "9em">
 <!ENTITY offlineAppsListRemove.label     "Уклони…">
 <!ENTITY offlineAppsListRemove.accesskey "У">

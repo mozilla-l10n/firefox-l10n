@@ -12,7 +12,7 @@
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Провери да ли постоје надоградње">
+<!ENTITY update.checkForUpdatesButton.label       "Провери да ли постоје ажурирања">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
 <!ENTITY update.updateButton.label3               "Рестартуј да се &brandShorterName; ажурира">
 <!ENTITY update.updateButton.accesskey            "к">
@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; је ажуран">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Системски администратор је онемогућио надоградње">
+<!ENTITY update.adminDisabled       "Системски администратор је онемогућио ажурирања">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; се ажурира ">
 <!ENTITY update.restarting          "Поново покрећем…">
@@ -82,7 +82,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Надоградње су доступне на ">
+<!ENTITY update.manual.start        "Ажурирања су доступна на ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -91,7 +91,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Не можете да извршите надоградње на овом систему. ">
+<!ENTITY update.unsupported.start    "Не можете да извршите ажурирања на овом систему. ">
 <!ENTITY update.unsupported.linkText "Сазнајте више">
 <!ENTITY update.unsupported.end      "">
 

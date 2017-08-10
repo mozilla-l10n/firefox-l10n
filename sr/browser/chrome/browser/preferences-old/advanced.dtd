@@ -84,14 +84,14 @@ available. -->
 <!ENTITY overrideSmartCacheSize.label    "Занемари аутоматско управљање кешом">
 <!ENTITY overrideSmartCacheSize.accesskey "З">
 
-<!ENTITY updateTab.label                 "Надоградње">
+<!ENTITY updateTab.label                 "Ажурирања">
 
 <!ENTITY updateApplication.label         "&brandShortName; ажурирања">
-<!ENTITY updateAuto1.label               "Аутоматски инсталирај надоградње (препоручено: повећана сигурност)">
+<!ENTITY updateAuto1.label               "Аутоматски ажурирај (препоручено: повећана сигурност)">
 <!ENTITY updateAuto1.accesskey           "А">
-<!ENTITY updateCheckChoose.label         "Проверавај надоградње, али ме питај да ли да их инсталирам">
+<!ENTITY updateCheckChoose.label         "Проверавај ажурирања, али ме питај да ли да их инсталирам">
 <!ENTITY updateCheckChoose.accesskey     "и">
-<!ENTITY updateManual.label              "Никад не проверавај надоградње (не препоручује се)">
+<!ENTITY updateManual.label              "Никад не проверавај ажурирања (не препоручује се)">
 <!ENTITY updateManual.accesskey          "Н">
 
 <!ENTITY updateHistory.label             "Прикажи историјат ажурирања">

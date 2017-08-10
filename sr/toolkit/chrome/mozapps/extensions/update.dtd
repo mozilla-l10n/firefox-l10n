@@ -6,7 +6,7 @@
 
 <!ENTITY  offline.title                   "&brandShortName; ради ван мреже">
 <!ENTITY  offline.description             "&brandShortName; мора да се повеже са мрежом како би проверио да ли
-                                           постоје надоградње за додатке, како би биле у складу са овим
+                                           постоје ажурирања за додатке, како би биле у складу са овим
                                            издањем програма.">
 <!ENTITY  offline.toggleOffline.label     "Повежи се.">
 <!ENTITY  offline.toggleOffline.accesskey "П">
@@ -23,7 +23,7 @@
 
 <!ENTITY  found.wizard.title               "Пронађени су компатибилни додаци">
 <!ENTITY  found.top.label                 "Изаберите додатке које желите да поставите:">
-<!ENTITY  found.disabledXPinstall.label   "Ове надоградње не могу бити постављене јер је постављање софтвера тренутно
+<!ENTITY  found.disabledXPinstall.label   "Ова ажурирања не могу бити постављена јер је постављање софтвера тренутно
                                            искључено. То можете да промените помоћу подешавања испод.">
 <!ENTITY  found.enableXPInstall.label     "Дозволи веб сајтовима да инсталирају софтвер">
 <!ENTITY  found.enableXPInstall.accesskey "Д">
@@ -32,21 +32,21 @@
 <!ENTITY  installing.top.label            "Преузимања и инсталација надоградњи за додатке…">
 
 <!ENTITY  noupdates.wizard.title          "Компатибилни додаци нису пронађени">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; није могао да пронађе надоградње за
+<!ENTITY  noupdates.intro.desc            "&brandShortName; није могао да пронађе ажурирања за
                                            некомпатибилне додатке.">
 <!ENTITY  noupdates.error.desc            "Дошло је до грешака при тражењу надоградњи.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ће периодично да проверава и обавештава
-                                           када пронађе компатибилне надоградње.">
+                                           када пронађе компатибилна ажурирања.">
 
 <!ENTITY  finished.wizard.title           "Компатибилни додаци су инсталирани">
-<!ENTITY  finished.top.label              "&brandShortName; је поставио надоградње за ваше додатке.">
+<!ENTITY  finished.top.label              "&brandShortName; је ажурирао ваше додатке.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; може периодично да проверава и обавештава
-                                           када пронађе надоградње за додатке.">
+                                           када пронађе ажурирања за додатке.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; ће периодично да проверава и обавештава
-                                           када пронађе надоградње за додатке.">
+                                           када пронађе ажурирања за додатке.">
 
-<!ENTITY  adminDisabled.wizard.title      "Није могуће проверити надоградње">
-<!ENTITY  adminDisabled.warning.label     "Није могуће проверити надоградње за некомпатибилне додатке
+<!ENTITY  adminDisabled.wizard.title      "Није могуће проверити да ли постоје ажурирања">
+<!ENTITY  adminDisabled.warning.label     "Није могуће проверити ажурирања за некомпатибилне додатке
                                            јер је инсталација софтвера &brandShortName; онемогућена.
                                            Обратите се вашем системском администратору за савет.">
 
@@ -62,4 +62,4 @@
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Кликните на „Доврши“ како бисте наставили покретање програма &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Притисните „Готово‟ да бисте наставили са покретањем програма &brandShortName;.">
-<!ENTITY  enableChecking.label            "Дозволи програму &brandShortName; да проверава надоградње.">
+<!ENTITY  enableChecking.label            "Дозволи &brandShortName;-у да проверава ажурирања.">

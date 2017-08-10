@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Алатке">
-<!ENTITY toolsMenu.accesskey          "А"> 
+<!ENTITY toolsMenu.accesskey          "А">
 
 <!ENTITY keywordfield.label           "Додај кључну реч за ову претрагу…">
 <!ENTITY keywordfield.accesskey       "Д">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Испитај елеменат">
 <!ENTITY inspectContextMenu.accesskey "И">
 
-<!ENTITY fileMenu.label         "Датотека"> 
+<!ENTITY fileMenu.label         "Датотека">
 <!ENTITY fileMenu.accesskey       "Д">
 <!ENTITY newUserContext.label             "Нови језичак">
 <!ENTITY newUserContext.accesskey         "ј">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "п">
 <!ENTITY newNonRemoteWindow.label   "Нови не-e10s прозор">
 
-<!ENTITY editMenu.label         "Уређивање"> 
-<!ENTITY editMenu.accesskey       "У"> 
-<!ENTITY undoCmd.label            "Поништи">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ш"> 
-<!ENTITY redoCmd.label            "Понови">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "П"> 
-<!ENTITY cutCmd.label           "Исеци">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ц"> 
-<!ENTITY copyCmd.label            "Копирај">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "К"> 
-<!ENTITY pasteCmd.label           "Налепи">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "Н"> 
-<!ENTITY deleteCmd.label          "Избриши">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ш"> 
-<!ENTITY selectAllCmd.label         "Изабери све">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "а"> 
+<!ENTITY editMenu.label         "Уређивање">
+<!ENTITY editMenu.accesskey       "У">
+<!ENTITY undoCmd.label            "Поништи">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "ш">
+<!ENTITY redoCmd.label            "Понови">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "П">
+<!ENTITY cutCmd.label           "Исеци">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "ц">
+<!ENTITY copyCmd.label            "Копирај">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label           "Налепи">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "Н">
+<!ENTITY deleteCmd.label          "Избриши">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "ш">
+<!ENTITY selectAllCmd.label         "Изабери све">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "а">
 <!ENTITY preferencesCmd2.label       "Поставке">
 <!ENTITY preferencesCmd2.accesskey     "о">
 <!ENTITY preferencesCmdUnix.label       "Поставке">
-<!ENTITY preferencesCmdUnix.accesskey     "П"> 
+<!ENTITY preferencesCmdUnix.accesskey     "П">
 
 <!ENTITY clearRecentHistory.label               "Обриши историјат…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Преглед"> 
-<!ENTITY viewMenu.accesskey       "г"> 
-<!ENTITY viewToolbarsMenu.label       "Алатне траке"> 
-<!ENTITY viewToolbarsMenu.accesskey     "А"> 
+<!ENTITY viewMenu.label         "Преглед">
+<!ENTITY viewMenu.accesskey       "г">
+<!ENTITY viewToolbarsMenu.label       "Алатне траке">
+<!ENTITY viewToolbarsMenu.accesskey     "А">
 <!ENTITY viewSidebarMenu.label "Бочна палета">
 <!ENTITY viewSidebarMenu.accesskey "Б">
-<!ENTITY viewCustomizeToolbar.label       "Прилагоди…"> 
+<!ENTITY viewCustomizeToolbar.label       "Прилагоди…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ш">
 <!ENTITY overflowCustomizeToolbar.label       "Прилагоди алатну траку…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "г">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "и">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Преглед изворног кода изабраног дела">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Преглед MathML кода">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "е">
 <!ENTITY viewPageSourceCmd.label      "Преглед изворног кода">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Копирај одредиште слике">
 <!ENTITY copyImageCmd.accesskey       "т">
 <!ENTITY copyImageContentsCmd.label   "Копирај слику">
-<!ENTITY copyImageContentsCmd.accesskey  "у"> 
+<!ENTITY copyImageContentsCmd.accesskey  "у">
 <!ENTITY copyVideoURLCmd.label        "Копирај одредиште за видео">
 <!ENTITY copyVideoURLCmd.accesskey    "К">
 <!ENTITY copyAudioURLCmd.label        "Копирај одредиште за аудио">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Изађи из &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Изађи"> 
+<!ENTITY quitApplicationCmd.label       "Изађи">
 <!ENTITY quitApplicationCmd.accesskey   "И">
 <!ENTITY quitApplicationCmdMac2.label   "Изађи из &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Затвори">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Затвори">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -964,7 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.message "Ажурирајте ваш &brandShorterName; за нове могућности.">
 <!ENTITY updateAvailable.whatsnew.label "Погледајте шта је ново.">
 <!ENTITY updateAvailable.header.message "Ажурирање &brandShorterName;-а је доступно.">
-<!ENTITY updateAvailable.acceptButton.label "Преузми надоградње">
+<!ENTITY updateAvailable.acceptButton.label "Преузми ажурирање">
 <!ENTITY updateAvailable.acceptButton.accesskey "П">
 <!ENTITY updateAvailable.cancelButton.label "Не сада">
 <!ENTITY updateAvailable.cancelButton.accesskey "Н">
