@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Ιστορικό ενημερώσεων">
-<!ENTITY  history.intro             "Οι παρακάτω ενημερώσεις έχουν εγκατασταθεί:">
+<!ENTITY  history2.intro            "Οι ακόλουθες ενημερώσεις εγκαταστάθηκαν">
 <!ENTITY  closebutton.label         "Κλείσιμο">
-                                     
+
 <!ENTITY  noupdates.label           "Δεν έχουν εγκατασταθεί ενημερώσεις">
 
 <!ENTITY  name.header               "Όνομα ενημέρωσης">
