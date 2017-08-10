@@ -6,7 +6,7 @@
 <!ENTITY addButton.accesskey "">
 <!ENTITY preferencesButton.label "Preferencje">
 <!ENTITY removeButton.label "Usuń">
-<!ENTITY backLink.label "« Powrót">
+<!ENTITY backLink2.label "« Powrót">
 
 <!ENTITY window.title "Dodawanie kontekstu">
 <!ENTITY window.width "45em">
