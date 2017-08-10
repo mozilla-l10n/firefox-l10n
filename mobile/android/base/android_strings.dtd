@@ -590,7 +590,7 @@
 <!ENTITY home_closed_tabs_title2 "Nedavno zaprto">
 <!ENTITY home_last_tabs_empty "Tukaj se prikažejo vaši nedavni zavihki.">
 <!ENTITY home_restore_all "Obnovi vse">
-<!ENTITY home_closed_tabs_number "&formatD; zavihkov">
+<!ENTITY home_closed_tabs_number "Št. zavihkov: &formatD;">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 zavihek">
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
