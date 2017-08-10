@@ -25,8 +25,8 @@
 
 <!ENTITY  evangelism.desc                 "&brandShortName; కి ఈ  నవీకరణ  త్వరగా చేయటంమంచిది.">
 
-<!ENTITY  downloadPage.title              "&brandShortName; డౌన్‌లోడ్ చేయుచున్నది">
-<!ENTITY  downloading.intro               "నవీకరణను డౌనులోడుచేస్తోంది...">
+<!ENTITY  downloadPage.title              "&brandShortName; దింపుకుంటోంది">
+<!ENTITY  downloading.intro               "నవీకరణను దింపుకుంటోంది…">
 <!ENTITY  connecting.label                "నవీకరణ సేవికకు అనుసంధానించబడుతోంది...">
 <!ENTITY  verificationFailedText.label    "&brandShortName; అది డౌనులోడు  చేసిన  పురోగమన నవీకరణ యొక్క ఐక్యతను  నిర్దారించలేకపోతోంది,అందుకని అది యిప్పుడు  పూర్తి  నవీకరణ ప్యాకేజ్‌ను డౌనులోడుచేస్తోంది.">
 
@@ -36,7 +36,6 @@
 
 <!ENTITY  error.title                     "నవీకరణ విఫలమైంది">
 
-<!ENTITY  error.label                     "ఈ నవీకరణ సంస్థాపనకు  లేదా  డౌనులోడింగ్‌‌కు , పరిశీలనజరుపుటకు  సమస్యలు  వున్నవి. &brandShortName; నవీకరించబడదు  ఎంచేతంటే:">
                                            
 <!ENTITY  errorManual.label               "ఈ లింకు దర్శించట 
                                            మరియు సరికొత్త వర్షన్ ను డౌనులోడుచేయుట ద్వారా మీరు &brandShortName;ను మానవీయంగా  నవీకరించవచ్చు:">
