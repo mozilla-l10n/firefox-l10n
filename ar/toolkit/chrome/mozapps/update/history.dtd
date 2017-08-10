@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "تأريخ التحديث">
-
+<!ENTITY  history2.intro            "نُصّبت التحديثات التالية">
 <!ENTITY  closebutton.label         "أغلق">
 
 <!ENTITY  noupdates.label           "لم تُنصّب أي تحديثات بعد">

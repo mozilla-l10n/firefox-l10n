@@ -4,18 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "الخطوط">
 
+<!ENTITY  fonts.label                             "خطوط‍">
+<!ENTITY  fonts.accesskey                         "خ">
 
-
+<!ENTITY  size2.label                             "الحجم">
 <!ENTITY  sizeProportional.accesskey              "م">
 <!ENTITY  sizeMonospace.accesskey                 "ح">
 
+<!ENTITY  proportional2.label                     "متناسب">
+<!ENTITY  proportional2.accesskey                 "ت">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "مذيّل">
+<!ENTITY  serif2.accesskey                        "ذ">
+<!ENTITY  sans-serif2.label                       "غير مذيّل">
+<!ENTITY  sans-serif2.accesskey                   "غ">
+<!ENTITY  monospace2.label                        "ثابت العرض">
+<!ENTITY  monospace2.accesskey                    "ث">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -49,7 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "السنهالاوية">
 <!ENTITY  font.langGroup.tibetan                  "التبتية">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "الحجم الأدنى للخط">
+<!ENTITY minSize2.accesskey                       "ط">
 <!ENTITY minSize.none                             "لا شيء">
 <!-- default font type -->
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "س">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ترميز النص للمحتوى العتيق">
-
-
+<!ENTITY languages.customize.Fallback3.label      "ترميز النص الاحتياط">
+<!ENTITY languages.customize.Fallback3.accesskey  "ر">
 <!ENTITY languages.customize.Fallback2.desc       "يُستخدم ترميز النص هذا مع المحتوى العتيق الذي لا يُحدِّد ترميزه.">
 
 <!ENTITY languages.customize.Fallback.auto        "المبدئي من لغة البرنامج">

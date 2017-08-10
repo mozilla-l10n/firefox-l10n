@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "أبدًا">
 
 <!ENTITY  color                           "النّصّ و الخلفيّة">
-
-
-
-
+<!ENTITY  textColor2.label                "النّص">
+<!ENTITY  textColor2.accesskey            "ن">
+<!ENTITY  backgroundColor2.label          "الخلفية">
+<!ENTITY  backgroundColor2.accesskey      "خ">
 <!ENTITY  useSystemColors.label           "استخدم ألوان النظام">
 <!ENTITY  useSystemColors.accesskey       "ظ">
 
 <!ENTITY  underlineLinks.label            "سطّر الروابط">
 <!ENTITY  underlineLinks.accesskey        "ط">
 <!ENTITY  links                           "ألوان الروابط">
-
-
-
-
+<!ENTITY  linkColor2.label                "الروابط غير المزارة">
+<!ENTITY  linkColor2.accesskey            "غ">
+<!ENTITY  visitedLinkColor2.label         "الروابط المزارة">
+<!ENTITY  visitedLinkColor2.accesskey     "م">

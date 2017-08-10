@@ -12,12 +12,13 @@
 <!ENTITY window.title         "أضف حاوية جديدة">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "الاسم">
+<!ENTITY name2.accesskey      "س">
 <!ENTITY name.placeholder     "أدخِل اسم الحاوية">
-
-
-
-
+<!ENTITY icon2.label          "الأيقونة">
+<!ENTITY icon2.accesskey      "ق">
+<!ENTITY color2.label         "اللون">
+<!ENTITY color2.accesskey     "ل">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "تم">
