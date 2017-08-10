@@ -46,7 +46,7 @@ that require it.  -->
 <!ENTITY historySection.label         "చరిత్ర">
 <!ENTITY dataSection.label            "దత్తాంశము">
 
-<!ENTITY itemHistoryAndDownloads.label     "విహారణ మరియు డౌన్లోడ్ చరిత్ర">
+<!ENTITY itemHistoryAndDownloads.label     "విహారణ మరియు దింపుకోలు చరిత్ర">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "ఫారమ్ మరియు శోధన చరిత్ర">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

@@ -57,7 +57,7 @@
 <!ENTITY cmd.showMac.label                "ఫైండర్‌లో చూపించు">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "మళ్ళీ ప్రయత్నించు">
-<!ENTITY cmd.goToDownloadPage.label       "డౌనులోడు పేజీకి వెళ్ళు">
+<!ENTITY cmd.goToDownloadPage.label       "దింపుకోళ్ళ పేజీకి వెళ్ళు">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.label       "డౌనులోడు లింకును కాపీచేయి">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
@@ -134,7 +134,11 @@
 <!ENTITY downloadsHistory.label           "దింపుకోళ్ళంటినీ చూపించు">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "దింపుకోళ్ళ సంచయాన్ని తెరువు">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "దింపుకోళ్ళ సంచయాన్ని తెరువు">
 
 <!ENTITY clearDownloadsButton.label       "దింపుకోళ్ళను శుభ్రంచేయి">
 <!ENTITY clearDownloadsButton.tooltip     "పూర్తయిన, రద్దుచేసిన మరియు విఫలమైన దింపుకోళ్ళను తుడిచివేస్తుంది">
