@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Фонтови">
 
-<!ENTITY  language.label                          "Фонтови за:">
-<!ENTITY  language.accesskey                      "Ф">
+<!ENTITY  fonts.label                             "Фонтови за">
+<!ENTITY  fonts.accesskey                         "Ф">
 
-<!ENTITY  size.label                              "Величина:">
+<!ENTITY  size2.label                             "Величина">
 <!ENTITY  sizeProportional.accesskey              "В">
 <!ENTITY  sizeMonospace.accesskey                 "е">
 
-<!ENTITY  proportional.label                      "Сразмерни:">
-<!ENTITY  proportional.accesskey                  "р">
+<!ENTITY  proportional2.label                     "Сразмерно">
+<!ENTITY  proportional2.accesskey                 "С">
 
-<!ENTITY  serif.label                             "Серифни:">
-<!ENTITY  serif.accesskey                         "С">
-<!ENTITY  sans-serif.label                        "Безсерифни:">
-<!ENTITY  sans-serif.accesskey                    "Б">
-<!ENTITY  monospace.label                         "Исте ширине:">
-<!ENTITY  monospace.accesskey                     "И">
+<!ENTITY  serif2.label                            "Серифни">
+<!ENTITY  serif2.accesskey                        "С">
+<!ENTITY  sans-serif2.label                       "Безсерифни">
+<!ENTITY  sans-serif2.accesskey                   "Б">
+<!ENTITY  monospace2.label                        "Ширине">
+<!ENTITY  monospace2.accesskey                    "Ш">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "синхала">
 <!ENTITY  font.langGroup.tibetan                  "тибетски">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Најмања величина фонта:">
-<!ENTITY minSize.accesskey                        "Н">
+<!ENTITY minSize2.label                           "Најмања величина фонта">
+<!ENTITY minSize2.accesskey                       "о">
 <!ENTITY minSize.none                             "ниједна">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Д">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кодирање текста за застарели садржај">
-<!ENTITY languages.customize.Fallback2.label      "Резервно кодирање текста:">
-<!ENTITY languages.customize.Fallback2.accesskey  "к">
+<!ENTITY languages.customize.Fallback3.label      "Одступно кодирање текста">
+<!ENTITY languages.customize.Fallback3.accesskey  "т">
 <!ENTITY languages.customize.Fallback2.desc       "Ово кодирање текста се користи за застарели садражај који не успева да декларише кодирање.">
 
 <!ENTITY languages.customize.Fallback.auto        "Подразумевано за овај локал">

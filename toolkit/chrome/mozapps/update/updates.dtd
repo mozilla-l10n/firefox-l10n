@@ -6,9 +6,9 @@
 <!ENTITY  checking.title                  "Провера надоградњи">
 <!ENTITY  updateCheck.label               "Тражимо ново издање програма &brandShortName;…">
 
-<!ENTITY  noupdatesfound.title            "Надоградње нису пронађене">
-<!ENTITY  noupdatesautoenabled.intro      "Нема нових надоградњи. &brandShortName;
-                                           ће периодичнo проверавати надоградње.">
+<!ENTITY  noupdatesfound.title            "Ажурирања нису пронађена">
+<!ENTITY  noupdatesautoenabled.intro      "Нема нових ажурирања. &brandShortName;
+                                           ће периодичнo проверавати ажурирања.">
 <!ENTITY  noupdatesautodisabled.intro     "Нема нових надоградњи. Проверите касније или укључите 
                                            аутоматску проверу у програму &brandShortName;.">
 
@@ -33,29 +33,29 @@
                                            &brandShortName; што је пре могуће.">
 
 <!ENTITY  downloadPage.title              "Преузимање програма &brandShortName;">
-<!ENTITY  downloading.intro               "Преузимање надоградње је у току…">
+<!ENTITY  downloading.intro               "Преузимање ажурирања је у току…">
 <!ENTITY  connecting.label                "Повезивање са сервером за надоградњу…">
-<!ENTITY  verificationFailedText.label    "Програм &brandShortName; није могао да утврди 
+<!ENTITY  verificationFailedText.label    "&brandShortName; није могао да утврди 
                                            интегритет надоградње коју је преузео, тако да
                                            сада прима цео пакет.">
 
-<!ENTITY  viewDetails.tooltip             "Прегледај детаље ове надоградње">
+<!ENTITY  viewDetails.tooltip             "Прегледај детаље овог ажурирања">
 
 <!ENTITY  details.link                    "Детаљи">
 
 <!ENTITY  error.title                     "Надоградња није успела">
 
-<!ENTITY  error.label                     "Дошло је до проблема при тражењу, преузимању или иснталацији ове надоградње. 
-                                           Програм &brandShortName; није надограђен из наредних разлога:">
+<!ENTITY  error.label                     "Дошло је до проблема при тражењу, преузимању или инсталацији овог 
+                                           ажурирања. &brandShortName; није ажуриран из следећих разлога:">
                                            
 <!ENTITY  errorManual.label               "Програм &brandShortName; можете да надоградите ручно, посећивањем ове 
                                            везе и преузимањем најновијег издања:">
                                            
-<!ENTITY  errorpatching.intro             "Делимична надоградња није могла да се доврши. 
-                                           Програм &brandShortName; ће поново да покуша да преузме целе надоградње.">
+<!ENTITY  errorpatching.intro             "Делимично ажурирање није могло да се доврши. 
+                                          &brandShortName; ће поново покушати да преузме цело ажурирање.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступне надоградње. 
-                                           Проверите да ли имате најновију верзију &brandShortName;а са:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступна ажурирања. 
+                                           Проверите да ли имате најновију верзију &brandShortName;-а са:">
 
 <!ENTITY  finishedPage.title              "Надоградња је спремна за инсталацију">
 <!ENTITY  finishedPage.text               "Надоградња ће бити инсталирана при наредном покретању програма &brandShortName;. Можете

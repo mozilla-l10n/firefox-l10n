@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "У">
 <!ENTITY removeallpermissions2.label  "Уклони све сајтове">
 <!ENTITY removeallpermissions2.accesskey "в">
-<!ENTITY address.label                "Адреса веб сајта:">
-<!ENTITY address.accesskey            "А">
+<!ENTITY address2.label               "Адреса веб сајта">
+<!ENTITY address2.accesskey           "д">
 <!ENTITY block.label                  "Блокирај">
 <!ENTITY block.accesskey              "Б">
 <!ENTITY session.label                "Дозволи за ову сесију">

@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Прихватај колачиће са сајтова">
 <!ENTITY  acceptCookies2.accesskey      "к">
 
-<!ENTITY  acceptThirdParty.pre.label      "Прихватај колачиће од трећих лица:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "т">
+<!ENTITY  acceptThirdParty2.pre.label     "Прихватај колачиће од трећих лица">
+<!ENTITY  acceptThirdParty2.pre.accesskey "а">
 <!ENTITY  acceptThirdParty.always.label   "Увек">
 <!ENTITY  acceptThirdParty.never.label    "Никад">
 <!ENTITY  acceptThirdParty.visited.label  "Од посећених">
 
-<!ENTITY  keepUntil.label               "Чувај док:">
-<!ENTITY  keepUntil.accesskey           "Ч">
+<!ENTITY  keepUntil2.label              "Чувај док">
+<!ENTITY  keepUntil2.accesskey          "д">
 
 <!ENTITY  expire.label                  "не истекну">
 <!ENTITY  close.label                   "не затворим &brandShortName;">
