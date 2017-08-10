@@ -6,6 +6,18 @@
 <!ENTITY removeButton.label   "Suprimir">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
+<!ENTITY window.title         "Apondre un contenidor novèl">
+<!ENTITY window.width         "45em">
 
+<!ENTITY name.label           "Nom :">
+<!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Marcar un nom de contenidor">
+<!ENTITY icon.label           "Icòna :">
+<!ENTITY icon.accesskey       "I">
+<!ENTITY color.label          "Color :">
+<!ENTITY color.accesskey      "o">
+<!ENTITY windowClose.key      "w">
 
+<!ENTITY button.ok.label      "Acabat">
+<!ENTITY button.ok.accesskey  "D">
 

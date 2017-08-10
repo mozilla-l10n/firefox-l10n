@@ -121,6 +121,10 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "g">
 
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Los paramètres son adaptats al material e sistèma operatiu de vòstre ordenador.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ne saber mai">
 <!ENTITY limitContentProcessOption.label "Limita del procediment del contengut">

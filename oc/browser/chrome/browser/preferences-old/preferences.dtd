@@ -19,11 +19,11 @@
 <!ENTITY  paneContent.title       "Contengut">
 <!ENTITY  paneApplications.title  "Aplicacions">
 <!ENTITY  panePrivacy.title       "Vida privada">
-
+<!ENTITY  paneContainers.title    "Onglets contèxtuals">
 <!ENTITY  paneSecurity.title      "Seguretat">
 <!ENTITY  paneAdvanced.title      "Avançat">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
 
 <!ENTITY  helpButton.label        "Ajuda">
