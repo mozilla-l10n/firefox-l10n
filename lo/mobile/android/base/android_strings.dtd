@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "ອະນູຍາດໃຫ້ເພີ່ມເວັບແອັບເຂົ້າໄປຫນ້າຈໍຫລັກ">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
-<!ENTITY pref_activity_stream_summary "ດ້ວຍຄວາມອຸດົມສົມບູນໄປດ້ວຍຄວາມສາມາດໃນການຄົ້ນຫາທີ່ຫລາກຫລາຍ ແລະ ຫນ້າລັກຮູບແບບໃຫມ່ທີ່ເຮັດໃຫ້ທ່ານສາມາດຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການຄົ້ນຫາໄດ້ຢ່າງງ່າຍດາຍ &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "ຂະນະນີ້ມີການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY tracking_protection_prompt_text "ບັອກອົງປະກອບການຕິດຕາມເພື່ອເຮັດໃຫ້ທ່ານບໍ່ຕ້ອງກັງວົນ.">
 <!ENTITY tracking_protection_prompt_tip_text "ເຂົ້າໄປການຕັ້ງຄ່າຄວາມເປັນສ່ວນຕົວເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
@@ -849,3 +845,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "ຍິນດີຕ້ອນຮັບສູ່ລາຍການເດັ່ນຂອງທ່ານ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ສ້າງລາຍການເດັ່ນຂອງສິງທີ່ທ່ານໄດ້ຄົ້ນພົບໃນເວັບເພື່ອເຮັດໃຫ້ທ່ານສາມາດກັບມາເບິງບົດຄວາມ, ວິດີໂອ, ບຸກມາກ ແລະ ຫນ້າອື່ນໆໄດ້">
+
+<!ENTITY private_tab_panel_title "ການທ່ອງເວັບແບບສ່ວນຕົວ + ກັບການປ້ອງກັນການຕິດຕາມ">
+<!ENTITY private_tab_panel_description "&brandShortName; ບັອກເນື້ອບາງສ່ວນຂອງຫນ້ານີ້ທີ່ອາດຈະເຮັດໃຫ້ການທອງເວັບຂອງທ່ານຖືກຕິດຕາມ.">
+<!ENTITY private_tab_panel_description2 "ພວກເຮົາຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ, ແຕ່ວ່າໄຟລ໌ຂໍ້ມູນທີ່ໄດ້ຮັບການດາວໂຫລດແລ້ວ ແລະ ບຸກມາກໃຫມ່ຈະໄດ້ຮັບການບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
+<!ENTITY private_tab_learn_more "ຕ້ອງການທີ່ຈະຮຽນຮູ້ເພີ່ມເຕີມອີກບໍ່?">
