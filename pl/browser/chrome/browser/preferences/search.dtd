@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY defaultSearchEngine.label "Domyślna wyszukiwarka">
-<!ENTITY chooseYourDefaultSearchEngine.label2 "Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.">
+<!ENTITY chooseYourDefaultSearchEngine2.label "Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.">
 <!ENTITY provideSearchSuggestions.label "Podpowiedzi wyszukiwania">
 <!ENTITY provideSearchSuggestions.accesskey "">
 <!ENTITY showURLBarSuggestions2.label "Podpowiedzi wyszukiwania w podpowiedziach paska adresu">
