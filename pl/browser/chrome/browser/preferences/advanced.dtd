@@ -22,6 +22,8 @@
 
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
+<!ENTITY healthReportingDisabled.label "Przesyłanie danych jest wyłączone przy tej konfiguracji programu">
+
 <!ENTITY dataCollection.label "Dane zbierane przez program &brandShortName;">
 <!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program &brandShortName; dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem osobistych danych.">
 <!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
