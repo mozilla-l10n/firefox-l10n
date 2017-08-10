@@ -14,6 +14,7 @@
 
 <!ENTITY name2.label          "Nama">
 <!ENTITY name.placeholder     "Masukan nama kontainer">
+<!ENTITY color2.label         "Warna">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Selesai">
