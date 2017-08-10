@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "การป้องกันการติดตาม">
+<!ENTITY  trackingProtection2.description      "การติดตามคือการเก็บรวบรวมข้อมูลการท่องเว็บของคุณระหว่างหลายเว็บไซต์ การติดตามสามารถนำมาใช้เพื่อสร้างโปรไฟล์และแสดงผลเนื้อหาตามการท่องเว็บและข้อมูลส่วนบุคคลของคุณ">
 <!ENTITY  trackingProtection2.radioGroupLabel  "ใช้การป้องกันการติดตามเพื่อปิดกั้นตัวติดตามที่รู้จัก">
 <!ENTITY  trackingProtectionAlways.label       "เสมอ">
 <!ENTITY  trackingProtectionAlways.accesskey   "ส">
