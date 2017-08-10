@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Додати новий контейнер">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Назва:">
-<!ENTITY name.accesskey       "Н">
+<!ENTITY name2.label          "Назва">
+<!ENTITY name2.accesskey      "Н">
 <!ENTITY name.placeholder     "Введіть назву контейнера">
-<!ENTITY icon.label           "Піктограма:">
-<!ENTITY icon.accesskey       "П">
-<!ENTITY color.label          "Колір:">
-<!ENTITY color.accesskey      "К">
+<!ENTITY icon2.label          "Піктограма">
+<!ENTITY icon2.accesskey      "П">
+<!ENTITY color2.label         "Колір">
+<!ENTITY color2.accesskey     "К">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Готово">
 <!ENTITY button.ok.accesskey  "Г">
-
