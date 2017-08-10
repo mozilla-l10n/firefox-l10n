@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Salli verkkosovellusten lisääminen kotinäyttöön">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Toimintavirta">
-<!ENTITY pref_activity_stream_summary "Monipuolinen visuaalinen historiasyöte ja uudenlainen aloitussivu tekevät entistä helpommaksi löytää juuri sen, mitä etsit &brandShortName;ista.">
-
 <!ENTITY tracking_protection_prompt_title "Seurannan suojauksen tuki nyt mukana">
 <!ENTITY tracking_protection_prompt_text "Estää seurantaelementit aktiivisesti, jotta sinun ei tarvitse huolehtia niistä.">
 <!ENTITY tracking_protection_prompt_tip_text "Avaa suojausasetukset lukeaksesi lisää">
@@ -850,3 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Tervetuloa nostoihin">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; nostaa nyt esille verkosta löytämiäsi asioita, jotta voit palata hienoihin artikkeleihin, videoihin, kirjanmerkkeihin ja muille sivuille.">
+
+<!ENTITY private_tab_learn_more "Haluatko lukea lisää?">
