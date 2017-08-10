@@ -115,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "الاستثناءات…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
 
+<!ENTITY offlineAppsList3.label          "يسمح للمواقع التالية بتخزين بيانات للعمل دون اتصال">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "احذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
