@@ -318,7 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
 <!ENTITY preferencesCmd2.accesskey     "ต">
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
-<!ENTITY preferencesCmdUnix.accesskey     "ก">
+<!ENTITY preferencesCmdUnix.accesskey     "ด">
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
