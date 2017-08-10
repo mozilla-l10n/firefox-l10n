@@ -145,6 +145,6 @@ available. -->
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Modifier le nombre de processus de contenu est possible uniquement avec la version multi-processus de &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
-                                         "Apprendre à vérifier si le mode multi-processus est activé">
+                                         "Apprendre à vérifier si le mode multiprocessus est activé">
 <!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey          "n">
