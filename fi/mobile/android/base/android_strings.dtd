@@ -847,4 +847,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Tervetuloa nostoihin">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; nostaa nyt esille verkosta löytämiäsi asioita, jotta voit palata hienoihin artikkeleihin, videoihin, kirjanmerkkeihin ja muille sivuille.">
 
+<!ENTITY private_tab_panel_title "Yksityinen selaus + seurannan suojaus">
+<!ENTITY private_tab_panel_description "&brandShortName; estää sivulta osat, jotka voivat seurata selainkäyttäytymistäsi.">
+<!ENTITY private_tab_panel_description2 "Emme tallenna mitään historiatietoja, mutta ladatut tiedostot ja kirjanmerkit sivustoille tallennetaan laitteelle.">
 <!ENTITY private_tab_learn_more "Haluatko lukea lisää?">
