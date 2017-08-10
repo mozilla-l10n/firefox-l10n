@@ -265,7 +265,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "నిరోధించబడింది">
 
 <!ENTITY pref_show_web_fonts "వెబ్ ఫాంట్లు చూపించు">
-<!ENTITY pref_show_web_fonts_summary2 "పేజీ లోడ్ చేయునప్పుడు రిమోట్ ఫాంట్లు డౌన్లోడ్ చేయండి">
+<!ENTITY pref_show_web_fonts_summary2 "పేజీ లోడ్ చేయునప్పుడు రిమోట్ ఫాంట్లు దింపుకోండి">
 
 <!ENTITY pref_tracking_protection_title2 "ట్రాకింగ్ సంరక్షణ">
 <!ENTITY pref_tracking_protection_summary3 "ప్రైవేట్ బ్రౌజింగ్ ను ప్రారంభించండి">
@@ -297,10 +297,6 @@
 
 <!ENTITY pref_pwa "ప్రగతిశీల వెబ్ ఆప్స్">
 <!ENTITY pref_pwa_summary "ముందు తెరకు జోడించడం కోసం వెబ్ ఆప్స్‌ని అనుమతించండి">
-
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "కార్యాచరణ స్ట్రీమ్">
-<!ENTITY pref_activity_stream_summary "ఘనమైన దృశ్య చరిత్రలో ఫీడ్ మరియు ఒక హోమ్ పేజీ మీరు &brandShortName; కోసం చూస్తున్నారా ఖచ్చితంగా కనుగొనడాన్ని గతంలో కంటే సులభం.">
 
 <!ENTITY tracking_protection_prompt_title "ఇప్పుడు ట్రాకింగ్ సంరక్షణతో ఉన్నది">
 <!ENTITY tracking_protection_prompt_text "కాబట్టి మీరు ఆందోళన చెందనవసరం లేదు చురుకుగా ట్రాకింగ్ అంశాలు బ్లాక్ చేయండి.">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "మూసివేయునప్పుడు ప్రైవేట్ డేటాను క్లియర్ చేయండి">
 <!ENTITY pref_clear_on_exit_summary2 "ముఖ్య మెనూ నుండి మీరు \u0022Quit\u0022 ను ఎంచినప్పుడు &brandShortName; స్వయంచాలకంగా మీ డేటాను శుభ్రంచేయును">
 <!ENTITY pref_clear_on_exit_dialog_title "ఏఏ డేటాను తుడిచివేయాలో ఎంచుకోండి">
-<!ENTITY pref_plugins "ప్లగిన్లు">
-<!ENTITY pref_plugins_enabled "చేతనం">
-<!ENTITY pref_plugins_tap_to_play2 "ఆడటానికి తాకండి">
-<!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_restore_tabs "ట్యాబుల పునరుద్ధరణ">
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
@@ -714,13 +706,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
 <!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
 
-<!ENTITY updater_apply_title3 "&brandShortName;‌కి నవీకరణ డౌన్లోడు చేయబడింది">
+<!ENTITY updater_apply_title3 "&brandShortName;‌కి నవీకరణ దింపుకుంది">
 <!ENTITY updater_apply_select3 "స్థాపించడానికి తాకండి">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ఫైళ్లు మరియు నవీకరణలను దిగుమతి అనుమతించటానికి &brandShortName; ప్రాప్యత నిల్వ అనుమతిస్తుంది.">
+<!ENTITY updater_permission_text "ఫైళ్లు మరియు నవీకరణలను దింపుటకు &brandShortName; అనుమతించటానికి; నిల్వను ప్రాప్యత చేయడానికి అనుమతించు.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "అనుమతించు">
 
@@ -816,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "క్షమించాలి! ఈ &brandShortName; ఈ పరికరంలో పని చేయదు (&formatS1;, &formatS2;). సరైన వెర్షన్ డౌన్లోడ్ చెయ్యండి.">
+<!ENTITY unsupported_sdk_version "క్షమించాలి! ఈ &brandShortName; ఈ పరికరంలో పని చేయదు (&formatS1;, &formatS2;). సరైన వెర్షన్ దింపుకోండి.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ఇక పై నవీకరించబడదు">
 <!ENTITY eol_notification_summary "ఇంకా తెలుసుకోడానికి ఇక్కడ తాకండి">
@@ -854,3 +846,4 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "మీ ముఖ్యాంశాలకు స్వాగతం">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ఇప్పుడు మీరు వెబ్లో కనుగొన్న విషయాలను ముఖ్యాంశాలుగా సృష్టిస్తుంది కాబట్టి మీరు గొప్ప వ్యాసాలు, వీడియోలు, బుక్మార్క్లు మరియు ఇతర పేజీలకు తిరిగి మీ మార్గాన్ని కనుగొనగలరు.">
+
