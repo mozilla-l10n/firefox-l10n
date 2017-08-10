@@ -127,7 +127,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Traži vas svaki put">
 <!ENTITY selectCerts.ask.accesskey       "a">
-<!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili validnost certifikata">
+<!ENTITY enableOCSP.label                "Upitajte OCSP poslužitelje da biste potvrdili valjanost certifikata">
 <!ENTITY enableOCSP.accesskey            "U">
 <!ENTITY viewCerts2.label                "Prikaz certifikata…">
 <!ENTITY viewCerts2.accesskey            "c">
