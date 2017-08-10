@@ -7,7 +7,6 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ne saber mai">
-<!ENTITY  notificationsPolicyDesc3.label       "Causissètz los sites que vos pòdon mandar de notificacions">
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
 <!ENTITY  notificationsPolicyButton.label      "Causir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
@@ -18,6 +17,8 @@
 
 <!ENTITY  fontsAndColors.label        "Poliças e colors">
 
+<!ENTITY  defaultFont2.label          "Poliça per defaut">
+<!ENTITY  defaultFont2.accesskey      "D">
 <!ENTITY  defaultSize2.label          "Talha">
 
 <!ENTITY  advancedFonts.label         "Avançat…">
@@ -48,4 +49,6 @@
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
+<!ENTITY  playDRMContent2.label          "Legir lo contengut contrarotlat per DRM">
+<!ENTITY  playDRMContent2.accesskey      "L">
 <!ENTITY  playDRMContent.learnMore.label "Ne saber mai">

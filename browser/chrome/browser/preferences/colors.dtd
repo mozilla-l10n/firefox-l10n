@@ -7,23 +7,14 @@
 <!ENTITY  window.macWidth                 "41em">
 
 
-
 <!ENTITY  overrideDefaultPageColors.always.label "Totjorn">
-
+<!ENTITY  overrideDefaultPageColors.auto.label   "Sonque pels tèmas amb un contraste naut">
 <!ENTITY  overrideDefaultPageColors.never.label  "Pas jamai">
 
 <!ENTITY  color                           "Tèxte e rèireplan">
-<!ENTITY  textColor.label                 "Tèxte :">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Rèireplan :">
-<!ENTITY  backgroundColor.accesskey       "a">
 <!ENTITY  useSystemColors.label           "Utilizar las colors del sistèma">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Soslinhar los ligams">
 <!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Colors dels ligams">
-<!ENTITY  linkColor.label                 "Ligams pas visitats :">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "Ligams visitats :">
-<!ENTITY  visitedLinkColor.accesskey      "v">
