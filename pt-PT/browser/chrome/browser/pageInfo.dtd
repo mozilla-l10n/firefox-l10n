@@ -69,7 +69,7 @@
 <!ENTITY  securityView.unknown   "Desconhecido">
 
 
-<!ENTITY  securityView.identity.header   "Identidade do site">
+<!ENTITY  securityView.identity.header   "Identidade do website">
 <!ENTITY  securityView.identity.owner    "Proprietário:">
 <!ENTITY  securityView.identity.domain   "Site:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">

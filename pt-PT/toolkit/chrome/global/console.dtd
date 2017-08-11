@@ -4,7 +4,7 @@
 
 <!ENTITY errorConsole.title "Consola de erros">
 
-<!ENTITY errFile.label   "Ficheiro de origem:">
+<!ENTITY errFile.label   "Ficheiro fonte:">
 <!ENTITY errLine.label   "Linha:">
 <!ENTITY errColumn.label "Coluna:">
 

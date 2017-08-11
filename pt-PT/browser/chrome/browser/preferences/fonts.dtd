@@ -58,8 +58,8 @@
 <!ENTITY minSize.none                             "Nenhum">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "Serifada">
-<!ENTITY  useDefaultFontSansSerif.label           "Não serifada">
+<!ENTITY  useDefaultFontSerif.label               "Serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
 <!ENTITY  allowPagesToUseOwn.label                "Permitir que as páginas escolham o seu tipo de letra">
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
