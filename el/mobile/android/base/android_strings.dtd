@@ -848,4 +848,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "Το &brandShortName; δημιουργεί πλέον τις κορυφαίες στιγμές από πράγματα που έχετε ανακαλύψει στο διαδίκτυο, ώστε να μπορέσετε να επιστρέψετε σε έξοχα άρθρα, βίντεο, σελιδοδείκτες και άλλες σελίδες.">
 
 <!ENTITY private_tab_panel_title "Ιδιωτική Περιήγηση + Προστασία Παρακολούθησης">
+<!ENTITY private_tab_panel_description "Ο &brandShortName; αποκλείει τμήματα των σελίδων τα οποία ενδέχεται να καταγράφουν την περιήγηση σας.">
+<!ENTITY private_tab_panel_description2 "Δεν θα διατηρείται το ιστορικό, ωστόσο τα ληφθέντα αρχεία και οι νέοι σελιδοδείκτες θα αποθηκεύονται στη συσκευή σας.">
 <!ENTITY private_tab_learn_more "Θέλετε να μάθετε περισσότερα;">
