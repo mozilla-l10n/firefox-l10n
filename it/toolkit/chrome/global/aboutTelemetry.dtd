@@ -22,6 +22,7 @@
 <!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "Istruzioni SQL lente">
 <!ENTITY aboutTelemetry.chromeHangsSection "Blocchi del browser">
+<!ENTITY aboutTelemetry.threadHangStatsSection "Blocchi dei thread">
 <!ENTITY aboutTelemetry.capturedStacksSection "Stack acquisiti">
 <!ENTITY aboutTelemetry.scalarsSection "Scalari">
 <!ENTITY aboutTelemetry.keyedScalarsSection "Scalari con chiave">
