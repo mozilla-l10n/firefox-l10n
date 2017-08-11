@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Opne i ny fane">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "a">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Opna lenke i nytt vindauge">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Opne lenka i nytt vindauge">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "O">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Opne lenka i eit nytt privat vindauge">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
@@ -970,7 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "k">
 <!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
-<!ENTITY updateManual.message "Last ned eit heilt nytt eksemplar av &brandShorterName; og vi vil hjelpe deg med å installere den.">
+<!ENTITY updateManual.message "Last ned eit heilt nytt eksemplar av &brandShorterName; og vi vil hjelpe deg med å installere han.">
 <!ENTITY updateManual.whatsnew.label "Sjå kva som er nytt.">
 <!ENTITY updateManual.header.message "&brandShorterName; kan ikkje oppdaterast til siste versjon.">
 <!ENTITY updateManual.acceptButton.label "Last ned &brandShorterName;">
