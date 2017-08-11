@@ -575,7 +575,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "k">
 <!ENTITY saveLinkCmd.label            "Lagra lenka som…">
 <!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Lagra bildet som…">
+<!ENTITY saveImageCmd.label           "Lagre bildet som…">
 <!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Lagre videoen som…">
 <!ENTITY saveVideoCmd.accesskey       "a">

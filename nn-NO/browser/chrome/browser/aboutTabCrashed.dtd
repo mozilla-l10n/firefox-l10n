@@ -16,9 +16,9 @@
 <!ENTITY tabCrashed.header2 "Ops. Fana di krasja.">
 <!ENTITY tabCrashed.offerHelp "Vi kan hjelpe deg!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Vel &tabCrashed.restoreTab; for å laste inn sideinnhald på nytt.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for lasta inn sideinnhald på nytt.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Vel &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for laste inn sideinnhald på nytt.">
 <!ENTITY tabCrashed.requestHelp "Vil du hjelpe oss?">
-<!ENTITY tabCrashed.requestHelpMessage "Krasjrapportar hjelper oss med å diagnostisere problem og å gjera &brandShortName; betre.">
+<!ENTITY tabCrashed.requestHelpMessage "Krasjrapportar hjelper oss med å diagnostisere problem og å gjere &brandShortName; betre.">
 <!ENTITY tabCrashed.requestReport "Rapporter denne fana">
 <!ENTITY tabCrashed.sendReport2 "Send ein krasjrapport for fana du ser på">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valfri kommentar (som er synleg for ålmenta)">
