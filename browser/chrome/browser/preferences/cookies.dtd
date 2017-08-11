@@ -12,7 +12,7 @@
 <!ENTITY     props.value.label              "Conteúdo:">
 <!ENTITY     props.domain.label             "Servidor:">
 <!ENTITY     props.path.label               "Caminho:">
-<!ENTITY     props.secure.label             "Enviado por:">
+<!ENTITY     props.secure.label             "Enviado para:">
 <!ENTITY     props.expires.label            "Expira:">
 <!ENTITY     props.container.label          "Contentor:">
 
