@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "F">
 <!ENTITY removeallpermissions2.label  "Fjern alle nettsteder">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Adressen til nettstedet:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address2.label               "Adressen til nettstedet">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blokker">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tillat for programøkten">

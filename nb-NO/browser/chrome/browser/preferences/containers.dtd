@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Legg til ny beholder">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Navn:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Navn">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Oppgi et beholdernavn">
-<!ENTITY icon.label           "Ikon:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Farge:">
-<!ENTITY color.accesskey      "F">
+<!ENTITY icon2.label          "Ikon">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Farge">
+<!ENTITY color2.accesskey     "a">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Ferdig">
 <!ENTITY button.ok.accesskey  "d">
-
