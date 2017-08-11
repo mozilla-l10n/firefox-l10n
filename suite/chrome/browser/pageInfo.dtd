@@ -3,8 +3,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
-<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
 <!ENTITY  copy.key               "C">
@@ -69,7 +69,7 @@
 <!ENTITY  mediaCount            "Contar">
 <!ENTITY  mediaDimensions       "Dimensões especificadas:">
 <!ENTITY  mediaPhysDimensions   "Dimensões reais:">
-<!ENTITY  mediaTitle            "Titúlo:">
+<!ENTITY  mediaTitle            "Título:">
 <!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Guardar como…">

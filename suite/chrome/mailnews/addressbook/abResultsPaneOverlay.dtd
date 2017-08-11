@@ -16,7 +16,7 @@
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Departamento">
 <!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Cargo">
+<!ENTITY JobTitle.label                        "Título">
 <!ENTITY JobTitle.accesskey                    "C">
 <!ENTITY CellularNumber.label                  "Telemóvel">
 <!ENTITY CellularNumber.accesskey              "v">
@@ -34,8 +34,8 @@
 <!ENTITY sortAscending.accesskey               "O">
 <!ENTITY sortDescending.label                  "Ordem decrescente">
 <!ENTITY sortDescending.accesskey              "r">
-<!-- context menu -->
 
+<!-- context menu -->
 <!ENTITY composeEmail.label                    "Criar novo email para">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "Copiar endereço de email">
