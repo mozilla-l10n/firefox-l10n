@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "صاحب:">
 <!ENTITY  securityView.identity.domain   "پایگاه وبی:">
 <!ENTITY  securityView.identity.verifier "تأیید شده توسط:">
-
+<!ENTITY  securityView.identity.validity "انقضا در:">
 
 <!ENTITY  securityView.privacy.header                   "تاریخچه و موارد حریم شخصی">
 <!ENTITY  securityView.privacy.history                  "آیا قبل از امروز از این پایگاه وب بازدید کرده‌ام؟">
