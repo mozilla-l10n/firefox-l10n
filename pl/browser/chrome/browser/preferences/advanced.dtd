@@ -69,7 +69,7 @@
 <!ENTITY updateApplication.description "Zezwalaj programowi &brandShortName; na:">
 <!ENTITY updateAuto3.label "Automatyczne instalowanie aktualizacji (zalecane)">
 <!ENTITY updateAuto3.accesskey "">
-<!ENTITY updateCheckChoose2.label "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
+<!ENTITY updateCheckChoose2.label "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
 <!ENTITY updateCheckChoose2.accesskey "">
 <!ENTITY updateManual2.label "Niesprawdzanie dostępności aktualizacji (niezalecane)">
 <!ENTITY updateManual2.accesskey "">
