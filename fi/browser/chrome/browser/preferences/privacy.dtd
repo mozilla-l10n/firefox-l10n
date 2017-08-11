@@ -22,6 +22,8 @@
 <!ENTITY trackingProtectionPBM6.label         "Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä">
 <!ENTITY trackingProtectionPBM6.accesskey     "m">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lue lisää">
+<!ENTITY changeBlockList2.label               "Muuta estolistaa…">
+<!ENTITY changeBlockList2.accesskey           "M">
 
 <!ENTITY  doNotTrack.description        "Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan">
 <!ENTITY  doNotTrack.learnMore.label    "Lue lisää">
@@ -44,15 +46,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Muuta hakukoneiden ehdotusten asetuksia">
 
+<!ENTITY  acceptCookies2.label          "Sivustot saavat asettaa evästeitä">
+<!ENTITY  acceptCookies2.accesskey      "v">
 
-<!ENTITY  acceptThirdParty.pre.label      "Salli kolmannen osapuolen evästeet:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "m">
+<!ENTITY  acceptThirdParty2.pre.label     "Salli kolmannen osapuolen evästeet">
+<!ENTITY  acceptThirdParty2.pre.accesskey "m">
 <!ENTITY  acceptThirdParty.always.label   "Aina">
 <!ENTITY  acceptThirdParty.never.label    "Ei milloinkaan">
 <!ENTITY  acceptThirdParty.visited.label  "Vierailluilta sivustoilta">
 
-<!ENTITY  keepUntil.label               "Säilytä evästeet:">
-<!ENTITY  keepUntil.accesskey           "t">
+<!ENTITY  keepUntil2.label              "Säilytä evästeet">
+<!ENTITY  keepUntil2.accesskey          "t">
 
 <!ENTITY  expire.label                  "kunnes ne vanhenevat">
 <!ENTITY  close.label                   "kunnes &brandShortName; suljetaan">

@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Yleiset">
 
-<!ENTITY  warnOnAddonInstall.label        "Varoita, kun sivustot yrittävät asentaa lisäosia">
-<!ENTITY  warnOnAddonInstall.accesskey    "V">
+<!ENTITY  warnOnAddonInstall2.label       "Varoita, kun sivustot yrittävät asentaa lisäosia">
+<!ENTITY  warnOnAddonInstall2.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Kirjautumistiedot">
 
-<!ENTITY  rememberLogins.label          "Tallenna kirjautumistiedot">
-<!ENTITY  rememberLogins.accesskey      "T">
+<!ENTITY  rememberLogins2.label         "Tallenna kirjautumistiedot">
+<!ENTITY  rememberLogins2.accesskey     "T">
 <!ENTITY  passwordExceptions.label      "Poikkeukset…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 

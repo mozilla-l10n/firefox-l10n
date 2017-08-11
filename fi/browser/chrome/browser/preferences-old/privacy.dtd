@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Muokkaa hakukoneiden ehdotusten asetuksia…">
 <!ENTITY  suggestionSettings.accesskey  "d">
 
-<!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
-<!ENTITY  acceptCookies.accesskey       "v">
+<!ENTITY  acceptCookies2.label          "Sivustot saavat asettaa evästeitä">
+<!ENTITY  acceptCookies2.accesskey      "v">
 
 <!ENTITY  acceptThirdParty.pre.label      "Salli kolmannen osapuolen evästeet:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
