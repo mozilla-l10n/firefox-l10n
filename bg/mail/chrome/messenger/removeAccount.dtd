@@ -7,7 +7,7 @@
 <!ENTITY removeButton.accesskey       "п">
 <!ENTITY removeAccount.label          "Премахване да данните за сметката">
 <!ENTITY removeAccount.accesskey      "д">
-<!ENTITY removeAccount.desc           "Премахва само информацията са сметката от &brandShortName;. Сметката на сървъра остава незасегната.">
+<!ENTITY removeAccount.desc           "Премахва само информацията за сметката от &brandShortName;. Сметката на сървъра остава незасегната.">
 <!ENTITY removeData.label             "Премахване на съобщенията">
 <!ENTITY removeData.accesskey         "с">
 <!ENTITY removeDataChat.label         "Премахване на разговорите">
