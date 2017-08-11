@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Godta infokapslar frå nettsider">
 <!ENTITY  acceptCookies2.accesskey      "G">
 
-<!ENTITY  acceptThirdParty.pre.label      "Tillat infokapslar frå tredjepart:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "T">
+<!ENTITY  acceptThirdParty2.pre.label     "Godta tredjeparts infokapslar">
+<!ENTITY  acceptThirdParty2.pre.accesskey "G">
 <!ENTITY  acceptThirdParty.always.label   "Alltid">
 <!ENTITY  acceptThirdParty.never.label    "Aldri">
 <!ENTITY  acceptThirdParty.visited.label  "Frå besøkte">
 
-<!ENTITY  keepUntil.label               "Behald dei til:">
-<!ENTITY  keepUntil.accesskey           "B">
+<!ENTITY  keepUntil2.label              "Behald til">
+<!ENTITY  keepUntil2.accesskey          "B">
 
 <!ENTITY  expire.label                  "dei går ut på dato">
 <!ENTITY  close.label                   "eg avsluttar &brandShortName;">
