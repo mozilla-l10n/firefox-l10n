@@ -14,7 +14,7 @@
 <!ENTITY TextAreaCols.accessKey "C">
 <!ENTITY TextAreaReadOnly.label "Apenas leitura">
 <!ENTITY TextAreaReadOnly.accessKey "A">
-<!ENTITY TextAreaDisabled.label "Inativo">
+<!ENTITY TextAreaDisabled.label "Desativado">
 <!ENTITY TextAreaDisabled.accessKey "v">
 <!ENTITY TextAreaTabIndex.label "Índice de tabulação:">
 <!ENTITY TextAreaTabIndex.accessKey "i">

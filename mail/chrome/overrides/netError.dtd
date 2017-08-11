@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Ocorreu um erro ao carregar a página">
 <!ENTITY retry.label "Tente novamente">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ligação não estabelecida">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -46,7 +46,7 @@
 <!ENTITY unsafeContentType.title "Tipo de ficheiro não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Contacte os proprietários do website para os informar deste problema.</li> </ul>">
 
-<!ENTITY netReset.title "A ligação foi reiniciada">
+<!ENTITY netReset.title "A ligação foi reposta">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "A ligação expirou">
@@ -82,13 +82,13 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários para os informar sobre este problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção...">
-<!ENTITY securityOverride.getMeOutOfHereButton "Sair daqui!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confie plenamente ou se não está habituado a ver um aviso deste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

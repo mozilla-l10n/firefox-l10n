@@ -19,17 +19,17 @@
 <!ENTITY OptGroup.label "Opções de grupo">
 <!ENTITY OptGroupLabel.label "Etiqueta:">
 <!ENTITY OptGroupLabel.accesskey "t">
-<!ENTITY OptGroupDisabled.label "Inativo">
+<!ENTITY OptGroupDisabled.label "Desativado">
 <!ENTITY OptGroupDisabled.accesskey "I">
 
-<!ENTITY Option.label "Opções">
+<!ENTITY Option.label "Opção">
 <!ENTITY OptionText.label "Texto:">
 <!ENTITY OptionText.accesskey "T">
 <!ENTITY OptionValue.label "Valor:">
 <!ENTITY OptionValue.accesskey "V">
 <!ENTITY OptionSelected.label "Selecionado inicialmente">
 <!ENTITY OptionSelected.accesskey "S">
-<!ENTITY OptionDisabled.label "Inativo">
+<!ENTITY OptionDisabled.label "Desativado">
 <!ENTITY OptionDisabled.accesskey "I">
 
 <!ENTITY TextHeader.label "Texto">

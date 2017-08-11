@@ -28,7 +28,7 @@
 <!ENTITY showTrayIcon.label               "Mostrar ícone na bandeja">
 <!ENTITY showTrayIcon.accesskey           "e">
 
-<!ENTITY play.label                       "Testar">
+<!ENTITY play.label                       "Reproduzir">
 <!ENTITY play.accesskey                   "T">
 <!ENTITY systemsound.label                "Som predefinido do sistema para novos e-mails">
 <!ENTITY systemsound.accesskey            "S">

@@ -5,7 +5,7 @@
 <!ENTITY pane.title                   "Recibos de leitura">
 <!ENTITY useGlobalPrefs.label         "Utilizar preferências gerais dos recibos de leitura para esta conta">
 <!ENTITY useGlobalPrefs.accesskey     "U">
-<!ENTITY globalReceipts.label         "Preferências gerais…">
+<!ENTITY globalReceipts.label         "Preferências globais…">
 <!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizar recibos de leitura para esta conta">
 <!ENTITY useCustomPrefs.accesskey     "P">

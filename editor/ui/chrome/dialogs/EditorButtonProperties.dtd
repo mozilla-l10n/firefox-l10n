@@ -18,7 +18,7 @@
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Índice de tabulação:">
 <!ENTITY tabIndex.accesskey "i">
-<!ENTITY ButtonDisabled.label "Inativo">
+<!ENTITY ButtonDisabled.label "Desativado">
 <!ENTITY ButtonDisabled.accesskey "n">
 <!ENTITY AccessKey.label "Tecla de acesso:">
 <!ENTITY AccessKey.accesskey "T">
