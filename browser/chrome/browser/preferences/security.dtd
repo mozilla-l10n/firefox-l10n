@@ -5,6 +5,8 @@
 <!ENTITY  security.label                 "Turvallisuus">
 <!ENTITY  phishingProtection.label       "Verkkourkinnalta suojaus">
 
+<!ENTITY  warnOnAddonInstall2.label       "Varoita, kun sivustot yrittävät asentaa lisäosia">
+<!ENTITY  warnOnAddonInstall2.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -25,6 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Lomakkeet ja salasanat">
 
+<!ENTITY  rememberLogins2.label         "Tallenna kirjautumistiedot">
+<!ENTITY  rememberLogins2.accesskey     "T">
 <!ENTITY  passwordExceptions.label      "Poikkeukset…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 

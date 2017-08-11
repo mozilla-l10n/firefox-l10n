@@ -16,6 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Lisäosat">
 <!ENTITY engine.addons.accesskey    "i">
+<!ENTITY engine.addresses.label     "Osoitteet">
+<!ENTITY engine.addresses.accesskey "O">
+<!ENTITY engine.creditcards.label   "Luottokortit">
+<!ENTITY engine.creditcards.accesskey "u">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Laitteen nimi">
