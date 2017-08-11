@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "k">
 
 <!ENTITY noTranslationForSites.label      "Käännöstä ei ehdoteta seuraaville sivustoille:">
-<!ENTITY treehead.siteName.label          "Sivustot">
+<!ENTITY treehead.siteName2.label         "Sivustot">
 <!ENTITY removeSite.label                 "Poista sivusto">
 <!ENTITY removeSite.accesskey             "o">
 <!ENTITY removeAllSites.label             "Poista kaikki sivustot">
