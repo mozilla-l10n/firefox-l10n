@@ -26,9 +26,9 @@
 <!ENTITY changeSyncDeviceName.label "Tukar Nama Peranti…">
 <!ENTITY changeSyncDeviceName.accesskey "u">
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "b">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
-<!ENTITY saveChangeSyncDeviceName.accesskey "s">
+<!ENTITY saveChangeSyncDeviceName.accesskey "m">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Terma dan Syarat Perkhidmatan">
