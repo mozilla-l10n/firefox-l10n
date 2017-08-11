@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "Referências">
 <!ENTITY messageIdField4.label "ID da mensagem">
 <!ENTITY inReplyToField4.label "Em resposta a">
-<!ENTITY originalWebsite4.label "Site">
+<!ENTITY originalWebsite4.label "Website">
 
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquiva esta mensagem">
@@ -66,16 +66,16 @@
 <!ENTITY markAsUnreadMenuItem1.accesskey "r">
 <!ENTITY saveAsMenuItem1.label "Guardar como…">
 <!ENTITY saveAsMenuItem1.accesskey "u">
-<!ENTITY viewSourceMenuItem1.label "Ver código fonte…">
+<!ENTITY viewSourceMenuItem1.label "Ver fonte">
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Inicialmente, mostrar painel de anexos">
 <!ENTITY startExpandedCmd.accesskey    "s">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Guardar como...">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "A">
 
 <!ENTITY openAttachment.tooltip "Abrir ficheiro anexo">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Guardar">
 <!ENTITY saveAttachmentButton1.tooltip     "Guardar ficheiro anexo">
 <!ENTITY saveAllAttachmentsButton1.label   "Guardar tudo">
