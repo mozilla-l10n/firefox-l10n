@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresīvās tīmekļa aplikācijas">
 <!ENTITY pref_pwa_summary "Ļaut tīmekļa aplikācijas pievienot sākuma ekrānam">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Darbību plūsma">
-<!ENTITY pref_activity_stream_summary "Iespējām bagāta vēstures josla un pārstrādāta sākumlapa ļauj vieglāk kā jebkad atrast vajadzīgo &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Tagad ar izsekošanas aizsardzību">
 <!ENTITY tracking_protection_prompt_text "Aktīvi bloķē izsekošanas elementus, lai jums par to nav jāuztraucas.">
 <!ENTITY tracking_protection_prompt_tip_text "Apmeklējiet privātuma iestatījumus, lai uzzinātu vairāk">
@@ -847,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Esiet sveicināti jaunumos">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; veido jaunumu sarakstu ar ievērojamām lietām, lai varat atkal atrast lieliskus rakstus, video, grāmatzīmes un citas lapas.">
+
+<!ENTITY private_tab_panel_title "Privātā pārlūkošana + Izsekošanas aizsardzība">
+<!ENTITY private_tab_panel_description "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
+<!ENTITY private_tab_panel_description2 "Mēs neatcerēsimies apmeklēto lapu vēsturi, taču lejupielādētie faili un jaunās grāmatzīmes tiks saglabāti jūsu ierīcē.">
+<!ENTITY private_tab_learn_more "Gribat zināt vairāk?">
