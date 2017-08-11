@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Sañal ñu man a yokk dali web yi ci sa xët wu njëkk">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Walug yëngu-yëngu">
-<!ENTITY pref_activity_stream_summary "Ag jaar-jaar gooy gis ak xët wu njëkk wees defaraat, tay la gënalatee yombal gis dëgg-dëgg li ngay seet ci &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Leegi ak kaaraangeeg lank-toppaate">
 <!ENTITY tracking_protection_prompt_text "Ñi lay jéem a topp dañ leen di téye, kon amoo lenn looy jaaxle.">
 <!ENTITY tracking_protection_prompt_tip_text "Xoolal jekk-jakkali Sutura gi ngir xam ci leneen">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Far say njoxéef sooy génn">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; di na faral boppam say njoxéef so bësee « Génn» ca sa njël lu njëlbéen">
 <!ENTITY pref_clear_on_exit_dialog_title "Tànnal yan njoxéef lees di far">
-<!ENTITY pref_plugins "Lawal">
-<!ENTITY pref_plugins_enabled "Doxalees">
-<!ENTITY pref_plugins_tap_to_play2 "Bës ngir taal">
-<!ENTITY pref_plugins_disabled "Doxadilees">
 <!ENTITY pref_restore_tabs "Ubbiwaat làcc yi">
 <!ENTITY pref_restore_always "Ubbiwaat leen saa-su-ne">
 <!ENTITY pref_restore_quit "Bu leen ubbiwaat ginnaaw bu ma génnee &brandShortName;">
@@ -548,6 +540,7 @@
 <!ENTITY page_removed "Farees na xët wi">
 
 <!ENTITY bookmark_edit_title "Soppi mandarga-xët gi">
+<!ENTITY bookmark_edit_folder_title "Soppi wayndare bi">
 <!ENTITY bookmark_edit_name "Tur">
 <!ENTITY bookmark_edit_location "Màkkaan">
 <!ENTITY bookmark_edit_keyword "Baatub caabi">
@@ -624,6 +617,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Wone jumtukaay yees fal">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Dal bees kepp">
+<!ENTITY home_unpinned_site "Dal bees keppadi">
 
 <!ENTITY remote_tabs_panel_moved_title "Fan la samay làcc dem?">
 <!ENTITY remote_tabs_panel_moved_desc "">
@@ -848,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Dala-jàmm ci say Gën-gi-fés">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; leegi daf la won li gën a fés sukkandiku ci li ngay gis ci web bi, di tax ba ngay man di gisaat say jukki, wideo, màndarga-xët, ak yeneeni xët.">
+
+<!ENTITY private_tab_panel_title "Njoow gu suturloo ak kaaraangeg lànk-toppaate">
+<!ENTITY private_tab_panel_description "&brandShortName; da fay téye cër yi ci xët wi yiy man a topp sag njoow.">
+<!ENTITY private_tab_panel_description2 "Du nu fàttaliku genn jaar-jaar, waaye say yebbéef ak màndarga-xët dañuy wéy di des ci sa jumtukaay.">
+<!ENTITY private_tab_learn_more "Bëgg a leerlu?">
