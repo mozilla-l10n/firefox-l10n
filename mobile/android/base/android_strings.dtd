@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Dobro došli u svoje najvažnije stranice">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; sada prikazuje najistaknutije stvari koje ste otkrili na internetu, kako biste znali pronaći svoj put nazad do odličnih članaka, videa, zabilješki i drugih stranica.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Privatno pretraživanje + zaštita od praćenja">
+<!ENTITY private_tab_panel_description "&brandShortName; blokira dijelove stranica koji mogu pratiti vaše pretraživanje.">
+<!ENTITY private_tab_panel_description2 "Nećemo pamtiti povijest pretraživanja, ali preuzete datoteke i nove zabilješke će i dalje biti spremljene na vašem uređaju.">
+<!ENTITY private_tab_learn_more "Želite li saznati više?">
