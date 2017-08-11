@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Varmentajat">
 <!ENTITY certmgr.tab.orphan2                  "Muut">
 
-<!ENTITY certmgr.mine                         "Seuraavilta organisaatioilta on sinut todentava varmenne:">
-<!ENTITY certmgr.others                       "Seuraavat yksilöt todentavia varmenteita on tiedossa:">
-<!ENTITY certmgr.websites2                    "Seuraavat palvelimet todentavia varmenteita on tiedossa:">
-<!ENTITY certmgr.cas                          "Seuraavat varmentajat todentavia varmenteita on tiedossa:">
-<!ENTITY certmgr.orphans                      "Seuraavat varmenteet varmentavat kohteita, jotka eivät sovi muihin luokkiin:">
+<!ENTITY certmgr.mine2                        "Seuraavilta organisaatioilta on sinut todentava varmenne">
+<!ENTITY certmgr.others2                      "Seuraavat yksilöt todentavia varmenteita on tiedossa">
+<!ENTITY certmgr.websites3                    "Seuraavat palvelimet todentavia varmenteita on tiedossa">
+<!ENTITY certmgr.cas2                         "Seuraavat varmentajat todentavia varmenteita on tiedossa">
+<!ENTITY certmgr.orphans2                     "Seuraavat varmenteet varmentavat kohteita, jotka eivät sovi muihin luokkiin">
 
 <!ENTITY certmgr.detail.general_tab.title     "Yleistiedot">
 <!ENTITY certmgr.detail.general_tab.accesskey "Y">
