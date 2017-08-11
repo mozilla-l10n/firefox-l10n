@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problema ao carregar página">
 <!ENTITY retry.label "Tente novamente">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Impossível ligar">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -52,7 +52,7 @@
 <!ENTITY unsafeContentType.title "Tipo de ficheiro não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor, contacte os proprietários do website para os informar deste problema.</li> </ul>">
 
-<!ENTITY netReset.title "A ligação foi reiniciada">
+<!ENTITY netReset.title "A ligação foi reposta">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "A ligação expirou">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "A ligação segura falhou">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Isto pode dever-se a um problema de configuração do servidor, ou pode ser alguém a tentar fazer passar-se pelo servidor.</li> <li>Se conseguiu ligar-se com sucesso a este servidor no passado, o erro poderá ser temporário, e poderá tentar novamente mais tarde.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>O site pode estar temporariamente indisponível ou demasiado ocupado. Volte a tentar dentro de alguns momentos.</li> <li>Se não conseguir carregar nenhuma página, verifique a ligação de dados ou o Wi-Fi do dispositivo. <button id='wifi'>Ativar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdos">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Tirem-me daqui!">
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Não deve adicionar uma exceção se estiver a utilizar uma ligação à Internet em que não confia plenamente ou se não estiver habituado a ver avisos neste servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
