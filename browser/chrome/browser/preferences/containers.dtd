@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Lisää uusi luokitus">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nimi:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nimi">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Kirjoita luokituksen nimi">
-<!ENTITY icon.label           "Kuvake:">
-<!ENTITY icon.accesskey       "K">
-<!ENTITY color.label          "Väri:">
-<!ENTITY color.accesskey      "r">
+<!ENTITY icon2.label          "Kuvake">
+<!ENTITY icon2.accesskey      "K">
+<!ENTITY color2.label         "Väri">
+<!ENTITY color2.accesskey     "r">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Valmis">
 <!ENTITY button.ok.accesskey  "V">
-
