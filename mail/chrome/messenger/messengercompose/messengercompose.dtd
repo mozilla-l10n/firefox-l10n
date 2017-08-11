@@ -307,5 +307,5 @@
 <!ENTITY addressesSidebarTitle.label "Контакти">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Потребителски От адрес…">
+<!ENTITY customizeFromAddress.label "Изпращане от друго име…">
 <!ENTITY customizeFromAddress.accesskey "а">
