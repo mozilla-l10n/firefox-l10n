@@ -14,7 +14,7 @@
 <!ENTITY aboutPrivateBrowsing.info.visited               "besøkte sider">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Søk">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapslar">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Mellombelse filer">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "mellombelse filer">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagre">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
