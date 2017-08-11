@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Γραμματοσειρές">
 
-<!ENTITY  language.label                          "Γραμματοσειρές για:">
-<!ENTITY  language.accesskey                      "ρ">
+<!ENTITY  fonts.label                             "Γραμματοσειρές για">
+<!ENTITY  fonts.accesskey                         "Γ">
 
-<!ENTITY  size.label                              "Μέγεθος:">
+<!ENTITY  size2.label                             "Μέγεθος">
 <!ENTITY  sizeProportional.accesskey              "γ">
 <!ENTITY  sizeMonospace.accesskey                 "θ">
 
-<!ENTITY  proportional.label                      "Μεταβλητού πλάτους:">
-<!ENTITY  proportional.accesskey                  "Μ">
+<!ENTITY  proportional2.label                     "Μεταβλητού πλάτους">
+<!ENTITY  proportional2.accesskey                 "Μ">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Σταθερού πλάτους:">
-<!ENTITY  monospace.accesskey                     "τ">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Σταθερού πλάτους">
+<!ENTITY  monospace2.accesskey                    "Σ">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Σινχάλα">
 <!ENTITY  font.langGroup.tibetan                  "Θιβετιανή">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
-<!ENTITY minSize.accesskey                        "χ">
+<!ENTITY minSize2.label                           "Ελάχιστο μέγεθος γραμματοσειράς">
+<!ENTITY minSize2.accesskey                       "ρ">
 <!ENTITY minSize.none                             "Κανένα">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Ε">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Κωδικοποίηση κειμένου για συμβατότητα παλαιού περιεχόμενου">
-<!ENTITY languages.customize.Fallback2.label      "Εφεδρική κωδικοποίηση κειμένου:">
-<!ENTITY languages.customize.Fallback2.accesskey  "φ">
+<!ENTITY languages.customize.Fallback3.label      "Εφεδρική κωδικοποίηση κειμένου">
+<!ENTITY languages.customize.Fallback3.accesskey  "Κ">
 <!ENTITY languages.customize.Fallback2.desc       "Αυτή η κωδικοποίηση κειμένου χρησιμοποιείται για περιεχόμενο παλαιών σελίδων που δεν δηλώνουν την κωδικοποίηση τους.">
 
 <!ENTITY languages.customize.Fallback.auto        "Προεπιλογή για την τρέχουσα γλώσσα">

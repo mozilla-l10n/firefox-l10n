@@ -14,17 +14,13 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Ποτέ">
 
 <!ENTITY  color                           "Κείμενο και παρασκήνιο">
-<!ENTITY  textColor.label                 "Κείμενο:">
-<!ENTITY  textColor.accesskey             "μ">
-<!ENTITY  backgroundColor.label           "Παρασκήνιο:">
-<!ENTITY  backgroundColor.accesskey       "ρ">
+<!ENTITY  textColor2.label                "Κείμενο">
+<!ENTITY  textColor2.accesskey            "Κ">
+<!ENTITY  backgroundColor2.label          "Παρασκήνιο">
+<!ENTITY  backgroundColor2.accesskey      "Π">
 <!ENTITY  useSystemColors.label           "Χρήση χρωμάτων συστήματος">
 <!ENTITY  useSystemColors.accesskey       "σ">
 
 <!ENTITY  underlineLinks.label            "Υπογράμμιση συνδέσμων">
 <!ENTITY  underlineLinks.accesskey        "Υ">
 <!ENTITY  links                           "Χρώμα συνδέσμων">
-<!ENTITY  linkColor.label                 "Σύνδεσμοι που δεν έχετε επισκεφθεί:">
-<!ENTITY  linkColor.accesskey             "ν">
-<!ENTITY  visitedLinkColor.label          "Σύνδεσμοι που έχετε επισκεφθεί:">
-<!ENTITY  visitedLinkColor.accesskey      "γ">
