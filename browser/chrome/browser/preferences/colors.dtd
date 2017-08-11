@@ -27,3 +27,4 @@
 <!ENTITY  linkColor2.label                "Ubesøkte lenker">
 <!ENTITY  linkColor2.accesskey            "l">
 <!ENTITY  visitedLinkColor2.label         "Besøkte lenker">
+<!ENTITY  visitedLinkColor2.accesskey     "B">
