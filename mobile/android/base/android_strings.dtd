@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressive nettapper">
 <!ENTITY pref_pwa_summary "Tillat at nettapper blir lagt til på startskjermen">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktivitetsstrøm">
-<!ENTITY pref_activity_stream_summary "En utvidet visuell historikk gjør det enklere enn noen sinne  finne akkurat det du leter etter i &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Nå med sporingsbeskyttelse">
 <!ENTITY tracking_protection_prompt_text "Blokkerer sporingselementer aktivt, slik at du ikke trenger bekymre deg.">
 <!ENTITY tracking_protection_prompt_tip_text "Besøk personverninnstillinger for å lese mer">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Tøm private data ved avslutning">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \u0022Avslutt\u0022 fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
-<!ENTITY pref_plugins "Programtillegg">
-<!ENTITY pref_plugins_enabled "Slå på">
-<!ENTITY pref_plugins_tap_to_play2 "Trykk for å spille">
-<!ENTITY pref_plugins_disabled "Avslått">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
 <!ENTITY pref_restore_quit "Ikke gjenopprett etter avslutting av &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Velkommen til dine høydepunkter">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar nå høydepunkt av det du har funnet på nettet, slik at du kan finne tilbake til gode artikler, videoer, bokmerker og annet.">
+
+<!ENTITY private_tab_panel_title "Privat nettlesing + sporingsbeskyttelse">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkerer deler av sidene som kan spore nettleseraktiviteten din.">
+<!ENTITY private_tab_panel_description2 "Vi vil ikke huske noe historikk, men nedlastede filer og nye bokmerker blir lagret på enheten din.">
+<!ENTITY private_tab_learn_more "Vil du finne ut mer?">
