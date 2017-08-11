@@ -7,6 +7,7 @@
 <!ENTITY  blockPopups.accesskey       "H">
 
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsDoNotDisturb.label      "Wag akong istorbohin">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 
 <!ENTITY  popupExceptions.label       "Mga Exceptions...">
