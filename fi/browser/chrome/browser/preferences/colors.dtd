@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Ei koskaan">
 
 <!ENTITY  color                           "Tekstin ja taustan asetukset">
-<!ENTITY  textColor.label                 "Teksti:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Tausta:">
-<!ENTITY  backgroundColor.accesskey       "u">
+<!ENTITY  textColor2.label                "Teksti">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Tausta">
+<!ENTITY  backgroundColor2.accesskey      "u">
 <!ENTITY  useSystemColors.label           "Käytä järjestelmän värejä">
 <!ENTITY  useSystemColors.accesskey       "K">
 
 <!ENTITY  underlineLinks.label            "Alleviivaa linkit">
 <!ENTITY  underlineLinks.accesskey        "A">
 <!ENTITY  links                           "Linkkien värit">
-<!ENTITY  linkColor.label                 "Avaamattomat linkit:">
-<!ENTITY  linkColor.accesskey             "m">
-<!ENTITY  visitedLinkColor.label          "Avatut linkit:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  linkColor2.label                "Avaamattomat linkit">
+<!ENTITY  linkColor2.accesskey            "m">
+<!ENTITY  visitedLinkColor2.label         "Avatut linkit">
+<!ENTITY  visitedLinkColor2.accesskey     "v">

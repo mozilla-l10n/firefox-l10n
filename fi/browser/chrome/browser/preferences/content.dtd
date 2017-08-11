@@ -8,6 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "E">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Lue lisää">
+<!ENTITY  notificationsPolicyDesc4.label       "Valitse, mitkä sivustot saavat lähettää sinulle ilmoituksia">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Valitse…">
 <!ENTITY  notificationsDoNotDisturb.label      "Älä häiritse minua">
