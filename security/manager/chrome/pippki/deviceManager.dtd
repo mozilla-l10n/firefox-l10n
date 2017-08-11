@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Kirjoita tiedot lisättävälle moduulille.">
-<!ENTITY loaddevice.modname                     "Moduulin nimi:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Moduulin nimi">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Uusi PKCS#11-moduuli">
-<!ENTITY loaddevice.filename                    "Moduulin tiedostonimi:">
-<!ENTITY loaddevice.filename.accesskey          "d">
+<!ENTITY loaddevice.filename2                   "Moduulin tiedostonimi">
+<!ENTITY loaddevice.filename2.accesskey         "d">
 <!ENTITY loaddevice.browse                      "Selaa…">
 <!ENTITY loaddevice.browse.accesskey            "S">
 
