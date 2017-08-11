@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
 
 <!ENTITY historyWindowTitle.label       "Histórico">
 <!ENTITY menuBar.tooltip                "Barra de menu">
@@ -19,7 +19,7 @@
 <!ENTITY view.groupBy.label             "Agrupar por">
 <!ENTITY view.groupBy.accesskey         "g">
 
-<!ENTITY view.unsorted.label            "Não ordenar">
+<!ENTITY view.unsorted.label            "Não ordenados">
 <!ENTITY view.unsorted.accesskey        "r">
 <!ENTITY view.sortAscending.label       "Ordem de A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
@@ -30,7 +30,7 @@
 <!ENTITY view.groupNone.accesskey       "N">
 <!ENTITY view.groupDay.label            "Dia">
 <!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "Site">
+<!ENTITY view.groupSite.label           "Website">
 <!ENTITY view.groupSite.accesskey       "S">
 <!ENTITY view.groupDayAndSite.label     "Dia e website">
 <!ENTITY view.groupDayAndSite.accesskey "a">

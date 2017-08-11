@@ -7,7 +7,7 @@
 <!ENTITY     div.bannedservers.label        "Gerir os websites que podem ou não guardar cookies no seu computador.">
 <!ENTITY     div.cookiesonsystem.label      "Ver e remover cookies guardados no seu computador.">
 <!ENTITY     treehead.cookiename.label      "Nome do cookie">
-<!ENTITY     treehead.cookiedomain.label    "Site">
+<!ENTITY     treehead.cookiedomain.label    "Website">
 <!ENTITY     treehead.cookieexpires.label   "Expira">
 <!ENTITY     treehead.infoselected.label    "Detalhes do cookie selecionado">
 <!ENTITY     button.removecookie.label      "Remover cookie">
@@ -26,7 +26,7 @@
 <!ENTITY     props.secure.label             "Enviar para:">
 <!ENTITY     props.expires.label            "Expira:">
 
-<!ENTITY     treehead.sitename.label        "Site">
+<!ENTITY     treehead.sitename.label        "Website">
 <!ENTITY     treehead.scheme.label          "Scheme">
 <!ENTITY     treehead.status.label          "Estado">
 <!ENTITY     windowtitle.label              "Gestor de cookies">

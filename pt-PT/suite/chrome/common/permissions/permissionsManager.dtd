@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowtitle.label              "Exceções">
-<!ENTITY treehead.sitename.label        "Site">
+<!ENTITY treehead.sitename.label        "Website">
 <!ENTITY treehead.status.label          "Estado">
 <!ENTITY remove.label                   "Remover site">
 <!ENTITY remove.accesskey               "R">
