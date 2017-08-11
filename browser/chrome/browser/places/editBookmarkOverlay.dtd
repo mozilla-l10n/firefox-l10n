@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Sideplassering:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "e">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bokmerkemapper">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Vis alle bokmerkemappene">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gøym">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etikettar:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
