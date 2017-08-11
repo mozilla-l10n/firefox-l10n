@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Outils">
-<!ENTITY toolsMenu.accesskey          "O"> 
+<!ENTITY toolsMenu.accesskey          "O">
 
 <!ENTITY keywordfield.label           "Ajouter un mot-clé pour cette recherche…">
 <!ENTITY keywordfield.accesskey       "m">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Examiner l’élément">
 <!ENTITY inspectContextMenu.accesskey "x">
 
-<!ENTITY fileMenu.label         "Fichier"> 
+<!ENTITY fileMenu.label         "Fichier">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nouvel onglet contextuel">
 <!ENTITY newUserContext.accesskey         "c">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "N">
 <!ENTITY newNonRemoteWindow.label   "Fenêtre non e10s">
 
-<!ENTITY editMenu.label         "Édition"> 
-<!ENTITY editMenu.accesskey       "n"> 
-<!ENTITY undoCmd.label            "Annuler">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "Rétablir">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Couper">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "C"> 
-<!ENTITY copyCmd.label            "Copier">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "p"> 
-<!ENTITY pasteCmd.label           "Coller">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "o"> 
-<!ENTITY deleteCmd.label          "Supprimer">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "s"> 
-<!ENTITY selectAllCmd.label         "Tout sélectionner">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "T"> 
+<!ENTITY editMenu.label         "Édition">
+<!ENTITY editMenu.accesskey       "n">
+<!ENTITY undoCmd.label            "Annuler">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Rétablir">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Couper">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "C">
+<!ENTITY copyCmd.label            "Copier">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "p">
+<!ENTITY pasteCmd.label           "Coller">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "o">
+<!ENTITY deleteCmd.label          "Supprimer">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "s">
+<!ENTITY selectAllCmd.label         "Tout sélectionner">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "T">
 <!ENTITY preferencesCmd2.label       "Options">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
-<!ENTITY preferencesCmdUnix.accesskey     "f"> 
+<!ENTITY preferencesCmdUnix.accesskey     "f">
 
 <!ENTITY clearRecentHistory.label               "Supprimer l’historique récent…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Affichage"> 
-<!ENTITY viewMenu.accesskey       "A"> 
-<!ENTITY viewToolbarsMenu.label       "Barres d’outils"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Affichage">
+<!ENTITY viewMenu.accesskey       "A">
+<!ENTITY viewToolbarsMenu.label       "Barres d’outils">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Panneau latéral">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Personnaliser…"> 
+<!ENTITY viewCustomizeToolbar.label       "Personnaliser…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personnaliser la barre d’outils…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Code source de la sélection">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Code MathML de la sélection">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Code source de la page">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Copier l’adresse de l’image">
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Copier l’image">
-<!ENTITY copyImageContentsCmd.accesskey  "a"> 
+<!ENTITY copyImageContentsCmd.accesskey  "a">
 <!ENTITY copyVideoURLCmd.label        "Copier l’URL de la vidéo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copier l’URL du fichier audio">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Quitter &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Quitter"> 
+<!ENTITY quitApplicationCmd.label       "Quitter">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Quitter &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Fermer">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Fermer">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
 <!ENTITY toggleMuteCmd.key              "M">
