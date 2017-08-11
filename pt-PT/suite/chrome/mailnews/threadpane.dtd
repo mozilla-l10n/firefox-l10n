@@ -21,14 +21,14 @@
 <!ENTITY flagColumn.label "Com Marca">
 <!ENTITY locationColumn.label "Localização">
 <!ENTITY idColumn.label "Ordem de receção">
-<!--Tooltips-->
 
+<!--Tooltips-->
 <!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
 <!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
 <!ENTITY fromColumn2.tooltip "Ordenar por de">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
-<!ENTITY subjectColumn2.tooltip "Ordenar por Assunto">
+<!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
 <!ENTITY dateColumn2.tooltip "Ordenar por data">
 <!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
 <!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY tabCmd.label "Separador de navegação">
 <!ENTITY tabCmd.accesskey "S">
 <!ENTITY tabCmd.commandkey "t">
@@ -21,11 +21,11 @@
 
 <!ENTITY printSetupCmd.label "Configuração de página…">
 <!ENTITY printSetupCmd.accesskey "u">
+
 <!-- Edit Menu -->
-
 <!ENTITY findOnCmd.label "Localizar nesta página…">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Mostrar/ocultar">
 <!ENTITY toolbarsCmd.accesskey "c">
 <!ENTITY tabbarCmd.label "Barra de separadores">
@@ -35,7 +35,7 @@
 <!ENTITY componentbarCmd.label "Barra de componentes">
 <!ENTITY componentbarCmd.accesskey "c">
 
-<!ENTITY fullScreenCmd.label "Ecrã inteiro">
+<!ENTITY fullScreenCmd.label "Ecrã completo">
 <!ENTITY fullScreenCmd.accesskey "E">
 
 <!ENTITY useStyleSheetMenu.label "Utilizar estilo">
@@ -52,8 +52,8 @@
 <!ENTITY pageInfoCmd.label "Informação da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Ir">
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY goHomeCmd.label "Página inicial">
@@ -71,8 +71,8 @@
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "Separadores de outros computadores">
 <!ENTITY syncTabsMenu.accesskey "o">
-<!-- Bookmarks Menu -->
 
+<!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY addCurPageCmd.label "Adicionar aos marcadores">
@@ -85,8 +85,8 @@
 <!ENTITY manBookmarksCmd.label "Gerir marcadores…">
 <!ENTITY manBookmarksCmd.accesskey "m">
 <!ENTITY manBookmarksCmd.commandkey "b">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY searchInternetCmd.label "Pesquisar na web">
 <!ENTITY searchInternetCmd.accesskey "b">
 <!ENTITY searchInternet.commandKey "s">

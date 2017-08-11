@@ -100,7 +100,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY backButton.tooltip  "Recuar">
+<!ENTITY backButton.tooltip  "Retroceder">
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">

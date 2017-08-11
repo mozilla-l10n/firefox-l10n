@@ -7,6 +7,7 @@
 <!ENTITY rights.pagetitle       "about:rights">
 <!ENTITY rights.intro-header    "Acerca dos seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, construído por uma comunidade de milhares de pessoas por todo o mundo. Existem algumas coisas que deve saber:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -15,64 +16,63 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "O &brandShortName; está disponível sob os termos da ">
-<!ENTITY rights.intro-point1b "Licença pública da Mozilla">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Isto significa que pode utilizar, copiar e distribuir o &brandShortName; para outros.  Também é bem-vindo para modificar o código fonte do &brandShortName; conforme as suas necessidades. A Licença Pública da Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe cede quaisquer direitos para as marcas registadas ou logótipos da Mozilla e SeaMonkey. Informação adicional sobre as marcas registadas pode ser encontrada ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
+
 <!-- point 2d is technically point 3. in the list -->
-
 <!ENTITY rights.intro-point2d "Algumas funcionalidades no &brandShortName;, tais como o Relator de erros, dão-lhe a opção de fornecer feedback à &vendorShortName;. Ao escolher enviar feedback, dá ao &vendorShortName; a autorização para usar o feedback para melhorar as suas aplicações, para publicar o feedback nos seus websites, e para distribuir o feedback.">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "As políticas de privacidade dos produtos da &vendorShortName; podem ser encontradas ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
-<!-- point 4 text for official branded builds -->
 
+<!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "O &brandShortName; oferece serviços de informação opcionais sobre websites, tais como serviços de Extras ou de navegação segura; no entanto, não podemos garantir que estes são 100&#037; fiáveis ou livres de erros. Para mais detalhes, incluindo informação sobre como desativar os serviços, podem ser encontrados nos ">
 <!ENTITY rights.intro-point4b "termos do serviço">
 <!ENTITY rights.intro-point4c ".">
 
 <!ENTITY rights.webservices-header "Serviços web do &brandFullName;">
+
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-
 <!ENTITY rights3.webservices-a "O &brandFullName; oferece serviços web opcionais (&quot;Serviços&quot;) que estão disponíveis para sua utilização com esta versão binária do &brandShortName;, tal como descrito abaixo.  Alguns destes serviços (tais como os serviços de sugestões e atualização de extras, o serviço de navegação segura ou a funcionalidade de notificação de navegação com conhecimento da localização) estão ativas por predefinição.  Se não quiser utilizar qualquer um destes serviços ou os termos abaixo não são aceitáveis, instruções para desativar uma determinada funcionalidade ou serviços podem ser encontradas ">
 <!ENTITY rights3.webservices-b "aqui">
 <!ENTITY rights3.webservices-c ". Outras funcionalidades e serviços podem ser ativados ou desativados nas preferências da aplicação.">
-<!-- add-on related points for branded builds -->
 
+<!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Serviços de extras: ">
 <!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares.  Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarque as opções para &quot;&autoAddOnsUpdates.label;&quot; e &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Os serviços de extras estão agora desativados">
-<!-- safe browsing points for branded builds -->
 
+<!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navegação segura: ">
 <!ENTITY rights.safebrowsing-b "A desativação da funcionalidade de navegação segura não é recomendável dado que pode resultar na visita de sites inseguros.  Se quiser desativar completamente a funcionalidade, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "A navegação segura está desativada">
-<!-- location aware browsing points for branded builds -->
 
+<!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização: ">
 <!ENTITY rights.locationawarebrowsing-b "é sempre de indicação explícita.  Não serão enviadas quaisquer informações de localização sem a sua permissão.  Se quiser desativar completamente a funcionalidade, siga este passos:">
 <!ENTITY rights.locationawarebrowsing-term1 "Abrir as preferências da aplicação">
 <!ENTITY rights.locationawarebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.locationawarebrowsing-term3 "Selecione a opção para &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "A navegação com conhecimento da localização está agora desativada">
-<!-- points 0-6 text for branded builds -->
 
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term0 "A &vendorShortName; e a Mozilla, os seus contribuidores, licenciantes e parceiros trabalham para fornecer os serviços mais precisos e atualizados.  No entanto, não podemos garantir que esta informação é abrangente e livre de erros.  Por exemplo, o serviço de navegação segura poderá não identificar alguns sites perigosos e identificar alguns sites seguros com erro e, no serviço de localização, todas as localizações devolvidas pelos nossos fornecedores do serviço são apenas estimativas, Nem nós, nem os nossos fornecedores do serviço garantem a exatidão das localizações fornecidas.">
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os serviços a qualquer momento.">
 <!ENTITY rights.webservices-term2 "É convidado a usar os Serviços que acompanham a versão do &brandShortName;, e tem todos os direitos necessários para o fazer. A &vendorShortName; e os seus licenciantes reservam todos os outros direitos nos Serviços. Estes termos não têm a intenção de limitar quaisquer direitos dados sobre as licenças de código aberto aplicáveis ao &brandShortName; e às correspondentes versões dos códigos fonte do &brandShortName;.">

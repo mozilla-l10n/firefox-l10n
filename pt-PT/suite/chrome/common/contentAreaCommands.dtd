@@ -127,7 +127,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey  "a">
 <!ENTITY mediaHideControls.label      "Ocultar controlos multimédia">
 <!ENTITY mediaHideControls.accesskey  "a">
-<!ENTITY videoFullScreen.label        "Ecrã inteiro">
+<!ENTITY videoFullScreen.label        "Ecrã completo">
 <!ENTITY videoFullScreen.accesskey    "n">
 <!ENTITY videoSaveImage.label         "Guardar captura como…">
 <!ENTITY videoSaveImage.accesskey     "a">
