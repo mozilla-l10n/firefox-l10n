@@ -12,6 +12,7 @@
 <!ENTITY removeallpermissions2.label  "Αφαίρεση όλων των Ιστοσελίδων">
 <!ENTITY removeallpermissions2.accesskey "λ">
 <!ENTITY address2.label               "Διεύθυνση ιστοσελίδας">
+<!ENTITY address2.accesskey           "ι">
 <!ENTITY block.label                  "Φραγή">
 <!ENTITY block.accesskey              "Φ">
 <!ENTITY session.label                "Να επιτραπεί για τη συνεδρία">

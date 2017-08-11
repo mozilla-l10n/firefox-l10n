@@ -24,3 +24,7 @@
 <!ENTITY  underlineLinks.label            "Υπογράμμιση συνδέσμων">
 <!ENTITY  underlineLinks.accesskey        "Υ">
 <!ENTITY  links                           "Χρώμα συνδέσμων">
+<!ENTITY  linkColor2.label                "Σύνδεσμοι που δεν έχετε επισκεφθεί">
+<!ENTITY  linkColor2.accesskey            "Σ">
+<!ENTITY  visitedLinkColor2.label         "Σύνδεσμοι που έχετε επισκεφθεί">
+<!ENTITY  visitedLinkColor2.accesskey     "Ε">

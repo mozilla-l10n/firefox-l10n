@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Εξαιρέσεις…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ξ">
 
-<!ENTITY offlineAppsList2.label          "Στις παρακάτω ιστοσελίδες επιτρέπεται η αποθήκευση δεδομένων για χρήση χωρίς σύνδεση:">
+<!ENTITY offlineAppsList3.label          "Στις παρακάτω ιστοσελίδες επιτρέπεται η αποθήκευση δεδομένων για χρήση χωρίς σύνδεση">
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "Αφαίρεση…">
 <!ENTITY offlineAppsListRemove.accesskey "ρ">
