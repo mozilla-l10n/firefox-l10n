@@ -846,4 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Navegación privada + Protección de rastreo">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea ciertas secciones de las páginas que pueden rastrear tu navegación.">
+<!ENTITY private_tab_panel_description2 "No recordaremos nada de tu historial, pero los archivos descargados y los nuevos marcadores aún estarán guardados en tu dispositivo.">
 <!ENTITY private_tab_learn_more "¿Quieres aprender más?">
