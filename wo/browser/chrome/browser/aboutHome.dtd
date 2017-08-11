@@ -6,15 +6,15 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
+<!ENTITY abouthome.pageTitle "Xëtu tàmbali wu &brandFullName;">
 
-<!ENTITY abouthome.pageTitle "Xëtu tambali &brandFullName;">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
-<!ENTITY abouthome.defaultSnippet1.v1 "Jërëjëf ci li nga taamu Firefox ! Boo bëggee jariñoo dëgg sa joowkat, seetal <a>mën mënam yi mujj</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Jërajëf ci sa taamu Firefox ! Soo bëggee jariñoo dëgg sa joowukaay, xoolal <a>solo yi mujj</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
@@ -30,8 +30,10 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Taamu yi">
 <!ENTITY abouthome.addonsButton.label    "Modilu mottali">
-<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
-     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
-     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
-<!ENTITY abouthome.downloadsButton.label "Yeb yi">
+<!ENTITY abouthome.downloadsButton.label "Yebbi">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
+<!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
+     the mozilla wordmark in the top-right corner that links to Mozilla's main
+     about page. -->
+<!ENTITY abouthome.aboutMozilla.label    "Ñeel Mozilla">
