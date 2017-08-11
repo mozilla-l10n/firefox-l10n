@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "F">
 <!ENTITY removeallpermissions2.label  "Forigi ĉiujn retejojn">
 <!ENTITY removeallpermissions2.accesskey "r">
-<!ENTITY address.label                "Adreso de retejo:">
-<!ENTITY address.accesskey            "r">
+<!ENTITY address2.label               "Adreso de retejo">
+<!ENTITY address2.accesskey           "A">
 <!ENTITY block.label                  "Bloki">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permesi dum la seanco">
