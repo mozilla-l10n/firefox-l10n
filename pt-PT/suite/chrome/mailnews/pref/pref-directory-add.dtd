@@ -27,19 +27,19 @@
 <!ENTITY scopeOneLevel.accesskey           "l">
 <!ENTITY scopeSubtree.label                "Sub-árvore">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Não dar mais do que">
+<!ENTITY return.label                      "Não devolver mais do que">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Pode descarregar uma cópia deste diretório para que fique disponível no modo offline.">
 <!ENTITY saslMechanism.label               "Método de acesso: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">
-<!ENTITY saslOff.accesskey     "l">
+<!ENTITY saslOff.accesskey		   "l">
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey     "K">
+<!ENTITY saslGSSAPI.accesskey		   "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-
 <!ENTITY newDirectoryWidth                 "48em">

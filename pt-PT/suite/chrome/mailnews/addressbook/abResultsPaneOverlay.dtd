@@ -32,7 +32,7 @@
 <!ENTITY ScreenName.accesskey                  "s">
 <!ENTITY sortAscending.label                   "Ordem crescente">
 <!ENTITY sortAscending.accesskey               "O">
-<!ENTITY sortDescending.label                  "Ordem decrescente">
+<!ENTITY sortDescending.label                  "Descendente">
 <!ENTITY sortDescending.accesskey              "r">
 
 <!-- context menu -->

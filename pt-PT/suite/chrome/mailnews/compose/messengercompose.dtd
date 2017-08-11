@@ -99,7 +99,7 @@
 
 <!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
-<!ENTITY fileHereMenu.label "O ficheiro aqui">
+<!ENTITY fileHereMenu.label "Ficheiro aqui">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->

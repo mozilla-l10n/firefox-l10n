@@ -35,7 +35,7 @@
 <!ENTITY openAttachmentCmd.accesskey "x">
 <!ENTITY saveAsMenu.label "Guardar como">
 <!ENTITY saveAsMenu.accesskey "d">
-<!ENTITY saveAsFileCmd.label "Ficheiro...">
+<!ENTITY saveAsFileCmd.label "Ficheiro">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modelo">
@@ -168,7 +168,7 @@
 <!ENTITY sortByAttachmentsCmd.accesskey "x">
 <!ENTITY sortAscending.label "Ordem crescente">
 <!ENTITY sortAscending.accesskey "r">
-<!ENTITY sortDescending.label "Ordem decrescente">
+<!ENTITY sortDescending.label "Descendente">
 <!ENTITY sortDescending.accesskey "d">
 <!ENTITY sortThreaded.label "Agrupar por tópicos">
 <!ENTITY sortThreaded.accesskey "t">
@@ -319,7 +319,7 @@
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY copyMessageLocation.label "Copiar localização da mensagem">
 <!ENTITY copyMessageLocation.accesskey "m">
-<!ENTITY copyMsgToMenu.label "Copiar">
+<!ENTITY copyMsgToMenu.label "Copiar para">
 <!ENTITY copyMsgToMenu.accesskey "o">
 <!ENTITY moveCopyMsgRecentMenu.label "Recente">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
