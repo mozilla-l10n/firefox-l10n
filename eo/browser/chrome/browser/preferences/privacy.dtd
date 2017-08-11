@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Akcepti nerektajn kuketojn:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty2.pre.label     "Akcepti nerektajn kuketojn">
+<!ENTITY  acceptThirdParty2.pre.accesskey "n">
 <!ENTITY  acceptThirdParty.always.label   "Ĉiam">
 <!ENTITY  acceptThirdParty.never.label    "Neniam">
 <!ENTITY  acceptThirdParty.visited.label  "El vizititaj">
 
-<!ENTITY  keepUntil.label               "Konservi ĝis:">
-<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  keepUntil2.label              "Konservi ĝis">
+<!ENTITY  keepUntil2.accesskey          "K">
 
 <!ENTITY  expire.label                  "ili senvalidiĝas">
 <!ENTITY  close.label                   "mi finas &brandShortName;">
