@@ -61,7 +61,7 @@
 <!ENTITY view.sortBy.label               "Ordenar por">
 <!ENTITY view.sortBy.accesskey           "r">
 
-<!ENTITY view.unsorted.label             "Não ordenar">
+<!ENTITY view.unsorted.label             "Não ordenados">
 <!ENTITY view.unsorted.accesskey         "d">
 <!ENTITY view.sortAscending.label        "Ordenar A > Z">
 <!ENTITY view.sortAscending.accesskey    "A">

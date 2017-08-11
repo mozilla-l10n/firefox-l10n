@@ -5,7 +5,7 @@
 <!ENTITY subscribeDialog.title        "Subscrever">
 <!ENTITY subscribeButton.label        "Subscrever">
 <!ENTITY subscribeButton.accesskey    "S">
-<!ENTITY unsubscribeButton.label      "Não subscrever">
+<!ENTITY unsubscribeButton.label      "Cancelar subscrição">
 <!ENTITY unsubscribeButton.accesskey  "u">
 <!ENTITY newGroupsTab.label           "Novos grupos">
 <!ENTITY newGroupsTab.accesskey       "N">

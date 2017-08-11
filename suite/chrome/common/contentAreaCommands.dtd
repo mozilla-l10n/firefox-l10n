@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label     "Recusar janelas popup deste site">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas pop-up deste site">
@@ -104,7 +104,7 @@
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Sem som">
 <!ENTITY mediaMute.accesskey          "m">
-<!ENTITY mediaUnmute.label            "Com som">
+<!ENTITY mediaUnmute.label            "Repor som">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
 <!ENTITY mediaPlaybackRate.accesskey    "o">
