@@ -570,7 +570,7 @@
 <!ENTITY button_clear "Limpar">
 <!ENTITY button_copy "Copiar">
 
-<!ENTITY home_top_sites_title "Mais visitados">
+<!ENTITY home_top_sites_title "Sites mais visitados">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adicionar um site">
@@ -825,7 +825,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Adicione aos Marcadores itens da Lista de leitura para lê-los offline.">
 <!ENTITY helper_triple_readerview_open_button "Adicionar aos Marcadores">
 
-<!ENTITY activity_stream_topsites "Mais visitados">
+<!ENTITY activity_stream_topsites "Sites mais visitados">
 <!ENTITY activity_stream_highlights "Destaques">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity

@@ -8,7 +8,7 @@
 <!ENTITY newPref.namePlaceholder       "Nome">
 
 <!ENTITY newPref.valueBoolean          "Booleano">
-<!ENTITY newPref.valueString           "Texto">
+<!ENTITY newPref.valueString           "String">
 <!ENTITY newPref.valueInteger          "Inteiro">
 
 <!ENTITY newPref.stringPlaceholder     "Introduza um texto">
