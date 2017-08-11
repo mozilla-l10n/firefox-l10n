@@ -34,3 +34,5 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Η ιστοσελίδα αυτή ενδέχεται να περιέχει κακόβουλο λογισμικό">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Το Firefox απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να προσπαθήσει να εγκαταστήσει επικίνδυνες εφαρμογές, οι οποίες υποκλέπτουν ή διαγράφουν τις πληροφορίες σας (για παράδειγμα, φωτογραφίες, κωδικοί πρόσβασης, μηνύματα και πιστωτικές κάρτες).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

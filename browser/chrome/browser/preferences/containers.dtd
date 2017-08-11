@@ -13,9 +13,12 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name2.label          "Όνομα">
+<!ENTITY name2.accesskey      "Ο">
 <!ENTITY name.placeholder     "Εισάγετε όνομα θεματικής ενότητας">
 <!ENTITY icon2.label          "Εικονίδιο">
+<!ENTITY icon2.accesskey      "Ε">
 <!ENTITY color2.label         "Χρώμα">
+<!ENTITY color2.accesskey     "ρ">
 <!ENTITY windowClose.key      "κ">
 
 <!ENTITY button.ok.label      "Τέλος">

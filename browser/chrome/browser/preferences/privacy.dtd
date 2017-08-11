@@ -50,11 +50,13 @@
 <!ENTITY  acceptCookies2.accesskey      "Α">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Αποδοχή cookies τρίτων">
+<!ENTITY  acceptThirdParty2.pre.accesskey "ν">
 <!ENTITY  acceptThirdParty.always.label   "Πάντα">
 <!ENTITY  acceptThirdParty.never.label    "Ποτέ">
 <!ENTITY  acceptThirdParty.visited.label  "Από επισκέψεις">
 
 <!ENTITY  keepUntil2.label              "Διατήρηση μέχρι">
+<!ENTITY  keepUntil2.accesskey          "μ">
 
 <!ENTITY  expire.label                  "τη λήξη τους">
 <!ENTITY  close.label                   "το κλείσιμο του &brandShortName;">

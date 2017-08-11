@@ -5,16 +5,16 @@
 <!ENTITY certmgr.title                       "Διαχείριση πιστοποιητικών">
 
 <!ENTITY certmgr.tab.mine                     "Τα πιστοποιητικά σας">
-<!ENTITY certmgr.tab.others2                  "Ανθρώπων">
-<!ENTITY certmgr.tab.websites3                "Εξυπηρετητών">
-<!ENTITY certmgr.tab.ca                       "Αρχών">
-<!ENTITY certmgr.tab.orphan2                  "Τρίτων">
+<!ENTITY certmgr.tab.others2                  "Άτομα">
+<!ENTITY certmgr.tab.websites3                "Διακομιστές">
+<!ENTITY certmgr.tab.ca                       "Αρχές">
+<!ENTITY certmgr.tab.orphan2                  "Άλλα">
 
-<!ENTITY certmgr.mine                         "Έχετε πιστοποιητικά από τους παρακάτω οργανισμούς που σας πιστοποιούν:">
-<!ENTITY certmgr.others                       "Έχετε πιστοποιητικά στο αρχείο που πιστοποιούν τους παρακάτω ανθρώπους:">
-<!ENTITY certmgr.websites2                    "Έχετε πιστοποιητικά στο αρχείο που πιστοποιούν αυτούς τους εξυπηρετητές:">
-<!ENTITY certmgr.cas                          "Έχετε πιστοποιητικά στο αρχείο που πιστοποιούν τις παρακάτω αρχές:">
-<!ENTITY certmgr.orphans                      "Έχετε πιστοποιητικά στο αρχείο που δεν ταιριάζουν σε κάποια από τις κατηγορίες:">
+<!ENTITY certmgr.mine2                        "Έχετε πιστοποιητικά από αυτούς τους οργανισμούς που σάς ταυτοποιούν">
+<!ENTITY certmgr.others2                      "Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτά τα άτομα">
+<!ENTITY certmgr.websites3                    "Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτούς τους διακομιστές">
+<!ENTITY certmgr.cas2                         "Έχετε πιστοποιητικά στο αρχείο που ταυτοποιούν αυτές τις αρχές πιστοποιητικών">
+<!ENTITY certmgr.orphans2                     "Έχετε πιστοποιητικά στο αρχείο που δεν ανήκουν σε καμία από τις άλλες κατηγορίες">
 
 <!ENTITY certmgr.detail.general_tab.title     "Γενικά">
 <!ENTITY certmgr.detail.general_tab.accesskey "Γ">

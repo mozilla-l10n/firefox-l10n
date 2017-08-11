@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "ι">
 
 <!ENTITY loaddevice.info                        "Εισάγετε τις πληροφορίες για τη μονάδα που θέλετε να προσθέσετε.">
-<!ENTITY loaddevice.modname                     "Όνομα μονάδος:">
-<!ENTITY loaddevice.modname.accesskey           "μ">
+<!ENTITY loaddevice.modname2                    "Όνομα μονάδας">
+<!ENTITY loaddevice.modname2.accesskey          "Μ">
 <!ENTITY loaddevice.modname.default             "Νέα μονάδα  PKCS#11">
-<!ENTITY loaddevice.filename                    "Όνομα αρχείου μονάδας:">
-<!ENTITY loaddevice.filename.accesskey          "χ">
+<!ENTITY loaddevice.filename2                   "Όνομα αρχείου μονάδας">
+<!ENTITY loaddevice.filename2.accesskey         "α">
 <!ENTITY loaddevice.browse                      "Αναζήτηση...">
 <!ENTITY loaddevice.browse.accesskey            "ζ">
 
