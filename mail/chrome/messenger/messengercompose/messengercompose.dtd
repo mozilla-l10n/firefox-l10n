@@ -171,7 +171,7 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Muito alta">
 <!ENTITY highestPriorityCmd.accesskey "u">
-<!ENTITY fileCarbonCopyCmd.label "Enviar cópia para">
+<!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Ficheiro aqui">
 
