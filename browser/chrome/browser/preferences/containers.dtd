@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Agregar un nuevo contenedor">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nombre:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nombre">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Escribe el nombre de un marcador">
-<!ENTITY icon.label           "Ícono:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Color:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "Ícono">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Color">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Listo">
 <!ENTITY button.ok.accesskey  "D">
-
