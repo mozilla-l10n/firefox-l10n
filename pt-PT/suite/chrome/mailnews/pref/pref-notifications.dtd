@@ -5,11 +5,11 @@
 <!ENTITY pref.notifications.title         "Notificações">
 <!ENTITY notifications.caption            "Notificações">
 <!ENTITY newMessagesArrive.label          "Ao chegarem novas mensagens:">
+
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
      leading into a numerical field to enter a time in seconds, followed by
      showAlertTimeEnd.label which in en-US is the unit of the value -->
-
 
 <!ENTITY showAlertFor.label               "Mostrar um alerta após">
 <!ENTITY showAlertFor.accesskey           "s">
@@ -33,7 +33,7 @@
 <!ENTITY bounceSystemDockIcon.label       "Animar o ícone">
 <!ENTITY bounceSystemDockIcon.accesskey   "A">
 
-<!ENTITY playSound.label                  "Tocar um som">
+<!ENTITY playSound.label                  "Reproduzir um som">
 <!ENTITY playSound.accesskey              "c">
 <!ENTITY playButton.label                 "Reproduzir">
 <!ENTITY playButton.accesskey             "z">
