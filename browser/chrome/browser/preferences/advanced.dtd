@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Unntak …">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
-<!ENTITY offlineAppsList2.label          "Følgende nettsted har tillatelse til å lagre data for frakoblet bruk:">
+<!ENTITY offlineAppsList3.label          "Følgende nettsted har tillatelse til å lagre data for frakoblet bruk">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Slett …">
 <!ENTITY offlineAppsListRemove.accesskey "S">

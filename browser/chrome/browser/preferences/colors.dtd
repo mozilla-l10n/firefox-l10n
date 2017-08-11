@@ -14,17 +14,16 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Aldri">
 
 <!ENTITY  color                           "Tekst og bakgrunn">
-<!ENTITY  textColor.label                 "Tekst:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Bakgrunn:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "Tekst">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Bakgrunn">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Bruk systemfarger">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Understrek lenker">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "Lenkefarger">
-<!ENTITY  linkColor.label                 "Ubesøkte lenker:">
-<!ENTITY  linkColor.accesskey             "e">
-<!ENTITY  visitedLinkColor.label          "Besøkte lenker:">
-<!ENTITY  visitedLinkColor.accesskey      "k">
+<!ENTITY  linkColor2.label                "Ubesøkte lenker">
+<!ENTITY  linkColor2.accesskey            "l">
+<!ENTITY  visitedLinkColor2.label         "Besøkte lenker">
