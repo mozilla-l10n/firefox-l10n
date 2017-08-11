@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "Nome">
 <!ENTITY  columnLabel.keyword       "Palavra-chave">
-<!-- Buttons -->
 
+<!-- Buttons -->
 <!ENTITY  up.label                  "Para cima">
 <!ENTITY  up.accesskey              "c">
 <!ENTITY  dn.label                  "Para baixo">
@@ -22,7 +22,7 @@
 <!ENTITY  addEngine.label           "Obter mais motores de pesquisa…">
 <!ENTITY  addEngine.accesskey       "a">
 
-<!ENTITY  enableSuggest.label       "Mostrar resultados da pesquisa">
+<!ENTITY  enableSuggest.label       "Mostrar sugestões de pesquisa">
 <!ENTITY  enableSuggest.accesskey   "s">
 
 <!ENTITY  restoreDefaults.label     "Restaurar predefinições">

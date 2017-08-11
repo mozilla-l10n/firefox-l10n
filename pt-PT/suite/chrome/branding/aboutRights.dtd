@@ -62,7 +62,7 @@
 <!ENTITY rights.safebrowsing-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.safebrowsing-term2 "Selecionar o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções para &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "A navegação segura está desativada">
+<!ENTITY rights.safebrowsing-term4 "A navegação segura está agora desativada">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navegação com conhecimento da localização: ">

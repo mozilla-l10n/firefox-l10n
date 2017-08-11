@@ -103,7 +103,7 @@
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
-<!ENTITY sendButton.label "Enviar agora">
+<!ENTITY sendButton.label "Enviar">
 <!ENTITY addressButton.label "Contactos">
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">

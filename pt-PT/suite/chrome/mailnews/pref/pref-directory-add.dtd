@@ -21,7 +21,7 @@
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
 <!ENTITY searchFilter.accesskey            "F">
-<!ENTITY scope.label                       "Scope: ">
+<!ENTITY scope.label                       "Âmbito: ">
 <!ENTITY scope.accesskey                   "c">
 <!ENTITY scopeOneLevel.label               "Um nível">
 <!ENTITY scopeOneLevel.accesskey           "l">
