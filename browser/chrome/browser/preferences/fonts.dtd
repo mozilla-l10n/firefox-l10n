@@ -4,7 +4,7 @@
 
 <!ENTITY fontsDialog.title                       "Skrifttyper">
 
-<!ENTITY  fonts.label                             "Skriftyper for">
+<!ENTITY  fonts.label                             "Skrifttyper for">
 <!ENTITY  fonts.accesskey                         "f">
 
 <!ENTITY size2.label                             "Størrelse">
