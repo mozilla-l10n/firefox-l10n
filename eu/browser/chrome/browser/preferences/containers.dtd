@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Gehitu edukiontzi berria">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Izena">
+<!ENTITY name2.accesskey      "I">
 <!ENTITY name.placeholder     "Idatzi edukiontziaren izena">
-
-
-
-
+<!ENTITY icon2.label          "Ikonoa">
+<!ENTITY icon2.accesskey      "k">
+<!ENTITY color2.label         "Kolorea">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Eginda">

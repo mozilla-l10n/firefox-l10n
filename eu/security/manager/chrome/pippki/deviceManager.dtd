@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Idatzi gehitu nahi duzun moduluaren informazioa.">
-
-
+<!ENTITY loaddevice.modname2                    "Modulu-izena">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "PKCS#11 modulu berria">
-
-
+<!ENTITY loaddevice.filename2                   "Moduluaren fitxategi-izena">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Arakatu...">
 <!ENTITY loaddevice.browse.accesskey            "A">
 

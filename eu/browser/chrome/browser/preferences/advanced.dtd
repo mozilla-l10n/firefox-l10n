@@ -115,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Salbuespenak…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "S">
 
+<!ENTITY offlineAppsList3.label          "Ondorengo webguneek datuak gordetzeko baimena dute lineaz kanpo erabiltzeko">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Ezabatu…">
 <!ENTITY offlineAppsListRemove.accesskey "z">

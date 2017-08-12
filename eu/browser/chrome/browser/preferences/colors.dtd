@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Inoiz ez">
 
 <!ENTITY  color                           "Testua eta atzeko planoa">
-
-
-
-
+<!ENTITY  textColor2.label                "Testua">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Atzeko planoa">
+<!ENTITY  backgroundColor2.accesskey      "A">
 <!ENTITY  useSystemColors.label           "Erabili sistemaren koloreak">
 <!ENTITY  useSystemColors.accesskey       "E">
 
 <!ENTITY  underlineLinks.label            "Azpimarratu loturak">
 <!ENTITY  underlineLinks.accesskey        "z">
 <!ENTITY  links                           "Loturen koloreak">
-
-
-
-
+<!ENTITY  linkColor2.label                "Bisitatu gabeko loturak">
+<!ENTITY  linkColor2.accesskey            "s">
+<!ENTITY  visitedLinkColor2.label         "Bisitatutako loturak">
+<!ENTITY  visitedLinkColor2.accesskey     "B">
