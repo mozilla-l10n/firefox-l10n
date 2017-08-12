@@ -618,6 +618,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Tob kue">
+<!ENTITY home_unpinned_site "kíb kúe">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Pa dá ko güín?">
 <!ENTITY remote_tabs_panel_moved_desc "Mtal nó re yets na gó loo yib kub xá tak güi goóy tilta.">
@@ -840,3 +842,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Bésta died lú lenɁ ko ndó~láz=lú">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\u0027ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
 
+<!ENTITY private_tab_panel_title "Yént chó níe pá mdúl ner kúan dé líl">
+<!ENTITY private_tab_panel_description "&brandShortName; bloquea ciertas secciones de las páginas que pueden rastrear tu navegación.">
+<!ENTITY private_tab_learn_more "¿Lásh lô bé kúe?">
