@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "आपकी प्रमुखताओं में आपका स्वागत है">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; अब आपके द्वारा वेब पर खोज की गई चीज़ों की प्रमुखताओं को बनाता है ताकि आप अच्छे लेख, वीडियो, बुकमार्क और अन्य पृष्ठों पर वापस आने का अपना तरीका पा सकें.">
 
-
-
-
+<!ENTITY private_tab_panel_title "निजी ब्राउज़िंग + ट्रैकिंग सुरक्षा">
+<!ENTITY private_tab_panel_description "&brandShortName; पृष्ठ के उन हिस्सों को ब्लॉक करता है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं.">
+<!ENTITY private_tab_panel_description2 "हम कोई इतिहास नही याद रखेंगे, परन्तु डाउनलोड की हुई फाइल्स और नए पुस्तकचिन्ह आपके उपकरण पर सहेजे जाएँगे.">
+<!ENTITY private_tab_learn_more "अधिक जानना चाहते हैं?">
