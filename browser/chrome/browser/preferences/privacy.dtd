@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "קבלת עוגיות מאתרים">
 <!ENTITY  acceptCookies2.accesskey      "ק">
 
-<!ENTITY  acceptThirdParty.pre.label      "קבלת עוגיות צד שלישי:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "ש">
+<!ENTITY  acceptThirdParty2.pre.label     "קבלת עוגיות צד שלישי">
+<!ENTITY  acceptThirdParty2.pre.accesskey "ש">
 <!ENTITY  acceptThirdParty.always.label   "תמיד">
 <!ENTITY  acceptThirdParty.never.label    "לעולם לא">
 <!ENTITY  acceptThirdParty.visited.label  "מאתרים בהם ביקרנו בעבר">
 
-<!ENTITY  keepUntil.label               "שמירה עד ש:">
-<!ENTITY  keepUntil.accesskey           "מ">
+<!ENTITY  keepUntil2.label              "שמירה עד ש:">
+<!ENTITY  keepUntil2.accesskey          "מ">
 
 <!ENTITY  expire.label                  "הן פגות">
 <!ENTITY  close.label                   "אני סוגר את &brandShortName;">

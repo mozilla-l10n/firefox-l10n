@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "גופנים">
 
-<!ENTITY  language.label                          "גופנים עבור:">
-<!ENTITY  language.accesskey                      "נ">
+<!ENTITY  fonts.label                             "גופנים עבור">
+<!ENTITY  fonts.accesskey                         "נ">
 
-<!ENTITY  size.label                              "גודל:">
+<!ENTITY  size2.label                             "גודל">
 <!ENTITY  sizeProportional.accesskey              "ג">
 <!ENTITY  sizeMonospace.accesskey                 "ד">
 
-<!ENTITY  proportional.label                      "יחסי:">
-<!ENTITY  proportional.accesskey                  "ח">
+<!ENTITY  proportional2.label                     "יחסי">
+<!ENTITY  proportional2.accesskey                 "ח">
 
-<!ENTITY  serif.label                             "סריף:">
-<!ENTITY  serif.accesskey                         "ס">
-<!ENTITY  sans-serif.label                        "סאן-סריף:">
-<!ENTITY  sans-serif.accesskey                    "ר">
-<!ENTITY  monospace.label                         "רוחב קבוע:">
-<!ENTITY  monospace.accesskey                     "ב">
+<!ENTITY  serif2.label                            "סריף">
+<!ENTITY  serif2.accesskey                        "ס">
+<!ENTITY  sans-serif2.label                       "סאן־סריף">
+<!ENTITY  sans-serif2.accesskey                   "ר">
+<!ENTITY  monospace2.label                        "רוחב קבוע">
+<!ENTITY  monospace2.accesskey                    "ב">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "סינהאלית">
 <!ENTITY  font.langGroup.tibetan                  "טיבטית">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "גודל גופן מינימלי:">
-<!ENTITY minSize.accesskey                        "פ">
+<!ENTITY minSize2.label                           "גודל גופן מינימלי">
+<!ENTITY minSize2.accesskey                       "פ">
 <!ENTITY minSize.none                             "ללא">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "ג">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "קידוד טקסט לתוכן ישן">
-<!ENTITY languages.customize.Fallback2.label      "קידוד טקסט חלופי:">
-<!ENTITY languages.customize.Fallback2.accesskey  "ט">
+<!ENTITY languages.customize.Fallback3.label      "קידוד טקסט חלופי">
+<!ENTITY languages.customize.Fallback3.accesskey  "ט">
 <!ENTITY languages.customize.Fallback2.desc       "קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.">
 
 <!ENTITY languages.customize.Fallback.auto        "בררת מחדל לשפה הנוכחית">
