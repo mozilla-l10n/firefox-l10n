@@ -25,7 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versi">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.featuresTitle "&brandShortName; Ciri">
+<!ENTITY aboutSupport.featuresTitle "Ciri &brandShortName; ">
 <!ENTITY aboutSupport.featureName "Nama">
 <!ENTITY aboutSupport.featureVersion "Versi">
 <!ENTITY aboutSupport.featureId "ID">
@@ -36,7 +36,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Huraian">
 <!ENTITY aboutSupport.experimentActive "Aktif">
 <!ENTITY aboutSupport.experimentEndDate "Tarikh Akhir">
-<!ENTITY aboutSupport.experimentHomepage "Homepage">
+<!ENTITY aboutSupport.experimentHomepage "Halaman utama">
 <!ENTITY aboutSupport.experimentBranch "Cabang">
 
 <!ENTITY aboutSupport.appBasicsTitle "Asas Aplikasi">
@@ -54,10 +54,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profil Folder">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Folder Profil">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Dayakan Plugins">
-<!ENTITY aboutSupport.appBasicsBuildConfig "membina Konfigurasi">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Konfigurasi Binaan">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ejen pengguna">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Kegunaan Memori">
@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integriti">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Sahkan Integriti">
 
-<!ENTITY aboutSupport.jsTitle "JavaSkrip">
+<!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
 
 <!ENTITY aboutSupport.a11yTitle "Aksesibiliti">
@@ -112,7 +112,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Halang Aksesibiliti">
 <!ENTITY aboutSupport.a11yHandlerUsed "Menggunakan Accessible Handler">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Sejarah Pemasangan">
 <!ENTITY aboutSupport.updateHistoryTitle "Kemaskini Sejarah">
@@ -123,10 +123,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
-<!ENTITY aboutSupport.sandboxSyscallAge "Seconds Ago">
+<!ENTITY aboutSupport.sandboxSyscallAge "Beberapa Saat Lepas">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
-<!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Jenis Proses">
 <!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
