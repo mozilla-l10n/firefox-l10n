@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Nigda">
 
 <!ENTITY  color                           "Tekst a slězyna">
-
-
-
-
+<!ENTITY  textColor2.label                "Tekst">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Slězyna">
+<!ENTITY  backgroundColor2.accesskey      "S">
 <!ENTITY  useSystemColors.label           "Systemowe barwy wužywaś">
 <!ENTITY  useSystemColors.accesskey       "t">
 
 <!ENTITY  underlineLinks.label            "Wótkaze pódšmarnuś">
 <!ENTITY  underlineLinks.accesskey        "m">
 <!ENTITY  links                           "Barwy wótkazow">
-
-
-
-
+<!ENTITY  linkColor2.label                "Njewoglědane wótkaze">
+<!ENTITY  linkColor2.accesskey            "N">
+<!ENTITY  visitedLinkColor2.label         "Woglědane wótkaze">
+<!ENTITY  visitedLinkColor2.accesskey     "W">

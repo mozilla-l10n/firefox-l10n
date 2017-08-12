@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Nowy kontejner pśidaś">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Mě">
+<!ENTITY name2.accesskey      "M">
 <!ENTITY name.placeholder     "Zapódajśo kontejnerowe mě">
-
-
-
-
+<!ENTITY icon2.label          "Symbol">
+<!ENTITY icon2.accesskey      "S">
+<!ENTITY color2.label         "Barwa">
+<!ENTITY color2.accesskey     "B">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gótowo">

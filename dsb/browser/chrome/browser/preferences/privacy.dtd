@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY  acceptCookies2.accesskey      "c">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "Cookieje tśeśich póbitowarjow akceptěrowaś">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Pśecej">
 <!ENTITY  acceptThirdParty.never.label    "Nigda">
 <!ENTITY  acceptThirdParty.visited.label  "Jano wót woglědanych tśeśich">
 
-
+<!ENTITY  keepUntil2.label              "Wobchowaś">
+<!ENTITY  keepUntil2.accesskey          "b">
 
 <!ENTITY  expire.label                  "až njepśepadnu">
 <!ENTITY  close.label                   "až &brandShortName; se njezacynijo">
