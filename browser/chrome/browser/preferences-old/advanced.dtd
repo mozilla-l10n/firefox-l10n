@@ -118,7 +118,7 @@ available. -->
 <!ENTITY certificateTab.label            "Sertifikat">
 <!ENTITY certPersonal.label              "Førespurnadar">
 <!ENTITY certPersonal.description        "Når ein nettstad ber om det personlege sertifikatet ditt:">
-<!ENTITY selectCerts.auto                "Vel eit automastisk">
+<!ENTITY selectCerts.auto                "Vel eit automatisk">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Spør kvar gong">
 <!ENTITY selectCerts.ask.accesskey       "S">
