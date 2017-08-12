@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Ongi etorri zuretzat nabarmendutakoetara">
 <!ENTITY activity_stream_welcome_content1 "Webean deskubritu dituzun gauzak nabarmentzen ditu orain &brandShortName;(e)k, zuretzat garrantzia duten artikulu, bideo, laster-marka eta bestelako orrietara itzultzeko bidea izan dezazun.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Nabigatze pribatua eta jarraipenaren babesa">
+<!ENTITY private_tab_panel_description "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ditu &brandShortName;(e)k.">
+<!ENTITY private_tab_panel_description2 "Ez dugu historiarik gogoratuko baina deskargatutako fitxategiak eta laster-marka berriak zure gailuan gordeko dira halere.">
+<!ENTITY private_tab_learn_more "Argibide gehiago nahi dituzu?">
