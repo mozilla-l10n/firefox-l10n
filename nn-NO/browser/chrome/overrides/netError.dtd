@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Sjå om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li> <li>Dersom du ikkje greier å laste inn nettsider, kontroller at nettverkssambandet til datamaskina er i orden.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Sjå om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li> <li>Dersom du ikkje greier å laste inn nettsider, kontroller at nettverkssambandet til datamaskina er i orden.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
@@ -64,11 +64,11 @@
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Det kan vere at du må installere anna programvare for å opne denne adressa.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at mellomtenaren fungerer.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Proxyserveren godtek ikkje tilkoplingar">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at proxy-innstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at proxyserveren fungerer.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Klarte ikkje å finne mellomtenaren">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Klarte ikkje å finne proxyserveren">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.</li> </ul>">
