@@ -14,6 +14,8 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "לעולם לא">
 
 <!ENTITY  color                           "טקסט ורקע">
+<!ENTITY  textColor2.label                "טקסט">
+<!ENTITY  textColor2.accesskey            "ט">
 <!ENTITY  backgroundColor2.label          "רקע">
 <!ENTITY  backgroundColor2.accesskey      "ר">
 <!ENTITY  useSystemColors.label           "שימוש בצבעי המערכת">

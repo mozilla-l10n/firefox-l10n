@@ -14,6 +14,7 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "א">
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,3 +31,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "הדף בכתובת <span id='phishing_sitename'/> דווח כאתר מטעה ונחסם בהתאם להעדפות האבטחה שלך.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>אתרים מטעים נועדו לגרום לך לבצע פעולות מסוכנות, כמו התקנת תוכנה, חשיפה של מידע אישי כגון ססמאות, מספרי טלפון או כרטיס אשראי.</p><p>הכנסת מידע בדף זה עלולה לגרום לגניבת זהות או הונאה אחרת.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "האתר הבא עלול להכיל נוזקה">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox חסם דף זה מכיוון שייתכן שהוא מנסה להתקין יישומים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

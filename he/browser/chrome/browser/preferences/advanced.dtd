@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "חריגות…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ח">
 
-<!ENTITY offlineAppsList2.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון:">
+<!ENTITY offlineAppsList3.label          "האתרים הבאים מורשים לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "הסר...">
 <!ENTITY offlineAppsListRemove.accesskey "ה">
