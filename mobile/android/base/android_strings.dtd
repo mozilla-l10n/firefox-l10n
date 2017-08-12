@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Прогрессивные веб-приложения">
 <!ENTITY pref_pwa_summary "Разрешить веб-приложениям добавляться на домашний экран">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Лента активности">
-<!ENTITY pref_activity_stream_summary "Наглядная история действий и переосмысленная домашняя страница делают поиск в &brandShortName; именно того, что вы ищете, проще, чем когда-либо прежде.">
-
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
 <!ENTITY tracking_protection_prompt_text "Активно блокируйте элементы отслеживания, чтобы не беспокоиться о слежке.">
 <!ENTITY tracking_protection_prompt_tip_text "Чтобы узнать больше, посетите параметры Приватности">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Удаление моих данных при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
-<!ENTITY pref_plugins "Плагины">
-<!ENTITY pref_plugins_enabled "Включены">
-<!ENTITY pref_plugins_tap_to_play2 "По касанию">
-<!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_restore_tabs "Восстановление вкладок">
 <!ENTITY pref_restore_always "Всегда восстанавливать">
 <!ENTITY pref_restore_quit "Не восстанавливать после выхода из &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Добро пожаловать в Самое интересное">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; теперь отображает самое интересное из того, что вы нашли в Интернете, так что вы сможете быстро вернуться к интересным статьям, видео, закладкам и другим страницам.">
+
+<!ENTITY private_tab_panel_title "Приватный просмотр и Защита от отслеживания">
+<!ENTITY private_tab_panel_description "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
+<!ENTITY private_tab_panel_description2 "Мы не будет запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
+<!ENTITY private_tab_learn_more "Хотите узнать больше?">
