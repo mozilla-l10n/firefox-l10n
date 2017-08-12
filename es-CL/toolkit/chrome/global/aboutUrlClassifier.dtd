@@ -24,8 +24,8 @@
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash completo">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiración de caché positivo">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuración">
-<!ENTITY aboutUrlClassifier.debugModuleBtn              "Ajustar módulos de registro">
-<!ENTITY aboutUrlClassifier.debugFileBtn                "Ajustar archivo de registro">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Establecer módulos de registro">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Establecer archivo de registro">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Ajustar registro JS">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Módulos de registro de navegación segura">
 <!ENTITY aboutUrlClassifier.debugModules                "Módulos de registro actuales">
