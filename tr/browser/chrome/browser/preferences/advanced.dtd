@@ -115,7 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "İstisnalar…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
-<!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir:">
+<!ENTITY offlineAppsList3.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Sil…">
 <!ENTITY offlineAppsListRemove.accesskey "S">

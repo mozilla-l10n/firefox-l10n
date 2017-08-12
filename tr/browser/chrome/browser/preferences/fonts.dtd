@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Yazı tipleri">
 
-<!ENTITY  language.label                          "Yazı tipleri:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  fonts.label                             "Karakter kümesi">
+<!ENTITY  fonts.accesskey                         "K">
 
-<!ENTITY  size.label                              "Boyut:">
+<!ENTITY  size2.label                             "Boyut">
 <!ENTITY  sizeProportional.accesskey              "B">
 <!ENTITY  sizeMonospace.accesskey                 "u">
 
-<!ENTITY  proportional.label                      "Orantılı:">
-<!ENTITY  proportional.accesskey                  "O">
+<!ENTITY  proportional2.label                     "Orantılı">
+<!ENTITY  proportional2.accesskey                 "a">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Eş aralıklı">
+<!ENTITY  monospace2.accesskey                    "E">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Seylanca">
 <!ENTITY  font.langGroup.tibetan                  "Tibet Dili">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize2.label                           "En küçük yazı tipi boyutu">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Yok">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "u">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Eski içerikler için metin kodlaması">
-<!ENTITY languages.customize.Fallback2.label      "Yedek metin kodlaması:">
-<!ENTITY languages.customize.Fallback2.accesskey  "k">
+<!ENTITY languages.customize.Fallback3.label      "Yedek metin kodlaması">
+<!ENTITY languages.customize.Fallback3.accesskey  "d">
 <!ENTITY languages.customize.Fallback2.desc       "Bu metin kodlaması, kendi kodlamasını tanımlayamayan eski içerikler için kullanılır.">
 
 <!ENTITY languages.customize.Fallback.auto        "Geçerli dil için varsayılan">
