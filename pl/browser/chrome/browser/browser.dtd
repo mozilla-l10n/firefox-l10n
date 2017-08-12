@@ -172,23 +172,23 @@
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Wyświetl zapytanie o przechowywanie danych offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Określ, czy zachować hasło">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Zarządzaj wtyczkami używanymi na tej stronie">
-<!ENTITY urlbar.webNotificationAnchor.tooltip "Określ, czy strona ma prawo wyświetlać powiadomienia">
+<!ENTITY urlbar.webNotificationAnchor.tooltip "Określ, czy witryna ma prawo wyświetlać powiadomienia">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Przechowywanie danych na komputerze">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "Przeglądarka jest zdalnie zarządzana">
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej stronie">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie okien i ekranu">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie kamery i mikrofonu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej witrynie">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej witrynie okien i ekranu">
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip "Wyświetl zapytanie instalacji usługi">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip "Przetłumacz tę stronę">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip "Zarządzaj ustawieniami tłumaczenia">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip "Zarządzaj ustawieniami DRM">
-<!ENTITY urlbar.cameraBlocked.tooltip "Udostępnianie kamery tej stronie zostało zablokowane">
-<!ENTITY urlbar.microphoneBlocked.tooltip "Udostępnianie mikrofonu tej stronie zostało zablokowane">
-<!ENTITY urlbar.screenBlocked.tooltip "Udostępnianie obrazu ekranu tej stronie zostało zablokowane">
-<!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej stronie zostało zablokowane">
-<!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tą stronę zostało zablokowane">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej strony zostały zablokowane">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez stronę zostało zablokowane">
+<!ENTITY urlbar.cameraBlocked.tooltip "Udostępnianie kamery tej witrynie zostało zablokowane">
+<!ENTITY urlbar.microphoneBlocked.tooltip "Udostępnianie mikrofonu tej witrynie zostało zablokowane">
+<!ENTITY urlbar.screenBlocked.tooltip "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
+<!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej witrynie zostało zablokowane">
+<!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tę witrynę zostało zablokowane">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej witryny zostały zablokowane">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez witrynę zostało zablokowane">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
 <!ENTITY searchItem.title "Znajdź" >
@@ -731,7 +731,7 @@
 <!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
 <!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
 <!ENTITY trackingContentBlocked.options "Ustawienia">
-<!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej strony">
+<!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej witryny">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "W">
 <!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
 <!ENTITY trackingContentBlocked.block.accesskey "W">
