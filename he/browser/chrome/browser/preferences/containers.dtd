@@ -12,15 +12,14 @@
 <!ENTITY window.title         "הוספת מגירה חדשה">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "שם:">
-<!ENTITY name.accesskey       "ש">
+<!ENTITY name2.label          "שם">
+<!ENTITY name2.accesskey      "ש">
 <!ENTITY name.placeholder     "נא להזין שם מגירה">
-<!ENTITY icon.label           "סמל:">
-<!ENTITY icon.accesskey       "ס">
-<!ENTITY color.label          "צבע:">
-<!ENTITY color.accesskey      "ב">
+<!ENTITY icon2.label          "סמל">
+<!ENTITY icon2.accesskey      "ס">
+<!ENTITY color2.label         "צבע">
+<!ENTITY color2.accesskey     "צ">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "סיום">
 <!ENTITY button.ok.accesskey  "ס">
-

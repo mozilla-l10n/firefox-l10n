@@ -14,17 +14,11 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "לעולם לא">
 
 <!ENTITY  color                           "טקסט ורקע">
-<!ENTITY  textColor.label                 "טקסט:">
-<!ENTITY  textColor.accesskey             "ט">
-<!ENTITY  backgroundColor.label           "רקע:">
-<!ENTITY  backgroundColor.accesskey       "ר">
+<!ENTITY  backgroundColor2.label          "רקע">
+<!ENTITY  backgroundColor2.accesskey      "ר">
 <!ENTITY  useSystemColors.label           "שימוש בצבעי המערכת">
 <!ENTITY  useSystemColors.accesskey       "ה">
 
 <!ENTITY  underlineLinks.label            "סמן קישורים בקו תחתי">
 <!ENTITY  underlineLinks.accesskey        "ס">
 <!ENTITY  links                           "צבעי קישור">
-<!ENTITY  linkColor.label                 "קישורים שלא ביקרתי:">
-<!ENTITY  linkColor.accesskey             "ש">
-<!ENTITY  visitedLinkColor.label          "קישורים שביקרתי:">
-<!ENTITY  visitedLinkColor.accesskey      "ב">

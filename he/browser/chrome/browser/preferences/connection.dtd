@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "מ">
 <!ENTITY  WPADTypeRadio.label           "זיהוי אוטומטי של הגדרות שרת המתווך עבור רשת זו">
 <!ENTITY  WPADTypeRadio.accesskey       "ז">
-<!ENTITY  manualTypeRadio.label         "הגדרות שרת מתווך ידניות:">
-<!ENTITY  manualTypeRadio.accesskey     "ה">
-<!ENTITY  autoTypeRadio.label           "URL לתצורה אוטומטית של שרת מתווך:">
-<!ENTITY  autoTypeRadio.accesskey       "ת">
+<!ENTITY  manualTypeRadio2.label        "הגדרות שרת מתווך ידניות">
+<!ENTITY  manualTypeRadio2.accesskey    "ש">
+<!ENTITY  autoTypeRadio2.label          "כתובת לתצורה אוטומטית של שרת מתווך">
+<!ENTITY  autoTypeRadio2.accesskey      "ת">
 <!ENTITY  reload.label                  "טעינה מחדש">
 <!ENTITY  reload.accesskey              "ט">
-<!ENTITY  ftp.label                     "שרת מתווך FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "שרת מתווך HTTP‏:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "שרת מתווך SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "שרת מארח SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "שרת מתווך FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "שרת מתווך HTTP‏">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "שרת מתווך SSL">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "שרת מארח SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label2         "שימוש ב־DNS דרך מתווך בעת שימוש ב־SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "מ">
-<!ENTITY  port.label                    "שער:">
+<!ENTITY  port2.label                   "שער">
 <!ENTITY  HTTPport.accesskey            "ש">
 <!ENTITY  SSLport.accesskey             "ע">
 <!ENTITY  FTPport.accesskey             "ר">
 <!ENTITY  SOCKSport.accesskey           "ש">
-<!ENTITY  noproxy.label                 "אין צורך בשרת מתווך עבור:">
-<!ENTITY  noproxy.accesskey             "ב">
+<!ENTITY  noproxy2.label                "אין צורך בשרת מתווך עבור">
+<!ENTITY  noproxy2.accesskey            "ב">
 <!ENTITY  noproxyExplain.label          "דוגמה: mozilla.org.,‏ net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "שימוש בשרת מתווך זה עבור כל הפרוטוקולים">
 <!ENTITY  shareproxy.accesskey          "פ">

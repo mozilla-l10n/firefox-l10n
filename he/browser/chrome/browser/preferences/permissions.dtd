@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "ה">
 <!ENTITY removeallpermissions2.label  "הסרת כל האתרים">
 <!ENTITY removeallpermissions2.accesskey "ס">
-<!ENTITY address.label                "כתובת אתר:">
-<!ENTITY address.accesskey            "ת">
+<!ENTITY address2.label               "כתובת אתר">
+<!ENTITY address2.accesskey           "ת">
 <!ENTITY block.label                  "חסום">
 <!ENTITY block.accesskey              "ח">
 <!ENTITY session.label                "הרשה למשך ההפעלה">
