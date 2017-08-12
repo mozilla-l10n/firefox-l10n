@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Ženje">
 
 <!ENTITY  color                           "Tekst a pozadk">
-
-
-
-
+<!ENTITY  textColor2.label                "Tekst">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Pozadk">
+<!ENTITY  backgroundColor2.accesskey      "P">
 <!ENTITY  useSystemColors.label           "Systemowe barby wužiwać">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Wotkazy podšmórnyć">
 <!ENTITY  underlineLinks.accesskey        "m">
 <!ENTITY  links                           "Barby wotkazow">
-
-
-
-
+<!ENTITY  linkColor2.label                "Njewopytane wotkazy">
+<!ENTITY  linkColor2.accesskey            "N">
+<!ENTITY  visitedLinkColor2.label         "Wopytane wotkazy">
+<!ENTITY  visitedLinkColor2.accesskey     "W">
