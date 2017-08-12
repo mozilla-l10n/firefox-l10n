@@ -31,7 +31,7 @@
     <button id='wifi'>Habilitar Wi-Fi</button>
   </li></ul>">
 
-<!ENTITY fileNotFound.title "">
+<!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
   <li>Revisa el nombre del archivo en busca de mayúsculas u otro tipo de errores de tipeo.</li>
   <li>Revisa si el archivo fue movido, renombrado o eliminado.</li>
