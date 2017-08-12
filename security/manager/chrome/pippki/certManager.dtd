@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoritateak">
 <!ENTITY certmgr.tab.orphan2                  "Besteak">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Zu identifikatzen zaituzten erakunde hauen ziurtagiriak dituzu artxibatuta">
+<!ENTITY certmgr.others2                      "Pertsona hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta">
+<!ENTITY certmgr.websites3                    "Zerbitzari hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta">
+<!ENTITY certmgr.cas2                         "Autoritate ziurtagiri-emaile hauek identifikatzen dituzten ziurtagiriak dituzu artxibatuta">
+<!ENTITY certmgr.orphans2                     "Kategoria honetan sailka ezin daitezkeen ziurtagiriak dituzu artxibatuta">
 
 <!ENTITY certmgr.detail.general_tab.title     "Orokorra">
 <!ENTITY certmgr.detail.general_tab.accesskey "O">

@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "y">
 <!ENTITY  WPADTypeRadio.label           "Automatikoki detektatu sare honetako proxy-ezarpenak">
 <!ENTITY  WPADTypeRadio.accesskey       "s">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Eskuzko proxy-konfigurazioa">
+<!ENTITY  manualTypeRadio2.accesskey    "E">
+<!ENTITY  autoTypeRadio2.label          "Proxy-aren konfigurazio automatikoko URLa">
+<!ENTITY  autoTypeRadio2.accesskey      "a">
 <!ENTITY  reload.label                  "Berritu">
 <!ENTITY  reload.accesskey              "B">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "FTP proxy-a">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP proxy-a">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "SSL proxy-a">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "SOCKS ostalaria">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Bideratu DNSa proxy bidez SOCKS v5 erabiltzean">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Ataka">
 <!ENTITY  HTTPport.accesskey            "t">
 <!ENTITY  SSLport.accesskey             "a">
 <!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
+<!ENTITY  noproxy2.label                "Proxy-rik ez hauentzat">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Erabili proxy hau protokolo guztietarako">
 <!ENTITY  shareproxy.accesskey          "x">

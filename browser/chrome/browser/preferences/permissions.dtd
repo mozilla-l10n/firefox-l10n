@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "K">
 <!ENTITY removeallpermissions2.label  "Kendu webgune guztiak">
 <!ENTITY removeallpermissions2.accesskey "e">
-
-
+<!ENTITY address2.label               "Webgunearen helbidea">
+<!ENTITY address2.accesskey           "h">
 <!ENTITY block.label                  "Blokeatu">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Baimendu saiorako">
