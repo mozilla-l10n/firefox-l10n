@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresivní webové aplikace">
 <!ENTITY pref_pwa_summary "Povolit webovým aplikacím přidání na domovskou obrazovku">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Tok událostí">
-<!ENTITY pref_activity_stream_summary "Bohatý vizuální výpis historie a upravená domovská stránka dělají hledání přesně toho, co v aplikaci &brandShortName; chcete, snazší, než kdy dříve.">
-
 <!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
 <!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně více nemusely starat.">
 <!ENTITY tracking_protection_prompt_tip_text "Pro více informací se navštivte nastavení Soukromí">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Vymazat soukromá data při ukončení">
 <!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky">
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
-<!ENTITY pref_plugins "Zásuvné moduly">
-<!ENTITY pref_plugins_enabled "Povoleny">
-<!ENTITY pref_plugins_tap_to_play2 "Spustit po klepnutí">
-<!ENTITY pref_plugins_disabled "Zakázány">
 <!ENTITY pref_restore_tabs "Obnovit panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Vítejte ve vašich Vybraných">
 <!ENTITY activity_stream_welcome_content1 "Aplikace &brandShortName; nyní vytváří výběr věcí, které jste na webu objevili, takže snadno naleznete cestu zpět ke skvělým článkům, videím, záložkám a ostatním stránkám.">
+
+<!ENTITY private_tab_panel_title "Anonymní prohlížení + Ochrana proti sledování">
+<!ENTITY private_tab_panel_description "&brandShortName; blokuje ty součásti stránek, které mohou sledovat vaše chování při prohlížení.">
+<!ENTITY private_tab_panel_description2 "Neukládáme vaši historii prohlížení, pouze stažené soubory a nové záložky zůstanou ve vašem zařízení zachovány.">
+<!ENTITY private_tab_learn_more "Chcete se dozvědět více?">
