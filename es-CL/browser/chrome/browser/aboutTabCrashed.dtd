@@ -20,9 +20,9 @@
 <!ENTITY tabCrashed.requestHelp "¿Nos ayudarías?">
 <!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos nos ayudan a diagnosticar problemas y mejorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar esta pestaña">
-<!ENTITY tabCrashed.sendReport2 "Envíar un reporte de fallos para la pestaña que estas viendo">
+<!ENTITY tabCrashed.sendReport2 "Envía un informe de fallos para la pestaña que estas viendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son visibles públicamente)">
-<!ENTITY tabCrashed.includeURL2 "Incluir URL de la página con el reporte de fallos">
+<!ENTITY tabCrashed.includeURL2 "Incluir URL de la página con el informe de fallos">
 <!ENTITY tabCrashed.emailPlaceholder "Ingresa tu email aquí">
 <!ENTITY tabCrashed.emailMe "Enviarme un email cuando haya más información disponible">
 <!ENTITY tabCrashed.reportSent "Informe de fallos enviado. ¡Gracias por ayudarnos a mejorar &brandShortName;!">

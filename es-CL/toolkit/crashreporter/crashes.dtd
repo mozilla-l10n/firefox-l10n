@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashReports.title         "Reportes de fallos">
-<!ENTITY crashesUnsubmitted.label   "Reportes de fallos no enviados">
-<!ENTITY crashesSubmitted.label     "Reportes de fallos enviados">
+<!ENTITY crashesUnsubmitted.label   "Informes de fallos no enviados">
+<!ENTITY crashesSubmitted.label     "Informes de fallos enviados">
 <!ENTITY id.heading                 "ID del informe">
 <!ENTITY dateCrashed.heading        "Fecha del fallo">
 <!ENTITY dateSubmitted.heading      "Fecha de envío">

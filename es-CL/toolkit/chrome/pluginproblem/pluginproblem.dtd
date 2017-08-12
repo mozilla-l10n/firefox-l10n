@@ -18,7 +18,7 @@
 <!ENTITY reloadPlugin.middle                                 "Recarga la página">
 <!ENTITY reloadPlugin.post                                   " para volver a intentarlo.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Enviar reporte de fallos">
+<!ENTITY report.please                                       "Enviar informe de fallos">
 <!ENTITY report.submitting                                   "Enviando reporte…">
 <!ENTITY report.submitted                                    "Reporte de fallos enviado.">
 <!ENTITY report.disabled                                     "Reporte de fallos desactivado.">
