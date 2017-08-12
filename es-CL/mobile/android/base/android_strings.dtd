@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Aplicaciones web progresivas">
 <!ENTITY pref_pwa_summary "Permitir que las aplicaciones web sean añadidas a la pantalla de inicio">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "Una vista espectacular del historial y una página de inicio reimaginada hacen que sea más fácil que nunca buscar exactamente lo que necesitas en &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de seguimiento">
 <!ENTITY tracking_protection_prompt_text "Bloquea activamente elementos de rastreo para que no te tengas que preocupar.">
 <!ENTITY tracking_protection_prompt_tip_text "Visita los ajustes de privacidad para aprender más">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos siempre que selecciones \u0022Salir\u0022 en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos limpiar">
-<!ENTITY pref_plugins "Complementos">
-<!ENTITY pref_plugins_enabled "Habilitados">
-<!ENTITY pref_plugins_tap_to_play2 "Tocar para usarlos">
-<!ENTITY pref_plugins_disabled "Deshabilitados">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurarlas siempre">
 <!ENTITY pref_restore_quit "No restaurarlas después de salir de &brandShortName;">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea destacados para las cosas que has descubierto en la web para que puedas regresar a los grandes artículos, videos, marcadores y otras páginas que hayas visto.">
+
+<!ENTITY private_tab_panel_title "Navegación privada + protección de seguimiento">
+<!ENTITY private_tab_panel_description "&brandShortName; bloquea partes de las páginas que puede rastrear tu actividad de navegación.">
+<!ENTITY private_tab_panel_description2 "No guardaremos nada del historial, pero las descargas y los nuevos marcadores serán almacenados en tu dispositivo.">
+<!ENTITY private_tab_learn_more "¿Quieres aprender más?">
