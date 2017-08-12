@@ -295,6 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Ngà nari\u0027 URL">
 
+<!ENTITY pref_pwa "Aplikasiûn web chruun">
+<!ENTITY pref_pwa_summary "Ga\&apos;nin da\&apos; naginùn aplikasiûn riña pantâya">
 
 <!ENTITY tracking_protection_prompt_title "hiaj ni gà\u0027 hua arrán riña sa naga\u0027naj a">
 <!ENTITY tracking_protection_prompt_text "Narrán riña daran\u0027 sa ga\u0027ue naga\u0027naj da\u0027 si ganï chì\u0027 ruhuât">
@@ -538,6 +540,7 @@
 <!ENTITY page_removed "Ñanj ngà nare\u0027">
 
 <!ENTITY bookmark_edit_title "Nachrun\u0027 \u0027ngo sa arajsun nichrò\u0027 doj">
+<!ENTITY bookmark_edit_folder_title "Nadunâ sa hua riña karpeta">
 <!ENTITY bookmark_edit_name "Si yugui\u0027">
 <!ENTITY bookmark_edit_location "Dane\u0027 huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
@@ -617,6 +620,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "nanun sîtio">
+<!ENTITY home_unpinned_site "Nu nayi\&apos;nïn sîtio">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Rakïj ñanj doj?">
 <!ENTITY remote_tabs_panel_moved_desc "Nadusiki\u0027 ñuj nej rakïj ñaj arajsunt ngà a\u0027ngô nej aga\u0027 sikà\u0027 ràa ni nachrûn ñuj ma riña \u0027ngo ñanj ayi\u0027ì\u0027 da\u0027 nga na\u0027nïjt \u0027ngo rakíj ñanj nakàa ni se si chì\u0027 narì\u0027t ma.">
@@ -840,3 +845,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\u0027ue nagi\u0027iát nej sa ña\u0027an doj narît riña web da\u0027 ga\u0027ue hìo narì´t nej sa gahiat, sa ni\u0027iajt, ñanj gahiat, ni a\u0027ngô nej sa huaa.">
 
 <!ENTITY private_tab_panel_title "Sa tna\&apos;uej rayi\&apos;ît ngà aché hùit">
+<!ENTITY private_tab_panel_description "&brandShortName; Narràn riña nej pajinâ ga\&apos;ue gi\&apos;iaj yi\&apos;ì sò\&apos;">
+<!ENTITY private_tab_panel_description2 "Si nadigân ñûnj  à\&apos; si\&apos;ngo nuguan\&apos;an, sani nej sa naduninjt ni gananu sà\&apos;aj riña si gaga\&apos;t">
+<!ENTITY private_tab_learn_more "Gini\&apos;înt doj aj">
