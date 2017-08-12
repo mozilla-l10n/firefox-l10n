@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Denne nettsida på <span id='phishing_sitename'/> er rapportert som ei villeiande side og er blokkert basert på sikkerheitsinnstillingane dine.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Villeiande sider er laga for å få deg til å gjere noko farleg, slik som å installere programvare, eller gje frå deg personleg informasjon, som passord, telefonnummer eller kredittkortnummer.</p><p>Å skrive inn noko på denne nettsida kan føre til identitetstjuveri eller annan svindel.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Nettstaden framom kan innehalde skadeleg programvare">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox blokkerte denne sida fordi ho kan prøve å installere farlege program som stel eller slettar informasjonen din (til dømes bilde, passord, meldingar og kredittkort).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
