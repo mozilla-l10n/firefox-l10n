@@ -33,6 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "সবসময় পরীক্ষা করুন &brandShortName; আপনার ডিফল্ট ব্রাউজার কিনা">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "ডিফল্ট করুন…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; আপনার বর্তমান পূর্বনির্ধারিত ব্রাউজার">
 <!ENTITY isNotDefault.label               "&brandShortName; আপনার নির্ধারিত ব্রাউজার নয়">
