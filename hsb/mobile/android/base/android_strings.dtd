@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Witajće k swojim wjerškam">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; wutwori nětko wjerški wěcow, kotrež sće w interneće wotkrył, zo byšće puć wróćo k wulkotnym nastawkam, widejam, zapołožkam a druhim stronam namakał.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Priwatny modus + slědowanski škit">
+<!ENTITY private_tab_panel_description "&brandShortName; blokuje dźěle stronow, kotrež móhli wašu přehladowansku aktiwitu slědować.">
+<!ENTITY private_tab_panel_description2 "Njespomjatkujemy sej žanu historiju, ale sćehnjene dataje a nowe zapołožki so na wašim graće składuja.">
+<!ENTITY private_tab_learn_more "Chceće wjace zhonić?">
