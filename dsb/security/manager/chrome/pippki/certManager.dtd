@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Awtority">
 <!ENTITY certmgr.tab.orphan2                  "Druge">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Maśo certifikaty wót toś tych organizacijow, kótarež was identificěruju">
+<!ENTITY certmgr.others2                      "Maśo certifikaty wó dataji, kótarež identificěruju toś tych luźi">
+<!ENTITY certmgr.websites3                    "Maśo certifikaty w dataji, kótarež identificěruju toś te serwery">
+<!ENTITY certmgr.cas2                         "Maśo certifikaty w dataji, kótarež identificěruju toś te certifikatowe awtority">
+<!ENTITY certmgr.orphans2                     "Maśo certifikaty w dataji, kótarež njepasuju w jadnej z drugich kategorijow">
 
 <!ENTITY certmgr.detail.general_tab.title     "Powšykne">
 <!ENTITY certmgr.detail.general_tab.accesskey "P">

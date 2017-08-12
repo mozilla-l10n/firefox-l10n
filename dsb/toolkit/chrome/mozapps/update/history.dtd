@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "Aktualizaciska historija">
-
+<!ENTITY  history2.intro            "Slědujuce aktualizacije su se zainstalěrowali">
 <!ENTITY  closebutton.label         "Zacyniś">
 
 <!ENTITY  noupdates.label           "Dotychměst žedne aktualizacije zainstalěrowane">
