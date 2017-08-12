@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "d">
 
-<!ENTITY healthReport2.label      "Laporan Sistem &brandShorterName;">
+<!ENTITY healthReport2.label      "Laporan Kesihatan &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
