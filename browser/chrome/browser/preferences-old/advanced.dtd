@@ -44,7 +44,7 @@ available. -->
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 
 <!ENTITY crashReporterDesc2.label         "Los reportes de fallos ayudan a &vendorShortName; a arreglar problemas y hacer tu navegador más estable y seguro">
-<!ENTITY alwaysSubmitCrashReports.label   "Permitir a &brandShortName; enviar reportes de fallos acumulados a tu nombre">
+<!ENTITY alwaysSubmitCrashReports.label   "Permitir a &brandShortName; enviar informes de fallos acumulados a tu nombre">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Aprender más">
 
