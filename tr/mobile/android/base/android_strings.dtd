@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progresif web uygulamaları">
 <!ENTITY pref_pwa_summary "Web uygulamalarının ana ekrana eklenmesine izin ver">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Etkinlik akışı">
-<!ENTITY pref_activity_stream_summary "Zengin bir görsel geçmiş akışı ve yeniden tasarlanan giriş sayfası ile &brandShortName; tarayıcınızda aradığınızı bulmak artık daha da kolay.">
-
 <!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
 <!ENTITY tracking_protection_prompt_text "Endişeye yer kalmasın diye, size izleyen öğeleri aktif bir şekilde engelliyoruz.">
 <!ENTITY tracking_protection_prompt_tip_text "Daha fazla bilgi için Gizlilik ayarlarını ziyaret edin">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Özel verileri çıkışta temizle">
 <!ENTITY pref_clear_on_exit_summary2 "Ana menüden \u0022Çık\u0022ı seçtiğiniz zaman &brandShortName; verilerinizi otomatik olarak temizleyecektir">
 <!ENTITY pref_clear_on_exit_dialog_title "Temizlenecek verileri seçin">
-<!ENTITY pref_plugins "Yan uygulamalar">
-<!ENTITY pref_plugins_enabled "Etkin">
-<!ENTITY pref_plugins_tap_to_play2 "Oynatmak için dokun">
-<!ENTITY pref_plugins_disabled "Devre dışı">
 <!ENTITY pref_restore_tabs "Sekmeleri geri yükle">
 <!ENTITY pref_restore_always "Her zaman geri yükle">
 <!ENTITY pref_restore_quit "&brandShortName; tarayıcısından çıktıktan sonra geri yükleme ">
@@ -851,3 +843,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Öne çıkanlara hoş geldiniz">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; artık daha önce web\&apos;de keşfettiğiniz harika yazıları, videoları, yer imlerini ve diğer sayfaları öne çıkarıyor. Böylece onlara bir kez daha göz atabiliyorsunuz.">
+
+<!ENTITY private_tab_panel_title "Gizli Gezinti + İzlenme Koruması">
+<!ENTITY private_tab_panel_description "&brandShortName;, sayfaların gezinti etkinliğinizi izleyebilecek kısımlarını engeller.">
+<!ENTITY private_tab_panel_description2 "Gezinti geçmişinizi hatırlamayacağız ama indirdiğiniz dosyalar ve yeni yer imleriniz cihazınızda kayıtlı kalacaktır.">
+<!ENTITY private_tab_learn_more "Daha fazla bilgi almak ister misiniz?">
