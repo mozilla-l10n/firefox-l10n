@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Managerul de suplimente">
 
-<!ENTITY search.placeholder                   "Caută în toate suplimentele">
+<!ENTITY search.placeholder                   "Caută toate suplimentele">
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
