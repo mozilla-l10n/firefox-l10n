@@ -15,6 +15,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "א">
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "גורם מייעץ: <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
