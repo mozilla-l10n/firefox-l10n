@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tekstowe kodowanje za zestarjeny wobsah">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Narunanje za tekstowe kodowanje">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Tute tekstowe kodowanje so za zestarjeny wobsah wužiwa, kotryž njemóže swóje kodowanje deklarować.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard za aktualnu lokalu">
