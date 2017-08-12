@@ -110,7 +110,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "নিম্নলিখিত ওয়েবসাইট অফলাইনে ব্যবহারের তথ্য সংরক্ষণের জন্য অনুমোদিত:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "অপসারণ করা হবে… R">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -124,7 +123,9 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "সার্টিফিকেট দেখুন…">
 <!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "নিরাপত্তা ডিভাইস…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "কার্যকারিতা">

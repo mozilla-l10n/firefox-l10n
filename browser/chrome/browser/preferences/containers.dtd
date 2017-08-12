@@ -12,15 +12,14 @@
 <!ENTITY window.title         "নতুন কনটেইনার যোগ">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "নাম:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "নাম">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "একটি কনটেইনার নাম লিখুন">
-<!ENTITY icon.label           "আইকন:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "রঙ:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "আইকন">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "রং">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "সম্পন্ন">
 <!ENTITY button.ok.accesskey  "D">
-
