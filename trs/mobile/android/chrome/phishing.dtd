@@ -3,11 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "¡Giri hiuj nan ñùnj!">
-<!ENTITY safeb.palm.decline.label "Si yakaj guendat sa gataj man">
+<!ENTITY safeb.palm.decline.label "Si yakaj guendât nuguan' nan">
 <!ENTITY safeb.palm.reportPage.label "¿Nuhuin saj narràn riña sitiô nanj?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Sa ruguñu'unj sò' na huin <a id='advisory_provider'/>">
 
-<!ENTITY safeb.blocked.malwarePage.title "¡'Ngo sitiô yi'ìi huin na an!">
+<!ENTITY safeb.blocked.malwarePage.title "Garrán nan riña 'ngo sitiô yi'ìi">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Sitiô gu'naj <span id='malware_sitename'/> huin 'ngo yi'ìi ni narán aga' na ma da' dugumij sò'.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Nej sitio nayi'nïnj ma'an na ni a'nín nej ma programa ga'ue gi'iaj tu nej nuguan' a'min rayi'ît, asi araj sun ma si gaga't da' gi'iaj yi'ì ma si gaga' a'ngô nej duguî'.</p><p>Hua da'aj nej sitio dan ni 'iaj yi'ì ma si gaga't ni a'ngô da'aj ma nayi'nïnj ma'an</p>">

@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Guruhuâ re\u0027 gunumâ re\u0027">
+<!ENTITY firstrun_panel_title_welcome "Guruhuât gunumânt">
 
-<!ENTITY firstrun_urlbar_message "Guruhuât gunumânt ña &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Guruhuât gunumânt riña &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Garusun\u0027 sa nariki chrej da\u0027 hio doj nari\u0027 sa nana\u0027ui\u0027">
-<!ENTITY firstrun_bookmarks_title "Sa gahuin">
+<!ENTITY firstrun_bookmarks_title "Sa gini\&apos;iajt">
 <!ENTITY firstrun_bookmarks_message "Nej sa garan\u0027 ruat doj, ne\u0027ian an ni daniin">
 <!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\u0027 doj da\u0027 nari hio\u0027 doj sa nana\u0027ui\u0027.">
 <!ENTITY firstrun_data_title "Datos">
@@ -839,3 +839,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\u0027an doj \u0027iát">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\u0027ue nagi\u0027iát nej sa ña\u0027an doj narît riña web da\u0027 ga\u0027ue hìo narì´t nej sa gahiat, sa ni\u0027iajt, ñanj gahiat, ni a\u0027ngô nej sa huaa.">
 
+<!ENTITY private_tab_panel_title "Sa tna\&apos;uej rayi\&apos;ît ngà aché hùit">
