@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Rěcy">
-
+<!ENTITY languages.customize2.description               "Webboki stoje wótergi we wěcej nježli jadnej rěcy k dispoziciji. Wubjeŕśo rěcy za pśedstajanje webbokow w swójom preferěrowanem pórěźe">
 <!ENTITY languages.customize.moveUp.label               "Górjej">
 <!ENTITY languages.customize.moveUp.accesskey           "G">
 <!ENTITY languages.customize.moveDown.label             "Dołoj">
