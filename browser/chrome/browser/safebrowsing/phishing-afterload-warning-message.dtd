@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "El sitio en <span id='phishing_sitename'/> ha sido reportado como un sitio fraudulento y ha sido bloqueado en base a tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Las páginas fraudulentas están diseñadas para engañarte para que realices algo peligroso, como por ejemplo instalar software o revelar tu información personal (contraseñas, teléfonos y tarjetas de crédito).</p><p>Ingresar cualquier información en esta página puede resultar en un robo de identidad u otro fraude.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El sitio a continuación pueden contener malware">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox bloqueó esta página porque podría tratar de instalar aplicaciones peligrosas que roban o eliminan tu información (por ejemplo, fotos, contraseñas, mensajes y tarjetas de créditos).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
