@@ -68,7 +68,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at proxy-innstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at proxyserveren fungerer.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Klarte ikkje å finne proxyserveren">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at proxyinnstillingane er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.</li> </ul>">
