@@ -106,7 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Pristupačnost">
 <!ENTITY aboutSupport.a11yActivated "Aktivirano">
 <!ENTITY aboutSupport.a11yForceDisabled "Onemogući pristupačnost">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Korišteni rukovatelj pristupnosti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Inačice biblioteke">
 
@@ -117,14 +117,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobrađene podatke u međuspremnik">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Odbijeni sistemski pozivi">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "prije nekoliko sekundi">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tip procesa">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenti">
 
 <!ENTITY aboutSupport.safeModeTitle "Pokušaj siguran način rada">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ponovno pokreni s isključenim dodacima…">
@@ -138,8 +138,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Onemogućene značajke čuvara rušenja">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zaobilazna rješenja">
 
-
-
+<!ENTITY aboutSupport.mediaTitle "Medij">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Izlazni uređaji">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Ulazni uređaji">
 <!ENTITY aboutSupport.mediaDeviceName "Naziv">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grupa">
 <!ENTITY aboutSupport.mediaDeviceVendor "Prodavač">

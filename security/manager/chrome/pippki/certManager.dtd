@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Agencije">
 <!ENTITY certmgr.tab.orphan2                  "Drugi">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Imate certifikate sljedećih organizacija koje vas identificiraju">
+<!ENTITY certmgr.others2                      "Imate certifikate na datoteci koji identificiraju sljedeće osobe">
+<!ENTITY certmgr.websites3                    "Imate certifikate na datoteci koji identificiraju sljedeće poslužitelje">
+<!ENTITY certmgr.cas2                         "Imate certifikate na datoteci koji identificiraju sljedeće nadležne agencije">
+<!ENTITY certmgr.orphans2                     "Imate certifikate na datoteci koji ne spadaju u preostale kategorije">
 
 <!ENTITY certmgr.detail.general_tab.title     "Općenito">
 <!ENTITY certmgr.detail.general_tab.accesskey "O">

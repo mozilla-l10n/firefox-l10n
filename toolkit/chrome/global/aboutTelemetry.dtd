@@ -44,13 +44,17 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Viseći threadovi">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  uhvaćeni stogovi">
 
+<!ENTITY aboutTelemetry.scalarsSection "  skalari">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  skalari s ključem">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histogrami">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrami s ključem">
 
+<!ENTITY aboutTelemetry.eventsSection "  događaji">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednostavna mjerenja">
 
@@ -62,7 +66,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni neće biti poslali Telemetriji.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Prikupi imena funkcija za stogove">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Prikaži sirove podatke stogova">
 
 <!ENTITY aboutTelemetry.filterText "  Filtriraj (tekst ili /regexp/)">
 
