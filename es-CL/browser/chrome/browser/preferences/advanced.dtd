@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepciones…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Los siguientes sitios web tienen permitido guardar datos para uso sin conexión:">
+<!ENTITY offlineAppsList3.label          "Los siguientes sitios web tienen permitido almacenar datos para uso sin conexión">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "r">

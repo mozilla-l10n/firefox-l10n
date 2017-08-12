@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Tipografías">
 
-<!ENTITY  language.label                          "Tipografías para:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "Fuentes para">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "Tamaño:">
+<!ENTITY  size2.label                             "Tamaño">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcional:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcional">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monoespaciada:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Cingalés">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Tamaño mínimo de tipografía:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Tamaño de fuente mínimo">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Ninguno">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de texto para contenido heredado">
-<!ENTITY languages.customize.Fallback2.label      "Codificación de texto de reemplazo:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Codificación de texto de respaldo">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificación de texto es usada para contenido heredado que falle en declarar su codificación.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predefinido para la localización">
