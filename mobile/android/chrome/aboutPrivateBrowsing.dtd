@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "No estás en navegación privada">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes de las páginas que pueden ser rastreadas mientras navegas.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes de las páginas que puede rastrear tu actividad de navegación.">
 <!ENTITY privatebrowsingpage.description.privateDetails "No guardaremos nada del historial, pero las descargas y los nuevos marcadores serán almacenados en tu dispositivo.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
