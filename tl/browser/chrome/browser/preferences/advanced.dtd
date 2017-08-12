@@ -47,6 +47,7 @@ available. -->
 <!ENTITY clearSiteData.label             "Burahin ang lahat na Data">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Karagdagang kaalaman">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
