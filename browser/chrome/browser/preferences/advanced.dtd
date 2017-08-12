@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY dataCollection.label            "Recolección y uso de datos de &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos por proveerte con opciones y recolectar solo lo que necesitamos para proveer y mejorar &brandShortName; para todos. Siempre solicitamos permiso antes de recibir información personal.">
-<!ENTITY dataCollectionPrivacyNotice.label    "Aviso de privacidad">
+<!ENTITY dataCollectionPrivacyNotice.label    "Política de privacidad">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitir a &brandShortName; enviar reportes de fallos a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
