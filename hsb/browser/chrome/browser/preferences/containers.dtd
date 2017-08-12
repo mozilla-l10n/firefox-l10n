@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Nowy kontejner přidać">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Mjeno">
+<!ENTITY name2.accesskey      "M">
 <!ENTITY name.placeholder     "Zapodajće kontejnerowe mjeno">
-
-
-
-
+<!ENTITY icon2.label          "Symbol">
+<!ENTITY icon2.accesskey      "S">
+<!ENTITY color2.label         "Barba">
+<!ENTITY color2.accesskey     "B">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Hotowo">

@@ -4,18 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Pisma">
 
+<!ENTITY  fonts.label                             "Pisma za">
+<!ENTITY  fonts.accesskey                         "P">
 
-
+<!ENTITY  size2.label                             "Wulkosć">
 <!ENTITY  sizeProportional.accesskey              "l">
 <!ENTITY  sizeMonospace.accesskey                 "k">
 
+<!ENTITY  proportional2.label                     "Proporcionalne">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -49,7 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Singaleziske">
 <!ENTITY  font.langGroup.tibetan                  "Tibetiske">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Minimalna wulkosć pisma">
+<!ENTITY minSize2.accesskey                       "M">
 <!ENTITY minSize.none                             "Žana">
 <!-- default font type -->
 
