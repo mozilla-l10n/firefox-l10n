@@ -10,43 +10,19 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.back.tooltip                     "M-bì~rè thîb loo">
 <!ENTITY cmd.forward.tooltip                  "Gua taa diff loo ngetlu">
 
 
-
-
 <!-- global warnings -->
 
-
-
-
-
-
 <!-- categories / views -->
-
 <!ENTITY view.search.label                    "KwàɁn">
 
-
-
 <!-- addon updates -->
-
-
-
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -54,20 +30,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-
-
-
-
-
-
-
-
-
-
 <!-- addon actions -->
-
 <!ENTITY cmd.findUpdates.label                "GòzăɁl ko kùb">
-<!ENTITY cmd.findUpdates.accesskey            "G">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Kuan lash luu lil">
 <!ENTITY cmd.preferencesWin.accesskey         "K">
 <!ENTITY cmd.preferencesUnix.label            "Koo lash luu">
@@ -75,90 +40,38 @@
 <!ENTITY cmd.about.label                      "Kue nak chan">
 <!ENTITY cmd.about.accesskey                  "K">
 
-
 <!ENTITY cmd.disableAddon.label               "Naa tobb luy">
 <!ENTITY cmd.disableAddon.accesskey           "N">
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY cmd.uninstallAddon.label             "Tee doont naa">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Kuan lash luu lil">
-
-
-
-
-
-
-
-
-
 
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-
 <!-- detail view -->
-
-
-
 <!ENTITY detail.numberOfDownloads.label       "Laay">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY detail.size                          "Xha niey">
 
-
-
-
-
-
 <!ENTITY detail.showPreferencesUnix.label     "Koo lash luu">
 <!ENTITY detail.showPreferencesUnix.accesskey "K">
 
-<!-- ratings -->
-<!-- download/install progress -->
 
+<!-- ratings -->
+
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Bleet">
 <!ENTITY progress.cancel.tooltip              "B-láɁ=y">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Xha mud leel">
 
-
-
-
-
-
-
-
 <!ENTITY search.filter2.label                 "KwàɁn:">
-
-
-
-
-
-
 
 <!ENTITY addon.unknownDate                    "Ngyéntá">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -171,29 +84,15 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
-<!ENTITY addon.update.postfix                 "Li kub">
-
-
-
-
+<!ENTITY addon.update.postfix                 "Lí kùb">
 <!ENTITY addon.restartNow.label               "Bí~rè là kíy nál">
 <!ENTITY addon.install.label                  "Toob baa">
-
-
-
-
-
 <!ENTITY addon.checkingForUpdates.label       "dee kuan koo kub">
 
 
 
-
-
-
-
-
-
 <!ENTITY settings.path.button.label           "Kuan na...">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
@@ -201,26 +100,13 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Lab Kue">
 
-
-
-
 <!ENTITY setting.learnmore "Lab Kue...">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
-
-
-
-
-
 
 

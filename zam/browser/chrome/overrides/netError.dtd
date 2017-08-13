@@ -6,19 +6,14 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Nagad blan página re">
-<!ENTITY retry.label "Bèrè lì">
+<!ENTITY retry.label "Bí~rè lìy">
 <!ENTITY returnToPreviousPage.label "M-bì~rè">
 
 <!-- Specific error messages -->
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.longDesc "">
-
-
-
-
-
-
 
 
 
@@ -34,19 +29,9 @@
 
 
 
-
-
-
-
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-
-
-
-
-
 
 
 
@@ -63,22 +48,17 @@ was trying to connect. -->
 
 
 
-
 <!ENTITY errorReporting.learnMore "Lab Kue...">
-
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
 

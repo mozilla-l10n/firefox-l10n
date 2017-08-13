@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -14,6 +15,7 @@
 <!ENTITY translation.translateThisPage.label    "Zè díʔz?">
 <!ENTITY translation.translate.button           "Zè díʔz">
 <!ENTITY translation.notNow.button              "Nal yenta">
+
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -30,14 +32,11 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "Zè díʔz kùe">
-
 <!ENTITY translation.translatedToSuffix.label   "">
 
 
-
-<!ENTITY translation.tryAgain.button            "Bèrè lì">
+<!ENTITY translation.tryAgain.button            "Bí~rè lìy">
 
 
 <!ENTITY translation.options.menu               "Kuan tak kel xhin">
@@ -49,13 +48,13 @@
 <!ENTITY translation.options.neverForSite.label "Nà Zè=n díʔz">
 <!ENTITY translation.options.neverForSite.accesskey "è">
 
-
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -63,5 +62,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-
 <!ENTITY translation.options.attribution.yandexTranslate "Powered by Yandex. Zè díʔz">

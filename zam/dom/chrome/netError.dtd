@@ -1,20 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY retry.label "Bèrè lì">
+
+<!ENTITY retry.label "Bí~rè lìy">
+
 <!-- Specific error messages -->
 
 
 
 
-
-
 <!ENTITY fileNotFound.title "Yent yêtz">
-
-
-
-
-
 
 
 
@@ -26,22 +21,13 @@
 
 
 
-
-
-
-
-
 <!ENTITY netTimeout.title "Network Timeout">
-
 
 <!ENTITY unknownProtocolFound.title "Ngyéntá Protocolo">
 
-
 <!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
 
-
 <!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-
 
 <!ENTITY redirectLoop.title "Redirect Loop">
 
@@ -50,17 +36,9 @@
 
 
 
-
-
-
-
-
-
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
-
 <!ENTITY remoteXUL.title "Pá dú XUL">
-
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

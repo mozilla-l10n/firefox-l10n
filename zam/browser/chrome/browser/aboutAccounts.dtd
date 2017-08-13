@@ -7,7 +7,4 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Tòlô">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync ndó~làz=lú">
 <!ENTITY aboutAccounts.noConnection.title "Ngyé-n kì">
-
-<!ENTITY aboutAccounts.noConnection.retry "Bèrè lì">
-
-
+<!ENTITY aboutAccounts.noConnection.retry "Bí~rè lìy">
