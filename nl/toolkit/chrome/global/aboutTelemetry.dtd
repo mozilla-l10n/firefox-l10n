@@ -20,6 +20,10 @@ Gearchiveerde ping-gegevens
 Onbewerkte JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Openen in de JSON-viewer van Firefox
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Subsessiegegevens tonen
 ">
@@ -118,6 +122,10 @@ Ouder
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Late schrijfacties
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Onbewerkte nettolading
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
