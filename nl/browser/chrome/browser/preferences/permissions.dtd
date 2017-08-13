@@ -25,3 +25,5 @@
 <!ENTITY button.cancel.accesskey      "n">
 <!ENTITY button.ok.label              "Wijzigingen opslaan">
 <!ENTITY button.ok.accesskey          "s">
+
+<!ENTITY searchbox.placeholder        "Website doorzoeken">
