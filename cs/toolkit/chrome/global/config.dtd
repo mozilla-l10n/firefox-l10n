@@ -14,7 +14,7 @@
 <!ENTITY searchPrefs.label "Hledat:">
 <!ENTITY searchPrefs.accesskey "H">
 <!ENTITY focusSearch.key "r">
-<!ENTITY focusSearch2.key "k">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Název předvolby">
