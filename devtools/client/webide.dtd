@@ -39,13 +39,11 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ค่ากำหนดอุปกรณ์">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
+<!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "ดู">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "เปิด/ปิดตัวแก้ไข">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ซูมเข้า">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ซูมออก">
@@ -65,8 +63,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -116,13 +112,6 @@
 <!ENTITY prefs_restore "เรียกคืนค่าเริ่มต้น">
 <!ENTITY prefs_manage_components "จัดการส่วนประกอบพิเศษ">
 <!ENTITY prefs_options_rememberlastproject "จดจำโครงการล่าสุด">
-<!ENTITY prefs_options_showeditor "แสดงตัวแก้ไข">
-<!ENTITY prefs_options_showeditor_tooltip "แสดงตัวแก้ไขภายใน">
-<!ENTITY prefs_options_tabsize "ขนาดแท็บ">
-<!ENTITY prefs_options_detectindentation_tooltip "กะประมาณการเยื้องขึ้นอยู่กับเนื้อหาต้นฉบับ">
-<!ENTITY prefs_options_autoclosebrackets "ปิดวงเล็บอัตโนมัติ">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "ใส่วงเล็บปิดอัตโนมัติ">
-<!ENTITY prefs_options_keybindings_default "ค่าเริ่มต้น">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">
@@ -140,8 +129,8 @@
 <!ENTITY devicepreference_addnew "เพิ่มค่ากำหนดใหม่">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">
-<!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
+<!ENTITY devicesetting_title "การตั้งค่าอุปกรณ์">
+<!ENTITY devicesetting_search "การตั้งค่าการค้นหา">
 <!ENTITY devicesetting_newname "ชื่อการตั้งค่าใหม่">
 <!ENTITY devicesetting_newtext "ค่าการตั้งค่า">
 <!ENTITY devicesetting_addnew "เพิ่มการตั้งค่าใหม่">

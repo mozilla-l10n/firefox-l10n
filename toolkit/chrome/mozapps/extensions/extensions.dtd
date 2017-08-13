@@ -230,7 +230,7 @@
 <!ENTITY experiment.info.label "สิ่งนี้คืออะไร? การวัดและส่งข้อมูลทางไกลอาจติดตั้งและเรียกใช้การทดลองเป็นครั้งคราว">
 <!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
 <!ENTITY experiment.info.learnmore.accesskey "ร">
-<!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">
+<!ENTITY experiment.info.changetelemetry "การตั้งค่าการวัดและส่งข้อมูลทางไกล">
 <!ENTITY experiment.info.changetelemetry.accesskey "ว">
 
 <!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
@@ -252,3 +252,4 @@
 
 <!ENTITY pluginDeprecation.description "มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนโดย &brandShortName; อีกต่อไป">
 <!ENTITY pluginDeprecation.learnMore "เรียนรู้เพิ่มเติม">
+
