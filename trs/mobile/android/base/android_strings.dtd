@@ -838,7 +838,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Si gui\u0027iaj guendo\u0027">
+<!ENTITY activity_stream_dismiss "Si yakaj guendât">
 <!ENTITY activity_stream_delete_history "Dure\u0027 sa nga ma">
 
 <!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\u0027an doj \u0027iát">
