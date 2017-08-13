@@ -7,6 +7,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
 <!ENTITY aboutTelemetry.raw "JSON non elaborato">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON di Firefox">
 <!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
@@ -32,6 +33,7 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazioni semplici">
 <!ENTITY aboutTelemetry.addonDetailsSection "Dettagli comp. aggiuntivo">
 <!ENTITY aboutTelemetry.lateWritesSection "Scritture ritardate">
+<!ENTITY aboutTelemetry.rawPayloadSection "Payload non elaborato">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
 <!ENTITY aboutTelemetry.fullSqlWarning "ATTENZIONE: il controllo delle istruzioni SQL lente è attivo. Potrebbero essere visualizzate delle stringhe SQL complete ma queste informazioni non verranno trasmesse dalla telemetria.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recupera i nomi delle funzioni per gli stack">
