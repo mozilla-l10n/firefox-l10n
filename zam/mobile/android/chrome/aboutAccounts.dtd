@@ -7,7 +7,6 @@
 <!ENTITY aboutAccounts.syncPreferences.label "Gás kue xa niel xa dob lú">
 
 <!ENTITY aboutAccounts.noConnection.title "Ngyé-n Internet">
-<!ENTITY aboutAccounts.retry.label "Bliy">
 
 <!ENTITY aboutAccounts.restrictedError.title "Gadt yúl">
 <!ENTITY aboutAccounts.restrictedError.description "Gadt li chel kuen lent Firefox.">

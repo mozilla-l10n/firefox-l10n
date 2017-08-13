@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Na gadt ló loo ré">
-<!ENTITY retry.label "Bliy nal">
+<!ENTITY retry.label "Bí~rè lìy">
 
 <!-- Specific error messages -->
 
@@ -44,7 +44,7 @@
 <!ENTITY netOffline.title "Kib internet">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Bliy nal  &brandShortName; lash xal thib loo kub. <button id='wifi'>Habilitar Wi-Fi</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Bí~rè lìy  &brandShortName; lash xal thib loo kub. <button id='wifi'>Habilitar Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Na kap kue">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Te dizh loo re men thus kue yes re.</li> </ul>">
