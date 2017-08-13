@@ -18,7 +18,7 @@
 <!ENTITY firstrun_signin_message "Gú, tòlô">
 <!ENTITY firstrun_signin_button "Gú lèɁn Sync">
 <!ENTITY  onboard_start_button_browser "Tòlô kwàɁn">
-<!ENTITY firstrun_button_notnow "Yenta, na lít lùy nál">
+<!ENTITY firstrun_button_notnow "Ngyé-n ta, na lít lùy nál">
 <!ENTITY firstrun_button_next "Tá thîb vá">
 
 <!ENTITY firstrun_tabqueue_title "Nêt (n̆eza)">
@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Yêts lab lú">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Lá ko kap dú">
-<!ENTITY firstrun_readerview_subtext "Lí che yib ko loo yets na lú xá besta lab lú \ u2014 tak lab niel yent sní.">
+<!ENTITY firstrun_readerview_subtext "Lí che yib ko loo yets na lú xá besta lab lú \ u2014 tak lab niel ngyé-n sní.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Lú">
@@ -90,7 +90,7 @@
 <!ENTITY bookmark_parent_folder "Pá só Yêts">
 <!ENTITY bookmark_add_folder "m-tòb yêts kúb">
 
-<!ENTITY reader_saved_offline "mb-lòɁ sóg this yent sní">
+<!ENTITY reader_saved_offline "mb-lòɁ sóg tìs ngyé-n sní">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -310,7 +310,7 @@
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Bla tak mkey ray lo re yíʔb">
 <!ENTITY tab_queue_prompt_positive_action_button "Toob kiy">
-<!ENTITY tab_queue_prompt_negative_action_button "Nal yenta">
+<!ENTITY tab_queue_prompt_negative_action_button "Nál ngyé-n tá">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_settings_button "Gua thus kuey">
@@ -389,7 +389,7 @@
 <!ENTITY pref_private_data_cookies2 "Cookies ner teɁ-tè">
 <!ENTITY pref_private_data_passwords2 "mb-lòɁ sóg cho lel">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_offlineApps "Yent Internet">
+<!ENTITY pref_private_data_offlineApps "Ngyé-n Internet">
 <!ENTITY pref_private_data_siteSettings2 "Thus kue">
 <!ENTITY pref_private_data_downloadFiles2 "Ko blaál">
 <!ENTITY pref_private_data_syncedTabs "Sync lô (lawo)">
@@ -443,7 +443,7 @@
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Túb ko kub lá">
 <!ENTITY pref_update_autodownload_wifi "WiɁ lô Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Yenta">
+<!ENTITY pref_update_autodownload_never "Ngyé-n tá">
 <!ENTITY pref_update_autodownload_always "Bliy">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -470,7 +470,7 @@
 <!ENTITY close_all_tabs "TòɁw ré-tá lô (lawo)">
 <!ENTITY close_private_tabs "TòɁw lô (lawo)">
 <!ENTITY tabs_normal "Lô (lawo)">
-<!ENTITY tabs_private "Yent cho wiɁ">
+<!ENTITY tabs_private "Ngyé-n cho wiɁ">
 <!ENTITY set_image_fail "Gadt toob moon">
 <!ENTITY set_image_path_fail "Gadt ko sóg mún">
 <!ENTITY set_image_chooser_title "Toob mon re">
@@ -509,12 +509,12 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[Yent lee]">
+<!ENTITY doorhanger_login_no_username "[Ngyé-n lè]">
 <!ENTITY doorhanger_login_edit_title "Thus kue leel">
 <!ENTITY doorhanger_login_edit_username_hint "Cho nak lu">
 <!ENTITY doorhanger_login_edit_password_hint "Dizh luut ta nie">
 <!ENTITY doorhanger_login_edit_toggle "Blo dizh luut ta nie">
-<!ENTITY doorhanger_login_select_message "¿Lí chop dizh yent cho nie loo &formatS;?">
+<!ENTITY doorhanger_login_select_message "¿Lí chop dizh ngyé-n cho nie loo &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Blil na chopa">
 <!ENTITY doorhanger_login_select_action_text "B-šèn tà thîb lél">
 <!ENTITY doorhanger_login_select_title "Lí chop dish ré lent">
@@ -535,7 +535,7 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Yent kue">
+<!ENTITY page_removed "Ngyé-n kúe">
 
 <!ENTITY bookmark_edit_title "Thus kue ko ndó~làz=ná">
 <!ENTITY bookmark_edit_folder_title "Tùs kùe Yêts">
@@ -562,7 +562,7 @@
 <!ENTITY button_ok "Bliy">
 <!ENTITY button_cancel "B-láɁ=y">
 <!ENTITY button_yes "ăɁ">
-<!ENTITY button_no "Yenta">
+<!ENTITY button_no "Ngyé-n tá">
 <!ENTITY button_clear_data "Te dont reey">
 <!ENTITY button_set "Thus kúe">
 <!ENTITY button_clear "Tó bíy">
@@ -645,7 +645,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Yent cho niel">
+<!ENTITY identity_connection_secure "Ngyé-n chó niel">
 <!ENTITY identity_connection_insecure "Re men tak niel">
 <!ENTITY identity_connection_chromeui "Gú tré &brandShortName;">
 
@@ -819,7 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_message "wiɁ lô Reader View lent ko do lash lú, tak lí lí this yent sní.">
 <!ENTITY helper_first_offline_bookmark_button "Gua té xó ndó~làz=ná">
 
-<!ENTITY helper_triple_readerview_open_title "Tak lab lú niel yent sní">
+<!ENTITY helper_triple_readerview_open_title "Tak lab lúl, niel ngyé-n sní">
 <!ENTITY helper_triple_readerview_open_message "Lab ko do lash lú niel yent sní.">
 <!ENTITY helper_triple_readerview_open_button "M-tòb lent ndó~làz=ná">
 
