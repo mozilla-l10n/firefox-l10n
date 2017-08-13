@@ -14,17 +14,11 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Majub'ey">
 
 <!ENTITY  color                           "Rucholajem tzij chuqa' rupam">
-<!ENTITY  textColor.label                 "Rucholajem tzij:">
-<!ENTITY  textColor.accesskey             "R">
-<!ENTITY  backgroundColor.label           "Rupam:">
-<!ENTITY  backgroundColor.accesskey       "R">
+<!ENTITY  backgroundColor2.label          "Rupam">
 <!ENTITY  useSystemColors.label           "Ke'okisäx ri taq rub'onil q'inoj">
 <!ENTITY  useSystemColors.accesskey       "a">
 
 <!ENTITY  underlineLinks.label            "Tijux kixe' ri ximonela'">
 <!ENTITY  underlineLinks.accesskey        "T">
 <!ENTITY  links                           "Kib'onil ri taq ximonel">
-<!ENTITY  linkColor.label                 "Manjun etz'eton ri taq ximöy:">
-<!ENTITY  linkColor.accesskey             "x">
-<!ENTITY  visitedLinkColor.label          "Taq ximonel etz'eton:">
-<!ENTITY  visitedLinkColor.accesskey      "e">
+<!ENTITY  linkColor2.label                "Manjun etz'eton ri taq ximöy">
