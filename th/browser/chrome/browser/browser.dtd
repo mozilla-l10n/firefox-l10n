@@ -264,8 +264,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "เครื่องมือ">
 <!ENTITY toolsMenu.accesskey          "ค">
 
-<!ENTITY keywordfield.label           "ใส่คำสำคัญเพื่อค้นหา…">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.label           "เพิ่มคำสำคัญสำหรับการค้นหานี้…">
+<!ENTITY keywordfield.accesskey       "พ">
 
 <!ENTITY downloads.label              "ดาวน์โหลด">
 <!ENTITY downloads.accesskey          "ด">
@@ -822,7 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.label              "เปิดทั้งหมดในแท็บ">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ป">
 <!ENTITY syncedTabs.context.managedevices.label              "จัดการอุปกรณ์…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "อ">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "จ">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -907,7 +907,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY trackingContentBlocked.options "ตัวเลือก">
 <!ENTITY trackingContentBlocked.unblock2.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "ด">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ป">
 <!ENTITY trackingContentBlocked.block.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingContentBlocked.block.accesskey "ป">
 <!ENTITY trackingContentBlocked.disabled.message "การป้องกันการติดตามถูกปิดใช้งาน">
