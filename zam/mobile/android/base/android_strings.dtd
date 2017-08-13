@@ -29,7 +29,7 @@
 <!ENTITY firstrun_tabqueue_message_on "Kuan mxhác!">
 <!ENTITY firstrun_tabqueue_subtext_on "Tak tuy lú kue this yaál &settings; lá ner &pref_category_general;.">
 
-<!ENTITY firstrun_readerview_title "Yets lab lú">
+<!ENTITY firstrun_readerview_title "Yêts lab lú">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Lá ko kap dú">
 <!ENTITY firstrun_readerview_subtext "Lí che yib ko loo yets na lú xá besta lab lú \ u2014 tak lab niel yent sní.">
@@ -186,8 +186,8 @@
 <!ENTITY pref_category_installed_search_engines "Dob la kue">
 <!ENTITY pref_category_add_search_providers "M-tòb yíʔb ko kwàɁn~lú">
 <!ENTITY pref_category_search_restore_defaults "bí~rè kwàɁn">
-<!ENTITY pref_search_restore_defaults "Verey xha gol la">
-<!ENTITY pref_search_restore_defaults_summary "Tob be tes xha gol la">
+<!ENTITY pref_search_restore_defaults "bí~rè xha mgól lá">
+<!ENTITY pref_search_restore_defaults_summary "bí~rè xha mgól lá">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -214,7 +214,7 @@
 <!ENTITY pref_category_home_panels "Loo">
 <!ENTITY pref_category_home_add_ons "M-tòb ko-kùb">
 <!ENTITY pref_home_updates2 "Li kub">
-<!ENTITY pref_home_updates_enabled "Toob kiy">
+<!ENTITY pref_home_updates_enabled "M-tòb kíy">
 <!ENTITY pref_home_updates_wifi "mä Wi-Fi">
 <!ENTITY pref_category_home_homepage "Lìz (leNtyeN)">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -238,7 +238,7 @@
 <!ENTITY home_homepage_hint_user_address "M-tòb pa dúl o pa yal">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Ree ta">
+<!ENTITY pref_header_general "Ré-ta">
 <!ENTITY pref_header_search "KwàɁn">
 <!ENTITY pref_header_privacy_short "Lut ta güiy">
 <!ENTITY pref_header_accessibility "Xha mud yul">
