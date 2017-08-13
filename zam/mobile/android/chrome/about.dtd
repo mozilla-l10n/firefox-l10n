@@ -8,7 +8,7 @@
 <!ENTITY aboutPage.telemetryEnd                 " this lash lo besta níe &brandShortName; mké xhin.">
 <!ENTITY aboutPage.checkForUpdates.link         "Dee kuan koo kub »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Güi ko kub...">
-<!ENTITY aboutPage.checkForUpdates.none         "Yent ko kub">
+<!ENTITY aboutPage.checkForUpdates.none         "Ngyé-n ko kùb">
 <!ENTITY aboutPage.checkForUpdates.available2   "Bla ko kub">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Bla ko kub...">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Tob ko kub">
@@ -19,6 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "Yets dedizh">
 <!ENTITY aboutPage.credits.label                "Cho thus kuey">
 <!ENTITY aboutPage.license.label                "Cho thus kuey">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox nak chan Fundación Mozilla.">

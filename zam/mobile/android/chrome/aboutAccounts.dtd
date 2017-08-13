@@ -6,7 +6,7 @@
 <!ENTITY aboutAccounts.connected.description "Dob lú lent">
 <!ENTITY aboutAccounts.syncPreferences.label "Gás kue xa niel xa dob lú">
 
-<!ENTITY aboutAccounts.noConnection.title "Yent Internet">
+<!ENTITY aboutAccounts.noConnection.title "Ngyé-n Internet">
 <!ENTITY aboutAccounts.retry.label "Bliy">
 
 <!ENTITY aboutAccounts.restrictedError.title "Gadt yúl">

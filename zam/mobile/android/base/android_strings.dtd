@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Gua té xó ndó~làz=ná">
 
 <!ENTITY helper_triple_readerview_open_title "Tak lab lúl, niel ngyé-n sní">
-<!ENTITY helper_triple_readerview_open_message "Lab ko do lash lú niel yent sní.">
+<!ENTITY helper_triple_readerview_open_message "Lab ko do lash lú niel ngyé-n sní.">
 <!ENTITY helper_triple_readerview_open_button "M-tòb lent ndó~làz=ná">
 
 <!ENTITY activity_stream_topsites "Ko wiɁ=l">

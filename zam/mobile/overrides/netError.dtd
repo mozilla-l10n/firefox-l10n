@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Na gadt ló loo ré">
 <!ENTITY retry.label "Bliy nal">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Gadt tob kí kue">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -16,12 +16,12 @@
 <!ENTITY deniedPortAccess.title "Gadt yul lent ree">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Yent kue">
+<!ENTITY dnsNotFound.title "Ngyé-n kùe">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>Güil cho dizh kap mkel <strong>ww</strong>.loo.com nó nakin gáb bá <strong>www</strong>.loo.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Kuan</button> </div> <li>Güi cho tak lab lu loo re, güi cho lí che Wi-Fi na lú. <button id='wifi'>Lá kí Wi-Fi</button> </li> </ul>">
 
-<!ENTITY fileNotFound.title "Yent yêtz">
+<!ENTITY fileNotFound.title "Ngyé-n yêtz">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Güi cho besta mkel lé yets na lú.</li> <li>Güi cho tre ka xóg, ná xént lu le ní o mtedon luy.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Gadt yul lent yêtz">
@@ -38,8 +38,8 @@
 <!ENTITY netInterrupt.title "Bruy">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY notCached.title "Yent yêtz">
-<!ENTITY notCached.longDesc "<p>Yent yets lent &brandShortName;’s cache.</p><ul><li>Tlás gu lent , &brandShortName; gadt liay thhib tá.</li><li>Gash ah nal xá güil lí lo ree.</li></ul>">
+<!ENTITY notCached.title "Ngyé-n yêtz">
+<!ENTITY notCached.longDesc "<p>Ngyé-n yêts lent &brandShortName;’s cache.</p><ul><li>Tlás gu lent , &brandShortName; gadt liay thhib tá.</li><li>Gash ah nal xá güil lí lo ree.</li></ul>">
 
 <!ENTITY netOffline.title "Kib internet">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -58,7 +58,7 @@
 <!ENTITY netTimeout.title "Brit lá kue">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Yent men ree">
+<!ENTITY unknownProtocolFound.title "Ngyé-n men rè">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Tak lí chel toob ta thib yib kub xá tak xál lu kue.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy na tial tiob">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Na gadt tiob lú lent tree">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>This could be a problem with the server’s configuration, or it could be someone trying to impersonate the server.</li> <li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Gadt xál na loo reé. líy será.</li> <li>This níe thib vá xal güi cho dob ki Wi-Fi  na lú. <button id='wifi'>Tob kí Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Na tak xial lo kue">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Tal lal kue...">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Blú dab na tree!">
 <!ENTITY securityOverride.exceptionButtonLabel "M-tòb ko kùb...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
