@@ -11,8 +11,8 @@
 <!ENTITY  noupdatesautodisabled.intro     "ไม่มีการอัปเดตที่ใช้งานได้ โปรดตรวจสอบอีกครั้งในภายหลังหรือเปิดใช้งานการตรวจสอบการอัปเดตอัตโนมัติของ &brandShortName;">
 
 <!ENTITY  manualUpdate.title              "ไม่สามารถอัปเดต">
-<!ENTITY  manualUpdate.desc               "มีการอัปเดตความปลอดภัยและความเสถียรที่แนะนำ แต่คุณไม่มีสิทธิในระบบที่ต้องการสำหรับติดตั้ง โปรดติดต่อผู้ดูแลระบบของคุณ หรือลองอีกครั้งจากบัญชีที่มีสิทธิติดตั้งซอฟต์แวร์บนคอมพิวเตอร์นี้">
-<!ENTITY  manualUpdate.space.desc         "มีการอัปเดตความปลอดภัยและความเสถียรที่ใช้งานได้ แต่คุณไม่มีพื้นที่เพียงพอสำหรับติดตั้ง">
+<!ENTITY  manualUpdate.desc               "มีการอัปเดตความปลอดภัยและเสถียรภาพที่แนะนำ แต่คุณไม่มีสิทธิในระบบที่ต้องการสำหรับติดตั้ง โปรดติดต่อผู้ดูแลระบบของคุณ หรือลองอีกครั้งจากบัญชีที่มีสิทธิติดตั้งซอฟต์แวร์บนคอมพิวเตอร์นี้">
+<!ENTITY  manualUpdate.space.desc         "มีการอัปเดตความปลอดภัยและเสถียรภาพที่ใช้งานได้ แต่คุณไม่มีพื้นที่เพียงพอสำหรับติดตั้ง">
 <!ENTITY  manualUpdateGetMsg.label        "คุณสามารถรับ &brandShortName; รุ่นล่าสุดได้เสมอที่:">
 
 <!ENTITY  unsupported.title               "ระบบไม่รองรับ">
@@ -45,7 +45,7 @@
 <!ENTITY  finishedPage.title              "การอัปเดตพร้อมติดตั้ง">
 <!ENTITY  finishedPage.text               "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
 
-<!ENTITY  finishedBackgroundPage.text     "การอัปเดตความปลอดภัยและความเสถียรสำหรับ &brandShortName; ถูกดาวน์โหลดแล้วและพร้อมติดตั้ง">
+<!ENTITY  finishedBackgroundPage.text     "การอัปเดตความปลอดภัยและเสถียรภาพสำหรับ &brandShortName; ถูกดาวน์โหลดแล้วและพร้อมติดตั้ง">
 <!ENTITY  finishedBackground.name         "อัปเดต:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">

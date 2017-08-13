@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "โปรดระวัง แก้แล้วพังเราจะไม่รับผิดชอบนะ!">
-<!ENTITY aboutWarningText.label "การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อความเสถียร ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น">
+<!ENTITY aboutWarningText.label "การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อเสถียรภาพ ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น">
 <!ENTITY aboutWarningButton2.label "ฉันยอมรับความเสี่ยง!">
 <!ENTITY aboutWarningCheckbox.label "แสดงคำเตือนนี้ในครั้งถัดไป">
 
