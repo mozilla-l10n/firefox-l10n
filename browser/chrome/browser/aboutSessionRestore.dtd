@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "ជោគជ័យ!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; អាច​ចាប់ផ្ដើម​បាន។">
 
-<!ENTITY welcomeback2.label.restoreAll  "ស្ដារ​បង្អួច និង​ផ្ទាំង​ទាំងអស់">
-<!ENTITY welcomeback2.label.restoreSome "ស្ដារ​តែ​អ្វី​ដែល​ចង់បាន​ប៉ុណ្ណោះ">
+<!ENTITY welcomeback2.restoreAll.label  "ស្ដារ​ផ្ទាំង &amp;បង្អួច​ទាំងអស់">
+<!ENTITY welcomeback2.restoreSome.label "ស្ដារ​តែ​អ្វី​ដែល​អ្នក​ចង់បាន​ប៉ុណ្ណោះ">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
