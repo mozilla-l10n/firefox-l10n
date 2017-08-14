@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
-
+<!ENTITY appMenuHistory.recentHistory.label "Közelmúltbeli előzmények">
 <!ENTITY appMenuHelp.label "Súgó">
 <!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 
@@ -859,23 +859,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témák letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 
-
+<!ENTITY customizeMode.uidensity "Sűrűség">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normál">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normál">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Érintés">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Érintés">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "r">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Érintés használata a táblagép módhoz">
 
 <!ENTITY getUserMedia.selectCamera.label "Megosztandó kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -985,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Újraindítás a &brandShorterName; frissítéséhez">
 
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
+<!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
+<!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
 
-
-
-
+<!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">

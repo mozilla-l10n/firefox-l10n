@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "Frissítési előzmények">
-
+<!ENTITY  history2.intro            "A következő frissítések lettek telepítve">
 <!ENTITY  closebutton.label         "Bezárás">
 
 <!ENTITY  noupdates.label           "Még nem volt frissítés telepítve">

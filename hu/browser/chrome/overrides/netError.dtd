@@ -69,7 +69,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ellenőrizze a proxybeállításokat, hogy helyesek-e.</li> <li>Ellenőrizze, hogy a számítógép hálózati kapcsolata működik-e.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Az oldal nem megfelelően van átirányítva">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Ez a probléma néha a letiltott vagy visszautasított sütik miattjelentkezik.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ez a probléma néha a letiltott vagy visszautasított sütik miatt jelentkezik.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Váratlan válasz a kiszolgálótól">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Ellenőrizze, hogy a rendszerre telepítve van-e a Personal Security Manager modul.</li> <li>A hibát okozhatja a kiszolgáló nem szabványos beállítása is.</li> </ul>">
