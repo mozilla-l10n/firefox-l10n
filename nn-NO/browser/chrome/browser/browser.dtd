@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "d">
 <!ENTITY viewCustomizeToolbar.label       "Tilpass…">
 <!ENTITY viewCustomizeToolbar.accesskey     "T">
-<!ENTITY overflowCustomizeToolbar.label       "Tilpass verktøylinje…">
+<!ENTITY overflowCustomizeToolbar.label       "Tilpass verktøylinja…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "T">
 
 <!ENTITY historyMenu.label "Historikk">
