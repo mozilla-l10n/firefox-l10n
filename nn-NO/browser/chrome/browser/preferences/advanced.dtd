@@ -139,7 +139,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Bruk tilrådde ytings-innstillingar">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "Desse innstillingane er skreddarsydd til datamaskinas maskinvare og operativsystem.">
+                                         "Desse innstillingane er skreddarsydde for maskinvare og operativsystem i datamaskina di.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "B">
 <!ENTITY performanceSettingsLearnMore.label
