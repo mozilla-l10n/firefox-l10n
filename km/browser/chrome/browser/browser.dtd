@@ -853,15 +853,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "យក​រូបរាង​ច្រើនទៀត">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "អូស រួច​ទម្លាក់​ធាតុ​នៅ​ទីនេះ​ដើម្បី​ងាយស្រួល​ប្រើ ប៉ុន្តែ​វា​នៅ​ក្រៅ​របា​ឧបករណ៍​របស់​អ្នក…">
+<!ENTITY customizeMode.uidensity "ដង់ស៊ីតេ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "ធម្មតា">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ធម្មតា">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "បង្ហាប់">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "បង្ហាប់">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "ប៉ះ">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "ប៉ះ">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ប្រើ​ការ​ប៉ះ​សម្រាប់​របៀប​ថេប្លេត">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -972,3 +984,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
 
+<!ENTITY sendToDevice.syncNotReady.label "កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…">
