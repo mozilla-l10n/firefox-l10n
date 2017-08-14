@@ -22,6 +22,7 @@
 
 <!ENTITY  viewDetails.tooltip             "Tingnan ang mga detalye para sa update na ito">
 
+<!ENTITY  details.link                    "Mga detalye">
 
 
 <!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ngupdate. &brandShortName; hindi ma-update dahil:">
@@ -35,5 +36,6 @@
 <!ENTITY  finishedBackground.name         "I-update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
+<!ENTITY  update.details.label            "Mga detalye">
 <!ENTITY  update.installedOn.label        "Na-install noong:">
 <!ENTITY  update.status.label             "Estado:">
