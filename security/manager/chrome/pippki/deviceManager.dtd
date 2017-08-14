@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu.">
-
-
+<!ENTITY loaddevice.modname2                    "Enw Modiwl">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Modiwl newydd PKCS#11">
-
-
+<!ENTITY loaddevice.filename2                   "Enw ffeil modiwl">
+<!ENTITY loaddevice.filename2.accesskey         "E">
 <!ENTITY loaddevice.browse                      "Pori…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
