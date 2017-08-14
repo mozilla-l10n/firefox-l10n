@@ -51,11 +51,11 @@
 
 <!ENTITY  acceptThirdParty2.pre.label     "接受第三方 Cookie">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
-<!ENTITY  acceptThirdParty.always.label   "总是">
-<!ENTITY  acceptThirdParty.never.label    "总不">
+<!ENTITY  acceptThirdParty.always.label   "始终">
+<!ENTITY  acceptThirdParty.never.label    "永不">
 <!ENTITY  acceptThirdParty.visited.label  "来自访问过的网站">
 
-<!ENTITY  keepUntil2.label              "保存，直到：">
+<!ENTITY  keepUntil2.label              "保存，直到">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "它们过期">
