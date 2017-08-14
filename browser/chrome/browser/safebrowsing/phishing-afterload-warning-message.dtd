@@ -32,3 +32,6 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> web sayfasının aldatıcı bir sayfa olduğu ihbar edilmiştir. Sayfa, güvenlik tercihlerinize dayanılarak engellendi.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aldatıcı siteler, tehlikeli bir şey yapmanız için sizi kandırmak üzere tasarlanmıştır. Örneğin yazılım yüklemenizi veya parola, telefon numarası, kredi kartı gibi kişisel bilgilerinizi paylaşmanızı isteyebilirler.</p><p>Bu sayfaya herhangi bir bilgi verirseniz bu bilgileriniz çalınabilir veya sahtekârlık amacıyla kullanılabilir.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Bu sitede kötü amaçlı yazılımlar olabilir">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Bu sayfa, kişisel bilgilerinizi (örneğin fotoğraflar, parolalar, mesajlar ve kredi kartları) çalmak veya silmek isteyen uygulamalar yüklemeye çalışabilir. O yüzden Firefox bu sayfayı engelledi.">
