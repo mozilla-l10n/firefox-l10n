@@ -212,7 +212,7 @@
 <!ENTITY pref_category_home "Riñan gayi\u0027ij">
 <!ENTITY pref_category_home_summary "Naduna dàj garan\u0027 ruhuât riña ñanj ayi\u0027ìt">
 <!ENTITY pref_category_home_panels "Riñan guiri nu\u0027un\u0027">
-<!ENTITY pref_category_home_add_ons "Nutò\u0027sa ruguj ñu\u0027unj">
+<!ENTITY pref_category_home_add_ons "Sa nagi\&apos;iaj hue\&apos;e doj">
 <!ENTITY pref_home_updates2 "nagui\u0027iaj nako\u0027 sa ma na">
 <!ENTITY pref_home_updates_enabled "Ngà \u0027iaj sunj">
 <!ENTITY pref_home_updates_wifi "Man nga Wi-Fi">
@@ -244,7 +244,7 @@
 <!ENTITY pref_header_accessibility "Huaj gatu\u0027">
 <!ENTITY pref_header_notifications "Sa ataj na\u0027anj">
 <!ENTITY pref_header_advanced "Sa huaj ñaan">
-<!ENTITY pref_header_help "Ruguñu\u0027unj">
+<!ENTITY pref_header_help "Sa rugujñu\&apos;unj">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
@@ -430,7 +430,6 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;  Sa nata\u0027 rayi\u0027î nej sa hua a\u0027na\u0027an">
-<!ENTITY datareporting_fhr_summary2 "Garasun nuguan\u0027àn dâto ngà &vendorShortName; yi\u0027î dàj hìo \u0027iaj sun sa riña aché nut da\u0027 rugujñu\u0027un sò\u0027 dàj garasun hue\u0027êt ma doj">
 <!ENTITY datareporting_abouthr_title "Ni\u0027iâ dàj hua rayi\u0027î">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Garasun nugun\u0027ùn\u0027 dàj nùkuaj ma, daj araj sun\u0027 ma, si gaga\u0027aj ni nej nuguan\u0027 gachrûn\u0027 rayi\u0027î\u0027 nga gayi\u0027i\u0027 gaché nu\u0027 ngà &vendorShortName; da\u0027 ruguñu\u0027unjt ñuj &brandShortName; nagi\u0027iaj hue\u0027ê ñuj">
