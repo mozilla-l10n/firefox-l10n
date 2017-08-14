@@ -844,6 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Üdvözöljük a Kiemeléseknél">
 <!ENTITY activity_stream_welcome_content1 "A &brandShortName; kiemeléseket készít a weben felfedezett tartalmakról, így könnyedén visszatalálhat a remek cikkekhez, videókhoz, könyvjelzőkhöz és más oldalakhoz.">
 
-
-
-
+<!ENTITY private_tab_panel_title "Privát böngészés + követés elleni védelem">
+<!ENTITY private_tab_panel_description "A &brandShortName; blokkolja az oldalak olyan részeit, amelyek követhetik az Ön böngészési tevékenységét.">
+<!ENTITY private_tab_panel_description2 "Nem jegyzünk meg előzményeket, de a letöltött fájlok és az új könyvjelzők továbbra is a készülékére lesznek mentve.">
+<!ENTITY private_tab_learn_more "Szeretne többet tudni?">
