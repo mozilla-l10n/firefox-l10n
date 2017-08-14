@@ -17,6 +17,6 @@
 <!ENTITY switchLinksToNewTabs.label        "Apabila anda membuka pautan dalam tetingkap baharu, tukar terus kepadanya">
 <!ENTITY switchLinksToNewTabs.accesskey    "r">
 
-<!ENTITY showTabsInTaskbar.label          "Papar previu tab dalam Tetingkap taskbar">
+<!ENTITY showTabsInTaskbar.label          "Papar previu tab dalam Tetingkap bar tugasan">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "Tab">
