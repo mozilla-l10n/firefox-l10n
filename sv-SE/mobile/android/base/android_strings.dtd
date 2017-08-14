@@ -846,4 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Privat surfning + spårningsskydd">
 <!ENTITY private_tab_panel_description "&brandShortName; blockerar delar av sidor som kan spåra din surfningsaktivitet.">
+<!ENTITY private_tab_panel_description2 "Vi kommer inte komma ihåg någon historik, men nedladdade filer och nya bokmärken sparas fortfarande på din enhet.">
 <!ENTITY private_tab_learn_more "Vill du veta mer?">
