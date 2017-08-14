@@ -16,4 +16,6 @@
 
 <!ENTITY noPermissionError.label "Wala kayong pahintulot na tingnan ang directory na ito.">
 
+<!ENTITY folderUp.tooltiptext   "Pumunta sa isang antas">
+<!ENTITY folderHome.tooltiptext "Pumunta sa home">
 <!ENTITY folderNew.tooltiptext  "Gumawa ng bagong direktory">
