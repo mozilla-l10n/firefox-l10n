@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Progressieve webapps">
 <!ENTITY pref_pwa_summary "Toestaan dat webapps aan het startscherm worden toegevoegd">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activiteitenstroom">
-<!ENTITY pref_activity_stream_summary "Een rijke visuele geschiedenisfeed en een opnieuw opgezette startpagina maken het makkelijker dan ooit om in &brandShortName; precies dat te vinden wat u zoekt">
-
 <!ENTITY tracking_protection_prompt_title "Nu met Bescherming tegen volgen">
 <!ENTITY tracking_protection_prompt_text "Blokkeer actief volgelementen, zodat u zich geen zorgen hoeft te maken.">
 <!ENTITY tracking_protection_prompt_tip_text "Bezoek Privacyinstellingen voor meer info">
