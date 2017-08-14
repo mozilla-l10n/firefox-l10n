@@ -8,13 +8,18 @@
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.history.label       "Lược sử">
 <!ENTITY engine.history.accesskey   "L">
+<!ENTITY engine.logins.label        "Đăng nhập">
 <!ENTITY engine.prefs.label         "Tùy chỉnh">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Tiện ích">
 <!ENTITY engine.addons.accesskey    "T">
+<!ENTITY engine.addresses.label     "Địa chỉ">
+<!ENTITY engine.creditcards.label   "Thẻ tín dụng">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Tên thiết bị">
+<!ENTITY changeSyncDeviceName2.label "Thay đổi tên thiết bị…">
+<!ENTITY cancelChangeSyncDeviceName.label "Hủy">
 <!ENTITY saveChangeSyncDeviceName.label "Lưu">
 <!ENTITY saveChangeSyncDeviceName.accesskey "u">
 
@@ -44,14 +49,19 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Đổi hình hồ sơ">
 <!ENTITY verifiedManage.label        "Quản lý tài khoản">
 <!ENTITY verifiedManage.accesskey    "k">
+<!ENTITY disconnect3.label           "Ngắt kết nối…">
 <!ENTITY verify.label                "Xác minh email">
 <!ENTITY verify.accesskey            "X">
 <!ENTITY forget.label                "Quên email này">
 <!ENTITY forget.accesskey            "Q">
 
+<!ENTITY signedOut.caption            "Mang trang web theo bạn">
 <!ENTITY signedOut.description        "Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.">
 <!ENTITY signedOut.accountBox.title   "Kết nối với một &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Tạo tài khoản">
+<!ENTITY signedOut.accountBox.signin  "Đăng nhập">
 
+<!ENTITY signedIn.settings.label       "Cài đặt đồng bộ hóa">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
