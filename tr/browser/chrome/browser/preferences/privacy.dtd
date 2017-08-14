@@ -35,6 +35,8 @@
 
 <!ENTITY  addressBar.label              "Adres çubuğu">
 <!ENTITY  addressBar.suggest.label      "Adres çubuğunu kullanırken şunları öner:">
+<!ENTITY  locbar.history2.label         "Gezinti geçmişi">
+<!ENTITY  locbar.history2.accesskey     "G">
 <!ENTITY  locbar.bookmarks.label        "Yer imleri">
 <!ENTITY  locbar.bookmarks.accesskey    "Y">
 <!ENTITY  locbar.openpage.label         "Açık sekmeler">

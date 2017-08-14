@@ -14,6 +14,8 @@
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Bu ağın vekil sunucu ayarlarını kendiliğinden tanı">
 <!ENTITY  WPADTypeRadio.accesskey       "v">
+<!ENTITY  manualTypeRadio2.label        "Vekil sunucuyu elle ayarla">
+<!ENTITY  manualTypeRadio2.accesskey    "k">
 <!ENTITY  autoTypeRadio2.label          "Otomatik vekil sunucu yapılandırma URL’si">
 <!ENTITY  autoTypeRadio2.accesskey      "O">
 <!ENTITY  reload.label                  "Yenile">
@@ -33,10 +35,12 @@
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 kullanırken vekil sunucu DNS’i">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port2.label                   "Port">
-<!ENTITY  HTTPport.accesskey            "n">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
-<!ENTITY  FTPport.accesskey             "k">
+<!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Aşağıdakiler için vekil sunucu kullanılmasın">
+<!ENTITY  noproxy2.accesskey            "A">
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .com.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tüm iletişim kuralları için bu vekil sunucuyu kullan">
 <!ENTITY  shareproxy.accesskey          "ü">

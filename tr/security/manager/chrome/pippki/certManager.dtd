@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Makamlar">
 <!ENTITY certmgr.tab.orphan2                  "Diğerleri">
 
-<!ENTITY certmgr.mine                         "Sizi tanımlayan bu kuruluşlardan sertifikalarınız var:">
-<!ENTITY certmgr.others                       "Bu kişileri tanımlayan kayıtlı sertifikalarınız var:">
-<!ENTITY certmgr.websites2                    "Bu sunucuları tanımlayan kayıtlı sertifikalarınız var:">
-<!ENTITY certmgr.cas                          "Bu sertifika makamlarını tanımlayan kayıtlı sertifikalarınız var:">
-<!ENTITY certmgr.orphans                      "Diğer kategorilerin hiçbirine girmeyen kayıtlı sertifikalarınız var:">
+<!ENTITY certmgr.mine2                        "Sizi tanımlayan aşağıdaki kuruluşlardan sertifikalarınız var">
+<!ENTITY certmgr.others2                      "Aşağıdaki kişileri tanımlayan kayıtlı sertifikalarınız var">
+<!ENTITY certmgr.websites3                    "Aşağıdaki sunucuları tanımlayan kayıtlı sertifikalarınız var">
+<!ENTITY certmgr.cas2                         "Aşağıdaki sertifika makamlarını tanımlayan kayıtlı sertifikalarınız var">
+<!ENTITY certmgr.orphans2                     "Diğer kategorilerin hiçbirine girmeyen kayıtlı sertifikalarınız var">
 
 <!ENTITY certmgr.detail.general_tab.title     "Genel">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">

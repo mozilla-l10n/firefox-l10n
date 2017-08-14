@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Yeni kapsayıcı ekle">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "İsim:">
-<!ENTITY name.accesskey       "İ">
+<!ENTITY name2.label          "Ad">
+<!ENTITY name2.accesskey      "A">
 <!ENTITY name.placeholder     "Bir kapsayıcı ismi yazın">
-<!ENTITY icon.label           "Simge:">
-<!ENTITY icon.accesskey       "S">
-<!ENTITY color.label          "Renk:">
-<!ENTITY color.accesskey      "R">
+<!ENTITY icon2.label          "Simge">
+<!ENTITY icon2.accesskey      "S">
+<!ENTITY color2.label         "Renk">
+<!ENTITY color2.accesskey     "R">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Tamam">
 <!ENTITY button.ok.accesskey  "m">
-
