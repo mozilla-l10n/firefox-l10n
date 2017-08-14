@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "ទូទៅ">
 
-<!ENTITY accessibility.label             "មធ្យោបាយ​ងាយស្រួល">
-
 <!ENTITY useCursorNavigation.label       "ប្រើ​គ្រាប់​ចុច​ទស្សន៍​ទ្រនិច​ជានិច្ច​ដើម្បី​រុករក​ក្នុង​ទំព័រ">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "ដាស់តឿន​​អ្នក​នៅ​ពេល​ដែល​គេហទំព័រ​ព្យាយាម​​បញ្ជូន​បន្ត ឬ​ផ្ទុក​ទំព័រ​ឡើងវិញ">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "បង្ហាញ​ក្ដារចុច​ប៉ះ​នៅ​ពេល​ចាំបាច់">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -28,24 +24,18 @@
 
 <!ENTITY dataChoicesTab.label            "ជម្រើស​ទិន្នន័យ">
 
-<!ENTITY healthReportDesc.label          "ជួយ​អ្នក​ឲ្យ​យល់​អំពី​ដំណើរការ​នៃ​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក និង​ការ​ចែករំលែក​ទិន្នន័យ​អំពី​សុខភាព​កម្មវិធី​រុករក​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName;">
-<!ENTITY enableHealthReport.label        "បើក​របាយការណ៍​សុខភាព &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ">
+
 <!ENTITY healthReportLearnMore.label     "ស្វែងយល់​​បន្ថែម">
 
-<!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​បំណង​អំពី​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
-<!ENTITY enableTelemetryData.label       "ចែករំលែក​ទិន្នន័យ​បន្ថែម (ឧ. ទូរមាត្រ​វិធី)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "ស្វែងយល់​​បន្ថែម">
 
-<!ENTITY crashReporterDesc2.label         "របាយការណ៍​ភាព​ជាប់​គាំង​ជួយ &vendorShortName; ដោះស្រាយ​បញ្ហា និង​ធ្វើ​ឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​បន្ថែម">
-<!ENTITY alwaysSubmitCrashReports.label   "អនុញ្ញាត​ឲ្យ &brandShortName; ផ្ញើ​របាយការណ៍​ភាព​ជាប់​គាំង​ដែល​បាន​បម្រុង​ជំនួសអ្នក">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "ស្វែងយល់​​បន្ថែម">
+<!ENTITY crashReporterLearnMore.label    "ស្វែងយល់​​បន្ថែម">
 
 <!ENTITY networkTab.label                "បណ្តាញ">
 
-<!ENTITY connection.label                "ការ​តភ្ជាប់">
 
 <!ENTITY connectionDesc.label            "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធី​ដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
 <!ENTITY connectionSettings.label        "ការ​កំណត់…">
@@ -95,8 +85,6 @@
 <!ENTITY updateApplication.version.pre   "កំណែ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "អនុញ្ញាត &brandShortName; ឲ្យ">
-<!ENTITY updateAuto2.label               "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ណែនាំ​សម្រាប់​ធ្វើ​ឲ្យ​​សុវត្ថិភាព​​ប្រសើរ)">
-<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "ពិនិត្យ​មើល​បច្ចុប្បន្នភាព ប៉ុន្តែ​អាច​ឲ្យ​អ្នក​ជ្រើសរើស​ដំឡើង​ពួកវា​បាន">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "កុំ​ពិនិត្យមើល​បច្ចុប្បន្នភាព​ឲ្យ​សោះ (មិន​ណែនាំ​ឲ្យ​ធ្វើ​ដូច្នេះ​ទេ)">
@@ -111,14 +99,11 @@
 <!ENTITY enableSearchUpdate2.label       "ធ្វើ​បច្ចុប្បន្នភាព​ម៉ាស៊ីន​ស្វែងរក​ដោយស្វ័យប្រវត្តិ">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY reports.label                   "របាយការណ៍">
-
 <!ENTITY offlineStorageNotify.label               "ប្រាប់​អ្នក​នៅ​ពេល​ដែល​​គេហទំព័រ​សួរ​ឲ្យ​ផ្ទុក​ទិន្នន័យ​សម្រាប់​ប្រើប្រាស់​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "ការ​លើកលែង...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "តំបន់​បណ្ដាញ​ដូច​ខាងក្រោម​នេះ ត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើ​ក្រៅ​បណ្ដាញ ៖">
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "យក​ចេញ...">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -132,10 +117,6 @@
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "មើល​វិញ្ញាបនបត្រ">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "សុវត្ថិភាព ឧបករណ៍">
-<!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "ដំណើរការ">
 <!ENTITY useRecommendedPerformanceSettings2.label
@@ -150,5 +131,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "ដំណើរការ​មាតិកា​បន្ថែម​អាច​ធ្វើឲ្យ​ដំណើរការ​ប្រសើរ​ឡើង​នៅពេល​ប្រើ​ផ្ទាំង​ច្រើន ប៉ុន្តែ​វា​នឹង​ប្រើ​អង្គ​ចងចាំ​ច្រើន​ដែរ។">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "ការ​កែប្រែ​ចំនួន​ដំណើរការ​មាតិកា គឺ​អាច​ធ្វើ​ទៅ​បានតែ​ជាមួយ &brandShortName; ពហុ​ដំណើរការ​ប៉ុណ្ណោះ។">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "ស្វែងយល់​ពី​របៀប​ពិនិត្យមើល ប្រសិនបើ​បាន​បើក​ពហុ​ដំណើរការ">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
