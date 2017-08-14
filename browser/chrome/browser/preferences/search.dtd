@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard søkjemotor">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Vel standard-søkjemotor som skal brukast i adresselinja og søkelinja.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vel standard-søkjemotor som skal brukast i adresselinja og søkjelinja.">
 
 <!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
@@ -15,7 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Eittklikks-søkjemotorar">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Vel alternative søkjemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkeord.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vel alternative søkjemotorar som vert viste under adresselinja og søkjelinja når du byrjar å skrive inn eit søkjeord.">
 
 <!ENTITY engineNameColumn.label                "Søkjemotor">
 <!ENTITY engineKeywordColumn.label             "Nykelord">

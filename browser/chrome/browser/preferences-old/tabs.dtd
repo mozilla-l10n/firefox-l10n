@@ -6,7 +6,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Opne nytt vindauge i faner i staden">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!ENTITY newWindowsAsTabs.accesskey   "e">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Åtvar meg ved lukking av fleire faner">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "Å">
