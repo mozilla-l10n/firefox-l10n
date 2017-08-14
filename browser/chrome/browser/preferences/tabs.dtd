@@ -5,13 +5,17 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
+<!ENTITY newWindowsAsTabs.label       "Mở cửa sổ mới trong một tab mới thay thế">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Cảnh báo bạn khi đóng nhiều tab một lúc">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Cảnh báo bạn khi mở nhiều tab có thể làm chậm &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Khi bạn mở một liên kết trong tab mới, chuyển sang tab đó ngay">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Hiển thị hình ảnh xem trước thẻ trong thanh tác vụ Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "e">
