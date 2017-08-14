@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Awdurdodau">
 <!ENTITY certmgr.tab.orphan2                  "Eraill">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Mae gennych dystysgrifau gan y cyrff hyn sy'n eich adnabod chi">
+<!ENTITY certmgr.others2                      "Mae gennych dystysgrifau ar ffeil sy'n adnabod y bobl hyn">
+<!ENTITY certmgr.websites3                    "Mae gennych dystysgrifau ar ffeil sy'n adnabod y bobl hyn">
+<!ENTITY certmgr.cas2                         "Mae gennych dystysgrifau ar ffeil sy'n adnabod yr awdurdodau tystysgrif">
+<!ENTITY certmgr.orphans2                     "Mae gennych dystysgrifau ar ffeil nad yw'n cydweddu ag unrhyw gategori arall">
 
 <!ENTITY certmgr.detail.general_tab.title     "Cyffredinol">
 <!ENTITY certmgr.detail.general_tab.accesskey "C">
