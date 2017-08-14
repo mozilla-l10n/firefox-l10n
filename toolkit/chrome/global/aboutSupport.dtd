@@ -69,11 +69,12 @@
 <!ENTITY aboutSupport.a11yActivated "Activado">
 <!ENTITY aboutSupport.a11yForceDisabled "Impedir accesibilidad">
 <!ENTITY aboutSupport.a11yHandlerUsed "Manejador accesible usado">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciador de accesibilidad">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar el texto al portapapeles">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo al portapapeles">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos sin procesar al portapapeles">
 <!ENTITY aboutSupport.sandboxTitle "Entorno de pruebas">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Llamadas de sistema rechazadas">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
