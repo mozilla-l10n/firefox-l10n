@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Ychwanegu Cynhwysydd Newydd">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Enw">
+<!ENTITY name2.accesskey      "E">
 <!ENTITY name.placeholder     "Rhowch enw cynhwysydd">
-
-
-
-
+<!ENTITY icon2.label          "Eicon">
+<!ENTITY icon2.accesskey      "E">
+<!ENTITY color2.label         "Lliw">
+<!ENTITY color2.accesskey     "L">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gorffen">
