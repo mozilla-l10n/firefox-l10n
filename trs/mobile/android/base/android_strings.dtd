@@ -198,7 +198,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Nadigan rakïj ma, sa ruguj ñu\u0027unj ni nej rasun nagui\u0027aj ma">
+<!ENTITY pref_category_advanced_summary3 "Rakïj ñanj ngà ganarânt, nachra sa\&apos; datos, ràsun nagi\&apos;iaj hue\&apos;e ">
 <!ENTITY pref_category_notifications "Sa ataj na\u0027anj">
 <!ENTITY pref_category_notifications_summary "Nej sa naka doj, nagui\u0027iaj nako\u0027 web ">
 <!ENTITY pref_content_notifications "nagui\u0027iaj nako\u0027 nej sa ma riña web">
@@ -449,7 +449,7 @@
 <!ENTITY pref_update_autodownload_always "Nigànj chre">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "Sa ruguñu\u0027unj un">
+<!ENTITY help_menu "Sa ruguj ñu\&apos;unj">
 
 <!ENTITY quit "Gahui\u0027">
 
@@ -458,7 +458,7 @@
 <!ENTITY downloads "Naduni\u0027">
 <!ENTITY char_encoding "Sa nani\u0027in da\u0027nga\u0027 hua ña\u0027aan">
 
-<!ENTITY share "Rugu ñu\u0027un">
+<!ENTITY share "Gani\&apos; ngà">
 <!ENTITY share_title "Duyingô\u0027 ngà">
 <!ENTITY share_image_failed "Si ga\u0027ue duyingô\u0027 ñadu\u0027ua ñaj na">
 <!ENTITY save_as_pdf "Na\u0027ninj nga PDF">
@@ -600,7 +600,7 @@
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "Nitaj à\u0027ngo nuj narugui\u0027 riña pânel na.">
+<!ENTITY home_default_empty "Nitaj à\u0027ngo nuj narui\u0027 riña pânel na.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
