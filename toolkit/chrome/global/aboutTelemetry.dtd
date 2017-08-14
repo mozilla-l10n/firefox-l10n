@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hét">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping típusa">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Ma">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Tegnap">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Régebbi">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Általános adatok">
 

@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Több folyamatú ablakok">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Webes tartalomfolyamat">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google kulcs">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla helymeghatározási szolgáltatás kulcs">
@@ -137,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Összeomlásvédelem által letiltott funkciók">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Kerülő eljárások">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Média">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Kimeneti eszközök">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Bemeneti eszközök">
+<!ENTITY aboutSupport.mediaDeviceName "Név">
+<!ENTITY aboutSupport.mediaDeviceGroup "Csoport">
+<!ENTITY aboutSupport.mediaDeviceVendor "Gyártó">
+<!ENTITY aboutSupport.mediaDeviceState "Állapot">
+<!ENTITY aboutSupport.mediaDevicePreferred "Elsődleges">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formátum">
+<!ENTITY aboutSupport.mediaDeviceChannels "Csatornák">
+<!ENTITY aboutSupport.mediaDeviceRate "Sebesség">
+<!ENTITY aboutSupport.mediaDeviceLatency "Késleltetés">
