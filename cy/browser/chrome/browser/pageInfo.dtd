@@ -63,7 +63,7 @@
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Diogelwch">
-<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityTab.accesskey "D">
 <!ENTITY  securityView.certView "Darllen y Dystysgrif">
 <!ENTITY  securityView.accesskey "D">
 <!ENTITY  securityView.unknown   "Anhysbys">
