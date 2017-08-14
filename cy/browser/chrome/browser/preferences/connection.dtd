@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "g">
 <!ENTITY  WPADTypeRadio.label           "Awto-ganfod gosodiadau dirprwyol ar gyfer y rhwydwaith">
 <!ENTITY  WPADTypeRadio.accesskey       "r">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Ffurfweddiad dirprwyo â llaw">
+<!ENTITY  manualTypeRadio2.accesskey    "l">
+<!ENTITY  autoTypeRadio2.label          "URL ffurfweddu dirprwy yn awtomatig">
+<!ENTITY  autoTypeRadio2.accesskey      "U">
 <!ENTITY  reload.label                  "Ail-lwytho">
 <!ENTITY  reload.accesskey              "i">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "Dirprwy FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Dirprwy yr HTTP">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "Dirprwy SSL">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "Gwesteiwr SOCKS v5">
+<!ENTITY  socks2.accesskey              "G">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS dirprwyol wrth ddefnyddio SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Porth">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
+<!ENTITY  noproxy2.label                "Dim Dirprwy ar gyfer">
+<!ENTITY  noproxy2.accesskey            "m">
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
 <!ENTITY  shareproxy.accesskey          "e">

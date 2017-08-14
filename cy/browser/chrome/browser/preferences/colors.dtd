@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Byth">
 
 <!ENTITY  color                           "Testun a Chefndir">
-
-
-
-
+<!ENTITY  textColor2.label                "Testun">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Cefndir">
+<!ENTITY  backgroundColor2.accesskey      "C">
 <!ENTITY  useSystemColors.label           "Defnyddio lliwiau'r system">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Tanlinellu dolenni">
 <!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Lliw Dolenni">
-
-
-
-
+<!ENTITY  linkColor2.label                "Dolenni heb gael Ymweliad">
+<!ENTITY  linkColor2.accesskey            "D">
+<!ENTITY  visitedLinkColor2.label         "Dolenni wedi cael Ymweliad">
+<!ENTITY  visitedLinkColor2.accesskey     "w">

@@ -49,12 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies2.accesskey      "w">
 
-
+<!ENTITY  acceptThirdParty2.pre.label     "Derbyn cwcis trydydd parti">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Bob tro">
 <!ENTITY  acceptThirdParty.never.label    "Byth">
 <!ENTITY  acceptThirdParty.visited.label  "O'r ymwelwyd">
 
-
+<!ENTITY  keepUntil2.label              "Cadw tan">
+<!ENTITY  keepUntil2.accesskey          "C">
 
 <!ENTITY  expire.label                  "byddant yn dod i ben">
 <!ENTITY  close.label                   "Cau &brandShortName;">
