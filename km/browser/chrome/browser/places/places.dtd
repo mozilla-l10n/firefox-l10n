@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "បាន​បន្ថែម">
 <!ENTITY col.lastmodified.label  "បាន​កែប្រែ​ចុងក្រោយ">
 
-<!ENTITY search.label                              "ស្វែងរក ៖">
-<!ENTITY search.accesskey                          "ស">
+<!ENTITY search.placeholder  "ស្វែងរក">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "ត">
 <!ENTITY detailsPane.selectAnItemText.description "ជ្រើស​ធាតុ​ដើម្បី​មើល និង​កែ​សម្រួល​លក្ខណៈ​សម្បត្តិ​របស់​វា">
 
-<!ENTITY find.label               "ស្វែងរក ៖">
-<!ENTITY find.accesskey           "ស">
 <!ENTITY view.label               "មើល">
 <!ENTITY view.accesskey           "ម">
 <!ENTITY byDate.label             "តាម​កាលបរិច្ឆេទ">
