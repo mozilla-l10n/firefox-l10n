@@ -87,7 +87,7 @@
 <!ENTITY netReset.title "Връзката е прекъсната">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY netTimeout.title "Времето за изчакване връзка изтече">
+<!ENTITY netTimeout.title "Времето за изчакване на връзка изтече">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Адресът не е разпознат">
