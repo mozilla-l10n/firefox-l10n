@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY history.title "Historial de actualizaciones">
-<!ENTITY history.intro "Se han instalado las siguientes actualizaciones:">
+<!ENTITY history2.intro "Se han instalado las siguientes actualizaciones">
 <!ENTITY closebutton.label "Cerrar">
 <!ENTITY noupdates.label "Todavía no hay actualizaciones instaladas">
 <!ENTITY name.header "Nombre de la actualización">

@@ -14,6 +14,7 @@ Datos archivados de ping
 ">
 <!ENTITY aboutTelemetry.raw "
 JSON sin procesar">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer " Abrir en el visor JSON de Firefox">
 <!ENTITY aboutTelemetry.showSubsessionData "
 Mostrar datos de subsesión
 ">
@@ -80,6 +81,9 @@ Más antiguo">
 ">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Escrituras demoradas
+">
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Contenido sin procesar
 ">
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Información de sesión

@@ -8,11 +8,11 @@
 <!ENTITY certmgr.tab.websites3 "Servidores">
 <!ENTITY certmgr.tab.ca "Autoridades">
 <!ENTITY certmgr.tab.orphan2 "Otros">
-<!ENTITY certmgr.mine "Tiene certificados de estas organizaciones que le identifican:">
-<!ENTITY certmgr.others "Tiene certificados en archivo que identifican estas personas:">
-<!ENTITY certmgr.websites2 "Tiene certificados en archivo que identifican estos servidores:">
-<!ENTITY certmgr.cas "Tiene certificados en archivo que identifican estas autoridades certificadoras:">
-<!ENTITY certmgr.orphans "Tiene certificados en archivo que no se ajustan a ninguna de las demás categorías:">
+<!ENTITY certmgr.mine2 "Tiene certificados de estas organizaciones que le identifican">
+<!ENTITY certmgr.others2 "Tiene certificados guardados que identifican estas personas">
+<!ENTITY certmgr.websites3 "Tiene certificados guardados que identifican estos servidores">
+<!ENTITY certmgr.cas2 "Tiene certificados guardados que identifican estas autoridades de certificación">
+<!ENTITY certmgr.orphans2 "Tiene certificados guardados que no encajan en ninguna de las otras categorías">
 <!ENTITY certmgr.detail.general_tab.title "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Detalles">

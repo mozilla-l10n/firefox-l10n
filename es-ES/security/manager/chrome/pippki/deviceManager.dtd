@@ -19,11 +19,11 @@
 <!ENTITY devmgr.button.unload.accesskey "D">
 <!ENTITY devmgr.button.fips.accesskey "F">
 <!ENTITY loaddevice.info "Introduzca la información para el módulo que quiere añadir.">
-<!ENTITY loaddevice.modname "Nombre del módulo:">
-<!ENTITY loaddevice.modname.accesskey "M">
+<!ENTITY loaddevice.modname2 "Nombre del módulo">
+<!ENTITY loaddevice.modname2.accesskey "m">
 <!ENTITY loaddevice.modname.default "Nuevo módulo PKCS#11">
-<!ENTITY loaddevice.filename "Archivo del módulo:">
-<!ENTITY loaddevice.filename.accesskey "A">
+<!ENTITY loaddevice.filename2 "Nombre del archivo del módulo">
+<!ENTITY loaddevice.filename2.accesskey "a">
 <!ENTITY loaddevice.browse "Examinar…">
 <!ENTITY loaddevice.browse.accesskey "x">
 <!ENTITY loaddevice.title2 "Cargar controlador de dispositivo PKCS#11">
