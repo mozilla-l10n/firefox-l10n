@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "若已儲存密碼則不要提示驗證">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "若您已將密碼儲存起來，則此選項就不會再於連線時詢問您密碼。若驗證失敗則會再向您詢問。">
+<!ENTITY  autologinproxy.tooltip        "勾選此選項後，若您已將密碼儲存起來，連線時就不會再詢問您密碼。驗證失敗後才會再向您詢問。">
