@@ -30,7 +30,7 @@
 <!ENTITY otherDirList.tooltip         "Alegeți sau introduceți numele unui subdirector la distanță unde se vor publica fișierele">
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în semnele de carte">
+<!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în marcaje">
 <!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Nume fișier:">
 <!ENTITY filename.accesskey           "N">
