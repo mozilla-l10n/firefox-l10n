@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Tidigare uppdateringar">
-<!ENTITY  history.intro             "Följande uppdateringar har installerats:">
+<!ENTITY  history2.intro            "Följande uppdateringar har installerats">
 <!ENTITY  closebutton.label         "Stäng">
-                                     
+
 <!ENTITY  noupdates.label           "Det finns inga installerade uppdateringar">
 
 <!ENTITY  name.header               "Namn på uppdatering">
