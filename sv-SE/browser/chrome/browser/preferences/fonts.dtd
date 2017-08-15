@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Teckensnitt">
 
-<!ENTITY  language.label                          "Teckensnitt för:">
-<!ENTITY  language.accesskey                      "c">
+<!ENTITY  fonts.label                             "Teckensnitt för">
+<!ENTITY  fonts.accesskey                         "T">
 
-<!ENTITY  size.label                              "Storlek:">
+<!ENTITY  size2.label                             "Storlek">
 <!ENTITY  sizeProportional.accesskey              "t">
 <!ENTITY  sizeMonospace.accesskey                 "o">
 
-<!ENTITY  proportional.label                      "Proportionell:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proportionell">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Fast bredd:">
-<!ENTITY  monospace.accesskey                     "F">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Fast bredd">
+<!ENTITY  monospace2.accesskey                    "F">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetanska">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minsta storlek:">
-<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize2.label                           "Minsta teckensnittsstorlek">
+<!ENTITY minSize2.accesskey                       "n">
 <!ENTITY minSize.none                             "Ingen">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teckenkodning för gammalt innehåll">
-<!ENTITY languages.customize.Fallback2.label      "Teckenkodning att falla tillbaka på:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Reservteckenkodning">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Den här teckenkodningen används för gammalt innehåll som inte har angivit någon annan kodning.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard för aktuellt språkområde">

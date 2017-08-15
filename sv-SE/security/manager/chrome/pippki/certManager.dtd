@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Utfärdare">
 <!ENTITY certmgr.tab.orphan2                  "Övriga">
 
-<!ENTITY certmgr.mine                         "Du har certifikat från dessa organisationer som identifierar dig:">
-<!ENTITY certmgr.others                       "Du har certifikat lagrade som identifierar dessa personer:">
-<!ENTITY certmgr.websites2                    "Du har certifikat lagrade som identifierar dessa servrar:">
-<!ENTITY certmgr.cas                          "Du har certifikat lagrade som identifierar dessa certifikatutfärdare:">
-<!ENTITY certmgr.orphans                      "Du har certifikat lagrade som inte passar i någon av de andra kategorierna:">
+<!ENTITY certmgr.mine2                        "Du har certifikat från dessa organisationer som identifierar dig">
+<!ENTITY certmgr.others2                      "Du har certifikat lagrade som identifierar dessa personer">
+<!ENTITY certmgr.websites3                    "Du har certifikat lagrade som identifierar dessa servrar">
+<!ENTITY certmgr.cas2                         "Du har certifikat lagrade som identifierar dessa certifikatutfärdare">
+<!ENTITY certmgr.orphans2                     "Du har certifikat lagrade som inte passar i någon av de andra kategorierna">
 
 <!ENTITY certmgr.detail.general_tab.title     "Allmänt">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
