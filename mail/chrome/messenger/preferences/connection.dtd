@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Anslutningsinställningar">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Ange proxy för anslutning till Internet">
 <!ENTITY  noProxyTypeRadio.label        "Ingen proxy">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
 <!ENTITY  shareproxy.accesskey          "ä">
+<!ENTITY  autologinproxy.label          "Fråga inte efter autentisering om lösenordet är sparat">
+<!ENTITY  autologinproxy.accesskey      "o">
+<!ENTITY  autologinproxy.tooltip        "Detta alternativ autentiserar dig automatiskt till proxier när du har sparat inloggningsuppgifter för dem. Du kommer att bli tillfrågad om autentiseringen misslyckas.">
+<!ENTITY  socksRemoteDNS.label          "Proxy DNS när du använder SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
