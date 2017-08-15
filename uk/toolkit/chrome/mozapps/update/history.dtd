@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Журнал оновлень">
-<!ENTITY  history.intro             "Були встановлені наступні оновлення:">
+<!ENTITY  history2.intro            "Були встановлені наступні оновлення">
 <!ENTITY  closebutton.label         "Закрити">
-                                     
+
 <!ENTITY  noupdates.label           "Жодного оновлення ще не було встановлено">
 
 <!ENTITY  name.header               "Ім’я оновлення">
