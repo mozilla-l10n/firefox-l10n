@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Agiuntar in nov container">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Num:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Num">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Endatar in num da container">
-<!ENTITY icon.label           "Simbol:">
-<!ENTITY icon.accesskey       "S">
-<!ENTITY color.label          "Colur:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "Simbol">
+<!ENTITY icon2.accesskey      "i">
+<!ENTITY color2.label         "Colur">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Finì">
 <!ENTITY button.ok.accesskey  "F">
-

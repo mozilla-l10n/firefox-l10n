@@ -24,3 +24,7 @@
 <!ENTITY  underlineLinks.label            "Suttastritgar las colliaziuns">
 <!ENTITY  underlineLinks.accesskey        "l">
 <!ENTITY  links                           "Colurs da las colliaziuns">
+<!ENTITY  linkColor2.label                "Colliaziuns betg visitadas">
+<!ENTITY  linkColor2.accesskey            "b">
+<!ENTITY  visitedLinkColor2.label         "Colliaziuns visitadas">
+<!ENTITY  visitedLinkColor2.accesskey     "v">

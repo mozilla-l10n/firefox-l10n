@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Scrittiras">
 
-<!ENTITY  language.label                          "Scrittiras per:">
-<!ENTITY  language.accesskey                      "S">
+<!ENTITY  fonts.label                             "Scrittiras per">
+<!ENTITY  fonts.accesskey                         "p">
 
-<!ENTITY  size.label                              "Grondezza">
+<!ENTITY  size2.label                             "Grondezza">
 <!ENTITY  sizeProportional.accesskey              "G">
 <!ENTITY  sizeMonospace.accesskey                 "r">
 
-<!ENTITY  proportional.label                      "Proporziunal:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporziunal">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Cun serifas:">
-<!ENTITY  serif.accesskey                         "e">
-<!ENTITY  sans-serif.label                        "Senza serifas">
-<!ENTITY  sans-serif.accesskey                    "f">
-<!ENTITY  monospace.label                         "Largezza fixa:">
-<!ENTITY  monospace.accesskey                     "x">
+<!ENTITY  serif2.label                            "Serifas">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Senza serifas">
+<!ENTITY  sans-serif2.accesskey                   "z">
+<!ENTITY  monospace2.label                        "Largezza fixa">
+<!ENTITY  monospace2.accesskey                    "f">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Singalais">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Grondezza minimala da la scrittira:">
-<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize2.label                           "Grondezza minimala da la scrittira">
+<!ENTITY minSize2.accesskey                       "m">
 <!ENTITY minSize.none                             "Nagina">
 
 <!-- default font type -->
@@ -65,8 +65,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codaziun da text per cuntegn nundefinì">
-<!ENTITY languages.customize.Fallback2.label      "Codaziun da text da standard:">
-<!ENTITY languages.customize.Fallback2.accesskey  "C">
 <!ENTITY languages.customize.Fallback2.desc       "Questa codaziun da text vegn utilisada per cuntegn nundefinì (legacy content) che n'ha betg definì la codaziun.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard per la lingua actuala">

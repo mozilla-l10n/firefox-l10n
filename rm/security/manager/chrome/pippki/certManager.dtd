@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Posts da certificaziun">
 <!ENTITY certmgr.tab.orphan2                  "Auters">
 
-<!ENTITY certmgr.mine                         "Ti has certificats da questas organisaziuns che identifitgeschan tai:">
-<!ENTITY certmgr.others                       "Ti has certificats memorisads che identifitgeschan questas persunas:">
-<!ENTITY certmgr.websites2                    "Ti has certificats memorisads che identifitgeschan quests servers:">
-<!ENTITY certmgr.cas                          "Ti has certificats memorisads che identifitgeschan quests posts da certificaziun:">
-<!ENTITY certmgr.orphans                      "Ti has memorisà certificats che n'appartegnan a naginas da las categorias restantas: ">
+<!ENTITY certmgr.mine2                        "Ti has certificats da questas organisaziuns che identifitgeschan tai">
+<!ENTITY certmgr.others2                      "Ti has certificats memorisads che identifitgeschan questas persunas">
+<!ENTITY certmgr.websites3                    "Ti has certificats memorisads che identifitgeschan quests servers">
+<!ENTITY certmgr.cas2                         "Ti has certificats memorisads che identifitgeschan quests posts da certificaziun">
+<!ENTITY certmgr.orphans2                     "Ti has memorisà certificats che n'appartegnan a naginas da las categorias restantas">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
