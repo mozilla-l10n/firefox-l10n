@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Blokker sprettoppvinduer">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Les mer">
-<!ENTITY  notificationsPolicyDesc4.label       "Velg hvilke nettsteder som har tillatelse til å sende deg varsler">
-<!ENTITY  notificationsPolicyButton.accesskey  "V">
-<!ENTITY  notificationsPolicyButton.label      "Velg …">
 <!ENTITY  notificationsDoNotDisturb.label      "Ikke forstyrr meg">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "k">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ingen varsler vil vises før du starter &brandShortName; på nytt">
 
-<!ENTITY  popupExceptions.label       "Unntak …">
-<!ENTITY  popupExceptions.accesskey   "U">
+<!ENTITY  popupExceptions.label                                 "Unntak …">
+<!ENTITY  popupExceptions.accesskey                             "U">
+
+<!ENTITY  permissionSettingsButton2.label                       "Innstillinger…">
+
+<!ENTITY  notificationPermissions.label                         "Varsler">
+<!ENTITY  notificationSettingsButton.accesskey                  "r">
+<!ENTITY  notificationPermissionsLearnMore.label                "Les mer">
+
+<!ENTITY  locationPermissions.label                             "Plassering">
+<!ENTITY  locationSettingsButton.accesskey                      "P">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "K">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper og farger">
 
