@@ -12,13 +12,11 @@
 
 
 
-
-
-
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "Identificants">
 
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
@@ -28,4 +26,5 @@
 <!ENTITY  changeMasterPassword.label     "Modificar lo senhal principal...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "Identificants salvats…">
+<!ENTITY  savedLogins.accesskey          "I">
