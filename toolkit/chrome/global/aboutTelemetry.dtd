@@ -7,7 +7,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
 <!ENTITY aboutTelemetry.raw "JSON non elaborato">
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON di Firefox">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON">
 <!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
