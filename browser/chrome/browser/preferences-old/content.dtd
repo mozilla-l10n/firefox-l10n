@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Communicaziuns">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ulteriuras infurmaziuns">
-<!ENTITY  notificationsPolicyDesc3.label       "Tscherna las paginas che ta dastgan trametter communicaziuns">
+<!ENTITY  notificationsPolicyDesc4.label       "Tscherna las paginas che ta dastgan trametter communicaziuns">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Tscherner…">
 <!ENTITY  notificationsDoNotDisturb.label      "Betg disturbar">

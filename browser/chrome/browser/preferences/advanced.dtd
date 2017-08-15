@@ -90,9 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Actualisescha &brandShortName; per prestaziun, stabilitad e segirezza maximala.">
 <!ENTITY updateApplication.version.pre   "Versiun ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permetter a &brandShortName; da">
+<!ENTITY updateAuto3.label               "Installar automaticamain actualisaziuns (recumandà)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Tschertgar actualisaziuns ma ta laschar tscherner cura installar">
 <!ENTITY updateCheckChoose2.accesskey    "T">
 <!ENTITY updateManual2.label             "Mai tschertgar actualisaziuns (betg recumandà)">
@@ -112,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepziuns…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "Las suandantas websites èn autorisadas da memorisar datas per l'utilisaziun offline">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Allontanar…">
 <!ENTITY offlineAppsListRemove.accesskey "A">
@@ -125,6 +130,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Laschar confermar la validitad da certificats entras dumandar servers da OCSP">
 <!ENTITY enableOCSP.accesskey            "c">
+<!ENTITY viewCerts2.label                "Mussar ils certificats…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Apparats da segirezza…">
+<!ENTITY viewSecurityDevices2.accesskey  "p">
 
 <!ENTITY performance.label               "Prestaziun">
 <!ENTITY useRecommendedPerformanceSettings2.label

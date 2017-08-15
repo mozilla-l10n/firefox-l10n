@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "p">
 <!ENTITY  WPADTypeRadio.label           "Enconuscher automaticamain ils parameters da proxy per questa rait">
 <!ENTITY  WPADTypeRadio.accesskey       "E">
-<!ENTITY  manualTypeRadio.label         "Configuraziun da proxy manuala">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL per la configuraziun da proxy automatica:">
-<!ENTITY  autoTypeRadio.accesskey       "U">
+<!ENTITY  manualTypeRadio2.label        "Configuraziun manuala dal proxy">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "URL per la configuraziun automatica dal proxy">
+<!ENTITY  autoTypeRadio2.accesskey      "a">
 <!ENTITY  reload.label                  "Rechargiar">
 <!ENTITY  reload.accesskey              "R">
-<!ENTITY  ftp.label                     "Proxy FTP:">
-<!ENTITY  ftp.accesskey                 "x">
-<!ENTITY  http.label                    "Proxy HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Host da SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Proxy FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Proxy HTTP">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "Proxy SSL">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "Server SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Utilisar in DNS proxy sche SOCKS v5 è activ">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Nagin proxy per:">
-<!ENTITY  noproxy.accesskey             "y">
+<!ENTITY  noproxy2.label                "Nagin proxy per">
+<!ENTITY  noproxy2.accesskey            "N">
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .giuru.ch, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilisar quest proxy server per tut ils protocols ">
 <!ENTITY  shareproxy.accesskey          "U">

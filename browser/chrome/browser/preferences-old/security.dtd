@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "General">
 
-<!ENTITY  warnOnAddonInstall.label        "Avertir, sche websites emprovan d'installar supplements">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall2.label       "Avertir, sche websites emprovan d'installar supplements">
+<!ENTITY  warnOnAddonInstall2.accesskey   "v">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label                  "Infurmaziuns d'annunzia">
 
-<!ENTITY  rememberLogins.label          "Memorisar las infurmaziuns d'annunzia">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "Memorisar las infurmaziuns d'annunzia">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Excepziuns…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

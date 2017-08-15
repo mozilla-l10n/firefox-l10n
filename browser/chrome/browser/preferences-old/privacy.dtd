@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Midar ils parameters per propostas da maschinas da tschertgar…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Acceptar ils cookies">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Acceptar cookies da websites">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Permetter cookies da terzs:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">

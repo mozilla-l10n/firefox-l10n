@@ -49,10 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Acceptar cookies da websites">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Acceptar cookies da terzs">
+<!ENTITY  acceptThirdParty2.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Adina">
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "Da visitads">
 
+<!ENTITY  keepUntil2.label              "Memorisar enfin che">
+<!ENTITY  keepUntil2.accesskey          "e">
 
 <!ENTITY  expire.label                  "els n'èn betg pli valids">
 <!ENTITY  close.label                   "&brandShortName; vegn serrà">
