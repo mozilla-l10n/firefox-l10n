@@ -14,17 +14,13 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Mai">
 
 <!ENTITY  color                           "Text e fund davos">
-<!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fund davos:">
-<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  textColor2.label                "Text">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fund davos">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Utilisar las colurs dal sistem">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Suttastritgar las colliaziuns">
 <!ENTITY  underlineLinks.accesskey        "l">
 <!ENTITY  links                           "Colurs da las colliaziuns">
-<!ENTITY  linkColor.label                 "Colliaziuns betg utilisadas:">
-<!ENTITY  linkColor.accesskey             "u">
-<!ENTITY  visitedLinkColor.label          "Colliaziuns utilisadas:">
-<!ENTITY  visitedLinkColor.accesskey      "C">
