@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "Asistent pentru importare">
 
-<!ENTITY importFrom.label               "Importă opțiuni, semne de carte, istoric, parole și alte date din:">
-<!ENTITY importFromUnix.label           "Importă preferințe, semne de carte, istoric, parole și alte date din:">
-<!ENTITY importFromBookmarks.label      "Importă semne de carte din:">
+<!ENTITY importFrom.label               "Importă opțiuni, marcaje, istoric, parole și alte date din:">
+<!ENTITY importFromUnix.label           "Importă preferințe, marcaje, istoric, parole și alte date din:">
+<!ENTITY importFromBookmarks.label      "Importă marcaje din:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Niciun program care conține date cu semne de carte, istoric sau parole nu a putut fi găsit.">
+<!ENTITY noMigrationSources.label       "Niciun program care conține date cu marcaje, istoric sau parole nu a putut fi găsit.">
 
 <!ENTITY importSource.title             "Importă configurații și date">
 <!ENTITY importItems.title              "Elemente pentru importare">

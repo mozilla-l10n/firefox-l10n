@@ -181,14 +181,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Marchează toate filele…">
-<!ENTITY showAllBookmarks2.label "Afișează toate semnele de carte">
-<!ENTITY recentBookmarks.label "Recent însemnate">
-<!ENTITY otherBookmarksCmd.label "Alte semne de carte">
-<!ENTITY mobileBookmarksCmd.label "Semne de carte mobile">
-<!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
-<!ENTITY showRecentlyBookmarked.label     "Afișează cele recent însemnate">
+<!ENTITY showAllBookmarks2.label "Afișează toate marcajele">
+<!ENTITY recentBookmarks.label "Recent marcate">
+<!ENTITY otherBookmarksCmd.label "Alte marcaje">
+<!ENTITY mobileBookmarksCmd.label "Marcaje mobile">
+<!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe marcaje">
+<!ENTITY showRecentlyBookmarked.label     "Afișează cele recent marcate">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Ascunde cele recent însemnate">
+<!ENTITY hideRecentlyBookmarked.label     "Ascunde cele recent marcate">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Înapoi">
@@ -240,15 +240,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Acasă">
 
-<!ENTITY bookmarksButton.label          "Semne de carte">
+<!ENTITY bookmarksButton.label          "Marcaje">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Semne de carte">
-<!ENTITY bookmarksMenuButton.other.label "Alte semne de carte">
-<!ENTITY bookmarksMenuButton.mobile.label "Semne de carte mobile">
-<!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu semne de carte">
-<!ENTITY viewBookmarksToolbar.label         "Vezi bara cu semne de carte">
-
+<!ENTITY bookmarksMenuButton.label          "Marcaje">
+<!ENTITY bookmarksMenuButton.other.label "Alte marcaje">
+<!ENTITY bookmarksMenuButton.mobile.label "Marcaje mobile">
+<!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu marcaje">
+<!ENTITY viewBookmarksToolbar.label         "Vezi bara cu marcaje">
+<!ENTITY searchBookmarks.label              "Caută în marcaje">
 
 <!ENTITY containersMenu.label "Containere">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -555,11 +555,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Setează ca fundal pentru desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Însemnează această pagină">
-<!ENTITY bookmarkThisLinkCmd.label      "Însemnează acest link">
+<!ENTITY bookmarkPageCmd2.label       "Marchează această pagină">
+<!ENTITY bookmarkThisLinkCmd.label      "Marchează acest link">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
-<!ENTITY bookmarkThisFrameCmd.label      "Însemnează acest cadru">
-<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY copyURLCmd.label             "Copiază URL-ul">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Deschide într-o fereastră privată nouă">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Însemnează această filă">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marchează această filă…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copiază">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">

@@ -10,16 +10,16 @@
 # live.
 
 
-#define bookmarks_title Semne de carte
+#define bookmarks_title Marcaje
 
 
-#define bookmarks_heading Semne de carte
+#define bookmarks_heading Marcaje
 
 
-#define bookmarks_toolbarfolder Dosarul „bară pentru semne de carte”
+#define bookmarks_toolbarfolder Dosarul „Bară pentru marcaje”
 
 
-#define bookmarks_toolbarfolder_description Adăugați semnele de carte la acest dosar pentru a le vedea afișate pe bara pentru semne de carte
+#define bookmarks_toolbarfolder_description Adaugă marcajele în acest dosar pentru a le vedea afișate pe bara marcajelor
 
 
 # LOCALIZATION NOTE (getting_started):
