@@ -31,8 +31,8 @@
 <!ENTITY healthReport2.label      "Raport de stare &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Informații pentru depanare">
-<!ENTITY helpTroubleshootingInfo.accesskey  "t">
+<!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Trimite feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
