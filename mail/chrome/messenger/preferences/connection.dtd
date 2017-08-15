@@ -4,6 +4,8 @@
 
 <!ENTITY  connectionsDialog.title       "Setări pentru conexiune">
 
+
+
 <!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest server proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
+
+
+
+
+
