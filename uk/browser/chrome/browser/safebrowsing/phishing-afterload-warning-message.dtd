@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Веб-сторінка <span id='phishing_sitename'/> відома, як шахрайська, і була заблокована згідно з вашими вподобаннями безпеки.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Шахрайські сайти створені, щоб схилити вас до виконання небезпечних дій, наприклад, встановлення програмного забезпечення, або розкриття вашої особистої інформації, такої як паролі, номери телефонів або кредитних карток.</p><p>Введення будь-якої інформації на цій веб-сторінці може призвести до викрадення даних чи інших видів шахрайства.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Цей сайт може містити зловмисне програмне забезпечення">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox заблокував цю сторінку, тому що вона може намагатися встановити небезпечні програми, що викрадають чи видаляють інформацію (наприклад, фотографії, паролі, повідомлення, дані кредитних карток).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
