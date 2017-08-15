@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Прогресивне веб апликације">
 <!ENTITY pref_pwa_summary "Омогући веб апликацијама да буду додате на екран телефона">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Ток активости">
-<!ENTITY pref_activity_stream_summary "Богат визуелни извор историје и побољшана почетна страница која ће вам помоћи да нађете све што тражите у &brandShortName;-у.">
-
 <!ENTITY tracking_protection_prompt_title "Сада са заштитом од праћења">
 <!ENTITY tracking_protection_prompt_text "Активно блокира елементе који вас прате, немате бриге.">
 <!ENTITY tracking_protection_prompt_tip_text "Посетите поставке приватности да сазнате више">
@@ -361,10 +357,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Брисање на изласку">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати податке сваки пут када изаберете Изађи из главног менија">
 <!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се бришу">
-<!ENTITY pref_plugins "Прикључци">
-<!ENTITY pref_plugins_enabled "Омогућени">
-<!ENTITY pref_plugins_tap_to_play2 "Притисните">
-<!ENTITY pref_plugins_disabled "Онемогућени">
 <!ENTITY pref_restore_tabs "Обнови језичке">
 <!ENTITY pref_restore_always "Увек обнови">
 <!ENTITY pref_restore_quit "Немој након затварања">
@@ -854,3 +846,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Добродошли у ваше истакнуте моменте">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; истиче ствари које сте открили на вебу да би вам помогао да поново пронађете сјајне чланке, видео снимке, забелешке и остале странице.">
+
+<!ENTITY private_tab_panel_title "Приватно прегледање + Заштита од праћења">
+<!ENTITY private_tab_panel_description "&brandShortName; блокира делове странице који могу пратити ваше прегледање.">
+<!ENTITY private_tab_panel_description2 "Нећемо памтити историјат али ће преузете датотеке и забелешке остати сачуване на вашем уређају.">
+<!ENTITY private_tab_learn_more "Желите да сазнате више?">
