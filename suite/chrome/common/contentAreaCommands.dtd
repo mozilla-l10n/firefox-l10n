@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Lagre ramme som …">
 <!ENTITY saveFrameCmd.label           "Lagre ramme">
 <!ENTITY saveFrameCmd.accesskey       "S">
+<!ENTITY printFrameCmd.label          "Skriv ut ramme…">
+<!ENTITY printFrameCmd.accesskey      "S">
 <!ENTITY saveLinkAsCmd.label          "Lagre lenkemål som …">
 <!ENTITY saveLinkCmd.label            "Lagre lenkemål">
 <!ENTITY saveLinkCmd.accesskey        "a">
@@ -110,10 +112,14 @@
 <!ENTITY mediaPlaybackRate050.accesskey "S">
 <!ENTITY mediaPlaybackRate100.label     "Normal">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
+<!ENTITY mediaPlaybackRate125.label     "Rask hastighet (1¼×)">
+<!ENTITY mediaPlaybackRate125.accesskey "R">
 <!ENTITY mediaPlaybackRate150.label     "Høy (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "H">
 <!ENTITY mediaPlaybackRate200.label     "Dobbel hastighet">
 <!ENTITY mediaPlaybackRate200.accesskey "D">
+<!ENTITY mediaLoop.label              "Repeter">
+<!ENTITY mediaLoop.accesskey          "e">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -148,3 +154,5 @@ items are mutually exclusive. -->
 <!ENTITY spellAddDictionaries.label     "Last ned flere ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspiser element">
+<!ENTITY devtoolsInspect.accesskey      "n">
