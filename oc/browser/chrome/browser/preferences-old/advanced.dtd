@@ -12,7 +12,10 @@
 <!ENTITY useCursorNavigation.accesskey   "t">
 <!ENTITY searchOnStartTyping.label       "Recercar al picar lo tèxte">
 <!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Vos avisar quand los sites web ensajan de tornar dirigir o cargar la pagina">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Afichar un clavièr tactil quand necessari">
+<!ENTITY useOnScreenKeyboard.accesskey   "c">
 
 <!ENTITY browsing.label                  "Navigacion">
 
@@ -21,12 +24,14 @@
 <!ENTITY useSmoothScrolling.label        "Utilizar lo desfilament doç">
 <!ENTITY useSmoothScrolling.accesskey    "d">
 <!ENTITY checkUserSpelling.label         "Verificar l'ortografia al picar">
+<!ENTITY checkUserSpelling.accesskey     "p">
 
 <!ENTITY dataChoicesTab.label            "Donadas">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Las donadas reportadas son desactivadas per aquesta configuracion de compilacion">
 
 <!ENTITY healthReportDesc.label          "Vos ajuda a comprene las performàncias de vòstre navigador e manda a &vendorShortName; d'informacions a prepaus de la santat de vòstre navigador">
 <!ENTITY enableHealthReport.label        "Activar lo bilanç de santat de &brandShortName;">
@@ -35,10 +40,12 @@ available. -->
 
 <!ENTITY telemetryDesc.label             "Manda d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Partejar de donadas suplementàrias (p. ex. Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ne saber mai">
 
 <!ENTITY crashReporterDesc2.label         "Los rapòrts de plantatge ajudan &vendorShortName; a reglar de problèmas e far vòstre navigador mai estable e segur">
 <!ENTITY alwaysSubmitCrashReports.label   "Autorizar &brandShortName; a mandar de rapòrts de plantatge per vos">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Ne saber mai">
 
 <!ENTITY networkTab.label                "Ret">
@@ -129,5 +136,10 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ne saber mai">
 <!ENTITY limitContentProcessOption.label "Limita del procediment del contengut">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificar lo nombre dels procediments de contengut es possible sonque amb lo multiprocediment &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Aprene a verificar se lo multiprocediment es activat">
 <!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
 <!ENTITY allowHWAccel.accesskey          "n">

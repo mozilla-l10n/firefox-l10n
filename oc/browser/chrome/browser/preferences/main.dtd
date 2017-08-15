@@ -43,3 +43,4 @@
 <!ENTITY getStarted.notloggedin.label     "Se connectar a &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label      "Dobrir las preferéncias del &syncBrand.shortName.label;">
 
+<!ENTITY e10sEnabled.label                "Activar lo multiprocediment de &brandShortName;">
