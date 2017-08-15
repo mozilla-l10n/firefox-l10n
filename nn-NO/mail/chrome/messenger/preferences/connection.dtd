@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Tilkoplingsinnstillingar">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Konfigurer mellomtenarar for tilgang til Internett">
 <!ENTITY  noProxyTypeRadio.label        "Ingen mellomtenar">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Døme: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bruk denne mellomtenaren for alle protokollar">
 <!ENTITY  shareproxy.accesskey          "B">
+<!ENTITY  autologinproxy.label          "Ikkje be om autentisering viss passordet er lagra">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Dette alternativet stadfestar deg, i det stille, til proxyar når du har lagra legitimasjon for dei. Du vil bli spurt viss godkjenninga er mislykka.">
+<!ENTITY  socksRemoteDNS.label          "Proxy-DNS når du brukar SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
