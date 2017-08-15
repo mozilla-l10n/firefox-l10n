@@ -10,7 +10,7 @@
 <!ENTITY  offline.toggleOffline.accesskey "м">
 
 <!ENTITY  mismatch.win.title              "Несъвместими добавки">
-<!ENTITY  mismatch.top.label              "Следните добавки не са съвместими с тази версия на &brandShortName; и бяха изключени:">
+<!ENTITY  mismatch.top.label              "Следните добавки са несъвместими с тази версия на &brandShortName; и бяха изключени:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName; може да провери дали има съвместими версии на тези добавки.">
 
 <!ENTITY  checking.wizard.title           "Проверка за съвместими добавки">
