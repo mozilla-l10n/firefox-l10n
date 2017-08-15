@@ -44,8 +44,10 @@
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
+<!ENTITY netReset.title "Ang koneksyon ay na reset">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Ang koneksyon ay lumagpas sa oras">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
@@ -65,6 +67,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
 
 
+<!ENTITY securityOverride.exceptionButtonLabel "Magdagdag ng Exception…">
 
 <!ENTITY errorReporting.learnMore "Karagdagan kaalaman…">
 
@@ -78,6 +81,7 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "Hindi ligtas na Koneksyon">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
