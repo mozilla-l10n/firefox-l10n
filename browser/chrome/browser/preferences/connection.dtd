@@ -14,32 +14,18 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Detectar automaticament los paramètres de servidor mandatòri d'aquesta ret">
 <!ENTITY  WPADTypeRadio.accesskey       "u">
-<!ENTITY  manualTypeRadio.label         "Configuracion manuala del servidor mandatòri :">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL de configuracion automatica de servidor mandatòri :">
-<!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Tornar cargar">
 <!ENTITY  reload.accesskey              "T">
-<!ENTITY  ftp.label                     "Servidor mandatòri FTP :">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Servidor mandatòri HTTP :">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Servidor mandatòri SSL :">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Òste SOCKS :">
-<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS al utilizar SOCKS v5">
-<!ENTITY  port.label                    "Pòrt :">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Pas de servidor mandatòri per :">
-<!ENTITY  noproxy.accesskey             "P">
 <!ENTITY  noproxyExplain.label          "Exemple : .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilizar aqueste servidor mandatòri per totes los protocòls">
 <!ENTITY  shareproxy.accesskey          "z">
