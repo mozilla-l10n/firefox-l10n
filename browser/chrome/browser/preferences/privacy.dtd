@@ -46,17 +46,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Ändra inställningar för förslag från sökmotorn">
 
-<!ENTITY  acceptCookies2.label          "Tillåt kakor från webbplatser">
-<!ENTITY  acceptCookies2.accesskey      "A">
+<!ENTITY  acceptCookies2.label          "Tillåt att webbplatser lagrar kakor">
+<!ENTITY  acceptCookies2.accesskey      "T">
 
-<!ENTITY  acceptThirdParty.pre.label      "Tillåt tredjepartskakor:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "T">
+<!ENTITY  acceptThirdParty2.pre.label     "Tillåt kakor från tredje part">
+<!ENTITY  acceptThirdParty2.pre.accesskey "a">
 <!ENTITY  acceptThirdParty.always.label   "alltid">
 <!ENTITY  acceptThirdParty.never.label    "aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "från platser jag besökt">
 
-<!ENTITY  keepUntil.label               "Behåll tills:">
-<!ENTITY  keepUntil.accesskey           "B">
+<!ENTITY  keepUntil2.label              "Behåll tills">
+<!ENTITY  keepUntil2.accesskey          "t">
 
 <!ENTITY  expire.label                  "de förfaller">
 <!ENTITY  close.label                   "&brandShortName; stängs">
