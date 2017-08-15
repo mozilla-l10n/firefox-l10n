@@ -10,7 +10,7 @@
 <!ENTITY notificationsDoNotDisturbDetails.value "Non verrà visualizzata alcuna notifica fino al riavvio di &brandShortName;">
 <!ENTITY popupExceptions.label "Eccezioni…">
 <!ENTITY popupExceptions.accesskey "o">
-<!ENTITY permissionSettingsButton.label "Impostazioni">
+<!ENTITY permissionSettingsButton2.label "Impostazioni…">
 <!ENTITY notificationPermissions.label "Notifiche">
 <!ENTITY notificationSettingsButton.accesskey "N">
 <!ENTITY notificationPermissionsLearnMore.label "Ulteriori informazioni">
