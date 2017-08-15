@@ -7,8 +7,8 @@
 <!ENTITY     div.bannedservers.label        "Behandle nettsted som kan og ikke kan lagre infokapsler på datamaskinen din.">
 <!ENTITY     div.cookiesonsystem.label      "Vis og fjern infokapsler som er lagret på datamaskinen din.">
 <!ENTITY     treehead.cookiename.label      "Navn">
-<!ENTITY     treehead.cookiedomain.label    "Nettsted"> 
-<!ENTITY     treehead.cookieexpires.label   "Utløper"> 
+<!ENTITY     treehead.cookiedomain.label    "Nettsted">
+<!ENTITY     treehead.cookieexpires.label   "Utløper">
 <!ENTITY     treehead.infoselected.label    "Informasjon om valgt infokapsel">
 <!ENTITY     button.removecookie.label      "Slett infokapsel">
 <!ENTITY     button.removecookie.accesskey  "S">
@@ -17,7 +17,6 @@
 
 <!ENTITY     search.placeholder             "Søk i infokapsler">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Navn:">
@@ -28,10 +27,9 @@
 <!ENTITY     props.expires.label            "Utløper:">
 
 <!ENTITY     treehead.sitename.label        "Nettsted">
+<!ENTITY     treehead.scheme.label          "Skjema">
 <!ENTITY     treehead.status.label          "Status">
-<!ENTITY     windowtitle.label              "Infokapsler">
-<!ENTITY     buttonaccept.label             "Lukk">
-<!ENTITY     buttonaccept.accesskey         "L">
+<!ENTITY     windowtitle.label              "Infokapselbehandling">
 
 <!ENTITY     blockSite.label                "Blokker">
 <!ENTITY     blockSite.accesskey            "B">
