@@ -31,7 +31,7 @@
 <!ENTITY  generalReferrer       "Refererende URL:">
 <!ENTITY  generalSource         "Kilde:">
 <!ENTITY  generalModified       "Sist endret:">
-<!ENTITY  generalEncoding       "Tegnkoding:">
+<!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Navn">
 <!ENTITY  generalMetaContent    "Innhold">
 <!ENTITY  generalSecurityDetails           "Detaljer">
