@@ -8,7 +8,7 @@
 <!ENTITY firstrun_urlbar_subtext "Găsește lucrurile mai rapid cu sugestiile utile pentru căutare.">
 <!ENTITY firstrun_bookmarks_title "Istoric">
 <!ENTITY firstrun_bookmarks_message "Site-urile favorite în prim plan">
-<!ENTITY firstrun_bookmarks_subtext "Obține rezultate de la semnele de carte și istoricul tău atunci când cauți.">
+<!ENTITY firstrun_bookmarks_subtext "Obține rezultate de la marcajele și istoricul tău atunci când cauți.">
 <!ENTITY firstrun_data_title "Date">
 <!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
@@ -42,7 +42,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Semne de carte">
+<!ENTITY  bookmarks_title "Marcaje">
 <!ENTITY  history_title "Istoric">
 
 <!ENTITY  switch_to_tab "Comută la filă">
@@ -65,18 +65,18 @@
 
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
 
-<!ENTITY bookmark "Semn de carte">
-<!ENTITY bookmark_remove "Elimină semnul de carte">
-<!ENTITY bookmark_added "Semn de carte adăugat">
+<!ENTITY bookmark "Marcaj">
+<!ENTITY bookmark_remove "Elimină marcajul">
+<!ENTITY bookmark_added "Marcaj adăugat">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Însemnat deja">
-<!ENTITY bookmark_removed "Semn de carte eliminat">
-<!ENTITY bookmark_updated "Semn de carte actualizat">
+<!ENTITY bookmark_removed "Marcaj eliminat">
+<!ENTITY bookmark_updated "Marcaj actualizat">
 <!ENTITY bookmark_options "Opțiuni">
 <!ENTITY bookmark_save "Salvare">
-<!ENTITY screenshot_added_to_bookmarks "Capturi de ecran adăugate la semne de carte">
+<!ENTITY screenshot_added_to_bookmarks "Capturi de ecran adăugate la marcaje">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -155,7 +155,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Semn de carte">
+<!ENTITY overlay_share_bookmark_btn_label "Marchează">
 <!ENTITY overlay_share_bookmark_btn_label_already "Însemnat deja">
 <!ENTITY overlay_share_send_other "Trimite către alte dispozitive">
 
@@ -376,11 +376,11 @@
 
 <!ENTITY pref_use_master_password "Folosește parola generală">
 <!ENTITY pref_sync2 "Autentificare">
-<!ENTITY pref_sync_summary2 "Sincronizează filele, semnele de carte, autentificările, istoricul">
+<!ENTITY pref_sync_summary2 "Sincronizează filele, marcajele, autentificările, istoricul">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_history_search_suggestions "Afișează istoricul căutărilor">
 <!ENTITY pref_import_options "Opțiuni de importare">
-<!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
+<!ENTITY pref_import_android_summary "Importă marcajele și istoricul din browserul nativ">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Filele deschise">
@@ -538,7 +538,7 @@
 
 <!ENTITY page_removed "Pagină eliminată">
 
-<!ENTITY bookmark_edit_title "Editează semnul de carte">
+<!ENTITY bookmark_edit_title "Editează marcajul">
 
 <!ENTITY bookmark_edit_name "Nume">
 <!ENTITY bookmark_edit_location "Locație">
@@ -585,7 +585,7 @@
 <!ENTITY home_history_back_to2 "Înapoi la istoricul complet">
 <!ENTITY home_clear_history_button "Șterge istoricul de navigare">
 <!ENTITY home_clear_history_confirm "Sigur dorești să ștergi istoricul?">
-<!ENTITY home_bookmarks_empty "Semnele de carte pe care le salvezi apar aici.">
+<!ENTITY home_bookmarks_empty "Marcajele pe care le salvezi apar aici.">
 <!ENTITY home_closed_tabs_title2 "Închise recent">
 <!ENTITY home_last_tabs_empty "Filele tale recente apar aici.">
 <!ENTITY home_restore_all "Restaurează toate">
@@ -670,8 +670,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Unele date private nu au putut fi șterse">
 
 <!ENTITY bookmarkhistory_button_import "Importă">
-<!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric din Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte din Android">
+<!ENTITY bookmarkhistory_import_both "Se importă marcaje și istoric din Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Se importă marcaje din Android">
 <!ENTITY bookmarkhistory_import_history "Se importă istoricul din Android">
 <!ENTITY bookmarkhistory_import_wait "Te rugăm să aștepți...">
 
@@ -689,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "Caută &formatS1; pentru &formatS2;">
 
-<!ENTITY searchable_description "Semne de carte și istoric">
+<!ENTITY searchable_description "Marcaje și istoric">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
@@ -716,7 +716,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuă">
 <!ENTITY guest_session_dialog_cancel "Renunță">
 <!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
-<!ENTITY new_guest_session_text2 "Persoana care va folosi aceasta nu va putea să vadă niciuna din datele tale personale de navigare (precum parolele salvate, istoricul sau semnele de carte).\n\nCând vizitatorul a terminat, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
+<!ENTITY new_guest_session_text2 "Persoana care va folosi aceasta nu va putea să vadă niciuna din datele tale personale de navigare (precum parolele salvate, istoricul sau marcajele).\n\nCând vizitatorul a terminat, datele de navigare vor fi șterse, iar sesiunea va fi restaurată.">
 <!ENTITY guest_browsing_notification_title "Navigarea ca vizitator este activată">
 <!ENTITY guest_browsing_notification_text "Atinge pentru ieșire">
 
@@ -781,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Șterge istoricul">
 <!ENTITY restrictable_feature_clear_history_description "Permite membrilor familiei să șteargă informații despre site-urile și paginile pe care le-au vizitat.">
 <!ENTITY restrictable_feature_advanced_settings "Setări avansate">
-<!ENTITY restrictable_feature_advanced_settings_description "Acesta include importarea semnelor de carte, restaurarea filelor și actualizările automate. Oprește pentru setări simplificate potrivite oricărui membru al familiei.">
+<!ENTITY restrictable_feature_advanced_settings_description "Acest lucru include importarea marcajelor, restaurarea filelor și actualizările automate. Oprește pentru setări simplificate potrivite oricărui membru al familiei.">
 <!ENTITY restrictable_feature_camera_microphone "Cameră și microfon">
 <!ENTITY restrictable_feature_camera_microphone_description "Permite membrilor familiei să se implice în comunicare în timp real pe site-uri web.">
 <!ENTITY restrictable_feature_block_list "Listă de blocări">
@@ -815,12 +815,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Adaugă la ecranul principal">
 
 <!ENTITY helper_first_offline_bookmark_title "Citește offline">
-<!ENTITY helper_first_offline_bookmark_message "Găsește elementele din modul lectură în semnele de carte, chiar și offline.">
-<!ENTITY helper_first_offline_bookmark_button "Mergi la semnele de carte">
+<!ENTITY helper_first_offline_bookmark_message "Găsește elementele din modul lectură în marcaje, chiar și offline.">
+<!ENTITY helper_first_offline_bookmark_button "Mergi la marcaje">
 
 <!ENTITY helper_triple_readerview_open_title "Disponibil offline">
 <!ENTITY helper_triple_readerview_open_message "Însemnează elementele pentru modul lectură pentru a le citi offline.">
-<!ENTITY helper_triple_readerview_open_button "Adaugă la semne de carte">
+<!ENTITY helper_triple_readerview_open_button "Adaugă la marcaje">
 
 <!ENTITY activity_stream_topsites "Site-uri de top">
 <!ENTITY activity_stream_highlights "Evidențieri">
@@ -839,8 +839,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Șterge din istoric">
 
 <!ENTITY activity_stream_welcome_title "Bun venit la evidențierile tale">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; creează acum evidențieri ale lucrurilor pe care le-ai descoperit pe web astfel încât să te poți întoarce la articole nemaipomenite, videoclipuri, semne de carte și alte pagini.">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; creează acum evidențieri ale lucrurilor pe care le-ai descoperit pe web astfel încât să te poți întoarce la articole nemaipomenite, videoclipuri, marcaje și alte pagini.">
 
 
-
+<!ENTITY private_tab_panel_description2 "Nu vom reține istoricul, însă fișierele descărcate și marcajele noi vor fi în continuare salvate pe dispozitiv.">
 

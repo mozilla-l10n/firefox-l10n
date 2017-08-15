@@ -29,13 +29,13 @@
 <!ENTITY sync.default.client.name "&formatS1; pe &formatS2;">
 <!-- Bookmark folder strings -->
 
-<!ENTITY bookmarks.folder.menu.label "Meniul „Semne de carte”">
+<!ENTITY bookmarks.folder.menu.label "Meniul „Marcaje”">
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Etichete">
-<!ENTITY bookmarks.folder.toolbar.label "Bara pentru semne de carte">
-<!ENTITY bookmarks.folder.other.label "Alte semne de carte">
-<!ENTITY bookmarks.folder.desktop.label "Semne de carte de pe desktop">
-<!ENTITY bookmarks.folder.mobile.label "Semne de carte mobile">
+<!ENTITY bookmarks.folder.toolbar.label "Bara pentru marcaje">
+<!ENTITY bookmarks.folder.other.label "Alte marcaje">
+<!ENTITY bookmarks.folder.desktop.label "Marcaje de pe desktop">
+<!ENTITY bookmarks.folder.mobile.label "Marcaje mobile">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Fixat">
 <!-- Firefox Account strings. -->
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "Înapoi la navigare">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bun venit la &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Autentifică-te pentru a sincroniza filele, semnele de carte, parolele și altele.">
+<!ENTITY fxaccount_getting_started_description2 "Autentifică-te pentru a sincroniza filele, marcajele, parolele și altele.">
 <!ENTITY fxaccount_getting_started_get_started "Începe">
 <!ENTITY fxaccount_getting_started_old_firefox "Folosești o versiune mai veche de &syncBrand.shortName.label;?">
 
@@ -66,7 +66,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label;a este configurată, însă nu se sincronizează automat. Comută „Sincronizați automat datele” din setările Android &gt; Utilizare date.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label;a este configurată, însă nu se sincronizează automat. Comută „Sincronizați automat datele” din setările Android &gt; Conturi.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Atinge pentru a te autentifica în contul nou Firefox.">
-<!ENTITY fxaccount_status_bookmarks "Semne de carte">
+<!ENTITY fxaccount_status_bookmarks "Marcaje">
 <!ENTITY fxaccount_status_history "Istoric">
 <!ENTITY fxaccount_status_passwords2 "Autentificări">
 <!ENTITY fxaccount_status_tabs "File deschise">
