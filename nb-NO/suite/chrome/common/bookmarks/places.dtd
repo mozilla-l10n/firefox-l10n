@@ -48,10 +48,12 @@
 
 <!ENTITY cmd.open.label                  "Åpne">
 <!ENTITY cmd.open.accesskey              "Å">
-<!ENTITY cmd.open_window.label           "Åpne i nytt vindu">
-<!ENTITY cmd.open_window.accesskey       "p">
 <!ENTITY cmd.open_tab.label              "Åpne i ny fane">
 <!ENTITY cmd.open_tab.accesskey          "f">
+<!ENTITY cmd.open_window.label           "Åpne i nytt vindu">
+<!ENTITY cmd.open_window.accesskey       "p">
+<!ENTITY cmd.open_private.label          "Åpne i et privat vindu">
+<!ENTITY cmd.open_private.accesskey      "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Åpne alle i faner">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 

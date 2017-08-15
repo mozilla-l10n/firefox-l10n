@@ -128,11 +128,19 @@
 <!ENTITY popupAllowMsg.label "Sprettoppvinduer fra dette nettstedet vil alltid bli vist.">
 <!ENTITY popupDefaultCmd.label "Bruk standardregler for sprettoppvinduer">
 <!ENTITY popupDefaultCmd.accesskey "B">
+<!ENTITY popupDefaultMsg.label "Sprettoppvinduer fra dette nettstedet vil bli vist basert på forvalg.">
+<!ENTITY popupBlockCmd.label "Blokker sprettoppvinduer fra dette nettstedet">
+<!ENTITY popupBlockCmd.accesskey "B">
+<!ENTITY popupBlockMsg.label "Sprettoppvinduer fra dette nettstedet vil ikke bli vist.">
+<!ENTITY popupsManage.label "Behandle sprettoppvinduer">
+<!ENTITY popupsManage.accesskey "B">
 
 <!ENTITY cookieCookieManager.label "Infokapsler">
 <!ENTITY cookieCookieManager.accesskey "I">
 <!ENTITY cookieImageManager.label "Bilder">
 <!ENTITY cookieImageManager.accesskey "B">
+<!ENTITY popupsManager.label "Sprettoppvindubehandler">
+<!ENTITY popupsManager.accesskey "o">
 
 <!ENTITY clearPrivateDataCmd.label "Slett private data …">
 <!ENTITY clearPrivateDataCmd.accesskey "S">
