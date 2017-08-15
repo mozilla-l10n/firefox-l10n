@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Skyndiminni vann talninguna">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Netið vann talninguna">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Heildarfjöldi net beiðna">
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "Aðgerð skyndiminnis">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Opna">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Lesa">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Skrifa">
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Færsla opin">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Fjöldi þar sem skyndiminnis var hægt">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Fjöldi þar sem skyndiminnis var ekki hægt">
