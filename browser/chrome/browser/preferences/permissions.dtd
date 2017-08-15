@@ -15,7 +15,7 @@
 <!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "阻止">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "在当前会话中允许">
+<!ENTITY session.label                "在这次浏览期间允许">
 <!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "允许">
 <!ENTITY allow.accesskey              "A">

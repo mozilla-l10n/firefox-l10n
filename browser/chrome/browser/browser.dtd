@@ -340,7 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "最近关闭的标签页">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "最近关闭的窗口">
-<!ENTITY historyRestoreLastSession.label "恢复上一次会话">
+<!ENTITY historyRestoreLastSession.label "恢复先前的浏览状态">
 
 <!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "历史记录">
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
-<!ENTITY appMenuHistory.restoreSession.label "恢复上一次会话">
+<!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
 <!ENTITY appMenuHistory.recentHistory.label "近期历史记录">
 <!ENTITY appMenuHelp.label "帮助">
@@ -899,7 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "在本次会话期间禁用保护">
+<!ENTITY trackingProtection.unblockPrivate.label "在这次浏览期间禁用保护">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "启用保护">
 <!ENTITY trackingProtection.block2.accesskey "E">
