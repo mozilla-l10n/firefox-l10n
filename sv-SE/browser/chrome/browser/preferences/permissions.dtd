@@ -8,11 +8,11 @@
 <!ENTITY treehead.sitename2.label     "Webbplats">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission2.label      "Ta bort webbplats">
-<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removepermission2.accesskey  "T">
 <!ENTITY removeallpermissions2.label  "Ta bort alla webbplatser">
-<!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "Adress till webbplats:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY removeallpermissions2.accesskey "a">
+<!ENTITY address2.label               "Webbplatsens adress">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blockera">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Tillåt för sessionen">

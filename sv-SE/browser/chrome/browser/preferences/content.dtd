@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ta reda på mer">
-<!ENTITY  notificationsPolicyDesc4.label       "Välj vilka webbplatser som får skicka dig notifieringar">
+<!ENTITY  notificationsPolicyDesc4.label       "Välj vilka webbplatser som får skicka dig aviseringar">
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Välj…">
 <!ENTITY  notificationsDoNotDisturb.label      "Stör mig inte">

@@ -6,7 +6,7 @@
 <!ENTITY  phishingProtection.label       "Skydd mot nätfiske">
 
 <!ENTITY  warnOnAddonInstall2.label       "Varna när webbplatser försöker installera tillägg">
-<!ENTITY  warnOnAddonInstall2.accesskey   "W">
+<!ENTITY  warnOnAddonInstall2.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -28,7 +28,7 @@
 <!ENTITY  formsAndPasswords.label       "Formulär &amp; lösenord">
 
 <!ENTITY  rememberLogins2.label         "Kom ihåg inloggningar och lösenord för webbplatser">
-<!ENTITY  rememberLogins2.accesskey     "R">
+<!ENTITY  rememberLogins2.accesskey     "K">
 <!ENTITY  passwordExceptions.label      "Undantag…">
 <!ENTITY  passwordExceptions.accesskey  "d">
 

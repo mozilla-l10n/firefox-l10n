@@ -44,7 +44,7 @@
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies2.label          "Tillåt att webbplatser lagrar kakor">
-<!ENTITY  acceptCookies2.accesskey      "A">
+<!ENTITY  acceptCookies2.accesskey      "T">
 
 <!ENTITY  acceptThirdParty.pre.label      "Tillåt tredjepartskakor:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "T">
