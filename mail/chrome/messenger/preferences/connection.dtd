@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Configurar conexão">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Acesso à internet">
 <!ENTITY  noProxyTypeRadio.label        "Sem proxy">
@@ -38,3 +40,4 @@
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Usar este proxy para todos os protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  autologinproxy.label          "Não pedir confirmação da autenticação se senha estiver memorizada">
