@@ -11,10 +11,10 @@
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Er worden geen notificaties getoond totdat u &brandShortName; herstart">
 
-<!ENTITY  popupExceptions.label       "Uitzonderingen…">
-<!ENTITY  popupExceptions.accesskey   "U">
+<!ENTITY  popupExceptions.label                                 "Uitzonderingen…">
+<!ENTITY  popupExceptions.accesskey                             "U">
 
-<!ENTITY  permissionSettingsButton.label                        "Instellingen">
+<!ENTITY  permissionSettingsButton2.label                       "Instellingen…">
 
 <!ENTITY  notificationPermissions.label                         "Notificaties">
 <!ENTITY  notificationSettingsButton.accesskey                  "N">
