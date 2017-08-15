@@ -2,11 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Permissions">
 
 <!ENTITY  blockPopups.label           "Blocar las fenèstras sorgissentas">
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "Ne saber mai">
+<!ENTITY  notificationsPolicyDesc4.label       "Causissètz los sites que vos pòdon mandar de notificacions">
 <!ENTITY  notificationsPolicyButton.accesskey  "a">
 <!ENTITY  notificationsPolicyButton.label      "Causir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
@@ -21,6 +23,7 @@
 <!ENTITY  defaultFont2.label          "Poliça per defaut">
 <!ENTITY  defaultFont2.accesskey      "D">
 <!ENTITY  defaultSize2.label          "Talha">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Avançat…">
 <!ENTITY  advancedFonts.accesskey     "A">
