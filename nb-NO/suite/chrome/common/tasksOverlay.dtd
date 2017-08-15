@@ -6,17 +6,18 @@
 <!ENTITY navigatorCmd.label "Nettleser">
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label					"Nettsideutvikler">
-<!ENTITY editorCmd.accesskey				"u">
-<!ENTITY editorCmd.commandkey				"4">
+<!ENTITY editorCmd.label "Nettsideutvikler">
+<!ENTITY editorCmd.accesskey "u">
+<!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY errorConsoleCmd.label                                  "Feilkonsoll">
-<!ENTITY errorConsoleCmd.accesskey				"F">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.label "Feilkonsoll">
+<!ENTITY errorConsoleCmd.accesskey "F">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
-<!ENTITY taskNavigator.tooltip  "Nettleser">
-<!ENTITY taskComposer.tooltip  "Nettsideutvikler">
+<!ENTITY taskNavigator.tooltip "Nettleser">
+<!ENTITY taskComposer.tooltip "Nettsideutvikler">
 
 <!ENTITY webDevelopment.label "Nettsideutvikling">
 <!ENTITY webDevelopment.accesskey "e">
@@ -25,7 +26,7 @@
 <!ENTITY windowMenu.accesskey "u">
 
 <!ENTITY tasksMenu.label "Verktøy">
-<!ENTITY tasksMenu.accesskey "e"> 
+<!ENTITY tasksMenu.accesskey "e">
 
 <!ENTITY datamanCmd.label "Databehandler">
 <!ENTITY datamanCmd.accesskey "D">
@@ -54,7 +55,7 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Konfigurer Sync …">
-<!ENTITY syncSetup.accesskey       "S">
-<!ENTITY syncSyncNowItem.label     "Synkroniser nå">
+<!ENTITY syncSetup.label "Konfigurer Sync …">
+<!ENTITY syncSetup.accesskey "S">
+<!ENTITY syncSyncNowItem.label "Synkroniser nå">
 <!ENTITY syncSyncNowItem.accesskey "S">
