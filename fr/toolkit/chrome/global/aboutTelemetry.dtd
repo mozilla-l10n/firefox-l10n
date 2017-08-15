@@ -20,6 +20,8 @@ Données de ping archivées
 JSON brut
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ouvrir dans la visionneuse JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Afficher les données de sous-session
 ">
@@ -111,6 +113,8 @@ Ping
 <!ENTITY aboutTelemetry.lateWritesSection "
   Écritures tardives
 ">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "Charge brute">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informations sur la session
