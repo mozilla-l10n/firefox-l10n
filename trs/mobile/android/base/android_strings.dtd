@@ -5,122 +5,122 @@
 <!ENTITY firstrun_panel_title_welcome "Guruhuât gunumânt">
 
 <!ENTITY firstrun_urlbar_message "Guruhuât gunumânt riña &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Garusun\u0027 sa nariki chrej da\u0027 hio doj nari\u0027 sa nana\u0027ui\u0027">
-<!ENTITY firstrun_bookmarks_title "Sa gini\&apos;iajt">
-<!ENTITY firstrun_bookmarks_message "Nej sa garan\u0027 ruat doj, ne\u0027ian an ni daniin">
-<!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\u0027 doj da\u0027 nari hio\u0027 doj sa nana\u0027ui\u0027.">
-<!ENTITY firstrun_data_title "Datos">
-<!ENTITY firstrun_data_message "Ninaj doj datos, niko sa nun sa\u0027a">
-<!ENTITY firstrun_data_subtext2 "Si nadunin nej ñan du\u0027uo\u0027 da\u0027 si gutin\u0027 niko datos nga atu\u0027 riñan internet.">
+<!ENTITY firstrun_urlbar_subtext "Gahuin chrun daj nuta\&apos;t ra\&apos;at da\&apos; hio narit sa nana\&apos;ui\&apos; ra">
+<!ENTITY firstrun_bookmarks_title "Riña gaché nunt">
+<!ENTITY firstrun_bookmarks_message "Hiuj na ma nej sa garan ruat doj">
+<!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\&apos; doj da\&apos; nari hio\&apos; doj sa nana\&apos;ui\&apos;.">
+<!ENTITY firstrun_data_title "Datôs">
+<!ENTITY firstrun_data_message "Ninaj doj dâtos, niko sa nun sa\&apos;">
+<!ENTITY firstrun_data_subtext2 "Si naduninjt nej ñan du\&apos;uo\&apos; da\&apos; si gutin\&apos; nikôt datos nga atûj riñan internet.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; yitinj gua ni\u0027ninj da\u0027 garasunt">
-<!ENTITY firstrun_sync_subtext "Gui\u0027iaj sun nugua\u0027an rakïj ma, da\u0027nga huii da\u0027 raj sun\u0027 ma.">
-<!ENTITY firstrun_signin_message "Gatu ni gayi\u0027ít">
-<!ENTITY firstrun_signin_button "Gatu\u0027 riña Sync">
-<!ENTITY  onboard_start_button_browser "Gayi\u0027i gache nunt">
-<!ENTITY firstrun_button_notnow "Si ga\u0027ue a\u0027kuan\u0027 \u0027nin">
-<!ENTITY firstrun_button_next "ne\u0027ña an">
+<!ENTITY firstrun_sync_message "&brandShortName; yitinj hua nî\&apos;ninj da\&apos; garasunt">
+<!ENTITY firstrun_sync_subtext "Ruat nani\&apos;in da\&apos;nga ma\&apos;an ma nej da\&apos;nga\&apos; huìi da\&apos; garasun raj">
+<!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
+<!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
+<!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
+<!ENTITY firstrun_button_notnow "Si ga\&apos;ue a\&apos;kuan\&apos; \&apos;nin">
+<!ENTITY firstrun_button_next "ne\&apos;ñàan">
 
-<!ENTITY firstrun_tabqueue_title "Nuguan\u0027na\u0027nïnj ïn">
+<!ENTITY firstrun_tabqueue_title "Riña gun\&apos;">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Nachrun Tab da\u0027 niko\u0027 dunej">
-<!ENTITY firstrun_tabqueue_subtext_off "Na\u0027nïnj sò\u0027 nuguan\u0027na\u0027nïnj ïn da\u0027 garasun\u0027 ne\u0027 rukù riña &brandShortName; nga ruhuô\u0027 gatu ñû\u0027.">
+<!ENTITY firstrun_tabqueue_message_off "Nachrun da\&apos; ganikó duhui\&apos; rakij ñanj">
+<!ENTITY firstrun_tabqueue_subtext_off "Na\&apos;nïnj sò\&apos; riña aché nun\&apos; da\&apos; garasun\&apos; ne\&apos; rukù riña &brandShortName; nga ruhuô\&apos; gatu ñû\&apos;.">
 
-<!ENTITY firstrun_tabqueue_message_on "dugu\u0027nï\u0027">
-<!ENTITY firstrun_tabqueue_subtext_on "Niganj chre ga\u0027ue guyun\u0027 sa hua na &settings; nika\u0027 ni &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_message_on "¡Hue da huin ân!">
+<!ENTITY firstrun_tabqueue_subtext_on "Niganj chre ga\&apos;ue guyun\&apos; sa hua na &settings; nika\&apos; ni &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artikulu">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Ga\u0027anj ni\u0027ia da\u0027 niko\u0027 dugui\u0027 ma">
-<!ENTITY firstrun_readerview_subtext "Ni\u0027io\u0027 sa ga\u0027ue digan hue\u0027e da\u0027 gahio\u0027 nej nuguan\u0027 \ u2014 antaj si nitaj conexión.">
+<!ENTITY firstrun_readerview_message "Ga\&apos;anj ni\&apos;ia da\&apos; niko\&apos; dugui\&apos; ma">
+<!ENTITY firstrun_readerview_subtext "Ni\&apos;io\&apos; sa ga\&apos;ue digan hue\&apos;e da\&apos; gahio\&apos; nej nuguan\&apos; \ u2014 antaj si nitaj conexión.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-<!ENTITY firstrun_account_title "sò\u0027">
-<!ENTITY firstrun_account_message "¿Ginikatj &brandShortName; riña a\u0027ngô aga\u0027 aj?">
+<!ENTITY firstrun_account_title "sò\&apos;">
+<!ENTITY firstrun_account_message "¿Ginikatj &brandShortName; riña a\&apos;ngô aga\&apos; aj?">
 
-<!ENTITY  onboard_start_restricted1 "Narràn ni dugumî hue\u0027êt si versión &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Narràn ni dugumî hue\&apos;êt si versión &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Nej sa arajsun nichrò\u0027 doj">
+<!ENTITY  bookmarks_title "Nej sa arajsun nichrò\&apos; doj">
 <!ENTITY  history_title "sa gahuin">
 
-<!ENTITY  switch_to_tab "Naduno\u0027 a\u0027ngô rakij ñaj">
+<!ENTITY  switch_to_tab "Naduno\&apos; a\&apos;ngô rakij ñaj">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "Versión nga nitaj najña\u0027aan hua huin na.">
+<!ENTITY  tab_offline_version "Versión nga nitaj najña\&apos;aan hua huin na.">
 
 <!ENTITY  crash_reporter_title "Nataj sa guire &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; gua ngo sa guire\u0027 nin ganaran man. Nej san man ni\u0027iaj ni nachi nitan man rian &brandShortName; nga ganiyi\u0027i naka unj">
-<!ENTITY  crash_send_report_message3 "Ganato\u0027 gunin &vendorShortName; rayi\u0027i sa guire\u0027 nan, da\u0027 nagui\u0027ia">
-<!ENTITY  crash_include_url2 "Gida\u0027aj dirección ñaj riña ginut akuan\u0027">
-<!ENTITY  crash_sorry "Si gaman\u0027 rua">
-<!ENTITY  crash_comment "Gachrun ngo sa anin ruat (Sa gachrun nin ga ra nga man gini\u0027iaj daran dugui\u0027)">
-<!ENTITY  crash_allow_contact2 "Ga\u0027nïn riña &vendorShortName; nanà\u0027uij ñuj da\u0027 gataj na\u0027an yi\u0027î sa huaa">
+<!ENTITY  crash_message2 "&brandShortName; gua ngo sa guire\&apos; nin ganaran man. Nej san man ni\&apos;iaj ni nachi nitan man rian &brandShortName; nga ganiyi\&apos;i naka unj">
+<!ENTITY  crash_send_report_message3 "Ganato\&apos; gunin &vendorShortName; rayi\&apos;i sa guire\&apos; nan, da\&apos; nagui\&apos;ia">
+<!ENTITY  crash_include_url2 "Gida\&apos;aj dirección ñaj riña ginut akuan\&apos;">
+<!ENTITY  crash_sorry "Si gaman\&apos; rua">
+<!ENTITY  crash_comment "Gachrun ngo sa anin ruat (Sa gachrun nin ga ra nga man gini\&apos;iaj daran dugui\&apos;)">
+<!ENTITY  crash_allow_contact2 "Ga\&apos;nïn riña &vendorShortName; nanà\&apos;uij ñuj da\&apos; gataj na\&apos;an yi\&apos;î sa huaa">
 <!ENTITY  crash_email "gachrun si correo">
-<!ENTITY  crash_closing_alert "¿Gahui nin si nata\u0027 sa guire\u0027 aj?">
-<!ENTITY  sending_crash_report "A\u0027nin sa guire\u0027 \u2026">
+<!ENTITY  crash_closing_alert "¿Gahui nin si nata\&apos; sa guire\&apos; aj?">
+<!ENTITY  sending_crash_report "A\&apos;nin sa guire\&apos; \u2026">
 <!ENTITY  crash_close_label "Ganarun">
-<!ENTITY  crash_restart_label "Nayi\u0027i naka &brandShortName;">
+<!ENTITY  crash_restart_label "Nayi\&apos;i naka &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Gachrun nuguan\&apos; ruhuât nanà\&apos;uìt">
 
-<!ENTITY bookmark "Sa arajsun nichrò\u0027 doj">
-<!ENTITY bookmark_remove "Durë\u0027 sa arajsun nichrò\u0027 doj">
-<!ENTITY bookmark_added "nanûn sa arajsun\u0027 doj">
+<!ENTITY bookmark "Sa arajsun nichrò\&apos; doj">
+<!ENTITY bookmark_remove "Durë\&apos; sa arajsun nichrò\&apos; doj">
+<!ENTITY bookmark_added "nanûn sa arajsun\&apos; doj">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "gà\u0027 nu sà\u0027aj riña nej sa garajsun\u0027 doj">
-<!ENTITY bookmark_removed "nare\u0027 sa garajsun\u0027 doj">
-<!ENTITY bookmark_updated "nahuin nakà sa arajsun\u0027 doj">
-<!ENTITY bookmark_options "a\u0027ngo sa ruhuât">
-<!ENTITY bookmark_save "Na\u0027nïnj sà\u0027">
-<!ENTITY screenshot_added_to_bookmarks "Gachrun riña aga\u0027na ngà sa araj sun nichrà\u0027t doj.">
+<!ENTITY bookmark_already_added "gà\&apos; nu sà\&apos;aj riña nej sa garajsun\&apos; doj">
+<!ENTITY bookmark_removed "nare\&apos; sa garajsun\&apos; doj">
+<!ENTITY bookmark_updated "nahuin nakà sa arajsun\&apos; doj">
+<!ENTITY bookmark_options "a\&apos;ngo sa ruhuât">
+<!ENTITY bookmark_save "Na\&apos;nïnj sà\&apos;">
+<!ENTITY screenshot_added_to_bookmarks "Gachrun riña aga\&apos;na ngà sa araj sun nichrà\&apos;t doj.">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Gachrun\u0027 riña aga\u0027 na.">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "Nuguan gahio\u0027">
+<!ENTITY screenshot_folder_label_in_bookmarks "Gachrun\&apos; riña aga\&apos; na.">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Nuguan gahio\&apos;">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; nej rakïj ñaj">
-<!ENTITY bookmark_folder_one_item "1 sa ni\u0027ñun\u0027">
-<!ENTITY bookmark_parent_folder "Karpetâ ña\u0027aan">
-<!ENTITY bookmark_add_folder "Na\u0027nin a\u0027ngô karpetâ nakàa">
+<!ENTITY bookmark_folder_one_item "1 sa ni\&apos;ñun\&apos;">
+<!ENTITY bookmark_parent_folder "Karpetâ ña\&apos;aan">
+<!ENTITY bookmark_add_folder "Na\&apos;nin a\&apos;ngô karpetâ nakàa">
 
-<!ENTITY reader_saved_offline "nanusà\u0027aj riña najña\u0027aan.">
+<!ENTITY reader_saved_offline "nanusà\&apos;aj riña najña\&apos;aan.">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "naduno\u0027.">
+<!ENTITY reader_switch_to_bookmarks "naduno\&apos;.">
 
 <!ENTITY history_today_section "Gui Hiáj">
 <!ENTITY history_yesterday_section "Guki">
-<!ENTITY history_week_section3 "Sa gahuin 7 gui ga\u0027na\u0027">
+<!ENTITY history_week_section3 "Sa gahuin 7 gui ga\&apos;na\&apos;">
 <!ENTITY history_older_section3 "Sa gahuin gachîn riña 6 ahuii">
 
-<!ENTITY search "Nana\u0027ui">
-<!ENTITY reload "nagui\u0027iaj naka">
-<!ENTITY forward "Ne\u0027ñan an">
-<!ENTITY menu "Riñan man dara\u0027anj">
+<!ENTITY search "Nana\&apos;ui">
+<!ENTITY reload "nagui\&apos;iaj naka">
+<!ENTITY forward "Ne\&apos;ñan an">
+<!ENTITY menu "Riñan man dara\&apos;anj">
 <!ENTITY back "Sa gachin">
 <!ENTITY stop "Ganikin">
-<!ENTITY site_security "Sa dugumi\u0027">
-<!ENTITY edit_mode_cancel "Dure\u0027">
+<!ENTITY site_security "Sa dugumi\&apos;">
+<!ENTITY edit_mode_cancel "Dure\&apos;">
 
 <!ENTITY close_tab "Ganaran riñanj">
 <!ENTITY one_tab "1 rakïj ñaj">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; nej rakïj ñaj">
-<!ENTITY new_tab_opened "gà\u0027 nayi\u0027nïnj a\u0027ngô rakij ñaj nakàa">
-<!ENTITY new_private_tab_opened "gà\u0027 nayi\u0027nïn a\u0027ngô si\u0027iát rakij ñaj nakàa">
+<!ENTITY new_tab_opened "gà\&apos; nayi\&apos;nïnj a\&apos;ngô rakij ñaj nakàa">
+<!ENTITY new_private_tab_opened "gà\&apos; nayi\&apos;nïn a\&apos;ngô si\&apos;iát rakij ñaj nakàa">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "Naduno\u0027">
+<!ENTITY switch_button_message "Naduno\&apos;">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -128,128 +128,128 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Duguachrá ma sa unï\u0027 – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Duguachrá ma sa unï\&apos; – &formatS;">
 
-<!ENTITY settings "Nguihio\u0027">
-<!ENTITY settings_title "Nagui\u0027io\u0027">
-<!ENTITY pref_category_general "Da\u0027ua nguéj">
-<!ENTITY pref_category_general_summary3 "Riña ayi\u0027ij, Nánj, da\u0027 niko\u0027 rakïj ñanj">
+<!ENTITY settings "Nguihio\&apos;">
+<!ENTITY settings_title "Nagui\&apos;io\&apos;">
+<!ENTITY pref_category_general "Da\&apos;ua nguéj">
+<!ENTITY pref_category_general_summary3 "Riña ayi\&apos;ij, Nánj, da\&apos; niko\&apos; rakïj ñanj">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-<!ENTITY pref_category_language "Nanj a\u0027min\u0027">
+<!ENTITY pref_category_language "Nanj a\&apos;min\&apos;">
 <!ENTITY pref_category_language_summary "Naduna nanj gara sun">
 <!ENTITY pref_browser_locale "Nanj gara sun">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "yi\u0027nï\u0027 nanj gà\u0027 hua niñaan">
+<!ENTITY locale_system_default "yi\&apos;nï\&apos; nanj gà\&apos; hua niñaan">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-<!ENTITY overlay_share_label "nutà\u0027 riña &brandShortName;">
+<!ENTITY overlay_share_label "nutà\&apos; riña &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Sa raj sun nichro\u0027 doj">
-<!ENTITY overlay_share_bookmark_btn_label_already "Ngà\u0027 nu sà\u0027aj riña nej sa garajsun\u0027 doj">
-<!ENTITY overlay_share_send_other "Ga\u0027nin\u0027 gan\u0027an riña a\u0027ngô nej aga\u0027 sikà\u0027 ràa">
+<!ENTITY overlay_share_bookmark_btn_label "Sa raj sun nichro\&apos; doj">
+<!ENTITY overlay_share_bookmark_btn_label_already "Ngà\&apos; nu sà\&apos;aj riña nej sa garajsun\&apos; doj">
+<!ENTITY overlay_share_send_other "Ga\&apos;nin\&apos; gan\&apos;an riña a\&apos;ngô nej aga\&apos; sikà\&apos; ràa">
 
-<!ENTITY overlay_share_open_browser_btn_label "Gayi\u0027ì riña &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "Gayi\&apos;ì riña &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "ga\u0027nin\u0027 gan\u0027an riña a\u0027ngô aga\u0027 sikà\u0027 ràa">
-<!ENTITY overlay_share_no_url "na\u0027ue nari\u0027ij a\u0027ngô hiuj ga\u0027nin sa duguachînt">
-<!ENTITY overlay_share_select_device "Nagui aga\u0027 sikà\u0027 ràa">
+<!ENTITY overlay_share_send_tab_btn_label "ga\&apos;nin\&apos; gan\&apos;an riña a\&apos;ngô aga\&apos; sikà\&apos; ràa">
+<!ENTITY overlay_share_no_url "na\&apos;ue nari\&apos;ij a\&apos;ngô hiuj ga\&apos;nin sa duguachînt">
+<!ENTITY overlay_share_select_device "Nagui aga\&apos; sikà\&apos; ràa">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Nu nari\u0027ij gà\u0027 si \u0027ngo da\u0027nga\u0027 Firefox \u0027iaj sun nga nej aga\u0027 sikà\u0027 ràa">
+<!ENTITY overlay_no_synced_devices "Nu nari\&apos;ij gà\&apos; si \&apos;ngo da\&apos;nga\&apos; Firefox \&apos;iaj sun nga nej aga\&apos; sikà\&apos; ràa">
 
-<!ENTITY pref_category_search3 "nanà\u0027uì\u0027">
-<!ENTITY pref_category_search_summary2 "Nutò\u0027, ru\u0027ua nianj, narikij ngo chrej e">
-<!ENTITY pref_category_accessibility "Huaj gatu\u0027">
+<!ENTITY pref_category_search3 "nanà\&apos;uì\&apos;">
+<!ENTITY pref_category_search_summary2 "Nutò\&apos;, ru\&apos;ua nianj, narikij ngo chrej e">
+<!ENTITY pref_category_accessibility "Huaj gatu\&apos;">
 <!ENTITY pref_category_accessibility_summary2 "Daj yachij letra, daj niko, riña atuj nanee">
 <!ENTITY pref_category_privacy_short "Sa huii">
-<!ENTITY pref_category_privacy_summary4 "Nana\u0027ui\u0027, cookies, ganahui datos">
+<!ENTITY pref_category_privacy_summary4 "Nana\&apos;ui\&apos;, cookies, ganahui datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, sa achín na\u0027anj yitin\u0027 doj, naga\u0027ui\u0027 du\u0027ue man an">
+<!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, sa achín na\&apos;anj yitin\&apos; doj, naga\&apos;ui\&apos; du\&apos;ue man an">
 <!ENTITY pref_category_datareporting "ganahui nej datos">
-<!ENTITY pref_category_logins "Nej riña ayi\u0027ì\u0027 sesión">
+<!ENTITY pref_category_logins "Nej riña ayi\&apos;ì\&apos; sesión">
 <!ENTITY pref_learn_more "Gahuin chrun doj">
-<!ENTITY pref_category_installed_search_engines "Nej sa nana\u0027ui\u0027t gà\u0027 nikajt">
-<!ENTITY pref_category_add_search_providers "Butô\u0027 doj nej sa rajsun\u0027 nga nana\u0027uî\u0027">
-<!ENTITY pref_category_search_restore_defaults "Nagi\u0027iaj nakà nû Nej sa nana\u0027uî\u0027t gà\u0027 nikajt">
-<!ENTITY pref_search_restore_defaults "Nagi\u0027iaj nakà ñu nej sa gá hua">
-<!ENTITY pref_search_restore_defaults_summary "Nagi\u0027iaj nakà ñû nej sa ni\u0027ñanj gà\u0027 hua">
+<!ENTITY pref_category_installed_search_engines "Nej sa nana\&apos;ui\&apos;t gà\&apos; nikajt">
+<!ENTITY pref_category_add_search_providers "Butô\&apos; doj nej sa rajsun\&apos; nga nana\&apos;uî\&apos;">
+<!ENTITY pref_category_search_restore_defaults "Nagi\&apos;iaj nakà nû Nej sa nana\&apos;uî\&apos;t gà\&apos; nikajt">
+<!ENTITY pref_search_restore_defaults "Nagi\&apos;iaj nakà ñu nej sa gá hua">
+<!ENTITY pref_search_restore_defaults_summary "Nagi\&apos;iaj nakà ñû nej sa ni\&apos;ñanj gà\&apos; hua">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "Chrej e: Nuto\u0027 ahuin naj man\u0027an sitio web riña dukuàn nej sa nana\u0027uî\u0027t ma si ginù nâ dej ra\u0027ât riña nu si yugui man ni ne\u0027 rukù guru\u0027man ra\u0027at riña taj &formatI; icon.">
+<!ENTITY pref_search_hint2 "Chrej e: Nuto\&apos; ahuin naj man\&apos;an sitio web riña dukuàn nej sa nana\&apos;uî\&apos;t ma si ginù nâ dej ra\&apos;ât riña nu si yugui man ni ne\&apos; rukù guru\&apos;man ra\&apos;at riña taj &formatI; icon.">
 <!ENTITY pref_category_advanced "Sa huaj ñaa">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Rakïj ñanj ngà ganarânt, nachra sa\&apos; datos, ràsun nagi\&apos;iaj hue\&apos;e ">
-<!ENTITY pref_category_notifications "Sa ataj na\u0027anj">
-<!ENTITY pref_category_notifications_summary "Nej sa naka doj, nagui\u0027iaj nako\u0027 web ">
-<!ENTITY pref_content_notifications "nagui\u0027iaj nako\u0027 nej sa ma riña web">
-<!ENTITY pref_content_notifications_summary2 "Na\u0027ui\u0027 sa naka doj nun  dugu\u0027nin\u0027 ruku sitio">
+<!ENTITY pref_category_notifications "Sa ataj na\&apos;anj">
+<!ENTITY pref_category_notifications_summary "Nej sa naka doj, nagui\&apos;iaj nako\&apos; web ">
+<!ENTITY pref_content_notifications "nagui\&apos;iaj nako\&apos; nej sa ma riña web">
+<!ENTITY pref_content_notifications_summary2 "Na\&apos;ui\&apos; sa naka doj nun  dugu\&apos;nin\&apos; ruku sitio">
 <!ENTITY pref_developer_remotedebugging_usb "Guyan sa kïj hua nga USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Guyun sa kïj hua nga Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Da\u0027 nagui\u0027iaj niñun nga Wi-Fi ni da\u0027ui si aga\u0027 ganika ngo app sa ahia nej da´nga QR.">
-<!ENTITY pref_remember_signons2 "Dunanu ruhuâ nga ayi\u0027ì nej sesión">
-<!ENTITY pref_manage_logins "Dugumî hue\u0027ê\u0027 daran\u0027 riña ayi\u0027ì nej sesión">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Da\&apos; nagui\&apos;iaj niñun nga Wi-Fi ni da\&apos;ui si aga\&apos; ganika ngo app sa ahia nej da´nga QR.">
+<!ENTITY pref_remember_signons2 "Dunanu ruhuâ nga ayi\&apos;ì nej sesión">
+<!ENTITY pref_manage_logins "Dugumî hue\&apos;ê\&apos; daran\&apos; riña ayi\&apos;ì nej sesión">
 
-<!ENTITY pref_category_home "Riñan gayi\u0027ij">
-<!ENTITY pref_category_home_summary "Naduna dàj garan\u0027 ruhuât riña ñanj ayi\u0027ìt">
-<!ENTITY pref_category_home_panels "Riñan guiri nu\u0027un\u0027">
+<!ENTITY pref_category_home "Riñan gayi\&apos;ij">
+<!ENTITY pref_category_home_summary "Naduna dàj garan\&apos; ruhuât riña ñanj ayi\&apos;ìt">
+<!ENTITY pref_category_home_panels "Riñan guiri nu\&apos;un\&apos;">
 <!ENTITY pref_category_home_add_ons "Sa nagi\&apos;iaj hue\&apos;e doj">
-<!ENTITY pref_home_updates2 "nagui\u0027iaj nako\u0027 sa ma na">
-<!ENTITY pref_home_updates_enabled "Ngà \u0027iaj sunj">
+<!ENTITY pref_home_updates2 "nagui\&apos;iaj nako\&apos; sa ma na">
+<!ENTITY pref_home_updates_enabled "Ngà \&apos;iaj sunj">
 <!ENTITY pref_home_updates_wifi "Man nga Wi-Fi">
-<!ENTITY pref_category_home_homepage "Ñanj ayi\u0027ì\u0027">
+<!ENTITY pref_category_home_homepage "Ñanj ayi\&apos;ì\&apos;">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Guendâ rakïj ñanj nakàa huin nan nej">
-<!ENTITY home_homepage_title "Gachrun\u0027 ñanj ayi\u0027ì\u0027">
+<!ENTITY home_homepage_title "Gachrun\&apos; ñanj ayi\&apos;ì\&apos;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Gayi\u0027ì &brandShortName; Gayi\u0027i\u0027">
+<!ENTITY home_homepage_radio_default "Gayi\&apos;ì &brandShortName; Gayi\&apos;i\&apos;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "Nagui\u0027iaj mu\u0027ûn\u0027">
+<!ENTITY home_homepage_radio_user_address "Nagui\&apos;iaj mu\&apos;ûn\&apos;">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "Gachrun riñan ga\u0027anj nej si dunaj sa nana\u0027ui\u0027">
+<!ENTITY home_homepage_hint_user_address "Gachrun riñan ga\&apos;anj nej si dunaj sa nana\&apos;ui\&apos;">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_general "Da\u0027ua nguéj">
-<!ENTITY pref_header_search "Nana\u0027ui\u0027">
+<!ENTITY pref_header_general "Da\&apos;ua nguéj">
+<!ENTITY pref_header_search "Nana\&apos;ui\&apos;">
 <!ENTITY pref_header_privacy_short "Sa hùii">
-<!ENTITY pref_header_accessibility "Huaj gatu\u0027">
-<!ENTITY pref_header_notifications "Sa ataj na\u0027anj">
+<!ENTITY pref_header_accessibility "Huaj gatu\&apos;">
+<!ENTITY pref_header_notifications "Sa ataj na\&apos;anj">
 <!ENTITY pref_header_advanced "Sa huaj ñaan">
 <!ENTITY pref_header_help "Sa rugujñu\&apos;unj">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Ngà \u0027iaj sunj">
-<!ENTITY pref_cookies_not_accept_foreign "Ngà \u0027iaj sunj, nagi\u0027iaj anej man sa ânej e">
+<!ENTITY pref_cookies_accept_all "Ngà \&apos;iaj sunj">
+<!ENTITY pref_cookies_not_accept_foreign "Ngà \&apos;iaj sunj, nagi\&apos;iaj anej man sa ânej e">
 <!ENTITY pref_cookies_disabled "Nitaj si huáj">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -259,63 +259,63 @@
 <!ENTITY pref_category_media "sa dani in">
 <!ENTITY pref_category_developer_tools "Rasun arajsun Firefox">
 
-<!ENTITY pref_tap_to_load_images_title2 "Nadigun\u0027 ña du\u0027ua">
+<!ENTITY pref_tap_to_load_images_title2 "Nadigun\&apos; ña du\&apos;ua">
 <!ENTITY pref_tap_to_load_images_enabled "Nigànj chre">
-<!ENTITY pref_tap_to_load_images_data "Ma \u0027ngorïn ngà Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Nitaj si huaj nayi\u0027nin">
+<!ENTITY pref_tap_to_load_images_data "Ma \&apos;ngorïn ngà Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Nitaj si huaj nayi\&apos;nin">
 
-<!ENTITY pref_show_web_fonts "Digan daj nej da\u0027nga ma riña web">
-<!ENTITY pref_show_web_fonts_summary2 "Naduninj sa garasun nga na\u0027ninj pagina">
+<!ENTITY pref_show_web_fonts "Digan daj nej da\&apos;nga ma riña web">
+<!ENTITY pref_show_web_fonts_summary2 "Naduninj sa garasun nga na\&apos;ninj pagina">
 
-<!ENTITY pref_tracking_protection_title2 "Sa narrán riña sa naga\u0027nàj a">
-<!ENTITY pref_tracking_protection_summary3 "Gà\u0027 natuj rè\u0027 riña gachenu huì rè\u0027">
-<!ENTITY pref_donottrack_title "Si nana\u0027ui\u0027">
-<!ENTITY pref_donottrack_summary "&brandShortName; gataj gunin nej sitio da\u0027 nana\u0027uij ñunj">
+<!ENTITY pref_tracking_protection_title2 "Sa narrán riña sa naga\&apos;nàj a">
+<!ENTITY pref_tracking_protection_summary3 "Gà\&apos; natuj rè\&apos; riña gachenu huì rè\&apos;">
+<!ENTITY pref_donottrack_title "Si nana\&apos;ui\&apos;">
+<!ENTITY pref_donottrack_summary "&brandShortName; gataj gunin nej sitio da\&apos; nana\&apos;uij ñunj">
 
-<!ENTITY pref_tracking_protection_enabled "Ngà \u0027iaj sunj">
-<!ENTITY pref_tracking_protection_enabled_pb "Gà\u0027 natuj rè\u0027 riña gachenu huì rè\u0027">
+<!ENTITY pref_tracking_protection_enabled "Ngà \&apos;iaj sunj">
+<!ENTITY pref_tracking_protection_enabled_pb "Gà\&apos; natuj rè\&apos; riña gachenu huì rè\&apos;">
 <!ENTITY pref_tracking_protection_disabled "Nitaj si huáj">
 
-<!ENTITY pref_whats_new_notification " Na\u0027ni sa nakaa riñan &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Guini\u0027iaj daj \u0027iaj sun ngá guisij nagui\u0027iaj nakat">
+<!ENTITY pref_whats_new_notification " Na\&apos;ni sa nakaa riñan &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Guini\&apos;iaj daj \&apos;iaj sun ngá guisij nagui\&apos;iaj nakat">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "Sa hiáj raj hue\u0027">
+<!ENTITY pref_category_experimental "Sa hiáj raj hue\&apos;">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Rakij ñanj nagi\u0027iô\u0027">
-<!ENTITY pref_custom_tabs_summary3 "Ga\u0027nin da\u0027 na\u0027nin ma nej web daj anin ru ma\u0027an &brandShortName;">
+<!ENTITY pref_custom_tabs "Rakij ñanj nagi\&apos;iô\&apos;">
+<!ENTITY pref_custom_tabs_summary3 "Ga\&apos;nin da\&apos; na\&apos;nin ma nej web daj anin ru ma\&apos;an &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-<!ENTITY custom_tabs_menu_item_open_in "Na\u0027nin riña &formatS;">
-<!ENTITY custom_tabs_menu_footer "&brandShortName; Nagi\u0027iaj ña\u0027an nan">
+<!ENTITY custom_tabs_menu_item_open_in "Na\&apos;nin riña &formatS;">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; Nagi\&apos;iaj ña\&apos;an nan">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "Ngà nari\u0027 URL">
+<!ENTITY custom_tabs_hint_url_copy "Ngà nari\&apos; URL">
 
 <!ENTITY pref_pwa "Aplikasiûn web chruun">
 <!ENTITY pref_pwa_summary "Ga\&apos;nin da\&apos; naginùn aplikasiûn riña pantâya">
 
-<!ENTITY tracking_protection_prompt_title "hiaj ni gà\u0027 hua arrán riña sa naga\u0027naj a">
-<!ENTITY tracking_protection_prompt_text "Narrán riña daran\u0027 sa ga\u0027ue naga\u0027naj da\u0027 si ganï chì\u0027 ruhuât">
-<!ENTITY tracking_protection_prompt_tip_text "Si ruhuât gini\u0027înt doj daj dugumît sa arajsunt ni guij ni\u0027iaj hiuj na">
+<!ENTITY tracking_protection_prompt_title "hiaj ni gà\&apos; hua arrán riña sa naga\&apos;naj a">
+<!ENTITY tracking_protection_prompt_text "Narrán riña daran\&apos; sa ga\&apos;ue naga\&apos;naj da\&apos; si ganï chì\&apos; ruhuât">
+<!ENTITY tracking_protection_prompt_tip_text "Si ruhuât gini\&apos;înt doj daj dugumît sa arajsunt ni guij ni\&apos;iaj hiuj na">
 <!ENTITY tracking_protection_prompt_action_button "¡Niká!">
 
 <!ENTITY tab_queue_toast_message3 "Rakij ñanj nanín riñan &brandShortName;">
-<!ENTITY tab_queue_toast_action "Na\u0027nin hiaj">
-<!ENTITY tab_queue_prompt_title "¡Na\u0027nin ga\u0027í enlace aj?">
-<!ENTITY tab_queue_prompt_text4 "Na\u0027nïnj ginu sà\u0027aj nda na\u0027nïn ñût gini\u0027iajt &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "Ga\u0027ue nadunat na ne\u0027 rukù riña nagui\u0027 sa huin ruhuô\u0027">
+<!ENTITY tab_queue_toast_action "Na\&apos;nin hiaj">
+<!ENTITY tab_queue_prompt_title "¡Na\&apos;nin ga\&apos;í enlace aj?">
+<!ENTITY tab_queue_prompt_text4 "Na\&apos;nïnj ginu sà\&apos;aj nda na\&apos;nïn ñût gini\&apos;iajt &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Ga\&apos;ue nadunat na ne\&apos; rukù riña nagui\&apos; sa huin ruhuô\&apos;">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Ga\u0027ue nari\u0027 riña a\u0027ngo aplikacion">
-<!ENTITY tab_queue_prompt_positive_action_button "Dugi\u0027iaj sun\u0027 man">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Ga\&apos;ue nari\&apos; riña a\&apos;ngo aplikacion">
+<!ENTITY tab_queue_prompt_positive_action_button "Dugi\&apos;iaj sun\&apos; man">
 <!ENTITY tab_queue_prompt_negative_action_button "Nitaj">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Gun\u0027 riña nagui\u0027io daj anin ruo\u0027">
+<!ENTITY tab_queue_prompt_settings_button "Gun\&apos; riña nagui\&apos;io daj anin ruo\&apos;">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -324,101 +324,101 @@
 <!ENTITY tab_queue_notification_text_plural2 "Rakij ñanj anahuij &formatD; ">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "ana\u0027uìj rakïj ñaj">
+<!ENTITY tab_queue_notification_text_singular2 "ana\&apos;uìj rakïj ñaj">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Da\u0027 \&quot;ga\u0027ue na\u0027nin a\u0027go ñanj\&quot;, gui\u0027iaj suntuj u, garayinat \&quot;Nari riña a\u0027ngo aplikacion\&quot; &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Da\&apos; \&quot;ga\&apos;ue na\&apos;nin a\&apos;go ñanj\&quot;, gui\&apos;iaj suntuj u, garayinat \&quot;Nari riña a\&apos;ngo aplikacion\&quot; &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; nagui\u0027iaj nako\u0027 web">
+<!ENTITY content_notification_title_plural "&formatD; nagui\&apos;iaj nako\&apos; web">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Nagui\u0027io\u0027">
+<!ENTITY content_notification_action_settings2 "Nagui\&apos;io\&apos;">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!ENTITY content_notification_action_read_now "Gahia">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "nagui\u0027iaj nako\u0027 &formatS;">
+<!ENTITY content_notification_updated_on "nagui\&apos;iaj nako\&apos; &formatS;">
 
-<!ENTITY pref_char_encoding "Diganj da\u0027nga\u0027 hua ña\u0027aan">
-<!ENTITY pref_char_encoding_on "Digun daran da\u0027nga">
-<!ENTITY pref_char_encoding_off "Don\u0027t show menu">
-<!ENTITY pref_clear_private_data2 "Nagui\u0027iaj niñu\u0027 sa huii">
+<!ENTITY pref_char_encoding "Diganj da\&apos;nga\&apos; hua ña\&apos;aan">
+<!ENTITY pref_char_encoding_on "Digun daran da\&apos;nga">
+<!ENTITY pref_char_encoding_off "Don\&apos;t show menu">
+<!ENTITY pref_clear_private_data2 "Nagui\&apos;iaj niñu\&apos; sa huii">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "Dure\u0027 hiaj">
-<!ENTITY pref_clear_on_exit_title3 "Nadure\u0027 nuguan\u0027 huii nga gahui">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ganadure\u0027 ma\u0027an nej dan nga ganahui \u0022Quit\u0022 riñan ñanj taj ne\u0027ian an.">
-<!ENTITY pref_clear_on_exit_dialog_title "Ganahui ahuin si ruat ganare\u0027">
-<!ENTITY pref_restore_tabs "Nagui\u0027iaj nako\u0027 rakij man">
-<!ENTITY pref_restore_always "Nagui\u0027iaj naka">
-<!ENTITY pref_restore_quit "Si nagui\u0027io\u0027 nga gahui\u0027 riñan &brandShortName;">
+<!ENTITY pref_clear_private_data_now_tablet "Dure\&apos; hiaj">
+<!ENTITY pref_clear_on_exit_title3 "Nadure\&apos; nuguan\&apos; huii nga gahui">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ganadure\&apos; ma\&apos;an nej dan nga ganahui \&quot;Quit\&quot; riñan ñanj taj ne\&apos;ian an.">
+<!ENTITY pref_clear_on_exit_dialog_title "Ganahui ahuin si ruat ganare\&apos;">
+<!ENTITY pref_restore_tabs "Nagui\&apos;iaj nako\&apos; rakij man">
+<!ENTITY pref_restore_always "Nagui\&apos;iaj naka">
+<!ENTITY pref_restore_quit "Si nagui\&apos;io\&apos; nga gahui\&apos; riñan &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Garasun dàj yachìj si fuendê sistêma">
 <!ENTITY pref_use_system_font_size_summary "Si fuendê sistêma nikaj web">
 
-<!ENTITY pref_media_autoplay_enabled "Duguchrá ma\u0027an aga\u0027 nan">
-<!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\u0027ue nadigân man\u0027an sa nihià\u0027 ni\u0027io\u0027 nga a\u0027ngô ne sa siki\u0027 ni\u0027io\u0027">
-<!ENTITY pref_zoom_force_enabled "Hua yugui nigànj sa nagi\u0027iaj nichrùn\u0027un">
-<!ENTITY pref_zoom_force_enabled_summary "Nachrun duguì\u0027 da\u0027 ga\u0027ue gini\u0027iajt dàj garan\u0027 ruhuât \u0027ngo ñanj">
+<!ENTITY pref_media_autoplay_enabled "Duguchrá ma\&apos;an aga\&apos; nan">
+<!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\&apos;ue nadigân man\&apos;an sa nihià\&apos; ni\&apos;io\&apos; nga a\&apos;ngô ne sa siki\&apos; ni\&apos;io\&apos;">
+<!ENTITY pref_zoom_force_enabled "Hua yugui nigànj sa nagi\&apos;iaj nichrùn\&apos;un">
+<!ENTITY pref_zoom_force_enabled_summary "Nachrun duguì\&apos; da\&apos; ga\&apos;ue gini\&apos;iajt dàj garan\&apos; ruhuât \&apos;ngo ñanj">
 <!ENTITY pref_voice_input "Riñan gatu naneé">
-<!ENTITY pref_voice_input_summary2 "Ga\u0027nin\u0027 nuguan\u0027 ataj du\u0027uô\u0027 riña dukuán rà nù siyugui">
-<!ENTITY pref_qrcode_enabled "Sa ahia nej da\u0027nga\u0027 QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Ga\u0027nin\u0027 nahui ñadu\u0027ua QR riña dukuán rà nù siyugui">
+<!ENTITY pref_voice_input_summary2 "Ga\&apos;nin\&apos; nuguan\&apos; ataj du\&apos;uô\&apos; riña dukuán rà nù siyugui">
+<!ENTITY pref_qrcode_enabled "Sa ahia nej da\&apos;nga\&apos; QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Ga\&apos;nin\&apos; nahui ñadu\&apos;ua QR riña dukuán rà nù siyugui">
 
-<!ENTITY pref_use_master_password "Garasun da\u0027nga niko">
-<!ENTITY pref_sync2 "Gayi\u0027i sesión">
-<!ENTITY pref_sync_summary2 "Nagi\u0027iaj guñan nej rakïj ñaj, nej sa ña\u0027aan, nej da\u0027nga\u0027 hùii ngà daran\u0027 nej sa gà\u0027 ni\u0027iajt">
-<!ENTITY pref_search_suggestions "Digun sa gana\u0027ui\u0027">
-<!ENTITY pref_history_search_suggestions "Ni\u0027iaj nej sa gà\u0027 ni\u0027iajt">
-<!ENTITY pref_import_options "A\u0027ngô sa ruhuât gini\u0027iajt">
-<!ENTITY pref_import_android_summary "Guxun\u0027 nej sa ña\u0027aan ni nej sa gà\u0027 gahuin riña gaché nu\u0027">
+<!ENTITY pref_use_master_password "Garasun da\&apos;nga niko">
+<!ENTITY pref_sync2 "Gayi\&apos;i sesión">
+<!ENTITY pref_sync_summary2 "Nagi\&apos;iaj guñan nej rakïj ñaj, nej sa ña\&apos;aan, nej da\&apos;nga\&apos; hùii ngà daran\&apos; nej sa gà\&apos; ni\&apos;iajt">
+<!ENTITY pref_search_suggestions "Digun sa gana\&apos;ui\&apos;">
+<!ENTITY pref_history_search_suggestions "Ni\&apos;iaj nej sa gà\&apos; ni\&apos;iajt">
+<!ENTITY pref_import_options "A\&apos;ngô sa ruhuât gini\&apos;iajt">
+<!ENTITY pref_import_android_summary "Guxun\&apos; nej sa ña\&apos;aan ni nej sa gà\&apos; gahuin riña gaché nu\&apos;">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Na\u0027nin rakïj ñanj">
-<!ENTITY pref_private_data_history2 "Nej sa gà\u0027 ni\u0027io\u0027 nga gachénu\u0027">
-<!ENTITY pref_private_data_searchHistory "Nej sa ni\u0027io\u0027 gà\u0027 nana\u0027uî\u0027">
-<!ENTITY pref_private_data_formdata2 "Nej sa gà\u0027 ni\u0027io\u0027 rayi\u0027î nej formulario">
-<!ENTITY pref_private_data_cookies2 "Cookies ni nej sesión hua ni\u0027nïnj">
-<!ENTITY pref_private_data_passwords2 "Sesión gà\u0027 gayi\u0027ì\u0027 nu sà\u0027a">
+<!ENTITY pref_private_data_openTabs "Na\&apos;nin rakïj ñanj">
+<!ENTITY pref_private_data_history2 "Nej sa gà\&apos; ni\&apos;io\&apos; nga gachénu\&apos;">
+<!ENTITY pref_private_data_searchHistory "Nej sa ni\&apos;io\&apos; gà\&apos; nana\&apos;uî\&apos;">
+<!ENTITY pref_private_data_formdata2 "Nej sa gà\&apos; ni\&apos;io\&apos; rayi\&apos;î nej formulario">
+<!ENTITY pref_private_data_cookies2 "Cookies ni nej sesión hua ni\&apos;nïnj">
+<!ENTITY pref_private_data_passwords2 "Sesión gà\&apos; gayi\&apos;ì\&apos; nu sà\&apos;a">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Nuguan\u0027 a\u0027min rayi\u0027î nej sitio web nitaj si \u0027iaj suun">
-<!ENTITY pref_private_data_siteSettings2 "Nagi\u0027iô\u0027 dàj huin ruhuô\u0027 sitio">
-<!ENTITY pref_private_data_downloadFiles2 "Nej sa naduni\u0027">
+<!ENTITY pref_private_data_offlineApps "Nuguan\&apos; a\&apos;min rayi\&apos;î nej sitio web nitaj si \&apos;iaj suun">
+<!ENTITY pref_private_data_siteSettings2 "Nagi\&apos;iô\&apos; dàj huin ruhuô\&apos; sitio">
+<!ENTITY pref_private_data_downloadFiles2 "Nej sa naduni\&apos;">
 <!ENTITY pref_private_data_syncedTabs "Nej rakïj ñaj guña huaa">
 
-<!ENTITY pref_default_browser "Na nagi\u0027iát \u0027ngo sa riña nana\u0027uì\u0027 yitïnjt">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Guij ni\u0027iaj sa dugu\u0027nïn\u0027 rukû Mozilla">
-<!ENTITY pref_about_firefox "Ra yi\u0027î &brandShortName;">
+<!ENTITY pref_default_browser "Na nagi\&apos;iát \&apos;ngo sa riña nana\&apos;uì\&apos; yitïnjt">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Guij ni\&apos;iaj sa dugu\&apos;nïn\&apos; rukû Mozilla">
+<!ENTITY pref_about_firefox "Ra yi\&apos;î &brandShortName;">
 <!ENTITY pref_vendor_faqs "Nej sa achínaj anj guìi doj">
-<!ENTITY pref_vendor_feedback "Ganin sa anin ruo\u0027">
+<!ENTITY pref_vendor_feedback "Ganin sa anin ruo\&apos;">
 
 <!ENTITY pref_dialog_set_default "Huê na garasun yitïnjt">
-<!ENTITY pref_dialog_default "Sa gà\u0027 \u0027na\u0027 niñaan">
+<!ENTITY pref_dialog_default "Sa gà\&apos; \&apos;na\&apos; niñaan">
 <!ENTITY pref_dialog_remove "Guyun">
 
-<!ENTITY pref_search_last_toast "Si ga\u0027ue guxun motor garajsunt ne\u0027 rukù nï\u0027ï">
+<!ENTITY pref_search_last_toast "Si ga\&apos;ue guxun motor garajsunt ne\&apos; rukù nï\&apos;ï">
 
 <!ENTITY pref_panels_show "Digan">
 <!ENTITY pref_panels_hide "Gachri hùi">
-<!ENTITY pref_panels_reorder "Naduna yi\u0027nïn\u0027 huaa">
-<!ENTITY pref_panels_move_up "Dusiki\u0027 gan\u0027an ne\u0027 yatá\u0027a">
-<!ENTITY pref_panels_move_down "Dusiki\u0027 gan\u0027an ne\u0027 riki">
+<!ENTITY pref_panels_reorder "Naduna yi\&apos;nïn\&apos; huaa">
+<!ENTITY pref_panels_move_up "Dusiki\&apos; gan\&apos;an ne\&apos; yatá\&apos;a">
+<!ENTITY pref_panels_move_down "Dusiki\&apos; gan\&apos;an ne\&apos; riki">
 
-<!ENTITY datareporting_notification_title "Estadistica ni nej nuguan\u0027 a\u0027min rayi\u0027î &brandShortName;">
-<!ENTITY datareporting_notification_action "Nagui sa ruhuât duyinga\u0027t">
+<!ENTITY datareporting_notification_title "Estadistica ni nej nuguan\&apos; a\&apos;min rayi\&apos;î &brandShortName;">
+<!ENTITY datareporting_notification_action "Nagui sa ruhuât duyinga\&apos;t">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Nagui nuguan\u0027 ruhuât duyinga\u0027t">
-<!ENTITY datareporting_notification_summary "Da\u0027 gahuin chrunt doj rayi\u0027î \u0027ngo sa gà\u0027 ni\u0027înt, &brandShortName; gan\u0027anj ma\u0027an nuguan\u0027an riña &vendorShortName;.">
+<!ENTITY datareporting_notification_action_long "Nagui nuguan\&apos; ruhuât duyinga\&apos;t">
+<!ENTITY datareporting_notification_summary "Da\&apos; gahuin chrunt doj rayi\&apos;î \&apos;ngo sa gà\&apos; ni\&apos;înt, &brandShortName; gan\&apos;anj ma\&apos;an nuguan\&apos;an riña &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -429,177 +429,177 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName;  Sa nata\u0027 rayi\u0027î nej sa hua a\u0027na\u0027an">
-<!ENTITY datareporting_abouthr_title "Ni\u0027iâ dàj hua rayi\u0027î">
+<!ENTITY datareporting_fhr_title "&brandShortName;  Sa nata\&apos; rayi\&apos;î nej sa hua a\&apos;na\&apos;an">
+<!ENTITY datareporting_abouthr_title "Ni\&apos;iâ dàj hua rayi\&apos;î">
 <!ENTITY datareporting_telemetry_title "Telemetría">
-<!ENTITY datareporting_telemetry_summary "Garasun nugun\u0027ùn\u0027 dàj nùkuaj ma, daj araj sun\u0027 ma, si gaga\u0027aj ni nej nuguan\u0027 gachrûn\u0027 rayi\u0027î\u0027 nga gayi\u0027i\u0027 gaché nu\u0027 ngà &vendorShortName; da\u0027 ruguñu\u0027unjt ñuj &brandShortName; nagi\u0027iaj hue\u0027ê ñuj">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; natà\u0027 rayi\u0027î \u0027ngo sa nu \u0027iaj sun hue\u0027ê da\u0027 rugujñu\u0027unjt &vendorShortName; da\u0027 gi\u0027iaj sun hue\u0027ê doj si gagâ\u0027t ni ga yitïnj ma doj">
+<!ENTITY datareporting_telemetry_summary "Garasun nugun\&apos;ùn\&apos; dàj nùkuaj ma, daj araj sun\&apos; ma, si gaga\&apos;aj ni nej nuguan\&apos; gachrûn\&apos; rayi\&apos;î\&apos; nga gayi\&apos;i\&apos; gaché nu\&apos; ngà &vendorShortName; da\&apos; ruguñu\&apos;unjt ñuj &brandShortName; nagi\&apos;iaj hue\&apos;ê ñuj">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; natà\&apos; rayi\&apos;î \&apos;ngo sa nu \&apos;iaj sun hue\&apos;ê da\&apos; rugujñu\&apos;unjt &vendorShortName; da\&apos; gi\&apos;iaj sun hue\&apos;ê doj si gagâ\&apos;t ni ga yitïnj ma doj">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Sa nata\u0027 rayi\u0027î nej sa gire\u0027e">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Sa rugujñu\u0027unj nana\u0027ui\u0027 \u0027ngo sa huin ruhuô\u0027">
-<!ENTITY datareporting_wifi_geolocation_summary4 "¡Ruguñu\u0027unj &vendorShortName; da\u0027 gini\u0027in yumiguìi! Gataj na\u0027anj hiuj nikïn\u0027t ngà Wi-Fi si nitaj ni ngà a\u0027ngô aga\u0027 sikà\u0027 ràa da\u0027 ga\u0027ue nahuin hue\u0027ê doj suun nadigân riña nikïn\u0027.">
+<!ENTITY datareporting_crashreporter_title_short "Sa nata\&apos; rayi\&apos;î nej sa gire\&apos;e">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "¡Ruguñu\&apos;unj &vendorShortName; da\&apos; gini\&apos;in yumiguìi! Gataj na\&apos;anj hiuj nikïn\&apos;t ngà Wi-Fi si nitaj ni ngà a\&apos;ngô aga\&apos; sikà\&apos; ràa da\&apos; ga\&apos;ue nahuin hue\&apos;ê doj suun nadigân riña nikïn\&apos;.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Nagui\u0027iaj naka ma\u0027an man">
-<!ENTITY pref_update_autodownload_wifi "Ma \u0027ngorïn ngà Wi-Fi">
+<!ENTITY pref_update_autodownload3 "Nagui\&apos;iaj naka ma\&apos;an man">
+<!ENTITY pref_update_autodownload_wifi "Ma \&apos;ngorïn ngà Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nitaj ama">
 <!ENTITY pref_update_autodownload_always "Nigànj chre">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Sa ruguj ñu\&apos;unj">
 
-<!ENTITY quit "Gahui\u0027">
+<!ENTITY quit "Gahui\&apos;">
 
-<!ENTITY addons "Sa ruguj ñu\u0027unj">
-<!ENTITY logins "Nej ña ayi\u0027ì sesión">
-<!ENTITY downloads "Naduni\u0027">
-<!ENTITY char_encoding "Sa nani\u0027in da\u0027nga\u0027 hua ña\u0027aan">
+<!ENTITY addons "Sa ruguj ñu\&apos;unj">
+<!ENTITY logins "Nej ña ayi\&apos;ì sesión">
+<!ENTITY downloads "Naduni\&apos;">
+<!ENTITY char_encoding "Sa nani\&apos;in da\&apos;nga\&apos; hua ña\&apos;aan">
 
 <!ENTITY share "Ga\&apos;nì\&apos; ngà">
-<!ENTITY share_title "Duyingô\u0027 ngà">
-<!ENTITY share_image_failed "Si ga\u0027ue duyingô\u0027 ñadu\u0027ua ñaj na">
-<!ENTITY save_as_pdf "Na\u0027ninj nga PDF">
-<!ENTITY print "nari\u0027 ñadu\u0027ua">
-<!ENTITY find_in_page "Nana\u0027ui\u0027 riñan ñanj">
-<!ENTITY desktop_mode "Gachìn\u0027 riña ñanj sinïï">
+<!ENTITY share_title "Duyingô\&apos; ngà">
+<!ENTITY share_image_failed "Si ga\&apos;ue duyingô\&apos; ñadu\&apos;ua ñaj na">
+<!ENTITY save_as_pdf "Na\&apos;ninj nga PDF">
+<!ENTITY print "nari\&apos; ñadu\&apos;ua">
+<!ENTITY find_in_page "Nana\&apos;ui\&apos; riñan ñanj">
+<!ENTITY desktop_mode "Gachìn\&apos; riña ñanj sinïï">
 <!ENTITY page "Ñanj">
 <!ENTITY tools "Rasun">
 <!ENTITY new_tab "Rakïj ñaj nakàa">
-<!ENTITY new_private_tab "Rakïj ñaj nakà garasun \u0027ngo rïn\u0027">
-<!ENTITY close_all_tabs "Narrûn\u0027 riña daran\u0027 nej rakïj ñaj">
-<!ENTITY close_private_tabs "Narrûn riña nej rakïj ñaj arajsun \u0027ngo rïn\u0027">
+<!ENTITY new_private_tab "Rakïj ñaj nakà garasun \&apos;ngo rïn\&apos;">
+<!ENTITY close_all_tabs "Narrûn\&apos; riña daran\&apos; nej rakïj ñaj">
+<!ENTITY close_private_tabs "Narrûn riña nej rakïj ñaj arajsun \&apos;ngo rïn\&apos;">
 <!ENTITY tabs_normal "Rakïj ñaj">
 <!ENTITY tabs_private "Sa huii">
-<!ENTITY set_image_fail "Na\u0027ue nanù ñadu\u0027ua ñaj">
-<!ENTITY set_image_path_fail "No gana\u0027inj sa\u0027aj ñan du\u0027ua re\u0027">
-<!ENTITY set_image_chooser_title "Garasun ñan du\u0027ua nga">
+<!ENTITY set_image_fail "Na\&apos;ue nanù ñadu\&apos;ua ñaj">
+<!ENTITY set_image_path_fail "No gana\&apos;inj sa\&apos;aj ñan du\&apos;ua re\&apos;">
+<!ENTITY set_image_chooser_title "Garasun ñan du\&apos;ua nga">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Nana\u0027ui riñan ñanj">
+<!ENTITY find_text "Nana\&apos;ui riñan ñanj">
 <!ENTITY find_prev "Sa Gachin">
-<!ENTITY find_next "Ne\u0027 ñaan">
-<!ENTITY find_close "Ganarrûn\u0027">
+<!ENTITY find_next "Ne\&apos; ñaan">
+<!ENTITY find_close "Ganarrûn\&apos;">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "A´nin riñan aga\u0027">
-<!ENTITY media_play "Duguchro\u0027">
-<!ENTITY media_pause "Dunikin akuan\u0027">
+<!ENTITY media_sending_to "A´nin riñan aga\&apos;">
+<!ENTITY media_play "Duguchro\&apos;">
+<!ENTITY media_pause "Dunikin akuan\&apos;">
 <!ENTITY media_stop "Duniikin">
 
-<!ENTITY contextmenu_open_new_tab "Na\u0027nïn\u0027 riña a\u0027ngô rakïj ñaj nakàa">
-<!ENTITY contextmenu_open_private_tab "Gana\u0027ni\u0027 riñan ñanj huii">
-<!ENTITY contextmenu_remove "Dure\u0027">
-<!ENTITY contextmenu_add_to_launcher "Gachrun riñan gayi\u0027i">
-<!ENTITY contextmenu_set_as_homepage "gachrun gahuin nan paginâ riña ayi\u0027ìt">
-<!ENTITY contextmenu_share "Duyingo\u0027">
-<!ENTITY contextmenu_pasteandgo "Gachrun ni gun\u0027">
+<!ENTITY contextmenu_open_new_tab "Na\&apos;nïn\&apos; riña a\&apos;ngô rakïj ñaj nakàa">
+<!ENTITY contextmenu_open_private_tab "Gana\&apos;ni\&apos; riñan ñanj huii">
+<!ENTITY contextmenu_remove "Dure\&apos;">
+<!ENTITY contextmenu_add_to_launcher "Gachrun riñan gayi\&apos;i">
+<!ENTITY contextmenu_set_as_homepage "gachrun gahuin nan paginâ riña ayi\&apos;ìt">
+<!ENTITY contextmenu_share "Duyingo\&apos;">
+<!ENTITY contextmenu_pasteandgo "Gachrun ni gun\&apos;">
 <!ENTITY contextmenu_paste "Gachrun">
-<!ENTITY contextmenu_copyurl "Guxun\u0027 dirección">
-<!ENTITY contextmenu_edit_bookmark "Nagi\u0027iô\u0027">
-<!ENTITY contextmenu_subscribe "Gutà\u0027 si yuguît riña ñaj na">
-<!ENTITY contextmenu_site_settings "Nachrun\u0027 sa ruhuô\u0027 naduno\u0027 riña sitio">
-<!ENTITY contextmenu_top_sites_edit "Nagui\u0027iaj">
-<!ENTITY contextmenu_top_sites_pin "Nagi\u0027iaj yitïn\u0027 sîtio">
-<!ENTITY contextmenu_top_sites_unpin "Si nagi\u0027iaj yitïn\u0027 sîtio">
-<!ENTITY contextmenu_add_search_engine "Nachrun\u0027 \u0027ngo sa huin ruhuô\u0027 nanà\u0027uì\u0027">
+<!ENTITY contextmenu_copyurl "Guxun\&apos; dirección">
+<!ENTITY contextmenu_edit_bookmark "Nagi\&apos;iô\&apos;">
+<!ENTITY contextmenu_subscribe "Gutà\&apos; si yuguît riña ñaj na">
+<!ENTITY contextmenu_site_settings "Nachrun\&apos; sa ruhuô\&apos; naduno\&apos; riña sitio">
+<!ENTITY contextmenu_top_sites_edit "Nagui\&apos;iaj">
+<!ENTITY contextmenu_top_sites_pin "Nagi\&apos;iaj yitïn\&apos; sîtio">
+<!ENTITY contextmenu_top_sites_unpin "Si nagi\&apos;iaj yitïn\&apos; sîtio">
+<!ENTITY contextmenu_add_search_engine "Nachrun\&apos; \&apos;ngo sa huin ruhuô\&apos; nanà\&apos;uì\&apos;">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[Nitaj si yugui dugui\u0027 raj sun]">
-<!ENTITY doorhanger_login_edit_title "Nagui\u0027io\u0027 riñan gayi\u0027ij">
-<!ENTITY doorhanger_login_edit_username_hint "Si yugui re\u0027">
-<!ENTITY doorhanger_login_edit_password_hint "Da\u0027nga\u0027 huìi">
-<!ENTITY doorhanger_login_edit_toggle "Diguin\u0027 da´nga">
-<!ENTITY doorhanger_login_select_message "¿Guxun\u0027 si da\u0027nga\u0027 hùi &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Ngà nanû da\u0027nga\u0027 hùii riña portapapel">
-<!ENTITY doorhanger_login_select_action_text "Nagui a\u0027ngô dàj gi\u0027iát gayi\u0027ì sesion">
-<!ENTITY doorhanger_login_select_title "Ga\u0027ne\u0027 da\u0027nga\u0027 hùii asij riña">
+<!ENTITY doorhanger_login_no_username "[Nitaj si yugui dugui\&apos; raj sun]">
+<!ENTITY doorhanger_login_edit_title "Nagui\&apos;io\&apos; riñan gayi\&apos;ij">
+<!ENTITY doorhanger_login_edit_username_hint "Si yugui re\&apos;">
+<!ENTITY doorhanger_login_edit_password_hint "Da\&apos;nga\&apos; huìi">
+<!ENTITY doorhanger_login_edit_toggle "Diguin\&apos; da´nga">
+<!ENTITY doorhanger_login_select_message "¿Guxun\&apos; si da\&apos;nga\&apos; hùi &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Ngà nanû da\&apos;nga\&apos; hùii riña portapapel">
+<!ENTITY doorhanger_login_select_action_text "Nagui a\&apos;ngô dàj gi\&apos;iát gayi\&apos;ì sesion">
+<!ENTITY doorhanger_login_select_title "Ga\&apos;ne\&apos; da\&apos;nga\&apos; hùii asij riña">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Gache nu\u0027 riña da\u0027 hua ngè pantalla">
-<!ENTITY pref_scroll_title_bar_summary2 "Nachri hùi\u0027 dukuán rà nù siyugui &brandShortName; nga na\u0027nin\u0027 riña \u0027ngo ñaj">
+<!ENTITY pref_scroll_title_bar2 "Gache nu\&apos; riña da\&apos; hua ngè pantalla">
+<!ENTITY pref_scroll_title_bar_summary2 "Nachri hùi\&apos; dukuán rà nù siyugui &brandShortName; nga na\&apos;nin\&apos; riña \&apos;ngo ñaj">
 
-<!ENTITY pref_tab_queue_title3 "Rakïj ñanj \u0027na\u0027 ne\u0027 rukuu">
-<!ENTITY pref_tab_queue_summary4 "Na\u0027nïnj sà ginunj nda na\u0027nin ñût &brandShortName;">
+<!ENTITY pref_tab_queue_title3 "Rakïj ñanj \&apos;na\&apos; ne\&apos; rukuu">
+<!ENTITY pref_tab_queue_summary4 "Na\&apos;nïnj sà ginunj nda na\&apos;nin ñût &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-<!ENTITY pref_compact_tabs "Rakïj ñanj nahuin nuguan\u0027àan">
-<!ENTITY pref_compact_tabs_summary2 "Nagi\u0027aj chre\u0027 huìj dukuáan nej rakïj ñanj">
+<!ENTITY pref_compact_tabs "Rakïj ñanj nahuin nuguan\&apos;àan">
+<!ENTITY pref_compact_tabs_summary2 "Nagi\&apos;aj chre\&apos; huìj dukuáan nej rakïj ñanj">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Ñanj ngà nare\u0027">
+<!ENTITY page_removed "Ñanj ngà nare\&apos;">
 
-<!ENTITY bookmark_edit_title "Nachrun\u0027 \u0027ngo sa arajsun nichrò\u0027 doj">
+<!ENTITY bookmark_edit_title "Nachrun\&apos; \&apos;ngo sa arajsun nichrò\&apos; doj">
 <!ENTITY bookmark_edit_folder_title "Nadunâ sa hua riña karpeta">
-<!ENTITY bookmark_edit_name "Si yugui\u0027">
-<!ENTITY bookmark_edit_location "Dane\u0027 huin">
+<!ENTITY bookmark_edit_name "Si yugui\&apos;">
+<!ENTITY bookmark_edit_location "Dane\&apos; huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
 <!ENTITY bookmark_select_folder "Nagui karpêta">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "Nagi\u0027iô\u0027 daj huin ruhuô\u0027 sitio">
-<!ENTITY site_settings_cancel       "Duyichîn\u0027">
-<!ENTITY site_settings_clear        "Na\u0027nïn\u0027">
+<!ENTITY site_settings_title3       "Nagi\&apos;iô\&apos; daj huin ruhuô\&apos; sitio">
+<!ENTITY site_settings_cancel       "Duyichîn\&apos;">
+<!ENTITY site_settings_clear        "Na\&apos;nïn\&apos;">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Sun tàj a">
 
-<!ENTITY masterpassword_create_title "Giri\u0027 da\u0027nga\u0027 huì ñaan">
-<!ENTITY masterpassword_remove_title "Dure\u0027 da\u0027nga\u0027 huì ñaan">
-<!ENTITY masterpassword_password "Da\u0027nga\u0027 huìi">
-<!ENTITY masterpassword_confirm "Gachrun ñun si da\u0027nga re\u0027">
+<!ENTITY masterpassword_create_title "Giri\&apos; da\&apos;nga\&apos; huì ñaan">
+<!ENTITY masterpassword_remove_title "Dure\&apos; da\&apos;nga\&apos; huì ñaan">
+<!ENTITY masterpassword_password "Da\&apos;nga\&apos; huìi">
+<!ENTITY masterpassword_confirm "Gachrun ñun si da\&apos;nga re\&apos;">
 
 <!ENTITY button_ok "Raj yináj">
-<!ENTITY button_cancel "Duyichîn\u0027">
-<!ENTITY button_yes "Ga\u0027ue">
-<!ENTITY button_no "Si ga\u0027ue">
-<!ENTITY button_clear_data "Nadurê\u0027 nuguan\u0027an">
-<!ENTITY button_set "Nagi\u0027aj yitïnj">
+<!ENTITY button_cancel "Duyichîn\&apos;">
+<!ENTITY button_yes "Ga\&apos;ue">
+<!ENTITY button_no "Si ga\&apos;ue">
+<!ENTITY button_clear_data "Nadurê\&apos; nuguan\&apos;an">
+<!ENTITY button_set "Nagi\&apos;aj yitïnj">
 <!ENTITY button_clear "Na´nin">
-<!ENTITY button_copy "Guxun\u0027 ñadu\u0027ua">
+<!ENTITY button_copy "Guxun\&apos; ñadu\&apos;ua">
 
-<!ENTITY home_top_sites_title "Hiuj ni\u0027iaj yitïnj rè\u0027">
+<!ENTITY home_top_sites_title "Hiuj ni\&apos;iaj yitïnj rè\&apos;">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Nachrun\u0027 riña sitio">
+<!ENTITY home_top_sites_add "Nachrun\&apos; riña sitio">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; gayi\u0027ì ">
+<!ENTITY home_title "&brandShortName; gayi\&apos;ì ">
 <!ENTITY home_history_title "Sa gahuin">
-<!ENTITY home_synced_devices_smartfolder "Nej aga\u0027 hua guñaan">
-<!ENTITY home_synced_devices_number "&formatD; aga\u0027 raj raj sun\u0027">
+<!ENTITY home_synced_devices_smartfolder "Nej aga\&apos; hua guñaan">
+<!ENTITY home_synced_devices_number "&formatD; aga\&apos; raj raj sun\&apos;">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "1 aga\u0027 raj sun\u0027">
-<!ENTITY home_history_back_to2 "Naniko\u0027 riña ma sa gachin">
-<!ENTITY home_clear_history_button "Nadurê\u0027 sa gahuin nga gaché nu\u0027">
-<!ENTITY home_clear_history_confirm "¿Hua nika ruhuât nadurê\u0027t sa gahuin nga gaché nu raj?">
+<!ENTITY home_synced_devices_one "1 aga\&apos; raj sun\&apos;">
+<!ENTITY home_history_back_to2 "Naniko\&apos; riña ma sa gachin">
+<!ENTITY home_clear_history_button "Nadurê\&apos; sa gahuin nga gaché nu\&apos;">
+<!ENTITY home_clear_history_confirm "¿Hua nika ruhuât nadurê\&apos;t sa gahuin nga gaché nu raj?">
 <!ENTITY home_bookmarks_empty "Nej sa garajsunt doj nakajt naginù hiuj na.">
 <!ENTITY home_closed_tabs_title2 "Rakïj ñanj hiaj narrán nakà">
 <!ENTITY home_last_tabs_empty "Nej rakïj ñanj hìaj garasunt naginù hiuj na">
-<!ENTITY home_restore_all "Nagui\u0027iaj nakò\u0027 daran\u0027anj">
+<!ENTITY home_restore_all "Nagui\&apos;iaj nakò\&apos; daran\&apos;anj">
 <!ENTITY home_closed_tabs_number "&formatD; nej rakïj ñaj">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 rakij ñaj ">
-<!ENTITY home_most_recent_empty "Nej sitiô web hìaj gan\u0027an ni\u0027iaj nakàt naginù hiuj na">
+<!ENTITY home_most_recent_empty "Nej sitiô web hìaj gan\&apos;an ni\&apos;iaj nakàt naginù hiuj na">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: Si garasunt \u0027ngo &formatS1;rakïj ñanj hua hùi doj&formatS2; si nanin nej sa gà\u0027 gahuin ni\u0027iatj.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: Si garasunt \&apos;ngo &formatS1;rakïj ñanj hua hùi doj&formatS2; si nanin nej sa gà\&apos; gahuin ni\&apos;iatj.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "Nitaj à\u0027ngo nuj narui\u0027 riña pânel na.">
+<!ENTITY home_default_empty "Nitaj à\&apos;ngo nuj narui\&apos; riña pânel na.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -609,13 +609,13 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; nej aga\u0027 man hui">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; nej aga\&apos; man hui">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Nej aga\u0027 man hui">
+<!ENTITY home_remote_tabs_hidden_devices_title "Nej aga\&apos; man hui">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Nadigun\u0027 nej aga\u0027a">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Nadigun\&apos; nej aga\&apos;a">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
@@ -623,15 +623,15 @@
 <!ENTITY home_unpinned_site "Nu nayi\&apos;nïn sîtio">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Rakïj ñanj doj?">
-<!ENTITY remote_tabs_panel_moved_desc "Nadusiki\u0027 ñuj nej rakïj ñaj arajsunt ngà a\u0027ngô nej aga\u0027 sikà\u0027 ràa ni nachrûn ñuj ma riña \u0027ngo ñanj ayi\u0027ì\u0027 da\u0027 nga na\u0027nïjt \u0027ngo rakíj ñanj nakàa ni se si chì\u0027 narì\u0027t ma.">
-<!ENTITY remote_tabs_panel_moved_link "Gan\u0027anj ni\u0027iâ riña si panel sa nakàa.">
+<!ENTITY remote_tabs_panel_moved_desc "Nadusiki\&apos; ñuj nej rakïj ñaj arajsunt ngà a\&apos;ngô nej aga\&apos; sikà\&apos; ràa ni nachrûn ñuj ma riña \&apos;ngo ñanj ayi\&apos;ì\&apos; da\&apos; nga na\&apos;nïjt \&apos;ngo rakíj ñanj nakàa ni se si chì\&apos; narì\&apos;t ma.">
+<!ENTITY remote_tabs_panel_moved_link "Gan\&apos;anj ni\&apos;iâ riña si panel sa nakàa.">
 
-<!ENTITY pin_site_dialog_hint "Gachrun nugua\u0027 nanhui\u0027">
+<!ENTITY pin_site_dialog_hint "Gachrun nugua\&apos; nanhui\&apos;">
 
-<!ENTITY filepicker_title "Nagui sa ma che\u0027e">
-<!ENTITY filepicker_audio_title "Ganahui nej ga\u0027ninj si nanee re">
-<!ENTITY filepicker_image_title "Ganahui nej si nari riñan du\u0027ua re">
-<!ENTITY filepicker_video_title "Ganahui nej si nari sa sikï\u0027">
+<!ENTITY filepicker_title "Nagui sa ma che\&apos;e">
+<!ENTITY filepicker_audio_title "Ganahui nej ga\&apos;ninj si nanee re">
+<!ENTITY filepicker_image_title "Ganahui nej si nari riñan du\&apos;ua re">
+<!ENTITY filepicker_video_title "Ganahui nej si nari sa sikï\&apos;">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Gua conectado nga">
@@ -648,82 +648,82 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión yitinj in">
 <!ENTITY identity_connection_insecure "Conexión nitaj si gua yitinj">
-<!ENTITY identity_connection_chromeui "Nitaj si hua ahi pagina nikaj ñu\u0027unj &brandShortName;">
+<!ENTITY identity_connection_chromeui "Nitaj si hua ahi pagina nikaj ñu\&apos;unj &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; narán da\u0027 si gatûj \u0027ngo sa ga\u0027ue gi\u0027iaj yi\u0027ì riña ñanj na.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; narán da\u0027 si gatuj da\u0027aj nej sa ga\u0027ue gi\u0027iaj yi\u0027ì riña ñanj na.">
-<!ENTITY mixed_content_display_loaded1 "Hua da\u0027aj nej sa \u0027na\u0027 riña ñanj na ni sa yi\u0027ìi huin nej ma (daj rû\u0027 nej ñadu\u0027ua ni\u0027io\u0027)">
-<!ENTITY mixed_content_protection_disabled1 "Duyichîn\u0027t \u0027ngo sa ga\u0027ue rugujñu\u0027unj garrán riña \u0027ngo sa ga\u0027ue ga\u0027uì\u0027 yi\u0027ì.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; narán da\&apos; si gatûj \&apos;ngo sa ga\&apos;ue gi\&apos;iaj yi\&apos;ì riña ñanj na.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; narán da\&apos; si gatuj da\&apos;aj nej sa ga\&apos;ue gi\&apos;iaj yi\&apos;ì riña ñanj na.">
+<!ENTITY mixed_content_display_loaded1 "Hua da\&apos;aj nej sa \&apos;na\&apos; riña ñanj na ni sa yi\&apos;ìi huin nej ma (daj rû\&apos; nej ñadu\&apos;ua ni\&apos;io\&apos;)">
+<!ENTITY mixed_content_protection_disabled1 "Duyichîn\&apos;t \&apos;ngo sa ga\&apos;ue rugujñu\&apos;unj garrán riña \&apos;ngo sa ga\&apos;ue ga\&apos;uì\&apos; yi\&apos;ì.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Sa narán riña sa naga\u0027nàj a">
+<!ENTITY doorhanger_tracking_title2 "Sa narán riña sa naga\&apos;nàj a">
 <!ENTITY doorhanger_tracking_state_enabled "Ngà huaj">
 <!ENTITY doorhanger_tracking_state_disabled "Nitaj si huaj">
-<!ENTITY doorhanger_tracking_message_enabled1 "Nej sa ruhuâ naga\u0027naj sa \u0027iát riña internet na ni gà\u0027 naràn riñaj.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Riña ñanj na ni \u0027na\u0027 sa ga\u0027ue naga\u0027naj sò\u0027 nga aché nut.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Nej sa ruhuâ naga\&apos;naj sa \&apos;iát riña internet na ni gà\&apos; naràn riñaj.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Riña ñanj na ni \&apos;na\&apos; sa ga\&apos;ue naga\&apos;naj sò\&apos; nga aché nut.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Gahuin chrun\u0027 doj">
-<!ENTITY enable_protection "Nachrun\u0027 sa dugumî ñù\u0027">
-<!ENTITY disable_protection "Duyichîn\u0027 sa dugumî ñù\u0027">
+<!ENTITY learn_more "Gahuin chrun\&apos; doj">
+<!ENTITY enable_protection "Nachrun\&apos; sa dugumî ñù\&apos;">
+<!ENTITY disable_protection "Duyichîn\&apos; sa dugumî ñù\&apos;">
 
-<!ENTITY private_data_success "Nga nare\u0027 nuguan\u0027 hùii">
-<!ENTITY private_data_fail "Hua  da\u0027aj nuguan\u0027 hùii ni si ga\u0027ue narè\u0027 ma">
+<!ENTITY private_data_success "Nga nare\&apos; nuguan\&apos; hùii">
+<!ENTITY private_data_fail "Hua  da\&apos;aj nuguan\&apos; hùii ni si ga\&apos;ue narè\&apos; ma">
 
-<!ENTITY bookmarkhistory_button_import "Ganako\u0027">
-<!ENTITY bookmarkhistory_import_both "Ganako\u0027 sa ña\u0027aan ni nej sa gà\u0027 gahuin  riña Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Ganako\u0027 nej sa ña\u0027aan  riña Android">
-<!ENTITY bookmarkhistory_import_history "Ganako\u0027 sa gà\u0027 gahuin riña Android">
-<!ENTITY bookmarkhistory_import_wait "Gui\u0027iaj suntuj u. ni gana\u0027uij">
+<!ENTITY bookmarkhistory_button_import "Ganako\&apos;">
+<!ENTITY bookmarkhistory_import_both "Ganako\&apos; sa ña\&apos;aan ni nej sa gà\&apos; gahuin  riña Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ganako\&apos; nej sa ña\&apos;aan  riña Android">
+<!ENTITY bookmarkhistory_import_history "Ganako\&apos; sa gà\&apos; gahuin riña Android">
+<!ENTITY bookmarkhistory_import_wait "Gui\&apos;iaj suntuj u. ni gana\&apos;uij">
 
-<!ENTITY suggestions_prompt3 "¿Hua ruhuât ga \u0027ngo sa gataj na\u0027anj doj \u0027ngo sa nìko\u0027 dugui\u0027 nga sa ruhât nana\u0027uì\u0027 raj?">
+<!ENTITY suggestions_prompt3 "¿Hua ruhuât ga \&apos;ngo sa gataj na\&apos;anj doj \&apos;ngo sa nìko\&apos; dugui\&apos; nga sa ruhât nana\&apos;uì\&apos; raj?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "Nana\u0027ui nga &formatS;">
+<!ENTITY search_bar_item_desc "Nana\&apos;ui nga &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-<!ENTITY suggestion_for_engine "Nana\u0027uì\u0027 &formatS1; guendâ &formatS2;">
+<!ENTITY suggestion_for_engine "Nana\&apos;uì\&apos; &formatS1; guendâ &formatS2;">
 
-<!ENTITY searchable_description "Sa ña\u0027aan ngà sa gà\u0027 gahuin">
+<!ENTITY searchable_description "Sa ña\&apos;aan ngà sa gà\&apos; gahuin">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Sa nakà doj hua guendâ &brandShortName; ">
-<!ENTITY updater_start_select2 "Ga\u0027ui da\u0027 nadunij">
+<!ENTITY updater_start_select2 "Ga\&apos;ui da\&apos; nadunij">
 
 <!ENTITY updater_downloading_title2 "Naduninj &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Guire\u0027 sa naduninj">
-<!ENTITY updater_downloading_select2 "Guru\u0027ma ra\u0027a da\u0027 ga\u0027ue gi\u0027iaj sunt ngà \u0027ngo sa nakà naduninjt">
-<!ENTITY updater_downloading_retry2 "Guru\u0027ma ra\u0027a da\u0027 nayi\u0027ì ñuj">
+<!ENTITY updater_downloading_title_failed2 "Guire\&apos; sa naduninj">
+<!ENTITY updater_downloading_select2 "Guru\&apos;ma ra\&apos;a da\&apos; ga\&apos;ue gi\&apos;iaj sunt ngà \&apos;ngo sa nakà naduninjt">
+<!ENTITY updater_downloading_retry2 "Guru\&apos;ma ra\&apos;a da\&apos; nayi\&apos;ì ñuj">
 
 <!ENTITY updater_apply_title3 "Sa nakà doj ngà nanïnj guendâ &brandShortName;">
-<!ENTITY updater_apply_select3 "Guru\u0027man ra\u0027a da\u0027 nañù man">
+<!ENTITY updater_apply_select3 "Guru\&apos;man ra\&apos;a da\&apos; nañù man">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Da\u0027 naduninj ñanj ni nagui\u0027iaj nako\u0027, garayina da\u0027 ga\u0027ue nachr\u0027a sa\u0027 ña &brandShortName;.">
+<!ENTITY updater_permission_text "Da\&apos; naduninj ñanj ni nagui\&apos;iaj nako\&apos;, garayina da\&apos; ga\&apos;ue nachr\&apos;a sa\&apos; ña &brandShortName;.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ga\u0027nïn">
+<!ENTITY updater_permission_allow "Ga\&apos;nïn">
 
     <!-- Guest mode -->
-<!ENTITY new_guest_session "Sesion nakà \u0027na\u0027 anêj">
-<!ENTITY exit_guest_session "Gahui\u0027 riña sesion \u0027na\u0027a anêj">
-<!ENTITY guest_session_dialog_continue "Gun ne\u0027 ñaan">
-<!ENTITY guest_session_dialog_cancel "Dure\u0027 man">
-<!ENTITY new_guest_session_title "&brandShortName; gana yi\u0027i ñun">
-<!ENTITY new_guest_session_text2 "Guì garasun na ni si ga\u0027ue ni\u0027iaj ni gà\u0027 \u0027ngo nej datô garajsunt nga gaché nut (dàj rû\u0027 da\u0027nga\u0027 hùii, sa gahuin asi sa ña\u0027an doj gini\u0027iajt).\n\nNga gisij garajsun duguî\u0027 na ni, nej datô garajsun si nga gaché nu si narè\u0027 ni natu ñû si sesiônt riña ma.">
-<!ENTITY guest_browsing_notification_title "Si ruhuâ \u0027ngo duguî\u0027 gache nu si ni gà\u0027 hua yugui">
-<!ENTITY guest_browsing_notification_text "Ga\u0027ui\u0027 da gahuit">
+<!ENTITY new_guest_session "Sesion nakà \&apos;na\&apos; anêj">
+<!ENTITY exit_guest_session "Gahui\&apos; riña sesion \&apos;na\&apos;a anêj">
+<!ENTITY guest_session_dialog_continue "Gun ne\&apos; ñaan">
+<!ENTITY guest_session_dialog_cancel "Dure\&apos; man">
+<!ENTITY new_guest_session_title "&brandShortName; gana yi\&apos;i ñun">
+<!ENTITY new_guest_session_text2 "Guì garasun na ni si ga\&apos;ue ni\&apos;iaj ni gà\&apos; \&apos;ngo nej datô garajsunt nga gaché nut (dàj rû\&apos; da\&apos;nga\&apos; hùii, sa gahuin asi sa ña\&apos;an doj gini\&apos;iajt).\n\nNga gisij garajsun duguî\&apos; na ni, nej datô garajsun si nga gaché nu si narè\&apos; ni natu ñû si sesiônt riña ma.">
+<!ENTITY guest_browsing_notification_title "Si ruhuâ \&apos;ngo duguî\&apos; gache nu si ni gà\&apos; hua yugui">
+<!ENTITY guest_browsing_notification_text "Ga\&apos;ui\&apos; da gahuit">
 
-<!ENTITY exit_guest_session_title "&brandShortName; ganayi\u0027i ">
-<!ENTITY exit_guest_session_text "Daran sa gana\u0027ui\u0027 ñunan ni ganare\u0027ej">
+<!ENTITY exit_guest_session_title "&brandShortName; ganayi\&apos;i ">
+<!ENTITY exit_guest_session_text "Daran sa gana\&apos;ui\&apos; ñunan ni ganare\&apos;ej">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -736,10 +736,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menû">
-<!ENTITY actionbar_done "Gà\u0027 huaj">
+<!ENTITY actionbar_done "Gà\&apos; huaj">
 
 <!-- Voice search in the awesome bar -->
-<!ENTITY voicesearch_prompt "Ga\u0027min hiáj">
+<!ENTITY voicesearch_prompt "Ga\&apos;min hiáj">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -747,15 +747,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-<!ENTITY remote_tabs_last_synced "Sa nahuin guña rukù nï\u0027: &formatS;">
+<!ENTITY remote_tabs_last_synced "Sa nahuin guña rukù nï\&apos;: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Nitaj ama ga: sa nahuin guña rukù nï\u0027">
+<!ENTITY remote_tabs_never_synced "Nitaj ama ga: sa nahuin guña rukù nï\&apos;">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Sa gachrûnt na ni nayi\u0027nï riña &formatS;. ¿Huin ruhuâ yangà\u0027t gahuit riña aché nu hùi raj?">
+<!ENTITY intent_uri_private_browsing_prompt "Sa gachrûnt na ni nayi\&apos;nï riña &formatS;. ¿Huin ruhuâ yangà\&apos;t gahuit riña aché nu hùi raj?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -771,77 +771,77 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Si nari ma ñadu\u0027ua da\u0027nga\u0027 QR ahui riña a\u0027ng^si gaga\u0027 rè\u0027">
+<!ENTITY devtools_auth_scan_header "Si nari ma ñadu\&apos;ua da\&apos;nga\&apos; QR ahui riña a\&apos;ng^si gaga\&apos; rè\&apos;">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "Sa rugu ñun\u0027unj">
-<!ENTITY restrictable_feature_addons_installation_description "Nuto\u0027 sa ruguñu\u0027unj da\u0027 gui\u0027iaj sun Firefox. Nej sa nuto\u0027 nan ni ga\u0027ue gui\u0027iaj sun riña nu gara\u0027 ruat">
-<!ENTITY restrictable_feature_private_browsing "Gachenu hùi\u0027">
-<!ENTITY restrictable_feature_private_browsing_description "Ga\u0027nin\u0027 da\u0027 gatu nej dugui\u0027 riña nan nin si na\u0027nín sa\u0027 nuguan nuin si guini\u0027iaj nej si.">
-<!ENTITY restrictable_feature_clear_history "Nadure\u0027 sa gahuin">
-<!ENTITY restrictable_feature_clear_history_description "Ga\u0027nin\u0027 da\u0027 dure\u0027 nej dugui\u0027 dure\u0027 nej si dane\u0027 ga\u0027anj nej si.">
-<!ENTITY restrictable_feature_advanced_settings "Nagui\u0027iaj mu\u0027un\u0027 sa hua ña\u0027an">
-<!ENTITY restrictable_feature_advanced_settings_description "Nan ni nika da\u0027 ganako\u0027 sa raj sun\u0027 doj, nadigan rakïj ñanj ni nagui\u0027iaj naka ma\u0027an. Dunikin\u0027 ma si ruat nagui\u0027iat da\u0027 garasun nej dugui\u0027.">
-<!ENTITY restrictable_feature_camera_microphone "Aga\u0027 nari ñan du\u0027uo\u0027 ni aga\u0027 xun nanèe">
-<!ENTITY restrictable_feature_camera_microphone_description "Ganin da\u0027 ga\u0027ue gatu daran\u0027 del dugui\u0027 ga\u0027min ra\u0027nga\u0027 nej si riña nej sitio web">
-<!ENTITY restrictable_feature_block_list "Nej sa nitaj si gua ni\u0027ninj">
-<!ENTITY restrictable_feature_block_list_description "Si ga\u0027nin\u0027 nayi\u0027nin nej sitio nitaj si da\u0027ui\u0027 ni\u0027io\u0027">
+<!ENTITY restrictable_feature_addons_installation "Sa rugu ñun\&apos;unj">
+<!ENTITY restrictable_feature_addons_installation_description "Nuto\&apos; sa ruguñu\&apos;unj da\&apos; gui\&apos;iaj sun Firefox. Nej sa nuto\&apos; nan ni ga\&apos;ue gui\&apos;iaj sun riña nu gara\&apos; ruat">
+<!ENTITY restrictable_feature_private_browsing "Gachenu hùi\&apos;">
+<!ENTITY restrictable_feature_private_browsing_description "Ga\&apos;nin\&apos; da\&apos; gatu nej dugui\&apos; riña nan nin si na\&apos;nín sa\&apos; nuguan nuin si guini\&apos;iaj nej si.">
+<!ENTITY restrictable_feature_clear_history "Nadure\&apos; sa gahuin">
+<!ENTITY restrictable_feature_clear_history_description "Ga\&apos;nin\&apos; da\&apos; dure\&apos; nej dugui\&apos; dure\&apos; nej si dane\&apos; ga\&apos;anj nej si.">
+<!ENTITY restrictable_feature_advanced_settings "Nagui\&apos;iaj mu\&apos;un\&apos; sa hua ña\&apos;an">
+<!ENTITY restrictable_feature_advanced_settings_description "Nan ni nika da\&apos; ganako\&apos; sa raj sun\&apos; doj, nadigan rakïj ñanj ni nagui\&apos;iaj naka ma\&apos;an. Dunikin\&apos; ma si ruat nagui\&apos;iat da\&apos; garasun nej dugui\&apos;.">
+<!ENTITY restrictable_feature_camera_microphone "Aga\&apos; nari ñan du\&apos;uo\&apos; ni aga\&apos; xun nanèe">
+<!ENTITY restrictable_feature_camera_microphone_description "Ganin da\&apos; ga\&apos;ue gatu daran\&apos; del dugui\&apos; ga\&apos;min ra\&apos;nga\&apos; nej si riña nej sitio web">
+<!ENTITY restrictable_feature_block_list "Nej sa nitaj si gua ni\&apos;ninj">
+<!ENTITY restrictable_feature_block_list_description "Si ga\&apos;nin\&apos; nayi\&apos;nin nej sitio nitaj si da\&apos;ui\&apos; ni\&apos;io\&apos;">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "Firefox: Rayi\u0027î navegador na">
+<!ENTITY bookmarks_about_browser "Firefox: Rayi\&apos;î navegador na">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Nachrun a\u0027ngô nej sa ga\u0027ue nutà\u0027t">
+<!ENTITY bookmarks_addons "Firefox: Nachrun a\&apos;ngô nej sa ga\&apos;ue nutà\&apos;t">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "Firefox: Sa ga\u0027ue ruguñu\u0027unj">
+<!ENTITY bookmarks_support "Firefox: Sa ga\&apos;ue ruguñu\&apos;unj">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "Firefox Ruguñu\u0027unj rayi\u0027î nej perfil nitaj si ìaj sun ngà nej tabletâ Android">
+<!ENTITY bookmarks_restricted_support2 "Firefox Ruguñu\&apos;unj rayi\&apos;î nej perfil nitaj si ìaj sun ngà nej tabletâ Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Gahuin chrun\u0027 rayi\u0027î Web: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Gahuin chrun\&apos; rayi\&apos;î Web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "¡Si ga\u0027man ruat! &brandShortName; si gui\u0027iaj sunj riña aga\u0027 na (&formatS1;, &formatS2;). Gui\u0027iaj suntuj u, naduninj a\u0027ngo sa hua hue\u0027e.">
+<!ENTITY unsupported_sdk_version "¡Si ga\&apos;man ruat! &brandShortName; si gui\&apos;iaj sunj riña aga\&apos; na (&formatS1;, &formatS2;). Gui\&apos;iaj suntuj u, naduninj a\&apos;ngo sa hua hue\&apos;e.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; si ganahuin naka man">
-<!ENTITY eol_notification_summary "Ga\u0027ui\u0027 da\u0027 guiri\u0027 doj nuguan\u0027anj">
+<!ENTITY eol_notification_summary "Ga\&apos;ui\&apos; da\&apos; guiri\&apos; doj nuguan\&apos;anj">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; nga ganahuin naka">
-<!ENTITY whatsnew_notification_summary "Ni\u0027iaj daj hua versión nan">
+<!ENTITY whatsnew_notification_summary "Ni\&apos;iaj daj hua versión nan">
 
-<!ENTITY promotion_add_to_homescreen "Nutò\u0027 gachrun riñan gayi\u0027i">
+<!ENTITY promotion_add_to_homescreen "Nutò\&apos; gachrun riñan gayi\&apos;i">
 
-<!ENTITY helper_first_offline_bookmark_title "Gahio\u0027 nga nuhui\u0027 señal">
-<!ENTITY helper_first_offline_bookmark_message "Riña mà nej sa garan\u0027 doj ruhuât nu sa ga\u0027ue ruguñu\u0027unj gahiat, nuj si nitaj internet hua.">
-<!ENTITY helper_first_offline_bookmark_button "Gun\u0027 riña sa raj sun nichro\u0027 doj">
+<!ENTITY helper_first_offline_bookmark_title "Gahio\&apos; nga nuhui\&apos; señal">
+<!ENTITY helper_first_offline_bookmark_message "Riña mà nej sa garan\&apos; doj ruhuât nu sa ga\&apos;ue ruguñu\&apos;unj gahiat, nuj si nitaj internet hua.">
+<!ENTITY helper_first_offline_bookmark_button "Gun\&apos; riña sa raj sun nichro\&apos; doj">
 
-<!ENTITY helper_triple_readerview_open_title "Ga\u0027ue gahui\u0027">
-<!ENTITY helper_triple_readerview_open_message "Hua \u0027ngo rakïj ñanj ruguñu\u0027unj gahio\u0027 nuj si nitaj internet hua.">
-<!ENTITY helper_triple_readerview_open_button "Nutò\u0027 riña sa raj sun nichro\u0027 doj">
+<!ENTITY helper_triple_readerview_open_title "Ga\&apos;ue gahui\&apos;">
+<!ENTITY helper_triple_readerview_open_message "Hua \&apos;ngo rakïj ñanj ruguñu\&apos;unj gahio\&apos; nuj si nitaj internet hua.">
+<!ENTITY helper_triple_readerview_open_button "Nutò\&apos; riña sa raj sun nichro\&apos; doj">
 
-<!ENTITY activity_stream_topsites "Hiuj ni\u0027iaj yitïnj rè\u0027">
-<!ENTITY activity_stream_highlights "Ña\u0027an ">
+<!ENTITY activity_stream_topsites "Hiuj ni\&apos;iaj yitïnj rè\&apos;">
+<!ENTITY activity_stream_highlights "Ña\&apos;an ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "Sa arajsun nichrò\u0027 doj">
+<!ENTITY activity_stream_highlight_label_bookmarked "Sa arajsun nichrò\&apos; doj">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "Ga\u0027anj ni\u0027io\u0027">
+<!ENTITY activity_stream_highlight_label_visited "Ga\&apos;anj ni\&apos;io\&apos;">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Si yakaj guendât">
-<!ENTITY activity_stream_delete_history "Dure\u0027 sa nga ma">
+<!ENTITY activity_stream_delete_history "Dure\&apos; sa nga ma">
 
-<!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\u0027an doj \u0027iát">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\u0027ue nagi\u0027iát nej sa ña\u0027an doj narît riña web da\u0027 ga\u0027ue hìo narì´t nej sa gahiat, sa ni\u0027iajt, ñanj gahiat, ni a\u0027ngô nej sa huaa.">
+<!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\&apos;an doj \&apos;iát">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\&apos;ue nagi\&apos;iát nej sa ña\&apos;an doj narît riña web da\&apos; ga\&apos;ue hìo narì´t nej sa gahiat, sa ni\&apos;iajt, ñanj gahiat, ni a\&apos;ngô nej sa huaa.">
 
 <!ENTITY private_tab_panel_title "Sa tna\&apos;uej rayi\&apos;ît ngà aché hùit">
 <!ENTITY private_tab_panel_description "&brandShortName; Narràn riña nej pajinâ ga\&apos;ue gi\&apos;iaj yi\&apos;ì sò\&apos;">
