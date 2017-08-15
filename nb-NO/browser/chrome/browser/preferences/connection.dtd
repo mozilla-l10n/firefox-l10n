@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "B">
 <!ENTITY  autologinproxy.label          "Ikke spør om autentisering hvis passordet er lagret">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Dette valget autentiserer deg stille mot proxier når du har lagrede innloggingsdetaljer for de. Du vil få spørsmål dersom autentisering er mislykket.">
+<!ENTITY  autologinproxy.tooltip        "Dette valget autentiserer deg automatisk mot proxier når du har lagrede innloggingsdetaljer for de. Du vil få spørsmål dersom autentisering er mislykket.">
