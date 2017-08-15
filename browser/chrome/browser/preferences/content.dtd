@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "ამომხტომი ფირნიშების შეზღუდვა">
 <!ENTITY  blockPopups.accesskey       "დ">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "შეიტყვეთ მეტი">
-<!ENTITY  notificationsPolicyDesc4.label       "საიტები, რომელთაგანაც შეტყობინებების მიღება დაშვებულია">
-<!ENTITY  notificationsPolicyButton.accesskey  "რ">
-<!ENTITY  notificationsPolicyButton.label      "არჩევა…">
 <!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "წ">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა ჩართვამდე შეტყობინებები არ გამოჩნდება">
 
-<!ENTITY  popupExceptions.label       "გამონაკლისები…">
-<!ENTITY  popupExceptions.accesskey   "გ">
+<!ENTITY  popupExceptions.label                                 "გამონაკლისები…">
+<!ENTITY  popupExceptions.accesskey                             "გ">
+
+<!ENTITY  permissionSettingsButton2.label                       "პარამეტრები…">
+
+<!ENTITY  notificationPermissions.label                         "შეტყობინებები">
+<!ENTITY  notificationSettingsButton.accesskey                  "შ">
+<!ENTITY  notificationPermissionsLearnMore.label                "შეიტყვეთ მეტი">
+
+<!ENTITY  locationPermissions.label                             "მდებარეობა">
+<!ENTITY  locationSettingsButton.accesskey                      "მ">
+
+<!ENTITY  cameraPermissions.label                               "კამერა">
+<!ENTITY  cameraSettingsButton.accesskey                        "კ">
+
+<!ENTITY  microphonePermissions.label                           "მიკროფონი">
+<!ENTITY  microphoneSettingsButton.accesskey                    "ფ">
 
 <!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 

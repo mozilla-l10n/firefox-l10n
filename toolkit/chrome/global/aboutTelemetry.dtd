@@ -17,6 +17,10 @@
 ნედლი JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+JSON მნახველში გახსნა
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 ქვესეანსის მონაცემების ჩვენება
 ">
@@ -115,6 +119,10 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   გვიანი ჩაწერები">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+ნედლი დატვირთვა
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   სეანსის ინფორმაცია
