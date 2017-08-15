@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Aldrig">
 
 <!ENTITY  color                           "Text och bakgrund">
-<!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Bakgrund:">
-<!ENTITY  backgroundColor.accesskey       "d">
+<!ENTITY  textColor2.label                "Text">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Bakgrund">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Använd systemfärgerna">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Stryk under länkar">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Länkfärger">
-<!ENTITY  linkColor.label                 "Obesökta länkar:">
-<!ENTITY  linkColor.accesskey             "O">
-<!ENTITY  visitedLinkColor.label          "Besökta länkar:">
-<!ENTITY  visitedLinkColor.accesskey      "B">
+<!ENTITY  linkColor2.label                "Obesökta länkar">
+<!ENTITY  linkColor2.accesskey            "O">
+<!ENTITY  visitedLinkColor2.label         "Besökta länkar">
+<!ENTITY  visitedLinkColor2.accesskey     "e">

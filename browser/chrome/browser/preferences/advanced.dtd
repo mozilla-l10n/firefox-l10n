@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Undantag…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "n">
 
-<!ENTITY offlineAppsList2.label          "Följande webbplatser tillåts lagra data för nedkopplad användning:">
+<!ENTITY offlineAppsList3.label          "Följande webbplatser får lagra data för användning offline">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Ta bort…">
 <!ENTITY offlineAppsListRemove.accesskey "T">

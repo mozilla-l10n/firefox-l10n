@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Lägg till ny behållare">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Namn:">
-<!ENTITY name.accesskey       "N">
-<!ENTITY name.placeholder     "Skriv ett behållarnamn">
-<!ENTITY icon.label           "Ikon:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Färg:">
-<!ENTITY color.accesskey      "F">
+<!ENTITY name2.label          "Namn">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY name.placeholder     "Ange ett behållarnamn">
+<!ENTITY icon2.label          "Ikon">
+<!ENTITY icon2.accesskey      "k">
+<!ENTITY color2.label         "Färg">
+<!ENTITY color2.accesskey     "F">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Klar">
 <!ENTITY button.ok.accesskey  "K">
-
