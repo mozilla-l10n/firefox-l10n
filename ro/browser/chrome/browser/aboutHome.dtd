@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "&brandFullName; este un program liber și cu sursă deschisă de la fundația nonprofit Mozilla. <a>Cunoaște-ți drepturile…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Semne de carte">
+<!ENTITY abouthome.bookmarksButton.label "Marcaje">
 <!ENTITY abouthome.historyButton.label   "Istoric">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->

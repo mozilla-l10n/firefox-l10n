@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Însemnează toate filele…">
+<!ENTITY  bookmarkAllTabs.label              "Marchează toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
 <!ENTITY  undoCloseTab.accesskey             "u">
@@ -81,13 +81,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Bară de navigare">
-<!ENTITY personalbarCmd.label "Bara semnelor de carte">
+<!ENTITY personalbarCmd.label "Bara marcajelor">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Elemente pe bara semnelor de carte">
+<!ENTITY bookmarksToolbarItem.label "Elemente pe bara marcajelor">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Reîncarcă toate filele">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Însemnează toate filele…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marchează toate filele…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anulează închiderea filei">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
@@ -156,10 +156,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Închide fereastra">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Semne de carte">
+<!ENTITY bookmarksMenu.label "Marcaje">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Însemnează această pagină">
-<!ENTITY editThisBookmarkCmd.label "Editează acest semn de carte">
+<!ENTITY bookmarkThisPageCmd.label "Marchează această pagină">
+<!ENTITY editThisBookmarkCmd.label "Editează acest marcaj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
-<!ENTITY addCurPagesCmd.label "Însemnează toate filele…">
+<!ENTITY addCurPagesCmd.label "Marchează toate filele…">
 <!ENTITY showAllBookmarks2.label "Afișează toate semnele de carte">
 <!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY otherBookmarksCmd.label "Alte semne de carte">
@@ -332,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizează…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-
-
+<!ENTITY overflowCustomizeToolbar.label       "Personalizează bara de unelte…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Istoric">
 <!ENTITY historyMenu.accesskey "s">
@@ -393,7 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Adaugă în meniul excedentar">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mută în bara de unelte">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -403,10 +404,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fixează în meniul excedentar">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Anulează fixarea din meniul excedentar">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "u">
 <!ENTITY customizeMenu.removeFromToolbar.label "Elimină din bara de unelte">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Elimină din meniu">

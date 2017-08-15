@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Bun venit la &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "Autentifică-te pentru a sincroniza filele, semnele de carte, parolele și mai multe.">
+<!ENTITY aboutAccountsConfig.description "Autentifică-te pentru a sincroniza filele, marcajele, parolele și mai multe.">
 <!ENTITY aboutAccountsConfig.startButton.label "Începe">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferințe de sincronizare">
 <!ENTITY aboutAccounts.noConnection.title "Fără conexiune">
