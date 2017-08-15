@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Adresselinje">
 
 <!ENTITY autoComplete.label                    "Autofullfør">
-<!ENTITY enableAutoComplete.label              "Autofullfør fra nettleserhistorikken mens du skriver">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "Foreslå automatisk nettsteder fra historikken">
+<!ENTITY autoCompleteMatchHistory.accesskey    "a">
+<!ENTITY autoCompleteMatchBookmarks.label      "Foreslå automatisk nettsteder fra bokmerker">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "b">
 <!ENTITY autoCompleteAutoFill.label            "Automatisk fyll ut det beste treffet">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Vis en liste med resultater">
 <!ENTITY autoCompleteShowPopup.accesskey       "V">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Bare fullfør med nettsider du har manuelt skrevet inn før">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "B">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Bare fullfør med adresser, ikke nettsidetitler">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "a">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
