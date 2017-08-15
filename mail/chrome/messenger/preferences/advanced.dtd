@@ -20,7 +20,7 @@
 <!ENTITY maildirStore.label            "Fil per melding (maildir)">
 
 <!ENTITY scrolling.label               "Rulling">
-<!ENTITY useAutoScroll.label           "Bruk autorulling">
+<!ENTITY useAutoScroll.label           "Bruk automatisk rulling">
 <!ENTITY useAutoScroll.accesskey       "B">
 <!ENTITY useSmoothScrolling.label      "Bruk jevn rulling">
 <!ENTITY useSmoothScrolling.accesskey  "r">
