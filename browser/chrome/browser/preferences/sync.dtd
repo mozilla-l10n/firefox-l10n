@@ -4,8 +4,8 @@
 <!-- The page shown when logged in... -->
 
 
-<!ENTITY engine.bookmarks.label     "Semne de carte">
-<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.bookmarks.label     "Marcaje">
+<!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "File deschise">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Istoric">
@@ -64,7 +64,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Ia webul cu tine">
-<!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
+<!ENTITY signedOut.description        "Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creează cont">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">

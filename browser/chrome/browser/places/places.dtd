@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizează semnele de carte">
+<!ENTITY organize.tooltip      "Organizează marcajele">
 
 <!ENTITY file.close.label               "Închide">
 <!ENTITY file.close.accesskey           "c">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "De la Z la A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importă semne de carte dintr-un fișier HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Importă marcaje dintr-un fișier HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportă semne de carte într-un fișier HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Exportă marcaje într-un fișier HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Importă date din alt browser…">
 <!ENTITY importOtherBrowser.accesskey      "a">
@@ -62,15 +62,15 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Semn de carte nou…">
-<!ENTITY cmd.new_bookmark.accesskey        "c">
+<!ENTITY cmd.new_bookmark.label            "Marcaj nou…">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Dosar nou…">
 <!ENTITY cmd.new_folder.accesskey          "o">
 <!ENTITY cmd.context_new_folder.accesskey  "o">
 <!ENTITY cmd.new_separator.label           "Separator nou">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reîncarcă semnul actualizabil">
+<!ENTITY cmd.reloadLivebookmark.label      "Reîncarcă marcajul actualizabil">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mută…">
@@ -91,7 +91,7 @@
 
 <!ENTITY maintenance.label      "Importare și copie de siguranță">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importă și fă copie de siguranță semnelor de carte">
+<!ENTITY maintenance.tooltip    "Importă și fă copie de siguranță marcajelor">
 
 <!ENTITY backButton.tooltip  "Mergi înapoi">
 

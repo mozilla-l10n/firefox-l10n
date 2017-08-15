@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY selectBookmark.title "Setează pagina de start">
-<!ENTITY selectBookmark.label "Alegeți un semn de carte care să fie pagina de start. Dacă alegeți un dosar, toate semnele de carte din el vor fi deschise în file.">
+<!ENTITY selectBookmark.label "Alege un marcaj care să fie pagina de start. Dacă alegi un dosar, toate marcajele din acel dosar vor fi deschise în file.">
 

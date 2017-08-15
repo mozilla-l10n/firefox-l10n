@@ -33,7 +33,7 @@
 <!ENTITY  locbar.suggest.label          "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Semne de carte">
+<!ENTITY  locbar.bookmarks.label        "Marcaje">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "File deschise">
 <!ENTITY  locbar.openpage.accesskey     "O">
