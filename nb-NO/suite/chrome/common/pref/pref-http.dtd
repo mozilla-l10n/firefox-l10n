@@ -13,11 +13,10 @@
 <!ENTITY prefEnableHTTP11.label              "Bruk HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "H">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnablePipelining.label          "Tillat pipelining">
-<!ENTITY prefEnablePipelining.accesskey      "p">
-<!ENTITY prefEnablePipeliningProxy.accesskey "l">
 <!ENTITY prefPara                            "HTTP-tilkoblinger kan bli finjustert med disse innstillingene for å bedre enten ytelse eller kompabilitet. Noen proxyer, for eksempel, trenger HTTP/1.0 for å virke (se versjonsnotatet for mer informasjon.)">
-<!ENTITY prefPipeWarning                     "ADVARSEL: Pipelining er en eksperimentell funksjon som er utviklet for å bedre hastigheten ved innlasting av nettsider. Men dette støttes dårlig av noen servere og proxyer.">
 <!ENTITY prefUseragent.label                 "Brukeragenttekst">
 <!ENTITY prefFirefoxCompat.label             "Annonser kompatibilitet med Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "A">
+<!ENTITY prefLightningShow.label             "Annonser Lightning-installasjon">
+<!ENTITY prefLightningShow.accesskey         "L">
+<!ENTITY prefCompatWarning                   "ADVARSEL: deaktivering av disse innstillingene kan føre til at nettsteder eller tjenester ikke fungerer som de skal.">

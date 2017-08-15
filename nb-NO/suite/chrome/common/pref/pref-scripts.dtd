@@ -17,9 +17,12 @@
 <!ENTITY allowWindowMoveResize.label     "Flytte eller endre størrelse på vinduer">
 <!ENTITY allowWindowFlip.label           "Heve eller senke vinduer">
 <!ENTITY allowWindowStatusChange.label   "Endre statuslinjetekst">
-<!ENTITY allowWindowImageSrcChange.label "Endre bilder">
 <!ENTITY allowContextmenuDisable.label   "Slå av eller erstatte kontekstmenyer">
 <!ENTITY allowHideStatusBar.label        "Skjule statuslinjen">
+
+<!ENTITY enableDrmMedia.label            "Aktiver Digital Rights Management (DRM) for">
+<!ENTITY enableEmeForSuite.label         "Tredjeparts innholdsdekrypteringsmoduler">
+<!ENTITY enableEmeForSuite.accesskey     "T">
 
 <!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
