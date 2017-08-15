@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "Bruk mine farger">
 <!ENTITY useMyColors.accesskey             "m">
+<!ENTITY automaticColors.label             "Bare ignorer sidefargene når du bruker et høykontrast-tema">
+<!ENTITY automaticColors.accesskey         "B">
