@@ -28,19 +28,17 @@
 <!ENTITY  cursive.label                           "Kursiv">
 <!ENTITY  cursive.accesskey                       "K">
 
-<!ENTITY  font.langGroup.latin1                   "Vestlig">
-<!ENTITY  font.langGroup.latin2                   "Sentraleuropeisk">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Vestlig">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjonell Kinesisk (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplifisert Kinesisk">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradisjonell Kinesisk (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreansk">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrillisk">
-<!ENTITY  font.langGroup.baltic                   "Baltisk">
 <!ENTITY  font.langGroup.el                       "Gresk">
-<!ENTITY  font.langGroup.turkish                  "Tyrkisk">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Brukerdefinert">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebraisk">
 <!ENTITY  font.langGroup.arabic                   "Arabisk">
@@ -55,6 +53,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Matematikk">
+<!ENTITY  font.langGroup.odia                     "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singalesisk">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimum størrelse:">
 <!ENTITY minSize.accesskey                        "M">
