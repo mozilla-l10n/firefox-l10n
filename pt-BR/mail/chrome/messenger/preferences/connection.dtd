@@ -41,3 +41,5 @@
 <!ENTITY  shareproxy.label              "Usar este proxy para todos os protocolos">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Não pedir confirmação da autenticação se senha estiver memorizada">
+<!ENTITY  socksRemoteDNS.label          "Proxy DNS ao usar SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
