@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Настройки на връзката">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Конфигуриране на междинни сървъри за достъп до Интернет">
 <!ENTITY  noProxyTypeRadio.label        "Без прокси">
@@ -36,5 +38,5 @@
 <!ENTITY  noproxy.label                 "Без прокси за:">
 <!ENTITY  noproxy.accesskey             "Б">
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Използване на един сървър за всички протоколи">
-<!ENTITY  shareproxy.accesskey          "е">
+<!ENTITY  shareproxy.label              "Един сървър за всички протоколи">
+<!ENTITY  shareproxy.accesskey          "с">
