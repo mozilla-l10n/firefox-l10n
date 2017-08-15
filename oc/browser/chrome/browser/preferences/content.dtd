@@ -11,6 +11,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Causir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Pas cap de notificacion serà afichada fins que tornetz aviar &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -48,6 +49,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduccions per">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Contengut amb Digital Rights Management (DRM)">
 
 <!ENTITY  playDRMContent2.label          "Legir lo contengut contrarotlat per DRM">
 <!ENTITY  playDRMContent2.accesskey      "L">
