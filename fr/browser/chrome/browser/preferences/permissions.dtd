@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Enregistrer les modifications">
 <!ENTITY button.ok.accesskey          "E">
 
+<!ENTITY searchbox.placeholder        "Rechercher un site web">

@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Bloquer les fenêtres popup">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "En savoir plus">
-<!ENTITY  notificationsPolicyDesc4.label       "Choisir quels sites web sont autorisés à vous envoyer des notifications">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Choisir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne pas déranger">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Aucune notification ne sera affichée jusqu’au redémarrage de &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Exceptions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Exceptions…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  permissionSettingsButton2.label                       "Paramètres…">
+
+<!ENTITY  notificationPermissions.label                         "Notifications">
+<!ENTITY  notificationSettingsButton.accesskey                  "N">
+<!ENTITY  notificationPermissionsLearnMore.label                "En savoir plus">
+
+<!ENTITY  locationPermissions.label                             "Emplacement">
+<!ENTITY  locationSettingsButton.accesskey                      "E">
+
+<!ENTITY  cameraPermissions.label                               "Caméra">
+<!ENTITY  cameraSettingsButton.accesskey                        "C">
+
+<!ENTITY  microphonePermissions.label                           "Microphone">
+<!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Polices et couleurs">
 
