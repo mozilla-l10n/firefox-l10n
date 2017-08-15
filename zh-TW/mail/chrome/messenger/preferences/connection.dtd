@@ -42,4 +42,6 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "若已儲存密碼則不要提示驗證">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "勾選此選項後，若您已將密碼儲存起來，連線時就不會再詢問您密碼。驗證失敗後才會再向您詢問。">
+<!ENTITY  socksRemoteDNS.label          "使用 SOCKS v5 時也代理 DNS 查詢">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
