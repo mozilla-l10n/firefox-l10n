@@ -82,17 +82,11 @@
 <!ENTITY options.enableRemote.label3    "Rmed taseɣtit tanmeggagt">
 <!ENTITY options.enableRemote.tooltip2  "Armad n uɣewwaṛ-agi ad k-yeǧǧ ad tesqedceḍ ifecka n tneflit di tseɣtit n tummant tanmeggagt am Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Rmen tasertit worker (di tneflit)">
-<!ENTITY options.enableWorkers.tooltip  "Ma tremdeḍ asfren-a. Aya ad isireg ifecka n tneflit akken ad seɣtin inmahalen">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Ssens JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Armad n uɣewwaṛ-agi ad irermed JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.">
+<!ENTITY options.disableJavaScript.tooltip   "Armad n uɣewwaṛ-agi ad isens JavaScript i yiccer amiran. Aɣewwaṛ-agi ad ittwattu ticki tmedleḍ iccer neɣ tanaka n ifecka.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
