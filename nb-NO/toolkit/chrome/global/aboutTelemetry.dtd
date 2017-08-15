@@ -74,6 +74,9 @@ Eldre
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Sen skriving">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Rå nyttelast
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Øktinformasjon">
 
