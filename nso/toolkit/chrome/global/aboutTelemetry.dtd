@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "Ditatamente tše nanyago tša SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Praosara e a diega">
@@ -37,6 +38,7 @@
 
 
 <!ENTITY aboutTelemetry.lateWritesSection "Dingwalwa tša ka morago ga nako">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "ELA HLOKO: SQL e nanyago ya go ntšha diphošo e dumeletšwe. Dithapo tše tletšego tša SQL di ka bontšhwa ka mo tlase eupša di ka se romelwe go thelemetri.">
