@@ -12,6 +12,10 @@
 
 <!ENTITY aboutTelemetry.raw "JSON sin procesar">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Abrir en el visor de JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Mostrar datos de subsesión">
 
 <!ENTITY aboutTelemetry.choosePing "Elegir ping:">
@@ -75,6 +79,10 @@ Más antiguo
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detalles del complemento">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras demoradas">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Contenido sin procesar
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Información de la sesión">
 

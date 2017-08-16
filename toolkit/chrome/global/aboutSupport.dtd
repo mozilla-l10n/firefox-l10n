@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activado">
 <!ENTITY aboutSupport.a11yForceDisabled "Prevenir accesibilidad">
 <!ENTITY aboutSupport.a11yHandlerUsed "Se usó un controlador accesible">
+<!ENTITY aboutSupport.a11yInstantiator "Soporte instanciador">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 
