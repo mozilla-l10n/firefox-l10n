@@ -20,6 +20,10 @@ Archivovaná data pro ping
 Neformátovaný JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Otevřít v zobrazení JSONu
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Zobrazit data o pod-relacích
 ">
@@ -107,6 +111,10 @@ Starší
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "Pozdní zápisy">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Raw obsah
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informace o relaci
