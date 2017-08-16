@@ -56,7 +56,7 @@
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "აკრძალვა">
-<!ENTITY  permissionsFor        "უფლებები საიტისთვის:">
+<!ENTITY  permissionsFor        "ნებართვები საიტისთვის:">
 <!ENTITY  permPlugins           "მოდულების გააქტიურება">
 
 <!ENTITY  permClearStorage           "საცავის გასუფთავება">
