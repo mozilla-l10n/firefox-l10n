@@ -23,7 +23,7 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Срок на отрицателен кеш">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Пълен хеш">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Срок на положителен кеш">
-<!ENTITY aboutUrlClassifier.debugTitle                  "Дебъгване">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Отстраняване на дефекти">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Задаване на модули за журнала">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Задаване на файлове за журнала">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Задаване журнал за JS">
