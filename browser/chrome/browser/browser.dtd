@@ -247,8 +247,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Andere bladwijzers">
 <!ENTITY bookmarksMenuButton.mobile.label "Mobiel-bladwijzers">
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
+<!ENTITY hideBookmarksSidebar.label         "Bladwijzerzijbalk verbergen">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk weergeven">
+<!ENTITY hideBookmarksToolbar.label         "Bladwijzerwerkbalk verbergen">
 <!ENTITY searchBookmarks.label              "Bladwijzers doorzoeken">
+<!ENTITY bookmarkingTools.label             "Bladwijzerhulpmiddelen">
+<!ENTITY addBookmarksMenu.label             "Bladwijzermenu toevoegen aan werkbalk">
+<!ENTITY removeBookmarksMenu.label          "Bladwijzermenu verwijderen van werkbalk">
 
 <!ENTITY containersMenu.label "Containers">
 
