@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "ব্যতিক্ৰসমূহ…">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "ব্যতিক্ৰসমূহ…">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "আখৰ আৰু ৰং">
 
