@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "കൂടുതല്‍ മനസിലാക്കൂ">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "തെരഞ്ഞെടുക്കൂ…">
 <!ENTITY  notificationsDoNotDisturb.label      "എന്നെ ശല്യം ചെയ്യരുത്">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;റീസ്റ്റാര്‍ട്ട്‌ ചെയ്യുന്നത് വരെ അറിയിപ്പുകള്‍ കാണിക്കുന്നതല്ല">
 
-<!ENTITY  popupExceptions.label       "വിട്ടുവീഴ്ചകള്‍...">
-<!ENTITY  popupExceptions.accesskey   "ക">
+<!ENTITY  popupExceptions.label                                 "വിട്ടുവീഴ്ചകള്‍...">
+<!ENTITY  popupExceptions.accesskey                             "ക">
+
+
+<!ENTITY  notificationPermissions.label                         "അറിയിപ്പുകള്‍">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "അക്ഷരസഞ്ചയങ്ങളും നിറങ്ങളും">
 
