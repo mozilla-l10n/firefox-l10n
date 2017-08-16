@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "  Algemene data">
 
 
@@ -38,6 +39,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Byvoegingbesonderhede">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Laat geskryf">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  LET WEL: Ontvouting van stadige SQL is geaktiveer. Volledige SQL-stringe word dalk hier onder vertoon, maar sal nie ingedien word aan Telemetry nie.">
