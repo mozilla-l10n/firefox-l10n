@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "&quot;Атып шығатын&quot; терезелерді болдырмау">
 <!ENTITY  blockPopups.accesskey       "б">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Көбірек білу">
-<!ENTITY  notificationsPolicyDesc4.label       "Қай вебсайттарға сізге хабарламаларды жіберу рұқсат етілгенді таңдау">
-<!ENTITY  notificationsPolicyButton.accesskey  "у">
-<!ENTITY  notificationsPolicyButton.label      "Таңдау…">
 <!ENTITY  notificationsDoNotDisturb.label      "Мазамды алмаңыз">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "м">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; қайта іске қосылмағанша, хабарламалар көрсетілмейді">
 
-<!ENTITY  popupExceptions.label       "Осыдан бөлек…">
-<!ENTITY  popupExceptions.accesskey   "О">
+<!ENTITY  popupExceptions.label                                 "Осыдан бөлек…">
+<!ENTITY  popupExceptions.accesskey                             "О">
+
+
+<!ENTITY  notificationPermissions.label                         "Хабарламалар">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Қаріптер мен түстер">
 

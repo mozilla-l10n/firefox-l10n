@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Шикі JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Ішкі сессия деректерін көрсету">
 
 <!ENTITY aboutTelemetry.choosePing "Пингті таңдау:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Қосымша ақпараты">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Кеш жазулар">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Сессия ақпараты">
 

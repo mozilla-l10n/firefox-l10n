@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Кеңейтілген мүмкіндіктерге  тыйым салу">
 <!ENTITY aboutSupport.a11yHandlerUsed "Қолжетерліліктің қолданылған талдаушысы">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Жинақтар нұсқалары">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Орнатулар тарихы">
