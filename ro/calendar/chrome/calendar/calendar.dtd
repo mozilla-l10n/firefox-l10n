@@ -263,7 +263,7 @@
      This is the access key used for the showOnlyCalendar string -->
 
 <!ENTITY calendar.context.showonly.accesskey           "O">
-<!ENTITY calendar.context.showall.label                "Arată toate calendarele">
+<!ENTITY calendar.context.showall.label                "Afișează toate calendarele">
 <!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Convertește la">
