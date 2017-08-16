@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON amh">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Taispeáin sonraí fosheisiúin">
 
 <!ENTITY aboutTelemetry.choosePing "Roghnaigh ping:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Mionsonraí an Bhreiseáin">
 
 <!ENTITY aboutTelemetry.lateWritesSection " Scríobh Déanach">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Faisnéis an tSeisiúin">
 
