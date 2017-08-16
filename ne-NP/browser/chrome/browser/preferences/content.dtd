@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "अझै जान्नुहोस्">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "छान्नुहोस् ...">
 <!ENTITY  notificationsDoNotDisturb.label      "मलाई सोधिरहनु पर्दैन">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "तपाईँले &brandShortName; पुनः सुरु नगरेसम्म कुनै सूचना देखाइने छैन">
 
-<!ENTITY  popupExceptions.label       "अपवादहरू…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "अपवादहरू…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "सूचनाहरू">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "फन्टहरू र रङहरू">
 
