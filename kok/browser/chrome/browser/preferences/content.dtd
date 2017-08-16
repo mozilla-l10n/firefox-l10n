@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "अपवाद...">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "अपवाद...">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "अक्षरसंच &amp; रंग">
 
