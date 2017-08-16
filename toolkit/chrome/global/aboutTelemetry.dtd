@@ -12,6 +12,10 @@
 
 <!ENTITY aboutTelemetry.raw "Rå JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Opne i JSON-visar
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Vis underøkt-data">
 
 <!ENTITY aboutTelemetry.choosePing "Vel ping:">
@@ -73,6 +77,10 @@ Eldre
 <!ENTITY aboutTelemetry.addonDetailsSection "  Utvidingsdetaljar">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Sein skriving">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Rå nyttelast
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Øktinformasjon">
 
