@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "Rewşên Taybet...">
+<!ENTITY  popupExceptions.accesskey                             "e">
 
 
 
 
-<!ENTITY  popupExceptions.label       "Rewşên Taybet...">
-<!ENTITY  popupExceptions.accesskey   "e">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Curenivîs &amp; Reng">
 
