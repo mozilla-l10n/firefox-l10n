@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Egenskaper">
 
 <!ENTITY generalInfo.label                       "Generell informasjon">
-<!ENTITY folderCharsetFallback.label             "Reserve-tegnkoding:">
-<!ENTITY folderCharsetFallback.accesskey         "R">
-<!ENTITY folderCharsetEnforce.label              "Bruk tegnkodingen på alle meldinger i mappen (enkeltmeldingers tegnkoding og auto-detekterte tegnkodinger vil ignoreres)">
-<!ENTITY folderCharsetEnforce.accesskey          "B">
+<!ENTITY folderCharsetFallback2.label            "Reserve-tegnkoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Bruk kodingen på alle meldingen i mappen (innstillinger som gjelder individuelle meldingers tekstkoding og autodetektering vil ignoreres)">
+<!ENTITY folderCharsetEnforce2.accesskey         "a">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "o">
@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "I">
 <!ENTITY retentionKeepRecent.label "De nyeste">
 <!ENTITY retentionKeepRecent.accesskey "S">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Alltid slett leste meldinger (overstyr levetid-innstillingene)">
 <!ENTITY retentionApplyToFlagged.label "Alltid behold meldinger merket med flagg">
 <!ENTITY retentionApplyToFlagged.accesskey "d">
 
