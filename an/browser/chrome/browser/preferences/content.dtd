@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Blocar finestras emerchents">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Mas información">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "T">
-<!ENTITY  notificationsPolicyButton.label      "Trigar…">
 <!ENTITY  notificationsDoNotDisturb.label      "No molestar">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "No s'amostrará garra notificación mas dica que reinicies lo &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Excepcions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Excepcions…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "Notificacions">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Fuents y Colors">
 
