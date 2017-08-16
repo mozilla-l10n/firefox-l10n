@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Welkom">
-
-<!ENTITY firstrun_urlbar_message "Welkom bij &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Vind dingen sneller met handige koppelingen voor zoeksuggesties.">
+<!ENTITY firstrun_urlbar_message2 "Bedankt voor het kiezen van &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Een moderne mobiele browser van Mozilla, de non-profitorganisatie met toewijding aan een vrij en open web.">
+<!ENTITY firstrun_panel_title_privacy "Privacy">
+<!ENTITY firstrun_privacy_message "Surf alsof niemand meekijkt">
+<!ENTITY firstrun_privacy_subtext "Privénavigatie met Bescherming tegen volgen blokkeert trackers terwijl u surft en onthoudt geen geschiedenis zodra u hiermee stopt.">
+<!ENTITY firstrun_panel_title_customize "Aanpassen">
+<!ENTITY firstrun_customize_message "Maak Firefox van uzelf.">
+<!ENTITY firstrun_customize_subtext "Pas Firefox aan met add-ons. Blokkeer advertenties, voeg functies toe, of kies een nieuw thema om uw persoonlijkheid te weerspiegelen.">
 <!ENTITY firstrun_bookmarks_title "Geschiedenis">
 <!ENTITY firstrun_bookmarks_message "Uw favorieten, centraal">
 <!ENTITY firstrun_bookmarks_subtext "Zie resultaten uit uw bladwijzers en geschiedenis tijdens het zoeken.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Minder gegevens, meer besparen">
 <!ENTITY firstrun_data_subtext2 "Zet afbeeldingen uit voor minder gegevensverkeer bij elke bezochte website.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, altijd aan uw zijde">
-<!ENTITY firstrun_sync_subtext "Synchroniseer uw tabbladen, wachtwoorden en meer, overal waar u het gebruikt.">
+<!ENTITY firstrun_sync_message2 "Ga verder waar u was gebleven.">
+<!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in Firefox op al uw apparaten opslaat te vinden.">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
 <!ENTITY  onboard_start_button_browser "Beginnen met browsen">
@@ -848,6 +853,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; maakt nu highlights aan van dingen die u op het web hebt ontdekt, zodat u interessante artikelen, video’s, bladwijzers en andere pagina’s makkelijk kunt terugvinden.">
 
 <!ENTITY private_tab_panel_title "Privénavigatie + Bescherming tegen volgen">
-<!ENTITY private_tab_panel_description "&brandShortName; blokkeert onderdelen van de pagina’s die uw surfactiviteit zouden kunnen volgen.">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkeert onderdelen van de pagina’s die uw surfactiviteit kunnen volgen.">
 <!ENTITY private_tab_panel_description2 "Er wordt geen geschiedenis onthouden, maar gedownloade bestanden en nieuwe bladwijzers worden wel op uw apparaat opgeslagen.">
 <!ENTITY private_tab_learn_more "Wilt u meer weten?">
