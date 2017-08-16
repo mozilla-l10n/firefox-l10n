@@ -847,4 +847,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "మీ ముఖ్యాంశాలకు స్వాగతం">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ఇప్పుడు మీరు వెబ్లో కనుగొన్న విషయాలను ముఖ్యాంశాలుగా సృష్టిస్తుంది కాబట్టి మీరు గొప్ప వ్యాసాలు, వీడియోలు, బుక్మార్క్లు మరియు ఇతర పేజీలకు తిరిగి మీ మార్గాన్ని కనుగొనగలరు.">
 
+<!ENTITY private_tab_panel_title "ట్రాకింగ్ సంరక్షణతో అంతరంగిక విహరణ">
+<!ENTITY private_tab_panel_description "మీ విహరణ జాడ తెలుసుకునేందుకు ఈ పైజీపై వున్న భాగములను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY private_tab_panel_description2 "మేము ఏ చరిత్రను గుర్తుంచుకోము, కానీ మీ పరికరంలోకి దింపుకొన్న ఫైళ్ళు మరియు కొత్త ఇష్టాంశాలు భద్రపరచబడుతాయి.">
 <!ENTITY private_tab_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
