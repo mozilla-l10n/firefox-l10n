@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Pirminis JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Rodyti posesijinius duomenis">
 
 <!ENTITY aboutTelemetry.choosePing "Pasirinkite ryšio patikrinimą:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Priedų duomenys">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Vėlavę įrašymai">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Seanso informacija">
 
