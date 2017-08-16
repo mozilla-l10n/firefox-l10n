@@ -11,6 +11,7 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "आर्काइव पिंग डेटा">
 
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा देखाबू">
 
 <!ENTITY aboutTelemetry.choosePing "पिंग चुनू:">
@@ -52,6 +53,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  सहयुक्तिक विवरण">
 
 <!ENTITY aboutTelemetry.lateWritesSection "किछु देर सँ लिखू">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीमा sql दोषसुधार सक्षम अछि. पूर्ण रूप सँ sql  वाक्यांश नीच्चाँ देखाइ दिए सकैत अछि मुदा ओ दूरमापी केँ जमा कएल जाए सकैत अछि ">
