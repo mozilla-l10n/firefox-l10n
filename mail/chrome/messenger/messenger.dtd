@@ -38,7 +38,7 @@
 <!ENTITY newIMContactCmd.accesskey "К">
 <!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
-<!ENTITY saveAsMenu.label "Запис като">
+<!ENTITY saveAsMenu.label "Запазване като">
 <!ENTITY saveAsMenu.accesskey "а">
 <!ENTITY saveAsFileCmd.label "Файл">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
@@ -467,7 +467,7 @@
 <!ENTITY imStatus.showAccounts       "Показване на сметките…">
 <!ENTITY joinChatCmd.label "Присъединяване към разговор…">
 <!ENTITY joinChatCmd.accesskey "П">
-<!ENTITY savedFiles.label "Записани файлове">
+<!ENTITY savedFiles.label "Запазени файлове">
 <!ENTITY savedFiles.accesskey "й">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Филтриране на писма">

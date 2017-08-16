@@ -33,10 +33,10 @@
 <!ENTITY closeCmd.label "Затваряне">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "З">
-<!ENTITY saveCmd.label "Запис">
+<!ENTITY saveCmd.label "Запазване">
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "а">
-<!ENTITY saveAsCmd.label "Запис като">
+<!ENTITY saveAsCmd.label "Запазване като">
 <!ENTITY saveAsCmd.accesskey "и">
 <!ENTITY saveAsFileCmd.label "Файл…">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
@@ -205,7 +205,7 @@
 <!ENTITY addressButton.label "Контакти">
 <!ENTITY attachButton.label "Прилагане">
 <!ENTITY spellingButton.label "Правопис">
-<!ENTITY saveButton.label "Запис">
+<!ENTITY saveButton.label "Запазване">
 <!ENTITY printButton.label "Отпечатване">
 
 <!-- Mail Toolbar Tooltips -->
@@ -216,7 +216,7 @@
 <!ENTITY attachButton.tooltip "Добавяне на прикачен файл">
 <!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
 <!ENTITY statusLanguageText.tooltip "Език за проверка на правописа">
-<!ENTITY saveButton.tooltip "Запис на писмото">
+<!ENTITY saveButton.tooltip "Запазване на писмото">
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
 <!ENTITY pasteButton.tooltip            "Поставяне">
