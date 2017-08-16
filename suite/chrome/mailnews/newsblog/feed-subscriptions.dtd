@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Lagre artikler i:">
 <!ENTITY feedFolder.accesskey        "L">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Se etter nye artikler hvert ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "minutt">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dager">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Utgiveren anbefaler:">
+
 <!ENTITY quickMode.label             "Vis artikkeloppsummering istedenfor å laste nettsiden">
 <!ENTITY quickMode.accesskey         "V">
 
@@ -27,10 +36,11 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Legg til">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Rediger">
-<!ENTITY button.editFeed.accesskey   "R">
+<!ENTITY button.updateFeed.label     "Oppdater">
+<!ENTITY button.updateFeed.accesskey "O">
 <!ENTITY button.removeFeed.label     "Slett">
 <!ENTITY button.removeFeed.accesskey "S">
 <!ENTITY button.importOPML.label     "Importer">

@@ -23,6 +23,8 @@
 <!ENTITY biffStart.label "Se etter nye meldinger hvert">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minutt">
+<!ENTITY useIdleNotifications.label "Tillat umiddelbare servervarsler når nye meldinger mottas">
+<!ENTITY useIdleNotifications.accesskey "u">
 <!ENTITY connectionSecurity.label "Tilkoblingssikkerhet:">
 <!ENTITY connectionSecurity.accesskey "T">
 <!ENTITY connectionSecurityType-0.label "Ingen">
@@ -55,9 +57,9 @@
 <!ENTITY expungeOnExit.accesskey "u">
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkasse ved avslutning">
 <!ENTITY emptyTrashOnExit.accesskey "T">
-<!ENTITY loginAtStartup.label "Se etter nye meldinger ved oppstart"> 
+<!ENTITY loginAtStartup.label "Se etter nye meldinger ved oppstart">
 <!ENTITY loginAtStartup.accesskey "o">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +75,7 @@
 <!ENTITY abbreviateOn.label "Fulle navn (for eksempel «netscape.public.mozilla.mail-news»)">
 <!ENTITY abbreviateOff.label "Forkortede navn (for eksempel «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
-<!ENTITY serverDefaultCharset.label "Standard tegnkoding:">
+<!ENTITY serverDefaultCharset2.label "Standard tekstkoding:">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Velg lokal mappe:">
@@ -84,3 +86,7 @@
 
 <!ENTITY accountTitle.label "Kontoinnstillinger">
 <!ENTITY accountSettingsDesc.label "Dette er en spesialkonto. Ingen identiteter er knyttet til den.">
+<!ENTITY storeType.label "Meldingslagertype:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Fil per mappe (mbox)">
+<!ENTITY maildirStore.label "Fil per melding (maildir)">
