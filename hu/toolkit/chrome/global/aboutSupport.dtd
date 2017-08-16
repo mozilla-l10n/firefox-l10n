@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Kisegítő lehetőségek letiltása">
 <!ENTITY aboutSupport.a11yHandlerUsed "Használt akadálymentesítés-kezelő">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Könyvtárak verziói">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Telepítési előzmények">
