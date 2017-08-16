@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "ಸಂಸ್ಕರಿಸದ JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "ಉಪಅಧಿವೇಶನ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
 
 <!ENTITY aboutTelemetry.choosePing "ಪಿಂಗ್ ಆಯ್ಕೆ ಮಾಡು:">
@@ -54,6 +55,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  ಆಡ್-ಆನ್ ವಿವರಗಳು">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ತಡವಾಗಿ ಬರೆಯುವಿಕೆ">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  ಅಧಿವೇಶನದ ಮಾಹಿತಿ">
 

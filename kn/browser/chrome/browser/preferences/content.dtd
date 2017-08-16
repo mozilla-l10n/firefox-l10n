@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "ಆರಿಸಿ…">
 <!ENTITY  notificationsDoNotDisturb.label      "ತೊಂದರೆ ಮಾಡಬೇಡಿ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "ನೀವು &brandShortName; ಅನ್ನು ಮರು ಆರಂಭಿಸುವ ತನಕ ಸೂಚನೆಗಳನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ">
 
-<!ENTITY  popupExceptions.label       "ಹೊರತಾದವುಗಳು...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "ಹೊರತಾದವುಗಳು...">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "ಸೂಚನೆಗಳು">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು">
 
