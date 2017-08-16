@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "Ngyegye…">
+<!ENTITY  popupExceptions.accesskey                             "e">
 
 
 
 
-<!ENTITY  popupExceptions.label       "Ngyegye…">
-<!ENTITY  popupExceptions.accesskey   "e">
+
+
+
+
+
+
 
 
 
