@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Raw JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Show subsession data">
 
 <!ENTITY aboutTelemetry.choosePing "Choose ping:">
@@ -53,6 +54,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Add-on Details">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Late Writes">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Session Information">
 
