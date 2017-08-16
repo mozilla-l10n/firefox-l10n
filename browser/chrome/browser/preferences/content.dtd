@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "Осыдан бөлек…">
 <!ENTITY  popupExceptions.accesskey                             "О">
 
+<!ENTITY  permissionSettingsButton2.label                       "Баптаулар…">
 
 <!ENTITY  notificationPermissions.label                         "Хабарламалар">
 
+<!ENTITY  notificationPermissionsLearnMore.label                "Көбірек білу">
 
+<!ENTITY  locationPermissions.label                             "Орналасу">
+<!ENTITY  locationSettingsButton.accesskey                      "л">
 
+<!ENTITY  cameraPermissions.label                               "Камера">
+<!ENTITY  cameraSettingsButton.accesskey                        "к">
 
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Микрофон">
+<!ENTITY  microphoneSettingsButton.accesskey                    "м">
 
 <!ENTITY  fontsAndColors.label        "Қаріптер мен түстер">
 
