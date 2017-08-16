@@ -65,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codaziun da text per cuntegn nundefinì">
+<!ENTITY languages.customize.Fallback3.label      "Alternativa per la codaziun dal text">
+<!ENTITY languages.customize.Fallback3.accesskey  "v">
 <!ENTITY languages.customize.Fallback2.desc       "Questa codaziun da text vegn utilisada per cuntegn nundefinì (legacy content) che n'ha betg definì la codaziun.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard per la lingua actuala">
