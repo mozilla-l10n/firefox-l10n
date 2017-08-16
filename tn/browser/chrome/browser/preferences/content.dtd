@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Thibela di Window tse di tlhagelelang">
 <!ENTITY  blockPopups.accesskey       "T">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ithute mo go tseneletseng">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Tlhopha…">
 <!ENTITY  notificationsDoNotDisturb.label      "O seka wa nkgoreletsa">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "s">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ga gona kitsiso epe e tla bontshiwang go fitlhelela o simolola sešwa &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Ditlogelwantle">
-<!ENTITY  popupExceptions.accesskey   "D">
+<!ENTITY  popupExceptions.label                                 "Ditlogelwantle">
+<!ENTITY  popupExceptions.accesskey                             "D">
+
+
+<!ENTITY  notificationPermissions.label                         "Dikitsiso">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Mefutatlhaka le Mebala">
 
