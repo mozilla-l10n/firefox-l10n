@@ -21,3 +21,15 @@
 <!ENTITY            autoSelect.label         "Bruk profilen som standard">
 <!ENTITY            autoSelect.accesskey     "B">
 
+<!ENTITY            start.label              "Start &brandShortName;">
+<!ENTITY            exit.label               "Avslutt">
+
+<!ENTITY            newButton.label          "Lag ny profil…">
+<!ENTITY            newButton.accesskey      "L">
+<!ENTITY            renameButton.label       "Endre profilnavn…">
+<!ENTITY            renameButton.accesskey   "r">
+<!ENTITY            deleteButton.label       "Slett profil…">
+<!ENTITY            deleteButton.accesskey   "S">
+
+<!ENTITY            offlineState.label       "Arbeid frakoblet">
+<!ENTITY            offlineState.accesskey   "o">
