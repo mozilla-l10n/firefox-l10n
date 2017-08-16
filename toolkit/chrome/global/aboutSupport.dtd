@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informação para resolução de problemas">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Esta página contém as informação técnica que pode ser útil para quando estiver a tentar resolver um problema. Se estiver à procura de respostas a questões comuns acerca do &brandShortName;, aceda ao nosso <a id='supportLink'>website de apoio</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Relatórios de falha">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nome">
 <!ENTITY aboutSupport.appBasicsVersion "Versão">
 <!ENTITY aboutSupport.appBasicsBuildID "ID da compilação">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de atualização">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Histórico de atualizações">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Mostrar histórico de atualizações">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Utilização da memória">
 <!ENTITY aboutSupport.appBasicsPerformance "Desempenho">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registados">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Perfis">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferências importantes modificadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Nome">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferências user.js">
 <!ENTITY aboutSupport.userJSDescription "A sua pasta de perfil contém <a id='prefs-user-js-link'>um ficheiro user.js</a>, que inclui as preferências que não foram criadas pelo &brandShortName;.">
 
@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Ativa">
 <!ENTITY aboutSupport.a11yForceDisabled "Impedir acessibilidade">
 <!ENTITY aboutSupport.a11yHandlerUsed "Gestor acessível utilizado">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciador de acessibilidade">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versões da biblioteca">
 
