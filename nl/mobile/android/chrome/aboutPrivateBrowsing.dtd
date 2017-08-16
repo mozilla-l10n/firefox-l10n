@@ -19,7 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "In Privénavigatie worden geen navigatiegeschiedenis of cookies bewaard. Bladwijzers die u toevoegt en bestanden die u downloadt worden wel op uw apparaat opgeslagen.">
+<!ENTITY privatebrowsingpage.description.normal2 "In Privénavigatie worden geen navigatiegeschiedenis of cookies bewaard. Bladwijzers die u toevoegt en bestanden die u downloadt, worden wel op uw apparaat opgeslagen.">
 
 <!ENTITY privatebrowsingpage.link.private "Wilt u meer weten?">
 <!ENTITY privatebrowsingpage.link.normal "Een nieuw privétabblad openen">
