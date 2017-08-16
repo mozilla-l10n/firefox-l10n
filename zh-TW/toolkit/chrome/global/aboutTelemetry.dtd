@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "顯示 subsession 資料">
 
 <!ENTITY aboutTelemetry.choosePing "選擇 ping:">
@@ -62,6 +63,9 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "附加元件詳情">
 
 <!ENTITY aboutTelemetry.lateWritesSection "慢速寫入">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+原始酬載">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "使用階段資訊">
 
