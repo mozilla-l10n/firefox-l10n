@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Pritaikymas neįgaliesiems uždraustas">
 <!ENTITY aboutSupport.a11yHandlerUsed "Panaudota pasiekiama doroklė ">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekų versijos">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Įdiegimo žurnalas">
