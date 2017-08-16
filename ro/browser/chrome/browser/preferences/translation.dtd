@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "E">
 
 <!ENTITY noTranslationForSites.label      "Traducerea nu va fi oferită pentru următoarele site-uri:">
-
+<!ENTITY treehead.siteName2.label         "Site-uri web">
 <!ENTITY removeSite.label                 "Elimină site-ul">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Elimină toate site-urile">

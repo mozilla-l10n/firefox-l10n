@@ -4,11 +4,13 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de căutare implicit">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Alege motorul de căutare implicit pentru a fi folosit în bara de adresă și în bara de căutare.">
 
 <!ENTITY provideSearchSuggestions.label        "Furnizează sugestii de căutare">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Afișează sugestiile de căutare în rezultatele din bara de adresă">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat &brandShortName; ca să nu țină minte niciodată istoricul.">
 
 <!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un clic distanță">

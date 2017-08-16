@@ -27,12 +27,13 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-
+<!ENTITY enableHealthReport1.label       "Permite lui &brandShortName; să trimită automat Mozillei date tehnice și date despre interacțiuni">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
 <!ENTITY dataCollection.label            "Colectarea și utilizarea de date din &brandShortName;">
-
-
+<!ENTITY dataCollectionDesc.label        "Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim &brandShortName; pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Politica de confidențialitate">
 
 
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
@@ -123,10 +124,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
 <!ENTITY enableOCSP.accesskey            "h">
-
-
-
-
+<!ENTITY viewCerts2.label                "Vezi certificatele…">
+<!ENTITY viewCerts2.accesskey            "c">
+<!ENTITY viewSecurityDevices2.label      "Dispozitive de securitate…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Performanță">
 <!ENTITY useRecommendedPerformanceSettings2.label "Folosește setările recomandate de performanță">

@@ -22,13 +22,13 @@
 <!ENTITY trackingProtectionPBM6.label         "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Află mai multe">
-
-
+<!ENTITY changeBlockList2.label               "Schimbă lista de blocări">
+<!ENTITY changeBlockList2.accesskey           "c">
 
 <!ENTITY  doNotTrack.description        "Trimite site-urilor web un semnal „Do Not Track” prin care nu dorești să fii urmărit">
 <!ENTITY  doNotTrack.learnMore.label    "Află mai multe">
-
-
+<!ENTITY  doNotTrack.default.label      "Doar când se folosește protecția față de urmărire">
+<!ENTITY  doNotTrack.always.label       "Întotdeauna">
 
 <!ENTITY  history.label                 "Istoric">
 <!ENTITY  permissions.label             "Permisiuni">
