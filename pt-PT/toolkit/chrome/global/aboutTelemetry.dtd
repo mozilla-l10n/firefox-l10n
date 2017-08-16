@@ -4,7 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados de telemetria">
 
-<!ENTITY aboutTelemetry.pingDataSource "Fonte de dados ping:">
+<!ENTITY aboutTelemetry.pingDataSource "
+Fonte de datos ping:
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
 
@@ -13,21 +15,37 @@
 <!ENTITY aboutTelemetry.raw "JSON em bruto">
 
 
-<!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados de sub-sessão">
+<!ENTITY aboutTelemetry.showSubsessionData "
+Mostrar dados de sub-sessão
+">
 
-<!ENTITY aboutTelemetry.choosePing "Escolha o ping:">
+<!ENTITY aboutTelemetry.choosePing "
+Escolha o ping:
+">
 
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping recente">
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Ping mais recente
+">
 
-<!ENTITY aboutTelemetry.showOlderPing "Ping antigo &gt;&gt;">
+<!ENTITY aboutTelemetry.showOlderPing "
+Ping mais antigo &gt;&gt;
+">
 
-<!ENTITY aboutTelemetry.archiveWeekHeader "Fraco">
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Semana
+">
 
-<!ENTITY aboutTelemetry.archivePingType "Tipo de ping">
+<!ENTITY aboutTelemetry.archivePingType "
+Tipo de ping
+">
 
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
 
-<!ENTITY aboutTelemetry.optionGroupToday "Hoje">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hoje
+">
 
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ontem">
 
