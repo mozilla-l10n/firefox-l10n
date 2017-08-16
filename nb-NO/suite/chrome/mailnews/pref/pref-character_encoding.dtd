@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.character.encoding.title   "Tegnkoding">
+<!ENTITY pref.character.encoding2.title  "Tekstkoding">
 <!ENTITY messageDisplay.caption          "Meldingsvisning">
-<!ENTITY viewFallbackCharset.label       "Reserve-tegnkoding:">
-<!ENTITY viewFallbackCharset.accesskey   "R">
+<!ENTITY viewFallbackCharset2.label      "Reserve-tekstkoding:">
+<!ENTITY viewFallbackCharset2.accesskey  "e">
 <!ENTITY viewFallbackCharset.desc        "(Brukt for legacy-innhold som kke oppgir noen tegnkoding.)">
 
 <!ENTITY composingMessages.caption       "Meldingsskriving">
 <!ENTITY useMIME.label                   "Bruk 'quoted printable' MIME-koding for meldinger som har 8-bit tegn. La være tom for å sende meldingen som den er.">
 <!ENTITY useMIME.accesskey               "B">
-<!ENTITY sendDefaultCharset.label        "Standard tegnkoding:">
-<!ENTITY sendDefaultCharset.accesskey    "a">
-<!ENTITY replyInDefaultCharset2.label    "Når mulig, bruk standard tegnkoding i svar på meldinger. (Når tom, vil bare nye meldinger bruke dette forvalget.)">
-<!ENTITY replyInDefaultCharset2.accesskey "d">
+<!ENTITY sendDefaultCharset2.label       "Standard tekstkoding:">
+<!ENTITY sendDefaultCharset2.accesskey   "t">
+<!ENTITY replyInDefaultCharset3.label    "Når det er mulig, bruk denne standardtekstkodingen i svar. (Når ikke valgt, bruker bare nye meldinger denne standarden.)">
+<!ENTITY replyInDefaultCharset3.accesskey "m">

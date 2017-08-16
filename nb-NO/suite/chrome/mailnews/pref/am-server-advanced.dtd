@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "I">
 <!ENTITY dualUseFolders.label "Serveren støtter mapper som inneholder undermapper og meldinger">
 <!ENTITY dualUseFolders.accesskey "T">
-<!ENTITY useIdle.label "Bruk IDLE-kommandoen dersom serveren støtter det">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Maksimalt antall servertilkoblinger til hurtiglager">
 <!ENTITY maximumConnectionsNumber.accesskey "T">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,9 +22,9 @@
 <!ENTITY otherUsersNamespace.accesskey "B">
 <!ENTITY overrideNamespaces.label "Tillat serveren å overstyre disse navnerommene">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "Ved nedlasting av POP e-post for denne serveren, bruk følgende mappe for ny post:" >
-<!ENTITY accountDirectory.label "Innboks for denne serverens konto">
-<!ENTITY accountDirectory.accesskey "I">
+<!ENTITY pop3DeferringDesc.label "Ved nedlasting av e-post fra denne kontoens server, bruk denne mappen for å lagre nye meldinger:" >
+<!ENTITY accountInbox.label "Innboks for denne kontoen">
+<!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Innboks for en annen konto">
 <!ENTITY deferToServer.accesskey "b">
 <!ENTITY deferGetNewMail.label "Inkluder også denne kontoen når ny e-post lastes ned">

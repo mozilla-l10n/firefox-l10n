@@ -15,11 +15,11 @@
 <!-- These are added to Preferences dialog -->
 <!ENTITY viewingMessages.label            "Meldingsvisning">
 <!ENTITY notifications.label              "Varsler">
-<!ENTITY address.label                    "Adressering">
 <!ENTITY composingMessages.label          "Utforming">
 <!ENTITY format.label                     "Sendeformat">
-<!ENTITY return.label                     "Returkvitteringer">
+<!ENTITY address.label                    "Adressering">
 <!ENTITY junk.label                       "Søppelpost">
 <!ENTITY tags.label                       "Etiketter">
-<!ENTITY characterEncoding.label          "Tegnkoding">
+<!ENTITY return.label                     "Returkvitteringer">
+<!ENTITY characterEncoding2.label         "Tekstkoding">
 <!ENTITY networkStorage.label             "Nettverk og lagring">
