@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection " সাধাৰণ তথ্য">
 
 
@@ -41,6 +42,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  এড-অন বিৱৰণসমূহ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  শেষৰ লিখনিসমূহ">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  টোকা: লেহেম SQL ডিবাগিং সামৰ্থবান কৰা আছে। সম্পূৰ্ণ SQL স্ট্ৰিংসমূহ তলত দেখুৱা হব পাৰে কিন্তু সিহতক টেলিমেট্ৰিত জমা দিয়া নহব।">
