@@ -16,7 +16,9 @@
 
 <!ENTITY  serif2.label                            "Serif">
 <!ENTITY  serif2.accesskey                        "T">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
 <!ENTITY  sans-serif2.accesskey                   "l">
+<!ENTITY  monospace2.label                        "Tehri tusbuṭ">
 <!ENTITY  monospace2.accesskey                    "F">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
@@ -64,6 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
 <!ENTITY languages.customize.Fallback3.label      "Asettengel n uḍris n ufran aneggaru">
+<!ENTITY languages.customize.Fallback3.accesskey  "M">
 <!ENTITY languages.customize.Fallback2.desc       "Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">

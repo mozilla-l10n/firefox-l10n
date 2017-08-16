@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Sewḥel isfuyla udhimen">
 <!ENTITY  blockPopups.accesskey       "S">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Issin ugar">
-<!ENTITY  notificationsPolicyDesc4.label       "Fren ismal web i izemren a k-d-aznen ilɣuten">
-<!ENTITY  notificationsPolicyButton.accesskey  "F">
-<!ENTITY  notificationsPolicyButton.label      "Fren…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ur yi-ttcewwil ara">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "r">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ulac alɣu ad yettwaseknen skud ur tulseḍ ara asenker i &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Tisuraf…">
-<!ENTITY  popupExceptions.accesskey   "s">
+<!ENTITY  popupExceptions.label                                 "Tisuraf…">
+<!ENTITY  popupExceptions.accesskey                             "s">
+
+<!ENTITY  permissionSettingsButton2.label                       "Iγewwaṛen…">
+
+<!ENTITY  notificationPermissions.label                         "Ilγa">
+<!ENTITY  notificationSettingsButton.accesskey                  "b">
+<!ENTITY  notificationPermissionsLearnMore.label                "Issin ugar">
+
+<!ENTITY  locationPermissions.label                             "Adig">
+<!ENTITY  locationSettingsButton.accesskey                      "z">
+
+<!ENTITY  cameraPermissions.label                               "Takamiṛat">
+<!ENTITY  cameraSettingsButton.accesskey                        "d">
+
+<!ENTITY  microphonePermissions.label                           "Asawaḍ">
+<!ENTITY  microphoneSettingsButton.accesskey                    "x">
 
 <!ENTITY  fontsAndColors.label        "Tisefsiyin d yiniten">
 
