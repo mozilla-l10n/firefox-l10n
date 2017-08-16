@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Inditgescha las infurmaziuns davart il modul che ti vuls agiuntar.">
-<!ENTITY loaddevice.modname                     "Num dal modul:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname2                    "Num dal modul">
+<!ENTITY loaddevice.modname2.accesskey          "m">
 <!ENTITY loaddevice.modname.default             "Nov modul PKCS#11">
-<!ENTITY loaddevice.filename                    "Num da datoteca dal modul:">
-<!ENTITY loaddevice.filename.accesskey          "o">
+<!ENTITY loaddevice.filename2                   "Num da datoteca dal modul">
+<!ENTITY loaddevice.filename2.accesskey         "d">
 <!ENTITY loaddevice.browse                      "Tschertgar en…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
