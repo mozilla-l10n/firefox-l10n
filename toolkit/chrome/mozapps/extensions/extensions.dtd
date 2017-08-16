@@ -124,9 +124,7 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Que sont les modules complémentaires ?">
-<!ENTITY discover.description2                "Les modules complémentaires sont des applications permettant de personnaliser &brandShortName;
-  avec des fonctionnalités ou des styles supplémentaires. Gagnez du temps avec un panneau latéral, surveillez la météo ou changez l’apparence de &brandShortName;
-  à votre guise.">
+<!ENTITY discover.description2                "Les modules complémentaires sont des applications permettant de personnaliser &brandShortName; avec des fonctionnalités ou des styles supplémentaires. Gagnez du temps avec un panneau latéral, surveillez la météo ou changez l’apparence de &brandShortName; à votre guise.">
 <!ENTITY discover.footer                      "Lorsque votre connexion Internet sera active, ce panneau vous permettra de découvrir
   certains des meilleurs modules complémentaires ainsi que les plus populaires.">
 
