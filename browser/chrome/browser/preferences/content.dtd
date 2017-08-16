@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "पॉपअप विंडो को अवरोधित करें">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "अधिक जानें">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "चुनें…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेशान नहीं करें">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "कोई अधिसूचना नहीं दिखेगा जब तक फिर से &brandShortName; नहीं चालू करेंगे;">
 
-<!ENTITY  popupExceptions.label       "अपवाद...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "अपवाद...">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "अधिसूचना">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "फ़ॉन्ट व रंग">
 
