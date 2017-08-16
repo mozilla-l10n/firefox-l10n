@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Gropny JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Daty pódpósejźenja pokazaś">
 
 <!ENTITY aboutTelemetry.choosePing "Ping wubraś:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Drobnostki dodanka">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózne pisańske procese">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Pósejźeńske informacije">
 
