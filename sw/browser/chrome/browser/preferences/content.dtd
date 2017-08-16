@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "Mambo ya kipekee…">
+<!ENTITY  popupExceptions.accesskey                             "M">
 
 
 
 
-<!ENTITY  popupExceptions.label       "Mambo ya kipekee…">
-<!ENTITY  popupExceptions.accesskey   "M">
+
+
+
+
+
+
 
 
 
