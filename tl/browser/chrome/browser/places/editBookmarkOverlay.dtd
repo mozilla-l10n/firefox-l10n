@@ -12,8 +12,14 @@
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Folder:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ipakita ang Lahat ng mga Bookmark Folder">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Tago">
+<!ENTITY editBookmarkOverlay.tags.label                      "Tags:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Paghiwalayin ang mga tag na may mga kuwit">
 <!ENTITY editBookmarkOverlay.description.label               "Description:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Keyword:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ipakita ang lahat ng tags">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "I-load ang bookmark na ito sa sidebar">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
