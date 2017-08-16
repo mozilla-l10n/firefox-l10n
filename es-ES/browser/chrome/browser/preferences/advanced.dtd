@@ -71,7 +71,7 @@
 <!ENTITY offlineStorageNotify.accesskey "v">
 <!ENTITY offlineStorageNotifyExceptions.label "Excepciones…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
-<!ENTITY offlineAppsList2.label "Los siguientes sitios web tienen permiso para guardar datos para el uso en modo sin conexión:">
+<!ENTITY offlineAppsList3.label "Los siguientes sitios web tienen permiso para guardar datos para el uso en modo sin conexión">
 <!ENTITY offlineAppsList.height "7em">
 <!ENTITY offlineAppsListRemove.label "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "l">

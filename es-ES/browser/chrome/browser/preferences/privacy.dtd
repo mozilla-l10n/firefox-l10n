@@ -40,13 +40,13 @@
 <!ENTITY suggestionSettings2.label "Cambiar preferencias de sugerencias de buscadores">
 <!ENTITY acceptCookies2.label "Aceptar cookies de sitios web">
 <!ENTITY acceptCookies2.accesskey "k">
-<!ENTITY acceptThirdParty.pre.label "Aceptar las cookies de terceras partes:">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty2.pre.label "Aceptar las cookies de terceras partes">
+<!ENTITY acceptThirdParty2.pre.accesskey "p">
 <!ENTITY acceptThirdParty.always.label "Siempre">
 <!ENTITY acceptThirdParty.never.label "Nunca">
 <!ENTITY acceptThirdParty.visited.label "De los visitados">
-<!ENTITY keepUntil.label "Mantener hasta que:">
-<!ENTITY keepUntil.accesskey "M">
+<!ENTITY keepUntil2.label "Mantener hasta que">
+<!ENTITY keepUntil2.accesskey "q">
 <!ENTITY expire.label "caduquen">
 <!ENTITY close.label "cierre &brandShortName;">
 <!ENTITY cookieExceptions.label "Excepciones…">

@@ -179,8 +179,13 @@
 <!ENTITY bookmarksMenuButton.other.label "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores del móvil">
 <!ENTITY viewBookmarksSidebar2.label "Ver el panel lateral de marcadores">
+<!ENTITY hideBookmarksSidebar.label "Ocultar panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
+<!ENTITY hideBookmarksToolbar.label "Ocultar barra de herramientas de marcadores">
 <!ENTITY searchBookmarks.label "Buscar marcadores">
+<!ENTITY bookmarkingTools.label "Herramientas de marcadores">
+<!ENTITY addBookmarksMenu.label "Añadir el menú Marcadores a la barra de herramientas">
+<!ENTITY removeBookmarksMenu.label "Eliminar menú de marcadores de la barra de herramientas">
 <!ENTITY containersMenu.label "Contenedores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
