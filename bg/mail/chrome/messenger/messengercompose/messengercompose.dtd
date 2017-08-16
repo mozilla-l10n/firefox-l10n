@@ -173,7 +173,7 @@
 <!ENTITY highestPriorityCmd.accesskey "П">
 <!ENTITY fileCarbonCopyCmd.label "Изпращане копие до">
 <!ENTITY fileCarbonCopyCmd.accesskey "щ">
-<!ENTITY fileHereMenu.label "Записване тук">
+<!ENTITY fileHereMenu.label "Запазване тук">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Инструменти">

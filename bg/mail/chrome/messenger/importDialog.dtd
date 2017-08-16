@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Помощник на &brandShortName; за внасяне">
 <!ENTITY importShortDesc.label    "Внасяне на поща, адресници, настройки и филтри от други програми">
 
-<!ENTITY importDescription1.label "Чрез този помощник ще внесете в &brandShortName; писма, записи от адресници, настройки и/или филтри от други пощенски програми и адресници от различни формати.">
+<!ENTITY importDescription1.label "Чрез този помощник ще внесете в &brandShortName; писма, визитки от адресници, настройки и/или филтри от други пощенски приложения и адресници в различни формати.">
 <!ENTITY importDescription2.label "Веднъж внесени, вие ще имате възможност да ги използвате от &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Моля, изберете вида на файла, който искате да внесете:">

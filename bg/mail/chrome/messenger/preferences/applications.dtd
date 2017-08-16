@@ -13,9 +13,9 @@
 
 <!ENTITY  filter.placeholder          "Търсене">
 
-<!ENTITY saveTo.label                 "Запис на файловете в">
+<!ENTITY saveTo.label                 "Запазване на файловете в">
 <!ENTITY saveTo.accesskey             "З">
-<!ENTITY alwaysAsk.label              "Винаги се запитва къде да се записват файловете ">
+<!ENTITY alwaysAsk.label              "Винаги да пита къде да бъдат запазвани файловете">
 <!ENTITY alwaysAsk.accesskey          "В">
 <!ENTITY chooseFolderWin.label        "Избор…">
 <!ENTITY chooseFolderWin.accesskey    "И">

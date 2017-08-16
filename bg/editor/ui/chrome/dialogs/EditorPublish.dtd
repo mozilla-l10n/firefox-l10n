@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Публикуване на страница">
 <!ENTITY windowTitleSettings.label    "Настройки за публикуване">
 <!ENTITY publishTab.label             "Публикуване">
 <!ENTITY settingsTab.label            "Настройки">
 <!ENTITY publishButton.label          "Публикуване">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Име на сайта:">
 <!ENTITY siteList.accesskey           "И">
 <!ENTITY siteList.tooltip             "Изберете сайта, на който искате да публикувате">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "с">
 <!ENTITY removeButton.label           "Премахване на сайт">
 <!ENTITY removeButton.accesskey       "П">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Публикувани сайтове">
 <!ENTITY serverInfo.label             "Информация за сървър">
 <!ENTITY loginInfo.label              "Информация за влизане">
@@ -60,6 +60,6 @@
 <!ENTITY password.label               "Парола:">
 <!ENTITY password.accesskey           "о">
 <!ENTITY password.tooltip             "Паролата, използвана с вашето потребителско име">
-<!ENTITY savePassword.label           "Запис на парола">
+<!ENTITY savePassword.label           "Запазване на парола">
 <!ENTITY savePassword.accesskey       "З">
 <!ENTITY savePassword.tooltip         "Използвайте тази опция, за да запазите паролата чрез управлението на пароли">
