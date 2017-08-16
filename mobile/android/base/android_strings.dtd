@@ -172,8 +172,8 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Nun s\&apos;alcontró preséu coneutáu dalu a la cuenta de Firefox">
 
-<!ENTITY pref_category_search3 "Guetar">
-<!ENTITY pref_category_search_summary2 "Amestar, predeterminar, amosar suxerencies">
+<!ENTITY pref_category_search3 "Gueta">
+<!ENTITY pref_category_search_summary2 "Amiestu, afitamientu, amuesa de suxerencies">
 <!ENTITY pref_category_accessibility "Accesibilidá">
 <!ENTITY pref_category_accessibility_summary2 "Tamañu del testu, zoom, entrada de voz">
 <!ENTITY pref_category_privacy_short "Privacidá">
@@ -184,7 +184,7 @@
 <!ENTITY pref_category_logins "Anicios de sesión">
 <!ENTITY pref_learn_more "Deprendi más">
 <!ENTITY pref_category_installed_search_engines "Motores de gueta instalaos">
-<!ENTITY pref_category_add_search_providers "Amestar más fornidores de gueta">
+<!ENTITY pref_category_add_search_providers "Amiestu de más fornidores de gueta">
 <!ENTITY pref_category_search_restore_defaults "Restaurar motores de gueta">
 <!ENTITY pref_search_restore_defaults "Reafitar">
 <!ENTITY pref_search_restore_defaults_summary "Reafitar">
@@ -214,7 +214,7 @@
 <!ENTITY pref_category_home_panels "Paneles">
 <!ENTITY pref_category_home_add_ons "Estensiones">
 <!ENTITY pref_home_updates2 "Anovamientos de conteníu">
-<!ENTITY pref_home_updates_enabled "Habilitaos">
+<!ENTITY pref_home_updates_enabled "Activaos">
 <!ENTITY pref_home_updates_wifi "Namái na Wi-Fi">
 <!ENTITY pref_category_home_homepage "Páxina d\&apos;aniciu">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
@@ -239,7 +239,7 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Xeneral">
-<!ENTITY pref_header_search "Guetar">
+<!ENTITY pref_header_search "Gueta">
 <!ENTITY pref_header_privacy_short "Privacidá">
 <!ENTITY pref_header_accessibility "Accesibilidá">
 <!ENTITY pref_header_notifications "Avisos">
@@ -248,9 +248,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Habilitaes">
-<!ENTITY pref_cookies_not_accept_foreign "Habilitaes, quitante les de 3º partes">
-<!ENTITY pref_cookies_disabled "Deshabilitaes">
+<!ENTITY pref_cookies_accept_all "Activaes">
+<!ENTITY pref_cookies_not_accept_foreign "Activaes, quitante les de 3º partes">
+<!ENTITY pref_cookies_disabled "Desactivaes">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -268,13 +268,13 @@
 <!ENTITY pref_show_web_fonts_summary2 "Baxa les fontes remotes al cargar una páxina">
 
 <!ENTITY pref_tracking_protection_title2 "Proteición de rastrexu">
-<!ENTITY pref_tracking_protection_summary3 "Habilitada al restolar en privao">
+<!ENTITY pref_tracking_protection_summary3 "Activada al restolar en privao">
 <!ENTITY pref_donottrack_title "Nun rastrexar">
 <!ENTITY pref_donottrack_summary "&brandShortName; va dici-y a los sitios que nun quies que te rastrexen">
 
-<!ENTITY pref_tracking_protection_enabled "Habilitada">
-<!ENTITY pref_tracking_protection_enabled_pb "Habilitada al restolar en privao">
-<!ENTITY pref_tracking_protection_disabled "Deshabilitada">
+<!ENTITY pref_tracking_protection_enabled "Activada">
+<!ENTITY pref_tracking_protection_enabled_pb "Activada al restolar en privao">
+<!ENTITY pref_tracking_protection_disabled "Desactivada">
 
 <!ENTITY pref_whats_new_notification "Qué hai nuevo en &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Deprendi más tocante a les carauterístiques nueves dempués d\&apos;anovar">
@@ -311,7 +311,7 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activa Enriba d\&apos;otres aplicaciones">
-<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
+<!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora non">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -328,7 +328,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "P\&apos;«Abrir enllaces múltiples», habilita\&apos;l permisu «Enriba d\&apos;otres aplicaciones» pa &brandShortName;, por favor">
+<!ENTITY tab_queue_notification_settings "P\&apos;«Abrir enllaces múltiples», activa\&apos;l permisu «Enriba d\&apos;otres aplicaciones» pa &brandShortName;, por favor">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -368,12 +368,12 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir auto-reproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir vídeos y otru conteníu">
-<!ENTITY pref_zoom_force_enabled "Habilitar siempres el zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Forcia l\&apos;anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
+<!ENTITY pref_zoom_force_enabled "Activar siempres el zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Forcia la so anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
 <!ENTITY pref_voice_input "Entrada de voz">
 <!ENTITY pref_voice_input_summary2 "Permite\&apos;l dictáu per voz na barra d\&apos;URLs">
 <!ENTITY pref_qrcode_enabled "Llector de códigos QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Permite l\&apos;escáner de QR na barra d\&apos;URLs">
+<!ENTITY pref_qrcode_enabled_summary2 "Pon l\&apos;escáner QR na barra d\&apos;URLs">
 
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync2 "Aniciar sesión">
@@ -384,15 +384,15 @@
 <!ENTITY pref_import_android_summary "Importa los marcadores ya historial del restolador nativu">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Abrir llingüetes">
+<!ENTITY pref_private_data_openTabs "Llingüetes abiertes">
 <!ENTITY pref_private_data_history2 "Historial de restolar">
 <!ENTITY pref_private_data_searchHistory "Historial de gueta">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y anicios de sesión activos">
 <!ENTITY pref_private_data_passwords2 "Anicios de sesión guardaos">
 <!ENTITY pref_private_data_cache "Caché">
-<!ENTITY pref_private_data_offlineApps "Datos de sitiu web ensin conexón">
-<!ENTITY pref_private_data_siteSettings2 "Axustes del sitiu">
+<!ENTITY pref_private_data_offlineApps "Datos de sitios web ensin conexón">
+<!ENTITY pref_private_data_siteSettings2 "Axustes de sitios">
 <!ENTITY pref_private_data_downloadFiles2 "Descargues">
 <!ENTITY pref_private_data_syncedTabs "Llingüetes sincronizaes">
 
@@ -406,7 +406,7 @@
 <!ENTITY pref_dialog_default "Por defeutu">
 <!ENTITY pref_dialog_remove "Desaniciar">
 
-<!ENTITY pref_search_last_toast "Nun pues desaniciar o deshabilitar el to caberu motor de gueta.">
+<!ENTITY pref_search_last_toast "Nun pues desaniciar o desactivar el to caberu motor de gueta.">
 
 <!ENTITY pref_panels_show "Amosar">
 <!ENTITY pref_panels_hide "Anubrir">
@@ -655,19 +655,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bloquió conteníu inseguru nesta páxina.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; bloquió daqué conteníu inseguru nesta páxina.">
 <!ENTITY mixed_content_display_loaded1 "Partes d\&apos;esta páxina nun son segures (como imáxenes).">
-<!ENTITY mixed_content_protection_disabled1 "Deshabilitesti la proteición de conteníu inseguru.">
+<!ENTITY mixed_content_protection_disabled1 "Desactivesti la proteición de conteníu inseguru.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteición de rastrexu">
-<!ENTITY doorhanger_tracking_state_enabled "Habilitada">
-<!ENTITY doorhanger_tracking_state_disabled "Deshabilitada">
+<!ENTITY doorhanger_tracking_state_enabled "Activada">
+<!ENTITY doorhanger_tracking_state_disabled "Desactivada">
 <!ENTITY doorhanger_tracking_message_enabled1 "Bloquiáronse intentos de rastrexar el to comportamientu en llinia.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta páxina inclúi elementos que quiciabes rastrexen el to restolar.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Deprendi más">
-<!ENTITY enable_protection "Habilitar proteición">
-<!ENTITY disable_protection "Deshabilitar proteición">
+<!ENTITY enable_protection "Activar proteición">
+<!ENTITY disable_protection "Desactivar proteición">
 
 <!ENTITY private_data_success "Llimpiáronse los datos privaos">
 <!ENTITY private_data_fail "Nun pudieron llimpiase dellos datos privaos">
@@ -723,7 +723,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Encaboxar">
 <!ENTITY new_guest_session_title "Agora &brandShortName; va reaniciase">
 <!ENTITY new_guest_session_text2 "La persona que la use nun va ser a ver datos personales de restolar de to (como anicios de sesión guardaos, historial o marcadores).\n\nCuando\&apos;l to convidáu/ada zarre sesión, van desaniciase los sos datos de restolar y va restaurase la to sesión.">
-<!ENTITY guest_browsing_notification_title "Habilitóse\&apos;l restolar de convidáu">
+<!ENTITY guest_browsing_notification_title "Activóse\&apos;l restolar de convidáu">
 <!ENTITY guest_browsing_notification_text "Calca pa colar">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reaniciase">
