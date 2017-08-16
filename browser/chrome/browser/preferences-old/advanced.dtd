@@ -65,7 +65,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "అమరికలు…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "మరింత తెలుసుకోండి">
+<!ENTITY siteDataLearnMoreLink.label     "ఇంకా తెలుసుకోండి">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single

@@ -254,7 +254,7 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "ఏదైనా లేదా? కొన్ని ప్లగిన్లకు &brandShortName; ఇకపై తోడ్పాటు లేదు.">
-<!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
+<!ENTITY pluginDeprecation.learnMore "ఇంకా తెలుసుకోండి.">
 
 <!ENTITY legacyWarning.description "ఏదైనా లేదా? కొన్ని పొడగింతలను &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY legacyWarning.showLegacy "లెగసీ పొడగింతలను చూపించు">
