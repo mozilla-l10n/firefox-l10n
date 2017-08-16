@@ -845,3 +845,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; artıq internetdə kəşf etdiyiniz şeyləri işıqlandıraraq gözəl məqalə, video, əlfəcin və digər səhifələrə geri qayıtmağınızı asandlaşdırır.">
 
 <!ENTITY private_tab_panel_title "Məxfi Səyahət + İzlənmə Qoruması">
+<!ENTITY private_tab_panel_description "&brandShortName; səhifələrin səyahətinizi izləyə biləcək hissələrini əngəlləyir.">
+<!ENTITY private_tab_panel_description2 "Sizin tarixçənizi yadda saxlamayacıq, amma endirilən fayllar və yeni əlfəcinlər yenə də cihazınızda saxlanacaqdır.">
+<!ENTITY private_tab_learn_more "Ətraflı öyrənmək istərdiniz?">
