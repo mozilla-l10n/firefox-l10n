@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Herzel an diflugelloù">
 <!ENTITY  blockPopups.accesskey       "H">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Gouzout hiroc'h">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "i">
-<!ENTITY  notificationsPolicyButton.label      "Dibab…">
 <!ENTITY  notificationsDoNotDisturb.label      "Arabat direnkañ ac'hanon">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "d">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ne vo skrammet rebuzadur ebet betek ma vo adlañset &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Nemedennoù">
-<!ENTITY  popupExceptions.accesskey   "N">
+<!ENTITY  popupExceptions.label                                 "Nemedennoù">
+<!ENTITY  popupExceptions.accesskey                             "N">
+
+
+<!ENTITY  notificationPermissions.label                         "Rebuzadurioù">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Nodrezhoù ha Livioù">
 
