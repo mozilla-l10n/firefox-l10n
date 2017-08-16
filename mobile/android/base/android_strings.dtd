@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Proqressiv Web Tətbiqlər">
 <!ENTITY pref_pwa_summary "Web tətbiqlərin ana ekrana əlavə edilməsinə icazə ver">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktivlik Axını">
-<!ENTITY pref_activity_stream_summary "Zəngin vizual tarixçə axını və yenidən qurulmuş ana səhifə &brandShortName; səyyahında axtardığınız şeyləri həmişəkindən çox daha asan tapmağı təmin edir.">
-
 <!ENTITY tracking_protection_prompt_title "Artıq İzləmə Qoruması ilə">
 <!ENTITY tracking_protection_prompt_text "İzləmə elementlərini aktiv əngəlləyin və narahat olmanıza əsas qalmasın.">
 <!ENTITY tracking_protection_prompt_tip_text "Ətraflı öyrənmək üçün Məxfilik tənzimləmələrinə daxil olun">
@@ -359,12 +355,8 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "İndi təmizlə">
 <!ENTITY pref_clear_on_exit_title3 "Şəxsi məlumatları çıxışda təmizlə">
-<!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \u0022Çıx\u0022 seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
+<!ENTITY pref_clear_on_exit_summary2 "Əsas menyudan \&quot;Çıx\&quot; seçdiyiniz zaman &brandShortName; sizin məlumatlarınız avtomatik təmizləyəcək">
 <!ENTITY pref_clear_on_exit_dialog_title "Hansı məlumatın təmizlənəcəyini seçin">
-<!ENTITY pref_plugins "Qoşmalar">
-<!ENTITY pref_plugins_enabled "Aktiv">
-<!ENTITY pref_plugins_tap_to_play2 "Oxutmaq üçün toxun">
-<!ENTITY pref_plugins_disabled "Söndürülüb">
 <!ENTITY pref_restore_tabs "Vərəqləri bərpa et">
 <!ENTITY pref_restore_always "Həmişə bərpa et">
 <!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
@@ -851,3 +843,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Seçilmişlərinizə xoş gəldiniz">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; artıq internetdə kəşf etdiyiniz şeyləri işıqlandıraraq gözəl məqalə, video, əlfəcin və digər səhifələrə geri qayıtmağınızı asandlaşdırır.">
+
+<!ENTITY private_tab_panel_title "Məxfi Səyahət + İzlənmə Qoruması">
