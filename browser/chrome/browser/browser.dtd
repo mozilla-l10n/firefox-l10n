@@ -178,9 +178,14 @@
 <!ENTITY bookmarksMenuButton.label "Segnalibri">
 <!ENTITY bookmarksMenuButton.other.label "Altri segnalibri">
 <!ENTITY bookmarksMenuButton.mobile.label "Segnalibri da dispositivi mobile">
-<!ENTITY viewBookmarksSidebar2.label "Visualizza barra laterale segnalibri">
-<!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
+<!ENTITY viewBookmarksSidebar2.label "Visualizza la barra laterale dei segnalibri">
+<!ENTITY hideBookmarksSidebar.label "Nascondi la barra laterale dei segnalibri">
+<!ENTITY viewBookmarksToolbar.label "Visualizza la barra dei segnalibri">
+<!ENTITY hideBookmarksToolbar.label "Nascondi la barra dei segnalibri">
 <!ENTITY searchBookmarks.label "Cerca nei segnalibri">
+<!ENTITY bookmarkingTools.label "Strumenti per i segnalibri">
+<!ENTITY addBookmarksMenu.label "Aggiungi il menu Segnalibri alla barra degli strumenti">
+<!ENTITY removeBookmarksMenu.label "Rimuovi il menu Segnalibri dalla barra degli strumenti">
 <!ENTITY containersMenu.label "Contenitori">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
