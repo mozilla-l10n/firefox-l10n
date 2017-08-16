@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "احجب النوافذ المنبثقة">
 <!ENTITY  blockPopups.accesskey       "ذ">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "اطّلع على المزيد">
-<!ENTITY  notificationsPolicyDesc4.label       "اختر أيّ من مواقع الوِب يُسمح لها بإرسال تنبيهات إليك">
-<!ENTITY  notificationsPolicyButton.accesskey  "خ">
-<!ENTITY  notificationsPolicyButton.label      "اختر…">
 <!ENTITY  notificationsDoNotDisturb.label      "لا تزعجني">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "ز">
 <!ENTITY  notificationsDoNotDisturbDetails.value "لن تُعرض أيّة تنبيهات حتّى إعادة تشغيل &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "الاستثناءات…">
-<!ENTITY  popupExceptions.accesskey   "ت">
+<!ENTITY  popupExceptions.label                                 "الاستثناءات…">
+<!ENTITY  popupExceptions.accesskey                             "ت">
+
+
+<!ENTITY  notificationPermissions.label                         "التنبيهات">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
 
