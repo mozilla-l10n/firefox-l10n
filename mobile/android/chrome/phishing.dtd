@@ -16,7 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Villedende nettsted!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Nettstedet på <span id='phishing_sitename'/> er rapportert som et villedende nettsted, og er blokkert basert på sikkerhetsinnstillingene dine.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Villedende nettsteder er laget for å lure deg til å gjøre noe farlig, som å installere programmer, oppgi personlig informasjon som passord, telefonnumre eller kredittkort.</p><p>Å skrive inn denne informasjonen på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Villedende nettsider er laget for å lure deg til å gjøre noe farlig, som å installere programmer, eller oppgi personlig informasjon som f.eks. passord, telefonnumre eller kredittkort.</p><p>Innskriving av informasjon på denne siden kan føre til identitetstyveri eller annen svindel.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Rapporter nettsted med uønskede programmer!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
