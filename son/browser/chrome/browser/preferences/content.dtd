@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Biiboŋ bata zanfuney daabu">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Bay ka tonton">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "u">
-<!ENTITY  notificationsPolicyButton.label      "Suuba…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ya mma dejje">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "m">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Bangandiyan kul ši cebandi hala &brandShortName; ma tun taaga">
 
-<!ENTITY  popupExceptions.label       "Hasarawey…">
-<!ENTITY  popupExceptions.accesskey   "H">
+<!ENTITY  popupExceptions.label                                 "Hasarawey…">
+<!ENTITY  popupExceptions.accesskey                             "H">
+
+
+<!ENTITY  notificationPermissions.label                         "Bangandiyaney">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Šigirawey nda noonawey">
 

@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON gani">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Batu-ize bayhayey cebe">
 
 <!ENTITY aboutTelemetry.choosePing "Ɲooje suuba:">
@@ -57,6 +58,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Šilbayhaya tontoni">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Hantum kokorantey">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Dabariɲaa alhabar">
 
