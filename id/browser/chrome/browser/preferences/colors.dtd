@@ -23,3 +23,5 @@
 <!ENTITY  underlineLinks.label            "Garisbawahi tautan">
 <!ENTITY  underlineLinks.accesskey        "G">
 <!ENTITY  links                           "Warna Tautan">
+<!ENTITY  linkColor2.label                "Tautan yang Belum Dikunjungi">
+<!ENTITY  visitedLinkColor2.label         "Tautan yang Sudah Dikunjungi">
