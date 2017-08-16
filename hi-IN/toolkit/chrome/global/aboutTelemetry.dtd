@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा दिखाएँ">
 
 <!ENTITY aboutTelemetry.choosePing "पिंग चुनें:">
@@ -55,6 +56,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  सहयुक्ति विवरण">
 
 <!ENTITY aboutTelemetry.lateWritesSection " कुछ देर से लिखें">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "तंत्र जानकारी">
 
