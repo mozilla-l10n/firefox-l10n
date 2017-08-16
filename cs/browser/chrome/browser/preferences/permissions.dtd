@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Uložit změny">
 <!ENTITY button.ok.accesskey          "U">
 
+<!ENTITY searchbox.placeholder        "Hledat">

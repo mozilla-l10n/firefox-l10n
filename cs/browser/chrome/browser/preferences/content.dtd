@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Blokovat vyskakovací okna">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Zjistit více">
-<!ENTITY  notificationsPolicyDesc4.label       "Vyberte, které servery vám mohou posílat oznámení">
-<!ENTITY  notificationsPolicyButton.accesskey  "y">
-<!ENTITY  notificationsPolicyButton.label      "Vybrat…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nerušit mě">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Dokud aplikaci &brandShortName; nerestartujete, žádná oznámení se nezobrazí">
 
-<!ENTITY  popupExceptions.label       "Výjimky…">
-<!ENTITY  popupExceptions.accesskey   "k">
+<!ENTITY  popupExceptions.label                                 "Výjimky…">
+<!ENTITY  popupExceptions.accesskey                             "k">
+
+<!ENTITY  permissionSettingsButton2.label                       "Nastavení…">
+
+<!ENTITY  notificationPermissions.label                         "Oznámení">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Zjistit více">
+
+<!ENTITY  locationPermissions.label                             "Poloha">
+<!ENTITY  locationSettingsButton.accesskey                      "l">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "a">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Písma a barvy">
 
