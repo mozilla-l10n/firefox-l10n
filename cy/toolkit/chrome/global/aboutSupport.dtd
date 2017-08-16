@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Atal Hygyrchedd">
 <!ENTITY aboutSupport.a11yHandlerUsed "Defnyddiwyd Trinydd Mynediadwy">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Fersiynau Llyfrgell">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Hanes Gosod">
