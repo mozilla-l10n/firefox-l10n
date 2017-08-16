@@ -25,6 +25,10 @@
 <!ENTITY contextManual.accesskey "K">
 <!ENTITY contextBeforeCls.label "Filtrer før søppelpost-analyse">
 <!ENTITY contextAfterCls.label "Filtrer etter søppelpost-analyse">
+<!ENTITY contextOutgoing.label "Etter sending">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Arkivering">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Gjør dette med meldingene:">
 <!ENTITY filterActionDesc.accesskey "G">
@@ -54,9 +58,10 @@
 <!ENTITY addAction.tooltip "Legg til en ny handling">
 <!ENTITY removeAction.tooltip "Fjern denne handlingen">
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
