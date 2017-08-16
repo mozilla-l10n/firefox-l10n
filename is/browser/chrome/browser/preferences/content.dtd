@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "Loka á sprettiglugga">
 <!ENTITY  blockPopups.accesskey       "g">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Vita meira">
-<!ENTITY  notificationsPolicyDesc4.label       "Veldu hvaða vefsvæði hafa leyfi til að senda þér tilkynningar">
-<!ENTITY  notificationsPolicyButton.accesskey  "V">
-<!ENTITY  notificationsPolicyButton.label      "Velja…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ekki trufla mig">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "E">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Engar tilkynningar verða sýndar fyrr en þú endurræsir &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Undanþágur…">
-<!ENTITY  popupExceptions.accesskey   "U">
+<!ENTITY  popupExceptions.label                                 "Undanþágur…">
+<!ENTITY  popupExceptions.accesskey                             "U">
+
+
+<!ENTITY  notificationPermissions.label                         "Tilkynningar">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Letur og litir">
 
