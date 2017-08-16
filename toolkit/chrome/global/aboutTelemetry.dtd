@@ -18,6 +18,8 @@
 
 <!ENTITY aboutTelemetry.raw "Необроблений JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Відкрити в засобі перегляду JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Показувати дані підсеансу
 ">
@@ -117,6 +119,7 @@
 <!ENTITY aboutTelemetry.lateWritesSection "
   Пізні записи
 ">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Інформація про сеанс

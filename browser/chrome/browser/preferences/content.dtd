@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Блокувати виринаючі вікна">
 <!ENTITY  blockPopups.accesskey       "Б">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Докладніше">
-<!ENTITY  notificationsPolicyDesc4.label       "Оберіть сайти, яким дозволено надсилати вам сповіщення">
-<!ENTITY  notificationsPolicyButton.accesskey  "и">
-<!ENTITY  notificationsPolicyButton.label      "Вибрати…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не турбувати мене">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "Н">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Сповіщення не будуть показуватись доки ви не перезапустите &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Винятки…">
-<!ENTITY  popupExceptions.accesskey   "В">
+<!ENTITY  popupExceptions.label                                 "Винятки…">
+<!ENTITY  popupExceptions.accesskey                             "В">
+
+<!ENTITY  permissionSettingsButton2.label                       "Налаштування…">
+
+<!ENTITY  notificationPermissions.label                         "Сповіщення">
+<!ENTITY  notificationSettingsButton.accesskey                  "С">
+<!ENTITY  notificationPermissionsLearnMore.label                "Докладніше">
+
+<!ENTITY  locationPermissions.label                             "Розташування">
+<!ENTITY  locationSettingsButton.accesskey                      "Р">
+
+<!ENTITY  cameraPermissions.label                               "Камера">
+<!ENTITY  cameraSettingsButton.accesskey                        "К">
+
+<!ENTITY  microphonePermissions.label                           "Мікрофон">
+<!ENTITY  microphoneSettingsButton.accesskey                    "М">
 
 <!ENTITY  fontsAndColors.label        "Шрифти і кольори">
 

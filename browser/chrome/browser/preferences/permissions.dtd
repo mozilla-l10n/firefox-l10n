@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Зберегти зміни">
 <!ENTITY button.ok.accesskey          "З">
 
+<!ENTITY searchbox.placeholder        "Пошук по сайту">
