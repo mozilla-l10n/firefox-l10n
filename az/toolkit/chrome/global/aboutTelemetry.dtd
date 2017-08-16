@@ -12,6 +12,10 @@
 
 <!ENTITY aboutTelemetry.raw "Xam JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+JSON göstəricidə aç
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Alt seans məlumatlarını göstər">
 
 <!ENTITY aboutTelemetry.choosePing "Ping-i seçin">
@@ -75,6 +79,7 @@ Daha əvvəl
 <!ENTITY aboutTelemetry.addonDetailsSection "  Əlavə Detalları">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Gecikmiş Yazılar">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Sessiya Məlumatı">
 

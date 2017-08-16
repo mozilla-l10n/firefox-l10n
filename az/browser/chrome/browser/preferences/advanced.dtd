@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "İstisnalar…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Aşağıdakı saytlara oflayn istifadə üçün məlumat saxlamağa icazə verilib:">
+<!ENTITY offlineAppsList3.label          "Aşağıdakı saytlara oflayn istifadə üçün məlumat saxlamağa icazə verilib">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Sil…">
 <!ENTITY offlineAppsListRemove.accesskey "S">
