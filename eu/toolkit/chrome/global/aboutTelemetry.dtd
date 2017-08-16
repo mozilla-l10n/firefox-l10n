@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON gordina">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
 <!ENTITY aboutTelemetry.choosePing "Aukeratu ping-a:">
@@ -59,6 +60,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Gehigarriaren xehetasunak">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Idazketa berantiarrak">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Saioaren informazioa">
 
