@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "Cuir bacadh air priob-uinneagan">
 <!ENTITY  blockPopups.accesskey       "b">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Barrachd fiosrachaidh">
-<!ENTITY  notificationsPolicyDesc4.label       "Tagh na làraichean-lìn aig a bheil cead brathan a chur thugad">
-<!ENTITY  notificationsPolicyButton.accesskey  "a">
-<!ENTITY  notificationsPolicyButton.label      "Tagh…">
 <!ENTITY  notificationsDoNotDisturb.label      "Na bris a-steach orm">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Cha dèid brathan a shealltainn gus an tòisich thu &brandShortName; às ùr">
 
-<!ENTITY  popupExceptions.label       "Eisgeachdan…">
-<!ENTITY  popupExceptions.accesskey   "g">
+<!ENTITY  popupExceptions.label                                 "Eisgeachdan…">
+<!ENTITY  popupExceptions.accesskey                             "g">
+
+
+<!ENTITY  notificationPermissions.label                         "Brathan">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Cruthan-clò ⁊ dathan">
 

@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Casg air so-inntrigeachd">
 <!ENTITY aboutSupport.a11yHandlerUsed "Làimhsichear na so-inntrigeachd a chaidh a chleachdadh">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
