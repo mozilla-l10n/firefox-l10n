@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Bjezbarjernosći zadźěwać">
 <!ENTITY aboutSupport.a11yHandlerUsed "Přistupny handler wužity">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekowe wersije">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instalaciska historija">

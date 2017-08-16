@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "Wuskakowace wokno blokować">
 <!ENTITY  blockPopups.accesskey       "k">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Dalše informacije">
-<!ENTITY  notificationsPolicyDesc4.label       "Wubjerće, kotre sydła smědźa wam zdźělenki pósłać">
-<!ENTITY  notificationsPolicyButton.accesskey  "u">
-<!ENTITY  notificationsPolicyButton.label      "Wubrać…">
 <!ENTITY  notificationsDoNotDisturb.label      "Njemylće">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "m">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Doniž &brandShortName; znowa njestartujeće, so žana zdźělenka njepokazuje">
 
-<!ENTITY  popupExceptions.label       "Wuwzaća…">
-<!ENTITY  popupExceptions.accesskey   "W">
+<!ENTITY  popupExceptions.label                                 "Wuwzaća…">
+<!ENTITY  popupExceptions.accesskey                             "W">
+
+
+<!ENTITY  notificationPermissions.label                         "Zdźělenja">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Pisma a barby">
 
