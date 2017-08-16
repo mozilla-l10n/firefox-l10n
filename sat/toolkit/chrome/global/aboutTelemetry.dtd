@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection " SQL  ला़य उदुक् बा़य बा़य .">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "ब्राउजार आका को.">
@@ -39,6 +40,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "एड-ऑन पुरा बिबरोन ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "बिलोम ओल को">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: बा़य बा़याक्  SQL डिवॉगिंग दो हुय होचो तेयाराक् काना. पुरा़  SQL स्ट्रिंग दो लातार रे उदुक् दाड़ेयाक् आ मेनखान उनकु टेलीनेटरी रे बाको जोमा दाड़ेयाक् आ .">

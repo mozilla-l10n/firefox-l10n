@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "बादाक् को…">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "बादाक् को…">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "फॉन्ट आर रोङ को">
 
