@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "مسدود کردن پنجره‌های بازشو">
 <!ENTITY  blockPopups.accesskey       "م">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "بیشتر بدانید">
-<!ENTITY  notificationsPolicyDesc4.label       "انتخاب کنید چه سایت‌هایی اجازه دارند به شما اعلان ارسال کنند">
-<!ENTITY  notificationsPolicyButton.accesskey  "ا">
-<!ENTITY  notificationsPolicyButton.label      "انتخاب…">
 <!ENTITY  notificationsDoNotDisturb.label      "مزاحم من نشوید">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "ن">
 <!ENTITY  notificationsDoNotDisturbDetails.value "هیچ اعلانی تا زمان راه‌اندازی مجدد &brandShortName; دریافت نخواهید کرد">
 
-<!ENTITY  popupExceptions.label       "استثناها…">
-<!ENTITY  popupExceptions.accesskey   "ا">
+<!ENTITY  popupExceptions.label                                 "استثناها…">
+<!ENTITY  popupExceptions.accesskey                             "ا">
+
+
+<!ENTITY  notificationPermissions.label                         "اعلان‌ها">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 

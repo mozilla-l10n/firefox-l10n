@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "ترجیحات مربوط به پیشنهادات موتورهای جست‌وجو را تغییر دهید…">
 <!ENTITY  suggestionSettings.accesskey  "ت">
 
-
+<!ENTITY  acceptCookies2.label          "به وب‌گاه هااجازه‌ی استفاده از کوکی داده شود">
+<!ENTITY  acceptCookies2.accesskey      "ج">
 
 <!ENTITY  acceptThirdParty.pre.label      "پذیرفتن کوکی‌های شخص ثالث:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ث">
