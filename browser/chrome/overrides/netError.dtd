@@ -108,7 +108,7 @@
 <ul>
   <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
   <li>Contauta col to alministrador de rede p'asegurar que'l sirvidor proxy
-    ta furrulando.</li>
+    ta funcionando.</li>
 </ul>
 ">
 
@@ -116,7 +116,7 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Comprueba los axustes del proxy y asegúrate que tán bien.</li>
-  <li>Asegúrate que'l to ordenador tien una conexón a internet que furrula.</li>
+  <li>Asegúrate que'l to ordenador tien una conexón a internet que funciona.</li>
   <li>Si'l to ordenador o rede tán protexíos por un tornafuéu o proxy, asegúrate
     que &brandShortName; tien permisu p'acceder a la web.</li>
 </ul>
