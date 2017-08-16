@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Bloccar fanestras pop-up">
 <!ENTITY  blockPopups.accesskey       "p">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ulteriuras infurmaziuns">
-<!ENTITY  notificationsPolicyDesc4.label       "Tscherna las paginas che ta dastgan trametter communicaziuns">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Tscherner…">
 <!ENTITY  notificationsDoNotDisturb.label      "Betg disturbar">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "b">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Naginas communicaziuns na vegnan mussadas enfin che ti reavieschas &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Excepziuns…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Excepziuns…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  permissionSettingsButton2.label                       "Parameters…">
+
+<!ENTITY  notificationPermissions.label                         "Communicaziuns">
+<!ENTITY  notificationSettingsButton.accesskey                  "m">
+<!ENTITY  notificationPermissionsLearnMore.label                "Ulteriuras infurmaziuns">
+
+<!ENTITY  locationPermissions.label                             "Posiziun">
+<!ENTITY  locationSettingsButton.accesskey                      "i">
+
+<!ENTITY  cameraPermissions.label                               "Camera">
+<!ENTITY  cameraSettingsButton.accesskey                        "C">
+
+<!ENTITY  microphonePermissions.label                           "Microfon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Scrittiras &amp; colurs">
 
