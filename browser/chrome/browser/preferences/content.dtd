@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "Rhwystro ffenestri llamlen">
 <!ENTITY  blockPopups.accesskey       "R">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Dysgu rhagor">
-<!ENTITY  notificationsPolicyDesc4.label       "Dewis pa wefannau sy'n cael anfon hysbysiadau atoch">
-<!ENTITY  notificationsPolicyButton.accesskey  "D">
-<!ENTITY  notificationsPolicyButton.label      "Dewis…">
 <!ENTITY  notificationsDoNotDisturb.label      "Peidiwch â tharfu">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "t">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ni fydd hysbysiadau'n cael eu dangos nes i chi ailgychwyn &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Eithriadau…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Eithriadau…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "Hysbysiadau">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Ffontiau a Lliwiau">
 
