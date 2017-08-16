@@ -31,7 +31,7 @@
 <!ENTITY  doNotTrack.always.label       "ყოველთვის">
 
 <!ENTITY  history.label                 "ისტორია">
-<!ENTITY  permissions.label             "უფლებები">
+<!ENTITY  permissions.label             "ნებართვები">
 
 <!ENTITY  addressBar.label              "მისამართების ზოლი">
 <!ENTITY  addressBar.suggest.label      "შემოთავაზებები, მისამართების ზოლით სარგებლობისას">

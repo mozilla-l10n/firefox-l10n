@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
-<!ENTITY toolsMenu.accesskey          "ხ"> 
+<!ENTITY toolsMenu.accesskey          "ხ">
 
 <!ENTITY keywordfield.label           "ძიებისთვის მალსახმობის შექმნა…">
 <!ENTITY keywordfield.accesskey       "მ">
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
 <!ENTITY inspectContextMenu.accesskey "ტ">
 
-<!ENTITY fileMenu.label         "ფაილი"> 
+<!ENTITY fileMenu.label         "ფაილი">
 <!ENTITY fileMenu.accesskey       "ფ">
 <!ENTITY newUserContext.label             "ახალი სათავსი ჩანართი">
 <!ENTITY newUserContext.accesskey         "ს">
@@ -292,45 +292,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "ფ">
 <!ENTITY newNonRemoteWindow.label   "ერთპროცესიანი ფანჯარა">
 
-<!ENTITY editMenu.label         "ჩასწორება"> 
-<!ENTITY editMenu.accesskey       "რ"> 
-<!ENTITY undoCmd.label            "დაბრუნება">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "დ"> 
-<!ENTITY redoCmd.label            "კვლავ შესრულება">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "კ"> 
-<!ENTITY cutCmd.label           "ამოჭრა">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ა"> 
-<!ENTITY copyCmd.label            "დაკოპირება">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "კ"> 
-<!ENTITY pasteCmd.label           "ჩასმა">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ჩ"> 
-<!ENTITY deleteCmd.label          "წაშლა">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "წ"> 
-<!ENTITY selectAllCmd.label         "ყველაფრის მონიშვნა">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "მ"> 
+<!ENTITY editMenu.label         "ჩასწორება">
+<!ENTITY editMenu.accesskey       "რ">
+<!ENTITY undoCmd.label            "დაბრუნება">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "დ">
+<!ENTITY redoCmd.label            "კვლავ შესრულება">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "კ">
+<!ENTITY cutCmd.label           "ამოჭრა">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "ა">
+<!ENTITY copyCmd.label            "დაკოპირება">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "კ">
+<!ENTITY pasteCmd.label           "ჩასმა">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "ჩ">
+<!ENTITY deleteCmd.label          "წაშლა">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "წ">
+<!ENTITY selectAllCmd.label         "ყველაფრის მონიშვნა">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "მ">
 <!ENTITY preferencesCmd2.label       "პარამეტრები">
 <!ENTITY preferencesCmd2.accesskey     "პ">
 <!ENTITY preferencesCmdUnix.label       "პარამეტრები">
-<!ENTITY preferencesCmdUnix.accesskey     "ტ"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ტ">
 
 <!ENTITY clearRecentHistory.label               "უახლესი ისტორიის გასუფთავება...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "ხედი"> 
-<!ENTITY viewMenu.accesskey       "ხ"> 
-<!ENTITY viewToolbarsMenu.label       "ხელსაწყოთა ზოლები"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ხ"> 
+<!ENTITY viewMenu.label         "ხედი">
+<!ENTITY viewMenu.accesskey       "ხ">
+<!ENTITY viewToolbarsMenu.label       "ხელსაწყოთა ზოლები">
+<!ENTITY viewToolbarsMenu.accesskey     "ხ">
 <!ENTITY viewSidebarMenu.label "გვერდითი ზოლი">
 <!ENTITY viewSidebarMenu.accesskey "ზ">
-<!ENTITY viewCustomizeToolbar.label       "მორგება…"> 
+<!ENTITY viewCustomizeToolbar.label       "მორგება…">
 <!ENTITY viewCustomizeToolbar.accesskey     "მ">
 <!ENTITY overflowCustomizeToolbar.label       "ხელსაწყოთა ზოლის მორგება…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ზ">
@@ -531,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ხ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "წ">
 <!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "სურათის მისამართის დაკოპირება">
 <!ENTITY copyImageCmd.accesskey       "კ">
 <!ENTITY copyImageContentsCmd.label   "სურათის დაკოპირება">
-<!ENTITY copyImageContentsCmd.accesskey  "ს"> 
+<!ENTITY copyImageContentsCmd.accesskey  "ს">
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "კ">
 <!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის დაკოპირება">
@@ -694,13 +694,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-დან გამოსვლა">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "გამოსვლა"> 
+<!ENTITY quitApplicationCmd.label       "გამოსვლა">
 <!ENTITY quitApplicationCmd.accesskey   "გ">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-დან გამოსვლა">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "დახურვა">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "დახურვა">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "დ">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "მეტი ინფორმაცია">
 
-<!ENTITY identity.permissions "უფლებები">
+<!ENTITY identity.permissions "ნებართვები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 
