@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Hruby JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "W JSON-wobhladowaku wočinić">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Daty podposedźenja pokazać">
 
@@ -63,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózdnje pisanske procesy">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Hrube wužiwanske daty">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Posedźenske informacije">
 
