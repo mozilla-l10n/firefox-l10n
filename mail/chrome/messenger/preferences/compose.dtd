@@ -39,7 +39,7 @@
 
 <!ENTITY warnOnSendAccelKey.label             "Потвърждение при използване на клавишни комбинации за изпращане на писмо">
 <!ENTITY warnOnSendAccelKey.accesskey         "о">
-<!ENTITY autoSave.label                       "Автоматичен запис на всеки">
+<!ENTITY autoSave.label                       "Автоматично запазване на всеки">
 <!ENTITY autoSave.accesskey                   "в">
 <!ENTITY autoSaveEnd.label                    "минути">
 

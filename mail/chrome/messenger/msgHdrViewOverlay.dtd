@@ -64,7 +64,7 @@
 <!ENTITY markAsReadMenuItem1.accesskey "п">
 <!ENTITY markAsUnreadMenuItem1.label "Отбелязване като непрочетено">
 <!ENTITY markAsUnreadMenuItem1.accesskey "л">
-<!ENTITY saveAsMenuItem1.label "Запис като…">
+<!ENTITY saveAsMenuItem1.label "Запазване като…">
 <!ENTITY saveAsMenuItem1.accesskey "З">
 <!ENTITY viewSourceMenuItem1.label "Преглед на изходния код">
 <!ENTITY viewSourceMenuItem1.accesskey "и">
@@ -96,8 +96,8 @@
 <!ENTITY openAttachment.tooltip "Отваряне на прикрепения файл">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label       "Запис">
-<!ENTITY saveAttachmentButton1.tooltip     "Запис на прикрепения файл">
+<!ENTITY saveAttachmentButton1.label       "Запазване">
+<!ENTITY saveAttachmentButton1.tooltip     "Запазване на прикачения файл">
 <!ENTITY saveAllAttachmentsButton1.label   "Запазване на всички">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Запазване на всички прикачени файлове">
 

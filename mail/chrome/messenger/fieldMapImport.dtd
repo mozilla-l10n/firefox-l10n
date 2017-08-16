@@ -16,5 +16,5 @@
 <!ENTITY fieldMapImport.down.accesskey "д">
 <!ENTITY fieldMapImport.fieldListTitle "Полета на адресника">
 <!ENTITY fieldMapImport.dataTitle "Внасяне на данни за запис">
-<!ENTITY fieldMapImport.skipFirstRecord.label "Първия запис съдържа имена на полета">
+<!ENTITY fieldMapImport.skipFirstRecord.label "В първия запис са имената на полетата">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "ж">

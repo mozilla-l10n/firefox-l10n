@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Записани файлове">
-<!ENTITY aboutDownloads.empty                      "Няма записани файлове">
+<!ENTITY aboutDownloads.title                      "Запазени файлове">
+<!ENTITY aboutDownloads.empty                      "Няма запазени файлове">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -19,6 +19,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "х">
 <!ENTITY cmd.clearList.label                       "Изчистване">
 <!ENTITY cmd.clearList.accesskey                   "ч">
-<!ENTITY cmd.clearList.tooltip                     "Премахва от списъка със записани файлове всички записи, без текущите изтегляния.">
+<!ENTITY cmd.clearList.tooltip                     "Изпразва списъка на запазените файлове с изключение на текущите изтегляния.">
 <!ENTITY cmd.searchDownloads.label                 "Търсене…">
 <!ENTITY cmd.searchDownloads.key                   "F">

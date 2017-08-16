@@ -22,7 +22,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Преместване в нов прозорец">
 <!ENTITY moveToNewWindow.accesskey "п">
-<!ENTITY newVirtualFolderCmd.label "Записани търсения…">
+<!ENTITY newVirtualFolderCmd.label "Запазени търсения…">
 <!ENTITY newVirtualFolderCmd.accesskey "З">
 <!ENTITY newOtherAccountsCmd.label "Други регистрации…">
 <!ENTITY newOtherAccountsCmd.accesskey "Д">
@@ -36,7 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey "е">
 <!ENTITY newIMContactCmd.label "Контакт за разговор…">
 <!ENTITY newIMContactCmd.accesskey "К">
-<!ENTITY openMessageFileCmd.label "Отваряне на записано писмо…">
+<!ENTITY openMessageFileCmd.label "Отваряне на запазено писмо…">
 <!ENTITY openMessageFileCmd.accesskey "О">
 <!ENTITY saveAsMenu.label "Запазване като">
 <!ENTITY saveAsMenu.accesskey "а">
@@ -569,7 +569,7 @@
 <!ENTITY forwardButton.tooltip "Препращане на избраното писмо">
 <!ENTITY forwardAsInline.tooltip "Препращане на избраното съобщение като вложен текст">
 <!ENTITY forwardAsAttachment.tooltip "Препращане на избраното съобщение като притурка">
-<!ENTITY fileButton.tooltip "Записване като файл">
+<!ENTITY fileButton.tooltip "Запазване като файл">
 <!ENTITY archiveButton.tooltip "Архивиране на избраните съобщения">
 <!ENTITY openConversationButton.tooltip "Показване на разговора на избраното съобщение">
 <!ENTITY nextButton.tooltip "Напред към следващото непрочетено писмо">
@@ -686,7 +686,7 @@
 <!ENTITY searchRecipient.label "До или Копие">
 <!ENTITY searchSubjectOrRecipientMenu.label "Тема, До или Копие">
 <!ENTITY searchMessageBody.label "Цялото писмо">
-<!ENTITY saveAsVirtualFolderMenu.label "Запис на търсенето като папка…">
+<!ENTITY saveAsVirtualFolderMenu.label "Запазване на търсенето като папка…">
 
 <!-- Thread Pane -->
 <!ENTITY threadColumn.label "Дискусия">
@@ -785,7 +785,7 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Запис като…">
+<!ENTITY contextSaveAs.label "Запазване като…">
 <!ENTITY contextSaveAs.accesskey "а">
 <!ENTITY contextPrint.label "Печат…">
 <!ENTITY contextPrint.accesskey "П">
@@ -909,7 +909,7 @@
 <!ENTITY spellAddDictionaries.accesskey "Д">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Запис на връзка като…">
+<!ENTITY saveLinkAsCmd.label "Запазване на препратката като…">
 <!ENTITY saveLinkAsCmd.accesskey "к">
 <!ENTITY saveImageAsCmd.label "Запазване на изображението…">
 <!ENTITY saveImageAsCmd.accesskey "ж">
