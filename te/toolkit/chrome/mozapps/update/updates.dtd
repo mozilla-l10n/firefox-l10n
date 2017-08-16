@@ -19,7 +19,7 @@
 
 <!ENTITY  unsupported.title               "వ్యవస్థ తోడ్పాటులేదు">
 <!ENTITY  unsupported.label               "మీ &brandShortName; పాతబడింది, కానీ సరికొత్త సంచికకు మీ వ్యవస్థలో తోడ్పాటు లేదు. దయచేసి మీ వ్యవస్థను నవీకరించి, ప్రయత్నించండి. మీ గమనిక మీకు మళ్ళీ కనిపించదు, కానీ మీరు">
-<!ENTITY  unsupportedLink.label           "మరింత తెలుసుకోవచ్చు.">
+<!ENTITY  unsupportedLink.label           "ఇంకా తెలుసుకోండి.">
 
 <!ENTITY  clickHere.label                 "ఈ నవీకరణ గురించి ఎక్కువ సమాచారాన్ని చూడుము">
 

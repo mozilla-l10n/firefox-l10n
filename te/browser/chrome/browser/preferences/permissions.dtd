@@ -11,8 +11,6 @@
 <!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "అన్ని వెబ్‌సైట్లను తీసివేయి">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "వెబ్‌సైట్ చిరునామా:">
-<!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "నిరోధించు">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "భాగము కొరకు అనుమతించు">
@@ -26,3 +24,4 @@
 <!ENTITY button.ok.label              "మార్పులను భద్రపరచు">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "వెబ్‌సైట్లను వెతకండి">

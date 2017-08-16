@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "పాప్-అప్ విండోలను నిరోధించు">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "ఇంకా తెలుసుకోండి">
-<!ENTITY  notificationsPolicyDesc3.label       "ఏయే సైట్లు మీకు గమనింపులను పంపవచ్చో ఎంచుకోండి">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "ఎంచుకోండి…">
 <!ENTITY  notificationsDoNotDisturb.label      "నన్ను విసిగించవద్దు">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "మీరు &brandShortName; పునఃప్రారంభించేదాక ఏ గమనింపులూ చూపబడవు">
 
-<!ENTITY  popupExceptions.label       "మినహాయింపులు…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "మినహాయింపులు…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  permissionSettingsButton2.label                       "అమరికలు…">
+
+<!ENTITY  notificationPermissions.label                         "గమనింపులు">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "ఇంకా తెలుసుకోండి">
+
+<!ENTITY  locationPermissions.label                             "స్థానము">
+<!ENTITY  locationSettingsButton.accesskey                      "I">
+
+<!ENTITY  cameraPermissions.label                               "కెమేరా">
+<!ENTITY  cameraSettingsButton.accesskey                        "c">
+
+<!ENTITY  microphonePermissions.label                           "మైక్రోఫోను">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp; రంగులు">
 
