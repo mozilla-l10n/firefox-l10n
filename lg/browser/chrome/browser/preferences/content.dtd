@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "Ebyawufu…">
+<!ENTITY  popupExceptions.accesskey                             "w">
 
 
 
 
-<!ENTITY  popupExceptions.label       "Ebyawufu…">
-<!ENTITY  popupExceptions.accesskey   "w">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Enukuta ne Langi">
 
