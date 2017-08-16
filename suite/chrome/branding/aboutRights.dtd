@@ -64,8 +64,11 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Stedsbevisst nettlesing: ">
+<!ENTITY rights.locationawarebrowsing-b "er alltid en funksjon du må aktivt velge å slå på for at den brukes.  Ingen plasseringsinfo sendes uten at du gir tillatelse til det.  Dersom du ønsker å skru av denne funksjonen helt, følg disse stegene:">
 <!ENTITY rights.locationawarebrowsing-term1 "Åpne programinnstillingene">
 <!ENTITY rights.locationawarebrowsing-term2 "Velg hovedpanelet på &security.label;-panelet">
+<!ENTITY rights.locationawarebrowsing-term3 "Velg alternativet for å &quot;&geoDisabled.label;&quot;">
+<!ENTITY rights.locationawarebrowsing-term4 "Stedsbevisst nettlesing er nå avslått">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller forandre Tjenestene etter eget ønske.">
