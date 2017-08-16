@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "ت">
 <!ENTITY engine.addons.label        "افزودنی‌ها">
 <!ENTITY engine.addons.accesskey    "ا">
-
-
-
-
+<!ENTITY engine.addresses.label     "آدرس‌ها">
+<!ENTITY engine.addresses.accesskey "آ">
+<!ENTITY engine.creditcards.label   "کارت اعتباری">
+<!ENTITY engine.creditcards.accesskey "ک">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "نام دستگاه">
