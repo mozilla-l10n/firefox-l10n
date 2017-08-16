@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "Blokeatu pop-up leihoak">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Argibide gehiago">
-<!ENTITY  notificationsPolicyDesc4.label       "Aukeratu zein webgune dauden jakinarazpenak bidaltzeko baimenduta">
-<!ENTITY  notificationsPolicyButton.accesskey  "A">
-<!ENTITY  notificationsPolicyButton.label      "Aukeratu…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ez molestatu">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "z">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ez da jakinarazpenik erakutsiko &brandShortName; berrabiarazi arte">
 
-<!ENTITY  popupExceptions.label       "Salbuespenak…">
-<!ENTITY  popupExceptions.accesskey   "e">
+<!ENTITY  popupExceptions.label                                 "Salbuespenak…">
+<!ENTITY  popupExceptions.accesskey                             "e">
+
+
+<!ENTITY  notificationPermissions.label                         "Jakinarazpenak">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Letra-tipoak eta koloreak">
 
