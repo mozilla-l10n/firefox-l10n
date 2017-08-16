@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Səlahiyyətli">
 <!ENTITY certmgr.tab.orphan2                  "Diğerleri">
 
-<!ENTITY certmgr.mine                         "Sizi müəyyənləşdirən bu təşkilatlardan təsdiq sənədləriniz var:">
-<!ENTITY certmgr.others                       "Bu şəxsləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
-<!ENTITY certmgr.websites2                    "Bu serverləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
-<!ENTITY certmgr.cas                          "Bu təsdiq sənədi səlahiyyətlilərini müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var:">
-<!ENTITY certmgr.orphans                      "Heç bir sinifə aid olmayan qeydiyyatlı təsdiq sənədləriniz var:">
+<!ENTITY certmgr.mine2                        "Sizi müəyyənləşdirən bu təşkilatlardan təsdiq sənədləriniz var">
+<!ENTITY certmgr.others2                      "Bu şəxsləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var">
+<!ENTITY certmgr.websites3                    "Bu serverləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var">
+<!ENTITY certmgr.cas2                         "Bu təsdiq sənədi səlahiyyətlilərini müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var">
+<!ENTITY certmgr.orphans2                     "Heç bir sinifə aid olmayan qeydiyyatlı təsdiq sənədləriniz var">
 
 <!ENTITY certmgr.detail.general_tab.title     "Ümumi">
 <!ENTITY certmgr.detail.general_tab.accesskey "Ü">

@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivləşdirilib">
 <!ENTITY aboutSupport.a11yForceDisabled "Əlçatanlığın qarşısını al">
 <!ENTITY aboutSupport.a11yHandlerUsed "Əlçatılan işləyicilər istifadə edilib">
+<!ENTITY aboutSupport.a11yInstantiator "Əlçatanlıq başladıcı">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Kitabxana versiyaları">
 

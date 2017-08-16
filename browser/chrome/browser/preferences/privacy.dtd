@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Saytlardan çərəzləri qəbul et">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "Üçüncü tərəf çərəzlərini qəbul et:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "l">
+<!ENTITY  acceptThirdParty2.pre.label     "Üçüncü tərəf çərəzlərini qəbul et">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Həmişə">
 <!ENTITY  acceptThirdParty.never.label    "Heç vaxt">
 <!ENTITY  acceptThirdParty.visited.label  "Baxılanlardan">
 
-<!ENTITY  keepUntil.label               "Saxlama limiti:">
-<!ENTITY  keepUntil.accesskey           "t">
+<!ENTITY  keepUntil2.label              "Saxlama limiti">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "vaxtı bitənədək">
 <!ENTITY  close.label                   "&brandShortName; qapatanadək">
