@@ -10,8 +10,8 @@
 <!ENTITY removepermission2.accesskey "E">
 <!ENTITY removeallpermissions2.label "Eliminar todos los sitios web">
 <!ENTITY removeallpermissions2.accesskey "a">
-<!ENTITY address.label "Dirección del sitio web:">
-<!ENTITY address.accesskey "d">
+<!ENTITY address2.label "Dirección del sitio web">
+<!ENTITY address2.accesskey "D">
 <!ENTITY block.label "Bloquear">
 <!ENTITY block.accesskey "B">
 <!ENTITY session.label "Permitir en esta sesión">
@@ -23,3 +23,4 @@
 <!ENTITY button.cancel.accesskey "C">
 <!ENTITY button.ok.label "Guardar cambios">
 <!ENTITY button.ok.accesskey "G">
+<!ENTITY searchbox.placeholder "Buscar sitio web">

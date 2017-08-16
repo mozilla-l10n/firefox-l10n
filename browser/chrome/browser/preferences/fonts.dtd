@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsDialog.title "Tipografía">
-<!ENTITY language.label "Tipografías para:">
-<!ENTITY language.accesskey "T">
-<!ENTITY size.label "Tamaño:">
+<!ENTITY fonts.label "Tipografías para">
+<!ENTITY fonts.accesskey "T">
+<!ENTITY size2.label "Tamaño">
 <!ENTITY sizeProportional.accesskey "o">
 <!ENTITY sizeMonospace.accesskey "a">
-<!ENTITY proportional.label "Proporcional:">
-<!ENTITY proportional.accesskey "P">
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Sans-serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monoespaciado:">
-<!ENTITY monospace.accesskey "M">
+<!ENTITY proportional2.label "Proporcional">
+<!ENTITY proportional2.accesskey "P">
+<!ENTITY serif2.label "Serif">
+<!ENTITY serif2.accesskey "S">
+<!ENTITY sans-serif2.label "Sans-serif">
+<!ENTITY sans-serif2.accesskey "n">
+<!ENTITY monospace2.label "Monoespaciado">
+<!ENTITY monospace2.accesskey "M">
 <!ENTITY font.langGroup.latin "Latino">
 <!ENTITY font.langGroup.japanese "Japonés">
 <!ENTITY font.langGroup.trad-chinese "Chino tradicional (Taiwan)">
@@ -45,16 +45,16 @@
 <!ENTITY font.langGroup.kannada "Kannada">
 <!ENTITY font.langGroup.sinhala "Sinhala">
 <!ENTITY font.langGroup.tibetan "Tibetano">
-<!ENTITY minSize.label "Tamaño de letra mínimo:">
-<!ENTITY minSize.accesskey "l">
+<!ENTITY minSize2.label "Tamaño mínimo de letra">
+<!ENTITY minSize2.accesskey "a">
 <!ENTITY minSize.none "Ninguno">
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 <!ENTITY allowPagesToUseOwn.label "Permitir a las páginas elegir sus propias tipografías, en lugar de sus selecciones de arriba">
 <!ENTITY allowPagesToUseOwn.accesskey "m">
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de texto para contenido antiguo">
-<!ENTITY languages.customize.Fallback2.label "Codificación de texto predet.:">
-<!ENTITY languages.customize.Fallback2.accesskey "C">
+<!ENTITY languages.customize.Fallback3.label "Codificación de texto por defecto">
+<!ENTITY languages.customize.Fallback3.accesskey "C">
 <!ENTITY languages.customize.Fallback2.desc "Esta codificación de texto se usa para contenido antiguo que no declara su codificación.">
 <!ENTITY languages.customize.Fallback.auto "Predeterminado para el idioma actual">
 <!ENTITY languages.customize.Fallback.arabic "Árabe">
