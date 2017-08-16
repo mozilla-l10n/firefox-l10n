@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "விதிவிலக்குகள்">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "விதிவிலக்குகள்">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 
 
