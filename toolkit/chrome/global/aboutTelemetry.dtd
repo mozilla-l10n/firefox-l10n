@@ -11,6 +11,7 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "ശേഖരിച്ചുവെക്കപ്പെട്ട പിങ് ഡാറ്റ">
 
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "സബ്മിഷൻ ഡാറ്റ കാണിക്കുക">
 
 <!ENTITY aboutTelemetry.choosePing "പിങ് തിരഞ്ഞെടുക്കുക:">
@@ -52,6 +53,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  ആഡ്-ഓണ്‍ വിവരങ്ങള്‍">
 
 <!ENTITY aboutTelemetry.lateWritesSection " ലേറ്റ് റൈറ്റുകള്‍">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  കുറിപ്പു്: പതിയെയുള്ള എസക്യൂഎല്‍ ഡീബഗ്ഗിങ് പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു. പൂര്‍ണ്ണ എസ്‌ക്യൂഎല്‍ സ്ട്രിങുകള്‍ ലഭ്യമാക്കുന്നു, പക്ഷേ അവ ടെലിമെട്രിയിലേക്കു് സമര്‍പ്പിയ്ക്കുന്നതല്ല.">
