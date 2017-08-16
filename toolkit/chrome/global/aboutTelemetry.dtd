@@ -8,12 +8,21 @@
 Fonte de datos ping:
 ">
 
-<!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Dados de ping atuais
+">
 
-<!ENTITY aboutTelemetry.showArchivedPingData "Dados ping arquivados">
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Datos de ping arquivados
+">
 
-<!ENTITY aboutTelemetry.raw "JSON em bruto">
+<!ENTITY aboutTelemetry.raw "
+JSON em bruto
+">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Abrir no visualizador de JSON
+">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
 Mostrar dados de sub-sessão
@@ -47,9 +56,13 @@ Ping
 Hoje
 ">
 
-<!ENTITY aboutTelemetry.optionGroupYesterday "Ontem">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ontem
+">
 
-<!ENTITY aboutTelemetry.optionGroupOlder "Antigo">
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Antigo
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
@@ -81,6 +94,9 @@ Hoje
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Payload em bruto
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informação da sessão">
 
