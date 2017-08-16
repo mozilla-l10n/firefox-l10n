@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Gropny JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "W JSON-wobglědowaku wócyniś">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Daty pódpósejźenja pokazaś">
 
@@ -63,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózne pisańske procese">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Gropne wužywańske daty">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Pósejźeńske informacije">
 
