@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yForceDisabled "Privar accesibilidat">
 
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions d'a biblioteca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalacions">
