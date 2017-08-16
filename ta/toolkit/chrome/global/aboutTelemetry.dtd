@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "பதனிடப்படாத JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "துணையமர்வு தரவைக் காட்டு">
 
 <!ENTITY aboutTelemetry.choosePing "பிங்கைத் தேர்:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  கூடுதல் இணைப்புகளின் விவரங்கள்">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  தாமத எழுதல்கள்">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  கணினி தகவல்">
 

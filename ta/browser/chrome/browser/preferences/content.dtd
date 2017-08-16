@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "பாப் அப் (துள்ளும்) சாளரங்களை தடுக்கவும்">
 <!ENTITY  blockPopups.accesskey       "ப">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "மேலும் அறிய">
-<!ENTITY  notificationsPolicyDesc4.label       "எந்ததெந்தத் தளங்கள் உங்களுக்கு அறிவிப்புகளை அனுப்பலாம் என்பதைத் தேர்">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "தேர்ந்தெடு…">
 <!ENTITY  notificationsDoNotDisturb.label      "தொந்தரவு செய்ய வேண்டாம்">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; மறுதொடக்கம் செய்யும் வரை எந்த அறிவிப்புகளும் காட்டப்படாது">
 
-<!ENTITY  popupExceptions.label       "விதிவிலக்குகள்...">
-<!ENTITY  popupExceptions.accesskey   "வ">
+<!ENTITY  popupExceptions.label                                 "விதிவிலக்குகள்...">
+<!ENTITY  popupExceptions.accesskey                             "வ">
+
+
+<!ENTITY  notificationPermissions.label                         "அறிவிப்புகள்">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "எழுத்துருக்கள் &amp; நிறங்கள்">
 
