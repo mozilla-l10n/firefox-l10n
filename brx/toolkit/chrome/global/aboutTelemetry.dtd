@@ -18,6 +18,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.generalDataSection "सरासनस्रा डाटा">
 
 
@@ -41,6 +42,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "Add-on गुवारै">
 
 <!ENTITY aboutTelemetry.lateWritesSection "गोबाव लिरनाय">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "नायनो गोनां: लासै SQL डेबागिंखौ हाहोनाय खालामनाय जायो। आबुं SQL स्ट्रिंखौ गाहायाव दिन्थिफुंनाय जानो हागौ नाथाय बिफोरखौ Telemetry आव गथायनाय जानाय नङा।">

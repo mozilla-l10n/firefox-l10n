@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "Exceptions…">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "Exceptions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 
 
