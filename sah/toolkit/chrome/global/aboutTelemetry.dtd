@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "   Бытаан SQL-инструкция ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "   Браузер ыйаныыта ">
@@ -37,6 +38,7 @@
 
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Хойукку суруктар">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "      БЫҺААРЫЫ:  SQL туруорууларын уларытыы бытаан эрэсиимэ холбоммут. Аллара SQL толору устуруокалара көстүөхтэрин сөп эрээри, телеметрияҕа ыытыллыахтара суоҕа. ">
