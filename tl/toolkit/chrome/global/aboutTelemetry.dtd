@@ -15,6 +15,8 @@
 Raw JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buksan sa viewer ng JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Ipakita ang subsession data">
 
 <!ENTITY aboutTelemetry.choosePing "Piliin ang ping:">
@@ -93,6 +95,10 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Huling Sulat
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Raw Payload
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
