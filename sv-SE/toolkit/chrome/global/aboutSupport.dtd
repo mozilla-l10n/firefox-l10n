@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktiverad">
 <!ENTITY aboutSupport.a11yForceDisabled "Förhindra tillgänglighet">
 <!ENTITY aboutSupport.a11yHandlerUsed "Tillgänglig hanterare använd">
+<!ENTITY aboutSupport.a11yInstantiator "Tillgänglighet instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Biblioteksversioner">
 
