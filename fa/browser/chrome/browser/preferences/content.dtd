@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "استثناها…">
 <!ENTITY  popupExceptions.accesskey                             "ا">
 
+<!ENTITY  permissionSettingsButton2.label                       "تنظیمات…">
 
 <!ENTITY  notificationPermissions.label                         "اعلان‌ها">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "بیشتر بدانید">
 
+<!ENTITY  locationPermissions.label                             "مکان">
+<!ENTITY  locationSettingsButton.accesskey                      "l">
 
+<!ENTITY  cameraPermissions.label                               "دوربین">
+<!ENTITY  cameraSettingsButton.accesskey                        "c">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "میکروفن">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 
