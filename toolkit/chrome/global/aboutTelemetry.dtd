@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON տող">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Ցուցադրել տվյալի ենթաշրջանը">
 
 <!ENTITY aboutTelemetry.choosePing "Ընտրել փինգը.">
@@ -53,6 +54,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Հավելման մանրամասները">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Հետագա գրումներ">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "      Տեղեկություն աշխատաշրջանի մասին">
 

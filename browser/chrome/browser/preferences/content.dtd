@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
 <!ENTITY  blockPopups.accesskey       "Կ">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Իմանալ ավելին">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "ն">
-<!ENTITY  notificationsPolicyButton.label      "Ընտրել…">
 <!ENTITY  notificationsDoNotDisturb.label      "Չխանգարել ինձ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "խ">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ծանուցում չի ցուցադրվի մինչև &brandShortName;-ի վերամեկնարկը">
 
-<!ENTITY  popupExceptions.label       "Բացառություններ…">
-<!ENTITY  popupExceptions.accesskey   "Բ">
+<!ENTITY  popupExceptions.label                                 "Բացառություններ…">
+<!ENTITY  popupExceptions.accesskey                             "Բ">
+
+
+<!ENTITY  notificationPermissions.label                         "Ծանուցումներ">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Տառատեսակները և Գույները">
 
