@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Hruby JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Daty podposedźenja pokazać">
 
 <!ENTITY aboutTelemetry.choosePing "Ping wubrać:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Podrobnosće přidatka">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózdnje pisanske procesy">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Posedźenske informacije">
 
