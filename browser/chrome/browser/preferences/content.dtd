@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Blochează ferestrele pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Află mai multe">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Alege…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nu mă deranja">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Nicio notificare nu va fi afișată până la repornirea lui &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Excepții…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Excepții…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "Notificări">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Fonturi și culori">
 

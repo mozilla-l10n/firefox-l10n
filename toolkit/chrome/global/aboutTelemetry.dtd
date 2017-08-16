@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON brut">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Arată datele pentru subsesiune">
 
 <!ENTITY aboutTelemetry.choosePing "Alege ping:">
@@ -56,6 +57,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detalii supliment">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Scrieri întârziate">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informații privind sesiunea">
 
