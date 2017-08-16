@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON Kecco">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Hollu keɓe lesnaatal">
 
 <!ENTITY aboutTelemetry.choosePing "Suɓol ƴoɓol:">
@@ -55,6 +56,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Ɓeydude e cariika">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Binndi Sakket">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Humpito Naatal">
 

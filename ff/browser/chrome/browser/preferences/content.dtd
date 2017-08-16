@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Falo kenorɗe cuppitte">
 <!ENTITY  blockPopups.accesskey       "o">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ɓeydu humpito">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "o">
-<!ENTITY  notificationsPolicyButton.label      "Suɓo…">
 <!ENTITY  notificationsDoNotDisturb.label      "Hoto haljin am">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Hay tintinol hollirtaake so wonaa e hurmitin &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Paltooje…">
-<!ENTITY  popupExceptions.accesskey   "P">
+<!ENTITY  popupExceptions.label                                 "Paltooje…">
+<!ENTITY  popupExceptions.accesskey                             "P">
+
+
+<!ENTITY  notificationPermissions.label                         "Tintine">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Ponte &amp; Nooneeji">
 
