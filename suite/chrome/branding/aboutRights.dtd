@@ -44,6 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; tilbyr valgfrie nettbaserte informasjonstjenester som er tilgjengelig for din bruk med denne binære versjonen av &brandShortName;, som beskrevet nedenfor.  Noen av disse tjenestene (for eksempel utvidelsesforslag og oppdateringstjenester, tjenesten for trygg nettlesing eller varselsfunksjonen for stedsbevisst nettlesing) er aktivert som standard.  Hvis du ikke vil bruke noen av disse tjenestene, eller vilkårene nedenfor er uakseptable, kan du finne instruksjoner om hvordan du deaktiverer en bestemt funksjon eller tjeneste ">
 <!ENTITY rights3.webservices-b "her">
 <!ENTITY rights3.webservices-c ". Andre funksjoner og tjenester kan slås på eller av i programinnstillingene.">
 
