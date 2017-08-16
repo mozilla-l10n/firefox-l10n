@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Enllaces">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Activar cola de llingüetes">
-<!ENTITY firstrun_tabqueue_subtext_off "Guarda enllaces pa más sero en &brandShortName; al calcalos n\&apos;otres aplicaciones.">
+<!ENTITY firstrun_tabqueue_subtext_off "Guarda enllaces pa más sero en &brandShortName; al calcar nellos dende otres aplicaciones.">
 
 <!ENTITY firstrun_tabqueue_message_on "¡Ésitu!">
 <!ENTITY firstrun_tabqueue_subtext_on "Siempres pues desactivar esto en &settings; so &pref_category_general;.">
@@ -808,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-<!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun va furrular nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor.">
+<!ENTITY unsupported_sdk_version "¡Perdón! &brandShortName; nun funcionará nesti preséu (&formatS1;, &formatS2;). Baxa la versión correuta, por favor.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; yá nun va anovase">
 <!ENTITY eol_notification_summary "Calca pa deprender más">
@@ -844,7 +844,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Escartar">
 <!ENTITY activity_stream_delete_history "Desaniciar del historial">
 
-<!ENTITY activity_stream_welcome_title "Bienllegáu a los tos destacaos">
+<!ENTITY activity_stream_welcome_title "Afáyate nos tos destacaos">
 <!ENTITY activity_stream_welcome_content1 "Agora &brandShortName; crea destacaos de coses que descubrieres na web pa qu\&apos;asina pueas volver alcontrar artículos, vídeos, marcadores y otres páxines fabuloses.">
 
 <!ENTITY private_tab_panel_title "Restolar en privao + proteición de rastrexu">
