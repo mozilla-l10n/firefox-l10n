@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "పొడిగింతలు">
 <!ENTITY aboutAddons.header2                    "మీ ఆడాన్లు">
-<!ENTITY aboutAddons.options                    "ఎంపికలు">
 
 <!ENTITY addonAction.enable                     "చేతనం">
 <!ENTITY addonAction.disable                    "అచేతనంచేయి">
@@ -12,4 +11,4 @@
 <!ENTITY addonAction.undo                       "చేయవద్దు">
 
 <!ENTITY addonUnsigned.message                  "ఈ యాడ్ఆన్ &brandShortName; ద్వారా ధృవీకరించబడలేదు.">
-<!ENTITY addonUnsigned.learnMore                "మరింత తెలుసుకోండి">
+<!ENTITY addonUnsigned.learnMore                "ఇంకా తెలుసుకోండి">
