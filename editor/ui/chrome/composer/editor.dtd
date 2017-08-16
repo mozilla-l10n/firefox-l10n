@@ -50,7 +50,7 @@
 <!ENTITY AllTagsModeTab.label "Etichete HTML">
 <!ENTITY AllTagsMode.label "Etichete HTML">
 <!ENTITY AllTagsMode.accesskey "E">
-<!ENTITY AllTagsMode.tooltip "Afișează iconițe pentru toate etichetele HTML">
+<!ENTITY AllTagsMode.tooltip "Afișează pictograme pentru toate etichetele HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,

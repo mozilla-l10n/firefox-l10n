@@ -43,9 +43,9 @@
 <!ENTITY hdrTrashButton1.label "Șterge">
 <!ENTITY hdrTrashButton1.tooltip "Șterge acest mesaj">
 
-<!ENTITY hdrViewToolbarShowFull.label "Arată iconițe și text">
+<!ENTITY hdrViewToolbarShowFull.label "Arată pictograme și text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "A">
-<!ENTITY hdrViewToolbarShowIcons.label "Arată doar iconițe">
+<!ENTITY hdrViewToolbarShowIcons.label "Arată doar pictograme">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Arată doar textul">
 <!ENTITY hdrViewToolbarShowText.accesskey "t">
