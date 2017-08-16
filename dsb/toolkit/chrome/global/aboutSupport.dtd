@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktiwěrowany">
 <!ENTITY aboutSupport.a11yForceDisabled "Bźezbarjernosći zajźowaś">
 <!ENTITY aboutSupport.a11yHandlerUsed "Pśistupny handler wužyty">
-
+<!ENTITY aboutSupport.a11yInstantiator "Instancěrowak bźezbariernosći">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekowe wersije">
 

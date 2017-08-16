@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "Wuwześa…">
 <!ENTITY  popupExceptions.accesskey                             "W">
 
+<!ENTITY  permissionSettingsButton2.label                       "Nastajenja…">
 
 <!ENTITY  notificationPermissions.label                         "Powěźeńki">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Dalšne informacije">
 
+<!ENTITY  locationPermissions.label                             "Městno">
+<!ENTITY  locationSettingsButton.accesskey                      "M">
 
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "k">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Pisma a barwy">
 
