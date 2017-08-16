@@ -20,6 +20,10 @@ Datos de ping archivados
 JSON en bruto
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Abrir en el visor de JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Mostrar datos de subsesión
 ">
@@ -117,6 +121,10 @@ Antiguo
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Últimas escrituras
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Payload en bruto
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
