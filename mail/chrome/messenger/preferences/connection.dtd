@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Байланыс баптаулары">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Интернетпен байланысу үшін прокси-серверді баптау">
 <!ENTITY  noProxyTypeRadio.label        "Прокси сервері жоқ">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Мысалы: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Бұл проксиді барлық хаттамалар үшін қолдану">
 <!ENTITY  shareproxy.accesskey          "к">
+<!ENTITY  autologinproxy.label          "Пароль сақталып тұрса, аутентификацияны сұрамау">
+<!ENTITY  autologinproxy.accesskey      "и">
+<!ENTITY  autologinproxy.tooltip        "Бұл баптау тіркелгі ақпараты сақталған прокси серверлерде тыныш аутентификацияны жасайды. Аутентификация сәтсіз болса, тіркелгі ақпараты сізден сұралады.">
+<!ENTITY  socksRemoteDNS.label          "SOCKS v5 қолдану кезінде DNS сұранымдарын прокси арқылы жіберу">
+<!ENTITY  socksRemoteDNS.accesskey      "д">
