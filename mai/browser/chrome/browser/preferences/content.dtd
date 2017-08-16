@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "पापअप विंडो केँ रोकू">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "आओर जानू">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "चुनू…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेसान नहि करू">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "जँ अहॉं &brandShortName; फेर स चालू नहि करब कोनो अध‍िसुचना नहि देखाएत">
 
-<!ENTITY  popupExceptions.label       "अपवाद...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "अपवाद...">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+
+<!ENTITY  notificationPermissions.label                         "सूचना">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "फान्ट आ रंग">
 
