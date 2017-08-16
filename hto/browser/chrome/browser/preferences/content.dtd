@@ -5,16 +5,23 @@
 <!ENTITY  blockPopups.label           "Eroirafo zúiya ɨ́bai">
 <!ENTITY  blockPopups.accesskey       "E">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Aiyo ráfue">
-
-<!ENTITY  notificationsPolicyButton.accesskey  "z">
-<!ENTITY  notificationsPolicyButton.label      "Nɨzede...">
 <!ENTITY  notificationsDoNotDisturb.label      "Kúemo éroñeno">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "é">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ó kúega akatañeiye abɨdo ó taɨneye benomo &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Jɨ́aɨmakɨ…">
-<!ENTITY  popupExceptions.accesskey   "J">
+<!ENTITY  popupExceptions.label                                 "Jɨ́aɨmakɨ…">
+<!ENTITY  popupExceptions.accesskey                             "J">
+
+
+<!ENTITY  notificationPermissions.label                         "Ráfue yote">
+
+
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Kúeyena jideriya dɨga">
 
