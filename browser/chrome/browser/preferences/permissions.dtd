@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Guardar cambios">
 <!ENTITY button.ok.accesskey          "G">
 
+<!ENTITY searchbox.placeholder        "Buscar sitio web">
