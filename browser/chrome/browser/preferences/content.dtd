@@ -8,12 +8,18 @@
 
 
 
+<!ENTITY  popupExceptions.label                                 "ବ୍ୟତିକ୍ରମ…">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
 
 
 
-<!ENTITY  popupExceptions.label       "ବ୍ୟତିକ୍ରମ…">
-<!ENTITY  popupExceptions.accesskey   "E">
+
+
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "ଅକ୍ଷରରୂପ  ଏବଂ ରଙ୍ଗ">
 

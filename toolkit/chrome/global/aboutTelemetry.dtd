@@ -21,6 +21,7 @@
 
 
 
+
 <!ENTITY aboutTelemetry.slowSqlSection "  ମନ୍ଥର SQL ଅଭିବ୍ୟକ୍ତି">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  ବ୍ରାଉଜର ଅଟକିଯାଇଛି">
@@ -39,6 +40,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection " ଏଡଅନ ବିବରଣୀ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  ବିଳମ୍ବ ଲେଖାଗୁଡ଼ିକ">
+
 
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ଟିପ୍ପଣୀ: ମନ୍ଥର SQL ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରାଯାଇଛି। ସମ୍ପୂର୍ଣ୍ଣ SQL ବାକ୍ୟଖଣ୍ଡଗୁଡ଼ିକୁ ହୁଏତଃ ନିମ୍ନରେ ଦର୍ଶାଯାଇଛି କିନ୍ତୁ ସେମାନଙ୍କୁ ଦୂରମାପିରେ ଦାଖଲ କରାଯିବ ନାହିଁ।">
