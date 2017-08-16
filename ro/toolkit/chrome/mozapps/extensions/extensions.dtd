@@ -216,10 +216,10 @@
 
 <!ENTITY addon.createdBy.label                "Creat de ">
 
-<!ENTITY eula.title                           "Acord de licențiere cu utilizatorul">
+<!ENTITY eula.title                           "Acord de licență pentru utilizatorul final">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Accept, instalează…">
+<!ENTITY eula.accept                          "Acceptă și instalează…">
 
 <!ENTITY settings.path.button.label           "Răsfoiește…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
@@ -247,14 +247,15 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în obținerea verificării pentru suplimente pot continua să citească ">
+<!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în obținerea verificării suplimentelor lor pot continua să citească ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Lipsește ceva? Unele extensii nu mai sunt suportate de &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Afișează extensiile obsolete">
+<!ENTITY legacyExtensions.title "Extensii obsolete">
+<!ENTITY legacyExtensions.description "Aceste extensii nu îndeplinesc standardele actuale ale &brandShortName; astfel încât au fost dezactivate.">
+<!ENTITY legacyExtensions.learnMore "Află despre schimbările aduse suplimentelor">
