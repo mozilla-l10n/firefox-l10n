@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Yenilənmə Tarixçəsi">
-<!ENTITY  history.intro             "Bu yeniləmələr yükləndi:">
+<!ENTITY  history2.intro            "Bu yeniləmələr quruldu">
 <!ENTITY  closebutton.label         "Qapat">
-                                     
+
 <!ENTITY  noupdates.label           "Heç bir yeniləmə yüklənməyib">
 
 <!ENTITY  name.header               "Yeniləmənin Adı">
