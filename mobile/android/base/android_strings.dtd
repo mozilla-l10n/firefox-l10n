@@ -182,7 +182,7 @@
 <!ENTITY pref_category_vendor_summary2 "గురించి &brandShortName;, FAQs, ఫీడ్ బాక్">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
 <!ENTITY pref_category_logins "ప్రవేశాలు">
-<!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
+<!ENTITY pref_learn_more "ఇంకా తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
 <!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
 <!ENTITY pref_category_search_restore_defaults "సెర్చింజన్లను పునరుద్ధరించు">
@@ -665,7 +665,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "ఈ పేజీ మీ బ్రౌజింగ్ ను ట్రాక్ చేయడానికి అంశాలను కలిగి ఉంది.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "మరింత తెలుసుకోండి">
+<!ENTITY learn_more "ఇంకా తెలుసుకోండి">
 <!ENTITY enable_protection "సంరక్షణను చేతనంచేయి">
 <!ENTITY disable_protection "సంరక్షణను ఆపివేయి">
 
