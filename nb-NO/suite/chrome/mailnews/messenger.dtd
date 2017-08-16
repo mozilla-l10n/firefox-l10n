@@ -13,7 +13,7 @@
 <!ENTITY tabmailCloseButton.tooltip "Lukk denne fanen">
 <!ENTITY tabmailAllTabs.tooltip "List alle faner">
 
-<!-- menu items:  the . means that the menu item isn't implemented yet -->
+<!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
 <!ENTITY newMessage.label "Ny melding">
@@ -445,8 +445,14 @@
 <!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">
 <!ENTITY notJunkButton.tooltip "Merk valgt melding som ønskede">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhold i denne meldingen">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY editRemoteContentSettings.label "Rediger tillatelser for eksternt innhold…">
+<!ENTITY editRemoteContentSettings.accesskey "e">
+
 <!-- Statusbar -->
-<!ENTITY  statusText.label "Ferdig">
+<!ENTITY statusText.label "Ferdig">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åpne melding i nytt vindu">

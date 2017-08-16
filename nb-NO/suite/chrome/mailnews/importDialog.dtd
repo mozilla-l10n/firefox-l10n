@@ -30,6 +30,7 @@
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Navn:">
 <!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Fant ingen program eller fil for å importere data fra.">
 
 <!ENTITY back.label               "&lt; Tilbake">
 <!ENTITY forward.label            "Neste &gt;">
