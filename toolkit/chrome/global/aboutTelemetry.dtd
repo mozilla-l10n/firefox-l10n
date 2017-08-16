@@ -14,6 +14,10 @@
 JSON Mentah
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Buka dalam pemapar JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Papar data subsesi
 ">
@@ -92,6 +96,10 @@ Lebih lama
 <!ENTITY aboutTelemetry.addonDetailsSection "  Perincian Add-on">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Muatan Mentah
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Maklumat Sesi">
