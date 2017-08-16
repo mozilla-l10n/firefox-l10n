@@ -9,7 +9,7 @@
 <!ENTITY provideSearchSuggestions.label        "Furnizează sugestii de căutare">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Arată sugestiile de căutare în rezultatele din bara de adrese.">
+<!ENTITY showURLBarSuggestions.label           "Afișează sugestiile de căutare în rezultatele din bara de locație">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat &brandShortName; ca să nu țină minte niciodată istoricul.">
 

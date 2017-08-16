@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Securitate">
+<!ENTITY  phishingProtection.label       "Protecție împotriva phishingului">
 
-
-
+<!ENTITY  warnOnAddonInstall2.label       "Avertizează atunci când site-urile web încearcă să instaleze suplimente">
+<!ENTITY  warnOnAddonInstall2.accesskey   "w">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulare și parole">
 
-
+<!ENTITY  rememberLogins2.label         "Reține autentificările și parolele pentru site-uri web">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Excepții…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
