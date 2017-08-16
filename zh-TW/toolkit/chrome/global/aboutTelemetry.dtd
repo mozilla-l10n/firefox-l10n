@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+用 JSON 檢視器開啟">
 
 <!ENTITY aboutTelemetry.showSubsessionData "顯示 subsession 資料">
 
