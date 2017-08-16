@@ -14,6 +14,10 @@
 Raw JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Abri no visualizador de JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados da subseção">
 
 <!ENTITY aboutTelemetry.choosePing "Escolha o ping:">
@@ -69,6 +73,10 @@ Raw JSON
   Detalhes da extensão">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Dados brutos
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informações da sessão">
