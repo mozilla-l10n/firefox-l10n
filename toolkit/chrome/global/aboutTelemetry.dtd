@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Nyers JSON">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
 
 <!ENTITY aboutTelemetry.choosePing "Válasszon pinget:">
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "Kiegészítő részletei">
 
 <!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Munkamenet-információk">
 
