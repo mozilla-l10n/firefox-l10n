@@ -21,6 +21,10 @@
 <!ENTITY showAlertSubject.accesskey       "e">
 <!ENTITY showAlertSender.label            "Vis avsender">
 <!ENTITY showAlertSender.accesskey        "a">
+<!ENTITY useSystemAlert.label             "Benytter operativsystemets innebygde varslingstjeneste">
+<!ENTITY useSystemAlert.accesskey         "d">
+<!ENTITY useBuiltInAlert.label            "Bruk &brandShortName; sine egne varslingsvinduer">
+<!ENTITY useBuiltInAlert.accesskey        "v">
 
 <!ENTITY showTrayIcon.label               "Vis et varselsikon">
 <!ENTITY showTrayIcon.accesskey           "s">

@@ -38,3 +38,5 @@
 <!ENTITY invalidEntryError.label      "Domenenavnet @string@ er ugyldig og vil ignoreres. Gyldige domenenavn må inneholde minst ett '.', og tegn på hvert side av det.">
 
 <!-- Global auto-detect switch -->
+<!ENTITY autoDowngrade.label          "Send automatisk meldingen som ren tekst om ingen merkbar formatering finnes (overstyrer andre alternativer)">
+<!ENTITY autoDowngrade.accesskey      "o">
