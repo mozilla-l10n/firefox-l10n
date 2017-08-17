@@ -12,18 +12,18 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ikke lagre">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "besøkte nettsider">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Søk">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapsler">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Midlertidige filer">
+<!ENTITY aboutPrivateBrowsing.info.searches              "søk">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "infokapsler">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "midlertidige filer">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagre">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " dine:">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "Nedlastinger">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerker">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "nedlastinger">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmerker">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjør deg ikke anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgiveren eller Internettleverandøren din kan fortsatt se hvilke sider du besøker.">
-<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Les mer om">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Les mer om ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privat nettlesing">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
