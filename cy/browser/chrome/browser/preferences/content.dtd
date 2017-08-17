@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "Eithriadau…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
+<!ENTITY  permissionSettingsButton2.label                       "Gosodiadau…">
 
 <!ENTITY  notificationPermissions.label                         "Hysbysiadau">
+<!ENTITY  notificationSettingsButton.accesskey                  "G">
+<!ENTITY  notificationPermissionsLearnMore.label                "Dysgu rhagor">
 
+<!ENTITY  locationPermissions.label                             "Lleoliad">
+<!ENTITY  locationSettingsButton.accesskey                      "L">
 
+<!ENTITY  cameraPermissions.label                               "Camera">
+<!ENTITY  cameraSettingsButton.accesskey                        "c">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Meicroffon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Ffontiau a Lliwiau">
 
