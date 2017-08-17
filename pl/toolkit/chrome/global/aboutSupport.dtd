@@ -87,6 +87,7 @@
 <!ENTITY aboutSupport.a11yActivated "Aktywne">
 <!ENTITY aboutSupport.a11yForceDisabled "Zablokuj ułatwienia dostępu">
 <!ENTITY aboutSupport.a11yHandlerUsed "Aktywna obsługa dostępności">
+<!ENTITY aboutSupport.a11yInstantiator "Aktywator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Wersje bibliotek">
 
