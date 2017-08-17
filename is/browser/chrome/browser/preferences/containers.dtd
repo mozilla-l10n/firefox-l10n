@@ -12,12 +12,13 @@
 <!ENTITY window.title         "Bæta við nýjum innihaldsflipa">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Nafn">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Sláðu inn nafn innihaldsflipa">
-
-
-
-
+<!ENTITY icon2.label          "Táknmynd">
+<!ENTITY icon2.accesskey      "y">
+<!ENTITY color2.label         "Litur">
+<!ENTITY color2.accesskey     "L">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Lokið">

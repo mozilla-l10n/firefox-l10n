@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "Fjarlægja öll vefsvæði">
 <!ENTITY removeallpermissions2.accesskey "e">
-
-
+<!ENTITY address2.label               "Vistfang vefsvæðis">
+<!ENTITY address2.accesskey           "V">
 <!ENTITY block.label                  "Loka á">
 <!ENTITY block.accesskey              "o">
 <!ENTITY session.label                "Leyfa í þessari vafralotu">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Vista breytingar">
 <!ENTITY button.ok.accesskey          "V">
 
+<!ENTITY searchbox.placeholder        "Leita í vefsvæði">

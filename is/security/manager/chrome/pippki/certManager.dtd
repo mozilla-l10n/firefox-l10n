@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Vottunarstöðvar">
 <!ENTITY certmgr.tab.orphan2                  "Annað">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Skilríki frá stofnunum sem auðkenna þig">
+<!ENTITY certmgr.others2                      "Skilríki sem auðkenna þetta fólk">
+<!ENTITY certmgr.websites3                    "Skilríki sem auðkenna þessi vefsvæði">
+<!ENTITY certmgr.cas2                         "Skilríki sem auðkenna þessar vottunarstöðvar">
+<!ENTITY certmgr.orphans2                     "Skilríki sem passa ekki í neina aðra flokka">
 
 <!ENTITY certmgr.detail.general_tab.title     "Almennt">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">

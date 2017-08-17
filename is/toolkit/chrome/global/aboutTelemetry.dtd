@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Hrátt JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Opna í JSON skoðara">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Sýna subsession gögn">
 
@@ -23,9 +24,11 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Vika">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping tegund">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Í dag">
 
 <!ENTITY aboutTelemetry.optionGroupYesterday "Í gær">
 
@@ -61,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Skrifað seint">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Hrá gögn">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Lotuupplýsingar">
 

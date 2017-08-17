@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Sláðu inn upplýsingar um eininguna sem þú vilt bæta við.">
-
-
+<!ENTITY loaddevice.modname2                    "Eininganafn">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Ný PKCS#11 eining">
-
-
+<!ENTITY loaddevice.filename2                   "Skráarnafn einingar">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Velja…">
 <!ENTITY loaddevice.browse.accesskey            "V">
 

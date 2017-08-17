@@ -33,14 +33,17 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
+<!ENTITY dataCollection.label            "&brandShortName; Gagnasöfnun og notkun">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "Meðferð persónuupplýsinga">
 
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Leyfa &brandShortName; að senda hrunskýrslur til Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "h">
 <!ENTITY crashReporterLearnMore.label    "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
 
+<!ENTITY networkProxy.label              "Net milliþjónn">
 
 <!ENTITY connectionDesc.label            "Stilla hvernig &brandShortName; tengist við Internetið">
 <!ENTITY connectionSettings.label        "Stillingar…">
@@ -87,11 +90,12 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label "Viðhalda &brandShortName; uppfærðum fyrir bestu afköst, stöðugleika og öryggi.">
 <!ENTITY updateApplication.version.pre   "Útgáfa ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Leyfa &brandShortName; að">
-
-
+<!ENTITY updateAuto3.label               "Setja sjálfvirkt inn uppfærslur (mælt með)">
+<!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
 <!ENTITY updateCheckChoose2.accesskey    "t">
 <!ENTITY updateManual2.label             "Aldrei athuga með uppfærslur (ekki mælt með)">
@@ -111,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Undanþágur…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "d">
 
+<!ENTITY offlineAppsList3.label          "Eftirfarandi vefsvæði hafa leyfi til að geyma gögn fyrir notkun án nettengingar">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Fjarlægja…">
 <!ENTITY offlineAppsListRemove.accesskey "r">

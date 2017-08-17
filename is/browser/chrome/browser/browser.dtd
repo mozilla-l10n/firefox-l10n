@@ -989,8 +989,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
-<!ENTITY pageAction.addToUrlbar.label "Bæta við í vistfangastiku">
-<!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr vistfangastiku">
+<!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
+<!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
 
 <!ENTITY sendToDevice.label2 "Senda í tæki">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
