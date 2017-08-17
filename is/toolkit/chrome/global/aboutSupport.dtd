@@ -139,7 +139,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Óvirkar stillingar fyrir hrunvara">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Leiðir framhjá villum">
 
-<!ENTITY aboutSupport.mediaTitle "Miðill">
+<!ENTITY aboutSupport.mediaTitle "Gögn">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Útakstæki">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "Inntakstæki">
 <!ENTITY aboutSupport.mediaDeviceName "Nafn">
