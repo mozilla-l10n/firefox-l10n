@@ -17,14 +17,17 @@
 <!ENTITY  permissionSettingsButton2.label                       "การตั้งค่า…">
 
 <!ENTITY  notificationPermissions.label                         "การแจ้งเตือน">
+<!ENTITY  notificationSettingsButton.accesskey                  "ร">
 <!ENTITY  notificationPermissionsLearnMore.label                "เรียนรู้เพิ่มเติม">
 
 <!ENTITY  locationPermissions.label                             "ตำแหน่งที่ตั้ง">
 <!ENTITY  locationSettingsButton.accesskey                      "ต">
 
 <!ENTITY  cameraPermissions.label                               "กล้อง">
+<!ENTITY  cameraSettingsButton.accesskey                        "ก">
 
 <!ENTITY  microphonePermissions.label                           "ไมโครโฟน">
+<!ENTITY  microphoneSettingsButton.accesskey                    "ค">
 
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">
 
