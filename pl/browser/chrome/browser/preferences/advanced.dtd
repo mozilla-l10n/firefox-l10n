@@ -86,7 +86,7 @@
 <!ENTITY offlineStorageNotifyExceptions.label "Wyjątki…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "">
 
-<!ENTITY offlineAppsList2.label          "Następujące witryny mogą przechowywać dane dla trybu offline:">
+<!ENTITY offlineAppsList3.label "Następujące witryny mogą przechowywać dane dla trybu offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Usuń…">
 <!ENTITY offlineAppsListRemove.accesskey "">

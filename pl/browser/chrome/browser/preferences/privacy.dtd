@@ -53,13 +53,13 @@
 
 <!ENTITY acceptCookies2.label "Akceptowanie ciasteczek">
 <!ENTITY acceptCookies2.accesskey "">
-<!ENTITY acceptThirdParty.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
-<!ENTITY acceptThirdParty.pre.accesskey "">
+<!ENTITY acceptThirdParty2.pre.label "Akceptowanie ciasteczek witryn zewnętrznych podmiotów:">
+<!ENTITY acceptThirdParty2.pre.accesskey "">
 <!ENTITY acceptThirdParty.always.label "zawsze">
 <!ENTITY acceptThirdParty.never.label "nigdy">
 <!ENTITY acceptThirdParty.visited.label "z odwiedzonych">
-<!ENTITY keepUntil.label "Przechowywanie ciasteczek:">
-<!ENTITY keepUntil.accesskey "">
+<!ENTITY keepUntil2.label "Przechowywanie ciasteczek:">
+<!ENTITY keepUntil2.accesskey "">
 <!ENTITY expire.label "do ich wygaśnięcia">
 <!ENTITY close.label "do zamknięcia programu &brandShortName;">
 <!ENTITY cookieExceptions.label "Wyjątki…">

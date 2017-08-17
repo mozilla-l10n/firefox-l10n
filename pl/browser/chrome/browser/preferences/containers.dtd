@@ -11,13 +11,13 @@
 <!ENTITY window.title "Dodawanie kontekstu">
 <!ENTITY window.width "45em">
 
-<!ENTITY name.label "Nazwa:">
-<!ENTITY name.accesskey "">
+<!ENTITY name2.label "Nazwa:">
+<!ENTITY name2.accesskey "">
 <!ENTITY name.placeholder "Nazwa kontekstu">
-<!ENTITY icon.label "Ikona:">
-<!ENTITY icon.accesskey "">
-<!ENTITY color.label "Kolor:">
-<!ENTITY color.accesskey "">
+<!ENTITY icon2.label "Ikona:">
+<!ENTITY icon2.accesskey "">
+<!ENTITY color2.label "Kolor:">
+<!ENTITY color2.accesskey "">
 <!ENTITY windowClose.key "w">
 
 <!ENTITY button.ok.label "Gotowe">

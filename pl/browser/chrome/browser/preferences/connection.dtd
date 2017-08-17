@@ -13,33 +13,33 @@
 <!ENTITY systemTypeRadio.accesskey "">
 <!ENTITY  WPADTypeRadio.label           "Automatycznie wykrywaj ustawienia serwerów proxy dla tej sieci">
 <!ENTITY WPADTypeRadio.accesskey "">
-<!ENTITY  manualTypeRadio.label         "Ręczna konfiguracja serwerów proxy:">
-<!ENTITY manualTypeRadio.accesskey "">
-<!ENTITY  autoTypeRadio.label           "Adres URL automatycznej konfiguracji proxy:">
-<!ENTITY autoTypeRadio.accesskey "">
+<!ENTITY manualTypeRadio2.label "Ręczna konfiguracja serwerów proxy:">
+<!ENTITY manualTypeRadio2.accesskey "">
+<!ENTITY autoTypeRadio2.label "Adres URL automatycznej konfiguracji proxy:">
+<!ENTITY autoTypeRadio2.accesskey "">
 <!ENTITY  reload.label                  "Odśwież">
 <!ENTITY reload.accesskey "">
-<!ENTITY  ftp.label                     "Serwer proxy FTP:">
-<!ENTITY ftp.accesskey "">
-<!ENTITY  http.label                    "Serwer proxy HTTP:">
-<!ENTITY http.accesskey "">
-<!ENTITY  ssl.label                     "Serwer proxy SSL:">
-<!ENTITY ssl.accesskey "">
-<!ENTITY  socks.label                   "Host SOCKS:">
-<!ENTITY socks.accesskey "">
+<!ENTITY ftp2.label "Serwer proxy FTP:">
+<!ENTITY ftp2.accesskey "">
+<!ENTITY http2.label "Serwer proxy HTTP:">
+<!ENTITY http2.accesskey "">
+<!ENTITY ssl2.label "Serwer proxy SSL:">
+<!ENTITY ssl2.accesskey "">
+<!ENTITY socks2.label "Host SOCKS:">
+<!ENTITY socks2.accesskey "">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY socks4.accesskey "">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY socks5.accesskey "">
 <!ENTITY socksRemoteDNS.label2 "Proxy DNS podczas używania SOCKS v5">
 <!ENTITY socksRemoteDNS.accesskey "">
-<!ENTITY port.label "Port:">
+<!ENTITY port2.label "Port:">
 <!ENTITY HTTPport.accesskey "">
 <!ENTITY SSLport.accesskey "">
 <!ENTITY FTPport.accesskey "">
 <!ENTITY SOCKSport.accesskey "">
-<!ENTITY  noproxy.label                 "Nie używaj proxy dla:">
-<!ENTITY noproxy.accesskey "">
+<!ENTITY noproxy2.label "Nie używaj proxy dla:">
+<!ENTITY noproxy2.accesskey "">
 <!ENTITY  noproxyExplain.label          "Przykład: .mozilla.org, .com.pl, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Użyj tego serwera proxy dla wszystkich protokołów">
 <!ENTITY shareproxy.accesskey "">

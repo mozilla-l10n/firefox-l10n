@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey "">
 <!ENTITY removeallpermissions2.label "Usuń wszystkie witryny">
 <!ENTITY removeallpermissions2.accesskey "">
-<!ENTITY address.label                "Adres witryny:">
-<!ENTITY address.accesskey "">
+<!ENTITY address2.label "Adres witryny:">
+<!ENTITY address2.accesskey "">
 <!ENTITY block.label                  "Blokuj">
 <!ENTITY block.accesskey "">
 <!ENTITY session.label                "Zezwalaj na czas sesji">

@@ -18,13 +18,13 @@
 <!ENTITY underlineLinks.accesskey "">
 
 <!ENTITY  color                           "Tekst i tło">
-<!ENTITY  textColor.label                 "Tekst:">
-<!ENTITY textColor.accesskey "">
-<!ENTITY  backgroundColor.label           "Tło:">
-<!ENTITY backgroundColor.accesskey "">
+<!ENTITY textColor2.label "Tekst">
+<!ENTITY textColor2.accesskey "">
+<!ENTITY backgroundColor2.label "Tło">
+<!ENTITY backgroundColor2.accesskey "">
 
 <!ENTITY  links                           "Kolory odnośników">
-<!ENTITY  linkColor.label                 "Nieodwiedzone odnośniki:">
-<!ENTITY linkColor.accesskey "">
-<!ENTITY  visitedLinkColor.label          "Odwiedzone odnośniki:">
-<!ENTITY visitedLinkColor.accesskey "">
+<!ENTITY linkColor2.label "Nieodwiedzone odnośniki">
+<!ENTITY linkColor2.accesskey "">
+<!ENTITY visitedLinkColor2.label "Odwiedzone odnośniki">
+<!ENTITY visitedLinkColor2.accesskey "">

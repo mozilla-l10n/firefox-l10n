@@ -4,22 +4,22 @@
 
 <!ENTITY fontsDialog.title "Czcionki">
 
-<!ENTITY language.label "Czcionki:">
-<!ENTITY language.accesskey "">
+<!ENTITY fonts.label "Czcionki:">
+<!ENTITY fonts.accesskey "">
 
-<!ENTITY size.label "Rozmiar:">
+<!ENTITY size2.label "Rozmiar:">
 <!ENTITY sizeProportional.accesskey "">
 <!ENTITY sizeMonospace.accesskey "">
 
-<!ENTITY proportional.label "Proporcjonalna:">
-<!ENTITY proportional.accesskey "">
+<!ENTITY proportional2.label "Proporcjonalna:">
+<!ENTITY proportional2.accesskey "">
 
-<!ENTITY serif.label "Szeryfowa:">
-<!ENTITY serif.accesskey "">
-<!ENTITY sans-serif.label "Bezszeryfowa:">
-<!ENTITY sans-serif.accesskey "">
-<!ENTITY monospace.label "O stałej szerokości:">
-<!ENTITY monospace.accesskey "">
+<!ENTITY serif2.label "Szeryfowa:">
+<!ENTITY serif2.accesskey "">
+<!ENTITY sans-serif2.label "Bezszeryfowa:">
+<!ENTITY sans-serif2.accesskey "">
+<!ENTITY monospace2.label "O stałej szerokości:">
+<!ENTITY monospace2.accesskey "">
 
 <!ENTITY font.langGroup.latin "Łacińskie">
 <!ENTITY font.langGroup.japanese "Japońskie">
@@ -51,8 +51,8 @@
 <!ENTITY font.langGroup.sinhala "Syngaleskie">
 <!ENTITY font.langGroup.tibetan "Tybetańskie">
 
-<!ENTITY minSize.label 		"Minimalny rozmiar czcionki:" >
-<!ENTITY minSize.accesskey "">
+<!ENTITY minSize2.label "Minimalny rozmiar czcionki:">
+<!ENTITY minSize2.accesskey "">
 <!ENTITY minSize.none 		"Brak" >
 
 <!ENTITY  useDefaultFontSerif.label               "Szeryfowa">
@@ -62,8 +62,8 @@
 <!ENTITY allowPagesToUseOwn.accesskey "">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kodowanie tekstu dla przestarzałych treści">
-<!ENTITY languages.customize.Fallback2.label "Rezerwowe kodowanie tekstu:">
-<!ENTITY languages.customize.Fallback2.accesskey "">
+<!ENTITY languages.customize.Fallback3.label "Rezerwowe kodowanie tekstu:">
+<!ENTITY languages.customize.Fallback3.accesskey "">
 <!ENTITY languages.customize.Fallback2.desc "Kodowanie tekstu używane na stronach, które same go nie określają.">
 <!ENTITY languages.customize.Fallback.auto "Domyślne dla obecnej lokalizacji">
 <!ENTITY languages.customize.Fallback.arabic "Arabskie">

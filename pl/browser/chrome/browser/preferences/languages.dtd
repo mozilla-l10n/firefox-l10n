@@ -4,7 +4,7 @@
 
 <!ENTITY window.width "34em">
 <!ENTITY languages.customize.Header                     "Języki">
-<!ENTITY languages.customize.description "Niektóre strony WWW dostępne są w wielu wersjach językowych. Ustal listę kolejno preferowanych języków dla tego rodzaju stron:">
+<!ENTITY languages.customize2.description "Niektóre strony WWW dostępne są w wielu wersjach językowych. Ustal listę kolejno preferowanych języków dla tego rodzaju stron.">
 <!ENTITY languages.customize.moveUp.label               "W górę">
 <!ENTITY languages.customize.moveUp.accesskey "">
 <!ENTITY languages.customize.moveDown.label             "W dół">
