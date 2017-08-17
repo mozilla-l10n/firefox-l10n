@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON bras">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Agor yn y darllenydd JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Dangos data is-sesiwn">
 
@@ -63,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Ysgrifennu Hwyr">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Llwyth Bras">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Manylion Sesiwn">
 

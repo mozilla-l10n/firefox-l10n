@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Gweithredu">
 <!ENTITY aboutSupport.a11yForceDisabled "Atal Hygyrchedd">
 <!ENTITY aboutSupport.a11yHandlerUsed "Defnyddiwyd Trinydd Mynediadwy">
-
+<!ENTITY aboutSupport.a11yInstantiator "Enghreifftiad Hygyrchedd">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Fersiynau Llyfrgell">
 
