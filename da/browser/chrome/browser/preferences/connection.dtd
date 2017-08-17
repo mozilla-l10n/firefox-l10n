@@ -33,7 +33,7 @@
 <!ENTITY socks5.label                  "SOCKS v5">
 <!ENTITY socks5.accesskey              "5">
 <!ENTITY socksRemoteDNS.label2         "Proxy-DNS ved brug af SOCKS v5">
-<!ENTITY socksRemoteDNS.accesskey      "d">
+<!ENTITY socksRemoteDNS.accesskey      "D">
 <!ENTITY port2.label                   "Port">
 <!ENTITY HTTPport.accesskey            "">
 <!ENTITY SSLport.accesskey             "">
@@ -45,5 +45,5 @@
 <!ENTITY shareproxy.label              "Brug denne proxy-server for alle protokoller">
 <!ENTITY shareproxy.accesskey          "r">
 <!ENTITY  autologinproxy.label          "Spørg ikke efter godkendelse, hvis adgangskoden er gemt">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.accesskey      "g">
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.">
