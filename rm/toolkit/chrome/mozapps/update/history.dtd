@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "Cronologia da las actualisaziuns">
-<!ENTITY  history.intro             "Las suandantas actualisaziuns èn vegnidas installadas:">
+<!ENTITY  history2.intro            "Las suandantas actualisaziuns èn vegnidas installadas">
 <!ENTITY  closebutton.label         "Serrar">
-                                     
+
 <!ENTITY  noupdates.label           "Enfin ussa n'èn naginas actualisaziuns vegnidas installadas">
 
 <!ENTITY  name.header               "Num da l'actualisaziun">
