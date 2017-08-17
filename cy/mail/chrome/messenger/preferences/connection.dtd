@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Gosodiadau Cysylltu">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Ffurfweddu'r Dirprwyon i Gael Mynediad i'r Rhyngrwyd">
 <!ENTITY  noProxyTypeRadio.label        "Dim dirprwy">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
 <!ENTITY  shareproxy.accesskey          "f">
+<!ENTITY  autologinproxy.label          "Peidio gofyn am ddilysiad os yw'r cyfrinair wedi ei gadw">
+<!ENTITY  autologinproxy.accesskey      "d">
+<!ENTITY  autologinproxy.tooltip        "Mae'r dewis hwn yn eich dilysu'n dawel i ddirprwyon rydych wedi eu cadw eu manylion ar eu cyfer. Byddwn yn gofyn os bydd y dilysiad yn methu.">
+<!ENTITY  socksRemoteDNS.label          "DNS dirprwyol pan y defnyddio SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
