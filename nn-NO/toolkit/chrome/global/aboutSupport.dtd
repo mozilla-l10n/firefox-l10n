@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivert">
 <!ENTITY aboutSupport.a11yForceDisabled "Hindra tilgjenge">
 <!ENTITY aboutSupport.a11yHandlerUsed "Tilgjengeleg handterar brukt">
+<!ENTITY aboutSupport.a11yInstantiator "Tilgjenge-instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekversjonar">
 
