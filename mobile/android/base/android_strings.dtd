@@ -16,7 +16,7 @@
 <!ENTITY firstrun_sync_message "&brandShortName;, ఎల్లప్పుడూ మీ పక్షమే">
 <!ENTITY firstrun_sync_subtext "మీ టాబ్లు, పాస్వర్డ్లను సింక్ చేయండి, మరియు ప్రతిచోటా మీరు దాన్ని ఉపయోగించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
-<!ENTITY firstrun_signin_button "సింక్ లోనికి ప్రవేశించండి">
+<!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
@@ -376,7 +376,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "URL బార్లో QR స్కానర్ అనుమతింఛండి">
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
-<!ENTITY pref_sync2 "సైన్ ఇన్">
+<!ENTITY pref_sync2 "ప్రవేశించండి">
 <!ENTITY pref_sync_summary2 "మీ ట్యాబులు, ఇష్టాంశాలు, ప్రవేశాలు, చరిత్రలను సింక్రనించుకోండి">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
