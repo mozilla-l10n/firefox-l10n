@@ -8,6 +8,4 @@
 <!ENTITY typeColumn.accesskey "T">
 <!ENTITY actionColumn2.label "Azione">
 <!ENTITY actionColumn2.accesskey "A">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
 <!ENTITY filter2.emptytext "Cerca tipo di contenuto o applicazione">

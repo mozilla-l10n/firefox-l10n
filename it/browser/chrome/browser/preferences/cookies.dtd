@@ -16,7 +16,6 @@
 <!ENTITY window.title "Cookie">
 <!ENTITY windowClose.key "w">
 <!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
 <!ENTITY searchFilter.label "Cerca">
 <!ENTITY searchFilter.accesskey "e">
 <!ENTITY button.close.label "Chiudi">
