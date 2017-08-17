@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "Undanþágur…">
 <!ENTITY  popupExceptions.accesskey                             "U">
 
+<!ENTITY  permissionSettingsButton2.label                       "Stillingar…">
 
 <!ENTITY  notificationPermissions.label                         "Tilkynningar">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Vita meira">
 
+<!ENTITY  locationPermissions.label                             "Staðsetning">
+<!ENTITY  locationSettingsButton.accesskey                      "l">
 
+<!ENTITY  cameraPermissions.label                               "Myndavél">
+<!ENTITY  cameraSettingsButton.accesskey                        "M">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Hljóðnemi">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Letur og litir">
 

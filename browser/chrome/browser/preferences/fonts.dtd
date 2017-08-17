@@ -4,18 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Leturgerðir">
 
+<!ENTITY  fonts.label                             "Letur fyrir">
+<!ENTITY  fonts.accesskey                         "f">
 
-
+<!ENTITY  size2.label                             "Stærð">
 <!ENTITY  sizeProportional.accesskey              "t">
 <!ENTITY  sizeMonospace.accesskey                 "æ">
 
+<!ENTITY  proportional2.label                     "Hlutfallslegt">
+<!ENTITY  proportional2.accesskey                 "u">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Jafnstórt">
+<!ENTITY  monospace2.accesskey                    "J">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -49,7 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tíbetska">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Lágmarks leturstærð">
+<!ENTITY minSize2.accesskey                       "L">
 <!ENTITY minSize.none                             "Engin">
 <!-- default font type -->
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Stafakóðun fyrir gamlar síður">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Sjálfgefið og stafakóðun">
+<!ENTITY languages.customize.Fallback3.accesskey  "s">
 <!ENTITY languages.customize.Fallback2.desc       "Þessi stafakóðun er notuð fyrir gamlar síður sem senda ekki hvaða stafakóðun er notuð.">
 
 <!ENTITY languages.customize.Fallback.auto        "Sjálfgefið fyrir núverandi tungumál">

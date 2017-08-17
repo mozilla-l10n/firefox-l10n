@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Virkt">
 <!ENTITY aboutSupport.a11yForceDisabled "Koma í veg fyrir aðgengi">
 <!ENTITY aboutSupport.a11yHandlerUsed "Aðgengishjálpari notaður">
-
+<!ENTITY aboutSupport.a11yInstantiator "Accessibility Instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Útgáfa forritasafns">
 
@@ -139,14 +139,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Óvirkar stillingar fyrir hrunvara">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Leiðir framhjá villum">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Miðill">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Útakstæki">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Inntakstæki">
+<!ENTITY aboutSupport.mediaDeviceName "Nafn">
+<!ENTITY aboutSupport.mediaDeviceGroup "Hópur">
+<!ENTITY aboutSupport.mediaDeviceVendor "Hugbúnaðarsali">
+<!ENTITY aboutSupport.mediaDeviceState "Staða">
+<!ENTITY aboutSupport.mediaDevicePreferred "Kjörstilling">
+<!ENTITY aboutSupport.mediaDeviceFormat "Snið">
+<!ENTITY aboutSupport.mediaDeviceChannels "Rásir">
+<!ENTITY aboutSupport.mediaDeviceRate "Hraði">
+<!ENTITY aboutSupport.mediaDeviceLatency "Biðtími">
