@@ -12,6 +12,10 @@
 
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+在 JSON 查看器中打开
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "显示提交数据">
 
 <!ENTITY aboutTelemetry.choosePing "选择 ping：">
@@ -73,6 +77,10 @@ Ping 类型
 <!ENTITY aboutTelemetry.addonDetailsSection "   附加组件详情 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "   延迟写入">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+原始载荷
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "会话信息">
 
