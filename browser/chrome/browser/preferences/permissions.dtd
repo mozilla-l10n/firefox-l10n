@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "保存更改">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "搜索网站">
