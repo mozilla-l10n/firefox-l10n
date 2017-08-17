@@ -42,6 +42,6 @@
 <!ENTITY  shareproxy.accesskey          "B">
 <!ENTITY  autologinproxy.label          "Ikkje be om autentisering viss passordet er lagra">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Dette alternativet stadfestar deg, i det stille, til proxyar når du har lagra legitimasjon for dei. Du vil bli spurt viss godkjenninga er mislykka.">
+<!ENTITY  autologinproxy.tooltip        "Dette alternativet stadfestar deg, i det stille, til proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål om godkjenninga er mislykka.">
 <!ENTITY  socksRemoteDNS.label          "Proxy-DNS når du brukar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
