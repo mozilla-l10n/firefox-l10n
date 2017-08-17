@@ -12,14 +12,14 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ikkje lagre">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "besøkte sider">
-<!ENTITY aboutPrivateBrowsing.info.searches              "Søk">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapslar">
+<!ENTITY aboutPrivateBrowsing.info.searches              "søk">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "infokapslar">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "mellombelse filer">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagre">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "Nedlastingar">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerke">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "nedlastingar">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmerke">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjer deg ikkje anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgjevaren eller Internettleverandøren din kan framleis sjå kva for sider du vitjar.">
