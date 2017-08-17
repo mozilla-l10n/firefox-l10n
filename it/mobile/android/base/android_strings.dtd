@@ -3,14 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Benvenuto">
-<!ENTITY firstrun_urlbar_message2 "Grazie per aver scelto &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Un browser mobile moderno realizzato da Mozilla, l’organizzazione non-profit che si impegna per mantenere il Web libero e aperto.">
-<!ENTITY firstrun_panel_title_privacy "Privacy">
-<!ENTITY firstrun_privacy_message "Naviga come se nessuno stesse guardando">
-<!ENTITY firstrun_privacy_subtext "La navigaziona anonima con protezione antitracciamento blocca gli elementi traccianti durante la navigazione e non conserva alcuna cronologia quando hai finito.">
-<!ENTITY firstrun_panel_title_customize "Personalizza">
-<!ENTITY firstrun_customize_message "Trasforma Firefox nel ”tuo” browser.">
-<!ENTITY firstrun_customize_subtext "Personalizza Firefox con i componenti aggiuntivi: blocca le pubblicità, aggiungi nuove funzioni o scegli un tema che rifletta la tua personalità.">
+<!ENTITY firstrun_urlbar_message "Benvenuto in &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Trova tutto ciò che ti serve più velocemente con suggerimenti e scorciatoie di ricerca.">
 <!ENTITY firstrun_bookmarks_title "Cronologia">
 <!ENTITY firstrun_bookmarks_message "I tuoi preferiti in primo piano">
 <!ENTITY firstrun_bookmarks_subtext "Mostra risultati da segnalibri e cronologia durante le ricerche.">
@@ -18,8 +12,8 @@
 <!ENTITY firstrun_data_message "Risparmia sulla connessione">
 <!ENTITY firstrun_data_subtext2 "Disattiva le immagini per consumare meno dati ogni volta che visiti un sito.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Riprendi da dove ti eri interrotto">
-<!ENTITY firstrun_sync_subtext2 "Utilizza Sync per accedere da tutti i dispositivi a segnalibri, password e altre informazioni salvate in Firefox.">
+<!ENTITY firstrun_sync_message "&brandShortName;, sempre al tuo fianco">
+<!ENTITY firstrun_sync_subtext "Sincronizza schede, password e molto altro ancora ovunque lo utilizzi.">
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
 <!ENTITY firstrun_signin_button "Accedi a Sync">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
