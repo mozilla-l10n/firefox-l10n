@@ -109,18 +109,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri">
 <!ENTITY editThisBookmarkCmd.label "Modifica segnalibro">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY findShareServices.label "Trova altri servizi di condivisione…">
-<!ENTITY sharePageCmd.label "Condividi questa pagina">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "a">
-<!ENTITY shareLink.label "Condividi questo link">
-<!ENTITY shareLink.accesskey "u">
-<!ENTITY shareImage.label "Condividi questa immagine">
-<!ENTITY shareImage.accesskey "i">
-<!ENTITY shareSelect.label "Condividi selezione">
-<!ENTITY shareSelect.accesskey "i">
-<!ENTITY shareVideo.label "Condividi questo video">
-<!ENTITY shareVideo.accesskey "i">
 <!ENTITY feedsMenu2.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
@@ -600,12 +588,6 @@
 <!ENTITY syncReAuthItem.label "Riconnetti a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY social.addons.label "Gestione servizi…">
-<!ENTITY social.directory.label "Portale servizi">
-<!ENTITY social.directory.text "È possibile attivare nuovi servizi di condivisione dal portale dedicato.">
-<!ENTITY social.directory.button "Apri il portale">
-<!ENTITY social.directory.introText "Fai clic su un servizio per aggiungerlo a &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Ulteriori informazioni">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Strumenti e caratteristiche aggiuntive">
 <!ENTITY customizeMode.menuAndToolbars.empty "Hai bisogno di altri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Scegli tra migliaia di componenti aggiuntivi">
