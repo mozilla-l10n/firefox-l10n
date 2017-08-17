@@ -138,7 +138,7 @@
 <!ENTITY redirectLoop.title "De pagina verwijst niet op een juiste manier door">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren 
+  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren
     van cookies.</li>
 </ul>
 ">
