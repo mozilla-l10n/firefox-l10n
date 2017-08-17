@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.raw "JSON en bruto">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Abrir en el visor JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "  Mostrar datos de subsesión">
 
 <!ENTITY aboutTelemetry.choosePing "Elegir ping:">
@@ -61,6 +63,8 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalles del complemento">
 
 <!ENTITY aboutTelemetry.lateWritesSection "Últimas escrituras">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "Payload en bruto">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Información de sesión">
 
