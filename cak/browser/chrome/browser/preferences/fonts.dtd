@@ -4,14 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Ruwäch tz'ib'">
 
+<!ENTITY  fonts.label                             "Ruwäch tz'ib' richin:">
+<!ENTITY  fonts.accesskey                         "R">
 
 <!ENTITY  size2.label                             "Nimilem">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "a">
 
-<!ENTITY  proportional2.label                     "Junamil:">
+<!ENTITY  proportional2.label                     "Junamil">
+<!ENTITY  proportional2.accesskey                 "J">
 
 <!ENTITY  serif2.label                            "Seriw">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Majun-seriw">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Rujukojol cholaj">
+<!ENTITY  monospace2.accesskey                    "R">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -45,6 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Aj Tibet">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "Ko'öl runimilem tz'ib'">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Majun">
 
 <!-- default font type -->
@@ -55,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Rucholajil ruwäch tzij richin rupam sipan kan">
+<!ENTITY languages.customize.Fallback3.label      "Rucholajil rucholajem tzij, ri kan k'o wi">
+<!ENTITY languages.customize.Fallback3.accesskey  "R">
 <!ENTITY languages.customize.Fallback2.desc       "Re rucholajil rucholajem tz'ib' nokisäx richin ojer rupam, ri man nuya' ta rutzijol ri rucholajil.">
 
 <!ENTITY languages.customize.Fallback.auto        "Ri jikib'an kan richin ri ch'ab'äl re re'">
