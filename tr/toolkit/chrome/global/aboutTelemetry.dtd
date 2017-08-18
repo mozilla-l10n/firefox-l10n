@@ -76,6 +76,9 @@ Daha eski
 
 <!ENTITY aboutTelemetry.lateWritesSection "   Geç Yazmalar ">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Ham yük
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "   Oturum Bilgisi">
 
