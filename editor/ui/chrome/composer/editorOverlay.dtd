@@ -18,9 +18,9 @@
 <!ENTITY pasteAsQuotationCmd.key "O">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findReplaceCmd.label "Localizar e substituir…">
-<!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao digitar">
+<!ENTITY enableInlineSpellChecker.label "Verificar a ortografia ao digitar">
 <!ENTITY enableInlineSpellChecker.accesskey "e">
-<!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
+<!ENTITY checkSpellingCmd2.label "Verificar a ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "V">
 <!ENTITY checkSpellingCmd2.key "p">
 
