@@ -430,6 +430,7 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName;  Sa nata\&apos; rayi\&apos;î nej sa hua a\&apos;na\&apos;an">
+<!ENTITY datareporting_fhr_summary2 "Garasun nuguan\&apos;àn dâto ngà &vendorShortName; yi\&apos;î dàj hìo \&apos;iaj sun sa riña aché nut da\&apos; rugujñu\&apos;un sò\&apos; dàj garasun hue\&apos;êt ma doj">
 <!ENTITY datareporting_abouthr_title "Ni\&apos;iâ dàj hua rayi\&apos;î">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Garasun nugun\&apos;ùn\&apos; dàj nùkuaj ma, daj araj sun\&apos; ma, si gaga\&apos;aj ni nej nuguan\&apos; gachrûn\&apos; rayi\&apos;î\&apos; nga gayi\&apos;i\&apos; gaché nu\&apos; ngà &vendorShortName; da\&apos; ruguñu\&apos;unjt ñuj &brandShortName; nagi\&apos;iaj hue\&apos;ê ñuj">
