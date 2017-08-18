@@ -20,7 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Tableru de pruebes">
 
 <!ENTITY fileMenu.label               "Ficheru">
 <!ENTITY fileMenu.accesskey           "F">
@@ -124,7 +124,7 @@
 <!ENTITY helpMenuWin.label            "Ayuda">
 <!ENTITY helpMenuWin.accesskey        "y">
 
-<!ENTITY documentationLink.label      "Ayuda de borrador en MDN">
+<!ENTITY documentationLink.label      "Ayuda del tableru de pruebes en MDN">
 <!ENTITY documentationLink.accesskey  "">
 
 
