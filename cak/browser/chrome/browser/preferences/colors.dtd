@@ -14,9 +14,12 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Majub'ey">
 
 <!ENTITY  color                           "Rucholajem tzij chuqa' rupam">
+<!ENTITY  textColor2.label                "Rucholajem tz'ib'">
+<!ENTITY  textColor2.accesskey            "t">
 <!ENTITY  backgroundColor2.label          "Rupam">
+<!ENTITY  backgroundColor2.accesskey      "R">
 <!ENTITY  useSystemColors.label           "Ke'okisäx ri taq rub'onil q'inoj">
-<!ENTITY  useSystemColors.accesskey       "a">
+<!ENTITY  useSystemColors.accesskey       "q">
 
 <!ENTITY  underlineLinks.label            "Tijux kixe' ri ximonela'">
 <!ENTITY  underlineLinks.accesskey        "T">
