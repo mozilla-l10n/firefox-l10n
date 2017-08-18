@@ -139,7 +139,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Jezik">
-<!ENTITY pref_category_language_summary "Spremenite jezik vašega brskalnika">
+<!ENTITY pref_category_language_summary "Spremenite jezik brskalnika">
 <!ENTITY pref_browser_locale "Jezik brskalnika">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -219,7 +219,7 @@
 <!ENTITY pref_category_home_homepage "Domača stran">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Uporabi tudi za nove zavihke">
+<!ENTITY home_homepage_every_new_tab "Tudi za nove zavihke">
 <!ENTITY home_homepage_title "Nastavi domačo stran">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -355,7 +355,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Počisti zdaj">
 <!ENTITY pref_clear_on_exit_title3 "Počisti zasebne podatke ob izhodu">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali \u0022Izhod\u0022">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bo samodejno počistil vaše podatke, ko boste v glavnem meniju izbrali \&quot;Izhod\&quot;">
 <!ENTITY pref_clear_on_exit_dialog_title "Izberite, katere podatke želite počistiti">
 <!ENTITY pref_restore_tabs "Obnovi zavihke">
 <!ENTITY pref_restore_always "Vedno obnovi">
@@ -524,7 +524,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
-<!ENTITY pref_scroll_title_bar_summary2 "Med premikanjem po strani navzdol skrij orodno vrstico &brandShortName;">
+<!ENTITY pref_scroll_title_bar_summary2 "Med pomikanjem po strani navzdol skrij &brandShortName;ovo orodno vrstico">
 
 <!ENTITY pref_tab_queue_title3 "Čakalna vrsta zavihkov">
 <!ENTITY pref_tab_queue_summary4 "Shranite povezave, dokler naslednjič odprete &brandShortName;">
@@ -596,7 +596,7 @@
 <!ENTITY home_most_recent_empty "Tukaj se prikažejo nedavno obiskane spletne strani.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: uporaba &formatS1;Novega zasebnega zavihka&formatS2; ne shranjuje vaše zgodovine.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: z uporabo &formatS1;zasebnega zavihka&formatS2; ne boste shranjevali zgodovine.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
