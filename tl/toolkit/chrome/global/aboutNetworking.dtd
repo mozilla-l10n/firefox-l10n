@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Tungkol sa Networking">
+<!ENTITY aboutNetworking.warning               "Ito ay eksperimento. Huwag gumamit nang walang pang-adultong pangangasiwa.">
 <!ENTITY aboutNetworking.showNextTime          "Ipakita ang babalang ito sa susunod">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
@@ -30,6 +31,12 @@
 <!ENTITY aboutNetworking.bytesReceived         "Bytes na natanggap">
 <!ENTITY aboutNetworking.logging               "Naglo-log">
 <!ENTITY aboutNetworking.logTutorial           "Tingnan ang <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'> HTTP Naglo-log</a> para sa mga panuto kung paano gumamit nito.">
+<!ENTITY aboutNetworking.currentLogFile        "Kasalukuyang Log ng File:">
+<!ENTITY aboutNetworking.currentLogModules     "Kasalukuyang Log Modules:">
+<!ENTITY aboutNetworking.setLogFile            "Itakda ang Log ng File">
+<!ENTITY aboutNetworking.setLogModules         "Itakda ang Log ng mga Modules">
+<!ENTITY aboutNetworking.startLogging          "Nagsimula ang Pag-log">
+<!ENTITY aboutNetworking.stopLogging           "Itigil ang Pag-log">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Naresolba">
 <!ENTITY aboutNetworking.dnsDomain             "Domain">
@@ -37,6 +44,7 @@
 <!ENTITY aboutNetworking.rcwn                  "RCWN Stats">
 <!ENTITY aboutNetworking.rcwnStatus            "Estado ng RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Bilang ng naipanalong cache">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net ng nanalo ang bilang">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Buksan">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Basahin">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Sulat">

@@ -5,6 +5,8 @@
 <!ENTITY  security.label                 "Seguridad">
 <!ENTITY  phishingProtection.label       "Proteksyon mula sa Phishing">
 
+<!ENTITY  warnOnAddonInstall2.label       "Pagbabala sa iyo kapag sinusubukan ng mga website na mag-install ng mga add-on">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -25,6 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Mga form &amp; Mga Password">
 
+<!ENTITY  rememberLogins2.label         "Alalahanin ang mga pag-login at password para sa mga website">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Mga exceptions...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
