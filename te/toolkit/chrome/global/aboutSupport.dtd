@@ -104,6 +104,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "సులభత">
 <!ENTITY aboutSupport.a11yActivated "క్రియాశీలమైంది">
 <!ENTITY aboutSupport.a11yForceDisabled "సులభత నిరోధించు">
+<!ENTITY aboutSupport.a11yHandlerUsed "ప్రాప్యత చేయగల హ్యాండ్లర్ వాడినది">
+<!ENTITY aboutSupport.a11yInstantiator "ప్రాప్యత తక్షణం">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "లైబ్రరీ వర్షన్స్">
 
@@ -144,4 +146,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceState "స్థితి">
 <!ENTITY aboutSupport.mediaDevicePreferred "ప్రాధాన్యత">
 <!ENTITY aboutSupport.mediaDeviceFormat "రూపం">
+<!ENTITY aboutSupport.mediaDeviceChannels "వాహికలు">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latency">
