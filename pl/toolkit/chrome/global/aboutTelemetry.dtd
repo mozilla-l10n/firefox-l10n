@@ -8,6 +8,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Bieżące">
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwum">
 <!ENTITY aboutTelemetry.raw "Nieprzetworzony JSON">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otwórz w przeglądarce JSON-a Firefoksa">
 <!ENTITY aboutTelemetry.showSubsessionData "Dane podsesji">
 <!ENTITY aboutTelemetry.choosePing "Pingi:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
@@ -48,6 +49,7 @@
 <!ENTITY aboutTelemetry.lateWritesSection "
   Późne zapisy
 ">
+<!ENTITY aboutTelemetry.rawPayloadSection "Nieprzetworzona zawartość">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informacje o sesji">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
