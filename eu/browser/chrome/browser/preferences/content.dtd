@@ -14,16 +14,20 @@
 <!ENTITY  popupExceptions.label                                 "Salbuespenak…">
 <!ENTITY  popupExceptions.accesskey                             "e">
 
+<!ENTITY  permissionSettingsButton2.label                       "Ezarpenak…">
 
 <!ENTITY  notificationPermissions.label                         "Jakinarazpenak">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Argibide gehiago">
 
+<!ENTITY  locationPermissions.label                             "Kokapena">
+<!ENTITY  locationSettingsButton.accesskey                      "n">
 
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "k">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Mikrofonoa">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Letra-tipoak eta koloreak">
 
