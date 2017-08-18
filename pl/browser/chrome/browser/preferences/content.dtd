@@ -14,7 +14,7 @@
 <!ENTITY popupExceptions.label "Wyjątki…">
 <!ENTITY popupExceptions.accesskey "">
 
-<!ENTITY permissionSettingsButton.label "Ustawienia">
+<!ENTITY permissionSettingsButton2.label "Ustawienia…">
 <!ENTITY notificationPermissions.label "Powiadomienia.">
 <!ENTITY notificationSettingsButton.accesskey "">
 <!ENTITY notificationPermissionsLearnMore.label "Więcej informacji">
