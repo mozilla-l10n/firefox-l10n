@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Подешавања везе">
+<!ENTITY  window.width                  "50em">
+<!ENTITY  window.macWidth               "45em">
 
 <!ENTITY  proxyTitle.label              "Подесите прокси за приступ интернету">
 <!ENTITY  noProxyTypeRadio.label        "Без проксија">
@@ -38,3 +40,5 @@
 <!ENTITY  noproxyExplain.label          "На пример: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Користи овај прокси сервер за све протоколе">
 <!ENTITY  shareproxy.accesskey          "з">
+<!ENTITY  autologinproxy.label          "Не питај за идентификацију уколико је лозинка сачувана">
+<!ENTITY  autologinproxy.accesskey      "и">
