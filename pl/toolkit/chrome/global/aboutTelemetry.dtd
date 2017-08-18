@@ -8,7 +8,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "Bieżące">
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwum">
 <!ENTITY aboutTelemetry.raw "Nieprzetworzony JSON">
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otwórz w przeglądarce JSON-a Firefoksa">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otwórz w przeglądarce JSON-a">
 <!ENTITY aboutTelemetry.showSubsessionData "Dane podsesji">
 <!ENTITY aboutTelemetry.choosePing "Pingi:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowsze">
