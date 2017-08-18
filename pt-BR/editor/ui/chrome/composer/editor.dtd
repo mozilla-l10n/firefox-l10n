@@ -33,7 +33,7 @@
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
-<!ENTITY grid.label "Posicionando a grade">
+<!ENTITY grid.label "Posição da grade">
 <!ENTITY grid.accesskey "s">
 <!ENTITY pageProperties.label "Titulo e propriedades da página…">
 <!ENTITY pageProperties.accesskey "r">
