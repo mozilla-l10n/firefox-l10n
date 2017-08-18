@@ -45,6 +45,8 @@
 <!ENTITY aboutNetworking.rcwnStatus            "Estado ng RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Bilang ng naipanalong cache">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net ng nanalo ang bilang">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Kabuuang bilang ng kahilingan sa network">
+<!ENTITY aboutNetworking.rcwnOperation         "Cache na Operation">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Buksan">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Basahin">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Sulat">
@@ -52,3 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Maikling Katampatan">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Mahabang Katampatan">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Mahabang Standard Deviation">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Mabagal ang bilang ng cache">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Hindi mabagal ang bilang ng cache">
