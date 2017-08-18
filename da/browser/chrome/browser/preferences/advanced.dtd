@@ -105,7 +105,7 @@ available. -->
 <!ENTITY updateHistory2.label             "Vis opdateringshistorik…">
 <!ENTITY updateHistory2.accesskey         "V">
 
-<!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
+<!ENTITY useService.label                "bruge en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label        "opdatere søgetjenester automatisk">
