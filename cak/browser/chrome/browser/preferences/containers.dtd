@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Titz'aqatisäx k'ak'a' k'wayöl">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "B'i'aj:">
-<!ENTITY name.accesskey       "B">
+<!ENTITY name2.label          "B'i'aj">
+<!ENTITY name2.accesskey      "B">
 <!ENTITY name.placeholder     "Tatz'ib'aj jun rub'i' k'wayöl">
-<!ENTITY icon.label           "Wachib'äl:">
-<!ENTITY icon.accesskey       "W">
-<!ENTITY color.label          "B'onil:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "Wachib'äl">
+<!ENTITY icon2.accesskey      "W">
+<!ENTITY color2.label         "B'onil">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Xk'is">
 <!ENTITY button.ok.accesskey  "X">
-

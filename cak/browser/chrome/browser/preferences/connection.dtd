@@ -20,16 +20,27 @@
 <!ENTITY  autoTypeRadio2.accesskey      "R">
 <!ENTITY  reload.label                  "Tisamajib'ëx chik">
 <!ENTITY  reload.accesskey              "s">
+<!ENTITY  ftp2.label                    "FTP Proxi">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP Proxi">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL Proxi">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS Ula'om">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "K'exel DNS toq nawokisaj SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  port2.label                   "B'ey">
+<!ENTITY  HTTPport.accesskey            "B">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Majun Proxi richin">
+<!ENTITY  noproxy2.accesskey            "m">
 <!ENTITY  noproxyExplain.label          "Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tokisäx ri junam proxi chi ke konojel">
 <!ENTITY  shareproxy.accesskey          "o">
