@@ -180,12 +180,12 @@
 <!ENTITY listPropsCmd.label "Propriedades da lista…">
 <!ENTITY listPropsCmd.accesskey "P">
 
-<!ENTITY ParagraphSelect.tooltip "Selecionar um formato de parágrafo">
+<!ENTITY ParagraphSelect.tooltip "Escolher um formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo do texto">
 <!ENTITY bodyTextCmd.accesskey "N">
 <!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Propriedades avançadas…">
+<!ENTITY advancedPropertiesCmd.label "Propriedades avançadas">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
@@ -275,7 +275,7 @@
 -->
 <!ENTITY tableJoinCells.label "m">
 <!ENTITY tableJoinCells.accesskey "m">
-<!ENTITY tableSplitCell.label "Dividir célula">
+<!ENTITY tableSplitCell.label "Dividir a célula">
 <!ENTITY tableSplitCell.accesskey "D">
 <!ENTITY convertToTable.label "Criar tabela a partir da seleção">
 <!ENTITY convertToTable.accesskey "t">
@@ -291,7 +291,7 @@
 <!ENTITY printToolbarCmd.label "Imprimir">
 <!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Localizar">
-<!ENTITY findToolbarCmd.tooltip "Localizar e substituir">
+<!ENTITY findToolbarCmd.tooltip "Localizar texto na página">
 <!ENTITY spellToolbarCmd.label "Ortografia">
 <!ENTITY spellToolbarCmd.tooltip "Verificar a ortografia da seleção ou da página inteira">
 <!ENTITY imageToolbarCmd.label "Imagem">
@@ -342,5 +342,5 @@
 <!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Remover">
 <!ENTITY removeTOC.accesskey      "R">
-<!ENTITY tocMenu.label            "Sumário">
+<!ENTITY tocMenu.label            "Sumário…">
 <!ENTITY tocMenu.accesskey        "S">
