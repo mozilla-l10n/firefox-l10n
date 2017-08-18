@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Açılır pencereleri engelle">
 <!ENTITY  blockPopups.accesskey       "n">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Daha fazla bilgi al">
-<!ENTITY  notificationsPolicyDesc4.label       "Hangi sitelerin size bildirim gönderebileceğini seçin">
-<!ENTITY  notificationsPolicyButton.accesskey  "e">
-<!ENTITY  notificationsPolicyButton.label      "Seç…">
 <!ENTITY  notificationsDoNotDisturb.label      "Beni rahatsız etme">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "h">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; yeniden başlatılana kadar hiçbir bildirim gösterilmeyecektir">
 
-<!ENTITY  popupExceptions.label       "İstisnalar…">
-<!ENTITY  popupExceptions.accesskey   "a">
+<!ENTITY  popupExceptions.label                                 "İstisnalar…">
+<!ENTITY  popupExceptions.accesskey                             "a">
+
+<!ENTITY  permissionSettingsButton2.label                       "Ayarlar…">
+
+<!ENTITY  notificationPermissions.label                         "Uyarılar">
+<!ENTITY  notificationSettingsButton.accesskey                  "a">
+<!ENTITY  notificationPermissionsLearnMore.label                "Daha fazlası">
+
+<!ENTITY  locationPermissions.label                             "Konum">
+<!ENTITY  locationSettingsButton.accesskey                      "u">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "k">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 

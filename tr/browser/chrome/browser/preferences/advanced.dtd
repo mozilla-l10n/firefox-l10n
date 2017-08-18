@@ -93,6 +93,7 @@ available. -->
 <!ENTITY updateApplicationDescription.label
                                          "En yüksek performans, güvenilirlik ve güvenlik için &brandShortName; tarayıcınızı güncel tutmalısınız.">
 <!ENTITY updateApplication.version.pre   "Sürüm ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; tarayıcım">
 <!ENTITY updateAuto3.label               "Güncellemeleri otomatik olarak yüklesin (Önerilir)">
 <!ENTITY updateAuto3.accesskey           "o">
