@@ -25,3 +25,5 @@
 <!ENTITY button.cancel.accesskey "">
 <!ENTITY button.ok.label "Zachowaj">
 <!ENTITY button.ok.accesskey "">
+
+<!ENTITY searchbox.placeholder "Szukaj witryn">
