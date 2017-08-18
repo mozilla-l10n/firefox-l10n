@@ -193,7 +193,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in se dotaknete ikone &formatI;.">
+<!ENTITY pref_search_hint2 "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da pridržite prst na njenem polju za iskanje in se dotaknete ikone &formatI;.">
 <!ENTITY pref_category_advanced "Napredno">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -205,7 +205,7 @@
 <!ENTITY pref_content_notifications_summary2 "Odkrijte novo vsebino iz podprtih strani">
 <!ENTITY pref_developer_remotedebugging_usb "Oddaljeno razhroščevanje USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Oddaljeno razhroščevanje Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Razhroščevanje Wi-Fi zahteva, da ima vaša naprava nameščeno aplikacijo za branje QR-kode.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Razhroščevanje Wi-Fi zahteva, da ima vaša naprava nameščeno aplikacijo za branje QR-kod.">
 <!ENTITY pref_remember_signons2 "Shranjuj prijave">
 <!ENTITY pref_manage_logins "Upravljanje prijav">
 
@@ -347,7 +347,7 @@
      documentation for DateFormat.getMediumDateFormat(). -->
 <!ENTITY content_notification_updated_on "Posodobljeno &formatS;">
 
-<!ENTITY pref_char_encoding "Pokaži nabor znakov">
+<!ENTITY pref_char_encoding "Kodiranje znakov">
 <!ENTITY pref_char_encoding_on "Pokaži meni">
 <!ENTITY pref_char_encoding_off "Ne pokaži menija">
 <!ENTITY pref_clear_private_data2 "Počisti zasebne podatke">
@@ -384,7 +384,7 @@
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Odpri zavihke">
+<!ENTITY pref_private_data_openTabs "Odprti zavihki">
 <!ENTITY pref_private_data_history2 "Zgodovina brskanja">
 <!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
 <!ENTITY pref_private_data_formdata2 "Zgodovina obrazcev">
@@ -468,7 +468,7 @@
 <!ENTITY page "Stran">
 <!ENTITY tools "Orodja">
 <!ENTITY new_tab "Nov zavihek">
-<!ENTITY new_private_tab "Nov zasebni zavihek">
+<!ENTITY new_private_tab "Nov zaseben zavihek">
 <!ENTITY close_all_tabs "Zapri vse zavihke">
 <!ENTITY close_private_tabs "Zapri zasebne zavihke">
 <!ENTITY tabs_normal "Zavihki">
@@ -670,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Onemogoči zaščito">
 
 <!ENTITY private_data_success "Zasebni podatki počiščeni">
-<!ENTITY private_data_fail "Nekateri zasebni podatki niso bilo počiščeni">
+<!ENTITY private_data_fail "Nekateri zasebni podatki niso bili počiščeni">
 
 <!ENTITY bookmarkhistory_button_import "Uvozi">
 <!ENTITY bookmarkhistory_import_both "Uvažam zaznamke in zgodovino
@@ -722,7 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Nadaljuj">
 <!ENTITY guest_session_dialog_cancel "Prekliči">
 <!ENTITY new_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
-<!ENTITY new_guest_session_text2 "Oseba, ki ga uporablja, ne bo mogla videti vaših zasebnih podatkov (shranjenih prijav, zgodovine ali zaznamkov).\n\nKo bo vaš gost končal, bodo njegovi podatki izbrisani, vaša seja pa obnovljena.">
+<!ENTITY new_guest_session_text2 "Oseba, ki ga bo uporabljala, ne bo mogla videti vaših zasebnih podatkov (shranjenih prijav, zgodovine ali zaznamkov).\n\nKo bo vaš gost končal, bodo njegovi podatki izbrisani, vaša seja pa obnovljena.">
 <!ENTITY guest_browsing_notification_title "Gostujoče brskanje je omogočeno">
 <!ENTITY guest_browsing_notification_text "Tapnite za izhod">
 

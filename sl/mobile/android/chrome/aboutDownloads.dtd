@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDownloads.title                      "Prenosi">
 <!ENTITY aboutDownloads.header                     "Vaši prenosi">
-<!ENTITY aboutDownloads.empty                      "Brez prenosov">
+<!ENTITY aboutDownloads.empty                      "Ni prenosov">
 
 <!ENTITY aboutDownloads.open                       "Odpri">
 <!ENTITY aboutDownloads.remove                     "Izbriši">
