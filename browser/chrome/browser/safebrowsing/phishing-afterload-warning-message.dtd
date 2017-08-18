@@ -35,3 +35,4 @@
 <!ENTITY safeb.blocked.harmfulPage.title "Bu sitede kötü amaçlı yazılımlar olabilir">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "Bu sayfa, kişisel bilgilerinizi (örneğin fotoğraflar, parolalar, mesajlar ve kredi kartları) çalmak veya silmek isteyen uygulamalar yüklemeye çalışabilir. O yüzden Firefox bu sayfayı engelledi.">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
