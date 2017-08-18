@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bladwijzer voor deze pagina maken">
 <!ENTITY editThisBookmarkCmd.label "Deze bladwijzer bewerken">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Meer deelservices vinden…">
-<!ENTITY sharePageCmd.label "Deze pagina delen">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "d">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Deze koppeling delen">
-<!ENTITY shareLink.accesskey "d">
-<!ENTITY shareImage.label "Deze afbeelding delen">
-<!ENTITY shareImage.accesskey "z">
-<!ENTITY shareSelect.label "Selectie delen">
-<!ENTITY shareSelect.accesskey "S">
-<!ENTITY shareVideo.label "Deze video delen">
-<!ENTITY shareVideo.accesskey "z">
+
 <!ENTITY feedsMenu2.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
@@ -841,14 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
 
-<!ENTITY social.addons.label "Services beheren…">
-
-<!ENTITY social.directory.label "Activeringslijst">
-<!ENTITY social.directory.text "U kunt deelservices van de lijst activeren.">
-<!ENTITY social.directory.button "Ernaartoe!">
-<!ENTITY social.directory.introText "Klik op een service om deze aan &brandShortName; toe te voegen.">
-<!ENTITY social.directory.viewmore.text "Meer weergeven">
-
 <!ENTITY customizeMode.menuAndToolbars.header2 "Extra hulpmiddelen en functies">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wilt u meer hulpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duizenden add-ons">
@@ -996,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
 <!ENTITY pageAction.removeFromUrlbar.label "Verwijderen van adresbalk">
 
-<!ENTITY sendToDevice.label2 "Verzenden naar apparaat">
+<!ENTITY sendToDevice.label3 "Pagina naar apparaat verzenden">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
