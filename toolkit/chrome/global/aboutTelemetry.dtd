@@ -20,6 +20,9 @@
 Необрађен JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Отвори у JSON приказивачу">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Прикажи податке сесије
 ">
@@ -117,6 +120,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection "
   Касна писања
 ">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Raw Payload">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Информације о сесији
