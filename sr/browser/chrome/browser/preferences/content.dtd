@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Блокирај искачуће прозоре">
 <!ENTITY  blockPopups.accesskey       "ч">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Сазнајте више">
-<!ENTITY  notificationsPolicyDesc4.label       "Изаберите којим веб сајтовима је дозвољено да вам шаљу обавештења">
-<!ENTITY  notificationsPolicyButton.accesskey  "И">
-<!ENTITY  notificationsPolicyButton.label      "Избор…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не узнемиравај ме">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "Н">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Обавештења неће бити приказана док не рестартујете &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Изузеци">
-<!ENTITY  popupExceptions.accesskey   "И">
+<!ENTITY  popupExceptions.label                                 "Изузеци">
+<!ENTITY  popupExceptions.accesskey                             "И">
+
+<!ENTITY  permissionSettingsButton2.label                       "Поставке…">
+
+<!ENTITY  notificationPermissions.label                         "Обавешетења">
+<!ENTITY  notificationSettingsButton.accesskey                  "н">
+<!ENTITY  notificationPermissionsLearnMore.label                "Сазнајте више">
+
+<!ENTITY  locationPermissions.label                             "Локација">
+<!ENTITY  locationSettingsButton.accesskey                      "л">
+
+<!ENTITY  cameraPermissions.label                               "Камера">
+<!ENTITY  cameraSettingsButton.accesskey                        "к">
+
+<!ENTITY  microphonePermissions.label                           "Микрофон">
+<!ENTITY  microphoneSettingsButton.accesskey                    "м">
 
 <!ENTITY  fontsAndColors.label        "Фонт и боје">
 
