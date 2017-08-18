@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cachearen irabazi kopurua">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Sarearen irabazi kopurua">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Sareko eskaera kopurua guztira">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "Cache eragiketa">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ireki">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Irakurri">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Idatzi">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Sarrera irekita">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Batez besteko laburra">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Batez besteko luzea">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Desbideratze estandar luzea">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache motel kopurua">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache ez motel kopurua">

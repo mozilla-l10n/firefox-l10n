@@ -66,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprozesu leihoak">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Webeko eduki-prozesuak">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google gakoa">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service gakoa">
@@ -105,8 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Erabilgarritasuna">
 <!ENTITY aboutSupport.a11yActivated "Aktibatuta">
 <!ENTITY aboutSupport.a11yForceDisabled "Eragotzi erabilgarritasuna">
-
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Maneiatzaile erabilerraza erabilita">
+<!ENTITY aboutSupport.a11yInstantiator "Erabilerraztasunaren instantziatzailea">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Liburutegien bertsioak">
 
@@ -138,14 +139,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Babestu desgaitutako eginbideen hutsegiteak">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Behin-behineko konponbideak">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Multimedia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Irteerako gailuak">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Sarrerako gailuak">
+<!ENTITY aboutSupport.mediaDeviceName "Izena">
+<!ENTITY aboutSupport.mediaDeviceGroup "Taldea">
+<!ENTITY aboutSupport.mediaDeviceVendor "Hornitzailea">
+<!ENTITY aboutSupport.mediaDeviceState "Egoera">
+<!ENTITY aboutSupport.mediaDevicePreferred "Hobetsia">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formatua">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanalak">
+<!ENTITY aboutSupport.mediaDeviceRate "Emaria">
+<!ENTITY aboutSupport.mediaDeviceLatency "Atzerapena">
