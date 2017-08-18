@@ -12,6 +12,10 @@
 
 <!ENTITY aboutTelemetry.raw "Ham JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+JSON görüntüleyicide aç
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Alt oturum verilerini göster">
 
 <!ENTITY aboutTelemetry.choosePing "Ping'i seçin:">
@@ -71,6 +75,7 @@ Daha eski
 <!ENTITY aboutTelemetry.addonDetailsSection "Eklenti Ayrıntıları">
 
 <!ENTITY aboutTelemetry.lateWritesSection "   Geç Yazmalar ">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "   Oturum Bilgisi">
 
