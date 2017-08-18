@@ -43,14 +43,14 @@
 <!ENTITY  acceptCookies2.label          "వెబ్‌సైటుల నుండి కుకీలను ఆమోదించు">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "మూడో-పార్టీ కుకీలను ఆమోదించు:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty2.pre.label     "మూడో-పార్టీ కుకీలను ఆమోదించు">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "ఎల్లప్పుడూ">
 <!ENTITY  acceptThirdParty.never.label    "ఎప్పటికీకాదు">
 <!ENTITY  acceptThirdParty.visited.label  "సందర్శించిన నాటి నుండి">
 
-<!ENTITY  keepUntil.label               "ఇంత వరకు ఉంచు:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil2.label              "ఇంత వరకు ఉంచు">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "అవి కాలంచెల్లే వరకు">
 <!ENTITY  close.label                   "నేను &brandShortName;ను మూసివేసేంత వరకు">

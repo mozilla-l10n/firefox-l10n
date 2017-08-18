@@ -10,7 +10,14 @@
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "సెరీఫ్">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "సాన్స్-సెరీఫ్">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "మోనోస్పేస్">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -44,6 +51,8 @@
 <!ENTITY  font.langGroup.sinhala                  "సింహళం">
 <!ENTITY  font.langGroup.tibetan                  "టిబెటన్">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "కనీస ఫాంటు పరిమాణం">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "ఏదీకాదు">
 
 <!-- default font type -->
@@ -54,6 +63,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "సంక్రమిత కాంటెంట్ కొరకు పాఠ్యపు ఎన్‌కోడింగు">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "ఏదైనా సంక్రమిత పాఠ్యం దాని ఎన్‌కోడింగును వెల్లడిచేయనప్పుడు ఈ ఎన్‌కోడింగు వాడబడుతుంది.">
 
 <!ENTITY languages.customize.Fallback.auto        "ప్రస్తుత స్థానికపు అప్రమేయం">

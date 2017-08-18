@@ -25,6 +25,7 @@
 
 <!ENTITY  logins.label                  "ప్రవేశాలు">
 
+<!ENTITY  rememberLogins2.label         "సైట్లలోని ప్రవేశాలను గుర్తుంచుకో">
 <!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "మినహాయింపులు…">
 <!ENTITY  passwordExceptions.accesskey  "x">
