@@ -10,16 +10,16 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Barra de ferramentas">
-<!ENTITY previewToolbarCmd.label "Visualizar">
+<!ENTITY compositionToolbar.tooltip "Barra de composição">
+<!ENTITY previewToolbarCmd.label "Navegar">
 <!ENTITY previewToolbarCmd.tooltip "Carregar esta página no navegador">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportar como texto…">
 <!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY previewCmd.label "Visualizar">
+<!ENTITY previewCmd.label "Navegar na página">
 <!ENTITY previewCmd.accesskey "z">
-<!ENTITY sendPageCmd.label "Enviar página">
+<!ENTITY sendPageCmd.label "Enviar a página…">
 <!ENTITY sendPageCmd.accesskey "E">
 
 <!-- View menu items -->
@@ -27,13 +27,13 @@
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "f">
-<!ENTITY editmodeToolbarCmd.label "Modo de edição">
+<!ENTITY editmodeToolbarCmd.label "Barra do modo de edição">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
-<!ENTITY grid.label "Posicionar no grid…">
+<!ENTITY grid.label "Posicionando a grade">
 <!ENTITY grid.accesskey "s">
 <!ENTITY pageProperties.label "Titulo e propriedades da página…">
 <!ENTITY pageProperties.accesskey "r">
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Visualizar">
 <!ENTITY PreviewMode.label "Visualizar">
 <!ENTITY PreviewMode.accesskey "z">
-<!ENTITY PreviewMode.tooltip "Visualizar como a página ficará no navegador">
+<!ENTITY PreviewMode.tooltip "Exibir como WYSIWYG (como é no navegador)">
