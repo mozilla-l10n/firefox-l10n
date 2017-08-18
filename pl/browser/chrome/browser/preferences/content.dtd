@@ -7,16 +7,23 @@
 <!ENTITY blockPopups.label "Blokowanie wyskakujących okien">
 <!ENTITY blockPopups.accesskey "">
 
-<!ENTITY notificationsPolicyLearnMore.label "Więcej informacji">
-<!ENTITY notificationsPolicyDesc4.label "Wybierz witryny mogące wyświetlać powiadomienia.">
-<!ENTITY notificationsPolicyButton.label "Wybierz…">
-<!ENTITY notificationsPolicyButton.accesskey "">
 <!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
 <!ENTITY notificationsDoNotDisturb.accesskey "">
 <!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
 
 <!ENTITY popupExceptions.label "Wyjątki…">
 <!ENTITY popupExceptions.accesskey "">
+
+<!ENTITY permissionSettingsButton.label "Ustawienia">
+<!ENTITY notificationPermissions.label "Powiadomienia.">
+<!ENTITY notificationSettingsButton.accesskey "">
+<!ENTITY notificationPermissionsLearnMore.label "Więcej informacji">
+<!ENTITY locationPermissions.label "Położenie">
+<!ENTITY locationSettingsButton.accesskey "">
+<!ENTITY cameraPermissions.label "Kamera">
+<!ENTITY cameraSettingsButton.accesskey "">
+<!ENTITY microphonePermissions.label "Mikrofon">
+<!ENTITY microphoneSettingsButton.accesskey "">
 
 <!ENTITY fontsAndColors.label "Czcionki i kolory">
 <!ENTITY defaultFont2.label "Domyślna czcionka:">
