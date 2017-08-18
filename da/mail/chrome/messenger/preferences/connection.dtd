@@ -42,3 +42,5 @@
 <!ENTITY  shareproxy.accesskey          "B">
 <!ENTITY  autologinproxy.label          "Spørg ikke efter godkendelse, hvis adgangskoden er gemt">
 <!ENTITY  autologinproxy.accesskey      "g">
+<!ENTITY  socksRemoteDNS.label          "Proxy-DNS ved brug af SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
