@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON gordina">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ireki JSON ikustailean">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
@@ -23,6 +24,7 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping mota">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
@@ -30,6 +32,7 @@
 
 <!ENTITY aboutTelemetry.optionGroupYesterday "Atzo">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Zaharragoa">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datu orokorrak">
 
@@ -61,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Idazketa berantiarrak">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Eskaera-karga gordina">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Saioaren informazioa">
 
