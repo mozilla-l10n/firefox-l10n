@@ -24,3 +24,7 @@
 <!ENTITY  underlineLinks.label            "סמן קישורים בקו תחתי">
 <!ENTITY  underlineLinks.accesskey        "ס">
 <!ENTITY  links                           "צבעי קישור">
+<!ENTITY  linkColor2.label                "קישורים שלא ביקרנו בהם">
+<!ENTITY  linkColor2.accesskey            "ל">
+<!ENTITY  visitedLinkColor2.label         "קישורים שביקרנו בהם">
+<!ENTITY  visitedLinkColor2.accesskey     "ב">
