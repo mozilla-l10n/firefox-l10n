@@ -14,33 +14,22 @@
 <!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  WPADTypeRadio.label           "Pa ruyonil trïl runuk'ulem ri proxi richin re k'amab'ey re'">
 <!ENTITY  WPADTypeRadio.accesskey       "b">
-<!ENTITY  manualTypeRadio.label         "Tanuk'samajij retamawuj proxi:">
-<!ENTITY  manualTypeRadio.accesskey     "r">
-<!ENTITY  autoTypeRadio.label           "JAY richin runuk'ulem pa ruyonil ri proxi:">
-<!ENTITY  autoTypeRadio.accesskey       "y">
+<!ENTITY  manualTypeRadio2.label        "Etamawuj proxi runuk'ulem">
+<!ENTITY  manualTypeRadio2.accesskey    "e">
+<!ENTITY  autoTypeRadio2.label          "Ruyon poxi runuk'ulem URL">
+<!ENTITY  autoTypeRadio2.accesskey      "R">
 <!ENTITY  reload.label                  "Tisamajib'ëx chik">
 <!ENTITY  reload.accesskey              "s">
-<!ENTITY  ftp.label                     "FTP Proxy:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP proxi:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL Proxy:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS Ruk'u'x Samaj:">
-<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "K'exel DNS toq nawokisaj SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "B'ey:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Mani nokisäx proxi richin:">
-<!ENTITY  noproxy.accesskey             "M">
 <!ENTITY  noproxyExplain.label          "Tz'eteb'äl: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tokisäx ri junam proxi chi ke konojel">
 <!ENTITY  shareproxy.accesskey          "o">
