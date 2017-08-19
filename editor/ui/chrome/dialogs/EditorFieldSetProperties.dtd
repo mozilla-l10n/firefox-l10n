@@ -7,14 +7,14 @@
 <!ENTITY Legend.label "Legenda">
 <!ENTITY Legend.accesskey "L">
 
-<!ENTITY EditLegendText.label "Editar legenda:">
+<!ENTITY EditLegendText.label "Editar a legenda:">
 <!ENTITY EditLegendText.accesskey "E">
-<!ENTITY LegendAlign.label "Alinhar legenda:">
+<!ENTITY LegendAlign.label "Alinhar a legenda:">
 <!ENTITY LegendAlign.accesskey "A">
 <!ENTITY AlignDefault.label "Padrão">
-<!ENTITY AlignLeft.label "Esquerdo">
+<!ENTITY AlignLeft.label "Esquerda">
 <!ENTITY AlignCenter.label "Centralizado">
-<!ENTITY AlignRight.label "Direito">
+<!ENTITY AlignRight.label "Direita">
 
 <!ENTITY RemoveFieldSet.label "Remover agrupamento de campos">
 <!ENTITY RemoveFieldSet.accesskey "R">
