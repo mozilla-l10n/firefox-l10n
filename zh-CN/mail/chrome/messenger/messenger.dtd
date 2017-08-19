@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "编辑草稿邮件">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY newMsgFromTemplateCmd.label "依托模板新建邮件">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "根据消息创建过滤器…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "移动到">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "按附件排序">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "依托模板新建邮件">
 <!ENTITY contextOpenNewWindow.label "在新窗口中打开消息">
 <!ENTITY contextOpenNewWindow.accesskey "W">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "在新标签页中打开消息">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "在会话中打开消息">
