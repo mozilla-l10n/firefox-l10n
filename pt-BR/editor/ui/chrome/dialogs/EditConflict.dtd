@@ -7,4 +7,4 @@
 <!ENTITY conflictWarning.label "Esta página foi modificada por outro programa, mas você também tem alterações não salvas no Composer.">
 <!ENTITY conflictResolve.label "Selecione qual versão manter:">
 <!ENTITY keepCurrentPageButton.label "Manter alterações da página atual">
-<!ENTITY useOtherPageButton.label "Substituir pelas outras alterações">
+<!ENTITY useOtherPageButton.label "Substituir a página atual com outras alterações">

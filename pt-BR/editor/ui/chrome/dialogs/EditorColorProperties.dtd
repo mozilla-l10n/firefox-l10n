@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Plano de fundo e cores da página">
+<!ENTITY windowTitle.label "Cores e plano de fundo da página">
 <!ENTITY pageColors.label "Cores da página">
-<!ENTITY defaultColorsRadio.label "Não definir as cores da página (usar as cores padrão do visitante)">
+<!ENTITY defaultColorsRadio.label "Padrão de cores do Leitor (Não definir as cores na página)">
 <!ENTITY defaultColorsRadio.accessKey "N">
 <!ENTITY defaultColorsRadio.tooltip "Usar as configurações de cor do navegador do visitante">
 <!ENTITY customColorsRadio.label "Usar cores personalizadas:">
@@ -14,9 +14,9 @@
 
 <!ENTITY normalText.label "Texto normal">
 <!ENTITY normalText.accessKey "T">
-<!ENTITY linkText.label "Link - normal">
+<!ENTITY linkText.label "Link textual">
 <!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "Link - ativo">
+<!ENTITY activeLinkText.label "Texto do link ativo">
 <!ENTITY activeLinkText.accessKey "a">
 <!ENTITY visitedLinkText.label "Link - visitado">
 <!ENTITY visitedLinkText.accessKey "v">
