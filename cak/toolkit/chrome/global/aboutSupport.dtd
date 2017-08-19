@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Etamab'äl richin yesol taq k'ayewal">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Pa re ruxaq re' k'o samajel etamab'äl chupam, ri nito'on we nawajo' nasöl jun k'ayewal. Richin nawïl kitzijol relik taq k'utunïk chi rij &brandShortName;, kab'etz'eton pa qa <a id='supportLink'>ruxaq k'amaya'l richin to'ïk</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rutzijol taq sachoj">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "B'i'aj">
 <!ENTITY aboutSupport.appBasicsVersion "Ruwäch">
 <!ENTITY aboutSupport.appBasicsBuildID "Nimaläj rub'i' molïk">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Rub'ey taq k'exoj ruwäch">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Kinatab'al taq k'exoj ruwäch">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tik'ut pe ri kinatab'al taq k'exoj ruwäch">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Rokisaxik rupam rujolom">
 <!ENTITY aboutSupport.appBasicsPerformance "Rub'eyal nisamäj">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Samajela' pa samaj tz'ib'an kib'i'">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Taq ruwäch b'i'aj">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "K'exon nimaläj taq ajowanïk">
 <!ENTITY aboutSupport.modifiedPrefsName "B'i'aj">
 <!ENTITY aboutSupport.modifiedPrefsValue "Retal">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "taq Ajowanïk pa user.js">
 <!ENTITY aboutSupport.userJSDescription "Ri amolyakb'äl ruwäch b'i'aj k'o jun <a id='prefs-user-js-link'>archivo user.js</a> chupam, ri rachib'ilan taq ajowanïk man enuk'un ta ruma ri &brandShortName;.">
 
@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Tzijïl">
 <!ENTITY aboutSupport.a11yForceDisabled "Tichajïx apo ri okel">
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler Etz'ab'al Okisan">
+<!ENTITY aboutSupport.a11yInstantiator "Okem Chanin">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Taq ruwäch richin wujb'äl">
 

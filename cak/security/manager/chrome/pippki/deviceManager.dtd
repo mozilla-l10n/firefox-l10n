@@ -28,6 +28,8 @@
 <!ENTITY loaddevice.modname2                    "Rub'i' Juperaj">
 <!ENTITY loaddevice.modname2.accesskey          "J">
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
+<!ENTITY loaddevice.filename2                   "Rub'i' ruyakb'al juperaj">
+<!ENTITY loaddevice.filename2.accesskey         "r">
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
