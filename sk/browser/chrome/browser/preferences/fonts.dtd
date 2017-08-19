@@ -4,22 +4,14 @@
 
 <!ENTITY  fontsDialog.title                       "Písma">
 
-<!ENTITY  language.label                          "Písma pre:">
-<!ENTITY  language.accesskey                      "m">
+<!ENTITY  fonts.label                             "Písma pre">
+<!ENTITY  fonts.accesskey                         "P">
 
-<!ENTITY  size.label                              "Veľkosť:">
+<!ENTITY  size2.label                             "Veľkosť">
 <!ENTITY  sizeProportional.accesskey              "V">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "S premenlivou šírkou:">
-<!ENTITY  proportional.accesskey                  "S">
 
-<!ENTITY  serif.label                             "Pätkové (serif):">
-<!ENTITY  serif.accesskey                         "t">
-<!ENTITY  sans-serif.label                        "Bezpätkové (sans-serif):">
-<!ENTITY  sans-serif.accesskey                    "B">
-<!ENTITY  monospace.label                         "Pevná šírka:">
-<!ENTITY  monospace.accesskey                     "r">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +45,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhalské">
 <!ENTITY  font.langGroup.tibetan                  "Tibetské">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimálna veľkosť písma:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Minimálna veľkosť písma">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Žiadne">
 
 <!-- default font type -->
@@ -65,8 +57,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "o">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Kódovanie textu pre starší obsah">
-<!ENTITY languages.customize.Fallback2.label      "Použiť nasledovné kódovanie:">
-<!ENTITY languages.customize.Fallback2.accesskey  "k">
+<!ENTITY languages.customize.Fallback3.label      "Použiť nasledovné kódovanie">
+<!ENTITY languages.customize.Fallback3.accesskey  "u">
 <!ENTITY languages.customize.Fallback2.desc       "Toto kódovanie textu je používané pre starší obsah, ktorý nedefinuje svoje kódovanie.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predvolené pre aktuálny jazyk">
