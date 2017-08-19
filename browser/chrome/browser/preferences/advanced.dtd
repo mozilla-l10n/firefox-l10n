@@ -27,6 +27,7 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้">
 
 <!ENTITY enableHealthReport1.label       "อนุญาตให้ &brandShortName; ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง Mozilla โดยอัตโนมัติ">
 <!ENTITY enableHealthReport1.accesskey   "อ">
