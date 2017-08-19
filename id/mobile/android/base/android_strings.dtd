@@ -298,10 +298,6 @@
 <!ENTITY pref_pwa "Aplikasi Web Progresif">
 <!ENTITY pref_pwa_summary "Izinkan aplikasi web ditambahkan ke layar beranda">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aliran Aktivitas">
-<!ENTITY pref_activity_stream_summary "Sebuah umpan balik riwayat visual yang kaya serta beranda yang dikonsep ulang untuk mempermudah Anda menemukan apa yang ingin dicari di &brandShortName;.">
-
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
 <!ENTITY tracking_protection_prompt_text "Secara aktif memblokir elemen pelacakan sehingga Anda tidak perlu khawatir.">
 <!ENTITY tracking_protection_prompt_tip_text "Kunjungi setelan Privasi untuk mempelajari lebih lanjut">
@@ -332,7 +328,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Untuk \&quot;Membuka banyak tautan\&quot;, aktifkan izin \u0027Gambar di atas aplikasi lain\u0027 untuk &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Untuk \&quot;Membuka banyak tautan\&quot;, aktifkan izin \&apos;Gambar di atas aplikasi lain\&apos; untuk &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -359,12 +355,8 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Bersihkan sekarang">
 <!ENTITY pref_clear_on_exit_title3 "Hapus data pribadi saat keluar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih \u0022Keluar\u0022 dari menu utama">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan membersihkan data Anda secara otomatis setiap Anda memilih \&quot;Keluar\&quot; dari menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang akan dibersihkan">
-<!ENTITY pref_plugins "Plugin">
-<!ENTITY pref_plugins_enabled "Aktif">
-<!ENTITY pref_plugins_tap_to_play2 "Sentuh untuk mainkan">
-<!ENTITY pref_plugins_disabled "Matikan">
 <!ENTITY pref_restore_tabs "Pulihkan tab">
 <!ENTITY pref_restore_always "Selalu pulihkan">
 <!ENTITY pref_restore_quit "Jangan pulihkan setelah keluar dari &brandShortName;">
@@ -851,3 +843,5 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Selamat datang di Sorotan">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; sekarang membuat sorotan dari hal-hal yang Anda temukan di web sehingga Anda dapat menemukan kembali artikel, video, markah, dan halaman lainnya.">
+
+<!ENTITY private_tab_panel_title "Penjelajahan Pribadi + Perlindungan Pelacakan">
