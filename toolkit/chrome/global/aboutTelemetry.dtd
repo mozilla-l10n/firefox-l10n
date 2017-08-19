@@ -84,10 +84,6 @@ Ouder
   Browservastlopers
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Threadvastlopers
-">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Vastgelegde stacks
 ">
