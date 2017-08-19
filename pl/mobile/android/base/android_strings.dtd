@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
-
-<!ENTITY firstrun_urlbar_message "Witamy w przeglądarce &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Wyszukuj szybciej dzięki pomocnym podpowiedziom.">
+<!ENTITY firstrun_urlbar_message2 "Dziękujemy za wybranie przeglądarki &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Nowoczesna przeglądarka od Mozilli, organizacji non-profit oddanej wolnemu i otwartemu Internetowi.">
+<!ENTITY firstrun_panel_title_privacy "Prywatność">
+<!ENTITY firstrun_privacy_message "Przeglądaj, jak gdyby nikt nie patrzył">
+<!ENTITY firstrun_privacy_subtext "Przeglądanie prywatne z ochroną przed śledzeniem blokuje elementy śledzące użytkownika i nie zachowuje historii.">
+<!ENTITY firstrun_panel_title_customize "Dostosuj">
+<!ENTITY firstrun_customize_message "Używaj Firefoksa po swojemu.">
+<!ENTITY firstrun_customize_subtext "Dostosuj Firefoksa dodatkami. Blokuj reklamy, dodaj funkcje lub wybierz motyw, który do Ciebie pasuje.">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Ulubione strony, zawsze dostępne">
 <!ENTITY firstrun_bookmarks_subtext "Wyświetlaj wyniki z zakładek i historii podczas wyszukiwania.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Mniej danych, więcej oszczędności">
 <!ENTITY firstrun_data_subtext2 "Wyłącz obrazy, aby zmniejszyć zużycie danych.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, zawsze blisko">
-<!ENTITY firstrun_sync_subtext "Synchronizuj karty, hasła i wiele więcej między wszystkimi urządzeniami.">
+<!ENTITY firstrun_sync_message2 "Kontynuuj przeglądanie.">
+<!ENTITY firstrun_sync_subtext2 "Użyj synchronizacji, aby mieć zakładki, hasła i inne rzeczy zachowane w Firefoksie na wszystkich urządzeniach.">
 <!ENTITY firstrun_signin_message "Połącz z innymi urządzeniami">
 <!ENTITY firstrun_signin_button "Zaloguj się do synchronizacji">
 <!ENTITY onboard_start_button_browser "Zacznij przeglądać Internet">
