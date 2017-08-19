@@ -7,16 +7,27 @@
 <!ENTITY  blockPopups.label           "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ďalšie informácie">
-<!ENTITY  notificationsPolicyDesc4.label       "Vyberte, ktoré stránky majú povolené vám posielať upozornenia">
-<!ENTITY  notificationsPolicyButton.accesskey  "y">
-<!ENTITY  notificationsPolicyButton.label      "Vybrať…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nevyrušujte ma">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Do reštartu prehliadača &brandShortName; sa nebudú zobrazovať žiadne upozornenia">
 
-<!ENTITY  popupExceptions.label       "Výnimky…">
-<!ENTITY  popupExceptions.accesskey   "k">
+<!ENTITY  popupExceptions.label                                 "Výnimky…">
+<!ENTITY  popupExceptions.accesskey                             "k">
+
+<!ENTITY  permissionSettingsButton2.label                       "Nastavenia…">
+
+<!ENTITY  notificationPermissions.label                         "Upozornenia">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Ďalšie informácie">
+
+<!ENTITY  locationPermissions.label                             "Umiestnenie">
+<!ENTITY  locationSettingsButton.accesskey                      "e">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "a">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofón">
+<!ENTITY  microphoneSettingsButton.accesskey                    "o">
 
 <!ENTITY  fontsAndColors.label        "Písma a farby">
 
