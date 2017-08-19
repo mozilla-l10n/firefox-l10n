@@ -12,7 +12,7 @@
 <!ENTITY customColorsRadio.accessKey "U">
 <!ENTITY customColorsRadio.tooltip "Estas configurações de cores anulam as do navegador do visitante">
 
-<!ENTITY normalText.label "Texto - normal">
+<!ENTITY normalText.label "Texto normal">
 <!ENTITY normalText.accessKey "T">
 <!ENTITY linkText.label "Link - normal">
 <!ENTITY linkText.accessKey "L">
