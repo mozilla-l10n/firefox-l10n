@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Принимать куки с веб-сайтов">
 <!ENTITY  acceptCookies2.accesskey      "у">
 
-<!ENTITY  acceptThirdParty.pre.label      "Принимать куки со сторонних веб-сайтов:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "н">
+<!ENTITY  acceptThirdParty2.pre.label     "Принимать куки со сторонних веб-сайтов">
+<!ENTITY  acceptThirdParty2.pre.accesskey "н">
 <!ENTITY  acceptThirdParty.always.label   "Всегда">
 <!ENTITY  acceptThirdParty.never.label    "Никогда">
 <!ENTITY  acceptThirdParty.visited.label  "С посещённых">
 
-<!ENTITY  keepUntil.label               "Сохранять куки:">
-<!ENTITY  keepUntil.accesskey           "ь">
+<!ENTITY  keepUntil2.label              "Хранить куки">
+<!ENTITY  keepUntil2.accesskey          "ь">
 
 <!ENTITY  expire.label                  "до истечения срока их действия">
 <!ENTITY  close.label                   "до закрытия мною &brandShortName;">
