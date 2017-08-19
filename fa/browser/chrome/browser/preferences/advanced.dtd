@@ -93,8 +93,8 @@ available. -->
 <!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
-
-
+<!ENTITY updateAuto3.label               "&amp; به صورت خودکار بروزرسانی نصب شود (پیشنهاد می‌شود)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود">
 <!ENTITY updateCheckChoose2.accesskey    "و">
 <!ENTITY updateManual2.label             "هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)">
@@ -114,6 +114,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "استثناها…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ث">
 
+<!ENTITY offlineAppsList3.label          "پایگاه‌های وب زیر اجازه ذخیره اطلاعات برای استفاده آفلاین را دارند">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "حذف…">
 <!ENTITY offlineAppsListRemove.accesskey "ح">
@@ -127,10 +128,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "پرس‌وجو از کارگزار پاسخگوی OCSP جهت تصدیق اعتبار فعلی گواهینامه">
 <!ENTITY enableOCSP.accesskey            "پ">
-
-
-
-
+<!ENTITY viewCerts2.label                "نمایش‌ گواهینامه‌ها…">
+<!ENTITY viewCerts2.accesskey            "گ">
+<!ENTITY viewSecurityDevices2.label      "امنیت دستگاه‌ها…">
+<!ENTITY viewSecurityDevices2.accesskey  "د">
 
 <!ENTITY performance.label               "کارایی">
 <!ENTITY useRecommendedPerformanceSettings2.label "استفاده از تنظیماتِ کارایی توصیه شده">
