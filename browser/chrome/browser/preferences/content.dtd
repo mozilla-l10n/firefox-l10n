@@ -21,13 +21,13 @@
 <!ENTITY  notificationPermissionsLearnMore.label                "Zjistit více">
 
 <!ENTITY  locationPermissions.label                             "Poloha">
-<!ENTITY  locationSettingsButton.accesskey                      "l">
+<!ENTITY  locationSettingsButton.accesskey                      "a">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.accesskey                        "a">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
-<!ENTITY  microphoneSettingsButton.accesskey                    "m">
+<!ENTITY  microphoneSettingsButton.accesskey                    "n">
 
 <!ENTITY  fontsAndColors.label        "Písma a barvy">
 

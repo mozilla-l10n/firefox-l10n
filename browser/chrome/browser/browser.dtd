@@ -584,11 +584,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label          "Poslat obrázek…">
 <!ENTITY emailImageCmd.accesskey      "e">
 <!ENTITY emailVideoCmd.label          "Poslat video…">
-<!ENTITY emailVideoCmd.accesskey      "e">
+<!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Poslat video do zařízení">
-<!ENTITY castVideoCmd.accesskey       "t">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Poslat audio…">
-<!ENTITY emailAudioCmd.accesskey      "e">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Spustit zásuvný modul">
 <!ENTITY playPluginCmd.accesskey      "p">
 <!ENTITY hidePluginCmd.label          "Skrýt zásuvný modul">
