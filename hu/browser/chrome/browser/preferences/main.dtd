@@ -32,8 +32,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Mindig ellenőrizze, hogy a &brandShortName;-e az alapértelmezett böngésző">
 <!ENTITY alwaysCheckDefault2.accesskey    "M">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "Beállítás alapértelmezettként…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "a">
 <!ENTITY isDefault.label                  "Jelenleg a &brandShortName; az alapértelmezett böngésző.">
 <!ENTITY isNotDefault.label               "A &brandShortName; nem az alapértelmezett böngésző">
 
