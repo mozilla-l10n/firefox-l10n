@@ -10,9 +10,9 @@
 <!ENTITY  proxyTitle.label              "Настроювання проксі для доступу в інтернет">
 <!ENTITY  noProxyTypeRadio.label        "Без проксі">
 <!ENTITY  noProxyTypeRadio.accesskey    "Б">
-<!ENTITY  systemTypeRadio.label         "Використовувати системні настройки проксі">
+<!ENTITY  systemTypeRadio.label         "Використовувати системні налаштування проксі">
 <!ENTITY  systemTypeRadio.accesskey     "п">
-<!ENTITY  WPADTypeRadio.label           "Автоматично визначати настройки проксі для даної мережі">
+<!ENTITY  WPADTypeRadio.label           "Автоматично визначати налаштування проксі для цієї мережі">
 <!ENTITY  WPADTypeRadio.accesskey       "о">
 <!ENTITY  manualTypeRadio2.label        "Ручна конфігурація проксі">
 <!ENTITY  manualTypeRadio2.accesskey    "Р">
