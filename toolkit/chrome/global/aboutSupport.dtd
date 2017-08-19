@@ -49,7 +49,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "โฟลเดอร์โปรไฟล์">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ปลั๊กอินที่เปิดใช้งาน">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
+<!ENTITY aboutSupport.appBasicsBuildConfig "การกำหนดค่าการสร้าง">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsOS "ระบบปฏิบัติการ">
 <!ENTITY aboutSupport.appBasicsMemoryUse "หน่วยความจำที่ใช้">
