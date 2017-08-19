@@ -12,10 +12,10 @@
 <!ENTITY  documentsInMenu.label         "Número máximo de páginas listadas:">
 <!ENTITY  documentsInMenu.accesskey     "x">
 <!ENTITY  savingFiles.title             "Ao salvar ou publicar páginas">
-<!ENTITY  preserveExisting.label        "Preservar a formatação original do código">
+<!ENTITY  preserveExisting.label        "Preservar a formatação original do código-fonte">
 <!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Preservar quebras de linha e formatação original da página">
-<!ENTITY  saveAssociatedFiles.label     "Salvar imagens e outros arquivos associados ao salvar páginas">
+<!ENTITY  preserveExisting.tooltip      "Preservar quebras de linha e a formatação original da página">
+<!ENTITY  saveAssociatedFiles.label     "Salvar as imagens e os outros arquivos associados ao salvar as páginas">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  showPublishDialog.label       "Sempre Mostrar a caixa de diálogo publicar ao publicar páginas">
 <!ENTITY  showPublishDialog.accesskey   "a">
