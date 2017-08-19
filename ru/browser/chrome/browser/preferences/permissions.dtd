@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "д">
 <!ENTITY removeallpermissions2.label  "Удалить все веб-сайты">
 <!ENTITY removeallpermissions2.accesskey "в">
-<!ENTITY address.label                "Адрес веб-сайта:">
-<!ENTITY address.accesskey            "е">
+<!ENTITY address2.label               "Адрес веб-сайта">
+<!ENTITY address2.accesskey           "е">
 <!ENTITY block.label                  "Блокировать">
 <!ENTITY block.accesskey              "л">
 <!ENTITY session.label                "Разрешить на сессию">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Сохранить изменения">
 <!ENTITY button.ok.accesskey          "х">
 
+<!ENTITY searchbox.placeholder        "Поиск по веб-сайту">

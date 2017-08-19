@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "38em">
 
 <!ENTITY languages.customize.Header                     "Языки">
-<!ENTITY languages.customize.description                "Некоторые веб-страницы могут быть доступны более чем на одном языке. Укажите порядок выбора языка страницы:">
+<!ENTITY languages.customize2.description               "Некоторые веб-страницы могут быть доступны более чем на одном языке. Укажите порядок выбора языка страницы">
 <!ENTITY languages.customize.moveUp.label               "Вверх">
 <!ENTITY languages.customize.moveUp.accesskey           "в">
 <!ENTITY languages.customize.moveDown.label             "Вниз">
