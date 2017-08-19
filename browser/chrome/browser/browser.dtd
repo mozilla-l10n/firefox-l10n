@@ -588,7 +588,7 @@
 <!ENTITY syncReAuthItem.label "Riconnetti a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Strumenti e caratteristiche aggiuntive">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Trascina gli elementi preferiti nella barra degli strumenti o nel menu extra">
 <!ENTITY customizeMode.menuAndToolbars.empty "Hai bisogno di altri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Scegli tra migliaia di componenti aggiuntivi">
 <!ENTITY customizeMode.restoreDefaults "Ripristina predefiniti">
