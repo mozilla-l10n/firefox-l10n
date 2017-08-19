@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misleidende websites zijn ontworpen om u iets gevaarlijks te laten doen, zoals het installeren van software, of het delen van uw persoonlijke gegevens, zoals wachtwoorden, telefoonnummers of creditcardgegevens.</p><p>Het invoeren van persoonlijke gegevens op deze webpagina kan leiden tot diefstal van identiteitsgegevens of andere fraude.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "De website kan malware bevatten">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox heeft deze pagina geblokkeerd, omdat deze gevaarlijke apps zou kunnen proberen te installeren die uw gegevens (zoals foto’s, wachtwoorden, berichten en creditcardgegevens) stelen of verwijderen.">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; heeft deze pagina geblokkeerd, omdat deze gevaarlijke apps zou kunnen proberen te installeren die uw gegevens (zoals foto’s, wachtwoorden, berichten en creditcardgegevens) stelen of verwijderen.">
