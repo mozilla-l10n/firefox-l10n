@@ -14,11 +14,11 @@
 
 <!ENTITY normalText.label "Texto normal">
 <!ENTITY normalText.accessKey "T">
-<!ENTITY linkText.label "Link textual">
+<!ENTITY linkText.label "Texto do link">
 <!ENTITY linkText.accessKey "L">
 <!ENTITY activeLinkText.label "Texto do link ativo">
 <!ENTITY activeLinkText.accessKey "a">
-<!ENTITY visitedLinkText.label "Link - visitado">
+<!ENTITY visitedLinkText.label "Texto do link visitado">
 <!ENTITY visitedLinkText.accessKey "v">
 <!ENTITY background.label "Plano de fundo:">
 <!ENTITY background.accessKey "P">
