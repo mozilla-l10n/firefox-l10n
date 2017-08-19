@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Никогда">
 
 <!ENTITY  color                           "Текст и фон">
-<!ENTITY  textColor.label                 "Текст:">
-<!ENTITY  textColor.accesskey             "к">
-<!ENTITY  backgroundColor.label           "Фон:">
-<!ENTITY  backgroundColor.accesskey       "о">
+<!ENTITY  textColor2.label                "Текст">
+<!ENTITY  textColor2.accesskey            "к">
+<!ENTITY  backgroundColor2.label          "Фон">
+<!ENTITY  backgroundColor2.accesskey      "о">
 <!ENTITY  useSystemColors.label           "Использовать системные цвета">
 <!ENTITY  useSystemColors.accesskey       "с">
 
 <!ENTITY  underlineLinks.label            "Подчёркивать ссылки">
 <!ENTITY  underlineLinks.accesskey        "ч">
 <!ENTITY  links                           "Цвет ссылок">
-<!ENTITY  linkColor.label                 "Непросмотренные ссылки:">
-<!ENTITY  linkColor.accesskey             "е">
-<!ENTITY  visitedLinkColor.label          "Просмотренные ссылки:">
-<!ENTITY  visitedLinkColor.accesskey      "м">
+<!ENTITY  linkColor2.label                "Непосещённые ссылки">
+<!ENTITY  linkColor2.accesskey            "е">
+<!ENTITY  visitedLinkColor2.label         "Посещённые ссылки">
+<!ENTITY  visitedLinkColor2.accesskey     "ы">

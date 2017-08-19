@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Исключения…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "к">
 
-<!ENTITY offlineAppsList2.label          "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме:">
+<!ENTITY offlineAppsList3.label          "Следующим веб-сайтам разрешено хранить данные для работы в автономном режиме">
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "Удалить…">
 <!ENTITY offlineAppsListRemove.accesskey "д">
