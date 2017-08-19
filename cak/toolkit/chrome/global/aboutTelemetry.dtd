@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.raw "Man samajin ta JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Tijaq pa JSON tz'etonel">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Kek'ut pe taq rutzij rachmolojri'ïl">
 
 <!ENTITY aboutTelemetry.choosePing "Ticha' ping:">
@@ -61,6 +63,7 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Kib'anikil tz'aqat">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Etamab'äl pa ruwi' molojri'ïl">
 
