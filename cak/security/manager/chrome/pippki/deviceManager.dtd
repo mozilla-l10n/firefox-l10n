@@ -25,11 +25,9 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Tatz'ib'aj ri etamab'äl richin ri juperaj nawajo' natz'aqatisaj.">
-<!ENTITY loaddevice.modname                     "Rub'i' juperaj:">
-<!ENTITY loaddevice.modname.accesskey           "K">
+<!ENTITY loaddevice.modname2                    "Rub'i' Juperaj">
+<!ENTITY loaddevice.modname2.accesskey          "J">
 <!ENTITY loaddevice.modname.default             "K'ak'a' PKCS#11 Juperaj">
-<!ENTITY loaddevice.filename                    "Ruyakb'al juperaj:">
-<!ENTITY loaddevice.filename.accesskey          "a">
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

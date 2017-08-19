@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "K'amöl taq b'ey">
 <!ENTITY certmgr.tab.orphan2                  "Juley chik">
 
-<!ENTITY certmgr.mine                         "E k'o taq ruwujil kib'i' re taq moloj re', ri nikiya' awetal:">
-<!ENTITY certmgr.others                       "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taq winaqi' re':">
-<!ENTITY certmgr.websites2                    "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re ruk'u'x taq samaj:">
-<!ENTITY certmgr.cas                          "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taqanel taq ya'öl ruwujil b'i'aj:">
-<!ENTITY certmgr.orphans                      "K'o taq ruwujil ab'i' pa ri yakb'äl, ri man nikik'äm ta ki' pa nijun chi ke ri ch'aqa' chik taq ruwäch:">
+<!ENTITY certmgr.mine2                        "E k'o taq ruwujil kib'i' re taq moloj re', ri nikiya' awetal">
+<!ENTITY certmgr.others2                      "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taq winaqi' re'">
+<!ENTITY certmgr.websites3                    "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re ruk'u'x taq samaj">
+<!ENTITY certmgr.cas2                         "K'o taq ruwujil b'i'aj ri eyakon, ri nikiya' ketal re taqanel taq ya'öl ruwujil b'i'aj">
+<!ENTITY certmgr.orphans2                     "K'o taq ruwujil ab'i' pa ri yakb'äl, ri man nikik'äm ta ki' pa nijun chi ke ri ch'aqa' chik taq ruwäch">
 
 <!ENTITY certmgr.detail.general_tab.title     "Chijun">
 <!ENTITY certmgr.detail.general_tab.accesskey "C">
