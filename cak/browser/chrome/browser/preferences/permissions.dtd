@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "T">
 <!ENTITY removeallpermissions2.label  "Keyuj el Konojel ri taq Ruxaq Ajk'amaya'l">
 <!ENTITY removeallpermissions2.accesskey "y">
-<!ENTITY address.label                "Rochochib'al ri ruxaq k'amaya'l:">
-<!ENTITY address.accesskey            "o">
+<!ENTITY address2.label               "Rochochib'al ri ruxaq k'amaya'l">
+<!ENTITY address2.accesskey           "o">
 <!ENTITY block.label                  "Tiq'eleb'ëx">
 <!ENTITY block.accesskey              "T">
 <!ENTITY session.label                "Tiya' q'ij pa re molojri'ïl re'">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Keyak taq jaloj">
 <!ENTITY button.ok.accesskey          "K">
 
+<!ENTITY searchbox.placeholder        "Tikanöx K'amaya'l">
