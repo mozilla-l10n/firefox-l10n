@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mapa…">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd2.label "Zatvori karticu">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "g">
 <!ENTITY printSetupCmd.label "Postavke stranice…">
 <!ENTITY printSetupCmd.accesskey "n">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Obriši poruku">
 <!ENTITY deleteMsgCmd.accesskey "O">
 <!ENTITY undeleteMsgCmd.label "Vrati obrisanu poruku">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "V">
 <!ENTITY redoDefaultCmd.label "Ponovi">
 <!ENTITY redoDefaultCmd.accesskey "P">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Traka izbornika">
 <!ENTITY menubarCmd.accesskey "k">
 <!ENTITY showMessengerToolbarCmd.label "Alatna traka pošte">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Alatna traka okna mapa">
 <!ENTITY folderPaneBar.accesskey "o">
 <!ENTITY folderModeSelector.label "Prikazi mapa">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortiraj prema">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Datumu">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Traži">
 <!ENTITY findMenu.accesskey "T">
 <!ENTITY findCmd.label "Pronađi u ovoj poruci…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Pretraži adrese…">
 <!ENTITY searchAddressesCmd.accesskey "s">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Idi">
 <!ENTITY goMenu.accesskey "I">
 <!ENTITY nextMenu.label "Sljedeća">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "z">
 <!ENTITY startPageCmd.label "Početna stranica pošte">
 <!ENTITY startPageCmd.accesskey "s">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Poruka">
 <!ENTITY msgMenu.accesskey "r">
 <!ENTITY newMsgCmd.label "Nova poruka">
@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Uredi skicu poruke">
 <!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY newMsgFromTemplateCmd.label "Nova poruka iz predloška">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Stvori filter iz poruke…">
 <!ENTITY createFilter.accesskey "v">
 <!ENTITY moveMsgToMenu.label "Premjesti u">
@@ -443,11 +445,11 @@
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Uključi / isključi web stranicu i sažetak u oknu poruke">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Prozor">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Alati">
 <!ENTITY tasksMenu.accesskey "t">
 <!ENTITY messengerCmd.label "Pošta i interesne grupe">
@@ -493,8 +495,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Alati za razvijatelje">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Alati za razvijatelje">
@@ -509,17 +511,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
 <!ENTITY scratchpadCmd.accesskey "S">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Dohvati poruke">
 <!ENTITY newMsgButton.label "Piši">
 <!ENTITY replyButton.label "Odgovori">
@@ -556,8 +558,8 @@
 <!ENTITY tagButton.label "Oznaka">
 <!ENTITY compactButton.label "Sažmi">
 <!ENTITY appmenuButton.label "Izbornik">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Napredno pretraživanje poruka">
 <!ENTITY getMsgButton.tooltip "Dohvati nove poruke">
 <!ENTITY getAllNewMsgCmd.label "Dohvati sve nove poruke">
@@ -590,48 +592,48 @@
 <!ENTITY tagButton.tooltip "Označi poruke">
 <!ENTITY compactButton.tooltip "Ukloni obrisane poruke iz odabrane mape">
 <!ENTITY appmenuButton1.tooltip "Otvori &brandShortName; izbornik">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Proslijedi umetnuto">
 <!ENTITY buttonMenuForwardAsAttachment.label "Proslijedi kao privitak">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži vanjski sadržaj u ovoj poruci">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
 <!ENTITY editRemoteContentSettings.label "Uredi mogućnosti udaljenog sadržaja…">
 <!ENTITY editRemoteContentSettings.accesskey "e">
 <!ENTITY editRemoteContentSettingsUnix.label "Uredi postavke udaljenog sadržaja…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "e">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Zanemari upozorenje za ovu poruku">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Uredi mogućnosti za otkrivanje prijevara…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Uredi postavke za otkrivanje prijevara…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Nova poruka">
 <!ENTITY appmenuNewContactCmd.label "Kontakt u adresaru…">
 <!ENTITY appmenuEditMenu.label "Uredi">
 <!ENTITY appmenuToolbarLayout.label "Raspored alatne trake…">
 <!ENTITY appmenuSelectThread.label "Označi skup poruka">
 <!ENTITY appmenuSelectFlagged.label "Označi poruke sa zvijezdicom">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nova oznaka…">
 <!ENTITY addNewTag.accesskey "N">
 <!ENTITY manageTags.label "Upravljanje oznakama…">
 <!ENTITY manageTags.accesskey "U">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Naziv">
 <!ENTITY folderUnreadColumn.label "Nepročitano">
 <!ENTITY folderTotalColumn.label "Ukupno">
 <!ENTITY folderSizeColumn.label "Veličina">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Dohvati poruke">
 <!ENTITY folderContextGetMessages.accesskey "D">
 <!ENTITY folderContextPauseAllUpdates.label "Zaustavi sva ažuriranja">
@@ -671,15 +673,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "m">
 <!ENTITY folderContextSettings2.label "Postavke">
 <!ENTITY folderContextSettings2.accesskey "P">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Naziv ili e-pošta sadrži:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Pretraži poruke…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Naslov">
 <!ENTITY searchFromMenu.label "Šalje">
 <!ENTITY searchSubjectOrFromMenu.label "Naslov ili šalje">
@@ -687,8 +689,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Naslov, prima ili Cc">
 <!ENTITY searchMessageBody.label "Cijela poruka">
 <!ENTITY saveAsVirtualFolderMenu.label "Spremi pretragu kao mapu…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Šalje">
 <!ENTITY recipientColumn.label "Primatelj">
@@ -709,8 +711,8 @@
 <!ENTITY locationColumn.label "Lokacija">
 <!ENTITY idColumn.label "Redoslijed primanja">
 <!ENTITY attachmentColumn.label "Privici">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
 <!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
 <!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
@@ -732,14 +734,15 @@
 <!ENTITY locationColumn2.tooltip "Sortiraj prema lokaciji">
 <!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primanja">
 <!ENTITY attachmentColumn2.tooltip "Sortiraj prema privitcima">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nova poruka iz predloška">
 <!ENTITY contextOpenNewWindow.label "Otvori poruku u novom prozoru">
 <!ENTITY contextOpenNewWindow.accesskey "v">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Otvori poruku u novoj kartici">
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Otvori poruku kao razgovor">
@@ -791,12 +794,12 @@
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Pregled ispisa">
 <!ENTITY contextPrintPreview.accesskey "g">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Vrati stupce na zadane postavke">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -837,9 +840,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Ovu mapu">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Pokreni">
 <!ENTITY contextPlay.accesskey "P">
 <!ENTITY contextPause.label "Pauziraj">
@@ -848,12 +851,12 @@
 <!ENTITY contextMute.accesskey "U">
 <!ENTITY contextUnmute.label "Uključi zvuk">
 <!ENTITY contextUnmute.accesskey "k">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -877,8 +880,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Dodaj u adresar…">
 <!ENTITY AddToAddressBook.accesskey "D">
 <!ENTITY AddDirectlyToAddressBook.label "Dodaj u adresar">
@@ -903,12 +906,12 @@
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Prijavi prijevaru e-pošte">
 <!ENTITY reportPhishingURL.accesskey "i">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "a">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Spremi poveznicu kao…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Spremi sliku kao…">
@@ -927,17 +930,17 @@
 <!ENTITY openInBrowser.accesskey "O">
 <!ENTITY openLinkInBrowser.label "Otvori poveznicu u pregledniku">
 <!ENTITY openLinkInBrowser.accesskey "O">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Gotovo">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimiziraj">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Postavi sve na vrh">
 <!ENTITY zoomWindow.label "Uvećaj">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Postavke">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -949,8 +952,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">
-<!-- Mac OS X Dock Icon pop-up menu -->
 
+<!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Mogućnosti ikone aplikacije…">
 <!ENTITY writeNewMessageDock.label      "Piši novu poruku">
 <!ENTITY openAddressBookDock.label      "Otvori adresar">
