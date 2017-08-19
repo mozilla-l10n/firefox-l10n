@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "m">
 <!ENTITY  WPADTypeRadio.label           "Automatická detekcia nastavení tejto siete">
 <!ENTITY  WPADTypeRadio.accesskey       "d">
-<!ENTITY  manualTypeRadio.label         "Ručné nastavenie serverov proxy">
-<!ENTITY  manualTypeRadio.accesskey     "u">
-<!ENTITY  autoTypeRadio.label           "Adresa URL pre automatické nastavenie serverov proxy:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "Ručné nastavenie serverov proxy">
+<!ENTITY  manualTypeRadio2.accesskey    "n">
+<!ENTITY  autoTypeRadio2.label          "Adresa URL pre automatické nastavenie serverov proxy">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Obnoviť">
 <!ENTITY  reload.accesskey              "b">
-<!ENTITY  ftp.label                     "Server proxy pre FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Server proxy HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Server proxy SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Server SOCKS">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Server proxy pre FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Server proxy HTTP">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "Server proxy SSL">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "Server SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Použiť server proxy pre DNS pri použití SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "l">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "t">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
-<!ENTITY  SOCKSport.accesskey           "">
-<!ENTITY  noproxy.label                 "Nepoužívať proxy pre:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Nepoužívať proxy pre">
+<!ENTITY  noproxy2.accesskey            "N">
 <!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  shareproxy.accesskey          "x">
