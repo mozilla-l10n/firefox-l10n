@@ -12,9 +12,9 @@
 <!ENTITY optionInline.accesskey "i">
 <!ENTITY optionDisplay.label "Modo de exibição">
 <!ENTITY optionDisplay.accesskey "M">
-<!ENTITY optionLTR.label "Texto no sentido esquerda para a direita">
+<!ENTITY optionLTR.label "Direção da esquerda para a direita">
 <!ENTITY optionLTR.accesskey "e">
-<!ENTITY optionRTL.label "Texto no sentido direita para esquerda">
+<!ENTITY optionRTL.label "Direção da direita para a esquerda">
 <!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY insertButton.label "Inserir">
