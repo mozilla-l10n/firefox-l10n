@@ -42,7 +42,7 @@
 <!ENTITY  mediaSaveAs           "บันทึกเป็น…">
 <!ENTITY  mediaSaveAs.accesskey "บ">
 <!ENTITY  mediaSaveAs2.accesskey "บ">
-<!ENTITY  mediaPreview          "แสดงตัวอย่างสื่อ:">
+<!ENTITY  mediaPreview          "ตัวอย่างสื่อ:">
 
 <!ENTITY  feedTab               "ฟีด">
 <!ENTITY  feedTab.accesskey     "ฟ">
