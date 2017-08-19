@@ -17,7 +17,7 @@
 <!ENTITY  permissionSettingsButton2.label                       "Баптаулар…">
 
 <!ENTITY  notificationPermissions.label                         "Хабарламалар">
-
+<!ENTITY  notificationSettingsButton.accesskey                  "о">
 <!ENTITY  notificationPermissionsLearnMore.label                "Көбірек білу">
 
 <!ENTITY  locationPermissions.label                             "Орналасу">
