@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Редактировать черновик сообщения">
 <!ENTITY editDraftMsgCmd.accesskey "а">
+<!ENTITY newMsgFromTemplateCmd.label "Создать сообщение по шаблону">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Создать фильтр…">
 <!ENTITY createFilter.accesskey "ф">
 <!ENTITY moveMsgToMenu.label "Переместить в папку">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "Сортировать по наличию вложений">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Создать сообщение по шаблону">
 <!ENTITY contextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY contextOpenNewWindow.accesskey "н">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Открыть в новой вкладке">
 <!ENTITY contextOpenNewTab.accesskey "к">
 <!ENTITY contextOpenConversation.label "Открыть в разговоре">
