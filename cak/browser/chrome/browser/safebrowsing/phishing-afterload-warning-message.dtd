@@ -34,3 +34,5 @@
 
 <!ENTITY safeb.blocked.harmfulPage.title "Re ruxaq k'amaya'l re' rik'in jub'a'  k'o nimachiköp chupam">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Ri Firefox xuq'ät re ruxaq k'amaya'l re', ruma nitikïr yeruyäk kan itzel taq chokoy ri nikeleq'aj o nikiyüj awetamab'al (achi'el ri taq awachib'al, taq ewan atzij, taq atzijol chuqa' ch'utit'im pwäq).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
