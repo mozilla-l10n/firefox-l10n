@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Synchro&#xad;niseren">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "Extra hulpmiddelen en functies">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Sleep uw favoriete items naar de werkbalk of het overloopmenu.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wilt u meer hulpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duizenden add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
