@@ -20,6 +20,10 @@
 Необработанный JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Открыть в просмотрщике JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Отображать данные подсессии
 ">
@@ -118,6 +122,10 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Поздние записи
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Необработанная нагрузка
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "

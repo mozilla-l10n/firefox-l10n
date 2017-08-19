@@ -32,3 +32,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Имеется информация о том, что веб-страница на <span id='phishing_sitename'/> является поддельным сайтом. В соответствии с вашими настройками безопасности она была заблокирована.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Поддельные сайты разработаны, чтобы обманным путем заставить вас сделать что-либо опасное, например установить программу или раскрыть свою личную информацию, такую как пароли, телефонные номера или данные кредитных карт.</p><p>Ввод на этой веб-странице любой информации может привести к краже личности или мошенничеству.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Этот сайт может содержать вредоносные программы">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox заблокировал доступ к этой странице, потому что она может попытаться установить опасные приложения, которые украдут или удалят вашу информацию (например, фотографии, пароли, сообщения и номера кредитных карт).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
