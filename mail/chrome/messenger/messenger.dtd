@@ -366,8 +366,9 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger kladde">
 <!ENTITY editDraftMsgCmd.accesskey "l">
+<!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Opret filter…">
-<!ENTITY createFilter.accesskey "f">
+<!ENTITY createFilter.accesskey "t">
 <!ENTITY moveMsgToMenu.label "Flyt til">
 <!ENTITY moveMsgToMenu.accesskey "F">
 <!ENTITY moveCopyMsgRecentMenu.label "Seneste">
@@ -736,10 +737,10 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Åbn meddelelsen i et nyt vindue">
 <!ENTITY contextOpenNewWindow.accesskey "n">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Åbn meddelelsen i et nyt faneblad">
 <!ENTITY contextOpenNewTab.accesskey "b">
 <!ENTITY contextOpenConversation.label "Åbn meddelelsen i korrespondancevisning">
