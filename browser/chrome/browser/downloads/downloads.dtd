@@ -134,7 +134,11 @@
 <!ENTITY downloadsHistory.label           "Mussar tut las telechargiadas">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "Avrir l'ordinatur da telechargiadas">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Avrir l'ordinatur da telechargiadas">
 
 <!ENTITY clearDownloadsButton.label       "Svidar la glista da telechargiadas">
 <!ENTITY clearDownloadsButton.tooltip     "Stizza tut las telechargiadas cumplettadas, interruttas u sbagliadas da la glista da telechargiadas">
@@ -148,7 +152,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "Naginas telechargiadas per questa sessiun.">
+<!ENTITY downloadsPanelEmpty.label        "Naginas telechargiadas per questa sesida.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
