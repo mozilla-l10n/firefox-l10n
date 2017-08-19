@@ -194,7 +194,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не соединился с <span id='wrongSystemTimeWithoutReference_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTimeWithoutReference_systemDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
 
 <!ENTITY certerror.pagetitle1  "Незащищённое соединение">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует HTTP Strict Transport Security (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует Форсированное защищённое соединение HTTP (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
 <!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
 
 <!ENTITY inadequateSecurityError.title "Ваше соединение не защищено">
