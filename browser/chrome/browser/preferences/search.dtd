@@ -4,11 +4,13 @@
 
 <!ENTITY defaultSearchEngine.label             "Alapértelmezett keresőszolgáltatás">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Válassza ki a címsávban és a keresősávban alapértelmezetten használandó keresőszolgáltatást.">
 
 <!ENTITY provideSearchSuggestions.label        "Keresési javaslatok">
 <!ENTITY provideSearchSuggestions.accesskey    "K">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Keresési javaslatok megjelenítése a címsáv találataiban">
+<!ENTITY showURLBarSuggestions2.accesskey       "K">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a &brandShortName; nem jegyzi meg az előzményeket.">
 
 <!ENTITY oneClickSearchEngines.label           "Egy kattintásos keresőszolgáltatások">
