@@ -174,7 +174,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
-<!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagate Mozilli prepoznati in zavračati zlonamerne strani">
+<!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagajte Mozilli prepoznati in zavračati zlonamerne strani">
 <!ENTITY errorReporting.learnMore "Več o tem …">
 
 <!ENTITY remoteXUL.title "Oddaljeni XUL">
