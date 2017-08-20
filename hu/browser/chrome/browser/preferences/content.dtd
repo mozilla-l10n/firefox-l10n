@@ -14,10 +14,11 @@
 <!ENTITY  popupExceptions.label                                 "Kivételek…">
 <!ENTITY  popupExceptions.accesskey                             "K">
 
+<!ENTITY  permissionSettingsButton2.label                       "Beállítások…">
 
 <!ENTITY  notificationPermissions.label                         "Értesítések">
-
-
+<!ENTITY  notificationSettingsButton.accesskey                  "e">
+<!ENTITY  notificationPermissionsLearnMore.label                "További tudnivalók">
 
 
 
