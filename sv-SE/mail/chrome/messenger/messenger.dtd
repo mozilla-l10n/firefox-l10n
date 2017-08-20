@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Redigera meddelandeutkast">
 <!ENTITY editDraftMsgCmd.accesskey "u">
+<!ENTITY newMsgFromTemplateCmd.label "Nytt meddelande från mall">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Skapa filterregel utifrån meddelandet…">
 <!ENTITY createFilter.accesskey "u">
 <!ENTITY moveMsgToMenu.label "Flytta till">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "Sortera efter bilagor">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nytt meddelande från mall">
 <!ENTITY contextOpenNewWindow.label "Öppna meddelande i nytt fönster">
 <!ENTITY contextOpenNewWindow.accesskey "p">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Öppna meddelande i ny flik">
 <!ENTITY contextOpenNewTab.accesskey "f">
 <!ENTITY contextOpenConversation.label "Öppna meddelande i konversationen">
