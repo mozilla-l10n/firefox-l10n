@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Thông tin Gỡ rối vấn đề">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Trang này chứa thông tin kĩ thuật có thể có ích khi bạn đang cố giải quyết một vấn đề. Nếu bạn đang tìm câu trả lời cho các câu hỏi thông thường về &brandShortName;, hãy xem <a id='supportLink'>trang web hỗ trợ</a> của chúng tôi.">
 
 <!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featureName "Tên">
+<!ENTITY aboutSupport.featureVersion "Phiên bản">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Các tính năng thử nghiệm">
 <!ENTITY aboutSupport.experimentName "Tên">
@@ -33,14 +33,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Ngày kết thúc">
 <!ENTITY aboutSupport.experimentHomepage "Trang chủ">
 
-
 <!ENTITY aboutSupport.appBasicsTitle "Cơ bản về ứng dụng">
 <!ENTITY aboutSupport.appBasicsName "Tên">
 <!ENTITY aboutSupport.appBasicsVersion "Phiên bản">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Kênh cập nhật">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Lịch sử cập nhật">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Hiển thị lịch sử cập nhật">
@@ -54,11 +53,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ Đã kích hoạt">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
-
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Các service worker đã đăng ký">
 
 
@@ -74,12 +71,13 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Hiện trong Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Mở thư mục">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Các tùy chọn quan trọng đã được sửa đổi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tên">
 <!ENTITY aboutSupport.modifiedPrefsValue "Giá trị">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Tinh chỉnh user.js">
 <!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tập tin <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
 
@@ -88,8 +86,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsValue "Giá trị">
 
 <!ENTITY aboutSupport.graphicsTitle "Đồ họa">
-
-
 
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -108,22 +104,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Chép dữ liệu thô vào bảng tạm">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 <!ENTITY aboutSupport.safeModeTitle "Thử dùng Chế độ an toàn">
 <!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại, tắt hết các tiện ích…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Tính năng">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaDeviceName "Tên">
+<!ENTITY aboutSupport.mediaDeviceGroup "Nhóm">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kênh">
