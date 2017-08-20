@@ -4,18 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Betűk">
 
+<!ENTITY  fonts.label                             "Betűkészletek ehhez:">
+<!ENTITY  fonts.accesskey                         "k">
 
-
+<!ENTITY  size2.label                             "Méret">
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "r">
 
+<!ENTITY  proportional2.label                     "Változó szélességű">
+<!ENTITY  proportional2.accesskey                 "V">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "Talpas">
+<!ENTITY  serif2.accesskey                        "T">
+<!ENTITY  sans-serif2.label                       "Talpatlan">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Fix szélességű">
+<!ENTITY  monospace2.accesskey                    "F">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -49,7 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibeti">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Legkisebb betűméret">
+<!ENTITY minSize2.accesskey                       "L">
 <!ENTITY minSize.none                             "Nincs">
 <!-- default font type -->
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "d">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Karakterkódolás örökölt tartalomhoz">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Tartalék kódolás">
+<!ENTITY languages.customize.Fallback3.accesskey  "d">
 <!ENTITY languages.customize.Fallback2.desc       "Ez a karakterkódolás kerül felhasználásra az örökölt tartalmakhoz, amelyek nem adják meg a kódolásukat.">
 
 <!ENTITY languages.customize.Fallback.auto        "Területi beállítás alapértelmezése">
