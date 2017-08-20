@@ -6,28 +6,28 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Hừm, thật là ngại quá.">
+<!ENTITY restorepage.errorTitle     "Ôi, thật là ngại quá.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; gặp vấn đề khi đang khôi phục các cửa sổ và thẻ của bạn. Việc này thường có nguyên nhân từ một trang web được mở gần đây.">
 <!ENTITY restorepage.tryThis        "Bạn có thể thử:">
 <!ENTITY restorepage.restoreSome    "Xóa các thẻ mà bạn nghĩ là nguyên nhân gây ra vấn đề">
 <!ENTITY restorepage.startNew       "Khởi tạo một phiên duyệt web mới hoàn toàn">
 
 <!ENTITY restorepage.tryagainButton "Khôi phục">
-<!ENTITY restorepage.restore.access "K">
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Đóng">
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Khôi phục">
 <!ENTITY restorepage.listHeader     "Cửa Sổ và Thẻ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Cửa sổ &#037;S">
+<!ENTITY restorepage.windowLabel    "Cửa sổ &#037;">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
 <!ENTITY welcomeback2.restoreButton  "Bắt đầu nào!">
-<!ENTITY welcomeback2.restoreButton.access "B">
+<!ENTITY welcomeback2.restoreButton.access "L">
 
 <!ENTITY welcomeback2.tabtitle      "Thành công!">
 

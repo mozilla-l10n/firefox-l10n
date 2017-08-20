@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Khôi phục cài đặt tìm kiếm của bạn?">
 
-<!ENTITY searchreset.pageInfo1      "Cài đặt tìm kiếm của bạn có thể bị lỗi thời. &brandShortName; có thể giúp bạn khôi phục cài đặt tìm kiếm mặc định.">
+<!ENTITY searchreset.pageInfo1      "Cài đặt tìm kiếm của bạn có thể đã lỗi thời. &brandShortName; có thể giúp bạn khôi phục cài đặt tìm kiếm mặc định.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is

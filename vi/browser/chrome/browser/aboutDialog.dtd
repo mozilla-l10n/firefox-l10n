@@ -30,7 +30,7 @@
 <!ENTITY community.exp.middle       " là một ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "cộng đồng toàn cầu">
-<!ENTITY community.exp.end          " cùng chung sức bảo vệ Web mở và cho phép ai cũng truy cập được.">
+<!ENTITY community.exp.end          " cùng chung sức bảo vệ Web mở, công khai và cho phép ai cũng truy cập được.">
 
 <!ENTITY community.start2           "&brandShortName; được thiết kế bởi ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
