@@ -6,20 +6,27 @@
 
 <!ENTITY engine.bookmarks.label     "Trang đánh dấu">
 <!ENTITY engine.bookmarks.accesskey "d">
+<!ENTITY engine.tabs.label2         "Mở Tab">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Lược sử">
-<!ENTITY engine.history.accesskey   "L">
+<!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.logins.label        "Đăng nhập">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Tùy chỉnh">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Tiện ích">
 <!ENTITY engine.addons.accesskey    "T">
 <!ENTITY engine.addresses.label     "Địa chỉ">
+<!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Thẻ tín dụng">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Tên thiết bị">
 <!ENTITY changeSyncDeviceName2.label "Thay đổi tên thiết bị…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Hủy">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Lưu">
 <!ENTITY saveChangeSyncDeviceName.accesskey "u">
 
@@ -50,18 +57,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "Quản lý tài khoản">
 <!ENTITY verifiedManage.accesskey    "k">
 <!ENTITY disconnect3.label           "Ngắt kết nối…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Xác minh email">
-<!ENTITY verify.accesskey            "X">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Quên email này">
-<!ENTITY forget.accesskey            "Q">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Mang trang web theo bạn">
 <!ENTITY signedOut.description        "Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.">
 <!ENTITY signedOut.accountBox.title   "Kết nối với một &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Tạo tài khoản">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Đăng nhập">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "Cài đặt đồng bộ hóa">
+<!ENTITY signedIn.settings.description "Chọn những thứ bạn muốn đồng bộ sử dụng &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
