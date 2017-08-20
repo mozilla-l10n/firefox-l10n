@@ -48,7 +48,7 @@
 <!ENTITY helpus.getInvolvedLink     "mari ikut berperan!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Yang baru">
+<!ENTITY releaseNotes.link          "Apa yang baru">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informasi Lisensi">
