@@ -18,9 +18,9 @@
 
 
 
-
-
-
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Cũ hơn
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dữ liệu chung">
 
@@ -48,16 +48,10 @@
 <!ENTITY aboutTelemetry.lateWritesSection "  Ghi trễ">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "   Biểu đồ Thu thập bởi Tiện ích mở rộng ">
-
-<!ENTITY aboutTelemetry.toggle "  Nhấp chuột để ẩn/hiện mục này">
-
-<!ENTITY aboutTelemetry.emptySection "  (Không có dữ liệu thu thập)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "   GHI CHÚ: Trình gỡ rối SQL chậm đã bật. Chuỗi SQL Đầy đủ có thể hiện ở dưới nhưng chúng không được gửi cho Telemetry. ">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  Bộ lọc (chuỗi bình thường hoặc /regexp/)">
-
 
