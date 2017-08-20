@@ -29,7 +29,8 @@ available. -->
 
 <!ENTITY healthReportingDisabled.label   "Az adatjelentést letiltották ehhez a binárishoz">
 
-
+<!ENTITY enableHealthReport1.label       "A &brandShortName; automatikusan technikai és interakciós adatokat küldhet a Mozillának">
+<!ENTITY enableHealthReport1.accesskey   "u">
 <!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
 
