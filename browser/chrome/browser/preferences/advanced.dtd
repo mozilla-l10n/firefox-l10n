@@ -147,5 +147,7 @@ available. -->
 <!ENTITY limitContentProcessOption.description
                                          "โปรเซสเนื้อหาที่เพิ่มขึ้นสามารถปรับปรุงประสิทธิภาพเมื่อใช้หลายแท็บ แต่จะใช้หน่วยความจำมากขึ้นเช่นกัน">
 <!ENTITY limitContentProcessOption.accesskey   "ข">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "การเปลี่ยนแปลงจำนวนโปรเซสเนื้อหาทำได้เฉพาะกับ &brandShortName; แบบหลายโปรเซส">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "ง">
