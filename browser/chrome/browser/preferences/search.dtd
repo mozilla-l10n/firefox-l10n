@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Egy kattintásos keresőszolgáltatások">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Válassza ki a címsáv alatt és a keresősávban gépeléskor megjelenő alternatív keresőszolgáltatatásokat.">
 
 <!ENTITY engineNameColumn.label                "Keresőszolgáltatás">
 <!ENTITY engineKeywordColumn.label             "Kulcsszó">
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Eltávolítás">
 <!ENTITY removeEngine.accesskey                "E">
 
+<!ENTITY findMoreSearchEngines.label           "További keresőszolgáltatások felvétele">
