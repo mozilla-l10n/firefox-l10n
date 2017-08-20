@@ -366,6 +366,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Ẓreg izen arewway">
 <!ENTITY editDraftMsgCmd.accesskey "r">
+<!ENTITY newMsgFromTemplateCmd.label "Izen amaynut sγur tneγruft">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Rnu imzizdig seg izen…">
 <!ENTITY createFilter.accesskey "n">
@@ -735,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Asmizzer s tceqqufin yeddan">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Izen amaynut sγur tneγruft">
 <!ENTITY contextOpenNewWindow.label "Ldi izen deg usfaylu amaynut">
 <!ENTITY contextOpenNewWindow.accesskey "s">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
