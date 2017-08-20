@@ -21,8 +21,9 @@
 <!ENTITY  paneContainers.title          "Konténer lapok">
 <!ENTITY  paneUpdates.title             "Frissítések">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Nyelv és megjelenés">
+<!ENTITY  filesAndApplications.label    "Fájlok és alkalmazások">
+<!ENTITY  browserPrivacy.label          "Böngésző adatvédelme">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox fiók">

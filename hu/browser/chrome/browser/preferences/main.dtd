@@ -10,7 +10,8 @@
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
 <!ENTITY startupPrevSession.label  "A legutóbbi ablakok és lapok megjelenítése">
 
-
+<!ENTITY homepage2.label           "Kezdőlap">
+<!ENTITY homepage2.accesskey       "K">
 <!ENTITY useCurrentPage.label      "Aktuális oldal használata">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktuális oldalak használata">
