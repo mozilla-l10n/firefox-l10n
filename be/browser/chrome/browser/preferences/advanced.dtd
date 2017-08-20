@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Выключэнні…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ч">
 
-<!ENTITY offlineAppsList2.label          "Наступныя вэб-сайты маюць дазвол на захаванне дадзеных для пазасеткавага выкарыстання:">
+<!ENTITY offlineAppsList3.label          "Наступныя вэб-сайты маюць дазвол на захаванне дадзеных для пазасеткавага выкарыстання">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Выдаліць…">
 <!ENTITY offlineAppsListRemove.accesskey "В">
