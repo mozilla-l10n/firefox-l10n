@@ -20,11 +20,14 @@
 <!ENTITY  notificationSettingsButton.accesskey                  "e">
 <!ENTITY  notificationPermissionsLearnMore.label                "További tudnivalók">
 
+<!ENTITY  locationPermissions.label                             "Hely">
+<!ENTITY  locationSettingsButton.accesskey                      "H">
 
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.accesskey                        "K">
 
-
-
-
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Betűk és színek">
 
@@ -39,6 +42,8 @@
 <!ENTITY  colors.label                "Színek…">
 <!ENTITY  colors.accesskey            "z">
 
+
+<!ENTITY language2.label              "Nyelv">
 <!ENTITY chooseLanguage.label         "Az oldalak megjelenítésére előnyben részesített nyelv megadása">
 <!ENTITY chooseButton.label           "Tallózás…">
 <!ENTITY chooseButton.accesskey       "T">

@@ -28,13 +28,13 @@
 <!ENTITY  doNotTrack.description        "„Do Not Track” jelzés küldése a webhelyeknek, jelezve, hogy nem szeretné, hogy kövessék">
 <!ENTITY  doNotTrack.learnMore.label    "További információk">
 <!ENTITY  doNotTrack.default.label      "Csak, ha követésvédelmet használ">
-
+<!ENTITY  doNotTrack.always.label       "Mindig">
 
 <!ENTITY  history.label                 "Előzmények">
 <!ENTITY  permissions.label             "Engedélyek">
 
 <!ENTITY  addressBar.label              "Címsáv">
-
+<!ENTITY  addressBar.suggest.label      "A címsáv használatakor jelenjen meg">
 <!ENTITY  locbar.history2.label         "Böngészési előzmények">
 <!ENTITY  locbar.history2.accesskey     "e">
 <!ENTITY  locbar.bookmarks.label        "Könyvjelzők">
@@ -44,15 +44,19 @@
 <!ENTITY  locbar.searches.label         "Kapcsolódó keresések az alapértelmezett keresőszolgáltatásból">
 <!ENTITY  locbar.searches.accesskey     "c">
 
+<!ENTITY  suggestionSettings2.label     "Keresőszolgáltatás-javaslatok beállításainak módosítása">
 
+<!ENTITY  acceptCookies2.label          "Sütik elfogadása webhelyekről">
+<!ENTITY  acceptCookies2.accesskey      "w">
 
-
-
-
+<!ENTITY  acceptThirdParty2.pre.label     "Harmadik féltől származó sütik elfogadása">
+<!ENTITY  acceptThirdParty2.pre.accesskey "H">
+<!ENTITY  acceptThirdParty.always.label   "Mindig">
 <!ENTITY  acceptThirdParty.never.label    "Soha">
 <!ENTITY  acceptThirdParty.visited.label  "Meglátogatottól">
 
-
+<!ENTITY  keepUntil2.label              "Sütik megtartása">
+<!ENTITY  keepUntil2.accesskey          "m">
 
 <!ENTITY  expire.label                  "amíg le nem járnak">
 <!ENTITY  close.label                   "a &brandShortName; bezárásáig">
@@ -63,7 +67,8 @@
 <!ENTITY  showCookies.label             "Sütik megtekintése…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
+<!ENTITY  historyHeader2.pre.label         "A &brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "A">
 <!ENTITY  historyHeader.remember.label     "Megjegyzi az előzményeket">
 <!ENTITY  historyHeader.dontremember.label "Nem jegyzi meg az előzményeket">
 <!ENTITY  historyHeader.custom.label       "Egyéni beállításokat használ az előzményekhez">

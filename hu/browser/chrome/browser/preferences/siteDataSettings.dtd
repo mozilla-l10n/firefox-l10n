@@ -6,8 +6,8 @@
 <!ENTITY     hostCol.label                 "Oldal">
 <!ENTITY     statusCol.label               "Állapot">
 <!ENTITY     usageCol.label                "Tárhely">
-
-
+<!ENTITY     searchTextboxPlaceHolder             "Weboldalak keresése">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kijelölt eltávolítása">
 <!ENTITY     removeSelected.accesskey      "e">
 <!ENTITY     save.label                    "Változások mentése">
