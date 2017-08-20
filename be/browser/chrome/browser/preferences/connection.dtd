@@ -16,18 +16,31 @@
 <!ENTITY  WPADTypeRadio.accesskey       "с">
 <!ENTITY  manualTypeRadio2.label        "Ручная наладка проксі">
 <!ENTITY  manualTypeRadio2.accesskey    "р">
+<!ENTITY  autoTypeRadio2.label          "URL аўтаматычнай наладкі проксі">
+<!ENTITY  autoTypeRadio2.accesskey      "а">
 <!ENTITY  reload.label                  "Абнавіць">
 <!ENTITY  reload.accesskey              "А">
+<!ENTITY  ftp2.label                    "FTP проксі">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP проксі">
+<!ENTITY  http2.accesskey               "п">
+<!ENTITY  ssl2.label                    "SSL проксі">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "Трымальнік SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS в4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS в5">
 <!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label2         "Праксіраваць DNS-запыты пры выкарыстанні SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "з">
+<!ENTITY  port2.label                   "Порт">
 <!ENTITY  HTTPport.accesskey            "п">
 <!ENTITY  SSLport.accesskey             "о">
 <!ENTITY  FTPport.accesskey             "р">
 <!ENTITY  SOCKSport.accesskey           "т">
+<!ENTITY  noproxy2.label                "Без проксі для">
+<!ENTITY  noproxy2.accesskey            "е">
 <!ENTITY  noproxyExplain.label          "Прыклад: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Ужываць адзін проксі для ўсіх пратаколаў">
 <!ENTITY  shareproxy.accesskey          "ў">

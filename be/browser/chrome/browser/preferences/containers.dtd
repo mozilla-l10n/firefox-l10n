@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Дадаць новы кантэйнер">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Імя:">
-<!ENTITY name.accesskey       "І">
+<!ENTITY name2.label          "Назва">
+<!ENTITY name2.accesskey      "Н">
 <!ENTITY name.placeholder     "Увядзіце назву кантэйнера">
-<!ENTITY icon.label           "Значок:">
-<!ENTITY icon.accesskey       "З">
-<!ENTITY color.label          "Колер:">
-<!ENTITY color.accesskey      "о">
+<!ENTITY icon2.label          "Значок">
+<!ENTITY icon2.accesskey      "З">
+<!ENTITY color2.label         "Колер">
+<!ENTITY color2.accesskey     "о">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Гатова">
 <!ENTITY button.ok.accesskey  "Г">
-

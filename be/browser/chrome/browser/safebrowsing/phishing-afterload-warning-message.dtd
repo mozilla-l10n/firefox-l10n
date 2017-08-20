@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Пра гэту старонку на <span id='phishing_sitename'/> вядома, што яна падманлівая. Заблакавана паводле вашых перавагаў бяспекі.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Падманлівыя сайты зроблены такім чынам, каб падманам пераканаць вас зрабіць што-небудзь небяспечнае, кшталту ўсталявання праграмы ці адкрыцця вашай персанальнай інфармацыі: пароляў, тэлефонных нумароў ці крэдытных карт.</p><p>Упісванне любой інфармацыі ў гэтую старонку можа прывесці да выкрадання асабістых звестак і іншага махлярства.</p>">
 
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">

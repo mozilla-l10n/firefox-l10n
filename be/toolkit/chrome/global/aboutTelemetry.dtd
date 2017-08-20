@@ -20,6 +20,7 @@
 Неапрацаваны JSON
 ">
 
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Адлюстроўваць дадзеныя падсесіі
 ">
@@ -107,6 +108,10 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Падрабязнасці дадатка">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Апошнія запісы">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Неапрацаваная нагрузка
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Інфармацыя сесіі

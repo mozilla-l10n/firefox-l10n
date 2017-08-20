@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Шрыфты">
 
-<!ENTITY  language.label                          "Шрыфты для:">
-<!ENTITY  language.accesskey                      "Ш">
+<!ENTITY  fonts.label                             "Шрыфты для">
+<!ENTITY  fonts.accesskey                         "Ш">
 
-<!ENTITY  size.label                              "Памер:">
+<!ENTITY  size2.label                             "Памер">
 <!ENTITY  sizeProportional.accesskey              "П">
 <!ENTITY  sizeMonospace.accesskey                 "е">
 
-<!ENTITY  proportional.label                      "Суадносны:">
-<!ENTITY  proportional.accesskey                  "С">
+<!ENTITY  proportional2.label                     "Прапарцыйны">
+<!ENTITY  proportional2.accesskey                 "П">
 
-<!ENTITY  serif.label                             "З засечкамі:">
-<!ENTITY  serif.accesskey                         "З">
-<!ENTITY  sans-serif.label                        "Без засечак:">
-<!ENTITY  sans-serif.accesskey                    "Б">
-<!ENTITY  monospace.label                         "Роўнашырокі:">
-<!ENTITY  monospace.accesskey                     "Р">
+<!ENTITY  serif2.label                            "З засечкамі">
+<!ENTITY  serif2.accesskey                        "З">
+<!ENTITY  sans-serif2.label                       "Без засечак">
+<!ENTITY  sans-serif2.accesskey                   "е">
+<!ENTITY  monospace2.label                        "Роўнашырокі">
+<!ENTITY  monospace2.accesskey                    "Р">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Сінгала">
 <!ENTITY  font.langGroup.tibetan                  "Тыбецкая">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Найменшы памер шрыфту:">
-<!ENTITY minSize.accesskey                        "м">
+<!ENTITY minSize2.label                           "Найменшы памер шрыфту">
+<!ENTITY minSize2.accesskey                       "а">
 <!ENTITY minSize.none                             "Няма">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "Д">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кадаванне тэксту для спадчыннага змесціва">
-<!ENTITY languages.customize.Fallback2.label      "Запасное кадаванне тэксту:">
-<!ENTITY languages.customize.Fallback2.accesskey  "т">
+<!ENTITY languages.customize.Fallback3.label      "Запасное кадаванне тэксту">
+<!ENTITY languages.customize.Fallback3.accesskey  "т">
 <!ENTITY languages.customize.Fallback2.desc       "Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.">
 
 <!ENTITY languages.customize.Fallback.auto        "Прадвызначана для гэтай мясцовасці">
