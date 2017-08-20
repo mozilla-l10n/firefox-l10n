@@ -19,7 +19,7 @@
 <!-- Columns -->
 <!ENTITY prefColumn.label "ชื่อค่ากำหนด">
 <!ENTITY lockColumn.label "สถานะ">
-<!ENTITY typeColumn.label "ประเภท">
+<!ENTITY typeColumn.label "ชนิด">
 <!ENTITY valueColumn.label "ค่า">
 
 <!-- Tooltips -->
