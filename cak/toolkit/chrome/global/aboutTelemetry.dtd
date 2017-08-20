@@ -64,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Kutam taq tzij ütz rutzijik">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Etamab'äl pa ruwi' molojri'ïl">
 
