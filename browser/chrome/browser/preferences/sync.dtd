@@ -16,10 +16,10 @@
 <!ENTITY engine.prefs.accesskey     "B">
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
-
-
-
-
+<!ENTITY engine.addresses.label     "Címek">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Bankkártyák">
+<!ENTITY engine.creditcards.accesskey "B">
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Eszköznév">
@@ -54,8 +54,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "Bejelentkezés">
 <!ENTITY signIn.accesskey            "B">
 <!ENTITY profilePicture.tooltip      "Profilkép módosítása">
-
-
+<!ENTITY verifiedManage.label        "Fiók kezelése">
+<!ENTITY verifiedManage.accesskey    "F">
 <!ENTITY disconnect3.label           "A kapcsolat bontása…">
 <!ENTITY disconnect3.accesskey       "t">
 <!ENTITY verify.label                "E-mail ellenőrzése">
