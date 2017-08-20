@@ -27,6 +27,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Az adatjelentést letiltották ehhez a binárishoz">
+
 
 <!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
