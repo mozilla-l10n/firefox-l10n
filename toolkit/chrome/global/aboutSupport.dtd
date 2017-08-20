@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activà">
 <!ENTITY aboutSupport.a11yForceDisabled "Impedir l'accessibladad">
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler utilisà per l'accessibladad">
+<!ENTITY aboutSupport.a11yInstantiator "Generatur d'accessibladad">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiuns da bibliotecas">
 
