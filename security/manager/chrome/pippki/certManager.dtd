@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Установы">
 <!ENTITY certmgr.tab.orphan2                  "Іншыя">
 
-<!ENTITY certmgr.mine                         "Вы маеце сертыфікаты наступных устаноў, якія вызначаюць вас:">
-<!ENTITY certmgr.others                       "Вы маеце сертыфікаты, якія вызначаюць наступных асоб:">
-<!ENTITY certmgr.websites2                    "Вы маеце сертыфікаты, якія вызначаюць наступныя серверы:">
-<!ENTITY certmgr.cas                          "Вы маеце сертыфікаты, якія вызначаюць наступныя сертыфікацыйныя ўстановы:">
-<!ENTITY certmgr.orphans                      "Вы маеце сертыфікаты, якія не пападаюць ні ў адну з іншых катэгорый:">
+<!ENTITY certmgr.mine2                        "Вы маеце сертыфікаты наступных устаноў, якія вызначаюць вас">
+<!ENTITY certmgr.others2                      "Вы маеце сертыфікаты, якія вызначаюць наступных асоб">
+<!ENTITY certmgr.websites3                    "Вы маеце сертыфікаты, якія вызначаюць наступныя серверы">
+<!ENTITY certmgr.cas2                         "Вы маеце сертыфікаты, якія вызначаюць наступныя сертыфікацыйныя ўстановы">
+<!ENTITY certmgr.orphans2                     "Вы маеце сертыфікаты, якія не пападаюць ні ў адну з іншых катэгорый">
 
 <!ENTITY certmgr.detail.general_tab.title     "Асноўныя">
 <!ENTITY certmgr.detail.general_tab.accesskey "А">
