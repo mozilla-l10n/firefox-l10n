@@ -366,6 +366,9 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "حرر مسودة الرسالة">
 <!ENTITY editDraftMsgCmd.accesskey "م">
+<!ENTITY newMsgFromTemplateCmd.label "رسالة جديدة من قالب">
+<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN">
 <!ENTITY createFilter.label "أنشئ مرشِّح مِن الرسالة…">
 <!ENTITY createFilter.accesskey "ش">
 <!ENTITY moveMsgToMenu.label "انقل إلى">
@@ -734,12 +737,13 @@
 <!ENTITY attachmentColumn2.tooltip "رتّب حسب المرفقات">
 <!-- Thread Pane Context Menu -->
 
+<!ENTITY contextNewMsgFromTemplate.label "رسالة جديدة من قالب">
 <!ENTITY contextOpenNewWindow.label "افتح الرسالة في نافذة جديدة">
 <!ENTITY contextOpenNewWindow.accesskey "ج">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "افتح الرسالة في لسان جديد">
 <!ENTITY contextOpenNewTab.accesskey "ل">
 <!ENTITY contextOpenConversation.label "افتح الرسالة في محادثة">
