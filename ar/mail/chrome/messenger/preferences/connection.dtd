@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "إعدادات الاتّصال">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "اضبط وسطاء الدخول إلى الإنترنت">
 <!ENTITY  noProxyTypeRadio.label        "بدون وسيط">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "مثال: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "استخدم الخادوم الوسيط هذا لكل البروتوكولات">
 <!ENTITY  shareproxy.accesskey          "و">
+<!ENTITY  autologinproxy.label          "لا تسأل الاستيثاق إذا كانت كلمة السر محفوظة">
+<!ENTITY  autologinproxy.accesskey      "س">
+<!ENTITY  autologinproxy.tooltip        "يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.">
+<!ENTITY  socksRemoteDNS.label          "خادوم عناوين نطاقات الوسيط أثناء استخدام SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "ن">
