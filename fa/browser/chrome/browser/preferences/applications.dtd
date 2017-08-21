@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "برنامه‌ها">
-
+<!ENTITY  applications.description "اینکه چگونه &brandShortName; پرونده‌های دریافت شده از وب یا برنامه‌هایی که هنگام مرور در وب از آنها استفاده می‌کنید را مدیریت کند، را انتخاب کنید.">
 
 <!ENTITY  typeColumn.label        "نوع محتوا">
-<!ENTITY  typeColumn.accesskey    "ن">
+<!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "عمل">
-<!ENTITY  actionColumn2.accesskey "ع">
+<!ENTITY  actionColumn2.accesskey "A">
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">

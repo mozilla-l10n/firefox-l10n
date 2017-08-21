@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "اطلاعات رفع اشکال">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  این صفحه حاوی اطلاعات فنی است که امکان دارد هنگامی که به دنبال حل مشکلی هستید به شما کمک کند.  اگر به دنبال پاسخی برای پرسش‌های معمول دربارهٔ &brandShortName; هستید، از <a id='supportLink'>وب‌گاه پشتیبانی ما</a> بازدید نمایید.">
 
 <!ENTITY aboutSupport.crashes.title "گزارش‌های فروپاشی">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "نام">
 <!ENTITY aboutSupport.appBasicsVersion "نسخه">
 <!ENTITY aboutSupport.appBasicsBuildID "شناسه ساخت">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "کانال بروزرسانی">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "تاریخچه بروزرسانی">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "نمایش تاریخچه بروزرسانی">
@@ -58,14 +58,15 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "سیستم عامل">
 <!ENTITY aboutSupport.appBasicsMemoryUse "استفاده حافظه">
 <!ENTITY aboutSupport.appBasicsPerformance "کارایی">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workerهای ثبت شده">
 
 <!ENTITY aboutSupport.appBasicsProfiles "نمایه">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "پنجره‌های چندپردازشی">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "پروسه‌های محتوای وب">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "کلید گوگل">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "کلید سرویس مکان‌یابی موزیلا">
@@ -84,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "ترجیحاتِ تغییر یافتهٔ مهم">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
 <!ENTITY aboutSupport.modifiedPrefsValue "مقدار">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "ترجیحات user.js">
 <!ENTITY aboutSupport.userJSDescription "پوشه نمایه‌ی شما شامل یک <a id='prefs-user-js-link'>پرونده user.js</a> است، که شامل ترجیحاتی است که توسط &brandShortName; ساخته نشده است.">
 
@@ -105,8 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "دسترسی‌پذیری">
 <!ENTITY aboutSupport.a11yActivated "فعال‌ شده">
 <!ENTITY aboutSupport.a11yForceDisabled "دسترسی را متوقف کن">
-
-
+<!ENTITY aboutSupport.a11yInstantiator "منطبق کنندهٔ دسترسی‌پذیری">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "نسخه‌های کتاب‌خانه">
 
@@ -138,14 +138,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "امکانات غیرفعال شده محافظ فروپاشی">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "راه‌حل">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "رسانه">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "دستگاه‌های خروجی">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "دستگاه‌های ورودی">
+<!ENTITY aboutSupport.mediaDeviceName "نام">
+<!ENTITY aboutSupport.mediaDeviceGroup "گروه">
+<!ENTITY aboutSupport.mediaDeviceVendor "فراهم‌کننده">
+<!ENTITY aboutSupport.mediaDeviceState "وضعیت">
+<!ENTITY aboutSupport.mediaDevicePreferred "ترجیح داده شده">
+<!ENTITY aboutSupport.mediaDeviceFormat "قالب">
+<!ENTITY aboutSupport.mediaDeviceChannels "کانال‌ها">
+<!ENTITY aboutSupport.mediaDeviceRate "ارزیابی">
+<!ENTITY aboutSupport.mediaDeviceLatency "تاخیر">
