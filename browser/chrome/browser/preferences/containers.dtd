@@ -12,15 +12,14 @@
 <!ENTITY window.title         "새 컨테이너 추가">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "이름:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "이름">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "컨테이너 이름 입력">
-<!ENTITY icon.label           "아이콘:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "색:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "아이콘">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "색깔">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "완료">
 <!ENTITY button.ok.accesskey  "D">
-
