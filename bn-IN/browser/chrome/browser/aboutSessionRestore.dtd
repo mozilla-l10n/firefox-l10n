@@ -35,6 +35,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ব্যবহারের জন্য তৈরি।">
 
 <!ENTITY welcomeback2.restoreAll.label  "সমস্ত উইন্ডো &amp; ট্যাব পুনরুদ্ধার করুন">
+<!ENTITY welcomeback2.restoreSome.label "সেগুলি পুনরুদ্ধার করুন যেগুলি আপনি চান">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
