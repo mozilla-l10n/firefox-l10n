@@ -19,8 +19,11 @@
 <!ENTITY  notificationPermissions.label                         "التنبيهات">
 <!ENTITY  notificationPermissionsLearnMore.label                "اطّلع على المزيد">
 
+<!ENTITY  locationPermissions.label                             "المكان">
 
+<!ENTITY  cameraPermissions.label                               "الكمرة">
 
+<!ENTITY  microphonePermissions.label                           "الميكروفون">
 
 <!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
 
