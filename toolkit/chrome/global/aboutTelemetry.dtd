@@ -20,6 +20,9 @@
 Неапрацаваны JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Адкрыць у праглядальніку JSON
+">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
 Адлюстроўваць дадзеныя падсесіі
