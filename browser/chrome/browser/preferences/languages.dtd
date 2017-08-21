@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "زبان‌ها">
-
+<!ENTITY languages.customize2.description               "گاهی صفحات وب به زبان‌های دیگر هم ارائه می‌شوند. زبان‌هایی که مایلید این صفحات را ببینید را به ترتیب ترجیحات خود انتخاب کنید">
 <!ENTITY languages.customize.moveUp.label               "انتقال به بالا">
 <!ENTITY languages.customize.moveUp.accesskey           "ب">
 <!ENTITY languages.customize.moveDown.label             "انتقال به پایین">

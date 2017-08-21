@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "قلم‌ها">
 
+<!ENTITY  fonts.label                             "قلم‌ها برای">
+<!ENTITY  fonts.accesskey                         "F">
 
+<!ENTITY  size2.label                             "اندازه">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  sizeProportional.accesskey              "ن">
-<!ENTITY  sizeMonospace.accesskey                 "ز">
+<!ENTITY  proportional2.label                     "متناسب">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "لاتینی">
 <!ENTITY  font.langGroup.japanese                 "ژاپنی">
 <!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
@@ -49,10 +53,11 @@
 <!ENTITY  font.langGroup.sinhala                  "سینهالی">
 <!ENTITY  font.langGroup.tibetan                  "تبتی">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "حداقل اندازه قلم">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "هیچ‌کدام">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "سِریف">
 <!ENTITY  useDefaultFontSansSerif.label           "بدون سِریف">
 
@@ -60,8 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "ج">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "کدگذاری متن برای محتوای قدیمی">
-
-
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.">
 
 <!ENTITY languages.customize.Fallback.auto        "پیش‌فرض برای مکان فعلی">
