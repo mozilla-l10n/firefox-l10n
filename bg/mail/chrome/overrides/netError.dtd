@@ -95,7 +95,7 @@
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Или можете да добавите изключение…">
+<!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 
