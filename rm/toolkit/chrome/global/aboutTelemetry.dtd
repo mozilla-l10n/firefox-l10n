@@ -20,6 +20,10 @@ Datas da ping archivadas
 JSON brut
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Avrir en il visualisader da JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Mussar datas da sesidas subordinadas
 ">
@@ -118,6 +122,10 @@ Pli vegl
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Inscripziuns retardadas
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Cuntegn betg elavurà
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
