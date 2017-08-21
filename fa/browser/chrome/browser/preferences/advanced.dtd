@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY dataCollection.label            "ذخیره اطلاعات و استفاده &brandShortName;">
-<!ENTITY dataCollectionDesc.label        "ما تلاش می‌کنیم چیزهایی را برای شما فراهم آوریم که برای بهبود سازی &brandShortName; برای همگان نیاز دارید. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.">
+<!ENTITY dataCollectionDesc.label        "ما تمام تلاش خود را می‌کنیم که به شما حق انتخاب بدهیم و تنها اطلاعاتی را جمع‌آوری کنیم که برای بهبود &brandShortName; برای همه، کمک کند. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.">
 <!ENTITY dataCollectionPrivacyNotice.label    "نکات حفظ حریم خصوصی">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "اجازه دادن به &brandShortName; برای ارسال گزارشات خرابی برای موزیلا">
@@ -90,6 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "برای تجربهٔ بهترین کارایی، پایداری و امنیت &brandShortName; را به روز نگاه دارید.">
 <!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
