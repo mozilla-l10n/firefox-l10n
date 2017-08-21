@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Задзейнічаны">
 <!ENTITY aboutSupport.a11yForceDisabled "Прадухіліць даступнасць">
 <!ENTITY aboutSupport.a11yHandlerUsed "Апрацоўшчык даступнасці. які выкарыстоўваецца">
+<!ENTITY aboutSupport.a11yInstantiator "Увасабляльнік даступнасці">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Версіі бібліятэк">
 
