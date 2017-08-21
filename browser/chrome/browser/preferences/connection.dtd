@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "ا">
 <!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات پیشکار برای این شبکه">
 <!ENTITY  WPADTypeRadio.accesskey       "ک">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "پیکربندی دستی پروکسی">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "پیوند مربوط به پیکربندی خودکار پروکسی">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "بارگیری مجدد">
 <!ENTITY  reload.accesskey              "ب">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "پروکسی FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "پروکسی HTTP">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "پروکسی SSL">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "کارگزار SOCKS">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "پیشکار SOCKS v4">
 <!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "پیشکار SOCKS v5">
 <!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label2         "استفاده از پیشکار DNS هنگام استفاده از SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "درگاه">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
+<!ENTITY  noproxy2.label                "بدون پروکسی برای">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬">
 <!ENTITY  shareproxy.label              "استفاده از این پیشکار برای همهٔ قراردادها">
 <!ENTITY  shareproxy.accesskey          "ه">

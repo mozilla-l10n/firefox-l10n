@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "هرگز">
 
 <!ENTITY  color                           "متن و پس‌زمینه">
-
-
-
-
+<!ENTITY  textColor2.label                "متن">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "پس‌زمینه">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "استفاده از رنگ‌های سیستم">
 <!ENTITY  useSystemColors.accesskey       "س">
 
 <!ENTITY  underlineLinks.label            "زیرخط‌دار کردن پیوندها">
 <!ENTITY  underlineLinks.accesskey        "ز">
 <!ENTITY  links                           "رنگ پیوندها">
-
-
-
-
+<!ENTITY  linkColor2.label                "پیوندهای بازدید نشده">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "پیوندهای بازدید شده">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
