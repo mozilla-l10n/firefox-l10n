@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "始终使用方向键在页面内导航">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "直接输入则开始搜索文本">
+<!ENTITY searchOnStartTyping.label       "光标不在文本框内时，若输入则同时在网页中查找">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY blockAutoReload.label           "当网站试图重定向或重新载入页面时发出警告">
 <!ENTITY blockAutoReload.accesskey       "b">
