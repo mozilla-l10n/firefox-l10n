@@ -438,7 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "টিপ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "জিনিষ খুঁজে পেতে সাহায্য নিন! &#x1F50E দেখুন; অনুসন্ধান পরামর্শের পাশে।">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "জিনিষ খুঁজে পেতে সাহায্য নিন! &#x1F50E; দেখুন; অনুসন্ধান পরামর্শের পাশে।">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "বিকল্পগুলিকে পরিবর্তন করুন…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "পছন্দসই মান পরিবর্তন করুন…">
@@ -961,17 +961,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "&brandShorterName আপডেট করুন; সর্বশেষ গতি এবং গোপনীয়তার জন্য।">
+<!ENTITY updateAvailable.message "&brandShorterName; আপডেট করুন; সর্বশেষ গতি এবং গোপনীয়তার জন্য।">
 <!ENTITY updateAvailable.whatsnew.label "দেখুন নতুন কি আছে।">
 <!ENTITY updateAvailable.header.message "একটি নতুন &brandShorterName; আপডেট উপলব্ধ আছে।">
 <!ENTITY updateAvailable.acceptButton.label "আপডেট ডাউনলোড করুন">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "এখন নয়">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "&brandShorterName ডাউনলোড করুন; আপডেট করুন">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; ডাউনলোড করুন; আপডেট করুন">
 
+<!ENTITY updateManual.message "&brandShorterName;-র একটি নতুন কপি ডাউনলোড করুন এবং আমরা আপনাকে এটি ইনস্টল করতে সাহায্য করব।">
+<!ENTITY updateManual.whatsnew.label "দেখুন নতুন কি আছে।">
+<!ENTITY updateManual.header.message "&brandShorterName; সর্বশেষ সংস্করণ আপডেট করতে পারবেন না।">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ডাউনলোড করুন">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "এই মুহূর্তে নয়">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName;-র একটি নতুন কপি ডাউনলোড করুন">
 
+<!ENTITY updateRestart.message "দ্রুততার সাথে পুনরায় চালু করার পরে, &brandShorterName; আপনার সব খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে।">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; আপডেট করতে পুনরায় চালু করুন।">
+<!ENTITY updateRestart.acceptButton.label "পুনরারম্ভ করুন এবং পুনরুদ্ধার করুন">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "এই মুহূর্তে নয়">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; আপডেট করতে পুনরায় চালু করুন">
 
+<!ENTITY pageActionButton.tooltip "পৃষ্ঠার ক্রিয়াকলাপগুলি">
+<!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
+<!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা বার থেকে অপসারণ করুন">
 
+<!ENTITY sendToDevice.label2 "ডিভাইসে প্রেরণ করুন">
+<!ENTITY sendToDevice.syncNotReady.label "ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…">
