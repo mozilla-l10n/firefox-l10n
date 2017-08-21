@@ -34,6 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
 <!ENTITY dataCollection.label            "การเก็บรวบรวมและใช้ข้อมูล &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องจัดหาและปรับปรุง &brandShortName; สำหรับทุกคน เราร้องขอการอนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ประกาศความเป็นส่วนตัว">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "อนุญาตให้ &brandShortName; ส่งรายงานข้อขัดข้องไปยัง Mozilla">
