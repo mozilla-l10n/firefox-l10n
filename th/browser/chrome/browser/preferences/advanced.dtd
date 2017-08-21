@@ -90,7 +90,7 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplicationDescription.label
-                                         "คง &brandShortName; ให้เป็นรุ่นล่าสุดเพื่อประสิทธิภาพ, เสถียรภาพ และความปลอดภัยสูงสุด">
+                                         "คง &brandShortName; ให้เป็นรุ่นล่าสุดเพื่อประสิทธิภาพ, เสถียรภาพ และความปลอดภัยที่ดีที่สุด">
 <!ENTITY updateApplication.version.pre   "รุ่น ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
