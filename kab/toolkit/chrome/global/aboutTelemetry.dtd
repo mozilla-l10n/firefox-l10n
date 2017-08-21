@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.raw "Izirig JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ldi deg umeskan JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Sken isefka n adtiɣimit">
 
 <!ENTITY aboutTelemetry.choosePing "Fren ping:">
@@ -61,6 +63,8 @@
 <!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "Taɛekkemt tarewwayt">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Talɣut n tɣimit">
 

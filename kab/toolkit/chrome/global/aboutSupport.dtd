@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Irmed">
 <!ENTITY aboutSupport.a11yForceDisabled "Sewḥel tuffart">
 <!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler ittwaseqdec">
+<!ENTITY aboutSupport.a11yInstantiator "Amaraw n tnekcumt">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Ileqman n temkarḍiyin">
 

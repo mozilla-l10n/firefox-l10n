@@ -11,6 +11,10 @@
 <!ENTITY certmgr.tab.orphan2                  "Wiyaḍ">
 
 <!ENTITY certmgr.mine2                        "Γuṛ-ek iselkan n tuddsiwin seg tekebbanit-agi i k-isuluyen">
+<!ENTITY certmgr.others2                      "Ɣur-k iselkinen ɣef ufaylu  yessuluyen imdanen-agi">
+<!ENTITY certmgr.websites3                    "Ɣuṛ-k iselkinen deg ufaylu yessuluyen iqeddacen-agi">
+<!ENTITY certmgr.cas2                         "Ɣur-k iselkinen ɣef ufaylu yessuluyen iduba-agi n iselkinen">
+<!ENTITY certmgr.orphans2                     "Ɣuṛ-k iselkinen deg ufaylu yessuluyen ur n cudd ar yiwet si taggayin-nniḍen">
 
 <!ENTITY certmgr.detail.general_tab.title     "Amatu">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
