@@ -988,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
+<!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
 
 <!ENTITY sendToDevice.label2 "Enviar a un periferic">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
