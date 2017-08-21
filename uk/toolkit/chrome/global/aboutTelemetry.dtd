@@ -120,6 +120,9 @@
   Пізні записи
 ">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Необроблене навантаження
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Інформація про сеанс
