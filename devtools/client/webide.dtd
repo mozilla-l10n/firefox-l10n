@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "عکس صفحه">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "اطلاعات زمان‌اجرا">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "رصد">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ترجیحات دستگاه">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "بازکردن برنامه">
 <!ENTITY runtimeButton_label "انتخاب زمان اجرا">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -81,8 +81,8 @@
 <!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
 <!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
 <!ENTITY runtimePanel_refreshDevices_label "ازنوسازی دستگاه ها">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "معتبر">
 <!ENTITY details_warning_header "اخطارها">
 <!ENTITY details_error_header "خطاها">
@@ -90,23 +90,23 @@
 <!ENTITY details_location "مکان">
 <!ENTITY details_manifestURL "شناسه برنامه">
 <!ENTITY details_removeProject_button "حذف پروژه">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "برنامه جدید">
 <!ENTITY newAppHeader "انتخاب قالب">
 <!ENTITY newAppLoadingTemplate "بارگذاری قالب ها ...">
 <!ENTITY newAppProjectName "نام پروژه:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "بستن">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "مولفه‌های بیشتر">
 <!ENTITY addons_aboutaddons "بازکردن مدیر افزونه‌ها">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "ترجیحات">
 <!ENTITY prefs_editor_title "ویراستار">
 <!ENTITY prefs_general_title "عمومی">
@@ -118,8 +118,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "برگرداندن آخرین پروژه زمانی که WebIDE در حال اجراست">
 <!ENTITY prefs_options_templatesurl "URL قالب ها ">
 <!ENTITY prefs_options_templatesurl_tooltip "نمایه‌ای از قالب‌های موجود">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "اطلاعات زمان‌اجرا">
 <!ENTITY runtimedetails_adbIsRoot "ADB کاربرد ارشد است: ">
 <!ENTITY runtimedetails_summonADBRoot "دستگاه کاربرارشد">
@@ -127,36 +127,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "اختیارات بدون محدودیت ابزارهای توسعه:">
 <!ENTITY runtimedetails_requestPrivileges "درخواست اختیارات بالاتر">
 <!ENTITY runtimedetails_privilegesWarning "(خوب برای راه‌اندازی مجدد دستگاه. نیازمند دسترسی کاربرارشد است.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "بولی">
 <!ENTITY device_typenumber "عدد صحیح">
 <!ENTITY device_typestring "رشته">
 <!ENTITY device_typeobject "شیء">
 <!ENTITY device_typenone "انتخاب نوع">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "ترجیحات وبگاه‌ها">
 <!ENTITY devicepreference_search "جست‌و‌جو ترجیحات">
 <!ENTITY devicepreference_newname "نام جدید ترجیحات">
 <!ENTITY devicepreference_newtext "مقدار ترجیحات">
 <!ENTITY devicepreference_addnew "اضافه کردن ترجیحات جدید">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "تنظیمات دستگاه">
 <!ENTITY devicesetting_search "جستجو تنظیمات">
 <!ENTITY devicesetting_newname "نام جدید تنظیمات">
 <!ENTITY devicesetting_newtext "مقدار تنظیمات">
 <!ENTITY devicesetting_addnew "اضافه کردن تنظیمات جدید">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "رصد">
 <!ENTITY monitor_help "راهنما">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "شناسایی کاربر">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,11 +171,11 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "اگر دستگاه های دیگر شما به جای QR کد از شما توکن خواست، لطفا مقدار زیر را در دستگاه های دیگر کپی کنید:">
 <!ENTITY wifi_auth_qr_size_note "اگر کد QR بیش از حد برای برقراری ارتباط موفق کوچک است، بر روی آن بزرگنمایی کنید یا پنجره خود را بزرگتر کنید.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "گزارش‌های دستورات قبل از بسته بندی">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "گزینه‌های شبیه‌ساز">
 <!ENTITY simulator_remove "حذف شبیه‌ساز">
 <!ENTITY simulator_reset "احیای تنظیمات پیش‌فرض">
