@@ -1,0 +1,835 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY firstrun_panel_title_welcome "Kukuèni">
+
+<!ENTITY firstrun_urlbar_message "kukueni &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext "Nda ntuku kuaa ñaa tsi ña chinchee">
+<!ENTITY firstrun_bookmarks_title "Ña niya\u0027a">
+<!ENTITY firstrun_bookmarks_message "Ña ta\u0027an inù, nuù, mà\u0027in">
+<!ENTITY firstrun_bookmarks_subtext "Ntanèe marka tsi ña ni ña niya\u0027a ta nda ntukuku">
+<!ENTITY firstrun_data_title "Tutù">
+<!ENTITY firstrun_data_message "Luxoo tu\u0027un, kuaka ña  kunka\u0027va">
+<!ENTITY firstrun_data_subtext2 "Ma chiakà vaii ñaá tutu ndatavana tava luxoo sachuin ta inkau nu sitio web  ">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, ntikiì tsioku">
+<!ENTITY firstrun_sync_subtext "Chitaàn pestaña, tsi contraseña, ta kuachu\u0027uña">
+<!ENTITY firstrun_signin_message "Chita\u0027n, ki\u0027tsaà">
+<!ENTITY firstrun_signin_button "Kivi nuú Sync">
+<!ENTITY  onboard_start_button_browser "ki\u0027tsaà nda ntuku">
+<!ENTITY firstrun_button_notnow "Makuu vichi">
+<!ENTITY firstrun_button_next "Núu">
+
+<!ENTITY firstrun_tabqueue_title "Enlaces">
+<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Kuachu\u0027un pestaña">
+<!ENTITY firstrun_tabqueue_subtext_off "Chika vaà enlace tava kuachu\u0027un ña inka ki\u0027i &brandShortName; kunchee inka aplicacion.">
+
+<!ENTITY firstrun_tabqueue_message_on "Vaa na koo">
+<!ENTITY firstrun_tabqueue_subtext_on "ku nda samu nu &settings; under &pref_category_general;.">
+
+<!ENTITY firstrun_readerview_title "Tu\u0027un">
+<!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Stoò ña vaa">
+<!ENTITY firstrun_readerview_subtext "Kuachu\u0027un vista lector tava va\u0027a na kuu kavu \u2014 tatu koo conexiòn.">
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+
+<!ENTITY firstrun_account_title "Meu">
+<!ENTITY firstrun_account_message "A kunu &brandShortName; nuu inka dispositivo?">
+
+<!ENTITY  onboard_start_restricted1 "N\u0027da samà seguridad ni control tsi versión yoò &brandShortName;">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "chika marca">
+<!ENTITY  history_title "Ña niya\u0027a">
+
+<!ENTITY  switch_to_tab "nda sama ">
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+
+<!ENTITY  tab_offline_version "Sna\u0027i versión cha koo coneciòn">
+
+<!ENTITY  crash_reporter_title "&brandShortName; Informe ña va\u0027a">
+<!ENTITY  crash_message2 "&brandShortName; Ntsio ña vaa cha ntasia . pestaña ku  tsini ñuu ku \u0027n kai nu Página niki tsau  &brandShortName; ta sa reiniciar ku">
+<!ENTITY  crash_send_report_message3 "kavii &vendorShortName;  tsaa sa\u0027n tava na ntu vai\u0027i">
+<!ENTITY  crash_include_url2 "a kunu nda\u0027chiku paguina nu n\u0027tsikau">
+<!ENTITY  crash_sorry "kunchatu">
+<!ENTITY  crash_comment "chika\u0027a in comenterio (ña cu ncutu kui)">
+<!ENTITY  crash_allow_contact2 "a kunu&vendorShortName;  ku kau´n tsi tsa ña ni kuu">
+<!ENTITY  crash_email "Korreo ku">
+<!ENTITY  crash_closing_alert "Keta ma chichu\u0027un tutu ña va\u0027a">
+<!ENTITY  sending_crash_report "Chachu\u0027un tutu ña va\u0027a\u2026">
+<!ENTITY  crash_close_label "Ndakasi">
+<!ENTITY  crash_restart_label "Ndu\u0027tsaa &brandShortName;">
+
+<!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
+
+<!ENTITY bookmark "Marca">
+<!ENTITY bookmark_remove "Xita marca">
+<!ENTITY bookmark_added "Inkàa va´a marcador">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Tsa in\u0027kai nu marca">
+<!ENTITY bookmark_removed "Tsa n\u0027do marca">
+<!ENTITY bookmark_updated "Inkàa va´a marcador ">
+<!ENTITY bookmark_options "N\u0027da tuku">
+<!ENTITY bookmark_save "Chika vaà">
+<!ENTITY screenshot_added_to_bookmarks "Inka vaa pantalla ntatavu nu marcadores">
+<!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
+     the user takes. The folder we store these links in is located in the bookmarks list
+     and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Nta\u0027tava ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Kavii lista ">
+<!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
+     in the folder. -->
+
+<!ENTITY bookmark_folder_items "&formatD; pestañas">
+<!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_parent_folder "Nu chikavau tutu">
+<!ENTITY bookmark_add_folder "Chikaa tutu tsaa">
+
+<!ENTITY reader_saved_offline "Inkàa vaii ">
+<!-- Localization note (reader_switch_to_bookmarks) : This
+     string is used as an action in a snackbar - it lets you
+     "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Switch">
+
+<!ENTITY history_today_section "Vichi">
+<!ENTITY history_yesterday_section "Takuní">
+<!ENTITY history_week_section3 "Ña ni yàa u\u0027tsa kii">
+<!ENTITY history_older_section3 "Ni yàa u\u0027tsa yòo">
+
+<!ENTITY search "Nda tuku">
+<!ENTITY reload "Kitsa tuku">
+<!ENTITY forward "Inka">
+<!ENTITY menu "N\u0027da tuku">
+<!ENTITY back "Satàa">
+<!ENTITY stop "Tsikui\u0027n">
+<!ENTITY site_security "Seguro ña sitio yoo">
+<!ENTITY edit_mode_cancel "Kunchatu">
+
+<!ENTITY close_tab "Ndakasi pestaña">
+<!ENTITY one_tab "1 pestaña">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; pestañas">
+<!ENTITY new_tab_opened "Ntu tsa\u0027a pestaña nuna">
+<!ENTITY new_private_tab_opened "Tsa\u0027a pestaña ña meu nuna">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Kuchàa so\u0027o ndusu – &formatS;">
+
+<!ENTITY settings "N\u0027da sama nti\u0027i">
+<!ENTITY settings_title "N\u0027da sama nti\u0027i">
+<!ENTITY pref_category_general "Ntií">
+<!ENTITY pref_category_general_summary3 "Kitsa,tu\u0027un, sata etiqueta">
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+<!ENTITY pref_category_language "Tu\u0027un">
+<!ENTITY pref_category_language_summary "Nda sama tu\u0027un navegador">
+<!ENTITY pref_browser_locale "Tu\u0027un navegador">
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+
+<!ENTITY locale_system_default "Tana Kaa sistema ta ni kitsai\u0027i">
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Nta sàa &brandShortName;">
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "Marca">
+<!ENTITY overlay_share_bookmark_btn_label_already "Tsa in\u0027kai nu marca">
+<!ENTITY overlay_share_send_other "Nda chu\u0027in inka nuu">
+
+<!ENTITY overlay_share_open_browser_btn_label "kivi &brandShortName;">
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Nda chu\u0027in inka nuu">
+<!ENTITY overlay_share_no_url "Kòo enlace yòo">
+<!ENTITY overlay_share_select_device "Katsi ña kunu">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Koo ña inkaa nu cuenta Firefox">
+
+<!ENTITY pref_category_search3 "Nda tuku">
+<!ENTITY pref_category_search_summary2 "Chika´a, chikaa ña sa\u0027an koo, sna\u0027a sugerencias">
+<!ENTITY pref_category_accessibility "Accesibilidad">
+<!ENTITY pref_category_accessibility_summary2 "Nixi kunu letra, nda saa kanu, nu kivi ndusu">
+<!ENTITY pref_category_privacy_short "Ña meu ">
+<!ENTITY pref_category_privacy_summary4 "Kunche\u0027e, ki`tsaa, nixi koo datos">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "tsa ña &brandShortName;, FAQs, feedback">
+<!ENTITY pref_category_datareporting "Kiin tutù">
+<!ENTITY pref_category_logins "Kivii">
+<!ENTITY pref_learn_more "Skua\u0027a kuakaa">
+<!ENTITY pref_category_installed_search_engines "Ña nda ntuku in\u0027caa">
+<!ENTITY pref_category_add_search_providers "Chika\u0027a ña nda ntuku">
+<!ENTITY pref_category_search_restore_defaults "Ndu tsaa ña nda ntuku">
+<!ENTITY pref_search_restore_defaults "nda tsaa ta ni kitsai\u0027i">
+<!ENTITY pref_search_restore_defaults_summary "nda tsaa ta ni kitsai\u0027i">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint2 "TU\u0027UN: chika´a nchi ña niku nu lista kunu ndatukuku katavi nu ndatukuku &formatI; icono">
+<!ENTITY pref_category_advanced "Nchichi">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Nta ku\u0027unchee pestañas, kuachu\u0027un luxo\u0027o datos, nu nda saú">
+<!ENTITY pref_category_notifications "Tu\u0027un">
+<!ENTITY pref_category_notifications_summary "Funciòn tsaa, ntu tsaá sitio web">
+<!ENTITY pref_content_notifications "Ntu tsaá Website">
+<!ENTITY pref_content_notifications_summary2 "Kuncheè ña tsaa nu web">
+<!ENTITY pref_developer_remotedebugging_usb "Nta sa vaà tsi USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Nta sa vaà tsi Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ña nta sa vaà tsi Wi-Fi tsini ñuù koo ña kavi QR">
+<!ENTITY pref_remember_signons2 "Kunau kitsau">
+<!ENTITY pref_manage_logins "Nda ntuku nu ki tsa\u0027u">
+
+<!ENTITY pref_category_home "Kitsàa">
+<!ENTITY pref_category_home_summary "Za\u0027a nishi kunu koo pagina ki tsa\u0027u">
+<!ENTITY pref_category_home_panels "Panel">
+<!ENTITY pref_category_home_add_ons "Add-ons">
+<!ENTITY pref_home_updates2 "Ntu tsaá contenido">
+<!ENTITY pref_home_updates_enabled "Ni ki tsaa">
+<!ENTITY pref_home_updates_wifi "Tsi Wi-Fi">
+<!ENTITY pref_category_home_homepage "Pagina nu ki tsa\u0027u">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Kuu chikau pestaña tsaa">
+<!ENTITY home_homepage_title "Chàa paguina nu kitsau  ">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Ki\u0027tsa">
+<!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
+     buttons to choose the homepage they'd like to start on. When they click the radio
+     button for this string, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Nishi kunu">
+<!-- Localization note (home_homepage_hint_user_address): The user will see a series of
+     radio buttons to choose the homepage they'd like to start on. When they click a
+     particular radio button, a text field will appear below the radio button and allow the
+     user to insert an address of their choice. This string is the hint text to that
+     text field. -->
+<!ENTITY home_homepage_hint_user_address "Chàa dirección a ñaá kunu nta ndukuku">
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_search "Nta nduku">
+<!ENTITY pref_header_privacy_short "Ña meu ">
+<!ENTITY pref_header_accessibility "Accesibilidad">
+<!ENTITY pref_header_notifications "Tu\u0027un">
+<!ENTITY pref_header_advanced "Nchichi">
+<!ENTITY pref_header_help "Ña chinchee yoo">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Ni ki tsaa">
+<!ENTITY pref_cookies_not_accept_foreign "Ni ki tsai, kòo na si\u0027in">
+<!ENTITY pref_cookies_disabled "Nta xitaá">
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
+
+<!ENTITY pref_category_data_saver "Chikaa vaà tutù">
+<!ENTITY pref_category_media "Media">
+<!ENTITY pref_category_developer_tools "Herramienta ña nta sama">
+
+<!ENTITY pref_tap_to_load_images_title2 "Snaá ña ntatava\u0027na">
+<!ENTITY pref_tap_to_load_images_enabled "Ntikiì">
+<!ENTITY pref_tap_to_load_images_data "Tsi Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Nta\u0027kasi">
+
+<!ENTITY pref_show_web_fonts "Snaá nixi kaa tutu yoo">
+<!ENTITY pref_show_web_fonts_summary2 "Snuù letra inka tsio ta ki\u0027tsàa in página">
+
+<!ENTITY pref_tracking_protection_title2 "Chikaà vaà seguimiento">
+<!ENTITY pref_tracking_protection_summary3 "Ki tsaa nu maku kuncheè naà nchi sau">
+<!ENTITY pref_donottrack_title "Makuu ndatukuku">
+<!ENTITY pref_donottrack_summary "&brandShortName; ndakania nu kue sitio ña maku ndatukuna yoo">
+
+<!ENTITY pref_tracking_protection_enabled "Ni ki tsaa">
+<!ENTITY pref_tracking_protection_enabled_pb "Ki tsaa nu maku kuncheè naà nchi sau">
+<!ENTITY pref_tracking_protection_disabled "Nta xitaá">
+
+<!ENTITY pref_whats_new_notification "Nchii yee ña tsa\u0027a &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Kunchee nixi kuachu\u0027un ña ta ntsinu ntu tsai">
+<!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
+     for experimental features. -->
+
+<!ENTITY pref_category_experimental "Kunchee nixi kuachu\u0027un ña">
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!ENTITY pref_custom_tabs "Nixi kunu etiqueta">
+<!ENTITY pref_custom_tabs_summary3 "A kunu ña kue progrma kuni sitios web tsi &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Kuna nu &formatS;">
+<!ENTITY custom_tabs_menu_footer "Ña nikitsai ku &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Ntatava URL">
+
+<!ENTITY pref_pwa "Aplicacione web kanu">
+<!ENTITY pref_pwa_summary "A kunu ña aplicaciones webntasami nu kitsau">
+
+<!ENTITY tracking_protection_prompt_title "Vichi tsi ña chikaà vaà seguimiento">
+<!ENTITY tracking_protection_prompt_text "Nta Kasia seguimiento, koo ña kuñu inuù">
+<!ENTITY tracking_protection_prompt_tip_text "Kunchee nixi nta samu privacidad  ">
+<!ENTITY tracking_protection_prompt_action_button "Tsa naa ña">
+
+<!ENTITY tab_queue_toast_message3 "Tutu inka vaa nu &brandShortName;">
+<!ENTITY tab_queue_toast_action "Kunaá vichi">
+<!ENTITY tab_queue_prompt_title "A kunaku kuaa tutu">
+<!ENTITY tab_queue_prompt_text4 "Chikava\u0027i  inka na kunaku &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Kuu ntasamu ña inka kii nu  Nda samana ntii">
+<!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
+     user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Activar Ña kuu ntakayuu nu inka aplicacion">
+<!ENTITY tab_queue_prompt_positive_action_button "Activar">
+<!ENTITY tab_queue_prompt_negative_action_button "Makuù michumi">
+<!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
+     enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "A ku\u0027un nu Nda samana ntii">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; nchatui tutu">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tutu nchatu">
+<!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
+     has been queued but we are missing the system permission to show an overlay. -->
+
+<!ENTITY tab_queue_notification_settings "Tatu \&quot;kunu kua enlace\&quot;,saà ña mani, saà activar ña kuu \u0027ntakayuu nu inka aplicacion\u0027 tava &brandShortName;">
+
+<!ENTITY content_notification_summary "&brandShortName;">
+<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
+     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
+     update the website title is used instead of this string.
+     We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; ntu tsaá websites">
+<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
+     Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "N\u0027da sama ntii">
+<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
+     Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "Kavii vichi">
+<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
+     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
+     documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "ntu tsai nu &formatS;">
+
+<!ENTITY pref_char_encoding "Codificación ña letra">
+<!ENTITY pref_char_encoding_on "Snaà nu n\u0027ta dukuku">
+<!ENTITY pref_char_encoding_off "Ma snaù nuu nta dukukù">
+<!ENTITY pref_clear_private_data2 "Stoo tu\u0027un ña meu">
+<!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
+     The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "nta vii michumi">
+<!ENTITY pref_clear_on_exit_title3 "Stoó ntii ñaa ta nikeu">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; stoi ntii ñaa ta ni katavu \u0022Quit\u0022 nu menu">
+<!ENTITY pref_clear_on_exit_dialog_title "Katavi nchii tutu kunu stuu">
+<!ENTITY pref_restore_tabs "Nta nchiko ntii pestaña stuu">
+<!ENTITY pref_restore_always "Nta nchiko ntia ntikìi">
+<!ENTITY pref_restore_quit "Ma nta nchikui sana staku\u0027ña &brandShortName;">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
+
+<!ENTITY pref_use_system_font_size "Kuachu\u0027un letra kuaà kai nu sistema">
+<!ENTITY pref_use_system_font_size_summary "Kuaà yeè ña inka nu web tsi kuaà kaa fuente ña sistema">
+
+<!ENTITY pref_media_autoplay_enabled "A kunu kitsai mitu\u0027in">
+<!ENTITY pref_media_autoplay_enabled_summary "Kuachu\u0027un sitio web kuu ku\u0027ncheu ña ndatavana tsi inka kue\u0027ñaa medios de comunicación">
+<!ENTITY pref_zoom_force_enabled "Ki\u0027tsa tsi ñanda saa kanu">
+<!ENTITY pref_zoom_force_enabled_summary "ndasama nishi chau tava na ku kuncheu nti\u0027i página">
+<!ENTITY pref_voice_input "nu kivii ntusu">
+<!ENTITY pref_voice_input_summary2 "A kunu koo nu kau\u0027un nu barra ña dirección">
+<!ENTITY pref_qrcode_enabled "Ña kavii código QR">
+<!ENTITY pref_qrcode_enabled_summary2 "A kunu escáner QR nu barra URL">
+
+<!ENTITY pref_use_master_password "kuachuùn contraseña maestra">
+<!ENTITY pref_sync2 "kivii">
+<!ENTITY pref_sync_summary2 "Chita\u0027an pestañas, marcadores,ki\u0027tsaa sesión, ña niya\u0027a">
+<!ENTITY pref_search_suggestions "Snaa nixi ndatukuku">
+<!ENTITY pref_history_search_suggestions "Snaa ñanda nduku sata">
+<!ENTITY pref_import_options "Ña n\u0027dasama ta ku nkivu">
+<!ENTITY pref_import_android_summary "nta\u0027kiin marcadores tsi ña niya\u0027a nu navegador nativo">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Kuna pestañas">
+<!ENTITY pref_private_data_history2 "Nda duku ña niya\u0027a">
+<!ENTITY pref_private_data_searchHistory "Nda ntuku ña niya\u0027a">
+<!ENTITY pref_private_data_formdata2 "formulario ña niya\u0027a">
+<!ENTITY pref_private_data_cookies2 "Cookies tsi logins vaa">
+<!ENTITY pref_private_data_passwords2 "Inka vaa nishi ni kuvu">
+<!ENTITY pref_private_data_cache "Caché">
+<!ENTITY pref_private_data_offlineApps "Tutù ña sitios web koò conexión">
+<!ENTITY pref_private_data_siteSettings2 "nda sama sitio">
+<!ENTITY pref_private_data_downloadFiles2 "Snuù">
+<!ENTITY pref_private_data_syncedTabs "Pestañas sincronizadas">
+
+<!ENTITY pref_default_browser "Saa navegador shinaa">
+<!ENTITY pref_default_browser_mozilla_support_tablet "kuncheè  Mozilla Support">
+<!ENTITY pref_about_firefox "nta´saa &brandShortName;">
+<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_feedback "Chachu\u0027un tu\u0027un">
+
+<!ENTITY pref_dialog_set_default "Chikaà ña xina">
+<!ENTITY pref_dialog_default "Tsa sa\u0027an kaá">
+<!ENTITY pref_dialog_remove "Shitaá">
+
+<!ENTITY pref_search_last_toast "Ma kuu xituu a ntakasu ña nda ntuku saa ntiì ">
+
+<!ENTITY pref_panels_show "Show">
+<!ENTITY pref_panels_hide "Chikasèe">
+<!ENTITY pref_panels_reorder "Ndasama nixi kai">
+<!ENTITY pref_panels_move_up "Ka\u0027anta kuchi">
+<!ENTITY pref_panels_move_down "Ka\u0027anta ninu">
+
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; tutu">
+<!ENTITY datareporting_notification_action "ki\u0027in ña kunu kuncheé na">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "ki\u0027in tu\u0027tu kunu kuncheé na">
+<!ENTITY datareporting_notification_summary "Tava vaà na koo, &brandShortName; chi\u0027chuùn tu\u0027un nu&vendorShortName;.">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; tu\u0027un ña nixi kaá">
+<!ENTITY datareporting_fhr_summary2 "Chachu\u0027un tutu nu &vendorShortName; tsaá nixi kaa navegador cha chi\u0027nchii kutuninu nixi sachu\u0027un navegador">
+<!ENTITY datareporting_abouthr_title "Kuncheè nixi sachu\u0027in">
+<!ENTITY datareporting_telemetry_title "Telemetría">
+<!ENTITY datareporting_telemetry_summary "Chachu\u0027un nixi sachuin, ña sai, hardware tsi tutu ña navegador tsi &vendorShortName; Tava chi\u0027ncheu na saa &brandShortName; va\u0027a ña">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ka tu\u0027un tava na chachuin ña kue vaa yee tava na chinchi-yo &vendorShortName; sau ña nda tuku-yo vaa-ka">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Katu\u0027in ña makuu">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Ña nta ntuku">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Chinchee-yu &vendorShortName; ndadunku iin ñuu nu ña yivi! katu\u0027un nchii inkau Wi-Fi tsi kaa ndusu tava na vaa na koo ña ndadunku tsio inkau.">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "ntu tsaá mitu\u0027in">
+<!ENTITY pref_update_autodownload_wifi "tsi Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Mikí">
+<!ENTITY pref_update_autodownload_always "ntikiì">
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "chi\u0027ncheu">
+
+<!ENTITY quit "Kèe">
+
+<!ENTITY addons "Add-ons">
+<!ENTITY logins "ki\u0027tsa">
+<!ENTITY downloads "Dnúu">
+<!ENTITY char_encoding "Codif. caracteres">
+
+<!ENTITY share "Kuniñuù">
+<!ENTITY share_title "Compartir por">
+<!ENTITY share_image_failed "Maku sa compartirku tutu ndatava">
+<!ENTITY save_as_pdf "Chikavaá tana PDF ">
+<!ENTITY print "Nta tavaa">
+<!ENTITY find_in_page "Ndaduku yo\u0027o">
+
+<!ENTITY page "Página">
+<!ENTITY tools "Herramientas">
+<!ENTITY new_tab "Pestaña tsàa">
+<!ENTITY new_private_tab "Ntu tsàa pestaña meu">
+<!ENTITY close_all_tabs "ndakasi ntìi pestaña">
+<!ENTITY close_private_tabs "ndakasi pestaña meu ">
+<!ENTITY tabs_normal "Pestañas">
+<!ENTITY tabs_private "Ña meu ">
+<!ENTITY set_image_fail "Makuu chikau tutu ndatava">
+<!ENTITY set_image_path_fail "Makuu chika\u0027vau tutu ndatava">
+<!ENTITY set_image_chooser_title "Chikaa tutu ndatava tana">
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "Ndaduku yo\u0027o">
+<!ENTITY find_prev "satáa">
+<!ENTITY find_next "núu">
+<!ENTITY find_close "Kasi">
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Chi\u0027chuùn nu dispositivo">
+<!ENTITY media_play "Play">
+<!ENTITY media_pause "Kunchatu">
+<!ENTITY media_stop "Tsi kui\u0027n">
+
+<!ENTITY contextmenu_open_new_tab "kunàa nu pestaña tsàa">
+<!ENTITY contextmenu_open_private_tab "Kunàa nu pestaña Ña meu ">
+<!ENTITY contextmenu_remove "Shitaá">
+<!ENTITY contextmenu_add_to_launcher "Chikaa nu niki\u0027stau ">
+<!ENTITY contextmenu_set_as_homepage "Chàa paguina nu kunu kitsau">
+<!ENTITY contextmenu_share "Nta Stucha">
+<!ENTITY contextmenu_pasteandgo "Chistìin &amp; kitsàa">
+<!ENTITY contextmenu_paste "Chistìin">
+<!ENTITY contextmenu_copyurl "Copiar dirección">
+<!ENTITY contextmenu_edit_bookmark "Nda sama">
+<!ENTITY contextmenu_subscribe "Nta chaà siviku nu página">
+<!ENTITY contextmenu_site_settings "Ndasama sitio">
+<!ENTITY contextmenu_top_sites_edit "Nda sama">
+<!ENTITY contextmenu_top_sites_pin "Pin sitio">
+<!ENTITY contextmenu_top_sites_unpin "Nta xita sitio">
+<!ENTITY contextmenu_add_search_engine "Chika´a ñaa nda ntuku">
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_no_username "[Koo sivi usuario]">
+<!ENTITY doorhanger_login_edit_title "Ndasama nixi kuvu">
+<!ENTITY doorhanger_login_edit_username_hint "Sivìi">
+<!ENTITY doorhanger_login_edit_password_hint "Tu\u0027un seè">
+<!ENTITY doorhanger_login_edit_toggle "Snaà tu\u0027un seè">
+<!ENTITY doorhanger_login_select_message "A ntatabu tu\u0027un seè ña &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Tu\u0027un seè nataba nu portapapel">
+<!ENTITY doorhanger_login_select_action_text "Chikaa inka nu kitsau">
+<!ENTITY doorhanger_login_select_title "Ntataba tu\u0027un seè nu">
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+
+<!ENTITY pref_scroll_title_bar2 "Kuncheè nu pantalla kanu">
+<!ENTITY pref_scroll_title_bar_summary2 "Chikasèe  barra ña herramienta ña &brandShortName; ta snuù ña nu página">
+
+<!ENTITY pref_tab_queue_title3 "Pestaña en cola">
+<!ENTITY pref_tab_queue_summary4 "Chikava\u0027a enlace mancha inka na kunaku &brandShortName;.">
+<!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
+     2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+
+<!ENTITY pref_compact_tabs "Tutu luu">
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+
+<!ENTITY page_removed "Stoo páguina">
+
+<!ENTITY bookmark_edit_title "Ndasama marcador">
+<!ENTITY bookmark_edit_folder_title "Ndasama nu chicavau tutu">
+<!ENTITY bookmark_edit_name "Sivìi">
+<!ENTITY bookmark_edit_location "Nchi inkau">
+<!ENTITY bookmark_edit_keyword "Palabra clave">
+<!ENTITY bookmark_select_folder "Katsi tutu">
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+
+<!ENTITY site_settings_title3       "Nda sama sitio">
+<!ENTITY site_settings_cancel       "Kunchatu">
+<!ENTITY site_settings_clear        "Stòo">
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "Nchií ña sau">
+
+<!ENTITY masterpassword_create_title "Saà tu\u0027un seè shina ">
+<!ENTITY masterpassword_remove_title "Stoo tu\u0027un seè shina ">
+<!ENTITY masterpassword_password "Tu\u0027un seè">
+<!ENTITY masterpassword_confirm "A vaá tu\u0027un seè">
+
+<!ENTITY button_ok "Vaá">
+<!ENTITY button_cancel "Kunchatu">
+<!ENTITY button_yes "Va\u0027a">
+<!ENTITY button_no "No">
+<!ENTITY button_clear_data "Stòo tutù">
+<!ENTITY button_set "Ntakiì">
+<!ENTITY button_clear "Stòo">
+<!ENTITY button_copy "Nta tava">
+
+<!ENTITY home_top_sites_title "Sitio ña ta\u0027an inu ">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "chika´a sitio">
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+
+<!ENTITY home_title "&brandShortName; Ki\u0027tsa">
+<!ENTITY home_history_title "Historial">
+<!ENTITY home_synced_devices_smartfolder "Ntachita dispositivo">
+<!ENTITY home_synced_devices_number "&formatD; dispositivo">
+<!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 dispositivo">
+<!ENTITY home_history_back_to2 "Nta nchiko sata">
+<!ENTITY home_clear_history_button "Stòo ña nta ndukuku sata">
+<!ENTITY home_clear_history_confirm "A ntaa ña Stuu ña nta ndukuku sata?">
+<!ENTITY home_bookmarks_empty "Marcador chikavau yo\u0027o nta tui.">
+<!ENTITY home_closed_tabs_title2 "Saa nuu ntasia">
+<!ENTITY home_last_tabs_empty "Pestaña tsaa yo\u0027o ntatui">
+<!ENTITY home_restore_all "Nta nchiko ntii">
+<!ENTITY home_closed_tabs_number "&formatD; pestañas">
+<!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 pestaña">
+<!ENTITY home_most_recent_empty "Kue sitio web nu saa nikivu yo\u0027o ntatui.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: kuachuin &formatS1;New Private Tab&formatS2; ma nchikavai nu ntsikau.">
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Koo tu\u0027un ni ntani\u0027i yo\u0027o.">
+<!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+<!ENTITY home_move_back_to_filter "Sata ña &formatS;">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD;Dispositivo inka seé">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Dispositivo inka seé">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Sna\u0027a dispositivo ña ni katsi\u0027ku">
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
+
+<!ENTITY remote_tabs_panel_moved_title "¿Nchii inka pestaña?">
+<!ENTITY remote_tabs_panel_moved_desc "Nchachu\u0027un kue pestaña nu inka dispositivo nu ku kivu ta tsunaku in pestaña tsaa.">
+<!ENTITY remote_tabs_panel_moved_link "Kunayuu nu inka panel tsaa.">
+
+<!ENTITY pin_site_dialog_hint "Chaa in tu\u0027un ña kunu nda ntuku">
+
+<!ENTITY filepicker_title "Ki´in tutu">
+<!ENTITY filepicker_audio_title "Ki\u0027 in a chika vàa ntusu">
+<!ENTITY filepicker_image_title "Ki\u0027 in a ntatavàa">
+<!ENTITY filepicker_video_title "Ki\u0027 in a ntatavàa video">
+<!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Ni kitaun tsi">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Mani\u0027ku Chitai\u0027ña">
+<!ENTITY identity_connection_insecure "Mani\u0027ku Chitai\u0027ña">
+<!ENTITY identity_connection_chromeui "Ña vaà ku &brandShortName;pagina">
+<!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ntsasia ña vaa inka nuu página yoo.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ntsasu ña vaa inka nuu página yoo.">
+<!ENTITY mixed_content_display_loaded1 "Yee ña va\u0027a nu pagina yoo (tana ña ndatavana).">
+<!ENTITY mixed_content_protection_disabled1 "Koo ña nchaa-yo tava ">
+<!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title2 "Chikava\u0027a ña sau">
+<!ENTITY doorhanger_tracking_state_enabled "Vaiì">
+<!ENTITY doorhanger_tracking_state_disabled "Ma kuu">
+
+<!ENTITY doorhanger_tracking_message_disabled2 "Página-yo kuu ndanduki inchi inkau.">
+<!-- Common mixed and tracking content strings in site identity popup -->
+
+<!ENTITY learn_more "Skua\u0027a kuakaa">
+<!ENTITY enable_protection "Ki tsaa ña nchaa-yo">
+<!ENTITY disable_protection "nta shita ña ncha-yo">
+
+<!ENTITY private_data_success "Stoi tutù ña meu ">
+<!ENTITY private_data_fail "Yee tutù ña makùu stòi">
+
+<!ENTITY bookmarkhistory_button_import "Nda\u0027kiin">
+<!ENTITY bookmarkhistory_import_both "Ntaki\u0027in macador tsi ña ni ya\u0027a nu Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Ntaki\u0027an macador inka nu Android">
+<!ENTITY bookmarkhistory_import_history "Ntaki\u0027an ña ni ya\u0027a inka nu Android">
+<!ENTITY bookmarkhistory_import_wait "Sàa ña mani kunchatu…">
+
+<!ENTITY suggestions_prompt3 "¿A kunu kuncheu ña kuu ndadunkuku?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Ndanduku tsi &formatS;">
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+
+<!ENTITY suggestion_for_engine "Ndadunku &formatS1; para &formatS2;">
+
+<!ENTITY searchable_description "Marcadores cha ña niya\u0027a">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Yèe ña tsàa tava &brandShortName;">
+<!ENTITY updater_start_select2 "katavi tatu kunu snuùña">
+
+<!ENTITY updater_downloading_title2 "Snuù &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Ma nuù vaii">
+<!ENTITY updater_downloading_select2 "Katavi taba na kitsai ta ntsinu snuùiña">
+<!ENTITY updater_downloading_retry2 "Katavi taba na nta saiña">
+
+<!ENTITY updater_apply_select3 "Katavi tava na chikaiña">
+<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+     if the app requires a runtime permission to download updates. Currently, the updater only sees
+     remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Tatu kunu snuù tutu tsi ña tsaa, kua\u0027a permiso tava na ku kunchi\u0027i ña inka nu chikavau ña &brandShortName;.">
+<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "A kunu">
+<!-- Guest mode -->    
+
+<!ENTITY new_guest_session "Ntu tsaa nu nikivu">
+<!ENTITY exit_guest_session "Kee nu nikivu">
+<!ENTITY guest_session_dialog_continue "Inka">
+<!ENTITY guest_session_dialog_cancel "Kunchatu">
+<!ENTITY new_guest_session_title "&brandShortName; ntaki tsaà vichi">
+
+<!ENTITY guest_browsing_notification_title "Maku ndanduku">
+<!ENTITY guest_browsing_notification_text "Katavi tava keu">
+
+<!ENTITY exit_guest_session_title "&brandShortName; vichi ku ntakitsai">
+<!ENTITY exit_guest_session_text "Kue tutu ña ndandukuku ku ntoi.">
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+
+<!ENTITY actionbar_menu "Nda duku">
+<!ENTITY actionbar_done "Ntsinu">
+<!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Ka\u0027an vichi">
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!ENTITY devtools_auth_scan_header "Ndatavi codigo QR inka nu inka kaa ndusu">
+<!-- Restrictable features -->
+<!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restrictable_feature_addons_installation "Add-ons">
+
+<!ENTITY restrictable_feature_private_browsing "Nda duku ña kuu kunche meu">
+
+<!ENTITY restrictable_feature_clear_history "Stòo ña niya\u0027a">
+
+
+
+<!ENTITY restrictable_feature_camera_microphone "Cámara &amp; Micrófono ">
+<!ENTITY restrictable_feature_camera_microphone_description "Kua tu\u0027un ña ntii na kuu ntatu\u0027na nu sitio web. ">
+<!ENTITY restrictable_feature_block_list "Lista ña kue kunu">
+<!ENTITY restrictable_feature_block_list_description "Kasi sitio web ña kue vaa.">
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: tsaa navegador-yo">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Ndasama complemento">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Chinchee-yu">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox chinchee-yo tava ku kuncheu ña ntasi nu tablet Android">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Kunchee Web: Mozilla Webmaker">
+<!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
+     the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
+     replaced by the Android OS version (e.g., 14)-->
+
+<!ENTITY unsupported_sdk_version "¡Ku kanu inu! &brandShortName; ma sachuin yoo (&formatS1;, &formatS2;). Saa ña mani, snuu versión vaa.">
+
+<!ENTITY eol_notification_title2 "&brandShortName; ma ntu tsai">
+<!ENTITY eol_notification_summary "Katavi tatu kunu kuaka tu\u0027un">
+<!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
+     are used for a system notification that's shown to users after the app updates. -->
+
+<!ENTITY whatsnew_notification_title "&brandShortName; tsa ntu tsai">
+<!ENTITY whatsnew_notification_summary "Kunchee ña staa versión-yo">
+
+<!ENTITY promotion_add_to_homescreen "Chikai nu ki\u0027stau">
+
+
+<!ENTITY helper_first_offline_bookmark_button "A ku\u0027un nu marcador">
+
+
+<!ENTITY helper_triple_readerview_open_button "A ku\u0027ùn nu marcador">
+
+<!ENTITY activity_stream_topsites "Sitio ña ta\u0027an inu">
+
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Marca">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
+Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Ntsikau">
+<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
+is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_delete_history "Stoò ntii ña niya\u0027a">
+
+
+
+
+
+<!ENTITY private_tab_learn_more "¿A kunu kua kutuaku?">

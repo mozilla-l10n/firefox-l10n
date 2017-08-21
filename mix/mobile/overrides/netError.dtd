@@ -1,0 +1,108 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "kue vàa niki'tsàa pagina">
+<!ENTITY retry.label "ki'tsàa tuku">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "kue ku ki'tsau">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY deniedPortAccess.title "ma kùu kivu nu dirección yòo">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "kòo servidor ni ntanèe">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>Kunchee direccion nchauu tatu koo error tana <strong>ww</strong>.ejemplo.com nuu  <strong>www</strong>.ejemplo.com </li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda ntuku</button> </div> <li>Tatu kueeku kuncheu ni iin paguina, kunchee dispositivoku a conexion Wi-Fi. <button id='wifi'>Activar Wi-Fi</button> </li> </ul>">
+
+<!ENTITY fileNotFound.title "kòo tutu ni ntanèe">
+<!ENTITY fileNotFound.longDesc "<ul> <li>kunchee sivu ña vàa na koi</li> <li>kunchee tatu archivo inkài,ni ka'anti a ntamami sivi'ña.</li> </ul>">
+
+<!ENTITY fileAccessDenied.title "ma ku kuncheu tutuku">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>a ni kuu stoi'ña,nda samana a koo permiso kuncheu tutu yoo.</li></ul>">
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; ma kuu kuncheu paguina yoo.</p>">
+
+<!ENTITY malformedURI.title "dirección vaii">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> <li>Tsini ñuù chauña tana <strong>http://www.ejemplo.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nda nduku</button> </div> <li>Kunchee a nchau barra diagonal (i.e. <strong>/</strong>).</li> </ul>">
+
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY notCached.title "tutù vaaki">
+<!ENTITY notCached.longDesc "<p> Tutu kunu koi inka nuu &brandShortName;’s cache</p><ul><li>tana seguridad, &brandShortName; kue tsika'ña tutu meu</li><li>katavi kitsa tuku tatu kunu kaku tutu yoo nu sitio web. </li></ul>">
+
+<!ENTITY netOffline.title "Modo koo conexión">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul><li>Saa tuku. &brandShortName; ku nkuna tsai página<button id='wifi'>kuachu'un Wi-Fi</button></li></ul> ">
+
+<!ENTITY contentEncodingError.title "Vàa codificación">
+<!ENTITY contentEncodingError.longDesc "<ul><li>Saa ña mani katu'un nu ña ndasama sitio web tsaa ña niku yoo.</li></ul>">
+
+<!ENTITY unsafeContentType.title "Tutu vaá">
+<!ENTITY unsafeContentType.longDesc "<ul><li>Saa ña mani katu'un nu ña ndasama sitio web tsaa ña niku yoo.</li></ul>">
+
+<!ENTITY netReset.title "Ntaki tsaà conexión">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY netTimeout.title "Ntsinu conexión">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY unknownProtocolFound.title "Ma ni tsituninia direcciòn">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Tsini'ñuu chikàu inka programa tatu kunu kunú dirección yòo.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Servidor proxy kue ku chita'inña">
+<!ENTITY proxyConnectFailure.longDesc "<ul><li>Kunchee a vaa configuración proxy.</li><li>Ntaka tu'un nuu ña ndasama red a vaa sachu'un servidor proxy.</li></ul>">
+
+<!ENTITY proxyResolveFailure.title "kue ku ntanèe servidor proxy">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+
+
+<!ENTITY unknownSocketType.title "Tu'un kue nchatuko ña servidor">
+<!ENTITY unknownSocketType.longDesc "<ul><li>Kunchee a kumu nu servidor Personal Security Manager.</li><li>Ña ño'o kui tsa'a nishi kaa servidor.</li></ul>">
+
+<!ENTITY nssFailure2.title "Conexión va'a">
+
+
+<!ENTITY nssBadCert.title "Mani'ku chitai'ña">
+
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY cspBlocked.title "Ntasia tsa kue va'a ña inka nui">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; mani ku'u nuni tsa'a ña va'a ña snai.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Snai ña va'a">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Maku'u kuncheu pagina yoo tsa ña kue snai nti'i tu'un.</p><ul><li>sa'a ña mani, ka'un tsi sto'o página web tava katu'un tsa ña va'a yo.</li></ul>">
+
+<!ENTITY securityOverride.linkText "chika´a in exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Tavayu'u yoo">
+<!ENTITY securityOverride.exceptionButtonLabel "chika´a excepción">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+<!ENTITY remoteXUL.title "XUL remoto">
+
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Tu'un nchi'chi: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
