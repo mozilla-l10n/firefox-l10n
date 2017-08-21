@@ -1,0 +1,116 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Jachuyal jabch hay upar">
+<!ENTITY retry.label "Tkweek wiyi">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Kos tublich kyaaw yutem">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY deniedPortAccess.title "Jabchu yay ŕ´apkwa.">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Paa kubtaar kos chyawtem">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+
+<!ENTITY fileNotFound.title "Chapayt chkwawu kos chyawtem">
+<!ENTITY fileNotFound.longDesc "<ul> <li>M' uka chapayt chkwachu mulhay kos chamch wiiytem hikyawa.</li> <li>Mŕmee m'uka chapayt chkwachuhay kur ŕmaarb o ipee o tkwek chaab tñuurb kabyuwuha.</li> </ul>">
+
+<!ENTITY fileAccessDenied.title "Chapayt chkachu kos jabch yutem">
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Ujinchu o ŕmarcu o sam kjkechuha paa nmakchum chapayt chkwachuhal njkeechyutem.</li> </ul>">
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; hay kos chyakuha jukewutemka ñukweekaaw namanme.</p>">
+
+<!ENTITY malformedURI.title "Jabchu kos buyutem">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY netInterrupt.title "Tublich chu hay ket">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY notCached.title "Tñur kur kjkee">
+
+
+<!ENTITY netOffline.title "Chyuch kos tublichtpaay">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> <li>Tkweek mwiyi. &brandShortName; hay tkweek chpach chu jkaay sol pay tkweek chyakuha jukewuwa. <button id='wifi'>Wi-Fi mchubowu</button> </li> </ul>">
+
+<!ENTITY contentEncodingError.title "Mul chmichuhay chaam">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Chkwiyha paa mŕmee web yay klyeeb mik pamukunabuhikyawa.</li> </ul>">
+
+<!ENTITY unsafeContentType.title "Ch' chkwachu kos janjanutem">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Web yakua kñkwiiyha paam mknaaw paa mukunaabuka chpaytyay kos jantemya.</li> </ul>">
+
+<!ENTITY netReset.title "Tublich chuyay tkweek namaan">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY netTimeout.title "Ñaam ŕboochuhay kur bwiirka">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY unknownProtocolFound.title "Chyakuhay kos eebteem">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Yakuya smolhikyawa ch trchechu jkaay msol yaŕaalka.</li> </ul>">
+
+<!ENTITY proxyConnectFailure.title "Paa kubtaar proxy hay kos tublich chu ya kos yoteemka">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Mtkweek m'uka trchechu proxyhay jan kwawuha.</li> <li>Kwampham mknaawka paa kubtar proxyhay janum bookwahikyawa.</li> </ul>">
+
+<!ENTITY proxyResolveFailure.title "Kos paa kubtaar proxyha kos yotemka">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Chapayt chajnchu proxyha m'uhmajanuka chmwiwuhay janhikyawa.</li> <li>M'uhmajanuka dispositiv mwuhay chpachu wi_fi o chapayt yakuha wiy o kabyuwuha. <button id='wifi'>Wi-Fi mchuboowu</button> </li> </ul>">
+
+<!ENTITY redirectLoop.title "Chyakuhay kos nyaamuham blwiytemka">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Ch wupar yak yoyay chu pichtem cookies ha yu ŕ' amchum sakyawyume.</li> </ul>">
+
+<!ENTITY unknownSocketType.title "Paa kubtaar kwaae kwik ŕboochtpaay baa">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>M' uuka chapaiyt kyobphay kŕbop jaan chgoochum wiy o kabyuwuha ŕpihikyawa.</li> <li>Yay pichtem kchajanch kos blwiiy tpaay paa kubtaarhal yaktem me.</li> </ul>">
+
+<!ENTITY nssFailure2.title "Chpach jaan chamch">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Chyaku m'uhi munuñuy kos uuch yutem chapayt kwikchum kos uuch yutem.</li> <li>Web kñkwiyha paa mŕmee chapayt uparya paa mkunabuka.</li> </ul>">
+
+<!ENTITY nssBadCert.title "Tublich chu kajanhay wupar">
+
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY cspBlocked.title "Ch chyabchun namaan chapayt yak kyoya ŕ' amch">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; hay kos nmakum chyaku yakyoya jukawutem ch chyabch chu ham nyaam chpaytha nmakum kjketem.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Chapayt hay kos jantem sakyaaw chamka">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Chyaku mŕmee munuñuy kos ŕpoobtemka chpayt ujkeewuhay chamch wiyum sakyawa.</p><ul><li>Yaku kñkwiiyham paam mknaaw yaŕalka paa mukunaabuhikyawa.</li></ul>">
+
+<!ENTITY securityOverride.linkText "O nyumuk mnmakya…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Yak muchpachu!">
+<!ENTITY securityOverride.exceptionButtonLabel "Sa ujkewchuha sal mchmii…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>Kos ñulm'utemha sal mchmiteka internet myohmwaha kos janmihmahanutem myuso o kubtaarhay ñmukunaabum ñulm'eebmajuntem myuchmyuso.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+
+<!ENTITY remoteXUL.title "XUL yumyuch">
+
+
+<!ENTITY sslv3Used.title "M'mirmir mtublichkyaw yutem">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Chknaabch myaabrab yaak: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Mtublichu kos mirmir januteem">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Chknaabch myaabrab yaak: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Mtublichu kos mirmir januteem">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
