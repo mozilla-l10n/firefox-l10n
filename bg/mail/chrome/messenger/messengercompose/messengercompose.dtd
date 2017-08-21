@@ -37,7 +37,7 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "а">
 <!ENTITY saveAsCmd.label "Запазване като">
-<!ENTITY saveAsCmd.accesskey "и">
+<!ENTITY saveAsCmd.accesskey "к">
 <!ENTITY saveAsFileCmd.label "Файл…">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
 <!ENTITY saveAsDraftCmd.label "Чернова">
