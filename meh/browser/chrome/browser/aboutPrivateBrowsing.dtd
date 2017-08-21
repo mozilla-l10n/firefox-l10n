@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu´u">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Síne iin ventana yu´u">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "y">
+
+<!ENTITY privateBrowsing.title                           "Navegación yu´u">
+<!ENTITY privateBrowsing.title.tracking                  "Navegación yu´u jii a kumi noo´o">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Saa nanukunu nuu iin ventana yu´u, Firefox">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "Nchuva´a">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+<!ENTITY aboutPrivateBrowsing.info.visited               "páginas nne´yánu">
+<!ENTITY aboutPrivateBrowsing.info.searches              "Daa a nnanuku">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Daa archivos temporales">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
+
+
+
+
+
+
+
+
+
+
+
+
+
