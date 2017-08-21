@@ -13,6 +13,12 @@
 <!ENTITY  proportional2.label                     "가변폭">
 <!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "바탕(세리프)">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "돋움(산세리프)">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "고정폭">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -56,6 +62,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "레거시 콘텐츠에 사용할 글자 인코딩">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "인코딩 선언이 되어있지 않은 레거시 콘텐츠에 사용할 글자 인코딩입니다.">
 
 <!ENTITY languages.customize.Fallback.auto        "현재 언어의 기본값">
