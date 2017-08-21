@@ -143,3 +143,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcziunalitads deactivadas da la protecziun cunter collaps">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Soluziuns">
 
+<!ENTITY aboutSupport.mediaTitle "Multimedia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Apparats da sortida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Apparats d'entrada">
+<!ENTITY aboutSupport.mediaDeviceName "Num">
+<!ENTITY aboutSupport.mediaDeviceGroup "Gruppa">
+<!ENTITY aboutSupport.mediaDeviceVendor "Fabricant">
+<!ENTITY aboutSupport.mediaDeviceState "Status">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferì">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Chanals">
+<!ENTITY aboutSupport.mediaDeviceRate "Frequenza">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latenza">
