@@ -7,11 +7,15 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
+<!ENTITY safeb.palm.notdeceptive.label "Đây không phải là một trang lừa đảo…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
-
+<!ENTITY safeb.palm.notdeceptive.accesskey "d">
+<!ENTITY safeb.palm.reportPage.label "Tại sao trang này lại bị chặn?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Cảnh báo được cung cấp bởi <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Trang web Ác ý Đã biết!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -23,7 +27,12 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Trang web tại <span id='unwanted_sitename'/> được báo cáo là có chứa phần mềm không mong muốn và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Các trang phần mềm lừa đảo cố cài đặt các phần mềm có thể ảnh hưởng đến hệ thống của bạn theo nhiều cách khó lường.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title2 "Trang lừa đảo!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Trang web tại <span id='phishing_sitename'/> này đã được báo cáo là trang web lừa đảo và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Trang web lừa đảo được thiết kế để lừa bạn làm điều gì đó không an toàn, như cài phần mềm, hoặc để lộ thông tin cá nhân của bạn, như mật khẩu, số điện thoại hay thẻ tín dụng.</p><p>Nhập bất kỳ một thông tin gì trên trang này có thể gây ra tình trạng mạo danh hoặc lừa đảo khác.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Trang bạn đang truy cập có thể chứa malware">
+<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox chặn trang này vì trang này đang cố cài đặt các ứng dụng nguy hiểm có thể đánh cắp hoặc xóa thông tin cá nhân của bạn (ví dụ, ảnh, mật khẩu, tin nhắn và thẻ tín dụng).">
+<!ENTITY safeb.blocked.harmfulPage.longDesc "">
