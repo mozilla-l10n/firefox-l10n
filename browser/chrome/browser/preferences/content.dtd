@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "ข้อยกเว้น…">
 <!ENTITY  popupExceptions.accesskey                             "ข">
 
-<!ENTITY  permissionSettingsButton2.label                       "การตั้งค่า…">
-
 <!ENTITY  notificationPermissions.label                         "การแจ้งเตือน">
+<!ENTITY  notificationSettingsButton.label                      "การตั้งค่า…">
 <!ENTITY  notificationSettingsButton.accesskey                  "ร">
 <!ENTITY  notificationPermissionsLearnMore.label                "เรียนรู้เพิ่มเติม">
 
 <!ENTITY  locationPermissions.label                             "ตำแหน่งที่ตั้ง">
+<!ENTITY  locationSettingsButton.label                          "การตั้งค่า…">
 <!ENTITY  locationSettingsButton.accesskey                      "ต">
 
 <!ENTITY  cameraPermissions.label                               "กล้อง">
+<!ENTITY  cameraSettingsButton.label                            "การตั้งค่า…">
 <!ENTITY  cameraSettingsButton.accesskey                        "ก">
 
 <!ENTITY  microphonePermissions.label                           "ไมโครโฟน">
+<!ENTITY  microphoneSettingsButton.label                        "การตั้งค่า…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "ค">
 
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">

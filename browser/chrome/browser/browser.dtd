@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "ค้นหาบริการแบ่งปันเพิ่มเติม…">
-<!ENTITY sharePageCmd.label "แบ่งปันหน้านี้">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "บ">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "แบ่งปันลิงก์นี้">
-<!ENTITY shareLink.accesskey "ง">
-<!ENTITY shareImage.label "แบ่งปันภาพนี้">
-<!ENTITY shareImage.accesskey "ป">
-<!ENTITY shareSelect.label "แบ่งปันที่เลือก">
-<!ENTITY shareSelect.accesskey "ป">
-<!ENTITY shareVideo.label "แบ่งปันวิดีโอนี้">
-<!ENTITY shareVideo.accesskey "ป">
+
 <!ENTITY feedsMenu2.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้า">
-<!ENTITY bookmarksMenuButton.other.label "ที่คั่นหน้าอื่น ๆ">
-<!ENTITY bookmarksMenuButton.mobile.label "ที่คั่นหน้าบนมือถือ">
+<!ENTITY bookmarksMenuButton.other.label    "ที่คั่นหน้าอื่น ๆ">
+<!ENTITY bookmarksMenuButton.mobile.label   "ที่คั่นหน้าบนมือถือ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
+<!ENTITY hideBookmarksSidebar.label         "ซ่อนแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
+<!ENTITY hideBookmarksToolbar.label         "ซ่อนแถบเครื่องมือที่คั่นหน้า">
 <!ENTITY searchBookmarks.label              "ค้นหาที่คั่นหน้า">
+<!ENTITY bookmarkingTools.label             "เครื่องมือที่คั่นหน้า">
+<!ENTITY addBookmarksMenu.label             "เพิ่มเมนูที่คั่นหน้าไปยังแถบเครื่องมือ">
+<!ENTITY removeBookmarksMenu.label          "เอาเมนูที่คั่นหน้าออกจากแถบเครื่องมือ">
 
 <!ENTITY containersMenu.label "การแยกข้อมูล">
 
@@ -836,15 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ช">
 <!ENTITY syncToolbarButton.label      "ซิงค์">
 
-<!ENTITY social.addons.label "จัดการบริการ…">
-
-<!ENTITY social.directory.label "ไดเรกทอรีการเปิดใช้งาน">
-<!ENTITY social.directory.text "คุณสามารถเปิดใช้งานบริการ Share จากไดเรกทอรี">
-<!ENTITY social.directory.button "พาฉันไปที่นั่น!">
-<!ENTITY social.directory.introText "คลิกบนบริการเพื่อเพิ่มเข้าไปใน &brandShortName;">
-<!ENTITY social.directory.viewmore.text "ดูเพิ่มเติม">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "เครื่องมือและคุณลักษณะเพิ่มเติม">
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
@@ -990,5 +971,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
 
-<!ENTITY sendToDevice.label2 "ส่งไปยังอุปกรณ์">
+<!ENTITY sendToDevice.label3 "ส่งหน้าไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
