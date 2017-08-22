@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
-
-<!ENTITY firstrun_urlbar_message "ยินดีต้อนรับสู่ &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "ค้นหาสิ่งต่าง ๆ ได้เร็วขึ้นด้วยทางลัดข้อเสนอแนะการค้นหาที่เป็นประโยชน์">
+<!ENTITY firstrun_panel_title_privacy "ความเป็นส่วนตัว">
 <!ENTITY firstrun_bookmarks_title "ประวัติ">
 <!ENTITY firstrun_bookmarks_message "รายการโปรดของคุณ เด่นชัดในทุกที่">
 <!ENTITY firstrun_bookmarks_subtext "รับผลลัพธ์จากที่คั่นหน้าและประวัติของคุณเมื่อคุณค้นหา">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "ใช้ข้อมูลน้อยลง ประหยัดมากขึ้น">
 <!ENTITY firstrun_data_subtext2 "ปิดภาพเพื่อลดการใช้ข้อมูลในทุกไซต์ที่คุณเยี่ยมชม">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; อยู่เคียงข้างคุณเสมอ">
-<!ENTITY firstrun_sync_subtext "ซิงค์แท็บ, รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้งาน">
 <!ENTITY firstrun_signin_message "รับการเชื่อมต่อ เริ่มต้นใช้งาน">
 <!ENTITY firstrun_signin_button "ลงชื่อเข้า Sync">
 <!ENTITY  onboard_start_button_browser "เริ่มการท่องเว็บ">
@@ -355,7 +351,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ล้างตอนนี้">
 <!ENTITY pref_clear_on_exit_title3 "ล้างข้อมูลส่วนตัวเมื่อออก">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \u0022ออก\u0022 จากเมนูหลัก">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; จะล้างข้อมูลของคุณโดยอัตโนมัติเมื่อใดก็ตามที่คุณเลือก \&quot;ออก\&quot; จากเมนูหลัก">
 <!ENTITY pref_clear_on_exit_dialog_title "เลือกข้อมูลที่จะล้าง">
 <!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
