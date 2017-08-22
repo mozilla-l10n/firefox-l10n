@@ -109,6 +109,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktiva">
 <!ENTITY aboutSupport.a11yForceDisabled "Eviti alireblon">
 <!ENTITY aboutSupport.a11yHandlerUsed "Alirebleca pelilo uzita">
+<!ENTITY aboutSupport.a11yInstantiator "Produkti alireblon">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versioj de bibliotekoj">
 
