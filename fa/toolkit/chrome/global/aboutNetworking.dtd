@@ -46,13 +46,7 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "تعداد برتری حافظه‌نهان">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "تعداد برتری شبکه">
 <!ENTITY aboutNetworking.totalNetworkRequests  "مجموع تعداد درخواست‌های شبکه">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "باز کردن">
+<!ENTITY aboutNetworking.rcwnPerfRead          "خواندن">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "نوشتن">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "ورودی باز">
