@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Kãjãhn na's txhuden ki'phwa'ja's.">
 <!ENTITY editThisBookmarkCmd.label "Ki'phni kase'k">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Thakwe uyah txã's katxuhdeya…">
-<!ENTITY sharePageCmd.label "Kathuhdena&amp; naa u'kanxite">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Katxuhdena naa jxukhnxitxih">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Naa pisanxi's katxuhden">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Katxuhden txihtxnxitxih">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Naa pisanxi's kẽsehnah katxuhden">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "Ayte yah fxihna thegnxite">
 <!ENTITY subscribeToPageMenupopup.label "Ayte yah fxihna thegnxite">
 <!ENTITY subscribeToPageMenuitem.label "Ayte yah fxihna thegnxite…">
@@ -243,7 +228,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "&amp;Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa">
+
 <!ENTITY viewBookmarksToolbar.label         "&amp;Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -815,15 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Mjĩnxitx thegn…">
-
-<!ENTITY social.directory.label "Yasetx ta'sxn u'sa' ki'tanxi u'sa">
-<!ENTITY social.directory.text "Ewunega ki'taya mjĩsa's katxuhdeçxa txãjuy fxi'sanxakh.">
-<!ENTITY social.directory.button "¿Txtee mekh jxuun!">
-<!ENTITY social.directory.introText "Txthethn mja's pejxçxa kãjaya txtee &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Wejx thegn">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ma'mapa mjĩnxisa ũsta">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Wejx içxa pejxth mjĩnxisa?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Mtxitxh txkawe'sxtx ew kuh kãjanxisa">
 <!ENTITY customizeMode.restoreDefaults "Ma'wẽ yuhte txãawẽy ki'pya kyafxteewe'sx na'wẽy">
