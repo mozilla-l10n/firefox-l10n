@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Exceptions…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-<!ENTITY  permissionSettingsButton2.label                       "Paramètres…">
-
 <!ENTITY  notificationPermissions.label                         "Notifications">
+<!ENTITY  notificationSettingsButton.label                      "Paramètres…">
 <!ENTITY  notificationSettingsButton.accesskey                  "N">
 <!ENTITY  notificationPermissionsLearnMore.label                "En savoir plus">
 
 <!ENTITY  locationPermissions.label                             "Localisation">
+<!ENTITY  locationSettingsButton.label                          "Paramètres…">
 <!ENTITY  locationSettingsButton.accesskey                      "L">
 
 <!ENTITY  cameraPermissions.label                               "Caméra">
+<!ENTITY  cameraSettingsButton.label                            "Paramètres…">
 <!ENTITY  cameraSettingsButton.accesskey                        "C">
 
 <!ENTITY  microphonePermissions.label                           "Microphone">
+<!ENTITY  microphoneSettingsButton.label                        "Paramètres…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Polices et couleurs">
