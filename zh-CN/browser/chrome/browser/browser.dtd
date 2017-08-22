@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "为此页添加书签">
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "查找更多“分享”服务…">
-<!ENTITY sharePageCmd.label "分享此页面">
-<!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "分享此链接">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "分享此图像">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "分享选中的部分">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "分享此视频">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "订阅此页">
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "书签">
-<!ENTITY bookmarksMenuButton.other.label "其他书签">
-<!ENTITY bookmarksMenuButton.mobile.label "移动版书签">
+<!ENTITY bookmarksMenuButton.other.label    "其他书签">
+<!ENTITY bookmarksMenuButton.mobile.label   "移动版书签">
 <!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
+<!ENTITY hideBookmarksSidebar.label         "隐藏书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
+<!ENTITY hideBookmarksToolbar.label         "隐藏书签工具栏">
 <!ENTITY searchBookmarks.label              "在书签中搜索">
+<!ENTITY bookmarkingTools.label             "书签工具">
+<!ENTITY addBookmarksMenu.label             "添加书签菜单到工具栏">
+<!ENTITY removeBookmarksMenu.label          "从工具栏移除书签菜单">
 
 <!ENTITY containersMenu.label "身份">
 
@@ -836,15 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
 
-<!ENTITY social.addons.label "管理服务…">
-
-<!ENTITY social.directory.label "可用目录">
-<!ENTITY social.directory.text "您可以从目录激活“分享”服务。">
-<!ENTITY social.directory.button "带我去！">
-<!ENTITY social.directory.introText "点击要添加的服务将其添加到 &brandShortName;。">
-<!ENTITY social.directory.viewmore.text "查看更多">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "更多工具和功能">
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多的工具？">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "来挑选成千上万的附加组件吧">
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
@@ -991,5 +972,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
 <!ENTITY pageAction.removeFromUrlbar.label "从地址栏移除">
 
-<!ENTITY sendToDevice.label2 "发送到设备">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
