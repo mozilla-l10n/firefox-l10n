@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>سایت‌های گمراه‌کننده طراحی شده‌اند تا شما را برای انجام کارهای خطرناک، مانند نصب نرم‌افزار، یا فاش کردن اطلاعات شخصی مثل گذرواژه‌ها، شماره‌های تلفن و اطلاعات کارت‌های اعتباری فریب دهند.</p><p>وارد کردن هر گونه اطلاعات در این صفحه ممکن است باعث دزدی هویت یا سایر اعمال کلاه‌بردارانه شود.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "این سایت ممکن است شامل بدافزار باشد">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "فایرفاکس این صفحه را به دلیل اینکه ممکن است تلاش کند تا نرم‌افزاری مخرب برای دزدیدن یا حذف اطلاعات شما نصب کند (برای مثال، عکس‌ها، گذرواژه‌ها، پیام‌ها و اطلاعات بانکی) مسدود کرده است.">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; این صفحه را به این دلیل مسدود کرده که ممکن است سعی کند برنامه‌های خطرناکی نصب کند تا اطلاعات شما را بدزدد یا حذف کند (برای مثال، عکس‌ها، گذرواژه‌ها، پیام‌ها و کارت‌های اعتباری).">
