@@ -20,17 +20,18 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Man ngaa kennal Firefox ni mu la neexe. <a>Tànnal ci junniy lawal</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; jëfekaay bu amul-fay te gongikukaayam ubbeeku la, jóge ci mbootaay gu Mozilla Foundation. <a>Xamal say àq...</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Mandarga xët yi">
-<!ENTITY abouthome.historyButton.label   "Jaar jaar">
+<!ENTITY abouthome.bookmarksButton.label "Màndarga-xët yi">
+<!ENTITY abouthome.historyButton.label   "Jaar-jaar">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Tànneef yi">
+<!ENTITY abouthome.preferencesButtonWin.label  "Tànnéef yi">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Taamu yi">
-<!ENTITY abouthome.addonsButton.label    "Modilu mottali">
-<!ENTITY abouthome.downloadsButton.label "Yebbi">
+<!ENTITY abouthome.addonsButton.label    "Lawal yi">
+<!ENTITY abouthome.downloadsButton.label "Yebbi yi">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
