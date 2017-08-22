@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Shfaqni shënimet e versionit për këtë përditësim">
 <!ENTITY cmd.hideReleaseNotes.label           "Fshihi Shënimet e Versioni">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Fshihini shënimet e versionit për këtë përditësim">
+<!ENTITY cmd.findReplacement.label            "Gjeni një Zëvendësim">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -185,6 +186,10 @@
 <!ENTITY addon.details.label                  "Më Tepër">
 <!ENTITY addon.details.tooltip                "Shfaqni më tepër hollësi mbi këtë shtesë">
 <!ENTITY addon.unknownDate                    "E panjohur">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "E dikurshme">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -249,3 +254,9 @@
 
 <!ENTITY pluginDeprecation.description "Mos mungon gjë? Disa shtojca nuk mbulohen më nga &brandShortName;-i.">
 <!ENTITY pluginDeprecation.learnMore "Mësoni Më Tepër.">
+
+<!ENTITY legacyWarning.description "S&apos;po gjeni ndonjë gjë? Disa zgjerime nuk mbulohen më nga &brandShortName;-i.">
+<!ENTITY legacyWarning.showLegacy "Shfaq zgjerime të dikurshme">
+<!ENTITY legacyExtensions.title "Zgjerime të Dikurshme">
+<!ENTITY legacyExtensions.description "Këto zgjerime nuk i plotësojnë standardet e tanishme të &brandShortName;-it, ndaj janë çaktivizuar.">
+<!ENTITY legacyExtensions.learnMore "Mësoni mbi ndryshimet te shtesat">

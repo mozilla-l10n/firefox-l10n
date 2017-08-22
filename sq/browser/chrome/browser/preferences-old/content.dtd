@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Njoftime">
 <!ENTITY  notificationsPolicyLearnMore.label   "Mësoni më tepër">
-<!ENTITY  notificationsPolicyDesc3.label       "Zgjidhni cilëve sajte u lejohet t&apos;ju dërgojnë njoftime">
+<!ENTITY  notificationsPolicyDesc4.label       "Zgjidhni cilët sajte lejohen t&apos;ju dërgojnë njoftime">
 <!ENTITY  notificationsPolicyButton.accesskey  "c">
 <!ENTITY  notificationsPolicyButton.label      "Zgjidhni…">
 <!ENTITY  notificationsDoNotDisturb.label      "Mos më shqetësoni">
@@ -21,16 +21,17 @@
 
 <!ENTITY  fontsAndColors.label        "Shkronja &amp; Ngjyra">
 
-<!ENTITY  defaultFont.label                       "Shkronja parazgjedhje:">
-<!ENTITY  defaultFont.accesskey                   "d">
-<!ENTITY  defaultSize.label                       "Madhësi:">
-<!ENTITY  defaultSize.accesskey                   "m">
+<!ENTITY  defaultFont.label           "Shkronja parazgjedhje:">
+<!ENTITY  defaultFont.accesskey       "d">
+<!ENTITY  defaultSize.label           "Madhësi:">
+<!ENTITY  defaultSize.accesskey       "m">
 
 <!ENTITY  advancedFonts.label         "Të mëtejshme…">
 <!ENTITY  advancedFonts.accesskey     "t">
 
 <!ENTITY  colors.label                "Ngjyra…">
 <!ENTITY  colors.accesskey            "y">
+
 
 <!ENTITY languages.label              "Gjuhë">
 <!ENTITY chooseLanguage.label         "Zgjidhni gjuhën tuaj të parapëlqyer për shfaqje faqesh">
