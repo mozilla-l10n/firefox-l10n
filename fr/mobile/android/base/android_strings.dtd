@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenue">
-
-<!ENTITY firstrun_urlbar_message "Bienvenue sur &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Trouvez plus rapidement ce que vous recherchez grâce aux suggestions de recherche.">
+<!ENTITY firstrun_urlbar_message2 "Merci d’avoir choisi &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Vie privée">
+<!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait.">
+<!ENTITY firstrun_panel_title_customize "Personnalisation">
 <!ENTITY firstrun_bookmarks_title "Historique">
 <!ENTITY firstrun_bookmarks_message "Vos sites préférés, directement">
 <!ENTITY firstrun_bookmarks_subtext "Obtenez des résultats parmi vos marque-pages et votre historique lorsque vous effectuez des recherches.">
@@ -13,8 +14,7 @@
 <!ENTITY firstrun_data_message "Moins de données, plus d’économies">
 <!ENTITY firstrun_data_subtext2 "Désactivez les images afin de consommer moins de données sur les sites que vous visitez.">
 <!ENTITY firstrun_sync_title "Synchronisation">
-<!ENTITY firstrun_sync_message "&brandShortName;, toujours à vos côtés">
-<!ENTITY firstrun_sync_subtext "Synchronisez vos onglets, mots de passe et d’autres données partout où vous l’utilisez.">
+<!ENTITY firstrun_sync_message2 "Reprenez là où vous en étiez.">
 <!ENTITY firstrun_signin_message "Connectez-vous, lancez-vous">
 <!ENTITY firstrun_signin_button "Se connecter à Sync">
 <!ENTITY  onboard_start_button_browser "Commencer la navigation">
