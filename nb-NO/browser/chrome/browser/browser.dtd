@@ -969,4 +969,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
 
+<!ENTITY sendToDevice.label3 "Send siden til enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
