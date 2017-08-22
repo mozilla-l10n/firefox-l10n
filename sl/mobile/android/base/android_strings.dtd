@@ -7,6 +7,8 @@
 <!ENTITY firstrun_panel_title_privacy "Zasebnost">
 <!ENTITY firstrun_privacy_message "Brskajte, kot da vas nihče ne gleda">
 <!ENTITY firstrun_panel_title_customize "Prilagodi">
+<!ENTITY firstrun_customize_message "Napravite &brandShortName; res svoj.">
+<!ENTITY firstrun_customize_subtext "Prilagodite &brandShortName; z dodatki. Zavračajte oglase, dodajte nove funkcije ali izberite temo, ki bo odsevala vašo osebnost.">
 <!ENTITY firstrun_bookmarks_title "Zgodovina">
 <!ENTITY firstrun_bookmarks_message "Vse priljubljeno na dosegu roke">
 <!ENTITY firstrun_bookmarks_subtext "Med iskanjem se vam prikažejo rezultati iz zgodovine iskanja in zaznamkov.">
