@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Gjeni më tepër shërbime Ndarjesh Me të Tjerë…">
-<!ENTITY sharePageCmd.label "Ndajeni Këtë Faqe Me të Tjerët">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "N">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Ndajeni Këtë Lidhje Me të Tjerët">
-<!ENTITY shareLink.accesskey "d">
-<!ENTITY shareImage.label "Ndajeni Këtë Figurë Me të Tjerët">
-<!ENTITY shareImage.accesskey "N">
-<!ENTITY shareSelect.label "Ndajeni Përzgjedhjen Me të Tjerët">
-<!ENTITY shareSelect.accesskey "N">
-<!ENTITY shareVideo.label "Ndajeni Këtë Video Me të Tjerët">
-<!ENTITY shareVideo.accesskey "N">
+
 <!ENTITY feedsMenu2.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenupopup.label "Pajtohuni te Kjo Faqe">
 <!ENTITY subscribeToPageMenuitem.label "Pajtohuni te Kjo Faqe…">
@@ -214,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozito të dhëna në Depozitë të Qëndrueshme">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Fshihe Anështyllën e Faqerojtësve">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administroni ndarjen me sajtin të kamerës dhe/ose mikrofonit tuaj">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administroni ndarjen me sajtin të mikrofonit tuaj">
@@ -243,10 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Faqerojtës">
-<!ENTITY bookmarksMenuButton.other.label "Faqerojtës të Tjerë">
-<!ENTITY bookmarksMenuButton.mobile.label "Faqerojtës Celulari">
+<!ENTITY bookmarksMenuButton.other.label    "Faqerojtës të Tjerë">
+<!ENTITY bookmarksMenuButton.mobile.label   "Faqerojtës Celulari">
 <!ENTITY viewBookmarksSidebar2.label        "Shihni Anështyllë Faqerojtësish">
+<!ENTITY hideBookmarksSidebar.label         "Fshihe Anështyllën e Faqerojtësve">
 <!ENTITY viewBookmarksToolbar.label         "Shihni Panel Faqerojtësish">
+<!ENTITY hideBookmarksToolbar.label         "Fshihe Panelin e Faqerojtësve">
+<!ENTITY searchBookmarks.label              "Kërkoni te Faqerojtësit">
+<!ENTITY bookmarkingTools.label             "Mjete Faqeruajtjeje">
+<!ENTITY addBookmarksMenu.label             "Shtoje Menunë e Faqerojtësve te Paneli">
+<!ENTITY removeBookmarksMenu.label          "Hiqe Menunë e Faqerojtësve nga Paneli">
 
 <!ENTITY containersMenu.label "Kontejner">
 
@@ -260,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Mjete">
-<!ENTITY toolsMenu.accesskey          "M"> 
+<!ENTITY toolsMenu.accesskey          "M">
 
 <!ENTITY keywordfield.label           "Shtoni një Fjalëkyç për këtë Kërkim…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -279,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY fileMenu.label         "Kartelë"> 
+<!ENTITY fileMenu.label         "Kartelë">
 <!ENTITY fileMenu.accesskey       "K">
 <!ENTITY newUserContext.label             "Skedë e Re Kontejneri">
 <!ENTITY newUserContext.accesskey         "o">
@@ -290,46 +282,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "P">
 <!ENTITY newNonRemoteWindow.label   "Dritare e Re Non-e10s">
 
-<!ENTITY editMenu.label         "Përpunim"> 
-<!ENTITY editMenu.accesskey       "P"> 
-<!ENTITY undoCmd.label            "Zhbëje">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Z"> 
-<!ENTITY redoCmd.label            "Ribëje">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Prije">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "P"> 
-<!ENTITY copyCmd.label            "Kopjoje">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Ngjite">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "N"> 
-<!ENTITY deleteCmd.label          "Fshije">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">  
-<!ENTITY selectAllCmd.key         "K">  
-<!ENTITY selectAllCmd.accesskey       "P"> 
+<!ENTITY editMenu.label         "Përpunim">
+<!ENTITY editMenu.accesskey       "P">
+<!ENTITY undoCmd.label            "Zhbëje">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Z">
+<!ENTITY redoCmd.label            "Ribëje">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Prije">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "P">
+<!ENTITY copyCmd.label            "Kopjoje">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Ngjite">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "N">
+<!ENTITY deleteCmd.label          "Fshije">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "F">
+<!ENTITY selectAllCmd.label         "Përzgjidhe Krejt">
+<!ENTITY selectAllCmd.key         "K">
+<!ENTITY selectAllCmd.accesskey       "P">
 <!ENTITY preferencesCmd2.label       "Mundësi">
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Parapëlqime">
-<!ENTITY preferencesCmdUnix.accesskey     "a"> 
+<!ENTITY preferencesCmdUnix.accesskey     "a">
 
 <!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Shfaqje"> 
-<!ENTITY viewMenu.accesskey       "S"> 
-<!ENTITY viewToolbarsMenu.label       "Panele"> 
-<!ENTITY viewToolbarsMenu.accesskey     "P"> 
+<!ENTITY viewMenu.label         "Shfaqje">
+<!ENTITY viewMenu.accesskey       "S">
+<!ENTITY viewToolbarsMenu.label       "Panele">
+<!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
-<!ENTITY viewCustomizeToolbar.label       "Përshtateni…"> 
+<!ENTITY viewCustomizeToolbar.label       "Përshtateni…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Përshtateni Panelin…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Historik">
 <!ENTITY historyMenu.accesskey "H">
@@ -350,6 +344,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
+<!ENTITY appMenuHistory.recentHistory.label "Historik Së Fundi">
+<!ENTITY appMenuHelp.label "Ndihmë">
 <!ENTITY appMenuHelp.tooltip "Hapni Menunë e Ndihmës">
 
 <!ENTITY appMenuRemoteTabs.label "Skeda të njëkohësuara">
@@ -406,6 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Më tepër">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Bëni kërkim ose jepni adresë">
@@ -423,7 +420,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "P">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ndihmëz:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ndryshoni Mundësitë…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ndryshoni Parapëlqimet…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "N">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -454,6 +456,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Varg kërkimi">
 <!ENTITY contentSearchSubmit.tooltip  "Parashtrojeni kërkimin">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -507,7 +512,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Shihni Burim Përzgjedhjeje">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Shihni Burim MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Shihni Burim Faqeje">
@@ -537,6 +542,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "F">
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kornizë">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
+<!ENTITY copyURLCmd.label             "Kopjojo URL-në">
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
@@ -573,7 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopjo Vendndodhje Figure">
 <!ENTITY copyImageCmd.accesskey       "P">
 <!ENTITY copyImageContentsCmd.label   "Kopjo Figurën">
-<!ENTITY copyImageContentsCmd.accesskey  "K"> 
+<!ENTITY copyImageContentsCmd.accesskey  "K">
 <!ENTITY copyVideoURLCmd.label        "Kopjo Vendndodhje Videoje">
 <!ENTITY copyVideoURLCmd.accesskey    "k">
 <!ENTITY copyAudioURLCmd.label        "Kopjo Vendndodhje Audioje">
@@ -662,18 +668,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mbylleni anështyllën">
+<!ENTITY sidebarMenuClose.label         "Mbylle Anështyllën">
 
 <!ENTITY quitApplicationCmdWin2.label       "Dilni">
 <!ENTITY quitApplicationCmdWin2.accesskey   "D">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Dilni nga &brandShorterName;-i">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Dil"> 
+<!ENTITY quitApplicationCmd.label       "Dil">
 <!ENTITY quitApplicationCmd.accesskey   "l">
 <!ENTITY quitApplicationCmdMac2.label   "Dilni prej &brandShorterName;-it">
+<!ENTITY quitApplicationCmd.key         "D">
 
-<!ENTITY closeCmd.label                 "Mbylle">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Mbylle">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -722,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Kjo është faqe e depozituar në kompjuterin tuaj.">
 <!ENTITY identity.connectionVerified2 "Jeni i lidhur në mënyrë të sigurt te ky sajt, pronë e:">
 <!ENTITY identity.connectionInternal "Kjo është një faqe &brandShortName; e sigurt.">
+<!ENTITY identity.extensionPage "Kjo faqe është ngarkuar nga një zgjerim.">
 <!ENTITY identity.insecureLoginForms2 "Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.">
 
 <!-- Strings for connection state warnings. -->
@@ -808,19 +817,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
 
-<!ENTITY social.addons.label "Administroni Shërbime…">
-
-<!ENTITY social.directory.label "Listë Aktivizimesh">
-<!ENTITY social.directory.text "Shërbimet e Ndarjes Me të Tjerët mund t&apos;i aktivizoni që prej listës.">
-<!ENTITY social.directory.button "Shpjemë atje!">
-<!ENTITY social.directory.introText "Klikoni mbi një shërbim që të shtohet te &brandShortName;-i.">
-<!ENTITY social.directory.viewmore.text "Shihni Më Tepër">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Mjete dhe Veçori Shtesë">
 <!ENTITY customizeMode.menuAndToolbars.empty "Doni më tepër mjete?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zgjidhni prej mijëra shtesave">
 <!ENTITY customizeMode.restoreDefaults "Rikthejeni te Parazgjedhjet">
+<!ENTITY customizeMode.done "U bë">
 <!ENTITY customizeMode.titlebar "Shtyllë Titujsh">
+<!ENTITY customizeMode.toolbars2 "Panele">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Temat e Mia">
 <!ENTITY customizeMode.lwthemes.recommended "Të këshillueshme">
@@ -828,6 +830,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
+<!ENTITY customizeMode.uidensity "Dendësi">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakte">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakte">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 
 <!ENTITY getUserMedia.selectCamera.label "Kamerë për ndarje me të tjerët:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -929,9 +947,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Shkarkoni një kopje të freskët të &brandShorterName;-it">
 
 <!ENTITY updateRestart.message "Pas një rinisje të shpejtë, &brandShorterName;-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura.">
+<!ENTITY updateRestart.header.message2 "Që të përditësohet &brandShorterName;-i, riniseni.">
 <!ENTITY updateRestart.acceptButton.label "Rinise dhe Riktheji">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Jo Tani">
 <!ENTITY updateRestart.cancelButton.accesskey "J">
+<!ENTITY updateRestart.panelUI.label2 "Që të përditësohet &brandShorterName;-i, riniseni">
 
+<!ENTITY pageActionButton.tooltip "Veprime faqeje">
+<!ENTITY pageAction.addToUrlbar.label "Shtoje te Shtyllë Adresash">
+<!ENTITY pageAction.removeFromUrlbar.label "Hiqe prej Shtylle Adresash">
 
+<!ENTITY sendToDevice.label3 "Dërgoje Faqen te Pajisja">
+<!ENTITY sendToDevice.syncNotReady.label "Po njëkohësohen Pajisje…">
