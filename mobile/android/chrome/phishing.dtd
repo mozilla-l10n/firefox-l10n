@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "หน้าเว็บนี้ที่ <span id='unwanted_sitename'/> ถูกรายงานว่ามีซอฟต์แวร์ไม่พึงประสงค์และถูกปิดกั้นตามค่ากำหนดความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "หน้าที่มีซอฟต์แวร์ไม่พึงประสงค์จะพยายามติดตั้งซอฟต์แวร์ที่สามารถหลอกลวงและส่งผลกระทบกับระบบของคุณในทางที่ไม่คาดคิด">
 
+<!ENTITY safeb.blocked.harmfulPage.title "ไซต์ข้างหน้าอาจมีมัลแวร์">
