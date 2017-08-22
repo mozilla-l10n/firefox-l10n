@@ -4,8 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bi xêr hatî">
 
-<!ENTITY firstrun_urlbar_message "Bi xêr hatî &brandShortName;ê">
-<!ENTITY firstrun_urlbar_subtext "Bi kurteriyên pêşniyarên lêgerînê yên bikêrhatî tiştan zûtir bibînin.">
+
+
+
+
+
+
+
 <!ENTITY firstrun_bookmarks_title "Raborî">
 <!ENTITY firstrun_bookmarks_message "Hemû tiştên bi dilê we li wirê ne">
 <!ENTITY firstrun_bookmarks_subtext "Di lêgerînê de encamên ji bijare û raboriyê jî bibînin.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Hindiktir dane, zêdetir teseruf">
 <!ENTITY firstrun_data_subtext2 "Ji bo ku di malperên serdan dikî de hindiktir dane xerc bikî wêneyan bigire.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; her tim li gel we ye">
-<!ENTITY firstrun_sync_subtext "Hilpekîn, şîfre û zêdetir tiştên bi kar tînî sync bike û li gel xwe bigerîne.">
+
+
 <!ENTITY firstrun_signin_message "Girêdanê çêke, dest pê bike">
 <!ENTITY firstrun_signin_button "Têkeve Syncê">
 <!ENTITY  onboard_start_button_browser "Dest bi gerê bike">
