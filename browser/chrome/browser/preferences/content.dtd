@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Unntak …">
 <!ENTITY  popupExceptions.accesskey                             "U">
 
-<!ENTITY  permissionSettingsButton2.label                       "Innstillinger…">
-
 <!ENTITY  notificationPermissions.label                         "Varsler">
+<!ENTITY  notificationSettingsButton.label                      "Innstillinger…">
 <!ENTITY  notificationSettingsButton.accesskey                  "r">
 <!ENTITY  notificationPermissionsLearnMore.label                "Les mer">
 
 <!ENTITY  locationPermissions.label                             "Plassering">
+<!ENTITY  locationSettingsButton.label                          "Innstillinger…">
 <!ENTITY  locationSettingsButton.accesskey                      "P">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Innstillinger…">
 <!ENTITY  cameraSettingsButton.accesskey                        "K">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Innstillinger…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper og farger">
