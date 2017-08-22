@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='unwanted_sitename'/> wedi ei chofnodi i gynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd sy'n dwyllodrus ac yn effeithio ar eich system mewn ffyrdd anisgwyl.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Gall fod y wefan o'ch blaen yn cynnwys drwgwar">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Mae &brandShortName; wedi rhwystro'r dudalen hon gan y gall geisio gosod ap peryglus sy'n dwyn neu ddileu eich manylion (e.e., lluniau, cyfrineiriau, negeseuon a chardiau credyd).">
