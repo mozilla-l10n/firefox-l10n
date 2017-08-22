@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "Při ukončení aplikace &brandShortName; automaticky vymazat:">
+<!ENTITY clearDataSettings2.label     "Při ukončení má &brandShortName; automaticky smazat:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -43,12 +43,12 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Podrobnosti">
 <!ENTITY detailsProgressiveDisclosure.accesskey "P">
 
-<!ENTITY historySection.label         "Historie">
+<!ENTITY historySection.label         "Historii">
 <!ENTITY dataSection.label            "Data">
 
-<!ENTITY itemHistoryAndDownloads.label     "Historie prohlížení a stahování">
+<!ENTITY itemHistoryAndDownloads.label     "Historii prohlížení a stahování">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
-<!ENTITY itemFormSearchHistory.label       "Historie formulářů a hledání">
+<!ENTITY itemFormSearchHistory.label       "Historii formulářů a hledání">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
