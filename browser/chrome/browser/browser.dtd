@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Tshwaya Tsebe e">
 <!ENTITY editThisBookmarkCmd.label "Tseleganya letshwaotsebe le">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Batla bontsi jwa ditirelo tsa karogano...">
-<!ENTITY sharePageCmd.label "Abelana Tsebe e  ">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Aba Kgokagano e">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Aba Setshwantsho se">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Aba Tlhopho">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Aba Bidio e">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "Ikwadise mo Tsebeng e">
 <!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
 <!ENTITY subscribeToPageMenuitem.label "Ikwadise mo Tsebeng e...">
@@ -243,7 +228,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "&amp;Leba Matshwaotsebe a Barathoko">
+
 <!ENTITY viewBookmarksToolbar.label         "&amp;Leba Matshwaotsebe a Bara ya didiriswa">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -808,15 +798,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "G">
 <!ENTITY syncToolbarButton.label      "Rulaganya ka tsamaisano">
 
-<!ENTITY social.addons.label "Laola Ditirelo...">
-
-<!ENTITY social.directory.label "Lenaneofaele la Ditiriso">
-<!ENTITY social.directory.text "O ka dirisa Kabo ya ditirelo go tswa mo lenaneofaele.">
-<!ENTITY social.directory.button "Nkise teng!">
-<!ENTITY social.directory.introText "Tobetsa mo tirelong go e tsenya mo &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Leba go le Gontsi">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Tlaleletso Didiriswa le Dikokoanyo tsa dirweboleta">
 <!ENTITY customizeMode.menuAndToolbars.empty "O batla didirisiwa tse dintsi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Tlhopha go tswa mo Diketeng tsa Dioketswa">
 <!ENTITY customizeMode.restoreDefaults "Busetsa Thulaganyetsoruri">
