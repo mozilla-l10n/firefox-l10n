@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Найти другие службы Обмена…">
-<!ENTITY sharePageCmd.label "Поделиться этой страницей">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "и">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Поделиться этой ссылкой">
-<!ENTITY shareLink.accesskey "е">
-<!ENTITY shareImage.label "Поделиться этой картинкой">
-<!ENTITY shareImage.accesskey "о">
-<!ENTITY shareSelect.label "Поделиться выделенным текстом">
-<!ENTITY shareSelect.accesskey "о">
-<!ENTITY shareVideo.label "Поделиться этим видео">
-<!ENTITY shareVideo.accesskey "о">
+
 <!ENTITY feedsMenu2.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenupopup.label "Подписаться на ленты новостей">
 <!ENTITY subscribeToPageMenuitem.label "Подписаться на ленты новостей…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
-<!ENTITY bookmarksMenuButton.other.label "Другие закладки">
-<!ENTITY bookmarksMenuButton.mobile.label "Мобильные закладки">
+<!ENTITY bookmarksMenuButton.other.label    "Другие закладки">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мобильные закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показать боковую панель закладок">
+<!ENTITY hideBookmarksSidebar.label         "Скрыть боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показать панель закладок">
+<!ENTITY hideBookmarksToolbar.label         "Скрыть панель закладок">
 <!ENTITY searchBookmarks.label              "Поиск закладок">
+<!ENTITY bookmarkingTools.label             "Инструменты закладок">
+<!ENTITY addBookmarksMenu.label             "Добавить меню закладок в панель">
+<!ENTITY removeBookmarksMenu.label          "Удалить меню закладок с панели">
 
 <!ENTITY containersMenu.label "Контейнеры">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Инструменты">
-<!ENTITY toolsMenu.accesskey          "И"> 
+<!ENTITY toolsMenu.accesskey          "И">
 
 <!ENTITY keywordfield.label           "Добавить краткое имя для данного поиска…">
 <!ENTITY keywordfield.accesskey       "с">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
 
-<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая вкладка в контейнере">
 <!ENTITY newUserContext.accesskey         "а">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "е">
 <!ENTITY newNonRemoteWindow.label   "Новое однопроцессное окно">
 
-<!ENTITY editMenu.label         "Правка"> 
-<!ENTITY editMenu.accesskey       "П"> 
-<!ENTITY undoCmd.label            "Отменить">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "О"> 
-<!ENTITY redoCmd.label            "Повторить">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "р"> 
-<!ENTITY cutCmd.label           "Вырезать">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "В"> 
-<!ENTITY copyCmd.label            "Копировать">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "К"> 
-<!ENTITY pasteCmd.label           "Вставить">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "с"> 
-<!ENTITY deleteCmd.label          "Удалить">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "У"> 
-<!ENTITY selectAllCmd.label         "Выделить всё">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "д"> 
+<!ENTITY editMenu.label         "Правка">
+<!ENTITY editMenu.accesskey       "П">
+<!ENTITY undoCmd.label            "Отменить">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "О">
+<!ENTITY redoCmd.label            "Повторить">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "р">
+<!ENTITY cutCmd.label           "Вырезать">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "В">
+<!ENTITY copyCmd.label            "Копировать">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label           "Вставить">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "с">
+<!ENTITY deleteCmd.label          "Удалить">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "У">
+<!ENTITY selectAllCmd.label         "Выделить всё">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "д">
 <!ENTITY preferencesCmd2.label       "Настройки">
 <!ENTITY preferencesCmd2.accesskey     "Н">
 <!ENTITY preferencesCmdUnix.label       "Настройки">
-<!ENTITY preferencesCmdUnix.accesskey     "Н"> 
+<!ENTITY preferencesCmdUnix.accesskey     "Н">
 
 <!ENTITY clearRecentHistory.label               "Удалить недавнюю историю…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Вид"> 
-<!ENTITY viewMenu.accesskey       "В"> 
-<!ENTITY viewToolbarsMenu.label       "Панели инструментов"> 
-<!ENTITY viewToolbarsMenu.accesskey     "П"> 
+<!ENTITY viewMenu.label         "Вид">
+<!ENTITY viewMenu.accesskey       "В">
+<!ENTITY viewToolbarsMenu.label       "Панели инструментов">
+<!ENTITY viewToolbarsMenu.accesskey     "П">
 <!ENTITY viewSidebarMenu.label "Боковая панель">
 <!ENTITY viewSidebarMenu.accesskey "Б">
-<!ENTITY viewCustomizeToolbar.label       "Изменить…"> 
+<!ENTITY viewCustomizeToolbar.label       "Изменить…">
 <!ENTITY viewCustomizeToolbar.accesskey     "м">
 <!ENTITY overflowCustomizeToolbar.label       "Настроить панель инструментов…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "а">
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "и">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Исходный код выделенного фрагмента">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Исходный код MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "д">
 <!ENTITY viewPageSourceCmd.label      "Исходный код страницы">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Копировать ссылку на изображение">
 <!ENTITY copyImageCmd.accesskey       "п">
 <!ENTITY copyImageContentsCmd.label   "Копировать изображение">
-<!ENTITY copyImageContentsCmd.accesskey  "и"> 
+<!ENTITY copyImageContentsCmd.accesskey  "и">
 <!ENTITY copyVideoURLCmd.label        "Копировать ссылку на видео">
 <!ENTITY copyVideoURLCmd.accesskey    "п">
 <!ENTITY copyAudioURLCmd.label        "Копировать ссылку на аудио">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Выход из &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Выход"> 
+<!ENTITY quitApplicationCmd.label       "Выход">
 <!ENTITY quitApplicationCmd.accesskey   "ы">
 <!ENTITY quitApplicationCmdMac2.label   "Завершить &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Закрыть">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Закрыть">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "З">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "и">
 <!ENTITY syncToolbarButton.label      "Синхро­низация">
 
-<!ENTITY social.addons.label "Управление службами…">
-
-<!ENTITY social.directory.label "Каталог Служб">
-<!ENTITY social.directory.text "Вы можете активировать службы Обмена из этого каталога.">
-<!ENTITY social.directory.button "Перенести меня туда!">
-<!ENTITY social.directory.introText "Щёлкните по службе, чтобы добавить её в &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Показать ещё">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Дополнительные инструменты и функции">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Перетащите ваши любимые инструменты на панель инструментов или в расширенное меню.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберите нужные вам дополнения">
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
 
-<!ENTITY sendToDevice.label2 "Отправить на устройство">
+<!ENTITY sendToDevice.label3 "Отправить страницу на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
