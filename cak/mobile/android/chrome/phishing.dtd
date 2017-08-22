@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Pa ri ruxaq k'amaya'l <span id='unwanted_sitename'/> ya'on rutzijol chi k'o itzel taq kema' chupam ruma ri' toq xq'eleb'ëx rij richin rirajowaxik taq achajinik.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Itzel taq ruxaq kema', ri nrajo' nuyäk q'olonel taq kema' chuqa' chanin nritzelaj ri aq'inoj.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Re ruxaq k'amaya'l re' rik'in jub'a' k'o nimachikopil chupam">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; xuq'ät re ruxaq re' ruma rik'in jub'a' yeruyäk kan itzel taq chokoy, ri nikeleq'al o yekiyüj awetamab'al (achi'el, taq wachib'äl, taq ewan tzij, taq rutzijol chuqa' ch'utit'im pwäq).">
