@@ -50,9 +50,9 @@
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Megnyitás">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Olvasás">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Írás">
-
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Bejegyzés megnyitva">
 <!ENTITY aboutNetworking.rcwnAvgShort          "Rövid átlag">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Hosszú átlag">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Hosszú szórás">
-
-
+<!ENTITY aboutNetworking.rcwnCacheSlow         "A gyorsítótár hányszor volt lassú">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "A gyorsítótár hányszor nem volt lassú">

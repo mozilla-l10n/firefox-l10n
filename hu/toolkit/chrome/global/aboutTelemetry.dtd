@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "Nyers JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Megnyitás a JSON megjelenítővel">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
 
@@ -43,8 +44,6 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Böngészőlefagyások">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "Szállefagyások">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "  Rögzített vermek">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
@@ -63,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Nyers teher">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Munkamenet-információk">
 
