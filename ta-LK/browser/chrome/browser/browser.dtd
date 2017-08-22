@@ -153,20 +153,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-<!ENTITY sharePageCmd.commandkey "S">
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "இப்பக்கத்தில் சந்தாபெறுக">
@@ -227,7 +213,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டுக">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -758,13 +749,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSyncNowItem.label        "இப்போது ஒத்திசை">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-
-
-
-
-<!ENTITY social.addons.label "சேவைகளை நிர்வகிக்கவும்...">
-
-
 
 
 
