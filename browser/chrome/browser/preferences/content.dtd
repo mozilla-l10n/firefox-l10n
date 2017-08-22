@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Undantag…">
 <!ENTITY  popupExceptions.accesskey                             "U">
 
-<!ENTITY  permissionSettingsButton2.label                       "Inställningar…">
-
 <!ENTITY  notificationPermissions.label                         "Aviseringar">
+<!ENTITY  notificationSettingsButton.label                      "Inställningar…">
 <!ENTITY  notificationSettingsButton.accesskey                  "v">
 <!ENTITY  notificationPermissionsLearnMore.label                "Läs mer">
 
 <!ENTITY  locationPermissions.label                             "Plats">
+<!ENTITY  locationSettingsButton.label                          "Inställningar…">
 <!ENTITY  locationSettingsButton.accesskey                      "P">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Inställningar…">
 <!ENTITY  cameraSettingsButton.accesskey                        "k">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Inställningar…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "M">
 
 <!ENTITY  fontsAndColors.label        "Teckensnitt och färger">
