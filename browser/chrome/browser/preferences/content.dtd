@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Bloki ŝprucfenestrojn">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Pli da informo">
-<!ENTITY  notificationsPolicyDesc4.label       "Elektu la retejojn, kiuj rajtas sendi sciigojn al vi">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "Elekti…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne ĝenu min">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Sciigoj estos montritaj post restarto de &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Esceptoj…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Esceptoj…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  notificationPermissions.label                         "Sciigoj">
+<!ENTITY  notificationSettingsButton.label                      "Agordoj…">
+<!ENTITY  notificationSettingsButton.accesskey                  "A">
+<!ENTITY  notificationPermissionsLearnMore.label                "Pli da informo">
+
+<!ENTITY  locationPermissions.label                             "Loko">
+<!ENTITY  locationSettingsButton.label                          "Agordoj…">
+<!ENTITY  locationSettingsButton.accesskey                      "A">
+
+<!ENTITY  cameraPermissions.label                               "Filmilo">
+<!ENTITY  cameraSettingsButton.label                            "Agordoj…">
+<!ENTITY  cameraSettingsButton.accesskey                        "A">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofono">
+<!ENTITY  microphoneSettingsButton.label                        "Agordoj…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "A">
 
 <!ENTITY  fontsAndColors.label        "Tiparoj kaj koloroj">
 
