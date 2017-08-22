@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página aos marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Localizar mais serviços de partilha…">
-<!ENTITY sharePageCmd.label "Partilhar esta página">
-<!ENTITY sharePageCmd.commandkey "s">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Partilhar esta ligação">
-<!ENTITY shareLink.accesskey "s">
-<!ENTITY shareImage.label "Partilhar esta imagem">
-<!ENTITY shareImage.accesskey "s">
-<!ENTITY shareSelect.label "Partilhar seleção">
-<!ENTITY shareSelect.accesskey "s">
-<!ENTITY shareVideo.label "Partilhar este vídeo">
-<!ENTITY shareVideo.accesskey "s">
+
 <!ENTITY feedsMenu2.label "Subscrever a esta página">
 <!ENTITY subscribeToPageMenupopup.label "Subscrever a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
-<!ENTITY bookmarksMenuButton.other.label "Outros marcadores">
-<!ENTITY bookmarksMenuButton.mobile.label "Marcadores de dispositivo móvel">
+<!ENTITY bookmarksMenuButton.other.label    "Outros marcadores">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcadores de dispositivo móvel">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
+<!ENTITY hideBookmarksSidebar.label         "Ocultar barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas de marcadores">
+<!ENTITY hideBookmarksToolbar.label         "Ocultar barra de ferramentas de marcadores">
 <!ENTITY searchBookmarks.label              "Pesquisar marcadores">
+<!ENTITY bookmarkingTools.label             "Ferramentas de marcadores">
+<!ENTITY addBookmarksMenu.label             "Adicionar menu de marcadores à barra de ferramentas">
+<!ENTITY removeBookmarksMenu.label          "Remover menu de marcadores da barra de ferramentas">
 
 <!ENTITY containersMenu.label "Contentores">
 
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Gerir serviços…">
-
-<!ENTITY social.directory.label "Diretório de ativações">
-<!ENTITY social.directory.text "Pode ativar os serviços de partilha a partir do diretório.">
-<!ENTITY social.directory.button "Leve-me lá!">
-<!ENTITY social.directory.introText "Clique num serviço para o adicionar ao &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Ver mais">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ferramentas e funcionalidades adicionais">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Arraste os seus itens favoritos para a barra de ferramentas ou menu de excesso.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha de entre milhares de extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adicionar à barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
 
-<!ENTITY sendToDevice.label2 "Enviar para dispositivo">
+<!ENTITY sendToDevice.label3 "Enviar página para dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "A sincronizar dispositivos…">
