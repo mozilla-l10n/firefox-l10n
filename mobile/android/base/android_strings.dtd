@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
-
-<!ENTITY firstrun_urlbar_message "Velkommen til &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Dine ting raskere med hjelpsomme søkeforslag.">
+<!ENTITY firstrun_urlbar_message2 "Takk for at du velger &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Personvern">
+<!ENTITY firstrun_privacy_message "Surf uten å føle deg overvåket">
+<!ENTITY firstrun_panel_title_customize "Tilpass">
+<!ENTITY firstrun_customize_message "Gjør &brandShorterName; til din egen.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favoritter, der de er viktigst">
 <!ENTITY firstrun_bookmarks_subtext "Få resultater fra dine bokmerker og historikk når du søker.">
@@ -13,8 +15,7 @@
 <!ENTITY firstrun_data_message "Mindre data, mer spart">
 <!ENTITY firstrun_data_subtext2 "Skru av bilder for å bruke mindre data på hvert nettsted du besøker.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, alltid hos deg">
-<!ENTITY firstrun_sync_subtext "Synkroniser fanene dine, passord og mer, samme hvor du bruker de.">
+<!ENTITY firstrun_sync_message2 "Fortsett der du sluttet.">
 <!ENTITY firstrun_signin_message "Koble til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
@@ -328,7 +329,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "For å \&quot;Åpne flere lenker\&quot;, skru på \u0027Tegn over andre apper\u0027-tillatelsen for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "For å \&quot;Åpne flere lenker\&quot;, skru på \&apos;Tegn over andre apper\&apos;-tillatelsen for &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +356,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tøm nå">
 <!ENTITY pref_clear_on_exit_title3 "Tøm private data ved avslutning">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \u0022Avslutt\u0022 fra hovedmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk slette dine data når du velger \&quot;Avslutt\&quot; fra hovedmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Velg hvilke data som skal slettes">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
