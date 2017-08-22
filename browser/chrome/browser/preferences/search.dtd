@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un clic distanță">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.">
 
 <!ENTITY engineNameColumn.label                "Motor de căutare">
 <!ENTITY engineKeywordColumn.label             "Cuvânt cheie">
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Elimină">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY findMoreSearchEngines.label           "Găsește mai multe motoare de căutare">
