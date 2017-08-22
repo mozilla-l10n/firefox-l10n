@@ -5,14 +5,14 @@
 <!ENTITY window.title                 "Excepcions">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Site">
+<!ENTITY treehead.sitename2.label     "Site web">
 <!ENTITY treehead.status.label        "Estat">
-<!ENTITY removepermission.label       "Suprimir lo site">
-<!ENTITY removepermission.accesskey   "S">
-<!ENTITY removeallpermissions.label   "Suprimir totes los sites">
-<!ENTITY removeallpermissions.accesskey "u">
-<!ENTITY address.label                "Adreça del site web :">
-<!ENTITY address.accesskey            "d">
+<!ENTITY removepermission2.label      "Suprimir lo site web">
+<!ENTITY removepermission2.accesskey  "S">
+<!ENTITY removeallpermissions2.label  "Suprimir totes los sites web">
+<!ENTITY removeallpermissions2.accesskey "e">
+<!ENTITY address2.label               "Adreça del site web">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blocar">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Autorizar pendent la session">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Enregistrar las modificacions">
 <!ENTITY button.ok.accesskey          "E">
 
+<!ENTITY searchbox.placeholder        "Recercar un site web">

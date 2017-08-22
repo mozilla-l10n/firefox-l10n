@@ -6,11 +6,14 @@
 <!ENTITY newWindowsAsTabs.label       "Dobrir las fenèstras novèlas puslèu dins un onglet novèl">
 <!ENTITY newWindowsAsTabs.accesskey   "g">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Vos avisar quand tampatz d'onglets multiples">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Vos avisar qu'a dobrir d'onglets multiples aquò pòt alentir &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "l">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "En dobrir un ligam dins un onglet novèl, i bascular sul pic">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Afichar los apercebuts d'onglets dins la barra dels prètzfaits de Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "c">
