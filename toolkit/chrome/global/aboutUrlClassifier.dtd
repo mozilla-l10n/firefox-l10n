@@ -1,14 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.pageTitle                   "Információk az url-classifierről">
 <!ENTITY aboutUrlClassifier.providerTitle               "Szolgáltató">
 <!ENTITY aboutUrlClassifier.provider                    "Szolgáltató">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Legutóbbi frissítés ideje">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Következő frissítés ideje">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Visszatartási idő">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Legutóbbi frissítés állapota">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Frissítés">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Gyorsítótár">
