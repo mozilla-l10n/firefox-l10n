@@ -24,12 +24,12 @@
 <!ENTITY devmgr.button.unload.accesskey         "M">
 <!ENTITY devmgr.button.fips.accesskey           "M">
 
-<!ENTITY loaddevice.info                        "Tajpu la informon pri la programero kiun vi volas aldoni.">
-<!ENTITY loaddevice.modname                     "Nomo de programono:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.info                        "Tajpu la informon pri la modulo kiun vi volas aldoni.">
+<!ENTITY loaddevice.modname2                    "Nomo de modulo">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Nova PKCS#11 programono">
-<!ENTITY loaddevice.filename                    "Dosiera nomo de programono:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "Dosiero de modulo">
+<!ENTITY loaddevice.filename2.accesskey         "d">
 <!ENTITY loaddevice.browse                      "Esplori…">
 <!ENTITY loaddevice.browse.accesskey            "E">
 

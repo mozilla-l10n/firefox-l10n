@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Lingvoj">
-<!ENTITY languages.customize.description                "Retpaĝoj estas kelkfoje proponataj en el pli ol unu lingvo. Elektu lingvojn por montri tiujn retpaĝojn, ordigitaj laŭ prefero:">
+<!ENTITY languages.customize2.description               "Retpaĝoj estas kelkfoje proponitaj en pli ol unu lingvo. Elektu la lingvojn por montri tiujn paĝojn, ordigitaj laŭ prefero.">
 <!ENTITY languages.customize.moveUp.label               "Movi supren">
 <!ENTITY languages.customize.moveUp.accesskey           "S">
 <!ENTITY languages.customize.moveDown.label             "Movi malsupren">

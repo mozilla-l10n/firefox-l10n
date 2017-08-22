@@ -4,13 +4,13 @@
 
 
 <!ENTITY  history.title             "Ĝisdatigi historion">
-<!ENTITY  history.intro             "La jenaj ĝisdatigoj estis instalitaj:">
+<!ENTITY  history2.intro            "La jenaj ĝisdatigoj estis instalitaj">
 <!ENTITY  closebutton.label         "Fermi">
-                                     
+
 <!ENTITY  noupdates.label           "Neniu ĝisdatigo instalita ĝis nun">
 
 <!ENTITY  name.header               "Nomo de ĝisdatigo">
 <!ENTITY  date.header               "Dato de ĝisdatigo">
 <!ENTITY  type.header               "Tipo">
-<!ENTITY  state.header              "ŝtato">
+<!ENTITY  state.header              "Stato">
 

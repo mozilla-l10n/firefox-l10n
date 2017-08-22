@@ -32,3 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tiu ĉi retpaĝo ĉe <span id='phishing_sitename'/> estis denuncita kiel trompa retejo kaj ĝi estis blokita surbaze de viaj sekurecaj preferoj.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Trompaj retejoj estas fasonitaj por trompe igi vin fari ion danĝeran, kiel instali programon aŭ diskonigi personajn informojn kiel pasvortojn, telefonnumerojn aŭ kreditkartojn.</p><p>Tajpado de informo en tiu ĉi retepaĝo povas okazigi ŝtelon de identeco aŭ aliajn trompŝtelojn.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "La vizitota retejo povus enhavi fiprogramojn">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; blokis tiun ĉi paĝon, ĉar ĝi povus klopodi instali danĝerajn programojn, kiu ŝtelas aŭ forigas viajn datumojn (ekzemple: fotojn, pasvortojn, mesaĝojn kaj kreditkartojn).">
