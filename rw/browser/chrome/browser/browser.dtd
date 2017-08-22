@@ -145,20 +145,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Kwiyandikisha kuri Iyi Paji...">
@@ -213,6 +199,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 
 <!ENTITY bookmarksButton.label          "Utumenyetso">
+
+
+
+
+
 
 
 
@@ -707,12 +698,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-
-
-
-
 
 
 
