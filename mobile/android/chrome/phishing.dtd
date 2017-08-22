@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Hiqmë prej këtej!">
 <!ENTITY safeb.palm.decline.label "Shpërfille këtë sinjalizim">
 <!ENTITY safeb.palm.reportPage.label "Pse është bllokuar kjo faqe?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Këshillimi u dha nga <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Faqe e Raportuar për Sulme!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -20,3 +22,6 @@
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Kjo faqe web te <span id='unwanted_sitename'/> është raportuar se përmban software të padëshiruar dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Faqet e software-i të padëshiruar përpiqen të instalojnë programe që mund të jenë të rrejshme dhe të ndikojnë në sistemin tuaj në rrugë të papritura.">
+
+<!ENTITY safeb.blocked.harmfulPage.title "Sajti ku po shkoni mund të përmbajë malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName;-i e bllokoi këtë faqe, ngaqë mund të përpiqet të instalojë aplikacione të rrezikshme që vjedhim ose fshijnë informacione tuajat (për shembull foto, fjalëkalime, mesazhe dhe karta krediti).">
