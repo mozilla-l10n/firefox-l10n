@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ช">
 <!ENTITY syncToolbarButton.label      "ซิงค์">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "ลากรายการโปรดของคุณลงในแถบเครื่องมือหรือเมนูล้น">
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
