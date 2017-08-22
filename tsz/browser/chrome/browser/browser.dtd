@@ -155,20 +155,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-<!ENTITY sharePageCmd.commandkey "S">
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Inchakuarin arini eranharikua…">
@@ -228,6 +214,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Kuirunharitarakuecha">
+
+
+
+
+
 
 
 
@@ -745,12 +736,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncToolbarButton.label      "Sync">
-
-
-
-
-
-
 
 
 
