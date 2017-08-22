@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -25,17 +23,20 @@
 <!ENTITY  generalReferrer       "URL referuese:">
 <!ENTITY  generalSource         "Burim Fshehtine:">
 <!ENTITY  generalModified       "Ndryshuar më:">
-<!ENTITY  generalEncoding2       "Kodim Teksti:">
+<!ENTITY  generalEncoding2      "Kodim Teksti:">
 <!ENTITY  generalMetaName       "Emër">
 <!ENTITY  generalMetaContent    "Lëndë">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Vend:">
+<!ENTITY  mediaText             "Tekst Shoqërues:">
 <!ENTITY  mediaAltHeader        "Tekst Alternativ">
 <!ENTITY  mediaAddress          "Adresë">
 <!ENTITY  mediaType             "Lloj">
 <!ENTITY  mediaSize             "Madhësi">
 <!ENTITY  mediaCount            "Numërim">
+<!ENTITY  mediaDimension        "Përmasa:">
 <!ENTITY  mediaLongdesc         "Përshkrim i Gjatë:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Ruajeni Si…">
@@ -58,16 +59,21 @@
 <!ENTITY  permissionsFor        "Leje për:">
 <!ENTITY  permPlugins           "Aktivizo Shtojcat">
 
+<!ENTITY  permClearStorage           "Pastroje Depozitën">
+<!ENTITY  permClearStorage.accesskey "P">
+
 <!ENTITY  securityTab           "Siguri">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Shihini Dëshminë">
 <!ENTITY  securityView.accesskey "S">
 <!ENTITY  securityView.unknown   "E panjohur">
 
+
 <!ENTITY  securityView.identity.header   "Identitet Sajti">
 <!ENTITY  securityView.identity.owner    "Pronar: ">
 <!ENTITY  securityView.identity.domain   "Sajt: ">
 <!ENTITY  securityView.identity.verifier "Vërtetuar nga: ">
+<!ENTITY  securityView.identity.validity "Skadon më:">
 
 <!ENTITY  securityView.privacy.header                   "Privatësi &amp; Historik">
 <!ENTITY  securityView.privacy.history                  "E kam vizituar këtë sajt më herët se sot?">
@@ -77,12 +83,7 @@
 <!ENTITY  securityView.privacy.passwords                "A kam ruajtur ndonjë fjalëkalim për këtë sajt?">
 <!ENTITY  securityView.privacy.viewPasswords            "Shihni Fjalëkalime të Ruajtur">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "F">
-<!ENTITY  securityView.technical.header                 "Hollësi Teknike">
-<!ENTITY  mediaDimension        "Përmasa:">
-<!ENTITY  mediaLocation         "Vend:">
-<!ENTITY  mediaText             "Tekst Shoqërues:">
 
-<!ENTITY  permClearStorage           "Pastroje Depozitën">
-<!ENTITY  permClearStorage.accesskey "P">
+<!ENTITY  securityView.technical.header                 "Hollësi Teknike">
 
 <!ENTITY  helpButton.label                              "Ndihmë">

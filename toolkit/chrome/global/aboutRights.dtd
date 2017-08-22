@@ -1,11 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Mbi të Drejtat Tuaja">
+<!ENTITY rights.title "Mbi të Drejtat Tuaja">
 <!ENTITY rights.intro "&brandFullName;-i është software i lirë dhe me burim të hapur, krijuar nga një bashkësi disamijëshe anembanë botës. Ka pak gjëra që do të duhej t&apos;i dinit:">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -58,7 +56,6 @@
 <!ENTITY rights2.webservices-a "&brandFullName;-i përdor shërbime të dhënash me bazë web (&quot;Shërbimet&quot;) për të bërë të mundur funksionimin e disa veçorive që ju ofrohen për përdorim përmes këtij versioni dyor të &brandShortName;-it, sipas kushteve të përshkruara më poshtë. Nëse nuk dëshironi të përdorni një ose më tepër prej Shërbimeve, ose nëse kushtet më poshtë janë të papranueshme për ju, mund ta çaktivizoni veçorinë ose Shërbimin(t). Udhëzimet se si të çaktivizohet një veçori ose Shërbim i caktuar mund të gjenden ">
 <!ENTITY rights2.webservices-b "këtu">
 <!ENTITY rights3.webservices-c ". Të tjera veçori dhe Shërbime mund të çaktivizohen te parapëlqimet e aplikacionit.">
-
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Shfletim i Parrezik: ">
