@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Tandabuku Halaman Ini">
 <!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Cari lanjutan Share services…">
-<!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Kongsi Pautan Ini">
-<!ENTITY shareLink.accesskey "a">
-<!ENTITY shareImage.label "Kongsi Imej Ini">
-<!ENTITY shareImage.accesskey "n">
-<!ENTITY shareSelect.label "Kongsi Pilihan">
-<!ENTITY shareSelect.accesskey "i">
-<!ENTITY shareVideo.label "Kongsi Video Ini">
-<!ENTITY shareVideo.accesskey "n">
+
 <!ENTITY feedsMenu2.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenupopup.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan Halaman Ini…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Tandabuku">
-<!ENTITY bookmarksMenuButton.other.label "Tandabuku Lain">
-<!ENTITY bookmarksMenuButton.mobile.label "Tandabuku Telefon">
+<!ENTITY bookmarksMenuButton.other.label    "Tandabuku Lain">
+<!ENTITY bookmarksMenuButton.mobile.label   "Tandabuku Telefon">
 <!ENTITY viewBookmarksSidebar2.label        "Papar Tandabuku Bar Sisi">
+<!ENTITY hideBookmarksSidebar.label         "Sorok Bar sisi Tandabuku">
 <!ENTITY viewBookmarksToolbar.label         "Papar Bar alat Tandabuku">
+<!ENTITY hideBookmarksToolbar.label         "Sorok Bar alat Tandabuku">
 <!ENTITY searchBookmarks.label              "Cari Tandabuku">
+<!ENTITY bookmarkingTools.label             "Alatan Tandabuku">
+<!ENTITY addBookmarksMenu.label             "Tambah Menu Tandabuku dalam Bar alatan">
+<!ENTITY removeBookmarksMenu.label          "Buang Menu Tandabuku daripada Bar alatan">
 
 <!ENTITY containersMenu.label "Bekas">
 
@@ -836,15 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Urus Servis…">
-
-<!ENTITY social.directory.label "Direktori Pengaktifan">
-<!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
-<!ENTITY social.directory.button "Bawa saya ke sana!">
-<!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambahkannya ke &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Papar Selanjutnya">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-ons">
 <!ENTITY customizeMode.restoreDefaults "Pulih Piawai">
@@ -991,5 +972,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Buang daripada Bar Alamat">
 
-<!ENTITY sendToDevice.label2 "Hantar ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
