@@ -34,7 +34,7 @@
 <!ENTITY rights.intro-point3-unbranded "任何适用于此产品的隐私条款都应被列于此处。">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "&brandShortName; 的一些功能是使用基于网络的一些服务信息，然而，我们不能保证它们100&#037;正确且无差错。更多包括如何禁止使用这些服务功能的信息，请参见">
+<!ENTITY rights2.intro-point4a "&brandShortName; 的一些功能使用了基于网络的服务信息，然而，我们无法保证它们 100&#037; 正确且无差错。包括如何禁用这些服务功能的详细信息，请参见">
 <!ENTITY rights.intro-point4b "服务条款">
 <!ENTITY rights.intro-point4c "。">
 
