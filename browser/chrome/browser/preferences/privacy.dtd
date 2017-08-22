@@ -28,17 +28,23 @@
 
 <!ENTITY  addressBar.label              "Barra d'adreça">
 <!ENTITY  locbar.history2.label         "Istoric de navigacion">
+<!ENTITY  locbar.history2.accesskey     "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
 <!ENTITY  locbar.openpage.accesskey     "D">
+<!ENTITY  locbar.searches.label         "Recèrcas parièras del motor de recèrca per defaut">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Cambiar las preferéncias per las suggestions del motor de recèrca">
 
 
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
 
+<!ENTITY  keepUntil2.label              "Las conservar fins a">
+<!ENTITY  keepUntil2.accesskey          "f">
 
 <!ENTITY  expire.label                  "lor expiracion">
 <!ENTITY  close.label                   "la tampadura de &brandShortName;">
@@ -49,6 +55,8 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
 <!ENTITY  historyHeader.dontremember.label "Conservar pas jamai l'istoric">
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">
