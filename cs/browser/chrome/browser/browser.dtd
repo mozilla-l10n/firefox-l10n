@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
 <!ENTITY editThisBookmarkCmd.label "Upravit záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Vyhledat další služby pro sdílení…">
-<!ENTITY sharePageCmd.label "Sdílet stránku">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "S">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Sdílet odkaz">
-<!ENTITY shareLink.accesskey "S">
-<!ENTITY shareImage.label "Sdílet obrázek">
-<!ENTITY shareImage.accesskey "S">
-<!ENTITY shareSelect.label "Sdílet výběr">
-<!ENTITY shareSelect.accesskey "S">
-<!ENTITY shareVideo.label "Sdílet video">
-<!ENTITY shareVideo.accesskey "S">
+
 <!ENTITY feedsMenu2.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
-<!ENTITY bookmarksMenuButton.other.label "Ostatní záložky">
-<!ENTITY bookmarksMenuButton.mobile.label "Záložky z mobilu">
+<!ENTITY bookmarksMenuButton.other.label    "Ostatní záložky">
+<!ENTITY bookmarksMenuButton.mobile.label   "Záložky z mobilu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
+<!ENTITY hideBookmarksSidebar.label         "Skrýt postranní lištu záložek">
 <!ENTITY viewBookmarksToolbar.label         "Zobrazit lištu záložek">
+<!ENTITY hideBookmarksToolbar.label         "Skrýt lištu záložek">
 <!ENTITY searchBookmarks.label              "Hledat v záložkách">
+<!ENTITY bookmarkingTools.label             "Nástroje pro práci se záložkami">
+<!ENTITY addBookmarksMenu.label             "Přidat nabídku záložek na lištu">
+<!ENTITY removeBookmarksMenu.label          "Odebrat nabídku záložek z lišty">
 
 <!ENTITY containersMenu.label "Kontejnery">
 
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "p">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Správce služeb…">
-
-<!ENTITY social.directory.label "Katalog služeb">
-<!ENTITY social.directory.text "Služby sdílení můžete aktivovat z katalogu.">
-<!ENTITY social.directory.button "Přejít do katalogu">
-<!ENTITY social.directory.introText "Pro přidání služby do aplikace &brandShortName; na ni klepněte.">
-<!ENTITY social.directory.viewmore.text "Zobrazit další služby">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Další nástroje a funkce">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Přetáhněte své oblíbené položky na lištu nebo do rozšiřující nabídky.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zvolte si některý z tisíce doplňků">
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
 
-<!ENTITY sendToDevice.label2 "Poslat do zařízení">
+<!ENTITY sendToDevice.label3 "Poslat stránku do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
