@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Selamat Datang">
 <!ENTITY firstrun_urlbar_message2 "Terima kasih kerana memilih &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Pelayar moden oleh Mozilla, sebuah organisasi bukan untung yang komited mengekalkan web yang terbuka dan percuma.">
 <!ENTITY firstrun_panel_title_privacy "Privasi">
 <!ENTITY firstrun_panel_title_customize "Penyesuaian">
 <!ENTITY firstrun_customize_message "Jadikan &brandShortName; milik anda.">
