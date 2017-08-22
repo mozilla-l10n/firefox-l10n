@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "歡迎">
-
-<!ENTITY firstrun_urlbar_message "歡迎使用 &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "透過好用的搜尋建議捷徑，更快找到想要的東西。">
+<!ENTITY firstrun_urlbar_message2 "感謝選用 &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "隱私權">
+<!ENTITY firstrun_privacy_message "上網時，彷彿沒有人看著你。">
+<!ENTITY firstrun_panel_title_customize "自訂">
+<!ENTITY firstrun_customize_message "讓 &brandShortName; 有您的風格。">
 <!ENTITY firstrun_bookmarks_title "瀏覽紀錄">
 <!ENTITY firstrun_bookmarks_message "您的最愛，就在正中央">
 <!ENTITY firstrun_bookmarks_subtext "搜尋時，同步在書籤與瀏覽紀錄中尋找">
@@ -13,8 +15,7 @@
 <!ENTITY firstrun_data_message "網路用得更少，幫您省得更多">
 <!ENTITY firstrun_data_subtext2 "關閉圖片載入，開啟網站時花費更少流量。">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; 總是站在您這邊">
-<!ENTITY firstrun_sync_subtext "隨處同步您的分頁、密碼。">
+<!ENTITY firstrun_sync_message2 "從結束的地方繼續。">
 <!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">

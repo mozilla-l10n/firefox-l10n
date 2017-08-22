@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "此網頁 <span id='unwanted_sitename'/> 已被回報為疑似提供不安全的軟體。依照您的安全性偏好設定已封鎖此網頁。">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "提供不安全軟體的網站可能會嘗試安裝詐騙軟體，並以您預期外的方式影響系統。">
 
+<!ENTITY safeb.blocked.harmfulPage.title "此網站可能含有惡意軟體">
