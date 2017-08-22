@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Általános">
 
@@ -27,10 +27,10 @@
 <!ENTITY checkUserSpelling.accesskey     "H">
 
 <!ENTITY dataChoicesTab.label            "Adatküldések">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Az adatjelentést letiltották ehhez a binárishoz">
 
 <!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
@@ -59,21 +59,21 @@ available. -->
 <!ENTITY httpCache.label                 "Gyorsítótárazott webtartalom">
 
 <!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Oldal adatai">
 <!ENTITY clearSiteData.label             "Minden adat törlése">
 <!ENTITY clearSiteData.accesskey         "d">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
 <!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Gyorsítótár korlátozása">
 <!ENTITY limitCacheSizeBefore.accesskey  "G">
 <!ENTITY limitCacheSizeAfter.label       "MB">
@@ -130,14 +130,21 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
 <!ENTITY performance.label               "Teljesítmény">
-<!ENTITY useRecommendedPerformanceSettings.label "Javasolt teljesítménybeállítások használata">
-
-<!ENTITY useRecommendedPerformanceSettings.accesskey "h">
-<!ENTITY performanceSettingsLearnMore.label "További tudnivalók">
-
-
-
-
-
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Javasolt teljesítménybeállítások használata">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Ezek a beállítások a számítógép hardveréhez és operációs rendszeréhez lettek szabva.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "h">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "További tudnivalók">
+<!ENTITY limitContentProcessOption.label "Tartalom folyamatok korlátja">
+<!ENTITY limitContentProcessOption.description
+                                         "A további tartalom folyamatok növelhetik a teljesítményt, ha több lapot használ, de több memóriát is használnak.">
+<!ENTITY limitContentProcessOption.accesskey   "k">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "A tartalom folyamatok számának módosítása csak többfolyamatos &brandShortName; esetén lehetséges.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Ismerje meg, hogyan lehet ellenőrizni, hogy a többfolyamatos működés engedélyezve van-e">
 <!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
 <!ENTITY allowHWAccel.accesskey          "r">

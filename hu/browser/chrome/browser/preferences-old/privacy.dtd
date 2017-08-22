@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "További tudnivalók">
 <!ENTITY changeBlockList.label          "Blokkolási lista módosítása">
 <!ENTITY changeBlockList.accesskey      "d">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Ezen kívül kezelheti a ">
 <!ENTITY  doNotTrack.settings.label     "Ne kövessenek beállításait">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "Keresőszolgáltatás-javaslatok beállításainak módosítása…">
 <!ENTITY  suggestionSettings.accesskey  "r">
 
-
+<!ENTITY  acceptCookies2.label          "Sütik elfogadása webhelyekről">
+<!ENTITY  acceptCookies2.accesskey      "e">
 
 <!ENTITY  acceptThirdParty.pre.label      "Harmadik féltől származó sütik elfogadása:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "H">
@@ -71,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "A &brandShortName; megjegyzi a böngészés, a letöltések, az űrlapok és a keresőmezők előzményeit.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Lehetősége van ">
 <!ENTITY  rememberActions.clearHistory.label  "törölni az előzményeket">
 <!ENTITY  rememberActions.middle.label        ", vagy ">
@@ -82,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "A &brandShortName; ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Lehetősége van ">
 <!ENTITY  dontrememberActions.clearHistory.label "minden előzmény törlésére">
 <!ENTITY  dontrememberActions.post.label         ".">
