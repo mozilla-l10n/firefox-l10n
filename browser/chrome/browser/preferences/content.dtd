@@ -7,16 +7,25 @@
 <!ENTITY  blockPopups.label           "Blocar las fenèstras sorgissentas">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ne saber mai">
-<!ENTITY  notificationsPolicyDesc4.label       "Causissètz los sites que vos pòdon mandar de notificacions">
-<!ENTITY  notificationsPolicyButton.accesskey  "a">
-<!ENTITY  notificationsPolicyButton.label      "Causir…">
 <!ENTITY  notificationsDoNotDisturb.label      "Derrenguetz pas">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Pas cap de notificacion serà afichada fins que tornetz aviar &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Excepcions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Excepcions…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  notificationPermissions.label                         "Notificacions">
+<!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "Ne saber mai">
+
+<!ENTITY  locationPermissions.label                             "Localizacion">
+<!ENTITY  locationSettingsButton.accesskey                      "A">
+
+<!ENTITY  cameraPermissions.label                               "Camerà">
+<!ENTITY  cameraSettingsButton.accesskey                        "c">
+
+<!ENTITY  microphonePermissions.label                           "Microfòn">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Poliças e colors">
 

@@ -13,9 +13,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Pas jamai">
 
 <!ENTITY  color                           "Tèxte e rèireplan">
+<!ENTITY  textColor2.label                "Tèxte">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Rèire plan">
+<!ENTITY  backgroundColor2.accesskey      "R">
 <!ENTITY  useSystemColors.label           "Utilizar las colors del sistèma">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Soslinhar los ligams">
 <!ENTITY  underlineLinks.accesskey        "o">
 <!ENTITY  links                           "Colors dels ligams">
+<!ENTITY  linkColor2.label                "Ligams pas visitats">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Ligams visitats">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

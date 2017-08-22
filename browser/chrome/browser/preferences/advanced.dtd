@@ -116,7 +116,6 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Los sites seguents son autorizats a emmagazinar de donadas per una utilizacion fòra connexion :">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Suprimir...">
 <!ENTITY offlineAppsListRemove.accesskey "S">
@@ -130,10 +129,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Consultar los servidors respondeires OCSP per confirmar la validitat actuala de vòstres certificats">
 <!ENTITY enableOCSP.accesskey            "C">
-<!ENTITY viewCerts.label                 "Afichar los certificats">
-<!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
-<!ENTITY viewSecurityDevices.accesskey   "g">
+<!ENTITY viewCerts2.label                "Afichar los certificats…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Periferics de seguretat…">
+<!ENTITY viewSecurityDevices2.accesskey  "P">
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
