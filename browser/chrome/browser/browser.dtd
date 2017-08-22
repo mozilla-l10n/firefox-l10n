@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY editThisBookmarkCmd.label "Redakti tiun ĉi legosignon">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Serĉi pli da dividaj servoj…">
-<!ENTITY sharePageCmd.label "Dividi tiun ĉi paĝon">
-<!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY sharePageCmd.accesskey "p">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Dividi tiun ĉi ligilon">
-<!ENTITY shareLink.accesskey "l">
-<!ENTITY shareImage.label "Dividi tiun ĉi bildon">
-<!ENTITY shareImage.accesskey "b">
-<!ENTITY shareSelect.label "Dividi elektaĵon">
-<!ENTITY shareSelect.accesskey "e">
-<!ENTITY shareVideo.label "Dividi tiun ĉi filmeton">
-<!ENTITY shareVideo.accesskey "f">
+
 <!ENTITY feedsMenu2.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
-<!ENTITY bookmarksMenuButton.other.label "Aliaj legosignoj">
-<!ENTITY bookmarksMenuButton.mobile.label "Poŝaparataj legosignoj">
+<!ENTITY bookmarksMenuButton.other.label    "Aliaj legosignoj">
+<!ENTITY bookmarksMenuButton.mobile.label   "Poŝaparataj legosignoj">
 <!ENTITY viewBookmarksSidebar2.label        "Montri flankan strion de legosignoj">
+<!ENTITY hideBookmarksSidebar.label         "Kaŝi flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
+<!ENTITY hideBookmarksToolbar.label         "Kaŝi ilaron de legosignoj">
 <!ENTITY searchBookmarks.label              "Serĉi legosignojn">
+<!ENTITY bookmarkingTools.label             "Iloj por legosignoj">
+<!ENTITY addBookmarksMenu.label             "Aldoni la menuon de legosignoj al la ilaro">
+<!ENTITY removeBookmarksMenu.label          "Forigi la menuon de legosignojn el la ilaro">
 
 <!ENTITY containersMenu.label "Ingoj">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Iloj">
-<!ENTITY toolsMenu.accesskey          "I"> 
+<!ENTITY toolsMenu.accesskey          "I">
 
 <!ENTITY keywordfield.label           "Aldoni kategorian vorton por tiu ĉi serĉado…">
 <!ENTITY keywordfield.accesskey       "v">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
 
-<!ENTITY fileMenu.label         "Dosiero"> 
+<!ENTITY fileMenu.label         "Dosiero">
 <!ENTITY fileMenu.accesskey       "o">
 <!ENTITY newUserContext.label             "Nova inga langeto">
 <!ENTITY newUserContext.accesskey         "e">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "f">
 <!ENTITY newNonRemoteWindow.label   "Nova ne-Electrolysis fenestro">
 
-<!ENTITY editMenu.label         "Redakti"> 
-<!ENTITY editMenu.accesskey       "R"> 
-<!ENTITY undoCmd.label            "Malfari">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "M"> 
-<!ENTITY redoCmd.label            "Refari">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Eltondi">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Kopii">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Alglui">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "A"> 
-<!ENTITY deleteCmd.label          "Forviŝi">  
-<!ENTITY deleteCmd.key            "N">  
-<!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Elekti ĉion">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "E"> 
+<!ENTITY editMenu.label         "Redakti">
+<!ENTITY editMenu.accesskey       "R">
+<!ENTITY undoCmd.label            "Malfari">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "M">
+<!ENTITY redoCmd.label            "Refari">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Eltondi">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Kopii">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Alglui">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "A">
+<!ENTITY deleteCmd.label          "Forviŝi">
+<!ENTITY deleteCmd.key            "N">
+<!ENTITY deleteCmd.accesskey        "F">
+<!ENTITY selectAllCmd.label         "Elekti ĉion">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "E">
 <!ENTITY preferencesCmd2.label       "Elektebloj">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferoj">
-<!ENTITY preferencesCmdUnix.accesskey     "P"> 
+<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY clearRecentHistory.label               "Forigi ĵusan historion…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Vidi"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "Ilaraj strioj"> 
-<!ENTITY viewToolbarsMenu.accesskey     "I"> 
+<!ENTITY viewMenu.label         "Vidi">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "Ilaraj strioj">
+<!ENTITY viewToolbarsMenu.accesskey     "I">
 <!ENTITY viewSidebarMenu.label "Flanka strio">
 <!ENTITY viewSidebarMenu.accesskey "F">
-<!ENTITY viewCustomizeToolbar.label       "Persone agordi…"> 
+<!ENTITY viewCustomizeToolbar.label       "Persone agordi…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personecigi ilaron…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vidi fonton de selekto">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vidi fonton de MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vidi fonton de paĝo">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopii adreson de bildo">
 <!ENTITY copyImageCmd.accesskey       "a">
 <!ENTITY copyImageContentsCmd.label   "Kopii bildon">
-<!ENTITY copyImageContentsCmd.accesskey  "b"> 
+<!ENTITY copyImageContentsCmd.accesskey  "b">
 <!ENTITY copyVideoURLCmd.label        "Kopii adreson de filmeto">
 <!ENTITY copyVideoURLCmd.accesskey    "a">
 <!ENTITY copyAudioURLCmd.label        "Kopii adreson de sono">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Fini &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Fini"> 
+<!ENTITY quitApplicationCmd.label       "Fini">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Fini &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Fermi">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Fermi">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Speguli">
 
-<!ENTITY social.addons.label "Administri servojn…">
-
-<!ENTITY social.directory.label "Dosierujo de aktivigoj">
-<!ENTITY social.directory.text "Vi povas aktivigi dividajn servojn el la dosierujo.">
-<!ENTITY social.directory.button "Porti min tien!">
-<!ENTITY social.directory.introText "Klaku servon por aldoni ĝin al &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Vidi pli da servoj">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Aldonaj iloj kaj trajtoj">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ĉu vi volas pli da iloj?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
@@ -991,5 +972,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
 
-<!ENTITY sendToDevice.label2 "Sendi al aparato">
+<!ENTITY sendToDevice.label3 "Sendi paĝon al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
