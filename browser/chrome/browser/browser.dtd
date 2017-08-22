@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "把需要的东西拖进工具栏或折叠菜单。">
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多的工具？">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "来挑选成千上万的附加组件吧">
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
