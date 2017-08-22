@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Mae gwefannau twyllodrus yn cael eu cynllunio i'ch twyllo i wneud rhywbeth peryglus, fel gosod meddalwedd, neu ddatgelu eich manylion personol, megis cyfrineiriau, rhifau ffôn neu gardiau credyd.</p><p>Gall gynnig unrhyw wybodaeth ar y dudalen we hon arwain at ddwyn eich manylion personol neu ryw dwyllo arall.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Gall fod y wefan yn cynnwys drwgwar">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Mae Firefox wedi rhwystro'r dudalen gan y gall geisio gosod apiau peryglus sy'n dwyn neu ddileu eich deunydd (e.e., lluniau, cyfrineiriau, negeseuon a chardiau credyd).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Mae &brandShortName; wedi rhwystro'r dudalen gan y gall geisio gosod apiau peryglus sy'n dwyn neu ddileu eich manylion (e.e., lluniau, cyfrineiriau, negeseuon a chardiau credyd).">
