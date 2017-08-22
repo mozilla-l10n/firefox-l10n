@@ -14,20 +14,22 @@
 <!ENTITY  popupExceptions.label                                 "Uitzonderingen…">
 <!ENTITY  popupExceptions.accesskey                             "U">
 
-<!ENTITY  permissionSettingsButton2.label                       "Instellingen…">
-
 <!ENTITY  notificationPermissions.label                         "Notificaties">
-<!ENTITY  notificationSettingsButton.accesskey                  "N">
+<!ENTITY  notificationSettingsButton.label                      "Instellingen…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Meer info">
 
 <!ENTITY  locationPermissions.label                             "Locatie">
-<!ENTITY  locationSettingsButton.accesskey                      "L">
+<!ENTITY  locationSettingsButton.label                          "Instellingen…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "Camera">
-<!ENTITY  cameraSettingsButton.accesskey                        "C">
+<!ENTITY  cameraSettingsButton.label                            "Instellingen…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "Microfoon">
-<!ENTITY  microphoneSettingsButton.accesskey                    "M">
+<!ENTITY  microphoneSettingsButton.label                        "Instellingen…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Lettertypen &amp; kleuren">
 
