@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "把 Web 隨身帶著走">
 <!ENTITY signedOut.description        "在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。">
 <!ENTITY signedOut.accountBox.title   "連線到 &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "建立帳號">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "登入">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "沒有帳號嗎？開始使用">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "登入…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "同步設定">
 <!ENTITY signedIn.settings.description "選擇要同步哪些資料到您其他使用 &brandShortName; 的裝置上。">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "將本頁加入書籤">
 <!ENTITY editThisBookmarkCmd.label "編輯此書籤">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "尋找更多分享服務…">
-<!ENTITY sharePageCmd.label "分享此頁面">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "分享此鏈結">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "分享此圖片">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "分享選擇項目">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "分享此影片">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "訂閱此頁面">
 <!ENTITY subscribeToPageMenupopup.label "訂閱此頁面">
 <!ENTITY subscribeToPageMenuitem.label "訂閱此頁面…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "書籤">
-<!ENTITY bookmarksMenuButton.other.label "其他書籤">
-<!ENTITY bookmarksMenuButton.mobile.label "行動書籤">
+<!ENTITY bookmarksMenuButton.other.label    "其他書籤">
+<!ENTITY bookmarksMenuButton.mobile.label   "行動書籤">
 <!ENTITY viewBookmarksSidebar2.label        "檢視書籤欄">
+<!ENTITY hideBookmarksSidebar.label         "隱藏書籤側邊欄">
 <!ENTITY viewBookmarksToolbar.label         "檢視書籤工具列">
+<!ENTITY hideBookmarksToolbar.label         "隱藏書籤工具列">
 <!ENTITY searchBookmarks.label              "搜尋書籤">
+<!ENTITY bookmarkingTools.label             "書籤工具">
+<!ENTITY addBookmarksMenu.label             "在工具列中加入書籤選單">
+<!ENTITY removeBookmarksMenu.label          "從工具列移除書籤選單">
 
 <!ENTITY containersMenu.label "容器">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "工具">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "設為用關鍵字搜尋…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "檢測元素">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "檔案"> 
+<!ENTITY fileMenu.label         "檔案">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "新增容器分頁">
 <!ENTITY newUserContext.accesskey         "B">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "開新視窗（非 e10s）">
 
-<!ENTITY editMenu.label         "編輯"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "復原">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "取消「復原」">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "剪下">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "複製">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "貼上">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "刪除">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "全選">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "編輯">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "復原">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "取消「復原」">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "剪下">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "複製">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "貼上">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "刪除">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "全選">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "選項">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "偏好設定">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "清除最近的歷史記錄…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "檢視"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "工具列"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "檢視">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "工具列">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "側邊欄">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "自訂…"> 
+<!ENTITY viewCustomizeToolbar.label       "自訂…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "自訂工具列…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "檢視選取範圍原始碼">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "檢視 MathML 原始碼">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "檢視原始碼">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "複製圖片網址">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "複製圖片">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "複製視訊檔案網址">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "複製音訊檔案網址">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "結束 &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "離開"> 
+<!ENTITY quitApplicationCmd.label       "離開">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "離開 &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "關閉">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "關閉">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
 
-<!ENTITY social.addons.label "管理服務…">
-
-<!ENTITY social.directory.label "可啟用項目">
-<!ENTITY social.directory.text "您可於目錄中啟用分享服務。">
-<!ENTITY social.directory.button "帶我到那邊去！">
-<!ENTITY social.directory.introText "點擊任一個服務以將其新增到 &brandShortName;。">
-<!ENTITY social.directory.viewmore.text "檢視更多">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "其他工具與功能">
+<!ENTITY customizeMode.menuAndToolbars.header3 "將您最愛的項目拖曳到工具列，或蓋過選單。">
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多工具？">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "自數以千計的附加元件中挑選">
 <!ENTITY customizeMode.restoreDefaults "回復為預設值">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "新增至網址列">
 <!ENTITY pageAction.removeFromUrlbar.label "從網址列移除">
 
-<!ENTITY sendToDevice.label2 "傳送到裝置">
+<!ENTITY sendToDevice.label3 "將頁面傳送至裝置">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">

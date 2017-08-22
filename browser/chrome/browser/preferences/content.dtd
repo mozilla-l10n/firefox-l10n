@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "例外網站…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-<!ENTITY  permissionSettingsButton2.label                       "選項…">
-
 <!ENTITY  notificationPermissions.label                         "通知">
+<!ENTITY  notificationSettingsButton.label                      "設定…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
 <!ENTITY  notificationPermissionsLearnMore.label                "了解更多">
 
 <!ENTITY  locationPermissions.label                             "位置">
+<!ENTITY  locationSettingsButton.label                          "設定…">
 <!ENTITY  locationSettingsButton.accesskey                      "l">
 
 <!ENTITY  cameraPermissions.label                               "攝影機">
+<!ENTITY  cameraSettingsButton.label                            "設定…">
 <!ENTITY  cameraSettingsButton.accesskey                        "c">
 
 <!ENTITY  microphonePermissions.label                           "麥克風">
+<!ENTITY  microphoneSettingsButton.label                        "設定…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "字型與色彩">
