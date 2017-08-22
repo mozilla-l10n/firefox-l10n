@@ -20,6 +20,8 @@ Arkĥivo de datumoj de «ping»
 Kruda JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Malfermi per la vidigilo de JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Montri datumojn de subseancoj
 ">
@@ -78,10 +80,6 @@ Antaŭe
   Paneoj de retumilo
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Paneoj de fadenoj
-">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Kaptitaj stakoj
 ">
@@ -117,6 +115,7 @@ Antaŭe
 <!ENTITY aboutTelemetry.lateWritesSection "
   Malfruaj skriboj
 ">
+
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informo pri seanco
