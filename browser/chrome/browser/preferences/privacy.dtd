@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Proteccion contra lo pistatge">
+<!ENTITY  trackingProtection2.description      "Lo pistatge es la collècta de vòstras donadas de navigacion pels sites web. Lo pistatge pòt s'utilizar per bastir un perfil e afichar de contengut segon vòstras navigacions e donadas personalas.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Utilizar la proteccion contra lo pistatge per blocar los traçadors coneguts">
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Soque las fenèstras privadas">
@@ -13,7 +16,11 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM5.label         "Utilizar la proteccion contra lo pistatge dins las fenèstras privadas">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Utilizar la proteccion contra lo pistatge dins la navigacion privada per blocar los traçadors coneguts">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
 <!ENTITY changeBlockList2.label               "Cambiar la lista de blocatge…">
 <!ENTITY changeBlockList2.accesskey           "C">
@@ -97,5 +104,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
+<!ENTITY  browserContainersEnabled.label        "Activar los onglets de contenidor">
+<!ENTITY  browserContainersEnabled.accesskey    "a">
 <!ENTITY  browserContainersSettings.label        "Paramètres…">
 <!ENTITY  browserContainersSettings.accesskey    "t">
