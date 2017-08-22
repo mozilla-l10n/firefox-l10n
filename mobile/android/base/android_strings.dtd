@@ -6,8 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Terima kasih kerana memilih &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Pelayar moden oleh Mozilla, sebuah organisasi bukan untung yang komited mengekalkan web yang terbuka dan percuma.">
 <!ENTITY firstrun_panel_title_privacy "Privasi">
+<!ENTITY firstrun_privacy_message "Layari seperti tiada sesiapa yang memerhati">
+<!ENTITY firstrun_privacy_subtext "Pelayaran Peribadi dengan Perlindungan Penjejakan yang menyekat penjejak semasa pelayaran dan tidak menyimpan sejarah pelayaran.">
 <!ENTITY firstrun_panel_title_customize "Penyesuaian">
 <!ENTITY firstrun_customize_message "Jadikan &brandShortName; milik anda.">
+<!ENTITY firstrun_customize_subtext "Sesuaikan &brandShortName; dengan add-ons. Sekat iklan, tambahkan ciri atau tema baru yang memenuhi personaliti anda.">
 <!ENTITY firstrun_bookmarks_title "Sejarah">
 <!ENTITY firstrun_bookmarks_message "Kegemaran anda, sentiasa menjadi tumpuan">
 <!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil carian daripada tandabuku dan sejarah apabila anda buat carian.">
@@ -16,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Nyahaktifkan imej dalam setiap laman yang anda lawati untuk mengurangkan kadar penggunaan data.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Mulakan semula di mana anda tinggalkan.">
+<!ENTITY firstrun_sync_subtext2 "Gunakan Sync untuk mencari tandabuku, kata laluan dan perkara lain yang anda simpan ke &brandShortName; dalam peranti anda yang lain.">
 <!ENTITY firstrun_signin_message "Mari berhubung, mari mulakan">
 <!ENTITY firstrun_signin_button "Daftar masuk Sync">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">

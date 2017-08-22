@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Laman web di <span id='unwanted_sitename'/> telah dilaporkan mengandungi perisian yang tidak diingini dan telah disekat berdasarkan tetapan sekuriti anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Halaman perisian yang tidak diingini cuba memasang perisian yang mengelirukan dan boleh mengganggu sistem anda.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Laman berikut mungkin ada perisian hasad">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; menyekat halaman ini kerana cuba memasang aplikasi berbahaya yang mencuri atau menghapuskan maklumat anda (contohnya, foto, kata laluan, mesej dan kad kredit).">
