@@ -5,6 +5,7 @@
 <!ENTITY  fontsDialog.title                       "Pengaturan Huruf Lanjutan">
 
 <!ENTITY  fonts.label                             "Fon untuk">
+<!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "Ukuran">
 <!ENTITY  sizeProportional.accesskey              "u">
@@ -13,7 +14,9 @@
 <!ENTITY  proportional2.label                     "Proporsional">
 
 <!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
 <!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
