@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "no te hace anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " en Internet. Tu empleador o tu proveedor de Internet aun pueden saber las páginas visitadas.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Conocer más sobre ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navegación privda">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navegación privada">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protección de rastreo">
