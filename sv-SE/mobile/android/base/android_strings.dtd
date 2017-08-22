@@ -7,7 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "En modern webbläsare från Mozilla, en ideell organisation engagerad i en fri och öppen webb.">
 <!ENTITY firstrun_panel_title_privacy "Sekretess">
 <!ENTITY firstrun_privacy_message "Surfa utan att känna dig övervakad">
+<!ENTITY firstrun_privacy_subtext "Privat surfning med spårningsskydd som blockerar trackers medan du surfar och raderar all historik när du slutar surfa.">
 <!ENTITY firstrun_panel_title_customize "Anpassa">
+<!ENTITY firstrun_customize_message "Gör &brandShortName; till din egen.">
+<!ENTITY firstrun_customize_subtext "Anpassa &brandShortName; med tillägg. Blockera annonser, lägg till funktioner eller välj ett nytt tema som speglar din personlighet.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Dina favoriter, där dom är mest viktiga">
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
@@ -15,6 +18,8 @@
 <!ENTITY firstrun_data_message "Mindre data, mer sparat">
 <!ENTITY firstrun_data_subtext2 "Stäng av bilderna för att spendera mindre data på varje webbplats du besöker.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Fortsätt där du slutade.">
+<!ENTITY firstrun_sync_subtext2 "Använd Sync för att hitta bokmärken, lösenord och andra saker som du sparar till &brandShortName; på alla dina enheter.">
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
