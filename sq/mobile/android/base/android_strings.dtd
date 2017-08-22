@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
-
-<!ENTITY firstrun_urlbar_message "Mirë se vini te &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Gjeni gjëra më shpejt, me këshilla të dobishme kërkimi.">
+<!ENTITY firstrun_urlbar_message2 "Faleminderit që zgjidhni &brandShortName;-in">
+<!ENTITY firstrun_panel_title_privacy "Privatësi">
+<!ENTITY firstrun_privacy_message "Shfletoni si të mos ju shihte kush">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Të parapëlqyerit tuaj, në ballë">
 <!ENTITY firstrun_bookmarks_subtext "Merrni përfundime kërkimi nga faqerojtësit dhe historiku juaj, kur kërkoni.">
@@ -13,8 +13,6 @@
 <!ENTITY firstrun_data_message "Më pak të dhëna, më shumë kursim">
 <!ENTITY firstrun_data_subtext2 "Bllokojini figurat, që të harxhoni më pak të dhëna, në çdo sajt që vizitoni.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, përherë krah">
-<!ENTITY firstrun_sync_subtext "Njëkohësoni skedat tuaja, fjalëkalimet, etj, kudo që i përdorni.">
 <!ENTITY firstrun_signin_message "Lidhuni, fillojani">
 <!ENTITY firstrun_signin_button "Bëni hyrjen, që të Njëkohësohet">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
@@ -295,9 +293,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL-ja u kopjua">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Rrjedhë Veprimtarie">
-<!ENTITY pref_activity_stream_summary "Një prurje e pasur pamore historiku dhe një faqe hyrëse e ripërfytyruar e bëjnë më të lehtë se kurrë të gjeni në &brandShortName; pikërisht ç’po kërkonit.">
 
 <!ENTITY tracking_protection_prompt_title "Tani me Mbrojtje Nga Gjurmimet">
 <!ENTITY tracking_protection_prompt_text "Bllokoni aktivisht elemente gjurmimi, që të mos keni pse të shqetësoheni.">
@@ -357,12 +352,8 @@
 <!ENTITY pref_clear_private_data_now_tablet "Pastroji tani">
 <!ENTITY pref_clear_on_exit_title3 "Pastro të dhëna private gjatë daljes">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-i do të pastrojë vetvetiu të dhënat tuaja kurdo që zgjidhni
-\u0022Dilni\u0022 prej menusë kryesore">
+\&quot;Dilni\&quot; prej menusë kryesore">
 <!ENTITY pref_clear_on_exit_dialog_title "Përzgjidhni cilat të dhëna të pastrohen">
-<!ENTITY pref_plugins "Shtojca">
-<!ENTITY pref_plugins_enabled "Të aktivizuara">
-<!ENTITY pref_plugins_tap_to_play2 "Prekeni që të luhet">
-<!ENTITY pref_plugins_disabled "E çaktivizuar">
 <!ENTITY pref_restore_tabs "Rikthe skeda">
 <!ENTITY pref_restore_always "Riktheji përherë">
 <!ENTITY pref_restore_quit "Mos i rikthe pas daljes nga &brandShortName;-u">
@@ -623,6 +614,9 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Shfshihi pajisjet e përzgjedhura">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+
 <!ENTITY remote_tabs_panel_moved_title "Ku shkuan skedat e mia?">
 <!ENTITY remote_tabs_panel_moved_desc "Skedat tuaja prej pajisjesh të tjera i kemi kaluar te një panel në faqen tuaj hyrëse, nga ku mund të përdoren kollaj sa herë hapni një skedë të re.">
 <!ENTITY remote_tabs_panel_moved_link "Shpjemëni te paneli im i ri.">
@@ -843,3 +837,4 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Mirë se vini te Highlights tuajat">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName;-u tani krijon highlight-e të gjërave që zbuloni në web, që të mund të gjeni rrugën për t’u rikthyer te artikuj, video, faqerojtës dhe faqe të tjera të shkëlqyera.">
+
