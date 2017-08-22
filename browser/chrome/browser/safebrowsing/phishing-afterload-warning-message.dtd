@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Klamavé stránky jsou takové, které se vás snaží přimět k něčemu nebezpečnému, jako je instalace softwaru nebo prozrazení osobních informací, např. hesel, telefonního čísla nebo čísla kreditní karty.</p><p>Zadání jakýchkoliv informací na této stránce může vést ke krádeži vaší identity nebo jejímu zneužití.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Tato stránka může obsahovat malware">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox zablokoval tuto stránku, protože se může pokoušet nainstalovat nebezpečné programy, které poškozují nebo kradou vaše data (např. fotografie, hesla, zprávy nebo číslo kreditní karty).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Aplikace &brandShortName; tuto stránku zablokovala, protože by se mohla pokusit instalovat nebezpečný software a ukrást nebo smazat vaše data (např. fotografie, hesla, zprávy nebo číslo kreditní karty).">

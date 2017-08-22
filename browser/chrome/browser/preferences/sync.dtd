@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Vezměte si web s sebou">
 <!ENTITY signedOut.description        "Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.">
 <!ENTITY signedOut.accountBox.title   "Propojit s účtem Firefoxu">
-<!ENTITY signedOut.accountBox.create  "Vytvořit účet">
-<!ENTITY signedOut.accountBox.create.accesskey  "y">
-<!ENTITY signedOut.accountBox.signin  "Přihlásit se">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
+<!ENTITY signedOut.accountBox.create2 "Nemáte účet? Začněte tady">
+<!ENTITY signedOut.accountBox.create2.accesskey "t">
+<!ENTITY signedOut.accountBox.signin2 "Přihlásit se…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "i">
 
 <!ENTITY signedIn.settings.label       "Nastavení synchronizace">
 <!ENTITY signedIn.settings.description "Vyberte, co má &brandShortName; na vašich zařízeních synchronizovat.">
