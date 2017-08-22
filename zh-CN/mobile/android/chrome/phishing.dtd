@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页提供流氓软件。现已依照您的安全首选项予以拦截。">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "提供流氓软件的网页可能会诱导您安装具有欺骗性的软件，并以流氓的方式损害您的系统。">
 
+<!ENTITY safeb.blocked.harmfulPage.title "此网站可能包含恶意软件">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; 已拦截此网页，它可能会尝试安装窃取或破坏您的数据（例如照片、邮件等一切信息）的危险软件。">
