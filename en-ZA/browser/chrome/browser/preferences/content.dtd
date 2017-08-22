@@ -12,8 +12,11 @@
 <!ENTITY  popupExceptions.label                                 "Exceptions…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-
 <!ENTITY  notificationPermissions.label                         "Notifications">
+
+
+
+
 
 
 
