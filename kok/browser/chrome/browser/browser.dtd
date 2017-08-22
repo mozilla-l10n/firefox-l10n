@@ -159,22 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "ह्या पानाक बूकमार्क करचें">
 <!ENTITY editThisBookmarkCmd.label "हो बूकमार्क संपादीत करचो">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "अदिक वाटून घेवपाच्यो सेवा सोदात...">
-<!ENTITY sharePageCmd.label "वाटात This पान">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ही जोड वाटून घेयात">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "ही प्रतिमा वाटून घेयात">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "निवड वाटून घेयात">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "हो व्हिडीयो वाटून घेयात">
-<!ENTITY shareVideo.accesskey "r">
 
 
 <!ENTITY subscribeToPageMenuitem.label "ह्या पानांक वर्गणीदार करात...">
@@ -238,7 +222,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "बूकमार्क्स कुशीचीपट्टी पळयात ">
+
 <!ENTITY viewBookmarksToolbar.label         "बूकर्मार्क्स साधनपट्टी दृश्य करची">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -789,15 +778,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
-<!ENTITY social.addons.label "सेवांचे व्यवस्थापन करात...">
-
-<!ENTITY social.directory.label "सक्रिय करपाची निदेशिका">
-<!ENTITY social.directory.text "तुमी निदेशिकेतल्यान वाटून घेवपाच्यो सेवा सक्रिय करपाक शकता.">
-<!ENTITY social.directory.button "माका थंय व्हरात!">
-<!ENTITY social.directory.introText "&brandShortName; न सेवा जोडपाक ताजेर क्लीक करात.">
-<!ENTITY social.directory.viewmore.text "अदिक पळयात">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "अदिक साधनां आणि वैशिष्ट्या">
 <!ENTITY customizeMode.menuAndToolbars.empty "अदिक साधनां जाय?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजार अॅड-ऑन्सातल्यान निवडात">
 <!ENTITY customizeMode.restoreDefaults "मूळावे परत दवरात">
