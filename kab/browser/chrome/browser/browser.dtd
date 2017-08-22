@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
 <!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebter-a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Wali ugar n tanfiwin yebḍan…">
-<!ENTITY sharePageCmd.label "Bḍu asebter-a">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "B">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Bḍu aseɣwen-a">
-<!ENTITY shareLink.accesskey "u">
-<!ENTITY shareImage.label "Bḍu tugna-a">
-<!ENTITY shareImage.accesskey "n">
-<!ENTITY shareSelect.label "Bḍu afran-a">
-<!ENTITY shareSelect.accesskey "u">
-<!ENTITY shareVideo.label "Bḍu tavidyut-a">
-<!ENTITY shareVideo.accesskey "s">
+
 <!ENTITY feedsMenu2.label "Multeɣ ɣer usebter-a">
 <!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter-a">
 <!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebter-a…">
@@ -244,11 +229,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Ticraḍ n isebtar">
-<!ENTITY bookmarksMenuButton.other.label "Ticrad nniḍen">
-<!ENTITY bookmarksMenuButton.mobile.label "Ticraḍ n isebtar n uziraz">
+<!ENTITY bookmarksMenuButton.other.label    "Ticrad nniḍen">
+<!ENTITY bookmarksMenuButton.mobile.label   "Ticraḍ n isebtar n uziraz">
 <!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n isebtar">
+<!ENTITY hideBookmarksSidebar.label         "Ffer tecraḍ n isebtar">
 <!ENTITY viewBookmarksToolbar.label         "Sken afeggag n tecraḍ">
+<!ENTITY hideBookmarksToolbar.label         "Ffer afeggag n tecraḍ">
 <!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
+<!ENTITY bookmarkingTools.label             "Ifecka n tecraḍ">
 
 <!ENTITY containersMenu.label "Imagbaren">
 
@@ -262,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ifecka">
-<!ENTITY toolsMenu.accesskey          "I"> 
+<!ENTITY toolsMenu.accesskey          "I">
 
 <!ENTITY keywordfield.label           "Rnu awal asaru i unadi-a…">
 <!ENTITY keywordfield.accesskey       "w">
@@ -281,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "S">
 
-<!ENTITY fileMenu.label         "Afaylu"> 
+<!ENTITY fileMenu.label         "Afaylu">
 <!ENTITY fileMenu.accesskey       "f">
 <!ENTITY newUserContext.label             "Rnu iccer amagbar">
 <!ENTITY newUserContext.accesskey         "m">
@@ -292,45 +280,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "y">
 <!ENTITY newNonRemoteWindow.label   "Asfaylu Non-e10s Amaynut">
 
-<!ENTITY editMenu.label         "Taẓrigt"> 
-<!ENTITY editMenu.accesskey       "ẓ"> 
-<!ENTITY undoCmd.label            "Sefsex">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "S"> 
-<!ENTITY redoCmd.label            "Err-d">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "E"> 
-<!ENTITY cutCmd.label           "Gzem">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "G"> 
-<!ENTITY copyCmd.label            "Nɣel">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "N"> 
-<!ENTITY pasteCmd.label           "Senteḍ">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "n"> 
-<!ENTITY deleteCmd.label          "Kkes">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "K"> 
-<!ENTITY selectAllCmd.label         "Fren Akk">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "F"> 
+<!ENTITY editMenu.label         "Taẓrigt">
+<!ENTITY editMenu.accesskey       "ẓ">
+<!ENTITY undoCmd.label            "Sefsex">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "S">
+<!ENTITY redoCmd.label            "Err-d">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "E">
+<!ENTITY cutCmd.label           "Gzem">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "G">
+<!ENTITY copyCmd.label            "Nɣel">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "N">
+<!ENTITY pasteCmd.label           "Senteḍ">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "n">
+<!ENTITY deleteCmd.label          "Kkes">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "K">
+<!ENTITY selectAllCmd.label         "Fren Akk">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "F">
 <!ENTITY preferencesCmd2.label       "Iɣewwaṛen">
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
-<!ENTITY preferencesCmdUnix.accesskey     "s"> 
+<!ENTITY preferencesCmdUnix.accesskey     "s">
 
 <!ENTITY clearRecentHistory.label               "Sfeḍ amazray-inek n melmi kan…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Timeẓriwt"> 
-<!ENTITY viewMenu.accesskey       "i"> 
-<!ENTITY viewToolbarsMenu.label       "Afeggag n ifecka"> 
-<!ENTITY viewToolbarsMenu.accesskey     "A"> 
+<!ENTITY viewMenu.label         "Timeẓriwt">
+<!ENTITY viewMenu.accesskey       "i">
+<!ENTITY viewToolbarsMenu.label       "Afeggag n ifecka">
+<!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Agalis adisan">
 <!ENTITY viewSidebarMenu.accesskey "g">
-<!ENTITY viewCustomizeToolbar.label       "Sagen…"> 
+<!ENTITY viewCustomizeToolbar.label       "Sagen…">
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 <!ENTITY overflowCustomizeToolbar.label       "Mudd udem i ufeggag n ifecka…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
@@ -531,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "S">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taɣbalut n tefrant">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aɣbalu MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Tangalt taɣbalut n usebter">
@@ -598,7 +586,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Nɣel tansa n tugna">
 <!ENTITY copyImageCmd.accesskey       "N">
 <!ENTITY copyImageContentsCmd.label   "Nɣel tugna">
-<!ENTITY copyImageContentsCmd.accesskey  "n"> 
+<!ENTITY copyImageContentsCmd.accesskey  "n">
 <!ENTITY copyVideoURLCmd.label        "Nɣel tansa n temwalit">
 <!ENTITY copyVideoURLCmd.accesskey    "N">
 <!ENTITY copyAudioURLCmd.label        "Nɣel tansa n tmesliwt">
@@ -694,13 +682,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Anef &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ffeɣ"> 
+<!ENTITY quitApplicationCmd.label       "Ffeɣ">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Anef &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "F">
 
-<!ENTITY closeCmd.label                 "Mdel">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Mdel">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
-<!ENTITY social.addons.label "Sefrek tanfiwin…">
-
-<!ENTITY social.directory.label "Akaram n urremed">
-<!ENTITY social.directory.text "Tzemreḍ ad tremdeḍ tanfiwin n beṭṭu seg ukaram.">
-<!ENTITY social.directory.button "Ldi akaram">
-<!ENTITY social.directory.introText "Sit ɣef tenfa akken ad tt-ternuḍ ɣer &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Skan ugar">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ifecka d tmahilin isemmadanen">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
@@ -991,5 +970,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
 
-<!ENTITY sendToDevice.label2 "Azen ɣer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
