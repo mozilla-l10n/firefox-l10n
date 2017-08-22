@@ -202,8 +202,13 @@
 <!ENTITY bookmarksMenuButton.other.label "Pozostałe zakładki">
 <!ENTITY bookmarksMenuButton.mobile.label "Zakładki z urządzeń przenośnych">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
+<!ENTITY hideBookmarksSidebar.label "Ukryj panel zakładek">
 <!ENTITY viewBookmarksToolbar.label         "Wyświetl pasek zakładek">
+<!ENTITY hideBookmarksToolbar.label "Ukryj pasek zakładek">
 <!ENTITY searchBookmarks.label "Szukaj w zakładkach">
+<!ENTITY bookmarkingTools.label "Narzędzia zakładek">
+<!ENTITY addBookmarksMenu.label "Dodaj menu Zakładki do paska narzędzi">
+<!ENTITY removeBookmarksMenu.label "Usuń menu Zakładki z paska narzędzi">
 
 <!ENTITY containersMenu.label "Konteksty">
 
