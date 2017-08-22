@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "A">
 
 <!ENTITY loaddevice.info                        "Jepni të dhëna rreth modulit që doni të shtoni.">
-<!ENTITY loaddevice.modname                     "Emër Moduli:">
-<!ENTITY loaddevice.modname.accesskey           "E">
+<!ENTITY loaddevice.modname2                    "Emër Moduli">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Modul i Ri PKCS#11 ">
-<!ENTITY loaddevice.filename                    "Emër kartele moduli:">
-<!ENTITY loaddevice.filename.accesskey          "k">
+<!ENTITY loaddevice.filename2                   "Emër kartele moduli">
+<!ENTITY loaddevice.filename2.accesskey         "k">
 <!ENTITY loaddevice.browse                      "Shfletoni…">
 <!ENTITY loaddevice.browse.accesskey            "S">
 
