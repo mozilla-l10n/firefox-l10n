@@ -7,6 +7,8 @@
 <!ENTITY firstrun_panel_title_privacy "Vie privée">
 <!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait.">
 <!ENTITY firstrun_panel_title_customize "Personnalisation">
+<!ENTITY firstrun_customize_message "Personnalisez &brandShortName;">
+<!ENTITY firstrun_customize_subtext "Modifiez &brandShortName; grâce aux modules complémentaires. Bloquez les publicités, ajoutez des fonctionnalités ou choisissez un nouveau thème qui reflète votre personnalité.">
 <!ENTITY firstrun_bookmarks_title "Historique">
 <!ENTITY firstrun_bookmarks_message "Vos sites préférés, directement">
 <!ENTITY firstrun_bookmarks_subtext "Obtenez des résultats parmi vos marque-pages et votre historique lorsque vous effectuez des recherches.">
@@ -15,6 +17,7 @@
 <!ENTITY firstrun_data_subtext2 "Désactivez les images afin de consommer moins de données sur les sites que vous visitez.">
 <!ENTITY firstrun_sync_title "Synchronisation">
 <!ENTITY firstrun_sync_message2 "Reprenez là où vous en étiez.">
+<!ENTITY firstrun_sync_subtext2 "Utilisez Sync pour accéder aux marque-pages, mots de passe et autres données que vous conservez dans &brandShortName; sur vos autres appareils.">
 <!ENTITY firstrun_signin_message "Connectez-vous, lancez-vous">
 <!ENTITY firstrun_signin_button "Se connecter à Sync">
 <!ENTITY  onboard_start_button_browser "Commencer la navigation">
