@@ -67,7 +67,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.">
 <!ENTITY signedOut.accountBox.title   "اتصال به یک &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "حساب کاربری ندارید؟ شروع کنید">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
 <!ENTITY signedOut.accountBox.signin2 "ورود…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "تنظیمات همگام‌سازی">
 <!ENTITY signedIn.settings.description "اینکه چه چیزهایی بر روی دستگاه‌هایتان توسط &brandShortName; همگام‌سازی شوند را انتخاب کنید.">
