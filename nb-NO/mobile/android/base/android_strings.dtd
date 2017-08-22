@@ -7,7 +7,7 @@
 <!ENTITY firstrun_panel_title_privacy "Personvern">
 <!ENTITY firstrun_privacy_message "Surf uten å føle deg overvåket">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
-<!ENTITY firstrun_customize_message "Gjør &brandShorterName; til din egen.">
+<!ENTITY firstrun_customize_message "Gjør &brandShortName; til din egen.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favoritter, der de er viktigst">
 <!ENTITY firstrun_bookmarks_subtext "Få resultater fra dine bokmerker og historikk når du søker.">
