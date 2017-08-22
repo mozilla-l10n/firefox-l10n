@@ -33,8 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrollo përherë për të parë nëse &brandShortName;-i është shfletuesi parazgjedhje">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Kaloje Parazgjedhje">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "K">
+<!ENTITY setAsMyDefaultBrowser3.label     "Vëre Parazgjedhje…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "V">
 <!ENTITY isDefault.label                  "&brandShortName;-i është shfletuesi juaj parazgjedhje">
 <!ENTITY isNotDefault.label               "&brandShortName;-i s&apos;është shfletuesi juaj parazgjedhje">
 
