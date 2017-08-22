@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Almennt">
 
@@ -23,10 +23,10 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Meðhöndlun gagna">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Gagna skýrsla er óvirk í þessari útgáfu">
 
 <!ENTITY enableHealthReport1.label       "Leyfa &brandShortName; að senda sjálkrafa tæknilegar og notkunar upplýsingar til Mozilla">
@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 <!ENTITY dataCollection.label            "&brandShortName; Gagnasöfnun og notkun">
-
+<!ENTITY dataCollectionDesc.label        "Við reynum alltaf að bjóða upp á valkvæmni og söfnum aðeins þeim upplýsingum sem við þurfum til að endurbæta &brandShortName; fyrir alla. Við spyrjum alltaf um leyfi áður en við söfnum persónulegum upplýsingum.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Meðferð persónuupplýsinga">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Leyfa &brandShortName; að senda hrunskýrslur til Mozilla">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Vefgögn í flýtiminni">
 
 <!ENTITY offlineStorage2.label           "Ótengd vefgögn og notandagögn">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Gögn vefsvæðis">
 <!ENTITY clearSiteData.label             "Hreinsa öll gögn">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Stillingar…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Fræðast meira">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Takmarka skyndiminni við">
 <!ENTITY limitCacheSizeBefore.accesskey  "T">
 <!ENTITY limitCacheSizeAfter.label       "MB af plássi">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "u">
 
 <!ENTITY updateTab.label                 "Uppfærslur">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName; uppfærslur">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Viðhalda &brandShortName; uppfærðum fyrir bestu afköst, stöðugleika og öryggi.">
+<!ENTITY updateApplicationDescription.label
+                                         "Viðhalda &brandShortName; uppfærðum fyrir bestu afköst, stöðugleika og öryggi.">
 <!ENTITY updateApplication.version.pre   "Útgáfa ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Leyfa &brandShortName; að">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "y">
 
 <!ENTITY performance.label               "Afköst">
-<!ENTITY useRecommendedPerformanceSettings2.label "Nota afkastastillingar sem er mælt með">
-<!ENTITY useRecommendedPerformanceSettings2.description "Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "N">
-<!ENTITY performanceSettingsLearnMore.label "Fræðast meira">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Nota afkastastillingar sem er mælt með">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "N">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Fræðast meira">
 <!ENTITY limitContentProcessOption.label "Takmarka þræði fyrir efni">
-<!ENTITY limitContentProcessOption.description "Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.">
+<!ENTITY limitContentProcessOption.description
+                                         "Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.">
 <!ENTITY limitContentProcessOption.accesskey   "þ">
-<!ENTITY limitContentProcessOption.disabledDescription "Aðeins er hægt að breyta fjölda efnisþráða með &brandShortName; sem inniheldur fjölgjörvavinnslu.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Aðeins er hægt að breyta fjölda efnisþráða með &brandShortName; sem inniheldur fjölgjörvavinnslu.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk">
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
