@@ -70,6 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dritare Multiproces">
 
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
 
@@ -138,3 +139,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Regjistër Vendimesh">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Veçori të Çaktivizuara nga Roja i Vithisjeve">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Zgjidhje të përkohshme">
+
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaDeviceName "Emër">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grup">
+<!ENTITY aboutSupport.mediaDeviceVendor "Tregtues">
+<!ENTITY aboutSupport.mediaDeviceState "Gjendje">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanale">
+<!ENTITY aboutSupport.mediaDeviceLatency "Vonesë">

@@ -10,10 +10,16 @@
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
+<!ENTITY engine.logins.label        "Kredenciale Hyrjesh">
+<!ENTITY engine.logins.accesskey    "K">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Shtesat e Mia">
 <!ENTITY engine.addons.accesskey    "t">
+<!ENTITY engine.addresses.label     "Adresa">
+<!ENTITY engine.addresses.accesskey "a">
+<!ENTITY engine.creditcards.label   "Karta krediti">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">

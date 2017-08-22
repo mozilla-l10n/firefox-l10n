@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Sukses!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName;-i është gati.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Riktheni krejt Dritaret dhe Skedat">
-<!ENTITY welcomeback2.label.restoreSome "Riktheni vetëm ato që doni">
+<!ENTITY welcomeback2.restoreAll.label  "Riktheni krejt dritaret &amp; skedat">
+<!ENTITY welcomeback2.restoreSome.label "Riktheni vetëm ato që doni">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -48,3 +48,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "mësoni më tepër rreth asaj çka mund të bëni.">
+

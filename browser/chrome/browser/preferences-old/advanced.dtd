@@ -28,6 +28,10 @@
 
 <!ENTITY dataChoicesTab.label            "Mundësi të Dhënash">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "Ju ndihmon të vlerësoni funksionimin e shfletuesit tuaj dhe të ndani me &vendorShortName;-n të dhëna rreth shëndetit të shfletuesit tuaj">
 <!ENTITY enableHealthReport.label        "Aktivizoji Raportet Mbi Shëndetin e &brandShortName;-it">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -124,5 +128,7 @@
 <!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey   "P">
 
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Mësoni më tepër">
 <!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
 <!ENTITY allowHWAccel.accesskey          "u">
