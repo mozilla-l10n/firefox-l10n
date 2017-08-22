@@ -237,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Ffer afeggag n tecraḍ">
 <!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
 <!ENTITY bookmarkingTools.label             "Ifecka n tecraḍ">
+<!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n isebtar γer ufeggag">
 
 <!ENTITY containersMenu.label "Imagbaren">
 
