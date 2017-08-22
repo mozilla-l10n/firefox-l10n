@@ -4,6 +4,12 @@
 
 <!ENTITY firstrun_panel_title_welcome "Ütz apetik">
 <!ENTITY firstrun_urlbar_message2 "Matyox ruma nacha\&apos; ri &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Jun k\&apos;ak\&apos;a\&apos; oyonib\&apos;äl chi rokik\&apos;amaya\&apos;l Mozilla, ri majun ch\&apos;akoj rojqan chuqa\&apos; rujikib\&apos;an rutzij chi rij jun jamäl chuqa\&apos; jaqäl ajk\&apos;amaya\&apos;l.">
+<!ENTITY firstrun_panel_title_privacy "Ichinanem">
+<!ENTITY firstrun_privacy_message "Yatok pa k\&apos;amaya\&apos;l achi\&apos;el majun yatz\&apos;eto">
+<!ENTITY firstrun_privacy_subtext "Ichinan Okem pa k\&apos;amaya\&apos;l rik\&apos;in Chajinïk chuwäch Ojqanem yeruq\&apos;ät ri ojqanela\&apos; toq atokinäq pa k\&apos;amaya\&apos;l chuqa\&apos; man nunataj ta ri anatab\&apos;al toq yatel pa k\&apos;amaya\&apos;l.">
+<!ENTITY firstrun_panel_title_customize "Tichinäx">
+<!ENTITY firstrun_customize_message "Tab\&apos;ana\&apos; ri &brandShortName; nok awichin.">
 <!ENTITY firstrun_bookmarks_title "Natab\&apos;äl">
 <!ENTITY firstrun_bookmarks_message "Ri taq awajowab\&apos;äl, chuwäch chuqa\&apos; pa ya\&apos;on pa nik\&apos;aj">
 <!ENTITY firstrun_bookmarks_subtext "Tawila\&apos; taq retal ri taq ayaketal chuqa\&apos; kinatab\&apos;al toq yakanon.">
