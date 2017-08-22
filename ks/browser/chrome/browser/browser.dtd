@@ -159,22 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "یتھ صفحس تھٲویو نشان زد">
 <!ENTITY editThisBookmarkCmd.label "یئ نشان زَد كریو ایڈيٹ">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "مزید شییر سْروس لْبیو۔ ۔ ۔">
-<!ENTITY sharePageCmd.label "کْریو شییر یہ پیج &amp;">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "کْریو شییر یہ لینک  &amp;">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "کْریو شییر یہ امیج &amp;">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "کْریو شییر ژأر &amp;">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "کْریو شییر یہ ویڈیو  &amp;">
-<!ENTITY shareVideo.accesskey "r">
 
 
 <!ENTITY subscribeToPageMenuitem.label "یئ صفحئ كریو منظور">
@@ -238,7 +222,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "ویو کْریو بوک مارْک سایِڈ بار">
+
 <!ENTITY viewBookmarksToolbar.label         "نشان زَد ٹول بار ہٲویو">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -787,15 +776,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "سینك">
 
-<!ENTITY social.addons.label "سْروس کْریو منیج ۔ ۔ ۔">
-
-<!ENTITY social.directory.label "ایکٹیویشن ڈاریکٹری">
-<!ENTITY social.directory.text "توہیہ ہیکیو ایکٹیویٹ کْرتھ شییر سْروس ڈاریکٹری پیٹھ۔">
-<!ENTITY social.directory.button "مْے نِیِو توت!">
-<!ENTITY social.directory.introText "سْروس پیٹھ کْریو کْلک یہ جمع کرنْہ باپت &amp;برانڈ شاٹ ناوس؛">
-<!ENTITY social.directory.viewmore.text "مزید کْریو ویو">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "اِضأفی ٹول تْہ فیچر">
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چھاہ ضرورت؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ژأریو ساس بدیو ایڈ۔آنو منز">
 <!ENTITY customizeMode.restoreDefaults "ڈیفالٹس  انیو واپس">
