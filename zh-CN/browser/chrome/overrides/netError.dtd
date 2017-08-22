@@ -43,7 +43,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "打开网络登录页面">
 
-<!ENTITY malformedURI.title "无效的地址">
+<!ENTITY malformedURI.title "网址不正确">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>网址通常长得像 
     <strong>http://www.example.com/</strong></li> 
@@ -77,9 +77,9 @@
 <!ENTITY netTimeout.title "连接超时">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "无法理解该地址">
+<!ENTITY unknownProtocolFound.title "无法理解该网址">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>您可能需要安装其他软件才能打开此地址。</li> 
+<li>您可能需要安装其他软件才能打开此网址。</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "代理服务器拒绝连接">

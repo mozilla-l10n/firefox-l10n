@@ -4,9 +4,9 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "名称:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "地址:">
+<!ENTITY editBookmarkOverlay.location.label                  "网址：">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "收取点地址:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "收取点网址:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "网站地址：">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
