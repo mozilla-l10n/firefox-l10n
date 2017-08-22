@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Ichinan Okem pa k\&apos;amaya\&apos;l rik\&apos;in Chajinïk chuwäch Ojqanem yeruq\&apos;ät ri ojqanela\&apos; toq atokinäq pa k\&apos;amaya\&apos;l chuqa\&apos; man nunataj ta ri anatab\&apos;al toq yatel pa k\&apos;amaya\&apos;l.">
 <!ENTITY firstrun_panel_title_customize "Tichinäx">
 <!ENTITY firstrun_customize_message "Tab\&apos;ana\&apos; ri &brandShortName; nok awichin.">
+<!ENTITY firstrun_customize_subtext "Tawichinaj &brandShortName; rik\&apos;in taq tz\&apos;aqat. Yeq\&apos;at taq rutzijol, ye\&apos;atz\&apos;aqatisaj taq samaj, nacha\&apos; jun k\&apos;ak\&apos;a\&apos; wachinïk richin nak\&apos;üt ri ana\&apos;oj.">
 <!ENTITY firstrun_bookmarks_title "Natab\&apos;äl">
 <!ENTITY firstrun_bookmarks_message "Ri taq awajowab\&apos;äl, chuwäch chuqa\&apos; pa ya\&apos;on pa nik\&apos;aj">
 <!ENTITY firstrun_bookmarks_subtext "Tawila\&apos; taq retal ri taq ayaketal chuqa\&apos; kinatab\&apos;al toq yakanon.">
@@ -17,6 +18,8 @@
 <!ENTITY firstrun_data_message "Jub\&apos;a\&apos; taq tzij, janila echajin">
 <!ENTITY firstrun_data_subtext2 "Keq\&apos;at ri taq wachib\&apos;äl richin man k\&apos;ïy ta taq tzij yesach toq at k\&apos;o chupam jun ruxaq k\&apos;amaya\&apos;l.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Tak\&apos;ama\&apos; el akuchi\&apos; xaya\&apos; wi kan.">
+<!ENTITY firstrun_sync_subtext2 "Tawokisaj Sync richin ye\&apos;awïl ri taq yaketal, ewan taq tzij, chuqa\&apos; ronojel ri nayäk pa &brandShortName; pa ronojel ri taq awokisaxel.">
 <!ENTITY firstrun_signin_message "Katok, tatikirisaj">
 <!ENTITY firstrun_signin_button "Tatikirisaj molojri\&apos;ïl pa Ximojri\&apos;ïl">
 <!ENTITY  onboard_start_button_browser "Tichap okem pa k\&apos;amaya\&apos;l">
