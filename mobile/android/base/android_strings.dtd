@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo(a)">
-
-<!ENTITY firstrun_urlbar_message "Bem-vindo(a) ao &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com os atalhos de sugestão de pesquisa úteis.">
+<!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Um navegador móvel moderno da Mozilla, a sem fins lucrativos comprometida com uma web livre e aberta.">
+<!ENTITY firstrun_panel_title_privacy "Privacidade">
+<!ENTITY firstrun_privacy_message "Navegue como se ninguém estivesse a ver">
+<!ENTITY firstrun_privacy_subtext "A Navegação privada com proteção contra monitorização bloqueia trackers enquanto navega e não irá memorizar o seu histórico quando terminar de navegar.">
+<!ENTITY firstrun_panel_title_customize "Personalizar">
+<!ENTITY firstrun_customize_message "Faça o &brandShortName; seu.">
+<!ENTITY firstrun_customize_subtext "Personalize o &brandShortName; com extras. Bloqueie anúncios, adicione funcionalidades, ou escolha um novo tema para refletir a sua personalidade.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Os seus favoritos, à frente e ao centro">
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados a partir dos seus marcadores e histórico quando pesquisa.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Menos dados, mais poupança">
 <!ENTITY firstrun_data_subtext2 "Desative as imagens para gastar menos dados em cada site que visita.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
-<!ENTITY firstrun_sync_subtext "Sincronize os seus separadores, palavras-passe, e muito mais em qualquer sítio que os usar.">
+<!ENTITY firstrun_sync_message2 "Retome onde ficou.">
+<!ENTITY firstrun_sync_subtext2 "Utilize o Sync para encontrar os marcadores, palavras-passe, e outras coisas que guarda no &brandShortName; em todos os seus dispositivos.">
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
@@ -328,7 +333,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiplas ligações\&quot;, por favorm ative a permissão de \u0027Desenhar sob outras aplicações\u0027 para o &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir múltiplas ligações\&quot;, por favorm ative a permissão de \&apos;Desenhar sob outras aplicações\&apos; para o &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpar agora">
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados privados ao sair">
-<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente os seus dados, sempre que selecionar \u0022Sair\u0022 no menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "O &brandShortName; irá limpar automaticamente os seus dados, sempre que selecionar \&quot;Sair\&quot; no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar os dados a limpar">
 <!ENTITY pref_restore_tabs "Restaurar separadores">
 <!ENTITY pref_restore_always "Restaurar sempre">
