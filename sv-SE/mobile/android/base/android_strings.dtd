@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Välkommen">
-
-<!ENTITY firstrun_urlbar_message "Välkommen till &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Hitta saker snabbare med hjälp av sökförslagsgenvägar.">
+<!ENTITY firstrun_urlbar_message2 "Tack för att du valde &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "En modern webbläsare från Mozilla, en ideell organisation engagerad i en fri och öppen webb.">
+<!ENTITY firstrun_panel_title_privacy "Sekretess">
+<!ENTITY firstrun_privacy_message "Surfa utan att känna dig övervakad">
+<!ENTITY firstrun_panel_title_customize "Anpassa">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Dina favoriter, där dom är mest viktiga">
 <!ENTITY firstrun_bookmarks_subtext "Få resultat från dina bokmärken och historik då du söker.">
@@ -13,8 +15,6 @@
 <!ENTITY firstrun_data_message "Mindre data, mer sparat">
 <!ENTITY firstrun_data_subtext2 "Stäng av bilderna för att spendera mindre data på varje webbplats du besöker.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, alltid vid din sida">
-<!ENTITY firstrun_sync_subtext "Synka dina flikar, lösenord och mer överallt där du använder dom.">
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
@@ -328,7 +328,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "För att \&quot;Öppna flera länkar\&quot;, aktivera \u0027Rita över andra appar\u0027 tillståndet för &brandShortName;">
+<!ENTITY tab_queue_notification_settings "För att \&quot;Öppna flera länkar\&quot;, aktivera \&apos;Rita över andra appar\&apos; tillståndet för &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +355,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Rensa nu">
 <!ENTITY pref_clear_on_exit_title3 "Rensa privat data vid avslut">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \u0022Avsluta\u0022 från huvudmenyn">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; kommer automatiskt rensa din data när du väljer \&quot;Avsluta\&quot; från huvudmenyn">
 <!ENTITY pref_clear_on_exit_dialog_title "Välj vilken data som ska rensas">
 <!ENTITY pref_restore_tabs "Återställ flikar">
 <!ENTITY pref_restore_always "Återställ alltid">

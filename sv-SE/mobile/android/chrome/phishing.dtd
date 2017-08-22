@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webbsidan på <span id='unwanted_sitename'/> har rapporterats göra angrepp på telefoner/datorer och har därför blockerats enligt dina säkerhetsinställningar.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Oönskade programvarusidor kan försöka installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Kommande webbplats kan innehålla skadlig kod">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; blockerade den här sidan eftersom det kan försöka installera farliga appar som stjäl eller raderar din information (till exempel bilder, lösenord, meddelanden och kreditkort).">
