@@ -139,21 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY sharePageCmd.label "Bíe rabeniko féka">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "B">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Bíe íyano féka">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Bíe jána féka">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Bíe nɨzeka féka">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Bíe Joreño fɨnóka  féka">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "Bíe rábenmo kúeri">
 <!ENTITY subscribeToPageMenupopup.label "Bíe rábemo kúeri">
 <!ENTITY subscribeToPageMenuitem.label "Bíe rábenmo kúeri">
@@ -219,7 +205,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY viewBookmarksToolbar.label         "Rɨgɨnoga rádozɨ">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -773,12 +764,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "Ábɨdo jóne  &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Á">
 <!ENTITY syncToolbarButton.label      "Dáamakɨ">
-
-
-
-<!ENTITY social.directory.button "¡Dɨne kúe úi!">
-
-<!ENTITY social.directory.viewmore.text "Áiyo éroi">
 
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Áiyo ránɨaɨ táɨjɨyena óikadɨo?">
 
