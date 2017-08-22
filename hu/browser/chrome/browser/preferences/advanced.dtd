@@ -33,6 +33,8 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "u">
 <!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
+<!ENTITY dataCollection.label            "&brandShortName; adatgyűjtés és felhasználás">
+<!ENTITY dataCollectionDesc.label        "Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk a van a &brandShortName; fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Adatvédelmi nyilatkozat">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Engedélyezés, hogy a &brandShortName; hibajelentéseket küldhessen a Mozillának">
