@@ -158,20 +158,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "नोवा पुथी चिनहा़ सासापड़ाव में.">
 
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY sharePageCmd.label "नोवा साहटा हा़टिञ मे (s) .">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "नोवा साहाट रेचांदा रा़सिया़ तेयाराक् …">
@@ -233,7 +219,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "धारे बार पुथी चिनहा़ को ञेंल">
+
 <!ENTITY viewBookmarksToolbar.label         " पुथी चिनहा़  टुलबार ञेंल में">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -767,14 +758,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 
 
-<!ENTITY social.addons.label "का़मी को बेबोसताय मे…">
-
-
-
-
-
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "सेलेदोगाक् टुल्स आर गुन को .">
 <!ENTITY customizeMode.menuAndToolbars.empty "ढेर टुल को ला़कती  ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हाजार एड-ऑन खओन बाछाव मे  .">
 <!ENTITY customizeMode.restoreDefaults "हुड़ाक् को जोगाव दोहड़ा">
