@@ -159,22 +159,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "बे बिलाइखौ बुकमार्क हो... ">
 <!ENTITY editThisBookmarkCmd.label "बे बुकमार्कखौ सुजु">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "गोबां शेयार सिबिथायखौ नागिरना दिहुन...">
-<!ENTITY sharePageCmd.label "बे बिलाइखौ शेयार खालाम">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "बे लिंकखौ शेयार खालाम">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "बे मुसुखाखौ शेयार खालाम">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "सायखनायखौ शेयार खालाम">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "बे भिडिअ'खौ शेयार खालाम">
-<!ENTITY shareVideo.accesskey "r">
 
 
 <!ENTITY subscribeToPageMenuitem.label "बे बिलाइखौ चाबस्क्राइब खालाम...">
@@ -238,7 +222,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "बुकमार्क साइडबारखौ नाय">
+
 <!ENTITY viewBookmarksToolbar.label         "बुकमार्क टुलबारखौ नाइ">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -785,15 +774,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिनक">
 
-<!ENTITY social.addons.label "सिबिथायखौ मेनेज खालाम...">
-
-<!ENTITY social.directory.label "मावथि डिरेक्टरि">
-<!ENTITY social.directory.text "नोंथाङा शेयार सिबिथायखौ डिरेक्टरि निफ्राय मावथि खालामनो हायो।">
-<!ENTITY social.directory.button "आंखौ बैयाव लां!">
-<!ENTITY social.directory.introText "सिबिथायखौ &brandShortName; जों दाजाबदेरनो बेखौ क्लिक खालाम">
-<!ENTITY social.directory.viewmore.text "गोबां नाय">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "बाद्राय टुल आरो आखुथाय">
 <!ENTITY customizeMode.menuAndToolbars.empty "गोबां टुल लुबैयो?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "गोबां add-ons निफ्राय बासिख">
 <!ENTITY customizeMode.restoreDefaults "डिफल्टखौ मोनफिन">
