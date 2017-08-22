@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bokmärk denna sida">
 <!ENTITY editThisBookmarkCmd.label "Redigera bokmärket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Hitta fler delningstjänster…">
-<!ENTITY sharePageCmd.label "Dela den här sidan">
-<!ENTITY sharePageCmd.commandkey "s">
-<!ENTITY sharePageCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Dela den här länken">
-<!ENTITY shareLink.accesskey "D">
-<!ENTITY shareImage.label "Dela den här bilden">
-<!ENTITY shareImage.accesskey "D">
-<!ENTITY shareSelect.label "Dela den här markeringen">
-<!ENTITY shareSelect.accesskey "D">
-<!ENTITY shareVideo.label "Dela den här videon">
-<!ENTITY shareVideo.accesskey "D">
+
 <!ENTITY feedsMenu2.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenupopup.label "Prenumerera på denna sida">
 <!ENTITY subscribeToPageMenuitem.label "Prenumerera på denna sida…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmärken">
-<!ENTITY bookmarksMenuButton.other.label "Andra bokmärken">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobila bokmärken">
-<!ENTITY viewBookmarksSidebar2.label        "Visa i sidofältet Bokmärken">
-<!ENTITY viewBookmarksToolbar.label         "Visa Bokmärkesfältet">
+<!ENTITY bookmarksMenuButton.other.label    "Andra bokmärken">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobila bokmärken">
+<!ENTITY viewBookmarksSidebar2.label        "Visa sidofältet Bokmärken">
+<!ENTITY hideBookmarksSidebar.label         "Dölj sidofältet Bokmärken">
+<!ENTITY viewBookmarksToolbar.label         "Visa bokmärkesfältet">
+<!ENTITY hideBookmarksToolbar.label         "Dölj bokmärkesfältet">
 <!ENTITY searchBookmarks.label              "Sök i bokmärken">
+<!ENTITY bookmarkingTools.label             "Verktyg för bokmärken">
+<!ENTITY addBookmarksMenu.label             "Lägg till bokmärkesmeny till verktygsfältet">
+<!ENTITY removeBookmarksMenu.label          "Ta bort bokmärkesmeny från verktygsfältet">
 
 <!ENTITY containersMenu.label "Behållare">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Verktyg">
-<!ENTITY toolsMenu.accesskey          "V"> 
+<!ENTITY toolsMenu.accesskey          "V">
 
 <!ENTITY keywordfield.label           "Lägg till ett nyckelord för denna sökning…">
 <!ENTITY keywordfield.accesskey       "e">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspektera element">
 <!ENTITY inspectContextMenu.accesskey "e">
 
-<!ENTITY fileMenu.label         "Arkiv"> 
+<!ENTITY fileMenu.label         "Arkiv">
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Ny innehållsflik">
 <!ENTITY newUserContext.accesskey         "k">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "t">
 <!ENTITY newNonRemoteWindow.label   "Nytt Icke-e10s Fönster">
 
-<!ENTITY editMenu.label         "Redigera"> 
-<!ENTITY editMenu.accesskey       "R"> 
-<!ENTITY undoCmd.label            "Ångra">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Å"> 
-<!ENTITY redoCmd.label            "Gör om">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "G"> 
-<!ENTITY cutCmd.label           "Klipp ut">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "K"> 
-<!ENTITY copyCmd.label            "Kopiera">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "o"> 
-<!ENTITY pasteCmd.label           "Klistra in">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "l"> 
-<!ENTITY deleteCmd.label          "Ta bort">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "T"> 
-<!ENTITY selectAllCmd.label         "Markera allt">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY editMenu.label         "Redigera">
+<!ENTITY editMenu.accesskey       "R">
+<!ENTITY undoCmd.label            "Ångra">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Å">
+<!ENTITY redoCmd.label            "Gör om">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "G">
+<!ENTITY cutCmd.label           "Klipp ut">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "K">
+<!ENTITY copyCmd.label            "Kopiera">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "o">
+<!ENTITY pasteCmd.label           "Klistra in">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "l">
+<!ENTITY deleteCmd.label          "Ta bort">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "T">
+<!ENTITY selectAllCmd.label         "Markera allt">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Inställningar">
 <!ENTITY preferencesCmd2.accesskey     "I">
 <!ENTITY preferencesCmdUnix.label       "Inställningar">
-<!ENTITY preferencesCmdUnix.accesskey     "I"> 
+<!ENTITY preferencesCmdUnix.accesskey     "I">
 
 <!ENTITY clearRecentHistory.label               "Rensa ut tidigare historik…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Visa"> 
-<!ENTITY viewMenu.accesskey       "s"> 
-<!ENTITY viewToolbarsMenu.label       "Verktygsfält"> 
-<!ENTITY viewToolbarsMenu.accesskey     "V"> 
+<!ENTITY viewMenu.label         "Visa">
+<!ENTITY viewMenu.accesskey       "s">
+<!ENTITY viewToolbarsMenu.label       "Verktygsfält">
+<!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Sidofält">
 <!ENTITY viewSidebarMenu.accesskey "o">
-<!ENTITY viewCustomizeToolbar.label       "Anpassa…"> 
+<!ENTITY viewCustomizeToolbar.label       "Anpassa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "A">
 <!ENTITY overflowCustomizeToolbar.label       "Anpassa verktygsfält…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "n">
@@ -412,7 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.removeFromMenu.label "Ta bort från menyn">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "T">
-<!ENTITY customizeMenu.addMoreItems.label "Lägg till fler poster…">
+<!ENTITY customizeMenu.addMoreItems.label "Lägg till fler…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "U">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Visa källkoden för markering">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Visa MathML-källkod">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Visa källkod">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopiera bildadress">
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyImageContentsCmd.label   "Kopiera bild">
-<!ENTITY copyImageContentsCmd.accesskey  "d"> 
+<!ENTITY copyImageContentsCmd.accesskey  "d">
 <!ENTITY copyVideoURLCmd.label        "Kopiera videoadress">
 <!ENTITY copyVideoURLCmd.accesskey    "r">
 <!ENTITY copyAudioURLCmd.label        "Kopiera ljudadress">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Avsluta &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Avsluta"> 
+<!ENTITY quitApplicationCmd.label       "Avsluta">
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label   "Avsluta &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Stäng">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Stäng">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ä">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Å">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Hantera tjänster…">
-
-<!ENTITY social.directory.label "Aktiveringskatalog">
-<!ENTITY social.directory.text "Du kan aktivera Dela tjänster från katalogen.">
-<!ENTITY social.directory.button "Ta mig dit!">
-<!ENTITY social.directory.introText "Klicka på en tjänst för att lägga till den till &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Visa Mer">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Fler verktyg och funktioner">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Dra dina favoritobjekt till verktygsfältet eller Overflow-menyn.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vill du ha fler verktyg?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
 <!ENTITY pageAction.removeFromUrlbar.label "Ta bort från adressfältet">
 
-<!ENTITY sendToDevice.label2 "Skicka till enhet">
+<!ENTITY sendToDevice.label3 "Skicka sida till enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
