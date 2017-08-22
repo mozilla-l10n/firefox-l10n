@@ -146,20 +146,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Хадгалсан хаяганд засвар хийх">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Энэ хуудсанд бүртгүүл…">
@@ -219,7 +205,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
 <!ENTITY searchBookmarks.label              "Хадгалсан хаяганд хайх">
+
+
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -716,12 +707,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-
-
-
-
 
 
 
