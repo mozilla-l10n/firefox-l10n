@@ -53,7 +53,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-a "&brandFullName; 在下述条款下，为该二进制版本 &brandShortName; 用户使用基于网络的信息服务提供某些功能。如果您不想使用其中的一项或者多项服务，或者不接受下述条款，您可以停用相应功能或服务。停用特定功能或服务的说明信息请参见">
+<!ENTITY rights2.webservices-a "&brandFullName; 依照下列条款，为该二进制版本 &brandShortName; 的用户使用基于网络的信息服务（以下简称“服务”）提供某些功能。如果您不想使用其中的一项或者多项服务，或者不接受下述条款，您可以停用相应功能或服务。停用特定功能或服务的说明信息请参见">
 <!ENTITY rights2.webservices-b "这里">
 <!ENTITY rights3.webservices-c "。其他特性和服务可以在本应用程序的首选项中禁用。">
 

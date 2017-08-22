@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "重新载入">
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "转到地址栏中指向的地址">
+<!ENTITY goEndCap.tooltip             "转到地址栏中指向的网址">
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
 
@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "新建窗口打开链接">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "新建隐私浏览窗口打开链接">
+<!ENTITY openLinkInPrivateWindowCmd.label "新建隐私窗口打开链接">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "打开链接">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -813,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "新建窗口打开">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "新建隐私浏览窗口打开">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "新建隐私窗口打开">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "为此标签页添加书签…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">

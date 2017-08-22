@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "新建窗口打开">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "新建隐私浏览窗口打开">
+<!ENTITY cmd.open_private_window.label     "新建隐私窗口打开">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "新建标签页打开">
 <!ENTITY cmd.open_tab.accesskey          "w">
@@ -78,7 +78,7 @@
 
 <!ENTITY col.name.label          "名称">
 <!ENTITY col.tags.label          "标签">
-<!ENTITY col.url.label           "地址">
+<!ENTITY col.url.label           "网址">
 <!ENTITY col.mostrecentvisit.label "最近访问">
 <!ENTITY col.visitcount.label    "访问次数">
 <!ENTITY col.description.label   "描述">

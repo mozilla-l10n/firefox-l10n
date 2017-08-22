@@ -16,7 +16,7 @@
 <!ENTITY  generalTab            "常规">
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalTitle          "标题：">
-<!ENTITY  generalURL            "地址：">
+<!ENTITY  generalURL            "网址：">
 <!ENTITY  generalType           "类型：">
 <!ENTITY  generalMode           "渲染模式：">
 <!ENTITY  generalSize           "大小：">
@@ -29,10 +29,10 @@
 
 <!ENTITY  mediaTab              "媒体">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "地址：">
+<!ENTITY  mediaLocation         "位置：">
 <!ENTITY  mediaText             "候补文本：">
 <!ENTITY  mediaAltHeader        "备用文字">
-<!ENTITY  mediaAddress          "地址">
+<!ENTITY  mediaAddress          "网址">
 <!ENTITY  mediaType             "类型">
 <!ENTITY  mediaSize             "大小">
 <!ENTITY  mediaCount            "数量">
