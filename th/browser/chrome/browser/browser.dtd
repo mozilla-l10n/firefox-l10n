@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.label "เปิดใช้งานการป้องกัน">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.disableMixedContentBlocking.label "ปิดใช้งานการป้องกันในตอนนี้">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "ด">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
 <!ENTITY identity.removeCertException.label "เอาข้อยกเว้นออก">

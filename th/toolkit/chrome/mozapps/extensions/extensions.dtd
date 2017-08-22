@@ -90,7 +90,7 @@
 <!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
 <!ENTITY cmd.enableAddon.accesskey            "ป">
 <!ENTITY cmd.disableAddon.label               "ปิดใช้งาน">
-<!ENTITY cmd.disableAddon.accesskey           "ด">
+<!ENTITY cmd.disableAddon.accesskey           "ป">
 <!ENTITY cmd.enableTheme.label                "ใช้ชุดตกแต่ง">
 <!ENTITY cmd.enableTheme.accesskey            "ช">
 <!ENTITY cmd.disableTheme.label               "เลิกใช้ชุดตกแต่ง">
@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "แสดงบันทึกประจำรุ่นสำหรับการอัปเดตนี้">
 <!ENTITY cmd.hideReleaseNotes.label           "ซ่อนบันทึกประจำรุ่น">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ซ่อนบันทึกประจำรุ่นสำหรับการอัปเดตนี้">
+<!ENTITY cmd.findReplacement.label            "ค้นหาตัวทดแทน">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -240,7 +241,7 @@
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "ส่วนเสริมดังต่อไปนี้ไม่ได้รับการตรวจสอบสำหรับใช้ใน &brandShortName; คุณสามารถ ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "หาตัวแทนที่">
+<!ENTITY disabledUnsigned.description.findAddonsLink "ค้นหาตัวทดแทน">
 <!ENTITY disabledUnsigned.description.end " หรือร้องขอนักพัฒนาให้นำส่วนเสริมไปรับการตรวจสอบ">
 <!ENTITY disabledUnsigned.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้คุณปลอดภัยขณะออนไลน์">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
@@ -253,3 +254,5 @@
 <!ENTITY pluginDeprecation.description "มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนโดย &brandShortName; อีกต่อไป">
 <!ENTITY pluginDeprecation.learnMore "เรียนรู้เพิ่มเติม">
 
+<!ENTITY legacyWarning.showLegacy "แสดงส่วนขยายแบบเก่า">
+<!ENTITY legacyExtensions.title "ส่วนขยายแบบเก่า">
