@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkomen">
-
-<!ENTITY firstrun_urlbar_message "Velkomen til &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Dine ting raskare med hjelpsame søkjeforslag-snarvegar">
+<!ENTITY firstrun_urlbar_message2 "Takk for at du vel &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Personvern">
+<!ENTITY firstrun_panel_title_customize "Tilpass">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favorittar, der dei er viktigast">
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
@@ -13,8 +13,6 @@
 <!ENTITY firstrun_data_message "Mindre data, meir spart">
 <!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruka mindre data på kvar nettstad du besøkjer.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, altid hjå deg">
-<!ENTITY firstrun_sync_subtext "Synkriniser fanenere dine, passord og meir, overalt der du brukar dei.">
 <!ENTITY firstrun_signin_message "Kopla til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisera">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
@@ -328,7 +326,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "For å \&quot;Opna fleire lenker\&quot;, slå på \u0027Skriv over andre appar\u0027-modusen for &brandShortName;">
+<!ENTITY tab_queue_notification_settings "For å \&quot;Opna fleire lenker\&quot;, slå på \&apos;Skriv over andre appar\&apos;-modusen for &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +353,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Tøm no">
 <!ENTITY pref_clear_on_exit_title3 "Tøm private data ved avslutting">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dine data kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dine data kvar gong du vel \&quot;Quit\&quot; frå hovudmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_restore_tabs "Gjenopprett faner">
 <!ENTITY pref_restore_always "Alltid gjenopprett">
