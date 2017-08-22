@@ -157,20 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Vê bijareyê serast bike">
 <!ENTITY bookmarkThisPageCmd.commandkey "D">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY sharePageCmd.label "Vê rûpelê parve bike">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "p">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
@@ -233,7 +219,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "Di darikê dijareyan de nîşan bide">
+
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
+
+
+
+
 
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -778,14 +769,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Xizmetan bi rê ve bibe…">
-
-
-
-
-
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Amûr û taybetiyên pêvekî">
 <!ENTITY customizeMode.menuAndToolbars.empty "Amûrên din dixwazî?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Ji nav bi hezaran ad-onan hilbijêre">
 <!ENTITY customizeMode.restoreDefaults "Vegerîne ya standard">
