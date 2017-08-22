@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Soque las fenèstras privadas">
@@ -13,25 +12,22 @@
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
-<!ENTITY tracking.label                 "Pistatge">
-
-
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
-<!ENTITY changeBlockList.label          "Cambiar la llista de blocatge">
-<!ENTITY changeBlockList.accesskey      "C">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY changeBlockList2.label               "Cambiar la lista de blocatge…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
-<!ENTITY  doNotTrack.pre.label          "Tanben podètz...">
-
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Mandar als sites web lo senhal “Me pistar pas” per lor dire que volètz pas èsser pistat">
+<!ENTITY  doNotTrack.learnMore.label    "Ne saber mai">
+<!ENTITY  doNotTrack.default.label      "Sonque en utilizar la proteccion contra lo pistatge">
+<!ENTITY  doNotTrack.always.label       "Totjorn">
 
 <!ENTITY  history.label                 "Istoric">
+<!ENTITY  permissions.label             "Permissions">
 
-<!ENTITY  locationBar.label             "Barra d'adreça">
-
-<!ENTITY  locbar.history.label          "Istoric">
-<!ENTITY  locbar.history.accesskey      "I">
+<!ENTITY  addressBar.label              "Barra d'adreça">
+<!ENTITY  locbar.history2.label         "Istoric de navigacion">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
@@ -39,18 +35,10 @@
 
 
 
-
-<!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
-<!ENTITY  acceptCookies.accesskey       "c">
-
-<!ENTITY  acceptThirdParty.pre.label      "Acceptar los cookies tèrces :">
-<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Totjorn">
 <!ENTITY  acceptThirdParty.never.label    "Pas jamai">
 <!ENTITY  acceptThirdParty.visited.label  "dempuèi los sites visitats">
 
-<!ENTITY  keepUntil.label               "Los conservar fins a :">
-<!ENTITY  keepUntil.accesskey           "L">
 
 <!ENTITY  expire.label                  "lor expiracion">
 <!ENTITY  close.label                   "la tampadura de &brandShortName;">
@@ -61,17 +49,16 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-
 <!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
 <!ENTITY  historyHeader.dontremember.label "Conservar pas jamai l'istoric">
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navigacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Benlèu que volètz">
 <!ENTITY  rememberActions.clearHistory.label  "voidar tot l'istoric recent">
 <!ENTITY  rememberActions.middle.label        ", o ">
@@ -79,9 +66,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navigacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz">
 <!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -102,7 +89,5 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
-
-
 <!ENTITY  browserContainersSettings.label        "Paramètres…">
 <!ENTITY  browserContainersSettings.accesskey    "t">
