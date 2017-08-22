@@ -66,10 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
-<!ENTITY signedOut.accountBox.create.accesskey  "ส">
-<!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
-<!ENTITY signedOut.accountBox.signin.accesskey  "ล">
+<!ENTITY signedOut.accountBox.signin2 "ลงชื่อเข้า…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "ล">
 
 <!ENTITY signedIn.settings.label       "การตั้งค่า Sync">
 <!ENTITY signedIn.settings.description "เลือกสิ่งที่คุณต้องการจะประสานบนอุปกรณ์ของคุณโดยใช้ &brandShortName;">
