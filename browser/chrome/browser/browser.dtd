@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Seret item kegemaran anda ke dalam menu bar alatan atau menu limpahan.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Inginkan lebih alatan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih daripada beribu add-ons">
 <!ENTITY customizeMode.restoreDefaults "Pulih Piawai">
@@ -972,4 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Tambah ke Bar Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Buang daripada Bar Alamat">
 
+<!ENTITY sendToDevice.label3 "Hantar Halaman ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
