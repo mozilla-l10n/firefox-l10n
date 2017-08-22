@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "A nem kívánatos szoftvereket terjesztő oldalak olyan szoftvereket terjesztenek, amelyek megtévesztőek és váratlan módokon befolyásolhatják rendszerét.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Az oldal rosszindulatú kódot tartalmazhat">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "A &brandShortName; blokkolta ezt az oldalt, mert lehet, hogy megpróbál veszélyes appokat telepíteni, amelyek ellopják vagy törlik az információit (például képek, üzenetek és bankkártyaadatok).">
