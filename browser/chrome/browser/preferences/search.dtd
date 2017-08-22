@@ -11,8 +11,6 @@
 
 
 
-
-
 <!ENTITY engineNameColumn.label                "Motor de recèrca">
 <!ENTITY engineKeywordColumn.label             "Mot clau">
 
@@ -22,3 +20,4 @@
 <!ENTITY removeEngine.label                    "Suprimir">
 <!ENTITY removeEngine.accesskey                "S">
 
+<!ENTITY findMoreSearchEngines.label           "Trapar mai motors de recèrcas">
