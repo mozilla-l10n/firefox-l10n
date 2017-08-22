@@ -157,20 +157,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Sesa Bukmaak Yi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-<!ENTITY sharePageCmd.commandkey "S">
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
@@ -233,8 +219,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksSidebar2.label        "Hwɛ saedbaa a wɔde sie mbukmaak">
+
 <!ENTITY viewBookmarksToolbar.label         "Hwɛ TuulBaa A Wɔde Sie Mbukmaak">
+
 <!ENTITY searchBookmarks.label              "Hwewhɛ Mbukmaak">
+
+
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -777,14 +768,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncToolbarButton.label      "Synk">
 
-<!ENTITY social.addons.label "Hwɛ Asom so…">
-
-
-
-
-
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ntuul ne mfikya a wɔ keka ho">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wo pɛ ntuul bio?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Paw firi nkaho mpem mpem mu">
 <!ENTITY customizeMode.restoreDefaults "Siesie kɔ kane">
