@@ -4,6 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY firstrun_urlbar_message2 "Hvala, ker ste izbrali &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Zasebnost">
+<!ENTITY firstrun_privacy_message "Brskajte, kot da vas nihče ne gleda">
+<!ENTITY firstrun_panel_title_customize "Prilagodi">
 <!ENTITY firstrun_bookmarks_title "Zgodovina">
 <!ENTITY firstrun_bookmarks_message "Vse priljubljeno na dosegu roke">
 <!ENTITY firstrun_bookmarks_subtext "Med iskanjem se vam prikažejo rezultati iz zgodovine iskanja in zaznamkov.">
@@ -11,6 +14,7 @@
 <!ENTITY firstrun_data_message "Manj kot je podatkov, več je prihrankov">
 <!ENTITY firstrun_data_subtext2 "Izključite slike in porabite manj podatkov med obiskovanjem strani.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Nadaljujte, kjer ste končali.">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY  onboard_start_button_browser "Začnite brskati">
