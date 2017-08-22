@@ -238,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
 <!ENTITY bookmarkingTools.label             "Ifecka n tecraḍ">
 <!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n isebtar γer ufeggag">
+<!ENTITY removeBookmarksMenu.label          "Kkes umuγ n tecraḍ n isebtar seg ufeggag">
 
 <!ENTITY containersMenu.label "Imagbaren">
 
@@ -971,4 +972,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
 
+<!ENTITY sendToDevice.label3 "Azen iccer γer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">

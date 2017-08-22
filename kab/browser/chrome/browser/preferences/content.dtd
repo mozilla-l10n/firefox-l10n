@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Tisuraf…">
 <!ENTITY  popupExceptions.accesskey                             "s">
 
-<!ENTITY  permissionSettingsButton2.label                       "Iγewwaṛen…">
-
 <!ENTITY  notificationPermissions.label                         "Ilγa">
+<!ENTITY  notificationSettingsButton.label                      "Iγewwaṛen…">
 <!ENTITY  notificationSettingsButton.accesskey                  "b">
 <!ENTITY  notificationPermissionsLearnMore.label                "Issin ugar">
 
 <!ENTITY  locationPermissions.label                             "Adig">
+<!ENTITY  locationSettingsButton.label                          "Iγewwaṛen…">
 <!ENTITY  locationSettingsButton.accesskey                      "z">
 
 <!ENTITY  cameraPermissions.label                               "Takamiṛat">
+<!ENTITY  cameraSettingsButton.label                            "Iγewwaṛen…">
 <!ENTITY  cameraSettingsButton.accesskey                        "d">
 
 <!ENTITY  microphonePermissions.label                           "Asawaḍ">
+<!ENTITY  microphoneSettingsButton.label                        "Iγewwaṛen…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "x">
 
 <!ENTITY  fontsAndColors.label        "Tisefsiyin d yiniten">

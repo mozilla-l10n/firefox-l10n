@@ -66,10 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Awi web-inek yid-k">
 <!ENTITY signedOut.description        "Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
 <!ENTITY signedOut.accountBox.title   "Qqen ɣer &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Rnu amiḍan">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Kcem">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "Ur tesεiḍ ara amiḍan? Bdu">
+<!ENTITY signedOut.accountBox.signin2 "Kcem…">
 
 <!ENTITY signedIn.settings.label       "Iγewwaṛen n umtawi">
 <!ENTITY signedIn.settings.description "Fren ayen ad temtawiḍ deg ibenk inek s useqdec n &brandShortName;.">
