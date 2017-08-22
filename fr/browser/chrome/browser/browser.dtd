@@ -236,6 +236,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 <!ENTITY hideBookmarksToolbar.label         "Masquer la barre personnelle">
 <!ENTITY searchBookmarks.label              "Rechercher dans les marque-pages">
+<!ENTITY bookmarkingTools.label             "Outils de marque-pages">
+<!ENTITY addBookmarksMenu.label             "Ajouter le menu des marque-pages à la barre personnelle">
+<!ENTITY removeBookmarksMenu.label          "Retirer le menu des marque-pages de la barre personnelle">
 
 <!ENTITY containersMenu.label "Contextes">
 
