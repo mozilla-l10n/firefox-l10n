@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "A(z) <span id='unwanted_sitename'/> címen működő weboldalról bejelentés érkezett, hogy nem kívánatos szoftvereket tartalmaz, ezért a biztonsági beállítások alapján a böngésző a hozzáférést nem engedélyezi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "A nem kívánatos szoftvereket terjesztő oldalak olyan szoftvereket terjesztenek, amelyek megtévesztőek és váratlan módokon befolyásolhatják rendszerét.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Az oldal rosszindulatú kódot tartalmazhat">
