@@ -11,5 +11,9 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Gjendje e përditësimit të fundit">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Përditësim">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Fshehtinë">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Rifreskoje">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Pastroje">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Emër tabele">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Shfaqi zërat">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
 <!ENTITY aboutUrlClassifier.debugFile                   "Kartelë regjistri të tanishëm">
