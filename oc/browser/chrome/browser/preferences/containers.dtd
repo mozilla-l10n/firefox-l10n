@@ -12,7 +12,13 @@
 <!ENTITY window.title         "Apondre un contenidor novèl">
 <!ENTITY window.width         "45em">
 
+<!ENTITY name2.label          "Nom">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Marcar un nom de contenidor">
+<!ENTITY icon2.label          "Icòna">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Color">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Acabat">

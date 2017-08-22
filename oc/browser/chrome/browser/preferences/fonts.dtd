@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Poliças">
 
-<!ENTITY  language.label                          "Poliças per :">
-<!ENTITY  language.accesskey                      "o">
+<!ENTITY  fonts.label                             "Poliças per">
+<!ENTITY  fonts.accesskey                         "P">
 
-<!ENTITY  size.label                              "Talha :">
+<!ENTITY  size2.label                             "Talha">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proporcionala :">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporcionala">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif :">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sens-serif :">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Largor fixa :">
-<!ENTITY  monospace.accesskey                     "L">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sens-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Largor fixa">
+<!ENTITY  monospace2.accesskey                    "F">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Talha minimala de la poliça :">
-<!ENTITY minSize.accesskey                        "m">
+<!ENTITY minSize2.label                           "Talha minimala de la poliça">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Pas cap">
 
 <!-- default font type -->
@@ -65,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Encodatge del tèxte pel contengut obsolèt">
+<!ENTITY languages.customize.Fallback3.label      "Encodatge de tèxte de remplaçament">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.">
 
 <!ENTITY languages.customize.Fallback.auto        "Valor per defaut per la lenga correnta">

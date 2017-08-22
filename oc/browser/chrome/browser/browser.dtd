@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Marcar aquesta pagina">
 <!ENTITY editThisBookmarkCmd.label "Modificar aqueste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Descobrir mai de servicis de partiment…">
-<!ENTITY sharePageCmd.label "Partejar aquesta pagina">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "P">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Partejar aqueste ligam">
-<!ENTITY shareLink.accesskey "P">
-<!ENTITY shareImage.label "Partejar aqueste imatge">
-<!ENTITY shareImage.accesskey "t">
-<!ENTITY shareSelect.label "Partejar la seleccion">
-<!ENTITY shareSelect.accesskey "P">
-<!ENTITY shareVideo.label "Partejar aquesta vidèo">
-<!ENTITY shareVideo.accesskey "a">
+
 <!ENTITY feedsMenu2.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina...">
@@ -244,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
-<!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
-<!ENTITY bookmarksMenuButton.mobile.label "Marcapaginas del mobile">
+<!ENTITY bookmarksMenuButton.other.label    "Autres marcapaginas">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcapaginas del mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
 <!ENTITY searchBookmarks.label              "Recercar dins los marcapaginas">
@@ -836,15 +821,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sincronizar">
 
-<!ENTITY social.addons.label "Gerir los servicis…">
-
-<!ENTITY social.directory.label "Repertòri d'activacion">
-<!ENTITY social.directory.text "Podètz activar de servici de partiment dempuèi lo repertòri">
-<!ENTITY social.directory.button "Dobrir lo repertòri">
-<!ENTITY social.directory.introText "Clicatz sus un servici per l'apondre a &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Afichar mai">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Aisinas e foncionalitats suplementàrias">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
@@ -988,7 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Tornar aviar per metre a jorn &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pagina">
+<!ENTITY pageAction.addToUrlbar.label "Apondre la barra d'adreça">
 <!ENTITY pageAction.removeFromUrlbar.label "Levar de la barra d'adreça">
 
-<!ENTITY sendToDevice.label2 "Enviar a un periferic">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
