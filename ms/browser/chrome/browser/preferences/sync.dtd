@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Bawa Web dengan anda">
 <!ENTITY signedOut.description        "Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.">
 <!ENTITY signedOut.accountBox.title   "Sambung dengan &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Cipta Akaun">
-<!ENTITY signedOut.accountBox.create.accesskey  "B">
-<!ENTITY signedOut.accountBox.signin  "Daftar Masuk">
-<!ENTITY signedOut.accountBox.signin.accesskey  "M">
+<!ENTITY signedOut.accountBox.create2 "Belum ada akaun? Daftar">
+<!ENTITY signedOut.accountBox.create2.accesskey "D">
+<!ENTITY signedOut.accountBox.signin2 "Daftar Masuk…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "M">
 
 <!ENTITY signedIn.settings.label       "Tetapan Sync">
 <!ENTITY signedIn.settings.description "Pilih ciri yang mahu anda sync pada peranti menggunakan &brandShortName;.">
