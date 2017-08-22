@@ -154,20 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editThisBookmarkCmd.label "Lokiša pukutshwayo ye">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-
-<!ENTITY sharePageCmd.commandkey "S">
-
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
 
 
 <!ENTITY subscribeToPageMenuitem.label "Ingwadiše letlakaleng le...">
@@ -228,8 +214,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY viewBookmarksToolbar.label         "Lebelela thulupaa ya dipukutshwayo">
+
 <!ENTITY searchBookmarks.label              "Nyaka dipukutshwayo">
+
+
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -766,13 +757,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncToolbarButton.label      "Nyalantšha">
-
-<!ENTITY social.addons.label "Laola ditirelo...">
-
-
-
-
-
 
 
 
