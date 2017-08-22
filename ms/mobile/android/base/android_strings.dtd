@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Selamat Datang">
-
-<!ENTITY firstrun_urlbar_message "Selamat Datang ke &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Cari maklumat lebih pantas dengan pintasan cadangan carian yang amat berguna.">
+<!ENTITY firstrun_urlbar_message2 "Terima kasih kerana memilih &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Privasi">
+<!ENTITY firstrun_panel_title_customize "Penyesuaian">
+<!ENTITY firstrun_customize_message "Jadikan &brandShortName; milik anda.">
 <!ENTITY firstrun_bookmarks_title "Sejarah">
 <!ENTITY firstrun_bookmarks_message "Kegemaran anda, sentiasa menjadi tumpuan">
 <!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil carian daripada tandabuku dan sejarah apabila anda buat carian.">
@@ -13,8 +14,7 @@
 <!ENTITY firstrun_data_message "Kurang data, lebih penjimatan">
 <!ENTITY firstrun_data_subtext2 "Nyahaktifkan imej dalam setiap laman yang anda lawati untuk mengurangkan kadar penggunaan data.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, sentiasa di samping anda">
-<!ENTITY firstrun_sync_subtext "Sync tab, kata laluan, dan banyak lagi di mana sahaja anda memerlukannya.">
+<!ENTITY firstrun_sync_message2 "Mulakan semula di mana anda tinggalkan.">
 <!ENTITY firstrun_signin_message "Mari berhubung, mari mulakan">
 <!ENTITY firstrun_signin_button "Daftar masuk Sync">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
@@ -355,7 +355,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Buang sekarang">
 <!ENTITY pref_clear_on_exit_title3 "Buang data perbadi apabila keluar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \u0022Berhenti\u0022 daripada menu utama">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; akan memadam data anda secara automatik apabila anda memilih \&quot;Berhenti\&quot; daripada menu utama">
 <!ENTITY pref_clear_on_exit_dialog_title "Pilih data yang mahu dibuang">
 <!ENTITY pref_restore_tabs "Pulih tab">
 <!ENTITY pref_restore_always "Sentiasa pulih">
