@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Kunporti vian Teksaĵon kun vi">
 <!ENTITY signedOut.description        "Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.">
 <!ENTITY signedOut.accountBox.title   "Konekti al &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Krei konton">
-<!ENTITY signedOut.accountBox.create.accesskey  "K">
-<!ENTITY signedOut.accountBox.signin  "Komenci seancon">
-<!ENTITY signedOut.accountBox.signin.accesskey  "s">
+<!ENTITY signedOut.accountBox.create2 "Ĉu vi ne havas konton? Enskribiĝu">
+<!ENTITY signedOut.accountBox.create2.accesskey "E">
+<!ENTITY signedOut.accountBox.signin2 "Komenci seancon…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "K">
 
 <!ENTITY signedIn.settings.label       "Spegulaj agordoj">
 <!ENTITY signedIn.settings.description "Elekti tion, kion vi volas speguli en la aparatoj viaj, kiuj uzas &brandShortName;.">

@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Aŭtoritatoj">
 <!ENTITY certmgr.tab.orphan2                  "Aliaj">
 
-<!ENTITY certmgr.mine                         "Vi havas atestilojn de ĉi tiuj organizoj kiuj identigas vin:">
-<!ENTITY certmgr.others                       "Viaj konservitaj atestiloj identigas ĉi tiujn homojn:">
-<!ENTITY certmgr.websites2                    "Vi havas en dosiero atestilojn kiuj identigas tiujn servilojn:">
-<!ENTITY certmgr.cas                          "Viaj konservitaj atestiloj identigas ĉi tiujn atestilajn aŭtoritatojn:">
-<!ENTITY certmgr.orphans                      "Vi havas en dosiero atestilojn kiuj apartenas al neniu alia kategorio:">
+<!ENTITY certmgr.mine2                        "Vi havas atestilojn de tiuj ĉi organizoj, kiuj identigas vin">
+<!ENTITY certmgr.others2                      "Vi havas konservitajn atestilojn, kiuj identigas tiujn ĉi personojn">
+<!ENTITY certmgr.websites3                    "Vi havas konservitajn atestilojn, kiu identigas tiujn ĉi servilojn">
+<!ENTITY certmgr.cas2                         "Vi havas konservitajn atestilojn, kiuj identigas tiujn ĉi atestilaj aŭtoritatoj">
+<!ENTITY certmgr.orphans2                     "Vi havas konservitajn atestilojn, kiuj ne apartenas al iu el la aliaj kategorioj">
 
 <!ENTITY certmgr.detail.general_tab.title     "Ĝenerala">
 <!ENTITY certmgr.detail.general_tab.accesskey "Ĝ">
