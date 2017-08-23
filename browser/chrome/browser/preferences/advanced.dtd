@@ -6,8 +6,6 @@
 
 <!ENTITY generalTab.label                "সাধারণ">
 
-<!ENTITY accessibility.label             "ব্যবহারযোগ্যতা">
-
 <!ENTITY useCursorNavigation.label       "পেজের মধ্যে চলাচলের জন্য সর্বদা কার্সার-কি ব্যবহার করা হবে">
 <!ENTITY useCursorNavigation.accesskey   "প">
 <!ENTITY useOnScreenKeyboard.label       "যখন দরকার একটি স্পর্শ কীবোর্ড দেখান">
@@ -22,24 +20,26 @@
 
 <!ENTITY dataChoicesTab.label            "তথ্য পছন্দসমূহ">
 
-<!ENTITY healthReportDesc.label          "আপনার ব্রাউজারের কর্মক্ষমতার সম্পর্কে অাপনাকে বুঝতে সহায়তা করে এবং &vendorShortName;-র সঙ্গে আপনার ব্রাউজারের স্বাস্থ্য সম্পর্কে তথ্য বিনিময় করে">
-<!ENTITY enableHealthReport.label        "&brandShortName; স্বাস্থ্য রিপোর্ট সক্ষম করুন">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে">
+
+<!ENTITY enableHealthReport1.label       "Mozilla-র কাছে স্বয়ংক্রিয়ভাবে প্রযুক্তিগত এবং ইন্টারঅ্যাকশন ডেটা পাঠাতে &brandShortName; অনুমোদন করুন">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
-<!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-<!ENTITY enableTelemetryData.label       "বাড়তি ডাটা শেয়ার করুন (টেলিমেট্রি)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "আরও জানুন">
+<!ENTITY dataCollection.label            "&brandShortName; তথ্য সংগ্রহ এবং ব্যবহার">
+<!ENTITY dataCollectionDesc.label        "সকলের জন্যে আমরা আপনাকে পছন্দগুলি প্রদান এবং শুধুমাত্র আমরা &brandShortName; সরবরাহ এবং উন্নত করতে প্রয়োজন কি সংগ্রহ করতে চেষ্টা করি। ব্যক্তিগত তথ্য পাওয়ার আগে আমরা সবসময় অনুমতি চাই।">
+<!ENTITY dataCollectionPrivacyNotice.label    "গোপনীয়তা সংক্রান্ত নীতি">
 
-<!ENTITY crashReporterDesc2.label         "ক্র্যাশ রিপোর্ট &vendorShortName;-দের সমস্যার সমাধান করতে সাহায্য করে এবং আপনার ব্রাউজারকে আরও শক্তিশালী এবং সুরক্ষিত করে">
-<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName;-কে আপনার হয়ে ব্যাকলগ ক্র্যাশ রিপোর্ট পাঠাতে অনুমতি দিন">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "আরও জানুন">
+<!ENTITY alwaysSubmitCrashReports1.label  "Mozilla তে ক্র্যাশ রিপোর্ট পাঠাতে &brandShortName; কে অনুমতি দিন">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "আরও জানুন">
 
 <!ENTITY networkTab.label                "নেটওয়ার্ক">
 
-<!ENTITY connection.label                "সংযোগ">
+<!ENTITY networkProxy.label              "নেটওয়ার্ক প্রক্সি">
 
 <!ENTITY connectionDesc.label            "&brandShortName; দ্বারা ইন্টারনেটের সাথে সংযোগের প্রণালী কনফিগার করুন">
 <!ENTITY connectionSettings.label        "বৈশিষ্ট্যাবলী...">
@@ -86,8 +86,6 @@
 
 
 
-
-<!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "সরিয়ে ফেলুন">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -96,10 +94,6 @@
 <!ENTITY certificateTab.label            "সার্টিফিকেট">
 <!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন">
-<!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
-<!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
 <!ENTITY allowHWAccel.accesskey          "হ">
