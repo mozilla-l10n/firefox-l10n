@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "含有追蹤保護的隱私瀏覽模式會在您上網時封鎖追蹤器，並且在結束瀏覽後，自動忘記您的瀏覽紀錄。">
 <!ENTITY firstrun_panel_title_customize "自訂">
 <!ENTITY firstrun_customize_message "讓 &brandShortName; 有您的風格。">
+<!ENTITY firstrun_customize_subtext "使用附加元件自訂 &brandShortName;。您可封鎖廣告、新增功能，或選擇一套新的佈景主題來展現您的個性。">
 <!ENTITY firstrun_bookmarks_title "瀏覽紀錄">
 <!ENTITY firstrun_bookmarks_message "您的最愛，就在正中央">
 <!ENTITY firstrun_bookmarks_subtext "搜尋時，同步在書籤與瀏覽紀錄中尋找">
