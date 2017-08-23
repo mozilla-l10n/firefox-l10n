@@ -79,21 +79,55 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "সেরা কর্মক্ষমতা, স্থায়িত্ব এবং নিরাপত্তার জন্য &brandShortName; আপ টু ডেট রাখুন।">
+<!ENTITY updateApplication.version.pre   "সংস্করণ ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; কে অনুমতি দিন">
+<!ENTITY updateAuto3.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন (প্রস্তাবিত)">
+<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "আপডেট করার জন্য যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানানো হবে">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "আপডেটের জন্য কখনও দেখবেন না (প্রস্তাবিত নয়)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "আপডেটের ইতিহাস দেখাও…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে">
 <!ENTITY useService.accesskey            ")">
 
+<!ENTITY enableSearchUpdate2.label       "স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন আপডেট করুন">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 
+<!ENTITY offlineAppsList3.label          "নিম্নোক্ত ওয়েবসাইটগুলিকে অফলাইন ব্যবহারের জন্য তথ্য সঞ্চয় করার অনুমতি দেওয়া হয়">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "সরিয়ে ফেলুন">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "অফ-লাইন ব্যবহারের তথ্য মুছে ফেলুন">
 
 <!ENTITY certificateTab.label            "সার্টিফিকেট">
+<!ENTITY certPersonal2.description       "যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে">
 <!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে">
 <!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "সার্টিফিকেট দেখুন…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "নিরাপত্তা ডিভাইস…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY performance.label               "কার্যকারিতা">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "প্রস্তাবিত কর্মক্ষমতা সেটিংস ব্যবহার করুন">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "এই সেটিংস আপনার কম্পিউটারের হার্ডওয়্যার এবং অপারেটিং সিস্টেমেকে সাজায়।">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "আরো জানুন">
+<!ENTITY limitContentProcessOption.label "বিষয়বস্তু প্রক্রিয়া সীমা">
+<!ENTITY limitContentProcessOption.description
+                                         "একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত সামগ্রীর প্রক্রিয়াগুলি কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
 <!ENTITY allowHWAccel.accesskey          "হ">
