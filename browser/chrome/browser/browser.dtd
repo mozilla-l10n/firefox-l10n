@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página">
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Localizar mais serviços de compartilhamento…">
-<!ENTITY sharePageCmd.label "Compartilhar esta página">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "h">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Compartilhar este link">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Compartilhar esta imagem">
-<!ENTITY shareImage.accesskey "h">
-<!ENTITY shareSelect.label "Compartilhar seleção">
-<!ENTITY shareSelect.accesskey "h">
-<!ENTITY shareVideo.label "Compartilhar este vídeo">
-<!ENTITY shareVideo.accesskey "h">
+
 <!ENTITY feedsMenu2.label "Assinar esta página">
 <!ENTITY subscribeToPageMenupopup.label "Assinar esta página">
 <!ENTITY subscribeToPageMenuitem.label "Assinar esta página…">
@@ -244,11 +229,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Favoritos">
-<!ENTITY bookmarksMenuButton.other.label "Outros favoritos">
-<!ENTITY bookmarksMenuButton.mobile.label "Favoritos do celular">
+<!ENTITY bookmarksMenuButton.other.label    "Outros favoritos">
+<!ENTITY bookmarksMenuButton.mobile.label   "Favoritos do celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
+<!ENTITY addBookmarksMenu.label             "Adicionar menu de favoritos à barra de ferramentas">
+<!ENTITY removeBookmarksMenu.label          "Remover menu de favoritos da barra de ferramentas">
 
 <!ENTITY containersMenu.label "Contêineres">
 
@@ -262,7 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ferramentas">
-<!ENTITY toolsMenu.accesskey          "F"> 
+<!ENTITY toolsMenu.accesskey          "F">
 
 <!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "r">
@@ -281,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspecionar Elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Arquivo"> 
+<!ENTITY fileMenu.label         "Arquivo">
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Nova aba contêiner">
 <!ENTITY newUserContext.accesskey         "c">
@@ -292,45 +279,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
 
-<!ENTITY editMenu.label         "Editar"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Desfazer">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "D"> 
-<!ENTITY redoCmd.label            "Refazer">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Cortar">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Copiar">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "Colar">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "o"> 
-<!ENTITY deleteCmd.label          "Excluir">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "x"> 
-<!ENTITY selectAllCmd.label         "Selecionar tudo">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "S"> 
+<!ENTITY editMenu.label         "Editar">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Desfazer">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "D">
+<!ENTITY redoCmd.label            "Refazer">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Cortar">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Copiar">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Colar">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "o">
+<!ENTITY deleteCmd.label          "Excluir">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "x">
+<!ENTITY selectAllCmd.label         "Selecionar tudo">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "S">
 <!ENTITY preferencesCmd2.label       "Opções">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferências">
-<!ENTITY preferencesCmdUnix.accesskey     "P"> 
+<!ENTITY preferencesCmdUnix.accesskey     "P">
 
 <!ENTITY clearRecentHistory.label               "Limpar histórico recente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Exibir"> 
-<!ENTITY viewMenu.accesskey       "x"> 
-<!ENTITY viewToolbarsMenu.label       "Barras de ferramentas"> 
-<!ENTITY viewToolbarsMenu.accesskey     "B"> 
+<!ENTITY viewMenu.label         "Exibir">
+<!ENTITY viewMenu.accesskey       "x">
+<!ENTITY viewToolbarsMenu.label       "Barras de ferramentas">
+<!ENTITY viewToolbarsMenu.accesskey     "B">
 <!ENTITY viewSidebarMenu.label "Painel">
 <!ENTITY viewSidebarMenu.accesskey "a">
-<!ENTITY viewCustomizeToolbar.label       "Personalizar…"> 
+<!ENTITY viewCustomizeToolbar.label       "Personalizar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalizar barra de ferramentas…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -531,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código-fonte selecionado">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código-fonte MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código-fonte da página">
@@ -598,7 +585,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Copiar imagem">
-<!ENTITY copyImageContentsCmd.accesskey  "i"> 
+<!ENTITY copyImageContentsCmd.accesskey  "i">
 <!ENTITY copyVideoURLCmd.label        "Copiar endereço do vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
@@ -694,13 +681,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sair do &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Sair"> 
+<!ENTITY quitApplicationCmd.label       "Sair">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "Encerrar &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Fechar">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Fechar">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Gerenciar serviços…">
-
-<!ENTITY social.directory.label "Diretório de ativações">
-<!ENTITY social.directory.text "Você pode ativar serviços de compartilhamento a partir do diretório.">
-<!ENTITY social.directory.button "Leve-me lá!">
-<!ENTITY social.directory.introText "Clique em um serviço para adicioná-lo ao &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Ver mais">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ferramentas e funcionalidades adicionais">
 <!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Milhares de extensões para escolher">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
@@ -991,5 +969,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
 
-<!ENTITY sendToDevice.label2 "Enviar para dispositivo">
+<!ENTITY sendToDevice.label3 "Enviar página para dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
