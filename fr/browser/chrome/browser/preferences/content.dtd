@@ -16,20 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Notifications">
 <!ENTITY  notificationSettingsButton.label                      "Paramètres…">
-<!ENTITY  notificationSettingsButton.accesskey                  "N">
+<!ENTITY  notificationSettingsButton.accesskey                  "a">
 <!ENTITY  notificationPermissionsLearnMore.label                "En savoir plus">
 
 <!ENTITY  locationPermissions.label                             "Localisation">
 <!ENTITY  locationSettingsButton.label                          "Paramètres…">
-<!ENTITY  locationSettingsButton.accesskey                      "L">
+<!ENTITY  locationSettingsButton.accesskey                      "a">
 
 <!ENTITY  cameraPermissions.label                               "Caméra">
 <!ENTITY  cameraSettingsButton.label                            "Paramètres…">
-<!ENTITY  cameraSettingsButton.accesskey                        "C">
+<!ENTITY  cameraSettingsButton.accesskey                        "a">
 
 <!ENTITY  microphonePermissions.label                           "Microphone">
 <!ENTITY  microphoneSettingsButton.label                        "Paramètres…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "M">
+<!ENTITY  microphoneSettingsButton.accesskey                    "a">
 
 <!ENTITY  fontsAndColors.label        "Polices et couleurs">
 
