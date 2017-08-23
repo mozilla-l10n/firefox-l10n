@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "চিহ্নিত নেটওয়ার্কের প্রক্সির বৈশিষ্ট্য স্বয়ংক্রিয়ভাবে সনাক্ত করা হবে">
 <!ENTITY  WPADTypeRadio.accesskey       "চ">
-<!ENTITY  manualTypeRadio.label         "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "পুনরায় লোড">
 <!ENTITY  reload.accesskey              "প">
-<!ENTITY  ftp.label                     "FTP প্রক্সি:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP প্রক্সি:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL প্রক্সি:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "সক্স হোস্ট:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP প্রক্সি">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP প্রক্সি">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL প্রক্সি">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS হোস্ট">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "সক্স v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "প্রক্সি DNS SOCKS v5 ব্যবহার করার সময়">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "পোর্ট:">
+<!ENTITY  port2.label                   "পোর্ট">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "কোনো প্রক্সি উপস্থিত নেই:">
-<!ENTITY  noproxy.accesskey             "N">
+<!ENTITY  noproxy2.label                "কোনো প্রক্সি উপস্থিত নেই">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "উদাহরণ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "সর্বধরনের প্রোটোকলের জন্য একই প্রক্সি ব্যবহার করা হবে">
 <!ENTITY  shareproxy.accesskey          "স">

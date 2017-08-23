@@ -43,8 +43,8 @@
 <!ENTITY  suggestionSettings.label      "সার্চ ইঞ্জিনের পরিবর্তনের পছন্দসমূহ পরামর্শের জন্য…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies2.label          "ওয়েবসাইট থেকে কুকি গ্রহণ করা হবে">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "তৃতীয় পক্ষের কুকি গ্রহণ করুন:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">

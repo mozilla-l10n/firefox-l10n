@@ -13,9 +13,19 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "অনুসন্ধানের ফলাফল">
 <!ENTITY  paneGeneral.title             "সাধারণ">
+<!ENTITY  paneSearch.title              "অনুসন্ধান">
+<!ENTITY  paneFilesApplications.title   "ফাইল &amp; অ্যাপ্লিকেশন">
+<!ENTITY  panePrivacySecurity.title     "গোপনীয়তা &amp; নিরাপত্তা">
 <!ENTITY  paneContainers.title          "কন্টেইনার ট্যাব">
+<!ENTITY  paneUpdates.title             "আপডেটসমূহ">
+
+<!ENTITY  languageAndAppearance.label   "ভাষা এবং উপস্থিতি">
+<!ENTITY  filesAndApplications.label    "ফাইল ও অ্যাপ্লিকেশন">
+<!ENTITY  browserPrivacy.label          "ব্রাউজারের গোপনীয়তা">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox অ্যাকাউন্ট">
 
-
+<!ENTITY  helpButton2.label        "&brandShortName; সহায়তা">
