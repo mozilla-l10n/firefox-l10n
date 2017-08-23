@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Ta stran morda vsebuje zlonamerno programsko opremo">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; je zavrnil to stran, ker bo morda poskušala namestiti nevarne aplikacije, ki ukradejo ali izbrišejo osebne podatke (npr. fotografije, gesla, sporočila in številke kreditnih kartic).">
