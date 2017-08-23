@@ -4,8 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenue">
 <!ENTITY firstrun_urlbar_message2 "Merci d’avoir choisi &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Un navigateur mobile et moderne par Mozilla, l’organisation à but non lucratif qui s’engage à défendre un Web libre et ouvert.">
 <!ENTITY firstrun_panel_title_privacy "Vie privée">
-<!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait.">
+<!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait">
 <!ENTITY firstrun_panel_title_customize "Personnalisation">
 <!ENTITY firstrun_customize_message "Personnalisez &brandShortName;">
 <!ENTITY firstrun_customize_subtext "Modifiez &brandShortName; grâce aux modules complémentaires. Bloquez les publicités, ajoutez des fonctionnalités ou choisissez un nouveau thème qui reflète votre personnalité.">
@@ -833,7 +834,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "Ajoutés aux marque-pages">
+<!ENTITY activity_stream_highlight_label_bookmarked "Ajouté aux marque-pages">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visités">
