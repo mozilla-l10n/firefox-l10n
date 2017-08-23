@@ -6,6 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "გმადლობთ, &brandShortName;-ის არჩევისთვის">
 <!ENTITY firstrun_urlbar_subtext2 "თანამედროვე ბრაუზერი მობილურისთვის Mozilla-სგან, თავისუფალი და გახსნილი ინტერნეტის მხარდამჭერი, არამომგებიანი კომპანიისგან.">
 <!ENTITY firstrun_panel_title_privacy "პირადულობა">
+<!ENTITY firstrun_privacy_message "იმოგზაურეთ ინტერნეტში მეთვალყურეების გარეშე">
+<!ENTITY firstrun_privacy_subtext "პირადი დათვალიერება თვალთვალისგან დაცვით ზღუდავს მეთვალყურე ელემენტებს და არ იმახსოვრებს თქვენს ისტორიას.">
+<!ENTITY firstrun_panel_title_customize "მორგება">
+<!ENTITY firstrun_customize_message "გახადეთ &brandShortName; თქვენებური.">
+<!ENTITY firstrun_customize_subtext "მოირგეთ &brandShortName; დამატებების საშუალებით. შეზღუდეთ რეკლამები, დაამატეთ შესაძლებლობები, ან აირჩიეთ ახალი გაფორმება, თქვენი გემოვნებით.">
 <!ENTITY firstrun_bookmarks_title "ისტორია">
 <!ENTITY firstrun_bookmarks_message "თქვენი სანიშნეები თქვენს წინაა">
 <!ENTITY firstrun_bookmarks_subtext "მიიღეთ შედეგები თქვენი სანიშნეებიდან და ისტორიიდან ძიებისას.">
@@ -13,6 +18,8 @@
 <!ENTITY firstrun_data_message "ნაკლები მონაცემები, მეტი დანაზოგი">
 <!ENTITY firstrun_data_subtext2 "გამორთეთ გამოსახულებები ნებისმიერ საიტზე ნაკლები მონაცემის დასახარჯად.">
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
+<!ENTITY firstrun_sync_message2 "განაგრძეთ იქიდან, სადაც გაჩერდით.">
+<!ENTITY firstrun_sync_subtext2 "გამოიყენეთ სინქრონიზაცია სანიშნეების, პაროლების და &brandShortName;-ში დამახსოვრებული სხვა მონაცემების, ყველა მოწყობილობაზე გასაზიარებლად.">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
