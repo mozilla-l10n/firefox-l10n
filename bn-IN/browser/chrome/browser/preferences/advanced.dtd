@@ -8,6 +8,8 @@
 
 <!ENTITY useCursorNavigation.label       "পেজের মধ্যে চলাচলের জন্য সর্বদা কার্সার-কি ব্যবহার করা হবে">
 <!ENTITY useCursorNavigation.accesskey   "প">
+<!ENTITY searchOnStartTyping.label       "টাইপ শুরু করার সময় টেক্সট খুঁজুন">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "যখন দরকার একটি স্পর্শ কীবোর্ড দেখান">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -17,6 +19,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "স্মুথ স্ক্রোলিং ব্যবহার করা হবে">
 <!ENTITY useSmoothScrolling.accesskey    "স">
+<!ENTITY checkUserSpelling.label         "টাইপ করার সাথে বানানটাও চেক করুন">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "তথ্য পছন্দসমূহ">
 
@@ -50,6 +54,12 @@ available. -->
 <!ENTITY offlineStorage2.label           "ওয়েবে অফ-লাইন তথ্য ও ব্যবহারকারীর তথ্য">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "সাইটের তথ্য">
+<!ENTITY clearSiteData.label             "সব তথ্য মুছে দিন">
+<!ENTITY clearSiteData.accesskey         "I">
+<!ENTITY siteDataSettings.label          "সেটিংস…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "আরো শিখুন">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -73,6 +83,7 @@ available. -->
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "&brandShortName; আপডেট">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
@@ -100,6 +111,10 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন আপডেট করুন">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.label               "যখন একটি ওয়েবসাইট অফলাইনে ব্যবহারের জন্য তথ্য সংরক্ষণ করতে চাইছে তখন তা আপনাকে বলা হবে">
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রমসমূহ…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList3.label          "নিম্নোক্ত ওয়েবসাইটগুলিকে অফলাইন ব্যবহারের জন্য তথ্য সঞ্চয় করার অনুমতি দেওয়া হয়">
 <!ENTITY offlineAppsList.height          "7em">
@@ -109,6 +124,10 @@ available. -->
 
 <!ENTITY certificateTab.label            "সার্টিফিকেট">
 <!ENTITY certPersonal2.description       "যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে">
+<!ENTITY selectCerts.auto                "নিজে থেকে একটি সিলেক্ট করুন">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "প্রত্যেকবার আপনাকে জিজ্ঞেস করবে">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts2.label                "সার্টিফিকেট দেখুন…">
@@ -125,9 +144,13 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "আরো জানুন">
-<!ENTITY limitContentProcessOption.label "বিষয়বস্তু প্রক্রিয়া সীমা">
+<!ENTITY limitContentProcessOption.label "কন্টেন্ট প্রসেসের সীমা">
 <!ENTITY limitContentProcessOption.description
-                                         "একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত সামগ্রীর প্রক্রিয়াগুলি কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।">
+                                         "একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত কন্টেন্ট প্রসেসের কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস &brandShortName;-র সাথে সম্ভব।">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
 <!ENTITY allowHWAccel.accesskey          "হ">

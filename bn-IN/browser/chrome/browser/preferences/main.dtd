@@ -4,7 +4,9 @@
 
 <!ENTITY startup.label             "প্রারম্ভ">
 
+<!ENTITY startupUserHomePage.label "আপনার হোমপেজ দেখান">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
+<!ENTITY startupPrevSession.label  "সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
 
 <!ENTITY useCurrentPage.label      "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে">
 <!ENTITY useCurrentPage.accesskey  "C">
@@ -22,15 +24,17 @@
 <!ENTITY chooseFolderWin.accesskey    "ব">
 <!ENTITY chooseFolderMac.label        "নির্বাচন করুন...">
 <!ENTITY chooseFolderMac.accesskey    "ন">
+<!ENTITY alwaysAskWhere.label         "ফাইল সংরক্ষণের স্থান সর্বদা আমাকে জিজ্ঞাসা করুন">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "সর্বদা পরীক্ষা করুন &brandShortName; ডিফল্ট ব্রাউজার রূপে ব্যবহার করা যাবে কি না">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-<!ENTITY setAsMyDefaultBrowser2.label     "ডিফল্ট বানান">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
 <!ENTITY isNotDefault.label               "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
 
 <!ENTITY separateProfileMode.label        "অনুমতি দিন &brandShortName; আর ফায়ারফক্সকে একই সময়ে চলার জন্য">
 <!ENTITY useFirefoxSync.label             "টিপ: এটি অন্য প্রোফাইল ব্যাবহার করে। এদের মধেয় তথ্য শেয়ার করার জন্য সিঙ্ক ব্যাবহার করুন।">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; তে সাইন ইন করুন…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; -র পছন্দসমূহ খুলুন">
 
 <!ENTITY e10sEnabled.label                "মাল্টি-প্রক্রিয়া সক্রিয়করন  &brandShortName;">
