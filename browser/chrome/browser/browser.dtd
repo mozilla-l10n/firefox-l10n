@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Đánh dấu trang này">
 <!ENTITY editThisBookmarkCmd.label "Chỉnh sửa dấu trang này">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Tìm thêm các dịch vụ chia sẻ…">
-<!ENTITY sharePageCmd.label "Chia sẻ trang này">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Chia sẻ liên kết này">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Chia sẻ ảnh này">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Chia sẻ đoạn đã chọn">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Chia sẻ video này">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "Đăng kí theo dõi trang này">
 <!ENTITY subscribeToPageMenupopup.label "Đăng kí theo dõi trang này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
@@ -244,11 +229,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Trang đánh dấu">
-<!ENTITY bookmarksMenuButton.other.label "Trang đánh dấu khác">
-<!ENTITY bookmarksMenuButton.mobile.label "Trang đánh dấu trên điện thoại di động">
+<!ENTITY bookmarksMenuButton.other.label    "Trang đánh dấu khác">
+<!ENTITY bookmarksMenuButton.mobile.label   "Trang đánh dấu trên điện thoại di động">
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề trang đánh dấu">
+<!ENTITY hideBookmarksSidebar.label         "Ẩn thanh lề trang đánh dấu">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ trang đánh dấu">
+<!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ trang đánh dấu">
 <!ENTITY searchBookmarks.label              "Tìm kiếm trang đánh dấu">
+<!ENTITY bookmarkingTools.label             "Công cụ đánh dấu trang">
 
 <!ENTITY containersMenu.label "Ngăn chứa">
 
@@ -836,15 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Đồng bộ">
 
-<!ENTITY social.addons.label "Quản lý dịch vụ...">
-
-<!ENTITY social.directory.label "Danh mục các dịch vụ mạng xã hội">
-<!ENTITY social.directory.text "Bạn có thể thêm các dịch vụ chia sẻ từ danh mục.">
-<!ENTITY social.directory.button "Truy cập ngay!">
-<!ENTITY social.directory.introText "Nhấn vào một dịch vụ để thêm vào &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Xem thêm">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Các công cụ và tính năng bổ trợ">
 <!ENTITY customizeMode.menuAndToolbars.empty "Bạn muốn có thêm nhiều công cụ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Lựa chọn từ hàng ngàn tiện ích khác nhau">
 <!ENTITY customizeMode.restoreDefaults "Khôi phục &amp;mặc định">
@@ -991,5 +970,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Thêm vào thanh địa chỉ">
 <!ENTITY pageAction.removeFromUrlbar.label "Xóa khỏi thanh địa chỉ">
 
-<!ENTITY sendToDevice.label2 "Gửi đến thiết bị">
 <!ENTITY sendToDevice.syncNotReady.label "Đang đồng bộ các thiết bị…">
