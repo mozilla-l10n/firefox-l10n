@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bokmerk denne sida">
 <!ENTITY editThisBookmarkCmd.label "Rediger dette bokmerket">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Finn fleire deletenester…">
-<!ENTITY sharePageCmd.label "Del denne sida">
-<!ENTITY sharePageCmd.commandkey "l">
-<!ENTITY sharePageCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Del denne lenka">
-<!ENTITY shareLink.accesskey "l">
-<!ENTITY shareImage.label "Del dette bildet">
-<!ENTITY shareImage.accesskey "b">
-<!ENTITY shareSelect.label "Del utval">
-<!ENTITY shareSelect.accesskey "u">
-<!ENTITY shareVideo.label "Del denne videoen">
-<!ENTITY shareVideo.accesskey "v">
+
 <!ENTITY feedsMenu2.label "Abonner denne sida">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne sida">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne sida…">
@@ -244,11 +229,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerke">
-<!ENTITY bookmarksMenuButton.other.label "Andre bokmerke">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobile bokmerke">
+<!ENTITY bookmarksMenuButton.other.label    "Andre bokmerke">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobile bokmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
+<!ENTITY hideBookmarksSidebar.label         "Gøym bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis verktøylinje for bokmerke">
+<!ENTITY hideBookmarksToolbar.label         "Gøym bokmerkeverktøylinja">
 <!ENTITY searchBookmarks.label              "Søk i bokmerke">
+<!ENTITY bookmarkingTools.label             "Verktøy for bokmerke">
 
 <!ENTITY containersMenu.label "Behaldarar">
 
@@ -836,15 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
-<!ENTITY social.addons.label "Handter tenester…">
-
-<!ENTITY social.directory.label "Aktiveringskatalog">
-<!ENTITY social.directory.text "Du kan slå på tenester for deling frå katalogen.">
-<!ENTITY social.directory.button "Ta meg dit!">
-<!ENTITY social.directory.introText "Trykk på ei teneste for å legge ho til i &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Vis fleire">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Fleire verktøy og funksjonar">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
@@ -991,5 +970,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 
-<!ENTITY sendToDevice.label2 "Send til eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
