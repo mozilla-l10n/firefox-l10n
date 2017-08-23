@@ -232,8 +232,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "სხვა სანიშნეები">
 <!ENTITY bookmarksMenuButton.mobile.label   "მობილურის სანიშნეები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
+<!ENTITY hideBookmarksSidebar.label         "სანიშნეთა გვერდითი ზოლის დამალვა">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
+<!ENTITY hideBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის დამალვა">
 <!ENTITY searchBookmarks.label              "სანიშნეების ძიება">
+<!ENTITY bookmarkingTools.label             "სანიშნეების ხელსაწყოები">
+<!ENTITY addBookmarksMenu.label             "სანიშნეთა მენიუს, ხელსაწყოთა ზოლში დამატება">
+<!ENTITY removeBookmarksMenu.label          "სანიშნეთა მენიუს, ხელსაწყოთა ზოლიდან ამოღება">
 
 <!ENTITY containersMenu.label "სათავსები">
 
@@ -378,8 +383,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "მენიუს დაფარულ არეში დამატება">
-<!ENTITY customizeMenu.addToOverflowMenu.accesskey "დ">
+<!ENTITY customizeMenu.addToOverflowMenu.label "ჩამოსაშლელ მენიუში დამატება">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "ჩ">
 <!ENTITY customizeMenu.moveToToolbar.label "ხელსაწყოთა ზოლში გადატანა">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "გ">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -389,10 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "მენიუში გადატანა">
 <!ENTITY customizeMenu.moveToPanel.accesskey "გ">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "მენიუს დაფარულ არეში მიმაგრება">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "მ">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "მენიუს დაფარული არიდან ამოღება">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ა">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ჩამოსაშლელ მენიუში მიმაგრება">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "გ">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ჩამოსაშლელი მენიუდან ამოღება">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ღ">
 <!ENTITY customizeMenu.removeFromToolbar.label "ხელსაწყოთა ზოლიდან ამოღება">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ა">
 <!ENTITY customizeMenu.removeFromMenu.label "მენიუდან ამოღება">
@@ -821,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ხ">
 <!ENTITY syncToolbarButton.label      "სინქრონიზაცია">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "გადმოიტანეთ რჩეული ელემენტები ხელსაწყოთა ზოლში ან ჩამოსაშლელ მენიუში.">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი ათასობით დამატებიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
