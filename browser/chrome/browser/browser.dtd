@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "আরও শেয়ার সার্ভিস খুঁজুন…">
-<!ENTITY sharePageCmd.label "এই পৃষ্ঠাটি শেয়ার করুন">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "প">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "এই লিঙ্কটি শেয়ার করুন">
-<!ENTITY shareLink.accesskey "ল">
-<!ENTITY shareImage.label "এই ছবিটি শেয়ার করুন">
-<!ENTITY shareImage.accesskey "ছ">
-<!ENTITY shareSelect.label "নির্বাচন শেয়ার করুন">
-<!ENTITY shareSelect.accesskey "য়">
-<!ENTITY shareVideo.label "এই ভিডিওটি শেয়ার করুন">
-<!ENTITY shareVideo.accesskey "ভ">
+
 <!ENTITY feedsMenu2.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenupopup.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন">
 <!ENTITY subscribeToPageMenuitem.label "বর্তমানে পৃষ্ঠায় সাবস্ক্রাইব করুন...">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
-<!ENTITY bookmarksMenuButton.other.label "অন্যান্য বুকমার্ক">
-<!ENTITY bookmarksMenuButton.mobile.label "মোবাইলের বুকমার্কগুলি">
+<!ENTITY bookmarksMenuButton.other.label    "অন্যান্য বুকমার্ক">
+<!ENTITY bookmarksMenuButton.mobile.label   "মোবাইলের বুকমার্কগুলি">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
+<!ENTITY hideBookmarksSidebar.label         "বুকমার্ক সাইডবার লুকান">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুল-বার প্রদর্শন করা হবে">
+<!ENTITY hideBookmarksToolbar.label         "বুকমার্ক টুলবার লুকান">
 <!ENTITY searchBookmarks.label              "বুকমার্ক অনুসন্ধান করুন">
+<!ENTITY bookmarkingTools.label             "বুকমার্ক করার টুল">
+<!ENTITY addBookmarksMenu.label             "বুকমার্ক মেনুকে টুলবারে যোগ করুন">
+<!ENTITY removeBookmarksMenu.label          "বুকমার্ক মেনুকে টুলবার থেকে সরান">
 
 <!ENTITY containersMenu.label "কন্টেইনারস">
 
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "সুসংগতি">
 
-<!ENTITY social.addons.label "ডিভাইস পরিচালনা করুন...">
-
-<!ENTITY social.directory.label "অ্যাক্টিভেশানের পঞ্জি">
-<!ENTITY social.directory.text "এই ডাইরেক্টরি থেকে আপনি শেয়ার পরিষেবা সক্রিয় করতে পারবেন।">
-<!ENTITY social.directory.button "আমাকে সেখানে নিয়ে যান!">
-<!ENTITY social.directory.introText "কোন পরিষেবা তে ক্লিক করে তাকে &brandShortName; এর সাথে যুক্ত করতে পারবেন।">
-<!ENTITY social.directory.viewmore.text "আরো দেখুন">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত বৈশিষ্ট্য এবং টুল">
+<!ENTITY customizeMode.menuAndToolbars.header3 "টুলবার বা ওভারফ্লো মেনুতে আপনার প্রিয় আইটেমগুলি টেনে আনুন।">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরও টুল দরকার?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজার হাজার অ্যাড-অন এর মধ্যে থেকে বাছুন">
 <!ENTITY customizeMode.restoreDefaults "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা বার থেকে অপসারণ করুন">
 
-<!ENTITY sendToDevice.label2 "ডিভাইসে প্রেরণ করুন">
+<!ENTITY sendToDevice.label3 "পৃষ্ঠা থেকে ডিভাইসে পাঠান">
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…">
