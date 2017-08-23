@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "ফন্ট">
 
-<!ENTITY  language.label                          "চিহ্নিত এনকোডিং-র ফন্ট:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "ফন্ট হল">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "মাপ:">
+<!ENTITY  size2.label                             "আকার">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "অনুপাত অনুযায়ী:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "আনুপাতিক">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "সেরিফ:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "সান্স-সেরিফ (Sans-serif):">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "মোনোস্পেস:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "সেরিফ">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "সান্স-সেরিফ">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "মোনোস্পেস">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,18 +53,20 @@
 <!ENTITY  font.langGroup.sinhala                  "সিংহালা">
 <!ENTITY  font.langGroup.tibetan                  "তিব্বতি">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ফন্টের সর্বনিম্ন মাপ:">
-<!ENTITY minSize.accesskey                        "ফ">
+<!ENTITY minSize2.label                           "ফন্টের সর্বনিম্ন আকার">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "শূণ্য">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "সেরিফ (Serif)">
 <!ENTITY  useDefaultFontSansSerif.label           "সান্স-সেরিফ (Sans Serif)">
 
+<!ENTITY  allowPagesToUseOwn.label                "উপরে আপনার উল্লিখিত নির্বাচন উপেক্ষা করে পেজগুলির দ্বারা ব্যবহারযোগ্য ফন্ট নির্বাচনের অনুমতি প্রদান করা হবে">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "লিগ্যাসি সামগ্রীর জন্য ক্যারেক্টার এনকোডিং">
-<!ENTITY languages.customize.Fallback2.label      "ফলব্যাক টেক্সট এনকোডিং:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "ফলব্যাক টেক্সট এনকোডিং">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "এই অক্ষর এনকোডিং সেই সমস্ত লিগ্যাসি বিষয়বস্তুর জন্য ব্যবহার করা হয় যেগুলি নিজেদের এনকোডিং সম্বন্ধিয় তথ্য ঘোষণা করতে ব্যর্থ হয়।">
 
 <!ENTITY languages.customize.Fallback.auto        "বর্তমান ডিফল্ট লোকেল">

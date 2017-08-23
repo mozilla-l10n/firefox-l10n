@@ -5,14 +5,14 @@
 <!ENTITY window.title                 "ব্যতিক্রম">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "সাইট">
+<!ENTITY treehead.sitename2.label     "ওয়েবসাইট">
 <!ENTITY treehead.status.label        "অবস্থা">
-<!ENTITY removepermission.label       "সমস্ত সাইট মুছে ফেলুন">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "সমস্ত সাইট মুছে ফেলুন">
-<!ENTITY removeallpermissions.accesskey "স">
-<!ENTITY address.label                "ওয়েব-সাইটের ঠিকানা:">
-<!ENTITY address.accesskey            "ও">
+<!ENTITY removepermission2.label      "ওয়েবসাইট অপসারণ করুন">
+<!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "সমস্ত ওয়েবসাইটগুলি মুছে ফেলুন">
+<!ENTITY removeallpermissions2.accesskey "e">
+<!ENTITY address2.label               "ওয়েবসাইটের ঠিকানা">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "প্রতিরোধ করা হবে">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "সেশনের জন্য প্রবেশাধিকার প্রদান করা হবে">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "পরিবর্তন সংরক্ষণ করুন">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "ওয়েবসাইটের অনুসন্ধান করুন">

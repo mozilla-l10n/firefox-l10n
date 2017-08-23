@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "সাধারণ">
 
+<!ENTITY  warnOnAddonInstall2.label       "ওয়েবসাইট দ্বারা অতিরিক্ত সামগ্রী ইনস্টল করার প্রচেষ্টাকালে আপনাকে সতর্ক করা হবে">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "বিপজ্জনক ডাউনলোড ব্লক করুন">
 <!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "অবাঞ্ছিত এবং বিরল সফটওয়্যার সম্পর্কে আপনাকে সাবধান করা হবে">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ব্যতিক্রম...">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -22,8 +26,8 @@
 
 <!ENTITY  logins.label                  "লগ-ইন">
 
-<!ENTITY  rememberLogins.label          "সাইটের জন্য লগ-ইন মনে রাখা হোক">
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "ওয়েবসাইটের জন্য লগ-ইন মনে রাখা হোক">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম...">
 <!ENTITY  passwordExceptions.accesskey  "ব">
 

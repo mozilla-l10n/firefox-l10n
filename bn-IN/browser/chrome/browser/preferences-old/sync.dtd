@@ -6,13 +6,20 @@
 
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
 <!ENTITY engine.bookmarks.accesskey "ব">
+<!ENTITY engine.tabs.label2         "ট্যাব খুলুন">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "পূর্ববর্তী তথ্য">
 <!ENTITY engine.history.accesskey   "প">
+<!ENTITY engine.logins.label        "লগ-ইনগুলি">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "পছন্দ">
 <!ENTITY engine.prefs.accesskey     "প">
 <!ENTITY engine.addons.label        "অতিরিক্ত সামগ্রী">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "ঠিকানাসমূহ">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "ক্রেডিট কার্ডগুলি">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">

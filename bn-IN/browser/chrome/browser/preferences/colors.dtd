@@ -6,20 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "ওপরে আমার নির্বাচনের সাহায্যে এই পেজের দ্বারা উল্লেখ্য রঙগুলো ওভাররাইড করে:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "সর্বদা">
+<!ENTITY  overrideDefaultPageColors.auto.label   "শুধুমাত্র উচ্চ বৈসাদৃশ্য থিমের সাথে">
+<!ENTITY  overrideDefaultPageColors.never.label  "কখনও না">
 
 <!ENTITY  color                           "হরফ ও পটভূমি">
-<!ENTITY  textColor.label                 "টেক্সট:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "পটভূমি:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "টেক্সট">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "পটভূমি">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "সিস্টেমের রং ব্যবহার করা হবে">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "লিঙ্কের তলায় রেখা আঁকা হবে">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "লিঙ্কের রং">
-<!ENTITY  linkColor.label                 "প্রত্যক্ষ না করা লিঙ্ক:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "পরিদর্শিত লিঙ্ক:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  linkColor2.label                "প্রত্যক্ষ না করা লিঙ্ক">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "পরিদর্শিত লিঙ্ক">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

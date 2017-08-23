@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "প্রারম্ভ">
 
+<!ENTITY startupPage2.label        "&brandShortName; আরম্ভের সময়">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "আপনার হোমপেজ দেখান">
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupPrevSession.label  "সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে">
 
+<!ENTITY homepage2.label           "হোম পেজ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "বর্তমান পৃষ্ঠা প্রয়োগ করা হবে">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
@@ -29,6 +33,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "সর্বদা পরীক্ষা করুন &brandShortName; ডিফল্ট ব্রাউজার রূপে ব্যবহার করা যাবে কি না">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "ডিফল্ট বানান…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
 <!ENTITY isNotDefault.label               "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
 
