@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Ansuf">
-
-<!ENTITY firstrun_urlbar_message "Ansuf γer &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Af ayen tebɣiḍ s uzreb s useqdec n yinegzumen n yisumar.">
+<!ENTITY firstrun_urlbar_message2 "Tanemmirt imi tferneḍ &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Tabaḍnit">
+<!ENTITY firstrun_privacy_message "Inig am akken ulac win i k-id-ittmuqqulen">
+<!ENTITY firstrun_panel_title_customize "Sagen">
+<!ENTITY firstrun_customize_message "Err&brandShortName; d ayla-k.">
 <!ENTITY firstrun_bookmarks_title "Amazray">
 <!ENTITY firstrun_bookmarks_message "Ismenyifen-ik; zdat akked tlemmast">
 <!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtar akked umazray-inek ticki tettnadiḍ.">
@@ -13,8 +15,7 @@
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
 <!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel anda terziḍ.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, yal tikelt s idis-ik">
-<!ENTITY firstrun_sync_subtext "Semtawi iccaren-inek, awalen uffiren, akked ugar deg yal amḍiq anida i t-teseqdaceḍ.">
+<!ENTITY firstrun_sync_message2 "Kemmel seg anida telliḍ.">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
@@ -355,7 +356,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Sfeḍ tura">
 <!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek mara tferneḍ \&quot;Ffeɣ\&quot; seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
 <!ENTITY pref_restore_tabs "Err-d iccaren">
 <!ENTITY pref_restore_always "Ttarra-d yal tikelt">
