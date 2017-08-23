@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Вітаємо">
-
-<!ENTITY firstrun_urlbar_message "Вітаємо в &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Знаходьте швидше з корисними ярликами пошукових пропозицій.">
+<!ENTITY firstrun_urlbar_message2 "Дякуємо за вибір &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Сучасний мобільний браузер від Mozilla, некомерційної організації, що віддана вільному й відкритому Інтернету.">
+<!ENTITY firstrun_panel_title_privacy "Приватність">
+<!ENTITY firstrun_privacy_message "Переглядайте без думки, що за вами хтось спостерігає">
+<!ENTITY firstrun_privacy_subtext "Приватний перегляд блокує стеження поки ви переглядаєте Інтернет і не запам\&apos;ятовує історію після завершення.">
+<!ENTITY firstrun_panel_title_customize "Пристосування">
+<!ENTITY firstrun_customize_message "Зробіть &brandShortName; зручним для себе.">
+<!ENTITY firstrun_customize_subtext "Розширюйте можливості &brandShortName; за допомогою додатків. Блокуйте рекламу, або оберіть нову тему, щоб підкреслити свою індивідуальність.">
 <!ENTITY firstrun_bookmarks_title "Історія">
 <!ENTITY firstrun_bookmarks_message "Ваші закладки прямо перед вами">
 <!ENTITY firstrun_bookmarks_subtext "Отримуйте результати зі своїх закладок та історії під час пошуку.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Менше даних, більше заощаджень">
 <!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах, щоб зменшити споживання даних.">
 <!ENTITY firstrun_sync_title "Синхронізація">
-<!ENTITY firstrun_sync_message "&brandShortName; завжди поруч з вами">
-<!ENTITY firstrun_sync_subtext "Синхронізуйте свої вкладки, паролі й інші дані всюди, де ви їх використовуєте.">
+<!ENTITY firstrun_sync_message2 "Продовжуйте з місця, на якому ви зупинилися.">
+<!ENTITY firstrun_sync_subtext2 "Використовуйте синхронізацію для доступу до закладок, паролів та інших даних, які ви зберігаєте в &brandShortName;, на всіх пристроях.">
 <!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Стерти зараз">
 <!ENTITY pref_clear_on_exit_title3 "Стирати приватні дані при виході">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично стирати ваші дані при виборі \u0022Вихід\u0022 у головному меню">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; буде завжди автоматично стирати ваші дані при виборі \&quot;Вихід\&quot; у головному меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Виберіть, які дані стирати">
 <!ENTITY pref_restore_tabs "Відновлення вкладок">
 <!ENTITY pref_restore_always "Завжди відновлювати">
