@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mappa…">
 <!ENTITY newFolderCmd.accesskey "M">
 <!ENTITY closeTabCmd2.label "Lap bezárása">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Oldalbeállítás…">
 <!ENTITY printSetupCmd.accesskey "O">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Üzenet törlése">
 <!ENTITY deleteMsgCmd.accesskey "z">
 <!ENTITY undeleteMsgCmd.label "Törölt üzenet visszaállítása">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "V">
 <!ENTITY redoDefaultCmd.label "Újra">
 <!ENTITY redoDefaultCmd.accesskey "j">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Menüsor">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showMessengerToolbarCmd.label "Levelező eszköztár">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Mappa ablaktábla eszköztár">
 <!ENTITY folderPaneBar.accesskey "a">
 <!ENTITY folderModeSelector.label "Mappanézetek">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rendezés">
 <!ENTITY sortMenu.accesskey "R">
 <!ENTITY sortByDateCmd.label "Dátum">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Keresés">
 <!ENTITY findMenu.accesskey "s">
 <!ENTITY findCmd.label "Keresés ebben az üzenetben…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Címek keresése…">
 <!ENTITY searchAddressesCmd.accesskey "C">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Ugrás">
 <!ENTITY goMenu.accesskey "U">
 <!ENTITY nextMenu.label "Következő">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "N">
 <!ENTITY startPageCmd.label "Levelező kezdőoldala">
 <!ENTITY startPageCmd.accesskey "L">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Üzenet">
 <!ENTITY msgMenu.accesskey "Ü">
 <!ENTITY newMsgCmd.label "Új üzenet">
@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Piszkozat szerkesztése">
 <!ENTITY editDraftMsgCmd.accesskey "P">
+<!ENTITY newMsgFromTemplateCmd.label "Új üzenet sablonból">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Szűrő létrehozása az üzenet alapján…">
 <!ENTITY createFilter.accesskey "p">
 <!ENTITY moveMsgToMenu.label "Áthelyezés">
@@ -443,11 +445,11 @@
 <!ENTITY openFeedSummary.accesskey "f">
 <!ENTITY openFeedWebPageInMP.label "Weboldal és összefoglaló közötti váltás az üzenet ablaktábláján">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Ablak">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Eszközök">
 <!ENTITY tasksMenu.accesskey "E">
 <!ENTITY messengerCmd.label "Levelező és hírolvasó">
@@ -493,8 +495,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "P">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Fejlesztői eszközök">
 <!ENTITY devtoolsMenu.accesskey "F">
 <!ENTITY devToolboxCmd.label "Fejlesztői eszköztár">
@@ -509,17 +511,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Scratchpad">
 <!ENTITY scratchpadCmd.accesskey "S">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Üzenetek letöltése">
 <!ENTITY newMsgButton.label "Új üzenet">
 <!ENTITY replyButton.label "Válasz">
@@ -556,8 +558,8 @@
 <!ENTITY tagButton.label "Címke">
 <!ENTITY compactButton.label "Tömörítés">
 <!ENTITY appmenuButton.label "Alkalmazásmenü">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Keresés az üzenetekben…">
 <!ENTITY getMsgButton.tooltip "Új üzenetek letöltése">
 <!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
@@ -590,48 +592,48 @@
 <!ENTITY tagButton.tooltip "Üzenetek címkézése">
 <!ENTITY compactButton.tooltip "Törölt üzenetek eltávolítása a kijelölt mappából">
 <!ENTITY appmenuButton1.tooltip "A &brandShortName; menü megjelenítése">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Továbbítás beágyazva">
 <!ENTITY buttonMenuForwardAsAttachment.label "Továbbítás mellékletként">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Távoli tartalom megjelenítése ebben az üzenetben">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
 <!ENTITY editRemoteContentSettings.label "Távoli tartalom beállításainak szerkesztése…">
 <!ENTITY editRemoteContentSettings.accesskey "v">
 <!ENTITY editRemoteContentSettingsUnix.label "Távoli tartalom beállításainak szerkesztése…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "v">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Figyelmeztetés mellőzése ehhez az üzenethez">
 <!ENTITY phishingOptionIgnore.accesskey "m">
 <!ENTITY phishingOptionSettings.label "Becsapós üzenetek felismerési beállításainak szerkesztése…">
 <!ENTITY phishingOptionSettings.accesskey "c">
 <!ENTITY phishingOptionSettingsUnix.label "Becsapós üzenetek felismerési beállításainak szerkesztése…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "c">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Új üzenet">
 <!ENTITY appmenuNewContactCmd.label "Névjegy…">
 <!ENTITY appmenuEditMenu.label "Szerkesztés">
 <!ENTITY appmenuToolbarLayout.label "Eszköztár elrendezése…">
 <!ENTITY appmenuSelectThread.label "Szál kijelölése">
 <!ENTITY appmenuSelectFlagged.label "Csillagozott üzenetek kijelölése">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Új címke…">
 <!ENTITY addNewTag.accesskey "c">
 <!ENTITY manageTags.label "Címkék kezelése…">
 <!ENTITY manageTags.accesskey "m">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Név">
 <!ENTITY folderUnreadColumn.label "Olvasatlan">
 <!ENTITY folderTotalColumn.label "Összesen">
 <!ENTITY folderSizeColumn.label "Méret">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
 <!ENTITY folderContextGetMessages.accesskey "z">
 <!ENTITY folderContextPauseAllUpdates.label "Minden frissítés szüneteltetése">
@@ -671,15 +673,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "v">
 <!ENTITY folderContextSettings2.label "Beállítások">
 <!ENTITY folderContextSettings2.accesskey "B">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Név vagy e-mail cím tartalmazza:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Üzenetek keresése…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Tárgy">
 <!ENTITY searchFromMenu.label "Feladó">
 <!ENTITY searchSubjectOrFromMenu.label "Tárgy vagy feladó">
@@ -687,8 +689,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Tárgy, címzett vagy másolatot kapott">
 <!ENTITY searchMessageBody.label "Teljes üzenet">
 <!ENTITY saveAsVirtualFolderMenu.label "Keresés mentése mappaként…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Témacsoport">
 <!ENTITY fromColumn.label "Feladó">
 <!ENTITY recipientColumn.label "Címzett">
@@ -709,8 +711,8 @@
 <!ENTITY locationColumn.label "Hely">
 <!ENTITY idColumn.label "Érkezési sorrend">
 <!ENTITY attachmentColumn.label "Mellékletek">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Jelölje ki a megjelenítendő oszlopokat">
 <!ENTITY threadColumn2.tooltip "Témacsoportok megjelenítése">
 <!ENTITY fromColumn2.tooltip "Rendezés feladó szerint">
@@ -732,14 +734,15 @@
 <!ENTITY locationColumn2.tooltip "Rendezés hely szerint">
 <!ENTITY idColumn2.tooltip "Rendezés beérkezés szerint">
 <!ENTITY attachmentColumn2.tooltip "Rendezés mellékletek szerint">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Új üzenet sablonból">
 <!ENTITY contextOpenNewWindow.label "Üzenet megnyitása új ablakban">
 <!ENTITY contextOpenNewWindow.accesskey "b">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Üzenet megnyitása új lapon">
 <!ENTITY contextOpenNewTab.accesskey "p">
 <!ENTITY contextOpenConversation.label "Üzenet megnyitása beszélgetésben">
@@ -791,12 +794,12 @@
 <!ENTITY contextPrint.accesskey "N">
 <!ENTITY contextPrintPreview.label "Nyomtatási kép">
 <!ENTITY contextPrintPreview.accesskey "o">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Oszlopok alaphelyzetbe">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -837,9 +840,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Ez a mappa">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Lejátszás">
 <!ENTITY contextPlay.accesskey "L">
 <!ENTITY contextPause.label "Szünet">
@@ -848,12 +851,12 @@
 <!ENTITY contextMute.accesskey "N">
 <!ENTITY contextUnmute.label "Hang be">
 <!ENTITY contextUnmute.accesskey "H">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -877,8 +880,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Felvétel a címjegyzékbe…">
 <!ENTITY AddToAddressBook.accesskey "F">
 <!ENTITY AddDirectlyToAddressBook.label "Felvétel a címjegyzékbe">
@@ -903,12 +906,12 @@
 <!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY reportPhishingURL.label "E-mail csalás jelentése">
 <!ENTITY reportPhishingURL.accesskey "c">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Szótárak hozzáadása…">
 <!ENTITY spellAddDictionaries.accesskey "S">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Hivatkozás mentése más néven…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Kép mentése más néven…">
@@ -927,17 +930,17 @@
 <!ENTITY openInBrowser.accesskey "b">
 <!ENTITY openLinkInBrowser.label "Hivatkozás megnyitása böngészőben">
 <!ENTITY openLinkInBrowser.accesskey "H">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Kész">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Kis méret">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Előtérbe hozás">
 <!ENTITY zoomWindow.label "Nagyítás">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Beállítások">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -949,8 +952,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Mindet mutat">
+
 <!-- Mac OS X Dock Icon pop-up menu -->
-
 <!ENTITY dockOptions.label              "Appikon beállításai…">
-
-
+<!ENTITY writeNewMessageDock.label      "Új üzenet írása">
+<!ENTITY openAddressBookDock.label      "Címjegyzék megnyitása">
