@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Speguli">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Trenu viajn plej ŝatatajn elementojn al la ilaro aŭ ekstra menuo.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ĉu vi volas pli da iloj?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
