@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Situs web di <span id='unwanted_sitename'/> telah dilaporkan melayani perangkat lunak yang tidak diinginkan dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Laman perangkat lunak yang tidak diinginkan mencoba menginstal perangkat lunak yang mungkin menipu dan mempengaruhi sistem Anda dalam cara yang tidak diinginkan.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Situs tujuan mungkin mengandung malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; memblokir laman ini karena laman ini mungkin mencoba memasang aplikasi berbahaya yang dapat mencuri atau menghapus informasi Anda (seperti foto, sandi, pesan dan kartu kredit).">
