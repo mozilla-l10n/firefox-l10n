@@ -14,20 +14,22 @@
 <!ENTITY  popupExceptions.label                                 "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey                             "გ">
 
-<!ENTITY  permissionSettingsButton2.label                       "პარამეტრები…">
-
 <!ENTITY  notificationPermissions.label                         "შეტყობინებები">
-<!ENTITY  notificationSettingsButton.accesskey                  "შ">
+<!ENTITY  notificationSettingsButton.label                      "პარამეტრები…">
+<!ENTITY  notificationSettingsButton.accesskey                  "პ">
 <!ENTITY  notificationPermissionsLearnMore.label                "შეიტყვეთ მეტი">
 
 <!ENTITY  locationPermissions.label                             "მდებარეობა">
-<!ENTITY  locationSettingsButton.accesskey                      "მ">
+<!ENTITY  locationSettingsButton.label                          "პარამეტრები…">
+<!ENTITY  locationSettingsButton.accesskey                      "პ">
 
 <!ENTITY  cameraPermissions.label                               "კამერა">
-<!ENTITY  cameraSettingsButton.accesskey                        "კ">
+<!ENTITY  cameraSettingsButton.label                            "პარამეტრები…">
+<!ENTITY  cameraSettingsButton.accesskey                        "პ">
 
 <!ENTITY  microphonePermissions.label                           "მიკროფონი">
-<!ENTITY  microphoneSettingsButton.accesskey                    "ფ">
+<!ENTITY  microphoneSettingsButton.label                        "პარამეტრები…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "პ">
 
 <!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 
