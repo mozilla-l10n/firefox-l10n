@@ -69,6 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create2 "Ur tesεiḍ ara amiḍan? Bdu">
 <!ENTITY signedOut.accountBox.create2.accesskey "A">
 <!ENTITY signedOut.accountBox.signin2 "Kcem…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "G">
 
 <!ENTITY signedIn.settings.label       "Iγewwaṛen n umtawi">
 <!ENTITY signedIn.settings.description "Fren ayen ad temtawiḍ deg ibenk inek s useqdec n &brandShortName;.">
