@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "একটি কন্টেইনার যোগ করুন">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "পছন্দ">
+<!ENTITY removeButton.label   "মুছে ফেলুন">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; গোপনীয়তাতে ফিরে যান">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "নাম:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "একটি কন্টেইনারের নাম লিখুন">
 <!ENTITY icon.label           "আইকন:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "রঙ:">

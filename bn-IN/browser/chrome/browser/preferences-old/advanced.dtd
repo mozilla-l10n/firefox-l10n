@@ -107,6 +107,7 @@ available. -->
 <!ENTITY offlineStorageNotify.label               "যখন একটি ওয়েবসাইট অফলাইনে ব্যবহারের জন্য তথ্য সংরক্ষণ করতে চাইছে তখন তা আপনাকে বলা হবে">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -115,6 +116,12 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "অফ-লাইন ব্যবহারের তথ্য মুছে ফেলুন">
 
 <!ENTITY certificateTab.label            "সার্টিফিকেট">
+<!ENTITY certPersonal.label              "অনুরোধসমূহ">
+<!ENTITY certPersonal.description        "যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে:">
+<!ENTITY selectCerts.auto                "স্বয়ংক্রিয়রূপে একটি নির্বাচন করা হবে">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "প্রত্যেকবার আপনাকে জিজ্ঞেস করবে">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন">
@@ -122,5 +129,22 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "কর্মক্ষমতা">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "প্রস্তাবিত কর্মক্ষমতা সেটিংস ব্যবহার করুন">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "এই সেটিংস আপনার কম্পিউটারের হার্ডওয়্যার এবং অপারেটিং সিস্টেমেকে সাজায়।">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "আরো জানুন">
+<!ENTITY limitContentProcessOption.label "কন্টেন্ট প্রসেসের সীমা">
+<!ENTITY limitContentProcessOption.description
+                                         "একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত কন্টেন্ট প্রসেসের কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস &brandShortName;-র সাথে সম্ভব।">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
 <!ENTITY allowHWAccel.accesskey          "হ">
