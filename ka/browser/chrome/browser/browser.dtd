@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "სხვა გაზიარების მომსახურებების მოძიება…">
-<!ENTITY sharePageCmd.label "გვერდის გაზიარება">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "გ">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ბმულის გაზიარება">
-<!ENTITY shareLink.accesskey "ბ">
-<!ENTITY shareImage.label "სურათის გაზიარება">
-<!ENTITY shareImage.accesskey "ს">
-<!ENTITY shareSelect.label "არჩეულის გაზიარება">
-<!ENTITY shareSelect.accesskey "ა">
-<!ENTITY shareVideo.label "ვიდეოს გაზიარება">
-<!ENTITY shareVideo.accesskey "ვ">
+
 <!ENTITY feedsMenu2.label "გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenupopup.label "გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenuitem.label "გვერდის გამოწერა...">
@@ -244,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "სანიშნეები">
-<!ENTITY bookmarksMenuButton.other.label "სხვა სანიშნეები">
-<!ENTITY bookmarksMenuButton.mobile.label "მობილურის სანიშნეები">
+<!ENTITY bookmarksMenuButton.other.label    "სხვა სანიშნეები">
+<!ENTITY bookmarksMenuButton.mobile.label   "მობილურის სანიშნეები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 <!ENTITY searchBookmarks.label              "სანიშნეების ძიება">
@@ -836,15 +821,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ხ">
 <!ENTITY syncToolbarButton.label      "სინქრონიზაცია">
 
-<!ENTITY social.addons.label "მომსახურებების მართვა…">
-
-<!ENTITY social.directory.label "აქტივაციების დირექტორია">
-<!ENTITY social.directory.text "გაზიარების მომსახურებების გააქტიურება დირექტორიიდან შეგიძლიათ.">
-<!ENTITY social.directory.button "იქ გადამიყვანეთ!">
-<!ENTITY social.directory.introText "დააწკაპეთ მომსახურებს &brandShortName;-ს დასამატებლად.">
-<!ENTITY social.directory.viewmore.text "მეტის ნახვა">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "დამატებითი ხელსაწყოები და ფუნქციები">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი ათასობით დამატებიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
@@ -991,5 +967,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
 <!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
 
-<!ENTITY sendToDevice.label2 "მოწყობილობაზე გაგზავნა">
+<!ENTITY sendToDevice.label3 "გვერდის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
