@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
-
-<!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encontre tudo mais rapidamente com as sugestões de pesquisa.">
+<!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Privacidade">
+<!ENTITY firstrun_privacy_message "Navegue como se ninguém estivesse olhando">
+<!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Completamente seu">
 <!ENTITY firstrun_bookmarks_subtext "Obtenha resultados dos favoritos e histórico quando pesquisar.">
@@ -13,8 +14,7 @@
 <!ENTITY firstrun_data_message "Menos dados, mais economia">
 <!ENTITY firstrun_data_subtext2 "Desligar imagens para economizar dados em todos os sites que visitar.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, sempre ao seu lado">
-<!ENTITY firstrun_sync_subtext "Sincronize sua abas, senhas e muito mais em todos os lugares que usá-lo.">
+<!ENTITY firstrun_sync_message2 "Continue de onde você parou.">
 <!ENTITY firstrun_signin_message "Conecte-se para iniciar">
 <!ENTITY firstrun_signin_button "Entrar no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
@@ -355,7 +355,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpar agora">
 <!ENTITY pref_clear_on_exit_title3 "Limpar dados ao sair">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \&quot;Sair\&quot; no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecionar quais dados limpar">
 <!ENTITY pref_restore_tabs "Restaurar abas">
 <!ENTITY pref_restore_always "Restaurar sempre">
