@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> orria nahi ez den softwarearen zerbitzari bezala salatua dago eta blokeatu egin da zure segurtasun-ezarpenetan oinarrituta.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nahi ez den softwarearen orriak iruzurtiak izan daitezkeen eta zure sistema espero gabeko moduetan eragin dezaketen softwarea instalatzen saiatzen dira.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Hurrengo webguneak malwarea izan lezake">
