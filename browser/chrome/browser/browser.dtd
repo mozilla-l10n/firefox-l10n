@@ -955,7 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Telechargia ina copia frestga da &brandShorterName; e nus ta gidain da l'installar.">
 <!ENTITY updateManual.whatsnew.label "Vesair las novaziuns.">
 <!ENTITY updateManual.header.message "Impussibel dad actualisar &brandShorterName; a la pli nova versiun.">
-<!ENTITY updateManual.acceptButton.label "Telechargiar &brandShortName;">
+<!ENTITY updateManual.acceptButton.label "Telechargiar &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "T">
 <!ENTITY updateManual.cancelButton.label "Betg ussa">
 <!ENTITY updateManual.cancelButton.accesskey "B">
