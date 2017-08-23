@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Prenda tes web cun tai">
 <!ENTITY signedOut.description        "Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.">
 <!ENTITY signedOut.accountBox.title   "Connectar cun in &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crear in conto">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "S'annunziar">
-<!ENTITY signedOut.accountBox.signin.accesskey  "a">
+<!ENTITY signedOut.accountBox.create2 "Ti n'has nagin conto? Ta registrescha">
+<!ENTITY signedOut.accountBox.create2.accesskey "c">
+<!ENTITY signedOut.accountBox.signin2 "S'annunziar…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "a">
 
 <!ENTITY signedIn.settings.label       "Parameters da Sync">
 <!ENTITY signedIn.settings.description "Tscherna tge che duai vegnir sincronisà tranter tes apparats che utiliseschan &brandShortName;.">
