@@ -237,7 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Ẩn thanh công cụ trang đánh dấu">
 <!ENTITY searchBookmarks.label              "Tìm kiếm trang đánh dấu">
 <!ENTITY bookmarkingTools.label             "Công cụ đánh dấu trang">
-<!ENTITY addBookmarksMenu.label             "Thêm trang đánh dấu vào thanh công cụ">
+<!ENTITY addBookmarksMenu.label             "Thêm bảng chọn trang đánh dấu vào thanh công cụ">
+<!ENTITY removeBookmarksMenu.label          "Xóa bảng chọn trang đánh dấu từ thanh công cụ">
 
 <!ENTITY containersMenu.label "Ngăn chứa">
 
