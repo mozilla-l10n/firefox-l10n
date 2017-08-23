@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
-
-<!ENTITY firstrun_urlbar_message "مرحبًا بك مع &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "ابحث عمَّ تريد بسرعة مستخدمًا اقتراحات البحث المفيدة.">
+<!ENTITY firstrun_urlbar_message2 "شكرا على اختيارك &brandShortName;">
 <!ENTITY firstrun_bookmarks_title "التأريخ">
 <!ENTITY firstrun_bookmarks_message "مفضلاتك، في الأمام و الوسط">
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
 <!ENTITY firstrun_data_subtext2 "عطّل الصور لتوفير البيانات في كل موقع تزوره.">
 <!ENTITY firstrun_sync_title "تزامُن">
-<!ENTITY firstrun_sync_message "&brandShortName;، معك دائما">
-<!ENTITY firstrun_sync_subtext "زامن ألسنتك، و كلمات السر و غيرهم المزيد أينما استخدمتها.">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
@@ -33,21 +29,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "تخلص من الضوضاء">
 <!ENTITY firstrun_readerview_subtext "استخدم منظور القارئ لتسهيل القراءة \u2014 حتى بدون اتّصال.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "أنت">
 <!ENTITY firstrun_account_message "أتملك &brandShortName; على جهاز آخر؟">
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "العلامات">
 <!ENTITY  history_title "التأريخ">
 
 <!ENTITY  switch_to_tab "انتقل للسان">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "يعرض نسخة محفوطة">
 
 <!ENTITY  crash_reporter_title "مبلغ انهيارات &brandShortName;">
@@ -82,9 +78,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "لقطات الشاشة">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "قائمة القراءة">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; من العناصر">
 <!ENTITY bookmark_folder_one_item "عنصر واحد">
 <!ENTITY bookmark_parent_folder "المجلد الأب">
@@ -134,27 +130,27 @@
 <!ENTITY settings_title "الإعدادات">
 <!ENTITY pref_category_general "عام">
 <!ENTITY pref_category_general_summary3 "الرئيسية، و اللغة، و طابور الألسنة">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "اللغة">
 <!ENTITY pref_category_language_summary "غيّر لغة المتصفح">
 <!ENTITY pref_browser_locale "لغة المتصفّح">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "مبدئي النظام">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "أضِف إلى &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "علّم">
 <!ENTITY overlay_share_bookmark_btn_label_already "مُعلّم من قبل">
 <!ENTITY overlay_share_send_other "أرسله إلى أجهزة أخرى">
@@ -236,8 +232,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "أدخل عنوانًا أو عبارة بحث">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "عام">
 <!ENTITY pref_header_search "البحث">
 <!ENTITY pref_header_privacy_short "الخصوصية">
@@ -251,10 +247,10 @@
 <!ENTITY pref_cookies_accept_all "مفعّلة">
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "حافظ البيانات">
 <!ENTITY pref_category_media "الوسائط">
 <!ENTITY pref_category_developer_tools "أدوات المطورين">
@@ -278,14 +274,14 @@
 
 <!ENTITY pref_whats_new_notification "ما الجديد في &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "تعرف على الميزات الجديدة بعد التحديث">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "المزايا التجريبية">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "ألسنة مخصصة">
 <!ENTITY pref_custom_tabs_summary3 "اسمح للتطبيقات بفتح المواقع مستخدمة نسخة مخصصة من &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
@@ -325,10 +321,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "لسان واحد ينتظر">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY tab_queue_notification_settings "لإمكانية \&quot;فتح عدة روابط\&quot; تحتاج لإعطاء &brandShortName; صلاحية \u0027الرسم فوق التطبيقات الأخرى\u0027">
+<!ENTITY tab_queue_notification_settings "لإمكانية \&quot;فتح عدة روابط\&quot; تحتاج لإعطاء &brandShortName; صلاحية \&apos;الرسم فوق التطبيقات الأخرى\&apos;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -360,9 +356,9 @@
 <!ENTITY pref_restore_tabs "استعد الألسنة">
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 <!ENTITY pref_use_system_font_size "استخدم حجم خط النّظام">
 <!ENTITY pref_use_system_font_size_summary "غيّر حجم محتوى الوِب بناء على حجم خط النظام">
 
@@ -422,13 +418,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "تقرير حالة &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "يشارك بيانات مع &vendorShortName; عن حالة المتصفح و يساعدك في فهم أدائه">
 <!ENTITY datareporting_abouthr_title "اعرض تقرير الحالة">
@@ -447,8 +443,8 @@
 <!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
 <!ENTITY pref_update_autodownload_always "دائمًا">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "مساعدة">
 
 <!ENTITY quit "أغلق">
@@ -476,16 +472,16 @@
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
 <!ENTITY set_image_path_fail "تعذر حفظ الصورة">
 <!ENTITY set_image_chooser_title "استخدم الصورة ك‍">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "ابحث في الصفحة">
 <!ENTITY find_prev "السابق">
 <!ENTITY find_next "التالي">
 <!ENTITY find_close "أغلِق">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "يُرسل إلى جهاز">
 <!ENTITY media_play "شغّل">
 <!ENTITY media_pause "ألبِث">
@@ -507,10 +503,10 @@
 <!ENTITY contextmenu_top_sites_pin "ثبّت الموقع">
 <!ENTITY contextmenu_top_sites_unpin "افصل الموقع">
 <!ENTITY contextmenu_add_search_engine "أضِف محرك بحث">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[لا اسم مستخدم]">
 <!ENTITY doorhanger_login_edit_title "حرّر الولوج">
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
@@ -520,23 +516,23 @@
 <!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
 <!ENTITY doorhanger_login_select_action_text "اختر ولوجا آخر">
 <!ENTITY doorhanger_login_select_title "انسخ كلمة السر من">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
 <!ENTITY pref_scroll_title_bar_summary2 "أخفِ شريط أدوات &brandShortName; عند تمرير الصفحة لأسفل">
 
 <!ENTITY pref_tab_queue_title3 "صف ألسنة">
 <!ENTITY pref_tab_queue_summary4 "احفظ الروابط حتّى أفتح &brandShortName; ثانية">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-
 <!ENTITY pref_compact_tabs "ألسنة متضامة">
 <!ENTITY pref_compact_tabs_summary2 "رتب الألسنة في أعمدة في الوضع العرْضي">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "أزِيلت الصفحة">
 
 <!ENTITY bookmark_edit_title "حرّر العلامة">
@@ -545,15 +541,15 @@
 <!ENTITY bookmark_edit_location "المكان">
 <!ENTITY bookmark_edit_keyword "كلمة مفتاحية">
 <!ENTITY bookmark_select_folder "اختر مجلدًا">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "إعدادات الموقع">
 <!ENTITY site_settings_cancel       "ألغِ">
 <!ENTITY site_settings_clear        "امسح">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "إجراءات إضافية">
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
@@ -574,9 +570,9 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "أضف موقعًا">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "صفحة &brandShortName; الرئيسية">
 <!ENTITY home_history_title "التأريخ">
 <!ENTITY home_synced_devices_smartfolder "الأجهزة المُزامنة">
@@ -597,19 +593,19 @@
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "تذكّر: استخدام &formatS1;لسان خاص جديد&formatS2; لن يحفظ تأريخ التصفح.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "لم يُعثر على أي محتوى لهذه اللوحة.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "عُد إلى &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; من الأجهزة مخفية">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -617,9 +613,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "أظهر الأجهزة المختارة">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 <!ENTITY home_pinned_site "ثُبّت الموقع">
 <!ENTITY home_unpinned_site "أُزيل تثبيت الموقع">
 
@@ -633,8 +629,8 @@
 <!ENTITY filepicker_audio_title "اختر أو سجل صوتًا">
 <!ENTITY filepicker_image_title "اختر أو التقط صورة">
 <!ENTITY filepicker_video_title "اختر أو سجل فديو">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "تتصل ب‍">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -650,21 +646,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال آمن">
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
 <!ENTITY identity_connection_chromeui "هذه صفحة &brandShortName; آمنة">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "حجب &brandShortName; محتوى غير آمن في هذه الصفحة.">
 <!ENTITY mixed_content_blocked_some1 "حجب &brandShortName; بعض المحتوى غير الآمن في هذه الصفحة.">
 <!ENTITY mixed_content_display_loaded1 "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
 <!ENTITY mixed_content_protection_disabled1 "لقد أوقفت الحماية من المحتوى غير الآمن.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "الحماية من التعقّب">
 <!ENTITY doorhanger_tracking_state_enabled "مفعّلة">
 <!ENTITY doorhanger_tracking_state_disabled "مُعطّلة">
 <!ENTITY doorhanger_tracking_message_enabled1 "حُجبت محاولات لتعقّب سلوكك على الإنترنت.">
 <!ENTITY doorhanger_tracking_message_disabled2 "في هذه الصفحة عناصر قد تتعقّب التصفّح.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "اطّلع على المزيد">
 <!ENTITY enable_protection "فعّل الحماية">
 <!ENTITY disable_protection "عطّل الحماية">
@@ -686,15 +682,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "ابحث باستخدام &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "ابحث في &formatS1; عن &formatS2;">
 
 <!ENTITY searchable_description "العلامات والتأريخ">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "يتوفر تحديث &brandShortName;">
 <!ENTITY updater_start_select2 "المس لبدء التنزيل">
 
@@ -705,15 +701,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title3 "تم تنزيل تحديث &brandShortName;">
 <!ENTITY updater_apply_select3 "المس للتنصيب">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "لتنزيل الملفات و التحديثات، اسمح ل‍ &brandShortName; بالوصول إلى مساحة التخزين.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "اسمح">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "جلسة ضيف جديدة">
 <!ENTITY exit_guest_session "اخرج من جلسة الضيف">
 <!ENTITY guest_session_dialog_continue "واصِل">
@@ -725,37 +721,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 <!ENTITY exit_guest_session_text "ستُحذف بيانات تصفح هذه الجلسة.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "قائمة">
 <!ENTITY actionbar_done "تم">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "تكلّم الآن">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "آخر مزامنة: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "تاريخ آخر مزامنة: أبدًا">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "سيفتح هذا الرابط في &formatS;. أمتأكّد أنّك تريد مغادرة التصفح الخاص؟">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -765,18 +761,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "أتريد مغادرة التصفح الخاص؟">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "يمسح ضوئيا بحثا عن رمز QR معروض على الجهاز الآخر">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "الإضافات">
 <!ENTITY restrictable_feature_addons_installation_description "أضف مزايا أو خصائص إلى فيرفكس. ملاحظة: يمكن للإضافات تعطيل قيود معينة.">
 <!ENTITY restrictable_feature_private_browsing "التصفح الخاص">
@@ -789,9 +785,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "يسمح لأفراد العائلة بالتخاطب في نفس اللحظة عبر مواقع الوب.">
 <!ENTITY restrictable_feature_block_list "قائمة الحجب">
 <!ENTITY restrictable_feature_block_list_description "احجب المواقع التي تتضمن محتويات حساسة.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "فَيَرفُكس: عن متصفحك">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "فَيَرفُكس: خصّص من خلال الإضافات">
@@ -801,17 +797,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "مساعدة و دعم فيَرفُكس لملفات الإعدادات المقيّدَة على ألواح أندرويد">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "تعلم الوب: صانع الوب من موزيلا">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "للأسف لا يعمل &brandShortName; على هذا الجهاز (&formatS2;، &formatS1;). يرجى تثبيت الإصدار الصحيح.">
 
 <!ENTITY eol_notification_title2 "لن يُحدث &brandShortName; بعد الآن">
 <!ENTITY eol_notification_summary "انقر لتطلع على المزيد">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; مُحدَّث">
 <!ENTITY whatsnew_notification_summary "اعرف ما الجديد في هذا الإصدار">
 
@@ -827,17 +823,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "المواقع الأكثر زيارة">
 <!ENTITY activity_stream_highlights "أهم الأحداث">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "معلّم">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "مُزار">
+
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
 <!ENTITY activity_stream_dismiss "أزل">
 <!ENTITY activity_stream_delete_history "احذف من التأريخ">
 
