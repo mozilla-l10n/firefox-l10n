@@ -16,7 +16,11 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; sa da'uit ganikaj ni'ñanjt huin ">
 <!ENTITY rights.intro-point1b "Si nuguan' Mozilla">
+<!ENTITY rights.intro-point1c ". Sa gatâ huin si ga'ue garasunt ni duguchint &brandShortName; riña a'ngo dugui'. Ga'ue ganadunat daj ga si kodigo  &brandShortName; daj gani ruat. Si nuguan' Mozilla huin si ga'ué garasut sa nagi'iaj ma'ant.">
 
+<!ENTITY rights.intro-point2-a "Si ga'ue riki Fundasión Mozilla nej sa huin si'iaj ma huenda nagi'iaj si'iat, daj run' si da'nga' Firefox. NI a'ngô nej sa ma na.">
+<!ENTITY rights.intro-point2-b "ñuna">
+<!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
 
