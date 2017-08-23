@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Дадаць закладку на старонку">
 <!ENTITY editThisBookmarkCmd.label "Правіць гэтую закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "в">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Шукаць больш сэрвісаў супольнага захоўвання…">
-<!ENTITY sharePageCmd.label "Падзяліцца старонкай">
-<!ENTITY sharePageCmd.commandkey "П">
-<!ENTITY sharePageCmd.accesskey "с">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Падзяліцца гэтай спасылкай">
-<!ENTITY shareLink.accesskey "а">
-<!ENTITY shareImage.label "Падзяліцца гэтай выявай">
-<!ENTITY shareImage.accesskey "ц">
-<!ENTITY shareSelect.label "Падзяліцца вылучэннем">
-<!ENTITY shareSelect.accesskey "ц">
-<!ENTITY shareVideo.label "Падзяліцца гэтым відэа">
-<!ENTITY shareVideo.accesskey "ц">
+
 <!ENTITY feedsMenu2.label "Падпісацца на гэту старонку">
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
@@ -244,11 +229,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Закладкі">
-<!ENTITY bookmarksMenuButton.other.label "Іншыя закладкі">
-<!ENTITY bookmarksMenuButton.mobile.label "Мабільныя закладкі">
+<!ENTITY bookmarksMenuButton.other.label    "Іншыя закладкі">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мабільныя закладкі">
 <!ENTITY viewBookmarksSidebar2.label        "Паказаць бакавую панэль закладак">
+<!ENTITY hideBookmarksSidebar.label         "Схаваць бакавую панэль закладак">
 <!ENTITY viewBookmarksToolbar.label         "Паказаць паліцу закладак">
+<!ENTITY hideBookmarksToolbar.label         "Схаваць бакавую панэль закладак">
 <!ENTITY searchBookmarks.label              "Шукаць у закладках">
+<!ENTITY bookmarkingTools.label             "Прылады закладак">
 
 <!ENTITY containersMenu.label "Кантэйнеры">
 
@@ -262,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Прылады">
-<!ENTITY toolsMenu.accesskey          "л"> 
+<!ENTITY toolsMenu.accesskey          "л">
 
 <!ENTITY keywordfield.label           "Дадаць ключавое слова для гэтага пошуку…">
 <!ENTITY keywordfield.accesskey       "к">
@@ -281,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Даследаваць элемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
 
-<!ENTITY fileMenu.label         "Файл"> 
+<!ENTITY fileMenu.label         "Файл">
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Новая картка кантэйнера">
 <!ENTITY newUserContext.accesskey         "К">
@@ -292,45 +280,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "а">
 <!ENTITY newNonRemoteWindow.label   "Новае не-e10s акно">
 
-<!ENTITY editMenu.label         "Праўка"> 
-<!ENTITY editMenu.accesskey       "р"> 
-<!ENTITY undoCmd.label            "Адмяніць">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "м"> 
-<!ENTITY redoCmd.label            "Вярнуць">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "р"> 
-<!ENTITY cutCmd.label           "Выразаць">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "р"> 
-<!ENTITY copyCmd.label            "Капіяваць">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "К"> 
-<!ENTITY pasteCmd.label           "Уставіць">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "У"> 
-<!ENTITY deleteCmd.label          "Выдаліць">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "д"> 
-<!ENTITY selectAllCmd.label         "Вылучыць усё">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "ё"> 
+<!ENTITY editMenu.label         "Праўка">
+<!ENTITY editMenu.accesskey       "р">
+<!ENTITY undoCmd.label            "Адмяніць">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "м">
+<!ENTITY redoCmd.label            "Вярнуць">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "р">
+<!ENTITY cutCmd.label           "Выразаць">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "р">
+<!ENTITY copyCmd.label            "Капіяваць">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label           "Уставіць">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "У">
+<!ENTITY deleteCmd.label          "Выдаліць">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "д">
+<!ENTITY selectAllCmd.label         "Вылучыць усё">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "ё">
 <!ENTITY preferencesCmd2.label       "Налады">
 <!ENTITY preferencesCmd2.accesskey     "Н">
 <!ENTITY preferencesCmdUnix.label       "Налады">
-<!ENTITY preferencesCmdUnix.accesskey     "л"> 
+<!ENTITY preferencesCmdUnix.accesskey     "л">
 
 <!ENTITY clearRecentHistory.label               "Ачысціць нядаўнюю гісторыю…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "А">
 
-<!ENTITY viewMenu.label         "Прагляд"> 
-<!ENTITY viewMenu.accesskey       "П"> 
-<!ENTITY viewToolbarsMenu.label       "Паліцы прылад"> 
-<!ENTITY viewToolbarsMenu.accesskey     "л"> 
+<!ENTITY viewMenu.label         "Прагляд">
+<!ENTITY viewMenu.accesskey       "П">
+<!ENTITY viewToolbarsMenu.label       "Паліцы прылад">
+<!ENTITY viewToolbarsMenu.accesskey     "л">
 <!ENTITY viewSidebarMenu.label "Бакавая панэль">
 <!ENTITY viewSidebarMenu.accesskey "п">
-<!ENTITY viewCustomizeToolbar.label       "Уладкаваць…"> 
+<!ENTITY viewCustomizeToolbar.label       "Уладкаваць…">
 <!ENTITY viewCustomizeToolbar.accesskey     "л">
 <!ENTITY overflowCustomizeToolbar.label       "Уладкаванне паліцы прылад…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "У">
@@ -531,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "А">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Праглядзець зыходнік MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "л">
 <!ENTITY viewPageSourceCmd.label      "Праглядзець зыходнік старонкі">
@@ -598,7 +586,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Капіяваць спасылку на выяву">
 <!ENTITY copyImageCmd.accesskey       "а">
 <!ENTITY copyImageContentsCmd.label   "Капіяваць выяву">
-<!ENTITY copyImageContentsCmd.accesskey  "я"> 
+<!ENTITY copyImageContentsCmd.accesskey  "я">
 <!ENTITY copyVideoURLCmd.label        "Капіяваць спасылку на відэа">
 <!ENTITY copyVideoURLCmd.accesskey    "К">
 <!ENTITY copyAudioURLCmd.label        "Капіяваць спасылку на аўдыё">
@@ -694,13 +682,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Выйсці з &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Выйсці"> 
+<!ENTITY quitApplicationCmd.label       "Выйсці">
 <!ENTITY quitApplicationCmd.accesskey   "В">
 <!ENTITY quitApplicationCmdMac2.label   "Выйсці з &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Закрыць">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Закрыць">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "ч">
 
 <!ENTITY toggleMuteCmd.key              "Ь">
@@ -836,15 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Кіраваць сэрвісамі…">
-
-<!ENTITY social.directory.label "Каталог актывацый">
-<!ENTITY social.directory.text "Вы можаце актываваць сэрвісы сумеснага доступу з каталога.">
-<!ENTITY social.directory.button "Перанесці мяне туды!">
-<!ENTITY social.directory.introText "Націсніце на службу, каб дадаць яе ў &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Паказаць больш">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Дадатковыя прылады і магчымасці">
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце з тысяч дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
@@ -991,5 +970,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
 
-<!ENTITY sendToDevice.label2 "Даслаць на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
