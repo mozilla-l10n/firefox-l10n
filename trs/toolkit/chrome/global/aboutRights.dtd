@@ -15,6 +15,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; sa da'uit ganikaj ni'ñanjt huin ">
+<!ENTITY rights.intro-point1b "Si nuguan' Mozilla">
 
 
 <!-- point 2.5 text for official branded builds -->
