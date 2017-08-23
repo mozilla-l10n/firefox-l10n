@@ -366,6 +366,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editar mensagem de rascunho">
 <!ENTITY editDraftMsgCmd.accesskey "r">
+<!ENTITY newMsgFromTemplateCmd.label "Nova mensagem de modelo">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Criar filtro a partir da mensagem...">
 <!ENTITY createFilter.accesskey "f">
@@ -735,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nova mensagem de modelo">
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "j">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
