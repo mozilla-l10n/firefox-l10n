@@ -4,8 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "歡迎">
 <!ENTITY firstrun_urlbar_message2 "感謝選用 &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "來自 Mozilla 的現代行動瀏覽器。Mozilla 是一個致力於自由與開放 Web 的非營利組織。">
 <!ENTITY firstrun_panel_title_privacy "隱私權">
 <!ENTITY firstrun_privacy_message "上網時，彷彿沒有人看著你。">
+<!ENTITY firstrun_privacy_subtext "含有追蹤保護的隱私瀏覽模式會在您上網時封鎖追蹤器，並且在結束瀏覽後，自動忘記您的瀏覽紀錄。">
 <!ENTITY firstrun_panel_title_customize "自訂">
 <!ENTITY firstrun_customize_message "讓 &brandShortName; 有您的風格。">
 <!ENTITY firstrun_bookmarks_title "瀏覽紀錄">
@@ -16,6 +18,7 @@
 <!ENTITY firstrun_data_subtext2 "關閉圖片載入，開啟網站時花費更少流量。">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "從結束的地方繼續。">
+<!ENTITY firstrun_sync_subtext2 "使用 Sync 來尋找您在任何裝置中，儲存到 &brandShortName; 的書籤、密碼，還有更多東西。">
 <!ENTITY firstrun_signin_message "開始連線使用">
 <!ENTITY firstrun_signin_button "登入至 Sync">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
