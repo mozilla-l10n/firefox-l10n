@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ri q'olonel taq ruxaq k'amaya'l, enuk'un richin yatkiq'öl chuqa' richin nab'än jun k'ayewal, achi'el kiyakik kema', naq'alajisaj ri atzijol, achi'el ewan taq tzij, kajilab'al taq oyonib'äl o ch'utit'im pwäq.</p><p>Natz'ib'aj xab'achike chi na'oj pa re ruxaq k'amaya'l re', rik'in jub'a' nupo' ri' achi'el jun releq'axik k'utwachib'äl o jun chik chi eläq'.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Re ruxaq k'amaya'l re' rik'in jub'a'  k'o nimachiköp chupam">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Ri Firefox xuq'ät re ruxaq k'amaya'l re', ruma nitikïr yeruyäk kan itzel taq chokoy ri nikeleq'aj o nikiyüj awetamab'al (achi'el ri taq awachib'al, taq ewan atzij, taq atzijol chuqa' ch'utit'im pwäq).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; xuq'ät re ruxaq re' ruma rik'in jub'a' yeruyäk kan itzel taq chokoy, ri nikeleq'aj o yekiyüj awetamab'al (achi'el, taq wachib'äl, taq ewan tzij, taq rutzijol chuqa' ch'utit'im pwäq).">
