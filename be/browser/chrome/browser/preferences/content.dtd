@@ -16,20 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Апавяшчэнні">
 <!ENTITY  notificationSettingsButton.label                      "Налады…">
-<!ENTITY  notificationSettingsButton.accesskey                  "н">
+<!ENTITY  notificationSettingsButton.accesskey                  "а">
 <!ENTITY  notificationPermissionsLearnMore.label                "Падрабязней">
 
 <!ENTITY  locationPermissions.label                             "Месцазнаходжанне">
 <!ENTITY  locationSettingsButton.label                          "Налады…">
-<!ENTITY  locationSettingsButton.accesskey                      "м">
+<!ENTITY  locationSettingsButton.accesskey                      "а">
 
 <!ENTITY  cameraPermissions.label                               "Камера">
 <!ENTITY  cameraSettingsButton.label                            "Налады…">
-<!ENTITY  cameraSettingsButton.accesskey                        "к">
+<!ENTITY  cameraSettingsButton.accesskey                        "а">
 
 <!ENTITY  microphonePermissions.label                           "Мікрафон">
 <!ENTITY  microphoneSettingsButton.label                        "Налады…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "м">
+<!ENTITY  microphoneSettingsButton.accesskey                    "а">
 
 <!ENTITY  fontsAndColors.label        "Шрыфты &amp; колеры">
 
