@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webová stránka <span id='unwanted_sitename'/> bola označená ako stránka s nevyžiadaným softvérom a na základe nastavení zabezpečenia bola zablokovaná.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Stránky s nevyžiadaným softvérom sa pokúšajú inštalovať softér, ktorý môže byť klamlivý a môže ovplyvňovať rôznymi spôsobmi celý systém.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Táto stránka môže obsahovať malvér">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Prehliadač &brandShortName; zablokoval túto stránku, pretože by sa mohla pokúsiť nainštalovať do vášho zariadenia nebezpečné aplikácie, ktoré by mohli ukradnúť alebo odstrániť vaše údaje (napríklad fotky, heslá, správy či údaje kreditných kariet).">
