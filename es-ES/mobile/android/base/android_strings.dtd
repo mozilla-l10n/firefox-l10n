@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
-
-<!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encuentre todo más rápido con las útiles sugerencias de búsqueda.">
+<!ENTITY firstrun_urlbar_message2 "Gracias por elegir &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Un navegador móvil moderno de Mozilla, la organización sin ánimo de lucro comprometida con una Web libre y abierta.">
+<!ENTITY firstrun_panel_title_privacy "Privacidad">
+<!ENTITY firstrun_privacy_message "Navegue como si nadie le observara">
+<!ENTITY firstrun_privacy_subtext "La navegación privada con protección contra el rastreo bloquea los rastreadores mientras navega y no recuerda su historial cuando termina de navegar.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Sus sitios preferidos, a la vista">
 <!ENTITY firstrun_bookmarks_subtext "Obtenga resultados de sus marcadores e historial cuando busque.">
@@ -13,8 +15,6 @@
 <!ENTITY firstrun_data_message "Menos datos, más ahorro">
 <!ENTITY firstrun_data_subtext2 "Desactive imágenes para usar menos datos en cada sitio que visite.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, siempre a su lado">
-<!ENTITY firstrun_sync_subtext "Sincronice sus pestañas, contraseñas y más donde quiera usarlo.">
 <!ENTITY firstrun_signin_message "Conéctese y en marcha">
 <!ENTITY firstrun_signin_button "Inicie sesión en Sync">
 <!ENTITY  onboard_start_button_browser "Comenzar a navegar">
@@ -355,7 +355,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \&quot;Salir\&quot; desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
