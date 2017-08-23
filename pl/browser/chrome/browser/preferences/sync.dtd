@@ -52,10 +52,10 @@
 <!ENTITY signedOut.caption "Zabierz swoją sieć ze sobą">
 <!ENTITY signedOut.description "Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.">
 <!ENTITY signedOut.accountBox.title "&syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create "Utwórz">
-<!ENTITY signedOut.accountBox.create.accesskey "">
-<!ENTITY signedOut.accountBox.signin "Zaloguj się">
-<!ENTITY signedOut.accountBox.signin.accesskey "">
+<!ENTITY signedOut.accountBox.create2 "Nie masz konta? Utwórz je…">
+<!ENTITY signedOut.accountBox.create2.accesskey "">
+<!ENTITY signedOut.accountBox.signin2 "Zaloguj się">
+<!ENTITY signedOut.accountBox.signin2.accesskey "">
 
 <!ENTITY signedIn.settings.label "Ustawienia synchronizacji">
 <!ENTITY signedIn.settings.description "Wybierz, co synchronizować pomiędzy urządzeniami używając programu &brandShortName;.">
