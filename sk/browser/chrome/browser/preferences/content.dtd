@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Výnimky…">
 <!ENTITY  popupExceptions.accesskey                             "k">
 
-<!ENTITY  permissionSettingsButton2.label                       "Nastavenia…">
-
 <!ENTITY  notificationPermissions.label                         "Upozornenia">
+<!ENTITY  notificationSettingsButton.label                      "Nastavenia…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
 <!ENTITY  notificationPermissionsLearnMore.label                "Ďalšie informácie">
 
 <!ENTITY  locationPermissions.label                             "Umiestnenie">
+<!ENTITY  locationSettingsButton.label                          "Nastavenia…">
 <!ENTITY  locationSettingsButton.accesskey                      "e">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Nastavenia…">
 <!ENTITY  cameraSettingsButton.accesskey                        "a">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofón">
+<!ENTITY  microphoneSettingsButton.label                        "Nastavenia…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "o">
 
 <!ENTITY  fontsAndColors.label        "Písma a farby">

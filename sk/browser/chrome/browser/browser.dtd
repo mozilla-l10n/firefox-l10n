@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Pridať medzi záložky">
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Vyhľadať ďalšie služby zdieľania…">
-<!ENTITY sharePageCmd.label "Zdieľať túto stránku">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "Z">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Zdieľať tento odkaz">
-<!ENTITY shareLink.accesskey "e">
-<!ENTITY shareImage.label "Zdieľať tento obrázok">
-<!ENTITY shareImage.accesskey "Z">
-<!ENTITY shareSelect.label "Zdieľať označené">
-<!ENTITY shareSelect.accesskey "Z">
-<!ENTITY shareVideo.label "Zdieľať toto video">
-<!ENTITY shareVideo.accesskey "Z">
+
 <!ENTITY feedsMenu2.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
@@ -244,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
-<!ENTITY bookmarksMenuButton.other.label "Ostatné záložky">
-<!ENTITY bookmarksMenuButton.mobile.label "Záložky mobilného Firefoxu">
+<!ENTITY bookmarksMenuButton.other.label    "Ostatné záložky">
+<!ENTITY bookmarksMenuButton.mobile.label   "Záložky mobilného Firefoxu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 <!ENTITY searchBookmarks.label              "Hľadať v záložkách">
@@ -262,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Nástroje">
-<!ENTITY toolsMenu.accesskey          "N"> 
+<!ENTITY toolsMenu.accesskey          "N">
 
 <!ENTITY keywordfield.label           "Pridať kľúčové slovo pre toto vyhľadávanie…">
 <!ENTITY keywordfield.accesskey       "d">
@@ -281,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
 
-<!ENTITY fileMenu.label         "Súbor"> 
+<!ENTITY fileMenu.label         "Súbor">
 <!ENTITY fileMenu.accesskey       "S">
 <!ENTITY newUserContext.label             "Nová kontajnerová karta">
 <!ENTITY newUserContext.accesskey         "k">
@@ -292,45 +277,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "k">
 <!ENTITY newNonRemoteWindow.label   "Nové okno v režime Non-e10s">
 
-<!ENTITY editMenu.label         "Upraviť"> 
-<!ENTITY editMenu.accesskey       "U"> 
-<!ENTITY undoCmd.label            "Späť">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "S"> 
-<!ENTITY redoCmd.label            "Znovu">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "Z"> 
-<!ENTITY cutCmd.label           "Vystrihnúť">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "V"> 
-<!ENTITY copyCmd.label            "Kopírovať">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Prilepiť">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Odstrániť">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "O"> 
-<!ENTITY selectAllCmd.label         "Vybrať všetko">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "a"> 
+<!ENTITY editMenu.label         "Upraviť">
+<!ENTITY editMenu.accesskey       "U">
+<!ENTITY undoCmd.label            "Späť">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "S">
+<!ENTITY redoCmd.label            "Znovu">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "Z">
+<!ENTITY cutCmd.label           "Vystrihnúť">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "V">
+<!ENTITY copyCmd.label            "Kopírovať">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Prilepiť">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Odstrániť">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "O">
+<!ENTITY selectAllCmd.label         "Vybrať všetko">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
 <!ENTITY preferencesCmd2.label       "Možnosti">
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Možnosti">
-<!ENTITY preferencesCmdUnix.accesskey     "M"> 
+<!ENTITY preferencesCmdUnix.accesskey     "M">
 
 <!ENTITY clearRecentHistory.label               "Vymazať históriu prehliadania…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Zobraziť"> 
-<!ENTITY viewMenu.accesskey       "Z"> 
-<!ENTITY viewToolbarsMenu.label       "Panely s nástrojmi"> 
-<!ENTITY viewToolbarsMenu.accesskey     "P"> 
+<!ENTITY viewMenu.label         "Zobraziť">
+<!ENTITY viewMenu.accesskey       "Z">
+<!ENTITY viewToolbarsMenu.label       "Panely s nástrojmi">
+<!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Bočný panel">
 <!ENTITY viewSidebarMenu.accesskey "B">
-<!ENTITY viewCustomizeToolbar.label       "Prispôsobiť…"> 
+<!ENTITY viewCustomizeToolbar.label       "Prispôsobiť…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Upraviť panel nástrojov…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "U">
@@ -531,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "b">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobraziť zdrojový kód výberu">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Zobraziť zdrojový kód MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label      "Zobraziť zdrojový kód stránky">
@@ -598,7 +583,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
 <!ENTITY copyImageCmd.accesskey       "e">
 <!ENTITY copyImageContentsCmd.label   "Kopírovať obrázok">
-<!ENTITY copyImageContentsCmd.accesskey  "v"> 
+<!ENTITY copyImageContentsCmd.accesskey  "v">
 <!ENTITY copyVideoURLCmd.label        "Kopírovať adresu videa">
 <!ENTITY copyVideoURLCmd.accesskey    "e">
 <!ENTITY copyAudioURLCmd.label        "Kopírovať adresu zvuku">
@@ -694,13 +679,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ukončiť prehliadač &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ukončiť prehliadač"> 
+<!ENTITY quitApplicationCmd.label       "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončiť &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "U">
 
-<!ENTITY closeCmd.label                 "Zavrieť">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Zavrieť">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +821,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Synchroni&#xad;zácia">
 
-<!ENTITY social.addons.label "Spravovať služby…">
-
-<!ENTITY social.directory.label "Katalóg aktivácií">
-<!ENTITY social.directory.text "Služby zdieľania môžete aktivovať z katalógu.">
-<!ENTITY social.directory.button "Prejsť na katalóg">
-<!ENTITY social.directory.introText "Kliknutím na ikonu služby ju pridáte do prehliadača &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Zobraziť ďalšie služby">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ďalšie nástroje a funkcie">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
@@ -991,5 +967,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
 
-<!ENTITY sendToDevice.label2 "Odoslať do zariadenia">
+<!ENTITY sendToDevice.label3 "Odoslať stránku do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
