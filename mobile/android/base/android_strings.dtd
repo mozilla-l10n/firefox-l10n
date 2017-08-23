@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
-
-<!ENTITY firstrun_urlbar_message "Víta vás &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Nájdite hľadané výrazy rýchlejšie pomocou užitočných návrhov vyhľadávania.">
+<!ENTITY firstrun_urlbar_message2 "Ďakujeme, že ste si vybrali &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Moderný mobilný prehliadač od Mozilly - neziskovej organizácie, odhodlanej chrániť slobodný a otvorený web.">
+<!ENTITY firstrun_panel_title_privacy "Súkromie">
+<!ENTITY firstrun_privacy_message "Prehliadajte, akoby sa nikto nepozeral">
+<!ENTITY firstrun_privacy_subtext "Súkromné prehliadanie s Ochranou pred sledovaním blokuje sledovacie prvky a po ukončení prehliadania si nebude pamätať históriu.">
+<!ENTITY firstrun_panel_title_customize "Prispôsobenie">
+<!ENTITY firstrun_customize_message "Prispôsobte si svoj prehliadač &brandShortName;.">
+<!ENTITY firstrun_customize_subtext "Prispôsobte si svoj prehliadač &brandShortName; pomocou doplnkov. Blokujte reklamy, pridajte si doň funkcie alebo si vyberte tému vzhľadu, ktorá korešponduje s vašou osobnosťou.">
 <!ENTITY firstrun_bookmarks_title "História">
 <!ENTITY firstrun_bookmarks_message "Všetky vaše obľúbené stránky, vpredu a v strede">
 <!ENTITY firstrun_bookmarks_subtext "Pri vyhľadávaní získavate výsledky zo záložiek a histórie.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Menej prenesených dát, väčšia úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázkov prenesiete menej dát na každej stránke, ktorú navštívite.">
 <!ENTITY firstrun_sync_title "Synchronizácia">
-<!ENTITY firstrun_sync_message "&brandShortName;, vždy na vašej strane">
-<!ENTITY firstrun_sync_subtext "Synchronizujte svoje záložky, heslá a ďalšie položky všade, kde ho používate.">
+<!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
+<!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
 <!ENTITY firstrun_signin_message "Pripojte sa a začnite">
 <!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
@@ -328,7 +333,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Ak chcete \u0022otvoriť viacero odkazov naraz\u0022, povoľte pre &brandShortName; oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos;">
+<!ENTITY tab_queue_notification_settings "Ak chcete \&quot;otvoriť viacero odkazov naraz\&quot;, povoľte pre &brandShortName; oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Vymazať teraz">
 <!ENTITY pref_clear_on_exit_title3 "Vymazať súkromné údaje pri ukončení">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku \u0022Ukončiť\u0022">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; bude automaticky vymazávať vaše údaje zakaždým, keď v hlavnej ponuke zvolíte položku \&quot;Ukončiť\&quot;">
 <!ENTITY pref_clear_on_exit_dialog_title "Zvoľte údaje, ktoré chcete vymazať">
 <!ENTITY pref_restore_tabs "Obnoviť karty">
 <!ENTITY pref_restore_always "Vždy obnoviť karty">
