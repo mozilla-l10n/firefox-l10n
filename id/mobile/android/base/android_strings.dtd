@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Selamat Datang">
-
-<!ENTITY firstrun_urlbar_message "Selamat datang di &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Temukan lebih cepat dengan pintasan saran pencarian.">
+<!ENTITY firstrun_urlbar_message2 "Terima kasih telah memilih &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Peramban seluler modern dari Mozilla, organisasi nirlaba yang berkomitmen untuk web yang bebas dan terbuka.">
+<!ENTITY firstrun_panel_title_privacy "Privasi">
+<!ENTITY firstrun_privacy_message "Menjelajah seperti tidak ada yang mengawasi">
+<!ENTITY firstrun_privacy_subtext "Penjelajahan Pribadi dengan Perlindungan Pelacakan memblokir pelacak ketika Anda menjelajah dan tidak akan mengingat riwayat Anda saat Anda selesai menjelajah.">
+<!ENTITY firstrun_panel_title_customize "Ubahsuai">
+<!ENTITY firstrun_customize_message "Sesuaikan &brandShortName;.">
+<!ENTITY firstrun_customize_subtext "Ubahsuai &brandShortName; dengan pengaya. Blokir iklan, tambahkan fitur, atau pilih tema baru untuk mencerminkan kepribadian Anda.">
 <!ENTITY firstrun_bookmarks_title "Riwayat">
 <!ENTITY firstrun_bookmarks_message "Favorit Anda, langsung di depan Anda">
 <!ENTITY firstrun_bookmarks_subtext "Dapatkan hasil dari markah dan riwayat Anda saat mencari.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Lebih sedikit data, lebih banyak hematnya">
 <!ENTITY firstrun_data_subtext2 "Nonaktifkan gambar untuk menghemat kuota data di setiap situs yang Anda buka.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, selalu hadir untuk Anda">
-<!ENTITY firstrun_sync_subtext "Sinkronkan tab, sandi, dan yang lain di mana saja Anda menggunakannya.">
+<!ENTITY firstrun_sync_message2 "Mulai dari situasi saat Anda pergi.">
+<!ENTITY firstrun_sync_subtext2 "Gunakan Sync untuk menemukan markah, sandi, dan hal lainnya yang Anda simpan ke &brandShortName; di semua peranti Anda.">
 <!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
 <!ENTITY firstrun_signin_button "Masuk ke Sync">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
