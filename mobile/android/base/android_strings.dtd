@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "მოგესალმებით">
-
-<!ENTITY firstrun_urlbar_message "მოგესალმებათ &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "იპოვეთ ყველაფერი უფრო სწრაფად საძიებო შემოთავაზებების დახმარებით.">
+<!ENTITY firstrun_urlbar_message2 "გმადლობთ, &brandShortName;-ის არჩევისთვის">
 <!ENTITY firstrun_bookmarks_title "ისტორია">
 <!ENTITY firstrun_bookmarks_message "თქვენი სანიშნეები თქვენს წინაა">
 <!ENTITY firstrun_bookmarks_subtext "მიიღეთ შედეგები თქვენი სანიშნეებიდან და ისტორიიდან ძიებისას.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "ნაკლები მონაცემები, მეტი დანაზოგი">
 <!ENTITY firstrun_data_subtext2 "გამორთეთ გამოსახულებები ნებისმიერ საიტზე ნაკლები მონაცემის დასახარჯად.">
 <!ENTITY firstrun_sync_title "სინქრონიზაცია">
-<!ENTITY firstrun_sync_message "&brandShortName;, ყოველთვის თქვენ გვერდით">
-<!ENTITY firstrun_sync_subtext "დაასინქრონეთ თქვენი ჩანართები, პაროლები და ა.შ. ყველგან, სადაც გსურთ მათი გამოყენება.">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
 <!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
@@ -355,7 +351,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ახლავე გასუფთავება">
 <!ENTITY pref_clear_on_exit_title3 "პირადი მონაცემების გასუფთავება გამოსვლისას">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავარი მენიუდან \u0022გასვლის\u0022 დროს">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ავტომატურად გაასუფთავებს თქვენს მონაცემებს მთავარი მენიუდან \&quot;გასვლის\&quot; დროს">
 <!ENTITY pref_clear_on_exit_dialog_title "აირჩიეთ მონაცემები">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
