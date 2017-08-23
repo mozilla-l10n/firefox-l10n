@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Винятки…">
 <!ENTITY  popupExceptions.accesskey                             "В">
 
-<!ENTITY  permissionSettingsButton2.label                       "Налаштування…">
-
 <!ENTITY  notificationPermissions.label                         "Сповіщення">
+<!ENTITY  notificationSettingsButton.label                      "Налаштування…">
 <!ENTITY  notificationSettingsButton.accesskey                  "С">
 <!ENTITY  notificationPermissionsLearnMore.label                "Докладніше">
 
 <!ENTITY  locationPermissions.label                             "Розташування">
+<!ENTITY  locationSettingsButton.label                          "Налаштування…">
 <!ENTITY  locationSettingsButton.accesskey                      "Р">
 
 <!ENTITY  cameraPermissions.label                               "Камера">
+<!ENTITY  cameraSettingsButton.label                            "Налаштування…">
 <!ENTITY  cameraSettingsButton.accesskey                        "К">
 
 <!ENTITY  microphonePermissions.label                           "Мікрофон">
+<!ENTITY  microphoneSettingsButton.label                        "Налаштування…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "М">
 
 <!ENTITY  fontsAndColors.label        "Шрифти і кольори">
