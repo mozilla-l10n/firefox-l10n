@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Zuγer iferdisen inek ismenyifen γer ufeggag n ifecka neγ γer umuγ n tfuli.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
