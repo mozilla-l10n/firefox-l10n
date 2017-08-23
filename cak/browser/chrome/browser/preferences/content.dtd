@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Man relik ta…">
 <!ENTITY  popupExceptions.accesskey                             "r">
 
-<!ENTITY  permissionSettingsButton2.label                       "Taq nuk'ulem…">
-
 <!ENTITY  notificationPermissions.label                         "Taq rutzijol">
+<!ENTITY  notificationSettingsButton.label                      "Taq nuk'ulem…">
 <!ENTITY  notificationSettingsButton.accesskey                  "r">
 <!ENTITY  notificationPermissionsLearnMore.label                "Tetamäx ch'aqa' chik">
 
 <!ENTITY  locationPermissions.label                             "K'ojlib'äl">
+<!ENTITY  locationSettingsButton.label                          "Taq nuk'ulem…">
 <!ENTITY  locationSettingsButton.accesskey                      "K">
 
 <!ENTITY  cameraPermissions.label                               "Elesäy wachib'äl">
+<!ENTITY  cameraSettingsButton.label                            "Taq nuk'ulem…">
 <!ENTITY  cameraSettingsButton.accesskey                        "w">
 
 <!ENTITY  microphonePermissions.label                           "Q'asäy ch'ab'äl">
+<!ENTITY  microphoneSettingsButton.label                        "Taq nuk'ulem…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "c">
 
 <!ENTITY  fontsAndColors.label        "Kiwäch taq tz'ib' chuqa' taq b'onil">
