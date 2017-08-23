@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> adresindeki bu web sayfasının istenmeyen yazılım içerdiği bildirilmiş. Güvenlik tercihlerinize dayanılarak sayfa engellendi.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminiz beklenmedik şekillerde etkileyebilecek yazılımlar yüklemeye çalışır.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Bu sitede kötü amaçlı yazılımlar olabilir">
