@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Схаваць бакавую панэль закладак">
 <!ENTITY searchBookmarks.label              "Шукаць у закладках">
 <!ENTITY bookmarkingTools.label             "Прылады закладак">
+<!ENTITY addBookmarksMenu.label             "Дадаць меню закладак на паліцу прылад">
+<!ENTITY removeBookmarksMenu.label          "Прыбраць меню закладак з паліцы прылад">
 
 <!ENTITY containersMenu.label "Кантэйнеры">
 
@@ -824,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Перацягнуць любімыя элементы на паліцу прылад або ў меню перапаўнення.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце з тысяч дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
@@ -970,4 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
 
+<!ENTITY sendToDevice.label3 "Даслаць старонку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
