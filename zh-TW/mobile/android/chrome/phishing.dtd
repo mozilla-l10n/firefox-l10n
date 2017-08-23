@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "提供不安全軟體的網站可能會嘗試安裝詐騙軟體，並以您預期外的方式影響系統。">
 
 <!ENTITY safeb.blocked.harmfulPage.title "此網站可能含有惡意軟體">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; 已封鎖此頁面載入，因為這張網頁可能會嘗試安裝危險程式，用來偷竊或刪除您的資訊（例如相片、密碼、訊息、信用卡號等）。">
