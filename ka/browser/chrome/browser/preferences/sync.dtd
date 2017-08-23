@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
 <!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
-<!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
-<!ENTITY signedOut.accountBox.create.accesskey  "ქ">
-<!ENTITY signedOut.accountBox.signin  "შესვლა">
-<!ENTITY signedOut.accountBox.signin.accesskey  "ლ">
+<!ENTITY signedOut.accountBox.create2 "არ გაქვთ ანგარიში? შექმენით">
+<!ENTITY signedOut.accountBox.create2.accesskey "ქ">
+<!ENTITY signedOut.accountBox.signin2 "შესვლა">
+<!ENTITY signedOut.accountBox.signin2.accesskey "შ">
 
 <!ENTITY signedIn.settings.label       "სინქრონიზაციის პარამეტრები">
 <!ENTITY signedIn.settings.description "აირჩიეთ, რისი დასინქრონება გსურთ &brandShortName;-ით თქვენს მოწყობილობაზე.">
