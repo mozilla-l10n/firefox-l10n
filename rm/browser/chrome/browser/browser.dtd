@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Agiuntar in segnapagina…">
 <!ENTITY editThisBookmarkCmd.label "Modifitgar quest segnapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Dapli servetschs da cundivider…">
-<!ENTITY sharePageCmd.label "Cundivider questa pagina">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Cundivider questa colliaziun">
-<!ENTITY shareLink.accesskey "c">
-<!ENTITY shareImage.label "Cundivider quest maletg">
-<!ENTITY shareImage.accesskey "s">
-<!ENTITY shareSelect.label "Cundivider la selecziun">
-<!ENTITY shareSelect.accesskey "s">
-<!ENTITY shareVideo.label "Cundivider quest video">
-<!ENTITY shareVideo.accesskey "s">
+
 <!ENTITY feedsMenu2.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abunar questa pagina…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnapaginas">
-<!ENTITY bookmarksMenuButton.other.label "Auters segnapaginas">
-<!ENTITY bookmarksMenuButton.mobile.label "Segnapaginas mobils">
+<!ENTITY bookmarksMenuButton.other.label    "Auters segnapaginas">
+<!ENTITY bookmarksMenuButton.mobile.label   "Segnapaginas mobils">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
+<!ENTITY hideBookmarksSidebar.label         "Zuppentar la trav laterala dals segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
+<!ENTITY hideBookmarksToolbar.label         "Zuppentar la trav d'utensils da segnapaginas">
 <!ENTITY searchBookmarks.label              "Tschertgar en ils segnapaginas">
+<!ENTITY bookmarkingTools.label             "Utensils da segnapaginas">
+<!ENTITY addBookmarksMenu.label             "Agiuntar il menu da segnapaginas a la trav d'utensils">
+<!ENTITY removeBookmarksMenu.label          "Allontanar il menu da segnapaginas da la trav d'utensils">
 
 <!ENTITY containersMenu.label "Containers">
 
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronisar">
 
-<!ENTITY social.addons.label "Administrar servertschs…">
-
-<!ENTITY social.directory.label "Register da servetschs">
-<!ENTITY social.directory.text "Ti pos activar servetschs da cundivider en il register.">
-<!ENTITY social.directory.button "Mussar il register">
-<!ENTITY social.directory.introText "Clicca sin in servetsch per al agiuntar a &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Mussar dapli">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ulteriurs utensils e funcziuns">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Tira tes elements preferids en la trav d'utensils u en il menu extra.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vuls dapli utensils?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Tscherna da millis supplements">
 <!ENTITY customizeMode.restoreDefaults "Restaurar il standard">
@@ -991,5 +973,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Agiuntar a la trav d'adressas">
 <!ENTITY pageAction.removeFromUrlbar.label "Allontanar da la trav d'adressas">
 
-<!ENTITY sendToDevice.label2 "Trametter ad in apparat">
+<!ENTITY sendToDevice.label3 "Trametter la pagina ad in apparat">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
