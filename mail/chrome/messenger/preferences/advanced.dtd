@@ -7,11 +7,11 @@
 <!ENTITY itemUpdate.label        "Frissítés">
 <!ENTITY itemNetworking.label    "Hálózat és lemezterület">
 <!ENTITY itemCertificates.label  "Tanúsítványok">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
-
+<!ENTITY dateTimeFormatting.label      "Dátum és idő formázás">
 <!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Üzenettároló és típus új fiókokhoz:">
@@ -38,8 +38,8 @@
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények…">
 <!ENTITY showReturnReceipts.accesskey  "T">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
 <!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak az e-mail kliens teljesítményéről, a felhasználásról, a hardverről és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
 <!ENTITY enableTelemetry.label           "Telemetria bekapcsolása">
@@ -51,12 +51,12 @@
 <!ENTITY enableCrashReporter.label       "Hibajelentő bekapcsolása">
 <!ENTITY enableCrashReporter.accesskey   "H">
 <!ENTITY crashReporterLearnMore.label    "További tudnivalók">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "&brandShortName; frissítések:">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -77,8 +77,8 @@
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Beállítások…">
 <!ENTITY showSettings.accesskey        "B">
 <!ENTITY proxiesConfigure.label        "A &brandShortName; internetkapcsolatának megadása">
@@ -92,13 +92,13 @@
 <!ENTITY offlineCompactFolders.label     "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB összesen">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Legfeljebb">
 <!ENTITY useCacheBefore.accesskey        "L">
 <!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
@@ -106,8 +106,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
 <!ENTITY certs.auto                      "Automatikus választás">
 <!ENTITY certs.auto.accesskey            "u">
