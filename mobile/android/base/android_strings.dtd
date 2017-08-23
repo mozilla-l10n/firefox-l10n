@@ -4,6 +4,8 @@
 
 <!ENTITY firstrun_panel_title_welcome "მოგესალმებით">
 <!ENTITY firstrun_urlbar_message2 "გმადლობთ, &brandShortName;-ის არჩევისთვის">
+<!ENTITY firstrun_urlbar_subtext2 "თანამედროვე ბრაუზერი მობილურისთვის Mozilla-სგან, თავისუფალი და გახსნილი ინტერნეტის მხარდამჭერი, არამომგებიანი კომპანიისგან.">
+<!ENTITY firstrun_panel_title_privacy "პირადულობა">
 <!ENTITY firstrun_bookmarks_title "ისტორია">
 <!ENTITY firstrun_bookmarks_message "თქვენი სანიშნეები თქვენს წინაა">
 <!ENTITY firstrun_bookmarks_subtext "მიიღეთ შედეგები თქვენი სანიშნეებიდან და ისტორიიდან ძიებისას.">
