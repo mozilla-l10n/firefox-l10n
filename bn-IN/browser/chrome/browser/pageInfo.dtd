@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "মালিকানা: ">
 <!ENTITY  securityView.identity.domain   "ওয়েব-সাইট: ">
 <!ENTITY  securityView.identity.verifier "অনুমোদনকারী: ">
+<!ENTITY  securityView.identity.validity "মেয়াদ পূরণের তারিখ:">
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা এবং পূর্ববর্তী তথ্য">
 <!ENTITY  securityView.privacy.history                  "আজকের আগে কোনো সময় এই ওয়েব-সাইট আমি পরিদর্শন করেছি কি?">
