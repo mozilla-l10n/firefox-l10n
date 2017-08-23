@@ -4,6 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY firstrun_urlbar_message2 "شكرا على اختيارك &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "الخصوصية">
+<!ENTITY firstrun_privacy_message "تصفح و لا أحد يراقبك">
+<!ENTITY firstrun_panel_title_customize "خصّص">
 <!ENTITY firstrun_bookmarks_title "التأريخ">
 <!ENTITY firstrun_bookmarks_message "مفضلاتك، في الأمام و الوسط">
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
@@ -11,6 +14,7 @@
 <!ENTITY firstrun_data_message "بيانات أقل، توفير أكبر">
 <!ENTITY firstrun_data_subtext2 "عطّل الصور لتوفير البيانات في كل موقع تزوره.">
 <!ENTITY firstrun_sync_title "تزامُن">
+<!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
