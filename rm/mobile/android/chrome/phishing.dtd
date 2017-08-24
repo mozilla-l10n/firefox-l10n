@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "Bandunar questa pagina">
 <!ENTITY safeb.palm.decline.label "Ignorar quest avertiment">
 <!ENTITY safeb.palm.reportPage.label "Pertge è questa pagina vegnida bloccada?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Avis da <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Rapportà sco pagina attatganta!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Questa pagina web sut <span id='unwanted_sitename'/> è vegnida annunziada sco pagina che cuntegna software nungiavischada e vegn bloccada sin basa da tias preferenzas da segirezza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Paginas cun software nungiavischada emprovan dad installar software che po engianar ed influenzar tes sistem en moda nunspetgada.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "La pagina en mira cuntegna eventualmain malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ha bloccà questa pagina perquai ch'ella emprova eventualmain dad installar applicaziuns privlusas che engolan u stizzan tias datas (p.ex. fotos, pleds-clav, messadis e cartas da credit).">
