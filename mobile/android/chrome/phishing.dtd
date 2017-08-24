@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Yra pranešta, jog tinklalapis adresu <span id='unwanted_sitename'/> yra kenkėjiškas, tad jis užblokuotas remiantis jūsų saugumo nustatymais.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Kenkėjiški tinklalapiai siekia įdiegti programinę įrangą, kuri gali būti apgaulinga ir pakenkti jūsų kompiuteriui.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Atveriama svetainė gali būti kenkėjiška">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "„&brandShortName;“ užblokavo šį tinklalapį, nes jis gali bandyti įdiegti pavojingų programų, skirtų pavogti ar ištrinti jūsų duomenis (pvz., nuotraukas, slaptažodžius, žinutes, banko korteles).">

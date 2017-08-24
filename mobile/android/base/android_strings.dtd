@@ -4,6 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
 <!ENTITY firstrun_urlbar_message2 "Ačiū, kad pasirinkote „&brandShortName;“">
+<!ENTITY firstrun_urlbar_subtext2 "Tai moderni mobilioji naršyklė iš „Mozillos“, ne pelno siekiančios organizacijos, atsidavusios nemokamam ir laisvam internetui.">
+<!ENTITY firstrun_panel_title_privacy "Privatumas">
+<!ENTITY firstrun_privacy_message "Naršykite lyg niekas nestebėtų">
+<!ENTITY firstrun_privacy_subtext "Privatusis naršymas su apsauga nuo stebėjimo blokuoja stebėjimo elementus jums naršant bei neveda naršymo žurnalo.">
+<!ENTITY firstrun_panel_title_customize "Tinkinimas">
+<!ENTITY firstrun_customize_message "Pritaikykite „&brandShortName;“ sau.">
+<!ENTITY firstrun_customize_subtext "Praplėskite „&brandShortName;“ su priedais. Blokuokite reklamas, pridėkite funkcionalumo, ar pasirinkite jūsų asmenybę atitinkantį grafinį apvalkalą.">
 <!ENTITY firstrun_bookmarks_title "Žurnalas">
 <!ENTITY firstrun_bookmarks_message "Jūsų favoritai, priekyje ir centre">
 <!ENTITY firstrun_bookmarks_subtext "Gaukite paieškos rezultatus iš savo adresyno bei žurnalo.">
@@ -11,6 +18,8 @@
 <!ENTITY firstrun_data_message "Mažiau duomenų, daugiau taupymo">
 <!ENTITY firstrun_data_subtext2 "Blokuokite paveikslus, norėdami svetainėse sunaudoti mažiau duomenų.">
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
+<!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
+<!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rast adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
 <!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
