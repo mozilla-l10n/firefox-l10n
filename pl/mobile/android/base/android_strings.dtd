@@ -310,7 +310,7 @@
 <!ENTITY datareporting_notification_title "&brandShortName;: statystyki i dane">
 <!ENTITY datareporting_notification_action "Wybierz, co chcesz udostępniać">
 <!ENTITY datareporting_notification_action_long "Wybierz informacje, które chcesz udostępniać">
-<!ENTITY datareporting_notification_summary "Aby ulepszyć przeglądarkę &brandShortName;, &vendorShortName; automatycznie pobiera pewne informacje.">
+<!ENTITY datareporting_notification_summary "Aby ulepszać przeglądarkę &brandShortName;, &vendorShortName; automatycznie pobiera pewne informacje.">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
 <!ENTITY datareporting_fhr_title "Raport o zdrowiu programu &brandShortName;">
