@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nahi ez den softwarearen orriak iruzurtiak izan daitezkeen eta zure sistema espero gabeko moduetan eragin dezaketen softwarea instalatzen saiatzen dira.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Hurrengo webguneak malwarea izan lezake">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName;(e)k orri hau blokeatu du zure informazio pertsonala lapurtzen edo ezabatzen duten aplikazioak instalatzen saia daitekeelako (adibidez argazkiak, mezuak edo kreditu-txartelak).">
