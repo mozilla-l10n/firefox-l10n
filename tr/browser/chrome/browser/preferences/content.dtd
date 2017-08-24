@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey                             "a">
 
-<!ENTITY  permissionSettingsButton2.label                       "Ayarlar…">
-
 <!ENTITY  notificationPermissions.label                         "Uyarılar">
+<!ENTITY  notificationSettingsButton.label                      "Ayarlar…">
 <!ENTITY  notificationSettingsButton.accesskey                  "a">
 <!ENTITY  notificationPermissionsLearnMore.label                "Daha fazlası">
 
 <!ENTITY  locationPermissions.label                             "Konum">
+<!ENTITY  locationSettingsButton.label                          "Ayarlar…">
 <!ENTITY  locationSettingsButton.accesskey                      "u">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Ayarlar…">
 <!ENTITY  cameraSettingsButton.accesskey                        "k">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Ayarlar…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
