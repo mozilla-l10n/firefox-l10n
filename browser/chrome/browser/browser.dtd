@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Бетбелгілер саймандар панелін жасыру">
 <!ENTITY searchBookmarks.label              "Бетбелгілер ішінен іздеу">
 <!ENTITY bookmarkingTools.label             "Бетбелгілер саймандары">
+<!ENTITY addBookmarksMenu.label             "Бетбелгілер мәзірін саймандар панеліне қосу">
+<!ENTITY removeBookmarksMenu.label          "Бетбелгілер мәзірін саймандар панелінен алып тастау">
 
 <!ENTITY containersMenu.label "Контейнерлер">
 
@@ -970,4 +972,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
 
+<!ENTITY sendToDevice.label3 "Парақты құрылғыға жіберу">
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
