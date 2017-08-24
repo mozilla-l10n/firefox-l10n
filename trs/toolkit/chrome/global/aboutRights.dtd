@@ -57,6 +57,7 @@
 <!ENTITY rights3.webservices-c ". Nej sa huin ruat nagi'iat ni ga'uê ga'anj riña preferencias.">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "NItaj si ahî huaj gaché nun: ">
 
 <!-- location aware browsing points for branded builds -->
 
