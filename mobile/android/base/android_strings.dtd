@@ -6,7 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Gracies por escoyer &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un restolador web móvil y modernu de Mozilla, la organización ensin ánimu de llucru comprometida con una web llibre y abierta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidá">
+<!ENTITY firstrun_privacy_message "Restola ensin que naide te mire">
+<!ENTITY firstrun_privacy_subtext "El restolar en privao con proteición de rastrexu bloquia los rastrexadores entrín restoles y nun recordará\&apos;l to historial cuando termines de restolar.">
+<!ENTITY firstrun_panel_title_customize "Personalizar">
 <!ENTITY firstrun_customize_message "Fai &brandShortName; de to.">
+<!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; colos add-ons. Bloquia anuncios, amiesta carauterístiques o escueyi un tema nuevu que reflexe la to personalidá.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
 <!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los marcadores ya historial al guetar.">
@@ -14,6 +18,8 @@
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
 <!ENTITY firstrun_data_subtext2 "Desactiva les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Volvi ande lo dexesti.">
+<!ENTITY firstrun_sync_subtext2 "Usa Sync p\&apos;alcontrar los marcadores, contraseñes y otres coses que guardares en &brandShortName; dende tolos tos preseos.">
 <!ENTITY firstrun_signin_message "Conéutate, entama">
 <!ENTITY firstrun_signin_button "Aniciar sesión en Sync">
 <!ENTITY  onboard_start_button_browser "Entamar a restolar">
