@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "Markah Seluler">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
+<!ENTITY hideBookmarksToolbar.label         "Sembunyikan Bilah Alat Markah">
 <!ENTITY searchBookmarks.label              "Cari Markah">
 <!ENTITY removeBookmarksMenu.label          "Hapus Menu Markah dari Bilah Alat">
 
