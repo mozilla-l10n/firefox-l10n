@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Informóse de la páxina web en <span id='unwanted_sitename'/> por contener software indeseyáu y bloquióse basándose nes tos preferencies de seguranza.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Les páxines de software indeseyáu tenten d'instalar software que pue ser fraudulentu y afeutar al to sistema de formes inesperaes.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El sitiu de darréu igual contién malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloquió esta páxina porque quiciabes tente d'instalar aplicaciones peligroses que roben o desanicien la to información (por exemplu: semeyes, contraseñes, mensaxe o tarxetes de creitu).">
