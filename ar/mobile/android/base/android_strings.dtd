@@ -4,9 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY firstrun_urlbar_message2 "شكرا على اختيارك &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "متصفّح هواتف حديث من موزيلا، المؤسسة غير الربحية الملتزمة تجاه وِب حر ومفتوح.">
 <!ENTITY firstrun_panel_title_privacy "الخصوصية">
 <!ENTITY firstrun_privacy_message "تصفح و لا أحد يراقبك">
+<!ENTITY firstrun_privacy_subtext "التّصفّح الخاص مع الحماية من التّعقّب يحجب المتعقبات وأنت تتصفّح ولا يتذكر التأريخ عندما تنتهي من التصفح.">
 <!ENTITY firstrun_panel_title_customize "خصّص">
+<!ENTITY firstrun_customize_message "اجعل &brandShortName; ينتمي إليك.">
+<!ENTITY firstrun_customize_subtext "خصِّص &brandShortName; مستخدمًا الإضافات. احجب الإعلانات، أو أضف مزايا أو اختر سمة جديدة تعكس شخصيتك.">
 <!ENTITY firstrun_bookmarks_title "التأريخ">
 <!ENTITY firstrun_bookmarks_message "مفضلاتك، في الأمام و الوسط">
 <!ENTITY firstrun_bookmarks_subtext "اجلب النتائج من العلامات و التّأريخ عندما تبحث.">
@@ -15,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "عطّل الصور لتوفير البيانات في كل موقع تزوره.">
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
+<!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
