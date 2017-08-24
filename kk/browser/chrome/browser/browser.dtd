@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Синхрондау">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Таңдамалы нәрселеріңізді саймандар панеліне немесе кеңейтілген мәзіріне тартып апарыңыз.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
