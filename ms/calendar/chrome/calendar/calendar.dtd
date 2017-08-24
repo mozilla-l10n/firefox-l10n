@@ -58,9 +58,27 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Tutup carian acara dan senarai acara">
 
 <!ENTITY calendar.today.button.tooltip          "Pergi ke Hari ini" >
+<!ENTITY calendar.todaypane.button.tooltip      "Papar Anak Tetingkap Hari ini" >
 
+<!ENTITY calendar.day.button.tooltip            "Tukar ke paparan hari" >
+<!ENTITY calendar.week.button.tooltip           "Tukar ke paparan minggu" >
+<!ENTITY calendar.month.button.tooltip          "Tukar ke paparan bulan" >
+<!ENTITY calendar.multiweek.button.tooltip      "Tukar ke paparan berbilang minggu" >
 
+<!ENTITY calendar.nextday.label                 "Esok Hari" >
+<!ENTITY calendar.prevday.label                 "Semalam" >
+<!ENTITY calendar.nextday.accesskey             "l" >
+<!ENTITY calendar.prevday.accesskey             "e" >
+<!ENTITY calendar.nextweek.label                "Minggu Depan" >
+<!ENTITY calendar.prevweek.label                "Minggu Lepas" >
+<!ENTITY calendar.nextweek.accesskey            "p" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Bulan Depan" >
+<!ENTITY calendar.prevmonth.label               "Bulan Lepas" >
+<!ENTITY calendar.nextmonth.accesskey           "p" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Satu Hari Akan Datang" >
 
 
 
