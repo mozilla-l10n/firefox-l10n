@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bainvegni">
-
-<!ENTITY firstrun_urlbar_message "Bainvegni a &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Chattar pli spert quai che ti tschertgas – grazia a las propostas da tschertgar.">
 <!ENTITY firstrun_bookmarks_title "Cronologia">
 <!ENTITY firstrun_bookmarks_message "Tes favurits, adina en il center">
 <!ENTITY firstrun_bookmarks_subtext "Retschaiver resultats ord ils segnapaginas e la cronologia cura che ti tschertgas.">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "Pli paucas datas, pli grond respargn">
 <!ENTITY firstrun_data_subtext2 "Deactivar maletgs per consumar main datas per mintga pagina che ti visitas.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, adina cun tai">
-<!ENTITY firstrun_sync_subtext "Sincronisescha tes tabs, tes pleds-clav e dapli – nua ch\&apos;i saja.">
 <!ENTITY firstrun_signin_message "Ta collia per cumenzar">
 <!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
@@ -295,9 +290,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Copià l\&apos;URL">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Stream dad activitads">
-<!ENTITY pref_activity_stream_summary "Ina cronologia visuala ed ina pagina da partenza revedida ta simplifitgeschan da chattar exact quai che ti tschertgas en &brandShortName;.">
+<!ENTITY pref_pwa "Applicaziuns web progressivas">
+<!ENTITY pref_pwa_summary "Permetter dad agiuntar applicaziuns web a la pagina da partenza">
 
 <!ENTITY tracking_protection_prompt_title "Ussa cun protecziun cunter il fastizar">
 <!ENTITY tracking_protection_prompt_text "Bloccar activamain elements che fastizeschan per che ti na stos betg t\&apos;occupar dad els.">
@@ -356,12 +350,8 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Stizzar ussa">
 <!ENTITY pref_clear_on_exit_title3 "Stizzar las datas privatas cun serrar">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vegn adina a stizzar automaticamain tias datas sche ti tschernas \u0022Serrar\u0022 en il menu principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vegn adina a stizzar automaticamain tias datas sche ti tschernas \&quot;Serrar\&quot; en il menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Tscherna las datas che duain vegnir stizzadas">
-<!ENTITY pref_plugins "Plug-ins">
-<!ENTITY pref_plugins_enabled "Activà">
-<!ENTITY pref_plugins_tap_to_play2 "Tutgar per far ir">
-<!ENTITY pref_plugins_disabled "Deactivà">
 <!ENTITY pref_restore_tabs "Restaurar ils tabs">
 <!ENTITY pref_restore_always "Adina restaurar">
 <!ENTITY pref_restore_quit "Betg restaurar suenter serrar &brandShortName;">
@@ -545,6 +535,7 @@
 <!ENTITY page_removed "Allontanà la pagina">
 
 <!ENTITY bookmark_edit_title "Modifitgar il segnapagina">
+<!ENTITY bookmark_edit_folder_title "Modifitgar l\&apos;ordinatur">
 <!ENTITY bookmark_edit_name "Num">
 <!ENTITY bookmark_edit_location "Adressa">
 <!ENTITY bookmark_edit_keyword "Pled magic">
@@ -621,6 +612,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Betg pli zuppentar ils apparats tschernids">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Pagina fixada">
+<!ENTITY home_unpinned_site "Pagina defixada">
 
 <!ENTITY remote_tabs_panel_moved_title "Nua èn mes tabs?">
 <!ENTITY remote_tabs_panel_moved_desc "Nus avain spustà tes tabs dad auters apparats en ina panela sin la pagina da partenza. Uschia als pos ti adina acceder cura che ti avras in nov tab.">
@@ -845,3 +841,8 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Bainvegni tar tes accents">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; creescha ussa accents per chaussas che ti has scuvert en il web. Uschia chattas ti pli tard la via enavos tar artitgels, videos, segnapaginas ed autras paginas interessantas.">
+
+<!ENTITY private_tab_panel_title "Modus privat + protecziun cunter il fastizar">
+<!ENTITY private_tab_panel_description "&brandShortName; blochescha parts da la pagina che ta pon fastizar durant la navigaziun en l\&apos;internet.">
+<!ENTITY private_tab_panel_description2 "La cronologia na vegn betg memorisada, ma datotecas telechargiadas e novs segnapaginas vegnan preservads sin tes apparat.">
+<!ENTITY private_tab_learn_more "Dovras ulteriuras infurmaziuns?">
