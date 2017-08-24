@@ -9,6 +9,8 @@
 <!ENTITY firstrun_privacy_message "Nabigatu inor begira ez balego bezala">
 <!ENTITY firstrun_privacy_subtext "Jarraipenaren babesa duen nabigatze pribatuak jarraipena egiten duten elementuak blokeatuko ditu nabigatu ahala eta ez du historiarik gogoratuko nabigatzen bukatu ondoren.">
 <!ENTITY firstrun_panel_title_customize "Pertsonalizatu">
+<!ENTITY firstrun_customize_message "Moldatu &brandShortName; zure erara.">
+<!ENTITY firstrun_customize_subtext "Pertsonalizatu &brandShortName; gehigarriekin. Blokeatu iragarkiak, gehitu eginbideak edo aukeratu zure izaera isladatzeko itxura berri bat.">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Zure gogokoenak, ikusgai">
 <!ENTITY firstrun_bookmarks_subtext "Bilaketak egitean, eskuratu emaitzak zure laster-marketatik eta historiatik.">
