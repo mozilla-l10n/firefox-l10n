@@ -62,8 +62,11 @@
 <!ENTITY rights.safebrowsing-term1 "Na'nin si preferensia ma">
 <!ENTITY rights.safebrowsing-term2 "Ganahui sa dugumi ma">
 <!ENTITY rights2.safebrowsing-term3 "Guyun sa ganahuit &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Ahî huaj gaché nut">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Riña huajt ni huê dan huin gaché nut. ">
+<!ENTITY rights.locationawarebrowsing-b "sa ganahuit huin.  Si nitaj gachîn ni'iaj riñat ni si ga'ue gataj ma dane' nut.  Si ruat guyun sa 'iaj sun guenda na, ganiko' chrej na ga'anjt:">
 
 <!-- intro paragraph for unbranded builds -->
 
