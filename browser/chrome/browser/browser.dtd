@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Skjul bokmerkeverktøylinje">
 <!ENTITY searchBookmarks.label              "Søk i bokmerker">
 <!ENTITY bookmarkingTools.label             "Verktøy for bokmerker">
+<!ENTITY addBookmarksMenu.label             "Legg til bokmerkemeny til verktøylinjen">
+<!ENTITY removeBookmarksMenu.label          "Fjern bokmerkemeny fra verktøylinjen">
 
 <!ENTITY containersMenu.label "Beholdere">
 
