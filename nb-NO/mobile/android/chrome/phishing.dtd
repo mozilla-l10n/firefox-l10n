@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Uønskede program-sider forsøker å installere programmer som kan være misvisende og påvirke systemet ditt på uventede måter.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Nettstedet forut kan inneholde skadelig programvare">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; blokkerte denne siden fordi den kan prøve å installere farlige apper som stjeler eller sletter din informasjon (for eksempel bilder, passord, meldinger og kredittkort).">
