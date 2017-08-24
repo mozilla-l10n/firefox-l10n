@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "ลืมอีเมลนี้">
 <!ENTITY forget.accesskey            "ล">
 
-<!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
+<!ENTITY signedOut.caption            "นำเว็บของคุณไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.signin2 "ลงชื่อเข้า…">
