@@ -26,8 +26,12 @@
 <!ENTITY rights.intro-point2.5 "Da'aj nej sa 'iaj sun nga &brandShortName;, daj run' sa nata' si gire' ma, ni ga'ue duguchinj nuguan'an riña &vendorShortName;. Ngà ga'nit si nuguant, ni gatà ruaj si raj yinat si &vendorShortName; duyi'ngaj si nuguant riña nej si sitiô Web da' nahuin hue'e ma.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3a "Dânaj garasun ñunj nej nuguan' ganit riña &vendorShortName; asij riña &brandShortName; nataj daj hua ma.">
+<!ENTITY rights2.intro-point3b "&brandShortName; Nuguan' 'iaj ran yi'i ma">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Daran' nuguan' 'iaj ran yi'i rasun na ni ñuna ga'ue ni'iajt.">
 
 <!-- point 4 text for official branded builds -->
 
