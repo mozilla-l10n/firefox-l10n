@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Cipta Kalendar Baru" >
+<!ENTITY wizard.label             "Cipta kalendar baru" >
+<!ENTITY wizard.description       "Cari kalendar anda" >
+
+<!ENTITY initialpage.description    "Kalendar anda boleh disimpan di dalam komputer, atau disimpan di dalam pelayan supaya boleh diakses secara jauh, atau dikongsikan dengan rakan atau rakan sejawat." >
+<!ENTITY initialpage.computer.label  "Dalam Komputer Saya">
+<!ENTITY initialpage.network.label  "Dalam Rangkaian">
+
+<!ENTITY locationpage.description         "Sediakan maklumat yang diperlukan untuk mengakses kalendar anda secara jauh" >
+<!ENTITY locationpage.login.description   "Pilihan: masukkan nama pengguna dan kata laluan" >
+<!ENTITY locationpage.username.label      "Nama pengguna:" >
+<!ENTITY locationpage.password.label      "Kata laluan:" >
+
+<!ENTITY custompage.shortdescription  "Sesuaikan kalendar anda" >
+<!ENTITY custompage.longdescription   "Anda boleh beri gelaran untuk kalendar anda dan warnakan acara dalam kalendar ini." >
+
+<!ENTITY finishpage.shortdescription  "Kalendar Dicipta" >
+<!ENTITY finishpage.longdescription   "Kalendar anda sudah dicipta." >
