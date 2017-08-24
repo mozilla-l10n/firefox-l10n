@@ -50,7 +50,14 @@
 <!ENTITY calendar.unifinder.tree.location.label            "Lokasi">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Susun mengikut lokasi">
 <!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Susun mengikut status">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Nama Kalendar">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Susun mengikut nama kalendar">
+<!ENTITY calendar.unifinder.tree.duration.label            "Genap tempoh dalam">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Susun mengikut masa sehingga genap tempoh">
+<!ENTITY calendar.unifinder.close.tooltip                  "Tutup carian acara dan senarai acara">
 
+<!ENTITY calendar.today.button.tooltip          "Pergi ke Hari ini" >
 
 
 
