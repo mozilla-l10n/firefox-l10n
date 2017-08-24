@@ -14,17 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "예외 목록…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-
 <!ENTITY  notificationPermissions.label                         "알림">
+<!ENTITY  notificationSettingsButton.label                      "설정…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
+<!ENTITY  notificationPermissionsLearnMore.label                "자세히 보기">
 
 <!ENTITY  locationPermissions.label                             "위치">
+<!ENTITY  locationSettingsButton.label                          "설정…">
 <!ENTITY  locationSettingsButton.accesskey                      "l">
 
 <!ENTITY  cameraPermissions.label                               "카메라">
+<!ENTITY  cameraSettingsButton.label                            "설정…">
 <!ENTITY  cameraSettingsButton.accesskey                        "c">
 
 <!ENTITY  microphonePermissions.label                           "마이크">
+<!ENTITY  microphoneSettingsButton.label                        "설정…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "글꼴과 색상">
