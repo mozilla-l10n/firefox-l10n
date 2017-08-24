@@ -53,6 +53,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-b "ñuna">
+<!ENTITY rights3.webservices-c ". Nej sa huin ruat nagi'iat ni ga'uê ga'anj riña preferencias.">
 
 <!-- safe browsing points for branded builds -->
 
