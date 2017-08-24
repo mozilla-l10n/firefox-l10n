@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">
 <!ENTITY signedOut.accountBox.title   "Свържете ги с &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Създаване на сметка">
-<!ENTITY signedOut.accountBox.create.accesskey  "С">
-<!ENTITY signedOut.accountBox.signin  "Вписване">
-<!ENTITY signedOut.accountBox.signin.accesskey  "В">
+<!ENTITY signedOut.accountBox.create2 "Нямате профил? Регистриране">
+<!ENTITY signedOut.accountBox.create2.accesskey "р">
+<!ENTITY signedOut.accountBox.signin2 "Вписване…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "в">
 
 <!ENTITY signedIn.settings.label       "Настройки за синхронизиране">
 <!ENTITY signedIn.settings.description "Изберете какво да бъде синхронизирано на вашите устройства, използващи &brandShortName;.">
