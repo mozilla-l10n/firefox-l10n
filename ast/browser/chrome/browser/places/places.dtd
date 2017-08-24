@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Amestáu">
 <!ENTITY col.lastmodified.label  "Cabera modificación">
 
-<!ENTITY search.label                              "Gueta">
-<!ENTITY search.accesskey                          "G">
+<!ENTITY search.placeholder  "Guetar">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleiciona un elementu pa ver y editar les sos propiedaes">
 
-<!ENTITY find.label               "Guetar:">
-<!ENTITY find.accesskey           "u">
 <!ENTITY view.label               "Ver">
 <!ENTITY view.accesskey           "r">
 <!ENTITY byDate.label             "Por data">

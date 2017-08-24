@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Propietariu:">
 <!ENTITY  securityView.identity.domain   "Sitiu web:">
 <!ENTITY  securityView.identity.verifier "Verificáu por:">
+<!ENTITY  securityView.identity.validity "Caduca'l">
 
 <!ENTITY  securityView.privacy.header                   "Privacidá ya historial">
 <!ENTITY  securityView.privacy.history                  "¿Visité esti sitiu web enantes?">
