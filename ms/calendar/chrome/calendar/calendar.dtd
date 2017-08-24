@@ -24,10 +24,23 @@
 <!ENTITY calendar.events.filter.next7Days.label "Acara dalam 7 Hari Berikut">
 <!ENTITY calendar.events.filter.next14Days.label "Acara dalam 14 Hari Berikut">
 <!ENTITY calendar.events.filter.next31Days.label "Acara dalam 31 Hari Berikut">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Acara dalam Bulan Kalendar ini">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label                "Selesai">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Susun mengikut keselesaian">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prioriti">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Susun mengikut prioriti">
+<!ENTITY calendar.unifinder.tree.title.label               "Tajuk">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Susun mengikut tajuk">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Selesai">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Susun mengikut &#37; selesai">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Mula">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Susun mengikut tarikh mula">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Tamat">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Susun mengikut tarikh tamat">
 
 
 
