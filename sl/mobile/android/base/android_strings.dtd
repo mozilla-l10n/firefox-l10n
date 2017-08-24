@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY firstrun_urlbar_message2 "Hvala, ker ste izbrali &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Sodoben mobilni brskalnik izpod rok Mozille, neprofitne organizacije, predane svobodnemu in odprtemu spletu.">
 <!ENTITY firstrun_panel_title_privacy "Zasebnost">
 <!ENTITY firstrun_privacy_message "Brskajte, kot da vas nihče ne gleda">
 <!ENTITY firstrun_privacy_subtext "Zasebno brskanje z zaščito pred sledenjem med brskanjem zavrača sledilce ter si ob koncu brskanja ne zapomni vaše zgodovine.">
