@@ -12,6 +12,8 @@
 
 <!ENTITY aboutTelemetry.raw "Необработен JSON">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Отваряне за преглед на JSON">
+
 <!ENTITY aboutTelemetry.showSubsessionData "Показване на подробни данни">
 
 <!ENTITY aboutTelemetry.choosePing "Избиране на пакет:">
@@ -42,8 +44,6 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Зависвания на браузъра">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "Зависнала нишка">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "Прихванати стекове">
 
 <!ENTITY aboutTelemetry.scalarsSection "Скалари">
@@ -63,9 +63,11 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "Късни записи">
 
-<!ENTITY aboutTelemetry.sessionInfoSection "  Системна информация">
+<!ENTITY aboutTelemetry.rawPayloadSection "Полезен товар в суров вид">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "ВАЖНО: Записването на бавните SQL заявки е разрешено. Пълните заявки може и да се показват, но те НЕ СЕ изпращат по телеметрията.">
+<!ENTITY aboutTelemetry.sessionInfoSection "Системна информация">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "ВАЖНО: Записването на бавните SQL заявки е разрешено. Пълните заявки може и да бъдат показани, но те НЕ СЕ изпращат по телеметрията.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "Вземане имената на функциите от стековете">
 
@@ -73,4 +75,4 @@
 
 <!ENTITY aboutTelemetry.filterText "Филтър (низ или /регулярен израз/)">
 
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Полезен товар">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Полезен товар">
