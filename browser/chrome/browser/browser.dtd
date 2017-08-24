@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Arrastatu zure elementu gogokoenak tresna-barrara edo gainezkatzearen menura.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Tresna gehiago nahi dituzu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Aukeratu milaka gehigarriren artetik">
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
