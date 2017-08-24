@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
-
-<!ENTITY firstrun_urlbar_message "Sveiki, čia „&brandShortName;“">
-<!ENTITY firstrun_urlbar_subtext "Raskite rezultatus greičiau su naudingais paieškos siūlymų šaukiniais.">
+<!ENTITY firstrun_urlbar_message2 "Ačiū, kad pasirinkote „&brandShortName;“">
 <!ENTITY firstrun_bookmarks_title "Žurnalas">
 <!ENTITY firstrun_bookmarks_message "Jūsų favoritai, priekyje ir centre">
 <!ENTITY firstrun_bookmarks_subtext "Gaukite paieškos rezultatus iš savo adresyno bei žurnalo.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "Mažiau duomenų, daugiau taupymo">
 <!ENTITY firstrun_data_subtext2 "Blokuokite paveikslus, norėdami svetainėse sunaudoti mažiau duomenų.">
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
-<!ENTITY firstrun_sync_message "„&brandShortName;“, visada šalia jūsų">
-<!ENTITY firstrun_sync_subtext "Sinchronizuokite savo korteles, slaptažodžius ir kitką visur, kur ją naudojate.">
 <!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
 <!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
@@ -33,21 +29,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Atsikratykite netvarkos">
 <!ENTITY firstrun_readerview_subtext "Naudodami skaitymo rodinį, galite skaityti straipsnius patogiau – net ir neprisijungę prie interneto.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Jūs">
 <!ENTITY firstrun_account_message "Turite „&brandShortName;“ kitame įrenginyje?">
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Adresynas">
 <!ENTITY  history_title "Žurnalas">
 
 <!ENTITY  switch_to_tab "Pereiti į kortelę">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Rodoma įrenginyje išsaugota kopija">
 
 <!ENTITY  crash_reporter_title "„&brandShortName;“ strigčių pranešiklis">
@@ -82,9 +78,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Ekrano nuotraukos">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Skaitinių sąrašas">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; įrašai (-ų)">
 <!ENTITY bookmark_folder_one_item "1 įrašas">
 <!ENTITY bookmark_parent_folder "Tėvinis aplankas">
@@ -134,27 +130,27 @@
 <!ENTITY settings_title "Nustatymai">
 <!ENTITY pref_category_general "Bendra">
 <!ENTITY pref_category_general_summary3 "Pradžia, kalba, kortelių eilė">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Kalba">
 <!ENTITY pref_category_language_summary "Pakeiskite savo naršyklės sąsajos kalbą">
 <!ENTITY pref_browser_locale "Naršyklės sąsajos kalba">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Sistemos numatytoji">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Pridėti į „&brandShortName;“">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Įtraukti į adresyną">
 <!ENTITY overlay_share_bookmark_btn_label_already "Jau yra adresyne">
 <!ENTITY overlay_share_send_other "Siųsti į kitus įrenginius">
@@ -236,8 +232,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Įveskite adresą arba paieškos žodžius">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Bendra">
 <!ENTITY pref_header_search "Ieškoti">
 <!ENTITY pref_header_privacy_short "Privatumas">
@@ -251,10 +247,10 @@
 <!ENTITY pref_cookies_accept_all "Leidžiami">
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Duomenų taupymas">
 <!ENTITY pref_category_media "Medija">
 <!ENTITY pref_category_developer_tools "Programuotojo priemonės">
@@ -278,14 +274,14 @@
 
 <!ENTITY pref_whats_new_notification "Kas naujo „&brandShortName;“">
 <!ENTITY pref_whats_new_notification_summary "Sužinokite apie naujas funkcijas po atnaujinimo">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Eksperimentinės funkcijos">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "Tinkintos kortelės">
 <!ENTITY pref_custom_tabs_summary3 "Leisti programoms atverti svetaines naudojant tinkintą „&brandShortName;“ versiją">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
@@ -325,9 +321,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 laukianti kortelė">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
 <!ENTITY tab_queue_notification_settings "Norėdami atverti kelias nuorodas, suteikite „&brandShortName;“ leidimą piešti ant kitų programų.">
 
 <!ENTITY content_notification_summary "&brandShortName;">
@@ -360,9 +356,9 @@
 <!ENTITY pref_restore_tabs "Atkurti korteles">
 <!ENTITY pref_restore_always "Visada atkurti">
 <!ENTITY pref_restore_quit "Neatkurti po „&brandShortName;“ darbo pabaigos">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 <!ENTITY pref_use_system_font_size "Naudoti sisteminį šrifto dydį">
 <!ENTITY pref_use_system_font_size_summary "Atvaizduoti saityno turinį pagal sisteminį šrifto dydį">
 
@@ -422,13 +418,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "„&brandShortName;“ techninės būklės ataskaitos">
 <!ENTITY datareporting_fhr_summary2 "Padeda jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės techninę būklę">
 <!ENTITY datareporting_abouthr_title "Parodyti jūsų naršyklės ataskaitą">
@@ -447,8 +443,8 @@
 <!ENTITY pref_update_autodownload_wifi "Tik per belaidį tinklą">
 <!ENTITY pref_update_autodownload_never "Niekada">
 <!ENTITY pref_update_autodownload_always "Visada">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Žinynas">
 
 <!ENTITY quit "Baigti darbą">
@@ -476,16 +472,16 @@
 <!ENTITY set_image_fail "Nepavyko naudoti paveikslo">
 <!ENTITY set_image_path_fail "Nepavyko įrašyti paveikslo">
 <!ENTITY set_image_chooser_title "Naudoti paveikslą kaip">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Rasti tinklalapyje">
 <!ENTITY find_prev "Ankstenis">
 <!ENTITY find_next "Toliau">
 <!ENTITY find_close "Užverti">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Transliuojama į įrenginį">
 <!ENTITY media_play "Groti">
 <!ENTITY media_pause "Pauzė">
@@ -507,10 +503,10 @@
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 <!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Nėra vardo]">
 <!ENTITY doorhanger_login_edit_title "Keisti prisijungimą">
 <!ENTITY doorhanger_login_edit_username_hint "Naudotojo vardas">
@@ -520,23 +516,23 @@
 <!ENTITY doorhanger_login_select_toast_copy "Slaptažodis nukopijuotas į iškarpinę">
 <!ENTITY doorhanger_login_select_action_text "Pasirinkite kitą prisijungimą">
 <!ENTITY doorhanger_login_select_title "Kopijuoti slaptadžodį iš">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Visaekranis naršymas">
 <!ENTITY pref_scroll_title_bar_summary2 "Nerodyti „&brandShortName;“ priemonių juostos, slenkant tinklalapį žemyn">
 
 <!ENTITY pref_tab_queue_title3 "Kortelių eilė">
 <!ENTITY pref_tab_queue_summary4 "Išsaugokite saitus iki kito karto kai atversite „&brandShortName;“">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-
 <!ENTITY pref_compact_tabs "Kompaktiškos kortelės">
 <!ENTITY pref_compact_tabs_summary2 "Išdėstyti korteles dviem stulpeliais portreto veiksenoje">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Tinklalapis pašalintas">
 
 <!ENTITY bookmark_edit_title "Adresyno įrašo savybės">
@@ -545,15 +541,15 @@
 <!ENTITY bookmark_edit_location "Vieta">
 <!ENTITY bookmark_edit_keyword "Gairė">
 <!ENTITY bookmark_select_folder "Pasirinkite aplanką">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Svetainės nustatymai">
 <!ENTITY site_settings_cancel       "Atsisakyti">
 <!ENTITY site_settings_clear        "Išvalyti">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Papildomi veiksmai">
 
 <!ENTITY masterpassword_create_title "Sukurti pagrindinį slaptažodį">
@@ -574,9 +570,9 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "„&brandShortName;“ pradžios tinklalapis">
 <!ENTITY home_history_title "Žurnalas">
 <!ENTITY home_synced_devices_smartfolder "Sinchronizuoti įrenginiai">
@@ -597,19 +593,19 @@
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Ei! Atvėrus &formatS1;naują privačiąją kortelę&formatS2; niekas nebus įrašoma į naršymo žurnalą.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Nerasta turinio šiai skilčiai užpildyti.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Atgal į „&formatS;“">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "Paslėpta įrenginių: &formatD;">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -617,9 +613,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Rodyti pasirinktus įrenginius">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 <!ENTITY home_pinned_site "Svetainė įsegta">
 <!ENTITY home_unpinned_site "Svetainė išsegta">
 
@@ -633,8 +629,8 @@
 <!ENTITY filepicker_audio_title "Parinkite arba įrašykite garsą">
 <!ENTITY filepicker_image_title "Parinkite arba nufotografuokite paveikslą">
 <!ENTITY filepicker_video_title "Parinkite arba įrašykite vaizdo įrašą">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Esate prisijungę prie">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -650,21 +646,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Saugus ryšys">
 <!ENTITY identity_connection_insecure "Nesaugus ryšys">
 <!ENTITY identity_connection_chromeui "Tai yra saugus „&brandShortName;“ tinklalapis">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "„&brandShortName;“ užblokavo nesaugius šio tinklalapio elementus.">
 <!ENTITY mixed_content_blocked_some1 "„&brandShortName;“ užblokavo dalį nesaugių šio tinklalapio elementų.">
 <!ENTITY mixed_content_display_loaded1 "Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).">
 <!ENTITY mixed_content_protection_disabled1 "Jūs esate išjungę apsaugą nuo nesaugių elementų.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Apsauga nuo stebėjimo">
 <!ENTITY doorhanger_tracking_state_enabled "Įjungta">
 <!ENTITY doorhanger_tracking_state_disabled "Išjungta">
 <!ENTITY doorhanger_tracking_message_enabled1 "Bandymai stebėti jūsų veiklą internete buvo užblokuoti.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Sužinoti daugiau">
 <!ENTITY enable_protection "Įgalinti apsaugą">
 <!ENTITY disable_protection "Išjungti apsaugą">
@@ -686,15 +682,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Ieškoti per „&formatS;“">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Ieškoti „&formatS1;“: &formatS2;">
 
 <!ENTITY searchable_description "Adresynas ir žurnalas">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Išleistas „&brandShortName;“ naujinimas">
 <!ENTITY updater_start_select2 "Bakstelėkite, norėdami atsisiųsti">
 
@@ -705,15 +701,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title3 "Atsiųstas „&brandShortName;“ naujinimas">
 <!ENTITY updater_apply_select3 "Bakstelėkite, norėdami įdiegti">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Norėdami gauti failus bei naujinimus, suteikite „&brandShortName;“ leidimą prieiti prie įrenginio atminties.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Leisti">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Naujas svečio seansas">
 <!ENTITY exit_guest_session "Užbaigti svečio seansą">
 <!ENTITY guest_session_dialog_continue "Tęsti">
@@ -725,37 +721,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
 <!ENTITY exit_guest_session_text "Šio naršymo seanso duomenys bus pašalinti.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Meniu">
 <!ENTITY actionbar_done "Baigta">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Kalbėkite dabar">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Paskiausiai sinchronizuota: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Paskutinė sinchronizacija: niekada">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Šis saitas bus atvertas per „&formatS;“. Ar tikrai norite nutraukti privačiojo naršymo seansą?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -765,18 +761,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Baigti privatųjį naršymą?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Ieškoma kitame jūsų įrenginyje rodomo QR kodo">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Priedai">
 <!ENTITY restrictable_feature_addons_installation_description "Suteikite „Firefox“ naujų galimybių ir funkcionalumo. Atminkite: priedai gali išjungti kai kuriuos apribojimus.">
 <!ENTITY restrictable_feature_private_browsing "Privatusis naršymas">
@@ -789,9 +785,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Leidžia šeimos nariams svetainėse bendrauti gyvai.">
 <!ENTITY restrictable_feature_block_list "Blokavimo sąrašas">
 <!ENTITY restrictable_feature_block_list_description "Blokuoti svetaines, kuriose yra neskelbtino turinio.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "„Firefox“: apie jūsų naršyklę">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "„Firefox“: individualizuokite naršyklę priedais">
@@ -801,17 +797,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "„Firefox“ žinynas ir pagalba apribotiems „Android“ planšečių profiliams">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Sužinok, kaip veikia saitynas: „Mozilla Webmaker“">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Atsiprašome! Ši „&brandShortName;“ šiame įrenginyje (&formatS1;, &formatS2;) neveiks. Prašome parsisiųsti tinkamą versiją.">
 
 <!ENTITY eol_notification_title2 "„&brandShortName;“ daugiau neatsinaujins">
 <!ENTITY eol_notification_summary "Bakstelėkite išsamesnei informacijai">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "Naudojama paskiausia „&brandShortName;“ laida">
 <!ENTITY whatsnew_notification_summary "Sužinokite, kas naujo šioje laidoje">
 
@@ -827,17 +823,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Lankomiausios">
 <!ENTITY activity_stream_highlights "Akcentai">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Išsaugota">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Aplankyta">
+
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
 <!ENTITY activity_stream_dismiss "Paslėpti">
 <!ENTITY activity_stream_delete_history "Pašalinti iš istorijos">
 
