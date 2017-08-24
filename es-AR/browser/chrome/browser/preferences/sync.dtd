@@ -69,6 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create2 "¿No tiene una cuenta? Comencemos">
 <!ENTITY signedOut.accountBox.create2.accesskey "C">
 <!ENTITY signedOut.accountBox.signin2 "Ingresar…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Opciones de Sync">
 <!ENTITY signedIn.settings.description "Elegir qué sincronizar en los dispositivos que usan &brandShortName;.">
