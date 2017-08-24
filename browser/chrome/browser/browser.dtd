@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Lisää sivu kirjanmerkkeihin">
 <!ENTITY editThisBookmarkCmd.label "Muokkaa kirjanmerkkiä">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Hae muita jakamispalveluja…">
-<!ENTITY sharePageCmd.label "Jaa sivu">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "J">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Jaa linkki">
-<!ENTITY shareLink.accesskey "l">
-<!ENTITY shareImage.label "Jaa kuva">
-<!ENTITY shareImage.accesskey "k">
-<!ENTITY shareSelect.label "Jaa valinta">
-<!ENTITY shareSelect.accesskey "a">
-<!ENTITY shareVideo.label "Jaa video">
-<!ENTITY shareVideo.accesskey "v">
+
 <!ENTITY feedsMenu2.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenupopup.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenuitem.label "Tilaa sivu…">
@@ -244,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Kirjanmerkit">
-<!ENTITY bookmarksMenuButton.other.label "Muut kirjanmerkit">
-<!ENTITY bookmarksMenuButton.mobile.label "Kannettavan laitteen kirjanmerkit">
+<!ENTITY bookmarksMenuButton.other.label    "Muut kirjanmerkit">
+<!ENTITY bookmarksMenuButton.mobile.label   "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
 <!ENTITY searchBookmarks.label              "Etsi kirjanmerkeistä">
@@ -262,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Työkalut">
-<!ENTITY toolsMenu.accesskey          "y"> 
+<!ENTITY toolsMenu.accesskey          "y">
 
 <!ENTITY keywordfield.label           "Lisää pikakomento tälle haulle…">
 <!ENTITY keywordfield.accesskey       "L">
@@ -281,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "Tiedosto"> 
+<!ENTITY fileMenu.label         "Tiedosto">
 <!ENTITY fileMenu.accesskey       "T">
 <!ENTITY newUserContext.label             "Uusi luokiteltu välilehti">
 <!ENTITY newUserContext.accesskey         "l">
@@ -292,45 +277,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "y">
 <!ENTITY newNonRemoteWindow.label   "Uusi ei-e10s ikkuna">
 
-<!ENTITY editMenu.label         "Muokkaa"> 
-<!ENTITY editMenu.accesskey       "M"> 
-<!ENTITY undoCmd.label            "Kumoa">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "m"> 
-<!ENTITY redoCmd.label            "Tee uudelleen">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "T"> 
-<!ENTITY cutCmd.label           "Leikkaa">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "L"> 
-<!ENTITY copyCmd.label            "Kopioi">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Liitä">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "i"> 
-<!ENTITY deleteCmd.label          "Poista">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "o"> 
-<!ENTITY selectAllCmd.label         "Valitse kaikki">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "V"> 
+<!ENTITY editMenu.label         "Muokkaa">
+<!ENTITY editMenu.accesskey       "M">
+<!ENTITY undoCmd.label            "Kumoa">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "m">
+<!ENTITY redoCmd.label            "Tee uudelleen">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "T">
+<!ENTITY cutCmd.label           "Leikkaa">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "L">
+<!ENTITY copyCmd.label            "Kopioi">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Liitä">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "i">
+<!ENTITY deleteCmd.label          "Poista">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "o">
+<!ENTITY selectAllCmd.label         "Valitse kaikki">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "V">
 <!ENTITY preferencesCmd2.label       "Asetukset">
 <!ENTITY preferencesCmd2.accesskey     "A">
 <!ENTITY preferencesCmdUnix.label       "Asetukset">
-<!ENTITY preferencesCmdUnix.accesskey     "A"> 
+<!ENTITY preferencesCmdUnix.accesskey     "A">
 
 <!ENTITY clearRecentHistory.label               "Poista historiatietoja…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Näytä"> 
-<!ENTITY viewMenu.accesskey       "N"> 
-<!ENTITY viewToolbarsMenu.label       "Työkalupalkit"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Näytä">
+<!ENTITY viewMenu.accesskey       "N">
+<!ENTITY viewToolbarsMenu.label       "Työkalupalkit">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Sivupaneeli">
 <!ENTITY viewSidebarMenu.accesskey "p">
-<!ENTITY viewCustomizeToolbar.label       "Muokkaa…"> 
+<!ENTITY viewCustomizeToolbar.label       "Muokkaa…">
 <!ENTITY viewCustomizeToolbar.accesskey     "M">
 <!ENTITY overflowCustomizeToolbar.label       "Muokkaa työkalupalkkia…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "M">
@@ -531,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ä">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Näytä valinnan lähdekoodi">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Näytä MathML-lähdekoodi">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "n">
 <!ENTITY viewPageSourceCmd.label      "Näytä sivun lähdekoodi">
@@ -598,7 +583,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopioi kuvan osoite">
 <!ENTITY copyImageCmd.accesskey       "p">
 <!ENTITY copyImageContentsCmd.label   "Kopioi kuva">
-<!ENTITY copyImageContentsCmd.accesskey  "u"> 
+<!ENTITY copyImageContentsCmd.accesskey  "u">
 <!ENTITY copyVideoURLCmd.label        "Kopioi videon osoite">
 <!ENTITY copyVideoURLCmd.accesskey    "p">
 <!ENTITY copyAudioURLCmd.label        "Kopioi äänitteen sijainti">
@@ -694,13 +679,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sulje &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "Ö">
 <!ENTITY goForwardCmd.commandKey "Ä">
-<!ENTITY quitApplicationCmd.label       "Sulje"> 
+<!ENTITY quitApplicationCmd.label       "Sulje">
 <!ENTITY quitApplicationCmd.accesskey   "S">
 <!ENTITY quitApplicationCmdMac2.label   "Sulje &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Sulje">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Sulje">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +821,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Synkronoi">
 
-<!ENTITY social.addons.label "Muokkaa palveluita…">
-
-<!ENTITY social.directory.label "Aktivointihakemisto">
-<!ENTITY social.directory.text "Voit ottaa jakopalveluja käyttöön hakemistosta.">
-<!ENTITY social.directory.button "Siirry hakemistoon">
-<!ENTITY social.directory.introText "Lisää palvelu &brandShortName;iin napsauttamalla.">
-<!ENTITY social.directory.viewmore.text "Näytä lisää">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Lisää työkaluja ja ominaisuuksia">
 <!ENTITY customizeMode.menuAndToolbars.empty "Haluatko muita työkaluja?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Valitse tuhansista lisäosista">
 <!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
@@ -991,5 +967,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
 <!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
 
-<!ENTITY sendToDevice.label2 "Lähetä laitteeseen">
+<!ENTITY sendToDevice.label3 "Lähetä sivu laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
