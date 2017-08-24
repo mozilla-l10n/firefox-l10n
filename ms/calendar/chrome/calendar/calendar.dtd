@@ -79,19 +79,62 @@
 <!ENTITY calendar.prevmonth.accesskey           "s" >
 
 <!ENTITY calendar.navigation.nextday.tooltip    "Satu Hari Akan Datang" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Satu Hari Lepas" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Satu Minggu Akan Datang" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Satu Minggu Lepas" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Satu Bulan Akan Datang" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Satu Bulan Lepas" >
 
+<!ENTITY calendar.newevent.button.label         "Acara Baru" >
+<!ENTITY calendar.newtask.button.label          "Tugasan Baru" >
+<!ENTITY calendar.print.button.label            "Cetak" >
+<!ENTITY calendar.print.button.accesskey        "C">
 
+<!ENTITY calendar.day.button.label              "Hari" >
+<!ENTITY calendar.week.button.label             "Minggu" >
+<!ENTITY calendar.month.button.label            "Bulan" >
+<!ENTITY calendar.multiweek.button.label        "Berbilang minggu" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Hari bekerja sahaja" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Tugasan dalam Paparan" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "g" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Papar Tugasan selesai" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "s" >
 
+<!ENTITY calendar.orientation.label "Putar Paparan" >
+<!ENTITY calendar.orientation.accesskey "u" >
 
+<!ENTITY calendar.search.options.searchfor " mengandungi">
 
+<!ENTITY calendar.list.header.label                 "Kalendar">
 
+<!ENTITY calendar.task.filter.title.label           "Papar">
+<!ENTITY calendar.task.filter.all.label             "Semua">
+<!ENTITY calendar.task.filter.all.accesskey         "S">
+<!ENTITY calendar.task.filter.today.label           "Hari ini">
+<!ENTITY calendar.task.filter.today.accesskey       "H">
+<!ENTITY calendar.task.filter.next7days.label       "Tujuh Hari Akan Datang">
+<!ENTITY calendar.task.filter.next7days.accesskey   "T">
+<!ENTITY calendar.task.filter.notstarted.label      "Tugasan Belum Dimulakan">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "e">
+<!ENTITY calendar.task.filter.overdue.label         "Tugasan Melebihi Genap Tempoh">
+<!ENTITY calendar.task.filter.overdue.accesskey     "M">
+<!ENTITY calendar.task.filter.completed.label       "Tugasan Selesai">
+<!ENTITY calendar.task.filter.completed.accesskey   "S">
+<!ENTITY calendar.task.filter.open.label            "Tugasan Belum Selesai">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Tugasan Semasa">
+<!ENTITY calendar.task.filter.current.accesskey     "e">
 
+<!ENTITY calendar.task-details.title.label           "tajuk">
+<!ENTITY calendar.task-details.organizer.label       "daripada">
+<!ENTITY calendar.task-details.priority.label        "prioriti">
 
 
 
