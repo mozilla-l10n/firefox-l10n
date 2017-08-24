@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Отмятане на страницата">
 <!ENTITY editThisBookmarkCmd.label "Редактиране на отметката">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Други услуги за споделяне…">
-<!ENTITY sharePageCmd.label "Споделяне на страницата">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "С">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Споделяне на препратката">
-<!ENTITY shareLink.accesskey "С">
-<!ENTITY shareImage.label "Споделяне на изображение">
-<!ENTITY shareImage.accesskey "С">
-<!ENTITY shareSelect.label "Споделяне на избраното">
-<!ENTITY shareSelect.accesskey "С">
-<!ENTITY shareVideo.label "Споделяне на видеозапис">
-<!ENTITY shareVideo.accesskey "С">
+
 <!ENTITY feedsMenu2.label "Абониране за страницата">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за страницата">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за страницата…">
@@ -244,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Отметки">
-<!ENTITY bookmarksMenuButton.other.label "Други отметки">
-<!ENTITY bookmarksMenuButton.mobile.label "Мобилни отметки">
+<!ENTITY bookmarksMenuButton.other.label    "Други отметки">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мобилни отметки">
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
@@ -836,15 +821,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "С">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Управление на услуги…">
-
-<!ENTITY social.directory.label "Списък с услуги">
-<!ENTITY social.directory.text "Може да включите Услугите за споделяне от този списък.">
-<!ENTITY social.directory.button "Натам!">
-<!ENTITY social.directory.introText "Щракнете на услуга, за да я добавите към &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Други услуги">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Допълнителни инструменти и възможности">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
 <!ENTITY customizeMode.restoreDefaults "Стандартни настройки">
@@ -878,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "Докосване">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Докосване">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "д">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Включване на За докосване в таблетен режим">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Използване на Докосване в таблетен режим">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
@@ -991,5 +967,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
-<!ENTITY sendToDevice.label2 "Изпращане към устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
