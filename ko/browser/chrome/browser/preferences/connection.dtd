@@ -14,7 +14,9 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "프록시 설정 자동 감지">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio2.label        "수동 프록시 설정">
 <!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "자동 프록시 설정 URL">
 <!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "새로 고침">
 <!ENTITY  reload.accesskey              "e">

@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "업데이트 기록">
-<!ENTITY  history.intro             "다음 항목이 설치되었습니다:">
+<!ENTITY  history2.intro            "다음 업데이트들이 설치됨">
 <!ENTITY  closebutton.label         "닫기">
-                                     
+
 <!ENTITY  noupdates.label           "설치된 업데이트 없음">
 
 <!ENTITY  name.header               "이름">
