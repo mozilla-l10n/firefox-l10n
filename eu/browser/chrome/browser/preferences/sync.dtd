@@ -66,6 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Eraman ezazu weba zurekin">
 <!ENTITY signedOut.description        "Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.">
 <!ENTITY signedOut.accountBox.title   "Konektatu &syncBrand.fxAccount.label; erabiliz">
+<!ENTITY signedOut.accountBox.create2 "Ez daukazu konturik? Has gaitezen">
+<!ENTITY signedOut.accountBox.create2.accesskey "k">
 <!ENTITY signedOut.accountBox.signin2 "Hasi saioa…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "H">
 
