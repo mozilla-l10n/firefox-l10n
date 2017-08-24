@@ -34,11 +34,19 @@
 <!ENTITY rights.intro-point3-unbranded "Daran' nuguan' 'iaj ran yi'i rasun na ni ñuna ga'ue ni'iajt.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "Hua da'aj si da'nga' &brandShortName; ni raj sunj nuguan' ma riña Web, sani, si ga'ue gato' si dâ hue'e chrê hua ma. Gahuin ni hua a'na' ma, Ga'ué guyunt da'aj nej sa nu garan' ruat, ñuna.">
+<!ENTITY rights.intro-point4b "nuguan' nikaj ñu'unj">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "si sâ raj sunt ni 'iaj sunj nga Web, nej ahuin naj si ma'an da'a duhui' ngaj ni da'uit ga'anjt ne'.">
+<!ENTITY rights.intro-point4b-unbranded "Nej sa raj sun' nga Web">
+<!ENTITY rights.intro-point4c-unbranded " yi'ni'.">
 
+<!ENTITY rights2.webservices-header "Nej nuguan' nikaj ñu'unj Web nga &brandFullName;">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Da' ga'uê ni'iajt da'aj nej da'nga' ahui riña si aga't, &brandShortName; ni da'uit naduninj a'ngô sa rugujñu'unj da' ga'uê ni'iajt.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
