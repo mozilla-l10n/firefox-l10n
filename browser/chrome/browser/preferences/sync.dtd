@@ -66,10 +66,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Llévese la web con usted">
 <!ENTITY signedOut.description        "Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.">
 <!ENTITY signedOut.accountBox.title   "Conecte con &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crear cuenta">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Ingresar">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "¿No tiene una cuenta? Comencemos">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Ingresar…">
 
 <!ENTITY signedIn.settings.label       "Opciones de Sync">
 <!ENTITY signedIn.settings.description "Elegir qué sincronizar en los dispositivos que usan &brandShortName;.">
