@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Afáyate">
-
-<!ENTITY firstrun_urlbar_message "Afáyate en &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Alcuentra coses aína per duana de los atayos y suxerencies de gueta.">
+<!ENTITY firstrun_urlbar_message2 "Gracies por escoyer &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Un restolador web móvil y modernu de Mozilla, la organización ensin ánimu de llucru comprometida con una web llibre y abierta.">
+<!ENTITY firstrun_panel_title_privacy "Privacidá">
+<!ENTITY firstrun_customize_message "Fai &brandShortName; de to.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Los favoritos, al frente y nel centru">
 <!ENTITY firstrun_bookmarks_subtext "Consigui resultaos de los marcadores ya historial al guetar.">
@@ -13,8 +14,6 @@
 <!ENTITY firstrun_data_message "Menos datos, más aforru">
 <!ENTITY firstrun_data_subtext2 "Desactiva les imáxenes pa nun marafundiar datos en cada sitiu que visites.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, siempres al to llau">
-<!ENTITY firstrun_sync_subtext "Sincroniza les llingüetes, contraseñes y más en tolos llaos que lu uses.">
 <!ENTITY firstrun_signin_message "Conéutate, entama">
 <!ENTITY firstrun_signin_button "Aniciar sesión en Sync">
 <!ENTITY  onboard_start_button_browser "Entamar a restolar">
