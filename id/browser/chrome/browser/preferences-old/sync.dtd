@@ -58,9 +58,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Putuskan…">
 <!ENTITY disconnect.accesskey        "P">
-<!ENTITY verify.label                "Verifikasikan Email">
+<!ENTITY verify.label                "Verifikasikan Surel">
 <!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "Lupakan Email Ini">
+<!ENTITY forget.label                "Lupakan Surel Ini">
 <!ENTITY forget.accesskey            "L">
 
 <!ENTITY signedOut.caption            "Bawalah Web bersama Anda">

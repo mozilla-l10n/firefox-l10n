@@ -23,8 +23,8 @@
 <!ENTITY tabCrashed.sendReport2 "Kirim laporan kerusakan untuk tab yang Anda lihat">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar tambahan (komentar dapat dilihat umum)">
 <!ENTITY tabCrashed.includeURL2 "Sertakan URL laman bersama laporan kerusakan ini">
-<!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat email Anda di sini">
-<!ENTITY tabCrashed.emailMe "Kirimi saya email saat informasi lebih lanjut tersedia">
+<!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat surel Anda di sini">
+<!ENTITY tabCrashed.emailMe "Kirimi saya surel saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Laporkan tab latar belakang">
 <!ENTITY tabCrashed.autoSubmit2 "Perbarui preferensi untuk mengirim laporan kerusakan secara otomatis, termasuk laporan kerusakan tab latar belakang dari sesi ini dan sesi mendatang">

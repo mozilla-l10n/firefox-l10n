@@ -10,11 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Otoritas">
 <!ENTITY certmgr.tab.orphan2                  "Lainnya">
 
-<!ENTITY certmgr.mine                         "Anda memiliki sertifikat dari organisasi berikut ini yang mengidentifikasikan Anda:">
-<!ENTITY certmgr.others                       "Anda memiliki sertifikat di berkas yang mengidentifikasikan orang ini:">
-<!ENTITY certmgr.websites2                    "Anda memiliki sertifikat pada berkas yang bisa mengidentifikasi server berikut:">
-<!ENTITY certmgr.cas                          "Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini:">
-<!ENTITY certmgr.orphans                      "Anda memiliki sertifikat pada berkas yang tidak cocok di kategori manapun:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "U">
@@ -48,7 +43,7 @@
 <!ENTITY certmgr.tokenname                    "Perangkat Keamanan">
 <!ENTITY certmgr.begins                       "Mulai Sejak">
 <!ENTITY certmgr.expires                      "Kedaluwarsa Pada">
-<!ENTITY certmgr.email                        "Alamat Email">
+<!ENTITY certmgr.email                        "Alamat Surel">
 <!ENTITY certmgr.serial                       "Nomor Seri">
 
 <!ENTITY certmgr.close.label                  "Tutup">
