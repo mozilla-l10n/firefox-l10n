@@ -35,6 +35,9 @@
 <!ENTITY editMailingListContext.label       "Listeyi düzenle">
 <!ENTITY editMailingListContext.accesskey   "e">
 
+<!ENTITY newContactAbContext.label          "Yeni kişi">
+<!ENTITY newListAbContext.label             "Yeni liste">
+
 <!ENTITY toButton.label                     "Kime alanına ekle:">
 <!ENTITY toButton.accesskey                 "e">
 <!ENTITY ccButton.label                     "Bilgi alanına ekle:">

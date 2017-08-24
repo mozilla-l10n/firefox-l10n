@@ -64,6 +64,7 @@
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Sürüm ">
 <!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
 <!ENTITY updateAuto.accesskey            "o">
 <!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
