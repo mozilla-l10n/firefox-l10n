@@ -7,16 +7,17 @@
 <!ENTITY  blockPopups.label           "Estä ponnahdusikkunat">
 <!ENTITY  blockPopups.accesskey       "E">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Lue lisää">
-<!ENTITY  notificationsPolicyDesc4.label       "Valitse, mitkä sivustot saavat lähettää sinulle ilmoituksia">
-<!ENTITY  notificationsPolicyButton.accesskey  "V">
-<!ENTITY  notificationsPolicyButton.label      "Valitse…">
 <!ENTITY  notificationsDoNotDisturb.label      "Älä häiritse minua">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "Ä">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Ilmoituksia ei näytetä ennen kuin käynnistät &brandShortName;in uudestaan">
 
-<!ENTITY  popupExceptions.label       "Poikkeukset…">
-<!ENTITY  popupExceptions.accesskey   "P">
+<!ENTITY  popupExceptions.label                                 "Poikkeukset…">
+<!ENTITY  popupExceptions.accesskey                             "P">
+
+<!ENTITY  notificationPermissionsLearnMore.label                "Lue lisää">
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Kirjasinlajit ja värit">
 
