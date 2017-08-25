@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un navigateur mobile et moderne par Mozilla, l’organisation à but non lucratif qui s’engage à défendre un Web libre et ouvert.">
 <!ENTITY firstrun_panel_title_privacy "Vie privée">
 <!ENTITY firstrun_privacy_message "Naviguez comme si personne ne vous regardait">
+<!ENTITY firstrun_privacy_subtext "La navigation privée avec la protection contre le pistage bloque les traqueurs lorsque vous naviguez et ne conserve pas votre historique lorsque vous avez terminé.">
 <!ENTITY firstrun_panel_title_customize "Personnalisation">
 <!ENTITY firstrun_customize_message "Personnalisez &brandShortName;">
 <!ENTITY firstrun_customize_subtext "Modifiez &brandShortName; grâce aux modules complémentaires. Bloquez les publicités, ajoutez des fonctionnalités ou choisissez un nouveau thème qui reflète votre personnalité.">
@@ -839,16 +840,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visités">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Retirer">
+<!ENTITY activity_stream_remove "Retirer">
 <!ENTITY activity_stream_delete_history "Supprimer de l’historique">
 
 <!ENTITY activity_stream_welcome_title "Découvrez les éléments mis en avant">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; met désormais en avant des éléments-clés que vous avez découverts sur le Web, afin que vous puissiez retrouver facilement des articles, vidéos, marque-pages et d’autres pages.">
+<!ENTITY activity_stream_welcome_dismiss "Fermer">
 
 <!ENTITY private_tab_panel_title "Navigation privée avec protection contre le pistage">
 <!ENTITY private_tab_panel_description "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.">
 <!ENTITY private_tab_panel_description2 "Nous ne conserverons aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
 <!ENTITY private_tab_learn_more "Vous souhaitez en savoir plus ?">
+
