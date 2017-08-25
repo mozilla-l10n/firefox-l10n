@@ -227,9 +227,40 @@
 <!ENTITY event.reminder.accesskey                         "t">
 <!ENTITY event.description.label                          "Keterangan:" >
 <!ENTITY event.description.accesskey                      "g">
+<!ENTITY event.attachments.label                          "Lampiran:" >
+<!ENTITY event.attachments.accesskey                      "p" >
+<!ENTITY event.attachments.menubutton.label               "Lampir">
+<!ENTITY event.attachments.menubutton.accesskey           "L">
+<!ENTITY event.attachments.url.label                      "Laman web…">
+<!ENTITY event.attachments.url.accesskey                  "L">
+<!ENTITY event.attachments.popup.remove.label             "Buang" >
+<!ENTITY event.attachments.popup.remove.accesskey         "B" >
+<!ENTITY event.attachments.popup.open.label               "Buka" >
+<!ENTITY event.attachments.popup.open.accesskey           "B" >
+<!ENTITY event.attachments.popup.removeAll.label          "Buang Semua" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "S" >
+<!ENTITY event.attachments.popup.attachPage.label         "Lampir Halaman web…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "m" >
+<!ENTITY event.url.label                                  "Pautan Berkaitan:" >
+<!ENTITY event.priority2.label                            "Prioriti:">
 
+<!ENTITY event.reminder.none.label                        "Tiada peringatan " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minit sebelum" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minit sebelum" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minit sebelum" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minit sebelum" >
+<!ENTITY event.reminder.1hour.before.label                "1 jam sebelum" >
+<!ENTITY event.reminder.2hours.before.label               "2 jam sebelum" >
+<!ENTITY event.reminder.12hours.before.label              "12 jam sebelum" >
+<!ENTITY event.reminder.1day.before.label                 "1 hari sebelum" >
+<!ENTITY event.reminder.2days.before.label                "2 hari sebelum" >
+<!ENTITY event.reminder.1week.before.label                "1 minggu sebelum" >
+<!ENTITY event.reminder.custom.label                      "Sesuaikan…" >
 
+<!ENTITY event.reminder.multiple.label                    "Berbilang Peringatan…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Masa sebagai:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privasi:">
 
 <!-- Recurrence dialog -->
 
