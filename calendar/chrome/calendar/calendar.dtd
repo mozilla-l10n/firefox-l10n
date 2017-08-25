@@ -345,7 +345,30 @@
 <!ENTITY calendar.select.dialog.title    "Pilih Kalendar">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Cetak Kalendar">
+<!ENTITY calendar.print.title.label "Tajuk:">
+<!ENTITY calendar.print.layout.label "Susun atur:">
+<!ENTITY calendar.print.range.label "Apa Yang Mahu Dicetak">
+<!ENTITY calendar.print.currentView2.label "Paparan semasa">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Acara//tasks dipilih">
+<!ENTITY calendar.print.tasks.label "Tugasan">
+<!ENTITY calendar.print.events.label "Acara">
+<!ENTITY calendar.print.custom.label "Julat tarikh lazim:">
+<!ENTITY calendar.print.from.label "Daripada:">
+<!ENTITY calendar.print.to.label "Sehingga:">
+<!ENTITY calendar.print.settingsGroup.label "Tetapan Cetakan">
+<!ENTITY calendar.print.optionsGroup.label "Pilihan">
+<!ENTITY calendar.print.taskswithnoduedate.label "Tugasan tanpa tarikh genap tempoh">
+<!ENTITY calendar.print.completedtasks.label "Tugasan selesai">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Butiran…">
+<!ENTITY calendar.error.code "Kod ralat:">
+<!ENTITY calendar.error.description "Keterangan:">
+<!ENTITY calendar.error.title "Ada ralat">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Tambah sebagai acara">
+<!ENTITY calendar.extract.task.button          "Tambah sebagai tugasan">
+<!ENTITY calendar.extract.event.button.tooltip "Ekstrak maklumat kalendar daripada mesej dan masukkan ke dalam kalender sebagai acara">
+<!ENTITY calendar.extract.task.button.tooltip  "Ekstrak maklumat kalendar daripada mesej dan masukkan ke dalam kalender sebagai tugasan">
