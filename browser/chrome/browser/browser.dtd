@@ -109,7 +109,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Aggiungi pagina ai segnalibri">
 <!ENTITY editThisBookmarkCmd.label "Modifica segnalibro">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY feedsMenu2.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abbonati a questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abbonati a questa pagina…">
 <!ENTITY addCurPagesCmd.label "Tutte le schede nei segnalibri…">
@@ -175,7 +174,6 @@
 <!ENTITY bookmarkingTools.label "Strumenti per i segnalibri">
 <!ENTITY addBookmarksMenu.label "Aggiungi il menu Segnalibri alla barra degli strumenti">
 <!ENTITY removeBookmarksMenu.label "Rimuovi il menu Segnalibri dalla barra degli strumenti">
-<!ENTITY containersMenu.label "Contenitori">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
@@ -255,7 +253,6 @@
 <!ENTITY appMenuCustomize.tooltip "Personalizza menu e barre degli strumenti">
 <!ENTITY appMenuCustomizeExit.label "Termina personalizzazione">
 <!ENTITY appMenuCustomizeExit.tooltip "Chiudi la scheda di personalizzazione">
-<!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Visualizza la cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Cancella la cronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Ripristina la sessione precedente">
@@ -647,7 +644,6 @@
 <!ENTITY pluginBlockNow.label "Blocca plugin">
 <!ENTITY pluginNotification.width "28em">
 <!ENTITY uiTour.infoPanel.close "Chiudi">
-<!ENTITY appMenuSidebars.label "Barre laterali">
 <!ENTITY panicButton.view.mainTimeframeDesc "Dimentica:">
 <!ENTITY panicButton.view.5min "gli ultimi 5 minuti">
 <!ENTITY panicButton.view.2hr "le ultime 2 ore">
