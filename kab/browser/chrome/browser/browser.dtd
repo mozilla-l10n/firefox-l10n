@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Azen iccer γer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
+
+<!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwaskelsen, d wayen-nniḍen">

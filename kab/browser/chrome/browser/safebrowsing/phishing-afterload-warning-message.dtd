@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ismal web n ukellex d wid ittaɛraḍen ad xedmen ayen ur yelhin ara, am usebded n iseɣẓan, neɣ takerḍa n telɣut-inek tudmawant, am awalen uffiren, uṭṭunen n tiliɣṛi, takarḍa n usmad.</p><p>Yezmer d akken ma teskecmeḍ talɣut-inek tudmawant, ad-yeglu s takeṛḍa-ines neɣ akellex nniḍen.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Asmel-agi yegber ahat yir aseɣẓan">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox isewḥel asebter-agi acku yettaɛraḍ ad isebded yir isnasen izemren ad akwren neɣ ad kksen talɣut-ik (amedya, tiwlafin, awalen uffiren, iznan neɣ tikaṛḍiwin n usmad).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, inzan akked tkarḍiwin n usmad).">
