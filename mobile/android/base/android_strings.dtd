@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "曾经访问">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "隐藏">
+<!ENTITY activity_stream_remove "移除">
 <!ENTITY activity_stream_delete_history "从历史记录删除">
 
 <!ENTITY activity_stream_welcome_title "欢迎！这里是您的集锦">
 <!ENTITY activity_stream_welcome_content1 "现在，&brandShortName; 会把您在网上的新发现整理成集锦，方便您快速回到这些有用的文章、视频、加了书签的网页等。">
+<!ENTITY activity_stream_welcome_dismiss "消除">
 
 <!ENTITY private_tab_panel_title "隐私浏览 + 跟踪保护">
 <!ENTITY private_tab_panel_description "&brandShortName; 将拦截页面中可能跟踪您的浏览行为的部分。">
 <!ENTITY private_tab_panel_description2 "我们不会记住任何浏览历史，但下载的文件和新添加的书签仍会保存在您的设备上。">
 <!ENTITY private_tab_learn_more "想详细了解？">
+
+<!ENTITY fullscreen_warning "已进入全屏">
