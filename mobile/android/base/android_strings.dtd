@@ -843,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitóse">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Escartar">
+<!ENTITY activity_stream_remove "Desaniciar">
 <!ENTITY activity_stream_delete_history "Desaniciar del historial">
 
 <!ENTITY activity_stream_welcome_title "Afáyate nos tos destacaos">
 <!ENTITY activity_stream_welcome_content1 "Agora &brandShortName; crea destacaos de coses que descubrieres na web pa qu\&apos;asina pueas volver alcontrar artículos, vídeos, marcadores y otres páxines fabuloses.">
+<!ENTITY activity_stream_welcome_dismiss "Escartar">
 
 <!ENTITY private_tab_panel_title "Restolar en privao + proteición de rastrexu">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquia partes de les páxines que podríen rastrexar la to actividá en llinia.">
 <!ENTITY private_tab_panel_description2 "Nun recordaremos el to historial, pero los ficheros baxaos y les páxines amestaes a marcadores entá se guardarán nel to preséu.">
 <!ENTITY private_tab_learn_more "¿Quies deprender más?">
+
+<!ENTITY fullscreen_warning "Nel mou pantalla completa">
