@@ -45,28 +45,141 @@
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "T">
 <!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 
 <!-- Menubar -->
+<!ENTITY  event.menu.item.new.label                       "Baru">
+<!ENTITY  event.menu.item.new.accesskey                   "B">
+<!ENTITY  event.menu.item.new.event.label                 "Acara">
+<!ENTITY  event.menu.item.new.event.accesskey             "A">
+<!ENTITY  event.menu.item.new.task.label                  "Tugasan">
+<!ENTITY  event.menu.item.new.task.accesskey              "T">
+<!ENTITY  event.menu.item.new.message.label               "Mesej">
+<!ENTITY  event.menu.item.new.message.accesskey           "M">
+<!ENTITY  event.menu.item.new.contact.label               "Buku Alamat Kenalan">
+<!ENTITY  event.menu.item.new.contact.accesskey           "K">
+<!ENTITY  event.menu.item.close.label                     "Tutup">
+<!ENTITY  event.menu.item.close.accesskey                 "T">
 
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.save.label                      "Simpan">
+<!ENTITY  event.menu.item.save.accesskey                  "S">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
+<!ENTITY  event.menu.item.saveandclose.label              "Simpan dan Tutup">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "t">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
+<!ENTITY  event.menu.item.delete.label                    "Hapus…">
+<!ENTITY  event.menu.item.delete.accesskey                "H">
+<!ENTITY  event.menu.item.page.setup.label                "Tatacara Halaman">
+<!ENTITY  event.menu.item.page.setup.accesskey            "c">
+<!ENTITY  event.menu.item.print.label                     "Cetak">
+<!ENTITY  event.menu.item.print.accesskey                 "P">
 
+<!ENTITY  event.menu.edit.label                           "Edit">
+<!ENTITY  event.menu.edit.accesskey                       "E">
+<!ENTITY  event.menu.edit.undo.label                      "Batal">
+<!ENTITY  event.menu.edit.undo.accesskey                  "B">
+<!ENTITY  event.menu.edit.redo.label                      "Buat semula">
+<!ENTITY  event.menu.edit.redo.accesskey                  "B">
+<!ENTITY  event.menu.edit.cut.label                       "Potong">
+<!ENTITY  event.menu.edit.cut.accesskey                   "t">
+<!ENTITY  event.menu.edit.copy.label                      "Salin">
+<!ENTITY  event.menu.edit.copy.accesskey                  "S">
+<!ENTITY  event.menu.edit.paste.label                     "Tampal">
+<!ENTITY  event.menu.edit.paste.accesskey                 "T">
+<!ENTITY  event.menu.edit.select.all.label                "Pilih Semua">
+<!ENTITY  event.menu.edit.select.all.accesskey            "S">
 
+<!ENTITY  event.menu.view.label                           "Papar">
+<!ENTITY  event.menu.view.accesskey                       "P">
+<!ENTITY  event.menu.view.toolbars.label                  "Bar Alatan">
+<!ENTITY  event.menu.view.toolbars.accesskey              "B">
+<!ENTITY  event.menu.view.toolbars.event.label            "Bar alatan Acara">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "A">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Penyesuaian…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
+<!ENTITY  event.menu.view.showlink.label                  "Papar Pautan Berkaitan">
+<!ENTITY  event.menu.view.showlink.accesskey              "B">
 
+<!ENTITY  event.menu.options.label                            "Pilihan">
+<!ENTITY  event.menu.options.accesskey                        "P">
+<!ENTITY  event.menu.options.attendees.label                  "Jemput Peserta…">
+<!ENTITY  event.menu.options.attendees.accesskey              "J">
+<!ENTITY  event.menu.options.timezone2.label                  "Papar Zon masa">
+<!ENTITY  event.menu.options.timezone2.accesskey              "Z">
+<!ENTITY  event.menu.options.priority2.label                  "Prioriti">
+<!ENTITY  event.menu.options.priority2.accesskey              "o">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Tidak dinyatakan">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "d">
+<!ENTITY  event.menu.options.priority.low.label               "Rendah">
+<!ENTITY  event.menu.options.priority.low.accesskey           "R">
+<!ENTITY  event.menu.options.priority.normal.label            "Normal">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Tinggi">
+<!ENTITY  event.menu.options.priority.high.accesskey          "T">
+<!ENTITY  event.menu.options.privacy.label                    "Privasi">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Acara Umum">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Papar Masa dan Tarikh Sahaja">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "P">
+<!ENTITY  event.menu.options.privacy.private.label            "Acara Peribadi">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Papar Masa sebagai">
+<!ENTITY  event.menu.options.show.time.accesskey              "M">
+<!ENTITY  event.menu.options.show.time.busy.label             "Sibuk">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "S">
+<!ENTITY  event.menu.options.show.time.free.label             "Lapang">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "L">
 
+<!ENTITY event.invite.attendees.label                     "Jemput Peserta…">
+<!ENTITY event.invite.attendees.accesskey                 "J">
+<!ENTITY event.email.attendees.label                      "Karang E-Mel kepada Semua Peserta…">
+<!ENTITY event.email.attendees.accesskey                  "S">
+<!ENTITY event.email.tentative.attendees.label            "Karang E-Mel kepada Peserta tanpa Keputusan…">
+<!ENTITY event.email.tentative.attendees.accesskey        "K">
+<!ENTITY event.remove.attendees.label2                    "Buang semua peserta">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Buang peserta">
+<!ENTITY event.remove.attendee.accesskey                  "u">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Simpan">
+<!ENTITY  event.toolbar.saveandclose.label                "Simpan dan Tutup">
+<!ENTITY  event.toolbar.delete.label                      "Hapus">
+<!ENTITY  event.toolbar.attendees.label                   "Jemput Peserta">
+<!ENTITY  event.toolbar.privacy.label                     "Privasi">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Simpan">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Simpan dan Tutup">
+<!ENTITY  event.toolbar.delete.tooltip                    "Hapus">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Jemput Peserta">
+<!ENTITY  event.toolbar.attachments.tooltip               "Tambah Lampiran">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Tukar Privasi">
+<!ENTITY  event.toolbar.priority.tooltip                  "Tukar Prioriti">
+<!ENTITY  event.toolbar.status.tooltip                    "Tukar Status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Tukar masa Lapang/Busy">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -75,6 +188,8 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Mohon cadangan">
+<!ENTITY counter.button.proposal.accesskey                "d">
 
 <!-- Main page -->
 
