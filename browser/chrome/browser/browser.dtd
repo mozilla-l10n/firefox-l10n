@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Gøym bokmerkeverktøylinja">
 <!ENTITY searchBookmarks.label              "Søk i bokmerke">
 <!ENTITY bookmarkingTools.label             "Verktøy for bokmerke">
+<!ENTITY addBookmarksMenu.label             "Legg til bokmerkemeny i verktøylinja">
+<!ENTITY removeBookmarksMenu.label          "Fjern bokmerkemeny frå verktøylinja">
 
 <!ENTITY containersMenu.label "Behaldarar">
 
@@ -824,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Dra favorittobjekta dine til verktøylinja eller overflytsmenyen.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
@@ -970,4 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 
+<!ENTITY sendToDevice.label3 "Send siden til eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
+
+<!ENTITY libraryButton.tooltip "Vis historikk, lagra bokmerker med meir">
