@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Yettwarza">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Aggwi">
+<!ENTITY activity_stream_remove "Kkes">
 <!ENTITY activity_stream_delete_history "Kkes seg umazray">
 
 <!ENTITY activity_stream_welcome_title "Anṣuf ɣef wayen tesebṛurqeḍ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; irennu tura asebṛuṛeq n tɣawsiwin i tufiḍ di i tzemreḍ sakin ad tuɣaleḍ ɣur-sent ama d imagraden, tividyutin, ticraḍ n isebtar neɣ isebtar-nniḍen.">
+<!ENTITY activity_stream_welcome_dismiss "Zgel">
 
 <!ENTITY private_tab_panel_title "Tunigin tusligt + Ammesten mgal asfuɣel">
 <!ENTITY private_tab_panel_description "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n tunigin-inek.">
 <!ENTITY private_tab_panel_description2 "Ur nceffu ara ɣef umazray, acukan ifuyla yettwasidren akked ticraḍ timaynutin ad ttwakelsen ɣef yibenk-inek.">
 <!ENTITY private_tab_learn_more "Tebγiḍ ad tissineḍ ugar?">
+
+<!ENTITY fullscreen_warning "Yekcem ar ugdil aččuran">
