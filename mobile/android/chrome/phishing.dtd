@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página web en <span id='unwanted_sitename'/> ha sido infromada que contiene software no deseado y ha sido bloqueada basada en tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas de software no deseado tratan de instalar software que puede ser engañoso y afectar a tu sistema en formas inesperadas.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El siguiente sitio puede contener malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloqueó esta pagina porque podría intentar instalar aplicaciones peligrosas que roben o eliminen tu información (por ejemplo fotos, contraseñas, mensajes y tarjetas de crédito).">
