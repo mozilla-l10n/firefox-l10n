@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Bidali orria gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
+
+<!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">
