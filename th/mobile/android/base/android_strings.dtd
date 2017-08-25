@@ -854,3 +854,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "เราจะไม่จดจำประวัติใด ๆ แต่ไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่จะยังคงถูกบันทึกไว้ในอุปกรณ์ของคุณ">
 <!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
 
+<!ENTITY fullscreen_warning "เข้าสู่ภาพเต็มหน้าจอแล้ว">
