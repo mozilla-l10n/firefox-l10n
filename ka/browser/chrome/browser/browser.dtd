@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "გვერდის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
+
+<!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნეები და ა.შ.">
