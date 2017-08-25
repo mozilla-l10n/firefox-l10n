@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "จ">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY exitFullScreenCmd.accesskey "จ">
-<!ENTITY fullScreenCmd.label "เต็มจอ">
+<!ENTITY fullScreenCmd.label "เต็มหน้าจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "ปิด">
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
 <!ENTITY fullScreenAutohide.accesskey "น">
-<!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
+<!ENTITY fullScreenExit.label "ออกจากโหมดเต็มหน้าจอ">
 <!ENTITY fullScreenExit.accesskey "จ">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -133,8 +133,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "เต็มจออยู่">
-<!ENTITY fullscreenWarning.generic.label "เอกสารนี้เต็มจออยู่">
+<!ENTITY fullscreenWarning.afterDomain.label "เต็มหน้าจออยู่">
+<!ENTITY fullscreenWarning.generic.label "เอกสารนี้เต็มหน้าจออยู่">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -637,7 +637,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "ค">
 <!ENTITY mediaHideControls.label     "ซ่อนปุ่มควบคุม">
 <!ENTITY mediaHideControls.accesskey "ค">
-<!ENTITY videoFullScreen.label       "เต็มจอ">
+<!ENTITY videoFullScreen.label       "เต็มหน้าจอ">
 <!ENTITY videoFullScreen.accesskey   "จ">
 <!ENTITY videoSaveImage.label        "บันทึก Snapshot เป็น…">
 <!ENTITY videoSaveImage.accesskey    "บ">

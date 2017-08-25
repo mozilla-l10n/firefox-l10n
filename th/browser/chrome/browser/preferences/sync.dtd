@@ -66,6 +66,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "นำเว็บของคุณไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "ไม่มีบัญชี? เริ่มต้นใช้งาน">
 <!ENTITY signedOut.accountBox.signin2 "ลงชื่อเข้า…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "ล">
 
