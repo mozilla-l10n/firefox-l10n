@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Skicka sida till enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
+
+<!ENTITY libraryButton.tooltip "Visa historik, sparade bokmärken och mer">
