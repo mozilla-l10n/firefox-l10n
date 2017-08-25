@@ -371,6 +371,9 @@
 
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Jemput Peserta">
+<!ENTITY event.organizer.label                  "Penganjur">
+<!ENTITY event.freebusy.suggest.slot            "Cadangan slot masa:">
+<!ENTITY event.freebusy.button.next.slot        "Slot seterusnya">
 
 <!-- Timezone dialog -->
 
