@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að vefsíðan <span id='unwanted_sitename'/> innihaldi óæskilegan hugbúnaða og hefur því verið lokað á hana samkvæmt á öryggisstillingum þínum.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Síður með óæskilegum hugbúnaði reyna að innsetja hugbúnað á tækið þitt sem getur verið villandi og haft óvænt áhrif á kerfið þitt.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Vefsvæði þetta gæti innihaldið spilliforrit">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; lokaði á þessa síðu vegna þess að hún gæti reynt að setja inn hættulegt smáforrit sem rænir eða eyðir upplýsingum þínum (sem dæmi ljósmyndum, lykilorðum, skilaboðum og greiðslukortum).">
