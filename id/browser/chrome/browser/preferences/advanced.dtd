@@ -124,6 +124,7 @@ available. -->
 <!ENTITY enableOCSP.label                "Kueri server penjawab OCSP untuk mengonfirmasukan validitas sertifikat">
 <!ENTITY enableOCSP.accesskey            "v">
 <!ENTITY viewCerts2.label                "Tampilkan Sertifikat…">
+<!ENTITY viewCerts2.accesskey            "S">
 
 <!ENTITY performance.label               "Kinerja">
 <!ENTITY useRecommendedPerformanceSettings2.label
