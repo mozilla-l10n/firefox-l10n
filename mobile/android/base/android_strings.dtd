@@ -843,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Telah dilawati">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Abai">
+<!ENTITY activity_stream_remove "Buang">
 <!ENTITY activity_stream_delete_history "Hapus daripada Sejarah">
 
 <!ENTITY activity_stream_welcome_title "Welcome to your Highlights">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\&apos;ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
+<!ENTITY activity_stream_welcome_dismiss "Abai">
 
 <!ENTITY private_tab_panel_title "Pelayaran Peribadi + Perlindungan Penjejakan">
 <!ENTITY private_tab_panel_description "&brandShortName; menyekat sebahagian halaman yang mungkin menjejaki aktiviti pelayaran anda.">
 <!ENTITY private_tab_panel_description2 "Kami tidak akan menyimpan sejarah, tetapi fail yang dimuat turun dan tandabuku baru akan masih disimpan pada peranti anda.">
 <!ENTITY private_tab_learn_more "Mahu ketahui selanjutnya?">
+
+<!ENTITY fullscreen_warning "Masuk skrin penuh">
