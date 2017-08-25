@@ -5,7 +5,9 @@
 <!ENTITY firstrun_panel_title_welcome "Velkomen">
 <!ENTITY firstrun_urlbar_message2 "Takk for at du vel &brandShortName;">
 <!ENTITY firstrun_panel_title_privacy "Personvern">
+<!ENTITY firstrun_privacy_message "Surf utan å kjenne deg overvaka">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
+<!ENTITY firstrun_customize_message "Gjer &brandShortName; til din eigen.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favorittar, der dei er viktigast">
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
@@ -833,10 +835,10 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besøkt">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Ignorer">
+<!ENTITY activity_stream_remove "Fjern">
 <!ENTITY activity_stream_delete_history "Slett frå historikk">
 
 <!ENTITY activity_stream_welcome_title "Velkomen til høgdepunkta dine">
@@ -846,3 +848,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spore nettlesaraktiviteten din.">
 <!ENTITY private_tab_panel_description2 "Vi vil ikkje hugse noko historikk, men nedlasta filer og nye bokmerke vert lagra på eininga di.">
 <!ENTITY private_tab_learn_more "Vil du finne ut meir?">
+
