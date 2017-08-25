@@ -190,8 +190,43 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Mohon cadangan">
 <!ENTITY counter.button.proposal.accesskey                "d">
+<!ENTITY counter.button.proposal.tooltip2                 "Medan acara akan diisi menggunakan nilai daripada balasan cadangan kepada semua peserta samada dengan atau tanpa perubahan tambahan yang disimpan">
+<!ENTITY counter.button.original.label                    "Mohon data asal">
+<!ENTITY counter.button.original.accesskey                "s">
+<!ENTITY counter.button.original.tooltip2                 "Medan ini akan ditetapkan dengan nilai daripada acara asal, sebelum cadangan balasan dibuat">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Tajuk:" >
+<!ENTITY event.title.textbox.accesskey                    "T">
+<!ENTITY event.location.label                             "Lokasi:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Kategori:">
+<!ENTITY event.categories.accesskey                       "g">
+<!ENTITY event.categories.textbox.label                   "Tambah kategori baru" >
+<!ENTITY event.calendar.label                             "Kalendar:" >
+<!ENTITY event.calendar.accesskey                         "K">
+<!ENTITY event.attendees.label                            "Peserta:" >
+<!ENTITY event.attendees.accesskey                        "t">
+<!ENTITY event.alldayevent.label                          "Acara Sepanjang hari" >
+<!ENTITY event.alldayevent.accesskey                      "h">
+<!ENTITY event.from.label                                 "Mula:" >
+<!ENTITY event.from.accesskey                             "M">
+<!ENTITY task.from.label                                  "Mula:" >
+<!ENTITY task.from.accesskey                              "M">
+<!ENTITY event.to.label                                   "Tamat:" >
+<!ENTITY event.to.accesskey                               "e">
+<!ENTITY task.to.label                                    "Tarikh Tamat tempoh:" >
+<!ENTITY task.to.accesskey                                "e">
+<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Ulang:" >
+<!ENTITY event.repeat.accesskey                           "U">
+<!ENTITY event.until.label                                "Hingga:">
+<!ENTITY event.until.accesskey                            "H">
+<!ENTITY event.reminder.label                             "Peringatan:" >
+<!ENTITY event.reminder.accesskey                         "t">
+<!ENTITY event.description.label                          "Keterangan:" >
+<!ENTITY event.description.accesskey                      "g">
 
 
 
