@@ -857,3 +857,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "&brandShortName; blokkeert onderdelen van de pagina’s die uw surfactiviteit kunnen volgen.">
 <!ENTITY private_tab_panel_description2 "Er wordt geen geschiedenis onthouden, maar gedownloade bestanden en nieuwe bladwijzers worden wel op uw apparaat opgeslagen.">
 <!ENTITY private_tab_learn_more "Wilt u meer weten?">
+
+<!ENTITY fullscreen_warning "Volledig scherm geopend">
