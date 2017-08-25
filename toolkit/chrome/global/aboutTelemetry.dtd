@@ -45,14 +45,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "瀏覽器停滯">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "執行緒遲滯">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "捕捉到的堆疊">
 
 <!ENTITY aboutTelemetry.scalarsSection "Scalars">
 
-<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars
-">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Keyed Scalars">
 
 <!ENTITY aboutTelemetry.histogramsSection "柱狀圖">
 
@@ -66,8 +63,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "慢速寫入">
 
-<!ENTITY aboutTelemetry.rawPayloadSection "
-原始酬載">
+<!ENTITY aboutTelemetry.rawPayloadSection "原始酬載">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "使用階段資訊">
 
