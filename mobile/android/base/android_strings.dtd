@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 <!ENTITY firstrun_urlbar_message2 "ขอบคุณที่เลือก &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "เบราว์เซอร์มือถือที่ทันสมัยจาก Mozilla องค์กรไม่แสวงหาผลกำไรที่มุ่งมั่นเพื่อเว็บฟรีและเปิดกว้าง">
 <!ENTITY firstrun_panel_title_privacy "ความเป็นส่วนตัว">
 <!ENTITY firstrun_privacy_message "ท่องเว็บเหมือนไม่มีใครเฝ้ามองอยู่">
 <!ENTITY firstrun_privacy_subtext "การท่องเว็บแบบส่วนตัวพร้อมการป้องกันการติดตามปิดกั้นตัวติดตามขณะที่คุณท่องเว็บและจะไม่จดจำประวัติของคุณเมื่อคุณเสร็จสิ้นการท่องเว็บ">
@@ -39,7 +40,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "คุณ">
-<!ENTITY firstrun_account_message "มี &brandShortName; บนอุปกรณ์อื่น?">
+<!ENTITY firstrun_account_message "มี &brandShortName; ในอุปกรณ์อื่น?">
 
 <!ENTITY  onboard_start_restricted1 "ปลอดภัยและอยู่ในการควบคุมด้วยรุ่นแบบเรียบง่ายนี้ของ &brandShortName;">
 
