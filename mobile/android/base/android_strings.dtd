@@ -843,16 +843,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Obiskano">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Opusti">
+<!ENTITY activity_stream_remove "Odstrani">
 <!ENTITY activity_stream_delete_history "Izbriši iz zgodovine">
 
 <!ENTITY activity_stream_welcome_title "Dobrodošli v vaše poudarke">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; zdaj ustvarja poudarke stvari, ki jih odkrivate na spletu, tako da lahko znova najdete zanimive članke, videoposnetke, zaznamke in druge strani.">
+<!ENTITY activity_stream_welcome_dismiss "Opusti">
 
 <!ENTITY private_tab_panel_title "Zasebno brskanje in zaščita pred sledenjem">
 <!ENTITY private_tab_panel_description "&brandShortName; zavrača dele strani, ki lahko sledijo vaši dejavnosti na spletu.">
 <!ENTITY private_tab_panel_description2 "Ne bomo si zapomnili nobene zgodovine, prenesene datoteke in novi zaznamki pa bodo ostali shranjeni na vaši napravi.">
 <!ENTITY private_tab_learn_more "Želite izvedeti več?">
+
