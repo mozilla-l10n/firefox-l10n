@@ -496,3 +496,4 @@
 <!ENTITY private_tab_panel_description "&brandShortName; blocca gli elementi della pagina in grado di tracciare la navigazione." >
 <!ENTITY private_tab_panel_description2 "Non verrà salvata alcuna cronologia, ma i file scaricati e i nuovi segnalibri verranno comunque conservati sul dispositivo." >
 <!ENTITY private_tab_learn_more "Ulteriori informazioni">
+<!ENTITY fullscreen_warning "Attivata modalità schermo intero">
