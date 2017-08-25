@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besøkt">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Ignorer">
+<!ENTITY activity_stream_remove "Fjern">
 <!ENTITY activity_stream_delete_history "Slett fra historikk">
 
 <!ENTITY activity_stream_welcome_title "Velkommen til dine høydepunkter">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar nå høydepunkt av det du har funnet på nettet, slik at du kan finne tilbake til gode artikler, videoer, bokmerker og annet.">
+<!ENTITY activity_stream_welcome_dismiss "Lukk">
 
 <!ENTITY private_tab_panel_title "Privat nettlesing + sporingsbeskyttelse">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkerer deler av sidene som kan spore nettleseraktiviteten din.">
 <!ENTITY private_tab_panel_description2 "Vi vil ikke huske noe historikk, men nedlastede filer og nye bokmerker blir lagret på enheten din.">
 <!ENTITY private_tab_learn_more "Vil du finne ut mer?">
+
+<!ENTITY fullscreen_warning "Åpnet fullskjerm">
