@@ -843,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "მონახულებული">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "დათხოვნა">
+<!ENTITY activity_stream_remove "ამოღება">
 <!ENTITY activity_stream_delete_history "ისტორიიდან წაშლა">
 
 <!ENTITY activity_stream_welcome_title "ყველაზე საინტერესო თქვენთვის">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ცალკე გამოჰყოფს ინტერნეტში თქვენ მიერ ნანახიდან ყველაზე მნიშვნელოვანს, ასე რომ, მარტივად შეგეძლებათ დაუბრუნდეთ საინტერესო სტატიებს, ვიდეოებს, სანიშნეებს და სხვ.">
+<!ENTITY activity_stream_welcome_dismiss "დახურვა">
 
 <!ENTITY private_tab_panel_title "პირადი თვალიერება + თვალთვალისგან დაცვა">
 <!ENTITY private_tab_panel_description "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს.">
 <!ENTITY private_tab_panel_description2 "ჩვენ არ დავიმახსოვრებთ ისტორიას, მაგრამ ჩამოტვირთული ფაილები და ახალი სანიშნეები მაინც შეინახება თქვენს მოწყობილობაში.">
 <!ENTITY private_tab_learn_more "გსურთ შეიტყოთ მეტი?">
+
+<!ENTITY fullscreen_warning "სრულ ეკრანზე გაშლა">
