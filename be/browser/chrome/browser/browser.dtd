@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Даслаць старонку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
+
+<!ENTITY libraryButton.tooltip "Пабачыць гісторыю, запісаныя закладкі і іншае">
