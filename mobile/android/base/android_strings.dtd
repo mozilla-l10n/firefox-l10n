@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "সুস্বাগতম">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; পছন্দ করার জন্য ধন্যবাদ">
+<!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
+<!ENTITY firstrun_privacy_message "ব্রাউজ করুন এমন ভাবে, যেনো কেউ দেখছে না বলে মনে হয়">
+<!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
 <!ENTITY firstrun_bookmarks_title "পূর্ববর্তী তথ্য">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দের জিনিসগুলি, সামনে এবং কেন্দ্রে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক এবং ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন">
@@ -82,6 +86,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; উপাদানগুলি">
 <!ENTITY bookmark_folder_one_item "1 উপাদান">
+<!ENTITY bookmark_parent_folder "ঊর্ধ্বতন ফোল্ডার">
+<!ENTITY bookmark_add_folder "নতুন ফোল্ডার যোগ করুন">
 
 <!ENTITY reader_saved_offline "অফলাইনে সংরক্ষণ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -482,6 +488,7 @@
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "মুছে ফেলুন">
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রিনে যুক্ত করুন">
+<!ENTITY contextmenu_set_as_homepage "হোমপেজ সেট করুন">
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "পেস্ট করুন">
@@ -828,3 +835,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "আপনার হাইলাইটসমূহে স্বাগতম">
 <!ENTITY activity_stream_welcome_content1 "আপনি ওয়েবে যা দেখেছেন &brandShortName; তার হাইলাইটসমূহ এখানে তৈরি করবে, যাতে আপনি আপনার ভালোলাগা প্রবন্ধ, ভিডিও, বুকমার্ক এবং অন্যান্য পাতাগুলিকে খুঁজে পেতে পারেন।">
 
+<!ENTITY private_tab_learn_more "আরো জানতে চান?">
