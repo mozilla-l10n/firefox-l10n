@@ -843,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Відвідано">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Відхилити">
+<!ENTITY activity_stream_remove "Вилучити">
 <!ENTITY activity_stream_delete_history "Видалити з історії">
 
 <!ENTITY activity_stream_welcome_title "Найцікавіші матеріали">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки найцікавіших матеріалів, які ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок та інших сторінок.">
+<!ENTITY activity_stream_welcome_dismiss "Відхилити">
 
 <!ENTITY private_tab_panel_title "Приватний перегляд + захист від стеження">
 <!ENTITY private_tab_panel_description "&brandShortName; блокує частини сторінок, які можуть стежити за вашою діяльністю.">
 <!ENTITY private_tab_panel_description2 "Ми не будемо запам\&apos;ятовувати історію, але завантажені файли й нові закладки все одно будуть збережені на вашому пристрої.">
 <!ENTITY private_tab_learn_more "Хочете дізнатися більше?">
+
+<!ENTITY fullscreen_warning "Повноекранний режим">
