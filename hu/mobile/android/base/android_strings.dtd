@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Meglátogatva">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Bezárás">
+<!ENTITY activity_stream_remove "Eltávolítás">
 <!ENTITY activity_stream_delete_history "Előzményekből törlés">
 
 <!ENTITY activity_stream_welcome_title "Üdvözöljük a Kiemeléseknél">
 <!ENTITY activity_stream_welcome_content1 "A &brandShortName; kiemeléseket készít a weben felfedezett tartalmakról, így könnyedén visszatalálhat a remek cikkekhez, videókhoz, könyvjelzőkhöz és más oldalakhoz.">
+<!ENTITY activity_stream_welcome_dismiss "Eltüntetés">
 
 <!ENTITY private_tab_panel_title "Privát böngészés + követés elleni védelem">
 <!ENTITY private_tab_panel_description "A &brandShortName; blokkolja az oldalak olyan részeit, amelyek követhetik az Ön böngészési tevékenységét.">
 <!ENTITY private_tab_panel_description2 "Nem jegyzünk meg előzményeket, de a letöltött fájlok és az új könyvjelzők továbbra is a készülékére lesznek mentve.">
 <!ENTITY private_tab_learn_more "Szeretne többet tudni?">
+
+<!ENTITY fullscreen_warning "Teljes képernyős módba lépve">
