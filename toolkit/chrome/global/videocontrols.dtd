@@ -6,7 +6,7 @@
 <!ENTITY playButton.pauseLabel "หยุดชั่วคราว">
 <!ENTITY muteButton.muteLabel "ปิดเสียง">
 <!ENTITY muteButton.unmuteLabel "เปิดเสียง">
-<!ENTITY fullscreenButton.enterfullscreenlabel "เต็มจอ">
+<!ENTITY fullscreenButton.enterfullscreenlabel "เต็มหน้าจอ">
 <!ENTITY fullscreenButton.exitfullscreenlabel "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY castingButton.castingLabel "ฉายขึ้นหน้าจอ">
 <!ENTITY closedCaption.off "ปิด">
