@@ -840,16 +840,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "دیده شد">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "رد کردن">
+<!ENTITY activity_stream_remove "حذف">
 <!ENTITY activity_stream_delete_history "حذف از تاریخچه">
 
 <!ENTITY activity_stream_welcome_title "به موارد برجسته خوش ‌آمدید">
 <!ENTITY activity_stream_welcome_content1 "اکنون &brandShortName; موارد برجسته را برای چیزهایی که شما در وب کشفه کرده‌اید ایجاده میکند تا راه خود را به سوی مقالات،‌ ویدیو ها، نشانک ها و سایر صفحات خود پیدا کنید.">
+<!ENTITY activity_stream_welcome_dismiss "‏‏نادیده گرفتن">
 
 <!ENTITY private_tab_panel_title "مرور ناشناس + امکان محافظت در برابر ردگیری">
 <!ENTITY private_tab_panel_description "&brandShortName; بخشی از صفحاتی که ممکن است فعالیت‌های شما را ردگیری کنند، مسدود می‌کند.">
 <!ENTITY private_tab_panel_description2 "ما هیچ تاریخچه‌ای از مرور شما را ذخیره نمی‌کنیم، اما پرونده‌های دریافت شده و نشانک‌های جدید بر روی دستگاه شما ذخیره خواهند شد.">
 <!ENTITY private_tab_learn_more "مایلید بیشتر بدانید؟">
+
