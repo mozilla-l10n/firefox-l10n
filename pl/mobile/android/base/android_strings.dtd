@@ -610,3 +610,5 @@
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje części stron, które mogą śledzić aktywność użytkownika.">
 <!ENTITY private_tab_panel_description2 "Historia nie będzie zachowywana, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
 <!ENTITY private_tab_learn_more "Więcej informacji">
+
+<!ENTITY fullscreen_warning "Włączono tryb pełnoekranowy">
