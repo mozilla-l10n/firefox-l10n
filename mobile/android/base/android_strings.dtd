@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Navštívené">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Skryť">
+<!ENTITY activity_stream_remove "Odstrániť">
 <!ENTITY activity_stream_delete_history "Odstrániť z histórie">
 
 <!ENTITY activity_stream_welcome_title "Vitajte vo vybraných stránkach">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; odteraz vytvára výber vecí, ktoré ste na webe objavili. Ľahko sa tak môžete dostať naspäť k zaujímavým článkom, videám, záložkám a iným stránkam.">
+<!ENTITY activity_stream_welcome_dismiss "Zavrieť">
 
 <!ENTITY private_tab_panel_title "Súkromné prehliadanie + Ochrana pred sledovaním">
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje tie časti stránok, ktoré môžu sledovať vašu aktivitu na webe.">
 <!ENTITY private_tab_panel_description2 "Neukladáme vašu históriu prehliadania, v zariadení zachováme len prevzaté súbory a novo vytvorené záložky.">
 <!ENTITY private_tab_learn_more "Chcete sa dozvedieť viac?">
+
+<!ENTITY fullscreen_warning "Bol spustený režim celej obrazovky">
