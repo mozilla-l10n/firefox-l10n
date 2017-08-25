@@ -163,7 +163,8 @@
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
 <!ENTITY bookmarksButton.label "Segnalibri">
 <!ENTITY bookmarksCmd.commandkey "b">
-<!ENTITY bookmarksMenuButton.label "Segnalibri">
+<!ENTITY bookmarksSubview.label "Segnalibri">
+<!ENTITY bookmarksMenuButton2.label "Menu segnalibri">
 <!ENTITY bookmarksMenuButton.other.label "Altri segnalibri">
 <!ENTITY bookmarksMenuButton.mobile.label "Segnalibri da dispositivi mobile">
 <!ENTITY viewBookmarksSidebar2.label "Visualizza la barra laterale dei segnalibri">
