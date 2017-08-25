@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Vítejte">
-
-<!ENTITY firstrun_urlbar_message "Vítá vás &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Najděte věci rychleji s pomocí užitečných návrhů vyhledávání.">
+<!ENTITY firstrun_urlbar_message2 "Děkujeme, že jste si zvolili &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Moderní mobilní prohlížeč od Mozilly, neziskové organizace zaměřené na otevřený web.">
+<!ENTITY firstrun_panel_title_privacy "Soukromí">
+<!ENTITY firstrun_privacy_message "Prohlížejte web, jako když se nikdo nedívá">
+<!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledující prvky, zatímco procházíte web, a nebude si pamatovat vaši historii.">
+<!ENTITY firstrun_panel_title_customize "Přizpůsobení">
+<!ENTITY firstrun_customize_message "Udělejte si aplikaci &brandShortName; podle sebe.">
+<!ENTITY firstrun_customize_subtext "Přizpůsobte si aplikaci &brandShortName; s doplňky. Blokujte reklamy, přidávejte funkce, nebo si vyberte nový motiv, který bude odrazem vaší osobnosti.">
 <!ENTITY firstrun_bookmarks_title "Historie">
 <!ENTITY firstrun_bookmarks_message "Vše, co máte rádi, přímo na očích">
 <!ENTITY firstrun_bookmarks_subtext "Při vyhledávání získáváte výsledky ze záložek a historie.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Méně přenesených dat, větší úspora">
 <!ENTITY firstrun_data_subtext2 "Vypnutím obrázků přenesete méně dat na každé stránce, kterou navštívíte.">
 <!ENTITY firstrun_sync_title "Synchronizace">
-<!ENTITY firstrun_sync_message "&brandShortName;, vždy na vaší straně">
-<!ENTITY firstrun_sync_subtext "Synchronizujte svoje záložky, hesla a další, všude, kde ho používáte.">
+<!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
+<!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
 <!ENTITY firstrun_signin_message "Připojte se a začněte">
 <!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Vymazat">
 <!ENTITY pref_clear_on_exit_title3 "Vymazat soukromá data při ukončení">
-<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky">
+<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \&quot;Ukončit\&quot; z hlavní nabídky">
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_restore_tabs "Obnovit panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
@@ -835,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Zobrazeno">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Skrýt">
+<!ENTITY activity_stream_remove "Odebrat">
 <!ENTITY activity_stream_delete_history "Smazat z historie">
 
 <!ENTITY activity_stream_welcome_title "Vítejte ve vašich Vybraných">
 <!ENTITY activity_stream_welcome_content1 "Aplikace &brandShortName; nyní vytváří výběr věcí, které jste na webu objevili, takže snadno naleznete cestu zpět ke skvělým článkům, videím, záložkám a ostatním stránkám.">
+<!ENTITY activity_stream_welcome_dismiss "Odmítnout">
 
 <!ENTITY private_tab_panel_title "Anonymní prohlížení + Ochrana proti sledování">
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje ty součásti stránek, které mohou sledovat vaše chování při prohlížení.">
 <!ENTITY private_tab_panel_description2 "Neukládáme vaši historii prohlížení, pouze stažené soubory a nové záložky zůstanou ve vašem zařízení zachovány.">
 <!ENTITY private_tab_learn_more "Chcete se dozvědět více?">
+
+<!ENTITY fullscreen_warning "Byl spuštěn režim celé obrazovky">
