@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Tuta webstrona na <span id='unwanted_sitename'/> bu jako strona zdźělena, kotraž njewitanu softwaru wobsahuje a na zakładźe wašich wěstotnych nastajenjow zablokowana.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Njewitane softwarowe strony pospytuju softwaru instalować, kotraž móže wobšudna być a waš system na njewočakowane wašnja wobwliwować.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Sydło prědku móže škódnu softwaru wobsahować">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; je tutu stronu zablokował, dokelž móhła strašne nałoženja instalować, kotrež waše daty kradnu abo hašeja (na přikład fota, hesła, powěsće a kreditne karty).">

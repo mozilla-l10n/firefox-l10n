@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Priwatny modus ze slědowanskim škitom blockuje přesćěhowaki, mjeztym zo přehladujeće a njespomjatkuje sej wašu historiju, hdyž hižo njepřehladujeće.">
 <!ENTITY firstrun_panel_title_customize "Přiměrić">
 <!ENTITY firstrun_customize_message "Čińće &brandShorterName; k swojemu.">
+<!ENTITY firstrun_customize_subtext "Přiměrće &brandShortName; z přidatkami. Blokujće wabjenje, přidajće funkcije abo wubjerće nowu drastu, zo byšće swoju wosobinu wotbłyšćował.">
 <!ENTITY firstrun_bookmarks_title "Historija">
 <!ENTITY firstrun_bookmarks_message "Waše fawority, na prědnišim fronće">
 <!ENTITY firstrun_bookmarks_subtext "Wobstarajće sej wuslědki z wašich zapołožkow a historije, hdyž pytaće.">
@@ -17,6 +18,8 @@
 <!ENTITY firstrun_data_message "Mjenje datow, wjace zalutowanjow">
 <!ENTITY firstrun_data_subtext2 "Blokujće wobrazy, zo byšće mjenje datow na kóždym sydłe, kotrež wopytujeće, přetrjebował.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Čińće tam dale, hdźež sće přestał.">
+<!ENTITY firstrun_sync_subtext2 "Wužiwajće Sync, zo byšće zapołožki, hesła a druhe wěcy namakał, kotrež w &brandShortName; na wšěch swojich gratach składujeće.">
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
