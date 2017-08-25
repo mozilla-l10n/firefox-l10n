@@ -135,17 +135,81 @@
 <!ENTITY calendar.task-details.title.label           "tajuk">
 <!ENTITY calendar.task-details.organizer.label       "daripada">
 <!ENTITY calendar.task-details.priority.label        "prioriti">
+<!ENTITY calendar.task-details.priority.low.label    "Rendah">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Tinggi">
+<!ENTITY calendar.task-details.status.label          "status">
+<!ENTITY calendar.task-details.category.label        "kategori">
+<!ENTITY calendar.task-details.repeat.label          "ulang">
+<!ENTITY calendar.task-details.attachments.label     "lampiran">
+<!ENTITY calendar.task-details.start.label           "tarikh mula">
+<!ENTITY calendar.task-details.due.label             "tarikh tamat tempoh">
 
+<!ENTITY calendar.task.category.button.tooltip  "Kategori tugasan">
+<!ENTITY calendar.task.complete.button.tooltip  "Tanda tugasan dipilih sebagai selesai">
+<!ENTITY calendar.task.priority.button.tooltip  "Tukar prioriti">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Tapis tugasan #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Buka">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "B">
+<!ENTITY calendar.context.modifyorviewtask.label      "Buka Tugasan…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "B">
+<!ENTITY calendar.context.newevent.label              "Acara Baru…">
+<!ENTITY calendar.context.newevent.accesskey          "A">
+<!ENTITY calendar.context.newtodo.label               "Tugasan Baru…">
+<!ENTITY calendar.context.newtodo.accesskey           "s">
+<!ENTITY calendar.context.deletetask.label            "Buang Tugasan">
+<!ENTITY calendar.context.deletetask.accesskey        "g">
+<!ENTITY calendar.context.deleteevent.label           "Buang Acara">
+<!ENTITY calendar.context.deleteevent.accesskey       "g">
+<!ENTITY calendar.context.cutevent.label              "Potong">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
+<!ENTITY calendar.context.copyevent.label             "Salin">
+<!ENTITY calendar.context.copyevent.accesskey         "S">
+<!ENTITY calendar.context.pasteevent.label            "Tampal">
+<!ENTITY calendar.context.pasteevent.accesskey        "T">
+<!ENTITY calendar.context.button.label                "Anak Tetingkap Hari ini" >
+<!ENTITY calendar.context.button.accesskey            "H" >
+<!ENTITY calendar.context.attendance.menu.label       "Kehadiran" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "d" >
+<!ENTITY calendar.context.attendance.occurrence.label "Kejadian Ini" >
+<!ENTITY calendar.context.attendance.all.label        "Semua Kejadian" >
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Kemajuan">
+<!ENTITY calendar.context.progress.accesskey          "K">
+<!ENTITY calendar.context.priority.label              "Prioriti">
+<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Tunda Tugasan">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "Tandakan Selesai">
+<!ENTITY calendar.context.markcompleted.accesskey "d">
 
+<!ENTITY progress.level.0             "0&percnt; Selesai">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25 &percnt; Selesai">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50 &percnt; Selesai">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75 &percnt; Selesai">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100 &percnt; Selesai">
+<!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "Tidak dinyatakan">
+<!ENTITY priority.level.none.accesskey      "d">
+<!ENTITY priority.level.low                 "Rendah">
+<!ENTITY priority.level.low.accesskey       "R">
+<!ENTITY priority.level.normal              "Normal">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Tinggi">
 
 
 
