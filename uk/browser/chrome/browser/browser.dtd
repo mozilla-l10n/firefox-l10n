@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Відправити сторінку на пристрій">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
+
+<!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
