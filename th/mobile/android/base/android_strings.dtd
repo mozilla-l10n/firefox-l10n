@@ -837,16 +837,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "เยี่ยมชมแล้ว">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "ยกเลิก">
+<!ENTITY activity_stream_remove "เอาออก">
 <!ENTITY activity_stream_delete_history "ลบออกจากประวัติ">
 
 <!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; สร้างรายการเด่นของสิ่งที่คุณได้ค้นพบบนเว็บเพื่อให้คุณสามารถกลับมาชมบทความ, วิดีโอ, ที่คั่นหน้า และหน้าอื่น ๆ ที่ยอดเยี่ยมได้">
+<!ENTITY activity_stream_welcome_dismiss "ยกเลิก">
 
 <!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการติดตาม">
 <!ENTITY private_tab_panel_description "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
 <!ENTITY private_tab_panel_description2 "เราจะไม่จดจำประวัติใด ๆ แต่ไฟล์ที่ดาวน์โหลดและที่คั่นหน้าใหม่จะยังคงถูกบันทึกไว้ในอุปกรณ์ของคุณ">
 <!ENTITY private_tab_learn_more "ต้องการเรียนรู้เพิ่มเติม?">
+
