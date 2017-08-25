@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Villedende nettsider er laget for å lure deg til å gjøre noe farlig, som å installere programmer, eller oppgi personlig informasjon som f.eks. passord, telefonnumre eller kredittkort.</p><p>Innskriving av informasjon på denne siden kan føre til identitetstyveri eller annen svindel.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Nettstedet forut kan inneholde skadelig programvare">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox blokkerte denne siden fordi det kan prøve å installere farlige programmer som stjeler eller sletter din informasjon (for eksempel bilder, passord, meldinger og kredittkort).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; blokkerte denne siden fordi den kan prøve å installere farlige apper som stjeler eller sletter din informasjon (for eksempel bilder, passord, meldinger og kredittkort).">

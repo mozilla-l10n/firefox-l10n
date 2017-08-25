@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "o">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Dra dine favorittobjekt til verktøylinjen eller overflytsmenyen.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha flere verktøy?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Velg fra tusenvis av utvidelser">
 <!ENTITY customizeMode.restoreDefaults "Tilbakestill standarder">
@@ -974,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Send siden til enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
+
+<!ENTITY libraryButton.tooltip "Se historikk, lagrede bokmerker og mer">
