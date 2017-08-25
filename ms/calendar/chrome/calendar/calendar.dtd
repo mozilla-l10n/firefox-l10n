@@ -210,51 +210,139 @@
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Tinggi">
+<!ENTITY priority.level.high.accesskey      "T">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Jam">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "J">
+<!ENTITY calendar.context.postpone.1day.label       "1 Hari">
+<!ENTITY calendar.context.postpone.1day.accesskey   "H">
+<!ENTITY calendar.context.postpone.1week.label      "1 Minggu">
+<!ENTITY calendar.context.postpone.1week.accesskey  "M">
 
+<!ENTITY calendar.copylink.label       "Salin Lokasi Pautan">
+<!ENTITY calendar.copylink.accesskey   "S">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Hapus">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Kalendar Baru…">
+<!ENTITY calendar.context.newserver.accesskey          "B">
+<!ENTITY calendar.context.findcalendar.label           "Cari Kalendar…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "C" >
+<!ENTITY calendar.context.deleteserver2.label          "Buang Kalendar…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "B">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Buang Kalendar…">
+<!ENTITY calendar.context.removeserver.accesskey       "B">
+<!ENTITY calendar.context.unsubscribeserver.label      "Nyahlanggan Kalendar…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "N">
+<!ENTITY calendar.context.synccalendars.label          "Selaraskan Kalendar">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.publish.label                "Terbitkan Kalendar…">
+<!ENTITY calendar.context.publish.accesskey            "b">
+<!ENTITY calendar.context.export.label                 "Eksport Kalendar…">
+<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.properties.label             "Sifat">
+<!ENTITY calendar.context.properties.accesskey         "S">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "p">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "S">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "H">
+<!ENTITY calendar.context.showall.label                "Papar Semua Kalendar">
+<!ENTITY calendar.context.showall.accesskey            "S">
 
+<!ENTITY calendar.context.convertmenu.label              "Tukar Kepada">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "k">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "r">
+<!ENTITY calendar.context.convertmenu.event.label        "Acara…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "A">
+<!ENTITY calendar.context.convertmenu.message.label      "Mesej…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "Tugasan…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Bulan-Mini">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "Senarai Kalendar">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "S">
 
+<!ENTITY calendar.tasks.view.filtertasks.label           "Tapis Tugasan">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "T">
 
 <!-- Calendar Alarm Dialog -->
 
+<!ENTITY calendar.alarm.location.label              "Lokasi:" >
+<!ENTITY calendar.alarm.details.label               "Butiran…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Lena untuk" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Lena Semua untuk" >
+<!ENTITY calendar.alarm.title.label                 "Peringatan Kalendar" >
+<!ENTITY calendar.alarm.dismiss.label               "Abai" >
+<!ENTITY calendar.alarm.dismissall.label            "Abai Semua" >
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minit" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minit" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minit" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minit" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minit" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Jam" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Jam" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Hari" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Batal Lena">
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Edit Kalendar">
+<!ENTITY calendar.server.dialog.name.label          "Nama Kalendar:">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Warna:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Format:">
+<!ENTITY calendarproperties.location.label                 "Lokasi:">
+<!ENTITY calendarproperties.refreshInterval.label          "Muat semula Kalendar:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Secara Manual">
+<!ENTITY calendarproperties.name.label                     "Nama:">
+<!ENTITY calendarproperties.readonly.label                 "Baca Sahaja">
+<!ENTITY calendarproperties.firealarms.label               "Papar Peringatan">
+<!ENTITY calendarproperties.cache3.label                   "Sokongan Luar talian">
+<!ENTITY calendarproperties.enabled.label                  "Aktifkan kalendar ini">
+<!ENTITY calendarproperties.forceDisabled.label            "Penyedia kalendar ini tidak dapat ditemukan. Ini kerap terjadi apabila anda nyahdayakan atau nayhpasang add-ons tertentu.">
+<!ENTITY calendarproperties.unsubscribe.label              "Nyahlanggan">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "N">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Terbitkan Kalendar">
+<!ENTITY calendar.publish.url.label                 "URL Penerbitan">
+<!ENTITY calendar.publish.publish.button      "Terbitkan">
+<!ENTITY calendar.publish.close.button      "Tutup">
 
+<!ENTITY calendar.publish.example.url.description   "Sesuatu seperti http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Pilih Kalendar">
 
 <!-- Calendar Printing -->
 
