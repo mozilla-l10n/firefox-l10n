@@ -840,10 +840,10 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "مُزار">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "أزل">
+<!ENTITY activity_stream_remove "أزِل">
 <!ENTITY activity_stream_delete_history "احذف من التأريخ">
 
 <!ENTITY activity_stream_welcome_title "مرحبًا مع أهم الأحداث">
@@ -853,3 +853,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "يحجب &brandShortName; أجزاء الصفحة التي قد تتعقّب نشاط التصفح.">
 <!ENTITY private_tab_panel_description2 "لن نتذكّر أيّا من التأريخ، إلا أن الملفات المنزّلة و العلامات الجديدة ستبقى تُحفظ على الجهاز.">
 <!ENTITY private_tab_learn_more "هل تريد معرفة المزيد؟">
+
