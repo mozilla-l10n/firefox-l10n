@@ -4,8 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 <!ENTITY firstrun_urlbar_message2 "Takk fyrir að velja &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Nútímanlegur vafri frá Mozilla fyrir handhæg tæki, hagnaðarlaus og skuldbundinn að viðhalda vefnum frjálsum og opnum.">
 <!ENTITY firstrun_panel_title_privacy "Friðhelgi">
 <!ENTITY firstrun_privacy_message "Vafraðu eins og engin væri að fylgjast með">
+<!ENTITY firstrun_privacy_subtext "Einkavöfrun með vörn svo ekki sé fylgst með þér á meðan þú vafrar og ferlið þiitt er ekki vistað þegar þú hættir að vafra.">
 <!ENTITY firstrun_panel_title_customize "Sérsníða">
 <!ENTITY firstrun_customize_message "Stilltu &brandShortName; eftir eigin þörfum.">
 <!ENTITY firstrun_customize_subtext "Sérsníða &brandShortName; með viðbótum. Loka á auglýsingar, bæta við virkni eða velja nýja þemu til að endurspegla þínum persónuleika.">
@@ -17,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Ekki hlaða myndir til að spara gagnamagn.">
 <!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
+<!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
 <!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
