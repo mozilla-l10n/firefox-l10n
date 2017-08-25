@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>تصمم المواقع المخادعة لتضليلك حتى تفعل شيئًا خطيرًا، مثل تنصيب برمجيات، أو الإفصاح عن معلوماتك الشخصية مثل كلمة السر أو رقم الهاتف أو بطاقات الائتمان.</p><p>إدخال أي معلومات في هذه الصفحة قد يكون سببًا في سرقة هويتك أو أي صورة أخرى من صور الاحتيال.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "قد يحتوي هذا الموقع برنامج تجسس">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "حجب فَيرفُكس هذه الصفحة لأنها قد تحاول تثبيت تطبيقات خطرة تسرق معلوماتك أو تحذفها (المعلومات مثل الصور وكلمات السر والرسائل والبطاقات الائتمانية).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "حجب &brandShortName; هذه الصفحة لأنها قد تحاول تثبيت تطبيقات خطرة تحاول سرقة معلوماتك أو حذفها (معلوماتك مثل الصور، وكلمات السر، والرسائل والبطاقات الائتمانية).">

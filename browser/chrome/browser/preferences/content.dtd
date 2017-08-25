@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "الاستثناءات…">
 <!ENTITY  popupExceptions.accesskey                             "ت">
 
-<!ENTITY  permissionSettingsButton2.label                       "الإعدادات…">
-
 <!ENTITY  notificationPermissions.label                         "التنبيهات">
+<!ENTITY  notificationSettingsButton.label                      "الإعدادات…">
 <!ENTITY  notificationSettingsButton.accesskey                  "ت">
 <!ENTITY  notificationPermissionsLearnMore.label                "اطّلع على المزيد">
 
 <!ENTITY  locationPermissions.label                             "المكان">
+<!ENTITY  locationSettingsButton.label                          "الإعدادات…">
 <!ENTITY  locationSettingsButton.accesskey                      "م">
 
 <!ENTITY  cameraPermissions.label                               "الكمرة">
+<!ENTITY  cameraSettingsButton.label                            "الإعدادات…">
 <!ENTITY  cameraSettingsButton.accesskey                        "ك">
 
 <!ENTITY  microphonePermissions.label                           "الميكروفون">
+<!ENTITY  microphoneSettingsButton.label                        "الإعدادات…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "ف">
 
 <!ENTITY  fontsAndColors.label        "الخطوط و الألوان">
