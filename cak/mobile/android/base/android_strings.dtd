@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Tz\&apos;eton">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Tichup ruwäch">
+<!ENTITY activity_stream_remove "Tiyuj">
 <!ENTITY activity_stream_delete_history "Tiyuj el pa k\&apos;ulwachinel">
 
 <!ENTITY activity_stream_welcome_title "Ütz apetik pa ri nima\&apos;q taq k\&apos;ojlemal">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; wakami tanuk\&apos;u\&apos; ri nïm taq wachinäq e\&apos;awilon pa ajk\&apos;amaya\&apos;l richin nawïl ri b\&apos;ey richin yatzolin pa ri rutzijol taq na\&apos;oj, taq silowachib\&apos;äl, taq yaketal chuqa\&apos; ch\&apos;aqa\&apos; chik ruxaq taq k\&apos;amaya\&apos;l.">
+<!ENTITY activity_stream_welcome_dismiss "Tichup ruwäch">
 
 <!ENTITY private_tab_panel_title "Ichinan Okik\&apos;amaya\&apos;l + Chajinïk chuwäch Ojqanïk">
 <!ENTITY private_tab_panel_description "&brandShortName; yeruq\&apos;ät jujun taq peraj chi re ri ruxaq, ri yetikïr nikikanoj ri asamaj pa okik\&apos;amaya\&apos;l.">
 <!ENTITY private_tab_panel_description2 "Majun achike xtiqanataj ri k\&apos;o chupam ri anatab\&apos;al, xa xe chi ri taq yakb\&apos;äl xe\&apos;aqasaj chuqa\&apos; ri k\&apos;ak\&apos;a\&apos; taq yaketal xeyake\&apos; pa ri awokisaxel.">
 <!ENTITY private_tab_learn_more "¿La nawajo\&apos; nawetamaj juley chik?">
+
+<!ENTITY fullscreen_warning "Xatok pa chijun ruwa">
