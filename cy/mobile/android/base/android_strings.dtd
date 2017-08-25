@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ymwelwyd">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Diffodd">
+<!ENTITY activity_stream_remove "Tynnu">
 <!ENTITY activity_stream_delete_history "Dileu o\&apos;r Hanes">
 
 <!ENTITY activity_stream_welcome_title "Croeso i\&apos;ch Uchafbwyntiau">
 <!ENTITY activity_stream_welcome_content1 "Mae &brandShortName; nawr yn creu uchafbwyntiau o bethau ydych wedi eu darganfod ar y we fel bod modd canfod eich ffordd yn ôl at erthyglau, nodau tudalen a thudalennau eraill, da.">
+<!ENTITY activity_stream_welcome_dismiss "Cau">
 
 <!ENTITY private_tab_panel_title "Pori Preifat + Diogelwch Rhag Tracio">
 <!ENTITY private_tab_panel_description "Mae &brandShortName; yn rhwystro rhannau o\&apos;r dudalen gall fod yn tracio eich pori.">
 <!ENTITY private_tab_panel_description2 "Byddwn ni ddim yn cofio unrhyw hanes ond bydd unrhyw ffeiliau rydych wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw ar eich dyfais.">
 <!ENTITY private_tab_learn_more "Eisiau dysgu rhagor?">
+
+<!ENTITY fullscreen_warning "Mynd i\&apos;r sgrin lawn">
