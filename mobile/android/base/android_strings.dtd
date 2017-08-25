@@ -487,11 +487,11 @@
 <!ENTITY activity_stream_highlights "In evidenza">
 <!ENTITY activity_stream_highlight_label_bookmarked "Nei segnalibri">
 <!ENTITY activity_stream_highlight_label_visited "Visitato">
-<!ENTITY activity_stream_dismiss "Elimina">
+<!ENTITY activity_stream_remove "Rimuovi">
 <!ENTITY activity_stream_delete_history "Elimina dalla cronologia">
 <!ENTITY activity_stream_welcome_title "Contenuti in evidenza">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; crea un elenco di contenuti in evidenza sulla base dei siti visitati. In questo modo sarà facile ritrovare elementi interessanti come articoli, video, segnalibri e altre pagine.">
-<!ENTITY activity_stream_welcome_remove "Rimuovi">
+<!ENTITY activity_stream_welcome_dismiss "Ignora">
 <!ENTITY private_tab_panel_title "Navigazione anonima + Protezione antitracciamento">
 <!ENTITY private_tab_panel_description "&brandShortName; blocca gli elementi della pagina in grado di tracciare la navigazione." >
 <!ENTITY private_tab_panel_description2 "Non verrà salvata alcuna cronologia, ma i file scaricati e i nuovi segnalibri verranno comunque conservati sul dispositivo." >
