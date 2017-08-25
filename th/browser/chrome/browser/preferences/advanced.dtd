@@ -150,5 +150,7 @@ available. -->
 <!ENTITY limitContentProcessOption.accesskey   "ข">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "การเปลี่ยนแปลงจำนวนโปรเซสเนื้อหาทำได้เฉพาะกับ &brandShortName; แบบหลายโปรเซส">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "เรียนรู้วิธีตรวจสอบว่าการทำงานหลายโปรเซสถูกเปิดใช้งานอยู่หรือไม่">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "ง">
