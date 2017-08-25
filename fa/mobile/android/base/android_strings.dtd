@@ -855,3 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "ما هیچ تاریخچه‌ای از مرور شما را ذخیره نمی‌کنیم، اما پرونده‌های دریافت شده و نشانک‌های جدید بر روی دستگاه شما ذخیره خواهند شد.">
 <!ENTITY private_tab_learn_more "مایلید بیشتر بدانید؟">
 
+<!ENTITY fullscreen_warning "به حالت تمام‌صفحه وارد شد">
