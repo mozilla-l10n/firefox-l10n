@@ -232,7 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcadores de celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
+<!ENTITY hideBookmarksSidebar.label         "Ocultar barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
+<!ENTITY hideBookmarksToolbar.label         "Ocultar barra de marcadores">
 <!ENTITY searchBookmarks.label              "Buscar Marcadores">
 <!ENTITY bookmarkingTools.label             "Herramientas de marcadores">
 <!ENTITY addBookmarksMenu.label             "Agregar menú de marcadores a la barra de herramientas">
@@ -970,4 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Agregar a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
 
+<!ENTITY sendToDevice.label3 "Enviar página a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
+
+<!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
