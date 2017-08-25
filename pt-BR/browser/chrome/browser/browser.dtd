@@ -823,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Arraste seus itens favoritos para sua barra de ferramentas ou ao menu.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Deseja mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Milhares de extensões para escolher">
 <!ENTITY customizeMode.restoreDefaults "Restaurar padrões">
