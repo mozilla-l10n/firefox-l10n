@@ -17,7 +17,9 @@
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.accesskey    "ส">
 <!ENTITY engine.addresses.label     "ที่อยู่">
+<!ENTITY engine.addresses.accesskey "อ">
 <!ENTITY engine.creditcards.label   "บัตรเครดิต">
+<!ENTITY engine.creditcards.accesskey "ต">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
