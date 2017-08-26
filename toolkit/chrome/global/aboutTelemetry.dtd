@@ -64,6 +64,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  كتابات متأخرّة">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "الحمولة الخام">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  معلومات الجلسة">
 
