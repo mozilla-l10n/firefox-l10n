@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Забележи ову страницу">
 <!ENTITY editThisBookmarkCmd.label "Уреди ову забелешку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Пронађи још сервиса за дељење…">
-<!ENTITY sharePageCmd.label "Подели ову страницу">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "с">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Подели ову везу">
-<!ENTITY shareLink.accesskey "в">
-<!ENTITY shareImage.label "Подели ову слику">
-<!ENTITY shareImage.accesskey "с">
-<!ENTITY shareSelect.label "Подели овај одабир">
-<!ENTITY shareSelect.accesskey "о">
-<!ENTITY shareVideo.label "Подели овај видео">
-<!ENTITY shareVideo.accesskey "д">
+
 <!ENTITY feedsMenu2.label "Претплати се на ову страницу">
 <!ENTITY subscribeToPageMenupopup.label "Претплата на ову страницу">
 <!ENTITY subscribeToPageMenuitem.label "Претплата на ову страницу…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Забелешке">
-<!ENTITY bookmarksMenuButton.other.label "Остале забелешке">
-<!ENTITY bookmarksMenuButton.mobile.label "Мобилне забелешке">
+<!ENTITY bookmarksMenuButton.other.label    "Остале забелешке">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мобилне забелешке">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
+<!ENTITY hideBookmarksSidebar.label         "Сакриј палету са забелешкама">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
+<!ENTITY hideBookmarksToolbar.label         "Сакриј траку са забелешкама">
 <!ENTITY searchBookmarks.label              "Претражи забелешке">
+<!ENTITY bookmarkingTools.label             "Алатке за забелешке">
+<!ENTITY addBookmarksMenu.label             "Додај мени са забелешкама на траку са алатима">
+<!ENTITY removeBookmarksMenu.label          "Уклони мени са забелешкама са алатне траке">
 
 <!ENTITY containersMenu.label "Контејнери">
 
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ж">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Управљање сервисима…">
-
-<!ENTITY social.directory.label "Фасцикла активација">
-<!ENTITY social.directory.text "Можете активирати сервисе за дељење из фасцикле.">
-<!ENTITY social.directory.button "Одведи ме тамо!">
-<!ENTITY social.directory.introText "Кликните на сервис да бисте га додали на &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Прикажи више">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Додатни алати и могућности">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Повуците ваше омиљене ставке на алатну траку или на мени за претапање.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Желите више алата?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изаберите неки од хиљада додатака">
 <!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
@@ -991,5 +973,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
 
-<!ENTITY sendToDevice.label2 "Пошаљи на уређај">
+<!ENTITY sendToDevice.label3 "Пошаљи страницу на уређај">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
+
