@@ -91,7 +91,7 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplicationDescription.label
-                                         "Pastikan &brandShortName; sentiasa terkini dengan prestasi, kesatabilan dan keselamatan terbaik.">
+                                         "Pastikan &brandShortName; sentiasa dikemaskini untuk mendapatkan prestasi, kestabilan dan keselamatan yang terbaik.">
 <!ENTITY updateApplication.version.pre   "Versi ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
