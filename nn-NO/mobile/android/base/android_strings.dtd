@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Privat nettlesing med sporingsvern som blokkerer sporfølgjarar medan du surfar og slettar all historikk når du er ferdig med å surfe.">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
 <!ENTITY firstrun_customize_message "Gjer &brandShortName; til din eigen.">
+<!ENTITY firstrun_customize_subtext "Tilpass &brandShortName; med utvidingar. Blokkér annonsar, legg til funksjonar eller vel eit nytt tema som reflekterer personlegdommen din.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
 <!ENTITY firstrun_bookmarks_message "Dine favorittar, der dei er viktigast">
 <!ENTITY firstrun_bookmarks_subtext "Få treff frå bokmerka dine og historikk, når du søkjer.">
@@ -18,8 +19,9 @@
 <!ENTITY firstrun_data_subtext2 "Skru av bilde for å bruka mindre data på kvar nettstad du besøkjer.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Fortset der du slutta.">
+<!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finne bokmerke, passord og andre ting som du lagrar i &brandShortName; på alle eininganedine.">
 <!ENTITY firstrun_signin_message "Kopla til og kom i gang">
-<!ENTITY firstrun_signin_button "Logg inn for å synkronisera">
+<!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
 <!ENTITY firstrun_button_notnow "Ikkje akkurat no">
 <!ENTITY firstrun_button_next "Neste">
@@ -27,7 +29,7 @@
 <!ENTITY firstrun_tabqueue_title "Lenker">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Slå på fane-kø">
-<!ENTITY firstrun_tabqueue_subtext_off "Lagra lenker for seinare bruk i &brandShortName; når du peikar på dei i andre program.">
+<!ENTITY firstrun_tabqueue_subtext_off "Lagre lenker for seinare bruk i &brandShortName; når du peikar på dei i andre program.">
 
 <!ENTITY firstrun_tabqueue_message_on "Vellykka!">
 <!ENTITY firstrun_tabqueue_subtext_on "Du kan alltid slå av dette i &settings; under &pref_category_general;.">
@@ -35,7 +37,7 @@
 <!ENTITY firstrun_readerview_title "Artiklar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Rydd opp rotet">
-<!ENTITY firstrun_readerview_subtext "Bruk lesevising for å gjera artiklar meir lettlesne \u2014 sjølv fråkopla.">
+<!ENTITY firstrun_readerview_subtext "Bruk lesevising for å gjere artiklar meir lettlesne \u2014 sjølv fråkopla.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Du">
@@ -54,14 +56,14 @@
 <!ENTITY  tab_offline_version "Viser fråkopla-versjon">
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
-<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vera tilgjengelege på &brandShortName; si Startside etter omstart.">
-<!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan retta det">
+<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vere tilgjengelege på &brandShortName; si Startside etter omstart.">
+<!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan rette det">
 <!ENTITY  crash_include_url2 "Inkluder adressa til nettstaden problemet oppstod på">
 <!ENTITY  crash_sorry "Me beklagar">
 <!ENTITY  crash_comment "Legg til ein kommentar (kommentarar er offentleg synlege)">
 <!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakta meg om denne rapporten">
-<!ENTITY  crash_email "Di e-postadresse">
-<!ENTITY  crash_closing_alert "Avslutta utan å senda krasjrapport?">
+<!ENTITY  crash_email "E-postadressa di">
+<!ENTITY  crash_closing_alert "Avslutte utan å senda krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
 <!ENTITY  crash_close_label "Lat att">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
@@ -110,7 +112,7 @@
 <!ENTITY menu "Meny">
 <!ENTITY back "Tilbake">
 <!ENTITY stop "Stopp">
-<!ENTITY site_security "Nettstadtryggleik">
+<!ENTITY site_security "Nettstadsikkerheit">
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lat att fane">
@@ -142,7 +144,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Språk">
-<!ENTITY pref_category_language_summary "Endra nettlesarspråk">
+<!ENTITY pref_category_language_summary "Endre nettlesarspråk">
 <!ENTITY pref_browser_locale "Nettlesarspråk">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -847,7 +849,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_title "Velkomen til høgdepunkta dine">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar no høgdepunkt av det du har oppdaga på nettet, slik at du kan finna tilbake til gode artiklar, videoar, bokmerke og anna.">
 
-<!ENTITY private_tab_panel_title "Privat nettlesing + Sporingsvern">
+<!ENTITY private_tab_panel_title "Privat nettlesing + sporingsvern">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spore nettlesaraktiviteten din.">
 <!ENTITY private_tab_panel_description2 "Vi vil ikkje hugse noko historikk, men nedlasta filer og nye bokmerke vert lagra på eininga di.">
 <!ENTITY private_tab_learn_more "Vil du finne ut meir?">
