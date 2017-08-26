@@ -46,10 +46,10 @@
 <!ENTITY signedOut.caption "Llévese la web con usted">
 <!ENTITY signedOut.description "Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.">
 <!ENTITY signedOut.accountBox.title "Conectar con una &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create "Crear cuenta">
-<!ENTITY signedOut.accountBox.create.accesskey "C">
-<!ENTITY signedOut.accountBox.signin "Conectarse">
-<!ENTITY signedOut.accountBox.signin.accesskey "C">
+<!ENTITY signedOut.accountBox.create2 "¿No tiene una cuenta? Comience ahora">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Conectarse…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "C">
 <!ENTITY signedIn.settings.label "Configuración de Sync">
 <!ENTITY signedIn.settings.description "Elija qué sincronizar en sus dispositivos usando &brandShortName;.">
 <!ENTITY mobilePromo3.start "Descargar Firefox para ">
