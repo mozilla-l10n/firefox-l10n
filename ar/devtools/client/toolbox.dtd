@@ -59,6 +59,7 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+<!ENTITY options.context.triggersPageRefresh  "* في الجلسة الحالية فقط، تُعيد تحميل الصفحة">
 
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
@@ -86,6 +87,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "أدوات المطورين المبدئية">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -96,6 +98,7 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+<!ENTITY options.selectEnabledToolboxButtons.label     "أزرار شريط الأدوات المتوفرة">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
@@ -108,6 +111,7 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "استخدم سمة متصفح إصدارة المطورين">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -118,6 +122,7 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "المنقّح">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
@@ -133,6 +138,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
+<!ENTITY options.stylesheetAutocompletion.label      "أكِل CSS تلقائيا">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "أكمِل خصائص CSS وقيمها ومُحدِّداتها في محرر الأنماط تلقائيا وأنت تكتبها">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
@@ -146,6 +153,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "شغّل صوت غالِق الكمرة">
+<!ENTITY options.screenshot.audio.tooltip    "فعّل إصدار صوت الكمرة أثناء أخذ اللقطات">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
@@ -155,6 +164,7 @@
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
+<!ENTITY options.enablePersistentLogs.tooltip  "إن فعّلت هذا الخيار، لن يمسح معراض الوِب وكذلك مراقب الشبكة الخرج في كل مرة تنتقل فيها إلى صفحة جديدة">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
