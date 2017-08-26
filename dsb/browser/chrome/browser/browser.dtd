@@ -238,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Cytańske znamjenja pytaś">
 <!ENTITY bookmarkingTools.label             "Rědy za cytańske znamjenja">
 <!ENTITY addBookmarksMenu.label             "Symbolowej rědce meni cytańskich znamjenjow pśidaś">
+<!ENTITY removeBookmarksMenu.label          "Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś">
 
 <!ENTITY containersMenu.label "Kontejnery">
 
@@ -825,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Z">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Śěgniśo swóje nejlubše zapiski do symboloweje rědki abo woběžkego menija.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Cośo dalšne rědy?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Wubjerśo z tysacow dodankow">
 <!ENTITY customizeMode.restoreDefaults "Standard wótnowiś">
@@ -971,5 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
 
+<!ENTITY sendToDevice.label3 "Bok na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 
+<!ENTITY libraryButton.tooltip "Historiju, skłaźone cytańske znamjenja a wěcej pokazaś">

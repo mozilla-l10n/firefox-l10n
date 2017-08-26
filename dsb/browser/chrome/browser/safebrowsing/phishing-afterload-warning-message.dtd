@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Wobšudnkojske sedła su za to myslone, was zawjedowaś, něco tšašnego cyniś, ako na pś. instalěrowanje softwary abo pśeraźowanje wašych wósobinskich datow, na pś. gronidłow, telefonowych numerow abo numerow kreditnych kórtow.</p><p>Gaž daty na toś tom webboku zapódajośo, móžo to ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sedło prědku móžo škódnu software wopśimowaś">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox jo toś ten bok zablokěrował, dokulaž mógła wopytowaś, stšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditne kórty).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; jo toś ten bok zablokěrował, dokulaž mógła tšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditowe kórty).">
