@@ -594,10 +594,12 @@
 <!ENTITY helper_triple_readerview_open_button "Dodaj zakładkę">
 
 <!ENTITY activity_stream_topsites "Popularne">
+<!ENTITY activity_stream_topstories "Poleca &brandPocket;">
 <!ENTITY activity_stream_highlights "Wyróżnione">
 
 <!ENTITY activity_stream_highlight_label_bookmarked "Zakładka">
 <!ENTITY activity_stream_highlight_label_visited "Odwiedzone">
+<!ENTITY activity_stream_highlight_label_trending "Na czasie">
 
 <!ENTITY activity_stream_remove "Usuń">
 <!ENTITY activity_stream_delete_history "Usuń z historii">
