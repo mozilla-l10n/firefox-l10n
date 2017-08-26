@@ -20,6 +20,10 @@ Arkistoitu ping-data
 Muotoilematon JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Avaa JSON-katselimessa
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Näytä ali-istuntodata
 ">
@@ -80,10 +84,6 @@ Vanhemmat
   Selaimen jäätymiset
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Ohjelmasäikeen jäätymiset
-">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Kaapatut pinot
 ">
@@ -118,6 +118,10 @@ Vanhemmat
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Myöhästyneet kirjoitukset
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Raakatiedot
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
