@@ -70,6 +70,8 @@
 <!ENTITY rights.locationawarebrowsing-term1a "Gachrun riña sa nanuit.">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Dùgutuj geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Gà'ui' huij klik riña si preferensiâ geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Si gataj na'anj ma dane' nut">
 
 <!-- intro paragraph for unbranded builds -->
 
