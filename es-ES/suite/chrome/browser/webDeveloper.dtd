@@ -15,7 +15,6 @@
 <!ENTITY browserConsoleCmd.accesskey "d">
 <!ENTITY responsiveDesignTool.label "Vista de diseño adaptable">
 <!ENTITY responsiveDesignTool.accesskey "e">
-<!ENTITY responsiveDesignTool.commandkey "M">
 <!ENTITY eyedropper.label "Recogecolor">
 <!ENTITY eyedropper.accesskey "R">
 <!ENTITY scratchpad.label "Borrador">
