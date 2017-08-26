@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Ρυθμίσεις σύνδεσης">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο">
 <!ENTITY  noProxyTypeRadio.label        "Χωρίς διαμεσολαβητή">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
 <!ENTITY  shareproxy.accesskey          "δ">
+<!ENTITY  autologinproxy.label          "Να μην ζητείται έλεγχος ταυτοποίησης αν είναι αποθηκευμένος ο κωδικός πρόσβασης">
+<!ENTITY  autologinproxy.accesskey      "α">
+<!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή σας ταυτοποιεί σιωπηλά στους διαμεσολαβητές όταν έχετε αποθηκευμένα τα στοιχεία πρόσβασης για αυτούς. Θα ειδοποιηθείτε αν η ταυτοποίηση αποτύχει.">
+<!ENTITY  socksRemoteDNS.label          "Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
