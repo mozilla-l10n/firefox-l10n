@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena kao nesigurna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Sljedeća stranica može sadržavati zlonamjerni softver">
