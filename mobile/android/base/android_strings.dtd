@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Καλώς ήλθατε">
-
-<!ENTITY firstrun_urlbar_message "Καλώς ήλθατε στο &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Βρείτε τα πάντα πιο γρήγορα με τις χρήσιμες συντομεύσεις προτάσεων αναζήτησης.">
+<!ENTITY firstrun_urlbar_message2 "Ευχαριστούμε που επιλέξατε το &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Ένα σύγχρονο πρόγραμμα περιήγησης για κινητά από τη Mozilla, τον μη κερδοσκοπικό οργανισμό, που έχει αφοσιωθεί σε ένα ελεύθερο και ανοικτό διαδίκτυο.">
+<!ENTITY firstrun_panel_title_privacy "Απόρρητο">
+<!ENTITY firstrun_privacy_message "Περιηγηθείτε σαν να μην βλέπει κανείς">
+<!ENTITY firstrun_panel_title_customize "Προσαρμογή">
+<!ENTITY firstrun_customize_message "Κάντε το &brandShortName; δικό σας.">
 <!ENTITY firstrun_bookmarks_title "Ιστορικό">
 <!ENTITY firstrun_bookmarks_message "Τα αγαπημένα σας, στο επίκεντρο">
 <!ENTITY firstrun_bookmarks_subtext "Λάβετε αποτελέσματα από τους σελιδοδείκτες και το ιστορικό σας όταν κάνετε αναζήτηση.">
@@ -13,8 +16,6 @@
 <!ENTITY firstrun_data_message "Λιγότερα δεδομένα, μεγαλύτερη οικονομία">
 <!ENTITY firstrun_data_subtext2 "Απενεργοποιήστε τις εικόνες για να ξοδεύετε λιγότερα δεδομένα σε κάθε ιστοσελίδα που επισκέπτεστε.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "Το &brandShortName; πάντα στο πλευρό σας">
-<!ENTITY firstrun_sync_subtext "Συγχρονίστε τις καρτέλες, τους κωδικούς πρόσβασης και άλλα οπουδήποτε τον χρησιμοποιείτε.">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
 <!ENTITY  onboard_start_button_browser "Έναρξη περιήγησης">
@@ -355,7 +356,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Εκκαθάριση τώρα">
 <!ENTITY pref_clear_on_exit_title3 "Εκκαθάριση ιδιωτικών δεδομένων κατά την έξοδο">
-<!ENTITY pref_clear_on_exit_summary2 "Ο &brandShortName; θα προχωρά αυτόματα σε εκκαθάριση των δεδομένων σας όταν θα επιλέγετε \u0022Έξοδος\u0022 από το κύριο μενού">
+<!ENTITY pref_clear_on_exit_summary2 "Ο &brandShortName; θα προχωρά αυτόματα σε εκκαθάριση των δεδομένων σας όταν θα επιλέγετε \&quot;Έξοδος\&quot; από το κύριο μενού">
 <!ENTITY pref_clear_on_exit_dialog_title "Επιλέξετε τα δεδομένα προς εκκαθάριση">
 <!ENTITY pref_restore_tabs "Επαναφορά καρτελών">
 <!ENTITY pref_restore_always "Να επαναφέρονται πάντα">
@@ -838,16 +839,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Έγινε επίσκεψη">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Απόρριψη">
+<!ENTITY activity_stream_remove "Αφαίρεση">
 <!ENTITY activity_stream_delete_history "Διαγραφή από ιστορικό">
 
 <!ENTITY activity_stream_welcome_title "Καλώς ορίσατε στις κορυφαίες στιγμές σας">
 <!ENTITY activity_stream_welcome_content1 "Το &brandShortName; δημιουργεί πλέον τις κορυφαίες στιγμές από πράγματα που έχετε ανακαλύψει στο διαδίκτυο, ώστε να μπορέσετε να επιστρέψετε σε έξοχα άρθρα, βίντεο, σελιδοδείκτες και άλλες σελίδες.">
+<!ENTITY activity_stream_welcome_dismiss "Απόρριψη">
 
 <!ENTITY private_tab_panel_title "Ιδιωτική Περιήγηση + Προστασία Παρακολούθησης">
 <!ENTITY private_tab_panel_description "Ο &brandShortName; αποκλείει τμήματα των σελίδων τα οποία ενδέχεται να καταγράφουν την περιήγηση σας.">
 <!ENTITY private_tab_panel_description2 "Δεν θα διατηρείται το ιστορικό, ωστόσο τα ληφθέντα αρχεία και οι νέοι σελιδοδείκτες θα αποθηκεύονται στη συσκευή σας.">
 <!ENTITY private_tab_learn_more "Θέλετε να μάθετε περισσότερα;">
+
