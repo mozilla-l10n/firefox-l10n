@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "السّلطات">
 <!ENTITY certmgr.tab.orphan2                  "أخرى">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "لديك شهادات من هذه المنظّمات التي تعرّفك">
+<!ENTITY certmgr.others2                      "لديك شهادات على ملفّ تعرّف هؤلاء الناس">
+<!ENTITY certmgr.websites3                    "لديك شهادات على ملف تُعرّف هذه الخواديم">
+<!ENTITY certmgr.cas2                         "لديك شهادات على ملفّ تعرّف سلطات الشّهادات هذه">
+<!ENTITY certmgr.orphans2                     "لديك شهادات على الملف لا تتناسب مع أي من التصنيفات الأخرى">
 
 <!ENTITY certmgr.detail.general_tab.title     "عام">
 <!ENTITY certmgr.detail.general_tab.accesskey "ع">

@@ -12,6 +12,9 @@
 
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+افتح في عارض JSON
+">
 
 <!ENTITY aboutTelemetry.showSubsessionData "اعرض بيانات الإرسال">
 
@@ -42,8 +45,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  استعلامات SQL بطيئة">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  تعليقات المتصفح">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  تعليقات الخيوط">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  المكدسات المُلتقطة">
 
