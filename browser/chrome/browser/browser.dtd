@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Hantar Halaman ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
+
+<!ENTITY libraryButton.tooltip "Papar sejarah, tandabuku yang disimpan dan banyak lagi">
