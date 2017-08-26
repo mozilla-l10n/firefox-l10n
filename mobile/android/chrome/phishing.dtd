@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nesigurne stranice pokušavaju instalirati programe koju su zavaravajući i mogu utjecati na vaš sustav na neočekivane načine.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sljedeća stranica može sadržavati zlonamjerni softver">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; je blokirao ovu stranicu iz razloga što će možda pokušati instalirati zlonamjerne aplikacije koje kradu ili brišu vaše podatke (na primjer slike, lozinke, poruke ili kreditne kartice).">
