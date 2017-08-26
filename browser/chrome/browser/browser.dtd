@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Poslat stránku do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
+
+<!ENTITY libraryButton.tooltip "Zobrazí historii, uložené záložky, a mnoho dalšího">
