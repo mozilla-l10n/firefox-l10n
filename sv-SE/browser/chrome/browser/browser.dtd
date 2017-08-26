@@ -383,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Lägg till i extrameny">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Lägg till i spillmeny">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytta till verktygsfält">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
@@ -394,9 +394,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytta till menyn">
 <!ENTITY customizeMenu.moveToPanel.accesskey "F">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Fäst på extrameny">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fäst på spillmeny">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ta bort från extrameny">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ta bort från spillmeny">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ta bort från verktygsfält">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Å">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Dra dina favoritobjekt till verktygsfältet eller extramenyn.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Dra dina favoritobjekt till verktygsfältet eller spillmenyn.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Vill du ha fler verktyg?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
