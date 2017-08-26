@@ -9,8 +9,8 @@
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
 <!ENTITY password.value "Senha">
-<!ENTITY checkbox.value "Campo check box">
-<!ENTITY radio.value "Campo rádio">
+<!ENTITY checkbox.value "Caixa de verificação">
+<!ENTITY radio.value "Botão de opção">
 <!ENTITY submit.value "Botão de envio de dados">
 <!ENTITY reset.value "Botão valores iniciais">
 <!ENTITY file.value "Envio de arquivo">
