@@ -162,7 +162,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Deze bladwijzer bewerken">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
@@ -228,7 +227,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Bladwijzers">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bladwijzers">
+<!ENTITY bookmarksSubview.label             "Bladwijzers">
+<!ENTITY bookmarksMenuButton2.label         "Bladwijzermenu">
 <!ENTITY bookmarksMenuButton.other.label "Andere bladwijzers">
 <!ENTITY bookmarksMenuButton.mobile.label "Mobiel-bladwijzers">
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
@@ -239,8 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Bladwijzerhulpmiddelen">
 <!ENTITY addBookmarksMenu.label             "Bladwijzermenu toevoegen aan werkbalk">
 <!ENTITY removeBookmarksMenu.label          "Bladwijzermenu verwijderen van werkbalk">
-
-<!ENTITY containersMenu.label "Containers">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +337,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Het menu en de werkbalken aanpassen">
 <!ENTITY appMenuCustomizeExit.label "Aanpassen afsluiten">
 <!ENTITY appMenuCustomizeExit.tooltip "Aanpassen voltooien">
-<!ENTITY appMenuHistory.label "Geschiedenis">
 <!ENTITY appMenuHistory.showAll.label "Alle geschiedenis tonen">
 <!ENTITY appMenuHistory.clearRecent.label "Recente geschiedenis wissen…">
 <!ENTITY appMenuHistory.restoreSession.label "Vorige sessie herstellen">
@@ -912,8 +909,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Sluiten">
-
-<!ENTITY appMenuSidebars.label         "Zijbalken">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
