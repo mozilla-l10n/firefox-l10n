@@ -162,9 +162,9 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
 <!ENTITY overlay_share_bookmark_btn_label_already "Er allereie i bokmerke">
-<!ENTITY overlay_share_send_other "Send til anna eining">
+<!ENTITY overlay_share_send_other "Send til andre einingar">
 
-<!ENTITY overlay_share_open_browser_btn_label "Opna i &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "Opne i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
