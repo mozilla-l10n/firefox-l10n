@@ -111,6 +111,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "คัดลอกข้อมูลดิบไปยังคลิปบอร์ด">
 
 <!ENTITY aboutSupport.sandboxTitle "กระบะทราย">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 <!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
 <!ENTITY aboutSupport.restartInSafeMode.label "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
@@ -121,3 +123,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
 <!ENTITY aboutSupport.mediaTitle "สื่อ">
+<!ENTITY aboutSupport.mediaDeviceName "ชื่อ">
+<!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
