@@ -848,9 +848,11 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_welcome_title "Velkomen til høgdepunkta dine">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; lagar no høgdepunkt av det du har oppdaga på nettet, slik at du kan finna tilbake til gode artiklar, videoar, bokmerke og anna.">
+<!ENTITY activity_stream_welcome_dismiss "Lat att">
 
 <!ENTITY private_tab_panel_title "Privat nettlesing + sporingsvern">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkerer delar av sidene som kan spore nettlesaraktiviteten din.">
 <!ENTITY private_tab_panel_description2 "Vi vil ikkje hugse noko historikk, men nedlasta filer og nye bokmerke vert lagra på eininga di.">
 <!ENTITY private_tab_learn_more "Vil du finne ut meir?">
 
+<!ENTITY fullscreen_warning "Opna fullskjerm">
