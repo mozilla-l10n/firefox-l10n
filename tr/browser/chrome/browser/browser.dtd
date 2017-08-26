@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Sayfayı cihaza gönder">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
+
+<!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">
