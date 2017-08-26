@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Guruhuât gunumânt">
-
-<!ENTITY firstrun_urlbar_message "Guruhuât gunumânt riña &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Gahuin chrun daj nuta\&apos;t ra\&apos;at da\&apos; hio narit sa nana\&apos;ui\&apos; ra">
+<!ENTITY firstrun_urlbar_message2 "Guruhuât nadunïnjt &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "‘Ngō navegador guenda telefono Mozilla, nī nitāj si nūn ñanj ‘ngō sa yi’ìi nī huā nikā ruhuaj da’ gā chre nī gā ni’nïnj web.">
+<!ENTITY firstrun_panel_title_privacy "Sa hùii">
+<!ENTITY firstrun_privacy_message "Gache nû dadin\&apos; nitaj à\&apos; si \&apos;ngo ni\&apos;iaj si \&apos;iát">
+<!ENTITY firstrun_privacy_subtext "Sa aché nun huìt ngà sa narán ngà aché nunt nī naran riña daran’ nej sa naga’nāj sò’ nga aché nunt, nī nitāj si dunanun ruhuaj riña gan’ānjt.">
+<!ENTITY firstrun_panel_title_customize "Nagi\&apos;iô\&apos; daj huin ruhuô\&apos;">
+<!ENTITY firstrun_customize_message "Gi\&apos;iaj &brandShortName; si\&apos;iaj.">
+<!ENTITY firstrun_customize_subtext "Nagi’iaj daj garan’ ruhuât ngà nej complemento. Narán riña anuncio, nachrūn a’ngô sa ruhuât nī nadunā dàj gā riña gachē nunt da’ gini’in guìi sò’.">
 <!ENTITY firstrun_bookmarks_title "Riña gaché nunt">
 <!ENTITY firstrun_bookmarks_message "Hiuj na ma nej sa garan ruat doj">
 <!ENTITY firstrun_bookmarks_subtext "Garasun nej nuguan raj sun nichro\&apos; doj da\&apos; nari hio\&apos; doj sa nana\&apos;ui\&apos;.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Ninaj doj dâtos, niko sa nun sa\&apos;">
 <!ENTITY firstrun_data_subtext2 "Si naduninjt nej ñan du\&apos;uo\&apos; da\&apos; si gutin\&apos; nikôt datos nga atûj riñan internet.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; yitinj hua nî\&apos;ninj da\&apos; garasunt">
-<!ENTITY firstrun_sync_subtext "Ruat nani\&apos;in da\&apos;nga ma\&apos;an ma nej da\&apos;nga\&apos; huìi da\&apos; garasun raj">
+<!ENTITY firstrun_sync_message2 "Nakāj danè’ gudunâjt.">
+<!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
 <!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
 <!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
@@ -835,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ga\&apos;anj ni\&apos;io\&apos;">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Si yakaj guendât">
+<!ENTITY activity_stream_remove "Guyun">
 <!ENTITY activity_stream_delete_history "Dure\&apos; sa nga ma">
 
 <!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\&apos;an doj \&apos;iát">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\&apos;ue nagi\&apos;iát nej sa ña\&apos;an doj narît riña web da\&apos; ga\&apos;ue hìo narì´t nej sa gahiat, sa ni\&apos;iajt, ñanj gahiat, ni a\&apos;ngô nej sa huaa.">
+<!ENTITY activity_stream_welcome_dismiss "Si yakaj guendât">
 
 <!ENTITY private_tab_panel_title "Sa tna\&apos;uej rayi\&apos;ît ngà aché hùit">
 <!ENTITY private_tab_panel_description "&brandShortName; Narràn riña nej pajinâ ga\&apos;ue gi\&apos;iaj yi\&apos;ì sò\&apos;">
 <!ENTITY private_tab_panel_description2 "Si nadigân ñûnj  à\&apos; si\&apos;ngo nuguan\&apos;an, sani nej sa naduninjt ni gananu sà\&apos;aj riña si gaga\&apos;t">
 <!ENTITY private_tab_learn_more "Gini\&apos;înt doj aj">
+
+<!ENTITY fullscreen_warning "Gatûj ngè da\&apos; hua riña aga\&apos;a">
