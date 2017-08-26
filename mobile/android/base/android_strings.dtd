@@ -3,19 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Hoş geldiniz">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName;’u seçtiğiniz için teşekkürler">
+<!ENTITY firstrun_urlbar_subtext2 "Kâr amacı gütmeden özgür ve açık web’i korumaya ant içmiş Mozilla’dan, çağdaş bir mobil tarayıcı.">
 <!ENTITY firstrun_panel_title_privacy "Gizlilik">
 <!ENTITY firstrun_privacy_message "Hiç kimse izlemiyormuş gibi gez">
+<!ENTITY firstrun_privacy_subtext "İzlenme Koruması ile Gizli Gezinti, sen gezininirken takipçileri engeller ve işin bitince tüm gezinti geçmişinizi imha eder.">
 <!ENTITY firstrun_panel_title_customize "Özelleştir">
+<!ENTITY firstrun_customize_message "&brandShortName; senindir, senin kalacak.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; tarayıcını eklentilerle kişiselleştirebilirsin. Reklamları engelle, yeni özellikler ekle, istersen kişiliğini yansıtacak bir tema seç.">
 <!ENTITY firstrun_bookmarks_title "Geçmiş">
-<!ENTITY firstrun_bookmarks_message "Sevdiğiniz her şey ortada">
-<!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imleriniz ve geçmişiniz de aransın.">
+<!ENTITY firstrun_bookmarks_message "Sevdiğin her şey ortada">
+<!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imlerinden ve geçmişinden gelen sonuçları da göreceksin.">
 <!ENTITY firstrun_data_title "Veri">
 <!ENTITY firstrun_data_message "Daha az veri, daha çok tasarruf">
-<!ENTITY firstrun_data_subtext2 "Girdiğiniz her sitede daha az veri harcamak için resimleri kapatabilirsiniz.">
+<!ENTITY firstrun_data_subtext2 "Girdiğin her sitede daha az veri harcamak için resimleri kapatabilirsin.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Kaldığınız yerden devam edin.">
-<!ENTITY firstrun_signin_message "Bağlanın, kullanmaya başlayın">
-<!ENTITY firstrun_signin_button "Sync’e giriş yapın">
+<!ENTITY firstrun_sync_message2 "Kaldığın yerden devam et.">
+<!ENTITY firstrun_sync_subtext2 "Tüm cihazlarında &brandShortName;’a kaydettiğin yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsin.">
+<!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
+<!ENTITY firstrun_signin_button "Sync’e giriş yap">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_notnow "Daha sonra">
 <!ENTITY firstrun_button_next "Sonraki">
@@ -834,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ziyaret edildi">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Kapat">
+<!ENTITY activity_stream_remove "Kaldır">
 <!ENTITY activity_stream_delete_history "Geçmişten sil">
 
 <!ENTITY activity_stream_welcome_title "Öne çıkanlara hoş geldiniz">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; artık daha önce web\&apos;de keşfettiğiniz harika yazıları, videoları, yer imlerini ve diğer sayfaları öne çıkarıyor. Böylece onlara bir kez daha göz atabiliyorsunuz.">
+<!ENTITY activity_stream_welcome_dismiss "Kapat">
 
 <!ENTITY private_tab_panel_title "Gizli Gezinti + İzlenme Koruması">
 <!ENTITY private_tab_panel_description "&brandShortName;, sayfaların gezinti etkinliğinizi izleyebilecek kısımlarını engeller.">
 <!ENTITY private_tab_panel_description2 "Gezinti geçmişinizi hatırlamayacağız ama indirdiğiniz dosyalar ve yeni yer imleriniz cihazınızda kayıtlı kalacaktır.">
 <!ENTITY private_tab_learn_more "Daha fazla bilgi almak ister misiniz?">
+
+<!ENTITY fullscreen_warning "Tam ekrana geçildi">
