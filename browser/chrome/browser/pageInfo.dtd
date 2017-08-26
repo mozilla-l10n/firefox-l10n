@@ -53,8 +53,8 @@
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Guna Piawai">
 <!ENTITY  permAskAlways         "sentiasa menanya">
-<!ENTITY  permAllow             "Benarkan">
-<!ENTITY  permAllowSession      "Sesi ini dibenarkan">
+<!ENTITY  permAllow             "Izinkan">
+<!ENTITY  permAllowSession      "Izinkan Sesi ini">
 <!ENTITY  permBlock             "Sekat">
 <!ENTITY  permissionsFor        "Keizinan untuk:">
 <!ENTITY  permPlugins           "Plugin Aktif">
