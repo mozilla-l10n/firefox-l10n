@@ -232,8 +232,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Altres adreces d'interès">
 <!ENTITY bookmarksMenuButton.mobile.label   "Adreces del mòbil">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
+<!ENTITY hideBookmarksSidebar.label         "Amaga la barra lateral d'adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
+<!ENTITY hideBookmarksToolbar.label         "Amaga la barra d'eines d'adreces d'interès">
 <!ENTITY searchBookmarks.label              "Cerca adreces d'interès">
+<!ENTITY bookmarkingTools.label             "Eines d'adreces d'interès">
 
 <!ENTITY containersMenu.label "Contenidors">
 
