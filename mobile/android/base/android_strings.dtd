@@ -162,7 +162,7 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
 <!ENTITY overlay_share_bookmark_btn_label_already "Er allerede i bokmerker">
-<!ENTITY overlay_share_send_other "Send til annen enhet">
+<!ENTITY overlay_share_send_other "Send til andre enheter">
 
 <!ENTITY overlay_share_open_browser_btn_label "Åpne i &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -575,7 +575,7 @@
 <!ENTITY button_clear "Tøm">
 <!ENTITY button_copy "Kopier">
 
-<!ENTITY home_top_sites_title "Toppliste">
+<!ENTITY home_top_sites_title "Populære nettsteder">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Legg til nettsted">
@@ -830,7 +830,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Bokmerk lesevisningselementer for å lese de frakoblet.">
 <!ENTITY helper_triple_readerview_open_button "Legg til i bokmerker">
 
-<!ENTITY activity_stream_topsites "Toppliste">
+<!ENTITY activity_stream_topsites "Populære nettsteder">
 <!ENTITY activity_stream_highlights "Høydepunkter">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
