@@ -840,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Aplankyta">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Paslėpti">
+<!ENTITY activity_stream_remove "Pašalinti">
 <!ENTITY activity_stream_delete_history "Pašalinti iš istorijos">
 
 <!ENTITY activity_stream_welcome_title "Sveiki, čia jūsų akcentai">
 <!ENTITY activity_stream_welcome_content1 "„&brandShortName;“ dabar formuoja akcentus iš jūsų saityne atrastų dalykų, kad galėtumėte grįžti prie puikių straipsnių, vaizdo įrašų, adresyno įrašų ir kitų tinklalapių.">
+<!ENTITY activity_stream_welcome_dismiss "Paslėpti">
 
 <!ENTITY private_tab_panel_title "Privatusis naršymas + apsauga nuo stebėjimo">
 <!ENTITY private_tab_panel_description "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti tinklalapių dalis.">
 <!ENTITY private_tab_panel_description2 "Mes neįsiminsime jokios istorijos, tačiau parsiųsti failai ir nauji adresyno įrašai vis tiek bus įrašyti į jūsų įrenginį.">
 <!ENTITY private_tab_learn_more "Norite sužinoti daugiau?">
+
+<!ENTITY fullscreen_warning "Įjungta viso ekrano veiksena">
