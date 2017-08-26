@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Понесите веб са собом">
 <!ENTITY signedOut.description        "Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.">
 <!ENTITY signedOut.accountBox.title   "Повезивање са &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Направи налог">
-<!ENTITY signedOut.accountBox.create.accesskey  "г">
-<!ENTITY signedOut.accountBox.signin  "Пријави се">
-<!ENTITY signedOut.accountBox.signin.accesskey  "с">
+<!ENTITY signedOut.accountBox.create2 "Немате налог? Направите га овде">
+<!ENTITY signedOut.accountBox.create2.accesskey "г">
+<!ENTITY signedOut.accountBox.signin2 "Пријави се…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "ј">
 
 <!ENTITY signedIn.settings.label       "Sync поставке">
 <!ENTITY signedIn.settings.description "Изаберите шта да се синхронизује на вашем уређају користећи &brandShortName;.">
