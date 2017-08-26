@@ -80,3 +80,6 @@
 <!ENTITY rights.webservices-term1-unbranded "Ñuna gini'int daj garasunt nej sa 'iaj sun nga si agat.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights2.webservices-term1 "&vendorShortName; nga nej dugui' rugujñu'unj, ni 'iaj sun da' ganahuin hue'ê nej sa raj sunt.  Ga'uê si hua ga'î nej sa nitaj si hua hue'ê ma riña nej sa ni'iat.  Daj run' nga gaché nut riña hua yitinj ni ga'uê si da'aj nej sa ahi hua ni si ganari' aga' na, dadin' se si ni'ìn hìa ma nuin si hua sitinj nga nej dugui' dugumin da' go'ngô nej sa ma riña aché nut.">
+<!ENTITY rights.webservices-term2 "&vendorShortName; ga'ue nadunat nej sa raj sunt, nej si daj garan' ruat.">
+<!ENTITY rights2.webservices-term3 "Ga'ué garasut  nej sa huin ruaj nga versión na &brandShortName;, ni &vendorShortName; huej taj si danj da'ui àj.  &vendorShortName; ni nej digui' rugujñu'unj gahui nej sa arajsunt ni dugumin nej si dara' sa ni'ianj ma na .  Nej na ni sa hua nî'ninj da' ga'ué nagi'iat nga garan' ruat huin ma &brandShortName; ni a'ngô  da'aj nej versiôn ma riña kôdigo &brandShortName;.">
