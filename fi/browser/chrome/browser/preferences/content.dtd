@@ -15,10 +15,21 @@
 <!ENTITY  popupExceptions.accesskey                             "P">
 
 <!ENTITY  notificationPermissions.label                         "Ilmoitukset">
+<!ENTITY  notificationSettingsButton.label                      "Asetukset…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Lue lisää">
 
+<!ENTITY  locationPermissions.label                             "Sijainti">
+<!ENTITY  locationSettingsButton.label                          "Asetukset…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Asetukset…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "Mikrofoni">
+<!ENTITY  microphoneSettingsButton.label                        "Asetukset…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Kirjasinlajit ja värit">
 
