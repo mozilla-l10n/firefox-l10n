@@ -835,16 +835,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Посещено">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Убрать">
+<!ENTITY activity_stream_remove "Удалить">
 <!ENTITY activity_stream_delete_history "Удалить из истории">
 
 <!ENTITY activity_stream_welcome_title "Добро пожаловать в Самое интересное">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; теперь отображает самое интересное из того, что вы нашли в Интернете, так что вы сможете быстро вернуться к интересным статьям, видео, закладкам и другим страницам.">
+<!ENTITY activity_stream_welcome_dismiss "Убрать">
 
 <!ENTITY private_tab_panel_title "Приватный просмотр и Защита от отслеживания">
 <!ENTITY private_tab_panel_description "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY private_tab_panel_description2 "Мы не будет запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
 <!ENTITY private_tab_learn_more "Хотите узнать больше?">
+
+<!ENTITY fullscreen_warning "Переход в полноэкранный режим">
