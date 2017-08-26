@@ -974,3 +974,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "ارسال صفحه به دستگاه">
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">
+
+<!ENTITY libraryButton.tooltip "نمایش تاریخچه، نشانک‌های ذخیره شده و بیشتر">
