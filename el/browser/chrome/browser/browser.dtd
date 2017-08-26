@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "π">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Εύρεση περισσότερων υπηρεσιών κοινής χρήσης…">
-<!ENTITY sharePageCmd.label "Κοινή χρήση σελίδας">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "μ">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Κοινή χρήση συνδέσμου">
-<!ENTITY shareLink.accesskey "δ">
-<!ENTITY shareImage.label "Κοινή χρήση εικόνας">
-<!ENTITY shareImage.accesskey "ε">
-<!ENTITY shareSelect.label "Κοινή χρήσης επιλογής">
-<!ENTITY shareSelect.accesskey "π">
-<!ENTITY shareVideo.label "Κοινή χρήση βίντεο">
-<!ENTITY shareVideo.accesskey "β">
+
 <!ENTITY feedsMenu2.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
-<!ENTITY bookmarksMenuButton.other.label "Άλλοι σελιδοδείκτες">
-<!ENTITY bookmarksMenuButton.mobile.label "Σελιδοδείκτες κινητού">
+<!ENTITY bookmarksMenuButton.other.label    "Άλλοι σελιδοδείκτες">
+<!ENTITY bookmarksMenuButton.mobile.label   "Σελιδοδείκτες κινητού">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
+<!ENTITY hideBookmarksSidebar.label         "Απόκρυψη πλευρικής στήλης σελιδοδεικτών">
 <!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
+<!ENTITY hideBookmarksToolbar.label         "Απόκρυψη γραμμής σελιδοδεικτών">
 <!ENTITY searchBookmarks.label              "Αναζήτηση σελιδοδεικτών">
+<!ENTITY bookmarkingTools.label             "Εργαλεία σελιδοδεικτών">
+<!ENTITY addBookmarksMenu.label             "Προσθήκη μενού σελιδοδεικτών στη γραμμή εργαλείων">
+<!ENTITY removeBookmarksMenu.label          "Αφαίρεση μενού σελιδοδεικτών από τη γραμμή εργαλείων">
 
 <!ENTITY containersMenu.label "Περιβάλλοντα">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Εργαλεία">
-<!ENTITY toolsMenu.accesskey          "γ"> 
+<!ENTITY toolsMenu.accesskey          "γ">
 
 <!ENTITY keywordfield.label           "Προσθέστε μια λέξη-κλειδί για αυτή την αναζήτηση…">
 <!ENTITY keywordfield.accesskey       "κ">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
 
-<!ENTITY fileMenu.label         "Αρχείο"> 
+<!ENTITY fileMenu.label         "Αρχείο">
 <!ENTITY fileMenu.accesskey       "Α">
 <!ENTITY newUserContext.label             "Νέα καρτέλα εντός περιβάλλοντος">
 <!ENTITY newUserContext.accesskey         "β">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "δ">
 <!ENTITY newNonRemoteWindow.label   "Νέο μη-e10s παράθυρο">
 
-<!ENTITY editMenu.label         "Επεξεργασία"> 
-<!ENTITY editMenu.accesskey       "Ε"> 
-<!ENTITY undoCmd.label            "Αναίρεση">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "Α"> 
-<!ENTITY redoCmd.label            "Ακύρωση αναίρεσης">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "κ"> 
-<!ENTITY cutCmd.label           "Αποκοπή">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "π"> 
-<!ENTITY copyCmd.label            "Αντιγραφή">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "Α"> 
-<!ENTITY pasteCmd.label           "Επικόλληση">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "π"> 
-<!ENTITY deleteCmd.label          "Διαγραφή">  
-<!ENTITY deleteCmd.key            "Δ">  
-<!ENTITY deleteCmd.accesskey        "Δ"> 
-<!ENTITY selectAllCmd.label         "Επιλογή όλων">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "λ"> 
+<!ENTITY editMenu.label         "Επεξεργασία">
+<!ENTITY editMenu.accesskey       "Ε">
+<!ENTITY undoCmd.label            "Αναίρεση">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "Α">
+<!ENTITY redoCmd.label            "Ακύρωση αναίρεσης">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "κ">
+<!ENTITY cutCmd.label           "Αποκοπή">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "π">
+<!ENTITY copyCmd.label            "Αντιγραφή">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "Α">
+<!ENTITY pasteCmd.label           "Επικόλληση">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "π">
+<!ENTITY deleteCmd.label          "Διαγραφή">
+<!ENTITY deleteCmd.key            "Δ">
+<!ENTITY deleteCmd.accesskey        "Δ">
+<!ENTITY selectAllCmd.label         "Επιλογή όλων">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "λ">
 <!ENTITY preferencesCmd2.label       "Επιλογές">
 <!ENTITY preferencesCmd2.accesskey     "Ε">
 <!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
-<!ENTITY preferencesCmdUnix.accesskey     "μ"> 
+<!ENTITY preferencesCmdUnix.accesskey     "μ">
 
 <!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Προβολή"> 
-<!ENTITY viewMenu.accesskey       "ρ"> 
-<!ENTITY viewToolbarsMenu.label       "Εργαλειοθήκες"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ρ"> 
+<!ENTITY viewMenu.label         "Προβολή">
+<!ENTITY viewMenu.accesskey       "ρ">
+<!ENTITY viewToolbarsMenu.label       "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.accesskey     "ρ">
 <!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
 <!ENTITY viewSidebarMenu.accesskey "ε">
-<!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…"> 
+<!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Π">
 <!ENTITY overflowCustomizeToolbar.label       "Προσαρμογή γραμμής εργαλείων…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "ο">
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "ν">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Προβολή πηγαίου κώδικα MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ε">
 <!ENTITY viewPageSourceCmd.label      "Προβολή πηγαίου κώδικα">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Αντιγραφή τοποθεσίας εικόνας">
 <!ENTITY copyImageCmd.accesskey       "ν">
 <!ENTITY copyImageContentsCmd.label   "Αντιγραφή εικόνας">
-<!ENTITY copyImageContentsCmd.accesskey  "γ"> 
+<!ENTITY copyImageContentsCmd.accesskey  "γ">
 <!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
 <!ENTITY copyVideoURLCmd.accesskey    "γ">
 <!ENTITY copyAudioURLCmd.label        "Αντιγραφή τοποθεσίας ήχου">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Έξοδος από το &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Έξοδος"> 
+<!ENTITY quitApplicationCmd.label       "Έξοδος">
 <!ENTITY quitApplicationCmd.accesskey   "ξ">
 <!ENTITY quitApplicationCmdMac2.label   "Έξοδος από το &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Ε">
 
-<!ENTITY closeCmd.label                 "Κλείσιμο">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Κλείσιμο">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Κ">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "Ρ">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Διαχείριση υπηρεσιών…">
-
-<!ENTITY social.directory.label "Κατάλογος Ενεργοποιήσεων">
-<!ENTITY social.directory.text "Μπορείτε να ενεργοποιήσετε τις υπηρεσίες Κοινοποίησης από τον κατάλογο.">
-<!ENTITY social.directory.button "Φύγαμε!">
-<!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Εμφάνιση περισσότερων">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Επιπρόσθετα εργαλεία και λειτουργίες">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Σύρετε τα αγαπημένα σας στοιχεία στη γραμμή εργαλείων ή το αναδιπλούμενο μενού.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
@@ -991,5 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
 
-<!ENTITY sendToDevice.label2 "Αποστολή σε συσκευή">
+<!ENTITY sendToDevice.label3 "Αποστολή σελίδας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
+
+<!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">

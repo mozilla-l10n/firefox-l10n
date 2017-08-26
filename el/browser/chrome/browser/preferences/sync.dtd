@@ -66,10 +66,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Πάρτε μαζί σας το διαδίκτυο">
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY signedOut.accountBox.title   "Σύνδεση με ένα λογαριασμό Firefox">
-<!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
-<!ENTITY signedOut.accountBox.create.accesskey  "Π">
-<!ENTITY signedOut.accountBox.signin  "Σύνδεση">
-<!ENTITY signedOut.accountBox.signin.accesskey  "Σ">
+<!ENTITY signedOut.accountBox.create2 "Δεν έχετε λογαριασμό; Ξεκινήστε">
+<!ENTITY signedOut.accountBox.signin2 "Σύνδεση…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "Σ">
 
 <!ENTITY signedIn.settings.label       "Ρυθμίσεις Sync">
 <!ENTITY signedIn.settings.description "Επιλέξτε τι θα συγχρονίζεται στις συσκευές σας με το &brandShortName;.">
