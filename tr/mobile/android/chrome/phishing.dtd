@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminiz beklenmedik şekillerde etkileyebilecek yazılımlar yüklemeye çalışır.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Bu sitede kötü amaçlı yazılımlar olabilir">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "Bu sayfa, bilgilerinizi (örn. fotoğraflar, parolalar, mesajlar ve kredi kartları) çalmayı veya silmeyi amaçlayan tehlikeli uygulamalar yüklemeye çalışabilir. O yüzden &brandShortName; bu sayfayı engelledi.">
