@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Tervetuloa">
-
-<!ENTITY firstrun_urlbar_message "Tervetuloa &brandShortName;iin">
-<!ENTITY firstrun_urlbar_subtext "Löydä asioita nopeammin hakuehdotusten pikakuvakkeiden avulla.">
+<!ENTITY firstrun_urlbar_message2 "Kiitos, että valitsit &brandShortName;in">
 <!ENTITY firstrun_bookmarks_title "Historia">
 <!ENTITY firstrun_bookmarks_message "Kaikkein tärkeimmät suosikkisi">
 <!ENTITY firstrun_bookmarks_subtext "Saa hakutuloksia kirjanmerkeistäsi ja historiastasi.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "Vähemmän dataa, enemmän säästöä">
 <!ENTITY firstrun_data_subtext2 "Estä kuvat käyttääksesi vähemmän dataa sivustoilla, joilla vierailet.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, aina mukanasi">
-<!ENTITY firstrun_sync_subtext "Synkronoi välilehtesi, salasanasi ja muuta kaikkialla missä ikinä käytätkin sitä.">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Synciin">
 <!ENTITY  onboard_start_button_browser "Aloita selaaminen">
@@ -355,7 +351,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Poista nyt">
 <!ENTITY pref_clear_on_exit_title3 "Poista yksityiset tiedot suljettaessa">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automaattisesti poistaa tiedot kun valitset \u0022Lopeta\u0022 päävalikosta">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automaattisesti poistaa tiedot kun valitset \&quot;Lopeta\&quot; päävalikosta">
 <!ENTITY pref_clear_on_exit_dialog_title "Valitse poistettavat tiedot">
 <!ENTITY pref_restore_tabs "Palauta välilehdet">
 <!ENTITY pref_restore_always "Palauta aina">
@@ -838,10 +834,9 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vieraillut">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Hylkää">
 <!ENTITY activity_stream_delete_history "Poista historiasta">
 
 <!ENTITY activity_stream_welcome_title "Tervetuloa nostoihin">
@@ -851,3 +846,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "&brandShortName; estää sivulta osat, jotka voivat seurata selainkäyttäytymistäsi.">
 <!ENTITY private_tab_panel_description2 "Emme tallenna mitään historiatietoja, mutta ladatut tiedostot ja kirjanmerkit sivustoille tallennetaan laitteelle.">
 <!ENTITY private_tab_learn_more "Haluatko lukea lisää?">
+
+<!ENTITY fullscreen_warning "Siirryttiin kokoruututilaan">
