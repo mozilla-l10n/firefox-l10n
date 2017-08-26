@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Страница <span id='unwanted_sitename'/> је пријављена да садржи нежељени софтвер и блокирана је на основу безбедносних подешавања.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Нежељене странице софтвера покушавају да инсталирају софтвер који може да вас превари и да утиче на систем на неочекиване начине.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Наредни сајт можда садржи злонамеран софтвер">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; је блокирао ову страницу зато што може покушати да инсталира програме који би украли или обрисали ваше податке (на пример: слике, лозинке и кредитне картице).">

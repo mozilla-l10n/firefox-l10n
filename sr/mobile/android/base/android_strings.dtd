@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Добродошли">
-
-<!ENTITY firstrun_urlbar_message "Добродошли на &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Пронађите ствари брже са овим корисним пречицама.">
+<!ENTITY firstrun_urlbar_message2 "Хвала вам што се изабрали &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Модеран прегледач за мобилне уређаје од Mozilla-е, непрофитне организације посвећене слободном и отвореном вебу.">
+<!ENTITY firstrun_panel_title_privacy "Приватност">
+<!ENTITY firstrun_privacy_message "Прегледајте као да вас нико не надгледа">
+<!ENTITY firstrun_privacy_subtext "Приватно прегледање са заштитом од праћења блокира пратиоце док сурфујете и неће памтити ваш историјат након што завршите са сурфовањем.">
+<!ENTITY firstrun_panel_title_customize "Прилагоди">
+<!ENTITY firstrun_customize_message "Прилагодите &brandShortName; себи.">
+<!ENTITY firstrun_customize_subtext "Прилагодите &brandShortName; са додацима. Блокирајте рекламе, додајте могућности или изаберите тему која вам највише лежи.">
 <!ENTITY firstrun_bookmarks_title "Историјат">
 <!ENTITY firstrun_bookmarks_message "Ваше омиљене">
 <!ENTITY firstrun_bookmarks_subtext "Приказује резултате из ваших забелешки и историјата када претражујете.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Мање података, више штедње">
 <!ENTITY firstrun_data_subtext2 "Искључите приказивање слика да потрошите мање података на сваком сајту који посећујете.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, увек уз вас">
-<!ENTITY firstrun_sync_subtext "Синхронизујте језичке, лозинке и још много тога.">
+<!ENTITY firstrun_sync_message2 "Наставите тамо где сте стали.">
+<!ENTITY firstrun_sync_subtext2 "Искористите Sync да нађете забелешке, лозинке и друге ствари које сте сачували у &brandShortName;-у на свим вашим уређајима.">
 <!ENTITY firstrun_signin_message "Повежите се, започните">
 <!ENTITY firstrun_signin_button "Пријави се на Sync">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
@@ -838,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Посећене">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Занемари">
+<!ENTITY activity_stream_remove "Уклони">
 <!ENTITY activity_stream_delete_history "Уклони из историјата">
 
 <!ENTITY activity_stream_welcome_title "Добродошли у ваше истакнуте моменте">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; истиче ствари које сте открили на вебу да би вам помогао да поново пронађете сјајне чланке, видео снимке, забелешке и остале странице.">
+<!ENTITY activity_stream_welcome_dismiss "Занемари">
 
 <!ENTITY private_tab_panel_title "Приватно прегледање + Заштита од праћења">
 <!ENTITY private_tab_panel_description "&brandShortName; блокира делове странице који могу пратити ваше прегледање.">
 <!ENTITY private_tab_panel_description2 "Нећемо памтити историјат али ће преузете датотеке и забелешке остати сачуване на вашем уређају.">
 <!ENTITY private_tab_learn_more "Желите да сазнате више?">
+
+<!ENTITY fullscreen_warning "Режим целог екрана омогућен">
