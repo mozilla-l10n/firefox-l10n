@@ -14,17 +14,15 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "ક્યારેય નહિં">
 
 <!ENTITY  color                           "લખાણ અને પાશ્વ ભાગ">
-<!ENTITY  textColor.label                 "લખાણ:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "પાશ્વ ભાગ:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "લખાણ">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "પૃષ્ઠભૂમિ">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "સિસ્ટમ રંગો વાપરો">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "કડીઓ નીચે લીટી કરો">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "કડી રંગો">
-<!ENTITY  linkColor.label                 "નહિં મુલાકાત લીધેલ કડીઓ:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "મુલાકાત લીધેલ કડીઓ:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "મુલાકાત લીધેલ કડીઓ">

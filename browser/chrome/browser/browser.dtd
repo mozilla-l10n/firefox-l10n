@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "આ પાનાંને બુકમાર્ક કરો">
 <!ENTITY editThisBookmarkCmd.label "આ બુકમાર્કમાં ફેરફાર કરો">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "વધુ વહેંચાયેલ સેવાઓ શોધો…">
-<!ENTITY sharePageCmd.label "આ પાનાંને વહેંચો">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "આ લિંક સહિયારી કરો">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "આ છબીને વહેંચો">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "સહભાગિતા પસંદગી">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "આ વિડિઓ શેર કરો">
-<!ENTITY shareVideo.accesskey "r">
+
 <!ENTITY feedsMenu2.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenupopup.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
@@ -244,11 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "બુકમાર્કો">
-<!ENTITY bookmarksMenuButton.other.label "અન્ય બુકમાર્ક્સ">
-<!ENTITY bookmarksMenuButton.mobile.label "મોબાઇલ બુકમાર્કો">
+<!ENTITY bookmarksMenuButton.other.label    "અન્ય બુકમાર્ક્સ">
+<!ENTITY bookmarksMenuButton.mobile.label   "મોબાઇલ બુકમાર્કો">
 <!ENTITY viewBookmarksSidebar2.label        "બુકમાર્ક બાજુપટ્ટીને જુઓ">
+<!ENTITY hideBookmarksSidebar.label         "બુકમાર્ક્સ સાઇડબાર છુપાવો">
 <!ENTITY viewBookmarksToolbar.label         "બુકમાર્ક સાધનપટ્ટીને દર્શાવો">
+<!ENTITY hideBookmarksToolbar.label         "બુકમાર્ક્સ ટૂલબાર છુપાવો">
 <!ENTITY searchBookmarks.label              "બુકમાર્ક્સ શોધો">
+<!ENTITY bookmarkingTools.label             "બુકમાર્કિંગ સાધનો">
+<!ENTITY addBookmarksMenu.label             "ટૂલબારમાં બુકમાર્ક્સ મેનૂ ઉમેરો">
+<!ENTITY removeBookmarksMenu.label          "ટૂલબારમાંથી બુકમાર્ક મેનુને દૂર કરો">
 
 <!ENTITY containersMenu.label "કંટેનર">
 
@@ -262,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "સાધનો">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "આ શોધ માટે મુખ્ય શબ્દ એડ-ઓન...">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "ફાઈલ"> 
+<!ENTITY fileMenu.label         "ફાઈલ">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "નવી કન્ટેઈનર ટૅબ">
 <!ENTITY newUserContext.accesskey         "B">
@@ -292,45 +282,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "નવા બિન-e10s વિન્ડો">
 
-<!ENTITY editMenu.label         "ફેરફાર"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "રદ કરો">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "ફરી કરો">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "કાપો">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "કૉપિ કરો">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "ચોંટાડો">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "કાઢો">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "બધું પસંદ કરો">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "ફેરફાર">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "રદ કરો">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "ફરી કરો">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "કાપો">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "કૉપિ કરો">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "ચોંટાડો">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "કાઢો">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "બધું પસંદ કરો">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "વિકલ્પો">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "તાજેતરનાં ઇતિહાસને સાફ કરો…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "જુઓ"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "સાધનપટ્ટીઓ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "જુઓ">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "સાધનપટ્ટીઓ">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "બાજુપટ્ટી">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "વૈવિધ્યપૂર્ણ બનાવો..."> 
+<!ENTITY viewCustomizeToolbar.label       "વૈવિધ્યપૂર્ણ બનાવો...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "પોતાની રીતની સાધનપટ્ટી…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -531,7 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "પસંદગી સ્રોત જુઓ">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML સ્રોત જુઓ">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "પાનાં સ્રોત જુઓ">
@@ -598,7 +588,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "ચિત્ર સ્થાનની નકલ કરો">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ચિત્રની નકલ કરો">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "વીડિયો સ્થાનની નકલ કરો">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ઓડિયો સ્થાનની નકલ કરો">
@@ -694,13 +684,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "બહાર નીકળો &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "બંધ કરો"> 
+<!ENTITY quitApplicationCmd.label       "બંધ કરો">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "છોડી દો &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "બંધ કરો">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "બંધ કરો">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "સીંક">
 
-<!ENTITY social.addons.label "સેવાઓ સંચાલિત કરો…">
-
-<!ENTITY social.directory.label "સક્રિયકરણ ડાયરેક્ટરી">
-<!ENTITY social.directory.text "તમે ડિરેક્ટરીમાંથી શેર સેવાઓ સક્રિય કરી શકો છો.">
-<!ENTITY social.directory.button "મને ત્યા લઇ જા!">
-<!ENTITY social.directory.introText "તેને ઉમેરવા માટે સેવા પર ક્લિક કરો &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "વધુ જુઓ">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "વધારાનાં સાધનો અને સંગ્રહો">
+<!ENTITY customizeMode.menuAndToolbars.header3 "તમારી મનપસંદ વસ્તુઓ ટૂલબાર અથવા ઓવરફ્લો મેનૂમાં ખેંચો.">
 <!ENTITY customizeMode.menuAndToolbars.empty "વધારે સાધનો ઇચ્છો છો?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "હજારો ઍડ-ઓનમાંથી પસંદ કરો">
 <!ENTITY customizeMode.restoreDefaults "મૂળભૂતને પુન:સંગ્રહો">
@@ -988,6 +970,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "અપડેટ કરવા માટે પુનઃપ્રારંભ કરો &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "પૃષ્ઠ ક્રિયાઓ">
+<!ENTITY pageAction.addToUrlbar.label "સરનામાં બારમાં ઉમેરો">
+<!ENTITY pageAction.removeFromUrlbar.label "સરનામાં બારમાંથી દૂર કરો">
 
-<!ENTITY sendToDevice.label2 "ઉપકરણ પર મોકલો">
+<!ENTITY sendToDevice.label3 "ઉપકરણ પર પૃષ્ઠ મોકલો">
 <!ENTITY sendToDevice.syncNotReady.label "સમન્વય કરતા ઉપકરણો…">
+
