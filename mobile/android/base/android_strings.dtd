@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
-
-<!ENTITY firstrun_urlbar_message "환영합니다 &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "쉽고 유용한 검색 추천으로 더 빠르게 찾으세요.">
 <!ENTITY firstrun_bookmarks_title "방문목록">
 <!ENTITY firstrun_bookmarks_message "좋아하는 내용을, 맨 앞에 두세요">
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
 <!ENTITY firstrun_data_subtext2 "데이터 사용량을 줄이기 위해 방문하는 모든 사이트에서 이미지를 가져오지 않습니다.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, 항상 당신 곁에">
-<!ENTITY firstrun_sync_subtext "탭, 암호, 그리고 여러분이 사용하는 모든 것을 동기화합니다.">
 <!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_signin_button "Sync 로그인">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
@@ -298,10 +293,6 @@
 <!ENTITY pref_pwa "프로그레시브 웹 앱">
 <!ENTITY pref_pwa_summary "홈스크린에 웹앱이 추가되도록 허용">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "활동 스트림">
-<!ENTITY pref_activity_stream_summary "풍부한 시각적인 방문 내역 피드와 재구성된 홈 페이지를 통해 &brandShortName; 에서 여러분의 진짜로 기대하는 것을 더 쉽게 찾을 수 있도록 만들어줍니다.">
-
 <!ENTITY tracking_protection_prompt_title "추적 방지 시작">
 <!ENTITY tracking_protection_prompt_text "적극적으로 추적 요소들을 차단합니다. 더 이상 걱정할 필요 없습니다.">
 <!ENTITY tracking_protection_prompt_tip_text "더 자세한 내용은 사생활 설정에서 확인하세요">
@@ -359,12 +350,8 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "지금 삭제">
 <!ENTITY pref_clear_on_exit_title3 "나갈 때 개인 데이터 삭제">
-<!ENTITY pref_clear_on_exit_summary2 "주 메뉴를 통해 \u0022종료\u0022 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
+<!ENTITY pref_clear_on_exit_summary2 "주 메뉴를 통해 \&quot;종료\&quot; 시킬때 마다 &brandShortName;가 자동으로 정보를 삭제합니다">
 <!ENTITY pref_clear_on_exit_dialog_title "삭제할 정보 선택">
-<!ENTITY pref_plugins "플러그인">
-<!ENTITY pref_plugins_enabled "사용하기">
-<!ENTITY pref_plugins_tap_to_play2 "터치로 실행">
-<!ENTITY pref_plugins_disabled "사용 안 함">
 <!ENTITY pref_restore_tabs "탭 복원">
 <!ENTITY pref_restore_always "항상 복원">
 <!ENTITY pref_restore_quit "&brandShortName; 종료 후 복원하지 않음">
@@ -843,11 +830,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "방문한 사이트">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "숨기기">
 <!ENTITY activity_stream_delete_history "방문 기록에서 삭제">
 
 <!ENTITY activity_stream_welcome_title "하이라이트에 오신 것을 환영합니다">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName;가 글이나 동영상, 즐겨찾기, 다른 페이지들을 쉽게 다시 찾을 수 있게 웹에서 발견한 것들의 하이라이트를 만들 것입니다.">
+
+
+<!ENTITY fullscreen_warning "전체 화면 모드 진입">
