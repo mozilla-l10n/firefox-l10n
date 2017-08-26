@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Iznimke...">
 <!ENTITY  popupExceptions.accesskey                             "e">
 
-<!ENTITY  permissionSettingsButton2.label                       "Postavke…">
-
 <!ENTITY  notificationPermissions.label                         "Obavijesti">
+<!ENTITY  notificationSettingsButton.label                      "Postavke…">
 <!ENTITY  notificationSettingsButton.accesskey                  "o">
 <!ENTITY  notificationPermissionsLearnMore.label                "Saznajte više">
 
 <!ENTITY  locationPermissions.label                             "Lokacija">
+<!ENTITY  locationSettingsButton.label                          "Postavke…">
 <!ENTITY  locationSettingsButton.accesskey                      "l">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Postavke…">
 <!ENTITY  cameraSettingsButton.accesskey                        "k">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Postavke…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Fontovi i boje">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when logged in... -->
 
+<!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "Z">
@@ -20,8 +20,8 @@
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditne kartice">
 <!ENTITY engine.creditcards.accesskey "K">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Naziv uređaja">
 <!ENTITY changeSyncDeviceName2.label "Promijeni naziv uređaja…">
 <!ENTITY changeSyncDeviceName2.accesskey "n">
@@ -29,24 +29,24 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Spremi">
 <!ENTITY saveChangeSyncDeviceName.accesskey "e">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Uvjeti korištenja">
 <!ENTITY fxaPrivacyNotice.link.label "Pravila o privatnosti">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "nije potvrđen.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "Za ponovno povezivanje, pokušajte se ponovno prijaviti">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -66,24 +66,24 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Ponesite vaš Web sa sobom">
 <!ENTITY signedOut.description        "Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.">
 <!ENTITY signedOut.accountBox.title   "Povežite se sa &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Stvori račun">
-<!ENTITY signedOut.accountBox.create.accesskey  "S">
-<!ENTITY signedOut.accountBox.signin  "Prijava">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
+<!ENTITY signedOut.accountBox.create2 "Nemate račun? Započnite">
+<!ENTITY signedOut.accountBox.create2.accesskey "r">
+<!ENTITY signedOut.accountBox.signin2 "Prijavite se…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "i">
 
 <!ENTITY signedIn.settings.label       "Sync postavke">
 <!ENTITY signedIn.settings.description "Odaberite što sinkronizirati na vašim uređajima koji koriste &brandShortName;.">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-
 <!ENTITY mobilePromo3.start            "Preuzmite Firefox za ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " ili ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
