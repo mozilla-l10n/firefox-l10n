@@ -4,8 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Velkomen">
 <!ENTITY firstrun_urlbar_message2 "Takk for at du vel &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Ein moderne nettlesar frå Mozilla, ein ideell organisasjon engasjert i eit fritt og ope nett.">
 <!ENTITY firstrun_panel_title_privacy "Personvern">
 <!ENTITY firstrun_privacy_message "Surf utan å kjenne deg overvaka">
+<!ENTITY firstrun_privacy_subtext "Privat nettlesing med sporingsvern som blokkerer sporfølgjarar medan du surfar og slettar all historikk når du er ferdig med å surfe.">
 <!ENTITY firstrun_panel_title_customize "Tilpass">
 <!ENTITY firstrun_customize_message "Gjer &brandShortName; til din eigen.">
 <!ENTITY firstrun_bookmarks_title "Historikk">
