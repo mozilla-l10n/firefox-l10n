@@ -301,7 +301,7 @@
 <!ENTITY custom_tabs_hint_url_copy "URL disalin">
 
 <!ENTITY pref_pwa "Aplikasi Web Progresif">
-<!ENTITY pref_pwa_summary "Benarkan aplikasi web untuk diletakkan di skrin utama">
+<!ENTITY pref_pwa_summary "Izinkan aplikasi web untuk diletakkan dalam skrin utama">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Pelindungan Penjejakan">
 <!ENTITY tracking_protection_prompt_text "Menyekat elemen penjejakan secara aktif supaya anda tidak rasa bimbang.">
