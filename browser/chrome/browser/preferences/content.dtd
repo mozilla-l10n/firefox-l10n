@@ -14,19 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "Wuwześa…">
 <!ENTITY  popupExceptions.accesskey                             "W">
 
-<!ENTITY  permissionSettingsButton2.label                       "Nastajenja…">
-
 <!ENTITY  notificationPermissions.label                         "Powěźeńki">
+<!ENTITY  notificationSettingsButton.label                      "Nastajenja…">
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
 <!ENTITY  notificationPermissionsLearnMore.label                "Dalšne informacije">
 
 <!ENTITY  locationPermissions.label                             "Městno">
+<!ENTITY  locationSettingsButton.label                          "Nastajenja…">
 <!ENTITY  locationSettingsButton.accesskey                      "M">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Nastajenja…">
 <!ENTITY  cameraSettingsButton.accesskey                        "k">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Nastajenja…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Pisma a barwy">
@@ -52,6 +54,7 @@
 <!ENTITY translateWebPages.accesskey  "W">
 <!ENTITY translateExceptions.label    "Wuwześa…">
 <!ENTITY translateExceptions.accesskey "W">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -59,7 +62,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Pśełožki wót">
 <!ENTITY translation.options.attribution.afterLogo "">
 
