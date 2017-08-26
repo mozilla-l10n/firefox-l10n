@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Lue lisää">
 
 <!ENTITY dataCollection.label            "&brandShortName;in tietojen keräys ja käyttö">
-<!ENTITY dataCollectionDesc.label        "Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota &brandShortName; kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.">
+<!ENTITY dataCollectionDesc.label        "Pyrimme antamaan sinulle vapauden valita ja keräämään vain tietoja, joita tarvitsemme voidaksemme tarjota &brandShortName;in kaikille ja parantaa sitä. Kysymme aina lupaa ennen kuin vastaanotamme henkilötietoja.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tietosuojakäytäntö">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Salli, että &brandShortName; lähettää kaatumisilmoitukset Mozillalle">
