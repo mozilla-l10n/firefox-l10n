@@ -165,5 +165,12 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "تفضيلات المحرر">
+<!ENTITY options.sourceeditor.detectindentation.label   "اكتشف الإزاحة">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "خمِّن الإزاحة حسب محتوى المصدر">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "أغلِق الأقواس تلقائيا">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "أدرِج أقواسا غالِقة تلقائيا">
+<!ENTITY options.sourceeditor.expandtab.label           "أزِح مستخدما المسافات">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "استخدم المسافات بدل محرف الجدولة">
+<!ENTITY options.sourceeditor.tabsize.label             "حجم التبويب">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "ت">
 <!ENTITY options.sourceeditor.keybinding.default.label  "المبدئي">

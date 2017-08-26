@@ -5,9 +5,7 @@
 <!ENTITY windowTitle "بيئة فَيَرفُكس لتطوير الوب">
 
 <!ENTITY projectMenu_label "مشروع">
-
 <!ENTITY projectMenu_newApp_label "تطبيق جديد…">
-
 <!ENTITY projectMenu_importPackagedApp_label "افتح تطبيقًا مُحزّمًا…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "م">
 <!ENTITY projectMenu_importHostedApp_label "افتح تطبيقًا مستضافًا…">
@@ -29,31 +27,26 @@
 <!ENTITY projectMenu_refreshTabs_label "أنعش الألسنة">
 
 <!ENTITY runtimeMenu_label "بيئة التشغيل">
-
 <!ENTITY runtimeMenu_disconnect_label "اقطع الاتصال">
 <!ENTITY runtimeMenu_disconnect_accesskey "ص">
 <!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
 <!ENTITY runtimeMenu_showDetails_accesskey "ت">
-
 <!ENTITY runtimeMenu_showMonitor_accesskey "ش">
 <!ENTITY runtimeMenu_showDevicePrefs_label "تفضيلات الجهاز">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ج">
 <!ENTITY runtimeMenu_showSettings_label "إعدادات الجهاز">
 
-
 <!ENTITY viewMenu_label "اعرض">
 <!ENTITY viewMenu_accesskey "ع">
 <!ENTITY viewMenu_zoomin_label "قرّب">
-
 <!ENTITY viewMenu_zoomout_label "بعّد">
 <!ENTITY viewMenu_zoomout_accesskey "ق">
 
-
-
 <!ENTITY projectButton_label "افتح تطبيقا">
 <!ENTITY runtimeButton_label "اختر بيئة تشغيل">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -61,9 +54,7 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
-
 <!ENTITY key_zoomout "-">
-
 
 <!ENTITY projectPanel_myProjects "مشاريعي">
 <!ENTITY projectPanel_runtimeApps "تطبيقات بيئة التشغيل">
@@ -76,8 +67,8 @@
 <!ENTITY runtimePanel_noadbhelper "نصّب «مساعد Adb»">
 <!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
 <!ENTITY runtimePanel_refreshDevices_label "أنعش الأجهزة">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "صالحة">
 <!ENTITY details_warning_header "تحذيرات">
 <!ENTITY details_error_header "أعطال">
@@ -85,23 +76,23 @@
 <!ENTITY details_location "المكان">
 <!ENTITY details_manifestURL "معرّف التطبيق">
 <!ENTITY details_removeProject_button "أزل المشروع">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "تطبيق جديد">
 <!ENTITY newAppHeader "اختر قالبا">
 <!ENTITY newAppLoadingTemplate "يحمّل القوالب…">
 <!ENTITY newAppProjectName "اسم المشروع:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "أغلق">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "المكونات الإضافية">
 <!ENTITY addons_aboutaddons "افتح مدير الإضافات">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "التفضيلات">
 <!ENTITY prefs_editor_title "المحرر">
 <!ENTITY prefs_general_title "عام">
@@ -110,41 +101,39 @@
 <!ENTITY prefs_options_autoconnectruntime "أعد الاتصال مع بيئة التشغيل السابقة">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "أعد الاتصال مع بيئة التشغيل السابقة عندما تبدأ بيئة المطورين">
 <!ENTITY prefs_options_rememberlastproject "تذكر آخر مشروع">
-
 <!ENTITY prefs_options_templatesurl "مسار القوالب">
 <!ENTITY prefs_options_templatesurl_tooltip "فهرس القوالب المتاحة">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
 <!ENTITY runtimedetails_adbIsRoot "ADB‏ جذر: ">
-
 <!ENTITY runtimedetails_ADBRootWarning "(يحتاج محمل إقلاع مُزال قفله)">
-
 <!ENTITY runtimedetails_requestPrivileges "يحتاج امتيازات أعلى">
 
 <!-- Device Preferences and Settings -->
-
 <!ENTITY device_typeboolean "عدد منطقي">
 <!ENTITY device_typenumber "عدد صحيح">
 <!ENTITY device_typestring "نصّ">
 <!ENTITY device_typeobject "كائن">
 <!ENTITY device_typenone "اختر نوعًا">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "تفضيلات الجهاز">
 <!ENTITY devicepreference_search "ابحث في التفضيلات">
 <!ENTITY devicepreference_newname "اسم التفضيل الجديد">
 <!ENTITY devicepreference_newtext "قيمة التّفضيل">
 <!ENTITY devicepreference_addnew "أضف تفضيلا جديدا">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "إعدادات الجهاز">
 <!ENTITY devicesetting_search "ابحث في الإعدادات">
 <!ENTITY devicesetting_newname "اسم الإعداد الجديد">
 <!ENTITY devicesetting_newtext "قيمة الإعداد">
 <!ENTITY devicesetting_addnew "أضِف إعدادا جديدا">
+
 <!-- Monitor -->
 <!ENTITY monitor_help "مساعدة">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -163,19 +152,16 @@
 <!ENTITY wifi_auth_token_request "إن سأل الجهاز الآخر عن رمز بدل مسح رمز QR ضوئيا، فمن فضلك انسخ القيمة أدناه إلى الجهاز الآخر:">
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "خيارات المحاكي">
 <!ENTITY simulator_remove "احذف المحاكي">
 <!ENTITY simulator_reset "استعد الإعدادات المبدئية">
 <!ENTITY simulator_name "الاسم">
 <!ENTITY simulator_software "البرمجيات">
 <!ENTITY simulator_version "النسخة">
-
 <!ENTITY simulator_hardware "العتاد">
 <!ENTITY simulator_device "جهاز">
 <!ENTITY simulator_screenSize "الشاشة">
 <!ENTITY simulator_pixelRatio "معدل البكسلات">
-
-
-
+<!ENTITY simulator_tv_data_open_button "افتح دليل الضبط…">
