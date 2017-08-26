@@ -74,7 +74,9 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Si gataj na'anj ma dane' nut">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Nej sa rugujñu'unj sitiô Web ni, narikij ngo chrej e daj gi'iât da' guyunt ma, si sa ni'ñant huin ni, ñuna da'uî ginûnj.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Ñuna gini'int daj garasunt nej sa 'iaj sun nga si agat.">
 
 <!-- points 1-7 text for branded builds -->
