@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Toś ten webbok na <span id='unwanted_sitename'/> jo se ako bok k wěsći dał, kótaryž wopśimujo njewitanu softwaru a na zakłaźe wašych wěstotnych nastajenjow blokěrował.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Njewitane softwarowe boki wopytuju softwaru instalěrowaś, kótaraž móžo wobšudna byś a waš system na njewótcakowane nałogi wobwliwowaś.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Sedło prědku móžo škódnu softwaru wopśimowaś">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; jo toś ten bok zablokěrował, dokulaž mógła tšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditowe kórty).">

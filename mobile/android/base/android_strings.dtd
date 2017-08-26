@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Blokěrujśo wobraze, aby mjenjej datow na kuždom sedle pśetrjebował, ku kótaremuž se woglědujośo.">
 <!ENTITY firstrun_sync_title "Snychronizěrowaś">
 <!ENTITY firstrun_sync_message2 "Cyńśo tam dalej, źož sćo pśestał.">
+<!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
 <!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
@@ -842,13 +843,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Wótwónoźeś">
 <!ENTITY activity_stream_delete_history "Z historije lašowaś">
 
 <!ENTITY activity_stream_welcome_title "Witajśo k swójim wjeraškam">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; napórajo něnto wjeraški wěcow, kótarež sćo w interneśe namakał, aby drogu slědk k wjelicnym nastawkam, wideo, cytańskim znamjenjam a drugim bokam namakał.">
+<!ENTITY activity_stream_welcome_dismiss "Zachyśiś">
 
 <!ENTITY private_tab_panel_title "Priwatny modus + slědowański šćit">
 <!ENTITY private_tab_panel_description "&brandShortName; blokěrujo źěle bokow, kótarež by mógli wašu pśeglědowańsku aktiwitu slědowaś.">
 <!ENTITY private_tab_panel_description2 "Njemarkujomy se žednu historiju, ale ześěgnjone dataje a nowe cytańske znamjenja składuju se na wašom rěźe.">
 <!ENTITY private_tab_learn_more "Cośo wěcej zgóniś?">
 
+<!ENTITY fullscreen_warning "Połna wobrazowka se pokazujo">
