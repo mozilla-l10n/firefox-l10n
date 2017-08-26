@@ -15,9 +15,9 @@
 <!ENTITY address2.accesskey           "l">
 <!ENTITY block.label                  "Sekat">
 <!ENTITY block.accesskey              "a">
-<!ENTITY session.label                "Benarkan Sesi">
+<!ENTITY session.label                "Izinkan Sesi ini">
 <!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "Benarkan">
+<!ENTITY allow.label                  "Izinkan">
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
