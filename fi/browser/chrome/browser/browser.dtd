@@ -232,8 +232,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Muut kirjanmerkit">
 <!ENTITY bookmarksMenuButton.mobile.label   "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
+<!ENTITY hideBookmarksSidebar.label         "Piilota kirjanmerkkien sivupaneeli">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
+<!ENTITY hideBookmarksToolbar.label         "Piilota kirjanmerkkipalkki">
 <!ENTITY searchBookmarks.label              "Etsi kirjanmerkeistä">
+<!ENTITY bookmarkingTools.label             "Kirjanmerkkityökalut">
+<!ENTITY addBookmarksMenu.label             "Lisää kirjanmerkkivalikko työkalupalkkiin">
+<!ENTITY removeBookmarksMenu.label          "Poista kirjanmerkkivalikko työkalupalkista">
 
 <!ENTITY containersMenu.label "Luokitukset">
 
@@ -821,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Synkronoi">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Vedä suosikkikohteita työkalupalkkiin tai ylivuotovalikkoon.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Haluatko muita työkaluja?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Valitse tuhansista lisäosista">
 <!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
@@ -969,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Lähetä sivu laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
+
+<!ENTITY libraryButton.tooltip "Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta">
