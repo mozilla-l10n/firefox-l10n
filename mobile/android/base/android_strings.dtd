@@ -484,9 +484,11 @@
 <!ENTITY helper_triple_readerview_open_message "Aggiungi ai segnalibri articoli da Modalità lettura per leggerli anche senza connessione a Internet.">
 <!ENTITY helper_triple_readerview_open_button "Aggiungi ai segnalibri">
 <!ENTITY activity_stream_topsites "Siti principali">
+<!ENTITY activity_stream_topstories "Consigliato da &brandPocket;">
 <!ENTITY activity_stream_highlights "In evidenza">
 <!ENTITY activity_stream_highlight_label_bookmarked "Nei segnalibri">
 <!ENTITY activity_stream_highlight_label_visited "Visitato">
+<!ENTITY activity_stream_highlight_label_trending "Di tendenza">
 <!ENTITY activity_stream_remove "Rimuovi">
 <!ENTITY activity_stream_delete_history "Elimina dalla cronologia">
 <!ENTITY activity_stream_welcome_title "Contenuti in evidenza">
