@@ -10,10 +10,10 @@
 <!ENTITY options.context.advancedSettings "Ajustes avanzados">
 <!ENTITY options.context.inspector "Inspector">
 <!ENTITY options.showUserAgentStyles.label "Mostrar estilos del navegador">
-<!ENTITY options.showUserAgentStyles.tooltip "Activar esto mostrará los estilos por defecto que se cargan por el navegador.">
+<!ENTITY options.showUserAgentStyles.tooltip "Activar esto mostrará los estilos predeterminados que se cargan por el navegador.">
 <!ENTITY options.collapseAttrs.label "Truncar atributos DOM">
 <!ENTITY options.collapseAttrs.tooltip "Truncar atributos largos en el inspector">
-<!ENTITY options.defaultColorUnit.label "Unidad de color por defecto">
+<!ENTITY options.defaultColorUnit.label "Unidad de color predetermiinada">
 <!ENTITY options.defaultColorUnit.accesskey "U">
 <!ENTITY options.defaultColorUnit.authored "como indicó el autor">
 <!ENTITY options.defaultColorUnit.hex "Hex">
@@ -31,7 +31,7 @@
 <!ENTITY options.disableHTTPCache.tooltip "Activar esta opción desactivará el caché HTTP en todas las pestañas que tengan abierta la caja de herramientas. Los Service Workers no se ven afectados por esta opción.">
 <!ENTITY options.enableServiceWorkersHTTP.label "Activar service workers bajo HTTP (si la caja de herramientas está abierta)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip "Activar esta opción permitirá funcionar a los service workers bajo HTTP en todas las pestañas que tengan abierta la caja de herramientas.">
-<!ENTITY options.selectDefaultTools.label2 "Herramientas de desarrollo por defecto">
+<!ENTITY options.selectDefaultTools.label2 "Herramientas de desarrollo predeterminadas">
 <!ENTITY options.selectAdditionalTools.label "Herr. desarr. instaladas por complementos">
 <!ENTITY options.selectEnabledToolboxButtons.label "Botones en la caja de herramientas">
 <!ENTITY options.toolNotSupported.label "* No compatible con el elemento actual de la caja de herramientas">
