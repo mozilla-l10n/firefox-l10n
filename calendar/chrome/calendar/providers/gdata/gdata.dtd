@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY gdata-provider.label "Google Calendar">
+
+<!ENTITY gdata.privacy.default.label "Piawai Google">
+<!ENTITY gdata.privacy.default.accesskey "P">
+
+<!ENTITY gdata.migration.title "Pindahkan kalendar baca-sahaja">
+<!ENTITY gdata.migration.description "Penyedia Google Calendar telah mengesan bahawa anda ada kalendar yang hanya boleh mengakses Google Calendar dalam mod baca-sahaja. Jika anda ingin menaik taraf mana-mana kalendar, sila pilih di bawah">
+
+
+
