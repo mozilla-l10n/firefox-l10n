@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Տեղեկություն կա այն մասին, որ <span id='unwanted_sitename'/> կայքը կիրառվում է համակարգիչների վրա գրոհելու համար: Համաձայն անվտանգության կարգավորումների՝ այն արգելափակված է:">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Անցանկալի ծրագրերի կայքը փորձում է տեղադրել ծրագիր, որը կարող է վնասել Ձեր համակարգիչը:">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Կայքը կարող է պարունակել վնասագիր">
