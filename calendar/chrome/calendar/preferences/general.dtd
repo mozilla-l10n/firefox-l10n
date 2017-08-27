@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+
+<!ENTITY pref.mainbox.label "Tetapan Umum" >
+<!ENTITY pref.dateformat.label "Format Teks Tarikh:" >
+<!ENTITY pref.dateformat.accesskey "T">
+<!ENTITY pref.dateformat.long "Panjang" >
+<!ENTITY pref.dateformat.short "Pendek"  >
+
+<!ENTITY pref.timezones.caption "Zon masa">
+<!ENTITY pref.timezones.label "Pilih bandar terdekat dalam zon masa anda:">
+<!ENTITY pref.timezones.accesskey "P">
+
+<!ENTITY pref.defaults.label "Nilai Piawai untuk Item Baru">
+
+
+
+
+
