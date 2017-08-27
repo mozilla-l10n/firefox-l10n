@@ -7,7 +7,7 @@
 <!ENTITY enableStartPage.accesskey "i">
 <!ENTITY location.label "Dirección:">
 <!ENTITY location1.accesskey "D">
-<!ENTITY useDefault.label "Restablecer predeterminado">
+<!ENTITY useDefault.label "Rest. valores predet.">
 <!ENTITY useDefault.accesskey "R">
 <!ENTITY changeDockIconOptions.label "Cambiar preferencias del icono de la aplicación">
 <!ENTITY dockOptions.label "Opciones del icono de la aplicación…">
@@ -26,7 +26,7 @@
 <!ENTITY showTrayIcon.accesskey "a">
 <!ENTITY play.label "Reproducir">
 <!ENTITY play.accesskey "r">
-<!ENTITY systemsound.label "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemsound.label "Sonido predeterminado del sistema para nuevo correo">
 <!ENTITY systemsound.accesskey "n">
 <!ENTITY customsound.label "Usar el siguiente archivo de sonido">
 <!ENTITY customsound.accesskey "U">

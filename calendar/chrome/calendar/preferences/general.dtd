@@ -13,7 +13,7 @@
 <!ENTITY pref.defaults.label "Valores predeterminados para nuevos elementos">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tareas">
-<!ENTITY pref.default_event_length.label "Duración por defecto:">
+<!ENTITY pref.default_event_length.label "Duración predeterminada:">
 <!ENTITY pref.default_event_length.accesskey "D">
 <!ENTITY pref.default_task_none.label "Ninguna">
 <!ENTITY pref.default_task_start_of_day.label "Comienzo del día">

@@ -21,10 +21,10 @@
 <!ENTITY fontColor.accesskey "x">
 <!ENTITY bgColor.label "Color de fondo:">
 <!ENTITY bgColor.accesskey "C">
-<!ENTITY restoreHTMLDefaults.label "Restaurar valores por omisión">
+<!ENTITY restoreHTMLDefaults.label "Restaurar valores predeterminados">
 <!ENTITY restoreHTMLDefaults.accesskey "R">
-<!ENTITY defaultToParagraph.label "Usar formato de párrafo en lugar de cuerpo de texto por defecto">
-<!ENTITY defaultToParagraph.accesskey "">
+<!ENTITY defaultToParagraph.label "Usar formato de párrafo en lugar de cuerpo de texto por omisión">
+<!ENTITY defaultToParagraph.accesskey "P">
 <!ENTITY spellCheck.label "Comprobar la ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Activar corrección ortográfica al escribir">
@@ -48,7 +48,7 @@
 <!ENTITY directoriesNone.label "Ninguno">
 <!ENTITY editDirectories.label "Editar directorios…">
 <!ENTITY editDirectories.accesskey "E">
-<!ENTITY showAsDefault.label "Directorio de inicio por defecto en la ventana de la libreta de direcciones:">
+<!ENTITY showAsDefault.label "Directorio de inicio por omisión en la ventana de la libreta de direcciones:">
 <!ENTITY showAsDefault.accesskey "D">
 <!ENTITY showAsDefaultLast.label "Último directorio usado">
 <!ENTITY sendOptionsDescription.label "Configurar comportamiento del formato de texto">

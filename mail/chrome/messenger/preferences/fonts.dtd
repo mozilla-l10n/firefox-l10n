@@ -58,7 +58,7 @@
 <!ENTITY sendDefaultCharset.label "Correo saliente:">
 <!ENTITY sendDefaultCharset.accesskey "e">
 <!ENTITY languagesTitle2.label "Codificación de texto">
-<!ENTITY composingDescription2.label "Configurar la codificación de texto por defecto para enviar y recibir mensajes">
+<!ENTITY composingDescription2.label "Configurar la codificación de texto predeterminada para enviar y recibir mensajes">
 <!ENTITY viewDefaultCharsetList.label "Correo entrante:">
 <!ENTITY viewDefaultCharsetList.accesskey "C">
 <!ENTITY replyInDefaultCharset3.label "Cuando sea posible, usar la codificación de texto predeterminada en las respuestas">

@@ -15,7 +15,7 @@
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar avisos vencidos">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "o">
-<!ENTITY pref.calendar.alarms.defaults.label "Valores por omisión para avisos">
+<!ENTITY pref.calendar.alarms.defaults.label "Valores predeterminados para avisos">
 <!ENTITY pref.defalarm4events.label "Config. predet. de aviso para eventos:">
 <!ENTITY pref.defalarm4events.accesskey "C">
 <!ENTITY pref.defalarm4todos.label "Config. predet. de aviso para tareas:">
@@ -26,5 +26,5 @@
 <!ENTITY pref.defalarmlen4events.accesskey "P">
 <!ENTITY pref.defalarmlen4todos.label "Antelación predet. con la que un aviso aparece antes de una tarea:">
 <!ENTITY pref.defalarmlen4todos.accesskey "v">
-<!ENTITY pref.defaultsnoozelength.label "Duración por defecto del retardo:">
+<!ENTITY pref.defaultsnoozelength.label "Duración predeterminada del retardo:">
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
