@@ -18,8 +18,29 @@
 <!ENTITY pref.timezones.accesskey "P">
 
 <!ENTITY pref.defaults.label "Nilai Piawai untuk Item Baru">
+<!ENTITY pref.events.label "Acara">
+<!ENTITY pref.tasks.label "Tugasan">
 
+<!ENTITY pref.default_event_length.label "Panjang Piawai:" >
+<!ENTITY pref.default_event_length.accesskey "P">
 
+<!ENTITY pref.default_task_none.label "Tiada">
+<!ENTITY pref.default_task_start_of_day.label "Hari Permulaan">
+<!ENTITY pref.default_task_end_of_day.label "Hari Tamat">
+<!ENTITY pref.default_task_tomorrow.label "Esok">
+<!ENTITY pref.default_task_next_week.label "Minggu Depan">
+<!ENTITY pref.default_task_offset_current.label "Berbanding Waktu Semasa">
+<!ENTITY pref.default_task_offset_start.label "Berbanding masa Permulaan">
+<!ENTITY pref.default_task_offset_next_hour.label "Berbanding Jam Seterusnya">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Anak Tetingkap Hari ini">
+<!ENTITY pref.soondays.label "Bahagian akan datang memaparkan:">
+<!ENTITY pref.soondays.accesskey "d">
 
+<!ENTITY pref.accessibility.label "Aksesibiliti" >
+<!ENTITY pref.systemcolors.label "Mengoptimumkan warna untuk aksesibiliti" >
+<!ENTITY pref.systemcolors.accesskey "w">
 
+<!ENTITY pref.eventsandtasks.label "Acara dan Tugasan" >
+<!ENTITY pref.editInTab.label "Edit acara dan tugasan di dalam tab, bukan di dalam tetingkap dialog." >
+<!ENTITY pref.editInTab.accesskey "t">
