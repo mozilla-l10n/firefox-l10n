@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Xoş Gəldiniz">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName; səyyahına xoş gəlmisiniz">
-<!ENTITY firstrun_urlbar_subtext "Axtarış təklifləri qısa yolları ilə hər şeyi daha sürətli tapın.">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; seçdiyiniz üçün təşəkkürlər">
 <!ENTITY firstrun_bookmarks_title "Tarixçə">
 <!ENTITY firstrun_bookmarks_message "Sizin istəyiniz, ön və mərkəz">
 <!ENTITY firstrun_bookmarks_subtext "Axtarış zamanı əlfəcin və tarixçənizdən nəticələr əldə edin.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, hər zaman sizin tərəfinizdə">
-<!ENTITY firstrun_sync_subtext "İşlətdiyiniz hər yerdə vərəq, parol və daha məlumatınızı sinxronlaşdırın.">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
@@ -835,10 +831,9 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ziyarət edildi">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Qapat">
 <!ENTITY activity_stream_delete_history "Tarixçədən sil">
 
 <!ENTITY activity_stream_welcome_title "Seçilmişlərinizə xoş gəldiniz">
@@ -848,3 +843,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "&brandShortName; səhifələrin səyahətinizi izləyə biləcək hissələrini əngəlləyir.">
 <!ENTITY private_tab_panel_description2 "Sizin tarixçənizi yadda saxlamayacıq, amma endirilən fayllar və yeni əlfəcinlər yenə də cihazınızda saxlanacaqdır.">
 <!ENTITY private_tab_learn_more "Ətraflı öyrənmək istərdiniz?">
+
