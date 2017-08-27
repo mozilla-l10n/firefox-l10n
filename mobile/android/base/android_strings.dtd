@@ -15,6 +15,7 @@
 <!ENTITY firstrun_data_subtext2 "Desligar imagens para economizar dados em todos os sites que visitar.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Continue de onde você parou.">
+<!ENTITY firstrun_sync_subtext2 "Use o Sync para encontrar os favoritos, senhas e outras coisas que você salva no &brandShortName; em todos os seus dispositivos.">
 <!ENTITY firstrun_signin_message "Conecte-se para iniciar">
 <!ENTITY firstrun_signin_button "Entrar no Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegação">
@@ -838,16 +839,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Descartar">
+<!ENTITY activity_stream_remove "Remover">
 <!ENTITY activity_stream_delete_history "Excluir do histórico">
 
 <!ENTITY activity_stream_welcome_title "Bem-vindo aos seus Destaques">
 <!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que você descobriu na web para que possa encontrar o caminho de volta para grandes artigos, vídeos, favoritos e outras páginas.">
+<!ENTITY activity_stream_welcome_dismiss "Descartar">
 
 <!ENTITY private_tab_panel_title "Navegação Privativa + Proteção Contra Rastreamento">
 <!ENTITY private_tab_panel_description "&brandShortName; bloqueia partes das páginas que podem rastrear suas atividades de navegação.">
 <!ENTITY private_tab_panel_description2 "Não guardaremos nenhum histórico, mas os arquivos baixados e novos favoritos ainda serão salvos no seu dispositivo.">
 <!ENTITY private_tab_learn_more "Deseja saber mais?">
+
+<!ENTITY fullscreen_warning "Entrou em tela inteira">
