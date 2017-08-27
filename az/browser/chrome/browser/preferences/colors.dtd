@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Heç vaxt">
 
 <!ENTITY  color                           "Mətn və arxa fon">
-<!ENTITY  textColor.label                 "Mətn:">
-<!ENTITY  textColor.accesskey             "t">
-<!ENTITY  backgroundColor.label           "Arxa fon:">
-<!ENTITY  backgroundColor.accesskey       "A">
+<!ENTITY  textColor2.label                "Mətn">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Arxa fon">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Sistem rənglərindən istifadə et">
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını xətlə">
 <!ENTITY  underlineLinks.accesskey        "ı">
 <!ENTITY  links                           "Keçid rəngləri">
-<!ENTITY  linkColor.label                 "Baxılmamış keçidlər:">
-<!ENTITY  linkColor.accesskey             "k">
-<!ENTITY  visitedLinkColor.label          "Baxılmış keçidlər:">
-<!ENTITY  visitedLinkColor.accesskey      "B">
+<!ENTITY  linkColor2.label                "Baxılmamış keçidlər">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Baxılmış keçidlər">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

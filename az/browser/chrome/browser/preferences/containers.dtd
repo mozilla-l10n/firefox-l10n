@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Yeni konteyner əlavə et">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Ad:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Ad">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Konteyner adını daxil edin">
-<!ENTITY icon.label           "İkon:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Rəng:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY icon2.label          "İkon">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Rəng">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Hazır">
 <!ENTITY button.ok.accesskey  "D">
-
