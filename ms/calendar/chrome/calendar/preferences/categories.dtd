@@ -19,3 +19,6 @@
 <!ENTITY pref.categories.color.label "Warna">
 <!ENTITY pref.categories.usecolor.label "Gunakan Warna">
 <!ENTITY pref.categories.none.label "(tiada)">
+<!ENTITY pref.categories.overwrite "Kategori dengan nama ini sudah wujud. \n Anda mahu menulis ganti?">
+<!ENTITY pref.categories.overwrite.title "Amaran: Nama duplikasi">
+<!ENTITY pref.categories.noBlankCategories "Anda perlu masukkan nama kategori.">
