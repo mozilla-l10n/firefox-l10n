@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Propriedades do link">
-<!ENTITY LinkURLBox.label "Endereço do link">
+<!ENTITY LinkURLBox.label "Localização do link">
