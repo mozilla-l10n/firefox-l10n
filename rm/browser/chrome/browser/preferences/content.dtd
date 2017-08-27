@@ -21,15 +21,15 @@
 
 <!ENTITY  locationPermissions.label                             "Posiziun">
 <!ENTITY  locationSettingsButton.label                          "Parameters…">
-<!ENTITY  locationSettingsButton.accesskey                      "i">
+<!ENTITY  locationSettingsButton.accesskey                      "m">
 
 <!ENTITY  cameraPermissions.label                               "Camera">
 <!ENTITY  cameraSettingsButton.label                            "Parameters…">
-<!ENTITY  cameraSettingsButton.accesskey                        "C">
+<!ENTITY  cameraSettingsButton.accesskey                        "m">
 
 <!ENTITY  microphonePermissions.label                           "Microfon">
 <!ENTITY  microphoneSettingsButton.label                        "Parameters…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "M">
+<!ENTITY  microphoneSettingsButton.accesskey                    "m">
 
 <!ENTITY  fontsAndColors.label        "Scrittiras &amp; colurs">
 
