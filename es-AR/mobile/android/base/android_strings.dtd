@@ -7,7 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un navegador móvil moderno de Mozilla, la fundación sin fines de lucro comprometida con la web libre y abierta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navegá como si nadie estuviera viendo">
+<!ENTITY firstrun_privacy_subtext "La navegación privada con protección de rastreo bloquea a los rastreadores mientras se navega y no recordará el historial al terminar de navegar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
+<!ENTITY firstrun_customize_message "Hacé que &brandShortName; sea tuyo.">
+<!ENTITY firstrun_customize_subtext "Personalizá &brandShortName; con complementos. Bloqueá publicidades, agregá funcionalidades o elegí un nuevo tema para reflejar tu personlidad.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Tus favs, al frente y al centro">
 <!ENTITY firstrun_bookmarks_subtext "Conseguí resultados de tus marcadores e historial mientras buscás.">
@@ -16,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Desactivá imágenes para perder menos tiempo en cada sitio que visitás.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Continúá desde donde dejaste.">
+<!ENTITY firstrun_sync_subtext2 "Usá Sync para encontrar los marcadores, contraseñas y otras cosas que guardás en &brandShortName; en todos tus dispositivos.">
 <!ENTITY firstrun_signin_message "Conectate, empecemos">
 <!ENTITY firstrun_signin_button "Registrarse en Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
@@ -839,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Descartar">
+<!ENTITY activity_stream_remove "Eliminar">
 <!ENTITY activity_stream_delete_history "Borrar del historial">
 
 <!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea elementos destacados que al visitar se hayan descubierto en la web así se pueden encontrar nuevamente grandes artículos, videos, marcadores y otras páginas.">
+<!ENTITY activity_stream_welcome_dismiss "Descartar">
 
 <!ENTITY private_tab_panel_title "Navegación privada + protección contra rastreo">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea partes de las páginas que puedan rastrear la actividad de navegación.">
 <!ENTITY private_tab_panel_description2 "No se recordará ningún historial, pero los archivos descargados y los nuevos marcadores aún serán guardados en el dispositivo.">
 <!ENTITY private_tab_learn_more "¿Querés saber más?">
+
+<!ENTITY fullscreen_warning "Se pasó a pantalla completa">
