@@ -65,7 +65,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach systému Android.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v ponuke Nastavenia systému Android &gt; Kontá.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox Account.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
 <!ENTITY fxaccount_status_passwords2 'Prihlasovacie údaje'>
@@ -84,7 +84,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'Údaje vášho prehliadania zostanú aj naďalej na tomto zariadení, ale nebudú sa synchronizovať s vaším účtom.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Účet Firefox Account pre &formatS; bol odpojený.'>
+<!ENTITY fxaccount_remove_account_toast2 'Účet Firefox pre &formatS; bol odpojený.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Odpojiť'>
