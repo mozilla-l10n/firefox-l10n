@@ -32,3 +32,5 @@
 <!ENTITY pref.defalarmlen4todos.label "Masa tetapan piawai sebelum tugasan bermula:">
 <!ENTITY pref.defalarmlen4todos.accesskey "b">
 
+<!ENTITY pref.defaultsnoozelength.label "Tempoh Lena Piawai:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "L">
