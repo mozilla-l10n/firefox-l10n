@@ -15,7 +15,7 @@
 <!ENTITY useMultiple.label "Usar páginas actuales">
 <!ENTITY chooseBookmark.label "Usar marcador…">
 <!ENTITY chooseBookmark.accesskey "m">
-<!ENTITY restoreDefault.label "Restaurar al valor por omisión">
+<!ENTITY restoreDefault.label "Restaurar al valor predeterminado">
 <!ENTITY restoreDefault.accesskey "v">
 <!ENTITY downloads.label "Descargas">
 <!ENTITY saveTo.label "Guardar archivos en">
@@ -30,8 +30,8 @@
 <!ENTITY alwaysCheckDefault2.accesskey "o">
 <!ENTITY setAsMyDefaultBrowser3.label "Convertir en predeterminado…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "C">
-<!ENTITY isDefault.label "&brandShortName; es su navegador por defecto">
-<!ENTITY isNotDefault.label "&brandShortName; no es su navegador por defecto">
+<!ENTITY isDefault.label "&brandShortName; es su navegador predeterminado">
+<!ENTITY isNotDefault.label "&brandShortName; no es su navegador predeterminado">
 <!ENTITY separateProfileMode.label "Permitir a &brandShortName; y Firefox ejecutarse al mismo tiempo">
 <!ENTITY useFirefoxSync.label "Consejo: esto usa perfiles separados. Use Sync para compartir datos entre ellos.">
 <!ENTITY getStarted.notloggedin.label "Conectarse a &syncBrand.shortName.label;…">

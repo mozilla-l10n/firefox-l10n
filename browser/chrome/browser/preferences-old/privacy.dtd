@@ -30,7 +30,7 @@
 <!ENTITY locbar.bookmarks.accesskey "M">
 <!ENTITY locbar.openpage.label "Abrir pestañas">
 <!ENTITY locbar.openpage.accesskey "A">
-<!ENTITY locbar.searches.label "Búsquedas relacionadas del buscador por defecto">
+<!ENTITY locbar.searches.label "Búsquedas relacionadas del buscador por omisión">
 <!ENTITY locbar.searches.accesskey "B">
 <!ENTITY suggestionSettings.label "Cambiar preferencias de sugerencias de buscadores…">
 <!ENTITY suggestionSettings.accesskey "o">

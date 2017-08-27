@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY defaultSearchEngine.label "Buscador predeterminado">
-<!ENTITY chooseYourDefaultSearchEngine.label "Elija su buscador por defecto. &brandShortName; lo usa en la barra de direcciones, barra de búsqueda y páginas de inicio.">
+<!ENTITY chooseYourDefaultSearchEngine.label "Elija su buscador por omisión. &brandShortName; lo usa en la barra de direcciones, barra de búsqueda y páginas de inicio.">
 <!ENTITY provideSearchSuggestions.label "Proporcionar sugerencias de búsqueda">
 <!ENTITY provideSearchSuggestions.accesskey "P">
 <!ENTITY showURLBarSuggestions.label "Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones">
