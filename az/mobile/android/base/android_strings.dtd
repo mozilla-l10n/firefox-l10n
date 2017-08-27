@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
+<!ENTITY firstrun_sync_subtext2 "Sync ilə istədiyiniz cihazınızdan &brandShortName; səyyahına saxladığınız əlfəcin, parol və digər şeyləri rahatlıqla tapın.">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
@@ -842,13 +843,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Sil">
 <!ENTITY activity_stream_delete_history "Tarixçədən sil">
 
 <!ENTITY activity_stream_welcome_title "Seçilmişlərinizə xoş gəldiniz">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; artıq internetdə kəşf etdiyiniz şeyləri işıqlandıraraq gözəl məqalə, video, əlfəcin və digər səhifələrə geri qayıtmağınızı asandlaşdırır.">
+<!ENTITY activity_stream_welcome_dismiss "Qapat">
 
 <!ENTITY private_tab_panel_title "Məxfi Səyahət + İzlənmə Qoruması">
 <!ENTITY private_tab_panel_description "&brandShortName; səhifələrin səyahətinizi izləyə biləcək hissələrini əngəlləyir.">
 <!ENTITY private_tab_panel_description2 "Sizin tarixçənizi yadda saxlamayacıq, amma endirilən fayllar və yeni əlfəcinlər yenə də cihazınızda saxlanacaqdır.">
 <!ENTITY private_tab_learn_more "Ətraflı öyrənmək istərdiniz?">
 
+<!ENTITY fullscreen_warning "Tam ekrana daxil oldu">
