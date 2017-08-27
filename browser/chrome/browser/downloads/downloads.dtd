@@ -38,6 +38,7 @@
 <!ENTITY learnMore.label "Saber más">
 <!ENTITY downloadsHistory.label "Mostrar todas las descargas">
 <!ENTITY downloadsHistory.accesskey "S">
+<!ENTITY downloadDetails.label "Detalles de la descarga">
 <!ENTITY openDownloadsFolder.label "Abrir carpeta de descargas">
 <!ENTITY clearDownloadsButton.label "Limpiar descargas">
 <!ENTITY clearDownloadsButton.tooltip "Limpia las descargas completas, canceladas y fallidas">
