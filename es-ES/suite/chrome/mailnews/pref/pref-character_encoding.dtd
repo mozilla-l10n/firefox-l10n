@@ -12,5 +12,5 @@
 <!ENTITY useMIME.accesskey "a">
 <!ENTITY sendDefaultCharset2.label "Codificación de texto predeterminada:">
 <!ENTITY sendDefaultCharset2.accesskey "d">
-<!ENTITY replyInDefaultCharset3.label "Cuando sea posible, usar esta codificación de texto predeterminada en las respuestas (si se desmarca, solo usarán este valor por defecto los mensajes nuevos).">
+<!ENTITY replyInDefaultCharset3.label "Cuando sea posible, usar esta codificación de texto predeterminada en las respuestas (si se desmarca, solo usarán este valor predeterminado los mensajes nuevos).">
 <!ENTITY replyInDefaultCharset3.accesskey "b">

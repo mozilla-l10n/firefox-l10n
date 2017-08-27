@@ -16,5 +16,5 @@
 <!ENTITY raiseTagButton.accesskey "S">
 <!ENTITY lowerTagButton.label "Bajar importancia">
 <!ENTITY lowerTagButton.accesskey "B">
-<!ENTITY restoreButton.label "Restaurar valores por defecto">
+<!ENTITY restoreButton.label "Restaurar valores predeterminados">
 <!ENTITY restoreButton.accesskey "R">

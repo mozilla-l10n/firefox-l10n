@@ -104,7 +104,7 @@
 <!ENTITY PhotoDesc.label "Elija una de las siguientes:">
 <!ENTITY GenericPhoto.label "Foto genérica">
 <!ENTITY GenericPhoto.accesskey "F">
-<!ENTITY DefaultPhoto.label "Por defecto">
+<!ENTITY DefaultPhoto.label "Predeterminado">
 <!ENTITY PhotoFile.label "En este ordenador">
 <!ENTITY PhotoFile.accesskey "E">
 <!ENTITY BrowsePhoto.label "Examinar">

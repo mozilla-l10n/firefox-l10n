@@ -19,5 +19,5 @@
 <!ENTITY addEngine.accesskey "O">
 <!ENTITY enableSuggest.label "Mostrar sugerencias de búsqueda">
 <!ENTITY enableSuggest.accesskey "M">
-<!ENTITY restoreDefaults.label "Restaurar valores por defecto">
+<!ENTITY restoreDefaults.label "Restaurar valores predeterminados">
 <!ENTITY restoreDefaults.accesskey "R">

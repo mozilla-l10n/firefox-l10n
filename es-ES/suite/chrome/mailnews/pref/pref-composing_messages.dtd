@@ -28,7 +28,7 @@
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "Fondo:">
 <!ENTITY bgColor.accesskey "F">
-<!ENTITY defaultCompose.label "Formato de redacción por defecto:">
+<!ENTITY defaultCompose.label "Formato de redacción predeterminado:">
 <!ENTITY defaultBodyText.label "Cuerpo del texto (Enter crea una nueva línea)">
 <!ENTITY defaultBodyText.accesskey "E">
 <!ENTITY defaultParagraph.label "Párrafo (Enter crea un nuevo párrafo)">
