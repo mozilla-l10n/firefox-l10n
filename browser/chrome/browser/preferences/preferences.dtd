@@ -21,7 +21,7 @@
 <!ENTITY  paneContainers.title          "แท็บแยกข้อมูล">
 <!ENTITY  paneUpdates.title             "อัปเดต">
 
-<!ENTITY  languageAndAppearance.label   "ภาษาและลักษณะ">
+<!ENTITY  languageAndAppearance.label   "ภาษาและลักษณะที่ปรากฏ">
 <!ENTITY  filesAndApplications.label    "ไฟล์และแอปพลิเคชัน">
 <!ENTITY  browserPrivacy.label          "ความเป็นส่วนตัวเบราว์เซอร์">
 
