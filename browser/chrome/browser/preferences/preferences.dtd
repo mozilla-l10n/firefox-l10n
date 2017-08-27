@@ -26,6 +26,6 @@
 <!ENTITY  browserPrivacy.label          "Súkromie">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync1.title          "Účet Firefox Account">
+<!ENTITY  paneSync1.title          "Účet Firefox">
 
 <!ENTITY  helpButton2.label        "Podpora aplikácie &brandShortName;">
