@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Բարի գալուստ">
-
-<!ENTITY firstrun_urlbar_message "Բարի գալուստ &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Կատարեք արագ որոնում՝ որոնման օգտակար առաջարկների դյուրանցումներով:">
+<!ENTITY firstrun_urlbar_message2 "Շնորհակալություն &brandShortName;-ը նախընտրելու համար">
+<!ENTITY firstrun_urlbar_subtext2 "Ժամանակակից բջջային դիտարկիչ Mozilla-ից, ոչ առևտրային և անվճար:">
+<!ENTITY firstrun_panel_title_privacy "Գաղտնիություն">
+<!ENTITY firstrun_privacy_message "Դիտարկեք այնպես, կարծես ոչ ոք չի նայում">
+<!ENTITY firstrun_privacy_subtext "Գաղտնի դիտարկում Հետագծման պաշտպանությամբ, որը արգելափակում է հետագծումները և չի հիշում պատմությունը, երբ ավարտում եք դիտարկումը:">
+<!ENTITY firstrun_panel_title_customize "Հարմարեցնել">
+<!ENTITY firstrun_customize_message "Դարձրեք &brandShortName;-ը ձերը:">
+<!ENTITY firstrun_customize_subtext "Հարմարեցրեք &brandShortName;-ը հավելումներով: Արգելափակեք գովազդները, ավելացրեք ուրահատկություններ կամ նտրեք նոր ձևավորում՝ ձեր անձնականը:">
 <!ENTITY firstrun_bookmarks_title "Պատմություն">
 <!ENTITY firstrun_bookmarks_message "Ձեր ընտրյալները, առջև և կենտրոնում">
 <!ENTITY firstrun_bookmarks_subtext "Որոնման ընթացքում ստացեք արդյունքներ ձեր էջանիշերից և պատմությունից:">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Քիչ տվյալ, շատ պահումներ">
 <!ENTITY firstrun_data_subtext2 "Անջատել պատկերները՝ կայքեր այցելելիս քիչ տվյալներ ծախսելու համար:">
 <!ENTITY firstrun_sync_title "Սինք">
-<!ENTITY firstrun_sync_message "&brandShortName;, միշտ ձեր կողմից է">
-<!ENTITY firstrun_sync_subtext "Համաժամեցրեք ձեր ներդիրները, գաղտնաբառերը և ավելին՝ ցանկացած վայրում:">
+<!ENTITY firstrun_sync_message2 "Շարունակեք այնտեղից, որտեղ ընդհատել եք:">
+<!ENTITY firstrun_sync_subtext2 "Օգտագործեք համաժամեցում՝ գտնելու համար էջանիշները, գաղտնաբառերը և այլն, որոնք պահպանել եք &brandShortName;-ում՝ ցանկացած սարքում:">
 <!ENTITY firstrun_signin_message "Եղեք կապակցված, սկսեք">
 <!ENTITY firstrun_signin_button "Մուտք գործեք՝ Սինքը սկսելու համար">
 <!ENTITY  onboard_start_button_browser "Սկսել">
@@ -33,21 +38,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Առաջնահերթության կորուստ">
 <!ENTITY firstrun_readerview_subtext "Օգտագործեք Ընթերցելու եղանակը՝ համոզվելու, որ հոդվածները դյուրին է ընթերցել \u2014անգամ անցանց:">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Դուք">
 <!ENTITY firstrun_account_message "Ունե՞ք &brandShortName;-ը այլ սարքում:">
 
 <!ENTITY  onboard_start_restricted1 "Եղեք ապահով &brandShortName;-ի պարզեցված տարբերակով:">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Էջանիշեր">
 <!ENTITY  history_title "Պատմություն">
 
 <!ENTITY  switch_to_tab "Անցնել ներդիրին">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Ցուցադրում է անցանց տարբերակը">
 
 <!ENTITY  crash_reporter_title "&brandShortName;-ի Վթարի զեկուցիչ">
@@ -82,9 +87,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Էկրանի հանույթներ">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Ընթերցացուցակ">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; միույթներ">
 <!ENTITY bookmark_folder_one_item "1 միույթ">
 <!ENTITY bookmark_parent_folder "Ծնող թղթապանակ">
@@ -134,27 +139,27 @@
 <!ENTITY settings_title "Կարգավորումներ">
 <!ENTITY pref_category_general "Գլխավոր">
 <!ENTITY pref_category_general_summary3 "Տուն, լեզուն, ներդիրների հերթը">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Լեզու">
 <!ENTITY pref_category_language_summary "Փոխել դիտարկիչի լեզուն">
 <!ENTITY pref_browser_locale "Ծրագրի լեզուն">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Համակարգայինը">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Ավելացել &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Էջանիշ">
 <!ENTITY overlay_share_bookmark_btn_label_already "Արդեն էջանշված է">
 <!ENTITY overlay_share_send_other "Ուղարկել այլ սարքի">
@@ -236,8 +241,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Մուտքագրեք կայքի հասցե կամ որոնում">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Գլխավոր">
 <!ENTITY pref_header_search "Որոնում">
 <!ENTITY pref_header_privacy_short "Գաղտնիություն">
@@ -251,10 +256,10 @@
 <!ENTITY pref_cookies_accept_all "Միացնել">
 <!ENTITY pref_cookies_not_accept_foreign "Միացված՝ բացառելով երրորդ կողմի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Տվյալների սպասարկիչ">
 <!ENTITY pref_category_media "Մեդիա">
 <!ENTITY pref_category_developer_tools "Ծրագրավորողի գործիքներ">
@@ -278,14 +283,14 @@
 
 <!ENTITY pref_whats_new_notification "Ինչն է նոր &brandShortName;-ում">
 <!ENTITY pref_whats_new_notification_summary "Իմացեք նոր յուրահատկությունների մասին թարմացումից հետո">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Փորձարարական յուրահատկություններ">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "Հարմարեցված ներդիրներ">
 <!ENTITY pref_custom_tabs_summary3 "Թույլատրել հավելվածներին բացել կայքեր՝ օգտագործելով &brandShortName;-ի ընտելացված տարբերակը">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
@@ -325,10 +330,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 ներդիր սպասում է">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY tab_queue_notification_settings "\&quot;Բացել բազմակի հղումներ\&quot;-ի համար միացրեք \u0027Բաժանել այլ հավելվածների հետ\u0027 թույլտվությունը &brandShortName;-ում">
+<!ENTITY tab_queue_notification_settings "\&quot;Բացել բազմակի հղումներ\&quot;-ի համար միացրեք \&apos;Բաժանել այլ հավելվածների հետ\&apos; թույլտվությունը &brandShortName;-ում">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,14 +360,14 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Մաքրել">
 <!ENTITY pref_clear_on_exit_title3 "Փակելիս մաքրել անձնական տվյալները">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնաբար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \u0022Փակել\u0022">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName;-ը ինքնաբար կմաքրի բոլոր տվյալները, երբ հիմնական ցանկից ընտրեք   \&quot;Փակել\&quot;">
 <!ENTITY pref_clear_on_exit_dialog_title "Նշեք, թե որ տվյալներն են մաքրվելու">
 <!ENTITY pref_restore_tabs "Վերականգնել ներդիրները">
 <!ENTITY pref_restore_always "Միշտ վերականգնել">
 <!ENTITY pref_restore_quit "&brandShortName;-ը փակելուց հետո չվերականգնել">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 <!ENTITY pref_use_system_font_size "Օգտ. համակարգային տառատեսակի չափը">
 <!ENTITY pref_use_system_font_size_summary "Սանդղել բովանդակությունը՝ համաձայն համակարգային տառատեսակի չափի">
 
@@ -422,13 +427,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "&brandShortName;-ի Վիճակի Զեկույց">
 <!ENTITY datareporting_fhr_summary2 "Տվյալներ է ուղարկում &vendorShortName;-ին՝ ձեր դիտարկիչի վիճակի մասին և որոշում է ձեր դիտարկիչի արագագործությունը:">
 <!ENTITY datareporting_abouthr_title "Դիտել Վիճակի զեկույցը">
@@ -447,8 +452,8 @@
 <!ENTITY pref_update_autodownload_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_update_autodownload_never "Երբեք">
 <!ENTITY pref_update_autodownload_always "Միշտ">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Օգնություն">
 
 <!ENTITY quit "Փակել">
@@ -476,16 +481,16 @@
 <!ENTITY set_image_fail "Հնարավոր չէ կայել պատկերը">
 <!ENTITY set_image_path_fail "Հնարավոր չէ պահել պատկերը">
 <!ENTITY set_image_chooser_title "Կայել պատկերը որպես">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Գտնել էջում">
 <!ENTITY find_prev "Նախորդը">
 <!ENTITY find_next "Հաջորդ">
 <!ENTITY find_close "Փակել">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Ուղարկում է սարքին">
 <!ENTITY media_play "Նվագարկել">
 <!ENTITY media_pause "Ընդմիջել">
@@ -507,10 +512,10 @@
 <!ENTITY contextmenu_top_sites_pin "Ամրացնել կայքը">
 <!ENTITY contextmenu_top_sites_unpin "Ապամրացնել կայքը">
 <!ENTITY contextmenu_add_search_engine "Ավելացնել որոնողական հանգույց">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Չկա օգտվողի անուն]">
 <!ENTITY doorhanger_login_edit_title "Խմբագրել մուտքանունը">
 <!ENTITY doorhanger_login_edit_username_hint "Օգտվողի անուն">
@@ -520,23 +525,23 @@
 <!ENTITY doorhanger_login_select_toast_copy "Գաղտնաբառը պատճենված է">
 <!ENTITY doorhanger_login_select_action_text "Ընտրել այլ մուտքագրում">
 <!ENTITY doorhanger_login_select_title "Պատճենել գաղտնաբառը այստեղից՝">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Լիաէկրան դիտարկում">
 <!ENTITY pref_scroll_title_bar_summary2 "Էջը ներքև սահեցնելիս թաքցնել &brandShortName;-ի գործիքագոտին">
 
 <!ENTITY pref_tab_queue_title3 "Ներդիր հերթում">
 <!ENTITY pref_tab_queue_summary4 "Պահպանել հղումները՝ մինչև հաջորդ անգամ &brandShortName;-ը բացելը">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-
 <!ENTITY pref_compact_tabs "Սեղմ ներդիրներ">
 <!ENTITY pref_compact_tabs_summary2 "Դասավորել ներդիրները երկու սյուներով՝ դիմանկար կերպով">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Էջը հեռացվել է">
 
 <!ENTITY bookmark_edit_title "Խմբագրել Էջանիշը">
@@ -545,15 +550,15 @@
 <!ENTITY bookmark_edit_location "Տեղադրությունը">
 <!ENTITY bookmark_edit_keyword "Հիմնաբառ">
 <!ENTITY bookmark_select_folder "Ընտրել թղթապանակ">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Կայքի կարգավորումներ">
 <!ENTITY site_settings_cancel       "Չեղարկել">
 <!ENTITY site_settings_clear        "Մաքրել">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Լրացուցիչ Գործույթներ">
 
 <!ENTITY masterpassword_create_title "Ստեղծել Հիմնական գաղտնաբառ">
@@ -574,9 +579,9 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Ավելացնել կայք">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "&brandShortName;-ի Գլխավոր էջ">
 <!ENTITY home_history_title "Պատմություն">
 <!ENTITY home_synced_devices_smartfolder "Համաժամեցված սարքեր">
@@ -597,19 +602,19 @@
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "&formatS1;Նոր գաղտնի դիտարկումը&formatS2; չի պահպանի պատմությունը:">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Ոչինչ չկա այս վահանակում:">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Վերադառնալ &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; թաքնված սարքեր">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -617,9 +622,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Ցուցադրել նշված սարքերը">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 <!ENTITY home_pinned_site "Գամված կայք">
 <!ENTITY home_unpinned_site "Ապագամված կայք">
 
@@ -633,8 +638,8 @@
 <!ENTITY filepicker_audio_title "Ընտրեք կամ ձայնագրեք">
 <!ENTITY filepicker_image_title "Ընտրեք կամ նկարեք">
 <!ENTITY filepicker_video_title "Ընտրեք կամ տեսագրեք տեսանյութ">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Դուք կապակցված եք՝">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -650,21 +655,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Անվտանգ կապակցում">
 <!ENTITY identity_connection_insecure "Ոչ անվտանգ կապակցում">
 <!ENTITY identity_connection_chromeui "Սա &brandShortName;-ի անվտանգ էջ է">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը այս էջում:">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName;-ը արգելափակել է որոշ ոչ անվտանգ բովանդակություն այս էջում:">
 <!ENTITY mixed_content_display_loaded1 "Այս էջի մասերը անվտանգ չեն (օր.՝ պատկերները):">
 <!ENTITY mixed_content_protection_disabled1 "Դուք անջատել եք ոչ անվտանգ տարրերից պաշտպանութունը:">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Հետագծման պաշտպանություն">
 <!ENTITY doorhanger_tracking_state_enabled "Միացված">
 <!ENTITY doorhanger_tracking_state_disabled "Անջատված">
 <!ENTITY doorhanger_tracking_message_enabled1 "Առցանց հետագծումը արգելափակված է:">
 <!ENTITY doorhanger_tracking_message_disabled2 "Այս էջը պարունակում է տարրեր, որոնք կարող են հետագծել ձեր դիտարկիչը:">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Մանրամասն">
 <!ENTITY enable_protection "Միացնել պաշտպանությունը">
 <!ENTITY disable_protection "Անջատել պաշտպանությունը">
@@ -686,15 +691,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Որոնում &formatS;-ով">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Որոնել &formatS2;-ը &formatS1;-ում">
 
 <!ENTITY searchable_description "Էջանիշներ և Պատմություն">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Հասանելի է &brandShortName;-ի թարմացում">
 <!ENTITY updater_start_select2 "Դիպչեք՝ բեռնելու համար">
 
@@ -705,15 +710,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title3 "Թարմացումը ներբեռնվել է &brandShortName;-ի համար">
 <!ENTITY updater_apply_select3 "Հպեք՝ տեղադրելու համար">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Ֆայլեր և թարմացումներ ներբեռնելու համար թույլատրեք &brandShortName;-ին մատչում պահեստին:">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Թույլատրել">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Հյուրի աշխատաշրջան">
 <!ENTITY exit_guest_session "Ավարտել հյուրի աշխատաշրջանը">
 <!ENTITY guest_session_dialog_continue "Շարունակել">
@@ -725,37 +730,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName;-ը կվերամեկնարկի">
 <!ENTITY exit_guest_session_text "Այս աշխատաշրջանի դիտարկման պատմությունը կմաքրվի:">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Ցանկ">
 <!ENTITY actionbar_done "Պատրաստ է">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Խոսել">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Վերջին Սինքը. &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Վերջին սինքը. երբեք">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Այս հղումը կբացվի &formatS;-ով: Դուրս գա՞լ Գաղտնի դիտարկումից:">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -765,18 +770,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Դուրս գա՞լ Գաղտնի դիտարկումից">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "QR կոդի սկանավորում Ձեր մյուս սարքից:">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Հավելումներ">
 <!ENTITY restrictable_feature_addons_installation_description "Ավելացնել յուրահատկություններ կամ գործառություն Firefox-ում: Նշում. հավելումները կարող են անջատել որոշակի սահմանափակումներ:">
 <!ENTITY restrictable_feature_private_browsing "Գաղտնի դիտարկում">
@@ -789,9 +794,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Թույլատրում է ընտանիքի անդամներին իրական ժամանակում զրուցել կայքերում:">
 <!ENTITY restrictable_feature_block_list "Արգելափակումների ցուցակ">
 <!ENTITY restrictable_feature_block_list_description "Արգելափակել կայքերը, որոնք ներառում են տառաշարազգայուն բովանդակություն:">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox. Ձեր դիտարկիչի մասին">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox. Հարմարեցնել հավելումներով">
@@ -801,17 +806,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Firefox-ի օգնությունը և աջակցումը՝ Անդրոիդ թաբլեթներում սահմանափակված պրոֆիլների համար">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Սովորեք վեբը՝ Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Ներողություն, բայց &brandShortName;-ը չի աշխատի ձեր սարքում (&formatS1;, &formatS2;): Խնդրում ենք ներբեռնել ճիշտ տարբերակ:">
 
 <!ENTITY eol_notification_title2 "&brandShortName;-ը այլևս չի թարմացվի">
 <!ENTITY eol_notification_summary "Հպվեք՝ ավելին իմանալու համար">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName;-ը թարմ է">
 <!ENTITY whatsnew_notification_summary "Ինչն է նոր այս տարբերակում">
 
@@ -827,23 +832,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Լավագույն կայքեր">
 <!ENTITY activity_stream_highlights "Գունանշումներ">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Էջանշված">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Այցելած">
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
-<!ENTITY activity_stream_dismiss "Բաց թողնել">
+<!ENTITY activity_stream_remove "Հեռացնել">
 <!ENTITY activity_stream_delete_history "Ջնջել Պատմությունից">
 
 <!ENTITY activity_stream_welcome_title "Բարի գալուստ ձեր Գունանշումներ">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName;-ը այժմ ստեղծում է վեբում ձեր կողմից բացահայտված իրերի գունանշումները, որպեսզի դուք կարողանաք գտնել ձեր ճանապարհը դեպի ձեր նախընտրած լավագույն հոդվածներ, տեսանյութեր, էջանիշեր և այլ էջեր:">
+<!ENTITY activity_stream_welcome_dismiss "Բաց թողնել">
 
+<!ENTITY private_tab_panel_title "Գաղտնի Դիտարկում + ՀԵտագծման պաշտպանություն">
+<!ENTITY private_tab_panel_description "&brandShortName;-ը արգելափակում է էջերի մասերը, որոնք կարող են հետագծել դիտարկումների ձեր ակտիվությունը:">
+<!ENTITY private_tab_panel_description2 "Մենք չենք հիշի որևէ պատմություն, բայց ներբեռնված ֆայլերը և նոր էջանիշերը դեռ կպահպանվեն ձեր սարքում:">
+<!ENTITY private_tab_learn_more "Ցանկանու՞մ եք իմանալ ավելին:">
 
-
-
+<!ENTITY fullscreen_warning "Մուտք լիաէկրան">
