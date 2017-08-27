@@ -63,9 +63,31 @@
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Penjadualan semula">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Penjadualan semula acara">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Simpan salinan">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Simpan salinan acara kalendar yang tiada balasan kepada penganjur. Senarai peserta akan dibuang.">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Terima jemputan acara secara tentatif">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentatif semua">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Terima jemputan semua pengulangan acara secara tentatif">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Kemaskini">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Kemaskini acara dalam kalendar">
+<!ENTITY lightning.imipbar.description                                      "Mesej ini mengandungi jemputan untuk menghadiri acara.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "K">
+<!ENTITY lightning.keys.event.showTasks.key "P">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "P">
 
 <!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Cipta kalendar baru">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Papar Mini-Bulan">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Papar Mini-Hari">
+<!ENTITY todaypane.showMiniday.accesskey  "r">
+<!ENTITY todaypane.showNone.label "Papar Tiada">
+<!ENTITY todaypane.showNone.accesskey "T">
+<!ENTITY todaypane.showTodayPane.label "Papar Anak Tetingkap Hari ini">
+<!ENTITY todaypane.showTodayPane.accesskey "p">
+<!ENTITY todaypane.statusButton.label "Anak Tetingkap Hari ini">
