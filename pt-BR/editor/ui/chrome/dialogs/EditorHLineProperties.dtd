@@ -13,15 +13,15 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "pixels">
 <!ENTITY alignmentBox.label "Alinhamento">
-<!ENTITY leftRadio.label "Esquerdo">
-<!ENTITY leftRadio.accessKey "o">
-<!ENTITY centerRadio.label "Centralizado">
+<!ENTITY leftRadio.label "Esquerda">
+<!ENTITY leftRadio.accessKey "E">
+<!ENTITY centerRadio.label "Centralizada">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.label "Direito">
+<!ENTITY rightRadio.label "Direita">
 <!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "Sombra 3D">
+<!ENTITY threeDShading.label "Sombreamento em 3D">
 <!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Salvar como padrão">
+<!ENTITY saveSettings.label "Usar como padrão">
 <!ENTITY saveSettings.accessKey "S">
-<!ENTITY saveSettings.tooltip "Salvar estas opções para usar ao inserir novas linhas horizontais">
+<!ENTITY saveSettings.tooltip "Salvar estas configurações para usar ao inserir novas linhas horizontais">

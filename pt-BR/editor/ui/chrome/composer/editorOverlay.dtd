@@ -50,7 +50,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Criar um link…">
 <!ENTITY createLinkCmd.accesskey "l">
-<!ENTITY editLinkCmd.label "Editar link em nova janela">
+<!ENTITY editLinkCmd.label "Editar o link num novo Composer">
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
@@ -117,7 +117,7 @@
 <!ENTITY styleNonbreakingCmd.accesskey "l">
 <!ENTITY styleEm.label "Ênfase">
 <!ENTITY styleEm.accesskey "e">
-<!ENTITY styleStrong.label "Ênfase forte">
+<!ENTITY styleStrong.label "Ênfase mais forte">
 <!ENTITY styleStrong.accesskey "f">
 <!ENTITY styleCite.label "Citação">
 <!ENTITY styleCite.accesskey "C">
