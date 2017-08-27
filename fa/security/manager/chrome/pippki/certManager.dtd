@@ -10,10 +10,9 @@
 <!ENTITY certmgr.tab.ca                       "مراجع صدور">
 <!ENTITY certmgr.tab.orphan2                  "دیگران">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "شما گواهینامه‌ هایی از شرکت هایی دارید که شما هویت شما را میشناسند">
+<!ENTITY certmgr.others2                      "شما گواهینامه ای روی این پرونده دارید که این افراد را می شناسد">
+<!ENTITY certmgr.websites3                    "شما گواهینامه هایی روی این پرونده دارید که سرو‌رها را میشناسد">
 
 <!ENTITY certmgr.detail.general_tab.title     "عمومی">
 <!ENTITY certmgr.detail.general_tab.accesskey "ع">
