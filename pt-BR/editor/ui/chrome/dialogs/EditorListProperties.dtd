@@ -12,7 +12,7 @@
 <!ENTITY startingNumber.accessKey "o">
 <!ENTITY none.value "Nenhum">
 <!ENTITY bulletList.value "Lista de marcadores (não numerada)">
-<!ENTITY numberList.value "Lista numerada">
+<!ENTITY numberList.value "Lista enumerada">
 <!ENTITY definitionList.value "Lista de definições">
 <!ENTITY changeEntireListRadio.label "Alterar toda a lista">
 <!ENTITY changeEntireListRadio.accessKey "t">

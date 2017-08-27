@@ -38,17 +38,17 @@
 <!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY constrainCheckbox.label "Manter a proporção">
+<!ENTITY constrainCheckbox.label "Restringir">
 <!ENTITY constrainCheckbox.accessKey "M">
-<!ENTITY constrainCheckbox.tooltip "Manter a razão entre as dimensões da imagem">
+<!ENTITY constrainCheckbox.tooltip "Manter a proporção da imagem">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "Mapa de imagem">
+<!ENTITY imagemapBox.label "Mapa da imagem">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Alinhamento do texto">
+<!ENTITY alignment.label "Alinha texto à imagem">
 <!ENTITY bottomPopup.value "Embaixo">
 <!ENTITY topPopup.value "Em cima">
 <!ENTITY centerPopup.value "No meio">
@@ -69,11 +69,11 @@
 <!ENTITY showImageLinkBorder.accessKey "k">
 <!ENTITY LinkAdvancedEditButton.label "Edição avançada do link…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
-<!ENTITY LinkAdvancedEditButton.tooltip "Adicionar ou alterar atributos HTML, atributos de estilo e JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adicionar ou modificar os atributos HTML, atributos de estilo e JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulário">
-<!ENTITY imageLocationTab.label "Endereço">
+<!ENTITY imageLocationTab.label "Localização">
 <!ENTITY imageDimensionsTab.label "Dimensões">
 <!ENTITY imageAppearanceTab.label "Aparência">
 <!ENTITY imageLinkTab.label "Link">

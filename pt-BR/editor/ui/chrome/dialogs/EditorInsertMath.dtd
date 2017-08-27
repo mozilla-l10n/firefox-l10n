@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserir Math">
+<!ENTITY windowTitle.label "Inserir fórmula matemática">
 
-<!ENTITY sourceEditField.label "Digite o código-fonte LaTeX:">
+<!ENTITY sourceEditField.label "Inserir o código-fonte LaTeX:">
 
 <!ENTITY options.label "Opções">
-<!ENTITY optionInline.label "Modo inline">
+<!ENTITY optionInline.label "Modo em linha">
 <!ENTITY optionInline.accesskey "i">
 <!ENTITY optionDisplay.label "Modo de exibição">
 <!ENTITY optionDisplay.accesskey "M">
