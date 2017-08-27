@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Restaurar suas configurações de pesquisa?">
 
-<!ENTITY searchreset.pageInfo1      "Suas configurações de pesquisa podem estar desatualizadas. O &brandShortName; pode ajudar a restaurar as configurações de pesquisar.">
+<!ENTITY searchreset.pageInfo1      "Suas configurações de pesquisa podem estar desatualizadas. O &brandShortName; pode ajudar a restaurar o padrão de configurações de pesquisa.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
