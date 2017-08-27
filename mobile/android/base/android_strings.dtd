@@ -6,6 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "Grazia che ti has tschernì &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "In navigatur mobil modern da Mozilla, l\&apos;organisaziun senza finamira da profit che s\&apos;engascha per ina rait libra ed averta.">
 <!ENTITY firstrun_panel_title_privacy "Sfera privata">
+<!ENTITY firstrun_privacy_message "Navighescha sco sche nagin t\&apos;observass">
+<!ENTITY firstrun_privacy_subtext "Il modus privat cun protecziun cunter il fastizar blochescha fastizaders durant che ti navigheschas e na memorisescha betg la cronologia suenter la navigaziun.">
+<!ENTITY firstrun_panel_title_customize "Persunalisar">
+<!ENTITY firstrun_customize_message "Persunalisescha &brandShortName;.">
+<!ENTITY firstrun_customize_subtext "Persunalisescha &brandShortName; cun supplements. Blochescha reclama, agiuntescha funcziuns u tscherna in design che ta correspunda.">
 <!ENTITY firstrun_bookmarks_title "Cronologia">
 <!ENTITY firstrun_bookmarks_message "Tes favurits, adina en il center">
 <!ENTITY firstrun_bookmarks_subtext "Retschaiver resultats ord ils segnapaginas e la cronologia cura che ti tschertgas.">
@@ -13,6 +18,8 @@
 <!ENTITY firstrun_data_message "Pli paucas datas, pli grond respargn">
 <!ENTITY firstrun_data_subtext2 "Deactivar maletgs per consumar main datas per mintga pagina che ti visitas.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Cuntinuescha là nua che ti has chalà.">
+<!ENTITY firstrun_sync_subtext2 "Utilisescha Sync per chattar segnapaginas, pleds-clav ed autras datas che ti has memorisà en &brandShortName; sin tut tes apparats.">
 <!ENTITY firstrun_signin_message "Ta collia per cumenzar">
 <!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
 <!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
@@ -839,13 +846,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Allontanar">
 <!ENTITY activity_stream_delete_history "Stizzar da la cronologia">
 
 <!ENTITY activity_stream_welcome_title "Bainvegni tar tes accents">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; creescha ussa accents per chaussas che ti has scuvert en il web. Uschia chattas ti pli tard la via enavos tar artitgels, videos, segnapaginas ed autras paginas interessantas.">
+<!ENTITY activity_stream_welcome_dismiss "Serrar">
 
 <!ENTITY private_tab_panel_title "Modus privat + protecziun cunter il fastizar">
 <!ENTITY private_tab_panel_description "&brandShortName; blochescha parts da la pagina che ta pon fastizar durant la navigaziun en l\&apos;internet.">
 <!ENTITY private_tab_panel_description2 "La cronologia na vegn betg memorisada, ma datotecas telechargiadas e novs segnapaginas vegnan preservads sin tes apparat.">
 <!ENTITY private_tab_learn_more "Dovras ulteriuras infurmaziuns?">
 
+<!ENTITY fullscreen_warning "Entrà en il modus da maletg entir">
