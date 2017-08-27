@@ -56,6 +56,13 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus daripada kalendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Butiran…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Papar butiran acara">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Selanjutnya">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik untuk papar pilihan selanjutnya">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "Sahkan semula">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Hantar pengesahan semula kepada pihak penganjur">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Penjadualan semula">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Penjadualan semula acara">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Simpan salinan">
 
 <!-- Lightning specific keybindings -->
 
