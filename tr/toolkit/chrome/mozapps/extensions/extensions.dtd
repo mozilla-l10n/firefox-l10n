@@ -258,5 +258,5 @@
 <!ENTITY legacyWarning.description "Bir şeyler mi eksik? Bazı eklentiler artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY legacyWarning.showLegacy "Eski teknoloji eklentileri göster">
 <!ENTITY legacyExtensions.title "Eski teknoloji eklentiler">
-<!ENTITY legacyExtensions.description "Bu eklentiler yeni &brandShortName; standartlarını karşılaşamadığı için etkisiz hale getirilmiştir.">
+<!ENTITY legacyExtensions.description "Bu eklentiler yeni &brandShortName; standartlarını karşılamadığı için etkisiz hale getirilmiştir.">
 <!ENTITY legacyExtensions.learnMore "Eklentilerde yaptığımız değişiklikler hakkında bilgi alın">
