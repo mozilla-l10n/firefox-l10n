@@ -106,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "دسترسی‌پذیری">
 <!ENTITY aboutSupport.a11yActivated "فعال‌ شده">
 <!ENTITY aboutSupport.a11yForceDisabled "دسترسی را متوقف کن">
+<!ENTITY aboutSupport.a11yHandlerUsed "یک دستیار قابل دسترسی استفاده شده است">
 <!ENTITY aboutSupport.a11yInstantiator "منطبق کنندهٔ دسترسی‌پذیری">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "نسخه‌های کتاب‌خانه">
