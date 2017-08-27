@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "ت">
 <!ENTITY syncToolbarButton.label      "هم‌گام‌سازی">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "موارد محبوب خود را به داخل نوار ابزار بکشید یا به منو اضافه کنید.">
 <!ENTITY customizeMode.menuAndToolbars.empty "ابزار بیشتری می خواهید؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "از بین هزاران افرونه انتخاب کنید">
 <!ENTITY customizeMode.restoreDefaults "بازگرداندن پیش‌فرض‌ها">
