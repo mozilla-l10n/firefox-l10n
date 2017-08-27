@@ -125,7 +125,7 @@
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "Nueva lista">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY showAsDefault.label "Directorio de inicio por defecto">
+<!ENTITY showAsDefault.label "Directorio de inicio por omisión">
 <!ENTITY showAsDefault.accesskey "D">
 <!ENTITY editPropertiesButton.label "Editar">
 <!ENTITY propertiesContext.label "Propiedades">

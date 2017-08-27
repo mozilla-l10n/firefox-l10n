@@ -30,7 +30,7 @@
 <!ENTITY removeTagButton.label "Eliminar">
 <!ENTITY removeTagButton.accesskey "r">
 <!ENTITY fontsAndColors1.label "Tipografías y colores">
-<!ENTITY defaultFont.label "Tipo de letra por defecto:">
+<!ENTITY defaultFont.label "Tipo de letra predeterminado:">
 <!ENTITY defaultFont.accesskey "i">
 <!ENTITY defaultSize.label "Tamaño:">
 <!ENTITY defaultSize.accesskey "T">

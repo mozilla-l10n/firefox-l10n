@@ -23,7 +23,7 @@
 <!ENTITY chatSound.label "Reproducir un sonido">
 <!ENTITY play.label "Reproducir">
 <!ENTITY play.accesskey "c">
-<!ENTITY systemSound.label "Sonido por defecto del sistema para nuevo correo">
+<!ENTITY systemSound.label "Sonido predeterminado del sistema para nuevo correo">
 <!ENTITY systemSound.accesskey "S">
 <!ENTITY customsound.label "Usar el siguiente archivo de sonido">
 <!ENTITY customsound.accesskey "U">
