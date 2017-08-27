@@ -4,6 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Xoş Gəldiniz">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; seçdiyiniz üçün təşəkkürlər">
+<!ENTITY firstrun_urlbar_subtext2 "Azad və açıq internet üçün əlləşən qeyri-kommersiyal Mozilladan müasir mobil səyyah.">
+<!ENTITY firstrun_panel_title_privacy "Məxfilik">
+<!ENTITY firstrun_privacy_message "Başqalarınız izləməsindən narahat olmadan internetdə gəzin">
+<!ENTITY firstrun_privacy_subtext "İzlənmə Qoruması ilə Məxfi Səyahət internetdə gəzərkən izləyiciləri bloklayır və işiniz bitdikdən sonra hər şeyi unudur.">
+<!ENTITY firstrun_panel_title_customize "Fərdiləşdir">
+<!ENTITY firstrun_customize_message "&brandShortName; səyyahını zövqünüzə görə dəyişdirin.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; səyyahını əlavələrlə fərdiləşdirin. Reklamları bloklayın, yeni özəlliklər əlavə edin və ya zövqünüzə uyğun mövzuları seçin.">
 <!ENTITY firstrun_bookmarks_title "Tarixçə">
 <!ENTITY firstrun_bookmarks_message "Sizin istəyiniz, ön və mərkəz">
 <!ENTITY firstrun_bookmarks_subtext "Axtarış zamanı əlfəcin və tarixçənizdən nəticələr əldə edin.">
@@ -11,6 +18,7 @@
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
