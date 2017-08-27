@@ -322,7 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "定制…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "自定义工具栏…">
+<!ENTITY overflowCustomizeToolbar.label       "定制工具栏…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "历史">
@@ -396,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "隐藏到折叠菜单">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "从折叠菜单中移出">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "移出折叠菜单">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "从工具栏中移除">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
