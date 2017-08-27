@@ -147,3 +147,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceVendor "So' girì">
 <!ENTITY aboutSupport.mediaDeviceState "Dàj huaj">
 <!ENTITY aboutSupport.mediaDevicePreferred "Sa huin ruhuô' doj">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formatù">
+<!ENTITY aboutSupport.mediaDeviceChannels "Nej kanal">
+<!ENTITY aboutSupport.mediaDeviceRate "Sa du'ue">
+<!ENTITY aboutSupport.mediaDeviceLatency "'Iaj sunj">
