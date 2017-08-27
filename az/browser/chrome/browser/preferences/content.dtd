@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Peyda olan pəncərələri blokla">
 <!ENTITY  blockPopups.accesskey       "b">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Ətraflı öyrən">
-<!ENTITY  notificationsPolicyDesc4.label       "Hansı saytların sizə bildiriş göndərə biləcəyini seçin">
-<!ENTITY  notificationsPolicyButton.accesskey  "e">
-<!ENTITY  notificationsPolicyButton.label      "Seç…">
 <!ENTITY  notificationsDoNotDisturb.label      "Məni narahat etmə">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; yenidən başladılana qədər heç bir bildiriş göstərilməyəcək">
 
-<!ENTITY  popupExceptions.label       "İstisnalar…">
-<!ENTITY  popupExceptions.accesskey   "a">
+<!ENTITY  popupExceptions.label                                 "İstisnalar…">
+<!ENTITY  popupExceptions.accesskey                             "a">
+
+<!ENTITY  notificationPermissions.label                         "Bildirişlər">
+<!ENTITY  notificationSettingsButton.label                      "Tənzimləmələr…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Ətraflı öyrən">
+
+<!ENTITY  locationPermissions.label                             "Mövqe">
+<!ENTITY  locationSettingsButton.label                          "Tənzimləmələr…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Tənzimləmələr…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Tənzimləmələr…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Şriftlər və Rənglər">
 

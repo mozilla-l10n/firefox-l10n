@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Web-inizi özünüzlə gəzdirin">
 <!ENTITY signedOut.description        "Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ilə qoşulun">
-<!ENTITY signedOut.accountBox.create  "Hesab Aç">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Daxil ol">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "Hesabınız yoxdur? Başlayın">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Daxil ol…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Sync Tənzimləmələri">
 <!ENTITY signedIn.settings.description "&brandShortName; işlədən cihazlarınızda nələrin sinxronlaşacağını seçin.">
