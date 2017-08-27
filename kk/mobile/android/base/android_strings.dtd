@@ -4,9 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; таңдағаныңыз үшін рахмет">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla, еркін және ашық интернетке ұмтылатын коммерциялық емес ұйым, жасаған заманауи мобильді браузер.">
+<!ENTITY firstrun_panel_title_privacy "Жекелік">
 <!ENTITY firstrun_privacy_message "Бақылаудан қорықпай-ақ интернетті шолыңыз">
+<!ENTITY firstrun_privacy_subtext "Бақылаудан қорғанысы бар Жекелік шолу интернетті шолу кезінде трекерлерді блоктайды, және жұмыс аяқталғаннан кейін тарихты сақтамайды.">
 <!ENTITY firstrun_panel_title_customize "Баптау">
 <!ENTITY firstrun_customize_message "&brandShortName; өздік қылыңыз.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; қосымшалар көмегімен баптаңыз. Жарнаманы блоктау, мүмкіндіктерді қосу, немесе өзіңізге тиісті теманы орнатуға болады.">
 <!ENTITY firstrun_bookmarks_title "Тарихы">
 <!ENTITY firstrun_bookmarks_message "Таңдамалыларыңыз көз алдында">
 <!ENTITY firstrun_bookmarks_subtext "Іздеу кезінде бетбелгілер және тарихтан нәтижелерді алыңыз.">
@@ -14,6 +18,8 @@
 <!ENTITY firstrun_data_message "Азырақ деректер, көбірек үнемдеу">
 <!ENTITY firstrun_data_subtext2 "Әр қаралатын сайтта азырақ деректерді қолдану үшін суреттерді сөндіріңіз.">
 <!ENTITY firstrun_sync_title "Синхрондау">
+<!ENTITY firstrun_sync_message2 "Жұмысты қалдырған жерінен жалғастырыңыз.">
+<!ENTITY firstrun_sync_subtext2 "Синхрондау көмегімен сіз барлық құрылғыларыңызда &brandShortName; ішінде сақтаған бетбелгілер, парольдер және т.б. нәрселерді табуға болады.">
 <!ENTITY firstrun_signin_message "Байланысыңыз, бастаңыз">
 <!ENTITY firstrun_signin_button "Синхрондау ішіне кіру">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
