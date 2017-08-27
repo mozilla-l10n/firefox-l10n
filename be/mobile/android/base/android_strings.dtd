@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Вітаем">
-
-<!ENTITY firstrun_urlbar_message "Вітаем у &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Паскорце пошук з дапамогай карысных цэтлікаў пошукавых прапаноў.">
+<!ENTITY firstrun_urlbar_message2 "Дзякуй, што абралі &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Сучасны мабільны браўзер ад Mozilla, некамерцыйнай арганізацыі, якая прытрымліваецца свабоды і адкрытасці Інтэрнэту.">
+<!ENTITY firstrun_panel_title_privacy "Прыватнасць">
+<!ENTITY firstrun_privacy_message "Аглядайце не баючыся сачэння">
+<!ENTITY firstrun_privacy_subtext "Прыватнае агляданне блакуе сачэнне пакуль вы праглядаеце Інтэрнэт і не запамінае гісторыю пасля завяршэння.">
+<!ENTITY firstrun_panel_title_customize "Уладкаваць">
+<!ENTITY firstrun_customize_message "Зрабіць &brandShortName; зручным для сябе.">
+<!ENTITY firstrun_customize_subtext "Пашырайце магчымасці &brandShortName; з дапамогай дадаткаў. Блакіруйце рэкламу або абярыце новую тэму, каб падкрэсліць сваю індывідуальнасць.">
 <!ENTITY firstrun_bookmarks_title "Гісторыя">
 <!ENTITY firstrun_bookmarks_message "Ваша любімае, навідавоку ў цэнтры">
 <!ENTITY firstrun_bookmarks_subtext "Пры пошуку атрымлівайце вынікі са сваіх закладак і гісторыі.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Менш трафіку, больш эканоміі">
 <!ENTITY firstrun_data_subtext2 "Адключайце выявы, каб паменшыць расход трафіку на кожным наведаным сайце.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, заўсёды побач з вамі">
-<!ENTITY firstrun_sync_subtext "Сінхранізуйце свае карткі, паролі і многае іншае, усюды, дзе вы яго выкарыстоўваеце.">
+<!ENTITY firstrun_sync_message2 "Працягвайце адтуль, дзе спыніліся.">
+<!ENTITY firstrun_sync_subtext2 "Выкарыстоўвайце Sync для доступу да закладак, пароляў і іншых дадзеных, якія вы захоўваеце ў &brandShortName; на ўсіх прыладах.">
 <!ENTITY firstrun_signin_message "Падключайцеся і пачынайце">
 <!ENTITY firstrun_signin_button "Увайсці ў Sync">
 <!ENTITY  onboard_start_button_browser "Пачаць агляданне">
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Ачысціць зараз">
 <!ENTITY pref_clear_on_exit_title3 "Выдаліць асабістыя дадзеныя пры выхадзе">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будзе аўтаматычна выдаляць вашы дадзеныя пры націску вамі \u0022Выхад\u0022 ў галоўным меню">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будзе аўтаматычна выдаляць вашы дадзеныя пры націску вамі \&quot;Выхад\&quot; ў галоўным меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберыце дадзеныя для выдалення">
 <!ENTITY pref_restore_tabs "Аднаўленне картак">
 <!ENTITY pref_restore_always "Заўсёды аднаўляць">
@@ -838,16 +843,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Наведанае">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Схаваць">
+<!ENTITY activity_stream_remove "Выдаліць">
 <!ENTITY activity_stream_delete_history "Выдаліць з гісторыі">
 
 <!ENTITY activity_stream_welcome_title "Вітаем у Асноўным">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; цяпер адлюстроўвае асноўнае, што вы праглядалі ў Інтэрнэце, каб вы маглі зноў вярнуцца да выдатных артыкулаў, відэа, закладак, а таксама іншых старонак.">
+<!ENTITY activity_stream_welcome_dismiss "Адхіліць">
 
 <!ENTITY private_tab_panel_title "Прыватнае агляданне + Ахова ад сачэння">
 <!ENTITY private_tab_panel_description "&brandShortName; блакуе часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
 <!ENTITY private_tab_panel_description2 "Мы не будзе запамінаць нічога з гісторыі, але сцягнутыя файлы і новыя закладкі будуць захаваны на вашай прыладзе.">
 <!ENTITY private_tab_learn_more "Жадаеце даведацца больш?">
+
+<!ENTITY fullscreen_warning "Поўнаэкранны рэжым">
