@@ -125,6 +125,7 @@ available. -->
 <!ENTITY enableOCSP.accesskey            "v">
 <!ENTITY viewCerts2.label                "Tampilkan Sertifikat…">
 <!ENTITY viewCerts2.accesskey            "S">
+<!ENTITY viewSecurityDevices2.label      "Peranti Keamanan…">
 
 <!ENTITY performance.label               "Kinerja">
 <!ENTITY useRecommendedPerformanceSettings2.label
