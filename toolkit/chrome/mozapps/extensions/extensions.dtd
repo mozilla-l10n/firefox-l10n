@@ -104,8 +104,8 @@
 <!ENTITY detail.numberOfDownloads.label "Descargas">
 <!ENTITY detail.contributions.description "El desarrollador de este complemento solicita que ayudes a continuar su desarrollo haciendo una pequeña contribución.">
 <!ENTITY detail.updateType "Actualizaciones automáticas">
-<!ENTITY detail.updateDefault.label "Por defecto">
-<!ENTITY detail.updateDefault.tooltip "Instalar actualizaciones automáticamente sólo si ése es el valor por defecto">
+<!ENTITY detail.updateDefault.label "Por omisión">
+<!ENTITY detail.updateDefault.tooltip "Instalar actualizaciones automáticamente sólo si ése es el valor predeterminado">
 <!ENTITY detail.updateAutomatic.label "Sí">
 <!ENTITY detail.updateAutomatic.tooltip "Instalar actualizaciones automáticamente">
 <!ENTITY detail.updateManual.label "No">

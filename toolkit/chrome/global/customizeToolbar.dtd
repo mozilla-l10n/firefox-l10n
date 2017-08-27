@@ -10,7 +10,7 @@
 <!ENTITY icons.label "Iconos">
 <!ENTITY text.label "Texto">
 <!ENTITY useSmallIcons.label "Usar iconos pequeños">
-<!ENTITY restoreDefaultSet.label "Valores por defecto">
+<!ENTITY restoreDefaultSet.label "Valores predeterminados">
 <!ENTITY addNewToolbar.label "Añadir barra">
 <!ENTITY saveChanges.label "Hecho">
 <!ENTITY undoChanges.label "Deshacer cambios">
