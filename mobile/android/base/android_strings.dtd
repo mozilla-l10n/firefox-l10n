@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bainvegni">
+<!ENTITY firstrun_urlbar_message2 "Grazia che ti has tschernì &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "In navigatur mobil modern da Mozilla, l\&apos;organisaziun senza finamira da profit che s\&apos;engascha per ina rait libra ed averta.">
+<!ENTITY firstrun_panel_title_privacy "Sfera privata">
 <!ENTITY firstrun_bookmarks_title "Cronologia">
 <!ENTITY firstrun_bookmarks_message "Tes favurits, adina en il center">
 <!ENTITY firstrun_bookmarks_subtext "Retschaiver resultats ord ils segnapaginas e la cronologia cura che ti tschertgas.">
@@ -833,10 +836,9 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visità">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Zuppentar">
 <!ENTITY activity_stream_delete_history "Stizzar da la cronologia">
 
 <!ENTITY activity_stream_welcome_title "Bainvegni tar tes accents">
@@ -846,3 +848,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description "&brandShortName; blochescha parts da la pagina che ta pon fastizar durant la navigaziun en l\&apos;internet.">
 <!ENTITY private_tab_panel_description2 "La cronologia na vegn betg memorisada, ma datotecas telechargiadas e novs segnapaginas vegnan preservads sin tes apparat.">
 <!ENTITY private_tab_learn_more "Dovras ulteriuras infurmaziuns?">
+
