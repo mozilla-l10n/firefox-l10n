@@ -8,3 +8,5 @@
 <!ENTITY providerUninstall.cancel.label                    "Simpan Add-on">
 <!ENTITY providerUninstall.cancel.accesskey                "S">
 <!ENTITY providerUninstall.preName.label                   "Anda telah meminta untuk nyahpasang atau nyahdayakan:">
+<!ENTITY providerUninstall.postName.label                  "Ini akan menyebabkan kalendar di bawah dinyahdayakan.">
+<!ENTITY providerUninstall.reinstallNote.label             "Melainkan anda bercadang untuk memasang semula, anda boleh memilih untuk berhenti melanggan daripada penyedia kalendar ini.">
