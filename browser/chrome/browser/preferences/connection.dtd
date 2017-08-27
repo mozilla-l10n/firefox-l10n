@@ -26,16 +26,21 @@
 <!ENTITY  http2.accesskey               "x">
 <!ENTITY  ssl2.label                    "SSL પ્રોક્સી">
 <!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS યજમાન">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v૫">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "પ્રોક્સી DNS ઉપયોગ કરતી વખતે SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "પોર્ટ">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "માટે કોઈ પ્રોક્સી નથી">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "ઉદાહરણ: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "બધા પ્રોટોકોલ માટે સમાન પ્રોક્સી વાપરો">
 <!ENTITY  shareproxy.accesskey          "s">
