@@ -24,7 +24,7 @@
 <!ENTITY rights3.webservices-b "aquí">
 <!ENTITY rights3.webservices-c ". Otras características y servicios pueden activarse o desactivarse en las preferencias de la aplicación.">
 <!ENTITY rights.addons-a "Servicios de complementos: ">
-<!ENTITY rights.addons-b "Por defecto, &brandShortName; sugerirá complementos en la página &view.discover.label; y buscará actualizaciones a intervalos regulares. Si desea desactivar estas características para evitar la comunicación al servidor de información sobre complementos instalados, siga estos pasos:">
+<!ENTITY rights.addons-b "Por omisión, &brandShortName; sugerirá complementos en la página &view.discover.label; y buscará actualizaciones a intervalos regulares. Si desea desactivar estas características para evitar la comunicación al servidor de información sobre complementos instalados, siga estos pasos:">
 <!ENTITY rights.addons-term1 "Abra las preferencias de la aplicación">
 <!ENTITY rights.addons-term2 "Seleccione el panel &smart.label; en la categoría &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarque las opciones &quot;&autoAddOnsUpdates.label;&quot; y &quot;&enablePersonalized.label;&quot;">

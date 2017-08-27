@@ -125,7 +125,7 @@
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
 <!ENTITY customizeToolbar.labelAlignEnd.label "Mostrar texto junto al icono">
 <!ENTITY customizeToolbar.labelAlignEnd.accesskey "o">
-<!ENTITY customizeToolbar.useDefault.label "Usar valores por omisión">
+<!ENTITY customizeToolbar.useDefault.label "Usar valores predeterminados">
 <!ENTITY customizeToolbar.useDefault.accesskey "U">
 <!ENTITY allowPopups.accesskey "p">
 <!ENTITY showPopupManager.label "Administrar ventanas emergentes">

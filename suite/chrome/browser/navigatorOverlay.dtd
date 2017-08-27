@@ -109,7 +109,7 @@
 <!ENTITY popupAllowMsg.label "Las ventanas emergentes de este sitio web se mostrarán siempre.">
 <!ENTITY popupDefaultCmd.label "Usar permisos predeterminados para ventanas emergentes">
 <!ENTITY popupDefaultCmd.accesskey "U">
-<!ENTITY popupDefaultMsg.label "Las ventanas emergentes de este sitio web se mostrarán de acuerdo a su configuración por defecto.">
+<!ENTITY popupDefaultMsg.label "Las ventanas emergentes de este sitio web se mostrarán de acuerdo a su configuración predeterminada.">
 <!ENTITY popupBlockCmd.label "Bloquear ventanas emergentes de este sitio web">
 <!ENTITY popupBlockCmd.accesskey "B">
 <!ENTITY popupBlockMsg.label "Las ventanas emergentes de este sitio web no se mostrarán.">
