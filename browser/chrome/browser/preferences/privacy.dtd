@@ -106,7 +106,7 @@
 <!ENTITY  clearOnClose.accesskey         "S">
 
 <!ENTITY  clearOnCloseSettings.label     "Parameters…">
-<!ENTITY  clearOnCloseSettings.accesskey "z">
+<!ENTITY  clearOnCloseSettings.accesskey "m">
 
 <!ENTITY  browserContainersLearnMore.label      "Ulteriuras infurmaziuns">
 <!ENTITY  browserContainersEnabled.label        "Activar ils tabs da container">
