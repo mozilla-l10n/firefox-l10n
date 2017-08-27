@@ -163,5 +163,5 @@
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 <!ENTITY inadequateSecurityError.title "Su conexión no es segura">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que está obsoleta y es vulnerable a ataques. Un atacante podría revelar fácilmente información que usted pensaría que es segura. El administrador del sitio web tendrá que corregir el problema antes de que se pueda visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
-<!ENTITY prefReset.longDesc "Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración por defecto?">
-<!ENTITY prefReset.label "Restableces configuración por defecto">
+<!ENTITY prefReset.longDesc "Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración predeterminada?">
+<!ENTITY prefReset.label "Restablecer configuración predeterminada">
