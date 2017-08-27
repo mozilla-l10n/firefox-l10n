@@ -53,7 +53,8 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights2.webservices-b "ñuna">
+<!ENTITY rights2.webservices-a "&brandFullName; raj sun nej serbisiû nikāj nuguan’ nikò’ web (&quot;Serbisiû&quot;) da’ diganj dàj garasun’ versión binaria si’iaj &brandShortName; nikò’ nej nuguan’ nùn ne’ ñan nan. Si nitāj si ruhuât garasunt ‘ngō nej serbisiû ‘na’ nan nī, ga’ue duyichîn’t nej man. Ga’ue narì’t dàj duyichîn’t nej serbisiû nan hiuj nan ">
+<!ENTITY rights2.webservices-b "Hiuj nan">
 <!ENTITY rights3.webservices-c ". Nej sa huin ruat nagi'iat ni ga'uê ga'anj riña preferencias.">
 
 <!-- safe browsing points for branded builds -->
