@@ -10,20 +10,20 @@
 <!ENTITY pixelsPopup.value "pixels">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "Endereço da imagem:">
-<!ENTITY locationEditField.accessKey "n">
-<!ENTITY locationEditField.tooltip "Digite o endereço ou nome do arquivo da imagem">
-<!ENTITY locationEditField.shortenedDataURI "URI encurtada (cópia substituirá a URI completa na área de transferência)">
-<!ENTITY title.label "Descrição:">
+<!ENTITY locationEditField.label "Localização da imagem:">
+<!ENTITY locationEditField.accessKey "L">
+<!ENTITY locationEditField.tooltip "Digite o nome do arquivo ou a localização da imagem">
+<!ENTITY locationEditField.shortenedDataURI "URI encurtada (a cópia substituirá a URI completa na área de transferência)">
+<!ENTITY title.label "Dica da ferramenta:">
 <!ENTITY title.accessKey "D">
-<!ENTITY title.tooltip "O atributo “title”, normalmente exibido como um balão quando apontado pelo mouse">
-<!ENTITY altText.label "Texto substituto:">
+<!ENTITY title.tooltip "O atributo html 'title' que é exibido como uma dica da ferramenta">
+<!ENTITY altText.label "Texto alternativo:">
 <!ENTITY altText.accessKey "T">
-<!ENTITY altTextEditField.tooltip "Forneça um texto que possa substituir a imagem">
-<!ENTITY noAltText.label "Não usar texto substituto">
+<!ENTITY altTextEditField.tooltip "Digite o texto para ser exibido no lugar da imagem">
+<!ENTITY noAltText.label "Não usar o texto alternativo">
 <!ENTITY noAltText.accessKey "u">
 
-<!ENTITY previewBox.label "Visualizar">
+<!ENTITY previewBox.label "Pré-visualizar a imagem">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
