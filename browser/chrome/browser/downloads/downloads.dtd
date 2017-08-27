@@ -38,6 +38,7 @@
 <!ENTITY learnMore.label "Ulteriori informazioni">
 <!ENTITY downloadsHistory.label "Visualizza tutti i download">
 <!ENTITY downloadsHistory.accesskey "V">
+<!ENTITY downloadDetails.label "Dettagli download">
 <!ENTITY openDownloadsFolder.label "Apri la cartella dei download">
 <!ENTITY clearDownloadsButton.label "Cancella elenco download">
 <!ENTITY clearDownloadsButton.tooltip "Rimuovi dall’elenco i download completati, annullati o non riusciti">
