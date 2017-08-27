@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los sitios fraudulentos están diseñados para engañarte y hacer algo peligroso, como instalar software, o revelar tu información personal, como contraseñas, números de teléfono o tarjetas de crédito.</p><p>Ingresando cualquier información en esta página web puede resultar en robo de identidad u otro fraude.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "El sitio puede contener malware">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox ha bloqueado esta página porque puede intentar instalar aplicaciones peligrosas que roben o borren tu información (por ejemplo, fotos, contraseñas, mensajes y tarjetas de crédito).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ha bloqueado esta página porque podría tratar de instalar aplicaciones peligrosas que roben o eliminen tu información (por ejemplo, fotos, contraseñas, mensajes y tarjetas de crédito).">
