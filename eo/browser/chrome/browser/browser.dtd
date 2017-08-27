@@ -975,3 +975,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Sendi paĝon al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
+
+<!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
