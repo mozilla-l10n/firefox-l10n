@@ -7,16 +7,23 @@
 <!ENTITY  blockPopups.label           "પોપ-અપ વિન્ડો અટકાવો">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "વધુ શીખો">
-<!ENTITY  notificationsPolicyDesc3.label       "કઈ સાઇટ્સને તમને સૂચનાઓ મોકલવાની મંજૂરી છે તે પસંદ કરો">
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
-<!ENTITY  notificationsPolicyButton.label      "પસંદ કરો…">
 <!ENTITY  notificationsDoNotDisturb.label      "મને હેરાન કરશો નહી">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "કોઈ સૂચના બતાવવામાં આવશે નહી જ્યાં સુધી તમે &brandShortName; પુન: શરૂ ન કરો">
 
-<!ENTITY  popupExceptions.label       "અપવાદો...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "અપવાદો...">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  notificationPermissions.label                         "સૂચનાઓ">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "વધુ શીખો">
+
+<!ENTITY  locationPermissions.label                             "સ્થાન">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "કેમેરા">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
 
 <!ENTITY  fontsAndColors.label        "ફોન્ટ &amp; રંગો">
 
