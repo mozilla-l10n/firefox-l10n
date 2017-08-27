@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Bu şəbəkənin proxy-server nizamlarını avtomaik təyin et">
 <!ENTITY  WPADTypeRadio.accesskey       "v">
-<!ENTITY  manualTypeRadio.label         "Proxy-serveri əl ilə tənzimlə:">
-<!ENTITY  manualTypeRadio.accesskey     "ə">
-<!ENTITY  autoTypeRadio.label           "Avtomatik proxy-server nizamlama URL-i:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "Əl ilə proksi tənzimləmə">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "Avtomatik proksi tənzimləmə URL-i">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Yenilə">
 <!ENTITY  reload.accesskey              "l">
-<!ENTITY  ftp.label                     "FTP proxy-serveri:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP proxy-serveri:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL proxy-serveri:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS serveri:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP Proksi">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP Proksi">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL Proksi">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS Serveri">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "S">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 işlədərkən Proksi DNS">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "k">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Proksi istifadə etmə:">
-<!ENTITY  noproxy.accesskey             "m">
+<!ENTITY  noproxy2.label                "Proksi işlədilməsin:">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Məsələn: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bütün əlaqə protokolları üçün bu proxy-serverdən istifadə et">
 <!ENTITY  shareproxy.accesskey          "t">
