@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Nga 'iaj sunj">
 <!ENTITY aboutSupport.a11yForceDisabled "Si ga'ni' gatu'">
 <!ENTITY aboutSupport.a11yHandlerUsed "Gasunt ngo controlador">
+<!ENTITY aboutSupport.a11yInstantiator "Sa ‘iaj hua ni’nïnj gatū’">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Nej versión ma">
 
@@ -138,6 +139,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Nej sa Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Ganahuin ma">
 
+<!ENTITY aboutSupport.mediaTitle "Sa ni'io'">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivo sa ahuii">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivo sa âtuj u">
 <!ENTITY aboutSupport.mediaDeviceName "Si yuguit">
 <!ENTITY aboutSupport.mediaDeviceGroup "Yi'ni'in">
 <!ENTITY aboutSupport.mediaDeviceVendor "So' girì">
+<!ENTITY aboutSupport.mediaDeviceState "Dàj huaj">
+<!ENTITY aboutSupport.mediaDevicePreferred "Sa huin ruhuô' doj">
