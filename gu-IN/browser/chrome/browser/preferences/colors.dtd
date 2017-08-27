@@ -24,5 +24,7 @@
 <!ENTITY  underlineLinks.label            "કડીઓ નીચે લીટી કરો">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "કડી રંગો">
+<!ENTITY  linkColor2.label                "નહિં મુલાકાત લીધેલ કડીઓ">
 <!ENTITY  linkColor2.accesskey            "L">
 <!ENTITY  visitedLinkColor2.label         "મુલાકાત લીધેલ કડીઓ">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

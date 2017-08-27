@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "અપવાદો…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "નીચેની વેબસાઇટોને ઑફલાઇન વપરાશ માટે માહિતી સંગ્રહવાની પરવાનગી છે:">
+<!ENTITY offlineAppsList3.label          "નીચેની વેબસાઇટ્સને ઑફલાઇન ઉપયોગ માટે ડેટા સંગ્રહિત કરવાની મંજૂરી છે">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "દૂર કરો...">
 <!ENTITY offlineAppsListRemove.accesskey "R">
