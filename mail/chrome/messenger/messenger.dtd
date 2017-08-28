@@ -366,7 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Редактиране на чернова на съобщение">
 <!ENTITY editDraftMsgCmd.accesskey "ч">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.label "Съобщение от шаблон">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Създаване на филтър от писмо…">
 <!ENTITY createFilter.accesskey "з">
 <!ENTITY moveMsgToMenu.label "Преместване в">
@@ -735,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Сортиране по притурки">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Съобщение от шаблон">
 <!ENTITY contextOpenNewWindow.label "Отваряне на писмото в нов прозорец">
 <!ENTITY contextOpenNewWindow.accesskey "о">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
