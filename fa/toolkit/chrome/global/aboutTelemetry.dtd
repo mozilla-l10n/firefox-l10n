@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "بازکردن در نمایشگرJSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "نمایش اطلاعات زیرنشست‌ها">
 
@@ -23,11 +24,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 
+<!ENTITY aboutTelemetry.archivePingType "عنوان پینگ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "پینگ">
 
+<!ENTITY aboutTelemetry.optionGroupToday "امروز">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "دیروز">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "قدیمی">
 
 <!ENTITY aboutTelemetry.generalDataSection "  اطلاعات عمومی">
 
@@ -38,8 +43,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  عبارات کند SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  فروپاشی‌های مرورگر">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  فروپاشی‌های Threadها">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  پشته گرفته شده">
 
@@ -59,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  دیرنویس‌ها">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "Payload خام">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  اطلاعات نشست">
 
