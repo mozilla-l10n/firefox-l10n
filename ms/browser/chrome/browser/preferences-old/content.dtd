@@ -19,9 +19,9 @@
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY  fontsAndColors.label        "Font &amp; Warna">
+<!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 
-<!ENTITY  defaultFont.label           "Font piawai:">
+<!ENTITY  defaultFont.label           "Fon piawai:">
 <!ENTITY  defaultFont.accesskey       "p">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">

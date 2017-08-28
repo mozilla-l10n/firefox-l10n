@@ -31,7 +31,7 @@
 <!ENTITY  microphoneSettingsButton.label                        "Tetapan…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "i">
 
-<!ENTITY  fontsAndColors.label        "Font &amp; Warna">
+<!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 
 <!ENTITY  defaultFont2.label          "Fon piawai">
 <!ENTITY  defaultFont2.accesskey      "F">
