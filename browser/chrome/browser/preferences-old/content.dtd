@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Thông báo">
 <!ENTITY  notificationsPolicyLearnMore.label   "Tìm hiểu thêm">
-<!ENTITY  notificationsPolicyDesc3.label       "Chọn các trang được phép gửi thông báo cho bạn">
+<!ENTITY  notificationsPolicyDesc4.label       "Chọn trang web được phép gửi cho bạn thông báo">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Chọn…">
 <!ENTITY  notificationsDoNotDisturb.label      "Không làm phiền tôi">
