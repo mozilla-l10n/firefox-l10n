@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "عمومی">
 
@@ -27,10 +27,10 @@
 <!ENTITY checkUserSpelling.accesskey     "ن">
 
 <!ENTITY dataChoicesTab.label            "انتخاب داده‌ها">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "گزارش کردن اطلاعات برای این پیکربندی ساخته شده غیرفعال شده است">
 
 <!ENTITY healthReportDesc.label          "به شما در درک عملکرد مرورگرتان یاری می‌رساند و اطلاعاتی را در مورد سلامتی مرورگر شما با&vendorShortName; به اشتراک می‌گذارد.">
@@ -59,21 +59,21 @@ available. -->
 <!ENTITY httpCache.label                 "ذخیره محتوا وب در حافظه‌ پنهان">
 
 <!ENTITY offlineStorage2.label           "محتوا وب و اطلاعات کاربر به صورت برون‌خط">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "اطلاعات پایگاه اینترنتی">
 <!ENTITY clearSiteData.label             "پاک کردن همه داده‌ها">
 <!ENTITY clearSiteData.accesskey         "پ">
 <!ENTITY siteDataSettings.label          "تنظیمات…">
 <!ENTITY siteDataSettings.accesskey      "ت">
 <!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "محدود کردن حافظهٔ نهان به">
 <!ENTITY limitCacheSizeBefore.accesskey  "م">
 <!ENTITY limitCacheSizeAfter.label       "مگابایت از فضا">
@@ -130,14 +130,21 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "د">
 
 <!ENTITY performance.label               "کارایی">
-<!ENTITY useRecommendedPerformanceSettings.label "استفاده از تنظیماتِ کارایی توصیه شده">
-<!ENTITY useRecommendedPerformanceSettings.description "این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم شده است.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "س">
-<!ENTITY performanceSettingsLearnMore.label "بیشتر بدانید">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "استفاده از تنظیماتِ کارایی توصیه شده">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم می‌شود.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "س">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "بیشتر بدانید">
 <!ENTITY limitContentProcessOption.label "محدودیت پروسهٔ محتوا">
-<!ENTITY limitContentProcessOption.description "پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.">
+<!ENTITY limitContentProcessOption.description
+                                         "پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.">
 <!ENTITY limitContentProcessOption.accesskey   "م">
-<!ENTITY limitContentProcessOption.disabledDescription "تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی &brandShortName; امکان پذیر است.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "بدانید چگونه بررسی کنید چندپرادزشی فعال است یا خیر">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی &brandShortName; امکان پذیر است.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "بدانید چگونه بررسی کنید چندپرادزشی فعال است یا خیر">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">

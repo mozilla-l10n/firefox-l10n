@@ -95,7 +95,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
-<!ENTITY updateAuto3.label               "به صورت خودکار بروزرسانی نصب شود (پیشنهاد می‌شود)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود">
 <!ENTITY updateCheckChoose2.accesskey    "و">
@@ -139,7 +138,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "استفاده از تنظیماتِ کارایی توصیه شده">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم شده است.">
+                                         "این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم می‌شود.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "س">
 <!ENTITY performanceSettingsLearnMore.label
