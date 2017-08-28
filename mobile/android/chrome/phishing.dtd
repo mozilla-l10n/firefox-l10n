@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "As páginas de software indesejado, tentam instalar software que pode ser enganoso e afetar o seu sistema de formas inesperadas.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "O seguinte site pode conter malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloqueou esta página porque ela pode tentar instalar aplicativos perigosos que roubam ou excluem suas informações (por exemplo, fotos, senhas, mensagens e números de cartões de crédito).">

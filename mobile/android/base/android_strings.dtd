@@ -4,10 +4,12 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
 <!ENTITY firstrun_urlbar_message2 "Obrigado por escolher o &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Um moderno navegador para dispositivos móveis da Mozilla, a fundação sem fins lucrativos comprometida com uma Web livre e aberta.">
 <!ENTITY firstrun_panel_title_privacy "Privacidade">
 <!ENTITY firstrun_privacy_message "Navegue como se ninguém estivesse olhando">
 <!ENTITY firstrun_privacy_subtext "A Navegação Privativa com Proteção Contra Rastreamento bloqueia rastreadores enquanto você navega e não irá memorizar o seu histórico quando você terminar.">
 <!ENTITY firstrun_panel_title_customize "Personalizar">
+<!ENTITY firstrun_customize_message "Faça o &brandShortName; seu.">
 <!ENTITY firstrun_customize_subtext "Personalize o &brandShortName; com extensões. Bloqueie anúncios, adicione recursos, ou escolha um novo tema para refletir sua personalidade.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Completamente seu">
