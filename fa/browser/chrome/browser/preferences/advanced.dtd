@@ -95,7 +95,7 @@ available. -->
 <!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
-<!ENTITY updateAuto3.label               "&amp; به صورت خودکار بروزرسانی نصب شود (پیشنهاد می‌شود)">
+<!ENTITY updateAuto3.label               "به صورت خودکار بروزرسانی نصب شود (پیشنهاد می‌شود)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود">
 <!ENTITY updateCheckChoose2.accesskey    "و">
