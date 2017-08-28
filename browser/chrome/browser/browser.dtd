@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "გადმოიტანეთ რჩეული ელემენტები ხელსაწყოთა ზოლში ან ჩამოსაშლელ მენიუში.">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი ათასობით დამატებიდან">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი, ათასობით დამატებიდან">
 <!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
 <!ENTITY customizeMode.done "მზადაა">
 <!ENTITY customizeMode.titlebar "სათაურის ზოლი">
@@ -869,7 +869,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ჩანართიდან აუდიო გაზიარდება.">
 <!ENTITY getUserMedia.allWindowsShared.message "ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.">
 
-<!ENTITY trackingProtection.title "თვალყურისგან დაცვა">
+<!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელის შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. თქვენ გამორთული გაქვთ დაცვა.">
 <!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
@@ -894,7 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "გ">
 <!ENTITY trackingContentBlocked.block.label "დაცვის ჩართვა">
 <!ENTITY trackingContentBlocked.block.accesskey "რ">
-<!ENTITY trackingContentBlocked.disabled.message "თვალყურისგან დაცვა გამორთულია">
+<!ENTITY trackingContentBlocked.disabled.message "თვალთვალისგან დაცვა გამორთულია">
 
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
 <!ENTITY pluginNotification.showAll.accesskey "ყ">
