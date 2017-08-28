@@ -126,18 +126,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę" >
 <!ENTITY editThisBookmarkCmd.label "Edytuj zakładkę">
 <!ENTITY bookmarkThisPageCmd.commandkey "d" >
-<!ENTITY findShareServices.label "Więcej serwisów udostępniania…">
-<!ENTITY sharePageCmd.label "Udostępnij tę stronę">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "U">
-<!ENTITY shareLink.label "Udostępnij ten odnośnik">
-<!ENTITY shareLink.accesskey "U">
-<!ENTITY shareImage.label "Udostępnij ten obraz">
-<!ENTITY shareImage.accesskey "s">
-<!ENTITY shareSelect.label "Udostępnij zaznaczenie">
-<!ENTITY shareSelect.accesskey "s">
-<!ENTITY shareVideo.label "Udostępnij to wideo">
-<!ENTITY shareVideo.accesskey "s">
 <!ENTITY feedsMenu2.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
@@ -678,14 +666,6 @@
 <!ENTITY syncReAuthItem.label "Zaloguj się ponownie, aby synchronizować…">
 <!ENTITY syncReAuthItem.accesskey "Z">
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
-
-<!ENTITY social.addons.label "Zarządzaj usługami…">
-
-<!ENTITY social.directory.label "Katalog aktywowania">
-<!ENTITY social.directory.text "Poprzez katalog można dodać obsługę serwisów udostępniania.">
-<!ENTITY social.directory.button "Przejdź">
-<!ENTITY social.directory.introText "Wybierz serwis, by dodać go do programu &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Więcej">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Dodatkowe funkcje i opcje">
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
