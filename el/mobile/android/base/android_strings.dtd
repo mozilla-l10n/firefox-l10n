@@ -7,8 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Ένα σύγχρονο πρόγραμμα περιήγησης για κινητά από τη Mozilla, τον μη κερδοσκοπικό οργανισμό, που έχει αφοσιωθεί σε ένα ελεύθερο και ανοικτό διαδίκτυο.">
 <!ENTITY firstrun_panel_title_privacy "Απόρρητο">
 <!ENTITY firstrun_privacy_message "Περιηγηθείτε σαν να μην βλέπει κανείς">
+<!ENTITY firstrun_privacy_subtext "Η ιδιωτική περιήγηση με προστασία από παρακολούθηση αποκλείει ιχνηλάτες ενώ περιηγείστε και θα διαγράψει το ιστορικό σας όταν τελειώσετε με την περιήγηση.">
 <!ENTITY firstrun_panel_title_customize "Προσαρμογή">
 <!ENTITY firstrun_customize_message "Κάντε το &brandShortName; δικό σας.">
+<!ENTITY firstrun_customize_subtext "Προσαρμόστε το &brandShortName; με πρόσθετα. Αποκλείστε διαφημίσεις, προσθέστε λειτουργίες ή επιλέξτε ένα νέο θέμα για να αναδείξετε την προσωπικότητά σας.">
 <!ENTITY firstrun_bookmarks_title "Ιστορικό">
 <!ENTITY firstrun_bookmarks_message "Τα αγαπημένα σας, στο επίκεντρο">
 <!ENTITY firstrun_bookmarks_subtext "Λάβετε αποτελέσματα από τους σελιδοδείκτες και το ιστορικό σας όταν κάνετε αναζήτηση.">
@@ -16,6 +18,8 @@
 <!ENTITY firstrun_data_message "Λιγότερα δεδομένα, μεγαλύτερη οικονομία">
 <!ENTITY firstrun_data_subtext2 "Απενεργοποιήστε τις εικόνες για να ξοδεύετε λιγότερα δεδομένα σε κάθε ιστοσελίδα που επισκέπτεστε.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Συνεχίστε από εκεί που σταματήσατε.">
+<!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
 <!ENTITY  onboard_start_button_browser "Έναρξη περιήγησης">
@@ -854,3 +858,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "Δεν θα διατηρείται το ιστορικό, ωστόσο τα ληφθέντα αρχεία και οι νέοι σελιδοδείκτες θα αποθηκεύονται στη συσκευή σας.">
 <!ENTITY private_tab_learn_more "Θέλετε να μάθετε περισσότερα;">
 
+<!ENTITY fullscreen_warning "Εισήχθη σε πλήρη οθόνη">
