@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY dataCollection.label            "Datainnsamling og bruk for &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Vi prøver alltid å gje deg val og samlar berre det vi treng for å levere og forbetre &brandShortName; for alle. Vi ber alltid om løyve før vi aksepterer personopplysningar.">
-<!ENTITY dataCollectionPrivacyNotice.label    "Personvernpraksis">
+<!ENTITY dataCollectionPrivacyNotice.label    "Personvernerklæring">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Tillat &brandShortName; å sende krasjrapportar til Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "T">
