@@ -20,8 +20,9 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "نمایش ورودی‌ها">
 <!ENTITY aboutUrlClassifier.cacheEntries                "ورودی‌های نهان">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "پیشوند">
-<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "جهت یابی زمان انقضا ذخیره سازی موقت">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           " زمان انقضا ذخیره سازی موقت منفی">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "هش کامل">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "زمان انقضا ذخیره سازی موقت مثبت">
 <!ENTITY aboutUrlClassifier.debugTitle                  "اشکال‌زدایی">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "تنظیم ماژول‌های وقایع">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "تنظیم پرونده وقایع">
