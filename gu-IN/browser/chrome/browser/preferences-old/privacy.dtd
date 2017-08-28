@@ -39,7 +39,9 @@
 
 <!ENTITY  suggestionSettings.accesskey  "g">
 
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty.pre.label      "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
