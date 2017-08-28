@@ -4,11 +4,15 @@
 
 <!ENTITY  general.label                 "General">
 
+<!ENTITY  warnOnAddonInstall2.label       "M'avertir quand los sites web ensajan d'installar de moduls complementaris">
+<!ENTITY  warnOnAddonInstall2.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "Bloca lo contengut perilhós e enganaires">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 
 

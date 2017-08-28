@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Remplaçar las colors especificadas per la pagina amb aquelas causidas çai-dessús :">
 <!ENTITY  overrideDefaultPageColors.accesskey    "R">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Totjorn">
