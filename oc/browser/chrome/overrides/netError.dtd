@@ -11,7 +11,6 @@
 
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "Impossible de se connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
@@ -25,12 +24,13 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
 
-
 <!ENTITY generic.title "La requèsta pòt pas abotir">
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
 
+<!ENTITY captivePortal.title "Se connectar al ret">
+<!ENTITY captivePortal.longDesc2 "<p>Cal se connectar a aqueste ret per accedir a Internet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Dobrir la pagina de connexion al ret">
 
 <!ENTITY malformedURI.title "Aquesta adreça es pas valida.">
 <!ENTITY malformedURI.longDesc "<ul> <li>La sintaxi de las adreças web es generalament <strong>http://www.exemple.com/</strong></li> <li>Asseguratz-vos qu'utilizatz plan las bonas barras oblicas (es a dire <strong>/</strong>).</li> </ul>">
@@ -99,16 +99,13 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informacion avançada: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
 
