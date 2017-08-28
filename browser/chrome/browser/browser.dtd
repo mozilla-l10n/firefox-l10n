@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Lisa see veebileht järjehoidjatesse">
 <!ENTITY editThisBookmarkCmd.label "Muuda seda järjehoidjat">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Vaata teisi jagamise teenuseid…">
-<!ENTITY sharePageCmd.label "Jaga seda lehte">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "J">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Jaga seda linki">
-<!ENTITY shareLink.accesskey "s">
-<!ENTITY shareImage.label "Jaga seda pilti">
-<!ENTITY shareImage.accesskey "J">
-<!ENTITY shareSelect.label "Jaga valitud sisu">
-<!ENTITY shareSelect.accesskey "J">
-<!ENTITY shareVideo.label "Jaga seda videot">
-<!ENTITY shareVideo.accesskey "J">
+
 <!ENTITY feedsMenu2.label "Telli selle lehe uudistevoog">
 <!ENTITY subscribeToPageMenupopup.label "Selle veebilehe uudistevoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label "Telli selle veebilehe uudistevoog...">
@@ -244,10 +229,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Järjehoidjad">
-<!ENTITY bookmarksMenuButton.other.label "Muud järjehoidjad">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobiilsed järjehoidjad">
+<!ENTITY bookmarksMenuButton.other.label    "Muud järjehoidjad">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobiilsed järjehoidjad">
 <!ENTITY viewBookmarksSidebar2.label        "Kuva järjehoidjate külgriba">
+<!ENTITY hideBookmarksSidebar.label         "Peida järjehoidjate külgriba">
 <!ENTITY viewBookmarksToolbar.label         "Kuva järjehoidjariba">
+<!ENTITY hideBookmarksToolbar.label         "Peida järjehoidjariba">
+<!ENTITY searchBookmarks.label              "Otsi järjehoidjatest">
+<!ENTITY bookmarkingTools.label             "Järjehoidjate tööriistad">
+<!ENTITY addBookmarksMenu.label             "Lisa järjehoidjate menüü tööriistaribale">
+<!ENTITY removeBookmarksMenu.label          "Eemalda järjehoidjate menüü tööriistaribalt">
 
 <!ENTITY containersMenu.label "Konteinerid">
 
@@ -261,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Tööriistad">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Lisa võti sellele otsingule...">
 <!ENTITY keywordfield.accesskey       "v">
@@ -280,7 +271,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey "n">
 
-<!ENTITY fileMenu.label         "Fail"> 
+<!ENTITY fileMenu.label         "Fail">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Uus konteinerkaart">
 <!ENTITY newUserContext.accesskey         "o">
@@ -291,46 +282,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Uus e10s'ta aken">
 
-<!ENTITY editMenu.label         "Redigeerimine"> 
-<!ENTITY editMenu.accesskey       "R"> 
-<!ENTITY undoCmd.label            "Võta tagasi">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "V"> 
-<!ENTITY redoCmd.label            "Tee uuesti">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "T"> 
-<!ENTITY cutCmd.label           "Lõika">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "L"> 
-<!ENTITY copyCmd.label            "Kopeeri">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Aseta">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "A"> 
-<!ENTITY deleteCmd.label          "Kustuta">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "u"> 
-<!ENTITY selectAllCmd.label         "Vali kõik">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "i"> 
+<!ENTITY editMenu.label         "Redigeerimine">
+<!ENTITY editMenu.accesskey       "R">
+<!ENTITY undoCmd.label            "Võta tagasi">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "V">
+<!ENTITY redoCmd.label            "Tee uuesti">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "T">
+<!ENTITY cutCmd.label           "Lõika">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "L">
+<!ENTITY copyCmd.label            "Kopeeri">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Aseta">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "A">
+<!ENTITY deleteCmd.label          "Kustuta">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "u">
+<!ENTITY selectAllCmd.label         "Vali kõik">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "i">
 <!ENTITY preferencesCmd2.label       "Sätted">
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Eelistused">
-<!ENTITY preferencesCmdUnix.accesskey     "E"> 
+<!ENTITY preferencesCmdUnix.accesskey     "E">
 
 <!ENTITY clearRecentHistory.label               "Kustuta hiljutine ajalugu…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Vaade"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "Tööriistaribad"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "Vaade">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "Tööriistaribad">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Külgriba">
 <!ENTITY viewSidebarMenu.accesskey "K">
-<!ENTITY viewCustomizeToolbar.label       "Kohanda..."> 
+<!ENTITY viewCustomizeToolbar.label       "Kohanda...">
 <!ENTITY viewCustomizeToolbar.accesskey     "o">
+<!ENTITY overflowCustomizeToolbar.label       "Kohanda tööriistariba…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "K">
 
 <!ENTITY historyMenu.label "Ajalugu">
 <!ENTITY historyMenu.accesskey "A">
@@ -351,6 +344,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Kustuta hiljutine ajalugu…">
 <!ENTITY appMenuHistory.restoreSession.label "Taasta eelmine seanss">
 <!ENTITY appMenuHistory.viewSidebar.label "Kuva ajaloo külgriba">
+<!ENTITY appMenuHistory.recentHistory.label "Hiljutine ajalugu">
+<!ENTITY appMenuHelp.label "Abi">
 <!ENTITY appMenuHelp.tooltip "Ava abimenüü">
 
 <!ENTITY appMenuRemoteTabs.label "Sünkroniseeritud kaardid">
@@ -518,7 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vaata valiku lähtekoodi">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vaata MathML lähtekoodi">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vaata veebilehe lähtekoodi">
@@ -584,7 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopeeri pildi aadress">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopeeri pilt">
-<!ENTITY copyImageContentsCmd.accesskey  "e"> 
+<!ENTITY copyImageContentsCmd.accesskey  "e">
 <!ENTITY copyVideoURLCmd.label        "Kopeeri video aadress">
 <!ENTITY copyVideoURLCmd.accesskey    "e">
 <!ENTITY copyAudioURLCmd.label        "Kopeeri audio aadress">
@@ -679,12 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Välju &brandShorterName;ist">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Välju"> 
+<!ENTITY quitApplicationCmd.label       "Välju">
 <!ENTITY quitApplicationCmd.accesskey   "j">
 <!ENTITY quitApplicationCmdMac2.label   "Välju &brandShorterName;ist">
 
-<!ENTITY closeCmd.label                 "Sulge">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Sulge">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "u">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -819,15 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "T">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Halda teenuseid…">
-
-<!ENTITY social.directory.label "Teenuste kataloog">
-<!ENTITY social.directory.text "Kataloogist on võimalik aktiveerida jagamise teenuseid.">
-<!ENTITY social.directory.button "Vii mind sinna!">
-<!ENTITY social.directory.introText "Teenuse lisamiseks &brandShortName;i klõpsa sellel.">
-<!ENTITY social.directory.viewmore.text "Vaata rohkem">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Täiendavad tööriistad ja võimalused">
 <!ENTITY customizeMode.menuAndToolbars.empty "Soovid rohkem tööriistu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
 <!ENTITY customizeMode.restoreDefaults "Taasta vaikeväärtused">
@@ -957,4 +943,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
+
 
