@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "સૂચનાઓ">
 <!ENTITY  notificationsPolicyLearnMore.label   "વધુ શીખો">
-<!ENTITY  notificationsPolicyDesc3.label       "કઈ સાઇટ્સને તમને સૂચનાઓ મોકલવાની મંજૂરી છે તે પસંદ કરો">
+<!ENTITY  notificationsPolicyDesc4.label       "કઈ વેબસાઇટ્સને તમને સૂચનાઓ મોકલવાની મંજૂરી છે તે પસંદ કરો">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "પસંદ કરો…">
 <!ENTITY  notificationsDoNotDisturb.label      "મને હેરાન કરશો નહી">
