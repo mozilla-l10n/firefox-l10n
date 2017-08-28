@@ -20,6 +20,10 @@
 Ακατέργαστη JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Άνοιγμα στην προβολή JSON
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Εμφάνιση δεδομένων υποσυνεδρίας
 ">
@@ -79,10 +83,6 @@ Ping
   "Κολλήματα" προγράμματος περιήγησης
 '>
 
-<!ENTITY aboutTelemetry.threadHangStatsSection '
-  "Κολλήματα" νήματος
-'>
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Κατειλημμένες Στοίβες
 ">
@@ -117,6 +117,10 @@ Ping
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Καθυστερημένες εγγραφές
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Ακατέργαστο ωφέλιμο φορτίο
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
