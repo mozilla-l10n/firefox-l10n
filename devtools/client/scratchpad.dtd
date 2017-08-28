@@ -62,12 +62,12 @@
 <!ENTITY highlightTrailingSpace.label     "Serlahkan Ruang Mengekor">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "Rupa Huruf Lebih Besar">
+<!ENTITY largerFont.label             "Fon Lebih Besar">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY smallerFont.label            "Rupa Huruf Lebih Kecil">
+<!ENTITY smallerFont.label            "Fon Lebih Kecil">
 <!ENTITY smallerFont.accesskey        "i">
 <!ENTITY smallerFont.commandkey       "-">
 
