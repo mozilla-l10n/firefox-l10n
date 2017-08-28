@@ -46,7 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "تعداد برتری حافظه‌نهان">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "تعداد برتری شبکه">
 <!ENTITY aboutNetworking.totalNetworkRequests  "مجموع تعداد درخواست‌های شبکه">
+<!ENTITY aboutNetworking.rcwnOperation         "عملیات ذخیره‌ سازی موقت">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "باز کردن">
 <!ENTITY aboutNetworking.rcwnPerfRead          "خواندن">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "نوشتن">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "ورودی باز">
+<!ENTITY aboutNetworking.rcwnAvgShort          "میانگین کوتاه">
+<!ENTITY aboutNetworking.rcwnAvgLong           "میانگین بلند">
+<!ENTITY aboutNetworking.rcwnStddevLong        "انحراف استاندارد بلند">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "شمارش آرام ذخیره سازی موقت">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "شماره سریع ذخیره سازی موقت">
