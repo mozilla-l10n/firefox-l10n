@@ -782,5 +782,5 @@
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
 
-<!ENTITY sendToDevice.label2 "Wyślij na urządzenie">
+<!ENTITY sendToDevice.label3 "Wyślij stronę na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
