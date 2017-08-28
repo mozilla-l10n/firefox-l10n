@@ -232,7 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Други отметки">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобилни отметки">
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
+<!ENTITY hideBookmarksSidebar.label         "Скриване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
+<!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
 
 <!ENTITY containersMenu.label "Изолатори">
@@ -967,4 +969,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
+<!ENTITY sendToDevice.label3 "Изпращане на страницата към устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
+
