@@ -383,6 +383,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Lisa nurgatagusesse menüüsse">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "n">
 <!ENTITY customizeMenu.moveToToolbar.label "Liiguta tööriistaribale">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "i">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -392,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Liiguta menüüsse">
 <!ENTITY customizeMenu.moveToPanel.accesskey "g">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Liiguta nurgatagusesse menüüsse">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "r">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eemalda nurgatagusest menüüst">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eemalda tööriistaribalt">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
 <!ENTITY customizeMenu.removeFromMenu.label "Eemalda menüüst">
@@ -460,6 +466,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Otsi">
+<!ENTITY searchIcon.tooltip           "Otsi">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -543,6 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "n">
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
+<!ENTITY copyURLCmd.label             "Kopeeri URL">
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Salvesta veebileht kui…">
