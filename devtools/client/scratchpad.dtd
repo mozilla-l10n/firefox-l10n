@@ -59,6 +59,8 @@
 <!ENTITY wordWrap.label                "بسته بندی کردن متن">
 <!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "برجسته سازی فضای Trailing">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "قلم بزرگتر">
 <!ENTITY largerFont.accesskey         "ق">
@@ -122,6 +124,8 @@
 <!ENTITY helpMenuWin.label            "راهنما">
 <!ENTITY helpMenuWin.accesskey        "ر">
 
+<!ENTITY documentationLink.label      "نمایش راهنما دفترچه راهنما کد بر روی MDN">
+<!ENTITY documentationLink.accesskey  "D">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
