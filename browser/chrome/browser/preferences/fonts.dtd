@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "ફોન્ટ">
 
-<!ENTITY  language.label                          "ફોન્ટ આ માટે:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "ફોન્ટ્સ માટે">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "માપ:">
+<!ENTITY  size2.label                             "કદ">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "પ્રમાણમાપમાં:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "પ્રમાણસરનું">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "શેરીફ:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "સાન્સ-શેરીફ:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "મોનોસ્પેસ:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "શેરીફ">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "સાન્સ-સેરીફ">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "મોનોસ્પેસ">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "સિંહાલા">
 <!ENTITY  font.langGroup.tibetan                  "ટિબેટન">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ન્યૂનતમ ફોન્ટ માપ:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "ન્યૂનતમ ફોન્ટ માપ">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "કંઈ નહિ">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "વસિયત સામગ્રી માટે ટેક્સ્ટ એન્કોડિંગ">
-<!ENTITY languages.customize.Fallback2.label      "ફોલબેક ટેક્સ્ટ એન્કોડિંગ:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "વૈકલ્પિક ટેક્સ્ટ એન્કોડિંગ">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "આ ટેક્સ્ટ એન્કોડિંગનો ઉપયોગ વસિયત સામગ્રી માટે થાય છે જે તેના એન્કોડિંગને જાહેર કરવામાં નિષ્ફળ જાય છે.">
 
 <!ENTITY languages.customize.Fallback.auto        "વર્તમાન લોકેલ માટે મૂળભૂત">
