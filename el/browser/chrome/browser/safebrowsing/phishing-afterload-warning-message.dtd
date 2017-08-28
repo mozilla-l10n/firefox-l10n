@@ -33,6 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Οι παραπλανητικές ιστοσελίδες έχουν σχεδιαστεί για να σάς ξεγελάσουν, ώστε να κάνετε κάτι επικίνδυνο, όπως εγκατάσταση λογισμικού ή αποκάλυψη προσωπικών πληροφοριών, όπως κωδικούς πρόσβασης, αριθμούς τηλεφώνου ή πιστωτικών καρτών.</p><p>Η καταχώρηση οποιασδήποτε πληροφορίας σε αυτή την ιστοσελίδα μπορεί να οδηγήσει σε κλοπή ταυτότητας ή άλλη απάτη.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Η ιστοσελίδα αυτή ενδέχεται να περιέχει κακόβουλο λογισμικό">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Το Firefox απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να προσπαθήσει να εγκαταστήσει επικίνδυνες εφαρμογές, οι οποίες υποκλέπτουν ή διαγράφουν τις πληροφορίες σας (για παράδειγμα, φωτογραφίες, κωδικοί πρόσβασης, μηνύματα και πιστωτικές κάρτες).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Το &brandShortName; απέκλεισε αυτή τη σελίδα, επειδή ενδέχεται να αποπειραθεί να εγκαταστήσει επικίνδυνες εφαρμογές, που υποκλέπτουν ή διαγράφουν τις πληροφορίες σας (για παράδειγμα, φωτογραφίες, κωδικοί πρόσβασης, μηνύματα και πιστωτικές κάρτες).">
