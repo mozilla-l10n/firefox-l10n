@@ -10,7 +10,4 @@
 <!ENTITY actionColumn2.label "Czynność">
 <!ENTITY actionColumn2.accesskey "">
 
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-
 <!ENTITY filter2.emptytext "Typ pliku lub nazwa aplikacji">
