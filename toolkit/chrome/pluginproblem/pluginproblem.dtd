@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "این پایگاه اینترنتی از افزونه ای استفاده می‌ کند که ممکن است باعث کندی &brandShortName; شود.">
+<!ENTITY pluginActivationWarning                             "این پایگاه اینترنتی از افزونه‌ای استفاده می‌‌کند که ممکن است باعث کندی &brandShortName; شود.">
 <!ENTITY tapToPlayPlugin                                     "برای فعال‌سازی افزونه، فشار دهید.">
 <!ENTITY clickToActivatePlugin                               "افزونه‌های فعال">
 <!ENTITY checkForUpdates                                     "بررسی بروزرسانی …">
