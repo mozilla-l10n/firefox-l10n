@@ -24,6 +24,8 @@
 <!ENTITY  cameraPermissions.label                               "કેમેરા">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "માઇક્રોફોન">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "ફોન્ટ &amp; રંગો">
 
