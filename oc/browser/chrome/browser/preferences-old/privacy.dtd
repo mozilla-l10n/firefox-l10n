@@ -14,16 +14,15 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "E">
 
 <!ENTITY tracking.label                 "Pistatge">
-
-
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ne saber mai">
 <!ENTITY changeBlockList.label          "Cambiar la llista de blocatge">
 <!ENTITY changeBlockList.accesskey      "C">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Tanben podètz...">
-
+<!ENTITY  doNotTrack.settings.label     "gerir los paramètres de « Me pistar pas »">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Istoric">
@@ -37,13 +36,14 @@
 <!ENTITY  locbar.bookmarks.accesskey    "F">
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
 <!ENTITY  locbar.openpage.accesskey     "D">
+<!ENTITY  locbar.searches.label         "Recèrcas parivas del motor de recèrca per defaut">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "Modificar las preferéncias per las suggestions de recerca…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
-
-
-
-<!ENTITY  acceptCookies.label           "Acceptar de cookies de sites">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies2.label          "Acceptar de cookies dels sites web">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Acceptar los cookies tèrces :">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
@@ -71,10 +71,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; conservarà las donadas de navigacion, los telecargaments, los formularis e l'istoric recèrca e los cookies dels sites web que visitaretz.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Benlèu que volètz">
 <!ENTITY  rememberActions.clearHistory.label  "voidar tot l'istoric recent">
 <!ENTITY  rememberActions.middle.label        ", o ">
@@ -82,9 +82,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; utilizarà los meteisses paramètres que per la navigacion privada e conservarà pas cap d'istoric quand navigaretz sus internet.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Benlèu que volètz">
 <!ENTITY  dontrememberActions.clearHistory.label "escafar la totalitat de l'istoric actual">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -104,8 +104,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Paramètres…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "Onglet contèxtual">
 <!ENTITY  browserContainersLearnMore.label      "Ne saber mai">
-
-
+<!ENTITY  browserContainersEnabled.label        "Onglet contèxtual activat">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Paramètres…">
 <!ENTITY  browserContainersSettings.accesskey    "t">

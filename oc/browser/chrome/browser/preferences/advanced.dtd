@@ -116,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "Los sites web seguents son autorizats a servar de donadas per un usatge desconnectat">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Suprimir...">
 <!ENTITY offlineAppsListRemove.accesskey "S">
@@ -134,11 +135,18 @@ available. -->
 <!ENTITY viewSecurityDevices2.label      "Periferics de seguretat…">
 <!ENTITY viewSecurityDevices2.accesskey  "P">
 
+<!ENTITY performance.label               "Performanças">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Utilizar los paramètres de performança recomandadas">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Aquestes paramètres son adaptats al material e sistèma operatiu de vòstre ordenador.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ne saber mai">
 <!ENTITY limitContentProcessOption.label "Limita del procediment del contengut">
+<!ENTITY limitContentProcessOption.description
+                                         "De procediments de contengut suplementaris pòdon melhorar las performanças en utiliazar d'onglets multiples, pasmens aquò utiliza mai de memòria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de &brandShortName;.">
