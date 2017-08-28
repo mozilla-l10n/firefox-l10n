@@ -37,21 +37,21 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ჩანართის მიმაგრება">
-<!ENTITY  pinTab.accesskey                   "რ">
+<!ENTITY  pinTab.accesskey                   "მ">
 <!ENTITY  unpinTab.label                     "ჩანართის მოხსნა">
 <!ENTITY  unpinTab.accesskey                 "ხ">
 <!ENTITY  sendTabToDevice.label              "ჩანართის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendTabToDevice.accesskey          "ჩ">
+<!ENTITY  sendTabToDevice.accesskey          "წ">
 <!ENTITY  sendPageToDevice.label             "გვერდის გაგზავნა მოწყობილობაზე">
 <!ENTITY  sendPageToDevice.accesskey         "გ">
 <!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendLinkToDevice.accesskey         "ბ">
+<!ENTITY  sendLinkToDevice.accesskey         "წ">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ყ">
+<!ENTITY  bookmarkAllTabs.accesskey          "შ">
 <!ENTITY  undoCloseTab.label                 "დახურული ჩანართის დაბრუნება">
-<!ENTITY  undoCloseTab.accesskey             "დ">
+<!ENTITY  undoCloseTab.accesskey             "ხ">
 <!ENTITY  closeTab.label                     "ჩანართის დახურვა">
 <!ENTITY  closeTab.accesskey                 "უ">
 
@@ -79,7 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "გ">
 
 <!ENTITY menubarCmd.label "მენიუს ზოლი">
-<!ENTITY menubarCmd.accesskey "მ">
+<!ENTITY menubarCmd.accesskey "ზ">
 <!ENTITY navbarCmd.label "ნავიგაციის ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.label "სანიშნეების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
@@ -88,7 +88,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ყველა ჩანართის განახლება">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ყ">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ყველა ჩანართის ჩანიშვნა…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ა">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "შ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "დახურული ჩანართის დაბრუნება">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "დ">
 
