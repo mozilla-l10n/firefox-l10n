@@ -23,6 +23,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nom de l'aparelh">
+<!ENTITY changeSyncDeviceName2.label "Cambiar lo nom del periferic…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Anullar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Enregistrar">
@@ -54,18 +56,24 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cambiar la fòto de perfil de l'utilizaire">
 <!ENTITY verifiedManage.label        "Gestion del compte">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "Se desconectar…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verificar l'adreça electronica">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Doblidar aquesta adreça electronica">
 <!ENTITY forget.accesskey            "b">
 
+<!ENTITY signedOut.caption            "Emportatz vòstre Web pertot">
 
+<!ENTITY signedIn.settings.label       "Paramètres de sincronizacion">
+<!ENTITY signedIn.settings.description "Causir çò que cal sincronizar per vòstres periferics qu'utilizan &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "Telecargar Firefox per ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
@@ -74,3 +82,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " per sincronizar vòstre periferic mobil.">

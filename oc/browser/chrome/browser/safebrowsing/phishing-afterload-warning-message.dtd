@@ -14,6 +14,8 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "Perqué la pagina es estada blocada ?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "Avís donat per <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "Site d'atac raportat !">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -24,8 +26,8 @@
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web sus <span id='unwanted_sitename'/> es estat raportada coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 
-
+<!ENTITY safeb.blocked.phishingPage.title2 "Site enganaire !">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Lo site web de <span id='phishing_sitename'/>es estat raportat coma un site contrafait e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
 
-
+<!ENTITY safeb.blocked.harmfulPage.title "Aqueste site pòt conténer de logicials malvolents">

@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "i">
 
 <!ENTITY noTranslationForSites.label      "Cap de traduccion serà pas prepausada pels sites seguentas :">
-<!ENTITY treehead.siteName.label          "Sites">
+<!ENTITY treehead.siteName2.label         "Sites web">
 <!ENTITY removeSite.label                 "Suprimir lo site">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "Suprimir totes los sites">
