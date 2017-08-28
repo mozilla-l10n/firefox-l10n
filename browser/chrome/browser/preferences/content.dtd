@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Спиране на изскачащите прозорци">
 <!ENTITY  blockPopups.accesskey       "С">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Научете повече">
-<!ENTITY  notificationsPolicyDesc4.label       "Изберете на кои уебсайтове е разрешено да ви изпращат известия">
-<!ENTITY  notificationsPolicyButton.accesskey  "И">
-<!ENTITY  notificationsPolicyButton.label      "Избиране…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме безпокойте">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "з">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Няма да бъдат показвани известия до следващ рестарт на &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Изключения…">
-<!ENTITY  popupExceptions.accesskey   "з">
+<!ENTITY  popupExceptions.label                                 "Изключения…">
+<!ENTITY  popupExceptions.accesskey                             "з">
+
+<!ENTITY  notificationPermissions.label                         "Известия">
+<!ENTITY  notificationSettingsButton.label                      "Настройки…">
+<!ENTITY  notificationSettingsButton.accesskey                  "с">
+<!ENTITY  notificationPermissionsLearnMore.label                "Научете повече">
+
+<!ENTITY  locationPermissions.label                             "Местоположение">
+<!ENTITY  locationSettingsButton.label                          "Настройки…">
+<!ENTITY  locationSettingsButton.accesskey                      "с">
+
+<!ENTITY  cameraPermissions.label                               "Камера">
+<!ENTITY  cameraSettingsButton.label                            "Настройки…">
+<!ENTITY  cameraSettingsButton.accesskey                        "с">
+
+<!ENTITY  microphonePermissions.label                           "Микрофон">
+<!ENTITY  microphoneSettingsButton.label                        "Настройки…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "с">
 
 <!ENTITY  fontsAndColors.label        "Шрифтове и цветове">
 
