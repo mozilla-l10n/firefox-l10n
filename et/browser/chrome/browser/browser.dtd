@@ -677,6 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "u">
 
 <!ENTITY sidebarCloseButton.tooltip     "Sulge külgriba">
+<!ENTITY sidebarMenuClose.label         "Sulge külgriba">
 
 <!ENTITY quitApplicationCmdWin2.label       "Välju">
 <!ENTITY quitApplicationCmdWin2.accesskey   "j">
@@ -686,6 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Välju">
 <!ENTITY quitApplicationCmd.accesskey   "j">
 <!ENTITY quitApplicationCmdMac2.label   "Välju &brandShorterName;ist">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Sulge">
 <!ENTITY closeCmd.key                   "W">
@@ -737,6 +739,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "See leht on loodud arvutisse salvestatud faili põhjal.">
 <!ENTITY identity.connectionVerified2 "Ühenduse selle saidiga on turvaline. Saidi omanik on ">
 <!ENTITY identity.connectionInternal "See on turvaline &brandShortName;i leht.">
+<!ENTITY identity.extensionPage "Selle lehe sisu pärineb laienduselt.">
 <!ENTITY identity.insecureLoginForms2 "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 
 <!-- Strings for connection state warnings. -->
@@ -823,9 +826,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "T">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Lohista oma lemmik elemendid tööriistaribale või nurgatagusesse menüüsse.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Soovid rohkem tööriistu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
 <!ENTITY customizeMode.restoreDefaults "Taasta vaikeväärtused">
+<!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Tiitliriba">
 <!ENTITY customizeMode.toolbars2 "Tööriistaribad">
 <!ENTITY customizeMode.lwthemes "Teemad">
@@ -835,15 +840,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hangi rohkem teemasid">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
+<!ENTITY customizeMode.emptyOverflowList.description "Lohista elemente siia, et hoida nad käeulatuses aga mitte tööriistaribal…">
+<!ENTITY customizeMode.uidensity "Tihedus">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Tavaline">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Tavaline">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "T">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktne">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktne">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Puutetunlikule ekraanile">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Puutetunlikule ekraanile">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Puutetundliku ekraani tihedust kasutatakse tahvli režiimis">
 
 <!ENTITY getUserMedia.selectCamera.label "Jagatav kaamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "J">
@@ -950,7 +967,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Mitte praegu">
 <!ENTITY updateRestart.cancelButton.accesskey "M">
+<!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
+<!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
+<!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
 
+<!ENTITY sendToDevice.label3 "Saada leht seadmesse">
+<!ENTITY sendToDevice.syncNotReady.label "Toimub seadmete sünkroniseerimine…">
 
+<!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja veel asju">
