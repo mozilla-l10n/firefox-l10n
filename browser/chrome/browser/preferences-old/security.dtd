@@ -14,7 +14,11 @@
 <!ENTITY  enableSafeBrowsing.label        "Bloca lo contengut perilhós e enganaires">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "Bloca de telecargaments dangieroses">
+<!ENTITY  blockDownloads.accesskey        "D">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "Vos avertís que son de logicials non desirats e pauc coneguts">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Excepcions…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -22,6 +26,8 @@
 
 <!ENTITY  logins.label                  "Identificants">
 
+<!ENTITY  rememberLogins2.label         "Memorizar los identificants pels sites web">
+<!ENTITY  rememberLogins2.accesskey     "M">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

@@ -23,6 +23,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nom de l'aparelh">
+<!ENTITY changeSyncDeviceName.label "Cambiar lo nom del periferic…">
+<!ENTITY changeSyncDeviceName.accesskey "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Anullar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Enregistrar">
@@ -61,6 +63,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Doblidar aquesta adreça electronica">
 <!ENTITY forget.accesskey            "b">
 
+<!ENTITY signedOut.caption            "Emportatz vòstre Web pertot">
+<!ENTITY signedOut.description        "Sincronizar vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.">
+<!ENTITY signedOut.accountBox.title   "Se connectat amb un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear un compte">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Connexion">
