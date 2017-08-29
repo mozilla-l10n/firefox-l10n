@@ -43,6 +43,7 @@ available. -->
 
 <!ENTITY networkTab.label                "Mạng">
 
+<!ENTITY networkProxy.label              "Mạng lưới proxy">
 
 <!ENTITY connectionDesc.label            "Cách thức &brandShortName; kết nối vào Internet">
 <!ENTITY connectionSettings.label        "Thiết lập…">
@@ -89,9 +90,14 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Giữ &brandShortName; luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.">
 <!ENTITY updateApplication.version.pre   "Phiên bản ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Cho phép &brandShortName;">
+<!ENTITY updateAuto3.label               "Tự động cài đặt các bản cập nhật (khuyến cáo)">
+<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Kiểm tra các bản cập nhật nhưng bạn sẽ lựa chọn việc cài đặt chúng">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Không bao giờ kiểm tra các bản cập nhật (không khuyến nghị)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -105,30 +111,46 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "Tự động cập nhật công cụ tìm kiếm">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.label               "Nói cho bạn biết khi nào một trang web yêu cầu lưu trữ dữ liệu để sử dụng ngoại tuyến">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "N">
 
+<!ENTITY offlineAppsList3.label          "Những trang dưới đây cho phép lưu dữ liệu để sử dụng ngoại tuyến">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Xóa…">
 <!ENTITY offlineAppsListRemove.accesskey "X">
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
+<!ENTITY certPersonal2.description       "Khi một máy chủ yêu cầu chứng thực cá nhân của bạn">
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Luôn hỏi bạn">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư">
 <!ENTITY enableOCSP.accesskey            "T">
+<!ENTITY viewCerts2.label                "Xem chứng chỉ…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Thiết bị bảo mật…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Hiệu suất">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Sử dụng các cài đặt về hiệu suất được khuyến nghị">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Các cài đặt này được thiết kế riêng cho phần cứng máy tính và hệ điều hành của bạn.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Tìm hiểu thêm">
+<!ENTITY limitContentProcessOption.label "Giới hạn xử lý nội dung">
+<!ENTITY limitContentProcessOption.description
+                                         "Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với &brandShortName; đa tiến trình.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật">
 <!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
 <!ENTITY allowHWAccel.accesskey          "h">
