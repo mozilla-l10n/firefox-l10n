@@ -7,19 +7,17 @@
 <!ENTITY preferencesButton.label "Tùy chỉnh">
 <!ENTITY removeButton.label   "Loại bỏ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; Trở lại riêng tư">
+<!ENTITY backLink2.label      "&#171; Quay lại">
 
 <!ENTITY window.title         "Thêm ngăn chứa mới">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Tên:">
-<!ENTITY name.accesskey       "T">
-<!ENTITY icon.label           "Biểu tượng:">
-<!ENTITY icon.accesskey       "i">
-<!ENTITY color.label          "Màu sắc:">
-<!ENTITY color.accesskey      "u">
+<!ENTITY name2.label          "Tên">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY name.placeholder     "Nhập tên vùng chứa">
+<!ENTITY icon2.label          "Biểu tượng">
+<!ENTITY icon2.accesskey      "I">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Xong">
 <!ENTITY button.ok.accesskey  "X">
-
