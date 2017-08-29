@@ -34,15 +34,54 @@
 <!ENTITY insertAnchorCmd.accesskey "L">
 <!ENTITY insertImageCmd.label "Imej…">
 <!ENTITY insertImageCmd.accesskey "I">
+<!ENTITY insertHLineCmd.label "Garis Mengufuk">
+<!ENTITY insertHLineCmd.accesskey "f">
+<!ENTITY insertTableCmd.label "Jadual…">
+<!ENTITY insertTableCmd.accesskey "J">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Math…">
+<!ENTITY insertMathCmd.accesskey "M">
+<!ENTITY insertCharsCmd.label "Aksara dan Simbol…">
+<!ENTITY insertCharsCmd.accesskey "A">
+<!ENTITY insertBreakAllCmd.label "Pecah Bawah Imej">
+<!ENTITY insertBreakAllCmd.accesskey "c">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "Cipta Pautan…">
+<!ENTITY createLinkCmd.accesskey "n">
+<!ENTITY editLinkCmd.label "Edit Pautan dalam Composer Baru">
+<!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Pilih fon">
+<!ENTITY fontfaceMenu.label "Fon">
+<!ENTITY fontfaceMenu.accesskey "F">
+<!ENTITY fontVarWidth.label "Lebar Variabel">
+<!ENTITY fontVarWidth.accesskey "V">
+<!ENTITY fontFixedWidth.label "Lebar Tetap">
+<!ENTITY fontFixedWidth.accesskey "p">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip "Pilih saiz fon">
+<!ENTITY decreaseFontSize.label "Lebih kecil">
+<!ENTITY decreaseFontSize.accesskey "l">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Lebih besar">
+<!ENTITY increaseFontSize.accesskey "r">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Saiz">
+<!ENTITY fontSizeMenu.accesskey "z">
 
 <!-- Font Style SubMenu -->
 
