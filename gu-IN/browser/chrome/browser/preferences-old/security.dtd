@@ -4,7 +4,6 @@
 
 <!ENTITY  general.label                 "સામાન્ય">
 
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -22,7 +21,7 @@
 
 <!ENTITY  logins.label                  "પ્રવેશો">
 
-<!ENTITY  rememberLogins.accesskey      "R">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "અપવાદો...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
