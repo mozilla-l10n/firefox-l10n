@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Tổng quát">
 
-<!ENTITY accessibility.label             "Tính năng truy cập">
-
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Tìm kiếm văn bản khi bạn bắt đầu nhập">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Cảnh báo bạn khi trang web cố gắng chuyển hướng hoặc tải lại trang">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Hiện bàn phím cảm ứng khi cần thiết">
 <!ENTITY useOnScreenKeyboard.accesskey   "b">
 
@@ -31,24 +27,22 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Dữ liệu báo cáo bị vô hiệu hóa với cấu hình này">
 
-<!ENTITY healthReportDesc.label          "Giúp bạn nắm được hiệu suất trình duyệt của bạn và chia sẻ dữ liệu với &vendorShortName; về trạng thái của trình duyệt">
-<!ENTITY enableHealthReport.label        "Bật trình báo cáo tình trạng &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "r">
+<!ENTITY enableHealthReport1.label       "Cho phép &brandShortName; tự động gửi dữ liệu kỹ thuật và sự tương tác tới Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
-<!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
+<!ENTITY dataCollection.label            "Thu thập và sử dụng dữ liệu &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện &brandShortName; cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Chính sách riêng tư">
 
-<!ENTITY crashReporterDesc2.label         "Báo cáo lỗi giúp &vendorShortName; sửa lỗi và giúp trình duyệt của bạn an toàn và ổn định hơn">
-<!ENTITY alwaysSubmitCrashReports.label   "Cho phép &brandShortName; thay mặt bạn gửi báo cáo còn tồn đọng">
-<!ENTITY alwaysSubmitCrashReports.accesskey "n">
-<!ENTITY crashReporterLearnMore.label     "Tìm hiểu thêm">
+<!ENTITY alwaysSubmitCrashReports1.label  "Cho phép &brandShortName; gửi các báo cáo sự cố tới Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Tìm hiểu thêm">
 
 <!ENTITY networkTab.label                "Mạng">
 
-<!ENTITY connection.label                "Kết nối">
 
 <!ENTITY connectionDesc.label            "Cách thức &brandShortName; kết nối vào Internet">
 <!ENTITY connectionSettings.label        "Thiết lập…">
@@ -98,8 +92,6 @@ available. -->
 <!ENTITY updateApplication.version.pre   "Phiên bản ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Cho phép &brandShortName;">
-<!ENTITY updateAuto2.label               "Tự động cài các bản cập nhật (được khuyến nghị để tăng tính bảo mật)">
-<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Không bao giờ kiểm tra các bản cập nhật (không khuyến nghị)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -113,13 +105,10 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "Tự động cập nhật công cụ tìm kiếm">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY reports.label                   "Báo cáo">
-
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "N">
 
-<!ENTITY offlineAppsList2.label          "Trang dưới đây cho phép lưu dữ liệu để sử dụng ngoại tuyến:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Xóa…">
 <!ENTITY offlineAppsListRemove.accesskey "X">
@@ -132,10 +121,6 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư">
 <!ENTITY enableOCSP.accesskey            "T">
-<!ENTITY viewCerts.label                 "Xem chứng chỉ">
-<!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Thiết bị bảo mật">
-<!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Hiệu suất">
 <!ENTITY useRecommendedPerformanceSettings2.label
