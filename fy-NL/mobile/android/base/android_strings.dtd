@@ -854,4 +854,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_welcome_dismiss "Fuortsmite">
 
 <!ENTITY private_tab_panel_title "Priveenavigaasje + Beskerming tsjin folgjen">
+<!ENTITY private_tab_panel_description "&brandShortName; blokkearret ûnderdielen fan de siden dy\&apos;t jo sneupaktiviteit folgje kinne.">
+<!ENTITY private_tab_panel_description2 "Der wurdt gjin skiednis ûnthâlden, mar downloaden bestannen en nije blêdwizers wurde wol op jo apparaat bewarre.">
+<!ENTITY private_tab_learn_more "Wolle jo mear witte?">
 
+<!ENTITY fullscreen_warning "Folslein skerm iepene">
