@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Pidä oma selain aina mukanasi">
 <!ENTITY signedOut.description        "Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.">
 <!ENTITY signedOut.accountBox.title   "Yhdistä &syncBrand.fxAccount.label;in">
-<!ENTITY signedOut.accountBox.create  "Luo tili">
-<!ENTITY signedOut.accountBox.create.accesskey  "L">
-<!ENTITY signedOut.accountBox.signin  "Kirjaudu sisään">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
+<!ENTITY signedOut.accountBox.create2 "Eikö sinulla ole tiliä? Aloitetaan">
+<!ENTITY signedOut.accountBox.create2.accesskey "E">
+<!ENTITY signedOut.accountBox.signin2 "Kirjaudu sisään…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "i">
 
 <!ENTITY signedIn.settings.label       "Synkronointiasetukset">
 <!ENTITY signedIn.settings.description "Valitse tiedot, jotka synkronoidaan niiden laitteiden kanssa, joilla käytät &brandShortName;ia.">
