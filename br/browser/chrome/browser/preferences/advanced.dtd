@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Hollek">
 
@@ -23,17 +23,17 @@
 <!ENTITY checkUserSpelling.accesskey     "G">
 
 <!ENTITY dataChoicesTab.label            "Roadennoù">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ">
 
+<!ENTITY enableHealthReport1.label       "Aotren &brandShortName; da gas roadennoù teknikel hag etrewezhiañ da vMozilla ent emgefreek">
+<!ENTITY enableHealthReport1.accesskey   "A">
+<!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
 
-
-
-
-
-
-
+<!ENTITY dataCollection.label            "Dastumadeg roadennoù &brandShortName; hag arver">
 
 
 <!ENTITY networkTab.label                "Rouedad">
@@ -46,8 +46,8 @@ available. -->
 <!ENTITY httpCache.label                 "Krubuilh an endalc'had Web">
 
 <!ENTITY offlineStorage2.label           "Endalc'had Web ezlinenn ha roadennoù an arveriad">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Roadennoù al lec'hienn">
 <!ENTITY clearSiteData.label             "Skarzhañ an holl roadennoù">
 <!ENTITY clearSiteData.accesskey         "S">
@@ -60,7 +60,6 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Bevennañ ar grubuilh da">
 <!ENTITY limitCacheSizeBefore.accesskey  "l">
 <!ENTITY limitCacheSizeAfter.label       "Me egor">
@@ -72,11 +71,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "T">
 
 <!ENTITY updateTab.label                 "Hizivaat">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Hizivadurioù evit &brandShortName; :">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -84,21 +83,11 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-
 <!ENTITY updateApplication.version.post  "">
-
-
-
-
-
-
-
-
 
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
-
 
 
 <!ENTITY offlineStorageNotify.label               "Lavarout din pa vez goulennet gant ul lec'hienn mirout roadennoù evit un arver ezlinenn">
@@ -112,26 +101,12 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Dilemel ar roadennoù ezlinenn">
 
 <!ENTITY certificateTab.label            "Testenioù">
-
 <!ENTITY selectCerts.auto                "Diuz unan ent emgefreek">
 <!ENTITY selectCerts.auto.accesskey      "D">
 <!ENTITY selectCerts.ask                 "Goulenn diganin bewech">
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
 <!ENTITY enableOCSP.accesskey            "G">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
 <!ENTITY allowHWAccel.accesskey          "h">

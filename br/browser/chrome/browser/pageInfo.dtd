@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Perc'henn : ">
 <!ENTITY  securityView.identity.domain   "Lec'hienn internet :">
 <!ENTITY  securityView.identity.verifier "Gwiriet gant :">
-
+<!ENTITY  securityView.identity.validity "Diamzeret e vo d'an/ar:">
 
 <!ENTITY  securityView.privacy.header                   "Buhez prevez ha Roll istor">
 <!ENTITY  securityView.privacy.history                  "Ha gweladennet em befe al lec'hienn-mañ a-raok hiziv ?">

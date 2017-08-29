@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "a">
 <!ENTITY syncToolbarButton.label      "Goubredañ">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Lakait an elfennoù gwellañ deoc'h da riklañ er varrenn ostilhoù pe el lañser dic'hlann.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ezhomm hoc'h eus muioc'h a ostilhoù ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Dibabit e-touez miliadoù a askouezhioù">
 <!ENTITY customizeMode.restoreDefaults "Assav ar re dre ziouer">
@@ -839,15 +840,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kaout muioc'h a neuzioù">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
+<!ENTITY customizeMode.emptyOverflowList.description "Riklit ha laoskit an elfennoù amañ evit mirout anezho nepell met e-diavaez ho parrenn ostilhoù…">
+<!ENTITY customizeMode.uidensity "Douester">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Reizh">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Reizh">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "R">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Koazhet">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Koazhet">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Stok">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Stok">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Arverañ Stok evit ar mod taolennig">
 
 <!ENTITY getUserMedia.selectCamera.label "Webkam da rannañ :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
@@ -957,6 +970,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Adloc'hit evit hizivaat &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
+<!ENTITY pageAction.addToUrlbar.label "Ouzhpennañ d'ar varenn chomlec'h">
+<!ENTITY pageAction.removeFromUrlbar.label "Lemel kuit diouzh ar varrenn chomlec'h">
 
+<!ENTITY sendToDevice.label3 "Kas ar bajenn d'an trevnad">
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
 
+<!ENTITY libraryButton.tooltip "Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh">
