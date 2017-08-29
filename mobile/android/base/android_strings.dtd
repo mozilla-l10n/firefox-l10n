@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
-
-<!ENTITY firstrun_urlbar_message "Bienvenido a &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Encuentra más rápido lo que buscas con atajos para las sugerencias.">
+<!ENTITY firstrun_urlbar_message2 "Gracias por elegir &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Un navegador móvil moderno de Mozilla, la organización sin fines de lucro comprometida a una web libre y abierta.">
+<!ENTITY firstrun_panel_title_privacy "Privacidad">
+<!ENTITY firstrun_privacy_message "Navega como si nadie te mirase">
+<!ENTITY firstrun_privacy_subtext "La navegación privada con protección de seguimiento bloquea a los rastreadores mientras navegas, y no recordará tu historial cuando termines de navegar.">
+<!ENTITY firstrun_panel_title_customize "Personalizar">
+<!ENTITY firstrun_customize_message "Haz &brandShortName; tuyo.">
+<!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; con complementos. Bloquea publicidad, añade funciones o elige un nuevo tema para reflejar tu personalidad.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Tus favoritos, al frente y centrados">
 <!ENTITY firstrun_bookmarks_subtext "Consigue resultados de tus marcadores e historial cuando estás buscando.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Menos datos, más resguardos">
 <!ENTITY firstrun_data_subtext2 "Quita las imágenes para gastar menos datos en cada sitio que visites.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, siempre a tu lado">
-<!ENTITY firstrun_sync_subtext "Sincroniza tus pestañas, claves y más en todas partes.">
+<!ENTITY firstrun_sync_message2 "Continúa donde quedaste.">
+<!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y otras cosas que guardes en &brandShortName; en todos tus dispositivos.">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
 <!ENTITY firstrun_signin_button "Conectarse a Sync">
 <!ENTITY  onboard_start_button_browser "Empezar a navegar">
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Limpiar ahora">
 <!ENTITY pref_clear_on_exit_title3 "Limpiar datos privados al salir">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos siempre que selecciones \u0022Salir\u0022 en el menú principal">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente tus datos siempre que selecciones \&quot;Salir\&quot; en el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecciona que datos limpiar">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurarlas siempre">
@@ -835,16 +840,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Ocultar">
+<!ENTITY activity_stream_remove "Eliminar">
 <!ENTITY activity_stream_delete_history "Borrar del historial">
 
 <!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea destacados para las cosas que has descubierto en la web para que puedas regresar a los grandes artículos, videos, marcadores y otras páginas que hayas visto.">
+<!ENTITY activity_stream_welcome_dismiss "Ocultar">
 
 <!ENTITY private_tab_panel_title "Navegación privada + protección de seguimiento">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea partes de las páginas que puede rastrear tu actividad de navegación.">
 <!ENTITY private_tab_panel_description2 "No guardaremos nada del historial, pero las descargas y los nuevos marcadores serán almacenados en tu dispositivo.">
 <!ENTITY private_tab_learn_more "¿Quieres aprender más?">
+
+<!ENTITY fullscreen_warning "Se pasó a pantalla completa">
