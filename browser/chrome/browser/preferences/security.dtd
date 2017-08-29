@@ -3,25 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "સુરક્ષા">
+<!ENTITY  phishingProtection.label       "ફિશીંગ પ્રોટેક્શન">
 
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.label       "તમને ચેતવે છે જ્યારે વેબસાઇટ્સ ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+<!ENTITY  enableSafeBrowsing.label        "ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
+<!ENTITY  blockDownloads.label            "ખતરનાક ડાઉનલોડ્સ ને અવરોધિત કરો">
 <!ENTITY  blockDownloads.accesskey        "D">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "અનિચ્છનીય અને અસામાન્ય સૉફ્ટવેર વિશે તમને ચેતવે છે">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "અપવાદો...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "ફોર્મ્સ &amp; પાસવર્ડ્સ">
 
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "વેબસાઇટ્સ માટે લૉગિન અને પાસવર્ડ્સ યાદ રાખો">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "અપવાદો...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

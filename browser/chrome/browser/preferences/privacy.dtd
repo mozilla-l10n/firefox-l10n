@@ -35,17 +35,13 @@
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
-<!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
-<!ENTITY  acceptCookies.accesskey       "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
 <!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
 
-<!ENTITY  keepUntil.label               "સાચવો:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil2.label              "ત્યાં સુધી રાખો">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "જ્યાં સુધી સમયસમાપ્ત નહિં થાય">
 <!ENTITY  close.label                   "હું &brandShortName; બંધ કરું છું">
