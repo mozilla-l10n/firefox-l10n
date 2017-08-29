@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página hospedada en <span id='unwanted_sitename'/> ha sido reportada porque contiene software malicioso y se bloqueó con base en tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Páginas con software malicioso intentan instalar software que puede afectar tu sistema de diversas formas.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El sitio web puede contener malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ha bloqueado esta página porque podría intentar instalar aplicaciones peligrosas que roben o borren tu información (por ejemplo, fotos, contraseñas, mensajes y números de tarjetas de crédito).">

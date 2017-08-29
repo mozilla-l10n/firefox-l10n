@@ -8,6 +8,9 @@
 <!ENTITY firstrun_panel_title_privacy "Privacidad">
 <!ENTITY firstrun_privacy_message "Navega como si nadie te estuviera viendo">
 <!ENTITY firstrun_privacy_subtext "La navegación privada con protección de rastreo bloquea a posibles rastreadores mientras navegas y no guardará tu historial cuando termines.">
+<!ENTITY firstrun_panel_title_customize "Personalizar">
+<!ENTITY firstrun_customize_message "Haz &brandShortName; tuyo.">
+<!ENTITY firstrun_customize_subtext "Personaliza &brandShortName; con complementos. Bloqueo de publicidad, agrega funcionalidades o elige un nuevo tema que refleje tu personalidad.">
 <!ENTITY firstrun_bookmarks_title "Historial">
 <!ENTITY firstrun_bookmarks_message "Tus favoritos, al frente y centrados">
 <!ENTITY firstrun_bookmarks_subtext "Obtén resultados de tus marcadores e historial cuando realices búsquedas.">
@@ -15,6 +18,8 @@
 <!ENTITY firstrun_data_message "Menos datos, más resguardos">
 <!ENTITY firstrun_data_subtext2 "Apagar imágenes para gastar menos datos cada vez que estés en algún sitio web.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Continúa donde lo dejaste.">
+<!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y todo lo que hayas guardado en &brandShortName; en todos tus dispositivos.">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
 <!ENTITY firstrun_signin_button "Ingresa a Sync">
 <!ENTITY  onboard_start_button_browser "Empezar navegación">
@@ -838,13 +843,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Eliminar">
 <!ENTITY activity_stream_delete_history "Borrar del historial">
 
 <!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea destacados de cosas que has descubierto en la web para que puedas regresar a artículos, videos, marcadores y otras páginas destacadas que hayas visto.">
+<!ENTITY activity_stream_welcome_dismiss "Descartar">
 
 <!ENTITY private_tab_panel_title "Navegación privada + Protección de rastreo">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquea ciertas secciones de las páginas que pueden rastrear tu navegación.">
 <!ENTITY private_tab_panel_description2 "No recordaremos nada de tu historial, pero los archivos descargados y los nuevos marcadores aún estarán guardados en tu dispositivo.">
 <!ENTITY private_tab_learn_more "¿Quieres aprender más?">
 
+<!ENTITY fullscreen_warning "Se ingresó a pantalla completa">
