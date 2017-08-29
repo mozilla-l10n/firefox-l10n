@@ -23,8 +23,9 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "带我离开！">
 
 <!ENTITY certerror.expert.heading "我已充分了解可能的风险">
-<!ENTITY certerror.expert.content "如果您了解现在所发生的一切，您可以让 &brandShortName; 开始信任此站点的凭据。<b>即便您信任此站点，这个错误也可能表明有人试图干涉您的连接。</b>">
-<!ENTITY certerror.expert.contentPara2 "不要随便添加例外，除非您知道并认同该网站不使用受信任标识的理由。">
+<!ENTITY certerror.expert.content "如果您明白并认可发生这个错误的原因，您可以让 &brandShortName; 改为信任此网站的凭据。
+<b>即便您信任此网站，这个错误也表明可能有人试图干涉您的连接。</b>">
+<!ENTITY certerror.expert.contentPara2 "除非您明白并认可该网站不使用受信任标识的理由，否则请勿将此网站添加至例外。">
 <!ENTITY certerror.addTemporaryException.label "访问站点">
 <!ENTITY certerror.addPermanentException.label "添加永久例外">
 
