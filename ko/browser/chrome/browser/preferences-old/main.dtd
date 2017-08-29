@@ -43,4 +43,4 @@
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;에 로그인…">
 <!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; 설정 열기">
 
-<!ENTITY e10sEnabled.label                "&brandShortName;를 멀티 프로세스로 돌리기">
+<!ENTITY e10sEnabled.label                "&brandShortName; 멀티 프로세스 활성화">
