@@ -39,10 +39,29 @@
 <!ENTITY pageProperties.accesskey "m">
 
 <!-- Tools menu items -->
+<!ENTITY validateCmd.label "HTML Pengesahan">
+<!ENTITY validateCmd.accesskey "P">
 
 <!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Mod Edit Normal">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Papar sempadan jadual dan nama labuh">
+<!ENTITY AllTagsModeTab.label "Tag HTML">
+<!ENTITY AllTagsMode.label "Tag HTML">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Papar semua ikon tag HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Sumber">
+<!ENTITY HTMLSourceMode.label "Sumber HTML">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Edit sumber HTML">
+<!ENTITY PreviewModeTab.label "Previu">
+<!ENTITY PreviewMode.label "Previu">
+<!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "Papar sebagai WYSIWYG (seperti dalam pelayar)">
