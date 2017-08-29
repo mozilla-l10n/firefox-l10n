@@ -344,6 +344,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Povrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži bočnu traku za historiju">
+<!ENTITY appMenuHistory.recentHistory.label "Nedavna historija">
+<!ENTITY appMenuHelp.label "Pomoć">
 <!ENTITY appMenuHelp.tooltip "Otvori meni pomoći">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizovani tabovi">
@@ -400,6 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Više">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Unesite termin za pretragu ili adresu">
