@@ -528,7 +528,7 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Pelayaran Skrin-penuh ">
+<!ENTITY pref_scroll_title_bar2 "Pelayaran Skrin-penuh">
 <!ENTITY pref_scroll_title_bar_summary2 "Sorok bar alat &brandShortName; apabila skrol ke bawah halaman">
 
 <!ENTITY pref_tab_queue_title3 "Baris gilir tab">
