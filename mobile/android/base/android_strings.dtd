@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Wolkom">
-
-<!ENTITY firstrun_urlbar_message "Wolkom by &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Fyn saken flugger mei handige keppelingen foar syksuggestjes.">
+<!ENTITY firstrun_urlbar_message2 "Tank foar it kiezen fan &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "In moderne mobile browser fan Mozilla, de non-profitorganisaasje mei tawijing oan in frij en iepen web.">
 <!ENTITY firstrun_bookmarks_title "Skiednis">
 <!ENTITY firstrun_bookmarks_message "Jo favoriten, sintraal">
 <!ENTITY firstrun_bookmarks_subtext "Sjoch resultaten út jo blêdwizers en skiednis wylst it sykjen.">
@@ -13,8 +12,6 @@
 <!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
 <!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, altyd oan jo side">
-<!ENTITY firstrun_sync_subtext "Syngronisearje jo ljepblêden, wachtwurden en mear, oeral wêr\&apos;t jo it brûke.">
 <!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_signin_button "Oanmelde by Sync">
 <!ENTITY  onboard_start_button_browser "Start mei browsen">
@@ -298,10 +295,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Tastean dat webapps tafoege wurde oan it startskerm">
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktiviteitenstream">
-<!ENTITY pref_activity_stream_summary "In rike fisuele skiednisfeed en in opnij opsette startside meitsje it makliker as ea om yn &brandShortName; presys dat te finen wat jo sykje">
-
 <!ENTITY tracking_protection_prompt_title "No mei Beskerming tsjin folgjen">
 <!ENTITY tracking_protection_prompt_text "Blokkearje aktyf folcheleminten, sadat jo jo gjin soargen hoege te meitsjen.">
 <!ENTITY tracking_protection_prompt_tip_text "Besykje Privacyynstellingen foar mear ynfo">
@@ -361,10 +354,6 @@
 <!ENTITY pref_clear_on_exit_title3 "Priveegegevens wiskje by ôfsluten">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; sil automatysk jo gegevens wiskje as jo \u2018Ofslute\u2019 selektearje yn it haadmenu">
 <!ENTITY pref_clear_on_exit_dialog_title "Selektearje hokker gegevens jo wiskje wolle">
-<!ENTITY pref_plugins "Ynstekkers">
-<!ENTITY pref_plugins_enabled "Ynskeakele">
-<!ENTITY pref_plugins_tap_to_play2 "Oanreitsje foar ôfspyljen">
-<!ENTITY pref_plugins_disabled "Utskeakele">
 <!ENTITY pref_restore_tabs "Ljepblêden werombringe">
 <!ENTITY pref_restore_always "Altyd werombringe">
 <!ENTITY pref_restore_quit "Net werombringe nei ôfsluten fan &brandShortName;">
@@ -846,11 +835,12 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besocht">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Ôfwize">
 <!ENTITY activity_stream_delete_history "Ut skiednis fuortsmite">
 
 <!ENTITY activity_stream_welcome_title "Wolkom by jo hichtepunten">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; makket no hichtepunten fan saken dy\&apos;t jo ûntdekt hawwe op it web, sa dat jo it paad werom fine kinne nei aardige artikelen, fideo\&apos;s, blêdwizers en oare siden.">
+
+
