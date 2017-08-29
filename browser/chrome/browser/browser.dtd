@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -161,22 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Blêdwizer foar dizze side meitsje">
 <!ENTITY editThisBookmarkCmd.label "Dizze blêdwizer bewurkje">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Fyn mear dieltsjinsten…">
-<!ENTITY sharePageCmd.label "Dizze side diele">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "d">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Dizze keppeling diele">
-<!ENTITY shareLink.accesskey "d">
-<!ENTITY shareImage.label "Dizze ôfbylding diele">
-<!ENTITY shareImage.accesskey "d">
-<!ENTITY shareSelect.label "Seleksje diele">
-<!ENTITY shareSelect.accesskey "d">
-<!ENTITY shareVideo.label "Dizze fideo diele">
-<!ENTITY shareVideo.accesskey "d">
+
 <!ENTITY feedsMenu2.label "Abonnearje op dizze side">
 <!ENTITY subscribeToPageMenupopup.label "Abonnearje op dizze side">
 <!ENTITY subscribeToPageMenuitem.label "Abonnearje op dizze side…">
@@ -244,11 +229,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Blêdwizers">
-<!ENTITY bookmarksMenuButton.other.label "Oare blêdwizers">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobyl-blêdwizers">
+<!ENTITY bookmarksMenuButton.other.label    "Oare blêdwizers">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobyl-blêdwizers">
 <!ENTITY viewBookmarksSidebar2.label        "Blêdwizersydbalke werjaan">
+<!ENTITY hideBookmarksSidebar.label         "Blêdwizersydbalke ferstopje">
 <!ENTITY viewBookmarksToolbar.label         "Blêdwizerarkbalke werjaan">
+<!ENTITY hideBookmarksToolbar.label         "Blêdwizerarkbalke ferstopje">
 <!ENTITY searchBookmarks.label              "Blêdwizers trochsykje">
+<!ENTITY bookmarkingTools.label             "Blêdwizerark">
 
 <!ENTITY containersMenu.label "Konteners">
 
@@ -262,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ekstra">
-<!ENTITY toolsMenu.accesskey          "E"> 
+<!ENTITY toolsMenu.accesskey          "E">
 
 <!ENTITY keywordfield.label           "Kaaiwurd foar dizze sykopdracht tafoegje…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Elemint ynspektearje">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY fileMenu.label         "Bestân"> 
+<!ENTITY fileMenu.label         "Bestân">
 <!ENTITY fileMenu.accesskey       "B">
 <!ENTITY newUserContext.label             "Nij kontenerljepblêd">
 <!ENTITY newUserContext.accesskey         "k">
@@ -292,45 +280,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "p">
 <!ENTITY newNonRemoteWindow.label   "Nij net-e10s-finster">
 
-<!ENTITY editMenu.label         "Bewurkje"> 
-<!ENTITY editMenu.accesskey       "W"> 
-<!ENTITY undoCmd.label            "Ungedien meitsje">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "Opnij útfiere">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "O"> 
-<!ENTITY cutCmd.label           "Knippe">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "N"> 
-<!ENTITY copyCmd.label            "Kopiearje">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Plakke">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Fuortsmite">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "F"> 
-<!ENTITY selectAllCmd.label         "Alles selektearje">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "Bewurkje">
+<!ENTITY editMenu.accesskey       "W">
+<!ENTITY undoCmd.label            "Ungedien meitsje">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Opnij útfiere">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "O">
+<!ENTITY cutCmd.label           "Knippe">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "N">
+<!ENTITY copyCmd.label            "Kopiearje">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Plakke">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "Fuortsmite">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "F">
+<!ENTITY selectAllCmd.label         "Alles selektearje">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Opsjes">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Foarkarren…">
-<!ENTITY preferencesCmdUnix.accesskey     "F"> 
+<!ENTITY preferencesCmdUnix.accesskey     "F">
 
 <!ENTITY clearRecentHistory.label               "Resinte skiednis wiskje…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Byld"> 
-<!ENTITY viewMenu.accesskey       "y"> 
-<!ENTITY viewToolbarsMenu.label       "Arkbalken"> 
-<!ENTITY viewToolbarsMenu.accesskey     "A"> 
+<!ENTITY viewMenu.label         "Byld">
+<!ENTITY viewMenu.accesskey       "y">
+<!ENTITY viewToolbarsMenu.label       "Arkbalken">
+<!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Sidebalke">
 <!ENTITY viewSidebarMenu.accesskey "S">
-<!ENTITY viewCustomizeToolbar.label       "Oanpasse…"> 
+<!ENTITY viewCustomizeToolbar.label       "Oanpasse…">
 <!ENTITY viewCustomizeToolbar.accesskey     "O">
 <!ENTITY overflowCustomizeToolbar.label       "Arkbalke wizigje…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "A">
@@ -531,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Boarne fan seleksje besjen">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-boarne besjen">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label      "Sideboarne besjen">
@@ -598,7 +586,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Ofbyldingslokaasje kopiearje">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Ofbylding kopiearje">
-<!ENTITY copyImageContentsCmd.accesskey  "k"> 
+<!ENTITY copyImageContentsCmd.accesskey  "k">
 <!ENTITY copyVideoURLCmd.label        "Fideolokaasje kopiearje">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Audiolokaasje kopiearje">
@@ -694,13 +682,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ôfslute">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Ofslute"> 
+<!ENTITY quitApplicationCmd.label       "Ofslute">
 <!ENTITY quitApplicationCmd.accesskey   "O">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; ôfslute">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Slute">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Slute">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "S">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Syngronisearje">
 
-<!ENTITY social.addons.label "Tsjinsten behearje…">
-
-<!ENTITY social.directory.label "Aktivaasjemap">
-<!ENTITY social.directory.text "Jo kinne dieltsjinsten aktivearje út de map.">
-<!ENTITY social.directory.button "Bring my dêrhinne!">
-<!ENTITY social.directory.introText "Klik op in tsjinst om ta te foegjen oan &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Mear toane">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Ekstra helpmiddelen en funksjes">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wolle jo mear helpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies út tûzenen add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
@@ -991,5 +970,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
 
-<!ENTITY sendToDevice.label2 "Ferstjoere nei apparaat">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
+
