@@ -14,7 +14,7 @@
 
 <!ENTITY fileMenu.label "Fil">
 <!ENTITY fileMenu.accesskey "F">
-<!ENTITY savePageCmd.label "Lagra sida som …">
+<!ENTITY savePageCmd.label "Lagre sida som…">
 <!ENTITY savePageCmd.accesskey "s">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Utskriftsformat…">

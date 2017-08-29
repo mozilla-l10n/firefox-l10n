@@ -8,7 +8,7 @@
 
 <!ENTITY printDialog.title "Skriv">
 
-<!ENTITY fpDialog.title "Lagra fil">
+<!ENTITY fpDialog.title "Lagre fil">
 
 <!ENTITY fileCheck.label "Skriv ut til fil">
 <!ENTITY fileCheck.accesskey "k">
