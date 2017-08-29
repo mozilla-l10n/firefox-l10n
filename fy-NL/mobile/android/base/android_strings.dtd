@@ -5,6 +5,12 @@
 <!ENTITY firstrun_panel_title_welcome "Wolkom">
 <!ENTITY firstrun_urlbar_message2 "Tank foar it kiezen fan &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "In moderne mobile browser fan Mozilla, de non-profitorganisaasje mei tawijing oan in frij en iepen web.">
+<!ENTITY firstrun_panel_title_privacy "Privacy">
+<!ENTITY firstrun_privacy_message "Sneup as oft gjinien mei sjocht">
+<!ENTITY firstrun_privacy_subtext "Priveenavigaasje mei Beskerming tsjin folgjen blokkearret trackers wylst jo sneupe en ûnthâldt gjin skiednis sa gau as jo hjirmei stopje.">
+<!ENTITY firstrun_panel_title_customize "Oanpasse">
+<!ENTITY firstrun_customize_message "Meitsje &brandShortName; fan josels.">
+<!ENTITY firstrun_customize_subtext "Pas &brandShortName; oan mei add-ons. Blokkearje advertinsjes, foegje funksjes ta, of kies in nij tema om jo persoanlikheid wer te jaan.">
 <!ENTITY firstrun_bookmarks_title "Skiednis">
 <!ENTITY firstrun_bookmarks_message "Jo favoriten, sintraal">
 <!ENTITY firstrun_bookmarks_subtext "Sjoch resultaten út jo blêdwizers en skiednis wylst it sykjen.">
@@ -12,6 +18,8 @@
 <!ENTITY firstrun_data_message "Minder gegevens, mear besparje">
 <!ENTITY firstrun_data_subtext2 "Set ôfbyldingen út foar minder gegevensferkear by elke besochte website.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Gean troch wêr\&apos;t jo bleaun wiene.">
+<!ENTITY firstrun_sync_subtext2 "Brûk Sync om de blêdwizers, wachtwurden en oare saken dy\&apos;t jo yn &brandShortName; op al jo apparaten bewarje te finen.">
 <!ENTITY firstrun_signin_message "Meitsje ferbining en begjin">
 <!ENTITY firstrun_signin_button "Oanmelde by Sync">
 <!ENTITY  onboard_start_button_browser "Start mei browsen">
@@ -838,9 +846,12 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Fuortsmite">
 <!ENTITY activity_stream_delete_history "Ut skiednis fuortsmite">
 
 <!ENTITY activity_stream_welcome_title "Wolkom by jo hichtepunten">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; makket no hichtepunten fan saken dy\&apos;t jo ûntdekt hawwe op it web, sa dat jo it paad werom fine kinne nei aardige artikelen, fideo\&apos;s, blêdwizers en oare siden.">
+<!ENTITY activity_stream_welcome_dismiss "Fuortsmite">
 
+<!ENTITY private_tab_panel_title "Priveenavigaasje + Beskerming tsjin folgjen">
 
