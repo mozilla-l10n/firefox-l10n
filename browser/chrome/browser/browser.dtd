@@ -80,8 +80,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "મેનુ પટ્ટી">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "શોધખોળ સાધનપટ્ટી">
-<!ENTITY personalbarCmd.label "બુકમાર્કો સાધનપટ્ટી">
+<!ENTITY navbarCmd.label "શોધખોળ ટૂલબાર">
+<!ENTITY personalbarCmd.label "બુકમાર્ક્સ ટૂલબાર">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "બુકમાર્કો સાધનપટ્ટી વસ્તુઓ">
 
@@ -203,15 +203,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "સાઇટ સાથે તમારા કેમેરા અને/અથવા માઇક્રોફોનને શેર કરવાનું મેનેજ કરો">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "સાઇટ સાથે તમારા માઇક્રોફોન શેર કરવાનું મેનેજ કરો">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "સાઇટ સાથે તમારા Windows અથવા સ્ક્રીન શેરિંગ મેનેજ કરો">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "સાઇટ સાથે તમારા Windows અથવા સ્ક્રીન શેરિંગ ને મેનેજ કરો">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "સ્થાપિત સંદેશ પેનલ ખોલો">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "આ પૃષ્ઠનો અનુવાદ કરો">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "પૃષ્ઠ અનુવાદ મેનેજ કરો">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM સોફ્ટવેર ઉપયોગ મેનેજ કરો">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "તમે આ વેબસાઇટ માટે તમારા કૅમેરા અવરોધિત કર્યા છે.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "તમે આ વેબસાઇટ માટે તમારા ધ્વનિવર્ધક યંત્રનો અવરોધિત કર્યા છે.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "તમે આ વેબસાઇટ માટે તમારો કૅમેરા અવરોધિત કર્યા છે.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "તમે આ વેબસાઇટ માટે તમારા ધ્વનિવર્ધક યંત્રને અવરોધિત કયૉ છે.">
 <!ENTITY urlbar.screenBlocked.tooltip            "તમે તમારી સ્ક્રીન શેર આ વેબસાઇટ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "તમે આ વેબસાઇટ માટે સ્થાન માહિતી અવરોધિત કરી છે.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "તમે આ વેબસાઇટ માટે માહિતી સંગ્રહ અવરોધિત કર્યા છે.">
