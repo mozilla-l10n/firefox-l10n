@@ -61,7 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUseOwn.label                "Izinkan halaman memilih font sendiri, bukannya pilihan anda di atas">
+<!ENTITY  allowPagesToUseOwn.label                "Izinkan halaman memilih fon sendiri, bukannya pilihan anda di atas">
 <!ENTITY  allowPagesToUseOwn.accesskey            "I">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Enkod Karakter untuk Legasi Maklumat">

@@ -22,12 +22,12 @@
 <!ENTITY  fontsAndColors.label        "Fon &amp; Warna">
 
 <!ENTITY  defaultFont.label           "Fon piawai:">
-<!ENTITY  defaultFont.accesskey       "p">
+<!ENTITY  defaultFont.accesskey       "F">
 <!ENTITY  defaultSize.label           "Saiz:">
 <!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Lanjutan…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.accesskey     "L">
 
 <!ENTITY  colors.label                "Warna…">
 <!ENTITY  colors.accesskey            "W">
