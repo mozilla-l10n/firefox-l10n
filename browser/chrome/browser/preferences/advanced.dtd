@@ -30,7 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის">
 
 <!ENTITY enableHealthReport1.label       "&brandShortName;-ისთვის ნების დართვა, ტექნიკური მონაცემების ავტომატურად გასაგზავნად Mozilla-სთვის">
-<!ENTITY enableHealthReport1.accesskey   "ხ">
+<!ENTITY enableHealthReport1.accesskey   "ტ">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
@@ -128,7 +128,7 @@ available. -->
 <!ENTITY selectCerts.auto.accesskey      "ა">
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">
 <!ENTITY selectCerts.ask.accesskey       "ყ">
-<!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების მიმდინარე მდგომარეობის კითხვა">
+<!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების დამოწმების მოთხოვნა">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts2.label                "სერთიფიკატების ნახვა…">
 <!ENTITY viewCerts2.accesskey            "ნ">

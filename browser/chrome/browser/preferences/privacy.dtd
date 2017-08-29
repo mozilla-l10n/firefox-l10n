@@ -33,8 +33,8 @@
 <!ENTITY  history.label                 "ისტორია">
 <!ENTITY  permissions.label             "ნებართვები">
 
-<!ENTITY  addressBar.label              "მისამართების ზოლი">
-<!ENTITY  addressBar.suggest.label      "შემოთავაზებები, მისამართების ზოლით სარგებლობისას">
+<!ENTITY  addressBar.label              "მისამართების ველი">
+<!ENTITY  addressBar.suggest.label      "შემოთავაზებები, მისამართების ველით სარგებლობისას">
 <!ENTITY  locbar.history2.label         "დათვალიერების ისტორია">
 <!ENTITY  locbar.history2.accesskey     "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
@@ -99,7 +99,7 @@
 <!ENTITY  rememberHistory2.label      "დათვალიერებული გვერდების და ჩამოტვირთვების ისტორიის დამახსოვრება">
 <!ENTITY  rememberHistory2.accesskey  "დ">
 
-<!ENTITY  rememberSearchForm.label       "ძიებისა და ფორმების ისტორიის დამახსოვრება">
+<!ENTITY  rememberSearchForm.label       "ძიებისა და ველების ისტორიის დამახსოვრება">
 <!ENTITY  rememberSearchForm.accesskey   "ფ">
 
 <!ENTITY  clearOnClose.label             "ისტორიის გასუფთავება &brandShortName;-ის დახურვისას">

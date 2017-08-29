@@ -9,9 +9,9 @@
 <!ENTITY provideSearchSuggestions.label        "ძიების შემოთავაზებები">
 <!ENTITY provideSearchSuggestions.accesskey    "ძ">
 
-<!ENTITY showURLBarSuggestions2.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
+<!ENTITY showURLBarSuggestions2.label           "ძიების შემოთავაზებები მისამართების ველის შედეგებში">
 <!ENTITY showURLBarSuggestions2.accesskey       "ძ">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "ამოღება">
 <!ENTITY removeEngine.accesskey                "ა">
 
-<!ENTITY findMoreSearchEngines.label           "ახალი საძიებო სისტემების მოძიება">
+<!ENTITY findMoreSearchEngines.label           "სხვა საძიებო სისტემების მონახვა">

@@ -28,9 +28,9 @@
 
 <!ENTITY  history.label                 "ისტორია">
 
-<!ENTITY  locationBar.label             "მისამართების ზოლი">
+<!ENTITY  locationBar.label             "მისამართების ველი">
 
-<!ENTITY  locbar.suggest.label          "მისამართების ზოლის გამოყენებისას, შემოთავაზებებში გამოჩნდება:">
+<!ENTITY  locbar.suggest.label          "მისამართების ველით სარგებლობისას, შემოთავაზებებში გამოჩნდება:">
 <!ENTITY  locbar.history.label          "ისტორია">
 <!ENTITY  locbar.history.accesskey      "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
@@ -96,7 +96,7 @@
 <!ENTITY  rememberHistory2.label      "დათვალიერებული გვერდების და ჩამოტვირთვების ისტორიის დამახსოვრება">
 <!ENTITY  rememberHistory2.accesskey  "დ">
 
-<!ENTITY  rememberSearchForm.label       "ძიებისა და ფორმების ისტორიის დამახსოვრება">
+<!ENTITY  rememberSearchForm.label       "ძიებისა და ველების ისტორიის დამახსოვრება">
 <!ENTITY  rememberSearchForm.accesskey   "ფ">
 
 <!ENTITY  clearOnClose.label             "ისტორიის გასუფთავება &brandShortName;-ის დახურვისას">

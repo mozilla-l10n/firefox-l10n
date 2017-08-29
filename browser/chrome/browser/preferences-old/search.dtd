@@ -4,14 +4,14 @@
 
 <!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "აირჩიეთ თქვენი ნაგულისხმევი საძიებო სისტემა. &brandShortName; მას იყენებს მისამართების ზოლში, ძიების ზოლში და საწყის გვერდზე.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "აირჩიეთ თქვენი ნაგულისხმევი საძიებო სისტემა. &brandShortName; მას იყენებს მისამართების ველში, ძიების ველსა და საწყის გვერდზე.">
 
 <!ENTITY provideSearchSuggestions.label        "ძიების შემოთავაზებები">
 <!ENTITY provideSearchSuggestions.accesskey    "ძ">
 
-<!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
+<!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მისამართების ველის შედეგებში">
 <!ENTITY showURLBarSuggestions.accesskey       "ზ">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
