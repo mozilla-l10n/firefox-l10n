@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
+<!-- File menu items -->
+<!ENTITY saveCmd.key "S">
+
+<!-- Edit menu items -->
+<!ENTITY pasteNoFormatting.label "Tampal Tanpa Format">
+<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "Tampal Sebagai">
+<!ENTITY pasteAs.accesskey "m">
+<!ENTITY pasteAsQuotationCmd.label "Tampal Sebagai Petikan">
+<!ENTITY pasteAsQuotationCmd.accesskey "P">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "Cari…">
+<!ENTITY findReplaceCmd.label "Cari dan Ganti…">
+<!ENTITY enableInlineSpellChecker.label "Semak ejaan Semasa Menaip">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY checkSpellingCmd2.label "Semak Ejaan…">
+<!ENTITY checkSpellingCmd2.accesskey "k">
+<!ENTITY checkSpellingCmd2.key "p">
+
+<!-- Insert menu items -->
+<!ENTITY insertMenu.label "Sisip">
+<!ENTITY insertMenu.accesskey "S">
+<!ENTITY insertLinkCmd2.label "Pautan…">
+<!ENTITY insertLinkCmd2.accesskey "P">
+<!ENTITY insertLinkCmd2.key "K">
+<!ENTITY insertAnchorCmd.label "Nama Labuh…">
+<!ENTITY insertAnchorCmd.accesskey "L">
+<!ENTITY insertImageCmd.label "Imej…">
+<!ENTITY insertImageCmd.accesskey "I">
+
+<!-- Used just in context popup. -->
+
+<!-- Font Face SubMenu -->
+
+<!-- Font Size SubMenu -->
+ <!-- < is above this key on many keyboards -->
+ <!-- > is above this key on many keyboards -->
+
+
+<!-- Font Style SubMenu -->
+
+
+
+
+<!-- List menu items -->
+
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!-- isn't used in menu now, but may be added in future -->
+
+<!-- Align menu items -->
+
+<!-- Layer toolbar items -->
+
+
+
+<!-- Table Menu -->
+
+<!-- Select Submenu -->
+
+
+<!-- Insert SubMenu -->
+<!-- Delete SubMenu -->
+
+<!-- text for "Join Cells" is in editor.properties
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+
+<!-- Toolbar-only items -->
+
+<!-- Editor toolbar -->
+
+<!-- Structure Toolbar Context Menu items -->
+
+<!-- TOC manipulation -->
