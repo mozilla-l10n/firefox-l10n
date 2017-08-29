@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Dizze webside op <span id='unwanted_sitename'/> is rapportearre as in webside dy't net-winske software befettet en is blokkearre op basis fan jo befeiligingsfoarkarren.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kin en jo systeem op ûnferwachte manieren beÿnfloedzje kin.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "De website kin malware befetsje">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; hat dizze side blokkearre, omdat dizze kin probearje gefaarlike apps te ynstallearje dy't jo gegevens (lykas foto’s, wachtwurden, berjochten en creditcardgegevens) stelle of fuortsmite.">
