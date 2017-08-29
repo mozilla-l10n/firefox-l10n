@@ -17,6 +17,8 @@
 <!ENTITY name.placeholder     "Nhập tên vùng chứa">
 <!ENTITY icon2.label          "Biểu tượng">
 <!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Màu">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Xong">
