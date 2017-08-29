@@ -147,7 +147,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceName "Nomo">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
 <!ENTITY aboutSupport.mediaDeviceVendor "Vendisto">
-<!ENTITY aboutSupport.mediaDeviceState "Ŝstato">
+<!ENTITY aboutSupport.mediaDeviceState "Stato">
 <!ENTITY aboutSupport.mediaDevicePreferred "Preferata">
 <!ENTITY aboutSupport.mediaDeviceFormat "Formo">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanaloj">
