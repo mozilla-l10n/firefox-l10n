@@ -10,7 +10,7 @@
 
 <!ENTITY fpDialog.title "ფაილის ჩაწერა">
 
-<!ENTITY fileCheck.label "ბეჭდვა ფაილში">
+<!ENTITY fileCheck.label "დაბეჭდვა ფაილში">
 <!ENTITY fileCheck.accesskey "ფ">
 <!ENTITY propertiesButton.label "პარამეტრები…">
 <!ENTITY propertiesButton.accesskey "პ">
