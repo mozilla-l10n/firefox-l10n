@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeBlocked "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
 <!ENTITY identity.passiveLoaded "Mõned selle lehe osad on ebaturvalised (nt pildid).">
 <!ENTITY identity.activeLoaded "Kaitse sellel lehel on keelatud.">
-<!ENTITY identity.weakEncryption "See leht kasutab nõrka krüpeeringut.">
+<!ENTITY identity.weakEncryption "See leht kasutab nõrka krüpteeringut.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ühendus selle saidiga pole privaatne. Edastatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.">
@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "T">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Lohista oma lemmik elemendid tööriistaribale või nurgatagusesse menüüsse.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Lohista oma lemmikelemendid tööriistaribale või nurgatagusesse menüüsse.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Soovid rohkem tööriistu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
 <!ENTITY customizeMode.restoreDefaults "Taasta vaikeväärtused">
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hangi rohkem teemasid">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
-<!ENTITY customizeMode.emptyOverflowList.description "Lohista elemente siia, et hoida nad käeulatuses aga mitte tööriistaribal…">
+<!ENTITY customizeMode.emptyOverflowList.description "Lohista elemente siia, et hoida nad käeulatuses, aga mitte tööriistaribal…">
 <!ENTITY customizeMode.uidensity "Tihedus">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -857,8 +857,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Puutetunlikule ekraanile">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Puutetunlikule ekraanile">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Puutetundlikule ekraanile">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Puutetundlikule ekraanile">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Puutetundliku ekraani tihedust kasutatakse tahvli režiimis">
 
@@ -976,4 +976,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.label3 "Saada leht seadmesse">
 <!ENTITY sendToDevice.syncNotReady.label "Toimub seadmete sünkroniseerimine…">
 
-<!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja veel asju">
+<!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
