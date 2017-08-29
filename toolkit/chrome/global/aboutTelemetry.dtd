@@ -54,8 +54,6 @@ Daha əvvəl
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Səyyahın Donması">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Əlaqənin donması">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Tutulan Dəstələr
 ">
@@ -80,6 +78,9 @@ Daha əvvəl
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Gecikmiş Yazılar">
 
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Xam yük
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Sessiya Məlumatı">
 
