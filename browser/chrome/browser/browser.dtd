@@ -320,7 +320,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "I">
 <!ENTITY viewSidebarMenu.label "Flanka strio">
 <!ENTITY viewSidebarMenu.accesskey "F">
-<!ENTITY viewCustomizeToolbar.label       "Persone agordi…">
+<!ENTITY viewCustomizeToolbar.label       "Personecigi…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personecigi ilaron…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "P">
@@ -335,9 +335,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Montri tutan historion">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Persone agordi">
-<!ENTITY appMenuCustomize.tooltip "Persone agordi la menuon kaj ilarstriojn">
-<!ENTITY appMenuCustomizeExit.label "Fini persone agordi">
+<!ENTITY appMenuCustomize.label "Personecigi">
+<!ENTITY appMenuCustomize.tooltip "Personecigi la menuon kaj ilarstriojn">
+<!ENTITY appMenuCustomizeExit.label "Fini personecigon">
 <!ENTITY appMenuCustomizeExit.tooltip "Fini la personan agordon">
 <!ENTITY appMenuHistory.label "Historio">
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">

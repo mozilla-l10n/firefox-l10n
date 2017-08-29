@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Paĝo #">
 <!ENTITY hfPageAndTotal      "Paĝo # de #">
 <!ENTITY hfBlank             "--malplena--">
-<!ENTITY hfCustom            "Persone agordita">
+<!ENTITY hfCustom            "Personecigita…">
 
-<!ENTITY customPrompt.title  "Persone agordita">
-<!ENTITY customPrompt.prompt "Tajpu vian persone agorditan tekston por kaptitolo aŭ subtitolo">
+<!ENTITY customPrompt.title  "Personecigita…">
+<!ENTITY customPrompt.prompt "Tajpu vian personecigitan tekston por kaptitolo aŭ subtitolo">
