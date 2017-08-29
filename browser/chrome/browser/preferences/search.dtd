@@ -4,12 +4,17 @@
 
 <!ENTITY defaultSearchEngine.label             "મૂળભૂત શોધ એંજીન">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.">
 
+<!ENTITY provideSearchSuggestions.label        "શોધ સૂચનો પૂરા પાડો">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions2.label           "સરનામાં બાર પરિણામોમાં શોધ સૂચનો બતાવો">
 <!ENTITY showURLBarSuggestions2.accesskey       "I">
 
+<!ENTITY oneClickSearchEngines.label           "શોધ એન્જિન્સ વન-ક્લિક કરો">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "વૈકલ્પિક શોધ એંજીન્સ પસંદ કરો જે સરનામાં બાર અને શોધ બાર નીચે દેખાય છે જ્યારે તમે કોઈ કીવર્ડ દાખલ કરવાનું શરૂ કરો છો.">
 
 <!ENTITY engineNameColumn.label                "શોધ એન્જિન">
 <!ENTITY engineKeywordColumn.label             "મુખ્ય શબ્દ">
