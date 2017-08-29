@@ -237,6 +237,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Blêdwizerarkbalke ferstopje">
 <!ENTITY searchBookmarks.label              "Blêdwizers trochsykje">
 <!ENTITY bookmarkingTools.label             "Blêdwizerark">
+<!ENTITY addBookmarksMenu.label             "Blêdwizers oan arkbalke tafoegje">
+<!ENTITY removeBookmarksMenu.label          "Blêdwizers fan arkbalke fuortsmite">
 
 <!ENTITY containersMenu.label "Konteners">
 
