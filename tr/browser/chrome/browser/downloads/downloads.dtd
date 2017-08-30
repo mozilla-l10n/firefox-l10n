@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Tüm indirmeleri göster">
 <!ENTITY downloadsHistory.accesskey       "T">
 
-<!ENTITY openDownloadsFolder.label       "İndirilenler klasörünü aç">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "İndirme ayrıntıları">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "İndirilenler klasörünü aç">
 
 <!ENTITY clearDownloadsButton.label       "İndirmeleri temizle">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, iptal edilen ve başarısız olan indirmeleri temizler">
