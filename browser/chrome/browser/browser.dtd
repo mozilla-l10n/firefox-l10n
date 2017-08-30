@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "с">
 <!ENTITY  sendLinkToDevice.label             "Відправити посилання на пристрій">
 <!ENTITY  sendLinkToDevice.accesskey         "л">
+<!ENTITY  sendToDeviceFeedback.label         "Надіслано!">
 <!ENTITY  moveToNewWindow.label              "Перенести в нове вікно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  bookmarkAllTabs.label              "Закласти всі вкладки…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Редагувати цю закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Закладки">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Закладки">
+<!ENTITY bookmarksSubview.label             "Закладки">
+<!ENTITY bookmarksMenuButton2.label         "Меню закладок">
 <!ENTITY bookmarksMenuButton.other.label    "Інші закладки">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобільні закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Інструменти закладок">
 <!ENTITY addBookmarksMenu.label             "Додати меню закладок до панелі інструментів">
 <!ENTITY removeBookmarksMenu.label          "Вилучити меню закладок з панелі інструментів">
-
-<!ENTITY containersMenu.label "Контейнери">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Пристосувати меню та панелі">
 <!ENTITY appMenuCustomizeExit.label "Вийти з пристосування">
 <!ENTITY appMenuCustomizeExit.tooltip "Завершити пристосування">
-<!ENTITY appMenuHistory.label "Історія">
 <!ENTITY appMenuHistory.showAll.label "Показати всю історію">
 <!ENTITY appMenuHistory.clearRecent.label "Стерти недавню історію…">
 <!ENTITY appMenuHistory.restoreSession.label "Відновити попередній сеанс">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Закласти цей фрейм">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ф">
 <!ENTITY copyURLCmd.label             "Копіювати адресу">
+<!ENTITY copyURLFeedback.label        "Скопійовано!">
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
 <!ENTITY emailPageCmd.accesskey       "с">
 <!ENTITY savePageCmd.label            "Зберегти як…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Закрити">
-
-<!ENTITY appMenuSidebars.label         "Бічні панелі">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
