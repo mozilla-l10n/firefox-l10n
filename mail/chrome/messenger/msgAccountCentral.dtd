@@ -18,8 +18,8 @@
 <!ENTITY accountsSectionHdr.label     "Тіркелгілер">
 <!ENTITY subscribeImapFolders.label   "Бумаларға жазылуларды басқару">
 <!ENTITY settingsLink.label           "Бұл тіркелгі үшін баптауларды қарау">
-<!ENTITY newAcctLink.label            "Жаңа тіркелгіні жасау">
-<!ENTITY newAcct.label                "Жаңа тіркелгіні жасау:">
+<!ENTITY setupNewAcctLink.label       "Тіркелгіні баптау">
+<!ENTITY setupNewAcct.label           "Тіркелгіні баптау:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Кеңейтілген мүмкіндіктері">
 <!ENTITY searchMsgsLink.label         "Хабарламаларды іздеу">
