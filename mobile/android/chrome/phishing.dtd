@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "S'ha informat que aquesta pàgina web de <span id='unwanted_sitename'/> conté programari indesitjable i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Les pàgines amb programari indesitjable intenten instal·lar programari que pot portar a enganys i afectar el vostre sistema de formes inesperades.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "El lloc web que voleu visitar pot contenir programari maliciós">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "El &brandShortName; ha blocat aquesta pàgina perquè podria intentar instal·lar aplicacions perilloses que roben la vostra informació o l'eliminen (per exemple, fotos, contrasenyes, missatges i targetes de crèdit).">
