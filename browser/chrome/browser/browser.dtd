@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "د">
 <!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
 <!ENTITY  sendLinkToDevice.accesskey         "د">
+<!ENTITY  sendToDeviceFeedback.label         "ارسال شد!">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "ویرایش این نشانک">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "نشانک‌ها">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "نشانک‌ها">
+<!ENTITY bookmarksSubview.label             "نشانک ها">
+<!ENTITY bookmarksMenuButton2.label         "نشانک‌ها فهرست">
 <!ENTITY bookmarksMenuButton.other.label    "نشانک‌‌های دیگر">
 <!ENTITY bookmarksMenuButton.mobile.label   "نشانک‌های همراه">
 <!ENTITY viewBookmarksSidebar2.label        "نمایش نوار ابزار نشانک‌ها">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "ابزار نشانک‌گذاری">
 <!ENTITY addBookmarksMenu.label             "افزودن منوی نشانک‌ها را به نوار ابزار">
 <!ENTITY removeBookmarksMenu.label          "حذف منوی نشانک‌ها از نوار ابزار">
-
-<!ENTITY containersMenu.label "دربردارنده">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "سفارشی‌سازی منو و نوار ابزار ها">
 <!ENTITY appMenuCustomizeExit.label "خروج از سفارشی‌سازی">
 <!ENTITY appMenuCustomizeExit.tooltip "پایان شخصی‌سازی">
-<!ENTITY appMenuHistory.label "تاریخچه">
 <!ENTITY appMenuHistory.showAll.label "نمایش تمام تاریخچه">
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
 <!ENTITY copyURLCmd.label             "رونوشت از نشانی وب">
+<!ENTITY copyURLFeedback.label        "برداشت شد!">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "بستن">
-
-<!ENTITY appMenuSidebars.label         "نوارهای جانبی">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
