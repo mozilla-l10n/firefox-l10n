@@ -115,7 +115,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 <!ENTITY aboutSupport.safeModeTitle "ลองใช้โหมดปลอดภัย">
-<!ENTITY aboutSupport.restartInSafeMode.label "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
+<!ENTITY aboutSupport.restartInSafeMode.label "เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "คุณลักษณะ">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "การวินิจฉัย">
