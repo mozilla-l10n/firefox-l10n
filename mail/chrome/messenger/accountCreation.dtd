@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Postafiók beállítása">
+<!ENTITY autoconfigWizard2.title         "Meglévő e-mail fiók beállítása">
 <!ENTITY name.label                      "Név:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Utónév, vezetéknév">
 <!ENTITY name.text                       "Így fog megjelenni a neve">
 <!ENTITY email.label                     "E-mail cím:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "email@example.com">
+<!ENTITY email.text                      "A meglévő e-mail címe">
 <!ENTITY password.label                  "Jelszó:">
 <!ENTITY password.accesskey              "J">
 <!ENTITY password.placeholder            "Jelszó">
@@ -53,8 +55,7 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Kézi beállítás">
 <!ENTITY manual-edit.accesskey           "K">
-<!ENTITY switch-to-provisioner.label     "Új postafiók létrehozása">
-<!ENTITY switch-to-provisioner.accesskey "o">
+<!ENTITY open-provisioner.label          "Új e-mail cím regisztrációja…">
 
 
 <!ENTITY warning.label                   "Vigyázat!">
