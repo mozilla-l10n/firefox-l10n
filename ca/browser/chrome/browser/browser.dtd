@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Tanca">
 <!ENTITY fullScreenAutohide.label "Amaga les barres d'eines">
 <!ENTITY fullScreenAutohide.accesskey "g">
-<!ENTITY fullScreenExit.label "Surt del mode en pantalla completa">
+<!ENTITY fullScreenExit.label "Surt del mode de pantalla completa">
 <!ENTITY fullScreenExit.accesskey "p">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -162,7 +162,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Edita aquesta adreça d'interès">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Subscriu-me a aquesta pàgina">
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a aquesta pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
@@ -228,7 +227,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Adreces d'interès">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
 <!ENTITY bookmarksMenuButton.other.label    "Altres adreces d'interès">
 <!ENTITY bookmarksMenuButton.mobile.label   "Adreces del mòbil">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
@@ -237,8 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Amaga la barra d'eines d'adreces d'interès">
 <!ENTITY searchBookmarks.label              "Cerca adreces d'interès">
 <!ENTITY bookmarkingTools.label             "Eines d'adreces d'interès">
-
-<!ENTITY containersMenu.label "Contenidors">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -337,7 +333,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalitza el menú i les barres d'eines">
 <!ENTITY appMenuCustomizeExit.label "Surt de la personalització">
 <!ENTITY appMenuCustomizeExit.tooltip "Acaba la personalització">
-<!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
@@ -910,8 +905,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Tanca">
-
-<!ENTITY appMenuSidebars.label         "Barres laterals">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
