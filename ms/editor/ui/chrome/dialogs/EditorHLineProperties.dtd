@@ -12,4 +12,16 @@
 <!ENTITY widthEditField.label "Lebar:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY pixelsPopup.value "piksel">
+<!ENTITY alignmentBox.label "Jajaran">
+<!ENTITY leftRadio.label "Kiri">
+<!ENTITY leftRadio.accessKey "K">
+<!ENTITY centerRadio.label "Tengah">
+<!ENTITY centerRadio.accessKey "T">
+<!ENTITY rightRadio.label "Kanan">
+<!ENTITY rightRadio.accessKey "K">
 
+<!ENTITY threeDShading.label "Naung 3-D">
+<!ENTITY threeDShading.accessKey "N">
+<!ENTITY saveSettings.label "Guna sebagai Piawai">
+<!ENTITY saveSettings.accessKey "P">
+<!ENTITY saveSettings.tooltip "Simpan tetapan berikut untuk digunakan apabila menyisipkan garis mengufuk yang baru">
