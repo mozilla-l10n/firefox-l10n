@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Vis alle nedlastinger">
 <!ENTITY downloadsHistory.accesskey       "V">
 
-<!ENTITY openDownloadsFolder.label       "Åpne nedlastingsmappe">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Nedlastingsdetaljer">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Åpne nedlastingsmappe">
 
 <!ENTITY clearDownloadsButton.label       "Slett nedlastinger">
 <!ENTITY clearDownloadsButton.tooltip     "Fjerner fullførte, avbrutte og feilede nedlastinger">

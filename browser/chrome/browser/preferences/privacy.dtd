@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "k">
 <!ENTITY  browserContainersSettings.label        "Innstillinger …">
 <!ENTITY  browserContainersSettings.accesskey    "I">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "Les mer">
