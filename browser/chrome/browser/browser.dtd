@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Trametter la colliaziun ad in apparat">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
+<!ENTITY  sendToDeviceFeedback.label         "Tramess!">
 <!ENTITY  moveToNewWindow.label              "Spustar en ina nova fanestra">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Agiuntar in segnapagina per mintga tab…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Modifitgar quest segnapagina">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenupopup.label "Abunar questa pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abunar questa pagina…">
 <!ENTITY addCurPagesCmd.label "Agiuntar segnapaginas per tut ils tabs…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Segnapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Segnapaginas">
+<!ENTITY bookmarksSubview.label             "Segnapaginas">
+<!ENTITY bookmarksMenuButton2.label         "Menu da segnapaginas">
 <!ENTITY bookmarksMenuButton.other.label    "Auters segnapaginas">
 <!ENTITY bookmarksMenuButton.mobile.label   "Segnapaginas mobils">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Utensils da segnapaginas">
 <!ENTITY addBookmarksMenu.label             "Agiuntar il menu da segnapaginas a la trav d'utensils">
 <!ENTITY removeBookmarksMenu.label          "Allontanar il menu da segnapaginas da la trav d'utensils">
-
-<!ENTITY containersMenu.label "Containers">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Persunalisar il menu e las travs d'utensils">
 <!ENTITY appMenuCustomizeExit.label "Serrar il modus da persunalisar">
 <!ENTITY appMenuCustomizeExit.tooltip "Terminar il persunalisar">
-<!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Mussar l'entira cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Stizzar la cronologia la pli nova…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar l'ultima sesida">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Agiuntar in segnapagina per il frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY copyURLCmd.label             "Copiar l'URL">
+<!ENTITY copyURLFeedback.label        "Copià!">
 <!ENTITY emailPageCmd.label           "Trametter la colliaziun per e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Memorisar la pagina sut…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Serrar">
-
-<!ENTITY appMenuSidebars.label         "Travs lateralas">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
