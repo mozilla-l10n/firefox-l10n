@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label       "E-post">
-<!ENTITY readMsgsLink.label          "Loe kirju">
-<!ENTITY composeMsgLink.label        "Kirjuta uus kiri">
+<!ENTITY emailSectionHdr.label        "E-post">
+<!ENTITY readMsgsLink.label           "Loe kirju">
+<!ENTITY composeMsgLink.label         "Kirjuta uus kiri">
 
-<!ENTITY newsSectionHdr.label        "Uudistegrupid">
-<!ENTITY subscribeNewsLink.label     "Halda uudistegruppide tellimusi">
+<!ENTITY newsSectionHdr.label         "Uudistegrupid">
+<!ENTITY subscribeNewsLink.label      "Halda uudistegruppide tellimusi">
 
-<!ENTITY feedsSectionHdr.label       "Uudistevood">
-<!ENTITY subscribeFeeds.label        "Halda tellimusi">
+<!ENTITY feedsSectionHdr.label        "Uudistevood">
+<!ENTITY subscribeFeeds.label         "Halda tellimusi">
 
-<!ENTITY chat.label                  "Kiirsuhtlus">
-<!ENTITY movemail.label              "Movemail">
+<!ENTITY chat.label                   "Kiirsuhtlus">
+<!ENTITY movemail.label               "Movemail">
 
-<!ENTITY accountsSectionHdr.label    "Kontod">
-<!ENTITY subscribeImapFolders.label  "Halda kaustade tellimusi">
-<!ENTITY settingsLink.label          "Kuva selle konto sätteid">
-<!ENTITY newAcctLink.label           "Loo uus konto">
-<!ENTITY newAcct.label               "Loo uus konto:">
+<!ENTITY accountsSectionHdr.label     "Kontod">
+<!ENTITY subscribeImapFolders.label   "Halda kaustade tellimusi">
+<!ENTITY settingsLink.label           "Kuva selle konto sätteid">
+<!ENTITY setupNewAcctLink.label       "Seadista konto">
+<!ENTITY setupNewAcct.label           "Seadista konto:">
 
-<!ENTITY advFeaturesSectionHdr.label "Lisavõimalused">
-<!ENTITY searchMsgsLink.label        "Otsi kirju">
-<!ENTITY filtersLink.label           "Halda e-posti filtreid">
-<!ENTITY junkSettings.label          "Rämpsposti sätted">
-<!ENTITY offlineLink.label           "Võrguta režiimi sätted">
+<!ENTITY advFeaturesSectionHdr.label  "Lisavõimalused">
+<!ENTITY searchMsgsLink.label         "Otsi kirju">
+<!ENTITY filtersLink.label            "Halda e-posti filtreid">
+<!ENTITY junkSettings.label           "Rämpsposti sätted">
+<!ENTITY offlineLink.label            "Võrguta režiimi sätted">
