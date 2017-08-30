@@ -18,8 +18,8 @@
 <!ENTITY accountsSectionHdr.label     "帐户">
 <!ENTITY subscribeImapFolders.label   "管理文件夹订阅">
 <!ENTITY settingsLink.label           "帐户设置">
-<!ENTITY newAcctLink.label            "新帐户">
-<!ENTITY newAcct.label                "创建新账户：">
+<!ENTITY setupNewAcctLink.label       "设置账户">
+<!ENTITY setupNewAcct.label           "设置账户">
 
 <!ENTITY advFeaturesSectionHdr.label  "高级功能">
 <!ENTITY searchMsgsLink.label         "查找">
