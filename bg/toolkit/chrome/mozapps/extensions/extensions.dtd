@@ -134,7 +134,7 @@
 <!ENTITY detail.homepage.label                "Страница">
 <!ENTITY detail.numberOfDownloads.label       "Изтегляния">
 
-<!ENTITY detail.contributions.description     "Разработчикът на тази добавка ви моли да поддържате разработката чрез малко дарение.">
+<!ENTITY detail.contributions.description     "Разработчикът на добавката ви приканва да допринесете за бъдещото ѝ развитие, като направите скромно дарение.">
 
 <!ENTITY detail.updateType                    "Автоматично обновяване">
 <!ENTITY detail.updateDefault.label           "Стандартно">
