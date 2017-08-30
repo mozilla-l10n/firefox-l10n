@@ -113,6 +113,10 @@
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subskrip">
 <!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
+<!ENTITY styleEm.label "Penekanan">
+<!ENTITY styleEm.accesskey "P">
+<!ENTITY styleStrong.label "Penekan Lebih kuat">
 
 
 
