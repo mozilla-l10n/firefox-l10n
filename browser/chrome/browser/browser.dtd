@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "P">
 <!ENTITY  sendLinkToDevice.label             "Hantar Pautan ke Peranti">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
+<!ENTITY  sendToDeviceFeedback.label         "Sudah dihantar!">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
 <!ENTITY  moveToNewWindow.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Edit Tandabuku Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenupopup.label "Langgan Halaman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan Halaman Ini…">
 <!ENTITY addCurPagesCmd.label "Tandabuku Semua Tab…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Tandabuku">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Tandabuku">
+<!ENTITY bookmarksSubview.label             "Tandabuku">
+<!ENTITY bookmarksMenuButton2.label         "Menu Tandabuku">
 <!ENTITY bookmarksMenuButton.other.label    "Tandabuku Lain">
 <!ENTITY bookmarksMenuButton.mobile.label   "Tandabuku Telefon">
 <!ENTITY viewBookmarksSidebar2.label        "Papar Tandabuku Bar Sisi">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Alatan Tandabuku">
 <!ENTITY addBookmarksMenu.label             "Tambah Menu Tandabuku dalam Bar alatan">
 <!ENTITY removeBookmarksMenu.label          "Buang Menu Tandabuku daripada Bar alatan">
-
-<!ENTITY containersMenu.label "Bekas">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Penyesuaian Menu dan Bar alat">
 <!ENTITY appMenuCustomizeExit.label "Keluar Penyesuaian">
 <!ENTITY appMenuCustomizeExit.tooltip "Siap Penyesuaian">
-<!ENTITY appMenuHistory.label "Sejarah">
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
 <!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Terdahulu">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Tandabuku Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "u">
 <!ENTITY copyURLCmd.label             "Salin URL">
+<!ENTITY copyURLFeedback.label        "Sudah disalin!">
 <!ENTITY emailPageCmd.label           "E-mel Pautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Halaman Sebagai…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Tutup">
-
-<!ENTITY appMenuSidebars.label         "Bar sisi">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
