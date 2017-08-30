@@ -5,9 +5,9 @@
 <!ENTITY  updateWizard.title              "&brandShortName; - განახლება">
 
 <!ENTITY  offline.title                   "&brandShortName; კავშირგარეშე რეჟიმშია">
-<!ENTITY  offline.description             "&brandShortName; საჭიროებს კავშირის რეჟიმში გადასვლას რათა შეამოწმოს 
-თქვენი მოდულების შესაძლო განახლებები თქვენს მიმდინარე ვერსიასთან 
-თავსებადობის უზრუნველსაყოფად.">
+<!ENTITY  offline.description             "&brandShortName; საჭიროებს ინტერნეტ კავშირს, რომ შეამოწმოს
+                                           არის თუ არა თქვენი დამატებებისთვის განახლებები ხელმისაწვდომი,
+                                           მიმდინარე ვერსიასთან თავსებადობის უზრუნველსაყოფად.">
 <!ENTITY  offline.toggleOffline.label     "კავშირის რეჟიმი.">
 <!ENTITY  offline.toggleOffline.accesskey "კ">
 
@@ -35,15 +35,15 @@
 <!ENTITY  noupdates.intro.desc            "&brandShortName; ვერ ახერხებს განახლებების მოძიებას ამ
                                            არათავსებადი დამატებებისთვის.">
 <!ENTITY  noupdates.error.desc            "განახლებების პოვნის მცდელობისას პრობლემები წარმოიქმნა.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ 
-თუ როდის მოიძებნება ამ მოდულის თავსებადი განახლება.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ,
+                                           როცა მოცემული დამატებების თავსებადი განახლებები მოიძებნება.">
 
 <!ENTITY  finished.wizard.title           "ჩადგმული თავსებადი დამატებები">
 <!ENTITY  finished.top.label              "&brandShortName;-მა განაახლა თქვენი დამატებები.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ 
-როცა თქვენი მოდულის განახლება მოიძებნება.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ 
-როცა თქვენი მოდულის განახლება მოიძებნება.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ,
+                                           როცა თქვენი დამატებების განახლებები მოიძებნება.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; დროდადრო შეამოწმებს და გაცნობებთ,
+                                           როცა თქვენი დამატებების განახლებები მოიძებნება.">
 
 <!ENTITY  adminDisabled.wizard.title      "განახლებების შემოწმება ვერ ხერხდება">
 <!ENTITY  adminDisabled.warning.label     "არათავსებადი დამატებების განახლებებზე შემოწმება, ვერ ხერხდება
@@ -51,8 +51,8 @@
                                            გთხოვთ, დასახმარებლად მიმართოთ სისტემის ადმინისტრატორს.">
 
 <!ENTITY  versioninfo.wizard.title        "დამატებების თავსებადობის შემოწმება">
-<!ENTITY  versioninfo.top.label           "თქვენი მოდულების თავსებადობის შემოწმება 
-                                           &brandShortName;-ის ამ ვერსიასთან.">
+<!ENTITY  versioninfo.top.label           "თქვენი დამატებების თავსებადობა მოწმდება
+                                           &brandShortName;-ის მიმდინარე ვერსიასთან.">
 <!ENTITY  versioninfo.waiting             "ამას შესაძლოა რამდენიმე წუთი დასჭირდეს…">
 
 <!ENTITY  installerrors.wizard.title      "პრობლემა განახლებების ჩადგმისას">
@@ -60,6 +60,6 @@
 ზოგიერთი მოდულის განახლებისას.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "დააწკაპეთ დასრულებაზე &brandShortName;-ით გასაგრძელებლად.">
+<!ENTITY  clickFinish.label               "დააწკაპეთ დასრულებაზე &brandShortName;-ის გასაშვებად.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; პროგრამის გასახსნელად დააწკაპეთ - მზადაა.">
 <!ENTITY  enableChecking.label            "&brandShortName; პროგრამისთვის განახლებების შემოწმების ნებართვა.">
