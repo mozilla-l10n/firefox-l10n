@@ -31,7 +31,7 @@
 <!ENTITY setAsMyDefaultBrowser3.label "Convertir en predeterminado…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "C">
 <!ENTITY isDefault.label "&brandShortName; es su navegador predeterminado">
-<!ENTITY isNotDefault.label "&brandShortName; no es su navegador predeterminado">
+<!ENTITY isNotDefault.label "&brandShortName; no es su navegador predet.">
 <!ENTITY separateProfileMode.label "Permitir a &brandShortName; y Firefox ejecutarse al mismo tiempo">
 <!ENTITY useFirefoxSync.label "Consejo: esto usa perfiles separados. Use Sync para compartir datos entre ellos.">
 <!ENTITY getStarted.notloggedin.label "Conectarse a &syncBrand.shortName.label;…">
