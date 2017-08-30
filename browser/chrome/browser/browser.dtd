@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "Marcadores">
+<!ENTITY bookmarksMenuButton2.label         "Menú de marcadores">
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcadores de celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
@@ -549,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Marcar este marco…">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
 <!ENTITY copyURLCmd.label             "Copiar URL">
+<!ENTITY copyURLFeedback.label        "¡Copiado!">
 <!ENTITY emailPageCmd.label           "Enlace por correo…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
