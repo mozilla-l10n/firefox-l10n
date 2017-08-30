@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Warna dan Latar belakang Halaman">
+<!ENTITY pageColors.label "Warna Halaman">
+<!ENTITY defaultColorsRadio.label "Warna piawai pembaca (Jangan tetapkan warna dalam halaman)">
+<!ENTITY defaultColorsRadio.accessKey "J">
+<!ENTITY defaultColorsRadio.tooltip "Guna tetapan warna daripada pemapar pelayar (pembaca) sahaja">
+<!ENTITY customColorsRadio.label "Guna warna penyesuaian:">
+<!ENTITY customColorsRadio.accessKey "W">
+<!ENTITY customColorsRadio.tooltip "Warna berikut menterbalikkan tetapan pemapar pelayar">
+
