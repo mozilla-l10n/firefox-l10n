@@ -2,87 +2,89 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title           "E-posti konto seadistamine">
-<!ENTITY name.label                       "Sinu nimi:">
-<!ENTITY name.accesskey                   "n">
-<!ENTITY name.placeholder                 "Eesnimi Perenimi">
-<!ENTITY name.text                        "Nimi, mida kuvatakse teistele">
-<!ENTITY email.label                      "E-posti aadress:">
-<!ENTITY email.accesskey                  "p">
-<!ENTITY email.placeholder                "ants.karu@eesti.ee">
-<!ENTITY password.label                   "Parool:">
-<!ENTITY password.accesskey               "r">
-<!ENTITY password.placeholder             "Parool">
-<!ENTITY password.text                    "Valikuline, kasutatakse ainult kasutajanime valideerimiseks">
-<!ENTITY rememberPassword.label           "Parool peetakse meeles">
-<!ENTITY rememberPassword.accesskey       "m">
+<!ENTITY autoconfigWizard2.title         "Olemasoleva e-posti konto seadistamine">
+<!ENTITY name.label                      "Sinu nimi:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Eesnimi Perenimi">
+<!ENTITY name.text                       "Nimi, mida kuvatakse teistele">
+<!ENTITY email.label                     "E-posti aadress:">
+<!ENTITY email.accesskey                 "p">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "sinu@aadress.ee">
+<!ENTITY email.text                      "Sinu olemasolev e-posti aadress">
+<!ENTITY password.label                  "Parool:">
+<!ENTITY password.accesskey              "r">
+<!ENTITY password.placeholder            "Parool">
+<!ENTITY password.text                   "Valikuline, kasutatakse ainult kasutajanime valideerimiseks">
+<!ENTITY rememberPassword.label          "Parool peetakse meeles">
+<!ENTITY rememberPassword.accesskey      "m">
 
-<!ENTITY imapLong.label                   "IMAP (kaugserver)">
-<!ENTITY pop3Long.label                   "POP3 (kirjad säilitatakse sinu arvutis)">
+<!ENTITY imapLong.label                  "IMAP (kaugserver)">
+<!ENTITY pop3Long.label                  "POP3 (kirjad säilitatakse sinu arvutis)">
 
-<!ENTITY incoming.label                   "Vastuvõttev:">
-<!ENTITY outgoing.label                   "Saatev:">
-<!ENTITY username.label                   "Kasutajanimi:">
-<!ENTITY hostname.label                   "Serveri aadress">
-<!ENTITY port.label                       "Port">
-<!ENTITY ssl.label                        "SSL">
-<!ENTITY auth.label                       "Autentimine">
-<!ENTITY imap.label                       "IMAP">
+<!ENTITY incoming.label                  "Vastuvõttev:">
+<!ENTITY outgoing.label                  "Saatev:">
+<!ENTITY username.label                  "Kasutajanimi:">
+<!ENTITY hostname.label                  "Serveri aadress">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Autentimine">
+<!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
-<!ENTITY smtp.label                       "SMTP">
-<!ENTITY autodetect.label                 "Automaatne tuvastamine">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Automaatne tuvastamine">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
-<!ENTITY noEncryption.label               "Puudub">
-<!ENTITY starttls.label                   "STARTTLS">
-<!ENTITY sslTls.label                     "SSL/TLS">
+<!ENTITY noEncryption.label              "Puudub">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label              "Täpsem seadistamine">
-<!ENTITY advancedSetup.accesskey          "T">
-<!ENTITY cancel.label                     "Loobu">
-<!ENTITY cancel.accesskey                 "L">
-<!ENTITY continue.label                   "Jätka">
-<!ENTITY continue.accesskey               "J">
-<!ENTITY stop.label                       "Peata">
-<!ENTITY stop.accesskey                   "P">
+<!ENTITY advancedSetup.label             "Täpsem seadistamine">
+<!ENTITY advancedSetup.accesskey         "T">
+<!ENTITY cancel.label                    "Loobu">
+<!ENTITY cancel.accesskey                "L">
+<!ENTITY continue.label                  "Jätka">
+<!ENTITY continue.accesskey              "J">
+<!ENTITY stop.label                      "Peata">
+<!ENTITY stop.accesskey                  "P">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label           "Kontrolli häälestust uuesti">
-<!ENTITY half-manual-test.accesskey       "K">
-<!ENTITY manual-edit.label                "Seadista käsitsi">
-<!ENTITY manual-edit.accesskey            "S">
-<!ENTITY switch-to-provisioner.label      "Hangi uus konto">
-<!ENTITY switch-to-provisioner.accesskey  "H">
+<!ENTITY half-manual-test.label          "Kontrolli häälestust uuesti">
+<!ENTITY half-manual-test.accesskey      "K">
+<!ENTITY manual-edit.label               "Seadista käsitsi">
+<!ENTITY manual-edit.accesskey           "S">
+<!ENTITY open-provisioner.label          "Hangi uus e-posti aadress…">
+<!ENTITY open-provisioner.accesskey      "H">
 
 
-<!ENTITY warning.label                    "Hoiatus!">
-<!ENTITY incomingSettings.label           "Vastuvõtmise sätted:">
-<!ENTITY outgoingSettings.label           "Saatmise sätted:">
-<!ENTITY technicaldetails.label           "Tehniline info">
+<!ENTITY warning.label                   "Hoiatus!">
+<!ENTITY incomingSettings.label          "Vastuvõtmise sätted:">
+<!ENTITY outgoingSettings.label          "Saatmise sätted:">
+<!ENTITY technicaldetails.label          "Tehniline info">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label             "Ma mõistan riske.">
-<!ENTITY confirmWarning.accesskey         "M">
+<!ENTITY confirmWarning.label            "Ma mõistan riske.">
+<!ENTITY confirmWarning.accesskey        "M">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label                "Valmis">
-<!ENTITY doneAccount.accesskey            "V">
+<!ENTITY doneAccount.label               "Valmis">
+<!ENTITY doneAccount.accesskey           "V">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label             "Redigeeri sätteid">
-<!ENTITY changeSettings.accesskey         "R">
+<!ENTITY changeSettings.label            "Redigeeri sätteid">
+<!ENTITY changeSettings.accesskey        "R">
 
 <!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Thunderbirdi korduma kippuvaid küsimusi.">
 
-<!ENTITY insecureServer.tooltip.title     "Hoiatus! See on ebaturvaline server.">
-<!ENTITY insecureServer.tooltip.details   "Täpsema info saamiseks klõpsa ringil.">
+<!ENTITY insecureServer.tooltip.title    "Hoiatus! See on ebaturvaline server.">
+<!ENTITY insecureServer.tooltip.details  "Täpsema info saamiseks klõpsa ringil.">
 
-<!ENTITY insecureUnencrypted.description  "Sinu kiri ja autentimine saadetakse krüptimata, seega võivad sinu parooli (ja kirja) lugeda teised inimesed. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline ühendus.">
-<!ENTITY insecureSelfSigned.description   "Server kasutab sertifikaati, mida pole võimalik usaldada, seega puudub ka kindlus, et keegi ei sega liiklust &brandShortName;i ja sinu serveri vahel. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline sertifikaat.">
-<!ENTITY secureServer.description         "Õnnitleme! See on turvaline server.">
+<!ENTITY insecureUnencrypted.description "Sinu kiri ja autentimine saadetakse krüptimata, seega võivad sinu parooli (ja kirja) lugeda teised inimesed. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline ühendus.">
+<!ENTITY insecureSelfSigned.description  "Server kasutab sertifikaati, mida pole võimalik usaldada, seega puudub ka kindlus, et keegi ei sega liiklust &brandShortName;i ja sinu serveri vahel. &brandShortName; lubab sul hankida oma kirjad, aga sa peaksid ühendust võtma oma e-posti teenusepakkujaga ja laskma tal häälestada serverile turvaline sertifikaat.">
+<!ENTITY secureServer.description        "Õnnitleme! See on turvaline server.">
