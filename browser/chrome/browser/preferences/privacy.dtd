@@ -114,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Nastavení…">
 <!ENTITY  browserContainersSettings.accesskey    "v">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Zabránit službám pro přístupnost v přístupu k vašemu prohlížeči">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Zjistit více">
