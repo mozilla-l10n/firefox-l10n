@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "发送链接到设备">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "已发送！">
 <!ENTITY  moveToNewWindow.label              "移动到新窗口">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "为全部标签页添加书签…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "订阅此页">
 <!ENTITY subscribeToPageMenupopup.label "订阅此页">
 <!ENTITY subscribeToPageMenuitem.label "订阅此页…">
 <!ENTITY addCurPagesCmd.label "为所有标签页添加书签…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "书签">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "书签">
+<!ENTITY bookmarksSubview.label             "书签">
+<!ENTITY bookmarksMenuButton2.label         "书签菜单">
 <!ENTITY bookmarksMenuButton.other.label    "其他书签">
 <!ENTITY bookmarksMenuButton.mobile.label   "移动版书签">
 <!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "书签工具">
 <!ENTITY addBookmarksMenu.label             "添加书签菜单到工具栏">
 <!ENTITY removeBookmarksMenu.label          "从工具栏移除书签菜单">
-
-<!ENTITY containersMenu.label "身份">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "定制菜单和工具栏">
 <!ENTITY appMenuCustomizeExit.label "退出定制">
 <!ENTITY appMenuCustomizeExit.tooltip "完成定制">
-<!ENTITY appMenuHistory.label "历史记录">
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复先前的浏览状态">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "为此框架添加书签">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "复制网址">
+<!ENTITY copyURLFeedback.label        "已复制！">
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "另存页面为…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "关闭">
-
-<!ENTITY appMenuSidebars.label         "侧栏">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
