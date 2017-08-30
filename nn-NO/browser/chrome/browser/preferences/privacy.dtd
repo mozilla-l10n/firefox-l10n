@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "k">
 <!ENTITY  browserContainersSettings.label        "Innstillingar…">
 <!ENTITY  browserContainersSettings.accesskey    "I">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Hindre tilgangstenester tilgjenge til nettlesaren din">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "H">
+<!ENTITY  a11yPrivacy.learnmore.label    "Les meir">
