@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Эл. пошта тіркелгісін баптау">
+<!ENTITY autoconfigWizard2.title         "Бар болып тұрған эл. пошта тіркелгісін баптау">
 <!ENTITY name.label                      "Сіздің атыңыз:">
 <!ENTITY name.accesskey                  "ы">
 <!ENTITY name.placeholder                "Аты Жөні">
 <!ENTITY name.text                       "Басқаларға көрсетілетіндей, сіздің атыңыз">
 <!ENTITY email.label                     "Эл. пошта адресі:">
 <!ENTITY email.accesskey                 "л">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Сіздің бар болып тұрған эл. пошта адресіңіз">
 <!ENTITY password.label                  "Пароль:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Паролі">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Қолмен баптау">
 <!ENTITY manual-edit.accesskey           "м">
-<!ENTITY switch-to-provisioner.label     "Жаңа тіркелгіні алу">
-<!ENTITY switch-to-provisioner.accesskey "л">
+<!ENTITY open-provisioner.label          "Жаңа эл. пошта адресін алу…">
+<!ENTITY open-provisioner.accesskey      "л">
 
 
 <!ENTITY warning.label                   "Ескерту!">
