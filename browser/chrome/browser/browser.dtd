@@ -71,7 +71,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
 <!ENTITY printSetupCmd.accesskey "ტ">
 <!ENTITY printPreviewCmd.label "ნახვა ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "ს">
+<!ENTITY printPreviewCmd.accesskey "ჭ">
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ა">
 <!ENTITY printCmd.commandkey "p">
@@ -538,8 +538,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "ხ">
 <!ENTITY viewImageDescCmd.label       "აღწერის ნახვა">
 <!ENTITY viewImageDescCmd.accesskey   "ა">
-<!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
-<!ENTITY viewVideoCmd.accesskey       "ვ">
+<!ENTITY viewVideoCmd.label           "ვიდეოს ნახვა">
+<!ENTITY viewVideoCmd.accesskey       "ნ">
 <!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
 <!ENTITY viewBGImageCmd.accesskey     "ფ">
 <!ENTITY setDesktopBackgroundCmd.label      "ფონად დაყენება სამუშაო მაგიდაზე…">
@@ -573,8 +573,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელფოსტით…">
 <!ENTITY emailImageCmd.accesskey      "ს">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
-<!ENTITY emailVideoCmd.accesskey      "ვ">
-<!ENTITY castVideoCmd.label           "ვიდეოს გაგზავნა მოწყობილობაში">
+<!ENTITY emailVideoCmd.accesskey      "ე">
+<!ENTITY castVideoCmd.label           "ვიდეოს გაგზავნა მოწყობილობაზე">
 <!ENTITY castVideoCmd.accesskey       "წ">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "ა">
@@ -601,7 +601,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "დაკვრა">
+<!ENTITY mediaPlay.label             "გაშვება">
 <!ENTITY mediaPlay.accesskey         "დ">
 <!ENTITY mediaPause.label            "შეჩერება">
 <!ENTITY mediaPause.accesskey        "შ">
@@ -632,10 +632,10 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "სამართავის ჩვენება">
-<!ENTITY mediaShowControls.accesskey "ჩ">
-<!ENTITY mediaHideControls.label     "სამართავის დამალვა">
-<!ENTITY mediaHideControls.accesskey "დ">
+<!ENTITY mediaShowControls.label     "სამართავი ღილაკების გამოჩენა">
+<!ENTITY mediaShowControls.accesskey "ღ">
+<!ENTITY mediaHideControls.label     "სამართავი ღილაკების დამალვა">
+<!ENTITY mediaHideControls.accesskey "ღ">
 <!ENTITY videoFullScreen.label       "სრული ეკრანი">
 <!ENTITY videoFullScreen.accesskey   "ს">
 <!ENTITY videoSaveImage.label        "ანაბეჭდის შენახვა როგორც…">
@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header3 "გადმოიტანეთ რჩეული ელემენტები ხელსაწყოთა ზოლში ან ჩამოსაშლელ მენიუში.">
 <!ENTITY customizeMode.menuAndToolbars.empty "მეტი ხელსაწყო გსურთ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "აირჩიეთ სასურველი, ათასობით დამატებიდან">
-<!ENTITY customizeMode.restoreDefaults "ნაგულისხმევების აღდგენა">
+<!ENTITY customizeMode.restoreDefaults "ნაგულისხმევის აღდგენა">
 <!ENTITY customizeMode.done "მზადაა">
 <!ENTITY customizeMode.titlebar "სათაურის ზოლი">
 <!ENTITY customizeMode.toolbars2 "ხელსაწყოთა ზოლები">
@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმების მოძიება">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
-<!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ხელსაწყოები აქ, მეტი ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
+<!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, ხელსაწყოთა ზოლის გარეთ, თუმცა მასთან ახლოს…">
 <!ENTITY customizeMode.uidensity "სიმჭიდროვე">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
