@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar Link para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!ENTITY  sendToDeviceFeedback.label         "Enviado!">
 <!ENTITY  moveToNewWindow.label              "Mover para uma nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Assinar esta página">
 <!ENTITY subscribeToPageMenupopup.label "Assinar esta página">
 <!ENTITY subscribeToPageMenuitem.label "Assinar esta página…">
 <!ENTITY addCurPagesCmd.label "Adicionar todas as abas…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Favoritos">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Favoritos">
+<!ENTITY bookmarksSubview.label             "Favoritos">
+<!ENTITY bookmarksMenuButton2.label         "Menu de favoritos">
 <!ENTITY bookmarksMenuButton.other.label    "Outros favoritos">
 <!ENTITY bookmarksMenuButton.mobile.label   "Favoritos do celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
@@ -238,8 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
 <!ENTITY addBookmarksMenu.label             "Adicionar menu de favoritos à barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Remover menu de favoritos da barra de ferramentas">
-
-<!ENTITY containersMenu.label "Contêineres">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -338,7 +337,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar menu e barras de ferramentas">
 <!ENTITY appMenuCustomizeExit.label "Concluir personalização">
 <!ENTITY appMenuCustomizeExit.tooltip "Concluir a personalização">
-<!ENTITY appMenuHistory.label "Histórico">
 <!ENTITY appMenuHistory.showAll.label "Mostrar histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar dados de navegação…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
@@ -551,6 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos favoritos">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
 <!ENTITY copyURLCmd.label             "Copiar URL">
+<!ENTITY copyURLFeedback.label        "Copiado!">
 <!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Salvar página como…">
@@ -911,8 +910,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Fechar">
-
-<!ENTITY appMenuSidebars.label         "Painéis">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
