@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "c">
 <!ENTITY  sendLinkToDevice.label             "Bağlantıyı cihaza gönder">
 <!ENTITY  sendLinkToDevice.accesskey         "c">
+<!ENTITY  sendToDeviceFeedback.label         "Gönderdi!">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "Y">
 <!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Bu yer imini düzenle">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenupopup.label "Bu sayfaya abone ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu sayfaya abone ol…">
 <!ENTITY addCurPagesCmd.label "Tüm sekmeleri yer imlerine ekle…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Yer imleri">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Yer imleri">
+<!ENTITY bookmarksSubview.label             "Yer imleri">
+<!ENTITY bookmarksMenuButton2.label         "Yer imleri menüsü">
 <!ENTITY bookmarksMenuButton.other.label    "Diğer yer imleri">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imleri kenar çubuğunu göster">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Yer imi araçları">
 <!ENTITY addBookmarksMenu.label             "Yer imleri menüsünü araç çubuğuna ekle">
 <!ENTITY removeBookmarksMenu.label          "Yer imleri menüsünü araç çubuğundan çıkar">
-
-<!ENTITY containersMenu.label "Kapsayıcılar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Menüyü ve araç çubuklarını özelleştir">
 <!ENTITY appMenuCustomizeExit.label "Özelleştirmeyi bitir">
 <!ENTITY appMenuCustomizeExit.tooltip "Özelleştirmeyi bitir">
-<!ENTITY appMenuHistory.label "Geçmiş">
 <!ENTITY appMenuHistory.showAll.label "Tüm geçmişi göster">
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Adresi kopyala">
+<!ENTITY copyURLFeedback.label        "Kopyalandı!">
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postala…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Kapat">
-
-<!ENTITY appMenuSidebars.label         "Kenar çubukları">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
