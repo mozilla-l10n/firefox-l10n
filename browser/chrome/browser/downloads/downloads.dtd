@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Montri ĉiujn elŝutojn">
 <!ENTITY downloadsHistory.accesskey       "M">
 
-<!ENTITY openDownloadsFolder.label       "Malfermi dosierujon de elŝutoj">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Detaloj de elŝuto">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Malfermi dosierujon de elŝutoj">
 
 <!ENTITY clearDownloadsButton.label       "Viŝi elŝutojn">
 <!ENTITY clearDownloadsButton.tooltip     "Viŝi finintajn, nuligitajn kaj malsukcesajn elŝutojn">
