@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Tetapan…">
 <!ENTITY  browserContainersSettings.accesskey    "p">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Halang perkhidmatan daripada mengakses pelayar anda">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "Ketahui selanjutnya">
