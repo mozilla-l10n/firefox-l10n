@@ -113,6 +113,7 @@
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subskrip">
 <!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Tersusun">
 <!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Penekanan">
 <!ENTITY styleEm.accesskey "P">
@@ -320,7 +321,26 @@
 <!ENTITY outdentToolbarCmd.tooltip "Teks luar inden (alih kiri)">
 <!ENTITY indentToolbarCmd.tooltip "Teks inden (alih kanan)">
 <!ENTITY AlignPopupButton.tooltip "Pilih jajaran teks">
+<!ENTITY InsertPopupButton.tooltip "Sisip Pautan, Labuh, Imej, Garisan Mengufuk atau Jadual">
+<!ENTITY alignLeftButton.tooltip "Jajar teks sepanjang jidar kiri">
+<!ENTITY alignCenterButton.tooltip "Jajar teks di tengah">
+<!ENTITY alignRightButton.tooltip "Jajar teks sepanjang jidar kanan">
+<!ENTITY alignJustifyButton.tooltip "Jajar teks sepanjang jidar kiri dan kanan">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Pilih">
+<!ENTITY structSelect.accesskey     "l">
+<!ENTITY structRemoveTag.label      "Buang tag">
+<!ENTITY structRemoveTag.accesskey  "g">
+<!ENTITY structChangeTag.label      "Tukar tag">
+<!ENTITY structChangeTag.accesskey  "t">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Sisip">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Kemaskini">
+<!ENTITY updateTOC.accesskey      "k">
+<!ENTITY removeTOC.label          "Buang">
+<!ENTITY removeTOC.accesskey      "g">
+<!ENTITY tocMenu.label            "Jadual Kandungan…">
+<!ENTITY tocMenu.accesskey        "d">
