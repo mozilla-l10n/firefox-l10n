@@ -56,6 +56,7 @@
 <!ENTITY manual-edit.label               "Config. manual">
 <!ENTITY manual-edit.accesskey           "o">
 <!ENTITY open-provisioner.label          "Usar um novo endereço de e-mail…">
+<!ENTITY open-provisioner.accesskey      "o">
 
 
 <!ENTITY warning.label                   "Alerta!">
