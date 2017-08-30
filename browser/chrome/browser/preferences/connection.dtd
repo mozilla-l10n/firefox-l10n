@@ -27,16 +27,20 @@
 <!ENTITY  ssl2.label                    "SSL Proxy">
 <!ENTITY  ssl2.accesskey                "L">
 <!ENTITY  socks2.label                  "SOCKS-host">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS fia proxy by gebrûk fan SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "Poarte">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Gjin proxy foar">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Foarbyld: .mozilla.org, .net.nl, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Deselde proxy foar alle protokollen brûke">
 <!ENTITY  shareproxy.accesskey          "x">

@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Lettertypen">
 
-<!ENTITY  language.label                          "Lettertypen foar:">
-<!ENTITY  language.accesskey                      "L">
+<!ENTITY  fonts.label                             "Lettertypen foar">
+<!ENTITY  fonts.accesskey                         "L">
 
-<!ENTITY  size.label                              "Grutte:">
+<!ENTITY  size2.label                             "Grutte">
 <!ENTITY  sizeProportional.accesskey              "G">
 <!ENTITY  sizeMonospace.accesskey                 "r">
 
-<!ENTITY  proportional.label                      "Proporsjoneel:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "Proporsjoneel">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Skreef:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Skreefleas:">
-<!ENTITY  sans-serif.accesskey                    "k">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetaansk">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimale lettergrutte:">
-<!ENTITY minSize.accesskey                        "n">
+<!ENTITY minSize2.label                           "Minimale lettergrutte">
+<!ENTITY minSize2.accesskey                       "e">
 <!ENTITY minSize.none                             "Gjin">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "S">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tekstkodearring foar Legacy-ynhâld">
-<!ENTITY languages.customize.Fallback2.label      "Tebekfaltekstkodearring:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Tebekfaltekstkodearring">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Dizze tekstkodearring wurdt brûkt foar legacy-ynhâld dy't gjin eigen kodearring oanjaan kin.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standert foar aktuele lânynstelling">
