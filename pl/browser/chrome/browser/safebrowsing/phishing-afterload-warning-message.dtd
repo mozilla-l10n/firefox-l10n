@@ -22,5 +22,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Witryny tego typu próbują wyłudzić dane prywatne, takie jak hasła, numery telefonów i kart kredytowych lub nakłonić do instalacji niebezpiecznego oprogramowania.</p><p>Wprowadzanie jakichkolwiek informacji osobistych na tej stronie może skutkować kradzieżą tożsamości lub inną malwersacją.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Złośliwe oprogramowanie za rogiem!">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox zablokował tę stronę, ponieważ mogła próbować instalować niebezpieczne aplikacje wykradające lub usuwające dane (np. hasła, zdjęcia, wiadomości i dane kart płatniczych).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; zablokował tę stronę, ponieważ mogła próbować instalować niebezpieczne aplikacje wykradające lub usuwające dane (np. hasła, zdjęcia, wiadomości i dane kart płatniczych).">
