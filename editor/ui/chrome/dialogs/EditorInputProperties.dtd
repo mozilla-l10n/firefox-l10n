@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowTitle.label "Sifat Medan Borang">
+<!ENTITY windowTitleImage.label "Sifat Imej Borang">
+
+<!ENTITY InputType.label "Jenis Medan">
+<!ENTITY InputType.accesskey "J">
+<!ENTITY text.value "Teks">
+<!ENTITY password.value "Kata laluan">
+<!ENTITY checkbox.value "Kotak Semakan">
+<!ENTITY radio.value "Butang Radio">
+<!ENTITY submit.value "Butang Hantar">
+<!ENTITY reset.value "Butang Set semula">
+<!ENTITY file.value "Fail">
+<!ENTITY hidden.value "Tersorok">
+<!ENTITY image.value "Imej">
+<!ENTITY button.value "Butang">
+
+<!ENTITY InputSettings.label "Tetapan Medan">
+<!ENTITY InputName.label "Nama Medan:">
+<!ENTITY InputName.accesskey "N">
+<!ENTITY GroupName.label "Nama Kumpulan:">
+<!ENTITY GroupName.accesskey "N">
+
