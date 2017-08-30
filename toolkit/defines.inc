@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ინგლისური (აშშ)
+#define MOZ_LANG_TITLE ქართული (Geogrian)
