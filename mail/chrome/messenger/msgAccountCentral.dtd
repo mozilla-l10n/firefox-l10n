@@ -18,8 +18,8 @@
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Gerenciar inscrições de pastas">
 <!ENTITY settingsLink.label           "Ver configurações desta conta">
-<!ENTITY newAcctLink.label            "Criar uma nova conta">
-<!ENTITY newAcct.label                "Criar uma nova conta:">
+<!ENTITY setupNewAcctLink.label       "Configurar uma conta">
+<!ENTITY setupNewAcct.label           "Configurar uma conta:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Recursos avançados">
 <!ENTITY searchMsgsLink.label         "Pesquisar">
