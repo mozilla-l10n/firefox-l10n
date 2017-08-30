@@ -18,7 +18,7 @@
 <!ENTITY minZoom.label "Intervalo de">
 <!ENTITY minZoom.accesskey "I">
 <!ENTITY maxZoom.label "a">
-<!ENTITY maxZoom.accesskey "">
+<!ENTITY maxZoom.accesskey "a">
 <!ENTITY percent.label "&#037;">
 <!ENTITY siteSpecific.label "Recordar los niveles de ampliación para cada sitio">
 <!ENTITY siteSpecific.accesskey "d">
