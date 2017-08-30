@@ -34,3 +34,6 @@
 <!ENTITY indent.label           "Inden">
 <!ENTITY underline.label        "Garis bawah">
 
+<!ENTITY absolutePosition.label "Kedudukan mutlak">
+<!ENTITY decreaseZIndex.label   "Hantar ke belakang">
+<!ENTITY increaseZIndex.label   "Bawa ke hadapan">
