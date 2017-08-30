@@ -15,7 +15,7 @@
 <!ENTITY helpMenuWin.label        "დახმარება"> 
 <!ENTITY helpMenuWin.accesskey    "დ">
 <!ENTITY aboutProduct2.label      "&brandShorterName;-ის შესახებ">
-<!ENTITY aboutProduct2.accesskey  "ე">
+<!ENTITY aboutProduct2.accesskey  "შ">
 <!ENTITY productHelp2.label       "&brandShorterName; დახმარება">
 <!ENTITY productHelp2.accesskey   "დ">
 <!ENTITY helpMac.commandkey       "?">
@@ -24,21 +24,21 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "კ">
 
 <!ENTITY helpSafeMode.label       "გამორთული დამატებებით გაშვება...">
-<!ENTITY helpSafeMode.accesskey   "ხ">
+<!ENTITY helpSafeMode.accesskey   "შ">
 <!ENTITY helpSafeMode.stop.label       "ჩართული დამატებებით გაშვება">
 <!ENTITY helpSafeMode.stop.accesskey   "ჩ">
 
 <!ENTITY healthReport2.label      "&brandShorterName; გამართულობის შესახებ მოხსენება">
-<!ENTITY healthReport2.accesskey  "ჯ">
+<!ENTITY healthReport2.accesskey  "ხ">
 
 <!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
-<!ENTITY helpTroubleshootingInfo.accesskey  "პ">
+<!ENTITY helpTroubleshootingInfo.accesskey  "ფ">
 
 <!ENTITY helpFeedbackPage.label      "უკუკავშირი...">
-<!ENTITY helpFeedbackPage.accesskey  "გ">
+<!ENTITY helpFeedbackPage.accesskey  "უ">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; ტური">
-<!ENTITY helpShowTour2.accesskey        "უ">
+<!ENTITY helpShowTour2.accesskey        "ტ">
 
 <!ENTITY preferencesCmdMac.label        "პარამეტრები…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "მომსახურებები">
 
 <!ENTITY hideThisAppCmdMac2.label       "&brandShorterName;-ის დამალვა">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "დ">
 
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "დ">
 
-<!ENTITY showAllAppsCmdMac.label        "ყველას ჩვენება">
+<!ENTITY showAllAppsCmdMac.label        "ყველას გამოჩენა">
