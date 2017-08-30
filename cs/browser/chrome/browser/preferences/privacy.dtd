@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Nastavení…">
 <!ENTITY  browserContainersSettings.accesskey    "v">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "Zjistit více">

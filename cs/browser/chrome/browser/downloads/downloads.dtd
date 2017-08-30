@@ -134,6 +134,12 @@
 <!ENTITY downloadsHistory.label           "Zobrazit všechna stahování">
 <!ENTITY downloadsHistory.accesskey       "v">
 
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Podrobnosti o stahování">
+
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.

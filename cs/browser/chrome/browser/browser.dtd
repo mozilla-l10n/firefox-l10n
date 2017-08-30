@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "e">
 <!ENTITY  sendLinkToDevice.label             "Poslat odkaz do zařízení">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
+<!ENTITY  sendToDeviceFeedback.label         "Odeslat!">
 <!ENTITY  moveToNewWindow.label              "Přesunout do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Přidat všechny panely do záložek…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Upravit záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenupopup.label "Odebírat kanál této stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odebírat kanál této stránky…">
 <!ENTITY addCurPagesCmd.label "Přidat všechny panely do záložek…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Záložky">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Záložky">
+<!ENTITY bookmarksSubview.label             "Záložky">
+<!ENTITY bookmarksMenuButton2.label         "Nabídka záložek">
 <!ENTITY bookmarksMenuButton.other.label    "Ostatní záložky">
 <!ENTITY bookmarksMenuButton.mobile.label   "Záložky z mobilu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Nástroje pro práci se záložkami">
 <!ENTITY addBookmarksMenu.label             "Přidat nabídku záložek na lištu">
 <!ENTITY removeBookmarksMenu.label          "Odebrat nabídku záložek z lišty">
-
-<!ENTITY containersMenu.label "Kontejnery">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Přizpůsobí nabídku a lišty">
 <!ENTITY appMenuCustomizeExit.label "Ukončit přizpůsobení">
 <!ENTITY appMenuCustomizeExit.tooltip "Ukončí přizpůsobení">
-<!ENTITY appMenuHistory.label "Historie">
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Přidat rám do záložek">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
 <!ENTITY copyURLCmd.label             "Kopírovat URL">
+<!ENTITY copyURLFeedback.label        "Zkopírováno!">
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Uložit stránku jako…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Zavřít">
-
-<!ENTITY appMenuSidebars.label         "Postranní lišty">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
