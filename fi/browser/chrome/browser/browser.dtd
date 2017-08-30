@@ -162,7 +162,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Muokkaa kirjanmerkkiä">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenupopup.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenuitem.label "Tilaa sivu…">
 <!ENTITY addCurPagesCmd.label "Lisää välilehdet kirjanmerkkeihin…">
@@ -228,7 +227,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Kirjanmerkit">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Kirjanmerkit">
+<!ENTITY bookmarksSubview.label             "Kirjanmerkit">
+<!ENTITY bookmarksMenuButton2.label         "Kirjanmerkkivalikko">
 <!ENTITY bookmarksMenuButton.other.label    "Muut kirjanmerkit">
 <!ENTITY bookmarksMenuButton.mobile.label   "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
@@ -239,8 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Kirjanmerkkityökalut">
 <!ENTITY addBookmarksMenu.label             "Lisää kirjanmerkkivalikko työkalupalkkiin">
 <!ENTITY removeBookmarksMenu.label          "Poista kirjanmerkkivalikko työkalupalkista">
-
-<!ENTITY containersMenu.label "Luokitukset">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +337,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Muokkaa valikkoa ja työkalupalkkeja">
 <!ENTITY appMenuCustomizeExit.label "Lopeta muokkaus">
 <!ENTITY appMenuCustomizeExit.tooltip "Lopeta muokkaus">
-<!ENTITY appMenuHistory.label "Sivuhistoria">
 <!ENTITY appMenuHistory.showAll.label "Näytä koko sivuhistoria">
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
@@ -552,6 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY copyURLCmd.label             "Kopioi osoite">
+<!ENTITY copyURLFeedback.label        "Kopioitu!">
 <!ENTITY emailPageCmd.label           "Lähetä linkki…">
 <!ENTITY emailPageCmd.accesskey       "L">
 <!ENTITY savePageCmd.label            "Tallenna sivu nimellä…">
@@ -912,8 +910,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Sulje">
-
-<!ENTITY appMenuSidebars.label         "Sivupalkit">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
