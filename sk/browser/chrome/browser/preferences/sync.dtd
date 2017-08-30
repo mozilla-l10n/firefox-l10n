@@ -66,6 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Vezmite si svoj web so sebou">
 <!ENTITY signedOut.description        "Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.">
 <!ENTITY signedOut.accountBox.title   "Pripojte sa k službe &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "Nemáte účet? Začnite tu">
+<!ENTITY signedOut.accountBox.create2.accesskey "t">
 <!ENTITY signedOut.accountBox.signin2 "Prihlásiť sa…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "i">
 

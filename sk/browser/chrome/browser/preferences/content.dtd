@@ -29,7 +29,7 @@
 
 <!ENTITY  microphonePermissions.label                           "Mikrofón">
 <!ENTITY  microphoneSettingsButton.label                        "Nastavenia…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "o">
+<!ENTITY  microphoneSettingsButton.accesskey                    "s">
 
 <!ENTITY  fontsAndColors.label        "Písma a farby">
 
