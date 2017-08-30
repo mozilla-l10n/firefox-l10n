@@ -23,4 +23,28 @@
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nama Kumpulan:">
 <!ENTITY GroupName.accesskey "N">
+<!ENTITY InputValue.label "Nilai Medan:">
+<!ENTITY InputValue.accesskey "N">
+<!ENTITY InitialValue.label "Nilai Permulaan:">
+<!ENTITY InitialValue.accesskey "N">
+<!ENTITY InputChecked.label "Semakan Permulaan">
+<!ENTITY InputChecked.accesskey "S">
+<!ENTITY InputSelected.label "Pemilihan Permulaan">
+<!ENTITY InputSelected.accesskey "P">
+<!ENTITY InputReadOnly.label "Baca Sahaja">
+<!ENTITY InputReadOnly.accesskey "B">
+<!ENTITY InputDisabled.label "Dinyahdayakan">
+<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY tabIndex.label "Indeks Tab:">
+<!ENTITY tabIndex.accesskey "I">
+<!ENTITY TextSize.label "Saiz Medan:">
+<!ENTITY TextSize.accesskey "M">
+<!ENTITY TextLength.label "Panjang Maksimum:">
+<!ENTITY TextLength.accesskey "P">
+<!ENTITY AccessKey.label "Kekunci Akses:">
+<!ENTITY AccessKey.accesskey "K">
+<!ENTITY Accept.label "Jenis Penerimaan:">
+<!ENTITY Accept.accesskey "P">
 
+<!ENTITY ImageProperties.label "Sifat Imej…">
+<!ENTITY ImageProperties.accesskey "S">
