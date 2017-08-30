@@ -237,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!ENTITY hideBookmarksToolbar.label         "Ocultar Barra de Favoritos">
 <!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
+<!ENTITY bookmarkingTools.label             "Ferramentas de favoritos">
 <!ENTITY addBookmarksMenu.label             "Adicionar menu de favoritos à barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Remover menu de favoritos da barra de ferramentas">
 
