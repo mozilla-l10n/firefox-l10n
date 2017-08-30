@@ -296,6 +296,13 @@
 <!ENTITY imageToolbarCmd.label "Imej">
 <!ENTITY imageToolbarCmd.tooltip "Sisip imej baru atau edit sifat imej dipilih">
 <!ENTITY hruleToolbarCmd.label "H.Line">
+<!ENTITY hruleToolbarCmd.tooltip "Sisip garis mengufuk atau edit sifat garis dipilih">
+<!ENTITY tableToolbarCmd.label "Jadual">
+<!ENTITY tableToolbarCmd.tooltip "Sisip jadual baru atau edit sifat jadual dipilih">
+<!ENTITY linkToolbarCmd.label "Pautan">
+<!ENTITY linkToolbarCmd.tooltip "Sisip pautan baru atau edit sifat pautan dipilih">
+<!ENTITY anchorToolbarCmd.label "Labuh">
+<!ENTITY anchorToolbarCmd.tooltip "Sisip nama labuh baru atau edit sifat labuh dipilih">
 
 <!-- Editor toolbar -->
 
