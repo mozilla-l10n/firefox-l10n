@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "แป้นพิมพ์ลัด">
 <!ENTITY helpKeyboardShortcuts.accesskey "ล">
 
-<!ENTITY helpSafeMode.label       "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
+<!ENTITY helpSafeMode.label       "เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey   "ร">
-<!ENTITY helpSafeMode.stop.label       "เริ่มการทำงานใหม่และเปิดใช้งานส่วนเสริม">
+<!ENTITY helpSafeMode.stop.label       "เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม">
 <!ENTITY helpSafeMode.stop.accesskey   "ร">
 
 <!ENTITY healthReport2.label      "รายงานสุขภาพ &brandShorterName;">
