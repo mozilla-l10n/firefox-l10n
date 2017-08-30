@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Configuração da conta de correio">
+<!ENTITY autoconfigWizard2.title         "Configurar uma conta de email existente">
 <!ENTITY name.label                      "O seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Primeiro Último">
 <!ENTITY name.text                       "O nome a mostrar a terceiros">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "O seu endereço de email existente">
 <!ENTITY password.label                  "Palavra-passe:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Palavra-passe">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Configuração manual">
 <!ENTITY manual-edit.accesskey           "m">
-<!ENTITY switch-to-provisioner.label     "Obter uma nova conta">
-<!ENTITY switch-to-provisioner.accesskey "O">
+<!ENTITY open-provisioner.label          "Obter um novo endereço de email…">
+<!ENTITY open-provisioner.accesskey      "o">
 
 
 <!ENTITY warning.label                   "Aviso!">
