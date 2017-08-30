@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "ჩ">
 <!ENTITY  browserContainersSettings.label        "პარამეტრები…">
 <!ENTITY  browserContainersSettings.accesskey    "პ">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "დამხმარე საშუალებებისთვის, ბრაუზერთან წვდომის შეზღუდვა">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "დ">
+<!ENTITY  a11yPrivacy.learnmore.label    "შეიტყვეთ მეტი">
