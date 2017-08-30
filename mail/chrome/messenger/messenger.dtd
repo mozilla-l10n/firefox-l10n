@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Muuda mustandit">
 <!ENTITY editDraftMsgCmd.accesskey "u">
+<!ENTITY newMsgFromTemplateCmd.label "Uus kiri mallist">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Loo kirja põhjal filter...">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Liigutamine">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "Sordi manuste järgi">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Uus kiri mallist">
 <!ENTITY contextOpenNewWindow.label "Ava kiri uues aknas">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Ava kiri uuel kaardil">
 <!ENTITY contextOpenNewTab.accesskey "k">
 <!ENTITY contextOpenConversation.label "Ava kiri vestlusena">
@@ -953,3 +956,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Rakenduse ikooni sätted…">
 <!ENTITY writeNewMessageDock.label      "Kirjuta uus kiri">
+<!ENTITY openAddressBookDock.label      "Ava aadressiraamat">
