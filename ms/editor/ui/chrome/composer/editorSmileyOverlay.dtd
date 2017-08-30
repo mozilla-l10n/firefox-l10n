@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Senyuman">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Senyum">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "Sisip wajah senyuman">
+<!ENTITY smiley2Cmd.label "Berkerut">
+<!ENTITY smiley2Cmd.accesskey "B">
+<!ENTITY smiley2Cmd.tooltip "Sisip wajah berkerut">
+<!ENTITY smiley3Cmd.label "Kenyit">
+<!ENTITY smiley3Cmd.accesskey "K">
+<!ENTITY smiley3Cmd.tooltip "Sisip wajah kenyit">
+<!ENTITY smiley4Cmd.label "Jelir lidah">
+<!ENTITY smiley4Cmd.accesskey "J">
+<!ENTITY smiley4Cmd.tooltip "Sisip wajah jelir lidah">
+<!ENTITY smiley5Cmd.label "Ketawa">
+<!ENTITY smiley5Cmd.accesskey "K">
+<!ENTITY smiley5Cmd.tooltip "Sisip wajah ketawa">
+
