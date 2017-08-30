@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Nije kontener tafoegje">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Namme:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Namme">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Kontenernamme ynfiere">
-<!ENTITY icon.label           "Piktogram:">
-<!ENTITY icon.accesskey       "P">
-<!ENTITY color.label          "Kleur:">
-<!ENTITY color.accesskey      "l">
+<!ENTITY icon2.label          "Piktogram">
+<!ENTITY icon2.accesskey      "P">
+<!ENTITY color2.label         "Kleur">
+<!ENTITY color2.accesskey     "e">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Dien">
 <!ENTITY button.ok.accesskey  "D">
-

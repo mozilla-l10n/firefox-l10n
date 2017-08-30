@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Pop-upfinsters blokkearje">
 <!ENTITY  blockPopups.accesskey       "P">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Mear ynfo">
-<!ENTITY  notificationsPolicyDesc4.label       "Kies hokker websites jo notifikaasjes stjoere meie">
-<!ENTITY  notificationsPolicyButton.accesskey  "e">
-<!ENTITY  notificationsPolicyButton.label      "Kieze…">
 <!ENTITY  notificationsDoNotDisturb.label      "My net steure">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Der wurde gjin notifikaasjes toand oant jo &brandShortName; werstarte">
 
-<!ENTITY  popupExceptions.label       "Utsûnderingen…">
-<!ENTITY  popupExceptions.accesskey   "U">
+<!ENTITY  popupExceptions.label                                 "Utsûnderingen…">
+<!ENTITY  popupExceptions.accesskey                             "U">
+
+<!ENTITY  notificationPermissions.label                         "Notifikaasjes">
+<!ENTITY  notificationSettingsButton.label                      "Ynstellingen…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Mear ynfo">
+
+<!ENTITY  locationPermissions.label                             "Lokaasje">
+<!ENTITY  locationSettingsButton.label                          "Ynstellingen…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Ynstellingen…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofoan">
+<!ENTITY  microphoneSettingsButton.label                        "Ynstellingen…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Lettertypen &amp; kleuren">
 
