@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "ย">
 <!ENTITY  browserContainersSettings.label        "การตั้งค่า…">
 <!ENTITY  browserContainersSettings.accesskey    "ต">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "เรียนรู้เพิ่มเติม">
