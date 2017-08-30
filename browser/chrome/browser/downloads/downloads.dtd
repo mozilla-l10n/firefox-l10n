@@ -134,7 +134,16 @@
 <!ENTITY downloadsHistory.label           "Zobraziť všetky prevzaté súbory">
 <!ENTITY downloadsHistory.accesskey       "Z">
 
-<!ENTITY openDownloadsFolder.label       "Otvoriť priečinok s prevzatými súbormi">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Otvoriť priečinok s prevzatými súbormi">
 
 <!ENTITY clearDownloadsButton.label       "Vymazať zoznam">
 <!ENTITY clearDownloadsButton.tooltip     "Vymaže zoznam dokončených, zrušených a zlyhaných preberaní súborov">
@@ -148,7 +157,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "Žiadne prevzaté súbory v tejto relácii">
+<!ENTITY downloadsPanelEmpty.label        "Žiadne prevzaté súbory v tejto relácii.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no

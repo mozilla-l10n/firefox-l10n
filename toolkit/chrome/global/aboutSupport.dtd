@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivované">
 <!ENTITY aboutSupport.a11yForceDisabled "Zabrániť zapnutiu funkcie Zjednodušenie ovládania">
 <!ENTITY aboutSupport.a11yHandlerUsed "Použité ovládanie prístupnosti">
+<!ENTITY aboutSupport.a11yInstantiator "Zavádzač pre prístupnosť (Accessibility Instantiator)">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Verzie knižníc">
 

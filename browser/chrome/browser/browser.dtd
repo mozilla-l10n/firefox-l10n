@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
+<!ENTITY  sendToDeviceFeedback.label         "Odoslané!">
 <!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenupopup.label "Odoberať kanál tejto stránky">
 <!ENTITY subscribeToPageMenuitem.label "Odoberať kanál tejto stránky…">
 <!ENTITY addCurPagesCmd.label "Pridať všetky karty medzi záložky…">
@@ -228,14 +228,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Záložky">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Záložky">
+<!ENTITY bookmarksSubview.label             "Záložky">
+<!ENTITY bookmarksMenuButton2.label         "Ponuka záložiek">
 <!ENTITY bookmarksMenuButton.other.label    "Ostatné záložky">
 <!ENTITY bookmarksMenuButton.mobile.label   "Záložky mobilného Firefoxu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
+<!ENTITY hideBookmarksSidebar.label         "Skryť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
+<!ENTITY hideBookmarksToolbar.label         "Skryť panel nástrojov Záložky">
 <!ENTITY searchBookmarks.label              "Hľadať v záložkách">
-
-<!ENTITY containersMenu.label "Kontajnery">
+<!ENTITY addBookmarksMenu.label             "Pridať ponuku záložiek do panela nástrojov">
+<!ENTITY removeBookmarksMenu.label          "Odstrániť ponuku záložiek z panela nástrojov">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -334,7 +337,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Umožní prispôsobiť ponuku a panely s nástrojmi">
 <!ENTITY appMenuCustomizeExit.label "Ukončiť prispôsobenie">
 <!ENTITY appMenuCustomizeExit.tooltip "Ukončí režim prispôsobenia">
-<!ENTITY appMenuHistory.label "História">
 <!ENTITY appMenuHistory.showAll.label "Zobraziť celú históriu">
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
@@ -907,8 +909,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Zavrieť">
 
-<!ENTITY appMenuSidebars.label         "Bočné panely">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -969,3 +969,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label3 "Odoslať stránku do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
+
