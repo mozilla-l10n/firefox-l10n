@@ -11,7 +11,15 @@
 <!ENTITY  sizeProportional.accesskey              "V">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "Proporcionálne">
+<!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "Pätkové">
+<!ENTITY  serif2.accesskey                        "t">
+<!ENTITY  sans-serif2.label                       "Bezpätkové">
+<!ENTITY  sans-serif2.accesskey                   "B">
+<!ENTITY  monospace2.label                        "Neproporcionálne">
+<!ENTITY  monospace2.accesskey                    "N">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
