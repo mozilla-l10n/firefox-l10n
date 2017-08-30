@@ -12,8 +12,8 @@
 <!ENTITY  offline.toggleOffline.accesskey "კ">
 
 <!ENTITY  mismatch.win.title              "არათავსებადი დამატებები">
-<!ENTITY  mismatch.top.label              "შემდეგი მოდულები არათავსებადია &brandShortName; პროგრამის მიმდინარე ვერსიასთან 
-და ამოირთო:">
+<!ENTITY  mismatch.top.label              "მოცემული დამატებები შეუთავსებელია &brandShortName;-ის
+                                           მიმდინარე ვერსიასთან და ამოირთვება:">
 <!ENTITY  mismatch.bottom.label           "&brandShortName;-ს შეუძლია შეამოწმოს, არის თუ არა ამ დამატებების
                                            თავსებადი ვერსიები ხელმისაწვდომი.">
 
@@ -26,7 +26,7 @@
 <!ENTITY  found.disabledXPinstall.label   "ეს განახლებები ვერ ჩაიდგმება, რადგან პროგრამების ჩადგმა ამჟამად ამორთულია. 
 ამ პარამეტრის შეცვლა შეგიძლიათ ქვემოთ.">
 <!ENTITY  found.enableXPInstall.label     "ვებსაიტისთვის პროგრამის ჩადგმაზე ნების დართვა">
-<!ENTITY  found.enableXPInstall.accesskey "A">
+<!ENTITY  found.enableXPInstall.accesskey "ნ">
 
 <!ENTITY  installing.wizard.title         "თავსებადი დამატებების ჩადგმა">
 <!ENTITY  installing.top.label            "დამატებების განახლებების ჩამოტვირთვა და დაყენება…">
