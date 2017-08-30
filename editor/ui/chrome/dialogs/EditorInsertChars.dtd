@@ -10,3 +10,10 @@
 <!ENTITY letter.accessKey "H">
 <!ENTITY character.label "Aksara:">
 <!ENTITY character.accessKey "A">
+<!ENTITY accentUpper.label "Aksen Huruf besar">
+<!ENTITY accentLower.label "Aksen Huruf kecil">
+<!ENTITY otherUpper.label "Huruf besar Lain">
+<!ENTITY otherLower.label "Huruf kecil Lain">
+<!ENTITY commonSymbols.label "Simbol Biasa">
+<!ENTITY insertButton.label "Sisip">
+<!ENTITY closeButton.label "Tutup">
