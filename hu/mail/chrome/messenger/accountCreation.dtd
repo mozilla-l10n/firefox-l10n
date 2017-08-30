@@ -56,6 +56,7 @@
 <!ENTITY manual-edit.label               "Kézi beállítás">
 <!ENTITY manual-edit.accesskey           "K">
 <!ENTITY open-provisioner.label          "Új e-mail cím regisztrációja…">
+<!ENTITY open-provisioner.accesskey      "j">
 
 
 <!ENTITY warning.label                   "Vigyázat!">
