@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Desactiveu les imatges per estalviar dades en cada lloc que visiteu.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho vàreu deixar.">
-<!ENTITY firstrun_sync_subtext2 "Utilitzeu el Sync per accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat a &brandShortName; en tots els vostres dispositius.">
+<!ENTITY firstrun_sync_subtext2 "Utilitzeu el Sync per accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat al &brandShortName; en tots els vostres dispositius.">
 <!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
 <!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
