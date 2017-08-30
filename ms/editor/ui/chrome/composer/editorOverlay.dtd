@@ -82,8 +82,37 @@
 
 <!ENTITY fontSizeMenu.label "Saiz">
 <!ENTITY fontSizeMenu.accesskey "z">
+<!ENTITY size-tinyCmd.label "Sangat kecil">
+<!ENTITY size-tinyCmd.accesskey "S">
+<!ENTITY size-smallCmd.label "Kecil">
+<!ENTITY size-smallCmd.accesskey "K">
+<!ENTITY size-mediumCmd.label "Sederhana">
+<!ENTITY size-mediumCmd.accesskey "S">
+<!ENTITY size-largeCmd.label "Besar">
+<!ENTITY size-largeCmd.accesskey "B">
+<!ENTITY size-extraLargeCmd.label "Ekstra Besar">
+<!ENTITY size-extraLargeCmd.accesskey "r">
+<!ENTITY size-hugeCmd.label "Sangat besar">
+<!ENTITY size-hugeCmd.accesskey "S">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Gaya Teks">
+<!ENTITY fontStyleMenu.accesskey "G">
+<!ENTITY styleBoldCmd.label "Tebal">
+<!ENTITY styleBoldCmd.accesskey "T">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Italik">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Garis bawah">
+<!ENTITY styleUnderlineCmd.accesskey "G">
+<!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Tampak tembus">
+<!ENTITY styleStrikeThruCmd.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Superskrip">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Subskrip">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 
 
 
