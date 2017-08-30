@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Mostrar downloads">
 <!ENTITY downloadsHistory.accesskey       "s">
 
-<!ENTITY openDownloadsFolder.label       "Abrir pasta de downloads">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Detalhes do download">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Abrir pasta de downloads">
 
 <!ENTITY clearDownloadsButton.label       "Limpar downloads">
 <!ENTITY clearDownloadsButton.tooltip     "Limpar os downloads concluídos, cancelados e que falharam">
@@ -148,7 +158,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "Nenhum download nesta sessão.">
+<!ENTITY downloadsPanelEmpty.label        "Nenhum download nessa sessão.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
