@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Innstillingar for e-postkonto">
+<!ENTITY autoconfigWizard2.title         "Konfigurer ein eksisterende e-postkonto">
 <!ENTITY name.label                      "Namnet ditt:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Fornamn, etternamn">
 <!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
 <!ENTITY email.label                     "E-postaddresse:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "deg@example.com">
+<!ENTITY email.text                      "Di eksisterande e-postadresse">
 <!ENTITY password.label                  "Passord:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Passord">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Manuelle innstillingar">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "Få ein ny konto">
-<!ENTITY switch-to-provisioner.accesskey "F">
+<!ENTITY open-provisioner.label          "Få ei ny e-postadresse…">
+<!ENTITY open-provisioner.accesskey      "a">
 
 
 <!ENTITY warning.label                   "Åtvaring!">

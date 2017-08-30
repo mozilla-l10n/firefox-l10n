@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Kontoar">
 <!ENTITY subscribeImapFolders.label   "Behandle medlemskap i mapper">
 <!ENTITY settingsLink.label           "Vis innstillingar for denne kontoen">
-<!ENTITY newAcctLink.label            "Lag ein ny konto">
-<!ENTITY newAcct.label                "Lag ein ny konto:">
+<!ENTITY setupNewAcct.label           "Konfigurer ein konto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Avanserte funksjonar">
 <!ENTITY searchMsgsLink.label         "Søk i meldingar">
