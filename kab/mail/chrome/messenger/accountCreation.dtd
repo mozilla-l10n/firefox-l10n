@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Tawila n umiḍan n tirawt">
+<!ENTITY autoconfigWizard2.title         "Sbadu amiḍan n yimayl yellan">
 <!ENTITY name.label                      "Isem-ik:">
 <!ENTITY name.accesskey                  "I">
 <!ENTITY name.placeholder                "Aneggaru d amezwaru">
 <!ENTITY name.text                       "Isem-ik, akken tettwalin wiyaḍ">
 <!ENTITY email.label                     "Tansa imayl">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "imayl@amedya.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "kečč@amedya.com">
+<!ENTITY email.text                      "Tansa yinek imayl yellan">
 <!ENTITY password.label                  "Awal uffir:">
 <!ENTITY password.accesskey              "A">
 <!ENTITY password.placeholder            "Awal uffir">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "k">
 <!ENTITY manual-edit.label               "Tawila n ufus">
 <!ENTITY manual-edit.accesskey           "f">
-<!ENTITY switch-to-provisioner.label     "Awi-d amiḍan amaynut">
-<!ENTITY switch-to-provisioner.accesskey "A">
+<!ENTITY open-provisioner.label          "Awi tansa n yimayl tamaynut...">
+<!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY warning.label                   "Ɣur-k!">
