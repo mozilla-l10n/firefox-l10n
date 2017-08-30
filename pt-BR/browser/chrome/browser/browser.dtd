@@ -232,7 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "Outros favoritos">
 <!ENTITY bookmarksMenuButton.mobile.label   "Favoritos do celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
+<!ENTITY hideBookmarksSidebar.label         "Ocultar Painel de Favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
+<!ENTITY hideBookmarksToolbar.label         "Ocultar Barra de Favoritos">
 <!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
 <!ENTITY addBookmarksMenu.label             "Adicionar menu de favoritos à barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Remover menu de favoritos da barra de ferramentas">
