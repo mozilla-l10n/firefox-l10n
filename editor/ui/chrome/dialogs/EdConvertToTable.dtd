@@ -5,3 +5,11 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Tukar Jadi Jadual">
+<!ENTITY instructions1.label   "Composer mencipta baris jadual baru untuk setiap perenggan dalam pilihan.">
+<!ENTITY instructions2.label   "Pilih aksara yang digunakan untuk mengasingkan pemilihan ke dalam jalur:">
+<!ENTITY commaRadio.label      "Koma">
+<!ENTITY spaceRadio.label      "Ruang">
+<!ENTITY otherRadio.label      "Aksara Lain:">
+<!ENTITY deleteCharCheck.label "Buang pemisah aksara">
+<!ENTITY collapseSpaces.label  "Abai ruang ekstra">
+<!ENTITY collapseSpaces.tooltip "Tukar ruang bersebelahan menjadi satu pemisah">
