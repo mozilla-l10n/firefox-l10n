@@ -199,26 +199,96 @@
 <!ENTITY alignRight.label "Kanan">
 <!ENTITY alignRight.accesskey "K">
 <!ENTITY alignRight.tooltip "Jajar Kanan">
+<!ENTITY alignJustify.label "Imbang">
+<!ENTITY alignJustify.accesskey "I">
+<!ENTITY alignJustify.tooltip "Imbang Jajaran">
 
 <!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Lapisan">
+<!ENTITY layerSendToBack.tooltip "Hantar ke Belakang">
+<!ENTITY layerBringToFront.tooltip "Bawa ke Hadapan">
 
+<!ENTITY increaseIndent.label "Tambah Inden">
+<!ENTITY increaseIndent.accesskey "I">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Kurangkan Inden">
+<!ENTITY decreaseIndent.accesskey "K">
+<!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Warna dan Latar belakang Halaman…">
+<!ENTITY colorsAndBackground.accesskey "b">
 
 <!-- Table Menu -->
+<!ENTITY tableMenu.label "Jadual">
+<!ENTITY tableMenu.accesskey "d">
 
 <!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Pilih">
+<!ENTITY tableSelectMenu.accesskey "P">
 
+<!ENTITY tableSelectMenu2.label "Pilih Jadual">
+<!ENTITY tableSelectMenu2.accesskey "P">
+<!ENTITY tableInsertMenu2.label "Sisip Jadual">
+<!ENTITY tableInsertMenu2.accesskey "S">
+<!ENTITY tableDeleteMenu2.label "Buang Jadual">
+<!ENTITY tableDeleteMenu2.accesskey "B">
 
 <!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Sisip">
+<!ENTITY tableInsertMenu.accesskey "S">
+<!ENTITY tableTable.label "Jadual">
+<!ENTITY tableTable.accesskey "J">
+<!ENTITY tableRow.label "Baris">
+<!ENTITY tableRows.label "Baris">
+<!ENTITY tableRow.accesskey "B">
+<!ENTITY tableRowAbove.label "Baris Atas">
+<!ENTITY tableRowAbove.accesskey "B">
+<!ENTITY tableRowBelow.label "Baris Bawah">
+<!ENTITY tableRowBelow.accesskey "B">
+<!ENTITY tableColumn.label "Lajur">
+<!ENTITY tableColumns.label "Lajur">
+<!ENTITY tableColumn.accesskey "j">
+<!ENTITY tableColumnBefore.label "Lajur Sebelum">
+<!ENTITY tableColumnBefore.accesskey "j">
+<!ENTITY tableColumnAfter.label "Lajur Selepas">
+<!ENTITY tableColumnAfter.accesskey "S">
+<!ENTITY tableCell.label "Sel">
+<!ENTITY tableCells.label "Sel">
+<!ENTITY tableCell.accesskey "S">
+<!ENTITY tableCellContents.label "Kandungan Sel">
+<!ENTITY tableCellContents.accesskey "n">
+<!ENTITY tableAllCells.label "Semua Sel">
+<!ENTITY tableAllCells.accesskey "S">
+<!ENTITY tableCellBefore.label "Sel Sebelum">
+<!ENTITY tableCellBefore.accesskey "S">
+<!ENTITY tableCellAfter.label "Sel Selepas">
+<!ENTITY tableCellAfter.accesskey "p">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Hapus">
+<!ENTITY tableDeleteMenu.accesskey "H">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableSplitCell.label "Pisah Sel">
+<!ENTITY tableSplitCell.accesskey "S">
+<!ENTITY convertToTable.label "Cipta Jadual daripada Pilihan">
+<!ENTITY convertToTable.accesskey "t">
+<!ENTITY tableProperties.label "Sifat Jadual…">
+<!ENTITY tableProperties.accesskey "f">
 
 <!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Bar Menu">
+<!ENTITY formatToolbar.tooltip "Bar alatan Format">
+<!ENTITY cutToolbarCmd.tooltip "Potong">
+<!ENTITY copyToolbarCmd.tooltip "Salin">
+<!ENTITY pasteToolbarCmd.tooltip "Tampal">
+<!ENTITY printToolbarCmd.label "Cetak">
+<!ENTITY printToolbarCmd.tooltip "Cetak halaman ini">
 
 <!-- Editor toolbar -->
 
