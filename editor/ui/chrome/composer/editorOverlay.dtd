@@ -303,8 +303,23 @@
 <!ENTITY linkToolbarCmd.tooltip "Sisip pautan baru atau edit sifat pautan dipilih">
 <!ENTITY anchorToolbarCmd.label "Labuh">
 <!ENTITY anchorToolbarCmd.tooltip "Sisip nama labuh baru atau edit sifat labuh dipilih">
+<!ENTITY TextColorButton.tooltip "Pilih warna teks">
+<!ENTITY BackgroundColorButton.tooltip "Pilih warna latar belakang">
+<!ENTITY throbber.tooltip "Pergi ke halaman utama &vendorShortName;">
+<!ENTITY HighlightColorButton.tooltip "Pilih warna serlahan teks">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Tetapkan saiz fon">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Saiz fon lebih kecil">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Saiz fon lebih besar">
+<!ENTITY boldToolbarCmd.tooltip "Tebal">
+<!ENTITY italicToolbarCmd.tooltip "Italik">
+<!ENTITY underlineToolbarCmd.tooltip "Garis bawah">
+<!ENTITY bulletListToolbarCmd.tooltip "Guna atau buang senarai bulet">
+<!ENTITY numberListToolbarCmd.tooltip "Guna atau buang senarai nombor">
+<!ENTITY outdentToolbarCmd.tooltip "Teks luar inden (alih kiri)">
+<!ENTITY indentToolbarCmd.tooltip "Teks inden (alih kanan)">
+<!ENTITY AlignPopupButton.tooltip "Pilih jajaran teks">
 
 <!-- Structure Toolbar Context Menu items -->
 
