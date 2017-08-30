@@ -117,16 +117,88 @@
 <!ENTITY styleEm.label "Penekanan">
 <!ENTITY styleEm.accesskey "P">
 <!ENTITY styleStrong.label "Penekan Lebih kuat">
+<!ENTITY styleStrong.accesskey "t">
+<!ENTITY styleCite.label "Petikan">
+<!ENTITY styleCite.accesskey "P">
+<!ENTITY styleAbbr.label "Singkatan">
+<!ENTITY styleAbbr.accesskey "S">
+<!ENTITY styleAcronym.label "Akronim">
+<!ENTITY styleAcronym.accesskey "r">
+<!ENTITY styleCode.label "Kod">
+<!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Output Sampel">
+<!ENTITY styleSamp.accesskey "m">
+<!ENTITY styleVar.label "Variabel">
+<!ENTITY styleVar.accesskey "V">
 
+<!ENTITY formatFontColor.label "Warna Teks…">
+<!ENTITY formatFontColor.accesskey "W">
+<!ENTITY tableOrCellColor.label "Warna Latar belakang Jadual atau Sel…">
+<!ENTITY tableOrCellColor.accesskey "L">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Buang Nama Labuh">
+<!ENTITY formatRemoveNamedAnchors.accesskey "B">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
+<!ENTITY paragraphMenu.label "Perenggan">
+<!ENTITY paragraphMenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Perenggan">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
+<!ENTITY heading1Cmd.label "Tajuk 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Tajuk 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Tajuk 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Tajuk 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Tajuk 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Tajuk 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Alamat">
+<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Praformat">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
+<!ENTITY formatlistMenu.label "Senarai">
+<!ENTITY formatlistMenu.accesskey "S">
+<!ENTITY noneCmd.label "Tiada">
+<!ENTITY noneCmd.accesskey "T">
+<!ENTITY listBulletCmd.label "Bulet">
+<!ENTITY listBulletCmd.accesskey "B">
+<!ENTITY listNumberedCmd.label "Nombor">
+<!ENTITY listNumberedCmd.accesskey "m">
+<!ENTITY listTermCmd.label "Terma">
+<!ENTITY listTermCmd.accesskey "T">
+<!ENTITY listDefinitionCmd.label "Takrif">
+<!ENTITY listDefinitionCmd.accesskey "T">
+<!ENTITY listPropsCmd.label "Sifat Senarai…">
+<!ENTITY listPropsCmd.accesskey "S">
 
+<!ENTITY ParagraphSelect.tooltip "Pilih format perenggan">
 <!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Teks Isi">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Sifat Lanjutan">
+<!ENTITY advancedPropertiesCmd.accesskey "j">
 
 <!-- Align menu items -->
+<!ENTITY alignMenu.label "Jajar">
+<!ENTITY alignMenu.accesskey "J">
+<!ENTITY alignLeft.label "Kiri">
+<!ENTITY alignLeft.accesskey "K">
+<!ENTITY alignLeft.tooltip "Jajar Kiri">
+<!ENTITY alignCenter.label "Tengah">
+<!ENTITY alignCenter.accesskey "T">
+<!ENTITY alignCenter.tooltip "Jajar Tengah">
+<!ENTITY alignRight.label "Kanan">
+<!ENTITY alignRight.accesskey "K">
+<!ENTITY alignRight.tooltip "Jajar Kanan">
 
 <!-- Layer toolbar items -->
 
