@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when logged in... -->
 
+<!-- The page shown when logged in... -->
 
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
@@ -20,8 +20,8 @@
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Targetes de crèdit">
 <!ENTITY engine.creditcards.accesskey "c">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nom del dispositiu">
 <!ENTITY changeSyncDeviceName2.label "Canvia el nom del dispositiu…">
 <!ENTITY changeSyncDeviceName2.accesskey "v">
@@ -29,24 +29,24 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Desa">
 <!ENTITY saveChangeSyncDeviceName.accesskey "D">
-<!-- Footer stuff -->
 
+<!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Condicions del servei">
 <!ENTITY fxaPrivacyNotice.link.label "Avís de privadesa">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "no està verificat.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-
 <!ENTITY signedInLoginFailure.beforename.label "Inicieu la sessió per tornar-vos a connectar">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
@@ -66,24 +66,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "El vostre web a tot arreu">
 <!ENTITY signedOut.description        "Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.">
 <!ENTITY signedOut.accountBox.title   "Connecteu-vos amb un &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crea un compte">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.signin2 "Inicia la sessió…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Paràmetres de sincronització">
 <!ENTITY signedIn.settings.description "Trieu què voleu sincronitzar entre els vostres dispositius que utilitzen el &brandShortName;.">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
-
 <!ENTITY mobilePromo3.start            "Baixeu el Firefox per a l'">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
-<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " o per a l'">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
