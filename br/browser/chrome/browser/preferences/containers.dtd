@@ -7,16 +7,18 @@
 <!ENTITY preferencesButton.label "Gwellvezioù">
 <!ENTITY removeButton.label   "Lemel kuit">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Distreiñ">
 
 <!ENTITY window.title         "Ouzhpennañ un endalc'her nevez">
 <!ENTITY window.width         "45em">
 
-
+<!ENTITY name2.label          "Anv">
+<!ENTITY name2.accesskey      "A">
 <!ENTITY name.placeholder     "Enankit anv un endalc'her">
-
-
-
-
+<!ENTITY icon2.label          "Arlun">
+<!ENTITY icon2.accesskey      "A">
+<!ENTITY color2.label         "Liv">
+<!ENTITY color2.accesskey     "r">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Mat eo">

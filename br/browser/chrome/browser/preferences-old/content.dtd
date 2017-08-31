@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Rebuzadurioù">
 <!ENTITY  notificationsPolicyLearnMore.label   "Gouzout hiroc'h">
-
+<!ENTITY  notificationsPolicyDesc4.label       "Dibab peseurt lec'hiennoù a zo aotreet da gas rebuzadurioù deoc'h">
 <!ENTITY  notificationsPolicyButton.accesskey  "i">
 <!ENTITY  notificationsPolicyButton.label      "Dibab…">
 <!ENTITY  notificationsDoNotDisturb.label      "Arabat direnkañ ac'hanon">
@@ -42,6 +42,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Nemedennoù…">
 <!ENTITY translateExceptions.accesskey "N">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,7 +50,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Troidigezhioù gant">
 <!ENTITY translation.options.attribution.afterLogo "">
 

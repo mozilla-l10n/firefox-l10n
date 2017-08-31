@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "r">
 <!ENTITY  WPADTypeRadio.label           "EmZinoiñ an arventennoù proksi evit ar ristenn-mañ">
 <!ENTITY  WPADTypeRadio.accesskey       "Z">
-
-
-
-
+<!ENTITY  manualTypeRadio2.label        "Kefluniadur proksi dre zorn">
+<!ENTITY  manualTypeRadio2.accesskey    "p">
+<!ENTITY  autoTypeRadio2.label          "URL kefluniañ emgefreek ar proksi">
+<!ENTITY  autoTypeRadio2.accesskey      "U">
 <!ENTITY  reload.label                  "Adkargañ">
 <!ENTITY  reload.accesskey              "k">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "Proksi FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Proksi HTTP">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "Proksi SSL">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "Ostiz SOCKS">
+<!ENTITY  socks2.accesskey              "O">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS Proksi p'eo arveret SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Porzh">
 <!ENTITY  HTTPport.accesskey            "p">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "z">
-
-
+<!ENTITY  noproxy2.label                "Proksi ebet evit">
+<!ENTITY  noproxy2.accesskey            "e">
 <!ENTITY  noproxyExplain.label          "Skouer : .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Arverañ ar proksi-mañ evit an holl gomenadoù">
 <!ENTITY  shareproxy.accesskey          "p">

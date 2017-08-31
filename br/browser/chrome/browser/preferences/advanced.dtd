@@ -145,5 +145,12 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "Gouzout hiroc'h">
 <!ENTITY limitContentProcessOption.label "Bevenn endalc'had an araezad">
+<!ENTITY limitContentProcessOption.description
+                                         "Endalc'had araezad ouzhpenn a c'hall gwellaat an digonusted gent meur a ivinell, met arverañ a raio muioc'h a vemor.">
+<!ENTITY limitContentProcessOption.accesskey   "A">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Evit kemmañ an niver a araezad endalc'had eo ret ober gant &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Deskit penaos gwiriekaat statud al lies araezad">
 <!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
 <!ENTITY allowHWAccel.accesskey          "h">

@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "Nodrezhoù">
 
+<!ENTITY  fonts.label                             "Nodrezhoù evit">
+<!ENTITY  fonts.accesskey                         "N">
 
-
+<!ENTITY  size2.label                             "Ment">
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "Kenfeuriek">
+<!ENTITY  proportional2.accesskey                 "K">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Hep-serif">
+<!ENTITY  sans-serif2.accesskey                   "H">
+<!ENTITY  monospace2.label                        "Unegor">
+<!ENTITY  monospace2.accesskey                    "U">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japaneg">
 <!ENTITY  font.langGroup.trad-chinese             "Sinaeg hengounel (Taiwan)">
@@ -49,10 +53,11 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetaneg">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Ment izek an nodrezh">
+<!ENTITY minSize2.accesskey                       "i">
 <!ENTITY minSize.none                             "Tra ebet">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Hep Serif">
 
@@ -60,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Bonegañ an arouezennoù evit an endalc'hadoù diamzeret">
-
-
+<!ENTITY languages.customize.Fallback3.label      "Bonegañ an destenn dre ziouer">
+<!ENTITY languages.customize.Fallback3.accesskey  "B">
 <!ENTITY languages.customize.Fallback2.desc       "Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.">
 
 <!ENTITY languages.customize.Fallback.auto        "Diouer evit ar yezh vremanel">
