@@ -7,4 +7,12 @@
 <!ENTITY Settings.label "Tetapan">
 <!ENTITY Settings.accesskey "T">
 
+<!ENTITY EditLabelText.label "Edit Teks:">
+<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY LabelFor.label "Untuk Kawalan:">
+<!ENTITY LabelFor.accesskey "U">
+<!ENTITY AccessKey.label "Kekunci Akses:">
+<!ENTITY AccessKey.accesskey "K">
 
+<!ENTITY RemoveLabel.label "Buang Label">
+<!ENTITY RemoveLabel.accesskey "B">
