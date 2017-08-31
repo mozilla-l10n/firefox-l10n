@@ -114,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "設定…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "防止無障礙輔助功能存取您的瀏覽器">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "了解更多">
