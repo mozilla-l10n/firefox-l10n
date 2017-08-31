@@ -6,7 +6,12 @@
 <!ENTITY windowTitle.label            "Halaman Penerbitan">
 <!ENTITY windowTitleSettings.label    "Tetapan Penerbitan">
 <!ENTITY publishTab.label             "Terbitkan">
+<!ENTITY publishButton.label          "Terbitkan">
 
 <!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nama Laman:">
+<!ENTITY siteList.tooltip             "Pilih laman yang anda mahu terbitkan ini">
+<!ENTITY publishImgCheckbox.label     "Sisip imej dan fail lain">
+<!ENTITY publishImgCheckbox.accesskey "l">
 
 <!-- Settings Tab Panel -->
