@@ -32,5 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "S'ha informat que aquesta pàgina web de <span id='phishing_sitename'/> és maliciosa i s'ha blocat d'acord amb les vostres preferències de seguretat.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Els llocs web maliciosos estan dissenyats per enganyar-vos i que feu alguna acció perillosa, com instal·lar programari o revelar la vostra informació personal, ja siguin contrasenyes, números de telèfon o targetes de crèdit.</p><p>Introduir-hi cap tipus d'informació pot resultar en una suplantació d'identitat o altra mena de fraus.</p>">
 
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.title "El lloc web que voleu visitar pot contenir programari maliciós">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "El &brandShortName; ha blocat aquesta pàgina perquè podria intentar instal·lar aplicacions perilloses que roben la vostra informació o l'eliminen (per exemple, fotos, contrasenyes, missatges i targetes de crèdit).">
