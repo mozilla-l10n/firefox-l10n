@@ -37,8 +37,8 @@
 <!ENTITY pref.soondays.label "Bahagian akan datang memaparkan:">
 <!ENTITY pref.soondays.accesskey "d">
 
-<!ENTITY pref.accessibility.label "Aksesibiliti" >
-<!ENTITY pref.systemcolors.label "Mengoptimumkan warna untuk aksesibiliti" >
+<!ENTITY pref.accessibility.label "Ketercapaian" >
+<!ENTITY pref.systemcolors.label "Mengoptimumkan warna untuk ketercapaian" >
 <!ENTITY pref.systemcolors.accesskey "w">
 
 <!ENTITY pref.eventsandtasks.label "Acara dan Tugasan" >
