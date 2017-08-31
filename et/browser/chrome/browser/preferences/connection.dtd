@@ -39,6 +39,8 @@
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "t">
 <!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy2.label                "Erandid">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Näide: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Seda puhverserverit kasutatakse kõigi protokollide puhul">
 <!ENTITY  shareproxy.accesskey          "a">
