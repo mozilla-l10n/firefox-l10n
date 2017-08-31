@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Par lapu <span id='unwanted_sitename'/> ir saņemti ziņojumi, ka tā satur nevēlamu programmatūru un atbilstoši jūsu drošības iestatījumiem, lapa ir bloķēta.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Nevēlamas programmatūras lapas mēģina instalēt krāpnieciskas un citādi bīstamas programmas, kas var kaitēt jums.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Šajā lapā var būt kaitnieciskas programmas">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; bloķēja šo lapu, jo tā var mēģināt instalēt bīstamas lietotnes, kas zog vai dzēš jūsu informāciju (foto, paroles, datus, kredītkartes).">
