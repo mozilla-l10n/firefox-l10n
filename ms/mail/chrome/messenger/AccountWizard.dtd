@@ -12,23 +12,54 @@
 <!ENTITY accountSetupInfo2.label "Untuk menerima mesej, anda terlebih dahulu perlu menyediakan akaun.">
 <!ENTITY accountTypeTitle.label "Penyediaan Akaun Baru">
 <!ENTITY accountTypeDesc2.label "Bestari ini akan mengumpulkan maklumat yang diperlukan untuk menyediakan akaun. Jika anda tidak tahu maklumat yang diminta, sila hubungi Penyedia Perkhidmatan Internet atau Pentadbir Sistem anda.">
+<!ENTITY accountTypeDirections.label "Pilih jenis akaun yang anda mahu sediakan:">
+<!ENTITY accountTypeMail.label "Akaun e-mel">
+<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeNews.label "Akaun kumpulan berita">
+<!ENTITY accountTypeNews.accesskey "b">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "Identiti">
+<!ENTITY identityDesc.label "Setiap akaun ada identiti sendiri, iaitu maklumat untuk mengenal pasti akaun apabila mesej diterima.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Masukkan nama yang anda mahu paparkan dalam medan &quot;Daripada&quot; untuk mesej keluar">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameExample.label "(sebagai contoh, &quot;Ahmad Abdullah&quot;).">
+<!ENTITY fullnameLabel.label "Nama Anda:">
+<!ENTITY fullnameLabel.accesskey "N">
 
+<!ENTITY emailLabel.label "Alamat E-mel:">
+<!ENTITY emailLabel.accesskey "A">
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Maklumat Pelayan Masuk">
+<!ENTITY incomingServerTypeDesc.label "Pilih jenis pelayan masuk yang anda gunakan.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Tinggalkan pesanan pada pelayan">
+<!ENTITY leaveMsgsOnSrvr.accesskey "T">
+<!ENTITY portNum.label "Port:">
+<!ENTITY portNum.accesskey "o">
+<!ENTITY defaultPortLabel.label "Piawai:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Masukkan nama pelayan masuk (sebagai contoh, &quot;mail.example.net&quot;).">
+<!ENTITY incomingServer.label "Pelayan Masuk:">
+<!ENTITY incomingServer.accesskey "P">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Masukkan nama pengguna masuk yang diberikan oleh penyedia e-mel (sebagai contoh, &quot;aabdullah&quot;).">
+<!ENTITY incomingUsername.label "Nama Pengguna:">
+<!ENTITY incomingUsername.accesskey "P">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 
 <!-- Entities for Outgoing Server page -->
