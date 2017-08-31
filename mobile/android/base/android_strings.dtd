@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Esiet sveicināti">
-
-<!ENTITY firstrun_urlbar_message "Laipni lūgti &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Atrodiet lietas ātrāk ar noderīgiem meklēšanas ieteikumu īsceļiem.">
+<!ENTITY firstrun_urlbar_message2 "Paldies, ka izvēlējāties &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Moderns mobilais pārlūks no Mozilla - bezpeļņas organizācijas, kas  rūpējas par interneta atvērtību un brīvību.">
+<!ENTITY firstrun_panel_title_privacy "Privātums">
+<!ENTITY firstrun_privacy_message "Pārlūko un neuztraucies, ka kāds skatītos">
+<!ENTITY firstrun_privacy_subtext "Privātā pārlūkošana ar izsekošanas aizsardzību bloķē izsekošanas rīkus un neatceras pārlūkošanas vēsturi.">
+<!ENTITY firstrun_panel_title_customize "Pielāgošana">
+<!ENTITY firstrun_customize_message "Padariet &brandShortName; atbilstošu sev.">
+<!ENTITY firstrun_customize_subtext "Pielāgojiet &brandShortName; ar papildinājumiem. Bloķējiet reklāmas un pievienojiet funkcijas, kas atbilst jūsu vēlmēm.">
 <!ENTITY firstrun_bookmarks_title "Vēsture">
 <!ENTITY firstrun_bookmarks_message "Visi tavi favorīti tavā acu priekšā">
 <!ENTITY firstrun_bookmarks_subtext "Meklējot saņemiet rezultātus no grāmatzīmēm un vēstures.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Mazāk datu, lielāki ietaupījumi">
 <!ENTITY firstrun_data_subtext2 "Bloķējiet attēlus, lai apmeklējot lapas ietaupītu datus.">
 <!ENTITY firstrun_sync_title "Sinhronizēšana">
-<!ENTITY firstrun_sync_message "&brandShortName;, vienmēr jūsu pusē">
-<!ENTITY firstrun_sync_subtext "Sinhronizējiet cilnes, paroles un citas lietas, visur kur esat">
+<!ENTITY firstrun_sync_message2 "Turpiniet, kur beidzāt.">
+<!ENTITY firstrun_sync_subtext2 "Izmantojiet Sync, lai atrastu grāmatzīmes, paroles un citas lietas no &brandShortName; visās jūsu ierīcēs.">
 <!ENTITY firstrun_signin_message "Pieslēdzieties, lai sāktu">
 <!ENTITY firstrun_signin_button "Pieslēgties Sync">
 <!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
@@ -328,7 +333,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Lai \&quot;Atvērtu vairākas cilnes\&quot;, ieslēdziet \u0027Zīmēt pa virsu citām aplikācijām\u0027 atļauju &brandShortName; ">
+<!ENTITY tab_queue_notification_settings "Lai \&quot;Atvērtu vairākas cilnes\&quot;, ieslēdziet \&apos;Zīmēt pa virsu citām aplikācijām\&apos; atļauju &brandShortName; ">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -355,7 +360,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Notīrīt tagad">
 <!ENTITY pref_clear_on_exit_title3 "Aizverot notīrīt privātos datus">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties \u0022Iziet\u0022 no galvenās izvēlnes">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; automātiski notīrīs jūsu datus, katru reizi, kad izvēlēsieties \&quot;Iziet\&quot; no galvenās izvēlnes">
 <!ENTITY pref_clear_on_exit_dialog_title "Izvēlieties, kādus datus notīrīt">
 <!ENTITY pref_restore_tabs "Cilņu atjaunošana">
 <!ENTITY pref_restore_always "Vienmēr atjaunot">
@@ -826,6 +831,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Pievienot grāmatzīmēm">
 
 <!ENTITY activity_stream_topsites "Populārākās lapas">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Iesaka &brandPocket;">
 <!ENTITY activity_stream_highlights "Aktualitātes">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -834,17 +841,22 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Apmeklēta">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Populāri">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Noraidīt">
+<!ENTITY activity_stream_remove "Aizvākt">
 <!ENTITY activity_stream_delete_history "Dzēst no vēstures">
 
 <!ENTITY activity_stream_welcome_title "Esiet sveicināti jaunumos">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; veido jaunumu sarakstu ar ievērojamām lietām, lai varat atkal atrast lieliskus rakstus, video, grāmatzīmes un citas lapas.">
+<!ENTITY activity_stream_welcome_dismiss "Noraidīt">
 
 <!ENTITY private_tab_panel_title "Privātā pārlūkošana + Izsekošanas aizsardzība">
 <!ENTITY private_tab_panel_description "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
 <!ENTITY private_tab_panel_description2 "Mēs neatcerēsimies apmeklēto lapu vēsturi, taču lejupielādētie faili un jaunās grāmatzīmes tiks saglabāti jūsu ierīcē.">
 <!ENTITY private_tab_learn_more "Gribat zināt vairāk?">
+
+<!ENTITY fullscreen_warning "Pilnekrāna režīms atvērts">
