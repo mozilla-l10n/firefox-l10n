@@ -7,7 +7,15 @@
 <!ENTITY fileMenu.label          "Fail">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Baru">
+<!ENTITY newMenu.accesskey          "B">
 
+<!ENTITY editMenu.label          "Edit">
+<!ENTITY editMenu.accesskey        "E">
+<!ENTITY undoCmd.label            "Batal">
+<!ENTITY undoCmd.key            "t">
+<!ENTITY undoCmd.accesskey          "l">
+<!ENTITY redoCmd.label            "Buat semula">
+<!ENTITY redoCmd.key            "s">
 
 
 
