@@ -29,7 +29,7 @@
 <!ENTITY InitialValue.accesskey "N">
 <!ENTITY InputChecked.label "Semakan Permulaan">
 <!ENTITY InputChecked.accesskey "S">
-<!ENTITY InputSelected.label "Pemilihan Permulaan">
+<!ENTITY InputSelected.label "Pilihan Permulaan">
 <!ENTITY InputSelected.accesskey "P">
 <!ENTITY InputReadOnly.label "Baca Sahaja">
 <!ENTITY InputReadOnly.accesskey "B">

@@ -6,7 +6,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Tukar Jadi Jadual">
 <!ENTITY instructions1.label   "Composer mencipta baris jadual baru untuk setiap perenggan dalam pilihan.">
-<!ENTITY instructions2.label   "Pilih aksara yang digunakan untuk mengasingkan pemilihan ke dalam lajur:">
+<!ENTITY instructions2.label   "Pilih aksara yang digunakan untuk mengasingkan pilihan ke dalam lajur:">
 <!ENTITY commaRadio.label      "Koma">
 <!ENTITY spaceRadio.label      "Ruang">
 <!ENTITY otherRadio.label      "Aksara Lain:">
