@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "顯示所有下載">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "開啟下載資料夾">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "下載項目詳情">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "開啟下載資料夾">
 
 <!ENTITY clearDownloadsButton.label       "清空下載清單">
 <!ENTITY clearDownloadsButton.tooltip     "清除失敗、已取消、已完成的下載項目">
