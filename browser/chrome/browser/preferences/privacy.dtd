@@ -113,3 +113,6 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Ajustes…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Evitar que los servicios de accesibilidad accedan a tu navegador">
+<!ENTITY  a11yPrivacy.learnmore.label    "Aprender más">

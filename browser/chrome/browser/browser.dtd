@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Enviar enlace a dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "¡Enviada!">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Guardar todas las pestañas en marcadores…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
 <!ENTITY addCurPagesCmd.label "Guardar todas las pestañas en marcadores…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Marcadores">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Marcadores">
+<!ENTITY bookmarksSubview.label             "Marcadores">
+<!ENTITY bookmarksMenuButton2.label         "Menú de marcadores">
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcadores en dispositivo móvil">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Herramientas de marcadores">
 <!ENTITY addBookmarksMenu.label             "Añadir menú de marcadores a la barra de herramientas">
 <!ENTITY removeBookmarksMenu.label          "Eliminar menú de marcadores de la barra de herramientas">
-
-<!ENTITY containersMenu.label "Contenedores">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Personalizar el menú y las barras de herramientas">
 <!ENTITY appMenuCustomizeExit.label "Dejar de modificar">
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizar personalización">
-<!ENTITY appMenuHistory.label "Historial">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo el historial">
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Guardar este marco en marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY copyURLCmd.label             "Copiar URL">
+<!ENTITY copyURLFeedback.label        "¡Copiado!">
 <!ENTITY emailPageCmd.label           "Enviar enlace por email">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Cerrar">
-
-<!ENTITY appMenuSidebars.label         "Barras laterales">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
