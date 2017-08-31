@@ -107,11 +107,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Penambahan GC">
 
-<!ENTITY aboutSupport.a11yTitle "Aksesibiliti">
+<!ENTITY aboutSupport.a11yTitle "Ketercapaian">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
-<!ENTITY aboutSupport.a11yForceDisabled "Halang Aksesibiliti">
+<!ENTITY aboutSupport.a11yForceDisabled "Halang Ketercapaian">
 <!ENTITY aboutSupport.a11yHandlerUsed "Menggunakan Accessible Handler">
-<!ENTITY aboutSupport.a11yInstantiator "Penyegera Aksesibiliti">
+<!ENTITY aboutSupport.a11yInstantiator "Penyegera Ketercapaian">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
