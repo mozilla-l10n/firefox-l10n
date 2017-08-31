@@ -173,8 +173,8 @@
 <!ENTITY hideBookmarksToolbar.label "Nascondi la barra dei segnalibri">
 <!ENTITY searchBookmarks.label "Cerca nei segnalibri">
 <!ENTITY bookmarkingTools.label "Strumenti per i segnalibri">
-<!ENTITY addBookmarksMenu.label "Aggiungi il menu Segnalibri alla barra degli strumenti">
-<!ENTITY removeBookmarksMenu.label "Rimuovi il menu Segnalibri dalla barra degli strumenti">
+<!ENTITY addBookmarksMenu.label "Aggiungi Segnalibri alla barra degli strumenti">
+<!ENTITY removeBookmarksMenu.label "Rimuovi Segnalibri dalla barra degli strumenti">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 <!ENTITY historyButton.label "Cronologia">
