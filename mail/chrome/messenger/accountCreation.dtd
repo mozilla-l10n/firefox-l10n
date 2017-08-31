@@ -87,3 +87,4 @@
 
 <!ENTITY insecureUnencrypted.description "E-mel dan pengesahan anda dihantar tanpa enkripsi, jadi kata laluan (dan mesej anda) dengan mudah dapat dibaca oleh orang lain. &brandShortName; akan tetap menghantar mel, tetapi anda perlu menghubungi penyedia e-mel supaya pelayan boleh dikonfigurasi dengan sambungan yang selamat.">
 <!ENTITY insecureSelfSigned.description  "Pelayan ini menggunakan sijil yang tidak dipercayai, jadi kami tidak boleh pastikan bahawa ada pihak boleh memintas sambungan di antara &brandShortName; dengan pelayan. &brandShortName; akan tetap menghantar mel, tetapi anda benar-benar perlu minta penyedia e-mel untuk mengkonfigurasikan pelayan dengan sijil yang dipercayai.">
+<!ENTITY secureServer.description        "Tahniah! Ini adalah pelayan yang selamat.">
