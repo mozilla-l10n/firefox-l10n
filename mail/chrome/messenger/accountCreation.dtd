@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Création d’un compte courrier">
 <!ENTITY name.label                      "Votre nom complet :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Prénom Nom">
 <!ENTITY name.text                       "Votre nom, tel qu’il s’affichera">
 <!ENTITY email.label                     "Adresse électronique :">
 <!ENTITY email.accesskey                 "A">
-<!ENTITY email.placeholder               "adresse@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "adresse@example.com">
 <!ENTITY password.label                  "Mot de passe :">
 <!ENTITY password.accesskey              "M">
 <!ENTITY password.placeholder            "Mot de passe">
@@ -53,8 +53,6 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Configuration manuelle">
 <!ENTITY manual-edit.accesskey           "m">
-<!ENTITY switch-to-provisioner.label     "Obtenir un nouveau compte">
-<!ENTITY switch-to-provisioner.accesskey "O">
 
 
 <!ENTITY warning.label                   "Attention !">
