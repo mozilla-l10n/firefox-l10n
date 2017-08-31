@@ -11,17 +11,56 @@
 <!ENTITY email.accesskey                 "A">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "anda@example.com">
+<!ENTITY email.text                      "Alamat e-mel yang sedia ada">
+<!ENTITY password.label                  "Kata laluan:">
+<!ENTITY password.accesskey              "K">
+<!ENTITY password.placeholder            "Kata laluan">
+<!ENTITY password.text                   "Pilihan, hanya akan digunakan untuk mengesahkan nama pengguna">
+<!ENTITY rememberPassword.label          "Ingat kata laluan">
+<!ENTITY rememberPassword.accesskey      "t">
 
+<!ENTITY imapLong.label                  "IMAP (folder jauh)">
+<!ENTITY pop3Long.label                  "POP3 (menyimpan mel dalam komputer anda)">
 
+<!ENTITY incoming.label                  "Masuk:">
+<!ENTITY outgoing.label                  "Keluar:">
+<!ENTITY username.label                  "Nama pengguna:">
+<!ENTITY hostname.label                  "Nama hos pelayan">
+<!ENTITY port.label                      "Port">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Pengesahan">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Auto-kesan">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Tiada">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
+<!ENTITY advancedSetup.label             "Konfigurasi lanjutan">
+<!ENTITY advancedSetup.accesskey         "K">
+<!ENTITY cancel.label                    "Batal">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Teruskan">
+<!ENTITY continue.accesskey              "T">
+<!ENTITY stop.label                      "Berhenti">
+<!ENTITY stop.accesskey                  "B">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Uji semula">
+<!ENTITY half-manual-test.accesskey      "s">
+<!ENTITY manual-edit.label               "Konfigurasi manual">
+<!ENTITY manual-edit.accesskey           "K">
+<!ENTITY open-provisioner.label          "Dapatkan alamat e-mel baru…">
+<!ENTITY open-provisioner.accesskey      "b">
 
 
+<!ENTITY warning.label                   "Amaran!">
+<!ENTITY incomingSettings.label          "Tetapan masuk:">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
