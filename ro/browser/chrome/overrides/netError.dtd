@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Încearcă din nou">
 <!ENTITY returnToPreviousPage.label "Întoarce-te">
 <!ENTITY advanced.label "Avansat">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -36,7 +36,7 @@
 <!ENTITY openPortalLoginPage.label2 "Deschide pagina de autentificare la rețea">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei sub forma <strong>http://www.exemplu.ro/</strong></li> <li>Asigură-te că folosești bare oblice spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informații avansate: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu s-a conectat la <span id='wrongSystemTime_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului tău este <span id='wrongSystemTime_systemDate'/>, dar ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta previne o conexiune securizată.</p> <p>Ceasul calculatorului tău arată ora <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
 
