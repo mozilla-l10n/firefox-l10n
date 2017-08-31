@@ -1,0 +1,52 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "Perihal Hak Anda">
+<!ENTITY rights.intro-header     "Perihal Hak Anda">
+<!ENTITY rights.intro "&brandFullName; adalah perisian percuma dan sumber terbuka, dibina oleh sebuah komuniti yang terdiri daripada ribuan penyumbang dari seluruh dunia. Ada beberapa perkara yang anda perlu tahu:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; disediakan untuk anda di bawah terma ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Ini bermaksud anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain.  Anda juga dialu-alukan untuk mengolah kod sumber &brandShortName; mengikut keperluan anda. Mozilla Public License juga memberikan hak kepada anda untuk mengedarkan versi yang telah diubah.">
+
+<!ENTITY rights.intro-point2a "Mozilla tidak memberikan anda sebarang hak untuk menggunakan cap perdagangan atau logo Mozilla dan Thunderbird. Maklumat tambahan mengenai Cap Dagangan boleh didapatkan ">
+<!ENTITY rights.intro-point2b "di sini">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Polisi Privasi untuk produk &vendorShortName; boleh didapatkan ">
+<!ENTITY rights.intro-point3b "di sini">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Sebarang polisi privasi lain yang diguna pakai untuk produk ini hendaklah disenaraikan di sini.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; juga menawarkan pilihan perkhidmatan, seperti perkhidmatan kemaskini tambahan; walau bagaimanapun, kami tidak dapat menjamin 100&#37; tepat atau bebas kesilapan. Maklumat lanjut, termasuk maklumat mengenai cara menyahaktifkan perkhidmatan ini boleh ditemukan ">
+<!ENTITY rights.intro-point4b "terma perkhidmatan">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+
+<!-- intro paragraph for unbranded builds -->
+
+<!-- point 1 text for unbranded builds -->
+
+<!-- points 1-7 text for branded builds -->
