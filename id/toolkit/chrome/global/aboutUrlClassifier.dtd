@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Penyedia">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Pemutakhiran terakhir">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Pemutakhiran berikutnya">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Waktu back-off">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status pemutakhiran terakhir">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Pemutakhiran">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tembolok">
