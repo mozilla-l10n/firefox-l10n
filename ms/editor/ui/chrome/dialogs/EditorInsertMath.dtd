@@ -9,4 +9,13 @@
 
 <!ENTITY options.label "Pilihan">
 <!ENTITY optionInline.label "Mod sebaris">
+<!ENTITY optionInline.accesskey "M">
+<!ENTITY optionDisplay.label "Mod paparan">
+<!ENTITY optionDisplay.accesskey "p">
+<!ENTITY optionLTR.label "Arah kiri ke kanan">
+<!ENTITY optionLTR.accesskey "A">
+<!ENTITY optionRTL.label "Arah kanan ke kiri">
+<!ENTITY optionRTL.accesskey "k">
 
+<!ENTITY insertButton.label "Sisip">
+<!ENTITY insertButton.accesskey "S">
