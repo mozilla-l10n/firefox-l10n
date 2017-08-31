@@ -21,7 +21,7 @@
 <!ENTITY tableBorderWidth.accessKey       "S">
 <!ENTITY tableSpacing.label               "Ruangan:">
 <!ENTITY tableSpacing.accessKey           "R">
-<!ENTITY tablePadding.label               "Pad:">
+<!ENTITY tablePadding.label               "Penebal:">
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "piksel antara sel">
 <!ENTITY tablePxBetwBrdrCellContent.label "piksel antara sempadan sel dengan kandungan">
