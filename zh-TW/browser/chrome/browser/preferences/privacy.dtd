@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "設定…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
