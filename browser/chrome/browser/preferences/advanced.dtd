@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Rohkem teavet">
 
 <!ENTITY dataCollection.label            "&brandShortName;i andmete kogumine ja kasutamine">
-<!ENTITY dataCollectionDesc.label        "Me pingutame, et pakkuda sulle erinevaid valikuvõimalusi ja kogume ainult neid andmeid, mis aitavad meil &brandShortName;i paremaks muuta kõigi jaoks. Isiklike andmete puhul küsime me alati enne saatmist luba.">
+<!ENTITY dataCollectionDesc.label        "Me pingutame, et pakkuda sulle erinevaid valikuvõimalusi, ja kogume ainult neid andmeid, mis aitavad meil &brandShortName;i paremaks muuta kõigi jaoks. Isiklike andmete puhul küsime me alati enne saatmist luba.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Privaatsusreeglid">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;il lubatakse Mozillale vearaporteid saata">
@@ -99,7 +99,7 @@ available. -->
 <!ENTITY updateAuto3.accesskey           "U">
 <!ENTITY updateCheckChoose2.label        "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
 <!ENTITY updateCheckChoose2.accesskey    "K">
-<!ENTITY updateManual2.label             "Ära otsi värskendusi (mittesoovitatav)">
+<!ENTITY updateManual2.label             "Uuendusi ei otsita (mittesoovitatav)">
 <!ENTITY updateManual2.accesskey         "r">
 
 <!ENTITY updateHistory2.label            "Näita uuenduste ajalugu…">
