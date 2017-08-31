@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Umum">
 
-<!ENTITY accessibility.label             "Aksesibiliti">
+<!ENTITY accessibility.label             "Ketercapaian">
 
 <!ENTITY useCursorNavigation.label       "Sentiasa gunakan kunci kursor untuk navigasi antara halaman">
 <!ENTITY useCursorNavigation.accesskey   "c">
