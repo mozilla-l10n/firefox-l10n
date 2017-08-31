@@ -151,6 +151,6 @@ available. -->
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega &brandShortName;is.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
-                                         "Vaata kuidas kontrollida, kas mitme protsessi tugi on lubatud">
+                                         "Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud">
 <!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey          "i">
