@@ -17,3 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "B">
 <!ENTITY cmd.removeFromHistory.label               "Buang Daripada Sejarah">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.clearList.label                       "Buang Senarai">
+<!ENTITY cmd.clearList.accesskey                   "B">
+<!ENTITY cmd.clearList.tooltip                     "Buang semua entri dalam senarai fail yang disimpan, kecuali yang sedang dimuat turun.">
+<!ENTITY cmd.searchDownloads.label                 "Cari…">
+<!ENTITY cmd.searchDownloads.key                   "F">
