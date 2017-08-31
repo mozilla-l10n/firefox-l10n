@@ -114,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Asetukset…">
 <!ENTITY  browserContainersSettings.accesskey    "e">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Estä esteettömyyspalveluja käyttämästä selaintasi">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "v">
 <!ENTITY  a11yPrivacy.learnmore.label    "Lue lisää">
