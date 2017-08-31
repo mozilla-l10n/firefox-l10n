@@ -61,16 +61,29 @@
 
 <!ENTITY warning.label                   "Amaran!">
 <!ENTITY incomingSettings.label          "Tetapan masuk:">
+<!ENTITY outgoingSettings.label          "Tetapan keluar:">
+<!ENTITY technicaldetails.label          "Butiran Teknikal">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Saya faham akan risiko ini.">
+<!ENTITY confirmWarning.accesskey        "f">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Siap">
+<!ENTITY doneAccount.accesskey           "S">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
+<!ENTITY changeSettings.label            "Tukar Tetapan">
+<!ENTITY changeSettings.accesskey        "T">
 
+<!ENTITY contactYourProvider.description "&brandShortName; boleh mengizinkan anda untuk mendapatkan mel anda menggunakan konfigurasi yang disediakan. Walau bagaimanapun, anda perlu menghubungi pentadbir atau penyedia e-mel mengenai sambungan ini yang tidak wajar. Sila lihat FAQ Thunderbird untuk maklumat lanjut.">
 
+<!ENTITY insecureServer.tooltip.title    "Amaran! Ini adalah pelayan yang tidak selamat.">
+<!ENTITY insecureServer.tooltip.details  "Klik bulatan untuk maklumat lanjut.">
 
+<!ENTITY insecureUnencrypted.description "E-mel dan pengesahan anda dihantar tanpa enkripsi, jadi kata laluan (dan mesej anda) dengan mudah dapat dibaca oleh orang lain. &brandShortName; akan tetap menghantar mel, tetapi anda perlu menghubungi penyedia e-mel supaya pelayan boleh dikonfigurasi dengan sambungan yang selamat.">
+<!ENTITY insecureSelfSigned.description  "Pelayan ini menggunakan sijil yang tidak dipercayai, jadi kami tidak boleh pastikan bahawa ada pihak boleh memintas sambungan di antara &brandShortName; dengan pelayan. &brandShortName; akan tetap menghantar mel, tetapi anda benar-benar perlu minta penyedia e-mel untuk mengkonfigurasikan pelayan dengan sijil yang dipercayai.">
