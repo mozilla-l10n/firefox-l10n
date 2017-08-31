@@ -20,7 +20,7 @@
 <!ENTITY  autoTypeRadio2.accesskey      "a">
 <!ENTITY  reload.label                  "Laadi uuesti">
 <!ENTITY  reload.accesskey              "d">
-<!ENTITY  ftp2.label                    "FTP-puverserver">
+<!ENTITY  ftp2.label                    "FTP-puhverserver">
 <!ENTITY  ftp2.accesskey                "F">
 <!ENTITY  http2.label                   "HTTP-puhverserver">
 <!ENTITY  http2.accesskey               "H">
