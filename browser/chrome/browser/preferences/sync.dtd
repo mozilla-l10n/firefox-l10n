@@ -66,6 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "El vostre web a tot arreu">
 <!ENTITY signedOut.description        "Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.">
 <!ENTITY signedOut.accountBox.title   "Connecteu-vos amb un &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "No teniu un compte? Comencem">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
 <!ENTITY signedOut.accountBox.signin2 "Inicia la sessió…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
