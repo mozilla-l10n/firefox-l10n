@@ -48,9 +48,17 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; menawarkan pilihan perkhidmatan (&quot;Perkhidmatan&quot;), seperti perkhidmatan kemaskini add-ons, yang disediakan untuk kegunaan anda dengan versi binari &brandShortName ini; yang dijelaskan di bawah. Jika anda tidak mahu menggunakan Perkhidmatan atau terma di bawah tidak boleh diterima, anda boleh menyahdayakan perkhidmatan kemaskini add-on dengan membuka keutamaan aplikasi dan pilih ">
+<!ENTITY rights.webservices-b "Lanjutan">
+<!ENTITY rights.webservices-c " diikuti dengan ">
+<!ENTITY rights.webservices-d "Kemaskini">
+<!ENTITY rights.webservices-e " dan membuang pilihan &quot;Semak kemaskini secara automatik&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Gambaran keseluruhan perkhidmatan laman web yang mengandungi produk, berserta arahan untuk menyahdayakannya, jika ada, perlu disertakan di sini.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Apa jua terma perkhidmatan yang diguna pakai bagi produk ini mestilah disenaraikan di sini.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; mungkin tidak meneruskan atau menukar Perkhidmatan tersebut bergantung pada budi bicaranya.">
