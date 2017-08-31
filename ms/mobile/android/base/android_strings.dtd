@@ -179,7 +179,7 @@
 
 <!ENTITY pref_category_search3 "Cari">
 <!ENTITY pref_category_search_summary2 "Tambah, set piawai, papar cadangan">
-<!ENTITY pref_category_accessibility "Aksesibiliti">
+<!ENTITY pref_category_accessibility "Ketercapaian">
 <!ENTITY pref_category_accessibility_summary2 "Saiz teks, zum, input suara">
 <!ENTITY pref_category_privacy_short "Privasi">
 <!ENTITY pref_category_privacy_summary4 "Penjejakan, log masuk, pilihan data">
@@ -246,7 +246,7 @@
 <!ENTITY pref_header_general "Umum">
 <!ENTITY pref_header_search "Cari">
 <!ENTITY pref_header_privacy_short "Privasi">
-<!ENTITY pref_header_accessibility "Aksesibiliti">
+<!ENTITY pref_header_accessibility "Ketercapaian">
 <!ENTITY pref_header_notifications "Notifikasi">
 <!ENTITY pref_header_advanced "Lanjutan">
 <!ENTITY pref_header_help "Bantuan">
