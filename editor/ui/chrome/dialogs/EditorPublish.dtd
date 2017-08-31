@@ -6,11 +6,18 @@
 <!ENTITY windowTitle.label            "Halaman Penerbitan">
 <!ENTITY windowTitleSettings.label    "Tetapan Penerbitan">
 <!ENTITY publishTab.label             "Terbitkan">
+<!ENTITY settingsTab.label            "Tetapan">
 <!ENTITY publishButton.label          "Terbitkan">
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Nama Laman:">
+<!ENTITY siteList.accesskey           "n">
 <!ENTITY siteList.tooltip             "Pilih laman yang anda mahu terbitkan ini">
+<!ENTITY newSiteButton.label          "Laman Baru">
+<!ENTITY newSiteButton.accesskey      "B">
+<!ENTITY docDirList.label             "Sub-direktori laman untuk halaman ini:">
+<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.tooltip           "Pilih atau masukkan nama sub-direktori jauh untuk halaman ini">
 <!ENTITY publishImgCheckbox.label     "Sisip imej dan fail lain">
 <!ENTITY publishImgCheckbox.accesskey "l">
 
