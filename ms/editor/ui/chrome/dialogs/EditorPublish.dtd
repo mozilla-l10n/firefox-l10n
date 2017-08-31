@@ -51,3 +51,15 @@
 <!ENTITY siteUrl.label                "Alamat penerbitan (contoh: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "Alamat FTP:// atau HTTP:// yang disediakan oleh perkhidmatan ISP atau hos web anda">
+<!ENTITY browseUrl.label              "Alamat HTTP halaman utama anda (contoh: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.tooltip            "Alamat HTTP:// direktori halaman utama anda (jangan sertakan nama fail)">
+<!ENTITY username.label               "Nama pengguna:">
+<!ENTITY username.accesskey           "N">
+<!ENTITY username.tooltip             "Nama pengguna yang anda gunakan untuk log masuk ke perkhidmatan ISP atau hos web">
+<!ENTITY password.label               "Kata laluan:">
+<!ENTITY password.accesskey           "t">
+<!ENTITY password.tooltip             "Kata laluan untuk nama pengguna anda">
+<!ENTITY savePassword.label           "Simpan Kata laluan">
+<!ENTITY savePassword.accesskey       "S">
+<!ENTITY savePassword.tooltip         "Pilih ini untuk menyimpan kata laluan dengan selamat menggunakan Pengurus Kata laluan">
