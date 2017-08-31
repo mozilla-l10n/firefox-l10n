@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "Mai">
 
 <!ENTITY  color                           "Text i fons">
-<!ENTITY  textColor.label                 "Text:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fons:">
-<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  textColor2.label                "Text">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fons">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Utilitza els colors del sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Subratlla els enllaços">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Colors dels enllaços">
-<!ENTITY  linkColor.label                 "Enllaços no visitats:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Enllaços visitats:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  linkColor2.label                "Enllaços no visitats">
+<!ENTITY  linkColor2.accesskey            "l">
+<!ENTITY  visitedLinkColor2.label         "Enllaços visitats">
+<!ENTITY  visitedLinkColor2.accesskey     "v">

@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "z">
 <!ENTITY  WPADTypeRadio.label           "Detecta automàticament els paràmetres del servidor intermediari per a aquesta xarxa">
 <!ENTITY  WPADTypeRadio.accesskey       "i">
-<!ENTITY  manualTypeRadio.label         "Configuració manual del servidor intermediari:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL de configuració automàtica del servidor intermediari:">
-<!ENTITY  autoTypeRadio.accesskey       "a">
+<!ENTITY  manualTypeRadio2.label        "Configuració manual del servidor intermediari">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "URL de configuració automàtica del servidor intermediari">
+<!ENTITY  autoTypeRadio2.accesskey      "a">
 <!ENTITY  reload.label                  "Actualitza">
 <!ENTITY  reload.accesskey              "z">
-<!ENTITY  ftp.label                     "Servidor intermediari d'FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Servidor intermediari d'HTTP:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "Servidor intermediari de SSL:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "Ordinador central SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Servidor intermediari d'FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Servidor intermediari d'HTTP">
+<!ENTITY  http2.accesskey               "H">
+<!ENTITY  ssl2.label                    "Servidor intermediari de SSL">
+<!ENTITY  ssl2.accesskey                "S">
+<!ENTITY  socks2.label                  "Ordinador central SOCKS">
+<!ENTITY  socks2.accesskey              "K">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Servidor intermediari DNS en utilitzar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Sense servidor intermediari per a:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy2.label                "Sense servidor intermediari per a">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilitza aquest servidor intermediari per a tots els protocols">
 <!ENTITY  shareproxy.accesskey          "l">

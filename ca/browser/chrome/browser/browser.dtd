@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Envia l'enllaç al dispositiu">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!ENTITY  sendToDeviceFeedback.label         "S'ha enviat!">
 <!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
@@ -227,6 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Adreces d'interès">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Adreces d'interès">
+<!ENTITY bookmarksMenuButton2.label         "Menú de les adreces d'interès">
 <!ENTITY bookmarksMenuButton.other.label    "Altres adreces d'interès">
 <!ENTITY bookmarksMenuButton.mobile.label   "Adreces del mòbil">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
@@ -235,6 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Amaga la barra d'eines d'adreces d'interès">
 <!ENTITY searchBookmarks.label              "Cerca adreces d'interès">
 <!ENTITY bookmarkingTools.label             "Eines d'adreces d'interès">
+<!ENTITY addBookmarksMenu.label             "Afegeix el menú d'adreces d'interès a la barra d'eines">
+<!ENTITY removeBookmarksMenu.label          "Elimina el menú d'adreces d'interès de la barra d'eines">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -545,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Copia l'URL">
+<!ENTITY copyURLFeedback.label        "S'ha copiat">
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
@@ -964,5 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimina de la barra d'adreces">
 
+<!ENTITY sendToDevice.label3 "Envia la pàgina al dispositiu">
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
+<!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">
