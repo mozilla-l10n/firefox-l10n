@@ -12,12 +12,47 @@
 <!ENTITY editMenu.label          "Edit">
 <!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label            "Batal">
-<!ENTITY undoCmd.key            "t">
-<!ENTITY undoCmd.accesskey          "l">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "B">
 <!ENTITY redoCmd.label            "Buat semula">
-<!ENTITY redoCmd.key            "s">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "m">
+<!ENTITY cutCmd.label            "Potong">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label            "Salin">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "S">
+<!ENTITY pasteCmd.label            "Tampal">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "T">
+<!ENTITY deleteCmd.label          "Buang">
+<!ENTITY deleteCmd.accesskey        "B">
+<!ENTITY selectAllCmd.label          "Pilih Semua">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "S">
+<!ENTITY preferencesCmd2.label "Pilihan">
+<!ENTITY preferencesCmd2.accesskey "P">
+<!ENTITY preferencesCmdUnix.label       "Keutamaan">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY viewMenu.label          "Papar">
+<!ENTITY viewMenu.accesskey        "P">
+<!ENTITY viewToolbarsMenu.label        "Bar alatan">
+<!ENTITY viewToolbarsMenu.accesskey      "B">
+<!ENTITY showTaskbarCmd.label          "Bar Status">
+<!ENTITY showTaskbarCmd.accesskey        "u">
 
+<!ENTITY closeCmd.label      "Tutup">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "T">
 
+<!ENTITY quitApplicationCmd.label  "Keluar">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "u">
 
+<!ENTITY quitApplicationCmdUnix.label  "Keluar">
+<!ENTITY quitApplicationCmdUnix.accesskey  "K">
 
+<!ENTITY quitApplicationCmdMac.label  "Keluar &brandShorterName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "K">
