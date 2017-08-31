@@ -13,7 +13,6 @@
 
 <!ENTITY subscribeImapFolders.label "Subskrybuj foldery">
 <!ENTITY settingsLink.label "Wyświetl ustawienia dla tego konta">
-<!ENTITY setupNewAcctLink.label "Skonfiguruj konto">
 <!ENTITY setupNewAcct.label "Skonfiguruj konto:">
 
 <!ENTITY advFeaturesSectionHdr.label "Funkcje zaawansowane">
