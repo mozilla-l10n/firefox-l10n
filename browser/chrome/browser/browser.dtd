@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "링크를 기기로 보내기">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "보냄!">
 <!ENTITY  moveToNewWindow.label              "새 창으로 이동">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "모든 탭 북마크…">
@@ -161,23 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "현재 페이지 북마크에 추가">
 <!ENTITY editThisBookmarkCmd.label "이 북마크 편집">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "더 많은 공유 서비스 찾기…">
-<!ENTITY sharePageCmd.label "현재 페이지 공유">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "이 링크 공유">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "이 이미지 공유">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "선택 내용 공유">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "이 동영상 공유">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "현재 페이지 구독하기">
+
 <!ENTITY subscribeToPageMenupopup.label "현재 페이지 구독하기">
 <!ENTITY subscribeToPageMenuitem.label "현재 페이지 구독하기…">
 <!ENTITY addCurPagesCmd.label "모든 탭 북마크 추가…">
@@ -243,14 +228,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "북마크">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "북마크">
-<!ENTITY bookmarksMenuButton.other.label "다른 북마크">
-<!ENTITY bookmarksMenuButton.mobile.label "모바일 북마크">
+<!ENTITY bookmarksSubview.label             "북마크">
+<!ENTITY bookmarksMenuButton2.label         "북마크 메뉴">
+<!ENTITY bookmarksMenuButton.other.label    "다른 북마크">
+<!ENTITY bookmarksMenuButton.mobile.label   "모바일 북마크">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
+<!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 감춤">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
+<!ENTITY hideBookmarksToolbar.label         "북마크 도구 모음 감춤">
 <!ENTITY searchBookmarks.label              "즐겨찾기 검색">
-
-<!ENTITY containersMenu.label "컨테이너">
+<!ENTITY bookmarkingTools.label             "북마크 도구">
+<!ENTITY addBookmarksMenu.label             "도구 모음에 북마크 메뉴 추가">
+<!ENTITY removeBookmarksMenu.label          "도구 모음에서 북마크 메뉴 제거">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -262,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "도구">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "검색 항목에 키워드 지정…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -281,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "요소 검사">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "파일"> 
+<!ENTITY fileMenu.label         "파일">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "새 포함 탭">
 <!ENTITY newUserContext.accesskey         "C">
@@ -292,45 +281,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "e10s가 아닌 새 창">
 
-<!ENTITY editMenu.label         "편집"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "실행 취소">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "실행 반복">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "잘라내기">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "복사">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "붙여넣기">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "삭제">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "모두 선택">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "편집">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "실행 취소">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "실행 반복">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "잘라내기">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "복사">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "붙여넣기">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "삭제">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "모두 선택">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "설정…">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "환경 설정">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "사용 기록 삭제">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "보기"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "도구 모음"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "보기">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "도구 모음">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "탐색창">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "사용자 지정…"> 
+<!ENTITY viewCustomizeToolbar.label       "사용자 지정…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "툴바 개인화…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -349,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "메뉴와 도구 상자 사용자 설정">
 <!ENTITY appMenuCustomizeExit.label "사용자 설정 종료">
 <!ENTITY appMenuCustomizeExit.tooltip "사용자 설정 완료">
-<!ENTITY appMenuHistory.label "방문 기록">
 <!ENTITY appMenuHistory.showAll.label "방문 기록 보기">
 <!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
@@ -531,7 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "선택한 소스 보기">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML 소스">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "페이지 소스">
@@ -562,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "프레임을 북마크에 추가">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "URL 복사">
+<!ENTITY copyURLFeedback.label        "복사되었습니다!">
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
@@ -598,7 +587,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "이미지 주소 복사">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "이미지 복사">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "동영상 주소 복사">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "오디오 주소 복사">
@@ -694,13 +683,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; 종료">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "종료"> 
+<!ENTITY quitApplicationCmd.label       "종료">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; 종료">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "닫기">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "닫기">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -836,15 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "동기화">
 
-<!ENTITY social.addons.label "서비스 관리…">
-
-<!ENTITY social.directory.label "활성화 목록">
-<!ENTITY social.directory.text "이 목록에서 공유 서비스를 활성화할 수 있습니다.">
-<!ENTITY social.directory.button "!">
-<!ENTITY social.directory.introText "&brandShortName;에 더할 서비스를 누르세요.">
-<!ENTITY social.directory.viewmore.text "더 보기">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "부가적인 도구와 기능">
 <!ENTITY customizeMode.menuAndToolbars.empty "다른 도구를 찾으십니까?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "수천 개의 부가기능에서 고르기">
 <!ENTITY customizeMode.restoreDefaults "기본값으로 복원">
@@ -931,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "닫기">
 
-<!ENTITY appMenuSidebars.label         "탐색창">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -991,5 +969,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "주소 표시줄에 추가">
 <!ENTITY pageAction.removeFromUrlbar.label "주소 표시줄에서 제거">
 
-<!ENTITY sendToDevice.label2 "기기로 전송">
+<!ENTITY sendToDevice.label3 "페이지를 기기로 보내기">
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
+
