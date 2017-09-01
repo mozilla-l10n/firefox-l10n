@@ -14,3 +14,4 @@
 <!ENTITY editDirectory.label       "Edit">
 <!ENTITY editDirectory.accesskey   "t">
 <!ENTITY deleteDirectory.label     "Buang">
+<!ENTITY deleteDirectory.accesskey "g">
