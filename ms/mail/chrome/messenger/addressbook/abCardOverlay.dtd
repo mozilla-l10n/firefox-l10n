@@ -142,3 +142,15 @@
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
 <!ENTITY PhotoDesc.label                "Pilih salah satu:">
+<!ENTITY GenericPhoto.label             "Foto Generik">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Piawai">
+<!ENTITY PhotoFile.label                "Dalam Komputer ini">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Layar">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Dalam Web">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Tampal atau taip alamat web foto">
+<!ENTITY UpdatePhoto.label              "Kemaskini">
+<!ENTITY UpdatePhoto.accesskey          "k">
