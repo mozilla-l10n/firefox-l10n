@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Bütün endirmələri göstər">
 <!ENTITY downloadsHistory.accesskey       "s">
 
-<!ENTITY openDownloadsFolder.label       "Endirmələr Qovluğunu Aç">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Endirmə Məlumatları">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Endirmələr Qovluğunu Aç">
 
 <!ENTITY clearDownloadsButton.label       "Yüklənənləri təmizlə">
 <!ENTITY clearDownloadsButton.tooltip     "Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir">

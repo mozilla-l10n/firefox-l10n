@@ -6,6 +6,13 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping məlumatı mənbəsi:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Ətraflı məlumat üçün baxırsınız?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "İndiki ping məlumatı">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arxivlənmiş ping məlumatı">
