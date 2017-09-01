@@ -6,6 +6,14 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "منبع اطلاعات پینگ:">
 
+<!ENTITY aboutTelemetry.moreInformations "به دنبال اطلاعات بیشتر هستید؟">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>مستندات اطلاعات فایرفاکس</a> شامل راهنماهای بسیار زیادی در خصوص کار کردن با ابزارهای داده می باشد.">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a> مستندات Telemetry فایرفاکس برای کاربران</a> شامل تعریفات مفاهیم، مستندات و منابع API ها.">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "<a> داشبورد Telemetry</a> به شما این امکان را می‌دهد تا داده های دریافت شده توسط Telemetryموزیلا را تصویر کنید.">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "اطلاعات پینگ فعلی">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "بایگانی اطلاعات پینگ">
