@@ -29,4 +29,9 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Buang Senarai">
+<!ENTITY cmd.clearList.tooltip            "Buang semua item yang lengkap, dibatalkan dan gagal daripada senarai">
+<!ENTITY cmd.clearList.accesskey          "B">
+<!ENTITY cmd.find.commandkey              "f">
+<!ENTITY cmd.search.commandkey            "k">
 
+<!ENTITY searchBox.label                  "Cari…">
