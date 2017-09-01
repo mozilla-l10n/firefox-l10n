@@ -162,7 +162,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "π">
 
-<!ENTITY feedsMenu2.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY addCurPagesCmd.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
@@ -228,7 +227,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
 <!ENTITY bookmarksMenuButton.other.label    "Άλλοι σελιδοδείκτες">
 <!ENTITY bookmarksMenuButton.mobile.label   "Σελιδοδείκτες κινητού">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
@@ -239,8 +237,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Εργαλεία σελιδοδεικτών">
 <!ENTITY addBookmarksMenu.label             "Προσθήκη μενού σελιδοδεικτών στη γραμμή εργαλείων">
 <!ENTITY removeBookmarksMenu.label          "Αφαίρεση μενού σελιδοδεικτών από τη γραμμή εργαλείων">
-
-<!ENTITY containersMenu.label "Περιβάλλοντα">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +335,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των γραμμών εργαλείων">
 <!ENTITY appMenuCustomizeExit.label "Τέλος προσαρμογής">
 <!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
-<!ENTITY appMenuHistory.label "Ιστορικό">
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
@@ -687,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Έξοδος">
 <!ENTITY quitApplicationCmd.accesskey   "ξ">
 <!ENTITY quitApplicationCmdMac2.label   "Έξοδος από το &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "Ε">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Κλείσιμο">
 <!ENTITY closeCmd.key                   "W">
@@ -912,8 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "32em">
 
 <!ENTITY uiTour.infoPanel.close "Κλείσιμο">
-
-<!ENTITY appMenuSidebars.label         "Πλευρικές στήλες">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
