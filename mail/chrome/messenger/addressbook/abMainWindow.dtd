@@ -202,8 +202,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY JobTitle.accesskey                             "J">
 <!ENTITY CellularNumber.label                           "Mudah alih">
 <!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
-<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY PagerNumber.label                              "Kelui">
+<!ENTITY PagerNumber.accesskey                          "K">
 <!ENTITY FaxNumber.label                                "Faks">
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Telefon Rumah">
