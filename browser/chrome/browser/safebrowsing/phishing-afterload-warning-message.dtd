@@ -32,3 +32,4 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "De website op <span id='phishing_sitename'/> is rapportearre as in misliedende website en is blokkearre op basis fan jo befeiligingsfoarkarren.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misliedende websites binne makke om jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software, of it dielen fan jo persoanlike gegevens, lykas wachtwurden, telefoannûmers of creditcardgegevens.</p><p>It ynfieren fan persoanlike gegevens op dizze webside kin liede ta stellerij fan identiteitsgegevens of oare fraude.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "De folgjende website kin malware befetsje">

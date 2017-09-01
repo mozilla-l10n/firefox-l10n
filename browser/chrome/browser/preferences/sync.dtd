@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Nim jo web mei jo mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">
 <!ENTITY signedOut.accountBox.title   "Ferbining meitsje mei in &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Account oanmeitsje">
-<!ENTITY signedOut.accountBox.create.accesskey  "c">
-<!ENTITY signedOut.accountBox.signin  "Oanmelde">
-<!ENTITY signedOut.accountBox.signin.accesskey  "d">
+<!ENTITY signedOut.accountBox.create2 "Hawwe jo gjin account? Registrearje">
+<!ENTITY signedOut.accountBox.create2.accesskey "o">
+<!ENTITY signedOut.accountBox.signin2 "Oanmelde…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "O">
 
 <!ENTITY signedIn.settings.label       "Syngronisaasjeynstellingen">
 <!ENTITY signedIn.settings.description "Kieze wat jo syngronisearje wolle op jo apparaten dy't &brandShortName; brûke.">

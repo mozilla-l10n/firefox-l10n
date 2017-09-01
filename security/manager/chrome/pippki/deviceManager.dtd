@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Fier de ynformaasje yn foar de module dy't jo tafoegje wolle.">
-<!ENTITY loaddevice.modname                     "Modulenamme:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Modulenamme">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Nije PKCS #11-module">
-<!ENTITY loaddevice.filename                    "Modulebestânsnamme:">
-<!ENTITY loaddevice.filename.accesskey          "d">
+<!ENTITY loaddevice.filename2                   "Modulebestânsnamme">
+<!ENTITY loaddevice.filename2.accesskey         "b">
 <!ENTITY loaddevice.browse                      "Blêdzje…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

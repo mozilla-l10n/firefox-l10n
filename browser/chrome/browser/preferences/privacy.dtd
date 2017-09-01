@@ -49,14 +49,14 @@
 <!ENTITY  acceptCookies2.label          "Cookies fan websites akseptearje">
 <!ENTITY  acceptCookies2.accesskey      "C">
 
-<!ENTITY  acceptThirdParty.pre.label      "Cookies fan tredden akseptearje:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "o">
+<!ENTITY  acceptThirdParty2.pre.label     "Cookies fan tredden akseptearje">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "Altyd">
 <!ENTITY  acceptThirdParty.never.label    "Nea">
 <!ENTITY  acceptThirdParty.visited.label  "Fan besochte">
 
-<!ENTITY  keepUntil.label               "Bewarje oant:">
-<!ENTITY  keepUntil.accesskey           "B">
+<!ENTITY  keepUntil2.label              "Bewarje oant">
+<!ENTITY  keepUntil2.accesskey          "o">
 
 <!ENTITY  expire.label                  "se ferrinne">
 <!ENTITY  close.label                   "ik &brandShortName; ôfslút">
@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Ynstellingen…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "Mear ynfo">
