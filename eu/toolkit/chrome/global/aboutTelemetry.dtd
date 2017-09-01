@@ -16,6 +16,9 @@
 <a>Firefox Telemetry bezeroaren dokumentazioa</a>k kontzeptuen definizioak, API dokumentazioa eta datu-erreferentziak ditu.
 ">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Telemetry arbelen</a> bidez Mozillak Telemetry bitartez jasotako datuak irudika ditzakezu.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Uneko ping datuak">
 
