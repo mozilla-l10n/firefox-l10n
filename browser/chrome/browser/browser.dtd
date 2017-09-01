@@ -825,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "O">
 <!ENTITY syncToolbarButton.label      "Syngronisearje">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Sleep jo favorite items nei de arkbalke of it oerrinmenu.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Wolle jo mear helpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies út tûzenen add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
@@ -972,3 +973,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.label3 "Side nei apparaat ferstjoere">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
 
+<!ENTITY libraryButton.tooltip "Skiednis, bewarre blêdwizers en mear besjen">
