@@ -12,6 +12,7 @@
 
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Klientowa dokumentacija za telemetriju Firefox</a> definicije za koncepty, API-dokumentaciju a datowe referency wobsahuje.">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetrijowy přehlad</a> wam zmóžnja, daty wizualizować, kotrež Mozilla přez telemetriju dóstawa.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktualne pingdaty">
 
