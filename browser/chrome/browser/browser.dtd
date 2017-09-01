@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "g">
 <!ENTITY  sendLinkToDevice.label             "Bidali lotura gailura">
 <!ENTITY  sendLinkToDevice.accesskey         "g">
+<!ENTITY  sendToDeviceFeedback.label         "Bidalita!">
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
 <!ENTITY  bookmarkAllTabs.label              "Egin fitxa guztien laster-marka…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editatu laster-marka">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Harpidetu orri honetara">
 <!ENTITY subscribeToPageMenupopup.label "Harpidetu orri honetara">
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
 <!ENTITY addCurPagesCmd.label "Egin fitxa guztien laster-marka…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Laster-markak">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Laster-markak">
+<!ENTITY bookmarksSubview.label             "Laster-markak">
+<!ENTITY bookmarksMenuButton2.label         "Laster-marken menua">
 <!ENTITY bookmarksMenuButton.other.label    "Beste laster-markak">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mugikorreko laster-markak">
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Laster-marken tresnak">
 <!ENTITY addBookmarksMenu.label             "Gehitu laster-marken menua tresna-barran">
 <!ENTITY removeBookmarksMenu.label          "Kendu laster-marken menua tresna-barratik">
-
-<!ENTITY containersMenu.label "Edukiontziak">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Pertsonalizatu menua eta tresna-barrak">
 <!ENTITY appMenuCustomizeExit.label "Irten pertsonalizatzetik">
 <!ENTITY appMenuCustomizeExit.tooltip "Amaitu pertsonalizatzen">
-<!ENTITY appMenuHistory.label "Historia">
 <!ENTITY appMenuHistory.showAll.label "Erakutsi historia guztia">
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Kopiatu URLa">
+<!ENTITY copyURLFeedback.label        "Kopiatuta!">
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "44em">
 
 <!ENTITY uiTour.infoPanel.close "Itxi">
-
-<!ENTITY appMenuSidebars.label         "Alboko barrak">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
