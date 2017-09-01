@@ -103,6 +103,22 @@
 
 <!ENTITY accnameTitle.label "Nama Akaun">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Masukkan nama akaun yang mahu dijadikan rujukan (sebagai contoh, &quot;Akaun Kerja&quot;, &quot;Akaun Utama&quot; atau &quot;Akaun Berita&quot;).">
+<!ENTITY accnameLabel.label "Nama Akaun:">
+<!ENTITY accnameLabel.accesskey "A">
 
 <!-- Entities for Done (Congratulations) page -->
 
+<!ENTITY completionTitle.label "Tahniah!">
+<!ENTITY completionText.label "Sila sahkan bahawa maklumat di bawah adalah betul.">
+<!ENTITY serverTypePrefix.label "Jenis Pelayan Masuk:">
+<!ENTITY serverNamePrefix.label "Nama Pelayan Masuk:">
+<!ENTITY smtpServerNamePrefix.label "Nama Pelayan Keluar (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Nama Pelayan Berita (NNTP):">
+<!ENTITY downloadOnLogin.label "Muat turun mesej sekarang">
+<!ENTITY downloadOnLogin.accesskey "M">
+<!ENTITY deferStorageDesc.label "Buang tanda dalam kotak semakan untuk menyimpan mel akaun ini dalam direktorinya sendiri. Akaun ini akan dipaparkan sebagai akaun tahap teratas. Jika tidak, akaun ini menjadi sebahagian akaun Peti Masuk Global Folder Lokal.">
+<!ENTITY deferStorage.label "Guna Peti Masuk Global (menyimpan mel dalam Folder Lokal)">
+<!ENTITY deferStorage.accesskey "G">
+<!ENTITY clickFinish.label "Klik Siap untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
+<!ENTITY clickFinish.labelMac "Klik Siap untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
