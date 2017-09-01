@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Подешавање е-налога">
+<!ENTITY autoconfigWizard2.title         "Подесите постојећи мејл налог">
 <!ENTITY name.label                      "Ваше име:">
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Презиме">
 <!ENTITY name.text                       "Име које ће бити приказано другима">
 <!ENTITY email.label                     "Мејл адреса:">
 <!ENTITY email.accesskey                 "Е">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "vi@primerdomena.com">
+<!ENTITY email.text                      "Ваша постојећа мејл адреса">
 <!ENTITY password.label                  "Лозинка:">
 <!ENTITY password.accesskey              "Л">
 <!ENTITY password.placeholder            "Лозинка">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "п">
 <!ENTITY manual-edit.label               "Ручно подешавање">
 <!ENTITY manual-edit.accesskey           "Р">
-<!ENTITY switch-to-provisioner.label     "Добави нови налог">
-<!ENTITY switch-to-provisioner.accesskey "Д">
+<!ENTITY open-provisioner.label          "Направите нову мејл адресу…">
+<!ENTITY open-provisioner.accesskey      "Н">
 
 
 <!ENTITY warning.label                   "Упозорење!">
