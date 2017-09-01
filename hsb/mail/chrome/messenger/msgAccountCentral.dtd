@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Konta">
 <!ENTITY subscribeImapFolders.label   "Abonementy rjadowakow zrjadować">
 <!ENTITY settingsLink.label           "Nastajenja za tute konto pokazać">
-<!ENTITY newAcctLink.label            "Nowe konto załožić">
-<!ENTITY newAcct.label                "Nowe konto załožić:">
+<!ENTITY setupNewAcct.label           "Konto konfigurować:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Rozšěrjene funkcije">
 <!ENTITY searchMsgsLink.label         "Powěsće pytać">
