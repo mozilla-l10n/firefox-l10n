@@ -44,8 +44,28 @@
 <!ENTITY PreferMailFormat.accesskey     "t">
 <!ENTITY PlainText.label                "Teks Biasa">
 <!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Tidak diketahui">
+<!ENTITY chatName.label                 "Nama Sembang:">
 
+<!ENTITY WorkPhone.label                "Kerja:">
+<!ENTITY WorkPhone.accesskey            "j">
+<!ENTITY HomePhone.label                "Halaman utama:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "s">
+<!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY CellularNumber.label           "Mudah alih:">
+<!ENTITY CellularNumber.accesskey       "d">
 
+<!ENTITY Home.tab                       "Peribadi">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Alamat:">
+<!ENTITY HomeAddress.accesskey          "l">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Bandar:">
+<!ENTITY HomeCity.accesskey             "n">
 
 
 
