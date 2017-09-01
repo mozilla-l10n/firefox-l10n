@@ -100,7 +100,7 @@ available. -->
 <!ENTITY updateCheckChoose2.label        "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
 <!ENTITY updateCheckChoose2.accesskey    "K">
 <!ENTITY updateManual2.label             "Uuendusi ei otsita (mittesoovitatav)">
-<!ENTITY updateManual2.accesskey         "r">
+<!ENTITY updateManual2.accesskey         "e">
 
 <!ENTITY updateHistory2.label            "Näita uuenduste ajalugu…">
 <!ENTITY updateHistory2.accesskey        "N">
