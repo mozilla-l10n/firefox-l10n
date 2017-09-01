@@ -97,9 +97,11 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Pelayan keluar (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix3 "&quot; sama dengan pelayan masuk, maka nama pengguna masuk akan digunakan untuk mengaksesnya.">
 
 <!-- Entities for Account name page -->
 
+<!ENTITY accnameTitle.label "Nama Akaun">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 
 <!-- Entities for Done (Congratulations) page -->
