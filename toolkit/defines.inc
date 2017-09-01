@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE ქართული (Geogrian)
+#define MOZ_LANG_TITLE Georgian (ქართული)
