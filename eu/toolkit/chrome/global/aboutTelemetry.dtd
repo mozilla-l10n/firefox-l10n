@@ -6,6 +6,17 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping datu-iturria:">
 
+<!ENTITY aboutTelemetry.moreInformations "Informazio gehiagoren bila?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefoxen datuen dokumentazioa</a>k gure datu-tresnekin nola lan egin erakusten du.
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox Telemetry bezeroaren dokumentazioa</a>k kontzeptuen definizioak, API dokumentazioa eta datu-erreferentziak ditu.
+">
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Uneko ping datuak">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Artxibatutako ping datuak">
@@ -43,8 +54,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL instrukzio motelak">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Nabigatzailearen esekitzeak">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Harien esekitzeak">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  Kapturatutako pilak">
 
