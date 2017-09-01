@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "S">
 <!ENTITY  sendLinkToDevice.label             "Wotkaz na grat pósłać">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
+<!ENTITY  sendToDeviceFeedback.label         "Pósłane!">
 <!ENTITY  moveToNewWindow.label              "Do noweho wokna přesunyć">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšě rajtarki jako zapołožki składować…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Tutu zapołožku wobdźěłać">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Tutu stronu abonować">
 <!ENTITY subscribeToPageMenupopup.label "Tutu stronu abonować">
 <!ENTITY subscribeToPageMenuitem.label "Tutu stronu abonować…">
 <!ENTITY addCurPagesCmd.label "Wšě rajtarki jako zapołožki…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Zapołožki">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Zapołožki">
+<!ENTITY bookmarksSubview.label             "Zapołožki">
+<!ENTITY bookmarksMenuButton2.label         "Meni zapołožkow">
 <!ENTITY bookmarksMenuButton.other.label    "Druhe zapołožki">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobilne zapołožki">
 <!ENTITY viewBookmarksSidebar2.label        "Lajstu zapołožkow pokazać">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Nastroje za zapołožki">
 <!ENTITY addBookmarksMenu.label             "Symbolowej lajsće meni zapołožkow přidać">
 <!ENTITY removeBookmarksMenu.label          "Meni zapołožkow ze symboloweje lajsty wotstronić">
-
-<!ENTITY containersMenu.label "Kontejnery">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Meni a symbolowe lajsty přiměrić">
 <!ENTITY appMenuCustomizeExit.label "Přiměrjenje skónčić">
 <!ENTITY appMenuCustomizeExit.tooltip "Přiměrjenje skónčić">
-<!ENTITY appMenuHistory.label "Historija">
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazać">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprózdnić…">
 <!ENTITY appMenuHistory.restoreSession.label "Předchadne posedźenje wobnowić">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Tutón wobłuk jako zapołožku skladować">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "b">
 <!ENTITY copyURLCmd.label             "URL kopěrować">
+<!ENTITY copyURLFeedback.label        "Kopěrowane!">
 <!ENTITY emailPageCmd.label           "Wotkaz e-mejlować…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Stronu składować jako…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Začinić">
-
-<!ENTITY appMenuSidebars.label         "Bóčnicy">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
