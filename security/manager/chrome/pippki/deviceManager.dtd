@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "आपल्याला हव्या असलेल्या घटकाकरता माहिती प्रविष्ट करा.">
-<!ENTITY loaddevice.modname                     "घटकाचे नाव:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "घटकाचे नाव">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "नवीन PKCS#11 घटक">
-<!ENTITY loaddevice.filename                    "घटकातील फाइलचेनाव:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "घटकाचे फाइलनाव">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "ब्राउझ करा…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 

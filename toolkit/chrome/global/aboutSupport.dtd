@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "त्रुटीनिवारन माहिती">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.crashes.title "क्रॅश अहवाल">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "नाव">
 <!ENTITY aboutSupport.appBasicsVersion "आवृत्ती">
 <!ENTITY aboutSupport.appBasicsBuildID "बिल्ड आयडी">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "अद्ययावत वाहिनी">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "इतिहास सुधारीत करा">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "सुधारीत इतिहास दाखवा">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "मेमरिचा वापर">
 <!ENTITY aboutSupport.appBasicsPerformance "कामगिरी">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "नोंदणीकृत Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "प्रोफाइल">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वाचे संपादित केलेले प्राधान्यक्रम">
 <!ENTITY aboutSupport.modifiedPrefsName "नाव">
 <!ENTITY aboutSupport.modifiedPrefsValue "मूल्य">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js प्राधान्यक्रम">
 <!ENTITY aboutSupport.userJSDescription "आपल्या प्रोफाइल फोल्डर मध्ये <a id='prefs-user-js-link'> user.js फाइल </a> आहे, ज्यात &brandShortName; द्वारे तयार न केलेला प्राधान्यक्रम समाविष्ट करण्यात आला आहे.">
 
@@ -107,8 +107,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "सुरू केले">
 <!ENTITY aboutSupport.a11yForceDisabled "ॲक्सेसिबिलिटि टाळा">
 <!ENTITY aboutSupport.a11yHandlerUsed "सुलभ हाताळणारा वापरला">
+<!ENTITY aboutSupport.a11yInstantiator "सुलभता इंस्टंशिएटर">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "लाइब्ररि आवृत्ती">
+<!ENTITY aboutSupport.libraryVersionsTitle "वाचनालय आवृत्ती">
 
 <!ENTITY aboutSupport.installationHistoryTitle "प्रतिष्ठापन इतिहास">
 <!ENTITY aboutSupport.updateHistoryTitle "इतिहास सुधारीत करा">
