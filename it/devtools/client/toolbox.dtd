@@ -55,7 +55,7 @@
 <!ENTITY options.screenshot.audio.label "Riproduci il suono dell’otturatore">
 <!ENTITY options.screenshot.audio.tooltip "Riproduci il suono dell’otturatore di una fotocamera quando si cattura una schermata">
 <!ENTITY options.netmonitor.label "Rete">
-<!ENTITY options.netmonitor.enablePersistentLogs.label "Attiva registri permanenti">
+<!ENTITY options.netmonitor.enablePersistentLogs.label "Attiva registro permanente">
 <!ENTITY options.netmonitor.enablePersistentLogs.tooltip "Attivando questa opzione il monitor di rete non verrà azzerato ogni volta che si naviga in una nuova pagina">
 <!ENTITY options.showPlatformData.label "Visualizza dati piattaforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Attivando questa opzione i rapporti del Profiler JavaScript conterranno i simboli della piattaforma Gecko">
