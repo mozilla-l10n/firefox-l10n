@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončiť &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "U">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zavrieť">
 <!ENTITY closeCmd.key                   "W">
