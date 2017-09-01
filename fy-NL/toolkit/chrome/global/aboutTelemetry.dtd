@@ -20,6 +20,10 @@ Argivearre ping-gegevens
 Net bewurke JSON
 ">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
+Iepenje yn de JSON-viewer
+">
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Subsesjegegevens toane
 ">
@@ -80,10 +84,6 @@ Alder
   Browser fêstrinners
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Konversaasjefêstrinners
-">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Opnommen stacks
 ">
@@ -118,6 +118,10 @@ Alder
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   Lêste add-ons 
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Net bewurke nettolading
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
