@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "m">
 
 <!ENTITY noTranslationForSites.label      "Tõlkimist ei pakuta järgmiste saitide puhul:">
-<!ENTITY treehead.siteName.label          "Saidid">
+<!ENTITY treehead.siteName2.label         "Saidid">
 <!ENTITY removeSite.label                 "Eemalda sait">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Eemalda kõik saidid">
