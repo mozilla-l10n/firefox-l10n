@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY propertiesMenu.label               "Sifat">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Sifat Buku Alamat">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Sifat Kenalan">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "Sifat Senarai Mel">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
+
+<!ENTITY abContextMenuButton.tooltip        "Paparan Menu Konteks Buku Alamat">
+<!ENTITY addressbookPicker.label            "Buku Alamat:">
+<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY searchContacts.label               "Cari Kenalan:">
+
+
+
