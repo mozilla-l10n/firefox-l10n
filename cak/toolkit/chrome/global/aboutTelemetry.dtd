@@ -6,6 +6,11 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "Ri <a>Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.">
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Taq rutzij wakami ri ping">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Yakon taq rutzij ri ping">
@@ -43,8 +48,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Taq b'ab' SQL ajeqal">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Ri okem pa k'amaya'l nutzeqeb'a' ri'">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Kitzeqeb'axik b'ätz'">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  Chapon tzub'aj">
 
