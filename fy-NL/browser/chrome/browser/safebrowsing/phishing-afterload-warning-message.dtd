@@ -33,3 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misliedende websites binne makke om jo wat gefaarliks dwaan te litten, lykas it ynstallearjen fan software, of it dielen fan jo persoanlike gegevens, lykas wachtwurden, telefoannûmers of creditcardgegevens.</p><p>It ynfieren fan persoanlike gegevens op dizze webside kin liede ta stellerij fan identiteitsgegevens of oare fraude.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "De folgjende website kin malware befetsje">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; hat dizze side blokkearre, omdat dizze kin probearje gefaarlike apps te ynstallearjen dy't jo gegevens (lykas foto’s, wachtwurden, berjochten en creditcardgegevens) stelle of fuortsmite.">

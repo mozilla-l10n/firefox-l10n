@@ -114,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Ynstellingen…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Tagong ta jo browser troch tagonklikheidstsjinsten opkeare">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Mear ynfo">
