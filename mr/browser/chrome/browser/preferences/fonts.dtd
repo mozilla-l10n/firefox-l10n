@@ -4,11 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "टंक">
 
+<!ENTITY  fonts.label                             "यासाठी टंक">
+<!ENTITY  fonts.accesskey                         "f">
 
+<!ENTITY  size2.label                             "आकार">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "प्रमाणबध्द">
+<!ENTITY  proportional2.accesskey                 "p">
 
+<!ENTITY  serif2.label                            "सेरिफ">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "सँस-सेरिफ">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "मोनोस्पेस">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -56,7 +67,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग">
 <!ENTITY languages.customize.Fallback3.label      "फॉलबॅक मजकूर एन्कोडिंग">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "ह्या टेक्स्ट एंकोडिंगचा वापर लेगसि कंटेंटकरिता केला जातो जे एंकोडिंग घोषीत करण्यास अपयशी ठरते.">
+<!ENTITY languages.customize.Fallback2.desc       "वारसा मजकूर जे स्वतःचे एन्कोडिंग घोषीत करण्यास अपयशी ठरते त्यासाठी हे मजकूर एन्कोडिंग वापरले जाते.">
 
 <!ENTITY languages.customize.Fallback.auto        "सध्याच्या लोकेलकरिता पूर्वनिर्धारित">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
