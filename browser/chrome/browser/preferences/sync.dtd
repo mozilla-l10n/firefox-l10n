@@ -66,6 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Võta oma veeb endaga kaasa">
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">
 <!ENTITY signedOut.accountBox.title   "Ühendu &syncBrand.fxAccount.label;ga">
+<!ENTITY signedOut.accountBox.create2 "Sul pole kontot? Tee algust">
+<!ENTITY signedOut.accountBox.create2.accesskey "T">
+<!ENTITY signedOut.accountBox.signin2 "Logi sisse…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "o">
 
 <!ENTITY signedIn.settings.label       "Sünkroniseerimise sätted">
 <!ENTITY signedIn.settings.description "Vali &brandShortName;i poolt sünkroniseeritavad andmed.">
