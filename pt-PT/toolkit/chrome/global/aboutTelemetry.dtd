@@ -12,8 +12,17 @@ Fonte de datos ping:
 À procura de mais informação?
 ">
 
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+Os <a>dados de documentação do Firefox</a> contém guias acerca de como trabalhar com as nossas ferramentas de dados.
+">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+A <a>documentação do cliente de telemetria do Firefox</a> incluí definições para conceitos, documentação de API e referências de dados.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Os <a>painéis de telemetria</a> permitem-lhe visualizar os dados que a Mozilla recebe via telemetria.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Dados de ping atuais
