@@ -4,30 +4,19 @@
 
 <!ENTITY  fontsDialog.title                       "टंक">
 
-<!ENTITY  language.label                          "यासाठीचे टंक:">
-<!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "आकार:">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "प्रमाणबध्द:">
-<!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "सेरिफ:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "सँस-सेरिफ:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "मोनोस्पेस:">
-<!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "लॅटिन">
-<!ENTITY  font.langGroup.japanese                 "जापानी">
-<!ENTITY  font.langGroup.trad-chinese             "पारंपारिक चिनी(तैवान)">
+<!ENTITY  font.langGroup.japanese                 "जॅपनीझ">
+<!ENTITY  font.langGroup.trad-chinese             "पारंपारिक चिनी (तैवान)">
 <!ENTITY  font.langGroup.simpl-chinese            "सुलभ चिनी">
-<!ENTITY  font.langGroup.trad-chinese-hk          "पारंपारिक चिनी(तैवान)">
+<!ENTITY  font.langGroup.trad-chinese-hk          "पारंपारिक चिनी (हाँग काँग)">
 <!ENTITY  font.langGroup.korean                   "कोरिअन">
 <!ENTITY  font.langGroup.cyrillic                 "सिरीलिक्">
 <!ENTITY  font.langGroup.el                       "ग्रीक">
@@ -53,11 +42,11 @@
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाला">
 <!ENTITY  font.langGroup.tibetan                  "तिबेटन">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "किमान टंक आकार:">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "किमान टंक आकार">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "काहिच नाही">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "अलंकृत">
 <!ENTITY  useDefaultFontSansSerif.label           "निलंकृत">
 
@@ -65,8 +54,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग">
-<!ENTITY languages.customize.Fallback2.label      "फॉलबॅक मजकूर एन्कोडिंग:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "फॉलबॅक मजकूर एन्कोडिंग">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "ह्या टेक्स्ट एंकोडिंगचा वापर लेगसि कंटेंटकरिता केला जातो जे एंकोडिंग घोषीत करण्यास अपयशी ठरते.">
 
 <!ENTITY languages.customize.Fallback.auto        "सध्याच्या लोकेलकरिता पूर्वनिर्धारित">
