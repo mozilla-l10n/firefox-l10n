@@ -7,6 +7,22 @@
 <!ENTITY aboutTelemetry.pingDataSource "
 პინგის მონაცემების წყარო:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+მეტ ინფორმაციას ეძებთ?
+">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefox მონაცემთა დოკუმენტაცია</a> შეიცავს მითითებებს, მონაცემთა ხელსაწყოებთან მუშაობის შესახებ.
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox ტელემეტრიის კლიენტის დოკუმენტაცია</a> შეიცავს განმარტებებს, კონცეფციას, API დოკუმენტაციასა და მითითებებს, მონაცემების შესახებ.
+">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>ტელემეტრიის გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
+">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 პინგის მიმდინარე მონაცემები">
 
@@ -79,10 +95,6 @@ JSON მნახველში გახსნა
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
   ბრაუზერის გაშეშებები
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  ნაკადის გაშეშებები
 ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
