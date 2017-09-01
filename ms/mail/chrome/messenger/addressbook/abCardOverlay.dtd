@@ -34,7 +34,16 @@
 <!ENTITY preferDisplayName.label        "Sentiasa papar nama dalam pengepala mesej">
 <!ENTITY preferDisplayName.accesskey    "r">
 <!ENTITY NickName.label                 "Nama gelaran:">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "E-mel:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "E-mel Tambahan:">
+<!ENTITY SecondEmail.accesskey          "l">
+<!ENTITY PreferMailFormat.label         "Utamakan menerima mesej yang diformatkan sebagai:">
+<!ENTITY PreferMailFormat.accesskey     "t">
+<!ENTITY PlainText.label                "Teks Biasa">
+<!ENTITY HTML.label                     "HTML">
 
 
 
