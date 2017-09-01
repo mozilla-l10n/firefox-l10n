@@ -179,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Camerasluitergeluid afspelen">
 <!ENTITY options.screenshot.audio.tooltip    "Schakelt het camerageluid bij het maken van schermafbeeldingen in">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Algemene voorkeuren">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Netwerk">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aanhoudende registraties inschakelen">
-<!ENTITY options.enablePersistentLogs.tooltip  "Als u deze optie inschakelt, zullen de Webconsole en Netwerkmonitor de uitvoer niet elke keer wissen als u naar een nieuwe pagina gaat">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Aanhoudende registraties inschakelen">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Als u deze optie inschakelt, zal de Netwerkmonitor de uitvoer niet elke keer wissen als u naar een nieuwe pagina gaat">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
