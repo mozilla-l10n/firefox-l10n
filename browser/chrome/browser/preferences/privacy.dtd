@@ -25,9 +25,18 @@
 <!ENTITY changeBlockList2.label               "Muuda blokkimise nimekirja…">
 <!ENTITY changeBlockList2.accesskey           "M">
 
+<!ENTITY  doNotTrack.description        "Saitidele saadetakse signaal, et sa ei soovi olla jälitatud">
+<!ENTITY  doNotTrack.learnMore.label    "Rohkem teavet">
+<!ENTITY  doNotTrack.default.label      "ainult siis, kui jälitamisvastane kaitse on lubatud">
+<!ENTITY  doNotTrack.always.label       "alati">
 
 <!ENTITY  history.label                 "Ajalugu">
+<!ENTITY  permissions.label             "Õigused">
 
+<!ENTITY  addressBar.label              "Aadressiriba">
+<!ENTITY  addressBar.suggest.label      "Aadressiriba kasutamisel otsitakse soovitusi">
+<!ENTITY  locbar.history2.label         "lehitsemise ajaloost">
+<!ENTITY  locbar.history2.accesskey     "l">
 <!ENTITY  locbar.bookmarks.label        "järjehoidjatest">
 <!ENTITY  locbar.bookmarks.accesskey    "j">
 <!ENTITY  locbar.openpage.label         "avatud kaartide seast">
@@ -37,11 +46,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Muuda otsingumootorite soovituste sätteid">
 
+<!ENTITY  acceptCookies2.label          "Küpsised lubatakse">
+<!ENTITY  acceptCookies2.accesskey      "K">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Kolmanda osapoole küpsised lubatakse">
+<!ENTITY  acceptThirdParty2.pre.accesskey "o">
 <!ENTITY  acceptThirdParty.always.label   "alati">
 <!ENTITY  acceptThirdParty.never.label    "mitte kunagi">
 <!ENTITY  acceptThirdParty.visited.label  "varem külastatud saitidelt">
 
+<!ENTITY  keepUntil2.label              "Säilitatakse kuni">
+<!ENTITY  keepUntil2.accesskey          "n">
 
 <!ENTITY  expire.label                  "nad aeguvad">
 <!ENTITY  close.label                   "&brandShortName; suletakse">
