@@ -6,10 +6,18 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+¿La nakanoj ch'aqa' chik etamab'äl?
+">
 
-<!ENTITY aboutTelemetry.firefoxDataDoc "Ri <a>Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+Ri <a>Firefox Tzij Wujunïk</a> k'o taq rucholajem samaj chupam, akuchi' nusik'ij rub'eyal yeqasamajij ri kisamajib'al qatzij.">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+Ri <a>Firefox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API wujib'äl chuqa' ketal taq tzij.">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Ri <a>Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Mozilla ruma Telemetry.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Taq rutzij wakami ri ping">
 
