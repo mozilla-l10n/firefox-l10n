@@ -194,12 +194,50 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "s">
 <!ENTITY NickName.label                                 "Nama gelaran">
 <!ENTITY NickName.accesskey                             "e">
+<!ENTITY SecondEmail.label                              "E-mel Tambahan">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Jabatan">
+<!ENTITY Department.accesskey                           "b">
+<!ENTITY JobTitle.label                                 "Jawatan">
+<!ENTITY JobTitle.accesskey                             "J">
+<!ENTITY CellularNumber.label                           "Mudah alih">
+<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY PagerNumber.label                              "Pager">
+<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY FaxNumber.label                                "Faks">
+<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY HomePhone.label                                "Telefon Rumah">
+<!ENTITY HomePhone.accesskey                            "R">
+<!ENTITY WorkPhone.label                                "Telefon Kerja">
+<!ENTITY WorkPhone.accesskey                            "K">
+<!ENTITY sortAscending.label                            "Menaik">
+<!ENTITY sortAscending.accesskey                        "M">
+<!ENTITY sortDescending.label                           "Menurun">
+<!ENTITY sortDescending.accesskey                       "n">
+<!ENTITY _PhoneticName.label                            "Nama Fonetik">
+<!ENTITY _PhoneticName.accesskey                        "o">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Kenalan">
+<!ENTITY home.heading                                   "Halaman utama">
+<!ENTITY other.heading                                  "Lain-lain">
+<!ENTITY chat.heading                                   "Sembang">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Kerja">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Keterangan">
+<!ENTITY addresses.heading                              "Alamat">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Cari Peta">
+<!ENTITY mapIt.tooltip                                  "Papar peta untuk alamat ini daripada Web">
 
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "Window">
+<!ENTITY minimizeWindow.label                           "Minimum">
+<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY bringAllToFront.label                          "Bawa Semua ke Hadapan">
+<!ENTITY zoomWindow.label                               "Zum">
