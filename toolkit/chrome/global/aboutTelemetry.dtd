@@ -6,6 +6,14 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Fuente de datos de ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "¿Buscas más información?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentación de datos de Firefox</a> contiene guías sobre cómo trabajar con tus herramientas de datos.">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentación de cliente de telemetría de Firefox</a> incluye definiciones para conceptos, documentación de API y referencias de datos.">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "Los <a>paneles de telemetría</a> te permiten visualizar los datos que Mozilla recibe a través de telemetría.">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Datos de ping actuales">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivados">
@@ -43,8 +51,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "Sentencias SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Cuelges del navegador">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "Cuelgues de hilos">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "Pilas capturadas">
 
