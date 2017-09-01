@@ -2,14 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Nastavenie poštového účtu">
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "V">
 <!ENTITY name.placeholder                "Meno priezvisko">
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY email.label                     "E-mailová adresa:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Vaša existujúca e-mailová adresa">
 <!ENTITY password.label                  "Heslo:">
 <!ENTITY password.accesskey              "H">
 <!ENTITY password.placeholder            "Heslo">
@@ -53,8 +54,6 @@
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Manuálne nastavenie">
 <!ENTITY manual-edit.accesskey           "n">
-<!ENTITY switch-to-provisioner.label     "Získať nový účet">
-<!ENTITY switch-to-provisioner.accesskey "k">
 
 
 <!ENTITY warning.label                   "Upozornenie!">
