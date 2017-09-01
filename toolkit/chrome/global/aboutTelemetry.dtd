@@ -6,6 +6,16 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Mencari maklumat selanjutnya?
+">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Dokumentasi Data Firefox</a> mengandungkan panduan perihal cara menggunakan alatan data kami.
+">
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping semasa">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping diarkibkan">
@@ -66,8 +76,6 @@ Lebih lama
 <!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Bebenang Tergantung">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Captured Stacks
