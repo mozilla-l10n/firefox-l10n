@@ -179,17 +179,15 @@
 <!ENTITY options.screenshot.audio.label      "Jouer un son d’obturateur d’appareil photo">
 <!ENTITY options.screenshot.audio.tooltip    "Activer le son d’un obturateur d’appareil photo lors de la capture d’écran">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Préférences générales">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Réseau">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Activer les journaux persistants">
-<!ENTITY options.enablePersistentLogs.tooltip  "Si vous activez cette option, la console web et le moniteur réseau ne videront pas les sorties à chaque fois que vous changerez de page">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Activer les journaux persistants">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
