@@ -3,17 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- unix -->
-<!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey -->
+<!-- LOCALIZATION NOTE : FILE Do not translate all the Cmd.key and accesskey --> 
 
-<!ENTITY closeCmd.label                 "Zavrieť">
-<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.label                 "Zavrieť">  
+<!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
-<!ENTITY quitApplicationCmd.label       "Koniec">
-<!ENTITY quitApplicationCmd.key         "q">
+<!ENTITY quitApplicationCmd.label       "Koniec"> 
+<!ENTITY quitApplicationCmd.key         "Q"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
 
-<!ENTITY redoCmd.key                    "Y">
+<!ENTITY redoCmd.key                    "Y">  
 
 <!ENTITY findCmd.key2                   "VK_F19">
 <!ENTITY findReplaceCmd.key             "H">
