@@ -14,8 +14,8 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Dalše informacije">
 <!ENTITY  trackingProtectionExceptions.label   "Wuwzaća…">
 <!ENTITY  trackingProtectionExceptions.accesskey "u">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Slědowanski škit w priwatnych woknach wužiwać">
 <!ENTITY trackingProtectionPBM5.accesskey     "r">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
@@ -75,10 +75,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; budźe sej wobhladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować a wobchowa placki z websydłow, kotrež wopytujeće.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Chceće snano ">
 <!ENTITY  rememberActions.clearHistory.label  "swoju najnowšu historiju wuprózdnić">
 <!ENTITY  rememberActions.middle.label        " abo ">
@@ -86,9 +86,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Chceće snano ">
 <!ENTITY  dontrememberActions.clearHistory.label "wšu tuchwilnu historiju wuprózdnić">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "m">
 <!ENTITY  browserContainersSettings.label        "Nastajenja…">
 <!ENTITY  browserContainersSettings.accesskey    "s">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Słužby přistupnosće při přistupu na waš wobhladowak haćić">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "t">
+<!ENTITY  a11yPrivacy.learnmore.label    "Dalše informacije">
