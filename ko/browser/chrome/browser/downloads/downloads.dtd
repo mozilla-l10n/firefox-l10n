@@ -134,7 +134,16 @@
 <!ENTITY downloadsHistory.label           "다운로드 항목 모두 보기">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "다운로드 폴더 열기">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "다운로드 폴더 열기">
 
 <!ENTITY clearDownloadsButton.label       "다운로드 항목 지우기">
 <!ENTITY clearDownloadsButton.tooltip     "완료, 취소, 그리고 실패한 다운로드 항목 지우기">
