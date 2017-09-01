@@ -12,15 +12,14 @@
 <!ENTITY window.title         "नवीन कंटेनर जोडा">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "नाव:">
-<!ENTITY name.accesskey       "N">
-<!ENTITY name.placeholder     "कंटेनरचे नाव द्या">
-<!ENTITY icon.label           "चिन्ह:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "रंग:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY name2.label          "नाव">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY name.placeholder     "कंटेनरचे नाव प्रविष्ट करा">
+<!ENTITY icon2.label          "चिन्ह">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "रंग">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "पूर्ण झाले">
 <!ENTITY button.ok.accesskey  "D">
-
