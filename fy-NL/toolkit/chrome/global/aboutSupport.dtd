@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivearre">
 <!ENTITY aboutSupport.a11yForceDisabled "Tagonklikheid tsjingean">
 <!ENTITY aboutSupport.a11yHandlerUsed "Accessible-handler brûkt">
+<!ENTITY aboutSupport.a11yInstantiator "Tagonklikheids-ynstansjator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Biblioteekferzje">
 

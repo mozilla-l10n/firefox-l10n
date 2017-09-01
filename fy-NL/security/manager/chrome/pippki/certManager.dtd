@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Organisaasjes">
 <!ENTITY certmgr.tab.orphan2                  "Oaren">
 
-<!ENTITY certmgr.mine                         "Jo hawwe sertifikaten fan dizze organisaasje dy't jo identifisearje:">
-<!ENTITY certmgr.others                       "Jo hawwe sertifikaten as bestân dy't dizze minsken identifisearje:">
-<!ENTITY certmgr.websites2                    "Jo hawwe sertifikaten as bestân dy't dizze servers identifisearje:">
-<!ENTITY certmgr.cas                          "Jo hawwe sertifikaten as bestân dy't dizze sertifikaatautoriteiten identifisearje:">
-<!ENTITY certmgr.orphans                      "Jo hawwe sertifikaten as bestân dy't net passe yn ien fan de oare kategoryen:">
+<!ENTITY certmgr.mine2                        "Jo hawwe sertifikaten fan dizze organisaasjes, dy't jo identifisearje">
+<!ENTITY certmgr.others2                      "Jo hawwe sertifikaten argivearre dy't dizze persoanen identifisearje">
+<!ENTITY certmgr.websites3                    "Jo hawwe sertifikaten argivearre dy't dizze servers identifisearje">
+<!ENTITY certmgr.cas2                         "Jo hawwe sertifikaten argivearre dy't dizze sertifikaatautoriteiten identifisearje">
+<!ENTITY certmgr.orphans2                     "Jo hawwe sertifikaten argivearre dy't net yn ien fan de oare kategoryen passe">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemien">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
