@@ -6,6 +6,20 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping 数据源：">
 
+<!ENTITY aboutTelemetry.moreInformations "寻找更多信息？">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefox 数据文档</a> 包含有关如何使用我们的数据工具的指南。
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
+">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>遥测面板</a> 允许您可视化 Mozilla 通过遥测收到的数据。
+">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "当前 ping 数据">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "存档的 ping 数据">
@@ -53,8 +67,6 @@ Ping 类型
 <!ENTITY aboutTelemetry.slowSqlSection "  慢的SQL语句">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  浏览器挂起">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  线程挂起">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "捕获的堆栈">
 

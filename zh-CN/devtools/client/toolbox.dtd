@@ -179,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "播放相机快门声">
 <!ENTITY options.screenshot.audio.tooltip    "截图时播放相机快门声">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "常用首选项">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "网络">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "启用持续日志">
-<!ENTITY options.enablePersistentLogs.tooltip  "如果您启用此选项，Web 控制台将不会在您导航到新页面时清除已输出内容">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "启用持续日志">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "如果启用此选项，网络监控器将不会在每次导航到新页面时清除已输出的内容">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
