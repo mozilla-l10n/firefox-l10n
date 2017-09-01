@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "啟用遠端除錯">
 <!ENTITY options.enableRemote.tooltip2  "開啟此選項將允許開發者工具對遠端實例，例如 Firefox OS 除錯">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "開啟 worker 除錯（開發中）">
-<!ENTITY options.enableWorkers.tooltip  "開啟此選項後將允許開發者工具對 worker 除錯">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "播放快門音效">
 <!ENTITY options.screenshot.audio.tooltip    "拍攝畫面擷圖時播放快門音效">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "共同偏好設定">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "網路">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "啟用保持記錄">
-<!ENTITY options.enablePersistentLogs.tooltip  "若您啟用了此選項，網頁主控台將不會在您瀏覽新頁面時清除輸出結果。">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "開啟保留紀錄">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "若您啟用了此選項，網路監控器將不會在您切換到新頁面時清除輸出資料。">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

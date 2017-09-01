@@ -6,6 +6,11 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping 資料來源:">
 
+<!ENTITY aboutTelemetry.moreInformations "想了解更多嗎？">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "目前的 ping 資料">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "已封存的 ping 資料">
