@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "h">
 <!ENTITY  sendLinkToDevice.label             "Saada link seadmesse">
 <!ENTITY  sendLinkToDevice.accesskey         "i">
+<!ENTITY  sendToDeviceFeedback.label         "Saadetud!">
 <!ENTITY  moveToNewWindow.label              "Liiguta uude aknasse">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Lisa kõik kaardid järjehoidjatesse…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Muuda seda järjehoidjat">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Telli selle lehe uudistevoog">
 <!ENTITY subscribeToPageMenupopup.label "Selle veebilehe uudistevoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label "Telli selle veebilehe uudistevoog...">
 <!ENTITY addCurPagesCmd.label "Lisa kõik kaardid järjehoidjatesse...">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Järjehoidjad">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Järjehoidjad">
+<!ENTITY bookmarksSubview.label             "Järjehoidjad">
+<!ENTITY bookmarksMenuButton2.label         "Järjehoidjate menüü">
 <!ENTITY bookmarksMenuButton.other.label    "Muud järjehoidjad">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobiilsed järjehoidjad">
 <!ENTITY viewBookmarksSidebar2.label        "Kuva järjehoidjate külgriba">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Järjehoidjate tööriistad">
 <!ENTITY addBookmarksMenu.label             "Lisa järjehoidjate menüü tööriistaribale">
 <!ENTITY removeBookmarksMenu.label          "Eemalda järjehoidjate menüü tööriistaribalt">
-
-<!ENTITY containersMenu.label "Konteinerid">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Kohanda menüüd ja tööriistaribasid">
 <!ENTITY appMenuCustomizeExit.label "Välju kohandamisest">
 <!ENTITY appMenuCustomizeExit.tooltip "Lõpeta kohandamine">
-<!ENTITY appMenuHistory.label "Ajalugu">
 <!ENTITY appMenuHistory.showAll.label "Kuva kogu ajalugu">
 <!ENTITY appMenuHistory.clearRecent.label "Kustuta hiljutine ajalugu…">
 <!ENTITY appMenuHistory.restoreSession.label "Taasta eelmine seanss">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 <!ENTITY copyURLCmd.label             "Kopeeri URL">
+<!ENTITY copyURLFeedback.label        "Kopeeritud!">
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Salvesta veebileht kui…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Sulge">
-
-<!ENTITY appMenuSidebars.label         "Külgribad">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
