@@ -686,7 +686,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ffeɣ">
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Anef &brandShorterName;">
-<!ENTITY quitApplicationCmd.key         "F">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mdel">
 <!ENTITY closeCmd.key                   "W">
