@@ -10,10 +10,16 @@
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "ajalugu">
 <!ENTITY engine.history.accesskey   "a">
+<!ENTITY engine.logins.label        "Kasutajakontod">
+<!ENTITY engine.logins.accesskey    "u">
 <!ENTITY engine.prefs.label         "eelistused">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "lisad">
 <!ENTITY engine.addons.accesskey    "i">
+<!ENTITY engine.addresses.label     "Aadressid">
+<!ENTITY engine.addresses.accesskey "d">
+<!ENTITY engine.creditcards.label   "Krediitkaardid">
+<!ENTITY engine.creditcards.accesskey "t">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Seadme nimi">
@@ -60,10 +66,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Võta oma veeb endaga kaasa">
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">
 <!ENTITY signedOut.accountBox.title   "Ühendu &syncBrand.fxAccount.label;ga">
-<!ENTITY signedOut.accountBox.create  "Loo konto">
-<!ENTITY signedOut.accountBox.create.accesskey  "k">
-<!ENTITY signedOut.accountBox.signin  "Logi sisse">
-<!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
 <!ENTITY signedIn.settings.label       "Sünkroniseerimise sätted">
 <!ENTITY signedIn.settings.description "Vali &brandShortName;i poolt sünkroniseeritavad andmed.">

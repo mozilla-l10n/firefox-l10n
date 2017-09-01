@@ -4,18 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Vaikeotsingumootor">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Vali vaikeotsingumootor. &brandShortName; kasutab seda asukoharibal, otsinguribal ja avalehel.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Vali vaikeotsingumootor, mida kasutatakse aadressi- ja otsinguribal.">
 
 <!ENTITY provideSearchSuggestions.label        "Pakutakse otsingusoovitusi">
 <!ENTITY provideSearchSuggestions.accesskey    "P">
 
-<!ENTITY showURLBarSuggestions.label           "Asukohariba tulemustes kuvatakse otsingusoovitusi">
-<!ENTITY showURLBarSuggestions.accesskey       "A">
+<!ENTITY showURLBarSuggestions2.label           "Aadressiriba tulemustes kuvatakse otsingusoovitusi">
+<!ENTITY showURLBarSuggestions2.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Otsingusoovitusi asukohariba tulemuste seas ei kuvata, sest &brandShortName; ei ole häälestatud ajalugu säilitama.">
 
 <!ENTITY oneClickSearchEngines.label           "Ühe klõpsu otsingumootorid">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Otsinguriba võimaldab kasutada alternatiivseid otsingumootoreid koheselt. Vali kuvatavad otsingumootorid.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Vali alternatiivsed otsingumootorid, mida kuvatakse aadressi- ja otsinguriba all, kui alustad märksõna sisestamist.">
 
 <!ENTITY engineNameColumn.label                "Otsingumootor">
 <!ENTITY engineKeywordColumn.label             "Võtmesõna">
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Eemalda">
 <!ENTITY removeEngine.accesskey                "E">
 
-<!ENTITY addMoreSearchEngines2.label           "Lisa veel otsingumootoreid">
+<!ENTITY findMoreSearchEngines.label           "Leia veel otsingumootoreid">
