@@ -114,3 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Sätted…">
 <!ENTITY  browserContainersSettings.accesskey    "d">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Hõlpsusteenustel takistatakse ligipääs sinu brauserile">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "H">
+<!ENTITY  a11yPrivacy.learnmore.label    "Rohkem teavet">
