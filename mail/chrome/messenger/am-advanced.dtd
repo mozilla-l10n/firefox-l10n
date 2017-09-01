@@ -12,4 +12,17 @@
 
 <!ENTITY smtpListAdd.label  "Tambah…">
 <!ENTITY smtpListAdd.accesskey  "h">
+<!ENTITY smtpListEdit.label "Edit…">
+<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListDelete.label "Buang">
+<!ENTITY smtpListDelete.accesskey "g">
+<!ENTITY smtpListSetDefault.label "Tetapkan Piawai">
+<!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Butiran pelayan yang dipilih:">
+<!ENTITY serverDescription.label "Keterangan: ">
+<!ENTITY serverName.label "Nama Pelayan: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Nama Pengguna: ">
+<!ENTITY connectionSecurity.label "Keselamatan Sambungan: ">
+<!ENTITY authMethod.label   "Kaedah pengesahan: ">
