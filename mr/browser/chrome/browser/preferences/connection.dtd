@@ -14,14 +14,27 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "या नेटवर्कसाठी प्रतिनिधी(प्रॉक्सी) सेटींग्स आपोआप शोधून काढा">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio2.label        "मानवीय प्रॉक्सी संयोजना">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "स्वयं प्रॉक्सी संयोजना URL">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "पुन्हा लोड करा">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  socks4.label                  "सॉक्स(SOCKS) v4">
+<!ENTITY  ftp2.label                    "FTP प्रॉक्सी">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP प्रॉक्सी">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL प्रॉक्सी">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS होस्ट">
+<!ENTITY  socks2.accesskey              "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "सॉक्स(SOCKS) v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "SOCKS v5 वापरताना DNS ची प्रॉक्सी करा">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "पोर्ट">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
