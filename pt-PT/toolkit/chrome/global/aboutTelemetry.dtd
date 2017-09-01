@@ -8,6 +8,13 @@
 Fonte de datos ping:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+À procura de mais informação?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Dados de ping atuais
 ">
@@ -73,8 +80,6 @@ Antigo
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Bloqueios do navegador">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  Stacks capturadas">
 
