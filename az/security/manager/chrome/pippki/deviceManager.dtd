@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "S">
 
 <!ENTITY loaddevice.info                        "Əlavə etmək istədiyiniz modulla bağlı məlumatı daxil edin.">
-<!ENTITY loaddevice.modname                     "Modulun Adı:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Modulun Adı">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Yeni PKCS#11 Modülü">
-<!ENTITY loaddevice.filename                    "Modul faylı:">
-<!ENTITY loaddevice.filename.accesskey          "d">
+<!ENTITY loaddevice.filename2                   "Modul faylı">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Bax…">
 <!ENTITY loaddevice.browse.accesskey            "G">
 
