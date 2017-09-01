@@ -138,6 +138,7 @@
      This string is shown at the top of the Download Details Panel, to indicate
      that we are showing the details of a single download.
      -->
+<!ENTITY downloadDetails.label            "Podrobnosti o preberaní">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
