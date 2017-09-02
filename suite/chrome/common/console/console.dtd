@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY errColumn.label      "Kolonne:">
+
+<!ENTITY all.label            "Alle">
+<!ENTITY all.accesskey        "A">
+<!ENTITY warnings.label       "Åtvaringar">
+<!ENTITY messages.label       "Meldingar">
+<!ENTITY messages.accesskey   "M">
+<!ENTITY clear.label          "Tøm">
+<!ENTITY codeEval.label       "Kode:">
+<!ENTITY evaluate.label       "Evaluer">
+<!ENTITY filter2.label        "Filter:">
+
+
+<!ENTITY menuBar.tooltip       "Menylinje">
+<!ENTITY toolbarsCmd.label     "Vis/Gøym">
+<!ENTITY toolbarsCmd.accesskey "G">
+<!ENTITY toolbarMode.label     "Modus">
+<!ENTITY toolbarMode.accesskey "M">
+<!ENTITY toolbarEval.label     "JavaScript-inntasting">
+<!ENTITY toolbarEval.accesskey "J">
