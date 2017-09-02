@@ -34,6 +34,7 @@
 <!ENTITY  permissions.label             "Permissions">
 
 <!ENTITY  addressBar.label              "Barra d'adreça">
+<!ENTITY  addressBar.suggest.label      "Quand utilizi la barra d'adreça, suggerir">
 <!ENTITY  locbar.history2.label         "Istoric de navigacion">
 <!ENTITY  locbar.history2.accesskey     "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
@@ -108,3 +109,4 @@
 <!ENTITY  browserContainersEnabled.accesskey    "a">
 <!ENTITY  browserContainersSettings.label        "Paramètres…">
 <!ENTITY  browserContainersSettings.accesskey    "t">
+

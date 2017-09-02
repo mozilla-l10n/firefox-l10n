@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
 <!ENTITY retry.label "Tornatz ensajar">
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
+<!ENTITY advanced.label "Avançat">
 
 <!-- Specific error messages -->
 
@@ -23,6 +24,7 @@
 <!ENTITY fileNotFound.title "Fichièrs pas trobat">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
 
 <!ENTITY generic.title "La requèsta pòt pas abotir">
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
