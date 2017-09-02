@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Context Menu -->
+<!ENTITY goBackCmd.label              "Tilbake">
+<!ENTITY goBackCmd.accesskey          "T">
+<!ENTITY goForwardCmd.label           "Fram">
+<!ENTITY goForwardCmd.accesskey       "F">
+<!ENTITY goUpCmd.label                "Opp">
+<!ENTITY goUpCmd.accesskey            "O">
+<!ENTITY reloadCmd.label              "Oppdater">
+<!ENTITY reloadCmd.accesskey          "O">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Stopp">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY reloadFrameCmd.label         "Oppdater ramme">
+<!ENTITY reloadFrameCmd.accesskey     "O">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Vis kjeldekode for vald tekst">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kjeldekode">
+<!ENTITY viewPartialSourceCmd.accesskey "V">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!-- Developer Tools -->
