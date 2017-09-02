@@ -22,6 +22,9 @@
 
 <!ENTITY cmd.open.label                  "Opne">
 <!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_tab.label              "Opne i ny fane">
+<!ENTITY cmd.open_tab.accesskey          "f">
+<!ENTITY cmd.open_window.label           "Opne i nytt vindauge">
 
 
 
@@ -31,13 +34,37 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
 
 <!ENTITY col.title.label         "Namn">
+<!ENTITY col.tags.label          "Etikettar">
+<!ENTITY col.url.label           "Adresse">
+<!ENTITY col.lastvisit.label     "Sist besøkt">
+<!ENTITY col.visitcount.label    "Tal pål besøk">
+<!ENTITY col.keyword.label       "Nykelord">
+<!ENTITY col.description.label   "Skildring">
+<!ENTITY col.dateadded.label     "Lagt til">
+<!ENTITY col.lastmodified.label  "Sist endra">
 
+<!ENTITY search.label                              "Søk:">
+<!ENTITY search.placeholder                        "Søk i bokmerke">
 
+<!ENTITY search.in.label                           "Søk i:">
+<!ENTITY search.scopeFolder.label                  "Vald mappe">
+<!ENTITY search.scopeFolder.accesskey              "V">
 <!ENTITY search.scopeBookmarks.label               "Bokmerke">
 <!ENTITY search.scopeBookmarks.accesskey           "B">
+<!ENTITY saveSearch.label                          "Lagre">
+<!ENTITY saveSearch.accesskey                      "L">
 
+<!ENTITY cmd.find.key  "f">
 
+<!ENTITY backButton.tooltip  "Gå tilbake">
+<!ENTITY forwardButton.tooltip  "Gå fram">
 
+<!ENTITY detailsPane.more.label "Fleire">
+<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.fewer.label "Færre">
+<!ENTITY detailsPane.fewer.accesskey "e">
+<!ENTITY detailsPane.selectAnItemText.description "Vel eit element for å vise eller redigere eigenskapane til det">
 
 <!ENTITY editBookmark.done.label "Fullfør">
 <!ENTITY editBookmark.cancel.label "Avbryt">
+<!ENTITY editBookmark.removeBookmark.accessKey "S">

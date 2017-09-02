@@ -2,19 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY errorConsole.title   "Feilmeldingar">
 
+<!ENTITY errFile.label        "Kjeldefil:">
 <!ENTITY errColumn.label      "Kolonne:">
 
 <!ENTITY all.label            "Alle">
 <!ENTITY all.accesskey        "A">
+<!ENTITY errors.label         "Feil">
+<!ENTITY errors.accesskey     "e">
 <!ENTITY warnings.label       "Åtvaringar">
+<!ENTITY warnings.accesskey   "d">
 <!ENTITY messages.label       "Meldingar">
 <!ENTITY messages.accesskey   "M">
 <!ENTITY clear.label          "Tøm">
+<!ENTITY clear.accesskey      "m">
 <!ENTITY codeEval.label       "Kode:">
+<!ENTITY codeEval.accesskey   "o">
 <!ENTITY evaluate.label       "Evaluer">
+<!ENTITY evaluate.accesskey   "u">
 <!ENTITY filter2.label        "Filter:">
+<!ENTITY filter2.accesskey    "i">
 
+<!ENTITY copyCmd.label         "Kopier">
+<!ENTITY copyCmd.accesskey     "K">
+<!ENTITY copyCmd.commandkey    "C">
 
 <!ENTITY menuBar.tooltip       "Menylinje">
 <!ENTITY toolbarsCmd.label     "Vis/Gøym">
