@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Включить удалённую отладку">
 <!ENTITY options.enableRemote.tooltip2  "Включение этой опции позволит использовать инструменты разработчика для отладки удалённого экземпляра, такого как Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Включить отладку worker (в разработке)">
-<!ENTITY options.enableWorkers.tooltip  "Включение этой опции позволит использовать инструменты разработчика для отладки workers">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Проигрывать звук затвора камеры">
 <!ENTITY options.screenshot.audio.tooltip    "Проигрывать звук щелчка затвора камеры при снятии скриншота">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Общие настройки">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Сеть">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Включить непрерывные логи">
-<!ENTITY options.enablePersistentLogs.tooltip  "Если вы включите эту опцию, то Веб-консоль и Сетевой монитор не будет очищать вывод при каждом переходе на новую страницу">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Включить непрерывные логи">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Если вы включите эту опцию, то Сетевой монитор не будет очищать вывод при каждом переходе на новую страницу">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
