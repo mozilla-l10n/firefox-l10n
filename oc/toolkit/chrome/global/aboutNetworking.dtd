@@ -6,7 +6,7 @@
 <!ENTITY aboutNetworking.warning               "Aquesta foncionalitat es fòrça experimentala. D'utilizar pas que jos la susvelhança d'un adulte.">
 <!ENTITY aboutNetworking.showNextTime          "Afichar aqueste avertiment lo còp que ven">
 <!ENTITY aboutNetworking.ok                    "D'acòrdi">
-
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Refrescar automaticament cada 3 segondas">
 <!ENTITY aboutNetworking.hostname              "Nom d'òste">
 <!ENTITY aboutNetworking.port                  "Pòrt">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Actiu">
 <!ENTITY aboutNetworking.idle                  "Inactiu">
@@ -29,20 +29,10 @@
 <!ENTITY aboutNetworking.messagesReceived      "Messatges recebuts">
 <!ENTITY aboutNetworking.bytesSent             "Octets mandats">
 <!ENTITY aboutNetworking.bytesReceived         "Octets recebuts">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logging               "Jornal">
+<!ENTITY aboutNetworking.setLogFile            "Definir un fichièr pel jornal">
+<!ENTITY aboutNetworking.setLogModules         "Definir de modul d'enregistrament pel jornal">
+<!ENTITY aboutNetworking.dnsLookup             "Recèrca DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolucion">
+<!ENTITY aboutNetworking.dnsDomain             "Domeni">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "Adreças IP">

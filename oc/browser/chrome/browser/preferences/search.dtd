@@ -4,13 +4,18 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de cerca per defaut">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Causir lo motor de recèrca per defaut per d'utilizar dins las barras d'adreça e de recèrca.">
 
 <!ENTITY provideSearchSuggestions.label        "Afichar de suggestions de recèrca">
 <!ENTITY provideSearchSuggestions.accesskey    "A">
 
+<!ENTITY showURLBarSuggestions2.label           "Afichar las suggestions dins los resultats de la barra d'adreça">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Recercar las suggestions que son pas afichadas dins los resultats de la barra d'adreça qu'avètz configurat &brandShortName; per pas jamai servar l'istoric.">
 
 <!ENTITY oneClickSearchEngines.label           "Motor de recèrca en un clic">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Causir de motors de recerca altenatius qu'apareisson jos las barras d'adreça e de recèrca quand sètz a picar un mot.">
 
 <!ENTITY engineNameColumn.label                "Motor de recèrca">
 <!ENTITY engineKeywordColumn.label             "Mot clau">
