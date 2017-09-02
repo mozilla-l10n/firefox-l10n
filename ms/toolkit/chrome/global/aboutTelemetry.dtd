@@ -14,7 +14,13 @@ Mencari maklumat selanjutnya?
 <a>Dokumentasi Data Firefox</a> mengandungkan panduan perihal cara menggunakan alatan data kami.
 ">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Dokumentasi klien Telemetri Firefox</a> menjelaskan takrif konsep, dokumentasi API dan rujukan data.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Papan pemuka Telemetri</a> membolehkan anda menggambarkan data yang diterima oleh Mozilla melalui Telemetri.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping semasa">
 
