@@ -11,7 +11,9 @@
 <!ENTITY reloadTab.label "Ricarica scheda">
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
-<!ENTITY reloadAllTabs.accesskey "u">
+<!ENTITY reloadAllTabs.accesskey "i">
+<!ENTITY duplicateTab.label "Duplica scheda">
+<!ENTITY duplicateTab.accesskey "u">
 <!ENTITY closeTabsToTheEnd.label "Chiudi le schede a destra">
 <!ENTITY closeTabsToTheEnd.accesskey "d">
 <!ENTITY closeOtherTabs.label "Chiudi le altre schede">
