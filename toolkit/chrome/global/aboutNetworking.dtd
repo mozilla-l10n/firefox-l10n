@@ -36,3 +36,11 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolucion">
 <!ENTITY aboutNetworking.dnsDomain             "Domeni">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "Adreças IP">
+<!ENTITY aboutNetworking.rcwn                  "Estatisticas RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Estatuts RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombre de victòrias de l'escondedor">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Nombre de victòrias del ret">
+<!ENTITY aboutNetworking.rcwnOperation         "Operacion de l'escondedor">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Dobrir">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Comptador d'escondedor lent">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Comptador d'escondedor non lent">
