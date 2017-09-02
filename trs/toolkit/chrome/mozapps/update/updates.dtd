@@ -37,14 +37,31 @@
 <!ENTITY  downloadPage.title              "Hìaj nanïnj &brandShortName;">
 <!ENTITY  downloading.intro               "hìaj nanïnj sa nahuin nakà…">
 <!ENTITY  connecting.label                "conexion ngà servidor nagi'iaj nakà…">
+<!ENTITY  verificationFailedText.label    "&brandShortName; na’ue gahuin nùkua ni’ia si ga hue’ê sa 
+                                           nahuin nakà nadunïnjt
+                                           yi’ì dan akuan’ nïn nan ni nadunin ‘ngo nej sa ga’ue nakaj dugui’ ngàj.">
 
+<!ENTITY  viewDetails.tooltip             "Ni'iaj nej sa nikaj sa nahuin nakà nan">
 
+<!ENTITY  details.link                    "A'ngô nej sa nika">
 
+<!ENTITY  error.title                     "Gire' sun nagi'iaj nakaj">
 
+<!ENTITY  error.label                     "Nu ga sa rañun’unj nga nana’ui’ ni nadunïnjt 
+                                           nagi’iaj nakâ. &brandShortName; Nu ga’ue nahuin nàkaj dadin:">
                                            
+<!ENTITY  errorManual.label               "Ga’ue nagi’iaj nakàt &brandShortName; man’ânt si gatut riña 
+                                           ni nadunïnjt versión gahuin nakà doj:">
                                            
+<!ENTITY  errorpatching.intro             "Nu ga’ue gatu sa nahuin nakà nadunïnj da’ajt nan. 
+                                           &brandShortName; Nakàj ñûn dukuân nakàa ni nadunïnj da’ hua ngèj.">
 
+<!ENTITY  genericBackgroundError.label    "&brandShortName; na’ue gini’in sisi hua ‘ngo sa nahuin nakàa akuan’ nïn. Gi’iaj ‘ngo sunuj
+                                           ni’iajt sisi nga nun sa nahuin nakà rukù nïn’ïn ‘iát &brandShortName; si’iaj:">
 
+<!ENTITY  finishedPage.title              "Ngà hua yugui da' na'nïnjt man">
+<!ENTITY  finishedPage.text               "Sa hua nahuin nakà ni gayi’ì man gi’iaj sun ma a’ngô ñû &brandShortName; gayi’ì. Sò’ 
+                                           ga’ue dunayi’ì ñûnt &brandShortName; hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man.">
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
