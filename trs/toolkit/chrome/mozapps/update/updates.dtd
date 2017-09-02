@@ -63,5 +63,17 @@
 <!ENTITY  finishedPage.text               "Sa hua nahuin nakà ni gayi’ì man gi’iaj sun ma a’ngô ñû &brandShortName; gayi’ì. Sò’ 
                                            ga’ue dunayi’ì ñûnt &brandShortName; hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man.">
 
+<!ENTITY  finishedBackgroundPage.text     "‘Ngo sa nahuin nakà dugumîn ni nitaj si danïn’ guendâ &brandShortName; gisîj
+                                           nanïnj man ni nga hua yugui man da’ ga’nïnjt man gi’iaj sunj.">
+<!ENTITY  finishedBackground.name         "Nagi'iaj nakà:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Sa nahuin naka nan ni gayi’ì gi’iaj sunj a’ngô ñûn &brandShortName; gayi’ì. Sò’
+                                           ga’ue dunayi’ìt man &brandShortName; akuan’ nïn, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man.">
+<!ENTITY  finishedBackground.moreElevated "Sa nahuin naka nan ni ni’ñan si nuguàn administrador. Sa nahuin nakà nan ni
+                                           gayi’ìj gi’iaj sunj a’ngô ñûn &brandShortName; gayi’ì. Ga’ue dunayi’ìt
+                                           &brandShortName; hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man, asi si yakaj guendat
+                                           sa nahuin nakà nan.">
 
+<!ENTITY  update.details.label            "Doj sa huāa">
+<!ENTITY  update.installedOn.label        "Ngà nanunj:">
+<!ENTITY  update.status.label             "Dàj hua riñaj:">
