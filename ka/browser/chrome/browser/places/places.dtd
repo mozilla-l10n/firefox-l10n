@@ -18,7 +18,7 @@
 <!ENTITY views.tooltip                  "შეცვალეთ ხედი">
 <!ENTITY view.columns.label             "სვეტების ჩვენება">
 <!ENTITY view.columns.accesskey         "ს">
-<!ENTITY view.sort.label                "დახარისხდება">
+<!ENTITY view.sort.label                "დახარისხება">
 <!ENTITY view.sort.accesskey            "რ">
 <!ENTITY view.unsorted.label            "დაუხარისხებლად">
 <!ENTITY view.unsorted.accesskey        "ლ">

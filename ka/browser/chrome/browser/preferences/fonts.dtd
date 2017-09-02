@@ -9,9 +9,9 @@
 
 <!ENTITY  size2.label                             "ზომა">
 <!ENTITY  sizeProportional.accesskey              "ზ">
-<!ENTITY  sizeMonospace.accesskey                 "გ">
+<!ENTITY  sizeMonospace.accesskey                 "ო">
 
-<!ENTITY  proportional2.label                     "ფარდობა">
+<!ENTITY  proportional2.label                     "იერსახე">
 <!ENTITY  proportional2.accesskey                 "ფ">
 
 <!ENTITY  serif2.label                            "ნაჭდევებიანი">
