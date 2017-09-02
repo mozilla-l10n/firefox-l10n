@@ -1,0 +1,27 @@
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+
+
+
+<!ENTITY  formName              "Namn">
+
+<!ENTITY  linkName              "Namn">
+<!ENTITY  linkAddress           "Adresse">
+<!ENTITY  linkAccessKey         "Tilgangstast">
+
+<!ENTITY  mediaSaveAs           "Lagre som…">
+<!ENTITY  mediaPreview          "Førehandsvising:">
+
+
+
+
+
+<!ENTITY  securityView.identity.owner    "Eigar:">
+<!ENTITY  securityView.identity.domain   "Nettstad:">
+
+

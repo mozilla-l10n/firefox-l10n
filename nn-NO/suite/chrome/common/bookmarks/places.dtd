@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY bookmarksManager.width         "700">
+<!ENTITY bookmarksManager.height        "500">
+
+
+<!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.sort.label                "Sorter">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Usortert">
+<!ENTITY view.unsorted.accesskey        "U">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.moveBookmarks.label                  "Flytt…">
+<!ENTITY cmd.moveBookmarks.accesskey              "F">
+
+<!ENTITY col.title.label         "Namn">
+
+
+<!ENTITY search.scopeBookmarks.label               "Bokmerke">
+<!ENTITY search.scopeBookmarks.accesskey           "B">
+
+
+
+
+<!ENTITY editBookmark.done.label "Fullfør">
+<!ENTITY editBookmark.cancel.label "Avbryt">
