@@ -9,5 +9,6 @@
 <!ENTITY     props.value.label              "Innhald:">
 <!ENTITY     props.expires.label            "Går ut:">
 
+<!ENTITY     treehead.status.label          "Status">
 
 

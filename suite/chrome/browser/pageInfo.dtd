@@ -5,19 +5,56 @@
 -->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
+<!ENTITY  copy.label             "Kopier">
+<!ENTITY  selectall.label        "Merk alt">
 
+<!ENTITY  generalTab            "Generelt">
+<!ENTITY  generalURL            "Adresse:">
+<!ENTITY  generalEncoding2      "Tekstkoding:">
+<!ENTITY  generalMetaName       "Namn">
+<!ENTITY  generalMetaContent    "Innhald">
+<!ENTITY  generalSecurityDetails           "Detaljar">
+<!ENTITY  generalSecurityDetails.accesskey "D">
 
+<!ENTITY  formsTab              "Skjema">
+<!ENTITY  formsTab.accesskey    "S">
 <!ENTITY  formName              "Namn">
+<!ENTITY  formEncoding          "Koding:">
+<!ENTITY  formTarget            "Mål">
+<!ENTITY  formFields            "Felt:">
+<!ENTITY  formFName             "Feltnamn">
+<!ENTITY  formType              "Type">
+<!ENTITY  formCValue            "Gjeldande verdi">
 
+<!ENTITY  linksTab              "Lenkjer">
+<!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "Namn">
 <!ENTITY  linkAddress           "Adresse">
 <!ENTITY  linkAccessKey         "Tilgangstast">
 
+<!ENTITY  mediaTab              "Media">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaURL              "Addresse:">
+<!ENTITY  mediaAlt              "Alternativ tekst:">
+<!ENTITY  mediaAltHeader        "Alternativ tekst">
+<!ENTITY  mediaAddress          "Adresse">
+<!ENTITY  mediaType             "Type">
+<!ENTITY  mediaSize             "Storleik">
+<!ENTITY  mediaLongdesc         "Lang skildring:">
+<!ENTITY  mediaBlockImage.accesskey "L">
 <!ENTITY  mediaSaveAs           "Lagre som…">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
 
+<!ENTITY  permTab               "Løyve">
+<!ENTITY  permTab.accesskey     "L">
+<!ENTITY  permUseDefault        "Bruk standard">
+<!ENTITY  permAskAlways         "Spør alltid">
+<!ENTITY  permAllow             "Tillat">
+<!ENTITY  permBlock             "Blokker">
+<!ENTITY  permImage             "Laste inn bilde">
 
 
 

@@ -6,7 +6,7 @@
 
 <!ENTITY caption.label         "Elementeigenskapar">
 <!ENTITY image-sec.label       "Bildeeigenskapar">
-<!ENTITY image-url.label       "Plassering:">
+<!ENTITY image-url.label       "Adresse:">
 <!ENTITY image-desc.label      "Skildring:">
 <!ENTITY image-alt.label       "Alternativ tekst:">
 <!ENTITY image-width.label     "Breidde:">
