@@ -492,6 +492,7 @@
 <!ENTITY activity_stream_highlight_label_bookmarked "Nei segnalibri">
 <!ENTITY activity_stream_highlight_label_visited "Visitato">
 <!ENTITY activity_stream_highlight_label_trending "Di tendenza">
+<!ENTITY activity_stream_highlights_empty "Inizia a navigare e, in questa sezione, verranno visualizzati articoli, video e altre pagine visitate di recente o aggiunte ai segnalibri.">
 <!ENTITY activity_stream_remove "Rimuovi">
 <!ENTITY activity_stream_delete_history "Elimina dalla cronologia">
 <!ENTITY private_tab_panel_title "Navigazione anonima + Protezione antitracciamento">
