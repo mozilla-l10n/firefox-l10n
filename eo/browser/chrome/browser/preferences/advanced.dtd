@@ -141,7 +141,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Tiuj ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "T">
+                                         "K">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Pli da informo">
 <!ENTITY limitContentProcessOption.label "Maksimuma nombro de enhavaj taskoj">

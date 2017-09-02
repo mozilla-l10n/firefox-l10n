@@ -53,7 +53,7 @@
 <!ENTITY  acceptThirdParty2.pre.accesskey "n">
 <!ENTITY  acceptThirdParty.always.label   "Ĉiam">
 <!ENTITY  acceptThirdParty.never.label    "Neniam">
-<!ENTITY  acceptThirdParty.visited.label  "El vizititaj">
+<!ENTITY  acceptThirdParty.visited.label  "El vizititaj retejoj">
 
 <!ENTITY  keepUntil2.label              "Konservi ĝis">
 <!ENTITY  keepUntil2.accesskey          "K">
