@@ -29,8 +29,8 @@
 
 <!ENTITY  clickHere.label                 "ამ განახლების შესახებ დამატებითი ინფორმაციის ნახვა">
 
-<!ENTITY  evangelism.desc                 "მკაცრად რეკომენდებულია,რომ &brandShortName; 
-რაც შეიძლება სწრაფად განაახლოთ.">
+<!ENTITY  evangelism.desc                 "მკაცრად გირჩევთ, რომ განაახლოთ
+                                           &brandShortName; რაც შეიძლება მოკლე დროში.">
 
 <!ENTITY  downloadPage.title              "&brandShortName; იტვირთება">
 <!ENTITY  downloading.intro               "განახლება იტვირთება…">
