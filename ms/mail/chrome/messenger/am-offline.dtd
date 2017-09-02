@@ -44,3 +44,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY allAutosync.label               "Selaras semua mesej lokal tanpa mengira tempoh">
+<!ENTITY allAutosync.accesskey           "r">
+<!ENTITY ageAutosyncBefore.label         "Selaras yang terkini">
+<!ENTITY ageAutosync.accesskey           "y">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Hari">
+<!ENTITY weekAgeInterval.label           "Minggu">
+<!ENTITY monthAgeInterval.label          "Bulan">
+<!ENTITY yearAgeInterval.label           "Tahun">
+<!ENTITY ageAutosyncAfter.label          "">
