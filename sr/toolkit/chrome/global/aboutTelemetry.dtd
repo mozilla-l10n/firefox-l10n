@@ -8,6 +8,15 @@
 Извор података пинга:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Тражите више података?
+">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.">
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Подаци тренутног пинга
 ">
@@ -81,10 +90,6 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Прегледач прекида везу
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Нит губи везу
 ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
