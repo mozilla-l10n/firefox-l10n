@@ -63,14 +63,14 @@
 
 <!ENTITY view.unsorted.label             "Usortert">
 <!ENTITY view.unsorted.accesskey         "U">
-<!ENTITY view.sortAscending.label        "A > Z sorteringsrekkefølge">
+<!ENTITY view.sortAscending.label        "A > Å sorteringsrekkefølge">
 <!ENTITY view.sortAscending.accesskey    "A">
 <!ENTITY view.sortDescending.label       "Å > A sorteringsrekkefølge">
 <!ENTITY view.sortDescending.accesskey   "Å">
 
 <!ENTITY cmd.pause.label                 "Pause">
 <!ENTITY cmd.pause.accesskey             "P">
-<!ENTITY cmd.resume.label                "Fortsatt">
+<!ENTITY cmd.resume.label                "Fortsett">
 <!ENTITY cmd.resume.accesskey            "F">
 <!ENTITY cmd.retry.label                 "Prøv igjen">
 <!ENTITY cmd.retry.accesskey             "P">
