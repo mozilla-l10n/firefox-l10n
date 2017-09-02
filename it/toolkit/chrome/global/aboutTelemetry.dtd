@@ -2,44 +2,40 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
 <!ENTITY aboutTelemetry.pingDataSource "Sorgente ping dati:">
-<!ENTITY aboutTelemetry.moreInformations "Per approfondire:">
-<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentazione Firefox Data</a> include guide sull’utilizzo degli strumenti dedicati alla gestione dei dati.">
-<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentazione del client Firefox Telemetry</a> include definizioni, documentazione relativa alle API e fonti di riferimento per i dati.">
-<!ENTITY aboutTelemetry.telemetryDashboard "Le <a>dashboard di Telemetry</a> permettono di visualizzare i dati ricevuti da Mozilla attraverso la telemetria.">
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
-<!ENTITY aboutTelemetry.raw "JSON non elaborato">
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON">
 <!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
-<!ENTITY aboutTelemetry.showOlderPing "Ping più vecchio &gt;&gt;">
-<!ENTITY aboutTelemetry.archiveWeekHeader "Settimana">
 <!ENTITY aboutTelemetry.archivePingType "Tipo di ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Oggi">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ieri">
 <!ENTITY aboutTelemetry.optionGroupOlder "Più vecchi">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
+<!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
+<!ENTITY aboutTelemetry.moreInformations "Per approfondire:">
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentazione Firefox Data</a> include guide sull’utilizzo degli strumenti dedicati alla gestione dei dati.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentazione del client Firefox Telemetry</a> include definizioni, documentazione relativa alle API e fonti di riferimento per i dati.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Le <a>dashboard di Telemetry</a> permettono di visualizzare i dati ricevuti da Mozilla attraverso la telemetria.">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
 <!ENTITY aboutTelemetry.environmentDataSection "Dati ambiente">
-<!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
-<!ENTITY aboutTelemetry.slowSqlSection "Istruzioni SQL lente">
-<!ENTITY aboutTelemetry.chromeHangsSection "Blocchi del browser">
-<!ENTITY aboutTelemetry.capturedStacksSection "Stack acquisiti">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
 <!ENTITY aboutTelemetry.scalarsSection "Scalari">
 <!ENTITY aboutTelemetry.keyedScalarsSection "Scalari con chiave">
 <!ENTITY aboutTelemetry.histogramsSection "Istogrammi">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Istogrammi con chiave">
 <!ENTITY aboutTelemetry.eventsSection "Eventi">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Misurazioni semplici">
+<!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
+<!ENTITY aboutTelemetry.slowSqlSection "Istruzioni SQL lente">
+<!ENTITY aboutTelemetry.chromeHangsSection "Blocchi del browser">
 <!ENTITY aboutTelemetry.addonDetailsSection "Dettagli comp. aggiuntivo">
+<!ENTITY aboutTelemetry.capturedStacksSection "Stack acquisiti">
 <!ENTITY aboutTelemetry.lateWritesSection "Scritture ritardate">
 <!ENTITY aboutTelemetry.rawPayloadSection "Payload non elaborato">
-<!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
+<!ENTITY aboutTelemetry.raw "JSON non elaborato">
 <!ENTITY aboutTelemetry.fullSqlWarning "ATTENZIONE: il controllo delle istruzioni SQL lente è attivo. Potrebbero essere visualizzate delle stringhe SQL complete ma queste informazioni non verranno trasmesse dalla telemetria.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recupera i nomi delle funzioni per gli stack">
 <!ENTITY aboutTelemetry.hideStackSymbols "Visualizza dati degli stack non elaborati">
-<!ENTITY aboutTelemetry.filterText "Filtra (stringhe o espressione regolare)">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
