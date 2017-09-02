@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Λογαριασμοί">
 <!ENTITY subscribeImapFolders.label   "Διαχείριση συνδρομών φακέλων">
 <!ENTITY settingsLink.label           "Προβολή ρυθμίσεων λογαριασμού">
-<!ENTITY newAcctLink.label            "Δημιουργία νέου  λογαριασμού">
-<!ENTITY newAcct.label                "Δημιουργία νέου λογαριασμού:">
+<!ENTITY setupNewAcct.label           "Ρύθμιση λογαριασμού:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Ειδικές λειτουργίες">
 <!ENTITY searchMsgsLink.label         "Αναζήτηση μηνυμάτων">
