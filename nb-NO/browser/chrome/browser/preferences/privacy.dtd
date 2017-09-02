@@ -114,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Innstillinger …">
 <!ENTITY  browserContainersSettings.accesskey    "I">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Hindre tilgangstjenester tilgang til nettleseren din">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Les mer">

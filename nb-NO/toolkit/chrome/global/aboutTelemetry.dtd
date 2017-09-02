@@ -6,6 +6,13 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Pingdata-kilde:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Ser du etter mer informasjon?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Gjeldende ping-data">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arkiverte ping-data">
@@ -53,8 +60,6 @@ Eldre
 <!ENTITY aboutTelemetry.slowSqlSection "  Trege SQL-uttrykk">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Nettleserheng">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Trådheng">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  oppfanget stakker">
 
