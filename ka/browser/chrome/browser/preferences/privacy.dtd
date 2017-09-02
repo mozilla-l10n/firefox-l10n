@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader2.pre.accesskey     "ბ">
 <!ENTITY  historyHeader.remember.label     "დაიმახსოვრებს ისტორიას">
 <!ENTITY  historyHeader.dontremember.label "არასოდეს დაიმახსოვრებს ისტორიას">
-<!ENTITY  historyHeader.custom.label       "ისარგებლებს თქვენი მითითებებით">
+<!ENTITY  historyHeader.custom.label       "ისარგებლებს მონიშნული მითითებებით">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; დაიმახსოვრებს დათვალიერებული გვერდების, ჩამოტვირთვების, ველების და ძიების ისტორიას, ასევე შეინახავს ნაჭდევებს მონახულებული საიტებიდან.">

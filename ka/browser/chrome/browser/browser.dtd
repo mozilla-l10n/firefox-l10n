@@ -834,7 +834,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.toolbars2 "ხელსაწყოთა ზოლები">
 <!ENTITY customizeMode.lwthemes "თემები">
 <!ENTITY customizeMode.lwthemes.myThemes "ჩემი თემები">
-<!ENTITY customizeMode.lwthemes.recommended "რეკომენდებული">
+<!ENTITY customizeMode.lwthemes.recommended "სასურველია">
 <!ENTITY customizeMode.lwthemes.menuManage "მართვა">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმების მოძიება">

@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "ზოგადი">
 
-<!ENTITY useCursorNavigation.label       "გვერდებს შიგნით მოძრაობისას ყოველთვის კურსორის კლავიშების გამოყენება">
+<!ENTITY useCursorNavigation.label       "გვერდებზე გადაადგილებისას, ყოველთვის მაჩვენებლის ღილაკების გამოყენება">
 <!ENTITY useCursorNavigation.accesskey   "რ">
 <!ENTITY searchOnStartTyping.label       "ტექსტის ძიება აკრეფის დაწყებისთანავე">
 <!ENTITY searchOnStartTyping.accesskey   "ტ">
@@ -45,7 +45,7 @@ available. -->
 
 <!ENTITY networkProxy.label              "ქსელის პროქსი">
 
-<!ENTITY connectionDesc.label            "მითითება თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
+<!ENTITY connectionDesc.label            "მიუთითეთ, თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "პ">
 
@@ -95,11 +95,11 @@ available. -->
 <!ENTITY updateApplication.version.pre   "ვერსია ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "ნების დართვა &brandShortName;-ისთვის">
-<!ENTITY updateAuto3.label               "ავტომატურად დააყენოს განახლებები (რეკომენდებულია)">
+<!ENTITY updateAuto3.label               "ავტომატურად დააყენოს განახლებები (სასურველია)">
 <!ENTITY updateAuto3.accesskey           "ტ">
 <!ENTITY updateCheckChoose2.label        "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დაყენდეს თუ არა">
 <!ENTITY updateCheckChoose2.accesskey    "ე">
-<!ENTITY updateManual2.label             "არასდროს შემოწმდეს განახლებებზე (არარეკომენდებულია)">
+<!ENTITY updateManual2.label             "არასდროს შემოწმდეს განახლებებზე (არაა სასურველი)">
 <!ENTITY updateManual2.accesskey         "ა">
 
 <!ENTITY updateHistory2.label            "განახლებების ისტორიის ჩვენება…">
@@ -137,7 +137,7 @@ available. -->
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings2.label
-                                         "გამოიყენეთ წარმადობის რეკომენდებული პარამეტრები">
+                                         "გამოიყენეთ წარმადობის სასურველი პარამეტრები">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "ეს პარამეტრები მორგებულია თქვენი კომპიუტერის აპარატურასა და საოპერაციო სისტემაზე.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
