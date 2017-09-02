@@ -175,7 +175,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Није пронађен ни један повезан уређај са Firefox налогом">
+<!ENTITY overlay_no_synced_devices "Није пронађен ниједан повезан уређај са Firefox налогом">
 
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary2 "Додавање и приказ предлога">
