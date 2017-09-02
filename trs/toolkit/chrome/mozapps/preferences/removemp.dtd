@@ -5,4 +5,6 @@
 <!ENTITY removePassword.title              "Nadure’ da’nga’ huì a’nïn’ïn">
 <!ENTITY removeInfo.label                  "Da’uît gachrūnt da’nga’ huì rajsunt akuan’ nïn da’ ga’ue gan’ānjt ne’ ñaan:">
 <!ENTITY removeWarning1.label              "Da’nga’ huì a’nïn’ nikājt dan nī rugûñun’un da’ dugumînt nej nuguan’ huā ‘iát riña huājt.">
+<!ENTITY removeWarning2.label              "Sisī guxūnt da’nga’ huì arajsunt, nī nuguan’ màn ‘iát nī se gimà huìj sisī huā ahí si agâ’t.">
+<!ENTITY setPassword.oldPassword.label     "Da'nga' huì nikājt akuan' nïn:">
 
