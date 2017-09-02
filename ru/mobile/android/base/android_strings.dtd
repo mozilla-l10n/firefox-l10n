@@ -833,7 +833,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Топ сайтов">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Рекомендовано &brandPocket;">
-<!ENTITY activity_stream_highlights "Главное">
+<!ENTITY activity_stream_highlights "Избранное">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -850,7 +850,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Удалить">
 <!ENTITY activity_stream_delete_history "Удалить из истории">
 
-<!ENTITY activity_stream_welcome_title "Добро пожаловать в Самое интересное">
+<!ENTITY activity_stream_welcome_title "Добро пожаловать в Избранное">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; теперь отображает самое интересное из того, что вы нашли в Интернете, так что вы сможете быстро вернуться к интересным статьям, видео, закладкам и другим страницам.">
 <!ENTITY activity_stream_welcome_dismiss "Убрать">
 
