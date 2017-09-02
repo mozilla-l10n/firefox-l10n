@@ -24,7 +24,7 @@
 <!ENTITY report.disabled                                     "崩溃报告已被禁用。">
 <!ENTITY report.failed                                       "发送失败。">
 <!ENTITY report.unavailable                                  "没有可用的报告。">
-<!ENTITY report.comment                                      "加上附注（附注将公开可见）">
+<!ENTITY report.comment                                      "附上说明（说明公开可见）">
 <!ENTITY report.pageURL                                      "一并提交页面网址">
 
 <!ENTITY plugin.file                                         "文件">
