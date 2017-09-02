@@ -85,3 +85,8 @@
 <!ENTITY browseNewsrc.accesskey "i">
 
 <!ENTITY accountTitle.label "Tetapan Akaun">
+<!ENTITY accountSettingsDesc.label "Yang berikut adalah akaun istimewa.  Tiada identiti  yang dikaitankan dengannya.">
+<!ENTITY storeType.label "Jenis Storan Mesej:">
+<!ENTITY storeType.accesskey "J">
+<!ENTITY mboxStore2.label "Fail setiap folder (mbox)">
+<!ENTITY maildirStore.label "Fail setiap mesej (maildir)">
