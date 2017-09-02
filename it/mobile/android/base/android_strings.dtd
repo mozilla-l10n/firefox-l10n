@@ -255,6 +255,9 @@
 <!ENTITY pref_dialog_set_default "Imposta come predefinito">
 <!ENTITY pref_dialog_default "Predefinito">
 <!ENTITY pref_dialog_remove "Rimuovi">
+<!ENTITY pref_dialog_activitystream_header_content "Contenuti aggiuntivi">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Segnalibri recenti">
+<!ENTITY pref_dialog_activitystream_visited "Visitati">
 <!ENTITY pref_search_last_toast "Non è possibile rimuovere o disattivare l’ultimo motore di ricerca.">
 <!ENTITY pref_panels_show "Mostra">
 <!ENTITY pref_panels_hide "Nascondi">
