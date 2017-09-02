@@ -5,13 +5,14 @@
 <!ENTITY window.title                 "Nemedennoù">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "Lec'hienn">
 <!ENTITY treehead.status.label        "Stad">
-
-
-
-
-
-
+<!ENTITY removepermission2.label      "Lemel kuit al lec'hienn">
+<!ENTITY removepermission2.accesskey  "L">
+<!ENTITY removeallpermissions2.label  "Lemel kuit an holl lec'hiennoù">
+<!ENTITY removeallpermissions2.accesskey "h">
+<!ENTITY address2.label               "Chomlec'h al lec'hienn">
+<!ENTITY address2.accesskey           "C">
 <!ENTITY block.label                  "Herzel">
 <!ENTITY block.accesskey              "H">
 <!ENTITY session.label                "Aotren evit an estez">
@@ -25,3 +26,4 @@
 <!ENTITY button.ok.label              "Enrollañ ar c'hemmoù">
 <!ENTITY button.ok.accesskey          "E">
 
+<!ENTITY searchbox.placeholder        "Klask lec'hiennoù">

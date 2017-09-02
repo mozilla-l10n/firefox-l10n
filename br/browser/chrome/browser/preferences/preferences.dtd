@@ -13,14 +13,19 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 62em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 57em; min-height: 39.5em;">
 
+<!ENTITY  paneSearchResults.title       "Disoc'hoù ar c'hlask">
 <!ENTITY  paneGeneral.title             "Hollek">
 <!ENTITY  paneSearch.title              "Klask">
-
-
+<!ENTITY  paneFilesApplications.title   "Restroù hag arloadoù">
+<!ENTITY  panePrivacySecurity.title     "Buhez prevez ha diogelroez">
 <!ENTITY  paneContainers.title          "Ivinelloù endalc'her">
+<!ENTITY  paneUpdates.title             "Hizivadennoù">
 
-
-
+<!ENTITY  languageAndAppearance.label   "Yezh ha neuz">
+<!ENTITY  filesAndApplications.label    "Restroù hag arloadoù">
+<!ENTITY  browserPrivacy.label          "Prevezted ar merdeer">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Kont Firefox">
 
+<!ENTITY  helpButton2.label        "Skor &brandShortName;">
