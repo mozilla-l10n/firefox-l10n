@@ -6,6 +6,11 @@
 <!ENTITY securityTab.label "Keselamatan">
 <!ENTITY securityHeading.label "Untuk menghantar dan menerima mesej bertanda tangan atau dienkripsi, anda perlu menetapkan kedua-dua sijil bertandatangan digital dan sijil dienkripsi.">
 <!ENTITY encryptionGroupTitle.label "Enkripsi">
+<!ENTITY encryptionChoiceLabel.label "Tetapan enkripsi piawai semasa menghantar mesej:">
+<!ENTITY neverEncrypt.label "Jangan sekali-kali (jangan guna enkripsi)">
+<!ENTITY neverEncrypt.accesskey "J">
+<!ENTITY alwaysEncryptMessage.label "Dikehendaki (tidak boleh menghantar mesej kecuali semua penerima ada sijil)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
 
 
 <!-- Strings for the cert picker dialog -->
