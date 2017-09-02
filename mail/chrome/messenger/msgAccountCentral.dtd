@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Учётные записи">
 <!ENTITY subscribeImapFolders.label   "Управление подписками на папки">
 <!ENTITY settingsLink.label           "Просмотр параметров этой учётной записи">
-<!ENTITY newAcctLink.label            "Создать учётную запись">
-<!ENTITY newAcct.label                "Создать учётную запись:">
+<!ENTITY setupNewAcct.label           "Настроить учётную запись:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Дополнительные свойства">
 <!ENTITY searchMsgsLink.label         "Поиск сообщений…">
