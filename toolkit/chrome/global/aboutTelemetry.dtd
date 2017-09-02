@@ -8,6 +8,13 @@
 Ping-datan lähde:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Etsitkö lisätietoa?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Tämänhetkinen ping-data
 ">
