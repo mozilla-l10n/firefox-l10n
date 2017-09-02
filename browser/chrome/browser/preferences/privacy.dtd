@@ -113,3 +113,5 @@
 <!ENTITY  browserContainersEnabled.accesskey    "ν">
 <!ENTITY  browserContainersSettings.label        "Ρυθμίσεις…">
 <!ENTITY  browserContainersSettings.accesskey    "ι">
+
+<!ENTITY  a11yPrivacy.learnmore.label    "Μάθετε περισσότερα">

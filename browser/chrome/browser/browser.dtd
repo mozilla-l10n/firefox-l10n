@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "δ">
 <!ENTITY  sendLinkToDevice.label             "Αποστολή συνδέσμου σε συσκευή">
 <!ENTITY  sendLinkToDevice.accesskey         "μ">
+<!ENTITY  sendToDeviceFeedback.label         "Απεστάλη!">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
@@ -227,6 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Σελιδοδείκτες">
+<!ENTITY bookmarksMenuButton2.label         "Μενού σελιδοδεικτών">
 <!ENTITY bookmarksMenuButton.other.label    "Άλλοι σελιδοδείκτες">
 <!ENTITY bookmarksMenuButton.mobile.label   "Σελιδοδείκτες κινητού">
 <!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
@@ -547,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
 <!ENTITY copyURLCmd.label             "Αντιγραφή URL">
+<!ENTITY copyURLFeedback.label        "Αντιγράφτηκε!">
 <!ENTITY emailPageCmd.label           "Αποστολή συνδέσμου…">
 <!ENTITY emailPageCmd.accesskey       "λ">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
