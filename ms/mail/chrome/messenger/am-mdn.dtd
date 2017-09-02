@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pane.title                   "Resit Pemberitahu Serahan">
+<!ENTITY useGlobalPrefs.label         "Guna keutamaan resit pemberitahu serahan global untuk akaun ini">
+<!ENTITY useGlobalPrefs.accesskey     "G">
+<!ENTITY globalReceipts.label         "Keutamaan Global…">
+<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY useCustomPrefs.label         "Sesuaikan resit pemberitahu serahan untuk akaun ini">
+<!ENTITY useCustomPrefs.accesskey     "S">
+<!ENTITY requestReceipt.label         "Apabila menghantar mesej, sentiasa minta resit pemberitahu serahan">
+<!ENTITY requestReceipt.accesskey     "A">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
