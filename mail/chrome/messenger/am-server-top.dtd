@@ -35,7 +35,29 @@
 <!ENTITY authMethod.accesskey "h">
 <!ENTITY leaveOnServer.label "Tinggalkan mesej pada pelayan">
 <!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Ambil pengepala sahaja">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "Untuk yang paling">
+<!ENTITY deleteByAgeFromServer.accesskey "u">
+<!ENTITY daysEnd.label "hari">
+<!ENTITY deleteOnServer2.label "Sehingga saya buang">
+<!ENTITY deleteOnServer2.accesskey "b">
+<!ENTITY downloadOnBiff.label "Muat turun mesej baru secara automatik">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY username.label "Nama Log masuk Anda">
+<!ENTITY deleteMessagePrefix.label "Apabila saya buang mesej:">
+<!ENTITY modelMoveToTrash.label "Pindahkan ke dalam folder ini:">
+<!ENTITY modelMoveToTrash.accesskey "h">
+<!ENTITY modelMarkDeleted.label "Hanya tandakan sebagai dibuang">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Buang serta-merta">
+<!ENTITY modelDeleteImmediately.accesskey "s">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY expungeOnExit.label "Hapus (&quot;Buangan&quot;) Peti masuk apabila Keluar">
+<!ENTITY expungeOnExit.accesskey "B">
+<!ENTITY emptyTrashOnExit.label "Buang Sampah apabila Keluar">
+<!ENTITY emptyTrashOnExit.accesskey "u">
+<!ENTITY loginAtStartup.label "Semak mesej baru pada permulaan">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
