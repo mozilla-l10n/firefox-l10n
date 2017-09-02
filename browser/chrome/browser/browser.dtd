@@ -23,11 +23,15 @@
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Alle tabbladen vernieuwen">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Tabblad dupliceren">
+<!ENTITY  duplicateTab.accesskey             "d">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tabbladen aan de rechterkant sluiten">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.accesskey        "r">
 <!ENTITY  closeOtherTabs.label               "Overige tabbladen sluiten">
 <!ENTITY  closeOtherTabs.accesskey           "e">
 
@@ -41,11 +45,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Tabblad losmaken">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Tabblad naar apparaat verzenden">
-<!ENTITY  sendTabToDevice.accesskey          "p">
+<!ENTITY  sendTabToDevice.accesskey          "z">
 <!ENTITY  sendPageToDevice.label             "Pagina naar apparaat verzenden">
-<!ENTITY  sendPageToDevice.accesskey         "p">
+<!ENTITY  sendPageToDevice.accesskey         "z">
 <!ENTITY  sendLinkToDevice.label             "Koppeling naar apparaat verzenden">
-<!ENTITY  sendLinkToDevice.accesskey         "p">
+<!ENTITY  sendLinkToDevice.accesskey         "z">
 <!ENTITY  sendToDeviceFeedback.label         "Verzonden!">
 <!ENTITY  moveToNewWindow.label              "Verplaatsen naar nieuw venster">
 <!ENTITY  moveToNewWindow.accesskey          "w">
