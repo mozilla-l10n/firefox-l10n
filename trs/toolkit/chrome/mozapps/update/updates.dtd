@@ -15,10 +15,28 @@
                                            &brandShortName; Daj natsij man sisi hua sa nahuin nakà.">
 
 <!ENTITY  manualUpdate.title              "Na'ue nahuin nakà man">
+<!ENTITY  manualUpdate.desc               "Huā ‘ngō sa dugumîn sò’ ga’ue nahuin nakà nī gā hue’ê gachē nunt, sisī
+                                           Ga’nïnj nuguan’an gan’an riña
+                                           si administrador sistema, si nitaj ni ni’iaj ñûn ngà ‘ngo kuendâ nikaj permiso guendâ
+                                           ga'ue naduninjt sofware riña si agâ't.">
+<!ENTITY  manualUpdate.space.desc         "Huā ‘ngō sa dugumîn sò’ ga’ue nahuin nakà nī gā hue’ê gachē nunt, sani nagi'iaj
+                      nitaj si hua ni'nïnj nìko da' ginun man.">
+<!ENTITY  manualUpdateGetMsg.label        "Yitïnj girì’t versión nakà hua riña &brandShortName; hiuj:">
 
+<!ENTITY  unsupported.title               "Se sa aran' ngà sistema huin">
+<!ENTITY  unsupported.label               "Si &brandShortName; gachîn diu nunj, sani versión rukù nïn' dan ni se
+                                            si gunukuj si sistema si agâ't, yakaj da'nga' ñû.
+                                           se guruguì' ñûn nuguan' nan ni'iajt, sani ga'ue">
+<!ENTITY  unsupportedLink.label           "Gahuin chrūn doj">
 
+<!ENTITY  clickHere.label                 "Ni'iaj doj nuguan' hua rayi'î sa nahuin nakà nan">
 
+<!ENTITY  evangelism.desc                 "Sa gachìnj ni’iaj ñûnj huin sisi ga’nïnj sa 
+                                           nahuin nakà guendà &brandShortName; nda ra’ñànj chre.">
 
+<!ENTITY  downloadPage.title              "Hìaj nanïnj &brandShortName;">
+<!ENTITY  downloading.intro               "hìaj nanïnj sa nahuin nakà…">
+<!ENTITY  connecting.label                "conexion ngà servidor nagi'iaj nakà…">
 
 
 
