@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY menuBar.tooltip                 "Menylinje">
+<!ENTITY searchBar.tooltip               "Søkjelinje">
+
+<!ENTITY search.placeholder              "Søk i nedlastingar">
+<!ENTITY search.label                    "Søk i nedlastingar">
+<!ENTITY search.accesskey                "S">
+
+
+<!ENTITY col.name.label                  "Namn">
+<!ENTITY col.name.accesskey              "N">
+<!ENTITY col.name.tooltip                "Filnamn">
+<!ENTITY col.status.label                "Status">
+<!ENTITY col.status.accesskey            "S">
+<!ENTITY col.status.tooltip              "Status">
+<!ENTITY col.actionStop.label            "Avbryt/fjern">
+<!ENTITY col.actionStop.accesskey        "A">
+<!ENTITY col.progress.label              "Framdrift">
+<!ENTITY col.progress.accesskey          "F">
+<!ENTITY col.progress.tooltip            "Framdrift">
+<!ENTITY col.transferrate.tooltip        "Fart">
+<!ENTITY col.source.label                "Kjelde">
+
+
+
