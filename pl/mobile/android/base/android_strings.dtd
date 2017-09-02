@@ -609,10 +609,6 @@
 <!ENTITY activity_stream_remove "Usuń">
 <!ENTITY activity_stream_delete_history "Usuń z historii">
 
-<!ENTITY activity_stream_welcome_title "Witaj na liście wyróżnień">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; zawiera teraz listę rzeczy odkrytych w Internecie, aby zawsze można było wrócić do ciekawych artykułów, filmów, zakładek i innych stron.">
-<!ENTITY activity_stream_welcome_dismiss "Zamknij">
-
 <!ENTITY private_tab_panel_title "Tryb prywatny i ochrona przed śledzeniem">
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje części stron, które mogą śledzić aktywność użytkownika.">
 <!ENTITY private_tab_panel_description2 "Historia nie będzie zachowywana, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
