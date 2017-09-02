@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Уключыць аддаленую адладку">
 <!ENTITY options.enableRemote.tooltip2  "Калі ўключана, дазваляе прыладам распрацоўшчыка адладжваць аддаленыя экзэмпляры, такія як Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Уключыць адладку воркераў (у распрацоўцы)">
-<!ENTITY options.enableWorkers.tooltip  "Калі ўключана, дазваляе прыладам распрацоўшчыка адладжваць воркеры">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Прайграваць гук затвора камеры">
 <!ENTITY options.screenshot.audio.tooltip    "Уключае гук затвора камеры, калі робіцца здымак экрана">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Агульныя налады">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Сетка">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Уключыць пастаянныя журналы">
-<!ENTITY options.enablePersistentLogs.tooltip  "Калі ўключана, кансоль сеціва і манітор сеткі не будуць ачышчацца кожны раз, калі вы пераходзіце да новай старонкі">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Уключыць пастаяннае вядзенне журнала">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Калі ўключана, манітор сеткі не будзе ачышчацца кожны раз, калі вы пераходзіце да новай старонкі">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
