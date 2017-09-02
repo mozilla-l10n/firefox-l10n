@@ -46,3 +46,6 @@
 <!ENTITY cmd.remove.label                "Fjern frå lista">
 <!ENTITY cmd.remove.accesskey            "F">
 <!ENTITY cmd.open.label                  "Opne">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.properties.label            "Eigenskapar…">
+<!ENTITY cmd.properties.accesskey        "E">
