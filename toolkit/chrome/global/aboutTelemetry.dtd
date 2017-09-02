@@ -8,6 +8,22 @@
 Источник данных пинга:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Ищете больше информации?
+">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Документация по данным Firefox</a> содержит руководства по работе с нашими инструментами сбора данных.
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Документация клиента телеметрии Firefox</a> содержит определения концепций, документацию по API и справку по данным.
+">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Панели Телеметрии</a> позволяют вам визуализировать данные, полученные Mozilla через Телеметрию.
+">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Данные текущего пинга
 ">
@@ -82,10 +98,6 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Зависания браузера
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Зависания потоков
 ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
