@@ -93,11 +93,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "მიმდინარე ისტორიის გასუფთავება">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი სეანსის გამოყენება">
+<!ENTITY  privateBrowsingPermanent2.label "ყოველთვის პირადი დათვალიერების გამოყენება">
 <!ENTITY  privateBrowsingPermanent2.accesskey "პ">
 
-<!ENTITY  rememberHistory2.label      "დათვალიერებული გვერდების და ჩამოტვირთვების ისტორიის დამახსოვრება">
-<!ENTITY  rememberHistory2.accesskey  "დ">
+<!ENTITY  rememberHistory2.label      "მონახულებული გვერდებისა და ჩამოტვირთვების ისტორიის დამახსოვრება">
+<!ENTITY  rememberHistory2.accesskey  "მ">
 
 <!ENTITY  rememberSearchForm.label       "ძიებისა და ველების ისტორიის დამახსოვრება">
 <!ENTITY  rememberSearchForm.accesskey   "ფ">
