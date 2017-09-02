@@ -671,6 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ચાલુ રાખો">
 <!ENTITY guest_session_dialog_cancel "રદ કરો">
 <!ENTITY new_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
+<!ENTITY new_guest_session_text2 "તેનો ઉપયોગ વ્યક્તિ તમારી વ્યક્તિગત બ્રાઉઝિંગ ડેટા (સાચવેલ પ્રવેશો, ઇતિહાસ અથવા જેમ કે બુકમાર્ક્સ) કોઈપણ જોવા માટે સમર્થ હશે.\n\nજ્યારે તમારા મહેમાન કરવામાં આવે છે, તેમના બ્રાઉઝિંગ ડેટા કાઢી નાખવામાં આવશે અને તમારા સત્ર પુનઃ સ્થાપિત થશે.">
 <!ENTITY guest_browsing_notification_title "અતિથિ બ્રાઉઝિંગ સક્ષમ છે">
 <!ENTITY guest_browsing_notification_text "બહાર નીકળવા માટે ટેપ કરો">
 
@@ -749,23 +750,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: આધાર">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox સહાય અને Android ટેબ્લેટ્સ પર પ્રતિબંધિત પ્રોફાઇલ્સ માટે સમર્થન">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "વેબ શીખવા: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "માફ કરશો! આ &brandShortName; આ ઉપકરણ પર કામ કરશે નહિં (&formatS1;, &formatS2;). કૃપા કરીને યોગ્ય સંસ્કરણ ડાઉનલોડ કરો.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; લાંબા સમય સુધી અદ્યતન બનાવવામાં આવશે નહિ">
 <!ENTITY eol_notification_summary "વધુ શીખવા માટે ઠપકારો">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; નવીનકૃત છે">
+<!ENTITY whatsnew_notification_summary "શોધવા માટે શું આ સંસ્કરણ માં નવું શું છે">
 
+<!ENTITY promotion_add_to_homescreen "મુખ્ય સ્ક્રીન પર ઉમેરો">
 
 <!ENTITY helper_first_offline_bookmark_title "ઓફલાઇન વાંચો">
+<!ENTITY helper_first_offline_bookmark_message "બૉક્મર્ક્સ્ માં તમારા રીડર વસ્તુઓ જુઓ, ઓફલાઇન પણ શોધો.">
 <!ENTITY helper_first_offline_bookmark_button "બુકમાર્ક્સ પર જાઓ">
 
 <!ENTITY helper_triple_readerview_open_title "ઑફલાઇન ઉપલબ્ધ">
+<!ENTITY helper_triple_readerview_open_message "બુકમાર્ક રીડર વસ્તુઓ જુઓ ઑફલાઇન તેમને વાંચવા માટે.">
 <!ENTITY helper_triple_readerview_open_button "બુકમાર્ક્સ ઉમેરો">
 
 <!ENTITY activity_stream_topsites "ટોચના સાઇટ્સ">
@@ -774,13 +783,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "બુકમાર્ક કરેલ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "જોવામા આવેલ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_delete_history "ઇતિહાસમાંથી દૂર કરો">
 
+<!ENTITY activity_stream_welcome_title "તમારા હાઈલાઈટ્સ પર આપનું સ્વાગત છે">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; હવે વસ્તુઓ તમે વેબ પર શોધ્યું છે તે હાઇલાઇટ્સ બનાવે છે, જેથી તમે મહાન લેખો, વિડિઓઝ, બુકમાર્ક્સ અને અન્ય પૃષ્ઠો પર પાછા તમારી રીતે શોધી શકો છો.">
 
 
