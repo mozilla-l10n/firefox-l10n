@@ -60,7 +60,7 @@
 <!ENTITY  crash_send_report_message3 "告知 &vendorShortName; 有关此次崩溃的情况，以便修复此问题">
 <!ENTITY  crash_include_url2 "包含当时访问页面的地址">
 <!ENTITY  crash_sorry "非常抱歉">
-<!ENTITY  crash_comment "添加说明（公开可见）">
+<!ENTITY  crash_comment "附上说明（说明公开可见）">
 <!ENTITY  crash_allow_contact2 "允许 &vendorShortName; 就此报告与我联系">
 <!ENTITY  crash_email "您的电子邮箱">
 <!ENTITY  crash_closing_alert "不发送崩溃报告并退出？">
