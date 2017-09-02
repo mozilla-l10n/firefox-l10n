@@ -502,7 +502,7 @@
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
 <!ENTITY contextmenu_set_as_homepage "设为主页">
 <!ENTITY contextmenu_share "分享">
-<!ENTITY contextmenu_pasteandgo "粘贴并访问">
+<!ENTITY contextmenu_pasteandgo "粘贴并前往">
 <!ENTITY contextmenu_paste "粘贴">
 <!ENTITY contextmenu_copyurl "复制地址">
 <!ENTITY contextmenu_edit_bookmark "编辑">
