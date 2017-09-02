@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Instellen als standaard">
 <!ENTITY pref_dialog_default "Standaard">
 <!ENTITY pref_dialog_remove "Verwijderen">
+<!ENTITY pref_dialog_activitystream_header_content "Extra inhoud">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Recente bladwijzers">
+<!ENTITY pref_dialog_activitystream_visited "Bezocht">
 
 <!ENTITY pref_search_last_toast "U kunt uw laatste zoekmachine niet verwijderen of uitschakelen.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Bezocht">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Populair">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Begin met surfen, en we tonen hier een aantal geweldige artikelen, video’s en andere pagina’s die u onlangs hebt bezocht of waarvoor u een bladwijzer hebt gemaakt.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Verwijderen">
 <!ENTITY activity_stream_delete_history "Verwijderen uit geschiedenis">
-
-<!ENTITY activity_stream_welcome_title "Welkom bij uw Highlights">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; maakt nu highlights aan van dingen die u op het web hebt ontdekt, zodat u interessante artikelen, video’s, bladwijzers en andere pagina’s makkelijk kunt terugvinden.">
-<!ENTITY activity_stream_welcome_dismiss "Verwijderen">
 
 <!ENTITY private_tab_panel_title "Privénavigatie + Bescherming tegen volgen">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkeert onderdelen van de pagina’s die uw surfactiviteit kunnen volgen.">
