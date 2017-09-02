@@ -3,9 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY validatePage.label            "Valider denne sida">
+<!ENTITY validatePage.accesskey        "V">
 
 
+<!ENTITY devtoolsConnect.label           "Kople til…">
+<!ENTITY devtoolsConnect.accesskey       "">
 
+<!ENTITY browserConsoleCmd.label         "Nettlesarkonsoll">
 
 
 
@@ -27,8 +31,22 @@
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY devToolbarMenu.label                "Utviklarverktøylinje">
+<!ENTITY devToolbarMenu.accesskey            "U">
 
+<!ENTITY webide.label                        "WebIDE">
+<!ENTITY webide.accesskey                    "W">
+<!ENTITY webide.keycode                      "VK_F8">
+<!ENTITY webide.keytext                      "F8">
 
+<!ENTITY devToolbar.keycode                  "VK_F2">
+<!ENTITY devToolbar.keytext                  "F2">
 
+<!ENTITY devToolboxMenuItem.label            "Slå av/på verktøy">
+<!ENTITY devToolboxMenuItem.accesskey        "t">
+<!ENTITY devToolboxMenuItem.keytext          "I">
 
+<!ENTITY devToolbarToolsButton.tooltip       "Slå av/på utviklarverktøy">
 
+<!ENTITY getMoreDevtoolsCmd.label            "Hent fleire verktøy">
+<!ENTITY getMoreDevtoolsCmd.accesskey        "v">
