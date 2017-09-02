@@ -146,7 +146,7 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Åpne nedlastingsmappe">
 
-<!ENTITY clearDownloadsButton.label       "Slett nedlastinger">
+<!ENTITY clearDownloadsButton.label       "Fjern nedlastinger">
 <!ENTITY clearDownloadsButton.tooltip     "Fjerner fullførte, avbrutte og feilede nedlastinger">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
