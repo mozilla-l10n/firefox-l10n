@@ -3,7 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File Menu -->
+<!ENTITY tabCmd.label "Nettlesarfane">
+<!ENTITY tabCmd.accesskey "N">
+<!ENTITY openFileCmd.label "Opne fil…">
 
+<!ENTITY closeOtherTabs.label "Lat att andre faner">
 
 
 

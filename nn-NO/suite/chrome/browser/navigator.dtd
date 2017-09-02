@@ -47,8 +47,17 @@
 <!ENTITY stopButton.label             "Stopp">
 <!ENTITY stopButton.tooltip           "Stopp lasting av sida">
 <!ENTITY searchButton.label           "Søk">
+<!ENTITY searchButton.tooltip         "Skriv inn eit ord i feltet til venstre og trykk Søk">
+<!ENTITY goButton.label               "Gå">
+<!ENTITY goButton.tooltip             "Skriv inn ei adresse i feltet til venstre og trykk Gå">
+<!ENTITY printButton.label            "Skriv ut">
+<!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
+<!ENTITY throbber.tooltip             "Gå til heimesida til til &vendorShortName;">
 
+<!ENTITY locationBar.tooltip          "Skriv inn eit søkjeord, nykelord eller ei nettadresse her">
+<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.title            "Adresse">
 
 
 
