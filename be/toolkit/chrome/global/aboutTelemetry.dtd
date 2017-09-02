@@ -8,6 +8,13 @@
 Крыніца дадзеных пінга:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Шукаеце больш інфармацыі?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Дадзеныя бягучага пінга
 ">
@@ -81,8 +88,6 @@
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Завісанні браўзера
 ">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Нізкі завісанняў">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Захопленыя стэкі
