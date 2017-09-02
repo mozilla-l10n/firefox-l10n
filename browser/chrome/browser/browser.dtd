@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Atverti meniu">
 <!ENTITY navbarOverflow.label                "Daugiau priemonių…">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Atsiųsti visų kortelių tinklalapius iš naujo">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "d">
 <!ENTITY  closeOtherTabs.label               "Užverti kitas korteles">
 <!ENTITY  closeOtherTabs.accesskey           "k">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Įsegti kortelę kairėje">
 <!ENTITY  pinTab.accesskey                   "s">
 <!ENTITY  unpinTab.label                     "Išsegti kortelę">
@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "r">
 <!ENTITY  sendLinkToDevice.label             "Nusiųsti saitą į įrenginį">
 <!ENTITY  sendLinkToDevice.accesskey         "r">
+<!ENTITY  sendToDeviceFeedback.label         "Išsiųsta!">
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  bookmarkAllTabs.label              "Įrašyti į adresyną visas korteles…">
@@ -126,29 +127,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Grįžti iš viso ekrano veiksenos">
 <!ENTITY fullScreenExit.accesskey "v">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "dabar yra visame ekrane">
 <!ENTITY fullscreenWarning.generic.label "Šis dokumentas dabar yra visame ekrane">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY exitDOMFullscreen.button "Grįžti iš viso ekrano (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Grįžti iš viso ekrano (esc)">
 <!ENTITY leaveDOMFullScreen.label "Grįžti iš viso ekrano">
 <!ENTITY leaveDOMFullScreen.accesskey "G">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.">
 <!ENTITY pointerlockWarning.generic.label "Šis dokumentas valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.">
@@ -161,23 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Rasti daugiau dalinimosi tarnybų...">
-<!ENTITY sharePageCmd.label "Dalytis šiuo tinklalapiu">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Dalytis šiuo saitu">
-<!ENTITY shareLink.accesskey "D">
-<!ENTITY shareImage.label "Dalintis šiuo paveikslu">
-<!ENTITY shareImage.accesskey "a">
-<!ENTITY shareSelect.label "Dalintis pažymėjimu">
-<!ENTITY shareSelect.accesskey "a">
-<!ENTITY shareVideo.label "Dalintis šiuo vaizdo įrašu">
-<!ENTITY shareVideo.accesskey "a">
-<!ENTITY feedsMenu2.label "Prenumeruoti šio tinklalapio naujienas">
+
 <!ENTITY subscribeToPageMenupopup.label "Prenumeruoti šio tinklalapio naujienas">
 <!ENTITY subscribeToPageMenuitem.label "Prenumeruoti šio tinklalapio naujienas…">
 <!ENTITY addCurPagesCmd.label "Įrašyti į adresyną visas korteles…">
@@ -236,25 +221,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
 <!ENTITY searchItem.title             "Paieška">
-<!-- Toolbar items -->
 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pradžios tinklalapis">
 
 <!ENTITY bookmarksButton.label          "Adresynas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Adresynas">
-<!ENTITY bookmarksMenuButton.other.label "Kiti adresai">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobilusis adresynas">
+<!ENTITY bookmarksSubview.label             "Adresynas">
+<!ENTITY bookmarksMenuButton2.label         "Adresyno meniu">
+<!ENTITY bookmarksMenuButton.other.label    "Kiti adresai">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobilusis adresynas">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
+<!ENTITY hideBookmarksSidebar.label         "Nerodyti adresyno parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
+<!ENTITY hideBookmarksToolbar.label         "Slėpti adresyno juostą">
 <!ENTITY searchBookmarks.label              "Ieškoti adresyne">
+<!ENTITY bookmarkingTools.label             "Adresyno priemonės">
+<!ENTITY addBookmarksMenu.label             "Pridėti adresyno meniu į priemonių juostą">
+<!ENTITY removeBookmarksMenu.label          "Išimti adresyno meniu iš priemonių juostos">
 
-<!ENTITY containersMenu.label "Sudėtinės kortelės">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -349,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tvarkyti meniu ir priemonių juostas">
 <!ENTITY appMenuCustomizeExit.label "Baigti tvarkymą">
 <!ENTITY appMenuCustomizeExit.tooltip "Užbaigti tvarkymą">
-<!ENTITY appMenuHistory.label "Žurnalas">
 <!ENTITY appMenuHistory.showAll.label "Rodyti visą žurnalą">
 <!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
 <!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
@@ -414,10 +402,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "š">
 <!ENTITY customizeMenu.addMoreItems.label "Pridėti daugiau elementų…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "d">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
-
 <!ENTITY moreMenu.label "Daugiau">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -434,8 +422,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Taip">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "t">
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Patarimas:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Gaukite pagalbos ieškant! Prie paieškos siūlymų matysite &#x1F50E;.">
@@ -443,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "t">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Keisti nuostatas…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "t">
+
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -463,41 +452,40 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-
 <!ENTITY contentSearchInput.label     "Paieškos užklausa">
 <!ENTITY contentSearchSubmit.tooltip  "Išsiųsti paiešką">
+
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
-
 <!ENTITY searchInput.placeholder      "Ieškoti">
 <!ENTITY searchIcon.tooltip           "Paieška">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "Ieškoti ">
 <!ENTITY searchWith.label             " su:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 "Ieškoti su ">
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "Ieškoti per:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -562,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
 <!ENTITY copyURLCmd.label             "Kopijuoti URL">
+<!ENTITY copyURLFeedback.label        "Nukopijuota!">
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
@@ -607,11 +596,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Kadras">
 <!ENTITY thisFrameMenu.accesskey          "K">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Groti">
 <!ENTITY mediaPlay.accesskey         "G">
 <!ENTITY mediaPause.label            "Pristabdyti">
@@ -658,18 +647,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "s">
 <!ENTITY videoHideStats.label        "Nerodyti statistikos">
 <!ENTITY videoHideStats.accesskey    "s">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Padidinti">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "d">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Sumažinti">
@@ -752,14 +740,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!ENTITY identity.extensionPage "Šis tinklalapis yra įkeltas iš priedo.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
-<!-- Strings for connection state warnings. -->
 
+<!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
 <!ENTITY identity.passiveLoaded "Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).">
 <!ENTITY identity.activeLoaded "Šiame tinklalapyje esate išjungę apsaugą.">
 <!ENTITY identity.weakEncryption "Šis tinklalapis naudoja silpną šifravimą.">
-<!-- Strings for connection state warnings in the subview. -->
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 <!ENTITY identity.description.insecureLoginForms "Šiame tinklalapyje jūsų įvesti prisijungimo duomenys nebus saugūs ir gali būti perimti.">
 <!ENTITY identity.description.weakCipher "Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.">
@@ -785,12 +773,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Leidimai">
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!ENTITY identity.permissionsReloadHint "Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Kortelių juosta">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Sinchronizuotos kortelės">
 
 <!ENTITY syncedTabs.sidebar.label              "Sinchronizuotos kortelės">
@@ -803,11 +791,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
 <!ENTITY syncedTabs.context.open.label                       "Atverti">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Atverti naujoje kortelėje">
@@ -837,15 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "n">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
 
-<!ENTITY social.addons.label "Tvarkyti tarnybas…">
-
-<!ENTITY social.directory.label "Aktyvinimų aplankas">
-<!ENTITY social.directory.text "Dalinimosi tarnybas galite aktyvinti iš aplanko.">
-<!ENTITY social.directory.button "Noriu ten!">
-<!ENTITY social.directory.introText "Spustelėkite ant tarnybos, norėdami ją pridėti į „&brandShortName;“.">
-<!ENTITY social.directory.viewmore.text "Žiūrėti daugiau">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Papildomos priemonės ir funkcijos">
 <!ENTITY customizeMode.menuAndToolbars.empty "Norite daugiau priemonių?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pasirinkite jas iš tūkstančių priedų">
 <!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
@@ -917,35 +896,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Rodyti visus">
 <!ENTITY pluginNotification.showAll.accesskey "v">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Leisti šį kartą">
 <!ENTITY pluginActivateAlways.label "Leisti visada">
 <!ENTITY pluginBlockNow.label "Neleisti">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Užverti">
 
-<!ENTITY appMenuSidebars.label         "Parankinė">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "Pašalinti įrašus:">
 <!ENTITY panicButton.view.5min                    "penkių minučių">
 <!ENTITY panicButton.view.2hr                     "dviejų valandų">
 <!ENTITY panicButton.view.day                     "24 valandų">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "Jeigu tęsite, bus:">
 <!ENTITY panicButton.view.deleteCookies           "pašalinti paskiausi <html:strong>slapukai</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "išvalyti <html:strong>naršymo žurnalo</html:strong> įrašai">
@@ -992,5 +969,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso juosta">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso juostos">
 
-<!ENTITY sendToDevice.label2 "Siųsti į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
+
