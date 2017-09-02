@@ -181,6 +181,7 @@
 
 <!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
   -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Network">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the netmonitor,

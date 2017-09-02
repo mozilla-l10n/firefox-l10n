@@ -6,6 +6,14 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Fonte de dados do ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Procurando por mais informações?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+A <a>Documentação de dados do Firefox</a> contém guias sobre como trabalhar com as nossas ferramentas de dados.">
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Dados do ping atual">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dados de ping arquivados">
@@ -47,8 +55,6 @@ Abri no visualizador de JSON
 <!ENTITY aboutTelemetry.slowSqlSection "  Instruções SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Congelamentos do navegador">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Congelamentos de threads">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Pilhas capturadas">
