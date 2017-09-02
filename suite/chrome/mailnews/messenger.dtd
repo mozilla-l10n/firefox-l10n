@@ -1,0 +1,65 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- tabmail -->
+
+<!-- menu items: the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyheitsgruppa">
+<!ENTITY getNextNMsgCmd.accesskey "N">
+
+<!-- Edit Menu -->
+
+<!-- View Menu -->
+
+
+<!-- sortMenu is also used by addressbook -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the Lightning quick filter bar. -->
+
+<!-- Go Menu -->
+
+<!ENTITY nextMenu.label "Neste">
+<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMsgCmd.label "Melding">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Ulest melding">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextFlaggedMsgCmd.label "Flagga melding">
+<!ENTITY nextFlaggedMsgCmd.accesskey "F">
+<!ENTITY nextUnreadThread.label "Ulest tråd">
+<!ENTITY nextUnreadThread.accesskey "t">
+<!ENTITY nextUnreadThread.key "t">
+
+<!-- Message Menu -->
+
+<!-- Tools Menu -->
+
+<!-- Folder Pane -->
+
+<!-- Toolbar items -->
+<!ENTITY nextButton.label "Neste">
+
+<!-- Tooltips -->
+
+<!-- Remote Content Button Popup -->
+
+<!-- Statusbar -->
+
+<!-- Thread Pane Context Menu -->
+
+<!-- Folder Pane Context Menu -->
+
+<!-- focusSearchInput.key also used by addressbook -->
+
