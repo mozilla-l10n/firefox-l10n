@@ -4,7 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Donadas telemetricas">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
 
 
 
@@ -12,10 +11,9 @@
 
 
 
-
-
-<!ENTITY aboutTelemetry.structured "Estructurat">
-
+<!ENTITY aboutTelemetry.raw "
+JSON brut
+">
 
 
 
@@ -24,7 +22,17 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Uèi
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ièr
+">
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Donadas generalas">
 
@@ -34,8 +42,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Requèstas SQL lentas">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Blocatges del navigador">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Blocatges dels fials d'execucion">
 
 
 <!ENTITY aboutTelemetry.scalarsSection "  Escalars">
@@ -52,18 +58,12 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escrituras tardièras">
 
+
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informacions del sistèma">
-
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Istogramas collectats pels moduls complementaris">
-
-<!ENTITY aboutTelemetry.toggle "  Clicatz per reduire la seccion">
-
-<!ENTITY aboutTelemetry.emptySection "  (Cap de donada pas collectada)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">
-
 
