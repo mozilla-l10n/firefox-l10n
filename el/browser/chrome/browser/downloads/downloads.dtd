@@ -134,7 +134,17 @@
 <!ENTITY downloadsHistory.label           "Εμφάνιση όλων των λήψεων">
 <!ENTITY downloadsHistory.accesskey       "μ">
 
-<!ENTITY openDownloadsFolder.label       "Άνοιγμα φακέλου λήψης">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Λεπτομέρειες λήψης">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Άνοιγμα φακέλου λήψης">
 
 <!ENTITY clearDownloadsButton.label       "Εκκαθάριση λήψεων">
 <!ENTITY clearDownloadsButton.tooltip     "Απομακρύνει από τη λίστα τις ολοκληρωμένες, ακυρωμένες και αποτυχημένες λήψεις">

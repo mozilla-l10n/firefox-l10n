@@ -8,6 +8,13 @@
 Πηγή δεδομένων ping:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Ψάχνετε περισσότερες πληροφορίες;
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Δεδομένα τρέχοντος ping
 ">
