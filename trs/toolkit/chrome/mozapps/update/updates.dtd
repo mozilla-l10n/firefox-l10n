@@ -1,6 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "Nagi'iaj nakò' software">
+
+<!ENTITY  checking.title                  "Nana’uij sa nakà doj">
+<!ENTITY  updateCheck.label               "Nana’uij versión nakà doj guendâ &brandShortName;…">
+
+<!ENTITY  noupdatesfound.title            "Nu nari’ìj sa nahuin nakàa">
+<!ENTITY  noupdatesautoenabled.intro      "Nitāj sa nahuin nakàa hua. &brandShortName; natsij
+                                           
+                                          yitïnj nej sa nahuin nakà dan.">
+<!ENTITY  noupdatesautodisabled.intro     "Nitāj sa nahuin nakàa hua. Nanâ doj natsij ñûnt mana si nachrūn
+                                           
+                                           &brandShortName; Daj natsij man sisi hua sa nahuin nakà.">
+
+<!ENTITY  manualUpdate.title              "Na'ue nahuin nakà man">
 
 
 
@@ -9,29 +23,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                           
+                                           
 
 
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-
-
-
 
