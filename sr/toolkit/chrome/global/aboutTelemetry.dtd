@@ -15,7 +15,11 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "
 <a>Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Командна табла телеметрије</a> вам дозвољава да визуелно прикажете податке које Mozilla прима путем телеметрије.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Подаци тренутног пинга

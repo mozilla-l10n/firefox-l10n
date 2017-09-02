@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Учитавање…">
-<!ENTITY listEmpty.installed.label            "Нисте инсталирали ни један додатак ове врсте">
+<!ENTITY listEmpty.installed.label            "Нисте инсталирали ниједан додатак ове врсте">
 <!ENTITY listEmpty.availableUpdates.label     "Нема надоградњи">
 <!ENTITY listEmpty.recentUpdates.label        "Нисте недавно ажурирали додатке">
 <!ENTITY listEmpty.findUpdates.label          "Провери да ли постоје ажурирања">
