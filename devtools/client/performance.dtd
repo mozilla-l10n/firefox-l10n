@@ -36,7 +36,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
-<!ENTITY performanceUI.loadingNotice "正在载入...">
+<!ENTITY performanceUI.loadingNotice "正在载入…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
