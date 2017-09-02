@@ -14,7 +14,13 @@
 <a>Firefox Məlumat Sənədləri</a> məlumat alətlərimizlə necə işləmək lazım olduğu haqqında yol göstərir.
 ">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox Telemetriya klient sənədlərinə</a> konsept tərifləri, API sənədləri və məlumat istinadları daxildir.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Telemetriya idarə lövhələri</a> Mozillanın Telemetriya ilə aldığı məlumatları vizuallaşdırmağınıza imkan verir.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "İndiki ping məlumatı">
 
