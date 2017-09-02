@@ -12,6 +12,7 @@
 
 <!ENTITY  generalTab            "Generelt">
 <!ENTITY  generalURL            "Adresse:">
+<!ENTITY  generalModified       "Sist endra:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innhald">
@@ -32,6 +33,8 @@
 <!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "Namn">
 <!ENTITY  linkAddress           "Adresse">
+<!ENTITY  linkType              "Type">
+<!ENTITY  linkTarget            "Mål">
 <!ENTITY  linkAccessKey         "Tilgangstast">
 
 <!ENTITY  mediaTab              "Media">
@@ -53,12 +56,19 @@
 <!ENTITY  permUseDefault        "Bruk standard">
 <!ENTITY  permAskAlways         "Spør alltid">
 <!ENTITY  permAllow             "Tillat">
+<!ENTITY  permAllowSession      "Tillat for programøkta">
 <!ENTITY  permBlock             "Blokker">
+<!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permImage             "Laste inn bilde">
+<!ENTITY  permGeo               "Del plassering">
 
+<!ENTITY  securityTab           "Sikkerheit">
+<!ENTITY  securityView.unknown   "Ukjent">
 
 
 <!ENTITY  securityView.identity.owner    "Eigar:">
 <!ENTITY  securityView.identity.domain   "Nettstad:">
+<!ENTITY  securityView.identity.verifier "Stadfesta av:">
 
+<!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 
