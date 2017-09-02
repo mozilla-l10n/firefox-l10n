@@ -6,6 +6,11 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Aɣbalu n isefka n Ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "Tettnadiḍ ugar n telγut?">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Isefkan Ping amiran">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Isefka n Ping ittwaɣebṛen">
@@ -43,8 +48,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Tuţriwin SQL tiẓayanin">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Asewḥel n tinelli n uselken">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
 
