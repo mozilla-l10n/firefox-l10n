@@ -28,7 +28,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Petición de identificación de usuario">
 <!ENTITY clientAuthAsk.message1 "El siguiente sitio ha pedido que te identifiques con un certificado:">
-<!ENTITY clientAuthAsk.message2 "Elija un certificado para presentarlo como identificación:">
+<!ENTITY clientAuthAsk.message2 "Elige un certificado para presentarlo como identificación:">
 <!ENTITY clientAuthAsk.message3 "Detalles del certificado seleccionado:">
 
 <!ENTITY pkcs12.setpassword.title  "Elegir una contraseña de respaldo para el certificado">
