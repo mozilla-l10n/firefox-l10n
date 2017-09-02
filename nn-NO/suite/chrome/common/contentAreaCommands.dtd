@@ -19,6 +19,26 @@
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis kjeldekode for vald tekst">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kjeldekode">
 <!ENTITY viewPartialSourceCmd.accesskey "V">
+<!ENTITY viewPageSourceCmd.label      "Vis kjeldekode">
+<!ENTITY viewPageSourceCmd.accesskey  "k">
+<!ENTITY viewFrameSourceCmd.label     "Vis kjeldekode for ramma">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "Vis sideinfo">
+<!ENTITY viewPageInfoCmd.accesskey    "V">
+<!ENTITY viewFrameInfoCmd.label       "Vis rammeinformasjon">
+<!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY fitImageCmd.label            "Tilpass bildet til vindauget">
+<!ENTITY fitImageCmd.accesskey        "T">
+<!ENTITY reloadImageCmd.label         "Oppdater bildet">
+<!ENTITY reloadImageCmd.accesskey     "O">
+<!ENTITY viewImageCmd.label           "Vis bildet">
+<!ENTITY viewImageCmd.accesskey       "V">
+<!ENTITY viewVideoCmd.label           "Vis video">
+<!ENTITY viewVideoCmd.accesskey       "V">
+<!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbildet">
+<!ENTITY viewBGImageCmd.accesskey     "b">
+<!ENTITY setDesktopBackgroundCmd.label     "Vel skrivebordsbakgrunn…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "V">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
