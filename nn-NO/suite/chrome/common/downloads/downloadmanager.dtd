@@ -24,6 +24,15 @@
 <!ENTITY col.progress.tooltip            "Framdrift">
 <!ENTITY col.transferrate.tooltip        "Fart">
 <!ENTITY col.source.label                "Kjelde">
+<!ENTITY col.source.accesskey            "K">
+<!ENTITY col.source.tooltip              "Kjelde">
 
+<!ENTITY view.columns.label              "Vis kolonner">
+<!ENTITY view.columns.accesskey          "V">
+<!ENTITY view.sortBy.label               "Sorter etter">
+<!ENTITY view.sortBy.accesskey           "S">
 
+<!ENTITY view.unsorted.label             "Usortert">
+<!ENTITY view.unsorted.accesskey         "U">
+<!ENTITY view.sortAscending.label        "Sorteringsrekkjefølgje A -> Å">
 
