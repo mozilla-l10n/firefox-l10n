@@ -47,17 +47,70 @@
 <!ENTITY bidiSwitchPageDirectionItem.label "Byt sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "r">
 <!ENTITY pageSourceCmd.label "Vis kjeldekode">
+<!ENTITY pageSourceCmd.accesskey "k">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Sideinfo">
+<!ENTITY pageInfoCmd.accesskey "S">
+<!ENTITY pageInfoCmd.commandkey "i">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Gå">
+<!ENTITY goMenu.accesskey "G">
 <!ENTITY goHomeCmd.label "Heim">
 <!ENTITY goHomeCmd.accesskey "H">
 <!ENTITY historyCmd.label "Historikk">
+<!ENTITY historyCmd.accesskey "s">
+<!ENTITY history.commandKey "h">
+<!ENTITY recentTabs.label "Nyleg lukka faner">
+<!ENTITY recentTabs.accesskey "N">
+<!ENTITY recentTabs.commandkey "t">
+<!ENTITY recentWindows.label "Nyleg lukka vindauge">
+<!ENTITY recentWindows.accesskey "v">
+<!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Bygg oppatt siste programøkt">
+<!ENTITY historyRestoreLastSession.accesskey "G">
+<!ENTITY syncTabsMenu.label "Faner frå andre datamaskiner">
+<!ENTITY syncTabsMenu.accesskey "F">
 
 <!-- Bookmarks Menu -->
+<!ENTITY bookmarksMenu.label "Bokmerke">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY addCurPageCmd.label "Bokmerk denne sida">
+<!ENTITY addCurPageCmd.accesskey "B">
+<!ENTITY addCurPageAsCmd.label "Lag bokmerke…">
+<!ENTITY addCurPageAsCmd.accesskey "L">
+<!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Bokmerk denne fanegruppa…">
+<!ENTITY addCurTabsAsCmd.accesskey "G">
+<!ENTITY manBookmarksCmd.label "Handter bokmerke…">
+<!ENTITY manBookmarksCmd.accesskey "B">
+<!ENTITY manBookmarksCmd.commandkey "b">
 
 <!-- Tools Menu -->
+<!ENTITY searchInternetCmd.label "Søk på nettet">
+<!ENTITY searchInternetCmd.accesskey "S">
+<!ENTITY searchInternet.commandKey "s">
+<!ENTITY translateMenu.label "Omsett sida">
+<!ENTITY translateMenu.accesskey "O">
 
+<!ENTITY cookieMessageTitle.label "Løyve for infokapslar endra">
+<!ENTITY cookieDisplayCookiesCmd.label "Handter lagra infokapslar">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "B">
+<!ENTITY cookieAllowCookiesCmd.label "Tillat infokapslar frå denne nettstaden">
+<!ENTITY cookieAllowCookiesCmd.accesskey "T">
+<!ENTITY cookieAllowCookiesMsg.label "Infokapslar frå denne nettstaden vil allttid tillatast.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Tillat øktinfokapslar frå denne nettstaden">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "ø">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Denne nettstaden vil kunne sette infokapsler berre for denne programøkta.">
+<!ENTITY cookieCookiesDefaultCmd.label "Bruk standardreglar for infokapslar">
+<!ENTITY cookieCookiesDefaultCmd.accesskey "u">
+<!ENTITY cookieCookiesDefaultMsg.label "Infokapslar frå denne nettstaden vil bli akseptert eller blokkert basert på standardinnstillingar.">
+<!ENTITY cookieBlockCookiesCmd.label "Blokker infokapslar frå denne nettstaden">
+<!ENTITY cookieBlockCookiesCmd.accesskey "B">
+<!ENTITY cookieBlockCookiesMsg.label "Infokapslar frå denne nettsaten vil alltid bli blokkerte.">
 
+<!ENTITY cookieImageMessageTitle.label "Løyve for bilde endra">
+<!ENTITY cookieDisplayImagesCmd.label "Handter bildeløyve">
 
 
 
