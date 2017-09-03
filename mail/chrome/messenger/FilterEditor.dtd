@@ -37,6 +37,8 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Pindah Mesej ke">
 <!ENTITY copyMessage.label "Salin Mesej ke">
+<!ENTITY forwardTo.label "Memanjangkan Mesej ke">
+<!ENTITY replyWithTemplate.label "Balas menggunakan Templat">
 
 
 <!-- LOCALIZATION NOTE
