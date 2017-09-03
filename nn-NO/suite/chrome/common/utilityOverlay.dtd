@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Arbeid fråkopla">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+  
+ 
+  
+ 
+  
+ 
+<!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
+     findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
+     and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+
+ 
+ 
+ 
+  
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+<!-- Popup Blocked notification menu -->
+

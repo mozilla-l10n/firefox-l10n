@@ -60,6 +60,7 @@
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permImage             "Laste inn bilde">
+<!ENTITY  permNotifications     "Vis varsel">
 <!ENTITY  permGeo               "Del plassering">
 
 <!ENTITY  securityTab           "Sikkerheit">
