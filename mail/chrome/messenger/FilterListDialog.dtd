@@ -36,7 +36,8 @@
 <!ENTITY folderPickerPrefix.accesskey "l">
 <!ENTITY helpButton.label "Bantuan">
 <!ENTITY helpButton.accesskey "B">
- 
+<!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Cari penapis mengikut nama…">
 
 
 
