@@ -39,7 +39,22 @@
 <!ENTITY copyMessage.label "Salin Mesej ke">
 <!ENTITY forwardTo.label "Memanjangkan Mesej ke">
 <!ENTITY replyWithTemplate.label "Balas menggunakan Templat">
+<!ENTITY markMessageRead.label "Tandakan sebagai telah Dibaca">
+<!ENTITY markMessageUnread.label "Tandakan sebagai Belum Baca">
+<!ENTITY markMessageStarred.label "Tandakan Bintang">
+<!ENTITY setPriority.label "Tetapkan Prioriti ke">
+<!ENTITY addTag.label "Tag Mesej">
+<!ENTITY setJunkScore.label "Tetapkan Status Mel Remeh ke">
+<!ENTITY deleteMessage.label "Buang Mesej">
+<!ENTITY deleteFromPOP.label "Buang Daripada Pelayan POP">
+<!ENTITY fetchFromPOP.label "Ambil Daripada Pelayan POP">
+<!ENTITY ignoreThread.label "Thread Diabaikan">
+<!ENTITY ignoreSubthread.label "Abaikan Subthread">
+<!ENTITY watchThread.label "Ikuti Thread">
+<!ENTITY stopExecution.label "Henti Pelaksanaan Penapis">
 
+<!ENTITY addAction.tooltip "Tambah tindakan baru">
+<!ENTITY removeAction.tooltip "Batal tindakan ini">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -47,3 +62,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
