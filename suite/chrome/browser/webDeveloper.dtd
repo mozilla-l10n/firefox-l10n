@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "Vista de diseño adaptable">
 <!ENTITY responsiveDesignTool.accesskey  "s">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "Gotero">
 <!ENTITY eyedropper.accesskey            "G">
