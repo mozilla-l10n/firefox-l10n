@@ -104,7 +104,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Tukar semasa add-on ini digunakan">
 <!ENTITY cmd.installAddon.label               "Pasang">
 <!ENTITY cmd.installAddon.accesskey           "g">
-<!ENTITY cmd.uninstallAddon.label             "Alih keluar">
+<!ENTITY cmd.uninstallAddon.label             "Buang">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Pilihan">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
