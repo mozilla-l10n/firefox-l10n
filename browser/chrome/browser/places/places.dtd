@@ -53,7 +53,7 @@
 <!ENTITY cmd.open_tab.label              "Otvoriť na novej karte">
 <!ENTITY cmd.open_tab.accesskey          "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Otvoriť všetko na kartách">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "c">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "k">
 
 <!ENTITY cmd.properties.label      "Vlastnosti">
 <!ENTITY cmd.properties.accesskey  "l">
@@ -107,7 +107,7 @@
 <!ENTITY view.accesskey           "b">
 <!ENTITY byDate.label             "podľa dátumu">
 <!ENTITY byDate.accesskey         "d">
-<!ENTITY bySite.label             "podľa servera">
+<!ENTITY bySite.label             "podľa názvu stránky">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "podľa počtu návštev">
 <!ENTITY byMostVisited.accesskey  "a">
