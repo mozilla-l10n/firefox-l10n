@@ -15,13 +15,13 @@
 <!ENTITY menuitemAlwaysOffline            "Alltid start opp i frakoblet modus">
 <!ENTITY menuitemAutomatic                "Oppdag automatisk (dersom tilgjengelig)">
 <!ENTITY textGoingOnline                  "Send usendte meldinger når jeg kobler til?">
-<!ENTITY radioAutoSend                    "Automatisk send usendte meldinger">
+<!ENTITY radioAutoSend                    "Ja">
 <!ENTITY radioAutoSend.accesskey          "u">
-<!ENTITY radioNotSend                     "Ikke send">
+<!ENTITY radioNotSend                     "Nei">
 <!ENTITY radioNotSend.accesskey           "D">
-<!ENTITY radioAskUnsent                   "Spør meg om jeg vil sende usendte meldinger">
+<!ENTITY radioAskUnsent                   "Spør meg">
 <!ENTITY radioAskUnsent.accesskey         "S">
-<!ENTITY textGoingOffline                 "Last ned meldinger når jeg kobler fra?">
+<!ENTITY textGoingOffline                 "Laste ned meldinger når jeg kobler fra?">
 <!ENTITY radioAutoDownload                "Ja">
 <!ENTITY radioAutoDownload.accesskey      "J">
 <!ENTITY radioNotDownload                 "Nei">
