@@ -42,7 +42,7 @@
 <!ENTITY useStyleSheetMenu.accesskey "B">
 <!ENTITY useStyleSheetNone.label "Ingen">
 <!ENTITY useStyleSheetNone.accesskey "I">
-<!ENTITY useStyleSheetPersistentOnly.label "Standard stil">
+<!ENTITY useStyleSheetPersistentOnly.label "Standardstil">
 <!ENTITY useStyleSheetPersistentOnly.accesskey "S">
 <!ENTITY bidiSwitchPageDirectionItem.label "Bytt sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey "r">

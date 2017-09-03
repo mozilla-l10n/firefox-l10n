@@ -15,7 +15,7 @@
 <!ENTITY ccAddress.accesskey "k">
 <!ENTITY ccAddressList.placeholder "Atskill adresser med kommaer">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Send blind kopi (BCC) til disse e-postadressene">
+<!ENTITY bccAddress.label "Send blindkopi (BCC) til disse e-postadressene">
 <!ENTITY bccAddress.accesskey "B">
 <!ENTITY bccAddressList.placeholder "Atskill adresser med kommaer">
 <!ENTITY saveMessageDlg.label "Vis bekreftelsesdialog når meldinger lagres">
