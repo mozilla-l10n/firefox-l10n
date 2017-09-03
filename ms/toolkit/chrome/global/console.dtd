@@ -23,7 +23,7 @@
 <!ENTITY evaluate.label     "Menilai">
 <!ENTITY evaluate.accesskey "e">
 <!ENTITY filter2.label      "Tapis:">
-<!ENTITY filter2.accesskey  "s">
+<!ENTITY filter2.accesskey  "T">
 
 <!ENTITY copyCmd.label       "Salin">  
 <!ENTITY copyCmd.accesskey   "a"> 

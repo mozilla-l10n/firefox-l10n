@@ -396,10 +396,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Nyahpin daripada Menu Overflow">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "N">
-<!ENTITY customizeMenu.removeFromToolbar.label "Alih keluar daripada Bar alat">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Alih keluar daripada Menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.removeFromToolbar.label "Buang daripada Bar alatan">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "B">
+<!ENTITY customizeMenu.removeFromMenu.label "Buang daripada Menu">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "B">
 <!ENTITY customizeMenu.addMoreItems.label "Tambah Lagi Item… ">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
@@ -731,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Siap">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.accessKey       "B">
 
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
@@ -765,8 +765,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ketahui Selanjutnya">
 
-<!ENTITY identity.removeCertException.label "Alih keluar Pengecualian">
-<!ENTITY identity.removeCertException.accesskey "R">
+<!ENTITY identity.removeCertException.label "Buang Pengecualian">
+<!ENTITY identity.removeCertException.accesskey "B">
 
 <!ENTITY identity.moreInfoLinkText2 "Maklumat Lanjut">
 
