@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "B">
 <!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
+<!ENTITY  sendToDeviceFeedback.label         "Pósłany!">
 <!ENTITY  moveToNewWindow.label              "Do nowego wokna pśesunuś">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Wšykne rejtarki ako cytańske znamjenja składowaś…">
@@ -162,7 +163,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Toś ten bok aboněrowaś">
 <!ENTITY subscribeToPageMenupopup.label "Toś ten bok aboněrowaś">
 <!ENTITY subscribeToPageMenuitem.label "Toś ten bok aboněrowaś…">
 <!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
@@ -228,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Cytańske znamjenja">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Cytańske znamjenja">
+<!ENTITY bookmarksSubview.label             "Cytańske znamjenja">
+<!ENTITY bookmarksMenuButton2.label         "Meni cytańskich znamjenjow">
 <!ENTITY bookmarksMenuButton.other.label    "Druge cytańske znamjenja">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobilne cytańske znamjenja">
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
@@ -239,8 +240,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Rědy za cytańske znamjenja">
 <!ENTITY addBookmarksMenu.label             "Symbolowej rědce meni cytańskich znamjenjow pśidaś">
 <!ENTITY removeBookmarksMenu.label          "Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś">
-
-<!ENTITY containersMenu.label "Kontejnery">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Meni a symbolowe rědki pśiměriś">
 <!ENTITY appMenuCustomizeExit.label "Pśiměrjenje skóńcyś">
 <!ENTITY appMenuCustomizeExit.tooltip "Pśiměrjenje skóńcyś">
-<!ENTITY appMenuHistory.label "Historija">
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
 <!ENTITY appMenuHistory.clearRecent.label "Aktualnu historiju wuprozniś…">
 <!ENTITY appMenuHistory.restoreSession.label "Pjerwjejšne pósejźenje wótnowiś">
@@ -552,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "b">
 <!ENTITY copyURLCmd.label             "URL kopěrowaś">
+<!ENTITY copyURLFeedback.label        "Kopěrowany!">
 <!ENTITY emailPageCmd.label           "Wótkaz e-mailowaś…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Bok składowaś ako…">
@@ -912,8 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Zacyniś">
-
-<!ENTITY appMenuSidebars.label         "Bócnice">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
