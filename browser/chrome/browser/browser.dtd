@@ -12,6 +12,8 @@
 <!ENTITY reloadTab.accesskey "g">
 <!ENTITY reloadAllTabs.label "Recargar todas las pestañas">
 <!ENTITY reloadAllTabs.accesskey "R">
+<!ENTITY duplicateTab.label "Duplicar pestaña">
+<!ENTITY duplicateTab.accesskey "D">
 <!ENTITY closeTabsToTheEnd.label "Cerrar pestañas a la derecha">
 <!ENTITY closeTabsToTheEnd.accesskey "a">
 <!ENTITY closeOtherTabs.label "Cerrar las demás pestañas">
@@ -26,6 +28,7 @@
 <!ENTITY sendPageToDevice.accesskey "v">
 <!ENTITY sendLinkToDevice.label "Enviar enlace al dispositivo">
 <!ENTITY sendLinkToDevice.accesskey "v">
+<!ENTITY sendToDeviceFeedback.label "¡Enviado!">
 <!ENTITY moveToNewWindow.label "Mover a una nueva ventana">
 <!ENTITY moveToNewWindow.accesskey "V">
 <!ENTITY bookmarkAllTabs.label "Añadir pestañas a marcadores…">
@@ -381,6 +384,7 @@
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
 <!ENTITY copyURLCmd.label "Copiar URL">
+<!ENTITY copyURLFeedback.label "¡Copiado!">
 <!ENTITY emailPageCmd.label "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
@@ -689,3 +693,4 @@
 <!ENTITY sendToDevice.label3 "Enviar página al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
+<!ENTITY accessibilityIndicator.tooltip "Características de accesibilidad activadas">
