@@ -8,6 +8,13 @@
 Funtauna da datas da ping:
 ">
 
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>Documentaziun datas da Firefox</a> cuntegna manuals davart la lavur cun noss utensils da datas.">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentaziun client da telemetria da Firefox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "Las <a>panelas da telemetria</a> ta permettan da visualisar las datas che Mozilla retschaiva via telemetria.">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Datas da ping actualas
 ">
@@ -82,10 +89,6 @@ Pli vegl
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Bloccadas dal navigatur
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Bloccadas dal thread
 ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
