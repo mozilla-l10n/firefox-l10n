@@ -6,7 +6,15 @@
 <!ENTITY importBookmarksFrom.label       "Importer bokmerke frå:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
+<!ENTITY importFromThunderbird.accesskey "T">
+<!ENTITY importFromFile.label            "Fil">
+<!ENTITY importFromFile.accesskey        "F">
+<!ENTITY importFromNothing.label         "Ikkje importer noko">
+<!ENTITY importFromNothing.accesskey     "I">
 
+<!ENTITY importSource.title              "Importer innstillingar og data">
+<!ENTITY importItems.title               "Element som skal importerast">
+<!ENTITY importItems.label               "Velg kva for element som skal importerast:">
 
 <!ENTITY selectProfile.title             "Vel profil">
 

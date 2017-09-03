@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- history.xul, history-panel.xul, placesOverlay.xul -->
+
+<!ENTITY historyWindowTitle.label       "Historikk">
+<!ENTITY menuBar.tooltip                "Menylinje">
+<!ENTITY searchBar.tooltip              "Søkjelinje">
+
+<!ENTITY search.placeholder             "Søk i historikk">
+<!ENTITY search.key                     "S">
+<!ENTITY view.label                     "Vis">
+
+<!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.columns.accesskey         "V">
+<!ENTITY view.sortBy.label              "Sorter etter">
+<!ENTITY view.sortBy.accesskey          "S">
+<!ENTITY view.groupBy.label             "Grupper etter">
+<!ENTITY view.groupBy.accesskey         "G">
+
+<!ENTITY view.unsorted.label            "Usortert">
+<!ENTITY view.unsorted.accesskey        "U">
+
+
+
+
