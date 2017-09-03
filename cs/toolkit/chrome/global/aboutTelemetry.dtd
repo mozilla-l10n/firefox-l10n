@@ -12,8 +12,17 @@ Zdroj dat pro ping:
 Hledáte více informací?
 ">
 
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Dokumentace dat Firefoxu</a> obsahuje návody pro práci s našimi datovými nástroji.
+">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Dokumentace klienta telemetrie Firefoxu</a> obsahuje definice pojmů, dokumentaci API a popisy dat.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Nástěnky telemetrie</a> umožňují zobrazovat data, které Mozilla získává z telemetrie.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Současná data pro ping
