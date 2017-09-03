@@ -12,8 +12,17 @@
 Шукаеце больш інфармацыі?
 ">
 
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Дакументацыя дадзеных Firefox</a> змяшчае кіраўніцтва па працы з нашымі інструментамі збору дадзеных.
+">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Дакументацыя кліента тэлеметрыі Firefox</a> змяшчае вызначэнні канцэпцый, дакументацыю па API і даведку па дадзеных.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Панэлі Тэлеметрыі</a> дазваляюць вам візуалізаваць дадзеныя, атрыманыя Mozilla праз тэлеметрыю.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Дадзеныя бягучага пінга
