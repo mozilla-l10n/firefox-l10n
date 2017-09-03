@@ -36,4 +36,13 @@
 
 <!ENTITY advance.label "Avansert">
 <!ENTITY scriptsAndWindows.label "Skript og programtillegg">
+<!ENTITY keynav.label "Tastaturnavigasjon">
+<!ENTITY findAsYouType.label "Finn medan du skriv">
+<!ENTITY cache.label "Snøgglager">
+<!ENTITY offlineApps.label "Fråkopla appar">
+<!ENTITY proxies.label "Mellomtenarar">
+<!ENTITY httpnetworking.label "HTTP-nettverk">
+<!ENTITY smart.label "Programvareinstallasjon">
+<!ENTITY mousewheel.label "Musrullehjul">
 
+<!ENTITY focusSearch.key "f">
