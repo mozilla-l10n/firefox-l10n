@@ -27,7 +27,7 @@
 <!ENTITY findCmd.label             "Søk">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "S">
-<!ENTITY findAgainCmd.label        "Søk ein gong till">
+<!ENTITY findAgainCmd.label        "Søk igjen">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "i">
