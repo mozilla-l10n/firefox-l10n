@@ -100,7 +100,7 @@
 <!ENTITY detailsPane.more.label "Viac">
 <!ENTITY detailsPane.more.accesskey "V">
 <!ENTITY detailsPane.less.label "Menej">
-<!ENTITY detailsPane.less.accesskey "M">
+<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vyberte položku, ktorej vlastnosti chcete zobraziť alebo upraviť">
 
 <!ENTITY view.label               "Zobraziť">
@@ -113,5 +113,5 @@
 <!ENTITY byMostVisited.accesskey  "a">
 <!ENTITY byLastVisited.label      "podľa poslednej návštevy">
 <!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "podľa dátumu a servera">
-<!ENTITY byDayAndSite.accesskey   "m">
+<!ENTITY byDayAndSite.label       "podľa dátumu a názvu stránky">
+<!ENTITY byDayAndSite.accesskey   "t">
