@@ -118,9 +118,9 @@ available. -->
 
 <!ENTITY offlineAppsList3.label          "Laman web yang berikut telah dibenarkan untuk menyimpan data untuk digunakan ketika luar talian">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Alih keluar…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
-<!ENTITY offlineAppRemove.confirm        "Alih keluar data luar talian">
+<!ENTITY offlineAppsListRemove.label     "Buang…">
+<!ENTITY offlineAppsListRemove.accesskey "B">
+<!ENTITY offlineAppRemove.confirm        "Buang data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
 <!ENTITY certPersonal2.description       "Apabila pelayan meminta sijil peribadi anda">
