@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Aktivera fjärravlusning">
 <!ENTITY options.enableRemote.tooltip2  "Väljer du det här alternativet kan utvecklarverktygen avlusa fjärrinstanser av Firefox, såsom Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Aktivera felsökning worker (under utveckling)">
-<!ENTITY options.enableWorkers.tooltip  "Med det här alternativet påslaget gör att utvecklarverktygen kan felsöka workers">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,15 @@
 <!ENTITY options.screenshot.audio.label      "Spela slutarljud för kamera">
 <!ENTITY options.screenshot.audio.tooltip    "Aktiverar kameraljudet när du tar skärmdump">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Gemensamma Inställningar">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Nätverk">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aktivera konstant loggning">
-<!ENTITY options.enablePersistentLogs.tooltip  "Om du aktiverar detta alternativ kommer webbkonsolen inte att rensa utdatan varje gång du går till en ny sida">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Om du aktiverar detta alternativ kommer nätverksövervakaren inte att rensa utdata varje gång du går till en ny sida">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
