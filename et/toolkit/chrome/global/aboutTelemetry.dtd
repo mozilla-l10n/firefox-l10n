@@ -12,8 +12,17 @@ Andmete allikas:
 Soovid näha rohkem teavet?
 ">
 
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
+">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Mozilla telemeetria kaudu vastu võtab.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Praegused andmed
