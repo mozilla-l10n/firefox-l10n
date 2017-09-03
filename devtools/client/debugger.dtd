@@ -75,7 +75,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
-<!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penyaring Pembolehubah">
+<!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penapis Pembolehubah">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "K">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
@@ -103,7 +103,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "Saring Skrip">
+<!ENTITY debuggerUI.searchFile           "Tapis Skrip">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
