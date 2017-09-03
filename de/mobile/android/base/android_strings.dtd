@@ -296,7 +296,7 @@
 <!ENTITY custom_tabs_hint_url_copy "Adresse kopiert">
 
 <!ENTITY pref_pwa "Progressive Web Apps">
-<!ENTITY pref_pwa_summary "Hizufügen von Web-Apps zum Startbildschirm erlauben">
+<!ENTITY pref_pwa_summary "Hinzufügen von Web-Apps zum Startbildschirm erlauben">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktivitätenübersicht">
