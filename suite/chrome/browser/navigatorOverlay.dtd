@@ -5,17 +5,48 @@
 <!-- File Menu -->
 <!ENTITY tabCmd.label "Nettlesarfane">
 <!ENTITY tabCmd.accesskey "N">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Opne nettadresse…">
+<!ENTITY openCmd.accesskey "O">
+<!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Opne fil…">
+<!ENTITY openFileCmd.accesskey "n">
+<!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Lat att andre faner">
+<!ENTITY closeOtherTabs.accesskey "a">
 
+<!ENTITY uploadFile.label "Last opp fil…">
+<!ENTITY uploadFile.accesskey "F">
 
+<!ENTITY printSetupCmd.label "Utskriftsformat…">
+<!ENTITY printSetupCmd.accesskey "U">
 
 <!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Finn på denne sida…">
 
 <!-- View Menu -->
+<!ENTITY toolbarsCmd.label "Vis/Gøym">
+<!ENTITY toolbarsCmd.accesskey "V">
+<!ENTITY tabbarCmd.label "Fanelinje">
+<!ENTITY tabbarCmd.accesskey "F">
+<!ENTITY taskbarCmd.label "Statuslinje">
+<!ENTITY taskbarCmd.accesskey "S">
+<!ENTITY componentbarCmd.label "Komponentlinje">
+<!ENTITY componentbarCmd.accesskey "K">
 
+<!ENTITY fullScreenCmd.label "Fullskjerm">
+<!ENTITY fullScreenCmd.accesskey "F">
 
+<!ENTITY useStyleSheetMenu.label "Bruk stil">
+<!ENTITY useStyleSheetMenu.accesskey "B">
+<!ENTITY useStyleSheetNone.label "Ingen">
+<!ENTITY useStyleSheetNone.accesskey "I">
+<!ENTITY useStyleSheetPersistentOnly.label "Standardstil">
+<!ENTITY useStyleSheetPersistentOnly.accesskey "S">
+<!ENTITY bidiSwitchPageDirectionItem.label "Byt sideretning">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey "r">
+<!ENTITY pageSourceCmd.label "Vis kjeldekode">
 
 <!-- Go Menu -->
 <!ENTITY goHomeCmd.label "Heim">
