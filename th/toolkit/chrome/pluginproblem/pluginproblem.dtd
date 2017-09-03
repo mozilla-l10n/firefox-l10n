@@ -22,12 +22,12 @@
 <!ENTITY report.submitting                                   "กำลังส่งรายงาน…">
 <!ENTITY report.submitted                                    "ส่งรายงานแล้ว">
 <!ENTITY report.disabled                                     "รายงานข้อผิดพลาดถูกปิดใช้งาน">
-<!ENTITY report.failed                                       "ไม่สามารถส่งรายงานได้">
+<!ENTITY report.failed                                       "การส่งล้มเหลว">
 <!ENTITY report.unavailable                                  "ไม่มีรายงาน">
 <!ENTITY report.comment                                      "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
-<!ENTITY report.pageURL                                      "รวม URL หน้านี้ไว้ด้วย">
+<!ENTITY report.pageURL                                      "รวม URL ของหน้า">
 
 <!ENTITY plugin.file                                         "ไฟล์">
-<!ENTITY plugin.mimeTypes                                    "ชนิดของ MIME">
-<!ENTITY plugin.flashProtectedMode.label                     "เปิดใช้งาน Adobe Flash ในโหมดการป้องกัน">
-<!ENTITY plugin.enableBlocklists.label                       "ปิดกั้นเนื้อหา Flash ที่อันตรายและหลอกลวง">
+<!ENTITY plugin.mimeTypes                                    "ชนิด MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "เปิดใช้งาน Adobe Flash ในโหมดป้องกัน">
+<!ENTITY plugin.enableBlocklists.label                       "ปิดกั้นเนื้อหา Flash ที่อันตรายและบุกรุก">
