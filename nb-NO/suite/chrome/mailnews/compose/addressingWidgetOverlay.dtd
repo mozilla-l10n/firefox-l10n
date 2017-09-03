@@ -6,7 +6,7 @@
 <!--LOCALIZATION NOTE addressingWidgetOverlay.dtd The basic mail/news composition headers as they are seen in UI -->
 <!ENTITY toAddr.label   "Til:"> 
 <!ENTITY ccAddr.label   "Kopi til:"> 
-<!ENTITY bccAddr.label  "Blind kopi til:"> 
+<!ENTITY bccAddr.label  "Blindkopi til:"> 
 <!ENTITY replyAddr.label   "Svar til:"> 
 <!ENTITY newsgroupsAddr.label   "Nyhetsgruppe:"> 
 <!ENTITY followupAddr.label   "Oppfølging til:"> 

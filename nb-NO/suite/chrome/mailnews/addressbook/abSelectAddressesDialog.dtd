@@ -10,7 +10,7 @@
 <!ENTITY toButton.accesskey                  "T"> 
 <!ENTITY ccButton.label                      "Kopi til->"> 
 <!ENTITY ccButton.accesskey                  "C"> 
-<!ENTITY bccButton.label                     "Blind kopi til->">  
+<!ENTITY bccButton.label                     "Blindkopi til->">  
 <!ENTITY bccButton.accesskey                 "B">  
 <!ENTITY newButton.label                     "Ny …"> 
 <!ENTITY newButton.accesskey                 "N"> 

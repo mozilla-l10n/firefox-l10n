@@ -11,7 +11,7 @@
 <!ENTITY subjectField.label "Emne">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField.label "Kopi ">
-<!ENTITY bccField.label "Blind kopi ">
+<!ENTITY bccField.label "Blindkopi: ">
 <!ENTITY newsgroupsField.label "Nyhetsgruppe ">
 <!ENTITY followupToField.label "Oppfølging til ">
 
