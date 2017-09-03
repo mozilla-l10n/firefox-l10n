@@ -179,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Přehrát zvuk spouště fotoaparátu">
 <!ENTITY options.screenshot.audio.tooltip    "Umožňuje zvuk fotoaparátu při pořizování snímku obrazovky">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Obecné předvolby">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Síť">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Povolit ukládání protokolu natrvalo">
-<!ENTITY options.enablePersistentLogs.tooltip  "Pokud povolíte tuto volbu, nebude Webová konzole promazávána pokaždé, když se rozhodnete navštívit novou stránku">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Povolit ukládání protokolu natrvalo">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Pokud povolíte tuto volbu, nebude monitor síťové aktivity promazáván pokaždé, když se rozhodnete navštívit novou stránku">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
