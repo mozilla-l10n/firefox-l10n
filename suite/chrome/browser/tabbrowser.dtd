@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  untitledTab            "(Namnlaus)">
+<!ENTITY  newTab.label           "Ny fane">
+<!ENTITY  newTab.accesskey       "N">
+<!ENTITY  closeTab.label         "Lukk fane">
+<!ENTITY  closeTab.accesskey         "L">
+<!ENTITY  closeOtherTabs.label   "Lukk andre faner">
+<!ENTITY  closeOtherTabs.accesskey         "O">
+<!ENTITY  reloadAllTabs.label    "Oppdater alle faner">
+<!ENTITY  reloadAllTabs.accesskey         "d">
+<!ENTITY  reloadTab.label        "Oppdater fane">
+<!ENTITY  reloadTab.accesskey         "O">
+<!ENTITY  bookmarkGroup.label    "Bokmerk denne gruppa av faner">
+<!ENTITY  bookmarkGroup.accesskey  "B">
+<!ENTITY  closeTabButton.tooltip   "Lukk denne fana">
+<!ENTITY  newTabButton.tooltip   "Opne ei ny fane">
+<!ENTITY  listAllTabs.tooltip    "List opp alle faner">
+<!ENTITY  undoCloseTab.label    "Angre lukking av fane">
+<!ENTITY  undoCloseTab.accesskey  "U">
