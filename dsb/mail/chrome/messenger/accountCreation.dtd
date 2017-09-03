@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "E-mailowe konto zarědowaś">
+<!ENTITY autoconfigWizard2.title         "Eksistěrujuce e-mailowe konto konfigurěrowaś">
 <!ENTITY name.label                      "Twójo mě:">
 <!ENTITY name.accesskey                  "T">
 <!ENTITY name.placeholder                "Pśedmě Familijowe mě">
 <!ENTITY name.text                       "Wašo mě, kaž wóno pokažo se drugim luźam">
 <!ENTITY email.label                     "Emailowa adresa:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "wy@example.com">
+<!ENTITY email.text                      "Waša eksistěrujuca e-mailowa adresa">
 <!ENTITY password.label                  "Gronidło:">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Gronidło">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "Z">
 <!ENTITY manual-edit.label               "Manuelna konfiguracija">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "Nowe konto">
-<!ENTITY switch-to-provisioner.accesskey "N">
+<!ENTITY open-provisioner.label          "Wobstarajśo se nowu e-mailowu adresu…">
+<!ENTITY open-provisioner.accesskey      "s">
 
 
 <!ENTITY warning.label                   "Warnowanje!">
