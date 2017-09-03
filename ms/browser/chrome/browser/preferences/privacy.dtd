@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.pre.label           "Anda mungkin mahu ">
 <!ENTITY  rememberActions.clearHistory.label  "hapuskan sejarah layaran terkini anda">
 <!ENTITY  rememberActions.middle.label        ", atau ">
-<!ENTITY  rememberActions.removeCookies.label "alih keluar kuki individu">
+<!ENTITY  rememberActions.removeCookies.label "buang kuki individu">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
