@@ -35,7 +35,10 @@
 <!ENTITY  locbar.searches.accesskey     "d">
 
 
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
 <!ENTITY  acceptThirdParty.visited.label  "મુલાકાત લીધેલ">
@@ -98,3 +101,6 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "સેટીંગ…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "વધુ શીખો">

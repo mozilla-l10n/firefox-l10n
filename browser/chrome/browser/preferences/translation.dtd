@@ -14,7 +14,7 @@
 <!ENTITY removeAllLanguages.accesskey     "e">
 
 <!ENTITY noTranslationForSites.label      "અનુવાદને નીચેની સાઇટ માટે માંગણી કરેલ હશે નહિં:">
-<!ENTITY treehead.siteName.label          "સાઇટ">
+<!ENTITY treehead.siteName2.label         "વેબસાઈટસ">
 <!ENTITY removeSite.label                 "સાઇટ દૂર કરો">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "બધી સાઇટ દૂર કરો">

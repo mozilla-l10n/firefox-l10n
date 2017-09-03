@@ -64,11 +64,11 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "તમે તમારા વેબ ને લો">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; સાથે કનેક્ટ કરો">
-<!ENTITY signedOut.accountBox.create  "ખાતાને બનાવો">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "સાઇન ઇન કરો">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "સાઇન ઇન કરો…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
+<!ENTITY signedIn.settings.label       "સમન્વયન સેટિંગ્સ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
