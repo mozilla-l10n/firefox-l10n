@@ -10,7 +10,7 @@
 <!ENTITY removepermission2.label      "Buang Laman Web">
 <!ENTITY removepermission2.accesskey  "B">
 <!ENTITY removeallpermissions2.label  "Buang Semua Laman Web">
-<!ENTITY removeallpermissions2.accesskey "a">
+<!ENTITY removeallpermissions2.accesskey "u">
 <!ENTITY address2.label               "Alamat laman web">
 <!ENTITY address2.accesskey           "l">
 <!ENTITY block.label                  "Sekat">
