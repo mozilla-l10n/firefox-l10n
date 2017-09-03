@@ -10,7 +10,9 @@
 
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Isefkan Ping amiran">
 

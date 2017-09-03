@@ -29,7 +29,7 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "Iγewwaṛen">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Ismenyifen ">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Ismenyifen">
 <!ENTITY abouthome.addonsButton.label    "Izegrar ">
 <!ENTITY abouthome.downloadsButton.label "Isidar ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label; ">
