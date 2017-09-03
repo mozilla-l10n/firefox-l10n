@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "niekada">
 
 <!ENTITY  color                           "Tekstas ir fonas">
-
-
-
-
+<!ENTITY  textColor2.label                "Tekstas">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fonas">
+<!ENTITY  backgroundColor2.accesskey      "F">
 <!ENTITY  useSystemColors.label           "Spalvas imti iš operacinės sistemos">
 <!ENTITY  useSystemColors.accesskey       "o">
 
 <!ENTITY  underlineLinks.label            "Saitus pabraukti">
 <!ENTITY  underlineLinks.accesskey        "b">
 <!ENTITY  links                           "Saitų spalvos">
-
-
-
-
+<!ENTITY  linkColor2.label                "Neaplankyti saitai">
+<!ENTITY  linkColor2.accesskey            "S">
+<!ENTITY  visitedLinkColor2.label         "Aplankyti saitai">
+<!ENTITY  visitedLinkColor2.accesskey     "A">
