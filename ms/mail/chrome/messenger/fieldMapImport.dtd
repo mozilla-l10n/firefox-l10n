@@ -17,3 +17,4 @@
 <!ENTITY fieldMapImport.fieldListTitle "Medan Buku Alamat">
 <!ENTITY fieldMapImport.dataTitle "Data rekod untuk diimport">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Rekod pertama mengandungi medan nama">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "R">
