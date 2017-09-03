@@ -4,3 +4,4 @@
 
 <!ENTITY searchBox.placeholder "Filtrar elementos">
 <!ENTITY storage.popupMenu.deleteAllLabel "Eliminar todo">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Eliminar todas las cookies de sesión">
