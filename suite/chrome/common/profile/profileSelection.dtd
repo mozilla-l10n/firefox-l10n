@@ -14,7 +14,7 @@
 
 <!ENTITY            availableProfiles.label "Tilgjengelige profiler">
 
-<!ENTITY            introStart.label         "For å få tilgang til din personlige profil, som inneholder lagrede meldinger, innstillinger og andre personlig informasjon, velg profilen fra listen og trykk &start.label; for å starte programøkten.">
+<!ENTITY            introStart.label         "For å få tilgang til din personlige profil, som inneholder lagrede meldinger, innstillinger og annen personlig informasjon, velg profilen fra listen og trykk &start.label; for å starte programøkten.">
 <!ENTITY            introSwitch.label        "For å bytte til en annen profil, som inneholder lagrede meldinger, innstillinger og andre personlig informasjon, velg profilen fra listen og trykk &select.label; for å begynne bruke profilen.">
 <!ENTITY            profileManagerText.label "&brandShortName; lagrer informasjon om dine innstillinger, bokmerker og lagrede e-post og annen data i brukerprofilen.">
 
