@@ -179,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Reproducir sonido de obturador de cámara">
 <!ENTITY options.screenshot.audio.tooltip    "Habilita el sonido de cámara al hacer una captura de pantalla">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Preferencias comunes">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Red">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Habilitar registros persitentes">
-<!ENTITY options.enablePersistentLogs.tooltip  "Si habiltia esta opción las consolas web y red no borrarán la salida cada vez que se navegue a una nueva página">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Habilitar registros persistentes">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "AL habilitar esta opción el monitor de red no borrará la salida cada vez que se navegue a una nueva página">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
