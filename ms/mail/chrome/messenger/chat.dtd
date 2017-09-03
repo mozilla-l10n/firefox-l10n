@@ -27,7 +27,18 @@
 <!ENTITY aliasCmd.label                "Namakan semula">
 <!ENTITY aliasCmd.accesskey            "N">
 <!ENTITY deleteCmd.label               "Buang Kenalan">
+<!ENTITY deleteCmd.accesskey           "g">
 
+<!ENTITY openConversationButton.tooltip  "Mulakan perbualan">
+<!ENTITY closeConversationButton.tooltip "Tutup perbualan">
 
+<!ENTITY addBuddyButton.label          "Tambah Kenalan">
+<!ENTITY joinChatButton.label          "Sertai Sembang">
+<!ENTITY chatAccountsButton.label      "Papar Akaun">
 
+<!ENTITY status.available          "Ada">
+<!ENTITY status.unavailable        "Tiada">
+<!ENTITY status.offline            "Luar talian">
 
+<!ENTITY openLinkCmd.label            "Buka Pautan…">
+<!ENTITY openLinkCmd.accesskey        "B">
