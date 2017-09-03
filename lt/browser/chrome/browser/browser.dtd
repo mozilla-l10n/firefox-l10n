@@ -825,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "n">
 <!ENTITY syncToolbarButton.label      "Sinchronizuoti">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Nutempkite savo mėgstamiausius elementus į priemonių juostą arba perpildymo meniu.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Norite daugiau priemonių?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pasirinkite jas iš tūkstančių priedų">
 <!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
@@ -969,5 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso juosta">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso juostos">
 
+<!ENTITY sendToDevice.label3 "Nusiųsti tinklalapį į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
 
+<!ENTITY libraryButton.tooltip "Peržiūrėti žurnalą, adresyno įrašus ir daugiau">
