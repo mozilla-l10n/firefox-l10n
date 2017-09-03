@@ -10,7 +10,7 @@
 <!ENTITY email.label                     "E-posti aadress:">
 <!ENTITY email.accesskey                 "p">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "sinu@aadress.ee">
+<!ENTITY email2.placeholder              "sinu.aadress@example.com">
 <!ENTITY email.text                      "Sinu olemasolev e-posti aadress">
 <!ENTITY password.label                  "Parool:">
 <!ENTITY password.accesskey              "r">
