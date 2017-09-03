@@ -1,0 +1,32 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY            windowTitle.label    "Vel brukarprofil">
+<!ENTITY            profileManager.title "&brandShortName; profilhandtering">
+
+<!ENTITY            manage.label     "Handter profilar…">
+<!ENTITY            manage.accesskey "H">
+<!ENTITY            select.label     "Bruk profil">
+
+<!ENTITY            availableProfiles.label "Tilgjengelege profilar">
+
+
+<!ENTITY            autoSelect.label         "Bruk profilen som standard">
+<!ENTITY            autoSelect.accesskey     "B">
+
+<!ENTITY            start.label              "Start &brandShortName;">
+<!ENTITY            exit.label               "Avslutt">
+
+<!ENTITY            newButton.label          "Lag ny profil…">
+<!ENTITY            newButton.accesskey      "L">
+<!ENTITY            renameButton.label       "Endre profilnamn…">
+<!ENTITY            renameButton.accesskey   "r">
+<!ENTITY            deleteButton.label       "Slett profil…">
+<!ENTITY            deleteButton.accesskey   "S">
+
+<!ENTITY            offlineState.label       "Arbeid fråkopla">
+<!ENTITY            offlineState.accesskey   "o">
