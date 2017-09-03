@@ -61,8 +61,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "Alih keluar Daripada Sejarah">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "Buang Daripada Sejarah">
+<!ENTITY cmd.removeFromHistory.accesskey  "u">
 <!ENTITY cmd.clearList2.label             "Buang Panel Previu">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Buang Muat turun">
@@ -81,13 +81,13 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Alih keluar Fail atau Izinkan Muat turun">
+<!ENTITY cmd.chooseUnblock.label          "Buang Fail atau Izinkan Muat turun">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Buka atau Alih keluar Fail">
+<!ENTITY cmd.chooseOpen.label             "Buka atau Buang Fail">
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
