@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "ไซต์นี้ใช้ปลั๊กอินที่อาจทำให้ &brandShortName; ช้าลง">
 <!ENTITY tapToPlayPlugin                                     "แตะที่นี่เพือเปิดใช้งานปลั๊กอิน">
 <!ENTITY clickToActivatePlugin                               "เปิดใช้งานปลั๊กอิน">
 <!ENTITY checkForUpdates                                     "ตรวจสอบการอัปเดต…">
@@ -20,7 +21,7 @@
 <!ENTITY report.please                                       "ส่งรายงานข้อผิดพลาด">
 <!ENTITY report.submitting                                   "กำลังส่งรายงาน…">
 <!ENTITY report.submitted                                    "ส่งรายงานแล้ว">
-<!ENTITY report.disabled                                     "ปิดการงานรายงานความผิดพลาด">
+<!ENTITY report.disabled                                     "รายงานข้อผิดพลาดถูกปิดใช้งาน">
 <!ENTITY report.failed                                       "ไม่สามารถส่งรายงานได้">
 <!ENTITY report.unavailable                                  "ไม่มีรายงาน">
 <!ENTITY report.comment                                      "เพิ่มความคิดเห็น (ความคิดเห็นจะปรากฏต่อสาธารณะ)">
