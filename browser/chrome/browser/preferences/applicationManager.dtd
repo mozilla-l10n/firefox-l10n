@@ -4,5 +4,5 @@
 
 <!ENTITY appManager.title     "Butiran aplikasi">
 <!ENTITY appManager.style     "width: 30em; min-height: 20em;">
-<!ENTITY remove.label         "Alih keluar">
-<!ENTITY remove.accesskey     "A">
+<!ENTITY remove.label         "Buang">
+<!ENTITY remove.accesskey     "B">

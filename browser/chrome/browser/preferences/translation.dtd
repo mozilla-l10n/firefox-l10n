@@ -11,7 +11,7 @@
 <!ENTITY removeLanguage.label             "Buang Bahasa">
 <!ENTITY removeLanguage.accesskey         "B">
 <!ENTITY removeAllLanguages.label         "Buang Semua Bahasa">
-<!ENTITY removeAllLanguages.accesskey     "e">
+<!ENTITY removeAllLanguages.accesskey     "u">
 
 <!ENTITY noTranslationForSites.label      "Terjemahan tidak akan ditawarkan kepada laman berikut:">
 <!ENTITY treehead.siteName2.label         "Laman web">
