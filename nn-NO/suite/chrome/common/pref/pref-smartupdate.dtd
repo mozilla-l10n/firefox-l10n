@@ -26,3 +26,6 @@
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "k">
 <!ENTITY appModeAutomatic.label               "Automatisk last ned og installer oppdateringa">
+<!ENTITY appModeAutomatic.accesskey           "A">
+<!ENTITY updateHistoryButton.label            "Vis oppdateringshistorikk…">
+<!ENTITY updateHistoryButton.accesskey        "V">
