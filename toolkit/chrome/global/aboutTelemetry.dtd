@@ -6,6 +6,14 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Žrědło pingdatow:">
 
+<!ENTITY aboutTelemetry.moreInformations "Pytaśo dalšne informacije?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Datowa dokumentacija Firefox</a> rozpokazanja wó źěłanju z našymi datowymi rědami wopśimujo.">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Klientowa dokumentacija za telemetriju Firefox</a> definicije za koncepty, API-dokumentaciju a datowe reference wopśimujo.">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetrijowy pśeglěd</a> wam zmóžnja, daty wizualizěrowaś, kótarež Mozilla pśez telemetriju dostawa.">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktualne pingdaty">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwěrowane pingdaty">
@@ -43,8 +51,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Pómałe SQL-pśikaze">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Wisanja wobglědowaka">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Wisanja nitkow">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  Zwěsćone štapjele">
 
