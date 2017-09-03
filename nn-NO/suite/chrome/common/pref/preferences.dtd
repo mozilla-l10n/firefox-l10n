@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+<!ENTITY prefWindow.title "Innstillingar">
+<!ENTITY categoryHeader "Kategori">
+
+<!ENTITY appear.label "Utsjånad">
+<!ENTITY content.label "Innhald">
+<!ENTITY fonts.label "Skrifter">
+<!ENTITY colors.label "Fargar">
+<!ENTITY spellingPane.label "Stavekontroll">
+
+<!ENTITY navigator.label "Nettlesar">
+<!ENTITY history.label "Historikk">
+<!ENTITY languages.label "Språk">
+<!ENTITY applications.label "Hjelpeprogram">
+<!ENTITY locationBar.label "Adresselinje">
+<!ENTITY search.label "Søk på internett">
+<!ENTITY tabWindows.label "Nettlesing med faner">
+<!ENTITY links.label "Lenkeoppførsel">
+<!ENTITY download.label "Nedlastingar">
+
+<!ENTITY security.label "Personvern og sikkerheit">
+<!ENTITY privatedata.label "Private data">
+<!ENTITY cookies.label "Infokapslar">
+<!ENTITY images.label "Bilde">
+<!ENTITY popups.label "Sprettoppvindauge">
+<!ENTITY passwords.label "Passord">
+<!ENTITY masterpass.label "Hovudpassord">
+<!ENTITY ssltls.label "SSL/TLS">
+<!ENTITY certs.label "Sertifikat">
+
+<!ENTITY sync.label "Sync">
+
+<!ENTITY advance.label "Avansert">
+<!ENTITY scriptsAndWindows.label "Skript og programtillegg">
+
