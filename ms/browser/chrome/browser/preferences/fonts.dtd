@@ -24,34 +24,34 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "Latin">
-<!ENTITY  font.langGroup.japanese                 "Jepun">
-<!ENTITY  font.langGroup.trad-chinese             "Cina Tradisional (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Cina Dipermudah">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Cina Tradisional (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "Korea">
-<!ENTITY  font.langGroup.cyrillic                 "Cyril">
-<!ENTITY  font.langGroup.el                       "Yunani">
+<!ENTITY  font.langGroup.japanese                 "Japanese">
+<!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Korean">
+<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+<!ENTITY  font.langGroup.el                       "Greek">
 <!ENTITY  font.langGroup.other                    "Sistem Penulisan Lain">
 <!ENTITY  font.langGroup.thai                     "Thai">
-<!ENTITY  font.langGroup.hebrew                   "Ibrani">
-<!ENTITY  font.langGroup.arabic                   "Arab">
+<!ENTITY  font.langGroup.hebrew                   "Hebrew">
+<!ENTITY  font.langGroup.arabic                   "Arabic">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
-<!ENTITY  font.langGroup.armenian                 "Armenia">
+<!ENTITY  font.langGroup.armenian                 "Armenian">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Ejaan sukuan Kanada Bersatu">
-<!ENTITY  font.langGroup.ethiopic                 "Ethiopia">
-<!ENTITY  font.langGroup.georgian                 "Georgia">
-<!ENTITY  font.langGroup.gujarati                 "Gujarat">
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Ethiopic">
+<!ENTITY  font.langGroup.georgian                 "Georgian">
+<!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
-<!ENTITY  font.langGroup.khmer                    "Cambodian">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-<!ENTITY  font.langGroup.math                     "Matematik">
+<!ENTITY  font.langGroup.math                     "Mathematics">
 <!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
-<!ENTITY  font.langGroup.tibetan                  "Tibet">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize2.label                           "Saiz fon minimum">
 <!ENTITY minSize2.accesskey                       "o">
@@ -64,7 +64,7 @@
 <!ENTITY  allowPagesToUseOwn.label                "Izinkan halaman memilih fon sendiri, bukannya pilihan anda di atas">
 <!ENTITY  allowPagesToUseOwn.accesskey            "I">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Enkod Karakter untuk Legasi Maklumat">
+<!ENTITY languages.customize.Fallback2.grouplabel "Pengekodan Teks untuk Kandungan Legasi">
 <!ENTITY languages.customize.Fallback3.label      "Pengekodan Teks Unduran">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Pengekodan aksara ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
@@ -72,36 +72,36 @@
 <!ENTITY languages.customize.Fallback.auto        "Lokaliti Semasa Piawai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "Arab">
-<!ENTITY languages.customize.Fallback.baltic      "Baltik">
-<!ENTITY languages.customize.Fallback.ceiso       "Eropah Tengah, ISO">
-<!ENTITY languages.customize.Fallback.cewindows   "Eropah Tengah, Microsoft">
+<!ENTITY languages.customize.Fallback.arabic      "Arabic">
+<!ENTITY languages.customize.Fallback.baltic      "Baltic">
+<!ENTITY languages.customize.Fallback.ceiso       "Central European, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Central European, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Cina, Dipermudah">
+<!ENTITY languages.customize.Fallback.simplified  "Chinese, Simplified">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Cina, Tradisi">
-<!ENTITY languages.customize.Fallback.cyrillic    "Cyril">
+<!ENTITY languages.customize.Fallback.traditional "Chinese, Traditional">
+<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "Yunani">
+<!ENTITY languages.customize.Fallback.greek       "Greek">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "Ibrani">
+<!ENTITY languages.customize.Fallback.hebrew      "Hebrew">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "Jepun">
+<!ENTITY languages.customize.Fallback.japanese    "Japanese">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "Korea">
+<!ENTITY languages.customize.Fallback.korean      "Korean">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Thai">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Turki">
+<!ENTITY languages.customize.Fallback.turkish     "Turkish">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnam">
-<!ENTITY languages.customize.Fallback.other       "Lain-lain (termasuk Eropah Barat)">
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamese">
+<!ENTITY languages.customize.Fallback.other       "Lain-lain (termasuk Western European)">
