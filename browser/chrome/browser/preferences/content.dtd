@@ -14,16 +14,22 @@
 <!ENTITY  popupExceptions.label                                 "Išimtys">
 <!ENTITY  popupExceptions.accesskey                             "I">
 
-
 <!ENTITY  notificationPermissions.label                         "Pranešimai">
+<!ENTITY  notificationSettingsButton.label                      "Nuostatos…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Sužinoti daugiau">
 
+<!ENTITY  locationPermissions.label                             "Vieta">
+<!ENTITY  locationSettingsButton.label                          "Nuostatos…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Nuostatos…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "Mikrofonas">
+<!ENTITY  microphoneSettingsButton.label                        "Nuostatos…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Šriftai ir spalvos">
 
@@ -48,6 +54,7 @@
 <!ENTITY translateWebPages.accesskey  "V">
 <!ENTITY translateExceptions.label    "Išimtys…">
 <!ENTITY translateExceptions.accesskey "š">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -55,7 +62,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Vertimą teikia">
 <!ENTITY translation.options.attribution.afterLogo "">
 

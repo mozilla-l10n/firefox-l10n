@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "P">
 <!ENTITY removeallpermissions2.label  "Pašalinti visas svetaines">
 <!ENTITY removeallpermissions2.accesskey "v">
-
-
+<!ENTITY address2.label               "Svetainės adresas">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Neleisti">
 <!ENTITY block.accesskey              "N">
 <!ENTITY session.label                "Leisti vienam seansui">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Įrašyti pakeitimus">
 <!ENTITY button.ok.accesskey          "r">
 
+<!ENTITY searchbox.placeholder        "Ieškoti svetainėje">
