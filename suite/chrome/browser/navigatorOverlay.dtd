@@ -111,6 +111,12 @@
 
 <!ENTITY cookieImageMessageTitle.label "Løyve for bilde endra">
 <!ENTITY cookieDisplayImagesCmd.label "Handter bildeløyve">
+<!ENTITY cookieDisplayImagesCmd.accesskey "e">
+<!ENTITY cookieAllowImagesCmd.label "Tillat bilde frå denne nettstaden">
+<!ENTITY cookieAllowImagesCmd.accesskey "T">
+<!ENTITY cookieAllowImagesMsg.label "Bilde frå denne nettstaden vil alltid bli lasta ned.">
+<!ENTITY cookieImagesDefaultCmd.label "Bruk standard bildeløyve">
+<!ENTITY cookieImagesDefaultCmd.accesskey "u">
 
 
 
