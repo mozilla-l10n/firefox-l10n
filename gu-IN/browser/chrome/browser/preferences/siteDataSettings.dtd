@@ -14,3 +14,4 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "રદ કરો">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "સાઇટ ડેટા દૂર કરી રહ્યા છીએ">

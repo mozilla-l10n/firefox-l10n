@@ -15,16 +15,20 @@
 <!ENTITY  popupExceptions.accesskey                             "E">
 
 <!ENTITY  notificationPermissions.label                         "સૂચનાઓ">
+<!ENTITY  notificationSettingsButton.label                      "સેટિંગ્સ…">
 <!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "વધુ શીખો">
 
 <!ENTITY  locationPermissions.label                             "સ્થાન">
+<!ENTITY  locationSettingsButton.label                          "સેટિંગ્સ…">
 <!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "કેમેરા">
+<!ENTITY  cameraSettingsButton.label                            "સેટીંગ…">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "માઇક્રોફોન">
+<!ENTITY  microphoneSettingsButton.label                        "સેટીંગ…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "ફોન્ટ &amp; રંગો">
