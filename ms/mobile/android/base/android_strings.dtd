@@ -71,13 +71,13 @@
 <!ENTITY url_bar_default_text2 "Cari atau masukkan alamat">
 
 <!ENTITY bookmark "Tandabuku">
-<!ENTITY bookmark_remove "Alih keluar tandabuku">
+<!ENTITY bookmark_remove "Buang tandabuku">
 <!ENTITY bookmark_added "Tandabuku ditambah">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Sudah ditandabuku">
-<!ENTITY bookmark_removed "Tandabuku dialih keluar">
+<!ENTITY bookmark_removed "Tandabuku dibuang">
 <!ENTITY bookmark_updated "Tandabuku dikemaskini">
 <!ENTITY bookmark_options "Pilihan">
 <!ENTITY bookmark_save "Simpan">
@@ -409,7 +409,7 @@
 
 <!ENTITY pref_dialog_set_default "Tetapkan sebagai piawai">
 <!ENTITY pref_dialog_default "Piawai">
-<!ENTITY pref_dialog_remove "Alih keluar">
+<!ENTITY pref_dialog_remove "Buang">
 
 <!ENTITY pref_search_last_toast "Anda tidak boleh mengalih keluar atau menyahdayakan enjin carian terakhir anda.">
 
@@ -498,7 +498,7 @@
 
 <!ENTITY contextmenu_open_new_tab "Buka dalam Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
-<!ENTITY contextmenu_remove "Alih keluar">
+<!ENTITY contextmenu_remove "Buang">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Halaman utama">
 <!ENTITY contextmenu_set_as_homepage "Tetapkan sebagai Halaman Utama">
 <!ENTITY contextmenu_share "Kongsi">
@@ -542,7 +542,7 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Halaman dialih keluar">
+<!ENTITY page_removed "Halaman telah dibuang">
 
 <!ENTITY bookmark_edit_title "Edit Tandabuku">
 <!ENTITY bookmark_edit_folder_title "Edit Folder">
@@ -562,7 +562,7 @@
 <!ENTITY page_action_dropmarker_description "Tindakan Tambahan">
 
 <!ENTITY masterpassword_create_title "Cipta Kata Laluan Induk">
-<!ENTITY masterpassword_remove_title "Alih keluar Kata laluan Induk">
+<!ENTITY masterpassword_remove_title "Buang Kata laluan Induk">
 <!ENTITY masterpassword_password "Kata laluan">
 <!ENTITY masterpassword_confirm "Sahkan kata laluan">
 
