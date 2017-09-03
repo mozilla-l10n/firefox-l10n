@@ -23,7 +23,7 @@
 <!ENTITY restoreDefaultSearchEngines.label     "Pulih Enjin Carian Piawai">
 <!ENTITY restoreDefaultSearchEngines.accesskey "w">
 
-<!ENTITY removeEngine.label                    "Alih keluar">
-<!ENTITY removeEngine.accesskey                "r">
+<!ENTITY removeEngine.label                    "Buang">
+<!ENTITY removeEngine.accesskey                "u">
 
 <!ENTITY findMoreSearchEngines.label           "Cari lebih banyak enjin carian">
