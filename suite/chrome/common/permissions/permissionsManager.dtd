@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY windowtitle.label              "Unntak">
+<!ENTITY treehead.sitename.label        "Nettstad">
+<!ENTITY treehead.status.label          "Status">
+<!ENTITY remove.label                   "Fjern nettstad">
+<!ENTITY remove.accesskey               "F">
+<!ENTITY removeall.label                "Fjern alle nettstadane">
+<!ENTITY removeall.accesskey            "e">
+<!ENTITY address.label                  "Adresse til nettstaden:">
+<!ENTITY address.accesskey              "d">
+<!ENTITY block.label                    "Blokker">
+<!ENTITY block.accesskey                "B">
