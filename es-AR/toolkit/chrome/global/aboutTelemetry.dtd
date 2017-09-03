@@ -8,6 +8,19 @@
 Fuente de datos de ping:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+¿Buscando más información?
+">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+La <a>documentación de datos de Firefox</a> contiene guías sobre como trabajar con nuestras herramientas de datos.
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+La <a>documentación del cliente Telemetry de Firefox</a> incluye definiciones para conceptos, documentación de API y referencias de datos.
+">
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Datos de ping actuales
 ">
@@ -82,10 +95,6 @@ Antiguo
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
   Colgadas del navegador
-">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Colgadas del hilo
 ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
