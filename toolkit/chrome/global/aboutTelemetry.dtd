@@ -8,6 +8,13 @@
 Zdroj dat pro ping:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Hledáte více informací?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Současná data pro ping
 ">
@@ -79,10 +86,6 @@ Starší
 <!ENTITY aboutTelemetry.slowSqlSection "Pomalé dotazy SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Zatuhnutí prohlížeče">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Zatuhnutí vláken
-">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Zachycené zásobníky
