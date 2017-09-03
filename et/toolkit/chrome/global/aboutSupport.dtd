@@ -70,6 +70,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Mitme protsessiga aknad">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Veebisisu protsessid">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google võti">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla asukohateenuse võti">
 
@@ -109,6 +111,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Hõlbustus">
 <!ENTITY aboutSupport.a11yActivated "Aktiveeritud">
 <!ENTITY aboutSupport.a11yForceDisabled "Hõlbustus on keelatud">
+<!ENTITY aboutSupport.a11yHandlerUsed "Accessible Handler Used">
+<!ENTITY aboutSupport.a11yInstantiator "Accessibility Instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Teekide versioonid">
 
@@ -139,3 +143,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Otsuste logi">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Vigade vältimise tõttu keelatud funktsionaalsus">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Hädalahendused">
+
+<!ENTITY aboutSupport.mediaTitle "Meedia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Väljundseadmed">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Sisendseadmed">
+<!ENTITY aboutSupport.mediaDeviceName "Nimi">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupp">
+<!ENTITY aboutSupport.mediaDeviceVendor "Tootja">
+<!ENTITY aboutSupport.mediaDeviceState "Olek">
+<!ENTITY aboutSupport.mediaDevicePreferred "Eelistatud">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formaat">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanalid">
+<!ENTITY aboutSupport.mediaDeviceRate "Sagedus">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latentsus">
