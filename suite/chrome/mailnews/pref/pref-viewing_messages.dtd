@@ -36,3 +36,12 @@
 
 <!ENTITY openingMessages.label            "Ved opning av meldingar, vis dei i:">
 <!ENTITY newWindowRadio.label             "Eit nytt vindauge">
+<!ENTITY newWindowRadio.accesskey         "n">
+<!ENTITY existingWindowRadio.label        "Eit eksisterande vindauge">
+<!ENTITY existingWindowRadio.accesskey    "E">
+<!ENTITY disableContent.label             "Blokker bilde og anna innhald frå Internett">
+<!ENTITY disableContent.accesskey         "B">
+<!ENTITY showCondensedAddresses.label     "Vis berre namnet for personar i adresseboka">
+<!ENTITY showCondensedAddresses.accesskey "V">
+<!ENTITY closeMsgWindowOnDelete.label     "Lukk meldingsvindauget når meldinga vert sletta">
+<!ENTITY closeMsgWindowOnDelete.accesskey "L">
