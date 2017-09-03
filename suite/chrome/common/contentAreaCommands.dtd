@@ -39,6 +39,8 @@
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label     "Vel skrivebordsbakgrunn…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "V">
+<!ENTITY saveFrameAsCmd.label         "Lagre ramme som…">
+<!ENTITY saveFrameCmd.label           "Lagre ramme">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->

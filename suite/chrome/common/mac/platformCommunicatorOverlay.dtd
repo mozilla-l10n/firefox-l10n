@@ -15,17 +15,33 @@
   
   
 
+<!ENTITY printSetupCmd.label            "Utskriftsformat…">
+<!ENTITY printSetupCmd.accesskey        "k">
 
+<!ENTITY findReplaceCmd.key             "F">
+<!ENTITY redoCmd.key                    "Z">
 
 <!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
   Address Book -->
+<!ENTITY showHideSidebarCmd.key         "S">
+<!ENTITY toggleFolderPaneCmd.key        "S">
+<!ENTITY toggleDirectoryPaneCmd.key     "S">
 
-  
+<!ENTITY historyCmd.key                 "H">  
 
+<!ENTITY findTypeTextCmd.key            "">
+<!ENTITY findTypeLinksCmd.key           "">
 
+<!ENTITY accel.emacs_conflict           "accel">
 
+<!ENTITY minimizeWindowCmd.label        "Minimer">
+<!ENTITY minimizeWindowCmd.key          "M">
+<!ENTITY zoomWindowCmd.label            "Zoom">
 
 <!-- Help menu -->
+<!ENTITY openHelpCmd.label              "&brandShortName; Hjelp">
+<!ENTITY openHelpCmd.accesskey          "H">
+<!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
 
 <!-- Key labels, for mousewheel prefs -->
