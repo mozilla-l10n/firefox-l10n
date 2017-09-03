@@ -54,9 +54,9 @@
 <!ENTITY options.screenshot.clipboard.tooltip "Guardar la captura de pantalla directamente en el portapapeles">
 <!ENTITY options.screenshot.audio.label "Reproducir sonido del obturador de la cámara">
 <!ENTITY options.screenshot.audio.tooltip "Activa el sonido de la cámara al tomar una captura">
-<!ENTITY options.commonPrefs.label "Preferencias comunes">
-<!ENTITY options.enablePersistentLogs.label "Activar registros persistentes">
-<!ENTITY options.enablePersistentLogs.tooltip "Si activa esta opción, la consola web y el monitor de red no inicializarán la salida cada vez que navegue a una página nueva">
+<!ENTITY options.netmonitor.label "Red">
+<!ENTITY options.netmonitor.enablePersistentLogs.label "Activar registros persistentes">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip "Si activa esta opción, el monitor de red no limpiará la salida cada vez que navegue a una página nueva">
 <!ENTITY options.showPlatformData.label "Mostrar datos de la plataforma Gecko">
 <!ENTITY options.showPlatformData.tooltip "Si activa esta opción los informes del analizador JavaScript incluirán los símbolos de la plataforma Gecko">
 <!ENTITY options.sourceeditor.label "Preferencias del editor">
