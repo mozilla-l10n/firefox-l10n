@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa stránky:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Priečinok:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Zobraziť všetky priečinky záložiek">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Zobrazí všetky priečinky záložiek">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skryť">
 <!ENTITY editBookmarkOverlay.tags.label                      "Značky:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "Z">
@@ -25,4 +25,4 @@
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "b">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vybrať…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nový priečinok">
-<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "r">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
