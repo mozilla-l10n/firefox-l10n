@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "TTTa programisto">
+<!ENTITY webDeveloperMenu.label       "Teksaĵa programisto">
 <!ENTITY webDeveloperMenu.accesskey   "P">
 
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
