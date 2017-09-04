@@ -8,6 +8,13 @@
 Ping-gegevensboarne:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+Sykje jo mear ynformaasje?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Aktuele ping-gegevens
 ">
