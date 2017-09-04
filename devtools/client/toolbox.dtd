@@ -188,6 +188,7 @@
   -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.netmonitor.enablePersistentLogs.label    "Activer les journaux persistants">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Si vous activez cette option le moniteur réseau n’effacera pas la console lorsque vous naviguez vers une autre page">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

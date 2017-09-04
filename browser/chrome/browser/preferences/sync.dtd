@@ -18,7 +18,7 @@
 <!ENTITY engine.addons.accesskey    "u">
 <!ENTITY engine.addresses.label     "Adresses">
 <!ENTITY engine.addresses.accesskey "A">
-<!ENTITY engine.creditcards.label   "Cartes de paiement">
+<!ENTITY engine.creditcards.label   "Cartes bancaires">
 <!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
