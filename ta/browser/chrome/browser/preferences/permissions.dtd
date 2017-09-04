@@ -5,13 +5,14 @@
 <!ENTITY window.title                 "விதிவிலக்குகள்">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "வலைத்தளம்">
 <!ENTITY treehead.status.label        "நிலை">
-
-
+<!ENTITY removepermission2.label      "வலைத்தளத்தை நீக்கு">
+<!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "அனைத்து தளங்களையும் நீக்கு">
 <!ENTITY removeallpermissions2.accesskey "e">
-
-
+<!ENTITY address2.label               "வலைத்தளத்தின் முகவரி">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "தடு">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "அமர்வுக்கு அனுமதி">
@@ -25,3 +26,4 @@
 <!ENTITY button.ok.label              "மாற்றங்களைச் சேமிக்கவும்">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "வலைத்தளத்தைத் தேடவும்">
