@@ -9,6 +9,8 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY emptyTrashCmd.label "Buang Sampah">
+<!ENTITY emptyTrashCmd.accesskey "g">
 <!ENTITY downloadStarredCmd.label "Cari Mesej Berbintang">
 <!ENTITY downloadStarredCmd.accesskey "a">
 
@@ -74,6 +76,8 @@
 <!-- Folder Pane -->
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextEmptyTrash.label "Buang Sampah">
+<!ENTITY folderContextEmptyTrash.accesskey "g">
 
 <!-- Search Bar -->
 
@@ -82,8 +86,10 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
+<!ENTITY starredColumn.label "Berbintang">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
 
 <!-- Thread Pane Context Menu -->
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
