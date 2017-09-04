@@ -8,7 +8,9 @@
 <!-- for ABSearchDialog.xul -->
 
 <!-- Thread Pane -->
+<!ENTITY unreadColumn.label "Belum Dibaca">
 <!ENTITY starredColumn.label "Berbintang">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">

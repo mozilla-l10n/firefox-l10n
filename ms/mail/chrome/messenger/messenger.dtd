@@ -56,6 +56,8 @@
 
 <!-- Message Menu -->
 <!-- do not change "VK_RETURN" -->
+<!ENTITY markAsUnreadCmd.label "Sebagai Belum Dibaca">
+<!ENTITY markAsUnreadCmd.accesskey "B">
 <!ENTITY markStarredCmd.label "Tandakan Bintang">
 <!ENTITY markStarredCmd.accesskey "B">
 <!ENTITY markStarredCmd.key "S">
@@ -78,8 +80,12 @@
     This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
+<!ENTITY nextButtonToolbarItem.label "Belum Dibaca Berikut">
+<!ENTITY previousButtonToolbarItem.label "Belum Dibaca Terdahulu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
+<!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
 
 <!-- Toolbar Button Popup -->
 
@@ -93,6 +99,7 @@
 <!-- Tags Menu Popup -->
 
 <!-- Folder Pane -->
+<!ENTITY folderUnreadColumn.label "Belum Dibaca">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextEmptyTrash.label "Buang Sampah">
@@ -105,9 +112,11 @@
 <!-- Quick Search Menu Bar -->
 
 <!-- Thread Pane -->
+<!ENTITY unreadColumn.label "Belum Dibaca">
 <!ENTITY starredColumn.label "Berbintang">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
 
 <!-- Thread Pane Context Menu -->
