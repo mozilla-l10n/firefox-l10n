@@ -667,7 +667,7 @@
 <!ENTITY syncReAuthItem.accesskey "Z">
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "Dodatkowe funkcje i opcje">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Przeciągaj swoje ulubione elementy na pasek narzędzi lub do menu ukrywania.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
