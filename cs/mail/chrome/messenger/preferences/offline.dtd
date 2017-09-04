@@ -16,14 +16,14 @@
 <!ENTITY radioAlwaysOffline.label "Vždy začít v režimu offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Odeslat neodeslané zprávy při přechodu do online režimu?">
+<!ENTITY textGoingOnline "Odeslat neodeslané zprávy při přechodu do režimu online?">
 <!ENTITY radioAutoSend.label "Ano">
 <!ENTITY radioAutoSend.accesskey "A">
 <!ENTITY radioNotSend.label "Ne">
 <!ENTITY radioNotSend.accesskey "e">
 <!ENTITY radioAskUnsent.label "Zeptat se">
 <!ENTITY radioAskUnsent.accesskey "t">
-<!ENTITY textGoingOffline "Stáhnout zprávy pro offline použití při přechodu do offline režimu?">
+<!ENTITY textGoingOffline "Stáhnout zprávy pro offline použití při přechodu do režimu offline?">
 <!ENTITY radioAutoDownload.label "Ano">
 <!ENTITY radioAutoDownload.accesskey "o">
 <!ENTITY radioNotDownload.label "Ne">
