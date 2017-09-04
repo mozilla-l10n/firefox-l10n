@@ -253,9 +253,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kuki">
-<!ENTITY pref_cookies_accept_all "Dayakan">
-<!ENTITY pref_cookies_not_accept_foreign "Dibolehkan, tidak termasuk pihak ke-3">
-<!ENTITY pref_cookies_disabled "Dilumpuhkan">
+<!ENTITY pref_cookies_accept_all "Didayakan">
+<!ENTITY pref_cookies_not_accept_foreign "Didayakan, tidak termasuk pihak ke-3">
+<!ENTITY pref_cookies_disabled "Dinyahdayakan">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -277,7 +277,7 @@
 <!ENTITY pref_donottrack_title "Jangan jejaki">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberitahu laman yang anda tidak ingin dijejaki">
 
-<!ENTITY pref_tracking_protection_enabled "Dayakan">
+<!ENTITY pref_tracking_protection_enabled "Didayakan">
 <!ENTITY pref_tracking_protection_enabled_pb "Dayakan dalam Pelayaran Peribadi">
 <!ENTITY pref_tracking_protection_disabled "Nyahdayakan">
 
@@ -392,7 +392,7 @@
 <!ENTITY pref_private_data_openTabs "Buka tab">
 <!ENTITY pref_private_data_history2 "Sejarah pelayaran">
 <!ENTITY pref_private_data_searchHistory "Sejarah carian">
-<!ENTITY pref_private_data_formdata2 "Sejarah aksara">
+<!ENTITY pref_private_data_formdata2 "Sejarah borang">
 <!ENTITY pref_private_data_cookies2 "Kuki &amp; log masuk aktif">
 <!ENTITY pref_private_data_passwords2 "Log masuk tersimpan">
 <!ENTITY pref_private_data_cache "Cache">
@@ -404,7 +404,7 @@
 <!ENTITY pref_default_browser "Jadikan pelayar piawai">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Lawati Sokongan Mozilla">
 <!ENTITY pref_about_firefox "Perihal &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQs">
+<!ENTITY pref_vendor_faqs "Soalan Lazim">
 <!ENTITY pref_vendor_feedback "Beri maklum balas">
 
 <!ENTITY pref_dialog_set_default "Tetapkan sebagai piawai">
@@ -416,10 +416,10 @@
 <!ENTITY pref_panels_show "Papar">
 <!ENTITY pref_panels_hide "Sorok">
 <!ENTITY pref_panels_reorder "Tukar tertib">
-<!ENTITY pref_panels_move_up "Alih ke atas">
-<!ENTITY pref_panels_move_down "Alih ke bawah">
+<!ENTITY pref_panels_move_up "Pindah atas">
+<!ENTITY pref_panels_move_down "Pindah bawah">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_title "statistik &amp; data &brandShortName;">
 <!ENTITY datareporting_notification_action "Pilih kandungan untuk dikongsi">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Pilih maklumat untuk dikongsi">
@@ -485,8 +485,8 @@
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Cari dalam Halaman">
-<!ENTITY find_prev "Sebelumnya">
-<!ENTITY find_next "Seterusnya">
+<!ENTITY find_prev "Terdahulu">
+<!ENTITY find_next "Berikut">
 <!ENTITY find_close "Tutup">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
@@ -516,7 +516,7 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[No username]">
+<!ENTITY doorhanger_login_no_username "[Tiada nama pengguna]">
 <!ENTITY doorhanger_login_edit_title "Edit log masuk">
 <!ENTITY doorhanger_login_edit_username_hint "Nama pengguna">
 <!ENTITY doorhanger_login_edit_password_hint "Kata laluan">
@@ -621,11 +621,11 @@
 <!ENTITY home_remote_tabs_hidden_devices_title "Peranti tersorok">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Nyahsorok peranti dipilih">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Papar peranti dipilih">
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "Laman dipin">
+<!ENTITY home_pinned_site "Laman pin">
 <!ENTITY home_unpinned_site "Laman buang-pin">
 
 <!ENTITY remote_tabs_panel_moved_title "Di mana tab saya?">
@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Laman Teratas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Disyorkan oleh &brandPocket;">
-<!ENTITY activity_stream_highlights "Serlahkan">
+<!ENTITY activity_stream_highlights "Serlahan">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
