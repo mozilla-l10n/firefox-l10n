@@ -66,10 +66,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "웹과 함께 하세요.">
 <!ENTITY signedOut.description        "북마크, 방문 기록, 탭, 비밀번호 부가기능, 설정을 모든 기기에 걸쳐 동기화 하세요.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label;와 연결">
-<!ENTITY signedOut.accountBox.create  "계정 생성">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "로그인">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "로그인…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "동기화 설정">
 <!ENTITY signedIn.settings.description "&brandShortName;를 사용 중인 기기에서 동기화할 내용을 선택하세요.">

@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "추가하고자 하는 모듈에 대한 정보를 입력하십시오.">
-<!ENTITY loaddevice.modname                     "모듈 이름:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "모듈 이름">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "새 PKCS #11 모듈">
-<!ENTITY loaddevice.filename                    "모듈 파일 이름:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "모듈 파일 이름">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "찾아보기…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
