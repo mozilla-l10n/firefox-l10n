@@ -40,7 +40,7 @@
 <!ENTITY forwardTo.label "Memanjangkan Mesej ke">
 <!ENTITY replyWithTemplate.label "Balas menggunakan Templat">
 <!ENTITY markMessageRead.label "Tandakan sebagai telah Dibaca">
-<!ENTITY markMessageUnread.label "Tandakan sebagai Belum Baca">
+<!ENTITY markMessageUnread.label "Tandakan sebagai Belum Dibaca">
 <!ENTITY markMessageStarred.label "Tandakan Bintang">
 <!ENTITY setPriority.label "Tetapkan Prioriti ke">
 <!ENTITY addTag.label "Tag Mesej">

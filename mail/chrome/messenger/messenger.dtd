@@ -20,8 +20,18 @@
 <!-- View Menu -->
 
 
+<!ENTITY unreadFolders.label "Belum Dibaca">
+<!ENTITY unreadFolders.accesskey "B">
 
 <!-- Sort Menu -->
+<!ENTITY sortByUnreadCmd.label "Sudah Dibaca">
+<!ENTITY sortByUnreadCmd.accesskey "D">
+<!ENTITY unreadMsgsCmd.label "Belum Dibaca">
+<!ENTITY unreadMsgsCmd.accesskey "B">
+<!ENTITY threadsWithUnreadCmd.label "Thread Belum Dibaca">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Ikuti Thread Belum Dibaca">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "I">
 
 
 
@@ -30,8 +40,17 @@
 <!-- Search Menu -->
 
 <!-- Go Menu -->
+<!ENTITY nextUnreadMsgCmd.label "Mesej Belum Dibaca">
+<!ENTITY nextUnreadMsgCmd.accesskey "B">
+<!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextStarredMsgCmd.label "Mesej Berbintang">
 <!ENTITY nextStarredMsgCmd.accesskey "B">
+<!ENTITY nextUnreadThread.label "Thread Belum Dibaca">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevUnreadMsgCmd.label "Mesej Belum Dibaca">
+<!ENTITY prevUnreadMsgCmd.accesskey "B">
+<!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY prevStarredMsgCmd.label "Mesej Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
 
