@@ -46,6 +46,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Ipadala ang Link sa Device">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "Naipadala!">
 <!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
@@ -161,23 +162,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahina na Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Maghanap ng mas maraming ibahaging serbisyo...">
-<!ENTITY sharePageCmd.label "Ibahagi ang Pahina na Ito">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Ibahagi ang Link na ito">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Ibahagi ang larawan na ito">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Ibahagi ang mga Napili">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Ibahagi ang Video na Ito">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "Sumali sa Pahina na Ito">
+
 <!ENTITY subscribeToPageMenupopup.label "Mag-subscribe sa Pahina na Ito">
 <!ENTITY subscribeToPageMenuitem.label "Mag-subscribe sa web page na ito…">
 <!ENTITY addCurPagesCmd.label "I-bookmark ang lahat ng mga tab…">
@@ -243,14 +228,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Mga bookmark">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Mga Bookmark">
-<!ENTITY bookmarksMenuButton.other.label "Ibang pang Bookmark">
-<!ENTITY bookmarksMenuButton.mobile.label "Mga Mobile Bookmark">
+<!ENTITY bookmarksSubview.label             "Mga bookmark">
+<!ENTITY bookmarksMenuButton2.label         "Mga Bookmark ng Menu">
+<!ENTITY bookmarksMenuButton.other.label    "Ibang pang Bookmark">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mga Mobile Bookmark">
 <!ENTITY viewBookmarksSidebar2.label        "Tingnan ang Bookmarks Sidebar">
+<!ENTITY hideBookmarksSidebar.label         "Itago ang Bookmark Sidebar">
 <!ENTITY viewBookmarksToolbar.label         "Tingnan ang Bookmarks Toolbar">
+<!ENTITY hideBookmarksToolbar.label         "Itago ang Bookmark Toolbar">
 <!ENTITY searchBookmarks.label              "Hanapin sa mga Bookmark">
-
-<!ENTITY containersMenu.label "Lalagyan">
+<!ENTITY bookmarkingTools.label             "Mga Tool sa Pag-bookmark">
+<!ENTITY addBookmarksMenu.label             "Magdagdag ng Mga Bookmark sa Menu sa Toolbar">
+<!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmarks Menu mula sa Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -349,7 +338,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "I-cuztomize ang Menu at Toolbars">
 <!ENTITY appMenuCustomizeExit.label "Lumabas sa pag Customize">
 <!ENTITY appMenuCustomizeExit.tooltip "Tapusin ang Pag-customize">
-<!ENTITY appMenuHistory.label "Kasaysayan">
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
 <!ENTITY appMenuHistory.restoreSession.label "Ibalik ang Nakaraang Session">
@@ -562,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Kopyahin ang URL">
+<!ENTITY copyURLFeedback.label        "Kinopya!">
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
@@ -836,15 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "I-sync">
 
-<!ENTITY social.addons.label "Pamahalaan ang mga Serbisyo...">
-
-<!ENTITY social.directory.label "Mga Directory ng Mga Aktibidad">
-<!ENTITY social.directory.text "Maaari mong isaaktibo ang mga serbisyo ng Ibahagi mula sa direktoryo.">
-<!ENTITY social.directory.button "Dalhin mo ako doon!">
-<!ENTITY social.directory.introText "E click ang serbisyo para maidagdag sa &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Tingnan ang iba pa">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Karagdagang Mga Tool at Mga Tampok">
+<!ENTITY customizeMode.menuAndToolbars.header3 "I-drag ang iyong mga paboritong item sa toolbar o overflow menu.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Gusto ng higit pang mga tool?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pumili mula sa libu-libong mga add-on">
 <!ENTITY customizeMode.restoreDefaults "Ibalik sa Dati">
@@ -931,8 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Isarado">
 
-<!ENTITY appMenuSidebars.label         "Mga sidebar">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -991,5 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
 <!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
 
-<!ENTITY sendToDevice.label2 "Ipadala sa device">
+<!ENTITY sendToDevice.label3 "Ipadala ang Pahina sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
+
+<!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
