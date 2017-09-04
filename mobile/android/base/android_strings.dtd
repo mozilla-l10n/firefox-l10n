@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
+<!ENTITY firstrun_urlbar_subtext2 "자유롭과 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
+<!ENTITY firstrun_panel_title_privacy "개인 정보">
+<!ENTITY firstrun_privacy_message "누구에게도 보이지 않는 웹 이용">
+<!ENTITY firstrun_panel_title_customize "개인화">
 <!ENTITY firstrun_bookmarks_title "방문목록">
 <!ENTITY firstrun_bookmarks_message "좋아하는 내용을, 맨 앞에 두세요">
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
@@ -10,6 +14,8 @@
 <!ENTITY firstrun_data_message "더 적은 데이터, 더 많은 절약">
 <!ENTITY firstrun_data_subtext2 "데이터 사용량을 줄이기 위해 방문하는 모든 사이트에서 이미지를 가져오지 않습니다.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "중단했던 지점에서 다시 시작하세요.">
+<!ENTITY firstrun_sync_subtext2 "Sync를 이용해서 즐겨찾기나 비밀번호, &brandShortName;에 저장한 다른 설정을 사용하는 모든 기기에서 찾아보세요.">
 <!ENTITY firstrun_signin_message "연결 및 시작하기">
 <!ENTITY firstrun_signin_button "Sync 로그인">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
@@ -821,6 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "북마크에 추가">
 
 <!ENTITY activity_stream_topsites "상위 사이트">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "하이라이트">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -829,14 +836,22 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "방문한 사이트">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "트랜드">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "삭제">
 <!ENTITY activity_stream_delete_history "방문 기록에서 삭제">
 
 <!ENTITY activity_stream_welcome_title "하이라이트에 오신 것을 환영합니다">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName;가 글이나 동영상, 즐겨찾기, 다른 페이지들을 쉽게 다시 찾을 수 있게 웹에서 발견한 것들의 하이라이트를 만들 것입니다.">
+<!ENTITY activity_stream_welcome_dismiss "닫기">
 
+<!ENTITY private_tab_panel_title "사생활 보호 브라우징 + 추적 방지">
+<!ENTITY private_tab_panel_description "&brandShortName;는 웹 브라우징 활동을 추적하는 페이지들을 차단합니다.">
+<!ENTITY private_tab_panel_description2 "어떠한 기록도 남기지 않습니다. 다만, 다운로드 받은 파일이나 추가한 북마크는 기기에 저장됩니다.">
+<!ENTITY private_tab_learn_more "더 알고 싶은가요?">
 
 <!ENTITY fullscreen_warning "전체 화면 모드 진입">
