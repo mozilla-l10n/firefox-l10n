@@ -24,6 +24,7 @@
 <!ENTITY unreadFolders.accesskey "B">
 
 <!-- Sort Menu -->
+<!ENTITY sortByTagsCmd.label "Tag">
 <!ENTITY sortByUnreadCmd.label "Sudah Dibaca">
 <!ENTITY sortByUnreadCmd.accesskey "D">
 <!ENTITY unreadMsgsCmd.label "Belum Dibaca">
