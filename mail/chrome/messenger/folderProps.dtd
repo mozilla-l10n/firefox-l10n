@@ -12,6 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bina semula Indeks Fail Ringkasan">
 <!ENTITY folderRebuildSummaryFile2.label         "Pembaikan Folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "P">
+<!ENTITY folderRebuildSummaryFile.explanation    "Kadang-kala folder fail indeks (.msf) menjadi rosak, dan mesej mungkin nampak seperti sudah hilang atau mesej yang sudah dibuang akan terus dipaparkan; oleh itu tindakan membaiki folder dapat mengatasi isu ini.">
 
 <!ENTITY retentionApplyToFlagged.label "Sentiasa simpan mesej bertanda bintang">
 
