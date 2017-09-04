@@ -31,7 +31,7 @@
 <!ENTITY filterActionDesc.label "Laksanakan tindakan ini:">
 <!ENTITY filterActionDesc.accesskey "L">
 
-<!ENTITY filterActionOrderWarning.label "Nota: Tindakan menapis akan dilaksanakan dalam turutan berbeza.">
+<!ENTITY filterActionOrderWarning.label "Nota: Tindakan tapisan akan dilaksanakan dalam turutan berbeza.">
 <!ENTITY filterActionOrder.label "Sila lihat pelaksanaan perintah">
 
 <!-- New Style Filter Rule Actions -->
@@ -51,7 +51,7 @@
 <!ENTITY ignoreThread.label "Thread Diabaikan">
 <!ENTITY ignoreSubthread.label "Abaikan Subthread">
 <!ENTITY watchThread.label "Ikuti Thread">
-<!ENTITY stopExecution.label "Henti Pelaksanaan Penapis">
+<!ENTITY stopExecution.label "Henti Pelaksanaan Tapisan">
 
 <!ENTITY addAction.tooltip "Tambah tindakan baru">
 <!ENTITY removeAction.tooltip "Batal tindakan ini">

@@ -19,7 +19,7 @@
 <!ENTITY Advanced.tab                      "Lanjutan">
 <!ENTITY portNumber.label                  "Nombor port: ">
 <!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Penapis carian: ">
+<!ENTITY searchFilter.label                "Tapis carian: ">
 <!ENTITY searchFilter.accesskey            "c">
 <!ENTITY scope.label                       "Skop: ">
 <!ENTITY scope.accesskey                   "k">
