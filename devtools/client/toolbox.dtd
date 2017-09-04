@@ -187,6 +187,8 @@
   -  label for the checkbox that toggles persistent logs in the netmonitor,
   -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Habilitar registros persistentes">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Si habilitas esta opción el monitor de red no borrará la salida cada vez que se navegues a una página nueva">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
