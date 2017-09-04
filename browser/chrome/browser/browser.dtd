@@ -970,7 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "添加到地址栏">
 <!ENTITY pageAction.removeFromUrlbar.label "从地址栏移除">
 
-<!ENTITY sendToDevice.label3 "发送页面给设备">
+<!ENTITY sendToDevice.label3 "将页面发送到设备">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
 
 <!ENTITY libraryButton.tooltip "查看浏览历史、已保存的书签等">
