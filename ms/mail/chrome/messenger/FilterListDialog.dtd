@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Penapis Mesej">
+<!ENTITY window.title "Tapis Mesej">
 <!ENTITY nameColumn.label "Nama Penapis">
 <!ENTITY activeColumn.label "Didayakan">
 <!ENTITY newButton.label "Baru…">
@@ -24,9 +24,9 @@
 <!ENTITY reorderBottomButton.accessKey "B">
 <!ENTITY reorderBottomButton.toolTip "Susun semula penapis supaya dilaksanakan selepas semua yang lain">
 <!ENTITY filterHeader.label "Penapis yang aktif dilaksanakan secara automatik mengikut susunan di bawah.">
-<!ENTITY filtersForPrefix.label "Penapis untuk:">
+<!ENTITY filtersForPrefix.label "Tapis untuk:">
 <!ENTITY filtersForPrefix.accesskey "P">
-<!ENTITY viewLogButton.label "Penapis Log">
+<!ENTITY viewLogButton.label "Tapis Log">
 <!ENTITY viewLogButton.accesskey "L">
 <!ENTITY runFilters.label "Laksanakan Sekarang">
 <!ENTITY runFilters.accesskey "L">
