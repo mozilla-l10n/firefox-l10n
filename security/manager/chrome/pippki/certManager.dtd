@@ -36,7 +36,7 @@
 
 <!ENTITY certmgr.editcacert.title             "Modifi agordojn de CA atestila fido">
 <!ENTITY certmgr.editcert.edittrust           "Modifi fidajn agordojn:">
-<!ENTITY certmgr.editcert.trustssl            "Tiu ĉi atestilo povas identigi TTTajn retejojn.">
+<!ENTITY certmgr.editcert.trustssl            "Tiu ĉi atestilo povas identigi retejojn.">
 <!ENTITY certmgr.editcert.trustemail          "Tiu ĉi atestilo povas identigi retpoŝtajn uzantojn.">
 <!ENTITY certmgr.editcert.trustobjsign        "Tiu ĉi atestilo povas identigi produktantojn de programoj.">
 
