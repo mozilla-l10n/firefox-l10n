@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Elŝutanta atestilon">
 <!ENTITY downloadCert.message1 "Fido je nova atestila aŭtoritato (CA) estis petita al vi.">
-<!ENTITY downloadCert.trustSSL "Fidi tiun ĉi CAn por identigi TTTajn retejojn.">
+<!ENTITY downloadCert.trustSSL "Fidi tiun ĉi atestilan aŭtoritaton por identigi retejojn.">
 <!ENTITY downloadCert.trustEmail "Fidi tiun ĉi CAn por identigi retpoŝtajn uzantojn.">
 <!ENTITY downloadCert.trustObjSign "Fidi tiun ĉi CAn por identigi programistojn.">
 <!ENTITY downloadCert.message3 "Antaŭ ol fidi je tiu ĉi CA por ĉiuj celoj vi devus ekzameni ĝian atestilon kaj ĝiajn politikojn kaj procedurojn (se tio disponeblas).">
