@@ -25,7 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.note.after                 " இணையத்தில் உங்கள் முதலாளியோ இணைய சேவை வழங்குநரோ நீங்கள் பயன்படுத்திய பக்கங்களைக் கண்டறியலாம்.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "அதுபற்றி மேலும் அறிக ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "அந்தரங்க உலாவல்">
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "தடமறியல் பாதுகாப்பு">
 <!ENTITY trackingProtection.description2                 "சில தளங்கள் உங்கள் இணைய செயல்பாட்டை கண்காணிக்கும் தடமறிகளைப் பயன்படுத்துகிறது. தடமறி பாதுகாப்புடன் உங்கள் உலாவல் நடத்தையை சேகரிக்கும் தடமறிகளை பயர்பாக்ஸ் முடக்கும்.">
