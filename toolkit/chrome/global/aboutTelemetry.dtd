@@ -12,8 +12,17 @@ Ping-gegevensboarne:
 Sykje jo mear ynformaasje?
 ">
 
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+De <a>Firefox Data Documentation</a> befettet hantliedingen oer it wurkjen mei ús gegevenshelpmiddelen.
+">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+De <a>Firefox Telemetry-clientdokumintaasje</a> befettet definysjes foar konsepten, API-dokumintaasje en gegevensferwizingen.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Mei de <a>Telemetry-dashboerds</a> kinne jo de gegevens fisualisearje dy't Mozilla fia Telemetry ûntfangt.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Aktuele ping-gegevens
