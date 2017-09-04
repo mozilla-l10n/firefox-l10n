@@ -11,10 +11,16 @@ Fonto de datumoj de «ping»:
 <!ENTITY aboutTelemetry.moreInformations "Ĉu vi serĉas pli da informo?">
 
 <!ENTITY aboutTelemetry.firefoxDataDoc "
-La <a>dokumentaro de datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
+La <a>dokumentaro pri datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
 ">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+La <a>dokumentaro pri klientoj de telemezuro de Firefox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+La <a>paneloj de telemezuro</a> permesas al vi vidi la datumojn, kiujn Mozilla ricevas pere de telemezuro.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Nunaj datumoj de «ping»
