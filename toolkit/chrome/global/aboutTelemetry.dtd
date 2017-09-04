@@ -8,6 +8,14 @@
 Fonto de datumoj de «ping»:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "Ĉu vi serĉas pli da informo?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+La <a>dokumentaro de datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
+">
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Nunaj datumoj de «ping»
 ">
