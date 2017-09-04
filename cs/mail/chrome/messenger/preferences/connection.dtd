@@ -41,5 +41,7 @@
 <!ENTITY  shareproxy.label              "Pro všechny protokoly používat tento proxy server">
 <!ENTITY  shareproxy.accesskey          "P">
 <!ENTITY  autologinproxy.label          "Nedotazovat se na autentizaci, pokud je heslo uloženo">
+<!ENTITY  autologinproxy.accesskey      "e">
 <!ENTITY  autologinproxy.tooltip        "Tato volba zajistí provedení tiché autentizace k proxy, pokud pro ni máte uloženy přihlašovací údaje. Pokud autentizace selže, budete na ně dotázání.">
 <!ENTITY  socksRemoteDNS.label          "Použít proxy server pro DNS při použití SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
