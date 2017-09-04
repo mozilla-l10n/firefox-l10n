@@ -49,14 +49,13 @@
 <!ENTITY  acceptCookies2.label          "웹사이트의 쿠기 허용">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "제3자 쿠키 허용:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty2.pre.label     "제3자 쿠키 허용">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "항상 허용">
 <!ENTITY  acceptThirdParty.never.label    "허용 안함">
 <!ENTITY  acceptThirdParty.visited.label  "방문한 곳만">
 
-<!ENTITY  keepUntil.label               "유지 시간:">
-<!ENTITY  keepUntil.accesskey           "K">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "만료 될 때까지">
 <!ENTITY  close.label                   "&brandShortName;를 닫을 때">
@@ -113,3 +112,6 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "설정…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "자세히 보기">

@@ -8,6 +8,13 @@
 핑 데이터 소스:
 ">
 
+<!ENTITY aboutTelemetry.moreInformations "
+자세한 정보가 필요하세요?
+">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "
 현재 핑 데이터
 ">
@@ -19,6 +26,7 @@
 <!ENTITY aboutTelemetry.raw "
 원본 JSON
 ">
+
 
 <!ENTITY aboutTelemetry.showSubsessionData "
 하위 세션 데이터 보기
@@ -80,10 +88,6 @@
   브라우저 중단
 ">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  쓰레드 중단
-">
-
 <!ENTITY aboutTelemetry.capturedStacksSection "
   스택 캡춰
 ">
@@ -118,6 +122,10 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "
   최종 작성
+">
+
+<!ENTITY aboutTelemetry.rawPayloadSection "
+원본 페이로드
 ">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
