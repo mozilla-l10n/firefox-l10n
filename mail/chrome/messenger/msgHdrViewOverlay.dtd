@@ -8,6 +8,8 @@
 <!ENTITY hdrTrashButton1.tooltip "Buang mesej ini">
 
 
+<!ENTITY markAsUnreadMenuItem1.label "Tandakan sebagai Belum Dibaca">
+<!ENTITY markAsUnreadMenuItem1.accesskey "d">
 
 <!-- Attachment bar context menu items -->
 
