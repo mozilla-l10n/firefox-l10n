@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Verbindingsinstellingen">
+<!ENTITY  window.width                  "51em">
+<!ENTITY  window.macWidth               "46em">
 
 <!ENTITY  proxyTitle.label              "Proxy’s voor toegang tot het internet configureren">
 <!ENTITY  noProxyTypeRadio.label        "Geen proxy">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Voorbeeld: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Deze proxyserver voor alle protocollen gebruiken">
 <!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  autologinproxy.label          "Niet om authenticatie vragen als wachtwoord is opgeslagen">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Deze optie authenticeert u automatisch bij proxy’s als u hiervoor referenties hebt opgeslagen. Als authenticatie mislukt, wordt hierom gevraagd.">
+<!ENTITY  socksRemoteDNS.label          "DNS via proxy bij gebruik van SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
