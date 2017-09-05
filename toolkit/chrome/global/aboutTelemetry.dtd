@@ -6,6 +6,11 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ping verisi kaynağı:">
 
+<!ENTITY aboutTelemetry.moreInformations "Daha fazla bilgi almak mı istiyorsunuz?">
+
+
+
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Şu anki ping verisi">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arşivlenmiş ping verisi">
@@ -53,8 +58,6 @@ Daha eski
 <!ENTITY aboutTelemetry.slowSqlSection "   Yavaş SQL Deyimleri ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "   Tarayıcı Takılmaları ">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  İş Parçacığı Takılmaları">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Yakalanan Yığınlar">
