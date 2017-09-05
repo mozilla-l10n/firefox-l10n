@@ -45,7 +45,7 @@ available. -->
 
 <!ENTITY networkProxy.label              "Nastavenie pripojenia">
 
-<!ENTITY connectionDesc.label            "Nastaviť spôsob, akým sa &brandShortName; pripája k sieti Internet">
+<!ENTITY connectionDesc.label            "Konfigurovať pripojenie aplikácie &brandShortName; k internetu">
 <!ENTITY connectionSettings.label        "Nastavenia…">
 <!ENTITY connectionSettings.accesskey    "N">
 
