@@ -4,4 +4,7 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!ENTITY MsgSynchronize.label "Last ned og synkroniser meldingar">
+<!ENTITY MsgSelect.label "Element for fråkopla bruk">
+<!ENTITY syncTypeMail.label "E-postmeldingar">
 <!ENTITY workOffline.label "Arbeid fråkopla når nedlasting/synkronisering er ferdig">
