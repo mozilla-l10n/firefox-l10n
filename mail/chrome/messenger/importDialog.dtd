@@ -31,7 +31,21 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importShortDesc.label    "Import Mel, Buku Alamat, Tetapan dan Penapis daripada atur cara lain">
 
 <!ENTITY importDescription1.label "Bestari ini akan mengimport mesej mel, entri buku alamat, langganan suapam, keutamaan, dan/atau penapis daripada atur cara mel lain, serta format alamat buku biasa ke dalam &brandShortName;.">
+<!ENTITY importDescription2.label "Setelah diimport, anda akan dapat mengaksesnya dalam &brandShortName;.">
 
+<!ENTITY selectDescription.label  "Sila pilih jenis fail yang mahu diimport:">
+<!ENTITY selectDescriptionB.label "Sila pilih akaun semasa atau cipta akaun baru:">
+<!ENTITY selectDescription.accesskey "S">
+<!ENTITY acctName.label           "Nama:">
+<!ENTITY acctName.accesskey       "N">
+<!ENTITY noModulesFound.label     "Tidak menemui aplikasi atau data fail yang mahu diimport.">
 
+<!ENTITY back.label               "&lt; Undur">
+<!ENTITY forward.label            "Berikut &gt;">
+<!ENTITY finish.label             "Selesai">
+<!ENTITY cancel.label             "Batal">
 
+<!ENTITY select.label             "atau pilih jenis bahan yang mahu diimport:">
 
+<!ENTITY title.label              "Tajuk">
+<!ENTITY processing.label         "Mengimport…">
