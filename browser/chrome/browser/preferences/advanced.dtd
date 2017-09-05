@@ -33,6 +33,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Pelajari Lebih Lanjut">
 
 <!ENTITY dataCollection.label            "&brandShortName; Pengumpulan dan Penggunaan Data">
+<!ENTITY dataCollectionDesc.label        "Kami berusaha memberi anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan &brandShortName; untuk semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
@@ -86,6 +87,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Pastikan &brandShortName; selalu dimutakhirkan untuk kinerja, stabilitas dan keamanan terbaik.">
 <!ENTITY updateApplication.version.pre   "Versi ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
