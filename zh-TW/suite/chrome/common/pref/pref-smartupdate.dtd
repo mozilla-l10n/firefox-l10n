@@ -27,6 +27,5 @@
 <!ENTITY appWeekly.accesskey                  "e">
 <!ENTITY appModeAutomatic.label               "自動下載並安裝更新檔案">
 <!ENTITY appModeAutomatic.accesskey           "u">
-<!ENTITY updateHistoryButton.label            "顯示更新記錄…">
+<!ENTITY updateHistoryButton.label            "顯示更新紀錄…">
 <!ENTITY updateHistoryButton.accesskey        "S">
-

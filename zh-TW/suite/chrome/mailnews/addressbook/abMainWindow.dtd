@@ -93,7 +93,7 @@
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天"> 
 <!ENTITY deleteItemButton.tooltip                       "刪除選取的項目">
 <!ENTITY throbber.tooltip                               "&vendorShortName; 的首頁">
-<!ENTITY advancedButton.tooltip                         "進階位址搜尋">
+<!ENTITY advancedButton.tooltip                         "進階地址搜尋">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "通訊錄">
@@ -118,4 +118,3 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY  hideSwapFnLnUI                                "false">
-
