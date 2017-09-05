@@ -8,6 +8,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; nachra sà’ nuguan’ huā dàj nagi’iát riña perfil arâj sunt.">
 <!ENTITY profileCreationExplanation_2.text  "Ñadu’ua &brandShortName; da’a a’ngô da’āj nej duguî’ aché nuun arâj sun nej si, ga’ue gārasunt ga’ì perfil da’ gā da’ go’ngō si perfil nej si. Guendâ dan nī, da’ go’ngō nej si da’ui giri si perfil nej si.">
+<!ENTITY profileCreationExplanation_3.text  "Si ‘ngō rïnt huin sa arâj sun ñadu’ua &brandShortName;, da’ui gā nùhuin si ‘iô’ si ‘ngō rïn perfil. Si ruhuât nī, ga’ue girīt ga’ì perfil da’ gahuînt da’ nachrât sà’t sa huin ruhuât nī dàj gaj ruhuât. Dàj rû’, ga’ue gā ‘ngō perfil ganikājt guendâ gudu’uēt sa gudu’uēt nī a’ngoj da’ gārasunt ngà a’ngô sa huāa.">
 
 <!-- Second wizard page -->
 <!ENTITY profilePrompt.accesskey        "E">
