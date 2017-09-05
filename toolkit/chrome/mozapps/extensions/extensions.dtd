@@ -110,9 +110,9 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промяна на настройките на тази добавка">
 <!ENTITY cmd.showPreferencesUnix.label        "Настройки">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Сменяне на настройките на тази добавка">
-<!ENTITY cmd.contribute.label                 "Принос">
-<!ENTITY cmd.contribute.accesskey             "П">
-<!ENTITY cmd.contribute.tooltip               "Принос за развитието на тази добавка">
+<!ENTITY cmd.contribute.label                 "Допринасяне">
+<!ENTITY cmd.contribute.accesskey             "Д">
+<!ENTITY cmd.contribute.tooltip               "Допринасяне за развитието на добавката">
 
 <!ENTITY cmd.showReleaseNotes.label           "Показване на бележките по изданието">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Показване на бележките по изданието на това обновяване">
