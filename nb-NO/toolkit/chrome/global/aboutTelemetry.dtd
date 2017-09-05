@@ -14,7 +14,13 @@ Ser du etter mer informasjon?
 <a>Firefox Data Documentation</a> inneholder veiledninger om hvordan du jobber med dataverktøyene våre.
 ">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefox Telemetry-klientdokumentasjonen</a> inneholder definisjoner for konsepter, API-dokumentasjon og datareferanser.
+">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Med <a>Telemetry-panelet</a> kan du visualisere dataene Mozilla mottar via Telementry.
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Gjeldende ping-data">
 
