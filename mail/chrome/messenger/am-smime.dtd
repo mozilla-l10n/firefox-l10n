@@ -26,7 +26,7 @@
 <!ENTITY signingCert.message "Bruk dette sertifikatet til å signera meldingar du sender digitalt:">
 
 <!ENTITY certificates.label "Sertifikat">
-<!ENTITY manageCerts2.label "Handsam sertifikat">
+<!ENTITY manageCerts2.label "Handter sertifikat">
 <!ENTITY manageCerts2.accesskey "H">
 <!ENTITY manageDevices.label "Tryggingseiningar">
 <!ENTITY manageDevices.accesskey "T">
