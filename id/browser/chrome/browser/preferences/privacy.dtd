@@ -33,6 +33,7 @@
 <!ENTITY  permissions.label             "Hak Akses">
 
 <!ENTITY  addressBar.label              "Bilah Alamat">
+<!ENTITY  addressBar.suggest.label      "Saat menggunakan bilah alamat, sarankan">
 <!ENTITY  locbar.history2.label         "Riwayat penjelajahan">
 <!ENTITY  locbar.bookmarks.label        "Markah">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
@@ -107,3 +108,4 @@
 <!ENTITY  browserContainersEnabled.accesskey    "k">
 <!ENTITY  browserContainersSettings.label        "Pengaturan…">
 <!ENTITY  browserContainersSettings.accesskey    "p">
+
