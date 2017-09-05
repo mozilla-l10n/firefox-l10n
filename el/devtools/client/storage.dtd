@@ -9,3 +9,6 @@
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
 <!ENTITY storage.popupMenu.deleteAllLabel "Διαγραφή όλων">
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Διαγραφή όλων των cookies συνεδρίας">
