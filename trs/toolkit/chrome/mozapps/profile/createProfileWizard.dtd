@@ -6,6 +6,8 @@
 <!ENTITY window.size                  "gachrà': 45em; yakàn: 32em;">
 
 <!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; nachra sà’ nuguan’ huā dàj nagi’iát riña perfil arâj sunt.">
+<!ENTITY profileCreationExplanation_2.text  "Ñadu’ua &brandShortName; da’a a’ngô da’āj nej duguî’ aché nuun arâj sun nej si, ga’ue gārasunt ga’ì perfil da’ gā da’ go’ngō si perfil nej si. Guendâ dan nī, da’ go’ngō nej si da’ui giri si perfil nej si.">
 
 <!-- Second wizard page -->
 <!ENTITY profilePrompt.accesskey        "E">
