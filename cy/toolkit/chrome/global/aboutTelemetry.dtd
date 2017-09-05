@@ -6,6 +6,18 @@
 
 <!ENTITY aboutTelemetry.pingDataSource "Ffynhonnell data ping:">
 
+<!ENTITY aboutTelemetry.moreInformations "Chwilio am ragor o wybodaeth?">
+
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+Mae'r <a>Firefox Data Documentation</a> yn cynnwys canllawiau ar sut i weithio gyda'n offer data.
+">
+
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+Mae <a>dogfennaeth cleient Firefox Telemetry</a> yn cynnwys diffiniadau o gysyniadau, dogfennaeth API a chyfeiriadau data.">
+
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Mae <a>byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Mozilla yn ei dderbyn drwy'r Delemetreg.">
+
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping cyfredol">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping wedi ei archifo">
@@ -43,8 +55,6 @@
 <!ENTITY aboutTelemetry.slowSqlSection "  Datganiadau SQL Araf">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Oedi Porwr">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Trywydd Crog">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "  Staciau wedi eu Cipio">
 
