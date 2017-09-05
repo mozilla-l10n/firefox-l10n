@@ -2,18 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY newprofile.title             "Sa rugûñun’ūnj da’ girī’ ‘ngō perfil">
+<!ENTITY window.size                  "gachrà': 45em; yakàn: 32em;">
+
 <!-- First wizard page -->
 
-
-
-
-
 <!-- Second wizard page -->
-
-
-
-
-
-
-
-
+<!ENTITY profilePrompt.accesskey        "E">
+<!ENTITY button.choosefolder.accesskey  "C">
+<!ENTITY button.usedefault.accesskey    "U">
