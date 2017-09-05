@@ -13,12 +13,15 @@
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ieri">
 <!ENTITY aboutTelemetry.optionGroupOlder "Più vecchi">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 <!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
 <!ENTITY aboutTelemetry.moreInformations "Per approfondire:">
 <!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentazione Firefox Data</a> include guide sull’utilizzo degli strumenti dedicati alla gestione dei dati.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentazione del client Firefox Telemetry</a> include definizioni, documentazione relativa alle API e fonti di riferimento per i dati.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Le <a>dashboard di Telemetry</a> permettono di visualizzare i dati ricevuti da Mozilla attraverso la telemetria.">
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Apri nel visualizzatore JSON">
+<!ENTITY aboutTelemetry.homeSection "Introduzione">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
 <!ENTITY aboutTelemetry.environmentDataSection "Dati ambiente">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
