@@ -370,7 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登入以檢視您其他裝置中的分頁清單。">
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理裝置…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "檢視已同步分頁側邊欄">
+<!ENTITY appMenuRemoteTabs.sidebar.label "檢視「已同步的分頁」側邊欄">
 
 <!ENTITY customizeMenu.addToToolbar.label "新增至工具列">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
