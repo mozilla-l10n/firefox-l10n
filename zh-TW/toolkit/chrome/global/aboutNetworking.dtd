@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "關於網路連線">
 <!ENTITY aboutNetworking.warning               "這是實驗中的功能，請在專家陪同下使用。">
-<!ENTITY aboutNetworking.showNextTime          "下次也顯示此警告訊息">
+<!ENTITY aboutNetworking.showNextTime          "下次顯示此警告訊息">
 <!ENTITY aboutNetworking.ok                    "確定">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
