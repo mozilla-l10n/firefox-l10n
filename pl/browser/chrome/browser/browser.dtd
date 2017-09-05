@@ -784,3 +784,5 @@
 
 <!ENTITY sendToDevice.label3 "Wyślij stronę na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
+
+<!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
