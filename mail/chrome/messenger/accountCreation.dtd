@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
+<!ENTITY autoconfigWizard2.title         "Een bestaande e-mailaccount instellen">
 <!ENTITY name.label                      "Uw naam:">
 <!ENTITY name.accesskey                  "U">
 <!ENTITY name.placeholder                "Voornaam Achternaam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "email@example.com">
+<!ENTITY email.text                      "Uw bestaande e-mailadres">
 <!ENTITY password.label                  "Wachtwoord:">
 <!ENTITY password.accesskey              "W">
 <!ENTITY password.placeholder            "Wachtwoord">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Handmatige configuratie">
 <!ENTITY manual-edit.accesskey           "H">
-<!ENTITY switch-to-provisioner.label     "Nieuwe account verkrijgen">
-<!ENTITY switch-to-provisioner.accesskey "N">
+<!ENTITY open-provisioner.label          "Een nieuw e-mailadres verkrijgen…">
+<!ENTITY open-provisioner.accesskey      "E">
 
 
 <!ENTITY warning.label                   "Waarschuwing!">

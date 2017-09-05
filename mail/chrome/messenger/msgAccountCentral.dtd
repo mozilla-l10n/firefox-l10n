@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Accounts">
 <!ENTITY subscribeImapFolders.label   "Mapabonnementen beheren">
 <!ENTITY settingsLink.label           "Instellingen voor deze account bekijken">
-<!ENTITY newAcctLink.label            "Nieuwe account aanmaken">
-<!ENTITY newAcct.label                "Nieuwe account aanmaken:">
+<!ENTITY setupNewAcct.label           "Een account instellen:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Geavanceerde functies">
 <!ENTITY searchMsgsLink.label         "Berichten zoeken">
