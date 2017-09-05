@@ -550,7 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Marque-page sur ce cadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY copyURLCmd.label             "Copier l’adresse web">
-<!ENTITY copyURLFeedback.label        "Copié !">
+<!ENTITY copyURLFeedback.label        "Copiée !">
 <!ENTITY emailPageCmd.label           "Envoyer par courriel un lien vers la page…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrer sous…">
