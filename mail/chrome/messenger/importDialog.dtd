@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
+<!ENTITY importDialog.windowTitle "Import">
+<!ENTITY importAll.label          "Import Semua">
+<!ENTITY importAll.accesskey      "S">
+<!ENTITY importMail.label         "Mel">
+<!ENTITY importMail.accesskey     "M">
+<!ENTITY importFeeds.label        "Langganan Suapan">
+<!ENTITY importFeeds.accesskey    "n">
+<!ENTITY importAddressbook.label  "Buku Alamat">
+<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importSettings.label     "Tetapan">
+<!ENTITY importSettings.accesskey "T">
+<!ENTITY importFilters.label      "Penapis">
+<!ENTITY importFilters.accesskey  "P">
+
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
+
+<!ENTITY importTitle.label        "Bestari Import &brandShortName;">
+<!ENTITY importShortDesc.label    "Import Mel, Buku Alamat, Tetapan dan Penapis daripada atur cara lain">
+
+<!ENTITY importDescription1.label "Bestari ini akan mengimport mesej mel, entri buku alamat, langganan suapam, keutamaan, dan/atau penapis daripada atur cara mel lain, serta format alamat buku biasa ke dalam &brandShortName;.">
+
+
+
+
