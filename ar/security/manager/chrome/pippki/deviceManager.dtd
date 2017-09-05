@@ -26,8 +26,10 @@
 
 <!ENTITY loaddevice.info                        "أدخل معلومات الوحدة التي تريد إضافتها.">
 <!ENTITY loaddevice.modname2                    "اسم الوحدة">
+<!ENTITY loaddevice.modname2.accesskey          "ح">
 <!ENTITY loaddevice.modname.default             "وحدة PKCS#11 جديدة">
 <!ENTITY loaddevice.filename2                   "اسم ملفّ الوحدة">
+<!ENTITY loaddevice.filename2.accesskey         "ف">
 <!ENTITY loaddevice.browse                      "تصفّح…">
 <!ENTITY loaddevice.browse.accesskey            "ص">
 
