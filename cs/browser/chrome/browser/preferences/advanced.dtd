@@ -111,12 +111,12 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovat vyhledávací moduly">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY offlineStorageNotify.label               "Upozornit, pokud server chce uložit offline obsah">
+<!ENTITY offlineStorageNotify.label               "Upozornit, pokud server chce uložit obsah pro použití v režimu offline">
 <!ENTITY offlineStorageNotify.accesskey           "U">
 <!ENTITY offlineStorageNotifyExceptions.label     "Výjimky…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "k">
 
-<!ENTITY offlineAppsList3.label          "Následující servery mají povoleno ukládat offline obsah">
+<!ENTITY offlineAppsList3.label          "Následující servery mají povoleno ukládat obsah pro použití v režimu offline">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Odebrat…">
 <!ENTITY offlineAppsListRemove.accesskey "d">
