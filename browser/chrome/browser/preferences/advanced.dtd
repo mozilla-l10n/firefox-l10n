@@ -10,7 +10,7 @@
 <!ENTITY useCursorNavigation.accesskey   "V">
 <!ENTITY searchOnStartTyping.label       "Povoliť vyhľadávanie textu počas písania">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY useOnScreenKeyboard.label       "Zobraziť dotykovú klávesnicu, keď je to potrebné">
+<!ENTITY useOnScreenKeyboard.label       "V prípade potreby zobraziť dotykovú klávesnicu">
 <!ENTITY useOnScreenKeyboard.accesskey   "d">
 
 <!ENTITY browsing.label                  "Prehliadanie">
