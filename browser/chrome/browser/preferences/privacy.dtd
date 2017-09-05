@@ -115,4 +115,5 @@
 <!ENTITY  browserContainersSettings.accesskey    "ι">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Απαγόρευση πρόσβασης στο πρόγραμμα περιήγησής σας από υπηρεσίες προσβασιμότητας">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "π">
 <!ENTITY  a11yPrivacy.learnmore.label    "Μάθετε περισσότερα">
