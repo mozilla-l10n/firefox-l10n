@@ -12,7 +12,11 @@ Procurando por mais informações?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "
 A <a>Documentação de dados do Firefox</a> contém guias sobre como trabalhar com as nossas ferramentas de dados.">
 
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+A <a>documentação do cliente de telemetria do Firefox</a> inclui definições para conceitos, documentação de API e referências de dados.">
 
+<!ENTITY aboutTelemetry.telemetryDashboard "
+Os <a>painéis de Telemetria</a> permitem a visualização dos dados que a Mozilla recebe via Telemetria.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dados do ping atual">
 
