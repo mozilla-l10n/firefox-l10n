@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Gosod Cyfrif E-bost">
+<!ENTITY autoconfigWizard2.title         "Gosod Cyfrif E-bost Cyfredol">
 <!ENTITY name.label                      "Eich enw:">
 <!ENTITY name.accesskey                  "E">
 <!ENTITY name.placeholder                "Cyntaf Olaf">
 <!ENTITY name.text                       "Eich enw fel mae'n cael ei ddangos i eraill">
 <!ENTITY email.label                     "Cyfeiriad e-bost:">
 <!ENTITY email.accesskey                 "y">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "Eich cyfeiriad e-bost cyfredol">
 <!ENTITY password.label                  "Cyfrinair:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Cyfrinair">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "A">
 <!ENTITY manual-edit.label               "Ffurfweddu â llaw">
 <!ENTITY manual-edit.accesskey           "l">
-<!ENTITY switch-to-provisioner.label     "Estyn cyfrif newydd">
-<!ENTITY switch-to-provisioner.accesskey "E">
+<!ENTITY open-provisioner.label          "Cael cyfeiriad e-bost newydd…">
+<!ENTITY open-provisioner.accesskey      "c">
 
 
 <!ENTITY warning.label                   "Rhybudd!">

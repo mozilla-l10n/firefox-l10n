@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Cyfrifon">
 <!ENTITY subscribeImapFolders.label   "Rheoli tanysgrifiadau ffolderi">
 <!ENTITY settingsLink.label           "Edrych ar osodiadau'r cyfrif">
-<!ENTITY newAcctLink.label            "Creu cyfrif newydd">
-<!ENTITY newAcct.label                "Creu cyfrif newydd:">
+<!ENTITY setupNewAcct.label           "Gosod cyfrif:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Nodweddion Uwch">
 <!ENTITY searchMsgsLink.label         "Chwilio negeseuon">
