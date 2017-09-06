@@ -2,146 +2,104 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetrická data">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Zdroj dat pro ping:
 ">
-
-<!ENTITY aboutTelemetry.moreInformations "
-Hledáte více informací?
-">
-
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-<a>Dokumentace dat Firefoxu</a> obsahuje návody pro práci s našimi datovými nástroji.
-">
-
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-<a>Dokumentace klienta telemetrie Firefoxu</a> obsahuje definice pojmů, dokumentaci API a popisy dat.
-">
-
-<!ENTITY aboutTelemetry.telemetryDashboard "
-<a>Nástěnky telemetrie</a> umožňují zobrazovat data, které Mozilla získává z telemetrie.
-">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Současná data pro ping
 ">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Archivovaná data pro ping
 ">
+<!ENTITY aboutTelemetry.showSubsessionData "
+Zobrazit data o pod-relacích
+">
+<!ENTITY aboutTelemetry.choosePing "
+Vybrat ping:
+">
+<!ENTITY aboutTelemetry.archivePingType "
+Typ pingu
+">
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Dnes
+">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Včera
+">
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Starší
+">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Obsah
+">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.raw "
-Neformátovaný JSON
+<!ENTITY aboutTelemetry.pageTitle "Telemetrická data">
+<!ENTITY aboutTelemetry.moreInformations "
+Hledáte více informací?
+">
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Dokumentace dat Firefoxu</a> obsahuje návody pro práci s našimi datovými nástroji.
+">
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Dokumentace klienta telemetrie Firefoxu</a> obsahuje definice pojmů, dokumentaci API a popisy dat.
+">
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Nástěnky telemetrie</a> umožňují zobrazovat data, které Mozilla získává z telemetrie.
 ">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Otevřít v zobrazení JSONu
 ">
 
-<!ENTITY aboutTelemetry.showSubsessionData "
-Zobrazit data o pod-relacích
-">
-
-<!ENTITY aboutTelemetry.choosePing "
-Vybrat ping:
-">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Novější ping
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Starší ping &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Týden
-">
-
-<!ENTITY aboutTelemetry.archivePingType "
-Typ pingu
-">
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping
-">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-Dnes
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Včera
-">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Starší
-">
-
+<!ENTITY aboutTelemetry.homeSection "Domů">
 <!ENTITY aboutTelemetry.generalDataSection "
   Obecná data
 ">
-
 <!ENTITY aboutTelemetry.environmentDataSection "
   Data prostředí
 ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-   Protokol telemetrie
-">
-
-<!ENTITY aboutTelemetry.slowSqlSection "Pomalé dotazy SQL">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "Zatuhnutí prohlížeče">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Zachycené zásobníky
-">
-
-<!ENTITY aboutTelemetry.scalarsSection "
-  Skaláry">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Klíčové skaláry
-">
-
-<!ENTITY aboutTelemetry.histogramsSection "Histogramy">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Histogramy s klíčem
-">
-
-<!ENTITY aboutTelemetry.eventsSection "
-  Události">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduchá měření">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Informace o doplňcích
-">
-
-<!ENTITY aboutTelemetry.lateWritesSection "Pozdní zápisy">
-
-<!ENTITY aboutTelemetry.rawPayloadSection "
-Raw obsah
-">
-
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Informace o relaci
 ">
+<!ENTITY aboutTelemetry.scalarsSection "
+  Skaláry">
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Klíčové skaláry
+">
+<!ENTITY aboutTelemetry.histogramsSection "Histogramy">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Histogramy s klíčem
+">
+<!ENTITY aboutTelemetry.eventsSection "
+  Události">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduchá měření">
+<!ENTITY aboutTelemetry.telemetryLogSection "
+   Protokol telemetrie
+">
+<!ENTITY aboutTelemetry.slowSqlSection "Pomalé dotazy SQL">
+<!ENTITY aboutTelemetry.chromeHangsSection "Zatuhnutí prohlížeče">
+<!ENTITY aboutTelemetry.addonDetailsSection "
+  Informace o doplňcích
+">
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Zachycené zásobníky
+">
+<!ENTITY aboutTelemetry.lateWritesSection "Pozdní zápisy">
+<!ENTITY aboutTelemetry.rawPayloadSection "
+Raw obsah
+">
+<!ENTITY aboutTelemetry.raw "
+Neformátovaný JSON
+">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "Poznámka: Ladění pomalých dotazů SQL je zapnuto. Ve výpisu se mohou objevit úplné dotazy SQL, které ale nejsou odesílány.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "Získat názvy funkcí ze zásobníků">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "Zobrazit surová data zásobníku">
-
-<!ENTITY aboutTelemetry.filterText "
-  Filtr (řetězce nebo /regexp/)
-">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Obsah
-">
