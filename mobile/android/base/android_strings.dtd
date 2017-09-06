@@ -410,6 +410,7 @@
 <!ENTITY pref_dialog_set_default "ตั้งเป็นค่าเริ่มต้น">
 <!ENTITY pref_dialog_default "ค่าเริ่มต้น">
 <!ENTITY pref_dialog_remove "เอาออก">
+<!ENTITY pref_dialog_activitystream_header_content "เนื้อหาเพิ่มเติม">
 
 <!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้ายของคุณ">
 
@@ -843,16 +844,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "เยี่ยมชมแล้ว">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "กำลังนิยม">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "เอาออก">
 <!ENTITY activity_stream_delete_history "ลบออกจากประวัติ">
-
-<!ENTITY activity_stream_welcome_title "ยินดีต้อนรับสู่รายการเด่นของคุณ">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; สร้างรายการเด่นของสิ่งที่คุณได้ค้นพบบนเว็บเพื่อให้คุณสามารถกลับมาชมบทความ, วิดีโอ, ที่คั่นหน้า และหน้าอื่น ๆ ที่ยอดเยี่ยมได้">
-<!ENTITY activity_stream_welcome_dismiss "ยกเลิก">
 
 <!ENTITY private_tab_panel_title "การท่องเว็บแบบส่วนตัว + การป้องกันการติดตาม">
 <!ENTITY private_tab_panel_description "&brandShortName; ปิดกั้นบางส่วนของหน้าที่อาจติดตามกิจกรรมการท่องเว็บของคุณ">
