@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Jako standard wužiwać">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Wotstronić">
+<!ENTITY pref_dialog_activitystream_header_content "Přidatny wobsah">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Najnowše zapołožki">
+<!ENTITY pref_dialog_activitystream_visited "Wopytane">
 
 <!ENTITY pref_search_last_toast "Njemóžeće swoju poslednju pytawu wotstronić abo znjemóžnić.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Wopytany">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Popularny">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Započńće přehladować, a pokazamy někotre wulkotne nastawki, wideja a druhe strony, kotrež sće njedawno wopytał abo tu jako zapołožki składował.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Wotstronić">
 <!ENTITY activity_stream_delete_history "Z historije zhašeć">
-
-<!ENTITY activity_stream_welcome_title "Witajće k swojim wjerškam">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; wutwori nětko wjerški wěcow, kotrež sće w interneće wotkrył, zo byšće puć wróćo k wulkotnym nastawkam, widejam, zapołožkam a druhim stronam namakał.">
-<!ENTITY activity_stream_welcome_dismiss "Zaćisnyć">
 
 <!ENTITY private_tab_panel_title "Priwatny modus + slědowanski škit">
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje dźěle stronow, kotrež móhli wašu přehladowansku aktiwitu slědować.">
