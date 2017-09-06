@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Obnovit všechny panely">
 <!ENTITY  reloadAllTabs.accesskey            "b">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Duplikovat panel">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -50,7 +54,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Přesunout do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Přidat všechny panely do záložek…">
-<!ENTITY  bookmarkAllTabs.accesskey          "d">
+<!ENTITY  bookmarkAllTabs.accesskey          "P">
 <!ENTITY  undoCloseTab.label                 "Obnovit zavřený panel">
 <!ENTITY  undoCloseTab.accesskey             "t">
 <!ENTITY  closeTab.label                     "Zavřít panel">
@@ -89,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Obnovit všechny panely">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "b">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Přidat všechny panely do záložek…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "P">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Obnovit zavřený panel">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "t">
 
@@ -974,3 +978,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí historii, uložené záložky, a mnoho dalšího">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funkce pro pro podporu přístupnosti jsou povoleny">
