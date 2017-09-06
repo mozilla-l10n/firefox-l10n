@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "设为默认">
 <!ENTITY pref_dialog_default "默认值">
 <!ENTITY pref_dialog_remove "移除">
+<!ENTITY pref_dialog_activitystream_header_content "额外内容">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "最近的书签">
+<!ENTITY pref_dialog_activitystream_visited "曾经造访">
 
 <!ENTITY pref_search_last_toast "您可以移除或禁用您最少使用的搜索引擎。">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "曾经访问">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "趋势">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "开始浏览旅程吧，之后这里会显示您最近看过或加了书签的精彩文章、视频或其他页面。">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "移除">
 <!ENTITY activity_stream_delete_history "从历史记录删除">
-
-<!ENTITY activity_stream_welcome_title "欢迎！这里是您的集锦">
-<!ENTITY activity_stream_welcome_content1 "现在，&brandShortName; 会把您在网上的新发现整理成集锦，方便您快速回到这些有用的文章、视频、加了书签的网页等。">
-<!ENTITY activity_stream_welcome_dismiss "消除">
 
 <!ENTITY private_tab_panel_title "隐私浏览 + 跟踪保护">
 <!ENTITY private_tab_panel_description "&brandShortName; 将拦截页面中可能跟踪您的浏览行为的部分。">
