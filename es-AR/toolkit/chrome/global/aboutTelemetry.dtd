@@ -51,11 +51,13 @@ La <a>documentación de datos de Firefox</a> contiene guías sobre como trabajar
 <!ENTITY aboutTelemetry.telemetryClientDoc "
 La <a>documentación del cliente Telemetry de Firefox</a> incluye definiciones para conceptos, documentación de API y referencias de datos.
 ">
+<!ENTITY aboutTelemetry.telemetryDashboard "Los <a>tableros de Telemetría</a> le permiten visualizar los datos de Telemetría que recibe Mozilla.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Abrir en el visor de JSON
 ">
 
+<!ENTITY aboutTelemetry.homeSection "Inicio">
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos generales
 ">
