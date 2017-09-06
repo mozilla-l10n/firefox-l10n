@@ -13,6 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 30em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
 <!ENTITY  paneSearchResults.title       "Pytańske wuslědki">
 <!ENTITY  paneGeneral.title             "Powšykne">
 <!ENTITY  paneSearch.title              "Pytaś">
@@ -24,8 +29,8 @@
 <!ENTITY  languageAndAppearance.label   "Rěc a wuglěd">
 <!ENTITY  filesAndApplications.label    "Dataje a nałoženja">
 <!ENTITY  browserPrivacy.label          "Priwatnosć wobglědowaka">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Konto Firefox">
 
 <!ENTITY  helpButton2.label        "Pomoc &brandShortName;">
