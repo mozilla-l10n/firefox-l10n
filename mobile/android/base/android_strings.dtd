@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Nastavi kot privzeto">
 <!ENTITY pref_dialog_default "Privzeto">
 <!ENTITY pref_dialog_remove "Odstrani">
+<!ENTITY pref_dialog_activitystream_header_content "Dodatna vsebina">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nedavni zaznamki">
+<!ENTITY pref_dialog_activitystream_visited "Obiskano">
 
 <!ENTITY pref_search_last_toast "Ne morete odstraniti ali onemogočiti vašega zadnjega iskalnika.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Obiskano">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Priljubljeno">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Začnite z brskanjem, mi pa vam bomo tu prikazovali odlične članke, videoposnetke ter druge strani, ki ste jih nedavno obiskali ali shranili med zaznamke.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Odstrani">
 <!ENTITY activity_stream_delete_history "Izbriši iz zgodovine">
-
-<!ENTITY activity_stream_welcome_title "Dobrodošli v vaše poudarke">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; zdaj ustvarja poudarke stvari, ki jih odkrivate na spletu, tako da lahko znova najdete zanimive članke, videoposnetke, zaznamke in druge strani.">
-<!ENTITY activity_stream_welcome_dismiss "Opusti">
 
 <!ENTITY private_tab_panel_title "Zasebno brskanje in zaščita pred sledenjem">
 <!ENTITY private_tab_panel_description "&brandShortName; zavrača dele strani, ki lahko sledijo vaši dejavnosti na spletu.">
