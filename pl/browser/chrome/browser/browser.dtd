@@ -186,7 +186,8 @@
 <!ENTITY bookmarksButton.label          "Zakładki">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
-<!ENTITY bookmarksMenuButton.label          "Zakładki">
+<!ENTITY bookmarksSubview.label "Zakładki">
+<!ENTITY bookmarksMenuButton2.label "Menu zakładki">
 <!ENTITY bookmarksMenuButton.other.label "Pozostałe zakładki">
 <!ENTITY bookmarksMenuButton.mobile.label "Zakładki z urządzeń przenośnych">
 <!ENTITY viewBookmarksSidebar2.label "Wyświetl panel zakładek">
