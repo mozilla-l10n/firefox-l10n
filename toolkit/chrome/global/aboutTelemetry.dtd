@@ -36,7 +36,7 @@ Ping 类型
 <a>Firefox 遥测客户端文档</a> 包括概念、API 文档以及数据引用的定义。
 ">
 <!ENTITY aboutTelemetry.telemetryDashboard "
-<a>遥测面板</a> 允许您可视化 Mozilla 通过遥测收到的数据。
+<a>遥测面板</a> 直观显示了 Mozilla 通过遥测收到的数据。
 ">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
@@ -58,7 +58,7 @@ Ping 类型
 <!ENTITY aboutTelemetry.eventsSection "事件">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  简单测量">
 <!ENTITY aboutTelemetry.telemetryLogSection "  遥测日志">
-<!ENTITY aboutTelemetry.slowSqlSection "  慢的SQL语句">
+<!ENTITY aboutTelemetry.slowSqlSection "迟钝的 SQL 语句">
 <!ENTITY aboutTelemetry.chromeHangsSection "  浏览器挂起">
 <!ENTITY aboutTelemetry.addonDetailsSection "   附加组件详情 ">
 <!ENTITY aboutTelemetry.capturedStacksSection "捕获的堆栈">
@@ -68,7 +68,7 @@ Ping 类型
 ">
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "   注意：慢速 SQL 排错已启用。所有 SQL 字符串都可能在下面显示，但它们不会被遥测技术所提交。">
+<!ENTITY aboutTelemetry.fullSqlWarning "注意：针对迟钝 SQL 的排错已启用。完整的 SQL 字符串可能会在下面显示，但不会被遥测技术所提交。">
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   从堆栈获取函数名称
 ">
