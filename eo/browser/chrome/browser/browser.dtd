@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "Personecigi">
 <!ENTITY appMenuCustomize.tooltip "Personecigi la menuon kaj ilarstriojn">
 <!ENTITY appMenuCustomizeExit.label "Fini personecigon">
-<!ENTITY appMenuCustomizeExit.tooltip "Fini la personan agordon">
+<!ENTITY appMenuCustomizeExit.tooltip "Fini personecigon">
 <!ENTITY appMenuHistory.showAll.label "Montri tutan historion">
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
