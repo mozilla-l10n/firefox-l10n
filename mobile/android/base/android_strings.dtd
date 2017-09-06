@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "நல்வரவு">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; உலாவியைத் தேர்ந்தமைக்கு நன்றி">
+<!ENTITY firstrun_urlbar_subtext2 "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து ஒரு நவீன கைபேசி உலாவி.">
 <!ENTITY firstrun_panel_title_privacy "அந்தரங்கம்">
 <!ENTITY firstrun_privacy_message "யாரும் காண வண்ணம் உலாவுங்கள்">
+<!ENTITY firstrun_privacy_subtext "பின்தொடரல் பாதுகாப்புடன் கூடிய தனிப்பட்ட உலாவல் நீங்கள் உலாவும்போது பின்தொடரிகளை தடுக்கிறது மேலும் நீங்கள் உலாவலை முடித்தபின் உங்கள் வரலாற்றை நினைவில் கொள்ளாது.">
 <!ENTITY firstrun_panel_title_customize "விருப்பமை">
 <!ENTITY firstrun_customize_message "&brandShortName; உங்களுடையதாக மாற்றுங்கள்.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; உலாவியை மேற்சேர்க்கைகளுடன் தனிப்பயனாக்கவும். விளம்பரங்களைத் தடுக்கவும், அம்சங்களைச் சேர்க்கவும், அல்லது உங்கள் தோற்றத்தை பிரதிபலிக்கும் ஒரு புதிய கருப்பொருளைத் தேர்ந்தெடுக்கவும்.">
 <!ENTITY firstrun_bookmarks_title "வரலாறு">
 <!ENTITY firstrun_bookmarks_message "உங்கள் விருப்பமானவை, முன் மற்றும் நடுவே">
 <!ENTITY firstrun_bookmarks_subtext "நீங்கள் தேடுகையில் உங்கள் புத்தகக்குறிகளிலிருந்தும் வரலாறிலிருந்தும் முடிவுகளைப் பெறுங்கள்.">
@@ -15,6 +18,8 @@
 <!ENTITY firstrun_data_message "குறைந்த தரவு, நிறைய சேமிப்பு">
 <!ENTITY firstrun_data_subtext2 "நீங்கள் எல்லா தளங்களிலும் குறைந்த தரவை செலவிட படங்களை அணையுங்கள்.">
 <!ENTITY firstrun_sync_title "ஒத்திசை">
+<!ENTITY firstrun_sync_message2 "நீங்கள் விட்டுவிட்ட இடத்தில் எடு.">
+<!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவத் தொடங்குக">
@@ -405,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "முன்னிருப்பாக அமை">
 <!ENTITY pref_dialog_default "முன்னிருப்பு">
 <!ENTITY pref_dialog_remove "நீக்கு">
+<!ENTITY pref_dialog_activitystream_header_content "கூடுதல் உள்ளடக்கம்">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "சமீபத்திய புத்தகக்குறிகள்">
+<!ENTITY pref_dialog_activitystream_visited "பார்வையிட்டது">
 
 <!ENTITY pref_search_last_toast "நீங்கள் இறுதியாகப் பயன்படுத்திய தேடல் பொறியை முடக்கவோ நீக்கவோ முடியாது.">
 
@@ -826,6 +834,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "புத்தக்குறிகளில் சேர்">
 
 <!ENTITY activity_stream_topsites "பார்த்தவை">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; பரிந்துரைத்தது">
 <!ENTITY activity_stream_highlights "மிளிர்ப்புகள்">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -834,6 +844,10 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "பார்வையிட்டது">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "பிரபலமான">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "உலாவலைத் தொடங்கவும், மேலும் நாங்கள் சில சிறந்த கட்டுரைகள், காணொளிகள், மற்றும் நீங்கள் சமீபத்தில் பார்த்த பிற பக்கங்கள் அல்லது இங்கே புத்தகக்குறியிட்டவற்றைக் காட்டுவோம்.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -841,11 +855,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "நீக்கு">
 <!ENTITY activity_stream_delete_history "வரலாற்றிலிருந்து அழி">
 
-<!ENTITY activity_stream_welcome_title "உங்களது சிறப்பம்சங்களுக்கு வரவேற்கிறோம்">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; என்பது நீங்கள் இணையத்தில் தேடிப் பார்த்தவற்றை சிறப்புக் கூறுகளாக உருவாக்கி உயரிய கட்டுரைகள, காணொளிகள், புத்தகக்குறிகள் பிற பக்கங்கள் ஆகியவற்றை காண வழிச் செய்கிறது.">
-<!ENTITY activity_stream_welcome_dismiss "நிராகரி">
-
 <!ENTITY private_tab_panel_title "அந்தரங்க உலாவல் + தடமறி பாதுகாப்பு">
+<!ENTITY private_tab_panel_description "&brandShortName; உங்கள் உலாவல் செயல்பாடைத் தடமறியும் பக்கத்தின் பகுதிகள் முடக்குகிறது.">
+<!ENTITY private_tab_panel_description2 "நாங்கள் எந்த வரலாற்றையும் நினைவில் கொள்ள மாட்டோம், ஆனால் பதிவிறக்கப்பட்ட கோப்புகள் மற்றும் புதிய புத்தககுறிகள் கருவியில் சேமிக்கப்படும்.">
 <!ENTITY private_tab_learn_more "அதிகம் கற்க வேண்டுமா?">
 
 <!ENTITY fullscreen_warning "முழுத்திரைக்குச் செல்">
