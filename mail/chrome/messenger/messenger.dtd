@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "임시 메시지 편집">
 <!ENTITY editDraftMsgCmd.accesskey "D">
+<!ENTITY newMsgFromTemplateCmd.label "서식 파일에서 새 메시지">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "메시지로부터 규칙 만들기">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "다른 폴더로 이동">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "첨부 파일로 정렬">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "서식 파일에서 새 메시지">
 <!ENTITY contextOpenNewWindow.label "새 창에 메시지 열기">
 <!ENTITY contextOpenNewWindow.accesskey "W">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "새 탭으로 메시지 열기">
 <!ENTITY contextOpenNewTab.accesskey "T">
 <!ENTITY contextOpenConversation.label "새 탭으로 대화 열기">
