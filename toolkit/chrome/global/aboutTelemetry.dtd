@@ -2,90 +2,60 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetridata">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping datakälla:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktuell ping-data">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Arkiverad ping-data">
-
-<!ENTITY aboutTelemetry.raw "Rå JSON">
-
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
-Öppna i JSON-visaren
-">
-
 <!ENTITY aboutTelemetry.showSubsessionData "Visa undersessionsdata">
-
 <!ENTITY aboutTelemetry.choosePing "Välj ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nyare ping">
-
-<!ENTITY aboutTelemetry.showOlderPing "Äldre ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Vecka">
-
 <!ENTITY aboutTelemetry.archivePingType "Ping-typ">
-
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
 <!ENTITY aboutTelemetry.optionGroupToday "Idag">
-
 <!ENTITY aboutTelemetry.optionGroupYesterday "Igår">
-
 <!ENTITY aboutTelemetry.optionGroupOlder "Äldre">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Nyttolast">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "Telemetridata">
+<!ENTITY aboutTelemetry.moreInformations "Letar du efter mer information?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox datadokumentation</a> innehåller guider om hur du arbetar med våra datainställningar.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry klientdokumentation</a> innehåller definitioner för begrepp, API-dokumentation och datareferenser.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Med <a>Telemetry översikter</a> kan du visualisera de data som Mozilla tar emot via telemetri.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Öppna i JSON-visaren">
+
+<!ENTITY aboutTelemetry.homeSection "Hem">
 <!ENTITY aboutTelemetry.generalDataSection "  Allmän data">
-
 <!ENTITY aboutTelemetry.environmentDataSection "  Miljödata">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Hängningar i webbläsaren">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Hängningar i trådar">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Fångade stackar
-">
-
+<!ENTITY aboutTelemetry.sessionInfoSection "  Sessionsinformation">
 <!ENTITY aboutTelemetry.scalarsSection "  Skalärer">
-
 <!ENTITY aboutTelemetry.keyedScalarsSection "  Nyckelbaserade skalärer">
-
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Nyckelhistogram">
-
 <!ENTITY aboutTelemetry.eventsSection "
   Händelser
 ">
-
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkla mätningar">
-
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
+<!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Hängningar i webbläsaren">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Tilläggsdetaljer">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Fångade stackar
+">
 <!ENTITY aboutTelemetry.lateWritesSection "  Sena skrivningar">
-
 <!ENTITY aboutTelemetry.rawPayloadSection "
 Rå nyttolast
 ">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  Sessionsinformation">
+<!ENTITY aboutTelemetry.raw "Rå JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  OBS: Långsam SQL-avlusning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Hämta funktionsnamn för stackar
 ">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Visa rå stackdata
 ">
-
-<!ENTITY aboutTelemetry.filterText "  Filter (strängar eller /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Nyttolast">

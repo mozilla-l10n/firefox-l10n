@@ -187,6 +187,7 @@
   -  label for the checkbox that toggles persistent logs in the netmonitor,
   -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Aktivera persistenta loggar">
 <!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Om du aktiverar detta alternativ kommer nätverksövervakaren inte att rensa utdata varje gång du går till en ny sida">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
