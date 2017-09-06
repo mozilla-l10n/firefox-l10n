@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Ako standard wužywaś">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Wótpóraś">
+<!ENTITY pref_dialog_activitystream_header_content "Pśidatne wopśimjeśe">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nejnowše cytańske znamjenja">
+<!ENTITY pref_dialog_activitystream_visited "Woglědane">
 
 <!ENTITY pref_search_last_toast "Njamóžośo swóju slědnu pytnicu wótpóraś abo znjemóžniś.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Woglědany">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Popularny">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Zachopśo pśeglědowaś, a pokažomy někotare wjelicne nastawki, wideo a druge boki, kótarež sćo se njedawno woglědał abo how ako cytańske znamjenja składował.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Wótwónoźeś">
 <!ENTITY activity_stream_delete_history "Z historije lašowaś">
-
-<!ENTITY activity_stream_welcome_title "Witajśo k swójim wjeraškam">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; napórajo něnto wjeraški wěcow, kótarež sćo w interneśe namakał, aby drogu slědk k wjelicnym nastawkam, wideo, cytańskim znamjenjam a drugim bokam namakał.">
-<!ENTITY activity_stream_welcome_dismiss "Zachyśiś">
 
 <!ENTITY private_tab_panel_title "Priwatny modus + slědowański šćit">
 <!ENTITY private_tab_panel_description "&brandShortName; blokěrujo źěle bokow, kótarež by mógli wašu pśeglědowańsku aktiwitu slědowaś.">
