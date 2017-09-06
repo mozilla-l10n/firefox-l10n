@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Bruk som standard">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Fjern">
+<!ENTITY pref_dialog_activitystream_header_content "Ytterligere innhold">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Seneste bokmerker">
+<!ENTITY pref_dialog_activitystream_visited "Besøkt">
 
 <!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere den siste søkemotoren.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besøkt">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trender">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Begynn å surfe, og vi viser noen av de beste artiklene, videoer og andre sider du nylig har besøkt eller bokmerket her.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Fjern">
 <!ENTITY activity_stream_delete_history "Slett fra historikk">
-
-<!ENTITY activity_stream_welcome_title "Velkommen til dine høydepunkter">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; lager nå høydepunkt av det du har funnet på nettet, slik at du kan finne tilbake til gode artikler, videoer, bokmerker og annet.">
-<!ENTITY activity_stream_welcome_dismiss "Lukk">
 
 <!ENTITY private_tab_panel_title "Privat nettlesing + sporingsbeskyttelse">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkerer deler av sidene som kan spore nettleseraktiviteten din.">
