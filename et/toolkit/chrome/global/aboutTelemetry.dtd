@@ -2,164 +2,122 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemeetriaandmed">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Andmete allikas:
 ">
-
-<!ENTITY aboutTelemetry.moreInformations "
-Soovid näha rohkem teavet?
-">
-
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-<a>Firefoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
-">
-
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-<a>Firefoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
-">
-
-<!ENTITY aboutTelemetry.telemetryDashboard "
-<a>Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Mozilla telemeetria kaudu vastu võtab.
-">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "
 Praegused andmed
 ">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Arhiveeritud andmed
 ">
+<!ENTITY aboutTelemetry.showSubsessionData "
+Kuvatakse alamseansside andmeid
+">
+<!ENTITY aboutTelemetry.choosePing "
+Vali ping:
+">
+<!ENTITY aboutTelemetry.archivePingType "
+Pingu tüüp
+">
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Täna
+">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Eile
+">
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Vanem
+">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Last
+">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.raw "
-algse JSONina
+<!ENTITY aboutTelemetry.pageTitle "Telemeetriaandmed">
+<!ENTITY aboutTelemetry.moreInformations "
+Soovid näha rohkem teavet?
+">
+<!ENTITY aboutTelemetry.firefoxDataDoc "
+<a>Firefoxi andmete dokumentatsioon</a> sisaldab juhendeid selle kohta, kuidas meie andmetööriistu kasutada.
+">
+<!ENTITY aboutTelemetry.telemetryClientDoc "
+<a>Firefoxi telemeetriaandmete kliendidokumentatsioon</a> sisaldab definitsioone mõistete, API dokumentatsiooni ja andmespetsifikatsioonide kohta.
+">
+<!ENTITY aboutTelemetry.telemetryDashboard "
+<a>Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Mozilla telemeetria kaudu vastu võtab.
 ">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Ava JSONi vaatajas
 ">
 
-<!ENTITY aboutTelemetry.showSubsessionData "
-Kuvatakse alamseansside andmeid
-">
-
-<!ENTITY aboutTelemetry.choosePing "
-Vali ping:
-">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Uuem ping
-">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Vanem ping &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-Nädal
-">
-
-<!ENTITY aboutTelemetry.archivePingType "
-Pingu tüüp
-">
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping
-">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-Täna
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Eile
-">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Vanem
-">
-
+<!ENTITY aboutTelemetry.homeSection "Avaleht">
 <!ENTITY aboutTelemetry.generalDataSection "
   Üldandmed
 ">
-
 <!ENTITY aboutTelemetry.environmentDataSection "
   Keskkonna andmed
 ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemeetria logi
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Seansi teave
 ">
-
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Aeglased SQL-päringud
-">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Brauseri hangumised
-">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Captured Stacks
-">
-
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalaarid
 ">
-
 <!ENTITY aboutTelemetry.keyedScalarsSection "
   Võtmepõhised skalaarid
 ">
-
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogrammid
 ">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Võtmepõhised histogrammid
 ">
-
 <!ENTITY aboutTelemetry.eventsSection "
   Sündmused
 ">
-
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Lihtsad mõõdistused
 ">
-
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  Telemeetria logi
+">
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Aeglased SQL-päringud
+">
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Brauseri hangumised
+">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Lisade üksikasjad
 ">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Captured Stacks
+">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Hilised kirjutamised
 ">
-
 <!ENTITY aboutTelemetry.rawPayloadSection "
 Eeltöötlemata last
 ">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Seansi teave
+<!ENTITY aboutTelemetry.raw "
+algse JSONina
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQL-päringuid, aga neid ei saadeta telemeetria kaudu edasi.
 ">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Fetch function names for stacks
 ">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Show raw stack data
-">
-
-<!ENTITY aboutTelemetry.filterText "
-  Filtreeri (stringide või /regulaaravaldistega/)
-">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Last
 ">
