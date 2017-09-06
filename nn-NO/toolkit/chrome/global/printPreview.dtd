@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "175 &#037;">
 <!ENTITY p200.label           "200 &#037;">
 <!ENTITY Custom.label         "Eigendefinert …">
-<!ENTITY ShrinkToFit.label    "Forminsk til å passa">
+<!ENTITY ShrinkToFit.label    "Tilpass til sida">
 <!ENTITY customPrompt.title   "Eigendefinert skala …">
 <!ENTITY simplifyPage.label   "Forenkla sida">
 <!ENTITY simplifyPage.accesskey "F">
