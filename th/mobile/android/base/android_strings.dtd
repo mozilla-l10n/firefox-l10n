@@ -412,6 +412,7 @@
 <!ENTITY pref_dialog_remove "เอาออก">
 <!ENTITY pref_dialog_activitystream_header_content "เนื้อหาเพิ่มเติม">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "ที่คั่นหน้าเมื่อเร็ว ๆ นี้">
+<!ENTITY pref_dialog_activitystream_visited "เยี่ยมชมแล้ว">
 
 <!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้ายของคุณ">
 
