@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Definir como predefinição">
 <!ENTITY pref_dialog_default "Pré-definido">
 <!ENTITY pref_dialog_remove "Remover">
+<!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Marcadores recentes">
+<!ENTITY pref_dialog_activitystream_visited "Visitado">
 
 <!ENTITY pref_search_last_toast "Não pode remover ou desativar o seu último motor de pesquisa.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendência">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Comece a navegar e nós iremos mostrar-lhe alguns dos ótimos artigos, vídeos e outras páginas que visitou recentemente ou que adicionou aqui, aos marcadores.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Remover">
 <!ENTITY activity_stream_delete_history "Apagar do histórico">
-
-<!ENTITY activity_stream_welcome_title "Bem-vindo(a) aos seus destaques">
-<!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que descobriu na web para que encontre o seu caminho de volta para ótimos artigos, vídeos, marcadores, e outras páginas.">
-<!ENTITY activity_stream_welcome_dismiss "Dispensar">
 
 <!ENTITY private_tab_panel_title "Navegação privada + Proteção contra monitorização">
 <!ENTITY private_tab_panel_description "O &brandShortName; bloqueia partes das páginas que podem monitorizar a sua atividade de navegação.">
