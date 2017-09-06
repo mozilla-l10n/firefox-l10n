@@ -106,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Erişilebilirlik">
 <!ENTITY aboutSupport.a11yActivated "Etkinleştirildi">
 <!ENTITY aboutSupport.a11yForceDisabled "Erişilebilirliği engelle">
+<!ENTITY aboutSupport.a11yHandlerUsed "Erişilebilir işleyici kullanımı">
 <!ENTITY aboutSupport.a11yInstantiator "Erişilebilirlik temsilcisi">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Kitaplık sürümleri">
