@@ -20,7 +20,7 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Forminsk til å passa sidebreidda">
+<!ENTITY shrinkToFit.label   "Tilpass til sidebreidda">
 <!ENTITY shrinkToFit.accesskey "F">
 
 <!ENTITY optionsGroup.label  "Innstillingar">
