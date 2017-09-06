@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Definir sco standard">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Allontanar">
+<!ENTITY pref_dialog_activitystream_header_content "Cuntegn supplementar">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Segnapaginas novs">
+<!ENTITY pref_dialog_activitystream_visited "Visità">
 
 <!ENTITY pref_search_last_toast "Ti na pos betg allontanar u deactivar l\&apos;ultima maschina da tschertgar.">
 
