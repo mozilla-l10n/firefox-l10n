@@ -44,3 +44,11 @@
 <!ENTITY aboutNetworking.rcwn                  "RCWN İstatistikleri">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN durumu">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam ağ isteği sayısı">
+<!ENTITY aboutNetworking.rcwnOperation         "Önbellek operasyonu">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Açma">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Okuma">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Yazma">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Kayıt açma">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Kısa ortalama">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Uzun ortalama">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Uzun standart sapma">
