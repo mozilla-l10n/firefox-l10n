@@ -32,5 +32,5 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "இந்த இணைய தளம் <span id='phishing_sitename'/>இல் ஒரு இணைய மோசடி செய்துள்ளதாக அறிக்கையிடப்பட்டு உங்கள் பாதுகாப்பு முன்னுரிமையின் படி தடுக்கப்பட்டுள்ளது.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ஏமாற்றும் தளங்கள், மென்பொருளை நிறுவல், உங்கள் அந்தரங்க தகவல்களான கடவுச்சொல், கைபேசி எண், கடன் அட்டை வெளிப்படுத்தல் போன்றவற்றை செய்யும் வண்ணம் வடிவமைக்கப்பட்டுள்ளது.</p><p>இந்த தளத்தில் தகவல்களை இடுவது அடையாளத்திருட்டு அல்லது பிற ஏமாற்று வேலைக்கு காரணமாகலாம்.</p>">
 
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.title "முன்புள்ள தளம் தீங்குநிரல் கொண்டிருக்கலாம்">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "உங்கள் தகவலைத் (எடுத்துக்காட்டாக படங்கள், கடவுச்சொற்கள், செய்திகள் மற்றும் கடன் அட்டைகள்) திருட அல்லது அழிக்க முயற்சிக்கும் ஆபத்தான செயலிகளை இந்த பக்கம் நிறுவ முயற்சித்ததால் &brandShortName; முடக்கியது.">
