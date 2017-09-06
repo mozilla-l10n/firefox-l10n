@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Účty">
 <!ENTITY subscribeImapFolders.label   "Správa odoberania priečinkov">
 <!ENTITY settingsLink.label           "Zobraziť nastavenia tohto účtu">
-<!ENTITY newAcctLink.label            "Vytvoriť nový účet">
-<!ENTITY newAcct.label                "Vytvoriť nový účet:">
+<!ENTITY setupNewAcct.label           "Vytvorenie účtu:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Pokročilé funkcie">
 <!ENTITY searchMsgsLink.label         "Vyhľadávanie v správach">
