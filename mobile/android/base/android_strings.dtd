@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "تنظیم به عنوان پیش‌فرض">
 <!ENTITY pref_dialog_default "پیش‌فرض">
 <!ENTITY pref_dialog_remove "حذف">
+<!ENTITY pref_dialog_activitystream_header_content "محتوای اضافی">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "نشانک‌های اخیر">
+<!ENTITY pref_dialog_activitystream_visited "بازدید شده">
 
 <!ENTITY pref_search_last_toast "شما آخرین موتور جست‌وجو را نمی‌توانید حذف یا غیرفعال کنید.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "دیده شد">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "در حال رشد">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "مرور را آغاز کنید، ما در اینجا مقاله‌های عالی، ویدیوها و صفحه‌های دیگری که اخیرا دیده‌اید یا نشانک‌گذاری کردید را نمایش می‌دهیم.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "حذف">
 <!ENTITY activity_stream_delete_history "حذف از تاریخچه">
-
-<!ENTITY activity_stream_welcome_title "به موارد برجسته خوش ‌آمدید">
-<!ENTITY activity_stream_welcome_content1 "اکنون &brandShortName; موارد برجسته را برای چیزهایی که شما در وب کشفه کرده‌اید ایجاده میکند تا راه خود را به سوی مقالات،‌ ویدیو ها، نشانک ها و سایر صفحات خود پیدا کنید.">
-<!ENTITY activity_stream_welcome_dismiss "‏‏نادیده گرفتن">
 
 <!ENTITY private_tab_panel_title "مرور ناشناس + امکان محافظت در برابر ردگیری">
 <!ENTITY private_tab_panel_description "&brandShortName; بخشی از صفحاتی که ممکن است فعالیت‌های شما را ردگیری کنند، مسدود می‌کند.">
