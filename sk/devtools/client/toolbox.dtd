@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Povoliť vzdialené ladenie">
 <!ENTITY options.enableRemote.tooltip2  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie vzdialených inštancií, napr. Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Povoliť ladenie workerov (vo vývoji)">
-<!ENTITY options.enableWorkers.tooltip  "Zapnutie tejto voľby vám umožní používať vývojárske nástroje na ladenie workerov">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,16 @@
 <!ENTITY options.screenshot.audio.label      "Prehrať zvuk spúšte fotoaparátu">
 <!ENTITY options.screenshot.audio.tooltip    "Povolí zvuk fotoaparátu pri tvorbe snímok obrazovky">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Bežné nastavenia">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Sieťová aktivita">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Povoliť trvalé záznamy">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ak povolíte túto možnosť, Webová konzola ani Monitor sieťovej aktivity nebudú vymazávať výstup pri každej návšteve novej stránky">
+<!ENTITY options.netmonitor.enablePersistentLogs.label    "Povoliť trvalé záznamy">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Ak povolíte túto možnosť, monitor sieťovej aktivity nebude vymazávať výstup pri každej návšteve novej stránky">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
