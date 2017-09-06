@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "Nastavenie existujúceho e-mailového účtu">
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "V">
 <!ENTITY name.placeholder                "Meno priezvisko">
@@ -54,6 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Manuálne nastavenie">
 <!ENTITY manual-edit.accesskey           "n">
+<!ENTITY open-provisioner.label          "Získať novú e-mailovú adresu…">
+<!ENTITY open-provisioner.accesskey      "v">
 
 
 <!ENTITY warning.label                   "Upozornenie!">
