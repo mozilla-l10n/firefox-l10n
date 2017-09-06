@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Tichap achi\&apos;el ri e k\&apos;o wi">
 <!ENTITY pref_dialog_default "K\&apos;o wi">
 <!ENTITY pref_dialog_remove "Tik\&apos;am el">
+<!ENTITY pref_dialog_activitystream_header_content "Rutz\&apos;aqat rupam">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "K\&apos;ak\&apos;a\&apos; taq Yaketal">
+<!ENTITY pref_dialog_activitystream_visited "Tz\&apos;eton">
 
 <!ENTITY pref_search_last_toast "Man tikirel ta nak\&apos;äm el o nachüp ri ruk\&apos;isib\&apos;al a samajinel kanonïk.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Tz\&apos;eton">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "K\&apos;o rajaw">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Katok pa k\&apos;amaya\&apos;l richin niqak\&apos;üt chawäch jeb\&apos;ël taq cholna\&apos;oj, taq silowäch, chuqa\&apos; ch\&apos;aqa\&apos; chik taq ruxaq k\&apos;a b\&apos;a\&apos; ke\&apos;atz\&apos;ët o aya\&apos;on kan ketal wawe\&apos;.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Tiyuj">
 <!ENTITY activity_stream_delete_history "Tiyuj el pa k\&apos;ulwachinel">
-
-<!ENTITY activity_stream_welcome_title "Ütz apetik pa ri nima\&apos;q taq k\&apos;ojlemal">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; wakami tanuk\&apos;u\&apos; ri nïm taq wachinäq e\&apos;awilon pa ajk\&apos;amaya\&apos;l richin nawïl ri b\&apos;ey richin yatzolin pa ri rutzijol taq na\&apos;oj, taq silowachib\&apos;äl, taq yaketal chuqa\&apos; ch\&apos;aqa\&apos; chik ruxaq taq k\&apos;amaya\&apos;l.">
-<!ENTITY activity_stream_welcome_dismiss "Tichup ruwäch">
 
 <!ENTITY private_tab_panel_title "Ichinan Okik\&apos;amaya\&apos;l + Chajinïk chuwäch Ojqanïk">
 <!ENTITY private_tab_panel_description "&brandShortName; yeruq\&apos;ät jujun taq peraj chi re ri ruxaq, ri yetikïr nikikanoj ri asamaj pa okik\&apos;amaya\&apos;l.">
