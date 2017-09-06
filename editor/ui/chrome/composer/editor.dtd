@@ -10,7 +10,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Bar alatan Komposisi">
+<!ENTITY compositionToolbar.tooltip "Bar alatan Karangan">
 <!ENTITY previewToolbarCmd.label "Lihat">
 <!ENTITY previewToolbarCmd.tooltip "Muatkan halaman ini dalam pelayar">
 
@@ -23,7 +23,7 @@
 <!ENTITY sendPageCmd.accesskey "r">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Bar alatan Komposisi">
+<!ENTITY compositionToolbarCmd.label "Bar alatan Karangan">
 <!ENTITY compositionToolbarCmd.accesskey "K">
 <!ENTITY formattingToolbarCmd.label "Bar alatan Format">
 <!ENTITY formattingToolbarCmd.accesskey "F">

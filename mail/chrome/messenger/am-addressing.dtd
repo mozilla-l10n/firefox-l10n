@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Komposisi &amp; Pengalamatan">
+<!ENTITY addressing.label          "Karangan &amp; Alamat">
 <!ENTITY addressingGroupTitle.label "Pengalamatan">
 <!ENTITY addressingText.label      "Apabila mencari alamat:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -19,7 +19,7 @@
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label          "Komposisi">
+<!ENTITY compositionGroupTitle.label          "Karangan">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Karang mesej dalam format HTML">
 <!ENTITY useHtml.accesskey                    "K">
