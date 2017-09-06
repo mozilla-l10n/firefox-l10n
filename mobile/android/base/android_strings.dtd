@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Nastavit jako výchozí">
 <!ENTITY pref_dialog_default "Výchozí">
 <!ENTITY pref_dialog_remove "Odebrat">
+<!ENTITY pref_dialog_activitystream_header_content "Doplňkový obsah">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nedávné záložky">
+<!ENTITY pref_dialog_activitystream_visited "Navštívené">
 
 <!ENTITY pref_search_last_toast "Nemůžete odebrat nebo zakázat váš poslední vyhledávací modul.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Zobrazeno">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Populární">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Začněte prohlížet a my vám zde ukážeme některé skvělé články, videa a další stránky, které jste nedávno viděli nebo uložili do záložek.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Odebrat">
 <!ENTITY activity_stream_delete_history "Smazat z historie">
-
-<!ENTITY activity_stream_welcome_title "Vítejte ve vašich Vybraných">
-<!ENTITY activity_stream_welcome_content1 "Aplikace &brandShortName; nyní vytváří výběr věcí, které jste na webu objevili, takže snadno naleznete cestu zpět ke skvělým článkům, videím, záložkám a ostatním stránkám.">
-<!ENTITY activity_stream_welcome_dismiss "Odmítnout">
 
 <!ENTITY private_tab_panel_title "Anonymní prohlížení + Ochrana proti sledování">
 <!ENTITY private_tab_panel_description "&brandShortName; blokuje ty součásti stránek, které mohou sledovat vaše chování při prohlížení.">
