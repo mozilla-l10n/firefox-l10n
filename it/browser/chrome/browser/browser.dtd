@@ -384,7 +384,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "b">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
-<!ENTITY copyURLCmd.label "Copia indirizzo">
+<!ENTITY pageAction.copyLink.label "Copia link">
 <!ENTITY copyURLFeedback.label "Copiato">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
@@ -691,7 +691,7 @@
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
 <!ENTITY pageAction.addToUrlbar.label "Aggiungi alla barra degli indirizzi">
 <!ENTITY pageAction.removeFromUrlbar.label "Rimuovi dalla barra degli indirizzi">
-<!ENTITY sendToDevice.label3 "Invia pagina a dispositivo">
+<!ENTITY pageAction.sendTabToDevice.label "Invia scheda a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizzazione dispositivi…">
 <!ENTITY libraryButton.tooltip "Visualizza cronologia, password salvate e altro ancora">
 <!ENTITY accessibilityIndicator.tooltip "Funzioni di accessibilità attivate">
