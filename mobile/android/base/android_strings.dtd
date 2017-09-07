@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "設為預設">
 <!ENTITY pref_dialog_default "預設">
 <!ENTITY pref_dialog_remove "移除">
+<!ENTITY pref_dialog_activitystream_header_content "其他內容">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "近期加入書籤">
+<!ENTITY pref_dialog_activitystream_visited "造訪過">
 
 <!ENTITY pref_search_last_toast "您不能移除或停用您的最後一個搜尋引擎。">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "造訪過">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "熱門趨勢">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "開始上網，我們就會把您在網路上發現的好文章、影片、剛加入書籤的頁面顯示於此處。">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "移除">
 <!ENTITY activity_stream_delete_history "從瀏覽紀錄刪除">
-
-<!ENTITY activity_stream_welcome_title "歡迎來到您的精選網站清單">
-<!ENTITY activity_stream_welcome_content1 "現在起，&brandShortName; 會為您在網路上發現的新事物建立精選網站，這樣您就可以快速地回到這些文章、影片、書籤等頁面。">
-<!ENTITY activity_stream_welcome_dismiss "知道了">
 
 <!ENTITY private_tab_panel_title "隱私瀏覽 + 追蹤保護">
 <!ENTITY private_tab_panel_description "&brandShortName; 會封鎖頁面中部分元素，以防止您的瀏覽行為被其追蹤。">
