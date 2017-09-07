@@ -539,7 +539,7 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-<!ENTITY pref_compact_tabs "Padatan tab">
+<!ENTITY pref_compact_tabs "Tab padat">
 <!ENTITY pref_compact_tabs_summary2 "Susun tab dua lajur dalam mod potret">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -667,8 +667,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Perlindungan Penjejakan">
-<!ENTITY doorhanger_tracking_state_enabled "Dayakan">
-<!ENTITY doorhanger_tracking_state_disabled "Nyahdaya">
+<!ENTITY doorhanger_tracking_state_enabled "Didayakan">
+<!ENTITY doorhanger_tracking_state_disabled "Dinyahdayakan">
 <!ENTITY doorhanger_tracking_message_enabled1 "Percubaan untuk menjejak tingkah laku anda dalam talian telah disekat.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Halaman ini mengandungi elemen yang boleh menjejak pelayaran anda.">
 
@@ -856,7 +856,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Buang">
-<!ENTITY activity_stream_delete_history "Hapus daripada Sejarah">
+<!ENTITY activity_stream_delete_history "Buang daripada Sejarah">
 
 <!ENTITY private_tab_panel_title "Pelayaran Peribadi + Perlindungan Penjejakan">
 <!ENTITY private_tab_panel_description "&brandShortName; menyekat sebahagian halaman yang mungkin menjejaki aktiviti pelayaran anda.">
