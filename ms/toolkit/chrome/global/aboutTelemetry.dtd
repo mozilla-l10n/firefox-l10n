@@ -2,135 +2,56 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
-
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
-
-<!ENTITY aboutTelemetry.moreInformations "
-Mencari maklumat selanjutnya?
-">
-
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-<a>Dokumentasi Data Firefox</a> mengandungkan panduan perihal cara menggunakan alatan data kami.
-">
-
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-<a>Dokumentasi klien Telemetri Firefox</a> menjelaskan takrif konsep, dokumentasi API dan rujukan data.
-">
-
-<!ENTITY aboutTelemetry.telemetryDashboard "
-<a>Papan pemuka Telemetri</a> membolehkan anda menggambarkan data yang diterima oleh Mozilla melalui Telemetri.
-">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping semasa">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping diarkibkan">
+<!ENTITY aboutTelemetry.showSubsessionData "Papar data sub-sesi">
+<!ENTITY aboutTelemetry.choosePing "Pilih ping:">
+<!ENTITY aboutTelemetry.archivePingType "Jenis Ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Hari ini">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Semalam">
+<!ENTITY aboutTelemetry.optionGroupOlder "Lebih lama">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Muatan">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.raw "
-JSON Mentah
-">
+<!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
+<!ENTITY aboutTelemetry.moreInformations "Mahu mencari maklumat selanjutnya?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentasi Data Firefox</a> mengandungkan panduan perihal cara menggunakan alatan data kami.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry klien dokumentasi</a> menjelaskan takrif konsep, dokumentasi API dan rujukan data.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Papan pemuka Telemetri</a> membolehkan anda menggambarkan data yang diterima oleh Mozilla melalui Telemetri.">
 
-<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
-Buka dalam pemapar JSON
-">
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buka dalam pemapar JSON">
 
-<!ENTITY aboutTelemetry.showSubsessionData "
-Papar data subsesi
-">
-
-<!ENTITY aboutTelemetry.choosePing "
-Pilih ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Ping lebih baru">
-
-<!ENTITY aboutTelemetry.showOlderPing "
-Ping lebih lama &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
-
-<!ENTITY aboutTelemetry.archivePingType "
-Jenis Ping
-">
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-Ping ">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-Hari ini
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Semalam
-">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Lebih lama
-">
-
-<!ENTITY aboutTelemetry.generalDataSection "
-  
-  Data Umum">
-
-<!ENTITY aboutTelemetry.environmentDataSection "
-  Data Persekitaran">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  
-  Log Telemetri">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Penyata SQL Lambat">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Pelayar Tergantung">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Captured Stacks
-">
-
-<!ENTITY aboutTelemetry.scalarsSection "
-  Skala
-">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Keyed Scalars
-">
-
-<!ENTITY aboutTelemetry.histogramsSection "  Histogram">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
-">
-
-<!ENTITY aboutTelemetry.eventsSection "
-  Events
-">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Mudah">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Perincian Add-on">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  Tulis Lewat">
-
-<!ENTITY aboutTelemetry.rawPayloadSection "
-Muatan Mentah
-">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Maklumat Sesi">
+<!ENTITY aboutTelemetry.homeSection "Halaman utama">
+<!ENTITY aboutTelemetry.generalDataSection "Data Umum">
+<!ENTITY aboutTelemetry.environmentDataSection "Data Persekitaran">
+<!ENTITY aboutTelemetry.sessionInfoSection "Maklumat Sesi">
+<!ENTITY aboutTelemetry.scalarsSection "Skala">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Skala Dikunci">
+<!ENTITY aboutTelemetry.histogramsSection "Histogram">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogram Dikunci">
+<!ENTITY aboutTelemetry.eventsSection "Acara">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
+<!ENTITY aboutTelemetry.telemetryLogSection "Log Telemetri">
+<!ENTITY aboutTelemetry.slowSqlSection "Penyata SQL Perlahan">
+<!ENTITY aboutTelemetry.chromeHangsSection "Pelayar Tersekat">
+<!ENTITY aboutTelemetry.addonDetailsSection "Butiran Add-on">
+<!ENTITY aboutTelemetry.capturedStacksSection "Tangkapan Stacks">
+<!ENTITY aboutTelemetry.lateWritesSection "Penulisan Lewat">
+<!ENTITY aboutTelemetry.rawPayloadSection "Muatan Mentah">
+<!ENTITY aboutTelemetry.raw "JSON Mentah">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Fetch function names for stacks
 ">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Show raw stack data
 ">
-
-<!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Muat beban">
