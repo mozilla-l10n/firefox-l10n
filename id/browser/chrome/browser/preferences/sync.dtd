@@ -65,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Bawalah Web bersama Anda">
 <!ENTITY signedOut.description        "Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai perangkat Anda.">
 <!ENTITY signedOut.accountBox.title   "Sambungkan dengan &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "Tidak punya akun? Buatlah">
 <!ENTITY signedOut.accountBox.signin2 "Masuk…">
 
 <!ENTITY signedIn.settings.label       "Pengaturan Sinkronisasi">

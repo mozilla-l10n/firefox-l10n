@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Aktifkan pendebugan daring">
 <!ENTITY options.enableRemote.tooltip2  "Mengaktifkan opsi ini akan memungkinkan pengembang untuk mendebug salinan jarak jauh misalnya Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Aktifkan debug worker (dalam pengembangan)">
-<!ENTITY options.enableWorkers.tooltip  "Mengaktifkan opsi ini dapat digunakan agar alat pengembang dapat mendebug worker">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -185,17 +179,14 @@
 <!ENTITY options.screenshot.audio.label      "Bunyikan suara shutter kamera">
 <!ENTITY options.screenshot.audio.tooltip    "Aktifkan suara audio kamera saat mengambil tangkapan layar">
 
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Preferensi Umum">
+<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
+  -  heading of the group of Network Monitor preferences in the options panel. -->
+<!ENTITY options.netmonitor.label           "Jaringan">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
+  -  label for the checkbox that toggles persistent logs in the netmonitor,
+  -  i.e. devtools.netmonitor.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aktifkan mode penyimpanan catatan">
-<!ENTITY options.enablePersistentLogs.tooltip  "Jika opsi ini diaktifkan, Konsol Web dan Pemantau Jaringan tidak akan menghapus keluaran setiap kali Anda membuka halaman baru">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
