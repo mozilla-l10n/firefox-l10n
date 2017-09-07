@@ -12,15 +12,14 @@
 <!ENTITY window.title         "Azonzi neuvo contegnitô">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nomme:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nomme">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Scrivi o nomme do contegnitô">
-<!ENTITY icon.label           "Icònn-a:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Cô:">
-<!ENTITY color.accesskey      "C">
+<!ENTITY icon2.label          "Icònn-a">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Cô">
+<!ENTITY color2.accesskey     "C">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Fæto">
 <!ENTITY button.ok.accesskey  "F">
-
