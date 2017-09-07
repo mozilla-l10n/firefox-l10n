@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName;를 선택해 주셔서 감사합니다">
 <!ENTITY firstrun_urlbar_subtext2 "자유롭과 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
 <!ENTITY firstrun_panel_title_privacy "개인 정보">
 <!ENTITY firstrun_privacy_message "누구에게도 보이지 않는 웹 이용">
@@ -838,16 +839,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "방문한 사이트">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "트랜드">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "삭제">
 <!ENTITY activity_stream_delete_history "방문 기록에서 삭제">
-
-<!ENTITY activity_stream_welcome_title "하이라이트에 오신 것을 환영합니다">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName;가 글이나 동영상, 즐겨찾기, 다른 페이지들을 쉽게 다시 찾을 수 있게 웹에서 발견한 것들의 하이라이트를 만들 것입니다.">
-<!ENTITY activity_stream_welcome_dismiss "닫기">
 
 <!ENTITY private_tab_panel_title "사생활 보호 브라우징 + 추적 방지">
 <!ENTITY private_tab_panel_description "&brandShortName;는 웹 브라우징 활동을 추적하는 페이지들을 차단합니다.">
