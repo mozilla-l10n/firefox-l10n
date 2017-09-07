@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Definir como padrão">
 <!ENTITY pref_dialog_default "Padrão">
 <!ENTITY pref_dialog_remove "Remover">
+<!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Favoritos recentes">
+<!ENTITY pref_dialog_activitystream_visited "Visitados">
 
 <!ENTITY pref_search_last_toast "Não é possível remover ou desabilitar o único mecanismo de pesquisa que restou.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitado">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendência">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Comece a navegar e te mostraremos alguns dos melhores artigos, vídeos e outras páginas que você visitou ou favoritou recentemente.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Remover">
 <!ENTITY activity_stream_delete_history "Excluir do histórico">
-
-<!ENTITY activity_stream_welcome_title "Bem-vindo aos seus Destaques">
-<!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que você descobriu na web para que possa encontrar o caminho de volta para grandes artigos, vídeos, favoritos e outras páginas.">
-<!ENTITY activity_stream_welcome_dismiss "Descartar">
 
 <!ENTITY private_tab_panel_title "Navegação Privativa + Proteção Contra Rastreamento">
 <!ENTITY private_tab_panel_description "&brandShortName; bloqueia partes das páginas que podem rastrear suas atividades de navegação.">
