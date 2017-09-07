@@ -37,7 +37,7 @@
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Pindah Mesej ke">
 <!ENTITY copyMessage.label "Salin Mesej ke">
-<!ENTITY forwardTo.label "Memanjangkan Mesej ke">
+<!ENTITY forwardTo.label "Kirim semula Mesej kepada">
 <!ENTITY replyWithTemplate.label "Balas menggunakan Templat">
 <!ENTITY markMessageRead.label "Tandakan sebagai telah Dibaca">
 <!ENTITY markMessageUnread.label "Tandakan sebagai Belum Dibaca">
