@@ -126,7 +126,6 @@
 <!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę" >
 <!ENTITY editThisBookmarkCmd.label "Edytuj zakładkę">
 <!ENTITY bookmarkThisPageCmd.commandkey "d" >
-<!ENTITY feedsMenu2.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenupopup.label "Subskrybuj tę stronę">
 <!ENTITY subscribeToPageMenuitem.label "Subskrybuj tę stronę…">
 <!ENTITY addCurPagesCmd.label "Dodaj zakładki do wszystkich kart…">
@@ -198,8 +197,6 @@
 <!ENTITY bookmarkingTools.label "Narzędzia zakładek">
 <!ENTITY addBookmarksMenu.label "Dodaj menu Zakładki do paska narzędzi">
 <!ENTITY removeBookmarksMenu.label "Usuń menu Zakładki z paska narzędzi">
-
-<!ENTITY containersMenu.label "Konteksty">
 
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -294,7 +291,6 @@
 <!ENTITY appMenuCustomize.tooltip "Dostosuj menu i paski narzędzi">
 <!ENTITY appMenuCustomizeExit.label "Zakończ dostosowywanie">
 <!ENTITY appMenuCustomizeExit.tooltip "Zakończ dostosowywanie">
-<!ENTITY appMenuHistory.label "Historia">
 <!ENTITY appMenuHistory.showAll.label "Wyświetl całą historię">
 <!ENTITY appMenuHistory.clearRecent.label "Wyczyść historię przeglądania…">
 <!ENTITY appMenuHistory.restoreSession.label "Przywróć poprzednią sesję">
@@ -732,8 +728,6 @@
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Zamknij">
-
-<!ENTITY appMenuSidebars.label "Panele boczne">
 
 <!ENTITY panicButton.view.mainTimeframeDesc "Wyczyść historię przeglądania ostatnich:">
 <!ENTITY panicButton.view.5min "Pięciu minut">
