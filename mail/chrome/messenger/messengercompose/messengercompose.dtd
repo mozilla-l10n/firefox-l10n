@@ -261,8 +261,8 @@
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Няма предложения">
-<!ENTITY spellCheckIgnoreWord.label "Игнориране на дума">
-<!ENTITY spellCheckIgnoreWord.accesskey "И">
+<!ENTITY spellCheckIgnoreWord.label "Пренебрегване на думата">
+<!ENTITY spellCheckIgnoreWord.accesskey "д">
 <!ENTITY spellCheckAddToDictionary.label "Добавяне в речника">
 <!ENTITY spellCheckAddToDictionary.accesskey "ч">
 <!ENTITY undo.label "Отмяна">
