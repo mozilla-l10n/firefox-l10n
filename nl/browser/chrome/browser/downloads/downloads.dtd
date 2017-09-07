@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Tonen in Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Map Downloads tonen">
 <!ENTITY cmd.retry.label                  "Opnieuw proberen">
 <!ENTITY cmd.goToDownloadPage.label       "Naar downloadpagina gaan">
 <!ENTITY cmd.goToDownloadPage.accesskey   "d">
