@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Постави као подразумевано">
 <!ENTITY pref_dialog_default "Подразумевано">
 <!ENTITY pref_dialog_remove "Уклони">
+<!ENTITY pref_dialog_activitystream_header_content "Додатни садржај">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Недавне забелешке">
+<!ENTITY pref_dialog_activitystream_visited "Посећено">
 
 <!ENTITY pref_search_last_toast "Не можете уклонити или онемогућити последњи претраживач.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Посећене">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "У тренду">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Почните са прегледањем и ми ћемо вам овде приказати неке од сјајних чланака, видео записа и других страница које сте скоро посетили или забележили.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Уклони">
 <!ENTITY activity_stream_delete_history "Уклони из историјата">
-
-<!ENTITY activity_stream_welcome_title "Добродошли у ваше истакнуте моменте">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; истиче ствари које сте открили на вебу да би вам помогао да поново пронађете сјајне чланке, видео снимке, забелешке и остале странице.">
-<!ENTITY activity_stream_welcome_dismiss "Занемари">
 
 <!ENTITY private_tab_panel_title "Приватно прегледање + Заштита од праћења">
 <!ENTITY private_tab_panel_description "&brandShortName; блокира делове странице који могу пратити ваше прегледање.">
