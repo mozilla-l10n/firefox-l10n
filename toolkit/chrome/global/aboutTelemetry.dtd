@@ -2,79 +2,48 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
-
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping saat ini">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping arsip">
-
-<!ENTITY aboutTelemetry.raw "JSON Mentah">
-
 <!ENTITY aboutTelemetry.showSubsessionData "Tampilkan data subsesi">
-
 <!ENTITY aboutTelemetry.choosePing "Pilih ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping lebih baru">
-
-<!ENTITY aboutTelemetry.showOlderPing "Ping lebih lama &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
-
-
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
 <!ENTITY aboutTelemetry.optionGroupToday "Hari ini">
-
 <!ENTITY aboutTelemetry.optionGroupYesterday "Kemarin">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Muatan">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
+<!ENTITY aboutTelemetry.moreInformations "Butuh informasi lebih lanjut?">
 
 
+<!ENTITY aboutTelemetry.homeSection "Beranda">
 <!ENTITY aboutTelemetry.generalDataSection "   Data Umum">
-
 <!ENTITY aboutTelemetry.environmentDataSection "  Data Lingkungan">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "   Log Telemetri">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Pernyataan SQL Lambat">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Peramban Macet">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Utas Macet">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Stack Terekam">
-
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informasi Sistem">
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalar
 ">
-
 <!ENTITY aboutTelemetry.keyedScalarsSection "
   Skalar Berdasar Kunci">
-
 <!ENTITY aboutTelemetry.histogramsSection "  Histogram">
-
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogram Berdasar Kunci">
-
 <!ENTITY aboutTelemetry.eventsSection "
   Acara">
-
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pengukuran Sederhana">
-
+<!ENTITY aboutTelemetry.telemetryLogSection "   Log Telemetri">
+<!ENTITY aboutTelemetry.slowSqlSection "  Pernyataan SQL Lambat">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Peramban Macet">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Detail Pengaya">
-
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Stack Terekam">
 <!ENTITY aboutTelemetry.lateWritesSection "  Penulisan Di Akhir">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  Informasi Sistem">
+<!ENTITY aboutTelemetry.raw "JSON Mentah">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Ambil nama fungsi untuk stack">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Tampilkan tumpukan data mentah">
-
-<!ENTITY aboutTelemetry.filterText "  Filter (string atau /ekspresi reguler/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Muatan">
