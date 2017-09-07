@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "П">
 <!ENTITY  reloadAllTabs.label                "Презареждане на всички раздели">
 <!ENTITY  reloadAllTabs.accesskey            "в">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Дублиране на раздел">
+<!ENTITY  duplicateTab.accesskey             "р">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "у">
 <!ENTITY  sendLinkToDevice.label             "Изпращане на препратката към устройство">
 <!ENTITY  sendLinkToDevice.accesskey         "у">
+<!ENTITY  sendToDeviceFeedback.label         "Изпратено!">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  bookmarkAllTabs.label              "Отмятане на всички раздели…">
@@ -162,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Редактиране на отметката">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Абониране за страницата">
 <!ENTITY subscribeToPageMenupopup.label "Абониране за страницата">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за страницата…">
 <!ENTITY addCurPagesCmd.label "Отмятане на всички раздели…">
@@ -228,7 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Отметки">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Отметки">
+<!ENTITY bookmarksSubview.label             "Отметки">
+<!ENTITY bookmarksMenuButton2.label         "Меню с отметки">
 <!ENTITY bookmarksMenuButton.other.label    "Други отметки">
 <!ENTITY bookmarksMenuButton.mobile.label   "Мобилни отметки">
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
@@ -236,8 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
-
-<!ENTITY containersMenu.label "Изолатори">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -336,7 +339,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Персонализиране на менюто и лентите с инструменти">
 <!ENTITY appMenuCustomizeExit.label "Изход от персонализиране">
 <!ENTITY appMenuCustomizeExit.tooltip "Край на персонализирането">
-<!ENTITY appMenuHistory.label "История">
 <!ENTITY appMenuHistory.showAll.label "Цялата история">
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
@@ -549,6 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY copyURLCmd.label             "Копиране на URL">
+<!ENTITY copyURLFeedback.label        "Копирана!">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
@@ -909,8 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Затваряне">
 
-<!ENTITY appMenuSidebars.label         "Странични ленти">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -972,3 +973,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.label3 "Изпращане на страницата към устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
