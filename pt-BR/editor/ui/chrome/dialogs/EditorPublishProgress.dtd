@@ -10,7 +10,7 @@
 <!ENTITY status.label          "Publicando…">
 <!ENTITY fileList.label        "Estado da publicação">
 <!ENTITY succeeded.label       "Bem-sucedido">
-<!ENTITY failed.label          "Malsucedido">
+<!ENTITY failed.label          "Falhou">
 
 <!ENTITY keepOpen              "Não fechar a janela quando concluir">
 <!ENTITY closeButton.label     "Fechar">

@@ -60,6 +60,6 @@
 <!ENTITY password.label               "Senha:">
 <!ENTITY password.accesskey           "S">
 <!ENTITY password.tooltip             "A senha associada ao seu nome de usuário">
-<!ENTITY savePassword.label           "Salvar senha">
+<!ENTITY savePassword.label           "Salvar a senha">
 <!ENTITY savePassword.accesskey       "a">
-<!ENTITY savePassword.tooltip         "Selecione isto para salvar sua senha com segurança usando o gerenciador de senhas">
+<!ENTITY savePassword.tooltip         "Selecione isto para salvar a sua senha com segurança utilizando o Gerenciador de Senhas">
