@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "తాజాకరణల చరిత్ర">
-<!ENTITY  history.intro             "ఈ క్రింది తాజాకరణలు స్థాపించబడినవి:">
+<!ENTITY  history2.intro            "ఈ క్రింది తాజాకరణలు స్థాపించబడ్డాయి">
 <!ENTITY  closebutton.label         "మూసివేయి">
-                                     
+
 <!ENTITY  noupdates.label           "ఇంకా తాజాకరణలేమీ స్థాపించబడలేదు">
 
 <!ENTITY  name.header               "తాజాకరణ పేరు">
