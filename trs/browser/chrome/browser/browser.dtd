@@ -49,6 +49,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Ga'nïnj enlâse riña Aga'">
 <!ENTITY  sendLinkToDevice.accesskey         "A">
+<!ENTITY  sendToDeviceFeedback.label         "¡Nga gan'an!">
 <!ENTITY  moveToNewWindow.label              "Dusiki' 'ngo Bendâna">
 <!ENTITY  moveToNewWindow.accesskey          "B">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -67,6 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Nari' ña du'ua">
 <!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.accesskey "k">
 
