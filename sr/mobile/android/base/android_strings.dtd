@@ -838,7 +838,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Популарни сајтови">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "Препоручено од стране фирме &brandPocket;">
+<!ENTITY activity_stream_topstories "Препоручено од стране &brandPocket;-а">
 <!ENTITY activity_stream_highlights "Истакнути">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
