@@ -410,6 +410,8 @@
 <!ENTITY pref_dialog_set_default "Встановити типово">
 <!ENTITY pref_dialog_default "Типово">
 <!ENTITY pref_dialog_remove "Вилучити">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Недавно закладені">
+<!ENTITY pref_dialog_activitystream_visited "Відвідано">
 
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
 
@@ -846,16 +848,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Відвідано">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Популярне">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Вилучити">
 <!ENTITY activity_stream_delete_history "Видалити з історії">
-
-<!ENTITY activity_stream_welcome_title "Найцікавіші матеріали">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки найцікавіших матеріалів, які ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок та інших сторінок.">
-<!ENTITY activity_stream_welcome_dismiss "Відхилити">
 
 <!ENTITY private_tab_panel_title "Приватний перегляд + захист від стеження">
 <!ENTITY private_tab_panel_description "&brandShortName; блокує частини сторінок, які можуть стежити за вашою діяльністю.">
