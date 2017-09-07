@@ -28,7 +28,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "R">
 <!ENTITY helpFeedbackPage.label "Invia feedback…">
 <!ENTITY helpFeedbackPage.accesskey "k">
-<!ENTITY helpShowTour2.label "Tour di &brandShorterName;">
+<!ENTITY helpShowTour2.label "Panoramica di &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "o">
 <!ENTITY preferencesCmdMac.label "Preferenze…">
 <!ENTITY preferencesCmdMac.commandkey ",">
