@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "к">
 <!ENTITY  browserContainersSettings.label        "Настройки…">
 <!ENTITY  browserContainersSettings.accesskey    "а">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Забраняване на услуги за достъпността достъпа до четеца">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "б">
+<!ENTITY  a11yPrivacy.learnmore.label    "Научете повече">
