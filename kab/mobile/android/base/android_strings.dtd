@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Sbadu-t d amezwer">
 <!ENTITY pref_dialog_default "Amezwer">
 <!ENTITY pref_dialog_remove "Kkes">
+<!ENTITY pref_dialog_activitystream_header_content "Agbur nniḍen">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Ticraḍ n isebtar n  yakan">
+<!ENTITY pref_dialog_activitystream_visited "Yettwarzan">
 
 <!ENTITY pref_search_last_toast "Ur tezmireḍ ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday-inek n unadi aneggaru.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Yettwarza">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tiddin">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Bdu iminig, sakin ad k-nesken kra imagraden ifazen aṭas, tividyutin, akked isebtar i γerterziḍ yakan neγ isebtar i tceṛḍeḍ dagi.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Kkes">
 <!ENTITY activity_stream_delete_history "Kkes seg umazray">
-
-<!ENTITY activity_stream_welcome_title "Anṣuf ɣef wayen tesebṛurqeḍ">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; irennu tura asebṛuṛeq n tɣawsiwin i tufiḍ di i tzemreḍ sakin ad tuɣaleḍ ɣur-sent ama d imagraden, tividyutin, ticraḍ n isebtar neɣ isebtar-nniḍen.">
-<!ENTITY activity_stream_welcome_dismiss "Zgel">
 
 <!ENTITY private_tab_panel_title "Tunigin tusligt + Ammesten mgal asfuɣel">
 <!ENTITY private_tab_panel_description "&brandShortName; yessewḥel kra n yeḥricen n isebtar izemren ad sfuɣlen armud n tunigin-inek.">
