@@ -9,6 +9,8 @@
 <!ENTITY firstrun_privacy_message "Retumu, kvazaŭ neniu vin rigardus">
 <!ENTITY firstrun_privacy_subtext "Dum privata retumo kun protekto kontraŭ spurado, spuriloj estos blokitaj kaj via historio forgesita kiam vi finos.">
 <!ENTITY firstrun_panel_title_customize "Personecigi">
+<!ENTITY firstrun_customize_message "Personecigu &brandShortName;.">
+<!ENTITY firstrun_customize_subtext "Personecigu &brandShortName; per aldonaĵoj. Bloku reklamojn, aldonu trajtojn aŭ elektu novan etoson, kiu reflektas vian personecon.">
 <!ENTITY firstrun_bookmarks_title "Historio">
 <!ENTITY firstrun_bookmarks_message "Viaj plej ŝatataj retejoj, antaŭ ĉio">
 <!ENTITY firstrun_bookmarks_subtext "Ricevi rezultojn el viaj legosignoj kaj historio dum vi serĉas.">
@@ -16,6 +18,8 @@
 <!ENTITY firstrun_data_message "Malpli da datumoj, pli da ŝparo">
 <!ENTITY firstrun_data_subtext2 "Malŝalti bildojn, por uzi malpli da datumoj en ĉiu vizitata retejo.">
 <!ENTITY firstrun_sync_title "Speguli">
+<!ENTITY firstrun_sync_message2 "Rekomencu kie vi haltis.">
+<!ENTITY firstrun_sync_subtext2 "Uzu Speguli por retrovi en ĉiuj viaj aparatoj la legosignojn, pasvortojn kaj aliajn aferojn kiun vi konservis en &brandShortName;.">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
 <!ENTITY  onboard_start_button_browser "Komenci retumi">
@@ -76,6 +80,7 @@
 <!ENTITY bookmark_removed "Legosigno forigita">
 <!ENTITY bookmark_updated "Legosigno ĝisdatigita">
 <!ENTITY bookmark_options "Elekteblo">
+<!ENTITY bookmark_save "Konservi">
 <!ENTITY screenshot_added_to_bookmarks "Ekrankopio aldonita al legosignoj">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,6 +92,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; elementoj">
 <!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_parent_folder "Gepatra dosierujo">
+<!ENTITY bookmark_add_folder "Aldoni novan dosierujon">
 
 <!ENTITY reader_saved_offline "Malkonektite konservita">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -217,6 +224,7 @@
 <!ENTITY pref_category_home_homepage "Hejmpaĝo">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Uzi ankaŭ por novaj langetoj">
 <!ENTITY home_homepage_title "Difini hejmpaĝon">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -290,7 +298,10 @@
 <!ENTITY custom_tabs_menu_item_open_in "Malfermi en &formatS;">
 <!ENTITY custom_tabs_menu_footer "Funkciigata de &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Retadreso kopiita">
 
+<!ENTITY pref_pwa "Poiomaj teksaĵaj programoj">
+<!ENTITY pref_pwa_summary "Permesi ke teksaĵaj programoj estu aldonitaj al la hejmekrano">
 
 <!ENTITY tracking_protection_prompt_title "Nun kun protekto kontraŭ spurado">
 <!ENTITY tracking_protection_prompt_text "Aktive bloki spurajn elementojn, tiel ke vi de bezonos zorgi.">
@@ -357,6 +368,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Uzi sisteman grandon de tiparo">
+<!ENTITY pref_use_system_font_size_summary "Skaligi teksaĵan enhavon laŭ la sistema grando de tiparoj">
 
 <!ENTITY pref_media_autoplay_enabled "Permesi aŭtomatan ludadon">
 <!ENTITY pref_media_autoplay_enabled_summary "Decidi ĉu retejoj povas aŭtomate ludi filmetojn aŭ aliajn aŭdvidajn enhavojn">
@@ -397,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Elekti kiel norma">
 <!ENTITY pref_dialog_default "Norma">
 <!ENTITY pref_dialog_remove "Forigi">
+<!ENTITY pref_dialog_activitystream_header_content "Kroma enhavo">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Ĵusaj legosignoj">
+<!ENTITY pref_dialog_activitystream_visited "Vizititaj">
 
 <!ENTITY pref_search_last_toast "Vi povas nek forigi nek malaktivigi vian lastan serĉilon.">
 
@@ -487,6 +503,7 @@
 <!ENTITY contextmenu_open_private_tab "Malfermi en privata langeto">
 <!ENTITY contextmenu_remove "Forigi">
 <!ENTITY contextmenu_add_to_launcher "Aldoni al hejmekrano">
+<!ENTITY contextmenu_set_as_homepage "Elekti kiel hejmpaĝon">
 <!ENTITY contextmenu_share "Dividi">
 <!ENTITY contextmenu_pasteandgo "Algui kaj iri">
 <!ENTITY contextmenu_paste "Alglui">
@@ -531,9 +548,11 @@
 <!ENTITY page_removed "Paĝo forigita">
 
 <!ENTITY bookmark_edit_title "Redakti legosignon">
+<!ENTITY bookmark_edit_folder_title "Redakti dosierujon">
 <!ENTITY bookmark_edit_name "Nomo">
 <!ENTITY bookmark_edit_location "Retadreso">
 <!ENTITY bookmark_edit_keyword "Kategoria vorto">
+<!ENTITY bookmark_select_folder "Elekti dosierujon">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -609,6 +628,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Retejo alpinglita">
+<!ENTITY home_unpinned_site "Retejo ne alpinglita">
 
 <!ENTITY remote_tabs_panel_moved_title "Kien iris miaj langetoj?">
 <!ENTITY remote_tabs_panel_moved_desc "Ni movis viajn langetojn el aliaj aparatoj en panelon en via hejmpaĝo, kiuj estas facile alirebla ĉiufoje kiam vi malfermas novan lageton.">
@@ -814,6 +835,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Plej vizititaj retejoj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Rekomendita de &brandPocket;">
 <!ENTITY activity_stream_highlights "Elstaraj">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -823,11 +845,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vizititaj">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Tendencoj">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Komencu retumi kaj ĉi tie ni montros al vi kelkajn el la plej bonaj artikoloj, filmetoj kaj aliaj paĝoj, kiujn vi antaŭ nelonge vizitis aŭ por kiuj vi aldonis legosignon.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Forigi">
 <!ENTITY activity_stream_delete_history "Forigi el la historio">
 
+<!ENTITY private_tab_panel_title "Privata retumo kun protekto kontraŭ spurado">
+<!ENTITY private_tab_panel_description "&brandShortName; blokas partojn de paĝoj, kiuj povus spuri vian retumon.">
+<!ENTITY private_tab_panel_description2 "Ni ne memoros la historion, sed elŝutitaj dosieroj kaj novaj legosignoj estos tamen konservitaj en via aparato.">
+<!ENTITY private_tab_learn_more "Ĉu vi volas havi pli da informo?">
 
+<!ENTITY fullscreen_warning "Plenekrana reĝimo aktiva">
