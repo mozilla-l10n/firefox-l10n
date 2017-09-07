@@ -29,6 +29,7 @@
 <!ENTITY  permissions.label             "అనుమతులు">
 
 <!ENTITY  addressBar.label              "చిరునామా పట్టీ">
+<!ENTITY  addressBar.suggest.label      "చిరునామా పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు">
 <!ENTITY  locbar.history2.label         "విహరణ చరిత్ర">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
@@ -107,3 +108,4 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "అమరికలు…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
