@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Проверка на правописа">
 
 <!ENTITY misspelledWord.label "Сгрешени думи:">
@@ -12,9 +12,9 @@
 <!ENTITY checkwordButton.accessKey "П">
 <!ENTITY suggestions.label "Предложения:">
 <!ENTITY suggestions.accessKey "р">
-<!ENTITY ignoreButton.label "Игнориране">
+<!ENTITY ignoreButton.label "Пренебрегване">
 <!ENTITY ignoreButton.accessKey "И">
-<!ENTITY ignoreAllButton.label "Игнориране всички">
+<!ENTITY ignoreAllButton.label "Пренебрегване на всички">
 <!ENTITY ignoreAllButton.accessKey "г">
 <!ENTITY replaceButton.label "Замяна">
 <!ENTITY replaceButton.accessKey "З">

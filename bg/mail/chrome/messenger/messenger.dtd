@@ -111,9 +111,9 @@
 <!ENTITY menuFavoriteFolder.label "Любима папка">
 <!ENTITY menuFavoriteFolder.accesskey "ю">
 <!ENTITY folderPropsCmd2.label "Свойства">
-<!ENTITY folderPropsFolderCmd2.label "Свойства за папка">
+<!ENTITY folderPropsFolderCmd2.label "Свойства на папка">
 <!ENTITY folderPropsNewsgroupCmd2.label "Свойства за дискусионна група">
-<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY folderPropsCmd.accesskey "о">
 <!ENTITY undoDeleteMsgCmd.label "Отмяна Изтриване на писмо">
 <!ENTITY redoDeleteMsgCmd.label "Повторение Изтриване на писмо">
 <!ENTITY undoMoveMsgCmd.label "Отмяна Преместване на писмо">
@@ -227,10 +227,10 @@
 <!ENTITY unreadMsgsCmd.accesskey "Н">
 <!ENTITY threadsWithUnreadCmd.label "Дискусии с непрочетени писма">
 <!ENTITY threadsWithUnreadCmd.accesskey "Д">
-<!ENTITY watchedThreadsWithUnreadCmd.label "Наблюдавана дискусия с непрочетени">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Наблюдавани дискусии с непрочетени">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "б">
-<!ENTITY ignoredThreadsCmd.label "Игнорирани дискусии">
-<!ENTITY ignoredThreadsCmd.accesskey "И">
+<!ENTITY ignoredThreadsCmd.label "Пренебрегнати дискусии">
+<!ENTITY ignoredThreadsCmd.accesskey "д">
 
 <!ENTITY headersMenu.label "Заглавки">
 <!ENTITY headersMenu.accesskey "З">
@@ -384,7 +384,7 @@
 <!ENTITY killThreadMenu.label "Пренебрегване на дискусия">
 <!ENTITY killThreadMenu.accesskey "П">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Игнориране на поддискусия">
+<!ENTITY killSubthreadMenu.label "Пренебрегване на поддискусия">
 <!ENTITY killSubthreadMenu.accesskey "о">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Наблюдаване на дискусия">
@@ -779,9 +779,9 @@
 <!ENTITY contextCopyMsgMenu.label "Копиране в">
 <!ENTITY contextCopyMsgMenu.accesskey "и">
 <!ENTITY contextKillThreadMenu.label "Пренебрегване на дискусията">
-<!ENTITY contextKillSubthreadMenu.accesskey "г">
+<!ENTITY contextKillSubthreadMenu.accesskey "о">
 <!ENTITY contextKillThreadMenu.accesskey "П">
-<!ENTITY contextKillSubthreadMenu.label "Игнориране на поддискусия">
+<!ENTITY contextKillSubthreadMenu.label "Пренебрегване на поддискусия">
 <!ENTITY contextWatchThreadMenu.label "Наблюдаване на дискусия">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
