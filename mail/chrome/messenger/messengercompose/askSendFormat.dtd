@@ -11,4 +11,10 @@
 
 <!ENTITY plainTextAndHtml.label "Hantar dalam Teks Jelas dan HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Hantar dalam Teks Jelas Sahaja">
+<!ENTITY plainTextOnly.accesskey "J">
+<!ENTITY htmlOnly.label "Hantar dalam HTML Sahaja">
+<!ENTITY htmlOnly.accesskey "H">
 
+<!ENTITY send.label "Hantar">
+<!ENTITY send.accesskey "H">
