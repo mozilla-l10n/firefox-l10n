@@ -14,7 +14,7 @@
 <!ENTITY  popupExceptions.label                                 "Изузеци">
 <!ENTITY  popupExceptions.accesskey                             "И">
 
-<!ENTITY  notificationPermissions.label                         "Обавешетења">
+<!ENTITY  notificationPermissions.label                         "Обавештења">
 <!ENTITY  notificationSettingsButton.label                      "Поставке…">
 <!ENTITY  notificationSettingsButton.accesskey                  "н">
 <!ENTITY  notificationPermissionsLearnMore.label                "Сазнајте више">
