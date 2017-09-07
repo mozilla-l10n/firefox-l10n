@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Ynstelle as standert">
 <!ENTITY pref_dialog_default "Standert">
 <!ENTITY pref_dialog_remove "Fuortsmite">
+<!ENTITY pref_dialog_activitystream_header_content "Oanfoljende ynhâld">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Resinte blêdwizers">
+<!ENTITY pref_dialog_activitystream_visited "Besocht">
 
 <!ENTITY pref_search_last_toast "Jo kinne jo lêste sykmasine net fuortsmite of útskeakelje.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besocht">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trending">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Start mei sneupen en wy toane jo guon moaie artikelen, fideo\&apos;s en oare siden dy\&apos;t jo resint besocht hawwe of in blêdwizer fan makke hawwe.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Fuortsmite">
 <!ENTITY activity_stream_delete_history "Ut skiednis fuortsmite">
-
-<!ENTITY activity_stream_welcome_title "Wolkom by jo hichtepunten">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; makket no hichtepunten fan saken dy\&apos;t jo ûntdekt hawwe op it web, sa dat jo it paad werom fine kinne nei aardige artikelen, fideo\&apos;s, blêdwizers en oare siden.">
-<!ENTITY activity_stream_welcome_dismiss "Fuortsmite">
 
 <!ENTITY private_tab_panel_title "Priveenavigaasje + Beskerming tsjin folgjen">
 <!ENTITY private_tab_panel_description "&brandShortName; blokkearret ûnderdielen fan de siden dy\&apos;t jo sneupaktiviteit folgje kinne.">
