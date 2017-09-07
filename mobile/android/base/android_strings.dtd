@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
-
-<!ENTITY firstrun_urlbar_message "Bun venit la &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Găsește lucrurile mai rapid cu sugestiile utile pentru căutare.">
 <!ENTITY firstrun_bookmarks_title "Istoric">
 <!ENTITY firstrun_bookmarks_message "Site-urile favorite în prim plan">
 <!ENTITY firstrun_bookmarks_subtext "Obține rezultate de la marcajele și istoricul tău atunci când cauți.">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
-<!ENTITY firstrun_sync_message "&brandShortName;, mereu de partea ta">
-<!ENTITY firstrun_sync_subtext "Sincronizează filele, parolele și mai multe oriunde îl folosești.">
 <!ENTITY firstrun_signin_message "Conectează-te și începe">
 <!ENTITY firstrun_signin_button "Autentifică-te la Sincronizare">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
@@ -33,21 +28,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Scapă de îngrămădeală">
 <!ENTITY firstrun_readerview_subtext "Folosește modul lectură pentru a face citirea articolelor mai plăcută \u2014 chiar și offline.">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tu">
 <!ENTITY firstrun_account_message "Ai &brandShortName; pe alt dispozitiv?">
 
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Marcaje">
 <!ENTITY  history_title "Istoric">
 
 <!ENTITY  switch_to_tab "Comută la filă">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Se afișează versiunea offline">
 
 <!ENTITY  crash_reporter_title "Raportor de defecțiuni &brandShortName;">
@@ -71,7 +66,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Însemnat deja">
+<!ENTITY bookmark_already_added "Marcat deja">
 <!ENTITY bookmark_removed "Marcaj eliminat">
 <!ENTITY bookmark_updated "Marcaj actualizat">
 <!ENTITY bookmark_options "Opțiuni">
@@ -82,9 +77,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturi de ecran">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Listă de citit">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; elemente">
 <!ENTITY bookmark_folder_one_item "1 element">
 <!ENTITY bookmark_parent_folder "Dosar părinte">
@@ -134,29 +129,29 @@
 <!ENTITY settings_title "Setări">
 <!ENTITY pref_category_general "General">
 <!ENTITY pref_category_general_summary3 "Pagină de start, limbă, file în coadă">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Limbă">
 <!ENTITY pref_category_language_summary "Schimbă limba browserului">
 <!ENTITY pref_browser_locale "Limba browserului">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Setarea implicită a sistemului">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Adaugă la &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Marchează">
-<!ENTITY overlay_share_bookmark_btn_label_already "Însemnat deja">
+<!ENTITY overlay_share_bookmark_btn_label_already "Marcat deja">
 <!ENTITY overlay_share_send_other "Trimite către alte dispozitive">
 
 <!ENTITY overlay_share_open_browser_btn_label "Autentifică-te în &brandShortName;">
@@ -236,8 +231,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Introdu adresa sau termenul de căutare">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "General">
 <!ENTITY pref_header_search "Caută">
 <!ENTITY pref_header_privacy_short "Confidențialitate">
@@ -251,10 +246,10 @@
 <!ENTITY pref_cookies_accept_all "Activate">
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Economizor de date">
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Unelte de dezvoltare">
@@ -278,14 +273,14 @@
 
 <!ENTITY pref_whats_new_notification "Ce este nou în &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Află despre funcționalitățile noi după o actualizare">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Funcționalități experimentale">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "File personalizate">
 <!ENTITY pref_custom_tabs_summary3 "Permite aplicațiilor să deschidă site-uri cu o versiune particularizată de &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
@@ -294,7 +289,6 @@
 <!ENTITY custom_tabs_menu_footer "Sprijinit de &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL copiat">
-
 
 
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție față de urmărire">
@@ -324,10 +318,10 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 filă în așteptare">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY tab_queue_notification_settings "Pentru a „deschide linkuri multiple”, te rugăm să activezi permisiunea \u0027Permite afișarea peste alte aplicații\u0027 pentru &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Pentru a „deschide linkuri multiple”, te rugăm să activezi permisiunea \&apos;Permite afișarea peste alte aplicații\&apos; pentru &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -359,9 +353,9 @@
 <!ENTITY pref_restore_tabs "Restaurează filele">
 <!ENTITY pref_restore_always "Restaurează întotdeauna">
 <!ENTITY pref_restore_quit "Nu le restaura după ce ies din &brandShortName;">
+
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-
 <!ENTITY pref_use_system_font_size "Folosește mărimea fontului sistemului">
 <!ENTITY pref_use_system_font_size_summary "Scalează conținutul web în funcție de mărimea fontului sistemului">
 
@@ -421,13 +415,13 @@
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Împărtășește date cu &vendorShortName; privind starea browserului și te ajută să înțelegi performanța browserului">
 <!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
@@ -446,8 +440,8 @@
 <!ENTITY pref_update_autodownload_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Niciodată">
 <!ENTITY pref_update_autodownload_always "Întotdeauna">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Ajutor">
 
 <!ENTITY quit "Ieși">
@@ -475,16 +469,16 @@
 <!ENTITY set_image_fail "Nu s-a putut seta imaginea">
 <!ENTITY set_image_path_fail "Nu s-a putut salva imaginea">
 <!ENTITY set_image_chooser_title "Setează imaginea ca">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Găsește în pagină">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Se trimite către dispozitiv">
 <!ENTITY media_play "Redă">
 <!ENTITY media_pause "Pauză">
@@ -506,10 +500,10 @@
 <!ENTITY contextmenu_top_sites_pin "Fixează site-ul">
 <!ENTITY contextmenu_top_sites_unpin "Anulează fixarea site-ului">
 <!ENTITY contextmenu_add_search_engine "Adaugă motor de căutare">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Niciun nume de utilizator]">
 <!ENTITY doorhanger_login_edit_title "Editează autentificarea">
 <!ENTITY doorhanger_login_edit_username_hint "Utilizator">
@@ -519,40 +513,39 @@
 <!ENTITY doorhanger_login_select_toast_copy "Parolă copiată în clipboard">
 <!ENTITY doorhanger_login_select_action_text "Selectează o altă autentificare">
 <!ENTITY doorhanger_login_select_title "Copiază parola din">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
 <!ENTITY pref_scroll_title_bar_summary2 "Ascunde bara de titlu din &brandShortName; când derulezi în josul paginii">
 
 <!ENTITY pref_tab_queue_title3 "File în coadă">
 <!ENTITY pref_tab_queue_summary4 "Salvează linkuri până la următoarea deschidere a lui &brandShortName;.">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-
 <!ENTITY pref_compact_tabs "File compacte">
 <!ENTITY pref_compact_tabs_summary2 "Aranjează filele pe două coloane în modul portret">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Pagină eliminată">
 
 <!ENTITY bookmark_edit_title "Editează marcajul">
-
 <!ENTITY bookmark_edit_name "Nume">
 <!ENTITY bookmark_edit_location "Locație">
 <!ENTITY bookmark_edit_keyword "Cuvânt cheie">
 <!ENTITY bookmark_select_folder "Selectează dosarul">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Setările site-ului">
 <!ENTITY site_settings_cancel       "Renunță">
 <!ENTITY site_settings_clear        "Șterge">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Acțiuni adiționale">
 
 <!ENTITY masterpassword_create_title "Creează o parolă generală">
@@ -573,9 +566,9 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adaugă un site">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "Pagina de start &brandShortName;">
 <!ENTITY home_history_title "Istoric">
 <!ENTITY home_synced_devices_smartfolder "Dispozitive sincronizate">
@@ -596,19 +589,19 @@
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă privată nouă&formatS2; nu se va salva istoricul.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Niciun conținut nu a putut fi găsit pentru acest panou.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Înapoi la &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispozitive ascunse">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -616,9 +609,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Nu mai ascunde dispozitivele selectate">
+
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-
 
 <!ENTITY remote_tabs_panel_moved_title "Unde au dispărut filele mele?">
 <!ENTITY remote_tabs_panel_moved_desc "Am mutat filele tale de pe alte dispozitive într-un panou pe pagina de start care poate fi accesat ușor de fiecare dată când deschizi o filă nouă.">
@@ -630,8 +623,8 @@
 <!ENTITY filepicker_audio_title "Alege sau înregistrează în format audio">
 <!ENTITY filepicker_image_title "Alege sau fă o poză">
 <!ENTITY filepicker_video_title "Alege sau înregistrează în format video">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ești conectat la">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -647,21 +640,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexiune securizată">
 <!ENTITY identity_connection_insecure "Conexiune nesecurizată">
 <!ENTITY identity_connection_chromeui "Aceasta este o pagină securizată &brandShortName;.">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; a blocat conținutul nesigur de pe această pagină.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; a blocat câteva elemente din conținutul nesigur de pe această pagină.">
 <!ENTITY mixed_content_display_loaded1 "Părți ale acestei pagini nu sunt sigure (cum ar fi imagini).">
 <!ENTITY mixed_content_protection_disabled1 "Ai dezactivat protecția față de conținutul nesigur.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Protecție față de urmărire">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Dezactivat">
 <!ENTITY doorhanger_tracking_message_enabled1 "Au fost blocate tentative de urmărire a comportamentului tău online.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Această pagină include elemente care îți pot urmări navigarea.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Află mai multe">
 <!ENTITY enable_protection "Activează protecția">
 <!ENTITY disable_protection "Dezactivează protecția">
@@ -683,15 +676,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Caută cu &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Caută &formatS1; pentru &formatS2;">
 
 <!ENTITY searchable_description "Marcaje și istoric">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Actualizare disponibilă pentru &brandShortName;">
 <!ENTITY updater_start_select2 "Apasă pentru a descărca">
 
@@ -702,15 +695,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title3 "Actualizare descărcată pentru &brandShortName;">
 <!ENTITY updater_apply_select3 "Apasă pentru instalare">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Pentru a descărca fișiere și actualizări, acordă-i lui &brandShortName; permisiunea de a accesa stocarea.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Permite">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesiune nouă ca vizitator">
 <!ENTITY exit_guest_session "Ieși din sesiunea ca vizitator">
 <!ENTITY guest_session_dialog_continue "Continuă">
@@ -722,37 +715,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY exit_guest_session_text "Datele de navigare de la această sesiune vor fi șterse.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Meniu">
 <!ENTITY actionbar_done "Terminat">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Vorbește acum">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Ultima sincronizare: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Ultima sincronizare: niciodată">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Acest link se va deschide în &formatS;. Sigur dorești să ieși din navigarea privată?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -762,18 +755,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Ieși din navigarea privată?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Se scanează codul QR afișat pe celălalt dispozitiv">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Suplimente">
 <!ENTITY restrictable_feature_addons_installation_description "Adaugă funcționalități sau funcții în Firefox. Notă: Suplimentele pot dezactiva anumite restricții.">
 <!ENTITY restrictable_feature_private_browsing "Navigare privată">
@@ -786,9 +779,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Permite membrilor familiei să se implice în comunicare în timp real pe site-uri web.">
 <!ENTITY restrictable_feature_block_list "Listă de blocări">
 <!ENTITY restrictable_feature_block_list_description "Blochează site-urile web care includ conținut sensibil.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Despre browserul tău">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Personalizează cu suplimente">
@@ -798,17 +791,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Ajutor și suport Firefox pentru profiluri restricționate pe tabletele Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Învață webul: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Ne pare rău! Acest &brandShortName; nu va funcționa pe acest dispozitiv (&formatS1;, &formatS2;). Te rugăm să descarci versiunea corectă.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; nu se va mai actualiza">
 <!ENTITY eol_notification_summary "Atinge pentru a afla mai multe">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
 <!ENTITY whatsnew_notification_summary "Descoperă ce este nou în această versiune">
 
@@ -819,28 +812,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Mergi la marcaje">
 
 <!ENTITY helper_triple_readerview_open_title "Disponibil offline">
-<!ENTITY helper_triple_readerview_open_message "Însemnează elementele pentru modul lectură pentru a le citi offline.">
+<!ENTITY helper_triple_readerview_open_message "Marchează elementele pentru modul lectură pentru a le citi offline.">
 <!ENTITY helper_triple_readerview_open_button "Adaugă la marcaje">
 
 <!ENTITY activity_stream_topsites "Site-uri de top">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Evidențieri">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
-<!ENTITY activity_stream_highlight_label_bookmarked "Însemnat">
+<!ENTITY activity_stream_highlight_label_bookmarked "Marcat">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Vizitat">
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
-<!ENTITY activity_stream_dismiss "Înlătură">
 <!ENTITY activity_stream_delete_history "Șterge din istoric">
-
-<!ENTITY activity_stream_welcome_title "Bun venit la evidențierile tale">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; creează acum evidențieri ale lucrurilor pe care le-ai descoperit pe web astfel încât să te poți întoarce la articole nemaipomenite, videoclipuri, marcaje și alte pagini.">
-
 
 <!ENTITY private_tab_panel_description2 "Nu vom reține istoricul, însă fișierele descărcate și marcajele noi vor fi în continuare salvate pe dispozitiv.">
 <!ENTITY private_tab_learn_more "Dorești să afli mai multe?">
+
