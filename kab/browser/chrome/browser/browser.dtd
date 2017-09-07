@@ -23,6 +23,9 @@
 <!ENTITY  reloadTab.accesskey                "S">
 <!ENTITY  reloadAllTabs.label                "Smiren akk iccarren">
 <!ENTITY  reloadAllTabs.accesskey            "m">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Sleg iccer">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -974,3 +977,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwaskelsen, d wayen-nniḍen">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
