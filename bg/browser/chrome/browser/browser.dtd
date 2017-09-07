@@ -826,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "С">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Преместете вашите любими елементи в лентата с инструменти или допълнителното меню.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
 <!ENTITY customizeMode.restoreDefaults "Стандартни настройки">
