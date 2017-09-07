@@ -30,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "Afișează toate extensiile">
 <!ENTITY debugAddons.label                    "Depanează suplimente">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Toate suplimentele sunt dezactivate în modul de siguranță.">
 <!ENTITY warning.checkcompatibility.label          "Verificarea compatibilității suplimentelor este dezactivată. Ați putea avea suplimente incompatibile.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activează">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Verificarea securității actualizărilor de suplimente este dezactivată. Ați putea primi actualizări compromise.">
 <!ENTITY warning.updatesecurity.enable.label       "Activează">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Căutare">
 <!ENTITY view.discover.label                  "Obține suplimente">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Caută actualizări">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Vezi actualizările recente">
@@ -74,9 +74,9 @@
 <!ENTITY updates.manualUpdatesFound.label     "Vezi actualizările disponibile">
 <!ENTITY updates.updateSelected.label         "Instalează actualizările">
 <!ENTITY updates.updateSelected.tooltip       "Instalează actualizările disponibile în această listă">
-<!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Arată mai multe informații">
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Afișează mai multe informații">
 <!ENTITY cmd.showDetails.accesskey            "A">
 <!ENTITY cmd.findUpdates.label                "Caută actualizări">
 <!ENTITY cmd.findUpdates.accesskey            "F">
@@ -119,15 +119,15 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele privind lansarea">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele privind lansarea pentru această actualizare">
 <!ENTITY cmd.findReplacement.label            "Găsești o extensie înlocuitoare">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Ce sunt suplimentele?">
 <!ENTITY discover.description2                "Suplimentele sunt aplicații care îți permit să personalizezi &brandShortName; cu funcții sau stiluri suplimentare. Încearcă o bară laterală care economisește timp, un notificator pentru vreme sau o temă pentru a face din &brandShortName; o experiență unică.">
 <!ENTITY discover.footer                      "Când sunteți conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a vă permite să le încercați.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Versiune">
 <!ENTITY detail.lastupdated.label             "Ultima actualizare">
 <!ENTITY detail.creator.label                 "Dezvoltator">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Preferințe">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Schimbă preferințele acestui supliment">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Evaluare">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauză">
 <!ENTITY progress.cancel.tooltip              "Renunță">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Nume">
 <!ENTITY sort.name.tooltip                    "Sortează după nume">
 <!ENTITY sort.dateUpdated.label               "Ultima actualizare">
@@ -184,7 +184,7 @@
 
 <!ENTITY addon.homepage                       "Pagina de start">
 <!ENTITY addon.details.label                  "Mai multe">
-<!ENTITY addon.details.tooltip                "Arată mai multe detalii despre acest supliment">
+<!ENTITY addon.details.tooltip                "Afișează mai multe detalii despre acest supliment">
 <!ENTITY addon.unknownDate                    "Necunoscut">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
@@ -223,12 +223,12 @@
 <!ENTITY eula.accept                          "Acceptă și instalează…">
 
 <!ENTITY settings.path.button.label           "Răsfoiește…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Ce este aceasta? Telemetria poate instala și rula experimente din când în când.">
 <!ENTITY experiment.info.learnmore "Află mai multe">
 <!ENTITY experiment.info.learnmore.accesskey "L">
