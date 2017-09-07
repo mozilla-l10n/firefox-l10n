@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Gosod fel y rhagosodedig">
 <!ENTITY pref_dialog_default "Rhagosodedig">
 <!ENTITY pref_dialog_remove "Tynnu">
+<!ENTITY pref_dialog_activitystream_header_content "Cynnwys ychwanegol">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nodau Tudalen Diweddar">
+<!ENTITY pref_dialog_activitystream_visited "Ymwelwyd">
 
 <!ENTITY pref_search_last_toast "Nid oes modd tynnu nac analluogi eich peiriant chwilio olaf.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ymwelwyd">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Trendio">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Cychwynnwch bori ac fe ddangoswn rhai erthyglau, fideos a thudalennau eraill difyr rydych wedi ymweld â nhw\&apos;n ddiweddar neu wedi gosod nod tudalen arnyn nhw yma.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Tynnu">
 <!ENTITY activity_stream_delete_history "Dileu o\&apos;r Hanes">
-
-<!ENTITY activity_stream_welcome_title "Croeso i\&apos;ch Uchafbwyntiau">
-<!ENTITY activity_stream_welcome_content1 "Mae &brandShortName; nawr yn creu uchafbwyntiau o bethau ydych wedi eu darganfod ar y we fel bod modd canfod eich ffordd yn ôl at erthyglau, nodau tudalen a thudalennau eraill, da.">
-<!ENTITY activity_stream_welcome_dismiss "Cau">
 
 <!ENTITY private_tab_panel_title "Pori Preifat + Diogelwch Rhag Tracio">
 <!ENTITY private_tab_panel_description "Mae &brandShortName; yn rhwystro rhannau o\&apos;r dudalen gall fod yn tracio eich pori.">
