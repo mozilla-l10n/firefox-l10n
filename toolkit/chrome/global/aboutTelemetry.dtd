@@ -46,12 +46,6 @@
 <!ENTITY aboutTelemetry.rawPayloadSection "Muatan Mentah">
 <!ENTITY aboutTelemetry.raw "JSON Mentah">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
-">
-<!ENTITY aboutTelemetry.fetchStackSymbols "
-  Fetch function names for stacks
-">
-<!ENTITY aboutTelemetry.hideStackSymbols "
-  Show raw stack data
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "NOTA; Menyahpepijat SQL secara perlahan sedang aktif. String penuh SQL mungkin dipaparkan di bawah ini tapi tidak akan dihantar ke Telemetri.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Mendapatkan nama fungsi stacks">
+<!ENTITY aboutTelemetry.hideStackSymbols "Papar data susunan mentah">
