@@ -410,6 +410,8 @@
 <!ENTITY pref_dialog_set_default "Définir par défaut">
 <!ENTITY pref_dialog_default "Par défaut">
 <!ENTITY pref_dialog_remove "Supprimer">
+<!ENTITY pref_dialog_activitystream_header_content "Contenu supplémentaire">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Marque-pages récents">
 
 <!ENTITY pref_search_last_toast "Vous ne pouvez pas supprimer ou désactiver votre dernier moteur de recherche.">
 
@@ -843,16 +845,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visités">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendance">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Au fur et à mesure de votre navigation, nous afficherons ici certains éléments parmi les articles, les vidéos et les autres pages que vous avez visitées ou ajoutées aux marque-pages.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Retirer">
 <!ENTITY activity_stream_delete_history "Supprimer de l’historique">
-
-<!ENTITY activity_stream_welcome_title "Découvrez les éléments mis en avant">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; met désormais en avant des éléments-clés que vous avez découverts sur le Web, afin que vous puissiez retrouver facilement des articles, vidéos, marque-pages et d’autres pages.">
-<!ENTITY activity_stream_welcome_dismiss "Fermer">
 
 <!ENTITY private_tab_panel_title "Navigation privée avec protection contre le pistage">
 <!ENTITY private_tab_panel_description "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.">
