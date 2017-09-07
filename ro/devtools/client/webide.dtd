@@ -4,48 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY projectMenu_refreshTabs_label "Reîmprospătează filele">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -57,68 +16,32 @@
 <!-- show toolbox -->
 <!-- zoom -->
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!ENTITY runtimePanel_refreshDevices_label "Reîmprospătează dispozitivele">
+
 <!-- Lense -->
-
-
-
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
+
+
 <!-- Addons -->
 
 <!-- Prefs -->
-
-
 <!ENTITY prefs_restore "Restaurează valorile implicite">
-
-
-
-
-
-
 
 <!-- Runtime Details -->
 
-
-
-
-
-
 <!-- Device Preferences and Settings -->
-
-
-
 
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 <!ENTITY monitor_help "Ajutor">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -133,17 +56,7 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+
 <!-- Simulator Options -->
-
 <!ENTITY simulator_reset "Restaurează valorile implicite">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY simulator_screenSize "Ecran">

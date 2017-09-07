@@ -4,21 +4,24 @@
 
 <!ENTITY  fontsDialog.title                       "Fonturi">
 
+<!ENTITY  fonts.label                             "Fonturi pentru">
 
-
+<!ENTITY  size2.label                             "Mărime">
 <!ENTITY  sizeProportional.accesskey              "M">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "Proporțional">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "Cu serife">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Fără serife">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospațiat">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latină">
 <!ENTITY  font.langGroup.japanese                 "Japoneză">
 <!ENTITY  font.langGroup.trad-chinese             "Chineză tradițională (Taiwan)">
@@ -49,10 +52,11 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetană">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "Mărimea minimă a fontului">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Fără">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Cu serife">
 <!ENTITY  useDefaultFontSansSerif.label           "Fără serife">
 
@@ -60,8 +64,6 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codare de text pentru conținut moștenit">
-
-
 <!ENTITY languages.customize.Fallback2.desc       "Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.">
 
 <!ENTITY languages.customize.Fallback.auto        "Implicită pentru limba actuală">
