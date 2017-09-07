@@ -2,84 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Isefka n tilisɣelt">
-
 <!ENTITY aboutTelemetry.pingDataSource "Aɣbalu n isefka n Ping:">
-
-<!ENTITY aboutTelemetry.moreInformations "Tettnadiḍ ugar n telγut?">
-
-<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.">
-
-<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.">
-
-<!ENTITY aboutTelemetry.telemetryDashboard "<a>Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Isefkan Ping amiran">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Isefka n Ping ittwaɣebṛen">
+<!ENTITY aboutTelemetry.showSubsessionData "Sken isefka n adtiɣimit">
+<!ENTITY aboutTelemetry.choosePing "Fren ping:">
+<!ENTITY aboutTelemetry.archivePingType "Tawsit n untu">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Ass-a">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Iḍelli">
+<!ENTITY aboutTelemetry.optionGroupOlder "Iqbuṛen">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "   Payload">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
-<!ENTITY aboutTelemetry.raw "Izirig JSON">
+<!ENTITY aboutTelemetry.pageTitle "Isefka n tilisɣelt">
+<!ENTITY aboutTelemetry.moreInformations "Tettnadiḍ ugar n telγut?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ldi deg umeskan JSON">
 
-<!ENTITY aboutTelemetry.showSubsessionData "Sken isefka n adtiɣimit">
-
-<!ENTITY aboutTelemetry.choosePing "Fren ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping amaynut">
-
-<!ENTITY aboutTelemetry.showOlderPing "Ping aqbuṛ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Dduṛt">
-
-<!ENTITY aboutTelemetry.archivePingType "Tawsit n untu">
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-<!ENTITY aboutTelemetry.optionGroupToday "Ass-a">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "Iḍelli">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "Iqbuṛen">
-
+<!ENTITY aboutTelemetry.homeSection "Agejdan">
 <!ENTITY aboutTelemetry.generalDataSection "  Isefka imatuten">
-
 <!ENTITY aboutTelemetry.environmentDataSection "  Isefka n twennaṭ">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  Aɣmis n tilisɣelt">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Tuţriwin SQL tiẓayanin">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
-
-<!ENTITY aboutTelemetry.scalarsSection "  Afesnan">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "Afesnan tasarutt">
-
-<!ENTITY aboutTelemetry.histogramsSection "  Imazrudlifen">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Imazrudlifen s wawalen n tsura">
-
-<!ENTITY aboutTelemetry.eventsSection "  Tidyanin">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Iktazalen iḥerfiyen">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
-
-<!ENTITY aboutTelemetry.rawPayloadSection "Taɛekkemt tarewwayt">
-
 <!ENTITY aboutTelemetry.sessionInfoSection "  Talɣut n tɣimit">
+<!ENTITY aboutTelemetry.scalarsSection "  Afesnan">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Afesnan tasarutt">
+<!ENTITY aboutTelemetry.histogramsSection "  Imazrudlifen">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Imazrudlifen s wawalen n tsura">
+<!ENTITY aboutTelemetry.eventsSection "  Tidyanin">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Iktazalen iḥerfiyen">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Aɣmis n tilisɣelt">
+<!ENTITY aboutTelemetry.slowSqlSection "  Tuţriwin SQL tiẓayanin">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
+<!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
+<!ENTITY aboutTelemetry.lateWritesSection "  tira tineggura">
+<!ENTITY aboutTelemetry.rawPayloadSection "Taɛekkemt tarewwayt">
+<!ENTITY aboutTelemetry.raw "Izirig JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Awi-d ismawen n twuriwin i tnebdanin">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "  Sken-d isefka n ukufi ">
-
-<!ENTITY aboutTelemetry.filterText "  Zizdeg (izriren n isekkilen neɣ tinfaliyin tiluganin)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "   Payload">
