@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "S">
 
 <!ENTITY downloads.label              "Downloads">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Downloads">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "URL kopiëren">
+<!ENTITY pageAction.copyLink.label    "Koppeling kopiëren">
 <!ENTITY copyURLFeedback.label        "Gekopieerd!">
 <!ENTITY emailPageCmd.label           "Koppeling e-mailen…">
 <!ENTITY emailPageCmd.accesskey       "m">
@@ -962,7 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Een nieuwe kopie van &brandShorterName; downloaden">
 
-<!ENTITY updateRestart.message "Na een snelle herstart zal &brandShorterName; al uw open tabbladen en vensters herstellen.">
+<!ENTITY updateRestart.message2 "Na een snelle herstart zal &brandShorterName; al uw open tabbladen en vensters herstellen die zich niet in privénavigatiemodus bevinden.">
 <!ENTITY updateRestart.header.message2 "Herstart om &brandShorterName; bij te werken.">
 <!ENTITY updateRestart.acceptButton.label "Herstarten en herstellen">
 <!ENTITY updateRestart.acceptButton.accesskey "H">
@@ -974,7 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
 <!ENTITY pageAction.removeFromUrlbar.label "Verwijderen van adresbalk">
 
-<!ENTITY sendToDevice.label3 "Pagina naar apparaat verzenden">
+<!ENTITY pageAction.sendTabToDevice.label "Tabblad naar apparaat verzenden">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
 
 <!ENTITY libraryButton.tooltip "Geschiedenis, opgeslagen bladwijzers en meer bekijken">
