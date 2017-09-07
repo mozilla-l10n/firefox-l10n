@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Tetapkan sebagai piawai">
 <!ENTITY pref_dialog_default "Piawai">
 <!ENTITY pref_dialog_remove "Buang">
+<!ENTITY pref_dialog_activitystream_header_content "Kandungan tambahan">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Tandabuku Terkini">
+<!ENTITY pref_dialog_activitystream_visited "Dilawati">
 
 <!ENTITY pref_search_last_toast "Anda tidak boleh mengalih keluar atau menyahdayakan enjin carian terakhir anda.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Telah dilawati">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Sohor kini">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Mulakan pelayaran, dan kami akan paparkan beberapa artikel, video dan halaman menarik lain yang pernah anda layari dan sudah ditandabuku di sini.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Buang">
 <!ENTITY activity_stream_delete_history "Hapus daripada Sejarah">
-
-<!ENTITY activity_stream_welcome_title "Welcome to your Highlights">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\&apos;ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
-<!ENTITY activity_stream_welcome_dismiss "Abai">
 
 <!ENTITY private_tab_panel_title "Pelayaran Peribadi + Perlindungan Penjejakan">
 <!ENTITY private_tab_panel_description "&brandShortName; menyekat sebahagian halaman yang mungkin menjejaki aktiviti pelayaran anda.">
