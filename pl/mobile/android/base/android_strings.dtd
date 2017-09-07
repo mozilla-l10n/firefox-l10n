@@ -150,8 +150,6 @@
 <!ENTITY pref_category_advanced_summary3 "Przywracanie kart, oszczędzanie danych, narzędzia dla programistów">
 <!ENTITY pref_category_notifications "Powiadomienia">
 <!ENTITY pref_category_notifications_summary "Powiadomienia ze stron i o nowych funkcjach">
-<!ENTITY pref_content_notifications "Powiadomienia ze stron">
-<!ENTITY pref_content_notifications_summary2 "Umożliwia obsługiwanym stronom wyświetlanie powiadomień">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
@@ -241,12 +239,6 @@
 <!ENTITY tab_queue_notification_text_singular2 "Jedna oczekująca karta">
 
 <!ENTITY tab_queue_notification_settings "Proszę włączyć uprawnienie „Wyświetlanie nad innymi aplikacjami” dla aplikacji &brandShortName;, aby móc używać funkcji „Otwieranie wielu odnośników”">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!ENTITY content_notification_title_plural "Zaktualizowane strony: &formatD;">
-<!ENTITY content_notification_action_settings2 "Ustawienia">
-<!ENTITY content_notification_action_read_now "Wyświetl">
-<!ENTITY content_notification_updated_on "Zaktualizowano: &formatS;">
 
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazywanie">
