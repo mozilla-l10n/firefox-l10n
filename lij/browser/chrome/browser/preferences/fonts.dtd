@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Caratere">
 
-<!ENTITY  language.label                          "Caratere pe:">
-<!ENTITY  language.accesskey                      "C">
+<!ENTITY  fonts.label                             "Caratere pe">
+<!ENTITY  fonts.accesskey                         "C">
 
-<!ENTITY  size.label                              "Dimenscion:">
+<!ENTITY  size2.label                             "Dimenscion">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "i">
 
-<!ENTITY  proportional.label                      "In proporçion:">
-<!ENTITY  proportional.accesskey                  "p">
+<!ENTITY  proportional2.label                     "Proporçionâ">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "f">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Scingolo spaçio:">
-<!ENTITY  monospace.accesskey                     "S">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Spaçio sencio">
+<!ENTITY  monospace2.accesskey                    "S">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Dimenscion minima do testo">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize2.label                           "Dimenscion minima do testo">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Ninte">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codifica do testo pe contegui vegi">
-<!ENTITY languages.customize.Fallback2.label      "Codifica do testo da deuviâ:">
-<!ENTITY languages.customize.Fallback2.accesskey  "o">
+<!ENTITY languages.customize.Fallback3.label      "Codifica do testo da deuviâ">
+<!ENTITY languages.customize.Fallback3.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpria codifica.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predefinia pe-a lengoa corente">

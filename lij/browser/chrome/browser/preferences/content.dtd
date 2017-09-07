@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Blòcca i barcoin de pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Atre informaçioin">
-<!ENTITY  notificationsPolicyDesc4.label       "Çerni quæ sciti gh'an o permisso de mandate notifiche">
-<!ENTITY  notificationsPolicyButton.accesskey  "e">
-<!ENTITY  notificationsPolicyButton.label      "Çerni…">
 <!ENTITY  notificationsDoNotDisturb.label      "No ronpime">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "No saiâ mostrâ nisciunn-a notifica fin a quande arvi torna &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Eceçioin…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Eceçioin…">
+<!ENTITY  popupExceptions.accesskey                             "E">
+
+<!ENTITY  notificationPermissions.label                         "Notifiche">
+<!ENTITY  notificationSettingsButton.label                      "Inpostaçioin…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Atre informaçioin">
+
+<!ENTITY  locationPermissions.label                             "Indirisso">
+<!ENTITY  locationSettingsButton.label                          "Inpostaçioin…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Fòtocamera">
+<!ENTITY  cameraSettingsButton.label                            "Inpostaçioin…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Micròfono">
+<!ENTITY  microphoneSettingsButton.label                        "Inpostaçioin…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Coî e testo">
 
