@@ -6,6 +6,14 @@
 <!ENTITY msgComposeWindow.title "Tulis: (tiada subjek)">
 
 <!-- File Menu -->
+<!ENTITY fileMenu.label "Fail">
+<!ENTITY fileMenu.accesskey "l">
+<!ENTITY newMenu.label "Baru">
+<!ENTITY newMenu.accesskey "B">
+<!ENTITY newMessage.label "Mesej">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 
 <!-- Edit Menu -->
