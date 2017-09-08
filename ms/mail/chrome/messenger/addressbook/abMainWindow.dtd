@@ -236,7 +236,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY statusText.label                               "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label                               "Window">
+<!ENTITY windowMenu.label                               "Tetingkap">
 <!ENTITY minimizeWindow.label                           "Minimum">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Bawa Semua ke Hadapan">
