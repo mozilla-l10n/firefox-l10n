@@ -302,9 +302,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Tampal">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "Hapus">
-<!ENTITY deleteCmd.key            "H">
-<!ENTITY deleteCmd.accesskey        "H">
+<!ENTITY deleteCmd.label          "Buang">
+<!ENTITY deleteCmd.key            "B">
+<!ENTITY deleteCmd.accesskey        "B">
 <!ENTITY selectAllCmd.label         "Pilih Semua">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
@@ -929,8 +929,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Dengan meneruskan akan:">
-<!ENTITY panicButton.view.deleteCookies           "Hapus <html:strong>Kuki</html:strong> Terkini">
-<!ENTITY panicButton.view.deleteHistory           "Hapus <html:strong>Sejarah</html:strong> Terkini">
+<!ENTITY panicButton.view.deleteCookies           "Buang <html:strong>Kuki</html:strong> Terkini">
+<!ENTITY panicButton.view.deleteHistory           "Buang <html:strong>Sejarah</html:strong> Terkini">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Tutup semua <html:strong>Tab</html:strong> dan <html:strong>Tetingkap</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Buka Tetingkap baru">
 
