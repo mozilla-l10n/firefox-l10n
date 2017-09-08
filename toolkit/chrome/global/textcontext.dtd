@@ -12,8 +12,8 @@
 <!ENTITY undoCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY deleteCmd.label "Hapus">
-<!ENTITY deleteCmd.accesskey "h">
+<!ENTITY deleteCmd.label "Buang">
+<!ENTITY deleteCmd.accesskey "g">
 
 <!ENTITY spellAddToDictionary.label "Tambah kepada kamus">
 <!ENTITY spellAddToDictionary.accesskey "a">

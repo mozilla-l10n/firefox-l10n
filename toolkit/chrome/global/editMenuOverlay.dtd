@@ -19,8 +19,8 @@
 <!ENTITY pasteCmd.label            "Tampal">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "p">
-<!ENTITY deleteCmd.label           "Hapus">
-<!ENTITY deleteCmd.accesskey       "h">
+<!ENTITY deleteCmd.label           "Buang">
+<!ENTITY deleteCmd.accesskey       "g">
 <!ENTITY selectAllCmd.label        "Pilih Semua">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
