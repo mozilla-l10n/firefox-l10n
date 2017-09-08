@@ -2,13 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
+<!ENTITY newFolderCmd.label "Folder…">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY closeTabCmd2.label "Tutup Tab">
+<!ENTITY closeTabCmd2.accesskey "T">
+<!ENTITY closeOtherTabsCmd2.label "Tutup Tab Lain">
+<!ENTITY closeOtherTabsCmd2.accesskey "i">
+<!ENTITY recentlyClosedTabsCmd.label "Tab Terkini Ditutup">
+<!ENTITY recentlyClosedTabsCmd.accesskey "T">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Pindah ke Tetingkap Baru">
+<!ENTITY moveToNewWindow.accesskey "T">
+<!ENTITY newVirtualFolderCmd.label "Carian Tersimpan…">
+<!ENTITY newVirtualFolderCmd.accesskey "C">
+<!ENTITY newOtherAccountsCmd.label "Akaun Lain…">
+<!ENTITY newOtherAccountsCmd.accesskey "L">
+<!ENTITY newCreateEmailAccountCmd.label "Dapatkan Akaun Mel Baru…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "D">
+<!ENTITY newExistingEmailAccountCmd.label "Akaun Mel Sedia ada…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "S">
+<!ENTITY newIMAccountCmd.label "Akaun Sembang…">
+<!ENTITY newIMAccountCmd.accesskey "S">
+<!ENTITY newFeedAccountCmd.label "Akaun Suapan…">
+<!ENTITY newFeedAccountCmd.accesskey "n">
 <!ENTITY emptyTrashCmd.label "Buang Sampah">
 <!ENTITY emptyTrashCmd.accesskey "g">
 <!ENTITY downloadStarredCmd.label "Cari Mesej Berbintang">
