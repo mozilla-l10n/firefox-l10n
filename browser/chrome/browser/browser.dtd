@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "सभी टैब फिर लोड करें">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -161,23 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
 <!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "अधिक साझा सेवाओं का पता लगाएं ...">
-<!ENTITY sharePageCmd.label "इस पृष्ठ को साझा करें">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "इस कड़ी को साझा करें">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "इस छवि को साझा करें">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "चयन साझा करें">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "इस वीडियो को साझा करें">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "इस पृष्ठ की सदस्यता लें">
+
 <!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
 <!ENTITY addCurPagesCmd.label "सभी टैब पुस्तचिह्नित करें…">
@@ -243,14 +229,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "पुस्तचिह्न">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "पुस्तचिह्न">
-<!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तचिह्न">
-<!ENTITY bookmarksMenuButton.mobile.label "मोबाइल बुकमार्क">
+<!ENTITY bookmarksSubview.label             "पुस्तचिह्न">
+<!ENTITY bookmarksMenuButton2.label         "पुस्तचिह्न मेन्यू">
+<!ENTITY bookmarksMenuButton.other.label    "अन्य पुस्तचिह्न">
+<!ENTITY bookmarksMenuButton.mobile.label   "मोबाइल बुकमार्क">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
 <!ENTITY searchBookmarks.label              "पुस्तचिह्न खोजें">
-
-<!ENTITY containersMenu.label "पात्र">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -349,7 +334,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "मेनू और उपकरण पट्टियाँ अनुकूलित">
 <!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
 <!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त करें">
-<!ENTITY appMenuHistory.label "इतिहास">
 <!ENTITY appMenuHistory.showAll.label "सभी इतिहास दिखाएँ">
 <!ENTITY appMenuHistory.clearRecent.label "हालिया इतिहास साफ करें...">
 <!ENTITY appMenuHistory.restoreSession.label "पिछला सत्र पुनर्बहाल करें">
@@ -836,15 +820,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
-<!ENTITY social.addons.label "सेवा प्रबंधित करें…">
-
-<!ENTITY social.directory.label "सक्रियकरण निर्देशिका">
-<!ENTITY social.directory.text "आप निर्देशिका से साझा सेवाओं को सक्रिय कर सकते हैं.">
-<!ENTITY social.directory.button "मुझे वहाँ ले चालों!">
-<!ENTITY social.directory.introText "&brandShortName; को जोड़ने के लिए सेवा पर ​​क्लिक करें.">
-<!ENTITY social.directory.viewmore.text "अधिक देखें">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "अतिरिक्त औज़ार एवं विशेषताएँ">
 <!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारों add-ons में से चुनें">
 <!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
@@ -931,8 +906,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "बन्द करें">
 
-<!ENTITY appMenuSidebars.label         " बाज़ूपट्टी">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -991,5 +964,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
 <!ENTITY pageAction.removeFromUrlbar.label "पतापट्टी से हटायें">
 
-<!ENTITY sendToDevice.label2 "युक्ति मैं भेजें">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरण सिंक हो रहा है…">
+
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
