@@ -129,8 +129,6 @@
 <!ENTITY pref_category_advanced_summary3 "Ripristino schede, risparmio dati, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
 <!ENTITY pref_category_notifications_summary "Nuove funzioni, aggiornamenti dai siti web">
-<!ENTITY pref_content_notifications "Aggiornamenti siti web">
-<!ENTITY pref_content_notifications_summary2 "Scopri nuovi contenuti dai siti web supportati">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
@@ -203,11 +201,6 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; schede in attesa">
 <!ENTITY tab_queue_notification_text_singular2 "1 scheda in attesa">
 <!ENTITY tab_queue_notification_settings "Per attivare la funzione “Apertura di più link” garantire a &brandShortName; il permesso “Consenti spostamento su altre app”">
-<!ENTITY content_notification_summary "&brandShortName;">
-<!ENTITY content_notification_title_plural "&formatD; siti aggiornati">
-<!ENTITY content_notification_action_settings2 "Impostazioni">
-<!ENTITY content_notification_action_read_now "Leggi adesso">
-<!ENTITY content_notification_updated_on "Aggiornato il &formatS;">
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
