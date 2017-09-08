@@ -258,11 +258,41 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Format Piawai">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "P">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Papar Lampiran Sebaris">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "L">
 
+<!ENTITY pageSourceCmd.label "Sumber Mesej">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "Cari">
+<!ENTITY findMenu.accesskey "C">
+<!ENTITY findCmd.label "Cari dalam Mesej Ini…">
+<!ENTITY findCmd.accesskey "C">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Cari Lagi">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Cari Mesej…">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Cari Alamat…">
+<!ENTITY searchAddressesCmd.accesskey "A">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Teruskan">
+<!ENTITY goMenu.accesskey "T">
+<!ENTITY nextMenu.label "Berikut">
+<!ENTITY nextMenu.accesskey "B">
+<!ENTITY nextMsgCmd.label "Mesej">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Mesej Belum Dibaca">
 <!ENTITY nextUnreadMsgCmd.accesskey "B">
 <!ENTITY nextUnreadMsgCmd.key "n">
@@ -271,13 +301,30 @@
 <!ENTITY nextUnreadThread.label "Thread Belum Dibaca">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Terdahulu">
+<!ENTITY prevMenu.accesskey "T">
+<!ENTITY prevMsgCmd.label "Mesej">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Mesej Belum Dibaca">
 <!ENTITY prevUnreadMsgCmd.accesskey "B">
 <!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Kirim semula">
+<!ENTITY goForwardCmd.accesskey "K">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevStarredMsgCmd.label "Mesej Berbintang">
 <!ENTITY prevStarredMsgCmd.accesskey "B">
 
 <!-- Message Menu -->
+<!ENTITY forwardMsgCmd.label "Kirim semula">
+<!ENTITY forwardMsgCmd.accesskey "K">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Kirim Semula Sebagai">
+<!ENTITY forwardAsMenu.accesskey "m">
+<!ENTITY forwardAsInline.label "Sebaris">
+<!ENTITY forwardAsInline.accesskey "S">
+<!ENTITY forwardAsAttachmentCmd.label "Lampiran">
+<!ENTITY forwardAsAttachmentCmd.accesskey "L">
 <!-- do not change "VK_RETURN" -->
 <!ENTITY markAsUnreadCmd.label "Sebagai Belum Dibaca">
 <!ENTITY markAsUnreadCmd.accesskey "B">
@@ -303,10 +350,15 @@
     This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
+<!ENTITY forwardButton.label "Kirim semula">
 <!ENTITY nextButtonToolbarItem.label "Belum Dibaca Berikut">
 <!ENTITY previousButtonToolbarItem.label "Belum Dibaca Terdahulu">
+<!ENTITY goForwardButton1.label "Kirim semula">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY forwardButton.tooltip "Kirim semula mesej yang dipilih">
+<!ENTITY forwardAsInline.tooltip "Kirim semula mesej yang dipilih sebagai teks sebaris">
+<!ENTITY forwardAsAttachment.tooltip "Kirim semula mesej yang dipilih sebagai lampiran">
 <!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
 <!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
 
