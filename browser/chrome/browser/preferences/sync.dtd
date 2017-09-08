@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2 "Komenci seancon…">
 <!ENTITY signedOut.accountBox.signin2.accesskey "K">
 
-<!ENTITY signedIn.settings.label       "Spegulaj agordoj">
+<!ENTITY signedIn.settings.label       "Agordoj de Spegulado">
 <!ENTITY signedIn.settings.description "Elekti tion, kion vi volas speguli en la aparatoj viaj, kiuj uzas &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
