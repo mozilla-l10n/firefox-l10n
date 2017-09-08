@@ -134,9 +134,37 @@
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "j">
 <!ENTITY enableInlineSpellChecker.label "Semak ejaan Semasa Menaip">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Petikan Mesej">
+<!ENTITY quoteCmd.accesskey "P">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Lampir Kad Peribadi (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY returnReceiptMenu.label "Resit Pemberitahu Serahan">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Notifikasi Status Penghantaran">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY deliveryFormatMenu.label "Format Penghantaran">
+<!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Auto-Kesan">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Teks Jelas Sahaja">
+<!ENTITY plainTextFormatCmd.accesskey "a">
+<!ENTITY htmlFormatCmd.label "Teks Beraneka (HTML) Sahaja">
+<!ENTITY htmlFormatCmd.accesskey "a">
+<!ENTITY bothFormatCmd.label "Teks Jelas dan Beraneka (HTML)">
+<!ENTITY bothFormatCmd.accesskey "s">
+<!ENTITY priorityMenu.label "Prioriti">
+<!ENTITY priorityMenu.accesskey "i">
+<!ENTITY priorityButton.title "Prioriti">
+<!ENTITY priorityButton.tooltiptext "Tukar prioriti mesej">
+<!ENTITY priorityButton.label "Prioriti:">
+<!ENTITY lowestPriorityCmd.label "Paling rendah">
+<!ENTITY lowestPriorityCmd.accesskey "r">
+<!ENTITY lowPriorityCmd.label "Rendah">
+<!ENTITY lowPriorityCmd.accesskey "d">
 
 <!-- Tools Menu -->
 
