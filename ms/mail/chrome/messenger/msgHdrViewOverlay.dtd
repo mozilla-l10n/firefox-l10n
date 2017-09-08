@@ -4,6 +4,9 @@
 
 
 
+<!ENTITY hdrMenuForwardButton.label "Kirim Semula Sebagai">
+<!ENTITY hdrForwardButton1.label "Kirim semula">
+<!ENTITY hdrForwardButton1.tooltip "Kirim semula mesej ini">
 <!ENTITY hdrTrashButton1.label "Buang">
 <!ENTITY hdrTrashButton1.tooltip "Buang mesej ini">
 

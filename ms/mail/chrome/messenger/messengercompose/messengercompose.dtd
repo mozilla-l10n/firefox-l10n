@@ -150,7 +150,7 @@
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Auto-Kesan">
 <!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Teks Jelas Sahaja">
+<!ENTITY plainTextFormatCmd.label "Teks Biasa Sahaja">
 <!ENTITY plainTextFormatCmd.accesskey "a">
 <!ENTITY htmlFormatCmd.label "Teks Beraneka (HTML) Sahaja">
 <!ENTITY htmlFormatCmd.accesskey "a">
