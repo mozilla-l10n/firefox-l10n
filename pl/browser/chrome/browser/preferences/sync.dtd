@@ -16,7 +16,7 @@
 <!ENTITY engine.addons.accesskey "">
 <!ENTITY engine.addresses.label "Adresy">
 <!ENTITY engine.addresses.accesskey "">
-<!ENTITY engine.creditcards.label "Dane kart kredytowych">
+<!ENTITY engine.creditcards.label "Dane kart płatniczych">
 <!ENTITY engine.creditcards.accesskey "">
 
 <!ENTITY fxaSyncDeviceName.label "Nazwa urządzenia">
