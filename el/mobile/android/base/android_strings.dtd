@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Ορισμός ως προεπιλογή">
 <!ENTITY pref_dialog_default "Προεπιλογή">
 <!ENTITY pref_dialog_remove "Αφαίρεση">
+<!ENTITY pref_dialog_activitystream_header_content "Επιπρόσθετο περιεχόμενο">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Πρόσφατοι σελιδοδείκτες">
+<!ENTITY pref_dialog_activitystream_visited "Επισκέψεις">
 
 <!ENTITY pref_search_last_toast "Δεν είναι δυνατή η αφαίρεση ή απενεργοποίηση της τελευταίας μηχανής αναζήτησης σας.">
 
@@ -846,16 +849,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Έγινε επίσκεψη">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Τάσεις">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Ξεκινήστε την περιήγηση και θα σάς εμφανίσουμε εδώ μερικά υπέροχα άρθρα, βίντεο και άλλες σελίδες που επισκεφθήκατε πρόσφατα ή έχετε προσθέσει στους σελιδοδείκτες.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Αφαίρεση">
 <!ENTITY activity_stream_delete_history "Διαγραφή από ιστορικό">
-
-<!ENTITY activity_stream_welcome_title "Καλώς ορίσατε στις κορυφαίες στιγμές σας">
-<!ENTITY activity_stream_welcome_content1 "Το &brandShortName; δημιουργεί πλέον τις κορυφαίες στιγμές από πράγματα που έχετε ανακαλύψει στο διαδίκτυο, ώστε να μπορέσετε να επιστρέψετε σε έξοχα άρθρα, βίντεο, σελιδοδείκτες και άλλες σελίδες.">
-<!ENTITY activity_stream_welcome_dismiss "Απόρριψη">
 
 <!ENTITY private_tab_panel_title "Ιδιωτική Περιήγηση + Προστασία Παρακολούθησης">
 <!ENTITY private_tab_panel_description "Ο &brandShortName; αποκλείει τμήματα των σελίδων τα οποία ενδέχεται να καταγράφουν την περιήγηση σας.">
