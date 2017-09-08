@@ -435,6 +435,14 @@
 <!ENTITY openConversationCmd.label "Buka dalam Perbualan">
 <!ENTITY openConversationCmd.accesskey "b">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Lampiran">
+<!ENTITY openAttachmentListCmd.accesskey "p">
+<!ENTITY openFeedMessage1.label "Apabila Membuka Mesej Suapan">
+<!ENTITY openFeedMessage1.accesskey "M">
+<!ENTITY openFeedWebPage.label "Buka sebagai Halaman Web">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Buka sebagai Ringkasan">
+<!ENTITY openFeedSummary.accesskey "R">
 
 <!-- Windows Menu -->
 
