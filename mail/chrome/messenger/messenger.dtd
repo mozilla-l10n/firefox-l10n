@@ -34,6 +34,19 @@
 <!ENTITY newIMAccountCmd.accesskey "S">
 <!ENTITY newFeedAccountCmd.label "Akaun Suapan…">
 <!ENTITY newFeedAccountCmd.accesskey "n">
+<!ENTITY newIMContactCmd.label "Kenalan Sembang…">
+<!ENTITY newIMContactCmd.accesskey "b">
+<!ENTITY openMessageFileCmd.label "Buka Mesej Disimpan…">
+<!ENTITY openMessageFileCmd.accesskey "B">
+<!ENTITY saveAsMenu.label "Simpan Sebagai">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Fail">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Templat">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgForCmd.label "Dapatkan Mesej Baru untuk">
+<!ENTITY getNewMsgForCmd.accesskey "u">
 <!ENTITY emptyTrashCmd.label "Buang Sampah">
 <!ENTITY emptyTrashCmd.accesskey "g">
 <!ENTITY downloadStarredCmd.label "Cari Mesej Berbintang">
