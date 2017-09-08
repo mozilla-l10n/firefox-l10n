@@ -443,8 +443,11 @@
 <!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Buka sebagai Ringkasan">
 <!ENTITY openFeedSummary.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Togol Halaman Web dan Ringkasan dalam Anak tetingkap Mesej">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "Tetingkap">
 
 <!-- Tools Menu -->
 <!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
@@ -500,6 +503,8 @@
 <!ENTITY folderUnreadColumn.label "Belum Dibaca">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextOpenInNewWindow.label "Buka dalam Tetingkap Baru">
+<!ENTITY folderContextOpenInNewWindow.accesskey "B">
 <!ENTITY folderContextRemove.label "Buang">
 <!ENTITY folderContextEmptyTrash.label "Buang Sampah">
 <!ENTITY folderContextEmptyTrash.accesskey "g">
@@ -521,6 +526,8 @@
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Buka Mesej dalam Tetingkap Baru">
+<!ENTITY contextOpenNewWindow.accesskey "T">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
@@ -593,6 +600,7 @@
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
@@ -608,6 +616,9 @@
 <!-- Statusbar -->
 
 <!-- Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimum">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY zoomWindow.label "Zum">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
