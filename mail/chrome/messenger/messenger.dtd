@@ -450,6 +450,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Kirim semula mesej yang dipilih sebagai lampiran">
 <!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
 <!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
+<!ENTITY goForwardButton.tooltip "Langkau satu mesej">
 <!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
 <!ENTITY undeleteButton.tooltip "Batalkan membuang mesej yang dipilih">
 <!ENTITY compactButton.tooltip "Buang mesej yang dihapuskan daripada folder yang dipilih">
