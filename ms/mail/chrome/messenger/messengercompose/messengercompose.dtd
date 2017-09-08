@@ -14,6 +14,9 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
+<!ENTITY newContact.label "Buku Alamat Kenalan…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY attachMenu.label "Lampir">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 
 <!-- Edit Menu -->
