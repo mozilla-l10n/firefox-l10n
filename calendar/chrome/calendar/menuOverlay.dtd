@@ -18,8 +18,8 @@
 <!ENTITY calendar.publish.label                 "Terbitkan…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Hapus Kalendar Dipilih…">
-<!ENTITY calendar.deletecalendar.accesskey      "H">
+<!ENTITY calendar.deletecalendar.label          "Buang Kalendar yang Dipilih…">
+<!ENTITY calendar.deletecalendar.accesskey      "B">
 <!ENTITY calendar.unsubscribecalendar.label     "Batal langganan Kalendar yang Dipilih…">
 <!ENTITY calendar.unsubscribecalendar.accesskey "B">
 

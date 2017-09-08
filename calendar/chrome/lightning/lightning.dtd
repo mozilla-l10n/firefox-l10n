@@ -52,8 +52,8 @@
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Tolak jemputan semua pengulangan acara">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Tolak">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Tolak cadangan balas">
-<!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus daripada kalendar">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Buang">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Buang daripada kalendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Butiran…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Papar butiran acara">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Selanjutnya">

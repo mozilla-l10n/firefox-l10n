@@ -9,8 +9,8 @@
 
 <!ENTITY lightning.toolbar.sync.label "Selaraskan">
 <!ENTITY lightning.toolbar.sync.tooltip "Muat semula kalendar dan selaraskan perubahan">
-<!ENTITY lightning.toolbar.delete.label "Hapus">
-<!ENTITY lightning.toolbar.delete.tooltip "Hapus acara dan tugasan yang dipilih">
+<!ENTITY lightning.toolbar.delete.label "Buang">
+<!ENTITY lightning.toolbar.delete.tooltip "Buang acara dan tugasan yang dipilih">
 <!ENTITY lightning.toolbar.edit.label "Edit">
 <!ENTITY lightning.toolbar.edit.tooltip "Edit acara dan tugasan yang dipilih">
 <!ENTITY lightning.toolbar.gototoday.label "Pergi ke Hari ini">
