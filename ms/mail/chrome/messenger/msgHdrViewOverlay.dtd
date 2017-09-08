@@ -17,6 +17,10 @@
 <!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
+<!ENTITY deleteAttachmentCmd.label    "Buang">
+<!ENTITY deleteAttachmentCmd.accesskey    "g">
+<!ENTITY deleteAllAttachmentsCmd.label    "Buang Semua…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 
 <!-- Attachment toolbar items -->

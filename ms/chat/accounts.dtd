@@ -24,8 +24,8 @@
 <!ENTITY account.connect.accesskey    "b">
 <!ENTITY account.disconnect.label     "Memutuskan">
 <!ENTITY account.disconnect.accesskey "t">
-<!ENTITY account.delete.label         "Hapus">
-<!ENTITY account.delete.accesskey     "H">
+<!ENTITY account.delete.label         "Buang">
+<!ENTITY account.delete.accesskey     "B">
 <!ENTITY account.edit.label           "Sifat">
 <!ENTITY account.edit.accesskey       "S">
 <!ENTITY account.moveup.label         "Alih ke atas">
