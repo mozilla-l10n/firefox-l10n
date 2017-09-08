@@ -399,7 +399,7 @@
 <!ENTITY pref_private_data_offlineApps "Nuguan\&apos; a\&apos;min rayi\&apos;î nej sitio web nitaj si \&apos;iaj suun">
 <!ENTITY pref_private_data_siteSettings2 "Nagi\&apos;iô\&apos; dàj huin ruhuô\&apos; sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Nej sa naduni\&apos;">
-<!ENTITY pref_private_data_syncedTabs "Nej rakïj ñaj guña huaa">
+<!ENTITY pref_private_data_syncedTabs "Nej rakïj ñanj guña huaa">
 
 <!ENTITY pref_default_browser "Na nagi\&apos;iát \&apos;ngo sa riña nana\&apos;uì\&apos; yitïnjt">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Guij ni\&apos;iaj sa dugu\&apos;nïn\&apos; rukû Mozilla">
@@ -475,8 +475,8 @@
 <!ENTITY desktop_mode "Gachìn\&apos; riña ñanj sinïï">
 <!ENTITY page "Ñanj">
 <!ENTITY tools "Rasun">
-<!ENTITY new_tab "Rakïj ñaj nakàa">
-<!ENTITY new_private_tab "Rakïj ñaj nakà garasun \&apos;ngo rïn\&apos;">
+<!ENTITY new_tab "Rakïj ñanj nakàa">
+<!ENTITY new_private_tab "Rakïj ñanj nakà huìi">
 <!ENTITY close_all_tabs "Narrûn\&apos; riña daran\&apos; nej rakïj ñaj">
 <!ENTITY close_private_tabs "Narrûn riña nej rakïj ñaj arajsun \&apos;ngo rïn\&apos;">
 <!ENTITY tabs_normal "Rakïj ñaj">
