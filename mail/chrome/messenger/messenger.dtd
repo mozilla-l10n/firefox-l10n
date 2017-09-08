@@ -378,8 +378,40 @@
 <!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Salin Ke">
 <!ENTITY copyMsgToMenu.accesskey "S">
+<!ENTITY moveToFolderAgain.label "Pindah Lagi">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
+<!ENTITY killThreadMenu.label "Abaikan Thread">
+<!ENTITY killThreadMenu.accesskey "A">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Abaikan Sub-thread">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Ikuti Thread">
+<!ENTITY watchThreadMenu.accesskey "I">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY tagMenu.label "Tag">
+<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Tandakan">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "Sebagai sudah Dibaca">
+<!ENTITY markAsReadCmd.accesskey "D">
 <!ENTITY markAsUnreadCmd.label "Sebagai Belum Dibaca">
 <!ENTITY markAsUnreadCmd.accesskey "B">
+<!ENTITY markThreadAsReadCmd.label "Thread Sebagai sudah Dibaca">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
 <!ENTITY markStarredCmd.label "Tandakan Bintang">
 <!ENTITY markStarredCmd.accesskey "B">
 <!ENTITY markStarredCmd.key "S">
