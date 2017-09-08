@@ -7,11 +7,11 @@
 
 <!ENTITY recipient.label "Sesetengah penerima tidak disenaraikan sebagai boleh menerima mel HTML.">
 
-<!ENTITY question.label "Adakah anda mahu tukar mesej ini ke teks jelas atau hantar sahaja HTML?">
+<!ENTITY question.label "Adakah anda mahu tukar mesej ini ke teks biasa atau hantar sahaja HTML?">
 
-<!ENTITY plainTextAndHtml.label "Hantar dalam Teks Jelas dan HTML">
+<!ENTITY plainTextAndHtml.label "Hantar dalam Teks Biasa dan HTML">
 <!ENTITY plainTextAndHtml.accesskey "a">
-<!ENTITY plainTextOnly.label "Hantar dalam Teks Jelas Sahaja">
+<!ENTITY plainTextOnly.label "Hantar dalam Teks Biasa Sahaja">
 <!ENTITY plainTextOnly.accesskey "J">
 <!ENTITY htmlOnly.label "Hantar dalam HTML Sahaja">
 <!ENTITY htmlOnly.accesskey "H">
