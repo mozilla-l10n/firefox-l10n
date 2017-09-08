@@ -17,18 +17,123 @@
 <!ENTITY newContact.label "Buku Alamat Kenalan…">
 <!ENTITY newContact.accesskey "K">
 <!ENTITY attachMenu.label "Lampir">
+<!ENTITY attachMenu.accesskey "r">
+<!ENTITY attachFileCmd.label "Fail…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Halaman Web…">
+<!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Kad Peribadi (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Ingatkan Saya Nanti">
+<!ENTITY remindLater.accesskey "N">
+<!ENTITY closeCmd.label "Tutup">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "t">
+<!ENTITY saveCmd.label "Simpan">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "p">
+<!ENTITY saveAsCmd.label "Simpan Sebagai">
+<!ENTITY saveAsCmd.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Fail…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Draf">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "Templat">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "Hantar Sekarang">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "r">
+<!ENTITY sendLaterCmd.label "Hantar Kemudian">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "K">
+<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.accesskey "e">
+<!ENTITY printPreviewCmd.label "Previu Cetakan">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Cetak…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "C">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label "Edit">
+<!ENTITY editMenu.accesskey "d">
+<!ENTITY undoCmd.label "Batal">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "l">
+<!ENTITY redoCmd.label "Buat semula">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "s">
+<!ENTITY cutCmd.label "Potong">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Salin">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "n">
+<!ENTITY pasteCmd.label "Tampal">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Buang">
+<!ENTITY deleteCmd.accesskey "g">
+<!ENTITY editRewrapCmd.label "Balut semula">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Namakan semula Lampiran…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY selectAllCmd.label "Pilih Semua">
+<!ENTITY selectAllCmd.key "A">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY findBarCmd.label "Cari…">
+<!ENTITY findBarCmd.accesskey "C">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Cari dan Ganti…">
+<!ENTITY findReplaceCmd.accesskey "t">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Cari Lagi">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Cari Terdahulu">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.label "Papar">
+<!ENTITY viewMenu.accesskey "p">
+<!ENTITY viewToolbarsMenuNew.label "Bar alatan">
+<!ENTITY viewToolbarsMenuNew.accesskey "B">
+<!ENTITY menubarCmd.label "Bar Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Bar alatan Karangan">
 <!ENTITY showCompositionToolbarCmd.accesskey "t">
+<!ENTITY showFormattingBarCmd.label "Bar Pemformatan">
+<!ENTITY showFormattingBarCmd.accesskey "P">
+<!ENTITY showTaskbarCmd.label "Bar Status">
+<!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Penyesuaian…">
+<!ENTITY customizeToolbar.accesskey "P">
 
+<!ENTITY addressSidebar.label "Bar sisi Kenalan">
+<!ENTITY addressSidebar.accesskey "s">
 
 <!-- Format Menu -->
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">
 
 <!-- Options Menu -->
+<!ENTITY optionsMenu.label "Pilihan">
+<!ENTITY optionsMenu.accesskey "l">
+<!ENTITY checkSpellingCmd2.label "Semak Ejaan…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "j">
+<!ENTITY enableInlineSpellChecker.label "Semak ejaan Semasa Menaip">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
