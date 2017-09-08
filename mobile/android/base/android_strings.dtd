@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
-
-<!ENTITY firstrun_urlbar_message "Добре дошли във &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Намирайте нещата бързо с удобни подсказки при търсене.">
+<!ENTITY firstrun_urlbar_message2 "Благодарим ви, че избрахте &brandShortName;">
 <!ENTITY firstrun_bookmarks_title "История">
 <!ENTITY firstrun_bookmarks_message "Любимите ви неща най-напред">
 <!ENTITY firstrun_bookmarks_subtext "Показване на резултати от отметките и историята при търсене.">
@@ -13,8 +11,8 @@
 <!ENTITY firstrun_data_message "По-малко данни, повече спестявания">
 <!ENTITY firstrun_data_subtext2 "Изключете изображенията, за да пестите данни от всяка посетена страница.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, винаги до вас">
-<!ENTITY firstrun_sync_subtext "Синхронизирайте разделите, паролите и всичко друго където и да сте.">
+<!ENTITY firstrun_sync_message2 "Продължете откъдето сте спрели.">
+<!ENTITY firstrun_sync_subtext2 "Използвайте Sync, за да намерите отметките, паролите и другите неща, които запазвате в &brandShortName; на всички ваши устройства.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
 <!ENTITY firstrun_signin_button "Вписване в Sync">
 <!ENTITY  onboard_start_button_browser "Започнете да сърфирате">
@@ -355,7 +353,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Изчистване">
 <!ENTITY pref_clear_on_exit_title3 "Изчистване на лични данни след изход">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; автоматично ще изчисти вашите данни при избиране на \u0022Изход\u0022 от главното меню">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; автоматично ще изчисти вашите данни при избиране на \&quot;Изход\&quot; от главното меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Изберете кои данни да бъдат изтрити">
 <!ENTITY pref_restore_tabs "Възстановяване на раздели">
 <!ENTITY pref_restore_always "Всеки път">
@@ -405,6 +403,9 @@
 <!ENTITY pref_dialog_set_default "Избиране по подразбиране">
 <!ENTITY pref_dialog_default "По подразбиране">
 <!ENTITY pref_dialog_remove "Премахване">
+<!ENTITY pref_dialog_activitystream_header_content "Допълнително съдържание">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Последни отметки">
+<!ENTITY pref_dialog_activitystream_visited "Посетени">
 
 <!ENTITY pref_search_last_toast "Не може да премахнете или изключите последната търсеща машина.">
 
@@ -829,6 +830,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
 <!ENTITY activity_stream_topsites "Популярни">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Препоръчани от &brandPocket;">
 <!ENTITY activity_stream_highlights "Акценти">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -837,17 +840,20 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Посетена">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Тенденции">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Разглеждайте и тук ще ви покажем някои от най-добрите статии, видео и други страници, които сте посетили или отметнали наскоро.">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Прекратяване">
+<!ENTITY activity_stream_remove "Премахване">
 <!ENTITY activity_stream_delete_history "Премахване от историята">
-
-<!ENTITY activity_stream_welcome_title "Добре дошли в Акценти">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; сега създава акценти от местата, които сте открили в мрежата, за да намирате по-лесно страхотни статии, видео, отметки и други страници.">
 
 <!ENTITY private_tab_panel_title "Поверително разглеждане + Защита от проследяване">
 <!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да ви следят докато разглеждате в Мрежата.">
 <!ENTITY private_tab_panel_description2 "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
 <!ENTITY private_tab_learn_more "Искате ли да научите повече?">
+
+<!ENTITY fullscreen_warning "Режим на цял екран">
