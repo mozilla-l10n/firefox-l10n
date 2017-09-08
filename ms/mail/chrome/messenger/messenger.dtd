@@ -412,9 +412,29 @@
 <!ENTITY markThreadAsReadCmd.label "Thread Sebagai sudah Dibaca">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Sebagai sudah Dibaca mengikut Tarikh…">
+<!ENTITY markReadByDateCmd.accesskey "T">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Semua sudah Dibaca">
+<!ENTITY markAllReadCmd.accesskey "S">
+<!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Tandakan Bintang">
 <!ENTITY markStarredCmd.accesskey "B">
 <!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Sebagai Mel Remeh">
+<!ENTITY markAsJunkCmd.accesskey "R">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Sebagai Bukan Mel Remeh">
+<!ENTITY markAsNotJunkCmd.accesskey "B">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Laksanakan Kawalan Mel Remeh">
+<!ENTITY recalculateJunkScoreCmd.accesskey "K">
+<!ENTITY openMessageWindowCmd.label "Buka Mesej">
+<!ENTITY openMessageWindowCmd.accesskey "B">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Buka dalam Perbualan">
+<!ENTITY openConversationCmd.accesskey "b">
+<!ENTITY openConversationCmd.key "o">
 
 <!-- Windows Menu -->
 
@@ -463,6 +483,7 @@
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewContactCmd.label "Buku Alamat Kenalan…">
+<!ENTITY appmenuSelectThread.label "Pilih Thread">
 <!ENTITY appmenuSelectFlagged.label "Pilih Mesej Berbintang">
 
 <!-- Tags Menu Popup -->

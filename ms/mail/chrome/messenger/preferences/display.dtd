@@ -11,7 +11,7 @@
 <!-- Fonts and Colors -->
 
 <!-- Advanced -->
-<!ENTITY showCondensedAddresses.label     "Tunjuk hanya nama paparan bagi kenalan dalam buku alamat">
+<!ENTITY showCondensedAddresses.label     "Papar nama paparan kenalan dalam buku alamat sahaja">
 
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",

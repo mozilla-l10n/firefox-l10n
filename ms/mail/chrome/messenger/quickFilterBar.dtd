@@ -57,7 +57,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.tooltip
-         "Papar hanya mesej yang belum dibaca">
+         "Papar mesej yang belum dibaca sahaja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -71,7 +71,7 @@
      include messages that have been starred/flagged.
      -->
 <!ENTITY quickFilterBar.starred.tooltip
-         "Papar hanya mesej berbintang">
+         "Papar mesej berbintang sahaja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
@@ -84,6 +84,8 @@
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.tooltip
+         "Papar mesej daripada kenalan dalam buku alamat sahaja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -94,6 +96,8 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Papar mesej yang ada tag sahaja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -104,6 +108,8 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+<!ENTITY quickFilterBar.attachment.tooltip
+         "Papar mesej yang ada lampiran sahaja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
