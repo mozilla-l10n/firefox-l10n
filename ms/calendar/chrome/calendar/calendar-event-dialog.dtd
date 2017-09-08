@@ -89,8 +89,8 @@
 <!ENTITY  event.menu.item.saveandclose.accesskey          "t">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
-<!ENTITY  event.menu.item.delete.label                    "Hapus…">
-<!ENTITY  event.menu.item.delete.accesskey                "H">
+<!ENTITY  event.menu.item.delete.label                    "Buang…">
+<!ENTITY  event.menu.item.delete.accesskey                "B">
 <!ENTITY  event.menu.item.page.setup.label                "Tatacara Halaman">
 <!ENTITY  event.menu.item.page.setup.accesskey            "c">
 <!ENTITY  event.menu.item.print.label                     "Cetak">
@@ -167,13 +167,13 @@
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label2                       "Simpan">
 <!ENTITY  event.toolbar.saveandclose.label                "Simpan dan Tutup">
-<!ENTITY  event.toolbar.delete.label                      "Hapus">
+<!ENTITY  event.toolbar.delete.label                      "Buang">
 <!ENTITY  event.toolbar.attendees.label                   "Jemput Peserta">
 <!ENTITY  event.toolbar.privacy.label                     "Privasi">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Simpan">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Simpan dan Tutup">
-<!ENTITY  event.toolbar.delete.tooltip                    "Hapus">
+<!ENTITY  event.toolbar.delete.tooltip                    "Buang">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Jemput Peserta">
 <!ENTITY  event.toolbar.attachments.tooltip               "Tambah Lampiran">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Tukar Privasi">
