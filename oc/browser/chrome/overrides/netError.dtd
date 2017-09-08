@@ -25,6 +25,11 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verificatz la sintaxi del nom de fichièr (amb respècte de las minusculas/majusculas) ;</li> <li>Verificatz se lo fichièr es pas estat desplaçat, renomenat o suprimit.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "L'accès al fichièr es estat refusat">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Benlèu es estat suprimit, bolegat o las permissions del fichièr n'empacharián l'accès.</li>
+</ul>
+">
 
 <!ENTITY generic.title "La requèsta pòt pas abotir">
 <!ENTITY generic.longDesc "<p>&brandShortName; pòt pas cargar aquesta pagina.</p>">
@@ -80,6 +85,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "L'autor de <span class='hostname'/> configurèt son site web incorrectament. Per protegir vòstras informacions del panatòri, &brandShortName; s'es pas connectat pas al site web.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar pus tard ;</li> <li>Se capitatz pas de navigar sus cap de site, verificatz la connexion a la ret de vòstre ordenador ;</li> <li>Se vòstre ordenador o vòstra ret es protegit per un parafuòc o un proxy, asseguratz-vos que &brandShortName; a l'autorizacion d'accedir al Web.</li> </ul>">
 
@@ -92,6 +98,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
 
+<!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
 
 <!ENTITY remoteXUL.title "XUL distant">
@@ -106,8 +113,16 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "Connexion pas segura">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aqueste site utiliza HTTP
+Strict Transport Security (HSTS) per especificar que &brandShortName; se connecte
+sonque de biais segur. Atal, es pas possible d'apondre una excepcion per aqueste
+certificat.">
+<!ENTITY certerror.copyToClipboard.label "Copiar lo tèxte dins lo quichapapièrs">
 
 <!ENTITY inadequateSecurityError.title "Vòstra connexion es pas segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
+<!ENTITY prefReset.label "Restablir los paramètres per defaut">
