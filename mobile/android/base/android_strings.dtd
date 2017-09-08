@@ -410,6 +410,7 @@
 <!ENTITY pref_dialog_set_default "Встановити типово">
 <!ENTITY pref_dialog_default "Типово">
 <!ENTITY pref_dialog_remove "Вилучити">
+<!ENTITY pref_dialog_activitystream_header_content "Додатковий вміст">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Недавно закладені">
 <!ENTITY pref_dialog_activitystream_visited "Відвідано">
 
@@ -849,6 +850,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Популярне">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Почніть перегляд і тут ми покажемо вам деякі чудові статті, відео та інші сторінки, нещодавно відвідані чи збережені вами до закладок.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
