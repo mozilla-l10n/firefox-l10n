@@ -419,6 +419,8 @@
 <!-- Windows Menu -->
 
 <!-- Tools Menu -->
+<!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
+<!ENTITY deleteJunk.accesskey "B">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
@@ -438,6 +440,9 @@
 <!ENTITY nextButtonToolbarItem.label "Belum Dibaca Berikut">
 <!ENTITY previousButtonToolbarItem.label "Belum Dibaca Terdahulu">
 <!ENTITY goForwardButton1.label "Kirim semula">
+<!ENTITY deleteItem.title "Buang">
+<!ENTITY deleteButton.label "Buang">
+<!ENTITY undeleteButton.label "Batalkan membuang">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY forwardButton.tooltip "Kirim semula mesej yang dipilih">
@@ -445,6 +450,9 @@
 <!ENTITY forwardAsAttachment.tooltip "Kirim semula mesej yang dipilih sebagai lampiran">
 <!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
 <!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
+<!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
+<!ENTITY undeleteButton.tooltip "Batalkan membuang mesej yang dipilih">
+<!ENTITY compactButton.tooltip "Buang mesej yang dihapuskan daripada folder yang dipilih">
 
 <!-- Toolbar Button Popup -->
 
@@ -462,6 +470,7 @@
 <!ENTITY folderUnreadColumn.label "Belum Dibaca">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextRemove.label "Buang">
 <!ENTITY folderContextEmptyTrash.label "Buang Sampah">
 <!ENTITY folderContextEmptyTrash.accesskey "g">
 <!ENTITY folderContextUnsubscribe.label "Batal langganan">
