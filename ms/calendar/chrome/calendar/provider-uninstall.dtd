@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY providerUninstall.title                           "Nyahpasang Penyedia">
-<!ENTITY providerUninstall.accept.label                    "Nyahlanggan yang Dipilih">
+<!ENTITY providerUninstall.accept.label                    "Batal langganan yang Dipilih">
 <!ENTITY providerUninstall.accept.accesskey                "N">
 <!ENTITY providerUninstall.cancel.label                    "Simpan Add-on">
 <!ENTITY providerUninstall.cancel.accesskey                "S">

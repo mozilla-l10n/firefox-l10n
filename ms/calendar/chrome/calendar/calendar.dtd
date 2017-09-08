@@ -241,8 +241,8 @@
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Buang Kalendar…">
 <!ENTITY calendar.context.removeserver.accesskey       "B">
-<!ENTITY calendar.context.unsubscribeserver.label      "Nyahlanggan Kalendar…">
-<!ENTITY calendar.context.unsubscribeserver.accesskey  "N">
+<!ENTITY calendar.context.unsubscribeserver.label      "Batal langganan Kalendar…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "B">
 <!ENTITY calendar.context.synccalendars.label          "Selaraskan Kalendar">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Terbitkan Kalendar…">
@@ -330,8 +330,8 @@
 <!ENTITY calendarproperties.cache3.label                   "Sokongan Luar talian">
 <!ENTITY calendarproperties.enabled.label                  "Aktifkan kalendar ini">
 <!ENTITY calendarproperties.forceDisabled.label            "Penyedia kalendar ini tidak dapat ditemukan. Ini kerap terjadi apabila anda nyahdayakan atau nayhpasang add-ons tertentu.">
-<!ENTITY calendarproperties.unsubscribe.label              "Nyahlanggan">
-<!ENTITY calendarproperties.unsubscribe.accesskey          "N">
+<!ENTITY calendarproperties.unsubscribe.label              "Batal langganan">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "B">
 
 <!-- Calendar Publish Dialog -->
 <!ENTITY calendar.publish.dialog.title              "Terbitkan Kalendar">
