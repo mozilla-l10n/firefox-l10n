@@ -47,12 +47,62 @@
 <!ENTITY saveAsTemplateCmd.accesskey "T">
 <!ENTITY getNewMsgForCmd.label "Dapatkan Mesej Baru untuk">
 <!ENTITY getNewMsgForCmd.accesskey "u">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Semua Akaun">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Akaun Semasa">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "S">
+<!ENTITY getNextNMsgCmd2.label "Dapatkan Mesej Berita Seterusnya">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Hantar Mesej yang Tidak Dihantar">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Langgan…">
+<!ENTITY subscribeCmd.accesskey "g">
+<!ENTITY deleteFolder.label "Buang Folder">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Namakan semula Folder…">
+<!ENTITY renameFolder.accesskey "N">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Padatkan Folder">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Buang Sampah">
 <!ENTITY emptyTrashCmd.accesskey "g">
+<!ENTITY offlineMenu.label "Luar talian">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Kerja Luar talian">
+<!ENTITY offlineGoOfflineCmd.accesskey "j">
+<!ENTITY synchronizeOfflineCmd.label "Muat turun/Sync Sekarang…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Tetapan Luar talian">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Dapatkan Mesej yang Dipilih">
+<!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "Cari Mesej Berbintang">
 <!ENTITY downloadStarredCmd.accesskey "a">
+<!ENTITY printCmd.label "Cetak…">
+<!ENTITY printCmd.accesskey "C">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Previu Cetakan">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.accesskey "p">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Buang Mesej">
+<!ENTITY deleteMsgCmd.accesskey "B">
+<!ENTITY undeleteMsgCmd.label "Batal membuang Mesej">
+<!ENTITY undeleteMsgCmd.accesskey "b">
+<!ENTITY deleteMsgsCmd.label "Buang Mesej yang Dipilih">
+<!ENTITY deleteMsgsCmd.accesskey "B">
+<!ENTITY undeleteMsgsCmd.label "Batal membuang Mesej yang Dipilih">
+<!ENTITY undeleteMsgsCmd.accesskey "b">
+<!ENTITY deleteFolderCmd.label "Buang Folder">
+<!ENTITY deleteFolderCmd.accesskey "B">
+<!ENTITY unsubscribeNewsgroupCmd.label "Batal langganan">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "l">
+<!ENTITY selectMenu.label "Pilih">
+<!ENTITY selectMenu.accesskey "P">
+<!ENTITY all.label "Semua">
+<!ENTITY all.accesskey "S">
 <!ENTITY selectFlaggedCmd.label "Mesej Berbintang">
 
 <!-- View Menu -->
