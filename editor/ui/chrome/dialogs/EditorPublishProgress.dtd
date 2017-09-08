@@ -12,5 +12,5 @@
 <!ENTITY succeeded.label       "Bem-sucedido">
 <!ENTITY failed.label          "Falhou">
 
-<!ENTITY keepOpen              "Não fechar a janela quando concluir">
+<!ENTITY keepOpen              "Manter esta janela aberta após concluir a publicação.">
 <!ENTITY closeButton.label     "Fechar">
