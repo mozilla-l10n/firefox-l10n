@@ -103,10 +103,48 @@
 <!ENTITY selectMenu.accesskey "P">
 <!ENTITY all.label "Semua">
 <!ENTITY all.accesskey "S">
+<!ENTITY selectThreadCmd.label "Thread">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mesej Berbintang">
+<!ENTITY selectFlaggedCmd.accesskey "B">
+<!ENTITY menuFavoriteFolder.label "Folder Kegemaran">
+<!ENTITY menuFavoriteFolder.accesskey "r">
+<!ENTITY folderPropsCmd2.label "Sifat">
+<!ENTITY folderPropsFolderCmd2.label "Sifat Folder">
+<!ENTITY folderPropsNewsgroupCmd2.label "Sifat Kumpulan berita">
+<!ENTITY folderPropsCmd.accesskey "u">
+<!ENTITY undoDeleteMsgCmd.label "Batal Membuang Mesej">
+<!ENTITY redoDeleteMsgCmd.label "Buang Semula Mesej">
+<!ENTITY undoMoveMsgCmd.label "Batal Memindahkan Mesej">
+<!ENTITY redoMoveMsgCmd.label "Pindah Semula Mesej">
+<!ENTITY undoCopyMsgCmd.label "Batal Menyalin Mesej">
+<!ENTITY redoCopyMsgCmd.label "Salin Semula Mesej">
+<!ENTITY undoMarkAllCmd.label "Batal Semua Tanda Sudah Dibaca">
+<!ENTITY redoMarkAllCmd.label "Tanda semula Semua Sudah Dibaca">
+<!ENTITY undoDefaultCmd.label "Batal">
+<!ENTITY undoDefaultCmd.accesskey "B">
+<!ENTITY redoDefaultCmd.label "Buat semula">
+<!ENTITY redoDefaultCmd.accesskey "B">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Bar Menu">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Bar alatan Mel">
+<!ENTITY showMessengerToolbarCmd.accesskey "t">
+<!ENTITY customizeToolbar.label "Penyesuaian…">
+<!ENTITY customizeToolbar.accesskey "P">
 
+<!ENTITY messagePaneLayoutStyle.label "Susun atur">
+<!ENTITY messagePaneLayoutStyle.accesskey "S">
+<!ENTITY messagePaneClassic.label "Paparan Klasik">
+<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneWide.label "Paparan Melebar">
+<!ENTITY messagePaneWide.accesskey "M">
+<!ENTITY messagePaneVertical.label "Paparan Menegak">
+<!ENTITY messagePaneVertical.accesskey "P">
+<!ENTITY showFolderPaneCmd.label "Anak tetingkap Folder">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!ENTITY unreadFolders.label "Belum Dibaca">
 <!ENTITY unreadFolders.accesskey "B">
