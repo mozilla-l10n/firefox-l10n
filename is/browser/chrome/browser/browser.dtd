@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Endurnýja alla flipa">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Afrita flipa">
+<!ENTITY  duplicateTab.accesskey             "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "æ">
 <!ENTITY  sendLinkToDevice.label             "Senda tengil á tæki">
 <!ENTITY  sendLinkToDevice.accesskey         "æ">
+<!ENTITY  sendToDeviceFeedback.label         "Sent!">
 <!ENTITY  moveToNewWindow.label              "Færa yfir í nýjan glugga">
 <!ENTITY  moveToNewWindow.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Setja alla flipa í bókamerki…">
@@ -162,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
 <!ENTITY bookmarkThisPageCmd.commandkey "B">
 
-<!ENTITY feedsMenu2.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
 <!ENTITY addCurPagesCmd.label "Setja alla flipa í bókamerki…">
@@ -228,7 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Bókamerki">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bókamerki">
+<!ENTITY bookmarksSubview.label             "Bókamerki">
+<!ENTITY bookmarksMenuButton2.label         "Bókarmerkja valmynd">
 <!ENTITY bookmarksMenuButton.other.label    "Önnur bókamerki">
 <!ENTITY bookmarksMenuButton.mobile.label   "Bókamerki farsíma">
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
@@ -239,8 +244,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Verkfæri fyrir bókamerki">
 <!ENTITY addBookmarksMenu.label             "Bæta bókamerkjavalmynd við verkfæraslá">
 <!ENTITY removeBookmarksMenu.label          "Fjarlægja bókamerkjavalmynd úr verkfæraslá">
-
-<!ENTITY containersMenu.label "Geymir">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -339,7 +342,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Sérsníða valmynd og tækjaslár">
 <!ENTITY appMenuCustomizeExit.label "Hætta að sérsníða">
 <!ENTITY appMenuCustomizeExit.tooltip "Klára að sérsníða">
-<!ENTITY appMenuHistory.label "Ferill">
 <!ENTITY appMenuHistory.showAll.label "Skoða alla ferla">
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
@@ -552,6 +554,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY copyURLCmd.label             "Afrita slóð">
+<!ENTITY copyURLFeedback.label        "Afritað!">
 <!ENTITY emailPageCmd.label           "Senda tengil…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
@@ -913,8 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Loka">
 
-<!ENTITY appMenuSidebars.label         "Hliðarslá">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -977,3 +978,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
 
 <!ENTITY libraryButton.tooltip "Skoða feril, vistuð bókamerki, og meira">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Aðgengi virkjað">
