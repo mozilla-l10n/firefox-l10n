@@ -9,7 +9,7 @@
 <!ENTITY findField.accesskey "z">
 <!ENTITY replaceField.label "Substituir por:">
 <!ENTITY replaceField.accesskey "b">
-<!ENTITY caseSensitiveCheckbox.label "Diferenciar maiúsc./minúsc.">
+<!ENTITY caseSensitiveCheckbox.label "Diferenciar maiúsculas de minúsculas">
 <!ENTITY caseSensitiveCheckbox.accesskey "D">
 <!ENTITY wrapCheckbox.label "Ultrapassar início/fim">
 <!ENTITY wrapCheckbox.accesskey "U">

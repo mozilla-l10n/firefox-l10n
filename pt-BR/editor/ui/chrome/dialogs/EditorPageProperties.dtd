@@ -4,8 +4,8 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Propriedades da página">
-<!ENTITY location.label "Endereço:">
-<!ENTITY lastModified.label "Modificado:">
+<!ENTITY location.label "Localização:">
+<!ENTITY lastModified.label "Última modificação:">
 <!ENTITY titleInput.label "Título:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Autor:">
@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Nova página, ainda não salva]">
 <!ENTITY EditHEADSource1.label "Usuários avançados:">
-<!ENTITY EditHEADSource2.label "Para editar o conteúdo da região &lt;head&gt;, use o comando &quot;Código-fonte HTML&quot; no menu Exibir ou nas abas de layout de edição.">
+<!ENTITY EditHEADSource2.label "Para editar os outros conteúdos da região do &lt;título&gt; use o &quot;Código-fonte&quot; no menu Exibir ou na barra de ferramentas do modo de edição.">
