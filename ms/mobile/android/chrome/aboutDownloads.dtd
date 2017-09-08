@@ -7,8 +7,8 @@
 <!ENTITY aboutDownloads.empty                      "Tiada Muat turun">
 
 <!ENTITY aboutDownloads.open                       "Buka">
-<!ENTITY aboutDownloads.remove                     "Hapus">
-<!ENTITY aboutDownloads.removeAll                  "Hapus Semua">
+<!ENTITY aboutDownloads.remove                     "Buang">
+<!ENTITY aboutDownloads.removeAll                  "Buang Semua">
 <!ENTITY aboutDownloads.pause                      "Jeda">
 <!ENTITY aboutDownloads.resume                     "Sambung">
 <!ENTITY aboutDownloads.cancel                     "Batal">
