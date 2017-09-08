@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Baru">
 <!ENTITY newMenu.accesskey                              "B">
-<!ENTITY newContact.label                               "Kenalan Buku Alamat…">
+<!ENTITY newContact.label                               "Buku Alamat Kenalan…">
 <!ENTITY newContact.accesskey                           "K">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Senarai Mel…">

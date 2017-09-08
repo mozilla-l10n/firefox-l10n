@@ -95,6 +95,7 @@
 <!-- Phishing Button Popup -->
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewContactCmd.label "Buku Alamat Kenalan…">
 <!ENTITY appmenuSelectFlagged.label "Pilih Mesej Berbintang">
 
 <!-- Tags Menu Popup -->
