@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Настройка на пощенска регистрация">
 <!ENTITY name.label                      "Вашето име:">
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Фамилия">
 <!ENTITY name.text                       "Вашето име, както ще го видят другите">
 <!ENTITY email.label                     "Е-поща:">
 <!ENTITY email.accesskey                 "Е">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY password.label                  "Парола:">
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Парола">
@@ -53,8 +53,6 @@
 <!ENTITY half-manual-test.accesskey      "Т">
 <!ENTITY manual-edit.label               "Ръчна настройка">
 <!ENTITY manual-edit.accesskey           "Р">
-<!ENTITY switch-to-provisioner.label     "Получаване на нова сметка">
-<!ENTITY switch-to-provisioner.accesskey "П">
 
 
 <!ENTITY warning.label                   "Внимание!">
