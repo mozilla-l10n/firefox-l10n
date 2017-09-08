@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Setja sem sjálfgefið">
 <!ENTITY pref_dialog_default "Sjálfgefið">
 <!ENTITY pref_dialog_remove "Fjarlægja">
+<!ENTITY pref_dialog_activitystream_header_content "Annað efni">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nýleg bókarmerki">
+<!ENTITY pref_dialog_activitystream_visited "Heimsótt">
 
 <!ENTITY pref_search_last_toast "Þú getur ekki fjarlægt eða aftengt á síðustu leitarvélinni.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Heimsótt">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Vinsælt">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Byrjaðu að vafra og við munum hér sýna nokkrar frábærar greinar, myndbönd og önnur vefsvæði sem þú hefur nýlega skoðað eða bókarmerkt.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Fjarlægja">
 <!ENTITY activity_stream_delete_history "Eyða úr ferli">
-
-<!ENTITY activity_stream_welcome_title "Velkomin(n) - þínir hápunktar">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; stofnar nú hápunkta fyrir það sem þú ert búin(n) að finna á vefnum svo þú getir aftur fundið góðar greinar, myndbönd, bókamerki og aðrar síður.">
-<!ENTITY activity_stream_welcome_dismiss "Hafna">
 
 <!ENTITY private_tab_panel_title "Huliðsgluggi með vörn gegn því að fylgst sé með þér">
 <!ENTITY private_tab_panel_description "&brandShortName; lokar á hluta af þeim síðum sem gætu verið að fylgjast með þér.">
