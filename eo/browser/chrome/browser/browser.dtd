@@ -370,9 +370,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Neniu spegulita langeto… ankoraŭ!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Speguli">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
-<!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Speguli">
+<!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
 
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "A">
 
 
-<!ENTITY syncBrand.shortName.label    "Speguli">
+<!ENTITY syncBrand.shortName.label    "Spegulado">
 
 <!ENTITY syncSignIn.label             "Komenci seancon en &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "K">
