@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Direktori pelayan IMAP:">
 <!ENTITY serverDirectory.accesskey "i">
-<!ENTITY usingSubscription.label "Papar hanya folder yang dilanggan">
+<!ENTITY usingSubscription.label "Papar folder yang dilanggan sahaja">
 <!ENTITY usingSubscription.accesskey "p">
 <!ENTITY dualUseFolders.label "Folder sokongan pelayan yang mengandungi subfolder dan mesej">
 <!ENTITY dualUseFolders.accesskey "f">
