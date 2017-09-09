@@ -39,7 +39,7 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Config avançada">
+<!ENTITY advancedSetup.label             "Config. avançada">
 <!ENTITY advancedSetup.accesskey         "o">
 <!ENTITY cancel.label                    "Cancelar">
 <!ENTITY cancel.accesskey                "a">
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
-<!ENTITY confirmWarning.label            "Entendo os riscos">
+<!ENTITY confirmWarning.label            "Eu entendo os riscos.">
 <!ENTITY confirmWarning.accesskey        "E">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
