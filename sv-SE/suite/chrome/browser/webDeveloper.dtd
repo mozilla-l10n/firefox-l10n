@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "Följsam design-vy">
 <!ENTITY responsiveDesignTool.accesskey  "F">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "Färgpipett">
 <!ENTITY eyedropper.accesskey            "p">
