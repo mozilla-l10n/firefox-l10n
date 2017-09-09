@@ -727,6 +727,7 @@
 <!ENTITY sizeColumn2.tooltip "Susun mengikut saiz">
 <!ENTITY junkStatusColumn2.tooltip "Susun mengikut status mel remeh">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
+<!ENTITY totalColumn2.tooltip "Bilangan mesej dalam thread">
 <!ENTITY readColumn2.tooltip "Susun mengikut sudah dibaca">
 <!ENTITY receivedColumn2.tooltip "Susun mengikut tarikh diterima">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
@@ -735,12 +736,35 @@
 <!ENTITY attachmentColumn2.tooltip "Susun mengikut lampiran">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Mesej Baru daripada Templat">
 <!ENTITY contextOpenNewWindow.label "Buka Mesej dalam Tetingkap Baru">
 <!ENTITY contextOpenNewWindow.accesskey "T">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Buka Mesej dalam Tab Baru">
+<!ENTITY contextOpenNewTab.accesskey "M">
+<!ENTITY contextOpenConversation.label "Buka Mesej dalam Perbualan">
+<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Buka Mesej dalam Folder Penyimpan">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Edit Sebagai Mesej Baru">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Edit Mesej Draf">
+<!ENTITY contextArchive.label "Arkib">
+<!ENTITY contextArchive.accesskey "b">
+<!ENTITY contextReplySender.label "Balas kepada Pengirim Sahaja">
+<!ENTITY contextReplySender.accesskey "B">
+<!ENTITY contextReplyNewsgroup2.label "Susulan kepada Kumpulan berita">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyAll.label "Balas kepada Semua">
+<!ENTITY contextReplyAll.accesskey "S">
+<!ENTITY contextReplyList.label "Balas mengikut Senarai">
+<!ENTITY contextReplyList.accesskey "S">
+<!ENTITY contextForward.label "Kirim semula">
+<!ENTITY contextForward.accesskey "K">
+<!ENTITY contextForwardAsMenu.label "Kirim Semula Sebagai">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
