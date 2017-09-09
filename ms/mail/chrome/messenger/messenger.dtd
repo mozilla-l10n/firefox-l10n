@@ -450,6 +450,36 @@
 <!ENTITY windowMenu.label "Tetingkap">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Alatan">
+<!ENTITY tasksMenu.accesskey "A">
+<!ENTITY messengerCmd.label "Mel &amp; Kumpulan berita">
+<!ENTITY messengerCmd.accesskey "K">
+<!ENTITY addressBookCmd.label "Buku Alamat">
+<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "A">
+<!ENTITY activitymanager.label "Pengurus Aktiviti">
+<!ENTITY activitymanager.accesskey "t">
+<!ENTITY imAccountsStatus.label "Status sembang">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available          "Ada">
+<!ENTITY imStatus.unavailable        "Tiada">
+<!ENTITY imStatus.offline            "Luar talian">
+<!ENTITY imStatus.showAccounts       "Papar Akaun…">
+<!ENTITY joinChatCmd.label "Sertai Sembang…">
+<!ENTITY joinChatCmd.accesskey "b">
+<!ENTITY savedFiles.label "Fail Disimpan">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Tapis Mesej">
+<!ENTITY filtersCmd2.accesskey "T">
+<!ENTITY filtersApply.label "Tapis Folder">
+<!ENTITY filtersApply.accesskey "T">
+<!ENTITY filtersApplyToSelection.label "Tapis Mesej Dipilih">
+<!ENTITY filtersApplyToSelection.accesskey "p">
+<!ENTITY filtersApplyToMessage.label "Tapis Mesej">
+<!ENTITY filtersApplyToMessage.accesskey "j">
 <!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
 <!ENTITY deleteJunk.accesskey "B">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
