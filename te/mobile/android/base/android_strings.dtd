@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "స్వాగతం">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName;‌కి స్వాగతం">
-<!ENTITY firstrun_urlbar_subtext "ఉపయోగపడే శోధన సలహా షార్ట్కట్స్ తో వేగంగా విషయాలు వెతుకుము.">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; ఎంచుకున్నందుకు ధన్యవాదాలు">
+<!ENTITY firstrun_panel_title_privacy "గోప్యత">
+<!ENTITY firstrun_privacy_message "ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి">
+<!ENTITY firstrun_panel_title_customize "అనుకూలపరచు">
 <!ENTITY firstrun_bookmarks_title "చరిత్ర">
 <!ENTITY firstrun_bookmarks_message "మీ ఫేవ్స్, ముందు మరియు సెంటర్">
 <!ENTITY firstrun_bookmarks_subtext "మీరు శోధించినప్పుడు మీ బుక్మార్క్లు మరియు చరిత్ర నుండి ఫలితాలను పొందండి.">
@@ -13,8 +14,7 @@
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
-<!ENTITY firstrun_sync_message "&brandShortName;, ఎల్లప్పుడూ మీ పక్షమే">
-<!ENTITY firstrun_sync_subtext "మీ టాబ్లు, పాస్వర్డ్లను సింక్ చేయండి, మరియు ప్రతిచోటా మీరు దాన్ని ఉపయోగించండి.">
+<!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండి ప్రారంభించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
@@ -405,6 +405,8 @@
 <!ENTITY pref_dialog_set_default "అప్రమేయంగా చేయి">
 <!ENTITY pref_dialog_default "అప్రమేయం">
 <!ENTITY pref_dialog_remove "తొలగించు">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "ఇటీవల ఇష్టాంశాలుగా చేసినవి">
+<!ENTITY pref_dialog_activitystream_visited "సందర్శించినవి">
 
 <!ENTITY pref_search_last_toast "చివరి సెర్చింజిన్ని మీరు తొలగించలేరు లేదా అచేతనం చేయలేరు.">
 
@@ -829,6 +831,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "బుక్ మార్క్ లకు జోడించండి">
 
 <!ENTITY activity_stream_topsites "మేటి సైట్లు">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket;చే సిఫార్సు చేయబడింది">
 <!ENTITY activity_stream_highlights "హైలైట్లు">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -837,17 +841,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "సందర్శించినది">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "ట్రెండింగ్">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "విస్మరించు">
+<!ENTITY activity_stream_remove "తీసివేయి">
 <!ENTITY activity_stream_delete_history "చరిత్ర నుండి తొలగించు">
-
-<!ENTITY activity_stream_welcome_title "మీ ముఖ్యాంశాలకు స్వాగతం">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; ఇప్పుడు మీరు వెబ్లో కనుగొన్న విషయాలను ముఖ్యాంశాలుగా సృష్టిస్తుంది కాబట్టి మీరు గొప్ప వ్యాసాలు, వీడియోలు, బుక్మార్క్లు మరియు ఇతర పేజీలకు తిరిగి మీ మార్గాన్ని కనుగొనగలరు.">
 
 <!ENTITY private_tab_panel_title "ట్రాకింగ్ సంరక్షణతో అంతరంగిక విహరణ">
 <!ENTITY private_tab_panel_description "మీ విహరణ జాడ తెలుసుకునేందుకు ఈ పైజీపై వున్న భాగములను &brandShortName; నిరోధిస్తోంది.">
 <!ENTITY private_tab_panel_description2 "మేము ఏ చరిత్రను గుర్తుంచుకోము, కానీ మీ పరికరంలోకి దింపుకొన్న ఫైళ్ళు మరియు కొత్త ఇష్టాంశాలు భద్రపరచబడుతాయి.">
 <!ENTITY private_tab_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
+
+<!ENTITY fullscreen_warning "నిండు తెరలో చూస్తున్నారు">
