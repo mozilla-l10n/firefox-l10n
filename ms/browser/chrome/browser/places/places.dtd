@@ -21,7 +21,7 @@
 <!ENTITY view.sort.label                "Susun">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Belum disusun">
-<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.unsorted.accesskey        "B">
 <!ENTITY view.sortAscending.label       "Tertib Susunan A> Z">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Tertib susunan Z > A">
@@ -60,7 +60,7 @@
 
 <!ENTITY cmd.sortby_name.label              "Susun mengikut Nama">
 <!ENTITY cmd.sortby_name.accesskey          "S">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+<!ENTITY cmd.context_sortby_name.accesskey  "n">
 
 <!ENTITY cmd.new_bookmark.label            "Tandabuku Baru…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
