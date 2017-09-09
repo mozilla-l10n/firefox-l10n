@@ -480,35 +480,100 @@
 <!ENTITY filtersApplyToSelection.accesskey "p">
 <!ENTITY filtersApplyToMessage.label "Tapis Mesej">
 <!ENTITY filtersApplyToMessage.accesskey "j">
+<!ENTITY runJunkControls.label "Kawal Mel Remeh dalam Folder">
+<!ENTITY runJunkControls.accesskey "K">
 <!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
 <!ENTITY deleteJunk.accesskey "B">
+<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.accesskey "m">
+<!ENTITY clearRecentHistory.label "Buang Sejarah Terkini…">
+<!ENTITY clearRecentHistory.accesskey "S">
+<!ENTITY accountManagerCmd2.label "Tetapan Akaun">
+<!ENTITY accountManagerCmd2.accesskey "T">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Alatan Pembangun">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Kotak Alatan Pembangun">
+<!ENTITY devToolboxCmd.accesskey "K">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Penyahpepijat Add-on">
+<!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Penyahpepijat Bingkai Kandungan">
+<!ENTITY tabsDebugCmd.accesskey "K">
+<!ENTITY errorConsoleCmd.label "Konsol Ralat">
+<!ENTITY errorConsoleCmd.accesskey "R">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Scratchpad">
+<!ENTITY scratchpadCmd.accesskey "S">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Dapatkan Mesej">
+<!ENTITY newMsgButton.label "Tulis">
+<!ENTITY replyButton.label "Balas">
+<!ENTITY replyAllButton.label "Balas Semua">
+<!ENTITY replyListButton.label "Balas mengikut Senarai">
 <!ENTITY forwardButton.label "Kirim semula">
+<!ENTITY fileButton.label "Fail">
+<!ENTITY archiveButton.label "Arkib">
+<!ENTITY openConversationButton.label "Perbualan">
+<!ENTITY nextButton.label "Berikut">
 <!ENTITY nextButtonToolbarItem.label "Belum Dibaca Berikut">
+<!ENTITY nextMsgButton.label "Berikut">
+<!ENTITY previousButton.label "Terdahulu">
 <!ENTITY previousButtonToolbarItem.label "Belum Dibaca Terdahulu">
+<!ENTITY previousMsgButton.label "Terdahulu">
+<!ENTITY backButton1.label "Undur">
 <!ENTITY goForwardButton1.label "Kirim semula">
 <!ENTITY deleteItem.title "Buang">
 <!ENTITY deleteButton.label "Buang">
 <!ENTITY undeleteButton.label "Batalkan membuang">
+<!ENTITY markButton.label "Tandakan">
+<!ENTITY printButton.label "Cetak">
+<!ENTITY stopButton.label "Berhenti">
+<!ENTITY throbberItem.title "Penunjuk Aktiviti">
+<!ENTITY junkItem.title "Mel Remeh">
+<!ENTITY junkButton.label "Mel Remeh">
+<!ENTITY notJunkButton.label "Bukan Mel Remeh">
+<!ENTITY addressBookButton.label "Buku Alamat">
+<!ENTITY chatButton.label "Sembang">
+<!ENTITY glodaSearch.title "Carian Global">
+<!ENTITY searchItem.title "Carian Pantas">
+<!ENTITY mailViewsToolbarItem.title "Paparan Mel">
+<!ENTITY folderLocationToolbarItem.title "Lokasi Folder">
+<!ENTITY tagButton.label "Tag">
+<!ENTITY compactButton.label "Padat">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Carian mesej lanjutan">
+<!ENTITY getMsgButton.tooltip "Dapatkan mesej baru">
+<!ENTITY getAllNewMsgCmd.label "Dapatkan Semua Mesej Baru">
+<!ENTITY getAllNewMsgCmd.accesskey "D">
+<!ENTITY newMsgButton.tooltip "Cipta mesej baru">
+<!ENTITY replyButton.tooltip "Balas mesej">
+<!ENTITY replyAllButton.tooltip "Balas kepada pengirim dan semua penerima">
+<!ENTITY replyListButton.tooltip "Balas kepada kenalan dalam senarai mel">
 <!ENTITY forwardButton.tooltip "Kirim semula mesej yang dipilih">
 <!ENTITY forwardAsInline.tooltip "Kirim semula mesej yang dipilih sebagai teks sebaris">
 <!ENTITY forwardAsAttachment.tooltip "Kirim semula mesej yang dipilih sebagai lampiran">
+<!ENTITY fileButton.tooltip "Failkan mesej yang dipilih">
+<!ENTITY archiveButton.tooltip "Arkib mesej yang dipilih">
+<!ENTITY openConversationButton.tooltip "Papar perbualan mesej yang dipilih">
 <!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
 <!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
 <!ENTITY goForwardButton.tooltip "Langkau satu mesej">
