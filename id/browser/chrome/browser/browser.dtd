@@ -50,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Kirim Tautan ke Perangkat">
 <!ENTITY  sendLinkToDevice.accesskey         "T">
+<!ENTITY  sendToDeviceFeedback.label         "Terkirim!">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  bookmarkAllTabs.label              "Markahi Semua Tab…">
@@ -231,12 +232,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Markah">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Markah">
+<!ENTITY bookmarksMenuButton2.label         "Menu Markah">
 <!ENTITY bookmarksMenuButton.other.label    "Markah Lain">
 <!ENTITY bookmarksMenuButton.mobile.label   "Markah Seluler">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 <!ENTITY hideBookmarksToolbar.label         "Sembunyikan Bilah Alat Markah">
 <!ENTITY searchBookmarks.label              "Cari Markah">
+<!ENTITY addBookmarksMenu.label             "Tambahkan Menu Markah ke Bilah Alat">
 <!ENTITY removeBookmarksMenu.label          "Hapus Menu Markah dari Bilah Alat">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -547,6 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY copyURLCmd.label             "Salin URL">
+<!ENTITY copyURLFeedback.label        "Tersalin!">
 <!ENTITY emailPageCmd.label           "Kirim Tautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
