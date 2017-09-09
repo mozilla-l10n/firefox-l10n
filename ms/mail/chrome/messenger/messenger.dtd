@@ -724,6 +724,7 @@
 <!ENTITY tagsColumn2.tooltip "Susun mengikut tag">
 <!ENTITY accountColumn2.tooltip "Susun mengikut akaun">
 <!ENTITY statusColumn2.tooltip "Susun mengikut status">
+<!ENTITY sizeColumn2.tooltip "Susun mengikut saiz">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
 
