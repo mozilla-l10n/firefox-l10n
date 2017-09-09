@@ -725,8 +725,14 @@
 <!ENTITY accountColumn2.tooltip "Susun mengikut akaun">
 <!ENTITY statusColumn2.tooltip "Susun mengikut status">
 <!ENTITY sizeColumn2.tooltip "Susun mengikut saiz">
+<!ENTITY junkStatusColumn2.tooltip "Susun mengikut status mel remeh">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
+<!ENTITY readColumn2.tooltip "Susun mengikut sudah dibaca">
+<!ENTITY receivedColumn2.tooltip "Susun mengikut tarikh diterima">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
+<!ENTITY locationColumn2.tooltip "Susun mengikut lokasi">
+<!ENTITY idColumn2.tooltip "Susun mengikut susunan diterima">
+<!ENTITY attachmentColumn2.tooltip "Susun mengikut lampiran">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Buka Mesej dalam Tetingkap Baru">
@@ -811,6 +817,8 @@
   -->
 
 <!-- Message Header Context Menu -->
+<!ENTITY CreateFilterFrom.label "Cipta Penapisan Daripada…">
+<!ENTITY CreateFilterFrom.accesskey "D">
 
 <!-- Spell checker context menu items -->
 
