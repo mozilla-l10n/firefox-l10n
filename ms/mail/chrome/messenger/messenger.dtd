@@ -882,20 +882,78 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Tambah ke Buku Alamat…">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Tambah ke Buku Alamat">
+<!ENTITY AddDirectlyToAddressBook.accesskey "B">
+<!ENTITY EditContact1.label "Edit Kenalan">
+<!ENTITY EditContact1.accesskey "E">
+<!ENTITY ViewContact.label "Papar Kenalan">
+<!ENTITY ViewContact.accesskey "P">
+<!ENTITY SubscribeToNewsgroup.label "Langgan Kumpulan berita">
+<!ENTITY SubscribeToNewsgroup.accesskey "K">
+<!ENTITY SendMessageTo.label "Karang Mesej Kepada">
+<!ENTITY SendMessageTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "Salin Alamat E-mel">
+<!ENTITY CopyEmailAddress.accesskey "S">
+<!ENTITY CopyNameAndEmailAddress.label "Salinan Nama dan Alamat E-mel">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
+<!ENTITY CopyNewsgroupName.label "Salin Nama Kumpulan berita">
+<!ENTITY CopyNewsgroupName.accesskey "S">
+<!ENTITY CopyNewsgroupURL.label "Salin URL Kumpulan berita">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Cipta Penapisan Daripada…">
 <!ENTITY CreateFilterFrom.accesskey "D">
+<!ENTITY reportPhishingURL.label "Laporkan Penipuan E-mel">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Tambah Kamus…">
+<!ENTITY spellAddDictionaries.accesskey "T">
 
 <!-- Content Pane Context Menu -->
+<!ENTITY saveLinkAsCmd.label "Simpan Pautan Sebagai…">
+<!ENTITY saveLinkAsCmd.accesskey "t">
+<!ENTITY saveImageAsCmd.label "Simpan Imej Sebagai…">
+<!ENTITY saveImageAsCmd.accesskey "p">
+<!ENTITY copyLinkCmd.label "Salin Lokasi Pautan">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyImageAllCmd.label "Salin Imej">
+<!ENTITY copyImageAllCmd.accesskey "I">
+<!ENTITY copyEmailCmd.label "Salin Alamat E-mel">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Berhenti">
+<!ENTITY stopCmd.accesskey "B">
+<!ENTITY reloadCmd.label "Muat semula">
+<!ENTITY reloadCmd.accesskey "M">
+<!ENTITY openInBrowser.label "Buka dalam Pelayar">
+<!ENTITY openInBrowser.accesskey "B">
+<!ENTITY openLinkInBrowser.label "Buka Pautan dalam Pelayar">
+<!ENTITY openLinkInBrowser.accesskey "B">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Selesai">
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimum">
 <!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Bawa Semua ke Hadapan">
 <!ENTITY zoomWindow.label "Zum">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Keutamaan">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Perkhidmatan">
+<!ENTITY hideThisAppCmdMac.label        "Sorok &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Sorok yang Lain-lain">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Papar Semua">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Pilihan Ikon Aplikasi…">
+<!ENTITY writeNewMessageDock.label      "Tulis Mesej Baru">
+<!ENTITY openAddressBookDock.label      "Buka Buku Alamat">
