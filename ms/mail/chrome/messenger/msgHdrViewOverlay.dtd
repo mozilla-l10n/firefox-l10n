@@ -49,19 +49,64 @@
 <!ENTITY hdrViewToolbarShowIcons.accesskey "I">
 <!ENTITY hdrViewToolbarShowText.label "Papar Teks Sahaja">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Sentiasa Papar Balasan kepada Pengirim">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "B">
 
+<!ENTITY otherActionsButton2.label "Selanjutnya">
+<!ENTITY otherActionsButton.tooltip "Tindakan selanjutnya">
+<!ENTITY otherActionsOpenConversation1.label "Buka dalam Perbualan">
+<!ENTITY otherActionsOpenConversation1.accesskey "B">
+<!ENTITY otherActionsOpenInNewWindow1.label "Buka dalam Tetingkap Baru">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "T">
+<!ENTITY otherActionsOpenInNewTab1.label "Buka dalam Tab Baru">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Tandakan sebagai Dibaca">
+<!ENTITY markAsReadMenuItem1.accesskey "D">
 <!ENTITY markAsUnreadMenuItem1.label "Tandakan sebagai Belum Dibaca">
 <!ENTITY markAsUnreadMenuItem1.accesskey "d">
+<!ENTITY saveAsMenuItem1.label "Simpan sebagai…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Papar Sumber">
+<!ENTITY viewSourceMenuItem1.accesskey "P">
+<!ENTITY otherActionsPrint1.label "Cetak…">
+<!ENTITY otherActionsPrint1.accesskey "C">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Papar Anak tetingkap Lampiran Permulaan">
+<!ENTITY startExpandedCmd.accesskey    "P">
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Buka">
+<!ENTITY openAttachmentCmd.accesskey    "B">
+<!ENTITY saveAsAttachmentCmd.label    "Simpan Sebagai…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY detachAttachmentCmd.label    "Buang…">
+<!ENTITY detachAttachmentCmd.accesskey    "B">
 <!ENTITY deleteAttachmentCmd.label    "Buang">
 <!ENTITY deleteAttachmentCmd.accesskey    "g">
+<!ENTITY openAllAttachmentsCmd.label    "Buka Semua…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "B">
+<!ENTITY saveAllAttachmentsCmd.label    "Simpan Semua…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Buang Semua…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "B">
 <!ENTITY deleteAllAttachmentsCmd.label    "Buang Semua…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Buka fail lampiran">
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Simpan">
+<!ENTITY saveAttachmentButton1.tooltip     "Simpan fail lampiran">
+<!ENTITY saveAllAttachmentsButton1.label   "Simpan Semua">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Simpan semua fail lampiran">
 
+<!ENTITY copyLinkCmd.label        "Salin Lokasi Pautan">
+<!ENTITY copyLinkCmd.accesskey    "S">
 
+<!ENTITY CopyMessageId.label "Salin ID-Mesej">
+<!ENTITY CopyMessageId.accesskey "S">
+<!ENTITY OpenMessageForMsgId.label "Buka Mesej Untuk ID">
+<!ENTITY OpenMessageForMsgId.accesskey "B">
+<!ENTITY OpenBrowserWithMsgId.label "Buka Pelayar Dengan ID-Mesej">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
