@@ -410,6 +410,9 @@
 <!ENTITY pref_dialog_set_default "Установить по умолчанию">
 <!ENTITY pref_dialog_default "По умолчанию">
 <!ENTITY pref_dialog_remove "Удалить">
+<!ENTITY pref_dialog_activitystream_header_content "Дополнительное содержимое">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Последние закладки">
+<!ENTITY pref_dialog_activitystream_visited "Посещённое">
 
 <!ENTITY pref_search_last_toast "Вы не можете удалить или отключить вашу последнюю поисковую систему.">
 
@@ -843,16 +846,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Посещено">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Популярное">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Начните веб-сёрфинг, и мы покажем вам здесь некоторые из замечательных статей, видеороликов и других страниц, которые вы недавно посетили или добавили в закладки.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Удалить">
 <!ENTITY activity_stream_delete_history "Удалить из истории">
-
-<!ENTITY activity_stream_welcome_title "Добро пожаловать в Избранное">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; теперь отображает самое интересное из того, что вы нашли в Интернете, так что вы сможете быстро вернуться к интересным статьям, видео, закладкам и другим страницам.">
-<!ENTITY activity_stream_welcome_dismiss "Убрать">
 
 <!ENTITY private_tab_panel_title "Приватный просмотр и Защита от отслеживания">
 <!ENTITY private_tab_panel_description "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
