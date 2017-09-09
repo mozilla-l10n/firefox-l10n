@@ -6,7 +6,7 @@
 <!ENTITY lookInMenuList.accesskey   "a">
 <!ENTITY textInput.label        "Nama fail:">
 <!ENTITY textInput.accesskey        "n">
-<!ENTITY filterMenuList.label   "Fail daripada jenis:">
+<!ENTITY filterMenuList.label   "Jenis fail:">
 <!ENTITY filterMenuList.accesskey   "l">
 <!ENTITY name.label             "Nama">
 <!ENTITY size.label             "Saiz">

@@ -180,7 +180,7 @@
 
 <!ENTITY search.filter2.label                 "Cari:">
 <!ENTITY search.filter2.installed.label       "Add-ons saya">
-<!ENTITY search.filter2.installed.tooltip     "Papar add-ons terpasang">
+<!ENTITY search.filter2.installed.tooltip     "Papar add-ons yang dipasang">
 <!ENTITY search.filter2.available.label       "Add-ons Tersedia">
 <!ENTITY search.filter2.available.tooltip     "Papar add-ons yang sedia untuk dipasang">
 

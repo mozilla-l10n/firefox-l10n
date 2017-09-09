@@ -69,7 +69,7 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Add-on atau Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "Penapis output">
+<!ENTITY filterOutput.placeholder "Tapis output">
 <!ENTITY btnClear.label        "Bersih">
 <!ENTITY btnClear.tooltip      "Bersihkan output Web Konsol">
 <!ENTITY btnClear.accesskey    "r">
