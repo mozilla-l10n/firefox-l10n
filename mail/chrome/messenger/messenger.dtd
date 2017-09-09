@@ -575,17 +575,39 @@
 <!ENTITY archiveButton.tooltip "Arkib mesej yang dipilih">
 <!ENTITY openConversationButton.tooltip "Papar perbualan mesej yang dipilih">
 <!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
+<!ENTITY nextMsgButton.tooltip "Pergi ke mesej seterusnya">
 <!ENTITY previousButton.tooltip "Pindah ke mesej belum dibaca terdahulu">
+<!ENTITY previousMsgButton.tooltip "Pergi ke mesej terdahulu">
 <!ENTITY goForwardButton.tooltip "Langkau satu mesej">
+<!ENTITY goBackButton.tooltip "Undur satu mesej">
 <!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
 <!ENTITY undeleteButton.tooltip "Batalkan membuang mesej yang dipilih">
+<!ENTITY markButton.tooltip "Tandakan mesej">
+<!ENTITY printButton.tooltip "Cetak mesej ini">
+<!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
+<!ENTITY junkButton.tooltip "Tandakan mesej yang dipilih sebagai mel remeh">
+<!ENTITY notJunkButton.tooltip "Tandakan mesej yang dipilih sebagai bukan mel remeh">
+<!ENTITY addressBookButton.tooltip "Pergi ke buku alamat">
+<!ENTITY chatButton.tooltip "Papar tab Sembang">
+<!ENTITY tagButton.tooltip "Tag mesej">
 <!ENTITY compactButton.tooltip "Buang mesej yang dihapuskan daripada folder yang dipilih">
+<!ENTITY appmenuButton1.tooltip "Papar menu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Kirim semula Sebaris">
+<!ENTITY buttonMenuForwardAsAttachment.label "Kirim semula sebagai Lampiran">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Papar kandungan jauh mesej ini">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "P">
+<!ENTITY editRemoteContentSettings.label "Edit pilihan kandungan jauh…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Edit keutamaan kandungan jauh…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Abai amaran mesej ini">
+<!ENTITY phishingOptionIgnore.accesskey "n">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewContactCmd.label "Buku Alamat Kenalan…">
