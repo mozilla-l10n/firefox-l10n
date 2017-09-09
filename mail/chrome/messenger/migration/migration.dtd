@@ -27,3 +27,4 @@
 <!ENTITY selectProfile.label            "Profil berikut tersedia untuk diimport dari:">
 
 <!ENTITY done.title                     "Selesai Mengimport">
+<!ENTITY done.label                     "Item berikut telah berjaya diimport:">
