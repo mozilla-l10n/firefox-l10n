@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "सामान्य">
 
@@ -27,6 +27,7 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "आँकड़ा पसंद">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
@@ -57,21 +58,21 @@ available. -->
 <!ENTITY httpCache.label                 "कैश्च वेब कंटेंट">
 
 <!ENTITY offlineStorage2.label           "ऑफ़ाइल वेबकंटेंट और उपयोक्ता आँकड़े">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "साइट आँकड़ा">
 <!ENTITY clearSiteData.label             "सभी आँकड़े साफ करें">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "सेटिंग…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "और जानें">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "इसमें कैश परिसीमित करें">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB स्थान">
@@ -127,14 +128,14 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY performance.label               "प्रदर्शन">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "अधिक जानें">
+<!ENTITY limitContentProcessOption.label "सामग्री प्रक्रिया सीमा">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">

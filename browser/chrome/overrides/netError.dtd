@@ -8,9 +8,9 @@
 <!ENTITY loadError.label " पृष्ठ की लोडिंग में समस्या">
 <!ENTITY retry.label " फिर कोशिश करें">
 <!ENTITY returnToPreviousPage.label "पीछे जाएँ">
+<!ENTITY advanced.label "उन्नत">
 
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title " कनेक्ट करने में असमर्थ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -30,7 +30,7 @@
 <!ENTITY generic.title " ओफ्फ.">
 <!ENTITY generic.longDesc " <p>&brandShortName; कुछ कारणों के लिए इस पृष्ठ को लोड नहीं कर सकता है.</p>">
 
-
+<!ENTITY captivePortal.title "नेटवर्क के लिए लॉग इन करें">
 
 
 <!ENTITY malformedURI.title " पता वैध नहीं है">
@@ -102,10 +102,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित कनेक्शन">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यह साइट HTTP कठोर परिवहन सुरक्षा (HSTS) का उपयोग उल्लेखित करने के लिए करती है कि &brandShortName; का इससे केवल सुरक्षित रूप से संपर्क हो सकता है.">

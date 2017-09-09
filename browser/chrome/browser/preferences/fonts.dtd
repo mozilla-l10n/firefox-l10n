@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "मोनोस्पेस:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "लैटिन">
 <!ENTITY  font.langGroup.japanese                 "जापानी">
 <!ENTITY  font.langGroup.trad-chinese             "पारंपरिक चीनी (ताईवान)">
@@ -56,12 +56,12 @@
 <!ENTITY minSize.label                            "न्यूनतम फॉन्ट आकार:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "कोई नहीं">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ़">
 <!ENTITY  useDefaultFontSansSerif.label           "सैंस सेरिफ़">
 
-
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन">
 <!ENTITY languages.customize.Fallback2.label      "फालबैक पाठ एनकोडिंग:">
