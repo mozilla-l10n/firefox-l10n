@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
+<!ENTITY setPassword.title                 "Nadunā Da’nga’ Huì A’nïn’ïn">
+<!ENTITY setPassword.tokenName.label       "Sa dugumîn sò'">
+<!ENTITY setPassword.oldPassword.label     "Da’nga’ huì nikājt akuan’ nïn:">
+<!ENTITY setPassword.newPassword.label     "Gachrūn da’nga’ huì nakàa:">
+<!ENTITY setPassword.reenterPassword.label "Gachrūn ñû da’nga’ huìi:">
+<!ENTITY setPassword.meter.label           "Sa ni’iāj si huā hue’ê da’nga’ huìi">
+<!ENTITY setPassword.meter.loading         "Hìaj ayì'ij">
