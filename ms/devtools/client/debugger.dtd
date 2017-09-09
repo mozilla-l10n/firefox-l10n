@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
 <!ENTITY debuggerUI.showVarsFilter           "Papar Kotak Penapis Pembolehubah">
-<!ENTITY debuggerUI.showVarsFilter.accesskey "K">
+<!ENTITY debuggerUI.showVarsFilter.accesskey "P">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -134,7 +134,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable           "Penapis Pembolehubah">
+<!ENTITY debuggerUI.searchVariable           "Tapis Pembolehubah">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 
