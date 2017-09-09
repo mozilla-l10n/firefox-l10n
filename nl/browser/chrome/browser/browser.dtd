@@ -581,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Video e-mailen…">
 <!ENTITY emailVideoCmd.accesskey      "l">
-<!ENTITY castVideoCmd.label           "Video naar apparaat verzenden">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Audio e-mailen…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Deze plug-in activeren">
@@ -981,9 +979,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
 
 <!ENTITY libraryButton.tooltip "Geschiedenis, opgeslagen bladwijzers en meer bekijken">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Toegankelijkheidsfuncties ingeschakeld">
