@@ -17,8 +17,8 @@
 <!ENTITY aboutPage.privacyPolicy.label          " Sa garayino’">
 <!ENTITY aboutPage.rights.label                 "Gini'in nuguan' tna'uej riña yi'ît">
 <!ENTITY aboutPage.relNotes.label               "Nuguan' ri' riña aga' na">
-<!ENTITY aboutPage.credits.label                "Sa du'uee">
+<!ENTITY aboutPage.credits.label                "Duguî’ rugûñu’ūnj">
 <!ENTITY aboutPage.license.label                "Nuguan’ da’uî' gini’în' hìaj nï' gàchin garasun'">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Si da'nga' Firefox dugumîn yi'nï' gu'naj Mozilla.">
