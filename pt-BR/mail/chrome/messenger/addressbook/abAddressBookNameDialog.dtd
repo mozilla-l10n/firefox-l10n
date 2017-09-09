@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Labels -->
-<!ENTITY name.label      "Nome:">
+<!ENTITY name.label      "Nome do catálogo de endereços:">
 <!ENTITY name.accesskey  "N">
