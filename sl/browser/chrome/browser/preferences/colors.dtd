@@ -15,7 +15,9 @@
 
 <!ENTITY  color                           "Besedilo in ozadje">
 <!ENTITY  textColor2.label                "Besedilo">
+<!ENTITY  textColor2.accesskey            "B">
 <!ENTITY  backgroundColor2.label          "Ozadje">
+<!ENTITY  backgroundColor2.accesskey      "O">
 <!ENTITY  useSystemColors.label           "Uporabi barve sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
@@ -23,4 +25,6 @@
 <!ENTITY  underlineLinks.accesskey        "r">
 <!ENTITY  links                           "Barve povezav">
 <!ENTITY  linkColor2.label                "Neobiskane povezave">
+<!ENTITY  linkColor2.accesskey            "N">
 <!ENTITY  visitedLinkColor2.label         "Obiskane povezave">
+<!ENTITY  visitedLinkColor2.accesskey     "b">
