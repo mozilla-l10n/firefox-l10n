@@ -24,25 +24,25 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " é um ">
+<!ENTITY community.exp.middle       " é uma ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunidade global">
-<!ENTITY community.exp.end          " trabalhando em conjunto para manter a Web aberta, pública e acessível a todos.">
+<!ENTITY community.exp.end          " trabalhando unida para manter a Web aberta, pública e acessível a todos.">
 
-<!ENTITY community.start2           "O &brandShortName; é desenvolvido pela ">
+<!ENTITY community.start2           "O &brandShortName; é projetado pela ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", uma ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end3             " trabalhando em conjunto para manter a web aberta, pública e acessível a todos.">
+<!ENTITY community.end3             " trabalhando unida para manter a Web aberta, pública e acessível a todos.">
 
 <!ENTITY helpus.start               "Quer ajudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Faça uma doação">
 <!ENTITY helpus.middle              " ou ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "Participe!">
+<!ENTITY helpus.getInvolvedLink     "envolva-se!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Notas de Lançamento">
@@ -57,11 +57,11 @@
 <!ENTITY bottomLinks.privacy        "Política de privacidade">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Verificando atualização…">
+<!ENTITY update.checkingForUpdates  "Verificando por atualizações…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado.">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Atualizações desativadas pelo administrador">
+<!ENTITY update.adminDisabled       "As atualizações estão desativadas pelo administrador do seu sistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "O &brandShortName; está sendo atualizado por outra instância">
 
@@ -70,8 +70,8 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Falha na atualização. ">
-<!ENTITY update.failed.linkText     "Baixe a última versão">
+<!ENTITY update.failed.start        "A atualização falhou. ">
+<!ENTITY update.failed.linkText     "Baixe a versão mais recente">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
@@ -79,7 +79,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Baixe a ">
-<!ENTITY update.manual.linkText     "última versão">
+<!ENTITY update.manual.linkText     "versão mais recente">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -88,7 +88,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Não é possível efetuar novas atualizações neste sistema. ">
+<!ENTITY update.unsupported.start    "Você não pode realizar outras atualizações neste sistema. ">
 <!ENTITY update.unsupported.linkText "Saiba mais">
 <!ENTITY update.unsupported.end      "">
 
@@ -97,10 +97,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Baixando atualização —  ">
+<!ENTITY update.downloading.start   "Baixando a atualização — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Aplicando atualização…">
+<!ENTITY update.applying            "Aplicando a atualização…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
