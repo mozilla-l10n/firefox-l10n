@@ -83,7 +83,7 @@
 <!ENTITY bookmark_folder_items "&formatD; faili">
 <!ENTITY bookmark_folder_one_item "üks fail">
 <!ENTITY bookmark_parent_folder "Ülemine kaust">
-<!ENTITY bookmark_add_folder "Lisa uus kaus">
+<!ENTITY bookmark_add_folder "Lisa uus kaust">
 
 <!ENTITY reader_saved_offline "Salvestatud võrguta režiimis kasutamiseks">
 <!-- Localization note (reader_switch_to_bookmarks) : This
