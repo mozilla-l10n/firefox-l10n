@@ -9,16 +9,16 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Verificar atualizações">
+<!ENTITY update.checkForUpdatesButton.label       "Verificar por atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "V">
 <!ENTITY update.updateButton.label3               "Reiniciar para atualizar o &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
-<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode ser instável.">
+<!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode estar instável.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre desempenho, hardware, uso e personalizações para &vendorShortName; para tornar o &brandShortName; melhor.">
+<!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre o desempenho, os dispositivos, o uso e as personalizações para &vendorShortName; para ajudar a tornar o &brandShortName; melhor.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
