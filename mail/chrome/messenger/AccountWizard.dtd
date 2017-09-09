@@ -10,12 +10,12 @@
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Para receber mensagens, antes você precisa configurar uma conta.">
-<!ENTITY accountTypeTitle.label "Configurar conta">
-<!ENTITY accountTypeDesc2.label "Este assistente vai recolher as informações necessárias para configurar a conta. Se você não souber as informações solicitadas, contate o administrador do sistema ou o provedor de internet.">
+<!ENTITY accountTypeTitle.label "Configurar nova conta">
+<!ENTITY accountTypeDesc2.label "Este assistente coletará as informações necessárias para configurar a conta. Se você não souber as informações solicitadas, contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "E-mail">
+<!ENTITY accountTypeMail.label "Conta de e-mail">
 <!ENTITY accountTypeMail.accesskey "E">
-<!ENTITY accountTypeNews.label "Newsgroup">
+<!ENTITY accountTypeNews.label "Conta de grupo de notícias">
 <!ENTITY accountTypeNews.accesskey "N">
 
 <!-- Entities for Identity page -->
@@ -24,12 +24,12 @@
 <!ENTITY identityDesc.label "Cada conta tem sua própria identidade, que é a informação que identifica você aos destinatários das suas mensagens.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Forneça o nome que você quer que seja exibido no campo “De” das mensagens que você envia.">
+<!ENTITY fullnameDesc.label "Insira o nome que você quer que seja exibido no campo &quot;De&quot; das suas mensagens enviadas">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
-<!ENTITY fullnameExample.label "(exemplo: “Marcos Silva”).">
+<!ENTITY fullnameExample.label "(por exemplo, &quot;João da Silva&quot;).">
 <!ENTITY fullnameLabel.label "Nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 

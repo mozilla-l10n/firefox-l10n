@@ -16,7 +16,7 @@
 <!ENTITY addFeedAccountButton.accesskey "R">
 <!ENTITY addOtherAccountButton.label "Nova conta de outro tipo…">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Definir como conta padrão">
+<!ENTITY setDefaultButton.label "Definir como padrão">
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "Remover conta">
 <!ENTITY removeButton.accesskey "R">
