@@ -2,14 +2,53 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY toField4.label "Kepada">
+<!ENTITY fromField4.label "Daripada">
+<!ENTITY senderField4.label "Pengirim">
+<!ENTITY author.label "Pengarang">
+<!ENTITY organizationField4.label "Organisasi">
+<!ENTITY replyToField4.label "Balas kepada">
 
+<!ENTITY subjectField4.label "Subjek">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Kumpulan berita">
+<!ENTITY followupToField4.label "Susulan kepada">
+<!ENTITY tagsHdr4.label "Tag">
+<!ENTITY dateField4.label "Tarikh">
+<!ENTITY userAgentField4.label "Ejen pengguna">
+<!ENTITY referencesField4.label "Rujukan">
+<!ENTITY messageIdField4.label "ID Mesej">
+<!ENTITY inReplyToField4.label "Balasan kepada">
+<!ENTITY originalWebsite4.label "Laman web">
 
+<!ENTITY hdrArchiveButton1.label "Arkib">
+<!ENTITY hdrArchiveButton1.tooltip "Arkib mesej ini">
+<!ENTITY hdrOpenConversationButton1.label "Perbualan">
+<!ENTITY hdrOpenConversationButton1.tooltip "Papar perbualan mesej ini">
+<!ENTITY hdrSmartReplyButton1.label "Balasan Bijak">
+<!ENTITY hdrReplyButton1.label "Balas">
+<!ENTITY hdrReplyButton2.tooltip "Balas kepada pengirim mesej ini">
+<!ENTITY hdrReplyAllButton1.label "Balas Semua">
+<!ENTITY hdrReplyAllButton1.tooltip "Balas kepada pengirim dan semua penerima">
+<!ENTITY hdrReplyListButton1.label "Senarai Balasan">
+<!ENTITY hdrReplyListButton1.tooltip "Balas kepada senarai mel">
+<!ENTITY hdrFollowupButton1.label "Susulan">
+<!ENTITY hdrFollowupButton1.tooltip "Siar susulan kepada kumpulan berita ini">
 <!ENTITY hdrMenuForwardButton.label "Kirim Semula Sebagai">
 <!ENTITY hdrForwardButton1.label "Kirim semula">
 <!ENTITY hdrForwardButton1.tooltip "Kirim semula mesej ini">
+<!ENTITY hdrJunkButton1.label "Mel remeh">
+<!ENTITY hdrJunkButton1.tooltip "Tandakan mesej ini sebagai remeh">
 <!ENTITY hdrTrashButton1.label "Buang">
 <!ENTITY hdrTrashButton1.tooltip "Buang mesej ini">
 
+<!ENTITY hdrViewToolbarShowFull.label "Papar Ikon dan Teks">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Papar Ikon Sahaja">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Papar Teks Sahaja">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
 
 <!ENTITY markAsUnreadMenuItem1.label "Tandakan sebagai Belum Dibaca">
 <!ENTITY markAsUnreadMenuItem1.accesskey "d">
