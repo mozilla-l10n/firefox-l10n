@@ -7,13 +7,12 @@
 <!ENTITY     statusCol.label               "स्थिति">
 <!ENTITY     usageCol.label                "भंडारण">
 <!ENTITY     searchTextboxPlaceHolder             "वेबसाइट खोजें">
-
-
-
-
-
-
-
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "चयनित हटाएँ">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "परिवर्तन सहेजें">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "रद्द करें">
+<!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "साइट आँकड़ा हटाया जा रहा है">
-
-
+<!ENTITY     siteTree.label                "निम्नलिखित वेबसाइट कुकीज़ निकाल दिए जाएँगे:">
