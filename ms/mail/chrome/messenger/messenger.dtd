@@ -608,37 +608,122 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Abai amaran mesej ini">
 <!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Edit pilihan mengesan penipuan…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Edit keutamaan mengesan penipuan…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Mesej Baru">
 <!ENTITY appmenuNewContactCmd.label "Buku Alamat Kenalan…">
+<!ENTITY appmenuEditMenu.label "Edit">
+<!ENTITY appmenuToolbarLayout.label "Susun atur Bar alatan…">
 <!ENTITY appmenuSelectThread.label "Pilih Thread">
 <!ENTITY appmenuSelectFlagged.label "Pilih Mesej Berbintang">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Tab Baru…">
+<!ENTITY addNewTag.accesskey "B">
+<!ENTITY manageTags.label "Urus Tag…">
+<!ENTITY manageTags.accesskey "U">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Nama">
 <!ENTITY folderUnreadColumn.label "Belum Dibaca">
+<!ENTITY folderTotalColumn.label "Jumlah">
+<!ENTITY folderSizeColumn.label "Saiz">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Dapatkan Mesej">
+<!ENTITY folderContextGetMessages.accesskey "D">
+<!ENTITY folderContextPauseAllUpdates.label "Jeda Semua Kemaskini">
+<!ENTITY folderContextPauseUpdates.label "Jeda Kemaskini">
+<!ENTITY folderContextPauseUpdates.accesskey "K">
 <!ENTITY folderContextOpenInNewWindow.label "Buka dalam Tetingkap Baru">
 <!ENTITY folderContextOpenInNewWindow.accesskey "B">
+<!ENTITY folderContextOpenNewTab.label "Buka dalam Tab Baru">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "Sub-folder Baru…">
+<!ENTITY folderContextNew.accesskey "B">
+<!ENTITY folderContextRename.label "Namakan semula">
+<!ENTITY folderContextRename.accesskey "N">
 <!ENTITY folderContextRemove.label "Buang">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Padat">
+<!ENTITY folderContextCompact.accesskey "P">
 <!ENTITY folderContextEmptyTrash.label "Buang Sampah">
 <!ENTITY folderContextEmptyTrash.accesskey "g">
+<!ENTITY folderContextEmptyJunk.label "Buang Mel Remeh">
+<!ENTITY folderContextEmptyJunk.accesskey "R">
+<!ENTITY folderContextSendUnsentMessages.label "Hantar Mesej yang Tidak Dihantar">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Batal langganan">
 <!ENTITY folderContextUnsubscribe.accesskey "B">
+<!ENTITY folderContextMarkNewsgroupRead.label "Tandakan Kumpulan berita sudah Dibaca">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Tandakan Folder sudah Dibaca">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "Langgan…">
+<!ENTITY folderContextSubscribe.accesskey "g">
+<!ENTITY folderContextSearchForMessages.label "Cari Mesej…">
+<!ENTITY folderContextSearchForMessages.accesskey "C">
+<!ENTITY folderContextProperties2.label "Sifat">
+<!ENTITY folderContextProperties2.accesskey "S">
+<!ENTITY folderContextFavoriteFolder.label "Folder Kegemaran">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Tetapan">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Nama atau E-mel yang mengandungi:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Cari mesej…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Subjek">
+<!ENTITY searchFromMenu.label "Daripada">
+<!ENTITY searchSubjectOrFromMenu.label "Subjek atau Daripada">
+<!ENTITY searchRecipient.label "Kepada atau Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Subjek, Kepada atau Cc">
+<!ENTITY searchMessageBody.label "Seluruh Mesej">
+<!ENTITY saveAsVirtualFolderMenu.label "Simpan Carian sebagai Folder…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Daripada">
+<!ENTITY recipientColumn.label "Penerima">
+<!ENTITY correspondentColumn.label "Koresponden">
+<!ENTITY subjectColumn.label "Subjek">
+<!ENTITY dateColumn.label "Tarikh">
+<!ENTITY priorityColumn.label "Prioriti">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Akaun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Saiz">
+<!ENTITY junkStatusColumn.label "Status Mel remeh">
 <!ENTITY unreadColumn.label "Belum Dibaca">
+<!ENTITY totalColumn.label "Jumlah">
+<!ENTITY readColumn.label "Dibaca">
+<!ENTITY receivedColumn.label "Diterima">
 <!ENTITY starredColumn.label "Berbintang">
+<!ENTITY locationColumn.label "Lokasi">
+<!ENTITY idColumn.label "Susunan Diterima">
+<!ENTITY attachmentColumn.label "Lampiran">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Pilih lajur paparan">
+<!ENTITY threadColumn2.tooltip "Papar thread mesej">
+<!ENTITY fromColumn2.tooltip "Susun mengikut daripada">
+<!ENTITY recipientColumn2.tooltip "Susun mengikut penerima">
+<!ENTITY correspondentColumn2.tooltip "Susun mengikut koresponden">
+<!ENTITY subjectColumn2.tooltip "Susun mengikut subjek">
+<!ENTITY dateColumn2.tooltip "Susun mengikut tarikh">
+<!ENTITY priorityColumn2.tooltip "Susun mengikut prioriti">
+<!ENTITY tagsColumn2.tooltip "Susun mengikut tag">
+<!ENTITY accountColumn2.tooltip "Susun mengikut akaun">
+<!ENTITY statusColumn2.tooltip "Susun mengikut status">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
 
