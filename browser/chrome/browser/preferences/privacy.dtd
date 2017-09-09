@@ -114,6 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Параметры…">
 <!ENTITY  browserContainersSettings.accesskey    "м">
 
-<!ENTITY  a11yPrivacy.checkbox.label     "Запретить службам обеспечения доступности доступ к вашему браузеру">
+<!ENTITY  a11yPrivacy.checkbox.label     "Запретить службам поддержки доступности доступ к вашему браузеру">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "е">
 <!ENTITY  a11yPrivacy.learnmore.label    "Подробнее">

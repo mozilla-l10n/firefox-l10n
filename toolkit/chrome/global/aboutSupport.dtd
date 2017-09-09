@@ -108,7 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Активирована">
 <!ENTITY aboutSupport.a11yForceDisabled "Отключение поддержки доступности">
 <!ENTITY aboutSupport.a11yHandlerUsed "Используемый обработчик Доступности">
-<!ENTITY aboutSupport.a11yInstantiator "Исполняемый файл доступности">
+<!ENTITY aboutSupport.a11yInstantiator "Исполняемый файл поддержки доступности">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Версии библиотек">
 
