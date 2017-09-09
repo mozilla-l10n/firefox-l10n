@@ -22,10 +22,11 @@
 <!ENTITY  reloadTab.label                    "โหลดแท็บใหม่">
 <!ENTITY  reloadTab.accesskey                "ล">
 <!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY  reloadAllTabs.accesskey            "ท">
+<!ENTITY  reloadAllTabs.accesskey            "ง">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "ทำสำเนาแท็บ">
+<!ENTITY  duplicateTab.accesskey             "ท">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -90,7 +91,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ง">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
