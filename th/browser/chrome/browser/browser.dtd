@@ -261,6 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "พ">
 
 <!ENTITY downloads.label              "ดาวน์โหลด">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "ด">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ม">
-<!ENTITY copyURLCmd.label             "คัดลอก URL">
+<!ENTITY pageAction.copyLink.label    "คัดลอกลิงก์">
 <!ENTITY copyURLFeedback.label        "คัดลอกแล้ว!">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
@@ -578,8 +580,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ม">
 <!ENTITY emailVideoCmd.label          "ส่งอีเมลวิดีโอ…">
 <!ENTITY emailVideoCmd.accesskey      "ม">
-<!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
-<!ENTITY castVideoCmd.accesskey       "ว">
 <!ENTITY emailAudioCmd.label          "ส่งอีเมลเสียง…">
 <!ENTITY emailAudioCmd.accesskey      "ม">
 <!ENTITY playPluginCmd.label          "เปิดใช้งานปลั๊กอินนี้">
@@ -962,7 +962,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ม">
 <!ENTITY updateManual.panelUI.label "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName;">
 
-<!ENTITY updateRestart.message "หลังเริ่มระบบใหม่อย่างเร็ว &brandShorterName; จะเรียกคืนแท็บและหน้าต่างของคุณคืนมาทั้งหมด">
 <!ENTITY updateRestart.header.message2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "เริ่มการทำงานใหม่และเรียกคืน">
 <!ENTITY updateRestart.acceptButton.accesskey "ร">
@@ -974,12 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "เพิ่มไปยังแถบที่อยู่">
 <!ENTITY pageAction.removeFromUrlbar.label "เอาออกจากแถบที่อยู่">
 
-<!ENTITY sendToDevice.label3 "ส่งหน้าไปยังอุปกรณ์">
+<!ENTITY pageAction.sendTabToDevice.label "ส่งแท็บไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
 
 <!ENTITY libraryButton.tooltip "ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
