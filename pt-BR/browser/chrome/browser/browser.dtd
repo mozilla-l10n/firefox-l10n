@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "r">
 
 <!ENTITY downloads.label              "Downloads">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Downloads">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Adicionar este frame aos favoritos">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
-<!ENTITY copyURLCmd.label             "Copiar URL">
+<!ENTITY pageAction.copyLink.label    "Copiar link">
 <!ENTITY copyURLFeedback.label        "Copiado!">
 <!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "v">
 <!ENTITY emailVideoCmd.label          "Enviar vídeo por e-mail…">
 <!ENTITY emailVideoCmd.accesskey      "r">
-<!ENTITY castVideoCmd.label           "Enviar vídeo para o dispositivo">
-<!ENTITY castVideoCmd.accesskey       "E">
 <!ENTITY emailAudioCmd.label          "Enviar áudio por e-mail…">
 <!ENTITY emailAudioCmd.accesskey      "r">
 <!ENTITY playPluginCmd.label          "Ativar este plugin">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixar uma nova copia do &brandShorterName;">
 
-<!ENTITY updateRestart.message "Após um reinício rápido, o &brandShorterName; irá restaurar todas as janela e abas abertas.">
+<!ENTITY updateRestart.message2 "Após um reinício rápido, &brandShorterName; irá restaurar todas as suas abas abertas e janelas que não sejam de Navegação Privativa.">
 <!ENTITY updateRestart.header.message2 "Reiniciar para atualizar o &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
 <!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
 
-<!ENTITY sendToDevice.label3 "Enviar página para dispositivo">
+<!ENTITY pageAction.sendTabToDevice.label "Enviar aba para dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
 <!ENTITY libraryButton.tooltip "Ver histórico, favoritos salvos e muito mais">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Recursos de Acessibilidade Ativos">
