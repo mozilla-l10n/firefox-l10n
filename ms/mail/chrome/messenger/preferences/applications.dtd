@@ -34,3 +34,5 @@
 <!ENTITY authRequired.button.label        "Luluskan">
 <!ENTITY authRequired.button.accesskey    "L">
 
+<!ENTITY enableCloudFileAccountOffer.label "Tawar berkongsi fail yang melebihi">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
