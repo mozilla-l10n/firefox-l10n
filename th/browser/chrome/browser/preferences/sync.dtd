@@ -40,7 +40,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "ยังไม่ยืนยัน">
+<!ENTITY signedInUnverified.aftername.label "ยังไม่ได้รับการยืนยัน">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
@@ -58,8 +58,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.accesskey    "จ">
 <!ENTITY disconnect3.label           "ตัดการเชื่อมต่อ…">
 <!ENTITY disconnect3.accesskey       "ต">
-<!ENTITY verify.label                "ตรวจสอบอีเมล">
-<!ENTITY verify.accesskey            "ร">
+<!ENTITY verify.label                "ยืนยันอีเมล">
+<!ENTITY verify.accesskey            "ย">
 <!ENTITY forget.label                "ลืมอีเมลนี้">
 <!ENTITY forget.accesskey            "ล">
 

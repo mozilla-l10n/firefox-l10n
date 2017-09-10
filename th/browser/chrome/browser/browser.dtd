@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดค่ากำหนด &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
-<!ENTITY fxaUnverified.label "ตรวจสอบบัญชีของคุณ">
+<!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
