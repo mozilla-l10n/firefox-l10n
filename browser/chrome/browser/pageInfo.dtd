@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Սեփականատեր`">
 <!ENTITY  securityView.identity.domain   "Վեբ Կայք`">
 <!ENTITY  securityView.identity.verifier "Ստուգվել է`">
-
+<!ENTITY  securityView.identity.validity "Սպառվում է՝">
 
 <!ENTITY  securityView.privacy.header                   "Գաղտնիությունը և պատմությունը">
 <!ENTITY  securityView.privacy.history                  "Ես այցելե՞լ էմ այս կայք մինչև այսօր">
