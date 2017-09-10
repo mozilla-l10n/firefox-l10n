@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Správce cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Hledat">
 <!ENTITY     searchFilter.accesskey         "H">

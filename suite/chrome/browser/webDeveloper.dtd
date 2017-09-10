@@ -19,7 +19,6 @@
 
 <!ENTITY responsiveDesignTool.label      "Režim responzivního designu">
 <!ENTITY responsiveDesignTool.accesskey  "R">
-<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label                "Kapátko">
 <!ENTITY eyedropper.accesskey            "a">
