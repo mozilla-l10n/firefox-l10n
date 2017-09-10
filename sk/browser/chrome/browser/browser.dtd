@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Obnoviť všetky karty">
 <!ENTITY  reloadAllTabs.accesskey            "b">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Duplikovať kartu">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -256,6 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "d">
 
 <!ENTITY downloads.label              "Správca preberania súborov">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "S">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -548,7 +554,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "i">
 <!ENTITY bookmarkThisFrameCmd.label      "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "V">
-<!ENTITY copyURLCmd.label             "Kopírovať adresu URL">
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Uložiť stránku ako…">
@@ -572,8 +577,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "r">
 <!ENTITY emailVideoCmd.label          "Odoslať video…">
 <!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY castVideoCmd.label           "Odoslať video do zariadenia">
-<!ENTITY castVideoCmd.accesskey       "r">
 <!ENTITY emailAudioCmd.label          "Odoslať zvuk…">
 <!ENTITY emailAudioCmd.accesskey      "v">
 <!ENTITY playPluginCmd.label          "Aktivovať tento zásuvný modul">
@@ -955,7 +958,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
 
-<!ENTITY updateRestart.message "Po rýchlom reštarte obnoví aplikácia &brandShorterName; všetky vaše otvorené karty a okná.">
 <!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -967,6 +969,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridať do panela s adresou">
 <!ENTITY pageAction.removeFromUrlbar.label "Odstrániť z panela s adresou">
 
-<!ENTITY sendToDevice.label3 "Odoslať stránku do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
