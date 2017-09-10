@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Papar Dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Papar Folder Muat turun">
 <!ENTITY cmd.retry.label                  "Cuba semula">
 <!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muat turun">
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
