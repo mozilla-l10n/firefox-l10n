@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "e">
 <!ENTITY  sendLinkToDevice.label             "Poslat odkaz do zařízení">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
-<!ENTITY  sendToDeviceFeedback.label         "Odeslat!">
+<!ENTITY  sendToDeviceFeedback.label         "Odesláno!">
 <!ENTITY  moveToNewWindow.label              "Přesunout do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Přidat všechny panely do záložek…">
