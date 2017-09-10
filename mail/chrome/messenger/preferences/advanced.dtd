@@ -113,4 +113,10 @@
 <!ENTITY certs.auto.accesskey            "P">
 <!ENTITY certs.ask                       "Sentiasa tanya saya">
 <!ENTITY certs.ask.accesskey             "S">
+<!ENTITY enableOCSP.label                "Minta penggerak balas pelayan OCSP untuk mengesahkan kesahihan sijil semasa">
+<!ENTITY enableOCSP.accesskey            "M">
 
+<!ENTITY manageCertificates.label "Urus Sijil">
+<!ENTITY manageCertificates.accesskey "U">
+<!ENTITY viewSecurityDevices.label "Peranti Keselamatan">
+<!ENTITY viewSecurityDevices.accesskey "P">
