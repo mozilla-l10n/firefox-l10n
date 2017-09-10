@@ -259,6 +259,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Unduhan">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Unduhan">
 <!ENTITY downloads.accesskey          "U">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -550,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY copyURLCmd.label             "Salin URL">
+<!ENTITY pageAction.copyLink.label    "Salin Tautan">
 <!ENTITY copyURLFeedback.label        "Tersalin!">
 <!ENTITY emailPageCmd.label           "Kirim Tautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -575,8 +578,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "k">
 <!ENTITY emailVideoCmd.label          "Surelkan Video…">
 <!ENTITY emailVideoCmd.accesskey      "k">
-<!ENTITY castVideoCmd.label           "Kirim Video ke Perangkat">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Surelkan Audio…">
 <!ENTITY emailAudioCmd.accesskey      "k">
 <!ENTITY playPluginCmd.label          "Aktifkan plugin ini">
@@ -958,7 +959,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Unduh salinan baru &brandShorterName;">
 
-<!ENTITY updateRestart.message "Setelah mulai ulang, &brandShorterName; akan memulihkan tab dan jendela terbuka,">
 <!ENTITY updateRestart.header.message2 "Mulai ulang untuk memutakhirkan &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Mulai Ulang dan Kembalikan">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,11 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Tambahkan ke Bilah Alamat">
 <!ENTITY pageAction.removeFromUrlbar.label "Singkirkan dari Bilah Alamat">
 
-<!ENTITY sendToDevice.label3 "Kirim Laman ke Peranti">
+<!ENTITY pageAction.sendTabToDevice.label "Kirim Tab ke Peranti">
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
 
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
