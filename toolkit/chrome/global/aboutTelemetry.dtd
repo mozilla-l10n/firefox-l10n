@@ -2,61 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+
 <!ENTITY aboutTelemetry.pageTitle "ข้อมูลการวัดและส่งข้อมูลทางไกล">
 
 
-
-
-
-
-
-
+<!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
+<!ENTITY aboutTelemetry.environmentDataSection "  ข้อมูลสภาพแวดล้อม">
+<!ENTITY aboutTelemetry.sessionInfoSection "  ข้อมูลวาระ">
+<!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
+<!ENTITY aboutTelemetry.telemetryLogSection "รายการบันทึกการวัดและส่งข้อมูลทางไกล">
+<!ENTITY aboutTelemetry.slowSqlSection "  คำสั่ง SQL ที่ทำงานช้า">
+<!ENTITY aboutTelemetry.chromeHangsSection "  เบราว์เซอร์ค้าง">
+<!ENTITY aboutTelemetry.addonDetailsSection "  รายละเอียดของส่วนเสริม">
+<!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
 <!ENTITY aboutTelemetry.raw "JSON ดิบ">
 
-
-
-
-
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "สัปดาห์">
-
-
-
-
-
-
-<!ENTITY aboutTelemetry.generalDataSection "  ข้อมูลทั่วไป">
-
-<!ENTITY aboutTelemetry.environmentDataSection "  ข้อมูลสภาพแวดล้อม">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  รายการบันทึกการวัดและส่งข้อมูลทางไกล
-">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  คำสั่ง SQL ที่ทำงานช้า">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  เบราว์เซอร์ค้าง">
-
-
-
-
-<!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
-
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  รายละเอียดของส่วนเสริม">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  การเขียนทีหลัง">
-
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  ข้อมูลวาระ">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป">
-
-
-
-<!ENTITY aboutTelemetry.filterText "  ตัวกรอง (สตริงหรือ /regexp/)">
-
