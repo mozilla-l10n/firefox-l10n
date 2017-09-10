@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "V">
 <!ENTITY cmd.showMac.label                "Prikaži v Finderju">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Prikaži mapo s prenosi">
 <!ENTITY cmd.retry.label                  "Poskusi znova">
 <!ENTITY cmd.goToDownloadPage.label       "Pojdi na stran za prenos">
 <!ENTITY cmd.goToDownloadPage.accesskey   "O">
@@ -134,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "Prikaži vse prenose">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "Odpri mapo s prenosi">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Podrobnosti o prenosu">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Odpri mapo s prenosi">
 
 <!ENTITY clearDownloadsButton.label       "Počisti prenose">
 <!ENTITY clearDownloadsButton.tooltip     "Počisti dokončane, preklicane in spodletele prenose">
