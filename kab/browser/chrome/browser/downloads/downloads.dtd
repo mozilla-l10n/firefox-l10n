@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "L">
 <!ENTITY cmd.showMac.label                "Sken-d di Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Sken-d akaram n isidar">
 <!ENTITY cmd.retry.label                  "Σreḍ i tikelt nniḍen">
 <!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebter n usider">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">

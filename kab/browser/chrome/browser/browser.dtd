@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "w">
 
 <!ENTITY downloads.label              "isidar">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Isidar">
 <!ENTITY downloads.accesskey          "i">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-a">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
-<!ENTITY copyURLCmd.label             "Nɣel URL">
+<!ENTITY pageAction.copyLink.label    "Nɣel aseɣwen">
 <!ENTITY copyURLFeedback.label        "Inɣel!">
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Azen tamwalit s yimayl…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Azen tamwalit ɣer yibenk">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Azen ameslaw s yimayl…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Rmed azegrir-a">
@@ -962,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
 
-<!ENTITY updateRestart.message "Seld asenker, &brandShorterName; ad yerr akk iccaren-ik yeldin akked windows.">
 <!ENTITY updateRestart.header.message2 "Sker i tikkelt nniḍen akken ad tleqmeḍ &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Sker i tikkelt nniḍen u sakin err-d">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,13 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Rnu ɣeṛ imedlis n tensa">
 <!ENTITY pageAction.removeFromUrlbar.label "Kkes seg ufeggag n tansa">
 
-<!ENTITY sendToDevice.label3 "Azen iccer γer yibenk">
+<!ENTITY pageAction.sendTabToDevice.label "Azen iccer γer yibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwaskelsen, d wayen-nniḍen">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Tamahalt n unekcum termmed">
