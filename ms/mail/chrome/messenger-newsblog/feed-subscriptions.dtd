@@ -30,7 +30,24 @@
 <!ENTITY quickMode.label             "Papar ringkasan artikel, bukan memuatkan halaman web">
 <!ENTITY quickMode.accesskey         "p">
 
-<!ENTITY autotagEnable.label         "Cipta tag secara automatik untuk nama &lt;kategori&gt; suapan">
+<!ENTITY autotagEnable.label         "Cipta tag secara automatik daripada suapan &lt;kategori&gt;">
+<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Awalan tag dengan:">
+<!ENTITY autotagUsePrefix.accesskey  "A">
+<!ENTITY autoTagPrefix.placeholder   "Masukkan awalan tag">
 
 <!-- Subscription Dialog -->
+<!ENTITY button.addFeed.label        "Tambah">
+<!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.updateFeed.label     "Kemaskini">
+<!ENTITY button.updateFeed.accesskey "K">
+<!ENTITY button.removeFeed.label     "Buang">
+<!ENTITY button.removeFeed.accesskey "B">
+<!ENTITY button.importOPML.label     "Import">
+<!ENTITY button.importOPML.accesskey "I">
+<!ENTITY button.exportOPML.label     "Eksport">
+<!ENTITY button.exportOPML.accesskey "E">
+<!ENTITY button.exportOPML.tooltip   "Eksport suapan dalam struktur folder; klik Ctrl atau ctrl Enter untuk eksport suapan sebagai satu senarai">
 
+<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Tutup">
