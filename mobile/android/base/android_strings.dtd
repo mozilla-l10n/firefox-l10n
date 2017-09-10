@@ -837,4 +837,8 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Kustuta ajaloost">
 
 <!ENTITY private_tab_panel_title "Privaatne veebilehitsemine jälitamisvastase kaitsega">
+<!ENTITY private_tab_panel_description "&brandShortName; blokib lehtede neid osasid, mis võivad sinu tegevust jälitada.">
+<!ENTITY private_tab_panel_description2 "Ajalugu ei salvestata, aga allalaaditud failid ja lisatud järjehoidjad salvestatakse sinu seadmesse.">
+<!ENTITY private_tab_learn_more "Kas soovid rohkem teavet?">
 
+<!ENTITY fullscreen_warning "Lülituti täisekraanirežiimi">
