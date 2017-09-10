@@ -963,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Seld asker arurad, &brandShorterName; ad d-yerr akk iccaren yeldin akked isfayluyen ur nelli ara deg uskar n tunigin tusligt.">
 <!ENTITY updateRestart.header.message2 "Sker i tikkelt nniḍen akken ad tleqmeḍ &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Sker i tikkelt nniḍen u sakin err-d">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
