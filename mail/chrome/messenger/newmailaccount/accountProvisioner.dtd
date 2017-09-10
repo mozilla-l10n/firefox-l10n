@@ -26,7 +26,7 @@
 <!ENTITY existing.header "Sudah dapat alamat yang anda mahu gunakan?">
 <!ENTITY tinyheader.title "Sudah ada alamat e-mel?">
 <!ENTITY tinyheader.existing "Langkau langkah ini dan gunakan e-mel sedia ada">
-<!ENTITY content.close "Saya mahu tetapkan akaun ini nanti.">
+<!ENTITY content.close "Saya akan buat tetapan akaun ini nanti.">
 <!ENTITY successful.title "Tahniah!">
 <!ENTITY successful.successMessage "Anda telah berjaya menetapkan akaun.">
 <!ENTITY successful.write "Mulakan menulis beberapa e-mel">
@@ -39,3 +39,5 @@
 <!ENTITY input.namePlaceholder "Nama sebenar atau gelaran">
 <!ENTITY input.search "Cari">
 <!ENTITY search_engine.title "Sesuaikan enjin carian anda">
+<!ENTITY search_engine.message "Penyedia e-mel ini juga ada keupayaan melaksanakan carian web.">
+<!ENTITY search_engine.button "Siap">
