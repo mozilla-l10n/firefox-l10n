@@ -963,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Stáhnout novou verzi aplikace &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "Po rychlém restartu &brandShorterName; obnoví všechna vaše otevřená okna a panely, která nejsou v režimu anonymního prohlížení.">
+<!ENTITY updateRestart.message2 "Po rychlém restartu obnoví &brandShorterName; všechny otevřené panely a okna, která nejsou v režimu anonymního prohlížení.">
 <!ENTITY updateRestart.header.message2 "Restartovat a aktualizovat aplikaci &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restartovat a obnovit">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
