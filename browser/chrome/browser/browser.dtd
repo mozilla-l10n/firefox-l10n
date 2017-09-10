@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "v">
 
 <!ENTITY downloads.label              "Allalaadimised">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Allalaadimised">
 <!ENTITY downloads.accesskey          "A">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "n">
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
-<!ENTITY copyURLCmd.label             "Kopeeri URL">
+<!ENTITY pageAction.copyLink.label    "Kopeeri link">
 <!ENTITY copyURLFeedback.label        "Kopeeritud!">
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "d">
 <!ENTITY emailVideoCmd.label          "Saada video e-postiga…">
 <!ENTITY emailVideoCmd.accesskey      "i">
-<!ENTITY castVideoCmd.label           "Saada video seadmesse">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Saada audio e-postiga…">
 <!ENTITY emailAudioCmd.accesskey      "u">
 <!ENTITY playPluginCmd.label          "Aktiveeri see plugin">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "M">
 <!ENTITY updateManual.panelUI.label "Laadi alla värske &brandShorterName;i versioon">
 
-<!ENTITY updateRestart.message "Pärast kiiret taaskäivitust taastab &brandShorterName; kõik sinu avatud kaardid ja aknad.">
+<!ENTITY updateRestart.message2 "Pärast kiiret taaskäivitamist taastab &brandShorterName; kõik avatud kaardid ja aknad, mis pole privaatse veebilehitsemise režiimis.">
 <!ENTITY updateRestart.header.message2 "Uuendamiseks taaskäivita &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Taaskäivita ja taasta">
 <!ENTITY updateRestart.acceptButton.accesskey "T">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
 
-<!ENTITY sendToDevice.label3 "Saada leht seadmesse">
+<!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
 <!ENTITY sendToDevice.syncNotReady.label "Toimub seadmete sünkroniseerimine…">
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Hõlbustus on lubatud">
