@@ -33,3 +33,4 @@
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>De sites enganaires son realizats per vos menar a far quicòm de dangierós, coma installar un logicial, o revelar d'informacions personalas, coma de senhals, numèro de telefòn o de cartas de crèdit.</p><p>Dintrar quina que siá informacion sus aquesta pagina se riscariá lo raubatòri d'identitat o d'autras fraudas.</p>">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Aqueste site pòt conténer de logicials malvolents">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; a blocat aquesta pagina qu'auriá pogut installar d'aplicacions dangierosas capablas de raubar o suprimir vòstras donadas (per exemple, fotografias, senhals, messatges e cartas de crèdit).">
