@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "r">
 <!ENTITY cmd.showMac.label                "Ouvrir dans le Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Afficher le dossier des téléchargements">
 <!ENTITY cmd.retry.label                  "Réessayer">
 <!ENTITY cmd.goToDownloadPage.label       "Aller à la page de téléchargement">
 <!ENTITY cmd.goToDownloadPage.accesskey   "h">
