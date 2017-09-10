@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "p">
 
 <!ENTITY downloads.label              "Atsiuntimai">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Atsiuntimai">
 <!ENTITY downloads.accesskey          "s">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
-<!ENTITY copyURLCmd.label             "Kopijuoti URL">
+<!ENTITY pageAction.copyLink.label    "Kopijuoti saitą">
 <!ENTITY copyURLFeedback.label        "Nukopijuota!">
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "s">
 <!ENTITY emailVideoCmd.label          "Išsiųsti vaizdo įrašą el. paštu…">
 <!ENTITY emailVideoCmd.accesskey      "s">
-<!ENTITY castVideoCmd.label           "Siųsti vaizdo įrašą į įrenginį">
-<!ENTITY castVideoCmd.accesskey       "i">
 <!ENTITY emailAudioCmd.label          "Išsiųsti garso įrašą el. paštu…">
 <!ENTITY emailAudioCmd.accesskey      "s">
 <!ENTITY playPluginCmd.label          "Aktyvinti šį papildinį">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Parsiųsti šviežią „&brandShorterName;“ kopiją">
 
-<!ENTITY updateRestart.message "Po greito perleidimo, „&brandShorterName;“ atkurs visas jūsų atviras korteles ir langus.">
+<!ENTITY updateRestart.message2 "Po greito perleidimo, „&brandShorterName;“ atkurs visas jūsų atvertas korteles ir langus, kurie nėra privačiojo naršymo veiksenoje.">
 <!ENTITY updateRestart.header.message2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 <!ENTITY updateRestart.acceptButton.label "Perleisti ir atkurti">
 <!ENTITY updateRestart.acceptButton.accesskey "P">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso juosta">
 <!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso juostos">
 
-<!ENTITY sendToDevice.label3 "Nusiųsti tinklalapį į įrenginį">
+<!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
 
 <!ENTITY libraryButton.tooltip "Peržiūrėti žurnalą, adresyno įrašus ir daugiau">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Prieinamumo funkcijos įjungtos">
