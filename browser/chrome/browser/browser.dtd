@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "下載">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "下載項目">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "將此頁框加入書籤">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "複製網址">
+<!ENTITY pageAction.copyLink.label    "複製鏈結">
 <!ENTITY copyURLFeedback.label        "已複製！">
 <!ENTITY emailPageCmd.label           "郵寄鏈結…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "郵寄視訊…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "將影片傳送到裝置">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "郵寄音訊…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "啟用此外掛程式">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "下載全新乾淨的 &brandShorterName;">
 
-<!ENTITY updateRestart.message "重新啟動後，&brandShorterName; 將還原您所有已開啟的分頁與視窗。">
+<!ENTITY updateRestart.message2 "快速重新啟動後，&brandShorterName; 將還原您所有不在隱私瀏覽模式中開啟的分頁與視窗。">
 <!ENTITY updateRestart.header.message2 "重新啟動以更新 &brandShorterName;。">
 <!ENTITY updateRestart.acceptButton.label "重新啟動並還原">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "新增至網址列">
 <!ENTITY pageAction.removeFromUrlbar.label "從網址列移除">
 
-<!ENTITY sendToDevice.label3 "將頁面傳送至裝置">
+<!ENTITY pageAction.sendTabToDevice.label "將分頁傳送至裝置">
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">
 
 <!ENTITY libraryButton.tooltip "檢視瀏覽紀錄、已存書籤等資料">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "輔助功能已啟用">
