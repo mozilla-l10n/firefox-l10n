@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Obnovi sve tabove">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Dupliciraj tab">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "u">
 <!ENTITY  sendLinkToDevice.label             "Pošalji link na uređaj">
 <!ENTITY  sendLinkToDevice.accesskey         "u">
+<!ENTITY  sendToDeviceFeedback.label         "Poslano!">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Zabilježi sve tabove…">
@@ -162,7 +167,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Uredi ovu Zabilješku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY feedsMenu2.label "Pretplati me na ovu stranicu">
 <!ENTITY subscribeToPageMenupopup.label "Pretplati me na ovu stranicu">
 <!ENTITY subscribeToPageMenuitem.label "Pretplati me na ovu stranicu…">
 <!ENTITY addCurPagesCmd.label "Zabilježi sve tabove…">
@@ -228,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Zabilješke">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Zabilješke">
 <!ENTITY bookmarksMenuButton.other.label    "Druge zabilješke">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobilne zabilješke">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži traku sa zabilješkama">
@@ -239,8 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkingTools.label             "Alati za zabilježavanje">
 <!ENTITY addBookmarksMenu.label             "Dodaj meni Zabilješke u alatnu traku">
 <!ENTITY removeBookmarksMenu.label          "Ukloni meni Zabilješke iz alatne trake">
-
-<!ENTITY containersMenu.label "Containeri">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -258,6 +259,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Preuzimanja">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "P">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -339,7 +342,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Prilagodi meni i alatne trake">
 <!ENTITY appMenuCustomizeExit.label "Napusti prilagođavanje">
 <!ENTITY appMenuCustomizeExit.tooltip "Završi prilagođavanje">
-<!ENTITY appMenuHistory.label "Historija">
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu historiju">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Povrati prethodnu sesiju">
@@ -420,7 +422,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Savjet:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Olakšajte sebi pronalaženje stvari! Potražite &#x1F50E; pored prijedloga za pretragu.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Promijenite opcije…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Promijenite postavke…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "P">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -454,6 +462,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Pretraga">
+<!ENTITY searchIcon.tooltip           "Traži">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -537,6 +547,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Z">
+<!ENTITY pageAction.copyLink.label    "Kopiraj link">
+<!ENTITY copyURLFeedback.label        "Kopirano!">
 <!ENTITY emailPageCmd.label           "Pošalji link emailom…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Spasi stranicu kao…">
@@ -560,8 +572,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Pošalji video emailom…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Pošalji video na uređaj">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Pošalji audio emailom…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktiviraj ovaj plugin">
@@ -602,6 +612,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "i">
 <!ENTITY mediaPlaybackRate050x2.label "Spora (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "Normalna">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Brza (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "B">
 <!ENTITY mediaPlaybackRate150x2.label "Brža (1,5×)">
@@ -660,6 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
+<!ENTITY sidebarMenuClose.label         "Zatvori bočnu traku">
 
 <!ENTITY quitApplicationCmdWin2.label       "Izlaz">
 <!ENTITY quitApplicationCmdWin2.accesskey   "z">
@@ -669,6 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ugasi">
 <!ENTITY quitApplicationCmd.accesskey   "U">
 <!ENTITY quitApplicationCmdMac2.label   "Zatvori &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zatvori">
 <!ENTITY closeCmd.key                   "W">
@@ -712,6 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
+<!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sigurna konekcija">
@@ -719,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ova stranica je pohranjena na vaš računar.">
 <!ENTITY identity.connectionVerified2 "Povezani ste na siguran način na stranicu, u vlasništvu:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
+<!ENTITY identity.extensionPage "Ova stranica je učitana iz ekstenzije.">
 <!ENTITY identity.insecureLoginForms2 "Prijave unešene na ovoj stranici mogle bi biti kompromitovane.">
 
 <!-- Strings for connection state warnings. -->
@@ -877,8 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Zatvori">
 
-<!ENTITY appMenuSidebars.label         "Bočne trake">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -925,11 +939,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Preuzmi svježu kopiju &brandShorterName;a">
 
-<!ENTITY updateRestart.message "Nakon brzog restarta, &brandShorterName; će vratiti sve vaše otvorene tabove i prozore.">
+<!ENTITY updateRestart.message2 "Nakon brzog restarta, &brandShorterName; će vratiti sve vaše otvorene tabove i prozore koji nisu u Privatnom režimu rada.">
+<!ENTITY updateRestart.header.message2 "Restartuj za nadogradnju &brandShorterName;a.">
 <!ENTITY updateRestart.acceptButton.label "Restartuj i vrati">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne sada">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Restartuj za nadogradnju &brandShorterName;a">
 
+<!ENTITY pageActionButton.tooltip "Akcije stranice">
+<!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
+<!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
 
+<!ENTITY pageAction.sendTabToDevice.label "Pošalji tab na uređaj">
+<!ENTITY sendToDevice.syncNotReady.label "Sinhronizujem uređaje…">
 
+<!ENTITY libraryButton.tooltip "Prikaži historiju, spašene zabilješke, i više">
