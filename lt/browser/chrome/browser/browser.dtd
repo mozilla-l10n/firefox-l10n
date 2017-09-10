@@ -21,7 +21,7 @@
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Atsiųsti kortelės tinklalapį iš naujo">
 <!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  reloadAllTabs.label                "Atsiųsti visų kortelių tinklalapius iš naujo">
+<!ENTITY  reloadAllTabs.label                "Įkelti visų kortelių tinklalapius iš naujo">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
