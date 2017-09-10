@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Tampilkan di Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Tampilkan Folder Unduhan">
 <!ENTITY cmd.retry.label                  "Coba Lagi">
 <!ENTITY cmd.goToDownloadPage.label       "Buka Laman Unduhan">
 <!ENTITY cmd.goToDownloadPage.accesskey   "m">
