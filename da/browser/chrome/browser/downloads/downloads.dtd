@@ -54,6 +54,7 @@
 <!ENTITY cmd.show.accesskey               "h">
 <!ENTITY cmd.showMac.label                "Vis i Finder">
 <!ENTITY cmd.showMac.accesskey            "V">
+<!ENTITY cmd.showDownloads.label          "Vis filhentnings-mappen">
 <!ENTITY cmd.retry.label                  "Prøv igen">
 <!ENTITY cmd.goToDownloadPage.label       "Gå til siden, filen blev hentet fra">
 <!ENTITY cmd.goToDownloadPage.accesskey   "t">
@@ -131,6 +132,12 @@
      -->
 <!ENTITY downloadsHistory.label           "Vis alle filhentninger">
 <!ENTITY downloadsHistory.accesskey       "V">
+
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Detaljer om filhentning">
 
 <!ENTITY openDownloadsFolder.label       "Åbn mappen med filhentninger">
 
