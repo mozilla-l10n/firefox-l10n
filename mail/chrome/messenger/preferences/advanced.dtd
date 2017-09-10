@@ -3,10 +3,41 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Umum">
+<!ENTITY dataChoicesTab.label    "Pilihan Data">
+<!ENTITY itemUpdate.label        "Kemaskini">
+<!ENTITY itemNetworking.label    "Rangkaian &amp; Ruang Cakera">
+<!ENTITY itemCertificates.label  "Sijil">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Aktifkan Carian Global dan Pengindeks">
+<!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY dateTimeFormatting.label      "Format Tarikh dan Masa">
+<!ENTITY allowHWAccel.label            "Guna pecutan perkakasan, jika tersedia">
+<!ENTITY allowHWAccel.accesskey        "p">
+<!ENTITY storeType.label               "Jenis Storan Mesej untuk akaun baru:">
+<!ENTITY storeType.accesskey           "J">
+<!ENTITY mboxStore2.label              "Fail setiap folder (mbox)">
+<!ENTITY maildirStore.label            "Fail setiap mesej (maildir)">
 
+<!ENTITY scrolling.label               "Skrol">
+<!ENTITY useAutoScroll.label           "Guna auto-skrol">
+<!ENTITY useAutoScroll.accesskey       "G">
+<!ENTITY useSmoothScrolling.label      "Guna skrol lancar">
+<!ENTITY useSmoothScrolling.accesskey  "c">
 
+<!ENTITY systemIntegration.label       "Integrasi Sistem">
+<!ENTITY alwaysCheckDefault.label      "Sentiasa semak samada &brandShortName; adalah klien mel piawai pada permulaan">
+<!ENTITY alwaysCheckDefault.accesskey  "S">
+<!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; mencari mesej">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkDefaultsNow.label        "Semak Sekarang…">
+<!ENTITY checkDefaultsNow.accesskey    "S">
+<!ENTITY configEditDesc.label          "Konfigurasi Lanjutan">
+<!ENTITY configEdit.label              "Editor Konfigurasi…">
+<!ENTITY configEdit.accesskey          "E">
+<!ENTITY returnReceiptsInfo.label      "Tentukan cara &brandShortName; mengendalikan resit pulangan">
+<!ENTITY showReturnReceipts.label      "Resit Pemberitahu Serahan…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
 
