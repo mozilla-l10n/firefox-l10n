@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Дублировать вкладку">
-<!ENTITY  duplicateTab.accesskey             "в">
+<!ENTITY  duplicateTab.accesskey             "б">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -261,6 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "с">
 
 <!ENTITY downloads.label              "Загрузки">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "З">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +555,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
-<!ENTITY copyURLCmd.label             "Копировать ссылку">
 <!ENTITY copyURLFeedback.label        "Скопировано!">
 <!ENTITY emailPageCmd.label           "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey       "п">
@@ -578,8 +579,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "а">
 <!ENTITY emailVideoCmd.label          "Отправить видео по почте…">
 <!ENTITY emailVideoCmd.accesskey      "а">
-<!ENTITY castVideoCmd.label           "Отправить видео на устройство">
-<!ENTITY castVideoCmd.accesskey       "в">
 <!ENTITY emailAudioCmd.label          "Отправить аудио по почте…">
 <!ENTITY emailAudioCmd.accesskey      "а">
 <!ENTITY playPluginCmd.label          "Включить этот плагин">
@@ -962,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "е">
 <!ENTITY updateManual.panelUI.label "Загрузите новую версию &brandShorterName;">
 
-<!ENTITY updateRestart.message "После быстрого перезапуска, &brandShorterName; восстановит все открытые вами вкладки и окна.">
 <!ENTITY updateRestart.header.message2 "Перезапустить &brandShorterName; для обновления.">
 <!ENTITY updateRestart.acceptButton.label "Перезапустить и восстановить">
 <!ENTITY updateRestart.acceptButton.accesskey "з">
@@ -974,13 +972,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
 
-<!ENTITY sendToDevice.label3 "Отправить страницу на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Поддержка доступности включена">
