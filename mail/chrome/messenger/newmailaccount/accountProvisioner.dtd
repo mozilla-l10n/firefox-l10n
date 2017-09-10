@@ -22,3 +22,20 @@
 <!ENTITY success.title.before "Helo ">
 <!ENTITY success.title.after ", alamat e-mel berikut disediakan untuk anda:">
 <!ENTITY success.tip "(Anda boleh cuba nama gelaran atau istilah lain untuk mencari lebih banyak e-mel)">
+<!ENTITY partnership.description "Dengan kerjasama beberapa rakan kongsi, &brandShortName; boleh menawarkan anda alamat e-mel baru. Hanya isikan nama pertama dan nama keluarga, atau apa-apa perkataan yang anda mahu, di dalam ruang di atas.">
+<!ENTITY existing.header "Sudah dapat alamat yang anda mahu gunakan?">
+<!ENTITY tinyheader.title "Sudah ada alamat e-mel?">
+<!ENTITY tinyheader.existing "Langkau langkah ini dan gunakan e-mel sedia ada">
+<!ENTITY content.close "Saya mahu tetapkan akaun ini nanti.">
+<!ENTITY successful.title "Tahniah!">
+<!ENTITY successful.successMessage "Anda telah berjaya menetapkan akaun.">
+<!ENTITY successful.write "Mulakan menulis beberapa e-mel">
+<!ENTITY successful.write.desc "Maklumkan rakan dan ahli keluarga perihal alamat e-mel baru ini.<br/> Inilah sebabnya anda mahu alamat e-mel baru ini, bukan?">
+<!ENTITY successful.customize "Sesuaikan &brandShortName; dengan beberapa ciri add-ons yang menarik">
+<!ENTITY successful.customize.desc "Terdapat beribu-ribu add-ons yang anda boleh sesuaikan dengan &brandShortName; supaya sesuai dengan keperluan khusus anda.">
+<!ENTITY successful.attach "Lampirkan tandatangan peribadi dalam e-mel saya">
+<!ENTITY successful.attach.desc "Anda boleh lampirkan petikan atau beberapa maklumat berkaitan diri anda dalam setiap mesej yang dihantar.">
+<!ENTITY successful.close "Tutup tetingkap ini.">
+<!ENTITY input.namePlaceholder "Nama sebenar atau gelaran">
+<!ENTITY input.search "Cari">
+<!ENTITY search_engine.title "Sesuaikan enjin carian anda">
