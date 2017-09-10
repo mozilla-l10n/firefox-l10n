@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Vərəqləri bərpa et, məlumat saxlayıcısı, tərtibatçı alətləri">
 <!ENTITY pref_category_notifications "Bildirişlər">
 <!ENTITY pref_category_notifications_summary "Yeni özəlliklər, sayt yeniləmələri">
-<!ENTITY pref_content_notifications "Sayt yeniləmələri">
-<!ENTITY pref_content_notifications_summary2 "Dəstəklənən saytlardan yeni məzmunları kəşf et">
 <!ENTITY pref_developer_remotedebugging_usb "USB ilə məsafəli sazlama">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ilə məsafəli sazlama">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi sazlama üçün cihazınızda QR kod oxuyucu tətbiqi qurulmalıdır.">
@@ -335,23 +333,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Çox keçidi açmaq üçün lütfən &brandShortName; səyyahı üçün Digər tətbiqlərin üzərinə çəkmə (Draw over other apps) icazəsi verin">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; sayt yenilənib">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Tənzimləmələr">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "İndi oxu">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; tarixində yenilənib">
-
 <!ENTITY pref_char_encoding "Simvol kodlaşdırması">
 <!ENTITY pref_char_encoding_on "Menyunu göstər">
 <!ENTITY pref_char_encoding_off "Menyunu göstərmə">
@@ -410,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "Ön qurğulu olaraq seç">
 <!ENTITY pref_dialog_default "İlkin hal">
 <!ENTITY pref_dialog_remove "Sil">
+<!ENTITY pref_dialog_activitystream_header_content "Əlavə məzmun">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Yeni Əlfəcinlər">
+<!ENTITY pref_dialog_activitystream_visited "Ziyarət edilmiş">
 
 <!ENTITY pref_search_last_toast "Sonuncu axtarış mühərrikinizi silə və ya passivləşdirə bilməzsiniz.">
 
@@ -843,16 +827,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ziyarət edildi">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Populyar">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "İnternetdə gəzməyə başlayın, burada ziyarət edəcəyiniz və ya əlfəcinləyəcəyiniz məqalə, video və digər səhifələri göstərəcəyik.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Sil">
 <!ENTITY activity_stream_delete_history "Tarixçədən sil">
-
-<!ENTITY activity_stream_welcome_title "Seçilmişlərinizə xoş gəldiniz">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; artıq internetdə kəşf etdiyiniz şeyləri işıqlandıraraq gözəl məqalə, video, əlfəcin və digər səhifələrə geri qayıtmağınızı asandlaşdırır.">
-<!ENTITY activity_stream_welcome_dismiss "Qapat">
 
 <!ENTITY private_tab_panel_title "Məxfi Səyahət + İzlənmə Qoruması">
 <!ENTITY private_tab_panel_description "&brandShortName; səhifələrin səyahətinizi izləyə biləcək hissələrini əngəlləyir.">
