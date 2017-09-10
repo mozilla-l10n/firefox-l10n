@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Berreskuratu fitxak, datuak gordetzekoa, garatzaile-tresnak">
 <!ENTITY pref_category_notifications "Jakinarazpenak">
 <!ENTITY pref_category_notifications_summary "Eginbide berriak, webguneen eguneraketak">
-<!ENTITY pref_content_notifications "Webguneen eguneraketak">
-<!ENTITY pref_content_notifications_summary2 "Deskubritu eduki berria onartutako guneetatik">
 <!ENTITY pref_developer_remotedebugging_usb "USB bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi bidezko arazketak zure gailuak QR kodeen irakugailua instalatuta izatea behar du.">
@@ -335,23 +333,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;Ireki hainbat lotura\&quot; erabiltzeko, gaitu &brandShortName;(e)k beste aplikazioen gainetik marrazteko baimena.">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; webgune eguneratuta">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Ezarpenak">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Irakurri orain">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Eguneraketa-data: &formatS;">
-
 <!ENTITY pref_char_encoding "Erakutsi karaktere-kodeketa">
 <!ENTITY pref_char_encoding_on "Erakutsi menua">
 <!ENTITY pref_char_encoding_off "Ez erakutsi menua">
@@ -410,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "Ezarri lehenetsi gisa">
 <!ENTITY pref_dialog_default "Lehenetsia">
 <!ENTITY pref_dialog_remove "Kendu">
+<!ENTITY pref_dialog_activitystream_header_content "Eduki gehigarria">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Azken laster-markak">
+<!ENTITY pref_dialog_activitystream_visited "Bisitatuta">
 
 <!ENTITY pref_search_last_toast "Ezin duzu azken bilaketa-motorra kendu edo desgaitu.">
 
@@ -843,16 +827,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Bisitatuta">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Joerak">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Kendu">
 <!ENTITY activity_stream_delete_history "Ezabatu historiatik">
-
-<!ENTITY activity_stream_welcome_title "Ongi etorri zuretzat nabarmendutakoetara">
-<!ENTITY activity_stream_welcome_content1 "Webean deskubritu dituzun gauzak nabarmentzen ditu orain &brandShortName;(e)k, zuretzat garrantzia duten artikulu, bideo, laster-marka eta bestelako orrietara itzultzeko bidea izan dezazun.">
-<!ENTITY activity_stream_welcome_dismiss "Baztertu">
 
 <!ENTITY private_tab_panel_title "Nabigatze pribatua eta jarraipenaren babesa">
 <!ENTITY private_tab_panel_description "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ditu &brandShortName;(e)k.">
