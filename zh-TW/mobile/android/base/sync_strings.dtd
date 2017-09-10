@@ -75,8 +75,8 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 '服務項目'>
-<!ENTITY fxaccount_status_linkprivacy2 '隱私權通知'>
+<!ENTITY fxaccount_status_linktos2 '服務條款'>
+<!ENTITY fxaccount_status_linkprivacy2 '隱私權公告'>
 <!ENTITY fxaccount_status_more '更多&ellipsis;'>
 <!ENTITY fxaccount_remove_account '取消連線&ellipsis;'>
 
