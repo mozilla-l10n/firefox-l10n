@@ -64,6 +64,17 @@
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Kawalan Fon">
 <!ENTITY  useFixedWidthForPlainText.label         "Guna fon lebar tetap untuk mesej teks biasa">
+<!ENTITY  fixedWidth.accesskey                    "t">
+<!ENTITY  useDocumentFonts.label                  "Izinkan mesej menggunakan fon lain">
+<!ENTITY  useDocumentFonts.accesskey              "o">
 
 <!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Mel Keluar:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle2.label            "Pengekodan Teks">
+<!ENTITY composingDescription2.label      "Tetapkan pengekodan teks piawai untuk menghantar dan menerima mel">
 
+<!ENTITY viewDefaultCharsetList.label     "Mel Masuk:">
+<!ENTITY viewDefaultCharsetList.accesskey  "M">
+<!ENTITY replyInDefaultCharset3.label     "Jika boleh, guna pengekodan teks piawai apabila membalas">
+<!ENTITY replyInDefaultCharset3.accesskey "h">
