@@ -4,4 +4,14 @@
 
 <!ENTITY offlineDialog.title "Tetapan Luar talian">
 
+<!ENTITY checkAutoDetect.label "Ikuti keadaan atas talian yang dikesan secara automatik">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Keadaan manual semasa memulakan:">
+<!ENTITY radioRememberPrevState.label "Ingati keadaan atas talian terdahulu">
+<!ENTITY radioRememberPrevState.accesskey "I">
+<!ENTITY radioAskState.label "Tanya untuk keadaan atas talian">
+<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAlwaysOnlineState.label "Atas talian">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Luar talian">
 
