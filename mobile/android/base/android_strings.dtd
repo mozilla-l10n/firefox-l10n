@@ -3,7 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Tere tulemast!">
+<!ENTITY firstrun_urlbar_message2 "Täname, et valisid &brandShortName;i">
+<!ENTITY firstrun_urlbar_subtext2 "Kaasaegne mobiilne brauser Mozillalt, mittetulundusühingult, mis on pühendunud vabale ja avatud veebile.">
 <!ENTITY firstrun_panel_title_privacy "Privaatsus">
+<!ENTITY firstrun_privacy_message "Lehitse veebi nii nagu keegi ei vaataks">
+<!ENTITY firstrun_privacy_subtext "Privaatne veebilehitsemine jälitamisvastase kaitsega blokib jälitajad veebilehitsemise ajal ja ei pea meeles lehitsemise ajalugu sirvimise lõpetamisel.">
+<!ENTITY firstrun_panel_title_customize "Kohandamine">
+<!ENTITY firstrun_customize_message "Tee &brandShortName; enda omaks.">
+<!ENTITY firstrun_customize_subtext "Kohanda &brandShortName;i lisadega. Bloki reklaami, lisa funktsionaalsust või vali uus teema, mis peegeldab sinu isiksust.">
 <!ENTITY firstrun_bookmarks_title "Ajalugu">
 <!ENTITY firstrun_bookmarks_message "Sinu lemmikud, esiplaanil">
 <!ENTITY firstrun_bookmarks_subtext "Otsimisel kuvatakse tulemusi ajaloost ja järjehoidjatest.">
@@ -12,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Lülita pildid välja, et kasutada saitide sirvimisel vähem andmemahtu.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Jätka sealt, kus pooleli jäi.">
+<!ENTITY firstrun_sync_subtext2 "Kasuta Synci, et leida järjehoidjaid, paroole ja muid asju, mida oled salvestanud &brandShortName;i kõigis oma seadmetes.">
 <!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
 <!ENTITY firstrun_signin_button "Logi Synci sisse">
 <!ENTITY  onboard_start_button_browser "Alusta veebilehitsemist">
