@@ -30,4 +30,11 @@
 
 <!ENTITY play.label                       "Main">
 <!ENTITY play.accesskey                   "M">
+<!ENTITY systemsound.label                "Bunyian sistem piawai untuk mel baru">
+<!ENTITY systemsound.accesskey            "i">
+<!ENTITY customsound.label                "Gunakan fail bunyian berikut">
+<!ENTITY customsound.accesskey            "G">
+<!ENTITY browse.label                     "Cari…">
+<!ENTITY browse.accesskey                 "C">
 
+<!ENTITY defaultSearchEngine.label        "Enjin Carian Piawai">
