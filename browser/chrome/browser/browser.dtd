@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "e">
 <!ENTITY  reloadAllTabs.label                "Genindlæs alle faneblade">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Kopier faneblad">
+<!ENTITY  duplicateTab.accesskey             "K">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "S">
 <!ENTITY  sendLinkToDevice.label             "Send link til enhed">
 <!ENTITY  sendLinkToDevice.accesskey         "S">
+<!ENTITY  sendToDeviceFeedback.label         "Sendt!">
 <!ENTITY  moveToNewWindow.label              "Flyt til nyt vindue">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  bookmarkAllTabs.label              "Bogmærk alle faneblade…">
@@ -161,23 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
 <!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Find flere tjenester til deling…">
-<!ENTITY sharePageCmd.label "Del denne side">
-<!ENTITY sharePageCmd.commandkey "D">
-<!ENTITY sharePageCmd.accesskey "D">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Del dette link">
-<!ENTITY shareLink.accesskey "l">
-<!ENTITY shareImage.label "Del dette billede">
-<!ENTITY shareImage.accesskey "D">
-<!ENTITY shareSelect.label "Del markering">
-<!ENTITY shareSelect.accesskey "D">
-<!ENTITY shareVideo.label "Del denne video">
-<!ENTITY shareVideo.accesskey "D">
-<!ENTITY feedsMenu2.label "Abonner på denne side">
+
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne side">
 <!ENTITY subscribeToPageMenuitem.label "Abonner på denne side…">
 <!ENTITY addCurPagesCmd.label "Bogmærk alle faneblade…">
@@ -243,14 +232,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Bogmærker">
 <!ENTITY bookmarksCmd.commandkey        "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bogmærker">
-<!ENTITY bookmarksMenuButton.other.label "Andre bogmærker">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobil-bogmærker">
-<!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanel">
+<!ENTITY bookmarksSubview.label             "Bogmærker">
+<!ENTITY bookmarksMenuButton2.label         "Bogmærke-menuen">
+<!ENTITY bookmarksMenuButton.other.label    "Andre bogmærker">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobil-bogmærker">
+<!ENTITY viewBookmarksSidebar2.label        "Vis bogmærker i sidepanel">
+<!ENTITY hideBookmarksSidebar.label         "Skjul bogmærker i sidepanel">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
+<!ENTITY hideBookmarksToolbar.label         "Skjul bogmærkelinjen">
 <!ENTITY searchBookmarks.label              "Søg i bogmærker">
-
-<!ENTITY containersMenu.label "Kontekster">
+<!ENTITY bookmarkingTools.label             "Bogmærke-værktøjer">
+<!ENTITY addBookmarksMenu.label             "Føj bogmærke-menuen til værktøjslinjen">
+<!ENTITY removeBookmarksMenu.label          "Fjern bogmærke-menuen fra værktølslinjen">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -268,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "s">
 
 <!ENTITY downloads.label              "Filhentning">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Filhentning">
 <!ENTITY downloads.accesskey          "F">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -349,7 +345,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Tilpas menu og værktøjslinjer">
 <!ENTITY appMenuCustomizeExit.label "Afslut tilpasning">
 <!ENTITY appMenuCustomizeExit.tooltip "Afslut tilpasning">
-<!ENTITY appMenuHistory.label "Historik">
 <!ENTITY appMenuHistory.showAll.label "Vis al historik">
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
@@ -561,7 +556,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bogmærk denne ramme">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY copyURLCmd.label             "Kopier URL">
+<!ENTITY pageAction.copyLink.label    "Kopier link">
+<!ENTITY copyURLFeedback.label        "Kopieret!">
 <!ENTITY emailPageCmd.label           "Send link…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gem side som…">
@@ -585,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "S">
 <!ENTITY emailVideoCmd.label          "Send video…">
 <!ENTITY emailVideoCmd.accesskey      "d">
-<!ENTITY castVideoCmd.label           "Send video til enhed">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Send lyd…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Aktiver dette plugin">
@@ -836,16 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "G">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Administrer tjenester…">
-
-<!ENTITY social.directory.label "Delings-tjenester">
-<!ENTITY social.directory.text "Du har ingen aktive delings-tjenester">
-<!ENTITY social.directory.button "Find tjenester">
-<!ENTITY social.directory.introText "Klik på en tjeneste for at føje den til &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Se flere">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Flere værktøjer og funktioner">
-<!ENTITY customizeMode.menuAndToolbars.empty "Ønsker du flere værktøjer?">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Træk dine foretrukne knapper over på værktøjslinjen eller &gt;&gt;-menuen.">
+<!ENTITY customizeMode.menuAndToolbars.empty "Vil du have flere værktøjer?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vælg mellem tusindvis af tilføjelser">
 <!ENTITY customizeMode.restoreDefaults "Gendan standarder">
 <!ENTITY customizeMode.done "Færdig">
@@ -931,8 +917,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Luk">
 
-<!ENTITY appMenuSidebars.label "Sidepaneler">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -979,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Hent en frisk kopi af &brandShorterName;">
 
-<!ENTITY updateRestart.message "Efter en hurtig genstart vil &brandShorterName; gendanne alle dine åbne faneblade og vinduer.">
+<!ENTITY updateRestart.message2 "Efter en hurtig genstart vil &brandShorterName; gendanne alle dine åbne faneblade og vinduer, der ikke er åbnet i privat browsing-tilstand.">
 <!ENTITY updateRestart.header.message2 "Genstart for at opdatere &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Genstart og gendan">
 <!ENTITY updateRestart.acceptButton.accesskey "G">
@@ -991,5 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Føj til adresselinjen">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinjen">
 
-<!ENTITY sendToDevice.label2 "Send til enhed">
+<!ENTITY pageAction.sendTabToDevice.label "Send faneblad til enhed">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
+
+<!ENTITY libraryButton.tooltip "Se historik, gemte bogmærker og andet">
