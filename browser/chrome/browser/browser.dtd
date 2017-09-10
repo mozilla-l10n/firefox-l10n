@@ -232,6 +232,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "বুকমার্ক">
+<!ENTITY bookmarksMenuButton2.label         "বুকমার্ক মেনু">
 <!ENTITY bookmarksMenuButton.other.label    "অন্যান্য বুকমার্ক">
 <!ENTITY bookmarksMenuButton.mobile.label   "মোবাইলের বুকমার্ক">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
@@ -256,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "ডাউনলোড">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ডাউনলোড">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
