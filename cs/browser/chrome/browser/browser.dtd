@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "h">
 
 <!ENTITY downloads.label              "Stahování">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Stahování">
 <!ENTITY downloads.accesskey          "t">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Přidat rám do záložek">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
-<!ENTITY copyURLCmd.label             "Kopírovat URL">
+<!ENTITY pageAction.copyLink.label    "Kopírovat odkaz">
 <!ENTITY copyURLFeedback.label        "Zkopírováno!">
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "e">
 <!ENTITY emailVideoCmd.label          "Poslat video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Poslat video do zařízení">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Poslat audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Spustit zásuvný modul">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Stáhnout novou verzi aplikace &brandShorterName;">
 
-<!ENTITY updateRestart.message "Po rychlém restartu obnoví &brandShorterName; všechny otevřené panely a okna.">
+<!ENTITY updateRestart.message2 "Po rychlém restartu &brandShorterName; obnoví všechna vaše otevřená okna a panely, která nejsou v režimu anonymního prohlížení.">
 <!ENTITY updateRestart.header.message2 "Restartovat a aktualizovat aplikaci &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restartovat a obnovit">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Přidat do adresního řádku">
 <!ENTITY pageAction.removeFromUrlbar.label "Odebrat z adresního řádku">
 
-<!ENTITY sendToDevice.label3 "Poslat stránku do zařízení">
+<!ENTITY pageAction.sendTabToDevice.label "Poslat panel do zařízení">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí historii, uložené záložky, a mnoho dalšího">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Funkce pro pro podporu přístupnosti jsou povoleny">
