@@ -976,6 +976,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Eemalda aadressiribalt">
 
 <!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
-<!ENTITY sendToDevice.syncNotReady.label "Toimub seadmete sünkroniseerimine…">
+<!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
