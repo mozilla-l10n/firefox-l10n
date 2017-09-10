@@ -13,6 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 53em; min-height: 42em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 41.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
 <!ENTITY  paneSearchResults.title       "Rezultati iskanja">
 <!ENTITY  paneGeneral.title             "Splošno">
 <!ENTITY  paneSearch.title              "Iskanje">

@@ -4,6 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "Pisave">
 
+<!ENTITY  fonts.label                             "Pisave za">
 
 <!ENTITY  size2.label                             "Velikost">
 <!ENTITY  sizeProportional.accesskey              "l">

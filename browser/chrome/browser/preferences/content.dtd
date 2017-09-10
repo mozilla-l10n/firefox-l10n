@@ -18,12 +18,14 @@
 <!ENTITY  notificationSettingsButton.label                      "Nastavitve …">
 <!ENTITY  notificationPermissionsLearnMore.label                "Več o tem">
 
+<!ENTITY  locationPermissions.label                             "Lokacija">
 <!ENTITY  locationSettingsButton.label                          "Nastavitve …">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Nastavitve …">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Nastavitve …">
 
 <!ENTITY  fontsAndColors.label        "Pisave in barve">
 
