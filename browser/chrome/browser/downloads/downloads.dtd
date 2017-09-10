@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "b">
 <!ENTITY cmd.showMac.label                "Zobraziť vo Finderi">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Otvoriť priečinok s prevzatými súbormi">
 <!ENTITY cmd.retry.label                  "Znova">
 <!ENTITY cmd.goToDownloadPage.label       "Prejsť na stránku so súborom">
 <!ENTITY cmd.goToDownloadPage.accesskey   "r">
