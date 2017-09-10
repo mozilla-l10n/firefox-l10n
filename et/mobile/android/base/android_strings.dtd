@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Tere tulemast!">
+<!ENTITY firstrun_panel_title_privacy "Privaatsus">
 <!ENTITY firstrun_bookmarks_title "Ajalugu">
 <!ENTITY firstrun_bookmarks_message "Sinu lemmikud, esiplaanil">
 <!ENTITY firstrun_bookmarks_subtext "Otsimisel kuvatakse tulemusi ajaloost ja järjehoidjatest.">
@@ -10,6 +11,7 @@
 <!ENTITY firstrun_data_message "Vähem andmeid, vähem vaja salvestada">
 <!ENTITY firstrun_data_subtext2 "Lülita pildid välja, et kasutada saitide sirvimisel vähem andmemahtu.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message2 "Jätka sealt, kus pooleli jäi.">
 <!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
 <!ENTITY firstrun_signin_button "Logi Synci sisse">
 <!ENTITY  onboard_start_button_browser "Alusta veebilehitsemist">
@@ -196,8 +198,6 @@
 <!ENTITY pref_category_advanced_summary3 "kaartide taastamine, andmemahu säästmine, arendaja tööriistad">
 <!ENTITY pref_category_notifications "Teavitused">
 <!ENTITY pref_category_notifications_summary "uus funktsionaalsus, veebilehe uuendused">
-<!ENTITY pref_content_notifications "Sisu uuendused">
-<!ENTITY pref_content_notifications_summary2 "avasta uut sisu saitidelt, mis seda võimalust toetavad">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
@@ -285,6 +285,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL kopeeritud">
 
 
 <!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
@@ -318,23 +319,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;Mitme lingi järjestikku avamiseks\&quot; aktiveeri palun &brandShortName;i jaoks \&apos;teiste äppide peal kuvamise\&apos; õigus">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "uuendati &formatD; veebilehte">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Sätted">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Vaata">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "viimati uuendatud &formatS;">
 
 <!ENTITY pref_char_encoding "Kodeeringu valik">
 <!ENTITY pref_char_encoding_on "kuvatakse menüüs">
@@ -392,6 +376,7 @@
 <!ENTITY pref_dialog_set_default "Määra vaikeväärtuseks">
 <!ENTITY pref_dialog_default "vaikeväärtus">
 <!ENTITY pref_dialog_remove "Eemalda">
+<!ENTITY pref_dialog_activitystream_visited "Külastatud">
 
 <!ENTITY pref_search_last_toast "Viimast otsingumootorit pole võimalik eemaldada ega keelata.">
 
@@ -482,6 +467,7 @@
 <!ENTITY contextmenu_open_private_tab "Ava privaatsel kaardil">
 <!ENTITY contextmenu_remove "Eemalda">
 <!ENTITY contextmenu_add_to_launcher "Lisa avaekraanile">
+<!ENTITY contextmenu_set_as_homepage "Määra avaleheks">
 <!ENTITY contextmenu_share "Jaga">
 <!ENTITY contextmenu_pasteandgo "Aseta ja mine">
 <!ENTITY contextmenu_paste "Aseta">
@@ -526,6 +512,7 @@
 <!ENTITY page_removed "Leht eemaldatud">
 
 <!ENTITY bookmark_edit_title "Järjehoidja muutmine">
+<!ENTITY bookmark_edit_folder_title "Kausta muutmine">
 <!ENTITY bookmark_edit_name "Nimi">
 <!ENTITY bookmark_edit_location "Asukoht">
 <!ENTITY bookmark_edit_keyword "Võtmesõna">
