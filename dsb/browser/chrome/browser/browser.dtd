@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "G">
 
 <!ENTITY downloads.label              "Ześěgnjenja">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Ześěgnjenja">
 <!ENTITY downloads.accesskey          "Z">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "b">
-<!ENTITY copyURLCmd.label             "URL kopěrowaś">
+<!ENTITY pageAction.copyLink.label    "Wótkaz kopěrowaś">
 <!ENTITY copyURLFeedback.label        "Kopěrowany!">
 <!ENTITY emailPageCmd.label           "Wótkaz e-mailowaś…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "b">
 <!ENTITY emailVideoCmd.label          "Wideo e-mailowaś…">
 <!ENTITY emailVideoCmd.accesskey      "m">
-<!ENTITY castVideoCmd.label           "Wideo na rěd pósłaś">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Awdiodataju e-mailowaś…">
 <!ENTITY emailAudioCmd.accesskey      "i">
 <!ENTITY playPluginCmd.label          "Toś ten tykac aktiwěrowaś">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Nowu kopiju &brandShorterName; ześěgnuś">
 
-<!ENTITY updateRestart.message "&brandShorterName; pó malsnem nowem starśe wše waše wócynjone rejtarki a wokna wobnowijo.">
+<!ENTITY updateRestart.message2 "&brandShorterName; pó malsnem znowegostartowanju swóje wócynjone rejtarki a wokna wótnowijo, kótarež njejsu w priwatnem modusu.">
 <!ENTITY updateRestart.header.message2 "Startujśo znowego, aby &brandShorterName; aktualizěrował.">
 <!ENTITY updateRestart.acceptButton.label "Znowego startowaś a wobnowiś">
 <!ENTITY updateRestart.acceptButton.accesskey "Z">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adresowemu póloju pśidaś">
 <!ENTITY pageAction.removeFromUrlbar.label "Z adresowego póla wótwónoźeś">
 
-<!ENTITY sendToDevice.label3 "Bok na rěd pósłaś">
+<!ENTITY pageAction.sendTabToDevice.label "Rejtark na rěd pósłaś">
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 
 <!ENTITY libraryButton.tooltip "Historiju, skłaźone cytańske znamjenja a wěcej pokazaś">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Funkcije bźezbariernosći zmóžnjone">
