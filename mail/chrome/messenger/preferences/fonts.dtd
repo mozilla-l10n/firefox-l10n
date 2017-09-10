@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsAndEncodingsDialog.title           "Fon &amp; Pengekodan">
+
+<!ENTITY  language.label                          "Fon untuk:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  size.label                              "Saiz:">
+<!ENTITY  sizeProportional.accesskey              "z">
+<!ENTITY  sizeMonospace.accesskey                 "i">
+
+<!ENTITY  proportional.label                      "Berkadaran:">
+<!ENTITY  proportional.accesskey                  "B">
+
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!-- Minimum font size -->
+
+<!-- default font type -->
+
+<!-- fonts in message -->
+
+<!-- Language settings -->
+
