@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "φ">
 <!ENTITY cmd.showMac.label                "Προβολή στο Finder">
 <!ENTITY cmd.showMac.accesskey            "ρ">
+<!ENTITY cmd.showDownloads.label          "Εμφάνιση φακέλου λήψεων">
 <!ENTITY cmd.retry.label                  "Επανάληψη">
 <!ENTITY cmd.goToDownloadPage.label       "Μετάβαση στη σελίδα λήψης">
 <!ENTITY cmd.goToDownloadPage.accesskey   "β">

@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "κ">
 
 <!ENTITY downloads.label              "Λήψεις">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Λήψεις">
 <!ENTITY downloads.accesskey          "ψ">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "δ">
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
-<!ENTITY copyURLCmd.label             "Αντιγραφή URL">
+<!ENTITY pageAction.copyLink.label    "Αντιγραφή συνδέσμου">
 <!ENTITY copyURLFeedback.label        "Αντιγράφτηκε!">
 <!ENTITY emailPageCmd.label           "Αποστολή συνδέσμου…">
 <!ENTITY emailPageCmd.accesskey       "λ">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "σ">
 <!ENTITY emailVideoCmd.label          "Αποστολή βίντεο…">
 <!ENTITY emailVideoCmd.accesskey      "σ">
-<!ENTITY castVideoCmd.label           "Αποστολή του βίντεο σε συσκευή">
-<!ENTITY castVideoCmd.accesskey       "β">
 <!ENTITY emailAudioCmd.label          "Αποστολή ήχου…">
 <!ENTITY emailAudioCmd.accesskey      "χ">
 <!ENTITY playPluginCmd.label          "Ενεργοποίηση αυτής της πρόσθετης λειτουργίας">
@@ -962,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Ο">
 <!ENTITY updateManual.panelUI.label "Λήψη μιας φρέσκιας έκδοσης του &brandShorterName;">
 
-<!ENTITY updateRestart.message "Μετά από μια σύντομη επανεκκίνηση, το &brandShorterName; θα επαναφέρει όλες τις ανοικτές καρτέλες και τα παράθυρά σας.">
 <!ENTITY updateRestart.header.message2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Επανεκκίνηση και επαναφορά">
 <!ENTITY updateRestart.acceptButton.accesskey "Ε">
@@ -974,13 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Προσθήκη στη γραμμή διευθύνσεων">
 <!ENTITY pageAction.removeFromUrlbar.label "Αφαίρεση από τη γραμμή διευθύνσεων">
 
-<!ENTITY sendToDevice.label3 "Αποστολή σελίδας σε συσκευή">
+<!ENTITY pageAction.sendTabToDevice.label "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
 
 <!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Οι λειτουργίες προσβασιμότητας ενεργοποιήθηκαν">
