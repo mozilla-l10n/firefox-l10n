@@ -30,4 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Tambah perkhidmatan storan Filelink yang baru">
 <!ENTITY removeCloudFileAccount.label     "Buang">
 <!ENTITY removeCloudFileAccount.accesskey "B">
+<!ENTITY authRequired.description         "Anda perlu beri kelulusan untuk dapat melihat tetapan perkhidmatan storan ini.">
+<!ENTITY authRequired.button.label        "Luluskan">
+<!ENTITY authRequired.button.accesskey    "L">
 
