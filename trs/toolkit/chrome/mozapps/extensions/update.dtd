@@ -2,27 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  updateWizard.title              "&brandShortName; Nagi'iaj nakà">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  offline.title                   "&brandShortName; sê ngà conexión ‘iaj sunt">
+<!ENTITY  offline.description             "&brandShortName; da’ui gātu riña línea da’ ga’ue ni’ia sisī nej sa nakàa
+                                           ngà huā man da’ ga’ue natū man nī gi’iaj sun man ngà
+                                           versión nan.">
 
 
 
@@ -34,5 +19,3 @@
 
 
 <!-- general strings used by several of the finish pages -->
-
-
