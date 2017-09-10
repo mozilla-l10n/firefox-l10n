@@ -13,6 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 44em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 44em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
 <!ENTITY  paneSearchResults.title       "Bilaketaren emaitzak">
 <!ENTITY  paneGeneral.title             "Orokorra">
 <!ENTITY  paneSearch.title              "Bilaketa">
@@ -24,8 +29,8 @@
 <!ENTITY  languageAndAppearance.label   "Hizkuntza eta itxura">
 <!ENTITY  filesAndApplications.label    "Fitxategiak eta aplikazioak">
 <!ENTITY  browserPrivacy.label          "Nabigatzailearen pribatutasuna">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox kontua">
 
 <!ENTITY  helpButton2.label        "&brandShortName; laguntza">

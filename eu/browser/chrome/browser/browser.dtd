@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Berritu fitxa guztiak">
 <!ENTITY  reloadAllTabs.accesskey            "B">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Bikoiztu fitxa">
+<!ENTITY  duplicateTab.accesskey             "B">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Deskargak">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Deskargak">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Kopiatu URLa">
+<!ENTITY pageAction.copyLink.label    "Kopiatu lotura">
 <!ENTITY copyURLFeedback.label        "Kopiatuta!">
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
@@ -574,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Bidali bideoa postaz…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Bidali bideoa gailura">
-<!ENTITY castVideoCmd.accesskey       "B">
 <!ENTITY emailAudioCmd.label          "Bidali audioa postaz…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktibatu plugin hau">
@@ -958,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "z">
 <!ENTITY updateManual.panelUI.label "Deskargatu &brandShorterName; nabigatzailearen kopia berri bat">
 
-<!ENTITY updateRestart.message "Berrabiarazi eta gero &brandShorterName;(e)k irekitako fitxak eta leihoak berrezarriko ditu.">
+<!ENTITY updateRestart.message2 "Berrabiarazi ondoren, nabigatze pribatuan ez dauden irekitako fitxa eta leiho guztiak berreskuratuko ditu &brandShorterName;(e)k.">
 <!ENTITY updateRestart.header.message2 "Berrabiarazi &brandShorterName; eguneratzeko.">
 <!ENTITY updateRestart.acceptButton.label "Berrabiarazi eta berreskuratu">
 <!ENTITY updateRestart.acceptButton.accesskey "B">
@@ -970,7 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Gehitu helbide-barran">
 <!ENTITY pageAction.removeFromUrlbar.label "Kendu helbide-barratik">
 
-<!ENTITY sendToDevice.label3 "Bidali orria gailura">
+<!ENTITY pageAction.sendTabToDevice.label "Bidali fitxa gailura">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
 
 <!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">
