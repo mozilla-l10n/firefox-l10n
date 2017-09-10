@@ -44,11 +44,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "s">
 <!ENTITY  unpinTab.label                     "Išsegti kortelę">
 <!ENTITY  unpinTab.accesskey                 "s">
-<!ENTITY  sendTabToDevice.label              "Nusiųsti kortelę į įrenginį">
+<!ENTITY  sendTabToDevice.label              "Siųsti kortelę į įrenginį">
 <!ENTITY  sendTabToDevice.accesskey          "r">
-<!ENTITY  sendPageToDevice.label             "Nusiųsti tinklalapį į įrenginį">
+<!ENTITY  sendPageToDevice.label             "Siųsti tinklalapį į įrenginį">
 <!ENTITY  sendPageToDevice.accesskey         "r">
-<!ENTITY  sendLinkToDevice.label             "Nusiųsti saitą į įrenginį">
+<!ENTITY  sendLinkToDevice.label             "Siųsti saitą į įrenginį">
 <!ENTITY  sendLinkToDevice.accesskey         "r">
 <!ENTITY  sendToDeviceFeedback.label         "Išsiųsta!">
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
