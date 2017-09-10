@@ -27,6 +27,7 @@
 <!ENTITY  history.label                 "ইতিহাস">
 <!ENTITY  permissions.label             "অনুমতি">
 
+<!ENTITY  addressBar.label              "ঠিকানা বার">
 <!ENTITY  locbar.history2.label         "ব্রাউজিং ইতিহাস">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
@@ -40,14 +41,12 @@
 
 <!ENTITY  acceptCookies2.accesskey      "A">
 
-<!ENTITY  acceptThirdParty.pre.label      "তৃতীয়-পক্ষের কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "সর্বদা">
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
 
-<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল: u">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "তাদের মেয়াদ উত্তীর্ণ হয়েছে">
 <!ENTITY  close.label                   "আমি &brandShortName; বন্ধ করি">
@@ -104,3 +103,6 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "সেটিং">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "আরও জানুন">
