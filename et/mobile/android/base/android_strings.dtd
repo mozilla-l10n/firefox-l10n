@@ -222,6 +222,7 @@
 <!ENTITY pref_category_home_homepage "Avaleht">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Kuvatakse ka uue kaardi avamisel">
 <!ENTITY home_homepage_title "Avalehe määramine">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -292,9 +293,11 @@
 <!ENTITY pref_custom_tabs_summary3 "Kolmanda osapoole äppidel lubatakse veebilehti avada kohandatud &brandShortName;i versiooniga">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Ava brauseris &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL kopeeritud">
 
+<!ENTITY pref_pwa_summary "Veebirakenduste lisamine avaekraanile lubatakse">
 
 <!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
 <!ENTITY tracking_protection_prompt_text "Tegevust jälitavad elemendid blokitakse automaatselt, nii et sina ei pea muretsema.">
@@ -344,6 +347,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Kasutatakse süsteemi fondi suurust">
+<!ENTITY pref_use_system_font_size_summary "Veebisisu skaleeritakse vastavalt süsteemi fondi suurusele">
 
 <!ENTITY pref_media_autoplay_enabled "Automaatne esitamine">
 <!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed tohivad videoid ja muud meediat automaatselt esitada?">
@@ -384,6 +389,7 @@
 <!ENTITY pref_dialog_set_default "Määra vaikeväärtuseks">
 <!ENTITY pref_dialog_default "vaikeväärtus">
 <!ENTITY pref_dialog_remove "Eemalda">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Hiljutised järjehoidjad">
 <!ENTITY pref_dialog_activitystream_visited "Külastatud">
 
 <!ENTITY pref_search_last_toast "Viimast otsingumootorit pole võimalik eemaldada ega keelata.">
@@ -524,6 +530,7 @@
 <!ENTITY bookmark_edit_name "Nimi">
 <!ENTITY bookmark_edit_location "Asukoht">
 <!ENTITY bookmark_edit_keyword "Võtmesõna">
+<!ENTITY bookmark_select_folder "Kausta valimine">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -599,6 +606,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sait kinnitati">
+<!ENTITY home_unpinned_site "Kohakinnitus eemaldati">
 
 <!ENTITY remote_tabs_panel_moved_title "Kuhu mu kaardid kadusid?">
 <!ENTITY remote_tabs_panel_moved_desc "Me liigutasime sinu teiste seadmete kaardid eraldi avalehe paneelile, millele pääsed lihtsalt ligi uue kaardi avamisel.">
@@ -807,6 +816,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Top saidid">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket;i poolt soovitatud">
 <!ENTITY activity_stream_highlights "Esiletõstetud">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -816,11 +826,15 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Külastatud">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Menukad">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Alusta veebilehitsemist ja me näitame siin häid artikleid, videoid ja muid lehti, mida hiljuti külastasid või järjehoidjatesse lisasid.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Eemalda">
 <!ENTITY activity_stream_delete_history "Kustuta ajaloost">
 
+<!ENTITY private_tab_panel_title "Privaatne veebilehitsemine jälitamisvastase kaitsega">
 
