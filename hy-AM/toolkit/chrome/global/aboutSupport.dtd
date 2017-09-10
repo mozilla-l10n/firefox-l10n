@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Անսարքության տեղեկատվությունը">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Այս էջը պարունակում է տեխնիկական ինֆորմացիա, որը կարող է օգտակար լինել, երբ դուք փորձում եք լուծել խնդիրը:Եթե դուք փնտրում եք &brandShortName;-ին վերաբերող ընդհանուր հարցերին պատասխաններ,փորձեք մեր <a id='supportLink'> աջակցող կայքը </a>:">
 
 <!ENTITY aboutSupport.crashes.title "Վթարի զեկույցներ">
@@ -15,16 +15,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Վթարի բոլոր զեկույցները">
 <!ENTITY aboutSupport.crashes.noConfig "Ծրագիրը կարգավորված չէ ցուցադրելու վթարի զեկույցները:">
 
-<!ENTITY aboutSupport.extensionsTitle "Հավելումներ">
+<!ENTITY aboutSupport.extensionsTitle "Ընդլայնումներ">
 <!ENTITY aboutSupport.extensionName "Անուն">
 <!ENTITY aboutSupport.extensionEnabled "Միացված է">
 <!ENTITY aboutSupport.extensionVersion "Տարբերակ">
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName;-ի յուրահատկություններ">
-
-
-
 
 <!ENTITY aboutSupport.experimentsTitle "Փորձարարական հատկություններ">
 <!ENTITY aboutSupport.experimentName "Անուն">
@@ -39,9 +36,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Անուն">
 <!ENTITY aboutSupport.appBasicsVersion "Տարբերակ">
 <!ENTITY aboutSupport.appBasicsBuildID "Կառուցման ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Թարմացումների աղբյուր">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Թարմացումների մատյան">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Ցուցադրել Թարմացումների Պատմությունը">
@@ -58,8 +55,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Հիշողության ծավալ">
 <!ENTITY aboutSupport.appBasicsPerformance "Արտադրողականություն">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Գրանցված Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Պրոֆիլներ">
@@ -84,8 +81,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Փոփոխված կարևոր կարգավորումներ">
 <!ENTITY aboutSupport.modifiedPrefsName "Անուն">
 <!ENTITY aboutSupport.modifiedPrefsValue "Արժեքը">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js-ի կարգավորումներ">
 <!ENTITY aboutSupport.userJSDescription "Ձեր պրոֆիլի թղթապանակը պարունակում է<a id='prefs-user-js-link'>user.js ֆայլ</a>, որը ներառում է կարգավորումներ, որոնք չեն ստեղծվել &brandShortName;-ի կողմից։">
 
@@ -105,8 +102,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Մատչելիություն">
 <!ENTITY aboutSupport.a11yActivated "Ակտիվացված է">
 <!ENTITY aboutSupport.a11yForceDisabled "Կանխել հասանելիությունը">
-
-
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Շտեմարանների տարբերակը">
 
@@ -137,15 +132,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Որոշման մատյան">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Վթարի պաշտպանի անջատած յուրահատկություններ">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Շրջանցիկներ">
-
-
-
-
-
-
-
-
-
-
-
 

@@ -26,12 +26,12 @@
 <!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
 <!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
 
-<!ENTITY showUnsignedExtensions.button.label  "Որոշ հավելումներ չեն կարող ստուգվել:">
+<!ENTITY showUnsignedExtensions.button.label  "Որոշ ընդլայնումներ չեն կարող ստուգվել:">
 <!ENTITY showAllExtensions.button.label       "Ցուցադրել բոլորը">
 <!ENTITY debugAddons.label                    "Վրիպազերծել հավելումները">
 <!ENTITY debugAddons.accesskey                "պ">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Ապահով կերպը պասիվացրել է բոլոր հավելումները:">
 <!ENTITY warning.checkcompatibility.label          "Հավելումների համատեղելիության ստուգումը պասիվ է: Դուք կարող էք ունենալ անհամատեղելի հավելումներ:">
 <!ENTITY warning.checkcompatibility.enable.label   "Միացնել">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:">
 <!ENTITY warning.updatesecurity.enable.label       "Միացնել">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Միացնել հավելման թարմացման անվտանգության ստուգումը">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Որոնում">
 <!ENTITY view.discover.label                  "Ձեռք բերել հավելումներ">
 <!ENTITY view.recentUpdates.label             "Վերջին Թարմացումները">
 <!ENTITY view.availableUpdates.label          "Առկա Թարմացումներ">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Ստուգել թարմացումները">
 <!ENTITY updates.checkForUpdates.accesskey    "Ս">
 <!ENTITY updates.viewUpdates.label            "Տեսնել Վերջին Թարմացումները">
@@ -74,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Տեսնել Առկա Թարմացումները">
 <!ENTITY updates.updateSelected.label         "Տեղադրել Թարմացումները">
 <!ENTITY updates.updateSelected.tooltip       "Տեղադրում է այս ցանկում առկա թարմացումները:">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Ցուցադրել մանրամասն տեղեկություն">
 <!ENTITY cmd.showDetails.accesskey            "Ց">
 <!ENTITY cmd.findUpdates.label                "Գտնել թարմացումներ">
@@ -122,12 +122,11 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Ի՞նչ են իրենցից ներկայացնում հավելումները:">
 <!ENTITY discover.description2                "Հավելումները կիրառություններ են, որոնք ձեզ թույլ են տալիս անհատականացնել &brandShortName;-ը  առավել ֆունցիոնալությամբ կամ ոճով: Փորձեք ժամանակ տնտեսող վահանակը, եղանակի տեղեկատուն կամ այլ թեմատիկ տեսք` &brandShortName;-ը ձեր սեփականը դարձնելու համար:   ">
 <!ENTITY discover.footer                      "Երբ դուք մուտք գործեք համացանց, այս վահանակը կցուցադրի լավագույն և ամենատարածված հավելումները, որպեսզի դուք դրանք փորձարկեք:">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Տարբերակ">
 <!ENTITY detail.lastupdated.label             "Վերջին Թարմացումը">
 <!ENTITY detail.creator.label                 "Ծրագրավորում">
@@ -156,17 +155,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Նախընտրանքներ">
 <!ENTITY detail.showPreferencesUnix.accesskey "Ն">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Փոփոխել այս հավելման նախընտրանքները">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Վարկանիշ">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ընդմիջել">
 <!ENTITY progress.cancel.tooltip              "Զրոյացնել">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Անուն">
 <!ENTITY sort.name.tooltip                    "Դասավորել ըստ անվան">
 <!ENTITY sort.dateUpdated.label               "Վերջին Թարմացումը">
@@ -189,7 +188,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "ԺԱՌԱՆԳՈՒԹՅՈՒՆ">
+<!ENTITY addon.legacy.label                   "ՀՆԱՑԱԾ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -223,12 +222,12 @@
 <!ENTITY eula.accept                          "Ընդունել և Տեղադրել...">
 
 <!ENTITY settings.path.button.label           "Ընտրել…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Ի՞նչ է սա: Telemetry-ին կարող է տեղակայել և ժամանակ առ ժամանակ կատարել փորձեր:">
 <!ENTITY experiment.info.learnmore "Իմանալ ավելին">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -255,7 +254,8 @@
 <!ENTITY pluginDeprecation.description "Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
 <!ENTITY pluginDeprecation.learnMore "Իմանալ ավելին:">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Ինչ-որ բան բացակայո՞ւմ է: Որոշ ընդլայնումներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
+<!ENTITY legacyWarning.showLegacy "Ցուցադրել հնացած ընդլայնումները">
+<!ENTITY legacyExtensions.title "Հնացած ընդլայնումներ">
+<!ENTITY legacyExtensions.description "Այս ընդլայնումները չեն համապատասխանում &brandShortName;-ի պահանջներին և ապաակտիվացվել են:">
+<!ENTITY legacyExtensions.learnMore "Իմանալ ավելին հավելումների փոփոխությունների մասին">
