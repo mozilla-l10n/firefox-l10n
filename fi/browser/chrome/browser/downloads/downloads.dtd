@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "A">
 <!ENTITY cmd.showMac.label                "Avaa Finderissa">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Näytä latauskansio">
 <!ENTITY cmd.retry.label                  "Yritä uudestaan">
 <!ENTITY cmd.goToDownloadPage.label       "Avaa lataussivu">
 <!ENTITY cmd.goToDownloadPage.accesskey   "l">

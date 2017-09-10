@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "P">
 <!ENTITY  reloadAllTabs.label                "Päivitä kaikki välilehdet">
 <!ENTITY  reloadAllTabs.accesskey            "ä">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +259,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Lataukset">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Lataukset">
 <!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +554,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "A">
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
-<!ENTITY copyURLCmd.label             "Kopioi osoite">
+<!ENTITY pageAction.copyLink.label    "Kopioi linkki">
 <!ENTITY copyURLFeedback.label        "Kopioitu!">
 <!ENTITY emailPageCmd.label           "Lähetä linkki…">
 <!ENTITY emailPageCmd.accesskey       "L">
@@ -574,8 +579,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "L">
 <!ENTITY emailVideoCmd.label          "Lähetä video…">
 <!ENTITY emailVideoCmd.accesskey      "L">
-<!ENTITY castVideoCmd.label           "Siirrä video laitteelle">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Lähetä äänite…">
 <!ENTITY emailAudioCmd.accesskey      "L">
 <!ENTITY playPluginCmd.label          "Käynnistä liitännäinen">
@@ -958,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "E">
 <!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
 
-<!ENTITY updateRestart.message "Nopean uudelleenkäynnistyksen jälkeen &brandShorterName; palauttaa kaikki auki olevat välilehdet ja ikkunat.">
 <!ENTITY updateRestart.header.message2 "Päivitä &brandShorterName; käynnistämällä se uudestaan.">
 <!ENTITY updateRestart.acceptButton.label "Käynnistä uudestaan ja palauta">
 <!ENTITY updateRestart.acceptButton.accesskey "K">
@@ -970,7 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Lisää osoitepalkkiin">
 <!ENTITY pageAction.removeFromUrlbar.label "Poista osoitepalkista">
 
-<!ENTITY sendToDevice.label3 "Lähetä sivu laitteeseen">
+<!ENTITY pageAction.sendTabToDevice.label "Lähetä välilehti laitteeseen">
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
 
 <!ENTITY libraryButton.tooltip "Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta">
