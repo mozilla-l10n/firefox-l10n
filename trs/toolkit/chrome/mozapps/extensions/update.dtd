@@ -8,7 +8,10 @@
 <!ENTITY  offline.description             "&brandShortName; da’ui gātu riña línea da’ ga’ue ni’ia sisī nej sa nakàa
                                            ngà huā man da’ ga’ue natū man nī gi’iaj sun man ngà
                                            versión nan.">
+<!ENTITY  offline.toggleOffline.label     "Ngà nūnt riña línea hìaj.">
+<!ENTITY  offline.toggleOffline.accesskey "G">
 
+<!ENTITY  mismatch.win.title              "Sê nej sa aran’ ngà nan huin">
 
 
 
