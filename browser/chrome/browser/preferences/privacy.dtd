@@ -35,8 +35,8 @@
 
 <!ENTITY  addressBar.label              "Panel s adresou">
 <!ENTITY  addressBar.suggest.label      "Pri používaní panela s adresou ponúkať">
-<!ENTITY  locbar.history2.label         "História prehliadania">
-<!ENTITY  locbar.history2.accesskey     "H">
+<!ENTITY  locbar.history2.label         "históriu prehliadania">
+<!ENTITY  locbar.history2.accesskey     "h">
 <!ENTITY  locbar.bookmarks.label        "záložky">
 <!ENTITY  locbar.bookmarks.accesskey    "z">
 <!ENTITY  locbar.openpage.label         "otvorené karty">
