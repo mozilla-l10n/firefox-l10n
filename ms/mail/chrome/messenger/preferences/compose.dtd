@@ -26,9 +26,43 @@
 <!ENTITY bgColor.accesskey                    "L">
 <!ENTITY restoreHTMLDefaults.label            "Pulih Piawai">
 <!ENTITY restoreHTMLDefaults.accesskey        "P">
+<!ENTITY defaultToParagraph.label             "Guna format Perenggan secara piawai, bukan Teks Kandungan">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
+<!ENTITY spellCheck.label                     "Semak ejaan sebelum hantar">
+<!ENTITY spellCheck.accesskey                 "S">
+<!ENTITY spellCheckInline.label               "Aktifkan menyemak ejaan semasa menaip">
+<!ENTITY spellCheckInline1.accesskey          "A">
+<!ENTITY languagePopup.label                  "Bahasa:">
+<!ENTITY languagePopup.accessKey              "B">
+<!ENTITY downloadDictionaries.label           "Muat turun Kamus Lain">
 
+<!ENTITY warnOnSendAccelKey.label             "Sahkan dahulu sebelum menghantar mesej apabila menggunakan pintasan papan kekunci">
+<!ENTITY warnOnSendAccelKey.accesskey         "S">
+<!ENTITY autoSave.label                       "Auto Simpan setiap">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "minit">
 
+<!ENTITY emailCollectionPicker.label           "Tambah secara automatik alamat e-mel keluar ke:">
+<!ENTITY emailCollectionPicker.accesskey       "T">
+<!ENTITY addressingTitle.label                 "Alamat Auto-lengkap">
 <!ENTITY autocompleteText.label                "Apabila mengalamatkan mesej, cari entri yang sepadan dalam:">
+<!ENTITY addressingEnable.label                "Buku Alamat Lokal">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Pelayan Direktori:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY directoriesNone.label                 "Tiada">
+<!ENTITY editDirectories.label                 "Edit Direktori…">
+<!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "Direktori permulaan piawai dalam tetingkap buku alamat:">
+<!ENTITY showAsDefault.accesskey               "D">
+<!ENTITY showAsDefaultLast.label               "Direktori terkini digunakan">
 
+<!ENTITY sendOptionsDescription.label          "Tetapkan tatalaku format teks">
+<!ENTITY sendOptions.label                     "Pilihan Hantar…">
+<!ENTITY sendOptions.accesskey                 "H">
 
+<!ENTITY attachmentReminder.label              "Semak lampiran yang hilang">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Kata kunci…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
