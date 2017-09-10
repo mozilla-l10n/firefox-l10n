@@ -14,8 +14,13 @@
 <!ENTITY  systemTypeRadio.accesskey     "i">
 <!ENTITY  WPADTypeRadio.label           "Otomatis mendeteksi pengaturan proxy untuk jaringan ini">
 <!ENTITY  WPADTypeRadio.accesskey       "O">
+<!ENTITY  manualTypeRadio2.label        "Konfigurasi proksi manual">
+<!ENTITY  autoTypeRadio2.label          "URL konfigurasi proksi otomatis">
 <!ENTITY  reload.label                  "Muat ulang">
 <!ENTITY  reload.accesskey              "u">
+<!ENTITY  ftp2.label                    "Proksi FTP">
+<!ENTITY  http2.label                   "Proksi HTTP">
+<!ENTITY  ssl2.label                    "Proksi SSL">
 <!ENTITY  ssl2.accesskey                "L">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
@@ -23,6 +28,7 @@
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS proxy saat menggunakan SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
