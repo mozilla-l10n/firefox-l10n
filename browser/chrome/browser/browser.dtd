@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "к">
 
 <!ENTITY downloads.label              "Жүктемелер">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Жүктемелер">
 <!ENTITY downloads.accesskey          "Ж">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "у">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "л">
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "г">
-<!ENTITY copyURLCmd.label             "Сілтемесін көшіріп алу">
+<!ENTITY pageAction.copyLink.label    "Сілтемені көшіріп алу">
 <!ENTITY copyURLFeedback.label        "Көшірілді!">
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 <!ENTITY emailPageCmd.accesskey       "С">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "у">
 <!ENTITY emailVideoCmd.label          "Видеоны эл. поштамен жіберу…">
 <!ENTITY emailVideoCmd.accesskey      "В">
-<!ENTITY castVideoCmd.label           "Видеоны құрылғыға жіберу">
-<!ENTITY castVideoCmd.accesskey       "е">
 <!ENTITY emailAudioCmd.label          "Аудионы эл. поштамен жіберу…">
 <!ENTITY emailAudioCmd.accesskey      "А">
 <!ENTITY playPluginCmd.label          "Бұл плагинді белсендіру">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "м">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; жаңа нұсқасын жүктеп алыңыз">
 
-<!ENTITY updateRestart.message "Жылдам қайта іске қосылудан кейін, &brandShorterName; сіздің ашық беттер мен терезелеріңізді қалпына келтіреді.">
+<!ENTITY updateRestart.message2 "Жылдам қайта іске қосылудан кейін, &brandShorterName; Жекелік шолу режиміндегі емес сіздің барлық ашық беттер мен терезелеріңізді қалпына келтіреді.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; жаңарту үшін қайта іске қосу.">
 <!ENTITY updateRestart.acceptButton.label "Қайта іске қосу және қалпына келтіру">
 <!ENTITY updateRestart.acceptButton.accesskey "т">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Адрес жолағына қосу">
 <!ENTITY pageAction.removeFromUrlbar.label "Адрес жолағынан алып тастау">
 
-<!ENTITY sendToDevice.label3 "Парақты құрылғыға жіберу">
+<!ENTITY pageAction.sendTabToDevice.label "Бетті құрылғыға жіберу">
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
 
 <!ENTITY libraryButton.tooltip "Тарихты, сақталған бетбелгілерді қарау және т.б.">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Қолжетерлілік мүмкіндіктері іске қосылған">

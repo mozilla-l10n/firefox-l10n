@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "а">
 <!ENTITY cmd.showMac.label                "Finder ішінен көрсету">
 <!ENTITY cmd.showMac.accesskey            "ш">
+<!ENTITY cmd.showDownloads.label          "Жүктемелер бумасын көрсету">
 <!ENTITY cmd.retry.label                  "Қайталау">
 <!ENTITY cmd.goToDownloadPage.label       "Жүктемелер парағына өту">
 <!ENTITY cmd.goToDownloadPage.accesskey   "Ж">
