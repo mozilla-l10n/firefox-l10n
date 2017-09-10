@@ -963,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "P">
 <!ENTITY updateManual.panelUI.label "Télécharger &brandShorterName; à nouveau">
 
+<!ENTITY updateRestart.message2 "Après un rapide redémarrage, &brandShorterName; restaurera l’ensemble de vos onglets et fenêtres qui n’étaient pas en mode de navigation privée.">
 <!ENTITY updateRestart.header.message2 "Redémarrez pour mettre à jour &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Redémarrer et restaurer">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
