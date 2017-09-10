@@ -12,12 +12,15 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Pelayan kumpulan berita tidak dapat mencari artikel.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+<!ENTITY serverResponded.title "Pelayan kumpulan berita memberikan respons:">
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
+<!ENTITY articleExpired.title "Mungkin artikel sudah lapuk?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
