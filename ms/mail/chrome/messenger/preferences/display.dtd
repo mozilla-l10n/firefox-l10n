@@ -54,6 +54,20 @@
 
 <!ENTITY autoMarkAsRead.label             "Tandakan mesej secara automatik sebagai sudah dibaca">
 <!ENTITY autoMarkAsRead.accesskey         "T">
+<!ENTITY markAsReadNoDelay.label          "Serta-merta apabila dipaparkan">
+<!ENTITY markAsReadNoDelay.accesskey      "r">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Selepas dipaparkan selama">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "saat">
+<!ENTITY openMsgIn.label                  "Buka mesej dalam:">
+<!ENTITY openMsgInNewTab.label            "Tab baru">
+<!ENTITY openMsgInNewTab.accesskey        "b">
+<!ENTITY reuseExpRadio0.label             "Tetingkap mesej baru">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Tetingkap mesej sedia ada">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Tutup tetingkap/tab mesej apabila dipindahkan atau dibuang">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "T">
