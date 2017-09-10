@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "A">
 <!ENTITY cmd.showMac.label                "Näita Finderis">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Kuva allalaadimiste kausta">
 <!ENTITY cmd.retry.label                  "Proovi uuesti">
 <!ENTITY cmd.goToDownloadPage.label       "Mine allalaadimise lehele">
 <!ENTITY cmd.goToDownloadPage.accesskey   "M">
