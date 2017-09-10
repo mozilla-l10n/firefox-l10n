@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Vlasnik:">
 <!ENTITY  securityView.identity.domain   "Web stranica:">
 <!ENTITY  securityView.identity.verifier "Ovjerio:">
-
+<!ENTITY  securityView.identity.validity "Ističe:">
 
 <!ENTITY  securityView.privacy.header                   "Privatnost &amp; Historija">
 <!ENTITY  securityView.privacy.history                  "Da li sam posjetio ovu web stranicu ranije danas?">
