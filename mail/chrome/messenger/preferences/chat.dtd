@@ -27,4 +27,16 @@ sentence. -->
 <!ENTITY  desktopChatNotifications.label      "Papar notifikasi:">
 <!ENTITY  desktopChatNotifications.accesskey  "s">
 <!ENTITY  completeNotification.label          "dengan nama pengirim dan previu mesej">
+<!ENTITY  buddyInfoOnly.label                 "dengan nama pengirim sahaja">
+<!ENTITY  dummyNotification.label             "tanpa sebarang info">
+<!ENTITY  chatSound.accesskey                 "i">
+<!ENTITY  chatSound.label                     "Mainkan bunyian">
+<!ENTITY  play.label                          "Main">
+<!ENTITY  play.accesskey                      "M">
+<!ENTITY  systemSound.label                   "Bunyian sistem piawai untuk mel baru">
+<!ENTITY  systemSound.accesskey               "B">
+<!ENTITY  customsound.label                   "Gunakan fail bunyian berikut">
+<!ENTITY  customsound.accesskey               "G">
+<!ENTITY  browse.label                        "Cari…">
+<!ENTITY  browse.accesskey                    "C">
 
