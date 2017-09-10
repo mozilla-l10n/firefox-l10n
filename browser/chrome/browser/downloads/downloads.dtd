@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "C">
 <!ENTITY cmd.showMac.label                "W programje Finder pokazaś">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Zarědnik ześěgnjenjow pokazaś">
 <!ENTITY cmd.retry.label                  "Hyšći raz wopytaś">
 <!ENTITY cmd.goToDownloadPage.label       "K bokoju ześěgnjenja">
 <!ENTITY cmd.goToDownloadPage.accesskey   "b">
