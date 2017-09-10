@@ -25,11 +25,8 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Masukkan informasi tentang modul yang ingin ditambahkan.">
-<!ENTITY loaddevice.modname                     "Nama modul:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname2                    "Nama Modul">
 <!ENTITY loaddevice.modname.default             "Modul baru PKCS#11">
-<!ENTITY loaddevice.filename                    "Nama berkas modul:">
-<!ENTITY loaddevice.filename.accesskey          "m">
 <!ENTITY loaddevice.browse                      "Telusuri…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
