@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सभी सहयुक्तियों के लिए औज़ार">
 
+<!ENTITY getThemes.description                "अपने ब्राउज़र को निजीकृत करने का सोंच रहे हैं?">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">

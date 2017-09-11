@@ -22,4 +22,6 @@
 <!ENTITY aboutUrlClassifier.debugTitle                  "दोषसुधार">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "लॉग मॉड्यूल सेट करें">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "लॉग फ़ाइल सेट करें">
+<!ENTITY aboutUrlClassifier.debugModules                "वर्तमान लॉग मॉड्यूल:">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "सुरक्षित ब्राउजिंग Js लॉग">
 <!ENTITY aboutUrlClassifier.debugFile                   "वर्तमान लॉग फ़ाइल">
