@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "ک">
 
 <!ENTITY downloads.label              "بارگیری‌ها">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "بارگیری‌ها">
 <!ENTITY downloads.accesskey          "ب">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
-<!ENTITY copyURLCmd.label             "رونوشت از نشانی وب">
+<!ENTITY pageAction.copyLink.label    "رونوشت پیوند">
 <!ENTITY copyURLFeedback.label        "برداشت شد!">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
 <!ENTITY emailPageCmd.accesskey       "ا">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ع">
 <!ENTITY emailVideoCmd.label          "ایمیل کردن صدا...">
 <!ENTITY emailVideoCmd.accesskey      "ا">
-<!ENTITY castVideoCmd.label           "ارسال ویدیو به دستگاه">
-<!ENTITY castVideoCmd.accesskey       "ا">
 <!ENTITY emailAudioCmd.label          "ایمیل کردن صدا...">
 <!ENTITY emailAudioCmd.accesskey      "ی">
 <!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
@@ -962,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ا">
 <!ENTITY updateManual.panelUI.label "دریافت یک برداشت تازه از &brandShorterName;">
 
-<!ENTITY updateRestart.message "بعد از یک راه‌اندازی مجدد کوچک، &brandShorterName; تمام زبانه‌ها پنجره‌ها را بازآوری خواهد کرد.">
 <!ENTITY updateRestart.header.message2 "برای بروزرسانی &brandShorterName; را مجددا راه‌اندازی کنید.">
 <!ENTITY updateRestart.acceptButton.label "راه‌اندازی مجدد و بازآوری">
 <!ENTITY updateRestart.acceptButton.accesskey "ر">
@@ -974,13 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "اضافه کردن به نوار آدرس">
 <!ENTITY pageAction.removeFromUrlbar.label "حذف از نوار آدرس">
 
-<!ENTITY sendToDevice.label3 "ارسال صفحه به دستگاه">
+<!ENTITY pageAction.sendTabToDevice.label "ارسال زبانه به دستگاه">
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">
 
 <!ENTITY libraryButton.tooltip "نمایش تاریخچه، نشانک‌های ذخیره شده و بیشتر">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "ویژیگی دسترس پذیری فعال شده است">
