@@ -237,7 +237,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "অন্যান্য বুকমার্ক">
 <!ENTITY bookmarksMenuButton.mobile.label   "মোবাইলের বুকমার্ক">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
+<!ENTITY hideBookmarksSidebar.label         "বুকমার্ক সাইডবার লুকাও">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
+<!ENTITY hideBookmarksToolbar.label         "বুকমার্ক টুলবার লুকাও">
 <!ENTITY searchBookmarks.label              "বুকমার্ক অনুসন্ধান">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -551,6 +553,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "এই ফ্রেম বুকমার্ক করা হবে">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "লিঙ্ক অনুলিপি">
+<!ENTITY copyURLFeedback.label        "অনুলিপি করা হয়েছে!">
 <!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "পাতা নতুনভাবে সংরক্ষণ…">
