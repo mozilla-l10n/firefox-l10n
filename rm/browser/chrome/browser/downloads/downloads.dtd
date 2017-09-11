@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "o">
 <!ENTITY cmd.showMac.label                "Mussar en il finder">
 <!ENTITY cmd.showMac.accesskey            "f">
+<!ENTITY cmd.showDownloads.label          "Mussar l'ordinatur da telechargiadas">
 <!ENTITY cmd.retry.label                  "Empruvar anc ina giada">
 <!ENTITY cmd.goToDownloadPage.label       "Ir a la pagina da telechargiar">
 <!ENTITY cmd.goToDownloadPage.accesskey   "t">

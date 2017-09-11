@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "s">
 
 <!ENTITY downloads.label              "Telechargiadas">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Telechargiadas">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agiuntar in segnapagina per il frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
-<!ENTITY copyURLCmd.label             "Copiar l'URL">
+<!ENTITY pageAction.copyLink.label    "Copiar la colliaziun">
 <!ENTITY copyURLFeedback.label        "Copià!">
 <!ENTITY emailPageCmd.label           "Trametter la colliaziun per e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Trametter il video per e-mail…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Trametter il video ad in apparat">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Trametter l'audio per e-mail…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activar quest plug-in">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "B">
 <!ENTITY updateManual.panelUI.label "Telechargiar ina copia frestga da &brandShorterName;">
 
-<!ENTITY updateRestart.message "Suenter avair reavià &brandShorterName; vegnan ils tabs e las fanestras avertas restauradas.">
+<!ENTITY updateRestart.message2 "Suenter reaviar restaurescha &brandShorterName; tut tes tabs e tias fanestras avertas che n'èn betg en il modus privat.">
 <!ENTITY updateRestart.header.message2 "Reaviar per actualisar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reaviar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Agiuntar a la trav d'adressas">
 <!ENTITY pageAction.removeFromUrlbar.label "Allontanar da la trav d'adressas">
 
-<!ENTITY sendToDevice.label3 "Trametter la pagina ad in apparat">
+<!ENTITY pageAction.sendTabToDevice.label "Trametter il tab ad in apparat">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
 
 <!ENTITY libraryButton.tooltip "Mussar la cronologia, ils segnapaginas e dapli">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Activà las funcziuns d'accessibilitad">
