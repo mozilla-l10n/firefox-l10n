@@ -143,5 +143,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "দল">
 <!ENTITY aboutSupport.mediaDeviceVendor "বিক্রেতা">
 <!ENTITY aboutSupport.mediaDeviceState "অবস্থা">
+<!ENTITY aboutSupport.mediaDevicePreferred "অধিকতর পছন্দ">
 <!ENTITY aboutSupport.mediaDeviceFormat "ফরম্যাট">
 <!ENTITY aboutSupport.mediaDeviceChannels "চ্যানেল">
+<!ENTITY aboutSupport.mediaDeviceRate "মূল্যায়ন করুন">
+<!ENTITY aboutSupport.mediaDeviceLatency "যোজনী">
