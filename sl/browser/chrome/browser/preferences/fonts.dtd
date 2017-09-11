@@ -5,10 +5,11 @@
 <!ENTITY  fontsDialog.title                       "Pisave">
 
 <!ENTITY  fonts.label                             "Pisave za">
+<!ENTITY  fonts.accesskey                         "P">
 
 <!ENTITY  size2.label                             "Velikost">
-<!ENTITY  sizeProportional.accesskey              "l">
-<!ENTITY  sizeMonospace.accesskey                 "i">
+<!ENTITY  sizeProportional.accesskey              "V">
+<!ENTITY  sizeMonospace.accesskey                 "k">
 
 
 <!ENTITY  serif2.label                            "Serif">
