@@ -12,6 +12,7 @@
 <!ENTITY removeallpermissions2.label  "Odstrani vse spletne strani">
 <!ENTITY removeallpermissions2.accesskey "v">
 <!ENTITY address2.label               "Naslov spletne strani">
+<!ENTITY address2.accesskey           "N">
 <!ENTITY block.label                  "Prepovej">
 <!ENTITY block.accesskey              "P">
 <!ENTITY session.label                "Dovoli v tej seji">
