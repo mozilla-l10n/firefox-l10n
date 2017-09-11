@@ -8,6 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicyLearnMore.label   "अधिक जानें">
+<!ENTITY  notificationsPolicyDesc4.label       "चुनें कौन सी वेब साइट को आपको सूचनाएं भेजने की अनुमति हैं">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "चुनें…">
 <!ENTITY  notificationsDoNotDisturb.label      "परेशान नहीं करें">

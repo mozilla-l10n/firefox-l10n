@@ -31,6 +31,7 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं">
 
 <!ENTITY healthReportDesc.label          "आपके ब्राउज़र प्रदर्शन को समझने में मदद करता है और &vendorShortName; के साथ आपके ब्राउज़र के स्वास्थ्य संबंधी आँकड़ा साझा करता है">
 <!ENTITY enableHealthReport.label        "&brandShortName; स्थास्थ्य रिपोर्ट सक्रिय करें">
