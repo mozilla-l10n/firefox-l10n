@@ -22,6 +22,7 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
+<!ENTITY aboutTelemetry.archivePingType "पिंग प्रकार">
 
 <!ENTITY aboutTelemetry.archivePingHeader "पिंग">
 
