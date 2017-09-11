@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "স্বাগতম">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName; এ স্বাগতম">
-<!ENTITY firstrun_urlbar_subtext "উপরকারী অনুসন্ধান পরামর্শ শর্টকার্টের মাধ্যমে আরও দ্রুত বিভিন্ন জিনিষ খুঁজে নিন।">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; পছন্দ করার জন্য ধন্যবাদ">
+<!ENTITY firstrun_urlbar_subtext2 "ফ্রি ও উন্মুক্ত ওয়েবে প্রতিজ্ঞাবদ্ধ ও অবাণিজ্যিক প্রতিষ্ঠান Mozilla, হতে একটি আধুনিক মোবাইল ব্রাউজার।">
+<!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
+<!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
+<!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন।">
@@ -13,8 +15,6 @@
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-<!ENTITY firstrun_sync_message "&brandShortName;, সর্বদা আপনার পাশে">
-<!ENTITY firstrun_sync_subtext "আপনি যেখানেই ব্যবহার করুন না কেন আপনার ট্যাব, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
@@ -201,8 +201,6 @@
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, ডাটা রক্ষক, ডেভেলপার টুলগুলো পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "ঘোষণা">
 <!ENTITY pref_category_notifications_summary "নতুন ফিচার, ওয়েবসাইট হালনাগাদ">
-<!ENTITY pref_content_notifications "ওয়েবসাইট হালনাগাদ">
-<!ENTITY pref_content_notifications_summary2 "সমর্থিত সাইট থেকে নতুন বিষয়বস্তু আবিষ্কার করুন">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং এর জন্য আপনার ডিভাইসে একটি QR code reader অ্যাপ ইন্সটল করা থাকতে হবে।">
@@ -328,24 +326,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;একাধিক লিঙ্ক খোলা\&quot;চালু করতে, অনুগ্রহ করে &brandShortName; এর জন্য \u0027অন্য অ্যাপের উপরে চালাও\u0027 অনুমতি সক্রিয় করুন">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; ওয়েবসাইট হালনাগাদ">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "সেটিং">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "এখনই পড়ুন">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; এ হালনাগাদ">
+<!ENTITY tab_queue_notification_settings "\&quot;একাধিক লিঙ্ক খোলা\&quot;চালু করতে, অনুগ্রহ করে &brandShortName; এর জন্য \&apos;অন্য অ্যাপের উপরে চালাও\&apos; অনুমতি সক্রিয় করুন">
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাও">
@@ -355,7 +336,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "এখনই পরিষ্কার করুন">
 <!ENTITY pref_clear_on_exit_title3 "প্রস্থানকালে ব্যক্তিগত তথ্য পরিষ্কার করুন">
-<!ENTITY pref_clear_on_exit_summary2 "যখনই আপনি প্রধান মেনু থেকে \u0022Quit\u0022 নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে আপনার তথ্য মুছে ফেলবে">
+<!ENTITY pref_clear_on_exit_summary2 "যখনই আপনি প্রধান মেনু থেকে \&quot;Quit\&quot; নির্বাচন করবেন &brandShortName; স্বয়ংক্রিয়ভাবে আপনার তথ্য মুছে ফেলবে">
 <!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_restore_tabs "ট্যাব পুনরুদ্ধার করুন">
 <!ENTITY pref_restore_always "সর্বদা রিস্টোর করুন">
@@ -405,6 +386,7 @@
 <!ENTITY pref_dialog_set_default "ডিফল্ট হিসেবে নির্ধারণ করুন">
 <!ENTITY pref_dialog_default "ডিফল্ট">
 <!ENTITY pref_dialog_remove "মুছে ফেলুন">
+<!ENTITY pref_dialog_activitystream_visited "পরিদর্শিত">
 
 <!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ অনুসন্ধান ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
 
@@ -826,6 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "বুকমার্কে যুক্ত কর">
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইট">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "হাইলাইট">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -834,17 +817,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "পরিদর্শিত">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "বাতিল">
+<!ENTITY activity_stream_remove "অপসারণ">
 <!ENTITY activity_stream_delete_history "ইতিহাস থেকে মুছে ফেলুন">
-
-<!ENTITY activity_stream_welcome_title "আপনার হাইলাইটে স্বাগতম">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; এখন সেসব জিনিষের হাইলাইট তৈরি করে যা আপনি ওয়েবে খুঁজে পেয়েছেন তাই এখন আপনি চমৎকার সব নিবন্ধ, ভিডিও, বুকমার্কসহ আরও অনেক পাতায় যাওয়ার উপায় খুঁজে পাবেন।">
 
 <!ENTITY private_tab_panel_title "ব্যক্তিগত ব্রাউজিং + ট্র্যাকিং সুরক্ষা">
 <!ENTITY private_tab_panel_description "পাতার যে অংশগুলো আপনার অনলাইন কার্যকলাপ ট্র্যাক করে সেগুলো &brandShortName; প্রতিরোধ করেছে।">
 <!ENTITY private_tab_panel_description2 "আমরা কোন ইতিহাস মনে রাখব না, কিন্তু ডাউনলোড করা ফাইল এবং নতুন বুকমার্ক আপনার ডিভাইসে সংরক্ষিত থাকবে।">
 <!ENTITY private_tab_learn_more "আরও জানতে চান?">
+
+<!ENTITY fullscreen_warning "পূর্ণ পর্দাজুড়ে প্রদর্শন">
