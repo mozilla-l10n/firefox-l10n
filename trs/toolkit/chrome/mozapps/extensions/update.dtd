@@ -21,8 +21,19 @@
 <!ENTITY  checking.top.label              "Ngà natsi ni’ia nej sa nu aran’ da’ sī nagi’iaj nakàt…">
 <!ENTITY  checking.status                 "Ga’ue gahuin ràn nan dòj…">
 
+<!ENTITY  found.wizard.title               "Nari’ aga’ nan nej sa ga’ue Natà’">
+<!ENTITY  found.top.label                 "Naguī nej sa nata’ ruhuât gà’nïnjt:">
+<!ENTITY  found.disabledXPinstall.label   "Na’ue natū nej sa nahuin nakà nan dadin’ software
+                                           hua a’nan. Nadunā dàj gaj ruhuât akuan’ nïn.">
+<!ENTITY  found.enableXPInstall.label     "Ga’nïn da’ nà’nïnj nej sitio nej software">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
+<!ENTITY  installing.wizard.title         "Na’nïn nej sa Nata’ a’ue Aran’">
+<!ENTITY  installing.top.label            "Nadunïn nī na’nïn nej sa nata’ huā nakàa…">
 
+<!ENTITY  noupdates.wizard.title          "Nu nari’ìj nej sa Nata’ ga’ue Garàn’">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; nu narì’ij sa nahuin nakà nikāj si nej sa nata’
+                                           nu aran’an.">
 
 
 
