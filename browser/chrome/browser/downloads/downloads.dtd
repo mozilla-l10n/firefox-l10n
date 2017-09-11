@@ -52,9 +52,9 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Прикажи">
+<!ENTITY cmd.show.label                   "Отвори фасциклу са преузетим садржајем">
 <!ENTITY cmd.show.accesskey               "П">
-<!ENTITY cmd.showMac.label                "Прикажи у Finder">
+<!ENTITY cmd.showMac.label                "Прикажи у Finder-у">
 <!ENTITY cmd.showMac.accesskey            "П">
 <!ENTITY cmd.showDownloads.label          "Прикажи фасциклу преузимања">
 <!ENTITY cmd.retry.label                  "Покушај поново">
