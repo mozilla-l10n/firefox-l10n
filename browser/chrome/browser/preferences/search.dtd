@@ -4,6 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "तयशुदा खोज इंजिन">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   " पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.">
 
 <!ENTITY provideSearchSuggestions.label        "खोज सुझाव प्रदान करें">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
