@@ -26,6 +26,7 @@
 <!ENTITY  paneUpdates.title             "হালনাগাদ">
 
 <!ENTITY  filesAndApplications.label    "ফাইল ও অ্যাপ্লিকেশন">
+<!ENTITY  browserPrivacy.label          "ব্রাউজার গোপনীয়তা">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox Account">
