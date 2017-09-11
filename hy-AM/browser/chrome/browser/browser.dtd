@@ -40,9 +40,9 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Գամել ներդիրը">
+<!ENTITY  pinTab.label                       "Ամրացնել ներդիրը">
 <!ENTITY  pinTab.accesskey                   "Գ">
-<!ENTITY  unpinTab.label                     "Ապագամել ներդիրը">
+<!ENTITY  unpinTab.label                     "Ապամրացնել  ներդիրը">
 <!ENTITY  unpinTab.accesskey                 "դ">
 <!ENTITY  sendTabToDevice.label              "Ուղարկել ներդիրը սարքին">
 <!ENTITY  sendTabToDevice.accesskey          "ս">
@@ -399,9 +399,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Տեղափոխել Ցանկ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ե">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Գամել Գերլցված ցանկում">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Ամրացնել Գերլցված ցանկում">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ապագամել Գերլցված ցանկից">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ապամրացնել  Գերլցված ցանկից">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Հեռացնել Գործիքավահանակից">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Հ">
