@@ -5,5 +5,24 @@
 <!ENTITY window.title                 "Pengecualian">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename.label      "Laman">
+<!ENTITY treehead.status.label        "Status">
+<!ENTITY removepermission.label       "Buang Laman">
+<!ENTITY removepermission.accesskey   "B">
+<!ENTITY removeallpermissions.label   "Buang Semua Laman">
+<!ENTITY removeallpermissions.accesskey "e">
+<!ENTITY address.label                "Alamat laman web:">
+<!ENTITY address.accesskey            "l">
+<!ENTITY block.label                  "Sekat">
+<!ENTITY block.accesskey              "S">
+<!ENTITY session.label                "Izinkan Sesi ini">
+<!ENTITY session.accesskey            "n">
+<!ENTITY allow.label                  "Izinkan">
+<!ENTITY allow.accesskey              "I">
+<!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Batal">
+<!ENTITY button.cancel.accesskey      "B">
+<!ENTITY button.ok.label              "Simpan Perubahan">
+<!ENTITY button.ok.accesskey          "S">
 
