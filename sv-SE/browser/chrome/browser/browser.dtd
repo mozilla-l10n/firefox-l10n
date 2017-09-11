@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "e">
 
 <!ENTITY downloads.label              "Filhämtaren">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Filhämtaren">
 <!ENTITY downloads.accesskey          "F">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
-<!ENTITY copyURLCmd.label             "Kopiera URL">
+<!ENTITY pageAction.copyLink.label    "Kopiera länk">
 <!ENTITY copyURLFeedback.label        "Kopierad!">
 <!ENTITY emailPageCmd.label           "E-posta länk…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "E">
 <!ENTITY emailVideoCmd.label          "E-posta video…">
 <!ENTITY emailVideoCmd.accesskey      "E">
-<!ENTITY castVideoCmd.label           "Skicka video till enhet">
-<!ENTITY castVideoCmd.accesskey       "v">
 <!ENTITY emailAudioCmd.label          "E-posta ljud…">
 <!ENTITY emailAudioCmd.accesskey      "E">
 <!ENTITY playPluginCmd.label          "Aktivera insticksmodulen">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Ladda ner en ny kopia av &brandShorterName;">
 
-<!ENTITY updateRestart.message "Efter en snabb omstart, kommer &brandShorterName; att återställa alla dina öppna flikar och fönster.">
+<!ENTITY updateRestart.message2 "Efter en snabb omstart, kommer &brandShorterName; att återställa alla dina öppna flikar och fönster som inte är i privat surfläge.">
 <!ENTITY updateRestart.header.message2 "Starta om för att uppdatera &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Starta om och återställ">
 <!ENTITY updateRestart.acceptButton.accesskey "S">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Lägg till i adressfältet">
 <!ENTITY pageAction.removeFromUrlbar.label "Ta bort från adressfältet">
 
-<!ENTITY sendToDevice.label3 "Skicka sida till enhet">
+<!ENTITY pageAction.sendTabToDevice.label "Skicka flik till enhet">
 <!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
 
 <!ENTITY libraryButton.tooltip "Visa historik, sparade bokmärken och mer">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Tillgänglighetsfunktioner aktiverade">
