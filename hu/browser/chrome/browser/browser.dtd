@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Összes lap frissítése">
 <!ENTITY  reloadAllTabs.accesskey            "s">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Lap duplikálása">
+<!ENTITY  duplicateTab.accesskey             "d">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "u">
 
 <!ENTITY downloads.label              "Letöltések">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Letöltések">
 <!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "f">
 <!ENTITY bookmarkThisFrameCmd.label      "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
-<!ENTITY copyURLCmd.label             "URL másolása">
+<!ENTITY pageAction.copyLink.label    "Hivatkozás másolása">
 <!ENTITY copyURLFeedback.label        "Másolva!">
 <!ENTITY emailPageCmd.label           "Hivatkozás küldése e-mailben…">
 <!ENTITY emailPageCmd.accesskey       "d">
@@ -574,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "p">
 <!ENTITY emailVideoCmd.label          "Videó küldése e-mailben…">
 <!ENTITY emailVideoCmd.accesskey      "i">
-<!ENTITY castVideoCmd.label           "Videó eszközre küldése">
-<!ENTITY castVideoCmd.accesskey       "V">
 <!ENTITY emailAudioCmd.label          "Hang küldése e-mailben…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Ezen bővítmény aktiválása">
@@ -958,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "A &brandShorterName; friss példányának letöltése">
 
-<!ENTITY updateRestart.message "Egy gyors újraindítás után a &brandShorterName; helyreállítja az összes nyitott lapot és ablakot.">
+<!ENTITY updateRestart.message2 "Gyors újraindítás után, a &brandShorterName; helyreállítja a nyitott lapokat és ablakokat, amelyek nem Privát böngészés módban vannak.">
 <!ENTITY updateRestart.header.message2 "Újraindítás a &brandShorterName; frissítéséhez">
 <!ENTITY updateRestart.acceptButton.label "Újraindítás és visszaállítás">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
@@ -970,7 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Hozzáadás a címsávhoz">
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
 
-<!ENTITY sendToDevice.label3 "Oldal küldése eszközre">
+<!ENTITY pageAction.sendTabToDevice.label "Lap küldése eszközre">
 <!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">
 
 <!ENTITY libraryButton.tooltip "Előzmények, mentett könyvjelzők megtekintése">

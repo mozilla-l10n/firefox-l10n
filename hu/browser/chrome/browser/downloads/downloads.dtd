@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Megjelenítés a Finderben">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Letöltési mappa megjelenítése">
 <!ENTITY cmd.retry.label                  "Újra">
 <!ENTITY cmd.goToDownloadPage.label       "Ugrás a letöltési oldalra">
 <!ENTITY cmd.goToDownloadPage.accesskey   "U">
