@@ -14,4 +14,19 @@
 <!ENTITY radioAlwaysOnlineState.label "Atas talian">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Luar talian">
+<!ENTITY radioAlwaysOffline.accesskey "r">
 
+<!ENTITY textGoingOnline "Hantar mesej yang tidak dihantar apabila atas talian?">
+<!ENTITY radioAutoSend.label "Ya">
+<!ENTITY radioAutoSend.accesskey "Y">
+<!ENTITY radioNotSend.label "Tidak">
+<!ENTITY radioNotSend.accesskey "T">
+<!ENTITY radioAskUnsent.label "Tanya saya">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Muat turun mesej untuk kegunaan luar talian apabila ke luar talian?">
+<!ENTITY radioAutoDownload.label "Ya">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Tidak">
+<!ENTITY radioNotDownload.accesskey "k">
+<!ENTITY radioAskDownload.label "Tanya saya">
+<!ENTITY radioAskDownload.accesskey "y">
