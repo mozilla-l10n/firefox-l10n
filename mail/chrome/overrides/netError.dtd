@@ -54,11 +54,16 @@
 
 <!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
 
+<!ENTITY unknownSocketType.title "Respons tidak dijangka daripada pelayan">
+
+<!ENTITY nssFailure2.title "Gagal disambung dengan selamat">
+
+<!ENTITY nssBadCert.title "Gagal disambung dengan selamat">
 
 
+<!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
 
-
-
+<!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
 
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -68,5 +73,6 @@ functionality specific to thunderbird. -->
 
 
 
+<!ENTITY inadequateSecurityError.title "Sambungan anda tidak selamat">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
