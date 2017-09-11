@@ -72,6 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "समन्वयन सेटिंग">
+<!ENTITY signedIn.settings.description "चुने, &brandShortName; का उपयोग करके अपने उपकरण पर क्या संकालित करना हैं.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
