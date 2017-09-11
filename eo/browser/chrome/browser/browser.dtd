@@ -263,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Elŝutoj">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Elŝutoj">
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -555,6 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "l">
+<!ENTITY pageAction.copyLink.label    "Kopii ligilon">
 <!ENTITY copyURLFeedback.label        "Kopiita!">
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
@@ -961,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Elŝuti freŝan kopion de &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Post rapida restarto &brandShorterName; restarigos ĉiujn viajn malfermitajn langetojn kaj fenestrojn, kiuj ne estas en reĝimo de privata retumo.">
 <!ENTITY updateRestart.header.message2 "Restartigu por ĝisdatigi &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restarti kaj restarigi">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -972,6 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
 
+<!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
