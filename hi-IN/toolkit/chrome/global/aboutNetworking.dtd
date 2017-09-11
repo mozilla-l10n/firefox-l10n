@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "हर 3 सेकेंड में स्वतःफ्रेश">
 <!ENTITY aboutNetworking.hostname              "मेजबाननाम">
 <!ENTITY aboutNetworking.port                  "पोर्ट">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "सक्रिय करें">
 <!ENTITY aboutNetworking.idle                  "निष्क्रिय">
@@ -41,18 +41,13 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "समाधान करें">
 <!ENTITY aboutNetworking.dnsDomain             "डोमेन">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN आँकड़े">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN स्थिति">
+<!ENTITY aboutNetworking.totalNetworkRequests  "कुल नेटवर्क अनुरोध गणना">
+<!ENTITY aboutNetworking.rcwnOperation         "कैश कार्रवाई">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "खोलें">
+<!ENTITY aboutNetworking.rcwnPerfRead          "पढ़ें">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "लिखें">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "प्रविष्टि खोलें">
+<!ENTITY aboutNetworking.rcwnAvgShort          "कम औसत">
+<!ENTITY aboutNetworking.rcwnAvgLong           "लंबे औसत">
