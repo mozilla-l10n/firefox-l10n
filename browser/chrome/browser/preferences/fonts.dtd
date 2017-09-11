@@ -12,12 +12,14 @@
 <!ENTITY  sizeMonospace.accesskey                 "k">
 
 <!ENTITY  proportional2.label                     "Proporsional">
+<!ENTITY  proportional2.accesskey                 "P">
 
 <!ENTITY  serif2.label                            "Serif">
 <!ENTITY  serif2.accesskey                        "S">
 <!ENTITY  sans-serif2.label                       "Sans-serif">
 <!ENTITY  sans-serif2.accesskey                   "n">
 <!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -52,6 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
 <!ENTITY minSize2.label                           "Ukuran fon minimum">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Tidak Ada">
 
 <!-- default font type -->
@@ -62,6 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "I">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Pengodean Karakter untuk Konten Lawas">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Pengodean karakter ini digunakan untuk konten lawas yang gagal mendeklarasikan pengodeannya.">
 
 <!ENTITY languages.customize.Fallback.auto        "Baku untuk Pelokalan Saat Ini">

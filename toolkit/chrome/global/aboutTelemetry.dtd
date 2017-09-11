@@ -7,9 +7,11 @@
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping arsip">
 <!ENTITY aboutTelemetry.showSubsessionData "Tampilkan data subsesi">
 <!ENTITY aboutTelemetry.choosePing "Pilih ping:">
+<!ENTITY aboutTelemetry.archivePingType "Jenis Ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Hari ini">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Kemarin">
+<!ENTITY aboutTelemetry.optionGroupOlder "Lawas">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Muatan">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
