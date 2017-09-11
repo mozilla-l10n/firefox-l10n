@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Downloads">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Downloads">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "Y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Blêdwizer foar dit dielfinster meitsje">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "URL kopiearje">
+<!ENTITY pageAction.copyLink.label    "Keppeling kopiearje">
 <!ENTITY copyURLFeedback.label        "Kopiearre!">
 <!ENTITY emailPageCmd.label           "Keppeling e-maile…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Fideo e-maile…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Fideo nei apparaat stjoere">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Audio e-maile…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Dizze ynstekker aktivearje">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Download in farske kopy fan &brandShorterName;">
 
-<!ENTITY updateRestart.message "Nei in flugge werstart sil &brandShorterName; al jo iepen ljepblêden en finsters werstelle.">
+<!ENTITY updateRestart.message2 "Nij in flugge werstart, sil &brandShorterName; al jo iepen ljepblêden en finsters dy't net yn priveemodus binne werstelle.">
 <!ENTITY updateRestart.header.message2 "Start opnij om &brandShorterName; by te wurkjen.">
 <!ENTITY updateRestart.acceptButton.label "Opnij starte en werstelle">
 <!ENTITY updateRestart.acceptButton.accesskey "O">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Tafoegje oan adresbalke">
 <!ENTITY pageAction.removeFromUrlbar.label "Fuortsmite fan adresbalke">
 
-<!ENTITY sendToDevice.label3 "Side nei apparaat ferstjoere">
+<!ENTITY pageAction.sendTabToDevice.label "Ljepblêd nei apparaat ferstjoere">
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
 
 <!ENTITY libraryButton.tooltip "Skiednis, bewarre blêdwizers en mear besjen">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Tagonklikheidsfunksjes ynskeakele">
