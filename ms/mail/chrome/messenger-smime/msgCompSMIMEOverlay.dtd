@@ -7,6 +7,14 @@
 <!ENTITY menu_securityEncryptRequire.label "Enkrip Mesej Ini">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
+<!ENTITY menu_securitySign.label "Tandatangani Mesej Ini Secara Digital">
+<!ENTITY menu_securitySign.accesskey "M">
 
+<!ENTITY menu_securityStatus.label "Paparan Maklumat Keselamatan">
+<!ENTITY menu_securityStatus.accesskey "K">
 
+<!ENTITY securityButton.label "Keselamatan">
+<!ENTITY securityButton.tooltip "Papar atau tukar tetapan keselamatan">
 
+<!ENTITY menu_viewSecurityStatus.label "Maklumat Keselamatan Mesej">
+<!ENTITY menu_viewSecurityStatus.accesskey "K">
