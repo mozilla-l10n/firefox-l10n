@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Visa i Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Visa mapp för hämtade filer">
 <!ENTITY cmd.retry.label                  "Försök igen">
 <!ENTITY cmd.goToDownloadPage.label       "Gå till hämtningssidan">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
