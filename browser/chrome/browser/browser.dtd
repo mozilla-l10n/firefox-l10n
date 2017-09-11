@@ -258,6 +258,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "к">
 
 <!ENTITY downloads.label              "Изтегляния">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "т">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -265,8 +267,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Уебразработчик">
-<!ENTITY webDeveloperMenu.accesskey   "У">
+<!ENTITY webDeveloperMenu.label       "Разработчик">
+<!ENTITY webDeveloperMenu.accesskey   "т">
 
 <!ENTITY inspectContextMenu.label     "Изследване на елемента">
 <!ENTITY inspectContextMenu.accesskey "И">
@@ -550,7 +552,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
-<!ENTITY copyURLCmd.label             "Копиране на URL">
 <!ENTITY copyURLFeedback.label        "Копирана!">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
@@ -575,8 +576,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ж">
 <!ENTITY emailVideoCmd.label          "Изпращане на видеото като мейл…">
 <!ENTITY emailVideoCmd.accesskey      "т">
-<!ENTITY castVideoCmd.label           "Изпращане на видеото към устройство">
-<!ENTITY castVideoCmd.accesskey       "у">
 <!ENTITY emailAudioCmd.label          "Изпращане на аудиото като мейл…">
 <!ENTITY emailAudioCmd.accesskey      "у">
 <!ENTITY playPluginCmd.label          "Активиране на тази приставка">
@@ -959,7 +958,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Изтегляне на ново копие на &brandShorterName;">
 
-<!ENTITY updateRestart.message "След рестарта &brandShorterName; отново ще отвори последните ви раздели и прозорци.">
 <!ENTITY updateRestart.header.message2 "Рестарт за обновяване на &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Рестарт и възстановяване">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
@@ -971,11 +969,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
-<!ENTITY sendToDevice.label3 "Изпращане на страницата към устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
