@@ -11,8 +11,10 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "आपको चेताएँ जब कई टैब बंद करते हैं">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "आपको चेताएँ जब कई टैब का खोला जाना &brandShortName; को धीमा कर सकता हैं;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "जब आप नये टैब में कड़ी खोलते हैं, इसमें तुरंत जाएँ">
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "विंडो कार्यपट्टी में टैब पूर्वावलोकन दिखाएँ">
