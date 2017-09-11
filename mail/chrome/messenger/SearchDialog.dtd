@@ -20,14 +20,46 @@
 <!ENTITY moveButton.label            "Pindah Ke">
 <!ENTITY moveButton.accesskey        "K">
 <!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Buka dalam Folder">
+<!ENTITY openInFolder.accesskey      "r">
+<!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Carian">
+<!ENTITY saveAsVFButton.accesskey    "m">
 
 <!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Cari dalam:">
+<!ENTITY abSearchHeading.accesskey   "i">
+<!ENTITY propertiesButton.label      "Sifat">
+<!ENTITY propertiesButton.accesskey  "S">
+<!ENTITY composeButton.label         "Tulis">
+<!ENTITY composeButton.accesskey     "T">
+<!ENTITY deleteCardButton.label      "Buang">
+<!ENTITY deleteCardButton.accesskey  "B">
+<!ENTITY abSearchDialogTitle.label   "Carian Buku Alamat Lanjutan">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Daripada">
+<!ENTITY recipientColumn.label "Penerima">
+<!ENTITY correspondentColumn.label "Koresponden">
+<!ENTITY subjectColumn.label "Subjek">
+<!ENTITY dateColumn.label "Tarikh">
+<!ENTITY priorityColumn.label "Prioriti">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Akaun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Saiz">
+<!ENTITY junkStatusColumn.label "Status Mel remeh">
 <!ENTITY unreadColumn.label "Belum Dibaca">
+<!ENTITY totalColumn.label "Jumlah">
+<!ENTITY readColumn.label "Dibaca">
+<!ENTITY receivedColumn.label "Diterima">
 <!ENTITY starredColumn.label "Berbintang">
+<!ENTITY locationColumn.label "Lokasi">
+<!ENTITY idColumn.label "Susunan Diterima">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Pilih lajur paparan">
+<!ENTITY threadColumn2.tooltip "Papar thread mesej">
 <!ENTITY fromColumn2.tooltip "Susun mengikut daripada">
 <!ENTITY recipientColumn2.tooltip "Susun mengikut penerima">
 <!ENTITY correspondentColumn2.tooltip "Susun mengikut koresponden">
@@ -40,6 +72,7 @@
 <!ENTITY sizeColumn2.tooltip "Susun mengikut saiz">
 <!ENTITY junkStatusColumn2.tooltip "Susun mengikut status mel remeh">
 <!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
+<!ENTITY totalColumn2.tooltip "Bilangan mesej dalam thread">
 <!ENTITY readColumn2.tooltip "Susun mengikut sudah dibaca">
 <!ENTITY receivedColumn2.tooltip "Susun mengikut tarikh diterima">
 <!ENTITY starredColumn2.tooltip "Susun mengikut bintang">
