@@ -2,76 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
-
 <!ENTITY aboutTelemetry.pingDataSource "Adatforrás pingelése:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktuális ping adatok">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Archivált ping adatok">
+<!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
+<!ENTITY aboutTelemetry.choosePing "Válasszon pinget:">
+<!ENTITY aboutTelemetry.archivePingType "Ping típusa">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Ma">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Tegnap">
+<!ENTITY aboutTelemetry.optionGroupOlder "Régebbi">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Terhelés">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&lt;i&gt;">
 
-<!ENTITY aboutTelemetry.raw "Nyers JSON">
+<!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
+<!ENTITY aboutTelemetry.moreInformations "Több információt keres?">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Megnyitás a JSON megjelenítővel">
 
-<!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
-
-<!ENTITY aboutTelemetry.choosePing "Válasszon pinget:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Űjabb ping">
-
-<!ENTITY aboutTelemetry.showOlderPing "Régebbi ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Hét">
-
-<!ENTITY aboutTelemetry.archivePingType "Ping típusa">
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-<!ENTITY aboutTelemetry.optionGroupToday "Ma">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "Tegnap">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "Régebbi">
-
+<!ENTITY aboutTelemetry.homeSection "Kezdőlap">
 <!ENTITY aboutTelemetry.generalDataSection "  Általános adatok">
-
 <!ENTITY aboutTelemetry.environmentDataSection "  Környezeti adatok">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetriai napló">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Lassú SQL utasítások">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Böngészőlefagyások">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "  Rögzített vermek">
-
-<!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Kulcsos skalárok">
-
-<!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  Hisztogramok kulccsal">
-
-<!ENTITY aboutTelemetry.eventsSection "  Események">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Egyszerű mérési eszközök">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "Kiegészítő részletei">
-
-<!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
-
-<!ENTITY aboutTelemetry.rawPayloadSection "Nyers teher">
-
 <!ENTITY aboutTelemetry.sessionInfoSection "  Munkamenet-információk">
+<!ENTITY aboutTelemetry.scalarsSection "  Skalárok">
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Kulcsos skalárok">
+<!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Hisztogramok kulccsal">
+<!ENTITY aboutTelemetry.eventsSection "  Események">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Egyszerű mérési eszközök">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetriai napló">
+<!ENTITY aboutTelemetry.slowSqlSection "  Lassú SQL utasítások">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Böngészőlefagyások">
+<!ENTITY aboutTelemetry.addonDetailsSection "Kiegészítő részletei">
+<!ENTITY aboutTelemetry.capturedStacksSection "  Rögzített vermek">
+<!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
+<!ENTITY aboutTelemetry.rawPayloadSection "Nyers teher">
+<!ENTITY aboutTelemetry.raw "Nyers JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  MEGJEGYZÉS: A lassú SQL hibakeresés be van kapcsolva. Alább megjelenhetnek teljes SQL karakterláncok, de ezek nem kerülnek elküldésre a telemetriának.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Függvénynevek lekérése a vermekhez">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "  Nyers veremadatok megjelenítése">
-
-<!ENTITY aboutTelemetry.filterText "Szűrő (karakterláncok vagy /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Terhelés">
