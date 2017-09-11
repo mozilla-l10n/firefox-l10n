@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "т">
 <!ENTITY cmd.showMac.label                "Показати у Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Показати теку завантажень">
 <!ENTITY cmd.retry.label                  "Повторити">
 <!ENTITY cmd.goToDownloadPage.label       "Перейти на сторінку завантаження">
 <!ENTITY cmd.goToDownloadPage.accesskey   "с">
