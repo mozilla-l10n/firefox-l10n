@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Toane yn Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Downloadsmap toane">
 <!ENTITY cmd.retry.label                  "Opnij probearje">
 <!ENTITY cmd.goToDownloadPage.label       "Nei downloadside gean">
 <!ENTITY cmd.goToDownloadPage.accesskey   "d">
