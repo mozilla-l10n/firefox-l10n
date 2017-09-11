@@ -250,6 +250,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Descărcări">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Descărcări">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -541,7 +544,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
-<!ENTITY copyURLCmd.label             "Copiază URL-ul">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
@@ -565,8 +567,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Trimite e-mail cu videoclipul…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Trimite videoclipul către dispozitiv">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Trimite e-mail cu audioul…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activează acest plugin">
@@ -943,7 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descarcă o copie nouă de &brandShorterName;">
 
-<!ENTITY updateRestart.message "După o repornire rapidă, &brandShorterName; îți va restaura toate filele și ferestrele deschise.">
 <!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -953,10 +952,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
 
-<!ENTITY sendToDevice.label3 "Trimite pagina pe dispozitiv">
 
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
