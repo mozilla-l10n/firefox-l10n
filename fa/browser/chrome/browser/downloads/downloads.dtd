@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "پ">
 <!ENTITY cmd.showMac.label                "نمایش در یابنده">
 <!ENTITY cmd.showMac.accesskey            "ی">
+<!ENTITY cmd.showDownloads.label          "باز کردن پوشه بارگیری‌ها">
 <!ENTITY cmd.retry.label                  "کوشش دوباره">
 <!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحه بارگیری">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ر">
