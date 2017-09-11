@@ -34,8 +34,18 @@
 <!ENTITY  noupdates.wizard.title          "Nu nari’ìj nej sa Nata’ ga’ue Garàn’">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; nu narì’ij sa nahuin nakà nikāj si nej sa nata’
                                            nu aran’an.">
+<!ENTITY  noupdates.error.desc            "Huā ‘ngō nej sa danïn’ nga ginûn huin aga’ nan nana’uij sa nakàa.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; natsïj yitïnj man nī natà’ man gunïnt
+                                           sisī nari’ìj sa nahuin nakàa aran’ ngà nej sa nata’ nan.">
 
+<!ENTITY  finished.wizard.title           "Ngà natûj nej sa nata’a">
+<!ENTITY  finished.top.label              "&brandShortName; na’nïn nej sa nakà huā riña nej sa nata’ hua ‘iát.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; ga'ue natsïj yitïnj man nī natà’ man gunïnt
+                                           sisī nari’ìj sa nahuin nakàa aran’ ngà nej sa nata’ nan.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; natsïj yitïnj man nī natà’ man gunïnt
+                                           sisī nari’ìj sa nahuin nakàa aran’ ngà nej sa nata’ nan.">
 
+<!ENTITY  adminDisabled.wizard.title      "Huā sa nu a’nïnj natsi nej sa nahuin nakàa">
 
 
 
