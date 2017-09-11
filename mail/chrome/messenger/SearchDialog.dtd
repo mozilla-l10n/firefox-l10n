@@ -3,7 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- for SearchDialog.xul -->
- 
+<!ENTITY searchHeading.label         "Cari mesej dalam:">
+<!ENTITY searchHeading.accesskey     "i">
+<!ENTITY searchSubfolders.label      "Cari sub-folder">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Laksanakan carian dalam pelayan">
+<!ENTITY searchOnServer.accesskey    "s">
+<!ENTITY resetButton.label           "Buang">
+<!ENTITY resetButton.accesskey       "B">
+<!ENTITY openButton.label            "Buka">
+<!ENTITY openButton.accesskey        "k">
+<!ENTITY deleteButton.label          "Buang">
+<!ENTITY deleteButton.accesskey      "B">
+<!ENTITY searchDialogTitle.label     "Cari Mesej">
+<!ENTITY results.label               "Hasil">
+<!ENTITY moveButton.label            "Pindah Ke">
+<!ENTITY moveButton.accesskey        "K">
+<!ENTITY closeCmd.key                "W"> 
 
 <!-- for ABSearchDialog.xul -->
 
