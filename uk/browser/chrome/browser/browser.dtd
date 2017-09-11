@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "д">
 
 <!ENTITY downloads.label              "Завантаження">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Завантаження">
 <!ENTITY downloads.accesskey          "З">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Закласти цей фрейм">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ф">
-<!ENTITY copyURLCmd.label             "Копіювати адресу">
+<!ENTITY pageAction.copyLink.label    "Копіювати посилання">
 <!ENTITY copyURLFeedback.label        "Скопійовано!">
 <!ENTITY emailPageCmd.label           "Переслати посилання…">
 <!ENTITY emailPageCmd.accesskey       "с">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ж">
 <!ENTITY emailVideoCmd.label          "Переслати відео…">
 <!ENTITY emailVideoCmd.accesskey      "с">
-<!ENTITY castVideoCmd.label           "Відправити відео на пристрій">
-<!ENTITY castVideoCmd.accesskey       "д">
 <!ENTITY emailAudioCmd.label          "Переслати аудіо…">
 <!ENTITY emailAudioCmd.accesskey      "с">
 <!ENTITY playPluginCmd.label          "Активувати цей плагін">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Завантажте нову версію &brandShorterName;">
 
-<!ENTITY updateRestart.message "Після швидкого перезапуску &brandShorterName; відновить всі відкриті вкладки й вікна.">
+<!ENTITY updateRestart.message2 "Після швидкого перезапуску &brandShorterName; відновить всі відкриті вкладки й вікна, які не були відкриті в режимі приватного перегляду.">
 <!ENTITY updateRestart.header.message2 "Перезапуск для оновлення &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Перезапустити й відновити">
 <!ENTITY updateRestart.acceptButton.accesskey "П">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Додати до панелі адреси">
 <!ENTITY pageAction.removeFromUrlbar.label "Вилучити з панелі адреси">
 
-<!ENTITY sendToDevice.label3 "Відправити сторінку на пристрій">
+<!ENTITY pageAction.sendTabToDevice.label "Відправити вкладку на пристрій">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
 
 <!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Функції доступності увімкнено">
