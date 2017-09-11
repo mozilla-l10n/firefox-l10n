@@ -23,6 +23,9 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "கீற்றுகளை மீளேற்று">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "நகல் கீற்று">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "பதிவிறக்கங்கள்">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +554,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "உரலியை நகலெடு">
+<!ENTITY pageAction.copyLink.label    "தொடுப்பை நகலெடுக்கவும்">
 <!ENTITY copyURLFeedback.label        "நகலெடுக்கப்பட்டது!">
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 <!ENTITY emailPageCmd.accesskey       "ம">
@@ -574,8 +579,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ப">
 <!ENTITY emailVideoCmd.label          "மின்னஞ்சல் காணொளி...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "சாதனத்திற்கு காணொளியை அனுப்பு">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ஒலி மின்னஞ்சல்...">
 <!ENTITY emailAudioCmd.accesskey      "ம">
 <!ENTITY playPluginCmd.label          "இந்த செருகுநிரலைச் செயல்படுத்தவும்">
@@ -958,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
-<!ENTITY updateRestart.message "ஒரு அதிவேக மீட்துவக்கத்திற்கு பிறகு, திறந்த கீற்றுகள், சாளரங்கள் என அனைத்தையும் &brandShorterName; உலாவி மீட்டமைக்கும்.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 <!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,7 +972,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
 
-<!ENTITY sendToDevice.label3 "சாதனத்திற்கு பக்கத்தை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
