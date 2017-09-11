@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "П">
 <!ENTITY cmd.showMac.label                "Прикажи у Finder">
 <!ENTITY cmd.showMac.accesskey            "П">
+<!ENTITY cmd.showDownloads.label          "Прикажи фасциклу преузимања">
 <!ENTITY cmd.retry.label                  "Покушај поново">
 <!ENTITY cmd.goToDownloadPage.label       "Иди на станицу за преузимања">
 <!ENTITY cmd.goToDownloadPage.accesskey   "И">

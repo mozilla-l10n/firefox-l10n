@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "Д">
 
 <!ENTITY downloads.label              "Преузимања">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Преузмања">
 <!ENTITY downloads.accesskey          "П">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "в">
 <!ENTITY bookmarkThisFrameCmd.label      "Забележи овај оквир">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "З">
-<!ENTITY copyURLCmd.label             "Копирај URL">
+<!ENTITY pageAction.copyLink.label    "Копирај везу">
 <!ENTITY copyURLFeedback.label        "Копирано!">
 <!ENTITY emailPageCmd.label           "Веза е-поште…">
 <!ENTITY emailPageCmd.accesskey       "е">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "љ">
 <!ENTITY emailVideoCmd.label          "Шаљи видео…">
 <!ENTITY emailVideoCmd.accesskey      "ш">
-<!ENTITY castVideoCmd.label           "Шаљи видео на уређај">
-<!ENTITY castVideoCmd.accesskey       "у">
 <!ENTITY emailAudioCmd.label          "Шаљи аудио…">
 <!ENTITY emailAudioCmd.accesskey      "ш">
 <!ENTITY playPluginCmd.label          "Активирај овај прикључак">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
-<!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
+<!ENTITY updateRestart.message2 "Након рестартовања, &brandShorterName; ће обновити све ваше отворене језичке и прозоре који нису у приватном режиму.">
 <!ENTITY updateRestart.header.message2 "Рестартуј да се &brandShorterName; ажурира.">
 <!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Додај адресној траци">
 <!ENTITY pageAction.removeFromUrlbar.label "Уклони са адресне траке">
 
-<!ENTITY sendToDevice.label3 "Пошаљи страницу на уређај">
+<!ENTITY pageAction.sendTabToDevice.label "Пошаљи језичак на уређај">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
 
 <!ENTITY libraryButton.tooltip "Погледајте историјат, сачуване забелешке и више">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Могућности за приступачност омогућене">
