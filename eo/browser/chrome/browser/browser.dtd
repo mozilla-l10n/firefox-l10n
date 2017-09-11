@@ -261,6 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "v">
 
 <!ENTITY downloads.label              "Elŝutoj">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "E">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +555,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "l">
-<!ENTITY copyURLCmd.label             "Kopii ligilon">
 <!ENTITY copyURLFeedback.label        "Kopiita!">
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
@@ -578,8 +579,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "b">
 <!ENTITY emailVideoCmd.label          "Sendi filmeton retpoŝte…">
 <!ENTITY emailVideoCmd.accesskey      "S">
-<!ENTITY castVideoCmd.label           "Sendi filmeton al aparato">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Sendi sonon retpoŝte…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Aktivigi tiun ĉi kromprogramon">
@@ -962,7 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Elŝuti freŝan kopion de &brandShorterName;">
 
-<!ENTITY updateRestart.message "Post rapida restarto, &brandShorterName; restarigos ĉiujn viajn malfermitajn langetojn kaj fenestrojn.">
 <!ENTITY updateRestart.header.message2 "Restartigu por ĝisdatigi &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restarti kaj restarigi">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,17 +968,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
-<!ENTITY pageActionButton.tooltip "Agoj de la paĝo">
+<!ENTITY pageActionButton.tooltip "Retpaĝaj agoj">
 <!ENTITY pageAction.addToUrlbar.label "Aldoni al adresa strio">
 <!ENTITY pageAction.removeFromUrlbar.label "Forigi el adresa strio">
 
-<!ENTITY sendToDevice.label3 "Sendi paĝon al aparato">
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Alireblecaj trajtoj aktivaj">
