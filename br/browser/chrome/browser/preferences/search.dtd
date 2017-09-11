@@ -4,13 +4,16 @@
 
 <!ENTITY defaultSearchEngine.label             "Keflusker enklask dre ziouer">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.">
 
 <!ENTITY provideSearchSuggestions.label        "Kinnig alioù enklask">
 <!ENTITY provideSearchSuggestions.accesskey    "a">
 
-
+<!ENTITY showURLBarSuggestions2.label           "Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù">
+<!ENTITY showURLBarSuggestions2.accesskey       "D">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet &brandShortName;  evit ma ne zalc'hfe ket soñj eus ho roll istor.">
 
+<!ENTITY oneClickSearchEngines.label           "Luskerioù enklask ur-c'hlik">
 
 
 <!ENTITY engineNameColumn.label                "Keflusker enklask">

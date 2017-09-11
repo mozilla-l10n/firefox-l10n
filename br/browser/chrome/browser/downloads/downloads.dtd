@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "D">
 <!ENTITY cmd.showMac.label                "Diskouez e-barzh Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Diskouez teuliad ar pellgargadurioù">
 <!ENTITY cmd.retry.label                  "Klask en-dro">
 <!ENTITY cmd.goToDownloadPage.label       "Mont da bajenn ar pellgargadur">
 <!ENTITY cmd.goToDownloadPage.accesskey   "M">
