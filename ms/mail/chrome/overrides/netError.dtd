@@ -109,20 +109,70 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Semak tetapan proksi untuk memastikan tetapan adalah betul.</li>
+  <li>Pastikan komputer ada sambungan rangkaian yang berfungsi.</li>
+  <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, pastikan
+    bahawa &brandShortName; diberi izin mengakses Web.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Masalah ini kadangkala disebabkan oleh menyahaktifkan atau tidak mahu menerima
+    kuki.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Respons tidak dijangka daripada pelayan">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Pastikan bahawa dalam komputer, ada Pengurus Keselamatan Peribadi yang sudah
+    dipasang.</li>
+  <li>Ini mungkin kerana konfigurasi bukan-piawai dalam pelayar.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Gagal disambung dengan selamat">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Halaman yang anda mahu lihat tidak dipaparkan kerana kesahihan data yang diterima tidak boleh disahkan.</li>
+  <li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Gagal disambung dengan selamat">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>Ini mungkin masalah konfigurasi pelayan, atau mungkin
+seseorang cuba menyamar sebagai pelayan.</li>
+  <li>Jika sebelum ini anda boleh menyambung ke pelayar, ralat ini mungkin
+sementara dan anda boleh cuba lagi nanti.</li>
+</ul>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Laman ini mungkin tidak bersedia atau terlalu sibuk. Cuba lagi dalam beberapa
+    ketika.</li>
+  <li>Jika anda tidak dapat memuatkan sebarang halaman, semak sambungan rangkaian
+    komputer.</li>
+  <li>Jika komputer atau rangkaian anda dilindungi firewall atau proksi, pastikan
+    bahawa &brandShortName; diberi izin mengakses Web.</li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Disekat oleh Polisi Keselamatan Kandungan">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; menghalang halaman ini daripada dimuatkan kerana ada kandungan yang tidak dibenarkan oleh polisi keselamatan.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Halaman yang anda cuba lihat tidak dipaparkan kerana ada ralat transmisi data yang dikesan.</p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul>">
 
+<!ENTITY securityOverride.linkText "Atau anda boleh tambah pengecualian…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Keluarkan saya dari sini!">
+<!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
