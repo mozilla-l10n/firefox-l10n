@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "п">
 <!ENTITY cmd.showMac.label                "Показване във Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Отваряне на папка Изтегляния">
 <!ENTITY cmd.retry.label                  "Повторен опит">
 <!ENTITY cmd.goToDownloadPage.label       "Отваряне на целевата страница">
 <!ENTITY cmd.goToDownloadPage.accesskey   "О">
