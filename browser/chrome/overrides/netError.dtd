@@ -32,6 +32,7 @@
 
 <!ENTITY captivePortal.title "नेटवर्क के लिए लॉग इन करें">
 
+<!ENTITY openPortalLoginPage.label2 "ओपन नेटवर्क लॉगिन पृष्ठ">
 
 <!ENTITY malformedURI.title " पता वैध नहीं है">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब पता प्रायः इस तरह लिखा जाता है <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी <strong>/</strong>).</li> </ul>">
