@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Restaurar llingüetes, aforrador de datos, ferramientes de desendolcu">
 <!ENTITY pref_category_notifications "Avisos">
 <!ENTITY pref_category_notifications_summary "Carauterístiques nueves, anovamientos de sitios web">
-<!ENTITY pref_content_notifications "Anovamientos del sitiu web">
-<!ENTITY pref_content_notifications_summary2 "Descubri conteníu nuevu dende sitios sofitaos">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota per Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración Wi-Fi rique que\&apos;l to preséu tenga instaláu una aplicación llectora de códigos QR.">
@@ -335,23 +333,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "P\&apos;«Abrir enllaces múltiples», activa\&apos;l permisu «Enriba d\&apos;otres aplicaciones» pa &brandShortName;, por favor">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; sitios web anovaos">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Axustes">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lleer agora">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Anovóse\&apos;l &formatS;">
-
 <!ENTITY pref_char_encoding "Codificación de caráuteres">
 <!ENTITY pref_char_encoding_on "Amosar menú">
 <!ENTITY pref_char_encoding_off "Nun amosar menú">
@@ -410,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "Predeterminar">
 <!ENTITY pref_dialog_default "Por defeutu">
 <!ENTITY pref_dialog_remove "Desaniciar">
+<!ENTITY pref_dialog_activitystream_header_content "Conteníu adicional">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Marcadores recientes">
+<!ENTITY pref_dialog_activitystream_visited "Visitóse">
 
 <!ENTITY pref_search_last_toast "Nun pues desaniciar o desactivar el to caberu motor de gueta.">
 
@@ -846,16 +830,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitóse">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Tendencia">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Entama a restolar y amosarémos equí dellos artículos, vídeos y otres páxines xeniales que visitares apocayá.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Desaniciar">
 <!ENTITY activity_stream_delete_history "Desaniciar del historial">
-
-<!ENTITY activity_stream_welcome_title "Afáyate nos tos destacaos">
-<!ENTITY activity_stream_welcome_content1 "Agora &brandShortName; crea destacaos de coses que descubrieres na web pa qu\&apos;asina pueas volver alcontrar artículos, vídeos, marcadores y otres páxines fabuloses.">
-<!ENTITY activity_stream_welcome_dismiss "Escartar">
 
 <!ENTITY private_tab_panel_title "Restolar en privao + proteición de rastrexu">
 <!ENTITY private_tab_panel_description "&brandShortName; bloquia partes de les páxines que podríen rastrexar la to actividá en llinia.">
