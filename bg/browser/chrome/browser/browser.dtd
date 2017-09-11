@@ -241,6 +241,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 <!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
+<!ENTITY bookmarkingTools.label             "Инструменти за отметки">
+<!ENTITY addBookmarksMenu.label             "Добавяне на менюто за отметки към лентата с инструменти">
+<!ENTITY removeBookmarksMenu.label          "Премахване на менюто за отметки от лентата с инструменти">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -260,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Изтегляния">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Изтегляния">
 <!ENTITY downloads.accesskey          "т">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -552,6 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
+<!ENTITY pageAction.copyLink.label    "Копиране на препратката">
 <!ENTITY copyURLFeedback.label        "Копирана!">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
@@ -958,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Изтегляне на ново копие на &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "След бързия рестарт &brandShorterName; ще възстанови всички ваши отворени раздели и прозорци, които не са в режим на поверително разглеждане.">
 <!ENTITY updateRestart.header.message2 "Рестарт за обновяване на &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Рестарт и възстановяване">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
@@ -969,5 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
+<!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела към устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
+<!ENTITY libraryButton.tooltip "Преглед на история, запазени отметки и други">
