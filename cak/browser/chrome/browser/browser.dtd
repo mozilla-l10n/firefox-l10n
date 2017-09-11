@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "e">
 
 <!ENTITY downloads.label              "Taq qasa'n">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Taq qasanïk">
 <!ENTITY downloads.accesskey          "q">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
-<!ENTITY copyURLCmd.label             "Tiwachib'ëx URL">
+<!ENTITY pageAction.copyLink.label    "Tiwachib'ëx Ximonel">
 <!ENTITY copyURLFeedback.label        "¡Wachib'en!">
 <!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
 <!ENTITY emailPageCmd.accesskey       "T">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Rutaqik Silowachib'äl…">
 <!ENTITY emailVideoCmd.accesskey      "i">
-<!ENTITY castVideoCmd.label           "Titaq ri silowachib'äl pa okisaxel">
-<!ENTITY castVideoCmd.accesskey       "t">
 <!ENTITY emailAudioCmd.label          "Titaq k'oxomal…">
 <!ENTITY emailAudioCmd.accesskey      "t">
 <!ENTITY playPluginCmd.label          "Titzij re nak'ab'äl re'">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "m">
 <!ENTITY updateManual.panelUI.label "Taqasaj jun k'ak'a' ruwachib'al &brandShorterName;">
 
-<!ENTITY updateRestart.message "Chi rij jun aninäq rutikirisaxik chik, &brandShorterName; xkeruchojmirisaj konojel ri ruwi' e'ajaqon chuqa' taq tzuwäch.">
+<!ENTITY updateRestart.message2 "Chi rij jun aninäq tikirisanïk, &brandShorterName; xkerutzolij ri taq ruwi', jaqon taq tzuwäch ri man e k'o pa Ichinan Okem pa K'amaya'l rub'anikil.">
 <!ENTITY updateRestart.header.message2 "Titikirisäx chik richin nik'ex &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Titikirisäx chik chuqa' Tichojmirisäx">
 <!ENTITY updateRestart.acceptButton.accesskey "T">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Titz'aqatisäx ri Kikajtz'ik Ochochib'äl">
 <!ENTITY pageAction.removeFromUrlbar.label "Tiyuj el chupam ri Kikajtz'ik Ochoch">
 
-<!ENTITY sendToDevice.label3 "Titaq Ruxaq pa Okisaxel">
+<!ENTITY pageAction.sendTabToDevice.label "Titaq Ruwi' pan Okisaxel">
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
 
 <!ENTITY libraryButton.tooltip "Titz'et ri natab'äl, yakon taq yaketal, chuqa' ch'aqa' chik">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Etzijon ri taq Rub'anikil Okem">

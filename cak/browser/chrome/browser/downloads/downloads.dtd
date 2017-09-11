@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "T">
 <!ENTITY cmd.showMac.label                "Tik'ut pe pan ilonel">
 <!ENTITY cmd.showMac.accesskey            "i">
+<!ENTITY cmd.showDownloads.label          "Tik'ut pe Kiyakwuj taq Qasanïk">
 <!ENTITY cmd.retry.label                  "Titojtob'ëx chik">
 <!ENTITY cmd.goToDownloadPage.label       "Tib'e pa ri ruxaq akuchi' niqasäx">
 <!ENTITY cmd.goToDownloadPage.accesskey   "T">
