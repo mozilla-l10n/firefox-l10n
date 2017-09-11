@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "Y">
 
 <!ENTITY downloads.label              "Llwytho i Lawr">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Llwythi">
 <!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
-<!ENTITY copyURLCmd.label             "Copïo'r URL">
+<!ENTITY pageAction.copyLink.label    "Copïo'r Ddolen">
 <!ENTITY copyURLFeedback.label        "Wedi ei chopïo!">
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "D">
 <!ENTITY emailVideoCmd.label          "Fideo E-bost…">
 <!ENTITY emailVideoCmd.accesskey      "F">
-<!ENTITY castVideoCmd.label           "Anfon Fideo i'r Ddyfais">
-<!ENTITY castVideoCmd.accesskey       "A">
 <!ENTITY emailAudioCmd.label          "Sain E-bost…">
 <!ENTITY emailAudioCmd.accesskey      "S">
 <!ENTITY playPluginCmd.label          "Gweithredu'r ategyn">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Llwytho i lawr fersiwn newydd o &brandShorterName;">
 
-<!ENTITY updateRestart.message "Ar ôl cychwyn cyflym, bydd &brandShorterName; yn adfer eich holl dabiau a'r ffenestri sydd ar agor.">
+<!ENTITY updateRestart.message2 "Ar ôl ailgychwyn cyflym, bydd &brandShorterName; yn adfer eich tabiau a ffenestri agored sydd ddim yn y modd Pori Preifat.">
 <!ENTITY updateRestart.header.message2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Ail gychwyn ac Adfer">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Ychwanegu i'r Llyfr Cyfeiriadau">
 <!ENTITY pageAction.removeFromUrlbar.label "Tynnu o'r Bar Cyfeiriadau">
 
-<!ENTITY sendToDevice.label3 "Anfon Tudalen i Ddyfais">
+<!ENTITY pageAction.sendTabToDevice.label "Anfon Tab i Ddyfais">
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
 
 <!ENTITY libraryButton.tooltip "Gweld hanes, nodau tudalen wedi eu cadw, a rhagor">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Nodweddion Hygyrchedd wedi eu Galluogi">
