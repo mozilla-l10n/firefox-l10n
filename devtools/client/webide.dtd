@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रनटाइम जानकारी">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "मॉनीटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "युक्ति वरीयताएँ">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "एप्प खोलें">
 <!ENTITY runtimeButton_label "रनटाइम चुनें">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -81,8 +81,8 @@
 <!ENTITY runtimePanel_noadbhelper "ADB हेल्पर स्थापित करें">
 <!ENTITY runtimePanel_nousbdevice "आपका उपकरण नहीं देख सकता है?">
 <!ENTITY runtimePanel_refreshDevices_label "उपकरणों को ताजा करें">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "वैध">
 <!ENTITY details_warning_header "चेतावनी">
 <!ENTITY details_error_header "त्रुटि">
@@ -90,23 +90,23 @@
 <!ENTITY details_location "स्थान">
 <!ENTITY details_manifestURL "अनुप्रयोग आईडी">
 <!ENTITY details_removeProject_button "परियोजना हटाएँ">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "नया एप्प">
 <!ENTITY newAppHeader "नमूना का चयन करें">
 <!ENTITY newAppLoadingTemplate "नमूना लोड कर रहा है…">
 <!ENTITY newAppProjectName "परियोजना नाम:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "बंद करें">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "अतिरिक्त घटक">
 <!ENTITY addons_aboutaddons "सहयुक्तियाँ प्रबंधन खोलें">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "वरीयता">
 <!ENTITY prefs_editor_title "संपादक">
 <!ENTITY prefs_general_title "सामान्य">
@@ -118,8 +118,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "पिछला प्रोजेक्ट बहाल करें जब WebIDE आरंभ होता है">
 <!ENTITY prefs_options_templatesurl "नमूना यूआरएल">
 <!ENTITY prefs_options_templatesurl_tooltip "मौजूद नमूना की सूची">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">
 <!ENTITY runtimedetails_adbIsRoot "ADB रूट है: ">
 <!ENTITY runtimedetails_summonADBRoot "रूट डिवाइस">
@@ -127,36 +127,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "अप्रतिबंधित DevTools अधिकार:">
 <!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करें">
 <!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करेगा. रूट पहुँच चाहिए.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "बुलियन">
 <!ENTITY device_typenumber "पूर्णाँक">
 <!ENTITY device_typestring "स्ट्रिंग">
 <!ENTITY device_typeobject "वस्तु">
 <!ENTITY device_typenone "एक किस्म चुनें">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "युक्ति वरीयताएँ">
 <!ENTITY devicepreference_search "वरीयता खोजें">
 <!ENTITY devicepreference_newname "नयी वरीयता नाम">
 <!ENTITY devicepreference_newtext "वरीयता मान">
 <!ENTITY devicepreference_addnew "नव वरीयता जोड़ें">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "युक्ति जमावट">
 <!ENTITY devicesetting_search "खोज सेटिंग">
 <!ENTITY devicesetting_newname "नया सेटिंग नाम">
 <!ENTITY devicesetting_newtext "सेटिंग मान">
 <!ENTITY devicesetting_addnew "नई सेटिंग जोड़ें">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "मॉनीटर">
 <!ENTITY monitor_help "मदद">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "क्लाइंट पहचान">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,15 +171,15 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "यदि आपका युक्ति टोकन की माँग करता है QR कोड स्कैन करने के बदले, अन्य युक्ति के नीचे मान की नकल करें:">
 <!ENTITY wifi_auth_qr_size_note "यदि कनेक्शन स्थापित करने के लिए QR कोड बहुत न्यून प्रतीत होता है तो, विंडो को जूम या विस्तारित करें">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "सिमुलेटर विकल्प">
 <!ENTITY simulator_remove "सिमुलेटर मिटाएँ">
 <!ENTITY simulator_reset "डिफ़ॉल्ट पुनः स्थापित करे">
-
+<!ENTITY simulator_name "नाम">
 <!ENTITY simulator_software "सॉफ्टवेयर">
 <!ENTITY simulator_version "संस्करण">
 <!ENTITY simulator_profile "प्रोफाइल">
