@@ -1,0 +1,72 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Masalah memuatkan halaman">
+<!ENTITY retry.label "Cuba Lagi">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Tidak dapat menyambung">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
+
+<!ENTITY fileNotFound.title "Fail tidak ditemui">
+
+<!ENTITY fileAccessDenied.title "Akses kepada fail ditolak">
+
+<!ENTITY generic.title "Maaf.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; tidak dapat memuatkan halaman ini atas beberapa sebab.</p>
+">
+
+<!ENTITY malformedURI.title "Alamat tidak sah">
+
+<!ENTITY netInterrupt.title "Sambungan terganggu">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Dokumen Luput">
+
+<!ENTITY netOffline.title "Mod luar talian">
+
+<!ENTITY contentEncodingError.title "Ralat pengekodan kandungan">
+
+<!ENTITY unsafeContentType.title "Jenis fail tidak selamat">
+
+<!ENTITY netReset.title "Sambungan diset semula">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Sambungan telah tamat tempoh">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Alamat tidak difahami">
+
+<!ENTITY proxyConnectFailure.title "Pelayan proksi menolak sambungan">
+
+<!ENTITY proxyResolveFailure.title "Tidak dapat menemui pelayan proksi">
+
+<!ENTITY redirectLoop.title "Halaman tidak diarahkan semula dengan betul">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
