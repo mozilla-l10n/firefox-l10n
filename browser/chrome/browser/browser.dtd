@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Nedlastingar">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Nedlastingar">
 <!ENTITY downloads.accesskey          "N">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY copyURLCmd.label             "Kopier URL">
+<!ENTITY pageAction.copyLink.label    "Kopier lenke">
 <!ENTITY copyURLFeedback.label        "Kopiert!">
 <!ENTITY emailPageCmd.label           "Send lenke på e-post…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "i">
 <!ENTITY emailVideoCmd.label          "Send videoen…">
 <!ENTITY emailVideoCmd.accesskey      "n">
-<!ENTITY castVideoCmd.label           "Send videoen til ei eining">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Send lydfila med e-post…">
 <!ENTITY emailAudioCmd.accesskey      "n">
 <!ENTITY playPluginCmd.label          "Slå på dette programtillegget">
@@ -962,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Last ned eit heilt nytt eksemplar av &brandShorterName;">
 
-<!ENTITY updateRestart.message "Etter ein rask omstart, vil &brandShorterName; byggje oppatt alle opne faner og vindauge.">
 <!ENTITY updateRestart.header.message2 "Start på nytt for å oppdatere &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Start på nytt og bygg oppatt">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
@@ -974,13 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Legg til i adresselinja">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjern fra adresselinja">
 
-<!ENTITY sendToDevice.label3 "Send siden til eining">
+<!ENTITY pageAction.sendTabToDevice.label "Send fane til eining">
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
 
 <!ENTITY libraryButton.tooltip "Vis historikk, lagra bokmerker med meir">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Tilgangsfunksjonar slått på">
