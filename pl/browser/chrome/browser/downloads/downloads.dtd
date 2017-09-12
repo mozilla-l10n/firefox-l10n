@@ -43,6 +43,8 @@
 <!ENTITY downloadsHistory.label "Wyświetl wszystkie">
 <!ENTITY downloadsHistory.accesskey "W">
 
+<!ENTITY downloadDetails.label "Szczegóły pobieranego pliku">
+
 <!ENTITY openDownloadsFolder.label "Otwórz folder z pobranymi plikami">
 
 <!ENTITY clearDownloadsButton.label "Wyczyść listę">
