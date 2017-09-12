@@ -13,6 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 52em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 52em; min-height: 40.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+<!ENTITY  searchField.width             "15.4em">
+
 <!ENTITY  paneSearchResults.title       "Találatok">
 <!ENTITY  paneGeneral.title             "Általános">
 <!ENTITY  paneSearch.title              "Keresés">
@@ -24,8 +29,8 @@
 <!ENTITY  languageAndAppearance.label   "Nyelv és megjelenés">
 <!ENTITY  filesAndApplications.label    "Fájlok és alkalmazások">
 <!ENTITY  browserPrivacy.label          "Böngésző adatvédelme">
-<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox fiók">
 
 <!ENTITY  helpButton2.label        "&brandShortName; támogatás">
