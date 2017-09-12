@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "o">
 
 <!ENTITY downloads.label              "Niðurhal">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Niðurhöl">
 <!ENTITY downloads.accesskey          "N">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Afrita slóð">
+<!ENTITY pageAction.copyLink.label    "Afrita tengil">
 <!ENTITY copyURLFeedback.label        "Afritað!">
 <!ENTITY emailPageCmd.label           "Senda tengil…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Senda myndband…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Senda myndband í tæki">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Senda hljóðskrá…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Gera þessa viðbót virka">
@@ -962,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Hala niður nýrri útgáfu af &brandShorterName;">
 
-<!ENTITY updateRestart.message "Eftir endurræsingu mun, &brandShorterName; endurheimta alla opna flipa og glugga.">
 <!ENTITY updateRestart.header.message2 "Endurræstu til að uppfæra &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Enduræstu og endurheimtu">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
@@ -974,13 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
 <!ENTITY pageAction.removeFromUrlbar.label "Fjarlægja úr staðsetningarslá">
 
-<!ENTITY sendToDevice.label3 "Senda síðu á tæki">
+<!ENTITY pageAction.sendTabToDevice.label "Senda flipa á tæki">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
 
 <!ENTITY libraryButton.tooltip "Skoða feril, vistuð bókamerki, og meira">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Aðgengi virkjað">
