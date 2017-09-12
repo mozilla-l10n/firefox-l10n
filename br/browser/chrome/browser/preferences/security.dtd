@@ -2,13 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Diogelroez">
+<!ENTITY  phishingProtection.label       "Gwarez a-enep an higennañ">
 
+<!ENTITY  warnOnAddonInstall2.label       "Ho kelaouiñ pa glask ul lec'hienn staliañ askouezhioù">
+<!ENTITY  warnOnAddonInstall2.accesskey   "H">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Stankañ endalc'hadoù arvarus pe touellus">
 <!ENTITY  enableSafeBrowsing.accesskey    "S">
 
@@ -22,7 +25,10 @@
 <!ENTITY  addonExceptions.accesskey     "N">
 
 
+<!ENTITY  formsAndPasswords.label       "Furmskridoù &amp; Gerioù-tremen">
 
+<!ENTITY  rememberLogins2.label         "Derc'hel soñj eus an titouroù kennaskañ evit al lec'hiennoù">
+<!ENTITY  rememberLogins2.accesskey     "D">
 <!ENTITY  passwordExceptions.label      "Nemedennoù…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 

@@ -15,6 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Luskerioù enklask ur-c'hlik">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.">
 
 <!ENTITY engineNameColumn.label                "Keflusker enklask">
 <!ENTITY engineKeywordColumn.label             "Ger-alc'hwez">
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "Dilemel">
 <!ENTITY removeEngine.accesskey                "D">
 
+<!ENTITY findMoreSearchEngines.label           "Klask luskerioù klask all">
