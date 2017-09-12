@@ -20,7 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सभी सहयुक्तियों के लिए औज़ार">
 
-
+<!ENTITY getThemes.description                "अपने ब्राउज़र को निजीकृत करने का सोंच रहे हैं?">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">
@@ -29,8 +29,8 @@
 <!ENTITY showAllExtensions.button.label       "सभी विस्तार दिखाएँ">
 <!ENTITY debugAddons.label                    "सहयुक्ति दोषसुधार">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "सभी सहयुक्तियाँ सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.">
 <!ENTITY warning.checkcompatibility.label          "सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत सहयुक्तियाँ हो सकती हैं.">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्रिय करें">
@@ -38,14 +38,14 @@
 <!ENTITY warning.updatesecurity.label              "सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय है. आपकी सुरक्षा अद्यतन के द्वारा संदिग्ध हो सकती है.">
 <!ENTITY warning.updatesecurity.enable.label       "सक्रिय करें">
 <!ENTITY warning.updatesecurity.enable.tooltip     "सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करें">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "खोजें">
 <!ENTITY view.discover.label                  "सहयुक्तियाँ पाएँ">
 <!ENTITY view.recentUpdates.label             "हालिया अद्यतन">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यतन">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "अद्यतन की जाँच करें">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "हालिया अद्यतन देखें">
@@ -73,8 +73,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "उपलब्ध अद्यतन देखें">
 <!ENTITY updates.updateSelected.label         "अद्यतन संस्थापित करें">
 <!ENTITY updates.updateSelected.tooltip       "इस सूची में उपलब्ध अद्यतन संस्थापित करें">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "अधिक सूचना दिखाएँ">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "अद्यतन ढूँढ़ें">
@@ -121,12 +121,11 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "सहयुक्तियाँ क्या हैं?">
 <!ENTITY discover.description2                "सहयुक्तियाँ ऐसे अनुप्रयोग हैं जो आपको &brandShortName; को अतिरिक्त प्रकार्यात्मकता या शैली से व्यक्तिगत रूचि के अनुसार ढालने में मदद करते हैं. समय बचाने वाली बाजूपट्टी, मौसम सूचक या एक ऐसे प्रसंग जो आपका अपना &brandShortName; बनाने वाले प्रसंग आजमाएँ.">
 <!ENTITY discover.footer                      "जब आप इंटरनेट से कनेक्टेड होते हैं, यह पट्टी आपके लिए सबसे बेहतरीन और लोकप्रिय सहयुक्तियाँ प्रस्तुत करता है जिसे आप आजमा सकें.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "संस्करण">
 <!ENTITY detail.lastupdated.label             "अंतिम अद्यतन">
 <!ENTITY detail.creator.label                 "डेवलेपर">
@@ -155,17 +154,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "वरीयताएँ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "इस सहयुक्ति की वरीयताएँ बदलें">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "दर">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ठहराएँ">
 <!ENTITY progress.cancel.tooltip              "रद्द करें">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "नाम">
 <!ENTITY sort.name.tooltip                    "नामानुसार छाँटें">
 <!ENTITY sort.dateUpdated.label               "अंतिम अद्यतन">
@@ -188,6 +187,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -221,12 +221,12 @@
 <!ENTITY eula.accept                          "स्वीकारें और संस्थापित करें…">
 
 <!ENTITY settings.path.button.label           "ब्राउज़ करें…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "यह क्या है? टेलिमित संस्थापित हो सकता है और समय समय पर प्रयोग चला सकता है.">
 <!ENTITY experiment.info.learnmore "और जानें">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -252,8 +252,4 @@
 
 <!ENTITY pluginDeprecation.description "कुछ भूल रहे हैं? कुछ प्लगइन &brandShortName; द्वारा समर्थित नही हैं">
 <!ENTITY pluginDeprecation.learnMore "अधिक जानें.">
-
-
-
-
 
