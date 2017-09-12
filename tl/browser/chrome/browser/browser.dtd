@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "E">
 <!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tabs">
 <!ENTITY  reloadAllTabs.accesskey            "L">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Doblehin ang Tab">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Mga Download">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Mga pag-download">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Kopyahin ang URL">
+<!ENTITY pageAction.copyLink.label    "Kopyahin ang Link">
 <!ENTITY copyURLFeedback.label        "Kinopya!">
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -574,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "I-Email ang Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Ipadala ang Video sa Device">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "I-email ang Audio...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Paganahin ang plugin na ito">
@@ -958,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "I-download ang bagong kopya ng &brandShorterName;">
 
-<!ENTITY updateRestart.message "Pagkatapos ng isang mabilis na pag-restart, &brandShorterName; Ibabalik ang lahat ng iyong mga bukas na tab at window.">
+<!ENTITY updateRestart.message2 "Matapos ang isang mabilis na pag-restart, &brandShorterName; ibabalik ang lahat ng iyong mga bukas na tab at window na wala sa pribadong Pagba-browse mode.">
 <!ENTITY updateRestart.header.message2 "Mag-restart para ma-update &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "I-restart at Ibalik">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,7 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
 <!ENTITY pageAction.removeFromUrlbar.label "Tanggalin sa Address Bar">
 
-<!ENTITY sendToDevice.label3 "Ipadala ang Pahina sa Device">
+<!ENTITY pageAction.sendTabToDevice.label "Ipadala ang Tab sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
 
 <!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
