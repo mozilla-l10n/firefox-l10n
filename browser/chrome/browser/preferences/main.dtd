@@ -24,7 +24,7 @@
 
 <!ENTITY saveTo.label "Simpan fail ke">
 <!ENTITY saveTo.accesskey "n">
-<!ENTITY chooseFolderWin.label        "Lungsur…">
+<!ENTITY chooseFolderWin.label        "Cari…">
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Pilih…">
 <!ENTITY chooseFolderMac.accesskey    "P">
