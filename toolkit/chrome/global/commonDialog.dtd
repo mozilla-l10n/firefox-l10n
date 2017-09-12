@@ -10,4 +10,4 @@
 <!ENTITY copyCmd.label    "Salin">
 <!ENTITY copyCmd.accesskey "a">
 <!ENTITY selectAllCmd.label "Pilih Semua">
-<!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.accesskey "S">
