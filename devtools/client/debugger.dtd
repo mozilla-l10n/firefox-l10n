@@ -209,4 +209,4 @@
   -  the same as netmonitorUI.context.copyUrl -->
 <!ENTITY debuggerUI.context.copyUrl           "Salin URL">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "S">
-<!ENTITY debuggerUI.context.copyUrl.key "S">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
