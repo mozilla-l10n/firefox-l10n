@@ -241,6 +241,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
 <!ENTITY hideBookmarksToolbar.label         "বুকমার্ক টুলবার লুকাও">
 <!ENTITY searchBookmarks.label              "বুকমার্ক অনুসন্ধান">
+<!ENTITY bookmarkingTools.label             "বুকমার্ক টুলসমূহ">
+<!ENTITY addBookmarksMenu.label             "টুলবারে বুকমার্ক মেনু যোগ করুন">
+<!ENTITY removeBookmarksMenu.label          "টুলবার থেকে বুকমার্ক মেনু সরিয়ে নিন">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -827,6 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "সিঙ্ক">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "আপনার পছন্দের জিনিসসমূহ টুলবার অথবা ওভারফ্লো মেনুতে ড্রাগ করুন।">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরো টুলস চান?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
 <!ENTITY customizeMode.restoreDefaults "ডিফল্ট মান পুনরায় স্থাপন করুন">
