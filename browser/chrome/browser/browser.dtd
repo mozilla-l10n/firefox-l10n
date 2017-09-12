@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "İndirilenler">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "İndirilenler">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Adresi kopyala">
+<!ENTITY pageAction.copyLink.label    "Bağlantıyı kopyala">
 <!ENTITY copyURLFeedback.label        "Kopyalandı!">
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postala…">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ö">
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
 <!ENTITY emailVideoCmd.accesskey      "u">
-<!ENTITY castVideoCmd.label           "Videoyu cihaza gönder">
-<!ENTITY castVideoCmd.accesskey       "n">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
 <!ENTITY emailAudioCmd.accesskey      "ö">
 <!ENTITY playPluginCmd.label          "Bu yan uygulamayı etkinleştir">
@@ -962,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "a">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; tarayıcısının yeni bir kopyasını indir">
 
-<!ENTITY updateRestart.message "Yeniden başladıktan &brandShorterName; tüm açık sekmelerinizi ve pencerelerinizi geri yükleyecek.">
+<!ENTITY updateRestart.message2 "Yeniden başlatmanın ardından &brandShorterName; tüm açık sekme ve pencerelerinizi geri yükleyecek (Gizli Gezinti modundakiler hariç).">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlatın.">
 <!ENTITY updateRestart.acceptButton.label "Yeniden başlat ve geri yükle">
 <!ENTITY updateRestart.acceptButton.accesskey "b">
@@ -974,13 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Adres çubuğuna ekle">
 <!ENTITY pageAction.removeFromUrlbar.label "Adres çubuğundan kaldır">
 
-<!ENTITY sendToDevice.label3 "Sayfayı cihaza gönder">
+<!ENTITY pageAction.sendTabToDevice.label "Sekmeyi cihaza gönder">
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
 
 <!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Erişilebilirlik özellikleri açık">
