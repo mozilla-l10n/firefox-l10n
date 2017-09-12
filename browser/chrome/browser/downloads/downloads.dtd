@@ -61,7 +61,7 @@
 <!ENTITY cmd.goToDownloadPage.label       "Pergi Ke Halaman Muat turun">
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
 <!ENTITY cmd.copyDownloadLink.label       "Salin Pautan Muat Turun">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "P">
 <!ENTITY cmd.removeFromHistory.label      "Buang Daripada Sejarah">
 <!ENTITY cmd.removeFromHistory.accesskey  "u">
 <!ENTITY cmd.clearList2.label             "Buang Panel Previu">
