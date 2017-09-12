@@ -304,13 +304,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.accesskey          "S">
 <!ENTITY pasteCmd.label           "Tampal">
 <!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY pasteCmd.accesskey         "T">
 <!ENTITY deleteCmd.label          "Buang">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "B">
 <!ENTITY selectAllCmd.label         "Pilih Semua">
 <!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "S">
 <!ENTITY preferencesCmd2.label       "Pilihan">
 <!ENTITY preferencesCmd2.accesskey     "h">
 <!ENTITY preferencesCmdUnix.label       "Keutamaan">

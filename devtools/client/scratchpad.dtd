@@ -31,10 +31,10 @@
 
 <!ENTITY openFileCmd.label            "Buka Fail…">
 <!ENTITY openFileCmd.accesskey        "F">
-<!ENTITY openFileCmd.commandkey       "B">
+<!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Buka Terbaru">
-<!ENTITY openRecentMenu.accesskey     "R">
+<!ENTITY openRecentMenu.label         "Buka yang Terkini">
+<!ENTITY openRecentMenu.accesskey     "T">
 
 <!ENTITY revertCmd.label              "Berbalik semula…">
 <!ENTITY revertCmd.accesskey          "l">
