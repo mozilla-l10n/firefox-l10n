@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "વધુ શીખો">
+<!ENTITY changeBlockList2.label               "અવરોધિત સૂચિ બદલો…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "વધુ શીખો">
@@ -33,9 +34,12 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ટૅબ ખોલો">
 <!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "મૂળભૂત શોધ એંજીનથી સંબંધિત શોધ">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "શોધ એન્જિન સૂચનો માટે પસંદગીઓ બદલો">
 
+<!ENTITY  acceptCookies2.label          "વેબસાઇટ્સની કૂકીઝને સ્વીકારો">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty2.pre.label     "તૃતીય-પક્ષ કૂકીઝ સ્વીકારો">
