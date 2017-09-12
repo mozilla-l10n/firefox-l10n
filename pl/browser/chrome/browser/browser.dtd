@@ -29,6 +29,7 @@
 <!ENTITY sendPageToDevice.accesskey "P">
 <!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
 <!ENTITY sendLinkToDevice.accesskey "P">
+<!ENTITY sendToDeviceFeedback.label "Przesłano!">
 <!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
 <!ENTITY moveToNewWindow.accesskey "o">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
@@ -431,6 +432,7 @@
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
 <!ENTITY copyURLCmd.label "Kopiuj adres">
+<!ENTITY copyURLFeedback.label "Skopiowano!">
 <!ENTITY emailPageCmd.label "Wyślij odnośnik…">
 <!ENTITY emailPageCmd.accesskey "n">
 <!ENTITY savePageCmd.label "Zapisz stronę jako…" >
