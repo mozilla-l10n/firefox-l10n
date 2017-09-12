@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "İçe aktarma sihirbazı">
 
-<!ENTITY importFrom.label               "Seçenekleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
-<!ENTITY importFromUnix.label           "Tercihleri, yer imlerini, geçmiş bilgisini, parolaları ve diğer verileri buradan içe aktar:">
+<!ENTITY importFrom.label               "Seçenekleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:">
+<!ENTITY importFromUnix.label           "Tercihleri, yer imlerini, gezinti geçmişini, parolaları ve diğer verileri şu tarayıcıdan aktar:">
 <!ENTITY importFromBookmarks.label      "Yer imlerini buradan içe aktar:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -43,4 +43,4 @@
 <!ENTITY done.title                     "İçe aktarma tamamlandı">
 <!ENTITY done.label                     "Aşağıdaki öğeler başarılı şekilde içe aktarıldı:">
 
-<!ENTITY closeSourceBrowser.label       "Devam etmeden önce lütfen seçilen tarayıcının kapalı olduğundan emin olun.">
+<!ENTITY closeSourceBrowser.label       "Devam etmeden önce lütfen seçtiğiniz tarayıcının kapalı olduğundan emin olun.">
