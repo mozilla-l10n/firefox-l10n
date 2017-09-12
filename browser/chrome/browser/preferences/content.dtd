@@ -16,16 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Obvestila">
 <!ENTITY  notificationSettingsButton.label                      "Nastavitve …">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
 <!ENTITY  notificationPermissionsLearnMore.label                "Več o tem">
 
 <!ENTITY  locationPermissions.label                             "Lokacija">
 <!ENTITY  locationSettingsButton.label                          "Nastavitve …">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Nastavitve …">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
 <!ENTITY  microphoneSettingsButton.label                        "Nastavitve …">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Pisave in barve">
 

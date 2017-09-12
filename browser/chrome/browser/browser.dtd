@@ -963,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Prenesi svežo kopijo &brandShorterName;a">
 
+<!ENTITY updateRestart.message2 "Po hitrem ponovnem zagonu bo &brandShorterName; obnovil vse vaše odprte zavihke in okna, razen tistih v zasebnem brskanju.">
 <!ENTITY updateRestart.header.message2 "Ponovno zaženi za posodobitev &brandShorterName;a.">
 <!ENTITY updateRestart.acceptButton.label "Ponovno zaženi in obnovi">
 <!ENTITY updateRestart.acceptButton.accesskey "P">
@@ -977,3 +978,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Pošlji zavihek na napravo">
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">
 
+<!ENTITY libraryButton.tooltip "Prikaži zgodovino, shranjene zaznamke in drugo">

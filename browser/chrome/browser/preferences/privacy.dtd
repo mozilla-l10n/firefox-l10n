@@ -50,11 +50,13 @@
 <!ENTITY  acceptCookies2.accesskey      "S">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Sprejemaj piškotke tretjih strani">
+<!ENTITY  acceptThirdParty2.pre.accesskey "t">
 <!ENTITY  acceptThirdParty.always.label   "Vedno">
 <!ENTITY  acceptThirdParty.never.label    "Nikoli">
 <!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
 
 <!ENTITY  keepUntil2.label              "Obdrži jih">
+<!ENTITY  keepUntil2.accesskey          "j">
 
 <!ENTITY  expire.label                  "dokler ne pretečejo">
 <!ENTITY  close.label                   "dokler ne zaprem &brandShortName;a">
@@ -112,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Nastavitve …">
 <!ENTITY  browserContainersSettings.accesskey    "N">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Storitvam za dostopnost prepreči dostop do brskalnika">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Več o tem">
