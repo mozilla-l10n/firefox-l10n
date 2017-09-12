@@ -125,9 +125,9 @@ available. -->
 <!ENTITY certificateTab.label            "Sijil">
 <!ENTITY certPersonal2.description       "Apabila pelayan meminta sijil peribadi anda">
 <!ENTITY selectCerts.auto                "Pilih satu secara automatik">
-<!ENTITY selectCerts.auto.accesskey      "T">
+<!ENTITY selectCerts.auto.accesskey      "P">
 <!ENTITY selectCerts.ask                 "Tanya setiap kali">
-<!ENTITY selectCerts.ask.accesskey       "K">
+<!ENTITY selectCerts.ask.accesskey       "T">
 <!ENTITY enableOCSP.label                "Tanya pelayan responder OCSP untuk memastikan kesahihan sijil semasa">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts2.label                "Papar Sijil…">

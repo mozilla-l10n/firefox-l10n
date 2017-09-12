@@ -13,7 +13,7 @@
 <!ENTITY projectMenu_importHostedApp_label "Buka App Hos…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Buka App…">
-<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_selectApp_accesskey "B">
 <!ENTITY projectMenu_play_label "Pasang dan Buka">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Hentikan App">
