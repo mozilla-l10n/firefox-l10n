@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Klik untuk pilih kolum dipapar"> 
 
 <!-- Context Menu -->
-<!ENTITY copyPref.key "S">
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Salin">
 <!ENTITY copyPref.accesskey "n">
 <!ENTITY copyName.label "Salin Nama">
