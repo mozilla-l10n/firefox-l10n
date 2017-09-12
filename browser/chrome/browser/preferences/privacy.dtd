@@ -25,7 +25,7 @@
 <!ENTITY changeBlockList2.label               "Engelleme listesini değiştir…">
 <!ENTITY changeBlockList2.accesskey           "E">
 
-<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
+<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” uyarısı gönder">
 <!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
 <!ENTITY  doNotTrack.default.label      "Yalnızca İzlenme Koruması’nı kullanırken">
 <!ENTITY  doNotTrack.always.label       "Her zaman">
