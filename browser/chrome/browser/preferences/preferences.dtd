@@ -21,10 +21,11 @@
 <!ENTITY  paneContainers.title          "पात्र टैब">
 <!ENTITY  paneUpdates.title             "अद्यतन">
 
-
+<!ENTITY  languageAndAppearance.label   "भाषा और उपस्थिति">
+<!ENTITY  filesAndApplications.label    "फ़ाइल व अनुप्रयोग">
+<!ENTITY  browserPrivacy.label          "ब्राउज़र गोपनीयता">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-
 <!ENTITY  paneSync1.title          "Firefox खाता">
 
 <!ENTITY  helpButton2.label        "&brandShortName; समर्थन">

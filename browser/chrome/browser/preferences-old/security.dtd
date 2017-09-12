@@ -4,12 +4,12 @@
 
 <!ENTITY  general.label                 "सामान्य">
 
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "ख़तरनाक और संदेहास्पद सामग्री रोकें">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -25,7 +25,8 @@
 
 <!ENTITY  logins.label                  "दाखिला">
 
-
+<!ENTITY  rememberLogins2.label         "वेबसाइटों के लिए लॉगिन याद रखें">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

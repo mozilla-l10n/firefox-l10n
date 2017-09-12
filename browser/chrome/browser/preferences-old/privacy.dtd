@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "अधिक जानें">
 <!ENTITY changeBlockList.label          "अवरोधित सूची बदलें">
 <!ENTITY changeBlockList.accesskey      "अ">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "आप भी">
 <!ENTITY  doNotTrack.settings.label     "अपनी डू नॉट ट्रैक सैटिंग्स का प्रबंधन करें">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -43,7 +43,8 @@
 <!ENTITY  suggestionSettings.label      "खोज इंजिन सुझाव के लिए प्राथमिकताएँ बदलें...">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-
+<!ENTITY  acceptCookies2.label          "वेबसाइटों से कुकीज़ स्वीकार करें">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "त्रिपक्षीय कुकीज़ स्वीकारें:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
@@ -71,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "‍">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; आपके ब्राउज़िंग, डाउनलोड, फ़ॉर्म और खोज इतिहास, आपके द्वारा देखे गए वेबसाइटों के कुकीज़ याद रखेगा.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "आप">
 <!ENTITY  rememberActions.clearHistory.label  "अपने हालिया इतिहास साफ कर">
 <!ENTITY  rememberActions.middle.label        ", या ">
@@ -82,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; बतौर निजी ब्राउज़िंग की तरह समान सेटिंग का उपयोग करेगा, और कोई इतिहास याद नहीं रखेगा जब आप वेब ब्राउज़ करते हैं.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "आप साथ ही चाह सकते हैं ">
 <!ENTITY  dontrememberActions.clearHistory.label "सभी मौजूदा इतिहास साफ करना">
 <!ENTITY  dontrememberActions.post.label         ".">
