@@ -15,7 +15,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "શા માટે આ પૃષ્ઠ અવરોધિત કરવામાં આવ્યું હતું?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "દ્વારા પૂરી પાડવામાં આવેલ સલાહ">
+<!ENTITY safeb.palm.advisory.desc "સલાહકાર દ્વારા પૂરી પાડવામાં આવેલ <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "હુમલો થયેલ પાનાંનો અહેવાલ થયેલ છે!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -24,7 +24,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "અનિચ્છિત સૉફ્ટવેર પૃષ્ઠની જાણ કરાઈ!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "આ <span id='unwanted_sitename'/>વેબપેજમાં અણઆવિત સૉફ્ટવેર શામેલ હોવાની જાણ કરવામાં આવી છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવી છે.</span>">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "અહીં આ વેબપૃષ્ઠ <span id='unwanted_sitename'/> અણઆવિત સૉફ્ટવેર શામેલ હોવાની જાણ કરવામાં આવી છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવી છે.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>અવાંછિત સોફ્ટવેર પૃષ્ઠો એવા સોફ્ટવેર ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે જે અનિચ્છનીય રીતે તમારી સિસ્ટમને ભ્રામક અને અસર કરી શકે છે.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "ભ્રામક સાઇટ!">
