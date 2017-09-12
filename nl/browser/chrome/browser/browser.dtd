@@ -45,11 +45,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Tabblad losmaken">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Tabblad naar apparaat verzenden">
-<!ENTITY  sendTabToDevice.accesskey          "z">
+<!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Pagina naar apparaat verzenden">
-<!ENTITY  sendPageToDevice.accesskey         "z">
+<!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Koppeling naar apparaat verzenden">
-<!ENTITY  sendLinkToDevice.accesskey         "z">
+<!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  sendToDeviceFeedback.label         "Verzonden!">
 <!ENTITY  moveToNewWindow.label              "Verplaatsen naar nieuw venster">
 <!ENTITY  moveToNewWindow.accesskey          "w">
