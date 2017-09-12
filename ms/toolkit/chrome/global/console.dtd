@@ -17,7 +17,7 @@
 <!ENTITY messages.label     "Mesej">
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Buang">
-<!ENTITY clear.accesskey    "n">
+<!ENTITY clear.accesskey    "B">
 <!ENTITY codeEval.label     "Kod:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Menilai">
