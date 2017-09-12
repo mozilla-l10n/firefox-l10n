@@ -21,6 +21,8 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
 <!ENTITY aboutTelemetry.moreInformations "Több információt keres?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "A <a>Firefox adatok dokumentáció</a> útmutatókat tartalmaz arról, hogyan dolgozzon az adateszközeinkkel.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "A <a>Firefox telemetria ügyfél dokumentáció</a> fogalomdefiníciókat, API dokumentációkat és adathivatkozásokat tartalmaz.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Megnyitás a JSON megjelenítővel">
 
