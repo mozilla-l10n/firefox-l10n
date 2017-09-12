@@ -975,7 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Ajouter à la barre d’adresse">
 <!ENTITY pageAction.removeFromUrlbar.label "Retirer de la barre d’adresse">
 
-<!ENTITY pageAction.sendTabToDevice.label "Envoyer l'onglet vers un appareil">
+<!ENTITY pageAction.sendTabToDevice.label "Envoyer l’onglet vers un appareil">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
 
 <!ENTITY libraryButton.tooltip "Consulter l’historique, les marque-pages enregistrés et plus encore">
