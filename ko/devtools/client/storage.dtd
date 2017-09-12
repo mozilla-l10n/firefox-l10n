@@ -9,3 +9,6 @@
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
 <!ENTITY storage.popupMenu.deleteAllLabel "모두 삭제">
+
+<!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "모든 세션 쿠키 삭제">
