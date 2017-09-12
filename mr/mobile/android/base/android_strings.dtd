@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
-<!ENTITY firstrun_urlbar_subtext "उपयुक्त शोध सूचना शॉर्टकट्सने गोष्टी जलद शोधा.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखूणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
-<!ENTITY firstrun_sync_message "&brandShortName;, सदा आपल्याकडून">
-<!ENTITY firstrun_sync_subtext "आपले टॅबस्, पासवर्ड,आणि बरच काही सर्वत्र ताळमेळीत करा.">
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
 <!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
@@ -201,8 +196,6 @@
 <!ENTITY pref_category_advanced_summary3 "टॅब्स, प्लगइन, विकसक साधने मूळस्थितीत आणा">
 <!ENTITY pref_category_notifications "सूचना">
 <!ENTITY pref_category_notifications_summary "नवीन वैशिष्ट्ये, वेबसाइट अद्ययावत">
-<!ENTITY pref_content_notifications "वेबसाइट अद्ययावत">
-<!ENTITY pref_content_notifications_summary2 "समर्थीत साइटवरील नवीन मजकूर शोधा">
 <!ENTITY pref_developer_remotedebugging_usb "USB द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारे दूरस्थ डीबगिंग">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंगसाठी आपल्या उपकरणामधे QR कोड वाचक असणे आवश्यक आहे.">
@@ -330,23 +323,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;अनेक दुवे उघडण्यासाठी\&quot;, &brandShortName; वर \&quot;इतर अॅप्स वर काढा\&quot; सक्रीय करा">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; वेबसाइट अद्ययावत">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "सेटिंग">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "आता वाचा">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; ला अद्ययावत केले">
-
 <!ENTITY pref_char_encoding "कॅरेक्टर एनकोडींग">
 <!ENTITY pref_char_encoding_on "मेनु दाखवा">
 <!ENTITY pref_char_encoding_off "मेनु दाखवु नका">
@@ -355,7 +331,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "आता पुसा">
 <!ENTITY pref_clear_on_exit_title3 "बाहेर पडताना खाजगी माहिती पुसुन टाका">
-<!ENTITY pref_clear_on_exit_summary2 "जेव्हा आपण मुख्य मेनू मधून \u0022बंद\u0022 निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
+<!ENTITY pref_clear_on_exit_summary2 "जेव्हा आपण मुख्य मेनू मधून \&quot;बंद\&quot; निवडाल तेव्हा &brandShortName; आपोआप आपली माहिती पुसेल">
 <!ENTITY pref_clear_on_exit_dialog_title "कोणती माहिती पुसायची ते निवडा">
 <!ENTITY pref_restore_tabs "टॅब्स मूळस्थितीत आणा">
 <!ENTITY pref_restore_always "नेहमी पूर्वस्थित करा">
@@ -405,6 +381,9 @@
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारीत म्हणून सेट करा">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारीत">
 <!ENTITY pref_dialog_remove "काढून टाका">
+<!ENTITY pref_dialog_activitystream_header_content "अतिरिक्त मजकूर">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "अलीकडील वाचनखूणा">
+<!ENTITY pref_dialog_activitystream_visited "भेट दिलेले">
 
 <!ENTITY pref_search_last_toast "आपण आपलं शेवटचं सर्च इंजिन काढू किंवा निष्क्रिय करु शकत नाही.">
 
@@ -826,6 +805,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "वाचनखुणांमध्ये समाविष्ट करा">
 
 <!ENTITY activity_stream_topsites "खास साईट्स">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "महत्त्वाचे">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -834,17 +814,17 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "भेट दिलेले">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ब्राउझिंग सुरू करा, आणि आम्ही आपल्याला इथे आपण अलीकडील भेट दिलेले किंवा वाचनखूण लावलेले उत्कृष्ठ लेख, व्हिडिओ, आणि इतर पृष्ठांपैकी काही दाखवू.">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "बरखास्त">
 <!ENTITY activity_stream_delete_history "इतिहासातून नष्ट करा">
-
-<!ENTITY activity_stream_welcome_title "आपल्या ठळक मुद्द्यांमध्ये आपले स्वागत आहे">
-<!ENTITY activity_stream_welcome_content1 "आता &brandShortName; आपण वेब वर शोधलेल्या गोष्टींना ठळक करते जेणेकरुन आपण महान लेख, विडिओ, वाचनखुणा आणि इतर पृष्ठांपर्यंतचा आपला मार्ग शोधू शकता.">
 
 <!ENTITY private_tab_panel_title "खाजगी ब्राउझिंग + ट्रॅकिंग संरक्षण">
 <!ENTITY private_tab_panel_description "&brandShortName; पृष्ठाचा काही भाग अडवते जे कदाचित आपल्या ब्राउझिंगचा मागोवा घेऊ शकतात.">
 <!ENTITY private_tab_panel_description2 "आम्ही कुठलाही इतिहास लक्षात ठेवणार नाही, पण डाउनलोड केलेल्या फाइल आणि नवीन वाचनखूणा मात्र आपल्या उपकरणावर साठवल्या जातील.">
 <!ENTITY private_tab_learn_more "अधिक जाणून घेऊ इच्छिता?">
+
