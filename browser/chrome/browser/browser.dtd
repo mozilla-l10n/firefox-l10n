@@ -71,7 +71,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Buka Lokasi…">
 <!ENTITY openFileCmd.label "Buka Fail…">
 <!ENTITY openFileCmd.accesskey "B">
-<!ENTITY openFileCmd.commandkey "b">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Tatacara Halaman…">
 <!ENTITY printSetupCmd.accesskey "T">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
@@ -306,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
 <!ENTITY deleteCmd.label          "Buang">
-<!ENTITY deleteCmd.key            "B">
+<!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "B">
 <!ENTITY selectAllCmd.label         "Pilih Semua">
 <!ENTITY selectAllCmd.key         "A">

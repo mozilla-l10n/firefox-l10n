@@ -47,7 +47,7 @@
 <!ENTITY cmd.open.label                  "Buka">
 <!ENTITY cmd.open.accesskey              "k">
 <!ENTITY cmd.open_window.label           "Buka dalam Tetingkap Baru">
-<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_window.accesskey       "B">
 <!ENTITY cmd.open_private_window.label     "Buka dalam Tetingkap Peribadi Baru">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "Buka dalam Tab Baru">

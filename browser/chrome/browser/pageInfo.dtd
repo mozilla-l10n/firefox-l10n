@@ -59,8 +59,8 @@
 <!ENTITY  permissionsFor        "Keizinan untuk:">
 <!ENTITY  permPlugins           "Plugin Aktif">
 
-<!ENTITY  permClearStorage           "Bersihkan Storan">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permClearStorage           "Buang Storan">
+<!ENTITY  permClearStorage.accesskey "S">
 
 <!ENTITY  securityTab           "Keselamatan">
 <!ENTITY  securityTab.accesskey "S">
