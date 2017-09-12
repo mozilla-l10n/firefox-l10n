@@ -11,10 +11,15 @@
 <!ENTITY  sizeProportional.accesskey              "V">
 <!ENTITY  sizeMonospace.accesskey                 "k">
 
+<!ENTITY  proportional2.label                     "Raznoširinska">
+<!ENTITY  proportional2.accesskey                 "R">
 
 <!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
 <!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "a">
 <!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "E">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -49,6 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "tibetansko">
 <!-- Minimum font size -->
 <!ENTITY minSize2.label                           "Najmanjša velikost pisav">
+<!ENTITY minSize2.accesskey                       "N">
 <!ENTITY minSize.none                             "je ni">
 
 <!-- default font type -->
@@ -59,6 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "h">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Nabor znakov za starejše vsebine">
+<!ENTITY languages.customize.Fallback3.label      "Pomožno kodiranje besedila">
+<!ENTITY languages.customize.Fallback3.accesskey  "ž">
 <!ENTITY languages.customize.Fallback2.desc       "Ta nabor znakov se uporablja za starejše vsebine, ki nimajo navedenega nabora.">
 
 <!ENTITY languages.customize.Fallback.auto        "Privzeto za trenuten jezik">

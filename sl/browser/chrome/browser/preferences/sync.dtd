@@ -67,7 +67,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.">
 <!ENTITY signedOut.accountBox.title   "Poveži s &syncBrand.fxAccount.label;om">
 <!ENTITY signedOut.accountBox.create2 "Še nimate računa? Začnite">
+<!ENTITY signedOut.accountBox.create2.accesskey "Š">
 <!ENTITY signedOut.accountBox.signin2 "Prijava …">
+<!ENTITY signedOut.accountBox.signin2.accesskey "P">
 
 <!ENTITY signedIn.settings.label       "Nastavitve Synca">
 <!ENTITY signedIn.settings.description "Izberite, kaj želite sinhronizirati med svojimi napravami s pomočjo &brandShortName;a.">
