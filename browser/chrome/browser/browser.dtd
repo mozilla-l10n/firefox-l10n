@@ -26,14 +26,14 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Ljepblêd duplisearje">
-<!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  duplicateTab.accesskey             "e">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Ljepblêden oan de rjochterkant slute">
 <!ENTITY  closeTabsToTheEnd.accesskey        "j">
 <!ENTITY  closeOtherTabs.label               "Oare ljepblêden slute">
-<!ENTITY  closeOtherTabs.accesskey           "S">
+<!ENTITY  closeOtherTabs.accesskey           "O">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
