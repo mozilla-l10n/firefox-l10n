@@ -492,7 +492,17 @@
 <!ENTITY contextmenu_top_sites_edit "Muuda">
 <!ENTITY contextmenu_top_sites_pin "Kinnita sait">
 <!ENTITY contextmenu_top_sites_unpin "Eemalda saidilt kohakinnitus">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Kinnita top saitide hulka">
+<!ENTITY contextmenu_unpin_from_top_sites "Eemalda top saitide hulgast">
 <!ENTITY contextmenu_add_search_engine "Lisa otsingumootor">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Sait kinnitati top saitide hulka">
+<!ENTITY unpinned_page_from_top_sites "Sait eemaldati top saitide hulgast">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
