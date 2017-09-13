@@ -1,15 +1,14 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "ಸಾಮಾನ್ಯ">
 
 <!ENTITY useCursorNavigation.label       "ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
+<!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "ಅಗತ್ಯಬಿದ್ದಾಗ ಒಂದು ಟಚ್ ಕೀಲಮಣೆಯನ್ನು ತೋರಿಸು">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -19,25 +18,25 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ಮೃದು ಚಲನೆಯನ್ನು ಬಳಸು">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-
-
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY healthReportLearnMore.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "ಗೌಪ್ಯತಾ ಸೂಚನೆ">
 
-
-
-
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 <!ENTITY networkTab.label                "ಜಾಲಬಂಧ">
 
+<!ENTITY networkProxy.label              "ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿ">
 
 <!ENTITY connectionDesc.label            "&brandShortName; ಹೇಗೆ ಅಂತರಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಳ್ಳಬೇಕೆಂದು ಸಂರಚಿಸಿ ">
 <!ENTITY connectionSettings.label        "ಸಿದ್ಧತೆಗಳು...">
@@ -46,11 +45,13 @@ available. -->
 <!ENTITY httpCache.label                 "ಕ್ಯಾಶ್ ಮಾಡಲಾದ ಜಾಲದ ವಿಷಯಗಳು">
 
 <!ENTITY offlineStorage2.label           "ಆಫ್‌ಲೈನ್ ಜಾಲದ ವಿಷಯಗಳು ಮತ್ತು ಬಳಕೆದಾರ ಮಾಹಿತಿ">
+
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
-
+<!ENTITY clearSiteData.label             "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "ಸಿದ್ಧತೆಗಳು...">
 <!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -58,7 +59,6 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "ಕ್ಯಾಶೆಯನ್ನು ಇದಕ್ಕೆ ಮಿತಿಗೊಳಿಸು">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ಯಷ್ಟು ಸ್ಥಳ">
@@ -70,6 +70,7 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
@@ -80,21 +81,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-
+<!ENTITY updateApplication.version.pre   "ಆವೃತ್ತಿ">
 <!ENTITY updateApplication.version.post  "">
-
-
-
-
-
-
-
-
+<!ENTITY updateAuto3.accesskey           "A">
 
 
 <!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
 <!ENTITY useService.accesskey            "b">
-
 
 
 <!ENTITY offlineStorageNotify.label               "ಒಂದು ಜಾಲತಾಣವು ಮಾಹಿತಿಯನ್ನು ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಶೇಖರಿಸಿಡಲು ಕೇಳಿದಾಗ ನಿಮಗೆ ತಿಳಿಸು‍ತ್ತದೆ">
@@ -108,26 +101,12 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "ಆಫ್‌ಲೈನ್‌ ಮಾಹಿತಿಯನ್ನು ತೆಗೆದು ಹಾಕು">
 
 <!ENTITY certificateTab.label            "ಪ್ರಮಾಣಪತ್ರಗಳು">
-
 <!ENTITY selectCerts.auto                "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಒಂದನ್ನು ಆರಿಸು">
 <!ENTITY selectCerts.auto.accesskey      "S‍">
 <!ENTITY selectCerts.ask                 "ಪ್ರತಿ ಬಾರಿಯೂ ನನ್ನನ್ನು ಕೇಳು">
 <!ENTITY selectCerts.ask.accesskey       "A‍">
 <!ENTITY enableOCSP.label                "ಪ್ರಮಾಣಪತ್ರಗಳ ಪ್ರಸಕ್ತ ಮಾನ್ಯತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು OCSP ರೆಸ್ಪಾಂಡರ್ ಪೂರೈಕೆಗಣಕಗಳಿಗೆ ಮನವಿ ಮಾಡಿ">
 <!ENTITY enableOCSP.accesskey            "Q">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
 <!ENTITY allowHWAccel.accesskey          "r">
