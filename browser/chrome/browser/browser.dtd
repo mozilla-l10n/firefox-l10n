@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "B">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Bruk berøring for nettbrettmodus">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Skjul automatisk">
+
 <!ENTITY getUserMedia.selectCamera.label "Kamera som deles:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon som deles:">
