@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Comptes">
 <!ENTITY subscribeImapFolders.label   "Gérer les abonnements aux dossiers">
 <!ENTITY settingsLink.label           "Voir les paramètres pour ce compte">
-<!ENTITY newAcctLink.label            "Créer un nouveau compte">
-<!ENTITY newAcct.label                "Créer un nouveau compte :">
+<!ENTITY setupNewAcct.label           "Configurer un compte :">
 
 <!ENTITY advFeaturesSectionHdr.label  "Fonctions avancées">
 <!ENTITY searchMsgsLink.label         "Rechercher dans les messages">
