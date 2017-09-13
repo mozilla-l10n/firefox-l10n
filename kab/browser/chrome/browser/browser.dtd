@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Seqdec annalan deg uskar n tfelwit n uselkem">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Ffer s wudem awurman">
+
 <!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "T">
 <!ENTITY getUserMedia.selectMicrophone.label "Asawaḍ n beṭṭu:">
