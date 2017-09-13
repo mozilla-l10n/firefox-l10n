@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "인증 기관">
 <!ENTITY certmgr.tab.orphan2                  "기타">
 
-<!ENTITY certmgr.mine                         "개인 인증서를 사용하실 수 있습니다:">
-<!ENTITY certmgr.others                       "다른 사람의 인증서를 사용하실 수 있습니다:">
-<!ENTITY certmgr.websites2                    "웹 사이트를 인증하는 데 사용할 수 있습니다:">
-<!ENTITY certmgr.cas                          "웹 서버 인증 기관을 사용하실 수 있습니다:">
-<!ENTITY certmgr.orphans                      "분류와 일치하지 않는 기타 인증서를 가지고 있습니다:">
+<!ENTITY certmgr.mine2                        "사용자를 확인하는 이 기관의 인증서를 가지고 있습니다">
+<!ENTITY certmgr.others2                      "다음 사람들을 확인하는 파일의 인증서를 가지고 있습니다">
+<!ENTITY certmgr.websites3                    "다음 서버들을 확인하는 파일의 인증서를 가지고 있습니다">
+<!ENTITY certmgr.cas2                         "다음 인증 권한을 확인하는 파일의 인증서를 가지고 있습니다">
+<!ENTITY certmgr.orphans2                     "다른 분류에 포함되지 않는 파일의 인증서를 가지고 있습니다">
 
 <!ENTITY certmgr.detail.general_tab.title     "일반">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
