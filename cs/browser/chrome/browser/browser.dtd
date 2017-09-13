@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "V režimu tabletu použít velikost pro dotyk">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Automaticky skrývat">
+
 <!ENTITY getUserMedia.selectCamera.label "Sdílet kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Sdílet mikrofon:">
