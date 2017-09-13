@@ -372,7 +372,11 @@
 <!ENTITY contextmenu_top_sites_edit "Edytuj">
 <!ENTITY contextmenu_top_sites_pin "Przypnij stronę">
 <!ENTITY contextmenu_top_sites_unpin "Odepnij stronę">
+<!ENTITY contextmenu_pin_to_top_sites "Przypnij do popularnych stron">
+<!ENTITY contextmenu_unpin_from_top_sites "Odepnij od popularnych stron">
 <!ENTITY contextmenu_add_search_engine "Dodaj wyszukiwarkę">
+<!ENTITY pinned_page_to_top_sites "Przypięto do popularnych stron">
+<!ENTITY unpinned_page_from_top_sites "Odpięto od popularnych stron">
 
 <!ENTITY doorhanger_login_no_username "[brak nazwy użytkownika]">
 <!ENTITY doorhanger_login_edit_title "Edycja danych logowania">
