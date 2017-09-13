@@ -263,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "ดาวน์โหลด">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ดาวน์โหลด">
 <!ENTITY downloads.accesskey          "ด">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -864,6 +865,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "สัมผัส">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ส">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ใช้การสัมผัสสำหรับโหมดแท็บเล็ต">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "ซ่อนอัตโนมัติ">
 
 <!ENTITY getUserMedia.selectCamera.label "กล้องที่แบ่งปัน:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
