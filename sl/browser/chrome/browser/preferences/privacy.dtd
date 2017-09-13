@@ -35,7 +35,7 @@
 
 <!ENTITY  addressBar.label              "Naslovna vrstica">
 <!ENTITY  addressBar.suggest.label      "Pri uporabi naslovne vrstice predlagaj">
-<!ENTITY  locbar.history2.label         "Zgodovina brskanja">
+<!ENTITY  locbar.history2.label         "Zgodovino brskanja">
 <!ENTITY  locbar.history2.accesskey     "Z">
 <!ENTITY  locbar.bookmarks.label        "Zaznamke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
@@ -55,7 +55,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Nikoli">
 <!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
 
-<!ENTITY  keepUntil2.label              "Obdrži jih">
+<!ENTITY  keepUntil2.label              "Obdrži jih,">
 <!ENTITY  keepUntil2.accesskey          "j">
 
 <!ENTITY  expire.label                  "dokler ne pretečejo">
@@ -69,9 +69,9 @@
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; naj">
 <!ENTITY  historyHeader2.pre.accesskey     "n">
-<!ENTITY  historyHeader.remember.label     "Shranjuje zgodovino">
-<!ENTITY  historyHeader.dontremember.label "Ne shranjuje zgodovine">
-<!ENTITY  historyHeader.custom.label       "Uporablja posebne nastavitve za zgodovino">
+<!ENTITY  historyHeader.remember.label     "shranjuje zgodovino">
+<!ENTITY  historyHeader.dontremember.label "ne shranjuje zgodovine">
+<!ENTITY  historyHeader.custom.label       "uporablja posebne nastavitve za zgodovino">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; si bo zapomnil zgodovino brskanja, prenosov, obrazcev in iskanja ter shranil piškotke spletnih strani, ki jih obiščete.">
@@ -103,7 +103,7 @@
 <!ENTITY  rememberSearchForm.accesskey   "i">
 
 <!ENTITY  clearOnClose.label             "Počisti zgodovino ob izhodu iz programa &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "g">
+<!ENTITY  clearOnClose.accesskey         "d">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavitve …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
