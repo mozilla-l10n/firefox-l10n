@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Uzi tuŝekranan densecon por tabulkomputila reĝimo">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Automate kaŝi">
+
 <!ENTITY getUserMedia.selectCamera.label "Dividota filmilo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
 <!ENTITY getUserMedia.selectMicrophone.label "Dividota mikrofono:">
