@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "r">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Érintés használata a táblagép módhoz">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Automatikus elrejtés">
+
 <!ENTITY getUserMedia.selectCamera.label "Megosztandó kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Megosztandó mikrofon:">
