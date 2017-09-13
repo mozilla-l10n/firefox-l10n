@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Defnyddiwch Cyffwrdd ar gyfer y Modd Tabled">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Awto-guddio">
+
 <!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Meicroffon i'w rannu:">
