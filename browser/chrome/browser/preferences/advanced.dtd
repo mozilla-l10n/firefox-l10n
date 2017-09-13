@@ -84,7 +84,12 @@ available. -->
 <!ENTITY updateApplication.version.pre   "ಆವೃತ್ತಿ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಆಯ್ಕೆಯನ್ನು ನಿಮಗೆ ಬಿಡುತ್ತದೆ">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
 <!ENTITY useService.accesskey            "b">
