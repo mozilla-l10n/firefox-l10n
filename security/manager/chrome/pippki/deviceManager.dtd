@@ -26,7 +26,10 @@
 
 <!ENTITY loaddevice.info                        "Masukkan informasi tentang modul yang ingin ditambahkan.">
 <!ENTITY loaddevice.modname2                    "Nama Modul">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Modul baru PKCS#11">
+<!ENTITY loaddevice.filename2                   "Nama berkas modul">
+<!ENTITY loaddevice.filename2.accesskey         "b">
 <!ENTITY loaddevice.browse                      "Telusuri…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
