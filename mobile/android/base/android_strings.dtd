@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
+<!ENTITY firstrun_urlbar_message2 "ಆಯ್ಕೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು &brandShortName;‍">
+<!ENTITY firstrun_panel_title_privacy "ಗೌಪ್ಯತೆ">
+<!ENTITY firstrun_panel_title_customize "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!ENTITY firstrun_bookmarks_title "ಇತಿಹಾಸ">
 <!ENTITY firstrun_bookmarks_message "ನಿಮ್ಮ ಮೆಚ್ಚಿನವು, ಮುಂ‍ಭಾಗ ಮತ್ತು ಮಧ್ಯೆ">
 <!ENTITY firstrun_bookmarks_subtext "ನೀವು ಹುಡುಕುವಾಗ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸದಿಂದ ಫಲಿತಾಂಶ ಪಡೆಯಿರಿ.">
@@ -381,6 +384,9 @@
 <!ENTITY pref_dialog_set_default "ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಹೊಂದಿಸು">
 <!ENTITY pref_dialog_default "ಪೂರ್ವನಿಯೋಜಿತ">
 <!ENTITY pref_dialog_remove "ತೆಗೆದು ಹಾಕು">
+<!ENTITY pref_dialog_activitystream_header_content "ಹೆಚ್ಚುವರಿ ವಿಷಯಗಳು">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "ಇತ್ತೀಚಿನ ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY pref_dialog_activitystream_visited "ಭೇಟಿ ನೀಡಲಾದ‍">
 
 <!ENTITY pref_search_last_toast "ನಿಮ್ಮ ಕೊನೆಯ ಸರ್ಚ್ ಎಂಜಿನ್‌ ಅನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಅಥವ ತೆಗೆದುಹಾಕುಲು ಸಾಧ್ಯವಿಲ್ಲ.">
 
@@ -482,7 +488,13 @@
 <!ENTITY contextmenu_top_sites_edit "ಸಂಪಾದನೆ">
 <!ENTITY contextmenu_top_sites_pin "ತಾಣವನ್ನು ಹಿಡಿದಿಡು">
 <!ENTITY contextmenu_top_sites_unpin "ತಾಣವನ್ನು ಬಿಡುಗಡೆಗೊಳಿಸು">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "ಹುಡುಕು ಸಾಧನವನ್ನು ಸೇರಿಸಿ">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -812,11 +824,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ಭೇಟಿ ನೀಡಲಾದ‍">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "ಪ್ರಚಲಿತ">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "ತೆಗೆದು ಹಾಕು">
 <!ENTITY activity_stream_delete_history "ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍">
 
+<!ENTITY private_tab_panel_title "ಖಾಸಗಿ ಜಾಲಾಟ + ಜಾಡುಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷತೆ">
+<!ENTITY private_tab_panel_description "&brandShortName; ನಿಮ್ಮ ಜಾಲಾಟದ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ.">
+<!ENTITY private_tab_panel_description2 "ನಾವು ಹಿಂದಿನ ಇತಿಹಾಸ ನೆನಪಿನಲ್ಲಿಡುವುದಿಲ್ಲ, ಆದರೆ ಡೌನ್ಲೋಡ್ ಮಾಡಿದ ಕಡತಗಳು ಮತ್ತು ಹೊಸ ಪುಟಗುರುತುಗಳು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿದುಕೊಳ್ಳುತ್ತವೆ.">
+<!ENTITY private_tab_learn_more "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
 
+<!ENTITY fullscreen_warning "ಪೂರ್ಣಪರದೆಗೆ ಪ್ರವೇಶಿಸಿದೆ">
