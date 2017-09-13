@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "ს">
 <!ENTITY cmd.showMac.label                "Finder-ში ჩვენება">
 <!ENTITY cmd.showMac.accesskey            "ჩ">
+<!ENTITY cmd.showDownloads.label          "ჩამოტვირთვების საქაღალდის ნახვა">
 <!ENTITY cmd.retry.label                  "ახლიდან">
 <!ENTITY cmd.goToDownloadPage.label       "ჩამოტვირთვის გვერდზე გადასვლა">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ჩ">
