@@ -39,7 +39,7 @@
 <!ENTITY  SSLport.accesskey             "a">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy2.label                "Ni posrednika za">
+<!ENTITY  noproxy2.label                "Brez posrednika za">
 <!ENTITY  noproxy2.accesskey            "B">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz">
 <!ENTITY  shareproxy.label              "Uporabi istega posrednika za vse protokole">
