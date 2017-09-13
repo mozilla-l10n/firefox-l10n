@@ -29,7 +29,7 @@
   -  csscoverage.preload3): These 3 are part of a paragraph with 1 and 2
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
   -  <style> tag -->
-<!ENTITY csscoverage.optimize.body1 "Terkadang anda boleh percepatkan pemuatan dengan menggerakkannya">
+<!ENTITY csscoverage.optimize.body1 "Kadangkala anda boleh percepatkan pemuatan dengan menggerakkan">
 <!ENTITY csscoverage.optimize.body2 "tag ke bawah halaman dan cipta baris baharu">
 <!ENTITY csscoverage.optimize.body3 "elemen dengan gaya diperlukan sebelum acara 'load' ke atas. Ini adalah gaya blok yang anda perlukan: ">
 
