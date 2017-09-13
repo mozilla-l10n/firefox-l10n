@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "ಮಾಲಿಕ:">
 <!ENTITY  securityView.identity.domain   "ಜಾಲ ತಾಣ:">
 <!ENTITY  securityView.identity.verifier "ಇವರಿಂದ ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟಿದೆ:">
-
+<!ENTITY  securityView.identity.validity "ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ:">
 
 <!ENTITY  securityView.privacy.header                   "ಗೌಪ್ಯತೆ ಹಾಗು ಇತಿಹಾಸ">
 <!ENTITY  securityView.privacy.history                  "ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?">
