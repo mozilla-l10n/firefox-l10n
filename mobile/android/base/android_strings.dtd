@@ -4,6 +4,10 @@
 
 <!ENTITY firstrun_panel_title_welcome "Добре дошли">
 <!ENTITY firstrun_urlbar_message2 "Благодарим ви, че избрахте &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Модерен мобилен мрежов четец от Mozilla, организацията с нестопанска цел, отдадена на свободната и отворена Мрежа.">
+<!ENTITY firstrun_panel_title_privacy "Поверителност">
+<!ENTITY firstrun_privacy_message "Разглеждайте без да ви следят">
+<!ENTITY firstrun_panel_title_customize "Персонализиране">
 <!ENTITY firstrun_bookmarks_title "История">
 <!ENTITY firstrun_bookmarks_message "Любимите ви неща най-напред">
 <!ENTITY firstrun_bookmarks_subtext "Показване на резултати от отметките и историята при търсене.">
@@ -199,8 +203,6 @@
 <!ENTITY pref_category_advanced_summary3 "Възстановяване на раздели, икономия на данни, разработчици">
 <!ENTITY pref_category_notifications "Известия">
 <!ENTITY pref_category_notifications_summary "Нови възможности, обновяване на страницата">
-<!ENTITY pref_content_notifications "Обновяване на страницата">
-<!ENTITY pref_content_notifications_summary2 "Откриване на съдържание от сайтове със съответната поддръжка">
 <!ENTITY pref_developer_remotedebugging_usb "Отдалечено отстраняване на дефекти през USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Отдалечено отстраняване на дефекти през Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Отстраняване на дефекти през Wi-Fi изисква устройството ви да има приложение за разчитане на QR кодове.">
@@ -327,23 +329,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "За да използвате „Open multiple links“, моля разрешете на &brandShortName; правото „Draw over other apps“">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; обновени сайта">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Настройки">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Прочитане">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Актуално към &formatS;">
 
 <!ENTITY pref_char_encoding "Кодиране на знаците">
 <!ENTITY pref_char_encoding_on "Показване на менюто">
