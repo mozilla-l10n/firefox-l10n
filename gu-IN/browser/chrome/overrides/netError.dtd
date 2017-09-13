@@ -79,6 +79,8 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>સાઈટ થોડી વાર માટે ઉપલબ્ધ નહિં હોય અથવા ખૂબ વ્યવસ્ત પણ હોઈ શકે. થોડી ક્ષણો માટે ફરીથી પ્રયત્ન કરો.</li> <li>જો તમે કોઈપણ પાનાંઓ લાવવા માટે અસમર્થ હોય, તો તમારા કમ્પ્યૂટરનું નેટવર્ક જોડાણ ચકાસો.</li> <li>જો તમારું કમ્પ્યૂટર અથવા નેટવર્ક એ ફાયરવોલ અથવા પ્રોક્સીથી સુરક્ષિત કરાયેલ હોય, તો ખાતરી કરો કે  &brandShortName; ને વેબ વપરાશની પરવાનગી છે.</li> </ul>">
 
+<!ENTITY cspBlocked.title "સામગ્રી સુરક્ષા નીતિ દ્વારા અવરોધિત">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; આ પૃષ્ઠને આ રીતે લોડ થવાથી અટકાવેલ છે કારણ કે પૃષ્ઠની એવી સામગ્રી સુરક્ષા નીતિ છે જે તેને નામંજૂર કરે છે.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "બગડેલું વસ્તુ સંપાદક">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતીના પરિવહનમાં ક્ષતિ મળી આવી છે.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટના માલિકનો સંપર્ક કરો.</li></ul>">
@@ -86,6 +88,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
 
+<!ENTITY errorReporting.automatic2 "Mozilla ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો">
 <!ENTITY errorReporting.learnMore "વધુ શીખો…">
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
