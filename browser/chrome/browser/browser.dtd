@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilizar Toque para modo tablet">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-ocultar">
+
 <!ENTITY getUserMedia.selectCamera.label "Câmara a partilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfone a partilhar:">
