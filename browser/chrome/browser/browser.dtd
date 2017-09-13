@@ -800,7 +800,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ಇನ್ನೂ ಹೆಚ್ಚು ಉಪಕರಣಗಳು ಬೇಕೆ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ಸಾವಿರಾರು ಆಡ್-ಆನ್ ಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
+<!ENTITY customizeMode.done "ಆಯಿತು">
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
+<!ENTITY customizeMode.toolbars2 "ಉಪಕರಣಪಟ್ಟಿಗಳು">
 <!ENTITY customizeMode.lwthemes "ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.recommended "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ">
@@ -828,6 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "ಸ್ಪರ್ಶ">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "ಸ್ವಯಂ-ಮರೆಮಾಡು">
 
 <!ENTITY getUserMedia.selectCamera.label "ಹಂಚಬೇಕಿರುವ ಕ್ಯಾಮೆರಾ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -908,6 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "ಹೆಚ್ಚು ಕಲಿಯಿರಿ DRM ಬಗ್ಗೆ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
 <!ENTITY updateAvailable.acceptButton.label "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ಈಗ ಬೇಡ">
