@@ -322,7 +322,11 @@
 <!ENTITY contextmenu_top_sites_edit "Modifica">
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
+<!ENTITY contextmenu_pin_to_top_sites "Aggiungi ai siti principali">
+<!ENTITY contextmenu_unpin_from_top_sites "Rimuovi dai siti principali">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
+<!ENTITY pinned_page_to_top_sites "Aggiunto ai siti principali">
+<!ENTITY unpinned_page_from_top_sites "Rimosso dai siti principali">
 <!ENTITY doorhanger_login_no_username "[nessun nome utente]">
 <!ENTITY doorhanger_login_edit_title "Modifica accesso">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
