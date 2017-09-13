@@ -55,6 +55,7 @@
 <!ENTITY  acceptThirdParty.never.label    "허용 안함">
 <!ENTITY  acceptThirdParty.visited.label  "방문한 곳만">
 
+<!ENTITY  keepUntil2.label              "유지 기간">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "만료 될 때까지">
@@ -113,5 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "설정…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "접근성 서비스가 브라우저에 접근하지 못하게 함">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "자세히 보기">
