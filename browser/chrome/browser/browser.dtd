@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Puutetundliku ekraani tihedust kasutatakse tahvli režiimis">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Peida automaatselt">
+
 <!ENTITY getUserMedia.selectCamera.label "Jagatav kaamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "J">
 <!ENTITY getUserMedia.selectMicrophone.label "Jagatav mikrofon:">
