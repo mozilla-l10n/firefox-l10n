@@ -498,12 +498,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Закачи на најбоље сајтове">
-<!ENTITY contextmenu_unpin_from_top_sites "Откачи са најбољих сајтова">
+<!ENTITY contextmenu_pin_to_top_sites "Закачи на популарне сајтове">
+<!ENTITY contextmenu_unpin_from_top_sites "Откачи са популарних сајтова">
 <!ENTITY contextmenu_add_search_engine "Додај претраживач">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Страница закачена на најпопуларније сајтове">
+<!ENTITY unpinned_page_from_top_sites "Страница откачена са најпопуларнијих сајтова">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
