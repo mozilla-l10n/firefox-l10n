@@ -35,7 +35,8 @@ Ping
 
 <!ENTITY aboutTelemetry.pageTitle "Données télémétriques">
 <!ENTITY aboutTelemetry.moreInformations "Besoin de plus d’informations ?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> propose des guides pour savoir comment utiliser nos outils de données.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>documentation des données de Firefox</a> propose des guides pour comprendre comment utiliser nos outils de données.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentation du client de télémétrie Firefox</a> contient la définition des différents concepts, la documentation de l’API et un référentiel de données.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Les <a>tableaux de bord de télémétrie</a> vous permettent de visualiser les données reçues par Mozilla grâce à la télémétrie.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ouvrir dans la visionneuse JSON">
