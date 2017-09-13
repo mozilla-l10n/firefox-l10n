@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "자유롭과 개방된 웹을 위해 일하는 비영리재단 Mozilla에서 만든 최신 모바일 브라우저입니다.">
 <!ENTITY firstrun_panel_title_privacy "개인 정보">
 <!ENTITY firstrun_privacy_message "누구에게도 보이지 않는 웹 이용">
+<!ENTITY firstrun_privacy_subtext "추적 방지가 되어 있는 개인정보 보호 브라우징은 추적자를 차단하고 브라우징을 마칠 때 탐색 기록을 저장하지 않습니다.">
 <!ENTITY firstrun_panel_title_customize "개인화">
 <!ENTITY firstrun_customize_message "나만의 &brandShortName;를 만드세요.">
 <!ENTITY firstrun_customize_subtext "부가 기능으로 &brandShortName;를 개인화 해보세요. 광를 차단하고 새 기능을 추가하고 새로운 테마를 골라보세요.">
@@ -390,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "기본으로 설정">
 <!ENTITY pref_dialog_default "기본">
 <!ENTITY pref_dialog_remove "삭제">
+<!ENTITY pref_dialog_activitystream_header_content "추가 콘텐츠">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "최근 북마크">
+<!ENTITY pref_dialog_activitystream_visited "방문한">
 
 <!ENTITY pref_search_last_toast "마지막 남은 검색 엔진은 삭제하거나 비활성화 할 수 없습니다.">
 
@@ -812,6 +816,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "상위 사이트">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; 추천">
 <!ENTITY activity_stream_highlights "하이라이트">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -823,6 +828,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "트랜드">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "브라우징을 시작하면 최근 방문하거나 북마크한 좋은 글이나 영상, 페이지를 여기에 보여줍니다.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
