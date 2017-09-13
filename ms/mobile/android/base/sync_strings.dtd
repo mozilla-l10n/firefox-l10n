@@ -80,7 +80,7 @@
 <!ENTITY fxaccount_status_more 'Lanjutan &ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Memutuskan sambungan &ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Memutuskan Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Putuskan sambungan Sync?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Data pelayaran anda akan masih ada dalam peranti ini, tetapi tidak lagi sync dengan akaun anda.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
