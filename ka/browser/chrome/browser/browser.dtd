@@ -261,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "მ">
 
 <!ENTITY downloads.label              "ჩამოტვირთვები">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ჩამოტვირთვები">
 <!ENTITY downloads.accesskey          "ჩ">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -553,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
-<!ENTITY copyURLCmd.label             "URL-ს დაკოპირება">
+<!ENTITY pageAction.copyLink.label    "ბმულის დაკოპირება">
 <!ENTITY copyURLFeedback.label        "დაკოპირდა!">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
@@ -578,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ს">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელფოსტით…">
 <!ENTITY emailVideoCmd.accesskey      "ე">
-<!ENTITY castVideoCmd.label           "ვიდეოს გაგზავნა მოწყობილობაზე">
-<!ENTITY castVideoCmd.accesskey       "წ">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "ა">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
@@ -865,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "შ">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხებაზე რეაგირება პლანშეტის რეჟიმისას">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "თვითდამალვა">
+
 <!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
 <!ENTITY getUserMedia.selectCamera.accesskey "კ">
 <!ENTITY getUserMedia.selectMicrophone.label "გასაზიარებელი მიკროფონი:">
@@ -962,7 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ა">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; -ის ახალი ვერსიის ჩამოტვირთვა">
 
-<!ENTITY updateRestart.message "ხელმეორედ სწრაფად გაშვების შემდეგ, &brandShorterName; ყველა თქვენს მიერ გახსნილ ჩანართს და ფანჯარას აღადგენს.">
+<!ENTITY updateRestart.message2 "ხელახლა ჩართვის შემდეგ, &brandShorterName; აღადგენს თქვენს ყველა გახსნილ ჩანართსა და ფანჯარას, პირადი ჩანართებისა და ფანჯრების გარდა.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა.">
 <!ENTITY updateRestart.acceptButton.label "ხელახლა გაშვება და აღდგენა">
 <!ENTITY updateRestart.acceptButton.accesskey "ხ">
@@ -974,13 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "მისამართების ზოლში დამატება">
 <!ENTITY pageAction.removeFromUrlbar.label "მისამართების ზოლიდან ამოღება">
 
-<!ENTITY sendToDevice.label3 "გვერდის გაგზავნა მოწყობილობაზე">
+<!ENTITY pageAction.sendTabToDevice.label "ჩანართის გაგზავნა მოწყობილობაზე">
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
 
 <!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნეები და ა.შ.">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "დამხმარე საშუალებები ჩართულია">
