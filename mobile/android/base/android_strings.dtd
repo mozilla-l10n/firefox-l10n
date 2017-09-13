@@ -8,6 +8,8 @@
 <!ENTITY firstrun_panel_title_privacy "개인 정보">
 <!ENTITY firstrun_privacy_message "누구에게도 보이지 않는 웹 이용">
 <!ENTITY firstrun_panel_title_customize "개인화">
+<!ENTITY firstrun_customize_message "나만의 &brandShortName;를 만드세요.">
+<!ENTITY firstrun_customize_subtext "부가 기능으로 &brandShortName;를 개인화 해보세요. 광를 차단하고 새 기능을 추가하고 새로운 테마를 골라보세요.">
 <!ENTITY firstrun_bookmarks_title "방문목록">
 <!ENTITY firstrun_bookmarks_message "좋아하는 내용을, 맨 앞에 두세요">
 <!ENTITY firstrun_bookmarks_subtext "북마크와 방문기록에서 검색하여 결과를 가져옵니다.">
@@ -203,8 +205,6 @@
 <!ENTITY pref_category_advanced_summary3 "탭 복구, 데이터 절약, 개발자 도구">
 <!ENTITY pref_category_notifications "알림">
 <!ENTITY pref_category_notifications_summary "새로운 기능, 웹사이트 업데이트">
-<!ENTITY pref_content_notifications "웹사이트 업데이트">
-<!ENTITY pref_content_notifications_summary2 "지원되는 사이트에서 새로운 컨텐츠를 발견합니다">
 <!ENTITY pref_developer_remotedebugging_usb "USB 원격 디버깅">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi 원격 디버깅">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 디버깅을 하려면 QR 코드 리더 앱을 설치해야 합니다.">
@@ -331,23 +331,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;여러개의 링크 열기\&quot;를 하시려면, &brandShortName; 에 대한 \&apos;다른 앱 위에 나타내기\&apos; 권한을 활성화해주세요">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; 웹사이트 업데이트 됨">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "설정">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "지금 읽기">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; 업데이트 됨">
 
 <!ENTITY pref_char_encoding "문자 인코딩 표시">
 <!ENTITY pref_char_encoding_on "메뉴 보기">
