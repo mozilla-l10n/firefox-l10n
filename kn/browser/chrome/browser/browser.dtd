@@ -926,6 +926,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.label "ಈಗ ಬೇಡ">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "ಈಗ ಬೇಡ">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ">
 
 
+<!ENTITY pageAction.sendTabToDevice.label "ಟ್ಯಾಬ್ಅನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 
