@@ -14,17 +14,17 @@
 <!ENTITY  overrideDefaultPageColors.never.label  "ಎಂದಿಗೂ ಬೇಡ">
 
 <!ENTITY  color                           "ಪಠ್ಯ ಹಾಗು ಹಿನ್ನಲೆ">
-
-
-
-
+<!ENTITY  textColor2.label                "ಪಠ್ಯ">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "ಹಿನ್ನಲೆ">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "ಗಣಕ ಉಪಕರಣವನ್ನು ಬಳಸು">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "ಕೊಂಡಿಗಳ ಕೆಳಗೆ ಗೆರೆ ಹಾಕು">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "ಕೊಂಡಿ ಬಣ್ಣ">
-
-
-
-
+<!ENTITY  linkColor2.label                "ಭೇಟಿ ನೀಡಿದ ಕೊಂಡಿಗಳು">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "ಭೇಟಿ ನೀಡಿದ ಕೊಂಡಿಗಳು">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
