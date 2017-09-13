@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "활성화">
 <!ENTITY aboutSupport.a11yForceDisabled "접근성 끄기">
 <!ENTITY aboutSupport.a11yHandlerUsed "접근 가능한 핸들러 사용됨">
+<!ENTITY aboutSupport.a11yInstantiator "접근성 기능 사용 앱">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "라이브러리 버전">
 
