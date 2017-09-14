@@ -595,6 +595,7 @@
 <!ENTITY customizeMode.restoreDefaults "Ripristina predefiniti">
 <!ENTITY customizeMode.done "Fatto">
 <!ENTITY customizeMode.titlebar "Barra del titolo">
+<!ENTITY customizeMode.extraDragSpace "Spazio per trascinamento">
 <!ENTITY customizeMode.toolbars2 "Barre degli strumenti">
 <!ENTITY customizeMode.lwthemes "Temi">
 <!ENTITY customizeMode.lwthemes.myThemes "I miei temi">
