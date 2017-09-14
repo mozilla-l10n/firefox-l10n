@@ -1,0 +1,58 @@
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
+<!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
+
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Salin">
+<!ENTITY  copy.accesskey         "S">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Pilih Semua">
+<!ENTITY  selectall.accesskey    "P">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
+<!ENTITY  copyLinks.label           "Salin Pautan">
+<!ENTITY  copyLinks.accesskey       "P">
+<!ENTITY  openInNewTab.label        "Buka dalam Tab Baru">
+<!ENTITY  openInNewTab.accesskey    "T">
+<!ENTITY  openInNewWindow.label     "Buka dalam Tetingkap Baru">
+<!ENTITY  openInNewWindow.accesskey "B">
+
+<!ENTITY  generalTab            "Umum">
+<!ENTITY  generalTab.accesskey  "U">
+<!ENTITY  generalURL            "Alamat:">
+<!ENTITY  generalType           "Jenis:">
+<!ENTITY  generalMode           "Mod Penghuraian:">
+<!ENTITY  generalSize           "Saiz:">
+<!ENTITY  generalReferrer       "URL Perujuk:">
+<!ENTITY  generalSource         "Sumber Cache:">
+<!ENTITY  generalModified       "Diubahsuai:">
+<!ENTITY  generalEncoding2      "Pengekodan Teks:">
+<!ENTITY  generalMetaName       "Nama">
+<!ENTITY  generalMetaContent    "Kandungan">
+<!ENTITY  generalSecurityDetails           "Butiran">
+<!ENTITY  generalSecurityDetails.accesskey "B">
+
+<!ENTITY  formsTab              "Borang">
+<!ENTITY  formsTab.accesskey    "B">
+<!ENTITY  formAction            "Tindakan Borang">
+<!ENTITY  formMethod            "Kaedah">
+<!ENTITY  formName              "Nama">
+<!ENTITY  formEncoding          "Pengekodan:">
+<!ENTITY  formTarget            "Sasaran:">
+<!ENTITY  formFields            "Medan:">
+<!ENTITY  formLabel             "Label">
+<!ENTITY  formFName             "Nama Medan">
+
+
+
+
+
+
+
+
+
