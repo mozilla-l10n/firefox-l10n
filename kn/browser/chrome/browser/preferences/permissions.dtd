@@ -5,13 +5,8 @@
 <!ENTITY window.title                 "ವಿನಾಯಿತಿಗಳು">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "ಜಾಲತಾಣ">
 <!ENTITY treehead.status.label        "ಸ್ಥಿತಿ">
-
-
-
-
-
-
 <!ENTITY block.label                  "ನಿರ್ಬಂಧಿಸು">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು">
