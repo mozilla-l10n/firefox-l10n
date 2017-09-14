@@ -107,7 +107,40 @@
 <!ENTITY cookieCookiesDefaultMsg.label "Kuki daripada laman web ini diterima atau ditolak berdasarkan tetapan piawai.">
 <!ENTITY cookieBlockCookiesCmd.label "Sekat Kuki daripada Laman Web Ini">
 <!ENTITY cookieBlockCookiesCmd.accesskey "S">
+<!ENTITY cookieBlockCookiesMsg.label "Kuki daripada laman web ini sentiasa ditolak.">
 
+<!ENTITY cookieImageMessageTitle.label "Izin Imej Ditukar">
+<!ENTITY cookieDisplayImagesCmd.label "Urus Izin Imej">
+<!ENTITY cookieDisplayImagesCmd.accesskey "U">
+<!ENTITY cookieAllowImagesCmd.label "Izin Imej daripada Laman Web Ini">
+<!ENTITY cookieAllowImagesCmd.accesskey "I">
+<!ENTITY cookieAllowImagesMsg.label "Imej daripada laman web ini sentiasa dimuat turun.">
+<!ENTITY cookieImagesDefaultCmd.label "Gunakan Izin Imej Piawai">
+<!ENTITY cookieImagesDefaultCmd.accesskey "G">
+<!ENTITY cookieImagesDefaultMsg.label "Imej daripada laman web ini dimuat turun berdasarkan tetapan piawai.">
+<!ENTITY cookieBlockImagesCmd.label "Sekat Imej daripada Laman Web Ini">
+<!ENTITY cookieBlockImagesCmd.accesskey "S">
+<!ENTITY cookieBlockImagesMsg.label "Imej daripada laman web ini tidak akan dimuat turun.">
 
+<!ENTITY popupsMessageChangeTitle.label "Izin Popup Ditukar">
+<!ENTITY popupAllowCmd.label "Izin Popup daripada Laman Web Ini">
+<!ENTITY popupAllowCmd.accesskey "I">
+<!ENTITY popupAllowMsg.label "Popup daripada laman web ini sentiasa dipaparkan.">
+<!ENTITY popupDefaultCmd.label "Gunakan Izin Popup Piawai">
+<!ENTITY popupDefaultCmd.accesskey "G">
+<!ENTITY popupDefaultMsg.label "Popup daripada laman web ini dipaparkan berdasarkan tetapan piawai.">
+<!ENTITY popupBlockCmd.label "Sekat Popup daripada Laman Web Ini">
+<!ENTITY popupBlockCmd.accesskey "S">
+<!ENTITY popupBlockMsg.label "Popup daripada laman web ini tidak akan dipaparkan.">
+<!ENTITY popupsManage.label "Urus Popup">
+<!ENTITY popupsManage.accesskey "U">
 
+<!ENTITY cookieCookieManager.label "Pengurus Kuki">
+<!ENTITY cookieCookieManager.accesskey "K">
+<!ENTITY cookieImageManager.label "Pengurus Imej">
+<!ENTITY cookieImageManager.accesskey "I">
+<!ENTITY popupsManager.label "Pengurus Popup">
+<!ENTITY popupsManager.accesskey "o">
 
+<!ENTITY clearPrivateDataCmd.label "Buang Data Peribadi…">
+<!ENTITY clearPrivateDataCmd.accesskey "i">
