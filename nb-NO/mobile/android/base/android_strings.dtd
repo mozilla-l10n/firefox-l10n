@@ -498,14 +498,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Fest til populære nettsteder">
-<!ENTITY contextmenu_unpin_from_top_sites "Løsne fra populære nettsteder">
+<!ENTITY contextmenu_pin_to_top_sites "Legg til i toppliste">
+<!ENTITY contextmenu_unpin_from_top_sites "Fjern fra toppliste">
 <!ENTITY contextmenu_add_search_engine "Legg til en søkemotor">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "Festet side til populære nettsteder">
-<!ENTITY unpinned_page_from_top_sites "Løsnet side fra populære nettseder">
+<!ENTITY pinned_page_to_top_sites "Side lagt til i toppliste">
+<!ENTITY unpinned_page_from_top_sites "Side fjernet fra toppliste">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
