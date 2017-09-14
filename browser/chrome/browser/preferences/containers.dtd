@@ -4,7 +4,18 @@
 
 <!ENTITY addButton.accesskey  "A">
 <!ENTITY preferencesButton.label "ಆದ್ಯತೆಗಳು">
+<!ENTITY removeButton.label   "ತೆಗೆದುಹಾಕು">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 
+<!ENTITY window.width         "45em">
 
+<!ENTITY name2.label          "ಹೆಸರು">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY icon2.label          "ಲಾಂಛನ">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "ಬಣ್ಣ">
+<!ENTITY color2.accesskey     "o">
+<!ENTITY windowClose.key      "w">
 
+<!ENTITY button.ok.label      "ಆಯಿತು">
+<!ENTITY button.ok.accesskey  "D">
