@@ -47,7 +47,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "移动书签">
+<!ENTITY  bookmarks_title "书签">
 <!ENTITY  history_title "历史记录">
 
 <!ENTITY  switch_to_tab "切换到标签页">
@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "恢复标签页、节省流量、开发者工具">
 <!ENTITY pref_category_notifications "通知">
 <!ENTITY pref_category_notifications_summary "新功能、网站更新">
-<!ENTITY pref_content_notifications "网站更新">
-<!ENTITY pref_content_notifications_summary2 "发现已支持网站的新内容">
 <!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的设备需要安装二维码扫描应用才能使用 Wi-Fi 调试。">
@@ -334,23 +332,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "要一并打开多个链接，请为 &brandShortName; 启用“在其他应用之上显示内容”的权限">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; 网站已更新">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "设置">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "现在阅读">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "更新于 &formatS;">
 
 <!ENTITY pref_char_encoding "显示字符编码">
 <!ENTITY pref_char_encoding_on "显示菜单">
@@ -514,7 +495,13 @@
 <!ENTITY contextmenu_top_sites_edit "编辑">
 <!ENTITY contextmenu_top_sites_pin "固定网站">
 <!ENTITY contextmenu_top_sites_unpin "取消固定">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "添加搜索引擎">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
