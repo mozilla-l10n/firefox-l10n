@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Т">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Планшет режимі үшін тиюді қолдану">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Автожасыру">
+
 <!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
 <!ENTITY getUserMedia.selectCamera.accesskey "м">
 <!ENTITY getUserMedia.selectMicrophone.label "Бөлісу үшін микрофон:">
