@@ -15,3 +15,4 @@
 <!ENTITY     cancel.label                  "રદ કરો">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "સાઇટ ડેટા દૂર કરી રહ્યા છીએ">
+<!ENTITY     siteTree.label                "નીચેની વેબસાઇટ કૂકીઝને દૂર કરવામાં આવશે:">
