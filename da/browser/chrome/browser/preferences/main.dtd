@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Gendan standard">
 <!ENTITY restoreDefault.accesskey  "G">
 
+<!ENTITY disableExtension.label    "Deaktiver udvidelse">
+
 <!ENTITY downloads.label     "Filhentning">
 
 <!ENTITY saveTo.label "Gem filer i:">

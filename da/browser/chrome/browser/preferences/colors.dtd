@@ -6,8 +6,8 @@
 <!ENTITY window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Erstat sidens farver med mine valg ovenfor:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "v">
+<!ENTITY  overrideDefaultPageColors2.label       "Erstat sidens farver med mine valg ovenfor:">
+<!ENTITY  overrideDefaultPageColora2s.accesskey  "v">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Altid">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Kun når temaer med høj kontrast er valgt">
@@ -15,7 +15,7 @@
 
 <!ENTITY color                           "Tekst og baggrund">
 <!ENTITY textColor2.label                "Tekst">
-<!ENTITY textColor.accesskey             "T">
+<!ENTITY textColor2.accesskey            "T">
 <!ENTITY backgroundColor2.label          "Baggrund">
 <!ENTITY backgroundColor2.accesskey      "B">
 <!ENTITY useSystemColors.label           "Anvend systemfarver">

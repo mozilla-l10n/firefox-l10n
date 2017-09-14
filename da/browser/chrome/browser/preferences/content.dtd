@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "Bloker pop op-vinduer">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "Læs mere">
-<!ENTITY  notificationsPolicyDesc4.label       "Vælg websteder, der må sende dig beskeder">
-<!ENTITY  notificationsPolicyButton.accesskey  "g">
-<!ENTITY  notificationsPolicyButton.label      "Vælg…">
 <!ENTITY  notificationsDoNotDisturb.label      "Forstyr ikke">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "o">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist beskeder før du genstarter &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist meddelelser før du genstarter &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Undtagelser…">
 <!ENTITY  popupExceptions.accesskey   "U">
+
+<!ENTITY  notificationPermissions.label                         "Meddelelser">
+<!ENTITY  notificationSettingsButton.label                      "Indstillinger…">
+<!ENTITY  notificationSettingsButton.accesskey                  "I">
+<!ENTITY  notificationPermissionsLearnMore.label                "Læs mere">
+
+<!ENTITY  locationPermissions.label                             "Position">
+<!ENTITY  locationSettingsButton.label                          "Indstillinger…">
+<!ENTITY  locationSettingsButton.accesskey                      "I">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Indstillinger…">
+<!ENTITY  cameraSettingsButton.accesskey                        "I">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofon">
+<!ENTITY  microphoneSettingsButton.label                        "Indstillinger…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "I">
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper &amp; farver">
 
