@@ -4,21 +4,20 @@
 
 <!ENTITY  fontsDialog.title                       "फ़ॉन्ट">
 
+<!ENTITY  fonts.accesskey                         "F">
 
-
+<!ENTITY  size2.label                             "आकार">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "लैटिन">
 <!ENTITY  font.langGroup.japanese                 "जापानी">
 <!ENTITY  font.langGroup.trad-chinese             "पारंपरिक चीनी (ताईवान)">
@@ -49,18 +48,17 @@
 <!ENTITY  font.langGroup.sinhala                  "सिंहाला">
 <!ENTITY  font.langGroup.tibetan                  "तिब्बती">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "कोई नहीं">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ़">
 <!ENTITY  useDefaultFontSansSerif.label           "सैंस सेरिफ़">
 
-
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन">
-
-
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "यह पाठ कूटलेखन प्रयोग करते हैं पुरातन अंतर्वस्तु के लिए जो की अपने कूटलेख को घोषित करने में विफल रहते हैं.">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोकेल के लिए तयशुदा">
