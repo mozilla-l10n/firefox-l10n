@@ -44,6 +44,8 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-a "&brandFullName; menawarkan perkhidmatan berasaskan web pilihan (&quot;Perkhidmatan&quot;) yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; ini seperti yang dijelaskan di bawah.  Beberapa perkhidmatan ini (seperti cadangan Add-on dan perkhidmatan kemaskini, perkhidmatan Pelayaran Selamat, atau ciri notifikasi Pelayaran Sedar Lokasi) diaktifkan secara piawai.  Jika anda tidak mahu menggunakan mana-mana Perkhidmatan ini atau tidak menerima terma di bawah, anda boleh ikuti arahan untuk menyahaktifkan sesuatu ciri atau Perkhidmatan ">
+<!ENTITY rights3.webservices-b "di sini">
 
 <!-- add-on related points for branded builds -->
 
