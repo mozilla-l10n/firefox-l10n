@@ -9,6 +9,14 @@
 <!ENTITY restorepage.issueDesc      "Sesi &brandShortName; anda yang terdahulu ditutup secara tidak sengaja. Kami minta maaf atas kesulitan ini. Anda boleh pulihkan tab dan tetingkap sesi yang terdahulu, atau mulakan sesi yang baru jika anda tidak perlukan lagi sesi yang dahulu.">
 <!ENTITY restorepage.remedies       "Jika &brandShortName; tertutup secara kerap:">
 <!ENTITY restorepage.dueToChrome    "Cuba nyahaktifkan ekstensi yang baru dipasang dari dalam Pengurus Add-ons.">
+<!ENTITY restorepage.dueToContent   "Cuba pulihkan sesi tanpa halaman Web yang anda syak menjadi punca masalah ini:">
 
+<!ENTITY restorepage.restoreButton  "Pulih Sesi Terdahulu">
+<!ENTITY restorepage.restore.access "P">
+<!ENTITY restorepage.cancelButton   "Mulakan Sesi Baru">
+<!ENTITY restorepage.cancel.access  "M">
 
+<!ENTITY restorepage.restoreHeader  "Pulih">
+<!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Tetingkap &#37;S">
