@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "А">
 <!ENTITY  reloadAllTabs.label                "Перачытаць усе карткі">
 <!ENTITY  reloadAllTabs.accesskey            "у">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Дубляваць картку">
+<!ENTITY  duplicateTab.accesskey             "Д">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "к">
 
 <!ENTITY downloads.label              "Сцягванні">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Сцягванні">
 <!ENTITY downloads.accesskey          "С">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку на гэту рамку">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
-<!ENTITY copyURLCmd.label             "Капіяваць URL">
+<!ENTITY pageAction.copyLink.label    "Капіяваць спасылку">
 <!ENTITY copyURLFeedback.label        "Скапіявана!">
 <!ENTITY emailPageCmd.label           "Даслаць спасылку эл.поштай…">
 <!ENTITY emailPageCmd.accesskey       "с">
@@ -574,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "Д">
 <!ENTITY emailVideoCmd.label          "Даслаць відэа эл.поштай…">
 <!ENTITY emailVideoCmd.accesskey      "д">
-<!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
-<!ENTITY castVideoCmd.accesskey       "а">
 <!ENTITY emailAudioCmd.label          "Даслаць гук эл.поштай…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
 <!ENTITY playPluginCmd.label          "Задзейнічаць плагін">
@@ -861,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Д">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Выкарыстоўваць дотык для планшэтнага рэжыму">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Хаваць аўтаматычна">
+
 <!ENTITY getUserMedia.selectCamera.label "Да якой камеры даць доступ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "З">
 <!ENTITY getUserMedia.selectMicrophone.label "Да якога мікрафона даць доступ:">
@@ -958,7 +965,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Атрымаць свежую копію &brandShorterName;">
 
-<!ENTITY updateRestart.message "Пасля хуткага перазапуску &brandShorterName; адновіць ўсе адкрытыя карткі і вокны.">
 <!ENTITY updateRestart.header.message2 "Перазапуск для абнаўлення &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Перазапусціць і аднавіць">
 <!ENTITY updateRestart.acceptButton.accesskey "К">
@@ -970,7 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Дадаць у адрасны радок">
 <!ENTITY pageAction.removeFromUrlbar.label "Выдаліць з адраснага радка">
 
-<!ENTITY sendToDevice.label3 "Даслаць старонку на прыладу">
+<!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
 <!ENTITY libraryButton.tooltip "Пабачыць гісторыю, запісаныя закладкі і іншае">
