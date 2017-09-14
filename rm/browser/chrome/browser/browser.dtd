@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilisar «Touch» per tablets">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Zuppar automaticamain">
+
 <!ENTITY getUserMedia.selectCamera.label "Camera per cundivider:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfon per cundivider:">
