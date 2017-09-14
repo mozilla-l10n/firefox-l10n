@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "استفاده از لمس برای حالت تبلت">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "پنهان به صورت خودکار">
+
 <!ENTITY getUserMedia.selectCamera.label "دوربین جهت به‌اشتراک‌گذاری:">
 <!ENTITY getUserMedia.selectCamera.accesskey "د">
 <!ENTITY getUserMedia.selectMicrophone.label "میکروفون جهت به‌اشتراک‌گذاری:">
@@ -963,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ا">
 <!ENTITY updateManual.panelUI.label "دریافت یک برداشت تازه از &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "بعد ازیک راه اندازی مجدد،‌&brandShorterName; تمامی زبانه‌ها و پنجره‌های باز شما را بازآوری می‌زند به جز مواردی که در حالت مرور خصوصی بوده‌اند.">
 <!ENTITY updateRestart.header.message2 "برای بروزرسانی &brandShorterName; را مجددا راه‌اندازی کنید.">
 <!ENTITY updateRestart.acceptButton.label "راه‌اندازی مجدد و بازآوری">
 <!ENTITY updateRestart.acceptButton.accesskey "ر">
