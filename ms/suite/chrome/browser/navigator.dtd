@@ -20,9 +20,9 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY navbarCmd.label "Bar Alat Navigasi">
+<!ENTITY navbarCmd.label "Bar Alatan Navigasi">
 <!ENTITY navbarCmd.accesskey "N">
-<!ENTITY bookmarksToolbarCmd.label     "Bar alat Tandabuku">
+<!ENTITY bookmarksToolbarCmd.label     "Bar alatan Tandabuku">
 <!ENTITY bookmarksToolbarCmd.accesskey "d">
 
 <!ENTITY closeWindow.label "Tutup Tetingkap">
@@ -35,8 +35,8 @@
 <!ENTITY feedsMenu.accesskey "L">
 
 <!ENTITY menuBar.tooltip                  "Bar Menu">
-<!ENTITY bookmarksToolbar.tooltip         "Bar alat Tandabuku">
-<!ENTITY navigationToolbar.tooltip        "Bar Alat Navigasi">
+<!ENTITY bookmarksToolbar.tooltip         "Bar alatan Tandabuku">
+<!ENTITY navigationToolbar.tooltip        "Bar Alatan Navigasi">
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Undur">
@@ -48,9 +48,9 @@
 <!ENTITY stopButton.label             "Berhenti">
 <!ENTITY stopButton.tooltip           "Berhenti memuatkan halaman ini">
 <!ENTITY searchButton.label           "Cari">
-<!ENTITY searchButton.tooltip         "Taip satu perkataan dalam medan di sebelah kiri, kemudian klik Cari">
+<!ENTITY searchButton.tooltip         "Taip perkataan dalam medan di sebelah kiri, kemudian klik Cari">
 <!ENTITY goButton.label               "Teruskan">
-<!ENTITY goButton.tooltip             "Taip satu lokasi dalam medan di sebelah kiri, kemudian klik Cari">
+<!ENTITY goButton.tooltip             "Taip lokasi dalam medan di sebelah kiri, kemudian klik Cari">
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak halaman ini">
 
