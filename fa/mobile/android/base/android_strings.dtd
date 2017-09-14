@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
 <!ENTITY pref_category_notifications "اعلان‌ها">
 <!ENTITY pref_category_notifications_summary "امکانات جدید، بروزرسانی‌های وب‌سایت">
-<!ENTITY pref_content_notifications "بروزرسانی‌های پایگاه وب">
-<!ENTITY pref_content_notifications_summary2 "محتوا جدید را از پایگاه های وب پشتیبانی شده کشف کنید">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال از راه دور به واسطه‌ی USB">
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
@@ -334,23 +332,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "برای «باز کردن چند پیوند» لطفا مجوز «رسم بر روی سایر برنامه‌ها» را برای &brandShortName; فعال کنید">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; پایگاه‌های وب بروزرسانی شدند">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "تنظیمات">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "هم‌اکنون مطالعه کنید">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "بروزرسانی‌ها بر روی &formatS;">
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
@@ -514,7 +495,17 @@
 <!ENTITY contextmenu_top_sites_edit "ویرایش">
 <!ENTITY contextmenu_top_sites_pin "سنجاق کردن سایت">
 <!ENTITY contextmenu_top_sites_unpin "بازکردن سنجاق سایت">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "چسباندن به پایگاه‌های اینترنتی برتر">
+<!ENTITY contextmenu_unpin_from_top_sites "برداشتن از پایگاه‌های اینترنتی برتر">
 <!ENTITY contextmenu_add_search_engine "افزودن موتور جست‌وجو">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "چسباندن صفحه به پایگاه‌های اینترنتی برتر">
+<!ENTITY unpinned_page_from_top_sites "برداشتن صفحه از بین پایگاه‌های اینترنتی برتر">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
