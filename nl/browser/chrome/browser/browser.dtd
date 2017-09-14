@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Paginabron">
 <!ENTITY pageSourceCmd.accesskey "b">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Pagina-info">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -836,6 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
 <!ENTITY customizeMode.done "Gereed">
 <!ENTITY customizeMode.titlebar "Titelbalk">
+<!ENTITY customizeMode.extraDragSpace "Sleepruimte">
 <!ENTITY customizeMode.toolbars2 "Werkbalken">
 <!ENTITY customizeMode.lwthemes "Thema’s">
 <!ENTITY customizeMode.lwthemes.myThemes "Mijn thema’s">
