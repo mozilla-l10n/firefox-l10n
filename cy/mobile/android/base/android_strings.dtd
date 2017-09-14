@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Adfer tabiau, arbedwr data, offer datblygwyr">
 <!ENTITY pref_category_notifications "Hysbysiadau">
 <!ENTITY pref_category_notifications_summary "Nodweddion newydd, diweddariadau gwefan">
-<!ENTITY pref_content_notifications "Diweddariadau\&apos;r wefan">
-<!ENTITY pref_content_notifications_summary2 "Darganfod cynnwys newydd o wefannau sy\&apos;n cael eu cefnogi">
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\&apos;r diwifr">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\&apos;r diwifr angen i\&apos;ch dyfais gael ap darllenydd QR wedi ei osod.">
@@ -334,23 +332,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Er mwyn \&quot;Agor dolenni niferus\&quot;, galluogwch ganiatâd \&apos;Draw over other apps\&apos; ar gyfer &brandShortName;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; gwefannau wedi eu diweddaru">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Gosodiadau">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Darllen nawr">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Ddiweddarwyd ar &formatS;">
 
 <!ENTITY pref_char_encoding "Amgodiad nod">
 <!ENTITY pref_char_encoding_on "Dangos dewislen">
@@ -514,7 +495,17 @@
 <!ENTITY contextmenu_top_sites_edit "Golygu">
 <!ENTITY contextmenu_top_sites_pin "Pinio Gwefan">
 <!ENTITY contextmenu_top_sites_unpin "Dad-binio Gwefan">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Pinio i\&apos;r Hoff Wefannau">
+<!ENTITY contextmenu_unpin_from_top_sites "Dad-binio o\&apos;r Hoff Wefannau">
 <!ENTITY contextmenu_add_search_engine "Ychwanegu Peiriant Chwilio">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Tudalennau Hoff Wefannau wedi eu pinio">
+<!ENTITY unpinned_page_from_top_sites "Tudalen Hoff Wefannau heb eu pinio">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
