@@ -66,6 +66,14 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
+<!ENTITY rights.locationawarebrowsing-b "adalah satu ciri pilihan.  Tiada maklumat lokasi yang akan dihantar tanpa keizinan anda.  Jika anda mahu menyahaktifkan ciri ini secara keseluruhan, ikuti arahan berikut:">
+<!ENTITY rights.locationawarebrowsing-term1 "Buka tetapan keutamaan aplikasi">
+<!ENTITY rights.locationawarebrowsing-term2 "Pilih panel &security.label; utama">
+<!ENTITY rights.locationawarebrowsing-term3 "Pilih pilihan untuk &quot;&geoDisabled.label;&quot;">
+<!ENTITY rights.locationawarebrowsing-term4 "Pelayaran Sedar Lokasi kini dinyahaktifkan">
 
 <!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0 "&vendorShortName; dan Mozilla bersama-sama para penyumbang, pemberi lesen dan rakan kongsi berusaha untuk menyediakan perkhidmatan yang tepat dan terkini.  Walau bagaimanapun, kami tidak dapat menjamin bahawa maklumat ini adalah komprehensif dan bebas-ralat.  Sebagai contoh, Perkhidmatan Pelayaran Selamat mungkin tidak dapat mengenal pasti laman berbahaya tertentu dan mungkin tersilap mengenal pasti beberapa halaman yang selamat, dan Perkhidmatan Sedar Lokasi yang disediakan oleh penyedia perkhidmatan ini hanyalah anggaran sahaja. Kami atau penyedia perkhidmatan kami tidak menjamin ketepatan lokasi yang disediakan.">
+<!ENTITY rights.webservices-term1 "&vendorShortName; mungkin tidak meneruskan atau menukar Perkhidmatan ini bergantung pada budi bicaranya.">
+<!ENTITY rights.webservices-term2 "Anda dialu-alukan untuk menggunakan Perkhidmatan ini dengan versi yang disertakan &brandShortName;, dan anda ada hak untuk berbuat demikian. &vendorShortName; dan pemberi lesen berhak ke atas semua Perkhidmatan ini. Terma ini tidak bertujuan untuk menghadkan hak yang diberikan di bawah lesen sumber terbuka yang diguna pakai &brandShortName; dan versi kod sumber  &brandShortName; yang berkaitan.">
 
