@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle       "सत्रलाई पूर्वावस्थामा ल्याउनुहोस्">
+
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-
 <!ENTITY restorepage.errorTitle     "यो लज्जादायी छ।">
 <!ENTITY restorepage.problemDesc    "&brandShortName;लाई तपाईँको सञ्झ्याल र ट्याब पुनः हासिल गर्न समस्या भइरहेको समस्या सामान्यतया यो भर्खरै खोलिएको वेब पृष्ठको कारणले हुन्छ।">
 <!ENTITY restorepage.tryThis        "तपाईँले यो प्रयास गर्न सक्नुहुन्छ:">
@@ -21,10 +21,10 @@
 <!ENTITY restorepage.listHeader     "सञ्झ्याल तथा ट्याबहरू">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">
+
+
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-
-
 
 <!ENTITY welcomeback2.restoreButton  "जाऔँ!">
 <!ENTITY welcomeback2.restoreButton.access "L">
@@ -34,15 +34,16 @@
 <!ENTITY welcomeback2.pageTitle     "सफलता!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; जान तयार छ।">
 
+<!ENTITY welcomeback2.restoreAll.label  "सम्पूर्ण सञ्झ्याल &amp; ट्याबहरु पुर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY welcomeback2.restoreSome.label "तपाईँले चाहनुभएको मात्र पुनर्स्थापित गर्नुहोस्">
+
+
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-
-
 <!ENTITY welcomeback2.beforelink.pageInfo2  "तपाईँको एडअनहरू र अनुकूलनहरू हटाइएको छ र तपाईँको ब्राउजरको पुर्वनिर्धारित सेटिङहरू पुनर्स्थापना गरिएको छ। यदि यसले तपाईँको समस्याको समाधान गरेन भने, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "‌">
 
