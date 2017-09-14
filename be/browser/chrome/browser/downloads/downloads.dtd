@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "А">
 <!ENTITY cmd.showMac.label                "Паказаць у шукальніку">
 <!ENTITY cmd.showMac.accesskey            "ш">
+<!ENTITY cmd.showDownloads.label          "Паказаць папку сцягванняў">
 <!ENTITY cmd.retry.label                  "Паўтарыць">
 <!ENTITY cmd.goToDownloadPage.label       "Паказаць старонку сцягвання">
 <!ENTITY cmd.goToDownloadPage.accesskey   "з">
