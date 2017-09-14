@@ -4,12 +4,17 @@
 
 <!ENTITY  fontsDialog.title                       "ಅಕ್ಷರ ಶೈಲಿಗಳು">
 
+<!ENTITY  fonts.label                             "ಇದಕ್ಕಾಗಿನ ಅಕ್ಷರಶೈಲಿಗಳು">
+<!ENTITY  fonts.accesskey                         "F">
 
+<!ENTITY  size2.label                             "ಗಾತ್ರ">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "ಸಮಪ್ರಮಾಣದ">
 <!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "ಸೆರಿಫ್">
 <!ENTITY  serif2.accesskey                        "S">
 <!ENTITY  sans-serif2.label                       "ಸಾನ್ಸ್‍-ಸೆರಿಫ್">
 <!ENTITY  sans-serif2.accesskey                   "n">
@@ -56,8 +61,11 @@
 <!ENTITY  useDefaultFontSerif.label               "ಸೆರಿಫ್">
 <!ENTITY  useDefaultFontSansSerif.label           "ಸಾನ್ಸ್‍ ಸೆರಿಫ್">
 
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಟೆಕ್ಸ್ಟ್ ಎನ್ಕೋಡಿಂಗ್">
+<!ENTITY languages.customize.Fallback3.label      "ಹಿಮ್ಮರಳುವ Text ಎನ್ಕೋಡಿಂಗ್‌">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "ತಮ್ಮಲ್ಲಿರುವ ಎನ್ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಘೋಷಿಸದೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಈ ಕ್ಯಾರೆಕ್ಟರ್ ಎನ್ಕೋಡಿಂಗ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.">
 
 <!ENTITY languages.customize.Fallback.auto        "ಪ್ರಸಕ್ತ ಲೊಕ್ಯಾಲ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ">

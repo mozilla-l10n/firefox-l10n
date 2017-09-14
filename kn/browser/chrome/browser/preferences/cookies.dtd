@@ -19,9 +19,9 @@
 <!ENTITY     window.title                   "ಕುಕಿಗಳು">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "ಹುಡುಕು">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "ಮುಚ್ಚು">
 <!ENTITY     button.close.accesskey         "C">
