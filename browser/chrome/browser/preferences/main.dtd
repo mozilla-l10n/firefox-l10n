@@ -17,6 +17,7 @@
 <!ENTITY chooseBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Ripristina la pagina predefinita">
 <!ENTITY restoreDefault.accesskey "f">
+<!ENTITY disableExtension.label "Disattiva estensione">
 <!ENTITY downloads.label "Download">
 <!ENTITY saveTo.label "Salva i file in">
 <!ENTITY saveTo.accesskey "v">
