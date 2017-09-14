@@ -7,6 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "निशुल्क र खुल्ला वेबको लागि गैर-लाभकारी, Mozillaबाट एक आधुनिक मोबाइल ब्राउजर ।">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "कसैले नहेरे जसरी ब्राउज गर्नुहोस्">
+<!ENTITY firstrun_privacy_subtext "ट्रयाकिङ सुरक्षा सहित निजी ब्राउजिङ ब्राउज गर्दा ट्रयाकरहरू अबरुद्द हुन्छन र ब्राउज समाप्त हुँदा तपाईंको इतिहासलाई सम्झने छैन ।">
 <!ENTITY firstrun_panel_title_customize "अनुकूलन गर्नुहोस्">
 <!ENTITY firstrun_customize_message "&brandShortName; लाई आफ्नो बनाउनुहोस् ।">
 <!ENTITY firstrun_customize_subtext "&brandShortName; लाई add-onsले अनुकुलन गर्नुहोस् । विज्ञापनहरू ब्लक गर्नुहोस् , विशेषताहरु थप्नुहोस् , वा तपाईंको व्यक्तित्व प्रतिबिम्बित गर्न नयाँ विषयवस्तु रोज्नुहोस् ।">
@@ -18,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "तपाईंले जहाँ छोड्नुभयो त्यहिँ बाट छान्नुहोस् ।">
+<!ENTITY firstrun_sync_subtext2 "तपाईँले &brandShortName; मा संग्रह गर्ने पुस्तकचिनोहरू, गोप्यशब्दहरू र अन्य चीजहरू आफ्नो सबै उपकरणहरूमा फेला पार्न Sync प्रयोग गर्नुहोस् ।">
 <!ENTITY firstrun_signin_message "जोडिनुहोस्, सुरु हुनुहोस्">
 <!ENTITY firstrun_signin_button "Sync मा साइन इन गर्नुहोस">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ्ग सुरु गर्नुहोस">
@@ -204,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "ट्याब पुनः स्थापना गर्नुहोस्, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_category_notifications "सूचनाहरू">
 <!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अद्यावधिकहरू">
-<!ENTITY pref_content_notifications "वेबसाइट अद्यावधिकहरू">
-<!ENTITY pref_content_notifications_summary2 "समर्थित साइटबाट नयाँ सामग्री पत्ता लगउनुहोस्">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत Remote डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत Remote डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डिबगिङको लागि QR कोड पाठक अनुप्रयोग तपाईँको यन्त्रमा आवश्यक छ।">
@@ -333,23 +333,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;बिभिन्न लिकंहरू एकैचोटि खोल्न\&quot; का निमित्त \&apos;Draw over other apps\&apos; भन्ने अनुमति &brandShortName; लाई दिनुहोस्">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; वेबसाइट अद्यावधिक गरियो">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "सेटिङहरू">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "अब पढ्नुहोस्">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; मा अध्यावधिक भएको">
-
 <!ENTITY pref_char_encoding "वर्ण सङ्केतन">
 <!ENTITY pref_char_encoding_on "मेनु देखाउनुहोस्">
 <!ENTITY pref_char_encoding_off "मेनु नदेखाउनुहोस्">
@@ -408,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "पूर्वनिर्धारितको रूपमा सेट गर्नुहोस्">
 <!ENTITY pref_dialog_default "पूर्वनिर्धारित">
 <!ENTITY pref_dialog_remove "हटाउनुहोस्">
+<!ENTITY pref_dialog_activitystream_header_content "थप सामाग्री">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "भर्खरैका पुस्तकचिनोहरू">
+<!ENTITY pref_dialog_activitystream_visited "भ्रमण गरिएको">
 
 <!ENTITY pref_search_last_toast "अघिल्लो सर्च ईन्जिनलाई हटाउन तथा निस्कृय पार्न सक्नुहुन्न">
 
@@ -509,7 +495,17 @@
 <!ENTITY contextmenu_top_sites_edit "सम्पादन गर्नुहोस्">
 <!ENTITY contextmenu_top_sites_pin "साईट पिन गर्नुहोस्">
 <!ENTITY contextmenu_top_sites_unpin "साईट अनपिन गर्नुहोस्">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "शीर्ष साइटहरूमा पिन गर्नुहोस्">
+<!ENTITY contextmenu_unpin_from_top_sites "शीर्ष साइटहररूबाट अनपिन गर्नुहोस्">
 <!ENTITY contextmenu_add_search_engine "खोजी इन्जिन थप्नुहोस्">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "यो पृष्ठलाई शीर्ष साइटहरूमा पिन गरियो">
+<!ENTITY unpinned_page_from_top_sites "यो पृष्ठलाई शीर्ष साइटहरूबाट अनपिन गरियो">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -543,6 +539,7 @@
 <!ENTITY page_removed "पृष्ठ हटाइयो">
 
 <!ENTITY bookmark_edit_title "पुस्तकचिनो सम्पादन गर्नुहोस्">
+<!ENTITY bookmark_edit_folder_title "फोल्डर सम्पादन गर्नुहोस्">
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
@@ -622,6 +619,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "साइट पिन गरियो">
+<!ENTITY home_unpinned_site "साइट अनपिन गरियो">
 
 <!ENTITY remote_tabs_panel_moved_title "मेरो ट्याबहरू कहाँ गयो?">
 <!ENTITY remote_tabs_panel_moved_desc "तपाईँले हरेक पटक नयाँ ट्याब खोल्दा पहुँच सहज बनाउन तपाईँको अन्य यन्त्रहरूबाट ट्याबहरू तपाईँको गृह पृष्ठको एउटा प्यानलमा सारिसकेकाछाैँ।">
@@ -827,6 +826,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "शीर्ष साइटहरू">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; द्वारा सिफारिस गरिएको">
 <!ENTITY activity_stream_highlights "हाइलाइटहरू">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
@@ -836,11 +836,19 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "भ्रमण गरिएको">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "प्रचलनमा रहेको">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "हटाउनुहोस्">
 <!ENTITY activity_stream_delete_history "इतिहासबाट मेट्नुहोस्">
 
+<!ENTITY private_tab_panel_title "ट्रयाकिङ्ग सुरक्षा + निजी ब्राउजिङ्ग">
+<!ENTITY private_tab_panel_description "तपाईँको ब्राउजिङ्ग गतिविधि ट्रयाक गर्न सक्ने पृष्ठहरूको भागलाई &brandShortName; ले अबरुद्द गर्छ ।">
+<!ENTITY private_tab_panel_description2 "हामी कुनै पनि इतिहास याद गर्नेछैनौं, तर डाउनलोड गरिएका फाइल र नयाँ पुस्तकचिनोहरू भने अझै तपाईँको यन्त्रमा संग्रह गरिनेछ ।">
+<!ENTITY private_tab_learn_more "अरु जान्न चाहनुहुन्छ ?">
 
+<!ENTITY fullscreen_warning "पूरा पर्दामा प्रवेश गरियो">
