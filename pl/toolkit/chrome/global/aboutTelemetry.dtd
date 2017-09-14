@@ -8,7 +8,7 @@
 <!ENTITY aboutTelemetry.moreInformations "Szukasz dalszych informacji?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> zawiera przewodniki o tym, jak pracować z naszymi narzędziami danych">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentacja klienta telemetrii Firefoksa</a> zawiera definicje konceptów, dokumentację API i odniesienia do danych">
-<!ENTITY aboutTelemetry.telemetryDashboard "<a>Dashboardy telemetrii</a> pozwalają wizualizować dane jakie Mozilla otrzymuj poprzez Telemetrię">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Dashboardy telemetrii</a> pozwalają wizualizować dane, jakie Mozilla otrzymuj poprzez Telemetrię">
 <!ENTITY aboutTelemetry.showCurrentPingData "Bieżące">
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwum">
 <!ENTITY aboutTelemetry.raw "Nieprzetworzony JSON">
