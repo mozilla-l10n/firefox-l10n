@@ -21,7 +21,6 @@
 <!ENTITY toolsMenu.tooltip                    "ಎಲ್ಲಾ ಆಡ್‌-ಆನ್‌ಗಳಿಗಾಗಿನ ಉಪಕರಣಗಳು">
 
 
-
 <!ENTITY cmd.back.tooltip                     "ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು">
 <!ENTITY cmd.forward.tooltip                  "ಒಂದು ಪುಟ ಮುಂದಕ್ಕೆ ಹೋಗು">
 
@@ -29,8 +28,8 @@
 <!ENTITY showAllExtensions.button.label       "ಎಲ್ಲ ವಿಸ್ತರಣಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY debugAddons.label                    "ಆಡ್-ಆನ್‍ಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.">
 <!ENTITY warning.checkcompatibility.label          "ಆಡ್-ಆನ್‌ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಹೊಂದಾಣಿಕೆಯಾಗದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹೊಂದಿರಬಹುದು.">
 <!ENTITY warning.checkcompatibility.enable.label   "ಶಕ್ತಗೊಳಿಸು">
@@ -38,14 +37,14 @@
 <!ENTITY warning.updatesecurity.label              "ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಅಪ್‌ಡೇಟ್‌ಗಳಿಂದ ರಾಜಿ ಮಾಡಿಕೊಂಡಂತಾಗಬಹುದು.">
 <!ENTITY warning.updatesecurity.enable.label       "ಶಕ್ತಗೊಳಿಸು">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "ಹುಡುಕು">
 <!ENTITY view.discover.label                  "ಆಡ್-ಆನ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
 <!ENTITY view.recentUpdates.label             "ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು">
 <!ENTITY view.availableUpdates.label          "ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ Check">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು View">
@@ -73,8 +72,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ನೋಡಿ">
 <!ENTITY updates.updateSelected.label         "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು">
 <!ENTITY updates.updateSelected.tooltip       "ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು Show">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ Find">
@@ -121,12 +120,11 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "ಆಡ್-ಆನ್‌ಗಳೆಂದರೇನು?">
 <!ENTITY discover.description2                "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನೀವು &brandShortName; ಅನ್ನು ಹೆಚ್ಚಿನ ಉಪಯುಕ್ತತೆ ಅಥವ ಶೈಲಿಯೊಂದಿಗೆ ನಿಮ್ಮ ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸಬಹುದಾದ ಅನ್ವಯಗಳಾಗಿರುತ್ತವೆ. ಸಮಯ-ಉಳಿಸುವ ಬದಿಯ ಪಟ್ಟಿಕೆ, ಒಂದು ಹವಾಮಾನ ಸೂಚಕ, ಅಥವ &brandShortName; ನಿಮ್ಮದೆ ಆದ ರೀತಿಯಲ್ಲಿ ಕಾಣಿಸುವಂತೆ ವಿನ್ಯಸಿಸಲಾದ ನೋಟವನ್ನು ಪ್ರಯತ್ನಿಸಿ.">
 <!ENTITY discover.footer                      "ನೀವು ಅಂತರಜಾಲಕ್ಕೆ ಸಂಪರ್ಕಿತಗೊಂಡಾಗ, ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಉತ್ತಮವಾದ ಕೆಲವು ಹಾಗು ಜನಪ್ರಿಯ ಆಡ್-ಆನ್‌ಗಳನ್ನು ನೀವು ಪ್ರಯತ್ನಿಸುವಂತೆ ನಿಮಗೆ ತೋರಿಸಲಾಗುತ್ತದೆ.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "ಆವೃತ್ತಿ">
 <!ENTITY detail.lastupdated.label             "ಕೊನೆಯ ಬಾರಿಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿದ್ದು">
 <!ENTITY detail.creator.label                 "ವಿಕಸನೆಗಾರ">
@@ -155,17 +153,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ಈ ಆಡ್‌-ಆನ್‌ನ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "ಜನಪ್ರಿಯತೆಯ ಅಂದಾಜು">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ವಿರಮಿಸಿ">
 <!ENTITY progress.cancel.tooltip              "ರದ್ದುಗೊಳಿಸಿ">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "ಹೆಸರು">
 <!ENTITY sort.name.tooltip                    "ಹೆಸರಿನ ಆಧಾರದಲ್ಲಿ ವಿಂಗಡಿಸಿ">
 <!ENTITY sort.dateUpdated.label               "ಕೊನೆಯ ಬಾರಿಗೆ ಅಪ್‌ಡೇಟ್ ಮಾಡಿದ್ದು">
@@ -188,6 +186,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -221,12 +220,12 @@
 <!ENTITY eula.accept                          "ಅಂಗೀಕರಿಸು ಹಾಗು ಅನುಸ್ಥಾಪಿಸು…">
 
 <!ENTITY settings.path.button.label           "ವೀಕ್ಷಿಸಿ…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "ಏನಿದು? ಟೆಲಿಮೆಟ್ರಿಯು ಕಾಲ ಕಾಲಕ್ಕೆ ಪ್ರಯೋಗಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುತ್ತದೆ ಮತ್ತು ಚಲಾಯಿಸುತ್ತದೆ.">
 <!ENTITY experiment.info.learnmore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -250,9 +249,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ಕೈಪಿಡಿ">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-
-
-
-
-
+<!ENTITY pluginDeprecation.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.">
 
