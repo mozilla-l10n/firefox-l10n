@@ -36,7 +36,13 @@
 <!ENTITY moreButton.label "Lanjutan">
 
 <!ENTITY helpButton.label "Bantuan">
+<!ENTITY searchButton.label "Cari">
 
+<!ENTITY authorButton.label "Pengarang">
+<!ENTITY copyrightButton.label "Hak cipta">
 
+<!ENTITY bookmarkButton.label "Tandabuku">
 
+<!ENTITY alternateButton.label "Versi Lain">
 
+<!ENTITY feedButton.label "Langgan">
