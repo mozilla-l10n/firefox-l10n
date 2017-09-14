@@ -22,6 +22,7 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "વધુ શીખો">
+<!ENTITY  doNotTrack.default.label      "માત્ર ટ્રૅકિંગ પ્રોટેક્શનનો ઉપયોગ કરતી વખતે">
 <!ENTITY  doNotTrack.always.label       "હંમેશા">
 
 <!ENTITY  history.label                 "ઇતિહાસ">
