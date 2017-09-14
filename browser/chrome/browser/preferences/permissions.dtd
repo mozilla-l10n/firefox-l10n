@@ -25,3 +25,5 @@
 <!ENTITY button.cancel.accesskey      "o">
 <!ENTITY button.ok.label              "Gem ændringer">
 <!ENTITY button.ok.accesskey          "G">
+
+<!ENTITY searchbox.placeholder        "Søg efter websted">

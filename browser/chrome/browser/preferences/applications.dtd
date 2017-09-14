@@ -10,7 +10,4 @@
 <!ENTITY  actionColumn2.label     "Handling">
 <!ENTITY  actionColumn2.accesskey "H">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
 <!ENTITY  filter2.emptytext        "Søg efter filtyper eller programmer">

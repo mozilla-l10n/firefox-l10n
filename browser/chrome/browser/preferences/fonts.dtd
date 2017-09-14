@@ -12,7 +12,7 @@
 <!ENTITY  sizeMonospace.accesskey                 "r">
 
 <!ENTITY proportional2.label                     "Proportional">
-<!ENTITY proportional.accesskey                  "P">
+<!ENTITY proportional2.accesskey                 "P">
 
 <!ENTITY serif2.label                            "Serif">
 <!ENTITY serif2.accesskey                        "S">
