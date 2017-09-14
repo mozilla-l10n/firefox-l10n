@@ -558,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Bağlantıyı kopyala">
 <!ENTITY copyURLFeedback.label        "Kopyalandı!">
-<!ENTITY emailPageCmd.label           "Bağlantıyı e-postala…">
+<!ENTITY emailPageCmd.label           "Bağlantıyı e-postayla gönder…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
 <!ENTITY savePageCmd.accesskey        "f">
