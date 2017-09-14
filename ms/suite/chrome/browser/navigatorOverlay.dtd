@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- File Menu -->
+<!ENTITY tabCmd.label "Tab Pelayar">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Buka Lokasi Web…">
+<!ENTITY openCmd.accesskey "L">
+<!ENTITY openCmd.commandkey "l">
+<!ENTITY openFileCmd.label "Buka Fail…">
+<!ENTITY openFileCmd.accesskey "B">
+<!ENTITY openFileCmd.commandkey "o">
+
+<!ENTITY closeOtherTabs.label "Tutup Tab Lain">
+<!ENTITY closeOtherTabs.accesskey "T">
+
+<!ENTITY uploadFile.label "Muat naik Fail…">
+<!ENTITY uploadFile.accesskey "F">
+
+<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.accesskey "e">
+
+<!-- Edit Menu -->
+<!ENTITY findOnCmd.label "Cari dalam Halaman Ini…">
+
+<!-- View Menu -->
+
+
+
+<!-- Go Menu -->
+
+<!-- Bookmarks Menu -->
+
+<!-- Tools Menu -->
+
+
+
+
+
