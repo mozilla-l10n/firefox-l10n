@@ -560,7 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "નકલ કરેલ!">
 <!ENTITY emailPageCmd.label           "ઇમેલ કડી…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "પાનું આ રીતે સંગ્રહો...">
+<!ENTITY savePageCmd.label            "આ રીતે પૃષ્ઠ સાચવો ...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
