@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Standaard herstellen">
 <!ENTITY restoreDefault.accesskey  "S">
 
+<!ENTITY disableExtension.label    "Extensie uitschakelen">
+
 <!ENTITY downloads.label     "Downloads">
 
 <!ENTITY saveTo.label                 "Bestanden opslaan in">

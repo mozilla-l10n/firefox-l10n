@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "46em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "De door de pagina opgegeven kleuren overschrijven met uw selecties hierboven:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "D">
+<!ENTITY  overrideDefaultPageColors2.label       "De door de pagina opgegeven kleuren overschrijven met uw selecties hierboven">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "D">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Altijd">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Alleen bij thema’s met hoog contrast">
