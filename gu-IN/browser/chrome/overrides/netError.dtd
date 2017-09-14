@@ -79,6 +79,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
 
 <!ENTITY sharedLongDesc "<ul> <li>સાઈટ થોડી વાર માટે ઉપલબ્ધ નહિં હોય અથવા ખૂબ વ્યવસ્ત પણ હોઈ શકે. થોડી ક્ષણો માટે ફરીથી પ્રયત્ન કરો.</li> <li>જો તમે કોઈપણ પાનાંઓ લાવવા માટે અસમર્થ હોય, તો તમારા કમ્પ્યૂટરનું નેટવર્ક જોડાણ ચકાસો.</li> <li>જો તમારું કમ્પ્યૂટર અથવા નેટવર્ક એ ફાયરવોલ અથવા પ્રોક્સીથી સુરક્ષિત કરાયેલ હોય, તો ખાતરી કરો કે  &brandShortName; ને વેબ વપરાશની પરવાનગી છે.</li> </ul>">
 
