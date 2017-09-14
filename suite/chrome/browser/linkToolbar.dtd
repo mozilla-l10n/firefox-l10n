@@ -8,12 +8,34 @@
 <!ENTITY linkToolbar.tooltip "Bar Navigasi Laman Web">
 
 <!-- Link Toolbar visibility options -->
+<!ENTITY linkToolbarAlways.label "Sentiasa Papar">
+<!ENTITY linkToolbarAlways.accesskey "S">
+<!ENTITY linkToolbarAsNeeded.label "Papar Hanya Bila Diperlukan">
+<!ENTITY linkToolbarAsNeeded.accesskey "H">
+<!ENTITY linkToolbarNever.label "Sentiasa Sorok">
+<!ENTITY linkToolbarNever.accesskey "S">
 
 <!-- Toolbar buttons, menus, and menuitems -->
+<!ENTITY topButton.label "Atas">
+<!ENTITY upButton.label "Ke Atas">
+<!ENTITY firstButton.label "Pertama">
+<!ENTITY prevButton.label "Terdahulu">
+<!ENTITY nextButton.label "Berikut">
+<!ENTITY lastButton.label "Akhir">
 
+<!ENTITY documentButton.label "Dokumen">
 
+<!ENTITY tocButton.label "Jadual Kandungan">
+<!ENTITY chapterButton.label "Bab">
+<!ENTITY sectionButton.label "Bahagian">
+<!ENTITY subSectionButton.label "Sub-bahagian">
+<!ENTITY appendixButton.label "Apendiks">
+<!ENTITY glossaryButton.label "Glosari">
+<!ENTITY indexButton.label "Indeks">
 
+<!ENTITY moreButton.label "Lanjutan">
 
+<!ENTITY helpButton.label "Bantuan">
 
 
 
