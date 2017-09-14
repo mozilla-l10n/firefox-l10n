@@ -5,7 +5,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Dane telemetrii">
 
 <!ENTITY aboutTelemetry.pingDataSource "Źródło danych ping:">
-<!ENTITY aboutTelemetry.moreInformations "Szukasz dlaszych informacji?">
+<!ENTITY aboutTelemetry.moreInformations "Szukasz dalszych informacji?">
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> zawiera przewodniki o tym jak pracować z naszymi narzędziami danych">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentacja klienta telemetrii Firefoksa</a> zawiera definicje konceptów, dokumentacje API i odniesienia do danych">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Dashboardy telemetrii</a> pozwalają wizualizować dane jakie Mozilla otrzymuj poprzez Telemetrię">
