@@ -66,10 +66,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "अपना वेब अपने साथ रखें">
 <!ENTITY signedOut.description        "अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; से जुड़ें">
-<!ENTITY signedOut.accountBox.create  "खाता बनाएँ">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "साइन इन">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "साइन इन…">
 
 <!ENTITY signedIn.settings.label       "समन्वयन सेटिंग">
 <!ENTITY signedIn.settings.description "चुने, &brandShortName; का उपयोग करके अपने उपकरण पर क्या संकालित करना हैं.">

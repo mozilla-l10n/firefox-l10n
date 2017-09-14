@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  blockPopups.label           "पॉपअप विंडो को अवरोधित करें">
 <!ENTITY  blockPopups.accesskey       "B">
 
@@ -12,16 +13,21 @@
 <!ENTITY  popupExceptions.label                                 "अपवाद...">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-
 <!ENTITY  notificationPermissions.label                         "अधिसूचना">
+<!ENTITY  notificationSettingsButton.label                      "सेटिंग…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "अधिक जानें">
 
+<!ENTITY  locationPermissions.label                             "स्थान">
+<!ENTITY  locationSettingsButton.label                          "सेटिंग…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "कैमरा">
+<!ENTITY  cameraSettingsButton.label                            "सेटिंग…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
-
-
-
-
-
+<!ENTITY  microphoneSettingsButton.label                        "सेटिंग…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "फ़ॉन्ट व रंग">
 
@@ -36,6 +42,8 @@
 <!ENTITY  colors.label                "रंग...">
 <!ENTITY  colors.accesskey            "C">
 
+
+<!ENTITY language2.label              "भाषा">
 <!ENTITY chooseLanguage.label         "पृष्ठ प्रदर्शन के लिए अपनी पसंदीदा भाषा का चयन करें">
 <!ENTITY chooseButton.label           "चयन करें…">
 <!ENTITY chooseButton.accesskey       "o">
@@ -44,6 +52,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "अपवाद...">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -51,10 +60,9 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 
-
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "अधिक जानें">

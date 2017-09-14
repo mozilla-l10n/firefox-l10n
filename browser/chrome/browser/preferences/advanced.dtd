@@ -28,10 +28,12 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "अधिक जानें">
 
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता सूचना">
 
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अधिक जानें">
 
 <!ENTITY networkTab.label                "संजाल">
@@ -87,6 +89,7 @@ available. -->
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "के लिए &brandShortName; को अनुमति दें">
 <!ENTITY updateAuto3.label               "स्वचालित रूप से (अनुशंसित) अद्यतन स्थापित करें">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "अद्यतन हेतु जाँचें; लेकिन आपको उन्हें संस्थापित करने के लिए चुनने दें">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं)">
@@ -119,6 +122,10 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "सर्टिफ़िकेट देखें…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "सुरक्षा उपकरण…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "प्रदर्शन">
 <!ENTITY useRecommendedPerformanceSettings2.label
