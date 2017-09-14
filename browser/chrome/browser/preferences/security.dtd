@@ -6,6 +6,7 @@
 <!ENTITY phishingProtection.label "Protezione dalle contraffazioni (phishing)">
 <!ENTITY warnOnAddonInstall2.label "Avvisa se un sito web cerca di installare un componente aggiuntivo">
 <!ENTITY warnOnAddonInstall2.accesskey "A">
+<!ENTITY browsingProtection.label "Protezione contro contenuti ingannevoli e software a rischio">
 <!ENTITY enableSafeBrowsing.label "Blocca contenuti a rischio e ingannevoli">
 <!ENTITY enableSafeBrowsing.accesskey "B">
 <!ENTITY blockDownloads.label "Blocca download a rischio">
