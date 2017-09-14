@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "ಅನುಮತಿಗಳು">
+
 <!ENTITY  blockPopups.label           "ಪುಟಿಕೆ (ಪಾಪ್-ಅಪ್) ಕಿಟಕಿಗಳನ್ನು ತಡೆ ಹಿಡಿ">
 <!ENTITY  blockPopups.accesskey       "B">
 
@@ -12,13 +14,8 @@
 <!ENTITY  popupExceptions.label                                 "ಹೊರತಾದವುಗಳು...">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-
 <!ENTITY  notificationPermissions.label                         "ಸೂಚನೆಗಳು">
-
-
-
-
-
+<!ENTITY  notificationSettingsButton.label                      "ಸಿದ್ಧತೆಗಳು…">
 
 
 
@@ -26,14 +23,12 @@
 <!ENTITY  fontsAndColors.label        "ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು">
 
 
-
-
-
 <!ENTITY  advancedFonts.label         "ಮುಂದುವರೆದ...">
 <!ENTITY  advancedFonts.accesskey     "A">
 
 <!ENTITY  colors.label                "ಬಣ್ಣಗಳು...">
 <!ENTITY  colors.accesskey            "C">
+
 
 <!ENTITY chooseLanguage.label         "ಪುಟಗಳನ್ನು ತೋರಿಸಲು ನಿಮ್ಮ ಬಯಕೆಯ ಭಾಷೆಯನ್ನು ಆರಿಸಿ">
 <!ENTITY chooseButton.label           "ಆರಿಸಿ…">
@@ -43,6 +38,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "ಹೊರತಾದವುಗಳು...">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -50,10 +46,8 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "ಅನುವಾದಿಸಿದವರು">
 <!ENTITY translation.options.attribution.afterLogo "‌">
-
 
 
 <!ENTITY  playDRMContent.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
