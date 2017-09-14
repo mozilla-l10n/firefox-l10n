@@ -18,14 +18,26 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; disediakan untuk anda di bawah terma ">
 <!ENTITY rights.intro-point1b "Lesen Awam Mozilla">
+<!ENTITY rights.intro-point1c ". Ini bermakna anda boleh menggunakan, menyalin dan mengedarkan &brandShortName; kepada pihak lain.  Anda juga dialu-alukan untuk mengubahsuai kod sumber &brandShortName; untuk memenuhi keperluan anda. Lesen awam Mozilla juga memberikan anda hak untuk mengedarkan versi ubahsuai anda.">
 
+<!ENTITY rights.intro-point2a "Mozilla tidak memberikan anda sebarang hak untuk menggunakan cap dagangan atau logo Mozilla dan SeaMonkey. Maklumat tambahan mengenai Cap Dagangan boleh didapatkan ">
+<!ENTITY rights.intro-point2b "di sini">
+<!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Sesetengah ciri dalam &brandShortName;, seperti Pelapor Ranap, memberikan anda pilihan untuk berikan maklum balas kepada &vendorShortName;. Dengan memilih untuk mengemukakan maklum balas, anda memberikan &vendorShortName; dan Mozilla kebenaran untuk menggunakan maklum balas berkenaan untuk meningkatkan aplikasi, menyiarkan dan mengedarkan maklum balas dalam laman web.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Polisi Privasi untuk produk &vendorShortName; boleh didapatkan ">
+<!ENTITY rights.intro-point3b "di sini">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "&brandShortName; menawarkan perkhidmatan maklumat laman web pilihan, seperti Add-on atau perkhidmatan Pelayaran Selamat; walau bagaimanapun, kami tidak dapat menjamin bahawa perkhidmatan ini 100&#37; tepat atau bebas kesilapan. Maklumat lanjut, termasuk maklumat perihal cara menyahaktifkan perkhidmatan ini, boleh didapatkan di dalam ">
+<!ENTITY rights.intro-point4b "terma perkhidmatan">
+<!ENTITY rights.intro-point4c ".">
 
+<!ENTITY rights.webservices-header "Perkhidmatan Laman Web &brandFullName;">
 
 <!-- Note that this paragraph references entities from extensions.dtd,
      preferences.dtd, pref-smartupdate.dtd, and pref-security.dtd,
