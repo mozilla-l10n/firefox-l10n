@@ -965,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixa una còpia nova del &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Després d'un reinici ràpid, el &brandShorterName; restaurarà totes les pestanyes i obertes i les finestres que no estiguin en mode de navegació privada.">
 <!ENTITY updateRestart.header.message2 "Reinicia per actualitzar el &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reinicia i restaura">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -976,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimina de la barra d'adreces">
 
+<!ENTITY pageAction.sendTabToDevice.label "Envia la pestanya al dispositiu">
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
 <!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">

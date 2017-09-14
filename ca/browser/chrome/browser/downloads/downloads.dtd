@@ -52,10 +52,11 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Obre la carpeta de baixades">
+<!ENTITY cmd.show.label                   "Obre la carpeta on es troba">
 <!ENTITY cmd.show.accesskey               "b">
-<!ENTITY cmd.showMac.label                "Obre la carpeta on es troba">
+<!ENTITY cmd.showMac.label                "Mostra-ho en el Finder">
 <!ENTITY cmd.showMac.accesskey            "c">
+<!ENTITY cmd.showDownloads.label          "Mostra la carpeta de baixades">
 <!ENTITY cmd.retry.label                  "Reintenta">
 <!ENTITY cmd.goToDownloadPage.label       "Vés a la pàgina de baixades">
 <!ENTITY cmd.goToDownloadPage.accesskey   "V">
