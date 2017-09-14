@@ -46,12 +46,26 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-a "&brandFullName; menawarkan perkhidmatan berasaskan web pilihan (&quot;Perkhidmatan&quot;) yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; ini seperti yang dijelaskan di bawah.  Beberapa perkhidmatan ini (seperti cadangan Add-on dan perkhidmatan kemaskini, perkhidmatan Pelayaran Selamat, atau ciri notifikasi Pelayaran Sedar Lokasi) diaktifkan secara piawai.  Jika anda tidak mahu menggunakan mana-mana Perkhidmatan ini atau tidak menerima terma di bawah, anda boleh ikuti arahan untuk menyahaktifkan sesuatu ciri atau Perkhidmatan ">
 <!ENTITY rights3.webservices-b "di sini">
+<!ENTITY rights3.webservices-c ". Ciri dan Perkhidmatan lain boleh diaktifkan atau dinyahaktifkan dari dalam tetapan keutamaan aplikasi.">
 
 <!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Perkhidmatan Add-on: ">
+<!ENTITY rights.addons-b "Secara piawai, &brandShortName; akan mengesyorkan add-ons dalam halaman &view.discover.label; dan menyemak kemaskini secara berkala.  Jika anda mahu menyahaktifkan ciri ini untuk mengelakkan komunikasi maklumat add-ons yang dipasang dengan pelayan, ikuti langkah ini:">
+<!ENTITY rights.addons-term1 "Buka tetapan keutamaan aplikasi">
+<!ENTITY rights.addons-term2 "Pilih panel &smart.label; di dalam kategori &advance.label;">
+<!ENTITY rights.addons-term3 "Buang tanda dalam pilihan &quot;&autoAddOnsUpdates.label;&quot; dan &quot;&enablePersonalized.label;&quot;">
+<!ENTITY rights.addons-term4 "Perkhidmatan Add-on kini dinyahaktifkan">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "Pelayaran Selamat: ">
+<!ENTITY rights.safebrowsing-b "Anda tidak disyorkan untuk menyahaktifkan ciri Pelayaran Selamat kerana anda mungkin melayari laman yang  tidak selamat.  Jika anda mahu menyahaktifkan semua ciri ini, ikuti langkah berikut:">
+<!ENTITY rights.safebrowsing-term1 "Buka tetapan keutamaan aplikasi">
+<!ENTITY rights.safebrowsing-term2 "Pilih panel &security.label; utama">
+<!ENTITY rights.safebrowsing-term3 "Buang tanda dalam pilihan &quot;&blockAttackSites.label;&quot; dan &quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term4 "Pelayaran Selamat kini dinyahaktifkan">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Pelayaran Sedar Lokasi: ">
 
 <!-- points 0-6 text for branded builds -->
 
