@@ -866,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ટેબ્લેટ મોડ માટે સ્પર્શનો ઉપયોગ કરો">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "આપમેળે-છુપાવો">
+
 <!ENTITY getUserMedia.selectCamera.label "વહેંચવા માટે કૅમેરા:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "વહેંચવા માટે માઇક્રોફોન:">
