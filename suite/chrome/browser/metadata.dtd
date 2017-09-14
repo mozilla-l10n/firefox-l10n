@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY no-properties.label   "Tiada sifat ditetapkan.">
+
+<!ENTITY caption.label         "Sifat Elemen">
+<!ENTITY image-sec.label       "Sifat Imej">
+<!ENTITY image-url.label       "Lokasi:">
+<!ENTITY image-desc.label      "Keterangan:">
+<!ENTITY image-alt.label       "Teks alternatif:">
+<!ENTITY image-width.label     "Lebar:">
+<!ENTITY image-height.label    "Tinggi:">
+<!ENTITY image-filesize.label  "Saiz Fail:">
