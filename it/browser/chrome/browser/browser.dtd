@@ -69,6 +69,7 @@
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "U">
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 <!ENTITY pageInfoCmd.label "Informazioni sulla pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
