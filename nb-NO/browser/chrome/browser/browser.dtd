@@ -558,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY pageAction.copyLink.label    "Kopier lenke">
 <!ENTITY copyURLFeedback.label        "Kopiert!">
-<!ENTITY emailPageCmd.label           "Send lenke på e-post …">
+<!ENTITY emailPageCmd.label           "Send lenke med e-post…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY savePageCmd.label            "Lagre side som …">
 <!ENTITY savePageCmd.accesskey        "a">
