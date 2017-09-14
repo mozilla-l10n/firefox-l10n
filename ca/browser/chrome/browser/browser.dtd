@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Torna a carregar totes les pestanyes">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Duplica la pestanya">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -257,6 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "p">
 
 <!ENTITY downloads.label              "Baixades">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Baixades">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Copia l'URL">
+<!ENTITY pageAction.copyLink.label    "Copia l'enllaç">
 <!ENTITY copyURLFeedback.label        "S'ha copiat">
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -574,8 +581,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Envia el vídeo per correu…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Envia el vídeo al dispositiu">
-<!ENTITY castVideoCmd.accesskey       "E">
 <!ENTITY emailAudioCmd.label          "Envia l'àudio per correu…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activa aquest connector">
@@ -861,6 +866,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilitza «tàctil» per al mode de tauleta">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Amaga automàticament">
+
 <!ENTITY getUserMedia.selectCamera.label "Càmera per compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micròfon per compartir:">
@@ -958,7 +965,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixa una còpia nova del &brandShorterName;">
 
-<!ENTITY updateRestart.message "Un cop reiniciat, el &brandShorterName; restaurarà totes les pestanyes i finestres obertes.">
 <!ENTITY updateRestart.header.message2 "Reinicia per actualitzar el &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reinicia i restaura">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,7 +976,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimina de la barra d'adreces">
 
-<!ENTITY sendToDevice.label3 "Envia la pàgina al dispositiu">
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
 <!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">
