@@ -75,24 +75,82 @@
 <!ENTITY perm.button.add.accesskey "T">
 
 <!-- preferences -->
+<!ENTITY prefs.description "Keutamaan kandungan adalah satu cara untuk &brandShortName; menyimpan tetapan, seperti tahap zum, khusus untuk laman web.">
 
+<!ENTITY prefs.tree.host.label "Laman web">
+<!ENTITY prefs.tree.name.label "Nama Keutamaan">
+<!ENTITY prefs.tree.value.label "Nilai">
 
+<!ENTITY prefs.ctx.remove.label "Buang">
+<!ENTITY prefs.ctx.remove.accesskey "B">
+<!ENTITY prefs.ctx.selectAll.label "Pilih Semua">
+<!ENTITY prefs.ctx.selectAll.accesskey "S">
 
+<!ENTITY prefs.button.remove.label "Buang">
+<!ENTITY prefs.button.remove.accesskey "B">
 
 <!-- passwords -->
+<!ENTITY pwd.description "Anda ada kata laluan berikut yang disimpan untuk domain ini:">
 
+<!ENTITY pwd.tree.host.label "Laman web">
+<!ENTITY pwd.tree.username.label "Nama pengguna">
+<!ENTITY pwd.tree.password.label "Kata laluan">
 
+<!ENTITY pwd.ctx.remove.label "Buang">
+<!ENTITY pwd.ctx.remove.accesskey "B">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Salin Kata Laluan">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "S">
+<!ENTITY pwd.ctx.selectAll.label "Pilih Semua">
+<!ENTITY pwd.ctx.selectAll.accesskey "S">
 
+<!ENTITY pwd.button.remove.label "Buang">
+<!ENTITY pwd.button.remove.accesskey "B">
 
 <!-- storage -->
+<!ENTITY storage.description "Domain ini menggunakan storan web berikut dalam komputer anda:">
 
+<!ENTITY storage.tree.host.label "Laman web">
+<!ENTITY storage.tree.type.label "Jenis">
+<!ENTITY storage.tree.size.label "Saiz">
 
+<!ENTITY storage.ctx.remove.label "Buang">
+<!ENTITY storage.ctx.remove.accesskey "B">
+<!ENTITY storage.ctx.selectAll.label "Pilih Semua">
+<!ENTITY storage.ctx.selectAll.accesskey "S">
 
+<!ENTITY storage.button.remove.label "Buang">
+<!ENTITY storage.button.remove.accesskey "B">
 
 <!-- form data -->
+<!ENTITY fdata.search.placeholder "Cari Data Medan">
 
+<!ENTITY fdata.tree.fieldname.label "Nama Medan">
+<!ENTITY fdata.tree.value.label "Nilai yang Dimasukkan">
+<!ENTITY fdata.tree.usecount.label "Guna Kiraan">
+<!ENTITY fdata.tree.firstused.label "Pertama Digunakan">
+<!ENTITY fdata.tree.lastused.label "Terakhir Digunakan">
 
+<!ENTITY fdata.ctx.remove.label "Buang">
+<!ENTITY fdata.ctx.remove.accesskey "B">
+<!ENTITY fdata.ctx.selectAll.label "Pilih Semua">
+<!ENTITY fdata.ctx.selectAll.accesskey "S">
 
+<!ENTITY fdata.button.remove.label "Buang">
+<!ENTITY fdata.button.remove.accesskey "B">
 
 <!-- forget -->
+<!ENTITY forget.cookies.label "Kuki">
+<!ENTITY forget.cookies.accesskey "K">
+<!ENTITY forget.permissions.label "Keizinan">
+<!ENTITY forget.permissions.accesskey "K">
+<!ENTITY forget.preferences.label "Keutamaan Kandungan">
+<!ENTITY forget.preferences.accesskey "d">
+<!ENTITY forget.passwords.label "Kata laluan">
+<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Storan">
+<!ENTITY forget.storage.accesskey "S">
+<!ENTITY forget.formdata.label "Data Borang">
+<!ENTITY forget.formdata.accesskey "D">
 
+<!ENTITY forget.button.label "Lupakan Data Ini">
+<!ENTITY forget.button.accesskey "L">
