@@ -13,7 +13,24 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Buang Senarai">
+<!ENTITY cmd.clearList.tooltip           "Buang muat turun yang telah lengkap, dibatalkan dan gagal dari senarai">
+<!ENTITY cmd.clearList.accesskey         "B">
 
+<!ENTITY col.name.label                  "Nama">
+<!ENTITY col.name.accesskey              "N">
+<!ENTITY col.name.tooltip                "Nama Fail">
+<!ENTITY col.status.label                "Status">
+<!ENTITY col.status.accesskey            "S">
+<!ENTITY col.status.tooltip              "Status">
+<!ENTITY col.actionPlay.label            "Jeda/Sambung/Cuba lagi">
+<!ENTITY col.actionPlay.accesskey        "u">
+<!ENTITY col.actionPlay.tooltip          "Jeda/Sambung/Cuba lagi">
+<!ENTITY col.actionStop.label            "Batal/Buang">
+<!ENTITY col.actionStop.accesskey        "B">
+<!ENTITY col.actionStop.tooltip          "Batal/Buang">
+<!ENTITY col.progress.label              "Kemajuan">
+<!ENTITY col.progress.accesskey          "K">
+<!ENTITY col.progress.tooltip            "Kemajuan">
 
 
 
