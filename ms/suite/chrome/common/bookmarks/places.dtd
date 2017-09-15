@@ -23,6 +23,9 @@
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY cmd.findInBookmarks.label      "Cari dalam Tandabuku…">
+<!ENTITY cmd.findInBookmarks.accesskey  "C">
+<!ENTITY cmd.findCurrent.label          "Cari dalam Koleksi Semasa…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
 
 
 
