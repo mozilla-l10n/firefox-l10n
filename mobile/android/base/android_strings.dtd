@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Externe weblettertypen downloaden bij het laden van een pagina">
 
 <!ENTITY pref_tracking_protection_title2 "Bescherming tegen volgen">
-<!ENTITY pref_tracking_protection_summary3 "Ingeschakeld in Privénavigatie">
 <!ENTITY pref_donottrack_title "Niet volgen">
 <!ENTITY pref_donottrack_summary "&brandShortName; zal websites laten weten dat u niet gevolgd wilt worden">
 
