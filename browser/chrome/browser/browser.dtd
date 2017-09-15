@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Sinchronizuotos kortelės">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Nėra atvertų kortelių">
+<!ENTITY appMenuRemoteTabs.notabs.label "Nėra atvirų kortelių">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Rodyti daugiau">
@@ -791,7 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.title    "Nėra sinchronizuotų kortelių… Kol kas!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Norite matyti savo korteles iš kitų įrenginių čia?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvertų kortelių">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Nėra atvirų kortelių">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -865,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Lietimui">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "L">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Naudoti „lietimui“ planšetės veiksenoje">
+
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kurią leisite pasiekti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -963,7 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Parsiųsti šviežią „&brandShorterName;“ kopiją">
 
-<!ENTITY updateRestart.message2 "Po greito perleidimo, „&brandShorterName;“ atkurs visas jūsų atvertas korteles ir langus, kurie nėra privačiojo naršymo veiksenoje.">
+<!ENTITY updateRestart.message2 "Po greito perleidimo, „&brandShorterName;“ atkurs visas jūsų atviras korteles ir langus, kurie nėra privačiojo naršymo veiksenoje.">
 <!ENTITY updateRestart.header.message2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 <!ENTITY updateRestart.acceptButton.label "Perleisti ir atkurti">
 <!ENTITY updateRestart.acceptButton.accesskey "P">
