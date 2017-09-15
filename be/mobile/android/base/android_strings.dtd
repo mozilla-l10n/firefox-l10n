@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Аднаўленне картак, эканомія трафіку, інструменты распрацоўшчака">
 <!ENTITY pref_category_notifications "Апавяшчэнні">
 <!ENTITY pref_category_notifications_summary "Новыя магчымасці, абнаўленні сайтаў">
-<!ENTITY pref_content_notifications "Абнаўленні сайтаў">
-<!ENTITY pref_content_notifications_summary2 "Адкрыйце для сябе новы кантэнт з сайтаў, што падтрымліваюцца">
 <!ENTITY pref_developer_remotedebugging_usb "Аддаленая адладка праз USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Аддаленая адладка праз Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для аддаленай адладкі праз Wi-Fi неабходна, каб на вашай прыладзе была ўсталявана праграма для чытання QR-кодаў.">
@@ -335,23 +333,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Для \&quot;Адкрыцця мноства спасылак\&quot;, калі ласка, дайце &brandShortName; дазвол на \&apos;Паказ вокнаў па-над іншымі праграмамі\&apos;">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "Абноўлена &formatD; вэб-сайтаў">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Налады">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Чытаць зараз">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Абноўлена ў &formatS;">
-
 <!ENTITY pref_char_encoding "Кадоўка знакаў">
 <!ENTITY pref_char_encoding_on "Паказваць меню">
 <!ENTITY pref_char_encoding_off "Не паказваць меню">
@@ -410,6 +391,9 @@
 <!ENTITY pref_dialog_set_default "Прызначыць прадвызначаным">
 <!ENTITY pref_dialog_default "Прадвызначана">
 <!ENTITY pref_dialog_remove "Выдаліць">
+<!ENTITY pref_dialog_activitystream_header_content "Дадатковы змест">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Нядаўнія закладкі">
+<!ENTITY pref_dialog_activitystream_visited "Наведанае">
 
 <!ENTITY pref_search_last_toast "Вы не можаце выдаліць або забараніць вашу астатнюю машыну пошуку.">
 
@@ -511,7 +495,17 @@
 <!ENTITY contextmenu_top_sites_edit "Праўка">
 <!ENTITY contextmenu_top_sites_pin "Замацаваць сайт">
 <!ENTITY contextmenu_top_sites_unpin "Адмацаваць сайт">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Замацаваць у Папулярных сайтах">
+<!ENTITY contextmenu_unpin_from_top_sites "Адмацаваць з Папулярных сайтаў">
 <!ENTITY contextmenu_add_search_engine "Дадаць машыну пошуку">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Замацаваная у Папулярных сайтах старонка">
+<!ENTITY unpinned_page_from_top_sites "Адмацаваная з Папулярных сайтаў старонка">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -846,16 +840,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Наведанае">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Тэндэнцыі">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Пачніце агляданне, і мы пакажам вам тут некаторыя з найлепшых артыкулаў, відэаролікаў і іншых старонак, якія вы нядаўна наведалі або дадалі ў закладкі.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Выдаліць">
 <!ENTITY activity_stream_delete_history "Выдаліць з гісторыі">
-
-<!ENTITY activity_stream_welcome_title "Вітаем у Асноўным">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; цяпер адлюстроўвае асноўнае, што вы праглядалі ў Інтэрнэце, каб вы маглі зноў вярнуцца да выдатных артыкулаў, відэа, закладак, а таксама іншых старонак.">
-<!ENTITY activity_stream_welcome_dismiss "Адхіліць">
 
 <!ENTITY private_tab_panel_title "Прыватнае агляданне + Ахова ад сачэння">
 <!ENTITY private_tab_panel_description "&brandShortName; блакуе часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
