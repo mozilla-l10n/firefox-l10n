@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY errorConsole.title   "Konsol Ralat">
+
+<!ENTITY errFile.label        "Fail Sumber:">
+<!ENTITY errLine.label        "Baris:">
+<!ENTITY errColumn.label      "Lajur:">
+
+<!ENTITY all.label            "Semua">
+<!ENTITY all.accesskey        "S">
+<!ENTITY errors.label         "Ralat">
+<!ENTITY errors.accesskey     "t">
+<!ENTITY warnings.label       "Amaran">
+<!ENTITY warnings.accesskey   "n">
+<!ENTITY messages.label       "Mesej">
+<!ENTITY messages.accesskey   "M">
+<!ENTITY clear.label          "Buang">
+<!ENTITY clear.accesskey      "u">
+<!ENTITY codeEval.label       "Kod:">
+
+
