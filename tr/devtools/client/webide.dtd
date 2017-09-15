@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Göster">
 <!ENTITY viewMenu_accesskey "G">
-<!ENTITY viewMenu_toggleEditor_label "Editörü aç/kapat">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Yaklaştır">
 <!ENTITY viewMenu_zoomin_accesskey "Y">
 <!ENTITY viewMenu_zoomout_label "Uzaklaştır">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -82,7 +78,7 @@
 <!ENTITY runtimePanel_simulator "Simülatörler">
 <!ENTITY runtimePanel_other "Diğer">
 <!ENTITY runtimePanel_installsimulator "Simülatör yükle">
-<!ENTITY runtimePanel_noadbhelper "ADB Helper'ı yükle">
+<!ENTITY runtimePanel_noadbhelper "ADB Helper’ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
 
@@ -94,7 +90,6 @@
 <!ENTITY details_location "Konum">
 <!ENTITY details_manifestURL "Uygulama kimliği">
 <!ENTITY details_removeProject_button "Projeyi kaldır">
-<!ENTITY details_showPrepackageLog_button "Ön paket günlüğünü göster">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Yeni uygulama">
@@ -123,21 +118,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE başladığında önceki projeyi geri yükle">
 <!ENTITY prefs_options_templatesurl "Şablonların URL’si">
 <!ENTITY prefs_options_templatesurl_tooltip "Kullanılabilir şablonlar dizini">
-<!ENTITY prefs_options_showeditor "Editörü göster">
-<!ENTITY prefs_options_showeditor_tooltip "Dahili editörü göster">
-<!ENTITY prefs_options_tabsize "Sekme boyutu">
-<!ENTITY prefs_options_expandtab "Tab yerine boşluk">
-<!ENTITY prefs_options_expandtab_tooltip "Tab karakteri yerine boşluk kullan">
-<!ENTITY prefs_options_detectindentation "Otomatik girinti">
-<!ENTITY prefs_options_detectindentation_tooltip "Kaynak içeriğe dayanarak girintilemeyi tahmin et">
-<!ENTITY prefs_options_autocomplete "Otomatik tamamla">
-<!ENTITY prefs_options_autocomplete_tooltip "Kodları otomatik tamamlamayı etkinleştir">
-<!ENTITY prefs_options_autoclosebrackets "Parantezleri otomatik kapat">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Kapatma parantezlerini otomatik ekle">
-<!ENTITY prefs_options_keybindings "Kısayol tuşları">
-<!ENTITY prefs_options_keybindings_default "Varsayılan">
-<!ENTITY prefs_options_autosavefiles "Dosyaları otomatik kaydet">
-<!ENTITY prefs_options_autosavefiles_tooltip "Düzenlenen dosyaları projeyi çalıştırmadan önce kendiliğinden kaydeder">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">

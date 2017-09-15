@@ -73,8 +73,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Tarayıcı chrome'u ve eklenti hata ayıklama araç kutularını etkinleştir">
-<!ENTITY options.enableChrome.tooltip3  "Bu seçeneği açarsanız tarayıcı bağlamında çeşitli geliştirici araçlarını (Araçlar > Web Geliştirici > Tarayıcı araç kutusu aracılığıyla) ve Eklenti Yöneticisi'nde hata ayıklama eklentilerini kullanabilirsiniz">
+<!ENTITY options.enableChrome.label5    "Tarayıcı chrome’u ve eklenti hata ayıklama araç kutularını etkinleştir">
+<!ENTITY options.enableChrome.tooltip3  "Bu seçeneği açarsanız tarayıcı bağlamında çeşitli geliştirici araçlarını (Araçlar > Web Geliştirici > Tarayıcı araç kutusu aracılığıyla) ve Eklenti Yöneticisi’nde hata ayıklama eklentilerini kullanabilirsiniz">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -85,19 +85,19 @@
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
-<!ENTITY options.disableJavaScript.label     "JavaScript'i devre dışı bırak *">
+<!ENTITY options.disableJavaScript.label     "JavaScript’i devre dışı bırak *">
 <!ENTITY options.disableJavaScript.tooltip   "Bu seçeneği açarsanız geçerli sekmede JavaScript devre dışı bırakılır. Sekme veya alet çantası kapatılırsa bu ayar unutulacaktır.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "HTTP önbelleğini kapat (araç kutusu açıkken)">
-<!ENTITY options.disableHTTPCache.tooltip   "Bu seçeneği açarsanız araç kutusunun açık olduğu tüm sekmelerde HTTP önbelleği devre dışı kalacaktır. Bu seçenek Service Worker'ları etkilemez.">
+<!ENTITY options.disableHTTPCache.tooltip   "Bu seçeneği açarsanız araç kutusunun açık olduğu tüm sekmelerde HTTP önbelleği devre dışı kalacaktır. Bu seçenek Service Worker’ları etkilemez.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP üzerinden Service Workers'ı etkinleştir (araç kutusu açıkken)">
+<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP üzerinden Service Worker’ları etkinleştir (araç kutusu açıkken)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "Bu seçeneği açarsanız, araç kutusunun açık olduğu tüm sekmelerde HTTP üzerinden Service Workers etkinleşir.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
@@ -147,7 +147,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "Kaynak haritalarını etkinleştir">
-<!ENTITY options.sourceMaps.tooltip    "Bu seçeneği etkinleştirirseniz Hata Ayıklayıcı'da ve Konsol'da kaynaklar haritalanacaktır.">
+<!ENTITY options.sourceMaps.tooltip    "Bu seçeneği etkinleştirirseniz Hata Ayıklayıcı’da ve Konsol’da kaynaklar haritalanacaktır.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -157,12 +157,12 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Asıl kaynakları göster">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Stil Editörü ve Denetçi'de orijinal kaynakları (örn. Sass dosyaları) göster">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Stil Editörü ve Denetçi’de orijinal kaynakları (örn. Sass dosyaları) göster">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "CSS'i otomatik tamamla">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Stil Editörü'nde siz yazdıkça CSS niteliklerini, değerleri ve seçicileri otomatik tamamlar">
+<!ENTITY options.stylesheetAutocompletion.label      "CSS’i otomatik tamamla">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Stil Editörü’nde siz yazdıkça CSS niteliklerini, değerleri ve seçicileri otomatik tamamlar">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
@@ -178,17 +178,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Fotoğraf çekme sesini çal">
 <!ENTITY options.screenshot.audio.tooltip    "Ekran görüntüsü alırken fotoğraf çekme sesini oynatır">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Ağ">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Kalıcı günlükleri etkinleştir">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Bu seçeneği etkinleştirirseniz Ağ Monitörü her yeni sayfaya geçişinizde çıktıyı temizlemeyecektir">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
