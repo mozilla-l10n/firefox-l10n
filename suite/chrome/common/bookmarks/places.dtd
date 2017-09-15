@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY bookmarksManager.title         "Pengurus Tandabuku">
+<!ENTITY bookmarksManager.width         "700">
+<!ENTITY bookmarksManager.height        "500">
+
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Tutup">
+<!ENTITY file.close.accesskey           "T">
+<!ENTITY cmd.close.key                  "w">
+
+<!ENTITY view.columns.label             "Papar Lajur">
+<!ENTITY view.columns.accesskey         "L">
+<!ENTITY view.sort.label                "Susun">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "Tidak disusun">
+<!ENTITY view.unsorted.accesskey        "T">
+<!ENTITY view.sortAscending.label       "Tertib Susunan A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Tertib Susunan Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY cmd.findInBookmarks.label      "Cari dalam Tandabuku…">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
