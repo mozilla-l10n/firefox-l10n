@@ -263,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Descargas">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Descargas">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -865,6 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Usar Táctil para Modo Tableta">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Ocultar automáticamente">
 
 <!ENTITY getUserMedia.selectCamera.label "Compartir cámara">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -963,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descargar una nueva copia de &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Después de un reinicio rápido, &brandShorterName; restaurará todas las pestañas y ventanas abiertas que no estén en modo de Navegación Privada.">
 <!ENTITY updateRestart.header.message2 "Reiniciar para actualizar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
