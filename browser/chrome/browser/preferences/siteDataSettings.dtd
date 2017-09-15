@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "n">
 <!ENTITY     removingDialog.title          "Websitegegevens verwijderen">
 <!ENTITY     removingSelected.description  "Het verwijderen van websitegegevens verwijdert ook gerelateerde cookies en offline-webinhoud. Dit kan u bij websites afmelden. Weet u zeker dat u de wijzigingen wilt aanbrengen?">
-<!ENTITY     siteTree.label                "De volgende websitecookies zullen worden verwijderd:">
+<!ENTITY     siteTree2.label               "De volgende websitecookies zullen worden verwijderd">

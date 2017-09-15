@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "De volgende cookies zijn op uw computer opgeslagen:">
+<!ENTITY     cookiesonsystem2.label         "De volgende cookies zijn op uw computer opgeslagen">
 <!ENTITY     cookiename.label               "Cookienaam">
 <!ENTITY     cookiedomain.label             "Website"> 
 
