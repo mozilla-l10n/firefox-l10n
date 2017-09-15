@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Der vil ikke blive tilbudt oversættelse for de følgende sprog:">
+<!ENTITY noTranslationForLanguages2.label "Der vil ikke blive tilbudt oversættelse for de følgende sprog:">
 <!ENTITY treehead.languageName.label      "Sprog">
 <!ENTITY removeLanguage.label             "Fjern sprog">
 <!ENTITY removeLanguage.accesskey         "F">
 <!ENTITY removeAllLanguages.label         "Fjern alle sprog">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Oversættelse vil ikke blive tilbudt for de følgende websteder:">
-<!ENTITY treehead.siteName2.label          "Websteder">
+<!ENTITY noTranslationForSites2.label     "Oversættelse vil ikke blive tilbudt for de følgende websteder:">
+<!ENTITY treehead.siteName2.label         "Websteder">
 <!ENTITY removeSite.label                 "Fjern websted">
 <!ENTITY removeSite.accesskey             "j">
 <!ENTITY removeAllSites.label             "Fjern alle websteder">

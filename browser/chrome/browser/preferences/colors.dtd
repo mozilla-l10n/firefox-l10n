@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors2.label       "Erstat sidens farver med mine valg ovenfor:">
-<!ENTITY  overrideDefaultPageColora2s.accesskey  "v">
+<!ENTITY  overrideDefaultPageColors2.accesskey  "v">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Altid">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Kun når temaer med høj kontrast er valgt">

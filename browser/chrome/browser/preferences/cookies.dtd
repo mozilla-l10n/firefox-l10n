@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Følgende cookies er gemt på din computer:">
+<!ENTITY     cookiesonsystem2.label         "Følgende cookies er gemt på din computer:">
 <!ENTITY     cookiename.label               "Cookie-navn">
 <!ENTITY     cookiedomain.label             "Websted">
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):

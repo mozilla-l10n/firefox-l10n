@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Søgelinje">
+
+<!ENTITY searchBar.hidden.label                "Brug adresselinjen til søgning og navigation">
+<!ENTITY searchBar.shown.label                 "Tilføj søgelinjen til værktøjslinjen">
+
 <!ENTITY defaultSearchEngine.label             "Standard-søgetjeneste">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Vælg den søgetjeneste, du vil bruge i adresselinjen og søgelinjen.">
