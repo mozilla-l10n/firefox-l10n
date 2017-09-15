@@ -16,4 +16,4 @@
 <!ENTITY cancel.accesskey "A">
 <!ENTITY removingDialog.title "Rimozione dati dei siti web">
 <!ENTITY removingSelected.description "Rimuovendo i dati dei siti web verranno rimossi anche i relativi cookie e i contenuti per l’utilizzo non in linea. Questo potrebbe comportare la disconnessione dai siti web. Rimuovere i dati?">
-<!ENTITY siteTree.label "Verranno rimossi i cookie per i seguenti siti web:">
+<!ENTITY siteTree2.label "Verranno rimossi i cookie per i seguenti siti web">
