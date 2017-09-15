@@ -182,7 +182,6 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "Manca qualcosa? Alcuni plugin non sono più supportati da &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ulteriori informazioni.">
-<!ENTITY legacyWarning.description "Manca qualcosa? Alcune estensioni non sono più supportate da &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostra le estensioni obsolete">
 <!ENTITY legacyExtensions.title "Estensioni obsolete">
 <!ENTITY legacyExtensions.description "Queste estensioni non soddisfano gli standard attualmente richiesti da &brandShortName; e sono state disattivate.">
