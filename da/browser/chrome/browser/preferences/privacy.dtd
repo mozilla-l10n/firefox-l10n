@@ -49,8 +49,8 @@
 <!ENTITY  acceptCookies2.label           "Accepter cookies fra websteder">
 <!ENTITY  acceptCookies2.accesskey       "c">
 
-<!ENTITY  acceptThirdParty2.pr.label      "Accepter tredjeparts cookies">
-<!ENTITY  acceptThirdParty2.pr.accesskey  "t">
+<!ENTITY  acceptThirdParty2.pre.label      "Accepter tredjeparts cookies">
+<!ENTITY  acceptThirdParty2.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "Altid">
 <!ENTITY  acceptThirdParty.never.label    "Aldrig">
 <!ENTITY  acceptThirdParty.visited.label  "Fra besøgte">
@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "A">
 <!ENTITY  browserContainersSettings.label        "Indstillinger…">
 <!ENTITY  browserContainersSettings.accesskey    "n">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "Lad ikke tilgængeligheds-services få adgang til din browser">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "t">
+<!ENTITY  a11yPrivacy.learnmore.label    "Læs mere">

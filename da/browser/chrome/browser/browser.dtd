@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Sidens kildekode">
 <!ENTITY pageSourceCmd.accesskey "k">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Sideoplysninger">
 <!ENTITY pageInfoCmd.accesskey "o">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
+
+<!ENTITY appMenuRecentHighlights.label "Seneste højdpunkter">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "v">
@@ -836,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Gendan standarder">
 <!ENTITY customizeMode.done "Færdig">
 <!ENTITY customizeMode.titlebar "Titellinje">
+<!ENTITY customizeMode.extraDragSpace "Træk mellemrum">
 <!ENTITY customizeMode.toolbars2 "Værktøjslinjer">
 <!ENTITY customizeMode.lwthemes "Temaer">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine temaer">
@@ -865,6 +875,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Brug touch-tilstand til tablets">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Gem automatisk">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera til deling:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
