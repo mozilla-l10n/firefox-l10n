@@ -198,7 +198,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Pobieranie zdalnych czcionek podczas wczytywania strony">
 
 <!ENTITY pref_tracking_protection_title2 "Ochrona przed śledzeniem">
-<!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informowanie witryn, że użytkownik nie chce być śledzony">
 
