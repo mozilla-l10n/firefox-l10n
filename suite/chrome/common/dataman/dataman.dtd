@@ -58,9 +58,21 @@
 <!ENTITY cookies.button.remove.label "Buang">
 <!ENTITY cookies.button.remove.accesskey "B">
 
+<!ENTITY cookies.blockOnRemove.label "Apabila dihapuskan, sekat laman web yang disenaraikan daripada menetapkan kuki pada masa akan datang">
+<!ENTITY cookies.blockOnRemove.accesskey "A">
 
 <!-- permissions -->
+<!ENTITY perm.UseDefault "Guna Piawai">
+<!ENTITY perm.AskAlways "Sentiasa tanya">
+<!ENTITY perm.NeverSave "Jangan sesekali simpan">
+<!ENTITY perm.Allow "Izinkan">
+<!ENTITY perm.AllowSameDomain "Izinkan untuk Domain yang Sama">
+<!ENTITY perm.AllowSession "Izinkan Sesi ini">
+<!ENTITY perm.Block "Sekat">
 
+<!ENTITY perm.host.placeholder "Masukkan nama hos">
+<!ENTITY perm.button.add.label "Tambah">
+<!ENTITY perm.button.add.accesskey "T">
 
 <!-- preferences -->
 
