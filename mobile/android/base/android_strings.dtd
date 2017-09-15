@@ -270,7 +270,7 @@
 <!ENTITY pref_show_web_fonts "Webes betűk megjelenítése">
 <!ENTITY pref_show_web_fonts_summary2 "Távoli betűkészletek letöltése az oldal betöltésekor">
 
-<!ENTITY pref_tracking_protection_title2 "Védelem követés ellen">
+<!ENTITY pref_tracking_protection_title2 "Követés elleni védelem">
 <!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
@@ -657,7 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Kikapcsolta a nem biztonságos tartalmak elleni védelmet.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Védelem követés ellen">
+<!ENTITY doorhanger_tracking_title2 "Követés elleni védelem">
 <!ENTITY doorhanger_tracking_state_enabled "Engedélyezve">
 <!ENTITY doorhanger_tracking_state_disabled "Tiltva">
 <!ENTITY doorhanger_tracking_message_enabled1 "Az online viselkedésének követésére irányuló kísérletek blokkolva lettek.">
