@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Регистрации">
 <!ENTITY subscribeImapFolders.label   "Управление на абонирането за папка">
 <!ENTITY settingsLink.label           "Преглед на настройките">
-<!ENTITY newAcctLink.label            "Създаване на сметка">
-<!ENTITY newAcct.label                "Създаване на сметка:">
+<!ENTITY setupNewAcct.label           "Създаване на сметка:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Допълнителни възможности">
 <!ENTITY searchMsgsLink.label         "Търсене на писма">

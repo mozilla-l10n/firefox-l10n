@@ -40,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Например: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Един сървър за всички протоколи">
 <!ENTITY  shareproxy.accesskey          "с">
+<!ENTITY  autologinproxy.label          "Да не се пита за удостоверяване, ако паролата е запазена">
+<!ENTITY  autologinproxy.accesskey      "у">
+<!ENTITY  autologinproxy.tooltip        "Тази настройка ще ви удостоверява без да потвърждение пред мрежови посредници, когато имате запазени данни за вход. Ще бъдете питани, ако удостоверяването се провали.">
+<!ENTITY  socksRemoteDNS.label          "Мрежов посредник за DNS при използване на SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
