@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "a">
-<!ENTITY engine.tabs.label2         "Atvertos kortelės">
+<!ENTITY engine.tabs.label2         "Atviros kortelės">
 <!ENTITY engine.tabs.accesskey      "k">
 <!ENTITY engine.history.label       "žurnalą">
 <!ENTITY engine.history.accesskey   "ž">
