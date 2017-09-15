@@ -5,13 +5,13 @@
 <!ENTITY window.title "Eccezioni - Traduzione">
 <!ENTITY window.width "38em">
 <!ENTITY windowClose.key "w">
-<!ENTITY noTranslationForLanguages.label "Per le seguenti lingue non verrà proposta la traduzione:">
+<!ENTITY noTranslationForLanguages2.label "Per le seguenti lingue non verrà proposta la traduzione">
 <!ENTITY treehead.languageName.label "Lingue">
 <!ENTITY removeLanguage.label "Rimuovi lingua">
 <!ENTITY removeLanguage.accesskey "R">
 <!ENTITY removeAllLanguages.label "Rimuovi tutte le lingue">
 <!ENTITY removeAllLanguages.accesskey "m">
-<!ENTITY noTranslationForSites.label "Per i seguenti siti non verrà proposta la traduzione:">
+<!ENTITY noTranslationForSites2.label "Per i seguenti siti non verrà proposta la traduzione">
 <!ENTITY treehead.siteName2.label "Siti web">
 <!ENTITY removeSite.label "Rimuovi sito">
 <!ENTITY removeSite.accesskey "s">
