@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY downloadManager.title           "Pengurus Muat turun">
+
+<!ENTITY menuBar.tooltip                 "Bar Menu">
+<!ENTITY searchBar.tooltip               "Bar Carian">
+
+<!ENTITY search.placeholder              "Cari Muat turun">
+<!ENTITY search.label                    "Cari Muat turun">
+<!ENTITY search.accesskey                "C">
+<!ENTITY search.key                      "f">
+
+<!ENTITY cmd.clearList.label             "Buang Senarai">
+
+
+
+
