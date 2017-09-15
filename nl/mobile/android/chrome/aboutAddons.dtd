@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Uitschakelen">
 <!ENTITY addonAction.uninstall                  "De-installeren">
 <!ENTITY addonAction.undo                       "Ongedaan maken">
+<!ENTITY addonAction.update                     "Bijwerken">
 
 <!ENTITY addonUnsigned.message                  "Deze add-on kon niet door &brandShortName; worden geverifieerd.">
 <!ENTITY addonUnsigned.learnMore                "Meer info">
