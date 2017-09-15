@@ -19,8 +19,14 @@ laman web akan menyerahkan pengenalan yang dipercayai untuk membuktikan
 bahawa anda pergi ke tempat yang betul. Tapi identiti laman web ini tidak boleh disahkan.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Apa Perlu Saya Buat?">
-<!ENTITY certerror.whatShouldIDo.content "Jika kebiasaanya anda disambung ke
+<!ENTITY certerror.whatShouldIDo.content "Jika kebiasaannya anda boleh disambung ke
 laman ini tanpa masalah, ralat ini bermakna ada seseorang
 cuba menyamar sebagai laman ini, dan anda tidak perlu teruskan.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan Keselamatan Pengangkutan Rapi HTTP
+(HSTS) untuk menyatakan bahawa &brandShortName; hanya membuat sambungan
+dengannya secara selamat. Oleh itu, tidak boleh menambah pengecualian
+untuk sijil ini.">
 
+<!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian kecuali
+anda tahu alasan kenapa laman web ini tidak menggunakan pengenalan yang dipercayai.">
 
