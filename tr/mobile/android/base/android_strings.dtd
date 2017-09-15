@@ -29,7 +29,7 @@
 <!ENTITY firstrun_tabqueue_title "Bağlantılar">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Sekme kuyruğunu aç">
-<!ENTITY firstrun_tabqueue_subtext_off "Başka uygulamalarda dokunduğunuz bağlantıları &brandShortName;\&apos;ta bakmak üzere kaydedin.">
+<!ENTITY firstrun_tabqueue_subtext_off "Başka uygulamalarda dokunduğunuz bağlantıları &brandShortName;’ta bakmak üzere kaydedin.">
 
 <!ENTITY firstrun_tabqueue_message_on "Tamamlandı!">
 <!ENTITY firstrun_tabqueue_subtext_on "İstediğiniz zaman &settings; menüsündeki &pref_category_general; bölümünden kapatabilirsiniz.">
@@ -37,13 +37,13 @@
 <!ENTITY firstrun_readerview_title "Yazılar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Karmaşadan kurtulun">
-<!ENTITY firstrun_readerview_subtext "Çevrimdışıyken bile yazıları daha kolay okumak için Okuyucu Görünümü\&apos;nü kullanın.">
+<!ENTITY firstrun_readerview_subtext "Çevrimdışıyken bile yazıları daha kolay okumak için Okuyucu Görünümü’nü kullanın.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Siz">
 <!ENTITY firstrun_account_message "Başka bir cihazda &brandShortName; kullanıyor musunuz?">
 
-<!ENTITY  onboard_start_restricted1 "&brandShortName;\&apos;un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
+<!ENTITY  onboard_start_restricted1 "&brandShortName;’un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -59,7 +59,7 @@
 <!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; çöküşten haberdar edilsin ki sorunu çözebilsinler">
 <!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dahil et">
-<!ENTITY  crash_sorry "Üzgünüz">
+<!ENTITY  crash_sorry "Özür dileriz">
 <!ENTITY  crash_comment "Yorumunuzu ekleyin (Yorumlar herkes tarafından görülebilir.)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; bu raporla ilgili olarak benimle iletişime geçebilir">
 <!ENTITY  crash_email "E-postanız">
@@ -175,7 +175,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Firefox Hesabı\&apos;nıza bağlı hiç cihaz bulunamadı">
+<!ENTITY overlay_no_synced_devices "Firefox Hesabı’nıza bağlı hiç cihaz bulunamadı">
 
 <!ENTITY pref_category_search3 "Arama">
 <!ENTITY pref_category_search_summary2 "Ekle, varsayılan yap, önerileri göster">
@@ -184,7 +184,7 @@
 <!ENTITY pref_category_privacy_short "Gizlilik">
 <!ENTITY pref_category_privacy_summary4 "İzlenme, hesaplar, veri tercihleri">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "&brandShortName; hakkında, SSS\&apos;ler, geri bildirim">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; hakkında, SSS’ler, geri bildirim">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
 <!ENTITY pref_category_logins "Hesaplar">
 <!ENTITY pref_learn_more "Daha fazla bilgi">
@@ -279,7 +279,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "Gizli Gezinti’de etkin">
 <!ENTITY pref_tracking_protection_disabled "Devre dışı">
 
-<!ENTITY pref_whats_new_notification "&brandShortName;’de neler yeni?">
+<!ENTITY pref_whats_new_notification "&brandShortName;’ta neler yeni?">
 <!ENTITY pref_whats_new_notification_summary "Güncellemeyle gelen yeni özellikleri öğrenin">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
@@ -310,7 +310,7 @@
 <!ENTITY tab_queue_toast_action "Şimdi aç">
 <!ENTITY tab_queue_prompt_title "Çoklu bağlantı mı açıyorsunuz?">
 <!ENTITY tab_queue_prompt_text4 "Bir sonraki &brandShortName; açılışına kadar kaydet.">
-<!ENTITY tab_queue_prompt_tip_text2 "Bunu daha sonra Ayarlar\&apos;dan değiştirebilisiniz">
+<!ENTITY tab_queue_prompt_tip_text2 "Bunu daha sonra Ayarlar’dan değiştirebilisiniz">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Diğer uygulamaların üzerinde görüntülemeyi açın">
@@ -318,7 +318,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Ayarlar\&apos;a gidin">
+<!ENTITY tab_queue_prompt_settings_button "Ayarlar’a gidin">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -672,9 +672,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
 <!ENTITY bookmarkhistory_button_import "İçe aktar">
-<!ENTITY bookmarkhistory_import_both "Android\&apos;den yer imleri ve geçmiş alınıyor">
-<!ENTITY bookmarkhistory_import_bookmarks "Android\&apos;den yer imleri alınıyor">
-<!ENTITY bookmarkhistory_import_history "Android\&apos;den geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_both "Android’den yer imleri ve geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_bookmarks "Android’den yer imleri alınıyor">
+<!ENTITY bookmarkhistory_import_history "Android’den geçmiş alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
 <!ENTITY suggestions_prompt3 "Arama önerilerini açmak ister misiniz?">
@@ -755,7 +755,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Bu bağlantı &formatS; uygulamasında açılacak. Gizli Gezinti\&apos;den çıkmak istediğinizden emin misiniz?">
+<!ENTITY intent_uri_private_browsing_prompt "Bu bağlantı &formatS; uygulamasında açılacak. Gizli Gezinti’den çıkmak istediğinizden emin misiniz?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -763,7 +763,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Gizli Gezinti\&apos;den çıkılsın mı?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Gizli Gezinti’den çıkılsın mı?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -777,7 +777,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Eklentiler">
-<!ENTITY restrictable_feature_addons_installation_description "Firefox\&apos;a yeni özellikler ve işlevler ekleyin. Not: Eklentiler bazı kısıtlamaları devre dışı bırakabilir.">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox’a yeni özellikler ve işlevler ekleyin. Not: Eklentiler bazı kısıtlamaları devre dışı bırakabilir.">
 <!ENTITY restrictable_feature_private_browsing "Gizli Gezinti">
 <!ENTITY restrictable_feature_private_browsing_description "Aile bireylerinin ziyaret ettikleri siteler ve sayfalarla ilgili bilgileri kaydetmeden dolaşmalarına izin verir.">
 <!ENTITY restrictable_feature_clear_history "Geçmişi temizle">
@@ -799,7 +799,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Android tableterdeki kısıtlı profiller için Firefox Yardım ve Desteği">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Web\&apos;i öğrenin: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Web’i öğrenin: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
@@ -817,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Ana ekrana ekle">
 
 <!ENTITY helper_first_offline_bookmark_title "Çevrimdışı oku">
-<!ENTITY helper_first_offline_bookmark_message "Çevrimdışı olsanız bile Okuyucu Görünümü öğelerinizi Yer İmleri\&apos;nde bulabilirsiniz.">
+<!ENTITY helper_first_offline_bookmark_message "Çevrimdışı olsanız bile Okuyucu Görünümü öğelerinizi yer imlerinde bulabilirsiniz.">
 <!ENTITY helper_first_offline_bookmark_button "Yer imlerine git">
 
 <!ENTITY helper_triple_readerview_open_title "Çevrimdışı okunabilir">

@@ -8,10 +8,10 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;\u0027e bağlan'>
+<!ENTITY sync.title.connect.label '&syncBrand.shortName.label;’e bağlan'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\u0027i kur”u seçin.'>
+<!ENTITY sync.subtitle.connect.label 'Yeni aygıtınızı etkinleştirmek için, aygıttan “&syncBrand.shortName.label;\&apos;i kur”u seçin.'>
 <!ENTITY sync.subtitle.pair.label 'Etkinleştirmek için, diğer aygıtınızdan “Aygıt eşleştir”i seçin.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Aygıt yanımda değil…'>
@@ -46,10 +46,10 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Tarayıcıya dön'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label;\u0027e hoş geldiniz'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label;’e hoş geldiniz'>
 <!ENTITY fxaccount_getting_started_description2 'Sekmelerinizi, yer imlerinizi, hesaplarınızı ve dahasını eşitlemek için giriş yapın.'>
 <!ENTITY fxaccount_getting_started_get_started 'Başlayın'>
-<!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;\u0027in eski bir sürümünü mü kullanıyorsunuz?'>
+<!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;’in eski bir sürümünü mü kullanıyorsunuz?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Oturum açan'>
 <!ENTITY fxaccount_status_manage_account 'Hesabı yönet'>
@@ -101,12 +101,12 @@
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Seçenekleri'>
-<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label;\u0027i yapılandır'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label;’i yapılandır'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Firefox\u0027u yükseltmeniz gerekiyor'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Firefox’u yükseltmeniz gerekiyor'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Zaten hesabınız var. &formatS1;'>
@@ -121,9 +121,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; bağlı değil'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; olarak oturum açmak için dokunun'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; olarak giriş yapmak için dokunun'>
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; yükseltme tamamlansın mı?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; olarak oturum açmak için dokunun'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; olarak giriş yapmak için dokunun'>
