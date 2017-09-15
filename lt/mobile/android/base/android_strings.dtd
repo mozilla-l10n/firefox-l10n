@@ -370,7 +370,7 @@
 <!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Atvertos kortelės">
+<!ENTITY pref_private_data_openTabs "Atviros kortelės">
 <!ENTITY pref_private_data_history2 "Naršymo žurnalas">
 <!ENTITY pref_private_data_searchHistory "Paieškos istorija">
 <!ENTITY pref_private_data_formdata2 "Formų istorija">
