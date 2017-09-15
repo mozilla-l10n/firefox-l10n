@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Zoekbalk">
+
+<!ENTITY searchBar.hidden.label                "De adresbalk gebruiken voor zoeken en navigatie">
+<!ENTITY searchBar.shown.label                 "Zoekbalk toevoegen in werkbalk">
+
 <!ENTITY defaultSearchEngine.label             "Standaardzoekmachine">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Kies de standaardzoekmachine die u in de adresbalk en zoekbalk wilt gebruiken.">
