@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable "Wyłącz">
 <!ENTITY addonAction.uninstall "Usuń">
 <!ENTITY addonAction.undo "Cofnij">
+<!ENTITY addonAction.update "Aktualizuj">
 
 <!ENTITY addonUnsigned.message "&brandShortName; nie może zweryfikować dodatku.">
 <!ENTITY addonUnsigned.learnMore "Więcej informacji">
