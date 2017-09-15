@@ -168,7 +168,6 @@
 <!ENTITY pref_show_web_fonts "Visualizza web font">
 <!ENTITY pref_show_web_fonts_summary2 "Scarica i caratteri da remoto durante il caricamento delle pagine">
 <!ENTITY pref_tracking_protection_title2 "Protezione antitracciamento">
-<!ENTITY pref_tracking_protection_summary3 "Attiva in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
 <!ENTITY pref_tracking_protection_enabled "Attiva">
