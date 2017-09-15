@@ -4,9 +4,9 @@
 
 <!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY firstrun_urlbar_message2 "感谢您选择 &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "由非营利组织 Mozilla 出品的浏览器，致力于塑造一个自由、开放的网络。">
+<!ENTITY firstrun_urlbar_subtext2 "Firefox 是现代化的移动浏览器，由致力于建立一个自由且开放的网络的非营利组织 Mozilla 打造。">
 <!ENTITY firstrun_panel_title_privacy "隐私">
-<!ENTITY firstrun_privacy_message "上网时自在无监视">
+<!ENTITY firstrun_privacy_message "上网自在无监视">
 <!ENTITY firstrun_privacy_subtext "附有跟踪保护功能的隐私浏览模式可以帮助您在浏览时规避网络跟踪器，并且避免设备记住您的浏览记录。">
 <!ENTITY firstrun_panel_title_customize "定制">
 <!ENTITY firstrun_customize_message "让 &brandShortName; 有你的风格。">
