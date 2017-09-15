@@ -1,0 +1,53 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Tolak tetingkap popup dari laman web ini">
+<!ENTITY popupWindowRejectCmd.accesskey "o">
+<!ENTITY popupWindowAllowCmd.label      "Izinkan tetingkap popup dari laman web ini">
+<!ENTITY popupWindowAllowCmd.accesskey  "o">
+<!ENTITY openLinkCmdInTab.label       "Buka Pautan dalam Tab Baru">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "Buka Pautan dalam Tetingkap Baru">
+<!ENTITY openLinkCmd.accesskey        "T">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Buka Pautan dalam Tetingkap Peribadi">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
+<!ENTITY openLinkInWindowCmd.label    "Buka">
+<!ENTITY openLinkInWindowCmd.accesskey "k">
+<!ENTITY openFrameCmd.label           "Buka Bingkai dalam Tetingkap Baru">
+<!ENTITY openFrameCmd.accesskey       "T">
+<!ENTITY openFrameCmdInTab.label      "Buka Bingkai dalam Tab Baru">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY keywordfield.label           "Tambah Kata kunci untuk Carian ini…">
+<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY showOnlyThisFrameCmd.label     "Papar Hanya Bingkai Ini">
+<!ENTITY showOnlyThisFrameCmd.accesskey "P">
+<!ENTITY goBackCmd.label              "Undur">
+<!ENTITY goBackCmd.accesskey          "U">
+<!ENTITY goForwardCmd.label           "Seterusnya">
+<!ENTITY goForwardCmd.accesskey       "S">
+<!ENTITY goUpCmd.label                "Ke Atas">
+<!ENTITY goUpCmd.accesskey            "K">
+<!ENTITY reloadCmd.label              "Muat semula">
+<!ENTITY reloadCmd.accesskey          "M">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY stopCmd.label                "Berhenti">
+<!ENTITY stopCmd.accesskey            "B">
+<!ENTITY reloadFrameCmd.label         "Muat semula Bingkai">
+<!ENTITY reloadFrameCmd.accesskey     "M">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Papar Sumber Dipilih">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Papar Sumber MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "u">
+<!ENTITY viewPageSourceCmd.label      "Papar Sumber Halaman">
+<!ENTITY viewPageSourceCmd.accesskey  "P">
+<!ENTITY viewFrameSourceCmd.label     "Papar Sumber Bingkai">
+<!ENTITY viewFrameSourceCmd.accesskey "P">
+<!ENTITY viewPageInfoCmd.label        "Papar Info Halaman">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Papar Info Bingkai">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!-- Developer Tools -->
