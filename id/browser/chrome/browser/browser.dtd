@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 <!ENTITY hideBookmarksToolbar.label         "Sembunyikan Bilah Alat Markah">
 <!ENTITY searchBookmarks.label              "Cari Markah">
+<!ENTITY bookmarkingTools.label             "Alat Pemarkahan">
 <!ENTITY addBookmarksMenu.label             "Tambahkan Menu Markah ke Bilah Alat">
 <!ENTITY removeBookmarksMenu.label          "Hapus Menu Markah dari Bilah Alat">
 
@@ -251,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Riwayat">
-<!ENTITY historySidebarCmd.commandKey   "h">
+<!ENTITY historySidebarCmd.commandKey   "r">
 
 <!ENTITY toolsMenu.label              "Alat">
 <!ENTITY toolsMenu.accesskey          "A">
@@ -328,6 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Ubahsuai…">
 <!ENTITY viewCustomizeToolbar.accesskey     "U">
 <!ENTITY overflowCustomizeToolbar.label       "Ubahsuai Bilah Alat…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "U">
 
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
@@ -863,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Gunakan Sentuhan untuk Mode Sabak">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Sembunyi-otomatis">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dibagikan:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -961,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Unduh salinan baru &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Setelah mulai ulang cepat, &brandShorterName; akan mengembalikan semua tab dan jendela terbuka Anda yang tidak berada di mode Penjelajahan Pribadi.">
 <!ENTITY updateRestart.header.message2 "Mulai ulang untuk memutakhirkan &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Mulai Ulang dan Kembalikan">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
