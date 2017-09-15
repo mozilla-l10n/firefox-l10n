@@ -1,0 +1,68 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dataman.windowTitle "Pengurus Data">
+
+<!ENTITY selectAll.key "a">
+
+<!ENTITY select.all.label "Semua jenis data">
+<!ENTITY select.cookies.label "Kuki sahaja">
+<!ENTITY select.permissions.label "Keizinan sahaja">
+<!ENTITY select.preferences.label "Keutamaan sahaja">
+<!ENTITY select.passwords.label "Kata laluan sahaja">
+<!ENTITY select.storage.label "Storan sahaja">
+
+<!ENTITY domain.search.placeholder "Cari Domain">
+<!ENTITY domain.search.key "o">
+
+<!ENTITY domain.tree.domain.label "Domain">
+
+<!ENTITY domain.ctx.forgetdomain.label "Lupakan Perihal Domain Ini">
+<!ENTITY domain.ctx.forgetdomain.accesskey "L">
+<!ENTITY domain.ctx.forgetglobal.label "Lupakan Data Global">
+<!ENTITY domain.ctx.forgetglobal.accesskey "L">
+
+<!ENTITY data.search.key "k">
+
+<!ENTITY tab.cookies.label "Kuki">
+<!ENTITY tab.permissions.label "Keizinan">
+<!ENTITY tab.preferences.label "Keutamaan">
+<!ENTITY tab.passwords.label "Kata laluan">
+<!ENTITY tab.storage.label "Storan">
+<!ENTITY tab.formdata.label "Data Borang">
+<!ENTITY tab.forget.label "Lupakan">
+
+<!-- cookies -->
+
+
+
+
+
+
+
+<!-- permissions -->
+
+
+<!-- preferences -->
+
+
+
+
+<!-- passwords -->
+
+
+
+
+<!-- storage -->
+
+
+
+
+<!-- form data -->
+
+
+
+
+<!-- forget -->
+

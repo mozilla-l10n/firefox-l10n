@@ -137,4 +137,22 @@ items are mutually exclusive. -->
 <!ENTITY videoHideStats.accesskey     "r">
 <!ENTITY search.accesskey             "W">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Tukar Hala Halaman">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Tukar Hala Teks">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
+<!ENTITY spellAddToDictionary.label     "Tambah dalam Kamus">
+<!ENTITY spellAddToDictionary.accesskey "m">
+<!ENTITY spellUndoAddToDictionary.label      "Batal Tambah dalam Kamus">
+<!ENTITY spellUndoAddToDictionary.accesskey  "u">
+<!ENTITY spellIgnoreWord.label          "Abaikan Perkataan">
+<!ENTITY spellIgnoreWord.accesskey      "P">
+<!ENTITY spellCheckEnable.label         "Semak Ejaan">
+<!ENTITY spellCheckEnable.accesskey     "S">
+<!ENTITY spellNoSuggestions.label       "(Tiada Cadangan Ejaan)">
+<!ENTITY spellDictionaries.label        "Bahasa">
+<!ENTITY spellDictionaries.accesskey    "B">
+<!ENTITY spellAddDictionaries.label     "Muat turun Kamus Lain…">
+<!ENTITY spellAddDictionaries.accesskey "M">
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Periksa Elemen">
+<!ENTITY devtoolsInspect.accesskey      "n">
