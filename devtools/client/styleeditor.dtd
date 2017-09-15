@@ -46,7 +46,7 @@
      in each stylesheet editor sidebar. -->
 <!ENTITY mediaRules.label           "@media kuralları">
 
-<!ENTITY editorTextbox.placeholder  "CSS'yi buraya yazın.">
+<!ENTITY editorTextbox.placeholder  "CSS’i buraya yazın.">
 
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
