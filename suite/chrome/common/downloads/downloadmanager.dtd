@@ -31,6 +31,8 @@
 <!ENTITY col.progress.label              "Kemajuan">
 <!ENTITY col.progress.accesskey          "K">
 <!ENTITY col.progress.tooltip            "Kemajuan">
+<!ENTITY col.timeremaining.label         "Baki Masa">
+<!ENTITY col.timeremaining.accesskey     "B">
 
 
 
