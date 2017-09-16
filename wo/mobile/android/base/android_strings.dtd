@@ -490,10 +490,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Tapë si dal yiñu gën a ubbi">
+<!ENTITY contextmenu_unpin_from_top_sites "Tépi si dal yiñu gën a ubbi">
 <!ENTITY contextmenu_add_search_engine "Yokk ab Seetukaay">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Tapë xët bi si dal yiñu gën a ubbi">
+<!ENTITY unpinned_page_from_top_sites "Tépi xët bi si dal yiñu gën a ubbi">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -557,7 +561,7 @@
 <!ENTITY button_clear "Far">
 <!ENTITY button_copy "Duppi">
 
-<!ENTITY home_top_sites_title "Yees gën a ubbi">
+<!ENTITY home_top_sites_title "Dal yees gën a ubbi">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Yokk ab dal">
