@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Překlady nebudou nabízeny pro následující jazyky:">
+<!ENTITY noTranslationForLanguages2.label "Překlady nebudou nabízeny pro následující jazyky">
 <!ENTITY treehead.languageName.label      "Jazyky">
 <!ENTITY removeLanguage.label             "Odebrat jazyk">
 <!ENTITY removeLanguage.accesskey         "r">
 <!ENTITY removeAllLanguages.label         "Odebrat všechny jazyky">
 <!ENTITY removeAllLanguages.accesskey     "y">
 
-<!ENTITY noTranslationForSites.label      "Překlady nebudou nabízeny pro následující servery:">
+<!ENTITY noTranslationForSites2.label     "Překlady nebudou nabízeny pro následující servery">
 <!ENTITY treehead.siteName2.label         "Server">
 <!ENTITY removeSite.label                 "Odebrat server">
 <!ENTITY removeSite.accesskey             "O">
