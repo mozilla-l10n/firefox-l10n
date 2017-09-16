@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Jikomal">
-<!ENTITY  phishingProtection.label       "Chajinïk chuwäch K'exonel">
 
 <!ENTITY  warnOnAddonInstall2.label       "Taya' rutzijol jampe' toq ri ruxaq ajk'amaya'l nrajo' yeruyäk taq tz'aqat">
 <!ENTITY  warnOnAddonInstall2.accesskey   "T">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Q'olonel Rupam chuqa' Itzel Ruchajixik Kema'">
 <!ENTITY  enableSafeBrowsing.label        "Keq'at k'ayew chuqa' q'olonel rupam">
 <!ENTITY  enableSafeBrowsing.accesskey    "K">
 

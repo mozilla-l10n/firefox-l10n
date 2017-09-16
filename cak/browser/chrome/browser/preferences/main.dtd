@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Titzolïx ruwäch ri rajil achi'el ruk'amon pe">
 <!ENTITY restoreDefault.accesskey  "T">
 
+<!ENTITY disableExtension.label    "Tichup ri K'amal">
+
 <!ENTITY downloads.label     "Taq qasa'n">
 
 <!ENTITY saveTo.label "Tiyak pa ruyonil">

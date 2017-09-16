@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Rukajtz'ik Kanoxïk">
+
+<!ENTITY searchBar.hidden.label                "Tokisax ri kikajtz'ik ochochib'äl richin nikanöx chuqa' ri okem pa k'amaya'l">
+<!ENTITY searchBar.shown.label                 "Titz'aqatisäx ri rukajtz'ik kanoxïk pa molsamajib'äl">
+
 <!ENTITY defaultSearchEngine.label             "K'o wi chi kanonel">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Tacha' ri ruk'u'x kanob'äl kan k'o wi richin nawokisaj pa ri kikajtz'ik taq ochochib'äl chuqa' pa ri rukajtz'ik kanoxïk.">
