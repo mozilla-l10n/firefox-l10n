@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "M">
 <!ENTITY     removingDialog.title          "Oldaladatok törlése">
 <!ENTITY     removingSelected.description  "Az oldal adatainak eltávolítása a kapcsolódó sütiket és kapcsolat nélküli webes tartalmat is eltávolítja. Emiatt egyes weboldalakra majd újra be kell jelentkezni. Biztosan végrehajtja a módosításokat?">
-<!ENTITY     siteTree.label                "A következő sütik kerülnek eltávolításra:">
+<!ENTITY     siteTree2.label               "A következő sütik eltávolításra kerülnek">

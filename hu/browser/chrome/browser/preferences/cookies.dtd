@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Az alábbi sütik vannak a számítógépen tárolva:">
+<!ENTITY     cookiesonsystem2.label         "Az alábbi sütik vannak a számítógépen tárolva">
 <!ENTITY     cookiename.label               "Süti neve">
 <!ENTITY     cookiedomain.label             "Webhely">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Sütik">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Keresés">
 <!ENTITY     searchFilter.accesskey         "K">

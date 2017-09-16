@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Alapértelmezett értékek visszaállítása">
 <!ENTITY customizeMode.done "Kész">
 <!ENTITY customizeMode.titlebar "Címsor">
+<!ENTITY customizeMode.extraDragSpace "Húzási terület">
 <!ENTITY customizeMode.toolbars2 "Eszköztárak">
 <!ENTITY customizeMode.lwthemes "Témák">
 <!ENTITY customizeMode.lwthemes.myThemes "Saját témák">
