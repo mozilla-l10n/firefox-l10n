@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Bruk standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
+<!ENTITY disableExtension.label    "Slå av utvidelse">
+
 <!ENTITY downloads.label     "Nedlastinger">
 
 <!ENTITY saveTo.label "Lagre filer i">
