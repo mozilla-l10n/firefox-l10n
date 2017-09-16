@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "Z">
 <!ENTITY     removingDialog.title          "Odstrániť údaje stránok">
 <!ENTITY     removingSelected.description  "Odstránením údajov stránky sa odstránia aj cookies a offline obsah. Toto môže spôsobiť vaše odhlásenie z webovej stránky. Naozaj chcete uskutočniť tieto zmeny?">
-<!ENTITY     siteTree.label                "Cookies nasledujúcich stránok budú odstránené:">
+<!ENTITY     siteTree2.label               "Cookies nasledujúcich stránok budú odstránené">

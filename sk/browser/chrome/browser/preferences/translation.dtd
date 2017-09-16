@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Preklad nebude ponúkaný pre nasledujúce jazyky:">
+<!ENTITY noTranslationForLanguages2.label "Preklad nebude ponúkaný pre nasledujúce jazyky">
 <!ENTITY treehead.languageName.label      "Jazyky">
 <!ENTITY removeLanguage.label             "Odstrániť jazyk">
 <!ENTITY removeLanguage.accesskey         "d">
 <!ENTITY removeAllLanguages.label         "Odstrániť všetky jazyky">
 <!ENTITY removeAllLanguages.accesskey     "n">
 
-<!ENTITY noTranslationForSites.label      "Preklad nebude ponúkaný pre nasledujúce stránky:">
+<!ENTITY noTranslationForSites2.label     "Preklad nebude ponúkaný pre nasledujúce stránky">
 <!ENTITY treehead.siteName2.label         "Webové stránky">
 <!ENTITY removeSite.label                 "Odstrániť stránku">
 <!ENTITY removeSite.accesskey             "s">
