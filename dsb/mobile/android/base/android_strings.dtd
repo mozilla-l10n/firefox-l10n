@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Zdalone pisma ześěgnuś, gaž se bok zacyitujo">
 
 <!ENTITY pref_tracking_protection_title2 "Slědowański šćit">
-<!ENTITY pref_tracking_protection_summary3 "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Wót &brandPocket; dopórucony">
 <!ENTITY activity_stream_highlights "Wjerški">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "wěcej">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
