@@ -42,7 +42,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar separador">
 <!ENTITY  pinTab.accesskey                   "p">
-<!ENTITY  unpinTab.label                     "Desafixar separador">
+<!ENTITY  unpinTab.label                     "Soltar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  sendTabToDevice.label              "Enviar separador para dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
@@ -297,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Editar">
 <!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "Desfazer">
+<!ENTITY undoCmd.label            "Anular">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Refazer">
