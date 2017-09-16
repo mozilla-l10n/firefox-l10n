@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Врати на подразумевану">
 <!ENTITY restoreDefault.accesskey  "В">
 
+<!ENTITY disableExtension.label    "Онемогући екстензију">
+
 <!ENTITY downloads.label     "Преузимања">
 
 <!ENTITY saveTo.label "Сачувај датотеке у">

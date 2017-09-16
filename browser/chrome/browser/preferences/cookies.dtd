@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "46em">
 
-<!ENTITY     cookiesonsystem.label          "Ово је списак колачића који се чувају на рачунару:">
+<!ENTITY     cookiesonsystem2.label         "Наведени колачићи су складиштени на вашем рачунару">
 <!ENTITY     cookiename.label               "Име колачића">
 <!ENTITY     cookiedomain.label             "Веб сајт">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Колачићи">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Претражи">
 <!ENTITY     searchFilter.accesskey         "П">
