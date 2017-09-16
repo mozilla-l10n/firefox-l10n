@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d’adresses">
 <!ENTITY attachButton.tooltip "Inclure une pièce jointe">
 <!ENTITY spellingButton.tooltip "Vérifier l’orthographe de la sélection ou du message complet">
-<!ENTITY statusLanguageText.tooltip "Langue de la vérification orthographique">
 <!ENTITY saveButton.tooltip "Enregistrer ce message">
 <!ENTITY cutButton.tooltip              "Couper">
 <!ENTITY copyButton.tooltip             "Copier">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personnaliser l’adresse d’expédition…">
 <!ENTITY customizeFromAddress.accesskey "x">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Langue de la vérification orthographique">
+<!ENTITY encodingStatusPanel.tooltip "Encodage du texte">
