@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Для следующих языков перевод предложен не будет:">
+<!ENTITY noTranslationForLanguages2.label "Для следующих языков перевод предложен не будет">
 <!ENTITY treehead.languageName.label      "Языки">
 <!ENTITY removeLanguage.label             "Удалить язык">
 <!ENTITY removeLanguage.accesskey         "а">
 <!ENTITY removeAllLanguages.label         "Удалить все языки">
 <!ENTITY removeAllLanguages.accesskey     "и">
 
-<!ENTITY noTranslationForSites.label      "Для следующих сайтов перевод предложен не будет:">
+<!ENTITY noTranslationForSites2.label     "Для следующих сайтов перевод предложен не будет">
 <!ENTITY treehead.siteName2.label         "Веб-сайты">
 <!ENTITY removeSite.label                 "Удалить сайт">
 <!ENTITY removeSite.accesskey             "л">

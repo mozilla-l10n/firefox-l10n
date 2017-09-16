@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "52em">
 <!ENTITY  window.macWidth                 "57em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Заменять цвета, указанные страницей, на выбранные выше цвета:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "а">
+<!ENTITY  overrideDefaultPageColors2.label       "Заменять цвета, указанные страницей, на выбранные выше цвета">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "а">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Всегда">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Только с высококонтрастными темами">
