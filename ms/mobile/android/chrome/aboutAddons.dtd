@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Add-ons">
 <!ENTITY aboutAddons.header2                    "Add-ons Anda">
-<!ENTITY aboutAddons.options                    "Pilihan">
 
 <!ENTITY addonAction.enable                     "Dayakan">
 <!ENTITY addonAction.disable                    "Nyahdayakan">
 <!ENTITY addonAction.uninstall                  "Nyahpasang">
 <!ENTITY addonAction.undo                       "Batal">
+<!ENTITY addonAction.update                     "Kemaskini">
 
 <!ENTITY addonUnsigned.message                  "Add-on ini tidak dapat disahkan oleh &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ketahui selanjutnya">
