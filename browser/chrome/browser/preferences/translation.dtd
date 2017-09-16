@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Prijevod neće biti ponuđen za sljedeće jezike:">
+<!ENTITY noTranslationForLanguages2.label "Prijevod neće biti nuđen za sljedeće jezike">
 <!ENTITY treehead.languageName.label      "Jezici">
 <!ENTITY removeLanguage.label             "Ukloni jezik">
 <!ENTITY removeLanguage.accesskey         "U">
 <!ENTITY removeAllLanguages.label         "Ukloni sve jezike">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Prijevod neće biti ponuđen za sljedeće stranice:">
+<!ENTITY noTranslationForSites2.label     "Prijevod neće biti nuđen za sljedeće stranice">
 <!ENTITY treehead.siteName2.label         "Web stranice">
 <!ENTITY removeSite.label                 "Ukloni stranicu">
 <!ENTITY removeSite.accesskey             "r">
