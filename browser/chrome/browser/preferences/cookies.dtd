@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem2.label         "На вашем компьютере были сохранены следующие куки">
+<!ENTITY     cookiesonsystem2.label         "На вашем компьютере сохранены следующие куки">
 <!ENTITY     cookiename.label               "Имя куки">
 <!ENTITY     cookiedomain.label             "Сайт">
 
