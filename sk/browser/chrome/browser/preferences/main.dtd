@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Obnoviť predvolené">
 <!ENTITY restoreDefault.accesskey  "O">
 
+<!ENTITY disableExtension.label    "Zakázať rozšírenie">
+
 <!ENTITY downloads.label     "Preberanie súborov">
 
 <!ENTITY saveTo.label "Všetky súbory ukladať do">
