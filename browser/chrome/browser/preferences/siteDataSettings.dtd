@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "移除網站資料">
 <!ENTITY     removingSelected.description  "移除網站資料的同時也會移除相關 cookie 與離線網頁內容，可能會讓您登出某些網站。您確定要這麼做嗎？">
-<!ENTITY     siteTree.label                "下列網站的 Cookie 將被移除:">
+<!ENTITY     siteTree2.label               "將移除下列網站的 Cookie">

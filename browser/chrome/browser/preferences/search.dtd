@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "搜尋列">
+
+<!ENTITY searchBar.hidden.label                "使用網址列搜尋與導航">
+<!ENTITY searchBar.shown.label                 "在工具列新增搜尋列">
+
 <!ENTITY defaultSearchEngine.label             "預設搜尋引擎">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "選擇在網址列與搜尋列搜尋時預設使用的搜尋引擎。">

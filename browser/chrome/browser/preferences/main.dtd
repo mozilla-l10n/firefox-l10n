@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "回復為預設值">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "停用擴充套件">
+
 <!ENTITY downloads.label     "下載">
 
 <!ENTITY saveTo.label "儲存檔案到">
