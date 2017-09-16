@@ -60,7 +60,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Prestanda">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Registrerade  Service Workers">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registrerade Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profiler">
 
