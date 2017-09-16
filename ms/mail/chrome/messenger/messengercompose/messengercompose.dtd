@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Pilih penerima dalam Buku Alamat">
 <!ENTITY attachButton.tooltip "Sertakan lampiran">
 <!ENTITY spellingButton.tooltip "Semak ejaan pilihan atau seluruh mesej">
-<!ENTITY statusLanguageText.tooltip "Bahasa semakan ejaan">
 <!ENTITY saveButton.tooltip "Simpan mesej ini">
 <!ENTITY cutButton.tooltip              "Potong">
 <!ENTITY copyButton.tooltip             "Salin">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Sesuaikan Daripada Alamat…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Bahasa semakan ejaan">
+<!ENTITY encodingStatusPanel.tooltip "Pengekodan teks">
