@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Estensiones">
 <!ENTITY aboutAddons.header2                    "Les tos estensiones">
-<!ENTITY aboutAddons.options                    "Opciones">
 
 <!ENTITY addonAction.enable                     "Habilitar">
 <!ENTITY addonAction.disable                    "Deshabilitar">
 <!ENTITY addonAction.uninstall                  "Desinstalar">
 <!ENTITY addonAction.undo                       "Desfacer">
+<!ENTITY addonAction.update                     "Anovar">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; nun pudo verificar esta estensión.">
 <!ENTITY addonUnsigned.learnMore                "Deprendi más">
