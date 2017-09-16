@@ -33,7 +33,7 @@
 <!ENTITY alwaysAskWhere.label         "Dosyaların nereye kaydedileceğini her zaman sor">
 <!ENTITY alwaysAskWhere.accesskey     "o">
 
-<!ENTITY alwaysCheckDefault2.label        "Her zaman &brandShortName; tarayıcısının varsayılan olup olmadığını denetle">
+<!ENTITY alwaysCheckDefault2.label        "Varsayılan tarayıcımın &brandShortName; olup olmadığını her zaman denetle">
 <!ENTITY alwaysCheckDefault2.accesskey    "H">
 <!ENTITY setAsMyDefaultBrowser3.label     "Varsayılan yap…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "a">
