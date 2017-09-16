@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Supprimer les données du site">
 <!ENTITY     removingSelected.description  "Supprimer les données du site supprimera également les cookies et le contenu web hors connexion. Cette action pourrait vous déconnecter des sites web. Voulez-vous vraiment effectuer ces changements ?">
-<!ENTITY     siteTree.label                "Les cookies des sites web suivants seront supprimés :">
+<!ENTITY     siteTree2.label               "Les cookies des sites web suivants seront supprimés">
