@@ -14,7 +14,7 @@
 <!ENTITY  popupExceptions.label                                 "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey                             "a">
 
-<!ENTITY  notificationPermissions.label                         "Uyarılar">
+<!ENTITY  notificationPermissions.label                         "Bildirimler">
 <!ENTITY  notificationSettingsButton.label                      "Ayarlar…">
 <!ENTITY  notificationSettingsButton.accesskey                  "a">
 <!ENTITY  notificationPermissionsLearnMore.label                "Daha fazlası">

@@ -15,5 +15,5 @@
 <!ENTITY     cancel.label                  "Vazgeç">
 <!ENTITY     cancel.accesskey              "z">
 <!ENTITY     removingDialog.title          "Site verileri siliniyor">
-<!ENTITY     removingSelected.description  "Site verilerini silerseniz ilgili çerezler ve vrimdışı web içerikleri de silinecektir. Bu durumda sitelerdeki açık oturumlarınız kapanabilir. Değişiklikleri uygulamak istiyor musunuz?">
+<!ENTITY     removingSelected.description  "Site verilerini silerseniz ilgili çerezler ve çevrimdışı web içerikleri de silinecektir. Bu durumda sitelerdeki açık oturumlarınız kapanabilir. Değişiklikleri uygulamak istiyor musunuz?">
 <!ENTITY     siteTree2.label               "Aşağıdaki web sitelerinin çerezleri silinecektir">

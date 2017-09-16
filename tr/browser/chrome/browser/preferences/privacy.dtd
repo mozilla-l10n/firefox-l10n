@@ -25,7 +25,7 @@
 <!ENTITY changeBlockList2.label               "Engelleme listesini değiştir…">
 <!ENTITY changeBlockList2.accesskey           "E">
 
-<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” uyarısı gönder">
+<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
 <!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
 <!ENTITY  doNotTrack.default.label      "Yalnızca İzlenme Koruması’nı kullanırken">
 <!ENTITY  doNotTrack.always.label       "Her zaman">
@@ -74,7 +74,7 @@
 <!ENTITY  historyHeader.custom.label       "geçmiş için özel ayarları kullansın">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; tarama, indirme, form ve arama geçmişlerinizi hatırlayacak; ziyaret ettiğiniz web sitelerinin çerezlerini saklayacak.">
+<!ENTITY  rememberDescription.label      "&brandShortName; gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak; ziyaret ettiğiniz web sitelerinin çerezlerini saklayacak.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->

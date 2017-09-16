@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY dataCollection.label            "&brandShortName; veri toplama ve kullanma izinleri">
-<!ENTITY dataCollectionDesc.label        "Yalnızca &brandShortName; tarayıcımızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.">
+<!ENTITY dataCollectionDesc.label        "Yalnızca &brandShortName; tarayıcınızı geliştirmemize yarayacak verileri topluyoruz ve istemezseniz onları da toplamıyoruz. Kişisel verilerinizi sunucularımıza göndermeden önce mutlaka izninizi istiyoruz.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Gizlilik bildirimi">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName;, çökme raporlarımı Mozilla’ya gönderebilir">
@@ -94,13 +94,13 @@ available. -->
                                          "En yüksek performans, güvenilirlik ve güvenlik için &brandShortName; tarayıcınızı güncel tutmalısınız.">
 <!ENTITY updateApplication.version.pre   "Sürüm ">
 <!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "&brandShortName; tarayıcım">
-<!ENTITY updateAuto3.label               "Güncellemeleri otomatik olarak yüklesin (Önerilir)">
-<!ENTITY updateAuto3.accesskey           "o">
-<!ENTITY updateCheckChoose2.label        "Güncellemeleri denetlesin ama yükleme kararını bana bıraksın">
-<!ENTITY updateCheckChoose2.accesskey    "d">
-<!ENTITY updateManual2.label             "Güncellemeleri hiçbir zaman denetlemesin (Önerilmez)">
-<!ENTITY updateManual2.accesskey         "n">
+<!ENTITY updateApplication.description   "&brandShortName; güncellemeleri">
+<!ENTITY updateAuto3.label               "Otomatik olarak yüklensin (Önerilir)">
+<!ENTITY updateAuto3.accesskey           "O">
+<!ENTITY updateCheckChoose2.label        "Denetlensin ama yükleme kararı bana bırakılsın">
+<!ENTITY updateCheckChoose2.accesskey    "D">
+<!ENTITY updateManual2.label             "Hiçbir zaman denetlenmesin (Önerilmez)">
+<!ENTITY updateManual2.accesskey         "H">
 
 <!ENTITY updateHistory2.label            "Güncelleme geçmişini göster…">
 <!ENTITY updateHistory2.accesskey        "c">
