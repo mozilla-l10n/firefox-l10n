@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Дадаткі">
 <!ENTITY aboutAddons.header2                    "Вашы дадаткі">
-<!ENTITY aboutAddons.options                    "Налады">
 
 <!ENTITY addonAction.enable                     "Дазволіць">
 <!ENTITY addonAction.disable                    "Забараніць">
 <!ENTITY addonAction.uninstall                  "Высталяваць">
 <!ENTITY addonAction.undo                       "Адмяніць">
+<!ENTITY addonAction.update                     "Абнавіць">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; не змог праверыць гэты дадатак.">
 <!ENTITY addonUnsigned.learnMore                "Падрабязней">
