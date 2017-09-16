@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Аднавіць прадвызначаную">
 <!ENTITY restoreDefault.accesskey  "А">
 
+<!ENTITY disableExtension.label    "Адключыць пашырэнне">
+
 <!ENTITY downloads.label     "Сцягванні">
 
 <!ENTITY saveTo.label "Захоўваць файлы ў">

@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Радок пошуку">
+
+<!ENTITY searchBar.hidden.label                "Выкарыстоўваць адрасны радок для пошуку і навігацыі">
+<!ENTITY searchBar.shown.label                 "Дадаць радок пошуку на паліцу прылад">
+
 <!ENTITY defaultSearchEngine.label             "Прадвызначаны пашукавік">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Выберыце прадвызначаную пошукавую сістэму для выкарыстання ў адрасным радку і панэлі пошуку.">

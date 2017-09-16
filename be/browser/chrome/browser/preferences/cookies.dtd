@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Наступныя кукі захоўваюцца на вашым камп'ютары:">
+<!ENTITY     cookiesonsystem2.label         "Наступныя кукі захоўваюцца на вашым камп'ютары">
 <!ENTITY     cookiename.label               "Назва кукі">
 <!ENTITY     cookiedomain.label             "Сайт">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Кукі">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Пошук">
 <!ENTITY     searchFilter.accesskey         "П">
