@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Sljedeći kolačići su pohranjeni na vašem računalu:">
+<!ENTITY     cookiesonsystem2.label         "Sljedeći kolačići su pohranjeni na vašem računalu">
 <!ENTITY     cookiename.label               "Naziv kolačića">
 <!ENTITY     cookiedomain.label             "Stranica">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Kolačići">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Traži">
 <!ENTITY     searchFilter.accesskey         "T">

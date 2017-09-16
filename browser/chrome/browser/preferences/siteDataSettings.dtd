@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "O">
 <!ENTITY     removingDialog.title          "Uklanjanje podataka stranice">
 <!ENTITY     removingSelected.description  "Uklanjanje podataka stranice će također ukloniti vezane kolačiće i izvanmrežni web sadržaj. Ovo će vas vjerovatno odjaviti sa stranica. Jeste li sigurni da želite napraviti izmjene?">
-<!ENTITY     siteTree.label                "Sljedeći kolačići web stranica će biti uklonjeni:">
+<!ENTITY     siteTree2.label               "Kolačići sljedećih web stranica će biti uklonjeni">
