@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Додаци">
 <!ENTITY aboutAddons.header2                    "Ваши додаци">
-<!ENTITY aboutAddons.options                    "Опције">
 
 <!ENTITY addonAction.enable                     "Омогући">
 <!ENTITY addonAction.disable                    "Онемогући">
 <!ENTITY addonAction.uninstall                  "Деинсталирај">
 <!ENTITY addonAction.undo                       "Опозови">
+<!ENTITY addonAction.update                     "Ажурирај">
 
 <!ENTITY addonUnsigned.message                  "Овај додатак није потврђен од стране &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Сазнајте више">
