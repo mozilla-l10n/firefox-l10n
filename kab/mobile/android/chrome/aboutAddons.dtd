@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Izegrar imernan">
 <!ENTITY aboutAddons.header2                    "Izegrar-inek ">
-<!ENTITY aboutAddons.options                    "Idaɣaren">
 
 <!ENTITY addonAction.enable                     "Rmed">
 <!ENTITY addonAction.disable                    "Disable">
 <!ENTITY addonAction.uninstall                  "Kkes">
 <!ENTITY addonAction.undo                       "Sefsex">
+<!ENTITY addonAction.update                     "Leqqem">
 
 <!ENTITY addonUnsigned.message                  "Azegrir-agi ur yezmir ara ad ttwasenqed sɣur &brandShortName;">
 <!ENTITY addonUnsigned.learnMore                "Issin ugar">
