@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Barby podate přez stronu přez mój wuběry horjeka přepisać:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "B">
+<!ENTITY  overrideDefaultPageColors2.label       "Barby podate přez stronu přez mój wuběry horjeka přepisać">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "B">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Přeco">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Jenož z drastami z wysokim kontrastom">
