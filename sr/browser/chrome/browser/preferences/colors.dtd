@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "43em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Редефиниши боје одређене странице са мојим одабирима изнад:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "Р">
+<!ENTITY  overrideDefaultPageColors2.label       "Премостите боје наведене на страници са својим изборима испод">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "П">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Увек">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Само са темама високог контраста">
