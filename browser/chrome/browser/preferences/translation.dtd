@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Tõlkimist ei pakuta järgmiste keelte puhul:">
+<!ENTITY noTranslationForLanguages2.label "Tõlkimist ei pakuta järgmiste keelte puhul">
 <!ENTITY treehead.languageName.label      "Keeled">
 <!ENTITY removeLanguage.label             "Eemalda keel">
 <!ENTITY removeLanguage.accesskey         "E">
 <!ENTITY removeAllLanguages.label         "Eemalda kõik keeled">
 <!ENTITY removeAllLanguages.accesskey     "m">
 
-<!ENTITY noTranslationForSites.label      "Tõlkimist ei pakuta järgmiste saitide puhul:">
+<!ENTITY noTranslationForSites2.label     "Tõlkimist ei pakuta järgmiste saitide puhul">
 <!ENTITY treehead.siteName2.label         "Saidid">
 <!ENTITY removeSite.label                 "Eemalda sait">
 <!ENTITY removeSite.accesskey             "s">

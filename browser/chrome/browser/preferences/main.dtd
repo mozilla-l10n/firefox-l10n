@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Taasta vaikeväärtus">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Keela see laiendus">
+
 <!ENTITY downloads.label     "Allalaadimised">
 
 <!ENTITY saveTo.label "Failid salvestatakse asukohta">

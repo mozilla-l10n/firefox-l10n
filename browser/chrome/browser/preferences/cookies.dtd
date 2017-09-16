@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Arvutisse on salvestatud järgnevad küpsised:">
+<!ENTITY     cookiesonsystem2.label         "Arvutisse on salvestatud järgnevad küpsised">
 <!ENTITY     cookiename.label               "Küpsise nimi">
 <!ENTITY     cookiedomain.label             "Veebileht">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Küpsised">
 <!ENTITY     windowClose.key                "W">
 <!ENTITY     focusSearch1.key               "F">
-<!ENTITY     focusSearch2.key               "K">
 
 <!ENTITY     searchFilter.label             "Otsi">
 <!ENTITY     searchFilter.accesskey         "O">

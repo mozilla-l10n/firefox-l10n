@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "L">
 <!ENTITY     removingDialog.title          "Saidi andmete kustutamine">
 <!ENTITY     removingSelected.description  "Saidi andmete kustutamine kustutab ka seotud küpsised ja võrguta režiimis kasutamiseks mõeldud andmed. See tegevus võib põhjustada saitidest väljalogimise. Kas oled kindel, et soovid teha need muudatused?">
-<!ENTITY     siteTree.label                "Järgnevad küpsised kustutatakse:">
+<!ENTITY     siteTree2.label               "Järgnevad küpsised kustutatakse">
