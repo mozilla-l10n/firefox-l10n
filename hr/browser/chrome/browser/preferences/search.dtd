@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Traka pretraživanja">
+
+<!ENTITY searchBar.hidden.label                "Koristite adresnu traku za pretraživanje i navigaciju">
+<!ENTITY searchBar.shown.label                 "Dodajte traku pretraživanja u alatnu traku">
+
 <!ENTITY defaultSearchEngine.label             "Zadana tražilica">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.">

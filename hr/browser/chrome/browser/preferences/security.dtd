@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Sigurnost">
-<!ENTITY  phishingProtection.label       "Zaštita od krađe indentiteta">
 
 <!ENTITY  warnOnAddonInstall2.label       "Upozorava vas kad stranice pokušaju instalirati dodatke">
 <!ENTITY  warnOnAddonInstall2.accesskey   "d">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija">
 <!ENTITY  enableSafeBrowsing.label        "Blokiraj opasni i zavaravajući sadržaj">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
