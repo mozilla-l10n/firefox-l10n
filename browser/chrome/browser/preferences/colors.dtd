@@ -6,8 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Zamenjaj barve, ki jih določa stran, z zgornjimi izbirami:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "Z">
+<!ENTITY  overrideDefaultPageColors2.label       "Zamenjaj barve, ki jih določa stran, z zgornjimi izbirami">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Vedno">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Samo z visokokontrastnimi temami">
