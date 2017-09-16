@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Standard wobnowić">
 <!ENTITY restoreDefault.accesskey  "b">
 
+<!ENTITY disableExtension.label    "Rozšěrjenje znjemóžnić">
+
 <!ENTITY downloads.label     "Sćehnjenja">
 
 <!ENTITY saveTo.label "Dataje składować do">
