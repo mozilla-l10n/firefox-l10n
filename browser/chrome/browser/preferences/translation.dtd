@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Přełožowanje so za slědowace rěče njeposkićuje:">
+<!ENTITY noTranslationForLanguages2.label "Přełožowanje so za slědowace rěče njeposkićuje">
 <!ENTITY treehead.languageName.label      "Rěče">
 <!ENTITY removeLanguage.label             "Rěč wotstronić">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Wšě rěče wotstronić">
 <!ENTITY removeAllLanguages.accesskey     "W">
 
-<!ENTITY noTranslationForSites.label      "Přełožowanje so za slědowace sydła njeposkićuje:">
+<!ENTITY noTranslationForSites2.label     "Přełožowanje so za slědowace sydła njeposkićuje">
 <!ENTITY treehead.siteName2.label         "Websydła">
 <!ENTITY removeSite.label                 "Sydło wotstronić">
 <!ENTITY removeSite.accesskey             "S">
