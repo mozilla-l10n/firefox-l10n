@@ -29,6 +29,12 @@ untuk sijil ini.">
 <!ENTITY certerror.getMeOutOfHere.label "Ini tidak bagus, pergi sahaja ke halaman utama">
 
 <!ENTITY certerror.expert.heading "Saya Faham akan Risiko ini">
+<!ENTITY certerror.expert.content "Jika anda tahu apa yang berlaku, anda
+boleh maklumkan &brandShortName; untuk mempercayai pengenalan laman web ini.
+<b>Walaupun anda percayakan laman web ini, ralat ini mungkin bermakna ada seseorang
+cuba menceroboh sambungan anda.</b>">
 <!ENTITY certerror.expert.contentPara2 "Jangan tambah pengecualian kecuali
 anda tahu alasan kenapa laman web ini tidak menggunakan pengenalan yang dipercayai.">
+<!ENTITY certerror.addException.label "Tambah Pengecualian…">
 
+<!ENTITY certerror.technical.heading "Butiran Teknikal">
