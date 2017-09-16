@@ -386,6 +386,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synchrone-tabbladenzijbalk weergeven">
 
+<!ENTITY appMenuRecentHighlights.label "Recente Highlights">
+
 <!ENTITY customizeMenu.addToToolbar.label "Toevoegen aan werkbalk">
 <!ENTITY customizeMenu.addToToolbar.accesskey "w">
 <!ENTITY customizeMenu.addToPanel.label "Toevoegen aan menu">
