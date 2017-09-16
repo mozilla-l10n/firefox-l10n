@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "載入頁面時下載遠端字型">
 
 <!ENTITY pref_tracking_protection_title2 "追蹤保護">
-<!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽模式中使用">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; 推薦">
 <!ENTITY activity_stream_highlights "精選網站">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "更多">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
