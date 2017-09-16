@@ -17,28 +17,28 @@
 <!ENTITY aboutProduct2.label      "O &brandShorterName;u">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "Pomoč za &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "P">
+<!ENTITY productHelp2.accesskey   "m">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Bližnjice tipk">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.accesskey "B">
 
 <!ENTITY helpSafeMode.label       "Ponovno zaženi z onemogočenimi dodatki …">
-<!ENTITY helpSafeMode.accesskey   "z">
+<!ENTITY helpSafeMode.accesskey   "n">
 <!ENTITY helpSafeMode.stop.label       "Ponovno zaženi z omogočenimi dodatki">
-<!ENTITY helpSafeMode.stop.accesskey   "z">
+<!ENTITY helpSafeMode.stop.accesskey   "n">
 
 <!ENTITY healthReport2.label      "Zdravniško spričevalo za &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "d">
+<!ENTITY healthReport2.accesskey  "Z">
 
 <!ENTITY helpTroubleshootingInfo.label      "Reševanje težav …">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
+<!ENTITY helpTroubleshootingInfo.accesskey  "R">
 
 <!ENTITY helpFeedbackPage.label      "Povratne informacije …">
-<!ENTITY helpFeedbackPage.accesskey  "f">
+<!ENTITY helpFeedbackPage.accesskey  "v">
 
 <!ENTITY helpShowTour2.label            "Predstavitev &brandShorterName;a">
-<!ENTITY helpShowTour2.accesskey        "o">
+<!ENTITY helpShowTour2.accesskey        "e">
 
 <!ENTITY preferencesCmdMac.label        "Nastavitve …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Storitve">
 
 <!ENTITY hideThisAppCmdMac2.label       "Skrij &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "S">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skrij ostale">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.commandkey "S">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži vse">
