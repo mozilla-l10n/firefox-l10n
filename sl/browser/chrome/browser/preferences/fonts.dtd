@@ -18,6 +18,7 @@
 <!ENTITY  serif2.accesskey                        "S">
 <!ENTITY  sans-serif2.label                       "Sans-serif">
 <!ENTITY  sans-serif2.accesskey                   "a">
+<!ENTITY  monospace2.label                        "Enoširinska pisava">
 <!ENTITY  monospace2.accesskey                    "E">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :

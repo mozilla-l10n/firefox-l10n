@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Odstranjevanje podatkov strani">
 <!ENTITY     removingSelected.description  "Ko odstranite podatke strani, boste odstranili tudi povezane piškotke in vsebino za delo brez povezave. To vas bo morda odjavilo iz spletnih strani. Ste prepričani, da želite uveljaviti spremembe?">
-<!ENTITY     siteTree.label                "Odstranjeni bodo piškotki naslednjih spletnih strani:">
+<!ENTITY     siteTree2.label               "Odstranjeni bodo piškotki naslednjih spletnih strani">

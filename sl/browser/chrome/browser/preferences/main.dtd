@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Uporabi privzeto stran">
 <!ENTITY restoreDefault.accesskey  "i">
 
+<!ENTITY disableExtension.label    "Onemogoči razširitev">
+
 <!ENTITY downloads.label     "Prenosi">
 
 <!ENTITY saveTo.label "Shrani datoteke v">
