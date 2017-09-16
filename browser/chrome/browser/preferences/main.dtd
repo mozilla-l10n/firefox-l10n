@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Obnovit výchozí">
 <!ENTITY restoreDefault.accesskey  "b">
 
+<!ENTITY disableExtension.label    "Zakázat rozšíření">
+
 <!ENTITY downloads.label     "Stahování">
 
 <!ENTITY saveTo.label "Ukládat všechny soubory do složky">

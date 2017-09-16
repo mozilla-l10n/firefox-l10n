@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Tyto cookies jsou uloženy ve vašem počítači:">
+<!ENTITY     cookiesonsystem2.label         "Tyto cookies jsou uloženy ve vašem počítači">
 <!ENTITY     cookiename.label               "Název cookie">
 <!ENTITY     cookiedomain.label             "Server">
 

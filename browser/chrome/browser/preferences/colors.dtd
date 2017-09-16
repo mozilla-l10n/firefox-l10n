@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Použít vámi nastavené barvy místo definovaných stránkou:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "o">
+<!ENTITY  overrideDefaultPageColors2.label       "Použít vámi nastavené barvy místo definovaných stránkou">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Vždy">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Pouze pro motivy s vysokým kontrastem">
