@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Err-d tawila n tazwara">
 <!ENTITY restoreDefault.accesskey  "E">
 
+<!ENTITY disableExtension.label    "Sens aseγzif">
+
 <!ENTITY downloads.label     "Isidar">
 
 <!ENTITY saveTo.label "Sekles ifuyla ɣer">

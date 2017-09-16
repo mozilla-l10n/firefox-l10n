@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Afeggag n unadi">
+
+<!ENTITY searchBar.hidden.label                "Seqdec afeggag n tansa akken ad tnadiḍ wa ad tinigeḍ">
+<!ENTITY searchBar.shown.label                 "Rnu afeggag n unadi deg ufeggag n ifecka">
+
 <!ENTITY defaultSearchEngine.label             "Amsedday n unadi amezwer">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Fren amsedday n unadi amezwer ad tesqedceḍ di ufeggag n tansa akked deg ufeggag n unadi.">

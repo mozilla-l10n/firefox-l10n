@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
 <!ENTITY pageSourceCmd.accesskey "T">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Talɣut ɣef usebter">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n yiccaren yemtawin">
+
+<!ENTITY appMenuRecentHighlights.label "Izwilen n yakan">
 
 <!ENTITY customizeMenu.addToToolbar.label "Rnu ɣer ufeggag n ifecka">
 <!ENTITY customizeMenu.addToToolbar.accesskey "R">
@@ -836,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
 <!ENTITY customizeMode.done "Immed">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
+<!ENTITY customizeMode.extraDragSpace "Zuγer tallunt">
 <!ENTITY customizeMode.toolbars2 "Afeggag n ifecka">
 <!ENTITY customizeMode.lwthemes "Isental">
 <!ENTITY customizeMode.lwthemes.myThemes "Isental-iw">
