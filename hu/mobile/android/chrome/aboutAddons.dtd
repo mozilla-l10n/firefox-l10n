@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Letiltás">
 <!ENTITY addonAction.uninstall                  "Eltávolítás">
 <!ENTITY addonAction.undo                       "Visszavonás">
+<!ENTITY addonAction.update                     "Frissítés">
 
 <!ENTITY addonUnsigned.message                  "A kiegészítőt nem tudta a &brandShortName; ellenőrizni.">
 <!ENTITY addonUnsigned.learnMore                "További tudnivalók">
