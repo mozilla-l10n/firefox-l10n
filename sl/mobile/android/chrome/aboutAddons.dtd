@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Dodatki">
 <!ENTITY aboutAddons.header2                    "Moji dodatki">
-<!ENTITY aboutAddons.options                    "Možnosti">
 
 <!ENTITY addonAction.enable                     "Omogoči">
 <!ENTITY addonAction.disable                    "Onemogoči">
 <!ENTITY addonAction.uninstall                  "Odstrani">
 <!ENTITY addonAction.undo                       "Razveljavi">
+<!ENTITY addonAction.update                     "Posodobi">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; ni mogel potrditi dodatka.">
 <!ENTITY addonUnsigned.learnMore                "Več o tem">
