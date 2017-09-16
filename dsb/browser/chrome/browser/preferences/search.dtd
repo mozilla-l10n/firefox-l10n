@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Pytańske pólo">
+
+<!ENTITY searchBar.hidden.label                "Wužywajśo adresowe pólo za pytanje a nawigaciju">
+<!ENTITY searchBar.shown.label                 "Pytańske pólo symbolowej rědce pśidaś">
+
 <!ENTITY defaultSearchEngine.label             "Standardna pytnica">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Wubjeŕśo standardnu pytnicu, kótaraž ma se w adresowem pólu a pytańskem polu wužywaś.">
