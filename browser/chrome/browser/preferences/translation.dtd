@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "A fordítás nem lesz felajánlva ezen nyelvekhez:">
+<!ENTITY noTranslationForLanguages2.label "A fordítás nem lesz felajánlva ezen nyelvekhez">
 <!ENTITY treehead.languageName.label      "Nyelvek">
 <!ENTITY removeLanguage.label             "Nyelv eltávolítása">
 <!ENTITY removeLanguage.accesskey         "N">
 <!ENTITY removeAllLanguages.label         "Minden nyelv eltávolítása">
 <!ENTITY removeAllLanguages.accesskey     "M">
 
-<!ENTITY noTranslationForSites.label      "A fordítás nem lesz felajánlva ezen oldalakhoz:">
+<!ENTITY noTranslationForSites2.label     "A fordítás nem lesz felajánlva ezen oldalakhoz">
 <!ENTITY treehead.siteName2.label         "Webhelyek">
 <!ENTITY removeSite.label                 "Webhely eltávolítása">
 <!ENTITY removeSite.accesskey             "W">
