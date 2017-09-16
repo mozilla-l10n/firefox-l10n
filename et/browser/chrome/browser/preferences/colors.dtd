@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Ülalolevaid määranguid kasutatakse veebilehe värvide asemel:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "l">
+<!ENTITY  overrideDefaultPageColors2.label       "Ülalolevaid määranguid kasutatakse veebilehe värvide asemel">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "alati">
 <!ENTITY  overrideDefaultPageColors.auto.label   "ainult koos suure kontrastiga teemadega">
