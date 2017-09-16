@@ -597,6 +597,8 @@
 <!ENTITY activity_stream_topstories "Poleca &brandPocket;">
 <!ENTITY activity_stream_highlights "Wyróżnione">
 
+<!ENTITY activity_stream_link_more "więcej">
+
 <!ENTITY activity_stream_highlight_label_bookmarked "Zakładka">
 <!ENTITY activity_stream_highlight_label_visited "Odwiedzone">
 <!ENTITY activity_stream_highlight_label_trending "Na czasie">
