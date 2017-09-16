@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Ta bort platsdata">
 <!ENTITY     removingSelected.description  "Ta bort platsdata kommer också att ta bort relaterade kakor och webbinnehåll offline. Detta kan logga ut dig från webbplatser. Är du säker på att du vill göra ändringarna?">
-<!ENTITY     siteTree.label                "Följande webbplatskakor tas bort:">
+<!ENTITY     siteTree2.label               "Följande webbplatskakor kommer att tas bort">

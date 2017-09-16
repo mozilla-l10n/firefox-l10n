@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Följande kakor lagras på datorn:">
+<!ENTITY     cookiesonsystem2.label         "Följande kakor lagras på din dator">
 <!ENTITY     cookiename.label               "Kakans namn">
 <!ENTITY     cookiedomain.label             "Webbplats">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Kakor">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Sök">
 <!ENTITY     searchFilter.accesskey         "S">
