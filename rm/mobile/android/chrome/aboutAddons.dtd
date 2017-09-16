@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Supplements">
 <!ENTITY aboutAddons.header2                    "Tes supplements">
-<!ENTITY aboutAddons.options                    "Opziuns">
 
 <!ENTITY addonAction.enable                     "Activar">
 <!ENTITY addonAction.disable                    "Deactivar">
 <!ENTITY addonAction.uninstall                  "Deinstallar">
 <!ENTITY addonAction.undo                       "Revocar">
+<!ENTITY addonAction.update                     "Actualisar">
 
 <!ENTITY addonUnsigned.message                  "Quest supplement n'ha betg pudì vegnir verifitgà da &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Ulteriuras infurmaziuns">
