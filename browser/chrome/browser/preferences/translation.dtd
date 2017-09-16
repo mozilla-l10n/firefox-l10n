@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Översättning finns inte på följande språk:">
+<!ENTITY noTranslationForLanguages2.label "Översättning erbjuds inte för följande språk">
 <!ENTITY treehead.languageName.label      "Språk">
 <!ENTITY removeLanguage.label             "Ta bort språk">
 <!ENTITY removeLanguage.accesskey         "T">
 <!ENTITY removeAllLanguages.label         "Ta bort alla språk">
 <!ENTITY removeAllLanguages.accesskey     "T">
 
-<!ENTITY noTranslationForSites.label      "Översättning finns inte för följande webbplatser:">
+<!ENTITY noTranslationForSites2.label     "Översättning kommer inte att erbjudas för följande webbplatser">
 <!ENTITY treehead.siteName2.label         "Webbplatser">
 <!ENTITY removeSite.label                 "Ta bort webbplats">
 <!ENTITY removeSite.accesskey             "T">

@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Återställ standard">
 <!ENTITY restoreDefault.accesskey  "Å">
 
+<!ENTITY disableExtension.label    "Inaktivera tillägg">
+
 <!ENTITY downloads.label     "Filhämtningar">
 
 <!ENTITY saveTo.label "Spara filer till">

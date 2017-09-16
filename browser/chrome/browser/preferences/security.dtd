@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Säkerhet">
-<!ENTITY  phishingProtection.label       "Skydd mot nätfiske">
 
 <!ENTITY  warnOnAddonInstall2.label       "Varna när webbplatser försöker installera tillägg">
 <!ENTITY  warnOnAddonInstall2.accesskey   "V">
@@ -12,6 +11,8 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Skydd mot vilseledande och skadlig programvara">
 <!ENTITY  enableSafeBrowsing.label        "Blockera farligt och vilseledande innehåll">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 

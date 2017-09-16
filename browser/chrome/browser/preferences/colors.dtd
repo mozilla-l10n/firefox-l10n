@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Överskrid färgerna som specificerats på sidan med dina val ovan:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "v">
+<!ENTITY  overrideDefaultPageColors2.label       "Överskrid färgerna som specificerats på sidan med dina val ovan">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "v">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Alltid">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Endast med teman med hög kontrast">
