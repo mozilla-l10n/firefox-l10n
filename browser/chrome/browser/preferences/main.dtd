@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Standard wótnowiś">
 <!ENTITY restoreDefault.accesskey  "t">
 
+<!ENTITY disableExtension.label    "Rozšyrjenje znjemóžniś">
+
 <!ENTITY downloads.label     "Ześěgnjenja">
 
 <!ENTITY saveTo.label "Dataje składowaś do">

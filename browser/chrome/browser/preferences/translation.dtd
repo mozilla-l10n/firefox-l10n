@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Pśełožowanje njepóbitujo se za slědujuce rěcy:">
+<!ENTITY noTranslationForLanguages2.label "Pśełožowanje njepóbitujo se za slědujuce rěcy">
 <!ENTITY treehead.languageName.label      "Rěcy">
 <!ENTITY removeLanguage.label             "Rěc wótpóraś">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "Wšykne rěcy wótpóraś">
 <!ENTITY removeAllLanguages.accesskey     "W">
 
-<!ENTITY noTranslationForSites.label      "Pśełožowanje njepóbitujo se za slědujuce sedła:">
+<!ENTITY noTranslationForSites2.label     "Pśełožowanje njepóbitujo se za slědujuce sedła">
 <!ENTITY treehead.siteName2.label         "Websedła">
 <!ENTITY removeSite.label                 "Sedło wótpóraś">
 <!ENTITY removeSite.accesskey             "S">
