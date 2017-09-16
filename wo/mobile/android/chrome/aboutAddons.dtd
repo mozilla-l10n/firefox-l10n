@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Lawal">
 <!ENTITY aboutAddons.header2                    "Say lawal">
-<!ENTITY aboutAddons.options                    "Tànneef">
 
 <!ENTITY addonAction.enable                     "Doxal">
 <!ENTITY addonAction.disable                    "Doxadil">
 <!ENTITY addonAction.uninstall                  "Simpi">
 <!ENTITY addonAction.undo                       "Neenal">
+<!ENTITY addonAction.update                     "Yeesal">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; manul settantal gii lawal.">
 <!ENTITY addonUnsigned.learnMore                "Yeneen xibaar">
