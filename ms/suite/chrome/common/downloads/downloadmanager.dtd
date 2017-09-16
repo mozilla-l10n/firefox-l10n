@@ -33,6 +33,53 @@
 <!ENTITY col.progress.tooltip            "Kemajuan">
 <!ENTITY col.timeremaining.label         "Baki Masa">
 <!ENTITY col.timeremaining.accesskey     "B">
+<!ENTITY col.timeremaining.tooltip       "Baki Masa">
+<!ENTITY col.transferred.label           "Dipindahkan">
+<!ENTITY col.transferred.accesskey       "D">
+<!ENTITY col.transferred.tooltip         "Dipindahkan">
+<!ENTITY col.transferrate.label          "Kelajuan">
+<!ENTITY col.transferrate.accesskey      "j">
+<!ENTITY col.transferrate.tooltip        "Kelajuan">
+<!ENTITY col.timeelapsed.label           "Masa Berlalu">
+<!ENTITY col.timeelapsed.accesskey       "B">
+<!ENTITY col.timeelapsed.tooltip         "Masa Berlalu">
+<!ENTITY col.starttime.label             "Masa Mula">
+<!ENTITY col.starttime.accesskey         "a">
+<!ENTITY col.starttime.tooltip           "Masa Mula">
+<!ENTITY col.endtime.label               "Masa Tamat">
+<!ENTITY col.endtime.accesskey           "m">
+<!ENTITY col.endtime.tooltip             "Masa Tamat">
+<!ENTITY col.progresstext.label          "&#37;">
+<!ENTITY col.progresstext.accesskey      "&#37;">
+<!ENTITY col.progresstext.tooltip        "Kemajuan (&#37;)">
+<!ENTITY col.source.label                "Sumber">
+<!ENTITY col.source.accesskey            "u">
+<!ENTITY col.source.tooltip              "Sumber">
 
+<!ENTITY view.columns.label              "Papar Lajur">
+<!ENTITY view.columns.accesskey          "L">
+<!ENTITY view.sortBy.label               "Susun mengikut">
+<!ENTITY view.sortBy.accesskey           "S">
 
+<!ENTITY view.unsorted.label             "Tidak disusun">
+<!ENTITY view.unsorted.accesskey         "T">
+<!ENTITY view.sortAscending.label        "Tertib Susunan A > Z">
+<!ENTITY view.sortAscending.accesskey    "A">
+<!ENTITY view.sortDescending.label       "Tertib susunan Z > A">
+<!ENTITY view.sortDescending.accesskey   "Z">
 
+<!ENTITY cmd.pause.label                 "Jeda">
+<!ENTITY cmd.pause.accesskey             "J">
+<!ENTITY cmd.resume.label                "Sambung">
+<!ENTITY cmd.resume.accesskey            "S">
+<!ENTITY cmd.retry.label                 "Cuba lagi">
+<!ENTITY cmd.retry.accesskey             "l">
+<!ENTITY cmd.cancel.label                "Batal">
+<!ENTITY cmd.cancel.accesskey            "B">
+<!ENTITY cmd.remove.label                "Buang Dari Senarai">
+<!ENTITY cmd.remove.accesskey            "u">
+<!ENTITY cmd.open.label                  "Buka">
+<!ENTITY cmd.open.accesskey              "B">
+<!ENTITY cmd.show.label                  "Buka Kandungan Folder">
+<!ENTITY cmd.show.accesskey              "F">
+<!ENTITY cmd.goToDownloadPage.label      "Pergi Ke Halaman Muat turun">
