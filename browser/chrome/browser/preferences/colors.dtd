@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "İçerikte belirtilen renkler yerine aşağıdaki tercihlerimi kullan:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "r">
+<!ENTITY  overrideDefaultPageColors2.label       "Sayfada tanımlanan renkler yerine yukarıdaki tercihlerimi kullan">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "r">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Her zaman">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Yalnızca yüksek karşıtlık temalarında">
