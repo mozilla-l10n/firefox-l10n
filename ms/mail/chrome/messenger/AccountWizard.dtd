@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Buang tanda dalam kotak semakan untuk menyimpan mel akaun ini dalam direktorinya sendiri. Akaun ini akan dipaparkan sebagai akaun tahap teratas. Jika tidak, akaun ini menjadi sebahagian akaun Peti Masuk Global Folder Lokal.">
 <!ENTITY deferStorage.label "Guna Peti Masuk Global (menyimpan mel dalam Folder Lokal)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Klik Siap untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
-<!ENTITY clickFinish.labelMac "Klik Siap untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
+<!ENTITY clickFinish.label "Klik Selesai untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
+<!ENTITY clickFinish.labelMac "Klik Selesai untuk menyimpan tetapan dan keluar daripada Bestari Akaun.">
