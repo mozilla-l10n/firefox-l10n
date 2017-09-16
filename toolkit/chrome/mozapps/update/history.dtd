@@ -4,7 +4,7 @@
 
 
 <!ENTITY  history.title             "Atnaujinimo žurnalas">
-
+<!ENTITY  history2.intro            "Buvo įdiegti šie atnaujinimai">
 <!ENTITY  closebutton.label         "Užverti">
 
 <!ENTITY  noupdates.label           "Dar neįdiegta jokių naujinimų">
