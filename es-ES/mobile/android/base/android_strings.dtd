@@ -498,11 +498,13 @@
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_pin_to_top_sites "Fijar en Sitios populares">
+<!ENTITY contextmenu_unpin_from_top_sites "Soltar de los sitios populares">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "Se fijó la página en Sitios populares">
+<!ENTITY unpinned_page_from_top_sites "Página soltada de los sitios populares">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
