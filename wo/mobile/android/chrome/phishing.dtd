@@ -24,3 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Xëti jëfekaay yees bëggul ñooy jéem a sampi jëfekaay yuy man a doon yuy naxe walla am njeexit ci sa noste ci noo ko foogeewul.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Site bi ngay Jëfandiko mënna am ay malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; téyé nañou dal bi ndah té jorte nañu né dafay jéem a samp jëfekaay yuy sàth wala yuy dindi say yëf (manam ay nataal, password, message wala credit cards).">
