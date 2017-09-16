@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gérer les appareils…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Panneau latéral des onglets synchronisés">
 
+<!ENTITY appMenuRecentHighlights.label "Éléments-clés récents">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ajouter à la barre d’outils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
