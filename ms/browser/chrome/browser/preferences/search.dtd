@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Bar Carian">
+
+<!ENTITY searchBar.hidden.label                "Gunakan bar alamat untuk mencari dan navigasi">
+<!ENTITY searchBar.shown.label                 "Tambah bar carian dalam bar alatan">
+
 <!ENTITY defaultSearchEngine.label             "Enjin Carian Piawai">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Pilih enjin carian piawai untuk digunakan dalam bar alamat dan bar carian.">

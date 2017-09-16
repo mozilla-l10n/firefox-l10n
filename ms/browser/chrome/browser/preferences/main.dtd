@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Pulih Piawai">
 <!ENTITY restoreDefault.accesskey  "P">
 
+<!ENTITY disableExtension.label    "Nyahdayakan Ekstensi">
+
 <!ENTITY downloads.label     "Muat Turun">
 
 <!ENTITY saveTo.label "Simpan fail ke">
