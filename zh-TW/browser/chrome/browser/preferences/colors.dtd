@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "忽略您上面的選擇，優先使用頁面指定的色彩:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "忽略頁面指定的色彩，使用您上面的選擇">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "總是">
 <!ENTITY  overrideDefaultPageColors.auto.label   "僅在使用高對比佈景主題時">
