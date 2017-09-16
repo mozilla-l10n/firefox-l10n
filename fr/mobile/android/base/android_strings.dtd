@@ -826,7 +826,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Les plus visités">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Recommandations par &brandPocket;">
-<!ENTITY activity_stream_highlights "Éléments clés">
+<!ENTITY activity_stream_highlights "Éléments-clés">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
 <!ENTITY activity_stream_link_more "plus">
