@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx taq okisaxel…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
 
+<!ENTITY appMenuRecentHighlights.label "K'ak'a' K'exawachinïk">
 
 <!ENTITY customizeMenu.addToToolbar.label "Titz'aqatisäx pa Molsamajib'äl">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -844,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Ke'atzolij ri taq wachinel e k'o wi">
 <!ENTITY customizeMode.done "K'isoj">
 <!ENTITY customizeMode.titlebar "Rub'i' molsamaj">
+<!ENTITY customizeMode.extraDragSpace "Tiqirirëx Kojol">
 <!ENTITY customizeMode.toolbars2 "Taq cholsamajib'äl">
 <!ENTITY customizeMode.lwthemes "Taq wachinel">
 <!ENTITY customizeMode.lwthemes.myThemes "Taq nuwachinel">
