@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Aşağıdaki diller için çeviri önerisi yapılmayacaktır:">
+<!ENTITY noTranslationForLanguages2.label "Aşağıdaki diller için çeviri önerisi yapılmayacaktır">
 <!ENTITY treehead.languageName.label      "Diller">
 <!ENTITY removeLanguage.label             "Dili kaldır">
 <!ENTITY removeLanguage.accesskey         "D">
 <!ENTITY removeAllLanguages.label         "Tüm dilleri kaldır">
 <!ENTITY removeAllLanguages.accesskey     "k">
 
-<!ENTITY noTranslationForSites.label      "Aşağıdaki siteler için çeviri önerisi yapılmayacaktır:">
+<!ENTITY noTranslationForSites2.label     "Aşağıdaki siteler için çeviri önerisi yapılmayacaktır">
 <!ENTITY treehead.siteName2.label         "Web siteleri">
 <!ENTITY removeSite.label                 "Siteyi kaldır">
 <!ENTITY removeSite.accesskey             "S">

@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Varsayılanı geri getir">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Eklentiyi etkisizleştir">
+
 <!ENTITY downloads.label     "İndirme">
 
 <!ENTITY saveTo.label "Dosya kayıt yeri">
