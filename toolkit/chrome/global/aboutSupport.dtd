@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacija problemų sprendimui">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Šiame tinklalapyje rasite visą techninę informaciją, kuri gali praversti sprendžiant su „&brandShortName;“ iškilusias problemas. Jei ieškote atsakymų į dažniausius klausimus apie šią programą, apsilankykite <a id='supportLink'>pagalbos svetainėje</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Strigčių pranešimai">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Pavadinimas">
 <!ENTITY aboutSupport.appBasicsVersion "Laida">
 <!ENTITY aboutSupport.appBasicsBuildID "Versijos ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Atnaujinimų kanalas">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Atnaujinimo žurnalas">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Rodyti atnaujinimo žurnalą">
@@ -58,8 +58,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Atminties naudojimas">
 <!ENTITY aboutSupport.appBasicsPerformance "Našumas">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registruoti aptarnavimo scenarijai">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profiliai">
@@ -85,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Svarbios pakeistos nuostatos">
 <!ENTITY aboutSupport.modifiedPrefsName "Vardas">
 <!ENTITY aboutSupport.modifiedPrefsValue "Reikšmė">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Nuostatos „user.js“ faile">
 <!ENTITY aboutSupport.userJSDescription "Jūsų profilio aplanke yra <a id='prefs-user-js-link'>„user.js“ failas</a>, kuriame įrašytos nuostatos, sukurtos ne „&brandShortName;“ programoje.">
 
@@ -107,7 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktyvintas">
 <!ENTITY aboutSupport.a11yForceDisabled "Pritaikymas neįgaliesiems uždraustas">
 <!ENTITY aboutSupport.a11yHandlerUsed "Panaudota pasiekiama doroklė ">
-
+<!ENTITY aboutSupport.a11yInstantiator "Prieinamumo inicializuotorius">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekų versijos">
 

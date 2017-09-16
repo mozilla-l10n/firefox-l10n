@@ -10,10 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Liudijimų įstaigų">
 <!ENTITY certmgr.tab.orphan2                  "Kiti">
 
-
-
-
-
+<!ENTITY certmgr.mine2                        "Turite liudijimus, išduotus šių jus identifikuojančių įstaigų">
+<!ENTITY certmgr.others2                      "Turite liudijimus, identifikuojančius šiuos asmenis">
+<!ENTITY certmgr.websites3                    "Turite liudijimus, identifikuojančius šiuos serverius">
+<!ENTITY certmgr.cas2                         "Turite liudijimus, identifikuojančius šias liudijimų įstaigas">
+<!ENTITY certmgr.orphans2                     "Turite liudijimus, nepatenkančius į kitas kategorijas">
 
 <!ENTITY certmgr.detail.general_tab.title     "Bendroji">
 <!ENTITY certmgr.detail.general_tab.accesskey "B">
