@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- mac -->
+<!-- LOCALIZATION NOTE: FILE Do not translate all the entities ending with
+  Cmd.key. -->
+
+<!-- LOCALIZATION NOTE (.modifiers): The following entites are for the
+  application menu. Never change the modifiers unless you are 100% sure that
+  they are different on your locale (should be very rare). -->
+<!ENTITY preferencesCmd.label           "Keutamaan…">
+<!ENTITY preferencesCmd.key             ",">
+<!ENTITY preferencesCmd.modifiers       "accel">
+<!ENTITY servicesMenu.label             "Servis">
+<!ENTITY hideThisAppCmd.label           "Sorok &brandShortName;">
+<!ENTITY hideThisAppCmd.key             "S">
+<!ENTITY hideThisAppCmd.modifiers       "accel">
+<!ENTITY hideOtherAppsCmd.label         "Sorok yang Lain">
+<!ENTITY hideOtherAppsCmd.key           "S">
+<!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
+<!ENTITY showAllAppsCmd.label           "Papar Semua">
+ 
+<!-- End of Application menu -->
+
+  
+  
+
+
+
+<!-- Keys for toggling Sidebar, Folder Pane in mailNews and Directory Pane in
+  Address Book -->
+
+  
+
+
+
+
+<!-- Help menu -->
+
+<!-- Key labels, for mousewheel prefs -->
