@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Vyhľadávací panel">
+
+<!ENTITY searchBar.shown.label                 "Pridať na vyhľadávací panel na panel nástrojov">
+
 <!ENTITY defaultSearchEngine.label             "Predvolený vyhľadávací modul">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Vyberte si predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela.">
