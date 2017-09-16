@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Utvidelser">
 <!ENTITY aboutAddons.header2                    "Utvidelser">
-<!ENTITY aboutAddons.options                    "Innstillinger">
 
 <!ENTITY addonAction.enable                     "Slå på">
 <!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.undo                       "Angre">
+<!ENTITY addonAction.update                     "Oppdater">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; klarte ikke bekrefte denne utvidelsen.">
 <!ENTITY addonUnsigned.learnMore                "Les mer">
