@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "ಈ ಕೆಳಗಿನ ಕುಕಿಗಳು ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಶೇಖರಿತಗೊಂಡಿವೆ:">
+<!ENTITY     cookiesonsystem2.label         "ಈ ಕೆಳಗಿನ ಕುಕಿಗಳು ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಶೇಖರಿಸಲ್ಪಟ್ಟಿವೆ">
 <!ENTITY     cookiename.label               "ಕುಕಿಯ ಹೆಸರು">
 <!ENTITY     cookiedomain.label             "ತಾಣ">
 

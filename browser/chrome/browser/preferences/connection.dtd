@@ -14,6 +14,7 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "ಈ ಜಾಲಬಂಧಕ್ಕೆ  ಪ್ರಾಕ್ಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ನೀನಾಗಿಯೆ ಹುಡುಕು">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio2.label        "ಹಸ್ತಮುಖೇನ ಪ್ರಾಕ್ಸಿ ಸಂರಚನೆ">
 <!ENTITY  manualTypeRadio2.accesskey    "m">
 <!ENTITY  autoTypeRadio2.label          "ಸ್ವಯಂಚಾಲಿತ ಪ್ರಾಕ್ಸಿ ಸಂರಚನಾ URL">
 <!ENTITY  autoTypeRadio2.accesskey      "A">

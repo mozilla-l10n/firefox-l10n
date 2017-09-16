@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "ಪುಟದಿಂದ ಸೂಚಿಸಲಾದ ಬಣ್ಣಗಳನ್ನು ಮೇಲಿನ ನಿಮ್ಮಆಯ್ಕೆಗಳಿಂದ ಬದಲಾಯಿಸಿ:‍">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "ಪುಟದಿಂದ ಸೂಚಿಸಲಾದ ಬಣ್ಣಗಳನ್ನು ಮೇಲಿನ ನಿಮ್ಮಆಯ್ಕೆಗಳಿಂದ ಬದಲಾಯಿಸಿ">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "ಯಾವಾಗಲೂ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "ಹೆಚ್ಚು ಕಾಂಟ್ರಾಸ್ಟ್‌ ಥೀಮ್‌ಗಳಿಂದ ಮಾತ್ರ">
