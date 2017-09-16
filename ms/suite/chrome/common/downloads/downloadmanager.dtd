@@ -83,3 +83,8 @@
 <!ENTITY cmd.show.label                  "Buka Kandungan Folder">
 <!ENTITY cmd.show.accesskey              "F">
 <!ENTITY cmd.goToDownloadPage.label      "Pergi Ke Halaman Muat turun">
+<!ENTITY cmd.goToDownloadPage.accesskey  "P">
+<!ENTITY cmd.copyDownloadLink.label      "Salin Pautan Muat Turun">
+<!ENTITY cmd.copyDownloadLink.accesskey  "T">
+<!ENTITY cmd.properties.label            "Sifat…">
+<!ENTITY cmd.properties.accesskey        "f">
