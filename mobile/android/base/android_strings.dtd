@@ -485,6 +485,7 @@
 <!ENTITY activity_stream_topsites "Siti principali">
 <!ENTITY activity_stream_topstories "Consigliato da &brandPocket;">
 <!ENTITY activity_stream_highlights "In evidenza">
+<!ENTITY activity_stream_link_more "altro">
 <!ENTITY activity_stream_highlight_label_bookmarked "Nei segnalibri">
 <!ENTITY activity_stream_highlight_label_visited "Visitato">
 <!ENTITY activity_stream_highlight_label_trending "Di tendenza">
