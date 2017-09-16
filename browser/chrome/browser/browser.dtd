@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -263,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Загрузки">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Загрузки">
 <!ENTITY downloads.accesskey          "З">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -377,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
+
+<!ENTITY appMenuRecentHighlights.label "Последнее Избранное">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
@@ -555,6 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
+<!ENTITY pageAction.copyLink.label    "Копировать ссылку">
 <!ENTITY copyURLFeedback.label        "Скопировано!">
 <!ENTITY emailPageCmd.label           "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey       "п">
@@ -834,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Заголовок">
+<!ENTITY customizeMode.extraDragSpace "Место для перетаскивания">
 <!ENTITY customizeMode.toolbars2 "Панели инструментов">
 <!ENTITY customizeMode.lwthemes "Темы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мои темы">
@@ -863,6 +875,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Мобильные">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "и">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Использовать Мобильные для планшетного режима">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Автоматически скрывать">
 
 <!ENTITY getUserMedia.selectCamera.label "Доступ к камере:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
@@ -961,6 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "е">
 <!ENTITY updateManual.panelUI.label "Загрузите новую версию &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "После быстрого перезапуска, &brandShorterName; восстановит все открытые вкладки и окна, которые не были открыты в режиме приватного просмотра.">
 <!ENTITY updateRestart.header.message2 "Перезапустить &brandShorterName; для обновления.">
 <!ENTITY updateRestart.acceptButton.label "Перезапустить и восстановить">
 <!ENTITY updateRestart.acceptButton.accesskey "з">
@@ -972,6 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавить на панель адреса">
 <!ENTITY pageAction.removeFromUrlbar.label "Удалить с панели адреса">
 
+<!ENTITY pageAction.sendTabToDevice.label "Отправить вкладку на устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">

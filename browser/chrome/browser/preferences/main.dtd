@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Восстановить по умолчанию">
 <!ENTITY restoreDefault.accesskey  "о">
 
+<!ENTITY disableExtension.label    "Отключить расширение">
+
 <!ENTITY downloads.label     "Загрузки">
 
 <!ENTITY saveTo.label "Путь для сохранения файлов">
