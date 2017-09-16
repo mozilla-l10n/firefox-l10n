@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -241,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
 <!ENTITY hideBookmarksToolbar.label         "Skryť panel nástrojov Záložky">
 <!ENTITY searchBookmarks.label              "Hľadať v záložkách">
+<!ENTITY bookmarkingTools.label             "Nástroje pre prácu so záložkami">
 <!ENTITY addBookmarksMenu.label             "Pridať ponuku záložiek do panela nástrojov">
 <!ENTITY removeBookmarksMenu.label          "Odstrániť ponuku záložiek z panela nástrojov">
 
@@ -377,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
+
+<!ENTITY appMenuRecentHighlights.label "Nedávno vybrané">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
 <!ENTITY customizeMenu.addToToolbar.accesskey "s">
@@ -556,6 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "V">
 <!ENTITY pageAction.copyLink.label    "Skopírovať odkaz">
+<!ENTITY copyURLFeedback.label        "Odkaz bol skopírovaný!">
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Uložiť stránku ako…">
@@ -826,13 +837,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Z">
-<!ENTITY syncToolbarButton.label      "Synchroni&#xad;zácia">
+<!ENTITY syncToolbarButton.label      "Synchronizácia">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Presuňte svoje obľúbené položky na panel nástrojov alebo do rozširujúcej ponuky.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
 <!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Panel s titulkom okna">
+<!ENTITY customizeMode.extraDragSpace "Priestor na presunutie">
 <!ENTITY customizeMode.toolbars2 "Panely s nástrojmi">
 <!ENTITY customizeMode.lwthemes "Témy">
 <!ENTITY customizeMode.lwthemes.myThemes "Moje témy">
@@ -862,6 +875,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Hustota pre dotykové zariadenia">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "V režime tabletu použiť hustotu pre dotykové zariadenia">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Automaticky skrývať">
 
 <!ENTITY getUserMedia.selectCamera.label "Zdieľať kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -933,7 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.openNewWindow           "otvoríte nové prázdne okno">
 
 <!ENTITY panicButton.view.undoWarning             "Akciu nie je možné vrátiť späť.">
-<!ENTITY panicButton.view.forgetButton            "Zabudnúť">
+<!ENTITY panicButton.view.forgetButton            "Zabudnúť!">
 
 <!ENTITY panicButton.thankyou.msg1                "Vaša nedávna história je teraz vymazaná.">
 <!ENTITY panicButton.thankyou.msg2                "Prajeme bezpečné prehliadanie!">
@@ -960,6 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "Po rýchlom reštarte obnoví &brandShorterName; všetky vaše otvorené karty okná, ktoré nie sú otvorené v režime Súkromné prehliadanie.">
 <!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -974,3 +990,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Odoslať kartu do zariadenia">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
+<!ENTITY libraryButton.tooltip "Zobrazí históriu, uložené záložky a ďalšie">
