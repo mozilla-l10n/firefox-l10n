@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Tillägg">
 <!ENTITY aboutAddons.header2                    "Dina tillägg">
-<!ENTITY aboutAddons.options                    "Inställningar">
 
 <!ENTITY addonAction.enable                     "Aktivera">
 <!ENTITY addonAction.disable                    "Inaktivera">
 <!ENTITY addonAction.uninstall                  "Avinstallera">
 <!ENTITY addonAction.undo                       "Ångra">
+<!ENTITY addonAction.update                     "Uppdatera">
 
 <!ENTITY addonUnsigned.message                  "Detta tillägg kunde i verifieras av &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Lär dig mer">
