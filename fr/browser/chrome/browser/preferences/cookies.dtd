@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "40em">
 
-<!ENTITY     cookiesonsystem.label          "Les cookies suivants sont stockés sur votre ordinateur :">
+<!ENTITY     cookiesonsystem2.label         "Les cookies suivants sont stockés sur votre ordinateur">
 <!ENTITY     cookiename.label               "Nom du cookie">
 <!ENTITY     cookiedomain.label             "Site">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Rechercher">
 <!ENTITY     searchFilter.accesskey         "R">
