@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Iskalna vrstica">
+
+<!ENTITY searchBar.hidden.label                "Za iskanje in brskanje uporabite naslovno vrstico">
+<!ENTITY searchBar.shown.label                 "Dodajte iskalno vrstico v orodno vrstico">
+
 <!ENTITY defaultSearchEngine.label             "Privzet iskalnik">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.">
