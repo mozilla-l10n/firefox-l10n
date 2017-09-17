@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "નીચેની કુકીઓ તમારા કમ્પ્યૂટર પર સંગ્રહિત છે:">
+<!ENTITY     cookiesonsystem2.label         "નીચેનાં કુકીઝ તમારાં કમ્પ્યુટરમાં સંગ્રહિત છે">
 <!ENTITY     cookiename.label               "કુકી નામ">
 <!ENTITY     cookiedomain.label             "સાઈટ">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "કુકીઓ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "શોધો">
 <!ENTITY     searchFilter.accesskey         "S">
