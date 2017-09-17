@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "将不对下列语言提供翻译功能：">
+<!ENTITY noTranslationForLanguages2.label "翻译不支持下列语言">
 <!ENTITY treehead.languageName.label      "语言">
 <!ENTITY removeLanguage.label             "移除语言">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "移除所有语言">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "将不对下列站点提供翻译功能：">
+<!ENTITY noTranslationForSites2.label     "翻译不支持下列网站">
 <!ENTITY treehead.siteName2.label         "网站">
 <!ENTITY removeSite.label                 "移除此站点">
 <!ENTITY removeSite.accesskey             "S">

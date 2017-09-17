@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "移除站点数据">
 <!ENTITY     removingSelected.description  "移除站点数据也会删除相关的 Cookie 和脱机网络内容，这可能使您的网站登录状态丢失。确定进行此更改吗？">
-<!ENTITY     siteTree.label                "下列网站 Cookie 将被移除：">
+<!ENTITY     siteTree2.label               "下列网站的 Cookie 将被删除">

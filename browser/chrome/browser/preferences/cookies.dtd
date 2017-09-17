@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "以下是在您的计算机上存储的 Cookie：">
+<!ENTITY     cookiesonsystem2.label         "下列 Cookie 存储在您的计算机上">
 <!ENTITY     cookiename.label               "Cookie 名称">
 <!ENTITY     cookiedomain.label             "站点">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "搜索">
 <!ENTITY     searchFilter.accesskey         "S">

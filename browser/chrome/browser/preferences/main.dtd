@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "恢复默认设置">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "禁用扩展">
+
 <!ENTITY downloads.label     "下载">
 
 <!ENTITY saveTo.label "保存文件至">
