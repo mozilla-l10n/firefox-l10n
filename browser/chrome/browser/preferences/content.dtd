@@ -16,20 +16,20 @@
 
 <!ENTITY  notificationPermissions.label                         "Bildirimler">
 <!ENTITY  notificationSettingsButton.label                      "Ayarlar…">
-<!ENTITY  notificationSettingsButton.accesskey                  "a">
+<!ENTITY  notificationSettingsButton.accesskey                  "r">
 <!ENTITY  notificationPermissionsLearnMore.label                "Daha fazlası">
 
 <!ENTITY  locationPermissions.label                             "Konum">
 <!ENTITY  locationSettingsButton.label                          "Ayarlar…">
-<!ENTITY  locationSettingsButton.accesskey                      "u">
+<!ENTITY  locationSettingsButton.accesskey                      "r">
 
 <!ENTITY  cameraPermissions.label                               "Kamera">
 <!ENTITY  cameraSettingsButton.label                            "Ayarlar…">
-<!ENTITY  cameraSettingsButton.accesskey                        "k">
+<!ENTITY  cameraSettingsButton.accesskey                        "r">
 
 <!ENTITY  microphonePermissions.label                           "Mikrofon">
 <!ENTITY  microphoneSettingsButton.label                        "Ayarlar…">
-<!ENTITY  microphoneSettingsButton.accesskey                    "m">
+<!ENTITY  microphoneSettingsButton.accesskey                    "r">
 
 <!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 
@@ -46,7 +46,7 @@
 
 
 <!ENTITY language2.label              "Dil">
-<!ENTITY chooseLanguage.label         "Sayfaların gösteriminde kullanılacak dili seçin">
+<!ENTITY chooseLanguage.label         "Sayfaları hangi dilde görmeyi tercih ettiğinizi seçin">
 <!ENTITY chooseButton.label           "Seç…">
 <!ENTITY chooseButton.accesskey       "S">
 
