@@ -191,7 +191,6 @@
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Incluir un adjunto">
 <!ENTITY spellingButton.tooltip "Revisar ortografía de la selección o del mensaje completo">
-<!ENTITY statusLanguageText.tooltip "Idioma para corrección ortográfica">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
 <!ENTITY cutButton.tooltip "Cortar">
 <!ENTITY copyButton.tooltip "Copiar">
@@ -268,3 +267,5 @@
 <!ENTITY addressesSidebarTitle.label "Contactos">
 <!ENTITY customizeFromAddress.label "Personalizar dirección De…">
 <!ENTITY customizeFromAddress.accesskey "D">
+<!ENTITY languageStatusButton.tooltip "Idioma de revisión ortográfica">
+<!ENTITY encodingStatusPanel.tooltip "Codificación de texto">
