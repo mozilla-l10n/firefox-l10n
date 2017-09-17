@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "સુરક્ષા">
-<!ENTITY  phishingProtection.label       "ફિશીંગ પ્રોટેક્શન">
 
 <!ENTITY  warnOnAddonInstall2.label       "તમને ચેતવે છે જ્યારે વેબસાઇટ્સ ઍડ-ઑન્સ ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે">
 <!ENTITY  warnOnAddonInstall2.accesskey   "W">
@@ -12,6 +11,8 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "ભ્રામક સામગ્રી અને ડેન્જરસ સોફ્ટવેર પ્રોટેક્શન">
 <!ENTITY  enableSafeBrowsing.label        "ખતરનાક અને ભ્રામક સામગ્રીને અવરોધિત કરો">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
