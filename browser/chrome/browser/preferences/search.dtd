@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Barra de búsqueda">
+
+<!ENTITY searchBar.hidden.label                "Usar la barra de direcciones para buscar y navegar">
+<!ENTITY searchBar.shown.label                 "Agregar barra de búsqueda a la barra de herramientas">
+
 <!ENTITY defaultSearchEngine.label             "Buscador predeterminado">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Seleccionar el buscador predeterminado para usar en la barra de direcciones y la barra de búsqueda.">
