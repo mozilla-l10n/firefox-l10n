@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Følgende infokapsler er lagret på datamaskinen din:">
+<!ENTITY     cookiesonsystem2.label         "Følgende infokapsler er lagret på datamaskinen">
 <!ENTITY     cookiename.label               "Navn">
 <!ENTITY     cookiedomain.label             "Nettsted">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Infokapsler">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Søk">
 <!ENTITY     searchFilter.accesskey         "S">
