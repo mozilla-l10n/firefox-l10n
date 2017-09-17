@@ -285,5 +285,5 @@
 <!ENTITY customizeFromAddress.label "Dostosuj adres nadawcy…">
 <!ENTITY customizeFromAddress.accesskey "D">
 
-<!ENTITY statusLanguageText.tooltip "Język sprawdzania pisowni">
+<!ENTITY languageStatusButton.tooltip "Język sprawdzania pisowni">
 <!ENTITY encodingStatusPanel.tooltip "Kodowanie tekstu">
