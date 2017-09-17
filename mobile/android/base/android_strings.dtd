@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "페이지를 불러올 때 원격으로 폰트 다운로드">
 
 <!ENTITY pref_tracking_protection_title2 "추적 방지">
-<!ENTITY pref_tracking_protection_summary3 "사생활 보호모드 활성화됨">
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; 추천">
 <!ENTITY activity_stream_highlights "하이라이트">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "더보기">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
