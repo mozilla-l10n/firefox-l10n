@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "从通讯录中选择一个收件人">
 <!ENTITY attachButton.tooltip "添加附件">
 <!ENTITY spellingButton.tooltip "检查选定的或整个消息的拼写">
-<!ENTITY statusLanguageText.tooltip "拼写检查语言">
 <!ENTITY saveButton.tooltip "保存此消息">
 <!ENTITY cutButton.tooltip              "剪切">
 <!ENTITY copyButton.tooltip             "复制">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "自定义发件人地址…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "拼写检查语言">
+<!ENTITY encodingStatusPanel.tooltip "文字编码">
