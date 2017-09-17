@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Aldonaĵoj">
 <!ENTITY aboutAddons.header2                    "Viaj aldonaĵoj">
-<!ENTITY aboutAddons.options                    "Elekteblo">
 
 <!ENTITY addonAction.enable                     "Ebligi">
 <!ENTITY addonAction.disable                    "Malaktivigi">
 <!ENTITY addonAction.uninstall                  "Malinstali">
 <!ENTITY addonAction.undo                       "Malfari">
+<!ENTITY addonAction.update                     "Ĝisdatigi">
 
 <!ENTITY addonUnsigned.message                  "Tiu ĉi aldonaĵo ne povis esti kontrolita de &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Pli da informo">
