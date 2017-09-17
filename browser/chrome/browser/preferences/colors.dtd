@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "ઉપરોક્ત તમારી પસંદગીઓ સાથે પૃષ્ઠ દ્વારા ઉલ્લેખિત રંગોને ઓવરરાઇડ કરો:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "ઉપરોક્ત તમારી પસંદગીઓ સાથે પૃષ્ઠ દ્વારા ઉલ્લેખિત રંગોને ઓવરરાઇડ કરો">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "હંમેશા">
 <!ENTITY  overrideDefaultPageColors.auto.label   "ફક્ત ઉચ્ચ વિરોધાભાસ વિષય સાથે">
