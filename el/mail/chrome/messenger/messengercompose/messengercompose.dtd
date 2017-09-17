@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Επιλογή παραλήπτη από το Ευρετήριο Διευθύνσεων">
 <!ENTITY attachButton.tooltip "Εισαγωγή ενός συνημμένου">
 <!ENTITY spellingButton.tooltip "Ορθογραφικός έλεγχος επιλογής ή ολόκληρου του μηνύματος">
-<!ENTITY statusLanguageText.tooltip "Γλώσσα ορθογραφικού ελέγχου">
 <!ENTITY saveButton.tooltip "Αποθήκευση μηνύματος">
 <!ENTITY cutButton.tooltip              "Αποκοπή">
 <!ENTITY copyButton.tooltip             "Αντιγραφή">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Προσαρμογή από διεύθυνση…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Γλώσσα ορθογραφικού ελέγχου">
+<!ENTITY encodingStatusPanel.tooltip "Κωδικοποίηση κειμένου">
