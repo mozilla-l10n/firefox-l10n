@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 
+<!ENTITY appMenuRecentHighlights.label "Siste høgdepunkt">
 
 <!ENTITY customizeMenu.addToToolbar.label "Legg til i verktøylinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -844,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
 <!ENTITY customizeMode.done "Ferdig">
 <!ENTITY customizeMode.titlebar "Tittellinje">
+<!ENTITY customizeMode.extraDragSpace "Dra-og-slepp-område">
 <!ENTITY customizeMode.toolbars2 "Verktøylinjer">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine tema">
