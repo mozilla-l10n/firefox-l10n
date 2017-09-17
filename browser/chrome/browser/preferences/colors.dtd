@@ -5,8 +5,8 @@
 <!ENTITY colorsDialog.title "Colores">
 <!ENTITY window.width "48em">
 <!ENTITY window.macWidth "49em">
-<!ENTITY overrideDefaultPageColors.label "Reemplazar los colores especificados por la página con sus selecciones de arriba:">
-<!ENTITY overrideDefaultPageColors.accesskey "R">
+<!ENTITY overrideDefaultPageColors2.label "Sustituir los colores especificados por la página con sus selecciones de arriba">
+<!ENTITY overrideDefaultPageColors2.accesskey "u">
 <!ENTITY overrideDefaultPageColors.always.label "Siempre">
 <!ENTITY overrideDefaultPageColors.auto.label "Solo con temas de alto contraste">
 <!ENTITY overrideDefaultPageColors.never.label "Nunca">
