@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.header2                    "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
-<!ENTITY aboutAddons.options                    "ਚੋਣਾਂ">
 
 <!ENTITY addonAction.enable                     "ਚਾਲੂ">
 <!ENTITY addonAction.disable                    "ਬੰਦ">
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
+<!ENTITY addonAction.update                     "ਅੱਪਡੇਟ ਕਰੋ">
 
 <!ENTITY addonUnsigned.message                  "ਇਸ ਐਡ-ਆਨ ਨੂੰ &brandShortName; ਵਲੋਂ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।">
 <!ENTITY addonUnsigned.learnMore                "ਹੋਰ ਜਾਣੋ">
