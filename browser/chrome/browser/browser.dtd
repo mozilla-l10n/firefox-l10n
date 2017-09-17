@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "મૂળભૂતને પુન:સંગ્રહો">
 <!ENTITY customizeMode.done "પૂર્ણ થયું">
 <!ENTITY customizeMode.titlebar "શીર્ષક પટ્ટી">
+<!ENTITY customizeMode.extraDragSpace "ખસેડેલી જગ્યા  ">
 <!ENTITY customizeMode.toolbars2 "સાધનપટ્ટીઓ">
 <!ENTITY customizeMode.lwthemes "વિષય">
 <!ENTITY customizeMode.lwthemes.myThemes "મારી વિષયવસ્તુઓ">
