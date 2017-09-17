@@ -4,6 +4,8 @@
 
 <!ENTITY searchBar.label                       "Søkelinje">
 
+<!ENTITY searchBar.hidden.label                "Bruk adresselinjen for søk og navigering">
+<!ENTITY searchBar.shown.label                 "Legg til søkelinje i verktøylinjen">
 
 <!ENTITY defaultSearchEngine.label             "Standard søkemotor">
 
