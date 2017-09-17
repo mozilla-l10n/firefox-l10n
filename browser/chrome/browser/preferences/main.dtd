@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "بازگرداندن به پیش‌فرض‌">
 <!ENTITY restoreDefault.accesskey  "ب">
 
+<!ENTITY disableExtension.label    "غیرفعال سازی افزونه">
+
 <!ENTITY downloads.label     "بارگیری‌ها">
 
 <!ENTITY saveTo.label "ذخیره پرونده در">
