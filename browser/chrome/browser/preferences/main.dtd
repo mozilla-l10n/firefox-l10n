@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Norma paĝo">
 <!ENTITY restoreDefault.accesskey  "N">
 
+<!ENTITY disableExtension.label    "Malaktivigi etendaĵon">
+
 <!ENTITY downloads.label     "Elŝutoj">
 
 <!ENTITY saveTo.label "Konservi dosierojn en">

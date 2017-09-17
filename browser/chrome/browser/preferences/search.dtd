@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Serĉa strio">
+
+<!ENTITY searchBar.hidden.label                "Uzi la adresan strion por serĉi kaj viziti">
+<!ENTITY searchBar.shown.label                 "Aldoni serĉan strion al ilaro">
+
 <!ENTITY defaultSearchEngine.label             "Norma serĉilo">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Elekti la norman serĉilon por la adresa kaj serĉa strio.">

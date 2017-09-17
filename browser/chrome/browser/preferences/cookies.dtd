@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "La jenaj kuketoj estas konservitaj en via komputilo:">
+<!ENTITY     cookiesonsystem2.label         "La jenaj kuketoj estas konservitaj en via komputilo">
 <!ENTITY     cookiename.label               "Nomo de kuketo">
 <!ENTITY     cookiedomain.label             "Retejo">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Kuketoj">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Serĉi">
 <!ENTITY     searchFilter.accesskey         "S">

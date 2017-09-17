@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Superregi la kolorojn specifitajn de la paĝo per viaj supraj elektoj:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "S">
+<!ENTITY  overrideDefaultPageColors2.label       "Superregi la kolorojn specifitajn de la paĝo per viaj supraj elektoj">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "S">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Ĉiam">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Nur en etosojkun granda konstrasto">
