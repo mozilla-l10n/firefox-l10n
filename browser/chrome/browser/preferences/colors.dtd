@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "رونویسی رنگ‌های مشخص شده توسط صفحه با انتخاب‌های بالای من:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "ر">
+<!ENTITY  overrideDefaultPageColors2.label       "نادیده گرفتن رنگ مشخص شده توسط صفحه ای که شما در زیر انتخاب کرده‌اید">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "همیشه">
 <!ENTITY  overrideDefaultPageColors.auto.label   "تنها تم با کنتراست بالا">
