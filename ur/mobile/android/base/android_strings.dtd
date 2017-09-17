@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
-
-<!ENTITY firstrun_urlbar_message "&brandShortName; میں خوش آمدید">
-<!ENTITY firstrun_urlbar_subtext "چیزوں کو جلدی ڈھونڈیں مددگار تلاش کردہ تجاویز اورتیز راہیں کے ساتھ">
+<!ENTITY firstrun_panel_title_privacy "رازداری">
 <!ENTITY firstrun_bookmarks_title "سابقات">
 <!ENTITY firstrun_bookmarks_message "آپکے پسندیدہ، سامنہ اور مرکز">
 <!ENTITY firstrun_bookmarks_subtext "نتائج حاصل کریں اپنی نشانیاں اور سابقات سے جب آپ تلاش کریں۔">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
-<!ENTITY firstrun_sync_message "&brandShortName;، ہمیشہ آپ کے ساتھ">
-<!ENTITY firstrun_sync_subtext "اپنے ٹیب، پاسورڈ، اور بھی بہت کچھ ہم ساز کرے جھا بھی آپ استعمال کریں۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
 <!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
@@ -201,8 +197,6 @@
 <!ENTITY pref_category_advanced_summary3 "ٹیبس بحال کریں، کوائف محفوظ کار، تخلیق کار ٹولز">
 <!ENTITY pref_category_notifications "اعلانات">
 <!ENTITY pref_category_notifications_summary "نئے فیچرز، ویب سائٹ کی تازہ کاریاں">
-<!ENTITY pref_content_notifications "ویب سائٹ تازہکاریاں">
-<!ENTITY pref_content_notifications_summary2 "معاونت کردہ سائٹ سے نیا مواد دریافت کریں">
 <!ENTITY pref_developer_remotedebugging_usb "USB کے ذریعے بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_wifi "وائی فائی کے ذریعے بعید ٹھیک کاری ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "وائی فائی ٹھیک کاری کے لیے آپ کے آلے پر QR ضابطہ ناظر ایپ تنصیب شدہ ہونی چاہیے۔">
@@ -268,7 +262,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "حب صفحہ لوڈ ہو رہا ہو بعیدفانٹ کو ڈاؤن لوڈ کریں">
 
 <!ENTITY pref_tracking_protection_title2 "سراغ راہ سے حفاظت">
-<!ENTITY pref_tracking_protection_summary3 "نجی براؤزنگ میں اہل کردہ">
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
@@ -323,24 +316,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "\&quot;ایک سے زیادہ لنک کھولنے\&quot; کے لئے، براہ مہربانی \u0027Draw over other apps\u0027 &brandShortName; کے لئے اجازت کو اہل بنائے">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; ویب سائٹ کی تازہ کاری">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "سیٹنگیں">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "اب پڑھیں">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "تازہ کاری مکمل &formatS;">
+<!ENTITY tab_queue_notification_settings "\&quot;ایک سے زیادہ لنک کھولنے\&quot; کے لئے، براہ مہربانی \&apos;Draw over other apps\&apos; &brandShortName; کے لئے اجازت کو اہل بنائے">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -350,7 +326,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ابھی خالی کریں">
 <!ENTITY pref_clear_on_exit_title3 "نجی کوائف صاف کریں خروج پر">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \u0022Quit\u0022  منتخب کریں گے">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; خود بخود آپ کے کوائف صاف کردے گا جب بھی آپ مرکزی مینیو سے \&quot;Quit\&quot;  منتخب کریں گے">
 <!ENTITY pref_clear_on_exit_dialog_title "منتخب کریں کون سے کوائف خالی کرنے ہیں">
 <!ENTITY pref_restore_tabs "ٹیبیں بحال کریں">
 <!ENTITY pref_restore_always "ہمیشہ بحال کریں">
@@ -398,6 +374,9 @@
 <!ENTITY pref_dialog_set_default "بطور طے شدہ سیٹ کریں">
 <!ENTITY pref_dialog_default "طے شدہ">
 <!ENTITY pref_dialog_remove "ہٹائیں">
+<!ENTITY pref_dialog_activitystream_header_content "اضافی مواد">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "حالیہ نشانیاں">
+<!ENTITY pref_dialog_activitystream_visited "دورہ شدہ">
 
 <!ENTITY pref_search_last_toast "آپ اپنا آخری تلاش انجن ہٹا یا نااہل نہیں کر سکتے۔">
 
@@ -499,7 +478,14 @@
 <!ENTITY contextmenu_top_sites_edit "تدوین">
 <!ENTITY contextmenu_top_sites_pin "سائٹ پنپن کریں">
 <!ENTITY contextmenu_top_sites_unpin "سائٹ کو اتاریں">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "بہترین سائٹٹ کو پن کریں">
 <!ENTITY contextmenu_add_search_engine "تلاش انجن اضافہ کریں">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -816,7 +802,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "نشانیوں میں اضافہ کریں">
 
 <!ENTITY activity_stream_topsites "بہترین سائٹیں">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "نمایاں">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "مزید">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -824,14 +814,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ملاحظہ کی گئی">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "برخاست کریں">
+<!ENTITY activity_stream_remove "ہٹائیں">
 <!ENTITY activity_stream_delete_history "تاریخ سے حذف کریں">
 
-<!ENTITY activity_stream_welcome_title "اپنی جھلکیوں میں خوشامدید">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; اب بنائیں جھلکیاں ان اشیاء کی جو آپ نے ویب پر دریافت کی ہے تاکہ آپ آلہ عبارت، وڈیوز، نشانیاں، اور دیگر صفحات تک اپنا واپسی کا راستہ ڈھونڈ سکیں۔">
-
 <!ENTITY private_tab_learn_more "مزید سیکھنا چاہیں گے؟">
+

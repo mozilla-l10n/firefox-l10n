@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "نا اہل بنائیں">
 <!ENTITY addonAction.uninstall                  "ناتنصیب کریں">
 <!ENTITY addonAction.undo                       "کالعدم کریں">
+<!ENTITY addonAction.update                     "تازہ کاری">
 
 <!ENTITY addonUnsigned.message                  "اس ایڈ-اون کی &brandShortName; کے طور پر تصدیق نہیں کی جا سکی۔">
 <!ENTITY addonUnsigned.learnMore                "اور سیکھیں">
