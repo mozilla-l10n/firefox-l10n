@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Boje i pozadina stranice">
 <!ENTITY pageColors.label "Boje stranice">
 <!ENTITY defaultColorsRadio.label "Izvorne boje čitača (ne postavljaj boje na stranici)">
@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Pozadinska slika:">
 <!ENTITY backgroundImage.accessKey "s">
 <!ENTITY backgroundImage.tooltip "Koristi fajl sa slikom kao pozadinu stranice">
-
+<!ENTITY backgroundImage.shortenedDataURI "Skraćen URI podataka (kada se kopira, cijeli URI će biti sačuvan u međuspremniku)">
