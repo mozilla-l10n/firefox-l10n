@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "คุกกี้ดังต่อไปนี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ:">
+<!ENTITY     cookiesonsystem2.label         "คุกกี้ดังต่อไปนี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
 <!ENTITY     cookiename.label               "ชื่อคุกกี้">
 <!ENTITY     cookiedomain.label             "ไซต์">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "คุกกี้">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "ค้นหา">
 <!ENTITY     searchFilter.accesskey         "ค">
