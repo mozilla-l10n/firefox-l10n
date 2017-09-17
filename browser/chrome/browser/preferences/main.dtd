@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Still tilbake til standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
+<!ENTITY disableExtension.label    "Slå av utviding">
+
 <!ENTITY downloads.label     "Nedlastingar">
 
 <!ENTITY saveTo.label "Lagre filer i">
