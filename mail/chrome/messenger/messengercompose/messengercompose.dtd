@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Жазу: (тақырыпсыз)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Файл">
 <!ENTITY fileMenu.accesskey "Ф">
 <!ENTITY newMenu.label "Жаңа">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Баспаға шығару…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "п">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Түзету">
 <!ENTITY editMenu.accesskey "Т">
 <!ENTITY undoCmd.label "Болдырмау">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "А">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Түрі">
 <!ENTITY viewMenu.accesskey "р">
 <!ENTITY viewToolbarsMenuNew.label "Саймандар панельдері">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Контакттар бүйір панелі">
 <!ENTITY addressSidebar.accesskey "о">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Пішім">
 <!ENTITY formatMenu.accesskey "ш">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Баптаулар">
 <!ENTITY optionsMenu.accesskey "а">
 <!ENTITY checkSpellingCmd2.label "Емлені тексеру…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "Т">
 <!ENTITY quoteCmd.label "Хабарламаны дәйексөз ретінде алу">
 <!ENTITY quoteCmd.accesskey "д">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Жеке картаны тіркеу (vCard)">
 <!ENTITY attachVCard.accesskey "к">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Көшірмесін қайда жіберу">
 <!ENTITY fileCarbonCopyCmd.accesskey "б">
 <!ENTITY fileHereMenu.label "Осында орналастыру">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Саймандар">
 <!ENTITY tasksMenu.accesskey "С">
 <!ENTITY messengerCmd.label "Пошта және жаңалықтар топтары">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "а">
 <!ENTITY preferencesCmdUnix.label "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey "м">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Қайыру">
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Масштаб">
 <!ENTITY windowMenu.label "Терезе">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Жіберу">
 <!ENTITY quoteButton.label "Дәйексөз">
 <!ENTITY addressButton.label "Контакттар">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Емлені тексеру">
 <!ENTITY saveButton.label "Сақтау">
 <!ENTITY printButton.label "Баспаға шығару">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Бұл хабарламаны қазір жіберу">
 <!ENTITY sendlaterButton.tooltip "Бұл хабарламаны кейін жіберу">
 <!ENTITY quoteButton.tooltip "Алдыңғы хабарламаны дәйексөз ретінде алу">
 <!ENTITY addressButton.tooltip "Адрестік кітапшадан алушыны таңдау">
 <!ENTITY attachButton.tooltip "Салынымды қосу">
 <!ENTITY spellingButton.tooltip "Таңдалғанның немесе толық хабарламаның емлесін тексеру">
-<!ENTITY statusLanguageText.tooltip "Емлені тексеру тілі">
 <!ENTITY saveButton.tooltip "Бұл хабарламаны сақтау">
 <!ENTITY cutButton.tooltip              "Қиып алу">
 <!ENTITY copyButton.tooltip             "Көшіріп алу">
 <!ENTITY pasteButton.tooltip            "Кірістіру">
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Кімнен:">
 <!ENTITY fromAddr.accesskey "м">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "м">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Смайликті кірістіру">
 <!ENTITY smiley1Cmd.label "Күлімдеу">
 <!ENTITY smiley2Cmd.label "Қабағын түю">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Айыпсыз">
 <!ENTITY smiley15Cmd.label "Жылау">
 <!ENTITY smiley16Cmd.label "Үндемеу">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ұсыныстар табылмады">
 <!ENTITY spellCheckIgnoreWord.label "Сөзді елемеу">
 <!ENTITY spellCheckIgnoreWord.accesskey "е">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "а">
 <!ENTITY attachPage.label "Веб парағын тіркеу…">
 <!ENTITY attachPage.accesskey "В">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
 <!ENTITY spellAddDictionaries.accesskey "С">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Контакттар">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Жіберуші адресін баптау…">
 <!ENTITY customizeFromAddress.accesskey "а">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Емлені тексеру тілі">
+<!ENTITY encodingStatusPanel.tooltip "Мәтін кодталуы">
