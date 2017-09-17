@@ -35,4 +35,12 @@
 <!ENTITY     blockSite.accesskey            "S">
 <!ENTITY     allowSite.label                "Izinkan">
 <!ENTITY     allowSite.accesskey            "I">
+<!ENTITY     allowSiteSession.label         "Sesi">
+<!ENTITY     allowSiteSession.accesskey     "S">
+<!ENTITY     removepermission.label         "Buang Laman Web">
+<!ENTITY     removepermission.accesskey     "B">
+<!ENTITY     removeallpermissions.label     "Buang Semua Laman Web">
+<!ENTITY     removeallpermissions.accesskey "e">
 
+<!ENTITY     futureCookies.label            "Jangan izinkan laman web yang ditetapkan supaya membuang kuki daripada menetapkan kuki">
+<!ENTITY     futureCookies.accesskey        "J">
