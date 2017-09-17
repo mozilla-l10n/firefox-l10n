@@ -19,6 +19,11 @@
 <!ENTITY links                             "Warna Pautan">
 <!ENTITY linkColor.label                   "Pautan Belum Dilawati:">
 <!ENTITY linkColor.accesskey               "P">
+<!ENTITY activeLinkColor.label             "Pautan Aktif:">
+<!ENTITY activeLinkColor.accesskey         "k">
+<!ENTITY visitedLinkColor.label            "Pautan Dilawati:">
+<!ENTITY visitedLinkColor.accesskey        "D">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!ENTITY someProvColors                    "Apabila halaman web menyediakan warna dan latar belakang sendiri">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
