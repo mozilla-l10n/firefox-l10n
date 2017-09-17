@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Pisać: (žana tema)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Dataja">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Nowy">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Ćišćeć…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "i">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Wobdźěłać">
 <!ENTITY editMenu.accesskey "b">
 <!ENTITY undoCmd.label "Cofnyć">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "c">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Napohlad">
 <!ENTITY viewMenu.accesskey "h">
 <!ENTITY viewToolbarsMenuNew.label "Symbolowe lajsty">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Kontaktowa bóčnica">
 <!ENTITY addressSidebar.accesskey "K">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "F">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Nastajenja">
 <!ENTITY optionsMenu.accesskey "N">
 <!ENTITY checkSpellingCmd2.label "Prawopis kontrolować…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Powěsć citować">
 <!ENTITY quoteCmd.accesskey "c">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Wizitku připowěsnyć (vCard)">
 <!ENTITY attachVCard.accesskey "z">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Kopiju pósłać do">
 <!ENTITY fileCarbonCopyCmd.accesskey "K">
 <!ENTITY fileHereMenu.label "Tu wotkłasć">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Nastroje">
 <!ENTITY tasksMenu.accesskey "N">
 <!ENTITY messengerCmd.label "Póst a diskusijne skupiny">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey "N">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Miniměrować">
 <!ENTITY bringAllToFront.label "Do prědka přinjesć">
 <!ENTITY zoomWindow.label "Skalować">
 <!ENTITY windowMenu.label "Wokno">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Pósłać">
 <!ENTITY quoteButton.label "Citować">
 <!ENTITY addressButton.label "Kontakty">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Prawopis">
 <!ENTITY saveButton.label "Składować">
 <!ENTITY printButton.label "Ćišćeć">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Tutu powěsć nětko pósłać">
 <!ENTITY sendlaterButton.tooltip "Tutu powěsć pozdźišo pósłać">
 <!ENTITY quoteButton.tooltip "Předchadnu powěsć citować">
 <!ENTITY addressButton.tooltip "Přijimarja z adresnika wubrać">
 <!ENTITY attachButton.tooltip "Přiwěšk zapřijeć">
 <!ENTITY spellingButton.tooltip "Prawopis wubraneho teksta abo cyłeje powěsće kontrolować">
-<!ENTITY statusLanguageText.tooltip "Rěč prawopisneje kontrole">
 <!ENTITY saveButton.tooltip "Tutu powěsć składować">
 <!ENTITY cutButton.tooltip              "Wutřihać">
 <!ENTITY copyButton.tooltip             "Kopěrować">
 <!ENTITY pasteButton.tooltip            "Zasadźić">
 <!ENTITY printButton.tooltip "Tutu powěsć ćišćeć">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Wot:">
 <!ENTITY fromAddr.accesskey "W">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "w">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Zasuńće wobličko">
 <!ENTITY smiley1Cmd.label "Smějkot">
 <!ENTITY smiley2Cmd.label "Čołomoršćenje">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Njewinowaty">
 <!ENTITY smiley15Cmd.label "Płakać">
 <!ENTITY smiley16Cmd.label "Mjelčaty">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Žane namjety namakane">
 <!ENTITY spellCheckIgnoreWord.label "Słowo ignorować">
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "R">
 <!ENTITY attachPage.label "Webstronu připowěsnyć…">
 <!ENTITY attachPage.accesskey "W">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Słowniki přidać…">
 <!ENTITY spellAddDictionaries.accesskey "S">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Kontakty">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Z adresy přiměrić…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Prawopisna rěč">
+<!ENTITY encodingStatusPanel.tooltip "Tekstowe kodowanje">
