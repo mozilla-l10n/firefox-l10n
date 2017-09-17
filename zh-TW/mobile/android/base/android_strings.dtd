@@ -218,7 +218,7 @@
 <!ENTITY pref_category_home_add_ons "附加元件">
 <!ENTITY pref_home_updates2 "內容更新">
 <!ENTITY pref_home_updates_enabled "啟用">
-<!ENTITY pref_home_updates_wifi "僅在使用 Wi-Fi 時">
+<!ENTITY pref_home_updates_wifi "僅在透過 Wi-Fi 連線時">
 <!ENTITY pref_category_home_homepage "首頁">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
@@ -264,7 +264,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "顯示圖片">
 <!ENTITY pref_tap_to_load_images_enabled "一律顯示">
-<!ENTITY pref_tap_to_load_images_data "僅在使用 Wi-Fi 時">
+<!ENTITY pref_tap_to_load_images_data "僅在透過 Wi-Fi 連線時">
 <!ENTITY pref_tap_to_load_images_disabled2 "封鎖">
 
 <!ENTITY pref_show_web_fonts "顯示網路字型">
@@ -353,7 +353,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "允許自動播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制網站是否能夠自動播放影片或其他媒體內容">
-<!ENTITY pref_zoom_force_enabled "總是啟用縮放">
+<!ENTITY pref_zoom_force_enabled "隨時啟用縮放">
 <!ENTITY pref_zoom_force_enabled_summary "強制讓所有網頁都能縮放大小">
 <!ENTITY pref_voice_input "語音輸入">
 <!ENTITY pref_voice_input_summary2 "允許在網址列使用語音輸入">
@@ -427,12 +427,12 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "程式錯誤回報員">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
-<!ENTITY datareporting_wifi_geolocation_summary4 "一起來幫忙 &vendorShortName; 畫出全世界的地圖！請分享您的裝置的大略 Wi-Fi 與行動基地台位置，以幫助我們改善地理位置定位服務。">
+<!ENTITY datareporting_wifi_geolocation_summary4 "一起來幫忙 &vendorShortName; 畫出全世界的地圖！請分享您的裝置的大略 Wi-Fi 與行動基地台位置，以幫助我們改善地理位置定位服務">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "自動更新">
-<!ENTITY pref_update_autodownload_wifi "僅在使用 Wi-Fi 時">
+<!ENTITY pref_update_autodownload_wifi "僅在透過 Wi-Fi 連線時">
 <!ENTITY pref_update_autodownload_never "永不">
 <!ENTITY pref_update_autodownload_always "一律下載">
 
@@ -524,13 +524,13 @@
 <!ENTITY pref_scroll_title_bar2 "全螢幕瀏覽">
 <!ENTITY pref_scroll_title_bar_summary2 "捲動網頁時隱藏 &brandShortName; 工具列">
 
-<!ENTITY pref_tab_queue_title3 "分頁佇列">
+<!ENTITY pref_tab_queue_title3 "稍候開啟分頁">
 <!ENTITY pref_tab_queue_summary4 "儲存鏈結直至您下次開啟 &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "精簡分頁">
-<!ENTITY pref_compact_tabs_summary2 "垂直使用螢幕時，將分頁排成兩欄">
+<!ENTITY pref_compact_tabs_summary2 "垂直使用螢幕時，將分頁清單排成兩欄">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
