@@ -263,7 +263,7 @@
 <!ENTITY pref_category_developer_tools "開發者工具">
 
 <!ENTITY pref_tap_to_load_images_title2 "顯示圖片">
-<!ENTITY pref_tap_to_load_images_enabled "總是">
+<!ENTITY pref_tap_to_load_images_enabled "一律顯示">
 <!ENTITY pref_tap_to_load_images_data "僅在使用 Wi-Fi 時">
 <!ENTITY pref_tap_to_load_images_disabled2 "封鎖">
 
@@ -343,7 +343,7 @@
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; 將會在您選擇主選單中的「離開」時自動清除您的資料">
 <!ENTITY pref_clear_on_exit_dialog_title "選擇要清除的資料">
 <!ENTITY pref_restore_tabs "還原分頁">
-<!ENTITY pref_restore_always "總是還原">
+<!ENTITY pref_restore_always "一律還原">
 <!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
@@ -373,13 +373,13 @@
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
 <!ENTITY pref_private_data_searchHistory "搜尋紀錄">
 <!ENTITY pref_private_data_formdata2 "表單填寫紀錄">
-<!ENTITY pref_private_data_cookies2 "Cookie 與目前的登入狀況">
+<!ENTITY pref_private_data_cookies2 "Cookie 與目前的網站登入狀態">
 <!ENTITY pref_private_data_passwords2 "儲存的登入資訊">
 <!ENTITY pref_private_data_cache "快取">
 <!ENTITY pref_private_data_offlineApps "網站離線資料">
 <!ENTITY pref_private_data_siteSettings2 "網站設定">
 <!ENTITY pref_private_data_downloadFiles2 "下載項目">
-<!ENTITY pref_private_data_syncedTabs "已同步的分頁">
+<!ENTITY pref_private_data_syncedTabs "同步的分頁">
 
 <!ENTITY pref_default_browser "設為預設瀏覽器">
 <!ENTITY pref_default_browser_mozilla_support_tablet "前往 Mozilla 技術支援站">
@@ -434,7 +434,7 @@
 <!ENTITY pref_update_autodownload3 "自動更新">
 <!ENTITY pref_update_autodownload_wifi "僅在使用 Wi-Fi 時">
 <!ENTITY pref_update_autodownload_never "永不">
-<!ENTITY pref_update_autodownload_always "總是">
+<!ENTITY pref_update_autodownload_always "一律下載">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "說明">
