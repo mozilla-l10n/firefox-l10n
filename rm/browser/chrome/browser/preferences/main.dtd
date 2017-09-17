@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Restaurar il standard">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Deactivar l'extensiun">
+
 <!ENTITY downloads.label     "Telechargiadas">
 
 <!ENTITY saveTo.label "Memorisar las datotecas en il suandant ordinatur:">

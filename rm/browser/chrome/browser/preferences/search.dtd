@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Trav da tschertgar">
+
+<!ENTITY searchBar.hidden.label                "Utilisar la trav d'adressas per tschertgar e navigar">
+<!ENTITY searchBar.shown.label                 "Agiuntar la trav da tschertgar a la trav d'utensils">
+
 <!ENTITY defaultSearchEngine.label             "Maschina da tschertgar da standard">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Tscherna la maschina da tschertgar da standard per la trav d'adressas e la trav da tschertgar.">

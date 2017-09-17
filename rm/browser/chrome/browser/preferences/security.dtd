@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Segirezza">
-<!ENTITY  phishingProtection.label       "Protecziun encunter phishing">
 
 <!ENTITY  warnOnAddonInstall2.label       "Avertir, sche websites emprovan d'installar supplements">
 <!ENTITY  warnOnAddonInstall2.accesskey   "i">
@@ -12,6 +11,8 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Protecziun encunter cuntegn engianaivel e software privlusa">
 <!ENTITY  enableSafeBrowsing.label        "Bloccar cuntegn privlus ed engianaivel">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
