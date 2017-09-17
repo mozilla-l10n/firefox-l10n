@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "위에 선택한 색상으로 페이지에서 선택한 색상 덮어씀:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "위에 선택한 색상으로 페이지에서 선택한 색상 덮어씀">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "항상">
 <!ENTITY  overrideDefaultPageColors.auto.label   "고대비 테마에서만">
