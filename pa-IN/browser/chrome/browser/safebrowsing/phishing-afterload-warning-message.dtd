@@ -14,6 +14,8 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "ਇਹ ਸਫ਼ੇ ਉੱਤੇ ਪਾਬੰਦੀ ਕਿਓ ਲਾਈ ਸੀ?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "<a id='advisory_provider'/> ਵਲੋਂ ਦਿੱਤੀ ਸਲਾਹ">
 
 <!ENTITY safeb.blocked.malwarePage.title "ਹਮਲਾਵਰ ਸਫ਼ੇ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤਾ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -30,3 +32,4 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ਤੋਂ ਇਸ ਵੈੱਬ ਸਫ਼ੇ ਨੂੰ ਭਰਮਪੂਰਨ ਸਾਈਟ ਵਜੋਂ ਗਰਦਾਨਿਆ ਗਿਆ ਹੈ ਅਤੇ ਤੁਹਾਡੀਆਂ ਸੁਰੱਖਿਆ ਪਸੰਦਾਂ ਮੁਤਾਬਕ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ।">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ਭਰਮਪੂਰਨ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਝਾਂਸਾ ਦੇ ਕੇ ਕੁਝ ਖ਼ਤਰਨਾਕ ਕਰਨ, ਜਿਵੇਂ ਕਿ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨੇ, ਜਾਂ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਪਾਸਵਰਡ, ਫ਼ੋਨ ਨੰਬਰ ਜਾਂ ਕਰੈਡਿਟ ਕਾਰਡ ਆਦਿ ਨੂੰ ਇਕੱਤਰ ਕਰਨ ਲਈ ਤਿਆਰ ਕੀਤੀਆਂ ਹੁੰਦੀਆਂ ਹਨ।</p><p>ਇਸ ਵੈੱਬ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਦੇਣ ਨਾਲ ਪਛਾਣ ਚੋਰੀ ਜਾਂ ਕੋਈ ਹੋਰ ਧੋਖਾ ਹੋ ਸਕਦਾ ਹੈ।</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.title "ਅਗਲੀ ਸਾਈਟ ਮਾਲਵੇਅਰ ਰੱਖਦੀ ਹੋ ਸਕਦੀ ਹੈ">
