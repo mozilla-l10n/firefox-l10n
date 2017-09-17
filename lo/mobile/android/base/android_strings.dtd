@@ -4,6 +4,11 @@
 
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
 <!ENTITY firstrun_urlbar_message2 "ຂອບໃຈທີ່ເລືອກໃຊ້ &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "ເປັນຫນຶ່ງເວັບບຣາວເຊີທີ່ທັນສະໄຫມສຳລັບໂທລະສັບຂອງ Mozilla ທີ່ເປັນອົງກອນບໍ່ຫວັງຜົນກຳໄລ ມຸ່ງຫມັ້ນເພື່ອສ້າງເວັບຟຣີ ແລະ ເປີດກ້ວາງ.">
+<!ENTITY firstrun_panel_title_privacy "ຄວາມເປັນສ່ວນຕົວ">
+<!ENTITY firstrun_privacy_message "ທ່ອງເວັບແບບບໍ່ມີໃຜມາຫລັກເຝົ້າຕິດຕາມ.">
+<!ENTITY firstrun_panel_title_customize "ປັບແຕ່ງ">
+<!ENTITY firstrun_customize_message "ເຮັດໃຫ້ &brandShortName; ເປັນຂອງທ່ານເອງ.">
 <!ENTITY firstrun_bookmarks_title "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY firstrun_bookmarks_message "ສິງທີ່ທ່ານມັກ, ທາງຫນ້າ ແລະ ສູນກາງ">
 <!ENTITY firstrun_bookmarks_subtext "ນຳເອົາຜົນລັບມາຈາກບຸກມາກສ໌ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
