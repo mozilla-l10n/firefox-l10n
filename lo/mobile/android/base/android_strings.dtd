@@ -386,6 +386,7 @@
 <!ENTITY pref_dialog_set_default "ຕັ້ງໄວ້ເປັນຄ່າພື້ນຖານ">
 <!ENTITY pref_dialog_default "ຄ່າພື້ນຖານ">
 <!ENTITY pref_dialog_remove "ລຶບ">
+<!ENTITY pref_dialog_activitystream_visited "ເຂົ້າໄປເບິງມາແລ້ວ">
 
 <!ENTITY pref_search_last_toast "ທ່ານບໍສາມາດລຶບ ຫລື ປິດໃຊ້ງານຕົວຊອກຫາຫລ້າສຸດຂອງທ່ານ.">
 
@@ -490,10 +491,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Pin ໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY contextmenu_unpin_from_top_sites "Unpin ອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
 <!ENTITY contextmenu_add_search_engine "ເພີ່ມລະບົບການຊອກຫາ">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Pin ຫນ້າເວັບໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY unpinned_page_from_top_sites "Unpin ຫນ້າເວັບອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -816,9 +821,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "ເວັບໄຊທ໌ຍອດນິຍົມ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "ແນະນຳໂດຍ &brandPocket;">
 <!ENTITY activity_stream_highlights "ຈຸດເດັ່ນ">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "ເພີ່ມ​ເຕີມ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -827,11 +834,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ເຂົ້າໄປເບິງມາແລ້ວ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "ລຶບ">
 <!ENTITY activity_stream_delete_history "ລຶບອອກຈາກປະຫວັດການນຳໃຊ້">
 
 <!ENTITY private_tab_panel_title "ການທ່ອງເວັບແບບສ່ວນຕົວ + ກັບການປ້ອງກັນການຕິດຕາມ">
@@ -839,3 +848,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "ພວກເຮົາຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ, ແຕ່ວ່າໄຟລ໌ຂໍ້ມູນທີ່ໄດ້ຮັບການດາວໂຫລດແລ້ວ ແລະ ບຸກມາກໃຫມ່ຈະໄດ້ຮັບການບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
 <!ENTITY private_tab_learn_more "ຕ້ອງການທີ່ຈະຮຽນຮູ້ເພີ່ມເຕີມອີກບໍ່?">
 
+<!ENTITY fullscreen_warning "ເຂົ້າສູ່ໂມດເຕັມຫນ້າຈໍແລ້ວ">
