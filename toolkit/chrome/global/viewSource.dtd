@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "ป">
 <!ENTITY menu_highlightSyntax.label "การเน้นสีไวยากรณ์">
 <!ENTITY menu_highlightSyntax.accesskey "น">
-<!ENTITY menu_textSize.label "ขนาดตัวอักษร">
+<!ENTITY menu_textSize.label "ขนาดข้อความ">
 <!ENTITY menu_textSize.accesskey "ข">
 <!ENTITY menu_textEnlarge.label "เพิ่ม">
 <!ENTITY menu_textEnlarge.accesskey "พ">

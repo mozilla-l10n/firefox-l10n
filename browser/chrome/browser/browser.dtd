@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "ซูมเฉพาะตัวอักษร">
+<!ENTITY fullZoomToggleCmd.label        "ซูมข้อความเท่านั้น">
 <!ENTITY fullZoomToggleCmd.accesskey    "ต">
 <!ENTITY fullZoom.label                 "ซูม">
 <!ENTITY fullZoom.accesskey             "ม">
