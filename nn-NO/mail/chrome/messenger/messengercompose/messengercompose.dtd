@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Vel mottakar frå ei adressebok">
 <!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merkt tekst eller heile meldinga">
-<!ENTITY statusLanguageText.tooltip "Stavekontrollspråk">
 <!ENTITY saveButton.tooltip "Lagre meldinga">
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Tilpass frå adressa…">
 <!ENTITY customizeFromAddress.accesskey "T">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Stavekontrollspråk">
+<!ENTITY encodingStatusPanel.tooltip "Tekstkoding">
