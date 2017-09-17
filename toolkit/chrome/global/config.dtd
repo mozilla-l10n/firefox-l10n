@@ -36,10 +36,10 @@
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Modifi">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "Baskuli">
+<!ENTITY toggle.label "Baskuligi">
 <!ENTITY toggle.accesskey "B">
-<!ENTITY reset.label "Rekomenci">
-<!ENTITY reset.accesskey "R">
+<!ENTITY reset.label "Norma valoro">
+<!ENTITY reset.accesskey "o">
 <!ENTITY new.label "Nova">
 <!ENTITY new.accesskey "n">
 <!ENTITY string.label "Teksto">
