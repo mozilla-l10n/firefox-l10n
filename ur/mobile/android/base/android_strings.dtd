@@ -823,5 +823,6 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "ہٹائیں">
 <!ENTITY activity_stream_delete_history "تاریخ سے حذف کریں">
 
+<!ENTITY private_tab_panel_description2 "ہم کوئی سابقات یاد نہیں رکھتے، لیکن ڈاؤن لوڈ کی گئ مسلیں اور نئ نشانیاںآپ کے آلہ پر مہفوظ ہونگی۔">
 <!ENTITY private_tab_learn_more "مزید سیکھنا چاہیں گے؟">
 
