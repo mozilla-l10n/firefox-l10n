@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Fjernar sidedata">
 <!ENTITY     removingSelected.description  "Fjerning av nettsidedata vil også fjerne liknande infokapslar og fråkopla nettinnhald. Dette kan logge deg ut av nettsider. Er du sikker på at du vil utføre desse endringane?">
-<!ENTITY     siteTree.label                "Følgjande nettstadinfokapslar vert fjerna:">
+<!ENTITY     siteTree2.label               "Følgjande nettstadinfokapslar vert fjerna">

@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Omsetting vert ikkje tilbydd for følgjande språk:">
+<!ENTITY noTranslationForLanguages2.label "Omsetting vert ikkje tilbydd for følgjande språk">
 <!ENTITY treehead.languageName.label      "Språk">
 <!ENTITY removeLanguage.label             "Fjern språk">
 <!ENTITY removeLanguage.accesskey         "F">
 <!ENTITY removeAllLanguages.label         "Fjern alle språk">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Omsetting vert ikkje tilbydd for følgjande nettsider:">
+<!ENTITY noTranslationForSites2.label     "Omsetting vert ikkje tilbydd for følgjande nettsider">
 <!ENTITY treehead.siteName2.label         "Nettsider">
 <!ENTITY removeSite.label                 "Fjern nettstad">
 <!ENTITY removeSite.accesskey             "F">
