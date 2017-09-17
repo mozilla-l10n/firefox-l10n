@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "N">
 <!ENTITY     removingDialog.title          "Datumoj de retejoj forigataj">
 <!ENTITY     removingSelected.description  "La forigo de retejaj datumoj ankaŭ forigos rilatajn kaj kuketojn kaj malkonektitaĵojn. Tio ĉi povus fini vian seancon en retejoj. Ĉu vi certe volas fari la ŝanĝojn?">
-<!ENTITY     siteTree.label                "La jenaj retejaj kuketoj estos forigitaj:">
+<!ENTITY     siteTree2.label               "La jenaj retejaj kuketoj estos forigitaj">
