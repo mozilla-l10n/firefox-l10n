@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "แถบค้นหา">
+
+<!ENTITY searchBar.hidden.label                "ใช้แถบที่อยู่สำหรับการค้นหาและการนำทาง">
+<!ENTITY searchBar.shown.label                 "เพิ่มแถบค้นหาในแถบเครื่องมือ">
+
 <!ENTITY defaultSearchEngine.label             "เครื่องมือค้นหาเริ่มต้น">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา">

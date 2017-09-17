@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
 <!ENTITY pageSourceCmd.accesskey "ต">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
 <!ENTITY pageInfoCmd.accesskey "ข">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +384,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
+
+<!ENTITY appMenuRecentHighlights.label "รายการเด่นเมื่อเร็ว ๆ นี้">
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
@@ -836,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
 <!ENTITY customizeMode.done "เสร็จสิ้น">
 <!ENTITY customizeMode.titlebar "แถบชื่อเรื่อง">
+<!ENTITY customizeMode.extraDragSpace "พื้นที่ลาก">
 <!ENTITY customizeMode.toolbars2 "แถบเครื่องมือ">
 <!ENTITY customizeMode.lwthemes "ชุดตกแต่ง">
 <!ENTITY customizeMode.lwthemes.myThemes "ชุดตกแต่งของฉัน">
