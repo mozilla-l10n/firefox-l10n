@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੇ ਇਹ ਕੂਕੀਜ਼ ਸੰਭਾਲੇ ਗਏ ਹਨ:">
+<!ENTITY     cookiesonsystem2.label         "ਅੱਗੇ ਦਿੱਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ 'ਤੇ ਸੰਭਾਲਿਆ ਹੋਇਆ ਹੈ">
 <!ENTITY     cookiename.label               "ਕੂਕੀਜ਼ ਨਾਂ">
 <!ENTITY     cookiedomain.label             "ਸਾਇਟ">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "ਕੂਕੀਜ਼">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "ਖੋਜੋ">
 <!ENTITY     searchFilter.accesskey         "S">
