@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "주소록에서 받는 사람 선택">
 <!ENTITY attachButton.tooltip "메시지에 파일 첨부">
 <!ENTITY spellingButton.tooltip "선택한 텍스트 또는 메시지 맞춤법 검사하기">
-<!ENTITY statusLanguageText.tooltip "맞춤법 검사 언어">
 <!ENTITY saveButton.tooltip "메시지 저장">
 <!ENTITY cutButton.tooltip              "잘라내기">
 <!ENTITY copyButton.tooltip             "복사">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "보낸 사람 주소 설정…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "맞춤법 검사 언어">
+<!ENTITY encodingStatusPanel.tooltip "텍스트 인코딩">
