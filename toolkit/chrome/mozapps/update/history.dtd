@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "સુધારા ઇતિહાસ">
-<!ENTITY  history.intro             "નીચેના સુધારાઓ સ્થાપિત થઈ ગયા છે:">
+<!ENTITY  history2.intro            "નીચેના અપડેટ્સ ઇન્સ્ટોલ કરવામાં આવ્યા છે">
 <!ENTITY  closebutton.label         "બંધ કરો">
-                                     
+
 <!ENTITY  noupdates.label           "કોઈ સુધારાઓ હજુ સ્થાપિત નથી">
 
 <!ENTITY  name.header               "સુધારા નામ">
