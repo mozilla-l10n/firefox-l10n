@@ -26,4 +26,10 @@
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "Apabila halaman web menyediakan warna dan latar belakang sendiri">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!ENTITY alwaysUseDocumentColors.label     "Sentiasa gunakan warna dan latar belakang yang ditentukan halaman web">
+<!ENTITY alwaysUseDocumentColors.accesskey "S">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
+<!ENTITY useMyColors.label                 "Gunakan warna pilihan saya, abaikan warna dan imej latar belakang yang dinyatakan">
+<!ENTITY useMyColors.accesskey             "s">
+<!ENTITY automaticColors.label             "Abaikan hanya warna halaman apabila menggunakan tema Kontras Tinggi">
+<!ENTITY automaticColors.accesskey         "A">
