@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Էջը բեռնելիս ներբեռնել հեռակա տառատեսակներ">
 
 <!ENTITY pref_tracking_protection_title2 "Հետագծման պաշտպանություն">
-<!ENTITY pref_tracking_protection_summary3 "Միացված Գաղտնի դիտարկման ժամանակ">
 <!ENTITY pref_donottrack_title "Չհետագծել">
 <!ENTITY pref_donottrack_summary "&brandShortName;-ը կհաղորդի կայքերին, որ դուք չեք ցանկանում, որ ձեզ հետագծեն">
 
@@ -495,7 +494,17 @@
 <!ENTITY contextmenu_top_sites_edit "Խմբագրել">
 <!ENTITY contextmenu_top_sites_pin "Ամրացնել կայքը">
 <!ENTITY contextmenu_top_sites_unpin "Ապամրացնել կայքը">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Ամրացնել Լավագույն կայքերին">
+<!ENTITY contextmenu_unpin_from_top_sites "Ապաամրացնել Լավագույն կայքերից">
 <!ENTITY contextmenu_add_search_engine "Ավելացնել որոնողական հանգույց">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Ամրացված էջ Լավագույն կայքերում">
+<!ENTITY unpinned_page_from_top_sites "Ապաամրացված էջ Լավագույն կայքերից">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -818,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Հանձնարարելի &brandPocket;-ի կողմից">
 <!ENTITY activity_stream_highlights "Գունանշումներ">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "ավելին">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
