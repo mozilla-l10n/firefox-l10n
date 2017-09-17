@@ -182,7 +182,6 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "¿Echa algo en falta? Algunos plugins ya no están admitidos por &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
-<!ENTITY legacyWarning.description "¿Echa algo en falta? Algunas extensiones ya no están admitidas por &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostrar extensiones clásicas">
 <!ENTITY legacyExtensions.title "Extensiones clásicas">
 <!ENTITY legacyExtensions.description "Estas extensiones no cumplen los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
