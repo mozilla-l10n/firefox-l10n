@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Descarga las tipografías remotas cuando se está cargando una página">
 
 <!ENTITY pref_tracking_protection_title2 "Protección de seguimiento">
-<!ENTITY pref_tracking_protection_summary3 "Habilitada en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quieres ser rastreado">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Recomendado por &brandPocket;">
 <!ENTITY activity_stream_highlights "Destacados">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "más">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
