@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "મૂળભૂતમાં પુનઃસંગ્રહો">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "એક્સ્ટેંશન અક્ષમ કરો">
+
 <!ENTITY downloads.label     "ડાઉનલોડ">
 
 <!ENTITY saveTo.label "ફાઈલોને આમાં સંગ્રહો">

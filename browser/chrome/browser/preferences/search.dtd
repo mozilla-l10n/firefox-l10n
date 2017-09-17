@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "શોધ બાર">
+
+<!ENTITY searchBar.hidden.label                "શોધ અને સંશોધક માટે સરનામાં બારનો ઉપયોગ કરો">
+<!ENTITY searchBar.shown.label                 "ટૂલબારમાં શોધ બાર ઉમેરો">
+
 <!ENTITY defaultSearchEngine.label             "મૂળભૂત શોધ એંજીન">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "સરનામાં બાર અને શોધ બારમાં વાપરવા માટે ડિફૉલ્ટ શોધ એંજિન પસંદ કરો.">
