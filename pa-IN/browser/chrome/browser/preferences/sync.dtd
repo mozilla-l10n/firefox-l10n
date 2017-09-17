@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
 <!ENTITY signedOut.description        "ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
-<!ENTITY signedOut.accountBox.create  "ਖਾਤਾ ਬਣਾਓ">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "ਸਾਈਨ ਇਨ">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "ਖਾਤਾ ਨਹੀ ਹੈ? ਤਾਂ ਬਣਾਉਣਾ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "…ਸਾਈਨ ਇਨ">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "ਸਿੰਕ ਦੀਆਂ ਸੈਟਿੰਗਾਂ">
 <!ENTITY signedIn.settings.description "ਚੁਣੋ ਕਿ &brandShortName; ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੀ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇ।">

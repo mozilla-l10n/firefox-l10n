@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "ਜੋੜਨ ਮਿਤੀ">
 <!ENTITY col.lastmodified.label  "ਆਖਰੀ ਸੋਧ">
 
-<!ENTITY search.label                              "ਖੋਜ:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "ਖੋਜੋ">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ਕਿਸੇ ਆਈਟਮ ਨੂੰ ਵੇਖਣ ਤੇ ਉਸਦੀ ਵਿਸ਼ੇਸ਼ਤਾ ਸੋਧਣ ਲਈ ਚੁਣੋ">
 
-<!ENTITY find.label               "ਖੋਜ:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "ਵੇਖੋ">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "ਮਿਤੀ">

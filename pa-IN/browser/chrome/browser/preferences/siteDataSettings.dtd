@@ -15,4 +15,5 @@
 <!ENTITY     cancel.label                  "ਰੱਦ ਕਰੋ">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ">
-<!ENTITY     siteTree.label                "ਅੱਗੇ ਦਿੱਤੇ ਵੈੱਬਸਾਈਟ ਕੂਕੀਜ਼ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ:">
+<!ENTITY     removingSelected.description  "ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਸੰਬੰਧਿਤ ਕੂਕੀਜ਼ੀ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਵੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਲਾਗ ਆਉਟ ਵੀ ਹੋ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ ਇਹ ਤਬਦੀਲੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY     siteTree2.label               "ਅੱਗੇ ਦਿੱਤੇ ਵੈੱਬਸਾਟਈ ਕੂਕੀਜ਼ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ">

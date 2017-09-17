@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "ਇਹ ਸਾਈਟ ਅਜਿਹੀ ਪਲੱਗਇਨ ਵਰਤਦੀ ਹੈ, ਜੋ ਕਿ &brandShortName; ਨੂੰ ਹੌਲੀ ਕਰ ਸਕਦੀ ਹੈ।">
 <!ENTITY tapToPlayPlugin                                     "ਪਲੱਗਇਨ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ।">
 <!ENTITY clickToActivatePlugin                               "ਪਲੱਗਇਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ">
 <!ENTITY checkForUpdates                                     "…ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
@@ -29,3 +30,4 @@
 <!ENTITY plugin.file                                         "ਫਾਈਲ">
 <!ENTITY plugin.mimeTypes                                    "MIME ਕਿਸਮਾਂ">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash ਸੁਰੱਖਿਅਤ ਮੋਡ ਨੂੰ ਚਾਲੂ ਕਰੋ">
+<!ENTITY plugin.enableBlocklists.label                       "ਖ਼ਤਰਨਾਕ ਅਤੇ ਅੜੰਗਾ ਪਾਉਣ ਵਾਲੀ ਫਲੈਸ਼ ਸਮੱਗਰੀ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">

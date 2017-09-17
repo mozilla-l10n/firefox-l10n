@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Finder ਵਿੱਚ ਵੇਖੋ">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਵੇਖਾਓ">
 <!ENTITY cmd.retry.label                  "ਮੁੜ-ਕੋਸ਼ਿਸ਼">
 <!ENTITY cmd.goToDownloadPage.label       "ਡਾਊਨਲੋਡ ਸਫ਼ੇ 'ਤੇ ਜਾਓ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -88,7 +89,6 @@
      file or remove the download. Opening is the default option.
      -->
 <!ENTITY cmd.chooseOpen.label             "ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ ਜਾਂ ਹਟਾਓ">
-
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
@@ -135,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "ਡਾਊਨਲੋਡ ਦੇ ਵੇਰਵੇ">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!ENTITY clearDownloadsButton.label       "ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY clearDownloadsButton.tooltip     "ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ">
@@ -149,7 +159,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "ਇਹ ਸ਼ੈਸ਼ਨ ਲਈ ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੈ।">
+<!ENTITY downloadsPanelEmpty.label        "ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀ ਹੈ।">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
