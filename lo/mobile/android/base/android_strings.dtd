@@ -3,9 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ຍິນດີຕ້ອນຮັບ">
-
-<!ENTITY firstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "ຄົ້ນຫາສິ່ງຕ່າງໆໄດ້ໄວຂື້ນດ້ວຍການນຳໃຊ້ທາງລັດຄຳແນະນຳການຄົ້ນຫາທີ່ເປັນປະໂຫຍດ.">
+<!ENTITY firstrun_urlbar_message2 "ຂອບໃຈທີ່ເລືອກໃຊ້ &brandShortName;">
 <!ENTITY firstrun_bookmarks_title "ປະຫວັດການໃຊ້ງານ">
 <!ENTITY firstrun_bookmarks_message "ສິງທີ່ທ່ານມັກ, ທາງຫນ້າ ແລະ ສູນກາງ">
 <!ENTITY firstrun_bookmarks_subtext "ນຳເອົາຜົນລັບມາຈາກບຸກມາກສ໌ ແລະ ປະຫວັດການໃຊ້ງານຂອງທ່ານເມື່ອທ່ານຄົ້ນຫາ.">
@@ -13,8 +11,6 @@
 <!ENTITY firstrun_data_message "ນຳໃຊ້ຂໍ້ມູນນ້ອຍລົງ ປະຫຍັດຫລາຍຂື້ນກ່ວາເກົ່າ">
 <!ENTITY firstrun_data_subtext2 "ປິດຮູບພາບເພື່ອໃຫ້ຂະຫນາດຂໍ້ມູນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າໄປເບິງມີຂະຫນາດນ້ອຍລົງ.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, ຢູ່ຄຽງຂ້າງທ່ານສະເຫມີ">
-<!ENTITY firstrun_sync_subtext "Sync ແທັບ, ລະຫັດຜ່ານຂອງທ່ານ ແລະ ໃນທຸກໆບ່ອນທີ່ທ່ານນຳໃຊ້ມັນ.">
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
@@ -201,8 +197,6 @@
 <!ENTITY pref_category_advanced_summary3 "ກູ້ຄືນແທັບ, ຜູ້ຝາກຂໍ້ມູນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
 <!ENTITY pref_category_notifications "ການແຈ້ງເຕືອນ">
 <!ENTITY pref_category_notifications_summary "ຄຸນລັກສະນະໃຫມ່, ການອັບເດດເວັບໄຊທ໌">
-<!ENTITY pref_content_notifications "ການອັບເດດເວັບໄຊທ໌">
-<!ENTITY pref_content_notifications_summary2 "ຄົ້ນພົບເນື້ອຫາໃຫມ່ຈາກເວັບທີ່ໄດ້ຮັບການຮັບຮອງ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກທາງໄກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກທາງໄກຜ່ານທາງ Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ການດີບັກ Wi-Fi ຕ້ອງການໃຫ້ອຸປະກອນຂອງທ່ານໄດ້ຮັບການຕິດຕັ້ງແອັບອ່ານລະຫັດ QR.">
@@ -268,7 +262,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "ດາວໂຫລດຟັອນຈາກທີ່ອື່ນເມື່ອມີການໂຫລດຫນ້າເວັບ">
 
 <!ENTITY pref_tracking_protection_title2 "ການປ້ອງກັນການຕິດຕາມ">
-<!ENTITY pref_tracking_protection_summary3 "ເປີດໃຫ້ໃຊ້ງານໃນການຄົ້ນຫາແບບສ່ວນຕົວ">
 <!ENTITY pref_donottrack_title "ບໍ່ຕິດຕາມ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ຈະບອກເວັບໄຊທ໌ທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ຖືກຕິດຕາມ">
 
@@ -328,24 +321,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "ເພື່ອ \&quot;ເປີດຫຼາຍໆລີ້ງພ້ອມກັນ\&quot;, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ \u0027ແຕ້ມໄດ້ໃນ apps ອື່ນໆ\u0027 ສຳລັບ &brandShortName;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "ອັບເດດເວັບໄຊທ໌ &formatD;">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "ການຕັ້ງຄ່າ">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "ອ່ານຕອນນີ້">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "ອັບເດດໃນ &formatS;">
+<!ENTITY tab_queue_notification_settings "ເພື່ອ \&quot;ເປີດຫຼາຍໆລີ້ງພ້ອມກັນ\&quot;, ກະລຸນາອະນຸຍາດສິດທິໃຫ້ແກ່ \&apos;ແຕ້ມໄດ້ໃນ apps ອື່ນໆ\&apos; ສຳລັບ &brandShortName;">
 
 <!ENTITY pref_char_encoding "ການເຂົ້າລະຫັດຕົວອັກສອນ">
 <!ENTITY pref_char_encoding_on "ສະແດງລາຍການ">
@@ -355,7 +331,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "ລົບລ້າງຕອນນີ້ເລີຍ">
 <!ENTITY pref_clear_on_exit_title3 "ລົບລ້າງຂໍ້ມູນສ່ວນຕົວເມື່ອທ່ານອອກ">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ຈະລົບລ້າງຂໍ້ມູນຂອງທ່ານແບບອັດຕະໂນມັດທຸກຄັ້ງທີ່ທ່ານເລືອກ \u0022Quit\u0022 ຈາກລາຍການຫລັກ">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ຈະລົບລ້າງຂໍ້ມູນຂອງທ່ານແບບອັດຕະໂນມັດທຸກຄັ້ງທີ່ທ່ານເລືອກ \&quot;Quit\&quot; ຈາກລາຍການຫລັກ">
 <!ENTITY pref_clear_on_exit_dialog_title "ເລືອກຂໍ້ມູນທີ່ຕ້ອງການລົບລ້າງ">
 <!ENTITY pref_restore_tabs "ກູ້ຄືນແທັບ">
 <!ENTITY pref_restore_always "ເອີ້ນກັບຄືນຢູ່ສະເຫມີ">
@@ -506,7 +482,13 @@
 <!ENTITY contextmenu_top_sites_edit "ແກ້ໄຂ">
 <!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊທ໌">
 <!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊທ໌">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "ເພີ່ມລະບົບການຊອກຫາ">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -828,7 +810,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "ເພີ່ມເຂົ້າໄປໃນບຸກມາກສ໌">
 
 <!ENTITY activity_stream_topsites "ເວັບໄຊທ໌ຍອດນິຍົມ">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "ຈຸດເດັ່ນ">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -836,17 +821,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ເຂົ້າໄປເບິງມາແລ້ວ">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "ຍົກເລີກ">
 <!ENTITY activity_stream_delete_history "ລຶບອອກຈາກປະຫວັດການນຳໃຊ້">
-
-<!ENTITY activity_stream_welcome_title "ຍິນດີຕ້ອນຮັບສູ່ລາຍການເດັ່ນຂອງທ່ານ">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; ສ້າງລາຍການເດັ່ນຂອງສິງທີ່ທ່ານໄດ້ຄົ້ນພົບໃນເວັບເພື່ອເຮັດໃຫ້ທ່ານສາມາດກັບມາເບິງບົດຄວາມ, ວິດີໂອ, ບຸກມາກ ແລະ ຫນ້າອື່ນໆໄດ້">
 
 <!ENTITY private_tab_panel_title "ການທ່ອງເວັບແບບສ່ວນຕົວ + ກັບການປ້ອງກັນການຕິດຕາມ">
 <!ENTITY private_tab_panel_description "&brandShortName; ບັອກເນື້ອບາງສ່ວນຂອງຫນ້ານີ້ທີ່ອາດຈະເຮັດໃຫ້ການທອງເວັບຂອງທ່ານຖືກຕິດຕາມ.">
 <!ENTITY private_tab_panel_description2 "ພວກເຮົາຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານຂອງທ່ານ, ແຕ່ວ່າໄຟລ໌ຂໍ້ມູນທີ່ໄດ້ຮັບການດາວໂຫລດແລ້ວ ແລະ ບຸກມາກໃຫມ່ຈະໄດ້ຮັບການບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
 <!ENTITY private_tab_learn_more "ຕ້ອງການທີ່ຈະຮຽນຮູ້ເພີ່ມເຕີມອີກບໍ່?">
+
