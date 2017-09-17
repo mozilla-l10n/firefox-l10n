@@ -161,10 +161,12 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
+<!ENTITY debuggerUI.seEditMenuCondBreak     "શરતી બ્રેકપોઇન્ટ સંપાદિત કરો">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.workers        "કામદારો">
 <!ENTITY debuggerUI.tabs.sources        "સ્ત્રોત">
 <!ENTITY debuggerUI.tabs.traces         "ટ્રેસ">
 <!ENTITY debuggerUI.tabs.callstack      "કોલ સ્ટૅક">
@@ -199,6 +201,7 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
+<!ENTITY debuggerUI.context.newTab           "નવી ટૅબમાં ખોલો">
 <!ENTITY debuggerUI.context.newTab.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
