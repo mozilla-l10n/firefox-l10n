@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Pisaś: (žedna tema)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Dataja">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Nowy">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Śišćaś…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "i">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Wobźěłaś">
 <!ENTITY editMenu.accesskey "W">
 <!ENTITY undoCmd.label "Slědk wześ">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "h">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Naglěd">
 <!ENTITY viewMenu.accesskey "N">
 <!ENTITY viewToolbarsMenuNew.label "Symbolowe rědki">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Kontaktowa bócnica">
 <!ENTITY addressSidebar.accesskey "o">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
 <!ENTITY formatMenu.accesskey "F">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opcije">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Pšawopis kontrolěrowaś…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "z">
 <!ENTITY quoteCmd.label "Powěsć citěrowaś">
 <!ENTITY quoteCmd.accesskey "c">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Wósobinsku kórtu pśipowjesyś (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Kopiju pósłaś na">
 <!ENTITY fileCarbonCopyCmd.accesskey "K">
 <!ENTITY fileHereMenu.label "How wótpołožyś">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Rědy">
 <!ENTITY tasksMenu.accesskey "R">
 <!ENTITY messengerCmd.label "Post &amp; diskusijne kupki">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "N">
 <!ENTITY preferencesCmdUnix.label "Nastajenja">
 <!ENTITY preferencesCmdUnix.accesskey "N">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Miniměrowaś">
 <!ENTITY bringAllToFront.label "Do prědka stajiś">
 <!ENTITY zoomWindow.label "Wokno skalěrowaś">
 <!ENTITY windowMenu.label "Wokno">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Pósłaś">
 <!ENTITY quoteButton.label "Citěrowaś">
 <!ENTITY addressButton.label "Kontakty">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Pšawopis">
 <!ENTITY saveButton.label "Składowaś">
 <!ENTITY printButton.label "Śišćaś">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Toś tu powěsć něnto wótpósłaś">
 <!ENTITY sendlaterButton.tooltip "Toś tu powěsć pózdźej wótpósłaś">
 <!ENTITY quoteButton.tooltip "Pśedchadnu powěsć citěrowaś">
 <!ENTITY addressButton.tooltip "Dostawarja z adresnika wubraś">
 <!ENTITY attachButton.tooltip "Pśiłožk zapśimjeś">
 <!ENTITY spellingButton.tooltip "Pšawopis wubranego teksta abo cełeje powěsći kontrolěrowaś">
-<!ENTITY statusLanguageText.tooltip "Rěc pšawopisneje kontrole">
 <!ENTITY saveButton.tooltip "Toś tu powěsć składowaś">
 <!ENTITY cutButton.tooltip              "Wurězaś">
 <!ENTITY copyButton.tooltip             "Kopěrowaś">
 <!ENTITY pasteButton.tooltip            "Zasajźiś">
 <!ENTITY printButton.tooltip "Toś tu powěsć śišćaś">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 10em;">
 <!ENTITY fromAddr.label "Wót:">
 <!ENTITY fromAddr.accesskey "t">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "w">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Smjejkotak zasajźiś">
 <!ENTITY smiley1Cmd.label "Smjejkotaś">
 <!ENTITY smiley2Cmd.label "Coło maršćiś">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Njewinowaty">
 <!ENTITY smiley15Cmd.label "Płakaś">
 <!ENTITY smiley16Cmd.label "Mjelcaty">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Žedne naraźenja namakane">
 <!ENTITY spellCheckIgnoreWord.label "Słowo ignorěrowaś">
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "R">
 <!ENTITY attachPage.label "Webbok pśipowjesyś…">
 <!ENTITY attachPage.accesskey "W">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Słowniki pśidaś…">
 <!ENTITY spellAddDictionaries.accesskey "S">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Kontakty">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Z adrese pśiměriś…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Pšawopisna rěc">
+<!ENTITY encodingStatusPanel.tooltip "Tekstowe koděrowanje">
