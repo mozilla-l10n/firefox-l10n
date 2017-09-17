@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; એ <span id='wrongSystemTime_URL'/> ની સાથે જોડાય નહી કારણકે તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટો સમય બતાવી રહી છે અને આ સુરક્ષિત જોડાણમાં રુકાવટ ઊભી કરે છે.</p><p> તમારું કમ્પ્યુટર <span id='wrongSystemTime_systemDate'/> માં મૂકેલું છે, જ્યારે તે <span id='wrongSystemTime_actualDate'/> માં હોવું જોઇએ.આ સમસ્યાનાં ઉકેલ માટે, સાચા સમય સાથે સમાનરુપ થવા તમારા તારીખ અને સમયનાં સેટીંંગ્સ બદલો.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; એ <span id='wrongSystemTimeWithoutReference_URL'/> ની સાથે જોડાય નહી શકે કારણકે તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટો સમય બતાવી રહી છે અને આ સુરક્ષિત જોડાણમાં રુકાવટ ઊભી કરે છે.</p> <p> તમારું કમ્પ્યુટર <span id='wrongSystemTimeWithoutReference_systemDate'/> માં મૂકેલું છે. આ સમસ્યાનાં ઉકેલ માટે, સાચા સમય સાથે સમાનરુપ થવા તમારા તારીખ અને સમયનાં સેટીંંગ્સ બદલો.</p>">
 
 <!ENTITY certerror.pagetitle1  "અસુરક્ષિત જોડાણ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે
@@ -120,6 +122,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> એ સુરક્ષા માટે એવી ટેક્નોલોજી વાપરે છે કે જે જૂની તથા સહેલાઇથી હુમલો કરી શકાય તેવી હોય છે. જે માહિતીને તમે સુરક્ષિત માની રહ્યા હોય તેને હુમલાખોર સહેલાઇથી પ્રદ્રશિત કરી શકે છે. તમે વેબસાઇટ પર જાઓ તે પહેલાં વેબસાઇટનાં વહીવટકર્તાએ સર્વર ને વ્યવસ્થિત કરવાની જરુર છે.</p><p>ભૂલ ક્રમાંક: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
