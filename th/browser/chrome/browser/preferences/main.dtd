@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "เรียกคืนค่าเริ่มต้น">
 <!ENTITY restoreDefault.accesskey  "ร">
 
+<!ENTITY disableExtension.label    "ปิดใช้งานส่วนขยาย">
+
 <!ENTITY downloads.label     "ดาวน์โหลด">
 
 <!ENTITY saveTo.label "บันทึกไฟล์ไปยัง">
