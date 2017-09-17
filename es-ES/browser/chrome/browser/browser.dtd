@@ -69,6 +69,7 @@
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "f">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -186,6 +187,7 @@
 <!ENTITY keywordfield.label "Añadir una palabra clave para esta búsqueda…">
 <!ENTITY keywordfield.accesskey "v">
 <!ENTITY downloads.label "Descargas">
+<!ENTITY libraryDownloads.label "Descargas">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
@@ -277,6 +279,7 @@
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
+<!ENTITY appMenuRecentHighlights.label "Destacados recientes">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
@@ -383,7 +386,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
-<!ENTITY copyURLCmd.label "Copiar URL">
+<!ENTITY pageAction.copyLink.label "Copiar enlace">
 <!ENTITY copyURLFeedback.label "¡Copiado!">
 <!ENTITY emailPageCmd.label "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey "E">
@@ -407,8 +410,6 @@
 <!ENTITY emailImageCmd.accesskey "a">
 <!ENTITY emailVideoCmd.label "Enviar vídeo…">
 <!ENTITY emailVideoCmd.accesskey "a">
-<!ENTITY castVideoCmd.label "Enviar vídeo al dispositivo">
-<!ENTITY castVideoCmd.accesskey "E">
 <!ENTITY emailAudioCmd.label "Enviar audio…">
 <!ENTITY emailAudioCmd.accesskey "a">
 <!ENTITY playPluginCmd.label "Activar este plugin">
@@ -596,6 +597,7 @@
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
 <!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.extraDragSpace "Espacio para arrastrar">
 <!ENTITY customizeMode.toolbars2 "Barras de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
@@ -616,6 +618,7 @@
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tocar">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Use los toques en el modo tableta">
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Autoocultar">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
@@ -680,7 +683,7 @@
 <!ENTITY updateManual.cancelButton.label "Ahora no">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descargue una copia reciente de &brandShorterName;">
-<!ENTITY updateRestart.message "Tras un reinicio rápido, &brandShorterName; restaurará todas sus pestañas y ventanas abiertas.">
+<!ENTITY updateRestart.message2 "Tras un reinicio rápido, &brandShorterName; restaurará todas sus ventanas y pestañas abiertas que no estén en el modo de navegación privada.">
 <!ENTITY updateRestart.header.message2 "Reinicie para actualizar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -690,7 +693,6 @@
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
 <!ENTITY pageAction.addToUrlbar.label "Añadir a la barra de direcciones">
 <!ENTITY pageAction.removeFromUrlbar.label "Eliminar de la barra de direcciones">
-<!ENTITY sendToDevice.label3 "Enviar página al dispositivo">
+<!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
-<!ENTITY accessibilityIndicator.tooltip "Características de accesibilidad activadas">

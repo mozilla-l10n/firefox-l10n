@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.width "36em">
-<!ENTITY cookiesonsystem.label "Las cookies siguientes están guardadas en su equipo:">
+<!ENTITY cookiesonsystem2.label "Las cookies siguientes están guardadas en su equipo">
 <!ENTITY cookiename.label "Nombre de la cookie">
 <!ENTITY cookiedomain.label "Sitio">
 <!ENTITY props.name.label "Nombre:">
