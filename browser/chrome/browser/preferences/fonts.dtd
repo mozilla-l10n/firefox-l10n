@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "ਫੋਂਟ">
 
-<!ENTITY  language.label                          "ਇਸ ਫੋਂਟ:">
-<!ENTITY  language.accesskey                      "t">
+<!ENTITY  fonts.label                             "ਇਸ ਲਈ ਫ਼ੋਂਟ">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "ਸਾਈਜ਼:">
+<!ENTITY  size2.label                             "ਆਕਾਰ">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "ਅਨੁਪਾਤ:">
-<!ENTITY  proportional.accesskey                  "P">
+<!ENTITY  proportional2.label                     "ਅਨੁਪਾਤੀ">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
-<!ENTITY  monospace.accesskey                     "M">
+<!ENTITY  serif2.label                            "ਸੈਰੀਫ਼">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "ਸਨਜ਼-ਸੈਰੀਫ਼">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "ਮੋਨੋਸਪੇਸ">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "ਸਿੰਹਾਲਾ">
 <!ENTITY  font.langGroup.tibetan                  "ਤਿੱਬਤੀ">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ਘੱਟੋ-ਘੱਟ ਫੋਂਟ ਸਾਈਜ਼:">
-<!ENTITY minSize.accesskey                        "z">
+<!ENTITY minSize2.label                           "ਘੱਟੋ-ਘੱਟ ਫ਼ੋਂਟ ਆਕਾਰ">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "ਕੋਈ ਨਹੀਂ">
 
 <!-- default font type -->
@@ -65,8 +65,8 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
-<!ENTITY languages.customize.Fallback2.label      "ਪਰਤਵੀਂ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "ਪਰਤਵੀਂ ਲਿਖਤ ਇੰਕੋਡਿੰਗ">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "ਇਹ ਅੱਖਰ ਇੰਕੋਡਿੰਗ ਨੂੰ ਪੁਰਾਤਨ ਸਮੱਗਰੀ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜੋ ਕਿ ਇੰਕੋਡਿੰਗ ਦੱਸਣ ਲਈ ਫੇਲ੍ਹ ਹੁੰਦੀ ਹੈ।">
 
 <!ENTITY languages.customize.Fallback.auto        "ਮੌਜੂਦਾ ਲੋਕੇਲ ਲਈ ਮੂਲ">

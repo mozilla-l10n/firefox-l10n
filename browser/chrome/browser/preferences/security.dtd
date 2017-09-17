@@ -3,15 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "ਸੁਰੱਖਿਆ">
-<!ENTITY  phishingProtection.label       "ਫਿਸ਼ਿੰਗ ਸੁਰੱਖਿਆ">
 
-<!ENTITY  warnOnAddonInstall.label        "ਸਾਵਧਾਨ ਕਰੋ ਜਦੋਂ ਸਾਈਟਾਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਨ">
-<!ENTITY  warnOnAddonInstall.accesskey    "W">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
 <!ENTITY  enableSafeBrowsing.label        "ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਮੱਗਰੀ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -27,8 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ">
 
-<!ENTITY  rememberLogins1.label          "ਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "…ਛੋਟਾਂ">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
