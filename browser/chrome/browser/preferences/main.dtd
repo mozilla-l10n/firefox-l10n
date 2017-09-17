@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Επαναφορά προεπιλογής">
 <!ENTITY restoreDefault.accesskey  "ρ">
 
+<!ENTITY disableExtension.label    "Απενεργοποίηση επέκτασης">
+
 <!ENTITY downloads.label     "Λήψεις">
 
 <!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
