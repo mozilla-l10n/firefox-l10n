@@ -25,11 +25,15 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલાઈઝેશન અથવા અન્ય લખતી વખતની ભૂલો માટે ફાઈલ નામ ચકાસો.</li> <li>શું ફાઈલ ખસેડી દેવાયેલ છે, નામ બદલાઈ ગયેલ છે અથવા કાઢી નંખાયેલ છે તે જોવા માટે ચકાસો.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "ફાઇલની પ્રવેશ માટે નકારવામાં આવી હતી">
+<!ENTITY fileAccessDenied.longDesc "<ul>
+ <li>તે દૂર કરવામાં, ખસેડવામાં અથવા ફાઇલ પરવાનગીઓ હોઈ શકે છે ઍક્સેસ અટકાવી શકે છે.</li>
+</ul>">
 
 <!ENTITY generic.title "અરરર.">
 <!ENTITY generic.longDesc "<p>&brandShortName; અમુક કારણોસર આ પાનું લાવી શકતા નથી.</p>">
 
 <!ENTITY captivePortal.title "નેટવર્કમાં પ્રવેશ કરો">
+<!ENTITY captivePortal.longDesc2 "<p> તમે ઇન્ટરનેટ ઍક્સેસ કરી શકો તે પહેલાં તમારે આ નેટવર્કમાં લૉગ ઇન કરવું આવશ્યક છે. </p>">
 
 <!ENTITY openPortalLoginPage.label2 "ખુલ્લું નેટવર્ક લૉગિન પૃષ્ઠ">
 
@@ -117,4 +121,5 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
