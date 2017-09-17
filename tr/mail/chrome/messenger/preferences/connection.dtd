@@ -38,3 +38,8 @@
 <!ENTITY  noproxyExplain.label          "Örnek: .mozilla.org, .net.tr, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Bu vekil sunucuyu bütün protokollerde kullan">
 <!ENTITY  shareproxy.accesskey          "v">
+<!ENTITY  autologinproxy.label          "Parola kayıtlıysa kimlik doğrulama isteme">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda sessizce oturum açar. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.">
+<!ENTITY  socksRemoteDNS.label          "SOCKS v5 kullanırken vekil sunucu DNS’i">
+<!ENTITY  socksRemoteDNS.accesskey      "d">

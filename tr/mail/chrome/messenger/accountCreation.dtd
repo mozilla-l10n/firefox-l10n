@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Posta Hesabı Kurulumu">
+<!ENTITY autoconfigWizard2.title         "Mevcut E-posta Adresimi Kur">
 <!ENTITY name.label                      "Adınız:">
 <!ENTITY name.accesskey                  "A">
 <!ENTITY name.placeholder                "Ad Soyad">
 <!ENTITY name.text                       "Başkalarına gösterilecek adınız">
 <!ENTITY email.label                     "E-posta adresi:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "eposta@siteadresi.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "kullanici@example.com">
+<!ENTITY email.text                      "Mevcut e-posta adresiniz">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parola">
@@ -53,8 +55,8 @@
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
 <!ENTITY manual-edit.accesskey           "d">
-<!ENTITY switch-to-provisioner.label     "Yeni hesap aç">
-<!ENTITY switch-to-provisioner.accesskey "Y">
+<!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">
+<!ENTITY open-provisioner.accesskey      "Y">
 
 
 <!ENTITY warning.label                   "Uyarı!">
