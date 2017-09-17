@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "초기 설정">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "확장기능 비활성화">
+
 <!ENTITY downloads.label     "다운로드">
 
 <!ENTITY saveTo.label "저장 위치">

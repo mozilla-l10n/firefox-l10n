@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "다음의 쿠키가 사용자 컴퓨터에 저장되어 있습니다:">
+<!ENTITY     cookiesonsystem2.label         "다음의 쿠키가 사용자의 컴퓨터에 저장되어 있음">
 <!ENTITY     cookiename.label               "쿠키 이름">
 <!ENTITY     cookiedomain.label             "사이트">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "쿠키 관리자">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "검색">
 <!ENTITY     searchFilter.accesskey         "S">

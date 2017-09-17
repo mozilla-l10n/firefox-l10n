@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Translation will not be offered for the following languages:">
+<!ENTITY noTranslationForLanguages2.label "다음 언어에 대한 전환은 제공되지 않음">
 <!ENTITY treehead.languageName.label      "언어">
 <!ENTITY removeLanguage.label             "언어 제거">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "모든 언어 제거">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Translation will not be offered for the following sites:">
+<!ENTITY noTranslationForSites2.label     "다음 사이트에 대한 전환은 제공되지 않음">
 <!ENTITY treehead.siteName2.label         "웹사이트">
 <!ENTITY removeSite.label                 "사이트 제거">
 <!ENTITY removeSite.accesskey             "S">
