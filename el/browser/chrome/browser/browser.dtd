@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "δ">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "λ">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Α">
@@ -865,6 +872,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Αφή">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Α">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label 'Χρήση επιλογής "Αφή" για τη λειτουργία tablet'>
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Αυτόματη απόκρυψη">
 
 <!ENTITY getUserMedia.selectCamera.label "Μοιραστείτε την κάμερα:">
 <!ENTITY getUserMedia.selectCamera.accesskey "Ψ">

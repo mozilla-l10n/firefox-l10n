@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Γραμμή αναζήτησης">
+
+
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης για χρήση στη γραμμή διευθύνσεων και στη γραμμή αναζήτησης.">
