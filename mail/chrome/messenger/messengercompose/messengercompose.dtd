@@ -95,13 +95,13 @@
 <!ENTITY findReplaceCmd.accesskey "l">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Repetir la búsqueda">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Encontrar anterior">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Ver">
@@ -215,11 +215,10 @@
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario de una libreta de direcciones">
 <!ENTITY attachButton.tooltip "Incluir un adjunto">
 <!ENTITY spellingButton.tooltip "Verificar la ortografía de la selección o el mensaje completo">
-<!ENTITY statusLanguageText.tooltip "Verificar ortografía">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
-<!ENTITY cutButton.tooltip "Cortar">
-<!ENTITY copyButton.tooltip "Copiar">
-<!ENTITY pasteButton.tooltip "Pegar">
+<!ENTITY cutButton.tooltip              "Cortar">
+<!ENTITY copyButton.tooltip             "Copiar">
+<!ENTITY pasteButton.tooltip            "Pegar">
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 
 <!-- Headers -->
@@ -236,10 +235,11 @@
 <!ENTITY followupAddr.label "Reenviar a:">
 <!ENTITY subject.label "Asunto:">
 <!ENTITY subject.accesskey "s">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 <!ENTITY SmileButton.tooltip "Insertar un emoticón">
 <!ENTITY smiley1Cmd.label "Sonriendo">
 <!ENTITY smiley2Cmd.label "Triste">
@@ -249,7 +249,7 @@
 <!ENTITY smiley6Cmd.label "Avergonzado">
 <!ENTITY smiley7Cmd.label "Indeciso">
 <!ENTITY smiley8Cmd.label "Sorprendido">
-<!ENTITY smiley9Cmd.label "Beso">      
+<!ENTITY smiley9Cmd.label "Beso">
 <!ENTITY smiley10Cmd.label "Gritando">
 <!ENTITY smiley11Cmd.label "Cool">
 <!ENTITY smiley12Cmd.label "Dinero en la boca">
@@ -308,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar desde dirección…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Idioma del corrector ortográfico">
+<!ENTITY encodingStatusPanel.tooltip "Codificación de texto">
