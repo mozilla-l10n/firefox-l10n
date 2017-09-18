@@ -844,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
 <!ENTITY customizeMode.done "Tamam">
 <!ENTITY customizeMode.titlebar "Başlık çubuğu">
+<!ENTITY customizeMode.extraDragSpace "Sürükleme alanı">
 <!ENTITY customizeMode.toolbars2 "Araç çubukları">
 <!ENTITY customizeMode.lwthemes "Temalar">
 <!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
