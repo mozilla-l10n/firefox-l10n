@@ -4,6 +4,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Majaan mnkaab">
 <!ENTITY firstrun_urlbar_message2 "Majanuliwu &brandShortName; ham mtrcheech">
+<!ENTITY firstrun_urlbar_subtext2 "Mozilla Hal jabchu baam  jaanyak, kos ñukweewuliiy mk\&apos;katem web hay sol ñwak looj januyik.">
 <!ENTITY firstrun_bookmarks_message "Chapayt janmirabhay, jibok yok ñwak tuubkajanuhak yoyik">
 <!ENTITY firstrun_bookmarks_subtext "Chapayt ñmŕmeek ch\&apos; chkwawuhak ee chkjkeech yakuhak yoom myok.">
 <!ENTITY firstrun_data_title "Chapayt">
@@ -397,6 +398,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
