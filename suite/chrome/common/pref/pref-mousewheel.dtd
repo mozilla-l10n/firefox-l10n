@@ -26,3 +26,9 @@
 <!ENTITY zoom.label                      "Zum masuk atau keluar halaman">
 <!ENTITY zoom.accesskey                  "Z">
 <!ENTITY zoomHoriz.accesskey             "u">
+<!ENTITY wheelSpeed.label                "Kelajuan roda tetikus:">
+<!ENTITY wheelSpeed.accesskey            "r">
+<!ENTITY wheelSpeedHoriz.accesskey       "u">
+<!ENTITY reverseDirection.label          "Hala songsang">
+<!ENTITY reverseDirection.accesskey      "H">
+<!ENTITY reverseDirectionHoriz.accesskey "a">
