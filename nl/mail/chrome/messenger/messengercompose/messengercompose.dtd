@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Een ontvanger uit een adresboek selecteren">
 <!ENTITY attachButton.tooltip "Een bijlage koppelen">
 <!ENTITY spellingButton.tooltip "Spelling van selectie of hele bericht controleren">
-<!ENTITY statusLanguageText.tooltip "Taal van spellingcontrole">
 <!ENTITY saveButton.tooltip "Dit bericht opslaan">
 <!ENTITY cutButton.tooltip              "Knippen">
 <!ENTITY copyButton.tooltip             "Kopiëren">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Van-adres aanpassen…">
 <!ENTITY customizeFromAddress.accesskey "V">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Taal van spellingcontrole">
+<!ENTITY encodingStatusPanel.tooltip "Tekstcodering">
