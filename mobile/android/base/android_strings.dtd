@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Llwytho ffontiau pell wrth lwytho tudalen">
 
 <!ENTITY pref_tracking_protection_title2 "Diogelwch rhag Tracio">
-<!ENTITY pref_tracking_protection_summary3 "Wedi ei Alluogi yn Pori Preifat">
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Argymhellwyd gan &brandPocket;">
 <!ENTITY activity_stream_highlights "Uchafbwyntiau">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "rhagor">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
