@@ -6,8 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "పేజీ పేర్కొన్న రంగులను మీరు ఎంచుకున్న వాటితో భర్తీచేయును:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "ఎల్లప్పుడూ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "అధిక కాంట్రాస్ట్ థీములకు మాత్రమే">
