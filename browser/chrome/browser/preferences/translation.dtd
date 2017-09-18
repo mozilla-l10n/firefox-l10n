@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Nesiūlyti versti tinklalapių iš šių kalbų:">
+<!ENTITY noTranslationForLanguages2.label "Nesiūlyti versti tinklalapių iš šių kalbų">
 <!ENTITY treehead.languageName.label      "Kalbos">
 <!ENTITY removeLanguage.label             "Pašalinti kalbą">
 <!ENTITY removeLanguage.accesskey         "k">
 <!ENTITY removeAllLanguages.label         "Pašalinti visas kalbas">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Nesiūlyti versti tinklalapių šiose svetainėse:">
+<!ENTITY noTranslationForSites2.label     "Nesiūlyti versti tinklalapių šiose svetainėse">
 <!ENTITY treehead.siteName2.label         "Svetainės">
 <!ENTITY removeSite.label                 "Pašalinti svetainę">
 <!ENTITY removeSite.accesskey             "s">

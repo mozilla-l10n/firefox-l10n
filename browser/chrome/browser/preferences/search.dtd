@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Paieškos juosta">
+
+<!ENTITY searchBar.hidden.label                "Paieškai ir naršymui naudokite adreso juostą">
+<!ENTITY searchBar.shown.label                 "Pridėti paieškos juostą į priemonių juostą">
+
 <!ENTITY defaultSearchEngine.label             "Numatytoji ieškyklė">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso juostoje bei paieškos juostoje.">

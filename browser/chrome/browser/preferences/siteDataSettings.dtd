@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "k">
 <!ENTITY     removingDialog.title          "Svetainių duomenų šalinimas">
 <!ENTITY     removingSelected.description  "Šalinant svetainių duomenis taip pat bus pašalinti susiję slapukai ir turinys darbui neprisijungus. Dėl to galite būti atjungti iš svetainių. Ar tikrai norite atlikti pakeitimus?">
-<!ENTITY     siteTree.label                "Bus pašalinti šie svetainių slapukai:">
+<!ENTITY     siteTree2.label               "Bus pašalinti šie svetainių slapukai">
