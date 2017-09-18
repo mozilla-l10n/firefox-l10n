@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz imenika">
 <!ENTITY attachButton.tooltip "Vključi priponko">
 <!ENTITY spellingButton.tooltip "Preveri črkovanje izbire ali celotnega sporočila">
-<!ENTITY statusLanguageText.tooltip "Jezik preverjanja črkovanja">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo">
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Prilagodi naslov pošiljatelja …">
 <!ENTITY customizeFromAddress.accesskey "P">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Jezik za preverjanje črkovanja">
+<!ENTITY encodingStatusPanel.tooltip "Kodiranje besedila">

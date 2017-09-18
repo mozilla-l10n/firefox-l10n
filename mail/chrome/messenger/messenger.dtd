@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Uredi osnutek">
 <!ENTITY editDraftMsgCmd.accesskey "U">
+<!ENTITY newMsgFromTemplateCmd.label "Novo sporočilo iz predloge">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Ustvari filter iz sporočila …">
 <!ENTITY createFilter.accesskey "f">
 <!ENTITY moveMsgToMenu.label "Premakni v">
@@ -734,12 +736,13 @@
 <!ENTITY attachmentColumn2.tooltip "Razvrsti po priponkah">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Novo sporočilo iz predloge">
 <!ENTITY contextOpenNewWindow.label "Odpri sporočilo v novem oknu">
 <!ENTITY contextOpenNewWindow.accesskey "u">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Odpri sporočilo v novem zavihku">
 <!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextOpenConversation.label "Odpri sporočilo kot pogovor">
