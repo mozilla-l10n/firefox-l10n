@@ -97,6 +97,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Sursa paginii">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -367,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 
+
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă în bara de unelte">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Adaugă în meniu">
@@ -544,6 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+<!ENTITY pageAction.copyLink.label    "Copiază linkul">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">

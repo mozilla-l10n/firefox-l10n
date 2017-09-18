@@ -6,25 +6,18 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Înlocuiește culorile specificate de pagină cu selecțiile mele de mai sus:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "o">
+<!ENTITY  overrideDefaultPageColors2.label       "Înlocuiește culorile specificate de pagină cu selecțiile mele de mai sus">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Întotdeauna">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Numai cu teme cu contrast puternic">
 <!ENTITY  overrideDefaultPageColors.never.label  "Niciodată">
 
 <!ENTITY  color                           "Text și fundal">
-
-
-
-
 <!ENTITY  useSystemColors.label           "Folosește culorile sistemului">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Subliniază linkurile">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Culori pentru linkuri">
-
-
-
-
+<!ENTITY  linkColor2.label                "Linkuri nevizitate">
+<!ENTITY  visitedLinkColor2.label         "Linkuri vizitate">
