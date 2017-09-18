@@ -16,3 +16,16 @@
 <!ENTITY  manualTypeRadio.accesskey     "K">
 <!ENTITY  wpadTypeRadio.label           "Konfigurasi proksi automatik">
 <!ENTITY  wpadTypeRadio.accesskey       "a">
+<!ENTITY  autoTypeRadio.label           "URL konfigurasi proksi automatik:">
+<!ENTITY  autoTypeRadio.accesskey       "k">
+<!ENTITY  reload.label                  "Muat semula">
+<!ENTITY  reload.accesskey              "M">
+<!ENTITY  http.label                    "Proksi:">
+<!ENTITY  http.accesskey                "P">
+<!ENTITY  port.label                    "Port:">
+<!ENTITY  HTTPPort.accesskey            "o">
+<!ENTITY  advanced.label                "Lanjutan…">
+<!ENTITY  advanced.accesskey            "j">
+<!ENTITY  noproxy.label                 "Tiada Proksi untuk:">
+<!ENTITY  noproxy.accesskey             "T">
+<!ENTITY  noproxyExplain.label          "Contoh: .mozilla.org, .net.nz, 192.168.1.0/24">
