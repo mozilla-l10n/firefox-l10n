@@ -3,32 +3,38 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  connectionsDialog.title       "Mga Setting ng Koneksyon">
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  noProxyTypeRadio.label        "Walang proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Gamiting ang mga proxy setting ng sistema">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "I-reload">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "Proxy ng FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Proxy ng HTTP:">
-<!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "Proxy ng SSL:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "Host ng SOCKS:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "Proxy pang-FTP">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "Proxy pang-HTTP">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "Proxy pang-SSL">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Walang Proxy para sa:">
-<!ENTITY  noproxy.accesskey             "W">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Halimbawa: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Gamitin ang proxy server na ito para sa lahat ng protocols">
 <!ENTITY  shareproxy.accesskey          "s">
+<!ENTITY  autologinproxy.accesskey      "i">
