@@ -34,4 +34,17 @@
 <!ENTITY homePageIntro.label            "Mengklik butang Halaman utama akan pergi ke kumpulan halaman berikut:">
 <!ENTITY useCurrent.label               "Gunakan Halaman Semasa">
 <!ENTITY useCurrent.accesskey           "G">
+<!ENTITY useCurrentGroup.label          "Gunakan Kumpulan Semasa">
+<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY browseFile.label               "Pilih Fail…">
+<!ENTITY browseFile.accesskey           "F">
+<!ENTITY useDefault.label               "Pulih Piawai">
+<!ENTITY useDefault.accesskey           "P">
 
+<!ENTITY defaultBrowserGroup.label      "Pelayar Piawai">
+<!ENTITY defaultBrowserButton.label     "Tetapkan Pelayar Piawai">
+<!ENTITY defaultBrowserButton.accesskey "T">
+<!ENTITY alreadyDefaultText             "&brandShortName; adalah pelayar piawai anda.">
+<!ENTITY defaultPendingText             "&brandShortName; akan ditetapkan sebagai pelayar piawai apabila anda klik OK.">
+<!ENTITY wasMadeDefaultText             "l&brandShortName; telah ditetapkan sebagai pelayar piawai anda.">
+<!ENTITY makeDefaultText                "Tetapkan &brandShortName; sebagai pelayar piawai anda.">
