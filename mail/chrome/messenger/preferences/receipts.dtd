@@ -21,6 +21,6 @@
 <!ENTITY outsideDomain.accesskey       "e">
 <!ENTITY otherCases.label              "V vseh ostalih primerih:">
 <!ENTITY otherCases.accesskey          "V">
-<!ENTITY askMe.label                   "Me vprašaj">
-<!ENTITY alwaysSend.label              "Vedno pošlji">
-<!ENTITY neverSend.label               "Nikoli ne pošiljaj">
+<!ENTITY askMe.label                   "me vprašaj">
+<!ENTITY alwaysSend.label              "vedno pošlji">
+<!ENTITY neverSend.label               "nikoli ne pošiljaj">

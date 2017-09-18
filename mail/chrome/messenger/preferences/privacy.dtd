@@ -20,9 +20,9 @@
 <!ENTITY acceptCookies.accesskey "s">
 <!ENTITY acceptThirdParty.pre.label "Sprejemaj piškotke tretjih strani:">
 <!ENTITY acceptThirdParty.pre.accesskey "š">
-<!ENTITY acceptThirdParty.always.label "vedno">
-<!ENTITY acceptThirdParty.never.label "nikoli">
-<!ENTITY acceptThirdParty.visited.label "od obiskanih">
+<!ENTITY acceptThirdParty.always.label "Vedno">
+<!ENTITY acceptThirdParty.never.label "Nikoli">
+<!ENTITY acceptThirdParty.visited.label "Od obiskanih">
 <!ENTITY keepUntil.label "Obdrži jih:">
 <!ENTITY keepUntil.accesskey "O">
 <!ENTITY expire.label "dokler ne pretečejo">
