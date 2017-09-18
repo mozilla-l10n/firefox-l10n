@@ -12,6 +12,9 @@
 <!ENTITY viewPermissions.label          "Urus Keizinan">
 <!ENTITY viewPermissions.accesskey      "U">
 
+<!ENTITY whenBlock.description          "Apabila tetingkap popup telah disekat:">
+<!ENTITY playSound.label                "Mainkan bunyian:">
+<!ENTITY playSound.accesskey            "M">
 
 
 
