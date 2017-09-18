@@ -25,29 +25,29 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "latinico">
 <!ENTITY  font.langGroup.japanese                 "japonsko">
-<!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajščino (Tajvan)">
-<!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajščino">
-<!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajščino (Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "korejščino">
+<!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajsko (Tajvan)">
+<!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajsko">
+<!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajsko (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "korejsko">
 <!ENTITY  font.langGroup.cyrillic                 "cirilico">
-<!ENTITY  font.langGroup.el                       "grščino">
+<!ENTITY  font.langGroup.el                       "grško">
 <!ENTITY  font.langGroup.other                    "druge sisteme pisanja">
-<!ENTITY  font.langGroup.thai                     "tajščino">
-<!ENTITY  font.langGroup.hebrew                   "hebrejščino">
-<!ENTITY  font.langGroup.arabic                   "arabščino">
+<!ENTITY  font.langGroup.thai                     "tajsko">
+<!ENTITY  font.langGroup.hebrew                   "hebrejsko">
+<!ENTITY  font.langGroup.arabic                   "arabsko">
 <!ENTITY  font.langGroup.devanagari               "devanagarščico">
-<!ENTITY  font.langGroup.tamil                    "tamilščino">
-<!ENTITY  font.langGroup.armenian                 "armenščino">
-<!ENTITY  font.langGroup.bengali                  "bengalščino">
+<!ENTITY  font.langGroup.tamil                    "tamilsko">
+<!ENTITY  font.langGroup.armenian                 "armensko">
+<!ENTITY  font.langGroup.bengali                  "bengalsko">
 <!ENTITY  font.langGroup.canadian                 "poenoteno zlogovno pisavo kanadskih staroselcev">
-<!ENTITY  font.langGroup.ethiopic                 "etiopščino">
-<!ENTITY  font.langGroup.georgian                 "gruzinščino">
-<!ENTITY  font.langGroup.gujarati                 "gudžaratski jezik">
+<!ENTITY  font.langGroup.ethiopic                 "etiopsko">
+<!ENTITY  font.langGroup.georgian                 "gruzijsko">
+<!ENTITY  font.langGroup.gujarati                 "gudžaratsko">
 <!ENTITY  font.langGroup.gurmukhi                 "gurmuki">
-<!ENTITY  font.langGroup.khmer                    "kamboščino">
-<!ENTITY  font.langGroup.malayalam                "malajalamščino">
+<!ENTITY  font.langGroup.khmer                    "kmersko">
+<!ENTITY  font.langGroup.malayalam                "malajalamsko">
 <!ENTITY  font.langGroup.math                     "matematiko">
-<!ENTITY  font.langGroup.odia                     "odia">
+<!ENTITY  font.langGroup.odia                     "odijsko">
 <!ENTITY  font.langGroup.telugu                   "telugu">
 <!ENTITY  font.langGroup.kannada                  "kanadsko">
 <!ENTITY  font.langGroup.sinhala                  "singalsko">

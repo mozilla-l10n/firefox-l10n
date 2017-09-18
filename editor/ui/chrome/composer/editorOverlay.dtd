@@ -82,17 +82,17 @@
 
 <!ENTITY fontSizeMenu.label "Velikost">
 <!ENTITY fontSizeMenu.accesskey "V">
-<!ENTITY size-tinyCmd.label "drobna">
+<!ENTITY size-tinyCmd.label "Drobna">
 <!ENTITY size-tinyCmd.accesskey "d">
-<!ENTITY size-smallCmd.label "majhna">
+<!ENTITY size-smallCmd.label "Majhna">
 <!ENTITY size-smallCmd.accesskey "a">
-<!ENTITY size-mediumCmd.label "srednja">
+<!ENTITY size-mediumCmd.label "Srednja">
 <!ENTITY size-mediumCmd.accesskey "s">
-<!ENTITY size-largeCmd.label "velika">
+<!ENTITY size-largeCmd.label "Velika">
 <!ENTITY size-largeCmd.accesskey "e">
-<!ENTITY size-extraLargeCmd.label "zelo velika">
+<!ENTITY size-extraLargeCmd.label "Zelo velika">
 <!ENTITY size-extraLargeCmd.accesskey "z">
-<!ENTITY size-hugeCmd.label "ogromna">
+<!ENTITY size-hugeCmd.label "Ogromna">
 <!ENTITY size-hugeCmd.accesskey "o">
 
 <!-- Font Style SubMenu -->
