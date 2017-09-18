@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  connectionsDialog.title       "Setările conexiunii">
+<!ENTITY  connectionsDialog.title       "Setări privind conexiunea">
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
@@ -14,33 +14,25 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Detectează automat setările proxy-ului pentru această rețea">
 <!ENTITY  WPADTypeRadio.accesskey       "t">
-
-
-
-
+<!ENTITY  autoTypeRadio2.label          "URL pentru configurarea automată a proxy-ului">
 <!ENTITY  reload.label                  "Reîncarcă">
 <!ENTITY  reload.accesskey              "e">
-
-
-
-
-
-
-
-
+<!ENTITY  ftp2.label                    "Proxy FTP">
+<!ENTITY  http2.label                   "Proxy HTTP">
+<!ENTITY  ssl2.label                    "Proxy SSL">
+<!ENTITY  socks2.label                  "Gazdă SOCKS">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Proxy DNS cu SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-
+<!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-
-
+<!ENTITY  noproxy2.label                "Fără proxy pentru">
 <!ENTITY  noproxyExplain.label          "Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Folosește acest proxy pentru toate protocoalele">
 <!ENTITY  shareproxy.accesskey          "x">
