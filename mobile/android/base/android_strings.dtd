@@ -7,6 +7,7 @@
 <!ENTITY firstrun_panel_title_privacy "గోప్యత">
 <!ENTITY firstrun_privacy_message "ఎవరూ చూడనట్టుగా విహరణ చెయ్యండి">
 <!ENTITY firstrun_panel_title_customize "అనుకూలపరచు">
+<!ENTITY firstrun_customize_message "&brandShortName; ను మీ సొంతం చేస్కోండి.">
 <!ENTITY firstrun_bookmarks_title "చరిత్ర">
 <!ENTITY firstrun_bookmarks_message "మీ ఫేవ్స్, ముందు మరియు సెంటర్">
 <!ENTITY firstrun_bookmarks_subtext "మీరు శోధించినప్పుడు మీ బుక్మార్క్లు మరియు చరిత్ర నుండి ఫలితాలను పొందండి.">
@@ -385,6 +386,7 @@
 <!ENTITY pref_dialog_set_default "అప్రమేయంగా చేయి">
 <!ENTITY pref_dialog_default "అప్రమేయం">
 <!ENTITY pref_dialog_remove "తొలగించు">
+<!ENTITY pref_dialog_activitystream_header_content "అదనపు కంటెంట్">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "ఇటీవల ఇష్టాంశాలుగా చేసినవి">
 <!ENTITY pref_dialog_activitystream_visited "సందర్శించినవి">
 
@@ -491,11 +493,13 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "అగ్ర సైట్లకు పిన్ చేయండి">
 <!ENTITY contextmenu_unpin_from_top_sites "అగ్ర సైట్లనుండి పిన్ తీసివేయండి">
 <!ENTITY contextmenu_add_search_engine "అన్వేషణ యంత్రాన్ని కలుపు">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "అగ్ర సైట్లకు ఈ పేజీ పిన్ చేయబడింది">
 <!ENTITY unpinned_page_from_top_sites "అగ్ర సైట్లనుండి పిన్ తీసివేయబడింది">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
