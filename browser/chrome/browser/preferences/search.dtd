@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Bilah Pencarian">
+
+<!ENTITY searchBar.shown.label                 "Tambahkan bilah pencarian di bilah alat">
+
 <!ENTITY defaultSearchEngine.label             "Mesin Pencari Baku">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Pilih mesin pencari utama yang akan digunakan di bilah alamat dan bilah pencarian.">
@@ -14,7 +18,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Mesin pencari sekali klik">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Pilih mesin pencari alternatif yang muncul di bawah bilah alamat dan bilah pencarian ketika anda mulai untuk memasukkan kata kunci.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Pilih mesin pencari alternatif yang muncul di bawah bilah alamat dan bilah pencarian ketika Anda mulai memasukkan kata kunci.">
 
 <!ENTITY engineNameColumn.label                "Mesin Pencari">
 <!ENTITY engineKeywordColumn.label             "Kata Kunci">
