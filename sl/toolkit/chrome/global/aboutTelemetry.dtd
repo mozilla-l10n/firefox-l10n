@@ -42,6 +42,9 @@ Starejše
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrija">
 <!ENTITY aboutTelemetry.moreInformations "Iščete več informacij?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentacija o Firefoxovih podatkih</a> vsebuje vodnike o tem, kako uporabljati naša podatkovna orodja.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentacija o Firefoxovem odjemalcu za telemetrijo</a> vsebuje definicije konceptov, dokumentacijo API in sklice podatkov.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Pregledne plošče telemetrije</a> omogočajo predstavitev podatkov, ki jih Mozilla prejme preko telemetrije.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Odpri v pregledovalniku JSON">
 
@@ -84,6 +87,7 @@ Starejše
 <!ENTITY aboutTelemetry.lateWritesSection "
   Poznejša pisanja
 ">
+<!ENTITY aboutTelemetry.rawPayloadSection "Neobdelana koristna vsebina">
 <!ENTITY aboutTelemetry.raw "Neobdelan JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "

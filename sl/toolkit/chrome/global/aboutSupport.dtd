@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Vključeno">
 <!ENTITY aboutSupport.a11yForceDisabled "Prepreči dostopnost">
 <!ENTITY aboutSupport.a11yHandlerUsed "Uporabljen upravljalec dostopnosti">
+<!ENTITY aboutSupport.a11yInstantiator "Uporabnik storitve dostopnosti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Različice knjižnic">
 
