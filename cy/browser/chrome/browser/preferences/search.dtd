@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Bar Chwilio">
+
+<!ENTITY searchBar.hidden.label                "Defnyddiwch y bar cyfeiriadau ar gyfer chwilio a llywio">
+<!ENTITY searchBar.shown.label                 "Ychwanegu'r bar chwilio i'r bar offer">
+
 <!ENTITY defaultSearchEngine.label             "Peiriant Chwilio Rhagosodedig">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Dewis y peiriant chwilio ragosodedig i'w ddefnyddio yn y bar cyfeiriad a'r bar chwilio.">
