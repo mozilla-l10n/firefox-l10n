@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "ความปลอดภัย">
-<!ENTITY  phishingProtection.label       "การป้องกันฟิชชิ่ง">
 
 <!ENTITY  warnOnAddonInstall2.label       "เตือนคุณเมื่อเว็บไซต์พยายามจะติดตั้งส่วนเสริม">
 <!ENTITY  warnOnAddonInstall2.accesskey   "ต">
@@ -12,10 +11,12 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "ปิดกั้นเนื้อหาที่อันตรายและหลอกลวง">
+
+<!ENTITY  browsingProtection.label        "การป้องกันเนื้อหาหลอกลวงและซอฟต์แวร์ที่เป็นอันตราย">
+<!ENTITY  enableSafeBrowsing.label        "ปิดกั้นเนื้อหาที่เป็นอันตรายและหลอกลวง">
 <!ENTITY  enableSafeBrowsing.accesskey    "ต">
 
-<!ENTITY  blockDownloads.label            "ปิดกั้นการดาวน์โหลดที่อันตราย">
+<!ENTITY  blockDownloads.label            "ปิดกั้นการดาวน์โหลดที่เป็นอันตราย">
 <!ENTITY  blockDownloads.accesskey        "อ">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "เตือนคุณเกี่ยวกับซอฟต์แวร์ไม่พึงประสงค์และไม่ปกติ">

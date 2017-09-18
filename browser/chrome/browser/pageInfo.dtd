@@ -69,7 +69,7 @@
 <!ENTITY  securityView.unknown   "ไม่ทราบ">
 
 
-<!ENTITY  securityView.identity.header   "อัตลักษณ์เว็บไซต์">
+<!ENTITY  securityView.identity.header   "ข้อมูลประจำตัวเว็บไซต์">
 <!ENTITY  securityView.identity.owner    "เจ้าของ:">
 <!ENTITY  securityView.identity.domain   "เว็บไซต์:">
 <!ENTITY  securityView.identity.verifier "ยืนยันโดย:">
