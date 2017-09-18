@@ -27,4 +27,18 @@
 <!ENTITY warn.leavingsecure                 "Keluar daripada halaman yang menyokong enkripsi">
 <!ENTITY warn.leavingsecure.accesskey       "K">
 
+<!ENTITY mixed.description                  "Halaman enkripsi mungkin mengandungi kandungan tanpa enkripsi yang terdedah kepada pengintip atau pemalsuan. &brandShortName; boleh mengesan dan menyekatnya:">
+<!ENTITY warn.mixedactivecontent            "Beri amaran apabila halaman enkripsi mengandungi kandungan yang tidak selamat">
+<!ENTITY warn.mixedactivecontent.accesskey  "B">
+<!ENTITY block.activecontent                "Jangan muatkan kandungan yang tidak selamat dalam halaman enkripsi">
+<!ENTITY block.activecontent.accesskey      "J">
+<!ENTITY warn.mixeddisplaycontent           "Beri amaran apabila halaman enkripsi mengandungi kandungan gabungan jenis lain">
+<!ENTITY warn.mixeddisplaycontent.accesskey "r">
+<!ENTITY block.displaycontent               "Jangan muatkan kandungan gabungan jenis lain dalam halaman enkripsi">
+<!ENTITY block.displaycontent.accesskey     "m">
 
+<!ENTITY certselect.description             "Tentukan cara &brandShortName; memilih sijil keselamatan untuk diserahkan kepada laman web yang memerlukannya:">
+<!ENTITY certselect.auto                    "Pilih Secara Automatik">
+<!ENTITY certselect.auto.accesskey          "A">
+<!ENTITY certselect.ask                     "Tanya Setiap Kali">
+<!ENTITY certselect.ask.accesskey           "K">
