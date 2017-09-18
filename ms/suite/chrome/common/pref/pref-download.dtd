@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.download.title            "Muat turun">
+
+<!ENTITY downloadBehavior.label         "Apabila memulakan muat turun">
+<!ENTITY doNothing.label                "Jangan buka apa-apa">
+<!ENTITY doNothing.accesskey            "J">
+<!ENTITY openProgressDialog.label       "Buka dialog kemajuan">
+<!ENTITY openProgressDialog.accesskey   "B">
+<!ENTITY openDM.label                   "Buka pengurus muat turun">
+<!ENTITY openDM.accesskey               "m">
+<!ENTITY flashWhenOpen.label            "Buka pengurus muat turun sekejap sahaja jika sudah dibuka">
+<!ENTITY flashWhenOpen.accesskey        "j">
+
+<!ENTITY downloadLocation.label         "Apabila menyimpan fail">
+<!ENTITY saveTo.label                   "Simpan fail ke">
+<!ENTITY saveTo.accesskey               "p">
+<!ENTITY chooseDownloadFolder.label     "Pilih Folder…">
+<!ENTITY chooseDownloadFolder.accesskey "F">
+
+
