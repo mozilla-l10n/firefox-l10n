@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Додатки">
 <!ENTITY aboutAddons.header2                    "Ваші додатки">
-<!ENTITY aboutAddons.options                    "Налаштування">
 
 <!ENTITY addonAction.enable                     "Увімкнути">
 <!ENTITY addonAction.disable                    "Вимкнути">
 <!ENTITY addonAction.uninstall                  "Вилучити">
 <!ENTITY addonAction.undo                       "Повернути">
+<!ENTITY addonAction.update                     "Оновити">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName; не вдалося перевірити цей додаток.">
 <!ENTITY addonUnsigned.learnMore                "Докладніше">

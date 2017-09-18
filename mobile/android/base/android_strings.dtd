@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Завантажувати віддалені шрифти при завантаженні сторінки">
 
 <!ENTITY pref_tracking_protection_title2 "Захист від стеження">
-<!ENTITY pref_tracking_protection_summary3 "Увімкнено в приватному перегляді">
 <!ENTITY pref_donottrack_title "Відмова від стеження">
 <!ENTITY pref_donottrack_summary "&brandShortName; буде повідомляти сайти, що ви не хочете, щоб за вами стежили">
 
@@ -831,6 +830,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Рекомендовано &brandPocket;">
 <!ENTITY activity_stream_highlights "Найцікавіше">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "ще">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
