@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Deaktiver">
 <!ENTITY addonAction.uninstall                  "Afinstaller">
 <!ENTITY addonAction.undo                       "Fortryd">
+<!ENTITY addonAction.update                     "Opdater">
 
 <!ENTITY addonUnsigned.message                  "Denne tilføjelse kunne ikke bekræftes af &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Læs mere">
