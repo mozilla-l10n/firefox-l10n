@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Adfer i'r Rhagosodedig">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Analluogi Estyniad">
+
 <!ENTITY downloads.label     "Llwytho i Lawr">
 
 <!ENTITY saveTo.label "Cadw ffeiliau yn">
