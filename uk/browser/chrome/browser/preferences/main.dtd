@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Відновити типову">
 <!ENTITY restoreDefault.accesskey  "д">
 
+<!ENTITY disableExtension.label    "Вимкнути розширення">
+
 <!ENTITY downloads.label     "Завантаження">
 
 <!ENTITY saveTo.label "Зберігати файли до">
