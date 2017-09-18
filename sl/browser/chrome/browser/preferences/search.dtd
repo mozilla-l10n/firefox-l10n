@@ -4,8 +4,8 @@
 
 <!ENTITY searchBar.label                       "Iskalna vrstica">
 
-<!ENTITY searchBar.hidden.label                "Za iskanje in brskanje uporabite naslovno vrstico">
-<!ENTITY searchBar.shown.label                 "Dodajte iskalno vrstico v orodno vrstico">
+<!ENTITY searchBar.hidden.label                "Za iskanje in brskanje uporabi naslovno vrstico">
+<!ENTITY searchBar.shown.label                 "Dodaj iskalno vrstico v orodno vrstico">
 
 <!ENTITY defaultSearchEngine.label             "Privzet iskalnik">
 
