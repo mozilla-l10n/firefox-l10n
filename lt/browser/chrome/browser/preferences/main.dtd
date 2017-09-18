@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Atstatyti numatytąjį">
 <!ENTITY restoreDefault.accesskey  "A">
 
+<!ENTITY disableExtension.label    "Išjungti priedą">
+
 <!ENTITY downloads.label     "Atsiuntimai">
 
 <!ENTITY saveTo.label "Atsiunčiamus failus įrašyti į:">

@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Saugumas">
-<!ENTITY  phishingProtection.label       "Apsauga nuo apgaulės">
 
 <!ENTITY  warnOnAddonInstall2.label       "Įspėti, kai svetainės bando diegti priedus">
 <!ENTITY  warnOnAddonInstall2.accesskey   "t">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Apsauga nuo apgaulingo turinio ir pavojingos programinės įrangos">
 <!ENTITY  enableSafeBrowsing.label        "Blokuoti pavojingą ir apgaulingą turinį">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 

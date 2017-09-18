@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "38em">
 
-<!ENTITY     cookiesonsystem.label          "Slapukai, įrašyti šiame kompiuteryje:">
+<!ENTITY     cookiesonsystem2.label         "Slapukai, įrašyti šiame kompiuteryje">
 <!ENTITY     cookiename.label               "Slapuko vardas">
 <!ENTITY     cookiedomain.label             "Svetainė">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Slapukai">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Ieškoti">
 <!ENTITY     searchFilter.accesskey         "e">
