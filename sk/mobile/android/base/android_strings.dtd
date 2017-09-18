@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Obnovenie kariet, šetrenie dát, nástroje pre vývojárov">
 <!ENTITY pref_category_notifications "Upozornenia">
 <!ENTITY pref_category_notifications_summary "Nové funkcie, aktualizácie webových stránok">
-<!ENTITY pref_content_notifications "Aktualizácie webových stránok">
-<!ENTITY pref_content_notifications_summary2 "Objavte nový obsah z podporovaných stránok">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladenie cez sieť Wi-Fi vyžaduje, aby vaše zariadenie malo nainštalovanú aplikáciu čítačky kódov QR.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Pri načítaní stránky preberať vzdialené písma">
 
 <!ENTITY pref_tracking_protection_title2 "Ochrana pred sledovaním">
-<!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
@@ -334,23 +331,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Ak chcete \&quot;otvoriť viacero odkazov naraz\&quot;, povoľte pre &brandShortName; oprávnenie \&apos;Vykresľovať nad ostatné aplikácie\&apos;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; aktualizovaných webových stránok">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Nastavenia">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Prečítať teraz">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Aktualizované &formatS;">
 
 <!ENTITY pref_char_encoding "Kódovanie znakov">
 <!ENTITY pref_char_encoding_on "Zobrazovať ponuku">
@@ -514,7 +494,17 @@
 <!ENTITY contextmenu_top_sites_edit "Upraviť">
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Pripnúť medzi top stránky">
+<!ENTITY contextmenu_unpin_from_top_sites "Odopnúť z top stránok">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Stránka bola pripnutá medzi top stránky">
+<!ENTITY unpinned_page_from_top_sites "Stránka bola odopnutá z top stránok">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -837,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Odporúčané službou &brandPocket;">
 <!ENTITY activity_stream_highlights "Vybrané stránky">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "viac">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
