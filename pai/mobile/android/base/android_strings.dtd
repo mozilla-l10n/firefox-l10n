@@ -7,6 +7,9 @@
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla Hal jabchu baam  jaanyak, kos ñukweewuliiy mk\&apos;katem web hay sol ñwak looj januyik.">
 <!ENTITY firstrun_panel_title_privacy "Kos jabch tpaay">
 <!ENTITY firstrun_privacy_message "Sal m\&apos; am ñikawuliiy m\&apos; ítem muli">
+<!ENTITY firstrun_privacy_subtext "Sal amchu kos sal jabchu tpaay kŕbo chapayt kjkechyiib kyoha paytum ŕ´am may salm´am ñum amum ñyak ñmwirum ñukwewuliiy nmaktem.">
+<!ENTITY firstrun_panel_title_customize "Wii jaan">
+<!ENTITY firstrun_customize_message "&brandShortName; ha mwiiy majanu.">
 <!ENTITY firstrun_bookmarks_message "Chapayt janmirabhay, jibok yok ñwak tuubkajanuhak yoyik">
 <!ENTITY firstrun_bookmarks_subtext "Chapayt ñmŕmeek ch\&apos; chkwawuhak ee chkjkeech yakuhak yoom myok.">
 <!ENTITY firstrun_data_title "Chapayt">
