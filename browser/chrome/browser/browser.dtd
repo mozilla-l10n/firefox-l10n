@@ -442,7 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjælp til at finde ting! Se efter &#x1F50E; ved siden af forslagene.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjælp til at finde det, du leder efter! Se efter &#x1F50E; ved siden af forslagene.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Skift indstillinger…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "S">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Skift indstillinger…">
