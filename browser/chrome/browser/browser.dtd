@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Adfer y Rhagosodiadau">
 <!ENTITY customizeMode.done "Gorffen">
 <!ENTITY customizeMode.titlebar "Bar Teitl">
+<!ENTITY customizeMode.extraDragSpace "Gofod Llusgo">
 <!ENTITY customizeMode.toolbars2 "Barrau Offer">
 <!ENTITY customizeMode.lwthemes "Themâu">
 <!ENTITY customizeMode.lwthemes.myThemes "Fy Thema">
