@@ -25,11 +25,9 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "मौड्यूल के लिये सूचना जिसे आप जोड़ना चाहते हैं.">
-
-
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "नया PKCS#11 मौड्यूल">
-
-
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "ब्रॉउज करें...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
