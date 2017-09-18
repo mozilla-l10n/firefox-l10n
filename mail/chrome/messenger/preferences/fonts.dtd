@@ -18,12 +18,12 @@
 <!ENTITY  serif.accesskey                         "r">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "a">
-<!ENTITY  monospace.label                         "Pisava s stalno širino:">
+<!ENTITY  monospace.label                         "Enoširinska pisava:">
 <!ENTITY  monospace.accesskey                     "v">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "latinica">
+<!ENTITY  font.langGroup.latin                    "latinico">
 <!ENTITY  font.langGroup.japanese                 "Japonščino">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalno kitajščino (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Poenostavljeno kitajščino">
