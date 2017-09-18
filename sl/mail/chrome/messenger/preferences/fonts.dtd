@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "latinico">
-<!ENTITY  font.langGroup.japanese                 "japonščino">
+<!ENTITY  font.langGroup.japanese                 "japonsko">
 <!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajščino (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajščino">
 <!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajščino (Hong Kong)">
@@ -49,9 +49,9 @@
 <!ENTITY  font.langGroup.math                     "matematiko">
 <!ENTITY  font.langGroup.odia                     "odia">
 <!ENTITY  font.langGroup.telugu                   "telugu">
-<!ENTITY  font.langGroup.kannada                  "kanareščino">
-<!ENTITY  font.langGroup.sinhala                  "singalščino">
-<!ENTITY  font.langGroup.tibetan                  "tibetanščino">
+<!ENTITY  font.langGroup.kannada                  "kanadsko">
+<!ENTITY  font.langGroup.sinhala                  "singalsko">
+<!ENTITY  font.langGroup.tibetan                  "tibetansko">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Najmanjša velikost pisav:">
 <!ENTITY minSize.accesskey                        "N">
