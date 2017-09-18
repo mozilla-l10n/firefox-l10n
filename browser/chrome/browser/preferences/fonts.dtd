@@ -23,30 +23,30 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "latinica">
+<!ENTITY  font.langGroup.latin                    "latinico">
 <!ENTITY  font.langGroup.japanese                 "japonsko">
 <!ENTITY  font.langGroup.trad-chinese             "tradicionalno kitajsko (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "poenostavljeno kitajsko">
 <!ENTITY  font.langGroup.trad-chinese-hk          "tradicionalno kitajsko (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "korejsko">
-<!ENTITY  font.langGroup.cyrillic                 "cirilica">
+<!ENTITY  font.langGroup.cyrillic                 "cirilico">
 <!ENTITY  font.langGroup.el                       "grško">
 <!ENTITY  font.langGroup.other                    "druge pisave">
 <!ENTITY  font.langGroup.thai                     "tajsko">
 <!ENTITY  font.langGroup.hebrew                   "hebrejsko">
 <!ENTITY  font.langGroup.arabic                   "arabsko">
-<!ENTITY  font.langGroup.devanagari               "devanagari">
+<!ENTITY  font.langGroup.devanagari               "devanagarščico">
 <!ENTITY  font.langGroup.tamil                    "tamilsko">
 <!ENTITY  font.langGroup.armenian                 "armensko">
 <!ENTITY  font.langGroup.bengali                  "bengalsko">
-<!ENTITY  font.langGroup.canadian                 "poenoten kanadski Silabari">
+<!ENTITY  font.langGroup.canadian                 "poenoteno zlogovno pisavo kanadskih staroselcev">
 <!ENTITY  font.langGroup.ethiopic                 "etiopsko">
 <!ENTITY  font.langGroup.georgian                 "gruzijsko">
 <!ENTITY  font.langGroup.gujarati                 "gudžaratsko">
-<!ENTITY  font.langGroup.gurmukhi                 "gurmuksko">
+<!ENTITY  font.langGroup.gurmukhi                 "gurmuki">
 <!ENTITY  font.langGroup.khmer                    "kmersko">
 <!ENTITY  font.langGroup.malayalam                "malajalamsko">
-<!ENTITY  font.langGroup.math                     "Matematika">
+<!ENTITY  font.langGroup.math                     "matematiko">
 <!ENTITY  font.langGroup.odia                     "odijsko">
 <!ENTITY  font.langGroup.telugu                   "telugu">
 <!ENTITY  font.langGroup.kannada                  "kanadsko">
