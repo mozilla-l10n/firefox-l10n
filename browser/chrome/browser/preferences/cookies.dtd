@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "ఈ కింది కుకీలు మీ కంప్యూటర్లో నిల్వ చేయబడ్డాయి:">
+<!ENTITY     cookiesonsystem2.label         "ఈ కింది కుకీలు మీ కంప్యూటర్లో నిల్వ చేయబడ్డాయి">
 <!ENTITY     cookiename.label               "కుకీ పేరు">
 <!ENTITY     cookiedomain.label             "సైటు">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "కుకీలు">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "వెతుకు">
 <!ENTITY     searchFilter.accesskey         "S">
