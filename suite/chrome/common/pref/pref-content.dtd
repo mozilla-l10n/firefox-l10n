@@ -10,7 +10,14 @@
 <!ENTITY siteIcons.label                        "Ikon laman web">
 <!ENTITY useSiteIcons.label                     "Papar ikon laman web">
 <!ENTITY useSiteIcons.accesskey                 "P">
+<!ENTITY useFavIcons2.label                     "Cuba gunakan favicon pelayan apabila halaman tidak menentukan ikon">
+<!ENTITY useFavIcons2.accesskey                 "i">
 
+<!ENTITY scrolling.label                        "Skrol">
+<!ENTITY useAutoScroll.label                    "Guna auto-skrol">
+<!ENTITY useAutoScroll.accesskey                "t">
+<!ENTITY useSmoothScroll.label                  "Guna skrol lancar">
+<!ENTITY useSmoothScroll.accesskey              "G">
 
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
