@@ -6,8 +6,17 @@
 <!ENTITY pref.security.title              "Privasi &amp; Keselamatan">
 
 <!ENTITY tracking.label                   "Penjejakan Pengguna">
+<!ENTITY trackingIntro.label              "Laman web boleh menjejak cara anda menggunakannya, sekali gus menjejaskan privasi anda.">
 
+<!ENTITY doNotTrack.label                 "Maklumkan laman web bahawa saya tidak mahu dijejaki">
+<!ENTITY doNotTrack.accesskey             "M">
+<!ENTITY trackProtect.label               "Halang aktiviti penjejakan oleh laman yang dikenali">
+<!ENTITY trackProtect.accesskey           "n">
+<!ENTITY warnTrackContent.label           "Beri amaran kepada saya apabila ada aktiviti penjejakan">
+<!ENTITY warnTrackContent.accesskey       "B">
 
+<!ENTITY geoLocation.label                "Pelayaran Sedar Lokasi">
+<!ENTITY geoIntro.label                   "Laman web boleh meminta maklumat lanjut lokasi semasa anda.">
 
 
 <!-- LOCALIZATION NOTE (safeBrowsing.label, blockWebForgeries.label, blockAttackSites.label):
