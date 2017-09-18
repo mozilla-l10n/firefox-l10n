@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Панель пошуку">
+
+<!ENTITY searchBar.hidden.label                "Використовувати панель адреси для пошуку та навігації">
+<!ENTITY searchBar.shown.label                 "Додати панель пошуку на панель інструментів">
+
 <!ENTITY defaultSearchEngine.label             "Типовий засіб пошуку">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Оберіть типовий пошуковий засіб для використання в панелях адреси і пошуку.">

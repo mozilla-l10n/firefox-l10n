@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Переклад не буде пропонуватись для таких мов:">
+<!ENTITY noTranslationForLanguages2.label "Переклад не буде пропонуватись для таких мов">
 <!ENTITY treehead.languageName.label      "Мови">
 <!ENTITY removeLanguage.label             "Прибрати мову">
 <!ENTITY removeLanguage.accesskey         "м">
 <!ENTITY removeAllLanguages.label         "Прибрати всі мови">
 <!ENTITY removeAllLanguages.accesskey     "в">
 
-<!ENTITY noTranslationForSites.label      "Переклад не буде пропонуватись для таких сайтів:">
+<!ENTITY noTranslationForSites2.label     "Переклад не буде пропонуватись для таких сайтів">
 <!ENTITY treehead.siteName2.label         "Веб-сайти">
 <!ENTITY removeSite.label                 "Прибрати сайт">
 <!ENTITY removeSite.accesskey             "с">
