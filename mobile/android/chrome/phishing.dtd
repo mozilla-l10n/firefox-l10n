@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønsket software og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønsket software prøver at lokke dig til at installere software, der kan påvirke dit system på uventede måder.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Webstedet kan indeholde skadelig software">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; har blokeret denne side da den kan forsøge at installere skadelige apps, der stjæler eller sletter information om dig (for eksempel billeder, adgangskoder, beskeder eller kreditkort).">

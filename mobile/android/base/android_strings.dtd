@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
-
-<!ENTITY firstrun_urlbar_message "Velkommen til &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Find tingene hurtigere ved hjælp af søgeforslag.">
+<!ENTITY firstrun_urlbar_message2 "Tak for at vælge &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "En moderne mobil browser fra Mozilla, nonprofit-organisationen der er dedikeret til et frit og åbent internet.">
+<!ENTITY firstrun_panel_title_privacy "Privatliv">
+<!ENTITY firstrun_privacy_message "Surf på nettet uden at føle dig overvåget">
+<!ENTITY firstrun_privacy_subtext "Privat browsing med beskyttelse mod sporing blokerer for elementer der registrerer data om dig og gemmer ikke din historik når du er færdig.">
+<!ENTITY firstrun_panel_title_customize "Tilpas">
+<!ENTITY firstrun_customize_message "Gør &brandShortName; til din egen.">
+<!ENTITY firstrun_customize_subtext "Tilpas &brandShortName; med tilføjelser. Bloker annoncer, tilføj funktioner eller vælg et tema der passer til dig.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Nem adgang til dine favorit-websteder">
 <!ENTITY firstrun_bookmarks_subtext "Få resultater fra dine bogmærker og din historik, når du søger.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "Færre data, hurtigere internet">
 <!ENTITY firstrun_data_subtext2 "Blokér billeder, så der skal hentes færre data fra de besøgte sider.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, altid på din side">
-<!ENTITY firstrun_sync_subtext "Synkroniser dine faneblade, adgangskoder mm. så du altid har dem hos dig.">
+<!ENTITY firstrun_sync_message2 "Fortsæt hvor du slap.">
+<!ENTITY firstrun_sync_subtext2 "Brug Sync til at finde bogmærker, adgangskoder og andet du har gemt i &brandShortName; på alle dine enheder.">
 <!ENTITY firstrun_signin_message "Bliv forbundet, start">
 <!ENTITY firstrun_signin_button "Log ind på Sync">
 <!ENTITY  onboard_start_button_browser "Start surfing">
@@ -201,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
-<!ENTITY pref_content_notifications "Opdatering af websteder">
-<!ENTITY pref_content_notifications_summary2 "Find nyt indhold fra understøttede websteder">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wi-fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugging via wi-fi kræver, at din enhed har en app til skanning af QR-koder installeret.">
@@ -268,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Hent webskrifttyper ved indlæsning af en webside">
 
 <!ENTITY pref_tracking_protection_title2 "Beskyttelse mod sporing">
-<!ENTITY pref_tracking_protection_summary3 "Aktiveret i privat browsing">
 <!ENTITY pref_donottrack_title "Spor mig ikke">
 <!ENTITY pref_donottrack_summary "&brandShortName; vil fortælle websteder, at du ikke vil spores">
 
@@ -297,10 +299,6 @@
 
 <!ENTITY pref_pwa "Progressive web-apps">
 <!ENTITY pref_pwa_summary "Tillad at web-apps føjes til startskærmen">
-
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Aktivitetsstrøm">
-<!ENTITY pref_activity_stream_summary "En udvidet historik, der gør det nemmere at finde, hvad du leder efter i &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Nu med beskyttelse mod sporing">
 <!ENTITY tracking_protection_prompt_text "Sporingselementer blokeres automatisk, så du ikke behøver at bekymre dig.">
@@ -334,23 +332,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \&apos;Ignorere andre apps\&apos; i &brandShortName; for at kunne åbne flere links ad gangen.">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; websteder er blevet opdateret">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Indstillinger">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Læs nu">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Opdateret d. &formatS;">
-
 <!ENTITY pref_char_encoding "Tegnkodning">
 <!ENTITY pref_char_encoding_on "Vis menu">
 <!ENTITY pref_char_encoding_off "Vis ikke menu">
@@ -359,7 +340,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Ryd nu">
 <!ENTITY pref_clear_on_exit_title3 "Ryd private data ved lukning">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk rydde dine data, når du lukker ved at vælge \u0022Afslut\u0022 i menuen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk rydde dine data, når du lukker ved at vælge \&quot;Afslut\&quot; i menuen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vælg hvilke data, du vil have ryddet">
 <!ENTITY pref_restore_tabs "Gendan faneblade">
 <!ENTITY pref_restore_always "Gendan altid">
@@ -409,6 +390,9 @@
 <!ENTITY pref_dialog_set_default "Brug som standard">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Fjern">
+<!ENTITY pref_dialog_activitystream_header_content "Ekstra indhold">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Seneste bogmærker">
+<!ENTITY pref_dialog_activitystream_visited "Besøgt">
 
 <!ENTITY pref_search_last_toast "Du kan ikke fjerne eller deaktivere din sidste søgetjeneste.">
 
@@ -510,7 +494,17 @@
 <!ENTITY contextmenu_top_sites_edit "Rediger">
 <!ENTITY contextmenu_top_sites_pin "Fastgør webside">
 <!ENTITY contextmenu_top_sites_unpin "Frigør webside">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Fastgør til dine mest besøgte sider">
+<!ENTITY contextmenu_unpin_from_top_sites "Frigør fra dine mest besøgte sider">
 <!ENTITY contextmenu_add_search_engine "Tilføj en søgetjeneste">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Fastgjort til dine mest besøgte sider">
+<!ENTITY unpinned_page_from_top_sites "Frigjort fra dine mest besøgte sider">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -833,7 +827,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Føj til bogmærker">
 
 <!ENTITY activity_stream_topsites "Mest besøgte websider">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Anbefalet af &brandPocket;">
 <!ENTITY activity_stream_highlights "Højdepunkter">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "mere">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -841,14 +840,20 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Besøgt">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Populært">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Start med at browse, og vi vil vise nogle af de artikler, videoer og andre sider du besøgt for nylig eller oprettet bogmærke til her.">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Slå fra">
+<!ENTITY activity_stream_remove "Fjern">
 <!ENTITY activity_stream_delete_history "Slet fra historikken">
 
-<!ENTITY activity_stream_welcome_title "Højdepunkter">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; opretter nu højdepunkter med ting, som du har fundet på nettet, så du altid kan finde tilbage til interessante artikler, videoer, bogmærker og andre websider.">
+<!ENTITY private_tab_panel_title "Privat browsing + sporingsbeskyttelse">
+<!ENTITY private_tab_panel_description "&brandShortName; blokerer dele af de sider der måske sporer hvad du laver på nettet.">
+<!ENTITY private_tab_panel_description2 "Vi gemmer ikke din historik, men hentede filer og nye bogmærker gemmes som normalt på din enhed.">
+<!ENTITY private_tab_learn_more "Vil du vide mere?">
 
 <!ENTITY fullscreen_warning "Fuldskærmstilstand aktiveret">
