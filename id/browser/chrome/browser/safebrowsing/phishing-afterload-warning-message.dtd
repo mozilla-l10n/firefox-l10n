@@ -14,6 +14,7 @@
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "Kenapa halaman ini diblokir?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 <!ENTITY safeb.blocked.malwarePage.title "Telah Dilaporkan sebagai Situs Penyerang!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -31,3 +32,4 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Laman web di <span id='phishing_sitename'/> telah dilaporkan sebagai situs tipuan dan telah diblokir berdasarkan pengaturan keamanan Anda.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Situs tipuan dirancang untuk mengelabui Anda agar melakukan hal berbahaya seperti memasang program, atau mengungkapkan informasi pribadi seperti kata sandi, nomor telepon, atau kartu kredit.</p><p>Memasukan informasi di laman web tersebut mungkin bisa menyebabkan pencurian identitas atau penipuan lainnya.</p>">
 
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; memblokir laman ini karena mencoba memasang aplikasi berbahaya yang dapat mencuri atau menghapus infomasi Anda (seperti foto, sandi, pesan, dan kartu kredit).">
