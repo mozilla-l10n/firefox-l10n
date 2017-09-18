@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.navigator.title           "Pelayar">
+
+<!ENTITY navRadio.label                 "Paparan aktif">
+<!ENTITY navRadio.accesskey             "n">
+<!ENTITY navStartPageMenu.label         "Penetapan Pelayar">
+<!ENTITY newWinPageMenu.label           "Tetingkap Baru">
+<!ENTITY newTabPageMenu.label           "Tab Baru">
+
+<!ENTITY blankPageRadio.label           "Halaman kosong">
+<!ENTITY blankPageRadio.accesskey       "K">
+<!ENTITY homePageRadio.label            "Halaman utama">
+<!ENTITY homePageRadio.accesskey        "m">
+<!ENTITY lastPageRadio.label            "Halaman terakhir yang dilawati">
+<!ENTITY lastPageRadio.accesskey        "H">
+<!ENTITY restoreSessionRadio.label      "Pulih Sesi Terdahulu">
+<!ENTITY restoreSessionRadio.accesskey  "P">
+
+<!ENTITY restoreSessionIntro.label      "Apabila memulihkan sesi dan tetingkap">
+<!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to
+     "Restore [___] tab(s) at a time",
+     using (restoreTabs.label) and a number (restoreTabsAtATime.label). -->
+
+
