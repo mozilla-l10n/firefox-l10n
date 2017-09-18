@@ -35,11 +35,11 @@
 
 <!ENTITY  addressBar.label              "Naslovna vrstica">
 <!ENTITY  addressBar.suggest.label      "Pri uporabi naslovne vrstice predlagaj">
-<!ENTITY  locbar.history2.label         "Zgodovino brskanja">
+<!ENTITY  locbar.history2.label         "zgodovino brskanja">
 <!ENTITY  locbar.history2.accesskey     "Z">
-<!ENTITY  locbar.bookmarks.label        "Zaznamke">
+<!ENTITY  locbar.bookmarks.label        "zaznamke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Odprte zavihke">
+<!ENTITY  locbar.openpage.label         "odprte zavihke">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Povezana iskanja privzetega iskalnika">
 <!ENTITY  locbar.searches.accesskey     "P">
