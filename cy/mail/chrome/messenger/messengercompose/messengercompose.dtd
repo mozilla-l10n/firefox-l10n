@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Ysgrifennu: (dim pwnc)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Ffeil">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Newydd">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Argraffu…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "A">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Golygu">
 <!ENTITY editMenu.accesskey "G">
 <!ENTITY undoCmd.label "Dadwneud">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "B">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Golwg">
 <!ENTITY viewMenu.accesskey "l">
 <!ENTITY viewToolbarsMenuNew.label "Barrau Offer">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Bar Ochr Cysylltiadau">
 <!ENTITY addressSidebar.accesskey "O">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Fformat">
 <!ENTITY formatMenu.accesskey "o">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Dewisiadau">
 <!ENTITY optionsMenu.accesskey "D">
 <!ENTITY checkSpellingCmd2.label "Gwirio Sillafu…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "D">
 <!ENTITY quoteCmd.label "Dyfynnu Neges">
 <!ENTITY quoteCmd.accesskey "N">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Atodi Cerdyn Personol (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Anfon Copi At">
 <!ENTITY fileCarbonCopyCmd.accesskey "A">
 <!ENTITY fileHereMenu.label "Ffeilio Yma">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Offer">
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY messengerCmd.label "E-bost a Grwpiau Newyddion">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Dewisiadau">
 <!ENTITY preferencesCmdUnix.accesskey "e">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Lleihau">
 <!ENTITY bringAllToFront.label "Dod â'r Cyfan i'r Blaen">
 <!ENTITY zoomWindow.label "Chwyddo">
 <!ENTITY windowMenu.label "Ffenestr">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Anfon">
 <!ENTITY quoteButton.label "Dyfynnu">
 <!ENTITY addressButton.label "Cysylltiadau">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Sillafu">
 <!ENTITY saveButton.label "Cadw">
 <!ENTITY printButton.label "Argraffu">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Anfon y neges nawr">
 <!ENTITY sendlaterButton.tooltip "Anfonwch y neges yn ddiweddarach">
 <!ENTITY quoteButton.tooltip "Dyfynnu'r neges flaenorol">
 <!ENTITY addressButton.tooltip "Dewis derbynnydd o'r Llyfr Cyfeiriadau">
 <!ENTITY attachButton.tooltip "Cynnwys atodiad">
 <!ENTITY spellingButton.tooltip "Gwirio sillafu adran neu neges gyfan">
-<!ENTITY statusLanguageText.tooltip "Iaith gwirio sillafu">
 <!ENTITY saveButton.tooltip "Cadw'r neges">
 <!ENTITY cutButton.tooltip              "Torri">
 <!ENTITY copyButton.tooltip             "Copïo">
 <!ENTITY pasteButton.tooltip            "Gludo">
 <!ENTITY printButton.tooltip "Argraffu'r neges">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Oddi wrth:">
 <!ENTITY fromAddr.accesskey "O">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "m">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Mewnosod wyneb gwenog">
 <!ENTITY smiley1Cmd.label "Gwên">
 <!ENTITY smiley2Cmd.label "Gwg">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Diniwed">
 <!ENTITY smiley15Cmd.label "Crio">
 <!ENTITY smiley16Cmd.label "Dim Gair!">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Heb Ganfod Awgrymiadau">
 <!ENTITY spellCheckIgnoreWord.label "Anwybyddu Gair">
 <!ENTITY spellCheckIgnoreWord.accesskey "A">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Atodi Tudalen Gwe…">
 <!ENTITY attachPage.accesskey "T">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
 <!ENTITY spellAddDictionaries.accesskey "G">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Cysylltiadau">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Cyfaddasu Cyfeiriad Oddi Wrth…">
 <!ENTITY customizeFromAddress.accesskey "O">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Iaith gwirio sillafu">
+<!ENTITY encodingStatusPanel.tooltip "Amgodiad testun">
