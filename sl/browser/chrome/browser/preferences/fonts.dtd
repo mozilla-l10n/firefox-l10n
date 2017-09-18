@@ -55,7 +55,7 @@
 <!-- Minimum font size -->
 <!ENTITY minSize2.label                           "Najmanjša velikost pisav">
 <!ENTITY minSize2.accesskey                       "N">
-<!ENTITY minSize.none                             "je ni">
+<!ENTITY minSize.none                             "Je ni">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
@@ -64,10 +64,10 @@
 <!ENTITY  allowPagesToUseOwn.label                "Dovoli stranem, da uporabljajo lastne pisave namesto zgornjih izbir">
 <!ENTITY  allowPagesToUseOwn.accesskey            "h">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Nabor znakov za starejše vsebine">
+<!ENTITY languages.customize.Fallback2.grouplabel "Kodiranje besedila za starejše vsebine">
 <!ENTITY languages.customize.Fallback3.label      "Pomožno kodiranje besedila">
 <!ENTITY languages.customize.Fallback3.accesskey  "ž">
-<!ENTITY languages.customize.Fallback2.desc       "Ta nabor znakov se uporablja za starejše vsebine, ki nimajo navedenega nabora.">
+<!ENTITY languages.customize.Fallback2.desc       "To kodiranje besedila se uporablja za starejše vsebine, ki nimajo navedenega kodiranja.">
 
 <!ENTITY languages.customize.Fallback.auto        "Privzeto za trenuten jezik">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
