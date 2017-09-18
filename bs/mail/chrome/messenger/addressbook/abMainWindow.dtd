@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Adresar">
 <!ENTITY blankResultsPaneMessage.label                  "Ovaj adresar prikazuje kontakte samo nakon pretrage">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakti iz udaljenih adresara nisu prikazani dok ne započnete pretragu">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fajl">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Novi">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Ispis adresara…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "&amp;Uredi">
 <!ENTITY editMenu.accesskey                             "e">
 <!ENTITY undoCmd.label                                  "Poništi">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "k">
 <!ENTITY mailingListPropertiesMenu.label                "Postavke mailing liste">
 <!ENTITY mailingListPropertiesMenu.accesskey            "P">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Pogled">
 <!ENTITY viewMenu.accesskey                             "P">
 <!ENTITY viewToolbarsMenu.label                         "Alatne trake">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Sortiraj po">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Alati">
 <!ENTITY tasksMenu.accesskey                            "t">
 <!ENTITY messengerCmd.label                             "Email &amp; news grupe">
@@ -134,14 +134,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Postavke">
 <!ENTITY preferencesCmdUnix.accesskey                   "a">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Novi kontakt">
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
+<!ENTITY showAsDefault.label                            "Zadani početni direktorij">
+<!ENTITY showAsDefault.accesskey                        "Z">
 <!ENTITY editPropertiesButton.label                     "Uredi">
 <!ENTITY propertiesContext.label                        "Postavke">
 <!ENTITY propertiesContext.accesskey                    "P">
@@ -159,8 +159,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "I">
 <!ENTITY deleteButton2.label                            "Obriši">
 <!ENTITY deleteButton2.accesskey                        "O">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Kreiraj novi kontakt u adresaru">
 <!ENTITY newlistButton.tooltip                          "Kreiraj novu listu">
 <!ENTITY editPropertiesButton.tooltip                   "Uredi izabranu stavku">
@@ -170,18 +170,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Pošalji email poruku">
 <!ENTITY newIM.tooltip                                  "Pošalji instant poruku ili chat">
 <!ENTITY deleteButton2.tooltip                          "Obriši izabranu stavku">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Adresari">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ime ili email adresa">
 <!ENTITY SearchNameOrEmail.accesskey                    "m">
 <!ENTITY advancedButton.tooltip                         "Napredno pretraživanje adresa">
 <!ENTITY quickSearchCmd.key                             "r">
 <!ENTITY searchItem.title "Brzo pretraživanje">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adresar">
 <!ENTITY Addrbook.accesskey                             "d">
 <!ENTITY GeneratedName.label                            "Naziv">
@@ -216,9 +216,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "O">
 <!ENTITY _PhoneticName.label                            "Fonetsko ime">
 <!ENTITY _PhoneticName.accesskey                        "F">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Kućni">
 <!ENTITY other.heading                                  "Ostalo">
@@ -231,11 +231,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Dobavi kartu">
 <!ENTITY mapIt.tooltip                                  "Prikaži ovu adresu na internet karti">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Prozor">
 <!ENTITY minimizeWindow.label                           "Minimiziraj">
 <!ENTITY minimizeWindow.key                             "m">
