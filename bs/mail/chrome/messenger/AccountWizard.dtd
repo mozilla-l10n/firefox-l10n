@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Čarobnjak za račune">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Da biste primali poruke, prvo morate podesiti račun.">
 <!ENTITY accountTypeTitle.label "Podešavanje novog računa">
@@ -17,13 +17,13 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Newsgroup račun">
 <!ENTITY accountTypeNews.accesskey "w">
-<!-- Entities for Identity page -->
 
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitet">
 <!ENTITY identityDesc.label "Svaki račun ima svoj identitet, koji predstavlja informaciju po kojoj će vas drugi prepoznati kada prime vaše poruke.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Upišite ime koje želite da se pojavi u polju &quot;Šalje&quot; vaših odlaznih poruka">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +35,8 @@
 
 <!ENTITY emailLabel.label "Email adresa:">
 <!ENTITY emailLabel.accesskey "E">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Informacija o dolaznom serveru">
 <!ENTITY incomingServerTypeDesc.label "Izabrite koju vrstu dolaznog servera koristite.">
@@ -64,8 +64,8 @@
 <!ENTITY newsServerNameDesc.label "Unesite naziv vašeg news servera (NNTP) (naprimjer, &quot;news.primjer.ba&quot;).">
 <!ENTITY newsServerLabel.label "Server news grupa:">
 <!ENTITY newsServerLabel.accesskey "S">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Informacije o odlaznom serveru">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +75,10 @@
 <!ENTITY outgoingUsername.description "Upišite korisničko ime za slanje emailova koje vam je dao vaš email provajder (obično je identično korisničkom imenu za primanje emailova).">
 <!ENTITY outgoingUsername.label "Odlazno korisničko ime:">
 <!ENTITY outgoingUsername.accesskey "O">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "Odlazne servere možete promijeniti u postavkama računa.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +98,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Vaš odlazni (SMTP) server, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, je identičan dolaznom serveru, dolazno korisničko ime će biti korišteno za pristup serveru.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Naziv računa">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Unesite naziv koji želite da se odnosi na vaš račun (naprimjer, &quot;Poslovni račun&quot;, &quot;Kućni račun&quot; ili &quot;News račun&quot;).">
 <!ENTITY accnameLabel.label "Naziv računa:">
 <!ENTITY accnameLabel.accesskey "N">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Čestitamo!">
 <!ENTITY completionText.label "Molimo vas da potvrdite da su dolje navedene informacije ispravne.">
@@ -117,8 +117,8 @@
 <!ENTITY newsServerNamePrefix.label "Naziv news servera (NNTP):">
 <!ENTITY downloadOnLogin.label "Preuzmi poruke odmah">
 <!ENTITY downloadOnLogin.accesskey "d">
-
-
-
+<!ENTITY deferStorageDesc.label "Odznačite polje za potvrdu da biste čuvali poštu ovog računa u njegovom direktoriju. Ovo će učiniti da ovaj račun izgleda kao račun najvišeg nivoa. U usprotnom će on biti dio globalnog dolaznog sandučeta unutar računa lokalnih direktorija.">
+<!ENTITY deferStorage.label "Koristite Globalno sanduče (čuvajte poštu u lokalnim fasciklama)">
+<!ENTITY deferStorage.accesskey "G">
 <!ENTITY clickFinish.label "Kliknite Završi da spasite ove postavke i izađete iz čarobnjaka.">
 <!ENTITY clickFinish.labelMac "Kliknite Gotovo da spasite ove postavke i izađete iz čarobnjaka.">
