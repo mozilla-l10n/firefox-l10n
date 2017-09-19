@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Următoarele cookie-uri sunt stocate pe calculator:">
+<!ENTITY     cookiesonsystem2.label         "Următoarele cookie-uri sunt stocate pe calculator">
 <!ENTITY     cookiename.label               "Numele cookie-ului">
 <!ENTITY     cookiedomain.label             "Site">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Cookie-uri">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Caută">
 <!ENTITY     searchFilter.accesskey         "S">
