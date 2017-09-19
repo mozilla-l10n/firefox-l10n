@@ -19,13 +19,19 @@
 <!ENTITY safeb.palm.advisory.desc2 "Rada data wot <a id='advisory_provider'/>.">
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Wopyt tutoho websydła móže waš ličak poškodźić">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; je tutu stronu zablokował, dokelž móhła pospytować, złóstnu softwaru instalować, kotraž móhła wosobinske daty na wašim ličaku kradnyć abo zhašeć.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Je so zdźěliło, zo sydło <span id='malware_sitename'/> <a id='error_desc_link'>złóstnu softwaru wobsahuje</a>. Móžeće <a id='report_detection'>problem z wuslědźenjom zdźělić</a> abo<a id='ignore_warning_link'>riziko ignorować</a>, zo byšće tute njewěste sydło wopytał.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Je so zdźěliło, zo sydło <span id='malware_sitename'/> <a id='error_desc_link'>złóstnu softwaru wobsahuje</a>. Móžeće <a id='report_detection'>problem z wuslědźenjom zdźělić</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Zhońće <a id='learn_more_link'>StopBadware.org</a>wjace wo škódnym webwobsahu inkluziwnje wirusy a druhu škódnu softwaru a kak móžeće swój ličak škitać. Zhońće wjace wo škiće přećiwo kradnjenju datow a škódnej softwarje přez &brandShortName; na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Tute sydło móže škódne programe wobsahować">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
