@@ -68,13 +68,49 @@
 <!ENTITY addDevice.dialog.description.label "Untuk mengaktifkannya dalam peranti baru, pergi ke Keutamaan/Pilihan &syncBrand.shortName.label; dalam peranti berkenaan dan pilih &#x0022;Sambung.&#x0022;">
 <!ENTITY addDevice.dialog.enterCode.label   "Masukkan kod yang dipaparkan oleh peranti:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Sila cuba lagi.">
+<!ENTITY addDevice.dialog.successful.label  "Peranti telah berjaya ditambah. Permulaan penyelarasan akan mengambil masa beberapa minit dan akan siap dalam latar belakang.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Untuk mengaktifkan peranti, anda perlu masukkan Kunci Pemulihan. Sila cetak atau simpan kekunci ini dan bawa bersama anda.">
+<!ENTITY addDevice.dialog.connected.label   "Peranti telah Disambung">
 
 <!-- Existing Account Page 2: Manual Login -->
+<!ENTITY setup.signInPage.title.label "Daftar Masuk">
+<!ENTITY existingRecoveryKey.description "Anda boleh dapatkan salinan Kekunci Pemulihan dengan pergi ke Keutamaan/Pilihan &syncBrand.shortName.label; dalam peranti yang lain, dan pilih &#x0022;Kekunci Pemulihan Saya&#x0022; dalam &#x0022;Urus Akaun&#x0022;.">
+<!ENTITY verifying.label              "Mengesahkan…">
+<!ENTITY resetPassword.label          "Mengeset Semula Kata Laluan">
+<!ENTITY resetSyncKey.label           "Saya kehilangan peranti yang lain.">
 
 <!-- Sync Options -->
+<!ENTITY setup.optionsPage.title      "Pilihan Sync">
+<!ENTITY syncComputerName.label       "Nama Komputer:">
+<!ENTITY syncComputerName.accesskey   "K">
 
+<!ENTITY syncMy.label               "Sync">
+<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.bookmarks.label     "Tandabuku">
+<!ENTITY engine.bookmarks.accesskey "T">
+<!ENTITY engine.tabs.label          "Tab">
+<!ENTITY engine.tabs.accesskey      "b">
+<!ENTITY engine.history.label       "Sejarah">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "Kata laluan">
+<!ENTITY engine.passwords.accesskey "K">
+<!ENTITY engine.prefs.label         "Keutamaan">
+<!ENTITY engine.prefs.accesskey     "e">
 
+<!ENTITY choice2.merge.main.label      "Gabungkan data peranti ini dengan data saya dalam &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "(disyorkan)">
+<!ENTITY choice2.client.main.label     "Gantikan semua data dalam peranti ini dengan data saya dalam &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Gantikan data semua peranti lain dengan data dalam komputer ini">
 
 <!-- Confirm Merge Options -->
+<!ENTITY setup.optionsConfirmPage.title "Sahkan">
+<!ENTITY confirm.merge.label    "&syncBrand.fullName.label; akan menggabungkan semua data pelayar dalam komputer ini ke akaun Sync anda.">
+<!ENTITY confirm.client2.label         "Amaran: Data &brandShortName; dalam komputer ini akan dibuang:">
+<!ENTITY confirm.client.moreinfo.label "&brandShortName; akan menyalin data &syncBrand.fullName.label; ke dalam komputer ini.">
+<!ENTITY confirm.server2.label         "Amaran: Data peranti berikut akan ditulis ganti dengan data lokal anda:">
 
 <!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Penetapan Selesai">
+<!ENTITY changeOptions.label "Anda boleh tukar keutamaan ini dengan memilih Pilihan Sync di bawah.">
+<!ENTITY continueUsing.label "Sekarang anda sudah boleh menggunakan &brandShortName;.">
