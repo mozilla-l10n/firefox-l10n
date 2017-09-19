@@ -28,12 +28,15 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> on raporteeritud <a id='error_desc_link'>pahavara sisaldava saidina</a>. Sa võid <a id='report_detection'>raporteerida tuvastamise probleemist</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Rohkem teavet kahjuliku veebisisu ja muu pahavara, ning selle kohta, kuidas oma arvutit kaitsta, leiab aadressilt <a id='learn_more_link'>StopBadware.org</a>. Rohkem teavet &brandShortName;i veebivõltsingute ja pahavara vastase kaitse kohta leiab aadressilt <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Külastatav sait võib sisaldada kahjulikke rakendusi">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blokkis selle lehe, sest see võib üritada sind ülekavaldada, et paigaldaksid tarkvara, mis kahjustab sinu veebilehitsemise kogemust (nt vahetab välja brauseri avalehe või kuvab reklaame lehtedel, mida külastad).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> on raporteeritud <a id='error_desc_link'>kahjulikku tarkvara sisaldava saidina</a>. Sa võid <a id='ignore_warning_link'>riski ignoreerida</a> ja jätkata selle ebaturvalise saidi külastamist.">
 
 
 
@@ -51,3 +54,4 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Rohkem teavet &brandShortName;i veebivõltsingute ja pahavara vastase kaitse kohta leiab aadressilt <a id='firefox_support'>support.mozilla.org</a>.">
