@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Código fuente de esta página">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Información sobre esta página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver pestañas sincronizadas en la barra lateral">
+
+<!ENTITY appMenuRecentHighlights.label "Destacados recientes">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agregar a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -836,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restaurar los valores predeterminados">
 <!ENTITY customizeMode.done "Terminado">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.extraDragSpace "Espacio de arrastre">
 <!ENTITY customizeMode.toolbars2 "Barra de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
@@ -891,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Habilitar protección">
 <!ENTITY trackingProtection.block2.accesskey "H">
-
-<!ENTITY trackingContentBlocked.message "Rastreo">
-<!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean tu actividad en línea han sido bloqueadas.">
-<!ENTITY trackingContentBlocked.learnMore "Saber más">
-<!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock2.label "Deshabilitar la protección para este sitio">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Habilitar protección">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "M">

@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Eliminar datos del sitio">
 <!ENTITY     removingSelected.description  "Si se eliminan los datos del sitio también se eliminarán las cookies asociadas con estos y el contenido Web sin conexión. ¿Estás seguro de que quieres hacer estos cambios?">
-<!ENTITY     siteTree.label                "Se eliminarán cookies de los siguientes sitios web:">
+<!ENTITY     siteTree2.label               "Las cookies del siguiente sitio web serán eliminadas">

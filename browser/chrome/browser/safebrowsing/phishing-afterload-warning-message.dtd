@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "¡Salir de aquí!">
-<!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
+<!ENTITY safeb.palm.accept.label2 "Ir atrás">
+<!ENTITY safeb.palm.seedetails.label "Ver detalles">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,48 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "¿Por qué está bloqueda esta página?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Asesoramiento proporcionado por <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "Advertencia brindada por <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "¡Página reportada como atacante!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Esta página hospedada en <span id='malware_sitename'/> ha sido reportada como atacante y se bloqueó con base en tus preferencias de seguridad.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas atacantes intentan instalar programas para robarte información privada, usar tu equipo para atacar a otros o dañar tu sistema.</p><p>Algunas distribuyen intencionalmente programas dañinos y otras fueron comprometidas sin el conocimiento de sus dueños.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "¡Sitio reportado con software malicioso!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta página ubicada en <span id='unwanted_sitename'/> ha sido reportada que tienen software no deseado y ha sido bloqueada basándonos en tu preferencias de seguridad.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Páginas de software no deseadas intentan instalar software que puede ser engañoso y afectar tu sistema de maneras inesperadas.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Visitar este sitio web puede dañar tu computadora">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ha bloqueado esta página porque puede intentar instalar software malicioso que podría robar o borrar tu información personal en la computadora.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "¡Sitio engañoso!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Esta página <span id='phishing_sitename'/> ha sido reportada como una falsificación y se bloqueó con base en tus preferencias de seguridad.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Los sitios fraudulentos están diseñados para engañarte y hacer algo peligroso, como instalar software, o revelar tu información personal, como contraseñas, números de teléfono o tarjetas de crédito.</p><p>Ingresando cualquier información en esta página web puede resultar en robo de identidad u otro fraude.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> ha sido <a id='error_desc_link'>reportado como contenedor de software malicioso</a>. Puedes <a id='report_detection'>reportar esta dirección web</a> o <a id='ignore_warning_link'>ignorar el riesgo</a> e ir al sitio inseguro.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> ha sido <a id='error_desc_link'>reportado como contenedor de software malicioso</a>. Puedes <a id='report_detection'>reportar este sitio web</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Conoce más sobre contenido web peligroso, incluyendo diversos virus y malware y cómo puedes proteger tu computadora en <a id='learn_more_link'>StopBadware.org</a>. Conoce más acerca de la protección contra phishing y malware que ofrece &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "El sitio puede contener programas peligrosos">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ha bloqueado esta página porque puede intentar engañarte instalando programas que perjudiquen tu experiencia de navegación (por ejemplo, cambiando tu página de inicio o mostrando más publicidad en los sitios web que visites).">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> ha sido <a id='error_desc_link'>reportado como contenedor de software peligroso</a>. Puedes <a id='ignore_warning_link'>ignorar el riesgo</a> e ir al sitio inseguro.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> ha sido <a id='error_desc_link'>reportado como contenedor de software peligroso</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Conoce más acerca de software peligroso y no solicitado en <a id='learn_more_link'>Política de Software no Requerido</a>. Conoce más acerca de la protección contra phishing y malware que ofrece &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.phishingPage.title3 "El sitio es engañoso">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; ha bloqueado esta página porque puede intentar engañarte y lograr que hagas algo peligroso como instalar software o revelar información personal como contraseñas o números de tarjeta de crédito.">
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> ha sido <a id='error_desc_link'>reportado como sitio peligroso</a>. Puedes <a id='report_detection'>reportar la detección del problema</a> o <a id='ignore_warning_link'>ignorar el riesgo</a> e ir al sitio inseguro.">
+
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> ha sido <a id='error_desc_link'>reportado como sitio peligroso</a>. Puedes <a id='report_detection'>reportar la detección del problema</a>.">
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "El sitio puede contener malware">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ha bloqueado esta página porque podría tratar de instalar aplicaciones peligrosas que roben o eliminen tu información (por ejemplo, fotos, contraseñas, mensajes y tarjetas de crédito).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
