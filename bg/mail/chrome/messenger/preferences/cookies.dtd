@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                      "46em">
 
-<!ENTITY cookiesonsystem.label             "Следните бисквитки са запазени на компютъра ви:">
+<!ENTITY cookiesonsystem.label             "Бисквитки, запазени на вашия компютър:">
 <!ENTITY cookiename.label                  "Име на бисквитката">
 <!ENTITY cookiedomain.label                "Сайт">
 <!ENTITY button.removecookie.label         "Премахване">
