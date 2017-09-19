@@ -41,18 +41,9 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Riješi">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adrese">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN status">
+<!ENTITY aboutNetworking.rcwnOperation         "Keš operacija">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Otvori">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Čitaj">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Piši">

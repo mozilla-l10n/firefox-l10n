@@ -30,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "Prikaži sve ekstenzije">
 <!ENTITY debugAddons.label                    "Debagiranje add-ona">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Svi add-oni su onemogućeni od strane sigurnog režima.">
 <!ENTITY warning.checkcompatibility.label          "Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.">
 <!ENTITY warning.checkcompatibility.enable.label   "Omogući">
@@ -39,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "Sigurnosna provjera updatea za add-one je onemogućena. Možete biti kompromitovani putem updatea.">
 <!ENTITY warning.updatesecurity.enable.label       "Omogući">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Omogući provjeravanje sigurnosti update-a add-ona">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "Traži">
 <!ENTITY view.discover.label                  "Dobavi Add-one">
 <!ENTITY view.recentUpdates.label             "Nedavni update-i">
 <!ENTITY view.availableUpdates.label          "Dostupni update-i">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Provjeri za update">
 <!ENTITY updates.checkForUpdates.accesskey    "P">
 <!ENTITY updates.viewUpdates.label            "Prikaži nedavne update-e">
@@ -74,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "Prikaži dostupne update-e">
 <!ENTITY updates.updateSelected.label         "Instaliraj update">
 <!ENTITY updates.updateSelected.tooltip       "Instaliraj dostupne update-e na ovoj listi">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Prikaži više informacija">
 <!ENTITY cmd.showDetails.accesskey            "P">
 <!ENTITY cmd.findUpdates.label                "Pronađi update">
@@ -118,16 +118,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovaj update">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovaj update">
+<!ENTITY cmd.findReplacement.label            "Pronađi zamjenu">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "Šta su Add-oni?">
 <!ENTITY discover.description2                "Add-oni su aplikacije koje vam omogućavaju da personalizirate &brandShortName; sa dodatnom funkcionalnošću ili stilom. Probajte vremensku prognozu ili tematiziran izgled da uljepšate &brandShortName;.">
 <!ENTITY discover.footer                      "Kada ste konektovani na internet, ovaj panel će prikazivati neke od najboljih i najpopularnijih add-ona koje možete isprobati.">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "Verzija">
 <!ENTITY detail.lastupdated.label             "Zadnji update">
 <!ENTITY detail.creator.label                 "Developer">
@@ -156,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "Postavke">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Promijeni postavke ovog add-ona">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "Ocjena">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauza">
 <!ENTITY progress.cancel.tooltip              "Otkaži">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "Naziv">
 <!ENTITY sort.name.tooltip                    "Sortiraj po nazivu">
 <!ENTITY sort.dateUpdated.label               "Zadnji update">
@@ -222,12 +222,12 @@
 <!ENTITY eula.accept                          "Prihvati i instaliraj…">
 
 <!ENTITY settings.path.button.label           "Pregled…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "Šta je ovo? Telemetrija može instalirati i pokretati eksperimente s vremena na vrijeme.">
 <!ENTITY experiment.info.learnmore "Saznajte više">
 <!ENTITY experiment.info.learnmore.accesskey "z">
@@ -253,8 +253,4 @@
 
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
-
-
-
-
 
