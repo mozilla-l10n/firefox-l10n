@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label 'ບຸກມາກສ໌ເດສກ໌ທັອບ'>
 <!ENTITY bookmarks.folder.mobile.label 'ບຸກມາກສ໌ມືຖື'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'ປັກ'>
+<!ENTITY bookmarks.folder.pinned.label 'ປັກຫມຸດແລ້ວ'>
 
 <!-- Firefox Account strings. -->
 

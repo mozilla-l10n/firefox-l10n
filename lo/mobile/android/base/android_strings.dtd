@@ -486,19 +486,19 @@
 <!ENTITY contextmenu_subscribe "ເປັນສະມາຊິກຫນ້ານີ້">
 <!ENTITY contextmenu_site_settings "ແກ້ໄຂການຕັ້ງຄ່າເວັບໄຊທ໌">
 <!ENTITY contextmenu_top_sites_edit "ແກ້ໄຂ">
-<!ENTITY contextmenu_top_sites_pin "Pin ເວັບໄຊທ໌">
-<!ENTITY contextmenu_top_sites_unpin "Unpin ເວັບໄຊທ໌">
+<!ENTITY contextmenu_top_sites_pin "ປັກຫມຸດເວັບໄຊທ໌">
+<!ENTITY contextmenu_top_sites_unpin "ຖອນຫມຸດເວັບໄຊທ໌">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Pin ໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
-<!ENTITY contextmenu_unpin_from_top_sites "Unpin ອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY contextmenu_pin_to_top_sites "ປັກຫມຸດໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY contextmenu_unpin_from_top_sites "ຖອນຫມຸດອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
 <!ENTITY contextmenu_add_search_engine "ເພີ່ມລະບົບການຊອກຫາ">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "Pin ຫນ້າເວັບໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
-<!ENTITY unpinned_page_from_top_sites "Unpin ຫນ້າເວັບອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY pinned_page_to_top_sites "ປັກຫມຸດຫນ້າເວັບໄປທີ່ເວັບໄຊທ໌ຍອດນິຍົມ">
+<!ENTITY unpinned_page_from_top_sites "ຖອນຫມຸດຫນ້າເວັບອອກຈາກເວັບໄຊທ໌ຍອດນິຍົມ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -612,8 +612,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "Pin ເວັບໄຊຕ໌ແລ້ວ">
-<!ENTITY home_unpinned_site "Unpin ເວັບໄຊຕ໌ແລ້ວ">
+<!ENTITY home_pinned_site "ປັກຫມຸດເວັບໄຊຕ໌ແລ້ວ">
+<!ENTITY home_unpinned_site "ຖອນຫມຸດເວັບໄຊຕ໌ແລ້ວ">
 
 <!ENTITY remote_tabs_panel_moved_title "ແທັບຂອງຂ້ອຍຫາຍໄປໃສແລ້ວ?">
 <!ENTITY remote_tabs_panel_moved_desc "ພວກເຮົາໄດ້ຍ້າຍແທັບຂອງທ່ານຈາກອຸປະກອນອື່ນມາໄວ້ຢູ່ໃນຫນ້າກະດານທຳອິດເພື່ອເຮັດໃຫ້ທ່ານສາມາດເຂົ້າໃຊ້ໄດ້ຢ່າງສະດວກສະບາຍໃນເວລາທີ່ທ່ານເປີດແທັບໃຫມ່ທຸກໆຄັ້ງ.">
