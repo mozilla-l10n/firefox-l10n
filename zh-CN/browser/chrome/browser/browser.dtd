@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
 <!ENTITY customizeMode.done "完成">
 <!ENTITY customizeMode.titlebar "标题栏">
-<!ENTITY customizeMode.extraDragSpace "拖放空间">
+<!ENTITY customizeMode.extraDragSpace "拖拽区域">
 <!ENTITY customizeMode.toolbars2 "工具栏">
 <!ENTITY customizeMode.lwthemes "主题">
 <!ENTITY customizeMode.lwthemes.myThemes "我的主题">
