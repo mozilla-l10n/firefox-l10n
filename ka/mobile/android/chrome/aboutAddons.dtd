@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "დამატებები">
 <!ENTITY aboutAddons.header2                    "თქვენი დამატებები">
-<!ENTITY aboutAddons.options                    "პარამეტრები">
 
 <!ENTITY addonAction.enable                     "ჩართვა">
 <!ENTITY addonAction.disable                    "ამორთვა">
 <!ENTITY addonAction.uninstall                  "ამოღება">
 <!ENTITY addonAction.undo                       "დაბრუნება">
+<!ENTITY addonAction.update                     "განახლება">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName;-მა ეს დამატება ვერ გადაამოწმა.">
 <!ENTITY addonUnsigned.learnMore                "შეიტყვეთ მეტი">

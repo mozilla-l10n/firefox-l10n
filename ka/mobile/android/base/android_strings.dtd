@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "ჩანართების აღდგენა, მონაცემების დამზოგი, შემმუშავებლის ხელსაწყოები">
 <!ENTITY pref_category_notifications "ცნობები">
 <!ENTITY pref_category_notifications_summary "ახალი ფუნქციები, ვებსაიტის განახლებები">
-<!ENTITY pref_content_notifications "ვებსაიტის განახლებები">
-<!ENTITY pref_content_notifications_summary2 "აღმოაჩინეთ ახალი შიგთავსი მხარდაჭერილი საიტებიდან">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi გამართვისთვის საჭიროა დაყენებული იყოს QR კოდის წამკითხავი.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "დისტანციური შრიფტების ჩამოტვირთვა გვერდის ჩატვირთვისას">
 
 <!ENTITY pref_tracking_protection_title2 "თვალთვალისგან დაცვა">
-<!ENTITY pref_tracking_protection_summary3 "ჩართული პირად დათვალიერებაში">
 <!ENTITY pref_donottrack_title "არ მითვალთვალო">
 <!ENTITY pref_donottrack_summary "&brandShortName; მიუთითებს საიტებს, რომ არ გსურთ, გითვალთვალონ">
 
@@ -334,23 +331,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;ბევრი ბმულის გასახსნელად\&quot;, დართეთ &brandShortName;-ს \&apos;სხვა აპების გადაფარვის\&apos; ნება">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; ვებსაიტი განახლდა">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "პარამეტრები">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "წაკითხვა ახლავე">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "განახლდა &formatS;-ზე">
 
 <!ENTITY pref_char_encoding "სიმბოლოთა კოდირება">
 <!ENTITY pref_char_encoding_on "მენიუს ჩვენება">
@@ -514,7 +494,17 @@
 <!ENTITY contextmenu_top_sites_edit "რედაქტირება">
 <!ENTITY contextmenu_top_sites_pin "საიტის მიმაგრება">
 <!ENTITY contextmenu_top_sites_unpin "მიმაგრების მოხსნა">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "რჩეულ საიტებში დამატება">
+<!ENTITY contextmenu_unpin_from_top_sites "რჩეული საიტებიდან ამოღება">
 <!ENTITY contextmenu_add_search_engine "საძიებო სისტემის დამატება">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "დამატებულია რჩეულებში">
+<!ENTITY unpinned_page_from_top_sites "ამოღებულია რჩეულებიდან">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -840,6 +830,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket;-ის მიერ შემოთავაზებული">
 <!ENTITY activity_stream_highlights "შესამჩნევები">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "მეტი">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
