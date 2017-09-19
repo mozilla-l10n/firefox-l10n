@@ -58,5 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, inzan akked tkarḍiwin n usmad).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> inna-d d akken <a id='error_desc_link'> yegber asnas n ddir</a>. Tzemreḍ ad tsurfeḍ i wugur <a id='ignore_warning_link'> neɣ </a> ddu ɣer usmel-agi n ddir.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> inna-d d akken <a id='error_desc_link'> yegber asnas n ddir </a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Issin ugar ɣef usfuɣel d umestan n &brandShortName; di <a id='firefox_support'>support.mozilla.org</a>.">
