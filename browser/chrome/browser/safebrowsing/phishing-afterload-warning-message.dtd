@@ -28,6 +28,7 @@
 
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "El próximo sitio puede contener programas dañinos">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -35,6 +36,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "El sitio siguiente es engañoso">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
