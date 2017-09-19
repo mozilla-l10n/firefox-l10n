@@ -207,7 +207,7 @@
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
 <!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wi-fi">
+<!ENTITY pref_developer_remotedebugging_wifi "Ekstern debugging via wi-fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugging via wi-fi kræver, at din enhed har en app til skanning af QR-koder installeret.">
 <!ENTITY pref_remember_signons2 "Husk logins">
 <!ENTITY pref_manage_logins "Håndter logins">
@@ -312,7 +312,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan senere ændre dette i indstillingerne">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktiver Ignorering af andre apps">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Tillad at indhold åbnes på skærmen, mens andre apps er aktive">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktiver">
 <!ENTITY tab_queue_prompt_negative_action_button "Ikke nu">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
