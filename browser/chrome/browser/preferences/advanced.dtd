@@ -38,6 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "r">
 <!ENTITY crashReporterLearnMore.label    "Pelajari Lebih Lanjut">
 
 <!ENTITY networkTab.label                "Jaringan">
@@ -115,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Pengecualian…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "c">
 
+<!ENTITY offlineAppsList3.label          "Situs web berikut ini diizinkan menyimpan data untuk penggunaan luring">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Hapus…">
 <!ENTITY offlineAppsListRemove.accesskey "H">
@@ -131,6 +133,7 @@ available. -->
 <!ENTITY viewCerts2.label                "Tampilkan Sertifikat…">
 <!ENTITY viewCerts2.accesskey            "S">
 <!ENTITY viewSecurityDevices2.label      "Peranti Keamanan…">
+<!ENTITY viewSecurityDevices2.accesskey  "P">
 
 <!ENTITY performance.label               "Kinerja">
 <!ENTITY useRecommendedPerformanceSettings2.label
