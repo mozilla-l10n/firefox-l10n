@@ -20,13 +20,17 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "A webhely felkeresése káros lehet a számítógépére">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "A &brandShortName; blokkolta ezt az oldalt, mert lehet, hogy kártékony szoftvert próbál meg telepíteni, amely ellophatja vagy törölheti a személyes adatait a számítógépéről.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "A(z) <span id='malware_sitename'/> oldal <a id='error_desc_link'>ártalmas szoftvert tartalmazóként lett jelentve</a>. <a id='report_detection'>Bejelentheti észlelési hibaként</a>, vagy <a id='ignore_warning_link'>figyelmen kívül hagyhatja a kockázatot</a>, és továbbmehet erre a nem biztonságos oldalra.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "A(z) <span id='malware_sitename'/> oldal <a id='error_desc_link'>ártalmas szoftvert tartalmazóként lett jelentve</a>. <a id='report_detection'>Bejelentheti észlelési hibaként</a>.">
 
 
 
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Az oldal rosszindulatú programokat tartalmazhat">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -34,6 +38,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Félrevezető oldal">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
