@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Стандартната страница">
 <!ENTITY restoreDefault.accesskey  "С">
 
+<!ENTITY disableExtension.label    "Изключване на разширението">
+
 <!ENTITY downloads.label     "Изтегляния">
 
 <!ENTITY saveTo.label "Запазване на файловете в">
