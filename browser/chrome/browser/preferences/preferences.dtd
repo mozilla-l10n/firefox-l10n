@@ -16,12 +16,21 @@
 <!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
      of the search field in about:preferences, in order to make entire placeholder
      string visible -->
+<!ENTITY  searchField.width             "15.4 em">
 
 <!ENTITY  paneSearchResults.title       "खोजी परिणामहरू">
 <!ENTITY  paneGeneral.title             "सामान्य">
 <!ENTITY  paneSearch.title              "खोज">
+<!ENTITY  paneFilesApplications.title   "फाइलहरू &amp; अनुप्रयोगहरू">
+<!ENTITY  panePrivacySecurity.title     "गोपनीयता &amp; सुरक्षा">
 <!ENTITY  paneContainers.title          "कन्टेनर ट्याबहरू">
+<!ENTITY  paneUpdates.title             "अद्यावधिकहरू">
 
+<!ENTITY  languageAndAppearance.label   "भाषा र रूप">
+<!ENTITY  filesAndApplications.label    "फाइलहरू र अनुप्रयोगहरू">
+<!ENTITY  browserPrivacy.label          "ब्राउजर गोपनीयता">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox खाता">
 
+<!ENTITY  helpButton2.label        "&brandShortName; समर्थन">

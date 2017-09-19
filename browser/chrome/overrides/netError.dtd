@@ -9,8 +9,8 @@
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
 <!ENTITY returnToPreviousPage.label "पछाडि जानुहोस्">
 <!ENTITY advanced.label "उन्नत">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जडान गर्न असमर्थ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणले यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
 <!ENTITY captivePortal.title "सञ्जालमा लगइन गर्नुहोस्">
+<!ENTITY captivePortal.longDesc2 "<p>इन्टरनेटमा पहुँच गर्नु अघि तपाईँले यस नेटवर्कमा लग इन गर्नु पर्छ ।</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "नेटवर्क लगइन पृष्ठ खोल्नुहोस्">
 
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सामान्यतया यसरी लेखिन्छ <strong>http://www.example.com/</strong></li> <li>तपाईँले अगाडिको स्ल्यास (जस्तै <strong>/</strong>) प्रयोग गर्नु भएको छ भन्ने निश्चित गर्नुहोस्।</li> </ul>">
@@ -103,10 +104,12 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "अग्रसर जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; ले <span id='wrongSystemTime_URL'/> सँग जडान गरेन किनकि तपाईँको कम्प्युटरको घडीले गलत समय देखाएको छ र यसले सुरक्षित जडानलाई रोकेको छ ।</p><p> तपाईँको कम्प्युटर <span id='wrongSystemTime_systemDate'/> मा सेट गरिएको छ जब कि <span id='wrongSystemTime_actualDate'/> हुन पर्थ्यो । यो समस्या समाधान गर्न, तपाईँको मिति र समय सेटिङ्गहरू सहि समय सँग मिल्ने गरि परिवर्तन गर्नुहोस् ।</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ले <span id='wrongSystemTimeWithoutReference_URL'/> सँग जडान गरेन किनकि तपाईँको कम्प्युटरको घडीले गलत समय देखाएको छ र यसले सुरक्षित जडानलाई रोकेको छ ।</p><p> तपाईँको कम्प्युटर <span id='wrongSystemTimeWithoutReference_systemDate'/> मा सेट गरिएको छ । यो समस्या समाधान गर्न, तपाईँको मिति र समय सेटिङ्गहरू सहि समय सँग मिल्ने गरि परिवर्तन गर्नुहोस् ।</p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जडान">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "यो साइटले &brandShortName; मात्र सुरक्षित जडान गर्न सक्छ भन्ने निर्दिष्ट गर्न  HTTP Strict Transport Security (HSTS) प्रयोग गर्छ । फलस्वरूप, यो प्रमाणपत्रको लागि अपवाद थप्न सम्भव छैन।">
