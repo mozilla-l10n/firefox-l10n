@@ -270,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "डाउनलोडहरू">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "डाउनलोडहरू">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -306,6 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
 <!ENTITY copyCmd.label            "प्रतिलिपि गर्नुहोस्">
+<!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "टाँस्नुहोस्">
 <!ENTITY pasteCmd.key           "V">
@@ -333,6 +335,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "अनुकुलित बनाउनुहोस्...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "उपकरणपट्टि अनुकुलन गर्नुहोस्…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "इतिहास">
 <!ENTITY historyMenu.accesskey "s">
@@ -352,6 +356,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "हालको इतिहास खाली गर्नुहोस्…">
 <!ENTITY appMenuHistory.restoreSession.label "अघिल्लो सत्र पुनर्स्थापना गर्नुहोस्">
 <!ENTITY appMenuHistory.viewSidebar.label "साइड्बारको इतिहास हेर्नुहोस्">
+<!ENTITY appMenuHistory.recentHistory.label "हालको इतिहास">
+<!ENTITY appMenuHelp.label "मद्दत">
 <!ENTITY appMenuHelp.tooltip "सहयोग मेनु खोल्नुहोस्">
 
 <!ENTITY appMenuRemoteTabs.label "Sync गरिएको ट्याबहरू">
@@ -380,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "यन्त्रहरू प्रबन्धन गर्नुहोस्...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
 
+<!ENTITY appMenuRecentHighlights.label "हालको उल्लेखनीय पक्षहरू">
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारमा थप्नुहोस्">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -390,6 +397,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "ओभरफ्लो मेनुमा थप्नुहोस्">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "टुलबारमा थप्नुहोस्">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,6 +408,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "मेनुमा थप्नुहोस्">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ओभरफ्लो मेनुमा पिन गर्नुहोस्">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ओभरफ्लो मेनुबाट अनपिन गर्नुहोस्">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "टुलबारबाट हटाउनुहोस्">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेनुबाट हटाउनुहाेस्">
@@ -409,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "थप">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "खोज वा ठेगाना राखनुहोस्।">
@@ -426,7 +440,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "टिप:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "चिजहरु खोज्न मद्दत पाउनुहोस् ! खोजी सुझावको छेउमा हुने &#x1F50E; हेर्नुहोस् ।">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "विकल्पहरु परिवर्तन गर्नुहोस्…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "प्राथमिकताहरु परिवर्तन गर्नुहोस्…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -460,6 +480,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "खोजी गर्नुहोस्">
+<!ENTITY searchIcon.tooltip           "खोजी गर्नुहोस्">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -543,6 +565,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यो फ्रेमलाई पुस्तकचिनो हाल्नुहोस्">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "लिङ्कको प्रतिलिपि बनाउनुहोस्">
+<!ENTITY copyURLFeedback.label        "प्रतिलिपी भयो!">
 <!ENTITY emailPageCmd.label           "लिङ्कलाई इमेल गर्नुहोस्">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "यस रूपमा पृष्ठ सङ्ग्रह गर्नुहोस्...">
@@ -606,6 +630,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "बिस्तार (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.label "सामान्य">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "छिटो (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "झनै छिटो (1.5×)">
@@ -664,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "छेउपट्टी बन्द गर्नुहोस्">
+<!ENTITY sidebarMenuClose.label         "साइडबार बन्द गर्नुहोस्">
 
 <!ENTITY quitApplicationCmdWin2.label       "बहिर निस्कनुहोस्">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -673,6 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "अन्त्य गर्नुहोस्">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; बन्द गर्नुहोस्">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "बन्द गर्नुहोस्">
 <!ENTITY closeCmd.key                   "W">
@@ -716,6 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "शब्दकोषहरू थप्नुहोस...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "सम्पन्न भयो">
 <!ENTITY editBookmark.removeBookmark.accessKey       "र">
 
 <!ENTITY identity.connectionSecure "जडानलाई सुरक्षित बनाउनुहोस्">
@@ -723,6 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।">
 <!ENTITY identity.connectionVerified2 "तपाईँ सुरक्षित रूपमा यो साइटमा जोडिनु भएको छ, संचालक:">
 <!ENTITY identity.connectionInternal "यो सुरक्षित &brandShortName; पृष्ठ हो।">
+<!ENTITY identity.extensionPage "यो पृष्ठ एक्स्टेनसन बाट लोड गरिएको हो ।">
 <!ENTITY identity.insecureLoginForms2 "यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 
 <!-- Strings for connection state warnings. -->
@@ -747,6 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "सुरक्षा खारेज गर्नुहोस्">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "थप जान्नुहोस्">
 
 <!ENTITY identity.removeCertException.label "एक्सेप्सन हटाउनुहोस्">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -808,10 +839,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "तपाईँको मनपर्ने वस्तुहरू उपकरणपट्टी वा ओभरफ्लो मेनुमा तान्नुहोस् ।">
 <!ENTITY customizeMode.menuAndToolbars.empty "अज्जै थप उपकरणहरू चाहिन्छ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारौँ एडअनहरूबाट रोज्नुहोस्">
 <!ENTITY customizeMode.restoreDefaults "पूर्वानिर्धारीत स्थितीमा फर्किनुहोस्">
+<!ENTITY customizeMode.done "सम्पन्न भयो">
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
+<!ENTITY customizeMode.extraDragSpace "तान्ने खाली ठाउँ">
+<!ENTITY customizeMode.toolbars2 "उपकरणपट्टीहरू">
 <!ENTITY customizeMode.lwthemes "आवरणहरू">
 <!ENTITY customizeMode.lwthemes.myThemes "मेरा आवरणहरू">
 <!ENTITY customizeMode.lwthemes.recommended "सिफारिस गरिएको">
@@ -819,16 +854,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अरु आवरणहरू पाउनुहोस्">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरु ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
+<!ENTITY customizeMode.uidensity "घनत्व">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "सामान्य">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "सामान्य">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "संकुचन गर्नुहोस्">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "सघन">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "स्पर्श">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "स्पर्श">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ट्याबलेट मोडको लागि स्पर्श प्रयोग गर्नुहोस्">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "स्वतः:-लुकाउनुहोस्">
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -899,14 +947,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बारे थप जान्नुहोस्">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "नविनतम गति र गोपनियताको लागि &brandShorterName; अद्यावधिक गर्नुहोस ।">
+<!ENTITY updateAvailable.whatsnew.label "नयाँ के छ हेर्नुहोस् ।">
+<!ENTITY updateAvailable.header.message "नयाँ &brandShorterName; अद्यावधिक उपलब्ध छ ।">
+<!ENTITY updateAvailable.acceptButton.label "अद्यावधिक डाउनलोड गर्नुहोस्">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "अहिले होइन">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; को अद्यावधिक डाउनलोड गर्नुहोस्">
 
+<!ENTITY updateManual.message "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस र त्यो स्थापना गर्न हामी मद्दत गर्नेछौँ ।">
+<!ENTITY updateManual.whatsnew.label "नयाँ के छ हेर्नुहोस् ।">
+<!ENTITY updateManual.header.message "&brandShorterName; नविनतम संस्करणमा अद्यावधिक गर्न सकिँदैन ।">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; डाउनलोड गर्नुहोस्">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "अहिले होइन">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; को ताजा प्रतिलिपि डाउनलोड गर्नुहोस्">
 
+<!ENTITY updateRestart.message2 "एक छिटो पुनःसुरु भएपछि, &brandShorterName; ले निजि ब्राउजिङ्ग मोडमा नभएको तपाईँको सबै खुल्ला ट्याबहरू र सञ्झ्यालहरू पुनर्स्थापना गर्नेछ ।">
+<!ENTITY updateRestart.header.message2 "अद्यावधिक गर्न &brandShorterName; पुनः सुचारु गर्नुहोस् ।">
+<!ENTITY updateRestart.acceptButton.label "पुनःसुरु गर्नुहोस र पुर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अहिले होइन">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "अद्यावधिक गर्न &brandShorterName; पुनःसुरु गर्नुहोस्">
 
+<!ENTITY pageActionButton.tooltip "पृष्ठ कार्यहरु">
+<!ENTITY pageAction.addToUrlbar.label "ठेगानापट्टिमा थप्नुहोस्">
+<!ENTITY pageAction.removeFromUrlbar.label "ठेगानापट्टिबाट हटाउनुहोस्">
 
+<!ENTITY pageAction.sendTabToDevice.label "ट्याबलाई उपकरणमा पठाउनुहोस्">
+<!ENTITY sendToDevice.syncNotReady.label "उपकरणहरू समक्रमण गरिंदै…">
 
+<!ENTITY libraryButton.tooltip "इतिहास, संग्रह गरिएका पुस्तकचिनोहरू, र अन्य हेर्नुहोस्">
