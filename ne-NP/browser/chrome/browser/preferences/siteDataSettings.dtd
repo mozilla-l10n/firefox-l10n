@@ -2,16 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     window.title                  "सेटिङ्गहरु - साइटको जानकारी">
+<!ENTITY     hostCol.label                 "साइट">
+<!ENTITY     statusCol.label               "स्थिति">
+<!ENTITY     usageCol.label                "भण्डारण">
+<!ENTITY     searchTextboxPlaceHolder             "वेबसाइटहरु खोज्नुहोस्">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "चयन गरिएको हटाउनुहोस्">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "परिवर्तनहरू संग्रह गर्नुहोस्">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "रद्द गर्नुहोस्">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "साइटको डाटा हटाउदैँ">
+<!ENTITY     removingSelected.description  "साइटको डाटा हटाउनाले सम्बन्धित कुकीहरू र अफलाइन वेब सामग्री पनि हटाउनेछ। यसले तपाईँलाई वेबसाइटहरूबाट बाहिर ल्याउन सक्छ। के तपाईँ यो परिवर्तन गर्न निश्चित हुनुहुन्छ ?">
+<!ENTITY     siteTree2.label               "निम्न वेबसाइट कुकीहरू हटाइनेछन्">

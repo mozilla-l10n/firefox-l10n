@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "भाषाहरू">
-
+<!ENTITY languages.customize2.description               "कहिलेकाहीँ वेब पृष्ठहरू एक भन्दा बढी भाषाहरूमा उपलब्ध हुन्छन । ति वेब पृष्ठहरू देखाउन , प्राथमिकताको आधारमा भाषा छनोट गर्नुहोस्">
 <!ENTITY languages.customize.moveUp.label               "माथि सार्नुहोस्">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "तल सार्नुहोस्">

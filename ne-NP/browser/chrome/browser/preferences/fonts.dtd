@@ -4,21 +4,25 @@
 
 <!ENTITY  fontsDialog.title                       "फन्टहरू">
 
+<!ENTITY  fonts.label                             "निम्नको लागि फन्ट्सहरू">
+<!ENTITY  fonts.accesskey                         "F">
 
-
+<!ENTITY  size2.label                             "आकार">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "समानुपातिक">
+<!ENTITY  proportional2.accesskey                 "P">
 
-
-
-
-
-
+<!ENTITY  serif2.label                            "सेरिफ">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "सान-सेरिफ">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "मोनोस्पेस">
+<!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "ल्याटिन">
 <!ENTITY  font.langGroup.japanese                 "जापानी">
 <!ENTITY  font.langGroup.trad-chinese             "पुरानो चिनियाँ (ताइवान )">
@@ -49,18 +53,20 @@
 <!ENTITY  font.langGroup.sinhala                  "सिन्हाली">
 <!ENTITY  font.langGroup.tibetan                  "तिब्बती">
 <!-- Minimum font size -->
-
+<!ENTITY minSize2.label                           "न्यूनतम अक्षर साइज">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "कुनै पनि होइन">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ">
 <!ENTITY  useDefaultFontSansSerif.label           "सान सेरिफ">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "तपाईको माथि उल्लिखित चयनहरूको सट्टामा आफ्नै फन्टहरू छनौट गर्न पृष्ठहरू लाई अनुमति दिनुहोस्">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरानो सामग्रीको लागि वर्ण संकेतन">
-
-
+<!ENTITY languages.customize.Fallback3.label      "निवर्तमान र पाठ सङ्केतन">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोक्यालका लागि पूर्वनिर्धारित">
