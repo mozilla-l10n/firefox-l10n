@@ -2,8 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
-<!ENTITY safeb.palm.decline.label "यस चेतावनीलाई उपेक्षा गर्नुहोस्">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,23 +12,32 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "यो पृष्ठ किन अबरुद्द गरिएको थियो?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
-<!ENTITY safeb.blocked.malwarePage.title "उजुर गरिएको आक्रमण साइट!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "यो वेब पृष्ठ <span id='malware_sitename'/> आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईँको सुरक्षा प्राथमिकताहरूका आधारमा अबरुद्द गरिएको छ।">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>आक्रमण पृष्ठले त्यस्तो कार्यक्रम स्थापना गर्ने प्रयास गर्छ जुन तपाईँको गोप्य सूचना चोर्न, तपाईँको कम्प्युटर अरुलाई आक्रमण गर्न वा तपाईँको प्रणाली बिगार्न प्रयोग हुन सक्छ।</p><p>केही आक्रमण पृष्ठले जानीबुझी हानिकारक सफ्टवेयर वितरण गर्छन तर धेरैले भने मालिकको ज्ञान बिना तथा अनुमति बिना नै हानिकारक सफ्टवेयर वितरण गर्छन्।</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "अनावश्यक सफ्टवेर पृष्ठबारे प्रतिवेदन पठाइयो!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "यो साइटमा <span id='unwanted_sitename'/>अनावश्यक सफ्टवेयर भएको प्रतिवेदन दिइएको छ र तपाईँको सुरक्षा प्राथमिकताहरूका अनुसार यसलाई अवरुद्द गरिएको छ।">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>नचाहिँदो सफ्टवेयर पृष्ठहरूले जाली र तपाईँको प्रणालीलाई हानी गर्ने सफ्टवेयरहरू स्थापना गर्न सक्छन्।</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "भ्रामक साइट!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "यो वेब पृष्ठ <span id='phishing_sitename'/> आक्रामक साइट भएको प्रतिवेदन दिइएको छ र तपाईँको सुरक्षा प्राथमिकताहरूका अनुसार अवरुद्द गरिएको छ।">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p> भ्रामक साइटहरू तपाईँलाई झुक्काएर केही खतरनाक कार्य जस्तै सफ्टवेयर स्थापना, वा आफ्नो व्यक्तिगत जानकारी खुलासा गर्न जस्तै गोप्यशब्द, फोन नम्बर वा क्रेडिट कार्ड गर्न डिजाइन गरिएको हुन्छ।</p><p> यस वेब पेज मा कुनै पनि जानकारी राख्दा पहिचान चोरी वा अन्य ठगी को परिणाम आउन सक्छ।</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ले यो पृष्ठ लाई अबरुद्द गरेको छ किनकि उक्त पृष्ठले खतरनाक अनुप्रयोगहरू स्थापना गर्ने प्रयास गर्न सक्छ जसले तपाईँको सूचनाहरु(उदाहरणको लागि, तस्बिरहरू, गोप्यशब्दहरू, सन्देशहरू र क्रेडिट कार्डहरू) चोर्न वा मेटाउन सक्छन ।">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
