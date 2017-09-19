@@ -4,6 +4,7 @@
 
 <!ENTITY searchBar.label                       "Bilah Pencarian">
 
+<!ENTITY searchBar.hidden.label                "Gunakan bilah alamat untuk mencari dan navigasi">
 <!ENTITY searchBar.shown.label                 "Tambahkan bilah pencarian di bilah alat">
 
 <!ENTITY defaultSearchEngine.label             "Mesin Pencari Baku">
@@ -14,6 +15,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 <!ENTITY showURLBarSuggestions2.label           "Tampilkan saran pencarian di hasil bilah alamat">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Saran pencarian tidak akan ditampilkan di hasil bilah lokasi karena Anda telah mengatur &brandShortName; agar tidak mengingat riwayat.">
 
 <!ENTITY oneClickSearchEngines.label           "Mesin pencari sekali klik">

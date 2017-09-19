@@ -13,10 +13,12 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name2.label          "Nama">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Masukan nama kontainer">
 <!ENTITY icon2.label          "Ikon">
 <!ENTITY icon2.accesskey      "I">
 <!ENTITY color2.label         "Warna">
+<!ENTITY color2.accesskey     "a">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Selesai">
