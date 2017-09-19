@@ -111,9 +111,26 @@
 <!ENTITY aboutCommPluginsCmd.label			"Perihal Plugin">
 <!ENTITY aboutCommPluginsCmd.accesskey			"g">
 
+<!ENTITY direct.label                                   "Atas Talian (Proksi: Tiada)">
+<!ENTITY direct.accesskey                               "T">
+<!ENTITY manual.label                                   "Atas Talian (Proksi: Manual)">
+<!ENTITY manual.accesskey                               "M">
+<!ENTITY pac.label                                      "Atas Talian (Proksi: URL Auto)">
+<!ENTITY pac.accesskey                                  "A">
+<!ENTITY wpad.label                                     "Atas Talian (Proksi: Carian Auto)">
+<!ENTITY wpad.accesskey                                 "C">
+<!ENTITY system.label                                   "Atas Talian (Proksi: Proksi Sistem)">
+<!ENTITY system.accesskey                               "S">
 
+<!ENTITY proxy.label                                    "Konfigurasi Proksi…">
+<!ENTITY proxy.accesskey                                "K">
 
+<!ENTITY bidiSwitchTextDirectionItem.label        "Tukar Hala Teks">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "k">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY customizeToolbarContext.label            "Penyesuaian…">
+<!ENTITY customizeToolbarContext.accesskey        "P">
 
 
 <!-- Popup Blocked notification menu -->
