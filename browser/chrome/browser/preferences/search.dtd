@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Лента за търсене">
+
+<!ENTITY searchBar.hidden.label                "Използване на адресната лента за търсене и отваряне на страници">
+<!ENTITY searchBar.shown.label                 "Добавяне на лента за търсене в лентата с инструменти">
+
 <!ENTITY defaultSearchEngine.label             "Стандартна търсеща машина">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Изберете търсеща машина, която да използвате от адресната лента и лентата за търсене.">

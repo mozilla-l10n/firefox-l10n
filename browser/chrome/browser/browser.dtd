@@ -44,11 +44,11 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "ч">
 <!ENTITY  unpinTab.label                     "Премахване от леснодостъпните приложения">
 <!ENTITY  unpinTab.accesskey                 "П">
-<!ENTITY  sendTabToDevice.label              "Изпращане на раздела към устройство">
+<!ENTITY  sendTabToDevice.label              "Изпращане на раздела до устройство">
 <!ENTITY  sendTabToDevice.accesskey          "у">
-<!ENTITY  sendPageToDevice.label             "Изпращане на страницата към устройство">
+<!ENTITY  sendPageToDevice.label             "Изпращане на страницата до устройство">
 <!ENTITY  sendPageToDevice.accesskey         "у">
-<!ENTITY  sendLinkToDevice.label             "Изпращане на препратката към устройство">
+<!ENTITY  sendLinkToDevice.label             "Изпращане на препратката до устройство">
 <!ENTITY  sendLinkToDevice.accesskey         "у">
 <!ENTITY  sendToDeviceFeedback.label         "Изпратено!">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
@@ -977,7 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "Добавяне към адресната лента">
 <!ENTITY pageAction.removeFromUrlbar.label "Премахване от адресната лента">
 
-<!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела към устройство">
+<!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела до устройство">
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
 <!ENTITY libraryButton.tooltip "Преглед на история, запазени отметки и други">
