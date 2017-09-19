@@ -23,6 +23,7 @@
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pelajari lebih lanjut">
 <!ENTITY changeBlockList2.label               "Ubah Daftar Blokir…">
+<!ENTITY changeBlockList2.accesskey           "U">
 
 <!ENTITY  doNotTrack.description        "Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak">
 <!ENTITY  doNotTrack.learnMore.label    "Pelajari lebih lanjut">
@@ -35,6 +36,7 @@
 <!ENTITY  addressBar.label              "Bilah Alamat">
 <!ENTITY  addressBar.suggest.label      "Saat menggunakan bilah alamat, sarankan">
 <!ENTITY  locbar.history2.label         "Riwayat penjelajahan">
+<!ENTITY  locbar.history2.accesskey     "R">
 <!ENTITY  locbar.bookmarks.label        "Markah">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Tab terbuka">
@@ -48,11 +50,13 @@
 <!ENTITY  acceptCookies2.accesskey      "T">
 
 <!ENTITY  acceptThirdParty2.pre.label     "Terima kuki dari pihak ketiga">
+<!ENTITY  acceptThirdParty2.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Selalu">
 <!ENTITY  acceptThirdParty.never.label    "Tidak Pernah">
 <!ENTITY  acceptThirdParty.visited.label  "Dari yang Pernah Dikunjungi">
 
 <!ENTITY  keepUntil2.label              "Simpan hingga">
+<!ENTITY  keepUntil2.accesskey          "h">
 
 <!ENTITY  expire.label                  "kedaluwarsa">
 <!ENTITY  close.label                   "&brandShortName; ditutup">
@@ -110,4 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "Pengaturan…">
 <!ENTITY  browserContainersSettings.accesskey    "p">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "Cegah layanan aksesibilitas dari mengakses peramban Anda">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Pelajari lebih lanjut">

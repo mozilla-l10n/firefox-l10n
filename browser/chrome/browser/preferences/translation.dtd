@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Penerjemahan tidak akan ditawarkan untuk bahasa berikut:">
+<!ENTITY noTranslationForLanguages2.label "Terjemahan tidak akan ditawarkan untuk bahasa berikut ini">
 <!ENTITY treehead.languageName.label      "Bahasa">
 <!ENTITY removeLanguage.label             "Hapus Bahasa">
 <!ENTITY removeLanguage.accesskey         "H">
 <!ENTITY removeAllLanguages.label         "Hapus Semua Bahasa">
 <!ENTITY removeAllLanguages.accesskey     "s">
 
-<!ENTITY noTranslationForSites.label      "Penerjemahan tidak akan ditawarkan untuk situs berikut:">
+<!ENTITY noTranslationForSites2.label     "Terjemahan tidak akan ditawarkan untuk situs berikut ini">
 <!ENTITY treehead.siteName2.label         "Situs web">
 <!ENTITY removeSite.label                 "Hapus Situs">
 <!ENTITY removeSite.accesskey             "S">
