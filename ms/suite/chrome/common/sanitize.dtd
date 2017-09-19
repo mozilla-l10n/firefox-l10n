@@ -18,4 +18,10 @@
 <!ENTITY itemCookies.label               "Kuki">
 <!ENTITY itemCookies.accesskey           "K">
 <!ENTITY itemOfflineApps.label           "Data Laman web Luar talian">
+<!ENTITY itemOfflineApps.accesskey       "D">
+<!ENTITY itemPasswords.label             "Kata laluan Disimpan">
+<!ENTITY itemPasswords.accesskey         "K">
+<!ENTITY itemSessions.label              "Sesi Pengesahan">
+<!ENTITY itemSessions.accesskey          "S">
 
+<!ENTITY sanitizeButton.label            "Buang Data Peribadi Sekarang">
