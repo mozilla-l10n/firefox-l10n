@@ -30,6 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "Pelaporan data dinonaktifkan untuk konfigurasi build ini">
 
 <!ENTITY enableHealthReport1.label       "Izinkan &brandShortName; agar secara otomatis mengirim data teknis dan interaksi ke Mozilla">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Pelajari Lebih Lanjut">
 
 <!ENTITY dataCollection.label            "&brandShortName; Pengumpulan dan Penggunaan Data">
