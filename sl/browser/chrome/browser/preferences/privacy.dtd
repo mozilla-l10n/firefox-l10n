@@ -110,7 +110,7 @@
 
 <!ENTITY  browserContainersLearnMore.label      "Več o tem">
 <!ENTITY  browserContainersEnabled.label        "Omogoči vsebniške zavihke">
-<!ENTITY  browserContainersEnabled.accesskey    "O">
+<!ENTITY  browserContainersEnabled.accesskey    "m">
 <!ENTITY  browserContainersSettings.label        "Nastavitve …">
 <!ENTITY  browserContainersSettings.accesskey    "N">
 
