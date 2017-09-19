@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "42em">
 
-<!ENTITY     cookiesonsystem.label          "თქვენს კომპიუტერში ინახება შემდეგი ფუნთუშები:">
+<!ENTITY     cookiesonsystem2.label         "თქვენს კომპიუტერში ინახება შემდეგი ფუნთუშები">
 <!ENTITY     cookiename.label               "ფუნთუშის სახელი">
 <!ENTITY     cookiedomain.label             "საიტი">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "ფუნთუშები">
 <!ENTITY     windowClose.key                "ფ">
 <!ENTITY     focusSearch1.key               "ძ">
-<!ENTITY     focusSearch2.key               "ბ">
 
 <!ENTITY     searchFilter.label             "ძიება">
 <!ENTITY     searchFilter.accesskey         "ძ">
