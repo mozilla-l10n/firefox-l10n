@@ -310,3 +310,5 @@
 <!ENTITY customizeFromAddress.accesskey "а">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Език за проверка на правописа">
+<!ENTITY encodingStatusPanel.tooltip "Кодиране на текста">
