@@ -33,37 +33,66 @@
 <!-- Edit Menu -->
 <!ENTITY deleteAbCmd.label                              "Buang Buku Alamat">  
 <!ENTITY deleteContactCmd.label                         "Buang Kenalan">
-  
+<!ENTITY deleteContactsCmd.label                        "Buang Kenalan yang Dipilih">
+<!ENTITY deleteListCmd.label                            "Buang Senarai">
+<!ENTITY deleteListsCmd.label                           "Buang Senarai yang Dipilih">
+<!ENTITY deleteItemsCmd.label                           "Buang Item yang dipilih">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Tukar Nama Pertama/Akhir">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "u">  
+<!ENTITY propertiesCmd.label                            "Sifat…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
-  
-  
+<!ENTITY propertiesCmd.accesskey                        "i">  
+<!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
- 
-  
- 
- 
-  
- 
-  
- 
-  
- 
+<!ENTITY showAbToolbarCmd.label                         "Bar alatan Buku Alamat"> 
+<!ENTITY showAbToolbarCmd.accesskey                     "t">  
+<!ENTITY layoutMenu.label                               "Susun atur">
+<!ENTITY layoutMenu.accesskey                           "S">
+<!ENTITY showDirectoryPane.label                        "Anak tetingkap Direktori">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Anak tetingkap Kenalan">
+<!ENTITY showContactPane2.accesskey                     "K">
+<!ENTITY menu_ShowNameAs.label                          "Papar Nama Sebagai"> 
+<!ENTITY menu_ShowNameAs.accesskey                      "m"> 
+<!ENTITY firstLastCmd.label                             "Pertama Terakhir">  
+<!ENTITY firstLastCmd.accesskey                         "t"> 
+<!ENTITY lastFirstCmd.label                             "Nama Akhir, Pertama">  
+<!ENTITY lastFirstCmd.accesskey                         "h"> 
+<!ENTITY displayNameCmd.label                           "Nama Paparan">  
+<!ENTITY displayNameCmd.accesskey                       "p"> 
 
 <!-- Tasks Menu -->
+<!ENTITY importCmd.label                                "Import…">
+<!ENTITY importCmd.accesskey                            "I">
+<!ENTITY exportCmd.label                                "Eksport…">
+<!ENTITY exportCmd.accesskey                            "E">
 
 <!-- Toolbar and Popup items -->  
-  
-  
-  
-  
-  
-  
+<!ENTITY newContactButton.label                         "Kenalan Baru">
+<!ENTITY newContactButton.accesskey                     "K">
+<!ENTITY newlistButton.label                            "Senarai Baru">  
+<!ENTITY newlistButton.accesskey                        "S">  
+<!ENTITY editItemButton.label                           "Sifat">
+<!ENTITY editItemButton.accesskey                       "S">
+<!ENTITY newmsgButton.label                             "Karang">  
+<!ENTITY newmsgButton.accesskey                         "K">  
+<!ENTITY deleteItemButton.label                         "Buang">
+<!ENTITY deleteItemButton.accesskey                     "B">
+<!ENTITY newimButton.label                              "Mesej Segera">  
+<!ENTITY newimButton.accesskey                          "M">  
+<!ENTITY searchNameAndEmail.placeholder                 "Cari Nama dan E-mel">
+<!ENTITY searchBox.title                                "Cari">
 
 <!-- Tooltips -->
- 
- 
- 
+<!ENTITY addressbookToolbar.tooltip                     "Bar alatan Buku Alamat">
+<!ENTITY newContactButton.tooltip                       "Cipta buku alamat kenalan baru">
+<!ENTITY newlistButton.tooltip                          "Cipta senarai baru"> 
+<!ENTITY editItemButton.tooltip                         "Edit item yang dipilih">
+<!ENTITY newmsgButton.tooltip                           "Hantar mesej mel"> 
+<!ENTITY newIM.tooltip                                  "Hantar mesej segera atau sembang"> 
+<!ENTITY deleteItemButton.tooltip                       "Buang item yang dipilih">
+<!ENTITY throbber.tooltip                               "Pergi ke halaman utama &vendorShortName;">
 
 <!-- Dir Tree header -->
 
