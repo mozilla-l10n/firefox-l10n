@@ -51,11 +51,15 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> xya' <a id='error_desc_link'>rutzijol achi'el jun tz'ilanel ruxaq k'amaya'l</a>. Yatikïr <a id='report_detection'>naya' rutzijol ri k'ayewal xilitäj</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Tetamäx ch'aqa' chik chi kij ri tz'ilanel taq ruxaq k'ayewal chuqa' k'exonel pa <a id='learn_more_link'>www.antiphishing.org</a>. Tetamäx ch'aqa' chik chi rij &brandShortName;’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Re ruxaq k'amaya'l re' rik'in jub'a'  k'o nimachiköp chupam">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; xuq'ät re ruxaq re' ruma rik'in jub'a' yeruyäk kan itzel taq chokoy, ri nikeleq'aj o yekiyüj awetamab'al (achi'el, taq wachib'äl, taq ewan tzij, taq rutzijol chuqa' ch'utit'im pwäq).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> xya' <a id='error_desc_link'>rutzijol chi ruk'wan nïm tz'ilanel chokoy</a>. Yatikïr <a id='ignore_warning_link'>yatik'o rik'in ri k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq k'amaya'l.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> xya' <a id='error_desc_link'>rutzijol chi ruk'wan nïm tz'ilanel chokoy</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Tetamäx ch'aqa' chik chi rij &brandShortName;’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a id='firefox_support'>support.mozilla.org</a>.">
