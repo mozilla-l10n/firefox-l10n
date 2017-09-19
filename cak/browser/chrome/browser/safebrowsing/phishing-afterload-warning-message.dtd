@@ -43,9 +43,13 @@
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Tetamäx ch'aqa' chik chi rij ri tz'ilanel kema' chuqa' man k'utun ta pa <a id='learn_more_link'>Man K'utun ta Kema' Na'ojil</a>. Tetamäx ch'aqa' chik chi rij &brandShortName;’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Q'olonel re ruxaq k'amaya'l">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; Xuq'ät re ruxaq' re' ruma nitikïr yatruq'öl chuqa' chi nab'än jun k'ayewal achi'el ruyakik kema' o nuk'üt awetamab'al achi'el taq ewan tzij o rajilab'al ch'utit'im pwäq.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> xya' <a id='error_desc_link'>rutzijol chi tz'ilanel ruxaq k'amaya'l</a>. Yatikïr <a id='report_detection'>naya' rutzijol ri k'ayewal xilitäj</a> o <a id='ignore_warning_link'>yatik'o rik'in ri k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq k'amaya'l.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> xya' <a id='error_desc_link'>rutzijol achi'el jun tz'ilanel ruxaq k'amaya'l</a>. Yatikïr <a id='report_detection'>naya' rutzijol ri k'ayewal xilitäj</a>.">
 
 
 
