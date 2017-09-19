@@ -31,6 +31,7 @@ available. -->
 <!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Karagdagang kaalaman">
 
+<!ENTITY dataCollection.label            "&brandShortName; Koleksyon ng data at ang Paggamit">
 
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Karagdagang kaalaman">
@@ -107,6 +108,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
 <!ENTITY certificateTab.label            "Mga sertipiko">
+<!ENTITY selectCerts.auto                "Pumili agad ng isa">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Magtanong sayo palagi">
 <!ENTITY selectCerts.ask.accesskey       "A">
@@ -120,3 +122,4 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "Karagdagang kalaaman">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY allowHWAccel.accesskey          "r">
