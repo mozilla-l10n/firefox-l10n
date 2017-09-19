@@ -58,5 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; 已封鎖此頁面載入，因為這張網頁可能會嘗試安裝危險程式，用來偷竊或刪除您的資訊（例如相片、密碼、訊息、信用卡號等）。">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> 已被<a id='error_desc_link'>回報為含有會傷害電腦的軟體的網站</a>。您可以<a id='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> 已被<a id='error_desc_link'>回報為含有會傷害電腦的軟體的網站</a>。">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "請到 <a id='firefox_support'>support.mozilla.org</a> 了解關於 &brandShortName; 的防釣魚及惡意軟體保護機制的更多資訊。">
