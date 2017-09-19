@@ -12,18 +12,24 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "भ्रामक सामग्री र खतरनाक सफ्टवेयर सुरक्षा">
 <!ENTITY  enableSafeBrowsing.label        "खतरनाक र भ्रामक सामग्री अबरुद्द गर्नुहोस">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "खतरनाक डाउनलोडहरू अवरुद्ध गर्नुहोस्">
 <!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "अवाञ्छित र असामान्य सफ्टवेयरको बारेमा तपाईँलाई चेतावनी दिनुहोस्">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "अपवादहरू...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "फारमहरू &amp; गोप्यशब्दहरू">
 
+<!ENTITY  rememberLogins2.label         "वेबसाइटहरूको लागि लगइनहरू र गोप्यशब्दहरू सम्झनुहोस्">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "अपवादहरू...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

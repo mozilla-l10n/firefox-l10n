@@ -209,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "डाटालाई पर्सिस्टेन्ट भण्डारणमा राख्नुहोस्">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "डाटालाई लगातार भण्डारणमा राख्नुहोस्">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउजर रिमोट कंट्रोल अन्तर्गत छ">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
@@ -227,7 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ ।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
@@ -847,12 +847,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "शीर्षक बार">
 <!ENTITY customizeMode.extraDragSpace "तान्ने खाली ठाउँ">
 <!ENTITY customizeMode.toolbars2 "उपकरणपट्टीहरू">
-<!ENTITY customizeMode.lwthemes "आवरणहरू">
-<!ENTITY customizeMode.lwthemes.myThemes "मेरा आवरणहरू">
+<!ENTITY customizeMode.lwthemes "थीमहरू">
+<!ENTITY customizeMode.lwthemes.myThemes "मेरा थीमहरू">
 <!ENTITY customizeMode.lwthemes.recommended "सिफारिस गरिएको">
 <!ENTITY customizeMode.lwthemes.menuManage "व्यवस्था गर्नुहोस्">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "अरु आवरणहरू पाउनुहोस्">
+<!ENTITY customizeMode.lwthemes.menuGetMore "अरु थीमहरू पाउनुहोस्">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरु ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
 <!ENTITY customizeMode.uidensity "घनत्व">
