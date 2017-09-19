@@ -8,6 +8,7 @@
 
 <!ENTITY useCursorNavigation.label       "पृष्ठहरू सफर गर्दा जहिले पनि कर्सर किहरू प्रयोग गर्नुहोस्">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "टाइप गर्न सुरु गरेपछि पाठ खोजी गर्नुहोस्">
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार टच किबोर्ड देखाउनु होस्। ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -17,6 +18,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "सरर र स्क्रोल प्रयोग गर्नुहोस्">
 <!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "टाइप गर्दा गर्दै हिज्जे जाँच गर्नुहोस्">
 
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरू">
 
@@ -26,8 +28,10 @@ available. -->
 
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
+<!ENTITY dataCollection.label            "&brandShortName; डाटा सङ्कलन र प्रयोग">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता नीति">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Mozilla लाई क्र्यास प्रतिवेदनहरू पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अझ जान्नुहोस्">
 
@@ -87,6 +91,7 @@ available. -->
 <!ENTITY updateApplication.description   "को लागि &brandShortName; लाई अनुमति दिनुहोस्">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "अद्यावधिकहरूको लागि कहिल्यै जाँच नगर्नुहोस् (सिफारिस नगरिएको)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "अद्यावधिक इतिहास देखाउनुहोस्…">
@@ -95,6 +100,7 @@ available. -->
 <!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "स्वचालित रूपमा खोजी इन्जिनहरू अद्यावधिक गर्नुहोस्">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -119,6 +125,8 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "कार्यसम्पादन">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "सिफारिस गरिएको कार्यसम्पादन सेटिङ्गहरू प्रयोग गर्नुहोस्">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
