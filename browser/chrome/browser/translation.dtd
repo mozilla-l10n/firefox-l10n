@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "არასდროს გადაითარგმნოს  ეს საიტი">
+<!ENTITY translation.options.neverForSite.label "არასდროს ითარგმნოს ეს საიტი">
 <!ENTITY translation.options.neverForSite.accesskey "რ">
 <!ENTITY translation.options.preferences.label  "თარგმნის პარამეტრები">
 <!ENTITY translation.options.preferences.accesskey "თ">
