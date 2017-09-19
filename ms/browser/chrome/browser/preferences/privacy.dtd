@@ -85,7 +85,7 @@
 <!ENTITY  rememberActions.removeCookies.label "buang kuki individu">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk layaran peribadi dan tidak akan mengingati sejarah layaran semasa anda melayari Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -109,7 +109,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersLearnMore.label      "Ketahui selanjutnya">
-<!ENTITY  browserContainersEnabled.label        "Dayakan Tab Kontena">
+<!ENTITY  browserContainersEnabled.label        "Dayakan Tab Penyimpan">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Tetapan…">
 <!ENTITY  browserContainersSettings.accesskey    "p">
