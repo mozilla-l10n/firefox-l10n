@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
-<!ENTITY firstrun_urlbar_message2 "Tak for at vælge &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Tak for at du valgte &brandShortName;·">
 <!ENTITY firstrun_urlbar_subtext2 "En moderne mobil browser fra Mozilla, nonprofit-organisationen der er dedikeret til et frit og åbent internet.">
 <!ENTITY firstrun_panel_title_privacy "Privatliv">
 <!ENTITY firstrun_privacy_message "Surf på nettet uden at føle dig overvåget">
