@@ -36,6 +36,7 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ<a id='ignore_warning_link'>ad tsurfeḍ ugur</a> sakin ddu ɣer usmel-agi n ddiri.">
 
 
 
