@@ -1,0 +1,78 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Title -->
+<!ENTITY addressbookWindow.title                        "Buku Alamat">
+
+<!-- Menus:  the . means that the menu item isn't implemented yet -->
+
+<!-- File Menu -->
+<!ENTITY newContact.label                               "Kenalan…">
+<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newListCmd.label                               "Senarai Mel…">
+<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->  
+<!ENTITY newListCmd.accesskey                           "S">  
+<!ENTITY newAddressBookCmd.label                        "Buku Alamat…"> 
+<!ENTITY newAddressBookCmd.accesskey                    "u">  
+<!ENTITY newLDAPDirectoryCmd.label                      "Direktori LDAP…">
+<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newIM.label                                    "">
+<!ENTITY printContactViewCmd.label                      "Cetak Kenalan…">
+<!ENTITY printContactViewCmd.accesskey                  "k">
+<!ENTITY printPreviewContactViewCmd.label               "Previu Cetakan Kenalan">
+<!ENTITY printPreviewContactViewCmd.accesskey           "v">
+<!ENTITY printContactViewCmd.key                        "P">
+<!ENTITY printAddressBook.label                         "Cetak Buku Alamat…"> 
+<!ENTITY printAddressBook.accesskey                     "A"> 
+<!ENTITY printPreviewAddressBook.label                  "Previu Cetakan Buku Alamat"> 
+<!ENTITY printPreviewAddressBook.accesskey              "B">
+
+<!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Buang Buku Alamat">  
+<!ENTITY deleteContactCmd.label                         "Buang Kenalan">
+  
+<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->  
+  
+  
+
+<!-- View Menu -->
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+
+<!-- Tasks Menu -->
+
+<!-- Toolbar and Popup items -->  
+  
+  
+  
+  
+  
+  
+
+<!-- Tooltips -->
+ 
+ 
+ 
+
+<!-- Dir Tree header -->
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!-- Special Box Headings, for mailing lists -->
+<!-- For Map It! -->
+
+<!-- Status Bar -->  
+
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
