@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are used in the about:newtab page -->
-
 <!ENTITY newtab.pageTitle "नयाँ ट्याब">
-
+<!ENTITY newtab.customize.classic "तपाईँको शीर्ष साइटहरू देखाउनुहोस्">
 <!ENTITY newtab.customize.cog.enhanced "सुझाव गरिएको साइटहरू समावेश गर्नुहोस्">
 <!ENTITY newtab.customize.cog.title2 "नयाँ ट्याब नियन्त्रणहरू">
 <!ENTITY newtab.customize.cog.learn "नयाँ ट्याबबारे थाह पाउनुहोस्">
