@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "سابقات اپڈیٹ کریں">
-<!ENTITY  history.intro             "مندرجہ ذیل تازہ کاریاں تنصیب ہو گئی ہیں:">
+<!ENTITY  history2.intro            "مندرجہ ذیل تازہ کاریاں تنصیب ہو گئی ہیں">
 <!ENTITY  closebutton.label         "بند کریں">
-                                     
+
 <!ENTITY  noupdates.label           "کوئی تجدیدات نصب نہیں ہیں">
 
 <!ENTITY  name.header               "نام تازہ کریں">
