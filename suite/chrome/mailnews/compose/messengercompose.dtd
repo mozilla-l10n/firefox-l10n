@@ -1,0 +1,75 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Karang: (tiada subjek)">
+
+<!ENTITY fromAddr.label "Daripada:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY subject.label  "Subjek:">
+<!ENTITY subject.accesskey "S">
+<!ENTITY attachments.label "Lampiran:">
+<!ENTITY attachments.accesskey "p">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!ENTITY saveCmd.label "Simpan">
+<!ENTITY saveCmd.accesskey "n">
+<!ENTITY saveAsCmd.label "Simpan Sebagai">
+<!ENTITY saveAsCmd.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Fail…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Draf">
+<!ENTITY saveAsDraftCmd.accesskey "D">
+<!ENTITY saveAsTemplateCmd.label "Templat">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY attachMenu.label "Lampir">
+<!ENTITY attachMenu.accesskey "r">
+<!ENTITY attachFileCmd.label "Fail…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachPageCmd.label "Halaman Web…">
+<!ENTITY attachPageCmd.accesskey "W">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Kad Peribadi (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY sendNowCmd.label "Hantar Sekarang">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "t">
+<!ENTITY sendLaterCmd.label "Hantar Kemudian">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "K">
+
+<!-- Edit menu items -->
+<!ENTITY editRewrapCmd.label "Balut semula">
+<!ENTITY editRewrapCmd.key "B">
+<!ENTITY editRewrapCmd.accesskey  "l">
+<!ENTITY accountManagerCmd.label "Tetapan Akaun Mel &amp; Kumpulan berita…">
+<!ENTITY accountManagerCmd.accesskey "m">
+
+<!-- View menu items -->
+<!ENTITY showComposeToolbarCmd.label "Bar alatan Mel">
+
+<!-- Format menu items -->
+
+<!-- Options menu items -->
+
+
+
+
+
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- context menu items -->
