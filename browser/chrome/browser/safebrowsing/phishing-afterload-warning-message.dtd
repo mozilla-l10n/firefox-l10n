@@ -38,20 +38,28 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> on raporteeritud <a id='error_desc_link'>kahjulikku tarkvara sisaldava saidina</a>. Sa võid <a id='ignore_warning_link'>riski ignoreerida</a> ja jätkata selle ebaturvalise saidi külastamist.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> on raporteeritud <a id='error_desc_link'>kahjulikku tarkvara sisaldava saidina</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Rohkem teavet kahjuliku ja soovimatu tarkvara kohta leiab lehelt <a id='learn_more_link'>soovimatu tarkvara reeglid</a>. Rohkem teavet &brandShortName;i veebivõltsingute ja pahavara vastase kaitse kohta leiab aadressilt <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Veebivõltsingu hoiatus">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; blokkis selle lehe, sest see võib üritada sind ülekavaldada, et teeksid midagi ohtlikku nagu tarkvara paigaldamine või isiklike andmete (paroolid või krediitkaardi andmed) avalikustamine.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> on raporteeritud <a id='error_desc_link'>veebivõltsingut sisaldava saidina</a>. Sa võid <a id='report_detection'>raporteerida tuvastamise probleemist</a> või <a id='ignore_warning_link'>riski ignoreerida</a> ja jätkata selle ebaturvalise saidi külastamist.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> on raporteeritud <a id='error_desc_link'>veebivõltsingut sisaldava saidina</a>. Sa võid <a id='report_detection'>raporteerida tuvastamise probleemist</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Rohkem teavet veebivõltsingute ja õngitsemise kohta leiab aadressilt <a id='learn_more_link'>www.antiphishing.org</a>. Rohkem teavet &brandShortName;i veebivõltsingute ja pahavara vastase kaitse kohta leiab aadressilt <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Külastatav sait võib sisaldada pahavara">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; blokkis selle lehe, kuna see võib üritada paigaldada ohtlikke rakendusi, mis varastavad või kustutavad sinu andmeid (nt fotosid, paroole, sõnumeid või krediitkaartide infot).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> on raporteeritud <a id='error_desc_link'>potentsiaalselt kahjulikku rakendust sisaldava saidina</a>. Sa võid <a id='ignore_warning_link'>riski ignoreerida</a> ja jätkata selle ebaturvalise saidi külastamist.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> on raporteeritud <a id='error_desc_link'>potentsiaalselt kahjulikku rakendust sisaldava saidina</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "Rohkem teavet &brandShortName;i veebivõltsingute ja pahavara vastase kaitse kohta leiab aadressilt <a id='firefox_support'>support.mozilla.org</a>.">
