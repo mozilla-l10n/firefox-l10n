@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Sigurnost">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Upozorava vas kada web stranice pokušaju instalirati add-one">
+<!ENTITY  warnOnAddonInstall2.accesskey   "U">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Zaštita od obmanjujućeg sadržaja i opasnog softvera">
 <!ENTITY  enableSafeBrowsing.label        "Blokiraj opasan i obmanjujući sadržaj">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,7 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Forme &amp; lozinke">
 
-
+<!ENTITY  rememberLogins2.label         "Pamti prijave i lozinke za web stranice">
+<!ENTITY  rememberLogins2.accesskey     "r">
 <!ENTITY  passwordExceptions.label      "Izuzeci…">
 <!ENTITY  passwordExceptions.accesskey  "I">
 
