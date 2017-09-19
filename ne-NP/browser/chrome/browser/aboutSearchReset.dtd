@@ -7,17 +7,17 @@
 <!ENTITY searchreset.pageTitle      "तपाईँको खोज् सेटिङहरू पुनर्स्थापना गर्नुहुन्छ?">
 
 <!ENTITY searchreset.pageInfo1      "तपाईँको खोजी सेटिङ्हरू मिति गुज्रेका हुन सक्छन्। &brandShortName; ले तपाईँलाई पूर्व निर्धारित खोज सेटिङ्हरू पुनःस्थापना गर्न मद्दत गर्न सक्छ।">
+
+
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-
-
 <!ENTITY searchreset.selector.label "यसले तपाईँको सर्च इन्जिनलाई ">
+
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-
 <!ENTITY searchreset.beforelink.pageInfo2 "तपाईँले उक्त सेटिङलाई जतिबेला पनि बदल्न सक्नुहुनेछ।">
 <!ENTITY searchreset.afterlink.pageInfo2  "।">
 
@@ -26,5 +26,5 @@ their language. -->
 <!ENTITY searchreset.noChangeButton        "बदलिदैन">
 <!ENTITY searchreset.noChangeButton.access "डि">
 
-<!ENTITY searchreset.changeEngineButton        "सर्च ईन्जिन बदल्नुहोस्">
+<!ENTITY searchreset.changeEngineButton        "खोजि इन्जिन परिवर्तन गर्नुहोस्">
 <!ENTITY searchreset.changeEngineButton.access "C">

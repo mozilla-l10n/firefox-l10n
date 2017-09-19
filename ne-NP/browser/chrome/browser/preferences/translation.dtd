@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "निम्न भाषाहरूमा अनुवाद उपलब्ध छैन :">
+<!ENTITY noTranslationForLanguages2.label "निम्न भाषाहरूको लागि अनुवाद पेश गरिने छैन">
 <!ENTITY treehead.languageName.label      "भाषाहरू">
 <!ENTITY removeLanguage.label             "भाषा हटाउनुहोस्">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "सबै भाषाहरू हटाउनुस">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "निम्न साइटहरूको लागि अनुवाद प्रदान गरिने छैन: ">
-
+<!ENTITY noTranslationForSites2.label     "निम्न साइटहरूको लागि अनुवाद पेश गरिने छैन">
+<!ENTITY treehead.siteName2.label         "वेबसाइटहरू">
 <!ENTITY removeSite.label                 "साइट हटाउनुहोस्">
 <!ENTITY removeSite.accesskey             "S">
 <!ENTITY removeAllSites.label             "सबै साइट हटाउनुहोस्">
