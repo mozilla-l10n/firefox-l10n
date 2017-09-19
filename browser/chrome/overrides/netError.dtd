@@ -9,8 +9,8 @@
 <!ENTITY retry.label "تلاش دوباره">
 <!ENTITY returnToPreviousPage.label "برو عقب">
 <!ENTITY advanced.label "پیشرفته">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "قادر به برقراری اتصال نیست">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -25,7 +25,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li><li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "دسترسی به پرونده رد شد">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌منتقل شده باشد یا مجوز‌های آن از دسترسی جلوگیری‌ می‌کند.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>ممکن است حذف،‌ منتقل یا مجوز‌های پرونده از دسترسی به آن جلوگیری می‌کند.</li></ul>">
 
 <!ENTITY generic.title "متأسفیم.">
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; نمی‌تواند به<span id='wrongSystemTime_URL'/>متصل شود زیر ساعت کامپیوتر شما زمان اشتباهی را نمایش می‌دهد و این مانع ارتباط امن است.</p><p>کامپیوتر شما تنظیم شده است برای <span id='wrongSystemTime_systemDate'/> وقتی باید<span id='wrongSystemTime_actualDate'/>برای حل این مشکل،‌ تنظیمات زمان و تاریخ خود را به زمان درست تنظیم کنید</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; نمی‌تواند به <span id='wrongSystemTimeWithoutReference_URL'/> متصل شود زیرا ساعت رایانه شما زمان اشتباهی را نمایش می‌دهد و این موضوع مانع ایجاد یک ارتباط امن می‌شود</p><p>رایانه شما بر روی <span id='wrongSystemTimeWithoutReference_systemDate'/>تنظیم شده است. برای تنظیم این مشکل زمان و تاریخ خود به زمان درست تنظیم کنید.</p>">
 
