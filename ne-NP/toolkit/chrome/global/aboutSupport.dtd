@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "समस्या समाधानको सूचना">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.crashes.title "समस्या समाधानको जानकारी">
@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; विशेषताहरु">
+<!ENTITY aboutSupport.featureName "नाम">
+<!ENTITY aboutSupport.featureVersion "संस्करण">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरू">
 <!ENTITY aboutSupport.experimentName "नाम">
@@ -38,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "नाम">
 <!ENTITY aboutSupport.appBasicsVersion "संस्करण">
 <!ENTITY aboutSupport.appBasicsBuildID "निर्माण आइडि">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "अद्यावधिक प्रणाली">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "अद्यावधिक इतिहास">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "अद्यावधिक इतिहास देखाउनुहोस्">
@@ -57,16 +58,18 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति प्रयोग">
 <!ENTITY aboutSupport.appBasicsPerformance "कार्यसम्पादन">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "दर्ता भएका Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "प्रोफाइलहरू">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया सञ्झ्यालहरू">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "वेब सामग्री प्रक्रियाहरू">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google कुञ्जी">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla स्थान सेवा कुञ्जी">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "सुरक्षित मोड">
 
@@ -82,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "महत्वपूर्ण परिमार्जित प्राथमिकताहरू">
 <!ENTITY aboutSupport.modifiedPrefsName "नाम">
 <!ENTITY aboutSupport.modifiedPrefsValue "मान">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js प्राथमिकताहरू">
 <!ENTITY aboutSupport.userJSDescription "तपाईँको प्रोफाइल फोल्डरमा <a id='prefs-user-js-link'>user.js फाइल</a> छ जुनमा &brandShortName; ले सिर्जना नगरेका प्राथमिकताहरू समावेश छन्।">
 
@@ -103,8 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "पहुँचता">
 <!ENTITY aboutSupport.a11yActivated "सक्रिय गरिएको">
 <!ENTITY aboutSupport.a11yForceDisabled "पहुँच सेटिङ रोक्नुहोस">
-
-
+<!ENTITY aboutSupport.a11yHandlerUsed "पहुँचयोग्य परिचालक प्रयोग गरियो">
+<!ENTITY aboutSupport.a11yInstantiator "पहुँचता बनाउने">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "लाईब्रेरी संस्करणहरू">
 
@@ -115,14 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "क्लिपबोर्डमा कच्चा डाटा प्रतिलिपि गर्नुहोस्">
 
 <!ENTITY aboutSupport.sandboxTitle "स्यान्डबक्स">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "अस्वीकृत प्रणाली कलहरू">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "सेकेन्ड अगाडी">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "प्रक्रियाको प्रकार">
+<!ENTITY aboutSupport.sandboxSyscallNumber "प्रणाली कल">
+<!ENTITY aboutSupport.sandboxSyscallArgs "तर्कहरू">
 
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड प्रयास गर्नुहोस">
 <!ENTITY aboutSupport.restartInSafeMode.label "एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...">
@@ -136,14 +139,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "क्र्यास गार्डले असक्षम गरिएको विशेषताहरू">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "कार्यक्षेत्र">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "सञ्चार">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "निर्गत यन्त्रहरु">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "आगत यन्त्रहरू">
+<!ENTITY aboutSupport.mediaDeviceName "नाम">
+<!ENTITY aboutSupport.mediaDeviceGroup "समूह">
+<!ENTITY aboutSupport.mediaDeviceVendor "बिक्रेता">
+<!ENTITY aboutSupport.mediaDeviceState "स्थिति">
+<!ENTITY aboutSupport.mediaDevicePreferred "रुचाइएको">
+<!ENTITY aboutSupport.mediaDeviceFormat "ढाँचा">
+<!ENTITY aboutSupport.mediaDeviceChannels "च्यानलहरू">
+<!ENTITY aboutSupport.mediaDeviceRate "दर">
+<!ENTITY aboutSupport.mediaDeviceLatency "विलम्बता">

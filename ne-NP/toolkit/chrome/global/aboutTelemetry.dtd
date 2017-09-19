@@ -2,68 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
-
 <!ENTITY aboutTelemetry.pingDataSource "पिङ डाटा स्रोत:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिङ डाटा">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "अभिलेख गरिएको पिङ डाटा">
+<!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डाटा देखाउनुहोस्">
+<!ENTITY aboutTelemetry.choosePing "पिङ छान्नुहोस्:">
+<!ENTITY aboutTelemetry.archivePingType "पिङ प्रकार">
+<!ENTITY aboutTelemetry.archivePingHeader "पिङ">
+<!ENTITY aboutTelemetry.optionGroupToday "आज">
+<!ENTITY aboutTelemetry.optionGroupYesterday "हिजो">
+<!ENTITY aboutTelemetry.optionGroupOlder "पुरानो">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
+<!ENTITY aboutTelemetry.moreInformations "थप जानकारी खोज्दै हुनुहुन्छ ?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "हाम्रो डाटा उपकरणहरू सँग कसरि काम गर्ने बारेको गाइडहरु <a>Firefox डाटा प्रलेखन </a> मा समावेश छ ।">
+<!ENTITY aboutTelemetry.telemetryClientDoc "अवधारणाहरुको लागि परिभाषाहरू, API प्रलेखन र डाटा सन्दर्भहरू <a>Firefox टेलीमेट्री क्लाइन्ट प्रलेखन</a> ले समावेश गरेको छ ।">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>टेलीमेट्री ड्याशबोर्ड</a> ले तपाईँलाई टेलीमेट्री मार्फत Mozilla ले प्राप्त गर्ने डाटाहरू हेर्ने अनुमति दिन्छ ।">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "JSON दर्शकमा खोल्नुहोस्">
+
+<!ENTITY aboutTelemetry.homeSection "गृहपृष्ठ">
+<!ENTITY aboutTelemetry.generalDataSection "  सामान्य डाटा">
+<!ENTITY aboutTelemetry.environmentDataSection "  परिवेश डाटा">
+<!ENTITY aboutTelemetry.sessionInfoSection "सत्र जानकारी">
+<!ENTITY aboutTelemetry.scalarsSection "  अदिष्टहरू">
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
+<!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरू">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  प्रमुख हिस्टोग्रामहरु">
+<!ENTITY aboutTelemetry.eventsSection "घटनाहरू">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
+<!ENTITY aboutTelemetry.telemetryLogSection "  टेलीमेट्री लग">
+<!ENTITY aboutTelemetry.slowSqlSection "  सुस्त SQL विवरणहरू">
+<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर अडकियो">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on विवरणहरू">
+<!ENTITY aboutTelemetry.capturedStacksSection "कैद गरिएका स्ट्याकहरू">
+<!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
+<!ENTITY aboutTelemetry.rawPayloadSection "कच्चा पेलोड">
 <!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
-
-<!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डाटा देखाउनुहोस्">
-
-<!ENTITY aboutTelemetry.choosePing "पिङ छान्नुहोस्:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नयाँ पिङ">
-
-<!ENTITY aboutTelemetry.showOlderPing "पुरानो पिङ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "हप्ता">
-
-
-<!ENTITY aboutTelemetry.archivePingHeader "पिङ">
-
-
-
-
-<!ENTITY aboutTelemetry.generalDataSection "  सामान्य डाटा">
-
-<!ENTITY aboutTelemetry.environmentDataSection "  परिवेश डाटा">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  टेलीमेट्री लग">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  सुस्त SQL विवरणहरू">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  ब्राउजर अडकियो">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  थ्रेड अड्कियो">
-
-
-<!ENTITY aboutTelemetry.scalarsSection "  अदिष्टहरू">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
-
-<!ENTITY aboutTelemetry.histogramsSection "  आयतचित्रहरू">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  प्रमुख हिस्टोग्रामहरु">
-
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  सामान्य नापहरू">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Add-on विवरणहरू">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  ढिलो लेखन">
-
-
-<!ENTITY aboutTelemetry.sessionInfoSection "सत्र जानकारी">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ढिलो SQL त्रुटि सच्याउन सक्षम पारिएको छ। पूर्ण SQL स्ट्रिङहरू तल प्रदर्शित हुन सक्छ तर तिनीहरू टेलीमेटरीमा पेश गरिने छैन।">
-
-
-
-<!ENTITY aboutTelemetry.filterText "Filter (strings or /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
+<!ENTITY aboutTelemetry.fetchStackSymbols "स्ट्याकहरूको लागि प्रकार्य नाम ल्याउनुहोस्">
+<!ENTITY aboutTelemetry.hideStackSymbols "कच्चा स्ट्याक डाटा देखाउनुहोस्">
