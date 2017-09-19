@@ -954,6 +954,6 @@
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Настройки на иконката на приложението…">
+<!ENTITY dockOptions.label              "Настройки на пиктограмата на приложението…">
 <!ENTITY writeNewMessageDock.label      "Писане на писмо">
 <!ENTITY openAddressBookDock.label      "Отваряне на адресник">

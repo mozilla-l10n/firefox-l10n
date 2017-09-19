@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Изберете получател от адресника">
 <!ENTITY attachButton.tooltip "Добавяне на прикачен файл">
 <!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
-<!ENTITY statusLanguageText.tooltip "Език за проверка на правописа">
 <!ENTITY saveButton.tooltip "Запазване на писмото">
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
@@ -263,8 +262,8 @@
 <!ENTITY spellCheckNoSuggestions.label "Няма предложения">
 <!ENTITY spellCheckIgnoreWord.label "Пренебрегване на думата">
 <!ENTITY spellCheckIgnoreWord.accesskey "д">
-<!ENTITY spellCheckAddToDictionary.label "Добавяне в речника">
-<!ENTITY spellCheckAddToDictionary.accesskey "ч">
+<!ENTITY spellCheckAddToDictionary.label "Добавяне към речника">
+<!ENTITY spellCheckAddToDictionary.accesskey "р">
 <!ENTITY undo.label "Отмяна">
 <!ENTITY undo.accesskey "О">
 <!ENTITY cut.label "Изрязване">
@@ -309,3 +308,5 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Изпращане от друго име…">
 <!ENTITY customizeFromAddress.accesskey "а">
+
+<!-- Status Bar -->

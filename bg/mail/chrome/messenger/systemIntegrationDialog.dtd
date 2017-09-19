@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Винаги се прави тази проверка при стартиране на &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "В">
 
-<!ENTITY searchIntegration.label "Нека &searchIntegration.engineName; да търси съобщения">
+<!ENTITY searchIntegration.label "Разрешаване на &searchIntegration.engineName; да търси съобщения">
 <!ENTITY searchIntegration.accesskey "т">
