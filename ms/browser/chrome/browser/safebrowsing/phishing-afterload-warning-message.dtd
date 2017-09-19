@@ -58,5 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; menyekat halaman ini kerana cuba memasang aplikasi yang mencuri data atau menghapuskan data anda (sebagai contoh, foto, kata laluan, mesej dan kad kredit).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> telah dilaporkan <a id='error_desc_link'>mengandungi aplikasi yang berbahaya.</a> Anda boleh <a id='ignore_warning_link'>abaikan risiko ini</a> dan terus melayari laman yang tidak selamat ini.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> telah dilaporkan <a id='error_desc_link'>mengandungi aplikasi yang berbahaya</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Ketahui lebih lanjut perihal Perlindungan Phishing dan Perisian Hasad &brandShortName; di <a id='firefox_support'>support.mozilla.org</a>.">
