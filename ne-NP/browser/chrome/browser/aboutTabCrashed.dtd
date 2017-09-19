@@ -5,6 +5,7 @@
 <!ENTITY tabCrashed.closeTab "यो ट्याब बन्द गर्नुहोस्">
 <!ENTITY tabCrashed.restoreTab "यो ट्याब पुनर्स्थापना गर्नुहोस्">
 <!ENTITY tabCrashed.restoreAll "सबै क्र्यास भएका ट्याबहरू पुनर्स्थापना गर्नुहोस्">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,7 +13,6 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "अोहो। तपाईँको ट्याब भर्खर क्रयास भयो।">
 <!ENTITY tabCrashed.offerHelp "हामी तपाईँलाई मद्दत गर्न सक्छौ! ">
 <!ENTITY tabCrashed.single.offerHelpMessage "छनौट &tabCrashed.restoreTab; पृष्ठ सामग्री पुनः लोड गर्नुहोस्।">
@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाई सकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "पृष्ठभूमि ट्याबहरूको बारेमा उजुर गर्नुहोस्">
-
+<!ENTITY tabCrashed.autoSubmit2 "यस session र भविष्यको session, दुर्घटनाग्रस्त पृष्ठभूमि ट्याबहरूको रिपोर्ट सहित स्वचालित रूपमा क्र्यास रिपोर्टहरू पठाउन प्राथमिकताहरू अपडेट गर्नुहोस्">
