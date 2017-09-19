@@ -30,3 +30,10 @@
 <!ENTITY account.movedown.label       "Tiqasäx qa">
 <!ENTITY account.cancelReconnection.label         "Tiq'at rokem chik">
 <!ENTITY account.cancelReconnection.accesskey     "A">
+<!ENTITY account.copyDebugLog.label     "Tiwachib'ëx Etamab'äl richin yechojmïx">
+<!ENTITY account.copyDebugLog.accesskey "w">
+<!ENTITY account.showDebugLog.label     "Titz'et ri Etamab'äl richin Nichojmïx">
+<!ENTITY account.showDebugLog.accesskey "t">
+<!ENTITY account.connecting           "Tajin nok…">
+<!ENTITY account.disconnecting        "Tajin nichup…">
+<!ENTITY account.disconnected         "Man okinäq ta">
