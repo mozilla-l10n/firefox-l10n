@@ -147,7 +147,7 @@
 <!ENTITY DefaultPhoto.label             "Privzeto">
 <!ENTITY PhotoFile.label                "Na tem računalniku">
 <!ENTITY PhotoFile.accesskey            "e">
-<!ENTITY BrowsePhoto.label              "Brskaj">
+<!ENTITY BrowsePhoto.label              "Prebrskaj">
 <!ENTITY BrowsePhoto.accesskey          "B">
 <!ENTITY PhotoURL.label                 "Na spletu">
 <!ENTITY PhotoURL.accesskey             "s">

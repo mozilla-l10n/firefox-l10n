@@ -11,7 +11,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Orodna vrstica za sestavljanje">
-<!ENTITY previewToolbarCmd.label "Brskaj">
+<!ENTITY previewToolbarCmd.label "Prebrskaj">
 <!ENTITY previewToolbarCmd.tooltip "Naloži to stran v brskalniku">
 
 <!-- File menu items -->

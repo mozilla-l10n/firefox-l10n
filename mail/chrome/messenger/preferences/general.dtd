@@ -34,7 +34,7 @@
 <!ENTITY systemsound.accesskey            "v">
 <!ENTITY customsound.label                "Uporabi naslednjo zvočno datoteko">
 <!ENTITY customsound.accesskey            "U">
-<!ENTITY browse.label                     "Brskaj …">
+<!ENTITY browse.label                     "Prebrskaj …">
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Privzeti iskalnik">
