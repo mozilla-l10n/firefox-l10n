@@ -132,6 +132,10 @@
 <!ENTITY customizeToolbarContext.label            "Penyesuaian…">
 <!ENTITY customizeToolbarContext.accesskey        "P">
 
+<!ENTITY customizeToolbar.toolbarmode.label       "Tetapan untuk bar alatan ini">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
+<!ENTITY customizeToolbar.iconsAndText.label      "Ikon dan Teks">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
 
 <!-- Popup Blocked notification menu -->
 
