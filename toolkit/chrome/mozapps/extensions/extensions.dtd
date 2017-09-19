@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "सबै एडअनहरूको लागि उपकरणहरू">
 
-
+<!ENTITY getThemes.description                "ब्राउजरलाई निजीकृत गर्ने सोच्दैहुनुहुन्छ ?">
+<!ENTITY getThemes.learnMore                  "हजारौँ थीमहरूबाट रोज्नुहोस् ।">
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
@@ -29,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
 <!ENTITY debugAddons.label                    "एडअनहरू डिबग गर्नुहोस्">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।">
 <!ENTITY warning.checkcompatibility.label          "एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।">
 <!ENTITY warning.checkcompatibility.enable.label   "सक्षम पार्नुहोस्">
@@ -38,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।">
 <!ENTITY warning.updatesecurity.enable.label       "सक्षम पार्नुहोस्">
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "खोजी गर्नुहोस्">
 <!ENTITY view.discover.label                  "एड-अनहरू प्राप्त गर्नुहोस्">
 <!ENTITY view.recentUpdates.label             "हालका अद्यावधिकहरू">
 <!ENTITY view.availableUpdates.label          "उपलब्ध अद्यावधिहरू">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "हालका अद्यावधिहरू हेर्नुहोस्">
@@ -73,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "उपलब्ध अद्यावधिहरू हेर्नुहोस्">
 <!ENTITY updates.updateSelected.label         "अद्यावधिहरू स्थापना गर्नुहोस्">
 <!ENTITY updates.updateSelected.tooltip       "यो सूचीमा रहेका सबै अद्यावधीहरू स्थापना गर्नुहोस्">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "थप जानकारी देखाउनुहोस्">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "अद्यावधि खोज्नुहोस्">
@@ -117,16 +118,16 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "यो अद्यावधीको रिलिज टिप्पणीहरू देखाउनुहोस्">
 <!ENTITY cmd.hideReleaseNotes.label           "रिलिज नोट लुकाउनुहोस्">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "यो अद्यावधिको लागि रिलिज नोटहरू लुकाउनुहोस्">
+<!ENTITY cmd.findReplacement.label            "प्रतिस्थापन फेला पार्नुहोस्">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
 <!ENTITY discover.description2                "एड-अनहरू तपाईँलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
 <!ENTITY discover.footer                      "तपाईँ इन्टरनेटमा जोडिएको बेला, यस पेनले  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "संस्करण">
 <!ENTITY detail.lastupdated.label             "अन्तिममा अद्यावधिक भएको">
 <!ENTITY detail.creator.label                 "बिकासकर्ता">
@@ -155,17 +156,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "प्राथमिकताहरू">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "यस एड-अनका प्राथमिकताहरू बदल्नुहोस्">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "रेटिङ">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "रोक्नुहोस्">
 <!ENTITY progress.cancel.tooltip              "रद्द गर्नुहोस्">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "नाम">
 <!ENTITY sort.name.tooltip                    "नाम अनुसार क्रमबद्ध गर्नुहोस्">
 <!ENTITY sort.dateUpdated.label               "अन्तिममा अद्यावधिक भएको">
@@ -188,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -221,12 +223,12 @@
 <!ENTITY eula.accept                          "स्वीकार गरि स्थापना गर्नुहोस् …">
 
 <!ENTITY settings.path.button.label           "ब्राउज गर्नुहोस्…">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "यो के हो? Telemetry ले समय समयमा स्थापना र विभिन्न प्रयोगहरू गर्न सक्छ।">
 <!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -250,9 +252,10 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "म्यानुअल">
 <!ENTITY disabledUnsigned.devInfo.end "।">
 
+<!ENTITY pluginDeprecation.description "केही छुटेको छ ? केही प्लगइनहरू अब &brandShortName; द्वारा समर्थित छैनन् ।">
 <!ENTITY pluginDeprecation.learnMore "अझ जान्नुहोस्">
 
-
-
-
-
+<!ENTITY legacyWarning.showLegacy "बिरासत एक्सटेन्सनहरू देखाउनुहोस्">
+<!ENTITY legacyExtensions.title "बिरासत एक्सटेन्सनहरू">
+<!ENTITY legacyExtensions.description "यी एक्सटेन्सनहरूले &brandShortName; को हालको मानकहरू पुरा गर्दैनन् त्यसैले तिनीहरु निष्क्रिय गरिएका छन् ।">
+<!ENTITY legacyExtensions.learnMore "एड-अनहरू मा भएको परिवर्तनहरू बारे जान्नुहोस्">
