@@ -62,7 +62,7 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-<!ENTITY translation.options.attribution.beforeLogo "თარგმნა:">
+<!ENTITY translation.options.attribution.beforeLogo "თარგმანი ეკუთვნის">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
