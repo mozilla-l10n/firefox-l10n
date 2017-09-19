@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "अक्षम पार्नुहोस्">
 <!ENTITY addonAction.uninstall                  "हटाउनुहोस्">
 <!ENTITY addonAction.undo                       "पूर्वस्थिति">
+<!ENTITY addonAction.update                     "अद्यावधिक गर्नुहोस्">
 
 <!ENTITY addonUnsigned.message                  "यो एड-अन &brandShortName; द्वारा प्रमाणित गर्न सकिएन।">
 <!ENTITY addonUnsigned.learnMore                "अझ जान्नुहोस्">

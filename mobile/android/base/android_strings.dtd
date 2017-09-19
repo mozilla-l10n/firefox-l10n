@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "कुनै पृष्ठ लोड गर्दा रिमोट फन्टहरू डाउनलोड गर्ने">
 
 <!ENTITY pref_tracking_protection_title2 "ट्रयाकिङ्ग सुरक्षा">
-<!ENTITY pref_tracking_protection_summary3 "निजी ब्राउजिङ्गमा सक्षम पारिएको">
 <!ENTITY pref_donottrack_title "ट्रयाक नगर्नुहोस्">
 <!ENTITY pref_donottrack_summary "&brandShortName; ले साइटहरूलाई तपाईँलाई नपछ्याउन अनुरोध गर्दछ">
 
@@ -828,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; द्वारा सिफारिस गरिएको">
 <!ENTITY activity_stream_highlights "हाइलाइटहरू">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "धेरै">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
