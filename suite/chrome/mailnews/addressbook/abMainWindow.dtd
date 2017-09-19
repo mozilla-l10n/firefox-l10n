@@ -93,15 +93,28 @@
 <!ENTITY newIM.tooltip                                  "Hantar mesej segera atau sembang"> 
 <!ENTITY deleteItemButton.tooltip                       "Buang item yang dipilih">
 <!ENTITY throbber.tooltip                               "Pergi ke halaman utama &vendorShortName;">
+<!ENTITY advancedButton.tooltip                         "Carian alamat lanjutan">
 
 <!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Buku Alamat">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Kenalan">
+<!ENTITY home.heading                                   "Rumah">
+<!ENTITY other.heading                                  "Lain-lain">
+<!ENTITY phone.heading                                  "Telefon">
+<!ENTITY work.heading                                   "Kerja">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Keterangan">
+<!ENTITY addresses.heading                              "Alamat">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Cari Peta">
+<!ENTITY mapIt.tooltip                                  "Papar peta untuk alamat ini daripada Web">
 
 <!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">
