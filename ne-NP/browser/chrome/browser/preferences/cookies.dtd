@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "निम्नलिखित कुकिज तपाईँको कम्प्युटरमा सञ्चित छन्:">
+<!ENTITY     cookiesonsystem2.label         "निम्नलिखित कुकीहरू तपाईँको कम्प्युटरमा सञ्चित छन्">
 <!ENTITY     cookiename.label               "कुकी नाम">
 <!ENTITY     cookiedomain.label             "साइट">
 
@@ -19,9 +19,9 @@
 <!ENTITY     window.title                   "कुकीहरू">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "खोजी गर्नुहोस्">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "बन्द गर्नुहोस्">
 <!ENTITY     button.close.accesskey         "C">
