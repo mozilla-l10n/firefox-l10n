@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Vrati na izvorne vrijednosti">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Onemogući ekstenziju">
+
 <!ENTITY downloads.label     "Preuzimanja">
 
 <!ENTITY saveTo.label "Spasi fajlove u">

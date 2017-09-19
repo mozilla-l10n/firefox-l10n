@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Premosti boje definirane na stranici s mojim izborom iznad:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "o">
+<!ENTITY  overrideDefaultPageColors2.label       "Premostite boje navedene na stranici vašim izborom iznad">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Uvijek">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Samo sa temama visokog kontrasta">
