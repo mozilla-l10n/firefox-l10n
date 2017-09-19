@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "सुरुवात">
 
-
-
+<!ENTITY startupPage2.label        "जब &brandShortName; सुरु हुन्छ">
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "गृह पृष्ठ देखाउनुहोस्">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
+<!ENTITY startupPrevSession.label  "अन्तिम पटकको सञ्झ्यालहरू र ट्याबहरू देखाउनुहोस्">
 
-
-
+<!ENTITY homepage2.label           "गृहपृष्ठ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "अहिलेको पृष्ठ प्रयोग गर्नुहोस्">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्">
@@ -17,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "पूर्वनिर्धारित रूपमा लग्नुहोस्">
 <!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY disableExtension.label    "एक्सटेन्सन अक्षम गर्नुहोस्">
 
 <!ENTITY downloads.label     "डाउनलोडहरू">
 
@@ -26,19 +30,19 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चयन...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "सधैँ फाइल कहाँ संग्रह गर्ने हो तपाईँलाई सोध्नुहोस्">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "सधैं &brandShortName; आफ्नो पूर्वनिर्धारित ब्राउजर हो भन्ने बारे जाँच गर्नुहोस्">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
-
-
+<!ENTITY setAsMyDefaultBrowser3.label     "पूर्वनिर्धारित बनाउनुहोस…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
 <!ENTITY isNotDefault.label               "तपाईँको हालको निर्धारित ब्राउजर &brandShortName;">
 
 <!ENTITY separateProfileMode.label        "&brandShortName; र Firefox एकै समयमा चलाउन अनुमति दिनुहोस्">
 <!ENTITY useFirefoxSync.label             "सुझाव: यसले अलग प्रोफाइल प्रयोग गर्दछ। तिनीहरू बीच डाटा साझेदारी गर्न Sync प्रयोग गर्नुहोस्।">
-
-
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;मा साइन इन गर्नुहोस्…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; को प्राथमिकताहरू खोल्नुहोस्">
 
 <!ENTITY e10sEnabled.label                "बहु-प्रोसेस &brandShortName; सक्षम पार्नुहोस्">
