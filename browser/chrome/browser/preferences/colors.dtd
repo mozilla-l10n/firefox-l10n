@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "43em">
 <!ENTITY  window.macWidth                 "52em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Предпочитане на избраните от вас цветове пред зададените от страницата:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "ц">
+<!ENTITY  overrideDefaultPageColors2.label       "Предпочитане на избраните от вас цветове пред зададените от страницата">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "ц">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Винаги">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Само за теми с висок контраст">
