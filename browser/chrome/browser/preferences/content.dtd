@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "अनुमतिहरू">
+
 <!ENTITY  blockPopups.label           "पप-अप सञ्झ्यालहरूलाई अवरुद्द गर्नुहोस्">
 <!ENTITY  blockPopups.accesskey       "B">
 
@@ -12,22 +14,29 @@
 <!ENTITY  popupExceptions.label                                 "अपवादहरू…">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
-
 <!ENTITY  notificationPermissions.label                         "सूचनाहरू">
+<!ENTITY  notificationSettingsButton.label                      "सेटिङ्गहरू…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "अझै जान्नुहोस्">
 
+<!ENTITY  locationPermissions.label                             "स्थान">
+<!ENTITY  locationSettingsButton.label                          "सेटिङ्गहरू…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "क्यामरा">
+<!ENTITY  cameraSettingsButton.label                            "सेटिङ्गहरू…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
 
-
-
-
-
-
+<!ENTITY  microphonePermissions.label                           "माइक्रोफोन">
+<!ENTITY  microphoneSettingsButton.label                        "सेटिङ्गहरू…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "फन्टहरू र रङहरू">
 
-
-
-
+<!ENTITY  defaultFont2.label          "पूर्वनिर्धारित फन्ट">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "आकार">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "अग्रसर">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -35,6 +44,8 @@
 <!ENTITY  colors.label                "रङहरू...">
 <!ENTITY  colors.accesskey            "C">
 
+
+<!ENTITY language2.label              "भाषा">
 <!ENTITY chooseLanguage.label         "देखिने पृष्ठहरूका लागि तपाईँको छनौटको भाषा छान्नुहोस्">
 <!ENTITY chooseButton.label           "छान्नुहोस् ...">
 <!ENTITY chooseButton.accesskey       "o">
@@ -43,6 +54,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "अपवादहरू....">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -50,10 +62,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "अनुवादकर्ता">
 <!ENTITY translation.options.attribution.afterLogo "‌">
 
+<!ENTITY  drmContent2.label              "डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री">
 
-
+<!ENTITY  playDRMContent2.label          "DRM-नियन्त्रित सामग्री प्ले गर्नुहोस्">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "अझै जान्नुहोस्">

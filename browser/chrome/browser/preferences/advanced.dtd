@@ -34,6 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY dataCollection.label            "&brandShortName; डाटा सङ्कलन र प्रयोग">
+<!ENTITY dataCollectionDesc.label        "हामि तपाईँलाई छनौटहरू प्रदान गर्न प्रयास गर्दछौँ र &brandShortName; सबैको लागि प्रदान र सुधार गर्न हामीलाई आवश्यक कुराहरू मात्र सङ्कलन गर्दर्छौँ । व्यक्तिगत जानकारी प्राप्त गर्नुअघि हामि अनुमतिको लागि सधैँ अनुरोध गर्दछौँ ।">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता नीति">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Mozilla लाई क्र्यास प्रतिवेदनहरू पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
@@ -144,6 +145,8 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "अझै जान्नुहोस्">
 <!ENTITY limitContentProcessOption.label "सामग्री प्रक्रिया सीमा">
+<!ENTITY limitContentProcessOption.description
+                                         "थप सामग्री प्रक्रियाहरूले धेरै ट्याबहरू प्रयोग गर्दा कार्यसम्पादनमा सुधार ल्याऊँछ तर धेरै मेमोरी पनि प्रयोग गर्छ ।">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया &brandShortName; सँग मात्र सम्भव छ ।">

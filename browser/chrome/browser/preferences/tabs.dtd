@@ -8,10 +8,9 @@
 <!ENTITY newWindowsAsTabs.label       "नयाँ सञ्झ्यालहरू नयाँ ट्याबमा खोल्नुहोस्">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "धेरै ट्याबहरू बन्द गर्न खोज्दा तपाईँलाई चेतावनी दिनुहोस्">
 
-
-
-
+<!ENTITY warnOnOpenManyTabs.label       "धेरै ट्याबहरू खोल्दा &brandShortName; ढिलो हुन सक्छ भने तपाईँलाई चेतावनी दिनुहोस्">
 
 
 <!ENTITY showTabsInTaskbar.label          "सञ्झ्याल कार्यपट्टीमा ट्याबको पूर्वावलोकनहरू देखाउनुहोस्">
