@@ -136,6 +136,22 @@
 <!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
 <!ENTITY customizeToolbar.iconsAndText.label      "Ikon dan Teks">
 <!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
+<!ENTITY customizeToolbar.icons.label             "Ikon">
+<!ENTITY customizeToolbar.icons.accesskey         "o">
+<!ENTITY customizeToolbar.text.label              "Teks">
+<!ENTITY customizeToolbar.text.accesskey          "T">
+<!ENTITY customizeToolbar.useSmallIcons.label     "Guna ikon kecil">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "k">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Papar teks di sebelah ikon">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
+<!ENTITY customizeToolbar.useDefault.label        "Guna tetapan piawai">
+<!ENTITY customizeToolbar.useDefault.accesskey    "G">
 
 <!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "p">
+<!ENTITY showPopupManager.label       "Urus Popup">
+<!ENTITY showPopupManager.accesskey   "U">
+<!ENTITY dontShowMessage.label        "Jangan papar mesej ini apabila popup telah disekat">
+<!ENTITY dontShowMessage.accesskey    "J">
 
+<!ENTITY syncToolbarButton.label "Sync">
