@@ -854,6 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "مزید تھیم لائیں">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "اشیاء کو اپنی پہنچ تک رکھنے کے لئے یہا ڈریگ اور ڈروپ کرے لیکن ٹول بار سے باہر…">
 <!ENTITY customizeMode.uidensity "کثافت">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -873,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "ٹچ">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "ٹچ">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ٹیبلیٹ موڈ کے لئے ٹچ استعمال کرے">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "خودکار-چھپائيں">
 
@@ -945,23 +947,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM کے بارے میں مزید سیکھیں">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "تیز رفتار اور رازداری کے لئے &brandShorterName; کو تازہ کاری کرے۔">
 <!ENTITY updateAvailable.whatsnew.label "نظارہ کریں نیا کیا ہے">
+<!ENTITY updateAvailable.header.message "ایک نیا &brandShorterName; تازہ کاری دستیاب ہے۔">
 <!ENTITY updateAvailable.acceptButton.label "تازہ کاری ڈاؤن لوڈ کریں">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ابھی نہیں">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; تازہ کاری کو ڈاؤن لوڈ کریں">
 
+<!ENTITY updateManual.message "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے اور اسے تنصب کرنے میں ہم آپکی مدد کریں گے۔">
 <!ENTITY updateManual.whatsnew.label "نظارہ کریں نیا کیا ہے">
+<!ENTITY updateManual.header.message "&brandShorterName; تازہ ترین ورژن پر تازہ کاری نہیں ہو سکا۔">
 <!ENTITY updateManual.acceptButton.label "brandShorterName; کو Download کریں">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ابھی نہیں">
 <!ENTITY updateManual.cancelButton.accesskey "ا">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے">
 
+<!ENTITY updateRestart.message2 "پھر سے شروع ہونے کے بعد، &brandShorterName; اپ کے تمام کھلیں ٹیب اور ونڈوں بحال کرے گا جو کی رازداری براؤزنگ موڈ میں نہیں ہے۔">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں۔">
 <!ENTITY updateRestart.acceptButton.label "دوبارہ شروع کریں اور بحال کریں">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ابھی نہیں">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
 
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
