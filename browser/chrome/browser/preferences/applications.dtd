@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "अनुप्रयोगहरू">
+<!ENTITY  applications.description "कसरी &brandShortName; ले तपाईँले डाउनलोड गर्नुभएको फाइलहरु र तपाईँले ब्राउज गर्दा प्रयोग गर्ने अनुप्रयोगहरु ह्यान्डल गर्दछ चयन गर्नुहोस् ।">
 
 <!ENTITY  typeColumn.label        "सामग्री र तारिका ">
 <!ENTITY  typeColumn.accesskey    "T">
@@ -9,6 +11,4 @@
 <!ENTITY  actionColumn2.label     "कार्य">
 <!ENTITY  actionColumn2.accesskey "A">
 
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
-
+<!ENTITY  filter2.emptytext        "फाइलको प्रकार वा अनुप्रयोगहरु खोज्नुहोस्">
