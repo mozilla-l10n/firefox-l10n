@@ -10,6 +10,8 @@
 <!ENTITY certmgr.tab.ca                       "Otoritas">
 <!ENTITY certmgr.tab.orphan2                  "Lainnya">
 
+<!ENTITY certmgr.mine2                        "Anda memiliki sertifikat dari organisasi berikut ini yang mengenali Anda">
+<!ENTITY certmgr.others2                      "Anda memiliki sertifikat di berkas yang mengenali orang ini">
 
 <!ENTITY certmgr.detail.general_tab.title     "Umum">
 <!ENTITY certmgr.detail.general_tab.accesskey "U">
