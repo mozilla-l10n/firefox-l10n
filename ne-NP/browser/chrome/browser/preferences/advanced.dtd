@@ -84,6 +84,7 @@ available. -->
                                          "राम्रो कार्यसम्पादन, स्थायित्व र सुरक्षाको लागि &brandShortName; लाई अद्यावधिक राख्नुहोस् ।">
 <!ENTITY updateApplication.version.pre   "संस्करण ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "को लागि &brandShortName; लाई अनुमति दिनुहोस्">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.accesskey         "N">
@@ -100,6 +101,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवादहरू....">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "निम्न वेबसाइटहरू अफलाइन प्रयोगको लागि डाटा भण्डारण गर्न अनुमति प्राप्त छन्">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाउनुहोस्…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -107,10 +109,25 @@ available. -->
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
 <!ENTITY selectCerts.auto                "स्वचालित रूपमा एउटा छान्नुहोस्">
+<!ENTITY selectCerts.ask                 "तपाईँलाई हरेक पटक सोध्नुहोस्">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्">
 <!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "प्रमाणपत्रहरू हेर्नुहोस्…">
+<!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.label      "सुरक्षा उपकरणहरू…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY performance.label               "कार्यसम्पादन">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "अझै जान्नुहोस्">
+<!ENTITY limitContentProcessOption.label "सामग्री प्रक्रिया सीमा">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "सामग्री प्रक्रियाहरूको संख्या परिमार्जन बहुप्रक्रिया &brandShortName; सँग मात्र सम्भव छ ।">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "बहुप्रक्रिया सक्षम छ कि छैन भनेर कसरि जाँच गर्ने हो जान्नुहोस्">
 <!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
 <!ENTITY allowHWAccel.accesskey          "r">
