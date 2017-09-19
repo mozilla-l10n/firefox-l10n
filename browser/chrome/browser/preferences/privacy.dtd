@@ -55,6 +55,7 @@
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
 <!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
 
+<!ENTITY  keepUntil2.label              "सम्म राख्नुहोस्">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "तिनीहरूको समय अवधि सकियो">
@@ -113,5 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "सेटिङहरू…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "पहुँच सेवाहरूलाई तपाईँको ब्राउजरमा पहुँच लिन बाट रोक्नुहोस्">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "अझै जान्नुहोस्">
