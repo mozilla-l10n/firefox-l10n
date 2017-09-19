@@ -11,7 +11,7 @@
 <!ENTITY useDefault.accesskey             "В">
 
 <!ENTITY changeDockIconOptions.label      "Промяна на настройките за иконката на приложението">
-<!ENTITY dockOptions.label                "Настройки на иконката…">
+<!ENTITY dockOptions.label                "Настройки на пиктограмата на приложението…">
 <!ENTITY dockOptions.accesskey            "и">
 
 <!ENTITY newMessagesArrive.label          "При пристигане на ново писмо:">
