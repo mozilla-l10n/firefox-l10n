@@ -6,6 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Pwoc piyero &brandShortName;">
 <!ENTITY firstrun_panel_title_privacy "Mung">
 <!ENTITY firstrun_privacy_message "Yeny calo ngato pe ka neno">
+<!ENTITY firstrun_privacy_subtext "Yeny i mung ki Gwokke ikom lubo kor gengo lulub kor ma nongo itye ka yeny ki pe bi poo ikom gin mukato mamegi ka ityeko yeny.">
 <!ENTITY firstrun_panel_title_customize "Yubi">
 <!ENTITY firstrun_customize_message "Wek &brandShortName; obed megi.">
 <!ENTITY firstrun_customize_subtext "Yub &brandShortName; ki med-ikome. Geng kwena me cat, med jami, onyo yer theme manyen me nyuto kwo mamegi.">
@@ -343,6 +344,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Tii ki dit me coc pa nyonyo">
+<!ENTITY pref_use_system_font_size_summary "Lok jami me kakube malube ki dit me coc pa nyonyo">
 
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
@@ -383,6 +385,7 @@
 <!ENTITY pref_dialog_set_default "Ter calo makwongo">
 <!ENTITY pref_dialog_default "Bal tye iye">
 <!ENTITY pref_dialog_remove "Kwany">
+<!ENTITY pref_dialog_activitystream_header_content "Jami mukene">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Alamabuk ma cokcokki">
 <!ENTITY pref_dialog_activitystream_visited "Kilimo">
 
@@ -522,6 +525,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Dingo dirica matino">
+<!ENTITY pref_compact_tabs_summary2 "Can dirica matino i rek ariyo i kit me atir">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -816,9 +820,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Lami tam obedo &brandPocket;">
 <!ENTITY activity_stream_highlights "Wiye madito">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "mapol">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -827,11 +833,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ma kilimo">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Ma cuke lamal">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Cak yeny, ka wa binyuto coc akwana mabeco, video, ki potbuk mukene ma ilimo cokcokki onyo ma kiketo alamabuk kany.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Kwany">
 <!ENTITY activity_stream_delete_history "Kwany woko ki i gin mukato">
 
 <!ENTITY private_tab_panel_title "Yeny i mung ki Gwokke ikom lubo kor">
@@ -839,3 +848,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "Pe wa bi poo ikom gin mukato mo keken, ento pwail ki alamabuk manyen ma ki gamo pud kibigwoko gi i nyonyo ni.">
 <!ENTITY private_tab_learn_more "Imito nongo ngec mapol?">
 
+<!ENTITY fullscreen_warning "Odonyo ii wang kio ma opong">
