@@ -4,7 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Относно вашите права">
-<!ENTITY rights.intro "&brandFullName; е свободен софтуер с отворен код, направен от общност от хиляди хора по целия свят. Има няколко неща, които трябва да знаете:">
+<!ENTITY rights.intro "&brandFullName; е свободен софтуер с отворен код, разработван от общност от хиляди хора по целия свят. Има няколко неща, които трябва да знаете:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -31,7 +31,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Всички приложими политики за лични данни трябва да бъдат изброени тук.">
+<!ENTITY rights.intro-point3-unbranded "Всички приложими политики за поверителност трябва да бъдат изброени тук.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Някои от функциите на &brandShortName;, използват информационни услуги достъпни през Интернет и ние не можем да гарантираме за тях 100&#037;-това точност и липса на грешки. Повече информация, включително и как да изключите функции използващи такива услуги може да намерите в ">

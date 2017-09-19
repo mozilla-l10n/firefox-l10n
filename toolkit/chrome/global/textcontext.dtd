@@ -15,7 +15,7 @@
 <!ENTITY deleteCmd.label "Изтриване">
 <!ENTITY deleteCmd.accesskey "т">
 
-<!ENTITY spellAddToDictionary.label "Добавяне към речник">
+<!ENTITY spellAddToDictionary.label "Добавяне към речника">
 <!ENTITY spellAddToDictionary.accesskey "р">
 <!ENTITY spellUndoAddToDictionary.label "Отмяна на добавянето към речник">
 <!ENTITY spellUndoAddToDictionary.accesskey "О">
