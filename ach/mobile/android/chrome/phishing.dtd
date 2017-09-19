@@ -23,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Pot buk me kakube man ma i <span id='unwanted_sitename'/> kimiyo ripot ni tye ki purugram ma pe mite kadong kigengo malube ki miti mme ber bedo ni.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Potbuk me purugram mape kimito teme me keto purugram ma twero bedo me bwola kadong balo nyonyo mamegi i yoo mape byeke.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "Kakube ma tye anyim ni twero bedo ki purugram marac">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; ogengo potbuk man pien twero teme me keto purugram maraco ma kwalo onyo kwanyo woko ngec mamegi (me labolle, cal, mung me donyo, kwena ki kad me bank).">
