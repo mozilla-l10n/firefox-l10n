@@ -6,6 +6,8 @@
 <!ENTITY accounts.title                      "Rub'i' taqoya'l - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Rub'anikil chanin q'asab'äl">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "K'ak'a' Rub'i' Taqoya'l">
 <!ENTITY accountManager.newAccount.accesskey "K">
