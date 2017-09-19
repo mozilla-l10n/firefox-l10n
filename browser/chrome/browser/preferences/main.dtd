@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "ნაგულისხმევის აღდგენა">
 <!ENTITY restoreDefault.accesskey  "ა">
 
+<!ENTITY disableExtension.label    "გაფართოების ამორთვა">
+
 <!ENTITY downloads.label     "ჩამოტვირთვები">
 
 <!ENTITY saveTo.label "ფაილების შესანახი მდებარეობა">

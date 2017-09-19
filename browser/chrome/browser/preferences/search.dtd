@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "ძიების ველი">
+
+<!ENTITY searchBar.hidden.label                "გამოიყენეთ მისამართების ველი ძიებისა და გვერდებზე გადაადგილებისთვის">
+<!ENTITY searchBar.shown.label                 "ძიების ველის დამატება ხელსაწყოთა ზოლზე">
+
 <!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართების და ძიების ზოლებში.">

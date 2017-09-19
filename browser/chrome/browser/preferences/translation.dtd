@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "ამ ენების გადათარგმნა არ იქნება შემოთავაზებული:">
+<!ENTITY noTranslationForLanguages2.label "მოცემული ენების გადათარგმნა არ იქნება შემოთავაზებული">
 <!ENTITY treehead.languageName.label      "ენები">
 <!ENTITY removeLanguage.label             "ენის ამოღება">
 <!ENTITY removeLanguage.accesskey         "ე">
 <!ENTITY removeAllLanguages.label         "ყველა ენის ამოღება">
 <!ENTITY removeAllLanguages.accesskey     "ყ">
 
-<!ENTITY noTranslationForSites.label      "ამ გვერდების გადათარგმნა არ იქნება შემოთავაზებული:">
+<!ENTITY noTranslationForSites2.label     "მოცემული საიტების გადათარგმნა არ იქნება შემოთავაზებული">
 <!ENTITY treehead.siteName2.label         "საიტები">
 <!ENTITY removeSite.label                 "საიტის ამოღება">
 <!ENTITY removeSite.accesskey             "ს">
