@@ -15,13 +15,64 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Nama pertama:">
+<!ENTITY NameField1.accesskey           "N">
+<!ENTITY NameField2.label               "Nama keluarga:">
+<!ENTITY NameField2.accesskey           "N">
+<!ENTITY PhoneticField1.label           "Fonetik:">
+<!ENTITY PhoneticField2.label           "Fonetik:">
+<!ENTITY DisplayName.label              "Paparan:">
+<!ENTITY DisplayName.accesskey          "P">
+<!ENTITY preferDisplayName.label        "Sentiasa papar nama dalam pengepala mesej">
+<!ENTITY preferDisplayName.accesskey    "S">
+<!ENTITY NickName.label                 "Nama gelaran:">
+<!ENTITY NickName.accesskey             "N">
 
+<!ENTITY PrimaryEmail.label             "E-mel:">
+<!ENTITY PrimaryEmail.accesskey         "E">
+<!ENTITY SecondEmail.label              "E-mel Tambahan:">
+<!ENTITY SecondEmail.accesskey          "b">
+<!ENTITY PreferMailFormat.label         "Utamakan menerima mesej yang diformatkan sebagai:">
+<!ENTITY PreferMailFormat.accesskey     "r">
+<!ENTITY PlainText.label                "Teks Biasa">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Tidak diketahui">
+<!ENTITY ScreenName.label               "Nama Skrin:">
+<!ENTITY ScreenName.accesskey           "S">
 
+<!ENTITY WorkPhone.label                "Kerja:">
+<!ENTITY WorkPhone.accesskey            "j">
+<!ENTITY HomePhone.label                "Rumah:">
+<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY FaxNumber.label                "Faks:">
+<!ENTITY FaxNumber.accesskey            "s">
+<!ENTITY PagerNumber.label              "Kelui:">
+<!ENTITY PagerNumber.accesskey          "u">
+<!ENTITY CellularNumber.label           "Mudah alih:">
+<!ENTITY CellularNumber.accesskey       "a">
 
+<!ENTITY Home.tab                       "Peribadi">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Alamat:">
+<!ENTITY HomeAddress.accesskey          "l">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Bandar:">
+<!ENTITY HomeCity.accesskey             "d">
+<!ENTITY HomeState.label                "Negeri/Wilayah:">
+<!ENTITY HomeState.accesskey            "N">
+<!ENTITY HomeZipCode.label              "Poskod:">
+<!ENTITY HomeZipCode.accesskey          "P">
+<!ENTITY HomeCountry.label              "Negara:">
+<!ENTITY HomeCountry.accesskey          "g">
 
 
 
