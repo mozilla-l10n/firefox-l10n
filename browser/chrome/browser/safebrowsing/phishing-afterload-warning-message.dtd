@@ -24,16 +24,23 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Есть информация, что на <span id='malware_sitename'/> <a id='error_desc_link'>размещены вредоносные программы</a>. Вы можете <a id='report_detection'>сообщить об неверности этой информации</a>, или <a id='ignore_warning_link'>проигнорировать риск</a> и перейти на этот небезопасный сайт.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Есть информация, что на <span id='malware_sitename'/> <a id='error_desc_link'>размещены вредоносные программы</a>. Вы можете <a id='report_detection'>сообщить об неверности этой информации</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Узнайте больше о нежелательном веб-содержимом, в том числе о вирусах и других вредоносных программах, и о том, как защитить свой компьютер, на сайте <a id='learn_more_link'>StopBadware.org</a>. Узнайте больше о Защите от фишинга и вредоносных программ в &brandShortName; на сайте <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
-<!ENTITY safeb.blocked.unwantedPage.title2 "Этот сайт может содержать вредоносные программы">
+<!ENTITY safeb.blocked.unwantedPage.title2 "Этот сайт может содержать нежелательные программы">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; заблокировал эту страницу, потому что она может попытаться обманом заставить вас установить программы, которые будут мешать вашей работе в браузере (например, менять стартовую страницу или показывать дополнительную рекламу на сайтах).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Есть информация, что на <span id='unwanted_sitename'/> <a id='error_desc_link'>размещены нежелательные программы</a>. Вы можете <a id='ignore_warning_link'>проигнорировать риск</a> и перейти на этот небезопасный сайт.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Есть информация, что на <span id='unwanted_sitename'/> <a id='error_desc_link'>размещены нежелательные программы</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Узнайте больше о нежелательных программах на сайте <a id='learn_more_link'>Политика в отношении нежелательных программ</a>. Узнайте больше о Защите от фишинга и вредоносных программ в &brandShortName; на сайте <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Это поддельный сайт">
