@@ -62,3 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> ha sido <a id='error_desc_link'>reportado por contener una aplicación potencialmente peligrosa</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Conoce más acerca de la protección contra Phishing y Malware que ofrece &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
