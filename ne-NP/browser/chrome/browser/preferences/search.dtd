@@ -2,13 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "खोजीपट्टि">
+
+<!ENTITY searchBar.hidden.label                "खोजी र नेभिगेसनका लागि ठेगाना पट्टी प्रयोग गर्नुहोस्">
+<!ENTITY searchBar.shown.label                 "उपकरणपट्टिमा खोजिपट्टि थप्नुहोस्">
+
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोज इन्जिन">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "खोजिपट्टि र ठेगानापट्टि मा प्रयोग गर्न पुर्वनिर्धारित खोजि इन्जिन चयन गर्नुहोस् ।">
 
 <!ENTITY provideSearchSuggestions.label        "खोज सुझावहरू प्रदान गर्ने">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions2.label           "ठेगानापट्टिको नतिजाहरूमा खोज सुझावहरू देखाउनुहोस्">
+<!ENTITY showURLBarSuggestions2.accesskey       "I">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने &brandShortName; लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।">
 
 <!ENTITY oneClickSearchEngines.label           "एक-क्लिक खोज इन्जिनहरू">
@@ -23,3 +30,4 @@
 <!ENTITY removeEngine.label                    "हटाउनुहोस्">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY findMoreSearchEngines.label           "थप खोज इन्जिन फेला पार्नुहोस्">
