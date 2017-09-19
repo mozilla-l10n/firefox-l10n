@@ -511,7 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "नयाँ ट्याबमा खोज्नुहोस्">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "पूर्वनिर्धारित खोज इन्जिन बनाउनुहोस्">
+<!ENTITY searchSetAsDefault.label     "पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "लिङ्कलाई नयाँ ट्याबमा खोल्नुहोस्">

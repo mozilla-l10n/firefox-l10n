@@ -7,7 +7,7 @@
 <!ENTITY searchBar.hidden.label                "खोजी र नेभिगेसनका लागि ठेगाना पट्टी प्रयोग गर्नुहोस्">
 <!ENTITY searchBar.shown.label                 "उपकरणपट्टिमा खोजिपट्टि थप्नुहोस्">
 
-<!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोज इन्जिन">
+<!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित खोजी इन्जिन">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "खोजिपट्टि र ठेगानापट्टि मा प्रयोग गर्न पुर्वनिर्धारित खोजि इन्जिन चयन गर्नुहोस् ।">
 
@@ -20,8 +20,9 @@
 
 <!ENTITY oneClickSearchEngines.label           "एक-क्लिक खोज इन्जिनहरू">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "बैकल्पिक खोज इन्जिनहरू चयन गर्नुहोस् जुन तपाईँले खोजशब्दहरू प्रविष्ट गर्न थालेपछि ठेगानापट्टि र खोजीपट्टि को तलपट्टि देखा पर्दछ ।">
 
-<!ENTITY engineNameColumn.label                "सर्च इन्जिनहरू">
+<!ENTITY engineNameColumn.label                "खोजी इन्जिन">
 <!ENTITY engineKeywordColumn.label             "शब्दकुञ्जी">
 
 <!ENTITY restoreDefaultSearchEngines.label     "पूर्वानिर्धारीत खोज इन्जिन पुनर्स्थापना गर्नुहोस् ">
@@ -30,4 +31,4 @@
 <!ENTITY removeEngine.label                    "हटाउनुहोस्">
 <!ENTITY removeEngine.accesskey                "R">
 
-<!ENTITY findMoreSearchEngines.label           "थप खोज इन्जिन फेला पार्नुहोस्">
+<!ENTITY findMoreSearchEngines.label           "थप खोज इन्जिनहरू फेला पार्नुहोस्">

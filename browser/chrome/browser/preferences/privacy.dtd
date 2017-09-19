@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "ट्रयाकिङ्ग सुरक्षा">
+<!ENTITY  trackingProtection2.description      "ट्र्याकिङ्ग धेरै वेबसाइटहरूमा भएको तपाईँको ब्राउजिङ्ग डाटाको संग्रह हो । ट्र्याकिङ्ग तपाईँको ब्राउजिङ्ग र व्यक्तिगत जानकारीको आधारमा प्रोफाईल निर्माण र सामग्री प्रदर्शन गर्न प्रयोग गर्न सकिन्छ ।">
+<!ENTITY  trackingProtection2.radioGroupLabel  "ज्ञात ट्रयाकरहरू रोक्न ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
 <!ENTITY  trackingProtectionAlways.label       "सधैँ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "निजी सञ्झ्यालमा मात्र खोल्नुहोस्">
@@ -12,42 +14,48 @@
 <!ENTITY  trackingProtectionLearnMore.label    "अझ जान्नुहोस् ">
 <!ENTITY  trackingProtectionExceptions.label   "अपवादहरू...">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "निजी सञ्झ्यालहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "ज्ञात ट्रयाकरहरू रोक्न निजि ब्राउजिङ्गमा ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
+<!ENTITY changeBlockList2.label               "ब्लक सूची परिवर्तन गर्नुहोस्…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
-
-
-
-
-
+<!ENTITY  doNotTrack.description        "तपाईँ आफु ट्रयाक हुन चाहन्न भन्नको लागि वेबसाइटहरूलाई “Do Not Track” सङ्केत पठाउनुहोस्">
+<!ENTITY  doNotTrack.learnMore.label    "अझै जान्नुहोस्">
+<!ENTITY  doNotTrack.default.label      "केवल ट्रयाकिङ्ग सुरक्षा प्रयोग गर्दा">
+<!ENTITY  doNotTrack.always.label       "सधैँ">
 
 <!ENTITY  history.label                 "इतिहास">
+<!ENTITY  permissions.label             "अनुमतिहरू">
 
-
-
-
-
+<!ENTITY  addressBar.label              "ठेगानापट्टि">
+<!ENTITY  addressBar.suggest.label      "ठेगानापट्टि प्रयोग गर्दा, सुझाव दिनुहोस्">
+<!ENTITY  locbar.history2.label         "ब्राउजिङ्ग इतिहास">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "पूर्व निर्धारित खोज इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरू">
+<!ENTITY  locbar.searches.label         "पूर्वनिर्धारित खोजी इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरू">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्">
 
+<!ENTITY  acceptCookies2.label          "वेबसाइटहरूबाट कुकीहरू स्वीकार गर्नुहोस्">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
-
-
-
+<!ENTITY  acceptThirdParty2.pre.label     "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "सधैँ">
 <!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
 <!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
 
-
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "तिनीहरूको समय अवधि सकियो">
 <!ENTITY  close.label                   "मैले &brandShortName; बन्द गर्छु">
@@ -58,17 +66,18 @@
 <!ENTITY  showCookies.label             "कुकीहरू देखाउनुहोस्...">
 <!ENTITY  showCookies.accesskey         "S">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ले">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "इतिहास सम्झिनुहोस्">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिनुहोस्">
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
 <!ENTITY  historyHeader.post.label         "‌">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ्ग ,डाउनलोडिङ ,फर्म ,खोजी इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "तपाईँ यो चाहन सक्नुहुन्छ: ">
 <!ENTITY  rememberActions.clearHistory.label  "तपाईँको हालसालको इतिहास मेटाउनुहोस्">
 <!ENTITY  rememberActions.middle.label        ", अथवा ">
@@ -76,9 +85,9 @@
 <!ENTITY  rememberActions.post.label          "।">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "तपाईँ यो पनि चाहन सक्नुहुन्छ">
 <!ENTITY  dontrememberActions.clearHistory.label "अहिलेको सबै इतिहास मेटाउनुहोस्">
 <!ENTITY  dontrememberActions.post.label         "।">
@@ -103,3 +112,6 @@
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "सेटिङहरू…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
+
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "अझै जान्नुहोस्">
