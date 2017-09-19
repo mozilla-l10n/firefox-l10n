@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "ت">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "دوهرا ٹیب">
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -243,7 +244,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label    "دیگر نشانیاں">
 <!ENTITY bookmarksMenuButton.mobile.label   "موبائل نشانیاں">
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
+<!ENTITY hideBookmarksSidebar.label         "نشانیاں سائڈبار چھپائیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
+<!ENTITY hideBookmarksToolbar.label         "نشانیاں ٹول بار چھپائیں">
+<!ENTITY searchBookmarks.label              "نشانیاں تلاش کریں">
+<!ENTITY bookmarkingTools.label             "نشانیاں ٹول">
+<!ENTITY addBookmarksMenu.label             "نشانیاں مینو کو ٹول بار میں شامل کریں">
+<!ENTITY removeBookmarksMenu.label          "نشانیاں مینو کو ٹول بار سے ہٹائے">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -263,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "ڈاؤن لوڈ">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "ڈاؤن لوڈ">
 <!ENTITY downloads.accesskey          "ڈ">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -327,6 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "غ">
 <!ENTITY viewCustomizeToolbar.label       "تخصیص کریں…">
 <!ENTITY viewCustomizeToolbar.accesskey     "ص">
+<!ENTITY overflowCustomizeToolbar.label       "ٹول بار تخصیص کریں…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "سابقات">
@@ -347,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "حالیہ سابقات خالی کریں…">
 <!ENTITY appMenuHistory.restoreSession.label "پچھلا سیشن بحال کریں">
 <!ENTITY appMenuHistory.viewSidebar.label "بغلی بار میں سابقات دیکھیں">
+<!ENTITY appMenuHistory.recentHistory.label "حالیہ سابقات">
 <!ENTITY appMenuHelp.label "مدد">
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کھولیں">
 
@@ -376,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
 
+<!ENTITY appMenuRecentHighlights.label "حالیہ خاص بات">
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ڈ">
@@ -386,6 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "اورفلوں مینو مے شامل کرے">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ٹول بار میں لائیں">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ل">
@@ -396,7 +408,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "مینیو میں لائیں">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ل">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "اورفلوں مینو مے پن کرے">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "اورفلوں مینو سے ان پن کرے">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "ٹول بار سے ہٹائیں">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ہ">
