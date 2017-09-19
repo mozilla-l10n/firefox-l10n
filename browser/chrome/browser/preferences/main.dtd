@@ -34,7 +34,7 @@
 <!ENTITY alwaysAskWhere.accesskey     "v">
 
 <!ENTITY alwaysCheckDefault2.label        "Vedno preveri, ali je &brandShortName; privzet brskalnik">
-<!ENTITY alwaysCheckDefault2.accesskey    "v">
+<!ENTITY alwaysCheckDefault2.accesskey    "V">
 <!ENTITY setAsMyDefaultBrowser3.label     "Nastavi za privzeto …">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "N">
 <!ENTITY isDefault.label                  "&brandShortName; je trenutno vaš privzet brskalnik">
