@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Sufeɣ-iyi sya!">
-<!ENTITY safeb.palm.decline.label "Ttu alɣu-a">
+<!ENTITY safeb.palm.accept.label2 "Uɣal">
+<!ENTITY safeb.palm.seedetails.label "Wali talqayt">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,38 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Acuɣer yewḥel usebter-a?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Tamuγli igga-t <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "Tamuγli igga-t <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "D asebter n uẓḍam!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Asebter-a web illan deg <span id='malware_sitename'/> yettwammel d akken d yir asebter. Ihi yettusewḥel akken llan ismenyifen-inek n tɣellist.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Isebtar n uẓdam ttaɛraḍen ad sebedden ahilen i yettakwren tilɣa tusligin, i yesseqdacen aselkim-inek akken ad ẓedmen ɣef iselkimen-nniḍen neɣ ad sexeṣren anagraw-inek.</p><p>Kra n isebtar n uzḍam zuzuren yir iseɣẓanen, acukan deqs deg-sen ur sawaḍen ara ad sexṣṛen ma yella ur sen-tefkiḍ ara tasiregt.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Yettwammel d asebter n useɣẓan araɣelsan !">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Asebter-a web illan deg <span id='unwanted_sitename'/> yettwammel dakken igber aseɣẓan araɣelsan. Ihi yettusewḥel akken llan ismenyifen-inek n tɣellist.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Isebtar igebren iseɣẓanen uggagen ad ttaɛraḍen ad sbedden iseɣẓanen i zemren ad kelxen neɣ ad sexeṣren anagraw-ik s wudem ur nettwarǧi ara.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Tirza ɣer usmel-agi izmer ad iḍuṛṛ aselkim-inek">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan n ddiri ad yakren neɣ ad kksen isefka inek deg uselkim.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Asmel web n ukellex!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Asebter-a web illan deg <span id='phishing_sitename'/> yettwammel d akken d asmel n ukellex. Ihi, ittusewḥel akken llan ismenyifen-inek n tɣellist.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Ismal web n ukellex d wid ittaɛraḍen ad xedmen ayen ur yelhin ara, am usebded n iseɣẓan, neɣ takerḍa n telɣut-inek tudmawant, am awalen uffiren, uṭṭunen n tiliɣṛi, takarḍa n usmad.</p><p>Yezmer d akken ma teskecmeḍ talɣut-inek tudmawant, ad-yeglu s takeṛḍa-ines neɣ akellex nniḍen.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "Asmel-agi yegber ahat yir iseɣẓanen">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!ENTITY safeb.blocked.phishingPage.title3 "Asmel web n ukellex">
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Asmel-agi yegber ahat yir aseɣẓan">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku yezmer ad isbedd iseɣẓan imihawen yettakren neɣ yetteksen talɣut (amedya, tugniwin, awalen uffiren, inzan akked tkarḍiwin n usmad).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
