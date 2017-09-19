@@ -295,6 +295,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Kiloko URL">
 
+<!ENTITY pref_pwa "Purugram me kakube me diro ma lamal">
 <!ENTITY pref_pwa_summary "Yee me medo purugram me kakube i wang kio me acaki">
 
 <!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
