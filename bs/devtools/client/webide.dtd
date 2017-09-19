@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime informacije">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Postavke uređaja">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "Otvori aplikaciju">
 <!ENTITY runtimeButton_label "Izaberi runtime">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -81,8 +81,8 @@
 <!ENTITY runtimePanel_noadbhelper "Instaliraj ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Osvježi uređaje">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "validno">
 <!ENTITY details_warning_header "upozorenja">
 <!ENTITY details_error_header "greške">
@@ -90,23 +90,23 @@
 <!ENTITY details_location "Lokacija">
 <!ENTITY details_manifestURL "ID aplikacije">
 <!ENTITY details_removeProject_button "Ukloni projekt">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Nova aplikacija">
 <!ENTITY newAppHeader "Izaberite urnek">
 <!ENTITY newAppLoadingTemplate "Učitavanje urneka…">
 <!ENTITY newAppProjectName "Naziv projekta:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Zatvori">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Dodatne komponente">
 <!ENTITY addons_aboutaddons "Otvori upravnika add-onima">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Postavke">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Opće">
@@ -118,8 +118,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Vrati prethodni projekt kad se WebIDE pokrene">
 <!ENTITY prefs_options_templatesurl "URL urneka">
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks dostupnih urneka">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtime informacije">
 <!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
 <!ENTITY runtimedetails_summonADBRoot "root uređaj">
@@ -127,36 +127,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Neograničene DevTools ovlasti: ">
 <!ENTITY runtimedetails_requestPrivileges "zatraži veće privilegije">
 <!ENTITY runtimedetails_privilegesWarning "(Ponovo će pokrenuti uređaj. Zahtijeva root pristup.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objekat">
 <!ENTITY device_typenone "Izaberi tip">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Postavke uređaja">
 <!ENTITY devicepreference_search "Postavke pretraživanja">
 <!ENTITY devicepreference_newname "Nazim nove postavke">
 <!ENTITY devicepreference_newtext "Vrijednost postavke">
 <!ENTITY devicepreference_addnew "Dodaj novu postavku">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Postavke uređaja">
 <!ENTITY devicesetting_search "Postavke pretraživanja">
 <!ENTITY devicesetting_newname "Naziv nove postavke">
 <!ENTITY devicesetting_newtext "Vrijednost postavke">
 <!ENTITY devicesetting_addnew "Dodaj novu postavku">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Pomoć">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Identifikacija klijenta">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,11 +171,11 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ako vas drugi uređaj traži token umjesto skeniranja QR koda, kopirajte navedenu vrijednost na drugi uređaj:">
 <!ENTITY wifi_auth_qr_size_note "Ukoliko se QR kod čini premalim za uspješnu uspostavu veze, pokušajte uvećati ili proširiti prozor.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Pre-packaging command zapisnici">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Opcije simulatora">
 <!ENTITY simulator_remove "Obriši simulator">
 <!ENTITY simulator_reset "Vrati na izvorne vrijednosti">

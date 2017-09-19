@@ -25,11 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Unesite informaciju za modul koji želite dodati.">
-<!ENTITY loaddevice.modname                     "Ime modula:">
-<!ENTITY loaddevice.modname.accesskey           "m">
+<!ENTITY loaddevice.modname2                    "Naziv modula">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Novi PKCS#11 modul">
-<!ENTITY loaddevice.filename                    "Ime fajla modula:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "Naziv fajla modula">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Pregled…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
+<!ENTITY loaddevice.title2                      "Učitaj PKCS#11 drajver">
