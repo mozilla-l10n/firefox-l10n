@@ -4,19 +4,21 @@
 
 <!ENTITY addButton.label      "नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY addButton.accesskey  "A">
-
-
+<!ENTITY preferencesButton.label "प्राथमिकताहरू">
+<!ENTITY removeButton.label   "हटाउनुहोस्">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; फर्कनुहोस्">
 
 <!ENTITY window.title         "नयाँ कन्टेनर थप्नुहोस्">
 <!ENTITY window.width         "45em">
 
-
-
-
-
-
-
+<!ENTITY name2.label          "नाम">
+<!ENTITY name2.accesskey      "N">
+<!ENTITY name.placeholder     "कन्टेनरको नाम प्रविस्ट गर्नुहोस्">
+<!ENTITY icon2.label          "प्रतिमा">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "रङ">
+<!ENTITY color2.accesskey     "o">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "सम्पन्न भयो">

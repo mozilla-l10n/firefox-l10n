@@ -6,24 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors2.label       "पृष्ठद्वारा निर्दिष्ट गरिएका रंगहरूलाई माथिका तपाईँको चयनहरूले ओभरराइड गर्नुहोस्">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "सधैँ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "उच्च कन्ट्र्यास्ट आवरणहरूसँग मात्र">
 <!ENTITY  overrideDefaultPageColors.never.label  "कहिले पनि होइन">
 
 <!ENTITY  color                           "पाठ र पृष्ठभूमि">
-
-
-
-
+<!ENTITY  textColor2.label                "पाठ">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "पृष्ठभूमि">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "प्रणालीका रङ्गहरू प्रयोग गर्नुहोस्">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "लिङ्कहरू रेखांकित गर्नुहोस्">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "रङहरू लिङ्क गर्नुहोस्">
-
-
-
-
+<!ENTITY  linkColor2.label                "भ्रमण नगरिएका लिङ्कहरू">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "भ्रमण गरिएका लिङ्कहरू">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

@@ -137,6 +137,8 @@ available. -->
 <!ENTITY performance.label               "कार्यसम्पादन">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "सिफारिस गरिएको कार्यसम्पादन सेटिङ्गहरू प्रयोग गर्नुहोस्">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "यी सेटिङ्गहरू तपाईँको कम्प्युटरको हार्डवेयर र अपरेटिङ सिस्टम अनुरूप छन् ।">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
