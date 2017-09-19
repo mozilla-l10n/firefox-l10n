@@ -1,0 +1,120 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- these things need to move into utilityOverlay.xul -->
+<!ENTITY  offlineGoOfflineCmd.label                 "Kerja Luar Talian">
+<!ENTITY  offlineGoOfflineCmd.accesskey             "j">
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
+<!ENTITY fileMenu.label                   "Fail">
+<!ENTITY fileMenu.accesskey               "F">
+<!ENTITY newMenu.label                    "Baru">
+<!ENTITY newMenu.accesskey                "B">
+<!ENTITY newBlankPageCmd.label            "Halaman Composer">
+<!ENTITY newBlankPageCmd.accesskey        "H">
+<!ENTITY newBlankPageCmd.key              "n">
+<!ENTITY newPageFromTemplateCmd.label "Halaman Menggunakan Templat">
+<!ENTITY newPageFromTemplateCmd.accesskey "t">
+<!ENTITY newPageFromDraftCmd.label "Halaman Menggunakan Draf">
+<!ENTITY newPageFromDraftCmd.accesskey "r">
+<!ENTITY newNavigatorCmd.label "Tetingkap Pelayar">
+<!ENTITY newNavigatorCmd.key "N">
+<!ENTITY newNavigatorCmd.accesskey "P">
+<!ENTITY newPrivateWindowCmd.label "Tetingkap Peribadi">
+<!ENTITY newPrivateWindowCmd.key "B">
+<!ENTITY newPrivateWindowCmd.accesskey "T">
+<!ENTITY printSetupCmd.label "Tetapan Halaman…">
+<!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Previu Cetakan">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Cetak…">
+<!ENTITY printCmd.accesskey "C">
+<!ENTITY printCmd.key "P">
+
+<!ENTITY editMenu.label                   "Edit">
+<!ENTITY editMenu.accesskey               "E">
+<!ENTITY undoCmd.label                    "Batal">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "B">
+<!ENTITY redoCmd.label                    "Buat semula">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "B">
+<!ENTITY cutCmd.label                     "Potong">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "t">
+<!ENTITY copyCmd.label                    "Salin">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "S">
+<!ENTITY pasteCmd.label                   "Tampal">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "T">
+<!ENTITY pasteGoCmd.label                 "Tampal &amp; Lancarkan">
+<!ENTITY pasteGoCmd.accesskey             "L">
+
+<!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Tampal &amp; Cari">
+<!ENTITY pasteSearchCmd.accesskey         "l">
+<!ENTITY deleteCmd.label                  "Buang">
+<!ENTITY deleteCmd.accesskey              "B">
+<!ENTITY selectAllCmd.label               "Pilih Semua">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "S">
+<!ENTITY clearHistoryCmd.label				"Buang Sejarah Carian">  
+<!ENTITY clearHistoryCmd.accesskey			"S"> 
+<!ENTITY showSuggestionsCmd.label			"Papar Cadangan">  
+<!ENTITY showSuggestionsCmd.accesskey		"P"> 
+<!ENTITY preferencesCmd.label				"Keutamaan…">
+<!ENTITY preferencesCmd.key					"E">  
+<!ENTITY preferencesCmd.accesskey			"e"> 
+<!ENTITY findBarCmd.key "F">
+<!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
+     findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
+     and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findBarCmd.accesskey "C">
+<!ENTITY findReplaceCmd.accesskey "t">
+<!ENTITY findAgainCmd.label "Cari Lagi">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Cari Terdahulu">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findTypeTextCmd.label "Cari Teks Semasa Anda Menaip">
+<!ENTITY findTypeTextCmd.accesskey "s">
+<!ENTITY findTypeLinksCmd.label "Cari Pautan Semasa Anda Menaip">
+<!ENTITY findTypeLinksCmd.accesskey "n">
+
+<!ENTITY viewMenu.label					"Papar"> 
+<!ENTITY viewMenu.accesskey               "P">
+<!ENTITY viewToolbarsMenu.label				"Papar/Sorok"> 
+<!ENTITY viewToolbarsMenu.accesskey			"r"> 
+<!ENTITY showTaskbarCmd.label					"Bar Status">  
+<!ENTITY showTaskbarCmd.accesskey				"S"> 
+
+<!ENTITY helpMenu.label					"Bantuan"> 
+<!ENTITY helpMenu.accesskey				"t"> 
+
+<!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
+<!ENTITY helpTroubleshootingInfo.accesskey  "M">
+<!ENTITY releaseCmd.label                   "Nota Keluaran">
+<!ENTITY releaseCmd.accesskey               "N">
+<!ENTITY helpSafeMode.label                 "Mula semula dengan Add-ons Dinyahdayakan">
+<!ENTITY helpSafeMode.accesskey             "M">
+<!ENTITY updateCmd.label                    "Semak Kemaskini…">
+<!ENTITY updateCmd.accesskey                "S">
+<!ENTITY aboutCmd.label					"Perihal &brandShortName;">
+<!ENTITY aboutCmd.accesskey				"P">
+<!ENTITY aboutCommPluginsCmd.label			"Perihal Plugin">
+<!ENTITY aboutCommPluginsCmd.accesskey			"g">
+
+
+
+
+
+
+<!-- Popup Blocked notification menu -->
+
