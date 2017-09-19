@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Kijuko woko">
 <!ENTITY addonAction.uninstall                  "Pe I ket">
 <!ENTITY addonAction.undo                       "Dok cen">
+<!ENTITY addonAction.update                     "Ngec manyen">
 
 <!ENTITY addonUnsigned.message                  "Med-ikome man pe onongo kitwero moko ada ne ki &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Nong ngec mapol">

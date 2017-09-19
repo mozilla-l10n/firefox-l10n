@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Wajoli">
-
-<!ENTITY firstrun_urlbar_message "Wajoli i &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Nong jami oyoto ki yoo macek me tam ma kimiyo me yeny makonyo.">
+<!ENTITY firstrun_urlbar_message2 "Pwoc piyero &brandShortName;">
+<!ENTITY firstrun_panel_title_privacy "Mung">
+<!ENTITY firstrun_privacy_message "Yeny calo ngato pe ka neno">
+<!ENTITY firstrun_panel_title_customize "Yubi">
+<!ENTITY firstrun_customize_message "Wek &brandShortName; obed megi.">
+<!ENTITY firstrun_customize_subtext "Yub &brandShortName; ki med-ikome. Geng kwena me cat, med jami, onyo yer theme manyen me nyuto kwo mamegi.">
 <!ENTITY firstrun_bookmarks_title "Gin mukato">
 <!ENTITY firstrun_bookmarks_message "Ma imaro tutwal, anyim ki i dyere">
 <!ENTITY firstrun_bookmarks_subtext "Nong adwogi ki i alamabuk ki gin mukato mamegi ka i yenyo.">
@@ -13,8 +16,8 @@
 <!ENTITY firstrun_data_message "data manok, dwoko wel madwong">
 <!ENTITY firstrun_data_subtext2 "Nek cal woko me tic ki data manok i kakube weng ma ilimo.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, jwijwi i ka ngeti">
-<!ENTITY firstrun_sync_subtext "Rib dirica matino ni, mung me donyo, ki mapol kaweng ma itiyo kwede.">
+<!ENTITY firstrun_sync_message2 "Cak ki kama i giko iyie ni.">
+<!ENTITY firstrun_sync_subtext2 "Tii ki Ribo me nongo alamabuk, mung me donyo, ki jami mukene ma i gwoko ii &brandShortName; i nyonyo ni weng.">
 <!ENTITY firstrun_signin_message "Kube, caki">
 <!ENTITY firstrun_signin_button "Dony iye wek itim marom">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
@@ -201,8 +204,6 @@
 <!ENTITY pref_category_advanced_summary3 "Dwok dirica matino, lagwok data, gitic pa ludiro">
 <!ENTITY pref_category_notifications "Jami angeya">
 <!ENTITY pref_category_notifications_summary "Jami manyen, ngec manyen me kakube">
-<!ENTITY pref_content_notifications "Ngec manyen me kakube">
-<!ENTITY pref_content_notifications_summary2 "Nong jami manyen ki i kakube ma kicwako">
 <!ENTITY pref_developer_remotedebugging_usb "Nongo bal ki iyi USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nongo bal ki iyi Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Nongo bal ki iyi Wi-Fi mito ni nyonyo ni obed ki purugram me kwano kod me QR.">
@@ -229,6 +230,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Yubi">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -266,7 +268,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Gam dit me coc ma tye kama bor ikare me cano potbuk">
 
 <!ENTITY pref_tracking_protection_title2 "Gwokke ikom lubo kor">
-<!ENTITY pref_tracking_protection_summary3 "Kicako i yeny me mung">
 <!ENTITY pref_donottrack_title "Pe i lub kor">
 <!ENTITY pref_donottrack_summary "&brandShortName; biwaco ki kakube ni pe imito ni ki lub kor in">
 
@@ -284,6 +285,7 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Dirica matino ma kiyubo">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Yab i &formatS;">
@@ -322,23 +324,6 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "Kiketo ngec manyen i kakube &formatD;">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Ter">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Kwan kombedi">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Kiketo ngec manyen i &formatS;">
 
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
@@ -498,7 +483,13 @@
 <!ENTITY contextmenu_top_sites_edit "Yub">
 <!ENTITY contextmenu_top_sites_pin "Mwon kakube">
 <!ENTITY contextmenu_top_sites_unpin "Wa kakube">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "Med ingin me yeny">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -817,7 +808,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Med ikom alamabuk">
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "Wiye madito">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -825,17 +819,16 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ma kilimo">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Kwer">
 <!ENTITY activity_stream_delete_history "Kwany woko ki i gin mukato">
-
-<!ENTITY activity_stream_welcome_title "Wajoli i wiye madito mamegi">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; dong cweyo wiye madito pi jami ma inongo i kakube wek i nong yoo ni cen i coc akwana madito, vidio, alamabukke, ki potbukke mukene.">
 
 <!ENTITY private_tab_panel_title "Yeny i mung ki Gwokke ikom lubo kor">
 <!ENTITY private_tab_panel_description "&brandShortName; gengo but potbuk ma twero lubo kor tic me yeny mamegi.">
 <!ENTITY private_tab_panel_description2 "Pe wa bi poo ikom gin mukato mo keken, ento pwail ki alamabuk manyen ma ki gamo pud kibigwoko gi i nyonyo ni.">
 <!ENTITY private_tab_learn_more "Imito nongo ngec mapol?">
+
