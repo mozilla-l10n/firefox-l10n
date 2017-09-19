@@ -902,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Bescherming inschakelen">
 <!ENTITY trackingProtection.block2.accesskey "s">
 
-<!ENTITY trackingContentBlocked.message "Volgen">
-<!ENTITY trackingContentBlocked.moreinfo "Delen van de pagina die uw online-activiteit volgen zijn geblokkeerd.">
-<!ENTITY trackingContentBlocked.learnMore "Meer info">
-<!ENTITY trackingContentBlocked.options "Opties">
-<!ENTITY trackingContentBlocked.unblock2.label "Bescherming voor deze website uitschakelen">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
-<!ENTITY trackingContentBlocked.block.label "Bescherming inschakelen">
-<!ENTITY trackingContentBlocked.block.accesskey "B">
-<!ENTITY trackingContentBlocked.disabled.message "Bescherming tegen volgen is uitgeschakeld">
-
 <!ENTITY pluginNotification.showAll.label "Alles tonen">
 <!ENTITY pluginNotification.showAll.accesskey "A">
 
