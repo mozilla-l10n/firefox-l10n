@@ -30,7 +30,7 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите отдясно">
+<!ENTITY  closeTabsToTheEnd.label            "Затваряне на разделите вдясно">
 <!ENTITY  closeTabsToTheEnd.accesskey        "д">
 <!ENTITY  closeOtherTabs.label               "Затваряне на другите раздели">
 <!ENTITY  closeOtherTabs.accesskey           "д">
@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
