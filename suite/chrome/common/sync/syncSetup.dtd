@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountSetupTitle.label    "Penetapan &syncBrand.fullName.label;">
+
+<!-- First page of the wizard -->
+
+<!ENTITY setup.pickSetupType.description "Selamat Datang! Jika anda belum pernah menggunakan &syncBrand.fullName.label;, anda perlu cipta akaun baru.">
+<!ENTITY button.createNewAccount.label "Buka Akaun Baru">
+<!ENTITY setup.haveAccount.label "Saya sudah ada akaun &syncBrand.fullName.label;.">
+<!ENTITY button.connect.label "Sambung">
+
+<!ENTITY setup.choicePage.title.label     "Sudahkah anda pernah gunakan &syncBrand.fullName.label; sebelum ini?">
+<!ENTITY setup.choicePage.new.label       "Saya tidak pernah gunakan &syncBrand.shortName.label; sebelum ini">
+<!ENTITY setup.choicePage.existing.label  "Saya sedang menggunakan &syncBrand.shortName.label; dalam komputer lain">
+
+<!-- New Account AND Existing Account -->
+<!ENTITY server.label               "Pelayan">
+<!ENTITY server.accesskey           "P">
+<!ENTITY serverType.main.label      "Pelayan &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Gunakan pelayan penyesuaian…">
+<!ENTITY signIn.account2.label      "Akaun">
+<!ENTITY signIn.account2.accesskey  "A">
+<!ENTITY signIn.password.label      "Kata laluan">
+<!ENTITY signIn.password.accesskey  "K">
+<!ENTITY signIn.recoveryKey.label     "Kekunci Pemulihan">
+<!ENTITY signIn.recoveryKey.accesskey "K">
+
+<!-- New Account Page 1: Basic Account Info -->
+<!ENTITY setup.newAccountDetailsPage.title.label "Butiran Akaun">
+<!ENTITY setup.confirmPassword.label             "Sahkan Kata Laluan">
+<!ENTITY setup.confirmPassword.accesskey         "S">
+<!ENTITY setup.emailAddress.label                "Alamat E-mel">
+<!ENTITY setup.emailAddress.accesskey            "E">
+<!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
+     joined with implicit white space, so spaces in the strings aren't necessary -->
+<!ENTITY setup.tosAgree1.label      "Saya setuju dengan">
+<!ENTITY setup.tosAgree1.accesskey  "">
+<!ENTITY setup.tosLink.label        "Terma Perkhidmatan">
+<!ENTITY setup.tosAgree2.label      "dan">
+<!ENTITY setup.ppLink.label         "Polisi Privasi">
+<!ENTITY setup.tosAgree3.label      "">
+<!ENTITY setup.tosAgree2.accesskey  "">
+
+<!-- New Account Page 2: Recovery Key -->
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Prihatin Perihal Privasi Anda">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Untuk menjamin privasi anda, semua data anda akan disulitkan sebelum dimuat naik. Kekunci Pemulihan yang diperlukan untuk menyahsulitkan data anda tidak dimuat naik.">
+<!ENTITY recoveryKeyEntry.label        "Kekunci Pemulihan Anda">
+<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryGenerateNewKey.label  "Jana kekunci yang baru">
+<!ENTITY recoveryKeyBackup.description "Kekunci Pemulihan diperlukan untuk mengakses &syncBrand.fullName.label; dalam peranti lain. Sila buat salinan sandaran. Kami tidak dapat membantu anda memulihkan Kekunci Pemulihan.">
+
+<!ENTITY button.syncKeyBackup.print.label     "Cetak…">
+<!ENTITY button.syncKeyBackup.print.accesskey "C">
+<!ENTITY button.syncKeyBackup.save.label      "Simpan…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+
+<!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Sila Sahkan Anda Bukan Robot">
+
+<!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
+<!ENTITY addDevice.title.label              "Tambah Peranti">
+<!ENTITY addDevice.showMeHow.label          "Tunjukkan saya caranya.">
+<!ENTITY addDevice.dontHaveDevice.label     "Peranti tersebut tidak berada dengan saya">
+<!ENTITY addDevice.setup.description.label  "Untuk mengaktifkan, pergi ke Keutamaan/Pilihan &syncBrand.shortName.label; dalam peranti anda yang lain dan pilih &#x0022;Tambah Peranti&#x0022;.">
+<!ENTITY addDevice.setup.enterCode.label    "Kemudian, masukkan kod ini:">
+<!ENTITY addDevice.dialog.description.label "Untuk mengaktifkannya dalam peranti baru, pergi ke Keutamaan/Pilihan &syncBrand.shortName.label; dalam peranti berkenaan dan pilih &#x0022;Sambung.&#x0022;">
+<!ENTITY addDevice.dialog.enterCode.label   "Masukkan kod yang dipaparkan oleh peranti:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Sila cuba lagi.">
+
+<!-- Existing Account Page 2: Manual Login -->
+
+<!-- Sync Options -->
+
+
+
+<!-- Confirm Merge Options -->
+
+<!-- New & Existing Account: Setup Complete -->
