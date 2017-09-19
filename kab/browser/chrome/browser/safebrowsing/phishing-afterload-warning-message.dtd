@@ -24,11 +24,15 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'> ad ɣ-mleḍ ugur</a> neɣ <a id='ignore_warning_link'> suref i waya </a> sakin ddu ɣer usmel-agi n ddiri.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> inna-d d akken <a id='error_desc_link'> yegber aseɣẓan n ddiri</a>. Tzemreḍ <a id='report_detection'>ad ɣ-d-mleḍ ugur</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Issin ugar ɣef web i yegebren ivirusen akked iseɣẓan n ddiri akked amek ad tḥerzeḍ aselkim-inek di <a id='learn_more_link'>StopBadware.org</a>.issin ugar ɣef &brandShortName;’asfuɣel d umestan di <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Asmel-agi yegber ahat yir iseɣẓanen">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; isewḥel asebter-agi acku izmer ad isebded iseɣẓan ad d-yawin ugur i iminig inek ( amedya, abeddel n usebter agejdan neɣ taskant n izegrar deg ismal i ɣer terziḍ).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
