@@ -79,9 +79,9 @@
 <!ENTITY serverDefaultCharset2.label "Privzeto kodiranje besedila:">
 <!ENTITY localPath.label "Krajevni imenik:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
-<!ENTITY browseFolder.label "Brskaj …">
+<!ENTITY browseFolder.label "Prebrskaj …">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY browseNewsrc.label "Brskaj …">
+<!ENTITY browseNewsrc.label "Prebrskaj …">
 <!ENTITY browseNewsrc.accesskey "k">
 
 <!ENTITY accountTitle.label "Nastavitve računa">
