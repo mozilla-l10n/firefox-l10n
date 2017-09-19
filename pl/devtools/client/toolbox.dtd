@@ -20,9 +20,9 @@
 <!ENTITY options.usedeveditiontheme.label "Motyw Firefox Developer Edition">
 <!ENTITY options.usedeveditiontheme.tooltip "Przełącza motyw Firefox Developer Edition przeglądarki">
 
-<!ENTITY options.commonPrefs.label "Ogólne">
-<!ENTITY options.enablePersistentLogs.label "Trwałe dzienniki">
-<!ENTITY options.enablePersistentLogs.tooltip "Po włączeniu tej opcji konsola www oraz monitor sieci nie będą czyścić wyjścia po przejściu do kolejnej strony">
+<!ENTITY options.netmonitor.label "Monitor sieci">
+<!ENTITY options.netmonitor.enablePersistentLogs.label "Trwałe dzienniki">
+<!ENTITY options.netmonitor.enablePersistentLogs.tooltip "Po włączeniu tej opcji monitor sieci nie będzie czyścić wyjścia po przejściu do kolejnej strony">
 
 <!ENTITY options.context.inspector "Inspektor">
 <!ENTITY options.showUserAgentStyles.label "Wyświetlanie stylów przeglądarki">
