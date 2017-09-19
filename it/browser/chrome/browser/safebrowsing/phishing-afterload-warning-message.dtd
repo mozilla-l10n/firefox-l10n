@@ -2,20 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Allontanarsi da questo sito">
-<!ENTITY safeb.palm.decline.label "Ignora questo avviso">
+<!ENTITY safeb.palm.accept.label2 "Torna indietro">
+<!ENTITY safeb.palm.seedetails.label "Visualizza dettagli">
 <!ENTITY safeb.palm.notdeceptive.label "Non è un sito ingannevole…">
 <!ENTITY safeb.palm.notdeceptive.accesskey "e">
-<!ENTITY safeb.palm.reportPage.label "Perché questo sito è stato bloccato?">
-<!ENTITY safeb.palm.advisory.desc "Servizio fornito da <a id='advisory_provider'/>">
-<!ENTITY safeb.blocked.malwarePage.title "Segnalato sito malevolo">
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Il sito web <span id='malware_sitename'/> è stato segnalato come sito web malevolo ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Un sito web malevolo cerca di installare dei software in grado di sottrarre le informazioni personali degli utenti, sfruttare il computer per attaccare altre macchine o semplicemente danneggiare il sistema.</p><p>Alcuni di questi siti distribuiscono intenzionalmente software dannoso, ma gran parte dei siti viene compromessa senza che il proprietario ne sia a conoscenza o ne sia responsabile.</p>">
-<!ENTITY safeb.blocked.unwantedPage.title "Segnalato sito contenente software indesiderato">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Il sito web <span id='unwanted_sitename'/> è stato segnalato come sito contenente software indesiderato ed è stato bloccato sulla base delle impostazioni di sicurezza correnti.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Questo tipo di siti cerca di installare programmi che possono risultare ingannevoli e avere conseguenze inaspettate sul sistema.</p>">
-<!ENTITY safeb.blocked.phishingPage.title2 "Sito ingannevole">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Il sito web <span id='phishing_sitename'/> è stato segnalato come sito ingannevole ed è stato bloccato sulla base delle impostazioni di sicurezza.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>I siti web ingannevoli cercano di raggirare l’utente e convincerlo a eseguire operazioni a rischio, come installare software o rivelare informazioni personali quali password, numeri di telefono o carta di credito.</p><p>L’inserimento di informazioni personali in questa pagina può dare origine a furti d’identità o altre frodi.</p>">
+<!ENTITY safeb.palm.advisory.desc2 "Servizio fornito da <a id='advisory_provider'/>.">
+<!ENTITY safeb.blocked.malwarePage.title2 "Visitare questo sito web potrebbe danneggiare il computer">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Questa pagina è stata bloccata da &brandShortName; in quanto potrebbe cercare di installare software in grado di rubare o eliminare informazioni personali presenti nel computer.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente software indesiderato</a>. È possibile <a id='report_detection'>segnalare un errore relativo a questo avviso</a> oppure <a id='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente software indesiderato</a>. È possibile <a id='report_detection'>segnalare un errore relativo a questo avviso</a>.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Scopri ulteriori informazioni relative ai contenuti web dannosi, inclusi virus e altri malware, e come proteggere il computer su <a id='learn_more_link'>StopBadware.org</a>. Per approfondimenti sulla protezione da phishing e malware di &brandShortName; visitare <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.title2 "Questo sito web potrebbe contenere software dannosi">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "Questa pagina è stata bloccata da &brandShortName; in quanto potrebbe cercare di raggirare l’utente, cercando di convincerlo a installare programmi in grado di modificare l’esperienza di navigazione (ad esempio, cambiando la pagina iniziale o aggiungendo pubblicità ai siti visitati).">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente software dannoso</a>. È possibile <a id='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente software dannoso</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Scopri ulteriori informazioni relative a software dannosi e indesiderati su <a id='learn_more_link'>Unwanted Software Policy</a>. Per approfondimenti sulla protezione da phishing e malware di &brandShortName; visitare <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.phishingPage.title3 "Segnalato sito ingannevole">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Questa pagina è stata bloccata da &brandShortName; in quanto potrebbe cercare di raggirare l’utente, cercando di convincerlo a installare programmi o rivelare informazioni personali come password e numeri di carte di credito.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> è stato <a id='error_desc_link'>identificato come sito ingannevole</a>. È possibile <a id='report_detection'>segnalare un errore relativo a questo avviso</a> oppure <a id='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> è stato <a id='error_desc_link'>identificato come sito ingannevole</a>. È possibile <a id='report_detection'>segnalare un errore relativo a questo avviso</a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Scopri ulteriori informazioni relative a siti ingannevoli e phishing su <a id='learn_more_link'>www.antiphishing.org</a>. Per approfondimenti sulla protezione da phishing e malware di &brandShortName; visitare <a id='firefox_support'>support.mozilla.org</a>.">
 <!ENTITY safeb.blocked.harmfulPage.title "Questo sito potrebbe contenere malware">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Questa pagina è stata bloccata da &brandShortName; in quanto potrebbe cercare di installare app dannose, in grado di rubare o eliminare informazioni personali come foto, password, messaggi e numeri di carte di credito.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>. È possibile <a id='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> è stato <a id='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Scopri ulteriori informazioni sulla protezione da phishing e malware di &brandShortName; visitare <a id='firefox_support'>support.mozilla.org</a>.">
