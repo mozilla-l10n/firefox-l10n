@@ -28,14 +28,19 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "A(z) <span id='malware_sitename'/> oldal <a id='error_desc_link'>ártalmas szoftvert tartalmazóként lett jelentve</a>. <a id='report_detection'>Bejelentheti észlelési hibaként</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Tudjon meg többet az ártalmas webes tartalomról, köztük a vírusokról és más rosszindulatú programokról, valamint arról, hogy védje meg a számítógépét, a <a id='learn_more_link'>StopBadware.org</a> oldalon. Tudjon meg többet a &brandShortName; adathalászat és rosszindulatú programok elleni védelméről a <a id='firefox_support'>support.mozilla.org</a> oldalon.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Az oldal rosszindulatú programokat tartalmazhat">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "A &brandShortName; blokkolta ezt az oldalt, mert megpróbálhatja olyan programok telepítésére rávenni, amelyek ártanak a böngészési élményének (például a kezdőoldala megváltoztatásával, vagy több reklám megjelenítésével az oldalakon, melyeket meglátogat).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "A(z) <span id='unwanted_sitename'/> oldal jelentve lett, miszerint <a id='error_desc_link'>kártékony szoftvert tartalmaz</a>. <a id='ignore_warning_link'>Figyelmen kívül hagyhatja a kockázatot</a>, és meglátogathatja ezt a nem biztonságos oldalt.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "A(z) <span id='unwanted_sitename'/> oldal jelentve lett, miszerint <a id='error_desc_link'>kártékony szoftvert tartalmaz</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Tudjon meg többet a káros és kéretlen szoftverekről a <a id='learn_more_link'>Kéretlen szoftverekről szóló irányelvekben</a>. Tudjon meg többet a &brandShortName; adathalászat és rosszindulatú szoftver elleni védelméről a <a id='firefox_support'>support.mozilla.org</a> oldalon.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Félrevezető oldal">
