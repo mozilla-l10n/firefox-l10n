@@ -19,13 +19,17 @@
 <!ENTITY safeb.palm.advisory.desc2 "Rådgiving levert av <a id='advisory_provider'/>.">
 
 
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; blokkert denne siden fordi den kan forsøke å installere skadelig programvare som kan stjele eller slette personlig informasjon på datamaskinen din.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> har vært <a id='error_desc_link'>rapportert som inneholder av skadelig programvare</a>. Du kan <a id='report_detection'>rapportere et deteksjonsproblem</a> eller <a id='ignore_warning_link'>ignorere risikoen</a> og gå til dette usikre nettstedet.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> har vært <a id='error_desc_link'>rapportert som inneholder av skadelig programvare</a>. Du kan <a id='report_detection'>rapportere et deteksjonsproblem</a>.">
 
 
 
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Nettstedet forut kan inneholde skadelig programvare">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
