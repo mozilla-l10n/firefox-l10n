@@ -36,16 +36,22 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> 已被<a id='error_desc_link'>回報為含有有害軟體的網站</a>。您可以<a id='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> 已被<a id='error_desc_link'>回報為含有有害軟體的網站</a>。">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "請到 <a id='learn_more_link'>Unwanted Software Policy</a> 了解關於有害及惹人厭惡的軟體的更多資訊。也可以到 <a id='firefox_support'>support.mozilla.org</a> 了解關於 &brandShortName; 的防釣魚及惡意軟體保護機制的更多資訊。">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "前方有詐騙網站！">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "因為網頁中的內容可能會誤導您安裝惡意軟體，或讓您提供密碼、信用卡號等個人資訊，&brandShortName; 已封鎖此頁面。">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> 已被<a id='error_desc_link'>回報為含有釣魚網站</a>。您可以<a id='report_detection'>回報偵測有誤</a>，或是<a id='ignore_warning_link'>忽略此風險</a>並繼續前往這個不安全的網站。">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> 已被<a id='error_desc_link'>回報為含有釣魚網站</a>。您可以<a id='report_detection'>回報偵測有誤</a>。">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "請到 <a id='learn_more_link'>www.antiphishing.org</a> 了解關於釣魚與詐騙網站的更多資訊。也可以到 <a id='firefox_support'>support.mozilla.org</a> 了解關於 &brandShortName; 的防釣魚及惡意軟體保護機制的更多資訊。">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "此網站可能含有惡意軟體">
