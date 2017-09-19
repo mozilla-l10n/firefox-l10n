@@ -9,8 +9,8 @@
 <!ENTITY account.name                  "Korisničko ime:">
 <!ENTITY account.password              "Lozinka:">
 <!ENTITY account.alias                 "Alias:">
-
-
+<!ENTITY account.newMailNotification   "Obavijesti o novoj pošti">
+<!ENTITY account.autojoin              "Automatski spojeni kanali:">
 <!ENTITY account.proxySettings.caption "Proxy postavke:">
 <!ENTITY account.proxySettings.change.label     "Promijeni…">
 <!ENTITY account.proxySettings.change.accessKey "P">

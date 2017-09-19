@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xul -->
 
 <!ENTITY copyAndFolderTitle.label "Kopije i direktoriji">
 <!ENTITY sendingPrefix.label "Prilikom slanja poruka, automatski: ">
@@ -21,7 +21,8 @@
 <!ENTITY saveMessageDlg.label "Prikaži dijalog za potvrdu prilikom spremanja poruke">
 <!ENTITY saveMessageDlg.accesskey "l">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-
+<!ENTITY sentFolderOn.label "Fascikla &quot;Poslano&quot; na:">
+<!ENTITY sentFolderOn.accesskey "P">
 <!ENTITY sentInOtherFolder.label "Ostalo:">
 <!ENTITY sentInOtherFolder.accesskey "O">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
@@ -34,14 +35,16 @@
 <!ENTITY archivesFolderOn.accesskey "u">
 <!ENTITY archiveInOtherFolder.label "Ostalo:">
 <!ENTITY archiveInOtherFolder.accesskey "a">
-
-
+<!ENTITY specialFolders.label "Nacrti i šabloni">
+<!ENTITY keepDrafts2.label "Čuvaj nacrte poruka u:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-
+<!ENTITY draftsFolderOn.label "Fascikla &quot;Nacrti&quot; na:">
+<!ENTITY draftsFolderOn.accesskey "N">
 <!ENTITY draftInOtherFolder.label "Ostalo:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-
+<!ENTITY keepTemplates.label "Čuvaj šablone poruka u:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-
+<!ENTITY templatesFolderOn.label "Fascikla &quot;Šabloni&quot; na:">
+<!ENTITY templatesFolderOn.accesskey "b">
 <!ENTITY templateInOtherFolder.label "Ostalo:">
 <!ENTITY templateInOtherFolder.accesskey "a">
