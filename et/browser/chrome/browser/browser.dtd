@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Halda seadmeid…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vaata sünkroniseeritud kaartide külgriba">
 
-<!ENTITY appMenuRecentHighlights.label "Hiljuti esile tõstatud">
+<!ENTITY appMenuRecentHighlights.label "Hiljuti esile tõstetud">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisa tööriistaribale">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
