@@ -9,6 +9,7 @@
 <!ENTITY useCursorNavigation.label       "पृष्ठहरू सफर गर्दा जहिले पनि कर्सर किहरू प्रयोग गर्नुहोस्">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "टाइप गर्न सुरु गरेपछि पाठ खोजी गर्नुहोस्">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार टच किबोर्ड देखाउनु होस्। ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -19,13 +20,17 @@
 <!ENTITY useSmoothScrolling.label        "सरर र स्क्रोल प्रयोग गर्नुहोस्">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkUserSpelling.label         "टाइप गर्दा गर्दै हिज्जे जाँच गर्नुहोस्">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरू">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ">
 
+<!ENTITY enableHealthReport1.label       "Mozilla लाई स्वचालित रुपमा प्राविधिक र अन्तरक्रिया डाटा पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
+<!ENTITY enableHealthReport1.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY dataCollection.label            "&brandShortName; डाटा सङ्कलन र प्रयोग">
@@ -89,7 +94,9 @@ available. -->
 <!ENTITY updateApplication.version.pre   "संस्करण ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "को लागि &brandShortName; लाई अनुमति दिनुहोस्">
+<!ENTITY updateAuto3.label               "अद्यावधिकहरू स्वचालित रूपमा स्थापना गर्नुहोस् (सिफारिस गरिएको)">
 <!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "अद्यावधिकहरूको लागि जाँच गर्नुहोस् तर तिनीहरूलाई स्थापना गर्न तपाईँलाई छान्न दिनुहोस्">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "अद्यावधिकहरूको लागि कहिल्यै जाँच नगर्नुहोस् (सिफारिस नगरिएको)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -103,6 +110,7 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "स्वचालित रूपमा खोजी इन्जिनहरू अद्यावधिक गर्नुहोस्">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.label               "तपाईँलाई भन्नुहोस् जब वेबसाइटले अफलाइन प्रयोगको लागि डाटा भण्डारणको लागि सोध्दछ">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवादहरू....">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
@@ -114,7 +122,9 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "अफलाइन तथ्याङ्क हटाउनुहोस्">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
+<!ENTITY certPersonal2.description       "जब एक सर्भर तपाईँको व्यक्तिगत प्रमाणपत्रको लागि अनुरोध गर्छ">
 <!ENTITY selectCerts.auto                "स्वचालित रूपमा एउटा छान्नुहोस्">
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "तपाईँलाई हरेक पटक सोध्नुहोस्">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्">
