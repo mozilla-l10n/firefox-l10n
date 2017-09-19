@@ -3,7 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; کا انتخاب کرنے کے لئے شکریہ">
+<!ENTITY firstrun_urlbar_subtext2 "ایک جدید موبائل براؤزر موزیلا سے غیر منافع بخش ایک مفت اور آزاد ویب کے لیے پُر عزم ہے۔">
 <!ENTITY firstrun_panel_title_privacy "رازداری">
+<!ENTITY firstrun_privacy_message "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا">
+<!ENTITY firstrun_panel_title_customize "تخصیص کریں">
+<!ENTITY firstrun_customize_message "اپنا کھد کا &brandShortName; بنائے۔">
+<!ENTITY firstrun_customize_subtext "&brandShortName; کی تخصیص کرے مع ایڈ اون۔ اشتہار بلاک کرے، خصوصیات شامل کریں، آپ کے شخصیت کے متابک ایک نئی تھیم منتخب کریں۔">
 <!ENTITY firstrun_bookmarks_title "سابقات">
 <!ENTITY firstrun_bookmarks_message "آپکے پسندیدہ، سامنہ اور مرکز">
 <!ENTITY firstrun_bookmarks_subtext "نتائج حاصل کریں اپنی نشانیاں اور سابقات سے جب آپ تلاش کریں۔">
@@ -11,6 +17,7 @@
 <!ENTITY firstrun_data_message "کمتر کوائف، مزیدبچت">
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
+<!ENTITY firstrun_sync_message2 "اٹھائیں جہاں آپ نے چھوڑ دیا ہے۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
 <!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
