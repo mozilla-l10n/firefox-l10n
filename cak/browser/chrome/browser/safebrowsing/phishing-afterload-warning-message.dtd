@@ -36,8 +36,11 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> xya' <a id='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>. Yatikïr <a id='ignore_warning_link'>yatik'o rik'in k'ayewal</a> chuqa' yab'e pa ri mejikïl ruxaq.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> xya' <a id='error_desc_link'>rutzijol chi ruk'wan tz'ilanel kema'</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Tetamäx ch'aqa' chik chi rij ri tz'ilanel kema' chuqa' man k'utun ta pa <a id='learn_more_link'>Man K'utun ta Kema' Na'ojil</a>. Tetamäx ch'aqa' chik chi rij &brandShortName;’s Chajinïk chuwäch K'exonel chuqa' Nimachikopil pa <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 
