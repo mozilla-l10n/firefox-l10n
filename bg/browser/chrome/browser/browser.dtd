@@ -105,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
@@ -385,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
 
+<!ENTITY appMenuRecentHighlights.label "Последни акценти">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -843,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Стандартни настройки">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
+<!ENTITY customizeMode.extraDragSpace "Пространство за влачене на прозореца">
 <!ENTITY customizeMode.toolbars2 "Ленти с инструменти">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Моите теми">
@@ -898,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "с">
 <!ENTITY trackingProtection.block2.label "Включване на защита">
 <!ENTITY trackingProtection.block2.accesskey "В">
-
-<!ENTITY trackingContentBlocked.message "Проследяване">
-<!ENTITY trackingContentBlocked.moreinfo "Част от страницата, която проследява вашата дейност в Мрежата е била блокирана.">
-<!ENTITY trackingContentBlocked.learnMore "Научете повече">
-<!ENTITY trackingContentBlocked.options "Настройки">
-<!ENTITY trackingContentBlocked.unblock2.label "Изключване на защитата за страницата">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "И">
-<!ENTITY trackingContentBlocked.block.label "Включване на защита">
-<!ENTITY trackingContentBlocked.block.accesskey "В">
-<!ENTITY trackingContentBlocked.disabled.message "Защитата от проследяване е изключена">
 
 <!ENTITY pluginNotification.showAll.label "Показване на всичко">
 <!ENTITY pluginNotification.showAll.accesskey "П">

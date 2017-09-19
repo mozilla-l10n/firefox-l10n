@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "42em">
 
-<!ENTITY     cookiesonsystem.label          "Следните бисквитки са запазени на компютъра ви:">
+<!ENTITY     cookiesonsystem2.label         "Бисквитки, запазени на вашия компютър">
 <!ENTITY     cookiename.label               "Име на бисквитка">
 <!ENTITY     cookiedomain.label             "Сайт">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Бисквитки">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Търсене">
 <!ENTITY     searchFilter.accesskey         "Т">
