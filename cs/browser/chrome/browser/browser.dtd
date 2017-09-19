@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
 <!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Hlavička okna">
-<!ENTITY customizeMode.extraDragSpace "Prostor pro přetažení">
+<!ENTITY customizeMode.extraDragSpace "Prostor pro chycení okna">
 <!ENTITY customizeMode.toolbars2 "Nástrojové lišty">
 <!ENTITY customizeMode.lwthemes "Motivy">
 <!ENTITY customizeMode.lwthemes.myThemes "Mé motivy">
@@ -901,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Z">
 <!ENTITY trackingProtection.block2.label "Povolit ochranu">
 <!ENTITY trackingProtection.block2.accesskey "P">
-
-<!ENTITY trackingContentBlocked.message "Sledování">
-<!ENTITY trackingContentBlocked.moreinfo "Části stránky, které slouží ke sledování vaší online aktivity, byly zablokovány.">
-<!ENTITY trackingContentBlocked.learnMore "Zjistit více">
-<!ENTITY trackingContentBlocked.options "Možnosti">
-<!ENTITY trackingContentBlocked.unblock2.label "Zakázat ochranu pro tento server">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "U">
-<!ENTITY trackingContentBlocked.block.label "Povolit ochranu">
-<!ENTITY trackingContentBlocked.block.accesskey "P">
-<!ENTITY trackingContentBlocked.disabled.message "Ochrana proti sledování je zakázána">
 
 <!ENTITY pluginNotification.showAll.label "Zobrazit vše">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
