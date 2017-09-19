@@ -23,3 +23,4 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "ຫນ້າເວັບ <span id='unwanted_sitename'/> ນີ້ໄດ້ຖືກລາຍງານວ່າປະກອບມີຊັອບແວທີ່ບໍ່ພຶງປະສົງ ແລະ ໄດ້ຖືກຕັ້ງຄ່າໃຫ້ບັອກໄວ້ໃນການຕັ້ງຄ່າຄວາມປອດໄພຂອງທ່ານ.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "ຫນ້າເວັບຊັອບແວທີ່ບໍ່ພຶງປະສົງພະຍາຍາມຈະຕິດຕັ້ງໂປແກຣມທີ່ລໍ່ລວງທ່ານ ແລະ ມີຜົນເຮັດໃຫ້ລະບົບຂອງທ່ານຜິດປົກກະຕິ.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "ເວັບໄຊທ໌ຕໍ່ໄປນີ້ອາດຈະມີມັລແວລ໌">
