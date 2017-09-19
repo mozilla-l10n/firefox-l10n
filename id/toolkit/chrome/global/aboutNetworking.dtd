@@ -51,3 +51,5 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Baca">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Tulis">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entri Terbuka">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Rata-rata Pendek">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Rata-rata Panjang">
