@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Izvorni kod stranice">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Podaci o strani">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se na Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje servisima…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinhroniziranih tabova">
+
+<!ENTITY appMenuRecentHighlights.label "Nedavno istaknuto">
 
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj u alatnu traku">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -866,6 +875,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Koristi Za dodir u tablet režimu">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Automatski sakrij">
+
 <!ENTITY getUserMedia.selectCamera.label "Kamera za podijeliti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon za podijeliti:">
@@ -889,16 +900,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "O">
 <!ENTITY trackingProtection.block2.label "Omogući zaštitu">
 <!ENTITY trackingProtection.block2.accesskey "O">
-
-<!ENTITY trackingContentBlocked.message "Pratim">
-<!ENTITY trackingContentBlocked.moreinfo "Dijelovi stranice koji prate vaše online aktivnosti su blokirani.">
-<!ENTITY trackingContentBlocked.learnMore "Saznajte više">
-<!ENTITY trackingContentBlocked.options "Opcije">
-<!ENTITY trackingContentBlocked.unblock2.label "Onemogući zaštitu za ovu stranicu.">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "O">
-<!ENTITY trackingContentBlocked.block.label "Omogući zaštitu">
-<!ENTITY trackingContentBlocked.block.accesskey "O">
-<!ENTITY trackingContentBlocked.disabled.message "Zaštita od praćenja je onemogućena">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži sve">
 <!ENTITY pluginNotification.showAll.accesskey "s">
