@@ -29,7 +29,6 @@
 
 <!ENTITY fxaccount_back_to_browsing "Wróć do przeglądarki">
 
-<!ENTITY fxaccount_status_more "Więcej…">
 <!ENTITY fxaccount_remove_account "Rozłącz…">
 
 <!ENTITY fxaccount_remove_account_dialog_title2 "Rozłączyć synchronizację?">
@@ -44,25 +43,23 @@
 <!ENTITY fxaccount_getting_started_get_started "Zaloguj się">
 <!ENTITY fxaccount_getting_started_old_firefox "Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?">
 
-<!ENTITY fxaccount_status_signed_in_as "Zalogowano jako">
-<!ENTITY fxaccount_status_manage_account "Zarządzaj kontem">
 <!ENTITY fxaccount_status_auth_server "Serwer konta">
 <!ENTITY fxaccount_status_sync_now "Synchronizuj">
 <!ENTITY fxaccount_status_syncing2 "Synchronizowanie…">
 <!ENTITY fxaccount_status_device_name "Nazwa urządzenia">
 <!ENTITY fxaccount_status_sync_server "Serwer synchronizacji">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: włączone">
 <!ENTITY fxaccount_status_needs_verification2 "Konto wymaga weryfikacji. Stuknij, aby wysłać nowy odnośnik weryfikujący.">
 <!ENTITY fxaccount_status_needs_credentials "Nie można się połączyć. Stuknij, aby się zalogować.">
 <!ENTITY fxaccount_status_needs_upgrade "&brandShortName; wymaga aktualizacji przed zalogowaniem.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach systemu Android.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach kont systemu Android.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Stuknij, aby zalogować się do nowego konta Firefoksa.">
+<!ENTITY fxaccount_status_choose_what "Wybierz, co synchronizować">
 <!ENTITY fxaccount_status_bookmarks "Zakładki">
 <!ENTITY fxaccount_status_history "Historia">
 <!ENTITY fxaccount_status_passwords2 "Dane logowania">
 <!ENTITY fxaccount_status_tabs "Otwarte karty">
+<!ENTITY fxaccount_status_additional_settings "Dodatkowe ustawienia">
 <!ENTITY fxaccount_status_legal "Podstawa prawna">
 <!ENTITY fxaccount_status_linktos2 "Warunki użytkowania">
 <!ENTITY fxaccount_status_linkprivacy2 "Polityka prywatności">
