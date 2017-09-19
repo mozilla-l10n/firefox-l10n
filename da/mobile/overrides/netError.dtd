@@ -74,7 +74,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Siden er udløbet">
-<!ENTITY notCached.longDesc "<p>Den forespurgte webside er ikke tilgængelig i cacheen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Den forespurgte webside er ikke tilgængelig i cachen.</p><ul><li>Af sikkerhedshensyn henter &brandShortName; ikke automatisk følsomme sider igen.</li><li>Klik for at prøve at hente siden igen fra webstedet.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-tilstand">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -203,7 +203,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
+<!ENTITY remoteXUL.title "Ekstern XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Kan ikke oprette sikker forbindelse">
