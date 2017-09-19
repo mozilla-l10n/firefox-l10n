@@ -15,8 +15,8 @@
 <!ENTITY warnOnOpenManyTabs.accesskey   "v">
 
 <!ENTITY switchLinksToNewTabs.label        "Ko odprete povezavo v novem zavihku, takoj preklopi nanj">
-<!ENTITY switchLinksToNewTabs.accesskey    "t">
+<!ENTITY switchLinksToNewTabs.accesskey    "o">
 
 <!ENTITY showTabsInTaskbar.label          "Prikaži predoglede zavihkov v opravilni vrstici Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY showTabsInTaskbar.accesskey      "ž">
 <!ENTITY tabsGroup.label          "Zavihki">
