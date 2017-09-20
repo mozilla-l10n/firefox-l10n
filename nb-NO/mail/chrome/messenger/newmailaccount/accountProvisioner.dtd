@@ -5,20 +5,20 @@
 <!ENTITY window.title "Velkommen til &brandShortName;">
 <!ENTITY header2.label "Vil du ha en ny e-postadresse?">
 <!ENTITY other.languages "Vi viser bare tilbyderne som tilbyr adresser i ditt område.  Trykk her for å vise alle tilbydere.">
-<!ENTITY error.line1 "Vi klarte ikke finne noen foreslåtte e-postadresser.">
+<!ENTITY error.line1 "Beklager, vi klarte ikke finne noen foreslåtte e-postadresser.">
 <!ENTITY error.line2 "Du kan søke etter kallenavn eller andre nøkkelord for å finne flere adresser">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Du kan også prøve en av de ">
 <!ENTITY error.suggest.middle "gratis e-postalternativene">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Hei ">
 <!ENTITY success.title.after ", følgende e-postadresser er tilgjengelige for deg:">
 <!ENTITY success.tip "(Du kan også forsøke søke etter kallenavn eller andre søkeord for å finne flere e-postadresser)">
