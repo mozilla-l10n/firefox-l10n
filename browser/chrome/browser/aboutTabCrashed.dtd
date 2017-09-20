@@ -20,9 +20,9 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Vali &tabCrashed.restoreTab;, et kaart uuesti laadida.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Lehe/lehtede sisu uuesti laadimiseks klõpsa &tabCrashed.restoreTab; või &tabCrashed.restoreAll;.">
 <!ENTITY tabCrashed.requestHelp "Kas sa aitad meid?">
-<!ENTITY tabCrashed.requestHelpMessage "Vearaportid aitavad meil probleeme uurida ja &brandShortName; paremaks muuta.">
+<!ENTITY tabCrashed.requestHelpMessage "Vearaportid aitavad meil probleeme uurida ja &brandShortName;i paremaks muuta.">
 <!ENTITY tabCrashed.requestReport "Anna sellest kaardist teada">
-<!ENTITY tabCrashed.sendReport3 "Selleks, et taolised vead oleks võimalik parandada, saadetakse vearaportid automaatselt.">
+<!ENTITY tabCrashed.sendReport3 "Selleks, et taolisi vigu oleks võimalik parandada, saadetakse vearaportid automaatselt.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valikulised kommentaarid (need on avalikult nähtavad)">
 <!ENTITY tabCrashed.includeURL3 "Kaasatakse saitide URLid, mida külastasid ajal, mil &brandShortName; kokku jooksis.">
 <!ENTITY tabCrashed.emailPlaceholder "Sisesta siia oma e-posti aadress">
