@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Hindre tilgangstenester tilgjenge til nettlesaren din">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "H">
 <!ENTITY  a11yPrivacy.learnmore.label    "Les meir">
+<!ENTITY enableSafeBrowsingLearnMore.label "Les meir">
