@@ -36,6 +36,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> ha essite <a id='error_desc_link'>reportate como un sito periculose</a>. Tu pote <a id='report_detection'>reportar un problema de revelation</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Apprende de plus re le sitos periculose a <a id='learn_more_link'>www.antiphishing.org</a>. Apprende de plus re &brandShortName;’s Protection del phishing e del malware a <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 
@@ -44,3 +45,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> ha essite <a id='error_desc_link'>reportate como continente un application potentialmente periculose</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Apprende de plus re &brandShortName;’s Protection del phishing e del malware a <a id='firefox_support'>support.mozilla.org</a>.">
