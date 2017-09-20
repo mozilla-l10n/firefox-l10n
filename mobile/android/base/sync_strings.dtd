@@ -51,15 +51,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'Démarrer'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Vous utilisez une ancienne version de &syncBrand.shortName.label; ?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
-<!ENTITY fxaccount_status_manage_account 'Gérer le compte'>
 <!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
 <!ENTITY fxaccount_status_sync_now 'Synchroniser maintenant'>
 <!ENTITY fxaccount_status_syncing2 'Synchronisation…'>
 <!ENTITY fxaccount_status_device_name 'Nom de l’appareil'>
 <!ENTITY fxaccount_status_sync_server 'Serveur Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; : activé'>
 <!ENTITY fxaccount_status_needs_verification2 'Votre compte doit être vérifié. Appuyez pour envoyer à nouveau le courriel de vérification.'>
 <!ENTITY fxaccount_status_needs_credentials 'Connexion impossible. Appuyez pour vous connecter.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Vous devez mettre à jour &brandShortName; pour vous connecter.'>
@@ -70,6 +66,7 @@
 <!ENTITY fxaccount_status_history 'Historique'>
 <!ENTITY fxaccount_status_passwords2 'Identifiants'>
 <!ENTITY fxaccount_status_tabs 'Onglets ouverts'>
+<!ENTITY fxaccount_status_additional_settings 'Paramètres supplémentaires'>
 <!ENTITY fxaccount_status_legal 'Mentions légales' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +74,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Conditions d’utilisation'>
 <!ENTITY fxaccount_status_linkprivacy2 'Politique de confidentialité'>
-<!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Déconnecter…'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Se déconnecter de Sync ?'>
@@ -102,21 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Options de &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Configurer &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Vous devez mettre à jour Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Ce compte existe déjà. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Courriel ou mot de passe invalide'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Courriel ou mot de passe invalide'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Le compte n’est pas vérifié'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveur occupé, veuillez réessayer ultérieurement'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveur occupé, veuillez réessayer ultérieurement'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Un problème est survenu'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Le compte est verrouillé. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n’est pas connecté'>
 <!-- Localization note: the format string below will be replaced
