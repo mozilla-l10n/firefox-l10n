@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> has been <a id='error_desc_link'>reported as containing malicious software</a>. You can <a id='report_detection'>report a detection problem</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "भाइरसहरू र अन्य मालवेयर सहित हानिकारक वेब सामग्रीको बारेमा र तपाईँको कम्प्युटरलाई कसरि सुरक्षित राख्ने बारेमा <a id='learn_more_link'>StopBadware.org </a> बाट अझै जान्नुहोस् । &brandShortName;को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a id='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "अगाडी साइटमा हानिकारक कार्यक्रम हुन सक्छ">
@@ -42,14 +43,21 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "अगाडी भ्रामक साइट छ">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; ले यो पृष्ठलाई अबरुद्द गरेको छ किनकि यसले तपाईँलाई केहि खतरनाक कार्य गर्न झुक्काउन सक्छ जस्तै सफ्टवेयर स्थापना गराउने वा व्यक्तिगत जानकारी जस्तै गोप्यशब्द वा क्रेडिट कार्डहरूको खुलासा गराउने ।">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> लाई <a id='error_desc_link'>भ्रामक साइट भएको रिपोर्ट गरिएको छ </a>। तपाईँले <a id='report_detection'> पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> वा <a id='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।">
+
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> लाई <a id='error_desc_link'>भ्रामक साइट भएको रिपोर्ट गरिएको छ </a>। तपाईँले <a id='report_detection'> पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> ।">
 
 
 
-
+<!ENTITY safeb.blocked.harmfulPage.title "अगाडीको साइट मा मालवेयर हुन सक्छ">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; ले यो पृष्ठ लाई अबरुद्द गरेको छ किनकि उक्त पृष्ठले खतरनाक अनुप्रयोगहरू स्थापना गर्ने प्रयास गर्न सक्छ जसले तपाईँको सूचनाहरु(उदाहरणको लागि, तस्बिरहरू, गोप्यशब्दहरू, सन्देशहरू र क्रेडिट कार्डहरू) चोर्न वा मेटाउन सक्छन ।">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> लाई <a id='error_desc_link'>सम्भावित हानिकारक अनुप्रयोग भएको साइट को रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a id='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> लाई <a id='error_desc_link'>सम्भावित हानिकारक अनुप्रयोग भएको साइट को रुपमा रिपोर्ट गरिएको छ</a> ।">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName;को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a id='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।">
