@@ -32,10 +32,13 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "방문하려는 사이트가 위험한 프로그램을 포함할 수 있음">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "브라우징 경험을 해칠 수 있는 프로그램을 설치하도록 속일 수 있기 때문(예를 들어 첫페이지를 바꾸거나 방문한 사이트에 광고를 추가)에 &brandShortName;가 이 페이지를 차단하였습니다.">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> 사이트가 <a id='error_desc_link'>위험한 소프트웨어를 포함</a>하고 있는 것으로 보고 되었습니다. <a id='ignore_warning_link'>위험을 무시</a>하고 안전하지 않은 사이트로 진행할 수 있습니다.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> 사이트가 <a id='error_desc_link'>위험한 소프트웨어를 포함</a>하고 있는 것으로 보고 되었습니다.">
 
 
 
