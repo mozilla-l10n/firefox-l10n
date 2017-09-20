@@ -15,3 +15,16 @@
 <!ENTITY reorderUpButton.accesskey "A">
 <!ENTITY reorderDownButton.label "Pindah Bawah">
 <!ENTITY reorderDownButton.accesskey "B">
+<!ENTITY filterHeader.label "Penapis yang aktif dilaksanakan secara automatik mengikut susunan di bawah.">
+<!ENTITY filtersForPrefix.label "Tapis untuk:">
+<!ENTITY filtersForPrefix.accesskey "T">
+<!ENTITY viewLogButton.label "Tapis Log">
+<!ENTITY viewLogButton.accesskey "L">
+<!ENTITY runFilters.label "Laksanakan Sekarang">
+<!ENTITY runFilters.accesskey "S">
+<!ENTITY stopFilters.label "Berhenti">
+<!ENTITY stopFilters.accesskey "B">
+<!ENTITY folderPickerPrefix.label "Laksanakan penapis yang dipilih pada:">
+<!ENTITY folderPickerPrefix.accesskey "p">
+<!ENTITY choosethis.label "pilih folder ini">
+<!ENTITY choosethisnewsserver.label "pilih pelayan berita ini">
