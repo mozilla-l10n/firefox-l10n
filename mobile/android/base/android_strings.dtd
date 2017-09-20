@@ -36,7 +36,7 @@
 
 <!ENTITY firstrun_readerview_title "문서">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "심플하게 바꾸기">
+<!ENTITY firstrun_readerview_message "내용만 간단하게">
 <!ENTITY firstrun_readerview_subtext "읽기 모드를 사용하면 문서를 더 읽기 좋게 만들어줍니다 \u2014 또한 오프라인에서도 볼 수 있습니다.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
@@ -369,7 +369,7 @@
 <!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "탭 열기">
+<!ENTITY pref_private_data_openTabs "열려있는 탭">
 <!ENTITY pref_private_data_history2 "방문 기록">
 <!ENTITY pref_private_data_searchHistory "검색 기록">
 <!ENTITY pref_private_data_formdata2 "양식 데이터 기록">
