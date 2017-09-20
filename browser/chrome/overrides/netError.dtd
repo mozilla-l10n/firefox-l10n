@@ -12,14 +12,14 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
 <!ENTITY deniedPortAccess.longDesc "">
-<!ENTITY dnsNotFound.title "Impossibile contattare il server">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Impossibile contattare il server">
+<!ENTITY dnsNotFound.title1 "Uhm… non riusciamo a trovare questo sito.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se l’indirizzo è corretto, ecco alcune prove da effettuare:</strong>
 <ul>
-  <li>Verificare se l’indirizzo contiene errori di battitura del tipo
-    <strong>ww</strong>.example.com invece di
-    <strong>www</strong>.example.com</li>
-  <li>Se non è possibile caricare alcuna pagina, controllare la connessione di rete del computer.</li>
-  <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al web.</li>
+  <li>Ritentare più tardi.</li>
+  <li>Verificare la connessione alla rete.</li>
+  <li>Se la connessione è protetta da un firewall, verificare che &brandShortName; abbia i permessi per accedere a Internet.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "File non trovato">
@@ -44,7 +44,7 @@
 <p>È necessario accedere alla rete per navigare in Internet.</p>
 ">
 <!ENTITY openPortalLoginPage.label2 "Apri la pagina di accesso alla rete">
-<!ENTITY malformedURI.title1 "Uhm, l’indirizzo non sembra corretto.">
+<!ENTITY malformedURI.title1 "Uhm… l’indirizzo non sembra corretto.">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento scaduto">
