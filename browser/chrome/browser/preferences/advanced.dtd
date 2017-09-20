@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud">
 
-<!ENTITY enableHealthReport1.label       "&brandShortName;il lubatakse automaatselt saata tehnilisi andmeid Mozillale">
-<!ENTITY enableHealthReport1.accesskey   "l">
+<!ENTITY enableHealthReport2.label       "&brandShortName;il lubatakse automaatselt saata tehnilisi andmeid Mozillale">
+<!ENTITY enableHealthReport2.accesskey   "u">
 <!ENTITY healthReportLearnMore.label     "Rohkem teavet">
 
 <!ENTITY dataCollection.label            "&brandShortName;i andmete kogumine ja kasutamine">
