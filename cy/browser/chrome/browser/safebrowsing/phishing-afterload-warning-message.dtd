@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Allan o fan hyn!">
-<!ENTITY safeb.palm.decline.label "Anwybyddu'r rhybudd">
+<!ENTITY safeb.palm.accept.label2 "Nôl">
+<!ENTITY safeb.palm.seedetails.label "Gweld manylion">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,40 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "t">
-<!ENTITY safeb.palm.reportPage.label "Pam oedd y dudalen hon wedi ei rhwystro?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Nodyn cynghorol wedi ei ddarparu gan <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "Cyngor yn cael ei ddarparu gan <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "Adroddwyd Ymosodiad Tudalen!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Mae'r dudalen hon <span id='malware_sitename'/> wedi ei chofnodi fel tudalen ymosod ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p> Mae tudalennau ymosod yn ceisio gosod rhaglenni sy'n dwyn gwybodaeth breifat, defnyddio eich cyfrifiadur i ymosod ar eraill, neu ddifrodi eich system.</p><p> Mae rhai tudalennau ymosod yn fwriadol yn dosbarthu meddalwedd niweidiol, ond mae llawer yn cael eu cyfaddawdu heb yn wybod neu ganiatâd eu perchnogion. </p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Tudalen Meddalwedd Digroeso Hysbys!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Mae'r dudalen hon <span id='unwanted_sitename'/> wedi ei chofnodi ei bod yn cynnwys meddalwedd digroeso ac mae wedi ei rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Mae tudalennau meddalwedd digroeso yn ceisio gosod meddalwedd all fod yn dwyllodrus ac effeithio ar eich system mewn ffyrdd annisgwyl.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Gall mynd i'r wefan hon wneud drwg i'ch cyfrifiadur">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "Mae &brandShortName; wedi atal y dudalen hon gan y gall geisio gosod meddalwedd drwg er mwyn drwyn neu ddileu gwybodaeth bersonol ar eich cyfrifiadur.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Gwefan Twyllodrus!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Mae'r dudalen hon yn <span id='phishing_sitename'/> wedi cael ei chofnodi fel gwefan twyllodrus ac mae wedi'i rhwystro yn seiliedig ar eich dewisiadau diogelwch.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Mae gwefannau twyllodrus yn cael eu cynllunio i'ch twyllo i wneud rhywbeth peryglus, fel gosod meddalwedd, neu ddatgelu eich manylion personol, megis cyfrineiriau, rhifau ffôn neu gardiau credyd.</p><p>Gall gynnig unrhyw wybodaeth ar y dudalen we hon arwain at ddwyn eich manylion personol neu ryw dwyllo arall.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Mae <span id='malware_sitename'/> yn hysbys <a id='error_desc_link'>ei fod yn cynnwys meddalwedd maleisus</a>. Gallwch <a id='report_detection'>adrodd ar anhawster canfod</a> neu <a id='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Mae <span id='malware_sitename'/> yn hysbys <a id='error_desc_link'>ei fod yn cynnwys meddalwedd maleisus</a>. Gallwch <a id='report_detection'>adrodd ar anhawster canfod</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Mae rhagor o wybodaeth am gynnwys gwe faleisus gan gynnwys firysau a drwgwar eraill a sut i ddiogelu eich cyfrifiadur yn <a id='learn_more_link'>StopBadware.org</a>. Hefyd, mae gwybodaeth am Ddiogelwch Pysgota a Drwgwar &brandShortName; yn <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "Gall fod y wefan o'ch blaen yn cynnwys rhaglenni niweidiol">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Gall fod y wefan yn cynnwys drwgwar">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Mae &brandShortName; wedi rhwystro'r dudalen gan y gall geisio gosod apiau peryglus sy'n dwyn neu ddileu eich manylion (e.e., lluniau, cyfrineiriau, negeseuon a chardiau credyd).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
