@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Hata ayıklayıcı">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Kaynak haritalarını etkinleştir">
-<!ENTITY options.sourceMaps.tooltip    "Bu seçeneği etkinleştirirseniz Hata Ayıklayıcı’da ve Konsol’da kaynaklar haritalanacaktır.">
+<!ENTITY options.sourceMaps.tooltip1   "Bu seçeneği etkinleştirirseniz kaynaklar araçlarda haritalanacaktır.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stil editörü">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Asıl kaynakları göster">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Stil Editörü ve Denetçi’de orijinal kaynakları (örn. Sass dosyaları) göster">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
