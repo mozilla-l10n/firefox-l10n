@@ -6,16 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Nampaknya, ini agak memalukan.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; sedang mengalami masalah memulihkan tetingkap dan tab anda. Kebiasaannya ini berpunca dari halaman web terkini yang dibuka.">
-<!ENTITY restorepage.tryThis        "Anda boleh cuba:">
-<!ENTITY restorepage.restoreSome    "Menghapuskan satu atau lebih tab yang anda fikir menjadi punca kepada masalah ini">
-<!ENTITY restorepage.startNew       "Memulakan keseluruhan sesi pelayaran baru">
 
-<!ENTITY restorepage.tryagainButton "Pulih">
-<!ENTITY restorepage.restore.access "P">
-<!ENTITY restorepage.closeButton    "Tutup">
-<!ENTITY restorepage.close.access   "T">
+<!ENTITY restorepage.tryagainButton2 "Pulih Sesi">
+<!ENTITY restorepage.restore.access2 "P">
 
 <!ENTITY restorepage.restoreHeader  "Kembalikan semula">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">
