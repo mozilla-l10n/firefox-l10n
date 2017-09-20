@@ -19,6 +19,7 @@
 <!ENTITY safeb.palm.advisory.desc2 "Rådgiving levert av <a id='advisory_provider'/>.">
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Å besøke dette nettstedet kan skade datamaskinen din">
 <!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; blokkert denne siden fordi den kan forsøke å installere skadelig programvare som kan stjele eller slette personlig informasjon på datamaskinen din.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
@@ -35,14 +36,18 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> er <a id='error_desc_link'>rapportert å inneholde skadelig programvare</a>. Du kan <a id='ignore_warning_link'>ignorere risikoen</a> og gå til dette usikre nettstedet.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> er <a id='error_desc_link'>rapportert å inneholde skadelig programvare</a>.">
 
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Villedende nettsted">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> er <a id='error_desc_link'>rapportert som et villedende nettsted</a>. Du kan <a id='report_detection'>rapportere et deteksjonsproblem</a> eller <a id='ignore_warning_link'>ignorere risikoen</a> og gå til dette usikre nettstedet.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> er <a id='error_desc_link'>rapportert som et villedende nettsted</a>. Du kan <a id='report_detection'>rapportere et deteksjonsproblem</a>.">
 
 
 
@@ -50,5 +55,7 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; blokkerte denne siden fordi den kan prøve å installere farlige apper som stjeler eller sletter din informasjon (for eksempel bilder, passord, meldinger og kredittkort).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> er <a id='error_desc_link'>rapportert å inneholde potensielt skadelig programvare</a>. Du kan <a id='ignore_warning_link'>ignorere risikoen</a> og gå til dette usikre nettstedet.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> er <a id='error_desc_link'>rapportert å inneholde potensielt skadelig programvare</a>.">
 
