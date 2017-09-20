@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Tee algust'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Kas kasutad &syncBrand.shortName.label;i vanemat versiooni?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Sisse logitud kasutajana'>
-<!ENTITY fxaccount_status_manage_account 'Halda kontot'>
 <!ENTITY fxaccount_status_auth_server 'Konto server'>
 <!ENTITY fxaccount_status_sync_now 'Sünkroniseeri kohe'>
 <!ENTITY fxaccount_status_syncing2 'Sünkroniseerimine…'>
 <!ENTITY fxaccount_status_device_name 'Seadme nimi'>
 <!ENTITY fxaccount_status_sync_server 'Synci server'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: lubatud'>
 <!ENTITY fxaccount_status_needs_verification2 'Sinu konto vajab kinnitamist. Kinnitusnõude uuesti saatmiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_credentials 'Pole võimalik ühenduda. Sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Sisselogimiseks pead uuendama &brandShortName;i.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Andmekasutus ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Kontod ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Oma uude Firefoxi kontosse sisselogimiseks puuduta.'>
+<!ENTITY fxaccount_status_choose_what 'Sünkroniseeritavate asjade valik'>
 <!ENTITY fxaccount_status_bookmarks 'järjehoidjad'>
 <!ENTITY fxaccount_status_history 'ajalugu'>
 <!ENTITY fxaccount_status_passwords2 'kasutajakontod'>
 <!ENTITY fxaccount_status_tabs 'avatud kaardid'>
+<!ENTITY fxaccount_status_additional_settings 'Täiendavad sätted'>
 <!ENTITY fxaccount_status_legal 'Õiguslik teave' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Teenuse tingimused'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privaatsusreeglid'>
-<!ENTITY fxaccount_status_more 'Veel&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Katkesta ühendus&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Kas oled kindel, et soovid Syncist lahti ühendada?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label;i seaded'>
 <!ENTITY fxaccount_options_configure_title 'Häälesta &syncBrand.shortName.label;i'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Sa pead Firefoxi uuendama'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto on juba olemas. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Vigane e-posti aadress või parool'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Vigane e-posti aadress või parool'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konto pole kinnitatud'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server on hõivatud, proovi varsti uuesti'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server on hõivatud, proovi varsti uuesti'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Esines probleem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Konto on lukus. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; pole ühendatud'>
 <!-- Localization note: the format string below will be replaced
