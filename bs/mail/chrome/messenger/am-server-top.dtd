@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
 
+<!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Spremište poruka">
 <!ENTITY securitySettings.label "Postavke sigurnosti">
@@ -53,9 +53,10 @@
 <!ENTITY modelDeleteImmediately.label "Odmah je ukloni">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-
-
-
+<!ENTITY expungeOnExit.label "Počisti (&quot;Izbriši&quot;) Primljenu poštu prilikom izlaza">
+<!ENTITY expungeOnExit.accesskey "e">
+<!ENTITY emptyTrashOnExit.label "Isprazni smeće prilikom izlaza">
+<!ENTITY emptyTrashOnExit.accesskey "z">
 <!ENTITY loginAtStartup.label "Provjeri dostupnost novih poruka pri pokretanju">
 <!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
@@ -70,7 +71,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "v">
 <!ENTITY newsrcFilePath.label "newsrc fajl:">
 <!ENTITY newsrcPicker.label "Izaberi newsrc fajl">
-
+<!ENTITY abbreviate.label "Prikaži imena novih grupa u fascikli za poruke kao:">
 <!ENTITY abbreviateOn.label "Puni naziv (naprimjer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skraćeni naziv (naprimjer, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Napredno…">
@@ -84,8 +85,8 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Postavke računa">
-
-
-
-
-
+<!ENTITY accountSettingsDesc.label "Sljedeći račun je poseban.  Nijedan identitet nije povezan s njim.">
+<!ENTITY storeType.label "Tip pohrane poruka:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Datoteka po fascikli (mbox)">
+<!ENTITY maildirStore.label "Datoteka po poruci (maildir)">
