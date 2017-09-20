@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "اشکال‌زدا">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "فعال‌سازی نقشه های منابع">
-<!ENTITY options.sourceMaps.tooltip    "اگر شما این گزینه را فعالسازی کنید این منابع قادر خواهد بود بر روی اشکالزدا و میزفرمان Mapشوند.">
+<!ENTITY options.sourceMaps.tooltip1   "اگر شما این قابلیت را فعال کنید منابع قادر به ترسیم در ابزارخواهند بود.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "ویرایشگر سبک">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "نمایش منابع اصلی">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "نمایش منابع اصلی (مثلا پرونده‌های Sass) در «ویرایشگر سبک» و «بازرس»">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "پخش صدای شاتر دوربین">
 <!ENTITY options.screenshot.audio.tooltip    "فعالسازی صدای دوربین در حالی که تصویر از صفحه گرفته می ‌شود">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "شبکه">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "فعال سازی گزارشات مداوم">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "اگر شما این گزینه رو فعال کنید در هنگام رصد شبکه خروجی شما برای زمانی که صفحه جدیدی را بازدید می‌کنید پاکسازی نخواهد شد">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

@@ -18,8 +18,13 @@
 <!ENTITY deniedPortAccess.title "این نشانی ممنوع است">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>نشانی را برای اشتباهات تایپی بررسی کنید که مثلا <strong>ww </strong>.example.com به طور اشتباه به جای <strong>www</strong>.example.com وارد نشده باشد.</li> <li>اگر نمی‌توانید هیچ صفحه‌ای را بارگذاری کنید، اتصال شبکهٔ رایانهٔ خود را بررسی کنید.</li> <li>اگر رایانه یا شبکه شما توسط کارگزار یا دیوارآتش محافظت می‌شود مطمئن شوید که &brandShortName; دسترسی به وب را دارد.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "سرور پیدا نشد">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "آممم. ما مقدار مشکل در پیدا کردن این پایگاه اینترنتی داریم.">
+<!ENTITY dnsNotFound.longDesc1 "<strong> اگر این آدرس درست است،‌ اینجا سه چیز دیگر وجود دارد که شما باید امتحان کنید:</strong><ul>
+  <li>بعدا دوباره تلاش کنید.</li>
+  <li>شبکه خود را بررسی کنید.</li>
+  <li>اگر شما متصل هستید اما در پشت دیوار اتشین هستید،‌&brandShortName; را بررسی کنیدتا اجازه اتصال به وب را داشته باشد</li></ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul><li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li><li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li></ul>">
@@ -35,8 +40,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "بازکردن صفحه ورود به شبکه">
 
-<!ENTITY malformedURI.title "نشانی معتبر نیست">
-<!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "نشانی معتبر نیست">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "آممم. آدرس به نظر درست نیست.">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
