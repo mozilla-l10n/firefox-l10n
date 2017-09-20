@@ -4,169 +4,189 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
-
-
-
-
-
-
+<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "New App…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
-
-
-
-
-
+<!ENTITY projectMenu_selectApp_label "Open App…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Install and Run">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Stop App">
 <!ENTITY projectMenu_stop_accesskey "S">
-
-
+<!ENTITY projectMenu_debug_label "Debug App">
+<!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "प्रोजेक्ट हटाउनुहोस्">
-
+<!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "प्राथमिकताहरू">
-
+<!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "अतिरिक्त अवयव व्यवस्थापन">
-
-
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "Refresh Tabs">
 
 <!ENTITY runtimeMenu_label "रनटाइम">
-
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "विच्छेद">
-
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनसट">
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime Info">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "मोनिटर">
-
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "यन्त्रको प्राथमिकताहरू">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "यन्त्रको सेटिङहरू">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "दृश्य">
-
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "जुम बढाउनुहोस्">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "जुम घटाउनुहोस्">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Reset Zoom">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
-
-
-
+<!ENTITY projectButton_label "Open App">
+<!ENTITY runtimeButton_label "Select Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12 ">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
-
+<!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
-
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "मेरो परियोजनाहरू">
-
+<!ENTITY projectPanel_runtimeApps "Runtime Apps">
 <!ENTITY projectPanel_tabs "ट्याबहरू">
 <!ENTITY runtimePanel_usb "USB यन्त्रहरू">
 <!ENTITY runtimePanel_wifi "Wi-Fi यन्त्रहरू">
-
+<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "अन्य">
 <!ENTITY runtimePanel_installsimulator "सीमुलेटर स्थापना गर्नुहोस्">
-
-
+<!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
+<!ENTITY runtimePanel_nousbdevice "Can’t see your device?">
+<!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
 
 <!-- Lense -->
-
 <!ENTITY details_valid_header "वैध">
 <!ENTITY details_warning_header "चेतावनीहरू">
 <!ENTITY details_error_header "त्रुटिहरू">
 <!ENTITY details_description "वर्णन">
 <!ENTITY details_location "स्थान">
-
+<!ENTITY details_manifestURL "App ID">
 <!ENTITY details_removeProject_button "प्रोजेक्ट हटाउनुहोस्">
-<!-- New App -->
 
+<!-- New App -->
+<!ENTITY newAppWindowTitle "New App">
+<!ENTITY newAppHeader "Select template">
+<!ENTITY newAppLoadingTemplate "Loading templates…">
+<!ENTITY newAppProjectName "Project Name:">
 
 
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "बन्द गर्नुहोस्">
+
 <!-- Addons -->
+<!ENTITY addons_title "Extra Components">
+<!ENTITY addons_aboutaddons "Open Add-ons Manager">
 
 <!-- Prefs -->
-
 <!ENTITY prefs_title "प्राथमिकताहरू">
-
+<!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "सामान्य">
 <!ENTITY prefs_restore "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
 <!ENTITY prefs_manage_components "अतिरिक्त अवयव व्यवस्थापन">
-
-
-
-
-
+<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
+<!ENTITY prefs_options_rememberlastproject "Remember last project">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
+<!ENTITY prefs_options_templatesurl "Templates URL">
+<!ENTITY prefs_options_templatesurl_tooltip "Index of available templates">
 
 <!-- Runtime Details -->
-
-
-
-
-
+<!ENTITY runtimedetails_title "Runtime Info">
+<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
+<!ENTITY runtimedetails_summonADBRoot "root device">
+<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
+<!ENTITY runtimedetails_requestPrivileges "request higher privileges">
+<!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
 
 <!-- Device Preferences and Settings -->
-
 <!ENTITY device_typeboolean "बुलियन">
 <!ENTITY device_typenumber "इन्टिजर">
 <!ENTITY device_typestring "स्ट्रिङ्ग">
 <!ENTITY device_typeobject "वस्तु">
+<!ENTITY device_typenone "Select a type">
 
 <!-- Device Preferences -->
-
 <!ENTITY devicepreference_title "यन्त्रको प्राथमिकताहरू">
-
-
+<!ENTITY devicepreference_search "Search preferences">
+<!ENTITY devicepreference_newname "New preference name">
 <!ENTITY devicepreference_newtext "प्राथमिकता मान">
 <!ENTITY devicepreference_addnew "नयाँ प्राथमिकताहरू थप्नुहोस्">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "यन्त्रको सेटिङहरू">
 <!ENTITY devicesetting_search "खोज सेटिङ्हरू">
-
-
+<!ENTITY devicesetting_newname "New setting name">
+<!ENTITY devicesetting_newtext "Setting value">
+<!ENTITY devicesetting_addnew "Add new setting">
 
 <!-- Monitor -->
-
 <!ENTITY monitor_title "मोनिटर">
 <!ENTITY monitor_help "मद्दत">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Client Identification">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "The endpoint you are connecting to needs more information to authenticate this connection.  Please scan the QR code below via the prompt on your other device.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "No QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
+<!ENTITY wifi_auth_qr_size_note "If the QR code appears too small for the connection to be successfully established, try zooming or enlarging the window.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Pre-packaging Command Logs">
+
 <!-- Simulator Options -->
-
+<!ENTITY simulator_title "Simulator Options">
+<!ENTITY simulator_remove "Delete Simulator">
 <!ENTITY simulator_reset "पूर्वानिर्धारित अवस्थामा ल्याउनुहोस्">
-
-
+<!ENTITY simulator_name "Name">
+<!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "संस्करण">
-
-
+<!ENTITY simulator_profile "Profile">
+<!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "यन्त्र">
-
+<!ENTITY simulator_screenSize "Screen">
 <!ENTITY simulator_pixelRatio "पिक्सेल अनुपात">
-
-
-
+<!ENTITY simulator_tv_data "TV Simulation">
+<!ENTITY simulator_tv_data_open "Config Data">
+<!ENTITY simulator_tv_data_open_button "Open Config Directory…">
