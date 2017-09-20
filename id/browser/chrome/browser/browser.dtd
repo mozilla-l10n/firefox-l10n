@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Kode Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "S">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Informasi Laman">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Masuk ke Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kelola Perangkat…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tampilkan Bilah Samping Tab yang Disinkronkan ">
+
+<!ENTITY appMenuRecentHighlights.label "Sorotan Terkini">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambahkan ke Bilah Alat">
 <!ENTITY customizeMenu.addToToolbar.accesskey "T">
@@ -830,11 +839,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "u">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Seret item favorit Anda ke bilah alat atau menu overflow.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ingin mendapatkan alat lainnya?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih dari ribuan pengaya">
 <!ENTITY customizeMode.restoreDefaults "Pulihkan Bawaan">
 <!ENTITY customizeMode.done "Selesai">
 <!ENTITY customizeMode.titlebar "Bilah Judul">
+<!ENTITY customizeMode.extraDragSpace "Seret Ruang">
 <!ENTITY customizeMode.toolbars2 "Bilah Alat">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Temaku">
@@ -890,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Aktifkan perlindungan">
 <!ENTITY trackingProtection.block2.accesskey "A">
-
-<!ENTITY trackingContentBlocked.message "Pelacakan">
-<!ENTITY trackingContentBlocked.moreinfo "Sebagian isi laman yang melacak aktivitas daring Anda telah diblokir.">
-<!ENTITY trackingContentBlocked.learnMore "Pelajari Lebih Lanjut">
-<!ENTITY trackingContentBlocked.options "Opsi">
-<!ENTITY trackingContentBlocked.unblock2.label "Nonaktifkan perlindungan untuk situs web ini">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
-<!ENTITY trackingContentBlocked.block.label "Aktifkan perlindungan">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "Perlindungan pelacakan dinonaktifkan">
 
 <!ENTITY pluginNotification.showAll.label "Tampilkan Semua">
 <!ENTITY pluginNotification.showAll.accesskey "a">
