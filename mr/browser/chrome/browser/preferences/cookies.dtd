@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "खालील कुकिज आपल्या संगणकावर साठवले आहेत:">
+<!ENTITY     cookiesonsystem2.label         "खालील कुकीज आपल्या संगणकावर साठवले आहेत">
 <!ENTITY     cookiename.label               "कूकिज नाव">
 <!ENTITY     cookiedomain.label             "संकेतस्थळ">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "कूकिज">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "शोधा">
 <!ENTITY     searchFilter.accesskey         "S">
