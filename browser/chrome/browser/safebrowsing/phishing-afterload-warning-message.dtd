@@ -40,6 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> लाई <a id='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> ।">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "हानिकारक र अवाञ्छित सफ्टवेयरबारे थप जानकारी <a id='learn_more_link'>अवाञ्छित सफ्टवेयर नीति </a> बाट जान्नुहोस् । &brandShortName;को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a id='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "अगाडी भ्रामक साइट छ">
@@ -50,6 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> लाई <a id='error_desc_link'>भ्रामक साइट भएको रिपोर्ट गरिएको छ </a>। तपाईँले <a id='report_detection'> पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> ।">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "भ्रामक साइटहरू र फिसिङ्गको बारेमा थप जानकारी <a id='learn_more_link'>www.antiphishing.org</a> बाट जान्नु होस् । &brandShortName;को फिसिङ्ग र मालवेयर सुरक्षा सम्बन्धि थप जानकारी <a id='firefox_support'>support.mozilla.org</a> बाट जान्नुहोस् ।">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "अगाडीको साइट मा मालवेयर हुन सक्छ">
