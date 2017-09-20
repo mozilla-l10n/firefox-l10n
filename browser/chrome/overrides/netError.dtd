@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Hišće raz spytać">
 <!ENTITY returnToPreviousPage.label "Wróćo hić">
 <!ENTITY advanced.label "Rozšěrjene">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Zwisk móžny njeje">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,13 @@
 <!ENTITY deniedPortAccess.title "Tuta adresa je wobmjezowana">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serwer njebu namakany">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Přepruwujće adresu za pisanskimi zmylkami kaž <strong>ww</strong>.example.com město <strong>www</strong>.example</li> <li>Jeli njemóžeće někotre strony čitać, skontrolujće syćowy zwisk swojeho ličaka.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Serwer njebu namakany">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hm. Mamy problemy, te sydło namakać.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Jeli ta adresa je korektna, móžeće:</strong><ul>
+  <li>Pozdźišo hišće raz spytać.</li>
+  <li>Syćowy zwisk přepruwować.</li>
+  <li>Jeli sće zwjazany, sće wšak za wohnjowej muri, přepruwujće, hač &brandShortName; ma prawo na přistup na web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Dataja njebu namakana">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.</li> <li>Přepruwujće, hač je so dataja přesunyła, přemjenowała abo wotstroniła.</li> </ul>">
@@ -35,8 +40,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Přizjewjensku stronu syće wočinić">
 
-<!ENTITY malformedURI.title "Adresa płaćiwa njeje">
-<!ENTITY malformedURI.longDesc "<ul> <li>Webadresy so z wašnjom kaž <strong>http://www.example.com/</strong> pisaja.</li> <li>Zawěsćće, zo wužiwaće doprědka nachilene nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Njepłaćiwy URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hm. Zda so, zo tuta adresa korektna njeje.">
 
 <!ENTITY netInterrupt.title "Zwisk bu přetorhnjeny">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +110,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšěrjena info: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; njeje z <span id='wrongSystemTime_URL'/> zwjazał, dokelž zda so, zo časnik wašeho ličaka wopačny čas pokazuje a to zadźěwa wěstemu zwiskej.</p> <p>Waš ličak je so na <span id='wrongSystemTime_systemDate'/> stajił, hdyž podaće měło <span id='wrongSystemTime_actualDate'/> być. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; njeje z <span id='wrongSystemTimeWithoutReference_URL'/> zwjazał, dokelž zda so, zo časnik wašeho ličaka wopačny čas pokazuje a to zadźěwa wěstemu zwiskej.</p> <p>Waš ličak je so na <span id='wrongSystemTimeWithoutReference_systemDate'/> stajił. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
