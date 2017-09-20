@@ -28,8 +28,10 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/>가 <a id='error_desc_link'>악성 코드를 포함하고 있다고 보고</a>되었습니다. <a id='report_detection'>감지 문제를 보고</a>할 수 있습니다.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a>에서 바이러스와 다른 악성코드를 포함하고 있는 웹 콘텐츠에 대한 내용과 컴퓨터를 보호하는 방법에 대해 알아보세요. <a id='firefox_support'>support.mozilla.org</a>에서 &brandShortName;의 피싱과 악성코드 방지에 대해 알아보세요.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "방문하려는 사이트가 위험한 프로그램을 포함할 수 있음">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -37,6 +39,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "의심스러운 사이트">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
