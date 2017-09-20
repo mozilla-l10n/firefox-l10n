@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveren ikke funnet">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Kontroller om det er skrivefeil i adressen, for eksempel <strong>ww</strong>.eksempel.no istedenfor <strong>www</strong>.eksempel.no</li> <li>Hvis du ikke klarer å laste noen nettsider, kontroller at datamaskinens nettverksforbindelse er i orden.</li> <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, sjekk at &brandShortName; har tillatelse til å bruke Internett.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Serveren ikke funnet">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Vi har problemer med å finne nettstedet.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Hvis adressen er riktig, er det tre andre ting du kan prøve:</strong>
+<ul>
+  <li>Prøv igjen senere.</li>
+  <li>Sjekk nettverksforbindelsen din.</li>
+  <li>Hvis du er tilkoblet, men bak en brannmur, må du kontrollere at &brandShortName; har tillatelse til å bruke Internett.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fil ikke funnet">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnavnet etter forskjeller i store/små bokstaver eller andre skrivefeil.</li> <li>Sjekk om filen er flyttet, har endret navn eller er slettet.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Åpne innloggingsside for nettverk">
 
-<!ENTITY malformedURI.title "Adressen er ugyldig">
-<!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.eksempel.no/</strong></li> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Ugyldig nettadresse">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Den adressen ser ikke riktig ut.">
 
 <!ENTITY netInterrupt.title "Tilkoblingen ble avbrutt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
