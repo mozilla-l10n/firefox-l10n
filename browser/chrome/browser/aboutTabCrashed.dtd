@@ -24,7 +24,9 @@
 <!ENTITY tabCrashed.requestReport "Rapporter denne fanen">
 <!ENTITY tabCrashed.sendReport3 "Send en automatisert krasjrapport slik at vi kan løse problemer som dette.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valgfri kommentar (kommentarer vises offentlig)">
+<!ENTITY tabCrashed.includeURL3 "Inkluder nettadressene til nettstedene du var på når &brandShortName; krasjet.">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressen din her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når mer informasjon er tilgjengelig">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allerede sendt; takk for at du hjelper til gjøre &brandShortName; bedre!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapporter bakgrunnsfaner">
+<!ENTITY tabCrashed.autoSubmit3 "Oppdater innstillingene for automatisk å sende rapporter når &brandShortName; krasjer.">
