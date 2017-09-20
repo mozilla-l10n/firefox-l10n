@@ -3,15 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle "Ripristino della sessione">
-<!ENTITY restorepage.errorTitle "Oops, questo è imbarazzante">
-<!ENTITY restorepage.problemDesc "Si sono verificati dei problemi durante il ripristino delle schede e delle finestre di &brandShortName;. l’errore è spesso causato da una pagina web aperta di recente.">
-<!ENTITY restorepage.tryThis "È possibile:">
-<!ENTITY restorepage.restoreSome "Rimuovere una o più schede che potrebbero aver causato il problema.">
-<!ENTITY restorepage.startNew "Iniziare una sessione del browser completamente nuova.">
-<!ENTITY restorepage.tryagainButton "Ripristina">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton "Chiudi">
-<!ENTITY restorepage.close.access "C">
+<!ENTITY restorepage.errorTitle2 "Siamo spiacenti, c’è un problema con il ripristino delle pagine.">
+<!ENTITY restorepage.problemDesc2 "Si è verificato un problema durante il ripristino della sessione di navigazione. Selezionare “Ripristina sessione” per riprovare.">
+<!ENTITY restorepage.tryThis2 "Continua a non funzionare? In alcuni casi il problema è causato da una scheda. Visualizzare le schede precedenti, rimuovere la spunta alle schede che non si desiderano ripristinare, e riprovare.">
+<!ENTITY restorepage.tryagainButton2 "Ripristina sessione">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2 "Avvia nuova sessione">
+<!ENTITY restorepage.close.access2 "A">
 <!ENTITY restorepage.restoreHeader "Ripristina">
 <!ENTITY restorepage.listHeader "Finestre e schede">
 <!ENTITY restorepage.windowLabel "Finestra #&#037;S">
