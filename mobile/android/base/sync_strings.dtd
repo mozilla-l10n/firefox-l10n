@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started '开始使用'>
 <!ENTITY fxaccount_getting_started_old_firefox '使用旧版本的 &syncBrand.shortName.label;？'>
 
-<!ENTITY fxaccount_status_signed_in_as '已登录为'>
-<!ENTITY fxaccount_status_manage_account '管理账号'>
 <!ENTITY fxaccount_status_auth_server '账户服务器'>
 <!ENTITY fxaccount_status_sync_now '立即同步'>
 <!ENTITY fxaccount_status_syncing2 '正在同步…'>
 <!ENTITY fxaccount_status_device_name '设备名称'>
 <!ENTITY fxaccount_status_sync_server '同步服务器'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: 已启用'>
 <!ENTITY fxaccount_status_needs_verification2 '您的账户需要验证。点按此处重发验证邮件。'>
 <!ENTITY fxaccount_status_needs_credentials '无法连接。点按以登录。'>
 <!ENTITY fxaccount_status_needs_upgrade '您需要升级 &brandShortName; 才能登录。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已设置但尚未开始自动同步。请在 Android 设置 &gt; 数据使用 中切换“自动同步数据”。'>
 <!ENTITY fxaccount_status_needs_finish_migrating '点按以登录到您全新的 Firefox 账户。'>
+<!ENTITY fxaccount_status_choose_what '选择要同步的信息'>
 <!ENTITY fxaccount_status_bookmarks '书签'>
 <!ENTITY fxaccount_status_history '历史记录'>
 <!ENTITY fxaccount_status_passwords2 '登录信息'>
 <!ENTITY fxaccount_status_tabs '打开的标签页'>
+<!ENTITY fxaccount_status_additional_settings '额外设置'>
 <!ENTITY fxaccount_status_legal '法律' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 '服务条款'>
 <!ENTITY fxaccount_status_linkprivacy2 '隐私声明'>
-<!ENTITY fxaccount_status_more '更多&ellipsis;'>
 <!ENTITY fxaccount_remove_account '断开&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 '断开同步？'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; 选项'>
 <!ENTITY fxaccount_options_configure_title '配置 &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED '您需要升级 Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 '账户已存在。&formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST '无效的电子邮箱或密码'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD '无效的电子邮箱或密码'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT '账户未验证'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS '服务器现在很忙，请稍后再试'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '服务器现在很忙，请稍后再试'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '遇到问题'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '账户已锁定。&formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; 未连接'>
 <!-- Localization note: the format string below will be replaced
