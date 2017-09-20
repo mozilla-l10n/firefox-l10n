@@ -20,19 +20,24 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "यो वेबसाइट भ्रमण गर्नाले तपाईँको कम्प्युटरलाई हानि हुन सक्छ">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ले यस पृष्ठलाई अबरुद्द गर्यो किनभने यसले दुर्भावनापूर्ण सफ्टवेयर स्थापना गर्न प्रयास गर्दछ जुनले तपाईँको कम्प्युटरमा भएको व्यक्तिगत जानकारी चोर्न वा मेटाउन सक्दछ ।">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> लाई <a id='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a id='report_detection'>पहिचान गरिएको समस्या को रुपमा प्रतिवेदन बुझाउन सक्नुहुन्छ</a> वा <a id='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> यो असुरक्षित साइटमा जानसक्नुहुन्छ ।">
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> has been <a id='error_desc_link'>reported as containing malicious software</a>. You can <a id='report_detection'>report a detection problem</a>.">
 
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "अगाडी साइटमा हानिकारक कार्यक्रम हुन सक्छ">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; ले यस पृष्ठलाई अबरुद्द गर्यो किनभने यसले तपाईँको ब्राउजिङ्ग अनुभवलाई हानि गर्ने कार्यक्रमहरू स्थापना गर्न झुक्काउने प्रयास गर्न सक्दछ (उदाहरणको लागि, तपाईँको गृहपृष्ठ परिवर्तन गर्ने वा तपाईँले भ्रमण गर्नुहुने साइटहरूमा थप विज्ञापनहरू देखाउँने) ।">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> लाई <a id='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> । तपाईँले <a id='ignore_warning_link'>जोखिम लाई बेवास्ता गरेर</a> त्यो असुरक्षित साइटमा जानसक्नुहुन्छ ।">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> लाई <a id='error_desc_link'>दुर्भावनापूर्ण सफ्टवेयर भएको साइटको रुपमा रिपोर्ट गरिएको छ</a> ।">
 
 
 
