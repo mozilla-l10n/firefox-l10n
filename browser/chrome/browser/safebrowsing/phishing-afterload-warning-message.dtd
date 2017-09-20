@@ -40,6 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> er <a id='error_desc_link'>rapportert å inneholde skadelig programvare</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Les mer om skadelig og uønsket programvare på <a id='learn_more_link'>Uønsket programvarepolicy</a>. Les mer om &brandShortName; sin beskyttelse mot nettfisking og skadelig programvare på <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Villedende nettsted">
@@ -49,6 +50,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> er <a id='error_desc_link'>rapportert som et villedende nettsted</a>. Du kan <a id='report_detection'>rapportere et deteksjonsproblem</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Les mer om villedende nettsteder og nettfisking på <a id='learn_more_link'>www.antiphishing.org</a>. Les mer om &brandShortName; sin beskyttelse mot nettfisking og skadelig programvare på <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Nettstedet forut kan inneholde skadelig programvare">
@@ -59,3 +61,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> er <a id='error_desc_link'>rapportert å inneholde potensielt skadelig programvare</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Les mer om &brandShortName; sin beskyttelse mot nettfisking og skadelig programvare på <a id='firefox_support'>support.mozilla.org</a>.">
