@@ -50,12 +50,28 @@
 
 <!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Bar alatan Mel">
+<!ENTITY showComposeToolbarCmd.accesskey "e">
+<!ENTITY showFormatToolbarCmd.label "Bar alatan Format">
+<!ENTITY showFormatToolbarCmd.accesskey "F">
 
 <!-- Format menu items -->
+<!ENTITY formatMenu.label "Format">
+<!ENTITY formatMenu.accesskey "o">
 
 <!-- Options menu items -->
+<!ENTITY optionsMenu.label "Pilihan">
+<!ENTITY optionsMenu.accesskey "n">
 
+<!ENTITY quoteCmd.label "Mesej Petikan">
+<!ENTITY quoteCmd.accesskey "P">
+<!ENTITY selectAddressCmd.label "Pilih Alamat…">
+<!ENTITY selectAddressCmd.key "">
+<!ENTITY selectAddressCmd.accesskey "A">
 
+<!ENTITY priorityMenu.label "Prioriti">
+<!ENTITY priorityMenu.accesskey "i">
+<!ENTITY lowestPriorityCmd.label "Paling rendah">
+<!ENTITY lowestPriorityCmd.accesskey "r">
 
 
 
