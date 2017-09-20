@@ -17,7 +17,7 @@
 
 <!ENTITY spellAddToDictionary.label "Adicionar ao dicionário">
 <!ENTITY spellAddToDictionary.accesskey "d">
-<!ENTITY spellUndoAddToDictionary.label "Anular adicionar ao dicionário">
+<!ENTITY spellUndoAddToDictionary.label "Desfazer adicionar ao dicionário">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Verificar a ortografia">
 <!ENTITY spellCheckToggle.accesskey "V">
