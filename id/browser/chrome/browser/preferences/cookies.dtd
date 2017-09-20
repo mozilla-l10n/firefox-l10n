@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Kuki berikut ini tersimpan dalam komputer Anda:">
+<!ENTITY     cookiesonsystem2.label         "Kuki berikut ini disimpan di komputer Anda">
 <!ENTITY     cookiename.label               "Nama Kuki">
 <!ENTITY     cookiedomain.label             "Situs">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Kuki">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Cari">
 <!ENTITY     searchFilter.accesskey         "C">

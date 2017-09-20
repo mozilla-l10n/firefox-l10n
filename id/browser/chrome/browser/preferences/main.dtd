@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Kembalikan ke Bawaan">
 <!ENTITY restoreDefault.accesskey  "w">
 
+<!ENTITY disableExtension.label    "Nonaktifkan Ekstensi">
+
 <!ENTITY downloads.label     "Unduhan">
 
 <!ENTITY saveTo.label "Simpan berkas di">
