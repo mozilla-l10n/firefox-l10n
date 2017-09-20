@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "Bize yardım eder misiniz?">
 <!ENTITY tabCrashed.requestHelpMessage "Çökme raporları, sorunları anlamamızı ve &brandShortName; tarayıcısını iyileştirmemizi sağlar.">
 <!ENTITY tabCrashed.requestReport "Bu sekmeyi rapor edin">
+<!ENTITY tabCrashed.sendReport3 "Bu gibi sorunları düzeltebilmemiz için otomatik bir çökme raporu gönder.">
 <!ENTITY tabCrashed.commentPlaceholder2 "İsteğe bağlı yorumunuz (Yorumlar herkes tarafından görülebilir.)">
 <!ENTITY tabCrashed.emailPlaceholder "Buraya e-posta adresinizi yazın">
 <!ENTITY tabCrashed.emailMe "Daha fazla bilgi ortaya çıktığında bana e-posta gönder">
