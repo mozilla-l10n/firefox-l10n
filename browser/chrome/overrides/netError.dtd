@@ -18,18 +18,9 @@
 <!ENTITY deniedPortAccess.title "제한된 주소">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "서버를 찾을 수 없음">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>주소를 오타로
-    <strong>www</strong>.example.com 대신
-    <strong>ww</strong>.example.com과 같이 입력하지 않았는지 확인해 보시기 바랍니다.</li>
-  <li>어떤 페이지에도 접속을 할 수 없다면,
-    네트워크 상태를 확인해 보시기 바랍니다.</li>
-  <li>컴퓨터나 네트워크가 방화벽이나 프록시 서버에 의해 보호받고 있다면
-    &brandShortName;가 웹에 접속을 할 수 있도록 설정되어 있는지 확인해 주시기 바랍니다.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "음. 사이트를 찾는데 문제가 발생하였습니다.">
 
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "
@@ -58,15 +49,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "네트워크 로그인 페이지 열기">
 
-<!ENTITY malformedURI.title "주소가 유효하지 않음">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>웹 주소는 보통
-    <strong>http://www.example.com/</strong>과 같이 작성됩니다.</li>
-  <li>오른쪽 위에서 왼쪽 아래로 그어진 슬래쉬(<strong>/</strong>)를 사용했는지
-     확인해 보시기 바랍니다.</li>
-</ul>
-">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

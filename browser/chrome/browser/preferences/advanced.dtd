@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "이 빌드 설정에서는 데이타 보고가 비활성화 되어 있음">
 
-<!ENTITY enableHealthReport1.label       "&brandShortName;가 자동으로 기술과 상호작용 데이터를 Mozilla로 전송하도록 허용">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName;가 기술과 상호 작용 정보를 Mozilla에 전송하도록 허용">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "더 알아보기">
 
 <!ENTITY dataCollection.label            "&brandShortName; 데이터 수집과 사용">
