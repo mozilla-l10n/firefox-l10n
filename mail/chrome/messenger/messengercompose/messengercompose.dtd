@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Immen út in adresboek selektearje">
 <!ENTITY attachButton.tooltip "In bylage keppelje">
 <!ENTITY spellingButton.tooltip "Kontrolearje stavering fan seleksje of folsleine berjocht">
-<!ENTITY statusLanguageText.tooltip "Taal foar staveringshifker">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
 <!ENTITY cutButton.tooltip              "Knippe">
 <!ENTITY copyButton.tooltip             "Kopiearje">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Fan-adres oanpasse…">
 <!ENTITY customizeFromAddress.accesskey "F">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Taal staveringshifker">
+<!ENTITY encodingStatusPanel.tooltip "Tekenkodearring">
