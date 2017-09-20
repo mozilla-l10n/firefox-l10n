@@ -367,14 +367,70 @@
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "Buka Mesej Suapan">
 <!ENTITY openFeedMessage.accesskey "B">
+<!ENTITY openFeedWebPageInWindow.label "Halaman Web dalam Tetingkap Baru">
+<!ENTITY openFeedWebPageInWindow.accesskey "W">
+<!ENTITY openFeedSummaryInWindow.label "Ringkasan dalam Tetingkap Baru">
+<!ENTITY openFeedSummaryInWindow.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Togol Halaman Web dan Ringkasan dalam Anak tetingkap Mesej">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Tools Menu -->
+<!ENTITY searchMailCmd.label "Cari Mesej…">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "s">
+<!ENTITY searchAddressesCmd.label "Cari Alamat…">
+<!ENTITY searchAddressesCmd.accesskey "r">
+<!ENTITY filtersCmd.label "Tapis Mesej…">
+<!ENTITY filtersCmd.accesskey "T">
+<!ENTITY filtersApply.label "Laksanakan Penapis pada Folder">
+<!ENTITY filtersApply.accesskey "L">
+<!ENTITY filtersApplyToSelection.label "Laksanakan Penapis pada Mesej Dipilih">
+<!ENTITY filtersApplyToSelection.accesskey "k">
+<!ENTITY filtersApplyToMessage.label "Laksanakan Penapis pada Mesej">
+<!ENTITY filtersApplyToMessage.accesskey "k">
+<!ENTITY runJunkControls.label "Laksanakan Kawalan Mel Remeh dalam Folder">
+<!ENTITY runJunkControls.accesskey "s">
+<!ENTITY deleteJunk.label "Buang Mel yang Ditanda sebagai Mel remeh dalam Folder">
+<!ENTITY deleteJunk.accesskey "e">
+<!ENTITY importCmd.label "Import…">
+<!ENTITY importCmd.accesskey "I">
 
 <!-- Folder Pane -->
+<!ENTITY nameColumn.label "Nama">
+<!ENTITY unreadColumn.label "Belum Dibaca">
+<!ENTITY totalColumn.label "Jumlah">
 
 <!-- Toolbar items -->
+<!ENTITY getMsgButton.label "Dptkn Msj">
+<!ENTITY newMsgButton.label "Karang">
+<!ENTITY newHTMLMessageCmd.label "Karang dalam HTML">
+<!ENTITY newHTMLMessageCmd.accesskey "H">
+<!ENTITY newPlainTextMessageCmd.label "Karang dalam Teks Biasa">
+<!ENTITY newPlainTextMessageCmd.accesskey "B">
+<!ENTITY replyButton.label "Balas">
+<!ENTITY replyAllButton.label "Balas Semua">
+<!ENTITY forwardButton.label "Kirim semula">
+<!ENTITY fileButton.label "Fail">
+<!ENTITY nextButton.label "Berikut">
+<!ENTITY goBackButton.label "Undur">
+<!ENTITY goForwardButton.label "Seterusnya">
+<!ENTITY deleteButton.label "Buang">
+<!ENTITY undeleteButton.label "Batalkan membuang">
+<!ENTITY markButton.label "Tandakan">
+<!ENTITY stopButton.label "Berhenti">
+<!ENTITY junkButton.label "Mel Remeh">
+<!ENTITY notJunkButton.label "Bukan Mel Remeh">
+<!ENTITY searchButton.title "Carian Lanjutan">
 
 <!-- Tooltips -->
+<!ENTITY menuBar.tooltip "Bar Menu">
+<!ENTITY mailToolbar.tooltip "Bar alatan Mel">
+<!ENTITY searchToolbar.tooltip "Bar Carian">
+<!ENTITY advancedButton.tooltip "Carian mesej lanjutan">
+<!ENTITY getMsgButton.tooltip "Dapatkan mesej baru">
+<!ENTITY newMsgButton.tooltip "Cipta mesej baru">
+<!ENTITY replyButton.tooltip "Balas mesej">
+<!ENTITY replyAllButton.tooltip "Balas kepada pengirim dan semua penerima">
 
 <!-- Remote Content Button Popup -->
 
