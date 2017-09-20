@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Zavřít tento panel">
+<!ENTITY tabCrashed.title "Hlášení pádů panelů">
+
+<!ENTITY tabCrashed.closeTab2  "Zavřít panel">
 <!ENTITY tabCrashed.restoreTab "Obnovit tento panel">
 <!ENTITY tabCrashed.restoreAll "Obnovit všechny spadlé panely">
 
@@ -14,17 +16,17 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Jejda. Váš panel právě spadl.">
-<!ENTITY tabCrashed.offerHelp "Můžeme vám pomoci!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Zvolte &tabCrashed.restoreTab; pro načtení obsahu stránky.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Zvolte &tabCrashed.restoreTab; nebo &tabCrashed.restoreAll; pro načteni obsahu stránky.">
+<!ENTITY tabCrashed.offerHelp2 "Můžeme vám pomoci!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Zvolte &tabCrashed.restoreTab; pro opětovné načtení stránky.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Zvolte &tabCrashed.restoreTab; nebo &tabCrashed.restoreAll; pro opětovné načtení stránky nebo stránek.">
 <!ENTITY tabCrashed.requestHelp "Pomůžete nám?">
 <!ENTITY tabCrashed.requestHelpMessage "Hlášení o pádech nám pomáhají rozpoznat problémy a aplikaci &brandShortName; dále zlepšovat.">
 <!ENTITY tabCrashed.requestReport "Nahlásit tento panel">
-<!ENTITY tabCrashed.sendReport2 "Odeslat hlášení o pádu zobrazeného panelu">
+<!ENTITY tabCrashed.sendReport3 "Odesílat hlášení o pádech automaticky pro opravu podobných problémů.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Přidat komentář (komentáře jsou veřejně dostupné)">
-<!ENTITY tabCrashed.includeURL2 "Zahrnout do tohoto hlášení o pádu také URL adresu stránky">
+<!ENTITY tabCrashed.includeURL3 "Zahrnout URL adresy stránek, na kterých jste byli v okamžiku pádu aplikace &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Zde vložte svoji e-mailovou adresu">
 <!ENTITY tabCrashed.emailMe "Informovat mě e-mailem, až bude k dispozici více informací">
 <!ENTITY tabCrashed.reportSent "Hlášení o pádu bylo odesláno; děkujeme, že nám pomáháte &brandShortName; vylepšovat!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Nahlásit panely na pozadí">
-<!ENTITY tabCrashed.autoSubmit2 "Nastavit předvolby tak, aby byla hlášení o pádu odesílána automaticky na pozadí, včetně informací o spadlých panelech z této relace a budoucích relací">
+<!ENTITY tabCrashed.autoSubmit3 "Aktualizovat předvolby pro automatické odesílání pádů aplikace &brandShortName;.">

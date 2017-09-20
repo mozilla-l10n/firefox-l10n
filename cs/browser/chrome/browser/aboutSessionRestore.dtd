@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Ale toto je nepříjemné.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; má potíže s obnovením otevřených oken a panelů, což je většinou způsobeno některou z naposledy otevřených webových stránek.">
-<!ENTITY restorepage.tryThis        "Můžete zkusit:">
-<!ENTITY restorepage.restoreSome    "Odebrat jeden nebo více problémových panelů">
-<!ENTITY restorepage.startNew       "Začít s prohlížením v nové relaci">
+<!ENTITY restorepage.errorTitle2    "Je nám líto, máme nějaké potíže s obnovením vašich stránek.">
+<!ENTITY restorepage.problemDesc2   "Máme nějaké potíže s obnovením vaší předchozí relace prohlížení. Zvolte Obnovit relaci a zkuste to znovu.">
+<!ENTITY restorepage.tryThis2       "Pořád se nedaří relaci obnovit? Někdy za to může některý z panelů. Podívejte se na předchozí panely, zrušte označení těch, které nepotřebujete obnovit, a pak pokračujte v obnově.">
 
-<!ENTITY restorepage.tryagainButton "Obnovit">
-<!ENTITY restorepage.restore.access "b">
-<!ENTITY restorepage.closeButton    "Zavřít">
-<!ENTITY restorepage.close.access   "Z">
+<!ENTITY restorepage.tryagainButton2 "Obnovit relaci">
+<!ENTITY restorepage.restore.access2 "r">
+<!ENTITY restorepage.closeButton2    "Začít novou relaci">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Obnovit">
 <!ENTITY restorepage.listHeader     "Okna a panely">
