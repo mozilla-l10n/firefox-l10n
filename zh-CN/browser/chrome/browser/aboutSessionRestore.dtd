@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "哎呀，出了点意外。">
-<!ENTITY restorepage.problemDesc    "&brandShortName; 无法恢复您的窗口和标签页。这通常为最近打开的某个网页所致。">
-<!ENTITY restorepage.tryThis        "您可以试试：">
-<!ENTITY restorepage.restoreSome    "取消勾选您认为可能引发此问题的标签页">
-<!ENTITY restorepage.startNew       "关闭本页，开始一次全新的浏览旅程">
+<!ENTITY restorepage.errorTitle2    "很抱歉，我们在找回您的页面时遇到了问题。">
+<!ENTITY restorepage.problemDesc2   "我们在恢复您上次的浏览会话时遇到问题。选择“恢复会话”再试一次。">
+<!ENTITY restorepage.tryThis2       "仍然无法恢复您的会话？有时某个标签页会导致问题。查看以前的标签页，取消掉您不需要恢复的那些，然后再试一次。">
 
-<!ENTITY restorepage.tryagainButton "恢复">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "关闭">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "恢复会话">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "启动新会话">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "恢复">
 <!ENTITY restorepage.listHeader     "窗口和标签页">

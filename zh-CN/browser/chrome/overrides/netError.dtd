@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "此网址已被限制">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "找不到服务器">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>也许网址输错了？比如将<q><strong>www</strong>.example.com</q>输成<q><strong>ww</strong>.example.com</q></li><li>如果您无法载入任何网页，请检查您计算机的网络连接状态。</li><li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li></ul>">
+<!ENTITY dnsNotFound.pageTitle "找不到服务器">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "很遗憾，我们无法找到该网站。">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>如果确定此地址正确，您可以尝试：</strong>
+<ul>
+  <li>过会儿再重试。</li>
+  <li>检查您的网络连接是否正常。</li>
+  <li>如果您部署有网络防火墙，请检查 &brandShortName; 是否已被授权访问网络。</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "找不到文件">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -43,13 +52,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "打开网络登录页面">
 
-<!ENTITY malformedURI.title "网址不正确">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>网址通常长得像 
-    <strong>http://www.example.com/</strong></li> 
-  <li>请确认您使用的是正斜杠（即
-    <strong>/</strong>）。</li>
-</ul>">
+<!ENTITY malformedURI.pageTitle "无效网址">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "此地址看上去不太对。">
 
 <!ENTITY netInterrupt.title "连接被中断">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

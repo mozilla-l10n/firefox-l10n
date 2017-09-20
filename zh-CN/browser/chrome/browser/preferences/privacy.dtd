@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "阻止无障碍服务接入您的浏览器">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "详细了解">
+<!ENTITY enableSafeBrowsingLearnMore.label "详细了解">
