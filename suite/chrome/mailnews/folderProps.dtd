@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY folderProps.windowtitle.label           "Sifat">
+
+<!ENTITY generalInfo.label                       "Maklumat Umum">
+<!ENTITY folderCharsetFallback2.label            "Pengekodan Teks Unduran:">
+<!ENTITY folderCharsetFallback2.accesskey        "P">
+<!ENTITY folderCharsetEnforce2.label             "Guna pengekodan untuk semua mesej dalam folder (tetapan pengekodan teks mesej individu dan pengesanan auto akan diabaikan)">
+<!ENTITY folderCharsetEnforce2.accesskey         "G">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Bina semula Indeks Fail Ringkasan">
+<!ENTITY folderRebuildSummaryFile2.label         "Pembaikan Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "P">
+<!ENTITY folderRebuildSummaryFile.explanation    "Kadang-kala folder fail indeks (.msf) menjadi rosak, dan mesej mungkin nampak seperti sudah hilang atau mesej yang sudah dibuang akan terus dipaparkan; oleh itu tindakan membaiki folder dapat mengatasi isu ini.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Sertakan mesej yang ada dalam folder ini dalam hasil Carian Global">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
+
+<!ENTITY retention.label "Polisi Pengekalan">
+<!ENTITY retentionUseAccount.label "Guna tetapan akaun saya">
+<!ENTITY retentionUseAccount.accesskey "G">
+<!ENTITY daysOld.label "hari lepas">
+<!ENTITY message.label "mesej">
+<!ENTITY retentionCleanup.label "Simpan mesej:">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
