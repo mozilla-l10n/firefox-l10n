@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Debugger">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Brontoewijzingen inschakelen">
-<!ENTITY options.sourceMaps.tooltip    "Als u deze optie inschakelt, zullen bronnen in de Debugger en de Console worden toegewezen.">
+<!ENTITY options.sourceMaps.tooltip1   "Als u deze optie inschakelt, zullen bronnen in de hulpmiddelen worden toegewezen.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stijleditor">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Originele bronnen tonen">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Originele bronnen (bv. Sass-bestanden) in de Stijleditor en Inspector tonen">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
