@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Onze excuses voor het ongemak.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ondervindt problemen bij het herstellen van uw vensters en tabbladen. Dit wordt meestal veroorzaakt door een onlangs geopende pagina.">
-<!ENTITY restorepage.tryThis        "U kunt proberen:">
-<!ENTITY restorepage.restoreSome    "Een of meerdere tabbladen die volgens u het probleem veroorzaken te verwijderen">
-<!ENTITY restorepage.startNew       "Een geheel nieuwe sessie te starten">
+<!ENTITY restorepage.errorTitle2    "Sorry. We hebben problemen bij het terugzetten van uw pagina’s.">
+<!ENTITY restorepage.problemDesc2   "We hebben problemen bij het herstellen van uw laatste browsersessie. Selecteer Sessie herstellen om het opnieuw te proberen.">
+<!ENTITY restorepage.tryThis2       "Kunt u uw sessie nog steeds niet herstellen? Soms veroorzaakt een tabblad het probleem. Bekijk vorige tabbladen, verwijder het vinkje naast de tabbladen die u niet nodig hebt, en herstel daarna.">
 
-<!ENTITY restorepage.tryagainButton "Herstellen">
-<!ENTITY restorepage.restore.access "H">
-<!ENTITY restorepage.closeButton    "Sluiten">
-<!ENTITY restorepage.close.access   "S">
+<!ENTITY restorepage.tryagainButton2 "Sessie herstellen">
+<!ENTITY restorepage.restore.access2 "h">
+<!ENTITY restorepage.closeButton2    "Nieuwe sessie starten">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Herstellen">
 <!ENTITY restorepage.listHeader     "Vensters en tabbladen">
