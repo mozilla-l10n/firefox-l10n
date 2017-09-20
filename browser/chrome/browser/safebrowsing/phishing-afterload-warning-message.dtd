@@ -28,6 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> 被<a id='error_desc_link'>举报含有恶意软件</a>。您可以<a id='report_detection'>反映侦测有误</a>。">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "到 <a id='learn_more_link'>StopBadware.org</a> 可以详细了解有害的网页内容（包括病毒和其他恶意软件），网站上还介绍了保护您的电脑的小知识。到 <a id='firefox_support'>support.mozilla.org</a> 可以详细了解 &brandShortName; 防范钓鱼和恶意软件的机制。">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "网站可能含有有害程序">
