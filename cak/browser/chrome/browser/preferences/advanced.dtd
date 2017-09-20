@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Chupül ri kitzijol taq tzij richin nib'an kinuk'ulem re taq alk'walaxinem re'">
 
-<!ENTITY enableHealthReport1.label       "Tiya' q'ij chi re &brandShortName; richin nitaq pa ruyonil etamatel taq tzij chuqa' jutzijonem rik'in Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Tiya' q'ij chi re &brandShortName; richin nitaq etamatel taq tzij chuqa' jutzijonem chi re ri Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
 <!ENTITY dataCollection.label            "&brandShortName; Kimolik chuqa' Kokisaxik taq Tzij">
