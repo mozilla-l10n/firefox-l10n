@@ -4,10 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "Dalal-jàmm">
 <!ENTITY firstrun_urlbar_message2 "Jërëjëf si taneef bi">
+<!ENTITY firstrun_urlbar_subtext2 "Ab joowukaayu web bu wootekaay bu jamonowe bu Mozilla, mbootaay giy def te du fayeeku giy liggéey ngir web bu féex te ubbeeku.">
 <!ENTITY firstrun_panel_title_privacy "Sutura">
 <!ENTITY firstrun_privacy_message "Joowal meelni keen jisoulë">
+<!ENTITY firstrun_privacy_subtext "Njoow gu suturloo ak kaaraange lank-toppaate gi mooy téye toppaatekat yi ci booy joow te it du fàttliku sa jaar-jaar soo noppee njoow gi.">
 <!ENTITY firstrun_panel_title_customize "Solal">
 <!ENTITY firstrun_customize_message "Def &brandShortName; sa boss.">
+<!ENTITY firstrun_customize_subtext "Soppil &brandShortName; ak lawal yi. Téyal siiwalukaay yi, yokk ay solo walla geneen wëppa gu dëppoo ak sa jëmm.">
 <!ENTITY firstrun_bookmarks_title "Jaar-jaar">
 <!ENTITY firstrun_bookmarks_message "Say tànneef, kanam ak digg">
 <!ENTITY firstrun_bookmarks_subtext "Jëlee ay njuréef ca say tànneef ak say jaar-jaar sooy seet lenn.">
@@ -16,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Nëbbal nataal yi ngir wàññi njoxéef yi ngay jëfandikoo ci dal booy nemmeeku.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Tambali fi nga yemone.">
+<!ENTITY firstrun_sync_subtext2 "Jëfandikool Sync ngir gis say màndarga-xët, baatu-jàll ak yeneen mbir yi nga dencoon ci &brandShortName; ci sa jumtukaay yépp.">
 <!ENTITY firstrun_signin_message "Lonkul, tambalil">
 <!ENTITY firstrun_signin_button "Lonku ci Sync">
 <!ENTITY  onboard_start_button_browser "Tàmbalil joow">
@@ -386,6 +390,8 @@
 <!ENTITY pref_dialog_set_default "Niki lum wàccaale">
 <!ENTITY pref_dialog_default "Wàccaale">
 <!ENTITY pref_dialog_remove "Far">
+<!ENTITY pref_dialog_activitystream_header_content "Yeneen ëmbéef">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Màndarga-xët yi mujj">
 <!ENTITY pref_dialog_activitystream_visited "Ubbi yu Yees yi">
 
 <!ENTITY pref_search_last_toast "Manoo far walla doxadil sa seetukaay bu mujj.">
@@ -822,6 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Dal yees gën a ubbi">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; moo la ko digal">
 <!ENTITY activity_stream_highlights "Gën-gi-fés">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
@@ -836,6 +843,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Yi xew">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Sooy joow, ndànk-ndànk fii dees la fi won yenn ci jukki yu mag, wideo ak yeneen xët yi nga mujjee ubbi walla yokk ci say màndarga-xët.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -848,3 +856,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "Du nu fàttaliku genn jaar-jaar, waaye say yebbéef ak màndarga-xët dañuy wéy di des ci sa jumtukaay.">
 <!ENTITY private_tab_learn_more "Bëgg a leerlu?">
 
+<!ENTITY fullscreen_warning "Mu fees xoolu bi">
