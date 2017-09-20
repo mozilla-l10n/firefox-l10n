@@ -18,7 +18,7 @@
 <!ENTITY checkUserSpelling.accesskey "C">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
 <!ENTITY healthReportingDisabled.label "L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build">
-<!ENTITY enableHealthReport1.label "Consenti a &brandShortName; di inviare automaticamente a Mozilla dati tecnici e relativi all’interazione con il browser">
+<!ENTITY enableHealthReport2.label "Consenti a &brandShortName; di inviare a Mozilla dati tecnici e relativi all’interazione con il browser">
 <!ENTITY enableHealthReport1.accesskey "v">
 <!ENTITY healthReportLearnMore.label "Ulteriori informazioni">
 <!ENTITY dataCollection.label "Raccolta e utilizzo dati di &brandShortName;">
