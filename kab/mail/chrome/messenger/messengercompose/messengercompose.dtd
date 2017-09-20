@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Aru: (ulac amgay)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Afaylu">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Amaynut">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Siggez…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "S">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Ẓreg">
 <!ENTITY editMenu.accesskey "Ẓ">
 <!ENTITY undoCmd.label "Sefsax">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Sken">
 <!ENTITY viewMenu.accesskey "e">
 <!ENTITY viewToolbarsMenuNew.label "Afeggag n ifecka">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Agalis adisan n inermisen">
 <!ENTITY addressSidebar.accesskey "g">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Amasal">
 <!ENTITY formatMenu.accesskey "a">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Iɣewwaṛen">
 <!ENTITY optionsMenu.accesskey "w">
 <!ENTITY checkSpellingCmd2.label "Senqed taɣdira…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "q">
 <!ENTITY quoteCmd.label "Bder-d izen">
 <!ENTITY quoteCmd.accesskey "B">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Seddu takarda tudmawant (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Azen anɣel i">
 <!ENTITY fileCarbonCopyCmd.accesskey "z">
 <!ENTITY fileHereMenu.label "Afaylu dagi">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ifecka">
 <!ENTITY tasksMenu.accesskey "f">
 <!ENTITY messengerCmd.label "Tirawt &amp; igrawen n isalen">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "w">
 <!ENTITY preferencesCmdUnix.label "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey "s">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Semẓi">
 <!ENTITY bringAllToFront.label "Awid kullec ɣer zdat">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Asfaylu">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Azen">
 <!ENTITY quoteButton.label "Amur">
 <!ENTITY addressButton.label "Inermisen">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Taɣdira">
 <!ENTITY saveButton.label "Kles">
 <!ENTITY printButton.label "Siggez">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Azen Izen-agi tura">
 <!ENTITY sendlaterButton.tooltip "Azen izen-agi ticki">
 <!ENTITY quoteButton.tooltip "Bder-d izen yezrin">
 <!ENTITY addressButton.tooltip "Fren aɣerwaḍ seg imedlis n tensa">
 <!ENTITY attachButton.tooltip "Seddu amedday">
 <!ENTITY spellingButton.tooltip "Seɣti taɣdira n ufran neɣ izen imeṛṛa">
-<!ENTITY statusLanguageText.tooltip "Tutlayt n useɣti n teɣdira">
 <!ENTITY saveButton.tooltip "Sekles izen-agi">
 <!ENTITY cutButton.tooltip              "Gzem">
 <!ENTITY copyButton.tooltip             "Nɣel">
 <!ENTITY pasteButton.tooltip            "Senteḍ">
 <!ENTITY printButton.tooltip "Siggez izen-agi">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Si:">
 <!ENTITY fromAddr.accesskey "S">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "m">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Ger udem n ucmumeḥ">
 <!ENTITY smiley1Cmd.label "Acmumeḥ">
 <!ENTITY smiley2Cmd.label "Yekres anyir">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Ilemri">
 <!ENTITY smiley15Cmd.label "Yettru">
 <!ENTITY smiley16Cmd.label "Ḥmimuc">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ulac isumar yettwafen">
 <!ENTITY spellCheckIgnoreWord.label "Zgel awal">
 <!ENTITY spellCheckIgnoreWord.accesskey "Z">
@@ -298,14 +297,17 @@
 <!ENTITY convertRegularAttachment.accesskey "d">
 <!ENTITY attachPage.label "Seddu asebter Web…">
 <!ENTITY attachPage.accesskey "W">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Rnu imawalen...">
 <!ENTITY spellAddDictionaries.accesskey "n">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Inermisen">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Sugen tansa n umazan…">
 <!ENTITY customizeFromAddress.accesskey "g">
+
+<!-- Status Bar -->
+<!ENTITY encodingStatusPanel.tooltip "Asettengel n uḍris">
