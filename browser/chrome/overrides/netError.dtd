@@ -44,6 +44,7 @@
 <p>È necessario accedere alla rete per navigare in Internet.</p>
 ">
 <!ENTITY openPortalLoginPage.label2 "Apri la pagina di accesso alla rete">
+<!ENTITY malformedURI.pageTitle "Indirizzo non valido">
 <!ENTITY malformedURI.title1 "Uhm… l’indirizzo non sembra corretto.">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
