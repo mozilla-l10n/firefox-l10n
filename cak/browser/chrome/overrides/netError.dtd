@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
 <!ENTITY advanced.label "Q'axinäq">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Man tikirel ta nok">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Re ochochib'äl re' q'aton rusamaj">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Man xilitäj ta ri ruk'u'x samaj">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Tanik'oj chi ri ochochib'äl xatz'ib'aj man tuk'waj taq sachoj achi'el <strong>ww</strong>.example.com pa ruk'exel <strong>www</strong>.example.com</li> <li>We majun ruxaq yatikïr natz'ët, tanik'oj ri awokem pa ri k'amab'ey.</li> <li>We ri akematz'ib' o k'amab'ey chajin ruma jun firewall o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re chi nok pa ri ajk'amaya'l.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Man Xilitäj ta ri Ruk'u'x Samaj">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Tajin nik'oje' k'ayewal richin niqïl ri ruxaq k'amaya'l ri'.">
 
 <!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Tanik'oj chi majun sachoj pa rub'i' ri yakb'äl achi'el rutz'ib'axik, achi'el chuqa' rokisaxik nimatz'ib'.</li> <li>Tanik'oj we ri yakb'äl xsilöx el, xk'ex rub'i' o xyuj el</li> </ul>">
@@ -35,8 +36,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Tijaq tikirib'äl ruxaq rumolojri'ïl k'amab'ey">
 
-<!ENTITY malformedURI.title "Man nuxïm ta ri' ri ochochib'äl">
-<!ENTITY malformedURI.longDesc "<ul><li>Ri rochochib'al taq ruxaq k'amaya'l junelïk yetz'ib'äx achi'el <strong>http://www.example.com/</strong></li> <li>Tanik'oj chi tajin ye'awokisaj ri e ütz raq'arïk taq juch' (i.e. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Xq'at ri okem">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; man xok ta pa <span id='wrongSystemTime_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üp pe ju sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTime_systemDate'/>, toq k'o chi <span id='wrongSystemTime_actualDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; man xok ta pa <span id='wrongSystemTimeWithoutReference_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üt pe jun sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTimeWithoutReference_systemDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ri ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 
