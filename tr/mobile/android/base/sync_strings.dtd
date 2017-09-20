@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Başlayın'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;’in eski bir sürümünü mü kullanıyorsunuz?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Oturum açan'>
-<!ENTITY fxaccount_status_manage_account 'Hesabı yönet'>
 <!ENTITY fxaccount_status_auth_server 'Hesap sunucusu'>
 <!ENTITY fxaccount_status_sync_now 'Şimdi eşitle'>
 <!ENTITY fxaccount_status_syncing2 'Eşitleniyor…'>
 <!ENTITY fxaccount_status_device_name 'Cihaz adı'>
 <!ENTITY fxaccount_status_sync_server 'Sync sunucusu'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: etkinleştirildi'>
 <!ENTITY fxaccount_status_needs_verification2 'Hesabınızın doğrulanması gerekiyor. Doğrulama e-postasını tekrar göndermek için dokunun.'>
 <!ENTITY fxaccount_status_needs_credentials 'Bağlanılamadı. Oturum açmak için dokunun.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Oturum açmak için &brandShortName; tarayıcınızı yükseltmelisiniz.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Veri Kullanımı menüsünden “Verileri otomatik eşitle”yi açın.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; kuruldu ama otomatik olarak eşitleme yapmıyor. Android Ayarları &gt; Hesaplar menüsünden “Verileri otomatik eşitle”yi açın.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Yeni Firefox Hesabınıza giriş yapmak için dokunun.'>
+<!ENTITY fxaccount_status_choose_what 'Nelerin eşitleneceğini seçin'>
 <!ENTITY fxaccount_status_bookmarks 'Yer imleri'>
 <!ENTITY fxaccount_status_history 'Geçmiş'>
 <!ENTITY fxaccount_status_passwords2 'Hesaplar'>
 <!ENTITY fxaccount_status_tabs 'Açık sekmeler'>
+<!ENTITY fxaccount_status_additional_settings 'Ek ayarlar'>
 <!ENTITY fxaccount_status_legal 'Yasal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Hizmet koşulları'>
 <!ENTITY fxaccount_status_linkprivacy2 'Gizlilik bildirimi'>
-<!ENTITY fxaccount_status_more 'Daha fazla&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Bağlantıyı kes&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Sync bağlantısı kesilsin mi?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Seçenekleri'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label;’i yapılandır'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Firefox’u yükseltmeniz gerekiyor'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Zaten hesabınız var. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Geçersiz e-posta veya parola'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Geçersiz e-posta veya parola'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Hesap doğrulanmamış'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Sunucu meşgul, daha sonra tekrar deneyin'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Sunucu meşgul, daha sonra tekrar deneyin'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Bir sorun oluştu'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Hesap kilitli. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; bağlı değil'>
 <!-- Localization note: the format string below will be replaced
