@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "جلوگیری از دسترسی به سرویس‌ها از طریق مرورگر شما">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "بیشتر بدانید">
+<!ENTITY enableSafeBrowsingLearnMore.label "بیشتر بدانید">

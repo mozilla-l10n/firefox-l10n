@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است">
 
-<!ENTITY enableHealthReport1.label       "اجازه داده به &brandShortName; برای ارسال خودکار اطلاعات فعالیت‌های فنی به موزیلا">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName; اجازه دهید تا اطلاعات موارد فنی وفعال و انفعالات رابرای موزیلا ارسال کند">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY dataCollection.label            "ذخیره اطلاعات و استفاده &brandShortName;">

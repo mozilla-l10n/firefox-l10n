@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "ترک این مکان!">
-<!ENTITY safeb.palm.decline.label "این هشدار نادیده گرفته شود">
+<!ENTITY safeb.palm.accept.label2 "برگشتن">
+<!ENTITY safeb.palm.seedetails.label "مشاهده جزئیات">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,36 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "گ">
-<!ENTITY safeb.palm.reportPage.label "چرا این صفحه مسدود شده بود؟">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "مشاوره فراهم شده توسط <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "مشاوره فراهم شده توسط <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "صفحهٔ تهاجمی شناخته شده!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "صفحهٔ به نشانی <span id='malware_sitename'/> به عنوان یک صفحهٔ تهاجمی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>صفحه‌های تهاجمی تلاش می‌کنند برنامه‌هایی نصب کنند که اطلاعات خصوصی را سرقت می‌کنند، از رایانهٔ شما برای حمله به دیگران استفاده می‌کنند، یا به آن آسیب می‌زنند.</p><p>برخی صفحه‌های تهاجمی عمداً به پخش نرم‌افزارهای زیان‌بار می‌پردازند، ولی بسیاری از آن‌ها بدون اطلاع و مجوز صاحبانشان تصاحب گردیده‌اند.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "صفحه نرم افزاری ناخواسته گزارش شده!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "این صفحه به نشانی <span id='unwanted_sitename'/> به عنوان یک صفحهٔ تهاجمی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>صفحه‌های نرم افزاری ناخواسته تلاش می‌کنند برنامه‌هایی نصب کنند که گمراه کننده هستند و میتوانند به روش های غیر منتظره به سیستم آسیب بزنند.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "بازدید از این سایت ممکن است به رایانه‌تان صدمه بزند">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "سایت گمراه‌کننده!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "این صفحه به نشانی <span id='phishing_sitename'/> به عنوان یک سایت گمراه‌کننده گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>سایت‌های گمراه‌کننده طراحی شده‌اند تا شما را برای انجام کارهای خطرناک، مانند نصب نرم‌افزار، یا فاش کردن اطلاعات شخصی مثل گذرواژه‌ها، شماره‌های تلفن و اطلاعات کارت‌های اعتباری فریب دهند.</p><p>وارد کردن هر گونه اطلاعات در این صفحه ممکن است باعث دزدی هویت یا سایر اعمال کلاه‌بردارانه شود.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "سایت پیش‌رو ممکن است شامل نرم‌افزارهای مخرب باشد">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "این سایت ممکن است شامل بدافزار باشد">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; این صفحه را به این دلیل مسدود کرده که ممکن است سعی کند برنامه‌های خطرناکی نصب کند تا اطلاعات شما را بدزدد یا حذف کند (برای مثال، عکس‌ها، گذرواژه‌ها، پیام‌ها و کارت‌های اعتباری).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
