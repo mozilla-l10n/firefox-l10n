@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "पूर्वनिर्धारित स्थितीत आणा">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "वाढीव कार्यक्रम निष्क्रिय करा">
+
 <!ENTITY downloads.label     "डाउनलोड्ज">
 
 <!ENTITY saveTo.label "फाइल्स येथे साठवा">

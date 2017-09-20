@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "साईटची माहिती काढून टाकत आहे">
 <!ENTITY     removingSelected.description  "साईटची माहिती काढून टाकल्यास संबंधित कुकीज आणि ऑफलाईन वेब मजकूर पण काढून टाकला जाईल. यामुळे तुम्ही वेब साईट्स मधून लॉग आऊट होऊ शकता. आपल्याला हे बदल करायचे आहेत का?">
-<!ENTITY     siteTree.label                "खालील वेबसाईट्सच्या कुकीज नष्ट होतील:">
+<!ENTITY     siteTree2.label               "खालील वेबसाईटच्या कुकीज नष्ट होतील">

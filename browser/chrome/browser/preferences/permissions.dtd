@@ -11,8 +11,8 @@
 <!ENTITY removepermission2.accesskey  "R">
 <!ENTITY removeallpermissions2.label  "सर्व साईट्स काढून टाका">
 <!ENTITY removeallpermissions2.accesskey "e">
-<!ENTITY address.label                "संकेतस्थळाचा पत्ता:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY address2.label               "संकेतस्थळाचा पत्ता">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "अडवा">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "सत्रकरिता सहमती द्या">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "बदल जतन करा">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "वेबसाईट शोधा">

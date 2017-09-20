@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "शोध पट्टी">
+
+<!ENTITY searchBar.shown.label                 "साधनपट्टीत शोध पट्टी जोडा">
+
 <!ENTITY defaultSearchEngine.label             "पूर्वनिर्धारित शोध इंजिन">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "पत्ता पट्टी आणि शोध पट्टी मध्ये वापरण्यासाठी पूर्वनिर्धारित शोध इंजिन निवडा">
