@@ -25,17 +25,213 @@
 <!ENTITY newTabCmd.label "Duplikasi Tab">
 <!ENTITY newTabCmd.accesskey "T">
 <!ENTITY newTabCmd.key "t">
+<!ENTITY closeTabCmd.label "Tutup Tab">
+<!ENTITY closeTabCmd.accesskey "p">
+<!ENTITY newAccountCmd.label "Akaun…">
+<!ENTITY newAccountCmd.accesskey "A">
+<!ENTITY openMessageFileCmd.label "Buka Fail…">
+<!ENTITY openMessageFileCmd.accesskey "B">
+<!ENTITY openAttachmentCmd.label "Lampiran">
+<!ENTITY openAttachmentCmd.accesskey "n">
+<!ENTITY saveAsMenu.label "Simpan Sebagai">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "Fail">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Templat">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY getNewMsgCmd.label "Dapatkan Mesej Baru">
+<!ENTITY getNewMsgCmd.accesskey "D">
+<!ENTITY getNewMsgCmd2.key "d">
+<!ENTITY getNewMsgForCmd.label "Dapatkan Mesej Baru untuk">
+<!ENTITY getNewMsgForCmd.accesskey "u">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Semua Akaun">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
+<!ENTITY getAllNewMsgCmd.label "Dapatkan Semua Mesej Baru">
+<!ENTITY getAllNewMsgCmd2.key "d">
+<!ENTITY getNextNMsgCmd.label "Dapatkan 500 Mesej Berita Seterusnya">
+<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Hantar Mesej yang Tidak Dihantar">
+<!ENTITY sendUnsentCmd.accesskey "h">
+<!ENTITY subscribeCmd.label "Langgan…">
+<!ENTITY subscribeCmd.accesskey "g">
+<!ENTITY renameFolder.label "Namakan semula Folder…">
+<!ENTITY renameFolder.accesskey "N">
+<!ENTITY compactFolders.label "Padatkan Folder">
+<!ENTITY compactFolders.accesskey		"F">
+<!ENTITY emptyTrashCmd.label "Buang Sampah">
+<!ENTITY emptyTrashCmd.accesskey		"h">
+<!ENTITY offlineMenu.label "Luar talian">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY synchronizeOfflineCmd.label "Muat turun/Sync Sekarang…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd.label "Tetapan Luar talian…">
+<!ENTITY settingsOfflineCmd.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Dapatkan Mesej yang Dipilih">
+<!ENTITY downloadSelectedCmd.accesskey "t">
+<!ENTITY downloadFlaggedCmd.label "Cari Mesej Ditanda">
+<!ENTITY downloadFlaggedCmd.accesskey "D">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Buang Mesej">
+<!ENTITY deleteMsgCmd.accesskey "B">
+<!ENTITY undeleteMsgCmd.label "Batal Membuang Mesej">
+<!ENTITY undeleteMsgCmd.accesskey "b">
+<!ENTITY cancelNewsMsgCmd.label "Batal Mesej">
+<!ENTITY cancelNewsMsgCmd.accesskey "j">
+<!ENTITY deleteMsgsCmd.label "Buang Mesej yang Dipilih">
+<!ENTITY deleteMsgsCmd.accesskey "B">
+<!ENTITY undeleteMsgsCmd.label "Batal Buang Mesej yang Dipilih">
+<!ENTITY undeleteMsgsCmd.accesskey "g">
+<!ENTITY deleteFolderCmd.label "Buang Folder">
+<!ENTITY deleteFolderCmd.accesskey "B">
+<!ENTITY unsubscribeNewsgroupCmd.label "Batal langganan">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
+<!ENTITY selectMenu.label "Pilih">
+<!ENTITY selectMenu.accesskey "P">
+<!ENTITY selectThreadCmd.label "Thread">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Mesej Ditanda">
+<!ENTITY selectFlaggedCmd.accesskey "D">
+<!ENTITY folderPropsCmd.label "Sifat…">
+<!ENTITY folderPropsFolderCmd.label "Sifat Folder…">
+<!ENTITY folderPropsNewsgroupCmd.label "Sifat Kumpulan berita…">
+<!ENTITY folderPropsCmd.accesskey "b">
+<!ENTITY accountManagerCmd.label "Tetapan Akaun Mel &amp; Kumpulan berita…">
+<!ENTITY accountManagerCmd.accesskey "M">
+<!ENTITY undoDeleteMsgCmd.label "Batal Membuang Mesej">
+<!ENTITY redoDeleteMsgCmd.label "Ulang Membuang Mesej">
+<!ENTITY undoMoveMsgCmd.label "Batal Memindahkan Mesej">
+<!ENTITY redoMoveMsgCmd.label "Uang Memindahkan Mesej">
+<!ENTITY undoCopyMsgCmd.label "Batal Menyalin Mesej">
+<!ENTITY redoCopyMsgCmd.label "Ulang Menyalin Mesej">
+<!ENTITY undoMarkAllCmd.label "Batal Semua Tanda Sudah Dibaca">
+<!ENTITY redoMarkAllCmd.label "Ulang Semua Tanda Sudah Dibaca">
+<!ENTITY undoDefaultCmd.label "Batal">
+<!ENTITY redoDefaultCmd.label "Ulang">
 
 <!-- View Menu -->
+<!ENTITY showMessengerToolbarCmd.label "Bar alatan Mel">
+<!ENTITY showMessengerToolbarCmd.accesskey "M">
+<!ENTITY showSearchToolbarCmd.label "Bar Carian">
+<!ENTITY showSearchToolbarCmd.accesskey "a">
+<!ENTITY showTabsToolbarCmd.label "Bar alatan Tab">
+<!ENTITY showTabsToolbarCmd.accesskey "T">
 
+<!ENTITY messagePaneLayoutStyle.label "Susun atur">
+<!ENTITY messagePaneLayoutStyle.accesskey "S">
+<!ENTITY messagePaneClassic.label "Paparan Klasik">
+<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneWide.label "Paparan Melebar">
+<!ENTITY messagePaneWide.accesskey "M">
+<!ENTITY messagePaneVertical.label "Paparan Menegak">
+<!ENTITY messagePaneVertical.accesskey "P">
+<!ENTITY showMessagePaneCmd.label "Anak tetingkap Mesej">
+<!ENTITY showMessagePaneCmd.accesskey "M">
+<!ENTITY showThreadPaneCmd.label "Anak tetingkap Thread">
+<!ENTITY showThreadPaneCmd.accesskey "T">
+<!ENTITY showFolderPaneCmd.label "Anak tetingkap Folder">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 
 <!-- sortMenu is also used by addressbook -->
+<!ENTITY sortMenu.label "Susun mengikut">
+<!ENTITY sortMenu.accesskey "t">
 
+<!ENTITY sortByDateCmd.label "Tarikh">
+<!ENTITY sortByDateCmd.accesskey "a">
+<!ENTITY sortByReceivedCmd.label "Diterima">
+<!ENTITY sortByReceivedCmd.accesskey "e">
+<!ENTITY sortByFlagCmd.label "Ditanda">
+<!ENTITY sortByFlagCmd.accesskey "d">
+<!ENTITY sortByPriorityCmd.label "Prioriti">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Saiz">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "Status">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "Tag">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "Status Mel remeh">
+<!ENTITY sortByJunkStatusCmd.accesskey "R">
+<!ENTITY sortBySubjectCmd.label "Subjek">
+<!ENTITY sortBySubjectCmd.accesskey "S">
+<!ENTITY sortByFromCmd.label "Daripada">
+<!ENTITY sortByFromCmd.accesskey "D">
+<!ENTITY sortByRecipientCmd.label "Penerima">
+<!ENTITY sortByRecipientCmd.accesskey "n">
+<!ENTITY sortByUnreadCmd.label "Dibaca">
+<!ENTITY sortByUnreadCmd.accesskey "D">
+<!ENTITY sortByOrderReceivedCmd.label "Susunan Diterima">
+<!ENTITY sortByOrderReceivedCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Lampiran">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
+<!ENTITY sortAscending.label "Menaik">
+<!ENTITY sortAscending.accesskey "M">
+<!ENTITY sortDescending.label "Menurun">
+<!ENTITY sortDescending.accesskey "n">
+<!ENTITY sortThreaded.label "Thread">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Bukan-thread">
+<!ENTITY sortUnthreaded.accesskey "k">
+<!ENTITY groupBySort.label "Dikumpulkan Mengikut Susunan">
+<!ENTITY groupBySort.accesskey "D">
+<!ENTITY msgsMenu.label "Mesej">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Thread">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Semua">
+<!ENTITY allMsgsCmd.accesskey "S">
+<!ENTITY expandAllThreadsCmd.label "Kembangkan Semua Thread">
+<!ENTITY expandAllThreadsCmd.accesskey "K">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Runtuh Semua Thread">
+<!ENTITY collapseAllThreadsCmd.accesskey "R">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Belum dibaca">
+<!ENTITY unreadMsgsCmd.accesskey "B">
+<!ENTITY threadsWithUnreadCmd.label "Thread Belum Dibaca">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Ikuti Thread Belum Dibaca">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "I">
+<!ENTITY ignoredThreadsCmd.label "Thread Diabaikan">
+<!ENTITY ignoredThreadsCmd.accesskey "i">
 
+<!ENTITY headersMenu.label "Pengepala">
+<!ENTITY headersMenu.accesskey "P">
+<!ENTITY headersAllCmd.label "Semua">
+<!ENTITY headersAllCmd.accesskey "S">
+<!ENTITY headersNormalCmd.label "Normal">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Kandungan Mesej Sebagai">
+<!ENTITY bodyMenu.accesskey "K">
+<!ENTITY bodyAllowHTML.label "HTML Asal">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "HTML Mudah">
+<!ENTITY bodySanitized.accesskey "M">
+<!ENTITY bodyAsPlaintext.label "Teks Biasa">
+<!ENTITY bodyAsPlaintext.accesskey "B">
+<!ENTITY bodyAllParts.label "Semua Bahagian Kandungan">
+<!ENTITY bodyAllParts.accesskey "S">
 
+<!ENTITY bodyMenuFeed.label "Kandungan Mesej Suapan Sebagai">
+<!ENTITY bodyMenuFeed.accesskey "K">
+<!ENTITY viewFeedWebPage.label "Halaman Web">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Ringkasan">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Format Piawai">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "P">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Papar Lampiran Sebaris">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "P">
+<!ENTITY reloadCmd.label "Muat semula">
+<!ENTITY reloadCmd.accesskey "M">
+<!ENTITY stopCmd.label "Berhenti">
+<!ENTITY stopCmd.accesskey "B">
+<!ENTITY pageSourceCmd.label "Sumber Mesej">
+<!ENTITY pageSourceCmd.accesskey "u">
+<!ENTITY pageSourceCmd.key "u">
 
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
