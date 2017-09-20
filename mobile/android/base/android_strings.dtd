@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
 <!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
+<!ENTITY firstrun_sync_subtext2 "सिंक का उपयोग करें बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए जिन्हें आपने &brandShortName; में सहेजा है.">
 <!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
@@ -389,6 +390,7 @@
 <!ENTITY pref_dialog_set_default "बतौर तयशुदा सेट करें">
 <!ENTITY pref_dialog_default "तयशुदा">
 <!ENTITY pref_dialog_remove "हटाएँ">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "आधुनिक पुस्तचिह्न">
 <!ENTITY pref_dialog_activitystream_visited "देखा गया">
 
 <!ENTITY pref_search_last_toast "आप अपने आख़िरी खोज इंजिन को हटा या निष्क्रिय नहीं कर सकते.">
@@ -494,10 +496,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "शीर्ष साइट्स पर पिन करें">
+<!ENTITY contextmenu_unpin_from_top_sites "शीर्ष साइट्स से अनपिन करें">
 <!ENTITY contextmenu_add_search_engine "खोज इंजन जोड़ें">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "शीर्ष साइटो पर पिन किया गया पृष्ठ">
+<!ENTITY unpinned_page_from_top_sites "शीर्ष साइट्स से अनपिन किया गया पृष्ठ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -818,6 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "सर्वोत्तम साइटें">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; द्वारा अनुशंसित">
 <!ENTITY activity_stream_highlights "प्रमुखताएँ">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
@@ -830,6 +837,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "देखा गया">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ब्राउज़िंग प्रारंभ करें, और हम कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आपने ने हाल ही में देखा है या पुस्तचिन्हित किया है.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -841,3 +849,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "हम कोई इतिहास नही याद रखेंगे, परन्तु डाउनलोड की हुई फाइल्स और नए पुस्तकचिन्ह आपके उपकरण पर सहेजे जाएँगे.">
 <!ENTITY private_tab_learn_more "अधिक जानना चाहते हैं?">
 
+<!ENTITY fullscreen_warning "पूर्ण स्क्रीन दर्ज">
