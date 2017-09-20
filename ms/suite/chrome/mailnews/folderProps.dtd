@@ -22,6 +22,8 @@
 <!ENTITY daysOld.label "hari lepas">
 <!ENTITY message.label "mesej">
 <!ENTITY retentionCleanup.label "Simpan mesej:">
+<!ENTITY retentionCleanupImap.label "Simpan mesej: kedua-dua salinan lokal dan yang asal dalam pelayan:">
+<!ENTITY retentionCleanupPop.label "Simpan mesej: termasuk salinan asal dalam pelayan:">
 
 
 
