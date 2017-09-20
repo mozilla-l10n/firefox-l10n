@@ -18,15 +18,8 @@
 <!ENTITY deniedPortAccess.title "此網址已被限制">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "找不到伺服器">
-<!ENTITY dnsNotFound.longDesc "<ul>
-   <li>請檢查網址是否有打錯？例如把
-   <strong>www</strong>.example.com 打成
-   <strong>ww</strong>.example.com</li>
-   <li>若無法載入任何網站，請檢查您的網路連線狀態。</li>
-   <li>若電腦或網路被防火牆或 Proxy 保護，請確定
-   &brandShortName; 被允許存取網路。</li> </ul>
-                    ">
+<!ENTITY dnsNotFound.pageTitle "找不到伺服器">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
@@ -49,14 +42,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "開啟網路登入頁面">
 
-<!ENTITY malformedURI.title "不正確的網址">
-<!ENTITY malformedURI.longDesc "<ul>
-   <li>網址通常長得像
-      <strong>http://www.example.com/</strong>。</li>
-   <li>請確定您用的是斜線 (例:
-      <strong>/</strong>)。</li>
-</ul>
-                ">
+<!ENTITY malformedURI.pageTitle "網址無效">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
