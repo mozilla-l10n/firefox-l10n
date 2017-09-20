@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "निष्क्रिय करें">
 <!ENTITY addonAction.uninstall                  "अनइंस्टाल">
 <!ENTITY addonAction.undo                       "पहले जैसा">
+<!ENTITY addonAction.update                     "अपडेट करें">
 
 <!ENTITY addonUnsigned.message                  "यह ऐड-ऑन &brandShortName; के द्वारा सत्यापित नही सका.">
 <!ENTITY addonUnsigned.learnMore                "अधिक जानें">
