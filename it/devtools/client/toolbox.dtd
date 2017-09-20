@@ -45,8 +45,6 @@
 <!ENTITY options.sourceMaps.label "Attiva mapping di origine">
 <!ENTITY options.sourceMaps.tooltip1 "Attivando questa opzione il mapping di origine verrà utilizzato per i riferimenti al codice sorgente negli strumenti.">
 <!ENTITY options.styleeditor.label "Editor stili">
-<!ENTITY options.stylesheetSourceMaps.label "Visualizza sorgenti originali">
-<!ENTITY options.stylesheetSourceMaps.tooltip "Visualizza sorgenti originali (ad es. file Sass) in Editor stili e Analisi pagina">
 <!ENTITY options.stylesheetAutocompletion.label "Completamento automatico CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Completa automaticamente durante la scrittura nell’Editor stili le proprietà CSS, i valori e i selettori">
 <!ENTITY options.screenshot.label "Opzioni per la cattura schermate">
