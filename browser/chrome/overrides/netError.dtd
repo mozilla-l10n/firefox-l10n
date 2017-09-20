@@ -18,18 +18,8 @@
 <!ENTITY deniedPortAccess.title "Ta naslov je onemogočen">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Strežnika ni mogoče najti">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Morda ste se zmotili pri črkovanju naslova (npr.
-    <strong>ww</strong>.example.org namesto
-    <strong>www</strong>.example.org).</li>
-  <li>Če se težava pojavlja na več straneh, imate morda napačno
-    nastavljeno povezavo.</li>
-  <li>Če uporabljate posrednika ali požarni zid, se prepričajte,
-    da ima &brandShortName; dostop do spleta.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.pageTitle "Strežnika ni mogoče najti">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
@@ -57,15 +47,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "Odpri stran za prijavo v omrežje">
 
-<!ENTITY malformedURI.title "Neveljaven naslov">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Spletni naslovi so običajno zapisani v naslednji obliki:
-    <strong>http://www.example.com/</strong></li>
-  <li>Prepričajte se, da uporabljate poševnico naprej (tj. 
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Neveljaven URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
