@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Nonii, see on nüüd küll piinlik.">
-<!ENTITY restorepage.problemDesc    "&brandShortName;il on probleeme sinu akende ja kaartide taastamisel. Selle põhjuseks on tavaliselt viimati avatud veebileht.">
-<!ENTITY restorepage.tryThis        "Sa võid proovida:">
-<!ENTITY restorepage.restoreSome    "eemaldada kaardi või kaardid, mida pead probleemi põhjuseks">
-<!ENTITY restorepage.startNew       "käivitada täiesti uue seansi">
+<!ENTITY restorepage.errorTitle2    "Vabandust! Meil esineb probleeme sinu kaartide taastamisel.">
+<!ENTITY restorepage.problemDesc2   "Meil esineb raskusi sinu viimase lehitsemise seansi taastamisel. Uuesti proovimiseks klõpsa Taasta seanss.">
+<!ENTITY restorepage.tryThis2       "Seansi taastamisega esineb jätkuvalt probleeme? Mõnikord on põhjuseks vaid üksainus kaart. Vaata taastatavaid kaarte ja eemalda linnuke neilt, mille taastamist sa ei vaja, seejärel proovi uuesti.">
 
-<!ENTITY restorepage.tryagainButton "Taasta eelmine seanss">
-<!ENTITY restorepage.restore.access "e">
-<!ENTITY restorepage.closeButton    "Sulge">
-<!ENTITY restorepage.close.access   "S">
+<!ENTITY restorepage.tryagainButton2 "Taasta seanss">
+<!ENTITY restorepage.restore.access2 "T">
+<!ENTITY restorepage.closeButton2    "Alusta uut seanssi">
+<!ENTITY restorepage.close.access2   "A">
 
 <!ENTITY restorepage.restoreHeader  "Taastatakse">
 <!ENTITY restorepage.listHeader     "Aknad ja kaardid">
