@@ -26,29 +26,26 @@
 <!ENTITY fxaccount_getting_started_description2 "Accedi per sincronizzare schede, segnalibri, accessi e altri elementi.">
 <!ENTITY fxaccount_getting_started_get_started "Inizia">
 <!ENTITY fxaccount_getting_started_old_firefox "Stai utilizzando una vecchia versione di &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_status_signed_in_as "Identificato come">
-<!ENTITY fxaccount_status_manage_account "Gestisci account">
 <!ENTITY fxaccount_status_auth_server "Server account">
 <!ENTITY fxaccount_status_sync_now "Sincronizza adesso">
 <!ENTITY fxaccount_status_syncing2 "Sincronizzazione…">
 <!ENTITY fxaccount_status_device_name "Nome dispositivo">
 <!ENTITY fxaccount_status_sync_server "Server Sync">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: attivo">
 <!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
 <!ENTITY fxaccount_status_needs_credentials "Impossibile connettersi. Tocca per accedere.">
 <!ENTITY fxaccount_status_needs_upgrade "È necessario aggiornare &brandShortName; per accedere.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Utilizzo dati”.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Account”.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tocca per accedere al nuovo account Firefox.">
+<!ENTITY fxaccount_status_choose_what 'Scegli che cosa sincronizzare'>
 <!ENTITY fxaccount_status_bookmarks "Segnalibri">
 <!ENTITY fxaccount_status_history "Cronologia">
 <!ENTITY fxaccount_status_passwords2 "Accessi">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
+<!ENTITY fxaccount_status_additional_settings 'Impostazioni aggiuntive'>
 <!ENTITY fxaccount_status_legal "Note legali">
 <!ENTITY fxaccount_status_linktos2 "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_status_linkprivacy2 "Informativa sulla privacy">
-<!ENTITY fxaccount_status_more "Altro&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnessione…">
 <!ENTITY fxaccount_remove_account_dialog_title2 "Disconnettersi da Sync?">
 <!ENTITY fxaccount_remove_account_dialog_message2 "I dati relativi alla navigazione rimarranno su questo dispositivo, ma non verranno più sincronizzati con il proprio account.">
