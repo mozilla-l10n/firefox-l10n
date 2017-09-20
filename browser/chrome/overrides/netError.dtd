@@ -18,8 +18,7 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Fann ikkje tenaren">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Sjå om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li> <li>Dersom du ikkje greier å laste inn nettsider, kontroller at nettverkssambandet til datamaskina er i orden.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller proxy, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
@@ -37,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Opne innloggingsside for nettverk">
 
-<!ENTITY malformedURI.title "Adressa er ugyldig">
-<!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.example.com/</strong></li> <li>Kontroller at du brukar framover-skråstrek (til dømes <strong>/</strong>).</li> </ul> ">
+<!ENTITY malformedURI.pageTitle "Ugyldig nettadresse">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Denne adressa ser ikkje rett ut.">
 
 <!ENTITY netInterrupt.title "Tilkoplinga vart broten">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
