@@ -20,10 +20,13 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "访问此网站可能损害您的计算机">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "由于此页面可能试图安装会窃取或删除您电脑上个人资料的恶意软件，&brandShortName; 已进行拦截。">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> 被<a id='error_desc_link'>举报含有恶意软件</a>。您可以<a id='report_detection'>反映侦测有误</a>或<a id='ignore_warning_link'>忽略此风险</a>并继续前往这个不安全的网站。">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> 被<a id='error_desc_link'>举报含有恶意软件</a>。您可以<a id='report_detection'>反映侦测有误</a>。">
 
 
 
