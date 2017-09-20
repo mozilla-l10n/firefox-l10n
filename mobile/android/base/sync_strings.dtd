@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Začni'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Uporabljate starejšo različico &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
-<!ENTITY fxaccount_status_manage_account 'Upravljanje računa'>
 <!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
 <!ENTITY fxaccount_status_sync_now 'Sinhroniziraj zdaj'>
 <!ENTITY fxaccount_status_syncing2 'Sinhroniziranje …'>
 <!ENTITY fxaccount_status_device_name 'Ime naprave'>
 <!ENTITY fxaccount_status_sync_server 'Strežnik za Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: omogočen'>
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun mora biti potrjen. Tapnite za ponovno pošiljanje potrditvene e-pošte.'>
 <!ENTITY fxaccount_status_needs_credentials 'Povezava ni mogoča. Tapnite za prijavo.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Za prijavo morate nadgraditi &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite samodejno sinhronizacijo podatkov v Androidovem meniju Nastavitve &gt; Poraba podatkov.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastavljen, vendar sinhronizacija ne poteka samodejno. Vključite “Samodejno sinhroniziraj podatke” v Androidovem menu Nastavitve &gt; Računi.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tapnite za prijavo v vaš nov Firefox Račun.'>
+<!ENTITY fxaccount_status_choose_what 'Izberite, kaj sinhronizirati'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
 <!ENTITY fxaccount_status_history 'Zgodovina'>
 <!ENTITY fxaccount_status_passwords2 'Prijave'>
 <!ENTITY fxaccount_status_tabs 'Odprti zavihki'>
+<!ENTITY fxaccount_status_additional_settings 'Dodatne nastavitve'>
 <!ENTITY fxaccount_status_legal 'Pravni pouk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Pogoji uporabe'>
 <!ENTITY fxaccount_status_linkprivacy2 'Obvestilo o zasebnosti'>
-<!ENTITY fxaccount_status_more 'Več &ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odklopi &ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Prekini povezavo s Syncem?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Možnosti &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Nastavi &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Nadgraditi morate Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Račun že obstaja. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neveljavna e-pošta ali geslo'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neveljavna e-pošta ali geslo'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Račun ni potrjen'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Strežnik je zaseden, ponovno poskusite pozneje'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Strežnik je zaseden, ponovno poskusite pozneje'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Prišlo je do napake'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Račun je zaklenjen. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ni povezan'>
 <!-- Localization note: the format string below will be replaced
