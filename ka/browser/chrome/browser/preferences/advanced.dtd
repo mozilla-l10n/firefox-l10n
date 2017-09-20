@@ -29,8 +29,6 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის">
 
-<!ENTITY enableHealthReport1.label       "&brandShortName;-ისთვის ნების დართვა, ტექნიკური მონაცემების ავტომატურად გასაგზავნად Mozilla-სთვის">
-<!ENTITY enableHealthReport1.accesskey   "ტ">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">
@@ -120,7 +118,7 @@ available. -->
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "ა">
-<!ENTITY offlineAppRemove.confirm        "გარე მონაცემთა ამოღება">
+<!ENTITY offlineAppRemove.confirm        "კავშირგარეშე მონაცემთა წაშლა">
 
 <!ENTITY certificateTab.label            "სერთიფიკატები">
 <!ENTITY certPersonal2.description       "როცა სერვერი თქვენს პირად სერთიფიკატს ითხოვს">
