@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Beginnen'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Gebruikt u een oudere versie van &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Aangemeld als'>
-<!ENTITY fxaccount_status_manage_account 'Account beheren'>
 <!ENTITY fxaccount_status_auth_server 'Accountserver'>
 <!ENTITY fxaccount_status_sync_now 'Nu synchroniseren'>
 <!ENTITY fxaccount_status_syncing2 'Synchroniseren…'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnaam'>
 <!ENTITY fxaccount_status_sync_server 'Sync-server'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ingeschakeld'>
 <!ENTITY fxaccount_status_needs_verification2 'Uw account moet worden geverifieerd. Tik om de verificatie-e-mail opnieuw te verzenden.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan niet verbinden. Tik om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'U dient &brandShortName; te upgraden om u aan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel ‘Automatisch synchroniseren’ om in Android-instellingen &gt; Gegevensgebruik.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ingesteld, maar synchroniseert niet automatisch. Schakel ‘Automatisch synchroniseren’ om in het menu van Android-instellingen &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om u aan te melden bij uw nieuwe Firefox-account.'>
+<!ENTITY fxaccount_status_choose_what 'Kies wat u wilt synchroniseren'>
 <!ENTITY fxaccount_status_bookmarks 'Bladwijzers'>
 <!ENTITY fxaccount_status_history 'Geschiedenis'>
 <!ENTITY fxaccount_status_passwords2 'Aanmeldingen'>
 <!ENTITY fxaccount_status_tabs 'Open tabbladen'>
+<!ENTITY fxaccount_status_additional_settings 'Extra instellingen'>
 <!ENTITY fxaccount_status_legal 'Juridisch' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Servicevoorwaarden'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privacyverklaring'>
-<!ENTITY fxaccount_status_more 'Meer&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Verbreken&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Verbinding met Sync verbreken?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-opties'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; configureren'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'U dient Firefox te upgraden'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account bestaat al. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ongeldig e-mailadres of wachtwoord'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ongeldig e-mailadres of wachtwoord'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is niet geverifieerd'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezet, probeer het later opnieuw'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezet, probeer het later opnieuw'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er was een probleem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is vergrendeld. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
 <!-- Localization note: the format string below will be replaced
