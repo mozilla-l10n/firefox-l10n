@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Mussar il code da funtauna da la pagina">
 <!ENTITY pageSourceCmd.accesskey "c">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Infurmaziuns davart la pagina">
 <!ENTITY pageInfoCmd.accesskey "s">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Agiuntar a la trav d'utensils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -891,16 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar la protecziun">
 <!ENTITY trackingProtection.block2.accesskey "A">
-
-<!ENTITY trackingContentBlocked.message "Fastizar">
-<!ENTITY trackingContentBlocked.moreinfo "Las parts da questa pagina che suondan tias activitads online èn vegnidas bloccadas.">
-<!ENTITY trackingContentBlocked.learnMore "Ulteriuras infurmaziuns">
-<!ENTITY trackingContentBlocked.options "Opziuns">
-<!ENTITY trackingContentBlocked.unblock2.label "Deactivar la protecziun per questa pagina">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activar la protecziun">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "La protecziun cunter il fastizar è deactivada">
 
 <!ENTITY pluginNotification.showAll.label "Mussar tuts">
 <!ENTITY pluginNotification.showAll.accesskey "S">
