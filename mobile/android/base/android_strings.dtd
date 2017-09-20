@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; निवडल्याबद्दल धन्यवाद">
+<!ENTITY firstrun_urlbar_subtext2 "Mozillaचे आधुनिक ब्राउझर ना नफा, मुक्त आणि खुल्या वेबसाठी समर्पित आहे.">
+<!ENTITY firstrun_panel_title_privacy "गोपनीयता">
+<!ENTITY firstrun_privacy_message "कोणीच पाहत नाही आहे असे ब्राउजिंग करा">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपले आवडते, अग्रभाग आणि मध्य">
 <!ENTITY firstrun_bookmarks_subtext "शोधताना आपल्या वाचनखूणा आणि इतिहासातुन शोध निष्कर्ष मिळवा.">
@@ -261,7 +265,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "पृष्ठ लोड करताना दूरस्थ फॉन्ट डाऊनलोड करा">
 
 <!ENTITY pref_tracking_protection_title2 "मागोवा सुरक्षा">
-<!ENTITY pref_tracking_protection_summary3 "खाजगी ब्राउझिंग मधे कार्यान्वित">
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
@@ -485,7 +488,13 @@
 <!ENTITY contextmenu_top_sites_edit "संपादन">
 <!ENTITY contextmenu_top_sites_pin "साइट पिन करा">
 <!ENTITY contextmenu_top_sites_unpin "साइट अनपिन करा">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -807,6 +816,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "खास साईट्स">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "महत्त्वाचे">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
