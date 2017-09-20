@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Напусти ову страницу!">
-<!ENTITY safeb.palm.decline.label "Занемари ово упозорење">
+<!ENTITY safeb.palm.accept.label2 "Иди назад">
+<!ENTITY safeb.palm.seedetails.label "Погледајте детаље">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,36 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "н">
-<!ENTITY safeb.palm.reportPage.label "Зашто је ова страница блокирана?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Саветодавно мишљење дато од <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "Саветодавно мишљење дато од <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "Пријављен је напад са странице!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Страница <span id='malware_sitename'/> је пријављена као злонамерна, па је блокирана на основу безбедносних подешавања.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Злонамерне странице обично инсталирају програме који краду приватне информације, користе ваш рачунар да нападну друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Пријављени нежељени сајт софтвера!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Страница <span id='unwanted_sitename'/> је пријављена да садржи нежељени софтвер и блокирана је на основу безбедносних подешавања.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Нежељене странице софтвера покушају да инсталирају софтвер који може да превари и да утиче на систем на неочекиване начине.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Посећивање овог веб сајта може нашкодити вашем рачунару">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; је блокирао ову страницу зато што може покушати да инсталира злонамерни софтвер који може украсти или обрисати ваше личне информације на вашем рачунару.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Обманљив сајт!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Страница <span id='phishing_sitename'/> је пријављена као обманљив сајт и блокирана је на основу безбедносних подешавања.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Обманљиви сајтови су направљени да вас преваре да урадите нешто опасно, као инсталирање софтвера, откривање ваших личних информација као што су лозинке, број телефона или број кредитне картице.</p><p>Унос информација на овој страници може довести до крађе идентитета или неке друге преваре.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Овај сајт можда садржи малициозни софтвер">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; је блокирао ову страницу зато што може покушати да инсталира опасне програме који би украли или обрисали ваше податке (на пример, слике, лозинке, поруке и кредитне картице).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
