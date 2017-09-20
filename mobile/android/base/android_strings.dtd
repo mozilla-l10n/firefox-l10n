@@ -7,7 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla द्वारा एक आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब के लिए प्रतिबद्ध.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
 <!ENTITY firstrun_privacy_message "ऐसे ब्राउज़ करें जैसे कोई नहीं देख रहा है">
+<!ENTITY firstrun_privacy_subtext "ट्रैकिंग सुरक्षा के साथ निजी ब्राउज़िंग ट्रैकरों को रोकता है जब आप ब्राउज करते हैं तथा जब आप ब्राउज़िंग समाप्त कर लेते हैं तब आपके इतिहास को यह याद नहीं रखता है.">
 <!ENTITY firstrun_panel_title_customize "मनपसंद बनाएँ">
+<!ENTITY firstrun_customize_message "बनायें &brandShortName; अपना खुद का.">
+<!ENTITY firstrun_customize_subtext "अनुकूल बनायें &brandShortName; एड-ऑन के साथ. विज्ञापनों को रोकें, सुविधाएँ जोड़ें, या एक नया थीम चुने अपने व्यक्तित्व को दर्शाने करने के लिए.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
 <!ENTITY firstrun_bookmarks_subtext "अपने पुस्तचिह्न एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
@@ -15,6 +18,7 @@
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
+<!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
 <!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
