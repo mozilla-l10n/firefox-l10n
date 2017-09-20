@@ -72,20 +72,63 @@
 <!ENTITY priorityMenu.accesskey "i">
 <!ENTITY lowestPriorityCmd.label "Paling rendah">
 <!ENTITY lowestPriorityCmd.accesskey "r">
+<!ENTITY lowPriorityCmd.label "Rendah">
+<!ENTITY lowPriorityCmd.accesskey "d">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY normalPriorityCmd.accesskey "m">
+<!ENTITY highPriorityCmd.label "Tinggi">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "Paling tinggi">
+<!ENTITY highestPriorityCmd.accesskey "P">
 
+<!ENTITY returnReceiptMenu.label "Resit Pemberitahu Serahan">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Notifikasi Status Penghantaran">
+<!ENTITY dsnMenu.accesskey "N">
 
+<!ENTITY outputFormatMenu.label "Format">
+<!ENTITY outputFormatMenu.accesskey  "t">
+<!ENTITY autoFormatCmd.label "Auto-Kesan">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Teks Biasa Sahaja">
+<!ENTITY plainTextFormatCmd.accesskey "s">
+<!ENTITY htmlFormatCmd.label "Teks Beraneka (HTML) Sahaja">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Teks Biasa dan Beraneka (HTML)">
+<!ENTITY bothFormatCmd.accesskey "d">
 
+<!ENTITY fileCarbonCopyCmd.label "Hantar satu Salinan Kepada">
+<!ENTITY fileCarbonCopyCmd.accesskey "r">
+<!ENTITY fileHereMenu.label "Failkan Di sini">
 
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+<!ENTITY sendButton.label "Hantar">
+<!ENTITY addressButton.label "Alamat">
+<!ENTITY attachButton.label "Lampir">
+<!ENTITY spellingButton.label "Ejaan">
+<!ENTITY saveButton.label "Simpan">
+<!ENTITY stopButton.label "Berhenti">
 
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
- 
- 
- 
- 
- 
- 
+<!ENTITY addressBar.tooltip "Bar Alamat">
+<!ENTITY formatToolbar.tooltip "Bar alatan Format">
+<!ENTITY sendButton.tooltip "Hantar mesej ini sekarang"> 
+<!ENTITY sendlaterButton.tooltip "Hantar mesej ini kemudian"> 
+<!ENTITY addressButton.tooltip "Pilih penerima dalam Buku Alamat"> 
+<!ENTITY attachButton.tooltip "Sertakan lampiran"> 
+<!ENTITY saveButton.tooltip "Simpan mesej ini"> 
+<!ENTITY stopButton.tooltip "Hentikan pemindahan semasa"> 
 
 <!-- context menu items -->
+<!ENTITY openAttachment.label "Buka">
+<!ENTITY openAttachment.accesskey "B">
+<!ENTITY renameAttachment.label "Namakan semula…">
+<!ENTITY renameAttachment.accesskey "N">
+<!ENTITY deleteAttachment.accesskey "B">
+<!ENTITY selectAllAttachments.accesskey "P">
+<!ENTITY attachFile.label "Lampirkan Fail…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachPage.label "Lampir Halaman Web…">
+<!ENTITY attachPage.accesskey "W">
