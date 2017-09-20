@@ -44,13 +44,7 @@
 <p>È necessario accedere alla rete per navigare in Internet.</p>
 ">
 <!ENTITY openPortalLoginPage.label2 "Apri la pagina di accesso alla rete">
-<!ENTITY malformedURI.title "L’indirizzo non è valido">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Gli indirizzi internet normalmente si scrivono nella forma <strong>http://www.example.com/</strong></li>
-  <li>Verificare di aver utilizzato le barre corrette <strong>/</strong>.</li>
-</ul>
-">
+<!ENTITY malformedURI.title1 "Uhm, l’indirizzo non sembra corretto.">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento scaduto">
