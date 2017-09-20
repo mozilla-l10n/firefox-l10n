@@ -20,18 +20,25 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Наведванне гэтага сайта можа нанесці шкоду вашаму камп'ютару">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; заблакаваў гэту старонку, таму што яна можа спрабаваць усталяваць шкодныя праграмы, якія могуць скрасці або сцерці персанальныя звесткі на вашым камп'ютары.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Пра <span id='malware_sitename'/> ёсць звесткі, што на ім <a id='error_desc_link'>утрымліваюцца шкодныя праграмы</a>. Вы можаце <a id='report_detection'>паведаміць аб памылцы ў гэтых звестках</a> ці <a id='ignore_warning_link'>ігнараваць рызыку</a> і перайсці на гэты небяспечны сайт.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Пра <span id='malware_sitename'/> ёсць звесткі, што на ім <a id='error_desc_link'>утрымліваюцца шкодныя праграмы</a>. Вы можаце <a id='report_detection'>паведаміць аб памылковасці гэтых звестак</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Даведайцеся больш аб непажаданым сеціўным змесціве, у тым ліку вірусах і іншых шкодных праграмах, і аб тым, як абараніць свой камп'ютар, на сайце <a id='learn_more_link'>StopBadware.org</a>. Падрабязней пра Абарону ад фішынгу і шкодных праграм у &brandShortName; на пляцоўцы <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Гэты сайт можа ўтрымліваць зламысныя праграмы">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; заблакаваў гэту старонку, таму што яна можа спрабаваць падманам схіліць вас да ўсталявання праграм, якія будуць перашкаджаць вашай працы ў браўзеры (напрыклад, мяняць хатнюю старонку, або паказваць дадатковую рэкламу на сайтах).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Пра <span id='unwanted_sitename'/> вядома, што на ім <a id='error_desc_link'>утрымліваюцца шкодныя праграмы</a>. Вы можаце <a id='ignore_warning_link'>ігнараваць рызыку</a> і перайсці на гэты небяспечны сайт.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Пра <span id='unwanted_sitename'/> вядома, што на ім <a id='error_desc_link'>утрымліваюцца шкодныя праграмы</a>.">
 
 
 
