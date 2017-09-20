@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "भाषांतरन खालील भाषांकरिता पुरवले जाणार नाही:">
+<!ENTITY noTranslationForLanguages2.label "खालील भाषांकरिता भाषांतर पुरवले जाणार नाही">
 <!ENTITY treehead.languageName.label      "भाषा">
 <!ENTITY removeLanguage.label             "भाषा काढून टाका">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "सर्व भाषा काढून टाका">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "खालील स्थळांकरिता भाषांतरन पुवले जाणार नाही:">
+<!ENTITY noTranslationForSites2.label     "खालील स्थळांकरिता भाषांतर पुवले जाणार नाही">
 <!ENTITY treehead.siteName2.label         "संकेतस्थळे">
 <!ENTITY removeSite.label                 "साईट काढून टाका">
 <!ENTITY removeSite.accesskey             "S">
