@@ -4,25 +4,14 @@
 
 <!ENTITY  fontsDialog.title                       "فانٹ">
 
-<!ENTITY  language.label                          "فانٹ برائے:">
-<!ENTITY  language.accesskey                      "ف">
 
-<!ENTITY  size.label                              "سائز:">
 <!ENTITY  sizeProportional.accesskey              "س">
 <!ENTITY  sizeMonospace.accesskey                 "م">
 
-<!ENTITY  proportional.label                      "متناسب:">
-<!ENTITY  proportional.accesskey                  "م">
 
-<!ENTITY  serif.label                             "سیرف:">
-<!ENTITY  serif.accesskey                         "س">
-<!ENTITY  sans-serif.label                        "سینس- سیرف:">
-<!ENTITY  sans-serif.accesskey                    "ن">
-<!ENTITY  monospace.label                         "مونو سپیس:">
-<!ENTITY  monospace.accesskey                     "م">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "لاطینی">
 <!ENTITY  font.langGroup.japanese                 "جاپانی">
 <!ENTITY  font.langGroup.trad-chinese             "روایتی چینی (تائیوان)">
@@ -53,11 +42,9 @@
 <!ENTITY  font.langGroup.sinhala                  "سنہالہ">
 <!ENTITY  font.langGroup.tibetan                  "تبتى">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "کم سے کم فانٹ سائز:">
-<!ENTITY minSize.accesskey                        "ف">
 <!ENTITY minSize.none                             "کوئی نہیں">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "سیرف">
 <!ENTITY  useDefaultFontSansSerif.label           "سینس سیرف">
 
@@ -65,8 +52,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "ص">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ورثہ مواد کے لیے متن کی ضابطہ بندی">
-<!ENTITY languages.customize.Fallback2.label      "فالبیک متنضابطہ بندی:">
-<!ENTITY languages.customize.Fallback2.accesskey  "م">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔">
 
 <!ENTITY languages.customize.Fallback.auto        "موجودہ محل وقوع کے لیے طےشدہ">
