@@ -21,5 +21,11 @@
 <!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Ukoliko je omogućeno, &brandShortName; će smatrati poruke označene od strane ovog vanjskog klasifikatora kao neželjene.">
+<!ENTITY ispHeaders.label "Vjeruj zaglavljima neželjene pošte postavljenim od: ">
+<!ENTITY ispHeaders.accesskey "V">
 
+<!ENTITY junkClassification.label "Odabir">
+<!ENTITY junkActions.label "Odredište i zadržavanje">
 
+<!ENTITY globalJunkPrefs.label "Globalne postavke neželjene pošte…">
+<!ENTITY globalJunkPrefs.accesskey "G">
