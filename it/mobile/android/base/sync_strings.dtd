@@ -58,15 +58,6 @@
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "Configura &syncBrand.shortName.label;">
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "È necessario aggiornare Firefox">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Account già esistente. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email o password non validi">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email o password non validi">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Account non verificato">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server occupato, riprovare più tardi">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server occupato, riprovare più tardi">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Si è verificato un problema">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "L’account è bloccato. &formatS1;">
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; non è connesso">
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Tocca per accedere come &formatS;">
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Completare l’aggiornamento a &syncBrand.shortName.label;?">
