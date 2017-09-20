@@ -18,16 +18,15 @@
 <!ENTITY deniedPortAccess.title "Omezení přístupu k adrese">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server nenalezen">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Server nenalezen">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm, tuto stránku se nám nedaří najít.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Pokud je tato adresa správná, můžete:</strong>
 <ul>
-  <li>Zkontrolujte, že je adresa napsána správně a neobsahuje chyby jako
-    <strong>ww</strong>.example.com místo
-    <strong>www</strong>.example.com</li>
-  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
-    počítače.</li>
-  <li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, zkontrolujte, že má
-    &brandShortName; povolený přístup k internetu.</li>
+  <li>To zkusit znovu později.</li>
+  <li>Zkontrolovat připojení k síti.</li>
+  <li>Pokud jste připojeni přes firewall, zkontrolujte, že má &brandShortName; povolený přístup na web.</li>
 </ul>
 ">
 
@@ -54,15 +53,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Otevřít přihlašovací stránku k síti">
 
-<!ENTITY malformedURI.title "Neplatná adresa">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Adresa webové stránky má zpravidla tvar
-    <strong>http://www.example.com/</strong></li>
-  <li>Zkontrolujte, že používáte správná lomítka (tj.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Neplatná adresa URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm, tato adresa nevypadá v pořádku.">
 
 <!ENTITY netInterrupt.title "Spojení bylo přerušeno">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
