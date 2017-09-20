@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
 <!ENTITY customizeMode.done "Terminé">
 <!ENTITY customizeMode.titlebar "Barre de titre">
+<!ENTITY customizeMode.extraDragSpace "Espace pour saisir la fenêtre">
 <!ENTITY customizeMode.toolbars2 "Barres d’outils">
 <!ENTITY customizeMode.lwthemes "Thèmes">
 <!ENTITY customizeMode.lwthemes.myThemes "Mes thèmes">
@@ -900,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activer la protection">
 <!ENTITY trackingProtection.block2.accesskey "A">
-
-<!ENTITY trackingContentBlocked.message "Pistage">
-<!ENTITY trackingContentBlocked.moreinfo "Les parties de la page qui pistent votre activité en ligne ont été bloquées.">
-<!ENTITY trackingContentBlocked.learnMore "En savoir plus">
-<!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock2.label "Désactiver la protection pour ce site">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activer la protection">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "La protection contre le pistage est désactivée">
 
 <!ENTITY pluginNotification.showAll.label "Tout afficher">
 <!ENTITY pluginNotification.showAll.accesskey "T">
