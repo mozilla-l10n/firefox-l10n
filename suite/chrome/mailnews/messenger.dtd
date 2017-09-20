@@ -431,14 +431,107 @@
 <!ENTITY newMsgButton.tooltip "Cipta mesej baru">
 <!ENTITY replyButton.tooltip "Balas mesej">
 <!ENTITY replyAllButton.tooltip "Balas kepada pengirim dan semua penerima">
+<!ENTITY replyAllButtonNews.tooltip "Balas kepada pengirim dan kumpuan berita">
+<!ENTITY forwardButton.tooltip "Kirim semula mesej yang dipilih">
+<!ENTITY fileButton.tooltip "Failkan mesej yang dipilih">
+<!ENTITY nextButton.tooltip "Pindah ke mesej belum dibaca seterusnya">
+<!ENTITY goBackButton.tooltip "Undur satu mesej">
+<!ENTITY goForwardButton.tooltip "Pergi ke satu mesej seterusnya">
+<!ENTITY deleteButton.tooltip "Buang mesej atau folder yang dipilih">
+<!ENTITY undeleteButton.tooltip "Batal membuang mesej yang dipilih">
+<!ENTITY markButton.tooltip "Tandakan mesej">
+<!ENTITY stopButton.tooltip "Hentikan pemindahan semasa">
+<!ENTITY throbber.tooltip "Pergi ke halaman utama &vendorShortName;">
+<!ENTITY junkButton.tooltip "Tandakan mesej yang dipilih sebagai mel remeh">
+<!ENTITY notJunkButton.tooltip "Tandakan mesej yang dipilih sebagai bukan mel remeh">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Papar kandungan jauh mesej ini">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "P">
+<!ENTITY editRemoteContentSettings.label "Edit keizinan kandungan jauh…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Selesai">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextOpenNewWindow.label "Buka Mesej dalam Tetingkap Baru">
+<!ENTITY contextOpenNewWindow.accesskey "T">
+<!ENTITY contextOpenNewTab.label "Buka Mesej dalam Tab Baru">
+<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextEditAsNew.label "Edit Sebagai Baru…">
+<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextReplySender.label "Balas kepada Pengirim Sahaja">
+<!ENTITY contextReplySender.accesskey "S">
+<!ENTITY contextReplyList.label "Balas mengikut Senarai">
+<!ENTITY contextReplyList.accesskey "s">
+<!ENTITY contextReplyNewsgroup.label "Balas kepada Kumpulan Berita">
+<!ENTITY contextReplyNewsgroup.accesskey "s">
+<!ENTITY contextReplyAll.label "Balas kepada Semua">
+<!ENTITY contextReplyAll.accesskey "B">
+<!ENTITY contextReplySenderAndNewsgroup.label "Balas kepada Pengirim dan Kumpuan Berita">
+<!ENTITY contextReplySenderAndNewsgroup.accesskey "l">
+<!ENTITY contextForward.label "Kirim semula">
+<!ENTITY contextForward.accesskey "K">
+<!ENTITY contextForwardAsAttachment.label "Kirim semula sebagai Lampiran">
+<!ENTITY contextForwardAsAttachment.accesskey "r">
+<!ENTITY contextArchive.label "Arkib">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextMoveMsgMenu.label "Pindah Ke">
+<!ENTITY contextMoveMsgMenu.accesskey "P">
+<!ENTITY contextCopyMsgMenu.label "Salin Ke">
+<!ENTITY contextCopyMsgMenu.accesskey "S">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Terbaru">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "T">
+<!ENTITY contextSaveAs.label "Simpan Sebagai…">
+<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextPrint.label "Cetak…">
+<!ENTITY contextPrint.accesskey "C">
+<!ENTITY contextPrintPreview.label "Previu Cetakan">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Dapatkan Mesej untuk Akaun">
+<!ENTITY folderContextGetMessages.accesskey "D">
+<!ENTITY folderContextOpenNewWindow.label "Buka dalam Tetingkap Mel Baru">
+<!ENTITY folderContextOpenNewWindow.accesskey "B">
+<!ENTITY folderContextOpenNewTab.label "Buka dalam Tab Baru">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextRename.label "Namakan semula">
+<!ENTITY folderContextRename.accesskey "N">
+<!ENTITY folderContextRemove.label "Buang">
+<!ENTITY folderContextRemove.accesskey "B">
+<!ENTITY folderContextCompact.label "Padatkan Folder Ini">
+<!ENTITY folderContextCompact.accesskey "F">
+<!ENTITY folderContextEmptyTrash.label "Buang Sampah">
+<!ENTITY folderContextEmptyTrash.accesskey "h">
+<!ENTITY folderContextEmptyJunk.label "Buang Mel Remeh">
+<!ENTITY folderContextEmptyJunk.accesskey "R">
+<!ENTITY folderContextSendUnsentMessages.label "Hantar Mesej yang Tidak Dihantar">
+<!ENTITY folderContextSendUnsentMessages.accesskey "r">
+<!ENTITY folderContextUnsubscribe.label "Batal langganan">
+<!ENTITY folderContextUnsubscribe.accesskey "B">
+<!ENTITY folderContextMarkNewsgroupRead.label "Tandakan Kumpulan berita sudah Dibaca">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Tandakan Folder sudah Dibaca">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextNew.label "Sub-folder Baru…">
+<!ENTITY folderContextNew.accesskey "B">
+<!ENTITY folderContextSubscribe.label "Langgan…">
+<!ENTITY folderContextSubscribe.accesskey "g">
+<!ENTITY folderContextSearchMessages.label "Cari Mesej…">
+<!ENTITY folderContextSearchMessages.accesskey "C">
+<!ENTITY folderContextProperties.label "Sifat…">
+<!ENTITY folderContextProperties.accesskey "S">
+<!ENTITY folderContextSettings.label "Tetapan…">
+<!ENTITY folderContextSettings.accesskey "e">
 
 <!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY advancedButton.label "Lanjutan…">
+<!ENTITY advancedButton.accesskey "L">
+<!ENTITY searchButton.label "Cari Mesej…">
+<!ENTITY searchButton.accesskey "C">
 
+<!ENTITY all.label "Semua">
+<!ENTITY all.accesskey "S">
