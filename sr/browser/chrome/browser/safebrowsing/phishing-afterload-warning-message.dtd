@@ -24,17 +24,26 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> је <a id='error_desc_link'>пријављен да садржи злонамерни софтвер</a>. Можете <a id='report_detection'>пријавити проблем</a> или <a id='ignore_warning_link'>игнорисати упозорење</a> и наставити настави на сајт.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> је <a id='error_desc_link'>пријављен да садржи злонамерни софтвер</a>. Можете <a id='report_detection'>пријавити проблем</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore 'Сазнајте више о штетном веб садржају укључујући и вирусе и друге злонамерне софтвере и како да заштитите ваш рачунар на <a id='learn_more_link'>StopBadware.org</a>. Сазнајте више о &brandShortName;-овој заштити од "пецања" и злонамерног софтвера на <a id='firefox_support'>support.mozilla.org</a>.'>
 
 
-
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Овај сајт можда садржи штетне програме">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; је блокирао ову страницу јер би можда покушала да вас наведе да инсталирате програме који би нашкодили вашем прегледачу (на пример, променио би вашу почетну страницу или би приказивао рекламе).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> је <a id='error_desc_link'>пријављен да садржи штетан софтвер</a>. Можете <a id='ignore_warning_link'>игнорисати ризик</a> и наставити на овај штетан сајт.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> је <a id='error_desc_link'>пријављен да садржи штетан софтвер</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore 'Сазнајте више о штетном и нежељеном софтверу у <a id='learn_more_link'>полиси о нежељеном софтверу</a>. Сазнајте више о &brandShortName;-овој заштити од "пецања" и злонамерног софтвера на <a id='firefox_support'>support.mozilla.org</a>.'>
 
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Обманљив сајт испред">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
