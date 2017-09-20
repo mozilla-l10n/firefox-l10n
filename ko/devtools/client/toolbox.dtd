@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "디버거">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "소스맵 켜기">
-<!ENTITY options.sourceMaps.tooltip    "이 설정을 켜면 소스가 디버거와 콘솔에서 매핑됩니다.">
+<!ENTITY options.sourceMaps.tooltip1   "이 설정을 켜면 소스가 도구에서 매핑됩니다.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "스타일 편집기">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "원본 소스 보기">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "스타일 편집기나 검사기에서 원본 소스(Sass 파일 등) 보기">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "카메라 셔터 소리 재생">
 <!ENTITY options.screenshot.audio.tooltip    "스크린샷을 찍을 때 카메라 소리를 활성화">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "네트워크">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "로그 지속적으로 남기기">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "이 옵션을 켜면 새 페이지로 이동해도 네트워크 모니터의 출력이 지워지지 않음">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
