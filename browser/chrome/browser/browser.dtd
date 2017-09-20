@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Sideboarne">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Side-ynfo">
 <!ENTITY pageInfoCmd.accesskey "f">
 <!ENTITY pageInfoCmd.commandkey "y">
@@ -378,6 +384,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Oanmelde by Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheare…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Syngroane-ljepblêdensidebalke werjaan">
+
+<!ENTITY appMenuRecentHighlights.label "Resinte hichtepunten">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tafoegje oan arkbalke">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -836,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
 <!ENTITY customizeMode.done "Dien">
 <!ENTITY customizeMode.titlebar "Titelbalke">
+<!ENTITY customizeMode.extraDragSpace "Romte slepe">
 <!ENTITY customizeMode.toolbars2 "Arkbalken">
 <!ENTITY customizeMode.lwthemes "Tema's">
 <!ENTITY customizeMode.lwthemes.myThemes "Myn tema's">
@@ -891,16 +900,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "u">
 <!ENTITY trackingProtection.block2.label "Beskerming ynskeakelje">
 <!ENTITY trackingProtection.block2.accesskey "s">
-
-<!ENTITY trackingContentBlocked.message "Folgjen">
-<!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online aktiviteiten folgje binne blokkearre.">
-<!ENTITY trackingContentBlocked.learnMore "Mear ynfo">
-<!ENTITY trackingContentBlocked.options "Opsjes">
-<!ENTITY trackingContentBlocked.unblock2.label "Beskerming foar dizze website útskeakelje">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "s">
-<!ENTITY trackingContentBlocked.block.label "Beskerming ynskeakelje">
-<!ENTITY trackingContentBlocked.block.accesskey "B">
-<!ENTITY trackingContentBlocked.disabled.message "Beskerming tsjin folgje is útskeakele">
 
 <!ENTITY pluginNotification.showAll.label "Alles toane">
 <!ENTITY pluginNotification.showAll.accesskey "A">
