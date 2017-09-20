@@ -6,16 +6,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "เราเสียใจอย่างสุดซึ้ง">
-<!ENTITY restorepage.problemDesc    "&brandShortName; มีปัญหาในการเรียกคืนหน้าต่างและแท็บของคุณ สาเหตุอาจจะเกิดจากเว็บที่เพิ่งเปิดไปก่อนหน้านี้">
-<!ENTITY restorepage.tryThis        "คุณสามารถลอง:">
-<!ENTITY restorepage.restoreSome    "เอาแท็บที่คุณคิดว่าก่อให้เกิดปัญหาออกไป">
-<!ENTITY restorepage.startNew       "เริ่มการท่องเว็บด้วยวาระใหม่ทั้งหมด">
 
-<!ENTITY restorepage.tryagainButton "เรียกคืน">
-<!ENTITY restorepage.restore.access "ร">
-<!ENTITY restorepage.closeButton    "ปิด">
-<!ENTITY restorepage.close.access   "ป">
+<!ENTITY restorepage.tryagainButton2 "เรียกคืนวาระ">
+<!ENTITY restorepage.restore.access2 "ร">
+<!ENTITY restorepage.closeButton2    "เริ่มวาระใหม่">
+<!ENTITY restorepage.close.access2   "ม">
 
 <!ENTITY restorepage.restoreHeader  "เรียกคืน">
 <!ENTITY restorepage.listHeader     "หน้าต่างและแท็บ">
