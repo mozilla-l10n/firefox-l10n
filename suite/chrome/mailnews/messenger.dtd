@@ -233,14 +233,140 @@
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "u">
 
+<!ENTITY findCmd.label "Cari dalam Mesej Ini…">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2 "K">
 
 <!-- Go Menu -->
 
+<!ENTITY goMenu.label "Teruskan">
+<!ENTITY goMenu.accesskey "T">
+<!ENTITY nextMenu.label "Berikut">
+<!ENTITY nextMenu.accesskey "B">
+<!ENTITY nextMsgCmd.label "Mesej">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Mesej Belum Dibaca">
+<!ENTITY nextUnreadMsgCmd.accesskey "B">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextFlaggedMsgCmd.label "Mesej Ditanda">
+<!ENTITY nextFlaggedMsgCmd.accesskey "D">
+<!ENTITY nextUnreadThread.label "Thread Belum Dibaca">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Terdahulu">
+<!ENTITY prevMenu.accesskey "T">
+<!ENTITY prevMsgCmd.label "Mesej">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Mesej Belum Dibaca">
+<!ENTITY prevUnreadMsgCmd.accesskey "B">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goBackCmd.label "Undur">
+<!ENTITY goBackCmd.accesskey "U">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.label "Seterusnya">
+<!ENTITY goForwardCmd.accesskey "S">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY prevFlaggedMsgCmd.label "Mesej Ditanda">
+<!ENTITY prevFlaggedMsgCmd.accesskey "D">
+<!ENTITY startPageCmd.label "Halaman Permulaan Mel">
+<!ENTITY startPageCmd.accesskey "P">
 
 <!-- Message Menu -->
+<!ENTITY msgMenu.label "Mesej">
+<!ENTITY msgMenu.accesskey "M">
+<!ENTITY newMsgCmd.label "Mesej Baru">
+<!ENTITY newMsgCmd.accesskey "B">
+<!ENTITY newNewMsgCmd.label "Mesej">
+<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY replyMsgCmd.label "Balas">
+<!ENTITY replyMsgCmd.accesskey "B">
+<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyListCmd.label "Balas mengikut Senarai">
+<!ENTITY replyListCmd.accesskey "s">
+<!ENTITY replyNewsgroupCmd.label "Balas kepada Kumpulan Berita">
+<!ENTITY replyNewsgroupCmd.accesskey	"s">
+<!ENTITY replySenderCmd.label "Balas kepada Pengirim Sahaja">
+<!ENTITY replySenderCmd.accesskey "B">
+<!ENTITY replyToAllMsgCmd.label "Balas kepada Semua">
+<!ENTITY replyToAllMsgCmd.accesskey	"s">
+<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Balas kepada Pengirim dan Kumpuan Berita">
+<!ENTITY replyToSenderAndNewsgroupCmd.accesskey "k">
+<!ENTITY replyToAllRecipientsCmd.label "Balas kepada Semua Penerima">
+<!ENTITY replyToAllRecipientsCmd.accesskey "a">
+<!ENTITY forwardMsgCmd.label "Kirim semula">
+<!ENTITY forwardMsgCmd.accesskey "K">
+<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardAsMenu.label "Kirim Semula Sebagai">
+<!ENTITY forwardAsMenu.accesskey "r">
+<!ENTITY forwardAsInline.label "Sebaris">
+<!ENTITY forwardAsInline.accesskey "S">
+<!ENTITY forwardAsAttachmentCmd.label "Lampiran">
+<!ENTITY forwardAsAttachmentCmd.accesskey "L">
+<!ENTITY editMsgAsNewCmd.label "Edit Mesej Sebagai Baru">
+<!ENTITY editMsgAsNewCmd.accesskey "E">
+<!ENTITY editMsgAsNewCmd.key "e">
+<!ENTITY createFilter.label "Cipta Penapis Daripada Mesej…">
+<!ENTITY createFilter.accesskey "a">
+<!ENTITY archiveMsgCmd.label "Arkib">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY moveMsgToMenu.label "Pindah Ke">
+<!ENTITY moveMsgToMenu.accesskey "P">
+<!ENTITY copyMessageLocation.label "Salin Lokasi Mesej">
+<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMsgToMenu.label "Salin Ke">
+<!ENTITY copyMsgToMenu.accesskey "S">
+<!ENTITY moveCopyMsgRecentMenu.label "Terbaru">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "T">
+<!ENTITY killThreadMenu.label "Abaikan Thread">
+<!ENTITY killThreadMenu.accesskey "A">
+<!ENTITY killThreadMenu.key "k">
+<!ENTITY killSubthreadMenu.label "Abaikan Sub-thread">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
+<!ENTITY watchThreadMenu.label "Ikuti Thread">
+<!ENTITY watchThreadMenu.accesskey "I">
+<!ENTITY watchThreadMenu.key "w">
+<!ENTITY fileHereMenu.label "Failkan Di sini">
+<!ENTITY fileHereMenu.accesskey "F">
+<!ENTITY copyHereMenu.label "Salin Sini">
+<!ENTITY copyHereMenu.accesskey "S">
+<!ENTITY tagMenu.label "Tag">
+<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagCustomize.label "Penyesuaian…">
+<!ENTITY tagCustomize.accesskey "P">
+<!ENTITY markMenu.label "Tandakan">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY markThreadAsReadCmd.label "Thread Sebagai sudah Dibaca">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Sebagai sudah Dibaca mengikut Tarikh…">
+<!ENTITY markReadByDateCmd.accesskey "D">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Semua sudah Dibaca">
+<!ENTITY markAllReadCmd.accesskey "S">
+<!ENTITY markAllReadCmd.key "c">
+<!ENTITY markAsJunkCmd.label "Sebagai Mel Remeh">
+<!ENTITY markAsJunkCmd.accesskey "R">
+<!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Sebagai Bukan Mel Remeh">
+<!ENTITY markAsNotJunkCmd.accesskey "B">
+<!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Laksanakan Kawalan Mel Remeh">
+<!ENTITY recalculateJunkScoreCmd.accesskey "K">
+<!ENTITY markAsShowRemoteCmd.label "Papar Kandungan Jauh">
+<!ENTITY markAsShowRemoteCmd.accesskey "p">
+<!ENTITY markAsShowRemoteCmd.key "r">
+<!ENTITY markAsNotPhishCmd.label "Sebagai Bukan Penipuan">
+<!ENTITY markAsNotPhishCmd.accesskey "S">
+<!ENTITY markAsNotPhishCmd.key "p">
+<!ENTITY openFeedMessage.label "Buka Mesej Suapan">
+<!ENTITY openFeedMessage.accesskey "B">
 
 <!-- Tools Menu -->
 
