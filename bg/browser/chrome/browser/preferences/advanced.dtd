@@ -49,7 +49,7 @@ available. -->
 <!ENTITY connectionSettings.label        "Настройки…">
 <!ENTITY connectionSettings.accesskey    "Н">
 
-<!ENTITY httpCache.label                 "Кеширано уеб съдържание">
+<!ENTITY httpCache.label                 "Буферирано съдържание от интернет">
 
 <!ENTITY offlineStorage2.label           "Уеб съдържание при работа извън мрежа и потребителски данни">
 
