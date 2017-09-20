@@ -390,6 +390,7 @@
 <!ENTITY pref_dialog_set_default "बतौर तयशुदा सेट करें">
 <!ENTITY pref_dialog_default "तयशुदा">
 <!ENTITY pref_dialog_remove "हटाएँ">
+<!ENTITY pref_dialog_activitystream_header_content "अतिरिक्त सामग्री">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "आधुनिक पुस्तचिह्न">
 <!ENTITY pref_dialog_activitystream_visited "देखा गया">
 
@@ -828,6 +829,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "प्रमुखताएँ">
 
 <!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "अधिक">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -836,12 +838,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "देखा गया">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "लोकप्रिय">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 <!ENTITY activity_stream_highlights_empty "ब्राउज़िंग प्रारंभ करें, और हम कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आपने ने हाल ही में देखा है या पुस्तचिन्हित किया है.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "हटाएँ">
 <!ENTITY activity_stream_delete_history "इतिहास मिटाएँ">
 
 <!ENTITY private_tab_panel_title "निजी ब्राउज़िंग + ट्रैकिंग सुरक्षा">
