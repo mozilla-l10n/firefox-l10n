@@ -9,11 +9,22 @@
 <!-- tabmail -->
 <!ENTITY tabmailClose.label "Tutup Tab">
 <!ENTITY tabmailClose.tooltip "Tutup tab">
+<!ENTITY tabmailNewButton.tooltip "Duplikasi tab semasa">
 <!ENTITY tabmailCloseButton.tooltip "Tutup tab semasa">
+<!ENTITY tabmailAllTabs.tooltip "Senarai semua tab">
 
 <!-- menu items: the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
+<!ENTITY newMessage.label "Mesej Baru">
+<!ENTITY newMessage.accesskey "B">
+<!ENTITY newFolderCmd.label "Folder…">
+<!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY newVirtualFolderCmd.label "Carian Tersimpan…">
+<!ENTITY newVirtualFolderCmd.accesskey "C">
+<!ENTITY newTabCmd.label "Duplikasi Tab">
+<!ENTITY newTabCmd.accesskey "T">
+<!ENTITY newTabCmd.key "t">
 
 <!-- Edit Menu -->
 
