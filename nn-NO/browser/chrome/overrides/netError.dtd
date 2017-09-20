@@ -18,7 +18,17 @@
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Fann ikkje serveren">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Vi har problem med å finne nettstaden.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Viss adressa er rett, er det tre andre ting du kan prøve:</strong>
+<ul>
+  <li>Prøv igjen seinare.</li>
+  <li>Sjekk nettverkssambandet ditt.</li>
+  <li>Viss du er tilkopla, men bak en brannmur, må du kontrollere at &brandShortName; har løyve til å bruke internett.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
