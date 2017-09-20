@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Oersettingen wurde net oanbean foar de folgjende talen:">
+<!ENTITY noTranslationForLanguages2.label "Oersettingen wurde net oanbean foar de folgjende talen">
 <!ENTITY treehead.languageName.label      "Talen">
 <!ENTITY removeLanguage.label             "Talen fuortsmite">
 <!ENTITY removeLanguage.accesskey         "T">
 <!ENTITY removeAllLanguages.label         "Alle talen fuortsmite">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "Oersettingen wurde net oanbean foar de folgjende websites:">
+<!ENTITY noTranslationForSites2.label     "Oersettingen wurde net oanbean foar de folgjende websites">
 <!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Websites fuortsmite">
 <!ENTITY removeSite.accesskey             "v">

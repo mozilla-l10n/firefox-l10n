@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Sykbalke">
+
+<!ENTITY searchBar.hidden.label                "Brûk de adresbalke foar sykjen en navigearjen">
+<!ENTITY searchBar.shown.label                 "Sykbalke yn arkbalke tafoegje">
+
 <!ENTITY defaultSearchEngine.label             "Standertsykmasine">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Kies de standert sykmasine foar gebrûk yn de adresbalke en sykbalke.">

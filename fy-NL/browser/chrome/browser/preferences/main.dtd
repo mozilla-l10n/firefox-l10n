@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Standert werom bringe">
 <!ENTITY restoreDefault.accesskey  "w">
 
+<!ENTITY disableExtension.label    "Utwreiding útskeakelje">
+
 <!ENTITY downloads.label     "Downloads">
 
 <!ENTITY saveTo.label "Bestannen bewarje yn">
