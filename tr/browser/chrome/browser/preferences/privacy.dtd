@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Erişilebilirlik hizmetlerinin tarayıcıma erişmesini engelle">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "E">
 <!ENTITY  a11yPrivacy.learnmore.label    "Daha fazla bilgi al">
+<!ENTITY enableSafeBrowsingLearnMore.label "Daha fazla bilgi al">

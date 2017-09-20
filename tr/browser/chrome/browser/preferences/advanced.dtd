@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Bu yapılandırma için veri raporlama devre dışı bırakılmış">
 
-<!ENTITY enableHealthReport1.label       "&brandShortName;, teknik ve etkileşim verilerimi otomatik olarak Mozilla’ya gönderebilir">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName;, teknik ve etkileşim verilerimi Mozilla’ya gönderebilir">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Daha fazla bilgi al">
 
 <!ENTITY dataCollection.label            "&brandShortName; veri toplama ve kullanma izinleri">
