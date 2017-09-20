@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Empêcher les services d’accessibilité d’avoir accès à votre navigateur">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "En savoir plus">
+<!ENTITY enableSafeBrowsingLearnMore.label "En savoir plus">
