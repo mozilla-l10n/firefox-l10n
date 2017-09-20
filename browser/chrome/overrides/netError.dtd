@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "음. 사이트를 찾는데 문제가 발생하였습니다.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>그 주소가 정확한 경우에, 여기 세 가지 다른 시도할 수 있습니다.</strong>
+<ul>
+  <li>나중에 다시 시도 합니다.</li>
+  <li>네트워크 연결을 확인 하십시오.</li>
+  <li>연결 되어 있지만, 방화벽 뒤에 있는지 확인 하는 경우 &brandShortName; 웹에 액세스할 수 있는 권한이.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
 <!ENTITY fileNotFound.longDesc "
@@ -49,7 +57,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "네트워크 로그인 페이지 열기">
 
+<!ENTITY malformedURI.pageTitle "잘못된 URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "음. 주소가 올바르지 않습니다.">
 
 <!ENTITY netInterrupt.title "연결이 끊어짐">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
