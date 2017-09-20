@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Relato de dados está desativado para a configuração desta compilação">
 
-<!ENTITY enableHealthReport1.label       "Permitir ao &brandShortName; enviar automaticamente dados técnicos e de interação para a Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Permitir ao &brandShortName; enviar dados técnicos e de interação à Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
 
 <!ENTITY dataCollection.label            "Recolha de dados e utilização do &brandShortName;">
