@@ -25,43 +25,49 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-
+<!ENTITY btnPageCSS.tooltip2 "Log CSS errors and warnings">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
-
+<!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "सुरक्षा">
-
+<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
 <!ENTITY btnPageSecurity.accesskey "u">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "लगिङ">
-
+<!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
 <!ENTITY btnConsoleErrors       "त्रुटिहरू">
 <!ENTITY btnConsoleInfo         "जानकारी">
 <!ENTITY btnConsoleWarnings     "चेतावनीहरू">
 <!ENTITY btnConsoleLog          "लग">
 <!ENTITY btnConsoleXhr          "XHR">
+<!ENTITY btnConsoleReflows      "Reflows">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
-
+<!ENTITY btnServerLogging.label       "Server">
+<!ENTITY btnServerLogging.tooltip     "Log messages received from a web server">
+<!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "त्रुटिहरू">
 <!ENTITY btnServerInfo                "जानकारी">
 <!ENTITY btnServerWarnings            "चेतावनीहरू">
 <!ENTITY btnServerLog                 "लग">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Add-on or Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "फिल्टर निर्गत">
 <!ENTITY btnClear.label        "खाली गर्नुहोस्">
@@ -69,8 +75,7 @@
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -85,7 +90,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
-
-
+<!ENTITY openInVarViewCmd.label "Open in Variables View">
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "Store as global variable">
+<!ENTITY storeAsGlobalVar.accesskey "S">
