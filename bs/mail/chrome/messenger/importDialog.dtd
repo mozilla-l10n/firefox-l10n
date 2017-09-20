@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
 Netscape Communicator, Please translate using the brandname in respective 
@@ -8,7 +9,6 @@ languages for Netscape Communicator 4 releases.
 LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
 "&brandShortName;" below.
 -->
-
 
 <!ENTITY importDialog.windowTitle "Uvoz">
 <!ENTITY importAll.label          "Uvezi sve">
@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "p">
 <!ENTITY acctName.label           "Naziv:">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "Ni jedna aplikacija ili datoteka za uvoz podataka nije pronađena.">
 
 <!ENTITY back.label               "&lt; Nazad">
 <!ENTITY forward.label            "Sljedeća &gt;">
