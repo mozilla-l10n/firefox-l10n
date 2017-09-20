@@ -18,16 +18,15 @@
 <!ENTITY deniedPortAccess.title "See aadress on keelatud">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serverit ei leitud">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Serverit ei leitud">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Meil on probleeme selle saidi leidmisel.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Kui see aadress on korrektne, siis siin on kolm asja, mida võid proovida:</strong>
 <ul>
-  <li>Kontrolli, kas aadressis pole sisestusvigu, näiteks
-    <strong>www</strong>.eesti.ee asemel hoopis
-    <strong>ww</strong>.eesti.ee.</li>
-  <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma arvuti
-    võrguühendust.</li>
-  <li>Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks,
-    et &brandShortName;il on lubatud internetti pääseda.</li>
+  <li>Proovi hiljem uuesti.</li>
+  <li>Kontrolli võrguühenduse olemasolu.</li>
+  <li>Kui ühendus on olemas, aga oled tulemüüri taga, siis kontrolli, et &brandShortName;il oleks õigus veebile ligi pääseda.</li>
 </ul>
 ">
 
@@ -56,15 +55,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ava sisselogimisleht">
 
-<!ENTITY malformedURI.title "Aadress pole korrektne">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Veebiaadressid on tavaliselt kirjutatud kujul
-    <strong>http://www.eesti.ee/</strong></li>
-  <li>Kontrolli üle, et kasutad ikka õigetpidi kaldkriipse (näiteks
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Vigane URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. See aadress ei tundu õige.">
 
 <!ENTITY netInterrupt.title "Ühendus katkes">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
