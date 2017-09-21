@@ -26,15 +26,20 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/>به عنوان <a id='error_desc_link'>نرم افزاری شامل موارد مخرب گزارش شده است. شما می‌توانید<a id='report_detection'> اشکل در تشخیص را گزارش دهید</a> یا<a id='ignore_warning_link'> این خطر را نادیده بگیرید</a> و به این صفحه غیرامن بروید.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/>به عنوان <a id='error_desc_link'>نرم افزاری شامل موارد مخرب گزارش شده است. شما می‌توانید<a id='report_detection'> اشکل در تشخیص را گزارش دهید</a> ">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "از کامپیوتر خود در <a id='learn_more_link'>StopBadware.org</a> محافظت کنید. در مورد &brandShortName;’ حفاظت در برابر بد افزار و فیشینگ در<a id='firefox_support'>support.mozilla.org</a> بیشتر بدانید.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "سایت پیش‌رو ممکن است شامل نرم‌افزارهای مخرب باشد">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; این صفحه را مسدود کرده است زیرا این صفحه احتمالا در تلاش برای فریب دادن شما برای نصب یک برنامه مضر بر روی تجربه مرورکردن شما بوده است( برای مثال تغییر صفحه اولیه شما یا نمایش تبلیغات اضافه).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/>به عنوان<a id='error_desc_link'> نرم‌افزار حاوی موارد مضر گزارش داده شده است</a> شما می‌توانید<a id='ignore_warning_link'> این خطر را در نظر نگیرید</a> و به این پایگاه اینترنتی غیرامن بروید.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "در مورد نرم‌افزارهای مضر و غیرضروری در <a id='learn_more_link'> سیاست نرم‌افزارهای ناخواسته</a> بیشتر بخوانید.در مورد محافظت در برابر فیشینگ ومحافظت در برابر بدافزار در <a id='firefox_support'>support.mozilla.org</a> بیشتر بدانید.">
 
 
 
