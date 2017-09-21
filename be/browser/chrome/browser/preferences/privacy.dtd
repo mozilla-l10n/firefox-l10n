@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Забараніць сэрвісам даступнасці доступ з вашага браўзера">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "а">
 <!ENTITY  a11yPrivacy.learnmore.label    "Падрабязней">
+<!ENTITY enableSafeBrowsingLearnMore.label "Даведацца больш">

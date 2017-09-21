@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Нам вельмі шкада.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; мае праблемы з аднаўленнем акон і картак. Гэта выклікана нядаўна адкрытай старонкай.">
-<!ENTITY restorepage.tryThis        "Вы можаце паспрабаваць:">
-<!ENTITY restorepage.restoreSome    "Выдаліць адну ці некалькі картак, якія маглі, на ваш погляд, выклікаць праблему">
-<!ENTITY restorepage.startNew       "Пачаць працу з цалкам новым сеансам аглядання">
+<!ENTITY restorepage.errorTitle2    "Выбачайце. Ніяк не выходзіць вярнуць вашы старонкі.">
+<!ENTITY restorepage.problemDesc2   "Не ўдаецца аднавіць ваш апошні сеанс аглядання. Выберыце Аднавіць сеанс і паспрабуйце ізноў.">
+<!ENTITY restorepage.tryThis2       "Не ўдаецца ўзнавіць ваш сеанс? Часам пэўная картка можа быць праблемай. Гляньце папярэднія карткі, прыміце пазнакі з тых з іх, якія не трэба вяртаць, і ўзнаўляйце.">
 
-<!ENTITY restorepage.tryagainButton "Аднавіць">
-<!ENTITY restorepage.restore.access "А">
-<!ENTITY restorepage.closeButton    "Закрыць">
-<!ENTITY restorepage.close.access   "к">
+<!ENTITY restorepage.tryagainButton2 "Аднавіць сеанс">
+<!ENTITY restorepage.restore.access2 "А">
+<!ENTITY restorepage.closeButton2    "Пачаць новы сеанс">
+<!ENTITY restorepage.close.access2   "П">
 
 <!ENTITY restorepage.restoreHeader  "Аднавіць">
 <!ENTITY restorepage.listHeader     "Вокны і карткі">
