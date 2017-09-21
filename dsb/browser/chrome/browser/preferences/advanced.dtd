@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Powšykne">
 
@@ -23,14 +23,14 @@
 <!ENTITY checkUserSpelling.accesskey     "P">
 
 <!ENTITY dataChoicesTab.label            "Datowy wuběrk">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju">
 
-<!ENTITY enableHealthReport1.label       "&brandShortName; zmóžniś, awtomatiski techniske a interakciske daty na Mozilla pósłaś">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName; zmóžniś, techniske a interakciske daty na Mozilla pósłaś">
+<!ENTITY enableHealthReport2.accesskey   "t">
 <!ENTITY healthReportLearnMore.label     "Dalšne informacije">
 
 <!ENTITY dataCollection.label            "Gromaźenje a wužywanje datow &brandShortName;">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Pufrowane webwopśimjeśe">
 
 <!ENTITY offlineStorage2.label           "Webwopśimjeśe a wužywarske daty offline">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sedłowe daty">
 <!ENTITY clearSiteData.label             "Wšykne daty lašowaś">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Nastajenja…">
 <!ENTITY siteDataSettings.accesskey      "N">
 <!ENTITY siteDataLearnMoreLink.label     "Dalšne informacije">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Pufrowak wobgranicowaś na">
 <!ENTITY limitCacheSizeBefore.accesskey  "P">
 <!ENTITY limitCacheSizeAfter.label       "MB ruma">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "m">
 
 <!ENTITY updateTab.label                 "Aktualizěrowaś">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Aktualizacije &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Źaržćo &brandShortName; aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.">
+<!ENTITY updateApplicationDescription.label
+                                         "Źaržćo &brandShortName; aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.">
 <!ENTITY updateApplication.version.pre   "Wersija ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&amp;brandShortName dowóliś,">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "t">
 
 <!ENTITY performance.label               "Wugbaśe">
-<!ENTITY useRecommendedPerformanceSettings2.label "Dopórucone wugbaśowe nastajenja wužywaś">
-<!ENTITY useRecommendedPerformanceSettings2.description "Toś te nastajenja su na hardwaru a źěłowy system wašogo licadła pśiměrjone.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
-<!ENTITY performanceSettingsLearnMore.label "Dalšne informacije">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Dopórucone wugbaśowe nastajenja wužywaś">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Toś te nastajenja su na hardwaru a źěłowy system wašogo licadła pśiměrjone.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "D">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Dalšne informacije">
 <!ENTITY limitContentProcessOption.label "Limit wopśimjeśowego procesa">
-<!ENTITY limitContentProcessOption.description "Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
+<!ENTITY limitContentProcessOption.description
+                                         "Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
-<!ENTITY limitContentProcessOption.disabledDescription "Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym &brandShortName; změniś.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym &brandShortName; změniś.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
