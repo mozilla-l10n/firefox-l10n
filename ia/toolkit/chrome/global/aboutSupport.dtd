@@ -1,0 +1,100 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID de reporto">
+<!ENTITY aboutSupport.crashes.sendDate "Submittite">
+<!ENTITY aboutSupport.crashes.allReports "Tote le reportos de collapso">
+
+<!ENTITY aboutSupport.extensionsTitle "Extensiones">
+<!ENTITY aboutSupport.extensionName "Nomine">
+<!ENTITY aboutSupport.extensionEnabled "Activate">
+<!ENTITY aboutSupport.extensionVersion "Version">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.featureName "Nomine">
+<!ENTITY aboutSupport.featureVersion "Version">
+
+<!ENTITY aboutSupport.experimentName "Nomine">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Description">
+<!ENTITY aboutSupport.experimentActive "Active">
+<!ENTITY aboutSupport.experimentEndDate "Data de fin">
+<!ENTITY aboutSupport.experimentHomepage "Pagina initial">
+
+<!ENTITY aboutSupport.appBasicsName "Nomine">
+<!ENTITY aboutSupport.appBasicsVersion "Version">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Chronologia de actualisationes">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsProfiles "Profilos">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+
+<!ENTITY aboutSupport.modifiedPrefsName "Nomine">
+<!ENTITY aboutSupport.modifiedPrefsValue "Valor">
+
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.lockedPrefsName "Nomine">
+<!ENTITY aboutSupport.lockedPrefsValue "Valor">
+
+<!ENTITY aboutSupport.graphicsTitle "Graphica">
+
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritate">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica de integritate">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
+
+<!ENTITY aboutSupport.a11yTitle "Accessibilitate">
+<!ENTITY aboutSupport.a11yActivated "Activate">
+
+
+<!ENTITY aboutSupport.installationHistoryTitle "Chronologia del installation">
+<!ENTITY aboutSupport.updateHistoryTitle "Chronologia del actualisationes">
+
+
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
+
+<!ENTITY aboutSupport.safeModeTitle "Probar le modo secur">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Characteristicas">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+
+<!ENTITY aboutSupport.mediaDeviceName "Nomine">
+<!ENTITY aboutSupport.mediaDeviceGroup "Gruppo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Venditor">
+<!ENTITY aboutSupport.mediaDeviceState "Stato">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferite">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canales">
+<!ENTITY aboutSupport.mediaDeviceRate "Rata">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latentia">
