@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Toegevoegd">
 <!ENTITY col.lastmodified.label  "Laatst gewijzigd">
 
-<!ENTITY search.placeholder  "Zoeken">
+<!ENTITY historySearch.placeholder  "Geschiedenis doorzoeken">
+<!ENTITY bookmarksSearch.placeholder  "Bladwijzers doorzoeken">
 
 <!ENTITY cmd.find.key  "f">
 
