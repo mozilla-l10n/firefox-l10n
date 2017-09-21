@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> 被<a id='error_desc_link'>举报含有有害软件</a>。">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "到 <a id='learn_more_link'>流氓软件政策</a> 可以详细了解有害和流氓的软件。到 <a id='firefox_support'>support.mozilla.org</a> 可以详细了解 &brandShortName; 防范钓鱼和恶意软件的机制。">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "查阅 <a id='learn_more_link'>流氓软件政策</a> 可以详细了解有害和流氓的软件。到 <a id='firefox_support'>support.mozilla.org</a> 可以详细了解 &brandShortName; 防范钓鱼和恶意软件的机制。">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "即将进入的是诈骗网站">
