@@ -53,7 +53,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променети поставки">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променети параметри">
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
 

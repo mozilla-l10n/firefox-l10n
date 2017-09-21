@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "з">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; ги чува информациите за Вашите поставки и преференции во Вашиот кориснички профил.">
+<!ENTITY            pmDescription.label    "&brandShortName; ги чува информациите за Вашите поставки и параметри во Вашиот кориснички профил.">
 
 <!ENTITY            offlineState.label    "Работи локално">
 <!ENTITY            offlineState.accesskey "о">

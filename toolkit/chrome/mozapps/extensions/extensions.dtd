@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "И">
 <!ENTITY toolsMenu.tooltip                    "Алатки за сите додатоци">
 
+
 <!ENTITY cmd.back.tooltip                     "Оди една страница назад">
 <!ENTITY cmd.forward.tooltip                  "Оди една страница напред">
 
@@ -79,7 +80,7 @@
 <!ENTITY cmd.findUpdates.accesskey            "Н">
 <!ENTITY cmd.preferencesWin.label             "Опции">
 <!ENTITY cmd.preferencesWin.accesskey         "О">
-<!ENTITY cmd.preferencesUnix.label            "Преференции">
+<!ENTITY cmd.preferencesUnix.label            "Поставки">
 <!ENTITY cmd.preferencesUnix.accesskey        "р">
 <!ENTITY cmd.about.label                      "За">
 <!ENTITY cmd.about.accesskey                  "а">
@@ -105,8 +106,8 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "р">
 <!ENTITY cmd.showPreferencesWin.label         "Опции">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Промени ги опциите на овој додаток">
-<!ENTITY cmd.showPreferencesUnix.label        "Преференции">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Промени ги преференциите на овој додаток">
+<!ENTITY cmd.showPreferencesUnix.label        "Поставки">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Промени ги параметрите на овој додаток">
 <!ENTITY cmd.contribute.label                 "Придонеси">
 <!ENTITY cmd.contribute.accesskey             "П">
 <!ENTITY cmd.contribute.tooltip               "Придонеси за развојот на овој додаток">
@@ -149,9 +150,9 @@
 <!ENTITY detail.showPreferencesWin.label      "Опции">
 <!ENTITY detail.showPreferencesWin.accesskey  "О">
 <!ENTITY detail.showPreferencesWin.tooltip    "Промени ги опциите на овој додаток">
-<!ENTITY detail.showPreferencesUnix.label     "Преференции">
+<!ENTITY detail.showPreferencesUnix.label     "Поставки">
 <!ENTITY detail.showPreferencesUnix.accesskey "р">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Промени ги преференциите на овој додаток">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Промени ги параметрите на овој додаток">
 
 
 <!-- ratings -->
@@ -182,6 +183,9 @@
 <!ENTITY addon.details.label                  "Повеќе">
 <!ENTITY addon.details.tooltip                "Прикажи повеќе опции за овој додаток">
 <!ENTITY addon.unknownDate                    "Непознат">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -243,3 +247,5 @@
 <!ENTITY disabledUnsigned.devInfo.start "Програмерите што се заинтересирани да ги верифицираат нивните додатоци можат да продолжат со читање на нашиот ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "рачно">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
