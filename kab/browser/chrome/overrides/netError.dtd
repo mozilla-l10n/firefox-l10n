@@ -18,6 +18,7 @@
 <!ENTITY deniedPortAccess.title "Tansa-a tegdel">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Ulac aqeddac">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmmm. Nesɛa uguren akken ad naf asmel.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>ma tella tansa-agi d tameɣtut, llan tɣawsiwin nniḍen ara tɛarḍeḍ:</strong><ul><li>ɛreḍ tikelt nniḍen ticki.</li><li>senqed tuqna inek internet.</li>">

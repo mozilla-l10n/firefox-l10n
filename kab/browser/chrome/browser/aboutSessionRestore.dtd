@@ -9,7 +9,9 @@
 <!ENTITY restorepage.errorTitle2    "Nesḥassef nesɛa uguren akken ad d-nner asebter inek.">
 <!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt nniḍen.">
 
+<!ENTITY restorepage.tryagainButton2 "Err-d tiɣimit">
 <!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Senker tiɣimit tamaynut">
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Errit-id">
