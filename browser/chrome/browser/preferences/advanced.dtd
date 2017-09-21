@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Cyffredinol">
 
@@ -23,14 +23,14 @@
 <!ENTITY checkUserSpelling.accesskey     "G">
 
 <!ENTITY dataChoicesTab.label            "Dewisiadau Data">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn">
 
-<!ENTITY enableHealthReport1.label       "Caniatáu i &brandShortName; anfon yn awtomatig ddata technegol a rhyngweithio i Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Caniatáu i &brandShortName; anfon data technegol a rhyngweithio i Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Dysgu rhagor">
 
 <!ENTITY dataCollection.label            "Casglu Data a Defnyddio &brandShortName;">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Cynnwys Gwe wedi ei Storio">
 
 <!ENTITY offlineStorage2.label           "Cynnwys Gwe All-lein a Data Defnyddiwr">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data Gwefan">
 <!ENTITY clearSiteData.label             "Clirio'r Holl Ddata">
 <!ENTITY clearSiteData.accesskey         "H">
 <!ENTITY siteDataSettings.label          "Gosodiadau…">
 <!ENTITY siteDataSettings.accesskey      "G">
 <!ENTITY siteDataLearnMoreLink.label     "Dysgu rhagor">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Cyfyngu’r storfa i">
 <!ENTITY limitCacheSizeBefore.accesskey  "C">
 <!ENTITY limitCacheSizeAfter.label       "MB o le">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 
 <!ENTITY updateTab.label                 "Diweddaru">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Diweddariadau &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Cadw &brandShortName; yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.">
+<!ENTITY updateApplicationDescription.label
+                                         "Cadw &brandShortName; yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.">
 <!ENTITY updateApplication.version.pre   "Fersiwn ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Caniatau i &brandShortName;">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "y">
 
 <!ENTITY performance.label               "Perfformiad">
-<!ENTITY useRecommendedPerformanceSettings2.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
-<!ENTITY useRecommendedPerformanceSettings2.description "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
-<!ENTITY performanceSettingsLearnMore.label "Dysgu rhagor">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "D">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Dysgu rhagor">
 <!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
-<!ENTITY limitContentProcessOption.description "Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
+<!ENTITY limitContentProcessOption.description
+                                         "Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
-<!ENTITY limitContentProcessOption.disabledDescription "Dim ond yn y fersiwn amlbroses o &brandShortName; y mae newid y nifer o brosesau cynnwys yn bosib.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Dim ond yn y fersiwn amlbroses o &brandShortName; y mae newid y nifer o brosesau cynnwys yn bosib.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">

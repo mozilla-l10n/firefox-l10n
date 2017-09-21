@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Dadfygiwr">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Galluogi Mapiau Ffynhonnell">
-<!ENTITY options.sourceMaps.tooltip    "Os ydych wedi galluogi'r dewis hwn bydd ffynonellau'n cael eu mapio yn y Dadfygiwr a'r Consol.">
+<!ENTITY options.sourceMaps.tooltip1   "Os ydych yn galluogi'r dewis hwn bydd ffenylalanin cael eu mapio yn yr offer.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Golygydd Arddull">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Dangos y ffynonellau gwreiddiol">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Dangos ffynonellau gwreiddiol (e.e. ffeiliau Sass) yn y Golygydd Steil a'r Archwiliwr">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Chwarae sain caead camera">
 <!ENTITY options.screenshot.audio.tooltip    "Galluogi sain camera wrth gymryd llun sgrin">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Rhwydwaith">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Galluogi cofnodion parhaol">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Os fyddwch yn galluogi'r dewis hwn ni fydd y Monitor Rhwydwaith yn clirio'r allbwn bob tro fyddwch yn symud i dudalen newydd">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

@@ -24,7 +24,9 @@
 <!ENTITY tabCrashed.requestReport "Adrodd am y tab">
 <!ENTITY tabCrashed.sendReport3 "Anfonwch adroddiad chwalu awtomataidd fel bod modd i ni drwsio materion fel hyn.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Sylwadau dewisol (sylwadau yn weladwy'n gyhoeddus)">
+<!ENTITY tabCrashed.includeURL3 "Cofiwch gynnwys URLau gwefannau roeddech arnynt pan chwalodd &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Rhowch eich cyfeiriad e-bost yma">
 <!ENTITY tabCrashed.emailMe "Hysbysu pan fydd rhagor o wybodaeth ar gael">
 <!ENTITY tabCrashed.reportSent "Mae'r adroddiad chwalu wedi ei gyflwyno: diolch am gynorthwyo i wneud &brandShortName; yn well!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Gofyn am dabiau cefndir">
+<!ENTITY tabCrashed.autoSubmit3 "Diweddarwch y dewisiadau i gyflwyno adroddiadau'n awtomatig pan fydd &brandShortName; yn chwalu.">
