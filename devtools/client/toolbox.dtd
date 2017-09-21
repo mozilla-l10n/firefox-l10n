@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "除錯器">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "開啟原始碼對應">
-<!ENTITY options.sourceMaps.tooltip    "若您開啟此選項，將會在除錯器與主控台中進行原始碼對應。">
+<!ENTITY options.sourceMaps.tooltip1   "若您開啟此選項，將會在開發者工具中進行原始碼對應。">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "樣式編輯器">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "顯示原始碼">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "在樣式編輯器與檢測器中顯示原始碼（例如 Sass 檔案）">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "播放快門音效">
 <!ENTITY options.screenshot.audio.tooltip    "拍攝畫面擷圖時播放快門音效">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "網路">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "開啟保留紀錄">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "若您啟用了此選項，網路監控器將不會在您切換到新頁面時清除輸出資料。">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
