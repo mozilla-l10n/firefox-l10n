@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "Penggunaan alamat ini telah dibatasi">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server tidak ditemukan">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Periksa kesalahan pengetikan pada alamat seperti <strong>ww</strong>.example.com yang seharusnya <strong>www</strong>.example.com</li> <li>Bila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li> <li>Bila komputer atau jaringan Anda dilindungi firewall atau proxy, pastikan bahwa &brandShortName; diizinkan untuk mengakses Web.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Peladen Tidak Ditemukan">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Berkas tidak ditemukan">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Periksa penggunaan huruf besar/kecil pada nama berkas atau kesalahan pengetikan lain.</li> <li>Periksa apakah berkas sudah dipindah, diganti namanya, atau dihapus.</li> </ul>">
@@ -38,8 +38,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Buka Laman Masuk Jaringan">
 
-<!ENTITY malformedURI.title "Alamat tidak valid">
-<!ENTITY malformedURI.longDesc "<ul> <li>Umumnya alamat web ditulis seperti ini <strong>http://www.example.com/</strong></li> <li>Pastikan Anda menggunakan garis miring depan, yakni <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Sambungan terputus">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
