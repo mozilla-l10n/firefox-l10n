@@ -6,9 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Maaf. Kami menghadapi masalah untuk mendapatkan semula halaman anda.">
+<!ENTITY restorepage.problemDesc2   "Kami menghadapi masalah memulihkan sesi pelayaran anda sebelum ini. Pilih Pulih Sesi dan cuba lagi.">
+<!ENTITY restorepage.tryThis2       "Masih tidak boleh memulihkan sesi anda? Kadang-kadang, tab yang menjadi punca masalah ini. Lihat tab sebelum ini, buangkan tanda pada tab yang anda tidak mahu pulihkan, dan kemudian pulih semula yang lain.">
 
 <!ENTITY restorepage.tryagainButton2 "Pulih Sesi">
 <!ENTITY restorepage.restore.access2 "P">
+<!ENTITY restorepage.closeButton2    "Mulakan Sesi Baru">
+<!ENTITY restorepage.close.access2   "B">
 
 <!ENTITY restorepage.restoreHeader  "Kembalikan semula">
 <!ENTITY restorepage.listHeader     "Tetingkap dan Tab">

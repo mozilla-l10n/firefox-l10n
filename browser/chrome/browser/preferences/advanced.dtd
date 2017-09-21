@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Laporan data dinyahdayakan bagi konfigurasi binaan ini">
 
-<!ENTITY enableHealthReport1.label       "Izinkan &brandShortName; secara automatik menghantar data teknikal dan interaksi kepada Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Izinkan&brandShortName; supaya secara automatik akan menghantarkan data teknikal dan interaksi kepada Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Ketahui Selanjutnya">
 
 <!ENTITY dataCollection.label            "Pengumpulan dan penggunaan data &brandShortName;">
