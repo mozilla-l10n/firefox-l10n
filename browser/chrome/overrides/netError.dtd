@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Próbálja újra">
 <!ENTITY returnToPreviousPage.label "Ugrás vissza">
 <!ENTITY advanced.label "Speciális">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "A kapcsolódás sikertelen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Ez a cím tiltva van">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "A kiszolgáló nem található">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e <strong>ww</strong>.example.com-ot a <strong>www</strong>.example.com helyett.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "A kiszolgáló nem található">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Probléma az oldal megkeresésekor.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Ha a cím helyes, akkor itt van három lehetőség, amit megpróbálhat:</strong>
+<ul>
+  <li>Próbálja újra később.</li>
+  <li>Ellenőrizze a hálózati kapcsolatot.</li>
+  <li>Ha van kapcsolat, de tűzfal mögött van, akkor ellenőrizze, hogy a &brandShortName;nak van-e joga a web eléréséhez.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "A fájl nem található">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ellenőrizze a fájlnevet, hogy jól írta-e.</li> <li>Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Hálózati bejelentkezés oldal megnyitása">
 
-<!ENTITY malformedURI.title "A cím érvénytelen">
-<!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Érvénytelen URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. A cím nem tűnik helyesnek.">
 
 <!ENTITY netInterrupt.title "A kapcsolat megszakadt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +114,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Speciális információ: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTime_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTime_systemDate'/> van, valójában <span id='wrongSystemTime_actualDate'/>. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTimeWithoutReference_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTimeWithoutReference_systemDate'/> van. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
 

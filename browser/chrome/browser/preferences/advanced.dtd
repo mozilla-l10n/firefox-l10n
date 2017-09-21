@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Az adatjelentést letiltották ehhez a binárishoz">
 
-<!ENTITY enableHealthReport1.label       "A &brandShortName; automatikusan technikai és interakciós adatokat küldhet a Mozillának">
-<!ENTITY enableHealthReport1.accesskey   "u">
+<!ENTITY enableHealthReport2.label       "Engedélyezés, hogy a &brandShortName; műszaki és interakciós adatokat küldjön a Mozillának">
+<!ENTITY enableHealthReport2.accesskey   "E">
 <!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
 <!ENTITY dataCollection.label            "&brandShortName; adatgyűjtés és felhasználás">

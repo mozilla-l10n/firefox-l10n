@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Az akadálymentesítési szolgáltatások ne férjenek hozzá a böngészőhöz">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "További tudnivalók">
+<!ENTITY enableSafeBrowsingLearnMore.label "További tudnivalók">
