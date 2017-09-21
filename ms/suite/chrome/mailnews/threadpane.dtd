@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY threadColumn.label "Thread">
+<!ENTITY fromColumn.label "Daripada">
+<!ENTITY recipientColumn.label "Penerima">
+<!ENTITY attachmentColumn.label "Lampiran">
+<!ENTITY subjectColumn.label "Subjek">
+<!ENTITY dateColumn.label "Tarikh">
+<!ENTITY priorityColumn.label "Prioriti">
+<!ENTITY tagsColumn.label "Tag">
+<!ENTITY accountColumn.label "Akaun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Saiz">
+<!ENTITY junkStatusColumn.label "Status Mel remeh">
+<!ENTITY unreadColumn.label "Thread Belum Dibaca">
+<!ENTITY totalColumn.label "Jumlah dalam Thread">
+<!ENTITY readColumn.label "Dibaca">
+<!ENTITY receivedColumn.label "Diterima">
+<!ENTITY flagColumn.label "Tanda">
+
+<!--Tooltips-->
