@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "همگام‌سازی زبانه‌ها را برای نمایش فهرست زبانه‌ها در دستگاه‌های دیگر خود روشن کنید.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "جست‌وجو در زبانه‌های همگام‌سازی شده">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "فعال‌سازی محافظت">
 <!ENTITY trackingProtection.block2.accesskey "ف">
 
-<!ENTITY trackingContentBlocked.message "ردگیری">
-<!ENTITY trackingContentBlocked.moreinfo "بخش‌هایی از این صفحه که فعالیت آنلاین شما را ردگیری می‌کنند مسدود شده‌اند.">
-<!ENTITY trackingContentBlocked.learnMore "بیشتر بدانید">
-<!ENTITY trackingContentBlocked.options "گزینه‌ها">
-<!ENTITY trackingContentBlocked.unblock2.label "غیرفعال سازی حفاظت برای این پایگاه">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "غ">
-<!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
-<!ENTITY trackingContentBlocked.block.accesskey "ف">
-<!ENTITY trackingContentBlocked.disabled.message "محافظت در برابر ردگیری غیرفعال است‌‌">
-
 <!ENTITY pluginNotification.showAll.label "نمایش همه">
 <!ENTITY pluginNotification.showAll.accesskey "ن">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "همرسانی دستگاه‌ها…">
 
 <!ENTITY libraryButton.tooltip "نمایش تاریخچه، نشانک‌های ذخیره شده و بیشتر">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "ویژیگی دسترسی پذیری فعال شده است">
