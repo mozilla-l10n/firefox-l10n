@@ -7,7 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Ymddiheuriadau. Rydym yn cael anhawster cael eich tudalennau'n ôl.">
+<!ENTITY restorepage.problemDesc2   "Rydym yn cael anhawster adfer eich sesiwn pori diwethaf. Dewiswch Adfer Sesiwn er mwyn ceisio eto.">
+<!ENTITY restorepage.tryThis2       "Dal dim yn gallu adfer eich sesiwn? Weithiau bydd tab yn achosi problem. Edrychwch ar dabiau blaenorol, tynnwch y marc ticio o'r tabiau does dim angen eu hadfer ac yna adfer.">
 
+<!ENTITY restorepage.tryagainButton2 "Adfer Sesiwn">
+<!ENTITY restorepage.restore.access2 "A">
+<!ENTITY restorepage.closeButton2    "Cychwyn Sesiwn Newydd">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Adfer">
 <!ENTITY restorepage.listHeader     "Ffenestri a Thabiau">
