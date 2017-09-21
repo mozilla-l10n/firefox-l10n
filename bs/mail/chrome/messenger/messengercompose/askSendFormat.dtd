@@ -7,5 +7,14 @@
 
 <!ENTITY recipient.label "Neki od primalaca nisu navedeni da mogu primati HTML poštu.">
 
+<!ENTITY question.label "Želite li pretvoriti poruku u običan tekst ili je želite poslati u HTML formatu?">
 
+<!ENTITY plainTextAndHtml.label "Pošalji kao običan tekst i HTML">
+<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextOnly.label "Pošalji samo kao običan tekst">
+<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY htmlOnly.label "Pošalji samo u HTML formatu">
+<!ENTITY htmlOnly.accesskey "H">
 
+<!ENTITY send.label "Pošalji">
+<!ENTITY send.accesskey "P">
