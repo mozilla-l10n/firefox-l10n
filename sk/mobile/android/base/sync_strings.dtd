@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Poďme na to'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Používate staršiu verziu služby &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Prihlásený ako'>
-<!ENTITY fxaccount_status_manage_account 'Spravovať účet'>
 <!ENTITY fxaccount_status_auth_server 'Server účtu'>
 <!ENTITY fxaccount_status_sync_now 'Synchronizovať'>
 <!ENTITY fxaccount_status_syncing2 'Synchronizuje sa…'>
 <!ENTITY fxaccount_status_device_name 'Názov zariadenia'>
 <!ENTITY fxaccount_status_sync_server 'Server služby Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolené'>
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet musí byť overený. Ťuknutím znova odošlete overovací e-mail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nie je možné sa pripojiť. Ťuknutím sa prihlásite.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ak sa chcete prihlásiť, musíte aktualizovať svoj &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v nastaveniach systému Android.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Služba &syncBrand.shortName.label; je nastavená, ale synchronizácia neprebieha automaticky. Prepnite voľbu “Automatická synchronizácia” v ponuke Nastavenia systému Android &gt; Kontá.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Ťuknutím sa prihlásite k svojmu novému účtu Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Zvoľte, čo chcete synchronizovať'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'História'>
 <!ENTITY fxaccount_status_passwords2 'Prihlasovacie údaje'>
 <!ENTITY fxaccount_status_tabs 'Otvorené karty'>
+<!ENTITY fxaccount_status_additional_settings 'Ďalšie nastavenia'>
 <!ENTITY fxaccount_status_legal 'Právne informácie' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Podmienky používania'>
 <!ENTITY fxaccount_status_linkprivacy2 'Zásady ochrany osobných údajov'>
-<!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odpojiť&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Odpojiť sa zo služby Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Nastavenia &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Nastavenie &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Aktualizujte svoj Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Účet už existuje. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neplatná e-mailová adresa alebo heslo'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neplatná e-mailová adresa alebo heslo'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Účet nie je overený'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server je zaneprázdnený, skúste to neskôr'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdnený, skúste to neskôr'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytol sa problém'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je uzamknutý. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Služba &syncBrand.shortName.label; nie je pripojená'>
 <!-- Localization note: the format string below will be replaced
