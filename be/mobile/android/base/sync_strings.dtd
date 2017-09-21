@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Пачаць'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ужываеце старэйшую версію &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Увайшоўшы як'>
-<!ENTITY fxaccount_status_manage_account 'Кіраванне ўліковым запісам'>
 <!ENTITY fxaccount_status_auth_server 'Сервер уліковага запісу'>
 <!ENTITY fxaccount_status_sync_now 'Сінхранізаваць зараз'>
 <!ENTITY fxaccount_status_syncing2 'Сінхранізацыя…'>
 <!ENTITY fxaccount_status_device_name 'Імя прылады'>
 <!ENTITY fxaccount_status_sync_server 'Сервер Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: дазволены'>
 <!ENTITY fxaccount_status_needs_verification2 'Ваш уліковы запіс павінен быць пацверджаны. Клікніце, каб перадаслаць ліст пацверджання.'>
 <!ENTITY fxaccount_status_needs_credentials 'Немагчыма злучыцца. Клікніце, каб увайсці.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Вы павінны абнавіць &brandShortName;, каб увайсці.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Аўтасінхранізацыя дадзеных” у наладах Android &gt; Выкарыстанне дадзеных.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Аўтасінхранізацыя дадзеных” у меню налад Android &gt; Уліковыя запісы.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Націсніце, каб увайсці ў новы ўліковы запіс Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Выбраць, што сінхранізаваць'>
 <!ENTITY fxaccount_status_bookmarks 'Закладкі'>
 <!ENTITY fxaccount_status_history 'Гісторыя'>
 <!ENTITY fxaccount_status_passwords2 'Лагіны'>
 <!ENTITY fxaccount_status_tabs 'Адчыненыя карткі'>
+<!ENTITY fxaccount_status_additional_settings 'Дадатковыя налады'>
 <!ENTITY fxaccount_status_legal 'Юрыдычная інфармацыя' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Умовы абслугоўвання'>
 <!ENTITY fxaccount_status_linkprivacy2 'Паведамленне аб прыватнасці'>
-<!ENTITY fxaccount_status_more 'Больш&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Адлучыць&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Адлучыцца ад Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Налады &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Наладзіць &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Вы павінны абнавіць Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Уліковы запіс ужо існуе. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Хібны адрас э-пошты або пароль'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Хібны адрас э-пошты або пароль'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Уліковы запіс не пацверджаны'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер заняты, паспрабуйце зноў крыху пазней'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер заняты, паспрабуйце зноў крыху пазней'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Узнікла праблема'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Уліковы запіс заблакаваны. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не злучаны'>
 <!-- Localization note: the format string below will be replaced
