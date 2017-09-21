@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Забраняване на услуги за достъпността достъпа до четеца">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "б">
 <!ENTITY  a11yPrivacy.learnmore.label    "Научете повече">
+<!ENTITY enableSafeBrowsingLearnMore.label "Научете повече">
