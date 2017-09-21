@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Додај нов контејнер">
+<!ENTITY preferencesButton.label "Поставки">
+<!ENTITY removeButton.label   "Избриши">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Назад">
 
 <!ENTITY window.title         "Додај нов контејнер">
 
 
-
+<!ENTITY button.ok.label      "Готово">
