@@ -19,5 +19,27 @@
 <!ENTITY readColumn.label "Dibaca">
 <!ENTITY receivedColumn.label "Diterima">
 <!ENTITY flagColumn.label "Tanda">
+<!ENTITY locationColumn.label "Lokasi">
+<!ENTITY idColumn.label "Susunan Diterima">
 
 <!--Tooltips-->
+<!ENTITY columnChooser2.tooltip "Pilih lajur paparan">
+<!ENTITY threadColumn2.tooltip "Papar thread mesej">
+<!ENTITY fromColumn2.tooltip "Susun mengikut daripada">
+<!ENTITY recipientColumn2.tooltip "Susun mengikut penerima">
+<!ENTITY attachmentColumn2.tooltip "Susun mengikut lampiran">
+<!ENTITY subjectColumn2.tooltip "Susun mengikut subjek">
+<!ENTITY dateColumn2.tooltip "Susun mengikut tarikh">
+<!ENTITY priorityColumn2.tooltip "Susun mengikut prioriti">
+<!ENTITY tagsColumn2.tooltip "Susun mengikut tag">
+<!ENTITY accountColumn2.tooltip "Susun mengikut akaun">
+<!ENTITY statusColumn2.tooltip "Susun mengikut status">
+<!ENTITY sizeColumn2.tooltip "Susun mengikut saiz">
+<!ENTITY junkStatusColumn2.tooltip "Susun mengikut status mel remeh">
+<!ENTITY unreadColumn2.tooltip "Bilangan mesej belum dibaca dalam thread">
+<!ENTITY totalColumn2.tooltip "Bilangan mesej dalam thread">
+<!ENTITY readColumn2.tooltip "Susun mengikut dibaca">
+<!ENTITY receivedColumn2.tooltip "Susun mengikut tarikh diterima">
+<!ENTITY flagColumn2.tooltip "Susun mengikut ditanda">
+<!ENTITY locationColumn2.tooltip "Susun mengikut lokasi">
+<!ENTITY idColumn2.tooltip "Susun mengikut susunan diterima">
