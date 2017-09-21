@@ -12,3 +12,17 @@
 <!ENTITY leaveIt.accesskey            "B">
 <!ENTITY moveToSent.label             "Pindahkan ke dalam folder &quot;Dihantar&quot;">
 <!ENTITY moveToSent.accesskey         "P">
+<!ENTITY requestMDN.label             "Apabila saya diminta menyerahkan resit pemberitahu serahan:">
+<!ENTITY returnSome.label             "Izinkan resit pemberitahu serahan dihantar kepada sesetengah mesej">
+<!ENTITY returnSome.accesskey         "I">
+<!ENTITY never.label                  "Jangan sesekali hantar resit pemberitahu serahan">
+<!ENTITY never.accesskey              "J">
+<!ENTITY notInToCc.label              "Jika saya tiada dalam Kepada atau Cc mesej:">
+<!ENTITY notInToCc.accesskey          "K">
+<!ENTITY outsideDomain.label          "Jika pengirim dari luar domain saya:">
+<!ENTITY outsideDomain.accesskey      "p">
+<!ENTITY otherCases.label             "Dalam hal yang lain:">
+<!ENTITY otherCases.accesskey         "l">
+<!ENTITY askMe.label                  "Tanya saya">
+<!ENTITY alwaysSend.label             "Sentiasa hantar">
+<!ENTITY neverSend.label              "Jangan sesekali hantar">
