@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Ceisiwch eto">
 <!ENTITY returnToPreviousPage.label "Ewch Nôl">
 <!ENTITY advanced.label "Uwch">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Methu cysylltu">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Mae'r cyfeiriad wedi ei gyfyngu">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Heb ganfod gweinydd">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Gwiriwch y cyfeiriad am wallau teipio megis <strong>ww</strong>.example.com yn lle <strong>www</strong>.example.com</li> <li>Os ydych yn methu llwytho unrhyw dudalen, gwiriwch gysylltiad rhwydwaith eich cyfrifiadur.</li> <li>Os yw eich cyfrifiadur neu rwydwaith wedi ei ddiogelu gan fur cadarn neu ddirprwy gwnewch yn siŵr fod gan &brandShortName; ganiatâd i fynd ar y We.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Heb Ganfod Gweinydd">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Rydym yn cael trafferth canfod y wefan honno.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Os yw'r cyfeiriad yna'n gywir, dyma dri pheth i chi roi cynnig arnyn nhw</strong>
+<ul>
+  <li>Ceisiwch eto'n hwyrach.</li>
+  <li>Gwiriwch eich cysylltiad rhwydwaith.</li>
+  <li>Os ydych wedi eich cysylltu ond y tu nôl i fur cadarn, gwiriwch fod gan &brandShortName; ganiatâd i gael mynediad i'r We.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Heb ganfod ffeil">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.</li> <li>Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Agor Tudalen Mewngofnodi i'r Rhwydwaith">
 
-<!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
-<!ENTITY malformedURI.longDesc "<ul> <li>Fel rheol mae cyfeiriadau Gwe'n cael eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "URL annilys">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Dyw'r cyfeiriad yna ddim yn edrych yn iawn.">
 
 <!ENTITY netInterrupt.title "Cafodd y cysylltiad ei darfu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +114,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTime_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTime_systemDate'/>, pan ddylai ddangos <span id='wrongSystemTime_actualDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTimeWithoutReference_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTimeWithoutReference_systemDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
 
