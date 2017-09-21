@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  authorName.label          "B'anel:">
+
+
+<!ENTITY linkText.label             "Rucholajem tzij ximonel">
+<!ENTITY linkText.accesskey         "x">
+<!ENTITY activeLinkText.label       "Titzij rucholajem tzij ximonel">
+<!ENTITY activeLinkText.accesskey   "t">
+<!ENTITY background.label           "Rupam:">
+<!ENTITY background.accesskey       "p">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "Rupam wachib'äl:">
+<!ENTITY backgroundImage.accesskey  "w">
+<!ENTITY chooseFile.label           "Ticha' Yakb'äl…">
+<!ENTITY chooseFile.accesskey       "c">
+
