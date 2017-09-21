@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Mang trang web theo bạn">
 <!ENTITY signedOut.description        "Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.">
 <!ENTITY signedOut.accountBox.title   "Kết nối với một &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Tạo tài khoản">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Đăng nhập">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "Bạn chưa có tài khoản? Bắt đầu">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Đăng nhập…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Cài đặt đồng bộ hóa">
 <!ENTITY signedIn.settings.description "Chọn những thứ bạn muốn đồng bộ sử dụng &brandShortName;.">
