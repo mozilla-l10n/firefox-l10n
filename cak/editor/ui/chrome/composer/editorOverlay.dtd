@@ -14,19 +14,86 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Tikanöx…">
 <!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
+<!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
+<!ENTITY checkSpellingCmd2.accesskey "n">
+<!ENTITY checkSpellingCmd2.key "b">
 
 <!-- Insert menu items -->
+<!ENTITY insertMenu.label "Tich'ap">
+<!ENTITY insertMenu.accesskey "c">
+<!ENTITY insertLinkCmd2.label "Ximonel…">
+<!ENTITY insertLinkCmd2.accesskey "X">
+<!ENTITY insertLinkCmd2.key "L">
+<!ENTITY insertImageCmd.label "Wachib'äl…">
+<!ENTITY insertImageCmd.accesskey "W">
+<!ENTITY insertHLineCmd.label "Kotz'öl Juch'">
+<!ENTITY insertHLineCmd.accesskey "o">
+<!ENTITY insertTableCmd.label "Kemoj kajtz'ik…">
+<!ENTITY insertTableCmd.accesskey "k">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Ajilanemet…">
+<!ENTITY insertMathCmd.accesskey "A">
+<!ENTITY insertCharsCmd.label "Taq Tz'ib' chuqa' taq Etal…">
+<!ENTITY insertCharsCmd.accesskey "T">
 
 <!-- Used just in context popup. -->
+<!ENTITY createLinkCmd.label "Titz'uk Ximonel…">
+<!ENTITY createLinkCmd.accesskey "l">
+<!ENTITY editLinkCmd.label "Tinuk' ri Ximonel pa K'ak'a' Nuk'unel">
+<!ENTITY editLinkCmd.accesskey "u">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.tooltip "Tacha' jun ruwäch tz'ib'">
+<!ENTITY fontfaceMenu.label "Ruwäch tz'ib'">
+<!ENTITY fontfaceMenu.accesskey "t">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip "Tacha' jun runimilem ruwäch tz'ib'">
+<!ENTITY decreaseFontSize.label "Ko'öl">
+<!ENTITY decreaseFontSize.accesskey "l">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Nïm">
+<!ENTITY increaseFontSize.accesskey "m">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Nimilem">
+<!ENTITY fontSizeMenu.accesskey "m">
+<!ENTITY size-tinyCmd.label "Ch'utin">
+<!ENTITY size-tinyCmd.accesskey "C">
+<!ENTITY size-smallCmd.label "Ko'öl">
+<!ENTITY size-smallCmd.accesskey "K">
+<!ENTITY size-mediumCmd.label "Loman">
+<!ENTITY size-mediumCmd.accesskey "L">
+<!ENTITY size-largeCmd.label "Nïm">
+<!ENTITY size-largeCmd.accesskey "N">
+<!ENTITY size-extraLargeCmd.label "Nïm nïm">
+<!ENTITY size-extraLargeCmd.accesskey "m">
+<!ENTITY size-hugeCmd.label "Chom">
+<!ENTITY size-hugeCmd.accesskey "h">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Rub'anikil Rucholajem Tzij">
+<!ENTITY fontStyleMenu.accesskey "b">
+<!ENTITY styleBoldCmd.label "Q'eqatz'ib'">
+<!ENTITY styleBoldCmd.accesskey "Q">
+<!ENTITY styleBoldCmd.key "Q">
+<!ENTITY styleItalicCmd.label "Q'e'etz'ib'">
+<!ENTITY styleItalicCmd.accesskey "e">
+<!ENTITY styleItalicCmd.key "e">
+<!ENTITY styleUnderlineCmd.label "Juxül">
+<!ENTITY styleUnderlineCmd.accesskey "J">
+<!ENTITY styleUnderlineCmd.key "J">
+<!ENTITY styleStrikeThruCmd.label "Juxun">
+<!ENTITY styleStrikeThruCmd.accesskey "x">
 
 
 
