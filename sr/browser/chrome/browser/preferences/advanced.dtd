@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Слање података је онемогућено за ову конфигурацију за изградњу">
 
-<!ENTITY enableHealthReport1.label       "Дозволи &brandShortName;-у да аутоматски шаље техничке податке и податке о коришћењу Mozilla-и">
-<!ENTITY enableHealthReport1.accesskey   "з">
+<!ENTITY enableHealthReport2.label       "Дозволи &brandShortName;-у да шаље техничке и интерактивне податке Mozilla-и">
+<!ENTITY enableHealthReport2.accesskey   "р">
 <!ENTITY healthReportLearnMore.label     "Сазнајте више">
 
 <!ENTITY dataCollection.label            "&brandShortName; сакупљање и коришћење података">

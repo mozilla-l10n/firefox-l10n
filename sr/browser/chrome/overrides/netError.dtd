@@ -18,16 +18,15 @@
 <!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Сервер није пронађен">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Сервер није пронађен">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Хмм. Имамо проблем са проналажењем тог сајта.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Ако је та адреса исправна, ево друге три ствари које можете покушати:</strong>
 <ul>
-  <li>Проверите да ли у адреси има грешака у куцању као што су
-    <strong>ww</strong>.example.com уместо
-    <strong>www</strong>.example.com</li>
-  <li>Ако не можете да учитате ниједну страницу, проверите да ли је веза рачунара са
-    мрежом активна.</li>
-  <li>Ако су рачунар или мрежа заштићени са заштитним зидом или проксијем, проверите да ли је
-    програму &brandShortName; дозвољено да приступа мрежи.</li>
+  <li>Покушајте поново касније.</li>
+  <li>Проверите вашу интернет конекцију.</li>
+  <li>Ако сте конектовани али имате укључен заштитни зид, проверите да ли &brandShortName; има дозволу да приступи вебу.</li>
 </ul>
 ">
 
@@ -56,15 +55,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Отвори страницу пријаве за мрежу">
 
-<!ENTITY malformedURI.title "Адреса је неважећа">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Интернет адресе су обично типа
-    <strong>http://www.example.com/</strong></li>
-  <li>Проверите да ли користите исправне знакове (нпр.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Неисправан URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Хмм. Та адреса не изгледа исправно.">
 
 <!ENTITY netInterrupt.title "Веза је прекинута">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
