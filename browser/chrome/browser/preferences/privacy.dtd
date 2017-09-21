@@ -11,7 +11,7 @@
 <!ENTITY  trackingProtectionPrivate.accesskey  "y">
 <!ENTITY  trackingProtectionNever.label        "항상 사용하지 않기">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
-<!ENTITY  trackingProtectionLearnMore.label    "더 알아보기">
+<!ENTITY  trackingProtectionLearnMore.label    "자세히 보기">
 <!ENTITY  trackingProtectionExceptions.label   "예외…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "더 알아보기">
+<!ENTITY trackingProtectionPBMLearnMore.label "자세히 보기">
 <!ENTITY changeBlockList2.label               "차단 목록 변경중…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "접근성 서비스가 브라우저에 접근하지 못하게 함">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "자세히 보기">
+<!ENTITY enableSafeBrowsingLearnMore.label "자세히 보기">
