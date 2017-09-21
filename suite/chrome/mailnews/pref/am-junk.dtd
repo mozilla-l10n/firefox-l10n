@@ -11,7 +11,21 @@
 <!ENTITY move.accesskey "P">
 <!ENTITY junkFolderOn.label "Folder &quot;Mel Remeh&quot; dalam:">
 <!ENTITY junkFolderOn.accesskey "M">
+<!ENTITY otherFolder.label "Lain-lain:">
+<!ENTITY otherFolder.accesskey "L">
+<!ENTITY purge1.label "Buang secara automatik mel remeh yang melebihi">
+<!ENTITY purge1.accesskey "u">
+<!ENTITY purge2.label "hari">
 
+<!ENTITY whitelistHeader.label "Jangan tandakan secara automatik mel remeh jika pengirim ada di dalam: ">
+<!ENTITY whitelistHeader.accesskey "J">
 
+<!ENTITY ispHeadersWarning.label "Jika diaktifkan, &brandShortName; akan secara automatik mempertimbangkan mesej yang ditanda oleh pengelas luar ini sebagai remeh.">
+<!ENTITY ispHeaders.label "Percaya pengepala mel remeh yang ditetapkan oleh: ">
+<!ENTITY ispHeaders.accesskey "P">
 
+<!ENTITY junkClassification.label "Pemilihan">
+<!ENTITY junkActions.label "Destinasi dan Pengekalan">
 
+<!ENTITY globalJunkPrefs.label "Keutamaan Mel Remeh Global…">
+<!ENTITY globalJunkPrefs.accesskey "G">
