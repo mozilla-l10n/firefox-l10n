@@ -24,7 +24,9 @@
 <!ENTITY tabCrashed.requestReport "Rapporter denne fana">
 <!ENTITY tabCrashed.sendReport3 "Send ein automatisert krasjrapport slik at vi kan løyse problem som dette.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valfri kommentar (som er synleg for ålmenta)">
+<!ENTITY tabCrashed.includeURL3 "Inkluder nettadressene til nettstadane du var på når &brandShortName; krasja.">
 <!ENTITY tabCrashed.emailPlaceholder "Skriv inn e-postadressa di her">
 <!ENTITY tabCrashed.emailMe "Send meg e-post når meir informasjon er tilgjengeleg">
 <!ENTITY tabCrashed.reportSent "Krasjrapport er allereie sendt; takk for at du hjelper til med å gjere &brandShortName; betre!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapporter bakgrunnsfaner">
+<!ENTITY tabCrashed.autoSubmit3 "Oppdater innstillingane for automatisk å sende rapportar når &brandShortName; krasjar.">
