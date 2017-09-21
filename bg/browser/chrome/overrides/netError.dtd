@@ -18,12 +18,9 @@
 <!ENTITY deniedPortAccess.title "Този адрес е ограничен">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Сървърът не е намерен">
-<!ENTITY dnsNotFound.longDesc "<ul>
-  <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>.example.com вместо <strong>www</strong>.example.com</li>
-  <li>Ако не може да отворите друга страница, проверете връзката си с Интернет.</li>
-  <li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали &brandShortName; има право на достъп до Интернет.</li>
-</ul>">
+<!ENTITY dnsNotFound.pageTitle "Сървърът не е намерен">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Хм. Не можем да намерим тази страница">
 
 <!ENTITY fileNotFound.title "Файлът не е намерен">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -44,8 +41,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Страница за вписване в мрежа">
 
-<!ENTITY malformedURI.title "Адресът е невалиден">
-<!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
+<!ENTITY malformedURI.pageTitle "Неправилен адрес">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Хм. Адресът не изглежда правилен">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
