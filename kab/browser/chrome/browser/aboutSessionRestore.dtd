@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Nesḥassef nesɛa uguren akken ad d-nner asebter inek.">
 <!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt nniḍen.">
+<!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad terreḍ, sakin err-d.">
 
 <!ENTITY restorepage.tryagainButton2 "Err-d tiɣimit">
 <!ENTITY restorepage.restore.access2 "R">
