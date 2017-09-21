@@ -18,16 +18,15 @@
 <!ENTITY deniedPortAccess.title "Alamat ini dihadkan">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Pelayan tidak ditemui">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Pelayan Tidak Ditemui">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmmm. Kami menghadapi masalah untuk mencari laman ini.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Jika alamat ini betul, ada tiga cara yang anda boleh cuba:</strong>
 <ul>
-  <li>Semak ralat menaip alamat seperti contohnya
-    <strong>ww</strong>.example.com bukannya
-    <strong>www</strong>.example.com</li>
-  <li>Jika anda tidak dapat memuat sebarang halaman, semak sambungan rangkaian
-    komputer.</li>
-  <li>Jika komputer atau rangkaian dilindungi firewall atau proksi, sila pastikan
-    bahawa &brandShortName; diberi izin mengakses Web.</li>
+  <li>Cuba lagi nanti.</li>
+  <li>Semak sambungan rangkaian.</li>
+  <li>Jika anda sudah disambungkan tetapi ada firewall, semak samada &brandShortName; telah diberi izin untuk mengakses Web ini.</li>
 </ul>
 ">
 
@@ -56,15 +55,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Buka Halaman Log Masuk Rangkaian">
 
-<!ENTITY malformedURI.title "Alamat tidak sah">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Alamat Web biasanya ditulis seperti
-    <strong>http://www.example.com/</strong></li>
-  <li>Pastikan anda gunakan garis miring (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "URL tak sah">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmmm. Alamat ini nampaknya tidak betul.">
 
 <!ENTITY netInterrupt.title "Sambungan terganggu">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
