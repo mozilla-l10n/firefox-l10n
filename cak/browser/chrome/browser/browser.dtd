@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Tatzija' ri kiximoj taq ruwi' richin natz'ët kicholajem taq ruwi' pa ch'aqa' chik taq okisaxel.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kekanöx ri taq ruwi' eximon">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Titzij ri chajinïk">
 <!ENTITY trackingProtection.block2.accesskey "T">
 
-<!ENTITY trackingContentBlocked.message "Kanoxïk">
-<!ENTITY trackingContentBlocked.moreinfo "Ri taq ruperaj re ruxaq re', ri nikikanoj ri taq asamaj pa b'ey, xeq'eleb'ëx.">
-<!ENTITY trackingContentBlocked.learnMore "Tetamäx ch'aqa' chik">
-<!ENTITY trackingContentBlocked.options "Taq cha'oj">
-<!ENTITY trackingContentBlocked.unblock2.label "Tichup ruwäch ri chajixïk pa re ruxaq k'amaya'l re'">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "T">
-<!ENTITY trackingContentBlocked.block.label "Titzij ri chajinïk">
-<!ENTITY trackingContentBlocked.block.accesskey "T">
-<!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajinïk chuwäch ojqanïk">
-
 <!ENTITY pluginNotification.showAll.label "Tik'ut pe ronojel">
 <!ENTITY pluginNotification.showAll.accesskey "T">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
 
 <!ENTITY libraryButton.tooltip "Titz'et ri natab'äl, yakon taq yaketal, chuqa' ch'aqa' chik">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Etzijon ri taq Rub'anikil Okem">
