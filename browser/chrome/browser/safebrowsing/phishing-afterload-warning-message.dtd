@@ -40,6 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> foi <a id='error_desc_link'>relatado como contendo software prejudicial</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Saiba mais sobre software nocivo e indesejável no <a id='learn_more_link'>Política de Software Indesejável</a>. Saiba mais sobre Proteção contra Malware e Fraude online do &brandShortName; em <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Site enganoso à frente">
@@ -50,6 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> foi <a id='error_desc_link'>relatado como um site enganoso</a>. Você pode <a id='report_detection'>relatar um problema de detecção</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Saiba mais sobre sites enganosos e fraudes online em <a id='learn_more_link'>www.antiphishing.org</a>. Saiba mais sobre a Proteção contra Malware e Fraude online do &brandShortName; em <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "O seguinte site pode conter malware">
