@@ -2,8 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY mozilla.title.15.1 "Knigły Mozilla, 15:1">
+<!ENTITY mozilla.title.11.14
+'Knigły Mozilla, 11:14'>
 
-<!ENTITY mozilla.quote.15.1 "<em>Dwójniki</em> Mammona stej se waźiłej. Jeju warnowanje jo swět do <em>noweje śamnosći</em> starcyło, a bestiji  jo śamnosć gromjeła. Togodla jo chopiła se <em>malsnje</em> gibaś, a jo se zmócniła a jo doprědka šła a jo se rozměwała. A bestije su <em>wogeń</em> a swětło do śamnosći donjasli.">
+<!ENTITY mozilla.quote.11.14
+'The Beast adopted <em>new raiment</em> and studied the ways of <em>Time</em> and <em>Space</em> 
+and <em>Light</em> and the <em>Flow</em> of energy through the Universe. From its studies, 
+the Beast fashioned new structures from <em>oxidised metal</em> and proclaimed their glories. 
+And the Beast’s followers rejoiced, finding renewed purpose in these <em>teachings</em>.'>
 
-<!ENTITY mozilla.from.15.1 "z <strong>Knigłow Mozilla,</strong> 15:1">
+<!ENTITY mozilla.from.11.14
+'from <strong>The Book of Mozilla,</strong> 11:14'>

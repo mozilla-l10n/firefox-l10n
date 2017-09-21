@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Pytanje za zmólkami">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Žrědłowe kórty zmóžniś">
-<!ENTITY options.sourceMaps.tooltip    "Jolic zmóžnjaśo toś to nastajenje, žrědła kartěruju se w pytanju za zmólkami a w konsoli.">
+<!ENTITY options.sourceMaps.tooltip1   "Joliv toś to nastajenje zmóžnjaśo, se žrědła w rědach kartěruju.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stilowy editor">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Originalne žrědła pokazaś">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Originalne žrědła (na pś. Sass-dataje) w stilowem editorje a Inspektorje pokazaś">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Zapušćeński zuk kamery wótgraś">
 <!ENTITY options.screenshot.audio.tooltip    "Zmóžnja awdiozuk kamery, gaž foto wobrazowki so cyni">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Seś">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Stawne protokole zmóžniś">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Jolic zmóžnijośo toś to nastajenje, seśowy monitor wudaśe, kuždy raz, gaž woglědujośo se k nowemu bokoju, njewulašujo">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
