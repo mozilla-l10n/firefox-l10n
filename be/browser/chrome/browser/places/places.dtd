@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Дададзена">
 <!ENTITY col.lastmodified.label  "Апошняе змяненне">
 
-<!ENTITY search.placeholder  "Пошук">
+<!ENTITY historySearch.placeholder  "Шукаць у гісторыі">
+<!ENTITY bookmarksSearch.placeholder  "Шукаць у закладках">
 
 <!ENTITY cmd.find.key  "f">
 
