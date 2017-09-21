@@ -2,3 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutNetworking.title                 "За вмрежување">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.refresh               "Освежи">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.idle                  "Во мирување">
+<!ENTITY aboutNetworking.host                  "Домаќин">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Испратени">
+<!ENTITY aboutNetworking.received              "Примени">
+<!ENTITY aboutNetworking.family                "Фамилија">
+<!ENTITY aboutNetworking.addresses             "Адреси">
+<!ENTITY aboutNetworking.messagesSent          "Испратени пораки">
+<!ENTITY aboutNetworking.messagesReceived      "Примени пораки">
+<!ENTITY aboutNetworking.bytesSent             "Испратени бајти">
+<!ENTITY aboutNetworking.bytesReceived         "Примени бајти">
+<!ENTITY aboutNetworking.dnsLookup             "Пребарување на DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Разреши">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Отворени">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Прочитани">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Запишани">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Краток просек">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Долг просек">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Долго стандардно отстапување">
