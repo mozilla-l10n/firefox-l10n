@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "抱歉，還原您的分頁時遇到一點麻煩。">
+<!ENTITY restorepage.problemDesc2   "還原您上次的瀏覽階段時遇到一點問題，請選擇「回復瀏覽狀態」再試一次。">
+<!ENTITY restorepage.tryThis2       "還是無法還原瀏覽階段嗎？有時可能是某個分頁在造成問題。請看看下列先前開啟的分頁中有哪些是不需要還原的，取消勾選後再還原。">
 
 <!ENTITY restorepage.tryagainButton2 "回復瀏覽狀態">
 <!ENTITY restorepage.restore.access2 "R">
