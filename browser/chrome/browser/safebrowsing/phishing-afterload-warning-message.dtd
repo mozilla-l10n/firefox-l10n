@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Cu how wen!">
-<!ENTITY safeb.palm.decline.label "Toś to warnowanje ignorěrowaś">
+<!ENTITY safeb.palm.accept.label2 "Slědk">
+<!ENTITY safeb.palm.seedetails.label "Glejśo drobnostki">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,45 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Cogodla jo se toś ten bok zablokěrował?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "wót <a id='advisory_provider'/> póraźujucy">
+<!ENTITY safeb.palm.advisory.desc2 "Rada dana wót <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "Napadujucy bok jo se k wěsći dał!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Toś ten webbok na <span id='malware_sitename'/> jo se ako napadujucy bok k wěsći dał a na zakłaźe wašych wěstotnych nastajenjow zablokěrował.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Napadujuce boki wopytuju programy instalěrowaś, kótarež kšadnu priwatne informacije, wužywaju wašo licadło, aby druge napadnuli abo waš system škódowali.</p><p>Někotare napadujuce boki rozdźěluju z wótglědom škódnu softwaru, ale wjele z nich wobgrozujo se bźez wěźenja abo dowólenja jich wobsejźarjow.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Bok z njewitaneju softwaru k wěsći dane!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Toś ten webbok na <span id='unwanted_sitename'/> jo se bok k wěsći dał, kótaryž wopśimuju njewitanu softwaru a na zakłaźe wašych wěstotnych nastajenjow zablokěrował.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Boki z njewitaneju softwaru wopytuju softwaru instalěrowaś, kótaraž móžo wobšudna byś a kótaraž móžo waš system na njewótcakane nałogi wobwliwowaś.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Woglěd toś togo websedła móžo wašo licadło póškóźiś">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; jo toś ten bok zablokěrował, dokulaž mógał wopytowaś, škódnu software instalěrowaś, kótaraž mógła wósobinske daty na wašom licadle kšadnuś abo wulašowaś.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Wobšudnikojske sedło!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Toś ten webbok na <span id='phishing_sitename'/> jo se ako wobšudnikojske sedło k wěsći dał a na zakłaźe wašych wěstotnych nastajenjow zablokěrował.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Wobšudnkojske sedła su za to myslone, was zawjedowaś, něco tšašnego cyniś, ako na pś. instalěrowanje softwary abo pśeraźowanje wašych wósobinskich datow, na pś. gronidłow, telefonowych numerow abo numerow kreditnych kórtow.</p><p>Gaž daty na toś tom webboku zapódajośo, móžo to ku kšadnjenjeju identity abo drugej wobšuźe wjasć.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Jo se k wěsći dało, až sedło <span id='malware_sitename'/> <a id='error_desc_link'>škódnu software wopśimujo</a>. Móžośo <a id='report_detection'>problem ze spóznaśim k wěsći daś</a> abo<a id='ignore_warning_link'>riziko ignorěrowaś</a>, aby se k toś tomu njewěstemu sedłojo woglědał.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Jo se k wěsći dało, až sedło <span id='malware_sitename'/> <a id='error_desc_link'>škódnu software wopśimujo</a>. Móžośo <a id='report_detection'>problem ze spóznaśim k wěsći daś</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Zgóńśo <a id='learn_more_link'>StopBadware.org</a>wěcej wó škódnem webwopśimjeśu inkluziwnje wiruse a drugu škódnu software a kak móžośo swójo licadło šćitaś. Zgóńśo wěcej wó šćiśe pśeśiwo kšadnjenjeju datow a škódnej software pśez &brandShortName; na <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "Toś to sedło móžo škódne programy wopśimowaś">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; jo toś ten bok blokěrował, dokulaž mógał wopytowaś, was zawjedowaś, programy instalěrowaś, kótarež wašomu pśeglědowańskemu dožywjenjeju škóźeś (na pśikład pśez to, až waš startowy bok změnjaju abo pśidatne wabjenje na sedłach, ku kótaremuž se woglědujośo, pokazuju).">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Jo se k wěsći dałoo, až sedło <span id='unwanted_sitename'/><a id='error_desc_link'>škódnu software wopśimujo</a>. Móžośo <a id='ignore_warning_link'>riziko ignorěrowaś</a> a k toś tomu njewěstemu sedłoju woglědał.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Jo se k wěsći dało, až sedło <span id='unwanted_sitename'/><a id='error_desc_link'>škódnu software wopśimujo</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Zgóńśo wěcej wó škódnej a njewitanej software w <a id='learn_more_link'>pšawidłach wó njewitanej software</a>. Zgóńśo na <a id='firefox_support'>support.mozilla.org</a> wěcej wó šćiśe pśeśiwo kšadnjenjeju datow a škódnym programam.">
+
+
+<!ENTITY safeb.blocked.phishingPage.title3 "Wobšudne sedło">
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sedło prědku móžo škódnu software wopśimowaś">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; jo toś ten bok zablokěrował, dokulaž mógła tšašne nałoženja instalěrowaś, kótarež waše daty kšadnu abo lašuju (na pśikład fota, gronidła, powěsći a kreditowe kórty).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+

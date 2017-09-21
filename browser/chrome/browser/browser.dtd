@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronizěrowane rejtarki pytaś">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Šćit zmóžniś">
 <!ENTITY trackingProtection.block2.accesskey "z">
 
-<!ENTITY trackingContentBlocked.message "Slědowanje">
-<!ENTITY trackingContentBlocked.moreinfo "Źěle boka, kótarež slěduju wašu online-aktiwitu, su se blokěrowali.">
-<!ENTITY trackingContentBlocked.learnMore "Dalšne informacije">
-<!ENTITY trackingContentBlocked.options "Nastajenja">
-<!ENTITY trackingContentBlocked.unblock2.label "Šćit za toś to sydło znjemóžniś">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
-<!ENTITY trackingContentBlocked.block.label "Šćit zmóžniś">
-<!ENTITY trackingContentBlocked.block.accesskey "z">
-<!ENTITY trackingContentBlocked.disabled.message "Šćit pśeśiwo slědowanjeju jo znjemóžnjony">
-
 <!ENTITY pluginNotification.showAll.label "Wšykno pokazaś">
 <!ENTITY pluginNotification.showAll.accesskey "W">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 
 <!ENTITY libraryButton.tooltip "Historiju, skłaźone cytańske znamjenja a wěcej pokazaś">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funkcije bźezbariernošći zmóžnjone">
