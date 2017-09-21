@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ditambah">
 <!ENTITY col.lastmodified.label  "Penyesuaian Terakhir">
 
-<!ENTITY search.placeholder  "Cari">
+<!ENTITY historySearch.placeholder  "Sejarah carian">
+<!ENTITY bookmarksSearch.placeholder  "Cari tandabuku">
 
 <!ENTITY cmd.find.key  "f">
 
