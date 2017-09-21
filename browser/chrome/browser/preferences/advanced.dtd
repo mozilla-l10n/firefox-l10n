@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Dữ liệu báo cáo bị vô hiệu hóa với cấu hình này">
 
-<!ENTITY enableHealthReport1.label       "Cho phép &brandShortName; tự động gửi dữ liệu kỹ thuật và sự tương tác tới Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Cho phép &brandShortName; gửi dữ liệu kỹ thuật và tương tác tới Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY dataCollection.label            "Thu thập và sử dụng dữ liệu &brandShortName;">

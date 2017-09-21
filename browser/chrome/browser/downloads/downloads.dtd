@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Hiển thị trong Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Mở thư mục tải xuống">
 <!ENTITY cmd.retry.label                  "Thử lại">
 <!ENTITY cmd.goToDownloadPage.label       "Đến trang tải về">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
@@ -133,6 +134,12 @@
      -->
 <!ENTITY downloadsHistory.label           "Xem tất cả tải về">
 <!ENTITY downloadsHistory.accesskey       "c">
+
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Chi tiết về tải về">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
