@@ -91,6 +91,7 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "Прикажи повеќе информации">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
@@ -130,10 +131,16 @@
 <!ENTITY downloadsHistory.label           "Прикажи ги сите преземања">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.
      -->
+<!ENTITY openDownloadsFolder.label        "Отвори папка за преземања">
 
 <!ENTITY clearDownloadsButton.label       "Исчисти ги преземањата">
 <!ENTITY clearDownloadsButton.tooltip     "Ги чисти списокот од завшени, откажани и неуспешни преземања">
