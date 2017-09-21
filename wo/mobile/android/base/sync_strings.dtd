@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Tàmbali'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Da ngay jëfandikoo sumb bu yàgg bu &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Dugg nga niki'>
-<!ENTITY fxaccount_status_manage_account 'Yor sa sàq'>
 <!ENTITY fxaccount_status_auth_server 'Sàqu joxekaay'>
 <!ENTITY fxaccount_status_sync_now 'Look léegi'>
 <!ENTITY fxaccount_status_syncing2 'Di lonkoo…'>
 <!ENTITY fxaccount_status_device_name 'Turu jumtukaay bi'>
 <!ENTITY fxaccount_status_sync_server 'Joxekaayu lonkoo'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: doxees'>
 <!ENTITY fxaccount_status_needs_verification2 'Faww settantalees sa sàq. Bësal ngir yóonneewaat emailu settantal gi.'>
 <!ENTITY fxaccount_status_needs_credentials 'Maneesul am lonkoo. Bësal ngir dugg.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Faww nga yeesal &brandShortName; ngir dugg.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; jekk na, waaye manul lonk boppam. Demal nga doxal “Lonk boppam” ci Jekk-jekkali Android &gt; Njëfandikoog Njoxéef yi.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; jekk na, waaye manul lonk boppam. Doxalal “Lonk boppam” ci njëlu Jekk-jekkali Android &gt; Sàq.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Bësal ngir dugg ci sa Sàqu Firefox bu bees bi.'>
+<!ENTITY fxaccount_status_choose_what 'Tànnal looy lonkale'>
 <!ENTITY fxaccount_status_bookmarks 'Màndarga-xët'>
 <!ENTITY fxaccount_status_history 'Jaar-jaar'>
 <!ENTITY fxaccount_status_passwords2 'Duggukaay'>
 <!ENTITY fxaccount_status_tabs 'Làcc yi ubbeeku'>
+<!ENTITY fxaccount_status_additional_settings 'Yeneen Jekk-jekkal'>
 <!ENTITY fxaccount_status_legal 'Yoon' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Anami njëfanfikoo gi'>
 <!ENTITY fxaccount_status_linkprivacy2 'Xamaley sutura'>
-<!ENTITY fxaccount_status_more 'Leneen&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Génn&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Génn Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Tànneef'>
 <!ENTITY fxaccount_options_configure_title 'Jekk-jekkal &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Faww nga yeesal Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Sàq mi am na ba noppi. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email walla baatu-jàll bu baaxul'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email walla baatu-jàll bu baaxul'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Settantalaguñ sàq mi'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Joxekaay bi daa jàpp, jéemaatal ci kanam'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Joxekaay bi daa jàpp, jéemaatal ci kanam'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Jafe-jafe la woon'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Téye nañ sàq mi. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; lonkuwul'>
 <!-- Localization note: the format string below will be replaced
