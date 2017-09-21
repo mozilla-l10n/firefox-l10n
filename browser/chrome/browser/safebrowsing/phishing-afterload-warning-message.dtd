@@ -31,7 +31,7 @@
 <!ENTITY safeb.blocked.malwarePage.learnMore "Zhońće <a id='learn_more_link'>StopBadware.org</a>wjace wo škódnym webwobsahu inkluziwnje wirusy a druhu škódnu softwaru a kak móžeće swój ličak škitać. Zhońće wjace wo škiće přećiwo kradnjenju datow a škódnej softwarje přez &brandShortName; na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-<!ENTITY safeb.blocked.unwantedPage.title2 "Tute sydło móže škódne programe wobsahować">
+<!ENTITY safeb.blocked.unwantedPage.title2 "Tute sydło móže škódne programy wobsahować">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; je tutu stronu zablokował, dokelž móhła pospytować, was zawjedować, programy instalować, kotrež wašemu přehladowanskemu dožiwjenju škodźeć (na přikład přez to, zo wašu startowu stronu měnjeja abo přidatne wabjenje na sydłach, kotrež wopytujeće, pokazuja).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
