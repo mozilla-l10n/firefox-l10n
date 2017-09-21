@@ -18,12 +18,15 @@
 <!ENTITY tabCrashed.header2 "Via langeto ĵus paneis.">
 <!ENTITY tabCrashed.offerHelp2 "Ni povas helpi!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Elektu &tabCrashed.restoreTab; por reŝargi la paĝon.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Elektu «&tabCrashed.restoreTab;» por reŝargi la paĝon aŭ «&tabCrashed.restoreAll;» por reŝargi la paĝojn.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Elektu «&tabCrashed.restoreTab;» aŭ «&tabCrashed.restoreAll;» por reŝargi la paĝon (aŭ paĝojn).">
 <!ENTITY tabCrashed.requestHelp "Ĉu vi helpos nin?">
 <!ENTITY tabCrashed.requestHelpMessage "Raportoj pri paneoj helpas nin diagnozi problemojn kaj plibonigi &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Raporti tiun ĉi langeton">
+<!ENTITY tabCrashed.sendReport3 "Sendi aŭtomatan raporton pri paneo, tiel ke ni povos solvi ĉi tiajn problemojn.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Nedevigaj komentoj (komentoj estas publike videblaj)">
+<!ENTITY tabCrashed.includeURL3 "Inkluzivi la retadreson de la retejoj kiujn vi vizitis kiam &brandShortName; paneis.">
 <!ENTITY tabCrashed.emailPlaceholder "Tajpu vian retpoŝtan adreson ĉi tie">
 <!ENTITY tabCrashed.emailMe "Sendi retpoŝton kiam pli da informo estas havebla">
 <!ENTITY tabCrashed.reportSent "Raporto pri paneo sendita, dankon, vi helpas nin plibonigi &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Raporti fonajn langetojn">
+<!ENTITY tabCrashed.autoSubmit3 "Ĝisdatigi preferojn por aŭtomate sendi raportojn kiam &brandShortName; paneas.">
