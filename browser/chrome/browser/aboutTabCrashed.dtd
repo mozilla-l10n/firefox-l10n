@@ -22,9 +22,9 @@
 <!ENTITY tabCrashed.requestHelp "Budźeće nam pomhać?">
 <!ENTITY tabCrashed.requestHelpMessage "Rozprawy wo spadach nam pomhaja, problemy diagnosticěrować a &brandShortName; polěpšeć.">
 <!ENTITY tabCrashed.requestReport "Tutón rajtark zdźělić">
-<!ENTITY tabCrashed.sendReport3 "Sćelće awtomatisku roprazwu spady, zo bychmy móhli problemy kaž tutón rozrisać.">
+<!ENTITY tabCrashed.sendReport3 "Sćelće awtomatisku rozprawu spady, zo bychmy móhli problemy kaž tutón rozrisać.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Opcionalne komentary (komentary su zjawnje widźomne)">
-<!ENTITY tabCrashed.includeURL3 "Zapřijmiće URL sydko, kotrež sće wopytał, hdyž &brandShortName; spadny.">
+<!ENTITY tabCrashed.includeURL3 "Zapřijmiće URL sydło, kotrež sće wopytał, hdyž &brandShortName; spadny.">
 <!ENTITY tabCrashed.emailPlaceholder "Zapisajće tu swoju e-mejlowu adresu">
 <!ENTITY tabCrashed.emailMe "Pósćelće mi e-mejlku, hdyž dalše informacije k dispoziciji steja">
 <!ENTITY tabCrashed.reportSent "Rozprawa wo spadach je so hižo wotpósłała; wulki dźak, zo sće pomhał, &brandShortName; polěpšić!">
