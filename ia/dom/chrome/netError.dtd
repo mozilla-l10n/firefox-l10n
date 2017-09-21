@@ -1,0 +1,47 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Error de cargamento del pagina">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Falta al connexion">
+
+
+<!ENTITY dnsNotFound.title "Adresse non trovate">
+
+<!ENTITY fileNotFound.title "File non trovate">
+
+
+
+<!ENTITY malformedURI.title "Adresse non valide">
+
+
+<!ENTITY notCached.title "Documento expirate">
+
+
+
+<!ENTITY unsafeContentType.title "Typo de file non secur">
+
+<!ENTITY netReset.title "Connexion interrumpite">
+
+
+
+
+<!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
+
+
+
+<!ENTITY nssFailure2.title "Connexion secur fallite">
+
+<!ENTITY nssBadCert.title "Connexion secur fallite">
+
+
+
+<!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
+
+<!ENTITY remoteXUL.title "XUL remote">
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
