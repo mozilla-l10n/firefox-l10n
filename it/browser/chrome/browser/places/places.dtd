@@ -72,7 +72,8 @@
 <!ENTITY col.description.label "Descrizione">
 <!ENTITY col.dateadded.label "Data inserimento">
 <!ENTITY col.lastmodified.label "Ultima modifica">
-<!ENTITY search.placeholder "Cerca">
+<!ENTITY historySearch.placeholder "Cerca nella cronologia">
+<!ENTITY bookmarksSearch.placeholder "Cerca nei segnalibri">
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Importa e salva">
 <!ENTITY maintenance.accesskey "m">
