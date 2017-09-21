@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ekleme tarihi">
 <!ENTITY col.lastmodified.label  "Son değişiklik">
 
-<!ENTITY search.placeholder  "Arama">
+<!ENTITY historySearch.placeholder  "Geçmişte ara">
+<!ENTITY bookmarksSearch.placeholder  "Yer imlerinde ara">
 
 <!ENTITY cmd.find.key  "f">
 
