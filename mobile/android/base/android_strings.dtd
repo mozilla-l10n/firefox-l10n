@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "கீற்றுகளை மீட்டமை, தரவு சேமி, உருவாக்குநர் கருவிகள்">
 <!ENTITY pref_category_notifications "அறிவிப்புகள்">
 <!ENTITY pref_category_notifications_summary "புதிய வசதிகள், வலைத்தள புதுப்பிப்புகள்">
-<!ENTITY pref_content_notifications "வலைத்தள புதுப்பிப்புகள்">
-<!ENTITY pref_content_notifications_summary2 "ஆதரவுள்ள தளங்களிலிருந்து புதிய உள்ளடக்கத்தை கண்டுபிடி">
 <!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
 <!ENTITY pref_developer_remotedebugging_wifi "அருகலை வழி வழுநீக்கம்">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "அருகலை ஊடாக வழுநீக்க உங்கள் கருவியில் QR குறி படிக்கும் செயலி நிறுவப்பட்டிருக்க வேண்டும்.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "ஒரு பக்கத்தை ஏற்றும்போது தொலை எழுத்துருவை பதிவிறக்குக">
 
 <!ENTITY pref_tracking_protection_title2 "தடமறியல் பாதுகாப்பு">
-<!ENTITY pref_tracking_protection_summary3 "தனிப்பட்ட உலாவு முறையில் உள்ளது">
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
@@ -334,23 +331,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "\&quot;பல தொடுப்புகளை திறக்க\&quot;, \&apos;பிற செயலிகளின் மேல் வரை\&apos; அனுமதியை &brandShortName; என்பதற்கு வழங்கவும்">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; வலைத்தளம் புதுப்பிக்கப்பட்டது">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "அமைவுகள்">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "இப்போது வாசிக்கவும்">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "&formatS; அன்று புதுப்பிக்கப்பட்டது">
 
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
@@ -514,7 +494,17 @@
 <!ENTITY contextmenu_top_sites_edit "திருத்து">
 <!ENTITY contextmenu_top_sites_pin "இணையத்தளத்தை சொருகு">
 <!ENTITY contextmenu_top_sites_unpin "இணையத்தள சொருகலை நீக்கு">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "முக்கியத் தளங்கள்">
+<!ENTITY contextmenu_unpin_from_top_sites "முக்கியத் தளத்திலிருந்து நீக்கு">
 <!ENTITY contextmenu_add_search_engine "தேடும் பொறியைச் சேர்">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "முக்கியத் தளங்களில் பக்கத்தைப் பொருத்து">
+<!ENTITY unpinned_page_from_top_sites "முக்கிய தளங்களில் பக்கத்தை நீக்கு">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -837,6 +827,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; பரிந்துரைத்தது">
 <!ENTITY activity_stream_highlights "மிளிர்ப்புகள்">
+
+<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!ENTITY activity_stream_link_more "மேலும்">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
