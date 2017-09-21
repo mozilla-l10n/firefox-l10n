@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Bedaŭrinde ni renkontis problemon dum la reakiro de viaj paĝoj.">
 <!ENTITY restorepage.problemDesc2   "Ni rekontis problemon dum la restarigo de via lasta retuma seanco. Elektu «Restarigi seancon» por klopodi denove.">
+<!ENTITY restorepage.tryThis2       "Ĉu vi ankoraŭ ne sukcesas restarigi vian seancon? Kelkfoje langeto estas la problemo. Vidu antaŭajn langetojn, forigu la markon de la langetoj, kiujn vi ne bezonas restarigi, kaj klopodu denove.">
 
 <!ENTITY restorepage.tryagainButton2 "Restarigi seancon">
 <!ENTITY restorepage.restore.access2 "R">
