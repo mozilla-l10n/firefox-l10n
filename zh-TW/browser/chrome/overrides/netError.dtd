@@ -21,6 +21,12 @@
 <!ENTITY dnsNotFound.pageTitle "找不到伺服器">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "呃…找不到這個網站。">
+<!ENTITY dnsNotFound.longDesc1 "<strong>若網址正確無誤，還可試試下列方式:</strong>
+<ul>
+  <li>稍候再試。</li>
+  <li>檢查網路連線是否正常。</li>
+  <li>若透過防火牆連線，請檢查 &brandShortName; 是否有權連線到網際網路。</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
