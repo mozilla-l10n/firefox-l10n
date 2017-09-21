@@ -6,16 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Јако нам је жао.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; има проблема да обнови прозоре и језичке. Узрок овоме је обично недавно отворена веб страница.">
-<!ENTITY restorepage.tryThis        "Можете да пробате:">
-<!ENTITY restorepage.restoreSome    "Уклањањем једног или више језичака за које мислите да су узрок проблема">
-<!ENTITY restorepage.startNew       "Покретањем нове сесије">
+<!ENTITY restorepage.errorTitle2    "Жао нам је. Имамо проблем са повраћајем ваших страница.">
+<!ENTITY restorepage.problemDesc2   "Имамо проблем са обнављањем ваше последње сесије. Покушајте поново да је обновите.">
 
-<!ENTITY restorepage.tryagainButton "Обнови">
-<!ENTITY restorepage.restore.access "О">
-<!ENTITY restorepage.closeButton    "Затвори">
-<!ENTITY restorepage.close.access   "З">
 
 <!ENTITY restorepage.restoreHeader  "Обнављање">
 <!ENTITY restorepage.listHeader     "Прозори и језичци">
