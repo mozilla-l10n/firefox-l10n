@@ -174,15 +174,40 @@
 <!ENTITY alignJustify.tooltip "Tichojtz'aqatisäx">
 
 <!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Ruwa">
+<!ENTITY layerSendToBack.tooltip "Titaq Chupam">
+<!ENTITY layerBringToFront.tooltip "Tik'am pe chuwa">
 
 
 
 <!-- Table Menu -->
+<!ENTITY tableMenu.label "Kemoj kajtz'ik">
+<!ENTITY tableMenu.accesskey "k">
 
 <!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Ticha'">
+<!ENTITY tableSelectMenu.accesskey "c">
 
+<!ENTITY tableSelectMenu2.label "Ticha' ri Kemoj Kajtz'ik">
+<!ENTITY tableSelectMenu2.accesskey "c">
+<!ENTITY tableInsertMenu2.label "Tich'ik Kemoj Kajtz'ik">
+<!ENTITY tableInsertMenu2.accesskey "h">
+<!ENTITY tableDeleteMenu2.label "Tiyuj ri Kemoj Kajtz'ik">
+<!ENTITY tableDeleteMenu2.accesskey "y">
 
 <!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Tich'ik">
+<!ENTITY tableInsertMenu.accesskey "h">
+<!ENTITY tableTable.label "Kemoj kajtz'ik">
+<!ENTITY tableTable.accesskey "a">
+<!ENTITY tableRow.label "Cholaj">
+<!ENTITY tableRows.label "(taq)Cholaj">
+<!ENTITY tableRow.accesskey "h">
+<!ENTITY tableRowAbove.label "Ajsik Cholaj">
+<!ENTITY tableRowAbove.accesskey "C">
+<!ENTITY tableRowBelow.label "Ikim Cholaj">
+<!ENTITY tableRowBelow.accesskey "I">
+<!ENTITY tableColumn.label "Tem">
 <!-- Delete SubMenu -->
 
 <!-- text for "Join Cells" is in editor.properties
