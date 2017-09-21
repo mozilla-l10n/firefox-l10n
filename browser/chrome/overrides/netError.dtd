@@ -18,16 +18,8 @@
 <!ENTITY deniedPortAccess.title "Endereço restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servidor não encontrado">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Verifique se há erro de digitação no endereço tais como 
-<strong>ww</strong>.example.com em vez de 
-<strong>www</strong>.example.com</li> 
-<li>Se não conseguir carregar qualquer página, verifique a conexão de rede 
-do seu computador.</li> 
-<li>Se o seu computador ou rede estão protegidos por uma firewall ou um proxy, verifique se o 
-&brandShortName; tem permissão de acesso à Web.</li> 
-</ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Estamos tendo problemas para encontrar este site.">
 
 <!ENTITY fileNotFound.title "Arquivo não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -48,13 +40,9 @@ do seu computador.</li> 
 
 <!ENTITY openPortalLoginPage.label2 "Abrir página de acesso a rede">
 
-<!ENTITY malformedURI.title "Endereço inválido">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Endereços web são geralmente escritos como 
-<strong>http://www.example.com/</strong></li> 
-<li>Verifique se está usando as barras corretamente 
-(isto é, <strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.pageTitle "URL invalida">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Este endereço não parece correto.">
 
 <!ENTITY netInterrupt.title "A conexão foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
