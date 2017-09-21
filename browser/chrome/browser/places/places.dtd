@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Lisatud">
 <!ENTITY col.lastmodified.label  "Viimati muudetud">
 
-<!ENTITY search.placeholder  "Otsi">
+<!ENTITY historySearch.placeholder  "Otsi ajaloost">
+<!ENTITY bookmarksSearch.placeholder  "Otsi järjehoidjatest">
 
 <!ENTITY cmd.find.key  "F">
 
