@@ -25,7 +25,7 @@
 <!ENTITY report.failed                                       "Betg reussì da trametter.">
 <!ENTITY report.unavailable                                  "Nagina annunzia disponibla.">
 <!ENTITY report.comment                                      "Agiuntar in commentari (ils commentaris vegnan publitgads)">
-<!ENTITY report.pageURL                                      "Integrar la URL da la pagina">
+<!ENTITY report.pageURL                                      "Integrar l'URL da la pagina">
 
 <!ENTITY plugin.file                                         "Datoteca">
 <!ENTITY plugin.mimeTypes                                    "Tips da MIME">
