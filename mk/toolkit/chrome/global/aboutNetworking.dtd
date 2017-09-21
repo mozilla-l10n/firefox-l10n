@@ -3,11 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "За вмрежување">
+<!ENTITY aboutNetworking.showNextTime          "Покажи го предупредувањето следен пат">
+<!ENTITY aboutNetworking.ok                    "Во ред">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.sockets               "Сокети">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.refresh               "Освежи">
+<!ENTITY aboutNetworking.autoRefresh           "Автоматски освежувај на секои 3 секунди">
+<!ENTITY aboutNetworking.port                  "Порта">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Активен">
 <!ENTITY aboutNetworking.idle                  "Во мирување">
 <!ENTITY aboutNetworking.host                  "Домаќин">
 <!ENTITY aboutNetworking.tcp                   "TCP">
@@ -15,12 +21,16 @@
 <!ENTITY aboutNetworking.received              "Примени">
 <!ENTITY aboutNetworking.family                "Фамилија">
 <!ENTITY aboutNetworking.addresses             "Адреси">
+<!ENTITY aboutNetworking.expires               "Истекува (секунди)">
 <!ENTITY aboutNetworking.messagesSent          "Испратени пораки">
 <!ENTITY aboutNetworking.messagesReceived      "Примени пораки">
 <!ENTITY aboutNetworking.bytesSent             "Испратени бајти">
 <!ENTITY aboutNetworking.bytesReceived         "Примени бајти">
 <!ENTITY aboutNetworking.dnsLookup             "Пребарување на DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Разреши">
+<!ENTITY aboutNetworking.dnsDomain             "Домен">
+<!ENTITY aboutNetworking.rcwn                  "Статистика за RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Статус на RCWN">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Отворени">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Прочитани">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Запишани">
