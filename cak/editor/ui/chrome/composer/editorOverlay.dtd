@@ -242,9 +242,40 @@
 <!ENTITY tableProperties.accesskey "i">
 
 <!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Rukajtz'ik K'utusamaj">
+<!ENTITY cutToolbarCmd.tooltip "Tiqupïx">
+<!ENTITY copyToolbarCmd.tooltip "Tiwachib'ëx">
+<!ENTITY pasteToolbarCmd.tooltip "Titz'ajb'äx">
+<!ENTITY printToolbarCmd.label "Titz'ajb'äx">
+<!ENTITY printToolbarCmd.tooltip "Titz'ajb'äx re ruxaq re'">
+<!ENTITY findToolbarCmd.label "Tikanöx">
+<!ENTITY findToolbarCmd.tooltip "Tikanöx rucholajem tzij pa ruxaq">
+<!ENTITY imageToolbarCmd.label "Wachib'äl">
+<!ENTITY hruleToolbarCmd.label "H.Line">
+<!ENTITY tableToolbarCmd.label "Kemoj kajtz'ik">
+<!ENTITY linkToolbarCmd.label "Ximonel">
 
 <!-- Editor toolbar -->
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ko'öl runimilem ruwäch tz'ib'">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Nïm runimilem ruwäch tz'ib'">
+<!ENTITY boldToolbarCmd.tooltip "Q'eqatz'ib'">
+<!ENTITY italicToolbarCmd.tooltip "Q'e'etz'ib'">
+<!ENTITY underlineToolbarCmd.tooltip "Juxül">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Ticha'">
+<!ENTITY structSelect.accesskey     "c">
+<!ENTITY structRemoveTag.label      "Tiyuj etal">
+<!ENTITY structRemoveTag.accesskey  "y">
+<!ENTITY structChangeTag.label      "Tijal etal">
+<!ENTITY structChangeTag.accesskey  "j">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Tich'ik">
+<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY updateTOC.label          "Tik'ex">
+<!ENTITY updateTOC.accesskey      "k">
+<!ENTITY removeTOC.label          "Tiyuj">
+<!ENTITY removeTOC.accesskey      "y">
+<!ENTITY tocMenu.label            "Kipam Kemoj Kajtz'ik…">
+<!ENTITY tocMenu.accesskey        "m">
