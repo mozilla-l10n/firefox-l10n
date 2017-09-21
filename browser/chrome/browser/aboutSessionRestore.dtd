@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Gea, quai è penibel.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ha difficultads da restaurar tias fanestras e tes tabs. Quest problem vegn per regla chaschunà d'ina pagina d'internet visitada dacurt.">
-<!ENTITY restorepage.tryThis        "Ti pos empruvar il suandant:">
-<!ENTITY restorepage.restoreSome    "serrar in u plirs tabs che pudessan a tes avis chaschunar il problem">
-<!ENTITY restorepage.startNew       "cumenzar ina sesida da navigar cumplettamain nova ">
+<!ENTITY restorepage.errorTitle2    "Perstgisa. I dat difficultads cun restaurar tias paginas.">
+<!ENTITY restorepage.problemDesc2   "I dat difficultads cun restaurar tia ultima sesida da navigar. Tscherna «Restaurar la sesida» per empruvar danovamain.">
+<!ENTITY restorepage.tryThis2       "Na funcziunescha la restauraziun anc adina betg? Mintgatant fa in tab problems. Controllescha ils ultims tabs, allontanescha il crutsch dals tabs che ti na dovras betg pli ed emprova lura anc ina giada da restaurar.">
 
-<!ENTITY restorepage.tryagainButton "Restaurar">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Serrar">
-<!ENTITY restorepage.close.access   "S">
+<!ENTITY restorepage.tryagainButton2 "Restaurar la sesida">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Cumenzar ina nova sesida">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Fanestras e tabs">
