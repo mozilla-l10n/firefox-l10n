@@ -18,14 +18,17 @@
 <!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servilo ne trovita">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Kontrolu ĉu estas eraroj en la adreso, kiel 
-<strong>ww</strong>.example.com anstataŭ <strong>www</strong>.example.com</li>
-<li>Se vi ne sukcesas vidi iun ajn paĝon,
-kontrolu la retan konekton de via komputilo.</li>
-<li>Se via komputilo aŭ reto estas protektata de retbarilo aŭ retperanto,
-certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Servilo ne trovita">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm, ni ne sukcesas trovi tiun retejon.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se tiu adreso estas ĝusta, vi povas provi kelkajn aliajn aferojn:</strong>
+<ul>
+  <li>Klopodi denove poste.</li>
+  <li>Kontroli vian retaliron.</li>
+  <li>Se vi estas konektita sed ekzistas retbarilo inter vi kaj la rejo, kontrolu ĉu &brandShortName; rajtas aliri la Teksaĵon.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Dosiero ne trovita">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -50,11 +53,9 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 
 <!ENTITY openPortalLoginPage.label2 "Malfermi paĝon por komenci seancon en la reto">
 
-<!ENTITY malformedURI.title "Tiu ĉi adreso ne estas valida">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>TTTajn adresojn oni kutime skribas ĉi tiel <strong>http://www.example.com/</strong></li> 
-<li>Kontrolu ĉu vi tajpis la ĝustajn signojn (ekzemple <strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.pageTitle "Nevalida retadreso">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm, tiu adreso ne aspektas ĝuste.">
 
 <!ENTITY netInterrupt.title "La konekto estis ĉesigita">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

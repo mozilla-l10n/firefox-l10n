@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Sencimigilo">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Aktivigi mapojn de fontoj">
-<!ENTITY options.sourceMaps.tooltip    "Se vi aktivigas tiun ĉi elekteblon, fontoj estos mapitaj en la sencimigilo kaj en la konzolo.">
+<!ENTITY options.sourceMaps.tooltip1   "Se vi aktivigas tiun ĉi elekteblon, fontoj estos mapitaj en la iloj.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Redaktilo de stiloj">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Montri originalajn fontojn">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Montri originalajn fontojn (ekz. dosierojn Sass) en la Redaktilo de stiloj kaj Inspektilo">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Ludi la sonon de obturilo de filmilo">
 <!ENTITY options.screenshot.audio.tooltip    "Tio ĉi aktivigas la sonon de la filmilo, kiam oni faras ekrankopion.">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Reto">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Aktivigi persistajn registrojn">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Se vi aktivigas tiun ĉi elekteblon, la reta kontrolilo ne viŝos la eligon kiam vi iras al nova paĝo">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

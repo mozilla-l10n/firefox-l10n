@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Eviti ke alireblecaj servoj aliru vian retumilon">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "E">
 <!ENTITY  a11yPrivacy.learnmore.label    "Pli da informo">
+<!ENTITY enableSafeBrowsingLearnMore.label "Pli da informo">
