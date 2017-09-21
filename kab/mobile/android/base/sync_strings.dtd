@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Bdu'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Seqdec lqem aqbuṛ n &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Tkecmeḍ s yisem'>
-<!ENTITY fxaccount_status_manage_account 'Sefrek amiḍan'>
 <!ENTITY fxaccount_status_auth_server 'Aqeddac n umiḍan'>
 <!ENTITY fxaccount_status_sync_now 'Semtawi tura'>
 <!ENTITY fxaccount_status_syncing2 'Asemtawi…'>
 <!ENTITY fxaccount_status_device_name 'Isem n yibenk'>
 <!ENTITY fxaccount_status_sync_server 'Aqeddac n usemtawi'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: irmed'>
 <!ENTITY fxaccount_status_needs_verification2 'Amiḍan-inek yesra asenqed. Senned akken ad tazneḍ tikelt nniḍen imayl n usenqed.'>
 <!ENTITY fxaccount_status_needs_credentials 'Ur yezmir ara ad yeqqen. Senned akken ad tkecmeḍ.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Teriḍ ad leqqmeḍ &brandShortName; akken ad tkecmeḍ.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg iɣewwaṛen Android &gt; Aseqdec n isefka.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg umuɣ iɣewwaṛen Android &gt; Imiḍanen.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Senned akken ad tkecmeḍ γer umiḍan inek Firefox amaynut.'>
+<!ENTITY fxaccount_status_choose_what 'Fren ayen ad temtawiḍ'>
 <!ENTITY fxaccount_status_bookmarks 'Ticraḍ n isebtar'>
 <!ENTITY fxaccount_status_history 'Amazray'>
 <!ENTITY fxaccount_status_passwords2 'Inekcam'>
 <!ENTITY fxaccount_status_tabs 'Ldi iccaren'>
+<!ENTITY fxaccount_status_additional_settings 'Iɣewwaṛen nniḍen '>
 <!ENTITY fxaccount_status_legal 'Usḍif' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Tiwtilin n useqdec'>
 <!ENTITY fxaccount_status_linkprivacy2 'Tasertit n tbaḍnit'>
-<!ENTITY fxaccount_status_more 'Ugar&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Ffeɣ seg&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Ffeɣ seg Synch?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Iγewwaṛen n &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Swel &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Tesriḍ ad tleqmeḍ Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Amiḍan yella yakan. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Imayl neɣ awal uffir mačči d ameɣtu'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Imayl neɣ awal uffir mačči d ameɣtu'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Amiḍan ur yettwasenqed ara'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Aqeddac ur yestufi iara, ɣreḍ tikelt nniden'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Aqeddac ur yestufi iara, ɣreḍ tikelt nniden'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Yella wugur'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Amiḍan yewḥel. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ur yeqqin ara'>
 <!-- Localization note: the format string below will be replaced
