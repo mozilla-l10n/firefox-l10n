@@ -3,4 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
+<!ENTITY pref.receipts.title          "Resit Pemberitahu Serahan">
+<!ENTITY prefReceipts.caption         "Resit Pemberitahu Serahan">
+<!ENTITY requestReceipt.label         "Apabila menghantar mesej, sentiasa minta resit pemberitahu serahan">
+<!ENTITY requestReceipt.accesskey     "A">
 <!ENTITY receiptArrive.label          "Apabila resit pemberitahuan serahan diterima:">
+<!ENTITY leaveIt.label                "Biarkan dalam Peti Masuk">
+<!ENTITY leaveIt.accesskey            "B">
+<!ENTITY moveToSent.label             "Pindahkan ke dalam folder &quot;Dihantar&quot;">
+<!ENTITY moveToSent.accesskey         "P">
