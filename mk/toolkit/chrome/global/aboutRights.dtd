@@ -67,7 +67,7 @@
 <!ENTITY rights.locationawarebrowsing-term1a "Во лентата за адреси внесете ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Внесете geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term3 "Кликнете два пати на поставката geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Кликнете два пати на параметарот geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Суфрањето свесно за локацијата сега е оневозможено">
 
 <!-- intro paragraph for unbranded builds -->
