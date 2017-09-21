@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Шукаць у сінхранізаваных картках">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Уключыць ахову">
 <!ENTITY trackingProtection.block2.accesskey "У">
 
-<!ENTITY trackingContentBlocked.message "Асочванне">
-<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія асочвалі вашы дзеянні ў інтэрнэце, былі заблакаваны.">
-<!ENTITY trackingContentBlocked.learnMore "Даведацца больш">
-<!ENTITY trackingContentBlocked.options "Налады">
-<!ENTITY trackingContentBlocked.unblock2.label "Адключыць ахову для гэтага сайта">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "А">
-<!ENTITY trackingContentBlocked.block.label "Уключыць ахову">
-<!ENTITY trackingContentBlocked.block.accesskey "У">
-<!ENTITY trackingContentBlocked.disabled.message "Ахова ад сачэння адключана">
-
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
 <!ENTITY libraryButton.tooltip "Пабачыць гісторыю, запісаныя закладкі і іншае">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Магчымасці даступнасці ўключаны">
