@@ -15,7 +15,7 @@
 <!ENTITY focusSearch.key "r">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "Име на преференција">
+<!ENTITY prefColumn.label "Име на поставка">
 <!ENTITY lockColumn.label "Статус">
 <!ENTITY typeColumn.label "Тип">
 <!ENTITY valueColumn.label "Вредност">

@@ -19,6 +19,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ID">
 
 
+
 <!ENTITY aboutSupport.appBasicsTitle "Основи за апликацијата">
 <!ENTITY aboutSupport.appBasicsName "Име">
 <!ENTITY aboutSupport.appBasicsVersion "Верзија">
@@ -42,6 +43,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "Отвори директориум">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -50,13 +53,13 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променети преференции">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Важни променети поставки">
 <!ENTITY aboutSupport.modifiedPrefsName "Име">
 <!ENTITY aboutSupport.modifiedPrefsValue "Вредност">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "Преференции за user.js">
-<!ENTITY aboutSupport.userJSDescription "Вашата папка за профил содржи <a id='prefs-user-js-link'>user.js датотека</a>, која што вклучува преференции што не биле создадени од &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Поставки за user.js">
+<!ENTITY aboutSupport.userJSDescription "Вашата папка за профил содржи <a id='prefs-user-js-link'>user.js датотека</a>, која што вклучува поставки што не биле создадени од &brandShortName;.">
 
 
 <!ENTITY aboutSupport.graphicsTitle "Графика">
@@ -76,6 +79,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Копирај го текстот">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копирај ги сировите податоци">
+
 
 
 

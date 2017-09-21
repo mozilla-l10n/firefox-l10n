@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "П">
 
 <!ENTITY fxaSignIn.label "Најавете се на &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Отвори преференци на &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Отвори поставки на &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Повторно поврзи се со &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Потврдете ја Вашата сметка">
 
@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "е">
 <!ENTITY preferencesCmd2.label       "Опции">
 <!ENTITY preferencesCmd2.accesskey     "О">
-<!ENTITY preferencesCmdUnix.label       "Преференции">
+<!ENTITY preferencesCmdUnix.label       "Поставки">
 <!ENTITY preferencesCmdUnix.accesskey     "ф">
 
 <!ENTITY clearRecentHistory.label               "Исчисти ја скорешната историја…">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Преференци за Sync">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Поставки за Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од Вашите други уреди.">
 <!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
 
@@ -477,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
 <!ENTITY emailPageCmd.label           "Испрати линк…">
 <!ENTITY emailPageCmd.accesskey       "И">
-<!ENTITY savePageCmd.label            "Сними ја страницата како…">
+<!ENTITY savePageCmd.label            "Сними страница како…">
 <!ENTITY savePageCmd.accesskey        "а">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "к">
@@ -619,7 +619,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Уреди ги преференциите за блокирањето на скокачки прозорци…">
+<!ENTITY editPopupSettingsUnix.label "Уреди ги поставките за блокирањето на скокачки прозорци…">
 <!ENTITY editPopupSettings.label "Уреди ги опциите за блокирање на скокачки прозорци…">
 <!ENTITY editPopupSettings.accesskey "е">
 <!ENTITY dontShowMessage.accesskey "Н">

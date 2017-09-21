@@ -11,5 +11,5 @@
 <!ENTITY preview.label              "Преглед">
 <!ENTITY color.label                "Боја:">
 <!ENTITY setDesktopBackground.title "Поставување на позадина на работна површина">
-<!ENTITY openDesktopPrefs.label     "Отвори ги преференциите за работната површина">
+<!ENTITY openDesktopPrefs.label     "Отвори ги поставките за работна околина">
 <!ENTITY closeWindow.key            "w">

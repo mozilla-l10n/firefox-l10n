@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "Тура на &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Преференции…">
+<!ENTITY preferencesCmdMac.label        "Поставки…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Сервиси">

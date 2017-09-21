@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  windowClose.key                         "w">
-<!ENTITY  preferencesDefaultTitleMac.title        "Преференции">
+<!ENTITY  preferencesDefaultTitleMac.title        "Поставки">
 <!ENTITY  preferencesDefaultTitleWin.title        "Опции">
 <!ENTITY  preferencesCloseButton.label            "Затвори">
 <!ENTITY  preferencesCloseButton.accesskey        "З">
