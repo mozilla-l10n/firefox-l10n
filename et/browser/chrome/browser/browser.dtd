@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Teistes seadmetes avatud kaartide nimekirja nägemiseks lülita sisse kaartide sünkroniseerimine.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Otsi sünkroniseeritud kaartide seast">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -901,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Luba kaitse">
 <!ENTITY trackingProtection.block2.accesskey "L">
 
-<!ENTITY trackingContentBlocked.message "Jälitamine">
-<!ENTITY trackingContentBlocked.moreinfo "Sellel lehel blokiti mõned osad, mis jälitavad sinu tegevusi internetis.">
-<!ENTITY trackingContentBlocked.learnMore "Rohkem teavet">
-<!ENTITY trackingContentBlocked.options "Sätted">
-<!ENTITY trackingContentBlocked.unblock2.label "Keela kaitse sellel saidil">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "K">
-<!ENTITY trackingContentBlocked.block.label "Luba kaitse">
-<!ENTITY trackingContentBlocked.block.accesskey "L">
-<!ENTITY trackingContentBlocked.disabled.message "Kaitse on keelatud">
-
 <!ENTITY pluginNotification.showAll.label "Kuva kõiki">
 <!ENTITY pluginNotification.showAll.accesskey "K">
 
@@ -990,3 +981,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Hõlbustus on lubatud">
