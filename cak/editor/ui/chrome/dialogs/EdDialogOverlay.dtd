@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY chooseFileButton.label "Ticha' Yakb'äl...">
+<!ENTITY chooseFileButton.accessKey "Y">
+<!ENTITY chooseFileLinkButton.label "Ticha' Yakb'äl...">
+<!ENTITY chooseFileLinkButton.accessKey "c">
+
+<!-- Shared by Link and Image dialogs -->
