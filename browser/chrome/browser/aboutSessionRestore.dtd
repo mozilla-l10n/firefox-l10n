@@ -7,8 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Жао нам је. Имамо проблем са повраћајем ваших страница.">
-<!ENTITY restorepage.problemDesc2   "Имамо проблем са обнављањем ваше последње сесије. Покушајте поново да је обновите.">
+<!ENTITY restorepage.problemDesc2   "Имамо проблем са обнављањем ваше последње сесије. Покушајте поново да је обновите кликом на Обнови сесију дугме.">
+<!ENTITY restorepage.tryThis2       "И даље не можете обновити сесију? Понекад неки језичак изазива овакав проблем. Прегледајте ваше језичке, одзначите оне које не желите да обновите и онда покушајте поново.">
 
+<!ENTITY restorepage.tryagainButton2 "Обнови сесију">
+<!ENTITY restorepage.restore.access2 "О">
+<!ENTITY restorepage.closeButton2    "Започни нову сесију">
+<!ENTITY restorepage.close.access2   "н">
 
 <!ENTITY restorepage.restoreHeader  "Обнављање">
 <!ENTITY restorepage.listHeader     "Прозори и језичци">
