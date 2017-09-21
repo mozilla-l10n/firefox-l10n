@@ -11,7 +11,7 @@
 <!ENTITY useCustomPrefs.accesskey     "S">
 <!ENTITY requestReceipt.label         "Apabila menghantar mesej, sentiasa minta resit pemberitahu serahan">
 <!ENTITY requestReceipt.accesskey     "A">
-<!ENTITY receiptArrive.label          "Apabila resit diterima:">
+<!ENTITY receiptArrive.label          "Apabila resit pemberitahuan serahan diterima:">
 <!ENTITY leaveIt.label                "Masukkan dalam peti masuk">
 <!ENTITY leaveIt.accesskey            "M">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->

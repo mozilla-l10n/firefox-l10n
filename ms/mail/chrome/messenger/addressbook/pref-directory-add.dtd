@@ -25,7 +25,7 @@
 <!ENTITY scope.accesskey                   "k">
 <!ENTITY scopeOneLevel.label               "Satu Tahap">
 <!ENTITY scopeOneLevel.accesskey           "T">
-<!ENTITY scopeSubtree.label                "Subpepohon">
+<!ENTITY scopeSubtree.label                "Sub-pepohon">
 <!ENTITY scopeSubtree.accesskey            "S">
 <!ENTITY return.label                      "Jangan kembalikan lebih daripada">
 <!ENTITY return.accesskey                  "r">

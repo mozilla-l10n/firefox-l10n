@@ -4,7 +4,7 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Folder &amp; Salinan">
+<!ENTITY copyAndFolderTitle.label "Salinan &amp; Folder">
 <!ENTITY sendingPrefix.label "Apabila menghantar mesej, secara automatik: ">
 <!ENTITY fccMailFolder.label "Letakkan salinan dalam:">
 <!ENTITY fccMailFolder.accesskey "L">

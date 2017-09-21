@@ -8,7 +8,7 @@
 
 <!ENTITY dialogCompose.title                 "Karangan">
 
-<!ENTITY forwardMsg.label                     "Kirim semula mesej:">
+<!ENTITY forwardMsg.label                     "Mesej kirim semula:">
 <!ENTITY forwardMsg.accesskey                 "K">
 <!ENTITY inline.label                         "Sebaris">
 <!ENTITY asAttachment.label                   "Sebagai Lampiran">

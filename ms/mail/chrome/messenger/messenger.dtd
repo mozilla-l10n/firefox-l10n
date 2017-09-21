@@ -882,9 +882,9 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Tambah ke Buku Alamat…">
+<!ENTITY AddToAddressBook.label "Tambah dalam Buku Alamat…">
 <!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Tambah ke Buku Alamat">
+<!ENTITY AddDirectlyToAddressBook.label "Tambah dalam Buku Alamat">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
 <!ENTITY EditContact1.label "Edit Kenalan">
 <!ENTITY EditContact1.accesskey "E">

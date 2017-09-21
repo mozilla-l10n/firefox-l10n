@@ -5,7 +5,7 @@
 <!ENTITY dialog.title                  "Resit Pemberitahu Serahan">
 <!ENTITY requestReceipt.label          "Apabila menghantar mesej, sentiasa minta resit pemberitahu serahan">
 <!ENTITY requestReceipt.accesskey      "A">
-<!ENTITY receiptArrive.label           "Apabila resit diterima:">
+<!ENTITY receiptArrive.label           "Apabila resit pemberitahuan serahan diterima:">
 <!ENTITY leaveIt.label                 "Biarkan dalam Peti Masuk">
 <!ENTITY leaveIt.accesskey             "i">
 <!ENTITY moveToSent.label              "Pindahkan ke dalam folder &quot;Dihantar&quot;">

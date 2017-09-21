@@ -37,10 +37,10 @@
 <!ENTITY aboveText.label                      "di bawah balasan (di atas petikan tadi)">
 <!ENTITY includeSigOnReply.label              "Sertakan tandatangan bagi setiap balasan">
 <!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Sertakan tandatangan bagi setiap kiriman">
+<!ENTITY includeSigOnForward.label            "Sertakan tandatangan bagi kiriman semula">
 <!ENTITY includeSigOnForward.accesskey        "r">
 
-<!ENTITY globalComposingPrefs.label           "Keutamaan Komposisi Global…">
+<!ENTITY globalComposingPrefs.label           "Keutamaan Karangan Global…">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
 <!ENTITY globalAddressingPrefs.label          "Keutamaan Pengalamatan Global…">
