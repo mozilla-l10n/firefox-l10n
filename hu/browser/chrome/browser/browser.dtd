@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Szinkronizált lapok keresése">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Védelem bekapcsolása">
 <!ENTITY trackingProtection.block2.accesskey "b">
 
-<!ENTITY trackingContentBlocked.message "Követés">
-<!ENTITY trackingContentBlocked.moreinfo "Az oldalnak az Ön online tevékenységét követő részei blokkolva lettek.">
-<!ENTITY trackingContentBlocked.learnMore "További tudnivalók">
-<!ENTITY trackingContentBlocked.options "Beállítások">
-<!ENTITY trackingContentBlocked.unblock2.label "Védelem kikapcsolása ezen az oldalon">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "k">
-<!ENTITY trackingContentBlocked.block.label "Védelem bekapcsolása">
-<!ENTITY trackingContentBlocked.block.accesskey "b">
-<!ENTITY trackingContentBlocked.disabled.message "A követés elleni védelem kikapcsolva">
-
 <!ENTITY pluginNotification.showAll.label "Mindet mutat">
 <!ENTITY pluginNotification.showAll.accesskey "m">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">
 
 <!ENTITY libraryButton.tooltip "Előzmények, mentett könyvjelzők megtekintése">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Akadálymentesítési funkciók engedélyezve">
