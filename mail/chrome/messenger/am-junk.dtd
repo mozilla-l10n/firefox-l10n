@@ -17,11 +17,11 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "hari">
 
-<!ENTITY whitelistHeader.label "Jangan buang secara automatik mel remeh jika pengirim ada di dalam: ">
+<!ENTITY whitelistHeader.label "Jangan tandakan secara automatik mel remeh jika pengirim ada di dalam: ">
 <!ENTITY whitelistHeader.accesskey "J">
 
 <!ENTITY ispHeadersWarning.label "Jika diaktifkan, &brandShortName; akan secara automatik mempertimbangkan mesej yang ditanda oleh pengelas luar ini sebagai remeh.">
-<!ENTITY ispHeaders.label "Pengepala mel remeh dipercayai yang ditetapkan oleh: ">
+<!ENTITY ispHeaders.label "Percaya pengepala mel remeh yang ditetapkan oleh: ">
 <!ENTITY ispHeaders.accesskey "P">
 
 <!ENTITY junkClassification.label "Pemilihan">
