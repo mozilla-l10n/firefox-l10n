@@ -18,11 +18,15 @@
 <!ENTITY deniedPortAccess.title "Bu adrese erişim kısıtlanmış">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Sunucu bulunamadı">
-<!ENTITY dnsNotFound.longDesc "<ul>
-  <li>Adres <strong>www</strong>.example.com yerine <strong>ww</strong>.example.com gibi yanlış yazılmış olabilir.</li>
-  <li>Hiçbir sayfa açılmıyorsa bilgisayarınızın ağ bağlantısını kontrol edin.</li>
-  <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li>
+<!ENTITY dnsNotFound.pageTitle "Sunucu bulunamadı">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Aradığınız siteyi bulamıyoruz.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Adres doğruysa deneyebileceğiniz üç şey daha var:</strong>
+<ul>
+  <li>Daha sonra yeniden deneyin.</li>
+  <li>Ağ bağlantınızı kontrol edin.</li>
+  <li>Güvenlik duvarı kullanıyorsanız &brandShortName; tarayıcısının Web’e erişme izni olduğunu kontrol edin.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
@@ -43,11 +47,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ağa giriş sayfasını aç">
 
-<!ENTITY malformedURI.title "Adres geçersiz">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li>
-  <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li>
-</ul>">
+<!ENTITY malformedURI.pageTitle "Geçersiz URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Bu adres gözümüze düzgün görünmedi.">
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
