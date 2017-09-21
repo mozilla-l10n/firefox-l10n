@@ -40,14 +40,14 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Je so zdźěliło, zo sydło <span id='unwanted_sitename'/><a id='error_desc_link'>škódnu softwaru wobsahuje</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Zhońće wjace wo škódnej a njewitanej softwarje w <a id='learn_more_link'>prawidłach wo njewitanej softwarje</a>. Zhońće na <a id='firefox_support'>support.mozilla.org</a> wjace wo škiće přećiwo kradnjenju datowa a škódnym programam.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Zhońće wjace wo škódnej a njewitanej softwarje w <a id='learn_more_link'>prawidłach wo njewitanej softwarje</a>. Zhońće na <a id='firefox_support'>support.mozilla.org</a> wjace wo škiće přećiwo kradnjenju datow a škódnym programam.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Wobšudne sydło">
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; je tutu stronu zablokował, dokelž móhła was zawjedować, něšto strašne činił, kaž na přikład softwaru instalować abo wosobinske daty kaž hesła abo kreditne karty přeradzić.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Je so zdźěliło, zo sydło <span id='phishing_sitename'/> je <a id='error_desc_link'>wobšudne sydło</a>. Móžeće <a id='report_detection'>problem ze spóznaćom zdźělić</a> abo <a id='ignore_warning_link'>riziko ignorować</a> a tute nejwěste sydło wopytać.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Je so zdźěliło, zo sydło <span id='phishing_sitename'/> je <a id='error_desc_link'>wobšudne sydło</a>. Móžeće <a id='report_detection'>problem ze spóznaćom zdźělić</a> abo <a id='ignore_warning_link'>riziko ignorować</a> a tute njewěste sydło wopytać.">
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Je so zdźěliło, zo sydło <span id='phishing_sitename'/> je <a id='error_desc_link'>wobšudne sydło</a>. Móžeće <a id='report_detection'>problem ze spóznaćom zdźělić</a>.">
 
