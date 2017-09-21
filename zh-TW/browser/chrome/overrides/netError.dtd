@@ -20,6 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "找不到伺服器">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "呃…找不到這個網站。">
 
 <!ENTITY fileNotFound.title "找不到檔案">
 <!ENTITY fileNotFound.longDesc "
@@ -44,6 +45,7 @@
 
 <!ENTITY malformedURI.pageTitle "網址無效">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "呃…這個網址好像有錯。">
 
 <!ENTITY netInterrupt.title "資料傳輸中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
