@@ -94,16 +94,84 @@
 <!ENTITY styleUnderlineCmd.key "J">
 <!ENTITY styleStrikeThruCmd.label "Juxun">
 <!ENTITY styleStrikeThruCmd.accesskey "x">
+<!ENTITY styleSuperscriptCmd.label "Witz'ib'">
+<!ENTITY styleSuperscriptCmd.accesskey "i">
+<!ENTITY styleSubscriptCmd.label "Xetz'ib'">
+<!ENTITY styleSubscriptCmd.accesskey "e">
+<!ENTITY styleCite.label "Peyonïk">
+<!ENTITY styleCite.accesskey "P">
+<!ENTITY styleAbbr.label "Ch'utitz'ib'anïk">
+<!ENTITY styleAbbr.accesskey "C">
+<!ENTITY styleAcronym.label "Nab'etz'ib'">
+<!ENTITY styleAcronym.accesskey "a">
+<!ENTITY styleCode.label "Bitz'ib'">
+<!ENTITY styleCode.accesskey "i">
+<!ENTITY styleVar.label "Jalwachil">
+<!ENTITY styleVar.accesskey "w">
+
+<!ENTITY formatFontColor.label "Rub'onil Rucholajem Tzij…">
+<!ENTITY formatFontColor.accesskey "b">
 
 
-
+<!ENTITY paragraphMenu.label "Pajtzij">
+<!ENTITY paragraphMenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Pajtzij">
+<!ENTITY paragraphParagraphCmd.accesskey "P">
+<!ENTITY heading1Cmd.label "Jub'i'aj 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Jub'i'aj 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Jub'i'aj 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Jub'i'aj 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Jub'i'aj 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Jub'i'aj 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Ochochib'äl">
+<!ENTITY paragraphAddressCmd.accesskey "O">
+<!ENTITY paragraphPreformatCmd.label "Nab'ey Rub'anikil">
+<!ENTITY paragraphPreformatCmd.accesskey "i">
 
 <!-- List menu items -->
+<!ENTITY formatlistMenu.label "Cholajem">
+<!ENTITY formatlistMenu.accesskey "l">
+<!ENTITY noneCmd.label "Majun">
+<!ENTITY noneCmd.accesskey "M">
+<!ENTITY listBulletCmd.label "Mecholajin">
+<!ENTITY listBulletCmd.accesskey "M">
+<!ENTITY listNumberedCmd.label "Cholajin">
+<!ENTITY listNumberedCmd.accesskey "n">
+<!ENTITY listTermCmd.label "Ojqanem">
+<!ENTITY listTermCmd.accesskey "O">
+<!ENTITY listDefinitionCmd.label "Q'ajarib'äl">
+<!ENTITY listDefinitionCmd.accesskey "Q">
+<!ENTITY listPropsCmd.label "Kicholb'al taq Ichinil…">
+<!ENTITY listPropsCmd.accesskey "o">
 
 <!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Ruch'akulal Rucholajem Tz'ib'">
+<!ENTITY bodyTextCmd.accesskey "o">
 <!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Q'axinäq taq Ichinil">
+<!ENTITY advancedPropertiesCmd.accesskey "q">
 
 <!-- Align menu items -->
+<!ENTITY alignMenu.label "Ticholajïx">
+<!ENTITY alignMenu.accesskey "c">
+<!ENTITY alignLeft.label "Xokon">
+<!ENTITY alignLeft.accesskey "X">
+<!ENTITY alignLeft.tooltip "Ticholajïx pa Xokon">
+<!ENTITY alignCenter.label "Nik'aj">
+<!ENTITY alignCenter.accesskey "n">
+<!ENTITY alignCenter.tooltip "Ticholajïx pa Nik'aj">
+<!ENTITY alignRight.label "Ajkiq'a'">
+<!ENTITY alignRight.accesskey "A">
+<!ENTITY alignRight.tooltip "Ticholajïx pan Ajkiq'a'">
+<!ENTITY alignJustify.label "Chojtz'aqät">
+<!ENTITY alignJustify.accesskey "j">
+<!ENTITY alignJustify.tooltip "Tichojtz'aqatisäx">
 
 <!-- Layer toolbar items -->
 
