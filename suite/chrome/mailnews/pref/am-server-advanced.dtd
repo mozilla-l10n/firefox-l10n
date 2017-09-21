@@ -22,3 +22,10 @@
 <!ENTITY otherUsersNamespace.accesskey "L">
 <!ENTITY overrideNamespaces.label "Izinkan pelayan mengatasi nama ruang ini">
 <!ENTITY overrideNamespaces.accesskey "I">
+<!ENTITY pop3DeferringDesc.label "Apabila memuat turun mel daripada pelayan akaun ini, guna folder berikut untuk menyimpan mesej baru:" >
+<!ENTITY accountInbox.label "Peti masuk akaun ini">
+<!ENTITY accountInbox.accesskey "s">
+<!ENTITY deferToServer.label "Peti masuk akaun lain">
+<!ENTITY deferToServer.accesskey "l">
+<!ENTITY deferGetNewMail.label "Sertakan pelayan ini apabila mendapatkan mel baru">
+<!ENTITY deferGetNewMail.accesskey "I">
