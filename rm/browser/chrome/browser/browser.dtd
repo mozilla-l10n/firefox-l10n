@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
 
+<!ENTITY appMenuRecentHighlights.label "Ultims accents">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agiuntar a la trav d'utensils">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -844,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restaurar il standard">
 <!ENTITY customizeMode.done "Finì">
 <!ENTITY customizeMode.titlebar "Trav dal titel">
+<!ENTITY customizeMode.extraDragSpace "Spazi sur ils tabs per trair la fanestra">
 <!ENTITY customizeMode.toolbars2 "Travs d'utensils">
 <!ENTITY customizeMode.lwthemes "Designs">
 <!ENTITY customizeMode.lwthemes.myThemes "Mes designs">
@@ -979,3 +981,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
 
 <!ENTITY libraryButton.tooltip "Mussar la cronologia, ils segnapaginas e dapli">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
