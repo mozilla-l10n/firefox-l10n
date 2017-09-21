@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Дебъгер">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Включване на Source Maps">
-<!ENTITY options.sourceMaps.tooltip    "Ако е отметнато source maps ще бъдат използвани в дебъгера и конзолата.">
+<!ENTITY options.sourceMaps.tooltip1   "Ако е отметнато source maps ще бъдат използвани в инструментите.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Стилове">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Показване на изходния код">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Показва се оригиналния изходен код (напр. файлове Sass) в редактора и инспектора на стилове">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Звук от затвора на фотоапарат">
 <!ENTITY options.screenshot.audio.tooltip    "Включва звук от затвора на фотоапарат при правене на снимка на екрана">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Мрежа">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Постоянни журнали">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Ако е отметнато Мрежовият монитор няма да изчиства изхода си при всяко отваряне на нова страница">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
