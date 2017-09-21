@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutNetworking.ok                    "OK">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.refresh               "Actualisar">
+<!ENTITY aboutNetworking.hostname              "Nomine del servitor hospite">
+<!ENTITY aboutNetworking.port                  "Porta">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
+<!ENTITY aboutNetworking.ssl                   "SSL">
+<!ENTITY aboutNetworking.active                "Active">
+<!ENTITY aboutNetworking.idle                  "Inactive">
+<!ENTITY aboutNetworking.host                  "Hospite">
+<!ENTITY aboutNetworking.tcp                   "TCP">
+<!ENTITY aboutNetworking.sent                  "Inviate">
+<!ENTITY aboutNetworking.received              "Recipite">
+<!ENTITY aboutNetworking.family                "Familia">
+<!ENTITY aboutNetworking.addresses             "Adresses">
+<!ENTITY aboutNetworking.expires               "Expira (Secundas)">
+<!ENTITY aboutNetworking.logging               "Registros">
+<!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
+<!ENTITY aboutNetworking.dnsDomain             "Dominio">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Aperir">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Leger">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Scriber">
