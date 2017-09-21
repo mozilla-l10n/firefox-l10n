@@ -43,5 +43,7 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Преводи на">
 
 
+<!ENTITY  playDRMContent.learnMore.label "Дознајте повеќе">

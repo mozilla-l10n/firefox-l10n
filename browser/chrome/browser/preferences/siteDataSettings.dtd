@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Поставки - Податоци за мрежни места">
 <!ENTITY     hostCol.label                 "Мрежно место">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Складиште">
@@ -9,3 +10,4 @@
 <!ENTITY     removeSelected.label          "Отстрани избрани">
 <!ENTITY     save.label                    "Зачувај промени">
 <!ENTITY     cancel.label                  "Откажи">
+<!ENTITY     removingDialog.title          "Отстранување на податоци за мрежни места">

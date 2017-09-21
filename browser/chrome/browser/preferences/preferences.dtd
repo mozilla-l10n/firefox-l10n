@@ -18,11 +18,13 @@
      string visible -->
 
 <!ENTITY  paneGeneral.title             "Централа">
+<!ENTITY  paneSearch.title              "Пребарување">
 <!ENTITY  paneContainers.title          "Контејнерски јазичиња">
 <!ENTITY  paneUpdates.title             "Надградби">
 
 <!ENTITY  languageAndAppearance.label   "Јазик и изглед">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Сметка за Firefox">
 
 <!ENTITY  helpButton2.label        "Поддршка за &brandShortName;">

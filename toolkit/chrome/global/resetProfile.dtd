@@ -3,5 +3,6 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "Освежи &brandShortName;">
+<!ENTITY refreshProfile.dialog.description2  "Ова ќе:">
 
 
