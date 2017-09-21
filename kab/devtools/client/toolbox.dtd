@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Tamseɣtayt">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Rmed aɣbalu n tifelwiyi ">
-<!ENTITY options.sourceMaps.tooltip    "Ma tremdeḍ aɣewwaṛ-agi, iɣbula ad ttwaqqnen di temseɣtayt akked tdiwent.">
+<!ENTITY options.sourceMaps.tooltip1   "Ma tremdeḍ aɣewwar-agi Taɣbalut ad tt-ttwacreḍ deg ufecku.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Amaẓrag n uɣanib">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Sken tiɣbula tinezliyin">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Sken ti qbula tinezliyin (amedya: ifuyla Sass) deg umaẓrag n uɣanib d umaswaḍ">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Γeṛ ameslaw n tkamirat">
 <!ENTITY options.screenshot.audio.tooltip    "Ad irmed amesalw n tkamirat m'ara ad teṭfeḍ agdil">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Aẓeṭṭa">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Rmed asniɣmes yezgan">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Ma tremdeḍ aɣewwar-agi, agedil n uẓeṭṭa ur isfeḍ ara inekcam yal tikelt ad tinigeḍ ɣeṛ usebter amaynut">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

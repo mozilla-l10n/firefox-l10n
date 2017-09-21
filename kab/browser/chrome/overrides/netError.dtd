@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Tansa-a tegdel">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Ulac tansa n uqeddac">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Senqed taseddast n tansa i tuccḍiwin am <strong>ww</strong>.example.com deg umḍiq n  <strong>www</strong>.example.com</li> <li>Ma yella ur tezmireḍ ara ad d-tessaliḍ isebtar, senqed tuqqna n uselkim ɣeṛ uẓeṭṭa.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣrab n tmes neɣ apṛuksi, wali ma yella  &brandShortName;  yezmer ad yekcem ɣer Web.</li></ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmmm. Nesɛa uguren akken ad naf asmel.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>ma tella tansa-agi d tameɣtut, llan tɣawsiwin nniḍen ara tɛarḍeḍ:</strong><ul><li>ɛreḍ tikelt nniḍen ticki.</li><li>senqed tuqna inek internet.</li>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Senqed isem n ufaylu ma yura s isekkilen meqqṛen neɣ meẓẓiyen neɣ tuccdiwin n tira nniḍen.</li><li>Senqed ma yella afaylu ur ittusenkez ara, ur ittusnifel ara neɣ ur ittwakkes ara.</li></ul>">
@@ -35,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ldi asebter n unekcum γer uẓeṭṭa">
 
-<!ENTITY malformedURI.title "Tansa-a d tarameɣtut">
-<!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "URL mačči d tarameɣtut">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Tansa-agi ur tsseḥa ara.">
 
 <!ENTITY netInterrupt.title "Tuqqna teḥbes">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
