@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Tutup Tab Ini">
+
+<!ENTITY tabCrashed.closeTab2  "Tutup Tab">
 <!ENTITY tabCrashed.restoreTab "Pulihkan Tab Ini">
 <!ENTITY tabCrashed.restoreAll "Pulihkan Semua Tab Mogok">
 
@@ -14,17 +15,12 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Aduh. Tab Anda baru saja mogok.">
-<!ENTITY tabCrashed.offerHelp "Kami dapat membantu Anda!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Pilih &tabCrashed.restoreTab; untuk memuat isi laman.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Pilih &tabCrashed.restoreTab; atau &tabCrashed.restoreAll; untuk memuat isi laman.">
+<!ENTITY tabCrashed.offerHelp2 "Kami dapat membantu!">
 <!ENTITY tabCrashed.requestHelp "Maukah Anda membantu kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Laporan kerusakan membantu kami mendiagnosis masalah dan membuat &brandShortName; lebih baik.">
 <!ENTITY tabCrashed.requestReport "Laporkan tab ini">
-<!ENTITY tabCrashed.sendReport2 "Kirim laporan kerusakan untuk tab yang Anda lihat">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar tambahan (komentar dapat dilihat umum)">
-<!ENTITY tabCrashed.includeURL2 "Sertakan URL laman bersama laporan kerusakan ini">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat surel Anda di sini">
 <!ENTITY tabCrashed.emailMe "Kirimi saya surel saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Laporkan tab latar belakang">
-<!ENTITY tabCrashed.autoSubmit2 "Perbarui preferensi untuk mengirim laporan kerusakan secara otomatis, termasuk laporan kerusakan tab latar belakang dari sesi ini dan sesi mendatang">

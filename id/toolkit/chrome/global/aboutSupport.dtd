@@ -139,6 +139,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solusi sementara">
 
 <!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Peranti Keluaran">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Peranti Masukan">
 <!ENTITY aboutSupport.mediaDeviceName "Nama">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grup">
 <!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
