@@ -2,19 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Скокачки прозорци">
+<!ENTITY  permissions.label           "Дозволи">
 
 <!ENTITY  blockPopups.label           "Блокирај скокачки прозорци">
 <!ENTITY  blockPopups.accesskey       "л">
 
-<!ENTITY  notificationsPolicyDesc3.label       "Изберете на кои веб-сајтови им е дозволено да Ви испраќаат известувања">
-<!ENTITY  notificationsPolicyButton.label      "Изберете…">
+<!ENTITY  notificationsDoNotDisturb.label      "Не ме вознемирувај">
 
-<!ENTITY  popupExceptions.label       "Исклучоци…">
-<!ENTITY  popupExceptions.accesskey   "с">
+<!ENTITY  popupExceptions.label                                 "Исклучоци…">
+<!ENTITY  popupExceptions.accesskey                             "с">
+
+
+
+
 
 <!ENTITY  fontsAndColors.label        "Фонтови и бои">
 
+<!ENTITY  defaultFont2.label          "Основен фонт">
+<!ENTITY  defaultSize2.label          "Големина">
 
 <!ENTITY  advancedFonts.label         "Напредно…">
 <!ENTITY  advancedFonts.accesskey     "Н">
@@ -23,11 +28,13 @@
 <!ENTITY  colors.accesskey            "Б">
 
 
-<!ENTITY languages.label              "Јазици">
+<!ENTITY language2.label              "Јазик">
 <!ENTITY chooseLanguage.label         "Изберете го посакуваниот јазик за прикажување на страници">
 <!ENTITY chooseButton.label           "Изберете…">
 <!ENTITY chooseButton.accesskey       "О">
 
+<!ENTITY translateWebPages.label      "Преведувај веб-содржина">
+<!ENTITY translateExceptions.label    "Исклучоци…">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

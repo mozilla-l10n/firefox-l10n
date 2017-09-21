@@ -4,22 +4,11 @@
 
 <!ENTITY  fontsDialog.title                       "Фонтови">
 
-<!ENTITY  language.label                          "Фонтови за:">
-<!ENTITY  language.accesskey                      "Ф">
 
-<!ENTITY  size.label                              "Гол.:">
 <!ENTITY  sizeProportional.accesskey              "Г">
 <!ENTITY  sizeMonospace.accesskey                 "л">
 
-<!ENTITY  proportional.label                      "Пропорционален:">
-<!ENTITY  proportional.accesskey                  "П">
 
-<!ENTITY  serif.label                             "Сериф:">
-<!ENTITY  serif.accesskey                         "С">
-<!ENTITY  sans-serif.label                        "Санс-сериф:">
-<!ENTITY  sans-serif.accesskey                    "н">
-<!ENTITY  monospace.label                         "Моноспејс:">
-<!ENTITY  monospace.accesskey                     "М">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -49,8 +38,6 @@
 <!ENTITY  font.langGroup.sinhala                  "Синхала">
 <!ENTITY  font.langGroup.tibetan                  "Тибетски">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Мин. гол.:">
-<!ENTITY minSize.accesskey                        "и">
 <!ENTITY minSize.none                             "Нема">
 
 <!-- default font type -->
@@ -61,14 +48,18 @@
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "Арапски">
+<!ENTITY languages.customize.Fallback.baltic      "Балтички">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Грчки">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Хебрејски">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):

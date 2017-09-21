@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
+
 <!ENTITY  paneGeneral.title             "Централа">
 <!ENTITY  paneContainers.title          "Контејнерски јазичиња">
+<!ENTITY  paneUpdates.title             "Надградби">
+
+<!ENTITY  languageAndAppearance.label   "Јазик и изглед">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-
+<!ENTITY  helpButton2.label        "Поддршка за &brandShortName;">
