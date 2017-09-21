@@ -208,13 +208,38 @@
 <!ENTITY tableRowBelow.label "Ikim Cholaj">
 <!ENTITY tableRowBelow.accesskey "I">
 <!ENTITY tableColumn.label "Tem">
+<!ENTITY tableColumns.label "(taq)Tem">
+<!ENTITY tableColumn.accesskey "e">
+<!ENTITY tableColumnBefore.label "Ikim Tem">
+<!ENTITY tableColumnBefore.accesskey "e">
+<!ENTITY tableColumnAfter.label "Rij Tem">
+<!ENTITY tableColumnAfter.accesskey "i">
+<!ENTITY tableCell.label "Ch'utikajtz'ik">
+<!ENTITY tableCells.label "(taq)Ch'utikajtz'ik">
+<!ENTITY tableCell.accesskey "C">
+<!ENTITY tableCellContents.label "Kipam Ch'utikajtz'ik">
+<!ENTITY tableCellContents.accesskey "m">
+<!ENTITY tableAllCells.label "Konojel Ch'utikajtz'ik">
+<!ENTITY tableAllCells.accesskey "o">
+<!ENTITY tableCellBefore.label "Ruwäch Ch'utikajtz'ik">
+<!ENTITY tableCellBefore.accesskey "w">
+<!ENTITY tableCellAfter.label "Rij Ch'utikajtz'ik">
+<!ENTITY tableCellAfter.accesskey "i">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Tiyuj">
+<!ENTITY tableDeleteMenu.accesskey "y">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tableJoinCells.accesskey "j">
+<!ENTITY tableSplitCell.label "Tijach Ch'utikajtz'ik">
+<!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY tableProperties.label "Taq Richinil Kemon Kajtz'ik…">
+<!ENTITY tableProperties.accesskey "i">
 
 <!-- Toolbar-only items -->
 
