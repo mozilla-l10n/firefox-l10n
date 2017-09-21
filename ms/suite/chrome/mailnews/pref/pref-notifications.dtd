@@ -22,5 +22,25 @@
 <!ENTITY showAlertSender.label            "Papar pengirim">
 <!ENTITY showAlertSender.accesskey        "n">
 <!ENTITY useSystemAlert.label             "Guna sistem notifikasi pengoperasian dekstop">
+<!ENTITY useSystemAlert.accesskey         "d">
+<!ENTITY useBuiltInAlert.label            "Guna tetingkap notifikasi &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey        "t">
 
+<!ENTITY showTrayIcon.label               "Papar ikon dulang">
+<!ENTITY showTrayIcon.accesskey           "d">
+<!ENTITY showBalloon.label                "Papar belon makluman">
+<!ENTITY showBalloon.accesskey            "o">
+<!ENTITY bounceSystemDockIcon.label       "Animasi ikon Dok">
+<!ENTITY bounceSystemDockIcon.accesskey   "A">
 
+<!ENTITY playSound.label                  "Mainkan bunyian">
+<!ENTITY playSound.accesskey              "M">
+<!ENTITY playButton.label                 "Main">
+<!ENTITY playButton.accesskey             "n">
+<!ENTITY systemsound.label                "Bunyian Mel Baru Sistem">
+<!ENTITY systemsound.accesskey            "M">
+<!ENTITY customsound.label                "Penyesuaian fail bunyian">
+<!ENTITY customsound.accesskey            "P">
+<!ENTITY browse.label                     "Cari…">
+<!ENTITY browse.accesskey                 "C">
+<!ENTITY browse.title                     "Pilih fail">
