@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Cochez « Synchronisation automatique » dans Paramètres Android &gt; Consommation des données.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; est configuré, mais la synchronisation automatique est désactivée. Cochez « Synchronisation automatique » dans Paramètres Android &gt; Comptes.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Appuyez pour vous connecter à votre nouveau compte Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Choisir les informations à synchroniser'>
 <!ENTITY fxaccount_status_bookmarks 'Marque-pages'>
 <!ENTITY fxaccount_status_history 'Historique'>
 <!ENTITY fxaccount_status_passwords2 'Identifiants'>
