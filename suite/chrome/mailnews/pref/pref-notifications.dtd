@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY pref.notifications.title         "Notifikasi">
+<!ENTITY notifications.caption            "Notifikasi">
+<!ENTITY newMessagesArrive.label          "Apabila ada mesej baru:">
+
+<!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
+     showAlertFor.label is associated with the checkbox to show the alert,
+     leading into a numerical field to enter a time in seconds, followed by
+     showAlertTimeEnd.label which in en-US is the unit of the value -->
+
+<!ENTITY showAlertFor.label               "Papar makluman selama">
+<!ENTITY showAlertFor.accesskey           "P">
+<!ENTITY showAlertTimeEnd.label           "saat">
+
+<!ENTITY showAlertPreviewText.label       "Papar previu teks mesej">
+<!ENTITY showAlertPreviewText.accesskey   "v">
+<!ENTITY showAlertSubject.label           "Papar subjek">
+<!ENTITY showAlertSubject.accesskey       "u">
+<!ENTITY showAlertSender.label            "Papar pengirim">
+<!ENTITY showAlertSender.accesskey        "n">
+<!ENTITY useSystemAlert.label             "Guna sistem notifikasi pengoperasian dekstop">
+
+
