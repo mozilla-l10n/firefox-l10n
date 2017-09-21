@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi iccaren iltawan">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Rmed amesten">
 <!ENTITY trackingProtection.block2.accesskey "R">
 
-<!ENTITY trackingContentBlocked.message "Asfuɣel">
-<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-a i yesfuɣulen armud-inek s srid, weḥlen.">
-<!ENTITY trackingContentBlocked.learnMore "Issin ugar">
-<!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
-<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-a">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "K">
-<!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
-<!ENTITY trackingContentBlocked.block.accesskey "R">
-<!ENTITY trackingContentBlocked.disabled.message "Ammesten mgal asfuɣel ur yermid ara">
-
 <!ENTITY pluginNotification.showAll.label "Sken imaṛṛa">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwaskelsen, d wayen-nniḍen">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Timahaltin n unekcum remdent">

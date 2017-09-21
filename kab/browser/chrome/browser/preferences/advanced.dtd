@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-a n usefsu">
 
-<!ENTITY enableHealthReport1.label       "Sireg &brandShortName; as yazen s wudem awurman isefka itiknikanen γer Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "g">
+<!ENTITY enableHealthReport2.label       "Sireg &brandShortName; ad yazen isefka itiknikanen γer Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
 <!ENTITY dataCollection.label            "Alqqaḍ d useqdec n isefka &brandShortName;">

@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Azem n tmerna">
 <!ENTITY col.lastmodified.label  "Asnifel aneggaru">
 
-<!ENTITY search.placeholder  "Nadi">
+<!ENTITY historySearch.placeholder  "Amazray n unadi">
+<!ENTITY bookmarksSearch.placeholder  "Nadi ticraḍ n isebtar">
 
 <!ENTITY cmd.find.key  "f">
 
