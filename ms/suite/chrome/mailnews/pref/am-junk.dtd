@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY junkSettings.label "Tetapan Mel Remeh">
+<!ENTITY trainingDescription.label "Jika diaktifkan, anda perlu melatih &brandShortName; untuk mengenal pasti mel remeh dengan menggunakan butang bar alatan Mel Remeh untuk menandakan samada sesuatu mesej itu remeh atau tidak. Anda perlu mengenal pasti mesej yang remeh atau sebaliknya. Selepas itu, &brandShortName; akan boleh menandakan mel remeh secara automatik.">
+<!ENTITY level.label "Aktifkan kawalan mudah suai mel remeh untuk akaun ini">
+<!ENTITY level.accesskey "A">
+
+<!ENTITY move.label "Pindah mesej remeh baru ke:">
+<!ENTITY move.accesskey "P">
+<!ENTITY junkFolderOn.label "Folder &quot;Mel Remeh&quot; dalam:">
+<!ENTITY junkFolderOn.accesskey "M">
+
+
+
+
