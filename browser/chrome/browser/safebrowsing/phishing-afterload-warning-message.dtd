@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "צא מכאן!">
-<!ENTITY safeb.palm.decline.label "התעלמות מאזהרה זו">
+<!ENTITY safeb.palm.accept.label2 "חזרה אחורה">
+<!ENTITY safeb.palm.seedetails.label "צפייה בפרטים">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,26 +14,52 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "א">
-<!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "גורם מייעץ: <a id='advisory_provider'/>">
+<!ENTITY safeb.palm.advisory.desc2 "גורם מייעץ: <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "הדף בכתובת  <span id='malware_sitename'/> דווח בתור דף תקיפה ונחסם בהתאם להגדרות האבטחה שלך.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>דפי תקיפה מנסים להתקין תוכנות שגונבות נתונים פרטיים, עושות שימוש במחשב שלך כדי לתקוף אחרים, או בפוגעות במערכת שלך.</p><p>חלק מדפי התקיפה מפיצים בכוונה תוכנות מסוכנות, בעוד דפים אחרים שובשו ללא ידיעת בעלי האתר או בהסכמתם.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "דף תכנה בלתי רצויה מדווח!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "הדף בכתובת <span id='unwanted_sitename'/> דווח כיוון שהוא מכיל תכנה בלתי רצויה ולכן נחסם בהתאם להעדפות האבטחה שלך.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>דפי תכנה בלתי רצויה מנסים להתקין תכניות שעשויות להוליך שולל ולהשפיע על המערכת שלך בדרכים בלתי צפויות.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "ביקור באתר זה עלול להזיק למחשב שלך">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול לנסות להתקין תוכנה זדונית במחשב שלך, העשויה לגנוב או למחוק מידע אישי.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "אתר מטעה!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "הדף בכתובת <span id='phishing_sitename'/> דווח כאתר מטעה ונחסם בהתאם להעדפות האבטחה שלך.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>אתרים מטעים נועדו לגרום לך לבצע פעולות מסוכנות, כמו התקנת תוכנה, חשיפה של מידע אישי כגון ססמאות, מספרי טלפון או כרטיס אשראי.</p><p>הכנסת מידע בדף זה עלולה לגרום לגניבת זהות או הונאה אחרת.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "האתר <span id='malware_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>. באפשרותך <a id='report_detection'>לדווח על בעיה בזיהוי</a> או <a id='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.">
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "האתר <span id='malware_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>. באפשרותך <a id='report_detection'>לדווח על בעיה בזיהוי</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "מידע נוסף על תוכן רשת מזיק, כולל וירוסים ושאר מזיקים וכיצד להגן על המחשב שלך זמין בכתובת <a id='learn_more_link'>StopBadware.org</a>. מידע נוסף על ההגנה של &brandShortName; מפני דיוג ותוכנות זדוניות זמין בכתובת <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "האתר הבא עלול להכיל תוכניות מזיקות">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך להתקין תוכניות שמזיקות לחווית הגלישה שלך (למשל ע״י שינוי דף הבית שלך או הצגת פרסומות נוספות באתרים).">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "האתר <span id='unwanted_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>. באפשרותך <a id='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "האתר <span id='unwanted_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "מידע נוסף על תוכניות מזיקות ובלתי רצויות זמין ב<a id='learn_more_link'>מדיניות תוכניות בלתי רצויות</a>. מידע נוסף על ההגנה של &brandShortName; מפני דיוג ותוכנות זדוניות זמין בכתובת <a id='firefox_support'>support.mozilla.org</a>.">
+
+
+<!ENTITY safeb.blocked.phishingPage.title3 "אתר מטעה לפניך">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; חסם דף זה מכיוון שהוא עלול להערים עליך ולגרום לך לעשות משהו מסוכן כמו להתקין תוכניות או לחשוף מידע אישי כמו ססמאות או כרטיסי אשראי.">
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "האתר <span id='phishing_sitename'/> <a id='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a id='report_detection'>לדווח על בעיה בזיהוי</a> או <a id='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.">
+
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "האתר <span id='phishing_sitename'/> <a id='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a id='report_detection'>לדווח על בעיה בזיהוי</a>.">
+
+<!ENTITY safeb.blocked.phishingPage.learnMore "מידע נוסף על אתרים מטעים ודיוג זמין בכתובת <a id='learn_more_link'>www.antiphishing.org</a>. מידע נוסף על ההגנה של &brandShortName; מפני דיוג ותוכנות זדוניות זמין בכתובת <a id='firefox_support'>support.mozilla.org</a>.">
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "האתר הבא עלול להכיל נוזקה">
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "Firefox חסם דף זה מכיוון שייתכן שהוא מנסה להתקין יישומים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; חסם דף זה מכיוון שהוא עלול לנסות להתקן יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "האתר <span id='harmful_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>. באפשרותך <a id='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.">
+
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "האתר <span id='harmful_sitename'/> <a id='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>.">
+
+<!ENTITY safeb.blocked.harmfulPage.learnMore "מידע נוסף על ההגנה של &brandShortName; מפני דיוג ותוכנות זדוניות זמין בכתובת <a id='firefox_support'>support.mozilla.org</a>.">
