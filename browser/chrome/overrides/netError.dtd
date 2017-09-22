@@ -44,7 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ouvrir la page de connexion du réseau">
 
+<!ENTITY malformedURI.pageTitle "Adresse invalide">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hum, cette adresse ne semble pas valide.">
 
 <!ENTITY netInterrupt.title "La connexion a été interrompue">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
