@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "加入日期">
 <!ENTITY col.lastmodified.label  "最後修改日期">
 
-<!ENTITY search.placeholder  "搜尋">
+<!ENTITY historySearch.placeholder  "搜尋瀏覽紀錄">
+<!ENTITY bookmarksSearch.placeholder  "搜尋書籤">
 
 <!ENTITY cmd.find.key  "f">
 
