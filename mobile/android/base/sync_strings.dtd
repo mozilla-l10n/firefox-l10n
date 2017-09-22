@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Sākt'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Izmantojat vecāku &syncBrand.shortName.label; versiju?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Pierakstījies kā'>
-<!ENTITY fxaccount_status_manage_account 'Pārvaldīt kontu'>
 <!ENTITY fxaccount_status_auth_server 'Kona serveris'>
 <!ENTITY fxaccount_status_sync_now 'Sinhronizēt'>
 <!ENTITY fxaccount_status_syncing2 'Sinhronizē…'>
 <!ENTITY fxaccount_status_device_name 'Ierīces nosaukums'>
 <!ENTITY fxaccount_status_sync_server 'Sinhronizācijas serveris'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktivēts'>
 <!ENTITY fxaccount_status_needs_verification2 'Jūsu konts ir jāapstiprina. Pieskarieties te, lai atkārtoti nosūtītu apstiprinājuma epastu.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nevar savienoties. Pieskarieties te, lai ierakstītos.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Nepieciešams &brandShortName; atjauninājums, lai ierakstītos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” sadaļā Android iestatījumi &gt; Datu lietojums.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Sadaļā Android iestatījumi &gt; Konti.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Pieskarieties, lai pieslēgtos Firefox kontam.'>
+<!ENTITY fxaccount_status_choose_what 'Izvēlieties, ko sinhronizēt'>
 <!ENTITY fxaccount_status_bookmarks 'Grāmatzīmes'>
 <!ENTITY fxaccount_status_history 'Vēsture'>
 <!ENTITY fxaccount_status_passwords2 'Lietotājvārdi'>
 <!ENTITY fxaccount_status_tabs 'Atvērtās cilnes'>
+<!ENTITY fxaccount_status_additional_settings 'Papildu iestatījumi'>
 <!ENTITY fxaccount_status_legal 'Juridiskā informācija' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Lietošanas noteikumi'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privātuma atruna'>
-<!ENTITY fxaccount_status_more 'Vairāk&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Atvienoties&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Atvienoties no Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; iestatījumi'>
 <!ENTITY fxaccount_options_configure_title 'Konfigurēt &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Nepieciešams Firefox atjauninājums'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konts jau eksistē. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nederīgs epasts vai parole'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nederīgs epasts vai parole'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konts nav apstiprināts'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveris ir pārslogots, mēģiniet vēlreiz pēc brīža'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Radusies problēma'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Konts ir bloķēts. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nav savienots'>
 <!-- Localization note: the format string below will be replaced
