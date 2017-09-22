@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Aldonita">
 <!ENTITY col.lastmodified.label  "Laste modifita">
 
-<!ENTITY search.placeholder  "Serĉi">
+<!ENTITY historySearch.placeholder  "Serĉi historion">
+<!ENTITY bookmarksSearch.placeholder  "Serĉi legosignojn">
 
 <!ENTITY cmd.find.key  "f">
 
