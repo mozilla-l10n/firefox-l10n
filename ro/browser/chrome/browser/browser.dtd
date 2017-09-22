@@ -537,7 +537,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Vezi imaginea">
 <!ENTITY viewImageCmd.accesskey       "i">
-<!ENTITY viewImageInfoCmd.label       "Vezi informații despre imagine">
+<!ENTITY viewImageInfoCmd.label       "Vezi informații privind imaginea">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Vezi descrierea">
 <!ENTITY viewImageDescCmd.accesskey   "d">
@@ -880,16 +880,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activează protecția">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
-<!ENTITY trackingContentBlocked.message "Urmărire">
-<!ENTITY trackingContentBlocked.moreinfo "Părți ale paginii care îți urmăresc activitatea online au fost blocate.">
-<!ENTITY trackingContentBlocked.learnMore "Află mai multe">
-<!ENTITY trackingContentBlocked.options "Opțiuni">
-<!ENTITY trackingContentBlocked.unblock2.label "Dezactivează protecția pentru acest site">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activează protecția">
-<!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "Protecția față de urmărire este dezactivată">
-
 <!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -964,3 +954,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
 
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
