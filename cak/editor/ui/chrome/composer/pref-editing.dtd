@@ -6,6 +6,8 @@
 <!ENTITY  authorName.label          "B'anel:">
 
 
+<!ENTITY normalText.label           "Relik rucholajem tzij">
+<!ENTITY normalText.accesskey       "R">
 <!ENTITY linkText.label             "Rucholajem tzij ximonel">
 <!ENTITY linkText.accesskey         "x">
 <!ENTITY activeLinkText.label       "Titzij rucholajem tzij ximonel">

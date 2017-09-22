@@ -5,8 +5,10 @@
 <!ENTITY windowTitle.label "B'onil">
 <!ENTITY default.label "K'o wi">
 <!ENTITY standardPalette.label "Pa rub'eyal">
+<!ENTITY webPalette.label "Ronojel ajk'amaya'l taq b'onil">
 <!ENTITY background.label "Rupam:">
 <!ENTITY background.accessKey "R">
 <!ENTITY table.label "Kemoj kajtz'ik">
+<!ENTITY table.accessKey "K">
 <!ENTITY cell.label "(taq)Ch'utikajtz'ik">
 <!ENTITY cell.accessKey "C">

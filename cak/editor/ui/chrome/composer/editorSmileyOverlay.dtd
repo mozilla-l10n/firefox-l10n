@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Smiley Menu items -->
+
+<!ENTITY smiley3Cmd.label "Rek'wach">
+<!ENTITY smiley3Cmd.accesskey "R">
+<!ENTITY smiley3Cmd.tooltip "Tich'ik jun rek'wach wachaj">
+<!ENTITY smiley9Cmd.label "Tz'ub'">
+<!ENTITY smiley9Cmd.accesskey "T">
+<!ENTITY smiley9Cmd.tooltip "Tich'ik jun tz'ub' wachaj">
+
