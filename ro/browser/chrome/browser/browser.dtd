@@ -207,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea pluginurilor">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă nu mai dorești notificări de la acest site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este sub control de la distanță">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
