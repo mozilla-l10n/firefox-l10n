@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "添加日期">
 <!ENTITY col.lastmodified.label  "修改日期">
 
-<!ENTITY search.placeholder  "搜索">
+<!ENTITY historySearch.placeholder  "在历史记录中搜索">
+<!ENTITY bookmarksSearch.placeholder  "在书签中搜索">
 
 <!ENTITY cmd.find.key  "f">
 
