@@ -20,6 +20,15 @@
 
 <!ENTITY dnsNotFound.pageTitle "Strežnika ni mogoče najti">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm, pri iskanju te strani imamo težave.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Če je naslov pravilen, lahko poskusite z naslednjim:</strong>
+<ul>
+  <li>Poskusite znova pozneje.</li>
+  <li>Preverite povezavo z internetom.</li>
+  <li>Če ste povezani in uporabljate požarni zid, preverite, ali ima &brandShortName; dovoljenje za dostop do spleta.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
 <!ENTITY fileNotFound.longDesc "
@@ -49,6 +58,7 @@
 
 <!ENTITY malformedURI.pageTitle "Neveljaven URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm, ta naslov ni videti pravilen.">
 
 <!ENTITY netInterrupt.title "Povezava je bila prekinjena">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

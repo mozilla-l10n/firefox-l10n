@@ -22,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "Ali bi nam pomagali?">
 <!ENTITY tabCrashed.requestHelpMessage "Poročila o sesutju nam pomagajo prepoznati težave in izboljšati &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Poročilo o tem zavihku">
+<!ENTITY tabCrashed.sendReport3 "Pošlji avtomatizirano poročilo o sesutju, da lahko popravimo težave, kot je ta.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Neobvezni komentarji (vidni javnosti)">
 <!ENTITY tabCrashed.emailPlaceholder "Vnesite svoj e-poštni naslov">
 <!ENTITY tabCrashed.emailMe "Obvesti me po e-pošti, ko bo na voljo več informacij">
