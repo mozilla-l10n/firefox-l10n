@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "Benvenite">
 <!ENTITY firstrun_urlbar_message2 "Gratias pro eligente &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderna de Mozilla, le organization de altruismo comittite a un web libere e aperte.">
 <!ENTITY firstrun_panel_title_privacy "Confidentialitate">
@@ -10,10 +11,13 @@
 <!ENTITY firstrun_panel_title_customize "Personalisar">
 <!ENTITY firstrun_customize_message "Facer &brandShortName; vostre proprie.">
 <!ENTITY firstrun_customize_subtext "Personalisar &brandShortName; con supplementos. Bloca annuncios, adde functiones, o elige un thema nove pro reflecter vostre personalitate.">
+<!ENTITY firstrun_bookmarks_title "Chronologia">
 <!ENTITY firstrun_bookmarks_message "Vostre favoritos, fronte e centro">
 <!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de vostre paginas marcate e historia quando vos recerca.">
+<!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Minus datos, plus sparnios">
 <!ENTITY firstrun_data_subtext2 "Deactivar imagines pro perder minus datos in cata sito que vos visitara.">
+<!ENTITY firstrun_sync_title "Synchronisar">
 <!ENTITY firstrun_sync_message2 "Reprender ubi tu lassava.">
 <!ENTITY firstrun_sync_subtext2 "Utiliza Sync pro trovar le paginas marcate, contrasignos, e cosas altere que vos salvate a &brandShortName; in tote de vostre apparatos.">
 <!ENTITY firstrun_signin_message "Se connecte, se initia">
@@ -27,11 +31,13 @@
 <!ENTITY firstrun_tabqueue_message_off "Activar cauda de schedas">
 <!ENTITY firstrun_tabqueue_subtext_off "Salvar ligamines pro depois in &brandShortName; quando toccante los in applicationes altere.">
 
+<!ENTITY firstrun_tabqueue_message_on "Successo!">
 
 <!ENTITY firstrun_readerview_title "Articulos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Tu">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -40,11 +46,13 @@
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!ENTITY  crash_close_label "Clauder">
 
 
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_options "Optiones">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -56,13 +64,16 @@
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
 
+<!ENTITY history_today_section "Hodie">
 
+<!ENTITY menu "Menu">
 
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "EXCAMBIAR">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -75,6 +86,7 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Lingua">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -96,6 +108,7 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
+<!ENTITY pref_category_search3 "Recercar">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -104,7 +117,10 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_notifications "Notificationes">
 
+<!ENTITY pref_category_home_panels "Pannellos">
+<!ENTITY pref_home_updates_enabled "Activate">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
