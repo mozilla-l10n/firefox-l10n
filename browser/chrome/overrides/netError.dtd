@@ -18,14 +18,8 @@
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc "<ul>
-  <li>Revisa la dirección en busca de errores de escritura como
-    <strong>ww</strong>.example.com en lugar de
-    <strong>www</strong>.example.com</li>
-  <li>Si no puedes cargar ninguna página, revisa la conexión de red del computador.</li>
-  <li>Si el computador o la red están protegidos por un muro de fuego o proxy, asegúrate de que &brandShortName; tiene permiso para acceder a la web.</li>
-</ul>">
+<!ENTITY dnsNotFound.pageTitle "Servidor no encontrado">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
@@ -46,13 +40,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "Abrir página de conexión de la red">
 
-<!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "<ul>
-  <li>Las direcciones web son usualmente escritas como
-    <strong>http://www.example.com/</strong></li>
-  <li>Asegúrate de que estás usando barras oblicuas (Ej:
-    <strong>/</strong>).</li>
-</ul>">
+<!ENTITY malformedURI.pageTitle "URL inválida">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
