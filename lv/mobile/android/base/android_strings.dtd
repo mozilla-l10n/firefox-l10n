@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Atjaunošanas cilnes, datu taupītājs, izstrādātāju rīki">
 <!ENTITY pref_category_notifications "Paziņojumi">
 <!ENTITY pref_category_notifications_summary "Jaunas funkcijas, mājas lapu ziņas">
-<!ENTITY pref_content_notifications "Mājas lapu jaunumi">
-<!ENTITY pref_content_notifications_summary2 "Atklājiet jaunu saturu no atbalstītajām lapām">
 <!ENTITY pref_developer_remotedebugging_usb "Attālinātā atkļūdošana izmantojot USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Attālinātā atkļūdošana izmantojot Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Lai izmantotu Wi-Fi atkļūdošanu, jūsu ierīcē jābūt instalētai QR koda lasīšanas lietotnei.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Lejupielādēt fontus lādējot lapas">
 
 <!ENTITY pref_tracking_protection_title2 "Izsekošanas aizsardzība">
-<!ENTITY pref_tracking_protection_summary3 "Aktivēta privātajā pārlūkošanā">
 <!ENTITY pref_donottrack_title "Izsekošanas bloķēšana">
 <!ENTITY pref_donottrack_summary "&brandShortName; teiks lapām, ka nevēlaties, lai jūs izseko">
 
@@ -288,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentāla iespēja">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Pielāgotās cilnes">
-<!ENTITY pref_custom_tabs_summary3 "Atļaut aplikācijām atvērt mājas lapas ar pielāgotu &brandShortName; versiju ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Atvērt ar &formatS;">
@@ -334,23 +326,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Lai \&quot;Atvērtu vairākas cilnes\&quot;, ieslēdziet \&apos;Zīmēt pa virsu citām aplikācijām\&apos; atļauju &brandShortName; ">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; lapas atjauninātas">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Iestatījumi">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lasīt">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Atjaunināts &formatS;">
 
 <!ENTITY pref_char_encoding "Simbolu kodējums">
 <!ENTITY pref_char_encoding_on "Rādīt izvēlni">
@@ -410,6 +385,9 @@
 <!ENTITY pref_dialog_set_default "Iestatīt kā noklusējuma">
 <!ENTITY pref_dialog_default "Noklusējuma">
 <!ENTITY pref_dialog_remove "Izņemt">
+<!ENTITY pref_dialog_activitystream_header_content "Papildu saturs">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nesenās grāmatzīmes">
+<!ENTITY pref_dialog_activitystream_visited "Apmeklēta">
 
 <!ENTITY pref_search_last_toast "Pēdējo meklētāju nevar ne izņemt, ne deaktivēt.">
 
@@ -511,7 +489,17 @@
 <!ENTITY contextmenu_top_sites_edit "Rediģēt">
 <!ENTITY contextmenu_top_sites_pin "Piespraust lapu">
 <!ENTITY contextmenu_top_sites_unpin "Izņemt lapu">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Piespraust populāro lapu sarakstā">
+<!ENTITY contextmenu_unpin_from_top_sites "Noņemt no populāro lapu saraksta">
 <!ENTITY contextmenu_add_search_engine "Pievienot meklētāju">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Lapa piesprausta">
+<!ENTITY unpinned_page_from_top_sites "Lapa noņemta">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -835,6 +823,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topstories "Iesaka &brandPocket;">
 <!ENTITY activity_stream_highlights "Aktualitātes">
 
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "VAIRĀK">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Saglabāta grāmatzīmēs">
@@ -843,16 +834,14 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Apmeklēta">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Populāri">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Sāciet pārlūkošanu un mēs šeit parādīsim lieliskus rakstus, video un citas apmeklētās lapas.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Aizvākt">
 <!ENTITY activity_stream_delete_history "Dzēst no vēstures">
-
-<!ENTITY activity_stream_welcome_title "Esiet sveicināti jaunumos">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; veido jaunumu sarakstu ar ievērojamām lietām, lai varat atkal atrast lieliskus rakstus, video, grāmatzīmes un citas lapas.">
-<!ENTITY activity_stream_welcome_dismiss "Noraidīt">
 
 <!ENTITY private_tab_panel_title "Privātā pārlūkošana + Izsekošanas aizsardzība">
 <!ENTITY private_tab_panel_description "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
