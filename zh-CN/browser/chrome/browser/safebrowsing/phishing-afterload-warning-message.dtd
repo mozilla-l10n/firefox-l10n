@@ -58,5 +58,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; 已拦截此页面，其可能会尝试安装危险的应用，从而窃取或删除您的信息（例如照片、密码、邮件、金融权证等）。">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> 被<a id='error_desc_link'>举报含有潜在有害的软件</a>。您可以<a id='ignore_warning_link'>忽略此风险</a>并继续前往这个不安全的网站。">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> 被<a id='error_desc_link'>举报含有潜在有害的软件</a>。">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "访问 <a id='firefox_support'>support.mozilla.org</a> 详细了解 &brandShortName; 的钓鱼网站与恶意网站防护功能。">
