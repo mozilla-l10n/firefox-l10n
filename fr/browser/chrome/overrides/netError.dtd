@@ -20,6 +20,13 @@
 
 <!ENTITY dnsNotFound.pageTitle "Adresse introuvable">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hum, nous ne parvenons pas à trouver ce site.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Si l’adresse est correcte, voici trois autres choses que vous pouvez essayer de faire :</strong>
+<ul>
+  <li>Réessayer ultérieurement.</li>
+  <li>Vérifier votre connexion au réseau.</li>
+  <li>Si vous êtes connecté au travers d’un pare-feu, vérifier que &brandShortName; a la permission d’accéder au Web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Fichier introuvable">
 <!ENTITY fileNotFound.longDesc "
