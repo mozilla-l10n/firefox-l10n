@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>无法识别这种格式的网址。请检查网址是否有误再重试。</p>">
 
 <!ENTITY netInterrupt.title "数据传输中断">
-<!ENTITY netInterrupt.longDesc "<p>浏览器连接成功，但连接在传输数据时被中断。请重试。</p><ul><li>其他网站也访问不了？请检查计算机的网络连接。</li><li>仍然不行？请尝试联系您的网络管理员或者互联网服务提供商以寻求帮助。</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>浏览器连接成功，但连接在传输数据时中断。请重试。</p><ul><li>其他网站也访问不了？请检查计算机的网络连接。</li><li>仍然不行？请尝试联系您的网络管理员或者互联网服务提供商以寻求帮助。</li></ul>">
 
 <!ENTITY notCached.title "文档已过期">
 <!ENTITY notCached.longDesc "<p>您请求的文档已无法在浏览器的缓存中找到。</p><ul><li>出于安全考虑，浏览器不会自动重新获取敏感信息文档。</li><li>请点击重试并从网站来重新获取该文档。</li></ul>">
@@ -45,8 +45,8 @@
 <li>建议向此网站的管理员反馈这个问题。</li> 
 </ul>">
 
-<!ENTITY netReset.title "连接被中断">
-<!ENTITY netReset.longDesc "<p>协商连接时网络连接被中断。请重试。</p>">
+<!ENTITY netReset.title "连接中断">
+<!ENTITY netReset.longDesc "<p>协商连接时网络链路中断。请重试。</p>">
 
 <!ENTITY netTimeout.title "网络超时">
 <!ENTITY netTimeout.longDesc "<p>请求的站点在指定的时间内没有响应连接，因此浏览器停止了等待。</p><ul><li>该服务器是否过载或者暂时不可用？请稍后再试。</li><li>您是否也无法浏览其他站点呢？请检查您计算机的网络连接。</li><li>您的计算机或网络是否被防火墙、代理服务器保护？请尝试修正可能与网页浏览相关的不正确设置。</li><li>仍然不行？请联系您的网络管理员或者互联网服务提供商寻求援助。</li></ul>">
