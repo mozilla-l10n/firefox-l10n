@@ -4,5 +4,23 @@
 
 <!ENTITY windowTitleImage.label "Taq Richinil Ruwachib'al Nojwuj">
 
+<!ENTITY text.value "Rucholajem tz'ib'">
+<!ENTITY password.value "Ewan tzij">
+<!ENTITY radio.value "Rupitz'b'al Talutzij">
+<!ENTITY submit.value "Rupitz'b'al Taqoj">
+<!ENTITY reset.value "Titzolïx Pitz'b'äl">
+<!ENTITY file.value "Yakb'äl">
+<!ENTITY hidden.value "Ewan">
+<!ENTITY image.value "Wachib'äl">
+<!ENTITY button.value "Pitz'b'äl">
 
+<!ENTITY InputSettings.label "Kik'ojlib'al taq Nuk'ulem">
+<!ENTITY InputName.label "Ruk'ojlib'al B'i'aj:">
+<!ENTITY InputName.accesskey "B">
+<!ENTITY GroupName.label "Rumolaj B'i'aj:">
+<!ENTITY GroupName.accesskey "B">
+<!ENTITY InputDisabled.label "Chupun">
+<!ENTITY InputDisabled.accesskey "C">
 
+<!ENTITY ImageProperties.label "Taq Richinil Wachib'äl…">
+<!ENTITY ImageProperties.accesskey "E">
