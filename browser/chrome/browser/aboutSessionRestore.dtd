@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Ar nožēlu jāatzīst.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ir grūtības atgūt jūsu logus un cilnes. To parasti izraisa nesen atvērta mājas lapa.">
-<!ENTITY restorepage.tryThis        "Jūs varat mēģināt:">
-<!ENTITY restorepage.restoreSome    "Aizvākt vienu vai vairākas cilnes, kuras jūsuprāt varētu radīt problēmu">
-<!ENTITY restorepage.startNew       "Sākt jaunu pārlūkošanas sesiju">
+<!ENTITY restorepage.errorTitle2    "Atvainojiet. Mums neizdevās atgūt jūsu lapas.">
+<!ENTITY restorepage.problemDesc2   "Mums neizdodas atjaunot jūsu iepriekšējo pārlūkošanas sesiju. Izvēlieties Atjaunot sesiju, lai mēģinātu vēlreiz.">
+<!ENTITY restorepage.tryThis2       "Joprojām neizdodas atjaunot sesiju? Reizēm kāda konkrēta cilne traucē sesijas atjaunošanai. Aplūkojiet cilnes un izņemiet kēksīti no tām, ko jums nevajag atjaunot, tad mēģiniet vēlreiz.">
 
-<!ENTITY restorepage.tryagainButton "Atjaunot">
-<!ENTITY restorepage.restore.access "A">
-<!ENTITY restorepage.closeButton    "Aizvērt">
-<!ENTITY restorepage.close.access   "A">
+<!ENTITY restorepage.tryagainButton2 "Atjaunot sesiju">
+<!ENTITY restorepage.restore.access2 "A">
+<!ENTITY restorepage.closeButton2    "Sākt jaunu sesiju">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Atjaunot">
 <!ENTITY restorepage.listHeader     "Logus un cilnes">
