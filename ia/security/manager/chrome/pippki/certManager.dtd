@@ -5,11 +5,32 @@
 
 
 
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.subjectinfo.label            "Emittite a">
 <!ENTITY certmgr.issuerinfo.label             "Emittite per">
 
 
 
+<!ENTITY certmgr.override_lifetime            "Duration del vita">
 
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.addException.accesskey       "x">
 
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.supplementalWarning     "Bancas, botecas e altere sitos public legitime non te demandara pro facer isto.">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">

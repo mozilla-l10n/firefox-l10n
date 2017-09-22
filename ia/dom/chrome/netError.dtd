@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY loadError.label "Error de cargamento del pagina">
+<!ENTITY retry.label "Retentar">
 
 <!-- Specific error messages -->
 
@@ -20,28 +21,34 @@
 
 <!ENTITY notCached.title "Documento expirate">
 
+<!ENTITY netOffline.title "Modo disconnectite">
 
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
 
 <!ENTITY netReset.title "Connexion interrumpite">
 
+<!ENTITY netTimeout.longDesc "<p>Le sito requestate non respondeva a un requesta de connexion e le navigator ha cessate de attender un responsa.</p><ul><li>Esque le servitor experi alte demanda o supercarga temporari? Retenta plus tarde.</li><li>Es tu incapace de navigar altere sitos? Verifica le connexion del computator al rete.</li><li>Es tu computator o rete protegite per un firewall o proxy? Parametros incorrecte pote interferer con le navigation web.</li><li>Ha tu ancora problemas? Consulta le assistentia del administrator de tu rete o del fornitor de tu Internet.</li></ul>">
 
+<!ENTITY unknownProtocolFound.title "Protocollo incognite">
 
 
 <!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
 
+<!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirection le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptante le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
 
 
 <!ENTITY nssFailure2.title "Connexion secur fallite">
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 
+<!ENTITY securityOverride.linkText "O tu pote adder un exception…">
 
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 
 <!ENTITY remoteXUL.title "XUL remote">
 
+<!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->

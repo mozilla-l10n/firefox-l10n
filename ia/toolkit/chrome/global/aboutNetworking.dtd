@@ -20,6 +20,7 @@
 <!ENTITY aboutNetworking.addresses             "Adresses">
 <!ENTITY aboutNetworking.expires               "Expira (Secundas)">
 <!ENTITY aboutNetworking.logging               "Registros">
+<!ENTITY aboutNetworking.stopLogging           "Cessar le registration">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

@@ -28,16 +28,22 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> esseva <a id='error_desc_link'>reportate continer malware</a>. Tu pote <a id='report_detection'>reportar un problema de detection</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Apprende plus re contento de web periculose como viruses e altere malware e re como proteger tu computator in <a id='learn_more_link'>StopBadware.org</a>. Apprende plus re &brandShortName;’s Protection ab le phishing e le malware a <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Iste sito pote continer programmas nocive">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blocava iste pagina perque illo pote tentar de dupar te a installar programmas que noce a tu experientia de navigation (per exemplo, modificante tu pagina principal o monstrante annuncios extra sur le sitos que tu visita).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> ha essite <a id='error_desc_link'>reportate como continente software nocive</a>. Tu pote <a id='ignore_warning_link'>ignorar le risco</a> e ir a iste sito non secur.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> ha essite <a id='error_desc_link'>reportate como continente software nocive</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Apprende altero re le software malefic e indesiderate a <a id='learn_more_link'>Regulas del software indesiderate</a>. Apprende altero re &brandShortName;’s protection de phishing e malware a <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Sito sequente fraudulente">
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; blocava iste pagina perque illo pote dupar te a facer alco de damnose como installar software o revelar informationes personal como contrasignos o cartas de credito.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->

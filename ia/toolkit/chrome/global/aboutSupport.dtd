@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutSupport.pageTitle "Informationes de diagnostico">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
@@ -37,12 +38,15 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dossier del profilo">
 
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registrate">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profilos">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenestras in multiprocesso">
 
 
 
@@ -52,11 +56,14 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Aperir le dossier">
 
 <!ENTITY aboutSupport.modifiedPrefsName "Nomine">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+<!ENTITY aboutSupport.userJSTitle "Preferentias de user.js">
+<!ENTITY aboutSupport.userJSDescription "Le dossier de vostre profilo contine un <a id='prefs-user-js-link'>file user.js</a>, que include preferentias que non esseva create per &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedPrefsName "Nomine">
 <!ENTITY aboutSupport.lockedPrefsValue "Valor">
@@ -76,6 +83,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Chronologia del installation">
 <!ENTITY aboutSupport.updateHistoryTitle "Chronologia del actualisationes">
 
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiar le texto in le planchetta">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar le datos brute in le planchetta">
 
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
@@ -83,6 +92,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar le modo secur">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reinitiar con le additivos inactive…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Characteristicas">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
