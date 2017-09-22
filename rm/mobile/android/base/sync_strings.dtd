@@ -51,21 +51,18 @@
 <!ENTITY fxaccount_getting_started_get_started 'Cumenzar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Utiliseschas ti ina versiun pli veglia da &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Annunzià sco'>
-<!ENTITY fxaccount_status_manage_account 'Administrar il conto'>
 <!ENTITY fxaccount_status_auth_server 'Server dal conto'>
 <!ENTITY fxaccount_status_sync_now 'Sincronisar ussa'>
 <!ENTITY fxaccount_status_syncing2 'Sincronisar…'>
 <!ENTITY fxaccount_status_device_name 'Num da l\&apos;apparat'>
 <!ENTITY fxaccount_status_sync_server 'Server per sincronisar'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; è activà'>
 <!ENTITY fxaccount_status_needs_verification2 'Tes conto sto vegnir verifitgà. Tutga per trametter danovamain l\&apos;e-mail da verificaziun.'>
 <!ENTITY fxaccount_status_needs_credentials 'Impussibel da connectar. Tutgar per s\&apos;annunziar.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Ti stos actualisar &brandShortName; per s\&apos;annunziar.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; è endrizzà ma betg configurà per sincronisar automaticamain. Activescha “Sincronisar automaticamain las datas” en las preferenzas dad Android sut Utilisaziun da datas.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; è endrizzà ma betg configurà per sincronisar automaticamain. Activescha “Sincronisar automaticamain las datas” en il menu da las preferenzas dad Android sut Contos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Smatga per t\&apos;annunziar cun tes nov conto da Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Tscherna tge che duai vegnir sincronisà'>
 <!ENTITY fxaccount_status_bookmarks 'Segnapaginas'>
 <!ENTITY fxaccount_status_history 'Cronologia'>
 <!ENTITY fxaccount_status_passwords2 'Infurmaziuns d\&apos;annunzia'>
@@ -77,7 +74,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Cundiziuns d\&apos;utilisaziun'>
 <!ENTITY fxaccount_status_linkprivacy2 'Infurmaziuns davart la protecziun da datas'>
-<!ENTITY fxaccount_status_more 'Dapli&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Deconnectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Deconnectar da Sync?'>
@@ -102,21 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Opziuns da &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Configurar &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Ti stos actualisar Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Il conto exista gia. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Adressa dad e-mail u pled-clav nunvalid'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Adressa dad e-mail u pled-clav nunvalid'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Il conto n\&apos;è betg verifitgà'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Il server è surchargià, emprova pli tard anc ina giada'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Il server è surchargià, emprova pli tard anc ina giada'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Ina errur è succedida'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Il conto è bloccà. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; n\&apos;è betg connectà'>
 <!-- Localization note: the format string below will be replaced
