@@ -7,5 +7,4 @@
 <!ENTITY aboutLogins.title                       "Logins">
 <!ENTITY aboutLogins.update                      "Opdater">
 <!ENTITY aboutLogins.emptyLoginText              "Beskyt dine logins">
-<!ENTITY aboutLogins.emptyLoginHint              "Her vil du få vist logins og andre
-legitimationsoplysninger, som du gemmer i &brandShortName;.">
+<!ENTITY aboutLogins.emptyLoginHint              "Her vises logins og andre legitimationsoplysninger, som du gemmer ved brug af &brandShortName;.">
