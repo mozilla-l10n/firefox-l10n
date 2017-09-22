@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Správa zařízení…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
 
-<!ENTITY appMenuRecentHighlights.label "Nedávno vybrané">
+<!ENTITY appMenuRecentHighlights.label "Vybrané">
 
 <!ENTITY customizeMenu.addToToolbar.label "Přidat na lištu">
 <!ENTITY customizeMenu.addToToolbar.accesskey "l">
