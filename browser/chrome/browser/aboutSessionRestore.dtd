@@ -6,16 +6,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "यो लज्जादायी छ।">
-<!ENTITY restorepage.problemDesc    "&brandShortName;लाई तपाईँको सञ्झ्याल र ट्याब पुनः हासिल गर्न समस्या भइरहेको समस्या सामान्यतया यो भर्खरै खोलिएको वेब पृष्ठको कारणले हुन्छ।">
-<!ENTITY restorepage.tryThis        "तपाईँले यो प्रयास गर्न सक्नुहुन्छ:">
-<!ENTITY restorepage.restoreSome    "तपाईँले सोच्नु भएको एक वा बढि ट्याबहरू, जसका काराणले समस्या भइरहेको छ, हटाउँदै">
-<!ENTITY restorepage.startNew       "पूर्ण रूपले नयाँ ब्राउजिङ्ग सत्र सुरु गरिँदै">
 
-<!ENTITY restorepage.tryagainButton "पूर्ववस्थामा ल्याउनुहोस्">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "बन्द गर्नुहोस्">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "सत्रलाई पूर्वावस्थामा ल्याउनुहोस्">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "नयाँ सत्र सुरु गर्नुहोस्">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "पूर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY restorepage.listHeader     "सञ्झ्याल तथा ट्याबहरू">

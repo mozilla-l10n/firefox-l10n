@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "थपिएको">
 <!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">
 
-<!ENTITY search.placeholder  "खोजी गर्नुहोस्">
+<!ENTITY historySearch.placeholder  "इतिहास खोज्नुहोस्">
+<!ENTITY bookmarksSearch.placeholder  "पुस्तकचिनोहरू खोज्नुहोस्">
 
 <!ENTITY cmd.find.key  "f">
 

@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "यस निर्माण कन्फिगरेसनको लागि डाटा रिपोर्टिङ अक्षम गरिएको छ">
 
-<!ENTITY enableHealthReport1.label       "Mozilla लाई स्वचालित रुपमा प्राविधिक र अन्तरक्रिया डाटा पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Mozilla लाई प्राविधिक र अन्तरक्रिया डाटा पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY dataCollection.label            "&brandShortName; डाटा सङ्कलन र प्रयोग">
