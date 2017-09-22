@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Қолжетерлілік қызметтеріне сіздің браузеріңізге қатынауға тыйым салу">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "а">
 <!ENTITY  a11yPrivacy.learnmore.label    "Көбірек білу">
+<!ENTITY enableSafeBrowsingLearnMore.label "Көбірек білу">

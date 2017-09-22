@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Іздеу жолағы">
+
+<!ENTITY searchBar.hidden.label                "Іздеу және навигация үшін адрестік жолақты қолдану">
+
 <!ENTITY defaultSearchEngine.label             "Негізгі іздеу жүйесі">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Адрестік жолақ және іздеу өрісі үшін қолданылатын негізгі іздеу жүйесін таңдау.">
