@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "다른 기기의 탭 목록을 보려면 탭 동기화를 켜십시오.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "동기화된 탭 검색">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "보호 활성화">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "추적">
-<!ENTITY trackingContentBlocked.moreinfo "이 페이지에서 여러분의 온라인 활동을 추적하는 부분을 차단했습니다.">
-<!ENTITY trackingContentBlocked.learnMore "더 알아보기">
-<!ENTITY trackingContentBlocked.options "설정">
-<!ENTITY trackingContentBlocked.unblock2.label "이 사이트에서는 보호 풀기">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "보호 켜기">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "추적 보호 풀림">
-
 <!ENTITY pluginNotification.showAll.label "모두 보기">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
 
 <!ENTITY libraryButton.tooltip "방문 목록, 즐겨찾기 등 보기">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "접근성 기능 활성화됨">
