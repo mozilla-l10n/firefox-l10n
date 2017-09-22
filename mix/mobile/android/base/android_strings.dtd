@@ -382,7 +382,9 @@
 <!ENTITY pref_dialog_set_default "Chikaà ña xina">
 <!ENTITY pref_dialog_default "Tsa sa\&apos;an kaá">
 <!ENTITY pref_dialog_remove "Shitaá">
-<!ENTITY pref_dialog_activitystream_visited "Tsa ntsinuña">
+<!ENTITY pref_dialog_activitystream_header_content "Kuaka tu\&apos;un">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Marka tsa\&apos;a">
+<!ENTITY pref_dialog_activitystream_visited "Saa ntsinuña">
 
 <!ENTITY pref_search_last_toast "Ma kuu xituu a ntakasu ña nda ntuku saa ntiì ">
 
@@ -424,12 +426,12 @@
 <!ENTITY pref_update_autodownload3 "ntu tsaá mitu\&apos;in">
 <!ENTITY pref_update_autodownload_wifi "tsi Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mikí">
-<!ENTITY pref_update_autodownload_always "ntikiì">
+<!ENTITY pref_update_autodownload_always "Ntikiì">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
-<!ENTITY help_menu "chi\&apos;ncheu">
+<!ENTITY help_menu "Chincheyu">
 
-<!ENTITY quit "Kèe">
+<!ENTITY quit "Xita">
 
 <!ENTITY addons "Add-ons">
 <!ENTITY logins "ki\&apos;tsa">
@@ -785,8 +787,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "Chikai nu ki\&apos;stau">
 
+<!ENTITY helper_first_offline_bookmark_title "Kavi tatu kue itain">
 <!ENTITY helper_first_offline_bookmark_button "A ku\&apos;un nu marcador">
 
+<!ENTITY helper_triple_readerview_open_title "Ku kuncheuña tutu kue itain">
 <!ENTITY helper_triple_readerview_open_button "A ku\&apos;ùn nu marcador">
 
 <!ENTITY activity_stream_topsites "Sitio ña ta\&apos;an inu">
@@ -801,11 +805,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Ntsikau">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "Tu\&apos;un kanu">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "Xitaá">
 <!ENTITY activity_stream_delete_history "Stoò ntii ña niya\&apos;a">
 
 <!ENTITY private_tab_learn_more "¿A kunu kua kutuaku?">
