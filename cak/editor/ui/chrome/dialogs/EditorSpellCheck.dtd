@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Tinik'öx Rutz'ib'axik">
+
+<!ENTITY wordEditField.label "Tijal rik'in:">
+<!ENTITY wordEditField.accessKey "r">
+<!ENTITY checkwordButton.label "Tinik'öx Tzij">
+<!ENTITY checkwordButton.accessKey "x">
+<!ENTITY suggestions.label "Taq chilab'enïk:">
+<!ENTITY suggestions.accessKey "i">
+<!ENTITY ignoreButton.label "Tiq'olo' richin">
+<!ENTITY ignoreButton.accessKey "i">
+<!ENTITY replaceButton.label "Tijal">
+<!ENTITY replaceButton.accessKey "j">
+<!ENTITY replaceAllButton.label "Tijal Ronojel">
+<!ENTITY replaceAllButton.accessKey "R">
+<!ENTITY stopButton.label "Tiq'at">
+<!ENTITY stopButton.accessKey "a">

@@ -14,6 +14,27 @@
 <!ENTITY SelectDisabled.label "Chupun">
 <!ENTITY SelectDisabled.accesskey "C">
 
+<!ENTITY OptGroupLabel.label "Etal:">
+<!ENTITY OptGroupLabel.accesskey "E">
+<!ENTITY OptGroupDisabled.label "Chupun">
+<!ENTITY OptGroupDisabled.accesskey "C">
 
+<!ENTITY Option.label "Cha'oj">
+<!ENTITY OptionText.label "Rucholajem tzij:">
+<!ENTITY OptionText.accesskey "t">
+<!ENTITY OptionDisabled.label "Chupun">
+<!ENTITY OptionDisabled.accesskey "C">
 
+<!ENTITY TextHeader.label "Rucholajem tz'ib'">
+<!ENTITY SelectedHeader.label "Cha'on">
 
+<!ENTITY AddOption.label "Titz'aqatisäx Cha'oj">
+<!ENTITY AddOption.accesskey "C">
+<!ENTITY AddOptGroup.label "Titz'aqatisäx Molaj">
+<!ENTITY AddOptGroup.accesskey "M">
+<!ENTITY RemoveElement.label "Tiyuj">
+<!ENTITY RemoveElement.accesskey "y">
+<!ENTITY MoveElementUp.label "Tijotob'äx">
+<!ENTITY MoveElementUp.accesskey "b">
+<!ENTITY MoveElementDown.label "Tiqasäx">
+<!ENTITY MoveElementDown.accesskey "q">
