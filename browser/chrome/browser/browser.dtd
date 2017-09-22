@@ -375,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 
+<!ENTITY appMenuRecentHighlights.label "Evidențieri recente">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă în bara de unelte">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
