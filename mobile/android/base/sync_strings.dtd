@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Start'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Bruger du en ældre version af &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Logget ind som'>
-<!ENTITY fxaccount_status_manage_account 'Håndter konto'>
 <!ENTITY fxaccount_status_auth_server 'Kontoserver'>
 <!ENTITY fxaccount_status_sync_now 'Synkroniser nu'>
 <!ENTITY fxaccount_status_syncing2 'Synkroniserer…'>
 <!ENTITY fxaccount_status_device_name 'Enhedens navn'>
 <!ENTITY fxaccount_status_sync_server 'Synkroniseringsserver'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktiveret'>
 <!ENTITY fxaccount_status_needs_verification2 'Din konto skal bekræftes. Tryk for at få sendt en bekræftelsesmail.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan ikke få forbindelse. Tryk for at logge ind.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du skal opgradere &brandShortName; for at kunne logge ind.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er konfigureret, men synkroniserer ikke automatisk. Du kan skifte indstilling for synkronisering i Androids Indstillinger &gt; Dataforbrug.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er sat op, men synkroniserer ikke automatisk. Du kan skifte indstillinger for synkronisering i Androids indstillinger under Konti.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tryk for at logge ind på din nye Firefox-konto.'>
+<!ENTITY fxaccount_status_choose_what 'Vælg hvad der skal synkroniseres'>
 <!ENTITY fxaccount_status_bookmarks 'Bogmærker'>
 <!ENTITY fxaccount_status_history 'Historik'>
 <!ENTITY fxaccount_status_passwords2 'Logins'>
 <!ENTITY fxaccount_status_tabs 'Åbne faneblade'>
+<!ENTITY fxaccount_status_additional_settings 'Flere indstillinger'>
 <!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Tjenestevilkår'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privatlivspolitik'>
-<!ENTITY fxaccount_status_more 'Læs mere&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Afbryd&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Afbryd synkronisering?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Indstillinger for &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Indstil &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Du skal opgradere Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Kontoen eksisterer allerede. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ugyldig mailadresse eller adgangskode'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ugyldig mailadresse eller adgangskode'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Kontoen er ikke bekræftet'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveren er optaget, prøv igen om lidt'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveren er optaget, prøv igen om lidt'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der opstod et problem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Kontoen er låst. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; har ikke forbindelse'>
 <!-- Localization note: the format string below will be replaced
