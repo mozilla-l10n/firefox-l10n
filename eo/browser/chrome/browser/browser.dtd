@@ -902,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktivigi protekton">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingContentBlocked.message "Spurado">
-<!ENTITY trackingContentBlocked.moreinfo "Partoj de la paĝo, kiuj spuras vian retuman aktivecon, estis blokitaj.">
-<!ENTITY trackingContentBlocked.learnMore "Pli da informo">
-<!ENTITY trackingContentBlocked.options "Elektebloj">
-<!ENTITY trackingContentBlocked.unblock2.label "Malaktivigi protekton por tiu ĉi retejo">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "M">
-<!ENTITY trackingContentBlocked.block.label "Aktivigi protekton">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "La protekto kontraŭ spurado ne estas aktiva">
-
 <!ENTITY pluginNotification.showAll.label "Montri ĉion">
 <!ENTITY pluginNotification.showAll.accesskey "M">
 
@@ -991,3 +981,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Alireblecaj trajtoj aktivaj">
