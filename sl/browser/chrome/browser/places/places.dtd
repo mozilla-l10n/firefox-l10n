@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnja sprememba">
 
-<!ENTITY search.placeholder  "Išči">
+<!ENTITY historySearch.placeholder  "Zgodovina iskanja">
+<!ENTITY bookmarksSearch.placeholder  "Iskanje po zaznamkih">
 
 <!ENTITY cmd.find.key  "f">
 

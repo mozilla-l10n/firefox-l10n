@@ -30,6 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "Pošiljanje podatkov je onemogočeno za to nastavitev graditve">
 
 <!ENTITY enableHealthReport2.label       "Dovoli &brandShortName;u pošiljanje tehničnih podatkov in podatkov o uporabi Mozilli">
+<!ENTITY enableHealthReport2.accesskey   "h">
 <!ENTITY healthReportLearnMore.label     "Več o tem">
 
 <!ENTITY dataCollection.label            "Zbiranje in uporaba podatkov &brandShortName;a">

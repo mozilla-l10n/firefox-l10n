@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Žal imamo težave pri obnavljanju vaših strani.">
+<!ENTITY restorepage.problemDesc2   "Imamo težave pri pri obnavljanju vaše zadnje seje brskanja. Izberite Obnovi sejo in poskusite znova.">
+<!ENTITY restorepage.tryThis2       "Še vedno ne morete obnoviti seje? To težavo včasih povzroča zavihek. Oglejte si prejšnje zavihke, odstranite zavihke, ki jih ne boste obnovili, in potem obnovite.">
 
 <!ENTITY restorepage.tryagainButton2 "Obnovi sejo">
 <!ENTITY restorepage.restore.access2 "O">
