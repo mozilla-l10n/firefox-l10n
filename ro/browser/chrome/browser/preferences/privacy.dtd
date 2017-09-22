@@ -107,3 +107,5 @@
 <!ENTITY  browserContainersSettings.accesskey    "t">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Împiedică serviciile de accesibilitate să îți acceseze browserul">
+<!ENTITY  a11yPrivacy.learnmore.label    "Află mai multe">
+<!ENTITY enableSafeBrowsingLearnMore.label "Află mai multe">
