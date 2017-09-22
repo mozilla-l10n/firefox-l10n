@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Қайтадан көру">
 <!ENTITY returnToPreviousPage.label "Артқа">
 <!ENTITY advanced.label "Кеңейтілген">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Байланысты орнату сәтсіз аяқталды">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "Бұл портқа тыйым салынған">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Сервер табылмады">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Адресті енгізген кезде қате кетпегенге көз жеткізіңіз, мысалы <strong>www</strong>.example.com орнына <strong>ww</strong>.example.com</li> <li>Бірде-бір парақ жүктелмесе – Интернетпен байланысының баптауларын тексеріңіз.</li> <li>Компьютер немесе желі желіаралық экранмен немесе прокси-сервермен қорғалған болса – &brandShortName; үшін Интернетке шығуға рұқсат бар екеніне көз жеткізіңіз.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Сервер табылмады">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Файл табылмады">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.</li> <li>Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.</li> </ul>">
@@ -35,8 +35,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Желіге кіру парағын ашу">
 
-<!ENTITY malformedURI.title "Адрес пішімі қате">
-<!ENTITY malformedURI.longDesc "<ul> <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li> <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Байланыс үзілген">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +103,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Кеңейтілген ақпарат: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> сайтына байланыспады, өйткені сіздің компьютеріңіздің сағаты қате уақытты көрсетіп тұрған сияқты, оның нәтижесінде қауіпсіз байланысты орнату мүмкін емес.</p> <p>Компьютеріңіздің уақыты <span id='wrongSystemTime_systemDate'/> болып, нақты уақыты <span id='wrongSystemTime_actualDate'/> болуы тиіс. Бұл мәселені шешу үшін, нақты уақытқа сай келетін компьютеріңізде күн және уақытты орнатыңыз.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> сайтына байланыспады, өйткені сіздің компьютеріңіздің сағаты қате уақытты көрсетіп тұрған сияқты, оның нәтижесінде қауіпсіз байланысты орнату мүмкін емес.</p> <p>Компьютеріңіздің уақыты <span id='wrongSystemTimeWithoutReference_systemDate'/>. Бұл мәселені шешу үшін, нақты уақытқа сай келетін компьютеріңізде күн және уақытты орнатыңыз.</p>">
 
