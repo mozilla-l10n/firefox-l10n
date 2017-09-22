@@ -7,6 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.tryagainButton2 "Pulihkan Sesi">
+<!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2    "Mulai Sesi Baru">
 <!ENTITY restorepage.close.access2   "B">
 
