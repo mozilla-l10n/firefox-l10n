@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Cerrar esta pestaña">
+<!ENTITY tabCrashed.title "Agente de informe de fallos de pestañas">
+
+<!ENTITY tabCrashed.closeTab2  "Cerrar pestaña">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta pestaña">
 <!ENTITY tabCrashed.restoreAll "Restaurar todas las pestañas caídas">
 
@@ -14,17 +16,12 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Chuta. Tu pestaña acaba de caerse.">
-<!ENTITY tabCrashed.offerHelp "¡Te podemos ayudar!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Elije &tabCrashed.restoreTab; para recargar el contenido de la página.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Elije &tabCrashed.restoreTab; o &tabCrashed.restoreAll; para recargar el contenido de la página.">
+<!ENTITY tabCrashed.offerHelp2 "¡Podemos ayudar!">
 <!ENTITY tabCrashed.requestHelp "¿Nos ayudarías?">
 <!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos nos ayudan a diagnosticar problemas y mejorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar esta pestaña">
-<!ENTITY tabCrashed.sendReport2 "Envía un informe de fallos para la pestaña que estas viendo">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son visibles públicamente)">
-<!ENTITY tabCrashed.includeURL2 "Incluir URL de la página con el informe de fallos">
 <!ENTITY tabCrashed.emailPlaceholder "Ingresa tu email aquí">
 <!ENTITY tabCrashed.emailMe "Enviarme un email cuando haya más información disponible">
 <!ENTITY tabCrashed.reportSent "Informe de fallos enviado. ¡Gracias por ayudarnos a mejorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar pestañas en segundo plano">
-<!ENTITY tabCrashed.autoSubmit2 "Actualiza las preferencias para enviar automáticamente reportes de fallos, incluyendo los de pestañas en segundo plano de esta y futuras sesiones.">
