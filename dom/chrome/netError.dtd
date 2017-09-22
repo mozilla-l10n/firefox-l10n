@@ -11,13 +11,13 @@
 <!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prohlížeč nebyl schopen navázat spojení.</p><ul><li>Server může být dočasně nedostupný; Opakujte akci později.</li><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení počítače.</li><li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte jejich nastavení.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Omezení přístupu na port">
-<!ENTITY deniedPortAccess.longDesc "<p>V požadované adrese (URL) byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se obvykle používá pro <em>jiné</em> internetové služby než je prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>V požadované URL adrese byl zadán port (např. <q>mozilla.org:80</q> pro port 80 na serveru mozilla.org), který se obvykle používá pro <em>jiné</em> internetové služby než je prohlížení webových stránek. Prohlížeč zrušil požadavek z důvodů vaší ochrany.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nenalezena">
-<!ENTITY dnsNotFound.longDesc "<p>Adresa (URL) neodpovídá známému serveru a nelze ji načíst.</p><ul><li>Zkontrolujte prosím, že jste adresu napsali správně (např. že neobsahuje <q><strong>ww</strong>.mozilla.org</q> místo <q><strong>www</strong>.mozilla.org</q>)</li><li>Je možné, že server už neexistuje.</li><li>Zobrazují se vám ostatní stránky? Tato chyba může být způsobena problémy ve vaší místní síti. Zkontrolujte nastavení síťového připojení vašeho počítače a DNS serveru.</li><li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, ověřte správnost jejich nastavení.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>URL adresa neodpovídá známému serveru a nelze ji načíst.</p><ul><li>Zkontrolujte prosím, že jste adresu napsali správně (např. že neobsahuje <q><strong>ww</strong>.mozilla.org</q> místo <q><strong>www</strong>.mozilla.org</q>)</li><li>Je možné, že server už neexistuje.</li><li>Zobrazují se vám ostatní stránky? Tato chyba může být způsobena problémy ve vaší místní síti. Zkontrolujte nastavení síťového připojení vašeho počítače a DNS serveru.</li><li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, ověřte správnost jejich nastavení.</li></ul>">
 
 <!ENTITY fileNotFound.title "Soubor nenalezen">
-<!ENTITY fileNotFound.longDesc "<p>Požadovaný soubor nebyl nalezen na zadané adrese (URL). Je možné, že byl odstraněn, přejmenován nebo přemístěn.</p><ul><li>Zkontrolujte prosím, že je adresa napsána správně, a to včetně velikosti písmen.</li><li>Jste-li autorem tohoto souboru, ověřte, že daný soubor na serveru existuje a že má příslušná práva na zobrazení.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<p>Požadovaný soubor nebyl na zadané adrese nalezen. Je možné, že byl odstraněn, přejmenován nebo přemístěn.</p><ul><li>Zkontrolujte prosím, že je adresa napsána správně, a to včetně velikosti písmen.</li><li>Jste-li autorem tohoto souboru, ověřte, že daný soubor na serveru existuje a že má příslušná práva na zobrazení.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Přístup k souboru byl odepřen">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.</li></ul>">
@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Další informace o této chybě nejsou bohužel dostupné.</p>">
 
 <!ENTITY malformedURI.title "Neplatná adresa">
-<!ENTITY malformedURI.longDesc "<p>Adresa (URL) není platná a nelze ji načíst. Zkontrolujte prosím, že je adresa napsána správně.</p>">
+<!ENTITY malformedURI.longDesc "<p>URL adresa není platná a nelze ji načíst. Zkontrolujte prosím, že je adresa napsána správně.</p>">
 
 <!ENTITY netInterrupt.title "Přenos dat přerušen">
 <!ENTITY netInterrupt.longDesc "<p>Podařilo se připojit k serveru, ale spojení bylo v průběhu přenosu přerušeno. Opakujte akci.</p><ul><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení svého počítače.</li><li>Pokud problém přetrvává, poraďte se se správce vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
@@ -54,7 +54,7 @@
 <!ENTITY netTimeout.longDesc "<p>Požadovaný server neodpověděl na požadavek o připojení a prohlížeč ukončil čekání na tuto odpověď.</p><ul><li>Server může být velmi vytížen; Opakujte akci později.</li><li>Je možné, že se jedná o síťový problém mezi vaším počítačem a serverem.</li><li>Pokud problém přetrvává, poraďte se se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Neznámý protokol">
-<!ENTITY unknownProtocolFound.longDesc "<p>Adresu (URL) určuje protokol (např. <q>wxyz://</q>), který nebyl prohlížečem rozpoznán, a proto se k ní nemůže korektně připojit.</p><ul><li>Zkoušíte přistupovat k multimédiím či jiné netextové službě? Podívejte se, jaké další věci stránka vyžaduje.</li><li>Některé protokoly mohou vyžadovat software třetích stran nebo zásuvné moduly dříve, než je prohlížeč může rozpoznat.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>URL adresa obsahuje protokol (např. <q>wxyz://</q>), který nebyl prohlížečem rozpoznán, a proto se k ní nemůže korektně připojit.</p><ul><li>Zkoušíte přistupovat k multimédiím či jiné netextové službě? Podívejte se, jaké další věci stránka vyžaduje.</li><li>Některé protokoly mohou vyžadovat software třetích stran nebo zásuvné moduly dříve, než je prohlížeč může rozpoznat.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server odmítl spojení">
 <!ENTITY proxyConnectFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který odmítl spojení.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Je možné, že proxy server nepovoluje připojení z vaší sítě.</li><li>Pokud problém přetrvává, poraďte se se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
@@ -66,7 +66,7 @@
 <!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky na tuto adresu sám na sebe, a to takovým způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje ukládání cookies, které máte zakázané nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neplatná odpověď">
-<!ENTITY unknownSocketType.longDesc "<p>Server na daný požadavek odpověděl neočekávaným způsobem a nemohl pokračovat.</p><ul><li>Na straně serveru běží jiná služba než je očekáváno.</li><li>Adresa (URL) obsahuje nesrovnalost mezi protokolem (např. http://) a určeným portem (např. mozilla.org:23).</li></ul>">
+<!ENTITY unknownSocketType.longDesc "<p>Server na daný požadavek odpověděl neočekávaným způsobem a nemohl pokračovat.</p><ul><li>Na straně serveru běží jiná služba než je očekáváno.</li><li>URL adresa obsahuje nesrovnalost mezi protokolem (např. http://) a určeným portem (např. mozilla.org:23).</li></ul>">
 
 <!ENTITY nssFailure2.title "Chyba zabezpečeného spojení">
 <!ENTITY nssFailure2.longDesc2 "<p>Požadovanou stránku nelze zobrazit, protože nelze ověřit autenticitu přijatých dat.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
