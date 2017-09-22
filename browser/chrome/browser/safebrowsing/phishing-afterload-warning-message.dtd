@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Du-mă de aici!">
-<!ENTITY safeb.palm.decline.label "Ignoră acest avertisment">
+<!ENTITY safeb.palm.accept.label2 "Întoarce-te">
+<!ENTITY safeb.palm.seedetails.label "Vezi detalii">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,23 +14,40 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "De ce a fost blocată această pagină?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Avertismente furnizate de <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.malwarePage.title "Pagină de atac raportată!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Această pagină web de la <span id='malware_sitename'/> a fost raportată ca fiind o pagină de atac și a fost blocată pe baza preferințelor de securitate.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Paginile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a-i produce pagube.</p><p>Unele pagini de atac distribuie intenționat programe rău intenționate, dar unele sunt compromise fără știrea sau permisiunea proprietarului lor.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Site cu programe nedorite raportat!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Această pagină web de la <span id='unwanted_sitename'/> a fost raportată că conține programe nedorite și a fost blocată pe baza preferințelor de securitate.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și vă afectează sistemul în moduri neașteptate.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Vizitarea acestui site web poate dăuna calculatorului">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; a blocat această pagină deoarece ar putea încerca să instaleze programe rău intenționate care pot să fure sau să șteargă informații cu caracter personal de pe calculator.">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Site înșelător!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Această pagină web de la <span id='phishing_sitename'/> a fost raportată ca fiind un site înșelător și a fost blocată pe baza preferințelor de securitate.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Site-urile înșelătoare sunt concepute pentru a te păcăli să faci ceva periculos, precum instalarea de programe sau dezvăluirea informațiilor personale, precum parolele, numerele de telefon sau cardurile de credit.</p><p>Introducerea oricărei informații pe această pagină web poate conduce la furt de identitate sau altă fraudă.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.harmfulPage.longDesc "">
+
+
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "Site-ul de la orizont poate conține programe dăunătoare">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; a blocat această pagină deoarece s-ar putea să încerce să te păcălească să instalezi programe care dăunează experienței de navigare (de exemplu, prin schimbarea paginii tale de start sau prin afișarea de reclame pe site-urile pe care le vizitezi).">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!ENTITY safeb.blocked.phishingPage.title3 "Site înșelător la orizont">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; a blocat această pagină deoarece te-ar putea păcăli să faci ceva periculos precum instalarea de programare sau dezvăluirea de informații personale precum parolele sau cardurile de credit.">
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+<!ENTITY safeb.blocked.harmfulPage.title "Site-ul de la orizont poate conţine malware">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; a blocat această pagină deoarece ar putea să încerce să instaleze programe periculoase care fură sau șterg informațiile tale (de exemplu, fotografii, parole, mesaje și carduri de credit).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
