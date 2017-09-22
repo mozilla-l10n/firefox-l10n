@@ -10,7 +10,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Anmeldt angrebswebsted!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette websted (<span id='malware_sitename'/>) er blevet anmeldt som et angrebswebsted og er blokeret på grund af dine sikkerhedsindstillinger.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Dette websted (<span id='malware_sitename'/>) er blevet anmeldt som et angrebswebsted, og er blokeret i henhold til dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Angrebswebsteder forsøger at installere software, som stjæler private oplysninger, bruger din computer til at angribe andre, eller skader dit system.</p><p>Nogle angrebswebsteder distribuerer med fortsæt skadelig software, men mange andre er kompromitteret uden viden eller accept fra webstedets ejere.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Vildledende websted!">
@@ -24,4 +24,4 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønsket software prøver at lokke dig til at installere software, der kan påvirke dit system på uventede måder.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Webstedet kan indeholde skadelig software">
-<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; har blokeret denne side da den kan forsøge at installere skadelige apps, der stjæler eller sletter information om dig (for eksempel billeder, adgangskoder, beskeder eller kreditkort).">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; har blokeret denne side, da den kan forsøge at installere skadelige apps, der stjæler eller sletter information om dig (fx billeder, adgangskoder, beskeder eller kreditkort).">

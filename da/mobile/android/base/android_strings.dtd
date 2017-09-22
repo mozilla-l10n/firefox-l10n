@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Velkommen">
-<!ENTITY firstrun_urlbar_message2 "Tak for at vælge &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "Tak for at du valgte &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "En moderne mobil browser fra Mozilla, nonprofit-organisationen der er dedikeret til et frit og åbent internet.">
 <!ENTITY firstrun_panel_title_privacy "Privatliv">
 <!ENTITY firstrun_privacy_message "Surf på nettet uden at føle dig overvåget">
-<!ENTITY firstrun_privacy_subtext "Privat browsing med beskyttelse mod sporing blokerer for elementer der registrerer data om dig og gemmer ikke din historik når du er færdig.">
+<!ENTITY firstrun_privacy_subtext "Privat browsing med beskyttelse mod sporing blokerer for elementer, der registrerer data om dig, og din historik gemmes ikke, når du er færdig.">
 <!ENTITY firstrun_panel_title_customize "Tilpas">
 <!ENTITY firstrun_customize_message "Gør &brandShortName; til din egen.">
-<!ENTITY firstrun_customize_subtext "Tilpas &brandShortName; med tilføjelser. Bloker annoncer, tilføj funktioner eller vælg et tema der passer til dig.">
+<!ENTITY firstrun_customize_subtext "Tilpas &brandShortName; med tilføjelser. Bloker annoncer, tilføj funktioner eller vælg et tema, der passer til dig.">
 <!ENTITY firstrun_bookmarks_title "Historik">
 <!ENTITY firstrun_bookmarks_message "Nem adgang til dine favorit-websteder">
 <!ENTITY firstrun_bookmarks_subtext "Få resultater fra dine bogmærker og din historik, når du søger.">
@@ -206,8 +206,8 @@
 <!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
-<!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via wi-fi">
+<!ENTITY pref_developer_remotedebugging_usb "Ekstern debugging via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Ekstern debugging via wi-fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugging via wi-fi kræver, at din enhed har en app til skanning af QR-koder installeret.">
 <!ENTITY pref_remember_signons2 "Husk logins">
 <!ENTITY pref_manage_logins "Håndter logins">
@@ -252,7 +252,7 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Aktiveret">
-<!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
+<!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop tredjeparts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -312,7 +312,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Du kan senere ændre dette i indstillingerne">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Aktiver Ignorere andre apps">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Tillad at indhold åbnes på skærmen, mens andre apps er aktive">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktiver">
 <!ENTITY tab_queue_prompt_negative_action_button "Ikke nu">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -808,7 +808,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Vi beklager, &brandShortName; virker ikke på denne enhed (&formatS1;, &formatS2;). Hent en korrekt version.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; vil ikke længere blive opdateet">
+<!ENTITY eol_notification_title2 "&brandShortName; opdateres ikke længere">
 <!ENTITY eol_notification_summary "Tryk for at læse mere">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
@@ -843,7 +843,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Populært">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Start med at browse, og vi vil vise nogle af de artikler, videoer og andre sider du besøgt for nylig eller oprettet bogmærke til her.">
+<!ENTITY activity_stream_highlights_empty "Start med at browse, og vi vil her vise nogle af de artikler, videoer og andre sider du besøgt for nylig eller oprettet bogmærke til.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -852,7 +852,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Slet fra historikken">
 
 <!ENTITY private_tab_panel_title "Privat browsing + sporingsbeskyttelse">
-<!ENTITY private_tab_panel_description "&brandShortName; blokerer dele af de sider der måske sporer hvad du laver på nettet.">
+<!ENTITY private_tab_panel_description "&brandShortName; blokerer elementer på sider, der måske sporer, hvad du laver på nettet.">
 <!ENTITY private_tab_panel_description2 "Vi gemmer ikke din historik, men hentede filer og nye bogmærker gemmes som normalt på din enhed.">
 <!ENTITY private_tab_learn_more "Vil du vide mere?">
 
