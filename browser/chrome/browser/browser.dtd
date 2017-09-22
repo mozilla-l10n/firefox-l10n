@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Укључите синхронизацију језичака да видите листу језичака са других уређаја.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Претражите синхронизоване језичке">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Омогући заштиту">
 <!ENTITY trackingProtection.block2.accesskey "О">
 
-<!ENTITY trackingContentBlocked.message "Праћење">
-<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате ваше активности на мрежи су блокиране.">
-<!ENTITY trackingContentBlocked.learnMore "Сазнајте више">
-<!ENTITY trackingContentBlocked.options "Опције">
-<!ENTITY trackingContentBlocked.unblock2.label "Онемогући заштиту за овај сајт">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "н">
-<!ENTITY trackingContentBlocked.block.label "Омогући заштиту">
-<!ENTITY trackingContentBlocked.block.accesskey "з">
-<!ENTITY trackingContentBlocked.disabled.message "Заштита од праћења је онемогућена">
-
 <!ENTITY pluginNotification.showAll.label "Прикажи све">
 <!ENTITY pluginNotification.showAll.accesskey "С">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизујем уређаје…">
 
 <!ENTITY libraryButton.tooltip "Погледајте историјат, сачуване забелешке и више">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Могућности за приступачност омогућене">
