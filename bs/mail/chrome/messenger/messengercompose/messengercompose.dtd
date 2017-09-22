@@ -14,9 +14,53 @@
 <!ENTITY newMessage.key "P">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "P">
+<!ENTITY newContact.label "Kontaktu imeniku…">
+<!ENTITY newContact.accesskey "K">
+<!ENTITY attachMenu.label "Priloži">
+<!ENTITY attachMenu.accesskey "h">
+<!ENTITY attachFileCmd.label "Datoteke…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachPageCmd.label "Web stranicu…">
+<!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Kontakt karticu (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Podsjeti me kasnije">
+<!ENTITY remindLater.accesskey "K">
+<!ENTITY closeCmd.label "Zatvori">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "z">
+<!ENTITY saveCmd.label "Sačuvaj">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "Sačuvaj kao">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "Datoteku…">
+<!ENTITY saveAsFileCmd.accesskey "D">
+<!ENTITY saveAsDraftCmd.label "Nacrt">
+<!ENTITY saveAsDraftCmd.accesskey "N">
+<!ENTITY saveAsTemplateCmd.label "Šablon">
+<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY sendNowCmd.label "Pošalji sad">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Pošalji kasnije">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "Postavke stranice…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Pregled prije štampanja">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Štampaj…">
+<!ENTITY printCmd.key "P">
+<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
+<!ENTITY editMenu.label "Uredi">
+<!ENTITY editMenu.accesskey "e">
 
 <!-- View Menu -->
 
