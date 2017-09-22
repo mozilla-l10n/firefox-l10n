@@ -183,8 +183,19 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Imenik">
 <!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "Postavke računa">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Opcije">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Mogućnosti">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimiziraj">
+<!ENTITY bringAllToFront.label "Prenesi sve naprijed">
 
 <!-- Mail Toolbar -->
 
