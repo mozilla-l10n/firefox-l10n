@@ -2,89 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "נתוני Telemetry">
-
-
 <!ENTITY aboutTelemetry.showCurrentPingData "
 נתוני הפינג הנוכחיים
 ">
+<!ENTITY aboutTelemetry.choosePing "
+בחירת פינג:
+">
+<!ENTITY aboutTelemetry.archivePingHeader "
+פינג
+">
+<!ENTITY aboutTelemetry.optionGroupToday "
+היום
+">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+אתמול
+">
+<!ENTITY aboutTelemetry.optionGroupOlder "
+ישן יותר
+">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  מטען
+">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
 
+<!ENTITY aboutTelemetry.pageTitle "נתוני Telemetry">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "פתיחה במציג ה־JSON">
+
+<!ENTITY aboutTelemetry.homeSection "בית">
+<!ENTITY aboutTelemetry.generalDataSection "  מידע כללי">
+<!ENTITY aboutTelemetry.environmentDataSection "
+  נתונים סביבתיים
+">
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  פרטי הפעלה
+">
+<!ENTITY aboutTelemetry.histogramsSection "  היסטוגרמות">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  היסטוגרמות ממופתחות">
+<!ENTITY aboutTelemetry.eventsSection "
+  אירועים
+">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  מדדים פשוטים">
+<!ENTITY aboutTelemetry.telemetryLogSection "
+  יומן טלמטריה
+">
+<!ENTITY aboutTelemetry.slowSqlSection "  משפטי SQL איטיים">
+<!ENTITY aboutTelemetry.chromeHangsSection "  תקיעות דפדפן">
+<!ENTITY aboutTelemetry.addonDetailsSection "  פרטי תוספת">
+<!ENTITY aboutTelemetry.lateWritesSection "  כתיבה מאוחרת">
 <!ENTITY aboutTelemetry.raw "
 JSON גולמי
 ">
 
-
-<!ENTITY aboutTelemetry.choosePing "
-בחירת פינג:
-">
-
-
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "
-שבוע
-">
-
-
-<!ENTITY aboutTelemetry.archivePingHeader "
-פינג
-">
-
-<!ENTITY aboutTelemetry.optionGroupToday "
-היום
-">
-
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-אתמול
-">
-
-<!ENTITY aboutTelemetry.optionGroupOlder "
-ישן יותר
-">
-
-<!ENTITY aboutTelemetry.generalDataSection "  מידע כללי">
-
-<!ENTITY aboutTelemetry.environmentDataSection "
-  נתונים סביבתיים
-">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  יומן טלמטריה
-">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  משפטי SQL איטיים">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  תקיעות דפדפן">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  תקיעות תהליכונים">
-
-
-
-
-<!ENTITY aboutTelemetry.histogramsSection "  היסטוגרמות">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  היסטוגרמות ממופתחות">
-
-<!ENTITY aboutTelemetry.eventsSection "
-  אירועים
-">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  מדדים פשוטים">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  פרטי תוספת">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  כתיבה מאוחרת">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  פרטי הפעלה
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  הערה: ניפוי שגיאות עבור משפטי SQL איטיים פעילה. מחרוזות SQL מלאות אמנם יוצגו, אבל הן לא תישלחנה אל Telemetry.">
-
-
-
-<!ENTITY aboutTelemetry.filterText "  סינון (מחרוזות או /ביטויים.רגולריים/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  מטען
-">

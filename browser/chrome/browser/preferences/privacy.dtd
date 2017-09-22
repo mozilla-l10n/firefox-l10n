@@ -113,3 +113,7 @@
 <!ENTITY  browserContainersEnabled.accesskey    "מ">
 <!ENTITY  browserContainersSettings.label        "הגדרות…">
 <!ENTITY  browserContainersSettings.accesskey    "ג">
+
+<!ENTITY  a11yPrivacy.checkbox.label     "מניעת שירותי נגישות מקבלת גישה לדפדפן שלך">
+<!ENTITY  a11yPrivacy.checkbox.accesskey "נ">
+<!ENTITY  a11yPrivacy.learnmore.label    "מידע נוסף">

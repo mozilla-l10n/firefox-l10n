@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "העוגיות הבאות מאוחסנות על המחשב שלך:">
+<!ENTITY     cookiesonsystem2.label         "העוגיות הבאות מאוחסנות על המחשב שלך">
 <!ENTITY     cookiename.label               "שם עוגייה">
 <!ENTITY     cookiedomain.label             "אתר">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "עוגיות">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "חיפוש">
 <!ENTITY     searchFilter.accesskey         "ח">
