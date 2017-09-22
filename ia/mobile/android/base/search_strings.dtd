@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; Cerca'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Cercar con &formatS;'>
+
+<!ENTITY search_empty_title2 'Comenciar cercante'>
+<!ENTITY search_empty_message 'Cercar presto pro alco, le qual vos vole'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Adder al barra de cerca'>
+
+<!ENTITY search_pref_title 'Parametros'>
+<!ENTITY search_pref_button_content_description 'Parametros'>
+
+<!ENTITY pref_clearHistory_confirmation 'Historia clarite'>
+<!ENTITY pref_clearHistory_dialogMessage 'Deler toto del historia de cerca ab este apparato?'>
+<!ENTITY pref_clearHistory_title 'Clarar historia de cerca'>
+
+<!ENTITY search_widget_button_label 'Cercar'>
+
+<!ENTITY network_error_title 'Nulle connexion de internet'>
+<!ENTITY network_error_message 'Colpa hic pro controlar tu configurationes de rete'>
