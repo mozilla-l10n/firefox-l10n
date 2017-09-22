@@ -58,23 +58,30 @@
 
 # LOCALIZATION NOTE (mozdev_seamonkey):
 # link title for http://www.mozdev.org/projects/applications/SeaMonkey.html
+#define mozdev_seamonkey Ekstensi SeaMonkey daripada mozdev.org
 
+#define community_support Komuniti &amp; Sokongan
 
 # LOCALIZATION NOTE (seamonkey_community):
 # link title for http://www.seamonkey-project.org/community
+#define seamonkey_community Komuniti SeaMonkey
 
 # LOCALIZATION NOTE (mozillazine):
 # link title for http://www.mozillazine.org/
+#define mozillazine mozillaZine
 
 # LOCALIZATION NOTE (seamonkey_support):
 # link title for the mozillaZine SeaMonkey Support forum
+#define seamonkey_support Forum Sokongan SeaMonkey (mozillaZine)
 
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
+#define seamonkey_l10n  
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
+#define seamonkey_l10n_long  
 
 #unfilter emptyLines
