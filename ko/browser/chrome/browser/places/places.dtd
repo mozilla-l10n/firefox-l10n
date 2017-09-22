@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "저장일">
 <!ENTITY col.lastmodified.label  "마지막 수정일">
 
-<!ENTITY search.placeholder  "검색">
+<!ENTITY historySearch.placeholder  "검색 기록">
+<!ENTITY bookmarksSearch.placeholder  "북마크 검색">
 
 <!ENTITY cmd.find.key  "f">
 
