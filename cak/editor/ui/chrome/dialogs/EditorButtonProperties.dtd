@@ -13,4 +13,8 @@
 
 <!ENTITY ButtonName.label "B'i'aj:">
 <!ENTITY ButtonName.accesskey "B">
+<!ENTITY ButtonDisabled.label "Chupun">
+<!ENTITY ButtonDisabled.accesskey "C">
 
+<!ENTITY RemoveButton.label "Tiyuj Pitz'b'äl">
+<!ENTITY RemoveButton.accesskey "y">

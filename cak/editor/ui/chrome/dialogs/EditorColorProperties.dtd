@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Ruxaq taq B'onil chuqa' Rupam">
+<!ENTITY pageColors.label "Ruxaq taq B'onil">
+
+<!ENTITY normalText.label "Relik rucholajem tzij">
+<!ENTITY normalText.accessKey "R">
+<!ENTITY linkText.label "Rucholajem tzij ximonel">
+<!ENTITY linkText.accessKey "x">
+<!ENTITY activeLinkText.label "Titzij rucholajem tzij ximonel">
+<!ENTITY activeLinkText.accessKey "t">
+<!ENTITY visitedLinkText.label "Rucholajem tzij ximonel tz'eton">
+<!ENTITY visitedLinkText.accessKey "t">
+<!ENTITY background.label "Rupam:">
+<!ENTITY background.accessKey "R">
+<!ENTITY colon.character ":">
+<!ENTITY backgroundImage.label "Rupam Wachib'äl:">
+<!ENTITY backgroundImage.accessKey "a">
+<!ENTITY backgroundImage.tooltip "Tokisäx jun ruyakb'al wachib'äl achi'el rupam ri ruxaq">

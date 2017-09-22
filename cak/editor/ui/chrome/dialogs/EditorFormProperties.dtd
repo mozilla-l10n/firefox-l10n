@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- Window title -->
-<!ENTITY windowTitle.label "Tib'an Kemoj Kajtz'ik Chi Re">
-<!ENTITY spaceRadio.label      "Rukojol">
+<!ENTITY Settings.label "Taq nuk'ulem">
+
+<!ENTITY FormName.label "Rub'anikil B'i'aj:">
+<!ENTITY FormName.accesskey "B">
+

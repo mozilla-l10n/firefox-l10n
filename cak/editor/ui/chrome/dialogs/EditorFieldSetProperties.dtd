@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY Legend.label "Moch'öch'">
+<!ENTITY Legend.accesskey "M">
+
+<!ENTITY EditLegendText.label "Tinuk' Moch'öch':">
+<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY AlignDefault.label "K'o wi">
+<!ENTITY AlignLeft.label "Xokon">
+<!ENTITY AlignCenter.label "Nik'aj">
+<!ENTITY AlignRight.label "Ajkiq'a'">
+
