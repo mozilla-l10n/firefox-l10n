@@ -14,20 +14,26 @@
 
 <!ENTITY fileNotFound.title "File non trovate">
 
+<!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
 
+<!ENTITY generic.title "Impossibile completar le requesta">
+<!ENTITY generic.longDesc "<p>Nulle information additional actualmente disponibile.</p>">
 
 <!ENTITY malformedURI.title "Adresse non valide">
 
+<!ENTITY netInterrupt.title "Transferimento de datos interrumpite">
 
 <!ENTITY notCached.title "Documento expirate">
 
 <!ENTITY netOffline.title "Modo disconnectite">
 
+<!ENTITY contentEncodingError.title "Error de codification del contento">
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
 
 <!ENTITY netReset.title "Connexion interrumpite">
 
+<!ENTITY netTimeout.title "Tempore de rete expirate">
 <!ENTITY netTimeout.longDesc "<p>Le sito requestate non respondeva a un requesta de connexion e le navigator ha cessate de attender un responsa.</p><ul><li>Esque le servitor experi alte demanda o supercarga temporari? Retenta plus tarde.</li><li>Es tu incapace de navigar altere sitos? Verifica le connexion del computator al rete.</li><li>Es tu computator o rete protegite per un firewall o proxy? Parametros incorrecte pote interferer con le navigation web.</li><li>Ha tu ancora problemas? Consulta le assistentia del administrator de tu rete o del fornitor de tu Internet.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocollo incognite">
@@ -37,6 +43,7 @@
 
 <!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirection le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptante le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
 
+<!ENTITY unknownSocketType.title "Responsa non correcte">
 
 <!ENTITY nssFailure2.title "Connexion secur fallite">
 
@@ -44,6 +51,7 @@
 
 <!ENTITY securityOverride.linkText "O tu pote adder un exception…">
 
+<!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 
