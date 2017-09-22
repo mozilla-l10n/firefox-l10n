@@ -7,4 +7,12 @@
 
 <!ENTITY FormName.label "Rub'anikil B'i'aj:">
 <!ENTITY FormName.accesskey "B">
+<!ENTITY FormAction.label "B'anoj URL:">
+<!ENTITY FormAction.accesskey "B">
+<!ENTITY FormMethod.label "B'eyal:">
+<!ENTITY FormMethod.accesskey "B">
+<!ENTITY FormEncType.label "Cholajinïk:">
+<!ENTITY FormEncType.accesskey "o">
 
+<!ENTITY RemoveForm.label "Tiyuj Nojwuj">
+<!ENTITY RemoveForm.accesskey "y">
