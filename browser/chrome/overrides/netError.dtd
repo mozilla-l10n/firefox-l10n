@@ -18,8 +18,7 @@
 <!ENTITY deniedPortAccess.title "આ સરનામું આરક્ષિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "સર્વર મળ્યું નહિં">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>લખતી વખતની ભૂલો માટે સરનામું ચકાસો જેમ કે <strong>ww</strong>.example.com એ <strong>www</strong>.example.com ની જગ્યાએ</li> <li>જો તમે કોઈપણ પાનાંઓને લાવવામાં અસમર્થ હોય, તો તમારા કમ્પ્યૂટરનું નેટવર્ક જોડાણ ચકાસો.</li> <li>જો તમારું કમ્પ્યૂટર અથવા નેટવર્ક ફાયરવોલ અથવા પ્રોક્સી દ્વારા સુરક્ષિત રખાયેલ હોય, તો ખાતરી કરો કે &brandShortName; એ વેબ વાપરવા માટે જ માન્ય છે.</li> </ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ફાઈલ મળી નહિં">
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલાઈઝેશન અથવા અન્ય લખતી વખતની ભૂલો માટે ફાઈલ નામ ચકાસો.</li> <li>શું ફાઈલ ખસેડી દેવાયેલ છે, નામ બદલાઈ ગયેલ છે અથવા કાઢી નંખાયેલ છે તે જોવા માટે ચકાસો.</li> </ul>">
@@ -37,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "ખુલ્લું નેટવર્ક લૉગિન પૃષ્ઠ">
 
-<!ENTITY malformedURI.title "સરનામું માન્ય નથી">
-<!ENTITY malformedURI.longDesc "<ul> <li>વેબ સરનામાઓ સામાન્ય રીતે <strong>http://www.example.com/</strong> લખાય છે</li> <li>ખાતરી કરો કે તમે આગળ આવતા સ્લેશો વાપરી રહ્યા છો (એટલે કે <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "અયોગ્ય URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "હમ્મ. તે સરનામું બરાબર લાગતું નથી.">
 
 <!ENTITY netInterrupt.title "જોડાણ અટકાવી દેવાયું હતું">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
