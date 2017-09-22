@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Empezar'>
 <!ENTITY fxaccount_getting_started_old_firefox '¿Estás usando una versión antigua de &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Conectado como'>
-<!ENTITY fxaccount_status_manage_account 'Administrar cuenta'>
 <!ENTITY fxaccount_status_auth_server 'Servidor de la cuenta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar ahora'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
 <!ENTITY fxaccount_status_device_name 'Nombre del dispositivo'>
 <!ENTITY fxaccount_status_sync_server 'Sincronizar servidor'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: habilitado'>
 <!ENTITY fxaccount_status_needs_verification2 'Tu cuenta necesita ser verificada. Toca para reenviar el email de verificación.'>
 <!ENTITY fxaccount_status_needs_credentials 'No se pudo conectar. Toca para conectarte.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Necesitas actualizar &brandShortName; para conectarte.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; se establece, pero no sincronizar automáticamente. Cambiar \&quot;Auto-sincronización de datos\&quot; en ajustes Android &gt; Uso de datos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; está configurado, pero no se está sincronizado automáticamente. Marca “Sincronizar datos automáticamente” en la configuración de Android &gt; Uso de datos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toca para conectarte a tu nueva cuenta de Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Elije que sincronizar'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
 <!ENTITY fxaccount_status_passwords2 'Conexiones'>
 <!ENTITY fxaccount_status_tabs 'Abrir pestañas'>
+<!ENTITY fxaccount_status_additional_settings 'Ajustes adicionales'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Términos del servicio'>
 <!ENTITY fxaccount_status_linkprivacy2 'Política de privacidad'>
-<!ENTITY fxaccount_status_more 'Más&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 '¿Desconectarse de Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Opciones de &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Configurar &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Necesitas actualizar Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'La cuenta ya existente. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email o contraseña inválido'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email o contraseña inválido'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Cuenta no verificada'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servidor ocupado, vuelve a intentarlo más tarde'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, vuelve a intentarlo más tarde'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Hubo un problema'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Cuenta bloqueada. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; no está conectado'>
 <!-- Localization note: the format string below will be replaced
