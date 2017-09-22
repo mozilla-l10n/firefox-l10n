@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label            "Titalüx Rutzijol Ruxaq">
+<!ENTITY windowTitleSettings.label    "Titalüx Kitzijol taq Nuk'ulem">
+<!ENTITY publishTab.label             "Titalüx rutzijol">
+<!ENTITY settingsTab.label            "Taq nuk'ulem">
+<!ENTITY publishButton.label          "Titalüx rutzijol">
+
+<!-- Publish Tab Panel -->
+<!ENTITY pageTitle.label              "Rub'i' Ruxaq:">
+<!ENTITY pageTitle.accesskey          "b">
+<!ENTITY filename.label               "Rub'i' yakb'äl:">
+<!ENTITY filename.accesskey           "y">
+<!ENTITY setDefaultButton.label       "Tichap achi'el ri e K'o wi">
+<!ENTITY setDefaultButton.accesskey   "K">
+<!ENTITY removeButton.label           "Tiyuj el Ruxaq K'amaya'l">
+<!ENTITY removeButton.accesskey       "y">
+
+<!-- Settings Tab Panel -->
+<!ENTITY username.label               "Rub'i' winäq:">
+<!ENTITY username.accesskey           "w">
+<!ENTITY password.label               "Ewan tzij:">
+<!ENTITY password.accesskey           "t">
+<!ENTITY savePassword.label           "Tiyak Ewan taq Tzij">
+<!ENTITY savePassword.accesskey       "y">
