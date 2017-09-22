@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Бастапқы күйге келтіру">
 <!ENTITY restoreDefault.accesskey  "с">
 
+<!ENTITY disableExtension.label    "Кеңейтуді сөндіру">
+
 <!ENTITY downloads.label     "Жүктемелер">
 
 <!ENTITY saveTo.label "Файлдарды келесі жерге сақтау">
