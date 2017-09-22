@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Taq Richinil Wachib'äl">
+
+<!ENTITY pixelsPopup.value "taq piksel">
+
+<!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Ruwachib'al K'ojlib'äl:">
+<!ENTITY locationEditField.accessKey "K">
+<!ENTITY altText.label "Cha'el rucholajem tzij:">
+<!ENTITY altText.accessKey "C">
+
+<!ENTITY previewBox.label "Nab'ey Rutzub'al Wachib'äl">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Runimilem Wakami:">
+<!ENTITY actualSizeRadio.label "Runimilem Wakami">
+<!ENTITY actualSizeRadio.accessKey "W">
+<!ENTITY customSizeRadio.label "Tichinäx Nimilem">
+<!ENTITY customSizeRadio.accessKey "N">
+<!ENTITY heightEditField.label "Raqän:">
+<!ENTITY heightEditField.accessKey "R">
+<!ENTITY widthEditField.label "Ruwa:">
+<!ENTITY widthEditField.accessKey "R">
+
+<!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Rusaqasetul Wachib'äl">
+<!ENTITY removeImageMapButton.label "Tiyuj">
+<!ENTITY removeImageMapButton.accessKey "y">
+
+<!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Ticholajïx Rucholajem Tz'ij rik'in ri Wachib'äl">
+<!ENTITY bottomPopup.value "Pan ikim">
+<!ENTITY topPopup.value "Pan ajsik">
+<!ENTITY centerPopup.value "Pa nik'aj">
+
+<!-- These controls are in the Spacing Box -->
+<!ENTITY leftRightEditField.label "Xokon chuqa' Ajkiq'a':">
+<!ENTITY leftRightEditField.accessKey "X">
+
+<!-- These controls are in the Link Box -->
+
+<!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Nojwuj">
+<!ENTITY imageLocationTab.label "K'ojlib'äl">
+<!ENTITY imageDimensionsTab.label "Taq runimilem">
+<!ENTITY imageAppearanceTab.label "Ruwäch">
+<!ENTITY imageLinkTab.label "Ximonel">
