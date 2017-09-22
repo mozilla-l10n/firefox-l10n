@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "ת">
 <!ENTITY cmd.showMac.label                "הצגה ב־Finder">
 <!ENTITY cmd.showMac.accesskey            "צ">
+<!ENTITY cmd.showDownloads.label          "הצגת תיקיית ההורדות">
 <!ENTITY cmd.retry.label                  "לנסות שנית">
 <!ENTITY cmd.goToDownloadPage.label       "מעבר לדף הורדה">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ד">
@@ -134,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "הצגת כל ההורדות">
 <!ENTITY downloadsHistory.accesskey       "ה">
 
-<!ENTITY openDownloadsFolder.label       "פתיחת תיקיית ההורדות">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "פרטי הורדה">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "פתיחת תיקיית ההורדות">
 
 <!ENTITY clearDownloadsButton.label       "ניקוי הורדות">
 <!ENTITY clearDownloadsButton.tooltip     "ניקוי ההורדות שהושלמו, בוטלו ונכשלו">

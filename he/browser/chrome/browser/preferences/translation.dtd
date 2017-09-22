@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "שירות התרגום לא יוצע עבור שפות אלו:">
+<!ENTITY noTranslationForLanguages2.label "שירות התרגום לא יוצע עבור השפות הבאות">
 <!ENTITY treehead.languageName.label      "שפות">
 <!ENTITY removeLanguage.label             "הסרת שפה">
 <!ENTITY removeLanguage.accesskey         "ס">
 <!ENTITY removeAllLanguages.label         "הסרת כל השפות">
 <!ENTITY removeAllLanguages.accesskey     "כ">
 
-<!ENTITY noTranslationForSites.label      "שירות התרגום לא יוצע עבור האתרים הבאים:">
+<!ENTITY noTranslationForSites2.label     "שירות התרגום לא יוצע עבור האתרים הבאים">
 <!ENTITY treehead.siteName2.label         "אתרים">
 <!ENTITY removeSite.label                 "הסרת אתר">
 <!ENTITY removeSite.accesskey             "ר">

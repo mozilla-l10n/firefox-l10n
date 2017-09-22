@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "שחזור לבררת המחדל">
 <!ENTITY restoreDefault.accesskey  "ש">
 
+<!ENTITY disableExtension.label    "נטרול הרחבה">
+
 <!ENTITY downloads.label     "הורדות">
 
 <!ENTITY saveTo.label "שמירת קבצים אל">

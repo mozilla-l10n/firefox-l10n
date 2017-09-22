@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "שורת החיפוש">
+
+<!ENTITY searchBar.hidden.label                "שימוש בשורת הכתובת לחיפוש וניווט">
+<!ENTITY searchBar.shown.label                 "הוספת שורת החיפוש לסרגל הכלים">
+
 <!ENTITY defaultSearchEngine.label             "מנוע חיפוש בררת מחדל">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "בחירת מנוע חיפוש בררת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.">

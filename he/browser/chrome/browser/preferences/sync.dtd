@@ -66,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "קחו את הרשת עמכם">
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">
 <!ENTITY signedOut.accountBox.title   "התחברות עם &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "יצירת חשבון">
-<!ENTITY signedOut.accountBox.create.accesskey  "צ">
-<!ENTITY signedOut.accountBox.signin  "כניסה">
-<!ENTITY signedOut.accountBox.signin.accesskey  "כ">
+<!ENTITY signedOut.accountBox.create2 "אין ברשותך חשבון? תחילת עבודה">
+<!ENTITY signedOut.accountBox.create2.accesskey "ח">
+<!ENTITY signedOut.accountBox.signin2 "התחברות…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "ה">
 
 <!ENTITY signedIn.settings.label       "הגדרות סנכרון">
 <!ENTITY signedIn.settings.description "נא לבחור את הפריטים שיסונכרנו להתקנים שלך באמצעות &brandShortName;.">

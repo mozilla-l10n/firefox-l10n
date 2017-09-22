@@ -4,9 +4,9 @@
 
 
 <!ENTITY  history.title             "היסטוריית עדכונים">
-<!ENTITY  history.intro             "העדכונים הבאים הותקנו:">
+<!ENTITY  history2.intro            "העדכונים הבאים הותקנו">
 <!ENTITY  closebutton.label         "סגירה">
-                                     
+
 <!ENTITY  noupdates.label           "עדיין לא הותקנו עדכונים">
 
 <!ENTITY  name.header               "שם עדכון">

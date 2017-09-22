@@ -7,16 +7,29 @@
 <!ENTITY  blockPopups.label           "חסימת חלונות קופצים">
 <!ENTITY  blockPopups.accesskey       "ח">
 
-<!ENTITY  notificationsPolicyLearnMore.label   "מידע נוסף">
-<!ENTITY  notificationsPolicyDesc4.label       "בחירת אתרים מורשים לשליחת התרעות">
-<!ENTITY  notificationsPolicyButton.accesskey  "ב">
-<!ENTITY  notificationsPolicyButton.label      "בחירה…">
 <!ENTITY  notificationsDoNotDisturb.label      "נא לא להפריע">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "נ">
 <!ENTITY  notificationsDoNotDisturbDetails.value "לא יוצגו התרעות עד אשר &brandShortName; יופעל מחדש">
 
-<!ENTITY  popupExceptions.label       "חריגות...">
-<!ENTITY  popupExceptions.accesskey   "ר">
+<!ENTITY  popupExceptions.label                                 "חריגות...">
+<!ENTITY  popupExceptions.accesskey                             "ר">
+
+<!ENTITY  notificationPermissions.label                         "התרעות">
+<!ENTITY  notificationSettingsButton.label                      "הגדרות…">
+<!ENTITY  notificationSettingsButton.accesskey                  "ע">
+<!ENTITY  notificationPermissionsLearnMore.label                "מידע נוסף">
+
+<!ENTITY  locationPermissions.label                             "מיקום">
+<!ENTITY  locationSettingsButton.label                          "הגדרות…">
+<!ENTITY  locationSettingsButton.accesskey                      "מ">
+
+<!ENTITY  cameraPermissions.label                               "מצלמה">
+<!ENTITY  cameraSettingsButton.label                            "הגדרות…">
+<!ENTITY  cameraSettingsButton.accesskey                        "צ">
+
+<!ENTITY  microphonePermissions.label                           "מיקרופון">
+<!ENTITY  microphoneSettingsButton.label                        "הגדרות…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "ק">
 
 <!ENTITY  fontsAndColors.label        "גופנים וצבעים">
 
