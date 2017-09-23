@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Noņem vietņu datus">
 <!ENTITY     removingSelected.description  "Vietnes datu noņemšanu noņems arī saistītās sīkdatnes un bezsaistes saturu. Tas var pārtraukt jūsu autorizācijas sesiju. Vai tiešām vēlaties veikt izmaiņas?">
-<!ENTITY     siteTree.label                "Tiks noņemtas sekojošu lapu sīkdatnes:">
+<!ENTITY     siteTree2.label               "Tiks noņemtas sekojošu lapu sīkdatnes">

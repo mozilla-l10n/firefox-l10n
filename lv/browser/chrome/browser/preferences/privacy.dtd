@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Neļaut pieejamības rīkiem piekļūt pārlūkam">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "p">
 <!ENTITY  a11yPrivacy.learnmore.label    "Uzzināt vairāk">
+<!ENTITY enableSafeBrowsingLearnMore.label "Uzzināt vairāk">

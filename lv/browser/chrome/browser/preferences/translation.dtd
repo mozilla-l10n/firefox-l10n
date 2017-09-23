@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Tulkošana netiks piedāvāta sekojošām valodām:">
+<!ENTITY noTranslationForLanguages2.label "Tulkošana netiks piedāvāta sekojošām valodām">
 <!ENTITY treehead.languageName.label      "Valodas">
 <!ENTITY removeLanguage.label             "Aizvākt valodu">
 <!ENTITY removeLanguage.accesskey         "z">
 <!ENTITY removeAllLanguages.label         "Aizvākt visas valodas">
 <!ENTITY removeAllLanguages.accesskey     "v">
 
-<!ENTITY noTranslationForSites.label      "Tulkošana netiks piedāvāta sekojošām lapām:">
-<!ENTITY treehead.siteName.label          "Lapas">
+<!ENTITY noTranslationForSites2.label     "Tulkošana netiks piedāvāta sekojošām lapām">
+<!ENTITY treehead.siteName2.label         "Mājas lapas">
 <!ENTITY removeSite.label                 "Aizvākt lapu">
 <!ENTITY removeSite.accesskey             "l">
 <!ENTITY removeAllSites.label             "Aizvākt visas lapas">
