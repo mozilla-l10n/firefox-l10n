@@ -121,16 +121,61 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Tinuk' jun k'ak'a' cholb'äl">
 
 <!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Kiwujil taq Ochochib'äl">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "B'i'aj o Taqoya'l">
+<!ENTITY SearchNameOrEmail.accesskey                    "B">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Ruwujil taq Ochochib'äl">
+<!ENTITY Addrbook.accesskey                             "w">
+<!ENTITY GeneratedName.label                            "B'i'aj">
+<!ENTITY GeneratedName.accesskey                        "B">
+<!ENTITY PrimaryEmail.label                             "Taqoya'l">
+<!ENTITY PrimaryEmail.accesskey                         "T">
+<!ENTITY ChatName.label                                 "Chat B'i'aj">
+<!ENTITY ChatName.accesskey                             "C">
+<!ENTITY Company.label                                  "Moloj">
+<!ENTITY Company.accesskey                              "j">
+<!ENTITY NickName.label                                 "Tz'ukun b'i'aj">
+<!ENTITY NickName.accesskey                             "u">
+<!ENTITY SecondEmail.label                              "Ruka'n Taqoya'l">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Tinamital">
+<!ENTITY Department.accesskey                           "n">
+<!ENTITY JobTitle.label                                 "B'i'aj">
+<!ENTITY JobTitle.accesskey                             "B">
+<!ENTITY CellularNumber.label                           "Oyonib'äl">
+<!ENTITY CellularNumber.accesskey                       "O">
+<!ENTITY PagerNumber.label                              "Kanöy winäq">
+<!ENTITY PagerNumber.accesskey                          "K">
+<!ENTITY FaxNumber.label                                "Taqowuj">
+<!ENTITY FaxNumber.accesskey                            "T">
+<!ENTITY HomePhone.label                                "Royonib'al Jay">
+<!ENTITY HomePhone.accesskey                            "J">
+<!ENTITY WorkPhone.label                                "Royonib'al Samaj">
+<!ENTITY WorkPhone.accesskey                            "S">
+<!ENTITY _PhoneticName.label                            "Q'ajatz'ib' B'i'aj">
+<!ENTITY _PhoneticName.accesskey                        "a">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY home.heading                                   "Tikirib'äl">
+<!ENTITY other.heading                                  "Juley chik">
+<!ENTITY chat.heading                                   "Chat">
+<!ENTITY phone.heading                                  "Oyonib'äl">
+<!ENTITY work.heading                                   "Samaj">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Tzijoxikil">
+<!ENTITY addresses.heading                              "Taq ochochib'äl">
 <!-- For Map It! -->
 
 <!-- Status Bar -->
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY windowMenu.label                               "Window">
+<!ENTITY minimizeWindow.label                           "Ch'utinarisaxïk">
+<!ENTITY minimizeWindow.key                             "n">
+<!ENTITY bringAllToFront.label                          "Tik'am pe Ronojel Chuwa">
+<!ENTITY zoomWindow.label                               "Sum">

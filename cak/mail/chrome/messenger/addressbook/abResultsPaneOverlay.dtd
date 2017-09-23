@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Addrbook.label                        "Ruwujil taq Ochochib'äl">
+<!ENTITY Addrbook.accesskey                    "w">
+<!ENTITY GeneratedName.label                   "B'i'aj">
+<!ENTITY GeneratedName.accesskey               "B">
+<!ENTITY PrimaryEmail.label                    "Taqoya'l">
+<!ENTITY PrimaryEmail.accesskey                "T">
+<!ENTITY Company.label                         "Moloj">
+<!ENTITY Company.accesskey                     "l">
