@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Жіберілген байттар">
 <!ENTITY aboutNetworking.bytesReceived         "Алынған байттар">
 <!ENTITY aboutNetworking.logging               "Журналдау">
-<!ENTITY aboutNetworking.logTutorial           "Бұл сайманды қолдану нұсқаулығын <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> адресінен қараңыз.">
+<!ENTITY aboutNetworking.logTutorial           "Бұл құралды қолдану нұсқаулығын <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> адресінен қараңыз.">
 <!ENTITY aboutNetworking.currentLogFile        "Ағымдағы журналдау файлы:">
 <!ENTITY aboutNetworking.currentLogModules     "Ағымдағы журналдау модульдері:">
 <!ENTITY aboutNetworking.setLogFile            "Журналдау файлын орнату">
