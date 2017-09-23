@@ -20,4 +20,10 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Selige &tabCrashed.restoreTab; pro recargar le pagina.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Selige &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pro recargar le contento del pagina/paginas.">
 <!ENTITY tabCrashed.requestHelp "Tu nos adjurarea?">
+<!ENTITY tabCrashed.requestHelpMessage "Le reportos de collapso pote nos adjutar a diagnosticar problemas e a meliorar &brandShortName; .">
+<!ENTITY tabCrashed.requestReport "Reportar iste scheda">
+<!ENTITY tabCrashed.commentPlaceholder2 "Commentos optional (le commentos es publicamente visibile)">
 <!ENTITY tabCrashed.emailPlaceholder "Insere hic tu adresse email">
+<!ENTITY tabCrashed.emailMe "Inviar me un email quando plus de informationes es disponibile">
+<!ENTITY tabCrashed.reportSent "Reporto de collapso ja submittite; gratias pro adjutar a meliorar &brandShortName;!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Reportar le schedas de secunde plano">
