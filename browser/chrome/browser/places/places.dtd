@@ -85,8 +85,8 @@
 <!ENTITY col.dateadded.label     "Pievienota">
 <!ENTITY col.lastmodified.label  "Pēdējo reizi labota">
 
-<!ENTITY search.label                              "Meklēt:">
-<!ENTITY search.accesskey                          "M">
+<!ENTITY historySearch.placeholder  "Meklēšanas vēsture">
+<!ENTITY bookmarksSearch.placeholder  "Meklēt grāmatzīmes">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +104,6 @@
 <!ENTITY detailsPane.less.accesskey "z">
 <!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
 
-<!ENTITY find.label               "Meklēt:">
-<!ENTITY find.accesskey           "M">
 <!ENTITY view.label               "Skats">
 <!ENTITY view.accesskey           "t">
 <!ENTITY byDate.label             "Pēc datuma">

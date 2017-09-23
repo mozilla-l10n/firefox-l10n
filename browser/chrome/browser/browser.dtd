@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Pārlādēt visas cilnes">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Dublēt cilni">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -46,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "I">
 <!ENTITY  sendLinkToDevice.label             "Sūtīt saiti uz ierīci">
 <!ENTITY  sendLinkToDevice.accesskey         "I">
+<!ENTITY  sendToDeviceFeedback.label         "Nosūtīts!">
 <!ENTITY  moveToNewWindow.label              "Pāriet uz jaunu logu">
 <!ENTITY  moveToNewWindow.accesskey          "P">
 <!ENTITY  bookmarkAllTabs.label              "Saglabāt visas cilnes grāmatzīmēs…">
@@ -95,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Lapas pirmkods">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Informācija par lapu">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -161,23 +173,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Saglabāt šo lapu grāmatzīmēs">
 <!ENTITY editThisBookmarkCmd.label "Rediģēt šo grāmatzīmi">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Atrast dalīšanās pakalpojumus…">
-<!ENTITY sharePageCmd.label "Pastāstīt par šo lapu">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Dalīties ar saiti">
-<!ENTITY shareLink.accesskey "s">
-<!ENTITY shareImage.label "Dalīties ar attēlu">
-<!ENTITY shareImage.accesskey "s">
-<!ENTITY shareSelect.label "Dalīties ar iezīmēto">
-<!ENTITY shareSelect.accesskey "s">
-<!ENTITY shareVideo.label "Dalīties ar video">
-<!ENTITY shareVideo.accesskey "s">
-<!ENTITY feedsMenu2.label "Pierakstīties uz šo lapu">
+
 <!ENTITY subscribeToPageMenupopup.label "Pierakstīties uz šo lapu">
 <!ENTITY subscribeToPageMenuitem.label "Pierakstīties uz šo lapu…">
 <!ENTITY addCurPagesCmd.label "Saglabāt visas cilnes grāmatzīmēs…">
@@ -243,14 +239,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Grāmatzīmes">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
-<!ENTITY bookmarksMenuButton.other.label "Citas grāmatzīmes">
-<!ENTITY bookmarksMenuButton.mobile.label "Mobilās grāmatzīmes">
+<!ENTITY bookmarksSubview.label             "Grāmatzīmes">
+<!ENTITY bookmarksMenuButton2.label         "Grāmatzīmju izvēlne">
+<!ENTITY bookmarksMenuButton.other.label    "Citas grāmatzīmes">
+<!ENTITY bookmarksMenuButton.mobile.label   "Mobilās grāmatzīmes">
 <!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
+<!ENTITY hideBookmarksSidebar.label         "Paslēpt grāmatzīmju sānjoslu">
 <!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānu joslā">
+<!ENTITY hideBookmarksToolbar.label         "Paslēpt grāmatzīmju sānjoslu">
 <!ENTITY searchBookmarks.label              "Meklēt grāmatzīmes">
-
-<!ENTITY containersMenu.label "Konteineri">
+<!ENTITY bookmarkingTools.label             "Grāmatzīmju rīki">
+<!ENTITY addBookmarksMenu.label             "Pievienot grāmatzīmju izvēlni rīkjoslai">
+<!ENTITY removeBookmarksMenu.label          "Aizvākt grāmatzīmju izvēlni no rīkjoslas">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -262,12 +262,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Rīki">
-<!ENTITY toolsMenu.accesskey          "R"> 
+<!ENTITY toolsMenu.accesskey          "R">
 
 <!ENTITY keywordfield.label           "Pievienot meklējuma atslēgas vārdu…">
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Lejupielādes">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Lejupielādes">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -281,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
 <!ENTITY inspectContextMenu.accesskey "I">
 
-<!ENTITY fileMenu.label         "Fails"> 
+<!ENTITY fileMenu.label         "Fails">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Jauna saturošā cilne">
 <!ENTITY newUserContext.accesskey         "c">
@@ -292,46 +295,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "v">
 <!ENTITY newNonRemoteWindow.label   "Jauns Non-e10s logs">
 
-<!ENTITY editMenu.label         "Rediģēt"> 
-<!ENTITY editMenu.accesskey       "e"> 
-<!ENTITY undoCmd.label            "Atsaukt">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "u"> 
-<!ENTITY redoCmd.label            "Pārdarīt">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "r"> 
-<!ENTITY cutCmd.label           "Izgriezt">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Kopēt">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "K"> 
-<!ENTITY pasteCmd.label           "Ielīmēt">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "I"> 
-<!ENTITY deleteCmd.label          "Dzēst">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "Iezīmēt visu">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "v"> 
+<!ENTITY editMenu.label         "Rediģēt">
+<!ENTITY editMenu.accesskey       "e">
+<!ENTITY undoCmd.label            "Atsaukt">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "u">
+<!ENTITY redoCmd.label            "Pārdarīt">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "r">
+<!ENTITY cutCmd.label           "Izgriezt">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "Kopēt">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Ielīmēt">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "I">
+<!ENTITY deleteCmd.label          "Dzēst">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "Iezīmēt visu">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "v">
 <!ENTITY preferencesCmd2.label       "Iestatījumi">
 <!ENTITY preferencesCmd2.accesskey     "m">
 <!ENTITY preferencesCmdUnix.label       "Iestatījumi">
-<!ENTITY preferencesCmdUnix.accesskey     "m"> 
+<!ENTITY preferencesCmdUnix.accesskey     "m">
 
 <!ENTITY clearRecentHistory.label               "Dzēst neseno vēsturi…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Skats"> 
-<!ENTITY viewMenu.accesskey       "S"> 
-<!ENTITY viewToolbarsMenu.label       "Rīkjoslas"> 
-<!ENTITY viewToolbarsMenu.accesskey     "l"> 
+<!ENTITY viewMenu.label         "Skats">
+<!ENTITY viewMenu.accesskey       "S">
+<!ENTITY viewToolbarsMenu.label       "Rīkjoslas">
+<!ENTITY viewToolbarsMenu.accesskey     "l">
 <!ENTITY viewSidebarMenu.label "Sānu josla">
 <!ENTITY viewSidebarMenu.accesskey "a">
-<!ENTITY viewCustomizeToolbar.label       "Pielāgot…"> 
+<!ENTITY viewCustomizeToolbar.label       "Pielāgot…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
+<!ENTITY overflowCustomizeToolbar.label       "Pielāgot rīkjoslu…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Vēsture">
 <!ENTITY historyMenu.accesskey "V">
@@ -347,11 +352,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "Pielāgot izvēlni un rīkjoslas">
 <!ENTITY appMenuCustomizeExit.label "Iziet no pielāgošanas">
 <!ENTITY appMenuCustomizeExit.tooltip "Beigt pielāgošanu">
-<!ENTITY appMenuHistory.label "Vēsture">
 <!ENTITY appMenuHistory.showAll.label "Parādīt visu vēsturi">
 <!ENTITY appMenuHistory.clearRecent.label "Dzēst neseno vēsturi…">
 <!ENTITY appMenuHistory.restoreSession.label "Atjaunot iepriekšējo sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Rādīt vēstures sānjoslu">
+<!ENTITY appMenuHistory.recentHistory.label "Nesenā vēsture">
 <!ENTITY appMenuHelp.label "Palīdzība">
 <!ENTITY appMenuHelp.tooltip "Atvērt palīdzības izvēlni">
 
@@ -380,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pārvaldīt ierīces…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rādīt sinhronizēto cilņu sānu joslu">
+
+<!ENTITY appMenuRecentHighlights.label "Nesenie jaunumi">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
@@ -528,7 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Skatīt iezīmētā pirmkodu">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Skatīt MathML pirmkodu">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Skatīt lapas pirmkodu">
@@ -558,7 +565,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "S">
 <!ENTITY bookmarkThisFrameCmd.label      "Pievienot šo ietvaru grāmatzīmēm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "Kopēt adresi">
+<!ENTITY pageAction.copyLink.label    "Kopēt saiti">
+<!ENTITY copyURLFeedback.label        "Nokopēts!">
 <!ENTITY emailPageCmd.label           "Nosūtīt saiti…">
 <!ENTITY emailPageCmd.accesskey       "N">
 <!ENTITY savePageCmd.label            "Saglabāt lapu kā…">
@@ -582,8 +590,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.label          "Nosūtīt video…">
 <!ENTITY emailVideoCmd.accesskey      "v">
-<!ENTITY castVideoCmd.label           "Nosūtīt video uz ierīci">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Nosūtīt audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktivēt šo spraudni">
@@ -595,7 +601,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopēt attēla adresi">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopēt attēlu">
-<!ENTITY copyImageContentsCmd.accesskey  "p"> 
+<!ENTITY copyImageContentsCmd.accesskey  "p">
 <!ENTITY copyVideoURLCmd.label        "Kopēt video adresi">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopēt audio adresi">
@@ -691,13 +697,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Aizvērt &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Iziet"> 
+<!ENTITY quitApplicationCmd.label       "Iziet">
 <!ENTITY quitApplicationCmd.accesskey   "e">
 <!ENTITY quitApplicationCmdMac2.label   "Iziet no &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Aizvērt">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "Aizvērt">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "z">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -799,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Meklēt sinhronizētajās cilnēs">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -833,20 +840,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "S">
 <!ENTITY syncToolbarButton.label      "Sinhronizēt">
 
-<!ENTITY social.addons.label "Pārvaldīt pakalpojumus…">
-
-<!ENTITY social.directory.label "Aktivāciju saraksts">
-<!ENTITY social.directory.text "Jūs varat aktivizēt dalīšanās pakalpojumus no šī saraksta.">
-<!ENTITY social.directory.button "Vediet mani turp!">
-<!ENTITY social.directory.introText "Klikšķiniet uz pakalpojuma, lai pievienotu to &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Skatī vairāk">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "Papildus rīki un iespējas">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Pārvelciet savas iecienītās lietas rīlkjoslā vai sānu izvēlnē.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Gribat vairāk rīku?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izvēlieties kādu no tūkstošiem papildinājumu">
 <!ENTITY customizeMode.restoreDefaults "Atjaunot noklusēto">
 <!ENTITY customizeMode.done "Gatavs">
 <!ENTITY customizeMode.titlebar "Virsraksta josla">
+<!ENTITY customizeMode.extraDragSpace "Pārvilkšanas vieta">
 <!ENTITY customizeMode.toolbars2 "Rīkjoslas">
 <!ENTITY customizeMode.lwthemes "Tēmas">
 <!ENTITY customizeMode.lwthemes.myThemes "Manas tēmas">
@@ -872,6 +872,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Pieskārienu">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Pieskārienu">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Izmantot piesākrienus planšetes režīmā">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Auto slēpšana">
 
 <!ENTITY getUserMedia.selectCamera.label "Izvēlies kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -897,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktivēt aizsardzību">
 <!ENTITY trackingProtection.block2.accesskey "b">
 
-<!ENTITY trackingContentBlocked.message "Sekošana">
-<!ENTITY trackingContentBlocked.moreinfo "Daļa no lapas, kas seko jūsu aktivitātei internetā tika bloķēta.">
-<!ENTITY trackingContentBlocked.learnMore "Uzzināt vairāk">
-<!ENTITY trackingContentBlocked.options "Iestatījumi">
-<!ENTITY trackingContentBlocked.unblock2.label "Deaktivēt aizsardzību šajā lapā">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Aktivēt aizsardzību">
-<!ENTITY trackingContentBlocked.block.accesskey "b">
-<!ENTITY trackingContentBlocked.disabled.message "Sekošanas aizsardzība ir deaktivēta">
-
 <!ENTITY pluginNotification.showAll.label "Rādīt visus">
 <!ENTITY pluginNotification.showAll.accesskey "s">
 
@@ -923,8 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Aizvērt">
-
-<!ENTITY appMenuSidebars.label         "Sānu joslas">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -972,12 +966,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Lejupielādējiet jaunu &brandShorterName; versiju">
 
-<!ENTITY updateRestart.message "Pēc ātra restarta &brandShorterName; atjaunos atvērtās cilnes un logus.">
+<!ENTITY updateRestart.message2 "Pēc ātra restarta, &brandShorterName; atjaunos jūsu atvērtās cilnes un logus no ne privātā pārlūkošanas režīma.">
 <!ENTITY updateRestart.header.message2 "Pārstartēt &brandShorterName;, lai atjauninātu.">
 <!ENTITY updateRestart.acceptButton.label "Pārstartēt un atjaunot">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne tagad">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Pārstartēt &brandShorterName;, lai atjauninātu">
 
 <!ENTITY pageActionButton.tooltip "Lapas darbības">
+<!ENTITY pageAction.addToUrlbar.label "Pievienot adreses joslai">
+<!ENTITY pageAction.removeFromUrlbar.label "Novākt no adreses joslas">
 
+<!ENTITY pageAction.sendTabToDevice.label "Sūtīt cilni uz ierīci">
+<!ENTITY sendToDevice.syncNotReady.label "Sinhronizē ierīces…">
+
+<!ENTITY libraryButton.tooltip "Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Aktivēti pieejamības rīki">
