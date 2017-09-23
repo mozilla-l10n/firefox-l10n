@@ -3,7 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY propertiesMenu.label               "Taq ichinil">
+<!ENTITY propertiesMenu.accesskey           "i">
+<!ENTITY propertiesCmd.key                  "i">
+<!ENTITY abPropertiesMenu.label             "Kichinil Kiwujil taq Ochochib'äl">
+<!ENTITY abPropertiesMenu.accesskey         "i">
 
+<!ENTITY addressbookPicker.label            "Kiwujil taq Ochochib'äl:">
+<!ENTITY SearchNameOrEmail.label            "B'i'aj o Taqoya'l">
 
+<!ENTITY deleteAddrBookCard.label           "Tiyuj">
+<!ENTITY deleteAddrBookCard.accesskey       "y">
+<!ENTITY propertiesContext.label            "Taq ichinil">
+<!ENTITY propertiesContext.accesskey        "i">
+<!ENTITY abPropertiesContext.label          "Taq ichinil">
+<!ENTITY abPropertiesContext.accesskey      "i">
+<!ENTITY editMailingListContext.label       "Tinuk' ri Cholb'äl">
+<!ENTITY editMailingListContext.accesskey   "n">
 
+<!ENTITY newListAbContext.label             "K'ak'a' Cholb'äl">
+<!ENTITY newListAbContext.accesskey         "C">
 
+<!ENTITY toButton.label                     "Titz'aqatisäx pa Chi Re:">
+<!ENTITY toButton.accesskey                 "t">
+<!ENTITY ccButton.label                     "Titz'aqatisäx pa Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Titz'aqatisäx pa Bcc:">
+<!ENTITY bccButton.accesskey                "B">
