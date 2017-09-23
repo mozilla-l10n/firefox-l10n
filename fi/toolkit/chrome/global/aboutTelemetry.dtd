@@ -50,6 +50,7 @@ Etsitkö lisätietoa?
 Avaa JSON-katselimessa
 ">
 
+<!ENTITY aboutTelemetry.homeSection "Etusivu">
 <!ENTITY aboutTelemetry.generalDataSection "
   Yleistiedot
 ">

@@ -18,18 +18,8 @@
 <!ENTITY deniedPortAccess.title "Osoitteen käyttö on rajoitettu">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Palvelinta ei löytynyt">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Tarkista osoite kirjoitusvirheiden varalta: esim.
-    <strong>ww</strong>.mozilla.org oikean muodon,
-    <strong>www</strong>.mozilla.org, sijaan</li>
-  <li>Jos muutkaan sivustot eivät toimi, tarkista
-    tietokoneen verkkoasetukset.</li>
-  <li>Jos tietokone tai verkko on suojattu palomuurilla tai välityspalvelin on
-    käytössä, tarkista että &brandShortName;in verkkoyhteyttä ei estetä.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.pageTitle "Palvelinta ei löytynyt">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Tiedostoa ei löytynyt">
 <!ENTITY fileNotFound.longDesc "
@@ -56,15 +46,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Avaa verkon kirjautumissivu">
 
-<!ENTITY malformedURI.title "Virheellinen osoite">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Verkko-osoitteet ovat yleensä muotoa
-    <strong>http://www.example.com/</strong></li>
-  <li>Tarkista, että olet käyttänyt kauttaviivoja (siis
-    <strong>/</strong>-merkkiä).</li>
-</ul>
-">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
