@@ -10,6 +10,7 @@
 <!ENTITY setPassword.meter.label "Mensurator de qualitate del contrasigno">
 
 <!-- Values for resetpassword.xul -->
+<!ENTITY resetPassword.text  "Si tu remonta tu contrasigno maestro, tote tu contrasignos de email e de web, datos de formularios e claves private essera oblidate. Desira tu vermente remontar tu contrasigno maestro?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.viewCert.label "Vider">

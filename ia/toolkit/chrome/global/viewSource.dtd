@@ -10,6 +10,10 @@
 
 <!ENTITY fileMenu.label "File">
 <!ENTITY savePageCmd.label "Salvar le pagina como…">
+<!ENTITY pageSetupCmd.label "Configurar le pagina…">
+<!ENTITY printPreviewCmd.label "Vista preliminar del impression">
+<!ENTITY printCmd.label "Imprimer…">
+<!ENTITY closeCmd.label "Clauder">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -18,8 +22,22 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
+<!ENTITY goToLineCmd.label "Ir al linea…">
 
+<!ENTITY viewMenu.label           "Vider">
+<!ENTITY reloadCmd.label "Recargar">
 <!ENTITY menu_wrapLongLines.title "Rearrangiar le lineas longe"> 
+<!ENTITY menu_highlightSyntax.label "Evidentiar le syntaxe">
+<!ENTITY menu_textSize.label "Grandor del texto">
+<!ENTITY menu_textEnlarge.label "Augmentar">
+<!ENTITY menu_textReduce.label "Diminuer">
+<!ENTITY menu_textReset.label "Normal">
 
+<!ENTITY findOnCmd.label     "Cercar in iste pagina…">
+<!ENTITY findAgainCmd.label  "Cercar novemente">
 
+<!ENTITY backCmd.label "Retro">
+<!ENTITY forwardCmd.label "Avante">
 
+<!ENTITY copyLinkCmd.label "Copiar le adresse del ligamine">
+<!ENTITY copyEmailCmd.label "Copiar le adresse email">

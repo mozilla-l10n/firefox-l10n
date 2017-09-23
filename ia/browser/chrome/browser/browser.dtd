@@ -72,7 +72,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Aperir un file…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Arrangiamento del pagina…">
+<!ENTITY printSetupCmd.label "Configurar le pagina…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "Vista preliminar del impression">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -606,7 +606,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar le adresse del audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar le adresse de email">
+<!ENTITY copyEmailCmd.label           "Copiar le adresse email">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Iste quadro">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trahe vostre elementos favorite e los depone in le barra de instrumentos o in le menu disbordante.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Desira vos plus instrumentos?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Seliger inter milles de additivos">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Eliger inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
 <!ENTITY customizeMode.done "Terminate">
 <!ENTITY customizeMode.titlebar "Barra de titulo">
