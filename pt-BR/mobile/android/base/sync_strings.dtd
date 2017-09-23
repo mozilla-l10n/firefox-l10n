@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Iniciar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Usando uma versão velha do &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Identificado como'>
-<!ENTITY fxaccount_status_manage_account 'Gerenciar conta'>
 <!ENTITY fxaccount_status_auth_server 'Servidor da conta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar agora'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
 <!ENTITY fxaccount_status_device_name 'Nome do dispositivo'>
 <!ENTITY fxaccount_status_sync_server 'Servidor Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ativo'>
 <!ENTITY fxaccount_status_needs_verification2 'Sua conta precisa ser confirmada. Toque para reenviar o e-mail de confirmação.'>
 <!ENTITY fxaccount_status_needs_credentials 'Não foi possível conectar. Toque para identificar-se.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Você precisa atualizar o &brandShortName; para identificar-se.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Contas.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toque para entrar na sua nova conta Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Escolher o que sincronizar'>
 <!ENTITY fxaccount_status_bookmarks 'Favoritos'>
 <!ENTITY fxaccount_status_history 'Histórico'>
 <!ENTITY fxaccount_status_passwords2 'Contas de acesso'>
 <!ENTITY fxaccount_status_tabs 'Abrir abas'>
+<!ENTITY fxaccount_status_additional_settings 'Configurações adicionais'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Termos do serviço'>
 <!ENTITY fxaccount_status_linkprivacy2 'Política de privacidade'>
-<!ENTITY fxaccount_status_more 'Mais&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Desconectar do Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Opções do &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Configurar o &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Você precisa atualizar o Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Conta já existe. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'E-mail ou senha inválida'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'E-mail ou senha inválida'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Conta não verificada'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servidor ocupado, tente novamente mais tarde'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servidor ocupado, tente novamente mais tarde'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Houve um problema'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Conta bloqueada. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'O &syncBrand.shortName.label; não está conectado'>
 <!-- Localization note: the format string below will be replaced
