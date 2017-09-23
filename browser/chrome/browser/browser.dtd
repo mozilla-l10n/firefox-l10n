@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે ટેબ સમન્વયન ચાલુ કરો.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "સમન્વયિત ટેબ્સ શોધો">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "સુરક્ષા સક્ષમ કરો">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ટ્રૅક કરી રહ્યા છે">
-<!ENTITY trackingContentBlocked.moreinfo "તમારી ઑનલાઈન પ્રવૃત્તિને ટ્રેક કરતા પૃષ્ઠનાં ભાગો અવરોધિત કરવામાં આવ્યા છે.">
-<!ENTITY trackingContentBlocked.learnMore "વધારે શીખો">
-<!ENTITY trackingContentBlocked.options "વિકલ્પો">
-<!ENTITY trackingContentBlocked.unblock2.label "આ સાઇટ માટે રક્ષણ અક્ષમ કરો">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "સુરક્ષા સક્ષમ કરો">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ટ્રેકિંગ રક્ષણ અક્ષમ છે">
-
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "સમન્વય કરતા ઉપકરણો…">
 
 <!ENTITY libraryButton.tooltip "ઇતિહાસ, સાચવેલા બુકમાર્ક્સ, અને વધુ જુઓ">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "ઍક્સેસિબિલિટી સુવિધાઓ સક્ષમ">
