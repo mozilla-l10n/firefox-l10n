@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Dodamies prom no šejienes!">
-<!ENTITY safeb.palm.decline.label "Ignorēt šo brīdinājumu">
+<!ENTITY safeb.palm.accept.label2 "Iet atpakaļ">
+<!ENTITY safeb.palm.seedetails.label "Sīkāka informācija">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,21 +14,35 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Kāpēc šī lapa tika bloķēta?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Iespējama kaitnieku lapa!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='malware_sitename'/>. Tā tiek uzskatīta par bīstamu kaitnieku lapu, un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Kaitnieku lapas mēģina instalēt jūsu datorā programmas, kas var zagt jūsu privātos datus, veikt uzbrukumus citiem lietotājiem vai kaitēt jūsu datoram.</p> 
-<p>Dažas lapas ir veidotas, lai izplatītu kaitniecisku programmatūru, bet daudzas tiek ļaunprātīgi izmantotas, to īpašniekiem nezinot.</p>">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Ieteikumus nodrošina <a id='advisory_provider'/>.">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Bīstama nevēlamas programmatūras lapa!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Lietotāji ir sūdzējušies par lapu <span id='malware_sitename'/>. Tā tiek uzskatīta par bīstamu nevēlamas programmatūras lapu un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Nevēlamas programmatūras lapas mēģina uzinstalēt programmatūru, kas maldina lietotājus un var būt kaitīga jūsu sistēmai.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Maldinoša lapa!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Lietotāji ir sūdzējušies par lapu <span id='phishing_sitename'/>. Tā tiek uzskatīta par bīstamu krāpnieku lapu, un, balstoties uz jūsu drošības iestatījumiem, tā ir bloķēta.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Maldinošas lapas mēģina apmānīt jūs, lai izdarītu kādu bīstamu lietu, piemēram, mēģina uzinstalēt jaunu programmatūru vai izkrāpt privāto informāciju, paroles, telefona numurus vai kredītkartes datus.</p><p>Jebkādas informācijas ievadīšana šādā lapā var novest pie identitātes zādzības vai krāpšanas.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Šī lapa var kaitēt jūsu datoram">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; bloķēja šo lapu, jo tā var mēģināt instalēt kaitniecisku programmatūru, kas var zagt jūsu privāto informāciju.">
+
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Par lapu <span id='malware_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tā satur kaitīgu programmatūru</a>. Varat <a id='report_detection'>ziņot par kļūdu</a> vai <a id='ignore_warning_link'>ignorēt šo paziņojumu</a> un doties uz nedrošo lapu.">
+
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
 

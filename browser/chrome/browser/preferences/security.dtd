@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Drošība">
 
-<!ENTITY  warnOnAddonInstall.label        "Brīdināt mani, ja lapas mēģina instalēt papildinājumus">
-<!ENTITY  warnOnAddonInstall.accesskey    "B">
+<!ENTITY  warnOnAddonInstall2.label       "Brīdināt mani, ja lapas mēģina instalēt papildinājumus">
+<!ENTITY  warnOnAddonInstall2.accesskey   "B">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
+
+<!ENTITY  browsingProtection.label        "Maldinoša satura un bīstamas programmatūras aizsardzība">
 <!ENTITY  enableSafeBrowsing.label        "Bloķēt bīstamu un maldinošu saturu">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,8 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formas un paroles">
 
-<!ENTITY  rememberLogins1.label          "Atcerieties, lietotājvārdi un paroles vietnēm">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins2.label         "Atcerieties, lietotājvārdi un paroles mājas lapās">
+<!ENTITY  rememberLogins2.accesskey     "A">
 <!ENTITY  passwordExceptions.label      "Izņēmumi...">
 <!ENTITY  passwordExceptions.accesskey  "z">
 

@@ -10,10 +10,16 @@
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Vēsturi">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Lietotājvārdi">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Iestatījumus">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Papildinājumus">
 <!ENTITY engine.addons.accesskey    "a">
+<!ENTITY engine.addresses.label     "Adreses">
+<!ENTITY engine.addresses.accesskey "a">
+<!ENTITY engine.creditcards.label   "Kredītkartes">
+<!ENTITY engine.creditcards.accesskey "K">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Ierīces nosaukums">
@@ -60,10 +66,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Paņem tīmekli sev līdz">
 <!ENTITY signedOut.description        "Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.">
 <!ENTITY signedOut.accountBox.title   "Pieslēdzieties ar &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Izveidot kontu">
-<!ENTITY signedOut.accountBox.create.accesskey  "I">
-<!ENTITY signedOut.accountBox.signin  "Pieslēgties">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.create2 "Nav konta? To var labot">
+<!ENTITY signedOut.accountBox.create2.accesskey "N">
+<!ENTITY signedOut.accountBox.signin2 "Pieslēgties…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "P">
 
 <!ENTITY signedIn.settings.label       "Sync iestatījumi">
 <!ENTITY signedIn.settings.description "Izvēlēties, ko sinhronizēt ierīcē, izmantojot uz &brandShortName;.">
