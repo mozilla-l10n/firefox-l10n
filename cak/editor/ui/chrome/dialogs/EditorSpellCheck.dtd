@@ -13,9 +13,25 @@
 <!ENTITY suggestions.accessKey "i">
 <!ENTITY ignoreButton.label "Tiq'olo' richin">
 <!ENTITY ignoreButton.accessKey "i">
+<!ENTITY ignoreAllButton.label "Tiq'olo' richin Ronojel">
+<!ENTITY ignoreAllButton.accessKey "q">
 <!ENTITY replaceButton.label "Tijal">
 <!ENTITY replaceButton.accessKey "j">
 <!ENTITY replaceAllButton.label "Tijal Ronojel">
 <!ENTITY replaceAllButton.accessKey "R">
 <!ENTITY stopButton.label "Tiq'at">
 <!ENTITY stopButton.accessKey "a">
+<!ENTITY userDictionary.label "Ichin Soltzij:">
+<!ENTITY moreDictionaries.label "Keqasäx ch'aqa' chik taq soltzij…">
+<!ENTITY addToUserDictionaryButton.label "Titz'aqatisäx Tzij">
+<!ENTITY addToUserDictionaryButton.accessKey "q">
+<!ENTITY editUserDictionaryButton.label "Tinuk'…">
+<!ENTITY editUserDictionaryButton.accessKey "n">
+<!ENTITY recheckButton2.label "Tinik'öx chik Rucholajem Tzij">
+<!ENTITY recheckButton2.accessKey "R">
+<!ENTITY closeButton.label "Titz'apïx">
+<!ENTITY closeButton.accessKey "x">
+<!ENTITY sendButton.label "Titaq">
+<!ENTITY sendButton.accessKey "t">
+<!ENTITY languagePopup.label "Ch'ab'äl:">
+<!ENTITY languagePopup.accessKey "C">

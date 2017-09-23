@@ -3,8 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY siteUrl.label         "Ruxaq URL:">
+<!ENTITY docSubdir.label       "Rachcholb'al ruxaq:">
+<!ENTITY otherSubdir.label     "Rachcholb'al wachib'äl:">
 
 <!ENTITY status.label          "Tajin nitalüx rutzijol…">
+<!ENTITY fileList.label        "Rub'anikil Rutaluxik Rutzijol">
 <!ENTITY failed.label          "Man ütz ta xub'än">
 
 <!ENTITY closeButton.label     "Titz'apïx">

@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tableWindow.title                "Taq Richinil Kemon Kajtz'ik">
+<!ENTITY applyButton.label                "Tisamajïx">
+<!ENTITY applyButton.accesskey            "s">
+<!ENTITY closeButton.label                "Titz'apïx">
+<!ENTITY tableTab.label                   "Kemoj kajtz'ik">
+<!ENTITY cellTab.label                    "Taq ch'utikajtz'ik">
+<!ENTITY tableRows.label                  "Taq cholaj:">
+<!ENTITY tableRows.accessKey              "c">
+<!ENTITY tableColumns.label               "Taq tem:">
+<!ENTITY tableColumns.accessKey           "t">
+<!ENTITY tableHeight.label                "Raqän:">
+<!ENTITY tableHeight.accessKey            "q">
+<!ENTITY tableWidth.label                 "Ruwa:">
+<!ENTITY tableWidth.accessKey             "w">
+<!ENTITY tableBorderSpacing.label         "Taq Ruchi' chuqa' Rukojol">
+<!ENTITY tableBorderWidth.label           "Ruchi':">
+<!ENTITY tableBorderWidth.accessKey       "c">
+<!ENTITY tableSpacing.label               "Rukojol:">
+<!ENTITY tableSpacing.accessKey           "k">
+<!ENTITY tableCaptionNone.label           "Majun">
+
+<!ENTITY cellSelection.label              "Cha'onïk">
+<!ENTITY cellSelectCell.label             "Ch'utikajtz'ik">
+<!ENTITY cellSelectRow.label              "Cholaj">
+<!ENTITY cellSelectColumn.label           "Tem">
+<!ENTITY cellSelectNext.label             "Jun chik">
+<!ENTITY cellSelectNext.accessKey         "c">
+<!ENTITY cellSelectPrevious.label         "Chuwa">
+<!ENTITY cellSelectPrevious.accessKey     "C">
+<!ENTITY cellHorizontal.label             "Kotz'öl:">
+<!ENTITY cellHorizontal.accessKey         "z">
+<!ENTITY cellVertical.label               "Pa'äl:">
+<!ENTITY cellVertical.accessKey           "P">
+<!ENTITY cellStyle.label                  "Rub'anikil Ch'utikajtz'ik:">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "Relik">
+<!ENTITY cellHeader.label                 "Jub'i'aj">
+<!ENTITY cellAlignTop.label               "Ajsik">
+<!ENTITY cellAlignBottom.label            "Chuxe'">
+<!ENTITY cellAlignJustify.label           "Chojtz'aqät">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "Nimilem">
+<!ENTITY pixels.label                     "taq piksel">
+<!ENTITY backgroundColor.label            "Rub'onil Rupam:">
+<!ENTITY backgroundColor.accessKey        "p">
