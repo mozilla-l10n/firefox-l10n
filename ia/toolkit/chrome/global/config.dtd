@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "Illo pote violar tu garantia!">
+<!ENTITY aboutWarningText.label "Cambiar iste parametros avantiate pote esser nocive al stabilitate, securitate e rendimento de iste application. Tu solmente debe continuar si tu es secur de illo que tu va facer.">
+<!ENTITY aboutWarningButton2.label "Io accepta le risco!">
+<!ENTITY aboutWarningCheckbox.label "Monstrar iste advertentia le proxime vice">
+
+<!ENTITY searchPrefs.label "Cercar:">
+
+<!-- Columns -->
+<!ENTITY prefColumn.label "Nomine del preferentia">
+<!ENTITY lockColumn.label "Stato">
+<!ENTITY typeColumn.label "Typo">
+<!ENTITY valueColumn.label "Valor">
+
+<!-- Tooltips -->
+ 
+ 
+
+<!-- Context Menu -->
+<!ENTITY copyPref.label "Copiar">
+<!ENTITY copyName.label "Copiar le nomine">
+<!ENTITY copyValue.label "Copiar le valor">
+<!ENTITY modify.label "Modificar">
+<!ENTITY toggle.label "Inverter">
+<!ENTITY new.label "Nove">
+<!ENTITY string.label "Catena de characteres">
+<!ENTITY integer.label "Integre">
+<!ENTITY boolean.label "Boolean">

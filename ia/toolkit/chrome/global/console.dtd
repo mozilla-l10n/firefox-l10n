@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY errFile.label   "File fonte:">
+<!ENTITY errLine.label   "Linea:">
+<!ENTITY errColumn.label "Columna:">
+
+<!ENTITY all.label          "Toto">
+<!ENTITY errors.label       "Errores">
+<!ENTITY warnings.label     "Advertentias">
+<!ENTITY messages.label     "Messages">
+<!ENTITY clear.label        "Vacuar">
+<!ENTITY codeEval.label     "Codice:">
+<!ENTITY evaluate.label     "Evalutar">
+<!ENTITY filter2.label      "Filtrar:">
+
+<!ENTITY copyCmd.label       "Copiar">  
+ 
+ 
+<!ENTITY sortFirst.label     "Ordine prime > ultime">
+<!ENTITY sortLast.label      "Ordine ultime > prime">
+  
+  
+  

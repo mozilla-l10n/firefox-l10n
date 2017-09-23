@@ -1,0 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY show.label               "Monstrar:">
+<!ENTITY iconsAndText.label       "Icones e texto">
+<!ENTITY icons.label              "Icones">
+<!ENTITY text.label               "Texto">
+<!ENTITY useSmallIcons.label      "Usar icones parve">
+<!ENTITY restoreDefaultSet.label  "Restaurar le predefinition">
+<!ENTITY addNewToolbar.label      "Adder le nove barra de instrumentos">
+<!ENTITY saveChanges.label        "Facite">

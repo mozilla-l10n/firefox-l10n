@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY editMenu.label            "Editar">
+<!ENTITY redoCmd.label             "Refacer">
+<!ENTITY cutCmd.label              "Taliar">
+<!ENTITY copyCmd.label             "Copiar">
+<!ENTITY deleteCmd.label           "Deler">
+<!ENTITY selectAllCmd.label        "Selectionar toto">
+<!ENTITY findCmd.label             "Cercar">
+<!ENTITY findAgainCmd.label        "Cercar le sequente">
+<!ENTITY findPreviousCmd.label     "Cercar le precedente">

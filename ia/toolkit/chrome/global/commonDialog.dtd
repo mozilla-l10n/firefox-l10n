@@ -7,3 +7,5 @@
 <!ENTITY editfield0.label "Nomine de usator:"> 
 <!ENTITY editfield1.label "Contrasigno:"> 
 <!ENTITY checkbox.label   "selectionar">
+<!ENTITY copyCmd.label    "Copiar">
+<!ENTITY selectAllCmd.label "Selectionar toto">

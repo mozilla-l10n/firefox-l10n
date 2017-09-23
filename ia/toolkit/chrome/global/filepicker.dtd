@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY lookInMenuList.label   "Reguardar in:">
+<!ENTITY textInput.label        "Nomine del file:">
+<!ENTITY filterMenuList.label   "Files del typo:">
+<!ENTITY name.label             "Nomine">
+<!ENTITY size.label             "Grandor">
+<!ENTITY lastModified.label     "Ultime modification">
+<!ENTITY showHiddenFiles.label  "Monstrar le files e directorios celate">
+
+<!ENTITY noPermissionError.label "Tu non ha le permissiones necessari pro vider iste directorio.">
+
