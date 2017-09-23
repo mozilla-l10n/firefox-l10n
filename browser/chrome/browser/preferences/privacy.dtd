@@ -46,10 +46,10 @@
 
 <!ENTITY  suggestionSettings2.label     "Іздеу жүйесінің ұсыныстары үшін қалауларды өз&amp;герту">
 
-<!ENTITY  acceptCookies2.label          "Вебсайттардан cookies қабылдау">
+<!ENTITY  acceptCookies2.label          "Веб-сайттардан cookies файлдарын қабылдау">
 <!ENTITY  acceptCookies2.accesskey      "д">
 
-<!ENTITY  acceptThirdParty2.pre.label     "Үшінші жақты cookies қабылдау">
+<!ENTITY  acceptThirdParty2.pre.label     "Үшінші жақты cookies файлдарын қабылдау">
 <!ENTITY  acceptThirdParty2.pre.accesskey "ш">
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
@@ -64,7 +64,7 @@
 <!ENTITY  cookieExceptions.label        "Ережелерден бөлек…">
 <!ENTITY  cookieExceptions.accesskey    "Е">
 
-<!ENTITY  showCookies.label             "Cookies көрсету…">
+<!ENTITY  showCookies.label             "Cookies файлдарын көрсету…">
 <!ENTITY  showCookies.accesskey         "р">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;">
@@ -74,7 +74,7 @@
 <!ENTITY  historyHeader.custom.label       "қолдан көрсетілген тарих баптауын қолданады">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; қаралған веб-парақ, жүктеме, форма, іздеу тарихын және cookies файлдарын сақтайтын болады.">
+<!ENTITY  rememberDescription.label      "&brandShortName; қаралған веб-беті, жүктеме, форма, іздеу тарихын және cookies файлдарын сақтайтын болады.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.pre.label           "Сонымен қатар, ">
 <!ENTITY  rememberActions.clearHistory.label  "жуырдағы тарихты тазарту">
 <!ENTITY  rememberActions.middle.label        ", немесе ">
-<!ENTITY  rememberActions.removeCookies.label "жекеленген cookies файлдарын өшіруді қалайтын шығарсыз">
+<!ENTITY  rememberActions.removeCookies.label "жеке-жеке cookies файлдарын өшіруге болады">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; жекелік шолу режимінің баптауын пайдаланады, яғни браузер тарихына ешқандай мәлімет сақталмайды.">

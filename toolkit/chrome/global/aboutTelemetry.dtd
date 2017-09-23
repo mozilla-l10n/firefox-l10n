@@ -46,6 +46,6 @@
 <!ENTITY aboutTelemetry.rawPayloadSection "Шикі жүктеме">
 <!ENTITY aboutTelemetry.raw "Шикі JSON">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  Ескерту: Баяу SQL-ді жөндеу режимі іске қосулы тұр. Толық SQL жолдары төмен көрсетілуі мүмкін, бірақ олар телеметрияға жіберілмейді.">
+<!ENTITY aboutTelemetry.fullSqlWarning "Ескерту: Баяу SQL кодын жөндеу режимі іске қосулы тұр. Толық SQL жолдары төмен көрсетілуі мүмкін, бірақ олар телеметрияға жіберілмейді.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Стектер үшін функциялар аттарын алу ">
 <!ENTITY aboutTelemetry.hideStackSymbols "  Шикі стек деректерін көрсету">

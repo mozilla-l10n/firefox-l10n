@@ -16,7 +16,7 @@
 <!ENTITY     props.expires.label            "Мерзімі аяқталады:">
 <!ENTITY     props.container.label          "Контейнер:">
 
-<!ENTITY     window.title                   "Cookies">
+<!ENTITY     window.title                   "Cookies файлдары">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 

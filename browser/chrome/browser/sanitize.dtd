@@ -22,10 +22,10 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Мен &brandShortName; жапқанда, ол келесілерді өшіру керек:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Жойылатын деректер мерзімі: ">
 <!ENTITY clearTimeDuration.accesskey      "Ж">
 <!ENTITY clearTimeDuration.lastHour       "Соңғы сағат">
@@ -36,10 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Ақпараты">
 <!ENTITY detailsProgressiveDisclosure.accesskey "п">
 
@@ -50,8 +50,8 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ш">
 <!ENTITY itemFormSearchHistory.label       "Формалар және іздеу тарихы">
 <!ENTITY itemFormSearchHistory.accesskey   "Ф">
-<!ENTITY itemCookies.label                 "Cookies">
-<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCookies.label                 "Cookies файлдары">
+<!ENTITY itemCookies.accesskey             "ф">
 <!ENTITY itemCache.label                   "Кэш">
 <!ENTITY itemCache.accesskey               "К">
 <!ENTITY itemOfflineApps.label             "Дербес веб-сайттар деректері">
@@ -60,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "Б">
 <!ENTITY itemSitePreferences.label         "Сайттар баптаулары">
 <!ENTITY itemSitePreferences.accesskey     "С">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Бұл әрекетті болдырмау мүмкін емес болады.">

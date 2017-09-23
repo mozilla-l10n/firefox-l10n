@@ -77,8 +77,8 @@
 
 <!ENTITY  securityView.privacy.header                   "Жекешелік пен Тарихы">
 <!ENTITY  securityView.privacy.history                  "Бұл сайтта бүгінге дейін болдым ба?">
-<!ENTITY  securityView.privacy.cookies                  "Осы сайт компьютерімде ақпаратты (cookies) сақтап отыр ма?">
-<!ENTITY  securityView.privacy.viewCookies              "Cookies қарау">
+<!ENTITY  securityView.privacy.cookies                  "Осы сайт компьютерімде ақпаратты (cookies файлдарын) сақтап отыр ма?">
+<!ENTITY  securityView.privacy.viewCookies              "Cookies файлдарын қарау">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "а">
 <!ENTITY  securityView.privacy.passwords                "Осы веб-сайт үшін парольдерімді сақтадым ба?">
 <!ENTITY  securityView.privacy.viewPasswords            "Сақталып тұрған парольдерді қарау">
