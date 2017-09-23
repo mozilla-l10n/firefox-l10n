@@ -16,7 +16,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Aff! Sua aba travou.">
 <!ENTITY tabCrashed.offerHelp2 "Podemos ajudá-lo!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Escolha &tabCrashed.restoreTab; para recarregar a página.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Escolher o &tabCrashed.restoreTab; para recarregar a página.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Escolher o &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar a(s) página/páginas.">
 <!ENTITY tabCrashed.requestHelp "Você nos ajudará?">
 <!ENTITY tabCrashed.requestHelpMessage "Os relatórios de travamento nos ajudam a diagnosticar problemas e a fazer o &brandShortName; melhor.">
 <!ENTITY tabCrashed.requestReport "Relatar esta aba">
