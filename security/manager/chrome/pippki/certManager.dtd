@@ -10,11 +10,11 @@
 <!ENTITY certmgr.tab.ca                       "Autoritātes">
 <!ENTITY certmgr.tab.orphan2                  "Citi">
 
-<!ENTITY certmgr.mine                         "Jums ir jūs identificējoši sertifikāti no šīm organizācijām:">
-<!ENTITY certmgr.others                       "Jums failā ir šos cilvēkus identificējoši sertifikāti:">
-<!ENTITY certmgr.websites2                    "Jums failā ir šos serverus identificējoši sertifikāti:">
-<!ENTITY certmgr.cas                          "Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti:">
-<!ENTITY certmgr.orphans                      "Jums failā ir šādi sertifikāti, kas neiederas nevienā citā kategorijā:">
+<!ENTITY certmgr.mine2                        "Jums ir jūs identificējoši sertifikāti no šīm organizācijām">
+<!ENTITY certmgr.others2                      "Jums failā ir šos cilvēkus identificējoši sertifikāti">
+<!ENTITY certmgr.websites3                    "Jums failā ir šos serverus identificējoši sertifikāti">
+<!ENTITY certmgr.cas2                         "Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti">
+<!ENTITY certmgr.orphans2                     "Jums failā ir šādi sertifikāti, kas neiederas nevienā citā kategorijā">
 
 <!ENTITY certmgr.detail.general_tab.title     "Vispārīgi">
 <!ENTITY certmgr.detail.general_tab.accesskey "V">

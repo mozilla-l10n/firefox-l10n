@@ -66,6 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Vairāku procesu logs">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Tīmekļa satura process">
+
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google atslēga">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla atrašanās vietas pakalpojuma atslēga">
 
@@ -104,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Pieejamība">
 <!ENTITY aboutSupport.a11yActivated "Aktivizēta">
 <!ENTITY aboutSupport.a11yForceDisabled "Neatļaut pieejamību">
+<!ENTITY aboutSupport.a11yHandlerUsed "Izmantots pieejamības rīks">
+<!ENTITY aboutSupport.a11yInstantiator "Pieejamības indikators">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Bibliotēkas versijas">
 
@@ -134,3 +138,16 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "Lēmumu žurnāls">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Avāriju aizsardzības deaktivētās iespējas">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Pagaidu risinājumi">
+
+<!ENTITY aboutSupport.mediaTitle "Multimēdijas">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Izvades ierīces">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Ievades ierīces">
+<!ENTITY aboutSupport.mediaDeviceName "Nosaukums">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupa">
+<!ENTITY aboutSupport.mediaDeviceVendor "Ražotājs">
+<!ENTITY aboutSupport.mediaDeviceState "Stāvoklis">
+<!ENTITY aboutSupport.mediaDevicePreferred "Vēlamais">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formāts">
+<!ENTITY aboutSupport.mediaDeviceChannels "Kanāli">
+<!ENTITY aboutSupport.mediaDeviceRate "Ātrums">
+<!ENTITY aboutSupport.mediaDeviceLatency "Aizture">
