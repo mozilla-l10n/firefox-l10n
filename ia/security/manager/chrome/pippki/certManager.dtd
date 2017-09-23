@@ -8,29 +8,47 @@
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
+<!ENTITY certmgr.pending.label                "Verificante ora le certificato…">
 <!ENTITY certmgr.subjectinfo.label            "Emittite a">
 <!ENTITY certmgr.issuerinfo.label             "Emittite per">
+<!ENTITY certmgr.periodofvalidity.label       "Periodo de validitate" >
+<!ENTITY certmgr.fingerprints.label           "Impressiones digital">
 
 
 
 <!ENTITY certmgr.override_lifetime            "Duration del vita">
 
+<!ENTITY certmgr.close.label                  "Clauder">
 <!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "Vider…">
 <!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Editar le confidentia…">
 <!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Deler…">
 <!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.label         "Deler o non confider plus…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "Backup…">
 <!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "Backup de toto…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Importar…">
 <!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.label                "Campos del certificato">
 <!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.label                 "Valor del campo">
 <!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.label              "Hierarchia de certificatos">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.addException.label           "Adder un exception…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
+<!ENTITY exceptionMgr.exceptionButton.label   "Confirmar le exception de securitate">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancas, botecas e altere sitos public legitime non te demandara pro facer isto.">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.label         "Conservar permanentemente iste exception">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">
