@@ -41,7 +41,24 @@
 <!ENTITY chatName.label                 "Chat B'i'aj:">
 
 <!ENTITY WorkPhone.label                "Samaj:">
+<!ENTITY WorkPhone.accesskey            "j">
+<!ENTITY HomePhone.label                "Tikirib'äl:">
+<!ENTITY HomePhone.accesskey            "b">
+<!ENTITY FaxNumber.label                "Taqowuj:">
+<!ENTITY FaxNumber.accesskey            "j">
+<!ENTITY PagerNumber.label              "Kanöy winäq:">
+<!ENTITY PagerNumber.accesskey          "y">
+<!ENTITY CellularNumber.label           "Oyonib'äl:">
+<!ENTITY CellularNumber.accesskey       "b">
 
+<!ENTITY Home.tab                       "Ichinan">
+<!ENTITY Home.accesskey                 "I">
+<!ENTITY HomeAddress.label              "Ochochib'äl:">
+<!ENTITY HomeAddress.accesskey          "c">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Tinamït:">
+<!ENTITY HomeCity.accesskey             "t">
 
 
 
