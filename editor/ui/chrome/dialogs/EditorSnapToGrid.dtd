@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Posicionar na grade">
+<!ENTITY windowTitle.label "Encaixar na grade">
 
 <!ENTITY enableSnapToGrid.label "Ativar">
 <!ENTITY enableSnapToGrid.accessKey "A">

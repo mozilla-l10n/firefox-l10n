@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label "Propriedades da lista de seleções">
 
 <!ENTITY Select.label "Lista de seleções:">
-<!ENTITY SelectName.label "Nome:">
+<!ENTITY SelectName.label "Nome da lista:">
 <!ENTITY SelectName.accesskey "N">
 <!ENTITY SelectSize.label "Altura:">
 <!ENTITY SelectSize.accesskey "A">
@@ -17,7 +17,7 @@
 <!ENTITY SelectTabIndex.accesskey "t">
 
 <!ENTITY OptGroup.label "Grupo de opções">
-<!ENTITY OptGroupLabel.label "Texto:">
+<!ENTITY OptGroupLabel.label "Rótulo:">
 <!ENTITY OptGroupLabel.accesskey "T">
 <!ENTITY OptGroupDisabled.label "Desabilitado">
 <!ENTITY OptGroupDisabled.accesskey "D">
@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "A">
 <!ENTITY RemoveElement.label "Remover">
 <!ENTITY RemoveElement.accesskey "R">
-<!ENTITY MoveElementUp.label "Para cima">
+<!ENTITY MoveElementUp.label "Mover acima">
 <!ENTITY MoveElementUp.accesskey "c">
-<!ENTITY MoveElementDown.label "Para baixo">
+<!ENTITY MoveElementDown.label "Mover abaixo">
 <!ENTITY MoveElementDown.accesskey "b">
