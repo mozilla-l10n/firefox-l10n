@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY newprofile.title             "Crear le assistente de profilo">
+<!ENTITY window.size                  "width: 55em; height: 34em;">
 
 <!-- First wizard page -->
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; stocka informationes super tu parametros e preferentias in tu profilo personal.">
 
 <!-- Second wizard page -->
 <!ENTITY profilePrompt.label            "Inserer le nove nomine del profilo:">
