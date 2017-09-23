@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "Chi rij Ach'ojib'al">
+<!ENTITY rights.intro-header     "Chi rij Ach'ojib'al">
+<!ENTITY rights.intro "&brandFullName; jun jamäl kema' chuqa' jaqäl chi nimaläj b'i'aj, ri nuk'un kuma molaj taq winäq aj chijun ri ruwach'ulew. Ja re' ri jujun taq na'oj ri k'atzinel nawetamaj:">
+
+<!-- Note on pointa / pointb / pointc form:
+     These points each have an embedded link in the HTML, so each point is
+     split into chunks for text before the link, the link text, and the text
+     after the link. If a localized grammar doesn't need the before or after
+     chunk, it can be left blank.
+
+     Also note the leading/trailing whitespace in strings here, which is
+     deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; wachel rik'in re taq rojqanem ri ">
+<!ENTITY rights.intro-point1b "Ruwinaqilal ya'öl q'ij Mozilla">
+
+<!ENTITY rights.intro-point2b "wawe'">
+<!ENTITY rights.intro-point2c ".">
+
+<!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3b "wawe'">
+<!ENTITY rights.intro-point3c ".">
+
+<!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Xa b'a achike kina'ojil taq ichinanem okel pa re k'ayij re', rajowaxik niq'alajisäx wawe'.">
+
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "kojqanem samaj">
+<!ENTITY rights.intro-point4c ".">
+
+<!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "We re jun k'ayij re' k'o taq rusamaj k'amaya'l chupam, xa b'a achike chi rojqanem samaj okel pa (taq) samaj k'o ta chi kiximon ki' pa ">
+<!ENTITY rights.intro-point4b-unbranded "Kisamaj Ajk'amaya'l taq Ruxaq">
+<!ENTITY rights.intro-point4c-unbranded " peraj.">
+
+
+<!-- Note that this paragraph references a couple of entities from
+     preferences/security.dtd, so that we can refer to text the user sees in
+     the UI, without this page being forgotten every time those strings are
+     updated.  -->
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-b "Q'axinäq">
+<!ENTITY rights.webservices-d "Tik'ex">
+
+<!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Wawe' k'o chi nitz'aqatisäx apo jun ruch'utitzijol kisamaj ajk'amaya'l ruxaq, ri ruk'wan ri k'ayij, chuqa' k'o pe ri taq rucholajil rub'eyal nitz'apïx, we ke ri' rajowaxik.">
+
+<!-- point 1 text for unbranded builds -->
+
+<!-- points 1-7 text for branded builds -->
