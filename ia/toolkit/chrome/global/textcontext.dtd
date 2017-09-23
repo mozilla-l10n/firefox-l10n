@@ -14,3 +14,4 @@
 
 <!ENTITY fillPasswordMenu.label       "Inserer le contrasigno">
 <!ENTITY fillUsernameMenu.label       "Inserer le nomine de usator">
+<!ENTITY viewSavedLogins.label        "Vider le authenticationes salvate">

@@ -206,7 +206,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage sin connexion">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos memorisate">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si vos pote reciper o non notificationes del sito">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stockar datos in le immagazinage persistente">
@@ -569,22 +569,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLFeedback.label        "Copiate!">
 <!ENTITY emailPageCmd.label           "Inviar le ligamine per email…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "Memorisar le pagina como…">
+<!ENTITY savePageCmd.label            "Salvar le pagina como…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Memorisar le quadro como…">
+<!ENTITY saveFrameCmd.label           "Salvar le quadro como…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "Imprimer le quadro…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "Memorisar le ligamine como…">
+<!ENTITY saveLinkCmd.label            "Salvar le ligamine como…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Memorisar le imagine como…">
+<!ENTITY saveImageCmd.label           "Salvar le imagine como…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "Memorisar le video como…">
+<!ENTITY saveVideoCmd.label           "Salvar le video como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Memorisar le audio como…">
+<!ENTITY saveAudioCmd.label           "Salvar le audio como…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Inviar le imagine per email…">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -652,7 +652,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Plen schermo">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Memorisar le instantaneo como…">
+<!ENTITY videoSaveImage.label        "Salvar le instantaneo como…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -941,7 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Iste action es irreversibile.">
 <!ENTITY panicButton.view.forgetButton            "Oblidar!">
 
-<!ENTITY panicButton.thankyou.msg1                "Vostre chronologia recente es vacue.">
+<!ENTITY panicButton.thankyou.msg1                "Tu chronologia recente es vacue.">
 <!ENTITY panicButton.thankyou.msg2                "Naviga cautemente!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Gratias!">
 
@@ -981,7 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante Apparatos…">
 
-<!ENTITY libraryButton.tooltip "Vider chronologia, paginas marcate memorisate, e plus">
+<!ENTITY libraryButton.tooltip "Vider chronologia, paginas marcate salvate, e plus">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
