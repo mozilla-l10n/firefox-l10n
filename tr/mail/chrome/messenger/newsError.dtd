@@ -28,3 +28,4 @@
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Süresi dolan tüm yazıları kaldır">

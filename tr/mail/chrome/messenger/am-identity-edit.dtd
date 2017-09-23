@@ -12,5 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Kopyalar ve dizinler">
 <!ENTITY addressingTab.label    "Kompozisyon ve adresler">
 
+<!ENTITY publicData.label        "Kamuya açık veri">
+<!ENTITY privateData.label       "Özel veri">
 <!ENTITY identityAlias.label     "Kimlik etiketi:">
 <!ENTITY identityAlias.accesskey "m">
