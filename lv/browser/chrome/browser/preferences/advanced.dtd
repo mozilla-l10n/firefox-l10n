@@ -138,7 +138,19 @@ available. -->
 <!ENTITY performance.label               "Veiktspēja">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Izmantot ieteiktos veiktspējas iestatījumus">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Šie iestatījumi ir pielāgoti jūsu datora aparatūrai un operētājsistēmai.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Uzzināt vairāk">
+<!ENTITY limitContentProcessOption.label "Satura procesu limits">
+<!ENTITY limitContentProcessOption.description
+                                         "Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Kā pārbaudīt, vai pieejams vairāku procesu režīms">
 <!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
 <!ENTITY allowHWAccel.accesskey          "j">

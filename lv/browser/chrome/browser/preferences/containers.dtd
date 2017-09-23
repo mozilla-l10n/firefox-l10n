@@ -7,20 +7,19 @@
 <!ENTITY preferencesButton.label "Iestatījumi">
 <!ENTITY removeButton.label   "Noņemt">
 <!-- &#171; is &laquo; however it's not defined in XML -->
-<!ENTITY backLink.label       "&#171; atgriezties pie privātuma">
+<!ENTITY backLink2.label      "&#171; Iet atpakaļ">
 
 <!ENTITY window.title         "Pievienot jaunu konteineru">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nosaukums:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nosaukums">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Ievadiet konteinera nosaukumu">
-<!ENTITY icon.label           "Ikona:">
-<!ENTITY icon.accesskey       "I">
-<!ENTITY color.label          "Krāsa:">
-<!ENTITY color.accesskey      "k">
+<!ENTITY icon2.label          "Ikona">
+<!ENTITY icon2.accesskey      "I">
+<!ENTITY color2.label         "Krāsa">
+<!ENTITY color2.accesskey     "r">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Gatavs">
 <!ENTITY button.ok.accesskey  "G">
-

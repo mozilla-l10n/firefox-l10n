@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "40em">
 
-<!ENTITY     cookiesonsystem.label          "Šādas sīkdatnes ir saglabātas jūsu datorā:">
+<!ENTITY     cookiesonsystem2.label         "Šādas sīkdatnes ir saglabātas jūsu datorā">
 <!ENTITY     cookiename.label               "Sīkdatnes nosaukums">
 <!ENTITY     cookiedomain.label             "Vietne">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Sīkdatnes">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Meklēt">
 <!ENTITY     searchFilter.accesskey         "M">
