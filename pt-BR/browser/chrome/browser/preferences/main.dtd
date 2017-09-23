@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Restaurar o padrão">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Desabilitar extensão">
+
 <!ENTITY downloads.label     "Downloads">
 
 <!ENTITY saveTo.label "Salvar arquivos em">
