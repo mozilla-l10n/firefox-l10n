@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Lisäyspäivä">
 <!ENTITY col.lastmodified.label  "Viimeisin muokkaus">
 
-<!ENTITY search.placeholder  "Haku">
+<!ENTITY historySearch.placeholder  "Etsi historiasta">
+<!ENTITY bookmarksSearch.placeholder  "Etsi kirjanmerkeistä">
 
 <!ENTITY cmd.find.key  "f">
 
