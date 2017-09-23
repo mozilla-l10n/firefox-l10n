@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Tīmekļa izstrādātājs">
+<!ENTITY webDeveloperMenu.label       "Izstrādātāju rīki">
 <!ENTITY webDeveloperMenu.accesskey   "T">
 
 <!ENTITY inspectContextMenu.label     "Izmeklēt">
