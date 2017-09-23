@@ -5,10 +5,16 @@
 <!ENTITY  updateCheck.label               "Cercante versiones plus nove de &brandShortName;…">
 
 
+<!ENTITY  manualUpdateGetMsg.label        "Tu pote sempre obtener le ultime version de &brandShortName; a:">
+
+<!ENTITY  unsupported.label               "Tu &brandShortName; non es actualisate, ma le ultime version non es
+                                           admittite in tu systema. Per favor actualisa tu systema, tunc retenta.
+                                           Tu non essera advertite novemente, ma tu pote">
+
+<!ENTITY  clickHere.label                 "Vider plus informationes super iste actualisation">
 
 
-
-
+<!ENTITY  connecting.label                "Connectente al servitor de actualisation…">
 
 
 
@@ -20,5 +26,6 @@
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
+<!ENTITY  update.details.label            "Detalios">
 <!ENTITY  update.installedOn.label        "Installate le:">
 <!ENTITY  update.status.label             "Stato:">

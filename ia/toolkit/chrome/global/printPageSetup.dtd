@@ -16,5 +16,11 @@
 
 
 
+<!ENTITY headerLeft.tip      "Capite a sinistra">
+<!ENTITY headerCenter.tip    "Capite al centro">
+<!ENTITY headerRight.tip     "Capite a dextere">
+<!ENTITY footerLeft.tip      "Pede a sinistra">
+<!ENTITY footerCenter.tip    "Pede al centro">
+<!ENTITY footerRight.tip     "Pede a dextere">
 
 

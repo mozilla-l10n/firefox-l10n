@@ -6,4 +6,5 @@
 <!-- First wizard page -->
 
 <!-- Second wizard page -->
+<!ENTITY profilePrompt.label            "Inserer le nove nomine del profilo:">
 <!ENTITY button.choosefolder.label      "Eliger un dossier…">
