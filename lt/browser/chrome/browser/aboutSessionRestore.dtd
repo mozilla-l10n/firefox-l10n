@@ -7,8 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Atsiprašome. Mums nepavyksta atkurti jūsų tinklalapių.">
-<!ENTITY restorepage.problemDesc2   "Mums nepavyksta atkurti jūsų paskutinio naršymo seanso. Pasirinkite „Seanso atkūrimas“ norėdami pabandyti dar kartą.">
+<!ENTITY restorepage.problemDesc2   "Mums nepavyksta atkurti jūsų paskutinio naršymo seanso. Pasirinkite „Atkurti seansą“ norėdami pabandyti dar kartą.">
+<!ENTITY restorepage.tryThis2       "Vis tiek nepavyksta atkurti seanso? Kartais taip būna dėl kortelių. Peržiūrėkite ankstesnes korteles ir nuimkite varneles nuo tų, kurių nebūtinai reikia, ir pabandykite atkurti tada.">
 
+<!ENTITY restorepage.tryagainButton2 "Atkurti seansą">
+<!ENTITY restorepage.restore.access2 "r">
+<!ENTITY restorepage.closeButton2    "Pradėti naują seansą">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Atkurti">
 <!ENTITY restorepage.listHeader     "Langai ir kortelės">
