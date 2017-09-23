@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Kešatmiņas uzvaru skaits">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Tīkla uzvaru skaits">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Kopējais tīkla pieprasījumu skaits">
+<!ENTITY aboutNetworking.rcwnOperation         "Kešatmiņas darbība">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Atvērt">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lasīt">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Rakstīt">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Atvērts ieraksts">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Īss vidējais">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Garš vidējais">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Gara standarta nobīde">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Kešatmiņas lēnumu skaits">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Kešatmiņas ne lēnumu skaits">

@@ -25,11 +25,11 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "Ievadiet informāciju par moduli, ko vēlaties pievienot.">
-<!ENTITY loaddevice.modname                     "Moduļa nosaukums:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "Moduļa nosaukums">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "Jauns PKCS#11 modulis">
-<!ENTITY loaddevice.filename                    "Moduļa faila nosaukums:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "Moduļa faila nosaukums">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Pārlūkot...">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
