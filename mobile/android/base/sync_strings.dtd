@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Pradėti'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Naudojatės senesne „&syncBrand.shortName.label;“ laida?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Prisijungėte kaip'>
-<!ENTITY fxaccount_status_manage_account 'Tvarkyti paskyrą'>
 <!ENTITY fxaccount_status_auth_server 'Paskyros serveris'>
 <!ENTITY fxaccount_status_sync_now 'Sinchronizuoti dabar'>
 <!ENTITY fxaccount_status_syncing2 'Sinchronizuojama…'>
 <!ENTITY fxaccount_status_device_name 'Įrenginio vardas'>
 <!ENTITY fxaccount_status_sync_server '„Sync“ serveris'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '„&syncBrand.shortName.label;“: įgalinta'>
 <!ENTITY fxaccount_status_needs_verification2 'Jūsų paskyrą būtina patvirtinti. Bakstelėkite, kad būtų pakartotinai išsiųstas patvirtinimo laiškas.'>
 <!ENTITY fxaccount_status_needs_credentials 'Prisijungti nepavyko. Bakstelėkite pakartotiniam bandymui.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Jeigu norite prisijungti, turite atnaujinti „&brandShortName;“.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“ („Data Usage“).'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“ („Accounts“).'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.'>
+<!ENTITY fxaccount_status_choose_what 'Pasirinkite, ką sinchronizuosite'>
 <!ENTITY fxaccount_status_bookmarks 'Adresynas'>
 <!ENTITY fxaccount_status_history 'Žurnalas'>
 <!ENTITY fxaccount_status_passwords2 'Prisijungimai'>
 <!ENTITY fxaccount_status_tabs 'Atviros kortelės'>
+<!ENTITY fxaccount_status_additional_settings 'Papildomos nuostatos'>
 <!ENTITY fxaccount_status_legal 'Teisinė informacija' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Paslaugos teikimo nuostatai'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privatumo nuostatai'>
-<!ENTITY fxaccount_status_more 'Daugiau&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Atjungti…'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Atsijungti nuo „Sync“?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '„&syncBrand.shortName.label;“ nustatymai'>
 <!ENTITY fxaccount_options_configure_title 'Konfigūruoti „&syncBrand.shortName.label;“'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Būtina atnaujinti „Firefox“'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Paskyra jau egzistuoja. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neteisingas el. pašto adresas arba slaptažodis'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neteisingas el. pašto adresas arba slaptažodis'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Paskyra nepatvirtinta'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serveris užimtas, bandykite kreiptis vėliau'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveris užimtas, bandykite kreiptis vėliau'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Iškilo problema'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Paskyra užrakinta. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '„&syncBrand.shortName.label;“ nepavyko prisijungti'>
 <!-- Localization note: the format string below will be replaced
