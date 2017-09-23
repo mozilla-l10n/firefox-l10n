@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Гм… Отакої…">
-<!ENTITY restorepage.problemDesc    "&brandShortName; чомусь не може відновити ваші вікна та вкладки. Причиною зазвичай є нещодавно відкрита сторінка.">
-<!ENTITY restorepage.tryThis        "Ви можете спробувати:">
-<!ENTITY restorepage.restoreSome    "Вилучити одну чи кілька вкладок, які можуть, на вашу думку, спричиняти проблему">
-<!ENTITY restorepage.startNew       "Почати цілком новий сеанс перегляду">
+<!ENTITY restorepage.errorTitle2    "Вибачте. В нас не виходить відновити ваші сторінки.">
+<!ENTITY restorepage.problemDesc2   "Не вдається відновити ваш останній сеанс перегляду. Натисніть Відновити сеанс, щоб спробувати ще раз.">
+<!ENTITY restorepage.tryThis2       "Досі не вдалося відновити ваш сеанс? Інколи причиною є одна вкладка. Перегляньте попередні вкладки, приберіть позначки з тих, що вам не потрібні, і спробуйте відновити ще раз.">
 
-<!ENTITY restorepage.tryagainButton "Відновити">
-<!ENTITY restorepage.restore.access "В">
-<!ENTITY restorepage.closeButton    "Закрити">
-<!ENTITY restorepage.close.access   "З">
+<!ENTITY restorepage.tryagainButton2 "Відновити сеанс">
+<!ENTITY restorepage.restore.access2 "В">
+<!ENTITY restorepage.closeButton2    "Почати новий сеанс">
+<!ENTITY restorepage.close.access2   "н">
 
 <!ENTITY restorepage.restoreHeader  "Відновити">
 <!ENTITY restorepage.listHeader     "Вікна та вкладки">

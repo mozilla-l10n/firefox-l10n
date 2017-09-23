@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Додано">
 <!ENTITY col.lastmodified.label  "Остання зміна">
 
-<!ENTITY search.placeholder  "Пошук">
+<!ENTITY historySearch.placeholder  "Пошук історії">
+<!ENTITY bookmarksSearch.placeholder  "Пошук закладок">
 
 <!ENTITY cmd.find.key  "f">
 

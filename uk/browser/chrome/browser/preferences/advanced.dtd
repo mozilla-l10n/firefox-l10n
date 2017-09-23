@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Відправлення даних вимкнено для цієї конфігурації збірки">
 
-<!ENTITY enableHealthReport1.label       "Дозволити &brandShortName; автоматично надсилати технічні та користувацькі дані в Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "х">
+<!ENTITY enableHealthReport2.label       "Дозволити &brandShortName; надсилати технічні та користувацькі дані в Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "к">
 <!ENTITY healthReportLearnMore.label     "Докладніше">
 
 <!ENTITY dataCollection.label            "Збір та використання даних &brandShortName;">
