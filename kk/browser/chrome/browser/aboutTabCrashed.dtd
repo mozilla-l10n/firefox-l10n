@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Бет құлауын хабарлаушы">
 
 <!ENTITY tabCrashed.closeTab2  "Бетті жабу">
 <!ENTITY tabCrashed.restoreTab "Бұл бетті қалпына келтіру">
@@ -21,6 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "Ал сіз бізге көмектесесіз бе?">
 <!ENTITY tabCrashed.requestHelpMessage "Құлау жөніндегі хабарламалар бізге мәселелерді шешуге және &brandShortName; жақсартуға көмектеседі.">
 <!ENTITY tabCrashed.requestReport "Бұл бетті хабарлау">
+<!ENTITY tabCrashed.sendReport3 "Осындай тектес мәселелерді шеше алуымыз үшін автоматты түрде құлау хабарламасын жіберу.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Міндетті емес түсініктеме (түсініктеме әркімге көрінеді)">
 <!ENTITY tabCrashed.emailPlaceholder "Электрондық пошта адресін енгізіңіз">
 <!ENTITY tabCrashed.emailMe "Көбірек ақпарат бар болған кезде, маған хат жазыңыз">
