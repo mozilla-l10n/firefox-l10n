@@ -17,14 +17,14 @@
 <!ENTITY tableWidth.label                 "Largura:">
 <!ENTITY tableWidth.accessKey             "u">
 <!ENTITY tableBorderSpacing.label         "Bordas e espaçamento">
-<!ENTITY tableBorderWidth.label           "border =">
+<!ENTITY tableBorderWidth.label           "Borda:">
 <!ENTITY tableBorderWidth.accessKey       "b">
-<!ENTITY tableSpacing.label               "cellspacing =">
+<!ENTITY tableSpacing.label               "Espaçamento:">
 <!ENTITY tableSpacing.accessKey           "s">
-<!ENTITY tablePadding.label               "cellpadding =">
+<!ENTITY tablePadding.label               "Preenchimento:">
 <!ENTITY tablePadding.accessKey           "d">
-<!ENTITY tablePxBetwCells.label           "pixels (espaçamento entre células)">
-<!ENTITY tablePxBetwBrdrCellContent.label "pixels (espaçamento entre a borda da célula e o conteúdo)">
+<!ENTITY tablePxBetwCells.label           "pixels entre as células">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixels entre a borda da célula e o conteúdo">
 <!ENTITY tableAlignment.label             "Alinhamento da tabela:">
 <!ENTITY tableAlignment.accessKey         "h">
 <!ENTITY tableCaption.label               "Legenda:">
@@ -34,7 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "À esquerda da tabela">
 <!ENTITY tableCaptionRight.label          "À direita da tabela">
 <!ENTITY tableCaptionNone.label           "Nenhuma">
-<!ENTITY tableInheritColor.label           "(tabela transparente)">
+<!ENTITY tableInheritColor.label           "(Mostrar a cor da página)">
 
 <!ENTITY cellSelection.label              "Seleção">
 <!ENTITY cellSelectCell.label             "Célula">
@@ -54,22 +54,22 @@
 <!ENTITY cellStyle.accessKey              "c">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Cabeçalho">
-<!ENTITY cellTextWrap.label               "Quebra de texto:">
+<!ENTITY cellTextWrap.label               "Contornar texto:">
 <!ENTITY cellTextWrap.accessKey           "Q">
-<!ENTITY cellWrap.label                   "Quebrar">
-<!ENTITY cellNoWrap.label                 "Não quebrar">
-<!ENTITY cellAlignTop.label               "Superior">
-<!ENTITY cellAlignMiddle.label            "Centralizado">
-<!ENTITY cellAlignBottom.label            "Inferior">
+<!ENTITY cellWrap.label                   "Contornar">
+<!ENTITY cellNoWrap.label                 "Não contornar">
+<!ENTITY cellAlignTop.label               "Topo">
+<!ENTITY cellAlignMiddle.label            "Meio">
+<!ENTITY cellAlignBottom.label            "Rodapé">
 <!ENTITY cellAlignJustify.label           "Justificado">
-<!ENTITY cellInheritColor.label           "(célula transparente)">
-<!ENTITY cellUseCheckboxHelp.label        "Marque os campos cujas propriedades devem ser aplicadas nas células selecionadas.">
+<!ENTITY cellInheritColor.label           "(Mostrar a cor da tabela)">
+<!ENTITY cellUseCheckboxHelp.label        "Use as caixas de seleção para determinar quais propriedades são aplicadas a todas as células selecionadas">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Tamanho">
-<!ENTITY pixels.label                     "pixels (borda)">
+<!ENTITY pixels.label                     "pixels">
 <!ENTITY backgroundColor.label            "Cor do plano de fundo:">
 <!ENTITY backgroundColor.accessKey        "u">
-<!ENTITY AlignLeft.label                  "Esquerdo">
+<!ENTITY AlignLeft.label                  "Esquerda">
 <!ENTITY AlignCenter.label                "Centralizado">
-<!ENTITY AlignRight.label                 "Direito">
+<!ENTITY AlignRight.label                 "Direita">

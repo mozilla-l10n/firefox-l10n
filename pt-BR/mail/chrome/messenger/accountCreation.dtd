@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Configurar uma conta de e-mail existente">
 <!ENTITY name.label                      "Seu nome:">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Primeiro Último">
+<!ENTITY name.placeholder                "Prenome">
 <!ENTITY name.text                       "Seu nome, como mostrado aos outros">
 <!ENTITY email.label                     "Endereço de e-mail:">
 <!ENTITY email.accesskey                 "E">
@@ -16,11 +16,11 @@
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Senha">
 <!ENTITY password.text                   "Opcional, será usada somente para validar o nome de usuário">
-<!ENTITY rememberPassword.label          "Memorizar senha">
+<!ENTITY rememberPassword.label          "Memorizar a senha">
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY imapLong.label                  "IMAP (pastas remotas)">
-<!ENTITY pop3Long.label                  "POP3 (manter mensagens no computador)">
+<!ENTITY pop3Long.label                  "POP3 (mantém as mensagens no seu computador)">
 
 <!ENTITY incoming.label                  "Recebimento:">
 <!ENTITY outgoing.label                  "Envio:">
@@ -61,7 +61,7 @@
 
 <!ENTITY warning.label                   "Aviso!">
 <!ENTITY incomingSettings.label          "Configuração de recebimento:">
-<!ENTITY outgoingSettings.label          "Configuração de envio:">
+<!ENTITY outgoingSettings.label          "Configurações de envio:">
 <!ENTITY technicaldetails.label          "Detalhes técnicos">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
@@ -71,13 +71,13 @@
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY doneAccount.label               "Concluir">
+<!ENTITY doneAccount.label               "Concluído">
 <!ENTITY doneAccount.accesskey           "C">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Modificar configurações">
+<!ENTITY changeSettings.label            "Alterar as configurações">
 <!ENTITY changeSettings.accesskey        "M">
 
 <!ENTITY contactYourProvider.description "O &brandShortName; lhe permitirá obter o seu correio utilizando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de e-mail a respeito destas conexões impróprias Veja as FAQ do Thunderbird para mais informações.">

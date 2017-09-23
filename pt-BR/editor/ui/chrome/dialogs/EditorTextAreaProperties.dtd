@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propriedades da textarea">
+<!ENTITY windowTitle.label "Propriedades da área textual">
 
 <!ENTITY Settings.label "Configurações">
 
@@ -16,15 +16,15 @@
 <!ENTITY TextAreaReadOnly.accessKey "S">
 <!ENTITY TextAreaDisabled.label "Desativado">
 <!ENTITY TextAreaDisabled.accessKey "D">
-<!ENTITY TextAreaTabIndex.label "Posição para tab:">
+<!ENTITY TextAreaTabIndex.label "Índice da tabela:">
 <!ENTITY TextAreaTabIndex.accessKey "P">
 <!ENTITY TextAreaAccessKey.label "Tecla de acesso:">
 <!ENTITY TextAreaAccessKey.accessKey "T">
 <!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Quebra de texto:">
-<!ENTITY TextAreaWrap.accessKey "Q">
+<!ENTITY TextAreaWrap.label "Modo de contorno:">
+<!ENTITY TextAreaWrap.accessKey "M">
 <!ENTITY WrapDefault.value "Padrão">
 <!ENTITY WrapOff.value "Desativada">
 <!ENTITY WrapHard.value "Rígida">
