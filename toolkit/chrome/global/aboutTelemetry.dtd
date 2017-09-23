@@ -21,7 +21,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия мәліметтері">
 <!ENTITY aboutTelemetry.moreInformations "Көбірек ақпарат керек пе?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox деректер құжаттамасында</a> біздің деректер саймандарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox деректер құжаттамасында</a> біздің деректер құралдарымен қалай жұмыс жасау керектігі туралы нұсқаулықтар бар.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox телеметрия клиентінің құжаттамасында</a> концепттер үшін анықтамалар, API құжаттамасы және деректерге сілтемелер бар.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Телеметрия панелінде</a> Mozilla телеметрия арқылы алған деректерді графикалық түрде қарауға болады.">
 

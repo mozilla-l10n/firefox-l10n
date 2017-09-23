@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Браузердің саймандар панелін ашу сәтсіз аяқталды:">
+<!ENTITY browserToolboxErrorMessage          "Браузердің құралдар панелін ашу сәтсіз аяқталды:">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
@@ -73,8 +73,8 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу саймандар панельдерін іске қосу">
-<!ENTITY options.enableChrome.tooltip3  "Бұл баптауды іске қосу (Саймандар > Веб-әзірлеуші > Браузердің құралдар панелі) нәтижесінде сіз браузер контекстінде түрлі әзірлеуші құралдарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
+<!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу құралдар панельдерін іске қосу">
+<!ENTITY options.enableChrome.tooltip3  "Бұл баптауды іске қосу (Құралдар > Веб-әзірлеуші > Браузердің құралдар панелі) нәтижесінде сіз браузер контекстінде түрлі әзірлеуші құралдарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
@@ -86,19 +86,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript сөндіру *">
-<!ENTITY options.disableJavaScript.tooltip   "Бұл баптауды іске қосу нәтижесінде ағымдағы бетте JavaScript сөндіріледі. Егер бет немесе саймандар панелі жабылса, бұл баптау ұмытылады.">
+<!ENTITY options.disableJavaScript.tooltip   "Бұл баптауды іске қосу нәтижесінде ағымдағы бетте JavaScript сөндіріледі. Егер бет немесе құралдар панелі жабылса, бұл баптау ұмытылады.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-<!ENTITY options.disableHTTPCache.label     "HTTP кэшін сөндіру (саймандар панелі ашық кезде)">
-<!ENTITY options.disableHTTPCache.tooltip   "Бұл опцияны іске қосу HTTP кэшін барлық саймандар панелі ашық беттері үшін сөндіреді. Бұл опция Service Workers-ге әсер етпейді.">
+<!ENTITY options.disableHTTPCache.label     "HTTP кэшін сөндіру (құралдар панелі ашық кезде)">
+<!ENTITY options.disableHTTPCache.tooltip   "Бұл опцияны іске қосу HTTP кэшін барлық құралдар панелі ашық беттері үшін сөндіреді. Бұл опция Service Workers үшін іске аспайды.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP арқылы жасайтын қызметтік жұмыс үрдістерін іске қосу (саймандар панелі ашық болған кезде)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Бұл баптауды іске қосу нәтижесінде саймандар панелі ашық тұрған барлық беттер үшін кэш сөндіріледі.">
+<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP арқылы жасайтын қызметтік жұмыс үрдістерін іске қосу (құралдар панелі ашық болған кезде)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Бұл баптауды іске қосу нәтижесінде құралдар панелі ашық тұрған барлық беттер үшін HTTP service workers іске қосылады.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -114,12 +114,12 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
-<!ENTITY options.selectEnabledToolboxButtons.label     "Қолжетерлік саймандар панелі батырмалары">
+<!ENTITY options.selectEnabledToolboxButtons.label     "Қолжетерлік құралдар панелі батырмалары">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Ағымдағы саймандар панелінің мақсаты үшін қолдауы жоқ">
+<!ENTITY options.toolNotSupported.label  "* Ағымдағы құралдар панелінің мақсаты үшін қолдауы жоқ">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
