@@ -5,6 +5,7 @@
 <!ENTITY window.title                 "अपवाद">
 <!ENTITY window.width                 "45em">
 
+<!ENTITY treehead.sitename2.label     "वेबसाइट">
 <!ENTITY treehead.status.label        "स्थिति">
 <!ENTITY removepermission2.label      "वेबसाइट हटाएँ">
 <!ENTITY removepermission2.accesskey  "R">

@@ -23,10 +23,14 @@
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "और अधिक जानें">
+<!ENTITY  doNotTrack.default.label      "ट्रैकिंग का उपयोग करते समय ही">
 <!ENTITY  doNotTrack.always.label       "हमेशा">
 
 <!ENTITY  history.label                 "इतिहास">
+<!ENTITY  permissions.label             "अनुमतियां">
 
+<!ENTITY  addressBar.label              "पता पट्टी">
+<!ENTITY  addressBar.suggest.label      "पता बार का उपयोग करते समय, सुझाव दें">
 <!ENTITY  locbar.history2.label         "ब्राउज़िंग इतिहास">
 <!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "पुस्तचिह्न">
@@ -41,11 +45,13 @@
 <!ENTITY  acceptCookies2.label          "वेबसाइटों से कुकीज़ स्वीकार करें">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "तृतीय-पक्ष कुकी स्वीकार करें">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "हमेशा">
 <!ENTITY  acceptThirdParty.never.label    "कभी नहीं">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण किए हुए से">
 
+<!ENTITY  keepUntil2.label              "तब तक रखें जब तक">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "उनका समय समाप्त नहीं हो जाए">
@@ -104,5 +110,7 @@
 <!ENTITY  browserContainersSettings.label        "सेटिंग्स…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "एक्सेसरीबिलिटी सेवाओं को अपने ब्राउज़र तक पहुंचने से रोकें">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "और अधिक जानें">
+<!ENTITY enableSafeBrowsingLearnMore.label "अधिक जानें">

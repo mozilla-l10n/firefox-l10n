@@ -14,7 +14,9 @@
 <!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "इस संजाल के लिए प्रॉक्सी सेटिंग स्वतः जाँचें">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio2.label        "खुद से प्रॉक्सी कॉन्फ़िगर करें">
 <!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "स्वचालित प्रॉक्सी कॉन्फ़िगरेशन URL">
 <!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "फिर लोड करें">
 <!ENTITY  reload.accesskey              "e">
