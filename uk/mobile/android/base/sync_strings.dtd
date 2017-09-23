@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Почати'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Використовуєте стару версію Синхронізації?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Вхід виконано'>
-<!ENTITY fxaccount_status_manage_account 'Керування обліковим записом'>
 <!ENTITY fxaccount_status_auth_server 'Сервер облікового запису'>
 <!ENTITY fxaccount_status_sync_now 'Синхронізувати зараз'>
 <!ENTITY fxaccount_status_syncing2 'Синхронізація…'>
 <!ENTITY fxaccount_status_device_name 'Назва пристрою'>
 <!ENTITY fxaccount_status_sync_server 'Сервер синхронізації'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: увімкнено'>
 <!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Торкніться для відправлення листа підтверждення.'>
 <!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Торкніться, щоб увійти.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Для входу вам потрібно оновити &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Використання даних.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Оберіть що синхронізувати'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
 <!ENTITY fxaccount_status_passwords2 'Паролі'>
 <!ENTITY fxaccount_status_tabs 'Відкриті вкладки'>
+<!ENTITY fxaccount_status_additional_settings 'Додаткові параметри'>
 <!ENTITY fxaccount_status_legal 'Юридична інформація' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Умови надання послуги'>
 <!ENTITY fxaccount_status_linkprivacy2 'Повідомлення про приватність'>
-<!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Від’єднати&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Від\&apos;єднатись від синхронізації?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Налаштування Синхронізації'>
 <!ENTITY fxaccount_options_configure_title 'Налаштувати Синхронізацію'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Потрібно оновити Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Обліковий запис вже існує. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Недійсна ел.пошта або пароль'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Недійсна ел.пошта або пароль'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Обліковий запис не підтверджено'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер зайнятий, спробуйте знову пізніше'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер зайнятий, спробуйте знову пізніше'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Якась проблема'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Обліковий запис заблоковано. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не підключена'>
 <!-- Localization note: the format string below will be replaced
