@@ -19,8 +19,12 @@
 <!ENTITY feedFolder.accesskey        "d">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Yeni yazıları kontrol etme sıklığı: ">
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "dakika">
+<!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "gün">
+<!ENTITY biffDays.accesskey          "d">
 <!ENTITY recommendedUnits.label      "Yayıncının önerisi:">
 
 <!ENTITY quickMode.label             "Web sayfasını yüklemek yerine haber özetini göster">
