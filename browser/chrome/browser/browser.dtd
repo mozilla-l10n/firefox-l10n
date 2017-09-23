@@ -98,6 +98,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Tietoja sivusta">
 <!ENTITY pageInfoCmd.accesskey "T">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -376,6 +382,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hallitse laitteita…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synkronoitujen välilehtien sivupaneeli">
+
+<!ENTITY appMenuRecentHighlights.label "Viimeaikaiset nostot">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
@@ -864,6 +872,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "K">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Käytä kosketusoptimoitua tablettitilassa">
 
+
 <!ENTITY getUserMedia.selectCamera.label "Jaettava kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Jaettava mikrofoni:">
@@ -887,16 +896,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "i">
 <!ENTITY trackingProtection.block2.label "Ota suojaus käyttöön">
 <!ENTITY trackingProtection.block2.accesskey "O">
-
-<!ENTITY trackingContentBlocked.message "Seuranta">
-<!ENTITY trackingContentBlocked.moreinfo "Sivun sinua verkossa seuraavat osat estettiin.">
-<!ENTITY trackingContentBlocked.learnMore "Lue lisää">
-<!ENTITY trackingContentBlocked.options "Asetukset">
-<!ENTITY trackingContentBlocked.unblock2.label "Poista suojaus tältä sivustolta">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "P">
-<!ENTITY trackingContentBlocked.block.label "Ota suojaus käyttöön">
-<!ENTITY trackingContentBlocked.block.accesskey "O">
-<!ENTITY trackingContentBlocked.disabled.message "Seurannan suojaus on pois päältä">
 
 <!ENTITY pluginNotification.showAll.label "Näytä kaikki">
 <!ENTITY pluginNotification.showAll.accesskey "N">
@@ -976,3 +975,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
 
 <!ENTITY libraryButton.tooltip "Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
