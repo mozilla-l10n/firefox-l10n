@@ -1,0 +1,24 @@
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY            windowtitle.label      "&brandShortName; - Eliger un profilo de usator">
+
+<!ENTITY            profilename.label      "Nomine del profilo:">
+
+<!ENTITY            start.label            "Initiar &brandShortName;">
+<!ENTITY            exit.label             "Exir">
+
+<!ENTITY            availprofiles.label    "Profilos disponibile">
+
+<!ENTITY            newButton.label        "Crear un profilo…">
+<!ENTITY            renameButton.label     "Renominar le profilo…">
+<!ENTITY            deleteButton.label     "Deler le profilo…">
+
+<!-- manager entities -->
+
+
+<!ENTITY            useSelected.label       "Usar le profilo selectionate sin demandar a cata initiar">

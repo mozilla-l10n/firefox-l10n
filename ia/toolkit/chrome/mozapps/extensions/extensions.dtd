@@ -88,8 +88,14 @@
 
 
 <!-- list sorting -->
+<!ENTITY sort.name.label                      "Nomine">
+<!ENTITY sort.dateUpdated.label               "Ultime actualisation">
+<!ENTITY sort.relevance.label                 "Melior correspondentia">
+<!ENTITY sort.price.label                     "Precio">
 
+<!ENTITY search.filter2.label                 "Cercar:">
 
+<!ENTITY addon.details.label                  "Plus">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
@@ -100,9 +106,15 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.restartNow.label               "Reinitiar ora">
+<!ENTITY addon.install.label                  "Installar">
+<!ENTITY addon.updateNow.label                "Actualisar ora">
+<!ENTITY addon.includeUpdate.label            "Includer in le actualisation">
+<!ENTITY addon.updateAvailable.label          "Un actualisation es diponibile">
 <!ENTITY addon.releaseNotes.label             "Notas de revision:">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pardono, ma il habeva un error cargante le notas de revision">
 
+<!ENTITY addon.createdBy.label                "Per ">
 
 
 

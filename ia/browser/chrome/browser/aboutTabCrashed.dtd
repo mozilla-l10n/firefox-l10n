@@ -18,4 +18,6 @@
 <!ENTITY tabCrashed.header2 "Guai. Tu scheda ha justo collabite.">
 <!ENTITY tabCrashed.offerHelp2 "Nos pote adjutar!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Selige &tabCrashed.restoreTab; pro recargar le pagina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Selige &tabCrashed.restoreTab; o &tabCrashed.restoreAll; pro recargar le contento del pagina/paginas.">
+<!ENTITY tabCrashed.requestHelp "Tu nos adjurarea?">
 <!ENTITY tabCrashed.emailPlaceholder "Insere hic tu adresse email">
