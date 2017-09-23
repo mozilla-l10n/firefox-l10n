@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Закрити цю вкладку">
+<!ENTITY tabCrashed.title "Звіти про збої вкладок">
+
+<!ENTITY tabCrashed.closeTab2  "Закрити вкладку">
 <!ENTITY tabCrashed.restoreTab "Відновити цю вкладку">
 <!ENTITY tabCrashed.restoreAll "Відновити всі вкладки, які аварійно завершили роботу">
 
@@ -14,17 +16,17 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Отакої. Ваша вкладка не працює.">
-<!ENTITY tabCrashed.offerHelp "Ми можемо вам допомогти!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Оберіть &tabCrashed.restoreTab; для перезавантаження вмісту сторінки.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Оберіть &tabCrashed.restoreTab; або &tabCrashed.restoreAll; для перезавантаження вмісту сторінки.">
+<!ENTITY tabCrashed.offerHelp2 "Ми можемо допомогти!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab; щоб оновити сторінку.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab; чи &tabCrashed.restoreAll; щоб оновити сторінку/сторінки.">
 <!ENTITY tabCrashed.requestHelp "А ви нам допоможете?">
 <!ENTITY tabCrashed.requestHelpMessage "Звіти про збої допомагають нам виявляти проблеми і робити &brandShortName; кращим.">
 <!ENTITY tabCrashed.requestReport "Повідомте про збій вкладки">
-<!ENTITY tabCrashed.sendReport2 "Надіслати звіт про збій вкладки">
+<!ENTITY tabCrashed.sendReport3 "Надішліть автоматичний звіт про збої, щоб ми могли виправити подібні помилки.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Необов'язковий коментар (коментарі бачать всі)">
-<!ENTITY tabCrashed.includeURL2 "Додати адресу URL сторінки до цього звіту">
+<!ENTITY tabCrashed.includeURL3 "Вкажіть URL-адреси сайтів, на яких ви були, коли &brandShortName; впав.">
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
 <!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
 <!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Повідомляти про збої вкладок без моєї участі">
-<!ENTITY tabCrashed.autoSubmit2 "Оновити налаштування для автоматичного надсилання звітів про збої, разом зі звітами про збої фонових вкладок з цього та наступних сеансів">
+<!ENTITY tabCrashed.autoSubmit3 "Оновіть налаштування, аби автоматично надсилати звіти, коли &brandShortName; падає.">
