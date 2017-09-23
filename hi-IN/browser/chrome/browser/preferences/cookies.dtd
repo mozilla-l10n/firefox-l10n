@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "आपके कंप्यूटर पर निम्न कूकीज जमा है:">
+<!ENTITY     cookiesonsystem2.label         "आपके कंप्यूटर पर निम्न कूकीज संग्रहीत हैं">
 <!ENTITY     cookiename.label               "कूकीज नाम">
 <!ENTITY     cookiedomain.label             "साइट">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "कूकीज">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "खोजें">
 <!ENTITY     searchFilter.accesskey         "S">

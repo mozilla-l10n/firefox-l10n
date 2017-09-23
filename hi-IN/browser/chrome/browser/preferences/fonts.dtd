@@ -4,16 +4,21 @@
 
 <!ENTITY  fontsDialog.title                       "फ़ॉन्ट">
 
+<!ENTITY  fonts.label                             "फोंट के लिए">
 <!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "आकार">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
+<!ENTITY  proportional2.label                     "आनुपातिक">
 <!ENTITY  proportional2.accesskey                 "P">
 
+<!ENTITY  serif2.label                            "सेरिफ़">
 <!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "सान्स सेरिफ़">
 <!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "एकलस्पेस">
 <!ENTITY  monospace2.accesskey                    "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
@@ -48,6 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "सिंहाला">
 <!ENTITY  font.langGroup.tibetan                  "तिब्बती">
 <!-- Minimum font size -->
+<!ENTITY minSize2.label                           "न्यूनतम फ़ॉन्ट आकार">
 <!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "कोई नहीं">
 
@@ -58,6 +64,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन">
+<!ENTITY languages.customize.Fallback3.label      "फ़ॉलबैक पाठ एन्कोडिंग">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "यह पाठ कूटलेखन प्रयोग करते हैं पुरातन अंतर्वस्तु के लिए जो की अपने कूटलेख को घोषित करने में विफल रहते हैं.">
 

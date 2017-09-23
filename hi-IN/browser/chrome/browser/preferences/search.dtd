@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "खोज पट्टी">
+
+<!ENTITY searchBar.hidden.label                "खोज और परिवहन के लिए पता पट्टी की प्रयोग करें">
+<!ENTITY searchBar.shown.label                 "औज़ार पट्टी में खोज पट्टी जोड़े">
+
 <!ENTITY defaultSearchEngine.label             "तयशुदा खोज इंजिन">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   " पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.">
@@ -15,6 +20,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "एकल-क्लिक सर्च इंजन">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "खोजशब्द दर्ज करना प्रारंभ करते समय वैकल्पिक खोज इंजिन चुने जोकि पता पट्टी और खोज पट्टी के नीचे प्रकट होते हैं.">
 
 <!ENTITY engineNameColumn.label                "खोज इंजन">
 <!ENTITY engineKeywordColumn.label             "बीजशब्द">

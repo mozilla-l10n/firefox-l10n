@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "अनुमतियाँ">
 
 <!ENTITY  blockPopups.label           "पॉपअप विंडो को अवरोधित करें">
 <!ENTITY  blockPopups.accesskey       "B">
@@ -26,6 +27,7 @@
 <!ENTITY  cameraSettingsButton.label                            "सेटिंग…">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "माइक्रोफोन">
 <!ENTITY  microphoneSettingsButton.label                        "सेटिंग…">
 <!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
@@ -63,6 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री">
 
+<!ENTITY  playDRMContent2.label          "DRM-नियंत्रित सामग्री चलाएं">
 <!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "अधिक जानें">

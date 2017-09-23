@@ -28,11 +28,14 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "अधिक जानें">
 
+<!ENTITY dataCollection.label            "&brandShortName; डेटा संकलन और उपयोग">
+<!ENTITY dataCollectionDesc.label        "हम आपको हमेशा विकल्प देने का प्रयास करते हैं और केवल आवश्यक सूचनाएँ एकत्रित करते हैं ताकि &brandShortName; सबके लिए व बेहतर हो. हम व्यक्तिगत जानकारी लेने से पहले हमेशा अनुमति मांगते हैं.">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता सूचना">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "&brandShortName; को स्वतः क्रैश रिपोर्ट Mozilla को भेजने की अनुमति दें">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "अधिक जानें">
 
@@ -85,6 +88,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए &brandShortName; को नवीनतम रखें.">
 <!ENTITY updateApplication.version.pre   "संस्करण">
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "के लिए &brandShortName; को अनुमति दें">
@@ -109,6 +114,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "निम्नलिखित वेबसाइटों को ऑफ़लाइन उपयोग के लिए डेटा संग्रहीत करने की अनुमति है">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "हटाएँ…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -130,6 +136,8 @@ available. -->
 <!ENTITY performance.label               "प्रदर्शन">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "ये सेटिंग्स आपके कंप्यूटर के हार्डवेयर और ऑपरेटिंग सिस्टम के अनुरूप हैं.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
@@ -138,5 +146,7 @@ available. -->
 <!ENTITY limitContentProcessOption.description
                                          "एकाधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं में सुधार हो सक हैं, लेकिन इससे अधिक मेमोरी का उपयोग होगा.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस &brandShortName; के साथ बदली जा सकती है.">
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">
