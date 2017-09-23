@@ -1,0 +1,93 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY addressbookWindow.title                        "Kiwujil taq Ochochib'äl">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Yakb'äl">
+<!ENTITY fileMenu.accesskey                             "Y">
+<!ENTITY newMenu.label                                  "K'ak'a'">
+<!ENTITY newMenu.accesskey                              "K">
+<!ENTITY newAddressBookCmd.label                        "Kiwujil taq Ochochib'äl…">
+<!ENTITY newAddressBookCmd.accesskey                    "K">
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Cholb'äl…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
+<!ENTITY newMessageCmd.label                            "Rutzijol taqoj">
+<!ENTITY newMessageCmd.key                              "t">
+<!ENTITY newMessageCmd.accesskey                        "t">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY closeCmd.label                                 "Titz'apïx">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "t">
+<!ENTITY printSetupCmd.label                            "Tinuk'samajïx Ruxaq…">
+<!ENTITY printSetupCmd.accesskey                        "m">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Tinuk'">
+<!ENTITY editMenu.accesskey                             "n">
+<!ENTITY undoCmd.label                                  "Titzolïx">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "t">
+<!ENTITY redoCmd.label                                  "Tikamulüx">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "k">
+<!ENTITY cutCmd.label                                   "Tiqupïx">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "q">
+<!ENTITY copyCmd.label                                  "Tiwachib'ëx">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "w">
+<!ENTITY pasteCmd.label                                 "Titz'ajb'äx">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "z">
+<!ENTITY deleteCmd.label                                "Tiyuj">
+<!ENTITY deleteCmd.accesskey                            "y">
+<!ENTITY deleteAbCmd.label                              "Tiyuj Kiwujil Ochochib'äl">
+<!ENTITY deleteListCmd.label                            "Tiyuj Cholb'äl">
+<!ENTITY deleteListsCmd.label                           "Keyuj Cholb'äl">
+<!ENTITY deleteItemsCmd.label                           "Keyuj Ch'akulal">
+<!ENTITY selectAllCmd.label                             "Ticha' Ronojel">
+<!ENTITY selectAllCmd.key                               "R">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "R">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY hideSwapFnLnUI "qitzij">
+<!ENTITY propertiesMenu.label                           "Taq ichinil">
+<!ENTITY propertiesMenu.accesskey                       "i">
+<!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Kichinil Kiwujil taq Ochochib'äl">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Titz'et">
+<!ENTITY viewMenu.accesskey                             "t">
+<!ENTITY viewToolbarsMenu.label                         "Taq molsamajib'äl">
+<!ENTITY viewToolbarsMenu.accesskey                     "m">
+<!ENTITY menubarCmd.label                               "Rukajtz'ik Kutusamaj">
+<!ENTITY menubarCmd.accesskey                           "K">
+<!ENTITY showAbToolbarCmd.label                         "Rumolsamajib'al Kiwujil Ochochib'äl">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+
+<!-- Tools Menu -->
+
+<!-- Address Book Toolbar and Context Menus -->
+
+<!-- Address Book Toolbar Tooltips -->
+
+<!-- Dir Tree header -->
+
+<!-- Search Bar -->
+
+<!-- Results Pane -->
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!-- Special Box Headings, for mailing lists -->
+<!-- For Map It! -->
+
+<!-- Status Bar -->
+
+<!--  Mac OS X Window Menu -->
