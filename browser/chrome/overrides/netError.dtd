@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "यो ठेगाना प्रतिबन्धित छ">
 <!ENTITY deniedPortAccess.longDesc "‍">
 
-<!ENTITY dnsNotFound.title "सर्भर फेला परेन">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>टाइपिङ त्रुटिको निम्ति ठेगाना जाँच गर्नुहोस् जस्तै <strong>ww</strong>.example.com को साटोमा <strong>www</strong>.example.com</li> <li>यदि कुनै पनि पृष्ठ लोड गर्न तपाईँ असमर्थ हुनुहुन्छ भने, कृपया आफ्नो कम्प्युटरको नेटवर्क जडान जाँच गर्नुहोस्।</li> <li>यदि तपाईँको कम्प्युटर वा सञ्जाल अथवा नेटवर्क कुनै फायरवाल अथवा प्रोक्सीबाट सुरक्षित गरिएको छ भने, &brandShortName; लाई वेब पहुँचको अनुमति छ भन्ने निश्चित गर्नुहोस्।</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "सर्भर फेला परेन">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "उम्म । त्यो साइट फेला पार्न हामीलाई समस्या भइरहेको छ ।">
 
 <!ENTITY fileNotFound.title "फाइल फेला परेन">
 <!ENTITY fileNotFound.longDesc "<ul><li>अक्षर ठूलो पार्न वा अरु किसिमको टाइपिङ् त्रुटिको निम्ति फाइलको नाम परीक्षण गर्नुहोस्।</li> <li>फाइल सरिएको, नाम परिवर्तन गरिएको वा मेटिएको परीक्षणको निम्ति हेर्नुहोस्।</li> </ul>">
@@ -35,8 +36,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "नेटवर्क लगइन पृष्ठ खोल्नुहोस्">
 
-<!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
-<!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सामान्यतया यसरी लेखिन्छ <strong>http://www.example.com/</strong></li> <li>तपाईँले अगाडिको स्ल्यास (जस्तै <strong>/</strong>) प्रयोग गर्नु भएको छ भन्ने निश्चित गर्नुहोस्।</li> </ul>">
+<!ENTITY malformedURI.pageTitle "अवैध URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "उम्म । त्यो ठेगाना सही देखिँदैन ।">
 
 <!ENTITY netInterrupt.title "यो जडानमा अवरोध भएको छ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

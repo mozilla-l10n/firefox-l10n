@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "माफ गर्नुहोस् । तपाईँको पृष्ठहरू फिर्ता ल्याउन हामीलाई समस्या भइरहेको छ ।">
+<!ENTITY restorepage.problemDesc2   "तपाईँको अन्तिम ब्राउजिङ्ग सत्र पूर्वावस्थामा ल्याउन हामिलाई समस्या भइरहेको छ। पुनःप्रयास गर्नको लागि सत्रलाई पूर्वावस्थामा ल्याउनुहोस् चयन गर्नुहोस् ।">
+<!ENTITY restorepage.tryThis2       "के अझै पनि तपाईँको सत्र पूर्वावस्थामा ल्याउन सकिएन ? कहिलेकाहीँ ट्याबले समस्या उत्पन्न गरेको हुन्छ । अघिल्लो ट्याबहरू हेर्नुहोस्, ट्याबहरूबाट चयन गरिएको चिन्ह हटाउनुहोस् जुन तपाईँलाई पुनःप्राप्त गर्न आवश्यक छैन, र त्यसपछि पूर्वावस्थामा ल्याउनुहोस् ।">
 
 <!ENTITY restorepage.tryagainButton2 "सत्रलाई पूर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY restorepage.restore.access2 "R">
