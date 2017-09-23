@@ -10,3 +10,25 @@
 <!ENTITY PrimaryEmail.accesskey                "T">
 <!ENTITY Company.label                         "Moloj">
 <!ENTITY Company.accesskey                     "l">
+<!ENTITY _PhoneticName.label                   "Q'ajatz'ib' B'i'aj">
+<!ENTITY _PhoneticName.accesskey               "a">
+<!ENTITY NickName.label                        "Tz'ukun b'i'aj">
+<!ENTITY NickName.accesskey                    "u">
+<!ENTITY SecondEmail.label                     "Ruka'n Taqoya'l">
+<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY Department.label                      "Tinamital">
+<!ENTITY Department.accesskey                  "n">
+<!ENTITY JobTitle.label                        "B'i'aj">
+<!ENTITY JobTitle.accesskey                    "B">
+<!ENTITY CellularNumber.label                  "Oyonib'äl">
+<!ENTITY CellularNumber.accesskey              "O">
+<!ENTITY PagerNumber.label                     "Kanöy winäq">
+<!ENTITY PagerNumber.accesskey                 "K">
+<!ENTITY FaxNumber.label                       "Taqowuj">
+<!ENTITY FaxNumber.accesskey                   "T">
+<!ENTITY HomePhone.label                       "Royonib'al Jay">
+<!ENTITY HomePhone.accesskey                   "J">
+<!ENTITY WorkPhone.label                       "Royonib'al Samaj">
+<!ENTITY WorkPhone.accesskey                   "S">
+<!ENTITY ChatName.label                        "Chat B'i'aj">
+<!ENTITY ChatName.accesskey                    "C">
