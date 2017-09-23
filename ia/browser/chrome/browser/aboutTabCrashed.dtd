@@ -22,8 +22,10 @@
 <!ENTITY tabCrashed.requestHelp "Tu nos adjurarea?">
 <!ENTITY tabCrashed.requestHelpMessage "Le reportos de collapso pote nos adjutar a diagnosticar problemas e a meliorar &brandShortName; .">
 <!ENTITY tabCrashed.requestReport "Reportar iste scheda">
+<!ENTITY tabCrashed.sendReport3 "Invia un reporto automatic de collapso assi que on pote fixar problemas simile a isto.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Commentos optional (le commentos es publicamente visibile)">
-<!ENTITY tabCrashed.emailPlaceholder "Insere hic tu adresse email">
+<!ENTITY tabCrashed.includeURL3 "Include le URLs del sitos ubi tu era quando &brandShortName; collapsava.">
+<!ENTITY tabCrashed.emailPlaceholder "Insere hic tu adresse de e-posta">
 <!ENTITY tabCrashed.emailMe "Inviar me un email quando plus de informationes es disponibile">
 <!ENTITY tabCrashed.reportSent "Reporto de collapso ja submittite; gratias pro adjutar a meliorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar le schedas de secunde plano">
