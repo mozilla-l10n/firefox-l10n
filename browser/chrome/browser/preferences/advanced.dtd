@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Data-rapportering er deaktiveret for denne build-konfiguration">
 
-<!ENTITY enableHealthReport1.label       "Tillad at &brandShortName; automatisk indsender tekniske data og data om brug til Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "d">
+<!ENTITY enableHealthReport2.label       "Tillad at &brandShortName; automatisk indsender tekniske data og data om brug til Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "d">
 <!ENTITY healthReportLearnMore.label     "Læs mere">
 
 <!ENTITY dataCollection.label            "Indsamling og brug af data i &brandShortName;">

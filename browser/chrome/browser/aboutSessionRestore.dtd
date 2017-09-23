@@ -6,21 +6,20 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Se, det her er pinligt...">
-<!ENTITY restorepage.problemDesc    "&brandShortName; har problemer med at genskabe dine vinduer og faneblade. Dette skyldes typisk den senest åbnede side.">
-<!ENTITY restorepage.tryThis        "Du kan forsøge at:">
-<!ENTITY restorepage.restoreSome    "Fjerne et eller flere faneblade som du tror er skyld i problemet">
-<!ENTITY restorepage.startNew       "Starte en helt ny session">
+<!ENTITY restorepage.errorTitle2    "Se, det her er pinligt...">
+<!ENTITY restorepage.problemDesc2   "Vi har problemer med at gendanne dine vinduer og faneblade. Vælg Gendan session for at prøve igen.">
+<!ENTITY restorepage.tryThis2       "Kan du stadig ikke gendanne din session? Nogle gange er et faneblad skyld i problemet. Gennemgå listen med faneblade, fjern fluebenet fra de faneblade, du ikke har behov for at gendanne, og vælg så Gendan.">
 
-<!ENTITY restorepage.tryagainButton "Gendan">
-<!ENTITY restorepage.restore.access "G">
-<!ENTITY restorepage.closeButton    "Luk">
-<!ENTITY restorepage.close.access   "L">
+<!ENTITY restorepage.tryagainButton2 "Gendan session">
+<!ENTITY restorepage.restore.access2 "G">
+<!ENTITY restorepage.closeButton2    "Start en ny session">
+<!ENTITY restorepage.close.access2   "S">
 
 <!ENTITY restorepage.restoreHeader  "Gendan">
 <!ENTITY restorepage.listHeader     "Vinduer og faneblade">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Vindue &#37;S">
+
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
