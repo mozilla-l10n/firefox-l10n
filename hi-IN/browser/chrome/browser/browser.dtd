@@ -248,6 +248,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
 <!ENTITY hideBookmarksToolbar.label         "बुकमार्क टूलबार छिपाएं">
 <!ENTITY searchBookmarks.label              "पुस्तचिह्न खोजें">
+<!ENTITY bookmarkingTools.label             "बुकमार्क के उपकरण">
+<!ENTITY addBookmarksMenu.label             "टूलबार पर बुकमार्क मेनू डालें">
+<!ENTITY removeBookmarksMenu.label          "टूलबार से बुकमार्क मेनू हटायें">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -836,11 +839,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "अपने पसंदीदा चीज़ों को टूलबार या अतिप्रवाह मेनू में खींचें.">
 <!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारों add-ons में से चुनें">
 <!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
 <!ENTITY customizeMode.done "संपन्न">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
+<!ENTITY customizeMode.extraDragSpace "खींचने की जगह">
 <!ENTITY customizeMode.toolbars2 "औज़ारपट्टी">
 <!ENTITY customizeMode.lwthemes "प्रसंग">
 <!ENTITY customizeMode.lwthemes.myThemes "मेरा प्रसंग">
@@ -871,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "टेबलेट मोड के लिए स्पर्श करें">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "स्वत:-छुपाएँ">
 
 <!ENTITY getUserMedia.selectCamera.label " साझा करने के लिए कैमरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -959,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; की एक नई प्रति डाउनलोड करें">
 
+<!ENTITY updateRestart.message2 "शीघ्र पुनरारंभ करने के बाद &brandShorterName; आपके उन सभी खुले टैब और विंडो को पुनर्स्थापित करेगा जो निजी ब्राउज़िंग मोड में नहीं हैं.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; का अद्यतन करने के लिए पुन: प्रारंभ करें">
 <!ENTITY updateRestart.acceptButton.label "पुनरारंभ करें और पुनर्स्थिति में लाएँ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -970,5 +977,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "पतापट्टी में जोड़े">
 <!ENTITY pageAction.removeFromUrlbar.label "पतापट्टी से हटायें">
 
+<!ENTITY pageAction.sendTabToDevice.label "टैब को उपकरण में भेजें">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरण सिंक हो रहा है…">
 
+<!ENTITY libraryButton.tooltip "इतिहास, सहेजे गए बुकमार्क, और अधिक देखें">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
