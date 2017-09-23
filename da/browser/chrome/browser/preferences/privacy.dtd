@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Lad ikke tilgængeligheds-tjenester få adgang til din browser">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "t">
 <!ENTITY  a11yPrivacy.learnmore.label    "Læs mere">
+<!ENTITY enableSafeBrowsingLearnMore.label "Læs mere">

@@ -69,7 +69,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create2 "Har du ingen konto? Opret én her">
 <!ENTITY signedOut.accountBox.create2.accesskey  "O">
 <!ENTITY signedOut.accountBox.signin2 "Log ind…">
-<!ENTITY signedOut.accountBox.signin.accesskey2 "i">
+<!ENTITY signedOut.accountBox.signin2.accesskey "i">
 
 <!ENTITY signedIn.settings.label       "Indstillinger for synkronisering">
 <!ENTITY signedIn.settings.description "Vælg, hvad der skal synkroniseres på dine enheder med &brandShortName; installeret.">
