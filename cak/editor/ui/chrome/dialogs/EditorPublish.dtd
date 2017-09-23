@@ -10,6 +10,10 @@
 <!ENTITY publishButton.label          "Titalüx rutzijol">
 
 <!-- Publish Tab Panel -->
+<!ENTITY newSiteButton.label          "K'ak'a' Ruxaq">
+<!ENTITY newSiteButton.accesskey      "K">
+<!ENTITY sameLocationRadio.label      "Tokisäx ri k'ojlib'äl achi'el richin ri ruxaq">
+<!ENTITY sameLocationRadio.accesskey  "o">
 <!ENTITY pageTitle.label              "Rub'i' Ruxaq:">
 <!ENTITY pageTitle.accesskey          "b">
 <!ENTITY filename.label               "Rub'i' yakb'äl:">
@@ -20,6 +24,11 @@
 <!ENTITY removeButton.accesskey       "y">
 
 <!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Tajin Niya' Kitzijol ri taq Ruxaq">
+<!ENTITY serverInfo.label             "Retamab'al K'uxasamaj">
+<!ENTITY loginInfo.label              "Retamab'al Okem">
+<!ENTITY siteName.label               "Rub'i' Ruxaq:">
+<!ENTITY siteName.accesskey           "i">
 <!ENTITY username.label               "Rub'i' winäq:">
 <!ENTITY username.accesskey           "w">
 <!ENTITY password.label               "Ewan tzij:">
