@@ -13,5 +13,19 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.label                 "Titikïr chik el">
 <!ENTITY cmd.resume.accesskey             "t">
 <!ENTITY cmd.cancel.label                 "Tiq'at">
+<!ENTITY cmd.cancel.accesskey             "q">
+<!ENTITY cmd.undo.label                   "Titzolïx">
+<!ENTITY cmd.undo.accesskey               "x">
+<!ENTITY cmd.recover.label                "Tikol">
+<!ENTITY cmd.recover.accesskey            "k">
+<!ENTITY cmd.retry.label                  "Titojtob'ëx chik">
+<!ENTITY cmd.retry.accesskey              "b">
+<!ENTITY cmd.removeFromList.label         "Tiyuj el Pa Cholb'äl">
+<!ENTITY cmd.removeFromList.accesskey     "y">
 
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
+<!ENTITY cmd.clearList.label              "Tijosq'ïx Cholb'äl">
 
+<!ENTITY searchBox.label                  "Tikanöx…">
