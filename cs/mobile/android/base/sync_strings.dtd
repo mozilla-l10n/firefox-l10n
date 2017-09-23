@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Začít'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Používáte starou verzi &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
-<!ENTITY fxaccount_status_manage_account 'Správa účtu'>
 <!ENTITY fxaccount_status_auth_server 'Server s účtem'>
 <!ENTITY fxaccount_status_sync_now 'Synchronizovat'>
 <!ENTITY fxaccount_status_syncing2 'Probíhá synchronizace…'>
 <!ENTITY fxaccount_status_device_name 'Název zařízení'>
 <!ENTITY fxaccount_status_sync_server 'Synchronizační server'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolen'>
 <!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nepodařilo se připojit. Klepněte pro přihlášení.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Pro přihlášení potřebujete aktualizovat &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení ke svému novému účtu Firefoxu.'>
+<!ENTITY fxaccount_status_choose_what 'Zvolte, co chcete synchronizovat'>
 <!ENTITY fxaccount_status_bookmarks 'Záložky'>
 <!ENTITY fxaccount_status_history 'Historie'>
 <!ENTITY fxaccount_status_passwords2 'Přihlašovací údaje'>
 <!ENTITY fxaccount_status_tabs 'Otevřené panely'>
+<!ENTITY fxaccount_status_additional_settings 'Další nastavení'>
 <!ENTITY fxaccount_status_legal 'Právní informace' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Podmínky služby'>
 <!ENTITY fxaccount_status_linkprivacy2 'Ochrana soukromí'>
-<!ENTITY fxaccount_status_more 'Více&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odpojit&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Chcete se odpojit od služby Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Možnosti &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Nastavení &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Je potřeba aktualizovat Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Účet již existuje &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neplatný e-mail nebo heslo'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neplatný e-mail nebo heslo'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Účet není ověřen'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytl se problém'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je zablokován. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; není připojen'>
 <!-- Localization note: the format string below will be replaced
