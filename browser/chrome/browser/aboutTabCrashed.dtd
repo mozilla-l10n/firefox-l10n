@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Aba do relatório de travamentos">
 
 <!ENTITY tabCrashed.closeTab2  "Fechar aba">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta aba">
