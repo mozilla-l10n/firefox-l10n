@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Page Source">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Entrar no Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas na barra lateral">
+
+<!ENTITY appMenuRecentHighlights.label "Destaques recentes">
 
 <!ENTITY customizeMenu.addToToolbar.label "Adicionar à barra de ferramentas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "d">
@@ -796,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ligar a sincronização para ver uma lista de abas de outros dispositivos.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Pesquisar em abas sincronizadas">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -892,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Habilitar proteção">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
-<!ENTITY trackingContentBlocked.message "Rastreamento">
-<!ENTITY trackingContentBlocked.moreinfo "Partes desta página que rastreiam sua atividade online foram bloqueadas.">
-<!ENTITY trackingContentBlocked.learnMore "Saber mais">
-<!ENTITY trackingContentBlocked.options "Opções">
-<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Habilitar proteção">
-<!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "A proteção contra rastreamento está desativada">
-
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "x">
 
@@ -981,3 +981,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
 <!ENTITY libraryButton.tooltip "Ver histórico, favoritos salvos e muito mais">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Recursos de acessibilidade ativos">
