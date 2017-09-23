@@ -1,0 +1,123 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+
+<!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
+
+
+
+<!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
+<!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
+
+<!-- global warnings -->
+<!ENTITY warning.checkcompatibility.enable.label   "Activar">
+<!ENTITY warning.updatesecurity.enable.label       "Activar">
+
+<!-- categories / views -->
+<!ENTITY view.search.label                    "Cercar">
+<!ENTITY view.recentUpdates.label             "Actualisationes recente">
+<!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
+
+<!-- addon updates -->
+<!ENTITY updates.viewUpdates.label            "Vider le actualisationes recente">
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.restart.label                "Reinitiar pro completar le installation">
+<!ENTITY updates.noneFound.label              "Nulle actualisationes trovate">
+<!ENTITY updates.manualUpdatesFound.label     "Vider le actualisationes disponibile">
+<!ENTITY updates.updateSelected.label         "Installar le actualisationes">
+
+<!-- addon actions -->
+<!ENTITY cmd.showDetails.label                "Monstrar plus informationes">
+<!ENTITY cmd.findUpdates.label                "Cercar actualisationes">
+<!ENTITY cmd.preferencesWin.label             "Optiones">
+<!ENTITY cmd.preferencesUnix.label            "Preferentias">
+<!ENTITY cmd.about.label                      "Super">
+
+<!ENTITY cmd.enableAddon.label                "Activar">
+<!ENTITY cmd.disableAddon.label               "Inactivar">
+<!ENTITY cmd.enableTheme.label                "Applicar le thema">
+<!ENTITY cmd.askToActivate.label              "Demandar pro activar">
+<!ENTITY cmd.alwaysActivate.label             "Sempre activar">
+<!ENTITY cmd.installAddon.label               "Installar">
+<!ENTITY cmd.uninstallAddon.label             "Remover">
+<!ENTITY cmd.showPreferencesWin.label         "Optiones">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferentias">
+<!ENTITY cmd.contribute.label                 "Contribuer">
+
+<!ENTITY cmd.showReleaseNotes.label           "notas del revision">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Monstrar le notas de revision de iste actualisation">
+<!ENTITY cmd.hideReleaseNotes.label           "Celar le notas de revision">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Celar le notas de revision de iste actualisation">
+<!ENTITY cmd.findReplacement.label            "Trovar un reimplaciamento">
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+<!-- detail view -->
+<!ENTITY detail.version.label                 "Version">
+<!ENTITY detail.lastupdated.label             "Ultime actualisation">
+<!ENTITY detail.creator.label                 "Developpator">
+<!ENTITY detail.homepage.label                "Pagina initial">
+<!ENTITY detail.numberOfDownloads.label       "Discargas">
+
+
+<!ENTITY detail.updateDefault.label           "Predefinite">
+<!ENTITY detail.updateAutomatic.label         "Active">
+<!ENTITY detail.updateManual.label            "Inactive">
+
+<!ENTITY detail.showPreferencesWin.label      "Optiones">
+<!ENTITY detail.showPreferencesUnix.label     "Preferentias">
+
+
+<!-- ratings -->
+<!ENTITY rating2.label                        "Evalutation">
+
+<!-- download/install progress -->
+
+
+<!-- list sorting -->
+
+
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+<!ENTITY addon.releaseNotes.label             "Notas de revision:">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Pardono, ma il habeva un error cargante le notas de revision">
+
+
+
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
