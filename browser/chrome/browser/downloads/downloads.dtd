@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                " फाइंडर में दिखाएँ">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "डाउनलोड फ़ोल्डर दिखाएं">
 <!ENTITY cmd.retry.label                  "फिर कोशिश‌ करें">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनलोड पृष्ठ पर जाएँ‌">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
