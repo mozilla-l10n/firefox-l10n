@@ -567,6 +567,7 @@
 <!ENTITY syncedTabs.sidebar.notabs.label "No hay pestañas abiertas">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Active la sincronización de pestañas para ver una lista de las mismas de sus otros dispositivos.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder "Buscar en pestañas sincronizadas">
 <!ENTITY syncedTabs.context.open.label "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey "A">
 <!ENTITY syncedTabs.context.openInNewTab.label "Abrir en una pestaña nueva">
@@ -635,15 +636,6 @@
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar protección">
 <!ENTITY trackingProtection.block2.accesskey "A">
-<!ENTITY trackingContentBlocked.message "Rastreo">
-<!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
-<!ENTITY trackingContentBlocked.learnMore "Saber más">
-<!ENTITY trackingContentBlocked.options "Opciones">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactivar protección en este sitio">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Activar protección">
-<!ENTITY trackingContentBlocked.block.accesskey "A">
-<!ENTITY trackingContentBlocked.disabled.message "La protección contra rastreo está desactivada">
 <!ENTITY pluginNotification.showAll.label "Mostrar todo">
 <!ENTITY pluginNotification.showAll.accesskey "M">
 <!ENTITY pluginActivateNow.label "Permitir ahora">
@@ -696,3 +688,4 @@
 <!ENTITY pageAction.sendTabToDevice.label "Enviar pestaña al dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">
+<!ENTITY accessibilityIndicator.tooltip "Características de accesibilidad activadas">
