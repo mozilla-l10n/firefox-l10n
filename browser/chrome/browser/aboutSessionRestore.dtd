@@ -6,6 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Кешіріңіз. Беттерді қалпына келтіру кезінде мәселелер орын алды.">
 
 <!ENTITY restorepage.tryagainButton2 "Сессияны қалпына келтіру">
 <!ENTITY restorepage.restore.access2 "п">
