@@ -2,22 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Jaunie logi">
+<!ENTITY  permissions.label           "Atļaujas">
 
 <!ENTITY  blockPopups.label           "Bloķēt jaunos logus">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Paziņojumi">
-<!ENTITY  notificationsPolicyLearnMore.label   "Uzzināt vairāk">
-<!ENTITY  notificationsPolicyDesc3.label       "Izvēlieties, kurām lapām ir atļaut rādīt paziņojumus">
-<!ENTITY  notificationsPolicyButton.accesskey  "v">
-<!ENTITY  notificationsPolicyButton.label      "Izvēlēties...">
 <!ENTITY  notificationsDoNotDisturb.label      "Netraucēt">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Paziņojumi netiks rādīti līdz brīdim, kad pārstartēsiet &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Izņēmumi...">
-<!ENTITY  popupExceptions.accesskey   "I">
+<!ENTITY  popupExceptions.label                                 "Izņēmumi...">
+<!ENTITY  popupExceptions.accesskey                             "I">
+
+<!ENTITY  notificationPermissions.label                         "Paziņojumi">
+<!ENTITY  notificationSettingsButton.label                      "Iestatījumi…">
+<!ENTITY  notificationSettingsButton.accesskey                  "z">
+<!ENTITY  notificationPermissionsLearnMore.label                "Uzzināt vairāk">
+
+<!ENTITY  locationPermissions.label                             "Atrašanās vieta">
+<!ENTITY  locationSettingsButton.label                          "Iestatījumi…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Iestatījumi…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofons">
+<!ENTITY  microphoneSettingsButton.label                        "Iestatījumi…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Fonti un krāsas">
 
@@ -33,7 +45,7 @@
 <!ENTITY  colors.accesskey            "K">
 
 
-<!ENTITY languages.label              "Valodas">
+<!ENTITY language2.label              "Valoda">
 <!ENTITY chooseLanguage.label         "Izvēlieties vēlamo valodu, kādā attēlot lapas">
 <!ENTITY chooseButton.label           "Izvēlēties...">
 <!ENTITY chooseButton.accesskey       "v">
@@ -53,8 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tulkojumi no">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM saturs">
+<!ENTITY  drmContent2.label              "Digitālā satura tiesību pārvaldības (DRM) saturs">
 
-<!ENTITY  playDRMContent.label         "Atskaņot DRM saturu">
-<!ENTITY  playDRMContent.accesskey     "A">
+<!ENTITY  playDRMContent2.label          "Atskaņot DRM kontrolētu saturu">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Uzzināt vairāk">

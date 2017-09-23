@@ -5,14 +5,14 @@
 <!ENTITY window.title                 "Izņēmumi">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Vietne">
+<!ENTITY treehead.sitename2.label     "Mājas lapa">
 <!ENTITY treehead.status.label        "Statuss">
-<!ENTITY removepermission.label       "Aizvākt vietni">
-<!ENTITY removepermission.accesskey   "A">
-<!ENTITY removeallpermissions.label   "Aizvākt visas vietnes">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Tīmekļa vietnes adrese:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY removepermission2.label      "Aizvākt lapu">
+<!ENTITY removepermission2.accesskey  "Z">
+<!ENTITY removeallpermissions2.label  "Aizvākt visas lapas">
+<!ENTITY removeallpermissions2.accesskey "k">
+<!ENTITY address2.label               "Mājas lapas adrese">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Bloķēt">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Atļaut tikai šīs sesijas laikā">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Saglabāt izmaiņas">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "Meklēt lapas">

@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Atjaunot uz noklusēto">
 <!ENTITY restoreDefault.accesskey  "A">
 
+<!ENTITY disableExtension.label    "Deaktivēt paplašinājumu">
+
 <!ENTITY downloads.label     "Lejupielādes">
 
 <!ENTITY saveTo.label "Vieta, kur saglabāt failus:">
@@ -33,8 +35,8 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Vienmēr pārbaudīt vai &brandShortName; ir noklusētais pārlūks">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
-<!ENTITY setAsMyDefaultBrowser2.label     "Padarīt par noklusēto">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser3.label     "Padarīt par noklusēto…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; šobrīd ir jūsu noklusētais pārlūks">
 <!ENTITY isNotDefault.label               "&brandShortName; šobrīd nav jūsu noklusētais pārlūks">
 

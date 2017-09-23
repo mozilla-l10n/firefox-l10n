@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Pārrakstīt lapas noteiktās krāsas ar manām izvēlētajām:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "Pārrakstīt lapas noteiktās krāsas ar manām izvēlētajām">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Vienmēr">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Tikai ar augsta kontrasta tēmām">
 <!ENTITY  overrideDefaultPageColors.never.label  "Nekad">
 
 <!ENTITY  color                           "Teksts un fons">
-<!ENTITY  textColor.label                 "Teksts:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fons:">
-<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  textColor2.label                "Teksts">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fons">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Lietot sistēmas krāsas">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Pasvītrot saites">
 <!ENTITY  underlineLinks.accesskey        "r">
 <!ENTITY  links                           "Saišu krāsas">
-<!ENTITY  linkColor.label                 "Neapmeklētās saites:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Apmeklētās saites:">
-<!ENTITY  visitedLinkColor.accesskey      "m">
+<!ENTITY  linkColor2.label                "Neapmeklētās saites">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Apmeklētās saites">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
