@@ -82,12 +82,6 @@
 <!ENTITY options.enableRemote.label3    "Aktivēt attālināto atkļūdošanu">
 <!ENTITY options.enableRemote.tooltip2  "Ieslēdzot šo iespēju, jūs varēsiet izmantot izstrādātāju rīkus attālinātai Firefox instancei, piemēram Firefox OS">
 
-<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
-  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
-  -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableWorkers.label    "Aktivēt darbinieku atkļūdošanu (atkļūdoitājā)">
-<!ENTITY options.enableWorkers.tooltip  "Šīs iespējas aktivēšana ļaus izstrādātāju rīkiem atkļūdot darbiniekus">
-
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -151,19 +145,14 @@
 <!ENTITY options.debugger.label            "Atkļūdotājs">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Aktivizēt koda kartes">
-<!ENTITY options.sourceMaps.tooltip    "Ja aktivēsiet šo iespēju kodi tika kartēti atkļūdotājā un konsolē.">
+<!ENTITY options.sourceMaps.tooltip1   "Ja aktivēsiet šo iespēju kodi tika kartēti rīkos.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stila redaktors">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Rādīt sākotnējo kodu">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Rādīt sākotnējo kodu (e.g. piem Sass failus) Stila redaktorā un Inspektorā">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -184,18 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Atskaņot fotografēšanas skaņu">
 <!ENTITY options.screenshot.audio.tooltip    "Ļauj kamerai atskaņot skaņu uzņemot ekrānattēlu">
-
-<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Kopīgie iestatījumi">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Aktivēt pastāvīgos paziņojumus">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ja aktivēsiet šo iestatījumu Tīmekļa konsole neiztīrīs savu saturu katru reizi atverot jaunu lapu">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
