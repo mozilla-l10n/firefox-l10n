@@ -18,18 +18,15 @@
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Servidor no encontrado">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Estamos teniendo problemas encontrando ese sitio.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Si esa dirección es correcta, aquí hay otras tres cosas que puede probar:</strong>
 <ul>
-  <li>Verifique si la dirección no tiene errores de tipeo como
-    <strong>ww</strong>.ejemplo.com en lugar de
-    <strong>www</strong>.ejemplo.com</li>
-  <li>Si no puede cargar ninguna página, verifique la conexión a la red de su
-    computadora.</li>
-  <li>Si su computadora o red está protegida por un firewall o proxy, asegúrese
-    que &brandShortName; tenga permiso de acceder a la web.</li>
-</ul>
-">
+ <li>Pruebe más tarde.</li>
+ <li>Verifique su conexión a Internet.</li>
+ <li>Si está conectado a través de un firewall, verifique que &brandShortName; tiene permisos para acceder a la Web.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "
@@ -58,15 +55,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Abrir página de ingreso a la red">
 
-<!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Las direcciones web usualmente son escritas como 
-    <strong>http://www.ejemplo.com/</strong></li>
-  <li>Asegúrese de estar usando las barras correctas (ej.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "URL inválida">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm, esa dirección no parece estar bien.">
 
 <!ENTITY netInterrupt.title "La conexión fue interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
