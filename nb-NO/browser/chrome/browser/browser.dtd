@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Slå på beskyttelse">
 <!ENTITY trackingProtection.block2.accesskey "å">
 
-<!ENTITY trackingContentBlocked.message "Sporing">
-<!ENTITY trackingContentBlocked.moreinfo "Deler av siden som sporer aktiviteten din på nettet er blokkert.">
-<!ENTITY trackingContentBlocked.learnMore "Les mer">
-<!ENTITY trackingContentBlocked.options "Innstillinger">
-<!ENTITY trackingContentBlocked.unblock2.label "Slå av beskyttelse for dette nettstedet">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "S">
-<!ENTITY trackingContentBlocked.block.label "Slå på beskyttelse">
-<!ENTITY trackingContentBlocked.block.accesskey "l">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsbeskyttelse er avslått">
-
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
 
 <!ENTITY libraryButton.tooltip "Se historikk, lagrede bokmerker og mer">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Tilgjengelighetsfunksjoner aktivert">
