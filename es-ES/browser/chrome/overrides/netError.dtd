@@ -12,17 +12,14 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Esta dirección está restringida">
 <!ENTITY deniedPortAccess.longDesc "">
-<!ENTITY dnsNotFound.title "Servidor no encontrado">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Servidor no encontrado">
+<!ENTITY dnsNotFound.title1 "Uf. Tenemos problemas para encontrar ese sitio.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si esa dirección es correcta, aquí hay otras tres cosas que puede probar:</strong>
 <ul>
-  <li>Compruebe que la dirección no tiene errores de escritura
-    del tipo <strong>ww</strong>.example.com en lugar de
-    <strong>www</strong>.example.com</li>
-  <li>Si no puede cargar ninguna página, compruebe la conexión
-    de red de su equipo.</li>
-  <li>Si su equipo o red están protegidos por un cortafuegos
-    o proxy, asegúrese de que &brandShortName; tiene permiso
-    para acceder a la web.</li>
+  <li>Vuelva a intentarlo más tarde.</li>
+  <li>Compruebe su conexión de red.</li>
+  <li>Si está conectado a través de un cortafuego, compruebe que &brandShortName; tiene permiso para acceder a la web.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
@@ -49,15 +46,8 @@
 <p>Debe iniciar sesión en esta red antes de que pueda acceder a Internet.</p>
 ">
 <!ENTITY openPortalLoginPage.label2 "Abrir página de inicio de sesión en la red">
-<!ENTITY malformedURI.title "La dirección no es válida">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Las direcciones web se escriben normalmente como
-    <strong>http://www.example.com/</strong></li>
-  <li>Asegúrese de que está usando barras inclinadas hacia
-    delante (p.e. <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "URL no válida">
+<!ENTITY malformedURI.title1 "Uf. Esa dirección no parece correcta.">
 <!ENTITY netInterrupt.title "La conexión ha sido interrumpida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 <!ENTITY notCached.title "Documento expirado">

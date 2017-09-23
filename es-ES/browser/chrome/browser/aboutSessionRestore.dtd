@@ -3,15 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY restorepage.tabtitle "Restaurar sesión">
-<!ENTITY restorepage.errorTitle "Bueno, esto es embarazoso.">
-<!ENTITY restorepage.problemDesc "&brandShortName; ha tenido un problema al recuperar las ventanas y las pestañas. Puede estar causado por una página web abierta recientemente.">
-<!ENTITY restorepage.tryThis "Puede intentar:">
-<!ENTITY restorepage.restoreSome "Eliminar una o más pestañas que crea que puedan estar causando el problema">
-<!ENTITY restorepage.startNew "Comenzar una nueva sesión de navegación">
-<!ENTITY restorepage.tryagainButton "Restaurar">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton "Cerrar">
-<!ENTITY restorepage.close.access "C">
+<!ENTITY restorepage.errorTitle2 "Lo sentimos. Tenemos problema para recuperar sus páginas.">
+<!ENTITY restorepage.problemDesc2 "Tenemos problemas para restaurar su última sesión de navegación. Seleccione Restaurar sesión para volver a intentarlo.">
+<!ENTITY restorepage.tryThis2 "¿Todavía no puede restaurar su sesión? A veces una pestaña causa el problema. Vea las pestañas anteriores, elimine la marca de las pestañas que no necesita recuperar, y luego restaure.">
+<!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2 "Iniciar sesión nueva">
+<!ENTITY restorepage.close.access2 "N">
 <!ENTITY restorepage.restoreHeader "Restaurar">
 <!ENTITY restorepage.listHeader "Ventanas y pestañas">
 <!ENTITY restorepage.windowLabel "Ventana &#037;S">
