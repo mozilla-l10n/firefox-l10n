@@ -385,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Құрылғыларды басқару…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Синхрондалған беттер бүйір панелін қарау">
 
+<!ENTITY appMenuRecentHighlights.label "Соңғы Таңдамалылар">
 
 <!ENTITY customizeMenu.addToToolbar.label "Құралдар панеліне қосу">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
@@ -844,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
 <!ENTITY customizeMode.done "Дайын">
 <!ENTITY customizeMode.titlebar "Атау жолағы">
+<!ENTITY customizeMode.extraDragSpace "Тартып апару орны">
 <!ENTITY customizeMode.toolbars2 "Құралдар панельдері">
 <!ENTITY customizeMode.lwthemes "Темалар">
 <!ENTITY customizeMode.lwthemes.myThemes "Менің темаларым">
@@ -984,3 +986,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Қолжетерлілік мүмкіндіктері іске қосылған">
