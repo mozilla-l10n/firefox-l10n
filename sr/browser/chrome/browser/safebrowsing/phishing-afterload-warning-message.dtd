@@ -60,3 +60,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> је <a id='error_desc_link'>пријављен да садржи штетне апликације</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Сазнајте више о &brandShortName;-овој заштити од “пецања” и злонамерног софтвера на <a id='firefox_support'>support.mozilla.org</a>.">
