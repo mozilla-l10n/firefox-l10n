@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.header2 "Oh Dieu! Tes tab è gist collabà.">
 <!ENTITY tabCrashed.offerHelp2 "Nus pudain gidar!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Tscherna «&tabCrashed.restoreTab;» per rechargiar la pagina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Tscherna «&tabCrashed.restoreTab;» u «&tabCrashed.restoreAll;» per rechargiar la pagina/las paginas.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Tscherna «&tabCrashed.restoreTab;» u «&tabCrashed.restoreAll;» per rechargiar la pagina (u las paginas).">
 <!ENTITY tabCrashed.requestHelp "Ans gidas?">
 <!ENTITY tabCrashed.requestHelpMessage "Annunzias da collaps ans gidan da chattar problems e da meglierar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Rapportar quest tab">
