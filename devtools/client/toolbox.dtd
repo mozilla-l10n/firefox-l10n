@@ -74,13 +74,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу саймандар панельдерін іске қосу">
-<!ENTITY options.enableChrome.tooltip3  "Бұл баптауды іске қосу (Саймандар > Веб өндіруші > Браузердің саймандар панелі) нәтижесінде сіз браузер контекстінде түрлі өндіруші саймандарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
+<!ENTITY options.enableChrome.tooltip3  "Бұл баптауды іске қосу (Саймандар > Веб-әзірлеуші > Браузердің құралдар панелі) нәтижесінде сіз браузер контекстінде түрлі әзірлеуші құралдарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Қашықтан жөндеуді іске қосу">
-<!ENTITY options.enableRemote.tooltip2  "Бұл баптауды іске қосу нәтижесінде өндіруші саймандарына Firefox OS сияқты қашықтағы нұсқаларын жөндеу рұқсат етіледі">
+<!ENTITY options.enableRemote.tooltip2  "Бұл баптауды іске қосу нәтижесінде әзірлеуші құралдарына Firefox OS сияқты қашықтағы нұсқаларын жөндеу рұқсат етіледі">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -103,13 +103,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Үнсіз келісім бойынша өндіруші саймандары">
+<!ENTITY options.selectDefaultTools.label2    "Үнсіз келісім бойынша әзірлеуші құралдары">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Қосымшалармен орнатылған өндіруші саймандары">
+<!ENTITY options.selectAdditionalTools.label  "Қосымшалармен орнатылған әзірлеуші құралдары">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -128,8 +128,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Өндіруші нұсқасының темасын қолдану">
-<!ENTITY options.usedeveditiontheme.tooltip "Өндіруші нұсқасының темасын қолдануды іске қосады не сөндіреді.">
+<!ENTITY options.usedeveditiontheme.label   "Developer Edition браузер темасын қолдану">
+<!ENTITY options.usedeveditiontheme.tooltip "Developer Edition браузер темасын қолдануды іске қосады немесе сөндіреді.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -145,19 +145,13 @@
 <!ENTITY options.debugger.label            "Жөндеуші">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Бастапқы код карталарын іске қосу">
-<!ENTITY options.sourceMaps.tooltip    "Егер сіз бұл опцияны іске қоссаңыз, бастапқы код карталары жөндеушіде және консольде көрсетіледі.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Стильдер түзеткіші">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Бастапқы кодтарды көрсету">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Стильдер түзеткіште және бақылаушыда бастапқы кодтарды көрсету (мысалы: Sass файлдары)">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +172,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Камера түсіргішінің дыбысын ойнату">
 <!ENTITY options.screenshot.audio.tooltip    "Скриншотты түсіру кезінде камера түсіру дыбысын іске қосады">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Желі">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Тұрақты журналдауды іске қосу">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Егер сіз бұл баптауды іске қоссаңыз, Желі бақылаушысы сіз әр рет жаңа бетке өткен кезде шығыс нәтижелерін тазартпайтын болады">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
