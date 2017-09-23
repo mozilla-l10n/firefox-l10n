@@ -55,7 +55,13 @@
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Šajā lapā var būt kaitnieciskas programmas">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; bloķēja šo lapu, jo tā var mēģināt instalēt bīstamu programmatūru, kas zog jūsu privātos datus (piemēram foto, paroles vai kredītkaršu informāciju).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Par lapu <span id='harmful_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>. Jūs varat <a id='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Par lapu <span id='harmful_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Uzziniet vairāk par &brandShortName; bīstamās programmatūras aizsardzību <a id='firefox_support'>support.mozilla.org</a>.
+
+">
