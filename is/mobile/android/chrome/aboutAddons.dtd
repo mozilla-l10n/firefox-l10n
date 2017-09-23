@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "Óvirkja">
 <!ENTITY addonAction.uninstall                  "Taka út">
 <!ENTITY addonAction.undo                       "Hætta við">
+<!ENTITY addonAction.update                     "Uppfæra">
 
 <!ENTITY addonUnsigned.message                  "Ekki var hægt að sannreyna þessa viðbót af &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Fræðast meira">
