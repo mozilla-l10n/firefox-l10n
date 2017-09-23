@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Hesaplar">
 <!ENTITY subscribeImapFolders.label   "Dizin aboneliklerini yönet">
 <!ENTITY settingsLink.label           "Bu hesabın ayarlarını görüntüle">
-<!ENTITY newAcctLink.label            "Yeni hesap aç">
-<!ENTITY newAcct.label                "Yeni hesap aç:">
+<!ENTITY setupNewAcct.label           "Hesap ekle:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Gelişmiş özellikler">
 <!ENTITY searchMsgsLink.label         "İletilerde ara">

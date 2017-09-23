@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Bağlantı Ayarları">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "İnternete Erişmek İçin Vekil Sunucuları Yapılandırın">
 <!ENTITY  noProxyTypeRadio.label        "Vekil sunucu kullanma">
