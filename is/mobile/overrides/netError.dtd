@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Vandamál við að hlaða inn síðu">
 <!ENTITY retry.label "Reyndu aftur">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Gat ekki tengst">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -50,7 +50,7 @@
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Óörugg skráartegund">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Vinsamlega hafið samband við eigandur þessa svæðis til að upplýsa þá um þetta vandamál.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Hafðu samband við vefstjóra vefsvæðisins og láttu hann vita af þessu vandamáli.</li> </ul>">
 
 <!ENTITY netReset.title "Tengingin var endursett">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Örugg tenging mistókst">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Það gæti verið vandamál með uppsetningu netþjónsins eða það gæti verið einhver að reyna að þykjast vera þessi netþjónn.</li> <li>Ef þú hefur náð að tengjast þessum netþjón áður þá gæti villan verið tímabundin og þú getur reynt aftur síðar.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Svæðið gæti verið ótiltækt tímabundið eða of upptekið til að svara. Reyndu aftur eftir smá tíma.</li> <li>Skoðaðu gagna- eða WiFi tenginguna á tækinu þínu ef þú nærð ekki að hlaða inn neinum síðum.  <button id='wifi'>Virkja Wi-Fi</button>  </li> </ul>">
 
 <!ENTITY cspBlocked.title "Innihalds öryggisregla hefur lokað á þetta">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Eða þú getur bætt við fráviki...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hjálpaðu mér út héðan!">
 <!ENTITY securityOverride.exceptionButtonLabel "Bæta við fráviki...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Þú ættir ekki að bæta við fráviki ef þú ert að nota internets tengingu sem þú treystir ekki fullkomlega eða ef þú sérð vanalega ekki aðvörun fyrir þennan netþjón.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
