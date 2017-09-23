@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "з">
 
-<!ENTITY noTranslationForLanguages.label  "Аударма келесі тілдер үшін ұсынылмайды:">
+<!ENTITY noTranslationForLanguages2.label "Келесі тілдер үшін аударма ұсынылмайтын болады">
 <!ENTITY treehead.languageName.label      "Тілдер">
 <!ENTITY removeLanguage.label             "Тілді өшіру">
 <!ENTITY removeLanguage.accesskey         "ш">
 <!ENTITY removeAllLanguages.label         "Барлық тілдерді өшіру">
 <!ENTITY removeAllLanguages.accesskey     "р">
 
-<!ENTITY noTranslationForSites.label      "Аударма келесі сайттар үшін ұсынылмайды:">
+<!ENTITY noTranslationForSites2.label     "Келесі сайттар үшін аударма ұсынылмайтын болады">
 <!ENTITY treehead.siteName2.label         "Вебсайттар">
 <!ENTITY removeSite.label                 "Сайтты өшіру">
 <!ENTITY removeSite.accesskey             "С">

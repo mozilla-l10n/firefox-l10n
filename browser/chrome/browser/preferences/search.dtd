@@ -5,6 +5,7 @@
 <!ENTITY searchBar.label                       "Іздеу жолағы">
 
 <!ENTITY searchBar.hidden.label                "Іздеу және навигация үшін адрестік жолақты қолдану">
+<!ENTITY searchBar.shown.label                 "Құралдар панеліне іздеу панелін қосу">
 
 <!ENTITY defaultSearchEngine.label             "Негізгі іздеу жүйесі">
 

@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Қауіпсіздік">
-<!ENTITY  phishingProtection.label       "Фишингтан қорғаныс">
 
 <!ENTITY  warnOnAddonInstall2.label       "Вебсайттар кеңейтулерді орнатқысы келсе, ескерту">
 <!ENTITY  warnOnAddonInstall2.accesskey   "В">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Жалған істелген мазмұн және қауіпті бағдарламалық қамтамадан қорғаныс">
 <!ENTITY  enableSafeBrowsing.label        "Қауіпті және алдамшы құраманы блоктау">
 <!ENTITY  enableSafeBrowsing.accesskey    "б">
 
