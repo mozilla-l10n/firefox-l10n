@@ -831,7 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "התחברות אל &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "ה">
-<!ENTITY syncSyncNowItem.label        "סנכרן כעת">
+<!ENTITY syncSyncNowItem.label        "סנכרון כעת">
 <!ENTITY syncSyncNowItem.accesskey    "ס">
 <!ENTITY syncReAuthItem.label         "התחברות מחדש אל &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "מ">

@@ -11,7 +11,7 @@
 <!ENTITY  notificationsDoNotDisturb.accesskey  "נ">
 <!ENTITY  notificationsDoNotDisturbDetails.value "לא יוצגו התרעות עד אשר &brandShortName; יופעל מחדש">
 
-<!ENTITY  popupExceptions.label                                 "חריגות...">
+<!ENTITY  popupExceptions.label                                 "חריגות…">
 <!ENTITY  popupExceptions.accesskey                             "ר">
 
 <!ENTITY  notificationPermissions.label                         "התרעות">
