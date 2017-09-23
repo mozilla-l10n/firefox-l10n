@@ -128,7 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Authenticar se a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Aperir le preferentias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnecter se a &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Verificar vostre conto">
+<!ENTITY fxaUnverified.label "Verificar tu conto">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimisar">
