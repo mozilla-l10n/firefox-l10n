@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Lagt til">
 <!ENTITY col.lastmodified.label  "Sist endret">
 
-<!ENTITY search.placeholder  "Søk">
+<!ENTITY historySearch.placeholder  "Søk historikk">
+<!ENTITY bookmarksSearch.placeholder  "Søk bokmerker">
 
 <!ENTITY cmd.find.key  "f">
 
