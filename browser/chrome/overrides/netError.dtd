@@ -58,10 +58,18 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Pressione &quot;Tentar novamente&quot; para trocar para o modo online e recarregar a página.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Por favor, comunique o problema aos proprietários do website.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Por favor, contacte os proprietários do website para os informar deste problema.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Por favor, comunique o problema aos proprietários do website.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Por favor, contacte os proprietários do website para os informar deste problema.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "A ligação foi reposta">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -104,7 +112,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
 
-<!ENTITY errorReporting.automatic2 "Comunique erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
+<!ENTITY errorReporting.automatic2 "Comunicar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
 <!ENTITY errorReporting.learnMore "Saber mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
