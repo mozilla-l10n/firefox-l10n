@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY blockedPlugin.label                                 "Iste plugin ha essite blocate pro tu protection.">
 <!ENTITY hidePluginBtn.label                                 "Celar le plugin">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -10,3 +11,5 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 
+<!ENTITY plugin.flashProtectedMode.label                     "Activar le modo protegite de Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Blocar le contentos Flash periculose e intrusive">
