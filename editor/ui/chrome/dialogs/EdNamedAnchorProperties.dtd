@@ -5,6 +5,6 @@
 <!ENTITY windowTitle.label "Propriedades da âncora nomeada">
 <!ENTITY anchorNameEditField.label "Nome da âncora:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Forneça um nome único para esta âncora (destino)">
+<!ENTITY nameInput.tooltip "Insira um nome único para esta âncora nomeada (destino)">
 
 

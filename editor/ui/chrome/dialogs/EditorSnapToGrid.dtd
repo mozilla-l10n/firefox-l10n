@@ -6,7 +6,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Encaixar na grade">
 
-<!ENTITY enableSnapToGrid.label "Ativar">
+<!ENTITY enableSnapToGrid.label "ativar o encaixe na grade">
 <!ENTITY enableSnapToGrid.accessKey "A">
 
 <!ENTITY sizeEditField.label "Tamanho:">

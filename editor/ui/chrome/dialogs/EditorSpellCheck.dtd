@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Verificar ortografia">
+<!ENTITY windowTitle.label "Verificação ortográfica">
 
-<!ENTITY misspelledWord.label "Palavra errada:">
+<!ENTITY misspelledWord.label "Palavra incorreta:">
 <!ENTITY wordEditField.label "Substituir por:">
 <!ENTITY wordEditField.accessKey "b">
-<!ENTITY checkwordButton.label "Verificar palavra">
+<!ENTITY checkwordButton.label "Verificar a palavra">
 <!ENTITY checkwordButton.accessKey "V">
 <!ENTITY suggestions.label "Sugestões:">
 <!ENTITY suggestions.accessKey "u">
@@ -23,12 +23,12 @@
 <!ENTITY stopButton.label "Parar">
 <!ENTITY stopButton.accessKey "P">
 <!ENTITY userDictionary.label "Dicionário pessoal:">
-<!ENTITY moreDictionaries.label "Mais dicionários">
+<!ENTITY moreDictionaries.label "Baixar mais dicionários…">
 <!ENTITY addToUserDictionaryButton.label "Adicionar palavra">
 <!ENTITY addToUserDictionaryButton.accessKey "A">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton2.label "Verifique novamente o texto">
+<!ENTITY recheckButton2.label "Reverificar o texto">
 <!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Fechar">
 <!ENTITY closeButton.accessKey "F">
