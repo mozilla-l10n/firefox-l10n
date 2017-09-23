@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Piekļuve šai adresei ir liegta">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveris nav atrasts">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Pārbaudiet, vai lapas adresē nav drukas kļūdu - piemēram, <strong>ww</strong>.example.com vajadzīgā <strong>www</strong>.example.com vietā.</li> <li>Ja nevarat atvērt nevienu lapu, pārbaudiet sava datora tīkla savienojumu.</li> <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Serveris nav atrasts">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Diemžēl mums neizdodas atrast šo lapu.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Ja lapas adrese ir pareiza, šīs ir dažas papildu lietas, ko varat izmēģināt:</strong>
+<ul>
+  <li>Pamēģiniet pieslēgties vēlreiz nedaudz vēlāk.</li>
+  <li>Pārbaudiet savu tīkla savienojumu.</li>
+  <li>Ja jūsu savienojumu aizsargā ugunsmūris, pārliecinieties, ka &brandShortName; ir nepieciešamās tiesības piekļūt internetam.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.</li> <li>Pārliecinieties, ka fails nav pārvietots, pārsaukts vai izdzēsts.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Atvērt tīkla pieslēgšanās lapu">
 
-<!ENTITY malformedURI.title "Adrese nav pareiza">
-<!ENTITY malformedURI.longDesc "<ul> <li>Tīmekļa lapu adreses parasti raksta kā <strong>http://www.example.com/</strong></li> <li>Pārliecinieties, ka izmantojat pareizās slīpsvītras (proti, <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Nederīga adrese">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Šķiet šī adrese nav korekta.">
 
 <!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

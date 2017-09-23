@@ -26,16 +26,25 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "Par lapu <span id='malware_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tā satur kaitīgu programmatūru</a>. Varat <a id='report_detection'>ziņot par kļūdu</a> vai <a id='ignore_warning_link'>ignorēt šo paziņojumu</a> un doties uz nedrošo lapu.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Par lapu <span id='malware_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tā satur kaitīgu programmatūru</a>. Jūs varat <a id='report_detection'>ziņot par kļūdu</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Uzziniet vairāk par vīrusiem un kaitniecisku programmatūru, kā arī to kā pasargāt sevi no briesmām <a id='learn_more_link'>StopBadwareStopBadware.org</a>. Uzziniet vairāk par &brandShortName; aizsardzībām <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "Šajā lapā var būt kaitnieciskas programmas">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; bloķēja šo lapu, jo tā var iemānīt jums kaitniecisku programmatūru (piemēram tādu, kas maina mājas lapu saturu un rāda reklāmas).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Par lapu <span id='unwanted_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>. Jūs varat <a id='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.">
+
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Par lapu <span id='unwanted_sitename'/> ir saņemti <a id='error_desc_link'>ziņojumi, ka tajā ir kaitīga programmatūra</a>.">
+
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Uzziniet vairāk par kaitīgas un nevēlamas programmatūras <a id='learn_more_link'>aizsardzību</a>. &brandShortName; aizsardzību no kaitnieciskās programmatūras <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
-
+<!ENTITY safeb.blocked.phishingPage.title3 "Maldinoša lapa">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; bloķēja šo lapu, jo tā var jūs maldināt, liekot instalēt nevēlamu programmatūru vai izkrāpjot personisku informāciju, piemēram kredītkaršu datus.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
