@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.appBasicsAppBuildID "Tinuk' ID Chokoy">
+
+<!ENTITY aboutSupport.accountsID "ID">
+<!ENTITY aboutSupport.accountsName "B'i'aj">
+<!ENTITY aboutSupport.accountsServerName "B'i'aj">
+<!ENTITY aboutSupport.accountsConnSecurity "Rujikomal okem">
+<!ENTITY aboutSupport.accountsDefault "¿La kan k'o wi?">
+
+<!ENTITY aboutSupport.sendViaEmail.label "Titaq rik'in taqoya'l">

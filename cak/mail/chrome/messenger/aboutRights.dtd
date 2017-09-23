@@ -50,5 +50,8 @@
 <!ENTITY rights.webservices-unbranded "Wawe' k'o chi nitz'aqatisäx apo jun ruch'utitzijol kisamaj ajk'amaya'l ruxaq, ri ruk'wan ri k'ayij, chuqa' k'o pe ri taq rucholajil rub'eyal nitz'apïx, we ke ri' rajowaxik.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Konojel ri kojqanem samaj e okel chi re, re k'ayij re', k'atzinel chi e cholotäl qa wawe'.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; nitikïr nuqupij o nuk'ëx ri Samaj ri nawajo' rat.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; ütz ye'ak'ëx re taq ojqanem re we rajowaxik chi ramajil chi ramajil. Man ütz ta yejal o yeq'at we man nuya' ta q'ij pa tz'ib'anïk ri &vendorShortName;.">

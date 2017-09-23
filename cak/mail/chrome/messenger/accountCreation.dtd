@@ -1,0 +1,64 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY name.label                      "Ab'i':">
+<!ENTITY name.accesskey                  "b">
+<!ENTITY email.label                     "Kochochib'al taqoya'l:">
+<!ENTITY email.accesskey                 "t">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email.text                      "K'o chik ri rochochib'al ataqoya'l">
+<!ENTITY password.label                  "Ewan tzij:">
+<!ENTITY password.accesskey              "E">
+<!ENTITY password.placeholder            "Ewan tzij">
+<!ENTITY rememberPassword.label          "Tinatäx ri ewan tzij">
+<!ENTITY rememberPassword.accesskey      "n">
+
+
+<!ENTITY username.label                  "Rub'i' winäq:">
+<!ENTITY port.label                      "B'ey">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Ruyon titz'et">
+<!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
+     Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Majun">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
+
+<!ENTITY cancel.label                    "Tiq'at">
+<!ENTITY cancel.accesskey                "a">
+<!ENTITY continue.label                  "Titikïr chik el">
+<!ENTITY continue.accesskey              "c">
+<!ENTITY stop.label                      "Tiq'at">
+<!ENTITY stop.accesskey                  "q">
+<!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
+     displayed on the button in manual edit mode which will re-guess
+     the account configuration, taking into account the settings that
+     the user has manually changed. -->
+<!ENTITY open-provisioner.label          "Tik'ul jun k'ak'a' rochochib'al taqoya'l…">
+<!ENTITY open-provisioner.accesskey      "k">
+
+
+<!ENTITY warning.label                   "¡Rutzijol k'ayewal!">
+<!ENTITY technicaldetails.label          "Etamanel taq B'anikil">
+<!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
+     warning on the outgoing server, then the user will need to check a
+     checkbox beside this text before continuing. -->
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Xk'is">
+<!ENTITY doneAccount.accesskey           "X">
+<!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
+     the incoming or outgoing servers, then the page that pops up will have
+     this text in a button to take you back to the previous page to change
+     the settings and try again. -->
+<!ENTITY changeSettings.label            "Kejal taq Nuk'ulem">
+<!ENTITY changeSettings.accesskey        "S">
+
+
+
