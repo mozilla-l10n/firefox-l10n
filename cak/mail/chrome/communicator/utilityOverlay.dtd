@@ -1,0 +1,54 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Yakb'äl">
+<!ENTITY fileMenu.accesskey        "Y">
+<!ENTITY newMenu.label            "K'ak'a'">
+<!ENTITY newMenu.accesskey          "K">
+
+<!ENTITY editMenu.label          "Tinuk'">
+<!ENTITY editMenu.accesskey        "n">
+<!ENTITY undoCmd.label            "Titzolïx">
+<!ENTITY undoCmd.key            "z">
+<!ENTITY undoCmd.accesskey          "x">
+<!ENTITY redoCmd.label            "Tikamulüx">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "T">
+<!ENTITY cutCmd.label            "Tiqupïx">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "x">
+<!ENTITY copyCmd.label            "Tiwachib'ëx">
+<!ENTITY copyCmd.key            "w">
+<!ENTITY copyCmd.accesskey          "w">
+<!ENTITY pasteCmd.label            "Titz'ajb'äx">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "j">
+<!ENTITY deleteCmd.label          "Tiyuj">
+<!ENTITY deleteCmd.accesskey        "y">
+<!ENTITY selectAllCmd.label          "Ticha' Ronojel">
+<!ENTITY selectAllCmd.key          "R">
+<!ENTITY selectAllCmd.accesskey        "R">
+<!ENTITY preferencesCmd2.label "Taq cha'oj">
+<!ENTITY preferencesCmd2.accesskey "o">
+<!ENTITY preferencesCmdUnix.label       "Taq ajowab'äl">
+<!ENTITY preferencesCmdUnix.accesskey     "w">
+
+<!ENTITY viewMenu.label          "Titz'et">
+<!ENTITY viewMenu.accesskey        "t">
+<!ENTITY viewToolbarsMenu.label        "Taq cholsamajib'äl">
+<!ENTITY viewToolbarsMenu.accesskey      "c">
+
+<!ENTITY closeCmd.label      "Titz'apïx">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "t">
+
+<!ENTITY quitApplicationCmd.label  "Tel">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "l">
+
+<!ENTITY quitApplicationCmdUnix.label  "Tel">
+<!ENTITY quitApplicationCmdUnix.accesskey  "T">
+

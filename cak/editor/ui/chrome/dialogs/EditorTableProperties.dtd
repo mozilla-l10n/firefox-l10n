@@ -48,3 +48,6 @@
 <!ENTITY pixels.label                     "taq piksel">
 <!ENTITY backgroundColor.label            "Rub'onil Rupam:">
 <!ENTITY backgroundColor.accessKey        "p">
+<!ENTITY AlignLeft.label                  "Xokon">
+<!ENTITY AlignCenter.label                "Nik'aj">
+<!ENTITY AlignRight.label                 "Ajkiq'a'">
