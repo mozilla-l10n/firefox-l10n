@@ -22,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "के तपाईँ हामीलाई मद्दत गर्नुहुन्छ?">
 <!ENTITY tabCrashed.requestHelpMessage "दुर्घटनाका विवरणहरूले हामीलाई समस्याहरू निदान गर्न र &brandShortName; राम्रो बनाउन मद्दत गर्छन्।">
 <!ENTITY tabCrashed.requestReport "यो ट्याबलाई रिपोर्ट गर्नुहोस्">
+<!ENTITY tabCrashed.sendReport3 "एक स्वचालित क्र्यास रिपोर्ट पठाउनुहोस् ताकि हामी यस्ता समस्याहरू समाधान गर्न सक्छौं ।">
 <!ENTITY tabCrashed.commentPlaceholder2 "वैकल्पिक टिप्पणीहरू (टिप्पणीहरू सार्वजनिक रूपमा देखिने छन्)">
+<!ENTITY tabCrashed.includeURL3 "BrandShortName; क्र्यास हुँदा तपाईँ हुनुभएको साइटहरूको URLs समावेश गर्नुहोस् ।">
 <!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना यहाँ लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाई सकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "पृष्ठभूमि ट्याबहरूको बारेमा उजुर गर्नुहोस्">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; क्र्यास हुँदा स्वचालित रूपमा प्रतिवेदन पेश गर्न प्राथमिकताहरू अद्यावधिक गर्नुहोस् ।">
