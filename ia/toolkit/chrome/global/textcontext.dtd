@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY selectAllCmd.label "Selectionar toto">
+<!ENTITY deleteCmd.label "Deler">
+
+<!ENTITY spellAddToDictionary.label "Adder al dictionario">
+<!ENTITY spellCheckToggle.label "Verificar le orthographia">
+<!ENTITY spellNoSuggestions.label "(Nulle suggestion orthographic)">
+<!ENTITY spellDictionaries.label "Linguas">
+
+<!ENTITY searchTextBox.clear.label "Vacuar">
+
+<!ENTITY fillPasswordMenu.label       "Inserer le contrasigno">
+<!ENTITY fillUsernameMenu.label       "Inserer le nomine de usator">

@@ -13,6 +13,7 @@
 <!ENTITY dnsNotFound.title "Adresse non trovate">
 
 <!ENTITY fileNotFound.title "File non trovate">
+<!ENTITY fileNotFound.longDesc "<ul><li>Poterea le elemento forsan haber essite renominate, removite o relocate?</li><li>Haberea un error de orthographia, de majusculas o altere problema typographic in le adresse?</li><li>Ha tu le permissiones de accesso necessari pro le elemento requestate?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
 
