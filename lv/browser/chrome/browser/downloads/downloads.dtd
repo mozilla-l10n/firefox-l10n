@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Parādīt Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Rādīt lejupielāžu mapi">
 <!ENTITY cmd.retry.label                  "Atkārtot">
 <!ENTITY cmd.goToDownloadPage.label       "Iet uz lejupielādes lapu">
 <!ENTITY cmd.goToDownloadPage.accesskey   "e">
@@ -134,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "Rādīt visas lejupielādes">
 <!ENTITY downloadsHistory.accesskey       "s">
 
-<!ENTITY openDownloadsFolder.label       "Atvērt lejupielāžu mapi">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "Lejupielādes informācija">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Atvērt lejupielāžu mapi">
 
 <!ENTITY clearDownloadsButton.label       "Notīrīt lejupielādes">
 <!ENTITY clearDownloadsButton.tooltip     "Notīra pabeigtās, atceltās un neveiksmīgās lejupielādes">

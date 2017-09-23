@@ -73,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Īpašnieks: ">
 <!ENTITY  securityView.identity.domain   "Mājas lapa: ">
 <!ENTITY  securityView.identity.verifier "Pārbaudījis: ">
+<!ENTITY  securityView.identity.validity "Derīgs līdz:">
 
 <!ENTITY  securityView.privacy.header                   "Privātums un vēsture">
 <!ENTITY  securityView.privacy.history                  "Vai es šo lapu šodien jau esmu apmeklējis?">

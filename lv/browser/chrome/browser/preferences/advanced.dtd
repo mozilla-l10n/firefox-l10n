@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Vispārējs">
 
-<!ENTITY accessibility.label             "Pieejamība">
-
 <!ENTITY useCursorNavigation.label       "Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām">
 <!ENTITY useCursorNavigation.accesskey   "k">
 <!ENTITY searchOnStartTyping.label       "Meklēt rakstīto tekstu, kolīdz es sāku rakstīt">
 <!ENTITY searchOnStartTyping.accesskey   "m">
-<!ENTITY blockAutoReload.label           "Brīdināt mani, ja mājas lapa mēģina pārlādēties vai pārsūtīt mani uz citu lapu">
-<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Parādīt pieskārienu klaviatūru, kad nepieciešams">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -28,24 +24,26 @@
 
 <!ENTITY dataChoicesTab.label            "Datu izvēle">
 
-<!ENTITY healthReportDesc.label          "Palīdz izprast jūsu pārlūka veiktspēju un sūta šos datus par pārlūka stāvokli &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; stāvokļa ziņojumu">
-<!ENTITY enableHealthReport.accesskey    "v">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Datu ziņošana ir atspējota šajā būvējuma konfigurācija">
+
+<!ENTITY enableHealthReport2.label       "Atļaut &brandShortName; automātiski sūtīt tehnisku un mijiedarbību informāciju Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Uzzināt vairāk">
 
-<!ENTITY telemetryDesc.label             "Nosūta aparatūras parametru, to veiktspējas, lietošanas un pārlūka pielāgojumu informāciju &vendorShortName;, lai palīdzētu uzlabot &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Dalīties ar papildus datiem (piem. Telemetriju)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Uzzināt vairāk">
+<!ENTITY dataCollection.label            "&brandShortName; datu vākšana un izmantošana">
+<!ENTITY dataCollectionDesc.label        "Mēs cenšamies piedāvāt jums izvēles iespēju un vācam tikai tos datus, kas ir nepieciešami, lai uzlabotu &brandShortName;. Mēs vienmēr jautāsim atļauju pirms privātu datu ievākšanas.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Privātuma piezīme">
 
-<!ENTITY crashReporterDesc2.label         "Avāriju ziņojumi palīdz &vendorShortName; salabot problēmas un padarīt jūsu pārlūku drošāku un stabilāku">
-<!ENTITY alwaysSubmitCrashReports.label   "Atļaut &brandShortName; sūtīt uzkrātos avāriju ziņojumus jūsu vārdā">
-<!ENTITY alwaysSubmitCrashReports.accesskey "a">
-<!ENTITY crashReporterLearnMore.label     "Uzzināt vairāk">
+<!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; sūtīt avārijas ziņojumus Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Uzzināt vairāk">
 
 <!ENTITY networkTab.label                "Tīkls">
 
-<!ENTITY connection.label                "Savienojums">
+<!ENTITY networkProxy.label              "Tīkla starpniekserveris">
 
 <!ENTITY connectionDesc.label            "Konfigurēt, kā &brandShortName; savienojas ar Internetu">
 <!ENTITY connectionSettings.label        "Iestatījumi...">
@@ -92,11 +90,13 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Vienmēr atjauniniet &brandShortName;, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.">
 <!ENTITY updateApplication.version.pre   "Versija ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Ļaut &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalēt atjauninājumus automātiski (ieteicams: uzlabo drošību)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto3.label               "Instalēt jauninājumus automātiski (ieteicams)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos">
 <!ENTITY updateCheckChoose2.accesskey    "P">
 <!ENTITY updateManual2.label             "Nekad nepārbaudīt atjauninājumus (nav ieteicams)">
@@ -111,14 +111,12 @@
 <!ENTITY enableSearchUpdate2.label       "Automātiski atjaunināt meklētājus">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY reports.label                   "Ziņojumi">
-
 <!ENTITY offlineStorageNotify.label               "Ziņot man, kad mājas lapa grib saglabāt datus izmantošanai nesaistē">
 <!ENTITY offlineStorageNotify.accesskey           "Z">
 <!ENTITY offlineStorageNotifyExceptions.label     "Izņēmumi...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
-<!ENTITY offlineAppsList2.label          "Šīm mājas lapām ir atļauts glabāt datus izmantošanai nesaistē:">
+<!ENTITY offlineAppsList3.label          "Šīm mājas lapām ir atļauts glabāt datus izmantošanai nesaistē">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Aizvākt...">
 <!ENTITY offlineAppsListRemove.accesskey "A">
@@ -132,12 +130,14 @@
 <!ENTITY selectCerts.ask.accesskey       "J">
 <!ENTITY enableOCSP.label                "Vaicāt OCSP atbildes serveriem, lai pārbaudītu pašreizējo sertifikātu derīgumu">
 <!ENTITY enableOCSP.accesskey            "V">
-<!ENTITY viewCerts.label                 "Aplūkot sertifikātus">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Drošības ierīces">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.label                "Aplūkot sertifikātus…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Drošības ierīces…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Veiktspēja">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Izmantot ieteiktos veiktspējas iestatījumus">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Uzzināt vairāk">
 <!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
