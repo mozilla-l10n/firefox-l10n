@@ -220,7 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Бет аудармасын басқару">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM БҚ қолдануын басқару">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Сіз камераңызды қолдануды бұл вебсайтқа блоктадыңыз.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Камераңызды қолдануды бұл веб-сайтқа бұғаттадыңыз.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.">
@@ -930,7 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Жалғастыру нәтижесінде:">
-<!ENTITY panicButton.view.deleteCookies           "Соңғы <html:strong>Cookies</html:strong> өшіру">
+<!ENTITY panicButton.view.deleteCookies           "Соңғы <html:strong>Cookies файлдарын</html:strong> өшіру">
 <!ENTITY panicButton.view.deleteHistory           "Соңғы <html:strong>тарихты</html:strong> өшіру">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Барлық <html:strong>беттер</html:strong> және <html:strong>терезелерді</html:strong> жабу">
 <!ENTITY panicButton.view.openNewWindow           "Жаңа бос терезені ашу">

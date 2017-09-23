@@ -11,4 +11,4 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "Барлығын өшіру">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Барлық сессия cookies өшіру">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Сессияның барлық cookies файлдарын өшіру">
