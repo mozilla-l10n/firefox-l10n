@@ -23,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatuo puorlūkuošona ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "doesn’t make you anonymous">
 <!ENTITY aboutPrivateBrowsing.note.after                 " on the Internet. Your employer or Internet service provider can still know what page you visit.">
-<!ENTITY aboutPrivateBrowsing.learnMore2                 "Uzzinit vairuok par">
-<!ENTITY aboutPrivateBrowsing.learnMore2.title           "Privatū puorlūkuošonu">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Uzzinit vairuok par ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privatuo puorlūkuošona">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Izsekuošonys aizsardzeiba">
 <!ENTITY trackingProtection.description2                 "Some websites use trackers that can monitor your activity across the Internet. With Tracking Protection Firefox will block many trackers that can collect information about your browsing behavior.">

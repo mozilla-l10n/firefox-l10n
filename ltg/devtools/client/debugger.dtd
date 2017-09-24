@@ -44,15 +44,11 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Automatiski uzskaistynuot minificeitu kodu">
-<!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "k">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Aktivēt/deaktivēt nūstuošona punktus">
-<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
-  -  tooltip for the button that toggles the promise debugger. -->
-
-<!ENTITY debuggerUI.sources.togglePromiseDebugger "Puorslēgt atklaiduotuoju">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -70,7 +66,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignoreit nūkertūs izjiemumus">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "r">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -87,7 +83,7 @@
   -  defined in JavaScript. When in doubt, leave untranslated. -->
 
 <!ENTITY debuggerUI.showOnlyEnum           "Ruodeit tikai uzskaitamuos vierteibys">
-<!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "u">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
@@ -127,14 +123,14 @@
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken           "Mekleit">
-<!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "F">
+<!ENTITY debuggerUI.searchToken.key       "M">
+<!ENTITY debuggerUI.searchToken.accesskey "M">
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
 <!ENTITY debuggerUI.searchGoToLine           "Īt iz ryndeņu…">
-<!ENTITY debuggerUI.searchGoToLine.key       "L">
-<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
+<!ENTITY debuggerUI.searchGoToLine.key       "r">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "r">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
@@ -145,8 +141,8 @@
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "Fokuseit maineigū kūku">
-<!ENTITY debuggerUI.focusVariables.key       "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "V">
+<!ENTITY debuggerUI.focusVariables.key       "m">
+<!ENTITY debuggerUI.focusVariables.accesskey "m">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -197,13 +193,9 @@
   -  step in and step out). -->
 
 <!ENTITY debuggerUI.stepping.resume1    "VK_F8">
-<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
 <!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
-<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
-<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
 <!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
@@ -216,5 +208,5 @@
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "Kopēt adresu">
-<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "k">
 <!ENTITY debuggerUI.context.copyUrl.key "o">

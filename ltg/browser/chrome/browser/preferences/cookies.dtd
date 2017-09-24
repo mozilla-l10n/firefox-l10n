@@ -4,16 +4,9 @@
 
 <!ENTITY window.width                       "40em">
 
-<!ENTITY     cookiesonsystem.label          "Itaidys seikdatnes ir saglobuotys jiusu datorā:">
+<!ENTITY     cookiesonsystem2.label         "Itaidys seikdatnes ir saglobuotys jiusu datorā">
 <!ENTITY     cookiename.label               "Seikdatnes nūsaukums">
-<!ENTITY     cookiedomain.label             "Vītne"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Izmest vysys">
-<!ENTITY     button.removeAllCookies.accesskey "I">
+<!ENTITY     cookiedomain.label             "Vītne">
 
 <!ENTITY     props.name.label               "Nūsaukums:">
 <!ENTITY     props.value.label              "Saturs:">
@@ -26,10 +19,9 @@
 <!ENTITY     window.title                   "Seikdatnes">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Mekleit:">
-<!ENTITY     filter.accesskey               "M">
+<!ENTITY     searchFilter.label             "Mekleit">
+<!ENTITY     searchFilter.accesskey         "M">
 
 <!ENTITY     button.close.label             "Aiztaiseit">
 <!ENTITY     button.close.accesskey         "z">

@@ -5,14 +5,14 @@
 <!ENTITY window.title                 "Izjāmumi">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Vītne">
+<!ENTITY treehead.sitename2.label     "Sātys lopa">
 <!ENTITY treehead.status.label        "Statuss">
-<!ENTITY removepermission.label       "Aizvuokt vītni">
-<!ENTITY removepermission.accesskey   "A">
-<!ENTITY removeallpermissions.label   "Aizvuokt vysys vītnes">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Šķārsteikla vītnes adress:">
-<!ENTITY address.accesskey            "d">
+<!ENTITY removepermission2.label      "Aizvuokt lopu">
+<!ENTITY removepermission2.accesskey  "z">
+<!ENTITY removeallpermissions2.label  "Aizvuokt vysys lopys">
+<!ENTITY removeallpermissions2.accesskey "k">
+<!ENTITY address2.label               "Sātys lopys adress">
+<!ENTITY address2.accesskey           "d">
 <!ENTITY block.label                  "Blokeit">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Atļaut tikai ituos sesejis laikā">
@@ -26,3 +26,4 @@
 <!ENTITY button.ok.label              "Saglobuot izmaiņis">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "Mekleit lopys">

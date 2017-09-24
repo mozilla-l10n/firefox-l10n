@@ -30,11 +30,6 @@
 <!ENTITY clientAuthAsk.message1 "Itei vītne pīpraseja, kab jius identificeitu sevi ar sertifikatu:">
 <!ENTITY clientAuthAsk.message2 "Izavielit sertifikatu, ar kuru identificeit sevi:">
 <!ENTITY clientAuthAsk.message3 "Izavālātā sertifikata detalis:">
-<!-- Strings for the cert picker dialog -->
-
-<!ENTITY certPicker.title "Izavielit sertifikatu">
-<!ENTITY certPicker.info  "Sertifikats:">
-<!ENTITY certPicker.detailsLabel "Izavālātā sertifikata detalis:">
 
 <!ENTITY pkcs12.setpassword.title  "Izavielit sertifikata rezerves puorspīdumi paroli">
 <!ENTITY pkcs12.setpassword.message  "Sertifikata rezerves puorspīdumi parole aizsorguos izveiduotū rezerves puorspīdumi failu. Kab turpynuotu obligati juoīvoda parole.">

@@ -6,16 +6,14 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Ar nūžāla juoatzeist.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ir gryuteibys atdabuot jiusu lūgus i cilnes. Tū parostai izraisa naseņ attaiseita sātys lopa.">
-<!ENTITY restorepage.tryThis        "You can try:">
-<!ENTITY restorepage.restoreSome    "Aizvuokt vīnu voi vairuokys cilnes, kurys jiusupruot varātu radeit problemu">
-<!ENTITY restorepage.startNew       "Suokt jaunu puorlūkuošonys seseju">
+<!ENTITY restorepage.errorTitle2    "Atlaidit. Myusim naizadeve atdabuot jiusu lopys.">
+<!ENTITY restorepage.problemDesc2   "We are having trouble restoring your last browsing session. Select Restore Session to try again.">
+<!ENTITY restorepage.tryThis2       "Still not able to restore your session? Sometimes a tab is causing the issue. View previous tabs, remove the checkmark from the tabs you don’t need to recover, and then restore.">
 
-<!ENTITY restorepage.tryagainButton "Atjaunuot">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Aiztaiseit">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "Atjaunuot seseju">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Suokt jaunu seseju">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Atjaunuot">
 <!ENTITY restorepage.listHeader     "Lūgus i cilnes">
@@ -34,8 +32,8 @@
 <!ENTITY welcomeback2.pageTitle     "Success!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ir gotovs dorbam.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Atjaunuot vysus lūgus i cilnes">
-<!ENTITY welcomeback2.label.restoreSome "Restore only the ones you want">
+<!ENTITY welcomeback2.restoreAll.label  "Atjaunuot vysus lūgus i cilnes">
+<!ENTITY welcomeback2.restoreSome.label "Restore only the ones you want">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
@@ -48,13 +46,4 @@ their language.
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "uzzinit kū vel jius varot dareit.">
-<!-- LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
-     the tab groups (panorama) migration page, not about:sessionrestore -->
-
-<!ENTITY tabgroupsmigration.tabtitle            "Migrate your other Tab Groups">
-<!ENTITY tabgroupsmigration.pagetitle2          "We’ve removed Tab Groups, but saved your tabs">
-<!ENTITY tabgroupsmigration.learnaboutaddons    "Uzzinit par papyldynuojumym, kas aizvītoj ciļņu grupys">
-<!ENTITY tabgroupsmigration.description2        "&brandShortName; has bookmarked all your groups so you haven’t lost anything.">
-<!ENTITY tabgroupsmigration.bookmarkbutton      "Paruodeit saglobuotuos ciļņu grupys">
-<!ENTITY tabgroupsmigration.restoredescription  "Jius varot ari atjaunuot vysys voi dažys fona grupys lūgā tagad:">
 

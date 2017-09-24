@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Palaišona">
 
-<!ENTITY startupPage.label         "Kod &brandShortName; tīk palaista:">
-<!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "Paruodeit munu sātys lopu">
+<!ENTITY startupPage2.label        "Kod &brandShortName; palaižys">
+<!ENTITY startupPage2.accesskey    "p">
+<!ENTITY startupUserHomePage.label "Ruodeit sātys lopu">
 <!ENTITY startupBlankPage.label    "Paruodeit tukšu lopu">
-<!ENTITY startupLastSession.label  "Paruodeit munus lūgus i cilnes nu īprīkšejuos reizes">
+<!ENTITY startupPrevSession.label  "Paruodeit munus lūgus i cilnes nu īprīkšejuos reizes">
 
-<!ENTITY homepage.label            "Sātys lopa:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage2.label           "Sātys lopa">
+<!ENTITY homepage2.accesskey       "p">
 <!ENTITY useCurrentPage.label      "Lītuot pošreizejū lopu">
 <!ENTITY useCurrentPage.accesskey  "L">
 <!ENTITY useMultiple.label         "Lītuot pošreizejuos lopys">
@@ -19,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "g">
 <!ENTITY restoreDefault.label      "Atjaunuot iz nūkluseitū">
 <!ENTITY restoreDefault.accesskey  "A">
+
+<!ENTITY disableExtension.label    "Deaktivēt paplošynuojumu">
 
 <!ENTITY downloads.label     "Lejupīluodes">
 
@@ -28,18 +30,19 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Izavielit...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Vīnmār vaicuot maņ, kur saglobuot failus">
-<!ENTITY alwaysAsk.accesskey "V">
+<!ENTITY alwaysAskWhere.label         "Vīnmār vaicuot maņ, kur saglobuot failus">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Vīnmār puorbaudeit voi &brandShortName; ir nūkluseitais puorlūks">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
-<!ENTITY setAsMyDefaultBrowser2.label     "Padareit par nūkluseitū">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY setAsMyDefaultBrowser3.label     "Padareit par nūkluseitū…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "d">
 <!ENTITY isDefault.label                  "&brandShortName; itūbreid ir jiusu nūkluseitais puorlūks">
 <!ENTITY isNotDefault.label               "&brandShortName; itūbreid nav jiusu nūkluseitais puorlūks">
 
 <!ENTITY separateProfileMode.label        "Ļaut &brandShortName; i Firefox dorbuotīs vīnlaiceigi">
 <!ENTITY useFirefoxSync.label             "Tip: This uses separate profiles. Use Sync to share data between them.">
-<!ENTITY getStarted.label                 "Suokt sinhronizaceju…">
+<!ENTITY getStarted.notloggedin.label     "Pīraksteitīs &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Attaiseit &syncBrand.shortName.label; īstatiejumus">
 
 <!ENTITY e10sEnabled.label                "Aktivizēt vairuoku procesu &brandShortName;">

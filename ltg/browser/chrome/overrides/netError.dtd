@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Pīkļuve itai adresam ir līgta">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveris nav atrosts">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Puorbaudit, voi lopys adresā nav drukys klaidu - pīmāram, <strong>ww</strong>.example.com vajadzeiguo <strong>www</strong>.example.com vītā.</li> <li>Nui navarot attaiseit nivīnu lopu, puorbaudit sova datora teikla savīnuojumu.</li> <li>Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka &brandShortName; ir atļauts pīkliut šķārsteiklam.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Serveris nav atrosts">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Dīmžāl myusim naizadūd atrast itū lopu.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>If that address is correct, here are three other things you can try:</strong>
+<ul>
+  <li>Try again later.</li>
+  <li>Check your network connection.</li>
+  <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fails nav atrosts">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Puorbaudit, voi faila vuords ir uzraksteits pareizi i ar pareizuo leluma burtym.</li> <li>Puorsalīcinojit, ka fails nav puorvītuots, puorsaukts voi izdzāsts.</li> </ul>">
@@ -30,8 +39,16 @@
 <!ENTITY generic.title "Sovaidi gon...">
 <!ENTITY generic.longDesc "<p>Kaida nazynuoma īmesla dieļ &brandShortName; navar attaiseit itū lopu.</p>">
 
-<!ENTITY malformedURI.title "Adress nav pareiza">
-<!ENTITY malformedURI.longDesc "<ul> <li>Šķārsteikla lopu adresi parostai roksta kai <strong>http://www.example.com/</strong></li> <li>Puorsalīcinojit, ka izmontojit pareizuos sleipsveitrys (muoc, <strong>/</strong>).</li> </ul>">
+<!ENTITY captivePortal.title "Log in to network">
+<!ENTITY captivePortal.longDesc2 "
+<p>You must log in to this network before you can access the Internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label2 "Attaiseit teikla pīsasliegšonuos lopu">
+
+<!ENTITY malformedURI.pageTitle "Nadereiga adress">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Likās itei adress nav korekta.">
 
 <!ENTITY netInterrupt.title "Savīnuojums tyka puortraukts">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -108,18 +125,12 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY weakCryptoUsed.title "Savīnuojums nav drūss">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Advanced info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Papyldu">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe.">
-<!ENTITY weakCryptoAdvanced.override "(Not secure) Try loading <span class='hostname'></span> using outdated security">
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-
-<!ENTITY certerror.wrongSystemTime "<p>A secure connection to <span id='wrongSystemTime_URL'/> isn’t possible because your clock appears to show the wrong time.</p> <p>Your computer thinks it is <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nadrūss savīnuojums">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "This site uses HTTP

@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Override the colors specified by the page with my selections above:">
-<!ENTITY  overridePageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "Override the colors specified by the page with your selections above">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
-<!ENTITY  overridePageColors.always.label "Vīnmār">
-<!ENTITY  overridePageColors.auto.label   "Only with High Contrast themes">
-<!ENTITY  overridePageColors.never.label  "Nikod">
+<!ENTITY  overrideDefaultPageColors.always.label "Vīnmār">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Only with High Contrast themes">
+<!ENTITY  overrideDefaultPageColors.never.label  "Nikod">
 
 <!ENTITY  color                           "Teksts i fons">
-<!ENTITY  textColor.label                 "Teksts:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Fons:">
-<!ENTITY  backgroundColor.accesskey       "F">
+<!ENTITY  textColor2.label                "Teksts">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fons">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Lītuot sistemys kruosys">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Pasveitruot saites">
 <!ENTITY  underlineLinks.accesskey        "r">
 <!ENTITY  links                           "Saišu kruosys">
-<!ENTITY  linkColor.label                 "Naapmeklātuos saites:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Apmaklātuos saites:">
-<!ENTITY  visitedLinkColor.accesskey      "m">
+<!ENTITY  linkColor2.label                "Naapmeklātuos saites">
+<!ENTITY  linkColor2.accesskey            "l">
+<!ENTITY  visitedLinkColor2.label         "Apmaklātuos saites">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

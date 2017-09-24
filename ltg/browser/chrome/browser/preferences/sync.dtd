@@ -1,57 +1,38 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Īstateit sinhronizaceju">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ļauj jiusim pīkliut puorlūkuošonys viesturei, gruomotzeimom, parolem i attaiseitajom cilnēm vysuos jiusu izmontuotajuos īreičuos.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Atjaunynuot">
-<!ENTITY resetPass.label              "Atīstateit">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Puorvaļdeit kontu">
-<!ENTITY manageAccount.accesskey      "P">
-<!ENTITY changePassword2.label        "Maineit paroli…">
-<!ENTITY myRecoveryKey.label          "Muna atdabuošonys atslāgs">
-<!ENTITY resetSync2.label             "Atīstateit sinhronizaceju…">
-
-<!ENTITY pairDevice.label             "Pīvīnuot īreici">
-
-<!ENTITY syncMy.label               "Kū sinhronizeit">
 <!ENTITY engine.bookmarks.label     "Gruomotzeimes">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Cilnes">
+<!ENTITY engine.tabs.label2         "Attaiseituos cilnes">
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Viesturi">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Paroles">
-<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.logins.label        "Logins">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Īstatiejumus">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Papyldynuojums">
 <!ENTITY engine.addons.accesskey    "a">
+<!ENTITY engine.addresses.label     "Adresi">
+<!ENTITY engine.addresses.accesskey "A">
+<!ENTITY engine.creditcards.label   "Credit cards">
+<!ENTITY engine.creditcards.accesskey "C">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Īrīces nūsaukums:">
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "Īrīces nūsaukums">
-<!ENTITY changeSyncDeviceName.label "Maineit īrīces nūsaukumu…">
+<!ENTITY changeSyncDeviceName2.label "Maineit īrīces nūsaukumu…">
+<!ENTITY changeSyncDeviceName2.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Atceļt">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Saglobuot">
-<!ENTITY unlinkDevice.label           "Atvīnuot itū īreici">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Lītuošonys nūsacejumi">
-<!ENTITY prefs.ppLink.label         "Privatuma politika">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Privatuma pīzeime">
-<!ENTITY determiningAcctStatus.label     "Nūsoka Jiusu konta statusu…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -71,25 +52,27 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Jius naasot pīsasliedz.">
 <!ENTITY signIn.label                "Pīsasliegt">
+<!ENTITY signIn.accesskey            "P">
 <!ENTITY profilePicture.tooltip      "Maineit profila attālu">
 <!ENTITY verifiedManage.label        "Puorvaļdeit kontu">
-<!ENTITY disconnect.label            "Atsaslēgt…">
+<!ENTITY verifiedManage.accesskey    "a">
+<!ENTITY disconnect3.label           "Atsaslēgt…">
+<!ENTITY disconnect3.accesskey       "t">
 <!ENTITY verify.label                "Apstyprynuot epostu">
+<!ENTITY verify.accesskey            "p">
 <!ENTITY forget.label                "Aizmierst/damierst itū epostu">
+<!ENTITY forget.accesskey            "A">
 
-<!ENTITY welcome.description "Izmontojit cilnes, gruomotzeimes i paroles vysur, kur Jiusim ir &brandShortName;.">
-<!ENTITY welcome.signIn.label "Pīsasliegt">
-<!ENTITY welcome.createAccount.label "Izveiduot kontu">
-
-<!ENTITY welcome.useOldSync.label "Izmontojit vacū sinhronizacejis verseju?">
-
-<!ENTITY signedOut.caption            "Take your Web with you">
+<!ENTITY signedOut.caption            "Take Your Web With You">
 <!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
 <!ENTITY signedOut.accountBox.title   "Pīsasliedzit ar &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Izveiduot kontu">
-<!ENTITY signedOut.accountBox.signin  "Pīsasliegt">
+<!ENTITY signedOut.accountBox.create2 "Nav konta? Tū var lobuot">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Pīsasliegt…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "P">
 
-<!ENTITY signedIn.engines.label       "Sinhronizeit vysuos īreičuos">
+<!ENTITY signedIn.settings.label       "Sync īstatiejumi">
+<!ENTITY signedIn.settings.description "Izavieleit, kū sinhronizeit īreicī, izmontojūt iz &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

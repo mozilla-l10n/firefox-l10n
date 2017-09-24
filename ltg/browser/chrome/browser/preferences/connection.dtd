@@ -14,33 +14,33 @@
 <!ENTITY  systemTypeRadio.accesskey     "u">
 <!ENTITY  WPADTypeRadio.label           "Automatiski nūteikt storpnīkservera īstatiejumus itam teiklam">
 <!ENTITY  WPADTypeRadio.accesskey       "n">
-<!ENTITY  manualTypeRadio.label         "Pošizveiduota proxy konfiguraceja:">
-<!ENTITY  manualTypeRadio.accesskey     "k">
-<!ENTITY  autoTypeRadio.label           "Automatiskuos proxy konfiguracejis URL:">
-<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  manualTypeRadio2.label        "Manual proxy configuration">
+<!ENTITY  manualTypeRadio2.accesskey    "m">
+<!ENTITY  autoTypeRadio2.label          "Automatiskuos storpnīkservera konfiguracejis adress">
+<!ENTITY  autoTypeRadio2.accesskey      "A">
 <!ENTITY  reload.label                  "Puorluodeit">
 <!ENTITY  reload.accesskey              "r">
-<!ENTITY  ftp.label                     "FTP Proxy:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP Proxy:">
-<!ENTITY  http.accesskey                "H">
-<!ENTITY  ssl.label                     "SSL Proxy:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS resursdators:">
-<!ENTITY  socks.accesskey               "C">
+<!ENTITY  ftp2.label                    "FTP storpnīkserveris">
+<!ENTITY  ftp2.accesskey                "F">
+<!ENTITY  http2.label                   "HTTP storpnīkserveris">
+<!ENTITY  http2.accesskey               "x">
+<!ENTITY  ssl2.label                    "SSL storpnīkserveris">
+<!ENTITY  ssl2.accesskey                "L">
+<!ENTITY  socks2.label                  "SOCKS resursdators">
+<!ENTITY  socks2.accesskey              "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Storpnīkservera DNS izmontojūt SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
-<!ENTITY  port.label                    "Ports:">
+<!ENTITY  port2.label                   "Ports">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Bez storpnīka:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy2.label                "Bez storpnīka">
+<!ENTITY  noproxy2.accesskey            "n">
 <!ENTITY  noproxyExplain.label          "Pīmārs: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Izmantuot proxy vysim protokolym">
 <!ENTITY  shareproxy.accesskey          "x">

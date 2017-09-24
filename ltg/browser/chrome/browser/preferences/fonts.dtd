@@ -4,22 +4,22 @@
 
 <!ENTITY  fontsDialog.title                       "Fonti">
 
-<!ENTITY  language.label                          "Fonti raksteibai:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  fonts.label                             "Fonti raksteibai">
+<!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size.label                              "Izmārs:">
+<!ENTITY  size2.label                             "Izmārs">
 <!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeMonospace.accesskey                 "r">
 
-<!ENTITY  proportional.label                      "Proporcionals:">
-<!ENTITY  proportional.accesskey                  "o">
+<!ENTITY  proportional2.label                     "Proporcionals">
+<!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif (bezredzes):">
-<!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Vīnplotuma:">
-<!ENTITY  monospace.accesskey                     "m">
+<!ENTITY  serif2.label                            "Serif">
+<!ENTITY  serif2.accesskey                        "S">
+<!ENTITY  sans-serif2.label                       "Sans-serif">
+<!ENTITY  sans-serif2.accesskey                   "n">
+<!ENTITY  monospace2.label                        "Monospace">
+<!ENTITY  monospace2.accesskey                    "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
@@ -45,7 +45,7 @@
 <!ENTITY  font.langGroup.gujarati                 "Gujaratu">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuku">
 <!ENTITY  font.langGroup.khmer                    "Khmeru">
-<!ENTITY  font.langGroup.malayalam                "Y">
+<!ENTITY  font.langGroup.malayalam                "Malayalamu">
 <!ENTITY  font.langGroup.math                     "Mathematics">
 <!ENTITY  font.langGroup.odia                     "Oriju">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
@@ -53,20 +53,20 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetīšu">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimalais fonta izmārs:">
-<!ENTITY minSize.accesskey                        "t">
+<!ENTITY minSize2.label                           "Minimalais fonta izmārs">
+<!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Nikaids">
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUse.label                   "Ļaut lopom izavieleit pošom sovus fontus manis izavalātū fontu vītā">
-<!ENTITY  allowPagesToUse.accesskey               "a">
+<!ENTITY  allowPagesToUseOwn.label                "Ļaut lopom izavieleit pošom sovus fontus manis izavalātū fontu vītā">
+<!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Simbolu kodiejums nazynuomam saturam">
-<!ENTITY languages.customize.Fallback2.label      "Fallback Text Encoding:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback3.label      "Fallback Text Encoding">
+<!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Itys simbolu kodiejums tiks izmontuots saturam, kurs nazyņuos par sovu simbolu kodiejumu.">
 
 <!ENTITY languages.customize.Fallback.auto        "Nūkluseitī izavālātajai volūdai">

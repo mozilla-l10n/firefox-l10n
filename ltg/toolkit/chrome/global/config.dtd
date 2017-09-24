@@ -13,7 +13,7 @@
 
 <!ENTITY searchPrefs.label "Mekleit:">
 <!ENTITY searchPrefs.accesskey "l">
-<!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch.key "l">
 <!ENTITY focusSearch2.key "f">
 <!-- Columns -->
 
@@ -27,7 +27,7 @@
 <!ENTITY columnChooser.tooltip "Spīst, kab izavālātūs ruodamuos kolonys"> 
 <!-- Context Menu -->
 
-<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.key "K">
 <!ENTITY copyPref.label "Kopēt">
 <!ENTITY copyPref.accesskey "K">
 <!ENTITY copyName.label "Kopēt nūsaukumu">

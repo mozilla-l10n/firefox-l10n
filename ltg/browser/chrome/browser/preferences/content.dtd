@@ -2,29 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Jaunī lūgi">
+<!ENTITY  permissions.label           "Atļuovis">
 
 <!ENTITY  blockPopups.label           "Blokeit jaunuos lūgus">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Paziņuojumi">
-<!ENTITY  notificationsPolicyLearnMore.label   "Uzzynojit vairuok">
-<!ENTITY  notificationsPolicyDesc3.label       "Izavielit, kurom lopom ir atļaut ruodeit paziņuojumus">
-<!ENTITY  notificationsPolicyButton.accesskey  "v">
-<!ENTITY  notificationsPolicyButton.label      "Izavieleit...">
 <!ENTITY  notificationsDoNotDisturb.label      "Do not disturb me">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "No notification will be shown until you restart &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Izjāmumi...">
-<!ENTITY  popupExceptions.accesskey   "I">
+<!ENTITY  popupExceptions.label                                 "Izjāmumi...">
+<!ENTITY  popupExceptions.accesskey                             "I">
+
+<!ENTITY  notificationPermissions.label                         "Paziņuojumi">
+<!ENTITY  notificationSettingsButton.label                      "Īstatiejumi…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Uzzynojit vairuok">
+
+<!ENTITY  locationPermissions.label                             "Atsarasšona vīta">
+<!ENTITY  locationSettingsButton.label                          "Īstatiejumi…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Īstatiejumi…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Mikrofons">
+<!ENTITY  microphoneSettingsButton.label                        "Īstatiejumi…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "Fonti i kruosys">
 
-<!ENTITY  defaultFont.label           "Nūkluseitais fonts:">
-<!ENTITY  defaultFont.accesskey       "N">
-<!ENTITY  defaultSize.label           "Izmārs:">
-<!ENTITY  defaultSize.accesskey       "s">
+<!ENTITY  defaultFont2.label          "Nūklusiejuma fonts">
+<!ENTITY  defaultFont2.accesskey      "N">
+<!ENTITY  defaultSize2.label          "Izmārs">
+<!ENTITY  defaultSize2.accesskey      "s">
 
 <!ENTITY  advancedFonts.label         "Īstatiejumi...">
 <!ENTITY  advancedFonts.accesskey     "a">
@@ -33,7 +45,7 @@
 <!ENTITY  colors.accesskey            "K">
 
 
-<!ENTITY languages.label              "Volūdys">
+<!ENTITY language2.label              "Language">
 <!ENTITY chooseLanguage.label         "Izavielit vālamū volūdu, kaidā attāluot lopys">
 <!ENTITY chooseButton.label           "Izavieleit...">
 <!ENTITY chooseButton.accesskey       "v">
@@ -53,8 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Translations by">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM saturs">
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) Content">
 
-<!ENTITY  playDRMContent.label         "Atskaņuot DRM saturu">
-<!ENTITY  playDRMContent.accesskey     "A">
+<!ENTITY  playDRMContent2.label          "Play DRM-controlled content">
+<!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "Uzzynojit vairuok">

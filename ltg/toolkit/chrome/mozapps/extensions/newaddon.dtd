@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Instaleit papyldynuojumu">
-<!ENTITY intro           "Kaida cyta programa jiusu datorā vālās/gryb maineit &brandShortName; ar sekūjūšu papyldynuojumu:">
+<!ENTITY intro           "Kaida cyta programa jiusu datorā vālās maineit &brandShortName; ar sekūjūšu papyldynuojumu:">
 <!ENTITY warning         "Instalejit vīneigi uztycamu autoru papyldynuojums.">
 <!ENTITY allow           "Atļaut instaliešonu">
 <!ENTITY later           "Jius vīnmār varot maineit sovys dūmys attaisūt papyldynuojumu puorvaļdnīku.">

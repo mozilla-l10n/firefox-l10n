@@ -12,17 +12,25 @@
 <!ENTITY  prefWinMinSize.styleWin2      "width: 50em; min-height: 39em;">
 <!ENTITY  prefWinMinSize.styleMac       "width: 55em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
+<!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
+     of the search field in about:preferences, in order to make entire placeholder
+     string visible -->
 
-<!ENTITY  paneGeneral.title       "Golvonī">
-<!ENTITY  paneTabs.title          "Cilnes">
-<!ENTITY  paneSearch.title        "Mekliešona">
-<!ENTITY  paneContent.title       "Saturs">
-<!ENTITY  paneApplications.title  "Programys">
-<!ENTITY  panePrivacy.title       "Privatums">
-<!ENTITY  paneSecurity.title      "Drūseiba">
-<!ENTITY  paneAdvanced.title      "Papyldu">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  searchField.width             "15.4em">
 
-<!ENTITY  paneSync.title          "Sync">
+<!ENTITY  paneSearchResults.title       "Mekliešonys rezultati">
+<!ENTITY  paneGeneral.title             "Golvonī">
+<!ENTITY  paneSearch.title              "Mekleit">
+<!ENTITY  paneFilesApplications.title   "Faili i programys">
+<!ENTITY  panePrivacySecurity.title     "Privatums i drūseiba">
+<!ENTITY  paneContainers.title          "Container Tabs">
+<!ENTITY  paneUpdates.title             "Atjaunynuojumi">
 
-<!ENTITY  helpButton.label        "Paleidzeiba">
+<!ENTITY  languageAndAppearance.label   "Language and Appearance">
+<!ENTITY  filesAndApplications.label    "Faili i programys">
+<!ENTITY  browserPrivacy.label          "Puorlūka privatums">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+<!ENTITY  paneSync1.title          "Firefox konts">
+
+<!ENTITY  helpButton2.label        "&brandShortName; pabolsts">

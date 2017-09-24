@@ -9,7 +9,7 @@
 <!ENTITY previous.tooltip "Mekleit frāzi virzīnī iz suokumu">
 <!ENTITY findCloseButton.tooltip "Aiztaiseit mekliešonys jūslu">
 <!ENTITY highlightAll.label "Izcelt vysys">
-<!ENTITY highlightAll.accesskey "I">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Izcelt frāzi vysā tekstā">
 <!ENTITY caseSensitive.label "Lelū, mozū burtu atbiļsteiba">
 <!ENTITY caseSensitive.accesskey "L">

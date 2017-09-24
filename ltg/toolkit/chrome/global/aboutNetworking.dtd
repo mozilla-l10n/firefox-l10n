@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Automatiski atjaunynuot kotrys 3 sekundes">
 <!ENTITY aboutNetworking.hostname              "Adress">
 <!ENTITY aboutNetworking.port                  "Ports">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktivs">
 <!ENTITY aboutNetworking.idle                  "Deikstavē">
@@ -29,7 +29,30 @@
 <!ENTITY aboutNetworking.messagesReceived      "Sajimtī ziņuojumi">
 <!ENTITY aboutNetworking.bytesSent             "Nūsyuteitī baiti">
 <!ENTITY aboutNetworking.bytesReceived         "Sajimtī baiti">
+<!ENTITY aboutNetworking.logging               "Logging">
+<!ENTITY aboutNetworking.logTutorial           "See <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> for instructions on how to use this tool.">
+<!ENTITY aboutNetworking.currentLogFile        "Pošreizejais registracejis fails:">
+<!ENTITY aboutNetworking.currentLogModules     "Pošreizejais registracejis moduls:">
+<!ENTITY aboutNetworking.setLogFile            "Set Log File">
+<!ENTITY aboutNetworking.setLogModules         "Set Log Modules">
+<!ENTITY aboutNetworking.startLogging          "Start Logging">
+<!ENTITY aboutNetworking.stopLogging           "Stop Logging">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
 <!ENTITY aboutNetworking.dnsLookupButton       "Atrast">
 <!ENTITY aboutNetworking.dnsDomain             "Domens">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN statuss">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
+<!ENTITY aboutNetworking.rcwnOperation         "Kešatminis darbeiba">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Attaiseit">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Skaiteit">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Raksteit">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Attaiseits īroksts">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Eiss videjais">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Garš videjais">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">

@@ -6,14 +6,10 @@
 
 <!ENTITY generalTab.label                "Vyspuoriejs">
 
-<!ENTITY accessibility.label             "Pīejameiba">
-
 <!ENTITY useCursorNavigation.label       "Vīnmār izmantuot kursora tausteņus, kab puorvītuotūs pa lopom">
 <!ENTITY useCursorNavigation.accesskey   "k">
-<!ENTITY searchStartTyping.label         "Mekleit raksteitū tekstu, koleidz es suoku raksteit">
-<!ENTITY searchStartTyping.accesskey     "t">
-<!ENTITY blockAutoRefresh.label          "Breidynuot mani, nui sātys lopa rauga puorluodeitīs voi puorsyuteit mani iz cytu lopu">
-<!ENTITY blockAutoRefresh.accesskey      "B">
+<!ENTITY searchOnStartTyping.label       "Mekleit raksteitū tekstu, koleidz es suoku raksteit">
+<!ENTITY searchOnStartTyping.accesskey   "M">
 <!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -23,31 +19,31 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Lītuot plyudenū rytynuošonu">
 <!ENTITY useSmoothScrolling.accesskey    "L">
-<!ENTITY allowHWAccel.label              "Nui pīejams, izmantuot aparaturys pauotrynuojumu">
-<!ENTITY allowHWAccel.accesskey          "r">
-<!ENTITY checkSpelling.label             "Rokstūt puorbaudeit pareizraksteibu">
-<!ENTITY checkSpelling.accesskey         "R">
+<!ENTITY checkUserSpelling.label         "Rokstūt puorbaudeit pareizraksteibu">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Datu izviele">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
-<!ENTITY healthReportDesc.label          "Paleidz izprast jiusu puorlūka veiktspieju i syuta itūs datus par puorlūka stuovūkli &vendorShortName;">
-<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; stuovūkļa ziņuojumu">
-<!ENTITY enableHealthReport.accesskey    "v">
+<!ENTITY healthReportingDisabled.label   "Data reporting is disabled for this build configuration">
+
+<!ENTITY enableHealthReport2.label       "Allow &brandShortName; to send technical and interaction data to Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Uzzynojit vairuok">
 
-<!ENTITY telemetryDesc.label             "Nūsyuta aparaturys parametru, to veiktspiejis, lītuošonys i puorlūka pīlāguojumu informaceju &vendorShortName;, kab paleidzeitu uzlobuot &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Daleitīs ar papyldus datym (pīm. Telemetreju)">
-<!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Uzzynojit vairuok">
+<!ENTITY dataCollection.label            "&brandShortName; datu vuokšona i izmontuošona">
+<!ENTITY dataCollectionDesc.label        "We strive to provide you with choices and collect only what we need to provide and improve &brandShortName; for everyone. We always ask permission before receiving personal information.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Privatuma pīzeime">
 
-<!ENTITY crashReporterDesc2.label         "Avareju ziņuojumi paleidz &vendorShortName; salobuot problemys i padareit jiusu puorlyuku drūsuoku i stabiluoku">
-<!ENTITY alwaysSubmitCrashReports.label   "Allow &brandShortName; to send backlogged crash reports on your behalf">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Uzzynojit vairuok">
+<!ENTITY alwaysSubmitCrashReports1.label  "Ļaut &brandShortName; syuteit avarejis zinuojumus Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Uzzynojit vairuok">
 
 <!ENTITY networkTab.label                "Teikls">
 
-<!ENTITY connection.label                "Savīnuojums">
+<!ENTITY networkProxy.label              "Teikla storpnīkserveris">
 
 <!ENTITY connectionDesc.label            "Konfigureit, kai &brandShortName; savīnojās ar Šķārsteiklu">
 <!ENTITY connectionSettings.label        "Īstatiejumi...">
@@ -56,6 +52,14 @@
 <!ENTITY httpCache.label                 "Saglobuotais šķārsteikla saturs">
 
 <!ENTITY offlineStorage2.label           "Nasaistis šķārsteikla saturs i lītuotuoja dati">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+<!ENTITY siteData.label                  "Lopys dati">
+<!ENTITY clearSiteData.label             "Izdzēst vysus datus">
+<!ENTITY clearSiteData.accesskey         "v">
+<!ENTITY siteDataSettings.label          "Īstatiejumi...">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Uzzynojit vairuok">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -74,46 +78,71 @@
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "Atjaunynuot">
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 
-<!ENTITY updateApp.label                 "&brandShortName; atjaunynuojumi:">
-<!ENTITY updateAuto1.label               "Instaleit atjaunynuojumus automatiski (īteicams: uzloboj drūseibu)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheck.label               "Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs">
-<!ENTITY updateCheck.accesskey           "u">
-<!ENTITY updateManual.label              "Napuorbaudeit atjaunynuojumu pīejameibu (nav īteicams: drūseibys risks)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApplication.label         "&brandShortName; atjaunynuojumi">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplicationDescription.label "Keep &brandShortName; up to date for the best performance, stability, and security.">
+<!ENTITY updateApplication.version.pre   "Verseja ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Ļaut &brandShortName;">
+<!ENTITY updateAuto3.label               "Automatically install updates (recommended)">
+<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs">
+<!ENTITY updateCheckChoose2.accesskey    "P">
+<!ENTITY updateManual2.label             "Nikod napuorbaudeit atjaunynuojumus (nav īteicams)">
+<!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory.label             "Paruodeit atjaunynuojumu viesturi">
-<!ENTITY updateHistory.accesskey         "P">
+<!ENTITY updateHistory2.label            "Paruodeit atjaunynuojumu viesturi…">
+<!ENTITY updateHistory2.accesskey        "v">
 
 <!ENTITY useService.label                "Instaleit atjaunynuojumus fonā">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY updateOthers.label              "Automatiski atjaunynuot:">
-<!ENTITY enableSearchUpdate.label        "Meklietuojus">
-<!ENTITY enableSearchUpdate.accesskey    "l">
+<!ENTITY enableSearchUpdate2.label       "Automatiski atjaunynuot meklietuojus">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
-<!ENTITY offlineNotify.label             "Ziņuot maņ, kod sātys lopa gryb saglobuot datus izmontuošonai nasaistī">
-<!ENTITY offlineNotify.accesskey         "t">
-<!ENTITY offlineNotifyExceptions.label   "Izjāmumi...">
-<!ENTITY offlineNotifyExceptions.accesskey "m">
+<!ENTITY offlineStorageNotify.label               "Ziņuot maņ, kod sātys lopa gryb saglobuot datus izmontuošonai nasaistī">
+<!ENTITY offlineStorageNotify.accesskey           "Z">
+<!ENTITY offlineStorageNotifyExceptions.label     "Izjāmumi...">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
-<!ENTITY offlineAppsList2.label          "Itom sātys lopom ir atļauts globoj datus izmontuošonai nasaistī:">
+<!ENTITY offlineAppsList3.label          "Itom sātys lopom ir atļauts globoj datus izmontuošonai nasaistī">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Aizvuokt...">
 <!ENTITY offlineAppsListRemove.accesskey "A">
 <!ENTITY offlineAppRemove.confirm        "Aizvuokt nasaistis datus">
 
 <!ENTITY certificateTab.label            "Sertifikati">
-<!ENTITY certSelection.label             "Pīprasiejumi">
-<!ENTITY certSelection.description       "Kod serveris pīprosa munu personeigū sertifikatu:">
-<!ENTITY certs.auto                      "Izavieleit automatiski">
-<!ENTITY certs.auto.accesskey            "S">
-<!ENTITY certs.ask                       "Kotru reizi vaicuot maņ">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certPersonal2.description       "Kod serveris pīprosa munu personeigū sertifikatu">
+<!ENTITY selectCerts.auto                "Izavieleit automatiski">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Kotru reizi vaicuot maņ">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "Apsavērt sertifikatus">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY viewSecurityDevices.label       "Drūseibys īrīces">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewCerts2.label                "Apsavērt sertifikatus…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Drūseibys īrīces…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
+
+<!ENTITY performance.label               "Performance">
+<!ENTITY useRecommendedPerformanceSettings2.label "Use recommended performance settings">
+<!ENTITY useRecommendedPerformanceSettings2.description "These settings are tailored to your computer’s hardware and operating system.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
+<!ENTITY performanceSettingsLearnMore.label "Uzzynojit vairuok">
+<!ENTITY limitContentProcessOption.label "Satura procesu limits">
+<!ENTITY limitContentProcessOption.description "Additional content processes can improve performance when using multiple tabs, but will also use more memory.">
+<!ENTITY limitContentProcessOption.accesskey   "l">
+<!ENTITY limitContentProcessOption.disabledDescription "Modificeit satura procesu skaitu ir īspiejama tikai ar vairuoku procesu &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Kai puorbaudeit, voi pīejams vairuoku procesu režyms">
+<!ENTITY allowHWAccel.label              "Nui pīejams, izmantuot aparaturys pauotrynuojumu">
+<!ENTITY allowHWAccel.accesskey          "r">

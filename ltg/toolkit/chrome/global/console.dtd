@@ -27,7 +27,7 @@
 
 <!ENTITY copyCmd.label       "Kopēt">  
 <!ENTITY copyCmd.accesskey   "K"> 
-<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY copyCmd.commandkey  "K"> 
 <!ENTITY sortFirst.label     "Pyrmais > Piedejais kuortuošonys seceiba">
 <!ENTITY sortFirst.accesskey "P">
 <!ENTITY sortLast.label      "Piedejais > Pyrmais kuortuošonys seceiba">

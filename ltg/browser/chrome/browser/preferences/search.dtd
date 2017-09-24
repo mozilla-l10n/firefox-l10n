@@ -2,23 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Mekliešonys jūsla">
+
+<!ENTITY searchBar.hidden.label                "Izmantuot adresu jūslu mekliešonai i adresim">
+<!ENTITY searchBar.shown.label                 "Pīvīnuot mekliešonys jūslu reikjūslai">
+
 <!ENTITY defaultSearchEngine.label             "Nūkluseitais mekleituojs">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Choose the default search engine to use in the address bar and search bar.">
 
 <!ENTITY provideSearchSuggestions.label        "Provide search suggestions">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions2.label           "Ruodeit mekliešonys īteikumus adresu juslā">
+<!ENTITY showURLBarSuggestions2.accesskey       "R">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">
 
-<!ENTITY redirectWindowsSearch.label "Izmantuot itū mekleituoju, kab mekleitu nu Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
+<!ENTITY oneClickSearchEngines.label           "One-Click Search Engines">
 
-<!ENTITY oneClickSearchEngines.label           "One-click search engines">
-
-<!ENTITY chooseWhichOneToDisplay.label         "Mekliešonys juslā var byut vairuoki mekleituoji. Izavielit, kurus attāluot itymā juslā.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.">
 
 <!ENTITY engineNameColumn.label                "Mekleituoji">
 <!ENTITY engineKeywordColumn.label             "Atslāgi vuords">
@@ -29,4 +31,4 @@
 <!ENTITY removeEngine.label                    "Aizvuokt">
 <!ENTITY removeEngine.accesskey                "z">
 
-<!ENTITY addMoreSearchEngines.label            "Pīvīnuot meklietuojus…">
+<!ENTITY findMoreSearchEngines.label           "Pīvīnuot meklietuojus">

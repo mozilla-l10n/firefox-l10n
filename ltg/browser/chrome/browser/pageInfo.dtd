@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "Vyspuorejuo">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Viersroksts:">
 <!ENTITY  generalURL            "Adress:">
 <!ENTITY  generalType           "Tips:">
 <!ENTITY  generalMode           "Rendereišonys režyms:">
@@ -59,7 +60,7 @@
 <!ENTITY  permPlugins           "Aktivizēt spraudņus">
 
 <!ENTITY  permClearStorage           "Izteireit globuotuvi">
-<!ENTITY  permClearStorage.accesskey "C">
+<!ENTITY  permClearStorage.accesskey "z">
 
 <!ENTITY  securityTab           "Drūseiba">
 <!ENTITY  securityTab.accesskey "S">
@@ -72,6 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Eipašnīks: ">
 <!ENTITY  securityView.identity.domain   "Sātys lopa: ">
 <!ENTITY  securityView.identity.verifier "Puorbaudiejs: ">
+<!ENTITY  securityView.identity.validity "Dereigs leidz:">
 
 <!ENTITY  securityView.privacy.header                   "Privatums i viesture">
 <!ENTITY  securityView.privacy.history                  "Voi es itū lopu šudiņ jau asmu apmekliejs?">
