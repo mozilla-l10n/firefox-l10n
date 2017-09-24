@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Изаберите примаоца из именика">
 <!ENTITY attachButton.tooltip "Укључи прилог">
 <!ENTITY spellingButton.tooltip "Провери правопис одабраног дела или целе поруке">
-<!ENTITY statusLanguageText.tooltip "Језик провере правописа">
 <!ENTITY saveButton.tooltip "Сачувај ову поруку">
 <!ENTITY cutButton.tooltip              "Исеци">
 <!ENTITY copyButton.tooltip             "Копирај">
@@ -309,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Прилагоди из адресе…">
 <!ENTITY customizeFromAddress.accesskey "А">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Језик провере правописа">
+<!ENTITY encodingStatusPanel.tooltip "Кодирање текста">
