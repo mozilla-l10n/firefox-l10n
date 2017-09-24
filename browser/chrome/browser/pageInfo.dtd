@@ -30,14 +30,14 @@
 <!ENTITY  mediaTab              "Multimédia">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Localização:">
-<!ENTITY  mediaText             "Texto Associado:">
+<!ENTITY  mediaText             "Texto associado:">
 <!ENTITY  mediaAltHeader        "Texto alternativo">
 <!ENTITY  mediaAddress          "Endereço">
 <!ENTITY  mediaType             "Tipo">
 <!ENTITY  mediaSize             "Tamanho">
 <!ENTITY  mediaCount            "Contador">
 <!ENTITY  mediaDimension        "Dimensões:">
-<!ENTITY  mediaLongdesc         "Descrição Longa:">
+<!ENTITY  mediaLongdesc         "Descrição longa:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Guardar como…">
 <!ENTITY  mediaSaveAs.accesskey "G">
