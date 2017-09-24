@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Izvuci me odavdje!">
-<!ENTITY safeb.palm.decline.label "Zanemari ovo upozorenje">
+<!ENTITY safeb.palm.accept.label2 "Idi natrag">
+<!ENTITY safeb.palm.seedetails.label "Pogledajte detalje">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,35 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Zašto je ova stranica blokirana?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Savjetovanje pruža <a id='advisory_provider'/>">
 
-<!ENTITY safeb.blocked.malwarePage.title "Prijavljena zloćudna stranica!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Web stranica <span id='malware_sitename'/> je prijavljena kao zloćudna stranica i blokirana je na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Zloćudne stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaše računalo za napade na druga računala ili oštećuju vaš sustav.</p><p>Neke zloćudne stranice namjerno distribuiraju zloćudne programe, ali isto tako postoji mnogo stranica koje su izmijenjene bez znanja i dozvole njihovih vlasnika.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "Prijavljena stranica s neželjenim softverom!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Web stranica <span id='unwanted_sitename'/> je prijavljena jer sadrži neželjeni softver, te je blokirana na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Stranice s nepoželjnim softverom pokušavaju instalirati softver koji može prevariti korisnike i utjecati na vaš sustav na nepredvidljivi način.</p>">
+<!ENTITY safeb.blocked.malwarePage.title2 "Posjećivanje ove stranice može naštetiti vašem računalu">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Obmanjujuća stranica!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Web stranica <span id='phishing_sitename'/> je prijavljena kao obmanjujuća i blokirana je na temelju vaših sigurnosnih postavki.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Obmanjujuće će vas stranice pokušati natjerati da napravite ono što inače ne biste, recimo da instalirate neki program ili otkrite osobne informacije poput lozinki, telefonskih brojeva ili brojeva kreditnih kartica.</p><p>Otkrivanjem bilo koje informacije na ovoj stranici može rezultirati krađom identiteta ili kojom drugom vrstom prijevare.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+<!ENTITY safeb.blocked.unwantedPage.title2 "Sljedeća stranica može sadržavati zlonamjerne programe">
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Sljedeća stranica može sadržavati zlonamjerni softver">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; je blokirao ovu stranicu iz razloga što možda pokušava instalirati zlonamjerne aplikacije koje kradu ili brišu vaše podatke (npr. slike, lozinke, poruke i kreditne kartice).">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
