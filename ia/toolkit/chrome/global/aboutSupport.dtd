@@ -104,6 +104,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Functionalitates inactive de protection contra collapso">
 
+<!ENTITY aboutSupport.mediaTitle "Media">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Apparatos de exita">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Apparatos de entrata">
 <!ENTITY aboutSupport.mediaDeviceName "Nomine">
 <!ENTITY aboutSupport.mediaDeviceGroup "Gruppo">
 <!ENTITY aboutSupport.mediaDeviceVendor "Venditor">
