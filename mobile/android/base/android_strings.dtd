@@ -386,7 +386,7 @@
 <!ENTITY pref_dialog_default "ค่าเริ่มต้น">
 <!ENTITY pref_dialog_remove "เอาออก">
 <!ENTITY pref_dialog_activitystream_header_content "เนื้อหาเพิ่มเติม">
-<!ENTITY pref_dialog_activitystream_recentBookmarks "ที่คั่นหน้าเมื่อเร็ว ๆ นี้">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "ที่คั่นหน้าล่าสุด">
 <!ENTITY pref_dialog_activitystream_visited "เยี่ยมชมแล้ว">
 
 <!ENTITY pref_search_last_toast "คุณไม่สามารถเอาออกหรือปิดใช้งานเครื่องมือค้นหาตัวสุดท้ายของคุณ">
@@ -581,7 +581,7 @@
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
 <!ENTITY home_closed_tabs_title2 "เพิ่งปิด">
-<!ENTITY home_last_tabs_empty "แท็บเมื่อเร็ว ๆ นี้ของคุณจะแสดงที่นี่">
+<!ENTITY home_last_tabs_empty "แท็บล่าสุดของคุณจะแสดงที่นี่">
 <!ENTITY home_restore_all "เรียกคืนทั้งหมด">
 <!ENTITY home_closed_tabs_number "&formatD; แท็บ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
