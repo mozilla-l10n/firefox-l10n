@@ -39,7 +39,7 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Ако овој производ вклучува мрежни сервиси, било кои применливи услови за сервисот/ите треба да бидат забележани во делот за ">
-<!ENTITY rights.intro-point4b-unbranded "сервиси за мрежни места">
+<!ENTITY rights.intro-point4b-unbranded "Сервиси за мрежни места">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Мрежни информациски сервиси">

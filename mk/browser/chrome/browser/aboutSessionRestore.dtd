@@ -6,16 +6,10 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Уфф, ова е засрамувачки.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; има проблем да ги врати назад Вашите прозорци и јазичиња. Најчесто причината за ова е некоја скоро отворена страница.">
-<!ENTITY restorepage.tryThis        "Може да се обидете да:">
-<!ENTITY restorepage.restoreSome    "отстраните едно или повеќе јазичиња за кои се сомневате дека го предизвикале проблемот">
-<!ENTITY restorepage.startNew       "стартувате сосема нова сесија во прелистувачот">
+<!ENTITY restorepage.errorTitle2    "Извинете. Имаме проблеми со враќањето на вашите страници.">
 
-<!ENTITY restorepage.tryagainButton "Реконструирај">
-<!ENTITY restorepage.restore.access "р">
-<!ENTITY restorepage.closeButton    "Затвори">
-<!ENTITY restorepage.close.access   "З">
+<!ENTITY restorepage.tryagainButton2 "Врати сесија">
+<!ENTITY restorepage.closeButton2    "Започни нова сесија">
 
 <!ENTITY restorepage.restoreHeader  "Врати">
 <!ENTITY restorepage.listHeader     "Прозорци и јазичиња">
@@ -34,8 +28,6 @@
 <!ENTITY welcomeback2.pageTitle     "Успех!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; веќе се користи.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Вратете ги сите прозорци и јазичиња">
-<!ENTITY welcomeback2.label.restoreSome "Вратете ги само тие што сакате">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

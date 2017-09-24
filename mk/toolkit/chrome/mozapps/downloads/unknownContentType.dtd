@@ -16,6 +16,7 @@
 <!ENTITY  rememberChoice.label        "Од сега па натаму прави го ова автоматски со сите вакви датотеки.">
 <!ENTITY  rememberChoice.accesskey    "а">
 
+<!ENTITY  whichIs.label              "која е:">
 
 <!ENTITY  chooseHandlerMac.label      "Изберете…">
 <!ENTITY  chooseHandlerMac.accesskey  "з">
