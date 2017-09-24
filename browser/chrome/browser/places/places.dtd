@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Добавлена">
 <!ENTITY col.lastmodified.label  "Посл. изменение">
 
-<!ENTITY search.placeholder  "Поиск">
+<!ENTITY historySearch.placeholder  "Поиск по журналу">
+<!ENTITY bookmarksSearch.placeholder  "Поиск закладок">
 
 <!ENTITY cmd.find.key  "f">
 

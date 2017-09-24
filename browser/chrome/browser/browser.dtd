@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Включите синхронизацию вкладок, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Поиск облачных вкладок">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Включить защиту">
 <!ENTITY trackingProtection.block2.accesskey "ю">
 
-<!ENTITY trackingContentBlocked.message "Отслеживание">
-<!ENTITY trackingContentBlocked.moreinfo "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
-<!ENTITY trackingContentBlocked.learnMore "Подробнее">
-<!ENTITY trackingContentBlocked.options "Настройки">
-<!ENTITY trackingContentBlocked.unblock2.label "Отключить защиту для этого сайта">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "ю">
-<!ENTITY trackingContentBlocked.block.label "Включить защиту">
-<!ENTITY trackingContentBlocked.block.accesskey "к">
-<!ENTITY trackingContentBlocked.disabled.message "Защита от отслеживания отключена">
-
 <!ENTITY pluginNotification.showAll.label "Показать все">
 <!ENTITY pluginNotification.showAll.accesskey "о">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Поддержка доступности включена">

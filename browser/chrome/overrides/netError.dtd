@@ -18,16 +18,15 @@
 <!ENTITY deniedPortAccess.title "Обращение к данному адресу заблокировано">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Сервер не найден">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "Сервер не найден">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Хмм. Нам не удаётся найти этот сайт.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Если этот адрес корректен, вы можете попробовать выполнить следующие действия:</strong>
 <ul>
-  <li>Проверьте, не допущена ли ошибка при наборе адреса, например,
-    <strong>ww</strong>.test.ru вместо
-    <strong>www</strong>.test.ru</li>
-  <li>Если ни одна страница не загружается – проверьте настройки соединения
-    с Интернетом.</li>
-  <li>Если компьютер или сеть защищены межсетевым экраном или прокси-сервером – убедитесь,
-     что &brandShortName; разрешён выход в Интернет.</li>
+  <li>Повторить попытку позже.</li>
+  <li>Проверить своё соединение с сетью.</li>
+  <li>Если вы соединились с Интернетом, но защищены межсетевым экраном, проверьте, что &brandShortName; разрешен доступ в Интернет.</li>
 </ul>
 ">
 
@@ -57,15 +56,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Открыть страницу входа в сеть">
 
-<!ENTITY malformedURI.title "Формат адреса неверен">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Адреса веб-сайтов обычно записываются в формате
-    <strong>http://www.test.ru/</strong></li>
-  <li>Убедитесь, что вы используете в качестве разделителя прямую косую черту (т.е.
-     <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Некорректный URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Хмм. Этот адрес не выглядит правильным.">
 
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
