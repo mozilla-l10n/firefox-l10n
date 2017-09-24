@@ -10,6 +10,8 @@
 
 
 
+<!ENTITY shrinkToFit.label   "Adaptar se al largor del pagina">
+<!ENTITY shrinkToFit.accesskey "W">
 
 
 
@@ -25,3 +27,4 @@
 
 <!ENTITY hfTitle             "Titulo">
 
+<!ENTITY customPrompt.title  "Personalisar…">

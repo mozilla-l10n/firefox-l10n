@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pageSetup.label      "Configurar le pagina…">
-<!ENTITY ShrinkToFit.label    "Adaptar se al largor">
-<!ENTITY customPrompt.title   "Personalisar le scala…">
+<!-- extracted from printjoboptions.xul -->
+
+<!ENTITY printJobOptions.title "Proprietates del impressor">
+
+
+
 
