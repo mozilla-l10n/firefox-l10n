@@ -6,14 +6,17 @@
 
 <!ENTITY defaultSearchEngine.label             "Основен пребарувач">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Изберете го основниот пребарувач кој ќе се користи во лентата за адреси и пребарување.">
 
 <!ENTITY provideSearchSuggestions.label        "Прикажувај предлог-пребарувања">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions2.label           "Прикажувај предлози за пребарување во лентата за адреси">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Предлог-пребарувањата нема да се прикажуваат во резултатите во адресната лента бидејќи &brandShortName; е прилагоден никогаш да не ја снима историјата на прелистување.">
 
 <!ENTITY oneClickSearchEngines.label           "Пребарувачи на еден клик">
 
+<!ENTITY chooseWhichOneToDisplay2.label         "Изберете ги алтернативните пребарувачи кои се прикажуваат под лентата за адреси и пребарување при внес на нов клучен збор.">
 
 <!ENTITY engineNameColumn.label                "Пребарувач">
 <!ENTITY engineKeywordColumn.label             "Клучен збор">
