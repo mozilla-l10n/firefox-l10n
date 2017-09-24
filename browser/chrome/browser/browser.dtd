@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ค้นหาแท็บที่ซิงค์">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
