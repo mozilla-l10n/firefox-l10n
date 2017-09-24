@@ -67,6 +67,7 @@
 <!ENTITY fxaccount_status_history 'Cronologia'>
 <!ENTITY fxaccount_status_passwords2 'Infurmaziuns d\&apos;annunzia'>
 <!ENTITY fxaccount_status_tabs 'Tabs averts'>
+<!ENTITY fxaccount_status_additional_settings 'Parameters supplementars'>
 <!ENTITY fxaccount_status_legal 'Indicaziuns giuridicas' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
