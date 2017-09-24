@@ -20,7 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "سرور پیدا نشد">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "آممم. ما مقدار مشکل در پیدا کردن این پایگاه اینترنتی داریم.">
+<!ENTITY dnsNotFound.title1 "آممم. ما کمی مشکل در پیدا کردن این پایگاه اینترنتی داریم.">
 <!ENTITY dnsNotFound.longDesc1 "<strong> اگر این آدرس درست است،‌ اینجا سه چیز دیگر وجود دارد که شما باید امتحان کنید:</strong><ul>
   <li>بعدا دوباره تلاش کنید.</li>
   <li>شبکه خود را بررسی کنید.</li>
