@@ -20,13 +20,13 @@
 
 <!ENTITY dnsNotFound.pageTitle "Сервер не знайдено">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Гмм. Ніяк не виходить знайти цей сайт.">
+<!ENTITY dnsNotFound.title1 "Гмм. Ніяк не вдається знайти цей сайт.">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>Якщо ви впевнені у правильності адреси, є ще три інші речі, які ви можете зробити:</strong>
 <ul>
   <li>Спробуйте ще раз пізніше.</li>
   <li>Перевірте ваше мережеве з'єднання.</li>
-  <li>Якщо ви під'єднані, але з брандмауером, перевірте що &brandShortName; дозволений доступ до Інтернету.</li>
+  <li>Якщо ви під'єднані, але з брандмауером, перевірте чи для &brandShortName; дозволений доступ до Інтернету.</li>
 </ul>
 ">
 
@@ -57,9 +57,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Відкрити сторінку входу в мережу">
 
-<!ENTITY malformedURI.pageTitle "Помилкова адреса URL">
+<!ENTITY malformedURI.pageTitle "Недійсна URL-адреса">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Гмм. Ця адреса не виглядає правильною.">
+<!ENTITY malformedURI.title1 "Гмм. Схоже, ця адреса неправильна.">
 
 <!ENTITY netInterrupt.title "З’єднання перервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
