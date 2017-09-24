@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Hmm, ovo je neugodno.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ima problema sa vraćanjem vaših prozora i tabova. Ovo obično uzrokuje nedavno otvorena web stranica.">
-<!ENTITY restorepage.tryThis        "Možete pokušati:">
-<!ENTITY restorepage.restoreSome    "Uklanjanje jednog ili više tabova za koje mislite da uzrokuju probleme">
-<!ENTITY restorepage.startNew       "Započeti sasvim novu sesiju za surfanje">
+<!ENTITY restorepage.errorTitle2    "Žao nam je. Imamo problema s vraćanjem vaših stranica.">
+<!ENTITY restorepage.problemDesc2   "Imamo problema s vraćanjem vaše zadnje sesije surfanja. Izaberite Vrati sesiju za novi pokušaj.">
+<!ENTITY restorepage.tryThis2       "Još uvijek ne možete vratiti sesiju? Ponekad je tab uzrok problema. Pregledajte ranije tabove, uklonite oznaku sa tabova koji vam više ne trebaju, i pokušajte ponovo.">
 
-<!ENTITY restorepage.tryagainButton "Povrati">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Zatvori">
-<!ENTITY restorepage.close.access   "Z">
+<!ENTITY restorepage.tryagainButton2 "Vrati sesiju">
+<!ENTITY restorepage.restore.access2 "r">
+<!ENTITY restorepage.closeButton2    "Započni novu sesiju">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Povrati">
 <!ENTITY restorepage.listHeader     "Prozori i tabovi">
