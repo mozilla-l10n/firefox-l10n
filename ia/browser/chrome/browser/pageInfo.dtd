@@ -5,13 +5,43 @@
 
 
 
+<!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Adresse:">
+<!ENTITY  mediaAddress          "Adresse">
+<!ENTITY  mediaType             "Typo">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+
+<!ENTITY  feedTab               "Feeds">
+<!ENTITY  feedTab.accesskey     "F">
+<!ENTITY  feedSubscribe         "Subscriber">
+<!ENTITY  feedSubscribe.accesskey "u">
+
+<!ENTITY  permTab               "Permissiones">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permUseDefault        "Usar le predefinition">
+<!ENTITY  permAllow             "Permitter">
+<!ENTITY  permAllowSession      "Permitter pro le session">
+<!ENTITY  permBlock             "Blocar">
+
+<!ENTITY  permClearStorage.accesskey "C">
+
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityView.certView "Vider le certificato">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Incognite">
 
 
+<!ENTITY  securityView.identity.owner    "Proprietario:">
+<!ENTITY  securityView.identity.domain   "Sito web:">
+<!ENTITY  securityView.identity.verifier "Verificate per:">
+<!ENTITY  securityView.identity.validity "Expira le:">
 
+<!ENTITY  securityView.privacy.viewCookies              "Vider le cookies">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
+<!ENTITY  securityView.technical.header                 "Detalios technic">
 
-
-
-
-
+<!ENTITY  helpButton.label                              "Adjuta">

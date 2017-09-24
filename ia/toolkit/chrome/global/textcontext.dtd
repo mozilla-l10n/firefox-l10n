@@ -2,16 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY cutCmd.label "Taliar">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Collar">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY undoCmd.label "Disfacer">
+<!ENTITY undoCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Selectionar toto">
+<!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Deler">
+<!ENTITY deleteCmd.accesskey "d">
 
 <!ENTITY spellAddToDictionary.label "Adder al dictionario">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Disfacer le adder al dictionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Verificar le orthographia">
+<!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(Nulle suggestion orthographic)">
 <!ENTITY spellDictionaries.label "Linguas">
+<!ENTITY spellDictionaries.accesskey "l">
 
 <!ENTITY searchTextBox.clear.label "Vacuar">
 
+<!ENTITY fillLoginMenu.label          "Plena le authentication">
+<!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillPasswordMenu.label       "Inserer le contrasigno">
+<!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "Inserer le nomine de usator">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Nulle suggestiones de authentication)">
 <!ENTITY viewSavedLogins.label        "Vider le authenticationes salvate">
