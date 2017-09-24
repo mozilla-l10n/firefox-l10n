@@ -20,16 +20,20 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Бұл веб-сайтты шолу компьютеріңізді зақымдауы мүмкін.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; компьютеріңізде жеке ақпаратты ұрлау немесе өшіре алатын зиянкес бағдарламалық қамтаманы орната алатыны үшін бұл бетті бұғаттады.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> сайты <a id='error_desc_link'>зиянкес бағдарламалық қамтамасы бар ретінде хабарланған</a>. Сіз <a id='report_detection'>табылғаны туралы мәселені жібере аласыз</a>, немесе <a id='ignore_warning_link'>бұл тәуекелді елемей</a>, осы қауіпсіз емес сайтты шола аласыз.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> сайты <a id='error_desc_link'>зиянкес бағдарламалық қамтамасы бар ретінде хабарланған</a>. Сіз <a id='report_detection'>табылғаны туралы мәселені жібере аласыз</a>.">
 
 
 
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> сайты <a id='error_desc_link'>жағымсыз бағдарламалық қамтамасы бар ретінде хабарланған</a>. Сіз <a id='ignore_warning_link'>бұл тәуекелді елемей</a>, осы қауіпсіз емес сайтты шола аласыз.">
 
 
 
