@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Hakupalkki">
+
+<!ENTITY searchBar.hidden.label                "Käytä osoitepalkkia hakemiseen ja sivuille siirtymiseen">
+<!ENTITY searchBar.shown.label                 "Lisää hakupalkki työkalupalkkiin">
+
 <!ENTITY defaultSearchEngine.label             "Oletushakukone">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Valitse oletushakukone, jota käytetään osoite- ja hakupalkissa.">
