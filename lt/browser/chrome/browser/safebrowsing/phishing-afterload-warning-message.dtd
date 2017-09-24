@@ -59,3 +59,4 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Sužinokite daugiau apie „&brandShortName;“ apsaugą nuo sukčiavimo ir kenkėjiškų programų per <a id='firefox_support'>support.mozilla.org</a>.">
