@@ -83,18 +83,36 @@
 <!ENTITY cmd.preferencesWin.label             "Optiones">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
+<!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Super">
+<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Activar">
+<!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Inactivar">
+<!ENTITY cmd.disableAddon.accesskey           "D">
 <!ENTITY cmd.enableTheme.label                "Applicar le thema">
+<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.disableTheme.label               "Cessar le uso del thema">
+<!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "Demandar pro activar">
+<!ENTITY cmd.askToActivate.tooltip            "Demandar cata vice si usar iste additivo">
 <!ENTITY cmd.alwaysActivate.label             "Sempre activar">
+<!ENTITY cmd.alwaysActivate.tooltip           "Sempre usar iste additivo">
+<!ENTITY cmd.neverActivate.label              "Non activar jammais">
+<!ENTITY cmd.neverActivate.tooltip            "Non usar jammais iste additivo">
+<!ENTITY cmd.stateMenu.tooltip                "Cambiar quando iste additivo es activate">
 <!ENTITY cmd.installAddon.label               "Installar">
+<!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Remover">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Optiones">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Cambiar le optiones de iste additivo">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferentias">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Cambiar le preferentias de iste additivo">
 <!ENTITY cmd.contribute.label                 "Contribuer">
+<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.tooltip               "Contribuer al developpamento de iste additivo">
 
 <!ENTITY cmd.showReleaseNotes.label           "notas del revision">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Monstrar le notas de revision de iste actualisation">
@@ -105,6 +123,12 @@
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+<!ENTITY discover.title                       "Que es additivos?">
+<!ENTITY discover.description2                "Le additivos es applicationes que te permitte de personalisar &brandShortName; con 
+  functionalitate o stilo extra. Essaya un barra lateral utile pro te, un notificator de conditiones climatic, o un apparentia personalisate pro facer &brandShortName;
+  a tu gusto.">
+<!ENTITY discover.footer                      "Quando tu es connectite a Internet, iste pannello te presentara
+  alcun del melior e plus popular additivos a fin que tu los experimenta.">
 
 <!-- detail view -->
 <!ENTITY detail.version.label                 "Version">
@@ -113,64 +137,126 @@
 <!ENTITY detail.homepage.label                "Pagina initial">
 <!ENTITY detail.numberOfDownloads.label       "Discargas">
 
+<!ENTITY detail.contributions.description     "Le developpator de iste additivo demanda que vos le adjuta assecurar su developpamento continue faciente un parve contribution.">
 
+<!ENTITY detail.updateType                    "Actualisationes automatic">
 <!ENTITY detail.updateDefault.label           "Predefinite">
+<!ENTITY detail.updateDefault.tooltip         "Installa automaticamente le actualisationes solo si isto es predefinite">
 <!ENTITY detail.updateAutomatic.label         "Active">
+<!ENTITY detail.updateAutomatic.tooltip       "Installae automaticamente le actualisationes">
 <!ENTITY detail.updateManual.label            "Inactive">
+<!ENTITY detail.updateManual.tooltip          "Non installar automaticamente le actualisationes">
+<!ENTITY detail.home                          "Pagina initial">
+<!ENTITY detail.repository                    "Profilo del additivo">
+<!ENTITY detail.size                          "Dimension">
 
+<!ENTITY detail.checkForUpdates.label         "Recercar actualisationes">
+<!ENTITY detail.checkForUpdates.accesskey     "F">
+<!ENTITY detail.checkForUpdates.tooltip       "Recercar actualisationes pro iste additivo">
 <!ENTITY detail.showPreferencesWin.label      "Optiones">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.tooltip    "Cambiar le optiones de iste additivo">
 <!ENTITY detail.showPreferencesUnix.label     "Preferentias">
+<!ENTITY detail.showPreferencesUnix.accesskey "P">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Cambiar le preferentias de iste additivo">
 
 
 <!-- ratings -->
 <!ENTITY rating2.label                        "Evalutation">
 
 <!-- download/install progress -->
+<!ENTITY progress.pause.tooltip               "Pausar">
+<!ENTITY progress.cancel.tooltip              "Cancellar">
 
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Nomine">
+<!ENTITY sort.name.tooltip                    "Ordinar per nomine">
 <!ENTITY sort.dateUpdated.label               "Ultime actualisation">
+<!ENTITY sort.dateUpdated.tooltip             "Ordinar per data de actualisation">
 <!ENTITY sort.relevance.label                 "Melior correspondentia">
+<!ENTITY sort.relevance.tooltip               "Ordinar per relevantia">
 <!ENTITY sort.price.label                     "Precio">
+<!ENTITY sort.price.tooltip                   "Ordinar per precio">
 
 <!ENTITY search.filter2.label                 "Cercar:">
+<!ENTITY search.filter2.installed.label       "Mi additivos">
+<!ENTITY search.filter2.installed.tooltip     "Monstrar additivos installate">
+<!ENTITY search.filter2.available.label       "Additivos disponibile">
+<!ENTITY search.filter2.available.tooltip     "Monstrar additivos disponibile pro installar">
 
+<!ENTITY addon.homepage                       "Pagina initial">
 <!ENTITY addon.details.label                  "Plus">
+<!ENTITY addon.details.tooltip                "Monstrar plus detalios concernente iste additivo">
+<!ENTITY addon.unknownDate                    "Incognite">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "OBSOLETE">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+<!ENTITY addon.disabled.postfix               "(inactive)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.update.postfix                 "Actualisar">
+<!ENTITY addon.undoAction.label               "Disfacer">
+<!ENTITY addon.undoAction.tooltip             "Disfacer iste action">
+<!ENTITY addon.undoRemove.label               "Disfacer">
+<!ENTITY addon.undoRemove.tooltip             "Mantener iste additivo installate">
 <!ENTITY addon.restartNow.label               "Reinitiar ora">
 <!ENTITY addon.install.label                  "Installar">
+<!ENTITY addon.install.tooltip                "Installar iste additivo">
 <!ENTITY addon.updateNow.label                "Actualisar ora">
+<!ENTITY addon.updateNow.tooltip              "Installar le actualisation pro iste additivo">
 <!ENTITY addon.includeUpdate.label            "Includer in le actualisation">
 <!ENTITY addon.updateAvailable.label          "Un actualisation es diponibile">
+<!ENTITY addon.checkingForUpdates.label       "Recercante actualisationes…">
 <!ENTITY addon.releaseNotes.label             "Notas de revision:">
+<!ENTITY addon.loadingReleaseNotes.label      "Cargante…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pardono, ma il habeva un error cargante le notas de revision">
 
 <!ENTITY addon.createdBy.label                "Per ">
 
+<!ENTITY eula.title                           "Accordo de licentia pro le usator final">
+<!ENTITY eula.width                           "560px">
+<!ENTITY eula.height                          "400px">
+<!ENTITY eula.accept                          "Acceptar e Installar…">
 
+<!ENTITY settings.path.button.label           "Navigation...">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+<!ENTITY experiment.info.label "Que es isto? Le telemetria pote installar e facer experimentos de tempore in tempore.">
+<!ENTITY experiment.info.learnmore "Apprender plus">
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Predefinitiones del telemetria">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Saper plus…">
 
+<!ENTITY disabledUnsigned.heading "Alcun additivos ha essite inactivate">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Le additivos sequente non ha essite verificate pro le utilisation in &brandShortName;. Tu pote ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "trovar le reimplaciamentos">
+<!ENTITY disabledUnsigned.description.end " o demandar al developpator de los verificar.">
+<!ENTITY disabledUnsigned.learnMore "Saper plus super nostre effortios pro adjutar a guardar tu securitate in linea.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Developpatores interessate in devenir lor additivos verificate pote continuar legente nostre ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "">
+<!ENTITY pluginDeprecation.learnMore "Apprender plus.">
 
+<!ENTITY legacyWarning.showLegacy "Monstrar le extensiones obsolete">
+<!ENTITY legacyExtensions.title "Extensiones obsolete">

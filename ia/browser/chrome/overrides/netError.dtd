@@ -30,6 +30,12 @@
 
 
 <!ENTITY redirectLoop.title "Le pagina non redirige correctemente">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Le causa de iste problema pote ser le disactivation o le refusa
+    del cookies.</li>
+</ul>
+">
 
 
 

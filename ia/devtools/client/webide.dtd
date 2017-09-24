@@ -54,5 +54,6 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Registros de commandos pre-impacchettage">
 
 <!-- Simulator Options -->
