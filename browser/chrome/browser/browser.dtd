@@ -25,6 +25,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "ä">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Monista välilehti">
+<!ENTITY  duplicateTab.accesskey             "n">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -844,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
 <!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Otsikkopalkki">
+<!ENTITY customizeMode.extraDragSpace "Lisää tyhjää tilaa vetämistä varten">
 <!ENTITY customizeMode.toolbars2 "Työkalupalkit">
 <!ENTITY customizeMode.lwthemes "Teemat">
 <!ENTITY customizeMode.lwthemes.myThemes "Omat teemat">
@@ -963,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "E">
 <!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
 
+<!ENTITY updateRestart.message2 "Nopean uudelleenkäynnistyksen jälkeen &brandShorterName; palauttaa kaikki välilehdet ja ikkunat, jotka eivät olleet yksityisen selauksen tilassa.">
 <!ENTITY updateRestart.header.message2 "Päivitä &brandShorterName; käynnistämällä se uudestaan.">
 <!ENTITY updateRestart.acceptButton.label "Käynnistä uudestaan ja palauta">
 <!ENTITY updateRestart.acceptButton.accesskey "K">
