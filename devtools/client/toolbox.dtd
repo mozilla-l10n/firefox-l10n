@@ -147,6 +147,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Бастапқы код карталарын іске қосу">
+<!ENTITY options.sourceMaps.tooltip1   "Бұл опцияны іске қоссаңыз, бастапқы код құралдарда сәйкестелген болады.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
