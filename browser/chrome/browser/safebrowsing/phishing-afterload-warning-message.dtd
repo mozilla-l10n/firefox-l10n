@@ -35,6 +35,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> сайты <a id='error_desc_link'>жағымсыз бағдарламалық қамтамасы бар ретінде хабарланған</a>. Сіз <a id='ignore_warning_link'>бұл тәуекелді елемей</a>, осы қауіпсіз емес сайтты шола аласыз.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> сайтында <a id='error_desc_link'>жағымсыз бағдарламалық қамтамасы бар ретінде хабарланған</a>.">
 
 
 
