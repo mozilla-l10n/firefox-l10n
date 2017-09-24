@@ -26,10 +26,13 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> sitesinin <a id='error_desc_link'>kötü amaçlı yazılımlara ev sahipliği yaptığı rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a id='report_detection'>bunu bildirin</a> veya <a id='ignore_warning_link'>tehlikeyi göze alarak</a> güvensiz olan bu siteyi ziyaret edin.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> sitesinin <a id='error_desc_link'>kötü amaçlı yazılımlara ev sahipliği yaptığı rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a id='report_detection'>bunu bildirin</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "<a id='learn_more_link'>StopBadware.org</a> adresinden aralarında virüsler ve diğer kötücül yazılımların da bulunduğu içeriklerin neler olduğu ve bilgisayarınızı nasıl koruyabileceğiniz hakkında daha fazla bilgi alın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Bu sitede zararlı programlar olabilir">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; bu sayfayı tarama deneyiminizi zarara uğratacak programlar kurmak üzere sizi kandırabileceği için engelledi. (Örneğin ana sayfanızı değiştirerek veya ziyaret ettiğiniz sayfalarda daha fazla reklam göstererek.)">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
