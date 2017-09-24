@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
-<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -66,14 +68,14 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "ස්ථානයක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.label "ගොනුවක් විවෘත කරන්න...">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "ඕ">
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "පිටු සැකසුම්:">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "මුද්‍රණ පෙරදැක්ම">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "මුද්‍රණය...">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "පී">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "නොබැඳිව ක්‍රියා කරන්න">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -94,7 +96,13 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageSourceCmd.label "පිටුවේ මූලය">
 <!ENTITY pageSourceCmd.accesskey "o">
-<!ENTITY pageSourceCmd.commandkey "යූ">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "පිටුවේ තොරතුරු">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -159,23 +167,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "මෙම පිටුව සලකුණු කරගන්න">
 <!ENTITY editThisBookmarkCmd.label "මෙම පිටු සලකුණ සකසන්න">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "තවත් බෙදාගැනීමේ සේවා සොයන්න...">
-<!ENTITY sharePageCmd.label "මෙම පිටුව බෙදාගන්න">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "මෙම සබැඳිය බෙදාගන්න">
-<!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "මෙම රූපය බෙදාගන්න">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "තෝරාගැනීම බෙදාගන්න">
-<!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "මෙම වීඩියෝව බෙදාගන්න">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "මෙම පිටුවට දායක වන්න">
+
 <!ENTITY subscribeToPageMenupopup.label "මෙම පිටුවට දායකත්වය දක්වන්න">
 <!ENTITY subscribeToPageMenuitem.label "මෙම පිටුවට දායකත්වය දක්වන්න...">
 <!ENTITY addCurPagesCmd.label "සියලු ටැබ පිටු සලකුණුගත කරන්න...">
@@ -236,13 +228,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "පිටු සලකුණු">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "පිටුලකුණු">
-<!ENTITY bookmarksMenuButton.other.label "වෙනත් පිටුසලකුණු">
-<!ENTITY bookmarksMenuButton.mobile.label "ජංගම පිටු සළකුණු">
+<!ENTITY bookmarksMenuButton.other.label    "වෙනත් පිටුසලකුණු">
+<!ENTITY bookmarksMenuButton.mobile.label   "ජංගම පිටු සළකුණු">
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
-
-<!ENTITY containersMenu.label "බහාලූම්">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -254,12 +243,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "මෙවලම්">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "මෙම සෙවුම සඳහා සෙවුම් වදනක් එක් කරන්න...">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "බාගැනිම්">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -273,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "මෙම අංගය පරීක්ෂා කරන්න">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "ගොනු"> 
+<!ENTITY fileMenu.label         "ගොනු">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "නව බහලුම් ටැබය">
 <!ENTITY newUserContext.accesskey         "C">
@@ -284,45 +275,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "නව e10s නොවන කවුළුව">
 
-<!ENTITY editMenu.label         "සැකසුම්"> 
-<!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "අවලංගු">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
-<!ENTITY redoCmd.label            "යළි කරන්න">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "කපන්න">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "පිටපත් කරන්න">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "අලවන්න">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "මකන්න">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "සියල්ල තෝරන්න">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY editMenu.label         "සැකසුම්">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "අවලංගු">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "යළි කරන්න">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "කපන්න">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "පිටපත් කරන්න">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "අලවන්න">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "මකන්න">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "සියල්ල තෝරන්න">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "විකල්ප...">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "අභිප්‍රේත">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "මෑත ඉතිහාසය මකන්න...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "දසුන්"> 
-<!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewToolbarsMenu.label       "මෙවලම් තීරු"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewMenu.label         "දසුන්">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "මෙවලම් තීරු">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "පැති තීරුව">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "රිසිකරණය..."> 
+<!ENTITY viewCustomizeToolbar.label       "රිසිකරණය...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "අතීතය">
@@ -339,7 +330,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.tooltip "මෙනුව හා මෙවලම් තීරු රුචිකරණය">
 <!ENTITY appMenuCustomizeExit.label "රුචිකරණයෙන් පිටවන්න">
 <!ENTITY appMenuCustomizeExit.tooltip "රුචිකරණය අවසන් කරමින්">
-<!ENTITY appMenuHistory.label "අතීතය">
 <!ENTITY appMenuHistory.showAll.label "සම්පූර්ණ අතීතය පෙන්වන්න">
 <!ENTITY appMenuHistory.clearRecent.label "මෑත ඉතිහාසය මකන්න...">
 <!ENTITY appMenuHistory.restoreSession.label "පෙර සැසිය ප්‍රතිස්ථාපනය">
@@ -370,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "වෙනත් උපාංගයන්ගේ සිට ටැබ් ලැයිස්තුව බැලිමට ඇතුළු වන්න.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync වෙත පිවිසෙන්න">
 <!ENTITY appMenuRemoteTabs.sidebar.label "සම්මුහුර්ත ටැබ් පැති තීරුවේ පෙන්වන්න">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "මෙවලම් තීරුවට එක් කරන්න">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -448,6 +439,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY contentSearchInput.label     "සෙවුම් විමසුම">
 <!ENTITY contentSearchSubmit.tooltip  "සෙවුම යොමු කරන්න">
 
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -500,7 +494,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "තේරිම් මූලය ‌පෙන්වන්න">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML මූලය ‌පෙන්වන්න">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "පිටුවේ මූලය ‌පෙන්වන්න">
@@ -553,8 +547,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "වීඩියෝ ඊමේල් කරන්න...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "උපාංගයට වීඩියෝ යවන්න">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ශ්‍රව්‍ය තැපැල්...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "මෙම ප්ලගිනය සකරිය කරන්න">
@@ -566,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "රූපයෙ ස්ථානය පිටපත් කරන්න">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "රූපය පිටපත් කරන්න">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "දෘශ්‍ය පිහිටුම පිටපත් කරන්න">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ශ්‍රව්‍ය පිහිටුම පිටපත් කරන්න">
@@ -661,12 +653,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; පිටවීම">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "ඉවත් වන්න"> 
+<!ENTITY quitApplicationCmd.label       "ඉවත් වන්න">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; පිටවීම">
 
-<!ENTITY closeCmd.label                 "වසන්න">  
-<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.label                 "වසන්න">
+<!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
@@ -796,15 +788,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "සම්මුහුර්ත">
 
-<!ENTITY social.addons.label "සේවාවන් පරිපාලනය...">
-
-<!ENTITY social.directory.label "සක්‍රීයකිරීම් නාමාවලිය">
-<!ENTITY social.directory.text "ඔබට නාමාවලිය වෙතින් බෙදාගැනීමේ සේවා සක්‍රීය කළ හැක.">
-<!ENTITY social.directory.button "මා එතැනට රැගෙන යන්න!">
-<!ENTITY social.directory.introText "&brandShortName; වෙත සේවාවක් එක් කිරීමට ඒ මත ක්ලික් කරන්න.">
-<!ENTITY social.directory.viewmore.text "තවදුරත් කියවන්න">
-
-<!ENTITY customizeMode.menuAndToolbars.header2 "අමතර මෙවලම් හා විශේෂාංග">
 <!ENTITY customizeMode.menuAndToolbars.empty "තවත් මෙවලම් අවශ්‍යද?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ඇඩෝන දහස් ගණනකින් තෝරාගන්න">
 <!ENTITY customizeMode.restoreDefaults "පෙරනිමි යළි සකසන්න">
@@ -816,6 +799,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "තවත් තේමා ලබාගන්න">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+
 
 <!ENTITY getUserMedia.selectCamera.label "බෙදාගන්නා කැමරාව:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -841,16 +834,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
-<!ENTITY trackingContentBlocked.message "ලුහුබැඳීම (Tracking)">
-<!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇත.">
-<!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
-<!ENTITY trackingContentBlocked.options "විකල්ප">
-<!ENTITY trackingContentBlocked.unblock2.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
-<!ENTITY trackingContentBlocked.block.accesskey "ආ">
-<!ENTITY trackingContentBlocked.disabled.message "ලුහුබැඳීම් ආරක්ශාව අක්‍රීය කරන ලදී">
-
 <!ENTITY pluginNotification.showAll.label "සියල්ල පෙන්වන්න">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -867,8 +850,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "32em">
 
 <!ENTITY uiTour.infoPanel.close "වසන්න">
-
-<!ENTITY appMenuSidebars.label         "පැතිතීර">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -902,3 +883,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
