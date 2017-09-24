@@ -2,7 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "මෙම ටැබය වසන්න">
+
+<!ENTITY tabCrashed.closeTab2  "ටැබය වසන්න">
 <!ENTITY tabCrashed.restoreTab "මෙම ටැබය යළි පිහිටුවන්න">
 <!ENTITY tabCrashed.restoreAll "සියළු බිඳවැටුනු ටැබ යළි පිහිටුවන්න">
 
