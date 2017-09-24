@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Зневаджувач">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Увімкнути карти джерел">
-<!ENTITY options.sourceMaps.tooltip    "Якщо увімкнути цю опцію, то джерела будуть заноситись в карти в зневаджувачі та консолі.">
+<!ENTITY options.sourceMaps.tooltip1   "Якщо увімкнути цю опцію, джерела будуть заноситись в інструменти.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Редактор стилів">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Показати початкові джерела">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Показати початкові джерела (наприклад, файли «Sass») в редакторі стилів і ревізорі">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Звук зйомки камери">
 <!ENTITY options.screenshot.audio.tooltip    "Звук камери під час захоплення знімку екрана">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Мережа">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Увімкнути постійне журналювання">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Якщо ви увімкнете цей параметр, монітор мережі не буде очищати результати щоразу при переході до нової сторінки">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
