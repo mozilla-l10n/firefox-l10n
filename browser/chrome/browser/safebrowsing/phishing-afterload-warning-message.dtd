@@ -24,8 +24,11 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Yra pranešta, jog <span id='malware_sitename'/> svetainė <a id='error_desc_link'>yra kenkėjiška</a>. Jūs galite <a id='report_detection'>pranešti apie aptikimo klaidą</a> arba <a id='ignore_warning_link'>nepaisyti įspėjimo</a> ir aplankyti šią nesaugią svetainę.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Yra pranešta, jog <span id='malware_sitename'/> svetainė <a id='error_desc_link'>yra kenkėjiška</a>. Jūs galite <a id='report_detection'>pranešti apie aptikimo klaidą</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Sužinokite daugiau apie kenkėjišką turinį internete, įskaitant virusus ir kitas kenkėjiškas programas, taip pat kaip nuo jų apsaugoti savo kompiuterį, per <a id='learn_more_link'>StopBadware.org</a>. Sužinokite daugiau apie „&brandShortName;“ apsaugą nuo sukčiavimo ir kenkėjiškų programų per <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 
