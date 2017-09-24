@@ -6,6 +6,7 @@
 
 <!ENTITY printSetup.title    "Configurar le pagina">
 
+<!ENTITY basic.tab           "Formato &amp; optiones">
 
 <!ENTITY formatGroup.label   "Formato">
 
@@ -17,6 +18,7 @@
 
 <!ENTITY scale.label         "Scala:">
 <!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Adaptar se al largor del pagina">
 <!ENTITY shrinkToFit.accesskey "W">
@@ -26,8 +28,11 @@
 <!ENTITY printBG.label       "Imprimer le fundo (colores e imagines)">
 <!ENTITY printBG.accesskey   "B">
 
+<!ENTITY advanced.tab        "Margines &amp; Testa/Pede de pagina">
 
 <!ENTITY marginGroup.label   "Margines (#1)">
+<!ENTITY marginUnits.inches  "uncias">
+<!ENTITY marginUnits.metric  "millimetros">
 <!ENTITY marginTop.label     "A supra:">
 <!ENTITY marginTop.accesskey "T">
 <!ENTITY marginBottom.label  "A basso:">

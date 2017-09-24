@@ -34,5 +34,10 @@
 <!ENTITY customPrompt.title   "Personalisar le scala…">
 <!ENTITY simplifyPage.label   "Simplificar le pagina">
 <!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.enabled.tooltip  "Cambiar le disposition pro un lectura plus facile">
+<!ENTITY simplifyPage.disabled.tooltip "Iste pagina non pote ser simplificate automaticamente">
 
+<!ENTITY homearrow.tooltip    "Prime pagina">
+<!ENTITY endarrow.tooltip     "Ultime pagina">
 <!ENTITY nextarrow.tooltip    "Pagina sequente">
+<!ENTITY previousarrow.tooltip "Pagina previe">
