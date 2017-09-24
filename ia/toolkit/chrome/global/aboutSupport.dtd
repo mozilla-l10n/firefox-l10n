@@ -20,9 +20,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Version">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Functionalitates de &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nomine">
 <!ENTITY aboutSupport.featureVersion "Version">
 
+<!ENTITY aboutSupport.experimentsTitle "Functionalitates experimental">
 <!ENTITY aboutSupport.experimentName "Nomine">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Description">
@@ -30,6 +32,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Data de fin">
 <!ENTITY aboutSupport.experimentHomepage "Pagina initial">
 
+<!ENTITY aboutSupport.appBasicsTitle "Informationes basic del application">
 <!ENTITY aboutSupport.appBasicsName "Nomine">
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 
@@ -62,6 +65,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Aperir le dossier">
 
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferentias importante modificate">
 <!ENTITY aboutSupport.modifiedPrefsName "Nomine">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valor">
 
@@ -69,11 +73,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Preferentias de user.js">
 <!ENTITY aboutSupport.userJSDescription "Le dossier de vostre profilo contine un <a id='prefs-user-js-link'>file user.js</a>, que include preferentias que non esseva create per &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferentias importante blocate">
 <!ENTITY aboutSupport.lockedPrefsName "Nomine">
 <!ENTITY aboutSupport.lockedPrefsValue "Valor">
 
 <!ENTITY aboutSupport.graphicsTitle "Graphica">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Base de datos de locos">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integritate">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica de integritate">
 
@@ -83,6 +89,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accessibilitate">
 <!ENTITY aboutSupport.a11yActivated "Activate">
 
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotheca">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Chronologia del installation">
 <!ENTITY aboutSupport.updateHistoryTitle "Chronologia del actualisationes">
@@ -90,6 +97,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar le texto in le planchetta">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar le datos brute in le planchetta">
 
+<!ENTITY aboutSupport.sandboxTitle "Cassa de arena">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Appellos de systema rejectate">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
@@ -100,9 +109,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Functionalitates">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de falta">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Registro de decision">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Functionalitates inactive de protection contra collapso">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solutiones alternative">
 
 <!ENTITY aboutSupport.mediaTitle "Media">
 <!ENTITY aboutSupport.mediaOutputDevicesTitle "Apparatos de exita">

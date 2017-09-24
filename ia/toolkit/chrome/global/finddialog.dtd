@@ -4,6 +4,7 @@
 
 <!-- extracted from finddialog.xul -->
 
+<!ENTITY findDialog.title "Cercar in iste pagina">
 <!ENTITY findField.label "Que cercar:">
 <!ENTITY caseSensitiveCheckbox.label "Distinger le majusculas">
 <!ENTITY wrapCheckbox.label "Circuir">

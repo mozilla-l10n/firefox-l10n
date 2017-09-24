@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialog.title             "Personalisar le barra de instrumentos">
 <!ENTITY show.label               "Monstrar:">
 <!ENTITY iconsAndText.label       "Icones e texto">
 <!ENTITY icons.label              "Icones">
