@@ -37,6 +37,12 @@
 </ul>
 ">
 
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Verifica que tu systema ha le gestor de securitate personal installate.</li>
+  <li>Isto pote esser a causa de un configuration non standard del servitor.</li>
+</ul>
+">
 
 
 <!-- Localization note (certerror.introPara) - The text content of the span tag

@@ -9,6 +9,7 @@
 
 <!ENTITY connectionFailure.title "Falta al connexion">
 
+<!ENTITY deniedPortAccess.title "Porta restringite pro rationes de securitate">
 
 <!ENTITY dnsNotFound.title "Adresse non trovate">
 
@@ -39,6 +40,7 @@
 
 <!ENTITY unknownProtocolFound.title "Protocollo incognite">
 
+<!ENTITY proxyConnectFailure.title "Connexion refusate per le servitor proxy">
 
 <!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
 

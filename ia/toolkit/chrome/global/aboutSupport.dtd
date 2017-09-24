@@ -98,7 +98,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Probar le modo secur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinitiar con le additivos inactive…">
 
-<!ENTITY aboutSupport.graphicsFeaturesTitle "Characteristicas">
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Functionalitates">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
