@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Bandyti dar kartą">
 <!ENTITY returnToPreviousPage.label "Eiti atgal">
 <!ENTITY advanced.label "Išsamiau">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nepavyko užmegzti ryšio">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Prieiga prie šio adreso apribota">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Nerastas serveris">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Patikrinkite, ar rinkdami adresą nepadarėte klaidų, pavyzdžiui, <strong>ww</strong>.example.com vietoje <strong>www</strong>.example.com</li> <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li> <li>Jei jūsų kompiuteris ar tinklas yra apsaugotas užkarda arba jungiasi per įgaliotąjį serverį, įsitikinkite, kad naršyklei „&brandShortName;“ leidžiama pasiekti saityną.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Serveris nerastas">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Mums nepavyksta rasti šios svetainės.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Jeigu šis adresas teisingas, yra dar trys dalykai, kuriuos galite pabandyti:</strong>
+<ul>
+  <li>Bandykite dar kartą vėliau.</li>
+  <li>Patikrinkite savo ryšį su tinklu.</li>
+  <li>Jei esate prisijungę, tačiau naudojate užkardą, patikrinkite, ar „&brandShortName;“ turi leidimą pasiekti saityną.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Nerastas failas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Patikrinkite, ar failo varde nėra rinkimo klaidų, pvz., didžiosios raidės pakeistos mažosiomis.</li> <li>Patikrinkite, ar failas nebuvo perkeltas, pervardytas ar pašalintas.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Atverti prisijungimo tinklalapį">
 
-<!ENTITY malformedURI.title "Neteisingas adresas">
-<!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <li>Įsitikinkite, kad naudojate tinkamą adreso komponentų skirtuką (t. y., dešininį brūkšnį <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Neteisingas URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Šis adresas neatrodo gerai.">
 
 <!ENTITY netInterrupt.title "Ryšys buvo nutrauktas">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +114,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; neprisijungė prie <span id='wrongSystemTime_URL'/>, nes jūsų kompiuterio laikrodis, panašu, rodo neteisingą laiką, o tai neleidžia įvykti saugiam prisijungimui.</p> <p>Jūsų kompiuteris rodo <span id='wrongSystemTime_systemDate'/>, kai turėtų būti <span id='wrongSystemTime_actualDate'/>. Norėdami išspręsti šią problemą, pakeiskite savo datos ir laiko nuostatas, kad jos atitiktų teisingą laiką.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; neprisijungė prie <span id='wrongSystemTimeWithoutReference_URL'/>, nes jūsų kompiuterio laikrodis, panašu, rodo neteisingą laiką, o tai neleidžia įvykti saugiam prisijungimui.</p> <p>Jūsų kompiuteris rodo <span id='wrongSystemTimeWithoutReference_systemDate'/>. Norėdami išspręsti šią problemą, pakeiskite savo datos ir laiko nuostatas, kad jos atitiktų teisingą laiką.</p>">
 
