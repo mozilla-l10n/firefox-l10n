@@ -20,8 +20,11 @@
 <!ENTITY tabCrashed.requestHelp "¿Nos ayudarías?">
 <!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos nos ayudan a diagnosticar problemas y mejorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar esta pestaña">
+<!ENTITY tabCrashed.sendReport3 "Envía un reporte de fallos automático para que podamos resolver problemas como este.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Comentarios opcionales (los comentarios son visibles públicamente)">
+<!ENTITY tabCrashed.includeURL3 "Incluye las URLs de los sitios en los que te encontrabas cuando &brandShortName; falló.">
 <!ENTITY tabCrashed.emailPlaceholder "Ingresa tu email aquí">
 <!ENTITY tabCrashed.emailMe "Enviarme un email cuando haya más información disponible">
 <!ENTITY tabCrashed.reportSent "Informe de fallos enviado. ¡Gracias por ayudarnos a mejorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar pestañas en segundo plano">
+<!ENTITY tabCrashed.autoSubmit3 "Actualiza las preferencias para enviar automáticamente reportes cuando &brandShortName; falle.">

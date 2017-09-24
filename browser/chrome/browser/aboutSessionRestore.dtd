@@ -6,6 +6,8 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Lo sentimos. Estamos teniendo problemas para recuperar tus páginas.">
+<!ENTITY restorepage.problemDesc2   "Estamos teniendo problemas para restaurar tu última sesión de navegación. Selecciona Restaurar sesión para volver a intentarlo.">
 
 <!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
 <!ENTITY restorepage.restore.access2 "R">
