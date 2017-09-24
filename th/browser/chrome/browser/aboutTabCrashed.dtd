@@ -17,6 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "อ้าก แท็บของคุณเพิ่งขัดข้อง">
 <!ENTITY tabCrashed.offerHelp2 "เราสามารถช่วยได้!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "เลือก &tabCrashed.restoreTab; เพื่อโหลดหน้าใหม่">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "เลือก &tabCrashed.restoreTab; หรือ &tabCrashed.restoreAll; เพื่อโหลดหน้าใหม่">
 <!ENTITY tabCrashed.requestHelp "คุณจะช่วยเราได้หรือไม่?">
 <!ENTITY tabCrashed.requestHelpMessage "รายงานข้อขัดข้องช่วยเราวินิจฉัยปัญหาและทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY tabCrashed.requestReport "รายงานแท็บนี้">

@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "ฟ">
 <!ENTITY cmd.showMac.label                "แสดงใน Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "แสดงโฟลเดอร์ดาวน์โหลด">
 <!ENTITY cmd.retry.label                  "ลองใหม่">
 <!ENTITY cmd.goToDownloadPage.label       "ไปยังหน้าดาวน์โหลด">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ป">
