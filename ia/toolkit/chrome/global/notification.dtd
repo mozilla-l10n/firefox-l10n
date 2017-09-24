@@ -4,5 +4,9 @@
 
 <!ENTITY closeNotification.tooltip "Clauder iste message">
 
+<!ENTITY checkForUpdates "Recercar actualisationes…">
 
+<!ENTITY learnMore "Saper plus…">
 
+<!ENTITY defaultButton.label "OK!">
+<!ENTITY defaultButton.accesskey "O">
