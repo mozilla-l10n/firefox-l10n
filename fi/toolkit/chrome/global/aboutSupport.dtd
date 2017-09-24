@@ -111,6 +111,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Käytössä">
 <!ENTITY aboutSupport.a11yForceDisabled "Estä esteettömyystoiminnot">
 <!ENTITY aboutSupport.a11yHandlerUsed "Esteettömyyskäsittelijää käytetty">
+<!ENTITY aboutSupport.a11yInstantiator "Esteettömyyden käynnistänyt ohjelma">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Kirjastojen versiot">
 
