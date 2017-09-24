@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Ой, вот ведь незадача">
-<!ENTITY restorepage.problemDesc    "При восстановлении ваших окон и вкладок у &brandShortName; возникла проблема. Обычно это вызвано недавно открытой веб-страницей.">
-<!ENTITY restorepage.tryThis        "Вы можете попытаться:">
-<!ENTITY restorepage.restoreSome    "Удалить одну или несколько вкладок, которые, по вашему мнению, могут вызывать проблемы">
-<!ENTITY restorepage.startNew       "Начать совершенно новую сессию">
+<!ENTITY restorepage.errorTitle2    "Извините. Нам не удалось восстановить ваши страницы.">
+<!ENTITY restorepage.problemDesc2   "Нам не удалось восстановить вашу последнюю сессию. Выберите «Восстановить сессию», чтобы попробовать снова.">
+<!ENTITY restorepage.tryThis2       "Всё ещё не можете восстановить сессию? Иногда причиной является одна вкладка. Посмотрите предыдущие вкладки, уберите отметки с тех, что вам не нужны, и попробуйте восстановить ещё раз.">
 
-<!ENTITY restorepage.tryagainButton "Восстановить">
-<!ENTITY restorepage.restore.access "с">
-<!ENTITY restorepage.closeButton    "Закрыть">
-<!ENTITY restorepage.close.access   "к">
+<!ENTITY restorepage.tryagainButton2 "Восстановить сессию">
+<!ENTITY restorepage.restore.access2 "о">
+<!ENTITY restorepage.closeButton2    "Начать новую сессию">
+<!ENTITY restorepage.close.access2   "а">
 
 <!ENTITY restorepage.restoreHeader  "Восстановить">
 <!ENTITY restorepage.listHeader     "Окна и вкладки">
