@@ -60,4 +60,6 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Є інформація, що <span id='harmful_sitename'/> <a id='error_desc_link'>містить потенційно небажаний застосунок</a>. Ви можете <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Є інформація, що <span id='harmful_sitename'/> <a id='error_desc_link'>містить потенційно небажаний застосунок</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Дізнайтеся більше про захист від фішингу та шкідливих програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
