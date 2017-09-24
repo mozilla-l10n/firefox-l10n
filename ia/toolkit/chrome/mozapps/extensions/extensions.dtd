@@ -260,3 +260,5 @@
 
 <!ENTITY legacyWarning.showLegacy "Monstrar le extensiones obsolete">
 <!ENTITY legacyExtensions.title "Extensiones obsolete">
+<!ENTITY legacyExtensions.description "Ille extensiones non concorda le standardos currente de &brandShortName; assi illos esseva disactivate.">
+<!ENTITY legacyExtensions.learnMore "Sape lo que cambiava al additivos">

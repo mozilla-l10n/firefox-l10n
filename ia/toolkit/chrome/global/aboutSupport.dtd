@@ -6,11 +6,13 @@
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!ENTITY aboutSupport.crashes.title "Reportos de collapso">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID de reporto">
 <!ENTITY aboutSupport.crashes.sendDate "Submittite">
 <!ENTITY aboutSupport.crashes.allReports "Tote le reportos de collapso">
+<!ENTITY aboutSupport.crashes.noConfig "Iste application non ha essite configurate pro monstrar le reportos de collapso.">
 
 <!ENTITY aboutSupport.extensionsTitle "Extensiones">
 <!ENTITY aboutSupport.extensionName "Nomine">
@@ -100,6 +102,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Functionalitates inactive de protection contra collapso">
 
 <!ENTITY aboutSupport.mediaDeviceName "Nomine">
 <!ENTITY aboutSupport.mediaDeviceGroup "Gruppo">

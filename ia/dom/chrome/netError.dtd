@@ -42,6 +42,7 @@
 
 <!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
 
+<!ENTITY redirectLoop.title "Cyclo de redirection">
 <!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirige le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptar le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Responsa non correcte">
