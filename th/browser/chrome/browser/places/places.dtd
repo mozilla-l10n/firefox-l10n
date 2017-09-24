@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "วันที่เพิ่ม">
 <!ENTITY col.lastmodified.label  "วันที่เปลี่ยนแปลงล่าสุด">
 
-<!ENTITY search.placeholder  "ค้นหา">
+<!ENTITY historySearch.placeholder  "ค้นหาประวัติ">
+<!ENTITY bookmarksSearch.placeholder  "ค้นหาที่คั่นหน้า">
 
 <!ENTITY cmd.find.key  "f">
 
