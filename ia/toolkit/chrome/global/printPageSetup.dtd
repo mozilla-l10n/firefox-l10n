@@ -55,5 +55,12 @@
 <!ENTITY footerRight.tip     "Pede a dextere">
 
 <!ENTITY hfTitle             "Titulo">
+<!ENTITY hfURL               "URL">
+<!ENTITY hfDateAndTime       "Data/Tempore">
+<!ENTITY hfPage              "Pagina #">
+<!ENTITY hfPageAndTotal      "Pagina # de #">
+<!ENTITY hfBlank             "--blanc--">
+<!ENTITY hfCustom            "Personalisation…">
 
 <!ENTITY customPrompt.title  "Personalisar…">
+<!ENTITY customPrompt.prompt "Insere tu texto de testa/pede de pagina personalisate">
