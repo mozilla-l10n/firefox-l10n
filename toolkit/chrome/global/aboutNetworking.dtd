@@ -52,3 +52,4 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Kısa ortalama">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Uzun ortalama">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Uzun standart sapma">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "">
