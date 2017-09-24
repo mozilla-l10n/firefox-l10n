@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ursprungsdatum">
 <!ENTITY col.lastmodified.label  "Senast ändrad">
 
-<!ENTITY search.placeholder  "Sök">
+<!ENTITY historySearch.placeholder  "Sökhistorik">
+<!ENTITY bookmarksSearch.placeholder  "Sök bokmärken">
 
 <!ENTITY cmd.find.key  "f">
 

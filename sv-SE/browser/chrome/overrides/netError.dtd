@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "Adressen har säkerhetsrestriktioner">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servern hittades inte">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Kontrollera om det finns något skrivfel i adressen, som <strong>ww</strong>.example.com i stället för <strong>www</strong>.example.com</li> <li>Om du inte kan hämta någon sida alls, kontrollera datorns nätverksanslutning.</li> <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera att &brandShortName; har tillstånd att ansluta till webben.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Servern hittades inte">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om filen flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
@@ -37,8 +37,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "Öppna inloggningssida för nätverk">
 
-<!ENTITY malformedURI.title "Adressen är inte giltig">
-<!ENTITY malformedURI.longDesc "<ul> <li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <li>Kontrollera att du använder framåtlutande snedstreck (dvs <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Ogiltig URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
