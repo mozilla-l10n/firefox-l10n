@@ -8,15 +8,27 @@
 <!ENTITY muteButton.unmuteLabel "Non plus tacer">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Plen schermo">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Exir ab le Plen schermo">
+<!ENTITY castingButton.castingLabel "Transmitter per le schermo">
 <!ENTITY closedCaption.off "Inactive">
 
 <!ENTITY stats.media "Medios">
 <!ENTITY stats.size "Dimension">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "Pausate">
+<!ENTITY stats.activityPlaying "In reproduction">
+<!ENTITY stats.activityEnded "Finite">
+<!ENTITY stats.activitySeeking "(recerca)">
 <!ENTITY stats.volume "Volumine">
+<!ENTITY stats.framesParsed "Photogrammas analysate">
+<!ENTITY stats.framesDecoded "Photogrammas decodificate">
+<!ENTITY stats.framesPresented "Photogrammas presentate">
+<!ENTITY stats.framesPainted "Photogrammas picturate">
 
 <!ENTITY error.aborted "Carga de video cessate.">
+<!ENTITY error.network "Reproduction del video abortate per un error de rete.">
+<!ENTITY error.decode "Le video non pote ser reproducite perque le file es corrupte.">
+<!ENTITY error.srcNotSupported "Formato video o typo MIME non supportate.">
+<!ENTITY error.noSource2 "Nulle formato video supportate e typo MIME trovate.">
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
@@ -24,6 +36,7 @@ media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
+<!ENTITY scrubberScale.nameFormat "#1 de #2 reproducite">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
