@@ -38,7 +38,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> відомий <a id='error_desc_link'>як такий, що містить зловмисні програми</a>. Ви можете <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
 
-<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> відомий <a id='error_desc_link'> як такий, що містить зловмисні програми</a>.">
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> відомий <a id='error_desc_link'>як такий, що містить зловмисні програми</a>.">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Дізнайтеся більше про небезпечне й небажане програмне забезпечення на сайті <a id='learn_more_link'>Правила щодо небажаного ПЗ</a>. Дізнайтеся більше про те, як працює захист від шахрайських та зловмисних програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
 
@@ -47,19 +47,19 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "&BrandShortName; заблокував цю сторінку, тому що вона може спробувати змусити вас зробити щось небезпечне, наприклад встановити програму або розкрити особисту інформацію, таку як паролі або реквізити банківських карт.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Є інформація, що <span id='phishing_sitename'/> є <a id='error_desc_link'>підробленим сайтом</a>. Ви можете <a id='report_detection'>повідомити про помилковість цієї інформації </a>, або <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> відомий <a id='error_desc_link'>шахрайський сайт</a>. Ви можете <a id='report_detection'>повідомити про невідповідність цієї інформації</a>, або <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
 
-<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Є інформація, що <span id='phishing_sitename'/> є <a id='error_desc_link'>підробленим сайтом</a>. Ви можете <a id='report_detection'>повідомити про помилковість цієї інформації </a>.">
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> відомий <a id='error_desc_link'>шахрайський сайт</a>. Ви можете <a id='report_detection'>повідомити про невідповідність цієї інформації </a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "Дізнайтеся більше про підроблені сайти і фішинг на сайті <a id='learn_more_link'>www.antiphishing.org</a>. Дізнайтеся більше про захист від фішингу та шкідливих програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Дізнайтеся більше про шахрайські сайти та шахрайство на сайті <a id='learn_more_link'>www.antiphishing.org</a>. Дізнайтеся більше про те, як працює захист від шахрайських та зловмисних програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Цей сайт може містити зловмисне програмне забезпечення">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; заблокував цю сторінку, тому що вона може намагатися встановити небезпечне програмне забезпечення, що викрадає чи видаляє вашу інформацію (наприклад, фотографії, паролі, повідомлення й кредитні картки).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
-<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Є інформація, що <span id='harmful_sitename'/> <a id='error_desc_link'>містить потенційно небажаний застосунок</a>. Ви можете <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> відомий <a id='error_desc_link'>як такий, що містить потенційно зловмисну програму</a>. Ви можете <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
 
-<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Є інформація, що <span id='harmful_sitename'/> <a id='error_desc_link'>містить потенційно небажаний застосунок</a>.">
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> відомий <a id='error_desc_link'>як такий, що містить потенційно зловмисну програму</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "Дізнайтеся більше про захист від фішингу та шкідливих програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
