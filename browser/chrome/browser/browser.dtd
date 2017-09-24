@@ -103,6 +103,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "Tietoja sivusta">
 <!ENTITY pageInfoCmd.accesskey "T">
@@ -802,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Etsi synkronoiduista välilehdistä">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -872,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "K">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Käytä kosketusoptimoitua tablettitilassa">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Piilota automaattisesti">
 
 <!ENTITY getUserMedia.selectCamera.label "Jaettava kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
