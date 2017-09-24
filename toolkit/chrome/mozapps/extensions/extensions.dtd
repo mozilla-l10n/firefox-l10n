@@ -43,13 +43,13 @@
 <!-- categories / views -->
 <!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
-<!ENTITY view.recentUpdates.label             "การอัปเดตเมื่อเร็ว ๆ นี้">
+<!ENTITY view.recentUpdates.label             "การอัปเดตล่าสุด">
 <!ENTITY view.availableUpdates.label          "การอัปเดตที่ใช้งานได้">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ตรวจสอบการอัปเดต">
 <!ENTITY updates.checkForUpdates.accesskey    "ต">
-<!ENTITY updates.viewUpdates.label            "ดูการอัปเดตเมื่อเร็ว ๆ นี้">
+<!ENTITY updates.viewUpdates.label            "ดูการอัปเดตล่าสุด">
 <!ENTITY updates.viewUpdates.accesskey        "ด">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update

@@ -80,7 +80,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "คุณอาจต้องการ ">
-<!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติเมื่อเร็ว ๆ นี้ของคุณ">
+<!ENTITY  rememberActions.clearHistory.label  "ล้างประวัติล่าสุดของคุณ">
 <!ENTITY  rememberActions.middle.label        " หรือ ">
 <!ENTITY  rememberActions.removeCookies.label "เอาคุกกี้แต่ละตัวออก">
 <!ENTITY  rememberActions.post.label          "">
