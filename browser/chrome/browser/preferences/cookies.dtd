@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Seuraavat evästeet on asetettu tietokoneellesi:">
+<!ENTITY     cookiesonsystem2.label         "Seuraavat evästeet on tallennettu tietokoneellesi">
 <!ENTITY     cookiename.label               "Evästeen nimi">
 <!ENTITY     cookiedomain.label             "Sivusto">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Evästeet">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Etsi">
 <!ENTITY     searchFilter.accesskey         "E">
