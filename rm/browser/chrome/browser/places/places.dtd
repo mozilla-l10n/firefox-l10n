@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Agiuntà">
 <!ENTITY col.lastmodified.label  "Midà la davosa giada">
 
-<!ENTITY search.placeholder  "Tschertgar">
+<!ENTITY historySearch.placeholder  "Tschertgar en la cronologia">
+<!ENTITY bookmarksSearch.placeholder  "Tschertgar en ils segnapaginas">
 
 <!ENTITY cmd.find.key  "s">
 
