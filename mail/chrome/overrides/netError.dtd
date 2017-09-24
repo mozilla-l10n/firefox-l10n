@@ -42,7 +42,7 @@
 <!ENTITY notCached.longDesc "<p>Talep edilen belge önbellekte mevcut değil.</p><ul><li>&brandShortName; bir güvenlik önlemi olarak, hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
 <!ENTITY netOffline.title "Çevrimdışı kip">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Çevrimiçi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Çevrimiçi kipe geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
 <!ENTITY contentEncodingError.longDesc "
