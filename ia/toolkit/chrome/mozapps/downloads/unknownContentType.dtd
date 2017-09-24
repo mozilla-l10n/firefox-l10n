@@ -7,13 +7,20 @@
 <!ENTITY  actionQuestion.label        "Que debe &brandShortName; facer con iste file?">
 
 <!ENTITY  openWith.label              "Aperir con">
+<!ENTITY  openWith.accesskey          "o">
 <!ENTITY  other.label                 "Altere…">
 
 <!ENTITY  saveFile.label              "Salvar le file">
+<!ENTITY  saveFile.accesskey          "s">
 
 <!ENTITY  rememberChoice.label        "Facer isto automaticamente pro files como iste de ora in avante.">
+<!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "le qual es:">
 
 <!ENTITY  chooseHandlerMac.label      "Eliger…">
+<!ENTITY  chooseHandlerMac.accesskey  "C">
+<!ENTITY  chooseHandler.label         "Perquirer…">
+<!ENTITY  chooseHandler.accesskey     "B">
 
+<!ENTITY  unknownPromptText.label     "Desira vos salvar iste file?">
