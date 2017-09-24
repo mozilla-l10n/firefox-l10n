@@ -16,12 +16,17 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "н">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Поради від <a id='advisory_provider'/>.">
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Відвідування цього сайту може пошкодити ваш комп’ютер">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; заблокував цю сторінку, бо вона може спробувати встановити шкідливі програми, що можуть красти чи стирати дані на вашому ПК.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "Є інформація, що на <span id='malware_sitename'/> <a id='error_desc_link'>знаходяться шкідливі програми</a>. Ви можете <a id='report_detection'>повідомити про помилковість цієї інформації</a> чи <a id='ignore_warning_link'>ігнорувати ризик</a> і перейти на цей небезпечний сайт.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Є інформація, що на <span id='malware_sitename'/> <a id='error_desc_link'>знаходяться шкідливі програми</a>. Ви можете <a id='report_detection'>повідомити про помилковість цієї інформації</a>.">
 
 
 
