@@ -6,11 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Ursäkta. Vi har problem med att få tillbaka dina sidor.">
+<!ENTITY restorepage.problemDesc2   "Vi har problem med att återställa din senaste session. Välj Återställ session för att försöka igen.">
+<!ENTITY restorepage.tryThis2       "Kan du fortfarande inte återställa din session? Ibland orsakar en flik problemet. Visa tidigare flikar, ta bort bocken från flikarna som du inte behöver återställa och återställ sedan.">
 
 <!ENTITY restorepage.tryagainButton2 "Återställ session">
-<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.restore.access2 "t">
 <!ENTITY restorepage.closeButton2    "Starta en ny session">
-<!ENTITY restorepage.close.access2   "N">
+<!ENTITY restorepage.close.access2   "n">
 
 <!ENTITY restorepage.restoreHeader  "Återställ">
 <!ENTITY restorepage.listHeader     "Fönster och flikar">

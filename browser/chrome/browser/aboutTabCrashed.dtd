@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Kraschrapportör för flikar">
 
 <!ENTITY tabCrashed.closeTab2  "Stäng flik">
 <!ENTITY tabCrashed.restoreTab "Återställ denna flik">
@@ -16,13 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Arghh. Din flik kraschade precis.">
 <!ENTITY tabCrashed.offerHelp2 "Vi kan hjälpa till!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Välj &tabCrashed.restoreTab; för att återställa sidan.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Välj &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; för att ladda om webbsidan/sidorna. ">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Välj &tabCrashed.restoreTab; för att ladda om sidan.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Välj &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; för att ladda om sidan/sidorna.">
 <!ENTITY tabCrashed.requestHelp "Vill du hjälpa oss?">
 <!ENTITY tabCrashed.requestHelpMessage "Kraschrapporter hjälper oss att diagnostisera problem och göra &brandShortName; bättre.">
 <!ENTITY tabCrashed.requestReport "Rapportera denna flik">
+<!ENTITY tabCrashed.sendReport3 "Skicka automatisk en kraschrapport så att vi kan lösa problem som detta.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Valfria kommentarer (kommentarer visas offentligt)">
+<!ENTITY tabCrashed.includeURL3 "Inkludera webbadresserna för de webbplatser du var på när &brandShortName; kraschade.">
 <!ENTITY tabCrashed.emailPlaceholder "Fyll i din e-postadress här">
 <!ENTITY tabCrashed.emailMe "Skicka e-post när mer information finns tillgänglig">
 <!ENTITY tabCrashed.reportSent "Kraschrapporten har redan skickats. Tack för att du hjälper till att förbättra &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapportera bakgrundsflikar">
+<!ENTITY tabCrashed.autoSubmit3 "Uppdatera inställningar för att automatiskt skicka rapporter när &brandShortName; kraschar.">
