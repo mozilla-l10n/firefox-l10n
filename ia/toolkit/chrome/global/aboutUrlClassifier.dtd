@@ -12,4 +12,6 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stato del ultime actualisation">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualisation">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Clarar">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuration">

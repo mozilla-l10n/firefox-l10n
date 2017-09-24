@@ -23,6 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featuresTitle "Functionalitates de &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nomine">
 <!ENTITY aboutSupport.featureVersion "Version">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Functionalitates experimental">
 <!ENTITY aboutSupport.experimentName "Nomine">
@@ -45,6 +46,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dossier del profilo">
 
+<!ENTITY aboutSupport.appBasicsOS "OS">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registrate">
