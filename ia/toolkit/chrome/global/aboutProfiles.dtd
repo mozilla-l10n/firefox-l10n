@@ -4,6 +4,7 @@
 
 <!ENTITY aboutProfiles.title "Super profilos">
 <!ENTITY aboutProfiles.subtitle "Iste pagina te adjuta gerer tu profilos. Cata profilo es un mundo separate que contine chronologia, paginas marcate, parametros e additivos separate.">
+<!ENTITY aboutProfiles.create "Crear un nove profilo">
 <!ENTITY aboutProfiles.restart.title "Reinitiar">
 <!ENTITY aboutProfiles.restart.inSafeMode "Reinitiar con le additivos inactive…">
 <!ENTITY aboutProfiles.restart.normal "Reinitiar normalmente...">

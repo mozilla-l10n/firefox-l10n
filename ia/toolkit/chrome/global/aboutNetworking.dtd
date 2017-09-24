@@ -5,7 +5,9 @@
 <!ENTITY aboutNetworking.title                 "Super le traffico de rete">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
+<!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
+<!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Actualisar">
 <!ENTITY aboutNetworking.hostname              "Nomine del servitor hospite">
 <!ENTITY aboutNetworking.port                  "Porta">

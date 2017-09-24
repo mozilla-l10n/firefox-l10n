@@ -4,6 +4,11 @@
 
 <!ENTITY certmgr.title                       "Gestor de certificatos">
 
+<!ENTITY certmgr.tab.mine                     "Tu certificatos">
+<!ENTITY certmgr.tab.others2                  "Gente">
+<!ENTITY certmgr.tab.websites3                "Servitores">
+<!ENTITY certmgr.tab.ca                       "Autoritates">
+<!ENTITY certmgr.tab.orphan2                  "Alteros">
 
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
@@ -17,12 +22,19 @@
 <!ENTITY certmgr.periodofvalidity.label       "Periodo de validitate" >
 <!ENTITY certmgr.fingerprints.label           "Impressiones digital">
 <!ENTITY certmgr.certdetail.title             "Detalio del certificato">
+<!ENTITY certmgr.certdetail.serialnumber      "Numero serial">
 
 <!ENTITY certmgr.editcacert.title             "Editar le parametros de confidentia del CA">
 
 <!ENTITY certmgr.deletecert.title             "Deler le certificato">
 
+<!ENTITY certmgr.certserver                   "Servitor">
 <!ENTITY certmgr.override_lifetime            "Duration del vita">
+<!ENTITY certmgr.tokenname                    "Dispositivo de securitate">
+<!ENTITY certmgr.begins                       "Initia in">
+<!ENTITY certmgr.expires                      "Expira le">
+<!ENTITY certmgr.email                        "Adresse email">
+<!ENTITY certmgr.serial                       "Numero serial">
 
 <!ENTITY certmgr.close.label                  "Clauder">
 <!ENTITY certmgr.close.accesskey              "C">
@@ -55,7 +67,11 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmar le exception de securitate">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Bancas, botecas e altere sitos public legitime non te demandara pro facer isto.">
+<!ENTITY exceptionMgr.certlocation.caption2   "Servitor">
+<!ENTITY exceptionMgr.certlocation.url        "Adresse:">
+<!ENTITY exceptionMgr.certlocation.download   "Obtener le certificato">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.caption      "Stato del certificato">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
 <!ENTITY exceptionMgr.permanent.label         "Conservar permanentemente iste exception">
 <!ENTITY exceptionMgr.permanent.accesskey     "P">

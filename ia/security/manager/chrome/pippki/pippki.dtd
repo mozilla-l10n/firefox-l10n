@@ -30,6 +30,7 @@
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generante un clave private">
+<!ENTITY createCertInfo.msg2 "Per favor attende…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Authentication a token protegite">
