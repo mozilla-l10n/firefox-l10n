@@ -19,9 +19,16 @@
 <!ENTITY spellAddToDictionary.accesskey "о">
 <!ENTITY spellUndoAddToDictionary.label "Врати и додај во речник">
 <!ENTITY spellUndoAddToDictionary.accesskey "р">
+<!ENTITY spellCheckToggle.label "Провери правопис">
+<!ENTITY spellCheckToggle.accesskey "п">
 <!ENTITY spellNoSuggestions.label "(Нема предлози)">
 <!ENTITY spellDictionaries.label "Јазици">
 <!ENTITY spellDictionaries.accesskey "Ј">
 
-<!ENTITY spellCheckToggle.accesskey "п">
-<!ENTITY spellCheckToggle.label "Провери правопис">
+<!ENTITY searchTextBox.clear.label "Избриши">
+
+<!ENTITY fillLoginMenu.label          "Внеси најава">
+<!ENTITY fillPasswordMenu.label       "Внеси лозинка">
+<!ENTITY fillUsernameMenu.label       "Внеси корисничко име">
+<!ENTITY noLoginSuggestions.label     "(Нема предложени најави)">
+<!ENTITY viewSavedLogins.label        "Види зачувани најави">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Ова мрежно место користи приклучок што може го успори &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Допрете овде за активирање на приклучокот.">
 <!ENTITY clickToActivatePlugin                               "Активирај приклучок.">
 <!ENTITY checkForUpdates                                     "Провери за надградби…">
@@ -29,3 +30,4 @@
 <!ENTITY plugin.file                                         "Датотека">
 <!ENTITY plugin.mimeTypes                                    "Типови на MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Овозможи заштитен мод на работа на Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Блокирај опасни и измамнички содржини на Flash">

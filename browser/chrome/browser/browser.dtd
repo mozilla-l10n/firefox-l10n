@@ -191,6 +191,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Видете ги информациите за веб-сајтот">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори го панелот со пораки">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управување со користењето на приклучоци">
 
 

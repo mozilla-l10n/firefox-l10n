@@ -14,6 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Провери за ажурирања">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
+<!ENTITY update.updateButton.label3               "Рестартирај за да се надгради &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "Р">
 
 
