@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Neleisti prieinamumo tarnyboms pasiekti jūsų naršyklės">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "p">
 <!ENTITY  a11yPrivacy.learnmore.label    "Sužinoti daugiau">
+<!ENTITY enableSafeBrowsingLearnMore.label "Sužinoti daugiau">
