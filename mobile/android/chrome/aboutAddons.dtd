@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "Повернути">
 <!ENTITY addonAction.update                     "Оновити">
 
-<!ENTITY addonUnsigned.message                  "&brandShortName; не вдалося перевірити цей додаток.">
+<!ENTITY addonUnsigned.message                  "&brandShortName; не може перевірити цей додаток.">
 <!ENTITY addonUnsigned.learnMore                "Докладніше">
