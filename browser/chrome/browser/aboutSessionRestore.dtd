@@ -6,9 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Вибачте. В нас не виходить відновити ваші сторінки.">
-<!ENTITY restorepage.problemDesc2   "Не вдається відновити ваш останній сеанс перегляду. Натисніть Відновити сеанс, щоб спробувати ще раз.">
-<!ENTITY restorepage.tryThis2       "Досі не вдалося відновити ваш сеанс? Інколи причиною є одна вкладка. Перегляньте попередні вкладки, приберіть позначки з тих, що вам не потрібні, і спробуйте відновити ще раз.">
+<!ENTITY restorepage.errorTitle2    "Вибачте. Нам не вдається відновити ваші сторінки.">
+<!ENTITY restorepage.problemDesc2   'Нам не вдається відновити ваш останній сеанс перегляду. Оберіть "Відновити сеанс", щоб спробувати знову.'>
+<!ENTITY restorepage.tryThis2       "Досі не вдається відновити сеанс? Інколи причиною є одна вкладка. Перегляньте попередні вкладки, приберіть позначки з тих, що вам не потрібні, і спробуйте відновити ще раз.">
 
 <!ENTITY restorepage.tryagainButton2 "Відновити сеанс">
 <!ENTITY restorepage.restore.access2 "В">
