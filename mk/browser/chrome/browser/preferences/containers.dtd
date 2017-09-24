@@ -10,5 +10,6 @@
 
 <!ENTITY window.title         "Додај нов контејнер">
 
+<!ENTITY name.placeholder     "Внесете име на контејнер">
 
 <!ENTITY button.ok.label      "Готово">

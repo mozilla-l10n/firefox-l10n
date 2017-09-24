@@ -8,6 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "л">
 
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме вознемирувај">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Нема да се прикажуваат известувања сѐ додека не го рестартирате &brandShortName;">
 
 <!ENTITY  popupExceptions.label                                 "Исклучоци…">
 <!ENTITY  popupExceptions.accesskey                             "с">

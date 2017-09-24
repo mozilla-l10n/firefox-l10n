@@ -4,8 +4,11 @@
 
 <!ENTITY startup.label             "Стартување">
 
+<!ENTITY startupUserHomePage.label "Прикажи ја мојата почетна страница">
 <!ENTITY startupBlankPage.label    "Прикажи празна страница">
+<!ENTITY startupPrevSession.label  "Прикажи ги прозорците и јазичињата од последниот пат">
 
+<!ENTITY homepage2.label           "Почетна страница">
 <!ENTITY useCurrentPage.label      "Вчитана страница">
 <!ENTITY useCurrentPage.accesskey  "и">
 <!ENTITY useMultiple.label         "Сите вчитани">
@@ -13,6 +16,7 @@
 <!ENTITY chooseBookmark.accesskey  "б">
 <!ENTITY restoreDefault.label      "Основна страница">
 <!ENTITY restoreDefault.accesskey  "р">
+
 
 <!ENTITY downloads.label     "Преземања">
 
@@ -22,6 +26,11 @@
 <!ENTITY chooseFolderWin.accesskey    "з">
 <!ENTITY chooseFolderMac.label        "Изберете…">
 <!ENTITY chooseFolderMac.accesskey    "е">
+<!ENTITY alwaysAskWhere.label         "Секогаш прашувај ме каде да се снимаат датотеките">
 
+<!ENTITY alwaysCheckDefault2.label        "Секогаш проверувај дали &brandShortName; е мојот основен прелистувач">
+<!ENTITY isDefault.label                  "&brandShortName; е вашиот основен прелистувач">
+<!ENTITY isNotDefault.label               "&brandShortName; не е вашиот основен прелистувач">
 
+<!ENTITY separateProfileMode.label        "Дозволи &brandShortName; и Firefox да работат во исто време">
 
