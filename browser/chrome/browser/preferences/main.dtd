@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Palauta oletusasetus">
 <!ENTITY restoreDefault.accesskey  "P">
 
+<!ENTITY disableExtension.label    "Poista laajennus käytöstä">
+
 <!ENTITY downloads.label     "Lataukset">
 
 <!ENTITY saveTo.label "Tallenna kansioon">

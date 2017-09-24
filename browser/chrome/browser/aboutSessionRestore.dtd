@@ -6,16 +6,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Oho, nyt kävi nolosti...">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ei onnistunut palauttamaan avattuja ikkunoita ja välilehtiä. Tämä yleisimmin johtuu jostakin äskettäin avatusta sivusta.">
-<!ENTITY restorepage.tryThis        "Voit yrittää:">
-<!ENTITY restorepage.restoreSome    "Poistaa yhden tai useamman välilehden, jonka voisit kuvitella aiheuttavan ongelman">
-<!ENTITY restorepage.startNew       "Aloittaa uuden istunnon">
 
-<!ENTITY restorepage.tryagainButton "Palauta edellinen istunto">
-<!ENTITY restorepage.restore.access "P">
-<!ENTITY restorepage.closeButton    "Sulje">
-<!ENTITY restorepage.close.access   "S">
+<!ENTITY restorepage.tryagainButton2 "Palauta istunto">
+<!ENTITY restorepage.restore.access2 "P">
+<!ENTITY restorepage.closeButton2    "Aloita uusi istunto">
+<!ENTITY restorepage.close.access2   "A">
 
 <!ENTITY restorepage.restoreHeader  "Palauta">
 <!ENTITY restorepage.listHeader     "Ikkunat ja välilehdet">
