@@ -3,6 +3,13 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "Refrescar &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "Initiar fresc pro fixar problemas e restabilir le performance.">
+<!ENTITY refreshProfile.dialog.description2  "Isto:">
+<!ENTITY refreshProfile.dialog.items.label1  "removera tu additivos e personalisationes">
+<!ENTITY refreshProfile.dialog.items.label2  "restaurara le parametros de tu navigator a lor predefinitiones">
+<!ENTITY refreshProfile.dialog.button.label  "refrescara &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Da a &brandShortName; un affinamento">
+<!ENTITY refreshProfile.button.label         "Refrescar &brandShortName;…">
 
+<!ENTITY refreshProfile.cleaning.description "Quasi facite...">

@@ -5,8 +5,12 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Imprimente"> 
 <!ENTITY title    "Titulo:"> 
+<!ENTITY progress "Progresso:">
+<!ENTITY preparing "In preparation...">
+<!ENTITY printComplete "Impression completate.">
 
- 
+<!ENTITY dialogCancel.label "Cancellar"> 
+<!ENTITY dialogClose.label "Clauder">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 
@@ -14,3 +18,4 @@
     meter.
 
     #1 will be replaced by the percentage of the file that has been saved -->
+<!ENTITY percentPrint "#1&#037;">
