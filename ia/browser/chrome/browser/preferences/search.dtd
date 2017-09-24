@@ -2,16 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Barra de recerca">
 
+<!ENTITY searchBar.hidden.label                "Utilisar le barra de adresse pro recercar e navigar">
+<!ENTITY searchBar.shown.label                 "Adder le barra de recerca in le barra de utensiles">
 
+<!ENTITY defaultSearchEngine.label             "Motor de recerca predefinite">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Selige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.">
 
+<!ENTITY provideSearchSuggestions.label        "Provider le suggestiones de recerca">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions2.label           "Monstrar le suggestiones de recerca in le resultatos del barra de adresses">
+<!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate &brandShortName; pro non memorisar jammais le chronologia.">
 
+<!ENTITY oneClickSearchEngines.label           "Motores de recerca a un sol clic">
 
 <!ENTITY chooseWhichOneToDisplay2.label         "Eliger le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia scriber un parola clave.">
 
+<!ENTITY engineNameColumn.label                "Motor de recerca">
+<!ENTITY engineKeywordColumn.label             "Parola clave">
 
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar le motores de recerca predefinite">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
+<!ENTITY removeEngine.label                    "Remover">
+<!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY findMoreSearchEngines.label           "Trovar plus motores de recerca">

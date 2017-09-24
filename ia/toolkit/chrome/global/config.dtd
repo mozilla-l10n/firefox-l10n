@@ -12,6 +12,9 @@
 <!ENTITY aboutWarningCheckbox.label "Monstrar iste advertentia le proxime vice">
 
 <!ENTITY searchPrefs.label "Cercar:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "Nomine del preferentia">
@@ -24,12 +27,24 @@
  
 
 <!-- Context Menu -->
+<!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Copiar">
+<!ENTITY copyPref.accesskey "C">
 <!ENTITY copyName.label "Copiar le nomine">
+<!ENTITY copyName.accesskey "N">
 <!ENTITY copyValue.label "Copiar le valor">
+<!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Modificar">
+<!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "Inverter">
+<!ENTITY toggle.accesskey "T">
+<!ENTITY reset.label "Remontar">
+<!ENTITY reset.accesskey "R">
 <!ENTITY new.label "Nove">
+<!ENTITY new.accesskey "w">
 <!ENTITY string.label "Catena de characteres">
+<!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Integre">
+<!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">

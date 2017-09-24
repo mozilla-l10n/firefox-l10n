@@ -6,5 +6,8 @@
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
 <!ENTITY highlightAll.label "Evidentiar toto">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY caseSensitive.label "Distinger le majusculas">
+<!ENTITY caseSensitive.accesskey "c">
 <!ENTITY entireWord.label "Parolas complete">
+<!ENTITY entireWord.accesskey "w">

@@ -2,12 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY startup.label             "Initio">
 
+<!ENTITY startupPage2.label        "Durante que &brandShortName; initia">
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "Monstra vostre pagina initial">
+<!ENTITY startupBlankPage.label    "Monstra un pagina vacue">
+<!ENTITY startupPrevSession.label  "Monstra le fenestras e schedas de vostre ultime vice">
 
+<!ENTITY homepage2.label           "Pagina initial">
+<!ENTITY homepage2.accesskey       "P">
+<!ENTITY useCurrentPage.label      "Usar le pagina actual">
+<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useMultiple.label         "Usar le paginas actual">
+<!ENTITY chooseBookmark.label      "Usar un pagina marcate…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "Restaurar le predefinition">
+<!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "Disactivar le extension">
 
+<!ENTITY downloads.label     "Discargas">
 
+<!ENTITY saveTo.label "Memorisar le files in">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "Perquirer…">
+<!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Eliger…">
+<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Sempre questionar te ubi salvar le files">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
+<!ENTITY alwaysCheckDefault2.label        "Sempre verificar si &brandShortName; es tu navigator ordinari">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "Predefinir…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
+<!ENTITY isDefault.label                  "&brandShortName; es actualmente tu navigator ordinari">
+<!ENTITY isNotDefault.label               "&brandShortName; non es tu navigator ordinari">
 
+<!ENTITY separateProfileMode.label        "Permitter que &brandShortName; e Firefox exeque al mesme tempore">
+<!ENTITY useFirefoxSync.label             "Consilio: Profilos distincte es utilisate. Usa Sync pro compartir datos inter illos.">
+<!ENTITY getStarted.notloggedin.label     "Authenticar se a &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Aperir le preferentias de &syncBrand.shortName.label;">
 
+<!ENTITY e10sEnabled.label                "Activar &brandShortName; in mutiprocesso">

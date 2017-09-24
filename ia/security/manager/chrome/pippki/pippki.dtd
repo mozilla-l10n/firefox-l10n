@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
+<!ENTITY setPassword.title  "Modificar le contrasigno maestro">
 <!ENTITY setPassword.tokenName.label "Apparato de securitate">
 <!ENTITY setPassword.oldPassword.label "Contrasigno actual:">
 <!ENTITY setPassword.newPassword.label "Nove contrasigno:">
@@ -10,6 +11,8 @@
 <!ENTITY setPassword.meter.label "Mensurator de qualitate del contrasigno">
 
 <!-- Values for resetpassword.xul -->
+<!ENTITY resetPasswordButtonLabel "Remontar">
+<!ENTITY resetPassword.title  "Remontar le contrasigno maestro">
 <!ENTITY resetPassword.text  "Si tu remonta tu contrasigno maestro, tote tu contrasignos de email e de web, datos de formularios e claves private essera oblidate. Desira tu vermente remontar tu contrasigno maestro?">
 
 <!-- Downloading a cert -->

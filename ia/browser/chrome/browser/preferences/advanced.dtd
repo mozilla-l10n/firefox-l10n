@@ -4,25 +4,62 @@
 
 <!-- Note: each tab panel must contain unique accesskeys -->
 
+<!ENTITY generalTab.label                "General">
 
+<!ENTITY useCursorNavigation.label       "Sempre usar le claves con le sagittas directional pro navigar intra le paginas">
+<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Cercar le texto quando vos comencia scriber">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY useOnScreenKeyboard.label       "Monstrar un claviero tactile quando necessari">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
+<!ENTITY browsing.label                  "Navigante">
 
+<!ENTITY useAutoScroll.label             "Usar autorolamento">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Usar le rolamento suave">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "Verificar le orthographia durante que vos scribe">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
+<!ENTITY dataChoicesTab.label            "Selectiones de datos">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Le reporto de datos es inactive pro iste configuration de compilation">
 
+<!ENTITY enableHealthReport2.label       "Permitter que &brandShortName; invia datos technic e de interaction a Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
+<!ENTITY healthReportLearnMore.label     "Saper plus">
 
+<!ENTITY dataCollection.label            "Collecta de datos e utilisation de &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar &brandShortName; a totes. Nos sempre demanda permission ante reciper informationes personal.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Advertentia de privacitate">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitter que &brandShortName; invia reportos de collapso a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY crashReporterLearnMore.label    "Saper plus">
 
+<!ENTITY networkTab.label                "Rete">
 
+<!ENTITY networkProxy.label              "Proxy de rete">
 
+<!ENTITY connectionDesc.label            "Configura como &brandShortName; se connecte a Internet">
+<!ENTITY connectionSettings.label        "Parametros…">
+<!ENTITY connectionSettings.accesskey    "e">
 
+<!ENTITY httpCache.label                 "Contento web in cache">
 
+<!ENTITY offlineStorage2.label           "Contento web e datos de usator disconnectite">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Datos del sitos">
+<!ENTITY clearSiteData.label             "Vacuar tote le datos">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Parametros…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Saper plus">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -30,22 +67,90 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+<!ENTITY limitCacheSizeBefore.label      "Limitar le cache a">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB de spatio">
+<!ENTITY clearCacheNow.label             "Vacuar ora">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "Vacuar ora">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "Supplantar le gestion automatic del cache">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
+<!ENTITY updateTab.label                 "Actualisar">
 
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "Actualisationes de &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Mantene &brandShortName; actualisate pro le melior rendimento, stabilitate e securitate.">
+<!ENTITY updateApplication.version.pre   "Version ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Permitter &brandShortName; a">
+<!ENTITY updateAuto3.label               "Installar le actualisationes automaticamente (recommendate)">
+<!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Recercar actualisationes ma permitter que vos decide si tu los installara">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Non recercar jammais actualisationes (non recommendate)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Monstrar le chronologia de actualisationes…">
+<!ENTITY updateHistory2.accesskey        "p">
 
+<!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
+<!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "Actualisar automaticamente le motores de cerca">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.label               "Adverti te quando un sito web demanda stockar datos pro usar disconnectite">
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceptiones…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "Le sitos web sequente ha permission de stockar datos pro usar los sin connexion">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Remover…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "Remover le datos pro uso disconnectite">
 
+<!ENTITY certificateTab.label            "Certificatos">
+<!ENTITY certPersonal2.description       "Quando un servitor requesta vostre certificato personal">
+<!ENTITY selectCerts.auto                "Selectionar un automaticamente">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Questionar te a cata vice">
+<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.label                "Querer le servitores responditor OCSP pro confirmar le validitate actual del certificatos">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts2.label                "Vider le certificatos…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Apparatos de securitate…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY performance.label               "Rendimento">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Usar le parametros de rendimento recommendate">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Iste parametros es adaptate al hardware e al systema operative de vostre computator.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Saper plus">
+<!ENTITY limitContentProcessOption.label "Limite de processos de contento">
+<!ENTITY limitContentProcessOption.description
+                                         "Processos de contento additional pote meliorar le rendimento quando uno utilisa multiple schedas. ma tamben usara plus memoria.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificar le numero de processos de contento es solmente possibile con &brandShortName; in multiprocesso.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Apprender a verificar si le multiprocesso es active">
+<!ENTITY allowHWAccel.label              "Usar le acceleration de hardware quando disponibile">
+<!ENTITY allowHWAccel.accesskey          "r">

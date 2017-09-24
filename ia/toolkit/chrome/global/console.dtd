@@ -9,19 +9,29 @@
 <!ENTITY errColumn.label "Columna:">
 
 <!ENTITY all.label          "Toto">
+<!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "Errores">
+<!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Advertentias">
+<!ENTITY warnings.accesskey "W">
 <!ENTITY messages.label     "Messages">
+<!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Vacuar">
+<!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Codice:">
+<!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Evalutar">
+<!ENTITY evaluate.accesskey "v">
 <!ENTITY filter2.label      "Filtrar:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "Copiar">  
- 
- 
+<!ENTITY copyCmd.accesskey   "C"> 
+<!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Ordine prime > ultime">
+<!ENTITY sortFirst.accesskey "f">
 <!ENTITY sortLast.label      "Ordine ultime > prime">
-  
-  
-  
+<!ENTITY sortLast.accesskey  "l">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

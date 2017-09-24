@@ -6,5 +6,17 @@
 
 <!ENTITY findDialog.title "Cercar in iste pagina">
 <!ENTITY findField.label "Que cercar:">
+<!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Distinger le majusculas">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Circuir">
+<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY findButton.label "Trovar le sequente">
+<!ENTITY findButton.accesskey "F">
+<!ENTITY cancelButton.label "Cancellar">
+<!ENTITY closeButton.label "Clauder">
+<!ENTITY up.label "Supra">
+<!ENTITY up.accesskey "U">
+<!ENTITY down.label "Basso">
+<!ENTITY down.accesskey "D">
+<!ENTITY direction.label "Direction">

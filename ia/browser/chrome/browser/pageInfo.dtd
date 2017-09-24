@@ -2,16 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "550">
 
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Copiar">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Selectionar toto">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
 
+<!ENTITY  generalTab            "General">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Titulo:">
+<!ENTITY  generalURL            "Adresse:">
+<!ENTITY  generalType           "Typo:">
+<!ENTITY  generalMode           "Modo de presentar:">
+<!ENTITY  generalSize           "Grandor:">
+<!ENTITY  generalReferrer       "URL referente:">
+<!ENTITY  generalSource         "Fonte del cache:">
+<!ENTITY  generalModified       "Modificate:">
+<!ENTITY  generalEncoding2      "Codification del texto:">
+<!ENTITY  generalMetaName       "Nomine">
+<!ENTITY  generalMetaContent    "Contento">
 
+<!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Adresse:">
+<!ENTITY  mediaText             "Texto associate:">
+<!ENTITY  mediaAltHeader        "Texto alternative">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Typo">
+<!ENTITY  mediaSize             "Grandor">
+<!ENTITY  mediaCount            "Quantitate">
+<!ENTITY  mediaDimension        "Dimensiones:">
+<!ENTITY  mediaLongdesc         "Description longe:">
 <!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Memorisar como…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Vista preliminar del media:">
 
 <!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
@@ -21,25 +52,36 @@
 <!ENTITY  permTab               "Permissiones">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Usar le predefinition">
+<!ENTITY  permAskAlways         "Sempre questionar">
 <!ENTITY  permAllow             "Permitter">
 <!ENTITY  permAllowSession      "Permitter pro le session">
 <!ENTITY  permBlock             "Blocar">
+<!ENTITY  permissionsFor        "Permissiones pro:">
+<!ENTITY  permPlugins           "Activar le plugins">
 
+<!ENTITY  permClearStorage           "Vacuar le datos stockate">
 <!ENTITY  permClearStorage.accesskey "C">
 
+<!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Vider le certificato">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Incognite">
 
 
+<!ENTITY  securityView.identity.header   "Identitate del sito web">
 <!ENTITY  securityView.identity.owner    "Proprietario:">
 <!ENTITY  securityView.identity.domain   "Sito web:">
 <!ENTITY  securityView.identity.verifier "Verificate per:">
 <!ENTITY  securityView.identity.validity "Expira le:">
 
+<!ENTITY  securityView.privacy.header                   "Privacitate e historico">
+<!ENTITY  securityView.privacy.history                  "Ha io visitate iste sito web anteriormente?">
+<!ENTITY  securityView.privacy.cookies                  "Esque iste sito web stocka informationes (cookies) in mi computator?">
 <!ENTITY  securityView.privacy.viewCookies              "Vider le cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.passwords                "Ha io memorisate alcun contrasigno pro iste sito web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Vider le contrasignos memorisate">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Detalios technic">

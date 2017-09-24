@@ -6,6 +6,24 @@
 
 <!ENTITY printJobOptions.title "Proprietates del impressor">
 
+<!ENTITY paperInput.label "Grandor del papiro:">
+<!ENTITY paperInput.accesskey "P">
 
+<!ENTITY jobTitleInput.label "Titulo del labor:">
+<!ENTITY jobTitleInput.accesskey "J">
 
+<!ENTITY colorGroup.label "Color:">
+<!ENTITY grayRadio.label "Scala de gris">
+<!ENTITY grayRadio.accesskey "G">
+<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.accesskey "C">
 
+<!ENTITY edgeMarginInput.label "Spatio inter le bordo del papiro e le margine">
+<!ENTITY topInput.label "A supra:">
+<!ENTITY topInput.accesskey "T">
+<!ENTITY bottomInput.label "A basso:">
+<!ENTITY bottomInput.accesskey "B">
+<!ENTITY leftInput.label "A sinistra:">
+<!ENTITY leftInput.accesskey "S">
+<!ENTITY rightInput.label "A dextere:">
+<!ENTITY rightInput.accesskey "D">

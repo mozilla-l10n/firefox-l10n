@@ -2,19 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Securitate">
 
+<!ENTITY  warnOnAddonInstall2.label       "Advertir te quando sitos web tenta installar additivos">
+<!ENTITY  warnOnAddonInstall2.accesskey   "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Contento deceptive e protection contra software periculose">
+<!ENTITY  enableSafeBrowsing.label        "Blocar le contentos periculose o fraudulente">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
+
+<!ENTITY  blockDownloads.label            "Blocar le discargas periculose">
+<!ENTITY  blockDownloads.accesskey        "D">
+
+<!ENTITY  blockUncommonAndUnwanted.label     "Advertir te de software indesirabile o non commun">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
+
+<!ENTITY  addonExceptions.label         "Exceptions…">
+<!ENTITY  addonExceptions.accesskey     "E">
 
 
-
-
-
+<!ENTITY  formsAndPasswords.label       "Formularios e contrasignos">
 
 <!ENTITY  rememberLogins2.label         "Memorisar le identificatores e contrasignos pro authenticar in le sitos web">
+<!ENTITY  rememberLogins2.accesskey     "R">
+<!ENTITY  passwordExceptions.label      "Exceptiones…">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
+<!ENTITY  useMasterPassword.label        "Usar un contrasigno maestro">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "Modificar le contrasigno maestro…">
+<!ENTITY  changeMasterPassword.accesskey "M">
 
+<!ENTITY  savedLogins.label              "Authenticationes memorisate…">
+<!ENTITY  savedLogins.accesskey          "L">

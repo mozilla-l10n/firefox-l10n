@@ -12,7 +12,12 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.thisPageIsIn.label         "Iste pagina es in">
+<!ENTITY translation.translateThisPage.label    "Traducer iste pagina?">
+<!ENTITY translation.translate.button           "Traducer">
+<!ENTITY translation.notNow.button              "Plus tarde">
 
+<!ENTITY translation.translatingContent.label   "Traducente le contento del pagina…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -29,15 +34,28 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+<!ENTITY translation.translatedFrom.label       "Iste pagina ha essite traducite per">
+<!ENTITY translation.translatedTo.label         "pro">
+<!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "Monstrar original">
+<!ENTITY translation.showTranslation.button     "Monstrar traduction">
 
+<!ENTITY translation.errorTranslating.label     "Un error occurreva durante le traduction de iste pagina.">
+<!ENTITY translation.tryAgain.button            "Retentar">
 
+<!ENTITY translation.serviceUnavailable.label   "Le traduction non es ancora disponibile. Per favor tenta plus tarde.">
 
+<!ENTITY translation.options.menu               "Optiones">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "Non traduce jammais iste sito">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Preferentias de traduction">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -45,6 +63,7 @@
   -  logo.
   -->
 <!ENTITY translation.options.attribution.beforeLogo "Traductiones per">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,

@@ -3,11 +3,33 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Editar">
+<!ENTITY editMenu.accesskey        "e">
+<!ENTITY undoCmd.label             "Disfacer">
+<!ENTITY undoCmd.key               "Z">
+<!ENTITY undoCmd.accesskey         "u">
 <!ENTITY redoCmd.label             "Refacer">
+<!ENTITY redoCmd.key               "Y">
+<!ENTITY redoCmd.accesskey         "r">
 <!ENTITY cutCmd.label              "Taliar">
+<!ENTITY cutCmd.key                "X">
+<!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label             "Copiar">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY pasteCmd.label            "Collar">
+<!ENTITY pasteCmd.key              "V">
+<!ENTITY pasteCmd.accesskey        "p">
 <!ENTITY deleteCmd.label           "Deler">
+<!ENTITY deleteCmd.accesskey       "d">
 <!ENTITY selectAllCmd.label        "Selectionar toto">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Cercar">
+<!ENTITY findCmd.key               "F">
+<!ENTITY findCmd.accesskey         "F">
 <!ENTITY findAgainCmd.label        "Cercar le sequente">
+<!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
 <!ENTITY findPreviousCmd.label     "Cercar le precedente">
+<!ENTITY findPreviousCmd.accesskey "v">

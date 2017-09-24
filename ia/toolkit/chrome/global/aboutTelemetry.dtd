@@ -9,4 +9,6 @@
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetria">
 
 
+<!ENTITY aboutTelemetry.slowSqlSection "Instructiones SQL lente">
+<!ENTITY aboutTelemetry.addonDetailsSection "Detalios del additivo">
 
