@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Sivuston tietojen poisto">
 <!ENTITY     removingSelected.description  "Sivuston tallentamien tietojen poistaminen poistaa myös evästeet ja yhteydetöntä tilaa varten tallennetut tiedot. Tämä voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?">
-<!ENTITY     siteTree.label                "Seuraavat sivustojen evästeet poistetaan:">
+<!ENTITY     siteTree2.label               "Seuraavat sivustojen evästeet poistetaan">
