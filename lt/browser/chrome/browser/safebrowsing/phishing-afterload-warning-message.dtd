@@ -40,10 +40,14 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Yra pranešta, jog <span id='unwanted_sitename'/> svetainė <a id='error_desc_link'>yra kenkėjiška</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Sužinokite daugiau apie kenkėjišką ir nepageidaujamą programinę įrangą <a id='learn_more_link'>nepageidaujamos programinės įrangos nuostatuose</a>. Sužinokite daugiau apie „&brandShortName;“ apsaugą nuo sukčiavimo ir kenkėjiškų programų per <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Atveriama apgaulinga svetainė">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "„&brandShortName;“ užblokavo šį tinklalapį, nes jis gali bandyti priversti jus atlikti kažką pavojingo, pvz., įdiegti programinę įrangą arba atskleisti asmeninę informaciją, kaip slaptažodžius ar banko korteles.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Yra pranešta, jog <span id='phishing_sitename'/> svetainė <a id='error_desc_link'>yra kenkėjiška</a>. Jūs galite <a id='report_detection'>pranešti apie aptikimo klaidą</a> arba <a id='ignore_warning_link'>nepaisyti įspėjimo</a> ir atverti šią nesaugią svetainę.">
 
 
 
