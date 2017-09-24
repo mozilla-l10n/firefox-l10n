@@ -19,6 +19,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Услови за употреба">
+<!ENTITY fxaPrivacyNotice.link.label "Белешка за приватност">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
