@@ -17,16 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Отакої. Ваша вкладка не працює.">
 <!ENTITY tabCrashed.offerHelp2 "Ми можемо допомогти!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab; щоб оновити сторінку.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab; чи &tabCrashed.restoreAll; щоб оновити сторінку/сторінки.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab;, щоб перезавантажити сторінку.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Оберіть &tabCrashed.restoreTab; чи &tabCrashed.restoreAll;, щоб перезавантажити сторінку/сторінки.">
 <!ENTITY tabCrashed.requestHelp "А ви нам допоможете?">
 <!ENTITY tabCrashed.requestHelpMessage "Звіти про збої допомагають нам виявляти проблеми і робити &brandShortName; кращим.">
 <!ENTITY tabCrashed.requestReport "Повідомте про збій вкладки">
-<!ENTITY tabCrashed.sendReport3 "Надішліть автоматичний звіт про збої, щоб ми могли виправити подібні помилки.">
+<!ENTITY tabCrashed.sendReport3 "Надішліть автоматичний звіт про збій, щоб ми могли виправити подібні помилки.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Необов'язковий коментар (коментарі бачать всі)">
-<!ENTITY tabCrashed.includeURL3 "Вкажіть URL-адреси сайтів, на яких ви були, коли &brandShortName; впав.">
+<!ENTITY tabCrashed.includeURL3 "Включити URL-адреси сайтів, які були відкриті в момент збою &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Введіть свою адресу е-пошти">
 <!ENTITY tabCrashed.emailMe "Повідомити мене, коли стане доступно більше інформації">
 <!ENTITY tabCrashed.reportSent "Звіт про збій надіслано. Дякуємо вам за те, що допомагаєте зробити &brandShortName; кращим!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Повідомляти про збої вкладок без моєї участі">
-<!ENTITY tabCrashed.autoSubmit3 "Оновіть налаштування, аби автоматично надсилати звіти, коли &brandShortName; падає.">
+<!ENTITY tabCrashed.autoSubmit3 "Змініть налаштування для автоматичного надсилання звітів про збої &brandShortName;.">
