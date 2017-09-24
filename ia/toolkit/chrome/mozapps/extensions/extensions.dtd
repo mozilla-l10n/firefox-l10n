@@ -1,46 +1,87 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY addons.windowTitle                   "Gestor de additivos">
 
+<!ENTITY search.placeholder                   "Cercar in tote le additivos">
+<!ENTITY search.buttonlabel                   "Cercar">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
 
+<!ENTITY loading.label                        "Cargante…">
+<!ENTITY listEmpty.installed.label            "Vos non ha additivos de iste typo installate">
 <!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
+<!ENTITY listEmpty.recentUpdates.label        "Tu non ha actualisate ulle additivo recentemente">
+<!ENTITY listEmpty.findUpdates.label          "Recercar le actualisationes">
+<!ENTITY listEmpty.search.label               "Nulle additivo correspondente ha essite trovate">
+<!ENTITY listEmpty.button.label               "Saper plus super additivos">
+<!ENTITY installAddonFromFile.label           "Installar additivo ab un file…">
+<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY toolsMenu.tooltip                    "Utensiles pro tote le additivos">
 
+<!ENTITY getThemes.description                "Cerca tu de personalisar tu navigator?">
+<!ENTITY getThemes.learnMore                  "Eliger inter milles de themas.">
 
+<!ENTITY cmd.back.tooltip                     "Ir un pagina retro">
+<!ENTITY cmd.forward.tooltip                  "Ir un pagina avante">
 
 <!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
 <!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
+<!ENTITY debugAddons.label                    "Facer le depuration del additivos">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
+<!ENTITY warning.safemode.label                    "Tote le additivos ha essite inactivate per le modo secur.">
+<!ENTITY warning.checkcompatibility.label          "Le verification de compatibilitate de additivos es inactive. Vos pote haber additivos incompatibile.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activar">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Activar le verification de compatibilitate de additivos">
+<!ENTITY warning.updatesecurity.label              "Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.">
 <!ENTITY warning.updatesecurity.enable.label       "Activar">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Activar le verification de securitate pro le actualisation del additivos">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Cercar">
+<!ENTITY view.discover.label                  "Obtener additivos">
 <!ENTITY view.recentUpdates.label             "Actualisationes recente">
 <!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
 
 <!-- addon updates -->
+<!ENTITY updates.checkForUpdates.label        "Recercar actualisationes">
+<!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "Vider le actualisationes recente">
+<!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
+<!ENTITY updates.updateAddonsAutomatically.label     "Actualisar le additivos automaticamente">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Redefinir tote le additivos faciente los actualisar automaticamente">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToManual.label          "Redefinir tote le additivos faciente los actualisar manualmente">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.updating.label               "Actualisante additivos">
+<!ENTITY updates.installed.label              "Vostre additivos ha essite actualisate.">
+<!ENTITY updates.downloaded.label             "Le actualisationes de vostre additivos ha essite discargate.">
 <!ENTITY updates.restart.label                "Reinitiar pro completar le installation">
 <!ENTITY updates.noneFound.label              "Nulle actualisationes trovate">
 <!ENTITY updates.manualUpdatesFound.label     "Vider le actualisationes disponibile">
 <!ENTITY updates.updateSelected.label         "Installar le actualisationes">
+<!ENTITY updates.updateSelected.tooltip       "Installar le actualisationes disponibile de iste lista">
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "Monstrar plus informationes">
+<!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Cercar actualisationes">
+<!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "Optiones">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
 <!ENTITY cmd.about.label                      "Super">
 
