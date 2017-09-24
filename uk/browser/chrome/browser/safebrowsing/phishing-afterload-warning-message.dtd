@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> відомий <a id='error_desc_link'>як такий, що містить потенційно зловмисну програму</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "Дізнайтеся більше про захист від фішингу та шкідливих програм в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Дізнайтеся більше про те, як працює захист від шахрайства та зловмисного програмного забезпечення в &brandShortName; на сайті <a id='firefox_support'>support.mozilla.org</a>.">
