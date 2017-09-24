@@ -46,7 +46,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Avaa verkon kirjautumissivu">
 
+<!ENTITY malformedURI.pageTitle "Virheellinen osoite">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Tuo osoite ei näytä oikealta.">
 
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
