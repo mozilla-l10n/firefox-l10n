@@ -45,6 +45,9 @@ Vanhemmat
 <!ENTITY aboutTelemetry.moreInformations "
 Etsitkö lisätietoa?
 ">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> sisäktää englanniksi oppaita datatyökalujen käytöstä.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry client documentation</a> sisältää englanniksi käsitteiden määritelmät, API-dokumentaation ja dataviittaukset.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Kaukomittaustietojen kojelautojen</a> avulla voi visualisoida dataa, jota Mozilla vastaanottaa kaukomittauksen avulla.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Avaa JSON-katselimessa
