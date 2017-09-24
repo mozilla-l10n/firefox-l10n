@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ค่ากำหนด">
 <!ENTITY preferencesCmdUnix.accesskey     "ด">
 
-<!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
+<!ENTITY clearRecentHistory.label               "ล้างประวัติล่าสุด…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -353,10 +353,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "ออกจากการปรับแต่ง">
 <!ENTITY appMenuCustomizeExit.tooltip "เสร็จสิ้นการปรับแต่ง">
 <!ENTITY appMenuHistory.showAll.label "แสดงประวัติทั้งหมด">
-<!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติเมื่อเร็ว ๆ นี้…">
+<!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติล่าสุด…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
-<!ENTITY appMenuHistory.recentHistory.label "ประวัติเมื่อเร็ว ๆ นี้">
+<!ENTITY appMenuHistory.recentHistory.label "ประวัติล่าสุด">
 <!ENTITY appMenuHelp.label "ช่วยเหลือ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 
-<!ENTITY appMenuRecentHighlights.label "รายการเด่นเมื่อเร็ว ๆ นี้">
+<!ENTITY appMenuRecentHighlights.label "รายการเด่นล่าสุด">
 
 <!ENTITY customizeMenu.addToToolbar.label "เพิ่มไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.addToToolbar.accesskey "พ">
@@ -902,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
 <!ENTITY trackingProtection.block2.accesskey "ป">
 
-<!ENTITY trackingContentBlocked.message "การติดตาม">
-<!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
-<!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่มเติม">
-<!ENTITY trackingContentBlocked.options "ตัวเลือก">
-<!ENTITY trackingContentBlocked.unblock2.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "ป">
-<!ENTITY trackingContentBlocked.block.label "เปิดใช้งานการป้องกัน">
-<!ENTITY trackingContentBlocked.block.accesskey "ป">
-<!ENTITY trackingContentBlocked.disabled.message "การป้องกันการติดตามถูกปิดใช้งาน">
-
 <!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
 <!ENTITY pluginNotification.showAll.accesskey "ส">
 
@@ -942,15 +932,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "การดำเนินการจะ:">
-<!ENTITY panicButton.view.deleteCookies           "ลบ<html:strong>คุกกี้</html:strong>เมื่อเร็ว ๆ นี้">
-<!ENTITY panicButton.view.deleteHistory           "ลบ<html:strong>ประวัติ</html:strong>เมื่อเร็ว ๆ นี้">
+<!ENTITY panicButton.view.deleteCookies           "ลบ<html:strong>คุกกี้</html:strong>ล่าสุด">
+<!ENTITY panicButton.view.deleteHistory           "ลบ<html:strong>ประวัติ</html:strong>ล่าสุด">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด<html:strong>แท็บ</html:strong>และ<html:strong>หน้าต่าง</html:strong>ทั้งหมด">
 <!ENTITY panicButton.view.openNewWindow           "เปิดหน้าต่างว่างใหม่">
 
 <!ENTITY panicButton.view.undoWarning             "การกระทำนี้ไม่สามารถเลิกทำได้">
 <!ENTITY panicButton.view.forgetButton            "ลืมซะ!">
 
-<!ENTITY panicButton.thankyou.msg1                "ล้างประวัติเมื่อเร็ว ๆ นี้ของคุณแล้ว">
+<!ENTITY panicButton.thankyou.msg1                "ล้างประวัติล่าสุดของคุณแล้ว">
 <!ENTITY panicButton.thankyou.msg2                "การท่องเว็บปลอดภัย!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณ!">
 
@@ -990,3 +980,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
 
 <!ENTITY libraryButton.tooltip "ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
