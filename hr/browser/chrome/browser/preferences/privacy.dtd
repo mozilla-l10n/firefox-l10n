@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Spriječite servise pristupačnosti da pristupaju vašem pregledniku">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Saznajte više">
+<!ENTITY enableSafeBrowsingLearnMore.label "Saznajte više">

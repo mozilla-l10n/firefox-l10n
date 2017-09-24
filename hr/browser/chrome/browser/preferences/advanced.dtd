@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Općenito">
 
@@ -23,14 +23,14 @@
 <!ENTITY checkUserSpelling.accesskey     "v">
 
 <!ENTITY dataChoicesTab.label            "Izbori podataka">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Izvještaji s podacima su onemogućeni za konfiguraciju">
 
-<!ENTITY enableHealthReport1.label       "Dozvoli da &brandShortName; automatski šalje tehničke podatke i podatke interakcije Mozilli">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Dozvolite da &brandShortName; šalje tehničke i podatke interakcije Mozilli">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Saznajte više">
 
 <!ENTITY dataCollection.label            "&brandShortName; korištenje i skupljanje podataka">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Web sadržaj u priručnoj memoriji">
 
 <!ENTITY offlineStorage2.label           "Izvanmrežni web sadržaj i korisnički podaci">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Podaci o stranici">
 <!ENTITY clearSiteData.label             "Očisti sve podatke">
 <!ENTITY clearSiteData.accesskey         "t">
 <!ENTITY siteDataSettings.label          "Postavke...">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Saznajte više">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Ograniči priručnu memoriju na">
 <!ENTITY limitCacheSizeBefore.accesskey  "m">
 <!ENTITY limitCacheSizeAfter.label       "MB prostora">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "a">
 
 <!ENTITY updateTab.label                 "Nadogradnje">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName; dopune">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Ažurirajte &brandShortName; kako bi imali najbolje preformanse, stabilnost i sigurnost.">
+<!ENTITY updateApplicationDescription.label
+                                         "Ažurirajte &brandShortName; kako bi imali najbolje preformanse, stabilnost i sigurnost.">
 <!ENTITY updateApplication.version.pre   "Inačica ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Dozvoli &brandShortName;u da">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "S">
 
 <!ENTITY performance.label               "Performanse">
-<!ENTITY useRecommendedPerformanceSettings2.label "Koriste preporučene postavke performansi">
-<!ENTITY useRecommendedPerformanceSettings2.description "Ove postavke su skrojene za vaš hardver i operativni sustav.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "u">
-<!ENTITY performanceSettingsLearnMore.label "Saznajte više">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Koriste preporučene postavke performansi">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Ove postavke su skrojene za vaš hardver i operativni sustav.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "u">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Saznajte više">
 <!ENTITY limitContentProcessOption.label "Granice procesiranja sadržaja">
-<!ENTITY limitContentProcessOption.description "Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.">
+<!ENTITY limitContentProcessOption.description
+                                         "Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.">
 <!ENTITY limitContentProcessOption.accesskey   "G">
-<!ENTITY limitContentProcessOption.disabledDescription "Izmjena broja procesa sadržaja je moguća samo s višeprocesnim &brandShortName;om.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Saznajte kako provjeriti da li je više procesa omogućeno.">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Izmjena broja procesa sadržaja je moguća samo s višeprocesnim &brandShortName;om.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Saznajte kako provjeriti da li je više procesa omogućeno.">
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">

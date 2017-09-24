@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Pokušaj ponovno">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY advanced.label "Napredno">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezivanje nije moguće">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "Port je ograničen radi sigurnosnih razloga">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Adresa nije pronađena">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Provjerite greške pri pisanju poput <strong>ww</strong>.example.com umjesto <strong>www</strong>.example.com</li> <li>Ako ne možete pristupiti niti jednoj stranici, provjerite vezu između mreže i vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena putem vatrozida ili proxya, provjerite da je &brandShortName; dozvoljen pristup na Web.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Poslužitelj nije pronađen">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Imamo poteškoća u pronalaženju te stranice.">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
@@ -35,8 +36,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Otvaranje stranice prijave na mrežu">
 
-<!ENTITY malformedURI.title "Neispravna adresa">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adrese web stranica se obično pišu u formatu poput <strong>http://www.example.com/</strong></li> <li>Provjerite da upisujete kose crte prema naprijed (tj. <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Podatkovni prijenos je prekinut">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se nije uspio povezati na <span id='wrongSystemTime_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme i datum su na vašem računalu postavljeni na <span id='wrongSystemTime_systemDate'/>, a trebalo bi biti <span id='wrongSystemTime_actualDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nije uspio povezati na <span id='wrongSystemTimeWithoutReference_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme je na vašem računalu postavljeno na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
 
