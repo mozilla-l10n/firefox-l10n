@@ -7,7 +7,10 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.tryagainButton2 "Återställ session">
+<!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Starta en ny session">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Återställ">
 <!ENTITY restorepage.listHeader     "Fönster och flikar">

@@ -16,6 +16,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Arghh. Din flik kraschade precis.">
 <!ENTITY tabCrashed.offerHelp2 "Vi kan hjälpa till!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Välj &tabCrashed.restoreTab; för att återställa sidan.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Välj &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; för att ladda om webbsidan/sidorna. ">
 <!ENTITY tabCrashed.requestHelp "Vill du hjälpa oss?">
 <!ENTITY tabCrashed.requestHelpMessage "Kraschrapporter hjälper oss att diagnostisera problem och göra &brandShortName; bättre.">
 <!ENTITY tabCrashed.requestReport "Rapportera denna flik">
