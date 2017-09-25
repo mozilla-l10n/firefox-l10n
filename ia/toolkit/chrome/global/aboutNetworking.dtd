@@ -22,7 +22,14 @@
 <!ENTITY aboutNetworking.family                "Familia">
 <!ENTITY aboutNetworking.addresses             "Adresses">
 <!ENTITY aboutNetworking.expires               "Expira (Secundas)">
+<!ENTITY aboutNetworking.messagesSent          "Messages inviate">
+<!ENTITY aboutNetworking.messagesReceived      "Messages recipite">
+<!ENTITY aboutNetworking.bytesSent             "Bytes inviate">
+<!ENTITY aboutNetworking.bytesReceived         "Bytes recipite">
 <!ENTITY aboutNetworking.logging               "Registros">
+<!ENTITY aboutNetworking.logTutorial           "Vide <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pro instructiones re como usar iste utensile.">
+<!ENTITY aboutNetworking.currentLogFile        "File de diario actual:">
+<!ENTITY aboutNetworking.currentLogModules     "Modulos de diario actual:">
 <!ENTITY aboutNetworking.stopLogging           "Cessar le registration">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">

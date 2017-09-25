@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Super tu derectos">
 
 <!-- Note on pointa / pointb / pointc form:
@@ -21,14 +22,18 @@
 <!ENTITY rights.intro-point2.5 "Alcun functionalitates in &brandShortName;, como le reportator de collapsos, te da le option de provider feedback a &vendorShortName;. Eligente inviar feedback, tu dara a &vendorShortName; permission de usar le feedback pro meliorar su productos, de publicar le feedback in su sitos web e de distribuer le feedback.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3b "&brandShortName; Regulas de confidentialitate">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "terminos de servicio">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4b-unbranded "Servicios de sito web">
+<!ENTITY rights.intro-point4c-unbranded " section.">
 
 
 <!-- point 5 -->
