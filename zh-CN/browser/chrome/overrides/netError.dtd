@@ -118,7 +118,6 @@ was trying to connect. -->
 <li>此站点暂时无法使用或者太过忙碌。请过几分钟后再试。</li> 
 <li>如果您无法载入任何网页，请检查您计算机的网络连接状态。</li> 
 <li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li>
-<li>此网站可能受管制。</li>
 </ul>">
 
 <!ENTITY cspBlocked.title "已依内容安全策略拦截">
