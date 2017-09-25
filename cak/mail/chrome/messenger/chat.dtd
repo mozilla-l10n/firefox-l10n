@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY searchResultConversation.label "Taq ruq'i'oj kanoxïk">
+<!ENTITY chat.accountWizard.button       "Titikirisäx">
+
+
+<!ENTITY openConversationCmd.label     "Titikirisäx jun Tzijonem">
+<!ENTITY openConversationCmd.accesskey "j">
+<!ENTITY closeConversationCmd.label    "Titz'apïx Tzijonem">
+<!ENTITY closeConversationCmd.accesskey "t">
+<!ENTITY aliasCmd.label                "Tisik'ïx chik">
+<!ENTITY aliasCmd.accesskey            "c">
+
+<!ENTITY openConversationButton.tooltip  "Titikirisäx jun tzijonem">
+<!ENTITY closeConversationButton.tooltip "Titz'apïx tzijonem">
+
+<!ENTITY chatAccountsButton.label      "Kek'ut taq Rub'i' Taqoya'l">
+
+<!ENTITY status.available          "Wachel">
+<!ENTITY status.unavailable        "Man wachel ta">
+<!ENTITY status.offline            "Chupül">
+
+<!ENTITY openLinkCmd.label            "Tijaq Ximonel…">
+<!ENTITY openLinkCmd.accesskey        "j">
