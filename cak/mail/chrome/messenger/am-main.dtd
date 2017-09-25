@@ -11,8 +11,15 @@
 <!ENTITY name.accesskey "A">
 <!ENTITY email.label "Rochochib'al Taqoya'l:">
 <!ENTITY email.accesskey "T">
+<!ENTITY organization.label "Moloj:">
+<!ENTITY organization.accesskey "M">
+<!ENTITY edit.label "Tinuk'…">
+<!ENTITY choose.label "Ticha'…">
+<!ENTITY choose.accesskey "c">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!ENTITY smtpServerEdit.label "Tinuk' SMTP k'uxasamaj…">
+<!ENTITY smtpServerEdit.accesskey "P">

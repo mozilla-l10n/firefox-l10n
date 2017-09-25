@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Q'axinäq Kinuk'ulem Rub'i' Taqoya'l">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "IMAP rucholb'al k'uxasamaj:">
+<!ENTITY serverDirectory.accesskey "c">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->

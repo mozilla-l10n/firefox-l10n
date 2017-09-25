@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY kb.label "KB">
+<!ENTITY daysOld.label "ojer taq q'ij">
+<!ENTITY message.label "kitzijol">
+<!ENTITY nntpNotDownloadRead.label "Sik'in taq rutzijol">
+<!ENTITY nntpNotDownloadRead.accesskey "S">
+<!ENTITY offlineImapAdvancedOffline.label "Taq q'axinäq…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "x">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY dayAgeInterval.label            "Taq q'ij">
+<!ENTITY weekAgeInterval.label           "Taq wuqq'ij">
+<!ENTITY monthAgeInterval.label          "Taq ik'">
+<!ENTITY yearAgeInterval.label           "Taq juna'">
+<!ENTITY ageAutosyncAfter.label          "">
