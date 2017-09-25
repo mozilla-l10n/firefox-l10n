@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Help Menu -->
+<!ENTITY helpMenu.label "To'ïk">
+<!ENTITY helpMenu.accesskey "T">
+<!-- LOCALIZATION NOTE some localizations of Windows use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "To'ïk">
+<!ENTITY helpMenuWin.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.label     "Etamab'äl richin yesol taq k'ayewal">
+<!ENTITY helpTroubleshootingInfo.accesskey "y">
+<!ENTITY helpSafeMode.label     "Titikirisäx chik kik'in ri chupül taq tz'aqat…">
+<!ENTITY helpSafeMode.accesskey "t">
+<!ENTITY releaseCmd2.label "Ruch'utitzijol re ruwäch re'">
+<!ENTITY releaseCmd2.accesskey "c">
+<!ENTITY whatsNewCmd.label "Achike Natzijoj">
+<!ENTITY whatsNewCmd.accesskey "A">
+<!ENTITY openHelp.label "Kipam To'ïk">
+<!ENTITY openHelp.accesskey "T">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "&brandShortName; To'ïk">
+<!ENTITY openHelpMac2.commandkey   "?">
+
+<!ENTITY aboutMenuCmd.label "Chi rij &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "C">
