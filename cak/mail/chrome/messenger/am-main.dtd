@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-main.xul -->
+
+<!ENTITY accountTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
+<!ENTITY accountName.label "Rub'i' Taqoya'l:">
+<!ENTITY accountName.accesskey "b">
+<!ENTITY name.label "Ab'i':">
+<!ENTITY name.accesskey "A">
+<!ENTITY email.label "Rochochib'al Taqoya'l:">
+<!ENTITY email.accesskey "T">
+<!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
+
+
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
