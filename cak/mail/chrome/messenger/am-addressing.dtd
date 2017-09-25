@@ -8,9 +8,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Tokisäx jun chik wi chi LDAP k'uxasamaj:">
 <!ENTITY directories.accesskey     "c">
+<!ENTITY directoriesNone.label     "Majun">
 
 <!-- am-addressing.xul -->
 
+<!ENTITY compositionGroupTitle.label          "Ruch'akulal">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 

@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+
+<!ENTITY smtpListAdd.label  "Titz'aqatisäx…">
+<!ENTITY smtpListAdd.accesskey  "t">
+<!ENTITY smtpListEdit.label "Tinuk'…">
+<!ENTITY smtpListEdit.accesskey "n">
+<!ENTITY smtpListDelete.label "Tiyuj">
+<!ENTITY smtpListDelete.accesskey "y">
+<!ENTITY smtpListSetDefault.label "Tichap chi K'o wi">
+<!ENTITY smtpListSetDefault.accesskey "p">
+
+<!ENTITY serverDetails.label "Cha'on rub'anikil k'uxasamaj:">
+<!ENTITY serverDescription.label "Tzijoxkil: ">
+<!ENTITY serverName.label "Rub'i' K'uxasamaj: ">
+<!ENTITY serverPort.label "B'ey: ">
+<!ENTITY userName.label   "Rub'i' winäq: ">
+<!ENTITY connectionSecurity.label "Rujikomal Okem: ">
+<!ENTITY authMethod.label   "Rujikib'axik b'eyal: ">
