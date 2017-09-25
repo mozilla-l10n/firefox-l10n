@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage2.label        "Durante que &brandShortName; initia">
 <!ENTITY startupPage2.accesskey    "s">
-<!ENTITY startupUserHomePage.label "Monstra vostre pagina initial">
+<!ENTITY startupUserHomePage.label "Monstra tu pagina initial">
 <!ENTITY startupBlankPage.label    "Monstra un pagina vacue">
-<!ENTITY startupPrevSession.label  "Monstra le fenestras e schedas de vostre ultime vice">
+<!ENTITY startupPrevSession.label  "Monstra le fenestras e schedas de tu ultime vice">
 
 <!ENTITY homepage2.label           "Pagina initial">
 <!ENTITY homepage2.accesskey       "P">

@@ -8,7 +8,7 @@
 
 <!ENTITY useCursorNavigation.label       "Sempre usar le claves con le sagittas directional pro navigar intra le paginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "Cercar le texto quando vos comencia scriber">
+<!ENTITY searchOnStartTyping.label       "Cercar le texto quando tu comencia scriber">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY useOnScreenKeyboard.label       "Monstrar un claviero tactile quando necessari">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -19,7 +19,7 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar le rolamento suave">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY checkUserSpelling.label         "Verificar le orthographia durante que vos scribe">
+<!ENTITY checkUserSpelling.label         "Verificar le orthographia durante que tu scribe">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Selectiones de datos">
@@ -97,7 +97,7 @@ available. -->
 <!ENTITY updateApplication.description   "Permitter &brandShortName; a">
 <!ENTITY updateAuto3.label               "Installar le actualisationes automaticamente (recommendate)">
 <!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Recercar actualisationes ma permitter que vos decide si tu los installara">
+<!ENTITY updateCheckChoose2.label        "Recercar actualisationes ma permitter que tu decide si tu los installara">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Non recercar jammais actualisationes (non recommendate)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -123,7 +123,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Remover le datos pro uso disconnectite">
 
 <!ENTITY certificateTab.label            "Certificatos">
-<!ENTITY certPersonal2.description       "Quando un servitor requesta vostre certificato personal">
+<!ENTITY certPersonal2.description       "Quando un servitor requesta tu certificato personal">
 <!ENTITY selectCerts.auto                "Selectionar un automaticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Questionar te a cata vice">
@@ -139,7 +139,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Usar le parametros de rendimento recommendate">
 <!ENTITY useRecommendedPerformanceSettings2.description
-                                         "Iste parametros es adaptate al hardware e al systema operative de vostre computator.">
+                                         "Iste parametros es adaptate al hardware e al systema operative de tu computator.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label

@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organisar">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organisar vostre paginas marcate">
+<!ENTITY organize.tooltip      "Organisar tu paginas marcate">
 
 <!ENTITY file.close.label               "Clauder">
 <!ENTITY file.close.accesskey           "C">
@@ -92,7 +92,7 @@
 
 <!ENTITY maintenance.label      "Importar e facer backup">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e facer backup de vostre paginas marcate">
+<!ENTITY maintenance.tooltip    "Importar e facer backup de tu paginas marcate">
 
 <!ENTITY backButton.tooltip  "Regressar">
 

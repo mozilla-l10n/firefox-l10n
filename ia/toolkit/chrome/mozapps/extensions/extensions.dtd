@@ -67,8 +67,8 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Redefinir tote le additivos faciente los actualisar manualmente">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "Actualisante additivos">
-<!ENTITY updates.installed.label              "Vostre additivos ha essite actualisate.">
-<!ENTITY updates.downloaded.label             "Le actualisationes de vostre additivos ha essite discargate.">
+<!ENTITY updates.installed.label              "Tu additivos ha essite actualisate.">
+<!ENTITY updates.downloaded.label             "Le actualisationes de tu additivos ha essite discargate.">
 <!ENTITY updates.restart.label                "Reinitiar pro completar le installation">
 <!ENTITY updates.noneFound.label              "Nulle actualisationes trovate">
 <!ENTITY updates.manualUpdatesFound.label     "Vider le actualisationes disponibile">

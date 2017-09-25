@@ -14,7 +14,7 @@
 <!ENTITY warnOnOpenManyTabs.label       "Advertir te quando tu aperi multiple schedas que illo pote facer &brandShortName; devenir lente">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-<!ENTITY switchLinksToNewTabs.label        "Quando vos aperi un ligamine in un nove scheda, commutar a illo immediatemente">
+<!ENTITY switchLinksToNewTabs.label        "Quando tu aperi un ligamine in un nove scheda, commutar a illo immediatemente">
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Monstrar vistas preliminar del schedas in le barra de cargas de Windows">

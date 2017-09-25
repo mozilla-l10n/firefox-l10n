@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage sin connexion">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si vos pote reciper o non notificationes del sito">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si tu pote reciper o non notificationes del sito">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stockar datos in le immagazinage persistente">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Le navigator es sub controlo remote">
 
@@ -224,10 +224,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu ha blocate tu camera pro iste sito web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Vos ha blocate le accesso al geolocalisation pro iste sito web.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Vos ha blocate le stockage pro iste sito web.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vos ha blocate iste sito web de inviar notificationes.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Vos ha blocate le stockage persistente pro iste sito web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tu ha blocate le accesso al geolocalisation pro iste sito web.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tu ha blocate le stockage pro iste sito web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le stockage persistente pro iste sito web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
 
@@ -750,7 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexion secur">
 <!ENTITY identity.connectionNotSecure "Le connexion non es secur">
 <!ENTITY identity.connectionFile "Iste pagina es stockate in tu computator.">
-<!ENTITY identity.connectionVerified2 "Vos es connectite con securitate a iste sito, cuje proprietario es:">
+<!ENTITY identity.connectionVerified2 "Tu es connectite con securitate a iste sito, cuje proprietario es:">
 <!ENTITY identity.connectionInternal "Isto es un pagina secur de &brandShortName;.">
 <!ENTITY identity.extensionPage "Iste pagina es cargate de un extension.">
 <!ENTITY identity.insecureLoginForms2 "Le informationes de authentication scribite in iste pagina pote esser compromittite.">
@@ -758,7 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
 <!ENTITY identity.passiveLoaded "Partes de iste pagina non es secur (tales como imagines).">
-<!ENTITY identity.activeLoaded "Vos ha inactivate le protection super iste pagina.">
+<!ENTITY identity.activeLoaded "Tu ha inactivate le protection super iste pagina.">
 <!ENTITY identity.weakEncryption "Iste pagina usa un cryptographia debile.">
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -767,11 +767,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Tu connexion a iste sito web usa un cryptographia debile e non es private.">
 <!ENTITY identity.description.weakCipher2 "Altere personas pote vider tu information o modificar le comportamento del sito web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
-<!ENTITY identity.description.passiveLoaded "Tu connexion non es private e informationes que vos comparti con iste sito pote esser vidite per alteres.">
+<!ENTITY identity.description.passiveLoaded "Tu connexion non es private e informationes que tu comparti con iste sito pote esser vidite per alteres.">
 <!ENTITY identity.description.passiveLoaded2 "Iste sito web contine contento que non es secur (tal como imagines).">
 <!ENTITY identity.description.passiveLoaded3 "Ben que &brandShortName; ha blocate alcun contento, il ha ancora contento in le pagina que non es secur (tal como imagines).">
 <!ENTITY identity.description.activeLoaded "Iste sito web contine contento que non es secur (como scripts) e tu connexion a illo non es private.">
-<!ENTITY identity.description.activeLoaded2 "Le informationes que vos comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).">
+<!ENTITY identity.description.activeLoaded2 "Le informationes que tu comparti con iste sito pote esser vidite per alteres (como contrasignos, messages, cartas de credito, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar le protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Plus information">
 
 <!ENTITY identity.permissions "Permissiones">
-<!ENTITY identity.permissionsEmpty "Vos non ha concedite ulle permission special a iste sito.">
-<!ENTITY identity.permissionsReloadHint "Il es possibile que vos debe recargar le pagina pro que le cambios se applica.">
+<!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
+<!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Trahe tu elementos favorite e los depone in le barra de instrumentos o in le menu disbordante.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Desira vos plus instrumentos?">
+<!ENTITY customizeMode.menuAndToolbars.empty "Desira tu plus instrumentos?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eliger inter milles de additivos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinitiones">
 <!ENTITY customizeMode.done "Terminate">
@@ -932,7 +932,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Si vos procede:">
+<!ENTITY panicButton.view.mainActionDesc          "Si tu procede:">
 <!ENTITY panicButton.view.deleteCookies           "Essera delite le <html:strong>cookies</html:strong> recente">
 <!ENTITY panicButton.view.deleteHistory           "Deler le <html:strong>chronologia</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Claude tote le <html:strong>schedas</html:strong> e <html:strong>fenestras</html:strong>">
