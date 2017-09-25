@@ -10,6 +10,6 @@
 <!ENTITY later           "Si tu cambia de idea aliquando, tu pote ir
                           al gestor de additivos.">
 <!ENTITY continue        "Continuar">
-<!ENTITY restartMessage  "Vos debe reinitiar &brandShortName; pro finir de installar iste additivo.">
+<!ENTITY restartMessage  "Tu debe reinitiar &brandShortName; pro finir de installar iste additivo.">
 <!ENTITY restartButton   "Relancear &brandShortName;">
 <!ENTITY cancelButton    "Cancellar">

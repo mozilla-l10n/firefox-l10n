@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Cargante…">
-<!ENTITY listEmpty.installed.label            "Vos non ha additivos de iste typo installate">
+<!ENTITY listEmpty.installed.label            "Tu non ha additivos de iste typo installate">
 <!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
 <!ENTITY listEmpty.recentUpdates.label        "Tu non ha actualisate ulle additivo recentemente">
 <!ENTITY listEmpty.findUpdates.label          "Recercar le actualisationes">
@@ -33,7 +33,7 @@
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tote le additivos ha essite inactivate per le modo secur.">
-<!ENTITY warning.checkcompatibility.label          "Le verification de compatibilitate de additivos es inactive. Vos pote haber additivos incompatibile.">
+<!ENTITY warning.checkcompatibility.label          "Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activar">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activar le verification de compatibilitate de additivos">
 <!ENTITY warning.updatesecurity.label              "Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.">
@@ -137,7 +137,7 @@
 <!ENTITY detail.homepage.label                "Pagina initial">
 <!ENTITY detail.numberOfDownloads.label       "Discargas">
 
-<!ENTITY detail.contributions.description     "Le developpator de iste additivo demanda que vos le adjuta assecurar su developpamento continue faciente un parve contribution.">
+<!ENTITY detail.contributions.description     "Le developpator de iste additivo demanda que tu le adjuta assecurar su developpamento continue faciente un parve contribution.">
 
 <!ENTITY detail.updateType                    "Actualisationes automatic">
 <!ENTITY detail.updateDefault.label           "Predefinite">

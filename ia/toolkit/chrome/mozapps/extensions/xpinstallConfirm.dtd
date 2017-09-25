@@ -6,7 +6,7 @@
 
 <!ENTITY dialog.title            "Installation de software">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Installar additivos solmente de autores a que vos confide.">
+<!ENTITY warningPrimary.label    "Installar additivos solmente de autores a que tu confide.">
 <!ENTITY warningSecondary.label  "Softwares nocive pote nocer tu computator o violar tu confidentialitate.">
 
 <!ENTITY from.label "de:">
