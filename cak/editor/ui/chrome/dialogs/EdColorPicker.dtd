@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle.label "B'onil">
 <!ENTITY default.label "K'o wi">
+<!ENTITY default.accessKey "K">
 <!ENTITY standardPalette.label "Pa rub'eyal">
 <!ENTITY webPalette.label "Ronojel ajk'amaya'l taq b'onil">
 <!ENTITY background.label "Rupam:">

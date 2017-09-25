@@ -12,6 +12,8 @@
 <!ENTITY addMailAccountButton.accesskey "t">
 <!ENTITY addIMAccountButton.label "Titz'aqatisäx Chat Rub'i' Taqoya'l…">
 <!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addOtherAccountButton.label "Titz'aqatisäx jun chik Rub'i' Taqoya'l…">
+<!ENTITY addOtherAccountButton.accesskey "c">
 <!ENTITY setDefaultButton.label "Tichap achi'el ri K'o wi">
 <!ENTITY setDefaultButton.accesskey "K">
 <!ENTITY removeButton.label "Tiyuj Rub'i' Taqoya'l">

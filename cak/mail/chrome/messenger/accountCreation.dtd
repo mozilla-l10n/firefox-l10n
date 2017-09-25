@@ -29,6 +29,8 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
+<!ENTITY advancedSetup.label             "Xq'ax chi nuk'ulem">
+<!ENTITY advancedSetup.accesskey         "q">
 <!ENTITY cancel.label                    "Tiq'at">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Titikïr chik el">

@@ -33,6 +33,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", jun ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
+<!ENTITY community.creditsLink      "aj ruwach'ulew tinamït">
 <!ENTITY community.end3             " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.">
 
 <!ENTITY helpus.start               "¿La nawajo' yato'on? ">
