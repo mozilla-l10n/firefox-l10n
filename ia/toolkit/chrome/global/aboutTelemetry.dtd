@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Hodie">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Heri">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Cargo utile">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
@@ -14,6 +16,8 @@
 
 
 <!ENTITY aboutTelemetry.homeSection "A casa">
+<!ENTITY aboutTelemetry.histogramsSection "Histogrammas">
+<!ENTITY aboutTelemetry.eventsSection "Eventos">
 <!ENTITY aboutTelemetry.slowSqlSection "Instructiones SQL lente">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalios del additivo">
 

@@ -14,4 +14,7 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Clarar">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Monstrar le entratas">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuration">
+<!ENTITY aboutUrlClassifier.debugFile                   "File de diario actual">

@@ -35,6 +35,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Servicios de sito web">
 <!ENTITY rights.intro-point4c-unbranded " section.">
 
+<!ENTITY rights2.webservices-header "&brandFullName; Servicios de information basate sur web">
 
 <!-- point 5 -->
 
@@ -46,9 +47,11 @@
 <!ENTITY rights2.webservices-b "hic">
 
 <!-- safe browsing points for branded builds -->
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights2.safebrowsing-term3 "Disselectiona le option pro &quot;&enableSafeBrowsing.label;&quot;">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
 
 <!-- intro paragraph for unbranded builds -->
 

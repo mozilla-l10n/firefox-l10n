@@ -41,11 +41,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Chronologia de actualisationes">
 
+<!ENTITY aboutSupport.appBasicsProfileDir "Directorio del profilo">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dossier del profilo">
 
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins activate">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Configuration de compilation">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -56,7 +59,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenestras in multiprocesso">
 
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clave de Google">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Modo secur">
 
 <!ENTITY aboutSupport.showDir.label "Aperir le directorio">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -90,6 +95,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.a11yTitle "Accessibilitate">
 <!ENTITY aboutSupport.a11yActivated "Activate">
+<!ENTITY aboutSupport.a11yForceDisabled "Impedir le accessibilitate">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotheca">
 
@@ -102,8 +108,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Cassa de arena">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Appellos de systema rejectate">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Secundas retro">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Typo de processo">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar le modo secur">
