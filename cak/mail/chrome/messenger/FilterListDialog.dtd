@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "Taq Ruchayub'al Tzijol">
+<!ENTITY nameColumn.label "Chayub'äl B'i'aj">
+<!ENTITY activeColumn.label "Tzijon">
+<!ENTITY newButton.label "K'ak'a'…">
+<!ENTITY newButton.accesskey "K">
+<!ENTITY newButton.popupCopy.label "Tiwachib'ëx…">
+<!ENTITY newButton.popupCopy.accesskey "w">
+<!ENTITY editButton.label "Tinuk'…">
+<!ENTITY editButton.accesskey "n">
+<!ENTITY deleteButton.label "Tiyuj">
+<!ENTITY deleteButton.accesskey "y">
+<!ENTITY reorderUpButton.label "Tijotob'äx">
+<!ENTITY reorderUpButton.accesskey "j">
+<!ENTITY reorderDownButton.label "Tiqasäx Qa">
+<!ENTITY reorderDownButton.accesskey "Q">
+<!ENTITY stopFilters.label "Tiq'at">
+<!ENTITY stopFilters.accesskey "q">
+<!ENTITY helpButton.label "To'ïk">
+<!ENTITY helpButton.accesskey "T">
+<!ENTITY closeCmd.key "W"> 
+
+
+

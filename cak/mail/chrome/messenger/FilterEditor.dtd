@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY filterName.label "Chayub'äl b'i'aj:">
+<!ENTITY filterName.accesskey "a">
+
+
+<!ENTITY normalPriorityCmd.label "Relik">
+
+
+
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY deleteMessage.label "Tiyuj Tzijol">
+
+<!ENTITY addAction.tooltip "Titz'aqatisäx jun k'ak'a' b'anoj">
+<!ENTITY removeAction.tooltip "Tiyuj re b'anoj re'">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
