@@ -18,6 +18,7 @@
 <!ENTITY deniedPortAccess.title "આ સરનામું આરક્ષિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "સર્વર મળતું નથી">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ફાઈલ મળી નહિં">
