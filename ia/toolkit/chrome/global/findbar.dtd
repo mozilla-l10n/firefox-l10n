@@ -5,9 +5,15 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
+<!ENTITY next.tooltip "Trovar le successive occurrentia del phrase">
+<!ENTITY previous.tooltip "Trovar le previe occurrentia del phrase">
+<!ENTITY findCloseButton.tooltip "Clauder barra de recerca">
 <!ENTITY highlightAll.label "Evidentiar toto">
 <!ENTITY highlightAll.accesskey "l">
-<!ENTITY caseSensitive.label "Distinger le majusculas">
+<!ENTITY highlightAll.tooltiptext "Evidentiar le occurrentia successive del phrase">
+<!ENTITY caseSensitive.label "Concordar anque majusculas e minusculas">
 <!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "Cercar anque con le concordantia de majusculas e minusculas">
 <!ENTITY entireWord.label "Parolas complete">
 <!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "Cerca solo parolas integre">
