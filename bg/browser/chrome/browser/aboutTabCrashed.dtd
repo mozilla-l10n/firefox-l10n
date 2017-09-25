@@ -22,7 +22,9 @@
 <!ENTITY tabCrashed.requestHelp "Бихте ли ни помогнали?">
 <!ENTITY tabCrashed.requestHelpMessage "Докладите за сривове ни помагат да откриваме проблеми и да подобряваме &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Докладване на раздел">
+<!ENTITY tabCrashed.sendReport3 "Автоматично изпращане на доклад за срива, за да отстраним подобни проблеми">
 <!ENTITY tabCrashed.commentPlaceholder2 "Коментар по желание (коментарите са общодостъпни)">
+<!ENTITY tabCrashed.includeURL3 "Включване на адресите на отворените страници, когато &brandShortName; се срина">
 <!ENTITY tabCrashed.emailPlaceholder "Въведете адреса на своята ел. поща">
 <!ENTITY tabCrashed.emailMe "Изпращане на имейл, когато има повече информация">
 <!ENTITY tabCrashed.reportSent "Докладът за срив е изпратен. Благодарим ви, че помагате да направим &brandShortName; по-добър!">
