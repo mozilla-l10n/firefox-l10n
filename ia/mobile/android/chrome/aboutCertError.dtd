@@ -23,7 +23,7 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Porta me foras de hic!">
 
 <!ENTITY certerror.expert.heading "Io Comprehende le Riscos">
-<!ENTITY certerror.expert.content "Si vos comprehenderea que es occurrente, vos pote contar &brandShortName; initiar fidente in le identification de este sito.<b>Etiam si vos fide in le sito, este error pote significar que alcuno es alterante vostre connexion.</b>">
+<!ENTITY certerror.expert.content "Si tu comprehende lo que eveni, tu pote demandar que &brandShortName; comencia confider al identification de iste sito.<b>Anque si tu confide al sito, iste error pote significar que alcuno adultera tu connexion.</b>">
 <!ENTITY certerror.expert.contentPara2 "Non adder un exception a minus que il ha un bon ration pro que este sito non usa identification fidite.">
 <!ENTITY certerror.addTemporaryException.label "Visitar le sito">
 <!ENTITY certerror.addPermanentException.label "Adder un exception permanente">

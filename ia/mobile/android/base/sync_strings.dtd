@@ -11,7 +11,7 @@
 <!ENTITY sync.title.connect.label 'Connecter se a &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Activar vostre apparato nove, selige “adjustar &syncBrand.shortName.label;” in le apparato.'>
+<!ENTITY sync.subtitle.connect.label 'Pro activar tu nove apparato, selectiona “Configurar &syncBrand.shortName.label;” in le apparato.'>
 <!ENTITY sync.subtitle.pair.label 'Activar, selige “Copula un apparato” in vostre apparato altere.'>
 <!ENTITY sync.pin.default.label '..\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'Io non habe le apparato con me…'>
