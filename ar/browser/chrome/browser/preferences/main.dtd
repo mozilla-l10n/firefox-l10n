@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "استعد المبدئي">
 <!ENTITY restoreDefault.accesskey  "س">
 
+<!ENTITY disableExtension.label    "عطّل الامتداد">
+
 <!ENTITY downloads.label     "التّنزيلات">
 
 <!ENTITY saveTo.label "احفظ الملفّات في">

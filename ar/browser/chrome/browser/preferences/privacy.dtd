@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "امنع خدمات الإتاحة من الوصول إلى حاسوبك">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "ت">
 <!ENTITY  a11yPrivacy.learnmore.label    "اطّلع على المزيد">
+<!ENTITY enableSafeBrowsingLearnMore.label "اطّلع على المزيد">
