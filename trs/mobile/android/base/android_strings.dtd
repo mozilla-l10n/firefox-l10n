@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Rakïj ñanj ngà ganarânt, nachra sa\&apos; datos, ràsun nagi\&apos;iaj hue\&apos;e ">
 <!ENTITY pref_category_notifications "Sa ataj na\&apos;anj">
 <!ENTITY pref_category_notifications_summary "Nej sa naka doj, nagui\&apos;iaj nako\&apos; web ">
-<!ENTITY pref_content_notifications "nagui\&apos;iaj nako\&apos; nej sa ma riña web">
-<!ENTITY pref_content_notifications_summary2 "Na\&apos;ui\&apos; sa naka doj nun  dugu\&apos;nin\&apos; ruku sitio">
 <!ENTITY pref_developer_remotedebugging_usb "Guyan sa kïj hua nga USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Guyun sa kïj hua nga Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Da\&apos; nagui\&apos;iaj niñun nga Wi-Fi ni da\&apos;ui si aga\&apos; ganika ngo app sa ahia nej da´nga QR.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Naduninj sa garasun nga na\&apos;ninj pagina">
 
 <!ENTITY pref_tracking_protection_title2 "Sa narrán riña sa naga\&apos;nàj a">
-<!ENTITY pref_tracking_protection_summary3 "Gà\&apos; natuj rè\&apos; riña gachenu huì rè\&apos;">
 <!ENTITY pref_donottrack_title "Si nana\&apos;ui\&apos;">
 <!ENTITY pref_donottrack_summary "&brandShortName; gataj gunin nej sitio da\&apos; nana\&apos;uij ñunj">
 
@@ -288,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Sa hiáj raj hue\&apos;">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Rakij ñanj nagi\&apos;iô\&apos;">
-<!ENTITY pref_custom_tabs_summary3 "Ga\&apos;nin da\&apos; na\&apos;nin ma nej web daj anin ru ma\&apos;an &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Na\&apos;nin riña &formatS;">
@@ -334,23 +326,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Da\&apos; \&quot;ga\&apos;ue na\&apos;nin a\&apos;go ñanj\&quot;, gui\&apos;iaj suntuj u, garayinat \&quot;Nari riña a\&apos;ngo aplikacion\&quot; &brandShortName;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; nagui\&apos;iaj nako\&apos; web">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Nagui\&apos;io\&apos;">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Gahia">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "nagui\&apos;iaj nako\&apos; &formatS;">
 
 <!ENTITY pref_char_encoding "Diganj da\&apos;nga\&apos; hua ña\&apos;aan">
 <!ENTITY pref_char_encoding_on "Digun daran da\&apos;nga">
@@ -514,7 +489,13 @@
 <!ENTITY contextmenu_top_sites_edit "Nagui\&apos;iaj">
 <!ENTITY contextmenu_top_sites_pin "Nagi\&apos;iaj yitïn\&apos; sîtio">
 <!ENTITY contextmenu_top_sites_unpin "Si nagi\&apos;iaj yitïn\&apos; sîtio">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "Nachrun\&apos; \&apos;ngo sa huin ruhuô\&apos; nanà\&apos;uì\&apos;">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -837,6 +818,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Sa gini\&apos;iājt tāj &brandPocket;">
 <!ENTITY activity_stream_highlights "Ña\&apos;an ">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MORE">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
