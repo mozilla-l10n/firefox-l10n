@@ -23,6 +23,10 @@
 <!ENTITY  reloadTab.accesskey                "ح">
 <!ENTITY  reloadAllTabs.label                "أعِد تحميل كل الألسنة">
 <!ENTITY  reloadAllTabs.accesskey            "ك">
+<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "كرّر اللسان">
+<!ENTITY  duplicateTab.accesskey             "ك">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -96,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "مصدر الصفحة">
 <!ENTITY pageSourceCmd.accesskey "ح">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "معلومات الصفحة">
 <!ENTITY pageInfoCmd.accesskey "م">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -257,6 +267,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "ك">
 
 <!ENTITY downloads.label              "التنزيلات">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "التنزيلات">
 <!ENTITY downloads.accesskey          "ز">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -371,6 +384,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "لِج إلى «المزامنة»">
 <!ENTITY appMenuRemoteTabs.managedevices.label "أدِر الأجهزة…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "أظهر شريط الألسنة المزامَنة الجانبي">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "أضف إلى شريط الأدوات">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ض">
@@ -549,7 +563,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ط">
-<!ENTITY copyURLCmd.label             "انسخ المسار">
+<!ENTITY pageAction.copyLink.label    "انسخ الرابط">
 <!ENTITY copyURLFeedback.label        "تم النسخ">
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
@@ -574,8 +588,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ص">
 <!ENTITY emailVideoCmd.label          "أرسل الڤديو بالبريد…">
 <!ENTITY emailVideoCmd.accesskey      "ڤ">
-<!ENTITY castVideoCmd.label           "أرسل الڤديو إلى جهاز">
-<!ENTITY castVideoCmd.accesskey       "ڤ">
 <!ENTITY emailAudioCmd.label          "أرسل الصوت بالبريد…">
 <!ENTITY emailAudioCmd.accesskey      "ت">
 <!ENTITY playPluginCmd.label          "فعّل هذه المُلحقة">
@@ -791,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "فعّل مزامنة الألسنة لعرض قائمة بالألسنة من أجهزتك الأخرى.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ابحث في الألسنة المُزامنة">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -861,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "استخدم كثافة اللمس لنمط اللوح">
 
+
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
 <!ENTITY getUserMedia.selectMicrophone.label "الميكروفون الذي سيُشارك:">
@@ -884,16 +898,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "ق">
 <!ENTITY trackingProtection.block2.label "فعّل الحماية">
 <!ENTITY trackingProtection.block2.accesskey "ف">
-
-<!ENTITY trackingContentBlocked.message "التعقب">
-<!ENTITY trackingContentBlocked.moreinfo "حجبت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
-<!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
-<!ENTITY trackingContentBlocked.options "الخيارات">
-<!ENTITY trackingContentBlocked.unblock2.label "أوقف الحماية لهذا الموقع">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "ق">
-<!ENTITY trackingContentBlocked.block.label "فعّل الحماية">
-<!ENTITY trackingContentBlocked.block.accesskey "ف">
-<!ENTITY trackingContentBlocked.disabled.message "عُطلت حماية التتبع">
 
 <!ENTITY pluginNotification.showAll.label "أظهر الكل">
 <!ENTITY pluginNotification.showAll.accesskey "ظ">
@@ -958,7 +962,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ل">
 <!ENTITY updateManual.panelUI.label "نزّل نسخة جديدة من &brandShorterName;">
 
-<!ENTITY updateRestart.message "بعد إعادة تشغيل سريعة، سيستعيد &brandShorterName; ألسنتك و نوافذك المفتوحة.">
 <!ENTITY updateRestart.header.message2 "أعد التشغيل لتحديث &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "أعد التشغيل و استعد">
 <!ENTITY updateRestart.acceptButton.accesskey "ع">
@@ -970,7 +973,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "أضف إلى شريط العناوين">
 <!ENTITY pageAction.removeFromUrlbar.label "أزل من شريط العناوين">
 
-<!ENTITY sendToDevice.label3 "أرسِل الصفحة إلى جهاز">
+<!ENTITY pageAction.sendTabToDevice.label "أرسل اللسان إلى جهاز">
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
 
 <!ENTITY libraryButton.tooltip "اعرض التأريخ، والعلامات المحفوظة وغيرها">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "مزايا الإتاحة مفعّلة">
