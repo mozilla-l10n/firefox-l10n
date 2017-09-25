@@ -4,23 +4,64 @@
 
 <!-- The page shown when logged in... -->
 
+<!ENTITY engine.bookmarks.label     "Marcatores de libro">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "Schedas aperite">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Chronologia">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Authenticationes">
+<!ENTITY engine.logins.accesskey    "L">
+<!ENTITY engine.prefs.label         "Preferentias">
+<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.addons.label        "Additivos">
+<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "Adresses">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "Cartas de credito">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Nomine del apparato">
+<!ENTITY changeSyncDeviceName2.label "Cambiar le nomine del apparato…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancellar">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "Salvar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Terminos de servicio">
+<!ENTITY fxaPrivacyNotice.link.label "Advertentia de privacitate">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "non es verificate.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInLoginFailure.beforename.label "Per favor authentica te pro te reconnecter">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
+<!ENTITY notSignedIn.label           "Tu non es connectite.">
+<!ENTITY signIn.label                "Authenticar se">
+<!ENTITY signIn.accesskey            "g">
+<!ENTITY profilePicture.tooltip      "Cambiar le imagine del profilo">
+<!ENTITY verifiedManage.label        "Gerer le conto">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "Disconnecter se…">
+<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY verify.label                "Verificar le email">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Oblidar iste email">
+<!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
 
@@ -33,5 +74,7 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         " o ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo3.iOSLink          "iOS">
 
