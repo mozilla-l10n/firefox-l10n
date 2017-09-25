@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Kom igång'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Använder du en äldre version av &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Inloggad som'>
-<!ENTITY fxaccount_status_manage_account 'Hantera konto'>
 <!ENTITY fxaccount_status_auth_server 'Konto server'>
 <!ENTITY fxaccount_status_sync_now 'Synkronisera nu'>
 <!ENTITY fxaccount_status_syncing2 'Synkroniserar…'>
 <!ENTITY fxaccount_status_device_name 'Enhetsnamn'>
 <!ENTITY fxaccount_status_sync_server 'Sync server'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: aktiverat'>
 <!ENTITY fxaccount_status_needs_verification2 'Ditt konto måste bekräftas. Tryck för att skicka ett nytt verifieringsmeddelande.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kan inte ansluta. Tryck för att logga in.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du måste uppgradera &brandShortName; för att logga in.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; är uppsatt men synkar inte automatiskt. Sätt igång “Automatisk synkronisering av data” i Android-inställningarna &gt; Dataanvändning.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tryck för att logga in till ditt nya Firefox Konto.'>
+<!ENTITY fxaccount_status_choose_what 'Välj vad som ska synkas'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmärken'>
 <!ENTITY fxaccount_status_history 'Historik'>
 <!ENTITY fxaccount_status_passwords2 'Inloggningar'>
 <!ENTITY fxaccount_status_tabs 'Öppna flikar'>
+<!ENTITY fxaccount_status_additional_settings 'Ytterligare inställningar'>
 <!ENTITY fxaccount_status_legal 'Juridisk information' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Tjänstevillkoren'>
 <!ENTITY fxaccount_status_linkprivacy2 'Integritetspolicy'>
-<!ENTITY fxaccount_status_more 'Mer&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Koppla från&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Koppla bort Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Alternativ'>
 <!ENTITY fxaccount_options_configure_title 'Anpassa &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Du måste uppgradera Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Kontot finns redan. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Ogiltig e-postadress eller lösenord'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Ogiltig e-postadress eller lösenord'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Kontot är inte verifierat'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Servern är upptagen, försök igen senare'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servern är upptagen, försök igen senare'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Det uppstod ett problem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Kontot är låst. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; är inte ansluten'>
 <!-- Localization note: the format string below will be replaced
