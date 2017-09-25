@@ -28,7 +28,7 @@
 
 <!ENTITY  languageAndAppearance.label   "语言与外观">
 <!ENTITY  filesAndApplications.label    "文件与应用程序">
-<!ENTITY  browserPrivacy.label          "浏览器隐私权">
+<!ENTITY  browserPrivacy.label          "浏览器隐私">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox 账户">
