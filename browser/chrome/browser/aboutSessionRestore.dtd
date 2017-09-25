@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Извинявайте за невъзстановената предишна сесия.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; не можа да възстанови предишните ви прозорци и раздели. Обикновено причината е в последната отворена страница.">
-<!ENTITY restorepage.tryThis        "Може да опитате:">
-<!ENTITY restorepage.restoreSome    "Да затворите един или повече раздели, които смятате, че причиняват проблема">
-<!ENTITY restorepage.startNew       "Да започнете нова сесия">
+<!ENTITY restorepage.errorTitle2    "Съжаляваме. Не можем да възстановим разделите.">
+<!ENTITY restorepage.problemDesc2   "Не можахме да възстановим вашата последна сесия. Изберете „Възстановяване на сесия“ за повторен опит.">
+<!ENTITY restorepage.tryThis2       "Все още ли не можете да възстановите сесията? Причината понякога е у някой раздел. Прегледайте предишните раздели, махнете отметката пред тези, които не ви трябват и отново пробвайте да възстановите.">
 
-<!ENTITY restorepage.tryagainButton "Възстановяване">
-<!ENTITY restorepage.restore.access "В">
-<!ENTITY restorepage.closeButton    "Затваряне">
-<!ENTITY restorepage.close.access   "З">
+<!ENTITY restorepage.tryagainButton2 "Възстановяване на сесия">
+<!ENTITY restorepage.restore.access2 "в">
+<!ENTITY restorepage.closeButton2    "Нова сесия">
+<!ENTITY restorepage.close.access2   "н">
 
 <!ENTITY restorepage.restoreHeader  "Възстановяване">
 <!ENTITY restorepage.listHeader     "Прозорци и раздели">
