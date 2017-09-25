@@ -20,6 +20,7 @@
 <!ENTITY tabCrashed.requestHelp "તમે અમને મદત કરશો?">
 <!ENTITY tabCrashed.requestHelpMessage "ક્રેશ રિપોર્ટ્સ અમને સમસ્યાઓનું નિદાન કરવામાં સહાય કરે છે અને &brandShortName; વધુ સારું બનાવવા.">
 <!ENTITY tabCrashed.requestReport "આ ટેબની જાણ કરો">
+<!ENTITY tabCrashed.sendReport3 "સ્વ્યંસંચાલિત ભંગાણ અહેવાલ મોકલો જેથી અમે આવી સમસ્યા ઉકેલી શકીએ.">
 <!ENTITY tabCrashed.commentPlaceholder2 "વૈકલ્પિક ટિપ્પણી (ટિપ્પણીઓ જાહેર રીતે દૃશ્યમાન છે)">
 <!ENTITY tabCrashed.emailPlaceholder "તમારું ઇમેઇલ સરનામું અહીં દાખલ કરો">
 <!ENTITY tabCrashed.emailMe "જ્યારે વધુ માહિતી ઉપલબ્ધ હોય ત્યારે મને ઇમેઇલ કરો">
