@@ -80,11 +80,13 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Activar le depuration remote">
+<!ENTITY options.enableRemote.tooltip2  "Activar iste option consentira al utensiles de disveloppamento de depurar un instantia remote como Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Inactivar JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactivara JavaScript pro le scheda currente. Si le scheda o le box del utensiles es clause, iste definitiones essera oblidate.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
@@ -127,6 +129,7 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 <!ENTITY options.usedeveditiontheme.label   "Usar le thema Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "Commuta le thema del navigator, edition developpator.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

@@ -126,6 +126,7 @@
 <!ENTITY runtimedetails_ADBRootWarning "(require un cargator de initio disblocate)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Privilegios non restricte de DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "sollicitar privilegios superior">
+<!ENTITY runtimedetails_privilegesWarning "(Le dispositivo reinitiara. Le accesso de radice es necessari.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

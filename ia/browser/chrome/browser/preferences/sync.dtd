@@ -64,17 +64,28 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
+<!ENTITY signedOut.description        "Synchronisa tu paginas marcate, chronologia, contrasignos, additivos, e preferentias inter tote vostre apparatos.">
+<!ENTITY signedOut.accountBox.title   "Connecter se con un &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create2 "Nondum ha tu un conto? Que nos comencia!">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "Authenticar se…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
+<!ENTITY signedIn.settings.label       "Parametros de Sync">
+<!ENTITY signedIn.settings.description "Elige lo que tu vole synchronisar in tu dispositivos, per &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "Discarga Firefox pro ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
 <!ENTITY mobilePromo3.iOSBefore         " o ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " pro synchronisar te con tu apparato mobile.">
