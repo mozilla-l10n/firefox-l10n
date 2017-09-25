@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "تحرير: (لا موضوع)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
 <!ENTITY newMenu.label "جديد">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "اطبع…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "ط">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "تحرير">
 <!ENTITY editMenu.accesskey "ح">
 <!ENTITY undoCmd.label "تراجع">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "ع">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "عرض">
 <!ENTITY viewMenu.accesskey "ع">
 <!ENTITY viewToolbarsMenuNew.label "أشرطة الأدوات">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "شريط جهات الاتصال الجانبي">
 <!ENTITY addressSidebar.accesskey "ت">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "التنسيق">
 <!ENTITY formatMenu.accesskey "ت">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "الخيارات">
 <!ENTITY optionsMenu.accesskey "خ">
 <!ENTITY checkSpellingCmd2.label "دقِّق الإملاء…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "د">
 <!ENTITY quoteCmd.label "اقتبس الرسالة">
 <!ENTITY quoteCmd.accesskey "ر">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "أرفق بطاقة شخصية (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "أرسِل نسخة إلى">
 <!ENTITY fileCarbonCopyCmd.accesskey "ر">
 <!ENTITY fileHereMenu.label "ملف هنا">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "أدوات">
 <!ENTITY tasksMenu.accesskey "د">
 <!ENTITY messengerCmd.label "البريد و مجموعات الأخبار">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "خ">
 <!ENTITY preferencesCmdUnix.label "التفضيلات">
 <!ENTITY preferencesCmdUnix.accesskey "ف">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "صغّر">
 <!ENTITY bringAllToFront.label "اجلب الكل للمقدمة">
 <!ENTITY zoomWindow.label "قرّب">
 <!ENTITY windowMenu.label "نافذة">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "أرسِل">
 <!ENTITY quoteButton.label "اقتبس">
 <!ENTITY addressButton.label "جهات الاتصال">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "الإملاء">
 <!ENTITY saveButton.label "احفظ">
 <!ENTITY printButton.label "اطبع">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "أرسِل هذه الرسالة الآن">
 <!ENTITY sendlaterButton.tooltip "أرسِل هذه الرسالة لاحقًا">
 <!ENTITY quoteButton.tooltip "اقتبس الرسالة السابقة">
 <!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين">
 <!ENTITY attachButton.tooltip "أرفق مُرفق">
 <!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
-<!ENTITY statusLanguageText.tooltip "لغة التدقيق الإملائي">
 <!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
 <!ENTITY cutButton.tooltip              "قصّ">
 <!ENTITY copyButton.tooltip             "انسخ">
 <!ENTITY pasteButton.tooltip            "الصق">
 <!ENTITY printButton.tooltip "اطبع هذه الرسالة">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "مِن:">
 <!ENTITY fromAddr.accesskey "م">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "ر">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "أدرج وجه مبتسم">
 <!ENTITY smiley1Cmd.label "ابتسامة">
 <!ENTITY smiley2Cmd.label "تجهم">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "بريء">
 <!ENTITY smiley15Cmd.label "باكٍ">
 <!ENTITY smiley16Cmd.label "شفاه حمراء">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "لم يُعثر على اقتراحات">
 <!ENTITY spellCheckIgnoreWord.label "تجاهل الكلمة">
 <!ENTITY spellCheckIgnoreWord.accesskey "ج">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "د">
 <!ENTITY attachPage.label "أرفق صفحة وِب…">
 <!ENTITY attachPage.accesskey "ص">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "أضِف القواميس…">
 <!ENTITY spellAddDictionaries.accesskey "م">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "جهات الاتصال">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "خصص عنوان المُرسِل…">
 <!ENTITY customizeFromAddress.accesskey "ع">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "لغة التدقيق الإملائي">
+<!ENTITY encodingStatusPanel.tooltip "ترميز النص">

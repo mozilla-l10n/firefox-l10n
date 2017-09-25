@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "الحسابات">
 <!ENTITY subscribeImapFolders.label   "أدر اشتراكات المجلدات">
 <!ENTITY settingsLink.label           "اعرض إعدادات هذا الحساب">
-<!ENTITY newAcctLink.label            "أنشئ حسابا جديدا">
-<!ENTITY newAcct.label                "أنشئ حسابًا جديدًا:">
+<!ENTITY setupNewAcct.label           "اضبط حسابا:">
 
 <!ENTITY advFeaturesSectionHdr.label  "الميزات المتقدمة">
 <!ENTITY searchMsgsLink.label         "ابحث في الرسائل">
