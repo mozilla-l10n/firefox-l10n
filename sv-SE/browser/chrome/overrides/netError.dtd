@@ -20,6 +20,15 @@
 
 <!ENTITY dnsNotFound.pageTitle "Servern hittades inte">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Vi har problem med att hitta den webbplatsen.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Om adressen är korrekt finns det tre andra saker du kan försöka med:</strong>
+<ul>
+  <li>Försök igen senare.</li>
+  <li>Kontrollera din nätverksanslutning.</li>
+  <li>Om du är ansluten men bakom en brandvägg, kolla att &brandShortName; har behörighet att komma åt webben.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> <li>Kontrollera om filen flyttats, fått ett annat namn eller tagits bort.</li> </ul>">
@@ -39,6 +48,7 @@
 
 <!ENTITY malformedURI.pageTitle "Ogiltig URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Den adressen ser inte rätt ut.">
 
 <!ENTITY netInterrupt.title "Anslutningen avbröts">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
