@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Avlusare">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Aktivera källmappning">
-<!ENTITY options.sourceMaps.tooltip    "Om du aktiverar det här alternativet kommer källor att mappas i avlusaren och konsolen.">
+<!ENTITY options.sourceMaps.tooltip1   "Om du aktiverar det här alternativet kommer källor att mappas i verktygen.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Stileditor">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Visa originalkällor">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Visa originalkällor (t.ex. Sass-filer) i stileditorn och inspektören">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Spela slutarljud för kamera">
 <!ENTITY options.screenshot.audio.tooltip    "Aktiverar kameraljudet när du tar skärmdump">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Nätverk">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Aktivera persistenta loggar">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Om du aktiverar detta alternativ kommer nätverksövervakaren inte att rensa utdata varje gång du går till en ny sida">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
