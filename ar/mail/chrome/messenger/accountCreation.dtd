@@ -2,14 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "مُعِدّ حسابات البريد">
+<!ENTITY autoconfigWizard2.title         "اضبط حساب بريد إلكتروني موجود">
 <!ENTITY name.label                      "اسمك:">
 <!ENTITY name.accesskey                  "س">
 <!ENTITY name.placeholder                "الاسم الكامل">
 <!ENTITY name.text                       "اسمك الذي سيظهر للآخرين">
 <!ENTITY email.label                     "البريد الإلكتروني:">
 <!ENTITY email.accesskey                 "د">
-<!ENTITY email.placeholder               "email@example.com">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email.text                      "عنوان البريد الإلكتروني">
 <!ENTITY password.label                  "كلمة السر:">
 <!ENTITY password.accesskey              "م">
 <!ENTITY password.placeholder            "كلمة السر">
@@ -53,8 +54,8 @@
 <!ENTITY half-manual-test.accesskey      "خ">
 <!ENTITY manual-edit.label               "إعداد يدوي">
 <!ENTITY manual-edit.accesskey           "و">
-<!ENTITY switch-to-provisioner.label     "احصل على حساب جديد">
-<!ENTITY switch-to-provisioner.accesskey "س">
+<!ENTITY open-provisioner.label          "احصل على عنوان بريد إلكتروني جديد…">
+<!ENTITY open-provisioner.accesskey      "ص">
 
 
 <!ENTITY warning.label                   "تحذير!">
