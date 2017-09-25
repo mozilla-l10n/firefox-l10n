@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY securityTitle.label "Jikomal">
+<!ENTITY securityTab.label "Jikomal">
+<!ENTITY digitalSign.certificate.button "Ticha'…">
+<!ENTITY digitalSign.certificate.accesskey "c">
+<!ENTITY digitalSign.certificate_clear.button "Tijosq'ïx">
+<!ENTITY digitalSign.certificate_clear.accesskey "j">
+<!ENTITY encryption.certificate.button "Ticha'…">
+<!ENTITY encryption.certificate.accesskey "c">
+<!ENTITY encryption.certificate_clear.button "Tijosq'ïx">
+<!ENTITY encryption.certificate_clear.accesskey "o">
+
+<!ENTITY certificates.label "Taq ruwujil b'i'aj">
+<!ENTITY manageDevices.label "Taq Okisaxel richin Jikomal">
+<!ENTITY manageDevices.accesskey "m">
+
+<!-- Strings for the cert picker dialog -->

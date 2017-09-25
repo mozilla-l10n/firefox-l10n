@@ -11,15 +11,38 @@
 <!ENTITY serverName.accesskey "K">
 <!ENTITY userName.label "Rub'i' winäq:">
 <!ENTITY userName.accesskey "b">
+<!ENTITY port.label "B'ey:">
+<!ENTITY port.accesskey "B">
+<!ENTITY serverPortDefault.label "K'o wi:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffEnd.label "taq ch'utiramaj">
+<!ENTITY connectionSecurity.label "Rujikomal okem:">
+<!ENTITY connectionSecurity.accesskey "k">
+<!ENTITY connectionSecurityType-0.label "Majun">
+<!ENTITY connectionSecurityType-2.label "STARTTLS">
+<!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "Rujikib'axik b'eyal:">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY daysEnd.label "taq q'ij">
+<!ENTITY username.label "Rub'i' ri Ataqoya'l">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
+<!ENTITY maxMessagesEnd.label "taq tzijol">
+<!ENTITY advancedButton.label "Taq q'axinäq…">
+<!ENTITY advancedButton.accesskey "x">
+<!ENTITY localPath.label "Aj wawe' cholb'äl:">
+<!ENTITY localFolderPicker.label "Ticha' Aj Wawe' Cholb'äl">
+<!ENTITY browseFolder.label "Tokik'amayin…">
+<!ENTITY browseFolder.accesskey "o">
+<!ENTITY browseNewsrc.label "Tokik'amayin…">
+<!ENTITY browseNewsrc.accesskey "o">
 
+<!ENTITY accountTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
