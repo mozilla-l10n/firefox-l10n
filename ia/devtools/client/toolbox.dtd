@@ -144,6 +144,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Activar le mappas de codices fonte">
+<!ENTITY options.sourceMaps.tooltip1   "Si tu activa iste option le fontes essera mappate in le utensiles.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
