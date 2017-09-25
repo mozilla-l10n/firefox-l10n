@@ -6,9 +6,31 @@
 <!ENTITY directoryName.accesskey           "b">
 <!ENTITY directoryHostname.label           "K'uxasamaj: ">
 <!ENTITY directoryHostname.accesskey       "u">
+<!ENTITY directoryBaseDN.label             "Xe'el DN: ">
+<!ENTITY directoryBaseDN.accesskey         "x">
 <!ENTITY findButton.label                  "Tikanöx">
+<!ENTITY findButton.accesskey              "k">
+<!ENTITY directorySecure.label             "Tokisäx jikïl okem (SSL)">
+<!ENTITY directorySecure.accesskey         "o">
+<!ENTITY General.tab                       "Chijun">
+<!ENTITY Offline.tab                       "Chupül">
+<!ENTITY Advanced.tab                      "Q'axinäq">
+<!ENTITY portNumber.label                  "Rajilab'al b'ey: ">
+<!ENTITY portNumber.accesskey              "b">
+<!ENTITY searchFilter.label                "Tikanöx chayub'äl: ">
+<!ENTITY searchFilter.accesskey            "c">
+<!ENTITY scope.label                       "Akuchi' napon: ">
+<!ENTITY scope.accesskey                   "k">
+<!ENTITY scopeOneLevel.label               "Jun Rupalem">
+<!ENTITY scopeOneLevel.accesskey           "p">
+<!ENTITY scopeSubtree.label                "Achche'">
+<!ENTITY scopeSubtree.accesskey            "A">
+<!ENTITY results.label                     "taq q'i'oj">
+<!ENTITY saslOff.label                     "Relik">
+<!ENTITY saslOff.accesskey                 "l">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
+<!ENTITY newDirectoryWidth                 "36em">
