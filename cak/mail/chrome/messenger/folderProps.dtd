@@ -28,7 +28,14 @@
 <!ENTITY folderProps.location.accesskey          "K">
 
 <!ENTITY folderSharingTab.label                  "Tajin nikomonïx">
+<!ENTITY privileges.button.label                 "Ya'on kiq'ij…">
+<!ENTITY privileges.button.accesskey             "Y">
+<!ENTITY folderType.label                        "Ruwäch Yakwuj:">
 
+<!ENTITY folderQuotaStatus.label                 "B'anikil:">
 
+<!ENTITY numberOfMessages.label                  "Kajilab'al rutzijol:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "man etaman ta ruwäch">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "man etaman ta ruwäch">
