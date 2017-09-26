@@ -17,6 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Chuta. Tu pestaña acaba de caerse.">
 <!ENTITY tabCrashed.offerHelp2 "¡Podemos ayudar!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Elije &tabCrashed.restoreTab; para recargar la página.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Elije &tabCrashed.restoreTab; o &tabCrashed.restoreAll; para recargar la página o las páginas (según corresponda).">
 <!ENTITY tabCrashed.requestHelp "¿Nos ayudarías?">
 <!ENTITY tabCrashed.requestHelpMessage "Los reportes de fallos nos ayudan a diagnosticar problemas y mejorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar esta pestaña">
