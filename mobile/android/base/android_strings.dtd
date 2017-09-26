@@ -216,7 +216,7 @@
 <!ENTITY pref_category_home_summary "Jo startside oanpasse">
 <!ENTITY pref_category_home_panels "Panielen">
 <!ENTITY pref_category_home_add_ons "Add-ons">
-<!ENTITY pref_home_updates2 "Ynhâldsfernijngen">
+<!ENTITY pref_home_updates2 "Ynhâldsfernijingen">
 <!ENTITY pref_home_updates_enabled "Ynskeakele">
 <!ENTITY pref_home_updates_wifi "Allinnich fia wifi">
 <!ENTITY pref_category_home_homepage "Startside">
@@ -285,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimintele funksjes">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Eigen ljepblêden">
-<!ENTITY pref_custom_tabs_summary3 "Apps tastean om websites te iepenjen mei in oanpaste ferzje fan &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Iepenje yn &formatS;">
@@ -363,13 +358,13 @@
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync2 "Oanmelde">
 <!ENTITY pref_sync_summary2 "Ljepblêden, blêdwizers, oanmeldingen, skiednis syngronisearje">
-<!ENTITY pref_search_suggestions "Sykfoarstelllen toane">
+<!ENTITY pref_search_suggestions "Sykfoarstellen toane">
 <!ENTITY pref_history_search_suggestions "Sykskiednis toane">
 <!ENTITY pref_import_options "Ymportearopsjes">
 <!ENTITY pref_import_android_summary "Blêdwizers en skiednis fan de systeemeigen browser út ymportearje">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Iepen ljeplêden">
+<!ENTITY pref_private_data_openTabs "Iepen ljepblêden">
 <!ENTITY pref_private_data_history2 "Navigaasjeskiednis">
 <!ENTITY pref_private_data_searchHistory "Sykskiednis">
 <!ENTITY pref_private_data_formdata2 "Formulierskiednis">
@@ -529,8 +524,8 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-<!ENTITY pref_compact_tabs "Kompakte ljeplêden">
-<!ENTITY pref_compact_tabs_summary2 "Ljeplêden yn steande modus oarderje yn tw kolommen">
+<!ENTITY pref_compact_tabs "Kompakte ljepblêden">
+<!ENTITY pref_compact_tabs_summary2 "Ljepblêden yn steande modus oarderje yn twa kolommen">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -831,8 +826,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topstories "Oanrekommandearre troch &brandPocket;">
 <!ENTITY activity_stream_highlights "Hichtepunten">
 
-<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
-<!ENTITY activity_stream_link_more "mear">
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MEAR">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
