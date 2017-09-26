@@ -509,7 +509,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Sykynstellingen wizigje">
 
 <!ENTITY searchInNewTab.label         "Sykje yn Nij ljepblêd">
-<!ENTITY searchInNewTab.accesskey     "t">
+<!ENTITY searchInNewTab.accesskey     "N">
 <!ENTITY searchSetAsDefault.label     "Ynstelle as standertsykmasine">
 <!ENTITY searchSetAsDefault.accesskey "s">
 
@@ -825,7 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Alle iepenje yn ljepblêden">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
 <!ENTITY syncedTabs.context.managedevices.label              "Apparaten beheare…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "d">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "b">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -897,7 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Beskerming foar dizze sesje útskeakelje">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "u">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "s">
 <!ENTITY trackingProtection.block2.label "Beskerming ynskeakelje">
 <!ENTITY trackingProtection.block2.accesskey "s">
 
@@ -980,3 +980,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
 
 <!ENTITY libraryButton.tooltip "Skiednis, bewarre blêdwizers en mear besjen">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
