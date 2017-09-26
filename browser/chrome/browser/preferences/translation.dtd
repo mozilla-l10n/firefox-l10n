@@ -16,7 +16,7 @@
 <!ENTITY noTranslationForSites2.label     "Oersettingen wurde net oanbean foar de folgjende websites">
 <!ENTITY treehead.siteName2.label         "Websites">
 <!ENTITY removeSite.label                 "Websites fuortsmite">
-<!ENTITY removeSite.accesskey             "v">
+<!ENTITY removeSite.accesskey             "W">
 <!ENTITY removeAllSites.label             "Alle websites fuortsmite">
 <!ENTITY removeAllSites.accesskey         "i">
 
