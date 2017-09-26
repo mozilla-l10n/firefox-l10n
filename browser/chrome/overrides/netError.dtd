@@ -18,18 +18,9 @@
 <!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "გვერდი ვერ მოიძებნა">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>შეამოწმეთ აკრეფილი მისამართის სისწორე. მაგალითად
-    <strong>ww</strong>.example.com-ის ნაცვლად უნდა იყოს
-    <strong>www</strong>.example.com</li>
-  <li>თუ ვერცერთი საიტის გახსნას ვერ ახერხებთ, შეამოწმეთ მოწყობილობის ინტერნეტთან
-    კავშირი.</li>
-  <li>თუ თქვენი ქსელი ან კომპიუტერი დაცულია ქსელის ფარით ან პროქსით, გადაამოწმეთ რომ
-    &brandShortName;-ს აქვს ინტერნეტთან წვდომის უფლება</li>
-</ul>
-">
+<!ENTITY dnsNotFound.pageTitle "გვერდი ვერ მოიძებნა">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "ჰმ. საიტის მონახვა ვერ მოხერხდა.">
 
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -54,15 +45,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "ქსელში შესასვლელი გვერდის გახსნა">
 
-<!ENTITY malformedURI.title "მისამართი არასწორია">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>საიტის მისამართები, ჩვეულებრივ, ასე იწერება
-    <strong>http://www.example.com/</strong></li>
-  <li>დარწმუნდით, რომ წინ გადახრილ ხაზებს იყენებთ (ანუ, ასეთს
-    <strong>/</strong>).</li>
-</ul>
-">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

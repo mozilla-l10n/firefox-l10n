@@ -29,6 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის">
 
+<!ENTITY enableHealthReport2.label       "&brandShortName;-ისთვის ნების დართვა, ტექნიკური მონაცემების გასაგზავნად Mozilla-სთვის">
+<!ENTITY enableHealthReport2.accesskey   "რ">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
 <!ENTITY dataCollection.label            "&brandShortName; მონაცემთა აღრიცხვა და გამოყენება">

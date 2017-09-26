@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "დამატებული">
 <!ENTITY col.lastmodified.label  "ბოლო ცვლილება">
 
-<!ENTITY search.placeholder  "ძიება">
+<!ENTITY historySearch.placeholder  "ძიება ისტორიაში">
+<!ENTITY bookmarksSearch.placeholder  "სანიშნეების ძიება">
 
 <!ENTITY cmd.find.key  "f">
 
