@@ -7,16 +7,17 @@
 <!ENTITY itemUpdate.label        "Ažuriraj">
 <!ENTITY itemNetworking.label    "Mreža i prostor na disku">
 <!ENTITY itemCertificates.label  "Certifikati">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+<!ENTITY dateTimeFormatting.label      "Oblikovanje datuma i vremena">
 <!ENTITY allowHWAccel.label            "Koristi hardversko ubrzanje kada je dostupno">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tip pohrane poruka za nove račune:">
 <!ENTITY storeType.accesskey           "T">
-
-
+<!ENTITY mboxStore2.label              "Datoteka po direktoriju (mbox)">
+<!ENTITY maildirStore.label            "Datoteka po poruci (maildir)">
 
 <!ENTITY scrolling.label               "Skrolanje">
 <!ENTITY useAutoScroll.label           "Koristi automatsko skrolanje">
@@ -37,29 +38,33 @@
 <!ENTITY returnReceiptsInfo.label      "Odredite kako će &brandShortName; rukovati s potvrdama čitanja">
 <!ENTITY showReturnReceipts.label      "Potvrde čitanja…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju, hardveru i prilagođenjima vašeg email klijenta, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 <!ENTITY enableTelemetry.label           "Omogući Telemetriju">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Saznajte više">
 
+<!ENTITY crashReporterSection.label      "Izvještavač o rušenju">
 <!ENTITY crashReporterDesc.label         "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš email klijent učiniti stabilnijim i sigurnijim">
-
-
+<!ENTITY enableCrashReporter.label       "Omogući izvještavač o rušenju">
+<!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Saznajte više">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName; ažuriranja">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Verzija ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Automatski instaliraj nadogradnje (preporučeno: unaprijeđena sigurnost)">
 <!ENTITY updateAuto.accesskey            "A">
@@ -72,8 +77,8 @@
 
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju nadogradnji">
 <!ENTITY useService.accesskey            "K">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Postavke…">
 <!ENTITY showSettings.accesskey        "s">
 <!ENTITY proxiesConfigure.label        "Podesite kako se &brandShortName; konektuje na internet">
@@ -87,22 +92,22 @@
 <!ENTITY offlineCompactFolders.label     "Sažmi sve direktorije kada će uštedjeti više od">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "Ukupno MB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Koristi do">
 <!ENTITY useCacheBefore.accesskey        "K">
 <!ENTITY useCacheAfter.label             "MB prostora za keš">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Premosti automatsko upravljanje kešom">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Očisti odmah">
 <!ENTITY clearCacheNow.accesskey         "O">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Kada server zatraži moj lični certifikat:">
 <!ENTITY certs.auto                      "Automatski izaberi jedan">
 <!ENTITY certs.auto.accesskey            "A">
