@@ -210,11 +210,11 @@
 <!ENTITY event.alldayevent.label                          "De hiele dei" >
 <!ENTITY event.alldayevent.accesskey                      "d">
 <!ENTITY event.from.label                                 "Begjin:" >
-<!ENTITY event.from.accesskey                             "">
+<!ENTITY event.from.accesskey                             "B">
 <!ENTITY task.from.label                                  "Begjin:" >
 <!ENTITY task.from.accesskey                              "e">
 <!ENTITY event.to.label                                   "Ein:" >
-<!ENTITY event.to.accesskey                               "">
+<!ENTITY event.to.accesskey                               "E">
 <!ENTITY task.to.label                                    "Eindatum:" >
 <!ENTITY task.to.accesskey                                "u">
 <!ENTITY task.status.label                                "Steat:" >
