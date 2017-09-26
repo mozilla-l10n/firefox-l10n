@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Chwilio'r tabiau wedi eu cydweddu">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Galluogi diogelu">
 <!ENTITY trackingProtection.block2.accesskey "G">
 
-<!ENTITY trackingContentBlocked.message "Tracio">
-<!ENTITY trackingContentBlocked.moreinfo "Mae'r rhannau o'r dudalen sy'n tracio'ch gweithgaredd ar-lein wedi eu rhwystro.">
-<!ENTITY trackingContentBlocked.learnMore "Dysgu Rhagor">
-<!ENTITY trackingContentBlocked.options "Dewisiadau">
-<!ENTITY trackingContentBlocked.unblock2.label "Analluogi diogelwch y wefan hon">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "A">
-<!ENTITY trackingContentBlocked.block.label "Galluogi diogelu">
-<!ENTITY trackingContentBlocked.block.accesskey "G">
-<!ENTITY trackingContentBlocked.disabled.message "Mae diogelwch rhag tracio wedi ei analluogi">
-
 <!ENTITY pluginNotification.showAll.label "Dangos Popeth">
 <!ENTITY pluginNotification.showAll.accesskey "P">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
 
 <!ENTITY libraryButton.tooltip "Gweld hanes, nodau tudalen wedi eu cadw, a rhagor">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Nodweddion Hygyrchedd wedi eu Galluogi">
