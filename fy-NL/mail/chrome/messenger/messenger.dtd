@@ -204,7 +204,7 @@
 <!ENTITY sortAscending.label "Opgeand">
 <!ENTITY sortAscending.accesskey "O">
 <!ENTITY sortDescending.label "Delgeand">
-<!ENTITY sortDescending.accesskey "f">
+<!ENTITY sortDescending.accesskey "g">
 <!ENTITY sortThreaded.label "Petearen">
 <!ENTITY sortThreaded.accesskey "P">
 <!ENTITY sortUnthreaded.label "Gjin petearen">
@@ -458,7 +458,7 @@
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "T">
+<!ENTITY addons.accesskey "A">
 <!ENTITY activitymanager.label "Aktiviteitebehearder">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Chatsteat">

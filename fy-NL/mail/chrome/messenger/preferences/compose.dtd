@@ -23,7 +23,7 @@
 <!ENTITY fontColor.label                      "Tekstkleur:">
 <!ENTITY fontColor.accesskey                  "k">
 <!ENTITY bgColor.label                        "Eftergrûnkleur:">
-<!ENTITY bgColor.accesskey                    "A">
+<!ENTITY bgColor.accesskey                    "E">
 <!ENTITY restoreHTMLDefaults.label            "Standertwearden tebeksette">
 <!ENTITY restoreHTMLDefaults.accesskey        "S">
 <!ENTITY defaultToParagraph.label             "Standert alinea-opmaak brûke yn stee fan kerntekst">
