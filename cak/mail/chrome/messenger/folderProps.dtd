@@ -8,11 +8,26 @@
 <!ENTITY folderCharsetFallback2.label            "Rucholajil rucholajem tzij, ri kan k'o wi:">
 <!ENTITY folderCharsetFallback2.accesskey        "R">
 
+<!ENTITY retentionUseAccount.label  "Tinwokisaj kinuk'ulem ri rub'i' nutaqoya'l">
+<!ENTITY retentionUseAccount.accesskey "o">
+<!ENTITY daysOld.label "ojer taq q'ij">
+<!ENTITY message.label "taq tzijol">
+<!ENTITY retentionKeepAll.label "Man keyuj taq tzijol">
+<!ENTITY retentionKeepAll.accesskey "A">
 
 
+<!ENTITY offlineFolder.button.label              "Tajin Niqasan">
+<!ENTITY offlineFolder.button.accesskey          "q">
 
+<!ENTITY offlineNewsgroup.button.label           "Tajin Niqasan">
+<!ENTITY offlineNewsgroup.button.accesskey       "q">
 
+<!ENTITY folderProps.name.label                  "B'i'aj:">
+<!ENTITY folderProps.name.accesskey              "B">
+<!ENTITY folderProps.location.label              "K'ojlib'äl:">
+<!ENTITY folderProps.location.accesskey          "K">
 
+<!ENTITY folderSharingTab.label                  "Tajin nikomonïx">
 
 
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
