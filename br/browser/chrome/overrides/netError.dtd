@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Klask en-dro">
 <!ENTITY returnToPreviousPage.label "Distreiñ">
 <!ENTITY advanced.label "Kempleshoc'h">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,17 @@
 <!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "N'eo ket bet kavet ar chomlec'h">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Gwiriekait n’ez eus fazi bizskrivañ ebet evel <strong>ww</strong>.example.com e-lec'h <strong>www</strong>.example.com</li><li>Ma n'oc'h gouest da gargañ pajenn ebet, gwiriekait eo kennasket ho urzhiataer d'ar rouedad.</li><li>Ma ’z eo gwarezet hoc'h urzhiataer gant un tanvoger pe ur proksi, gwiriekait eo aotreet &brandShortName; da dizhout ar web.</li></ul>">
+<!ENTITY dnsNotFound.pageTitle "Dafariad ebet kavet">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmmm. Diaes eo deomp kavout al lec'hienn-mañ.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>M'eo reizh ar chomlec'h-mañ, amañ 'zo tri zra all a c'hallfec'h klask:</strong>
+<ul>
+  <li>Klaskit adarre diwezhatoc'h.</li>
+  <li>Gwirit ho kennaskañ kenrouedadel.</li>
+  <li>M'emaoc'h kennasket met a-drek d'ur voger-dan, gwirit m'en deus &brandShortName; an aotre da aheziñ ouzh ar Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Restr dianav ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li> <li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li> </ul>">
@@ -35,8 +44,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Digeriñ ar bajenn gennaskañ d'ar rouedad">
 
-<!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec’h">
-<!ENTITY malformedURI.longDesc "<ul> <li>Peurvuiañ e vez skrivet ar chomlec’hioù web evel-mañ  <strong>http://www.example.com/</strong></li> <li>Gwiriekait e vez implijet barennoù stouet ganeoc'h (d.l.e <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "URL direizh">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Ne seblant ket bezañ reizh ar chomlec'h-mañ.">
 
 <!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadennoù">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +114,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTime_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTime_systemDate'/> eo war hoc'h urzhiataer padel e rankfe bezañ <span id='wrongSystemTime_actualDate'/>. Evit diskoulmañ ar gudenn-mañ, kemmit ho teiziad evit ma vefe d'an eur reizh.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; n'eo ket kennasket da <span id='wrongSystemTimeWithoutReference_URL'/> peogwir n'eo ket d'an eur horolaj hoc'h urzhiataer, ar pezh a vir da gaout ur c'hennask diogel.</p><p><span id='wrongSystemTimeWithoutReference_systemDate'/> eo war hoc'h urzhiataer. Evit reizhañ ar gudenn-mañ, kemmit hoc'h arventennoù deiziad hag eur evit lakaat an eur dereat.</p>">
 

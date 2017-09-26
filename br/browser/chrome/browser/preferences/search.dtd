@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Barrenn glask">
+
+
 <!ENTITY defaultSearchEngine.label             "Keflusker enklask dre ziouer">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Dibab al lusker klask dre ziouer da arverañ er varrenn chomlec'hioù hag er varrenn glask.">
