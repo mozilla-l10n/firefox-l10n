@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY accountProtocolField.label   "K'amab'ey:">
+<!ENTITY accountProtocolGetMore.label "Tik'ul ch'aqa' chik…">
+
+<!ENTITY accountUsernameTitle.label   "Rub'i' winäq">
+
+<!ENTITY accountPasswordTitle.label   "Ewan tzij">
+<!ENTITY accountPasswordField.label   "Ewan tzij:">
+
+<!ENTITY accountAdvancedTitle.label   "Q'axinäq taq Cha'oj">
+<!ENTITY accountProxySettings.caption "Proxi taq Nuk'ulem">
+<!ENTITY accountProxySettings.change.label     "Tijalwachïx…">
+<!ENTITY accountProxySettings.change.accessKey "j">
+
+<!ENTITY accountSummaryTitle.label   "Ch'utitzijol">
