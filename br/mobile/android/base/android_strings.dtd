@@ -385,7 +385,7 @@
 <!ENTITY pref_dialog_set_default "Lakaat dre ziouer">
 <!ENTITY pref_dialog_default "Diouer">
 <!ENTITY pref_dialog_remove "Dilemel">
-<!ENTITY pref_dialog_activitystream_header_content "Endalc’had ouzhpenn">
+<!ENTITY pref_dialog_activitystream_header_content "Endalc\&apos;had ouzhpenn">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Sinedoù nevez">
 <!ENTITY pref_dialog_activitystream_visited "Gweladennet">
 
@@ -498,6 +498,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Pajennoù spilhennet el lec’hiennoù gwellañ">
+<!ENTITY unpinned_page_from_top_sites "Pajennoù dispilhennet eus al lec’hiennoù gwellañ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -822,6 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "Mareoù pouezus">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "MUIOC’H">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -832,6 +835,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Brudet">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
