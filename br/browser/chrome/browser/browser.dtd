@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Tarzh ar bajennad">
 <!ENTITY pageSourceCmd.accesskey "b">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Stlennoù ar bajennad">
 <!ENTITY pageInfoCmd.accesskey "t">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Kennaskañ da Synx">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Ardeiñ an trevnadoù…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gwelout barrenn-gostez an ivinelloù goubredet ">
+
 
 <!ENTITY customizeMenu.addToToolbar.label "Ouzhpennañ d'ar varrenn ostilhoù">
 <!ENTITY customizeMenu.addToToolbar.accesskey "O">
@@ -866,6 +874,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Arverañ Stok evit ar mod taolennig">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Em-guzhañ">
+
 <!ENTITY getUserMedia.selectCamera.label "Webkam da rannañ :">
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon da rannañ :">
@@ -889,16 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Gweredekaat ar gwarez">
 <!ENTITY trackingProtection.block2.accesskey "G">
-
-<!ENTITY trackingContentBlocked.message "Heuliañ ho roudoù">
-<!ENTITY trackingContentBlocked.moreinfo "Harzet eo bet al lodoù eus ar bajenn a heuilh hoc'h oberiantiz enlinenn.">
-<!ENTITY trackingContentBlocked.learnMore "Gouzout hiroc'h">
-<!ENTITY trackingContentBlocked.options "Dibarzhioù">
-<!ENTITY trackingContentBlocked.unblock2.label "Diweredekaat ar gwarez evit al lec'hienn-mañ">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Gweredekaat ar gwarez">
-<!ENTITY trackingContentBlocked.block.accesskey "G">
-<!ENTITY trackingContentBlocked.disabled.message "Diweredekaet eo ar gwarez ouzh an heuliañ.">
 
 <!ENTITY pluginNotification.showAll.label "Diskouez pep tra">
 <!ENTITY pluginNotification.showAll.accesskey "s">
@@ -979,3 +979,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
 
 <!ENTITY libraryButton.tooltip "Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
