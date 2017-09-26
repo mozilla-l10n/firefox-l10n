@@ -409,7 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.label "Переместить в меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "е">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Прикрепить в расширенном меню">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "и">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "к">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Открепить от расширенного меню">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "п">
 <!ENTITY customizeMenu.removeFromToolbar.label "Удалить с панели инструментов">
