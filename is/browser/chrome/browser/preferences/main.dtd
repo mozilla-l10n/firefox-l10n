@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Endurstilla">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Slökkva á viðbót">
+
 <!ENTITY downloads.label     "Niðurhal">
 
 <!ENTITY saveTo.label "Vista skrár yfir á">

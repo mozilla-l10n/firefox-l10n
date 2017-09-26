@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "H">
 <!ENTITY     removingDialog.title          "Fjarlægja gögn vefsvæðis">
 <!ENTITY     removingSelected.description  "Ef þú fjarlægir gögn frá vefsvæði mun það einnig eyða tengdum smákökum og aftengdum gögnum. Þetta gæti leitt til þess að þú myndir aftengjast sumum vefsvæðum. Ertu viss um að þú viljir framkvæma þessar breytingar?">
-<!ENTITY     siteTree.label                "Eftirfarandi smákökur verða fjarlægðar:">
+<!ENTITY     siteTree2.label               "Eftirfarandi smákökur verða fjarlægðar">

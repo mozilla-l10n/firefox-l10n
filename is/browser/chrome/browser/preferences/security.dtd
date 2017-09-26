@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "Öryggi">
-<!ENTITY  phishingProtection.label       "Vörn gegn svikum">
 
 <!ENTITY  warnOnAddonInstall2.label       "Vara við þegar vefsvæði reynir að setja inn viðbætur">
 <!ENTITY  warnOnAddonInstall2.accesskey   "V">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Vörn gegn svika innihaldi og hættulegum hugbúnaði">
 <!ENTITY  enableSafeBrowsing.label        "Loka á hættulegt og svindl efni">
 <!ENTITY  enableSafeBrowsing.accesskey    "L">
 

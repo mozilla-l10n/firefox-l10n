@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Eftirfarandi smákökur eru geymdar á tölvunni þinni:">
+<!ENTITY     cookiesonsystem2.label         "Eftirfarandi smákökur eru geymdar á tölvunni þinni">
 <!ENTITY     cookiename.label               "Heiti smáköku">
 <!ENTITY     cookiedomain.label             "Vefsvæði">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Smákökur">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Leita">
 <!ENTITY     searchFilter.accesskey         "e">
