@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "files temporari">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "salvara">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " tu:">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " vostres:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "discargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "paginas marcate">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navigation private ">

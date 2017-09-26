@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Actualisation de software">
 
-<!ENTITY  checking.title                  "Recercante actualisationes">
+<!ENTITY  checking.title                  "Cercante actualisationes">
 <!ENTITY  updateCheck.label               "Cercante versiones plus nove de &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Nulle actualisationes trovate">
@@ -18,7 +18,7 @@
                                            administrator de tu systema o retenta de un conto que ha permission pro
                                            installar software in iste computator.">
 <!ENTITY  manualUpdate.space.desc         "Un actualisation recommendate de securitate e stabilitate es disponibile, ma tu
-                                           non ha spatio sufficiente pro installar lo.">
+                                           non ha spatio sufficiente ppro installar lo.">
 <!ENTITY  manualUpdateGetMsg.label        "Tu pote sempre obtener le ultime version de &brandShortName; a:">
 
 <!ENTITY  unsupported.title               "Systema non admittite">

@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation private)">
 
 <!ENTITY appmenu.tooltip                     "Aperir le menu">
-<!ENTITY navbarOverflow.label                "Plus utensiles…">
+<!ENTITY navbarOverflow.label                "Plus instrumentos…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Recargar le scheda">
@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Travaliar sin connexion">
+<!ENTITY goOfflineCmd.label "Travaliar disconnectite">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Barra de Menus">
@@ -114,7 +114,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Entrar le modo plen schermo">
+<!ENTITY enterFullScreenCmd.label "Entrar le modo Plen schermo">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Exir le modo Plen schermo">
 <!ENTITY exitFullScreenCmd.accesskey "F">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Minimisar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Clauder">
-<!ENTITY fullScreenAutohide.label "Celar le barras de utensiles">
+<!ENTITY fullScreenAutohide.label "Celar le barras de instrumentos">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Exir le modo Plen schermo">
 <!ENTITY fullScreenExit.accesskey "F">
@@ -205,7 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aperir le pannello de messages">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Aperir le pannello de messages de installation de additivos">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage sin connexion">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Aperir pannello de messages de stockage non in linea">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Aperir pannello de messages de contrasignos salvate">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si tu pote reciper o non notificationes del sito">
@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Vider le barra de paginas marcate">
 <!ENTITY hideBookmarksToolbar.label         "Celar le barra de paginas marcate">
 <!ENTITY searchBookmarks.label              "Cercar inter le paginas marcate">
-<!ENTITY bookmarkingTools.label             "Utensiles pro marcar paginas">
+<!ENTITY bookmarkingTools.label             "Instrumentos pro marcar paginas">
 <!ENTITY addBookmarksMenu.label             "Adder le menu de paginas marcate al barra">
 <!ENTITY removeBookmarksMenu.label          "Remover le menu de paginas marcate del barra">
 
@@ -261,10 +261,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Chronologia">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Utensiles">
+<!ENTITY toolsMenu.label              "Instrumentos">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "Adder un parola-clave pro iste cerca…">
+<!ENTITY keywordfield.label           "Adder un parola-clave pro iste recerca…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Discargas">
@@ -323,19 +323,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
-<!ENTITY clearRecentHistory.label               "Vacuar le historico recente…">
+<!ENTITY clearRecentHistory.label               "Vacuar le chronologia recente…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "Vider">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "Barras de utensiles">
+<!ENTITY viewToolbarsMenu.label       "Barras de instrumentos">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalisar…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "Personalisar barra de utensiles…">
+<!ENTITY overflowCustomizeToolbar.label       "Personalisar barra de instrumentos…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Chronologia">
@@ -345,17 +345,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Fenestras claudite recentemente">
 <!ENTITY historyRestoreLastSession.label "Restaurar le session previe">
 
-<!ENTITY showAllHistoryCmd2.label "Monstrar tote le historico">
+<!ENTITY showAllHistoryCmd2.label "Monstrar tote le chronologia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalisar">
-<!ENTITY appMenuCustomize.tooltip "Customisar le menu e le barras de utensiles">
+<!ENTITY appMenuCustomize.tooltip "Customisar le menu e le barras de instrumentos">
 <!ENTITY appMenuCustomizeExit.label "Exir le customisation">
 <!ENTITY appMenuCustomizeExit.tooltip "Finir le personalisation">
-<!ENTITY appMenuHistory.showAll.label "Monstrar tote le historico">
-<!ENTITY appMenuHistory.clearRecent.label "Vacuar le historico recente…">
+<!ENTITY appMenuHistory.showAll.label "Monstrar tote le chronologia">
+<!ENTITY appMenuHistory.clearRecent.label "Vacuar le chronologia recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar le session previe">
-<!ENTITY appMenuHistory.viewSidebar.label "Vider barra lateral de historico">
+<!ENTITY appMenuHistory.viewSidebar.label "Vider barra lateral de chronologia">
 <!ENTITY appMenuHistory.recentHistory.label "Chronologia recente">
 <!ENTITY appMenuHelp.label "Adjuta">
 <!ENTITY appMenuHelp.tooltip "Aperir le menu de adjuta">
@@ -388,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "Recente evidentias">
 
-<!ENTITY customizeMenu.addToToolbar.label "Adder al barra de utensiles">
+<!ENTITY customizeMenu.addToToolbar.label "Adder al barra de instrumentos">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Adder al menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Adder al Menu Disbordante">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Mover al barra de utensiles">
+<!ENTITY customizeMenu.moveToToolbar.label "Mover al barra de instrumentos">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
@@ -412,7 +412,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Disclavar del menu disbordante">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Remover del barra de utensiles">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remover del barra de instrumentos">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover del menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
@@ -442,7 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggestion:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtene adjuta a trovar le cosas! Usa le icone &#x1F50E; al latere del suggestiones de cerca.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtene adjuta a trovar le cosas! Usa le icone &#x1F50E; al latere del suggestiones de recerca.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cambiar le optiones…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cambiar le preferentias…">
@@ -475,8 +475,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Recerca">
-<!ENTITY contentSearchSubmit.tooltip  "Submitter recerca">
+<!ENTITY contentSearchInput.label     "Cerca">
+<!ENTITY contentSearchSubmit.tooltip  "Submitter cerca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -506,12 +506,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Cambiar parametros de cerca">
-<!ENTITY changeSearchSettings.tooltip "Cambiar le parametros de cerca">
+<!ENTITY changeSearchSettings.button  "Cambiar parametros de recerca">
+<!ENTITY changeSearchSettings.tooltip "Cambiar le parametros de recerca">
 
 <!ENTITY searchInNewTab.label         "Cercar in le nove scheda">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Predefinir como motor de cerca">
+<!ENTITY searchSetAsDefault.label     "Predefinir como motor de recerca">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Aperir le ligamine in un nove scheda">
@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.done "Terminate">
 <!ENTITY customizeMode.titlebar "Barra de titulo">
 <!ENTITY customizeMode.extraDragSpace "Spatio de traction">
-<!ENTITY customizeMode.toolbars2 "Barras de utensiles">
+<!ENTITY customizeMode.toolbars2 "Barras de instrumentos">
 <!ENTITY customizeMode.lwthemes "Themas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mi themas">
 <!ENTITY customizeMode.lwthemes.recommended "Recommendate">
@@ -975,8 +975,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Reinitiar pro actualisar &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">
-<!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresses">
-<!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresses">
+<!ENTITY pageAction.addToUrlbar.label "Adder al barra de adresse">
+<!ENTITY pageAction.removeFromUrlbar.label "Remover del barra de adresse">
 
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante Apparatos…">

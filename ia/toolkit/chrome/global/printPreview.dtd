@@ -4,7 +4,7 @@
 
 <!ENTITY print.label          "Impression…">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Configurar le pagina…">
+<!ENTITY pageSetup.label      "Arrangiamento del pagina…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Pagina:">
 <!ENTITY page.accesskey       "a">

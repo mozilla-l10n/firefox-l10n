@@ -108,7 +108,7 @@ available. -->
 <!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate2.label       "Actualisar automaticamente le motores de cerca">
+<!ENTITY enableSearchUpdate2.label       "Actualisar automaticamente le motores de recerca">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Adverti te quando un sito web demanda stockar datos pro usar disconnectite">
@@ -116,7 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptiones…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList3.label          "Le sitos web sequente ha permission de stockar datos pro usar los sin connexion">
+<!ENTITY offlineAppsList3.label          "Le sitos web sequente ha permission de stockar datos pro usar los disconnectite">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Remover…">
 <!ENTITY offlineAppsListRemove.accesskey "R">

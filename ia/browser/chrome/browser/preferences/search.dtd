@@ -5,7 +5,7 @@
 <!ENTITY searchBar.label                       "Barra de recerca">
 
 <!ENTITY searchBar.hidden.label                "Utilisar le barra de adresse pro recercar e navigar">
-<!ENTITY searchBar.shown.label                 "Adder le barra de recerca in le barra de utensiles">
+<!ENTITY searchBar.shown.label                 "Adder le barra de recerca in le barra de instrumentos">
 
 <!ENTITY defaultSearchEngine.label             "Motor de recerca predefinite">
 
@@ -14,7 +14,7 @@
 <!ENTITY provideSearchSuggestions.label        "Provider le suggestiones de recerca">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions2.label           "Monstrar le suggestiones de recerca in le resultatos del barra de adresses">
+<!ENTITY showURLBarSuggestions2.label           "Monstrar le suggestiones de recerca in le resultatos del barra de adresse">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate &brandShortName; pro non memorisar jammais le chronologia.">
 

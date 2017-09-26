@@ -24,7 +24,7 @@
 
 <!ENTITY downloads.label     "Discargas">
 
-<!ENTITY saveTo.label "Memorisar le files in">
+<!ENTITY saveTo.label "Salvar le files in">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Perquirer…">
 <!ENTITY chooseFolderWin.accesskey    "o">

@@ -39,7 +39,7 @@
 <!ENTITY  mediaDimension        "Dimensiones:">
 <!ENTITY  mediaLongdesc         "Description longe:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Memorisar como…">
+<!ENTITY  mediaSaveAs           "Salvar como…">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Vista preliminar del media:">
@@ -80,8 +80,8 @@
 <!ENTITY  securityView.privacy.cookies                  "Esque iste sito web stocka informationes (cookies) in mi computator?">
 <!ENTITY  securityView.privacy.viewCookies              "Vider le cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Ha io memorisate alcun contrasigno pro iste sito web?">
-<!ENTITY  securityView.privacy.viewPasswords            "Vider le contrasignos memorisate">
+<!ENTITY  securityView.privacy.passwords                "Ha io salvate alcun contrasigno pro iste sito web?">
+<!ENTITY  securityView.privacy.viewPasswords            "Vider le contrasignos salvate">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Detalios technic">

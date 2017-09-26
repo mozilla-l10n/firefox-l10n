@@ -107,7 +107,7 @@
 <!ENTITY proxyResolveFailure.title "Incapace de trovar le servitor proxy">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Controla que sia correcte le configurationes del proxy.</li>
+  <li>Controla que sia correcte le parametros del proxy.</li>
   <li>Controla que tu computator ha un connexion de rete functionante.</li>
   <li>Assecurate, si tu computator o rete es protegite per un firewall o proxy, 
    que  &brandShortName; pote acceder le Web.</li>
@@ -148,7 +148,7 @@ was trying to connect. -->
 <ul>
   <li>Le sito pote ser temporarimente indisponibile o troppo occupate. Retenta in un momento.</li>
   <li>Si tu non pote cargar qualcunque pagina, verifica le connexion de tu computator al rete.</li>
-  <li>Si vostre computator o rete es protegite per un firewall o proxy, assecura te
+  <li>Si tu computator o rete es protegite per un firewall o proxy, assecura te
     que &brandShortName; es permittite a  acceder al Web.</li>
 </ul>
 ">
@@ -176,8 +176,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTime_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Vostre computator pensa que il es <span id='wrongSystemTime_systemDate'/>, quando il deberea esser <span id='wrongSystemTime_actualDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTimeWithoutReference_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Vostre computator pensa que il es <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTime_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Tu computator pensa que il es <span id='wrongSystemTime_systemDate'/>, quando il deberea esser <span id='wrongSystemTime_actualDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTimeWithoutReference_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Tu computator pensa que il es <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion non secur">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste sito usa HTTP
@@ -191,5 +191,5 @@ certificato non es possibile.">
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e vulnerabile al attaccos. Un attaccator pote facilemente revelar informationes que tu pensa esser secur. Le gestor del sito necessitara fixar le servitor ante que tu pote visitar le sito Web.</p><p>Codice de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY prefReset.longDesc "Pare que le configurationes de tu rete pote causar isto. Desira tu restaurar le configurationes ordinari?">
+<!ENTITY prefReset.longDesc "Pare que le parametros de tu rete pote causar isto. Desira tu restaurar le parametros ordinari?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">

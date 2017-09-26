@@ -18,7 +18,7 @@
 <!ENTITY listEmpty.button.label               "Saper plus super additivos">
 <!ENTITY installAddonFromFile.label           "Installar additivo ab un file…">
 <!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Utensiles pro tote le additivos">
+<!ENTITY toolsMenu.tooltip                    "Instrumentos pro tote le additivos">
 
 <!ENTITY getThemes.description                "Cerca tu de personalisar tu navigator?">
 <!ENTITY getThemes.learnMore                  "Eliger inter milles de themas.">

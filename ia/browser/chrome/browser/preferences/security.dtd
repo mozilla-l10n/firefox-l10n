@@ -38,5 +38,5 @@
 <!ENTITY  changeMasterPassword.label     "Modificar le contrasigno maestro…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "Authenticationes memorisate…">
+<!ENTITY  savedLogins.label              "Authenticationes salvate…">
 <!ENTITY  savedLogins.accesskey          "L">
