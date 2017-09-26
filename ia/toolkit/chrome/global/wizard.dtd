@@ -16,7 +16,9 @@
 <!ENTITY  button-finish-unix.label     "Finir">
 <!ENTITY  button-cancel-unix.label     "Cancellar">
 
+<!ENTITY  button-back-win.label        "&lt; Retro">
 <!ENTITY  button-back-win.accesskey    "B">
+<!ENTITY  button-next-win.label        "Sequente &gt;">
 <!ENTITY  button-next-win.accesskey    "N">
 <!ENTITY  button-finish-win.label      "Finir">
 <!ENTITY  button-cancel-win.label      "Cancellar">
