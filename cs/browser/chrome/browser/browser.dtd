@@ -408,7 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Přesunout do nabídky">
 <!ENTITY customizeMenu.moveToPanel.accesskey "P">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Přesunout do rozšiřující nabídky">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Připnout do rozšiřující nabídky">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Přesunout na lištu">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "u">
