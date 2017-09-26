@@ -206,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "Assav an ivinelloù, esperner roadennoù, ostilhoù diorroer">
 <!ENTITY pref_category_notifications "Rebuziñ">
 <!ENTITY pref_category_notifications_summary "Keweriusterioù nevez, hizivadennoù lec\&apos;hienn">
-<!ENTITY pref_content_notifications "Hizivadennoù al lec\&apos;hienn">
-<!ENTITY pref_content_notifications_summary2 "Dizoloiñ endalc\&apos;hadoù nevez adalek lec\&apos;hiennoù skoret">
 <!ENTITY pref_developer_remotedebugging_usb "Diveugañ a-bell dre USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Diveugañ a-bell dre Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Rankout a rit kaout un arload evit lenn bonegoù QR a-benn arverañ an diveugañ dre Wi-Fi.">
@@ -273,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Pellgargañ nodrezhoù a-bell e-pad kargadenn ar bajenn">
 
 <!ENTITY pref_tracking_protection_title2 "Gwarez heuliañ">
-<!ENTITY pref_tracking_protection_summary3 "Gweredekaet er merdeiñ prevez">
 <!ENTITY pref_donottrack_title "Na heuliañ ma roudoù">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\&apos;al lec\&apos;hiennoù ne fell ket deoc\&apos;h bezañ heuliet">
 
@@ -288,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Keweriusterioù arnodel">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Ivinelloù personelaet">
-<!ENTITY pref_custom_tabs_summary3 "Aotren an arloadoù da zigeriñ lec\&apos;hiennoù web en ur arverañ un handelv personelaet eus &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Digeriñ e &formatS;">
@@ -334,23 +326,6 @@
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "Evit \&quot;Digeriñ meur a ere\&quot;, gweredekait an aotre \&quot;Tresañ a-us arloadoù all\&quot; evit &brandShortName;">
-
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; lec\&apos;hienn hizivaet">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Arventennoù">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lenn diouzhtu">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Hizivaet &formatS;">
 
 <!ENTITY pref_char_encoding "Bonegadur an arouezennoù">
 <!ENTITY pref_char_encoding_on "Diskouez al lañser">
@@ -410,6 +385,9 @@
 <!ENTITY pref_dialog_set_default "Lakaat dre ziouer">
 <!ENTITY pref_dialog_default "Diouer">
 <!ENTITY pref_dialog_remove "Dilemel">
+<!ENTITY pref_dialog_activitystream_header_content "Endalc’had ouzhpenn">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Sinedoù nevez">
+<!ENTITY pref_dialog_activitystream_visited "Gweladennet">
 
 <!ENTITY pref_search_last_toast "N\&apos;hallit ket dilemel pe ziweredekaat ho keflusker klask diwezhañ.">
 
@@ -511,7 +489,15 @@
 <!ENTITY contextmenu_top_sites_edit "Embann">
 <!ENTITY contextmenu_top_sites_pin "Spilhennañ al lec\&apos;hienn">
 <!ENTITY contextmenu_top_sites_unpin "Dispilhennañ al lec\&apos;hienn">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Spilhennañ el lec\&apos;hiennoù gwellañ">
+<!ENTITY contextmenu_unpin_from_top_sites "Dispilhennañ eus al lec\&apos;hiennoù gwellañ">
 <!ENTITY contextmenu_add_search_engine "Ouzhpennañ ur c\&apos;heflusker klask">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -835,6 +821,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topstories "Erbedet gant &brandPocket;">
 <!ENTITY activity_stream_highlights "Mareoù pouezus">
 
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Sined">
@@ -843,16 +831,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Gweladennet">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Brudet">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Dilemel">
 <!ENTITY activity_stream_delete_history "Dilemel eus ar roll istor">
-
-<!ENTITY activity_stream_welcome_title "Donemat war ho mareoù pouezus">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; a grou liammoù davet traoù ho peus dizoloet war ar web evit ma c\&apos;hallfec\&apos;h kavout pennadoù, videoioù, sinedoù ha pajennoù all en-dro.">
-<!ENTITY activity_stream_welcome_dismiss "Argas">
 
 <!ENTITY private_tab_panel_title "Merdeiñ prevez + gwarez heuliañ">
 <!ENTITY private_tab_panel_description "&brandShortName; a stank lodennoù ar bajenn a c\&apos;hall heulian hoc\&apos;h obererezh merdeiñ.">
