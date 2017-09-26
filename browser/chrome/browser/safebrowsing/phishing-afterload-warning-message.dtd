@@ -40,18 +40,26 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> ha sido <a id='error_desc_link'>reportado como contenedor de software peligroso</a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Aprende más sobre software peligroso y no deseado en <a id='learn_more_link'>Política de software no deseado</a>. Aprende más sobre la protección de phishing y malware de &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Sitio fraudulento a continuación">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; bloqueó esta página porque puede engañarte para hacer algo peligroso como instalar software o revelar información personal, como contraseñas o tarjetas de crédito.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "span id='phishing_sitename'/> ha sido <a id='error_desc_link'>reportado como un sitio fraudulento</a>. Puedes <a id='report_detection'>reportar un problema de detección</a> o <a id='ignore_warning_link'>ignorar el riesgo</a> e ir a este sitio inseguro.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "span id='phishing_sitename'/> ha sido <a id='error_desc_link'>reportado como un sitio fraudulento</a>. Puedes <a id='report_detection'>reportar un problema de detección</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Aprende más sobre sitios fraudulentos y phishing en <a id='learn_more_link'>www.antiphishing.org</a>. Aprende más sobre la protección de phishing y malware de &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "El sitio a continuación pueden contener malware">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; bloqueó esta página porque podría intentar instalar aplicaciones peligrosas que roban o eliminan tu información (por ejemplo: fotos, contraseñas, mensajes y tarjetas de crédito).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> ha sido <a id='error_desc_link'>reportado como un sitio que contiene una aplicación potencialmente peligrosa</a>. Puedes <a id='ignore_warning_link'>ignorar el riesgo</a> e ir a este sitio inseguro.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> ha sido <a id='error_desc_link'>reportado como un sitio que contiene una aplicación potencialmente peligrosa</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Aprende más sobre la protección de phishing y malware de &brandShortName; en <a id='firefox_support'>support.mozilla.org</a>.">

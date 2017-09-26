@@ -12,8 +12,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  browsingProtection.label        "Protección de contenido engañoso y software peligroso">
-<!ENTITY  enableSafeBrowsing.label        "Bloquear contenido peligroso y engañoso">
+<!ENTITY  browsingProtection.label        "Protección de contenido fraudulento y software peligroso">
+<!ENTITY  enableSafeBrowsing.label        "Bloquear contenido peligroso y fraudulento">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "Bloquear descargas peligrosas">
