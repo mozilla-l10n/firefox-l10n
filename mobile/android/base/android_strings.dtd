@@ -55,7 +55,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Zobrazuje se offline verze">
 
-<!ENTITY  crash_reporter_title "Hlášení pádů">
+<!ENTITY  crash_reporter_title "Hlášení pádů aplikace &brandShortName;">
 <!ENTITY  crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY  crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
 <!ENTITY  crash_include_url2 "Zahrnout i adresu stránky, kde došlo k pádu">
@@ -296,7 +296,7 @@
 <!ENTITY pref_pwa_summary "Povolit webovým aplikacím přidání na domovskou obrazovku">
 
 <!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
-<!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně více nemusely starat.">
+<!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně nemuseli starat.">
 <!ENTITY tracking_protection_prompt_tip_text "Pro více informací se navštivte nastavení Soukromí">
 <!ENTITY tracking_protection_prompt_action_button "Rozumím">
 
@@ -422,7 +422,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližnou polohu mobilních a Wi-Fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -447,7 +447,7 @@
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY print "Tisk">
 <!ENTITY find_in_page "Najít na stránce">
-<!ENTITY desktop_mode "Desktopová verze">
+<!ENTITY desktop_mode "Verze stránky pro počítač">
 <!ENTITY page "Stránka">
 <!ENTITY tools "Nástroje">
 <!ENTITY new_tab "Nový panel">
