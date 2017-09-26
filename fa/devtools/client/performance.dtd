@@ -80,42 +80,58 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "درخت فراخوانی معکوس">
+<!ENTITY performanceUI.invertTree.tooltiptext "معکوس کردن فراخوانی نمایش درخت در فراخونی شروع مسیر نمایه شده برای قاب‌های جدید و گسترش آن به سمت قدیمی ترین قابه‌ها.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "نمایه شعله معکوس">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "معکوس کردن نمایه شعله نمایش نمایه فراخونی مسیر شروع جدیدترین قاب ها و گسترش به سمت قاب‌های قدیمی تر.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "نمایش اطلاعات بستر Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "نمایش سکو اطلاعات برای گزارش های نمایهJavaScript فعال شده است که شامل نماد‌های سکو Gecko هم می‌شود.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "نمایش بهینه‌سازی های JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "نمایش بهینه سازی‌های اطلاعات نمونه برداری شدهJIT به ازا قابJavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+<!ENTITY performanceUI.flattenTreeRecursion             "درخت مسطح بازگشتی">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "مسطح بازگشتی در هنگام بازرسی توابع.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "ذخیره‌سازی حافظه">
+<!ENTITY performanceUI.enableMemory.tooltiptext "ذخیره‌سازی حافظه مصرف در حال نمایه کردن.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "ذخیره‌ سازی اختصاص دادن">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "ذخیره‌سازی اشیا اختصاص داد شده در حین نمایه‌کردن.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "ذخیره‌سازی نرخ قاب">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "ذخیره‌سازی نرخ‌قاب در حین نمایه‌کردن.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "ذخیره‌سازی در حال حاضر به وسیله">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "توقف ذخیره سازی با وارد کردن">
 <!ENTITY performanceUI.console.stopCommandEnd   "در پایانه.">
