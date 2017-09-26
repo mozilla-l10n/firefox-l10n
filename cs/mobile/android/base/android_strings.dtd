@@ -162,7 +162,7 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Přidat do záložek">
 <!ENTITY overlay_share_bookmark_btn_label_already "Již přidána">
-<!ENTITY overlay_share_send_other "Odeslat do jiných zařízení">
+<!ENTITY overlay_share_send_other "Do jiných zařízení">
 
 <!ENTITY overlay_share_open_browser_btn_label "Otevřít v aplikaci &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
