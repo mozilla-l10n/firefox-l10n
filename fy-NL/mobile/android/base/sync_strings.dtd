@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'Begjinne'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Brûke jo in âldere ferzje fan &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Oanmeld as'>
-<!ENTITY fxaccount_status_manage_account 'Account beheare'>
 <!ENTITY fxaccount_status_auth_server 'Accountserver'>
 <!ENTITY fxaccount_status_sync_now 'No syngronisearje'>
 <!ENTITY fxaccount_status_syncing2 'Syngronisearje…'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnamme'>
 <!ENTITY fxaccount_status_sync_server 'Syncserver'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ynskeakele'>
 <!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kin net ferbine. Tik om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn Android-instellingen &gt; Gegevensgebruik.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn it menu fan Android-instellingen &gt; Accounts.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om jo oan te melden by jo nije Firefox-account.'>
+<!ENTITY fxaccount_status_choose_what 'Kies wat jo syngronisearje wolle'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
 <!ENTITY fxaccount_status_passwords2 'Oanmeldingen'>
 <!ENTITY fxaccount_status_tabs 'Iepen ljepblêden'>
+<!ENTITY fxaccount_status_additional_settings 'Ekstra ynstellingen'>
 <!ENTITY fxaccount_status_legal 'Juridysk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Tsjinstbetingsten (Ing.)'>
 <!ENTITY fxaccount_status_linkprivacy2 'Privacyferklearring (Ing.)'>
-<!ENTITY fxaccount_status_more 'Mear&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Ferbrekke&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Ferbrekke fan Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label;-opsjes'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; konfigurearje'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Jo moatte Firefox fernije'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account bestiet al. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Net jildich e-mailadres of wachtwurd'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Net jildich e-mailadres of wachtwurd'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is net ferifiearre'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is dwaande, probearje it letter opnij'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is dwaande, probearje it letter opnij'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der wie in probleem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is beskoattele. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is net ferbûn'>
 <!-- Localization note: the format string below will be replaced
