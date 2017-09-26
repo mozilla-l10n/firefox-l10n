@@ -29,3 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Изпращане на имейл, когато има повече информация">
 <!ENTITY tabCrashed.reportSent "Докладът за срив е изпратен. Благодарим ви, че помагате да направим &brandShortName; по-добър!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Докладване на раздели във фонов режим">
+<!ENTITY tabCrashed.autoSubmit3 "Променяне на настройките, така че докладите за срив на &brandShortName; да бъдат изпращани автоматично">
