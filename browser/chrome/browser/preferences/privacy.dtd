@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "מניעת שירותי נגישות מקבלת גישה לדפדפן שלך">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "נ">
 <!ENTITY  a11yPrivacy.learnmore.label    "מידע נוסף">
+<!ENTITY enableSafeBrowsingLearnMore.label "מידע נוסף">

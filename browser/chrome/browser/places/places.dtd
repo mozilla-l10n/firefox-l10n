@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "הוספה">
 <!ENTITY col.lastmodified.label  "שינוי אחרון">
 
-<!ENTITY search.placeholder  "חיפוש">
+<!ENTITY historySearch.placeholder  "חיפוש בהיסטוריה">
+<!ENTITY bookmarksSearch.placeholder  "חיפוש בסימניות">
 
 <!ENTITY cmd.find.key  "f">
 

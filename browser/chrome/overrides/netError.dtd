@@ -18,13 +18,9 @@
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "שרת לא נמצא">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון 
-<strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li> 
-<li>אם אין באפשרותך לטעון כל דף, עליך לבדוק את החיבור לרשת של המחשב.</li> 
-<li>אם המחשב או הרשת מוגנים בחומת אש או בשרת מתווך, יש לוודא כי &brandShortName; מורשה לגשת לרשת.</li> 
-</ul>">
+<!ENTITY dnsNotFound.pageTitle "שרת לא נמצא">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "אבוי. נראה כי יש לנו בעיה למצוא את אתר זה.">
 
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -49,15 +45,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "פתיחת דף התחברות לרשת">
 
-<!ENTITY malformedURI.title "כתובת לא חוקית">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>כתובות אתרים נכתבות בדרך־כלל בתבנית
-    <strong>http://www.example.com/‎</strong></li>
-  <li>נא לוודא שהלוכסנים הם קדמיים (למשל
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "כתובת לא תקנית">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "אבוי. הכתובת הזו לא נראית תקינה.">
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
