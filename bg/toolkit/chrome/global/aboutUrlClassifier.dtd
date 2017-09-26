@@ -27,7 +27,7 @@
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Задаване на модули за журнала">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Задаване на файлове за журнала">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Задаване журнал за JS">
-<!ENTITY aboutUrlClassifier.debugSBModules              "Модули за журнала при надеждно сърфиране">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Модули за журнала при безопасно разглеждане">
 <!ENTITY aboutUrlClassifier.debugModules                "Текущи модули за журнала">
-<!ENTITY aboutUrlClassifier.debugSBJSModules            "Журнал на JS при надеждно сърфиране">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Журнал на JS при безопасно разглеждане">
 <!ENTITY aboutUrlClassifier.debugFile                   "Текуж файл на журнала">

@@ -942,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Забравяне!">
 
 <!ENTITY panicButton.thankyou.msg1                "Скорошната ви история е изчистена.">
-<!ENTITY panicButton.thankyou.msg2                "Безопасно сърфиране!">
+<!ENTITY panicButton.thankyou.msg2                "Безопасно разглеждане!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Благодарим!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Научете повече за DRM…">
