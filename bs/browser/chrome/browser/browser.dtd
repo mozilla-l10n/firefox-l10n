@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimiziraj">
-<!ENTITY fullScreenRestore.tooltip "Povrati">
+<!ENTITY fullScreenRestore.tooltip "Vrati">
 <!ENTITY fullScreenClose.tooltip "Zatvori">
 <!ENTITY fullScreenAutohide.label "Sakrij trake sa alatima">
 <!ENTITY fullScreenAutohide.accesskey "S">
@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Nedavno zatvoreni tabovi">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
-<!ENTITY historyRestoreLastSession.label "Povrati prethodnu sesiju">
+<!ENTITY historyRestoreLastSession.label "Vrati prethodnu sesiju">
 
 <!ENTITY showAllHistoryCmd2.label "Prikaz cijele historije">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Završi prilagođavanje">
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu historiju">
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
-<!ENTITY appMenuHistory.restoreSession.label "Povrati prethodnu sesiju">
+<!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži bočnu traku za historiju">
 <!ENTITY appMenuHistory.recentHistory.label "Nedavna historija">
 <!ENTITY appMenuHelp.label "Pomoć">

@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "Backup…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "Povrati">
+<!ENTITY cmd.restore2.label             "Vrati">
 <!ENTITY cmd.restore2.accesskey         "r">
 <!ENTITY cmd.restoreFromFile.label      "Izaberi fajl…">
 <!ENTITY cmd.restoreFromFile.accesskey  "I">

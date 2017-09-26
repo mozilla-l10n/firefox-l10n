@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Povrati sesiju">
+<!ENTITY restorepage.tabtitle       "Vrati sesiju">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
@@ -15,7 +15,7 @@
 <!ENTITY restorepage.closeButton2    "Započni novu sesiju">
 <!ENTITY restorepage.close.access2   "n">
 
-<!ENTITY restorepage.restoreHeader  "Povrati">
+<!ENTITY restorepage.restoreHeader  "Vrati">
 <!ENTITY restorepage.listHeader     "Prozori i tabovi">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Prozor &#037;S">
@@ -32,7 +32,7 @@
 <!ENTITY welcomeback2.pageTitle     "Uspjeh!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; je spreman.">
 
-<!ENTITY welcomeback2.restoreAll.label  "Povrati sve prozore i tabove">
+<!ENTITY welcomeback2.restoreAll.label  "Vrati sve prozore i tabove">
 <!ENTITY welcomeback2.restoreSome.label "Vrati samo one koje želim">
 
 

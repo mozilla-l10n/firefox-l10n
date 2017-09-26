@@ -11,6 +11,6 @@
 <!ENTITY newtab.customize.title "Prilagodite vašu stranicu novog taba">
 <!ENTITY newtab.customize.blank2 "Prikaži praznu stranicu">
 <!ENTITY newtab.undo.removedLabel "Thumbnail uklonjen.">
-<!ENTITY newtab.undo.undoButton "Povrati.">
-<!ENTITY newtab.undo.restoreButton "Povrati sve.">
+<!ENTITY newtab.undo.undoButton "Poništi.">
+<!ENTITY newtab.undo.restoreButton "Vrati sve.">
 <!ENTITY newtab.undo.closeTooltip "Sakrij">
