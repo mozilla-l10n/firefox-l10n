@@ -40,7 +40,7 @@
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Прости измервания">
 <!ENTITY aboutTelemetry.telemetryLogSection "Журнал на Телеметрията">
 <!ENTITY aboutTelemetry.slowSqlSection "Бавни SQL-заявки">
-<!ENTITY aboutTelemetry.chromeHangsSection "Зависвания на браузъра">
+<!ENTITY aboutTelemetry.chromeHangsSection "Зависвания на четеца">
 <!ENTITY aboutTelemetry.addonDetailsSection "Подробности за добавки">
 <!ENTITY aboutTelemetry.capturedStacksSection "Прихванати стекове">
 <!ENTITY aboutTelemetry.lateWritesSection "Късни записи">

@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Поверително разглеждане">
 <!ENTITY privateBrowsing.title.tracking                  "Поверително разглеждане със Защита от проследяване">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Когато сърфирате в поверителен прозорец, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Когато разглеждате в поверителен прозорец, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "няма да запази">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "посетените страници">
