@@ -160,6 +160,7 @@
 <!ENTITY wifi_auth_header "Identification del cliente">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Le puncto terminal al qual tu tenta de connecter te necessita altere informationes pro identificar le connexion.  Per favor scande le codice QR infra via le linea de commando in tu altere dispositivo.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Nulle suggestion de scanner QR?">
@@ -168,6 +169,8 @@
 <!ENTITY wifi_auth_yes_scanner "Ha un suggestion de scanner QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Si tu altere dispositivo demanda un token in vice de scander un codice QR, per favor copia le valor infra, al altere dispositivo:">
+<!ENTITY wifi_auth_qr_size_note "Le codice QR appare tro micre proque le connexion sia stabilite con bon successo, cerca de zoomar o aggrandir le fenestra.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de commandos pre-impacchettage">
