@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "გვერდი ვერ მოიძებნა">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "ჰმ. საიტის მონახვა ვერ მოხერხდა.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>თუ ეს მისამართი სწორია, კიდევ სამი რამ შეგიძლიათ სცადოთ:</strong>
+<ul>
+  <li>ხელახლა გაიმეოროთ მოგვიანებით.</li>
+  <li>შეამოწმოთ ქსელთან კავშირი.</li>
+  <li>თუ დაკავშირებული ხართ მაგრამ იყენებთ ქსელის ფარს, გადაამოწმოთ, აქვს თუ არა &brandShortName;-ს ინტერნეტთან წვდომის ნებართვა.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -45,7 +53,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "ქსელში შესასვლელი გვერდის გახსნა">
 
+<!ENTITY malformedURI.pageTitle "არასწორი URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "ჰმ. ეს მისამართი არ ჰგავს ნამდვილს.">
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
