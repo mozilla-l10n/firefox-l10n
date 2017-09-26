@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Ekki verður boðið upp á þýðingu fyrir eftirfarandi tungumál:">
+<!ENTITY noTranslationForLanguages2.label "Ekki verður boðið upp á þýðingu fyrir eftirfarandi tungumál">
 <!ENTITY treehead.languageName.label      "Tungumál">
 <!ENTITY removeLanguage.label             "Fjarlægja tungumál">
 <!ENTITY removeLanguage.accesskey         "r">
 <!ENTITY removeAllLanguages.label         "Fjarlægja öll tungumál">
 <!ENTITY removeAllLanguages.accesskey     "F">
 
-<!ENTITY noTranslationForSites.label      "Ekki verður boðið upp á þýðingu fyrir eftirfarandi vefsvæði:">
+<!ENTITY noTranslationForSites2.label     "Ekki verður boðið upp á þýðingu fyrir eftirfarandi vefsvæði">
 <!ENTITY treehead.siteName2.label         "Vefsvæði">
 <!ENTITY removeSite.label                 "Fjarlægja vefsvæði">
 <!ENTITY removeSite.accesskey             "s">

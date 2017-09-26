@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Koma í veg fyrir að aðgengis þjónustur geti skoðað vafra">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Fræðast meira">
+<!ENTITY enableSafeBrowsingLearnMore.label "Fræðast meira">

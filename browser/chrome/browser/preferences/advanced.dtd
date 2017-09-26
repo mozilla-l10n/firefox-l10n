@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Gagna skýrsla er óvirk í þessari útgáfu">
 
-<!ENTITY enableHealthReport1.label       "Leyfa &brandShortName; að senda sjálkrafa tæknilegar og notkunar upplýsingar til Mozilla">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Leyfa &brandShortName; að senda sjálkrafa tæknilegar og notkunar upplýsingar til Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 <!ENTITY dataCollection.label            "&brandShortName; Gagnasöfnun og notkun">
