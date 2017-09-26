@@ -215,7 +215,6 @@
 <!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
 <!ENTITY attachButton.tooltip "Anexar arquivos">
 <!ENTITY spellingButton.tooltip "Verificar ortografia da seleção ou de toda a mensagem">
-<!ENTITY statusLanguageText.tooltip "Idioma da verificação ortográfica">
 <!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”">
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -309,3 +308,6 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar endereço do remetente...">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY encodingStatusPanel.tooltip "Codificação de texto">
