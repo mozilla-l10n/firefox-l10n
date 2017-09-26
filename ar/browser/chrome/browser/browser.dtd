@@ -874,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "استخدم كثافة اللمس لنمط اللوح">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "إخفاء آلي">
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">
