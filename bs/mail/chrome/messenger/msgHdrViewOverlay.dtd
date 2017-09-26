@@ -41,14 +41,72 @@
 <!ENTITY hdrJunkButton1.label "Neželjena pošta">
 <!ENTITY hdrJunkButton1.tooltip "Označi ovu poruku kao neželjenu poštu">
 <!ENTITY hdrTrashButton1.label "Izbriši">
+<!ENTITY hdrTrashButton1.tooltip "Izbriši ovu poruku">
 
+<!ENTITY hdrViewToolbarShowFull.label "Prikaži ikone i tekst">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Prikaži samo ikone">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Prikaži samo tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Uvijek prikaži odgovor pošiljaocu">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
 
+<!ENTITY otherActionsButton2.label "Više">
+<!ENTITY otherActionsButton.tooltip "Više radnji">
+<!ENTITY otherActionsOpenConversation1.label "Otvori unutar razgovora">
+<!ENTITY otherActionsOpenConversation1.accesskey "C">
+<!ENTITY otherActionsOpenInNewWindow1.label "Otvori u novom prozoru">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewTab1.label "Otvori u novom tabu">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
+<!ENTITY markAsReadMenuItem1.label "Označi kao pročitano">
+<!ENTITY markAsReadMenuItem1.accesskey "R">
+<!ENTITY markAsUnreadMenuItem1.label "Označi kao nepročitano">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Sačuvaj kao…">
+<!ENTITY saveAsMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.label "Prikaži izvor">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Štampaj…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Na početku prikaži okno za priloge">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Otvori">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Sačuvaj kao…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "S">
+<!ENTITY detachAttachmentCmd.label    "Otkači…">
+<!ENTITY detachAttachmentCmd.accesskey    "D">
+<!ENTITY deleteAttachmentCmd.label    "Izbriši">
+<!ENTITY deleteAttachmentCmd.accesskey    "e">
+<!ENTITY openAllAttachmentsCmd.label    "Otvori sve…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Sačuvaj sve…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Otkači sve…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "D">
+<!ENTITY deleteAllAttachmentsCmd.label    "Izbriši sve…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
+<!ENTITY openAttachment.tooltip "Otvori priloženu datoteku">
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Sačuvaj">
+<!ENTITY saveAttachmentButton1.tooltip     "Sačuvaj priloženu datoteku">
+<!ENTITY saveAllAttachmentsButton1.label   "Sačuvaj sve">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Sačuvaj sve priložene datoteke">
 
+<!ENTITY copyLinkCmd.label        "Kopiraj lokaciju veze">
+<!ENTITY copyLinkCmd.accesskey    "C">
 
+<!ENTITY CopyMessageId.label "Kopiraj ID poruke">
+<!ENTITY CopyMessageId.accesskey "C">
+<!ENTITY OpenMessageForMsgId.label "Otvori poruku radi ID">
+<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY OpenBrowserWithMsgId.label "Otvori pretraživač uz pomoć ID-a poruke">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">
