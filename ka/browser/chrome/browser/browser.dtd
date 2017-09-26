@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "დასინქრონებული ჩანართების მოძიება">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
 <!ENTITY trackingProtection.block2.accesskey "რ">
 
-<!ENTITY trackingContentBlocked.message "თვალყური">
-<!ENTITY trackingContentBlocked.moreinfo "გვერდის ნაწილები, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს, შეიზღუდა.">
-<!ENTITY trackingContentBlocked.learnMore "გაიგეთ მეტი">
-<!ENTITY trackingContentBlocked.options "პარამეტრები">
-<!ENTITY trackingContentBlocked.unblock2.label "ამ საიტზე დაცვის გამორთვა">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "გ">
-<!ENTITY trackingContentBlocked.block.label "დაცვის ჩართვა">
-<!ENTITY trackingContentBlocked.block.accesskey "რ">
-<!ENTITY trackingContentBlocked.disabled.message "თვალთვალისგან დაცვა გამორთულია">
-
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
 <!ENTITY pluginNotification.showAll.accesskey "ყ">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
 
 <!ENTITY libraryButton.tooltip "იხილეთ ისტორია, შენახული სანიშნეები და ა.შ.">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "დამხმარე საშუალებები ჩართულია">

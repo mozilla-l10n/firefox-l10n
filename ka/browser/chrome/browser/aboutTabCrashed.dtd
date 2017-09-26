@@ -22,8 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "დაგვეხმარებით?">
 <!ENTITY tabCrashed.requestHelpMessage "მოხსენებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ გამუმართაობები და გავხადოთ &brandShortName; უკეთესი.">
 <!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ჩანართის შესახებ">
+<!ENTITY tabCrashed.sendReport3 "გაგზავნეთ ავარიული დახურვის ავტომატური შეტყობინებები, რომ შევძლოთ მსგავსი ხარვეზების აღმოფხვრა.">
 <!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი კომენტარი (კომენტარები ხილულია საჯაროდ)">
+<!ENTITY tabCrashed.includeURL3 "მათ შორის საიტების URL ბმულები, რომელზეც იმყოფებოდით &brandShortName;-ის ავარიულად დახურვისას.">
 <!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელფოსტის მისამართი">
 <!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
 <!ENTITY tabCrashed.reportSent "ავარიული დახურვის შეტყობინება უკვე გადმოგზავნილია; მადლობას გიხდით &brandShortName;-ის გაუმჯობესებაში დახმარებისთვის!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "გააგზავნეთ მოხსენება ფონურ ჩანართებზე">
+<!ENTITY tabCrashed.autoSubmit3 "შეცვალეთ პარამეტრები, რომ ავტომატურად გაიგზავნოს მოხსენებები, &brandShortName;-ს ავარიულად დახურვისას.">
