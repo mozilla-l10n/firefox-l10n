@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "لن يُقترح ترجمة للغات التالية:">
+<!ENTITY noTranslationForLanguages2.label "لن تُعرض ترجمة للغات التالية">
 <!ENTITY treehead.languageName.label      "اللغات">
 <!ENTITY removeLanguage.label             "احذف اللغة">
 <!ENTITY removeLanguage.accesskey         "ح">
 <!ENTITY removeAllLanguages.label         "احذف جميع اللغات">
 <!ENTITY removeAllLanguages.accesskey     "ذ">
 
-<!ENTITY noTranslationForSites.label      "لن يُقترح ترجمة للمواقع التالية:">
+<!ENTITY noTranslationForSites2.label     "لن تُعرض ترجمة للمواقع التالية">
 <!ENTITY treehead.siteName2.label         "مواقع وِب">
 <!ENTITY removeSite.label                 "احذف الموقع">
 <!ENTITY removeSite.accesskey             "ح">

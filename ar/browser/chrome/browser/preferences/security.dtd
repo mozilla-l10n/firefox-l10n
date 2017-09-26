@@ -3,15 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  security.label                 "الأمان">
-<!ENTITY  phishingProtection.label       "الحماية من الاحتيال">
 
 <!ENTITY  warnOnAddonInstall2.label       "حذّرني عندما يحاول موقع وِب تنصيب إضافات">
 <!ENTITY  warnOnAddonInstall2.accesskey   "ح">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "الحماية من المحتوى المخادع و البرمجيات الخبيثة">
 <!ENTITY  enableSafeBrowsing.label        "احجب المحتوي الخطير و المخادع">
 <!ENTITY  enableSafeBrowsing.accesskey    "ح">
 

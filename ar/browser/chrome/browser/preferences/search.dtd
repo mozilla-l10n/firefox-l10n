@@ -4,6 +4,8 @@
 
 <!ENTITY searchBar.label                       "شريط البحث">
 
+<!ENTITY searchBar.hidden.label                "استخدم شريط العنوان للبحث و التنقل">
+<!ENTITY searchBar.shown.label                 "أضف شريط البحث إلى شريط الأدوات">
 
 <!ENTITY defaultSearchEngine.label             "محرك البحث المبدئي">
 

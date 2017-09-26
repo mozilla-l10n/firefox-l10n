@@ -105,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "معلومات الصفحة">
 <!ENTITY pageInfoCmd.accesskey "م">
@@ -963,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ل">
 <!ENTITY updateManual.panelUI.label "نزّل نسخة جديدة من &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "بعد إعادة تشغيل سريعة سيستعيد &brandShorterName; جميع ألسنتك و نوافذك المفتوحة التي ليست في وضع التصفح الخاص.">
 <!ENTITY updateRestart.header.message2 "أعد التشغيل لتحديث &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "أعد التشغيل و استعد">
 <!ENTITY updateRestart.acceptButton.accesskey "ع">
