@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Favoritos">
 <!ENTITY bookmarksMenu.accesskey "v">
-<!ENTITY bookmarkThisPageCmd.label "Adicionar página">
+<!ENTITY bookmarkThisPageCmd.label "Adicionar página aos favoritos">
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
