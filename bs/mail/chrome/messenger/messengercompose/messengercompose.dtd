@@ -255,14 +255,60 @@
 <!ENTITY smiley12Cmd.label "Usta puna para">
 <!ENTITY smiley13Cmd.label "Noga u ustima">
 <!ENTITY smiley14Cmd.label "Nevin">
+<!ENTITY smiley15Cmd.label "Plač">
+<!ENTITY smiley16Cmd.label "Šutanja">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Prijedlog nije pronađen">
+<!ENTITY spellCheckIgnoreWord.label "Ignoriši riječ">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Dodaj u rječnik">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
+<!ENTITY undo.label "Vrati">
+<!ENTITY undo.accesskey "U">
+<!ENTITY cut.label "Isjeci">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copy.label "Kopiraj">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "Zalijepi">
+<!ENTITY paste.accesskey "P">
+<!ENTITY pasteQuote.label "Zalijepi kao citat">
+<!ENTITY pasteQuote.accesskey "Q">
 
+<!ENTITY openAttachment.label "Otvori">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY delete.label "Izbriši">
+<!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "Ukloni prilog">
+<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "Preimenuj…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY selectAll.label "Označi sve">
+<!ENTITY selectAll.accesskey "A">
+<!ENTITY attachFile.label "Priloži datoteke…">
+<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Pretvori u…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Otkaži prijenos">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Redovni prilog">
+<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY attachPage.label "Priloži web stranicu…">
+<!ENTITY attachPage.accesskey "W">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Kontakti">
 
 <!-- Identity popup customize menuitem -->
+<!ENTITY customizeFromAddress.label "Prilagodi iz adrese…">
+<!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Jezik provjere pravopisa">
+<!ENTITY encodingStatusPanel.tooltip "Kodiranje teksta">
