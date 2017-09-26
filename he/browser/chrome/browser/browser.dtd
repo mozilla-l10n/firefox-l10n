@@ -385,6 +385,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "ניהול התקנים…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "הצגת סרגל צד של לשוניות מסונכרנות">
 
+<!ENTITY appMenuRecentHighlights.label "הדגשות אחרונות">
 
 <!ENTITY customizeMenu.addToToolbar.label "הוספה לסרגל כלים">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ר">
@@ -803,6 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "יש להפעיל סנכרון כדי לצפות ברשימת הלשוניות שלך מהתקנים אחרים.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "חיפוש לשוניות שסונכרנו">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -843,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
 <!ENTITY customizeMode.done "סיום">
 <!ENTITY customizeMode.titlebar "שורת כותרת">
+<!ENTITY customizeMode.extraDragSpace "שטח גרירה">
 <!ENTITY customizeMode.toolbars2 "סרגלי כלים">
 <!ENTITY customizeMode.lwthemes "ערכות נושא">
 <!ENTITY customizeMode.lwthemes.myThemes "ערכות הנושא שלי">
@@ -983,3 +986,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "תכונות נגישות מופעלות">
