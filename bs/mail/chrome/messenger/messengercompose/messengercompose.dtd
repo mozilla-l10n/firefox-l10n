@@ -196,18 +196,65 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimiziraj">
 <!ENTITY bringAllToFront.label "Prenesi sve naprijed">
+<!ENTITY zoomWindow.label "Uvećaj">
+<!ENTITY windowMenu.label "Prozor">
 
 <!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Pošalji">
+<!ENTITY quoteButton.label "Citiraj">
+<!ENTITY addressButton.label "Kontakti">
+<!ENTITY attachButton.label "Priloži">
+<!ENTITY spellingButton.label "Pravopis">
+<!ENTITY saveButton.label "Sačuvaj">
+<!ENTITY printButton.label "Štampaj">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Pošalji poruku sada">
+<!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije">
+<!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku">
+<!ENTITY addressButton.tooltip "Odaberi primaoca iz imenika">
+<!ENTITY attachButton.tooltip "Uključi prilog">
+<!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
+<!ENTITY saveButton.tooltip "Sačuvaj ovu poruku">
+<!ENTITY cutButton.tooltip              "Isjeci">
+<!ENTITY copyButton.tooltip             "Kopiraj">
+<!ENTITY pasteButton.tooltip            "Zalijepi">
+<!ENTITY printButton.tooltip "Štampaj ovu poruku">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
+<!ENTITY fromAddr.label "Šalje:">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr.label "Prima:">
+<!ENTITY ccAddr.label "Kopija:">
+<!ENTITY bccAddr.label "sKopija:">
+<!ENTITY replyAddr.label "Odgovori na:">
+<!ENTITY newsgroupsAddr.label "Novinska grupa:">
+<!ENTITY followupAddr.label "Nastavak-za:">
+<!ENTITY subject.label "Naslov:">
+<!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "m">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY SmileButton.tooltip "Ubaci smješak">
+<!ENTITY smiley1Cmd.label "Smješak">
+<!ENTITY smiley2Cmd.label "Mrštenje">
+<!ENTITY smiley3Cmd.label "Namigivanje">
+<!ENTITY smiley4Cmd.label "Plaženje jezika">
+<!ENTITY smiley5Cmd.label "Smijanje">
+<!ENTITY smiley6Cmd.label "Posramljen">
+<!ENTITY smiley7Cmd.label "Neodlučan">
+<!ENTITY smiley8Cmd.label "Iznenađen">
+<!ENTITY smiley9Cmd.label "Poljubac">
+<!ENTITY smiley10Cmd.label "Vikanje">
+<!ENTITY smiley11Cmd.label "Kul">
+<!ENTITY smiley12Cmd.label "Usta puna para">
+<!ENTITY smiley13Cmd.label "Noga u ustima">
+<!ENTITY smiley14Cmd.label "Nevin">
 
 <!-- Message Pane Context Menu -->
 
