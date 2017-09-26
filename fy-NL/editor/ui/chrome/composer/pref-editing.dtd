@@ -22,7 +22,7 @@
 <!ENTITY visitedLinkText.label      "Besochte keppeling">
 <!ENTITY visitedLinkText.accesskey  "B">
 <!ENTITY background.label           "Eftergrûn:">
-<!ENTITY background.accesskey       "A">
+<!ENTITY background.accesskey       "E">
 <!ENTITY colon.character            ":">
 
 <!ENTITY backgroundImage.label      "Eftergrûnôfbylding:">

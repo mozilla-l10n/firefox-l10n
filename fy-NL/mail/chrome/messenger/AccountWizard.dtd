@@ -116,7 +116,7 @@
 <!ENTITY smtpServerNamePrefix.label "Utgeande servernamme (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nijsservernamme (NNTP):">
 <!ENTITY downloadOnLogin.label "Berjochten no downloade">
-<!ENTITY downloadOnLogin.accesskey "y">
+<!ENTITY downloadOnLogin.accesskey "B">
 <!ENTITY deferStorageDesc.label "Fink dizze opsje út om e-mail foar dizze account te bewarjen yn syn eigen map. Dat sil fan dizze account in top-levelaccount meitsje. Oars sil hy diel útmeitsje fan it globale Postfek YN ûnder Lokale mappen.">
 <!ENTITY deferStorage.label "Globaal Postfek YN brûke (e-mail bewarje ûnder Lokale mappen)">
 <!ENTITY deferStorage.accesskey "G">
