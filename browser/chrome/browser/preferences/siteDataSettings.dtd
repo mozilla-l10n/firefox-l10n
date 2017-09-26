@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "ل">
 <!ENTITY     removingDialog.title          "إزالة بيانات المواقع">
 <!ENTITY     removingSelected.description  "إزالة بيانات الموقع سيزيل أيضا الكعكات و محتوى الوب للعمل دون اتصال. قد يتسبب هذا في ولوجك خارج المواقع. أمتأكد أنك تريد إجراء التغييرات؟">
-<!ENTITY     siteTree.label                "ستُزال كعكات المواقع التالية:">
+<!ENTITY     siteTree2.label               "ستزال كعكات الموقع التالي">
