@@ -13,10 +13,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Bersyon">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Mga Tampok">
 <!ENTITY aboutSupport.featureName "Pangalan">
 <!ENTITY aboutSupport.featureVersion "Bersyon">
 <!ENTITY aboutSupport.featureId "ID">
 
+<!ENTITY aboutSupport.experimentName "Pangalan">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Paglalarawan">
 <!ENTITY aboutSupport.experimentActive "Aktibo">
@@ -51,8 +53,10 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Ipakita sa Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Buksan ang Folder">
 
 <!ENTITY aboutSupport.modifiedPrefsName "Pangalan">
+<!ENTITY aboutSupport.modifiedPrefsValue "Halaga">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 

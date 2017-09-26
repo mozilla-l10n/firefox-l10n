@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "Update ng Software">
 
 <!ENTITY  checking.title                  "Sinusuri para sa mga Update">
 <!ENTITY  updateCheck.label               "Hinahanap para sa bagong mga bersyon ng &brandShortName;…">
@@ -12,6 +13,7 @@
 <!ENTITY  manualUpdate.title              "Hindi Maka-update">
 <!ENTITY  manualUpdateGetMsg.label        "Makukuha mo ang pinakabagong bersyon ng &brandShortName; sa:">
 
+<!ENTITY  unsupportedLink.label           "matuto ng higit pa.">
 
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
 
