@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Lo sentimos. Estamos teniendo problemas para recuperar tus páginas.">
 <!ENTITY restorepage.problemDesc2   "Estamos teniendo problemas para restaurar tu última sesión de navegación. Selecciona Restaurar sesión para volver a intentarlo.">
+<!ENTITY restorepage.tryThis2       "¿Aún no puedes restaurar tu sesión? A veces una pestaña causa el problema. Revisa las pestañas anteriores, remueve la marca de las que no necesitas recuperar, y luego restaura.">
 
 <!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
 <!ENTITY restorepage.restore.access2 "R">
