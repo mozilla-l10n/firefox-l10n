@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ">
 
-<!ENTITY enableHealthReport1.label       "Aotren &brandShortName; da gas roadennoù teknikel hag etrewezhiañ da vMozilla ent emgefreek">
-<!ENTITY enableHealthReport1.accesskey   "A">
+<!ENTITY enableHealthReport2.label       "Aotren &brandShortName; da gas roadennoù teknikel hag etrewerzhañ da vMozilla">
+<!ENTITY enableHealthReport2.accesskey   "A">
 <!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY dataCollection.label            "Dastumadeg roadennoù &brandShortName; hag arver">

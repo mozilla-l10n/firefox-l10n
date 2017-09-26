@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Assav an arventennoù dre ziouer">
 <!ENTITY restoreDefault.accesskey  "z">
 
+<!ENTITY disableExtension.label    "Diweredekaat an askouezh">
+
 <!ENTITY downloads.label     "Pellgargadurioù">
 
 <!ENTITY saveTo.label "Enrollañ restroù e-barzh">

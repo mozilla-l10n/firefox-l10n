@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.header2 "Chaous, sac'het eo hoc'h ivinell.">
 <!ENTITY tabCrashed.offerHelp2 "Gellout a reomp sikour!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Dibabit &tabCrashed.restoreTab; evit adkargañ ar bajenn-mañ.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Dibabit &tabCrashed.restoreTab; pe &tabCrashed.restoreAll; evit adkargañ ar bajenn/pages.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Dibabit &tabCrashed.restoreTab; pe &tabCrashed.restoreAll; evit adkargañ ar bajenn/pajennoù.">
 <!ENTITY tabCrashed.requestHelp "Skoazell a reot ac'hanomp?">
 <!ENTITY tabCrashed.requestHelpMessage "An danevelloù sac'hadenn a skoazell ac'hanomp da wellaat &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Danevelliñ an ivinell-mañ">

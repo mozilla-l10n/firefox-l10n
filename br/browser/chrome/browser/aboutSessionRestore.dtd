@@ -8,9 +8,9 @@
      and regret that we are unable to restore the session for the user -->
 
 <!ENTITY restorepage.tryagainButton2 "Assav an estez">
-<!ENTITY restorepage.restore.access2 "R">
-<!ENTITY restorepage.closeButton2    "Kregiñ gant un Estez Nevez">
-<!ENTITY restorepage.close.access2   "N">
+<!ENTITY restorepage.restore.access2 "A">
+<!ENTITY restorepage.closeButton2    "Kregiñ gant un estez nevez">
+<!ENTITY restorepage.close.access2   "K">
 
 <!ENTITY restorepage.restoreHeader  "Assav">
 <!ENTITY restorepage.listHeader     "Prenestroù hag ivinelloù">

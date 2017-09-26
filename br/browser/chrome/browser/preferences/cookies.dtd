@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Miret eo bet an toupinoù da heul war hoc'h urzhiataer :">
+<!ENTITY     cookiesonsystem2.label         "Miret eo an toupinoù da heul war hoc'h urzhiataer">
 <!ENTITY     cookiename.label               "Anv an toupin">
 <!ENTITY     cookiedomain.label             "Lec'hienn">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Toupinoù">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Klask">
 <!ENTITY     searchFilter.accesskey         "K">
