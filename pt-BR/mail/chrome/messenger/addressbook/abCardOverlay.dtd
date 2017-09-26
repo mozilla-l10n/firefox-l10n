@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Geral">
+<!ENTITY Contact.tab                     "Contato">
 <!ENTITY Contact.accesskey               "G">
 <!ENTITY Name.box                        "Nome">
 
@@ -29,26 +29,26 @@
 <!ENTITY NameField2.accesskey           "l">
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
-<!ENTITY DisplayName.label              "Apresentar como:">
+<!ENTITY DisplayName.label              "Exibição:">
 <!ENTITY DisplayName.accesskey          "A">
-<!ENTITY preferDisplayName.label        "Usar o nome de “Apresentar como” ao exibir mensagens">
+<!ENTITY preferDisplayName.label        "Sempre usar o nome de exibição no cabeçalho da mensagem">
 <!ENTITY preferDisplayName.accesskey    "i">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "d">
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "E-mail alternativo:">
+<!ENTITY SecondEmail.label              "E-mail adicional:">
 <!ENTITY SecondEmail.accesskey          "v">
-<!ENTITY PreferMailFormat.label         "Prefere receber como:">
+<!ENTITY PreferMailFormat.label         "Receber às mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "P">
-<!ENTITY PlainText.label                "Texto sem formatação">
-<!ENTITY HTML.label                     "Texto formatado (HTML)">
-<!ENTITY Unknown.label                  "Sem preferência">
-<!ENTITY chatName.label                 "Bate-papo:">
+<!ENTITY PlainText.label                "Texto puro">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Desconhecido">
+<!ENTITY chatName.label                 "Nome de bate-papo:">
 
-<!ENTITY WorkPhone.label                "Comercial:">
-<!ENTITY WorkPhone.accesskey            "C">
+<!ENTITY WorkPhone.label                "Trabalho:">
+<!ENTITY WorkPhone.accesskey            "T">
 <!ENTITY HomePhone.label                "Residencial:">
 <!ENTITY HomePhone.accesskey            "R">
 <!ENTITY FaxNumber.label                "Fax:">

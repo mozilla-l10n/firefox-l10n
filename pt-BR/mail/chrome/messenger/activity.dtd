@@ -18,7 +18,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.undo.label                   "Desfazer">
 <!ENTITY cmd.undo.accesskey               "D">
-<!ENTITY cmd.recover.label                "Restaurar">
+<!ENTITY cmd.recover.label                "Recuperar">
 <!ENTITY cmd.recover.accesskey            "R">
 <!ENTITY cmd.retry.label                  "Tentar de novo">
 <!ENTITY cmd.retry.accesskey              "T">

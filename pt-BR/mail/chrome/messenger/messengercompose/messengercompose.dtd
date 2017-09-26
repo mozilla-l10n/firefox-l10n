@@ -310,4 +310,5 @@
 <!ENTITY customizeFromAddress.accesskey "a">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Idioma da verificação ortográfica">
 <!ENTITY encodingStatusPanel.tooltip "Codificação de texto">
