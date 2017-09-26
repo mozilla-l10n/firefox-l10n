@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'დაიწყეთ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;-ის ძველ ვერსიას იყენებთ?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'შესული ხართ, როგორც'>
-<!ENTITY fxaccount_status_manage_account 'ანგარიშის მართვა'>
 <!ENTITY fxaccount_status_auth_server 'ანგარიშის სერვერი'>
 <!ENTITY fxaccount_status_sync_now 'სინქრონიზაცია ახლა'>
 <!ENTITY fxaccount_status_syncing2 'სინქრონირდება...'>
 <!ENTITY fxaccount_status_device_name 'მოწყობილობის სახელი'>
 <!ENTITY fxaccount_status_sync_server 'სინქრონიზციის სერვერი'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ჩართულია'>
 <!ENTITY fxaccount_status_needs_verification2 'თქვენს ანგარიშს დამოწმება სჭირდება. შეეხეთ, დასამოწმებელი წერილის ხელახლა გამოსაგზავნად.'>
 <!ENTITY fxaccount_status_needs_credentials 'დაკავშირება ვერ მოხერხდა. შეეხეთ შესასვლელად.'>
 <!ENTITY fxaccount_status_needs_upgrade 'შესასვლელად უნდა განაახლოთ &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; მონაცემების გამოყენება.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; ანგარიშები.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'შეეხეთ თქვენს Firefox ანგარიშში შესასვლელად.'>
+<!ENTITY fxaccount_status_choose_what 'მიუთითეთ, რისი დასინქრონება გსურთ'>
 <!ENTITY fxaccount_status_bookmarks 'სანიშნეები'>
 <!ENTITY fxaccount_status_history 'ისტორია'>
 <!ENTITY fxaccount_status_passwords2 'შესვლები'>
 <!ENTITY fxaccount_status_tabs 'გახსნილი ჩანართები'>
+<!ENTITY fxaccount_status_additional_settings 'დამატებითი პარამეტრები'>
 <!ENTITY fxaccount_status_legal 'იურიდიული ინფორმაცია' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'მომსახურების პირობები'>
 <!ENTITY fxaccount_status_linkprivacy2 'პირადულობის ცნობება'>
-<!ENTITY fxaccount_status_more 'მეტი&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'გამოთიშვა&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'შეწყდეს Sync-თან კავშირი?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; პარამეტრები'>
 <!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label; კონფიგურაცია'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'თქვენ გჭირდებად Firefox-ის განახლება'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ანგარიში უკვე არსებობს. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'არასწორი ელფოსტა ან პაროლი'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'არასწორი ელფოსტა ან პაროლი'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ანგარიში არაა გადამოწმებული'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'სერვერი დაკავებულია, სცადეთ ხელახლა მალე'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'დაფიქსირდა შეცდომა'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'ანგარიში ჩაკეტილია. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; დაკავშირებული არაა'>
 <!-- Localization note: the format string below will be replaced
