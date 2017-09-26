@@ -40,7 +40,7 @@
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "HTML falidearje">
-<!ENTITY validateCmd.accesskey "v">
+<!ENTITY validateCmd.accesskey "f">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normaal">

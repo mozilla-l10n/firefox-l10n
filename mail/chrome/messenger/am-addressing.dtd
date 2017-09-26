@@ -14,12 +14,12 @@
 <!ENTITY editDirectories.accesskey "B">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Oare LDAP-server brûke:">
-<!ENTITY directories.accesskey     "n">
+<!ENTITY directories.accesskey     "b">
 <!ENTITY directoriesNone.label     "Gjin">
 
 <!-- am-addressing.xul -->
 
-<!ENTITY compositionGroupTitle.label "Opstelle">
+<!ENTITY compositionGroupTitle.label          "Opstelle">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Berjochten opstelle yn HTML-formaat">
 <!ENTITY useHtml.accesskey                    "o">

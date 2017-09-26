@@ -21,9 +21,9 @@
 <!ENTITY chat.ongoingConversation      "Rinnend petear">
 
 <!ENTITY openConversationCmd.label     "In petear begjinne">
-<!ENTITY openConversationCmd.accesskey "k">
+<!ENTITY openConversationCmd.accesskey "I">
 <!ENTITY closeConversationCmd.label    "Petear slute">
-<!ENTITY closeConversationCmd.accesskey "K">
+<!ENTITY closeConversationCmd.accesskey "P">
 <!ENTITY aliasCmd.label                "Omneame">
 <!ENTITY aliasCmd.accesskey            "O">
 <!ENTITY deleteCmd.label               "Kontakt fuortsmite">

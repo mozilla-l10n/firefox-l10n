@@ -44,7 +44,7 @@
 <!ENTITY cancel.label                    "Annulearje">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Trochgean">
-<!ENTITY continue.accesskey              "F">
+<!ENTITY continue.accesskey              "T">
 <!ENTITY stop.label                      "Stop">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is

@@ -9,7 +9,7 @@
 <!ENTITY serverSettings.label "Serverynstellingen">
 <!ENTITY serverType.label "Servertype:">
 <!ENTITY serverName.label "Servernamme:">
-<!ENTITY serverName.accesskey "T">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Brûkersnamme:">
 <!ENTITY userName.accesskey "n">
 <!ENTITY port.label "Poarte:">
