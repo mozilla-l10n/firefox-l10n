@@ -76,7 +76,7 @@
 <!ENTITY bookmark_already_added "Tsa in\&apos;kai nu marca">
 <!ENTITY bookmark_removed "Tsa n\&apos;do marca">
 <!ENTITY bookmark_updated "Inkàa va´a marcador ">
-<!ENTITY bookmark_options "N\&apos;da tuku">
+<!ENTITY bookmark_options "Nduku">
 <!ENTITY bookmark_save "Chika vaà">
 <!ENTITY screenshot_added_to_bookmarks "Inka vaa pantalla ntatavu nu marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -99,7 +99,7 @@
 <!ENTITY reader_switch_to_bookmarks "Switch">
 
 <!ENTITY history_today_section "Vichi">
-<!ENTITY history_yesterday_section "Takuní">
+<!ENTITY history_yesterday_section "Ta kuní">
 <!ENTITY history_week_section3 "Ña ni yàa u\&apos;tsa kii">
 <!ENTITY history_older_section3 "Ni yàa u\&apos;tsa yòo">
 
@@ -488,16 +488,20 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Chikai nu ku kuncheuña">
+<!ENTITY contextmenu_unpin_from_top_sites "Stoii nu maku kuncheuña">
 <!ENTITY contextmenu_add_search_engine "Chika´a ñaa nda ntuku">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Chika página nu ku kuncheuña">
+<!ENTITY unpinned_page_from_top_sites "Chika página nu maku kuncheuña">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[Koo sivi usuario]">
-<!ENTITY doorhanger_login_edit_title "Ndasama nixi kuvu">
+<!ENTITY doorhanger_login_no_username "[Koo siviku]">
+<!ENTITY doorhanger_login_edit_title "Sama nixi kivu">
 <!ENTITY doorhanger_login_edit_username_hint "Sivìi">
 <!ENTITY doorhanger_login_edit_password_hint "Tu\&apos;un seè">
 <!ENTITY doorhanger_login_edit_toggle "Snaà tu\&apos;un seè">
@@ -604,6 +608,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Página váa">
+<!ENTITY home_unpinned_site "Página vá\&apos;a">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Nchii inka pestaña?">
 <!ENTITY remote_tabs_panel_moved_desc "Nchachu\&apos;un kue pestaña nu inka dispositivo nu ku kivu ta tsunaku in pestaña tsaa.">
@@ -727,6 +733,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Sa ntii sincronización: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
