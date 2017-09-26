@@ -9,8 +9,8 @@
 <!ENTITY retry.label "حاول مرة أخرى">
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
 <!ENTITY advanced.label "متقدم">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,9 @@
 <!ENTITY deniedPortAccess.title "العنوان ممنوع">
 <!ENTITY deniedPortAccess.longDesc "​">
 
-<!ENTITY dnsNotFound.title "الخادوم غير موجود">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>افحص العنوان بحثا عن أخطاء كتابية مثل <strong>ww</strong>.example.com بدلًا من <strong>www</strong>.example.com</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان الحاسوب أو الشبكة محميّين بجدار ناري أو وسيط، تأكّد أنّ &brandShortName; مسموح له الاتصال بالوِب.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "الخادوم غير موجود">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "ممم. نواجه مشكلة في إيجاد ذلك الموقع.">
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> <li>افحص اسم الملف بحثًا عن أخطاء في الكتابة.</li> <li>تأكد أن الملف لم يُنقل، أو يتغير اسمه، أو يُحذف.</li> </ul>">
@@ -35,8 +36,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "افتح صفحة الولوج إلى الشبكة">
 
-<!ENTITY malformedURI.title "العنوان غير صالح">
-<!ENTITY malformedURI.longDesc "<ul> <li>تكتب عادة عناوين وِب بالشكل <strong>http://www.example.com/</strong></li> <li>تأكد أنك لا تستخدم سلاش أمامية (<strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "قُوطِع الاتصال">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "معلومات متقدمة: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTime_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p> <p>حاسوبك مضبوط على <span id='wrongSystemTime_systemDate'/> في حين أن الوقت الآن <span id='wrongSystemTime_actualDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTimeWithoutReference_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p><p>حاسوبك مضبوط على <span id='wrongSystemTimeWithoutReference_systemDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
 
