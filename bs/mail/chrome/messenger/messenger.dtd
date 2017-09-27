@@ -223,14 +223,92 @@
 <!ENTITY collapseAllThreadsCmd.label "Skupi sve niti">
 <!ENTITY collapseAllThreadsCmd.accesskey "k">
 <!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Nepročitano">
+<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY threadsWithUnreadCmd.label "Niti s nepročitanim">
+<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Promatrane niti s nepročitanim">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "r">
+<!ENTITY ignoredThreadsCmd.label "Ignorisane niti">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 
+<!ENTITY headersMenu.label "Zaglavlja">
+<!ENTITY headersMenu.accesskey "Z">
+<!ENTITY headersAllCmd.label "Sva">
+<!ENTITY headersAllCmd.accesskey "a">
+<!ENTITY headersNormalCmd.label "Normalna">
+<!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Tijelo poruke kao">
+<!ENTITY bodyMenu.accesskey "T">
+<!ENTITY bodyAllowHTML.label "Izvorni HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Jednostavni HTML">
+<!ENTITY bodySanitized.accesskey "s">
+<!ENTITY bodyAsPlaintext.label "Obični tekst">
+<!ENTITY bodyAsPlaintext.accesskey "b">
+<!ENTITY bodyAllParts.label "Svi dijelovi">
+<!ENTITY bodyAllParts.accesskey "i">
 
+<!ENTITY bodyMenuFeed.label "Tijelo poruke kao">
+<!ENTITY bodyMenuFeed.accesskey "l">
+<!ENTITY viewFeedWebPage.label "Web stranica">
+<!ENTITY viewFeedWebPage.accesskey "W">
+<!ENTITY viewFeedSummary.label "Sažetak">
+<!ENTITY viewFeedSummary.accesskey "m">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Zadani format">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Prikaži priloge unutar poruke">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
+<!ENTITY pageSourceCmd.label "Izvor poruke">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "Nađi">
+<!ENTITY findMenu.accesskey "F">
+<!ENTITY findCmd.label "Pronađi u ovoj poruci…">
+<!ENTITY findCmd.accesskey "F">
+<!ENTITY findCmd.key "f">
+<!ENTITY findAgainCmd.label "Pronađi ponovo">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "g">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "g">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Pretraži poruke…">
+<!ENTITY searchMailCmd.accesskey "M">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Pretraži adrese…">
+<!ENTITY searchAddressesCmd.accesskey "S">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Idi">
+<!ENTITY goMenu.accesskey "G">
+<!ENTITY nextMenu.label "Sljedeća">
+<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMsgCmd.label "Poruka">
+<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Nepročitana poruka">
+<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY nextStarredMsgCmd.label "Poruka sa zvjezdicom">
+<!ENTITY nextStarredMsgCmd.accesskey "S">
+<!ENTITY nextUnreadThread.label "Nepročitana nit">
+<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.key "t">
+<!ENTITY prevMenu.label "Prethodna">
+<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMsgCmd.label "Poruka">
+<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Nepročitana poruka">
+<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY prevUnreadMsgCmd.key "p">
 
 <!-- Message Menu -->
 <!-- do not change "VK_RETURN" -->
