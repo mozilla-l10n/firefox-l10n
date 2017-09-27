@@ -10,7 +10,7 @@
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL al lanv:">
-<!ENTITY feedLocation.accesskey      "l">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Bizskrivit ur chomlec'h lanv talvoudek da ouzhpennañ">
 <!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
@@ -19,7 +19,8 @@
 <!ENTITY feedFolder.accesskey        "n">
 
 <!-- Account Settings and Subscription Dialog -->
-<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffStart.label             "Gwiriañ ar pennadoù nevez bep ">
+<!ENTITY biffStart.accesskey         "p">
 <!ENTITY biffMinutes.label           "a vunutennoù">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "a zevezhioù">
@@ -29,7 +30,8 @@
 <!ENTITY quickMode.label             "Diskouez krennad ar pennad e lec'h kargañ ar bajennad web">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagEnable.label         "Krouiñ klavioù ent emgefreek adalek anvioù rummadoù al lanv">
+<!ENTITY autotagEnable.accesskey     "t">
 <!ENTITY autotagUsePrefix.label      "Rakgeriañ ar c'hlavioù gant :">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Enankit ur rakger klav">
@@ -47,5 +49,5 @@
 <!ENTITY button.exportOPML.accesskey "z">
 <!ENTITY button.exportOPML.tooltip   "Ezporzhiañ al lanvioù gant ar framm teuliadoù; Reol + Klik pe Reol + Enankañ evit ezporzhiañ al lanvioù evel ur roll">
 
-<!ENTITY cmd.close.commandKey        "w">
+<!ENTITY cmd.close.commandKey        "E">
 <!ENTITY button.close.label          "Serriñ">

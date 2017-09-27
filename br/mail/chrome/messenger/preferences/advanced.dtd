@@ -11,8 +11,9 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
+<!ENTITY dateTimeFormatting.label      "Mentrezh an deiziad hag an eur">
 <!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
-<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY allowHWAccel.accesskey        "I">
 <!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
 <!ENTITY storeType.accesskey           "R">
 <!ENTITY mboxStore2.label              "Restr dre teuliad (mbox)">
@@ -56,6 +57,7 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Hizivadurioù evit &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
@@ -101,7 +103,7 @@
 <!ENTITY useCacheBefore.accesskey        "r">
 <!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
 <!ENTITY overrideSmartCacheSize.label    "Tremen dreist ardeiñ emgefreek ar grubuilh">
-<!ENTITY overrideSmartCacheSize.accesskey "v">
+<!ENTITY overrideSmartCacheSize.accesskey "d">
 <!ENTITY clearCacheNow.label             "Skarzhañ diouzhtu">
 <!ENTITY clearCacheNow.accesskey         "S">
 
