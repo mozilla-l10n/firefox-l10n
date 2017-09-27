@@ -92,10 +92,78 @@
 <!ENTITY undeleteMsgCmd.label "Vrati izbrisanu poruku">
 <!ENTITY undeleteMsgCmd.accesskey "d">
 <!ENTITY deleteMsgsCmd.label "Izbriši odabrane poruke">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Vrati odabrane izbrisane poruke">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Izbriši direktorij">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Otkaži pretplatu">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
+<!ENTITY selectMenu.label "Odaberi">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Sve">
+<!ENTITY all.accesskey "A">
+<!ENTITY selectThreadCmd.label "Nit">
+<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Poruke sa zvjezdicom">
+<!ENTITY selectFlaggedCmd.accesskey "S">
+<!ENTITY menuFavoriteFolder.label "Omiljeni direktorij">
+<!ENTITY menuFavoriteFolder.accesskey "v">
+<!ENTITY folderPropsCmd2.label "Svojstva">
+<!ENTITY folderPropsFolderCmd2.label "Svojstva direktorija">
+<!ENTITY folderPropsNewsgroupCmd2.label "Svojstva novinske grupe">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Vrati izbrisanu poruku">
+<!ENTITY redoDeleteMsgCmd.label "Ponovi brisanje poruke">
+<!ENTITY undoMoveMsgCmd.label "Vrati premještenu poruku">
+<!ENTITY redoMoveMsgCmd.label "Ponovi premještanje poruke">
+<!ENTITY undoCopyMsgCmd.label "Vrati kopiranu poruku">
+<!ENTITY redoCopyMsgCmd.label "Ponovi kopiranje poruke">
+<!ENTITY undoMarkAllCmd.label "Vrati označavanje svega kao pročitano">
+<!ENTITY redoMarkAllCmd.label "Ponovi označavanje svega kao pročitano">
+<!ENTITY undoDefaultCmd.label "Vrati">
+<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY redoDefaultCmd.label "Ponovi">
+<!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Traka menija">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showMessengerToolbarCmd.label "Alatna traka pošte">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY customizeToolbar.label "Prilagodi…">
+<!ENTITY customizeToolbar.accesskey "C">
 
+<!ENTITY messagePaneLayoutStyle.label "Raspored">
+<!ENTITY messagePaneLayoutStyle.accesskey "L">
+<!ENTITY messagePaneClassic.label "Klasični pregled">
+<!ENTITY messagePaneClassic.accesskey "C">
+<!ENTITY messagePaneWide.label "Široki pregled">
+<!ENTITY messagePaneWide.accesskey "W">
+<!ENTITY messagePaneVertical.label "Vertikalni pregled">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Okno direktorija">
+<!ENTITY showFolderPaneCmd.accesskey "F">
+<!ENTITY showFolderPaneColsCmd.label "Kolone okkna direktorija">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Okno poruke">
+<!ENTITY showMessageCmd.accesskey "M">
 
+<!ENTITY folderView.label "Direktoriji">
+<!ENTITY folderView.accesskey "F">
+<!ENTITY unifiedFolders.label "Ujedinjene">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "Sve">
+<!ENTITY allFolders.accesskey "A">
+<!ENTITY unreadFolders.label "Nepročitane">
+<!ENTITY unreadFolders.accesskey "U">
+<!ENTITY favoriteFolders.label "Omiljene">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Nedavne">
+<!ENTITY recentFolders.accesskey "R">
+<!ENTITY compactVersion.label "Zbijeni prikaz">
+<!ENTITY compactVersion.accesskey "C">
 
 <!-- Sort Menu -->
 
