@@ -60,7 +60,7 @@
 
 <!ENTITY cmd.sortby_name.label              "Впорядкувати за назвою">
 <!ENTITY cmd.sortby_name.accesskey          "В">
-<!ENTITY cmd.context_sortby_name.accesskey  "С">
+<!ENTITY cmd.context_sortby_name.accesskey  "В">
 
 <!ENTITY cmd.new_bookmark.label            "Нова закладка…">
 <!ENTITY cmd.new_bookmark.accesskey        "з">
