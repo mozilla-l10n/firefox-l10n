@@ -164,8 +164,36 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Zbijeni prikaz">
 <!ENTITY compactVersion.accesskey "C">
+<!ENTITY folderPaneBar.label "Alatna traka okna direktorija">
+<!ENTITY folderPaneBar.accesskey "F">
+<!ENTITY folderModeSelector.label "Pregledi direktorija">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Poredaj prema">
+<!ENTITY sortMenu.accesskey "S">
+<!ENTITY sortByDateCmd.label "Datumu">
+<!ENTITY sortByDateCmd.accesskey "e">
+<!ENTITY sortByReceivedCmd.label "Primljeno">
+<!ENTITY sortByReceivedCmd.accesskey "v">
+<!ENTITY sortByStarCmd.label "Zvjezdica">
+<!ENTITY sortByStarCmd.accesskey "S">
+<!ENTITY sortByAttachmentsCmd.label "Prilozi">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
+<!ENTITY sortByPriorityCmd.label "Prioritet">
+<!ENTITY sortByPriorityCmd.accesskey "P">
+<!ENTITY sortBySizeCmd.label "Veličina">
+<!ENTITY sortBySizeCmd.accesskey "z">
+<!ENTITY sortByStatusCmd.label "Status">
+<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByTagsCmd.label "Oznake">
+<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByJunkStatusCmd.label "Status neželjene pošte">
+<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortBySubjectCmd.label "Naslov">
+<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortByFromCmd.label "Šalje">
+<!ENTITY sortByFromCmd.accesskey "F">
+<!ENTITY sortByRecipientCmd.label "Primatelj">
 
 
 
