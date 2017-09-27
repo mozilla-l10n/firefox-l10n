@@ -20,6 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "قد تؤذي زيارة هذا الموقع حاسوبك">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "حجب &brandShortName; هذه الصفحة لأنها قد تحاول تثبيت برمجيات خبيثة قد تسرق معلوماتك الشخصية على الحاسوب أو تحذفها.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -27,6 +28,7 @@
 
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "قد يحتوي هذا الموقع برنامج ضارة">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
