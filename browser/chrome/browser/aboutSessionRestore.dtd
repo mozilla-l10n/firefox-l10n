@@ -6,16 +6,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "ਹਾਂ, ਇਹ ਸਮੱਸਿਆ ਖੜ੍ਹੀ ਕਰ ਰਿਹਾ ਹੈ।">
-<!ENTITY restorepage.problemDesc    "&brandShortName; ਨੂੰ ਤੁਹਾਡੀਆਂ ਵਿੰਡੋ ਅਤੇ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਪ੍ਰਾਪਤ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ। ਇਹ ਅਕਰਸ ਇੱਕ ਤਾਜ਼ਾ ਖੋਲ੍ਹੇ ਵੈੱਬ ਸਫ਼ੇ ਕਰਕੇ ਹੁੰਦਾ ਹੈ।">
-<!ENTITY restorepage.tryThis        "ਤੁਸੀਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ:">
-<!ENTITY restorepage.restoreSome    "ਇੱਕ ਜਾਂ ਵੱਧ ਟੈਬਾਂ ਨੂੰ ਹਟਾਓ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰ ਰਹੀਆਂ ਹਨ">
-<!ENTITY restorepage.startNew       "ਪੂਰਾ ਨਵਾਂ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
 
-<!ENTITY restorepage.tryagainButton "ਬਹਾਲ ਕਰੋ">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "ਬੰਦ ਕਰੋ">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "ਸ਼ੈਸ਼ਨ ਬਹਾਲ ਕਰੋ">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "ਨਵਾਂ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ਬਹਾਲ ਕਰੋ">
 <!ENTITY restorepage.listHeader     "ਵਿੰਡੋ ਤੇ ਟੈਬਾਂ">
