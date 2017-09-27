@@ -89,8 +89,29 @@
 <!ENTITY allFolders.accesskey "R">
 <!ENTITY unreadFolders.label "Man sik'in ta">
 <!ENTITY unreadFolders.accesskey "M">
+<!ENTITY favoriteFolders.label "Ajowab'äl">
+<!ENTITY favoriteFolders.accesskey "A">
+<!ENTITY recentFolders.label "K'ak'a'">
+<!ENTITY recentFolders.accesskey "K">
 
 <!-- Sort Menu -->
+<!ENTITY sortByDateCmd.label "Q'ijul">
+<!ENTITY sortByDateCmd.accesskey "u">
+<!ENTITY sortByReceivedCmd.label "K'ulun">
+<!ENTITY sortByReceivedCmd.accesskey "l">
+<!ENTITY sortByPriorityCmd.label "Ya'on ruq'ij">
+<!ENTITY sortByPriorityCmd.accesskey "Y">
+<!ENTITY sortBySizeCmd.label "Nimilem">
+<!ENTITY sortBySizeCmd.accesskey "m">
+<!ENTITY sortByStatusCmd.label "B'anikil">
+<!ENTITY sortByStatusCmd.accesskey "n">
+<!ENTITY sortByTagsCmd.label "Taq etal">
+<!ENTITY sortByTagsCmd.accesskey "t">
+<!ENTITY sortBySubjectCmd.label "Taqikil">
+<!ENTITY sortBySubjectCmd.accesskey "q">
+<!ENTITY sortByFromCmd.label "Richin">
+<!ENTITY sortByFromCmd.accesskey "R">
+<!ENTITY sortByRecipientCmd.label "K'ulunel">
 
 
 
