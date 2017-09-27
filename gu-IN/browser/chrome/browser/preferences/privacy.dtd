@@ -119,3 +119,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "ઍક્સેસિબિલિટી સેવાઓને તમારા બ્રાઉઝરને ઍક્સેસ કરવાથી અટકાવો">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "વધુ શીખો">
+<!ENTITY enableSafeBrowsingLearnMore.label "વધુ શીખો">
