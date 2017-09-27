@@ -46,12 +46,49 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "r">
 <!ENTITY settingsOfflineCmd2.label "Chupül Runuk'ulem">
 <!ENTITY settingsOfflineCmd2.accesskey "u">
+<!ENTITY printCmd.label "Titz'ajb'äx…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.key "b">
+<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
+<!ENTITY printPreviewCmd.accesskey "b">
+<!ENTITY printSetupCmd.label "Tinuk'samajïx Ruxaq…">
+<!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Tiyuj Tzijol">
+<!ENTITY deleteMsgCmd.accesskey "y">
+<!ENTITY deleteFolderCmd.label "Tiyuj ri Yakwuj">
+<!ENTITY deleteFolderCmd.accesskey "y">
+<!ENTITY unsubscribeNewsgroupCmd.label "Tiq'at rutz'ib'axik b'i'aj">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "b">
+<!ENTITY selectMenu.label "Ticha'">
+<!ENTITY selectMenu.accesskey "c">
+<!ENTITY all.label "Ronojel">
+<!ENTITY all.accesskey "R">
+<!ENTITY menuFavoriteFolder.label "Ajowanel Yakwuj">
+<!ENTITY menuFavoriteFolder.accesskey "w">
+<!ENTITY folderPropsCmd2.label "Taq ichinil">
+<!ENTITY folderPropsFolderCmd2.label "Kiyakwuj Ichinil">
+<!ENTITY undoDefaultCmd.label "Titzolïx">
+<!ENTITY undoDefaultCmd.accesskey "t">
+<!ENTITY redoDefaultCmd.label "Tikamulüx">
+<!ENTITY redoDefaultCmd.accesskey "k">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Rukajtz'ik K'utusamaj">
+<!ENTITY menubarCmd.accesskey "K">
+<!ENTITY customizeToolbar.label "Tichinäx…">
+<!ENTITY customizeToolbar.accesskey "c">
 
+<!ENTITY messagePaneLayoutStyle.label "Wachib'enïk">
+<!ENTITY messagePaneLayoutStyle.accesskey "W">
 
+<!ENTITY folderView.label "Taq yakwuj">
+<!ENTITY folderView.accesskey "y">
+<!ENTITY allFolders.label "Ronojel">
+<!ENTITY allFolders.accesskey "R">
+<!ENTITY unreadFolders.label "Man sik'in ta">
+<!ENTITY unreadFolders.accesskey "M">
 
 <!-- Sort Menu -->
 
