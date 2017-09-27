@@ -20,6 +20,32 @@
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Tisilöx pa jun K'aka' Tzuwäch">
+<!ENTITY moveToNewWindow.accesskey "T">
+<!ENTITY newVirtualFolderCmd.label "Xyak Kanoxïk…">
+<!ENTITY newVirtualFolderCmd.accesskey "y">
+<!ENTITY newOtherAccountsCmd.label "Juley chik Rub'i' Taqoya'l…">
+<!ENTITY newOtherAccountsCmd.accesskey "J">
+<!ENTITY openMessageFileCmd.label "Tijaq Tzijol Eyakon…">
+<!ENTITY openMessageFileCmd.accesskey "j">
+<!ENTITY saveAsMenu.label "Tiyak Achi'el">
+<!ENTITY saveAsMenu.accesskey "y">
+<!ENTITY saveAsFileCmd.label "Yakb'äl">
+<!ENTITY saveAsFileCmd.accesskey "Y">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Ronojel Kib'i' Taqoya'l">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "R">
+<!ENTITY subscribeCmd.label "Titz'ib'äx nub'i'…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Tiyuj ri Yakwuj">
+<!ENTITY deleteFolder.accesskey "u">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY offlineMenu.label "Chupül">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Chupül Rusamaj">
+<!ENTITY offlineGoOfflineCmd.accesskey "r">
+<!ENTITY settingsOfflineCmd2.label "Chupül Runuk'ulem">
+<!ENTITY settingsOfflineCmd2.accesskey "u">
 
 <!-- Edit Menu -->
 
