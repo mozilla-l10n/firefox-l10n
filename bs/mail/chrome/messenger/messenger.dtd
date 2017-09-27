@@ -427,10 +427,55 @@
 <!ENTITY markAsNotJunkCmd.label "Kao željenu poštu">
 <!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Pokreni kontrole neželjene pošte">
+<!ENTITY recalculateJunkScoreCmd.accesskey "C">
+<!ENTITY openMessageWindowCmd.label "Otvori poruku">
+<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openConversationCmd.label "Otvori u razgovoru">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Prilozi">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "Prilikom otvaranja poruka iz kanala">
+<!ENTITY openFeedMessage1.accesskey "O">
+<!ENTITY openFeedWebPage.label "Otvori kao web stranicu">
+<!ENTITY openFeedWebPage.accesskey "W">
+<!ENTITY openFeedSummary.label "Otvori kao sažetak">
+<!ENTITY openFeedSummary.accesskey "S">
+<!ENTITY openFeedWebPageInMP.label "Uključi web stranicu i sažetak u oknu poruke">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "Prozor">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Alati">
+<!ENTITY tasksMenu.accesskey "T">
+<!ENTITY messengerCmd.label "Pošta i novinske grupe">
+<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY addressBookCmd.label "Imenik">
+<!ENTITY addressBookCmd.accesskey "B">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Dodaci">
+<!ENTITY addons.accesskey "A">
+<!ENTITY activitymanager.label "Upravitelj aktivnostima">
+<!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Status razgovora">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Dostupan">
+<!ENTITY imStatus.unavailable        "Nedostupan">
+<!ENTITY imStatus.offline            "Van mreže">
+<!ENTITY imStatus.showAccounts       "Prikaži račune…">
+<!ENTITY joinChatCmd.label "Pridruži se razgovoru…">
+<!ENTITY joinChatCmd.accesskey "t">
+<!ENTITY savedFiles.label "Sačuvane datoteke">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Filteri poruke">
+<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY filtersApply.label "Pokreni filtere na direktoriju">
+<!ENTITY filtersApply.accesskey "R">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
