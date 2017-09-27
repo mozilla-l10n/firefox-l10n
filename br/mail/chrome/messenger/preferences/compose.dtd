@@ -54,13 +54,15 @@
 <!ENTITY directoriesNone.label                 "Tra ebet">
 <!ENTITY editDirectories.label                 "Aozañ kavlec'hiadoù…">
 <!ENTITY editDirectories.accesskey             "A">
-<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefault.label                   "Kavlec'hiad dre ziouer er prenestr karned chomlec'hioù:">
+<!ENTITY showAsDefault.accesskey               "K">
+<!ENTITY showAsDefaultLast.label               "Kavlec'hiad arveret da ziwezhañ">
 
 <!ENTITY sendOptionsDescription.label          "Kefluniañ emzalc'h ar mentrezh testenn">
 <!ENTITY sendOptions.label                     "Dibarzhioù kas…">
-<!ENTITY sendOptions.accesskey                 "s">
+<!ENTITY sendOptions.accesskey                 "k">
 
-<!ENTITY attachmentReminder.label              "Gwiriañ ar c'henstagadurioù o vankout">
+<!ENTITY attachmentReminder.label              "Gwiriañ ar c'henstagadurioù a vank">
 <!ENTITY attachmentReminder.accesskey          "v">
 <!ENTITY attachmentReminderOptions.label       "Gerioù-alc'hwez…">
 <!ENTITY attachmentReminderOptions.accesskey   "G">
