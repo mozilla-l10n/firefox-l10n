@@ -394,6 +394,7 @@
 <!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
 <!ENTITY addressBookButton.tooltip "Tib'e pa ri kiwujil ochochib'äl">
 <!ENTITY chatButton.tooltip "Tik'ut ri Chat tab">
+<!ENTITY tagButton.tooltip "Ketal taq rutzijol">
 
 <!-- Toolbar Button Popup -->
 
@@ -402,28 +403,90 @@
 <!-- Phishing Button Popup -->
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "K'ak'a' Rutzijol">
+<!ENTITY appmenuEditMenu.label "Tinuk'">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "K'ak'a' Etal…">
+<!ENTITY addNewTag.accesskey "K">
+<!ENTITY manageTags.label "Kenuk'samajïx taq Etal…">
+<!ENTITY manageTags.accesskey "K">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "B'i'aj">
+<!ENTITY folderUnreadColumn.label "Man sik'in ta">
+<!ENTITY folderTotalColumn.label "Ronojel">
+<!ENTITY folderSizeColumn.label "Nimilem">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Kek'ul tzijol">
+<!ENTITY folderContextGetMessages.accesskey "K">
+<!ENTITY folderContextPauseUpdates.label "Keq'at K'exoj">
+<!ENTITY folderContextPauseUpdates.accesskey "K">
+<!ENTITY folderContextOpenInNewWindow.label "Tijaq pa jun K'ak'a' Tzuwäch">
+<!ENTITY folderContextOpenInNewWindow.accesskey "j">
+<!ENTITY folderContextOpenNewTab.label "Tijaq pa jun K'ak'a' Ruwi'">
+<!ENTITY folderContextOpenNewTab.accesskey "R">
+<!ENTITY folderContextNew.label "K'ak'a' Achyakwuj…">
+<!ENTITY folderContextNew.accesskey "K">
+<!ENTITY folderContextRename.label "Tisik'ïx chik">
+<!ENTITY folderContextRename.accesskey "T">
+<!ENTITY folderContextRemove.label "Tiyuj">
+<!ENTITY folderContextRemove.accesskey "y">
+<!ENTITY folderContextCompact.label "Tz'aqatz'öj">
+<!ENTITY folderContextCompact.accesskey "T">
+<!ENTITY folderContextUnsubscribe.label "Tiq'at rutz'ib'axik b'i'aj">
+<!ENTITY folderContextUnsubscribe.accesskey "T">
+<!ENTITY folderContextSubscribe.label "Titz'ib'äx nub'i'…">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchForMessages.label "Kekanöx Tzijol…">
+<!ENTITY folderContextSearchForMessages.accesskey "K">
+<!ENTITY folderContextProperties2.label "Taq ichinil">
+<!ENTITY folderContextProperties2.accesskey "i">
+<!ENTITY folderContextFavoriteFolder.label "Ajowanel Yakwuj">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Taq nuk'ulem">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Kekanöx tzijol…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Taqikil">
+<!ENTITY searchFromMenu.label "Richin">
 
 <!-- Thread Pane -->
+<!ENTITY fromColumn.label "Richin">
+<!ENTITY recipientColumn.label "K'ulunel">
+<!ENTITY subjectColumn.label "Taqikil">
+<!ENTITY dateColumn.label "Q'ijul">
+<!ENTITY priorityColumn.label "Ya'on ruq'ij">
+<!ENTITY tagsColumn.label "Etal">
+<!ENTITY accountColumn.label "Rub'i' taqoya'l">
+<!ENTITY statusColumn.label "B'anikil">
+<!ENTITY sizeColumn.label "Nimilem">
+<!ENTITY unreadColumn.label "Man sik'in ta">
+<!ENTITY totalColumn.label "Ronojel">
+<!ENTITY readColumn.label "Tisik'ïx">
+<!ENTITY receivedColumn.label "K'ulun">
+<!ENTITY locationColumn.label "K'ojlib'äl">
+<!ENTITY attachmentColumn.label "Taq taqoj">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY dateColumn2.tooltip "Kenuk' chi q'ijul">
+<!ENTITY tagsColumn2.tooltip "Tinuk' chi taq retal">
+<!ENTITY sizeColumn2.tooltip "Tinuk' chi nimilem">
+<!ENTITY locationColumn2.tooltip "Tinuk' chi k'ojlib'äl">
 
 <!-- Thread Pane Context Menu -->
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextEditMsgAsNew.label "Tinuk' Achi'el K'ak'a' Tzijol">
+<!ENTITY contextEditMsgAsNew.accesskey "T">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
