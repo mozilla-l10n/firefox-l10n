@@ -51,15 +51,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੋ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਨੂੰ ਵਰਤਣਾ ਹੈ?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'ਇਸ ਵਜੋਂ ਸਾਈਨ ਇਨ ਕੀਤਾ'>
-<!ENTITY fxaccount_status_manage_account 'ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ'>
 <!ENTITY fxaccount_status_auth_server 'ਖਾਤੇ ਦਾ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_sync_now 'ਹੁਣੇ ਸਿੰਕ ਕਰੋ'>
 <!ENTITY fxaccount_status_syncing2 '…ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ'>
 <!ENTITY fxaccount_status_device_name 'ਡਿਵਾਈਸ ਦਾ ਨਾਂ'>
 <!ENTITY fxaccount_status_sync_server 'ਸਿੰਕ ਲਈ ਸਰਵਰ'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ਸਮਰੱਥ ਹੈ'>
 <!ENTITY fxaccount_status_needs_verification2 'ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਤਸਦੀਕ ਕਰਨ ਵਾਲੀ ਈਮੇਲ ਮੁੜ-ਭੇਜਣ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_credentials 'ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਸਾਈਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_upgrade 'ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ &brandShortName; ਨੂੰ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
@@ -70,6 +66,7 @@
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords2 'ਲਾਗਇਨ'>
 <!ENTITY fxaccount_status_tabs 'ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ'>
+<!ENTITY fxaccount_status_additional_settings 'ਵਾਧੂ ਸੈਟਿੰਗਾਂ'>
 <!ENTITY fxaccount_status_legal 'ਕਨੂੰਨੀ' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,9 +74,7 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'ਸੇਵਾ ਦੀ ਸ਼ਰਤਾਂ'>
 <!ENTITY fxaccount_status_linkprivacy2 'ਪਰਦੇਦਾਰੀ ਦੀ ਸੂਚਨਾ'>
-<!ENTITY fxaccount_status_more 'ਹੋਰ&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ਡਿਸ-ਕਨੈਕਟ ਕਰੋ&ellipsis;'>
-
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Disconnect from Sync?'>
 <!ENTITY fxaccount_remove_account_dialog_message2 'Your browsing data will remain on this device, but it will no longer sync with your account.'>
@@ -103,21 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; ਚੋਣਾਂ'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; ਦੀ ਸੰਰਚਨਾ'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'ਤੁਹਾਨੂੰ ਫਾਇਰਫਾਕਸ ਨੂੰ ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'ਈਮੇਲ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ਸਮੱਸਿਆ ਸੀ।'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'ਖਾਤਾ ਲਾਕ ਕੀਤਾ ਹੈ। &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ਕਨੈਕਟ ਨਹੀਂ ਹੈ'>
 <!-- Localization note: the format string below will be replaced
