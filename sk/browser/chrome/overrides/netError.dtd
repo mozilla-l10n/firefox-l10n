@@ -18,16 +18,7 @@
 <!ENTITY deniedPortAccess.title "Táto adresa je zakázaná">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server sa nenašiel">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Skontrolujte, či ste nezadali napr.
-    <strong>ww</strong>.example.com namiesto
-    <strong>www</strong>.example.com</li>
-  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, že &brandShortName; má povolený prístup k webu.</li>
-</ul>
-">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Súbor sa nenašiel">
 <!ENTITY fileNotFound.longDesc "
@@ -56,14 +47,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Otvoriť prihlasovaciu stránku k sieti">
 
-<!ENTITY malformedURI.title "Adresa nie je platná">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Webové adresy sú zvyčajne zadávané v tvare
-    <strong>http://www.example.com/</strong></li>
-  <li>Skontrolujte, či používate správne lomky (t.j. <strong>/</strong>). </li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Neplatná URL adresa">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm, táto adresa nevyzerá v poriadku.">
 
 <!ENTITY netInterrupt.title "Pripojenie bolo prerušené">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
