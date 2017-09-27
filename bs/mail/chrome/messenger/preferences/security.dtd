@@ -2,37 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY itemJunk.label          "Neželjena pošta">
+<!ENTITY itemPhishing.label      "Prevare e-poštom">
+<!ENTITY itemPasswords.label     "Lozinke">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Phishing Detector -->
-
-
-
 
 <!-- Passwords -->
 
-
-
-
-
-
-
 <!-- Anti Virus -->
-
-
 
