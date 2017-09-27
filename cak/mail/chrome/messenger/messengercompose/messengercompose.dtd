@@ -1,0 +1,112 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "Yakb'äl">
+<!ENTITY fileMenu.accesskey "y">
+<!ENTITY newMenu.label "K'ak'a'">
+<!ENTITY newMenu.accesskey "K">
+<!ENTITY newMessage.label "Tzijol">
+<!ENTITY newMessage.key "T">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "T">
+<!ENTITY attachPageCmd.label "Ajk'amaya'l Ruxaq…">
+<!ENTITY attachPageCmd.accesskey "A">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY closeCmd.label "Titz'apïx">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "t">
+<!ENTITY saveCmd.label "Tiyak">
+<!ENTITY saveCmd.key "Y">
+<!ENTITY saveCmd.accesskey "y">
+<!ENTITY saveAsCmd.label "Tiyak Achi'el">
+<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsFileCmd.label "Yakb'äl…">
+<!ENTITY saveAsFileCmd.accesskey "Y">
+<!ENTITY sendNowCmd.label "Titaq Wakami">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendLaterCmd.label "Titaq Na">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY printSetupCmd.label "Tinuk'samajïx ruxaq…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Nab'ey Tz'etoj">
+<!ENTITY printPreviewCmd.accesskey "b">
+<!ENTITY printCmd.label "Titz'ajb'äx…">
+<!ENTITY printCmd.key "t">
+<!ENTITY printCmd.accesskey "P">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Tinuk'">
+<!ENTITY editMenu.accesskey "n">
+<!ENTITY undoCmd.label "Titzolïx">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "z">
+<!ENTITY redoCmd.label "Tikamulüx">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "k">
+<!ENTITY cutCmd.label "Tiqupïx">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "x">
+<!ENTITY copyCmd.label "Tiwachib'ëx">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "w">
+<!ENTITY pasteCmd.label "Titz'ajb'äx">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "j">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "Tiyuj">
+<!ENTITY deleteCmd.accesskey "y">
+<!ENTITY selectAllCmd.label "Ticha' Ronojel">
+<!ENTITY selectAllCmd.key "R">
+<!ENTITY selectAllCmd.accesskey "r">
+<!ENTITY findBarCmd.label "Tikanöx…">
+<!ENTITY findBarCmd.accesskey "k">
+<!ENTITY findBarCmd.key "k">
+<!ENTITY findReplaceCmd.label "Tikanöx chuqa' Tijal…">
+<!ENTITY findReplaceCmd.accesskey "I">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Tikamulüx Rukanoxik">
+
+<!-- View Menu -->
+
+
+<!-- Format Menu -->
+
+<!-- Options Menu -->
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+
+<!-- Tools Menu -->
+
+<!--  Mac OS X Window Menu -->
+
+<!-- Mail Toolbar -->
+
+<!-- Mail Toolbar Tooltips -->
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+
+<!-- Message Pane Context Menu -->
+
+
+<!-- Spell checker context menu items -->
+
+<!-- Title for the address picker panel -->
+
+<!-- Identity popup customize menuitem -->
+
+<!-- Status Bar -->
