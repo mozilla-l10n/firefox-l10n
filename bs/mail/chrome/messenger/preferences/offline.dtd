@@ -23,3 +23,10 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Pitaj me">
 <!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Preuzmi poruke za korištenje van mreže prije odlaska u rad van mreže?">
+<!ENTITY radioAutoDownload.label "Da">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Ne">
+<!ENTITY radioNotDownload.accesskey "e">
+<!ENTITY radioAskDownload.label "Pitaj me">
+<!ENTITY radioAskDownload.accesskey "i">
