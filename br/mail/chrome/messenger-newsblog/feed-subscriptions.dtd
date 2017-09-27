@@ -9,8 +9,8 @@
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "URL ar froud:">
-<!ENTITY feedLocation.accesskey      "F">
+<!ENTITY feedLocation.label          "URL al lanv:">
+<!ENTITY feedLocation.accesskey      "l">
 <!ENTITY feedLocation.placeholder    "Bizskrivit ur chomlec'h lanv talvoudek da ouzhpennañ">
 <!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">

@@ -36,9 +36,9 @@
 <!ENTITY editMailingListContext.accesskey   "E">
 
 <!ENTITY newContactAbContext.label          "Darempred nevez">
-<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newContactAbContext.accesskey      "D">
 <!ENTITY newListAbContext.label             "Roll nevez">
-<!ENTITY newListAbContext.accesskey         "L">
+<!ENTITY newListAbContext.accesskey         "R">
 
 <!ENTITY toButton.label                     "Ouzhpennañ Da:">
 <!ENTITY toButton.accesskey                 "D">

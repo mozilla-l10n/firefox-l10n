@@ -42,4 +42,4 @@
 <!ENTITY smtpDefaultServer.label "Ober gant an dafariad dre-ziouer">
 
 <!ENTITY smtpServerEdit.label "Embann an dafariad SMTP...">
-<!ENTITY smtpServerEdit.accesskey "P">
+<!ENTITY smtpServerEdit.accesskey "E">

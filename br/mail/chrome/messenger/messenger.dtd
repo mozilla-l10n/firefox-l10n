@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ar gont bremanel">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "b">
-<!ENTITY getNextNMsgCmd2.label "Kerc'hat war-lerc'h ar posteloù nevez da-heul">
-<!ENTITY getNextNMsgCmd2.accesskey "t">
+<!ENTITY getNextNMsgCmd2.label "Kerc'hat ar posteloù da-heul">
+<!ENTITY getNextNMsgCmd2.accesskey "p">
 <!ENTITY sendUnsentCmd.label "Kas ar c'hemennadennoù a chom er voestad">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Koumanantiñ …">
@@ -636,9 +636,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
-<!ENTITY folderContextPauseAllUpdates.label "Paouez gant an holl hizivadurioù">
-<!ENTITY folderContextPauseUpdates.label "Paouez gant an hizivadurioù">
-<!ENTITY folderContextPauseUpdates.accesskey "U">
+<!ENTITY folderContextPauseAllUpdates.label "Ehanañ an holl hizivadurioù">
+<!ENTITY folderContextPauseUpdates.label "Ehanañ an hizivadurioù">
+<!ENTITY folderContextPauseUpdates.accesskey "h">
 <!ENTITY folderContextOpenInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
 <!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">

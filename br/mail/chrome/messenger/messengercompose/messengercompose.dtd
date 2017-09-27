@@ -310,5 +310,5 @@
 <!ENTITY customizeFromAddress.accesskey "P">
 
 <!-- Status Bar -->
-<!ENTITY languageStatusButton.tooltip "Gwirier reizhskrivadur">
+<!ENTITY languageStatusButton.tooltip "Yezh an difazier">
 <!ENTITY encodingStatusPanel.tooltip "Bonegadur an arouezioù">
