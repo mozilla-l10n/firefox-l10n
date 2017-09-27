@@ -24,7 +24,9 @@
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
+<!ENTITY loaddevice.modname2                    "Nomine del modulo">
 <!ENTITY loaddevice.modname2.accesskey          "M">
+<!ENTITY loaddevice.filename2                   "Nomine de file del modulo">
 <!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "Perquirer…">
 <!ENTITY loaddevice.browse.accesskey            "B">

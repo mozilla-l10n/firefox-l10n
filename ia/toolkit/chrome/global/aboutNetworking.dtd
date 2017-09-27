@@ -31,9 +31,12 @@
 <!ENTITY aboutNetworking.currentLogFile        "File de diario actual:">
 <!ENTITY aboutNetworking.currentLogModules     "Modulos de diario actual:">
 <!ENTITY aboutNetworking.stopLogging           "Cessar le registration">
+<!ENTITY aboutNetworking.dnsLookup             "Recerca de DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Statistica de RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stato de RCWN">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Aperir">
 <!ENTITY aboutNetworking.rcwnPerfRead          "Leger">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Scriber">
