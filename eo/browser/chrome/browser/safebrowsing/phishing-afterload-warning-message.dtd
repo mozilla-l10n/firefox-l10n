@@ -26,9 +26,12 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> estis <a id='error_desc_link'>denuncita kiel retejo, kiu enhavas malican programaron</a>. Vi povas <a id='report_detection'>raporti eltrovan problemon</a> aŭ <a id='ignore_warning_link'>ignori la riskon</a> kaj tamen iri al tiu ĉi nesekura retejo.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> estis <a id='error_desc_link'>denuncita kiel retejon kiu enhavas malican programaron</a>. Vi povas <a id='report_detection'>raporti eltrovan problemon</a>.">
+
+<!ENTITY safeb.blocked.malwarePage.learnMore "Vi trovos pli da informo pri difektaj teksaĵaj enhavoj, kiuj inkluzivas virusojn kaj aliajn malicajn programon, kaj pri la maniero protekti vian komputiloj ĉe <a id='learn_more_link'>StopBadware.org</a>. Pli da informo pri la protekto de Firefox kontraŭ trompoj kaj malicaj programoj troveblas ĉe <a id='firefox_support'>support.mozilla.org</a>.">
 
 
-
+<!ENTITY safeb.blocked.unwantedPage.title2 "La vizitota retejo povus enhavi difektajn programojn">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
