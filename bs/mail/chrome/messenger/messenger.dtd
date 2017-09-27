@@ -577,30 +577,156 @@
 <!ENTITY nextButton.tooltip "Idi na sljedeću nepročitanu poruku">
 <!ENTITY nextMsgButton.tooltip "Idi na sljedeću poruku">
 <!ENTITY previousButton.tooltip "Idi na prethodnu nepročitanu poruku">
+<!ENTITY previousMsgButton.tooltip "Idi na prethodnu poruku">
+<!ENTITY goForwardButton.tooltip "Idi naprijed jednu poruku">
+<!ENTITY goBackButton.tooltip "Idi nazad jednu poruku">
+<!ENTITY deleteButton.tooltip "Izbriši odabranu poruku ili direktorij">
+<!ENTITY undeleteButton.tooltip "Vrati odabranu izbrisanu poruku">
+<!ENTITY markButton.tooltip "Označi poruke">
+<!ENTITY printButton.tooltip "Štampaj ovu poruku">
+<!ENTITY stopButton.tooltip "Zaustavi trenutni prijenos">
+<!ENTITY junkButton.tooltip "Označi odabrane poruke kao neželjene">
+<!ENTITY notJunkButton.tooltip "Označi odabrane poruke kao željene">
+<!ENTITY addressBookButton.tooltip "Idi u imenik">
+<!ENTITY chatButton.tooltip "Prikaži tab razgovora">
+<!ENTITY tagButton.tooltip "Označi poruke">
+<!ENTITY compactButton.tooltip "Ukloni izbrisane poruke iz odabranog direktorija">
+<!ENTITY appmenuButton1.tooltip "Prikaži meni &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Proslijedi kao tekst unutar druge poruke">
+<!ENTITY buttonMenuForwardAsAttachment.label "Proslijedi kao prilog">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Prikaži vanjski sadržaj u ovoj poruci">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "Uredi mogućnosti udaljenog sadržaja…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Uredi postavke udaljenog sadržaja…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Zanemari upozorenje za ovu poruku">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Uredi mogućnosti za otkrivanje prevara…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Uredi postavke za otkrivanje prevara…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nova poruka">
+<!ENTITY appmenuNewContactCmd.label "Kontakt u imeniku…">
+<!ENTITY appmenuEditMenu.label "Uredi">
+<!ENTITY appmenuToolbarLayout.label "Raspored alatne trake…">
+<!ENTITY appmenuSelectThread.label "Označi skup poruka">
+<!ENTITY appmenuSelectFlagged.label "Označi poruke sa zvijezdicom">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Nova oznaka…">
+<!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Upravljanje oznakama…">
+<!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Naziv">
+<!ENTITY folderUnreadColumn.label "Nepročitano">
+<!ENTITY folderTotalColumn.label "Ukupno">
+<!ENTITY folderSizeColumn.label "Veličina">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Dohvati poruke">
+<!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextPauseAllUpdates.label "Zaustavi sva ažuriranja">
+<!ENTITY folderContextPauseUpdates.label "Zaustavi ažuriranja">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
+<!ENTITY folderContextOpenInNewWindow.label "Otvori u novom prozoru">
+<!ENTITY folderContextOpenInNewWindow.accesskey "O">
+<!ENTITY folderContextOpenNewTab.label "Otvori u novom tabu">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "Novi direktorij…">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "Preimenuj">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Izbriši">
+<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Zbij">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "Isprazni smeće">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyJunk.label "Isprazni neželjenu poštu">
+<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextSendUnsentMessages.label "Pošalji neposlane poruke">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "Otkaži pretplatu">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "Označi novinsku grupu pročitanom">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Označi direktorij pročitanim">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "Pretplati se…">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchForMessages.label "Pretraži poruke…">
+<!ENTITY folderContextSearchForMessages.accesskey "S">
+<!ENTITY folderContextProperties2.label "Svojstva">
+<!ENTITY folderContextProperties2.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Omiljeni direktorij">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Postavke">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Naziv ili e-pošta sadrži:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Pretraži poruke…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Naslov">
+<!ENTITY searchFromMenu.label "Šalje">
+<!ENTITY searchSubjectOrFromMenu.label "Naslov ili šalje">
+<!ENTITY searchRecipient.label "Prima ili Kop">
+<!ENTITY searchSubjectOrRecipientMenu.label "Naslov, Prima ili Kop">
+<!ENTITY searchMessageBody.label "Cijela poruka">
+<!ENTITY saveAsVirtualFolderMenu.label "Sačuvaj pretragu kao direktorij…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Nit">
+<!ENTITY fromColumn.label "Šalje">
+<!ENTITY recipientColumn.label "Primalac">
+<!ENTITY correspondentColumn.label "Dopisnici">
+<!ENTITY subjectColumn.label "Naslov">
+<!ENTITY dateColumn.label "Datum">
+<!ENTITY priorityColumn.label "Prioritet">
+<!ENTITY tagsColumn.label "Oznaka">
+<!ENTITY accountColumn.label "Račun">
+<!ENTITY statusColumn.label "Status">
+<!ENTITY sizeColumn.label "Veličina">
+<!ENTITY junkStatusColumn.label "Status neželjene pošte">
+<!ENTITY unreadColumn.label "Nepročitano">
+<!ENTITY totalColumn.label "Ukupno">
+<!ENTITY readColumn.label "Pročitano">
+<!ENTITY receivedColumn.label "Primljeno">
+<!ENTITY starredColumn.label "Označeno zvjezdicom">
+<!ENTITY locationColumn.label "Lokacija">
+<!ENTITY idColumn.label "Redoslijed primanja">
+<!ENTITY attachmentColumn.label "Prilozi">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Izaberite kolone za prikaz">
+<!ENTITY threadColumn2.tooltip "Prikaži niti poruke">
+<!ENTITY fromColumn2.tooltip "Poredaj prema pošiljaocu">
+<!ENTITY recipientColumn2.tooltip "Poredaj prema primaocu">
+<!ENTITY correspondentColumn2.tooltip "Poredaj prema korespondentima">
+<!ENTITY subjectColumn2.tooltip "Poredaj prema naslovu">
+<!ENTITY dateColumn2.tooltip "Poredaj po datumu">
+<!ENTITY priorityColumn2.tooltip "Poredaj prema prioritetu">
+<!ENTITY tagsColumn2.tooltip "Poredaj prema oznakama">
+<!ENTITY accountColumn2.tooltip "Poredaj prema računu">
+<!ENTITY statusColumn2.tooltip "Poredaj prema statusu">
+<!ENTITY sizeColumn2.tooltip "Poredaj po veličini">
+<!ENTITY junkStatusColumn2.tooltip "Poredaj po statusu neželjene pošte">
+<!ENTITY unreadColumn2.tooltip "Broj nepročitanih poruka u niti">
 
 <!-- Thread Pane Context Menu -->
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
