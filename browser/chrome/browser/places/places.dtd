@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "એડ-ઓનયું">
 <!ENTITY col.lastmodified.label  "છેલ્લે સુધારાયું">
 
-<!ENTITY search.placeholder  "શોધો">
+<!ENTITY historySearch.placeholder  "શોધ ઇતિહાસ">
+<!ENTITY bookmarksSearch.placeholder  "બુકમાર્ક્સ શોધો">
 
 <!ENTITY cmd.find.key  "f">
 

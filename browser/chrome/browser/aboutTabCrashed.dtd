@@ -17,6 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "અરે રે . તમારું ટૅબ હમણાંજ ક્રેશ થયું.">
 <!ENTITY tabCrashed.offerHelp2 "અમે મદદ કરી શકીએ છીએ!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "પસંદ કરો &tabCrashed.restoreTab; પૃષ્ઠને ફરીથી લોડ કરવા માટે.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "પસંદ કરો &tabCrashed.restoreTab; અથવા &tabCrashed.restoreAll; પૃષ્ઠ/પૃષ્ઠોને ફરીથી લોડ કરવા માટે.">
 <!ENTITY tabCrashed.requestHelp "તમે અમને મદત કરશો?">
 <!ENTITY tabCrashed.requestHelpMessage "ક્રેશ રિપોર્ટ્સ અમને સમસ્યાઓનું નિદાન કરવામાં સહાય કરે છે અને &brandShortName; વધુ સારું બનાવવા.">
 <!ENTITY tabCrashed.requestReport "આ ટેબની જાણ કરો">
