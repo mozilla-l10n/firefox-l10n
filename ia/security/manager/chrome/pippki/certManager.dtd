@@ -24,6 +24,7 @@
 <!ENTITY certmgr.certdetail.title             "Detalio del certificato">
 <!ENTITY certmgr.certdetail.cn                "Nomine Commun (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organisation (O)">
+<!ENTITY certmgr.certdetail.ou                "Unitate organisative (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Numero serial">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Impression digital SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Impression digital SHA1">
@@ -32,6 +33,7 @@
 
 <!ENTITY certmgr.deletecert.title             "Deler le certificato">
 
+<!ENTITY certmgr.certname                     "Nomine de certificato">
 <!ENTITY certmgr.certserver                   "Servitor">
 <!ENTITY certmgr.override_lifetime            "Duration del vita">
 <!ENTITY certmgr.tokenname                    "Dispositivo de securitate">
