@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapnutím synchronizácie kariet zobrazíte zoznam kariet z vašich ostatných zariadení.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Hľadať v synchronizovaných kartách">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -902,16 +903,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Zapnúť ochranu">
 <!ENTITY trackingProtection.block2.accesskey "Z">
 
-<!ENTITY trackingContentBlocked.message "Sledovanie">
-<!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu na webe, boli zablokované.">
-<!ENTITY trackingContentBlocked.learnMore "Ďalšie informácie">
-<!ENTITY trackingContentBlocked.options "Možnosti">
-<!ENTITY trackingContentBlocked.unblock2.label "Vypnúť ochranu pre túto stránku">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "V">
-<!ENTITY trackingContentBlocked.block.label "Zapnúť ochranu">
-<!ENTITY trackingContentBlocked.block.accesskey "Z">
-<!ENTITY trackingContentBlocked.disabled.message "Ochrana pred sledovaním je vypnutá">
-
 <!ENTITY pluginNotification.showAll.label "Zobraziť všetko">
 <!ENTITY pluginNotification.showAll.accesskey "Z">
 
@@ -991,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí históriu, uložené záložky a ďalšie">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funkcie pre podporu prístupnosti povolené">

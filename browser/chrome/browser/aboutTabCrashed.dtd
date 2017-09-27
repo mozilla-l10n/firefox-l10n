@@ -17,11 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Hups. Vaša karta zlyhala.">
 <!ENTITY tabCrashed.offerHelp2 "Môžeme vám pomôcť!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Pre opätovné načítanie stránky zvoľte &tabCrashed.restoreTab;.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Pre opätovné načítanie stránky alebo stránok zvoľte &tabCrashed.restoreTab; alebo &tabCrashed.restoreAll;.">
 <!ENTITY tabCrashed.requestHelp "Pomôžete nám?">
 <!ENTITY tabCrashed.requestHelpMessage "Správy o zlyhaní nám pomáhajú diagnostikovať problémy a &brandShortName; naďalej vylepšovať.">
 <!ENTITY tabCrashed.requestReport "Nahlásiť túto kartu">
+<!ENTITY tabCrashed.sendReport3 "Odoslať hlásenie o chybách automaticky, aby sme mohli opraviť podobné problémy.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Voliteľný komentár (komentáre sú verejne dostupné)">
+<!ENTITY tabCrashed.includeURL3 "Priložiť URL adresy stránok, na ktorých ste boli v okamihu pádu aplikácie &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Zadajte e-mailovú adresu">
 <!ENTITY tabCrashed.emailMe "Informujte ma, keď budú dostupné ďalšie informácie">
 <!ENTITY tabCrashed.reportSent "Správa o zlyhaní už bola odoslaná. Ďakujeme, že pomáhate urobiť &brandShortName; lepším!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Nahlásiť karty na pozadí">
+<!ENTITY tabCrashed.autoSubmit3 "Aktualizovať predvoľby pre automatické odosielanie protokolu o páde aplikácie &brandShortName;.">

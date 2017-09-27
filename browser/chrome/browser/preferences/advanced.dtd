@@ -29,8 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Odosielanie údajov je v konfigurácii tohto zostavenia zakázané">
 
-<!ENTITY enableHealthReport1.label       "Povoliť aplikácii &brandShortName; automaticky odosielať Mozille technické údaje a údaje o interakciách">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Povoliť aplikácii &brandShortName; odosielať Mozille technické údaje a údaje o interakciách">
+<!ENTITY enableHealthReport2.accesskey   "o">
 <!ENTITY healthReportLearnMore.label     "Ďalšie informácie">
 
 <!ENTITY dataCollection.label            "Zber a použitie údajov o aplikácii &brandShortName;">

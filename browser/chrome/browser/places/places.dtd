@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Pridané">
 <!ENTITY col.lastmodified.label  "Posledná úprava">
 
-<!ENTITY search.placeholder  "Hľadať">
+<!ENTITY historySearch.placeholder  "Hľadať v histórii">
+<!ENTITY bookmarksSearch.placeholder  "Hľadať v záložkách">
 
 <!ENTITY cmd.find.key  "f">
 
