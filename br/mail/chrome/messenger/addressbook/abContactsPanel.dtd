@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Perzhioù ar roll skignañ">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Diskouez lañser kemperzhel ar c'harned chomlec'hioù">
 <!ENTITY addressbookPicker.label            "Karned chomlec'hioù:">
 <!ENTITY addressbookPicker.accesskey        "K">
 <!ENTITY searchContacts.label               "Klask darempredoù:">

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "Kefluniañ ur gont postel nevez">
 <!ENTITY name.label                      "Hoc'h anv :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Anv-bihan Anv">
@@ -9,6 +10,8 @@
 <!ENTITY email.label                     "Chomlec'h :">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "chomlec'h@example.com">
+<!ENTITY email.text                      "Ho chomlec'h postel">
 <!ENTITY password.label                  "Ger-tremen :">
 <!ENTITY password.accesskey              "G">
 <!ENTITY password.placeholder            "Ger-tremen">
@@ -52,6 +55,7 @@
 <!ENTITY half-manual-test.accesskey      "A">
 <!ENTITY manual-edit.label               "Kefluniad dornel">
 <!ENTITY manual-edit.accesskey           "d">
+<!ENTITY open-provisioner.label          "Kaout ur chomlec'h postel nevez…">
 <!ENTITY open-provisioner.accesskey      "g">
 
 
