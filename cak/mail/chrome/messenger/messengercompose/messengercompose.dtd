@@ -73,16 +73,44 @@
 <!ENTITY findReplaceCmd.accesskey "I">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Tikamulüx Rukanoxik">
+<!ENTITY findAgainCmd.accesskey "k">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Tikanöx ri Xik'o Yan">
+<!ENTITY findPrevCmd.accesskey "o">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.label "Titz'et">
+<!ENTITY viewMenu.accesskey "t">
+<!ENTITY viewToolbarsMenuNew.label "Taq molsamajib'äl">
+<!ENTITY viewToolbarsMenuNew.accesskey "m">
+<!ENTITY menubarCmd.label "Rukajtz'ik K'utusamaj">
+<!ENTITY menubarCmd.accesskey "K">
+<!ENTITY showTaskbarCmd.label "Rub'anikil Kajtz'ik">
+<!ENTITY showTaskbarCmd.accesskey "b">
+<!ENTITY customizeToolbar.label "Tichinäx…">
+<!ENTITY customizeToolbar.accesskey "c">
 
 
 <!-- Format Menu -->
+<!ENTITY formatMenu.label "B'anikil">
+<!ENTITY formatMenu.accesskey "a">
 
 <!-- Options Menu -->
+<!ENTITY optionsMenu.label "Taq cha'oj">
+<!ENTITY optionsMenu.accesskey "c">
+<!ENTITY checkSpellingCmd2.label "Tinik'öx Rutz'ib'axik…">
+<!ENTITY checkSpellingCmd2.key "t">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!ENTITY autoFormatCmd.label "Titz'et pa ruyonil">
+<!ENTITY autoFormatCmd.accesskey "t">
+<!ENTITY priorityMenu.label "Ya'on ruq'ij">
 
 <!-- Tools Menu -->
 
