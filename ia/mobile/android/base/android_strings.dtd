@@ -291,6 +291,7 @@
 <!ENTITY custom_tabs_hint_url_copy "URL copiate">
 
 <!ENTITY pref_pwa "Applicationes web progressive">
+<!ENTITY pref_pwa_summary "Permitter que le applicationes del web sia addite al schermo de initio">
 
 <!ENTITY tracking_protection_prompt_title "Ora con protection contra traciamento">
 <!ENTITY tracking_protection_prompt_text "Blocar activemente elementos de traciamento pro que tu non ha timer.">
@@ -299,8 +300,10 @@
 
 <!ENTITY tab_queue_toast_message3 "Scheda salvate in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Aperir ora">
+<!ENTITY tab_queue_prompt_title "Apertura de plure ligamines?">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "Non ora">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -336,31 +339,52 @@
 <!ENTITY pref_use_system_font_size "Usar le mesura de typos de characteres del systema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitter autoreproducer">
+<!ENTITY pref_voice_input "Entrata de voce">
+<!ENTITY pref_voice_input_summary2 "Permitter dictato pro voce in le barra de URL">
 <!ENTITY pref_qrcode_enabled "Lector de codices QR">
 
+<!ENTITY pref_use_master_password "Usar un contrasigno maestro">
+<!ENTITY pref_sync2 "Authenticar se">
+<!ENTITY pref_search_suggestions "Monstrar suggestiones de recerca">
+<!ENTITY pref_import_options "Optiones pro importation">
+<!ENTITY pref_import_android_summary "Importar paginas marcate e chronologia del navigator native">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Schedas aperite">
 <!ENTITY pref_private_data_history2 "Chronologia de navigation">
 <!ENTITY pref_private_data_searchHistory "Chronologia del recercas">
+<!ENTITY pref_private_data_formdata2 "Chronologia de formulario">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; sessiones active">
 <!ENTITY pref_private_data_passwords2 "Authenticationes salvate">
 <!ENTITY pref_private_data_cache "Memoria tampon">
+<!ENTITY pref_private_data_offlineApps "Datos del sitos web disponibile sin connexion">
+<!ENTITY pref_private_data_downloadFiles2 "Discargamentos">
+<!ENTITY pref_private_data_syncedTabs "Schedas synchronisate">
 
+<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar supporto de Mozilla">
+<!ENTITY pref_about_firefox "Super &brandShortName;">
+<!ENTITY pref_vendor_feedback "Inviar opinion">
 
+<!ENTITY pref_dialog_set_default "Stabilir como predeterminate">
 <!ENTITY pref_dialog_default "Predefinite">
 <!ENTITY pref_dialog_remove "Remover">
+<!ENTITY pref_dialog_activitystream_header_content "Contento additional">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Paginas marcate recentemente">
 <!ENTITY pref_dialog_activitystream_visited "Visitate">
 
 
 <!ENTITY pref_panels_show "Monstrar">
 <!ENTITY pref_panels_hide "Celar">
+<!ENTITY pref_panels_reorder "Cambiar ordine">
 <!ENTITY pref_panels_move_up "Ascender">
 <!ENTITY pref_panels_move_down "Descender">
 
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Elige que information compartir">
+<!ENTITY datareporting_notification_summary "Pro meliorar tu experientia, &brandShortName; automaticamente invia alcun information a &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -368,6 +392,7 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Reporto de sanitate de &brandShortName;">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
