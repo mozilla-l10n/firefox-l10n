@@ -54,9 +54,7 @@
 <!ENTITY directoriesNone.label                 "Tra ebet">
 <!ENTITY editDirectories.label                 "Aozañ kavlec'hiadoù…">
 <!ENTITY editDirectories.accesskey             "A">
-
-
-
+<!ENTITY showAsDefault.accesskey               "S">
 
 <!ENTITY sendOptionsDescription.label          "Kefluniañ emzalc'h ar mentrezh testenn">
 <!ENTITY sendOptions.label                     "Dibarzhioù kas…">

@@ -1,23 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Koumanantoù da lanvioù">
 <!ENTITY learnMore.label             "Gouzout hiroc'h a-zivout al lanvioù">
 
 <!ENTITY feedTitle.label             "Titl :">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL ar froud:">
+<!ENTITY feedLocation.accesskey      "F">
 <!ENTITY feedLocation.placeholder    "Bizskrivit ur chomlec'h lanv talvoudek da ouzhpennañ">
 <!ENTITY locationValidate.label      "Talvoudañ">
 <!ENTITY validateText.label          "Gwiriañ talvoud al lanv.">
 
 <!ENTITY feedFolder.label            "Gwarediñ pennadoù al lanv e :">
 <!ENTITY feedFolder.accesskey        "n">
-<!-- Account Settings and Subscription Dialog -->
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "a vunutennoù">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "a zevezhioù">
@@ -27,12 +29,12 @@
 <!ENTITY quickMode.label             "Diskouez krennad ar pennad e lec'h kargañ ar bajennad web">
 <!ENTITY quickMode.accesskey         "h">
 
-
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Rakgeriañ ar c'hlavioù gant :">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Enankit ur rakger klav">
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Ouzhpennañ">
 <!ENTITY button.addFeed.accesskey    "O">
 <!ENTITY button.updateFeed.label     "Embann">

@@ -7,11 +7,10 @@
 <!ENTITY itemUpdate.label        "Hizivaat">
 <!ENTITY itemNetworking.label    "Rouedad hag egor war ar gantenn">
 <!ENTITY itemCertificates.label  "Testenioù">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
-
 <!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
@@ -38,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Despizañ penaos e dornatao &brandShortName; an testenioù degemer.">
 <!ENTITY showReturnReceipts.label      "Testenioù-degemer…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName; ">
 <!ENTITY enableTelemetry.label           "Gweredekaat Telemetry">
@@ -51,6 +50,7 @@
 <!ENTITY enableCrashReporter.label       "Gweredekaat an Daneveller Sac'hadennoù">
 <!ENTITY enableCrashReporter.accesskey   "S">
 <!ENTITY crashReporterLearnMore.label    "Gouzout hiroc'h">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -62,6 +62,7 @@
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Handelv ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Staliañ an hizivadurioù ent emgefreek (erbedet : diogelroez gwellaet)">
 <!ENTITY updateAuto.accesskey            "e">
@@ -74,8 +75,8 @@
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Arventennoù…">
 <!ENTITY showSettings.accesskey        "A">
 <!ENTITY proxiesConfigure.label        "Despizañ penaos e kennasko &brandShortName; ouzh internet">
@@ -89,22 +90,22 @@
 <!ENTITY offlineCompactFolders.label     "Koazhañ an holl deuliadoù pa e tieub an dra-se muioc'h eget">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "Me en holl">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Arverañ betek">
 <!ENTITY useCacheBefore.accesskey        "r">
 <!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Tremen dreist ardeiñ emgefreek ar grubuilh">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Skarzhañ diouzhtu">
 <!ENTITY clearCacheNow.accesskey         "S">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad:">
 <!ENTITY certs.auto                      "Diuz unan ent emgefreek">
 <!ENTITY certs.auto.accesskey            "D">

@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Teuliad…">
 <!ENTITY newFolderCmd.accesskey "T">
 <!ENTITY closeTabCmd2.label "Serriñ an ivinell">
@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ar gont bremanel">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "b">
-
-
+<!ENTITY getNextNMsgCmd2.label "Kerc'hat war-lerc'h ar posteloù nevez da-heul">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Kas ar c'hemennadennoù a chom er voestad">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Koumanantiñ …">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "A">
 <!ENTITY printSetupCmd.label "Pajennaozañ…">
 <!ENTITY printSetupCmd.accesskey "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dilemel ar gemennadenn">
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "Adsevel ar gemennadenn">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "z">
 <!ENTITY redoDefaultCmd.label "Adober">
 <!ENTITY redoDefaultCmd.accesskey "r">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Barrenn lañser">
 <!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showMessengerToolbarCmd.label "Barrenn ostilhoù posteloù">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Barrenn ostilhoù penel an teuliadoù">
 <!ENTITY folderPaneBar.accesskey "B">
 <!ENTITY folderModeSelector.label "Gweloù an teuliad">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Rummañ dre">
 <!ENTITY sortMenu.accesskey "R">
 <!ENTITY sortByDateCmd.label "Deiziad">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "o">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Kavout">
 <!ENTITY findMenu.accesskey "K">
 <!ENTITY findCmd.label "Kavout er gemennadenn-mañ …">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Klask chomlec'hioù…">
 <!ENTITY searchAddressesCmd.accesskey "s">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Mont">
 <!ENTITY goMenu.accesskey "M">
 <!ENTITY nextMenu.label "War-lerc'h">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "n">
 <!ENTITY startPageCmd.label "Pajennad deroù ar posteloù">
 <!ENTITY startPageCmd.accesskey "s">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Kemennadenn">
 <!ENTITY msgMenu.accesskey "m">
 <!ENTITY newMsgCmd.label "Kemennadenn nevez">
@@ -366,6 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Embann ar brouilhed kemennadenn">
 <!ENTITY editDraftMsgCmd.accesskey "b">
+<!ENTITY newMsgFromTemplateCmd.label "Kemennadenn nevez diwar ur patrom">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Sevel ur sil diouzh ar gemennadenn…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Dilec'hiañ etrezek">
@@ -443,11 +445,11 @@
 <!ENTITY openFeedSummary.accesskey "n">
 <!ENTITY openFeedWebPageInMP.label "Dazeilañ etre ar bajennad web hag ar c'hrennadur er penel kemennadenn">
 <!ENTITY openFeedWebPageInMP.accesskey "t">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Prenestr">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ostilhoù">
 <!ENTITY tasksMenu.accesskey "O">
 <!ENTITY messengerCmd.label "Posteloù ha strolladoù-keleier">
@@ -493,8 +495,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ostilhoù an diorroer">
 <!ENTITY devtoolsMenu.accesskey "d">
 <!ENTITY devToolboxCmd.label "Barrenn ostilhoù an diorroer">
@@ -509,17 +511,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Bloc'h-notennañ">
 <!ENTITY scratchpadCmd.accesskey "B">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Kerc'hat ar c'hemennadennoù ">
 <!ENTITY newMsgButton.label "Skridaozañ">
 <!ENTITY replyButton.label "Respont">
@@ -556,8 +558,8 @@
 <!ENTITY tagButton.label "Merk">
 <!ENTITY compactButton.label "Koazhañ">
 <!ENTITY appmenuButton.label "Lañser an arloadoù">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Klask kempleshoc'h er c'hemennadennoù">
 <!ENTITY getMsgButton.tooltip "Kerc'hat ar posteloù nevez">
 <!ENTITY getAllNewMsgCmd.label "Kerc'hat an holl bosteloù nevez">
@@ -590,53 +592,53 @@
 <!ENTITY tagButton.tooltip "Merkañ kemennadennoù">
 <!ENTITY compactButton.tooltip "Lemel ar c'hemennadennoù dilamet diouzh an teuliad diuzet">
 <!ENTITY appmenuButton1.tooltip "Diskouez al lañser &brandShortName;">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Treuzkas evel testenn enkorfet">
 <!ENTITY buttonMenuForwardAsAttachment.label "Treuzkas evel kenstagadur">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Diskouez an endalc'hadoù a-bell er gemennadenn-mañ">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "D">
 <!ENTITY editRemoteContentSettings.label "Embann dibarzhioù an endalc'hadoù a-bell…">
 <!ENTITY editRemoteContentSettings.accesskey "E">
 <!ENTITY editRemoteContentSettingsUnix.label "Embann gwellvezioù an endalc'hadoù a-bell…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Leuskel ar c'hemennoù a-gostez evit ar gemennadenn-mañ">
 <!ENTITY phishingOptionIgnore.accesskey "L">
 <!ENTITY phishingOptionSettings.label "Embann an dibarzhioù evit dinoadur ar posteloù flodus">
 <!ENTITY phishingOptionSettings.accesskey "E">
 <!ENTITY phishingOptionSettingsUnix.label "Embann ar gwellvezioù evit dinoadur ar posteloù flodus…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "E">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Kemennadenn nevez">
 <!ENTITY appmenuNewContactCmd.label "Darempred ar c'harned chomlec'hioù …">
 <!ENTITY appmenuEditMenu.label "Embann">
 <!ENTITY appmenuToolbarLayout.label "Aozadur ar varrenn ostilhoù…">
 <!ENTITY appmenuSelectThread.label "Diuzañ an neudenn">
 <!ENTITY appmenuSelectFlagged.label "Diuzañ ar c'hemennadennoù steredek">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Merk nevez…">
 <!ENTITY addNewTag.accesskey "n">
 <!ENTITY manageTags.label "Ardeiñ ar merkoù…">
 <!ENTITY manageTags.accesskey "A">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Anv">
 <!ENTITY folderUnreadColumn.label "Anlennet">
 <!ENTITY folderTotalColumn.label "Hollad">
 <!ENTITY folderSizeColumn.label "Ment">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Paouez gant an holl hizivadurioù">
+<!ENTITY folderContextPauseUpdates.label "Paouez gant an hizivadurioù">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
 <!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">
@@ -671,15 +673,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "T">
 <!ENTITY folderContextSettings2.label "Arventennoù">
 <!ENTITY folderContextSettings2.accesskey "A">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Enderc'hel a ra Anv pe Postel :">
 <!ENTITY SearchNameOrEmail.accesskey "n">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Klask er c'hemennadennoù…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Danvez">
 <!ENTITY searchFromMenu.label "Kaser">
 <!ENTITY searchSubjectOrFromMenu.label "Danvez pe Kaser">
@@ -687,8 +689,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Danvez, Da pe CC">
 <!ENTITY searchMessageBody.label "Kemennadenn a-bezh">
 <!ENTITY saveAsVirtualFolderMenu.label "Enrollañ ar c'hlask evel un teuliad …">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Neudennad">
 <!ENTITY fromColumn.label "Kaser">
 <!ENTITY recipientColumn.label "Degemerer">
@@ -709,8 +711,8 @@
 <!ENTITY locationColumn.label "Lec'hiadur">
 <!ENTITY idColumn.label "Urzh degemer">
 <!ENTITY attachmentColumn.label "Kenstagadurioù">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Diuzañ ar bannoù da ziskouez">
 <!ENTITY threadColumn2.tooltip "Diskouez neudennadoù ar c'hemennadennoù">
 <!ENTITY fromColumn2.tooltip "Rummañ dre gaser">
@@ -732,14 +734,15 @@
 <!ENTITY locationColumn2.tooltip "Rummañ dre lec'hiadur">
 <!ENTITY idColumn2.tooltip "Rummañ dre urzh degemer">
 <!ENTITY attachmentColumn2.tooltip "Rummañ dre genstagadurioù">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Kemennadenn nevez diwar ur patrom">
 <!ENTITY contextOpenNewWindow.label "Digeriñ ar gemennadenn e-barzh ur prenestr nevez">
 <!ENTITY contextOpenNewWindow.accesskey "D">
-<!-- The key potentially conflicts with cutCmd.accessKey which is defined in
-     textcontext.dtd from toolkit. Right now, both menu items can't be visible
-     at the same time, but should someone enable copy/paste of message, this key
-     would probably need to be changed. -->
+<!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
+     cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
+     now, both menu items can't be visible at the same time, but should someone
+     enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Digeriñ ar gemennadenn e-barzh un ivinell nevez">
 <!ENTITY contextOpenNewTab.accesskey "m">
 <!ENTITY contextOpenConversation.label "Digeriñ ar gemennadenn e-barzh ar gaozeadenn">
@@ -791,12 +794,12 @@
 <!ENTITY contextPrint.accesskey "M">
 <!ENTITY contextPrintPreview.label "Alberz moullañ">
 <!ENTITY contextPrintPreview.accesskey "u">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Adderaouekaat ar bannoù dre ziouer">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -837,9 +840,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "An teuliad-mañ">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Lenn">
 <!ENTITY contextPlay.accesskey "L">
 <!ENTITY contextPause.label "Ehan">
@@ -848,12 +851,12 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Heglev">
 <!ENTITY contextUnmute.accesskey "H">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -877,8 +880,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Ouzhpennañ d'ar c'harned chomlec'hioù…">
 <!ENTITY AddToAddressBook.accesskey "O">
 <!ENTITY AddDirectlyToAddressBook.label "Ouzhpennañ d'ar c'harned chomlec'hioù…">
@@ -903,12 +906,12 @@
 <!ENTITY CreateFilterFrom.accesskey "S">
 <!ENTITY reportPhishingURL.label "Danevellañ ur postel c'hwiberezh">
 <!ENTITY reportPhishingURL.accesskey "o">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Ouzhpennañ geriadurioù…">
 <!ENTITY spellAddDictionaries.accesskey "h">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Enrollañ an ere evel…">
 <!ENTITY saveLinkAsCmd.accesskey "E">
 <!ENTITY saveImageAsCmd.label "Enrollañ ar skeudenn evel…">
@@ -927,17 +930,17 @@
 <!ENTITY openInBrowser.accesskey "m">
 <!ENTITY openLinkInBrowser.label "Digeriñ an ere e-barzh ar merdeer">
 <!ENTITY openLinkInBrowser.accesskey "b">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Graet eo">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Bihanaat ar prenestr">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Kas pep tra war ar rakleur">
 <!ENTITY zoomWindow.label "Zoum">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Gwellvezioù">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -949,8 +952,8 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "K">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Diskouez pep tra">
+
 <!-- Mac OS X Dock Icon pop-up menu -->
-
 <!ENTITY dockOptions.label              "Dibarzhioù arlun an arload…">
-
-
+<!ENTITY writeNewMessageDock.label      "Skrivañ ur gemennadenn nevez">
+<!ENTITY openAddressBookDock.label      "Digeriñ karned ar chomlec'hioù">

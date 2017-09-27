@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Kontoù">
 <!ENTITY subscribeImapFolders.label   "Teuliad ardeiñ ar c'houmanantoù">
 <!ENTITY settingsLink.label           "Gwelout arventennoù ar gont-mañ">
-<!ENTITY newAcctLink.label            "Krouiñ ur gont nevez">
-<!ENTITY newAcct.label                "Krouiñ ur gont nevez :">
+<!ENTITY setupNewAcct.label           "Kefluniañ ur gont:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Keweriusterioù kempleshoc'h">
 <!ENTITY searchMsgsLink.label         "Klask er c'hemennadennoù">
