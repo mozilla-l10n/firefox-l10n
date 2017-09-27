@@ -22,6 +22,19 @@
 <!ENTITY showAnimatedAlert.label          "Prikaži upozorenje">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY notificationAlertSettings2.label "Upozorenja i zadani zvukovi se mogu isključiti u okviru obavijesti u postavkama sistema.">
+<!ENTITY customizeMailAlert.label         "Prilagodi…">
+<!ENTITY customizeMailAlert.accesskey     "C">
 
+<!ENTITY showTrayIcon.label               "Prikaži ikonu u sistemskoj traci">
+<!ENTITY showTrayIcon.accesskey           "t">
 
+<!ENTITY play.label                       "Reproduciraj">
+<!ENTITY play.accesskey                   "P">
+<!ENTITY systemsound.label                "Zadani sistemski zvuk za novu poruku">
+<!ENTITY systemsound.accesskey            "y">
+<!ENTITY customsound.label                "Koristi sljedeću zvučnu datoteku">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Odaberi…">
+<!ENTITY browse.accesskey                 "B">
 
+<!ENTITY defaultSearchEngine.label        "Zadani pretraživač">
