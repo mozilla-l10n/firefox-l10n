@@ -175,9 +175,31 @@
 <!ENTITY smiley9Cmd.label "Tz'ub'">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckAddToDictionary.label "Titz'aqatisäx pa Soltzij">
+<!ENTITY spellCheckAddToDictionary.accesskey "o">
+<!ENTITY undo.label "Titzolïx">
+<!ENTITY undo.accesskey "z">
+<!ENTITY cut.label "Tiqupïx">
+<!ENTITY cut.accesskey "x">
+<!ENTITY copy.label "Tiwachib'ëx">
+<!ENTITY copy.accesskey "w">
+<!ENTITY paste.label "Titz'ajb'äx">
+<!ENTITY paste.accesskey "t">
+<!ENTITY pasteQuote.label "Titz'ajb'äx Achi'el Peyonïk">
+<!ENTITY pasteQuote.accesskey "P">
 
+<!ENTITY openAttachment.label "Tijaq">
+<!ENTITY openAttachment.accesskey "j">
+<!ENTITY delete.label "Tiyuj">
+<!ENTITY delete.accesskey "y">
+<!ENTITY renameAttachment.label "Tisik'ïx chik…">
+<!ENTITY renameAttachment.accesskey "c">
+<!ENTITY selectAll.label "Ticha' Ronojel">
+<!ENTITY selectAll.accesskey "R">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Ketz'aqatisäx taq Soltzij…">
+<!ENTITY spellAddDictionaries.accesskey "t">
 
 <!-- Title for the address picker panel -->
 
