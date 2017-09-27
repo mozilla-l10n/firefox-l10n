@@ -241,6 +241,38 @@
 <!ENTITY copyMessageLocation.label "Tiwachib'ëx Ruk'ojlemal Tzijol">
 <!ENTITY copyMessageLocation.accesskey "T">
 <!ENTITY copyMsgToMenu.label "Tiwachib'ëx Chi Re">
+<!ENTITY copyMsgToMenu.accesskey "w">
+<!ENTITY moveToFolderAgain.label "Tisilöx Chik">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "s">
+<!ENTITY tagMenu.label "Etal">
+<!ENTITY tagMenu.accesskey "l">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Tiya' retal">
+<!ENTITY markMenu.accesskey "r">
+<!ENTITY toggleReadCmd.key "l">
+<!ENTITY markAsReadCmd.label "Achi'el Sik'in">
+<!ENTITY markAsReadCmd.accesskey "S">
+<!ENTITY markAsUnreadCmd.label "Achi'el Man Sik'in Ta">
+<!ENTITY markAsUnreadCmd.accesskey "M">
+<!ENTITY markThreadAsReadCmd.label "tzijonem Achi'el Sik'in">
+<!ENTITY markThreadAsReadCmd.accesskey "T">
+<!ENTITY markThreadAsReadCmd.key "j">
+<!ENTITY markReadByDateCmd.label "Achi'el Sik'in chi Q'ijul…">
+<!ENTITY markReadByDateCmd.accesskey "Q">
+<!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Ronojel Sik'in">
+<!ENTITY markAllReadCmd.accesskey "R">
+<!ENTITY markAllReadCmd.key "c">
 
 <!-- Windows Menu -->
 
