@@ -123,15 +123,103 @@
 <!ENTITY unreadMsgsCmd.accesskey "M">
 
 <!ENTITY headersMenu.label "Taq jub'i'aj">
+<!ENTITY headersMenu.accesskey "j">
+<!ENTITY headersAllCmd.label "Ronojel">
+<!ENTITY headersAllCmd.accesskey "R">
+<!ENTITY headersNormalCmd.label "Relik">
+<!ENTITY headersNormalCmd.accesskey "R">
+<!ENTITY bodyMenu.label "Ruch'akulal Tzijol Achi'el">
+<!ENTITY bodyMenu.accesskey "R">
+<!ENTITY bodyAllowHTML.label "Qitzij HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Relik HTML">
+<!ENTITY bodySanitized.accesskey "R">
+<!ENTITY bodyAllParts.label "Ronojel Kiperaj Chakul">
+<!ENTITY bodyAllParts.accesskey "R">
+
+<!ENTITY viewFeedWebPage.label "Ajk'amaya'l Ruxaq">
+<!ENTITY viewFeedWebPage.accesskey "A">
+<!ENTITY viewFeedSummary.label "Ch'utitzijol">
+<!ENTITY viewFeedSummary.accesskey "u">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "B'anikil kan k'o wi">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "B">
 
 
-
+<!ENTITY pageSourceCmd.label "Ruxe'el Tzijol">
+<!ENTITY pageSourceCmd.accesskey "e">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
+<!ENTITY findMenu.label "Tikanöx">
+<!ENTITY findMenu.accesskey "k">
+<!ENTITY findCmd.label "Tikanöx pa re Tzijol re'…">
+<!ENTITY findCmd.accesskey "k">
+<!ENTITY findCmd.key "k">
+<!ENTITY findAgainCmd.label "Tikanöx Chik">
+<!ENTITY findAgainCmd.accesskey "h">
+<!ENTITY findAgainCmd.key "h">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.key "h">
+<!ENTITY findPrevCmd.key2 "VK_F3">
+<!ENTITY searchMailCmd.label "Kekanöx Tzijol…">
+<!ENTITY searchMailCmd.accesskey "T">
+<!ENTITY searchMailCmd.key "f">
+<!ENTITY searchAddressesCmd.label "Kekanöx Ochochib'äl…">
+<!ENTITY searchAddressesCmd.accesskey "K">
 
 <!-- Go Menu -->
+<!ENTITY goMenu.label "Jo'">
+<!ENTITY goMenu.accesskey "J">
+<!ENTITY nextMenu.label "Jun chik">
+<!ENTITY nextMenu.accesskey "J">
+<!ENTITY nextMsgCmd.label "Tzijol">
+<!ENTITY nextMsgCmd.accesskey "T">
+<!ENTITY nextMsgCmd.key "f">
+<!ENTITY nextUnreadMsgCmd.label "Man xsik'ïx ta Tzijol">
+<!ENTITY nextUnreadMsgCmd.accesskey "M">
+<!ENTITY nextUnreadMsgCmd.key "n">
+<!ENTITY prevMenu.label "Chuwäch">
+<!ENTITY prevMenu.accesskey "C">
+<!ENTITY prevMsgCmd.label "Tzijol">
+<!ENTITY prevMsgCmd.accesskey "T">
+<!ENTITY prevMsgCmd.key "b">
+<!ENTITY prevUnreadMsgCmd.label "Man xsik'ïx ta Tzijol">
+<!ENTITY prevUnreadMsgCmd.accesskey "M">
+<!ENTITY prevUnreadMsgCmd.key "p">
+<!ENTITY goForwardCmd.label "Jun chik">
+<!ENTITY goForwardCmd.accesskey "J">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY goBackCmd.label "Chi rij">
+<!ENTITY goBackCmd.accesskey "C">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Chat">
+<!ENTITY goChatCmd.accesskey "c">
+<!ENTITY goChatCmd.key "I">
+<!ENTITY folderMenu.label "Yakwuj">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY goRecentlyClosedTabs.label "Taq Ruwi' k'a b'a' Ketz'apïx">
+<!ENTITY goRecentlyClosedTabs.accesskey "k">
 
 <!-- Message Menu -->
+<!ENTITY msgMenu.label "Tzijol">
+<!ENTITY msgMenu.accesskey "T">
+<!ENTITY newMsgCmd.label "K'ak'a' Rutzijol">
+<!ENTITY newMsgCmd.accesskey "K">
+<!ENTITY newNewMsgCmd.label "Tzijol">
+<!ENTITY newNewMsgCmd.accesskey "T">
+<!ENTITY archiveMsgCmd.label "Yakb'äl">
+<!ENTITY archiveMsgCmd.accesskey "Y">
+<!ENTITY archiveMsgCmd.key "y">
+<!ENTITY cancelNewsMsgCmd.label "Tiq'at Rutzijol">
+<!ENTITY cancelNewsMsgCmd.accesskey "T">
+<!ENTITY replyMsgCmd.label "Titzolïx tzij">
+<!ENTITY replyMsgCmd.accesskey "t">
+<!ENTITY replyMsgCmd.key "t">
+<!ENTITY replyToAllMsgCmd.label "Titzolïx tzij chi ke Konojel">
+<!ENTITY replyToAllMsgCmd.accesskey "z">
+<!ENTITY replyToAllMsgCmd.key "t">
 <!-- do not change "VK_RETURN" -->
 
 <!-- Windows Menu -->
