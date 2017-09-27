@@ -273,25 +273,81 @@
 <!ENTITY markAllReadCmd.label "Ronojel Sik'in">
 <!ENTITY markAllReadCmd.accesskey "R">
 <!ENTITY markAllReadCmd.key "c">
+<!ENTITY openMessageWindowCmd.label "Tijaq Rutzijol">
+<!ENTITY openMessageWindowCmd.accesskey "T">
+<!ENTITY openMessageWindowCmd.key "t">
+<!ENTITY openConversationCmd.label "Tijaq pa Tzijonem">
+<!ENTITY openConversationCmd.accesskey "j">
+<!ENTITY openConversationCmd.key "a">
+<!ENTITY openAttachmentListCmd.label "Taq taqoj">
+<!ENTITY openAttachmentListCmd.accesskey "q">
+<!ENTITY openFeedWebPage.label "Tijaq achi'el Ajk'maya'l Ruxaq">
+<!ENTITY openFeedWebPage.accesskey "A">
+<!ENTITY openFeedSummary.label "Tijaq achi'el Ch'utitzijol">
+<!ENTITY openFeedSummary.accesskey "C">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "Window">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Taq samajib'äl">
+<!ENTITY tasksMenu.accesskey "s">
+<!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
+<!ENTITY addressBookCmd.accesskey "K">
+<!ENTITY addressBookCmd.key "K">
+<!ENTITY addons.label "Taq tz'aqat">
+<!ENTITY addons.accesskey "t">
+<!ENTITY activitymanager.label "Runuk'samajel Samaj">
+<!ENTITY activitymanager.accesskey "j">
+<!ENTITY imAccountsStatus.label "Rub'anikil Chat">
+<!ENTITY imAccountsStatus.accesskey "C">
+<!ENTITY imStatus.available          "Wachel">
+<!ENTITY imStatus.unavailable        "Man wachel ta">
+<!ENTITY imStatus.offline            "Chupül">
+<!ENTITY imStatus.showAccounts       "Kek'ut Kib'i' Taqoya'l…">
+<!ENTITY joinChatCmd.label "Tatunu' awi' pa Chat…">
+<!ENTITY joinChatCmd.accesskey "t">
+<!ENTITY savedFiles.label "Xeyak taq Yakb'äl">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Kichayub'al Tzijol">
+<!ENTITY filtersCmd2.accesskey "K">
+<!ENTITY importCmd.label "Tijik' pe…">
+<!ENTITY importCmd.accesskey "j">
+<!ENTITY clearRecentHistory.label "Tiyuj ri K'ak'a' Natab'äl…">
+<!ENTITY clearRecentHistory.accesskey "N">
+<!ENTITY accountManagerCmd2.label "Kinuk'ulem Rub'i' Taqoya'l">
+<!ENTITY accountManagerCmd2.accesskey "K">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "T">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Taq Rusamajib'al Nuk'unel">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY errorConsoleCmd.label "Kitemeb'al Sachoj">
+<!ENTITY errorConsoleCmd.accesskey "S">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Tz'etel samaj">
+<!ENTITY scratchpadCmd.accesskey "T">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Tik'ul Rutzijol">
+<!ENTITY newMsgButton.label "Titz'ib'äx">
+<!ENTITY replyButton.label "Titzolïx tzij">
+<!ENTITY replyAllButton.label "Titzolïx tzij chi ke Konojel">
+<!ENTITY replyListButton.label "Titzolïx tzij chi re ri Cholb'äl">
 
 <!-- Mail Toolbar Tooltips-->
 
