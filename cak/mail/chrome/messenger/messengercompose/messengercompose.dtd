@@ -202,7 +202,9 @@
 <!ENTITY spellAddDictionaries.accesskey "t">
 
 <!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Kib'i' achib'il">
 
 <!-- Identity popup customize menuitem -->
 
 <!-- Status Bar -->
+<!ENTITY encodingStatusPanel.tooltip "Rucholajil rucholajem tzij">
