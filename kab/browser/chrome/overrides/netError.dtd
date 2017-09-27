@@ -21,6 +21,14 @@
 <!ENTITY dnsNotFound.pageTitle "Ulac aqeddac">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmmm. Nesɛa uguren akken ad naf asmel.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>ma tella tansa-agi d tameɣtut, llan tɣawsiwin nniḍen ara tɛarḍeḍ:</strong>
+<ul>
+  <li>Σreḍ ikelt niḍen.</li>
+  <li>Senqed tuqna inek internet.</li>
+  <li>Ma telliḍ teqneḍ maca s firewall, senqedd akken &brandShortName; isεa isirag n unekcum γer Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
 <!ENTITY fileNotFound.longDesc "<ul><li>Senqed isem n ufaylu ma yura s isekkilen meqqṛen neɣ meẓẓiyen neɣ tuccdiwin n tira nniḍen.</li><li>Senqed ma yella afaylu ur ittusenkez ara, ur ittusnifel ara neɣ ur ittwakkes ara.</li></ul>">
