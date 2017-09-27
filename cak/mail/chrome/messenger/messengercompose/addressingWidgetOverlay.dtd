@@ -7,7 +7,7 @@
 <!ENTITY toAddr.label   "Chi re:"> 
 <!ENTITY ccAddr.label   "Cc:"> 
 <!ENTITY bccAddr.label  "Bcc:"> 
- 
- 
+<!ENTITY replyAddr.label   "Titzolïx Tzij Chi Re:"> 
+<!ENTITY newsgroupsAddr.label   "Rumolaj tzijol:"> 
  
 
