@@ -20,14 +20,18 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Visiter ce site pourrait endommager votre ordinateur">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; a bloqué cette page, car elle pourrait tenter d’installer un logiciel malveillant capable de dérober ou supprimer des données personnelles sur votre ordinateur.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme contenant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a> ou <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme contenant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
 
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Ce site peut contenir des programmes dangereux">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; a bloqué cette page, car elle pourrait vous faire installer des programmes capables de nuire à votre navigation à votre insu (par exemple en modifiant votre page d’accueil ou en ajoutant des publicités sur les sites que vous visitez).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
