@@ -189,6 +189,10 @@
 <!ENTITY pref_category_logins "Authenticationes">
 <!ENTITY pref_learn_more "Apprender plus">
 <!ENTITY pref_category_installed_search_engines "Motores de recerca installate">
+<!ENTITY pref_category_add_search_providers "Adder plus provideres de recerca">
+<!ENTITY pref_category_search_restore_defaults "Restaurar motores de recerca">
+<!ENTITY pref_search_restore_defaults "Restaurar le predefinitiones">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar le predefinitiones">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -198,22 +202,31 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Restaurar schedas, magazinos de datos, instrumentos de disveloppator">
 <!ENTITY pref_category_notifications "Notificationes">
+<!ENTITY pref_category_notifications_summary "Nove functionalitates, actualisationes de sitos del web">
 <!ENTITY pref_developer_remotedebugging_usb "Depuration remote via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuration remote via Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le depuration per Wi-Fi require que tu apparato ha un application pro lector de codices QR installate.">
 <!ENTITY pref_remember_signons2 "Memorar authenticationes">
 <!ENTITY pref_manage_logins "Gerer authenticationes">
 
 <!ENTITY pref_category_home "Initio">
+<!ENTITY pref_category_home_summary "Personalisa tu pagina de initio">
 <!ENTITY pref_category_home_panels "Pannellos">
+<!ENTITY pref_category_home_add_ons "Additivos">
+<!ENTITY pref_home_updates2 "Actualisationes de contento">
 <!ENTITY pref_home_updates_enabled "Activate">
+<!ENTITY pref_home_updates_wifi "Solmente per Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pagina initial">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Usar tamben pro schedas nove">
 <!ENTITY home_homepage_title "Definir un pagina initial">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; Domo">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -224,6 +237,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Inscriber adresse o termino de recerca">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "General">
@@ -243,50 +257,83 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Repositorio de datos">
 <!ENTITY pref_category_media "Medios">
 <!ENTITY pref_category_developer_tools "Instrumentos de disveloppator">
 
 <!ENTITY pref_tap_to_load_images_title2 "Monstrar imagines">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
+<!ENTITY pref_tap_to_load_images_data "Solmente per Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocate">
 
+<!ENTITY pref_show_web_fonts "Monstrar typos de characteres de sito del web">
+<!ENTITY pref_show_web_fonts_summary2 "Discargar typos de characteres remote quando cargante un pagina">
 
+<!ENTITY pref_tracking_protection_title2 "Protection contra le traciamento">
+<!ENTITY pref_donottrack_title "Non traciar">
+<!ENTITY pref_donottrack_summary "&brandShortName; indicara a sitos que tu non vole ser traciante">
 
+<!ENTITY pref_tracking_protection_enabled "Activate">
+<!ENTITY pref_tracking_protection_enabled_pb "Activate in navigation private">
+<!ENTITY pref_tracking_protection_disabled "Disactivate">
 
+<!ENTITY pref_whats_new_notification "Qual es le novas in &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Apprender super functionalitates nove depost un actualisation">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Functionalitates experimental">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Aperir in &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL copiate">
 
+<!ENTITY pref_pwa "Applicationes web progressive">
 
+<!ENTITY tracking_protection_prompt_title "Ora con protection contra traciamento">
+<!ENTITY tracking_protection_prompt_text "Blocar activemente elementos de traciamento pro que tu non ha timer.">
+<!ENTITY tracking_protection_prompt_tip_text "Visita configurationes de privatia pro apprender plus">
+<!ENTITY tracking_protection_prompt_action_button "Io lo comprendeva!">
 
+<!ENTITY tab_queue_toast_message3 "Scheda salvate in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Aperir ora">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_negative_action_button "Non ora">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Ir a configurationes">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; schedas attendente">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 scheda attendente">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
+<!ENTITY pref_char_encoding "Codification de characteres">
+<!ENTITY pref_char_encoding_on "Monstrar menu">
+<!ENTITY pref_char_encoding_off "Non monstrar menu">
+<!ENTITY pref_clear_private_data2 "Clarar datos private">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Clarar ora">
+<!ENTITY pref_clear_on_exit_title3 "Clarar datos private in exito">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; Clarara automaticamente tu datos sempre quando tu selige \&quot;Quitar\&quot; del menu principal">
+<!ENTITY pref_clear_on_exit_dialog_title "Seliger que datos clarar">
 <!ENTITY pref_restore_tabs "Restaurar schedas">
 <!ENTITY pref_restore_always "Sempre restaurar">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Usar le mesura de typos de characteres del systema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitter autoreproducer">
 <!ENTITY pref_qrcode_enabled "Lector de codices QR">

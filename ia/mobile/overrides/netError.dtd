@@ -54,12 +54,17 @@
 
 
 
+<!ENTITY nssBadCert.title "Connexion secur fallite">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 
+<!ENTITY securityOverride.linkText "O tu pote adder un exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Porta me foras de hic!">
+<!ENTITY securityOverride.exceptionButtonLabel "Adder un exception…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -67,12 +72,18 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 
+<!ENTITY remoteXUL.title "XUL remote">
 
+<!ENTITY sslv3Used.title "Incapace de connecter se securmente">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Info avantiate: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Information avantiate: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
