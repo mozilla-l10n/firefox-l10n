@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ditambahkan pada">
 <!ENTITY col.lastmodified.label  "Modifikasi Terakhir">
 
-<!ENTITY search.placeholder  "Cari">
+<!ENTITY historySearch.placeholder  "Cari riwayat">
+<!ENTITY bookmarksSearch.placeholder  "Cari markah">
 
 <!ENTITY cmd.find.key  "f">
 
