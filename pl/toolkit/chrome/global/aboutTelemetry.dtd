@@ -13,6 +13,8 @@
 <!ENTITY aboutTelemetry.optionGroupYesterday "Wczoraj">
 <!ENTITY aboutTelemetry.optionGroupOlder "Starsze">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Zawartość">
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Dane telemetrii">
 <!ENTITY aboutTelemetry.moreInformations "Szukasz dalszych informacji?">
@@ -22,6 +24,7 @@
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otwórz w przeglądarce JSON-a">
 
+<!ENTITY aboutTelemetry.homeSection "Start">
 <!ENTITY aboutTelemetry.generalDataSection "Ogólne">
 <!ENTITY aboutTelemetry.environmentDataSection "Dane środowiska">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informacje o sesji">
