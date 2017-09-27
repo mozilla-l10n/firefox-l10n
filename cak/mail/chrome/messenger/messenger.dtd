@@ -348,8 +348,52 @@
 <!ENTITY replyButton.label "Titzolïx tzij">
 <!ENTITY replyAllButton.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY replyListButton.label "Titzolïx tzij chi re ri Cholb'äl">
+<!ENTITY forwardButton.label "Jun chik">
+<!ENTITY fileButton.label "Yakb'äl">
+<!ENTITY archiveButton.label "Yakb'äl">
+<!ENTITY openConversationButton.label "Tzijonem">
+<!ENTITY nextButton.label "Jun chik">
+<!ENTITY nextButtonToolbarItem.label "Jun chik Man Sik'in Ta">
+<!ENTITY nextMsgButton.label "Jun chik">
+<!ENTITY previousButton.label "Chuwäch">
+<!ENTITY previousButtonToolbarItem.label "Chuwäch Man Sik'in Ta">
+<!ENTITY previousMsgButton.label "Chuwäch">
+<!ENTITY backButton1.label "Chi rij">
+<!ENTITY goForwardButton1.label "Jun chik">
+<!ENTITY deleteItem.title "Tiyuj">
+<!ENTITY deleteButton.label "Tiyuj">
+<!ENTITY markButton.label "Tiya' retal">
+<!ENTITY printButton.label "Titz'ajb'äx">
+<!ENTITY stopButton.label "Tiq'at">
+<!ENTITY throbberItem.title "K'utunel Samaj">
+<!ENTITY junkItem.title "Seq'">
+<!ENTITY junkButton.label "Seq'">
+<!ENTITY notJunkButton.label "Man Seq' Ta">
+<!ENTITY addressBookButton.label "Kiwujil taq Ochochib'äl">
+<!ENTITY chatButton.label "Chat">
+<!ENTITY glodaSearch.title "Chijun Kanoxïk">
+<!ENTITY searchItem.title "Anin Kanoxïk">
+<!ENTITY folderLocationToolbarItem.title "Ruk'ojlib'al Yakwuj">
+<!ENTITY tagButton.label "Etal">
+<!ENTITY compactButton.label "Tz'aqatz'öj">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY getMsgButton.tooltip "Kek'ul k'ak'a' taq tzijol">
+<!ENTITY getAllNewMsgCmd.label "Kek'ul Ronojel K'ak'a' taq Tzijol">
+<!ENTITY getAllNewMsgCmd.accesskey "K">
+<!ENTITY newMsgButton.tooltip "Titz'uk jun k'ak'a' tzijol">
+<!ENTITY replyButton.tooltip "Titzolïx tzij chi re ri rutzijol">
+<!ENTITY fileButton.tooltip "Tiyak cha'on tzijol">
+<!ENTITY archiveButton.tooltip "Keyak cha'on taq tzijol">
+<!ENTITY openConversationButton.tooltip "Tik'ut rutzijonem cha'on tzijol">
+<!ENTITY goForwardButton.tooltip "Jun chik rutzijol">
+<!ENTITY goBackButton.tooltip "Titzolïx jun rutzijol">
+<!ENTITY deleteButton.tooltip "Tiyuj cha'on tzijol o yakwuj">
+<!ENTITY markButton.tooltip "Tiya' ketal taq tzijol">
+<!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
+<!ENTITY addressBookButton.tooltip "Tib'e pa ri kiwujil ochochib'äl">
+<!ENTITY chatButton.tooltip "Tik'ut ri Chat tab">
 
 <!-- Toolbar Button Popup -->
 
