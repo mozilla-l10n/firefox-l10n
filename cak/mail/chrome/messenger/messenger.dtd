@@ -220,7 +220,27 @@
 <!ENTITY replyToAllMsgCmd.label "Titzolïx tzij chi ke Konojel">
 <!ENTITY replyToAllMsgCmd.accesskey "z">
 <!ENTITY replyToAllMsgCmd.key "t">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY replyToListMsgCmd.label "Titzolïx tzij chi re ri Cholb'äl">
+<!ENTITY replyToListMsgCmd.accesskey "C">
+<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.label "Jun chik">
+<!ENTITY forwardMsgCmd.accesskey "J">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Jun chik Achi'el">
+<!ENTITY forwardAsMenu.accesskey "c">
+<!ENTITY forwardAsAttachmentCmd.label "Taqoj">
+<!ENTITY forwardAsAttachmentCmd.accesskey "T">
+<!ENTITY editAsNewMsgCmd.label "Tinuk' Achi'el K'ak'a' Tzijol">
+<!ENTITY editAsNewMsgCmd.accesskey "n">
+<!ENTITY editAsNewMsgCmd.key "a">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY moveMsgToMenu.label "Tiq'asäx Pa">
+<!ENTITY moveMsgToMenu.accesskey "q">
+<!ENTITY moveCopyMsgRecentMenu.label "K'ak'a'">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "K">
+<!ENTITY copyMessageLocation.label "Tiwachib'ëx Ruk'ojlemal Tzijol">
+<!ENTITY copyMessageLocation.accesskey "T">
+<!ENTITY copyMsgToMenu.label "Tiwachib'ëx Chi Re">
 
 <!-- Windows Menu -->
 
