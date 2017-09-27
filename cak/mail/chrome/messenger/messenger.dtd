@@ -112,7 +112,17 @@
 <!ENTITY sortByFromCmd.label "Richin">
 <!ENTITY sortByFromCmd.accesskey "R">
 <!ENTITY sortByRecipientCmd.label "K'ulunel">
+<!ENTITY sortByRecipientCmd.accesskey "n">
+<!ENTITY sortByUnreadCmd.label "Tisik'ïx">
+<!ENTITY sortByUnreadCmd.accesskey "s">
+<!ENTITY msgsMenu.label "Taq tzijol">
+<!ENTITY msgsMenu.accesskey "t">
+<!ENTITY allMsgsCmd.label "Ronojel">
+<!ENTITY allMsgsCmd.accesskey "R">
+<!ENTITY unreadMsgsCmd.label "Man sik'in ta">
+<!ENTITY unreadMsgsCmd.accesskey "M">
 
+<!ENTITY headersMenu.label "Taq jub'i'aj">
 
 
 
