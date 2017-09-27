@@ -6,6 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Désolé, nous ne parvenons pas à récupérer vos pages.">
+<!ENTITY restorepage.problemDesc2   "Nous rencontrons des difficultés à restaurer votre dernière session de navigation. Sélectionnez Restaurer la session pour réessayer.">
+<!ENTITY restorepage.tryThis2       "Vous ne parvenez toujours pas à restaurer votre session ? Certains onglets sont parfois à l’origine du problème. Avant de réessayer, passez en revue les onglets de votre dernière session et décochez ceux dont vous n’avez pas besoin.">
 
 <!ENTITY restorepage.tryagainButton2 "Restaurer la session">
 <!ENTITY restorepage.restore.access2 "R">
