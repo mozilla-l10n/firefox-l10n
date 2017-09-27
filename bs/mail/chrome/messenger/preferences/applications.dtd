@@ -23,5 +23,16 @@
 <!ENTITY chooseFolderMac.accesskey    "C">
 
 <!ENTITY attachments.incoming.label   "Dolazni">
+<!ENTITY attachments.outgoing.label   "Odlazni">
 
+<!ENTITY addCloudFileAccount1.label       "Dodaj…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
+<!ENTITY addCloudFileAccount.description  "Dodaj novu Filelink uslugu pohrane">
+<!ENTITY removeCloudFileAccount.label     "Ukloni">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Potrebno je vaše odobrenje kako bi vidjeli postavke ove usluge pohrane.">
+<!ENTITY authRequired.button.label        "Odobri">
+<!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY enableCloudFileAccountOffer.label "Ponuda za razmjenu datoteka većih od">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
