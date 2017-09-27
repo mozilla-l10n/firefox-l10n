@@ -111,22 +111,68 @@
 <!ENTITY autoFormatCmd.label "Titz'et pa ruyonil">
 <!ENTITY autoFormatCmd.accesskey "t">
 <!ENTITY priorityMenu.label "Ya'on ruq'ij">
+<!ENTITY priorityMenu.accesskey "y">
+<!ENTITY priorityButton.title "Ya'on ruq'ij">
+<!ENTITY priorityButton.label "Ya'on ruq'ij:">
+<!ENTITY normalPriorityCmd.label "Relik">
+<!ENTITY normalPriorityCmd.accesskey "r">
+<!ENTITY fileCarbonCopyCmd.label "Titaq jun Wachib'äl Chi Re">
+<!ENTITY fileCarbonCopyCmd.accesskey "q">
+<!ENTITY fileHereMenu.label "Yakb'äl Wawe'">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Taq samajib'äl">
+<!ENTITY tasksMenu.accesskey "s">
+<!ENTITY messengerCmd.commandkey "1">
+<!ENTITY addressBookCmd.label "Kiwujil taq Ochochib'äl">
+<!ENTITY addressBookCmd.accesskey "o">
+<!ENTITY addressBookCmd.key "K">
+<!ENTITY accountManagerCmd2.label "Kinuk'ulem Rub'i' Taqoya'l">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY preferencesCmd2.label "Taq cha'oj">
+<!ENTITY preferencesCmd2.accesskey "o">
+<!ENTITY preferencesCmdUnix.label "Taq ajowab'äl">
+<!ENTITY preferencesCmdUnix.accesskey "w">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Ch'utinarisaxïk">
+<!ENTITY bringAllToFront.label "Tik'am pe Ronojel Chuwäch">
+<!ENTITY zoomWindow.label "Sum">
+<!ENTITY windowMenu.label "Window">
 
 <!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Titaq">
+<!ENTITY addressButton.label "Kib'i' achib'il">
+<!ENTITY saveButton.label "">
+<!ENTITY printButton.label "Titz'ajb'äx">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Titaq re rutzijol re' wakami">
+<!ENTITY sendlaterButton.tooltip "Titaq re rutzijol re' b'a' chik na">
+<!ENTITY saveButton.tooltip "Titaq re rutzijol re'">
+<!ENTITY cutButton.tooltip              "Tiqupïx">
+<!ENTITY copyButton.tooltip             "Tiwachib'ëx">
+<!ENTITY pasteButton.tooltip            "Titz'ajb'äx">
+<!ENTITY printButton.tooltip "Titz'ajb'äx re rutzijol re'">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY fromAddr.label "Richin:">
+<!ENTITY fromAddr.accesskey "c">
+<!ENTITY toAddr.label "Chi re:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Bcc:">
+<!ENTITY replyAddr.label "Titzolïx Tzij Chi Re:">
+<!ENTITY newsgroupsAddr.label "Rumolaj tzijol:">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY smiley3Cmd.label "Win">
+<!ENTITY smiley9Cmd.label "Tz'ub'">
 
 <!-- Message Pane Context Menu -->
 
