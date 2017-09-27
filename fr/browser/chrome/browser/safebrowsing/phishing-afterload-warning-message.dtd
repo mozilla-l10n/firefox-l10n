@@ -24,9 +24,9 @@
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme contenant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a> ou <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.override "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme comportant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a> ou <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
 
-<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme contenant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme comportant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
 
 
 
@@ -35,14 +35,18 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> a été <a id='error_desc_link'>signalé comme comportant des logiciels dangereux</a>. Vous pouvez <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> a été <a id='error_desc_link'>signalé comme comportant des logiciels dangereux</a>.">
 
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Ce site est trompeur">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> a été <a id='error_desc_link'>signalé comme étant un site trompeur</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a> ou <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> a été <a id='error_desc_link'>signalé comme étant un site trompeur</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
 
 
 
@@ -50,5 +54,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; a bloqué cette page, car elle pourrait tenter d’installer des logiciels dangereux capables de dérober ou supprimer vos données (par exemple vos photos, mots de passe, messages ou cartes bancaires).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> a été <a id='error_desc_link'>signalé comme pouvant comporter une application potentiellement dangereuse</a>. Vous pouvez <a id='ignore_warning_link'>ignorer cet avertissement</a> et poursuivre vers ce site non sécurisé.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> a été <a id='error_desc_link'>signalé comme pouvant comporter une application potentiellement dangereuse</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Pour en savoir plus sur le système de protection contre le hameçonnage et les logiciels malveillants de &brandShortName; vous pouvez consulter <a id='firefox_support'>support.mozilla.org</a>.">
