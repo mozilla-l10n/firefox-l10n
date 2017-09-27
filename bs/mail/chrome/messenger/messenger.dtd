@@ -194,6 +194,35 @@
 <!ENTITY sortByFromCmd.label "Šalje">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Primatelj">
+<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByCorrespondentCmd.label "Dopisnici">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
+<!ENTITY sortByUnreadCmd.label "Pročitano">
+<!ENTITY sortByUnreadCmd.accesskey "R">
+<!ENTITY sortByOrderReceivedCmd.label "Redoslijed primanja">
+<!ENTITY sortByOrderReceivedCmd.accesskey "O">
+<!ENTITY sortAscending.label "Uzlazno">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Silazno">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Po nitima">
+<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortUnthreaded.label "Bez niti">
+<!ENTITY sortUnthreaded.accesskey "h">
+<!ENTITY groupBySort.label "Grupirano prema vrsti">
+<!ENTITY groupBySort.accesskey "G">
+<!ENTITY msgsMenu.label "Poruke">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Niti">
+<!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Sve">
+<!ENTITY allMsgsCmd.accesskey "A">
+<!ENTITY expandAllThreadsCmd.label "Proširi sve niti">
+<!ENTITY expandAllThreadsCmd.accesskey "e">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Skupi sve niti">
+<!ENTITY collapseAllThreadsCmd.accesskey "k">
+<!ENTITY collapseAllThreadsCmd.key "\">
 
 
 
