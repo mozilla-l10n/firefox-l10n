@@ -33,7 +33,9 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> એ <a id='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે</a>. તમે <a id='ignore_warning_link'>જોખમને અવગણો</a> અને આ અસુરક્ષિત સાઇટ પર જઈ શકો છો.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> એ <a id='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે </a>.">
 
 
 
