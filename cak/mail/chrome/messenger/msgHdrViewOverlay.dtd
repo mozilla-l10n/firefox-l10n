@@ -1,0 +1,41 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY toField4.label "Chi re">
+<!ENTITY fromField4.label "Richin">
+<!ENTITY senderField4.label "Taqonel">
+<!ENTITY author.label "B'anel">
+<!ENTITY organizationField4.label "Moloj">
+<!ENTITY replyToField4.label "Titzolïx tzij chi re">
+
+<!ENTITY subjectField4.label "Taqikil">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Bcc">
+<!ENTITY newsgroupsField4.label "Rumolaj tzijol">
+<!ENTITY followupToField4.label "Titaq chik chi re">
+<!ENTITY tagsHdr4.label "Taq etal">
+<!ENTITY dateField4.label "Q'ijul">
+<!ENTITY userAgentField4.label "Rub'anel winäq">
+<!ENTITY referencesField4.label "Taq retal">
+<!ENTITY messageIdField4.label "Tzijol ID">
+<!ENTITY inReplyToField4.label "Chi rutzolixik tzij chi re">
+<!ENTITY originalWebsite4.label "Ruxaq Ajk'amaya'l">
+
+<!ENTITY hdrArchiveButton1.label "Yakb'äl">
+<!ENTITY hdrArchiveButton1.tooltip "Tiyak re tzijol re'">
+<!ENTITY hdrOpenConversationButton1.label "Tzijonem">
+<!ENTITY hdrOpenConversationButton1.tooltip "Tik'ut rutzijonem re tzijol re'">
+<!ENTITY hdrSmartReplyButton1.label "Na'owinäq taq Tzolin Tzij">
+<!ENTITY hdrReplyButton1.label "Titzolïx tzij">
+
+
+
+<!-- Attachment bar context menu items -->
+
+<!-- Attachment context menu items -->
+
+
+<!-- Attachment toolbar items -->
+
+
