@@ -19,7 +19,7 @@
 <!ENTITY safeb.palm.advisory.desc2 "Rådgivning leveres af <a id='advisory_provider'/>">
 
 
-<!ENTITY safeb.blocked.malwarePage.title2 "Det kan skade din computer at "besøge dette websted">
+<!ENTITY safeb.blocked.malwarePage.title2 "Det kan skade din computer at besøge dette websted">
 <!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; blokerede denne side, fordi den måske vil forsøge at installere skadelig software, der kan stjæle eller slette personlig information på din computer.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->

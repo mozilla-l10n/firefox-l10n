@@ -15,9 +15,6 @@
 <!ENTITY  trackingProtectionExceptions.label   "Undtagelser…">
 <!ENTITY  trackingProtectionExceptions.accesskey "u">
 
-<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
-<!ENTITY trackingProtectionPBM5.label         "Brug beskyttelse mod sporing i private vinduer">
-<!ENTITY trackingProtectionPBM5.accesskey     "p">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester">
 <!ENTITY trackingProtectionPBM6.accesskey     "p">
