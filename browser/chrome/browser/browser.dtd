@@ -97,7 +97,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Жабылған бетті қайтару">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "л">
 
-<!ENTITY pageSourceCmd.label "Парақтың бастапқы коды">
+<!ENTITY pageSourceCmd.label "Беттің бастапқы коды">
 <!ENTITY pageSourceCmd.accesskey "б">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -107,7 +107,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "ж">
 
-<!ENTITY pageInfoCmd.label "Парақ туралы ақпарат">
+<!ENTITY pageInfoCmd.label "Бет ақпараты">
 <!ENTITY pageInfoCmd.accesskey "а">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Айналы бет">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
 <!ENTITY fullScreenRestore.tooltip "Қалпына келтіру">
 <!ENTITY fullScreenClose.tooltip "Жабу">
-<!ENTITY fullScreenAutohide.label "Құралдар панелдерін жасыру">
+<!ENTITY fullScreenAutohide.label "Құралдар панельдерін жасыру">
 <!ENTITY fullScreenAutohide.accesskey "С">
 <!ENTITY fullScreenExit.label "Толық экран режимінен шығу">
 <!ENTITY fullScreenExit.accesskey "Т">
@@ -174,8 +174,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Бетбелгіні түзету">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY subscribeToPageMenupopup.label "Бұл параққа жазылу">
-<!ENTITY subscribeToPageMenuitem.label "Жаңалықтар таспаларына жазылу…">
+<!ENTITY subscribeToPageMenupopup.label "Бұл бетке жазылу">
+<!ENTITY subscribeToPageMenuitem.label "Бұл бетке жазылу…">
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
 <!ENTITY recentBookmarks.label "Соңынан қосылғандар">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Құралдар">
-<!ENTITY toolsMenu.accesskey          "С">
+<!ENTITY toolsMenu.accesskey          "л">
 
 <!ENTITY keywordfield.label           "Осы ізденісті белгілейтін кілт сөзін енгізу…">
 <!ENTITY keywordfield.accesskey       "к">
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.label         "Түрі">
 <!ENTITY viewMenu.accesskey       "р">
 <!ENTITY viewToolbarsMenu.label       "Құралдар панельдері">
-<!ENTITY viewToolbarsMenu.accesskey     "С">
+<!ENTITY viewToolbarsMenu.accesskey     "л">
 <!ENTITY viewSidebarMenu.label "Бүйір панелі">
 <!ENTITY viewSidebarMenu.accesskey "Б">
 <!ENTITY viewCustomizeToolbar.label       "Баптау…">
