@@ -18,17 +18,15 @@
 <!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.Pagetitle "Serveren blev ikke fundet">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm. Den side kan vi ikke finde…">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Hvis adressen er korrekt, så er der tre ting, du kan gøre:</strong>
 <ul>
-  <li>Kontrollér, om adressen indeholder tastefejl, fx 
-    <strong>ww</strong>.eksempel.dk i stedet for 
-    <strong>www</strong>.eksempel.dk</li> 
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, så
-    kontrollér din computers netværksforbindelse.</li> 
-  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, 
-    så kontrollér, om &brandShortName;  har tilladelse til at tilgå nettet
-    i firewallen eller proxyens indstillinger.</li>
+  <li>Prøv igen senere.</li>
+  <li>Kontroller din internetforbindelse.</li>
+  <li>Undersøg om &brandShortName; har tilladelse til at gå på nettet, hvis du er bag en firewall..</li>
 </ul>
 ">
 
@@ -57,17 +55,9 @@
 <p>Dette netværk kræver, at du skal logge ind for at bruge internettet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label2 "Åbn netværkets login-side">
-
-<!ENTITY malformedURI.title "Adressen er ikke gyldig">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Webadresser skrives normalt som
-    <strong>http://www.eksempel.dk/</strong></li>
-  <li>Sørg for at du ikke benytter divisionstegn (dvs.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!ENTITY malformedURI.pageTitle "Udgyldig URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Den adresse ser ikke rigtig ud.">
 
 <!ENTITY netInterrupt.title "Forbindelsen blev afbrudt">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
