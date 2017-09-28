@@ -29,6 +29,7 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "આ તૈચાર કરેલ રૂપરેખાંકન માટે ડેટા અહેવાલ અક્ષમ કરેલું છે">
 
+<!ENTITY enableHealthReport2.label       "મંજૂરી આપો &brandShortName; Mozilla ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે">
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "વધારે શીખો">
 
