@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "תוספות">
 <!ENTITY aboutAddons.header2                    "התוספות שלך">
-<!ENTITY aboutAddons.options                    "אפשרויות">
 
 <!ENTITY addonAction.enable                     "הפעל">
 <!ENTITY addonAction.disable                    "נטרל">
 <!ENTITY addonAction.uninstall                  "הסר">
 <!ENTITY addonAction.undo                       "ביטול">
+<!ENTITY addonAction.update                     "עדכון">
 
 <!ENTITY addonUnsigned.message                  "לא ניתן לאמת תוסף זה על־ידי &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "מידע נוסף">
