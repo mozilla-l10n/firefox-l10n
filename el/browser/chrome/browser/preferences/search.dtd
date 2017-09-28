@@ -4,6 +4,7 @@
 
 <!ENTITY searchBar.label                       "Γραμμή αναζήτησης">
 
+<!ENTITY searchBar.shown.label                 "Προσθήκη της μπάρας αναζήτησης στην εργαλειοθήκη">
 
 <!ENTITY defaultSearchEngine.label             "Προεπιλεγμένη μηχανή αναζήτησης">
 
