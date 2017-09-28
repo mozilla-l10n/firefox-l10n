@@ -9,7 +9,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Halaman Permulaan">
+<!ENTITY abouthome.pageTitle "Halaman Permulaan &brandFullName;">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -31,7 +31,7 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Keutamaan">
 <!ENTITY abouthome.addonsButton.label    "Add-ons">
-<!ENTITY abouthome.downloadsButton.label "Muat Turun">
+<!ENTITY abouthome.downloadsButton.label "Muat turun">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for

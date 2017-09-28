@@ -24,7 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "Tetapan halaman">
 
 <!ENTITY searchreset.noChangeButton        "Jangan Ubah">
-<!ENTITY searchreset.noChangeButton.access "D">
+<!ENTITY searchreset.noChangeButton.access "J">
 
 <!ENTITY searchreset.changeEngineButton        "Tukar Enjin Carian">
 <!ENTITY searchreset.changeEngineButton.access "C">
