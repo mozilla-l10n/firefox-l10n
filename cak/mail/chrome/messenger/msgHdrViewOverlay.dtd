@@ -34,6 +34,7 @@
 <!ENTITY hdrReplyListButton1.label "Titzolïx tzij chi re ri Cholb'äl">
 <!ENTITY hdrReplyListButton1.tooltip "Titzolïx tzij chi re jun kicholb'al taqotz'ib'">
 <!ENTITY hdrFollowupButton1.label "Tizolïx tzij">
+<!ENTITY hdrFollowupButton1.tooltip "Titalüx rutzijol jun tzolin tzij pa re kimolaj tzijol re'">
 <!ENTITY hdrMenuForwardButton.label "Titaq chik Achi'el">
 <!ENTITY hdrForwardButton1.label "Titaq chik">
 <!ENTITY hdrForwardButton1.tooltip "Titaq chik re rutzijol re'">
@@ -71,11 +72,40 @@
 <!ENTITY otherActionsPrint1.accesskey "z">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Kek'ut taq Kitz'etoj Tz'aqatisan pa Rutikirib'al">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Tijaq">
+<!ENTITY openAttachmentCmd.accesskey    "j">
+<!ENTITY saveAsAttachmentCmd.label    "Tiyak Achi'el…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "y">
+<!ENTITY detachAttachmentCmd.label    "Tixik'an…">
+<!ENTITY detachAttachmentCmd.accesskey    "x">
+<!ENTITY deleteAttachmentCmd.label    "Tiyuj">
+<!ENTITY deleteAttachmentCmd.accesskey    "y">
+<!ENTITY openAllAttachmentsCmd.label    "Tijaq Ronojel…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "j">
+<!ENTITY saveAllAttachmentsCmd.label    "Tiyak Ronojel…">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "y">
+<!ENTITY detachAllAttachmentsCmd.label    "Tixik'an Ronojel…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "x">
+<!ENTITY deleteAllAttachmentsCmd.label    "Tiyuj Ronojel…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "u">
 
+<!ENTITY openAttachment.tooltip "Tijaq ri tz'aqatisan yakb'äl">
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Tiyak">
+<!ENTITY saveAttachmentButton1.tooltip     "Tiyak ri tz'aqatisan yakb'äl">
+<!ENTITY saveAllAttachmentsButton1.label   "Tiyak Ronojel">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Tiyak ronojel ri tz'aqatisan taq yakb'äl">
 
+<!ENTITY copyLinkCmd.label        "Tiwachib'ëx Ruk'ojlib'al Ximonel">
+<!ENTITY copyLinkCmd.accesskey    "w">
 
+<!ENTITY CopyMessageId.label "Tiwachib'ëx Tzijol-ID">
+<!ENTITY CopyMessageId.accesskey "w">
+<!ENTITY OpenMessageForMsgId.label "Tijaq Tzijol Chi ID">
+<!ENTITY OpenMessageForMsgId.accesskey "j">
+<!ENTITY OpenBrowserWithMsgId.label "Tijaq Okik'amaya'l Rik'in ri Tzijol-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "O">
