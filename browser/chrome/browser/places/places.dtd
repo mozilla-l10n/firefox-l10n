@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Añadido">
 <!ENTITY col.lastmodified.label  "Última modificación">
 
-<!ENTITY search.placeholder  "Buscar">
+<!ENTITY historySearch.placeholder  "Buscar historial">
+<!ENTITY bookmarksSearch.placeholder  "Buscar marcadores">
 
 <!ENTITY cmd.find.key  "f">
 
