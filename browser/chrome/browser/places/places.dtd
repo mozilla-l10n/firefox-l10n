@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Ngày Thêm">
 <!ENTITY col.lastmodified.label  "Lần sửa Cuối">
 
-<!ENTITY search.placeholder  "Tìm kiếm">
+<!ENTITY historySearch.placeholder  "Tìm kiếm lịch sử">
+<!ENTITY bookmarksSearch.placeholder  "Tìm kiếm trang đánh dấu">
 
 <!ENTITY cmd.find.key  "f">
 

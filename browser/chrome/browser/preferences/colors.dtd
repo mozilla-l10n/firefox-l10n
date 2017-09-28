@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Ghi đè các màu được chỉ định bởi trang web với các lựa chọn ở trên:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "Ghi đè các màu đã được quy định bởi trang với các lựa chọn của bạn ở trên">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Luôn luôn">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Chỉ trong các diện mạo có độ tương phản cao">
