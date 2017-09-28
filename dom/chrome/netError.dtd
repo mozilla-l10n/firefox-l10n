@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Lỗi tải trang">
 <!ENTITY retry.label "Thử lại">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Không thể kết nối">
 <!ENTITY connectionFailure.longDesc "<p>Mặc dù trang web có vẻ hợp lệ, nhưng trình duyệt không thể thiết lập kết nối.</p><ul><li>Có thể trang này đang tạm thời bị gián đoạn? Hãy thử lại sau.</li><li>Bạn cũng không thể duyệt các trang web khác?  Hãy kiểm tra kết nối mạng.</li><li>Máy tính hoặc mạng của bạn có đang được bảo vệ bởi tường lửa hoặc proxy không? Thiết lập sai có thể làm ảnh hưởng tới việc duyệt Web.</li></ul>">
@@ -20,7 +20,7 @@
 <!ENTITY fileNotFound.longDesc "<ul><li>Có khi nào mục này đã bị đổi tên hoặc di chuyển không?</li><li>Có lỗi chính tả, lỗi HOA-thường, hay lỗi gõ chữ nào khác trong phần địa chỉ không?</li><li>Bạn có đủ quyền hạn để yêu cầu mục này không?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Truy cập tập tin bị từ chối">
-
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Nó có thể đã bị xóa, đã chuyển đi, hoặc có thể do quyền truy cập tập tin đã ngăn cản việc truy cập.</li></ul>">
 
 <!ENTITY generic.title "Không thể hoàn tất yêu cầu">
 <!ENTITY generic.longDesc "<p>Thông tin thêm về vấn đề hoặc lỗi này hiện không có.</p>">
@@ -70,7 +70,8 @@
 <!ENTITY nssBadCert.title "Không thể kết nối an toàn">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Đây có thể là vấn đề ở phần cấu hình của máy chủ, hoặc có thể do ai đó đang cố mạo nhận là máy chủ.</li> <li>Nếu bạn đã từng kết nối tới máy chủ này thành công trong quá khứ, lỗi này có thể chỉ là tạm thời, và bạn có thể thử lại sau.</li> </ul>">
 
-
+<!ENTITY securityOverride.linkText "Hoặc bạn có thể thêm một ngoại lệ…">
+<!ENTITY securityOverride.warningContent "<p>Bạn không nên thêm một ngoại lệ nếu như bạn đang sử dụng một kết nối internet không đáng tin cậy hoặc bạn chưa quen với việc nhìn thấy cảnh báo ở máy chủ này.</p> <p>Nếu bạn vẫn muốn thêm một ngoại lệ cho trang web này, bạn có thể làm việc đó ở trong phần cài đặt mã hóa nâng cao.</p>">
 
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách bảo mật nội dung">
 <!ENTITY cspBlocked.longDesc "<p>Trình duyệt bảo vệ trang này khỏi việc tải theo cách này bởi vì nó có một chính sách bảo mật nội dung không cho phép việc này.</p>">
@@ -84,3 +85,4 @@
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "sửa lỗi hệ thống đầu tiên trước khi bạn có thể ghé thăm trang.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
