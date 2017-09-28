@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> sitesinin <a id='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "<a id='learn_more_link'>İstenmeyen Yazılım Politikasıy</a>'ndan zararlı ve istenmeyen yazılımlar hakkında daha fazla bilgiye ulaşın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "<a id='learn_more_link'>İstenmeyen Yazılım Politikası</a>'ndan zararlı ve istenmeyen yazılımlar hakkında daha fazla bilgiye ulaşın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Aldatıcı site">
@@ -51,11 +51,15 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> sitesinin <a id='error_desc_link'>aldatıcı site olduğu rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a id='report_detection'>bunu bildirin</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "<a id='learn_more_link'>www.antiphishing.org</a> sitesinden aldatıcı siteler ve yemleme hakkında daha fazla bilgiye ulaşın. &brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Bu sitede kötü amaçlı yazılımlar olabilir">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Bu sayfa, bilgilerinizi (örn. fotoğraflar, parolalar, mesajlar ve kredi kartları) çalmayı veya silmeyi amaçlayan tehlikeli uygulamalar yüklemeye çalışabilir. O yüzden &brandShortName; bu sayfayı engelledi.">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> sitesinin <a id='error_desc_link'>potansiyel zararlı uygulama içerdiği rapor edildi</a>. <a id='ignore_warning_link'>Tehlikeyi göze alarak</a> güvensiz olan bu siteyi ziyaret edin.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> sitesinin <a id='error_desc_link'>potansiyel zararlı uygulama içerdiği rapor edildi</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName; uygulamasının yemleme ve kötücül yazılım koruması hakkında daha fazla bilgiye <a id='firefox_support'>support.mozilla.org</a> adresinden ulaşın.">
