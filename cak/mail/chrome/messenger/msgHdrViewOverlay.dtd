@@ -28,8 +28,46 @@
 <!ENTITY hdrOpenConversationButton1.tooltip "Tik'ut rutzijonem re tzijol re'">
 <!ENTITY hdrSmartReplyButton1.label "Na'owinäq taq Tzolin Tzij">
 <!ENTITY hdrReplyButton1.label "Titzolïx tzij">
+<!ENTITY hdrReplyButton2.tooltip "Titzolïx tzij chi re ri rutaqonel re tzijol re'">
+<!ENTITY hdrReplyAllButton1.label "Titzolïx tzij chi ke Konojel">
+<!ENTITY hdrReplyAllButton1.tooltip "Titzolïx tzij chi re ri taqonel chuqa' chi ke konojel ri ruk'ulb'anela' tzij">
+<!ENTITY hdrReplyListButton1.label "Titzolïx tzij chi re ri Cholb'äl">
+<!ENTITY hdrReplyListButton1.tooltip "Titzolïx tzij chi re jun kicholb'al taqotz'ib'">
+<!ENTITY hdrFollowupButton1.label "Tizolïx tzij">
+<!ENTITY hdrMenuForwardButton.label "Titaq chik Achi'el">
+<!ENTITY hdrForwardButton1.label "Titaq chik">
+<!ENTITY hdrForwardButton1.tooltip "Titaq chik re rutzijol re'">
+<!ENTITY hdrJunkButton1.label "Seq'">
+<!ENTITY hdrJunkButton1.tooltip "Tiya' ketal re taq rutzijol re' achi'el seq'">
+<!ENTITY hdrTrashButton1.label "Tiyuj">
+<!ENTITY hdrTrashButton1.tooltip "Tiyuj re rutzijol re'">
 
+<!ENTITY hdrViewToolbarShowFull.label "Kek'ut taq Wachib'äl chuqa' Rucholajem Tzij">
+<!ENTITY hdrViewToolbarShowFull.accesskey "c">
+<!ENTITY hdrViewToolbarShowIcons.label "Xa xe Kek'ut taq Wachaj">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "W">
+<!ENTITY hdrViewToolbarShowText.label "Xa xe Tik'ut Rucholajem Tzij">
+<!ENTITY hdrViewToolbarShowText.accesskey "R">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Junelïk Tik'ut Titzolïx Tzij chi re ri Taqonel">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "z">
 
+<!ENTITY otherActionsButton2.label "Ch'aqa' chik">
+<!ENTITY otherActionsButton.tooltip "Ch'aqa' chik taq b'anoj">
+<!ENTITY otherActionsOpenConversation1.label "Tijaq pa Tzijonem">
+<!ENTITY otherActionsOpenConversation1.accesskey "z">
+<!ENTITY otherActionsOpenInNewWindow1.label "Tijaq pa jun K'ak'a' Tzuwäch">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
+<!ENTITY otherActionsOpenInNewTab1.label "Tijaq pa K'ak'a' Ruwi'">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "R">
+<!ENTITY markAsReadMenuItem1.label "Tiya' Retal achi'el Sik'in">
+<!ENTITY markAsReadMenuItem1.accesskey "S">
+<!ENTITY markAsUnreadMenuItem1.label "Tiya' Retal achi'el Man Sik'in Ta">
+<!ENTITY markAsUnreadMenuItem1.accesskey "e">
+<!ENTITY saveAsMenuItem1.label "Tiyak achi'el…">
+<!ENTITY saveAsMenuItem1.accesskey "k">
+<!ENTITY viewSourceMenuItem1.label "Titz'et Xe'el">
+<!ENTITY viewSourceMenuItem1.accesskey "T">
+<!ENTITY otherActionsPrint1.label "Titz'ajb'äx…">
 
 <!-- Attachment bar context menu items -->
 
