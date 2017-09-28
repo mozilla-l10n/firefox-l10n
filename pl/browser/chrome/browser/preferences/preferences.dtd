@@ -9,6 +9,7 @@
 <!ENTITY prefWinMinSize.styleWin2 "width: 47em; min-height: 37.5em;">
 <!ENTITY prefWinMinSize.styleMac "width: 50em; min-height: 40em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 51.5em; min-height: 40.5em;">
+<!ENTITY searchField.width "15.4em">
 
 <!ENTITY paneSearchResults.title "Wyniki wyszukiwania">
 <!ENTITY paneGeneral.title "Ogólne">
