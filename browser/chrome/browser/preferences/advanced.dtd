@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
 <!ENTITY dataCollection.label            "&brandShortName; डाटा सङ्कलन र प्रयोग">
-<!ENTITY dataCollectionDesc.label        "हामि तपाईँलाई छनौटहरू प्रदान गर्न प्रयास गर्दछौँ र &brandShortName; सबैको लागि प्रदान र सुधार गर्न हामीलाई आवश्यक कुराहरू मात्र सङ्कलन गर्दर्छौँ । व्यक्तिगत जानकारी प्राप्त गर्नुअघि हामि अनुमतिको लागि सधैँ अनुरोध गर्दछौँ ।">
+<!ENTITY dataCollectionDesc.label        "हामी तपाईँलाई छनौटहरू प्रदान गर्न प्रयास गर्दछौँ र &brandShortName; सबैको लागि प्रदान र सुधार गर्न हामीलाई आवश्यक कुराहरू मात्र सङ्कलन गर्दर्छौँ । व्यक्तिगत जानकारी प्राप्त गर्नुअघि हामि अनुमतिको लागि सधैँ अनुरोध गर्दछौँ ।">
 <!ENTITY dataCollectionPrivacyNotice.label    "गोपनीयता नीति">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Mozilla लाई क्र्यास प्रतिवेदनहरू पठाउन &brandShortName; लाई अनुमति दिनुहोस्">
