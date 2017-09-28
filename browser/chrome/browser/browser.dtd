@@ -698,13 +698,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Keluar">
-<!ENTITY quitApplicationCmd.accesskey   "a">
+<!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac2.label   "Keluar &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tutup">
 <!ENTITY closeCmd.key                   "W">
-<!ENTITY closeCmd.accesskey             "u">
+<!ENTITY closeCmd.accesskey             "T">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -724,16 +724,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettingsUnix.label "Edit Keutamaan Penyekat Popup…">
 <!ENTITY editPopupSettings.label "Edit Pilihan Penyekat Popup…">
 <!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY dontShowMessage.accesskey "J">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Tukar Hala Halaman">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "k">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "H">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Tukar Hala Teks">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "u">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cari dalam Halaman Ini…">
-<!ENTITY findOnCmd.accesskey "H">
+<!ENTITY findOnCmd.accesskey "C">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cari Lagi">
 <!ENTITY findAgainCmd.accesskey "g">
@@ -742,9 +742,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Tambah Perbendaharaan kata…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "T">
 
-<!ENTITY editBookmark.done.label                     "Siap">
+<!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.removeBookmark.accessKey       "B">
 
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
@@ -774,9 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Dayakan perlindungan">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.disableMixedContentBlocking.label "Nyahdayakan perlindungan buat masa ni">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "N">
 <!ENTITY identity.learnMore "Ketahui Selanjutnya">
 
 <!ENTITY identity.removeCertException.label "Buang Pengecualian">
@@ -797,7 +797,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Tab Sync">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Daftar masuk ke Firefox dari peranti anda yang lain untuk melihat tab tersebut di sini.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab sync... lagi!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Tiada tab yang diselaraskan... lagi!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Mahu melihat tab anda daripada peranti lain di sini?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Tiada tab terbuka">
@@ -847,14 +847,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.done "Siap">
 <!ENTITY customizeMode.titlebar "Bar Tajuk">
 <!ENTITY customizeMode.extraDragSpace "Ruang Seret">
-<!ENTITY customizeMode.toolbars2 "Bar alat">
+<!ENTITY customizeMode.toolbars2 "Bar alatan">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Tema Saya">
 <!ENTITY customizeMode.lwthemes.recommended "Disyorkan">
 <!ENTITY customizeMode.lwthemes.menuManage "Urus">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "U">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Lebih Banyak Tema">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…">
 <!ENTITY customizeMode.uidensity "Ketumpatan">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -894,14 +894,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Nyahdayakan perlindungan untuk laman ini">
-<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock.accesskey "N">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Nyahdayakan perlindungan untuk sesi ini">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "N">
 <!ENTITY trackingProtection.block2.label "Dayakan perlindungan">
-<!ENTITY trackingProtection.block2.accesskey "E">
+<!ENTITY trackingProtection.block2.accesskey "D">
 
 <!ENTITY pluginNotification.showAll.label "Papar Semua">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -923,7 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Lupakan untuk:">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Lupakan tempoh terdahulu:">
 <!ENTITY panicButton.view.5min                    "Lima minit">
 <!ENTITY panicButton.view.2hr                     "Dua jam">
 <!ENTITY panicButton.view.day                     "24 jam">
@@ -942,11 +942,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Lupakan!">
 
 <!ENTITY panicButton.thankyou.msg1                "Sejarah terbaru anda telah dibersihkan.">
-<!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
+<!ENTITY panicButton.thankyou.msg2                "Pelayaran selamat!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya mengenai DRM…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "K">
 
 <!ENTITY updateAvailable.message "Kemaskini &brandShorterName; anda untuk kepantasan dan privasi terkini.">
 <!ENTITY updateAvailable.whatsnew.label "Lihat perkembangan terbaru.">
@@ -969,7 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.message2 "Selepas mula semula, &brandShorterName; akan memulihkan semua tab dan tetingkap terbuka yang bukan dalam mod Pelayaran Peribadi.">
 <!ENTITY updateRestart.header.message2 "Mula semula untuk mengemaskini &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Mula semula dan Pulihkan">
-<!ENTITY updateRestart.acceptButton.accesskey "S">
+<!ENTITY updateRestart.acceptButton.accesskey "M">
 <!ENTITY updateRestart.cancelButton.label "Bukan Sekarang">
 <!ENTITY updateRestart.cancelButton.accesskey "B">
 <!ENTITY updateRestart.panelUI.label2 "Mula semula untuk mengemaskini &brandShorterName;">
