@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Perihal &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#general.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -44,16 +48,16 @@
 <!ENTITY helpus.getInvolvedLink     "sertainya!">
 <!ENTITY helpus.end                 "">
 
-<!ENTITY releaseNotes.link          "Apa yang terbaru">
+<!ENTITY releaseNotes.link          "Perkembangan terbaru">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Maklumat Perlesenan">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Hak Pengguna Akhir">
+<!ENTITY bottomLinks.rights         "Hak Pengguna">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Dasar Privasi">
+<!ENTITY bottomLinks.privacy        "Polisi Privasi">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Sedang menyemak kemaskini…">
@@ -91,7 +95,7 @@
 <!ENTITY update.unsupported.linkText "Ketahui selanjutnya">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
@@ -104,5 +108,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Anda sedang berada di ">
+<!ENTITY channel.description.start  "Anda sedang berada dalam ">
 <!ENTITY channel.description.end    " saluran kemaskini. ">
