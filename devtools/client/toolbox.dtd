@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Depurador">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Habilitar mapas de fuentes">
-<!ENTITY options.sourceMaps.tooltip    "Si activas esta opción, las fuentes serán mapeadas en el depurador y en la consola.">
+<!ENTITY options.sourceMaps.tooltip1   "Si activas esta opción, las fuentes serán mapeadas en las herramientas.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Editor de estilos">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Mostrar la capa original">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Mostrar las fuentes originales (por ejemplo, archivos de Sass) en el Editor de estilos e Inspector">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Reproducir el sonido del obturador de la cámara">
 <!ENTITY options.screenshot.audio.tooltip    "Activa el sonido de la cámara al tomar una captura de pantalla">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Red">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Habilitar registros persistentes">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Si habilitas esta opción el monitor de red no borrará la salida cada vez que se navegues a una página nueva">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
