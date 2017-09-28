@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "पहुँच सेवाहरूलाई तपाईँको ब्राउजरमा पहुँच लिन बाट रोक्नुहोस्">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "अझै जान्नुहोस्">
+<!ENTITY enableSafeBrowsingLearnMore.label "अझै जान्नुहोस्">
