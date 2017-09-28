@@ -178,7 +178,7 @@
 <!ENTITY overlay_no_synced_devices "Niciun dispozitiv conectat găsit la contul Firefox">
 
 <!ENTITY pref_category_search3 "Căutare">
-<!ENTITY pref_category_search_summary2 "Adaugă, setează motorul implicit, arată sugestii">
+<!ENTITY pref_category_search_summary2 "Adaugă, setează motorul implicit, afișează sugestii">
 <!ENTITY pref_category_accessibility "Accesibilitate">
 <!ENTITY pref_category_accessibility_summary2 "Mărimea textului, zoomul, intrarea vocală">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
@@ -262,12 +262,12 @@
 <!ENTITY pref_category_media "Media">
 <!ENTITY pref_category_developer_tools "Unelte de dezvoltare">
 
-<!ENTITY pref_tap_to_load_images_title2 "Arată imaginile">
+<!ENTITY pref_tap_to_load_images_title2 "Afișează imaginile">
 <!ENTITY pref_tap_to_load_images_enabled "Întotdeauna">
 <!ENTITY pref_tap_to_load_images_data "Doar prin Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blocat">
 
-<!ENTITY pref_show_web_fonts "Arată fonturi web">
+<!ENTITY pref_show_web_fonts "Afișează fonturi web">
 <!ENTITY pref_show_web_fonts_summary2 "Descarcă fonturi de la distanță la încărcarea unei pagini">
 
 <!ENTITY pref_tracking_protection_title2 "Protecție față de urmărire">
@@ -312,7 +312,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Nu acum">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Mergi la setări">
+<!ENTITY tab_queue_prompt_settings_button "Mergi la Setări">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -328,8 +328,8 @@
 <!ENTITY tab_queue_notification_settings "Pentru a „deschide linkuri multiple”, te rugăm să activezi permisiunea \&apos;Permite afișarea peste alte aplicații\&apos; pentru &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codare de caractere">
-<!ENTITY pref_char_encoding_on "Arată meniul">
-<!ENTITY pref_char_encoding_off "Nu arăta meniul">
+<!ENTITY pref_char_encoding_on "Afișează meniul">
+<!ENTITY pref_char_encoding_off "Nu afișa meniul">
 <!ENTITY pref_clear_private_data2 "Șterge datele private">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
@@ -508,7 +508,7 @@
 <!ENTITY doorhanger_login_edit_title "Editează autentificarea">
 <!ENTITY doorhanger_login_edit_username_hint "Utilizator">
 <!ENTITY doorhanger_login_edit_password_hint "Parolă">
-<!ENTITY doorhanger_login_edit_toggle "Arată parola">
+<!ENTITY doorhanger_login_edit_toggle "Afișează parola">
 <!ENTITY doorhanger_login_select_message "Copiezi parola din &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Parolă copiată în clipboard">
 <!ENTITY doorhanger_login_select_action_text "Selectează o altă autentificare">
