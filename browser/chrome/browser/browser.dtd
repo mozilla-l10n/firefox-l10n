@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRecentHighlights.label "Serlahan Terkini">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alatan">
-<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToToolbar.accesskey "T">
 <!ENTITY customizeMenu.addToPanel.label "Tambah ke Menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Tambah ke Menu Overflow">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Pindah ke Bar Alat">
+<!ENTITY customizeMenu.moveToToolbar.label "Pindah ke Bar Alatan">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "d">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
@@ -410,8 +410,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "d">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pin ke Menu Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Nyahpin daripada Menu Overflow">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "N">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Buang pin daripada Menu Overflow">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.removeFromToolbar.label "Buang daripada Bar alatan">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "B">
 <!ENTITY customizeMenu.removeFromMenu.label "Buang daripada Menu">
