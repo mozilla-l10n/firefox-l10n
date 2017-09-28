@@ -8,7 +8,12 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Disculpa. Tenemos dificultades para recuperar tus páginas.">
 <!ENTITY restorepage.problemDesc2   "Estamos teniendo problemas para restaurar tu navegación de la sesión anterior. Selecciona Restaurar Sesión para intentar de nuevo.">
+<!ENTITY restorepage.tryThis2       "¿Aún no puedes restaurar tu sesión? A veces una pestaña causa el problema. Revisa las pestañas anteriores, remueve la marca de las que no necesitas recuperar y luego restaura.">
 
+<!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Iniciar nueva sesión">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Ventanas y pestañas">
