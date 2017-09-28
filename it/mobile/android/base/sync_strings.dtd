@@ -37,12 +37,14 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Utilizzo dati”.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; è configurato ma non impostato per la sincronizzazione automatica. Selezionare “Sincronizzazione automatica dei dati” nelle impostazioni di Android, sezione “Account”.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Tocca per accedere al nuovo account Firefox.">
-<!ENTITY fxaccount_status_choose_what 'Scegli che cosa sincronizzare'>
+<!ENTITY fxaccount_status_choose_what "Scegli che cosa sincronizzare">
 <!ENTITY fxaccount_status_bookmarks "Segnalibri">
 <!ENTITY fxaccount_status_history "Cronologia">
 <!ENTITY fxaccount_status_passwords2 "Accessi">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
-<!ENTITY fxaccount_status_additional_settings 'Impostazioni aggiuntive'>
+<!ENTITY fxaccount_status_additional_settings "Impostazioni aggiuntive">
+<!ENTITY fxaccount_pref_sync_use_metered "Usa Sync in connessioni a consumo">
+<!ENTITY fxaccount_pref_sync_use_metered_summary "Consenti l’utilizzo di connessioni dati e Wi-Fi a consumo per la sincronizzazione in background">
 <!ENTITY fxaccount_status_legal "Note legali">
 <!ENTITY fxaccount_status_linktos2 "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_status_linkprivacy2 "Informativa sulla privacy">
@@ -50,7 +52,7 @@
 <!ENTITY fxaccount_remove_account_dialog_title2 "Disconnettersi da Sync?">
 <!ENTITY fxaccount_remove_account_dialog_message2 "I dati relativi alla navigazione rimarranno su questo dispositivo, ma non verranno più sincronizzati con il proprio account.">
 <!ENTITY fxaccount_remove_account_toast2 "Disconnesso account Firefox &formatS;.">
-<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Disconnetti'>
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Disconnetti">
 <!ENTITY fxaccount_enable_debug_mode "Attiva modalità debug">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
