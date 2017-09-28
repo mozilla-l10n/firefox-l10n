@@ -43,6 +43,8 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP'ler">
 <!ENTITY aboutNetworking.rcwn                  "RCWN İstatistikleri">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN durumu">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Önbellek kazanım sayısı">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net kazanım sayısı">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam ağ isteği sayısı">
 <!ENTITY aboutNetworking.rcwnOperation         "Önbellek operasyonu">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Açma">
@@ -53,3 +55,4 @@
 <!ENTITY aboutNetworking.rcwnAvgLong           "Uzun ortalama">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Uzun standart sapma">
 <!ENTITY aboutNetworking.rcwnCacheSlow         "">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Yavaş olmayan önbellek sayısı">
