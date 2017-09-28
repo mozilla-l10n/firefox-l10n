@@ -3,9 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
-
-<!ENTITY firstrun_urlbar_message "ברוכים הבאים אל &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "ניתן לאתר פריטים מהר יותר עם קיצורים להצעות חיפוש מועילות.">
+<!ENTITY firstrun_urlbar_message2 "תודה שבחרת ב־&brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "דפדפן מודרני לנייד מבית Mozilla, הארגון ללא מטרות רווח שמחויב לאינטרנט חופשי ופתוח.">
+<!ENTITY firstrun_panel_title_privacy "פרטיות">
+<!ENTITY firstrun_privacy_message "גילשו כאילו אף אחד לא מסתכל">
+<!ENTITY firstrun_privacy_subtext "גלישה פרטית עם הגנת מעקב חוסמת רכיבי מעקב תוך כדי גלישה, ולא תשמור את ההיסטוריה לאחר סיום הגלישה.">
+<!ENTITY firstrun_panel_title_customize "התאמה אישית">
+<!ENTITY firstrun_customize_message "התאמת &brandShortName; לטעמך.">
+<!ENTITY firstrun_customize_subtext "ניתן להתאים אישית את &brandShortName; עם תוספות. חסימת פרסומות, הוספת תכונות או בחירה בערכת נושא חדשה שתייצג את האישיות שלך.">
 <!ENTITY firstrun_bookmarks_title "היסטוריה">
 <!ENTITY firstrun_bookmarks_message "המועדפים שלך, בראש ובראשונה">
 <!ENTITY firstrun_bookmarks_subtext "קבלו תוצאות מהסימניות וההיסטוריה שלכם תוך כדי חיפוש.">
@@ -13,8 +18,8 @@
 <!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
 <!ENTITY firstrun_data_subtext2 "בטלו הצגת תמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "‏&brandShortName;, תמיד לצדך">
-<!ENTITY firstrun_sync_subtext "סנכרנו את הלשוניות, הססמאות ועוד בכל מקום בו יתחשק לכם.">
+<!ENTITY firstrun_sync_message2 "המשך מהמקום שבו הפסקת.">
+<!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל ההתקנים שלך.">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
@@ -201,8 +206,6 @@
 <!ENTITY pref_category_advanced_summary3 "שחזור לשוניות, חסכון בתעבורת נתונים, כלי פיתוח">
 <!ENTITY pref_category_notifications "התרעות">
 <!ENTITY pref_category_notifications_summary "תכונות חדשות, עדכוני אתרים">
-<!ENTITY pref_content_notifications "עדכוני אתרים">
-<!ENTITY pref_content_notifications_summary2 "גילוי תוכן חדש מאתרים נתמכים">
 <!ENTITY pref_developer_remotedebugging_usb "ניפוי שגיאות מרחוק דרך USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ניפוי שגיאות מרחוק דרך Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ניפוי שגיאות דרך רשת אלחוטית דורש שבהתקן שלך יותקן יישומון לקריאת קודים מסוג QR.">
@@ -268,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "הורדת גופנים מרוחקים בעת טעינת עמוד">
 
 <!ENTITY pref_tracking_protection_title2 "הגנת מעקב">
-<!ENTITY pref_tracking_protection_summary3 "מופעל בגלישה פרטית">
 <!ENTITY pref_donottrack_title "לא לעקוב (Do not track)">
 <!ENTITY pref_donottrack_summary "‏&brandShortName; יגיד לאתרים שאין ברצונך שיעקבו אחריך">
 
@@ -283,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "תכונות ניסיוניות">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "לשוניות מותאמות אישית">
-<!ENTITY pref_custom_tabs_summary3 "לאפשר ליישומונים לפתוח אתרים בגרסה מותאמת של &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "פתיחה ב־&formatS;">
@@ -297,10 +294,6 @@
 
 <!ENTITY pref_pwa "יישומוני רשת פרוגרסיביים">
 <!ENTITY pref_pwa_summary "לאפשר ליישומוני רשת להתווסף למסך הבית">
-
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Activity Stream">
-<!ENTITY pref_activity_stream_summary "יומן פעילות נעים למראה ודף בית בעיצוב משופר מקלים עליך בחיפוש אחר מבוקשך ב־&brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "מעכשיו גם עם הגנת מעקב">
 <!ENTITY tracking_protection_prompt_text "מתבצעת חסימה פעילה של רכיבי מעקב כדי שלא תהיה לך סיבה לדאוג.">
@@ -334,23 +327,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "כדי „לפתוח מספר קישורים”, יש להפעיל את ההרשאה ‚לצייר על גבי יישומונים אחרים’ עבור &brandShortName;">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; אתרים עודכנו">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "הגדרות">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "לקרוא כעת">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "עודכן בתאריך &formatS;">
-
 <!ENTITY pref_char_encoding "קידוד תווים">
 <!ENTITY pref_char_encoding_on "הצגת תפריט">
 <!ENTITY pref_char_encoding_off "הסתרת תפריט">
@@ -361,10 +337,6 @@
 <!ENTITY pref_clear_on_exit_title3 "מחיקת נתונים פרטיים ביציאה">
 <!ENTITY pref_clear_on_exit_summary2 "‏&brandShortName; ימחק נתונים בצורה אוטומטית בכל פעם שתיבחר האפשרות „יציאה” מהתפריט הראשי. ">
 <!ENTITY pref_clear_on_exit_dialog_title "נא לבחור אילו נתונים למחוק">
-<!ENTITY pref_plugins "תוספים חיצוניים">
-<!ENTITY pref_plugins_enabled "פעיל">
-<!ENTITY pref_plugins_tap_to_play2 "יש להקיש כדי להפעיל">
-<!ENTITY pref_plugins_disabled "מנוטרל">
 <!ENTITY pref_restore_tabs "שחזור לשוניות">
 <!ENTITY pref_restore_always "לשחזר תמיד">
 <!ENTITY pref_restore_quit "לא לשחזר לאחר יציאה מ־&brandShortName;">
@@ -413,6 +385,9 @@
 <!ENTITY pref_dialog_set_default "הגדרה כבררת מחדל">
 <!ENTITY pref_dialog_default "בררת מחדל">
 <!ENTITY pref_dialog_remove "מחיקה">
+<!ENTITY pref_dialog_activitystream_header_content "תכנים נוספים">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "סימניות אחרונות">
+<!ENTITY pref_dialog_activitystream_visited "ביקורים קודמים">
 
 <!ENTITY pref_search_last_toast "לא ניתן לנטרל או למחוק את מנוע החיפוש האחרון.">
 
@@ -514,7 +489,17 @@
 <!ENTITY contextmenu_top_sites_edit "עריכה">
 <!ENTITY contextmenu_top_sites_pin "הצמדת אתר">
 <!ENTITY contextmenu_top_sites_unpin "ביטול הצמדת אתר">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "הצמדה לאתרים המובילים">
+<!ENTITY contextmenu_unpin_from_top_sites "ביטול הצמדה מהאתרים המובילים">
 <!ENTITY contextmenu_add_search_engine "הוספת מנוע חיפוש">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "הדף הוצמד לאתרים המובילים">
+<!ENTITY unpinned_page_from_top_sites "העמוד נותק מהאתרים המובילים">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -548,6 +533,7 @@
 <!ENTITY page_removed "הדף הוסר">
 
 <!ENTITY bookmark_edit_title "עריכת סימניה">
+<!ENTITY bookmark_edit_folder_title "עריכת תיקייה">
 <!ENTITY bookmark_edit_name "שם">
 <!ENTITY bookmark_edit_location "מיקום">
 <!ENTITY bookmark_edit_keyword "מילת מפתח">
@@ -624,6 +610,11 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ביטול הסתרת ההתקנים הנבחרים">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "אתר מוצמד">
+<!ENTITY home_unpinned_site "אתר שאינו מוצמד">
 
 <!ENTITY remote_tabs_panel_moved_title "לאן נעלמו הלשוניות שלי?">
 <!ENTITY remote_tabs_panel_moved_desc "העברנו את הלשוניות שלך מההתקנים הנוספים לחלונית בעמוד הבית שלך אליה ניתן לגשת בקלות עם כל פתיחת לשונית חדשה.">
@@ -831,7 +822,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "מומלץ על ידי &brandPocket;">
 <!ENTITY activity_stream_highlights "מומלצים">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "עוד">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -839,12 +835,20 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ביקורים קודמים">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "פופולרי">
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ניתן להתחיל לגלוש ואנחנו נציג בפניך מאמרים, סרטונים ועמודים נוספים ברמה מעולה בהם ביקרת בעבר או הוספת למועדפים ממש כאן.">
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "התעלמות">
+<!ENTITY activity_stream_remove "הסרה">
 <!ENTITY activity_stream_delete_history "מחיקה מההיסטוריה">
 
-<!ENTITY activity_stream_welcome_title "ברוכים הבאים לכותרות שלכם">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; יוצר כעת כותרות של דברים שמצאתם ברשת כדי שניתן יהיה לחזור אל מאמרים חשובים, סרטוני וידאו, סימניות ודפים אחרים.">
+<!ENTITY private_tab_panel_title "גלישה פרטית + הגנת מעקב">
+<!ENTITY private_tab_panel_description "&brandShortName; חוסם חלקים מהדפים שעשויים לעקוב אחר פעילות הגלישה שלך.">
+<!ENTITY private_tab_panel_description2 "אנחנו לא נשמור שום היסטוריה, אבל קבצים שיורדו וסימניות חדשות שייווצרו עדיין יישמרו בהתקן שלך.">
+<!ENTITY private_tab_learn_more "רוצה לדעת עוד?">
+
+<!ENTITY fullscreen_warning "עברת למסך מלא">

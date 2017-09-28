@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'התחלת שימוש'>
 <!ENTITY fxaccount_getting_started_old_firefox 'משתמשים בגרסה ישנה של &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'מחובר בתור'>
-<!ENTITY fxaccount_status_manage_account 'ניהול חשבון'>
 <!ENTITY fxaccount_status_auth_server 'שרת חשבון'>
 <!ENTITY fxaccount_status_sync_now 'סנכרון כעת'>
 <!ENTITY fxaccount_status_syncing2 'מסנכרן…'>
 <!ENTITY fxaccount_status_device_name 'שם התקן'>
 <!ENTITY fxaccount_status_sync_server 'שרת סנכרון'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '‏&syncBrand.shortName.label;: מופעל'>
 <!ENTITY fxaccount_status_needs_verification2 'יש לאמת את החשבון שלך. עליך לגעת כדי לשלוח את דוא״ל האימות מחדש.'>
 <!ENTITY fxaccount_status_needs_credentials 'לא ניתן להיכנס. לגעת כדי להיכנס.'>
 <!ENTITY fxaccount_status_needs_upgrade 'יש לשדרג את &brandShortName; כדי להתחבר.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '‏&syncBrand.shortName.label; הוגדר, אך אינו מסתנכרן באופן אוטומטי. יש להפעיל את האפשרות “סנכרון נתונים אוטומטי” בהגדרות המכשיר &gt; שימוש בנתונים.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '‏&syncBrand.shortName.label; הוגדר, אך אינו מסתנכרן באופן אוטומטי. יש להפעיל את האפשרות “סנכרון נתונים אוטומטי” בתפריט של הגדרות המכשיר &gt; חשבונות.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'הקש כדי להתחבר לחשבון ה־Firefox החדש שלך.'>
+<!ENTITY fxaccount_status_choose_what 'בחירת הפריטים שיסונכרנו'>
 <!ENTITY fxaccount_status_bookmarks 'סימניות'>
 <!ENTITY fxaccount_status_history 'היסטוריה'>
 <!ENTITY fxaccount_status_passwords2 'כניסות'>
 <!ENTITY fxaccount_status_tabs 'לשוניות פתוחות'>
+<!ENTITY fxaccount_status_additional_settings 'הגדרות נוספות'>
 <!ENTITY fxaccount_status_legal 'מידע משפטי' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'תנאי השירות'>
 <!ENTITY fxaccount_status_linkprivacy2 'הודעת פרטיות'>
-<!ENTITY fxaccount_status_more 'עוד&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ניתוק&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'האם ברצונך להתנתק מ־Sync?'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'אפשרויות &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'הגדרת &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'עליך לשדרג את Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'החשבון כבר קיים. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'דוא״ל או ססמה שגויים'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'דוא״ל או ססמה שגויים'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'החשבון אינו מאומת'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'השרת עסוק, נא לנסות שוב בקרוב'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'השרת עסוק, נא לנסות שוב בקרוב'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'אירעה תקלה'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'החשבון נעול. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '‏&syncBrand.shortName.label; אינו מחובר'>
 <!-- Localization note: the format string below will be replaced

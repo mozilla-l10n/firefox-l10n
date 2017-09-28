@@ -5,6 +5,8 @@
 <!ENTITY safeb.palm.accept.label "קח אותי מפה!">
 <!ENTITY safeb.palm.decline.label "התעלם מהזהרה זו">
 <!ENTITY safeb.palm.reportPage.label "למה דף זה נחסם?">
+<!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc "גורם מייעץ: <a id='advisory_provider'/>">
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,3 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "הדף בכתובת <span id='unwanted_sitename'/> דווח כיוון שהוא מכיל תכנה בלתי רצויה ולכן נחסם בהתאם להעדפות האבטחה שלך.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "דפי תכנה בלתי רצויה מנסים להתקין תכניות שעשויות להוליך שולל ולהשפיע על המערכת שלך בדרכים בלתי צפויות.">
 
+<!ENTITY safeb.blocked.harmfulPage.title "האתר הבא עלול להכיל נוזקה">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; חסם דף זה מכיוון שהוא עלול לנסות להתקן יישומים מסוכנים הגונבים או מוחקים את המידע שלך (כמו תמונות, ססמאות, הודעות וכרטיסי אשראי).">
