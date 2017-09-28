@@ -68,10 +68,12 @@
 <!ENTITY viewSourceMenuItem1.label "Titz'et Xe'el">
 <!ENTITY viewSourceMenuItem1.accesskey "T">
 <!ENTITY otherActionsPrint1.label "Titz'ajb'äx…">
+<!ENTITY otherActionsPrint1.accesskey "z">
 
 <!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Tijaq">
 
 
 <!-- Attachment toolbar items -->
