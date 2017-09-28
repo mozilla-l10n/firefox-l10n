@@ -828,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
 <!ENTITY customizeMode.done "Terminat">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
+<!ENTITY customizeMode.extraDragSpace "Spațiu de tragere">
 <!ENTITY customizeMode.toolbars2 "Bare de unelte">
 <!ENTITY customizeMode.lwthemes "Teme">
 <!ENTITY customizeMode.lwthemes.myThemes "Temele mele">

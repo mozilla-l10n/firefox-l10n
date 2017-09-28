@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Scurtături pentru tastatură">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Repornește cu suplimente dezactivate…">
+<!ENTITY helpSafeMode.label       "Repornește cu suplimentele dezactivate…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Repornește cu suplimente activate">
+<!ENTITY helpSafeMode.stop.label       "Repornește cu suplimentele activate">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Raport de stare &brandShorterName;">
