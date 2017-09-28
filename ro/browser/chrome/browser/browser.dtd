@@ -822,6 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronizare">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Trage elementele favorite în bara de unelte sau în meniul excedentar.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Dorești mai multe unelte?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Alege din mii de suplimente">
 <!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
