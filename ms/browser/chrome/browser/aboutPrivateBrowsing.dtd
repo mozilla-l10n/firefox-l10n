@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
-<!ENTITY trackingProtection.description2                 "Ada laman web menggunakan pengesan yang boleh memantau aktiviti anda di Internet. Dengan Perlindungan Penjejakan, Firefox akan menyekat pelbagai jenis pengesan yang boleh mengumpul maklumat tingkah laku pelayaran anda.">
-<!ENTITY trackingProtection.startTour1                   "Ketahui fungsinya">
+<!ENTITY trackingProtection.description2                 "Sesetengah Laman web menggunakan penjejak yang boleh memantau aktiviti anda di seluruh Internet. Dengan Perlindungan Penjejakan, Firefox akan menyekat sebahagian besar penjejak yang boleh mengumpulkan maklumat tingkah laku pelayaran anda.">
+<!ENTITY trackingProtection.startTour1                   "Ketahui fungsi ciri ini">
