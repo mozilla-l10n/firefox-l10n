@@ -459,7 +459,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Eklentiler">
 <!ENTITY addons.accesskey "E">
-<!ENTITY activitymanager.label "Etkinlik Yöneticisi">
+<!ENTITY activitymanager.label "Etkinlik yöneticisi">
 <!ENTITY activitymanager.accesskey "Y">
 <!ENTITY imAccountsStatus.label "Sohbet durumu">
 <!ENTITY imAccountsStatus.accesskey "S">
