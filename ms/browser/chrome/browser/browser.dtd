@@ -42,7 +42,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pin Tab">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Nyahpin Tab">
+<!ENTITY  unpinTab.label                     "Buang pin Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
 <!ENTITY  sendTabToDevice.accesskey          "b">
@@ -72,23 +72,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Buka Fail…">
 <!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Tatacara Halaman…">
-<!ENTITY printSetupCmd.accesskey "T">
+<!ENTITY printSetupCmd.label "Penetapan Halaman…">
+<!ENTITY printSetupCmd.accesskey "t">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "C">
-<!ENTITY printCmd.commandkey "c">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Kerja Luar Talian">
 <!ENTITY goOfflineCmd.accesskey "K">
 
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Bar Alat Navigasi">
-<!ENTITY personalbarCmd.label "Bar alat Tandabuku">
+<!ENTITY navbarCmd.label "Bar Alatan Navigasi">
+<!ENTITY personalbarCmd.label "Bar alatan Tandabuku">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Item Bar alat Tandabuku">
+<!ENTITY bookmarksToolbarItem.label "Item Bar alatan Tandabuku">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Muat semula Semua Tab">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "B">
 
 <!ENTITY pageSourceCmd.label "Sumber Halaman">
-<!ENTITY pageSourceCmd.accesskey "H">
+<!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -109,7 +109,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Info Halaman">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "L">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Mirror Tab">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):

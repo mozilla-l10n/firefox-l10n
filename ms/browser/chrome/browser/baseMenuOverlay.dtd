@@ -9,33 +9,33 @@
 <!ENTITY windowMenu.label         "Tetingkap">
 
 <!ENTITY helpMenu.label           "Bantuan"> 
-<!ENTITY helpMenu.accesskey       "n"> 
+<!ENTITY helpMenu.accesskey       "B"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Bantuan"> 
-<!ENTITY helpMenuWin.accesskey    "a">
+<!ENTITY helpMenuWin.accesskey    "B">
 <!ENTITY aboutProduct2.label      "Perihal &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY aboutProduct2.accesskey  "P">
 <!ENTITY productHelp2.label       "Bantuan &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY productHelp2.accesskey   "B">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Pintasan Papan Kekunci">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "Mula semula dengan Add-ons Dinyahdayakan…">
-<!ENTITY helpSafeMode.accesskey   "u">
+<!ENTITY helpSafeMode.accesskey   "M">
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
-<!ENTITY helpSafeMode.stop.accesskey   "d">
+<!ENTITY helpSafeMode.stop.accesskey   "M">
 
 <!ENTITY healthReport2.label      "Laporan Kesihatan &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
-<!ENTITY helpTroubleshootingInfo.accesskey  "a">
+<!ENTITY helpTroubleshootingInfo.accesskey  "P">
 
 <!ENTITY helpFeedbackPage.label      "Hantar Maklum balas…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.accesskey  "H">
 
 <!ENTITY helpShowTour2.label            "Teroka &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
