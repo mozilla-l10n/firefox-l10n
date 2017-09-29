@@ -85,4 +85,3 @@
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "sửa lỗi hệ thống đầu tiên trước khi bạn có thể ghé thăm trang.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
