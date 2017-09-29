@@ -18,7 +18,9 @@
 <!ENTITY deniedPortAccess.title "Táto adresa je zakázaná">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Server sa nenašiel">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Hmm, túto stránku sa nám nepodarilo nájsť.">
 
 <!ENTITY fileNotFound.title "Súbor sa nenašiel">
 <!ENTITY fileNotFound.longDesc "
