@@ -21,6 +21,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Requesta de identification de usator">
+<!ENTITY clientAuthAsk.message3 "Detalios de certificato seligite:">
 
 <!ENTITY pkcs12.setpassword.title  "Elige un contrasigno de backup de certificato">
 <!ENTITY pkcs12.setpassword.label1 "Contrasigno de backup del certificato:">
