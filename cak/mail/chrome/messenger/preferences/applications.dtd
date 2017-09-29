@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Ruwäch Rupam">
+<!ENTITY  typeColumn.accesskey        "R">
+
+<!ENTITY  actionColumn2.label         "B'anoj">
+<!ENTITY  actionColumn2.accesskey     "B">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Tikanöx">
+
+<!ENTITY saveTo.label                 "Keyak taq yakb'äl pa">
+<!ENTITY saveTo.accesskey             "y">
+<!ENTITY alwaysAsk.label              "Jantape' tik'utüx pe chwe akuchi' yeyak wi kan ri taq yakb'äl">
+<!ENTITY alwaysAsk.accesskey          "J">
+<!ENTITY chooseFolderWin.label        "Tokik'amayin…">
+<!ENTITY chooseFolderWin.accesskey    "T">
+<!ENTITY chooseFolderMac.label        "Ticha'…">
+<!ENTITY chooseFolderMac.accesskey    "c">
+
+<!ENTITY attachments.incoming.label   "Tajin nok">
+<!ENTITY attachments.outgoing.label   "Tajin nel">
+
+<!ENTITY addCloudFileAccount1.label       "Titz'aqatisäx…">
+<!ENTITY addCloudFileAccount1.accesskey   "t">
+<!ENTITY removeCloudFileAccount.label     "Tiyuj">
+
