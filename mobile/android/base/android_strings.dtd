@@ -7,24 +7,24 @@
 <!ENTITY firstrun_urlbar_subtext2 "Kâr amacı gütmeden özgür ve açık web’i korumaya ant içmiş Mozilla’dan, çağdaş bir mobil tarayıcı.">
 <!ENTITY firstrun_panel_title_privacy "Gizlilik">
 <!ENTITY firstrun_privacy_message "Hiç kimse izlemiyormuş gibi gez">
-<!ENTITY firstrun_privacy_subtext "İzlenme Koruması ile Gizli Gezinti, sen gezininirken takipçileri engeller ve işin bitince tüm gezinti geçmişinizi imha eder.">
+<!ENTITY firstrun_privacy_subtext "İzlenme Koruması ile Gizli Gezinti, siz gezinirken takipçileri engeller ve işiniz bitince tüm gezinti geçmişinizi imha eder.">
 <!ENTITY firstrun_panel_title_customize "Özelleştir">
 <!ENTITY firstrun_customize_message "&brandShortName; senindir, senin kalacak.">
-<!ENTITY firstrun_customize_subtext "&brandShortName; tarayıcını eklentilerle kişiselleştirebilirsin. Reklamları engelle, yeni özellikler ekle, istersen kişiliğini yansıtacak bir tema seç.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; tarayıcınızı eklentilerle kişiselleştirebilirsiniz. Reklamları engelleyin, yeni özellikler ekleyin, isterseniz kişiliğinizi yansıtacak bir tema seçin.">
 <!ENTITY firstrun_bookmarks_title "Geçmiş">
 <!ENTITY firstrun_bookmarks_message "Sevdiğin her şey ortada">
-<!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imlerinden ve geçmişinden gelen sonuçları da göreceksin.">
+<!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imlerinizden ve geçmişinizden gelen sonuçları da göreceksiniz.">
 <!ENTITY firstrun_data_title "Veri">
 <!ENTITY firstrun_data_message "Daha az veri, daha çok tasarruf">
-<!ENTITY firstrun_data_subtext2 "Girdiğin her sitede daha az veri harcamak için resimleri kapatabilirsin.">
+<!ENTITY firstrun_data_subtext2 "Girdiğiniz her sitede daha az veri harcamak için resimleri kapatabilirsiniz.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kaldığın yerden devam et.">
-<!ENTITY firstrun_sync_subtext2 "Tüm cihazlarında &brandShortName;’a kaydettiğin yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsin.">
+<!ENTITY firstrun_sync_subtext2 "Tüm cihazlarınızda &brandShortName;’a kaydettiğiniz yer imlerine, parolalara ve diğer bilgilere ulaşmak için Sync’i kullanabilirsiniz.">
 <!ENTITY firstrun_signin_message "Bağlan, kullanmaya başla">
 <!ENTITY firstrun_signin_button "Sync’e giriş yap">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
 <!ENTITY firstrun_button_notnow "Daha sonra">
-<!ENTITY firstrun_button_next "Sonraki">
+<!ENTITY firstrun_button_next "İleri">
 
 <!ENTITY firstrun_tabqueue_title "Bağlantılar">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
@@ -70,7 +70,7 @@
 
 <!ENTITY url_bar_default_text2 "Arama yapın veya adres yazın">
 
-<!ENTITY bookmark "Yer imi">
+<!ENTITY bookmark "Yer imlerine ekle">
 <!ENTITY bookmark_remove "Yer imini kaldır">
 <!ENTITY bookmark_added "Yer imi eklendi">
 <!-- Localization note (bookmark_already_added) : This string is
@@ -212,22 +212,22 @@
 <!ENTITY pref_remember_signons2 "Giriş bilgilerini hatırla">
 <!ENTITY pref_manage_logins "Hesapları yönet">
 
-<!ENTITY pref_category_home "Başlangıç">
-<!ENTITY pref_category_home_summary "Başlangıç sayfanızı özelleştirin">
+<!ENTITY pref_category_home "Giriş">
+<!ENTITY pref_category_home_summary "Giriş sayfanızı özelleştirin">
 <!ENTITY pref_category_home_panels "Paneller">
 <!ENTITY pref_category_home_add_ons "Eklentiler">
 <!ENTITY pref_home_updates2 "İçerik güncellemeleri">
 <!ENTITY pref_home_updates_enabled "Etkin">
 <!ENTITY pref_home_updates_wifi "Yalnızca Wi-Fi üzerinden">
-<!ENTITY pref_category_home_homepage "Ana Sayfa">
+<!ENTITY pref_category_home_homepage "Giriş sayfası">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Yeni sekmelerde de kullan">
-<!ENTITY home_homepage_title "Ana sayfa ayarla">
+<!ENTITY home_homepage_title "Giriş sayfası ayarla">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; Ana Sayfası">
+<!ENTITY home_homepage_radio_default "&brandShortName; Giriş Sayfası">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -344,7 +344,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Sistem yazı tipi boyutunu kullan">
-<!ENTITY pref_use_system_font_size_summary "Web içeriğini sistem yazı tipi boyutuna göre ölçeklendir">
+<!ENTITY pref_use_system_font_size_summary "Web içeriklerini sistem yazı tipi boyutuna göre ölçeklendir">
 
 <!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Web sitelerinin videoları ve diğer ortam içeriklerini otomatik oynatıp oynatamayacağını kontrol et">
@@ -365,7 +365,7 @@
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Açık sekmeler">
-<!ENTITY pref_private_data_history2 "Tarayıcı geçmişi">
+<!ENTITY pref_private_data_history2 "Gezinti geçmişi">
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
 <!ENTITY pref_private_data_formdata2 "Form geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
@@ -413,7 +413,7 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; sağlık raporu">
-<!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamına yardımcı olur">
+<!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamanıza yardımcı olur">
 <!ENTITY datareporting_abouthr_title "Sağlık raporumu göster">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; tarayıcısını iyileştirmek için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
@@ -570,14 +570,14 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Ana Sayfası">
+<!ENTITY home_title "&brandShortName; Giriş Sayfası">
 <!ENTITY home_history_title "Geçmiş">
 <!ENTITY home_synced_devices_smartfolder "Eşitlenen cihazlar">
 <!ENTITY home_synced_devices_number "&formatD; cihaz">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 cihaz">
 <!ENTITY home_history_back_to2 "Tüm geçmişe geri dön">
-<!ENTITY home_clear_history_button "Tarama geçmişini temizle">
+<!ENTITY home_clear_history_button "Gezinti geçmişini temizle">
 <!ENTITY home_clear_history_confirm "Geçmişi temizlemek istediğinizden emin misiniz?">
 <!ENTITY home_bookmarks_empty "Kaydettiğiniz yer imleri burada görünür.">
 <!ENTITY home_closed_tabs_title2 "Son kapatılan">
@@ -821,7 +821,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topsites "Önemli Siteler">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; öneriyor">
-<!ENTITY activity_stream_highlights "Anılar">
+<!ENTITY activity_stream_highlights "Öne Çıkanlar">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "DAHA FAZLASI">
