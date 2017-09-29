@@ -20,6 +20,7 @@
 <!ENTITY tabCrashed.requestHelp "Maukah Anda membantu kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Laporan kerusakan membantu kami mendiagnosis masalah dan membuat &brandShortName; lebih baik.">
 <!ENTITY tabCrashed.requestReport "Laporkan tab ini">
+<!ENTITY tabCrashed.sendReport3 "Kirim laporan kerusakan otomatis agar kami dapat memperbaiki masalah seperti ini.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar tambahan (komentar dapat dilihat umum)">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat surel Anda di sini">
 <!ENTITY tabCrashed.emailMe "Kirimi saya surel saat informasi lebih lanjut tersedia">
