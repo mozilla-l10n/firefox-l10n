@@ -217,7 +217,7 @@
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY pref_category_home_add_ons "Add-ons">
 <!ENTITY pref_home_updates2 "Kemaskini kandungan">
-<!ENTITY pref_home_updates_enabled "Dayakan">
+<!ENTITY pref_home_updates_enabled "Didayakan">
 <!ENTITY pref_home_updates_wifi "Hanya melalui Wi-Fi">
 <!ENTITY pref_category_home_homepage "Halaman utama">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
