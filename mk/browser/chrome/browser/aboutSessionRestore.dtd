@@ -7,9 +7,13 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Извинете. Имаме проблеми со враќањето на вашите страници.">
+<!ENTITY restorepage.problemDesc2   "Не успеав да ја вратам вашата последна сесија. Изберете Врати сесија за да се обидам повторно.">
+<!ENTITY restorepage.tryThis2       "Сѐ уште не можете да ја вратите вашата сесија? Понекогаш некое јазиче може да биде проблем. Прегледајте ја листата со јазичињата од порано, отштиклирајте ги тие што не сакате да ги вратите и потоа обновете ја сесијата.">
 
 <!ENTITY restorepage.tryagainButton2 "Врати сесија">
+<!ENTITY restorepage.restore.access2 "В">
 <!ENTITY restorepage.closeButton2    "Започни нова сесија">
+<!ENTITY restorepage.close.access2   "Н">
 
 <!ENTITY restorepage.restoreHeader  "Врати">
 <!ENTITY restorepage.listHeader     "Прозорци и јазичиња">
@@ -23,7 +27,7 @@
 <!ENTITY welcomeback2.restoreButton  "Да започнеме!">
 <!ENTITY welcomeback2.restoreButton.access "Л">
 
-<!ENTITY welcomeback2.tabtitle      "Успех!">
+<!ENTITY welcomeback2.tabtitle      "Успеав!">
 
 <!ENTITY welcomeback2.pageTitle     "Успех!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; веќе се користи.">

@@ -24,5 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "Страница со поставки">
 
 <!ENTITY searchreset.noChangeButton        "Не менувај">
+<!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "Промени пребарувач">
+<!ENTITY searchreset.changeEngineButton.access "C">

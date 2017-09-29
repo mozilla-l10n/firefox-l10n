@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Скоро затворени јазичиња">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Скоро затворени прозорци">
-<!ENTITY historyRestoreLastSession.label "Врати ја претходната сесија">
+<!ENTITY historyRestoreLastSession.label "Врати претходна сесија">
 
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Завршете со прилагодувањето">
 <!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
 <!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
-<!ENTITY appMenuHistory.restoreSession.label "Врати ја претходната сесија">
+<!ENTITY appMenuHistory.restoreSession.label "Врати претходна сесија">
 <!ENTITY appMenuHelp.label "Помош">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
