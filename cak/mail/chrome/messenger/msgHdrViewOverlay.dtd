@@ -73,6 +73,7 @@
 
 <!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Kek'ut taq Kitz'etoj Tz'aqatisan pa Rutikirib'al">
+<!ENTITY startExpandedCmd.accesskey    "K">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Tijaq">
