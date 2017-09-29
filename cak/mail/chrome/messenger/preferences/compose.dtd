@@ -40,4 +40,7 @@
 <!ENTITY editDirectories.accesskey             "K">
 
 <!ENTITY sendOptions.label                     "Kejaq Cha'oj…">
+<!ENTITY sendOptions.accesskey                 "K">
 
+<!ENTITY attachmentReminderOptions.label       "Kik'u'x tzij…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
