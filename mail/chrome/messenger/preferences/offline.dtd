@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "e">
 <!ENTITY radioAskUnsent.label "Zeptat se">
 <!ENTITY radioAskUnsent.accesskey "t">
-<!ENTITY textGoingOffline "Stáhnout zprávy pro offline použití při přechodu do režimu offline?">
+<!ENTITY textGoingOffline "Stáhnout zprávy pro použití v režimu offline při přechodu do režimu offline?">
 <!ENTITY radioAutoDownload.label "Ano">
 <!ENTITY radioAutoDownload.accesskey "o">
 <!ENTITY radioNotDownload.label "Ne">
