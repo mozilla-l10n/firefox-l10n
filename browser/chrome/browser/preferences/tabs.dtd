@@ -17,6 +17,6 @@
 <!ENTITY switchLinksToNewTabs.label        "Când se deschide un link într-o nouă filă, comută la aceasta imediat">
 <!ENTITY switchLinksToNewTabs.accesskey    "C">
 
-<!ENTITY showTabsInTaskbar.label          "Arată miniaturi ale filelor în bara de activități din Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "A">
+<!ENTITY showTabsInTaskbar.label          "Afișează miniaturi ale filelor în bara de activități Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
 <!ENTITY tabsGroup.label          "File">
