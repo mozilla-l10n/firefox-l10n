@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem sa učitavanjem stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ne mogu da se povežem">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -19,15 +19,37 @@
 <!ENTITY dnsNotFound.title "Server nije pronađen">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Provjerite da li u adresi ima grešaka u kucanju kao što su
+    <strong>ww</strong>.example.com umjesto
+    <strong>www</strong>.example.com</li>
+	<div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Traži</button>
+    </div>
+  <li>Ako ne možete da učitate stranice, provjerite mobilnu ili Wi-Fi vezu uređaja.
+    <button id='wifi'>Omogući Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fajl nije pronađen">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite da li u nazivu fajla postoji greška u velikim/malim slovima, ili neka druga greška.</li> <li>Provjerite da li je fajl premješten, obrisan ili mu je promijenjen naziv.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.title "Pristup datoteci je odbijen">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Možda je uklonjena, premještena ili dozvole za datoteku sprječavaju pristup.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; iz nekog razloga ne može učitati ovu stranicu.</p>
+">
 
-
+<!ENTITY malformedURI.title "Adresa nije ispravna">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
@@ -35,7 +57,6 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument je istekao">
-
 
 <!ENTITY netOffline.title "Offline režim">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -86,11 +107,11 @@
 <!ENTITY securityOverride.linkText "Ili možete dodati izuzetak…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Vodi me odavde!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izuzetak…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodati izuzetak ukoliko koristite internet konekciju kojoj ne vjerujete u potpunosti ili ako niste navikli da vidite upozorenje za ovaj server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
