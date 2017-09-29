@@ -28,4 +28,8 @@
 <!ENTITY addCloudFileAccount1.label       "Titz'aqatisäx…">
 <!ENTITY addCloudFileAccount1.accesskey   "t">
 <!ENTITY removeCloudFileAccount.label     "Tiyuj">
+<!ENTITY removeCloudFileAccount.accesskey "y">
+<!ENTITY authRequired.button.label        "Tiya' q'ij">
+<!ENTITY authRequired.button.accesskey    "U">
 
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

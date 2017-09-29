@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label                   "Chijun">
+<!ENTITY itemAutoComplete.label              "Taq ochochib'äl">
+<!ENTITY itemSpellCheck.label                "Tz'ib'anikil">
+
+<!ENTITY dialogCompose.title                 "Lema' tz'ib'anïk">
+
+<!ENTITY forwardMsg.label                     "Ketaq chik kitzijol:">
+<!ENTITY forwardMsg.accesskey                 "T">
+<!ENTITY inline.label                         "Pa k'amab'ey">
+<!ENTITY asAttachment.label                   "Achi'el Rutz'aqat">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Ruwäch tz'ib':">
+<!ENTITY font.accesskey                       "z">
+<!ENTITY size.label                           "Nimilem:">
+<!ENTITY size.accesskey                       "m">
+<!ENTITY fontColor.label                      "Rub'onil Rucholajem Tzij:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Rub'onil Rupam:">
+<!ENTITY bgColor.accesskey                    "p">
+<!ENTITY restoreHTMLDefaults.label            "Ketzolïx ri taq wachinel e k'o wi">
+<!ENTITY restoreHTMLDefaults.accesskey        "K">
+
+<!ENTITY languagePopup.label                  "Ch'ab'äl:">
+<!ENTITY languagePopup.accessKey              "C">
+<!ENTITY downloadDictionaries.label           "Keqasäx ch'aqa' chik taq Soltzij">
+
+<!ENTITY autoSaveEnd.label                    "taq ch'utiramaj">
+
+<!ENTITY addressingEnable.label                "Aj Wawe' Kiwujil Ochochib'äl">
+<!ENTITY addressingEnable.accesskey            "W">
+<!ENTITY directories.label                     "Rucholb'al K'uxasamaj:">
+<!ENTITY directories.accesskey                 "R">
+<!ENTITY directoriesNone.label                 "Majun">
+<!ENTITY editDirectories.label                 "Kenuk' taq Soltzij…">
+<!ENTITY editDirectories.accesskey             "K">
+
+<!ENTITY sendOptions.label                     "Kejaq Cha'oj…">
+
