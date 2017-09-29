@@ -6,7 +6,9 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Je nám to ľúto, nedarí sa nám obnoviť vaše stránky.">
+<!ENTITY restorepage.errorTitle2    "Je nám to ľúto, no nedarí sa nám obnoviť vaše stránky.">
+<!ENTITY restorepage.problemDesc2   "Máme nejaké problémy s obnovením vašej predchádzajúcej relácie. Vyberte možnosť Obnoviť reláciu a skúste to znova.">
+<!ENTITY restorepage.tryThis2       "Stále sa nedarí reláciu obnoviť? Niekedy za to môže niektorá z kariet. Pozrite sa na predchádzajúce karty, zrušte označenie tých, ktoré nepotrebujete obnoviť a potom pokračujte v obnove.">
 
 <!ENTITY restorepage.tryagainButton2 "Obnoviť reláciu">
 <!ENTITY restorepage.restore.access2 "O">
