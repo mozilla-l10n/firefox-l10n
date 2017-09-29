@@ -21,3 +21,4 @@
 <!ENTITY aboutTelemetry.slowSqlSection "Instructiones SQL lente">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalios del additivo">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "Recuperar le nomines de functiones pro le pilas">
