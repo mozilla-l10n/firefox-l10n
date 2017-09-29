@@ -56,6 +56,8 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navigation secundo le geolocalisation: ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Insere geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term3 "Clicca duple sur le preferentia geo.enabled">
 
 <!-- intro paragraph for unbranded builds -->
 
