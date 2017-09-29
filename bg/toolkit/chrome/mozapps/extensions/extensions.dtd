@@ -67,7 +67,7 @@
 <!ENTITY updates.resetUpdatesToManual.label          "Нулиране на всички добавки, за да бъдат ръчно обновявани">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "у">
 <!ENTITY updates.updating.label               "Обновяване на добавките">
-<!ENTITY updates.installed.label              "Вашите добавки бяха обновени.">
+<!ENTITY updates.installed.label              "Добавките са обновени.">
 <!ENTITY updates.downloaded.label             "Обновяването за вашите добавки е изтеглено.">
 <!ENTITY updates.restart.label                "Рестартирайте, за да завършите инсталацията сега">
 <!ENTITY updates.noneFound.label              "Не бяха намерени обновявания">
@@ -255,7 +255,6 @@
 <!ENTITY pluginDeprecation.description "Липсва ли нещо? Някои приставки вече не се поддържат от &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Научете повече">
 
-<!ENTITY legacyWarning.description "Липсва ли нещо? Някои разширения вече не се поддържат от &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Показване на остарелите разширения">
 <!ENTITY legacyExtensions.title "Остарели разширения">
 <!ENTITY legacyExtensions.description "Тези разширения не отговарят на текущите стандарти на &brandShortName; и затова са изключени.">
