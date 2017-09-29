@@ -5,3 +5,12 @@
 <!-- Labels -->
 <!ENTITY newFolderDialog.title      "K'ak'a' Yakwuj">
 <!ENTITY name.label                 "B'i'aj:">
+<!ENTITY name.accesskey             "b">
+<!ENTITY description.label          "Titz'uk achi'el jun ruyakwuj:">
+<!ENTITY description.accesskey      "t">
+<!ENTITY folderRestriction1.label   "Re k'uxasamaj re' nuq'ät ri kiyakwuj ka'i' nimaläj taq ruwäch.">
+<!ENTITY folderRestriction2.label   "Tiya' q'ij chi ri k'ak'a' ruyakwuj tuk'waj:">
+<!ENTITY foldersOnly.label          "Xa xe taq Yakwuj">
+<!ENTITY messagesOnly.label         "Xa xe taq Tzijol">
+<!ENTITY accept.label               "Titz'uk Yakwuj">
+<!ENTITY accept.accesskey           "z">
