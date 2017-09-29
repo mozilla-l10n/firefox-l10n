@@ -4,7 +4,8 @@
 
 <!ENTITY searchBar.label                       "Vyhľadávací panel">
 
-<!ENTITY searchBar.shown.label                 "Pridať na vyhľadávací panel na panel nástrojov">
+<!ENTITY searchBar.hidden.label                "Použiť na vyhľadávanie a navigáciu panel s adresou">
+<!ENTITY searchBar.shown.label                 "Pridať na panel nástrojov vyhľadávací panel">
 
 <!ENTITY defaultSearchEngine.label             "Predvolený vyhľadávací modul">
 
