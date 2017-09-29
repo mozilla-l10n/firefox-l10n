@@ -30,6 +30,9 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Impression digital SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Editar le parametros de confidentia del CA">
+<!ENTITY certmgr.editcert.trustssl            "Iste certificato pote identificar sitos web.">
+<!ENTITY certmgr.editcert.trustemail          "Iste certificato pote identificar usatores de e-posta.">
+<!ENTITY certmgr.editcert.trustobjsign        "Iste certificato pote identificar developpatores de software.">
 
 <!ENTITY certmgr.deletecert.title             "Deler le certificato">
 
