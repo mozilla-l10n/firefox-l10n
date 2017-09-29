@@ -25,6 +25,8 @@
 <!ENTITY  reloadAllTabs.accesskey            "а">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "Дупло јазиче">
+<!ENTITY  duplicateTab.accesskey             "Д">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -43,8 +45,12 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "Откачи јазиче">
 <!ENTITY  unpinTab.accesskey                 "т">
 <!ENTITY  sendTabToDevice.label              "Испрати јазиче на уред">
+<!ENTITY  sendTabToDevice.accesskey          "и">
 <!ENTITY  sendPageToDevice.label             "Испрати страница на уред">
+<!ENTITY  sendPageToDevice.accesskey         "и">
 <!ENTITY  sendLinkToDevice.label             "Испрати врска до уред">
+<!ENTITY  sendLinkToDevice.accesskey         "и">
+<!ENTITY  sendToDeviceFeedback.label         "Испратено!">
 <!ENTITY  moveToNewWindow.label              "Премести во нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "П">
 <!ENTITY  bookmarkAllTabs.label              "Обележи ги сите јазичиња…">
@@ -103,6 +109,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Информации за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Огледално јазиче">
+<!ENTITY mirrorTabCmd.accesskey "о">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "На цел екран">
