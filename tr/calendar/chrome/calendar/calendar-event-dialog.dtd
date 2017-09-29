@@ -183,6 +183,8 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.tooltip2                 "Etkinlik sahaları karşı teklifteki değerlerle doldurulacak, sadece ek değişiklikler olan veya olmayan kaydetme işlemi tüm katılımcıların buna göre uyarılmasını sağlayacak">
+<!ENTITY counter.button.original.tooltip2                 "Sahalar karşı teklif yapılmadan önceki özgün etkinlikteki değerlerle doldurulacak">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Başlık:" >
