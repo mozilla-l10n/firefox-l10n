@@ -16,8 +16,10 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "T">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Rady poskytla spoločnosť <a id='advisory_provider'/>.">
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "Návšteva tejto stránky môže poškodiť váš počítač">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -25,6 +27,7 @@
 
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Táto stránka môže obsahovať škodlivé programy">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -32,6 +35,7 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Podvodná stránka">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
