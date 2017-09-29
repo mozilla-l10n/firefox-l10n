@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ">
 <!ENTITY aboutNetworking.hostname              "ਹੋਸਟ-ਨਾਂ">
 <!ENTITY aboutNetworking.port                  "ਪੋਰਟ">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ਸਰਗਰਮ">
 <!ENTITY aboutNetworking.idle                  "ਵੇਹਲਾ">
@@ -40,3 +41,18 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "ਹੱਲ਼">
 <!ENTITY aboutNetworking.dnsDomain             "ਡੋਮੇਨ">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "RCWN ਅੰਕੜੇ">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN ਹਾਲਤ">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "ਕੈਸ਼ ਨੇ ਗਿਣਤੀ ਜਿੱਤੀ">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "ਨੈੱਟ ਨੇ ਗਿਣਤੀ ਜਿੱਤੀ">
+<!ENTITY aboutNetworking.totalNetworkRequests  "ਕੁੱਲ ਨੈੱਟਵਰਕ ਬੇਨਤੀ ਦੀ ਗਿਣਤੀ">
+<!ENTITY aboutNetworking.rcwnOperation         "ਕੈਸ਼ ਕਾਰਵਾਈਆਂ">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "ਖੋਲ੍ਹੋ">
+<!ENTITY aboutNetworking.rcwnPerfRead          "ਪੜ੍ਹਨ">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "ਲਿਖੋ">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "ਐਂਟਰੀ ਖੋਲ੍ਹੋ">
+<!ENTITY aboutNetworking.rcwnAvgShort          "ਛੋਟੀ ਔਸਤ">
+<!ENTITY aboutNetworking.rcwnAvgLong           "ਵੱਡੀ ਔਸਤ">
+<!ENTITY aboutNetworking.rcwnStddevLong        "ਲੰਮੀ ਸਟੈਂਡਰਡ ਡੇਵੀਏਸ਼ਨ">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ">
