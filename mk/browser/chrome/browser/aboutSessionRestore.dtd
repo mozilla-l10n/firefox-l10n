@@ -29,9 +29,11 @@
 
 <!ENTITY welcomeback2.tabtitle      "Успеав!">
 
-<!ENTITY welcomeback2.pageTitle     "Успех!">
+<!ENTITY welcomeback2.pageTitle     "Успеав!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; веќе се користи.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Врати ги сите прозорци и јазичиња">
+<!ENTITY welcomeback2.restoreSome.label "Врати ги само тие што сакаш">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

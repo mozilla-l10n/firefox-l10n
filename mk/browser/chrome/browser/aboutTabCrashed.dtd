@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Затвори го ова јазиче">
+<!ENTITY tabCrashed.title "Пријава за урнато јазиче">
+
+<!ENTITY tabCrashed.closeTab2  "Затвори јазиче">
 <!ENTITY tabCrashed.restoreTab "Врати го ова јазиче">
 <!ENTITY tabCrashed.restoreAll "Врати ги сите урнати јазичиња">
 
@@ -14,17 +16,17 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Хах. Јазичето штотуку се сруши.">
-<!ENTITY tabCrashed.offerHelp "Ние можеме да Ви помогнеме!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Изберете &tabCrashed.restoreTab; за да ја освежите содржината на страницата.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Изберете &tabCrashed.restoreTab; или &tabCrashed.restoreAll; за да ја освежите содржината на страницата.">
+<!ENTITY tabCrashed.offerHelp2 "Можеме да помогнеме!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Изберете &tabCrashed.restoreTab; за да ја превчитате страницата.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Изберете &tabCrashed.restoreTab; или &tabCrashed.restoreAll; за превчитување на страницата/pages.">
 <!ENTITY tabCrashed.requestHelp "Ќе ни помогнете?">
 <!ENTITY tabCrashed.requestHelpMessage "Извештаите за уривање ни помагаат да ги дијагностицираме проблемите и да го направиме &brandShortName; подобар.">
 <!ENTITY tabCrashed.requestReport "Пријавете го ова јазиче">
-<!ENTITY tabCrashed.sendReport2 "Испратете извештај за уривање за јазичето што го гледате">
+<!ENTITY tabCrashed.sendReport3 "Испратете автоматизиран извештај за да можеме да ги поправиме ваквите грешки.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Дополнителни коментари (коментарите се јавно-видливи)">
-<!ENTITY tabCrashed.includeURL2 "Вклучи и URL во овој извештај за уривање">
+<!ENTITY tabCrashed.includeURL3 "Вклучете ги адресите на мрежните места на коишто бевте кога &brandShortName; се урна.">
 <!ENTITY tabCrashed.emailPlaceholder "Внесете ја Вашата адреса за е-пошта овде">
 <!ENTITY tabCrashed.emailMe "Испрати ми е-пошта кога ќе има повеќе информации за ова">
 <!ENTITY tabCrashed.reportSent "Извештајот за уривање е веќе испратен; Ви благодариме што помагате &brandShortName; да биде подобар!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Пријавете ги позадинските јазичиња">
-<!ENTITY tabCrashed.autoSubmit2 "Ажурирај ги преференците за автоматско испраќање на извештаи за уривање, вклучително и извештаи за урнати позадински јазичиња од оваа и идните сесии на прелистување">
+<!ENTITY tabCrashed.autoSubmit3 "Ажурирајте ги поставките за автоматски да се испраќаат извештаи кога &brandShortName; ќе се урне.">
