@@ -15,3 +15,19 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "ਤਾਜ਼ਾ ਕਰੋ">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "ਸਾਫ਼ ਕਰੋ">
 <!ENTITY aboutUrlClassifier.cacheTableName              "ਸਾਰਣੀ ਦਾ ਨਾਂ">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "ਰਿਣਾਤਮਕ ਕੈਸ਼ ਐਂਟਰੀਆਂ ਦੀ ਗਿਣਤੀ">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "ਧਨਾਤਮਕ ਕੈਸ਼ ਐਂਟਰੀਆਂ ਦੀ ਗਿਣਤੀ">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "ਐਂਟਰੀਆਂ ਵੇਖਾਓ">
+<!ENTITY aboutUrlClassifier.cacheEntries                "ਕੈਸ਼ ਐਂਟਰੀਆਂ">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "ਪ੍ਰੀਫਿਕਸ">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "ਰਿਣਾਤਮਕ ਕੈਸ਼ ਦੀ ਮਿਆਦ">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "ਪੂਰਾ ਹੈਸ਼">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "ਧਨਾਤਮਕ ਕੈਸ਼ਨ ਦੀ ਮਿਆਦ">
+<!ENTITY aboutUrlClassifier.debugTitle                  "ਡੀਬੱਗ">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "ਲਾਗ ਮੋਡੀਊਲ ਸੈੱਟ ਕਰੋ">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "ਲਾਗ ਫ਼ਾਇਲ ਸੈੱਟ ਕਰੋ">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS ਲਾਗ ਸੈੱਟ ਕਰੋ">
+<!ENTITY aboutUrlClassifier.debugSBModules              "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ ਲਾਗ ਮੋਡੀਊਲ">
+<!ENTITY aboutUrlClassifier.debugModules                "ਮੌਜੂਦਾ ਲਾਗ ਮੋਡੀਊਲ">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "ਸੁਰੱਖਿਅਟ ਬਰਾਊਜ਼ਿੰਗ JS ਲਾਗ">
+<!ENTITY aboutUrlClassifier.debugFile                   "ਮੌਜੂਦਾ ਲਾਗ ਫਾਇਲ">
