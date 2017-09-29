@@ -266,7 +266,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "পাতা লোড হওয়ার সময় রিমোট ফন্ট ডাউনলোড কর">
 
 <!ENTITY pref_tracking_protection_title2 "ট্র্যাকিং সুরক্ষা">
-<!ENTITY pref_tracking_protection_summary3 "ব্যক্তিগত ব্রাউজিং এ সক্রিয় রয়েছে">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবে না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
@@ -281,11 +280,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "পরীক্ষামূলক বৈশিষ্ট্য">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "স্বনির্ধারিত ট্যাব">
-<!ENTITY pref_custom_tabs_summary3 "&brandShortName; এর স্বনির্ধারিত সংস্করণ ব্যবহার করে ওয়েব সাইট খুলতে অ্যাপকে অনুমোদন দিন।">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; এ খুলুন">
@@ -386,6 +380,8 @@
 <!ENTITY pref_dialog_set_default "ডিফল্ট হিসেবে নির্ধারণ করুন">
 <!ENTITY pref_dialog_default "ডিফল্ট">
 <!ENTITY pref_dialog_remove "মুছে ফেলুন">
+<!ENTITY pref_dialog_activitystream_header_content "অতিরিক্ত বিষয়">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "সম্প্রতি বুকমার্ক">
 <!ENTITY pref_dialog_activitystream_visited "পরিদর্শিত">
 
 <!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ অনুসন্ধান ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
@@ -488,7 +484,17 @@
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা">
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
 <!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "টপ সাইটে পিন করুন">
+<!ENTITY contextmenu_unpin_from_top_sites "টপ সাইট থেকে আনপিন করুন">
 <!ENTITY contextmenu_add_search_engine "অনুসন্ধান ইঞ্জিন যোগ করুন">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "টপ সাইটে পাতা পিন করুন">
+<!ENTITY unpinned_page_from_top_sites "টপ সাইট থেকে পাতা আনপিন করুন">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -809,7 +815,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইট">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; দ্বারা সুপারিশ করা">
 <!ENTITY activity_stream_highlights "হাইলাইট">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "আরও">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -818,6 +828,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "পরিদর্শিত">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "চলছে">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
