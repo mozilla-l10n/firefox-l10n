@@ -238,10 +238,17 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Unesite adresu ili pojam pretrage">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Općenito">
+<!ENTITY pref_header_search "Traži">
 <!ENTITY pref_header_privacy_short "Privatnost">
+<!ENTITY pref_header_accessibility "Pristupačnost">
+<!ENTITY pref_header_notifications "Obavijesti">
+<!ENTITY pref_header_advanced "Napredno">
 <!ENTITY pref_header_help "Pomoć">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Kolačići">
 <!ENTITY pref_cookies_accept_all "Omogućeno">
@@ -251,21 +258,42 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Ušteda podataka">
+<!ENTITY pref_category_media "Medij">
+<!ENTITY pref_category_developer_tools "Alati za razvoj">
 
+<!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
+<!ENTITY pref_tap_to_load_images_enabled "Uvijek">
+<!ENTITY pref_tap_to_load_images_data "Samo preko Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Blokirano">
 
+<!ENTITY pref_show_web_fonts "Prikaži web fontove">
+<!ENTITY pref_show_web_fonts_summary2 "Preuzmi udaljene fontove prilikom učitavanja stranice">
 
+<!ENTITY pref_tracking_protection_title2 "Zaštita od praćenja">
 <!ENTITY pref_donottrack_title "Nemoj me pratiti">
 <!ENTITY pref_donottrack_summary "&brandShortName; će reći stranicama da ne želite biti praćeni">
 
+<!ENTITY pref_tracking_protection_enabled "Omogućeno">
+<!ENTITY pref_tracking_protection_enabled_pb "Omogućeno u Privatnom pretraživanju">
+<!ENTITY pref_tracking_protection_disabled "Onemogućeno">
 
+<!ENTITY pref_whats_new_notification "Šta je novo u &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Saznajte o novim mogućnostima nakon nadogradnje">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Eksperimentalne mogućnosti">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Otvori u &formatS;">
+<!ENTITY custom_tabs_menu_footer "Pokreće ga &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL je kopiran">
 
+<!ENTITY pref_pwa "Progresivne web aplikacije">
+<!ENTITY pref_pwa_summary "Dozvoli dodavanje web aplikacija na početnu stranicu">
 
 <!ENTITY tracking_protection_prompt_title "Sada sa zaštitom od praćenja">
 <!ENTITY tracking_protection_prompt_text "Aktivno blokira elemente koji prate da se ne biste brinuli.">
@@ -279,10 +307,13 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ovo možete promijeniti kasnije u Postavkama">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Uključite dozvolu za crtanje preko drugih aplikacija">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogući">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne sada">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Idite na Postavke">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -294,34 +325,46 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Kako biste \&quot;otvorili višestruke veze\&quot;, omogućite dozvolu \&apos;Crtaj preko drugih aplikacija\&apos; za &brandShortName;">
 
 <!ENTITY pref_char_encoding "Enkodiranje karaktera">
 <!ENTITY pref_char_encoding_on "Prikaži meni">
 <!ENTITY pref_char_encoding_off "Ne prikazuj meni">
+<!ENTITY pref_clear_private_data2 "Očisti privatne podatke">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Obriši odmah">
+<!ENTITY pref_clear_on_exit_title3 "Očisti privatne podatke prilikom izlaza">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski brisati vaše podatke svaki put kada izaberete \&quot;Quit\&quot; u glavnom meniju">
 <!ENTITY pref_clear_on_exit_dialog_title "Izaberite podatke za brisanje">
+<!ENTITY pref_restore_tabs "Vrati tabove">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;a">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Koristi sistemski određenu veličinu fonta">
+<!ENTITY pref_use_system_font_size_summary "Prilagodi sadržaj prema sistemski određenoj veličini fonta">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolišite da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke da bi mogli zumirati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
+<!ENTITY pref_voice_input_summary2 "Dozvoli glasovni unos u URL traku">
 <!ENTITY pref_qrcode_enabled "Čitač QR koda">
+<!ENTITY pref_qrcode_enabled_summary2 "Dozvoli QR skener u URL traci">
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
+<!ENTITY pref_sync2 "Prijava">
 <!ENTITY pref_sync_summary2 "Sinhronizujte svoje tabove, zabilješke, prijave, historiju">
 <!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
+<!ENTITY pref_history_search_suggestions "Prikaži historiju pretraživanja">
+<!ENTITY pref_import_options "Opcije uvoza">
 <!ENTITY pref_import_android_summary "Uvezi zabilješke i historiju iz nativnog browsera">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Otvoreni tabovi">
 <!ENTITY pref_private_data_history2 "Historija surfanja">
 <!ENTITY pref_private_data_searchHistory "Historija pretraživanja">
 <!ENTITY pref_private_data_formdata2 "Historija formulara">
@@ -333,6 +376,8 @@
 <!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizovani tabovi">
 
+<!ENTITY pref_default_browser "Učinite zadanim pretraživačem">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Posjetite Mozillinu podršku">
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Često postavljena pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
@@ -340,6 +385,9 @@
 <!ENTITY pref_dialog_set_default "Postavi kao glavno">
 <!ENTITY pref_dialog_default "Izvorno">
 <!ENTITY pref_dialog_remove "Ukloni">
+<!ENTITY pref_dialog_activitystream_header_content "Dodatni sadržaj">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Nedavne zabilješke">
+<!ENTITY pref_dialog_activitystream_visited "Posjećeno">
 
 <!ENTITY pref_search_last_toast "Ne možete ukloniti niti onemogućiti vaš zadnji pretraživač.">
 
@@ -378,14 +426,18 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Automatska ažuriranja">
 <!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nikad">
+<!ENTITY pref_update_autodownload_always "Uvijek">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Pomoć">
 
 <!ENTITY quit "Izlaz">
 
+<!ENTITY addons "Dodaci">
+<!ENTITY logins "Prijave">
 <!ENTITY downloads "Preuzimanja">
 <!ENTITY char_encoding "Enkodiranje karaktera">
 
@@ -393,10 +445,16 @@
 <!ENTITY share_title "Dijeli putem">
 <!ENTITY share_image_failed "Ne mogu podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spasi kao PDF">
+<!ENTITY print "Štampaj">
+<!ENTITY find_in_page "Pronađi na stranici">
+<!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
 <!ENTITY page "Stranica">
 <!ENTITY tools "Alati">
+<!ENTITY new_tab "Novi tab">
+<!ENTITY new_private_tab "Novi privatni tab">
 <!ENTITY close_all_tabs "Zatvori sve tabove">
 <!ENTITY close_private_tabs "Zatvori privatne tabove">
+<!ENTITY tabs_normal "Tabovi">
 <!ENTITY tabs_private "Privatno">
 <!ENTITY set_image_fail "Ne mogu postaviti sliku">
 <!ENTITY set_image_path_fail "Ne mogu spasiti sliku">
@@ -404,7 +462,9 @@
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Pronađi na stranici">
 <!ENTITY find_prev "Prethodno">
+<!ENTITY find_next "Sljedeće">
 <!ENTITY find_close "Zatvori">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
@@ -418,6 +478,7 @@
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnom tabu">
 <!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
+<!ENTITY contextmenu_set_as_homepage "Postavi kao početnu stranicu">
 <!ENTITY contextmenu_share "Dijeli">
 <!ENTITY contextmenu_pasteandgo "Zalijepi i otvori">
 <!ENTITY contextmenu_paste "Zalijepi">
@@ -431,10 +492,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Zakači na popularne stranice">
+<!ENTITY contextmenu_unpin_from_top_sites "Otkači sa popularnih stranica">
 <!ENTITY contextmenu_add_search_engine "Dodaj pretraživač">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Stranica zakačena na najpopularnije stranice">
+<!ENTITY unpinned_page_from_top_sites "Stranica otkačena sa najpopularnijih stranica">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -452,10 +517,14 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Surfanje preko cijelog ekrana">
+<!ENTITY pref_scroll_title_bar_summary2 "Sakrij &brandShortName; alatnu traku dok skrolujem stranicu">
 
+<!ENTITY pref_tab_queue_title3 "Niz tabova">
+<!ENTITY pref_tab_queue_summary4 "Sačuvajte veze dok sljedeći put ne otvorite &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Kompaktni tabovi">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
