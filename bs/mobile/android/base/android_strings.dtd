@@ -21,14 +21,27 @@
 <!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Iskoristite Sinhronizaciju da nađete zabilješke, lozinke i druge stvari koje ste sačuvali u &brandShortName; na svim vašim uređajima.">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
-<!ENTITY  onboard_start_button_browser "Započni surfanje">
+<!ENTITY firstrun_signin_button "Prijavite se na Sinhronizaciju">
+<!ENTITY  onboard_start_button_browser "Započni pretraživanje">
+<!ENTITY firstrun_button_notnow "Ne sada">
+<!ENTITY firstrun_button_next "Sljedeće">
 
+<!ENTITY firstrun_tabqueue_title "Veze">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Uključi tabove na čekanju">
+<!ENTITY firstrun_tabqueue_subtext_off "Sačuvaj veze za kasnije u &brandShortName; kada pritisnete na njih u drugim aplikacijama.">
 
+<!ENTITY firstrun_tabqueue_message_on "Uspjeh!">
+<!ENTITY firstrun_tabqueue_subtext_on "Uvijek možete isključiti ovu mogućnost u &settings; pod &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Članci">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Očistite nered">
+<!ENTITY firstrun_readerview_subtext "Koristite Prikaz čitača kako biste učinili članke ugodnijima za čitanje \u2014 čak i u radu van mreže.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Vi">
+<!ENTITY firstrun_account_message "Imate li &brandShortName; na drugom uređaju?">
 
 <!ENTITY  onboard_start_restricted1 "Ostanite sigurni i zadržite kontrolu s ovom pojednostavljenom verzijom &brandShortName;a.">
 
@@ -40,6 +53,7 @@
 <!ENTITY  switch_to_tab "Prebaci na tab">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Prikazujem van mrežnu verziju">
 
 <!ENTITY  crash_reporter_title "&brandShortName; izvjestilac o rušenju">
 <!ENTITY  crash_message2 "&brandShortName; je naišao na problem i srušio se. Vaši tabovi bi trebali biti izlistani na &brandShortName; početnoj stranici nakon pokretanja.">
@@ -66,20 +80,31 @@
 <!ENTITY bookmark_removed "Zabilješka uklonjena">
 <!ENTITY bookmark_updated "Zabilješka ažurirana">
 <!ENTITY bookmark_options "Opcije">
+<!ENTITY bookmark_save "Sačuvaj">
+<!ENTITY screenshot_added_to_bookmarks "Snimak ekrana je dodat zabilješkama">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Snimci ekrana">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista za čitanje">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; stavke">
+<!ENTITY bookmark_folder_one_item "1 stavka">
+<!ENTITY bookmark_parent_folder "Nadređeni direktorij">
+<!ENTITY bookmark_add_folder "Dodaj novi direktorij">
 
+<!ENTITY reader_saved_offline "Sačuvano van mreže">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Prebaci">
 
 <!ENTITY history_today_section "Danas">
 <!ENTITY history_yesterday_section "Jučer">
+<!ENTITY history_week_section3 "Zadnjih 7 dana">
+<!ENTITY history_older_section3 "Starije od 6 mjeseci">
 
 <!ENTITY search "Traži">
 <!ENTITY reload "Ponovo učitaj">
@@ -91,8 +116,10 @@
 <!ENTITY edit_mode_cancel "Otkaži">
 
 <!ENTITY close_tab "Zatvori tab">
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; tabova">
 <!ENTITY new_tab_opened "Otvoren novi tab">
 <!ENTITY new_private_tab_opened "Otvoren novi privatni tab">
 <!-- Localization note (switch_button_message): This string should be as short
@@ -106,13 +133,17 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Reprodukujm audio – &formatS;">
 
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
+<!ENTITY pref_category_general "Opšte">
+<!ENTITY pref_category_general_summary3 "Početna, jezik, tab na čekanju">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Jezik">
 <!ENTITY pref_category_language_summary "Promijenite jezik vašeg browsera">
 <!ENTITY pref_browser_locale "Jezik browsera">
 
@@ -133,6 +164,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Već zabilježeno">
 <!ENTITY overlay_share_send_other "Pošalji na druge uređaje">
 
+<!ENTITY overlay_share_open_browser_btn_label "Otvori u &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -146,8 +178,15 @@
 <!ENTITY overlay_no_synced_devices "Nisu pronađeni uređaji povezani na Firefox račun">
 
 <!ENTITY pref_category_search3 "Traži">
+<!ENTITY pref_category_search_summary2 "Dodaj, postavi zadano, prikaži prijedloge">
+<!ENTITY pref_category_accessibility "Pristupačnost">
+<!ENTITY pref_category_accessibility_summary2 "Veličina teksta, uvećanje, glasovni unos">
 <!ENTITY pref_category_privacy_short "Privatnost">
+<!ENTITY pref_category_privacy_summary4 "Praćenje, prijave, izbori podataka">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "O &brandShortName;, često postavljana pitanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Izbori podataka">
+<!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači">
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača">
@@ -159,9 +198,14 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "SAVJET: Dodajte bilo koju stranicu na popis pretraživača interneta tako da dugo pritisnete na polje za pretraživanje i onda pritisnete &formatI; ikonu.">
+<!ENTITY pref_category_advanced "Napredno">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za razvoj">
+<!ENTITY pref_category_notifications "Obavijesti">
+<!ENTITY pref_category_notifications_summary "Nove mogućnosti, ažuriranja stranice">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno debagiranje preko USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno debagiranje preko Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debagiranje zahtijeva d vaš uređaj ima instaliran čitač QR koda.">
@@ -171,17 +215,24 @@
 <!ENTITY pref_category_home "Početna">
 <!ENTITY pref_category_home_summary "Prilagodite početnu stranicu">
 <!ENTITY pref_category_home_panels "Paneli">
+<!ENTITY pref_category_home_add_ons "Dodaci">
+<!ENTITY pref_home_updates2 "Ažuriranje sadržaja">
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
+<!ENTITY pref_category_home_homepage "Početna stranica">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Koristi i za nove tabove">
+<!ENTITY home_homepage_title "Postavi početnu stranicu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; početna stranica">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Prilagođeno">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
