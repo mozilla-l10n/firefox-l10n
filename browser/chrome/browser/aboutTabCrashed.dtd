@@ -17,8 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Åh nej, fanebladet er gået ned.">
 <!ENTITY tabCrashed.offerHelp2 "Vi kan hjælpe!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Klik på &tabCrashed.restoreTab; for at indlæse sidens indhold igen.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Klik på &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for at indlæse sidens indhold igen.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Klik på &tabCrashed.restoreTab; for at indlæse siden igen.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Klik på &tabCrashed.restoreTab; eller &tabCrashed.restoreAll; for at indlæse siden eller siderne igen.">
 <!ENTITY tabCrashed.requestHelp "Vil du hjælpe os?">
 <!ENTITY tabCrashed.requestHelpMessage "Fejlrapporter hjælper os med at diagnosticere problemer og gøre &brandShortName; bedre.">
 <!ENTITY tabCrashed.requestReport "Indrapporter dette faneblad">
