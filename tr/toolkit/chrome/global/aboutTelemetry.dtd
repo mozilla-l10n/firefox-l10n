@@ -61,7 +61,6 @@ Ham yük
 <!ENTITY aboutTelemetry.raw "Ham JSON">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "   NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. ">
-<!ENTITY aboutTelemetry.fetchStackSymbols "
-  Yığınların fonksiyon adlarını topla">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Yığınların fonksiyon adlarını topla">
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Ham yığın verilerini göster">
