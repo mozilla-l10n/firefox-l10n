@@ -52,13 +52,26 @@
 <!ENTITY malformedURI.title "Adresa nije ispravna">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul> 
+  <li>Web adrese obično izgledaju nešto nalik na 
+    <strong>http://www.example.com/</strong></li>
+	<div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Traži</button>
+    </div>
+  <li>Provjerite da li koristite ispravne znakove (npr. 
+    <strong>/</strong>).</li> 
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Veza je prekinuta">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokument je istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; privremenoj memoriji.</p><ul><li>Radi sigurnosti, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušajte ponovo da biste zatražili dokument od web stranice.</li></ul>">
 
-<!ENTITY netOffline.title "Offline režim">
+<!ENTITY netOffline.title "Rad van mreže">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> <li>Pokušajte ponovo. &brandShortName; će pokušati otvoriti vezu i ponovo učitati stranicu. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
@@ -75,6 +88,7 @@
 <!ENTITY netTimeout.title "Veza je istekla">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
+<!ENTITY unknownProtocolFound.title "Adresa nije prepoznata">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda ćete trebati instalirati dodatni softver da otvorite ovu adresu.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server odbija veze">
@@ -85,6 +99,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Provjerite da li su postavke proxyja ispravne.</li> <li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja. <button id='wifi'>Omogući Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Stranica ne preusmjerava ispravno">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti izazvan onemogućavanjem ili odbijanjem prihvatanja kolačića.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od servera">
@@ -94,9 +109,27 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Neuspjela sigurna veza">
+<!ENTITY nssBadCert.longDesc2 "
+<ul> 
+  <li>Ovo može biti uzrokovano postavkama na poslužitelju ili je moguće da 
+neko pokušava oponašati ovaj poslužitelj.</li> 
+  <li>Ako ste se na ovaj poslužitelj u prošlosti bez problema spajali, moguće je 
+da je greška privremena, stoga možete pokušati ponovno kasnije.</li> 
+</ul>
+">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Stranica je trenutno nedostupna ili je preopterećena. Pokušajte ponovo za nekoliko trenutaka.</li>
+  <li>Ako ne možete da učitate bilo koju stranicu, provjerite mobilnu ili Wi-Fi vezu
+uređaja.
+    <button id='wifi'>Omogući Wi-Fi</button>
+  </li>
+</ul>
+
+">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je spriječio učitavanje stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
@@ -118,11 +151,17 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Molimo da obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Uspostava sigurne veze nije uspjela">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Napredne informacije: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Napredne informacije: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti server prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
