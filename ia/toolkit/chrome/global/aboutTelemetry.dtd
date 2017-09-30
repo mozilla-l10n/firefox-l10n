@@ -16,9 +16,22 @@
 
 
 <!ENTITY aboutTelemetry.homeSection "A casa">
+<!ENTITY aboutTelemetry.generalDataSection "Datos general">
+<!ENTITY aboutTelemetry.environmentDataSection "Datos ambiental">
+<!ENTITY aboutTelemetry.sessionInfoSection "Informationes de session">
+<!ENTITY aboutTelemetry.scalarsSection "Scalares">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Scalares con clave">
 <!ENTITY aboutTelemetry.histogramsSection "Histogrammas">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Histogrammas con clave">
 <!ENTITY aboutTelemetry.eventsSection "Eventos">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Mesuras simple">
+<!ENTITY aboutTelemetry.telemetryLogSection "Registro de telemetria">
 <!ENTITY aboutTelemetry.slowSqlSection "Instructiones SQL lente">
+<!ENTITY aboutTelemetry.chromeHangsSection "Blocage del navigator">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalios del additivo">
+<!ENTITY aboutTelemetry.capturedStacksSection "Pilas capturate">
+<!ENTITY aboutTelemetry.lateWritesSection "Scripturas tarde">
+<!ENTITY aboutTelemetry.rawPayloadSection "Carga brute">
+<!ENTITY aboutTelemetry.raw "JSON brute">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recuperar le nomines de functiones pro le pilas">
