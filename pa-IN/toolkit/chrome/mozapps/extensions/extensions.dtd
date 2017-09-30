@@ -20,9 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ">
 
-<!ENTITY getThemes.description                "Looking to personalize your browser?">
-<!ENTITY getThemes.learnMore                  "Choose from thousands of themes.">
-
+<!ENTITY getThemes.description                "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਨਿੱਜੀ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY getThemes.learnMore                  "ਹਜ਼ਾਰਾਂ ਥੀਮਾਂ ਤੋਂ ਚੁਣੋ।">
 
 <!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
@@ -35,8 +34,8 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ਸੁਰੱਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।">
 <!ENTITY warning.checkcompatibility.label          "ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।">
-<!ENTITY warning.checkcompatibility.enable.label   "ਚਾਲੂ">
-<!ENTITY warning.checkcompatibility.enable.tooltip "ਐਡ-ਆਨ ਦੀ ਅਨੁਕੂਲਤਾ ਨੂੰ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY warning.checkcompatibility.enable.label   "ਸਮਰੱਥ">
+<!ENTITY warning.checkcompatibility.enable.tooltip "ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY warning.updatesecurity.label              "ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।">
 <!ENTITY warning.updatesecurity.enable.label       "ਚਾਲੂ">
 <!ENTITY warning.updatesecurity.enable.tooltip     "ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ">
@@ -45,7 +44,7 @@
 <!ENTITY view.search.label                    "ਖੋਜ">
 <!ENTITY view.discover.label                  "ਐਡ-ਆਨ ਲਵੋ">
 <!ENTITY view.recentUpdates.label             "ਤਾਜ਼ਾ ਅੱਪਡੇਟ">
-<!ENTITY view.availableUpdates.label          "ਉਪਲੱਬਧ ਅੱਪਡੇਟ">
+<!ENTITY view.availableUpdates.label          "ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ">
@@ -119,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ਇਸ ਅੱਪਡੇਟ ਲਈ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਵੇਖੋ">
 <!ENTITY cmd.hideReleaseNotes.label           "ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ਇਹ ਅੱਪਡੇਟ ਲਈ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਓਹਲੇ ਕਰੋ">
+<!ENTITY cmd.findReplacement.label            "ਬਦਲ ਲੱਭੋ">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -186,6 +186,10 @@
 <!ENTITY addon.details.label                  "ਹੋਰ">
 <!ENTITY addon.details.tooltip                "ਇਸ ਐਡ-ਆਨ ਬਾਰੇ ਹੋਰ ਵੇਰਵਾ ਵੇਖੋ">
 <!ENTITY addon.unknownDate                    "ਅਣਜਾਣ">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ਪੁਰਾਣਾ">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -250,3 +254,8 @@
 
 <!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "ਹੋਰ ਜਾਣੋ।">
+
+<!ENTITY legacyWarning.showLegacy "ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਸ਼ਨਾਂ ਵੇਖਾਓ">
+<!ENTITY legacyExtensions.title "ਪੁਰਾਣੀਆਂ ਇਕਟੈਨਸ਼ਨਾਂ">
+<!ENTITY legacyExtensions.description "ਇਹ ਇਕਟੈਸ਼ਨਾਂ ਮੌਜੂਦਾ &brandShortName; ਸਟੈਂਡਰਡਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਇਸਕਰਕੇ ਇਹਨਾਂ ਨੂੰ ਨਾ-ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ ਹੈ।">
+<!ENTITY legacyExtensions.learnMore "ਐਡ-ਆਨ 'ਚ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਜਾਣੋ">
