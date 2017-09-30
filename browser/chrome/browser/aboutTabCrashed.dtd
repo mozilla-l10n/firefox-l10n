@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Pelapor kerusakan tab">
 
 <!ENTITY tabCrashed.closeTab2  "Tutup Tab">
 <!ENTITY tabCrashed.restoreTab "Pulihkan Tab Ini">
@@ -22,6 +23,7 @@
 <!ENTITY tabCrashed.requestReport "Laporkan tab ini">
 <!ENTITY tabCrashed.sendReport3 "Kirim laporan kerusakan otomatis agar kami dapat memperbaiki masalah seperti ini.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar tambahan (komentar dapat dilihat umum)">
+<!ENTITY tabCrashed.includeURL3 "Sertakan URL situs di mana Anda berada ketika &brandShortName; rusak.">
 <!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat surel Anda di sini">
 <!ENTITY tabCrashed.emailMe "Kirimi saya surel saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
