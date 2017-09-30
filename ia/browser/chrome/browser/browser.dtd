@@ -53,7 +53,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Marcar tote le schedas…">
+<!ENTITY  bookmarkAllTabs.label              "Mitter marcapaginas in tote le schedas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Disfacer le clauder del scheda">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -86,9 +86,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Barra de Menus">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de Navigation">
-<!ENTITY personalbarCmd.label "Barra de paginas marcate">
+<!ENTITY personalbarCmd.label "Barra de marcapaginas">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Elementos del barra de paginas marcate">
+<!ENTITY bookmarksToolbarItem.label "Elementos del barra de marcapaginas">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar tote le schedas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">

@@ -18,7 +18,7 @@
 -->
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 
-<!ENTITY abouthome.bookmarksButton.label "Marca-paginas">
+<!ENTITY abouthome.bookmarksButton.label "Marcapaginas">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the

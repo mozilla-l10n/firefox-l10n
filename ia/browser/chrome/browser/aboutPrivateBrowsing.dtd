@@ -19,7 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "salvara">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vostres:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "discargas">
-<!ENTITY aboutPrivateBrowsing.info.bookmarks             "marca-paginas">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcapaginas">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navigation private ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "non te face anonyme">
 <!ENTITY aboutPrivateBrowsing.note.after                 " in Internet. Tu empleator o tu provisor de servicios Internet pote ancora saper que pagina tu visita.">
