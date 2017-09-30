@@ -33,8 +33,8 @@
 <!ENTITY  history.label                 "Žurnalas">
 <!ENTITY  permissions.label             "Leidimai">
 
-<!ENTITY  addressBar.label              "Adreso juosta">
-<!ENTITY  addressBar.suggest.label      "Rašant adreso juostoje, siūlyti">
+<!ENTITY  addressBar.label              "Adreso laukas">
+<!ENTITY  addressBar.suggest.label      "Rašant adreso lauke, siūlyti:">
 <!ENTITY  locbar.history2.label         "Naršymo žurnalas">
 <!ENTITY  locbar.history2.accesskey     "r">
 <!ENTITY  locbar.bookmarks.label        "Adresynas">

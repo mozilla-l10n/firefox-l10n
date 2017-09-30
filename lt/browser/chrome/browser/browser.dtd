@@ -975,8 +975,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
-<!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso juosta">
-<!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso juostos">
+<!ENTITY pageAction.addToUrlbar.label "Pridėti į adreso lauką">
+<!ENTITY pageAction.removeFromUrlbar.label "Pašalinti iš adreso lauko">
 
 <!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">

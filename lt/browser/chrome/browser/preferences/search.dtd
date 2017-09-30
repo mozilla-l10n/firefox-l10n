@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchBar.label                       "Paieškos juosta">
+<!ENTITY searchBar.label                       "Paieškos laukas">
 
-<!ENTITY searchBar.hidden.label                "Paieškai ir naršymui naudokite adreso juostą">
-<!ENTITY searchBar.shown.label                 "Pridėti paieškos juostą į priemonių juostą">
+<!ENTITY searchBar.hidden.label                "Paieškai ir naršymui naudoti adreso lauką">
+<!ENTITY searchBar.shown.label                 "Pridėti paieškos lauką į priemonių juostą">
 
 <!ENTITY defaultSearchEngine.label             "Numatytoji ieškyklė">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso juostoje bei paieškos juostoje.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso ir paieškos laukuose.">
 
 <!ENTITY provideSearchSuggestions.label        "Pateikti paieškos pasiūlymus">
 <!ENTITY provideSearchSuggestions.accesskey    "i">
 
-<!ENTITY showURLBarSuggestions2.label           "Rodyti paieškos žodžių siūlymus adreso juostos rezultatuose">
+<!ENTITY showURLBarSuggestions2.label           "Rodyti paieškos žodžių siūlymus adreso lauko rezultatuose">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „&brandShortName;“ niekada nevestų žurnalo.">
 
 <!ENTITY oneClickSearchEngines.label           "Ieškyklės vienu spustelėjimu">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Pasirinkite alternatyvias ieškykles, kurios pasirodo po adreso juosta bei paieškos juosta, kai pradedate vesti žodį.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Pasirinkite alternatyvias ieškykles, kurios pasirodo po adreso ir paieškos laukais, kai pradedate vesti žodį.">
 
 <!ENTITY engineNameColumn.label                "Ieškyklė">
 <!ENTITY engineKeywordColumn.label             "Reikšminis žodis">
