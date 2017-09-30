@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY acceptIntegration.label  "Tichap achi'el ri K'o wi">
+<!ENTITY cancelIntegration2.label  "Tiq'at">
+
+<!ENTITY email.label "Taqoya'l">
+<!ENTITY newsgroups.label "Rumolaj tzijol">
+<!ENTITY feeds.label "Taq b'ey">
+
+
+<!ENTITY checkOnStartup.label "Junelïk tinik'öx toq nitikirisäx el ri &brandShortName;">
+<!ENTITY checkOnStartup.accesskey "J">
+
+<!ENTITY searchIntegration.label "Tiya' q'ij chi re &searchIntegration.engineName; chi yerukanoj taq tzijol">
+<!ENTITY searchIntegration.accesskey "S">
