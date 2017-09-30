@@ -137,7 +137,7 @@ available. -->
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings2.label
-                                         "გამოიყენეთ წარმადობის სასურველი პარამეტრები">
+                                         "წარმადობის სასურველი პარამეტრების გამოყენება">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "ეს პარამეტრები მორგებულია თქვენი კომპიუტერის აპარატურასა და საოპერაციო სისტემაზე.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey

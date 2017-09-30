@@ -4,7 +4,7 @@
 
 <!ENTITY searchBar.label                       "ძიების ველი">
 
-<!ENTITY searchBar.hidden.label                "გამოიყენეთ მისამართების ველი ძიებისა და გვერდებზე გადაადგილებისთვის">
+<!ENTITY searchBar.hidden.label                "ერთიანი მისამართების ველის გამოყენება ძიებისა და გვერდებზე გადაადგილებისთვის">
 <!ENTITY searchBar.shown.label                 "ძიების ველის დამატება ხელსაწყოთა ზოლზე">
 
 <!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
