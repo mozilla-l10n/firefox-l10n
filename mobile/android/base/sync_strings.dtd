@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ਨੂੰ ਸੈਟਅੱਪ ਕੀਤਾ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਐਂਡਰਾਈਡ ਸੈਟਿੰਗਾਂ &gt; ਡਾਟਾ ਵਰਤੋ ਵਿੱਚ “ਡਾਟੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਕਰੋ” ਨੂੰ ਬਦਲੋ'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ਨੂੰ ਸੈਟਅੱਪ ਕੀਤਾ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰਦਾ ਹੈ। ਐਂਡਰਾਈਡ ਸੈਟਿੰਗਾਂ &gt; ਖਾਤੇ ਮੇਨੂ ਵਿੱਚ “ਡਾਟੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਕਰੋ” ਨੂੰ ਬਦਲੋ'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
+<!ENTITY fxaccount_status_choose_what 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords2 'ਲਾਗਇਨ'>
@@ -76,14 +77,14 @@
 <!ENTITY fxaccount_status_linkprivacy2 'ਪਰਦੇਦਾਰੀ ਦੀ ਸੂਚਨਾ'>
 <!ENTITY fxaccount_remove_account 'ਡਿਸ-ਕਨੈਕਟ ਕਰੋ&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 'Disconnect from Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'Your browsing data will remain on this device, but it will no longer sync with your account.'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'ਸਿੰਕ ਤੋਂ ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ਤੁਹਾਡਾ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟਾ ਇਸ ਡਿਵਾਈਸ \&apos;ਤੇ ਰਹੇਗਾ, ਪਰ ਇਸ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਲਿੰਕ ਨਹੀਂ ਹੋਵੇਗਾ।'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Firefox Account &formatS; disconnected.'>
+<!ENTITY fxaccount_remove_account_toast2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ &formatS; ਡਿਸਕਨੈਕਟ ਹੈ।'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Disconnect'>
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ਡਿਸ-ਕਨੈਕਟ ਕਰੋ'>
 
 <!ENTITY fxaccount_enable_debug_mode 'ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸਮਰੱਥ ਕਰੋ'>
 

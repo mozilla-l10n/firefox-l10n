@@ -5,7 +5,9 @@
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ਚੁਣਨ ਵਾਸਤੇ ਧੰਨਵਾਦ">
 <!ENTITY firstrun_panel_title_privacy "ਪਰਦੇਦਾਰੀ">
+<!ENTITY firstrun_privacy_message "ਬਰਾਊਜ਼ ਇੰਝ ਕਰੋ ਕਿ ਕੋਈ ਨਾ ਵੇਖੇ">
 <!ENTITY firstrun_panel_title_customize "ਕਸਟਮਾਈਜ਼">
+<!ENTITY firstrun_customize_message "&brandShortName; ਨੂੰ ਆਪਣਾ ਬਣਾਓ।">
 <!ENTITY firstrun_bookmarks_title "ਅਤੀਤ">
 <!ENTITY firstrun_bookmarks_message "ਤੁਹਾਡੇ ਮਨਪਸੰਦ, ਅੱਗੇ ਅਤੇ ਕੇਂਦਰ ਵਿੱਚ">
 <!ENTITY firstrun_bookmarks_subtext "ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਅਤੀਤ ਤੋਂ ਨਤੀਜੇ ਲਵੋ, ਜਦੋਂ ਤੁਸੀਂ ਲੱਭਦੇ ਹੋ।">
@@ -13,6 +15,7 @@
 <!ENTITY firstrun_data_message "ਘੱਟ ਡਾਟਾ, ਵੱਧ ਬੱਚਤ">
 <!ENTITY firstrun_data_subtext2 "ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾਂਦੀ ਹਰ ਸਾਈਟ ਲਈ ਡਾਟੇ ਨੂੰ ਘਟਾਉਣ ਲਈ ਚਿੱਤਰਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।">
 <!ENTITY firstrun_sync_title "ਸਿੰਕ ਕਰੋ">
+<!ENTITY firstrun_sync_message2 "ਜਿੱਥੇ ਛੱਡਿਆ ਸੀ, ਉੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ।">
 <!ENTITY firstrun_signin_message "ਕਨੈਕਟ ਹੋਵੋ, ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY firstrun_signin_button "ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
@@ -820,7 +823,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "ਸੁਰਖੀਆਂ">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
-<!ENTITY activity_stream_link_more1 "MORE">
+<!ENTITY activity_stream_link_more1 "ਹੋਰ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -838,6 +841,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "ਹਟਾਓ">
 <!ENTITY activity_stream_delete_history "ਅਤੀਤ ਚੋਂ ਹਟਾਓ">
 
+<!ENTITY private_tab_panel_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ + ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ">
 <!ENTITY private_tab_learn_more "ਹੋਰ ਸਿੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?">
 
 <!ENTITY fullscreen_warning "ਪੂਰੀ ਸਕਰੀਨ \&apos;ਤੇ">
