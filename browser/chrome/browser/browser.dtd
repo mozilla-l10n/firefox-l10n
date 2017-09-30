@@ -805,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søg i synkroniserede faneblade">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -982,9 +981,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
 
 <!ENTITY libraryButton.tooltip "Se historik, gemte bogmærker og andet">
-
-<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
-     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
-     used as a textual label for the indicator used by assistive technology
-     users. -->
-<!ENTITY accessibilityIndicator.tooltip "Tilgængeligheds-funktioner er slået til">
