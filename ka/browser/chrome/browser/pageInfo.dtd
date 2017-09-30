@@ -30,7 +30,7 @@
 <!ENTITY  mediaTab              "მედია">
 <!ENTITY  mediaTab.accesskey    "მ">
 <!ENTITY  mediaLocation         "მდებარეობა:">
-<!ENTITY  mediaText             "ასოცირებული ტექსტი:">
+<!ENTITY  mediaText             "ალტერნატული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "ტიპი">
