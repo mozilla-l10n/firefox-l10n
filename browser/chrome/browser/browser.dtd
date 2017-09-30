@@ -440,6 +440,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ਗੁਰ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "…ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
@@ -962,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; ਦੀ ਨਵੀਂ ਕਾਪੀ ਡਾਊਨਲੋਡ ਕਰੋ">
 
+<!ENTITY updateRestart.message2 "ਤੁਰੰਤ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੇ ਬਾਅਦ &brandShorterName; ਤੁਹਾਡੀਆਂ ਖੁੱਲੀਆਂ ਟੈਬਾਂ ਅਤੇ ਵਿੰਡੋ, ਜੋ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ 'ਚ ਨਹੀਂ ਹਨ, ਨੂੰ ਬਹਾਲ ਕਰੇਗਾ।">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; ਅੱਪਡੇਟ ਕਰਨ ਵਾਸਤੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ।">
 <!ENTITY updateRestart.acceptButton.label "ਮੁੜ-ਚਾਲੂ ਅਤੇ ਬਹਾਲ ਕਰੋ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">

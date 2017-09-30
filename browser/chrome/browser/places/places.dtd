@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "ਬੈਕਅੱਪ…">
 <!ENTITY cmd.backup.accesskey           "B">
-<!ENTITY cmd.restore2.label             "ਰੀ-ਸਟੋਰ">
+<!ENTITY cmd.restore2.label             "ਬਹਾਲ ਕਰੋ">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "…ਫਾਈਲ ਨੂੰ ਚੁਣੋ">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "ਜੋੜਨ ਮਿਤੀ">
 <!ENTITY col.lastmodified.label  "ਆਖਰੀ ਸੋਧ">
 
-<!ENTITY search.placeholder  "ਖੋਜੋ">
+<!ENTITY historySearch.placeholder  "ਅਤੀਤ ਖੋਜੋ">
+<!ENTITY bookmarksSearch.placeholder  "ਬੁੱਕਮਾਰਕ ਖੋਜੋ">
 
 <!ENTITY cmd.find.key  "f">
 
