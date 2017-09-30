@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "Adgang til denne adresse er underlagt begrænsninger">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.Pagetitle "Serveren blev ikke fundet">
+<!ENTITY dnsNotFound.pageTitle "Serveren blev ikke fundet">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Den side kan vi ikke finde…">
 <!ENTITY dnsNotFound.longDesc1 "
@@ -54,6 +54,8 @@
 <!ENTITY captivePortal.longDesc2 "
 <p>Dette netværk kræver, at du skal logge ind for at bruge internettet.</p>
 ">
+
+<!ENTITY openPortalLoginPage.label2 "Åbn netværkets login-side">
 
 <!ENTITY malformedURI.pageTitle "Udgyldig URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
