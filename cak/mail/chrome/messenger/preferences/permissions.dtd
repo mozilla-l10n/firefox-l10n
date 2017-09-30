@@ -15,5 +15,14 @@
 <!ENTITY address.accesskey            "c">
 <!ENTITY block.label                  "Tiq'eleb'ëx">
 <!ENTITY block.accesskey              "T">
+<!ENTITY session.label                "Tiya' q'ij xa xe chi re Molojri'ïl re'">
+<!ENTITY session.accesskey            "j">
+<!ENTITY allow.label                  "Tiya' q'ij">
+<!ENTITY allow.accesskey              "y">
+<!ENTITY windowClose.key              "j">
 
+<!ENTITY button.cancel.label          "Tiq'at">
+<!ENTITY button.cancel.accesskey      "q">
+<!ENTITY button.ok.label              "Keyak taq Jaloj">
+<!ENTITY button.ok.accesskey          "y">
 
