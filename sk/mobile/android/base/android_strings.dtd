@@ -512,7 +512,7 @@
 <!ENTITY doorhanger_login_select_message "Kopírovať heslo z &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Heslo bolo skopírované do schránky">
 <!ENTITY doorhanger_login_select_action_text "Zvoliť iné prihlasovacie údaje">
-<!ENTITY doorhanger_login_select_title "Skopírovať heslo z">
+<!ENTITY doorhanger_login_select_title "Kopírovať heslo z">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
