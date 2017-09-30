@@ -37,9 +37,20 @@
 <!ENTITY defaultSize.label       "Nimilem:">
 <!ENTITY defaultSize.accesskey   "N">
 <!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Taq Q'axinäq…">
+<!ENTITY colorButton.label       "Taq b'onil…">
+<!ENTITY colorButton.accesskey   "b">
 
 <!-- Advanced -->
+<!ENTITY reading.caption                  "Sik'inem">
+<!ENTITY display.caption                  "Tik'ut pe">
 
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY secondsLabel.label               "taq xil ramaj">
+<!ENTITY openMsgIn.label                  "Kejaq taq tzijol pa:">
+<!ENTITY openMsgInNewTab.label            "Jun k'ak'a' ruwi'">
+<!ENTITY openMsgInNewTab.accesskey        "r">
+<!ENTITY reuseExpRadio0.label             "Jun k'ak'a' rutzuwäch tzijol">
+<!ENTITY reuseExpRadio0.accesskey         "k">
