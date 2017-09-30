@@ -34,12 +34,12 @@
 <!ENTITY  permissions.label             "Leidimai">
 
 <!ENTITY  addressBar.label              "Adreso laukas">
-<!ENTITY  addressBar.suggest.label      "Rašant adreso lauke, siūlyti:">
-<!ENTITY  locbar.history2.label         "Naršymo žurnalas">
+<!ENTITY  addressBar.suggest.label      "Rašant adreso lauke, rodyti pasiūlymus iš:">
+<!ENTITY  locbar.history2.label         "naršymo žurnalo">
 <!ENTITY  locbar.history2.accesskey     "r">
-<!ENTITY  locbar.bookmarks.label        "Adresynas">
+<!ENTITY  locbar.bookmarks.label        "adresyno">
 <!ENTITY  locbar.bookmarks.accesskey    "y">
-<!ENTITY  locbar.openpage.label         "Atverti korteles">
+<!ENTITY  locbar.openpage.label         "atvertų kortelių">
 <!ENTITY  locbar.openpage.accesskey     "v">
 <!ENTITY  locbar.searches.label         "Susiję paieškos iš numatytosios ieškyklės">
 <!ENTITY  locbar.searches.accesskey     "j">

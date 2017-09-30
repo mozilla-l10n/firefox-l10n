@@ -38,7 +38,7 @@ available. -->
 <!ENTITY dataCollectionPrivacyNotice.label    "Privatumo nuostatai">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Leisti „&brandShortName;“ siųsti strigčių ataskaitas „Mozillai“">
-<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "s">
 <!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
 
 <!ENTITY networkTab.label                "Tinklas">
@@ -94,21 +94,21 @@ available. -->
                                          "Laiku atnaujinkite „&brandShortName;“ didesniam našumui, stabilumui bei saugumui užtikrinti.">
 <!ENTITY updateApplication.version.pre   "Laida ">
 <!ENTITY updateApplication.version.post  "">
-<!ENTITY updateApplication.description   "Leisti „&brandShortName;“">
-<!ENTITY updateAuto3.label               "Automatiškai įdiegti naujinimus (rekomenduojama).">
+<!ENTITY updateApplication.description   "Leisti „&brandShortName;“:">
+<!ENTITY updateAuto3.label               "automatiškai įdiegti naujinimus (rekomenduojama)">
 <!ENTITY updateAuto3.accesskey           "A">
-<!ENTITY updateCheckChoose2.label        "Tikrinti ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
+<!ENTITY updateCheckChoose2.label        "tikrinti ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
 <!ENTITY updateCheckChoose2.accesskey    "T">
-<!ENTITY updateManual2.label             "Niekada netikrinti ar yra naujinimų (nerekomenduojama)">
+<!ENTITY updateManual2.label             "niekada netikrinti ar yra naujinimų (nerekomenduojama)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Rodyti naujinimų žurnalą…">
 <!ENTITY updateHistory2.accesskey        "R">
 
-<!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
+<!ENTITY useService.label                "naujinimų įdiegimui naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY enableSearchUpdate2.label       "Automatiškai naujinti ieškykles">
+<!ENTITY enableSearchUpdate2.label       "automatiškai naujinti ieškykles">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.label               "Pranešti, kai svetainė prašo leidimo kompiuteryje įrašyti duomenis, reikalingus darbui neprisijungus prie tinklo">
@@ -123,9 +123,9 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Pašalinti darbui neprisijungus skirtus duomenis">
 
 <!ENTITY certificateTab.label            "Liudijimai">
-<!ENTITY certPersonal2.description       "Svetainei paprašius jūsų asmeninio liudijimo">
+<!ENTITY certPersonal2.description       "Svetainei paprašius jūsų asmeninio liudijimo:">
 <!ENTITY selectCerts.auto                "parinkti jį automatiškai">
-<!ENTITY selectCerts.auto.accesskey      "e">
+<!ENTITY selectCerts.auto.accesskey      "r">
 <!ENTITY selectCerts.ask                 "visada klausti">
 <!ENTITY selectCerts.ask.accesskey       "v">
 <!ENTITY enableOCSP.label                "Tikrinti liudijimų galiojimą, užklausiant OCSP atsakiklių">
