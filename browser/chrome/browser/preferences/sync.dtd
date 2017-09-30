@@ -6,17 +6,17 @@
 
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "a">
-<!ENTITY engine.tabs.label2         "Atviros kortelės">
+<!ENTITY engine.tabs.label2         "atvertas korteles">
 <!ENTITY engine.tabs.accesskey      "k">
 <!ENTITY engine.history.label       "žurnalą">
 <!ENTITY engine.history.accesskey   "ž">
-<!ENTITY engine.logins.label        "Prisijungimai">
+<!ENTITY engine.logins.label        "prisijungimus">
 <!ENTITY engine.logins.accesskey    "P">
 <!ENTITY engine.prefs.label         "nuostatas">
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.addons.label        "priedus">
 <!ENTITY engine.addons.accesskey    "p">
-<!ENTITY engine.addresses.label     "Adresai">
+<!ENTITY engine.addresses.label     "adresus">
 <!ENTITY engine.addresses.accesskey "e">
 <!ENTITY engine.creditcards.label   "Kreditinės kortelės">
 <!ENTITY engine.creditcards.accesskey "r">
@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "J">
 
 <!ENTITY signedIn.settings.label       "Sinchronizavimo nuostatos">
-<!ENTITY signedIn.settings.description "Pasirinkite, ką sinchronizuoti jūsų įrenginiuose, naudojant „&brandShortName;“.">
+<!ENTITY signedIn.settings.description "Pasirinkite, ką sinchronizuoti jūsų įrenginiuose, naudojant „&brandShortName;“:">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
