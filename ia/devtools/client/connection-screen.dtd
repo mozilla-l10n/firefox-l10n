@@ -8,9 +8,11 @@
   - -->
 
 <!ENTITY title      "Connecter">
+<!ENTITY header     "Connecter se a un dispositivo remote">
 <!ENTITY host       "Servitor hospite:">
 <!ENTITY port       "Porta:">
 <!ENTITY connect    "Connecter">
+<!ENTITY connecting "Connexion…">
 <!ENTITY availableAddons "Additivos remote disponibile:">
 <!ENTITY availableTabs "Schedas remote disponibile:">
 <!ENTITY availableProcesses "Processoss remote disponibile:">
