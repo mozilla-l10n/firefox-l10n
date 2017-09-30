@@ -53,7 +53,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Mitter marcapaginas sur tote le schedas…">
+<!ENTITY  bookmarkAllTabs.label              "Adder marcapaginas sur tote le schedas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Disfacer le clauder del scheda">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar tote le schedas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Mitter marcapaginas sur tote le schedas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adder marcapaginas sur tote le schedas…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Disfacer le clauder del scheda">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -170,13 +170,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Mitter marcapaginas sur iste pagina">
+<!ENTITY bookmarkThisPageCmd.label "Adder marcapaginas sur iste pagina">
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Subscriber se a iste pagina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriber se a iste pagina…">
-<!ENTITY addCurPagesCmd.label "Mitter marcapaginas sur tote le schedas…">
+<!ENTITY addCurPagesCmd.label "Adder marcapaginas sur tote le schedas…">
 <!ENTITY showAllBookmarks2.label "Monstrar tote le marcapaginas">
 <!ENTITY recentBookmarks.label "Marcapaginas recente">
 <!ENTITY otherBookmarksCmd.label "Altere marcapaginas">
@@ -560,10 +560,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Mitter marcapaginas sur iste pagina">
-<!ENTITY bookmarkThisLinkCmd.label      "Mitter marcapaginas su le ligamine">
+<!ENTITY bookmarkPageCmd2.label       "Adder marcapaginas sur iste pagina">
+<!ENTITY bookmarkThisLinkCmd.label      "Adder marcapaginas su le ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Mitter marcapaginas sur iste quadro">
+<!ENTITY bookmarkThisFrameCmd.label      "Adder marcapaginas sur iste quadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar le ligamine">
 <!ENTITY copyURLFeedback.label        "Copiate!">
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove fenestra private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Mitter marcapaginas sur iste scheda…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Adder marcapaginas sur iste scheda…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
