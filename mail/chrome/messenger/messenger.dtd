@@ -118,7 +118,7 @@
 <!ENTITY redoDeleteMsgCmd.label "Znovu odstrániť správu">
 <!ENTITY undoMoveMsgCmd.label "Späť presunúť správu">
 <!ENTITY redoMoveMsgCmd.label "Znovu presunúť správu">
-<!ENTITY undoCopyMsgCmd.label "Späť kopírovať správu">
+<!ENTITY undoCopyMsgCmd.label "Zrušiť kopírovanie správy">
 <!ENTITY redoCopyMsgCmd.label "Znovu kopírovať správu">
 <!ENTITY undoMarkAllCmd.label "Späť Označiť správy ako prečítané">
 <!ENTITY redoMarkAllCmd.label "Znovu Označiť správy ako prečítané">
