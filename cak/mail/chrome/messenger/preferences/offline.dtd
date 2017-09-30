@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Chupül Kinuk'ulem">
+
+<!ENTITY radioAlwaysOnlineState.label "Pa k'amab'ey">
+<!ENTITY radioAlwaysOnlineState.accesskey "m">
+<!ENTITY radioAlwaysOffline.label "Chupül">
+<!ENTITY radioAlwaysOffline.accesskey "p">
+
+<!ENTITY radioAutoSend.label "Ja'">
+<!ENTITY radioAutoSend.accesskey "J">
+<!ENTITY radioNotSend.label "Mani">
+<!ENTITY radioNotSend.accesskey "M">
+<!ENTITY radioAskUnsent.label "Tik'utüx pe chwe">
+<!ENTITY radioAskUnsent.accesskey "k">
+<!ENTITY radioAutoDownload.label "Ja'">
+<!ENTITY radioAutoDownload.accesskey "a">
+<!ENTITY radioNotDownload.label "Mani">
+<!ENTITY radioNotDownload.accesskey "i">
+<!ENTITY radioAskDownload.label "Tik'utüx pe chwe">
+<!ENTITY radioAskDownload.accesskey "u">
