@@ -3,11 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY migrationWizard.title          "Assistente de importation">
 
 <!ENTITY importFrom.label               "Importar le optiones, marcapaginas, chronologia, contrasignos e altere datos de:">
 <!ENTITY importFromUnix.label           "Importar preferentias, marcapaginas, chronologia, contrasignos e altere datos de:">
 <!ENTITY importFromBookmarks.label      "Importar le marcapaginas de:">
 
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromNothing.label        "Importar nihil">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
 
 <!ENTITY noMigrationSources.label       "Nulle programmas que contine marcapaginas, chronologia o contrasigno ha essite trovate.">
 

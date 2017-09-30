@@ -49,8 +49,10 @@
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+#define irc Discuter re Nightly sur IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planeta Mozilla
 
 #unfilter emptyLines
