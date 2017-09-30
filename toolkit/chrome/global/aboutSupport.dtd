@@ -98,9 +98,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
-<!ENTITY aboutSupport.a11yTitle "การช่วยเข้าถึง">
+<!ENTITY aboutSupport.a11yTitle "การช่วยการเข้าถึง">
 <!ENTITY aboutSupport.a11yActivated "ถูกเปิดใช้งาน">
-<!ENTITY aboutSupport.a11yForceDisabled "ป้องกันการช่วยเข้าถึง">
+<!ENTITY aboutSupport.a11yForceDisabled "ป้องกันการช่วยการเข้าถึง">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "รุ่น Library">
 
