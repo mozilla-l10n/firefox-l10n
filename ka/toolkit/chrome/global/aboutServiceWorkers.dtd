@@ -5,8 +5,8 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.title                     "Service Workers-ის შესახებ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "რეგისტრირებული Service Workers">
+<!ENTITY aboutServiceWorkers.maintitle                 "დარეგისტრებული Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers ჩართული არაა.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "რეგისრირებული Service Workers არაა.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "დარეგისტრებული Service Workers არ მოიძებნა.">
