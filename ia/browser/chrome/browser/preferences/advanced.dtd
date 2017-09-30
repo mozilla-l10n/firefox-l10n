@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "General">
 
-<!ENTITY useCursorNavigation.label       "Sempre usar le claves con le sagittas directional pro navigar intra le paginas">
+<!ENTITY useCursorNavigation.label       "Sempre usar le claves con le flechas directional pro navigar intra le paginas">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Cercar le texto quando tu comencia scriber">
 <!ENTITY searchOnStartTyping.accesskey   "x">
