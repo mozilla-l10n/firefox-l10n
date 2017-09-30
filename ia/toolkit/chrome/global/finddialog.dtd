@@ -7,7 +7,7 @@
 <!ENTITY findDialog.title "Cercar in iste pagina">
 <!ENTITY findField.label "Que cercar:">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "Distinger le majusculas">
+<!ENTITY caseSensitiveCheckbox.label "Distinger majusculas/minusculas">
 <!ENTITY caseSensitiveCheckbox.accesskey "c">
 <!ENTITY wrapCheckbox.label "Circuir">
 <!ENTITY wrapCheckbox.accesskey "W">

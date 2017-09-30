@@ -8,7 +8,7 @@
 <!ENTITY projectMenu_accesskey "p">
 <!ENTITY projectMenu_newApp_label "Nove application…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Aperir un application impacchettate...">
+<!ENTITY projectMenu_importPackagedApp_label "Aperir un application impacchettate…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "Aperir un application allocate...">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
@@ -94,7 +94,7 @@
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nove application">
 <!ENTITY newAppHeader "Seliger un modello">
-<!ENTITY newAppLoadingTemplate "Cargamento del modellos...">
+<!ENTITY newAppLoadingTemplate "Cargante modellos…">
 <!ENTITY newAppProjectName "Nomine del projecto:">
 
 
@@ -189,4 +189,4 @@
 <!ENTITY simulator_pixelRatio "Ration del pixels">
 <!ENTITY simulator_tv_data "Simulation de TV">
 <!ENTITY simulator_tv_data_open "Configurar le datos">
-<!ENTITY simulator_tv_data_open_button "Apertura del directorio de configuration...">
+<!ENTITY simulator_tv_data_open_button "Aperir le directorio de configuration…">

@@ -11,7 +11,7 @@
 <!ENTITY highlightAll.label "Evidentiar toto">
 <!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Evidentiar le occurrentia successive del phrase">
-<!ENTITY caseSensitive.label "Concordar anque majusculas e minusculas">
+<!ENTITY caseSensitive.label "Distinger majusculas/minusculas">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "Cercar anque con le concordantia de majusculas e minusculas">
 <!ENTITY entireWord.label "Parolas complete">

@@ -225,7 +225,7 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Acceptar e Installar…">
 
-<!ENTITY settings.path.button.label           "Navigation...">
+<!ENTITY settings.path.button.label           "Perquirer…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
