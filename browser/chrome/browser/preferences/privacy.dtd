@@ -43,13 +43,16 @@
 
 <!ENTITY  suggestionSettings2.label     "ਖੋਜ ਇੰਜਣ ਸੁਝਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ">
 
+<!ENTITY  acceptCookies2.label          "ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰੋ">
 <!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ ਕਰੋ">
 <!ENTITY  acceptThirdParty2.pre.accesskey "y">
 <!ENTITY  acceptThirdParty.always.label   "ਹਮੇਸ਼ਾ">
 <!ENTITY  acceptThirdParty.never.label    "ਕਦੇ ਨਹੀਂ">
 <!ENTITY  acceptThirdParty.visited.label  "ਖੋਲ੍ਹੀਆਂ ਗਈਆਂ ਤੋਂ ਹੀ">
 
+<!ENTITY  keepUntil2.label              "ਇਸ ਤੱਕ ਰੱਖੋ">
 <!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "ਉਨ੍ਹਾਂ ਦੀ ਮਿਆਦ ਹੋਵੇ">
@@ -109,3 +112,5 @@
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
+<!ENTITY  a11yPrivacy.learnmore.label    "ਹੋਰ ਜਾਣੋ">
+<!ENTITY enableSafeBrowsingLearnMore.label "ਹੋਰ ਜਾਣੋ">
