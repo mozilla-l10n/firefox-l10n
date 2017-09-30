@@ -21,6 +21,8 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Údaje telemetrie">
 <!ENTITY aboutTelemetry.moreInformations "Hľadáte viac informácií?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentácia údajov Firefoxu</a> obsahuje návody pre prácu s našimi nástrojmi.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentácia klienta telemetrie Firefoxu</a> obsahuje definície pojmov, dokumentáciu API a popisy údajov.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Nástenky telemetrie</a> vám umožňujú zobrazovať údaje, ktoré Mozilla získava z telemetrie.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Otvoriť v zobrazení JSON">

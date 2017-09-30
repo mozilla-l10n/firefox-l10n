@@ -565,7 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "i">
 <!ENTITY bookmarkThisFrameCmd.label      "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "V">
-<!ENTITY pageAction.copyLink.label    "Skopírovať odkaz">
+<!ENTITY pageAction.copyLink.label    "Kopírovať odkaz">
 <!ENTITY copyURLFeedback.label        "Odkaz bol skopírovaný!">
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
 <!ENTITY emailPageCmd.accesskey       "l">
