@@ -17,8 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Hups. Vaša karta zlyhala.">
 <!ENTITY tabCrashed.offerHelp2 "Môžeme vám pomôcť!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Pre opätovné načítanie stránky zvoľte &tabCrashed.restoreTab;.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Pre opätovné načítanie stránky alebo stránok zvoľte &tabCrashed.restoreTab; alebo &tabCrashed.restoreAll;.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Zvoľte &tabCrashed.restoreTab; pre opätovné načítanie stránky.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Zvoľte &tabCrashed.restoreTab; alebo &tabCrashed.restoreAll; pre opätovné načítanie stránky alebo stránok.">
 <!ENTITY tabCrashed.requestHelp "Pomôžete nám?">
 <!ENTITY tabCrashed.requestHelpMessage "Správy o zlyhaní nám pomáhajú diagnostikovať problémy a &brandShortName; naďalej vylepšovať.">
 <!ENTITY tabCrashed.requestReport "Nahlásiť túto kartu">
