@@ -7,9 +7,21 @@
   - in the Web Developer menu.
   - -->
 
+<!ENTITY title      "Connecter">
+<!ENTITY host       "Servitor hospite:">
+<!ENTITY port       "Porta:">
+<!ENTITY connect    "Connecter">
+<!ENTITY availableAddons "Additivos remote disponibile:">
+<!ENTITY availableTabs "Schedas remote disponibile:">
+<!ENTITY availableProcesses "Processoss remote disponibile:">
+<!ENTITY connectionError "Error:">
+<!ENTITY errorTimeout "Error: tempore de connexion expirate.">
+<!ENTITY errorRefused "Error: connexion refusate.">
 <!ENTITY errorUnexpected "Error inexpectate.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+<!ENTITY remoteDocumentation "documentation">
+<!ENTITY remoteHelpSuffix ".">
 
