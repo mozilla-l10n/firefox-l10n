@@ -31,6 +31,6 @@
 <!ENTITY  browserPrivacy.label          "브라우저 개인정보">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync1.title          "Firefox Account">
+<!ENTITY  paneSync1.title          "Firefox 계정">
 
 <!ENTITY  helpButton2.label        "&brandShortName; 도움말">
