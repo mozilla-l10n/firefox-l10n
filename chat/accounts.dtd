@@ -18,6 +18,7 @@
 <!ENTITY accountManager.noAccount.title      "Belum ada akun yang disiapkan">
 <!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; agar &brandShortName; memandu Anda melalui proses menatanya.">
 <!ENTITY account.autoSignOn.label     "Masuk saat mulai">
+<!ENTITY account.delete.label         "Hapus">
 <!ENTITY account.copyDebugLog.label     "Salin Log Debug">
 <!ENTITY account.showDebugLog.label     "Tampilkan Log Debug">
 <!ENTITY account.disconnecting        "Memutus…">
