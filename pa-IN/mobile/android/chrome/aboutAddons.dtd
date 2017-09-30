@@ -5,8 +5,8 @@
 <!ENTITY aboutAddons.title2                     "ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.header2                    "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
 
-<!ENTITY addonAction.enable                     "ਚਾਲੂ">
-<!ENTITY addonAction.disable                    "ਬੰਦ">
+<!ENTITY addonAction.enable                     "ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY addonAction.disable                    "ਅਸਮਰੱਥ ਕਰੋ">
 <!ENTITY addonAction.uninstall                  "ਅਣ-ਇੰਸਟਾਲ ਕਰੋ">
 <!ENTITY addonAction.undo                       "ਵਾਪਸ ਲਵੋ">
 <!ENTITY addonAction.update                     "ਅੱਪਡੇਟ ਕਰੋ">
