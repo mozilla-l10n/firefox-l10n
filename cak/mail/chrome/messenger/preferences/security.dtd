@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Seq'">
+<!ENTITY itemPasswords.label     "Taq ewan tzij">
+
+<!-- Junk Mail Controls -->
+<!ENTITY openJunkLog.label "Tik'ut pe tz'ib'anïk">
+<!ENTITY openJunkLog.accesskey "T">
+
+<!-- Phishing Detector -->
+
+<!-- Passwords -->
+<!ENTITY useMasterPassword.label        "Tokisäx ri ajtïj ewan tzij">
+<!ENTITY useMasterPassword.accesskey    "o">
+<!ENTITY changeMasterPassword.label     "Tijal Ajtij Ewan Tzij…">
+<!ENTITY changeMasterPassword.accesskey "j">
+<!ENTITY savedPasswords.label           "Xeyak taq Ewan Tzij…">
+<!ENTITY savedPasswords.accesskey       "X">
+
+<!-- Anti Virus -->
+

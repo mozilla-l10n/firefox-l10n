@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title                 "Ketaq Cha'oj">
+<!ENTITY sendMail.title               "Rub'anikil Rucholajem Tzij">
+<!ENTITY askMe.label                  "Tik'utüx pe chwe achike ninb'än">
+<!ENTITY askMe.accesskey              "k">
+
+<!ENTITY AddHtmlDomain.label          "Titz'aqatisäx…">
+<!ENTITY AddHtmlDomain.accesskey      "t">
+<!ENTITY AddPlainText.label           "Titz'aqatisäx…">
+<!ENTITY AddPlainText.accesskey       "t">
+<!ENTITY DeleteHtmlDomain.label       "Tiyuj">
+<!ENTITY DeleteHtmlDomain.accesskey   "y">
+<!ENTITY DeletePlainText.label        "Tiyuj">
+<!ENTITY DeletePlainText.accesskey    "y">
+
