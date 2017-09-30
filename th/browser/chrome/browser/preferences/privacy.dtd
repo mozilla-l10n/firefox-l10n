@@ -114,5 +114,6 @@
 <!ENTITY  browserContainersSettings.label        "การตั้งค่า…">
 <!ENTITY  browserContainersSettings.accesskey    "ต">
 
+<!ENTITY  a11yPrivacy.checkbox.label     "ป้องกันบริการการช่วยการเข้าถึงจากการเข้าถึงเบราว์เซอร์ของคุณ">
 <!ENTITY  a11yPrivacy.learnmore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY enableSafeBrowsingLearnMore.label "เรียนรู้เพิ่มเติม">
