@@ -54,6 +54,10 @@
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 
 <!ENTITY securityOverride.linkText "O tu pote adder un exception…">
+<!ENTITY securityOverride.warningContent "
+<p>Tu non debe adder un exception si tu usa un connexion a Internet a que tu non confide completemente o si tu non sole reciper un advertentia pro iste servitor.</p>
+<p>Si tu desira ancora adder un exception pro iste sito, tu pote facer lo in tu parametros de cifra avantiate.</p>
+">
 
 <!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
 
