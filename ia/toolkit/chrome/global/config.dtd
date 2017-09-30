@@ -23,8 +23,8 @@
 <!ENTITY valueColumn.label "Valor">
 
 <!-- Tooltips -->
- 
- 
+<!ENTITY prefColumnHeader.tooltip "Clicca pro ordinar"> 
+<!ENTITY columnChooser.tooltip "Clicca pro seliger le columnas a monstrar"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
