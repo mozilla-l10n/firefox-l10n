@@ -22,7 +22,7 @@
 <!ENTITY stats.framesParsed "Photogrammas analysate">
 <!ENTITY stats.framesDecoded "Photogrammas decodificate">
 <!ENTITY stats.framesPresented "Photogrammas presentate">
-<!ENTITY stats.framesPainted "Photogrammas picturate">
+<!ENTITY stats.framesPainted "Photogrammas designate">
 
 <!ENTITY error.aborted "Carga de video cessate.">
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
