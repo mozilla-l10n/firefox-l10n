@@ -966,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ม">
 <!ENTITY updateManual.panelUI.label "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "หลังจากที่เริ่มการทำงานใหม่แล้ว &brandShorterName; จะเรียกคืนแท็บและหน้าต่างที่คุณเปิดทั้งหมดที่ไม่ได้อยู่ในโหมดการท่องเว็บแบบส่วนตัว">
 <!ENTITY updateRestart.header.message2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "เริ่มการทำงานใหม่และเรียกคืน">
 <!ENTITY updateRestart.acceptButton.accesskey "ร">
@@ -986,3 +987,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "เปิดใช้งานคุณสมบัติการช่วยการเข้าถึงแล้ว">

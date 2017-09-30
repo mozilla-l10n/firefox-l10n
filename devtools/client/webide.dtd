@@ -118,6 +118,8 @@
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "ค่าตรรกะ">
+<!ENTITY device_typenumber "จำนวนเต็ม">
+<!ENTITY device_typestring "สตริง">
 <!ENTITY device_typeobject "วัตถุ">
 <!ENTITY device_typenone "เลือกชนิด">
 
