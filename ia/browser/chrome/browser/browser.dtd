@@ -522,16 +522,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "Aperir le ligamine">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Aperir le ligamine in un nove scheda">
+<!ENTITY openFrameCmdInTab.label      "Aperir le quadro in un nove scheda">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Aperir le ligamine in un nove fenestra">
+<!ENTITY openFrameCmd.label           "Aperir le quadro in un nove fenestra">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "Aperir le ligamine in un nove scheda contextual">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Monstrar solmente iste quadro">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Recargar quadro">
+<!ENTITY reloadFrameCmd.label         "Recargar le quadro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vider codice fonte del selection">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Vider codice fonte MathML">
@@ -544,7 +544,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Vider informationes del pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "Vider informationes del quadro">
+<!ENTITY viewFrameInfoCmd.label       "Vider informationes sur le quadro">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Recargar le imagine">
 <!ENTITY reloadImageCmd.accesskey     "R">

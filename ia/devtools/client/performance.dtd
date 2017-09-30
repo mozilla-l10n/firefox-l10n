@@ -120,8 +120,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Registrar le taxa de frequentia de imagines">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Registrar le taxa de frequentia de imagines durante le profilo.">
+<!ENTITY performanceUI.enableFramerate             "Registrar le taxa de photogrammas">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Registrar le taxa de photogrammas durante le analyse de rendimento.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
