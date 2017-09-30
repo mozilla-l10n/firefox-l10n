@@ -53,7 +53,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
 <!ENTITY  moveToNewWindow.label              "Mover a un nove fenestra">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Mitter marcapaginas in tote le schedas…">
+<!ENTITY  bookmarkAllTabs.label              "Mitter marcapaginas sur tote le schedas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Disfacer le clauder del scheda">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -92,7 +92,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Recargar tote le schedas">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar tote le schedas…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Mitter marcapaginas sur tote le schedas…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Disfacer le clauder del scheda">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -168,23 +168,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Clauder le fenestra">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Marca-paginas">
+<!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Marcar iste pagina">
-<!ENTITY editThisBookmarkCmd.label "Editar iste marca-pagina">
+<!ENTITY bookmarkThisPageCmd.label "Mitter marcapaginas sur iste pagina">
+<!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Subscriber se a iste pagina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriber se a iste pagina…">
-<!ENTITY addCurPagesCmd.label "Marcar tote le schedas…">
-<!ENTITY showAllBookmarks2.label "Monstrar tote le marca-paginas">
-<!ENTITY recentBookmarks.label "Paginas marcate recentemente">
-<!ENTITY otherBookmarksCmd.label "Altere marca-paginas">
-<!ENTITY mobileBookmarksCmd.label "Marca-paginas del apparatos mobile">
-<!ENTITY bookmarksToolbarChevron.tooltip "Monstrar plus marca-paginas">
-<!ENTITY showRecentlyBookmarked.label     "Monstrar le paginas marcate recentemente">
+<!ENTITY addCurPagesCmd.label "Mitter marcapaginas sur tote le schedas…">
+<!ENTITY showAllBookmarks2.label "Monstrar tote le marcapaginas">
+<!ENTITY recentBookmarks.label "Marcapaginas recente">
+<!ENTITY otherBookmarksCmd.label "Altere marcapaginas">
+<!ENTITY mobileBookmarksCmd.label "Marcapaginas del apparatos mobile">
+<!ENTITY bookmarksToolbarChevron.tooltip "Monstrar plus marcapaginas">
+<!ENTITY showRecentlyBookmarked.label     "Monstrar le marcapaginas recente">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Celar le paginas marcate recentemente">
+<!ENTITY hideRecentlyBookmarked.label     "Celar le marcapaginas recente">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Retro">
@@ -236,21 +236,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Initio">
 
-<!ENTITY bookmarksButton.label          "Marca-paginas">
+<!ENTITY bookmarksButton.label          "Marcapaginas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "Marca-paginas">
-<!ENTITY bookmarksMenuButton2.label         "Menu de marca-paginas">
-<!ENTITY bookmarksMenuButton.other.label    "Altere marca-paginas">
-<!ENTITY bookmarksMenuButton.mobile.label   "Marca-paginas del apparatos mobile">
-<!ENTITY viewBookmarksSidebar2.label        "Vider le barra lateral de paginas marcate">
-<!ENTITY hideBookmarksSidebar.label         "Celar le barra lateral de paginas marcate">
-<!ENTITY viewBookmarksToolbar.label         "Vider le barra de paginas marcate">
-<!ENTITY hideBookmarksToolbar.label         "Celar le barra de paginas marcate">
-<!ENTITY searchBookmarks.label              "Cercar in le marca-paginas">
-<!ENTITY bookmarkingTools.label             "Instrumentos de marca-paginas">
-<!ENTITY addBookmarksMenu.label             "Adder le menu de marca-paginas al barra">
-<!ENTITY removeBookmarksMenu.label          "Remover le menu de marca-paginas del barra">
+<!ENTITY bookmarksSubview.label             "Marcapaginas">
+<!ENTITY bookmarksMenuButton2.label         "Menu de marcapaginas">
+<!ENTITY bookmarksMenuButton.other.label    "Altere marcapaginas">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcapaginas del apparatos mobile">
+<!ENTITY viewBookmarksSidebar2.label        "Vider le barra lateral de marcapaginas">
+<!ENTITY hideBookmarksSidebar.label         "Celar le barra lateral de marcapaginas">
+<!ENTITY viewBookmarksToolbar.label         "Vider le barra de marcapaginas">
+<!ENTITY hideBookmarksToolbar.label         "Celar le barra de marcapaginas">
+<!ENTITY searchBookmarks.label              "Cercar in le marcapaginas">
+<!ENTITY bookmarkingTools.label             "Instrumentos de marcapaginas">
+<!ENTITY addBookmarksMenu.label             "Adder le menu de marcapaginas al barra">
+<!ENTITY removeBookmarksMenu.label          "Remover le menu de marcapaginas del barra">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -560,10 +560,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Marcar iste pagina">
-<!ENTITY bookmarkThisLinkCmd.label      "Marcar le ligamine">
+<!ENTITY bookmarkPageCmd2.label       "Mitter marcapaginas sur iste pagina">
+<!ENTITY bookmarkThisLinkCmd.label      "Mitter marcapaginas su le ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Marcar iste quadro">
+<!ENTITY bookmarkThisFrameCmd.label      "Mitter marcapaginas sur iste quadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Copiar le ligamine">
 <!ENTITY copyURLFeedback.label        "Copiate!">
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Aperir in un nove fenestra private">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Marcar iste scheda…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Mitter marcapaginas sur iste scheda…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
@@ -981,7 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Inviar le scheda a un apparato">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisante Apparatos…">
 
-<!ENTITY libraryButton.tooltip "Vider chronologia, marca-paginas salvate, e plus">
+<!ENTITY libraryButton.tooltip "Vider chronologia, marcapaginas salvate, e plus">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

@@ -64,7 +64,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "Porta le web con te">
-<!ENTITY signedOut.description        "Synchronisa tu paginas marcate, chronologia, contrasignos, additivos, e preferentias inter tote vostre apparatos.">
+<!ENTITY signedOut.description        "Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote vostre apparatos.">
 <!ENTITY signedOut.accountBox.title   "Connecter se con un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create2 "Nondum ha tu un conto? Que nos comencia!">
 <!ENTITY signedOut.accountBox.create2.accesskey "C">

@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!ENTITY importFrom.label               "Importar le optiones, marcapaginas, chronologia, contrasignos e altere datos de:">
+<!ENTITY importFromUnix.label           "Importar preferentias, marcapaginas, chronologia, contrasignos e altere datos de:">
+<!ENTITY importFromBookmarks.label      "Importar le marcapaginas de:">
+
+
+<!ENTITY noMigrationSources.label       "Nulle programmas que contine marcapaginas, chronologia o contrasigno ha essite trovate.">
+
+
+
+
+

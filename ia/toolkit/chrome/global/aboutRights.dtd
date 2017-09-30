@@ -51,7 +51,7 @@
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-term1 "Aperir le preferentias de application">
 <!ENTITY rights.safebrowsing-term2 "Eliger le selection de securitate">
-<!ENTITY rights2.safebrowsing-term3 "Disselectiona le option pro &quot;&enableSafeBrowsing.label;&quot;">
+<!ENTITY rights2.safebrowsing-term3 "Dismarca le option pro &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Le navigation secur es disactivate">
 
 <!-- location aware browsing points for branded builds -->

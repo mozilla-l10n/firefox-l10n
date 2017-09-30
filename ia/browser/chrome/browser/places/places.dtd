@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organisar">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organisar tu paginas marcate">
+<!ENTITY organize.tooltip      "Organisar tu marcapaginas">
 
 <!ENTITY file.close.label               "Clauder">
 <!ENTITY file.close.accesskey           "C">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Ordine decrescente">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Importar paginas marcate ab HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Importar marcapaginas ab HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Exportar paginas marcate a HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Exportar marcapaginas a HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "Importar datos ab un altere navigator…">
 <!ENTITY importOtherBrowser.accesskey      "A">
@@ -62,7 +62,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Marcar nove pagina…">
+<!ENTITY cmd.new_bookmark.label            "Nove marcapaginas…">
 <!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "Nove dossier…">
 <!ENTITY cmd.new_folder.accesskey          "o">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "Nove separator">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recargar pagina marcate dynamic">
+<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcapaginas dynamic">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY cmd.moveBookmarks.label                  "Mover…">
@@ -92,7 +92,7 @@
 
 <!ENTITY maintenance.label      "Importar e facer backup">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e facer backup de tu paginas marcate">
+<!ENTITY maintenance.tooltip    "Importar e facer backup de tu marcapaginas">
 
 <!ENTITY backButton.tooltip  "Regressar">
 

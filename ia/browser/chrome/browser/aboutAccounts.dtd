@@ -2,5 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.welcome "Benvenite a &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "Authentica te pro synchronisar tu schedas, marca-paginas e plus.">
+<!ENTITY aboutAccountsConfig.description "Authentica te pro synchronisar tu schedas, marcapaginas e plus.">
+<!ENTITY aboutAccountsConfig.startButton.label "Comenciar">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferentias de Sync">
+<!ENTITY aboutAccounts.noConnection.title "Nulle connexion">
+<!ENTITY aboutAccounts.noConnection.description "Tu debe esser connectite a Internet pro authenticar te.">
+<!ENTITY aboutAccounts.noConnection.retry "Retentar">
+<!ENTITY aboutAccounts.badConfig.title "Configuration incorrecte">
+<!ENTITY aboutAccounts.badConfig.description "Incapace de determinar le configuration del servitor de tu conto Firefox. Per favor retenta plus tarde.">

@@ -15,7 +15,7 @@
 <!ENTITY useCurrentPage.label      "Usar le pagina actual">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Usar le paginas actual">
-<!ENTITY chooseBookmark.label      "Usar un pagina marcate…">
+<!ENTITY chooseBookmark.label      "Usar un marcapaginas…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Restaurar le predefinition">
 <!ENTITY restoreDefault.accesskey  "R">
