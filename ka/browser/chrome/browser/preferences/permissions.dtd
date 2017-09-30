@@ -14,7 +14,7 @@
 <!ENTITY address2.label               "საიტის მისამართი">
 <!ENTITY address2.accesskey           "მ">
 <!ENTITY block.label                  "აკრძალვა">
-<!ENTITY block.accesskey              "შ">
+<!ENTITY block.accesskey              "კ">
 <!ENTITY session.label                "სეანსზე დაშვება">
 <!ENTITY session.accesskey            "ს">
 <!ENTITY allow.label                  "დაშვება">
