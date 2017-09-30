@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY name.label                 "B'i'aj:">
+<!ENTITY name.accesskey             "B">
+<!ENTITY description.label          "Titz'uk achi'el jun rachyakwuj:">
+<!ENTITY description.accesskey      "T">
+
+
+<!ENTITY folderSelectionCaption.label "Ticha' ri yakwuj akuchi' nikanöx: ">
+<!ENTITY chooseFoldersButton.label "Ticha'…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY newFolderButton.label       "Titz'uk">
+<!ENTITY newFolderButton.accesskey   "z">
+<!ENTITY editFolderButton.label      "Tik'ex">
+<!ENTITY editFolderButton.accesskey  "k">

@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "K'o k'ayewal toq nitikirisäx ri ruxaq k'amaya'l">
+<!ENTITY retry.label "Titojtob'ëx chik">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Man tikirel ta nok">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Re jun ochochib'äl re' q'aton rusamaj">
+
+<!ENTITY dnsNotFound.title "Man xilitäj ta ri k'uxasamaj">
+
+<!ENTITY fileNotFound.title "Man xilitäj ta ri yakb'äl">
+
+<!ENTITY fileAccessDenied.title "Xq'at rutz'etik ri yakb'äl">
+
+<!ENTITY generic.title "Uy.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
+
+<!ENTITY malformedURI.title "Man okel ta ri ochochib'äl">
+
+<!ENTITY netInterrupt.title "Xq'at ri okem">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Xk'is Ruq'ijul ri Wuj">
+
+
+
+
+<!ENTITY netReset.title "Tikirisan chik ri okem">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
+
+<!ENTITY proxyConnectFailure.title "Ri proxi k'uxasamaj tajin yerutzolij ri taq okem">
+
+<!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi k'uxasamaj">
+
+<!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
+
+<!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri k'uxasamaj">
+
+<!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
+
+<!ENTITY nssBadCert.title "Xq'ate' ri ütz okem">
+
+
+<!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Sachoj Ruma Itzel Rupam">
+
+<!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
+<!ENTITY securityOverride.getMeOutOfHereButton "¡Kinawelesaj el wawe'!">
+<!ENTITY securityOverride.exceptionButtonLabel "Titz'aqatisäx jun man relik ta…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
+
+
+<!ENTITY remoteXUL.title "Näj XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Man Jikïl ta ri awokem">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
