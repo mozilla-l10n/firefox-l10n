@@ -7,15 +7,19 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
+#define bookmarks_title Marcapaginas
+#define bookmarks_heading Marcapaginas
 
 #define bookmarks_toolbarfolder Dossier del barra de marcapaginas
 #define bookmarks_toolbarfolder_description Adde marcapaginas a iste dossier pro vider los in le barra de marcapaginas
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
+#define getting_started Prime passos
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
+#define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
@@ -43,9 +47,11 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Instrumentos de proba de Nightly
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
+#define crashes Tote tu collapsos
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly

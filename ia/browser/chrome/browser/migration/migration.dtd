@@ -21,13 +21,26 @@
 <!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Nulle programmas que contine marcapaginas, chronologia o contrasigno ha essite trovate.">
 
+<!ENTITY importSource.title             "Importar parametros e datos">
+<!ENTITY importItems.title              "Elementos a importar">
+<!ENTITY importItems.label              "Eliger qual files importar:">
 
+<!ENTITY migrating.title                "Importante…">
+<!ENTITY migrating.label                "Le importation del elementos sequente es in curso…">
 
+<!ENTITY selectProfile.title            "Eliger profilo">
+<!ENTITY selectProfile.label            "Le profilos sequente es disponibile a importar:">
 
+<!ENTITY done.title                     "Importation complete">
+<!ENTITY done.label                     "Le elementos sequente ha essite importate con successo:">
 
+<!ENTITY closeSourceBrowser.label       "Per favor assecura te que le navigator selectionate es claudite ante continuar.">

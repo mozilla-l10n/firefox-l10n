@@ -8,6 +8,7 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Falta al connexion">
+<!ENTITY connectionFailure.longDesc "<p>Ben que le sito sembla valide, le navigator esseva incapace de establir un connexion.</p><ul><li>Esque le sito es temporarimente indisponibile? Retenta plus tarde.</li><li>Es tu incapace de navigar altere sitos?  Verifica le connexion del computator al rete.</li><li>Es tu computator o rete protegite per un firewall o proxy? Parametros incorrecte pote interferer con le navigation Web</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Porta restringite pro rationes de securitate">
 
