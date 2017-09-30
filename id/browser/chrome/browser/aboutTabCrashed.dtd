@@ -28,3 +28,4 @@
 <!ENTITY tabCrashed.emailMe "Kirimi saya surel saat informasi lebih lanjut tersedia">
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Laporkan tab latar belakang">
+<!ENTITY tabCrashed.autoSubmit3 "Perbarui pengaturan untuk mengirimkan laporan secara otomatis ketika &brandShortName; rusak.">
