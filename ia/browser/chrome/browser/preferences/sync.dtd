@@ -4,7 +4,7 @@
 
 <!-- The page shown when logged in... -->
 
-<!ENTITY engine.bookmarks.label     "Marcatores de libro">
+<!ENTITY engine.bookmarks.label     "Marcapaginas">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Schedas aperite">
 <!ENTITY engine.tabs.accesskey      "T">
