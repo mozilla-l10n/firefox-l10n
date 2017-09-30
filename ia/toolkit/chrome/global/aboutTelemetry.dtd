@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutTelemetry.pingDataSource "Fonte de datos de ping:">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Hodie">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Heri">
@@ -13,6 +14,7 @@
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetria">
+<!ENTITY aboutTelemetry.moreInformations "Cerca tu plus informationes?">
 
 
 <!ENTITY aboutTelemetry.homeSection "A casa">

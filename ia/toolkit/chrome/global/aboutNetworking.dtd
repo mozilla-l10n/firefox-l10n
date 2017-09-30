@@ -30,6 +30,9 @@
 <!ENTITY aboutNetworking.logTutorial           "Vide <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pro instructiones re como usar iste utensile.">
 <!ENTITY aboutNetworking.currentLogFile        "File de diario actual:">
 <!ENTITY aboutNetworking.currentLogModules     "Modulos de diario actual:">
+<!ENTITY aboutNetworking.setLogFile            "Definir le file de registro">
+<!ENTITY aboutNetworking.setLogModules         "Definir le modulos de registro">
+<!ENTITY aboutNetworking.startLogging          "Initiar le registration">
 <!ENTITY aboutNetworking.stopLogging           "Cessar le registration">
 <!ENTITY aboutNetworking.dnsLookup             "Recerca de DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">

@@ -17,4 +17,5 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Monstrar le entratas">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuration">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Definir le file de registro">
 <!ENTITY aboutUrlClassifier.debugFile                   "File de diario actual">
