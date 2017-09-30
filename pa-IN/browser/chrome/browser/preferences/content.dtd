@@ -14,12 +14,21 @@
 <!ENTITY  popupExceptions.label                                 "…ਛੋਟ">
 <!ENTITY  popupExceptions.accesskey                             "E">
 
+<!ENTITY  notificationPermissions.label                         "ਨੋਟੀਫਿਕੇਸ਼ਨ">
+<!ENTITY  notificationSettingsButton.label                      "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "ਹੋਰ ਜਾਣੋ">
 
+<!ENTITY  locationPermissions.label                             "ਟਿਕਾਣਾ">
+<!ENTITY  locationSettingsButton.label                          "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  locationSettingsButton.accesskey                      "t">
 
+<!ENTITY  cameraPermissions.label                               "ਕੈਮਰਾ">
+<!ENTITY  cameraSettingsButton.label                            "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  cameraSettingsButton.accesskey                        "t">
 
+<!ENTITY  microphonePermissions.label                           "ਮਾਈਕਰੋਫ਼ੋਨ">
+<!ENTITY  microphoneSettingsButton.label                        "…ਸੈਟਿੰਗਾਂ">
 <!ENTITY  microphoneSettingsButton.accesskey                    "t">
 
 <!ENTITY  fontsAndColors.label        "ਫੋਂਟ ਤੇ ਰੰਗ">

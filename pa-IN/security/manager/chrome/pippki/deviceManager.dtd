@@ -25,11 +25,12 @@
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "ਜੋ ਮੋਡੀਊਲ ਤੁਸੀਂ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ">
-<!ENTITY loaddevice.modname                     "ਮੋਡੀਊਲ ਨਾਂ:">
-<!ENTITY loaddevice.modname.accesskey           "M">
+<!ENTITY loaddevice.modname2                    "ਮੋਡਿਊਲ ਨਾਂ">
+<!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "ਨਵਾਂ PKCS#11 ਮੋਡੀਊਲ">
-<!ENTITY loaddevice.filename                    "ਮੋਡੀਊਲ ਦਾ ਫਾਈਲ ਨਾਂ:">
-<!ENTITY loaddevice.filename.accesskey          "f">
+<!ENTITY loaddevice.filename2                   "ਮੋਡਿਊਲ ਫ਼ਾਈਲ-ਨਾਂ">
+<!ENTITY loaddevice.filename2.accesskey         "f">
 <!ENTITY loaddevice.browse                      "...ਝਲਕ">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "PKCS #11 ਯੰਤਰ ਡਰਾਇਵਰ ਲੋਡ ਕਰੋ">
