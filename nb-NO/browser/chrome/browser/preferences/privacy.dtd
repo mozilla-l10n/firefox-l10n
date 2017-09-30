@@ -27,7 +27,7 @@
 
 <!ENTITY  doNotTrack.description        "Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet">
 <!ENTITY  doNotTrack.learnMore.label    "Les mer">
-<!ENTITY  doNotTrack.default.label      "Berre når du bruker sporingsbeskyttelse">
+<!ENTITY  doNotTrack.default.label      "Bare når du bruker sporingsbeskyttelse">
 <!ENTITY  doNotTrack.always.label       "Alltid">
 
 <!ENTITY  history.label                 "Historikk">
