@@ -10,6 +10,7 @@
 <!ENTITY certmgr.tab.ca                       "Autoritates">
 <!ENTITY certmgr.tab.orphan2                  "Alteros">
 
+<!ENTITY certmgr.orphans2                     "Tu ha certificatos que non reentra in ulle del altere categorias">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -30,6 +31,7 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Impression digital SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Editar le parametros de confidentia del CA">
+<!ENTITY certmgr.editcert.edittrust           "Rediger le definitiones de confidentialitate:">
 <!ENTITY certmgr.editcert.trustssl            "Iste certificato pote identificar sitos web.">
 <!ENTITY certmgr.editcert.trustemail          "Iste certificato pote identificar usatores de e-posta.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iste certificato pote identificar developpatores de software.">

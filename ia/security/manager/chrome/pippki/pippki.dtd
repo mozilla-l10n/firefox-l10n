@@ -17,10 +17,15 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Discargante le certificato">
+<!ENTITY downloadCert.trustSSL "Fider iste CA pro identificar sitos del web.">
+<!ENTITY downloadCert.trustEmail "Fider iste CA pro identificar le e-posta del usator.">
+<!ENTITY downloadCert.trustObjSign "Fider pro iste CA pro identificar le disveloppatores de software.">
 <!ENTITY downloadCert.viewCert.label "Vider">
+<!ENTITY downloadCert.viewCert.text "Examinar le certificato de CA">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Requesta de identification de usator">
+<!ENTITY clientAuthAsk.message1 "Iste sito ha requestate que tu identificar te per un certificato:">
 <!ENTITY clientAuthAsk.message3 "Detalios de certificato seligite:">
 
 <!ENTITY pkcs12.setpassword.title  "Elige un contrasigno de backup de certificato">
