@@ -51,15 +51,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'Ξεκινώντας'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Χρησιμοποιείτε μια παλαιότερη έκδοση του &syncBrand.shortName.label;;'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Συνδεδεμένος ως'>
-<!ENTITY fxaccount_status_manage_account 'Διαχείριση λογαριασμού'>
 <!ENTITY fxaccount_status_auth_server 'Διακομιστής λογαριασμών'>
 <!ENTITY fxaccount_status_sync_now 'Συγχρονισμός τώρα'>
 <!ENTITY fxaccount_status_syncing2 'Συγχρονισμός…'>
 <!ENTITY fxaccount_status_device_name 'Όνομα συσκευής'>
 <!ENTITY fxaccount_status_sync_server 'Διακομιστής Sync'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: ενεργοποιημένο'>
 <!ENTITY fxaccount_status_needs_verification2 'Ο λογαριασμός σας πρέπει να επαληθευτεί. Πατήστε για να αποσταλεί ξανά το email επαλήθευσης.'>
 <!ENTITY fxaccount_status_needs_credentials 'Αδύνατη η σύνδεση. Πατήστε για να συνδεθείτε.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Πρέπει να αναβαθμίσετε τον &brandShortName; για να συνδεθείτε.'>
@@ -70,6 +66,7 @@
 <!ENTITY fxaccount_status_history 'Ιστορικό'>
 <!ENTITY fxaccount_status_passwords2 'Στοιχεία σύνδεσης'>
 <!ENTITY fxaccount_status_tabs 'Ανοικτές καρτέλες'>
+<!ENTITY fxaccount_status_additional_settings 'Επιπρόσθετες ρυθμίσεις'>
 <!ENTITY fxaccount_status_legal 'Νομικά' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +74,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Όροι χρήσης υπηρεσίας'>
 <!ENTITY fxaccount_status_linkprivacy2 'Πολιτική απορρήτου'>
-<!ENTITY fxaccount_status_more 'More&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Αποσύνδεση&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Αποσύνδεση από το Sync;'>
@@ -102,21 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title 'Επιλογές &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_options_configure_title 'Ρύθμιση του &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Ο Firefox χρειάζεται αναβάθμιση'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Ο λογαριασμός υπάρχει ήδη. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Λανθασμένη διεύθυνση email ή κωδικός πρόσβασης'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Λανθασμένη διεύθυνση email ή κωδικός πρόσβασης'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Ο λογαριασμός δεν επαληθεύτηκε'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Ο διακομιστής είναι απασχολημένος, δοκιμάστε ξανά σε λίγο'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Ο διακομιστής είναι απασχολημένος, δοκιμάστε ξανά σε λίγο'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Προέκυψε ένα πρόβλημα'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Ο λογαριασμός είναι κλειδωμένος. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 'Το &syncBrand.shortName.label; δεν έχει συνδεθεί'>
 <!-- Localization note: the format string below will be replaced
