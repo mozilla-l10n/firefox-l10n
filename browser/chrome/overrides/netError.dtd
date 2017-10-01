@@ -16,16 +16,7 @@
 <!ENTITY deniedPortAccess.title "Оваа адреса е забранета">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Серверот не е пронајден">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Проверете дали во адресата имате печатни грешки како 
-<strong>ww</strong>.example.com наместо 
-<strong>www</strong>.example.com</li> 
-<li>Ако не можете да вчитате никакви страници, проверете ја мрежната врска на 
-Вашиот компјутер.</li> 
-<li>Ако Вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, 
-проверете дали &brandShortName; има дозвола да пристапи на Интернет.</li> 
-</ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Датотеката не е пронајдена">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -38,13 +29,7 @@
 
 
 
-<!ENTITY malformedURI.title "Адресата не е важечка">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Адресите на страниците најчесто се напишани како 
-<strong>http://www.example.com/</strong></li> 
-<li>Проверете дали користите точни коси црти (т.е. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Врската беше прекината">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -78,19 +63,23 @@
 
 
 <!ENTITY proxyConnectFailure.title "Серверот посредник одбива врски">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Проверете дали поставките за посредник се точни.</li> 
-<li>Контактирајте со Вашиот мрежен администратор за да проверите дали серверот 
-посредник работи.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Проверете дали поставките за посредник се точни.</li>
+  <li>Контактирајте со вашиот мрежен администратор за да проверите 
+    дали серверот посредник работи.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Серверот посредник не може да се пронајде">
-<!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Проверете дали поставките за посредник се точни.</li> 
-<li>Проверете дали мрежната врска на Вашиот компјутер работи</li> 
-<li>Ако Вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, 
-проверете дали &brandShortName; има дозвола да пристапи на Интернет.</li> 
-</ul>">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Проверете дали поставките за посредник се точни.</li>
+  <li>Проверете дали мрежната врска на вашиот компјутер работи.</li>
+  <li>Ако вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, 
+    проверете дали &brandShortName; има дозвола да пристапи на Интернет.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочува точно">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -98,9 +87,13 @@
 одбивање на колачиња.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочекуван одговор од серверот">
-<!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Проверете дали на Вашиот систем е инсталиран менаџерот за лична безбедност.</li> 
-<li>Ова може да се случува поради нестандардна конфигурација на серверот.</li></ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Проверете дали на вашиот систем е инсталиран
+    Менаџерот за лична безбедност.</li>
+  <li>Ова може да се случува поради нестандардна конфигурација на серверот.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Безбедната врска не успеа">
 

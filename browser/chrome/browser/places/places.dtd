@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Организирање">
 <!ENTITY organize.accesskey    "О">
-<!ENTITY organize.tooltip      "Ораганизирајте ги Вашите обележувачи">
+<!ENTITY organize.tooltip      "Ораганизирајте ги вашите обележувачи">
 
 <!ENTITY file.close.label               "Затвори">
 <!ENTITY file.close.accesskey           "З">
@@ -82,14 +82,12 @@
 <!ENTITY col.dateadded.label     "Додадено">
 <!ENTITY col.lastmodified.label  "Последна промена">
 
-<!ENTITY search.label                              "Барај:">
-<!ENTITY search.accesskey                          "Б">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Увоз и резерва">
 <!ENTITY maintenance.accesskey  "з">
-<!ENTITY maintenance.tooltip    "Увезее ги и направете резерва од Вашите обележувачи">
+<!ENTITY maintenance.tooltip    "Увезее ги и направете резерва од вашите обележувачи">
 
 <!ENTITY backButton.tooltip  "Оди назад">
 
@@ -101,8 +99,6 @@
 <!ENTITY detailsPane.less.accesskey "о">
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
 
-<!ENTITY find.label               "Барај:">
-<!ENTITY find.accesskey           "Б">
 <!ENTITY view.label               "Поглед">
 <!ENTITY view.accesskey           "П">
 <!ENTITY byDate.label             "Датум">
