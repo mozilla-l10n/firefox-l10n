@@ -149,7 +149,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceGroup "ჯგუფი">
 <!ENTITY aboutSupport.mediaDeviceVendor "მწარმოებელი">
 <!ENTITY aboutSupport.mediaDeviceState "მდგომარეობა">
-<!ENTITY aboutSupport.mediaDevicePreferred "უპირატესი">
+<!ENTITY aboutSupport.mediaDevicePreferred "სასურველი">
 <!ENTITY aboutSupport.mediaDeviceFormat "ფორმატი">
 <!ENTITY aboutSupport.mediaDeviceChannels "არხები">
 <!ENTITY aboutSupport.mediaDeviceRate "სიხშირე">
