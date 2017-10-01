@@ -16,9 +16,9 @@
 <!ENTITY deleteCmd.accesskey "წ">
 
 <!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "დ">
 <!ENTITY spellUndoAddToDictionary.label "ლექსიკონში დამატების გაუქმება">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.accesskey "გ">
 <!ENTITY spellCheckToggle.label "მართლწერის შემოწმება">
 <!ENTITY spellCheckToggle.accesskey "თ">
 <!ENTITY spellNoSuggestions.label "(მართლწერის შემოთავაზებები არაა)">
@@ -28,10 +28,10 @@
 <!ENTITY searchTextBox.clear.label "გასუფთავება">
 
 <!ENTITY fillLoginMenu.label          "შესვლის მონაცემების შევსება">
-<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillLoginMenu.accesskey      "მ">
 <!ENTITY fillPasswordMenu.label       "პაროლის შევსება">
-<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillPasswordMenu.accesskey   "პ">
 <!ENTITY fillUsernameMenu.label       "მომხმარებლის სახელის შევსება">
-<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.accesskey   "შ">
 <!ENTITY noLoginSuggestions.label     "(შესვლის შემოთავაზებები არაა)">
 <!ENTITY viewSavedLogins.label        "შენახული შესვლების ნახვა">
