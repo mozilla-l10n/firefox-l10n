@@ -147,17 +147,12 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "Aktiver Source-maps">
-<!ENTITY options.sourceMaps.tooltip    "Hvis du aktiverer denne indstilling, vil sources blive mappet i debuggeren og i konsollen.">
+<!ENTITY options.sourceMaps.tooltip1   "Hvis du aktiverer denne indstilling, vil sources blive mappet i værktøjerne.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Rediger CSS">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Vis den originale kildekode">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Vis den originale kildekode (fx sass-filer) i CSS-editoren og Inspektøren">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,18 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Afspil lyd">
 <!ENTITY options.screenshot.audio.tooltip    "Aktiverer afspilning af en lyd, når der tages et skærmbillede">
-
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
-      of all preferences that affect both the Web Console and the Network
-      Monitor -->
-<!ENTITY options.commonPrefs.label           "Fælles indstillinger">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the Web Console and
-  -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Slå vedvarende logning til">
-<!ENTITY options.enablePersistentLogs.tooltip  "Hvis du slår denne indstilling til, ryddes webkonsollens output ikke, når du navigerer til en ny side">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
