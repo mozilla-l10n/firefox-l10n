@@ -30,6 +30,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้">
 
 <!ENTITY enableHealthReport2.label       "อนุญาตให้ &brandShortName; ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "เรียนรู้เพิ่มเติม">
 
 <!ENTITY dataCollection.label            "การเก็บรวบรวมและใช้ข้อมูล &brandShortName;">
