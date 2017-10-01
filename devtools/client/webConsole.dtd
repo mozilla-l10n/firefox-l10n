@@ -52,7 +52,7 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "服务器">
-<!ENTITY btnServerLogging.tooltip     "记录来自网页服务器信息">
+<!ENTITY btnServerLogging.tooltip     "记录网页服务器发来的消息">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "错误">
 <!ENTITY btnServerInfo                "信息">
