@@ -20,6 +20,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "સર્વર મળતું નથી">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "હમ્મ. અમને તે સાઇટ શોધવામાં સમસ્યા આવી રહી છે.">
 
 <!ENTITY fileNotFound.title "ફાઈલ મળી નહિં">
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલાઈઝેશન અથવા અન્ય લખતી વખતની ભૂલો માટે ફાઈલ નામ ચકાસો.</li> <li>શું ફાઈલ ખસેડી દેવાયેલ છે, નામ બદલાઈ ગયેલ છે અથવા કાઢી નંખાયેલ છે તે જોવા માટે ચકાસો.</li> </ul>">
