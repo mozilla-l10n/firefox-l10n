@@ -126,7 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Најавете се на &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отвори поставки на &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Повторно поврзи се со &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Потврдете ја Вашата сметка">
+<!ENTITY fxaUnverified.label "Потврдете ја вашата сметка">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Минимизира">
@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "го контролира Вашиот покажувач. Притиснете Esc за да ја преземете контролата.">
+<!ENTITY pointerlockWarning.afterDomain.label "го контролира вашиот покажувач. Притиснете Esc за да ја преземете контролата.">
 
 <!ENTITY closeWindow.label "Затвори го прозорецот">
 <!ENTITY closeWindow.accesskey "п">
@@ -334,13 +334,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од Вашите други уреди.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставки за Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од Вашите други уреди.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од вашите други уреди.">
 <!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
 
 
@@ -372,7 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Оди до јазиче:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Би сакале да го подобрите Вашето искуство на пребарување со предлози?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Би сакале да го подобрите вашето искуство на пребарување со предлози?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Дознајте повеќе…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
@@ -655,7 +655,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Безбедна врска">
 <!ENTITY identity.connectionNotSecure "Врската не е безбедна">
-<!ENTITY identity.connectionFile "Оваа страница е складирана на Вашиот компјутер.">
+<!ENTITY identity.connectionFile "Оваа страница е складирана на вашиот компјутер.">
 <!ENTITY identity.connectionVerified2 "Безбедно сте поврзани на овој веб-сајт, во сопственост на:">
 <!ENTITY identity.connectionInternal "Ова е безбедна страница на &brandShortName;.">
 
@@ -666,9 +666,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.weakCipher "Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.">
-<!ENTITY identity.description.weakCipher2 "Други луѓе можат да ги гледаат Вашите информации или да го менуваат однесувањето на мрежното место.">
+<!ENTITY identity.description.weakCipher2 "Други луѓе можат да ги гледаат вашите информации или да го менуваат однесувањето на мрежното место.">
 <!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржини што не се безбедни (како на пример: слики).">
-<!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и Вашата врска не е приватна.">
+<!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.">
 
 
 

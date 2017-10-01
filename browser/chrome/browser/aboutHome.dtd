@@ -14,13 +14,13 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Ви благодариме што го одбравте Firefox! За да извлечете најмногу од Вашиот прелистувач, дознајте повеќе за неговите <a>најнови можности</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Ви благодариме што го одбравте Firefox! За да извлечете најмногу од вашиот прелистувач, дознајте повеќе за неговите <a>најнови можности</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "Firefox можете лесно да го прилагодите според Вашите желби. <a>Изберете некој од илјадниците додатоци</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox можете лесно да го прилагодите според вашите желби. <a>Изберете некој од илјадниците додатоци</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; е слободен софтвер од непрофитната фондација Mozilla. <a>Знајте ги Вашите права…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; е слободен софтвер од непрофитната фондација Mozilla. <a>Знајте ги вашите права…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Обележувачи">
 <!ENTITY abouthome.historyButton.label   "Историја">
