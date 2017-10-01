@@ -100,7 +100,7 @@
 <!ENTITY  rememberHistory2.accesskey  "მ">
 
 <!ENTITY  rememberSearchForm.label       "ძიებისა და ველების ისტორიის დამახსოვრება">
-<!ENTITY  rememberSearchForm.accesskey   "ფ">
+<!ENTITY  rememberSearchForm.accesskey   "ვ">
 
 <!ENTITY  clearOnClose.label             "ისტორიის გასუფთავება &brandShortName;-ის დახურვისას">
 <!ENTITY  clearOnClose.accesskey         "ფ">
