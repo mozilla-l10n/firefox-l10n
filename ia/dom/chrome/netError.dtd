@@ -14,11 +14,19 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Le adresse requestate specificava un porta (e.g. <q>mozilla.org:80</q> pro le porta 80 sur mozilla.org) normalmente usate pro <em>altere</em> propositos que le navigation Web. Le navigator ha cancellate le requesta pro tu protection e securitate.</p>">
 
 <!ENTITY dnsNotFound.title "Adresse non trovate">
+<!ENTITY dnsNotFound.longDesc "<p>Le navigator non poteva trovar le servitor hoste pro le adresse fornite.</p>
+<ul>
+	<li>Ha tu committite un error scribente le dominio? (pro exemplo, <q><strong>ww</strong>.mozilla.org</q> in vice de <q><strong>www</strong>.mozilla.org</q>)</li>
+	<li>Es tu certe que iste dominio ja existe?  Su registration pote haber expirate.</li>
+	<li>Es tu incapace de navigar alteres sitos?  Verifica le parametros de tu connexion al rete e del servitor DNS.</li>
+	<li>Es tu computator o rete protegite per un firewall o proxy?  Parametros incorrecte pote interferer con le navigation Web</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "File non trovate">
 <!ENTITY fileNotFound.longDesc "<ul><li>Poterea le elemento forsan haber essite renominate, removite o relocate?</li><li>Haberea un error de orthographia, de majusculas o altere problema typographic in le adresse?</li><li>Ha tu le permissiones de accesso necessari pro le elemento requestate?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Le accesso al file esseva negate">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Illo pote haber essite, removite, movite, o le permissiones del file impedi le accesso.</li></ul>">
 
 <!ENTITY generic.title "Impossibile completar le requesta">
 <!ENTITY generic.longDesc "<p>Nulle information additional actualmente disponibile.</p>">
