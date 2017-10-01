@@ -42,7 +42,7 @@
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
 <!ENTITY  mediaSaveAs.accesskey "რ">
 <!ENTITY  mediaSaveAs2.accesskey "ე">
-<!ENTITY  mediaPreview          "გამოსახულების გადახედვა:">
+<!ENTITY  mediaPreview          "გამოსახულების შეთვალიერება:">
 
 <!ENTITY  feedTab               "ლენტები">
 <!ENTITY  feedTab.accesskey     "ლ">

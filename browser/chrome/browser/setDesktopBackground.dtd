@@ -8,7 +8,7 @@
 <!ENTITY stretch.label              "გაჭიმვა">
 <!ENTITY fill.label                 "შევსება">
 <!ENTITY fit.label                  "მორგება">
-<!ENTITY preview.label              "გადახედვა">
+<!ENTITY preview.label              "შეთვალიერება">
 <!ENTITY color.label                "ფერი:">
 <!ENTITY setDesktopBackground.title "სამუშაო მაგიდის ფონად დაყენება">
 <!ENTITY openDesktopPrefs.label     "სამუშაო მაგიდის პარამეტრები">

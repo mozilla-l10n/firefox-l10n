@@ -74,7 +74,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
 <!ENTITY printSetupCmd.accesskey "ტ">
-<!ENTITY printPreviewCmd.label "ნახვა ამობეჭდვამდე">
+<!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewCmd.accesskey "ჭ">
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ა">
