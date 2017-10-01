@@ -4,6 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "ကြိုဆိုပါသည်">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; ကိုရွေးချယ်သည့်အတွက် ကျေးဇူးတင်ပါသည်">
+<!ENTITY firstrun_urlbar_subtext2 "လွတ်လပ်ပွင့်လင်းသော ဝဘ်ဖြစ်စေရန် ဆောင်ရွက်နေသော အကျိုးအမြတ်အတွက်မဟုတ်သော အဖွဲ့အစည်း Mozilla ထံမှ ခေတ်မီဆန်းသစ်သော မိုဘိုင်းဘရောင်ဇာ။">
+<!ENTITY firstrun_panel_title_privacy "ကိုယ်ပိုင်လွတ်လပ်ခွင့်">
+<!ENTITY firstrun_privacy_message "မည်သူမျှစောင့်ကြည့်မနေသကဲ့သို့ အသုံးပြုပါ">
+<!ENTITY firstrun_privacy_subtext "နောက်ယောင်ခံ ကာကွယ်မှု ပါဝင်သော သီးသန့်ကြည့်ရှုခြင်းသည် အင်တာနက်တွင် လည်ပတ်နေစဉ် နောက်ယောင်ခံများကို တားဆီးပါသည်။ ထို့ပြင် လည်ပတ်မှုပြီးဆုံးပါက လည်ပတ်မှတ်တမ်းကို မှတ်သားမထားပါ။">
+<!ENTITY firstrun_panel_title_customize "စိတ်ကြိုက်ပြင်ဆင်ရန်">
+<!ENTITY firstrun_customize_message "&brandShortName; ကို ကိုယ်ပိုင်ဘရောင်ဇာ ဖြစ်စေပါ။">
+<!ENTITY firstrun_customize_subtext "အတ်အွန်များအသုံးပြုပြီး &brandShortName; ကို စိတ်ကြိုက်ပြုပြင်ပါ။ ကြော်ငြာများကို တားဆီးပါ၊ စွမ်းရည်အသစ်များကို ပေါင်းထည့်ပါ သို့မဟုတ် မိမိ၏ပုံရိပ်ကို ထင်ဟပ်စေမည့် အခင်းအကျင်းတစ်ခုကို ရွေးချယ်ပါ။">
 <!ENTITY firstrun_bookmarks_title "မှတ်တမ်း">
 <!ENTITY firstrun_bookmarks_message "ရှေ့နောက်ဝဲယာရှိ သင့်နှစ်သက်မှုများ">
 <!ENTITY firstrun_bookmarks_subtext "သင်ရှာဖွေသည့်အခါ စာမှတ်များနှင့် မှတ်တမ်းများမှ ရလဒ်များကို ရယူပါ။">
@@ -11,6 +18,7 @@
 <!ENTITY firstrun_data_message "ဒေတာအသုံးပြုမှုနည်းသည့်အတွက် ပိုမိုချွေတာနိုင်ပါသည်">
 <!ENTITY firstrun_data_subtext2 "သင်ကြည့်ရှုသည့် ဝဘ်ဆိုက်များ မိုဘိုင်းဒေတာ သုံးစွဲမှုနည်းစေရန် ရုပ်ပုံများကို ပိတ်ပါ။">
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
+<!ENTITY firstrun_sync_message2 "သင်ထွက်ခွာသွားသည့်နေရာကနေ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_message "ချိတ်ဆက်ပါ။ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_button "Sync လုပ်ဆောင်ရန် ဝင်ရောက်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
@@ -283,6 +291,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ကူးပြီး">
 
+<!ENTITY pref_pwa "Progressive ဝဘ်အက်ပ်များ">
 
 <!ENTITY tracking_protection_prompt_title "ယခု ခြေရာခံ ကာကွယ်မှုစနစ် ပါဝင်ပါသည်">
 <!ENTITY tracking_protection_prompt_text "ခြေရာခံအစိတ်အပိုင်းများကို နိုးကြားတက်ကြွစွာ ပိတ်ပင်တားဆီးနေသည့်အတွက် စိုးရိမ်ပူပန်စရာ မလိုပါ။">
@@ -374,6 +383,9 @@
 <!ENTITY pref_dialog_set_default "မူလအဖြစ်ထားပါ">
 <!ENTITY pref_dialog_default "မူရင်းအခြေအနေ">
 <!ENTITY pref_dialog_remove "ဖယ်ရှားပါ">
+<!ENTITY pref_dialog_activitystream_header_content "အခြားအကြောင်းအရာ">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "လတ်တလော စာမှတ်များ">
+<!ENTITY pref_dialog_activitystream_visited "လည်ပတ်ထားသော">
 
 <!ENTITY pref_search_last_toast "သင်၏ နောက်ဆုံးသုံးခဲ့သော ရှာဖွေရေး ဝန်ဆောင်မှုအား ပိတ် သို့ မဖယ်နိုင်ပါ">
 
@@ -478,10 +490,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "ထိပ်တန်းဆိုက်များစာရင်းတွင် တွဲပါ">
+<!ENTITY contextmenu_unpin_from_top_sites "ထိပ်တန်းဆိုက်များစာရင်းမှ ဖြုတ်ပါ">
 <!ENTITY contextmenu_add_search_engine "ရှာဖွေရေး ဝန်ဆောင်မှုကို ထည့်သွင်းပါ">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "ထိပ်တန်းဆိုက်များစာရင်းတွင် တွဲထားသည့်စာမျက်နှာ">
+<!ENTITY unpinned_page_from_top_sites "ထိပ်တန်းဆိုက်များစာရင်းမှ ဖြုတ်ထားသည့်စာမျက်နှာ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -515,6 +531,7 @@
 <!ENTITY page_removed "စာမျက်နှာကို ဖယ်ရှားပြီး">
 
 <!ENTITY bookmark_edit_title "စာမှတ်ကို ပြင်ရန်">
+<!ENTITY bookmark_edit_folder_title "ဖိုင်တွဲကို တည်းဖြတ်ရန်">
 <!ENTITY bookmark_edit_name "အမည်">
 <!ENTITY bookmark_edit_location "တည်နေရာ">
 <!ENTITY bookmark_edit_keyword "သော့ချက် စာလုံး">
@@ -594,6 +611,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "တွဲထားသော ဆိုက်">
+<!ENTITY home_unpinned_site "ဖြုတ်ထားသော ဆိုက်">
 
 <!ENTITY remote_tabs_panel_moved_title "တပ်ဗ်တွေဘယ်မှာလဲ?">
 <!ENTITY remote_tabs_panel_moved_desc "သင်၏ အခြားဖုန်းမှ တပ်ဗ်များကို လွယ်လွယ်ကူကူ သုံးစွဲနိုင်ရန် သင့်ပင်မစာမျက်နှာရှိ ရင်ပြင်တစ်ခုပေါ်သို့ ပို့ပေးလိုက်သည်။">
@@ -799,9 +818,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "လူကြည့်အများဆုံးဆိုဒ်များ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket;က အကြံပြုထားသည်">
 <!ENTITY activity_stream_highlights "ဦးစားပေးအကြောင်းအရာများ">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "ပို၍">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -810,11 +831,18 @@ Stream list for highlights sourced from th user's bookmarks. -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ကြည့်ရှုထားသော">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!ENTITY activity_stream_highlight_label_trending "လူကြိုက်များနေသော">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_remove "ဖယ်ရှားပါ">
 <!ENTITY activity_stream_delete_history "မှတ်တမ်းမှ ဖျက်ပါ">
 
+<!ENTITY private_tab_panel_title "သီးသန့်ကြည့်ရှုခြင်း + နောက်ယောင်ခံကာကွယ်မှု">
+<!ENTITY private_tab_panel_description "&brandShortName; သည် သင့်လှုပ်ရှားမှုကို ခြေရာခံနိုင်သည်ဟု ထင်ရသော ဝဘ်စာမျက်နှာများ၏ အစိတ်အပိုင်းများကို တားဆီးထားသည်။">
+<!ENTITY private_tab_panel_description2 "ကျွန်ုပ်တို့သည် မည်သည့်မှတ်တမ်းမျှ မှတ်ထားမည် မဟုတ်သော်လည်း ဆွဲယူထားသည့်ဖိုင်များနှင့် စာမှတ်အသစ်များကို သင့်ကိရိယာထဲတွင် သိမ်းဆည်းထားပါမည်။">
+<!ENTITY private_tab_learn_more "ပိုမိုသိရှိလိုပါသလား။">
 
+<!ENTITY fullscreen_warning "ဖန်သားပြင်အပြည့် ကြည့်နေသည်">
