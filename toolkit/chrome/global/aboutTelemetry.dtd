@@ -66,16 +66,16 @@ JSON მნახველში გახსნა
   სეანსის ინფორმაცია
 ">
 <!ENTITY aboutTelemetry.scalarsSection "
-  სკალარები
+  სიდიდეები
 ">
 <!ENTITY aboutTelemetry.keyedScalarsSection "
-  დაშიფრული სკალარები
+  გასაღებებიანი სიდიდეები
 ">
 <!ENTITY aboutTelemetry.histogramsSection "
-  ჰისტოგრამები
+  გრაფიკები
 ">
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  გასაღებებიანი ჰისტოგრამები
+  გასაღებებიანი გრაფიკები
 ">
 <!ENTITY aboutTelemetry.eventsSection "
   მოვლენები
