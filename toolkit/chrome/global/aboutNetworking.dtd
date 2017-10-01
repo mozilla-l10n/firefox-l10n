@@ -55,5 +55,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "მოკლე საშუალო">
 <!ENTITY aboutNetworking.rcwnAvgLong           "გრძელი საშუალო">
 <!ENTITY aboutNetworking.rcwnStddevLong        "გრძელი სტანდარტული გადახრა">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "ქეშის შენელების რაოდენობა">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "ქეშის რაოდენობა შენელების გარეშე">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "კეშის დაყოვნების რაოდენობა">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "კეშის დაუყოვნებლობის რაოდენობა">
