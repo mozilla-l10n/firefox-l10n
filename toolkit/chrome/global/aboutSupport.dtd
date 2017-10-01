@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsName "სახელი">
 <!ENTITY aboutSupport.lockedPrefsValue "მნიშვნელობა">
 
-<!ENTITY aboutSupport.graphicsTitle "გრაფიკები">
+<!ENTITY aboutSupport.graphicsTitle "გამოსახულებები">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Places მონაცემთა ბაზა">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "მთლიანობა">
