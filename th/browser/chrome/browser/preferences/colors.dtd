@@ -6,6 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors2.label       "ลบล้างสีที่กำหนดโดยหน้านี้ด้วยสิ่งที่คุณเลือกด้านบน">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "เสมอ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "เฉพาะกับชุดตกแต่งความคมชัดสูง">

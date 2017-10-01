@@ -59,12 +59,19 @@
 <!ENTITY wordWrap.label                "ตัดคำข้อความ">
 <!ENTITY wordWrap.accesskey            "ต">
 
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
+<!ENTITY largerFont.label             "ฟอนต์ใหญ่ขึ้น">
+<!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "ฟอนต์เล็กลง">
+<!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
+<!ENTITY normalSize.label             "ขนาดปกติ">
+<!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "แก้ไข">

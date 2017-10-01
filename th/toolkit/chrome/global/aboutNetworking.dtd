@@ -29,6 +29,8 @@
 <!ENTITY aboutNetworking.messagesReceived      "ข้อความที่รับ">
 <!ENTITY aboutNetworking.bytesSent             "จำนวนไบต์ที่ส่ง">
 <!ENTITY aboutNetworking.bytesReceived         "จำนวนไบต์ที่รับ">
+<!ENTITY aboutNetworking.logging               "การบันทึก">
+<!ENTITY aboutNetworking.startLogging          "เริ่มการบันทึก">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "เปิด">

@@ -125,3 +125,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaTitle "สื่อ">
 <!ENTITY aboutSupport.mediaDeviceName "ชื่อ">
 <!ENTITY aboutSupport.mediaDeviceGroup "กลุ่ม">
+<!ENTITY aboutSupport.mediaDeviceVendor "ผู้จำหน่าย">
