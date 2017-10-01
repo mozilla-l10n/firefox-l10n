@@ -51,25 +51,23 @@
 <!ENTITY fxaccount_getting_started_get_started 'စတင်ပါ'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ဗားရှင်း အဟောင်းကို သုံးနေပါသလား?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'ဝင်ရောက်မည်'>
-<!ENTITY fxaccount_status_manage_account 'အကောင့်ကို စီမံရန်'>
 <!ENTITY fxaccount_status_auth_server 'အကောင့်ဆာဗာ'>
 <!ENTITY fxaccount_status_sync_now 'ယခုချိတ်ပါ'>
 <!ENTITY fxaccount_status_syncing2 'ချိတ်နေသှ်...'>
 <!ENTITY fxaccount_status_device_name 'ဖုန်း အမည်'>
 <!ENTITY fxaccount_status_sync_server 'ချိတ်ဆက် ဆာဗာ'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label; ဖွင့်ထားသှ်'>
 <!ENTITY fxaccount_status_needs_verification2 'သင့်အကောင့်အား အတည်ပြုရန် လိုအပ်သည်။ အတည်ပြုအီးမေလ်းအား ပြန်ပို့ပါ။'>
 <!ENTITY fxaccount_status_needs_credentials 'ချိတ်ဆက်မရပါ။ ဝင်ရန် ထိပါ။'>
 <!ENTITY fxaccount_status_needs_upgrade 'ဝင်ရောက်ရန် &brandShortName; အား အဆင့်မြှင့်ရန်လိုအပ်သှ်'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ကို တပ်ဆင်ပြီးပေမယ့် အလိုအလျောက် ချိတ်ဆက်မထားပါ။ Android Settings &gt; Data Usage အောက်မှ  “Auto-sync data” ကို နှိပ်ပြီး ချိတ်ပါ။'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ကို တပ်ဆင်ပြီးပေမယ့် အလိုအလျောက် ချိတ်ဆက်မထားပါ။ Android Settings &gt; Accounts အောက်မှ “Auto-sync data” ကို နှိပ်ပြီး ချိတ်ပါ။'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'သင့်မီးမြေခွေး အကောင့်အား ဝင်ရန် ထိပါ'>
+<!ENTITY fxaccount_status_choose_what 'ထပ်တူပြုလိုသည်များကို ရွေးပါ'>
 <!ENTITY fxaccount_status_bookmarks 'စာမှတ်များ'>
 <!ENTITY fxaccount_status_history 'မှတ်တမ်း'>
 <!ENTITY fxaccount_status_passwords2 'ဝင်ရောက်မှုများ'>
 <!ENTITY fxaccount_status_tabs 'ဖွင့်ထားသောတပ်ဗ်များ'>
+<!ENTITY fxaccount_status_additional_settings 'အခြားအပြင်အဆင်များ'>
 <!ENTITY fxaccount_status_legal 'ဥပဒေရေးရာ' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'အသုံးပြုရာတွင် လိုက်နာရမည့် စည်းကမ်းချက်များ'>
 <!ENTITY fxaccount_status_linkprivacy2 'ကိုယ်ရေးကာကွယ်မှု အသိပေးချက်'>
-<!ENTITY fxaccount_status_more 'နောက်&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ချိတ်ဆက်မှုကို ဖြုတ်ရန်&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Sync နှင့် ချိတ်ဆက်ထားခြင်းမှ ဖြုတ်မည်လား။'>
@@ -102,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; အပြင်အဆင်များ'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; အားစီမံပါ'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'မီးမြေခွေးအား အဆင့်မြှင့်ရန်လိုအပ်သှ်'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'အကောင့်ရှိပြီး &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'အီးမေလ်း သို့ ပတ်စ်ဝတ် မရပါ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'အီးမေလ်း သို့ ပတ်စ်ဝတ် မရပါ'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'အကောင့်အား အတည်မပြုရသေးပါ'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ဆာဗာမအားပါ၊ နောင်တွင် ထပ်ကြိုးစားပါ'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ဆာဗာမအားပါ၊ နောင်တွင် ထပ်ကြိုးစားပါ'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ပြသာနာတစ်ခုရှိခဲ့သှ်'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'အကောင့်အားပိတ်ထားပြီး &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ချိတ်ဆက်မထားပါ'>
 <!-- Localization note: the format string below will be replaced

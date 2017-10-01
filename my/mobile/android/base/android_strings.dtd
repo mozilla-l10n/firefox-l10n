@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "သင်ကြည့်ရှုသည့် ဝဘ်ဆိုက်များ မိုဘိုင်းဒေတာ သုံးစွဲမှုနည်းစေရန် ရုပ်ပုံများကို ပိတ်ပါ။">
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 <!ENTITY firstrun_sync_message2 "သင်ထွက်ခွာသွားသည့်နေရာကနေ စတင်အသုံးပြုပါ။">
+<!ENTITY firstrun_sync_subtext2 "ကိရိယာများရှိ &brandShortName; တွင် သိမ်းထားသော စာမှတ်များ၊ စကားဝှက်များနှင့် အခြားအရာများကို ရှာဖွေရန် Sync ကို အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_message "ချိတ်ဆက်ပါ။ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_button "Sync လုပ်ဆောင်ရန် ဝင်ရောက်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
@@ -292,6 +293,7 @@
 <!ENTITY custom_tabs_hint_url_copy "URL ကူးပြီး">
 
 <!ENTITY pref_pwa "Progressive ဝဘ်အက်ပ်များ">
+<!ENTITY pref_pwa_summary "မူလစာမျက်နှာတွင် ဝဘ်အက်ပ်များကို ထည့်ရန် ခွင့်ပြုပါ">
 
 <!ENTITY tracking_protection_prompt_title "ယခု ခြေရာခံ ကာကွယ်မှုစနစ် ပါဝင်ပါသည်">
 <!ENTITY tracking_protection_prompt_text "ခြေရာခံအစိတ်အပိုင်းများကို နိုးကြားတက်ကြွစွာ ပိတ်ပင်တားဆီးနေသည့်အတွက် စိုးရိမ်ပူပန်စရာ မလိုပါ။">
@@ -833,6 +835,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "လူကြိုက်များနေသော">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "စတင်လည်ပတ်ကြည့်ရှုပါ။ ဆောင်းပါးကောင်းများ၊ ဗီဒီယိုများနှင့် လတ်တလော လည်ပတ်ကြည့်ရှုထားသော သို့မဟုတ် မှတ်သားထားသော အခြားစာမျက်နှာများကို ယခုနေရာတွင် ပြပါမည်။">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
