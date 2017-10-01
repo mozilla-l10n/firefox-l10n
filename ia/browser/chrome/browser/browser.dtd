@@ -561,7 +561,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Adder marcapaginas sur iste pagina">
-<!ENTITY bookmarkThisLinkCmd.label      "Adder marcapaginas su le ligamine">
+<!ENTITY bookmarkThisLinkCmd.label      "Adder marcapaginas sur iste ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Adder marcapaginas sur iste quadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
