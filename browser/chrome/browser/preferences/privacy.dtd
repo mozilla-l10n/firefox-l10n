@@ -22,7 +22,7 @@
 <!ENTITY trackingProtectionPBM6.label         "사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "자세히 보기">
-<!ENTITY changeBlockList2.label               "차단 목록 변경중…">
+<!ENTITY changeBlockList2.label               "차단 목록 변경…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.description        "웹사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림">
