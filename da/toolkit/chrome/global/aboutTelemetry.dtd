@@ -27,7 +27,7 @@
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Åbn i JSON-vieweren">
 
-<!ENTITY aboutTelemetry.homeSection "Hjem">
+<!ENTITY aboutTelemetry.homeSection "Start">
 <!ENTITY aboutTelemetry.generalDataSection "Generelle data">
 <!ENTITY aboutTelemetry.environmentDataSection "Miljø-data">
 <!ENTITY aboutTelemetry.sessionInfoSection "Sessionsoplysninger">
