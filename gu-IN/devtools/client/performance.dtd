@@ -40,6 +40,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "કુલ સમય">
+<!ENTITY performanceUI.table.function                 "કાર્ય">
+<!ENTITY performanceUI.table.function.tooltip         "નમૂનાપૂર્ણ કાર્યનું નામ અને સ્રોત સ્થાન.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -52,6 +54,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+<!ENTITY performanceUI.invertFlameGraph             "ફ્લૅટ ચાર્ટ ઉલટાવો">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
