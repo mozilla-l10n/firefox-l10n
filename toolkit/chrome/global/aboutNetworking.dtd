@@ -13,7 +13,7 @@
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "გაახლება">
 <!ENTITY aboutNetworking.autoRefresh           "განახლება ყოველ 3 წამში">
-<!ENTITY aboutNetworking.hostname              "ჰოტის სახელი">
+<!ENTITY aboutNetworking.hostname              "ჰოსტის სახელი">
 <!ENTITY aboutNetworking.port                  "პორტი">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
@@ -31,7 +31,7 @@
 <!ENTITY aboutNetworking.bytesSent             "გაგზავნილი ბაიტი">
 <!ENTITY aboutNetworking.bytesReceived         "მიღებული ბაიტი">
 <!ENTITY aboutNetworking.logging               "აღრიცხვა">
-<!ENTITY aboutNetworking.logTutorial           "იხილეთ <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP აღრიცხვა</a> ამ ხელსაწყოს გამოყენების წესების გასაცნობად.">
+<!ENTITY aboutNetworking.logTutorial           "ეწვიეთ ბმულს <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP აღრიცხვა,</a> ამ ხელსაწყოს მოხმარების წესების გასაცნობად.">
 <!ENTITY aboutNetworking.currentLogFile        "მიმდინარე აღრიცხვის ფაილი:">
 <!ENTITY aboutNetworking.currentLogModules     "მიმდინარე აღრიცხვის მოდულები:">
 <!ENTITY aboutNetworking.setLogFile            "აღრიცხვის ფაილის მითითება">
@@ -39,7 +39,7 @@
 <!ENTITY aboutNetworking.startLogging          "აღრიცხვის დაწყება">
 <!ENTITY aboutNetworking.stopLogging           "აღრიცხვის შეჩერება">
 <!ENTITY aboutNetworking.dnsLookup             "DNS მოძიება">
-<!ENTITY aboutNetworking.dnsLookupButton       "გადაჭრა">
+<!ENTITY aboutNetworking.dnsLookupButton       "მოთხოვნა">
 <!ENTITY aboutNetworking.dnsDomain             "დომეინი">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN სტატისტიკა">
