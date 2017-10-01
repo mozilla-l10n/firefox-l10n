@@ -25,7 +25,7 @@
 <!ENTITY tabCrashed.sendReport3 "Испратете автоматизиран извештај за да можеме да ги поправиме ваквите грешки.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Дополнителни коментари (коментарите се јавно-видливи)">
 <!ENTITY tabCrashed.includeURL3 "Вклучете ги адресите на мрежните места на коишто бевте кога &brandShortName; се урна.">
-<!ENTITY tabCrashed.emailPlaceholder "Внесете ја Вашата адреса за е-пошта овде">
+<!ENTITY tabCrashed.emailPlaceholder "Внесете ја вашата адреса за е-пошта овде">
 <!ENTITY tabCrashed.emailMe "Испрати ми е-пошта кога ќе има повеќе информации за ова">
 <!ENTITY tabCrashed.reportSent "Извештајот за уривање е веќе испратен; Ви благодариме што помагате &brandShortName; да биде подобар!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Пријавете ги позадинските јазичиња">
