@@ -121,7 +121,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Што се додатоци?">
-<!ENTITY discover.description2                "Додатоците се апликации што ви овозможуваат да го персонализирате &brandShortName; со дополнителни функционалности или стил. Пробајте алатки што штедат време, известувачи за временска прогноза или тема за изгледот за да го направите &brandShortName; Ваш.">
+<!ENTITY discover.description2                "Додатоците се апликации што ви овозможуваат да го персонализирате &brandShortName;
+  со дополнителни функционалности или стил. Пробајте алатки што штедат време, известувачи за временска прогноза
+  или тема за изгледот за да го направите &brandShortName; ваш.">
 <!ENTITY discover.footer                      "Кога сте поврзани на интернет овој панел ќе прикажува некои од најдобрите и најпопуларни додатоци што може да ги пробате.">
 
 <!-- detail view -->

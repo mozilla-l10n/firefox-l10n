@@ -64,7 +64,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "Нема надградби за &brandShortName;">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Вашиот систем-администратор ги има оневозможено надградбите">
+<!ENTITY update.adminDisabled       "Вашиот системски администратор ги има оневозможено надградбите">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; се ажурира од друга инстанца">
 <!ENTITY update.restarting          "Рестартирам…">
