@@ -43,6 +43,7 @@
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> એ <a id='error_desc_link'>એક કપટપૂર્ણ સાઇટ તરીકે રિપોર્ટ કરેલું </a>છે. તમે <a id='report_detection'>શોધ સમસ્યાની જાણ કરી શકો છો</a>.">
 
 
 
