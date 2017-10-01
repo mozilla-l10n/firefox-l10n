@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "ბრაუზერის ნაგულისხმევ პარამეტრებზე დაბრუნებას">
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName;-ის გამოცოცხლება">
 
-<!ENTITY refreshProfile.title                "გაასუფთავე &brandShortName;">
+<!ENTITY refreshProfile.title                "გაასუფთავეთ &brandShortName;">
 <!ENTITY refreshProfile.button.label         "&brandShortName;-ის გამოცოცხლება…">
 
 <!ENTITY refreshProfile.cleaning.description "თითქმის დასრულებულია…">
