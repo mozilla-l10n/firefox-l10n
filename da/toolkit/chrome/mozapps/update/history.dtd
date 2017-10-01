@@ -4,7 +4,7 @@
 
 
 <!ENTITY history.title             "Opdateringshistorik">
-<!ENTITY history.intro2            "Følgende opdateringer er blevet installeret">
+<!ENTITY history2.intro            "Følgende opdateringer er blevet installeret">
 <!ENTITY closebutton.label         "Luk">
                                      
 <!ENTITY noupdates.label           "Ingen opdateringer installeret endnu">
