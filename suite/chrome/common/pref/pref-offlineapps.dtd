@@ -4,21 +4,21 @@
 <!-- extracted from content/pref-offlineapps.xul -->
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
-<!ENTITY pref.offlineapps.title "Offline webové aplikace">
-<!ENTITY pref.offlineCache.caption "Offline obsah a uživatelská data">
+<!ENTITY pref.offlineapps.title             "Offline webové aplikace">
+<!ENTITY pref.offlineCache.caption          "Offline obsah a uživatelská data">
 
-<!ENTITY clearOfflineAppCache.label "Vymazat">
-<!ENTITY clearOfflineAppCache.accesskey "m">
+<!ENTITY clearOfflineAppCache.label         "Vymazat">
+<!ENTITY clearOfflineAppCache.accesskey     "m">
 
-<!ENTITY offlineAlwaysAllow.label           "Povolit ukládat offline obsah všem serverům">
+<!ENTITY offlineAlwaysAllow.label           "Povolit ukládat obsah pro použití v režimu offline všem serverům">
 <!ENTITY offlineAlwaysAllow.accesskey       "P">
 <!ENTITY offlineExplicit.label              "Povolit pouze pro explicitně uvedené servery">
 <!ENTITY offlineExplicit.accesskey          "o">
-<!ENTITY offlineNotifyAsk.label             "Upozornit, pokud server chce uložit offline obsah">
+<!ENTITY offlineNotifyAsk.label             "Upozornit, pokud server chce uložit obsah pro použití v režimu offline">
 <!ENTITY offlineNotifyAsk.accesskey         "U">
-<!ENTITY offlineNotifyPermissions.label "Spravovat oprávnění">
+<!ENTITY offlineNotifyPermissions.label     "Spravovat oprávnění">
 <!ENTITY offlineNotifyPermissions.accesskey "S">
 
 <!ENTITY offlineAppsUsage.label             "Následující servery mají uložení offline obsah:">
-<!ENTITY offlineAppsListRemove.label "Odebrat…">
-<!ENTITY offlineAppsListRemove.accesskey "d">
+<!ENTITY offlineAppsListRemove.label        "Odebrat…">
+<!ENTITY offlineAppsListRemove.accesskey    "d">
