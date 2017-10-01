@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsDoNotDisturb.label      "არ შემაწუხოთ">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "წ">
-<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა ჩართვამდე შეტყობინებები არ გამოჩნდება">
+<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName;-ის ხელახლა გაშვებამდე შეტყობინებები არ გამოჩნდება">
 
 <!ENTITY  popupExceptions.label                                 "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey                             "გ">

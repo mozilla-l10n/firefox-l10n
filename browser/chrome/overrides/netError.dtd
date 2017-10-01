@@ -44,7 +44,9 @@
 ">
 
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
-<!ENTITY generic.longDesc "<p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გარკვეული მიზეზით.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გაურკვეველი მიზეზით.</p>
+">
 
 <!ENTITY captivePortal.title "ქსელში შესვლა">
 <!ENTITY captivePortal.longDesc2 "

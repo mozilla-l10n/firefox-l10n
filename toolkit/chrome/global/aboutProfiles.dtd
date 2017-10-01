@@ -5,6 +5,6 @@
 <!ENTITY aboutProfiles.title "პროფილების შესახებ">
 <!ENTITY aboutProfiles.subtitle "ეს გვერდი გეხმარებათ თქვენი პროფილების მართვაში. თითოეული პროფილი განცალკევებული სამყაროა, რომელიც შეიცავს განცალკევებულ ისტორიას, სანიშნეებს, პარამეტრებს და დამატებებს.">
 <!ENTITY aboutProfiles.create "ახალი პროფილის შექმნა">
-<!ENTITY aboutProfiles.restart.title "ხელახლა ჩართვა">
-<!ENTITY aboutProfiles.restart.inSafeMode "ხელახლა ჩართვა გამორთული დამატებებით…">
-<!ENTITY aboutProfiles.restart.normal "ხელახლა ჩართვა ჩვეულებრივად…">
+<!ENTITY aboutProfiles.restart.title "ხელახლა გაშვება">
+<!ENTITY aboutProfiles.restart.inSafeMode "ხელახლა გაშვება გამორთული დამატებებით…">
+<!ENTITY aboutProfiles.restart.normal "ხელახლა გაშვება ჩვეულებრივად…">
