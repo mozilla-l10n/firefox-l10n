@@ -14,6 +14,7 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Iste adresse es restricte">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Servitor non trovate">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -38,13 +39,18 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 
+<!ENTITY notCached.title "Documento expirate">
 
+<!ENTITY netOffline.title "Modo disconnectite">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY contentEncodingError.title "Error de codification del contento">
+
+<!ENTITY unsafeContentType.title "Typo de file non secur">
 
 
-
+<!ENTITY netTimeout.title "Le connexion ha expirate">
 
 
 

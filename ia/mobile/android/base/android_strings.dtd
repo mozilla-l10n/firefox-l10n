@@ -393,11 +393,14 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Reporto de sanitate de &brandShortName;">
+<!ENTITY datareporting_telemetry_title "Telemetria">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Reportator de collapso">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Actualisationes automatic">
 <!ENTITY pref_update_autodownload_never "Nunquam">
 <!ENTITY pref_update_autodownload_always "Sempre">
 
@@ -409,14 +412,38 @@
 <!ENTITY addons "Supplementos">
 <!ENTITY logins "Authenticationes">
 <!ENTITY downloads "Discargas">
+<!ENTITY char_encoding "Codification de characteres">
 
+<!ENTITY share "Compartir">
+<!ENTITY share_title "Compartir via">
+<!ENTITY print "Imprimer">
+<!ENTITY find_in_page "Trovar in le pagina">
+<!ENTITY page "Pagina">
+<!ENTITY tools "Instrumentos">
+<!ENTITY new_tab "Nove scheda">
+<!ENTITY new_private_tab "Nove scheda private">
+<!ENTITY close_all_tabs "Clauder tote le schedas">
+<!ENTITY tabs_normal "Schedas">
+<!ENTITY tabs_private "Private">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_prev "Previe">
+<!ENTITY find_next "Sequente">
+<!ENTITY find_close "Clauder">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_play "Reproducer">
+<!ENTITY media_pause "Pausar">
+<!ENTITY media_stop "Cessar">
 
+<!ENTITY contextmenu_open_new_tab "Aperir in un nove scheda">
+<!ENTITY contextmenu_open_private_tab "Aperir in un scheda private">
+<!ENTITY contextmenu_remove "Remover">
+<!ENTITY contextmenu_share "Compartir">
+<!ENTITY contextmenu_paste "Collar">
+<!ENTITY contextmenu_copyurl "Copiar le adresse">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -427,10 +454,15 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_edit_username_hint "Nomine del usator">
+<!ENTITY doorhanger_login_edit_password_hint "Contrasigno">
+<!ENTITY doorhanger_login_edit_toggle "Monstrar le contrasigno">
+<!ENTITY doorhanger_login_select_action_text "Eliger un altere conto">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_tab_queue_title3 "Cauda de schedas">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -438,6 +470,7 @@
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Pagina removite">
 
 <!ENTITY bookmark_edit_name "Nomine">
 <!ENTITY bookmark_edit_location "Adresse">
@@ -471,11 +504,20 @@
 <!ENTITY home_top_sites_title "Sitos Popular">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Adder un sito">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_history_title "Chronologia">
+<!ENTITY home_synced_devices_smartfolder "Apparatos synchronizate">
+<!ENTITY home_synced_devices_number "&formatD; apparatos">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 apparato">
+<!ENTITY home_history_back_to2 "Retornar al chronologia complete">
+<!ENTITY home_restore_all "Restaurar toto">
+<!ENTITY home_closed_tabs_number "&formatD; schedas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 scheda">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
@@ -484,6 +526,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Retornar a &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -491,6 +534,7 @@
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Apparatos occultate">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
@@ -528,8 +572,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_disabled "Dishabilitate">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
+<!ENTITY learn_more "Apprender plus">
 
+<!ENTITY private_data_success "Datos private clarate">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_wait "Per favor attende…">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
@@ -544,8 +592,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_select2 "Toccar pro discargar">
 
 
+<!ENTITY updater_apply_select3 "Tocca pro installar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -607,6 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_clear_history "Clarar le chronologia">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -619,11 +670,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
+<!ENTITY eol_notification_summary "Tocca pro apprender plus">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 
+<!ENTITY helper_first_offline_bookmark_title "Leger sin connexion">
 <!ENTITY helper_first_offline_bookmark_button "Va a paginas marcate">
 
 <!ENTITY helper_triple_readerview_open_title "Disponibile sin connexion">
