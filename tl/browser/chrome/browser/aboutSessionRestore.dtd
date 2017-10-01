@@ -6,16 +6,14 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Naku, ito ay nakahihiya.">
-<!ENTITY restorepage.problemDesc    "Nahirapan ang &brandShortName; na ibalik ang inyong mga window at tab. Madalas na 'yung pinakabagong binuksan na web page ang dahilan.">
-<!ENTITY restorepage.tryThis        "Maaari mong subukan:">
-<!ENTITY restorepage.restoreSome    "Pagtanggal ng isa o higit pang tabs na sa tingin mo ay sanhi ng problema">
-<!ENTITY restorepage.startNew       "Nagsisimula ng panibagong browsing session">
+<!ENTITY restorepage.errorTitle2    "Paumanhin. Nagkakaproblema kami sa pagkuha ng iyong mga pahina pabalik.">
+<!ENTITY restorepage.problemDesc2   "Nagkakaproblema kami sa pagpapanumbalik ng iyong huling sesyon ng pagba-browse. Piliin ang Ibalik ang Session upang subukang muli.">
+<!ENTITY restorepage.tryThis2       "Hindi pa rin kayang ibalik ang iyong session? Kung minsan ang isang tab ay nagiging sanhi ng isyu. Tingnan ang nakaraang mga tab, alisin ang checkmark mula sa mga tab na hindi mo kailangang mabawi, at pagkatapos ay ibalik.">
 
-<!ENTITY restorepage.tryagainButton "Ibalik">
-<!ENTITY restorepage.restore.access "I">
-<!ENTITY restorepage.closeButton    "Isara">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "Ibalik ang Session">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Magsimula ng Bagong Session">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Ibalik">
 <!ENTITY restorepage.listHeader     "Mga Window at mga tab">

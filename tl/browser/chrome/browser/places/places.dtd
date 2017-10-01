@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">
 
-<!ENTITY search.placeholder  "Paghahanap">
+<!ENTITY historySearch.placeholder  "Kasaysayan ng paghahanap">
+<!ENTITY bookmarksSearch.placeholder  "Maghanap ng mga bookmark">
 
 <!ENTITY cmd.find.key  "f">
 

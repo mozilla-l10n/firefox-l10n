@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Inaalis na Site Data">
 <!ENTITY     removingSelected.description  "Ang pag-alis ng data ng site ay mag-aalis din ng mga kaugnay na cookies at offline na web content. Ito ay maaaring mag-log out ka sa mga website. Sigurado ka bang nais mong gawin ang mga pagbabago?">
-<!ENTITY     siteTree.label                "Tatanggalin ang sumusunod na cookies ng website:">
+<!ENTITY     siteTree2.label               "Ang mga cookies ng sumusunod na website ay aalisin">
