@@ -64,7 +64,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "ბ">
 <!ENTITY cmd.removeFromHistory.label      "ისტორიიდან წაშლა">
 <!ENTITY cmd.removeFromHistory.accesskey  "წ">
-<!ENTITY cmd.clearList2.label             "გადახედვის პანელის გასუფთავება">
+<!ENTITY cmd.clearList2.label             "შესათვალიერებელი პანელის გასუფთავება">
 <!ENTITY cmd.clearList2.accesskey         "პ">
 <!ENTITY cmd.clearDownloads.label         "ჩამოტვირთვების გასუფთავება">
 <!ENTITY cmd.clearDownloads.accesskey     "ჩ">
