@@ -73,7 +73,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "启用浏览器 chrome 部分和附加组件的调试工具箱">
+<!ENTITY options.enableChrome.label5    "启用浏览器界面及附加组件的调试工具箱">
 <!ENTITY options.enableChrome.tooltip3  "打开此选项将允许您使用在浏览器上下文的开发者工具（通过 工具 > Web 开发者 > 浏览器工具箱）和从“附加组件管理器”调试附加组件">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
