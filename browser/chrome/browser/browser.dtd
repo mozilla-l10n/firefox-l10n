@@ -616,7 +616,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "გაშვება">
-<!ENTITY mediaPlay.accesskey         "დ">
+<!ENTITY mediaPlay.accesskey         "გ">
 <!ENTITY mediaPause.label            "შეჩერება">
 <!ENTITY mediaPause.accesskey        "შ">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
@@ -646,13 +646,13 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "სამართავი ღილაკების გამოჩენა">
+<!ENTITY mediaShowControls.label     "სამართავი ზოლის გამოჩენა">
 <!ENTITY mediaShowControls.accesskey "ღ">
-<!ENTITY mediaHideControls.label     "სამართავი ღილაკების დამალვა">
+<!ENTITY mediaHideControls.label     "სამართავი ზოლის დამალვა">
 <!ENTITY mediaHideControls.accesskey "ღ">
 <!ENTITY videoFullScreen.label       "სრული ეკრანი">
 <!ENTITY videoFullScreen.accesskey   "ს">
-<!ENTITY videoSaveImage.label        "ანაბეჭდის შენახვა როგორც…">
+<!ENTITY videoSaveImage.label        "კადრის შენახვა როგორც…">
 <!ENTITY videoSaveImage.accesskey    "ა">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
