@@ -33,7 +33,7 @@ available. -->
 <!ENTITY enableHealthReport2.accesskey   "t">
 <!ENTITY healthReportLearnMore.label     "Dalše informacije">
 
-<!ENTITY dataCollection.label            "Hromadźenje a wužiwanje daotw &brandShortName;">
+<!ENTITY dataCollection.label            "Hromadźenje a wužiwanje datow &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy &brandShortName; za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Zdźělenka priwatnosće">
 
