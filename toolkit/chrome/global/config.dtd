@@ -6,7 +6,7 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Ова може да ја поништи Вашата гаранција">
+<!ENTITY aboutWarningTitle.label "Ова може да ја поништи вашата гаранција!">
 <!ENTITY aboutWarningText.label "Менувањето на основните вредности на овие напредни поставки можат да бидат штетни за стабилноста, безбедноста и перформансите на оваа програма. Продолжете само ако знаете што правите.">
 <!ENTITY aboutWarningCheckbox.label "Прикажи го ова предупредување и следниот пат">
 
