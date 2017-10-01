@@ -16,6 +16,7 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Ωχ. Η καρτέλα σας μόλις κατέρρευσε.">
 <!ENTITY tabCrashed.offerHelp2 "Μπορούμε να βοηθήσουμε!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Επιλέξτε &tabCrashed.restoreTab; για εκ νέου φόρτωση της σελίδας.">
 <!ENTITY tabCrashed.requestHelp "Θα μάς βοηθήσετε;">
 <!ENTITY tabCrashed.requestHelpMessage "Οι αναφορές κατάρρευσης μάς βοηθούν στη διάγνωση προβλημάτων και στη βελτίωση του &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Αναφορά καρτέλας">
