@@ -117,7 +117,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "დაყენების ისტორია">
 <!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "დატექსტის ბუფერში კოპირება">
+<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში დაკოპირება">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში დაკოპირება">
 
 <!ENTITY aboutSupport.sandboxTitle "იზოლირებული გარემო">

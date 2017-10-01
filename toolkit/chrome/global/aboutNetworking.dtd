@@ -12,7 +12,7 @@
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "გაახლება">
-<!ENTITY aboutNetworking.autoRefresh           "განახლება ყოველ 3 წამში">
+<!ENTITY aboutNetworking.autoRefresh           "თვითგაახლება ყოველ 3 წამში">
 <!ENTITY aboutNetworking.hostname              "ჰოსტის სახელი">
 <!ENTITY aboutNetworking.port                  "პორტი">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
@@ -40,7 +40,7 @@
 <!ENTITY aboutNetworking.stopLogging           "აღრიცხვის შეჩერება">
 <!ENTITY aboutNetworking.dnsLookup             "DNS მოძიება">
 <!ENTITY aboutNetworking.dnsLookupButton       "მოთხოვნა">
-<!ENTITY aboutNetworking.dnsDomain             "დომეინი">
+<!ENTITY aboutNetworking.dnsDomain             "დომენი">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN სტატისტიკა">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN სტატუსი">

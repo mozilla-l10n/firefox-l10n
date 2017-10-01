@@ -57,7 +57,7 @@
 <!ENTITY certmgr.view2.accesskey              "ნ">
 <!ENTITY certmgr.edit3.label                  "ნდობის რედაქტირება…">
 <!ENTITY certmgr.edit3.accesskey              "რ">
-<!ENTITY certmgr.export.label                 "გატანა…">
+<!ENTITY certmgr.export.label                 "შენახვა…">
 <!ENTITY certmgr.export.accesskey             "გ">
 <!ENTITY certmgr.delete2.label                "წაშლა…">
 <!ENTITY certmgr.delete2.accesskey            "წ">
