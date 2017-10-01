@@ -3,31 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY tracking.label                 "Следење">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  history.label                 "Историја">
 
-<!ENTITY  locationBar.label             "Локациска лента">
-
-<!ENTITY  locbar.history.label          "Историја">
-<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Обележувачи">
 
 
-<!ENTITY  acceptCookies.label           "Прифаќај колачиња од места">
-<!ENTITY  acceptCookies.accesskey       "м">
 
-<!ENTITY  acceptThirdParty.pre.label      "Прифаќај колачиња од други места:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "к">
 <!ENTITY  acceptThirdParty.always.label   "Секогаш">
 <!ENTITY  acceptThirdParty.never.label    "Никогаш">
 <!ENTITY  acceptThirdParty.visited.label  "Од посетени">
 
-<!ENTITY  keepUntil.label               "Колачињата се чуваат:">
-<!ENTITY  keepUntil.accesskey           "К">
 
 <!ENTITY  expire.label                  "додека не истечат">
 <!ENTITY  close.label                   "до излез од &brandShortName;">
@@ -40,10 +29,10 @@
 
 <!ENTITY  historyHeader.remember.label     "ќе ја памти историјата">
 <!ENTITY  historyHeader.dontremember.label "никогаш нема да ја памти историјата">
-<!ENTITY  historyHeader.custom.label       "ќе ги користи Вашите лични поставки за историјата">
+<!ENTITY  historyHeader.custom.label       "ќе ги користи вашите лични поставки за историјата">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; ќе ги памти Вашите формулари и пребарувања, историјата на сурфање и преземања, и ќе чува колачиња од интернет места кои ги посетувате.">
+<!ENTITY  rememberDescription.label      "&brandShortName; ќе ги памти вашите формулари и пребарувања, историјата на сурфање и преземања, и ќе чува колачиња од интернет места кои ги посетувате.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -77,7 +66,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Поставки…">
 <!ENTITY  clearOnCloseSettings.accesskey "П">
 
-<!ENTITY  browserContainersHeader.label         "Контејнерски јазичиња">
 <!ENTITY  browserContainersLearnMore.label      "Дознајте повеќе">
 <!ENTITY  browserContainersEnabled.label        "Овозможи контејнерски јазичиња">
 <!ENTITY  browserContainersSettings.label        "Поставки…">
+
