@@ -313,16 +313,62 @@
 
 <!-- Calendar Server Dialog -->
 <!ENTITY calendar.server.dialog.title.edit          "Uredi kalendar">
+<!ENTITY calendar.server.dialog.name.label          "Naziv kalendara:">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Boja:">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java sistematski kalendarski server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Oblik:">
+<!ENTITY calendarproperties.location.label                 "Lokacija:">
+<!ENTITY calendarproperties.refreshInterval.label          "Osvježi kalendar:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Ručno">
+<!ENTITY calendarproperties.name.label                     "Naziv:">
+<!ENTITY calendarproperties.readonly.label                 "Samo za čitanje">
+<!ENTITY calendarproperties.firealarms.label               "Prikaži podsjetnike">
+<!ENTITY calendarproperties.cache3.label                   "Van mrežna podrška">
+<!ENTITY calendarproperties.enabled.label                  "Uključi ovaj kalendar">
+<!ENTITY calendarproperties.forceDisabled.label            "Pružalac usluge za ovaj kalendar nije pronađen. Ovo se zna događati ako ste onemogućili ili uklonili pojedine dodatke.">
+<!ENTITY calendarproperties.unsubscribe.label              "Ukini pretplatu">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Objavi kalendar">
+<!ENTITY calendar.publish.url.label                 "Objava URL-a">
+<!ENTITY calendar.publish.publish.button      "Objavi">
+<!ENTITY calendar.publish.close.button      "Zatvori">
 
+<!ENTITY calendar.publish.example.url.description   "Nešto kao http://www.mojserver.ba/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Odaberi kalendar">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Štampaj kalendar">
+<!ENTITY calendar.print.title.label "Naslov:">
+<!ENTITY calendar.print.layout.label "Raspored:">
+<!ENTITY calendar.print.range.label "Šta štampati">
+<!ENTITY calendar.print.currentView2.label "Trenutni prikaz">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Odabrane događaje/zadatke">
+<!ENTITY calendar.print.tasks.label "Zadatke">
+<!ENTITY calendar.print.events.label "Događaje">
+<!ENTITY calendar.print.custom.label "Razdoblje:">
+<!ENTITY calendar.print.from.label "Od:">
+<!ENTITY calendar.print.to.label "Do:">
+<!ENTITY calendar.print.settingsGroup.label "Postavke štampanja">
+<!ENTITY calendar.print.optionsGroup.label "Opcije">
+<!ENTITY calendar.print.taskswithnoduedate.label "Zadaci bez datuma dospjeća">
+<!ENTITY calendar.print.completedtasks.label "Završeni zadaci">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Detalji…">
+<!ENTITY calendar.error.code "Kod greške:">
+<!ENTITY calendar.error.description "Opis:">
+<!ENTITY calendar.error.title "Došlo je do greške">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Dodaj kao događaj">
+<!ENTITY calendar.extract.task.button          "Dodaj kao zadatak">
+<!ENTITY calendar.extract.event.button.tooltip "Izvezite kalendarske informacije iz poruke i dodajte ih u svoj kalendar kao događaj">
+<!ENTITY calendar.extract.task.button.tooltip  "Izvezite kalendarske informacije iz poruke i dodajte ih u svoj kalendar kao zadatak">
