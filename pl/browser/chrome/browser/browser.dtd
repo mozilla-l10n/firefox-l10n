@@ -434,7 +434,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "a">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
-<!ENTITY copyURLCmd.label "Kopiuj adres">
+<!ENTITY pageAction.copyLink.label "Kopiuj odnośnik">
 <!ENTITY copyURLFeedback.label "Skopiowano!">
 <!ENTITY emailPageCmd.label "Wyślij odnośnik…">
 <!ENTITY emailPageCmd.accesskey "n">
@@ -782,7 +782,7 @@
 <!ENTITY pageAction.addToUrlbar.label "Dodaj do paska adresu">
 <!ENTITY pageAction.removeFromUrlbar.label "Usuń z paska adresu">
 
-<!ENTITY sendToDevice.label3 "Wyślij stronę na urządzenie">
+<!ENTITY pageAction.sendTabToDevice.label "Wyślij stronę na urządzenie">
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
 
 <!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
