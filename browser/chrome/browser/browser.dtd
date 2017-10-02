@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Gendan standarder">
 <!ENTITY customizeMode.done "Færdig">
 <!ENTITY customizeMode.titlebar "Titellinje">
-<!ENTITY customizeMode.extraDragSpace "Træk mellemrum">
+<!ENTITY customizeMode.extraDragSpace "Træk-område">
 <!ENTITY customizeMode.toolbars2 "Værktøjslinjer">
 <!ENTITY customizeMode.lwthemes "Temaer">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine temaer">
