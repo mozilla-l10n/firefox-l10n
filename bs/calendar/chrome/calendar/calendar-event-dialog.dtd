@@ -379,8 +379,40 @@
 <!ENTITY event.freebusy.legend.free             "Slobodno" >
 <!ENTITY event.freebusy.legend.busy             "Zauzeto" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Privremeno" >
-<!ENTITY event.freebusy.legend.busy_unavailable "Izvan ureda" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Van ureda" >
+<!ENTITY event.freebusy.legend.unknown          "Bez informacija" >
+<!ENTITY event.attendee.role.required           "Obavezni sudionik">
+<!ENTITY event.attendee.role.optional           "Neobavezni sudionik">
+<!ENTITY event.attendee.role.chair              "Predsjedavajuči">
+<!ENTITY event.attendee.role.nonparticipant     "Ne sudjeluje">
+<!ENTITY event.attendee.usertype.individual     "Pojedinac">
+<!ENTITY event.attendee.usertype.group          "Grupa">
+<!ENTITY event.attendee.usertype.resource       "Resurs">
+<!ENTITY event.attendee.usertype.room           "Soba">
+<!ENTITY event.attendee.usertype.unknown        "Nepoznat">
 
 <!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "Odaberite vremensku zonu">
+<!ENTITY event.timezone.custom.label     "Više vremenskih zona…">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "Općenito">
+<!ENTITY read.only.title.label           "Naslov:">
+<!ENTITY read.only.event.start.label     "Datum početka:">
+<!ENTITY read.only.task.start.label      "Datum početka:">
+<!ENTITY read.only.event.end.label       "Datum završetka:">
+<!ENTITY read.only.task.due.label        "Dospjeće:">
+<!ENTITY read.only.repeat.label          "Ponavljanje:">
+<!ENTITY read.only.location.label        "Lokacija:">
+<!ENTITY read.only.category.label        "Kategorija:">
+<!ENTITY read.only.organizer.label       "Organizator:">
+<!ENTITY read.only.reply.label           "Odgovor:">
+<!ENTITY read.only.accept.label          "Prisustvovat ću">
+<!ENTITY read.only.decline.label         "Neću prisustvovati">
+<!ENTITY read.only.tentative.label       "Možda ću prisustvovati">
+<!ENTITY read.only.needs.action.label    "Potvrdit ću kasnije">
+<!ENTITY read.only.reminder.label        "Podsjetnik:">
+<!ENTITY read.only.attachments.label     "Prilozi:">
+<!ENTITY read.only.attendees.label       "Sudionici">
+<!ENTITY read.only.description.label     "Opis">
+<!ENTITY read.only.link.label            "Srodna veza">
