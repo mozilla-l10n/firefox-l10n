@@ -21,7 +21,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-data">
 <!ENTITY aboutTelemetry.moreInformations "Leder du efter mere information?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> indeholder guider om, hvordan du kan arbejdet med vores dataværktøjer">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Data Documentation</a> indeholder guider om, hvordan du kan arbejde med vores dataværktøjer">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry client documentation</a> indeholder definitioner af koncepter, API-dokumentation og data-referencer.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetry dashboards</a> giver dig mulighed for at visualisere de data, Mozilla modtager via Telemetry.">
 
