@@ -244,16 +244,73 @@
 <!ENTITY event.url.label                                  "Srodna veza:" >
 <!ENTITY event.priority2.label                            "Prioritet:">
 
+<!ENTITY event.reminder.none.label                        "Bez podsjetnika " >
+<!ENTITY event.reminder.0minutes.before.label             "0 minuta prije" >
+<!ENTITY event.reminder.5minutes.before.label             "5 minuta prije" >
+<!ENTITY event.reminder.15minutes.before.label            "15 minuta prije" >
+<!ENTITY event.reminder.30minutes.before.label            "30 minuta prije" >
+<!ENTITY event.reminder.1hour.before.label                "1 sat prije" >
+<!ENTITY event.reminder.2hours.before.label               "2 sata prije" >
+<!ENTITY event.reminder.12hours.before.label              "12 sati prije" >
+<!ENTITY event.reminder.1day.before.label                 "1 dan prije" >
+<!ENTITY event.reminder.2days.before.label                "2 dana prije" >
+<!ENTITY event.reminder.1week.before.label                "1 sedmica prije" >
+<!ENTITY event.reminder.custom.label                      "Prilagodi…" >
 
+<!ENTITY event.reminder.multiple.label                    "Višestruki podsjetnici…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Vrijeme kao:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privatnost:">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Uredi ponavljanje">
 
+<!ENTITY event.repeat.does.not.repeat.label             "Ne ponavljaj">
+<!ENTITY event.repeat.daily.label                       "Dnevno">
+<!ENTITY event.repeat.weekly.label                      "Sedmično">
+<!ENTITY event.repeat.every.weekday.label               "Svaki radni dan">
+<!ENTITY event.repeat.bi.weekly.label                   "Svaku drugu sedmicu">
+<!ENTITY event.repeat.monthly.label                     "Mjesečno">
+<!ENTITY event.repeat.yearly.label                      "Godišnje">
+<!ENTITY event.repeat.custom.label                      "Prilagodi…">
 
+<!ENTITY event.recurrence.pattern.label                 "Uzorak ponavljanja">
+<!ENTITY event.recurrence.occurs.label                  "Ponavljaj" >
+<!ENTITY event.recurrence.day.label                     "dnevno" >
+<!ENTITY event.recurrence.week.label                    "sedmično" >
+<!ENTITY event.recurrence.month.label                   "mjesečno" >
+<!ENTITY event.recurrence.year.label                    "godišnje" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Svaki" >
+<!ENTITY repeat.units.days.both                         "Dan(a)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Svaki radni dan" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Svaki" >
+<!ENTITY repeat.units.weeks.both                        "Sedmice" >
+<!ENTITY event.recurrence.on.label                      "Na:" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Svaki" >
+<!ENTITY repeat.units.months.both                       "Mjesec" >
+<!ENTITY event.recurrence.monthly.every.label           "Svaki" >
+<!ENTITY event.recurrence.monthly.first.label           "Prvi">
+<!ENTITY event.recurrence.monthly.second.label          "Drugi">
+<!ENTITY event.recurrence.monthly.third.label           "Treći">
+<!ENTITY event.recurrence.monthly.fourth.label          "Četvrti">
+<!ENTITY event.recurrence.monthly.fifth.label           "Peti">
+<!ENTITY event.recurrence.monthly.last.label            "Zadnji">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Nedjelja" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Ponedjeljak" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Utorak" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Srijeda" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Četvrtak" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Petak" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Subota" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Dani mjeseca">
+<!ENTITY event.recurrence.repeat.recur.label            "Ponavljaj na dan(e)">
 
+<!ENTITY event.recurrence.every.label                        "Svaku:" >
+<!ENTITY repeat.units.years.both                             "Godinu" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Svakog" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -264,9 +321,65 @@
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januar" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Februar" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Mart" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "April" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Maj" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Juni" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Juli" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "August" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Septembar" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Oktobar" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Novembar" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Decembar" >
+<!ENTITY event.recurrence.yearly.every.label                 "Svaki">
+<!ENTITY event.recurrence.yearly.first.label                 "Prvi">
+<!ENTITY event.recurrence.yearly.second.label                "Drugi">
+<!ENTITY event.recurrence.yearly.third.label                 "Treći">
+<!ENTITY event.recurrence.yearly.fourth.label                "Četvrti">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Peti">
+<!ENTITY event.recurrence.yearly.last.label                  "Zadnji">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Nedjelja" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Ponedjeljak" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Utorak" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Srijeda" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Četvrtak" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Petak" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Subota" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "dan" >
+<!ENTITY event.recurrence.of.label                           "u" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Januaru" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Februaru" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Martu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Aprilu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Maju" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Junu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Julu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Augustu" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Septembru" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Oktobru" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Novembru" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Decembru" >
 
+<!ENTITY event.recurrence.range.label                   "Raspon ponavljanja">
+<!ENTITY event.recurrence.forever.label                 "Bez datuma završetka" >
+<!ENTITY event.recurrence.repeat.for.label              "Napravi" >
+<!ENTITY event.recurrence.appointments.label            "Sastanci" >
+<!ENTITY event.repeat.until.label                       "Ponavljaj do" >
+<!ENTITY event.recurrence.preview.label                 "Pregled">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Pozovi sudionike">
+<!ENTITY event.organizer.label                  "Organizator">
+<!ENTITY event.freebusy.suggest.slot            "Predloži termin:">
+<!ENTITY event.freebusy.button.next.slot        "Sljedeći termin">
+<!ENTITY event.freebusy.button.previous.slot    "Prethodni termin">
+<!ENTITY event.freebusy.zoom                    "Uvećaj:">
+<!ENTITY event.freebusy.legend.free             "Slobodno" >
+<!ENTITY event.freebusy.legend.busy             "Zauzeto" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Privremeno" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Izvan ureda" >
 
 <!-- Timezone dialog -->
 
