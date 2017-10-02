@@ -120,11 +120,66 @@
 <!ENTITY  event.menu.view.toolbars.customize.label        "Prilagodi…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "C">
 <!ENTITY  event.menu.view.showlink.label                  "Prikaži srodnu vezu">
+<!ENTITY  event.menu.view.showlink.accesskey              "R">
 
+<!ENTITY  event.menu.options.label                            "Opcije">
+<!ENTITY  event.menu.options.accesskey                        "O">
+<!ENTITY  event.menu.options.attendees.label                  "Pozovi sudionike…">
+<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.timezone2.label                  "Prikaži vremenske zone">
+<!ENTITY  event.menu.options.timezone2.accesskey              "z">
+<!ENTITY  event.menu.options.priority2.label                  "Proritet">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Nije definisano">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "o">
+<!ENTITY  event.menu.options.priority.low.label               "Nizak">
+<!ENTITY  event.menu.options.priority.low.accesskey           "L">
+<!ENTITY  event.menu.options.priority.normal.label            "Normalan">
+<!ENTITY  event.menu.options.priority.normal.accesskey        "N">
+<!ENTITY  event.menu.options.priority.high.label              "Visok">
+<!ENTITY  event.menu.options.priority.high.accesskey          "H">
+<!ENTITY  event.menu.options.privacy.label                    "Privatnost">
+<!ENTITY  event.menu.options.privacy.accesskey                "P">
+<!ENTITY  event.menu.options.privacy.public.label             "Javni događaj">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "u">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Prikaži samo vrijeme i datum">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "S">
+<!ENTITY  event.menu.options.privacy.private.label            "Privatni događaj">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "r">
+<!ENTITY  event.menu.options.show.time.label                  "Prikaži vrijeme kao">
+<!ENTITY  event.menu.options.show.time.accesskey              "T">
+<!ENTITY  event.menu.options.show.time.busy.label             "Zauzet">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "B">
+<!ENTITY  event.menu.options.show.time.free.label             "Slobodan">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
+<!ENTITY event.invite.attendees.label                     "Pozovi sudionike…">
+<!ENTITY event.invite.attendees.accesskey                 "I">
+<!ENTITY event.email.attendees.label                      "Napiši poruku e-pošte svim sudionicima…">
+<!ENTITY event.email.attendees.accesskey                  "A">
+<!ENTITY event.email.tentative.attendees.label            "Napiši poruku e-pošte neodlučnim sudionicima…">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.remove.attendees.label2                    "Ukloni sve sudionike">
+<!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Ukloni sudionika">
+<!ENTITY event.remove.attendee.accesskey                  "e">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Sačuvaj">
+<!ENTITY  event.toolbar.saveandclose.label                "Sačuvaj i zatvori">
+<!ENTITY  event.toolbar.delete.label                      "Izbriši">
+<!ENTITY  event.toolbar.attendees.label                   "Pozovi sudionike">
+<!ENTITY  event.toolbar.privacy.label                     "Privatnost">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Sačuvaj">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Sačuvaj i zatvori">
+<!ENTITY  event.toolbar.delete.tooltip                    "Izbriši">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Pozovi sudionike">
+<!ENTITY  event.toolbar.attachments.tooltip               "Dodaj priloge">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Promijeni privatnost">
+<!ENTITY  event.toolbar.priority.tooltip                  "Promijeni prioritet">
+<!ENTITY  event.toolbar.status.tooltip                    "Promijeni status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Promijeni slobodno/zauzeto vrijeme">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -133,8 +188,39 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Primjeni prijedlog">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Polja događaja će biti popunjena koristeći vrijednosti iz protuprijedloga, sudionici će biti obaviješteni tek kada sačuvate događaj">
+<!ENTITY counter.button.original.label                    "Primijeni originalne podatke">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Polja će biti postavljena na vrijednosti iz originalnog događaja, prije nego li je dat protuprijedlog">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Naslov:" >
+<!ENTITY event.title.textbox.accesskey                    "I">
+<!ENTITY event.location.label                             "Lokacija:" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Kategorija:">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "Dodaj novu kategoriju" >
+<!ENTITY event.calendar.label                             "Kalendar:" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "Sudionici:" >
+<!ENTITY event.attendees.accesskey                        "n">
+<!ENTITY event.alldayevent.label                          "Cjelodnevni događaj" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "Počinje:" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Počinje:" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Završava:" >
+<!ENTITY event.to.accesskey                               "u">
+<!ENTITY task.to.label                                    "Dospjeva:" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "Status:" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Ponavljanje:" >
+<!ENTITY event.repeat.accesskey                           "R">
 
 
 
