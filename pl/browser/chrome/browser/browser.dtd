@@ -770,7 +770,7 @@
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
 
-<!ENTITY updateRestart.message "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna.">
+<!ENTITY updateRestart.message2 "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna (oprócz okien prywatnych).">
 <!ENTITY updateRestart.header.message2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
 <!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
 <!ENTITY updateRestart.acceptButton.accesskey "U">
