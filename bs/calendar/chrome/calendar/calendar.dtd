@@ -30,10 +30,57 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Gotovo">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Poredaj po izvršenju">
+<!ENTITY calendar.unifinder.tree.priority.label            "Prioritet">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Poredaj po prioritetu">
+<!ENTITY calendar.unifinder.tree.title.label               "Naslov">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Poredaj po naslovu">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; završeno">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Poredaj po &#037; dovršenosti">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Početak">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Poredaj po datumu početka">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Kraj">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Poredaj po datumu kraja">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Dospjeva">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Poredaj po datumu dospjeća">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Završeno">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Poredaj po datumu završetka">
+<!ENTITY calendar.unifinder.tree.categories.label          "Kategorija">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Poredaj po kategoriji">
+<!ENTITY calendar.unifinder.tree.location.label            "Lokacija">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Poredaj po lokaciji">
+<!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Poredaj po statusu">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Naziv kalendara">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Poredaj po nazivu kalendara">
+<!ENTITY calendar.unifinder.tree.duration.label            "Dospjeva u">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Poredaj po vremenu do dospjeća">
+<!ENTITY calendar.unifinder.close.tooltip                  "Zatvori pretraživanje i listu događaja">
 
+<!ENTITY calendar.today.button.tooltip          "Idi na danas" >
+<!ENTITY calendar.todaypane.button.tooltip      "Prikaži okno današnjih događaja" >
 
+<!ENTITY calendar.day.button.tooltip            "Prebaci na prikaz dana" >
+<!ENTITY calendar.week.button.tooltip           "Prebaci na prikaz sedmice" >
+<!ENTITY calendar.month.button.tooltip          "Prebaci na prikaz mjeseca" >
+<!ENTITY calendar.multiweek.button.tooltip      "Prebaci na višesedmični prikaz" >
 
+<!ENTITY calendar.nextday.label                 "Sljedeći dan" >
+<!ENTITY calendar.prevday.label                 "Prethodni dan" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "Sljedeća sedmica" >
+<!ENTITY calendar.prevweek.label                "Prethodna sedmica" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Sljedeći mjesec" >
+<!ENTITY calendar.prevmonth.label               "Prethodni mjesec" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Jedan dan naprijed" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Jedan dan nazad" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Jedana sedmica naprijed" >
 
 
 
