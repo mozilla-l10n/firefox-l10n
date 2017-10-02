@@ -45,6 +45,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "Преводи на">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 
 <!ENTITY  playDRMContent.learnMore.label "Дознајте повеќе">

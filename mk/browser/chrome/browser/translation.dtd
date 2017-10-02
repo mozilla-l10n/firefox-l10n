@@ -41,12 +41,14 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "Никогаш не го преведувај овој веб-сајт">
+<!ENTITY translation.options.preferences.label  "Поставки за преведување">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Преводи на">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
