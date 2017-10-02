@@ -34,13 +34,13 @@
 <!ENTITY  permissions.label             "Permesoj">
 
 <!ENTITY  addressBar.label              "Adresa strio">
-<!ENTITY  addressBar.suggest.label      "Dum uzo de la retadresa strio, sugesti">
-<!ENTITY  locbar.history2.label         "Retuma historio">
+<!ENTITY  addressBar.suggest.label      "Dum uzo de la retadresa strio, sugesti el">
+<!ENTITY  locbar.history2.label         "retuma historio">
 <!ENTITY  locbar.history2.accesskey     "h">
-<!ENTITY  locbar.bookmarks.label        "Legosignoj">
-<!ENTITY  locbar.bookmarks.accesskey    "L">
-<!ENTITY  locbar.openpage.label         "Malfermitaj langetoj">
-<!ENTITY  locbar.openpage.accesskey     "M">
+<!ENTITY  locbar.bookmarks.label        "legosignoj">
+<!ENTITY  locbar.bookmarks.accesskey    "l">
+<!ENTITY  locbar.openpage.label         "malfermitaj langetoj">
+<!ENTITY  locbar.openpage.accesskey     "m">
 <!ENTITY  locbar.searches.label         "Rilatitaj serĉoj el la norma serĉilo">
 <!ENTITY  locbar.searches.accesskey     "R">
 
