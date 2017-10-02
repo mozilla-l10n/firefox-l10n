@@ -214,6 +214,7 @@
 <!ENTITY keywordfield.accesskey "U">
 
 <!ENTITY downloads.label "Pobieranie plików" >
+<!ENTITY libraryDownloads.label "Pobrane">
 <!ENTITY downloads.accesskey "P" >
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">

@@ -15,6 +15,7 @@
 <!ENTITY cmd.show.accesskey "f">
 <!ENTITY cmd.showMac.label "Pokaż w Finderze">
 <!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.showDownloads.label "Pokaż folder z pobranymi">
 <!ENTITY cmd.retry.label                  "Spróbuj ponownie">
 <!ENTITY cmd.goToDownloadPage.label       "Przejdź do strony pobierania">
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
