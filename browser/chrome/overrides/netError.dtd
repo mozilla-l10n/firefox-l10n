@@ -9,8 +9,8 @@
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!ENTITY returnToPreviousPage.label "मागे जा">
 <!ENTITY advanced.label "प्रगत">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,7 @@
 <!ENTITY deniedPortAccess.title "हा पत्ता प्रतिबंधित आहे">
 <!ENTITY deniedPortAccess.longDesc "‌">
 
-<!ENTITY dnsNotFound.title "सर्व्हर आढळला नाही">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>टाइपिंग त्रुटी जसे की <strong>www</strong>.example.com च्या व्यतिरिक्त <strong>ww</strong>.example.com</li> ला आळा घालण्यासाठी पत्ता तपासा <li>कुठलेही पृष्ठ दाखल करू न शकल्यास, आपल्या संगणकाचे नेटवर्क जोडणी तपासून पहा.</li> <li>संगणक किंवा नेटवर्क फायरवॉल किंवा प्रॉक्सी संरक्षित असल्यास, &brandShortName; ला वेब प्रवेश प्राप्त होईल याची खात्री करा.</li> </ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "फाइल सापडली नाही">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ठकळपणा किंवा इतर टायपिंग त्रूटी करता फाइलचे नाव तपासा.</li> <li>फाइल स्थानांतरित,पुनःनामांकित किंवा काढून टाकली आहे याची तपासनी करा.</li> </ul>">
@@ -35,8 +34,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "नेटवर्क लॉग इन पृष्ठ उघडा">
 
-<!ENTITY malformedURI.title "हा पत्ता वैध नाही">
-<!ENTITY malformedURI.longDesc "<ul><li>वेब पत्ता शक्यतो खालील प्रमाणे लिहीला जातो <strong>http://www.example.com/</strong></li> <li>फॉरवर्ड स्लॅश वापरत आहात याची खात्री करा (जसे <strong>/</strong>).</li> </ul>">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "जोडणी मध्ये अडथळा">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,12 +102,11 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "सखोल माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTime_systemDate'/> या वेळेवर आहे, जो की <span id='wrongSystemTime_actualDate'/> या वेळेवर असायला हवा होता. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName;  <span id='wrongSystemTimeWithoutReference_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTimeWithoutReference_URL'/> या वेळेवर आहे. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
 
 <!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">
