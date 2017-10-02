@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "Sa rugûñun’ūnj da’ girī’ ‘ngō perfil">
-<!ENTITY window.size                  "gachrà': 45em; yakàn: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; nachra sà’ nuguan’ huā dàj nagi’iát riña perfil arâj sunt.">
