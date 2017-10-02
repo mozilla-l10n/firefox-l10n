@@ -24,6 +24,7 @@
 <!ENTITY saveButton.tooltip         "Save this style sheet to a file">
 <!ENTITY saveButton.accesskey       "S">
 
+<!ENTITY optionsButton.tooltip      "Опции за уредувач на стилови">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
