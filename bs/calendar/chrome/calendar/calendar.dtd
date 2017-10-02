@@ -19,10 +19,17 @@
 <!ENTITY calendar.events.filter.all.label "Svi događaji">
 <!ENTITY calendar.events.filter.today.label "Današnji događaji">
 <!ENTITY calendar.events.filter.future.label "Svi budući događaji">
+<!ENTITY calendar.events.filter.current.label "Trenutno odabrani dan">
+<!ENTITY calendar.events.filter.currentview.label "Događaji u trenutnom prikazu">
+<!ENTITY calendar.events.filter.next7Days.label "Događaji u sljedećih 7 dana">
+<!ENTITY calendar.events.filter.next14Days.label "Događaji u sljedećih 14 dana">
+<!ENTITY calendar.events.filter.next31Days.label "Događaji u sljedećih 31 dan">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Događaji u ovom kalendarskom mjesecu">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label                "Gotovo">
 
 
 
