@@ -15,12 +15,12 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Vildledende websted!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Webstedet <span id='phishing_sitename'/> er blevet anmeldt som et vildledende websted og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Webstedet <span id='phishing_sitename'/> er blevet anmeldt som et vildledende websted og er blevet blokeret som følge af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Vildledende websteder prøver at få dig til at foretage farlige handlinger, som fx installation af skadelig software eller afsløring af personlig information såsom adgangskoder, telefonnummer eller oplysninger om betalingskort.</p><p>Indtastning af personlige informationer på denne side kan resultere i identitetstyveri eller anden svindel.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Websted anmeldt for uønsket software!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønsket software og er blevet blokeret på grund af dine sikkerhedsindstillinger.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Webstedet <span id='unwanted_sitename'/> er blevet anmeldt for at indeholde uønsket software og er blevet blokeret som følge af dine sikkerhedsindstillinger.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Websteder med uønsket software prøver at lokke dig til at installere software, der kan påvirke dit system på uventede måder.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Webstedet kan indeholde skadelig software">
