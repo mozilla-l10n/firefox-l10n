@@ -221,6 +221,28 @@
 <!ENTITY task.status.accesskey                            "a">
 <!ENTITY event.repeat.label                               "Ponavljanje:" >
 <!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Do:">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "Podsjetnik:" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Opis:" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "Prilozi:" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "Priloži">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Web stranicu…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.popup.remove.label             "Ukloni" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "Otvori" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "Ukloni sve" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "Priloži web stranicu…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.url.label                                  "Srodna veza:" >
+<!ENTITY event.priority2.label                            "Prioritet:">
 
 
 
