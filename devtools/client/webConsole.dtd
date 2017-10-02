@@ -6,20 +6,15 @@
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
-
-
 <!ENTITY window.title "વેબ કન્સોલ">
-<!ENTITY browserConsole.title "બ્રાઉઝર કન્સોલ">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-
 <!ENTITY openURL.label     "નવી ટૅબમાં URL ને ખોલો">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-
 <!ENTITY btnPageNet.label   "નેટ">
 <!ENTITY btnPageNet.tooltip "નેટવર્ક પ્રવેશનો લૉગ લો">
 <!ENTITY btnPageNet.accesskey "N">
@@ -38,11 +33,11 @@
 <!ENTITY btnPageSecurity.label "સુરક્ષા">
 <!ENTITY btnPageSecurity.tooltip "લૉગ સુરક્ષા ભૂલો અને ચેતવણીઓ">
 <!ENTITY btnPageSecurity.accesskey "u">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "લૉગીંગ">
 <!ENTITY btnPageLogging.tooltip "window.console ઑબ્જેક્ટમાં મોકલેલ લૉગ સંદેશાઓ">
 <!ENTITY btnPageLogging.accesskey3 "L">
@@ -50,16 +45,18 @@
 <!ENTITY btnConsoleInfo         "જાણકારી">
 <!ENTITY btnConsoleWarnings     "ચેતવણી">
 <!ENTITY btnConsoleLog          "લૉગ">
-
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "રિફ્લો">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "સર્વર">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "ભૂલો">
+<!ENTITY btnServerInfo                "માહિતી">
+<!ENTITY btnServerWarnings            "ચેતવણી">
+<!ENTITY btnServerLog                 "લોગ">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
@@ -74,8 +71,7 @@
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -90,7 +86,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
-
-
+<!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.accesskey "S">
