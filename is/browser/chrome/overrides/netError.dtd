@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Reyna aftur">
 <!ENTITY returnToPreviousPage.label "Til baka">
 <!ENTITY advanced.label "Ítarlegt">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Get ekki tengst">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "Aðgangur að gátt er ekki leyfður">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Netþjónn fannst ekki">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Athugaðu hvort netfang inniheldur innsláttarvillur til dæmis <strong>ww</strong>.mozilla.org í staðinn fyrir <strong>www</strong>.mozilla.org</li> <li>Ef þú getur ekki tengst öðrum síðum, athugaðu þá nettengingu tölvunnar.</li> <li>Ef tölvan þín er varin af eldvegg eða milliþjóni, vertu viss um að &brandShortName; hafi aðgang til að tengjast vefnum.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Netþjónn fannst ekki">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Skrá fannst ekki">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Athugaðu hvort þú hefur slegið inn skráarnafnið með hástafaritun eða aðra innsláttarvillu.</li> <li>Athugaðu hvort skráin hefur verið færð, endurnefnt eða eytt.</li> </ul>">
@@ -35,8 +35,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Opna net innskráningar síðu">
 
-<!ENTITY malformedURI.title "Veffang ekki löglegt">
-<!ENTITY malformedURI.longDesc "<ul> <li>Veffang er venjulega skrifað sem <strong>http://www.example.com/</strong></li> <li>Vertu viss um að þú sért að slá inn skástrik (þ.e. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Ógild slóð (URL)">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Hmm. Þessi slóð virðist ekki vera rétt.">
 
 <!ENTITY netInterrupt.title "Tenging slitnaði">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -104,10 +105,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; tókst ekki að koma á öruggri tengingu við <span id='wrongSystemTime_URL'/> þar sem klukkan þín virðist vera röng.</p> <p>Tölvan þín heldur að tíminn sé <span id='wrongSystemTime_systemDate'/>, þegar hann ætti að vera <span id='wrongSystemTime_actualDate'/>. Til að laga þetta vandamál, breyttu þá dagsetningu og tíma til að passa við réttan tíma.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; tókst ekki að koma á öruggri tengingu við <span id='wrongSystemTimeWithoutReference_URL'/> þar sem klukkan þín virðist vera röng.</p> <p>Tölvan þín er með tíma <span id='wrongSystemTimeWithoutReference_systemDate'/>. Til að laga þetta vandamál, breyttu þá dagsetningu og tíma til að passa við réttan tíma.</p>">
 
