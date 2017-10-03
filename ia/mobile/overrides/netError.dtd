@@ -38,6 +38,7 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Documento expirate">
 
@@ -49,8 +50,10 @@
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
 
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Le connexion ha expirate">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 
 
@@ -59,12 +62,14 @@
 
 
 
+<!ENTITY nssFailure2.title "Connexion secur fallite">
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 

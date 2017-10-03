@@ -558,6 +558,7 @@
 <!ENTITY home_history_back_to2 "Retornar al chronologia complete">
 <!ENTITY home_clear_history_button "Clarar le chronologia de navigation">
 <!ENTITY home_bookmarks_empty "Le marcapaginas que tu salva es monstrate hic.">
+<!ENTITY home_closed_tabs_title2 "Recentemente claudite">
 <!ENTITY home_restore_all "Restaurar toto">
 <!ENTITY home_closed_tabs_number "&formatD; schedas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
