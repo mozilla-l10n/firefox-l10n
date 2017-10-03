@@ -7,7 +7,7 @@
 <!ENTITY  fonts.label                             "Typos de character pro">
 <!ENTITY  fonts.accesskey                         "F">
 
-<!ENTITY  size2.label                             "Grandor">
+<!ENTITY  size2.label                             "Dimension">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
 <!-- Minimum font size -->
-<!ENTITY minSize2.label                           "Grandor minime del typo">
+<!ENTITY minSize2.label                           "Dimension minime del typo">
 <!ENTITY minSize2.accesskey                       "o">
 <!ENTITY minSize.none                             "Nulle">
 

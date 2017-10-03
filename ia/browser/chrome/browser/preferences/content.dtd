@@ -35,7 +35,7 @@
 
 <!ENTITY  defaultFont2.label          "Typo de character predefinite">
 <!ENTITY  defaultFont2.accesskey      "D">
-<!ENTITY  defaultSize2.label          "Grandor">
+<!ENTITY  defaultSize2.label          "Dimension">
 <!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Avantiate…">

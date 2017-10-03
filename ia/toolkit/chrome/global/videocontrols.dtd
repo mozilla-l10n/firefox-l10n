@@ -12,7 +12,7 @@
 <!ENTITY closedCaption.off "Inactive">
 
 <!ENTITY stats.media "Medios">
-<!ENTITY stats.size "Grandor">
+<!ENTITY stats.size "Dimension">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "Pausate">
 <!ENTITY stats.activityPlaying "In reproduction">
@@ -26,7 +26,7 @@
 
 <!ENTITY error.aborted "Carga de video cessate.">
 <!ENTITY error.network "Reproduction del video abortate per un error de rete.">
-<!ENTITY error.decode "Le video non pote ser reproducite perque le file es corrupte.">
+<!ENTITY error.decode "Le video non pote ser reproducite perque le file es corrumpite.">
 <!ENTITY error.srcNotSupported "Formato video o typo MIME non supportate.">
 <!ENTITY error.noSource2 "Nulle formato video supportate e typo MIME trovate.">
 <!ENTITY error.generic "Le lectura del video ha essite interrumpite a causa de un error incognite.">

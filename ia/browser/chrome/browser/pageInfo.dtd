@@ -19,7 +19,7 @@
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Typo:">
 <!ENTITY  generalMode           "Modo de presentar:">
-<!ENTITY  generalSize           "Grandor:">
+<!ENTITY  generalSize           "Dimension:">
 <!ENTITY  generalReferrer       "URL referente:">
 <!ENTITY  generalSource         "Fonte del cache:">
 <!ENTITY  generalModified       "Modificate:">
@@ -34,7 +34,7 @@
 <!ENTITY  mediaAltHeader        "Texto alternative">
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Typo">
-<!ENTITY  mediaSize             "Grandor">
+<!ENTITY  mediaSize             "Dimension">
 <!ENTITY  mediaCount            "Quantitate">
 <!ENTITY  mediaDimension        "Dimensiones:">
 <!ENTITY  mediaLongdesc         "Description longe:">

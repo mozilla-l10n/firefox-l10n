@@ -6,7 +6,7 @@
 
 <!ENTITY printJobOptions.title "Proprietates del impressor">
 
-<!ENTITY paperInput.label "Grandor del papiro:">
+<!ENTITY paperInput.label "Dimension del papiro:">
 <!ENTITY paperInput.accesskey "P">
 
 <!ENTITY jobTitleInput.label "Titulo del labor:">

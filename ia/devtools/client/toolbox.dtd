@@ -191,7 +191,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserer automaticamente le clausura de parenthese">
 <!ENTITY options.sourceeditor.expandtab.label           "Identar usante spatios">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Usar le spatios in vice del characteres de tabulation">
-<!ENTITY options.sourceeditor.tabsize.label             "Grandor del tabulation">
+<!ENTITY options.sourceeditor.tabsize.label             "Dimension del tabulation">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Assignationes de claves">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">

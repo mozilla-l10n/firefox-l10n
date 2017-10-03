@@ -71,7 +71,7 @@
 <!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "Grandor normal">
+<!ENTITY normalSize.label             "Dimension normal">
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 

@@ -9,7 +9,7 @@
 <!ENTITY filterMenuList.label   "Files del typo:">
 <!ENTITY filterMenuList.accesskey   "t">
 <!ENTITY name.label             "Nomine">
-<!ENTITY size.label             "Grandor">
+<!ENTITY size.label             "Dimension">
 <!ENTITY lastModified.label     "Ultime modification">
 <!ENTITY showHiddenFiles.label  "Monstrar le files e directorios celate">
 <!ENTITY showHiddenFiles.accesskey  "S">

@@ -55,7 +55,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "Evidentiar le syntaxe">
 <!ENTITY menu_highlightSyntax.accesskey "H">
-<!ENTITY menu_textSize.label "Grandor del texto">
+<!ENTITY menu_textSize.label "Dimension del texto">
 <!ENTITY menu_textSize.accesskey "Z">
 <!ENTITY menu_textEnlarge.label "Augmentar">
 <!ENTITY menu_textEnlarge.accesskey "I">
