@@ -107,6 +107,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktif">
 <!ENTITY aboutSupport.a11yForceDisabled "Aksesibilitas Dicegah">
 <!ENTITY aboutSupport.a11yHandlerUsed "Penanganan Terakses Digunakan">
+<!ENTITY aboutSupport.a11yInstantiator "Accessibility Instantiator">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versi Pustaka">
 
