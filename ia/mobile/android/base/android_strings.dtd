@@ -341,8 +341,9 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Usar le mesura de typos de characteres del systema">
+<!ENTITY pref_use_system_font_size_summary "Scalar le contento del web secundo le dimensiones de typos de characteres del systema">
 
-<!ENTITY pref_media_autoplay_enabled "Permitter autoreproducer">
+<!ENTITY pref_media_autoplay_enabled "Permitter le auto-reprodution">
 <!ENTITY pref_zoom_force_enabled "Sempre activar le zoom">
 <!ENTITY pref_voice_input "Entrata de voce">
 <!ENTITY pref_voice_input_summary2 "Permitter dictato pro voce in le barra de URL">
@@ -418,6 +419,7 @@
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Actualisationes automatic">
+<!ENTITY pref_update_autodownload_wifi "Solmente per Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunquam">
 <!ENTITY pref_update_autodownload_always "Sempre">
 
@@ -433,6 +435,7 @@
 
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir via">
+<!ENTITY share_image_failed "Incapace a compartir iste imagine">
 <!ENTITY print "Imprimer">
 <!ENTITY find_in_page "Trovar in le pagina">
 <!ENTITY page "Pagina">
@@ -440,11 +443,13 @@
 <!ENTITY new_tab "Nove scheda">
 <!ENTITY new_private_tab "Nove scheda private">
 <!ENTITY close_all_tabs "Clauder tote le schedas">
+<!ENTITY close_private_tabs "Clauder le schedas private">
 <!ENTITY tabs_normal "Schedas">
 <!ENTITY tabs_private "Private">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Trovar in le pagina">
 <!ENTITY find_prev "Previe">
 <!ENTITY find_next "Sequente">
 <!ENTITY find_close "Clauder">
@@ -557,6 +562,7 @@
 <!ENTITY home_synced_devices_one "1 apparato">
 <!ENTITY home_history_back_to2 "Retornar al chronologia complete">
 <!ENTITY home_clear_history_button "Clarar le chronologia de navigation">
+<!ENTITY home_clear_history_confirm "Desira tu vermente clarar tu chronologia?">
 <!ENTITY home_bookmarks_empty "Le marcapaginas que tu salva es monstrate hic.">
 <!ENTITY home_closed_tabs_title2 "Recentemente claudite">
 <!ENTITY home_restore_all "Restaurar toto">
@@ -578,6 +584,7 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; apparatos occultate">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Apparatos occultate">
@@ -594,6 +601,7 @@
 
 <!ENTITY filepicker_title "Optar un dossier">
 <!ENTITY filepicker_audio_title "Optar o registrar un sono">
+<!ENTITY filepicker_video_title "Eligerr o registrar un video">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Tu es se connectite a">
