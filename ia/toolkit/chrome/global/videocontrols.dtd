@@ -12,7 +12,7 @@
 <!ENTITY closedCaption.off "Inactive">
 
 <!ENTITY stats.media "Medios">
-<!ENTITY stats.size "Dimension">
+<!ENTITY stats.size "Grandor">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "Pausate">
 <!ENTITY stats.activityPlaying "In reproduction">

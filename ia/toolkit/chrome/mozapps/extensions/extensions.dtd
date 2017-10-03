@@ -148,7 +148,7 @@
 <!ENTITY detail.updateManual.tooltip          "Non installar automaticamente le actualisationes">
 <!ENTITY detail.home                          "Pagina initial">
 <!ENTITY detail.repository                    "Profilo del additivo">
-<!ENTITY detail.size                          "Dimension">
+<!ENTITY detail.size                          "Grandor">
 
 <!ENTITY detail.checkForUpdates.label         "Recercar actualisationes">
 <!ENTITY detail.checkForUpdates.accesskey     "F">
