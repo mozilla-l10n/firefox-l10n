@@ -144,6 +144,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceName "Nama">
 <!ENTITY aboutSupport.mediaDeviceGroup "Grup">
 <!ENTITY aboutSupport.mediaDeviceVendor "Vendor">
+<!ENTITY aboutSupport.mediaDeviceState "Provinsi">
 <!ENTITY aboutSupport.mediaDevicePreferred "Disukai">
 <!ENTITY aboutSupport.mediaDeviceFormat "Format">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanal">
