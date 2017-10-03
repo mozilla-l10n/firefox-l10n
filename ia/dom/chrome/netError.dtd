@@ -32,8 +32,10 @@
 <!ENTITY generic.longDesc "<p>Nulle information additional actualmente disponibile.</p>">
 
 <!ENTITY malformedURI.title "Adresse non valide">
+<!ENTITY malformedURI.longDesc "<p>Le adresse providite non es in un formato recognoscite. Per favor verifica le barra de adresse pro errores e retenta.</p>">
 
 <!ENTITY netInterrupt.title "Transferimento de datos interrumpite">
+<!ENTITY netInterrupt.longDesc "<p>Le navigator se ha connectite con successo, ma le connexion ha essite interrumpite durante le transferentia de datos.  Per favor retenta.</p><ul><li>Es tu incapace de navigar a altere sitos? Controla le connexion de rete del computator.</li><li>Ancora con problemas? Consulta assistentia del administrator de tu rete o le provisor de accesso a Internet.</li></ul>">
 
 <!ENTITY notCached.title "Documento expirate">
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache del navigator.</p><ul><li>Como precaution de securitate, le navigator non re-requesta automaticamente documentos sensibile.</li><li>Clicca sur Retentar pro re-requestar le documento del sito web.</li></ul>">
