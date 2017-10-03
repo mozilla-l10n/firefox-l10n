@@ -310,4 +310,5 @@
 <!ENTITY customizeFromAddress.accesskey "g">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Tutlayt n useɣti n teɣdira">
 <!ENTITY encodingStatusPanel.tooltip "Asettengel n uḍris">
