@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
 <!ENTITY firstrun_panel_title_customize "Personalisar">
 <!ENTITY firstrun_customize_message "Facer &brandShortName; tue.">
-<!ENTITY firstrun_customize_subtext "Personalisar &brandShortName; con additivos. Bloca annuncios, adde functiones, o elige un thema nove pro reflecter tu personalitate.">
+<!ENTITY firstrun_customize_subtext "Personalisa &brandShortName; con additivos. Bloca annuncios, adde functionalitates o elige un nove thema pro reflecter tu personalitate.">
 <!ENTITY firstrun_bookmarks_title "Chronologia">
 <!ENTITY firstrun_bookmarks_message "Tu favoritos, a tu vista">
 <!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de tu marcapaginas e de tu chronologia quando tu cerca.">
@@ -138,13 +138,13 @@
 <!ENTITY settings "Parametros">
 <!ENTITY settings_title "Parametros">
 <!ENTITY pref_category_general "General">
-<!ENTITY pref_category_general_summary3 "Region, idoma, cauda de schedas">
+<!ENTITY pref_category_general_summary3 "Initio, lingua, fila de schedas">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Lingua">
-<!ENTITY pref_category_language_summary "Cambiar le idioma de tu navigator">
+<!ENTITY pref_category_language_summary "Cambiar le lingua de tu navigator">
 <!ENTITY pref_browser_locale "Idioma del Navigator">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -395,6 +395,7 @@
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Reporto de sanitate de &brandShortName;">
+<!ENTITY datareporting_abouthr_title "Vider mi reporto de sanitate">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -447,12 +448,18 @@
 <!ENTITY contextmenu_paste "Collar">
 <!ENTITY contextmenu_copyurl "Copiar le adresse">
 <!ENTITY contextmenu_edit_bookmark "Editar">
+<!ENTITY contextmenu_top_sites_pin "Clavar le sito">
+<!ENTITY contextmenu_top_sites_unpin "Disclavar le sito">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Clavar al sitos popular">
+<!ENTITY contextmenu_unpin_from_top_sites "Disclavar del sitos popular">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Pagina clavate al sitos popular">
+<!ENTITY unpinned_page_from_top_sites "Pagina disclavate del sitos popular">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -547,6 +554,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Sito clavate">
+<!ENTITY home_unpinned_site "Sito disclavate">
 
 
 <!ENTITY pin_site_dialog_hint "Inserer un parola recercar">
@@ -598,6 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Cercar con &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -672,6 +682,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "Additivos">
+<!ENTITY restrictable_feature_addons_installation_description "Adder characteristicas o functionalitates a Firefox. Nota: le additivos pote inactivar certe restrictiones.">
 <!ENTITY restrictable_feature_clear_history "Clarar le chronologia">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto include importar le marcapaginas, restaurar le schedas e actualisationes automatisate. Inactiva lo si tu vole parametros simplificate e convenibile pro qualcunque membro del familia.">
 

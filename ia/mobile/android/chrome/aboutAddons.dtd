@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "Disfacer">
 <!ENTITY addonAction.update                     "Actualisar">
 
-<!ENTITY addonUnsigned.message                  "Este supplemento non poteva ser verificate pro &brandShortName;.">
+<!ENTITY addonUnsigned.message                  "Iste additivo non ha potite esser verificate per &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Saper plus">
