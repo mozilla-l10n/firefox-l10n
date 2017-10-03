@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Əlavə etmə tarixi">
 <!ENTITY col.lastmodified.label  "Son dəyişiklik">
 
-<!ENTITY search.placeholder  "Axtar">
+<!ENTITY historySearch.placeholder  "Tarixçədə axtar">
+<!ENTITY bookmarksSearch.placeholder  "Əlfəcinlərdə Axtar">
 
 <!ENTITY cmd.find.key  "f">
 

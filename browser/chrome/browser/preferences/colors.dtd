@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Sayt tərəfindən seçilmiş rənglər sizin aşağıdakı seçimlərinizlə dəyişdirilsin:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "Sayt tərəfindən seçilmiş rənglər sizin aşağıdakı seçimlərinizlə dəyişdirilsin">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Həmişə">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Ancaq yüksək kontrastlı mövzular ilə">

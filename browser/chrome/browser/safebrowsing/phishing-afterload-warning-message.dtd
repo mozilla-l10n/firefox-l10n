@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Məni burdan xilas et!">
-<!ENTITY safeb.palm.decline.label "Bu xəbərdarlığı göz ardı et">
+<!ENTITY safeb.palm.accept.label2 "Geri get">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +13,34 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "Bu səhifə niyə bloklandı?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "Məsləhətlər <a id='advisory_provider'/> tərəfindən təmin edilib">
+<!ENTITY safeb.palm.advisory.desc2 "Məsləhətlər <a id='advisory_provider'/> tərəfindən təmin edilib.">
 
-<!ENTITY safeb.blocked.malwarePage.title "Təhlükəli olaraq bildirilmiş sayt!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ünvanındakı saytın hücum sayt olduğu bildirildi və təhlükəsizlik nizamlarınız əsas tutularaq bloklandı.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Hücum saytı olaraq göstərilən saytlar şəxsi məlumatlarınızı oğurlayan, kompüterinizi başqalarına hücum etməkçün istifadə etmək məqsədi ilə istifadə edən ya da sisteminizə zərər verəcək proqramları quraşdırmağa çalışan saytlardır.</p><p>Bəzi hücum saytları zərərli proqramları bilərək yayarkən, əksər saytlar, sahibinin məlumatı və icazəsi olmadan bu məqsədlə istifadə edilir.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "İstənməyən Proqram Səhifəsi Təhlükəsi!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ünvanındakı saytda istənməyən proqram məzmunu olduğundan xəbər verilib və təhlükəsizlik nizamlarınıza əsasən bloklandı.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>İstənməyən proqram səhifələri aldadıcı ola biləcək və sisteminizdə gözlənilməz təsirlərə səbəb ola biləcək proqramlar quraşdırmağa çalışar. </p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "Aldadıcı Sayt!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "<span id='phishing_sitename'/> ünvanındakı səhifənin aldadıcı sayt olduğu bildirilmişdir və təhlükəsizlik seçimləriniz əsas tutularaq bloklandı.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aldadıcı saytlar sizi aldadıb bir şeylər etməyiniz üçün dizayn ediliblər, məsələn, proqram qurma və ya parol, telefon nömrəsi və ya kredit kartı kimi şəxsi məlumatlarınızı alma.</p><p>Bu səhifədə məlumat daxil etmə şəxsiyyət oğurluğu və ya başqa fırıldaq ilə nəticələbə bilər.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "Bu saytda təhlükəli proqramlar ola bilər">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Bu səhifə məlumatlarınızı (məsələn: şəkillər, parollar, mesajlar və kredit kartları) oğurlayacaq və ya siləcək təhlükəli tətbiqlər quraşdıra bilər deyə &brandShortName; səhifəni blokladı.">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+

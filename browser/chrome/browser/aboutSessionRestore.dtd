@@ -6,16 +6,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Üzr istəyirik amma...">
-<!ENTITY restorepage.problemDesc    "&brandShortName; pəncərələrinizi və vərəqlərinizi bərpa edərkən problemlə qarşılaşdı. Adətən bunun səbəbi yeni açılan bir səhifə olur.">
-<!ENTITY restorepage.tryThis        "Bunları yoxlaya bilərsiniz:">
-<!ENTITY restorepage.restoreSome    "Problemə səbəb ola biləcək bir və ya bir neçə vərəqi bağlamaq">
-<!ENTITY restorepage.startNew       "Tam yeni bir seans başlatmaq">
 
-<!ENTITY restorepage.tryagainButton "Bərpa et">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Qapat">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "Seansı bərpa et">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Yeni Seans Başlat">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Bərpa et">
 <!ENTITY restorepage.listHeader     "Pəncərələr və vərəqlər">

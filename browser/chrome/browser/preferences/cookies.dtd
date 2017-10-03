@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Aşağıdakı çərəzlər kompüterinizdə saxlanılıb:">
+<!ENTITY     cookiesonsystem2.label         "Aşağıdakı çərəzlər kompüterinizdə saxlanılıb">
 <!ENTITY     cookiename.label               "Çərəz Adı">
 <!ENTITY     cookiedomain.label             "Sayt">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Çərəzlər">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Axtar">
 <!ENTITY     searchFilter.accesskey         "S">

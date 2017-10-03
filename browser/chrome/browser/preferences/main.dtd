@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "İlkin vəziyyətə qaytar">
 <!ENTITY restoreDefault.accesskey  "S">
 
+<!ENTITY disableExtension.label    "Uzantını söndür">
+
 <!ENTITY downloads.label     "Endirilənlər">
 
 <!ENTITY saveTo.label "Faylların saxlandığı yer">
