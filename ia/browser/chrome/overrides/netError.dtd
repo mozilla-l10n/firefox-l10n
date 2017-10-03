@@ -72,14 +72,14 @@
 <!ENTITY contentEncodingError.title "Error de codification del contento">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Per favor contacta le proprietarios del sito web pro informar los de iste problema.</li>
+  <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Per favor contacta le proprietarios del sito web pro informar los de iste problema.</li>
+  <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
 </ul>
 ">
 

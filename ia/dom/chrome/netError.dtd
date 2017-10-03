@@ -36,19 +36,29 @@
 <!ENTITY netInterrupt.title "Transferimento de datos interrumpite">
 
 <!ENTITY notCached.title "Documento expirate">
+<!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache del navigator.</p><ul><li>Como precaution de securitate, le navigator non re-requesta automaticamente documentos sensibile.</li><li>Clicca sur Retentar pro re-requestar le documento del sito web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo disconnectite">
+<!ENTITY netOffline.longDesc2 "<p>Le navigator opera in su modo disconnectite e non pote connecter se al elemento requestate.</p><ul><li>Es le computator connectite a un rete active?</li><li>Preme &quot;Retenta&quot; pro commutar al modo in linea e recarga le pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Error de codification del contento">
+<!ENTITY contentEncodingError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque illo usa un forma de compression invalide o non admittite.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Typo de file non secur">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Connexion interrumpite">
+<!ENTITY netReset.longDesc "<p>Le ligation al rete esseva interrumpite durante que on negotiava un connexion. Per favor retenta.</p>">
 
 <!ENTITY netTimeout.title "Tempore de rete expirate">
 <!ENTITY netTimeout.longDesc "<p>Le sito requestate non respondeva a un requesta de connexion e le navigator ha cessate de attender un responsa.</p><ul><li>Esque le servitor experi alte demanda o supercarga temporari? Retenta plus tarde.</li><li>Es tu incapace de navigar altere sitos? Verifica le connexion del computator al rete.</li><li>Es tu computator o rete protegite per un firewall o proxy? Parametros incorrecte pote interferer con le navigation web.</li><li>Ha tu ancora problemas? Consulta le assistentia del administrator de tu rete o del fornitor de tu Internet.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocollo incognite">
+<!ENTITY unknownProtocolFound.longDesc "<p>Le adresse specifica un protocollo (pro exemplo, <q>wxyz://</q>) le navigator non lo recognosce, alora le navigator non pote connecter se correctemente al sito.</p><ul><li>Tu tenta acceder a servicios de multimedia o altere servicios que non es de texto? Verifica si le sito ha plus pre-requisitos.</li><li>Alcun protocollos pote requirer softwares de terties o plugins ante que le navigator pote recognoscer les.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Connexion refusate per le servitor proxy">
 
