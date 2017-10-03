@@ -63,8 +63,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Le adresse specifica un protocollo (pro exemplo, <q>wxyz://</q>) le navigator non lo recognosce, alora le navigator non pote connecter se correctemente al sito.</p><ul><li>Tu tenta acceder a servicios de multimedia o altere servicios que non es de texto? Verifica si le sito ha plus pre-requisitos.</li><li>Alcun protocollos pote requirer softwares de terties o plugins ante que le navigator pote recognoscer les.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Connexion refusate per le servitor proxy">
+<!ENTITY proxyConnectFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy refusava le connexion.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Esque le servicio del proxy consenti le connexiones ab iste rete?</li><li>Ancora problemas? Consulta tu administrator de rete o tu providitor de internet pro assistentia.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
+<!ENTITY proxyResolveFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy non pote ser trovate.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Es le computer connectite a un rete active?</li><li>Ancora problemas? Consulta tu administrator de rete o tu providitor de Internet pro assistentia.</li></ul>">
 
 <!ENTITY redirectLoop.title "Cyclo de redirection">
 <!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirige le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptar le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
