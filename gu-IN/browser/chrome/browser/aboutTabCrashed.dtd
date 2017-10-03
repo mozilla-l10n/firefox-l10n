@@ -24,7 +24,9 @@
 <!ENTITY tabCrashed.requestReport "આ ટેબની જાણ કરો">
 <!ENTITY tabCrashed.sendReport3 "સ્વ્યંસંચાલિત ભંગાણ અહેવાલ મોકલો જેથી અમે આવી સમસ્યા ઉકેલી શકીએ.">
 <!ENTITY tabCrashed.commentPlaceholder2 "વૈકલ્પિક ટિપ્પણી (ટિપ્પણીઓ જાહેર રીતે દૃશ્યમાન છે)">
+<!ENTITY tabCrashed.includeURL3 "જ્યારે &brandShortName; ભંગાણ થયું ત્યારે તમે જે સાઇટ્સ પર હતા તેના URLs ને શામેલ કરો.">
 <!ENTITY tabCrashed.emailPlaceholder "તમારું ઇમેઇલ સરનામું અહીં દાખલ કરો">
 <!ENTITY tabCrashed.emailMe "જ્યારે વધુ માહિતી ઉપલબ્ધ હોય ત્યારે મને ઇમેઇલ કરો">
 <!ENTITY tabCrashed.reportSent "ક્રેશ રિપોર્ટ પહેલાંથી સબમિટ કરેલ; &brandShortName; વધુ સારું બનાવવા મદદ કરવા માટે આભાર!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "પૃષ્ઠભૂમિ ટૅબ્સની જાણ કરો">
+<!ENTITY tabCrashed.autoSubmit3 "આપમેળે અહેવાલ સબમિટ કરવા માટે પસંદગીઓને અપડેટ કરો જ્યારે &brandShortName; ભંગાણ થાય.">
