@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Benvenite">
-<!ENTITY firstrun_urlbar_message2 "Gratias pro eligente &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderna de Mozilla, le organization de altruismo comittite a un web libere e aperte.">
-<!ENTITY firstrun_panel_title_privacy "Confidentialitate">
-<!ENTITY firstrun_privacy_message "Navigar como necuno es mirante">
-<!ENTITY firstrun_privacy_subtext "Navigation Private con Protection Contra Traciamento bloca dum vos naviga e non retenera vostre historia quando vos finir navigada.">
+<!ENTITY firstrun_urlbar_message2 "Gratias pro eliger &brandShortName;">
+<!ENTITY firstrun_urlbar_subtext2 "Un navigator mobile moderne de Mozilla, le organisation de si propositos lucrative compromittite a un web libere e aperite.">
+<!ENTITY firstrun_panel_title_privacy "Privacitate">
+<!ENTITY firstrun_privacy_message "Naviga sin sentir se observate">
+<!ENTITY firstrun_privacy_subtext "Le navigation private con protection contra traciamento bloca traciatores durante que tu naviga e non memorara tu chronologia quando tu termina de navigar.">
 <!ENTITY firstrun_panel_title_customize "Personalisar">
-<!ENTITY firstrun_customize_message "Facer &brandShortName; vostre proprie.">
-<!ENTITY firstrun_customize_subtext "Personalisar &brandShortName; con supplementos. Bloca annuncios, adde functiones, o elige un thema nove pro reflecter vostre personalitate.">
+<!ENTITY firstrun_customize_message "Facer &brandShortName; tue.">
+<!ENTITY firstrun_customize_subtext "Personalisar &brandShortName; con additivos. Bloca annuncios, adde functiones, o elige un thema nove pro reflecter tu personalitate.">
 <!ENTITY firstrun_bookmarks_title "Chronologia">
 <!ENTITY firstrun_bookmarks_message "Tu favoritos, a tu vista">
 <!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de tu marcapaginas e de tu chronologia quando tu cerca.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Minus datos, plus sparnios">
 <!ENTITY firstrun_data_subtext2 "Deactivar imagines pro perder minus datos in cata sito que vos visitara.">
-<!ENTITY firstrun_sync_title "Synchronisar">
+<!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Reprender ubi tu lassava.">
 <!ENTITY firstrun_sync_subtext2 "Utiliza Sync pro trovar le marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; in tote tu apparatos.">
 <!ENTITY firstrun_signin_message "Se connecte, se initia">
@@ -48,7 +48,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Marcapaginas">
-<!ENTITY  history_title "Historia">
+<!ENTITY  history_title "Chronologia">
 
 <!ENTITY  switch_to_tab "Commutar al scheda">
 
@@ -81,7 +81,7 @@
 <!ENTITY bookmark_updated "Marcapaginas actualisate">
 <!ENTITY bookmark_options "Optiones">
 <!ENTITY bookmark_save "Salvar">
-<!ENTITY screenshot_added_to_bookmarks "Instantaneo de schermo addite al marcapaginas">
+<!ENTITY screenshot_added_to_bookmarks "Marcapaginas addite sur le instantaneo de schermo">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -112,7 +112,7 @@
 <!ENTITY menu "Menu">
 <!ENTITY back "Retro">
 <!ENTITY stop "Cessar">
-<!ENTITY site_security "Securitate del Sito">
+<!ENTITY site_security "Securitate del sito">
 <!ENTITY edit_mode_cancel "Cancellar">
 
 <!ENTITY close_tab "Clauder le scheda">
@@ -120,12 +120,12 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; schedas">
-<!ENTITY new_tab_opened "Scheda nove aperite">
-<!ENTITY new_private_tab_opened "Un nove scheda private aperite">
+<!ENTITY new_tab_opened "Nove scheda aperite">
+<!ENTITY new_private_tab_opened "Nove scheda private aperite">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "EXCAMBIAR">
+<!ENTITY switch_button_message "CAMBIAR">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -133,7 +133,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
-<!ENTITY tab_title_prefix_is_playing_audio "Fluente audio – &formatS;">
+<!ENTITY tab_title_prefix_is_playing_audio "Sonante audio – &formatS;">
 
 <!ENTITY settings "Parametros">
 <!ENTITY settings_title "Parametros">
@@ -411,7 +411,7 @@
 
 <!ENTITY quit "Quitar">
 
-<!ENTITY addons "Supplementos">
+<!ENTITY addons "Additivos">
 <!ENTITY logins "Authenticationes">
 <!ENTITY downloads "Discargas">
 <!ENTITY char_encoding "Codification de characteres">
@@ -476,10 +476,11 @@
 <!ENTITY page_removed "Pagina removite">
 
 <!ENTITY bookmark_edit_title "Editar le marcapaginas">
+<!ENTITY bookmark_edit_folder_title "Editar le dossier">
 <!ENTITY bookmark_edit_name "Nomine">
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Parola clave">
-<!ENTITY bookmark_select_folder "Selige dossier">
+<!ENTITY bookmark_select_folder "Selectionar un dossier">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -525,6 +526,7 @@
 <!ENTITY home_closed_tabs_one "1 scheda">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: usante un &formatS1;nove scheda private&formatS2; non salvara tu chronologia.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -582,10 +584,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datos private clarate">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
-<!ENTITY bookmarkhistory_import_both "Importante marcapaginas e chronologia
+<!ENTITY bookmarkhistory_import_both "Importante le marcapaginas e le chronologia
                                        ab Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Importante marcapaginas
+<!ENTITY bookmarkhistory_import_bookmarks "Importante le marcapaginas
                                            ab Android">
+<!ENTITY bookmarkhistory_import_history "Importante le chronologia
+                                         de Android">
 <!ENTITY bookmarkhistory_import_wait "Per favor attende…">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -599,6 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY searchable_description "Marcapaginas e chronologia">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Toccar pro discargar">
@@ -617,7 +622,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Lassar Session de Invitato">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancellar">
-<!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider alicun de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
+<!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider qualcunque de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
 
 <!ENTITY exit_guest_session_text "Le datos de navigation de iste session essera delite.">
 
@@ -672,10 +677,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Super tu navigator">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalisar con additivos">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Assistentia">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Adjuta e assistentia de Firefox pro profilos restringite in tablettas Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Apprende le Web: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
@@ -692,8 +702,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "Ir al marcapaginas">
 
 <!ENTITY helper_triple_readerview_open_title "Disponibile sin connexion">
-<!ENTITY helper_triple_readerview_open_message "Marca elementos del Vista del Lector pro leger sin connexion.">
-<!ENTITY helper_triple_readerview_open_button "Adder a Paginas Marcate">
+<!ENTITY helper_triple_readerview_open_message "Adde marcapaginas sur le elementos del vista de lectura pro leger los disconnectite.">
+<!ENTITY helper_triple_readerview_open_button "Adder marcapaginas">
 
 <!ENTITY activity_stream_topsites "Sitos popular">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
@@ -705,20 +715,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "Pagina marcate">
+<!ENTITY activity_stream_highlight_label_bookmarked "Marcapaginas addite">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Visitate">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Al moda">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Comencia navigar e nos te monstrara alcun del grande articulos, videos e altere paginas que tu ha recentemente visitate o marcate hic.">
+<!ENTITY activity_stream_highlights_empty "Comencia navigar e nos te monstrara hic alcun del grande articulos, videos e altere paginas que tu ha recentemente visitate o addite marcapaginas.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Remover">
-<!ENTITY activity_stream_delete_history "Deler del historia">
+<!ENTITY activity_stream_delete_history "Deler del chronologia">
 
 <!ENTITY private_tab_panel_title "Navigation Private + Protection Contra le Traciamento">
 <!ENTITY private_tab_panel_description "&brandShortName; bloca partes del paginas que pote traciar tu navigation.">

@@ -18,7 +18,7 @@
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Authenticationes'>
-<!ENTITY sync.configure.engines.title.history 'Historia'>
+<!ENTITY sync.configure.engines.title.history 'Chronologia'>
 <!ENTITY sync.configure.engines.title.tabs 'Schedas'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -29,11 +29,11 @@
 <!ENTITY sync.default.client.name '&formatS1; in &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Menu de Paginas Marcate'>
+<!ENTITY bookmarks.folder.menu.label 'Menu de marcapaginas'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquettas'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de marcapaginas'>
-<!ENTITY bookmarks.folder.other.label 'Altere paginas marcate'>
+<!ENTITY bookmarks.folder.other.label 'Altere marcapaginas'>
 <!ENTITY bookmarks.folder.desktop.label 'Paginas marcate del scriptorio'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcapaginas mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -62,8 +62,8 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en parametros de Android &gt; Usage de Datos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en le menu de parametros de Android &gt; Contos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toccar pro initiar session con tu conto nove de Firefox.'>
-<!ENTITY fxaccount_status_bookmarks 'Paginas Marcate'>
-<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_bookmarks 'Marcapaginas'>
+<!ENTITY fxaccount_status_history 'Chronologia'>
 <!ENTITY fxaccount_status_passwords2 'Authenticationes'>
 <!ENTITY fxaccount_status_tabs 'Schedas aperite'>
 <!ENTITY fxaccount_status_additional_settings 'Parametros additional'>
