@@ -90,10 +90,10 @@
 <!ENTITY calendar.print.button.label            "Отпечатване" >
 <!ENTITY calendar.print.button.accesskey        "п">
 
-<!ENTITY calendar.day.button.label              "Ден" >
-<!ENTITY calendar.week.button.label             "Седмица" >
+<!ENTITY calendar.day.button.label              "Часове" >
+<!ENTITY calendar.week.button.label             "Дни" >
 <!ENTITY calendar.month.button.label            "Месец" >
-<!ENTITY calendar.multiweek.button.label        "Списък със седмици" >
+<!ENTITY calendar.multiweek.button.label        "Седмици" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Само работни дни" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "р" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Задачи в изгледа" >
