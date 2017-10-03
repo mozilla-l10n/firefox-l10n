@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "Əlavələr">
 <!ENTITY aboutAddons.header2                    "Əlavələriniz">
-<!ENTITY aboutAddons.options                    "Seçimlər">
 
 <!ENTITY addonAction.enable                     "Aktiv et">
 <!ENTITY addonAction.disable                    "Söndür">
 <!ENTITY addonAction.uninstall                  "Sil">
 <!ENTITY addonAction.undo                       "Geri al">
+<!ENTITY addonAction.update                     "Yenilə">
 
 <!ENTITY addonUnsigned.message                  "Bu əlavə &brandShortName; tərəfindən təsdiqlənə bilmir.">
 <!ENTITY addonUnsigned.learnMore                "Ətraflı öyrən">
