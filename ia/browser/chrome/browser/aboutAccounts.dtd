@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Benvenite a &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "Authentica te pro synchronisar tu schedas, marcapaginas e plus.">
+<!ENTITY aboutAccountsConfig.description "Authentica te pro synchronisar tu schedas, marcapaginas, contrasignos e plus.">
 <!ENTITY aboutAccountsConfig.startButton.label "Comenciar">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferentias de Sync">
 <!ENTITY aboutAccounts.noConnection.title "Nulle connexion">
