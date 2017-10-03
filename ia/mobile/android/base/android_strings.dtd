@@ -604,7 +604,7 @@
 <!ENTITY filepicker_video_title "Eligerr o registrar un video">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "Tu es se connectite a">
+<!ENTITY identity_connected_to "Tu es connectite a">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -629,6 +629,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Apprender plus">
+<!ENTITY enable_protection "Activar le protection">
+<!ENTITY disable_protection "Disactivar le protection">
 
 <!ENTITY private_data_success "Datos private clarate">
 
@@ -658,7 +660,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
  <!-- Updater notifications -->
 <!ENTITY updater_start_select2 "Toccar pro discargar">
 
+<!ENTITY updater_downloading_retry2 "Toccar pro reprobar">
 
+<!ENTITY updater_apply_title3 "Actualisation discargate pro &brandShortName;">
 <!ENTITY updater_apply_select3 "Tocca pro installar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -673,7 +677,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancellar">
 <!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider qualcunque de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
+<!ENTITY guest_browsing_notification_text "Toccar pro exir">
 
+<!ENTITY exit_guest_session_title "&brandShortName; non reinitiara ora">
 <!ENTITY exit_guest_session_text "Le datos de navigation de iste session essera delite.">
 
 <!-- Miscellaneous -->
@@ -698,7 +704,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Ultime synchronisation del: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Ultime synchronisation: jammais">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
