@@ -99,7 +99,7 @@ available. -->
 <!ENTITY updateAuto3.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Busque actualizaciones pero dejarme elegir si las instalo">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-<!ENTITY updateManual2.label             "Nunca busqie actualizaciones (no recomendado)">
+<!ENTITY updateManual2.label             "No buscar actualizaciones (no recomendado)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Mostrar historial de actualizaciones…">
