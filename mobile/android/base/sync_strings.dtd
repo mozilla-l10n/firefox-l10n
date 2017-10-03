@@ -51,15 +51,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'మొదలు పెట్టండి'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'ఇలా ప్రవేశించారు'>
-<!ENTITY fxaccount_status_manage_account 'ఖాతా నిర్వహించు'>
 <!ENTITY fxaccount_status_auth_server 'ఖాతా సేవకి'>
 <!ENTITY fxaccount_status_sync_now 'ఇప్పుడే సింక్ చేయి'>
 <!ENTITY fxaccount_status_syncing2 'సింకవుతోంది…'>
 <!ENTITY fxaccount_status_device_name 'పరికరం పేరు'>
 <!ENTITY fxaccount_status_sync_server 'సింక్ సేవిక'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: చేతనం'>
 <!ENTITY fxaccount_status_needs_verification2 'మీ ఖాతాను నిర్ధారించాలి. నిర్థారణ ఈమెయిలును మళ్ళీ పంపించడానికి తాకండి.'>
 <!ENTITY fxaccount_status_needs_credentials 'అనుసంధానం కాలేదు. ప్రవేశించుటకు తట్టండి.'>
 <!ENTITY fxaccount_status_needs_upgrade 'ప్రవేశించుటకు మీరు &brandShortName; కు నవీకరించాలి.'>
@@ -70,6 +66,7 @@
 <!ENTITY fxaccount_status_history 'చరిత్ర'>
 <!ENTITY fxaccount_status_passwords2 'ప్రవేశాలు'>
 <!ENTITY fxaccount_status_tabs 'తెరిచివున్న ట్యాబులు'>
+<!ENTITY fxaccount_status_additional_settings 'అదనపు అమరికలు'>
 <!ENTITY fxaccount_status_legal 'చట్టబద్ధం' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -77,7 +74,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'సేవా నియమాలు'>
 <!ENTITY fxaccount_status_linkprivacy2 'అంతరంగికతా విధానం'>
-<!ENTITY fxaccount_status_more 'మరిన్ని&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'డిస్కనెక్ట్&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Sync నుండి అనుసంధానం తెంచివేయాలా?'>
@@ -102,21 +98,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; ఎంపికలు'>
 <!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label; ఆకృతీకరించు'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'మీరు Firefox ను నవీకరించుకోవాలి'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'ఖాతా ఇప్పటికే ఉంది. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'చెల్లని ఈమెయిలు లేదా సంకేతపదం'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'చెల్లని ఈమెయిలు లేదా సంకేతపదం'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'ఖాతా నిర్ధారణ కాలేదు'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'సేవిక వత్తిడిగా ఉంది, త్వరలో మరలా ప్రయత్నించు'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ఏదో సమస్య ఉంది'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'ఖాతా తాళంవేయబడిండి. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; అనుసంధానమై లేదు'>
 <!-- Localization note: the format string below will be replaced
