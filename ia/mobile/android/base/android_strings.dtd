@@ -12,14 +12,14 @@
 <!ENTITY firstrun_customize_message "Facer &brandShortName; vostre proprie.">
 <!ENTITY firstrun_customize_subtext "Personalisar &brandShortName; con supplementos. Bloca annuncios, adde functiones, o elige un thema nove pro reflecter vostre personalitate.">
 <!ENTITY firstrun_bookmarks_title "Chronologia">
-<!ENTITY firstrun_bookmarks_message "Vostre favoritos, fronte e centro">
-<!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de vostre paginas marcate e historia quando vos recerca.">
+<!ENTITY firstrun_bookmarks_message "Tu favoritos, a tu vista">
+<!ENTITY firstrun_bookmarks_subtext "Obtene resultatos de tu marcapaginas e de tu chronologia quando tu cerca.">
 <!ENTITY firstrun_data_title "Datos">
 <!ENTITY firstrun_data_message "Minus datos, plus sparnios">
 <!ENTITY firstrun_data_subtext2 "Deactivar imagines pro perder minus datos in cata sito que vos visitara.">
 <!ENTITY firstrun_sync_title "Synchronisar">
 <!ENTITY firstrun_sync_message2 "Reprender ubi tu lassava.">
-<!ENTITY firstrun_sync_subtext2 "Utiliza Sync pro trovar le paginas marcate, contrasignos, e cosas altere que vos salvate a &brandShortName; in tote de vostre apparatos.">
+<!ENTITY firstrun_sync_subtext2 "Utiliza Sync pro trovar le marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; in tote tu apparatos.">
 <!ENTITY firstrun_signin_message "Se connecte, se initia">
 <!ENTITY firstrun_signin_button "Connecter se a Sync">
 <!ENTITY  onboard_start_button_browser "Initia Navigation">
@@ -47,7 +47,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Paginas marcate">
+<!ENTITY  bookmarks_title "Marcapaginas">
 <!ENTITY  history_title "Historia">
 
 <!ENTITY  switch_to_tab "Commutar al scheda">
@@ -70,22 +70,22 @@
 
 <!ENTITY url_bar_default_text2 "Cercar o inserer un adresse">
 
-<!ENTITY bookmark "Marcar le pagina">
-<!ENTITY bookmark_remove "Dismarcar le pagina">
-<!ENTITY bookmark_added "Marca de pagina addite">
+<!ENTITY bookmark "Marcapaginas">
+<!ENTITY bookmark_remove "Remover le marcapaginas">
+<!ENTITY bookmark_added "Marcapaginas addite">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "Pagina ya marcate">
-<!ENTITY bookmark_removed "Marca de pagina removite">
-<!ENTITY bookmark_updated "Marca de pagina actualisate">
+<!ENTITY bookmark_already_added "Marcapaginas ja addite">
+<!ENTITY bookmark_removed "Marcapaginas removite">
+<!ENTITY bookmark_updated "Marcapaginas actualisate">
 <!ENTITY bookmark_options "Optiones">
 <!ENTITY bookmark_save "Salvar">
-<!ENTITY screenshot_added_to_bookmarks "Captura de schermo addite a paginas marcate">
+<!ENTITY screenshot_added_to_bookmarks "Instantaneo de schermo addite al marcapaginas">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Capturas de schermo">
+<!ENTITY screenshot_folder_label_in_bookmarks "Instantaneos de schermo">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de Lectura">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
@@ -160,8 +160,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Marcar le pagina">
-<!ENTITY overlay_share_bookmark_btn_label_already "Pagina ya marcate">
+<!ENTITY overlay_share_bookmark_btn_label "Marcapaginas">
+<!ENTITY overlay_share_bookmark_btn_label_already "Marcapaginas ja addite">
 <!ENTITY overlay_share_send_other "Inviar a apparatos altere">
 
 <!ENTITY overlay_share_open_browser_btn_label "Aperir in &brandShortName;">
@@ -339,15 +339,17 @@
 <!ENTITY pref_use_system_font_size "Usar le mesura de typos de characteres del systema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitter autoreproducer">
+<!ENTITY pref_zoom_force_enabled "Sempre activar le zoom">
 <!ENTITY pref_voice_input "Entrata de voce">
 <!ENTITY pref_voice_input_summary2 "Permitter dictato pro voce in le barra de URL">
 <!ENTITY pref_qrcode_enabled "Lector de codices QR">
 
 <!ENTITY pref_use_master_password "Usar un contrasigno maestro">
 <!ENTITY pref_sync2 "Authenticar se">
+<!ENTITY pref_sync_summary2 "Synchronisar tu schedas, marcapaginas, authenticationes, chronologia">
 <!ENTITY pref_search_suggestions "Monstrar suggestiones de recerca">
 <!ENTITY pref_import_options "Optiones pro importation">
-<!ENTITY pref_import_android_summary "Importar paginas marcate e chronologia del navigator native">
+<!ENTITY pref_import_android_summary "Importar le marcapaginas e le chronologia del navigator native">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Schedas aperite">
@@ -369,7 +371,7 @@
 <!ENTITY pref_dialog_default "Predefinite">
 <!ENTITY pref_dialog_remove "Remover">
 <!ENTITY pref_dialog_activitystream_header_content "Contento additional">
-<!ENTITY pref_dialog_activitystream_recentBookmarks "Paginas marcate recentemente">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "Marcapaginas recente">
 <!ENTITY pref_dialog_activitystream_visited "Visitate">
 
 
@@ -444,6 +446,7 @@
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_paste "Collar">
 <!ENTITY contextmenu_copyurl "Copiar le adresse">
+<!ENTITY contextmenu_edit_bookmark "Editar">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -472,6 +475,7 @@
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Pagina removite">
 
+<!ENTITY bookmark_edit_title "Editar le marcapaginas">
 <!ENTITY bookmark_edit_name "Nomine">
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Parola clave">
@@ -514,6 +518,7 @@
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 apparato">
 <!ENTITY home_history_back_to2 "Retornar al chronologia complete">
+<!ENTITY home_bookmarks_empty "Le marcapaginas que tu salva es monstrate hic.">
 <!ENTITY home_restore_all "Restaurar toto">
 <!ENTITY home_closed_tabs_number "&formatD; schedas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
@@ -577,6 +582,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datos private clarate">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
+<!ENTITY bookmarkhistory_import_both "Importante marcapaginas e chronologia
+                                       ab Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Importante marcapaginas
+                                           ab Android">
 <!ENTITY bookmarkhistory_import_wait "Per favor attende…">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -608,6 +617,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Lassar Session de Invitato">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancellar">
+<!ENTITY new_guest_session_text2 "Le persona usante lo non potera vider alicun de tu datos de navigation personal (como contos salvate, chronologia o marcapaginas).\n\nQuando tu convitato termina, su datos de navigation essera delite e tu session essera restaurate.">
 
 <!ENTITY exit_guest_session_text "Le datos de navigation de iste session essera delite.">
 
@@ -658,6 +668,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_clear_history "Clarar le chronologia">
+<!ENTITY restrictable_feature_advanced_settings_description "Isto include importar le marcapaginas, restaurar le schedas e actualisationes automatisate. Inactiva lo si tu vole parametros simplificate e convenibile pro qualcunque membro del familia.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -677,7 +688,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY helper_first_offline_bookmark_title "Leger sin connexion">
-<!ENTITY helper_first_offline_bookmark_button "Va a paginas marcate">
+<!ENTITY helper_first_offline_bookmark_message "Trova tu elementos del vista de lectura in le marcapaginas, mesmo disconnectite.">
+<!ENTITY helper_first_offline_bookmark_button "Ir al marcapaginas">
 
 <!ENTITY helper_triple_readerview_open_title "Disponibile sin connexion">
 <!ENTITY helper_triple_readerview_open_message "Marca elementos del Vista del Lector pro leger sin connexion.">
@@ -710,7 +722,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Navigation Private + Protection Contra le Traciamento">
 <!ENTITY private_tab_panel_description "&brandShortName; bloca partes del paginas que pote traciar tu navigation.">
-<!ENTITY private_tab_panel_description2 "Nos non guardara nihil del historia, ma dossieres discargate e paginas marcate essera salvate in tu apparato.">
+<!ENTITY private_tab_panel_description2 "Nos memorisara nulle chronologia, ma le files discargate e nove marcapaginas essera ancora salvate sur tu apparato.">
 <!ENTITY private_tab_learn_more "Vole apprender plus?">
 
 <!ENTITY fullscreen_warning "Entrate in le modo plen schermo">

@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Vos non es in Navigation Private">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloca partes del paginas que pote traciar vostre navigation.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Nos non guardara nihil del historia, ma dossieres discargate e paginas marcate essera salvate in vostre apparato.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Nos memorisara nulle chronologia, ma le files discargate e nove marcapaginas essera sempre salvate sur tu apparato.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "In le Navigation Private, nos non conservara vostre historia de navigation o cookies. Le paginas marcate que vos addera e dossieres que vos discargara essera ancora salvate in vostre apparato.">
+<!ENTITY privatebrowsingpage.description.normal2 "In le navigation private, nos non conservara tu chronologia de navigation ni le cookies. Le marcapaginas que tu adde e le files que tu discarga essera ancora salvate sur tu apparato.">
 
 <!ENTITY privatebrowsingpage.link.private "Vole apprender plus?">
 <!ENTITY privatebrowsingpage.link.normal "Aperir un scheda private nove">

@@ -32,12 +32,12 @@
 <!ENTITY bookmarks.folder.menu.label 'Menu de Paginas Marcate'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etiquettas'>
-<!ENTITY bookmarks.folder.toolbar.label 'Barra de Paginas Marcate'>
-<!ENTITY bookmarks.folder.other.label 'Paginas Marcate Altere'>
-<!ENTITY bookmarks.folder.desktop.label 'Paginas Marcate de Scriptorio'>
-<!ENTITY bookmarks.folder.mobile.label 'Paginas Marcate Mobile'>
+<!ENTITY bookmarks.folder.toolbar.label 'Barra de marcapaginas'>
+<!ENTITY bookmarks.folder.other.label 'Altere paginas marcate'>
+<!ENTITY bookmarks.folder.desktop.label 'Paginas marcate del scriptorio'>
+<!ENTITY bookmarks.folder.mobile.label 'Marcapaginas mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Fixate'>
+<!ENTITY bookmarks.folder.pinned.label 'Clavate'>
 
 <!-- Firefox Account strings. -->
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Retornar a navigation'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Benvenite a &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Connecter se pro synchronizar vostre schedas, paginas marcate, authenticationes, &amp; plus.'>
+<!ENTITY fxaccount_getting_started_description2 'Authentica te pro synchronisar tu schedas, marcapaginas, authenticationes e plus.'>
 <!ENTITY fxaccount_getting_started_get_started 'Comenciar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Esque usante un version vetule de &syncBrand.shortName.label;?'>
 
