@@ -3,9 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pingDataSource "Fonte de datos de ping:">
+<!ENTITY aboutTelemetry.choosePing "Eliger le ping:">
+<!ENTITY aboutTelemetry.archivePingType "Typo de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.optionGroupToday "Hodie">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Heri">
+<!ENTITY aboutTelemetry.optionGroupOlder "Plus ancian">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Cargo utile">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
