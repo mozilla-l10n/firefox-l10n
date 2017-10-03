@@ -18,7 +18,6 @@
 <!ENTITY publishCmd.key "פ">
 <!ENTITY publishAsCmd.label "פרסם בתור…">
 <!ENTITY publishAsCmd.accesskey "פ">
-<!ENTITY fileRevert.label "החזר">
 <!ENTITY fileRevert.accesskey "ח">
 
 <!-- Edit menu items -->
