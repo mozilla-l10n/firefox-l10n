@@ -43,8 +43,8 @@
 <!ENTITY fxaccount_status_passwords2 "Accessi">
 <!ENTITY fxaccount_status_tabs "Schede aperte">
 <!ENTITY fxaccount_status_additional_settings "Impostazioni aggiuntive">
-<!ENTITY fxaccount_pref_sync_use_metered "Usa Sync in connessioni a consumo">
-<!ENTITY fxaccount_pref_sync_use_metered_summary "Consenti l’utilizzo di connessioni dati e Wi-Fi a consumo per la sincronizzazione in background">
+<!ENTITY fxaccount_pref_sync_use_metered2 "Sincronizza solo via Wi-Fi">
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 "Impedisci a Firefox di utilizzare connessioni dati e a consumo per la sincronizzazione">
 <!ENTITY fxaccount_status_legal "Note legali">
 <!ENTITY fxaccount_status_linktos2 "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_status_linkprivacy2 "Informativa sulla privacy">
