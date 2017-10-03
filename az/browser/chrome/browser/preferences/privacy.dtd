@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Əlçatanlıq xidmətlərinin səyyahınıza girişə icazə verilməsinin qabağın al">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Ətraflı öyrən">
+<!ENTITY enableSafeBrowsingLearnMore.label "Ətraflı öyrən">

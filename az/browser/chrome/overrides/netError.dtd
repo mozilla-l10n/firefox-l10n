@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Server tapılmadı">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ünvanı səhv daxil etmiş ola bilərsiniz. Məsələn <strong>www</strong>.mozilla.org əvəzinə <strong>ww</strong>.mozilla.org yazılmış ola bilər.</li> <li>Digər saytları da aça bilmirsinizsə, Kompüterinizin internet bağlantısını yoxlayın.</li> <li>Əgər kompüteriniz və ya şəbəkəniz Firewall ilə qorunursa, əmin olun ki, &brandShortName; internetə giriş icazəsinə malikdir.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "Server tapılmadı">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Fayl tapılmadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.</li> <li>Faylın köçürülmüş, adı dəyişdirilmiş və ya silinmiş olmasını yoxlayın.</li> </ul>">
@@ -37,8 +37,8 @@
 
 <!ENTITY openPortalLoginPage.label2 "Şəbəkə Giriş Səhifəsini Aç">
 
-<!ENTITY malformedURI.title "Ünvan səhvdir">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "Səhv URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Məlumat ötürmə xətası">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

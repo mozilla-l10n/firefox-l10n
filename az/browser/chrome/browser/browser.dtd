@@ -100,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Səhifə qaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "Səhifə məlumatları">
 <!ENTITY pageInfoCmd.accesskey "S">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ə Daxil ol">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları İdarə et…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlaşdırılmış vərəqlər yan panelini göstər">
+
+<!ENTITY appMenuRecentHighlights.label "Son İşıqlandırmalar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
 <!ENTITY customizeMenu.addToToolbar.accesskey "l">
@@ -796,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün vərəq sinxronizasiyasını aktivləşdirin.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Sinxronlaşdırılmış vərəqlərdə axtar">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -836,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "İlkin Seçənəkləri Bərpa et">
 <!ENTITY customizeMode.done "Tamamlandı">
 <!ENTITY customizeMode.titlebar "Başlıq Paneli">
+<!ENTITY customizeMode.extraDragSpace "Sürüşdürmə Boşluğu">
 <!ENTITY customizeMode.toolbars2 "Alət sətirləri">
 <!ENTITY customizeMode.lwthemes "Mövzular">
 <!ENTITY customizeMode.lwthemes.myThemes "Mövzularım">
@@ -866,6 +877,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Planşet rejimi üçün toxunuşu işlədin">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Avto-gizlət">
+
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
 <!ENTITY getUserMedia.selectMicrophone.label "İstifadə olunacaq Mikrofon:">
@@ -889,16 +902,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "d">
 <!ENTITY trackingProtection.block2.label "Qorumanı Aktivləşdir">
 <!ENTITY trackingProtection.block2.accesskey "k">
-
-<!ENTITY trackingContentBlocked.message "İzləmə">
-<!ENTITY trackingContentBlocked.moreinfo "Saytda sizin onlayn aktivliyinizi izləyən hissələr bloklanmışdır.">
-<!ENTITY trackingContentBlocked.learnMore "Ətraflı Öyrən">
-<!ENTITY trackingContentBlocked.options "Seçimlər">
-<!ENTITY trackingContentBlocked.unblock2.label "Bu sayt üçün qorumanı söndür">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
-<!ENTITY trackingContentBlocked.block.label "Qorumanı aktivləşdir">
-<!ENTITY trackingContentBlocked.block.accesskey "k">
-<!ENTITY trackingContentBlocked.disabled.message "İzləmə qoruması sönülüdür">
 
 <!ENTITY pluginNotification.showAll.label "Hamısını Göstər">
 <!ENTITY pluginNotification.showAll.accesskey "H">
@@ -979,3 +982,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar Sinxronlaşdırılır…">
 
 <!ENTITY libraryButton.tooltip "Tarixçəni, saxlanılmış əlfəcinləri və daha çox şeyi görün">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Əlçatanlıq Özəllikləri Aktivdir">
