@@ -53,3 +53,4 @@
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entri Terbuka">
 <!ENTITY aboutNetworking.rcwnAvgShort          "Rata-rata Pendek">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Rata-rata Panjang">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Deviasi Standar Panjang">
