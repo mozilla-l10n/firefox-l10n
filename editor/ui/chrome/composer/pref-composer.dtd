@@ -25,5 +25,5 @@
 <!ENTITY  maintainStructure.accesskey   "d">
 <!ENTITY  useCSS.label                  "Používať štýly CSS namiesto prvkov a atribútov HTML">
 <!ENTITY  useCSS.accesskey              "u">
-<!ENTITY  crInPCreatesNewP.label        "Návrat na začiatok riadku pomocou klávesy Enter vždy vytvorí nový odsek">
+<!ENTITY  crInPCreatesNewP.label        "Návrat na začiatok riadku pomocou klávesa Enter vždy vytvorí nový odsek">
 <!ENTITY  crInPCreatesNewP.accesskey    "N">
