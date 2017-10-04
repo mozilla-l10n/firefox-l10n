@@ -62,6 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en parametros de Android &gt; Usage de Datos.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; es configurate, ma non autosynchronizante. Habilitar “Auto-sync datos” en le menu de parametros de Android &gt; Contos.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toccar pro initiar session con tu conto nove de Firefox.'>
+<!ENTITY fxaccount_status_choose_what 'Elige que synchronisar'>
 <!ENTITY fxaccount_status_bookmarks 'Marcapaginas'>
 <!ENTITY fxaccount_status_history 'Chronologia'>
 <!ENTITY fxaccount_status_passwords2 'Authenticationes'>
