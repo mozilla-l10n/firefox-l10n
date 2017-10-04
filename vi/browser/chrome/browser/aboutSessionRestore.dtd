@@ -2,20 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Khôi Phục Phiên Làm Việc">
+<!ENTITY restorepage.tabtitle       "Khôi phục phiên làm việc">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Ôi, thật là ngại quá.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; gặp vấn đề khi đang khôi phục các cửa sổ và thẻ của bạn. Việc này thường có nguyên nhân từ một trang web được mở gần đây.">
-<!ENTITY restorepage.tryThis        "Bạn có thể thử:">
-<!ENTITY restorepage.restoreSome    "Xóa các thẻ mà bạn nghĩ là nguyên nhân gây ra vấn đề">
-<!ENTITY restorepage.startNew       "Khởi tạo một phiên duyệt web mới hoàn toàn">
+<!ENTITY restorepage.errorTitle2    "Xin lỗi. Chúng tôi đang gặp sự cố khi khôi phục lại các trang của bạn.">
+<!ENTITY restorepage.problemDesc2   'Chúng tôi đang gặp sự cố khi khôi phục lại phiên duyệt web lần cuối của bạn. Chọn "Khôi phục phiên làm việc" để thử lại.'>
+<!ENTITY restorepage.tryThis2       "Vẫn không thể phục hồi phiên làm việc của bạn? Đôi khi một thẻ đang gây ra sự cố. Xem các thẻ trước đó, bỏ chọn các thẻ mà bạn không cần khôi phục, và sau đó khôi phục lại.">
 
-<!ENTITY restorepage.tryagainButton "Khôi phục">
-<!ENTITY restorepage.restore.access "R">
-<!ENTITY restorepage.closeButton    "Đóng">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.tryagainButton2 "Khôi phục phiên làm việc">
+<!ENTITY restorepage.restore.access2 "R">
+<!ENTITY restorepage.closeButton2    "Bắt đầu phiên làm việc mới">
+<!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "Khôi phục">
 <!ENTITY restorepage.listHeader     "Cửa Sổ và Thẻ">
