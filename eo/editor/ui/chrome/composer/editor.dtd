@@ -18,10 +18,21 @@
 <!ENTITY exportToTextCmd.label "Eksporti al teksto…">
 <!ENTITY exportToTextCmd.accesskey "k">
 <!ENTITY previewCmd.label "Montri paĝon">
+<!ENTITY previewCmd.accesskey "M">
+<!ENTITY sendPageCmd.label "Sendi paĝon…">
+<!ENTITY sendPageCmd.accesskey "S">
 
 <!-- View menu items -->
+<!ENTITY compositionToolbarCmd.label "Ilaro de redakto">
+<!ENTITY compositionToolbarCmd.accesskey "r">
+<!ENTITY formattingToolbarCmd.label "Ilaro de formo">
+<!ENTITY formattingToolbarCmd.accesskey "f">
+<!ENTITY editmodeToolbarCmd.label "Ilaro de redakta reĝimo">
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 
 <!-- Format menu items -->
+<!ENTITY formatMenu.label "Formo">
+<!ENTITY formatMenu.accesskey "F">
 
 <!-- Tools menu items -->
 
