@@ -608,6 +608,8 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ottieni altri temi">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.emptyOverflowList.description "Trascina e rilascia elementi in quest’area per tenerli a portata di clic ma fuori dalla barra degli strumenti…">
+<!ENTITY customizeMode.overflowList.title "Pannello extra">
+<!ENTITY customizeMode.overflowList.description "Trascina e rilascia elementi in quest’area per tenerli a portata di clic ma fuori dalla barra degli strumenti…">
 <!ENTITY customizeMode.uidensity "Densità">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
