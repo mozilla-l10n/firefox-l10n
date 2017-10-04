@@ -48,3 +48,5 @@
 <!ENTITY onemonthforward.tooltip "Jedan mjesec naprijed" >
 <!ENTITY showToday.tooltip "Idi na danas">
 <!ENTITY onedayforward.tooltip "Jedan dan naprijed">
+<!ENTITY onedaybackward.tooltip "Jedan dan nazad">
+<!ENTITY showselectedday.tooltip "Prikaži događaje za odabrani dan">
