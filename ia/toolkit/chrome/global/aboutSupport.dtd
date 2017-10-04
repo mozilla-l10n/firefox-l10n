@@ -5,6 +5,10 @@
 <!ENTITY aboutSupport.pageTitle "Informationes de diagnostico">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "
+  Iste pagina contine informationes technic que pote servir quando tu
+  tenta de resolver un problema. Si tu cerca responsas a questiones commun 
+  re &brandShortName;, controla nostre <a id='supportLink'>sito web de supporto</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Reportos de collapso">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -41,6 +45,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de actualisation">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Chronologia de actualisationes">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Monstrar le chronologia del actualisationes">
 
@@ -64,6 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenestras in multiprocesso">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Processos del contento del web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Clave de Google">
 
@@ -102,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accessibilitate">
 <!ENTITY aboutSupport.a11yActivated "Activate">
 <!ENTITY aboutSupport.a11yForceDisabled "Impedir le accessibilitate">
+<!ENTITY aboutSupport.a11yInstantiator "Generator de accessibilitate">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotheca">
 
@@ -118,6 +125,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Typo de processo">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar le modo secur">
