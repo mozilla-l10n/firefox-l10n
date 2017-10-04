@@ -1,129 +1,111 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
+
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label 'Konektatu &syncBrand.shortName.label;(e)ra'>
 
-<!ENTITY sync.title.connect.label "Konektatu &syncBrand.shortName.label;(e)ra">
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan.'>
+<!ENTITY sync.subtitle.pair.label 'Aktibatzeko, hautatu “Parekatu gailua” zure beste gailuan.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Gailua ez daukat nirekin…'>
 
-<!ENTITY sync.subtitle.connect.label "Zure gailu berria aktibatzeko, hautatu “Konfiguratu &syncBrand.shortName.label;” gailuan.">
-<!ENTITY sync.subtitle.pair.label "Aktibatzeko, hautatu “Parekatu gailua” zure beste gailuan.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.link.nodevice.label "Gailua ez daukat nirekin…">
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Saio-hasierak'>
+<!ENTITY sync.configure.engines.title.history 'Historia'>
+<!ENTITY sync.configure.engines.title.tabs 'Etiketak'>
 
-<!ENTITY sync.configure.engines.title.passwords2 "Saio-hasierak">
-<!ENTITY sync.configure.engines.title.history "Historia">
-<!ENTITY sync.configure.engines.title.tabs "Etiketak">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1;@&formatS2;'>
 
-<!ENTITY sync.default.client.name "&formatS1;@&formatS2;">
 <!-- Bookmark folder strings -->
-
-<!ENTITY bookmarks.folder.menu.label "Laster-marken menua">
+<!ENTITY bookmarks.folder.menu.label 'Laster-marken menua'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "Etiketak">
-<!ENTITY bookmarks.folder.toolbar.label "Laster-marken tresna-barra">
-<!ENTITY bookmarks.folder.other.label "Beste laster-markak">
-<!ENTITY bookmarks.folder.desktop.label "Laster-marka guztiak">
-<!ENTITY bookmarks.folder.mobile.label "Mugikorreko laster-markak">
+<!ENTITY bookmarks.folder.tags.label 'Etiketak'>
+<!ENTITY bookmarks.folder.toolbar.label 'Laster-marken tresna-barra'>
+<!ENTITY bookmarks.folder.other.label 'Beste laster-markak'>
+<!ENTITY bookmarks.folder.desktop.label 'Laster-marka guztiak'>
+<!ENTITY bookmarks.folder.mobile.label 'Mugikorreko laster-markak'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Ainguratuak">
+<!ENTITY bookmarks.folder.pinned.label 'Ainguratuak'>
+
 <!-- Firefox Account strings. -->
+
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Itzuli nabigaziora'>
 
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Ongi etorri &syncBrand.shortName.label;(e)ra'>
+<!ENTITY fxaccount_getting_started_description2 'Hasi saioa zure fitxak, laster-markak, saio-hasierak eta gehiago sinkronizatzeko.'>
+<!ENTITY fxaccount_getting_started_get_started 'Hasi erabiltzen'>
+<!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label;(e)n bertsio zaharrago bat darabilzu?'>
 
-<!ENTITY fxaccount_back_to_browsing "Itzuli nabigaziora">
-
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Ongi etorri &syncBrand.shortName.label;(e)ra">
-<!ENTITY fxaccount_getting_started_description2 "Hasi saioa zure fitxak, laster-markak, saio-hasierak eta gehiago sinkronizatzeko.">
-<!ENTITY fxaccount_getting_started_get_started "Hasi erabiltzen">
-<!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;(e)n bertsio zaharrago bat darabilzu?">
-
-<!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
-<!ENTITY fxaccount_status_manage_account "Kudeatu kontua">
-<!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
-<!ENTITY fxaccount_status_sync_now "Sinkronizatu orain">
-<!ENTITY fxaccount_status_syncing2 "Sinkronizatzen…">
-<!ENTITY fxaccount_status_device_name "Gailuaren izena">
-<!ENTITY fxaccount_status_sync_server "Sync zerbitzaria">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: gaituta">
-<!ENTITY fxaccount_status_needs_verification2 "Zure kontua egiaztatu egin behar da. Sakatu egiaztapen-mezua birbidaltzeko.">
-<!ENTITY fxaccount_status_needs_credentials "Ezin da konektatu. Sakatu saioa hasteko.">
-<!ENTITY fxaccount_status_needs_upgrade "&brandShortName; bertsio-berritu behar duzu saioa hasteko.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \u0027Auto-sinkronizatu datuak\u0027 aukera Androideko Ezarpenak &gt; Kontuak atalean.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Sakatu zure Firefoxeko kontu berrian saioa hasteko.">
-<!ENTITY fxaccount_status_bookmarks "Laster-markak">
-<!ENTITY fxaccount_status_history "Historia">
-<!ENTITY fxaccount_status_passwords2 "Saio-hasierak">
-<!ENTITY fxaccount_status_tabs "Irekitako fitxak">
-<!ENTITY fxaccount_status_legal "Legala" >
+<!ENTITY fxaccount_status_auth_server 'Kontuaren zerbitzaria'>
+<!ENTITY fxaccount_status_sync_now 'Sinkronizatu orain'>
+<!ENTITY fxaccount_status_syncing2 'Sinkronizatzen…'>
+<!ENTITY fxaccount_status_device_name 'Gailuaren izena'>
+<!ENTITY fxaccount_status_sync_server 'Sync zerbitzaria'>
+<!ENTITY fxaccount_status_needs_verification2 'Zure kontua egiaztatu egin behar da. Sakatu egiaztapen-mezua birbidaltzeko.'>
+<!ENTITY fxaccount_status_needs_credentials 'Ezin da konektatu. Sakatu saioa hasteko.'>
+<!ENTITY fxaccount_status_needs_upgrade '&brandShortName; bertsio-berritu behar duzu saioa hasteko.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \&apos;Auto-sinkronizatu datuak\&apos; aukera Androideko Ezarpenak &gt; Datuen erabilpena atalean.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; konfiguratuta dago baina ez da ari automatikoki sinkronizatzen. Txandakatu \&apos;Auto-sinkronizatu datuak\&apos; aukera Androideko Ezarpenak &gt; Kontuak atalean.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Sakatu zure Firefoxeko kontu berrian saioa hasteko.'>
+<!ENTITY fxaccount_status_choose_what 'Aukeratu zer sinkronizatu'>
+<!ENTITY fxaccount_status_bookmarks 'Laster-markak'>
+<!ENTITY fxaccount_status_history 'Historia'>
+<!ENTITY fxaccount_status_passwords2 'Saio-hasierak'>
+<!ENTITY fxaccount_status_tabs 'Irekitako fitxak'>
+<!ENTITY fxaccount_status_additional_settings 'Ezarpen gehigarriak'>
+<!ENTITY fxaccount_status_legal 'Legala' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 "Zerbitzuaren baldintzak">
-<!ENTITY fxaccount_status_linkprivacy2 "Pribatutasun-oharra">
-<!ENTITY fxaccount_status_more "Gehiago&ellipsis;">
-<!ENTITY fxaccount_remove_account "Deskonektatu&ellipsis;">
+<!ENTITY fxaccount_status_linktos2 'Zerbitzuaren baldintzak'>
+<!ENTITY fxaccount_status_linkprivacy2 'Pribatutasun-oharra'>
+<!ENTITY fxaccount_remove_account 'Deskonektatu&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title2 "Sync-etik deskonektatu?">
-<!ENTITY fxaccount_remove_account_dialog_message2 "Zure nabigazio-datuak gailu honetan mantenduko dira baina hemendik aurrera ez dira zure kontuarekin sinkronizatuko.">
+<!ENTITY fxaccount_remove_account_dialog_title2 'Sync-etik deskonektatu?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Zure nabigazio-datuak gailu honetan mantenduko dira baina hemendik aurrera ez dira zure kontuarekin sinkronizatuko.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefoxeko kontua deskonektatu egin da.">
+<!ENTITY fxaccount_remove_account_toast2 '&formatS; Firefoxeko kontua deskonektatu egin da.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
-<!ENTITY fxaccount_remove_account_dialog_action_confirm "Deskonektatu">
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Deskonektatu'>
 
-<!ENTITY fxaccount_enable_debug_mode "Gaitu arazketa modua">
+<!ENTITY fxaccount_enable_debug_mode 'Gaitu arazketa modua'>
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
-<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; aukerak'>
+<!ENTITY fxaccount_options_configure_title 'Konfiguratu &syncBrand.shortName.label;'>
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; aukerak">
-<!ENTITY fxaccount_options_configure_title "Konfiguratu &syncBrand.shortName.label;">
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Firefox bertsio-berritu behar duzu">
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Kontua badago lehendik ere. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Helbide elektroniko edo pasahitz baliogabea">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Helbide elektroniko edo pasahitz baliogabea">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Kontua egiaztatu gabe dago">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Zerbitzaria lanpetuta dago, saiatu berriro laster">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Zerbitzaria lanpetuta dago, saiatu berriro laster">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Arazo bat egon da">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kontua blokeatuta dago. &formatS1;">
-
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; konektatu gabe dago">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; konektatu gabe dago'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Sakatu &formatS; gisa saioa hasteko">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sakatu &formatS; gisa saioa hasteko'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; bertsio-berritzea amaitu?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; bertsio-berritzea amaitu?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Sakatu &formatS; gisa saioa hasteko">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sakatu &formatS; gisa saioa hasteko'>
