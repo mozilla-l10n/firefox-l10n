@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "Bilaketa-barra">
+
+<!ENTITY searchBar.hidden.label                "Erabili helbide-barra bilaketarako eta nabigaziorako">
+<!ENTITY searchBar.shown.label                 "Gehitu bilaketa-barra tresna-barran">
+
 <!ENTITY defaultSearchEngine.label             "Bilaketa-motor lehenetsia">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "Aukeratu helbide- eta bilaketa-barran erabili beharreko bilaketa-motor lehenetsia.">

@@ -117,3 +117,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Eragotzi erabilgarritasun-zerbitzuei zure nabigatzailerako sarbidea">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Argibide gehiago">
+<!ENTITY enableSafeBrowsingLearnMore.label "Argibide gehiago">

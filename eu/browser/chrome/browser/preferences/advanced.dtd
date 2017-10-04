@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Orokorra">
 
@@ -23,14 +23,14 @@
 <!ENTITY checkUserSpelling.accesskey     "z">
 
 <!ENTITY dataChoicesTab.label            "Datu-aukerak">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-
 <!ENTITY healthReportingDisabled.label   "Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako">
 
-<!ENTITY enableHealthReport1.label       "Baimendu &brandShortName;(r)i datu tekniko eta interakziozkoak automatikoki Mozillara bidaltzea">
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Baimendu &brandShortName;(r)i datu tekniko eta interakziozkoak Mozillara bidaltzea">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Argibide gehiago">
 
 <!ENTITY dataCollection.label            "&brandShortName; datuen bilketa eta erabilera">
@@ -52,21 +52,21 @@ available. -->
 <!ENTITY httpCache.label                 "Cachean gordetako web edukia">
 
 <!ENTITY offlineStorage2.label           "Lineaz kanpoko web edukia eta erabiltzaileen datuak">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Gunearen datuak">
 <!ENTITY clearSiteData.label             "Garbitu datu guztiak">
 <!ENTITY clearSiteData.accesskey         "G">
 <!ENTITY siteDataSettings.label          "Ezarpenak…">
 <!ENTITY siteDataSettings.accesskey      "E">
 <!ENTITY siteDataLearnMoreLink.label     "Argibide gehiago">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Mugatu cachea">
 <!ENTITY limitCacheSizeBefore.accesskey  "M">
 <!ENTITY limitCacheSizeAfter.label       "MBtara">
@@ -78,11 +78,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "d">
 
 <!ENTITY updateTab.label                 "Eguneraketak">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "&brandShortName; eguneraketak">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -90,7 +90,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplicationDescription.label "Mantendu &brandShortName; eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.">
+<!ENTITY updateApplicationDescription.label
+                                         "Mantendu &brandShortName; eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.">
 <!ENTITY updateApplication.version.pre   "​">
 <!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
@@ -135,14 +136,21 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "S">
 
 <!ENTITY performance.label               "Errendimendua">
-<!ENTITY useRecommendedPerformanceSettings2.label "Erabili gomendatutako errendimendu-ezarpenak">
-<!ENTITY useRecommendedPerformanceSettings2.description "Ezarpen hauek zure ordenagailuaren hardwareari eta sistema eragileari egokituta daude.">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "E">
-<!ENTITY performanceSettingsLearnMore.label "Argibide gehiago">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Erabili gomendatutako errendimendu-ezarpenak">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Ezarpen hauek zure ordenagailuaren hardwareari eta sistema eragileari egokituta daude.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "E">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Argibide gehiago">
 <!ENTITY limitContentProcessOption.label "Eduki-prozesuen muga">
-<!ENTITY limitContentProcessOption.description "Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.">
+<!ENTITY limitContentProcessOption.description
+                                         "Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.">
 <!ENTITY limitContentProcessOption.accesskey   "m">
-<!ENTITY limitContentProcessOption.disabledDescription "Edukien prozesu kopurua multiprozesu moduko &brandShortName;(r)ekin alda daiteke soilik.">
-<!ENTITY limitContentProcessOption.disabledDescriptionLink "Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Edukien prozesu kopurua multiprozesu moduko &brandShortName;(r)ekin alda daiteke soilik.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko">
 <!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey          "h">

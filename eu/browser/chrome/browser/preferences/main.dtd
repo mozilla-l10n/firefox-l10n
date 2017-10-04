@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Berrezarri lehenetsiak">
 <!ENTITY restoreDefault.accesskey  "r">
 
+<!ENTITY disableExtension.label    "Desgaitu hedapena">
+
 <!ENTITY downloads.label     "Deskargak">
 
 <!ENTITY saveTo.label "Gorde fitxategiak hemen: ">
