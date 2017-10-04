@@ -40,3 +40,4 @@
 <!ENTITY aboutTelemetry.raw "JSON brute">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recuperar le nomines de functiones pro le pilas">
+<!ENTITY aboutTelemetry.hideStackSymbols "Monstrar le datos brute del pila">
