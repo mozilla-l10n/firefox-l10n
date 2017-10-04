@@ -60,7 +60,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect3.accesskey       "И">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY verify.accesskey            "П">
-<!ENTITY forget.label                "Забравяне на този мейл">
+<!ENTITY forget.label                "Забравяне на ел. пощата">
 <!ENTITY forget.accesskey            "З">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
