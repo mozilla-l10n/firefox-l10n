@@ -75,8 +75,14 @@
 <!ENTITY unknownSocketType.longDesc "<p>Le sito respondeva al requesta de rete in un via inexpectate e le browser non pote continuar.</p>">
 
 <!ENTITY nssFailure2.title "Connexion secur fallite">
+<!ENTITY nssFailure2.longDesc2 "<p>Le pagina que tu tenta de vider non pote ser monstrate perque le authenticitate del datos recipite non pote ser verificate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Isto pote ser un problema con le configuration del servitor, o illo pote ser alicuno que tenta de finger se servitor.</li>
+<li>Si tu era connexe a iste servitor con successo in le passato, le error pote ser temporari, e tu pote tentar ancora plus tarde.</li>
+</ul>
+">
 
 <!ENTITY securityOverride.linkText "O tu pote adder un exception…">
 <!ENTITY securityOverride.warningContent "
@@ -85,11 +91,13 @@
 ">
 
 <!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
+<!ENTITY cspBlocked.longDesc "<p>Le navigator impedi de cargar iste pagina in iste maniera perque le pagina ha regulas de securitate del contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error in le transmission de datos esseva detectate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL remote">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Per favor contacta le dominos del sito web pro les informar de iste problema.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
