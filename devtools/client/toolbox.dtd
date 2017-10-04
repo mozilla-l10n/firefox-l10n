@@ -145,19 +145,14 @@
 <!ENTITY options.debugger.label            "Araztailea">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
-   - label for the checkbox that toggles source maps in the Debugger -->
+   - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Gaitu iturburu-mapak">
-<!ENTITY options.sourceMaps.tooltip    "Aukera hau gaituz gero, iturburuak mapeatu egingo dira araztailean eta kontsolan.">
+<!ENTITY options.sourceMaps.tooltip1   "Aukera hau gaituz gero, iturburuak mapeatu egingo dira tresnetan.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
 <!ENTITY options.styleeditor.label            "Estilo-editorea">
-
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Erakutsi jatorrizko iturburuak">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Erakutsi jatorrizko iturburuak (adib. Sass fitxategiak) estiloen editorean eta ikuskatzailean">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -178,17 +173,6 @@
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Erreproduzitu kamera-obturadorearen soinua">
 <!ENTITY options.screenshot.audio.tooltip    "Kameraren audio-soinua gaitzen du pantaila-argazkia hartzerakoan">
-
-<!-- LOCALIZATION NOTE (options.netmonitor.label): This is the label for the
-  -  heading of the group of Network Monitor preferences in the options panel. -->
-<!ENTITY options.netmonitor.label           "Sarea">
-
-<!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
-  -  label for the checkbox that toggles persistent logs in the netmonitor,
-  -  i.e. devtools.netmonitor.persistlog a boolean preference in
-  -  about:config, in the options panel. -->
-<!ENTITY options.netmonitor.enablePersistentLogs.label    "Gaitu erregistro iraunkorra">
-<!ENTITY options.netmonitor.enablePersistentLogs.tooltip  "Aukera hau gaituz gero, sareko monitoreak ez du irteera garbituko orri berri batera nabigatzen duzun bakoitzean">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,

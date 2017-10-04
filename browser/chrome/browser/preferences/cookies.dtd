@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Honako cookie hauek daude gorderik zure ordenagailuan:">
+<!ENTITY     cookiesonsystem2.label         "Ondorengo cookieak daude gordeta zure ordenagailuan">
 <!ENTITY     cookiename.label               "Cookiearen izena">
 <!ENTITY     cookiedomain.label             "Gunea">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Cookieak">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Bilatu">
 <!ENTITY     searchFilter.accesskey         "B">

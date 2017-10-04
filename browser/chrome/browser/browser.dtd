@@ -100,6 +100,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Orriaren iturburua">
 <!ENTITY pageSourceCmd.accesskey "O">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "Orriaren informazioa">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -378,6 +384,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
+
+<!ENTITY appMenuRecentHighlights.label "Nabarmendutako azkenak">
 
 <!ENTITY customizeMenu.addToToolbar.label "Gehitu tresna-barran">
 <!ENTITY customizeMenu.addToToolbar.accesskey "G">
@@ -796,6 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Bilatu sinkronizatutako fitxak">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -836,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
 <!ENTITY customizeMode.done "Eginda">
 <!ENTITY customizeMode.titlebar "Titulu-barra">
+<!ENTITY customizeMode.extraDragSpace "Arrastatu zuriunea">
 <!ENTITY customizeMode.toolbars2 "Tresna-barrak">
 <!ENTITY customizeMode.lwthemes "Itxurak">
 <!ENTITY customizeMode.lwthemes.myThemes "Nire itxurak">
@@ -866,6 +876,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "U">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Erabili ukipenezkoa tabletaren modurako">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Ezkutatu automatikoki">
+
 <!ENTITY getUserMedia.selectCamera.label "Partekatzeko kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Partekatzeko mikrofonoa:">
@@ -889,16 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Gaitu babesa">
 <!ENTITY trackingProtection.block2.accesskey "G">
-
-<!ENTITY trackingContentBlocked.message "Jarraipena">
-<!ENTITY trackingContentBlocked.moreinfo "Zure lineako jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
-<!ENTITY trackingContentBlocked.learnMore "Argibide gehiago">
-<!ENTITY trackingContentBlocked.options "Aukerak">
-<!ENTITY trackingContentBlocked.unblock2.label "Desgaitu babesa gune honetarako">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
-<!ENTITY trackingContentBlocked.block.accesskey "G">
-<!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
 
 <!ENTITY pluginNotification.showAll.label "Erakutsi denak">
 <!ENTITY pluginNotification.showAll.accesskey "E">
@@ -979,3 +981,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
 
 <!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Erabilgarritasun-eginbideak gaituta">
