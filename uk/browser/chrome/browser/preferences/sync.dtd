@@ -65,7 +65,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Візьміть свій інтернет з собою">
 <!ENTITY signedOut.description        "Синхронізуйте закладки, історію, вкладки, паролі, додатки, а також налаштування на всіх своїх пристроях.">
-<!ENTITY signedOut.accountBox.title   "Під’єднатися до облікового запису Firefox">
+<!ENTITY signedOut.accountBox.title   "Під’єднайтеся до облікового запису Firefox">
 <!ENTITY signedOut.accountBox.create2 "Не маєте облікового запису? Давайте створимо">
 <!ENTITY signedOut.accountBox.create2.accesskey "й">
 <!ENTITY signedOut.accountBox.signin2 "Увійти…">
