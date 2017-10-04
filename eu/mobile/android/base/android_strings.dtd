@@ -271,7 +271,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Deskargatu urruneko letra-tipoak orriak kargatzerakoan">
 
 <!ENTITY pref_tracking_protection_title2 "Jarraipenaren babesa">
-<!ENTITY pref_tracking_protection_summary3 "Nabigatze pribatuan gaituta">
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
@@ -286,11 +285,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eginbide esperimentalak">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Fitxa pertsonalizatuak">
-<!ENTITY pref_custom_tabs_summary3 "Baimendu aplikazioei webguneak irekitzea &brandShortName; bertsio pertsonalizatu bat erabiliz">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ireki &formatS;(e)n">
@@ -495,7 +489,17 @@
 <!ENTITY contextmenu_top_sites_edit "Editatu">
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "Ainguratu gune erabilienetara">
+<!ENTITY contextmenu_unpin_from_top_sites "Desainguratu gune erabilienetatik">
 <!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "Orria gune erabilienetara ainguratuta">
+<!ENTITY unpinned_page_from_top_sites "Orria gune erabilienetatik desainguratuta">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -818,6 +822,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket;(e)k gomendatua">
 <!ENTITY activity_stream_highlights "Nabarmendutakoak">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "GEHIAGO">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
