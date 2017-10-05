@@ -14,3 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip        "Powoduje zamianę istniejącego adresu URL na względny lub bezwzględny. Aby użyć tej funkcji, należy uprzednio zachować stronę.">
 <!ENTITY LinkURLEditField.label         "Wprowadź adres strony, nazwę lokalnego pliku lub wybierz kotwicę albo nagłówek z listy podręcznej:">
 <!ENTITY LinkURLEditField.accessKey     "a">
+<!ENTITY LinkURLEditField2.label "Wprowadź adres strony, nazwę lokalnego pliku lub wybierz kotwicę albo nagłówek z menu kontekstowego pola:">
+<!ENTITY LinkURLEditField2.accessKey "a">
