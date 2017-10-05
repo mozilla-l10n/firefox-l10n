@@ -24,7 +24,7 @@
 <!ENTITY tabCrashed.requestReport "Bu sekmeyi rapor edin">
 <!ENTITY tabCrashed.sendReport3 "Bu gibi sorunları düzeltebilmemiz için otomatik bir çökme raporu gönder.">
 <!ENTITY tabCrashed.commentPlaceholder2 "İsteğe bağlı yorumunuz (Yorumlar herkes tarafından görülebilir.)">
-<!ENTITY tabCrashed.includeURL3 "&brandShortName; çöktüğünde açık olan sitelerin URL'lerini içersin.">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName; çöktüğünde açık olan sitelerin adreslerini de gönder.">
 <!ENTITY tabCrashed.emailPlaceholder "Buraya e-posta adresinizi yazın">
 <!ENTITY tabCrashed.emailMe "Daha fazla bilgi ortaya çıktığında bana e-posta gönder">
 <!ENTITY tabCrashed.reportSent "Çökme raporu gönderildi. Daha iyi bir &brandShortName; yarattığınız için teşekkürler!">
