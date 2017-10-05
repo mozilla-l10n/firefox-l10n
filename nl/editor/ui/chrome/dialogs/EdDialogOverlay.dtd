@@ -14,5 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Wisselen tussen relatieve en absolute URL. U moet de pagina eerst opslaan om dit te kunnen wijzigen.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField2.label "Voer een webpaginalocatie of lokaal bestand in, of selecteer een benoemd anker of kop uit het contextmenu van het veld:">
-<!ENTITY LinkURLEditField2.accessKey "l">
+<!ENTITY LinkURLEditField.label "Voer een webpaginalocatie of lokaal bestand in, of selecteer een benoemd anker of kop uit de pop-uplijst:">
+<!ENTITY LinkURLEditField.accessKey "l">
