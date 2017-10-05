@@ -60,6 +60,8 @@
 <!ENTITY fxaccount_status_passwords2 "Dane logowania">
 <!ENTITY fxaccount_status_tabs "Otwarte karty">
 <!ENTITY fxaccount_status_additional_settings "Dodatkowe ustawienia">
+<!ENTITY fxaccount_pref_sync_use_metered "Synchronizowanie na połączeniach taryfowych">
+<!ENTITY fxaccount_pref_sync_use_metered_summary "Umożliwia korzystanie z danych komórkowych i taryfowych sieci Wi-Fi do synchronizowania w tle">
 <!ENTITY fxaccount_status_legal "Podstawa prawna">
 <!ENTITY fxaccount_status_linktos2 "Warunki użytkowania">
 <!ENTITY fxaccount_status_linkprivacy2 "Polityka prywatności">
