@@ -55,13 +55,49 @@
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Elekti tiparon">
+<!ENTITY fontfaceMenu.label "Tiparo">
+<!ENTITY fontfaceMenu.accesskey "T">
+<!ENTITY fontVarWidth.label "Varia larĝo">
+<!ENTITY fontVarWidth.accesskey "V">
+<!ENTITY fontFixedWidth.label "Fiksa larĝo">
+<!ENTITY fontFixedWidth.accesskey "k">
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
- <!-- < is above this key on many keyboards -->
- <!-- > is above this key on many keyboards -->
+<!ENTITY FontSizeSelect.tooltip "Elektu grandon de tiparo">
+<!ENTITY decreaseFontSize.label "Pli eta">
+<!ENTITY decreaseFontSize.accesskey "e">
+<!ENTITY decrementFontSize.key "&lt;">
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
+<!ENTITY increaseFontSize.label "Pli granda">
+<!ENTITY increaseFontSize.accesskey "">
+<!ENTITY incrementFontSize.key "&gt;">
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
+<!ENTITY fontSizeMenu.label "Grando">
+<!ENTITY fontSizeMenu.accesskey "G">
+<!ENTITY size-tinyCmd.label "Eteta">
+<!ENTITY size-tinyCmd.accesskey "E">
+<!ENTITY size-smallCmd.label "Eta">
+<!ENTITY size-smallCmd.accesskey "t">
+<!ENTITY size-mediumCmd.label "Mezgranda">
+<!ENTITY size-mediumCmd.accesskey "M">
+<!ENTITY size-largeCmd.label "Grandega">
+<!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-extraLargeCmd.label "Grandega">
+<!ENTITY size-extraLargeCmd.accesskey "E">
+<!ENTITY size-hugeCmd.label "Grandegega">
+<!ENTITY size-hugeCmd.accesskey "G">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Stilo de teksto">
+<!ENTITY fontStyleMenu.accesskey "S">
 
 
 
