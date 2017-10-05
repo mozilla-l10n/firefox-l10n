@@ -98,6 +98,17 @@
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stilo de teksto">
 <!ENTITY fontStyleMenu.accesskey "S">
+<!ENTITY styleBoldCmd.label "Dika">
+<!ENTITY styleBoldCmd.accesskey "D">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Oblikva">
+<!ENTITY styleItalicCmd.accesskey "O">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Substrekita">
+<!ENTITY styleUnderlineCmd.accesskey "S">
+<!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Trastrekita">
+<!ENTITY styleStrikeThruCmd.accesskey "T">
 
 
 
