@@ -78,6 +78,7 @@
 
 <!ENTITY bookmark_folder_items "Zakładki: &formatD;">
 <!ENTITY bookmark_folder_one_item "Zakładki: 1">
+<!ENTITY bookmark_folder_updated "Zaktualizowano folder">
 <!ENTITY bookmark_parent_folder "Folder nadrzędny">
 <!ENTITY bookmark_add_folder "Dodaj nowy folder">
 
