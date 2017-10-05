@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; pestañas">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_folder_updated "Ntu tsaa tutu">
 <!ENTITY bookmark_parent_folder "Nu chikavau tutu">
 <!ENTITY bookmark_add_folder "Chikaa tutu tsaa">
 
@@ -447,6 +448,7 @@
 <!ENTITY save_as_pdf "Chikavaá tana PDF ">
 <!ENTITY print "Nta tavaa">
 <!ENTITY find_in_page "Ndaduku yo\&apos;o">
+<!ENTITY desktop_mode "Kaka sitio nu escritorio">
 <!ENTITY page "Página">
 <!ENTITY tools "Herramientas">
 <!ENTITY new_tab "Pestaña tsàa">
@@ -524,6 +526,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Tutu luu">
+<!ENTITY pref_compact_tabs_summary2 "Chika vaa pestañas nu uvi columna">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -652,6 +655,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Chikava\&apos;a ña sau">
 <!ENTITY doorhanger_tracking_state_enabled "Vaiì">
 <!ENTITY doorhanger_tracking_state_disabled "Ma kuu">
+<!ENTITY doorhanger_tracking_message_enabled1 "Nkuu kuncheu ña sau tsa ntasia.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Página-yo kuu ndanduki inchi inkau.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -693,6 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Katavi taba na kitsai ta ntsinu snuùiña">
 <!ENTITY updater_downloading_retry2 "Katavi taba na nta saiña">
 
+<!ENTITY updater_apply_title3 "Snui ña tsaa kuachu\&apos;un tsi &brandShortName;">
 <!ENTITY updater_apply_select3 "Katavi tava na chikaiña">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -751,6 +756,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "¿A ke nu ndukuku ña seé?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -829,5 +835,9 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Xitaá">
 <!ENTITY activity_stream_delete_history "Stoò ntii ña niya\&apos;a">
 
+<!ENTITY private_tab_panel_title "Nduku seé">
+<!ENTITY private_tab_panel_description "&brandShortName; tsasia página nche\&apos;e ña sau.">
+<!ENTITY private_tab_panel_description2 "Ma ndakuinia ña ntsinul, tutu snuu tsi marca nchikavau ku kunkaia nu kaa ndusu\&apos;ku.">
 <!ENTITY private_tab_learn_more "¿A kunu kua kutuaku?">
 
+<!ENTITY fullscreen_warning "Ni kivu nu pantalla kanu">
