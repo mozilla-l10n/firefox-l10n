@@ -10,6 +10,10 @@
 <!ENTITY certmgr.tab.ca                       "Autoritates">
 <!ENTITY certmgr.tab.orphan2                  "Alteros">
 
+<!ENTITY certmgr.mine2                        "Tu ha certificatos ex iste organisationes que identifica te">
+<!ENTITY certmgr.others2                      "Tu ha certificatos sur le file que identifica iste personas">
+<!ENTITY certmgr.websites3                    "Tu ha certificatos sur le file que identifica iste servitores">
+<!ENTITY certmgr.cas2                         "Tu ha certificatos sur le file que identifica iste autoritates">
 <!ENTITY certmgr.orphans2                     "Tu ha certificatos que non reentra in ulle del altere categorias">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">

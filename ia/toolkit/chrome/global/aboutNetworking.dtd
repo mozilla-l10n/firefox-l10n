@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Super le traffico de rete">
+<!ENTITY aboutNetworking.showNextTime          "Monstrar iste advertentia le proxime vice">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Sockets">
@@ -49,4 +50,6 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Leger">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Scriber">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entrata aperite">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Media curte">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Media longe">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Deviation standard longe">
