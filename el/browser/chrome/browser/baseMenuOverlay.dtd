@@ -46,9 +46,9 @@
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 
 <!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey  "κ">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
-<!ENTITY hideOtherAppsCmdMac.commandkey "ψ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">

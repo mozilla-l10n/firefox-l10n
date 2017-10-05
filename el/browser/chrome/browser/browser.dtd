@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
-<!ENTITY bookmarkThisPageCmd.commandkey "π">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
@@ -899,16 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingProtection.block2.accesskey "Ε">
 
-<!ENTITY trackingContentBlocked.message "Παρακολούθηση">
-<!ENTITY trackingContentBlocked.moreinfo "Έχουν εμποδιστεί τμήματα αυτής της σελίδας που μπορούν να καταγράψουν τη διαδικτυακή συμπεριφορά σας.">
-<!ENTITY trackingContentBlocked.learnMore "Μάθετε περισσότερα">
-<!ENTITY trackingContentBlocked.options "Επιλογές">
-<!ENTITY trackingContentBlocked.unblock2.label "Απενεργοποίηση προστασίας για αυτή τη σελίδα">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "Δ">
-<!ENTITY trackingContentBlocked.block.label "Ενεργοποίηση προστασίας">
-<!ENTITY trackingContentBlocked.block.accesskey "Ε">
-<!ENTITY trackingContentBlocked.disabled.message "Η προστασία από παρακολούθηση είναι ανενεργή">
-
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">
 
@@ -988,3 +978,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
 
 <!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
