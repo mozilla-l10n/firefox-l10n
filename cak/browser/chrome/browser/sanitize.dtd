@@ -22,10 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Taq xtatz'apij &brandShortName;, k'o ta chi ruyonil niyujtäj el:">
+
+<!ENTITY clearDataSettings3.label     "Toq xtatz'apij &brandShortName;, k'o ta chi ruyonil niyuj ronojel">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Retal q'ijul richin niyuj:">
 <!ENTITY clearTimeDuration.accesskey      "q">
 <!ENTITY clearTimeDuration.lastHour       "Ruk'isib'äl ramaj">
@@ -36,10 +38,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Taq rub'anikil">
 <!ENTITY detailsProgressiveDisclosure.accesskey "b">
 
@@ -60,8 +62,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "m">
 <!ENTITY itemSitePreferences.label         "Taq rajowaxïk ruxaq k'amaya'l">
 <!ENTITY itemSitePreferences.accesskey     "k">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Man tikirel ta xtitzolïx chi rij re samaj re'.">
