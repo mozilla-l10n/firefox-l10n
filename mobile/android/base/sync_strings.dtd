@@ -68,6 +68,10 @@
 <!ENTITY fxaccount_status_passwords2 '登录信息'>
 <!ENTITY fxaccount_status_tabs '打开的标签页'>
 <!ENTITY fxaccount_status_additional_settings '额外设置'>
+<!ENTITY fxaccount_pref_sync_use_metered2 '仅通过 Wi-Fi 同步'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 '避免 &brandShortName; 通过蜂窝或流量计费网络同步'>
 <!ENTITY fxaccount_status_legal '法律' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:

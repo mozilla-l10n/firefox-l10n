@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; 项">
 <!ENTITY bookmark_folder_one_item "1 项">
+<!ENTITY bookmark_folder_updated "文件夹已更新">
 <!ENTITY bookmark_parent_folder "父文件夹">
 <!ENTITY bookmark_add_folder "添加新文件夹">
 
