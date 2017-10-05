@@ -7,8 +7,10 @@
 <!ENTITY firstrun_urlbar_subtext2 "Iin nu nuduku ña\&apos;a Mozilla, kue ndukukue xu\&apos;un kunikue koo iin web ña\&apos;a nti\&apos;o.">
 <!ENTITY firstrun_panel_title_privacy "Ña meu">
 <!ENTITY firstrun_privacy_message "Nduku tana ko\&apos;ona nche\&apos;eyo">
+<!ENTITY firstrun_privacy_subtext "Ndunku ña seé cha ma nchikavai ña ndukuku ta ntsonu sau.">
 <!ENTITY firstrun_panel_title_customize "Ntasai nixi kunu">
 <!ENTITY firstrun_customize_message "Sa\&apos;a &brandShortName; ña\&apos;a meu.">
+<!ENTITY firstrun_customize_subtext "Sama &brandShortName; tsi complemento. Kasi publicidad,chika funcion a katso tsa\&apos;a iin tema ña tta\&apos;an inu.">
 <!ENTITY firstrun_bookmarks_title "Ña niya\&apos;a">
 <!ENTITY firstrun_bookmarks_message "Ña ta\&apos;an inù, nuù, mà\&apos;in">
 <!ENTITY firstrun_bookmarks_subtext "Ntanèe marka tsi ña ni ña niya\&apos;a ta nda ntukuku">
@@ -17,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Ma chiakà vaii ñaá tutu ndatavana tava luxoo sachuin ta inkau nu sitio web  ">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Kitsaa nu nikintùu.">
+<!ENTITY firstrun_sync_subtext2 "Kuachu\&apos;un Sync taba ntaneu marcadore, tu\&apos;un seé cha ntoo ña nchikavau nu &brandShortName; nu ntii kaa ndusu\&apos;ku.">
 <!ENTITY firstrun_signin_message "Chita\&apos;n, ki\&apos;tsaà">
 <!ENTITY firstrun_signin_button "Kivi nuú Sync">
 <!ENTITY  onboard_start_button_browser "ki\&apos;tsaà nda ntuku">
@@ -804,6 +807,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Sitio ña ta\&apos;an inu">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "Recomendado por &brandPocket;">
+<!ENTITY activity_stream_highlights "Tu\&apos;un nchichi">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "Kua">
