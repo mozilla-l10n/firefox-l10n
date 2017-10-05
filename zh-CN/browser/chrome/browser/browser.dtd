@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "按钮可以拖放到这里，方便使用、不占用工具栏空间">
+<!ENTITY customizeMode.overflowList.title2 "折叠菜单">
+<!ENTITY customizeMode.overflowList.description "按钮可以拖放到这里，方便使用、不占用工具栏空间">
 <!ENTITY customizeMode.uidensity "密度">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
