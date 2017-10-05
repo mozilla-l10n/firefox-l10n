@@ -34,6 +34,7 @@
 <!ENTITY pkcs12.setpassword.label2 "Contrasigno de backup del certificato (novemente):">
 
 <!ENTITY chooseToken.title  "Dialogo de election de token">
+<!ENTITY chooseToken.message1 "Por favor elige un token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generante un clave private">
