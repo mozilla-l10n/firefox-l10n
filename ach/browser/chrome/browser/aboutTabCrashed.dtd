@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Lor dirica matidi man">
+<!ENTITY tabCrashed.title "Lami ripot pi poto pa dirica matidi">
+
+<!ENTITY tabCrashed.closeTab2  "Lor dirica matidi">
 <!ENTITY tabCrashed.restoreTab "Dwok dirica matidi man">
 <!ENTITY tabCrashed.restoreAll "Dwok dirica matino weng ma opoto">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,19 +15,18 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
 <!ENTITY tabCrashed.header2 "Aaa. Dirica matidi ni opoto woko.">
-<!ENTITY tabCrashed.offerHelp "Watwero konyi!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Yer &tabCrashed.restoreTab; me nwoyo cano gin me potbuk.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Yer &tabCrashed.restoreTab; onyo &tabCrashed.restoreAll; me nwoyo cano gin me potbuk.">
+<!ENTITY tabCrashed.offerHelp2 "Watwero miyo kony!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Yer &tabCrashed.restoreTab; me nwoyo cano potbuk.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Yer &tabCrashed.restoreTab; onyo &tabCrashed.restoreAll; me nwoyo cano potbuk/potbukke.">
 <!ENTITY tabCrashed.requestHelp "Ibikonyo wa?">
 <!ENTITY tabCrashed.requestHelpMessage "Ripot me poto konyo wa niang ikom peko ki miyo &brandShortName; bedo maber.">
 <!ENTITY tabCrashed.requestReport "Mi ripot ikom dirica matidi man">
-<!ENTITY tabCrashed.sendReport2 "Cwal ripot me poto pi dirica matidi ma itye ka neno ni">
+<!ENTITY tabCrashed.sendReport3 "Cwal ripot me poto pire kene me weko wa yubo peko calo man.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Med tami (tam nen bot lwak)">
-<!ENTITY tabCrashed.includeURL2 "Ket URL me potbuk kacel ki ripot me poto man">
+<!ENTITY tabCrashed.includeURL3 "Ket URLs pa kakube ma onongo itye iyie i kare ma &brandShortName; opoto.">
 <!ENTITY tabCrashed.emailPlaceholder "Ket kanonge ni me email kany">
 <!ENTITY tabCrashed.emailMe "Cwala email ka ngec mapol tye">
 <!ENTITY tabCrashed.reportSent "Ripot me poto dong kicwalo woko; wapwoyo konyo yubo &brandShortName; maber!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Mi ripot ikom purugram ma time ki i ngec">
-<!ENTITY tabCrashed.autoSubmit2 "Lok ter me cwalo pire kene ripot me poto, kacel ki ripot me poto pa dirica matino ma time ingec pi kare man ki pi kare ma bi bino i anyim">
+<!ENTITY tabCrashed.autoSubmit3 "Lok ter me cwalo pire kene ripot ka &brandShortName; opoto.">
