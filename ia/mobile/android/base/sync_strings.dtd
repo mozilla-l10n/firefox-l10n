@@ -34,8 +34,8 @@
 <!ENTITY bookmarks.folder.tags.label 'Etiquettas'>
 <!ENTITY bookmarks.folder.toolbar.label 'Barra de marcapaginas'>
 <!ENTITY bookmarks.folder.other.label 'Altere marcapaginas'>
-<!ENTITY bookmarks.folder.desktop.label 'Paginas marcate del scriptorio'>
-<!ENTITY bookmarks.folder.mobile.label 'Marcapaginas mobile'>
+<!ENTITY bookmarks.folder.desktop.label 'Marcapaginas del scriptorio'>
+<!ENTITY bookmarks.folder.mobile.label 'Marcapaginas del mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Clavate'>
 

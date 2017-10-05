@@ -70,7 +70,7 @@
 
 <!ENTITY url_bar_default_text2 "Cercar o inserer un adresse">
 
-<!ENTITY bookmark "Marcapaginas">
+<!ENTITY bookmark "Adder marcapaginas">
 <!ENTITY bookmark_remove "Remover le marcapaginas">
 <!ENTITY bookmark_added "Marcapaginas addite">
 <!-- Localization note (bookmark_already_added) : This string is
@@ -198,6 +198,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "SUGGESTION: Adde qualcunque sito web a tu lista de motores de recerca premente longemente sur su campo de recerca e depost toccante le icone &formatI;.">
 <!ENTITY pref_category_advanced "Avantiate">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -436,8 +437,10 @@
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir via">
 <!ENTITY share_image_failed "Incapace a compartir iste imagine">
+<!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimer">
 <!ENTITY find_in_page "Trovar in le pagina">
+<!ENTITY desktop_mode "Requestar le version scriptorio del sito">
 <!ENTITY page "Pagina">
 <!ENTITY tools "Instrumentos">
 <!ENTITY new_tab "Nove scheda">
