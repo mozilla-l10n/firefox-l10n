@@ -61,7 +61,7 @@
 <!ENTITY fxaccount_status_tabs "Otwarte karty">
 <!ENTITY fxaccount_status_additional_settings "Dodatkowe ustawienia">
 <!ENTITY fxaccount_pref_sync_use_metered2 "Synchronizowanie tylko przez Wi-Fi">
-<!ENTITY fxaccount_pref_sync_use_metered_summary2 "Uniemożliwia Firefoksowi synchronizowanie przez sieć komórkową lub taryfową">
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 "Uniemożliwia przeglądarce &brandShortName; synchronizowanie przez sieć komórkową lub taryfową">
 <!ENTITY fxaccount_status_legal "Podstawa prawna">
 <!ENTITY fxaccount_status_linktos2 "Warunki użytkowania">
 <!ENTITY fxaccount_status_linkprivacy2 "Polityka prywatności">
