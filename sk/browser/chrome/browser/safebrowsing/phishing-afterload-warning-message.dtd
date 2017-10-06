@@ -42,6 +42,7 @@
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Ďalšie informácie o podvodných stránkach a phishingu nájdete na <a id='learn_more_link'>www.antiphishing.org</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Táto stránka môže obsahovať malvér">
@@ -50,3 +51,4 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
