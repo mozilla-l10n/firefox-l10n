@@ -68,6 +68,10 @@
 <!ENTITY fxaccount_status_passwords2 'Hesaplar'>
 <!ENTITY fxaccount_status_tabs 'Açık sekmeler'>
 <!ENTITY fxaccount_status_additional_settings 'Ek ayarlar'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Sadece Wi-Fi\&apos;ye bağlıyken eşitle'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 '&brandShortName; uygulamasının şebeke veya ölçülen ağ üzerinden eşitlenmesini engelle'>
 <!ENTITY fxaccount_status_legal 'Yasal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
