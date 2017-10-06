@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "استعد الإعدادات المبدئية">
 <!ENTITY customizeMode.done "تمّ">
 <!ENTITY customizeMode.titlebar "شريط العنوان">
+<!ENTITY customizeMode.extraDragSpace "مساحة للسحب">
 <!ENTITY customizeMode.toolbars2 "أشرطة الأدوات">
 <!ENTITY customizeMode.lwthemes "السِمات">
 <!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
