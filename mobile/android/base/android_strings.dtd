@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; нәрсе">
 <!ENTITY bookmark_folder_one_item "1 нәрсе">
+<!ENTITY bookmark_folder_updated "Бума жаңартылды">
 <!ENTITY bookmark_parent_folder "Аталық бумасы">
 <!ENTITY bookmark_add_folder "Жаңа буманы қосу">
 
