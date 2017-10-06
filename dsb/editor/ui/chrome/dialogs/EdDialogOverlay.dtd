@@ -12,7 +12,9 @@
 <!ENTITY makeUrlRelative.label "URL jo relatiwny k bokoju adrese">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Mjazy relatiwnym a absolutnym URL pśeměniś. Dejśo nejpjerwjej bok składowaś, aby to změnił.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Zapódajśo adresu webowego boka, lokalneje dataje abo wubjeŕśo pomjenjonu kokulu abo nadpismo z wuskokujuceje lisćiny:">
 <!ENTITY LinkURLEditField.accessKey "Z">
+<!ENTITY LinkURLEditField2.label "Zapódajśo adresu webowego boka, lokalneje dataje abo wubjeŕśo pomjenjonu kokulu abo nadpismo z kontekstowego menija póla:">
+<!ENTITY LinkURLEditField2.accessKey "b">
