@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Výnimky">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Server">
+<!ENTITY treehead.sitename.label      "Stránka">
 <!ENTITY treehead.status.label        "Stav">
 <!ENTITY removepermission.label       "Odstrániť server">
 <!ENTITY removepermission.accesskey   "s">
