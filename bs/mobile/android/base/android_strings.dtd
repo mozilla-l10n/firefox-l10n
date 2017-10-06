@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; stavke">
 <!ENTITY bookmark_folder_one_item "1 stavka">
+<!ENTITY bookmark_folder_updated "Direktorij ažuriran">
 <!ENTITY bookmark_parent_folder "Nadređeni direktorij">
 <!ENTITY bookmark_add_folder "Dodaj novi direktorij">
 
