@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_passwords2 'Identifiants'>
 <!ENTITY fxaccount_status_tabs 'Onglets ouverts'>
 <!ENTITY fxaccount_status_additional_settings 'Paramètres supplémentaires'>
-<!ENTITY fxaccount_pref_sync_use_metered2 'Synchroniser uniquement via Wi-Fi'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Ne synchroniser que via Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'Mentions légales' >
