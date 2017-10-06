@@ -203,9 +203,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ ക്യാമറ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ മൈക്രോഫോൺ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
+<!ENTITY urlbar.screenBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുവാൻ സാധ്യമല്ല.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ഈ വെബ് സൈറ്റിന് നിങ്ങൾ എവിടെയെന്നുള്ള വിവരം ലഭ്യമല്ല.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ഈ വെബ് സൈറ്റിന് അറിയിപ്പുകൾ ലഭ്യമല്ല.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
+<!ENTITY searchItem.title             "തെരയുക">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "പൂമുഖം">
@@ -213,6 +219,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "അടയാളങ്ങള്‍">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "അടയാളക്കുറിപ്പുകൾ">
+<!ENTITY bookmarksMenuButton2.label         "അടയാളക്കുറിപ്പുകളുടെ പട്ടിക">
 <!ENTITY bookmarksMenuButton.other.label    "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY viewBookmarksSidebar2.label        "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
 <!ENTITY viewBookmarksToolbar.label         "അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക">
