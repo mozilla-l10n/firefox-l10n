@@ -109,7 +109,31 @@
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Trastrekita">
 <!ENTITY styleStrikeThruCmd.accesskey "T">
+<!ENTITY styleSuperscriptCmd.label "Superindica">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Subindica">
+<!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Sen salto de linio">
+<!ENTITY styleNonbreakingCmd.accesskey "l">
+<!ENTITY styleEm.label "Emfazo">
+<!ENTITY styleEm.accesskey "E">
+<!ENTITY styleStrong.label "Pli forta emfazo">
+<!ENTITY styleStrong.accesskey "f">
+<!ENTITY styleCite.label "Citaĵo">
+<!ENTITY styleCite.accesskey "C">
+<!ENTITY styleAbbr.label "Mallongigo">
+<!ENTITY styleAbbr.accesskey "M">
+<!ENTITY styleAcronym.label "Akronimo">
+<!ENTITY styleAcronym.accesskey "k">
+<!ENTITY styleCode.label "Kodo">
+<!ENTITY styleCode.accesskey "K">
+<!ENTITY styleSamp.label "Ekzemplo">
+<!ENTITY styleSamp.accesskey "E">
+<!ENTITY styleVar.label "Varia">
+<!ENTITY styleVar.accesskey "V">
 
+<!ENTITY formatFontColor.label "Koloro de teksto…">
+<!ENTITY formatFontColor.accesskey "K">
 
 
 
@@ -141,7 +165,22 @@
 <!-- Toolbar-only items -->
 
 <!-- Editor toolbar -->
+<!ENTITY boldToolbarCmd.tooltip "Dika">
+<!ENTITY italicToolbarCmd.tooltip "Oblikva">
+<!ENTITY underlineToolbarCmd.tooltip "Substrekita">
 
 <!-- Structure Toolbar Context Menu items -->
+<!ENTITY structSelect.label         "Elekti">
+<!ENTITY structSelect.accesskey     "E">
+<!ENTITY structRemoveTag.label      "Forigi etikedon">
+<!ENTITY structRemoveTag.accesskey  "F">
+<!ENTITY structChangeTag.label      "Ŝanĝi etikedon">
+<!ENTITY structChangeTag.accesskey  "e">
 
 <!-- TOC manipulation -->
+<!ENTITY insertTOC.label          "Enmeti">
+<!ENTITY insertTOC.accesskey      "E">
+<!ENTITY updateTOC.label          "Ĝisdatigi">
+<!ENTITY updateTOC.accesskey      "d">
+<!ENTITY removeTOC.label          "Forigi">
+<!ENTITY removeTOC.accesskey      "F">
