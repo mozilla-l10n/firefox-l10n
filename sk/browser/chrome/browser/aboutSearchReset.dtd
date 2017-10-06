@@ -11,7 +11,7 @@
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-<!ENTITY searchreset.selector.label "Toto nastaví váš východzí vyhľadávač na">
+<!ENTITY searchreset.selector.label "Toto nastaví váš predvolený vyhľadávací modul na">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
