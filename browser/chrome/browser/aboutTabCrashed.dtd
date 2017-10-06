@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "ഈ റ്റാബ് അടയ്ക്കുക">
+<!ENTITY tabCrashed.title "ടാബ് ക്രാഷ് റിപോർട്ടർ">
+
+<!ENTITY tabCrashed.closeTab2  "ടാബ് അടയ്കുക">
 <!ENTITY tabCrashed.restoreTab "ഈ ടാബ് പുനഃസ്ഥാപിക്കുക">
 <!ENTITY tabCrashed.restoreAll "എല്ലാ തകർന്ന ടാബുകളും പുനഃസ്ഥാപിക്കുക ">
+
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
      are using it to communicate in an informal way that it is both
@@ -12,17 +15,8 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
-
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "നിങ്ങളുടെ ടാബ് ക്രാഷ് ചെയ്തു.">
+<!ENTITY tabCrashed.offerHelp2 "ഞങ്ങൾ സഹായിക്കാം!">
 <!ENTITY tabCrashed.emailPlaceholder "നിങ്ങളുടെ ഈമെയില്‍ വിലാസം ഇവിടെ നല്‍കുക">
 <!ENTITY tabCrashed.emailMe "കുടുതല്‍ വിവരങ്ങള്‍ ലഭ്യമാകുമ്പോള്‍ എന്നെ ഇമെയില്‍ വഴി അറിയിയ്ക്കുക">
 <!ENTITY tabCrashed.reportSent "തകർച്ചാ റിപ്പോട്ട് മുമ്പേ സമർപ്പിച്ചതാണ്; &brandShortName; മികച്ചതാക്കാൻ സഹായിച്ചതിനു നന്ദി!">
-
-

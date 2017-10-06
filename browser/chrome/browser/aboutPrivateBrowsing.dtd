@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "നിങ്ങളെ അജ്ഞാതനാക്കുന്നില്ല">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ഇന്റര്‍നെറ്റില്‍. നിങ്ങളുടെ സ്ഥാപത്തിനോ അല്ലെങ്കില്‍ ഇന്റര്‍നെറ്റ് സേവന ദാതാവിനോ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന പേജുകള്‍ കാണാം എന്ന് ഓര്‍മ്മിക്കുക.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "കൂടുതൽ അറിയുക ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "സ്വകാര്യ ബ്രൗസിങ്">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "സ്വകാര്യമായ ബ്രൗസിംഗ്">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "പിന്തുടരല്‍ സംരക്ഷണം">
