@@ -33,7 +33,7 @@ available. -->
 <!ENTITY healthReportLearnMore.label     "Pelajari Lebih Lanjut">
 
 <!ENTITY dataCollection.label            "&brandShortName; Pengumpulan dan Penggunaan Data">
-<!ENTITY dataCollectionDesc.label        "Kami berusaha memberi anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan &brandShortName; untuk semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.">
+<!ENTITY dataCollectionDesc.label        "Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan &brandShortName; bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Pemberitahuan Privasi">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Izinkan &brandShortName; untuk mengirim laporan mogok ke Mozilla">
