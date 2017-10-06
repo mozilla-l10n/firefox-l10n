@@ -48,3 +48,4 @@
 <!ENTITY lightning.toolbar.calendarmenu.label        "Okno kalendara">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Prikaži okno kalendara">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "P">
