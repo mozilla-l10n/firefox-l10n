@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Quando io quita &brandShortName;, illo debe automaticamente vacuar:">
 
+<!ENTITY clearDataSettings3.label     "Quando io quita &brandShortName;, illo debe automaticamente vacuar omne">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->

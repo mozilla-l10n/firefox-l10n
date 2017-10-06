@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Adder al Menu Disbordante">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Adder al menu disbordante">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover al barra de instrumentos">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener plus themas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
+<!ENTITY customizeMode.overflowList.title2 "Menu disbordante">
+<!ENTITY customizeMode.overflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
 <!ENTITY customizeMode.uidensity "Densitate">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
