@@ -22,10 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Gaž &brandShortName; se kóńcy, by měło se wšykno awtomatiski wulašowaś:">
+
+<!ENTITY clearDataSettings3.label     "Gaž &brandShortName; se kóńcy, by měło se wšykno awtomatiski wulašowaś">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Cas za wuproznjenje: ">
 <!ENTITY clearTimeDuration.accesskey      "C">
 <!ENTITY clearTimeDuration.lastHour       "Zachadna góźina">
@@ -36,10 +38,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Drobnostki">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
@@ -60,8 +62,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "A">
 <!ENTITY itemSitePreferences.label         "Sedłowe nastajenja">
 <!ENTITY itemSitePreferences.accesskey     "S">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Toś ta akcija njedajo se anulěrowaś.">
