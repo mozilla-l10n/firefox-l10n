@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; من العناصر">
 <!ENTITY bookmark_folder_one_item "عنصر واحد">
+<!ENTITY bookmark_folder_updated "حُدّث المجلد">
 <!ENTITY bookmark_parent_folder "المجلد الأب">
 <!ENTITY bookmark_add_folder "أضِف مجلدا جديدا">
 
