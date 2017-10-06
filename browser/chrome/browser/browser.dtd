@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Көбірек темаларды алу">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
 <!ENTITY customizeMode.emptyOverflowList.description "Нәрселерді қолжетерлік, бірақ құралдар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
+<!ENTITY customizeMode.overflowList.title2 "Қайта аймалау мәзірі">
+<!ENTITY customizeMode.overflowList.description "Нәрселерді қолжетерлік, бірақ құралдар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
 <!ENTITY customizeMode.uidensity "Тығыздығы">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
