@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Управљач додацима">
+<!ENTITY addons.windowTitle                   "Менаџер додатака">
 
 <!ENTITY search.placeholder                   "Претражи све додатке">
 <!ENTITY search.buttonlabel                   "Претражи">
@@ -25,6 +25,7 @@
 
 <!ENTITY cmd.back.tooltip                     "Назад за једну страну">
 <!ENTITY cmd.forward.tooltip                  "Напред за једну страну">
+
 
 <!ENTITY showUnsignedExtensions.button.label  "Неке екстензије нису могле бити потврђене">
 <!ENTITY showAllExtensions.button.label       "Прикажи све екстензије">
@@ -258,7 +259,6 @@
 <!ENTITY pluginDeprecation.description "Нешто недостаје? &brandShortName; више не подржава неке прикључке.">
 <!ENTITY pluginDeprecation.learnMore "Сазнајте више.">
 
-<!ENTITY legacyWarning.description "Нешто вам недостаје? &brandShortName; више не подржава неке екстензије.">
 <!ENTITY legacyWarning.showLegacy "Прикажи застареле екстензије">
 <!ENTITY legacyExtensions.title "Застареле екстензије">
 <!ENTITY legacyExtensions.description "Ове екстензије не подржавају тренутни &brandShortName; стандард тако да су онемогућене.">

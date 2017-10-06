@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
 <!ENTITY customizeMode.emptyOverflowList.description "Превуците и спустите ставке овде како бисте их држали близу али ван алатне траке…">
 <!ENTITY customizeMode.overflowList.title2 "Додатна трака">
-<!ENTITY customizeMode.overflowList.description "Превуците и спустите овде ставке да их имате на дохват руке али ван ваше алатне траке…">
+<!ENTITY customizeMode.overflowList.description "Превуците овде ставке да их имате на дохват руке али ван ваше алатне траке…">
 <!ENTITY customizeMode.uidensity "Збијеност">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
