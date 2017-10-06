@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrastra y suelta elementos aquí para mantenerlos a la mano pero fuera de la barra de herramientas…">
+<!ENTITY customizeMode.overflowList.title2 "Menú de desbordamiento">
+<!ENTITY customizeMode.overflowList.description "Arrastra y suelta los objetos aquí para mantenerlos dentro del alcance pero fuera de la barra de herramientas…">
 <!ENTITY customizeMode.uidensity "Densidad">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
