@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "Tafoege">
 <!ENTITY col.lastmodified.label  "Lêst wizige">
 
-<!ENTITY search.placeholder  "Sykje">
+<!ENTITY historySearch.placeholder  "Skiednis trochsykje">
+<!ENTITY bookmarksSearch.placeholder  "Blêdwizers trochsykje">
 
 <!ENTITY cmd.find.key  "f">
 
