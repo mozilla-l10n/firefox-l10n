@@ -17,6 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "നിങ്ങളുടെ ടാബ് ക്രാഷ് ചെയ്തു.">
 <!ENTITY tabCrashed.offerHelp2 "ഞങ്ങൾ സഹായിക്കാം!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "താൾ വീണ്ടെടുക്കുന്നതിന് &tabCrashed.restoreTab; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "താളുകൾ വീണ്ടെടുക്കുന്നതിന് &tabCrashed.restoreTab; അല്ലെങ്കിൽ &tabCrashed.restoreAll; തെരഞ്ഞെടുക്കുക.">
+<!ENTITY tabCrashed.requestHelp "ഞങ്ങളെ സഹായിക്കുമോ?">
+<!ENTITY tabCrashed.requestHelpMessage "പ്രശ്നങ്ങൾ കണ്ടുപിടിച്ച് &brandShortName;-നെ മെച്ചപ്പെടുത്തുന്നതിന് ക്രാഷ് റിപോർട്ടുകൾ സഹായിക്കുന്നു.">
+<!ENTITY tabCrashed.requestReport "ഈ ടാബ് റിപോർട്ട് ചെയ്യുക">
+<!ENTITY tabCrashed.sendReport3 "ഇത്തരത്തിലുള്ള പ്രശ്നങ്ങൾ പരിഹരിക്കുന്നതിന് ഓട്ടോമേറ്റഡ് ക്രാഷ് റിപോർട്ട് അയയ്ക്കുക.">
+<!ENTITY tabCrashed.commentPlaceholder2 "നിർബന്ധമല്ലാത്ത കമന്റുകൾ (ഇവ എല്ലാവർക്കും കാണാം)">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName; ക്രാഷ് ചെയ്തപ്പോൾ നിങ്ങൾ ബ്രൗസ് ചെയ്തുകൊണ്ടിരുന്ന സൈറ്റുകളുടെ യുആർഎൽ ഉൾപ്പെടുത്തുക.">
 <!ENTITY tabCrashed.emailPlaceholder "നിങ്ങളുടെ ഈമെയില്‍ വിലാസം ഇവിടെ നല്‍കുക">
 <!ENTITY tabCrashed.emailMe "കുടുതല്‍ വിവരങ്ങള്‍ ലഭ്യമാകുമ്പോള്‍ എന്നെ ഇമെയില്‍ വഴി അറിയിയ്ക്കുക">
 <!ENTITY tabCrashed.reportSent "തകർച്ചാ റിപ്പോട്ട് മുമ്പേ സമർപ്പിച്ചതാണ്; &brandShortName; മികച്ചതാക്കാൻ സഹായിച്ചതിനു നന്ദി!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "പശ്ചാത്തലത്തിലുള്ള ടാബുകൾ റിപോർട്ട് ചെയ്യുക">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; ക്രാഷ് ചെയ്യുമ്പോൾ ഓട്ടോമാറ്റിക്കായി റിപോർട്ടുകൾ രേഖപ്പെടുത്തുന്നതിന് മുൻഗണനകൾ സജ്ജമാക്കുക.">
