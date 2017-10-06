@@ -108,7 +108,10 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Site geçici olarak kapalı veya çok meşgul olabilir. Biraz bekleyip yeniden deneyin.</li> <li>Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul>
+  <li>Site geçici olarak kapalı, çok meşgul veya engellenmiş olabilir. Biraz bekleyip yeniden deneyin.</li>
+  <li>Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li>
+  <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu ile korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
 
 <!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
