@@ -186,7 +186,7 @@
 
 <!ENTITY options.sourceeditor.label                     "Настройки на редактора">
 <!ENTITY options.sourceeditor.detectindentation.label   "Разпознаване на отстъп">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Предполагане на използваният отстъп, изследвайки съдържанието на кода">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Предугаждане на използвания отстъп, чрез изследване на кода">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Автоматично затваряне на скоби">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Автоматично вмъкване на затваряща скоба">
 <!ENTITY options.sourceeditor.expandtab.label           "Интервали за отстъп">
