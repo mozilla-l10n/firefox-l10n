@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Apabila saya keluar &brandShortName;, sepatutnya dibuang secara automatik:">
 
+<!ENTITY clearDataSettings3.label     "Apabila saya keluar &brandShortName;, sepatutnya dibuang secara automatik">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
