@@ -67,9 +67,27 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "Privremeno">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Privremeno prihvati poziv na događaj">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Sve privremeno">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Privremeno prihvati poziv za sva ponavljanja događaja">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Ažuriraj">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ažuriraj događaj u kalendaru">
+<!ENTITY lightning.imipbar.description                                      "Ova poruka sadrži pozivnicu na događaj.">
 
 <!-- Lightning specific keybindings -->
+<!ENTITY lightning.keys.event.showCalendar.key "C">
+<!ENTITY lightning.keys.event.showTasks.key "D">
+<!ENTITY lightning.keys.event.new "I">
+<!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
+<!ENTITY lightning.acctCentral.newCalendar.label "Napravi novi kalendar">
 
 <!-- today-pane-specific -->
+<!ENTITY todaypane.showMinimonth.label "Prikaži Mini-mjesec">
+<!ENTITY todaypane.showMinimonth.accesskey "M">
+<!ENTITY todaypane.showMiniday.label "Prikaži Mini-dan">
+<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showNone.label "Ne prikazuj ništa">
+<!ENTITY todaypane.showNone.accesskey "N">
+<!ENTITY todaypane.showTodayPane.label "Prikaži okno današnjih događaja">
+<!ENTITY todaypane.showTodayPane.accesskey "o">
+<!ENTITY todaypane.statusButton.label "Današnje okno">
