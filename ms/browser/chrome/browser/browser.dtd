@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Lebih Banyak Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…">
+<!ENTITY customizeMode.overflowList.title2 "Menu Limpahan">
+<!ENTITY customizeMode.overflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…">
 <!ENTITY customizeMode.uidensity "Ketumpatan">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
