@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 <!ENTITY customizeMode.emptyOverflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
+<!ENTITY customizeMode.overflowList.title2 "Rozširujúca ponuka">
+<!ENTITY customizeMode.overflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
 <!ENTITY customizeMode.uidensity "Hustota">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
