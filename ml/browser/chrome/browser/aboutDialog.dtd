@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "പ">
-<!ENTITY update.updateButton.label3               "&brandShorterName; പരിഷ്കരിക്കുന്നതിന് വീണ്ടും ആരംഭിക്കുക">
+<!ENTITY update.updateButton.label3               "ഫയലുകള്‍ വേണ്ടവിധത്തില്‍ നവീകരിക്കൻ വീണ്ടും പുനരാരംഭിക്കുക &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -67,7 +67,7 @@
 <!ENTITY update.adminDisabled       "സിസ്റ്റം അഡ്മിനിസ്ട്രേറ്റര്‍ പുതുക്കല്‍ അനുവദിക്കുന്നില്ല">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "മറ്റൊരു ഇന്‍സ്റ്റന്‍സ് &brandShortName; പുതുക്കുന്നു">
-<!ENTITY update.restarting          "വീണ്ടും ആരംഭിക്കുന്നു...">
+<!ENTITY update.restarting          "വീണ്ടും പുനരാരംഭിക്കുന്നു…">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
