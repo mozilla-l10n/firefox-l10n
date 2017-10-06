@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
 <!ENTITY customizeMode.emptyOverflowList.description "Llusgwch a gollwng eitemau yma i'w cadw o fewn gafael ond allan o'ch bar offer…">
+<!ENTITY customizeMode.overflowList.title2 "Dewislen Gorlif">
+<!ENTITY customizeMode.overflowList.description "Llusgwch a gollwng yr eitemau hyn yma i'w cadw o fewn cyrraedd ond allan o'ch bar offer…">
 <!ENTITY customizeMode.uidensity "Dwysedd">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
