@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha fazla tema indirin">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Araç çubuğunda görmek istemediğiniz ama kolayca ulaşmak istediğiniz öğeleri sürükleyip buraya bırakın.">
+<!ENTITY customizeMode.overflowList.title2 "Taşma menüsü">
+<!ENTITY customizeMode.overflowList.description "Araç çubuğunda görmek istemediğiniz ama kolayca ulaşmak istediğiniz öğeleri sürükleyip buraya bırakın.">
 <!ENTITY customizeMode.uidensity "Yoğunluk">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
