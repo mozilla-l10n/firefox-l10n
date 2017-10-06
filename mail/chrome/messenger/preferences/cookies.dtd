@@ -6,7 +6,7 @@
 
 <!ENTITY cookiesonsystem.label             "Tieto cookies sú uložené v počítači:">
 <!ENTITY cookiename.label                  "Názov cookie">
-<!ENTITY cookiedomain.label                "Server">
+<!ENTITY cookiedomain.label                "Stránka">
 <!ENTITY button.removecookie.label         "Odstrániť cookie">
 <!ENTITY button.removecookie.accesskey     "O">
 <!ENTITY button.removeallcookies.label     "Odstrániť všetky cookie">
