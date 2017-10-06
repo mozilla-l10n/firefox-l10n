@@ -42,6 +42,10 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "പ">
 <!ENTITY  unpinTab.label                     "റ്റാബ് അണ്‍പിന്‍ ചെയ്യുക">
 <!ENTITY  unpinTab.accesskey                 "അ">
+<!ENTITY  sendTabToDevice.label              "ഡിവൈസിലേക്ക് ടാബ് അയയ്ക്കുക">
+<!ENTITY  sendPageToDevice.label             "ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക">
+<!ENTITY  sendLinkToDevice.label             "ഡിവൈസിലേക്ക് കണ്ണി അയയ്ക്കുക">
+<!ENTITY  sendToDeviceFeedback.label         "അയച്ചു!">
 <!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "എല്ലാ ടാബുകളും അടയാളപ്പെടുത്തുക…">
