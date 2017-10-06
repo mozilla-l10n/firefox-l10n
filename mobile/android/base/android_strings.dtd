@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "Število predmetov: &formatD;">
 <!ENTITY bookmark_folder_one_item "1 predmet">
+<!ENTITY bookmark_folder_updated "Mapa posodobljena">
 <!ENTITY bookmark_parent_folder "Nadrejena mapa">
 <!ENTITY bookmark_add_folder "Dodaj novo mapo">
 
