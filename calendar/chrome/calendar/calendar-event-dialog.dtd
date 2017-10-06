@@ -38,6 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Her katılımcı için ayrı davetiye">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Bu seçenek katılımcı başına bir e-posta daveti gönderir. Her davet, diğer katılımcı kimliklerini ifşa etmeyecek şekilde alıcı katılımcıyı içerir.">
+<!ENTITY event.attendees.disallowcounter.label       "Geri çevirmeye izin verme">
+<!ENTITY event.attendees.disallowcounter.accesskey   "g">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Karşı teklifleri kabul etmeyeceğinizi gösterir">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -75,6 +78,7 @@
    - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.save.label                      "Kaydet">
 <!ENTITY  event.menu.item.save.accesskey                  "K">
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
@@ -83,6 +87,7 @@
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Kaydet ve kapat">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "a">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Sil…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
@@ -183,7 +188,11 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Teklifi uygula">
+<!ENTITY counter.button.proposal.accesskey                "u">
 <!ENTITY counter.button.proposal.tooltip2                 "Etkinlik sahaları karşı teklifteki değerlerle doldurulacak, sadece ek değişiklikler olan veya olmayan kaydetme işlemi tüm katılımcıların buna göre uyarılmasını sağlayacak">
+<!ENTITY counter.button.original.label                    "Özgün veriyi uygula">
+<!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Sahalar karşı teklif yapılmadan önceki özgün etkinlikteki değerlerle doldurulacak">
 
 <!-- Main page -->
@@ -197,6 +206,7 @@
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "m">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
+<!ENTITY event.attendees.accesskey                        "n">
 <!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
 <!ENTITY event.alldayevent.accesskey                      "ü">
 <!ENTITY event.from.label                                 "Başlangıç:" >
