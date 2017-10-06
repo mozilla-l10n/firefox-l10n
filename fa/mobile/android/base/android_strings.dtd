@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; موارد">
 <!ENTITY bookmark_folder_one_item "۱ مورد">
+<!ENTITY bookmark_folder_updated "پوشه بروزرسانی شد">
 <!ENTITY bookmark_parent_folder "پوشهٔ والد">
 <!ENTITY bookmark_add_folder "اضافه کردن پوشه جدید">
 
