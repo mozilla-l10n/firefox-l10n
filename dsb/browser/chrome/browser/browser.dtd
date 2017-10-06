@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
+<!ENTITY customizeMode.overflowList.title2 "Woběžkowy meni">
+<!ENTITY customizeMode.overflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
 <!ENTITY customizeMode.uidensity "Gustosć">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
