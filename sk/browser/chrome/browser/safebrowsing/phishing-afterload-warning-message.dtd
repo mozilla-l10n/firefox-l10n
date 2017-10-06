@@ -35,15 +35,20 @@
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "Stránka <span id='unwanted_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>. Môžete sa rozhodnúť <a id='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "Stránka <span id='unwanted_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>.">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Ďalšie informácie o škodlivom a nechcenom softvére nájdete na stránke <a id='learn_more_link'>Unwanted Software Policy</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Podvodná stránka">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Prehliadač &brandShortName; zablokoval túto stránku, pretože by vás mohla podvodom prinútiť k niečomu nebezpečnému, napríklad k inštalácii softvéru alebo k prezradeniu osobných informácií, napríklad hesiel alebo čísla platobnej karty.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "Stránka <span id='phishing_sitename'/> bola <a id='error_desc_link'> nahlásená ako podvodná stránka</a>. Môžete nahlásiť <a id='report_detection'>chybu v detekcii</a> alebo sa rozhodnúť <a id='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "Stránka <span id='phishing_sitename'/> bola <a id='error_desc_link'> nahlásená ako podvodná stránka</a>. Môžete nahlásiť <a id='report_detection'>chybu v detekcii</a>.">
 
 <!ENTITY safeb.blocked.phishingPage.learnMore "Ďalšie informácie o podvodných stránkach a phishingu nájdete na <a id='learn_more_link'>www.antiphishing.org</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
 
@@ -52,6 +57,8 @@
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Prehliadač &brandShortName; zablokoval túto stránku, pretože by sa mohla pokúsiť nainštalovať do vášho zariadenia nebezpečné aplikácie, ktoré by mohli ukradnúť alebo odstrániť vaše údaje (napríklad fotky, heslá, správy či údaje kreditných kariet).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "Stránka <span id='harmful_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka s potenciálne škodlivou aplikáciou</a>. Môžete sa rozhodnúť <a id='ignore_warning_link'>ignorovať toto riziko</a> a pokračovať na túto nebezpečnú stránku.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "Stránka <span id='harmful_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka s potenciálne škodlivou aplikáciou</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
