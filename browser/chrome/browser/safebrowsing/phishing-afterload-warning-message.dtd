@@ -26,7 +26,9 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.override "Stránka <span id='malware_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>. Môžete nahlásiť <a id='report_detection'>chybu v detekcii</a> alebo sa rozhodnúť <a id='ignore_warning_link'>ignorovať riziko</a> a pokračovať na túto nebezpečnú stránku.">
 
+<!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "Stránka <span id='malware_sitename'/> bola <a id='error_desc_link'> nahlásená ako stránka so škodlivým softvérom</a>. Môžete nahlásiť <a id='report_detection'>chybu v detekcii</a>.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "Ďalšie informácie o škodlivom obsahu na webe, ako sú vírusy a ďalší malvér a o tom, ako chrániť svoj počítač nájdete na <a id='learn_more_link'>StopBadware.org</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Táto stránka môže obsahovať škodlivé programy">
@@ -35,6 +37,7 @@
 
 
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Ďalšie informácie o škodlivom a nechcenom softvére nájdete na stránke <a id='learn_more_link'>Unwanted Software Policy</a>. Ďalšie informácie o ochrane pred phishingom a malvérom v aplikácii &brandShortName; nájdete na <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Podvodná stránka">
