@@ -12,7 +12,9 @@
 <!ENTITY makeUrlRelative.label "URL-en er relativ til sidens adresse">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Bytt mellom relativ og absolutt URL. Du må først lagre siden for å endre dette.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Skriv inn en nettsideadresse, navnet til en lokal fil, eller velg et navngitt anker eller overskrift fra nedtrekksmenyen:">
 <!ENTITY LinkURLEditField.accessKey "n">
+<!ENTITY LinkURLEditField2.label "Skriv inn en nettsideadresse, navnet til en lokal fil, eller velg et navngitt anker eller overskrift fra feltets kontekstmeny:">
+<!ENTITY LinkURLEditField2.accessKey "n">
