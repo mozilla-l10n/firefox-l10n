@@ -19,7 +19,7 @@
 <!ENTITY  notificationSettingsButton.accesskey                  "n">
 <!ENTITY  notificationPermissionsLearnMore.label                "Ďalšie informácie">
 
-<!ENTITY  locationPermissions.label                             "Umiestnenie">
+<!ENTITY  locationPermissions.label                             "Poloha">
 <!ENTITY  locationSettingsButton.label                          "Nastavenia…">
 <!ENTITY  locationSettingsButton.accesskey                      "e">
 
