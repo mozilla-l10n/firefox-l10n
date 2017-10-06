@@ -22,10 +22,12 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "هنگامی که از &brandShortName; خارج می‌شوم، موارد زیر باید به صورت خودکار پاک شوند:">
+
+<!ENTITY clearDataSettings3.label     "وقتی من &brandShortName; را ترک می‌کنم،‌ بایستی همه چیز را پاک‌سازی کند">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "بازهٔ زمانی برای پاک‌سازی: ">
 <!ENTITY clearTimeDuration.accesskey      "ب">
 <!ENTITY clearTimeDuration.lastHour       "ساعت گذشته">
@@ -36,10 +38,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "جزئیات">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ج">
 
@@ -60,8 +62,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "ن">
 <!ENTITY itemSitePreferences.label         "ترجیحات سایت">
 <!ENTITY itemSitePreferences.accesskey     "س">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "این عمل قابل واگرد نیست.">
