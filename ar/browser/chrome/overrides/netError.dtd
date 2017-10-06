@@ -42,6 +42,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "افتح صفحة الولوج إلى الشبكة">
 
+<!ENTITY malformedURI.pageTitle "مسار غير صحيح">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY malformedURI.title1 "لا يبدو أن هذا العنوان صحيح.">
 
