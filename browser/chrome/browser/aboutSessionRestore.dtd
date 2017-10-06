@@ -8,6 +8,8 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Sorry. I doch ús swier om jo siden werom te krijen.">
 
+<!ENTITY restorepage.tryagainButton2 "Sesje werstelle">
+<!ENTITY restorepage.restore.access2 "S">
 <!ENTITY restorepage.closeButton2    "Nije sesje starte">
 <!ENTITY restorepage.close.access2   "N">
 

@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Beskerming tsjin folgjen brûke yn priveefinsters">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Beskerming tsjin folgjen brûke yn Priveenavigaasje om bekende folgers te blokkearjen">
 <!ENTITY trackingProtectionPBM6.accesskey     "f">
 <!ENTITY trackingProtectionPBMLearnMore.label "Mear ynfo">
@@ -117,3 +118,4 @@
 <!ENTITY  a11yPrivacy.checkbox.label     "Tagong ta jo browser troch tagonklikheidstsjinsten opkeare">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "Mear ynfo">
+<!ENTITY enableSafeBrowsingLearnMore.label "Mear ynfo">
