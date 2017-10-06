@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "H">
 <!ENTITY customizeMode.emptyOverflowList.description "Dra og slipp elementer her for å ha dem innen rekkevidde, men ute av verktøylinja…">
+<!ENTITY customizeMode.overflowList.title2 "Overflytsmeny">
+<!ENTITY customizeMode.overflowList.description "Dra og slipp elementer her for å ha dem innen rekkevidde, men ute av verktøylinja…">
 <!ENTITY customizeMode.uidensity "Tetthet">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
