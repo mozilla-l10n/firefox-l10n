@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; iferdisen">
 <!ENTITY bookmark_folder_one_item "1 aferdis">
+<!ENTITY bookmark_folder_updated "Akaram ittwalqem">
 <!ENTITY bookmark_parent_folder "Akaram agejdan">
 <!ENTITY bookmark_add_folder "Rnu akaram amaynut">
 
