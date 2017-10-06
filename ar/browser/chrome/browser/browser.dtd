@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
 <!ENTITY customizeMode.emptyOverflowList.description "اسحب و أفلت العناصر هنا لإبقائهم في متناول يدك لكن خارج شريط الأدوات…">
+<!ENTITY customizeMode.overflowList.title2 "قائمة الزيادة">
 <!ENTITY customizeMode.overflowList.description "اسحب وأسقِط العناصر هنا لتبقيها قريبة منك ولكن خارج شريط الأدوات…">
 <!ENTITY customizeMode.uidensity "الكثافة">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
