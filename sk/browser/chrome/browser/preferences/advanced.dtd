@@ -123,7 +123,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Odstránenie údajov pre režim offline">
 
 <!ENTITY certificateTab.label            "Certifikáty">
-<!ENTITY certPersonal2.description       "Pokiaľ stránka požaduje môj osobný certifikát">
+<!ENTITY certPersonal2.description       "Pokiaľ server požaduje môj osobný certifikát">
 <!ENTITY selectCerts.auto                "Vybrať automaticky">
 <!ENTITY selectCerts.auto.accesskey      "m">
 <!ENTITY selectCerts.ask                 "Vždy sa opýtať">

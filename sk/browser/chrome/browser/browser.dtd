@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvorí panel správ offline úložiska">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvorí panel správ uloženia hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať upozornenia">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo stránky prijímať upozornenia">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 
@@ -715,7 +715,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Základný štýl stránky">
 <!ENTITY pageStylePersistentOnly.accesskey "Z">
 
-<!ENTITY pageReportIcon.tooltip            "Zmeniť nastavenie blokovania vyskakovacích okien pre tento server">
+<!ENTITY pageReportIcon.tooltip            "Zmeniť nastavenie blokovania vyskakovacích okien pre túto stránku">
 
 <!ENTITY allowPopups.accesskey "o">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -957,7 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
 <!ENTITY updateAvailable.cancelButton.label "Teraz nie">
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
-<!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu &brandShorterName;u">
+<!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu aplikácie &brandShorterName;">
 
 <!ENTITY updateManual.message "Prevezmite si novú verziu aplikácie &brandShorterName; a my vám pomôžeme ju nainštalovať.">
 <!ENTITY updateManual.whatsnew.label "Pozrite sa, čo je nové.">

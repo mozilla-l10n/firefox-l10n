@@ -72,7 +72,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Do filtra zadajte geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Dvakrát kliknite na voľbu geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Služba Prehliadanie s geolokáciou je teraz vypnutá">
+<!ENTITY rights.locationawarebrowsing-term4 "Prehliadanie so zisťovaním polohy je vypnuté">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Tu by mal byť uvedený prehľad webových služieb zahrnutých v produkte, ako aj návod na ich vypnutie (ak je vypnutie možné).">
