@@ -16,3 +16,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Введите адрес веб-страницы, локального файла или выберите якорь или заголовок с именем из списка:">
 <!ENTITY LinkURLEditField.accessKey "а">
+<!ENTITY LinkURLEditField2.label "Введите адрес веб-страницы, локального файла или выберите якорь или заголовок с именем из контекстного меню поля:">
+<!ENTITY LinkURLEditField2.accessKey "а">
