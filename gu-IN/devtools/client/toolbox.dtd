@@ -92,6 +92,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "મૂળભુત વિકાસકર્તા સાધનો">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -116,6 +117,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "વિકાસકર્તા આવૃત્તિ બ્રાઉઝર થીમનો ઉપયોગ કરો">
+<!ENTITY options.usedeveditiontheme.tooltip "વિકાસકર્તા આવૃત્તિ બ્રાઉઝર થીમને ટોગલ કરે છે.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
@@ -132,6 +135,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "સ્રોત નકશા સક્ષમ કરો">
+<!ENTITY options.sourceMaps.tooltip1   "જો તમે આ વિકલ્પ સ્રોતોને સક્ષમ કરો છો તો ટૂલ્સમાં સરખાવવામાં આવશે.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -146,9 +151,11 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "સ્ક્રીનશૉટ વર્તન">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "ક્લિપબોર્ડ પર સ્ક્રીનશૉટ">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
