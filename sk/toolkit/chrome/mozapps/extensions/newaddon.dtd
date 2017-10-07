@@ -5,9 +5,10 @@
 <!ENTITY title           "Inštalácia doplnku">
 <!ENTITY intro           "Niektorý z ďalších programov nainštalovaných vo vašom počítači sa pokúša upraviť
                           &brandShortName; pomocou nasledujúceho doplnku:">
-<!ENTITY warning         "Inštalujte len doplnky od autorov, ktorým veríte.">
+<!ENTITY warning         "Inštalujte doplnky len od autorov, ktorým dôverujete.">
 <!ENTITY allow           "Povoliť túto inštaláciu">
-<!ENTITY later           "Svoje rozhodnutie môžete kedykoľvek zmeniť v okne Správcu doplnkov.">
+<!ENTITY later           "Svoje rozhodnutie môžete kedykoľvek zmeniť
+                          pomocou Správcu doplnkov.">
 <!ENTITY continue        "Pokračovať">
 <!ENTITY restartMessage  "Na dokončenie inštalácie tohto doplnku je potrebné &brandShortName; reštartovať.">
 <!ENTITY restartButton   "Reštartovať &brandShortName;">
