@@ -50,7 +50,7 @@
 <!ENTITY pasteCmd.label                   "Coller">
 <!ENTITY pasteCmd.key                     "V">
 <!ENTITY pasteCmd.accesskey               "o">
-<!ENTITY pasteGoCmd.label                 "Coller et aller">
+<!ENTITY pasteGoCmd.label                 "Coller et ouvrir">
 <!ENTITY pasteGoCmd.accesskey             "e">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
