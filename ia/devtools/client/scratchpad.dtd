@@ -20,7 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Quaderno de schizzos">
+<!ENTITY window.title                 "Ardesia">
 
 <!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
@@ -124,7 +124,7 @@
 <!ENTITY helpMenuWin.label            "Adjuta">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Adjuta del quaderno de schizzos in MDN">
+<!ENTITY documentationLink.label      "Adjuta del ardesia sur MDN">
 <!ENTITY documentationLink.accesskey  "D">
 
 
