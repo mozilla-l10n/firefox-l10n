@@ -857,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरु ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
 <!ENTITY customizeMode.overflowList.title2 "ओभरफ्लो मेनु">
+<!ENTITY customizeMode.overflowList.description "उपकरणपट्टि बाट बाहिर तर यहिँबाट पहुँच लिनको लागि ति चिजहरू ड्रयाग गरेर यहाँ खसाल्नुहोस्…">
 <!ENTITY customizeMode.uidensity "घनत्व">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
