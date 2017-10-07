@@ -28,7 +28,7 @@
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "Yer imlerinin, geçmişin veya parola verisinin kayıtlı olduğu hiçbir program bulunamadı.">
+<!ENTITY noMigrationSources.label       "Yer imlerinin, geçmişin veya parola verilerinin kayıtlı olduğu hiçbir program bulunamadı.">
 
 <!ENTITY importSource.title             "Ayarları ve verileri içe aktarma">
 <!ENTITY importItems.title              "İçe aktarılacak öğeler">
