@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ร">
 <!ENTITY customizeMode.emptyOverflowList.description "ลากแล้วปล่อยรายการที่นี่เพื่อเก็บไว้ใกล้เอื้อมแต่อยู่นอกแถบเครื่องมือของคุณ…">
+<!ENTITY customizeMode.overflowList.title2 "เมนูล้น">
+<!ENTITY customizeMode.overflowList.description "ลากแล้วปล่อยรายการที่นี่เพื่อเก็บไว้ใกล้เอื้อมแต่อยู่นอกแถบเครื่องมือของคุณ…">
 <!ENTITY customizeMode.uidensity "ความหนาแน่น">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
