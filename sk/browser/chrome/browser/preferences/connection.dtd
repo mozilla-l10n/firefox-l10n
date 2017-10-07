@@ -7,7 +7,7 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k sieti Internet">
+<!ENTITY  proxyTitle.label              "Nastavenie serverov proxy pre prístup k internetu">
 <!ENTITY  noProxyTypeRadio.label        "Nepoužívať server proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "e">
 <!ENTITY  systemTypeRadio.label         "Použiť systémové nastavenia serverov proxy">
@@ -33,7 +33,7 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Použiť server proxy pre DNS pri použití SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "l">
+<!ENTITY  socksRemoteDNS.accesskey      "u">
 <!ENTITY  port2.label                   "Port">
 <!ENTITY  HTTPport.accesskey            "t">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Príklad: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Použiť tento server proxy pre všetky protokoly">
 <!ENTITY  shareproxy.accesskey          "x">
-<!ENTITY  autologinproxy.label          "Nevyžadovať zadanie autorizačných údajov, ak ich má prehliadač uložené">
+<!ENTITY  autologinproxy.label          "Nevyžadovať autorizáciu, ak je heslo uložené">
 <!ENTITY  autologinproxy.accesskey      "z">
-<!ENTITY  autologinproxy.tooltip        "Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač si údaje vypýta.">
+<!ENTITY  autologinproxy.tooltip        "Vďaka tejto možnosti sa prehliadač automaticky autorizuje na serveri proxy, ak má preň uložené prihlasovanie údaje. Ak autorizácia zlyhá, prehliadač o údaje požiada.">
