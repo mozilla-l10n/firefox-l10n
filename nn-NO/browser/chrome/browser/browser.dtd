@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fane-sync for å vise ei liste over faner frå dei andre einingane dine.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Søk synkroniserte faner">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -855,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent fleire tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
 <!ENTITY customizeMode.emptyOverflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men utanfor verktøylinja…">
+<!ENTITY customizeMode.overflowList.title2 "Overflytsmeny">
+<!ENTITY customizeMode.overflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men ute av verktøylinja…">
 <!ENTITY customizeMode.uidensity "Densitet">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -901,16 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "S">
 <!ENTITY trackingProtection.block2.label "Slå på vern">
 <!ENTITY trackingProtection.block2.accesskey "å">
-
-<!ENTITY trackingContentBlocked.message "Sporing">
-<!ENTITY trackingContentBlocked.moreinfo "Delar av sida som sporar online-aktiviteten din på nettet er blokkert.">
-<!ENTITY trackingContentBlocked.learnMore "Lær meir">
-<!ENTITY trackingContentBlocked.options "Innstillingar">
-<!ENTITY trackingContentBlocked.unblock2.label "Slå av vern for denne nettstaden">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "S">
-<!ENTITY trackingContentBlocked.block.label "Slå på vern">
-<!ENTITY trackingContentBlocked.block.accesskey "l">
-<!ENTITY trackingContentBlocked.disabled.message "Sporingsvern er slått av">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
@@ -991,3 +984,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer einingar…">
 
 <!ENTITY libraryButton.tooltip "Vis historikk, lagra bokmerker med meir">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
+<!ENTITY accessibilityIndicator.tooltip "Tilgjengefunksjonar aktiverte">
