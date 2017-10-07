@@ -16,3 +16,4 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Skriv in en webbadress, en sökväg till en fil, eller välj ett namngivet ankare i listan:">
 <!ENTITY LinkURLEditField.accessKey "w">
+<!ENTITY LinkURLEditField2.accessKey "w">
