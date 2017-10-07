@@ -7,11 +7,11 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Chyba pripojenia">
-<!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prehliadač nebol schopný nadviazať spojenie.</p><ul><li>Môže byť táto adresa dočasne nedostupná? Skúste to neskôr.</li><li>Nedajú sa vám načítať ani iné stránky?  Skontrolujte pripojenie vášho počítača k internetu.</li><li>Je váš počítač, alebo sieť chránený bránou firewall alebo proxy? Nesprávne nastavenia môžu znemožniť prehľadávanie webu.</li></ul>">
+<!ENTITY connectionFailure.title "Chyba spojenia">
+<!ENTITY connectionFailure.longDesc "<p>Požadovaná stránka existuje, ale prehliadač nebol schopný nadviazať spojenie.</p><ul><li>Môže byť táto adresa dočasne nedostupná? Skúste to neskôr.</li><li>Nedajú sa vám načítať ani iné stránky?  Skontrolujte pripojenie vášho počítača k internetu.</li><li>Je váš počítač, alebo sieť chránený bránou firewall alebo proxy serverom? Nesprávne nastavenia môžu znemožniť prehľadávanie webu.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Bezpečnostné obmedzenie prístupu na port">
-<!ENTITY deniedPortAccess.longDesc "<p>Zadaná adresa (URL) špecifikovala port (napr. <q>mozilla.org:80</q> je port 80 na mozilla.org) , ktorý je normálne určený na <em>iné</em> služby ako prehliadanie webu. Prehliadač požiadavku kvôli vašej ochrane a bezpečnosti neakceptoval.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Zadaná adresa (URL) špecifikovala port (napr. <q>mozilla.org:80</q> je port 80 na mozilla.org), ktorý je normálne určený na <em>iné</em> služby ako prehliadanie webu. Prehliadač požiadavku kvôli vašej ochrane a bezpečnosti zrušil.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa sa nenašla">
 <!ENTITY dnsNotFound.longDesc "<p>Adresa (URL) nezodpovedá žiadnemu známemu serveru a nemožno ju načítať.</p><ul><li>Skontrolujte, či má adresa správny formát.</li><li>Je možné, že server už dlhšie neexistuje.</li><li>Túto chybu môžu zapríčiniť problémy s vašou lokálnou sieťou, proxy serverom alebo DNS serverom.</li></ul>">
@@ -50,22 +50,22 @@
 <!ENTITY netReset.title "Spojenie bolo prerušené">
 <!ENTITY netReset.longDesc "<p>Spojenie bolo nečakane prerušené počas pripájania alebo počas prenosu údajov. Dôvodom môže byť chyba siete niekde na ceste medzi počítačom a serverom. Ak problém pretrváva, preštudujte dokumentáciu alebo sa poraďte so svojím správcom siete alebo poskytovateľom internetu (ISP).</p>">
 
-<!ENTITY netTimeout.title "Čas pre sieťovú operáciu vypršal.ˇ">
+<!ENTITY netTimeout.title "Čas pre sieťovú operáciu vypršal">
 <!ENTITY netTimeout.longDesc "<p>Vypršal čas pri pokuse o pripojenie na zadaný server. Server môže byť preťažený, alebo preťaženie siete spôsobuje prílišné omeškanie dát. Ak sa dá predpokladať, že server je preťažený, skúste pred ďalším pokusom o pripojenie chvíľu počkať. Pokiaľ budú problémy pretrvávať, kontaktujte svojho správcu siete alebo poskytovateľa pripojenia.</p>">
 
-<!ENTITY unknownProtocolFound.title "Chyba: Neznámy protokol">
+<!ENTITY unknownProtocolFound.title "Neznámy protokol">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa (URL) sa začína protokolom, ktorý prehliadač nepozná. Protokol je reťazec na začiatku adresy, ako napríklad http: alebo ftp:, ktorý hovorí prehliadaču, ako sa má pripojiť ku serveru. V tomto prípade je protokol neznámy, takže pripojenie nie je možné. Skontrolujte, či je URL v poriadku a skúste to znovu.</p>">
 
-<!ENTITY proxyConnectFailure.title "Chyba: Proxy server odmietol spojenie">
+<!ENTITY proxyConnectFailure.title "Proxy server odmietol spojenie">
 <!ENTITY proxyConnectFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento odmietol pripojenie.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znova.</li><li>Proxy nemohol vytvoriť pripojenie k počítačovej sieti.</li><li>Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Chyba: Proxy server nenájdený">
+<!ENTITY proxyResolveFailure.title "Proxy server nenájdený">
 <!ENTITY proxyResolveFailure.longDesc "<p>Prehliadač je nakonfigurovaný na používanie proxy servera, ale tento nebol na sieti nájdený.</p><ul><li>Skontrolujte nastavenia proxy servera v prehliadači a skúste to znovu.</li><li>Ak problémy pretrvávajú, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa Internetu.</li></ul>">
 
-<!ENTITY redirectLoop.title "Chyba: Slučka pri presmerovaní">
+<!ENTITY redirectLoop.title "Slučka pri presmerovaní">
 <!ENTITY redirectLoop.longDesc "<p>Prehliadač prerušil spojenie, pretože server smeruje požiadavku sám na seba v nekonečnej slučke.</p><ul><li>Toto nastáva, ak stránka vyžaduje cookies a vy ste cookies nepovolili alebo sú pre túto stránku blokované.</li><li>Toto je častý problém s nastavením servera a <em>NIE</em> vášho počítača.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Chyba: Neplatná odpoveď">
+<!ENTITY unknownSocketType.title "Neplatná odpoveď">
 <!ENTITY unknownSocketType.longDesc "<p>Server odpovedal na sieťovú požiadavku nečakaným spôsobom. Je možné, že adresa (URL) používa nesprávny protokol pre daný port. Alebo je server neštandardne nastavený a používa iné služby ako sa očakáva.</p>">
 
 <!ENTITY nssFailure2.title "Zabezpečené spojenie zlyhalo">
