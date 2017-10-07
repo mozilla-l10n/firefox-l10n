@@ -62,11 +62,16 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. Android అమరికలు &gt; డేటా వాడుక వద్ద “ఆటో-సింక్ డేటా”ను ఎంచుకోండి.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; అమర్పు పూర్తయ్యింది; కానీ ఆటోమెటిగ్గా సింక్రనించడంలేదు. Android అమరికలు &gt; ఖాతాలు వద్ద “ఆటో-సింక్ డేటా” ఎంచుకోండి.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'మీ కొత్త Firefox ఖాతా లోనికి ప్రవేశించడానికి తాకండి.'>
+<!ENTITY fxaccount_status_choose_what 'ఏమి సమకాలీకరించాలో ఎంచుకోండి'>
 <!ENTITY fxaccount_status_bookmarks 'బుక్‌మార్కులు'>
 <!ENTITY fxaccount_status_history 'చరిత్ర'>
 <!ENTITY fxaccount_status_passwords2 'ప్రవేశాలు'>
 <!ENTITY fxaccount_status_tabs 'తెరిచివున్న ట్యాబులు'>
 <!ENTITY fxaccount_status_additional_settings 'అదనపు అమరికలు'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'వై-ఫై లో మాత్రమే సమకాలీకరించండి'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'ఒక సెల్యులార్ లేదా మీటర్ నెట్వర్క్లో సమకాలీకరించకుండా &brandShortName;ను నిరోధించు'>
 <!ENTITY fxaccount_status_legal 'చట్టబద్ధం' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
