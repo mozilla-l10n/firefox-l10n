@@ -10,7 +10,7 @@
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Aperir un application impacchettate…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Aperir un application allocate...">
+<!ENTITY projectMenu_importHostedApp_label "Aperir un application albergate…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Aperir un application...">
 <!ENTITY projectMenu_selectApp_accesskey "O">
@@ -75,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Schedas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simulatores">
 <!ENTITY runtimePanel_other "Alteros">
-<!ENTITY runtimePanel_installsimulator "Installar un simulator">
 <!ENTITY runtimePanel_noadbhelper "Installar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le dispositivos">
@@ -174,19 +172,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de commandos pre-impacchettage">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Optiones del simulator">
-<!ENTITY simulator_remove "Deler le simulator">
-<!ENTITY simulator_reset "Restaurar le predefinitiones">
-<!ENTITY simulator_name "Nomine">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Version">
-<!ENTITY simulator_profile "Profilo">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Schermo">
-<!ENTITY simulator_pixelRatio "Ration del pixels">
-<!ENTITY simulator_tv_data "Simulation de TV">
-<!ENTITY simulator_tv_data_open "Configurar le datos">
-<!ENTITY simulator_tv_data_open_button "Aperir le directorio de configuration…">
