@@ -58,7 +58,7 @@
 <!ENTITY rights3.webservices-c " bulunabilir. Diğer özellikler ve Hizmetler uygulama tercihlerinde devre dışı bırakılabilir.">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "GüvenliTarama: ">
+<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
 <!ENTITY rights.safebrowsing-b "Güvenli Tarama özelliğini devre dışı bırakmanız güvensiz siteleri ziyaret etmenizle sonuçlanabileceği için tavsiye edilmez. Bu özelliği tamamen devre dışı bırakmak istiyorsanız şu adımları izleyin:">
 <!ENTITY rights.safebrowsing-term1 "Uygulama tercihlerini açın">
 <!ENTITY rights.safebrowsing-term2 "Güvenlik bölümünü seçin">
