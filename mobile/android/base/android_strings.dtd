@@ -16,7 +16,7 @@
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సింక్">
 <!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండి ప్రారంభించండి.">
-<!ENTITY firstrun_sync_subtext2 "మీరు & brandShortName కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
+<!ENTITY firstrun_sync_subtext2 "మీరు &brandShortName; కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
 <!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
