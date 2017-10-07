@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Setja síðu í bókamerki">
 <!ENTITY editThisBookmarkCmd.label "Breyta bókamerki">
-<!ENTITY bookmarkThisPageCmd.commandkey "B">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
