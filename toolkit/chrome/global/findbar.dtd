@@ -11,7 +11,7 @@
 <!ENTITY highlightAll.label "Zvýrazniť všetky výskyty">
 <!ENTITY highlightAll.accesskey "v">
 <!ENTITY highlightAll.tooltiptext "Zvýrazní všetky výskyty hľadaného reťazca">
-<!ENTITY caseSensitive.label "Rozlišovať veľké/malé písmená">
+<!ENTITY caseSensitive.label "Rozlišovať veľkosť písmen">
 <!ENTITY caseSensitive.accesskey "R">
 <!ENTITY caseSensitive.tooltiptext "Vyhľadáva s rozlišovaním malých a veľkých písmen">
 <!ENTITY entireWord.label "Celé slová">
