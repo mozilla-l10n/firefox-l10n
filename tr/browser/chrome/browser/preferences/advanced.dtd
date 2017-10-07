@@ -13,7 +13,7 @@
 <!ENTITY useOnScreenKeyboard.label       "Gerektiğinde dokunmatik klavyeyi göster">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
-<!ENTITY browsing.label                  "Tarama">
+<!ENTITY browsing.label                  "Gezinti">
 
 <!ENTITY useAutoScroll.label             "Otomatik kaydırmayı kullan">
 <!ENTITY useAutoScroll.accesskey         "a">
