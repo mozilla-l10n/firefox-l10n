@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; รายการ">
 <!ENTITY bookmark_folder_one_item "1 รายการ">
+<!ENTITY bookmark_folder_updated "อัปเดตโฟลเดอร์แล้ว">
 <!ENTITY bookmark_parent_folder "โฟลเดอร์หลัก">
 <!ENTITY bookmark_add_folder "เพิ่มโฟลเดอร์ใหม่">
 
