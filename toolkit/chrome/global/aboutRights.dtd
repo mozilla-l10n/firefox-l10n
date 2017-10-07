@@ -59,11 +59,11 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
-<!ENTITY rights.safebrowsing-b "Güvenli Tarama özelliğini devre dışı bırakmanız güvensiz siteleri ziyaret etmenizle sonuçlanabileceği için tavsiye edilmez. Bu özelliği tamamen devre dışı bırakmak istiyorsanız şu adımları izleyin:">
+<!ENTITY rights.safebrowsing-b "Güvenli Gezinti özelliğini devre dışı bırakmanız güvensiz siteleri ziyaret etmenizle sonuçlanabileceği için tavsiye edilmez. Bu özelliği tamamen devre dışı bırakmak istiyorsanız şu adımları izleyin:">
 <!ENTITY rights.safebrowsing-term1 "Uygulama tercihlerini açın">
 <!ENTITY rights.safebrowsing-term2 "Güvenlik bölümünü seçin">
 <!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; seçeneğinin işaretini kaldırın">
-<!ENTITY rights.safebrowsing-term4 "Güvenli Tarama artık devre dışıdır">
+<!ENTITY rights.safebrowsing-term4 "Güvenli Gezinti artık devre dışıdır">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Konuma Duyarlı Tarama: ">
@@ -72,7 +72,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "geo.enabled yazın">
 <!ENTITY rights.locationawarebrowsing-term3 "geo.enabled tercihine çift tıklayın">
-<!ENTITY rights.locationawarebrowsing-term4 "Konuma Duyarlı Tarama artık devre dışıdır">
+<!ENTITY rights.locationawarebrowsing-term4 "Konuma Duyarlı Gezinti artık devre dışıdır">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Ürünün içerdiği web sitesi hizmetlerine genel bakış ve varsa devre dışı bırakma yönergeleri buraya eklenmelidir.">

@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Geçmiş">
 <!ENTITY dataSection.label            "Veri">
 
-<!ENTITY itemHistoryAndDownloads.label     "Tarama ve indirme geçmişi">
+<!ENTITY itemHistoryAndDownloads.label     "Gezinti ve indirme geçmişi">
 <!ENTITY itemHistoryAndDownloads.accesskey "T">
 <!ENTITY itemFormSearchHistory.label       "Form ve arama geçmişi">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

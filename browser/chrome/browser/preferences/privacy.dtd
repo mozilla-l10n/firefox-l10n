@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Gizli pencerelerde izlenme korumasını kullan">
 <!ENTITY trackingProtectionPBM5.accesskey     "G">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY trackingProtectionPBM6.accesskey     "G">
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi al">
@@ -96,7 +97,7 @@
 <!ENTITY  privateBrowsingPermanent2.label "Her zaman gizli gezinti kipini kullan">
 <!ENTITY  privateBrowsingPermanent2.accesskey "m">
 
-<!ENTITY  rememberHistory2.label      "Tarama ve indirme geçmişimi hatırla">
+<!ENTITY  rememberHistory2.label      "Gezinti ve indirme geçmişimi hatırla">
 <!ENTITY  rememberHistory2.accesskey  "h">
 
 <!ENTITY  rememberSearchForm.label       "Arama ve form geçmişini hatırla">
