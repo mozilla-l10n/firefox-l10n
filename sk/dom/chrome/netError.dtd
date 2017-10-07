@@ -7,34 +7,34 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Chyba: Nedá sa pripojiť">
+<!ENTITY connectionFailure.title "Chyba pripojenia">
 <!ENTITY connectionFailure.longDesc "<p>Požadovaný server existuje, ale prehliadač nebol schopný nadviazať spojenie.</p><ul><li>Môže byť táto adresa dočasne nedostupná? Skúste to neskôr.</li><li>Nedajú sa vám načítať ani iné stránky?  Skontrolujte pripojenie vášho počítača k internetu.</li><li>Je váš počítač, alebo sieť chránený bránou firewall alebo proxy? Nesprávne nastavenia môžu znemožniť prehľadávanie webu.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Chyba: Obmedzenie prístupu na port">
+<!ENTITY deniedPortAccess.title "Bezpečnostné obmedzenie prístupu na port">
 <!ENTITY deniedPortAccess.longDesc "<p>Zadaná adresa (URL) špecifikovala port (napr. <q>mozilla.org:80</q> je port 80 na mozilla.org) , ktorý je normálne určený na <em>iné</em> služby ako prehliadanie webu. Prehliadač požiadavku kvôli vašej ochrane a bezpečnosti neakceptoval.</p>">
 
-<!ENTITY dnsNotFound.title "Chyba: Adresa sa nenašla">
+<!ENTITY dnsNotFound.title "Adresa sa nenašla">
 <!ENTITY dnsNotFound.longDesc "<p>Adresa (URL) nezodpovedá žiadnemu známemu serveru a nemožno ju načítať.</p><ul><li>Skontrolujte, či má adresa správny formát.</li><li>Je možné, že server už dlhšie neexistuje.</li><li>Túto chybu môžu zapríčiniť problémy s vašou lokálnou sieťou, proxy serverom alebo DNS serverom.</li></ul>">
 
-<!ENTITY fileNotFound.title "Chyba: Súbor nenájdený">
+<!ENTITY fileNotFound.title "Súbor nenájdený">
 <!ENTITY fileNotFound.longDesc "<ul><li>Požadovaný súbor nebol na zadanej adrese (URL) nájdený. Je možné, že bol odstránený, premenovaný alebo premiestnený.</li><li>Skontrolujte, či má adresa správny formát.</li><li>Ak ste autorom tohto súboru, overte, či daný súbor na serveri existuje a že má príslušné povolenia na zobrazenie.</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho povolenia.</li></ul>">
 
-<!ENTITY generic.title "Chyba: Nepodarilo sa dokončiť požiadavku">
+<!ENTITY generic.title "Nepodarilo sa dokončiť požiadavku">
 <!ENTITY generic.longDesc "<p>Dodatočná informácia o tomto probléme, alebo chybe je momentálne nedostupná.</p>">
 
-<!ENTITY malformedURI.title "Chyba: Neplatná adresa">
+<!ENTITY malformedURI.title "Neplatná adresa">
 <!ENTITY malformedURI.longDesc "<p>Adresa (URL) nie je platná a nemožno ju načítať. Prosím, skontrolujte text v paneli s adresou a skúste to znova.</p>">
 
-<!ENTITY netInterrupt.title "Chyba: Prenos dát prerušený">
+<!ENTITY netInterrupt.title "Prenos dát bol prerušený">
 <!ENTITY netInterrupt.longDesc "<p>Prehliadač sa úspešne pripojil k serveru, no spojenie počas prenosu informácií zlyhalo.  Prosím, skúste to znova</p><ul><li>Nemôžete navštíviť ani iné stránky? Skontrolujte pripojenie svojho počítača k sieti.</li><li>Ak problém pretrváva, kontaktujte, prosím, svojho správcu siete alebo poskytovateľa internetu.</li></ul>">
 
 <!ENTITY notCached.title "Platnosť dokumentu vypršala">
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača.</p><ul><li>Z bezpečnostných dôvodov prehliadač automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
-<!ENTITY netOffline.title "Chyba: Režim offline">
+<!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "<p>Prehliadač je momentálne v režime offline a nemôže sa pripojiť na požadovaný server.</p><ul><li>Je počítač pripojený k aktívnej sieti?</li><li>Kliknutím na tlačidlo &quot;Skúsiť znova&quot; prejdete do režimu online a opätovne načítate obsah stránky.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
@@ -47,10 +47,10 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Chyba: Spojenie prerušené">
+<!ENTITY netReset.title "Spojenie bolo prerušené">
 <!ENTITY netReset.longDesc "<p>Spojenie bolo nečakane prerušené počas pripájania alebo počas prenosu údajov. Dôvodom môže byť chyba siete niekde na ceste medzi počítačom a serverom. Ak problém pretrváva, preštudujte dokumentáciu alebo sa poraďte so svojím správcom siete alebo poskytovateľom internetu (ISP).</p>">
 
-<!ENTITY netTimeout.title "Chyba: Čas vypršal">
+<!ENTITY netTimeout.title "Čas pre sieťovú operáciu vypršal.ˇ">
 <!ENTITY netTimeout.longDesc "<p>Vypršal čas pri pokuse o pripojenie na zadaný server. Server môže byť preťažený, alebo preťaženie siete spôsobuje prílišné omeškanie dát. Ak sa dá predpokladať, že server je preťažený, skúste pred ďalším pokusom o pripojenie chvíľu počkať. Pokiaľ budú problémy pretrvávať, kontaktujte svojho správcu siete alebo poskytovateľa pripojenia.</p>">
 
 <!ENTITY unknownProtocolFound.title "Chyba: Neznámy protokol">
