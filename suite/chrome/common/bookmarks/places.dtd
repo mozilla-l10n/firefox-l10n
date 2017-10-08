@@ -39,7 +39,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Velg fil …">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
-<!ENTITY cmd.bookmarkLink.label         "Bokmerk denne siden …">
+<!ENTITY cmd.bookmarkLink.label         "Bokmerk denne siden…">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slett denne siden">
 <!ENTITY cmd.delete.accesskey           "S">

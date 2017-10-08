@@ -28,7 +28,7 @@
 
 <!ENTITY view.groupNone.label           "Ingen">
 <!ENTITY view.groupNone.accesskey       "I">
-<!ENTITY view.groupDay.label            "Dato">
+<!ENTITY view.groupDay.label            "Dag">
 <!ENTITY view.groupDay.accesskey        "D">
 <!ENTITY view.groupSite.label           "Nettsted">
 <!ENTITY view.groupSite.accesskey       "N">
@@ -42,7 +42,7 @@
 <!ENTITY cmd.open_tab.label             "Åpne lenke i ny fane">
 <!ENTITY cmd.open_tab.accesskey         "n">
 
-<!ENTITY bookmarkLinkCmd.label          "Legg lenken i bokmerker …">
+<!ENTITY bookmarkLinkCmd.label          "Bokmerk denne lenken…">
 <!ENTITY bookmarkLinkCmd.accesskey      "L">
 <!ENTITY bookmarkLinksCmd.label         "Legg disse lenkene i bokmerker">
 <!ENTITY bookmarkLinksCmd.accesskey     "L">
