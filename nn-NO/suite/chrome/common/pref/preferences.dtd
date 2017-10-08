@@ -19,7 +19,7 @@
 <!ENTITY locationBar.label "Adresselinje">
 <!ENTITY search.label "Søk på internett">
 <!ENTITY tabWindows.label "Nettlesing med faner">
-<!ENTITY links.label "Lenkeoppførsel">
+<!ENTITY links.label "Lenkjeoppførsel">
 <!ENTITY download.label "Nedlastingar">
 
 <!ENTITY security.label "Personvern og sikkerheit">

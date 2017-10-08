@@ -14,5 +14,5 @@
 <!-- pref-tabs.xul -->
 <!ENTITY urlbar.label                 "Ctrl+Enter i adresselinja">
 <!ENTITY urlbar.accesskey             "L">
-<!ENTITY middleClick.label            "Midt-trykk, Ctrl+trykk eller Ctrl+Enter på lenker i ei nettside">
+<!ENTITY middleClick.label            "Midt-trykk, Ctrl+trykk eller Ctrl+Enter på lenkjer i ei nettside">
 <!ENTITY middleClick.accesskey        "M">

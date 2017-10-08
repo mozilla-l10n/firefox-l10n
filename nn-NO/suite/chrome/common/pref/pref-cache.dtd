@@ -26,6 +26,6 @@
 <!ENTITY checkNever.label                "Aldri">
 <!ENTITY checkAutomatically.label        "Når sida er utdatert">
 
-<!ENTITY prefetchTitle.label             "Førehandslasting av lenker">
+<!ENTITY prefetchTitle.label             "Førehandslasting av lenkjer">
 <!ENTITY enablePrefetch.label            "Førehandsnedlast nettsider når ingenting anna vert lasta">
 <!ENTITY enablePrefetch.accesskey        "d">

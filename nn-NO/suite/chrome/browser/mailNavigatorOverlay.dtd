@@ -14,7 +14,7 @@
 
 <!ENTITY contextSendThisPage.label       "Send denne sida…">
 <!ENTITY contextSendThisPage.accesskey   "d">
-<!ENTITY contextSendThisLink.label       "Send denne lenka…">
+<!ENTITY contextSendThisLink.label       "Send denne lenkja…">
 <!ENTITY contextSendThisLink.accesskey   "n">
 <!ENTITY contextSendImage.label          "Send bilde…">
 <!ENTITY contextSendImage.accesskey      "n">
@@ -25,6 +25,6 @@
 <!ENTITY contextSendFrame.label          "Send ramme…">
 <!ENTITY contextSendFrame.accesskey      "r">
 
-<!ENTITY sendLinkCmd.label               "Send lenke…"> 
+<!ENTITY sendLinkCmd.label               "Send lenkje…"> 
 <!ENTITY sendLinkCmd.accesskey           "d">
 
