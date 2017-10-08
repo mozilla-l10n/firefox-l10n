@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Server för utgående e-post (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
@@ -14,7 +14,7 @@
 <!ENTITY smtpListDelete.label "Ta bort">
 <!ENTITY smtpListDelete.accesskey "b">
 <!ENTITY smtpListSetDefault.label "Välj som standard">
-<!ENTITY smtpListSetDefault.accesskey "e">
+<!ENTITY smtpListSetDefault.accesskey "s">
 
 <!ENTITY serverDetails.label "Egenskaper för den valda servern:">
 <!ENTITY serverDescription.label "Beskrivning: ">
