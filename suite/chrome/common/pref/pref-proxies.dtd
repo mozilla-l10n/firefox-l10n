@@ -5,6 +5,9 @@
 <!-- extracted from content/pref-proxies.xul -->
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
+<!ENTITY  pref.proxies.title            "Proxiar">
+<!ENTITY  reload.label                  "Oppdater">
+<!ENTITY  reload.accesskey              "O">
 <!ENTITY  http.label                    "Proxy:">
 <!ENTITY  http.accesskey                "P">
 <!ENTITY  port.label                    "Port:">
@@ -13,3 +16,4 @@
 <!ENTITY  advanced.accesskey            "v">
 <!ENTITY  noproxy.label                 "Ingen proxy for:">
 <!ENTITY  noproxy.accesskey             "I">
+<!ENTITY  noproxyExplain.label          "Døme: .mozilla.org, .net.nz, 192.168.1.0/24">
