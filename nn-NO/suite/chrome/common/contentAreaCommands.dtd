@@ -133,4 +133,7 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.label        "Språk">
 <!ENTITY spellDictionaries.accesskey    "r">
 <!ENTITY spellAddDictionaries.label     "Last ned fleire ordbøker…">
+<!ENTITY spellAddDictionaries.accesskey "L">
 <!-- Developer Tools -->
+<!ENTITY devtoolsInspect.label          "Inspiser element">
+<!ENTITY devtoolsInspect.accesskey      "n">

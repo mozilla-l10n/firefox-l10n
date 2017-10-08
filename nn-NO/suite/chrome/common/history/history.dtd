@@ -21,7 +21,25 @@
 
 <!ENTITY view.unsorted.label            "Usortert">
 <!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Sorteringsrekkjefølgje A -> Å">
+<!ENTITY view.sortAscending.accesskey   "S">
+<!ENTITY view.sortDescending.label      "Sorteringsrekkjefølgje Å -> A">
+<!ENTITY view.sortDescending.accesskey  "n">
 
+<!ENTITY view.groupNone.label           "Ingen">
+<!ENTITY view.groupNone.accesskey       "I">
+<!ENTITY view.groupDay.label            "Dag">
+<!ENTITY view.groupDay.accesskey        "D">
+<!ENTITY view.groupSite.label           "Nettstad">
+<!ENTITY view.groupSite.accesskey       "N">
+<!ENTITY view.groupDayAndSite.label     "Dag og nettstad">
+<!ENTITY view.groupDayAndSite.accesskey "a">
 
+<!ENTITY cmd.open.label                 "Opne">
+<!ENTITY cmd.open.accesskey             "Å">
+<!ENTITY cmd.open_window.label          "Opne lenkje i nytt vindauge">
+<!ENTITY cmd.open_window.accesskey      "Å">
+<!ENTITY cmd.open_tab.label             "Opne lenkje i ny fane">
+<!ENTITY cmd.open_tab.accesskey         "n">
 
 

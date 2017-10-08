@@ -2,18 +2,53 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dataman.windowTitle "Databehandlar">
 
+<!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Alle datatypar">
+<!ENTITY select.cookies.label "Berre infokapslar">
+<!ENTITY select.permissions.label "Berre løyve">
+<!ENTITY select.preferences.label "Berre innstillingar">
+<!ENTITY select.passwords.label "Berre passord">
+<!ENTITY select.storage.label "Berre datalagring">
 
+<!ENTITY domain.search.placeholder "Søk i domene">
+<!ENTITY domain.search.key "S">
 
+<!ENTITY domain.tree.domain.label "Domene">
 
+<!ENTITY domain.ctx.forgetdomain.label "Gløym alt om dette domenet">
+<!ENTITY domain.ctx.forgetdomain.accesskey "G">
+<!ENTITY domain.ctx.forgetglobal.label "Gløym alt om globale data">
+<!ENTITY domain.ctx.forgetglobal.accesskey "e">
 
+<!ENTITY data.search.key "k">
 
+<!ENTITY tab.cookies.label "Infokapslar">
+<!ENTITY tab.permissions.label "Løyve">
+<!ENTITY tab.preferences.label "Innstillingar">
+<!ENTITY tab.passwords.label "Passord">
+<!ENTITY tab.storage.label "Datalagring">
+<!ENTITY tab.formdata.label "Skjemadata">
+<!ENTITY tab.forget.label "Gløym">
 
 <!-- cookies -->
+<!ENTITY cookies.description "Dette domenet har lagra følgjande infokapslar på datamaskina di:">
 
+<!ENTITY cookies.tree.host.label "Nettstad">
+<!ENTITY cookies.tree.name.label "Namn på infokapsel">
+<!ENTITY cookies.tree.expires.label "Går ut">
 
+<!ENTITY cookies.infobox.label "Informasjon om vald infokapsel">
 
+<!ENTITY cookies.info.name.label "Namn:">
+<!ENTITY cookies.info.value.label "Innhald:">
+<!ENTITY cookies.info.host.label "Server:">
+<!ENTITY cookies.info.domain.label "Domene:">
+<!ENTITY cookies.info.path.label "Sti:">
+<!ENTITY cookies.info.sendtype.label "Send for:">
+<!ENTITY cookies.info.expires.label "Går ut:">
 
 <!ENTITY cookies.ctx.remove.label "Fjern">
 <!ENTITY cookies.ctx.remove.accesskey "F">
@@ -68,6 +103,8 @@
 
 <!ENTITY storage.ctx.remove.label "Fjern">
 <!ENTITY storage.ctx.remove.accesskey "F">
+<!ENTITY storage.ctx.selectAll.label "Merk alle">
+<!ENTITY storage.ctx.selectAll.accesskey "M">
 
 <!ENTITY storage.button.remove.label "Fjern">
 <!ENTITY storage.button.remove.accesskey "F">
@@ -82,4 +119,16 @@
 <!ENTITY fdata.button.remove.accesskey "F">
 
 <!-- forget -->
+<!ENTITY forget.permissions.label "Løyve">
+<!ENTITY forget.permissions.accesskey "L">
+<!ENTITY forget.preferences.label "Innhaldsinnstillingar">
+<!ENTITY forget.preferences.accesskey "I">
+<!ENTITY forget.passwords.label "Passord">
+<!ENTITY forget.passwords.accesskey "a">
+<!ENTITY forget.storage.label "Datalagring">
+<!ENTITY forget.storage.accesskey "D">
+<!ENTITY forget.formdata.label "Skjemadata">
+<!ENTITY forget.formdata.accesskey "S">
 
+<!ENTITY forget.button.label "Gløym desse dataa">
+<!ENTITY forget.button.accesskey "G">

@@ -2,8 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY printCmd.commandkey            "p">
 
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
+<!ENTITY backButton.label               "Tilbake">
+<!ENTITY backButton.accesskey           "T">
+<!ENTITY backButton.tooltip             "Gå tilbake ei side">
+<!ENTITY forwardButton.label            "Fram">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "Gå fram ei side">
+<!ENTITY copyCmd.label                  "Kopier">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Merk alt">
+<!ENTITY selectAllCmd.accesskey         "M">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Heim">
+<!ENTITY homeButton.tooltip             "Gå til hovudsida for hjelp">
+<!ENTITY printButton.label              "Skriv ut">
+<!ENTITY printButton.tooltip            "Skriv ut denne sida">
+<!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Søk">
 <!ENTITY searchHeader.label             "Søkjeresultat">
