@@ -54,6 +54,8 @@
 <!-- Tooltips -->
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhald i denne meldinga">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
 
 <!-- Statusbar -->
 

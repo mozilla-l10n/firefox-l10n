@@ -42,7 +42,7 @@
 <!ENTITY cmd.open_tab.label             "Opne lenkje i ny fane">
 <!ENTITY cmd.open_tab.accesskey         "n">
 
-<!ENTITY bookmarkLinkCmd.label          "Legg lenkja i bokmerke…">
+<!ENTITY bookmarkLinkCmd.label          "Bokmerk denne lenkja…">
 <!ENTITY bookmarkLinkCmd.accesskey      "L">
 <!ENTITY bookmarkLinksCmd.label         "Legg desse lenkjene i bokmerke…">
 <!ENTITY bookmarkLinksCmd.accesskey     "L">
