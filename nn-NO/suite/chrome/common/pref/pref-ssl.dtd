@@ -19,3 +19,7 @@
 
 
 
+<!ENTITY certselect.auto                    "Vel automatisk">
+<!ENTITY certselect.auto.accesskey          "V">
+<!ENTITY certselect.ask                     "Spør kvar gong">
+<!ENTITY certselect.ask.accesskey           "p">
