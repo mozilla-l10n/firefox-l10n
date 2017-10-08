@@ -54,5 +54,5 @@
 <!ENTITY quitApplicationCmdUnix.label  "Keluar">
 <!ENTITY quitApplicationCmdUnix.accesskey  "K">
 
-<!ENTITY quitApplicationCmdMac.label  "Keluar &brandShorterName;">
+<!ENTITY quitApplicationCmdMac.label  "Keluar &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "K">
