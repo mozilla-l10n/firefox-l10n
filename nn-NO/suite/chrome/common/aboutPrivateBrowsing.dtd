@@ -6,6 +6,8 @@
    - the former is shown in a private browsing window and the latter in
    - a regular (non-private) browsing window. -->
 
+<!ENTITY privatebrowsingpage.title.private       "Du er i eit privat nettlesingsvindauge">
+<!ENTITY privatebrowsingpage.title.normal        "Vil du starte privat nettlesing?">
 
 
 <!ENTITY privatebrowsingpage.learnmore.label     "Les meir">

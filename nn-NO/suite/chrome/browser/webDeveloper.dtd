@@ -4,14 +4,24 @@
 
 <!ENTITY validatePage.label            "Valider denne sida">
 <!ENTITY validatePage.accesskey        "V">
+<!ENTITY allowRemoteDebugging.label     "Tillat ekstern debugging">
+<!ENTITY allowRemoteDebugging.accesskey "T">
 
+<!ENTITY devToolsCmd.keycode             "VK_F12">
+<!ENTITY devToolsCmd.keytext             "F12">
 
 <!ENTITY devtoolsConnect.label           "Kople til…">
-<!ENTITY devtoolsConnect.accesskey       "">
+<!ENTITY devtoolsConnect.accesskey       "e">
 
 <!ENTITY browserConsoleCmd.label         "Nettlesarkonsoll">
+<!ENTITY browserConsoleCmd.commandkey    "Ζ">
+<!ENTITY browserConsoleCmd.accesskey     "N">
 
+<!ENTITY responsiveDesignTool.label      "Responsiv design-vising">
+<!ENTITY responsiveDesignTool.accesskey  "R">
 
+<!ENTITY eyedropper.label                "Pipette">
+<!ENTITY eyedropper.accesskey            "t">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -23,14 +33,23 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label                "Kladdeblokk">
+<!ENTITY scratchpad.accesskey            "K">
+<!ENTITY scratchpad.keycode              "VK_F4">
+<!ENTITY scratchpad.keytext              "F4">
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+<!ENTITY browserToolboxMenu.label        "Nettlesarverktøy">
+<!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Verktøy for nettlesarinnhald">
+<!ENTITY browserContentToolboxMenu.accesskey "o">
 
+<!ENTITY devToolbarCloseButton.tooltiptext   "Lat att utviklarverktøylinje">
 <!ENTITY devToolbarMenu.label                "Utviklarverktøylinje">
 <!ENTITY devToolbarMenu.accesskey            "U">
 
