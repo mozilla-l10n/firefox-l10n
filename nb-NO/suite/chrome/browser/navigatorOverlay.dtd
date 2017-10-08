@@ -137,7 +137,7 @@
 
 <!ENTITY cookieCookieManager.label "Infokapsler">
 <!ENTITY cookieCookieManager.accesskey "I">
-<!ENTITY cookieImageManager.label "Bilder">
+<!ENTITY cookieImageManager.label "Bildebehandler">
 <!ENTITY cookieImageManager.accesskey "B">
 <!ENTITY popupsManager.label "Sprettoppvindubehandler">
 <!ENTITY popupsManager.accesskey "o">
