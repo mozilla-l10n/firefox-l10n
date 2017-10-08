@@ -121,6 +121,8 @@
 <!ENTITY cookieBlockImagesCmd.label "Blokker bilde frå denne nettstaden">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 
+<!ENTITY popupAllowCmd.label "Tillat sprettoppvindauge frå denne nettsida">
+<!ENTITY popupAllowCmd.accesskey "T">
 <!ENTITY popupsManage.label "Handsam sprettoppvindauge">
 <!ENTITY popupsManage.accesskey "H">
 

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY downloadManager.title           "Nedlastingshandsamar">
 
 <!ENTITY menuBar.tooltip                 "Menylinje">
 <!ENTITY searchBar.tooltip               "Søkjelinje">
@@ -9,7 +10,9 @@
 <!ENTITY search.placeholder              "Søk i nedlastingar">
 <!ENTITY search.label                    "Søk i nedlastingar">
 <!ENTITY search.accesskey                "S">
+<!ENTITY search.key                      "f">
 
+<!ENTITY cmd.clearList.label             "Tøm lista">
 
 <!ENTITY col.name.label                  "Namn">
 <!ENTITY col.name.accesskey              "N">
