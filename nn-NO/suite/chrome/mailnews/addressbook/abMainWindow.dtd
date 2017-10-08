@@ -110,8 +110,11 @@
 <!ENTITY addresses.heading                              "Adresser">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Hent kart">
+<!ENTITY mapIt.tooltip                                  "Viser eit kart med denne adressa frå nettet">
 
 <!-- Status Bar -->  
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">
