@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Gjengivelsesmodus:">
 <!ENTITY  generalSize           "Størrelse:">
 <!ENTITY  generalReferrer       "Refererende URL:">
-<!ENTITY  generalSource         "Kilde:">
+<!ENTITY  generalSource         "Hurtiglagerkilde:">
 <!ENTITY  generalModified       "Sist endret:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Navn">
