@@ -45,11 +45,15 @@
 <!-- Message Menu -->
 
 <!-- Tools Menu -->
+<!ENTITY importCmd.label "Importer…">
+<!ENTITY importCmd.accesskey "I">
 
 <!-- Folder Pane -->
+<!ENTITY nameColumn.label "Namn">
 
 <!-- Toolbar items -->
 <!ENTITY nextButton.label "Neste">
+<!ENTITY goBackButton.label "Gå tilbake">
 
 <!-- Tooltips -->
 
