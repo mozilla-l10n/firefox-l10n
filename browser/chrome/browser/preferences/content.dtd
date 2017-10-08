@@ -65,6 +65,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "অনুবাদ করেছেন">
 <!ENTITY translation.options.attribution.afterLogo "‍">
 
+<!ENTITY  drmContent2.label              "Digital Rights Management (DRM) কন্টেন্ট">
 
+<!ENTITY  playDRMContent2.label          "DRM-নিয়ন্ত্রিত কন্টেন্ট প্লে করুন">
 <!ENTITY  playDRMContent2.accesskey      "P">
 <!ENTITY  playDRMContent.learnMore.label "আরও জানুন">

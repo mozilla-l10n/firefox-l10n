@@ -16,6 +16,7 @@
 <!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
      of the search field in about:preferences, in order to make entire placeholder
      string visible -->
+<!ENTITY  searchField.width             "15.4em">
 
 <!ENTITY  paneSearchResults.title       "অনুসন্ধানের ফলাফল">
 <!ENTITY  paneGeneral.title             "সাধারণ">
@@ -25,6 +26,7 @@
 <!ENTITY  paneContainers.title          "কন্টেইনার ট্যাব">
 <!ENTITY  paneUpdates.title             "হালনাগাদ">
 
+<!ENTITY  languageAndAppearance.label   "ভাষা এবং বাহ্য রূপ">
 <!ENTITY  filesAndApplications.label    "ফাইল ও অ্যাপ্লিকেশন">
 <!ENTITY  browserPrivacy.label          "ব্রাউজার গোপনীয়তা">
 

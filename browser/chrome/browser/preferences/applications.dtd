@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "অ্যাপ্লিকেশন">
-
+<!ENTITY  applications.description "নির্বাচন করুণ &brandShortName; কিভাবে আপনার ওয়েব বা অন্য কোন অ্যাপলিকেশন থেকে ডাউনলোড করা ফাইল গুলি নিয়ন্ত্রণ করবে।">
 
 <!ENTITY  typeColumn.label        "বিষয়বস্তুর ধরণ">
 <!ENTITY  typeColumn.accesskey    "T">
 
 <!ENTITY  actionColumn2.label     "করণীয়">
 <!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter2.emptytext        "ফাইলের ধরন অথবা অ্যাপ্লিকেশন অনুসন্ধান করুন">

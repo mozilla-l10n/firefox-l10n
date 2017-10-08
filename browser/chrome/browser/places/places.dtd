@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "লাইব্রেরি">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "যোগ হয়েছে">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তন">
 
-<!ENTITY search.placeholder  "অনুসন্ধান">
+<!ENTITY historySearch.placeholder  "ইতিহাস খুঁজুন">
+<!ENTITY bookmarksSearch.placeholder  "বুকমার্ক অনুসন্ধান">
 
 <!ENTITY cmd.find.key  "f">
 

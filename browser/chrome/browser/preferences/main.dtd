@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "পূর্বনির্ধারিত মান পুনঃস্থাপন করা হবে R">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "এক্সটেনশনটি নিষ্ক্রিয় করুন">
+
 <!ENTITY downloads.label     "ডাউনলোড">
 
 <!ENTITY saveTo.label "ফাইল সংরক্ষণের স্থান v">
