@@ -6,7 +6,7 @@
 
 <!ENTITY navRadio.label                 "Vis ved">
 <!ENTITY navRadio.accesskey             "V">
-<!ENTITY navStartPageMenu.label         "Oppstart">
+<!ENTITY navStartPageMenu.label         "Nettleseroppstart">
 <!ENTITY newWinPageMenu.label           "Nytt vindu">
 <!ENTITY newTabPageMenu.label           "Ny fane">
 
