@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hämta mer teman">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Dra och släpp objekt här för att hålla dem inom räckhåll men utanför verktygsfältet…">
+<!ENTITY customizeMode.overflowList.title2 "Spillmeny">
+<!ENTITY customizeMode.overflowList.description "Dra och släpp objekt här för att hålla dem inom räckhåll men utanför verktygsfältet…">
 <!ENTITY customizeMode.uidensity "Täthet">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
