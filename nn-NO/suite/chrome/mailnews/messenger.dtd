@@ -54,8 +54,31 @@
 <!-- Toolbar items -->
 <!ENTITY nextButton.label "Neste">
 <!ENTITY goBackButton.label "Gå tilbake">
+<!ENTITY goForwardButton.label "Gå fram">
+<!ENTITY deleteButton.label "Slett">
+<!ENTITY undeleteButton.label "Angre sletting">
+<!ENTITY markButton.label "Merk">
+<!ENTITY stopButton.label "Stopp">
+<!ENTITY junkButton.label "Uønskt">
+<!ENTITY notJunkButton.label "Denne er ønskt">
+<!ENTITY searchButton.title "Avansert søk">
 
 <!-- Tooltips -->
+<!ENTITY menuBar.tooltip "Menylinje">
+<!ENTITY mailToolbar.tooltip "E-postverktøylinje">
+<!ENTITY searchToolbar.tooltip "Søkjelinje">
+<!ENTITY advancedButton.tooltip "Avansert meldingssøk">
+<!ENTITY getMsgButton.tooltip "Hent nye meldingar">
+<!ENTITY newMsgButton.tooltip "Skriv ei ny melding">
+<!ENTITY replyButton.tooltip "Svar til avsendar">
+<!ENTITY replyAllButton.tooltip "Svar til avsendar og alle mottakarar">
+<!ENTITY replyAllButtonNews.tooltip "Svar til avsendar og nyheitsgruppe">
+<!ENTITY forwardButton.tooltip "Vidaresend vald melding">
+<!ENTITY fileButton.tooltip "Arkiver vald melding">
+<!ENTITY nextButton.tooltip "Hopp til neste uleste melding">
+<!ENTITY goBackButton.tooltip "Gå tilbake ei melding">
+<!ENTITY goForwardButton.tooltip "Gå fram ei melding">
+<!ENTITY deleteButton.tooltip "Slett vald melding eller mappe">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Vis eksternt innhald i denne meldinga">
@@ -64,6 +87,17 @@
 <!-- Statusbar -->
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextArchive.label "Arkiver">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextMoveMsgMenu.label "Flytt til">
+<!ENTITY contextMoveMsgMenu.accesskey "F">
+<!ENTITY contextCopyMsgMenu.label "Kopier til">
+<!ENTITY contextSaveAs.label "Lagre som…">
+<!ENTITY contextSaveAs.accesskey "L">
+<!ENTITY contextPrint.label "Skriv ut…">
+<!ENTITY contextPrint.accesskey "u">
+<!ENTITY contextPrintPreview.label "Førehandsvis side">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Folder Pane Context Menu -->
 
