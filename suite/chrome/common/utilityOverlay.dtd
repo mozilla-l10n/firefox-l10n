@@ -129,7 +129,7 @@
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY customizeToolbarContext.label            "Tilpass …">
+<!ENTITY customizeToolbarContext.label            "Tilpass…">
 <!ENTITY customizeToolbarContext.accesskey        "T">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "Innstillinger for denne verktøylinjen">

@@ -338,7 +338,7 @@
 <!ENTITY copyHereMenu.accesskey "K">
 <!ENTITY tagMenu.label "Etikett">
 <!ENTITY tagMenu.accesskey "e">
-<!ENTITY tagCustomize.label "Tilpass …">
+<!ENTITY tagCustomize.label "Tilpass…">
 <!ENTITY tagCustomize.accesskey "T">
 <!ENTITY markMenu.label "Merk">
 <!ENTITY markMenu.accesskey "e">
@@ -521,7 +521,7 @@
 <!ENTITY folderContextSubscribe.accesskey "M">
 <!ENTITY folderContextSearchMessages.label "Søk i meldinger …">
 <!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Innstillinger …">
+<!ENTITY folderContextProperties.label "Egenskaper…">
 <!ENTITY folderContextProperties.accesskey "I">
 <!ENTITY folderContextSettings.label "Innstillinger …">
 <!ENTITY folderContextSettings.accesskey "e">
