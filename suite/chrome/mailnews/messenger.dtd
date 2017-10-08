@@ -100,6 +100,29 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextRemove.label "Slett">
+<!ENTITY folderContextRemove.accesskey "S">
+<!ENTITY folderContextCompact.label "Komprimer denne mappa">
+<!ENTITY folderContextCompact.accesskey "o">
+<!ENTITY folderContextEmptyTrash.label "Tøm søppelkassa">
+<!ENTITY folderContextEmptyTrash.accesskey "T">
+<!ENTITY folderContextEmptyJunk.label "Tøm søppelkassa">
+<!ENTITY folderContextEmptyJunk.accesskey "T">
+<!ENTITY folderContextSendUnsentMessages.label "Send usende meldingar">
+<!ENTITY folderContextSendUnsentMessages.accesskey "u">
+<!ENTITY folderContextUnsubscribe.label "Meld ut">
+<!ENTITY folderContextUnsubscribe.accesskey "u">
+<!ENTITY folderContextProperties.label "Eigenskapar…">
+<!ENTITY folderContextProperties.accesskey "a">
+<!ENTITY folderContextSettings.label "Innstillingar…">
+<!ENTITY folderContextSettings.accesskey "I">
 
 <!-- focusSearchInput.key also used by addressbook -->
+<!ENTITY focusSearchInput.key "k">
+<!ENTITY advancedButton.label "Avansert…">
+<!ENTITY advancedButton.accesskey "A">
+<!ENTITY searchButton.label "Søk i meldinger…">
+<!ENTITY searchButton.accesskey "S">
 
+<!ENTITY all.label "Alle">
+<!ENTITY all.accesskey "A">
