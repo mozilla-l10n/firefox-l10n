@@ -29,7 +29,7 @@
 <!ENTITY     treehead.sitename.label        "Nettsted">
 <!ENTITY     treehead.scheme.label          "Skjema">
 <!ENTITY     treehead.status.label          "Status">
-<!ENTITY     windowtitle.label              "Infokapselbehandling">
+<!ENTITY     windowtitle.label              "Infokapselhåndterer">
 
 <!ENTITY     blockSite.label                "Blokker">
 <!ENTITY     blockSite.accesskey            "B">

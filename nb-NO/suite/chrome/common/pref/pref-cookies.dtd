@@ -32,14 +32,9 @@
 <!ENTITY acceptforNDays.accesskey       "f">
 <!ENTITY days.label                     "dager">
 
-<!ENTITY warnAboutCookies.label         "Spør for hver infokapsel">
-<!ENTITY warnAboutCookies.accesskey     "ø">
-<!ENTITY forCurrentSession.label        "med unntak av øktinfokapsler">
-<!ENTITY forCurrentSession.accesskey    "e">
-
 <!ENTITY manageCookies.label            "Behandle infokapsler og nettsted">
 <!ENTITY manageCookiesDescription.label "Tillater deg å vise og behandle lagrede infokapsler og innstillinger per-nettsted. Innstillinger per-nettsted vil overstyre innstillingene ovenfor.">
 
-<!ENTITY viewCookies.label              "Infokapselbehandling">
+<!ENTITY viewCookies.label              "Infokapselhåndterer">
 <!ENTITY viewCookies.accesskey          "I">
 
