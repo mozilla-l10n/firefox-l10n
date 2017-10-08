@@ -6,11 +6,24 @@
 
 <!ENTITY pref.content.title                     "Innhald">
 
+<!ENTITY useSiteIcons.label                     "Vis nettsideikon">
+<!ENTITY useSiteIcons.accesskey                 "V">
 
+<!ENTITY scrolling.label                        "Rulling">
+<!ENTITY useAutoScroll.label                    "Bruk autorulling">
+<!ENTITY useAutoScroll.accesskey                "t">
+<!ENTITY useSmoothScroll.label                  "Bruk jamn rulling">
+<!ENTITY useSmoothScroll.accesskey              "B">
 
+<!ENTITY zoomPrefs.label                        "Skaleringsval">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
+<!ENTITY minZoom.label                          "Område frå">
+<!ENTITY minZoom.accesskey                      "f">
+<!ENTITY maxZoom.label                          "til">
+<!ENTITY maxZoom.accesskey                      "i">
+<!ENTITY percent.label                          "&#37;">
 
 

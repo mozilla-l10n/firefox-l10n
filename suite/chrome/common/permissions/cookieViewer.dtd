@@ -4,6 +4,11 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Lagra infokapslar">
 <!ENTITY     tab.bannedservers.label        "Nettstad for infokapslar">
+<!ENTITY     treehead.cookiename.label      "Infokapselnamn">
+<!ENTITY     treehead.cookiedomain.label    "Nettstad">
+<!ENTITY     treehead.cookieexpires.label   "Går ut">
+<!ENTITY     button.removecookie.label      "Slett infokapsel">
+<!ENTITY     button.removecookie.accesskey  "S">
 <!ENTITY     button.removeallcookies.label  "Slett alle infokapslar">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
@@ -13,9 +18,13 @@
 
 <!ENTITY     props.name.label               "Namn:">
 <!ENTITY     props.value.label              "Innhald:">
+<!ENTITY     props.path.label               "Sti:">
 <!ENTITY     props.expires.label            "Går ut:">
 
+<!ENTITY     treehead.sitename.label        "Nettstad">
+<!ENTITY     treehead.scheme.label          "Skjema">
 <!ENTITY     treehead.status.label          "Status">
+<!ENTITY     windowtitle.label              "Infokapselhandsamar">
 
 <!ENTITY     blockSite.label                "Blokker">
 <!ENTITY     blockSite.accesskey            "B">

@@ -42,4 +42,16 @@
 <!ENTITY cmd.open_tab.label             "Opne lenkje i ny fane">
 <!ENTITY cmd.open_tab.accesskey         "n">
 
+<!ENTITY bookmarkLinkCmd.label          "Legg lenkja i bokmerke…">
+<!ENTITY bookmarkLinkCmd.accesskey      "L">
+<!ENTITY bookmarkLinksCmd.label         "Legg desse lenkjene i bokmerke…">
+<!ENTITY bookmarkLinksCmd.accesskey     "L">
 
+<!ENTITY col.title.label                "Tittel">
+<!ENTITY col.title.accesskey            "T">
+<!ENTITY col.url.label                  "Adresse">
+<!ENTITY col.url.accesskey              "A">
+<!ENTITY col.lastvisit.label            "Sist besøkt">
+<!ENTITY col.lastvisit.accesskey        "S">
+<!ENTITY col.visitcount.label           "Besøkstal">
+<!ENTITY col.visitcount.accesskey       "B">
