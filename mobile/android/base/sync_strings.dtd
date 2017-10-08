@@ -68,6 +68,10 @@
 <!ENTITY fxaccount_status_passwords2 'Conexiones'>
 <!ENTITY fxaccount_status_tabs 'Abrir pestañas'>
 <!ENTITY fxaccount_status_additional_settings 'Ajustes adicionales'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Sincronizar solo por Wi-Fi'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'Prevenir que &brandShortName; se auto-sincronice a través de una red celular o medida.'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
