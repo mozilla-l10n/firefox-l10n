@@ -26,10 +26,10 @@
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
-<!ENTITY  generalMode           "Tegnemotor:">
+<!ENTITY  generalMode           "Gjengivelsesmodus:">
 <!ENTITY  generalSize           "Størrelse:">
 <!ENTITY  generalReferrer       "Refererende URL:">
-<!ENTITY  generalSource         "Kilde:">
+<!ENTITY  generalSource         "Hurtiglagerkilde:">
 <!ENTITY  generalModified       "Sist endret:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Navn">
@@ -95,7 +95,7 @@
 <!ENTITY  permCookie            "Sette infokapsler">
 <!ENTITY  permNotifications     "Vis varsler">
 <!ENTITY  permInstall           "Installere utvidelser og temaer">
-<!ENTITY  permGeo               "Oppgi sted">
+<!ENTITY  permGeo               "Del plassering">
 
 <!ENTITY  securityTab           "Sikkerhet">
 <!ENTITY  securityTab.accesskey "S">

@@ -43,6 +43,6 @@
 <!ENTITY proxies.label "Proxy">
 <!ENTITY httpnetworking.label "HTTP-nettverk">
 <!ENTITY smart.label "Programvareinstallasjon">
-<!ENTITY mousewheel.label "Musrullehjul">
+<!ENTITY mousewheel.label "Musehjul">
 
 <!ENTITY focusSearch.key "f">

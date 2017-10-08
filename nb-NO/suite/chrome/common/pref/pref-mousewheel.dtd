@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title           "Musrullehjul">
+<!ENTITY pref.mouseWheel.title           "Musehjul">
 <!ENTITY mouseWheelPanel.label           "Velg oppførselen til musens rullehjul når det brukes med modifikatortast: ">
 <!ENTITY usingJustTheWheel.label         "Ingen modifikatortast">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
@@ -26,7 +26,7 @@
 <!ENTITY zoom.label                      "Zoom siden inn eller ut">
 <!ENTITY zoom.accesskey                  "Z">
 <!ENTITY zoomHoriz.accesskey             "o">
-<!ENTITY wheelSpeed.label                "Mushjulhastighet:">
+<!ENTITY wheelSpeed.label                "Musehjulhastighet:">
 <!ENTITY wheelSpeed.accesskey            "h">
 <!ENTITY wheelSpeedHoriz.accesskey       "s">
 <!ENTITY reverseDirection.label          "Motsatt retning">

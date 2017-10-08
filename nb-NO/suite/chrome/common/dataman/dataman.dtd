@@ -37,7 +37,7 @@
 <!ENTITY cookies.description "Dette domenet har lagret følgende infokapsler på datamaskinen din:">
 
 <!ENTITY cookies.tree.host.label "Nettsted">
-<!ENTITY cookies.tree.name.label "Navn på infokapsel">
+<!ENTITY cookies.tree.name.label "Infokapselnavn">
 <!ENTITY cookies.tree.expires.label "Utgår">
 
 <!ENTITY cookies.infobox.label "Informasjon om valgt infokapsel">
