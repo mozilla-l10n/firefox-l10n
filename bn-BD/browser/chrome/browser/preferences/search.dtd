@@ -2,12 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "অনুসন্ধান বার">
+
+<!ENTITY searchBar.hidden.label                "অনুসন্ধান এবং নেভিগেশন জন্য address বার ব্যবহার করুন">
+<!ENTITY searchBar.shown.label                 "টুলবারে অনুসন্ধান বার যুক্ত করুন">
+
 <!ENTITY defaultSearchEngine.label             "ডিফল্ট সার্চ ইঞ্জিন">
 
+<!ENTITY chooseYourDefaultSearchEngine2.label   "অ্যাড্রেস বার এবং অনুসন্ধান বারে ব্যবহার করার জন্য ডিফল্ট সার্চ ইঞ্জিন চয়ন করুন।">
 
 <!ENTITY provideSearchSuggestions.label        "অনুসন্ধান পরামর্শ প্রদান করুন s">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions2.label           "এড্রেস বারে ফলাফলে অনুসন্ধান সাজেশন দেখান">
 <!ENTITY showURLBarSuggestions2.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "&brandShortName; এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।">
 
@@ -23,3 +30,4 @@
 <!ENTITY removeEngine.label                    "অপসারণ করুন R">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY findMoreSearchEngines.label           "আরও সার্চ ইন্জিন খুঁজুন">

@@ -29,7 +29,8 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে">
 
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "&brandShortName; কে Mozilla তে কারিগরী এবং মিথষ্ক্রিয় তথ্য পাঠাতে অনুমতি দিন">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
 <!ENTITY dataCollection.label            "&brandShortName; ডাটা সংগ্রহ ও ব্যবহার">
@@ -88,12 +89,16 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "সেরা পারফরম্যান্স, স্থায়িত্ব এবং নিরাপত্তা এর জন্য &brandShortName; কে আপডেট রাখুন।">
 <!ENTITY updateApplication.version.pre   "সংস্করণ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
+<!ENTITY updateAuto3.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন (সুপারিশকৃত)">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে">
 <!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "কখনই আপডেট আছে কিনা পরীক্ষা করবেন না (সুপারিশকৃত না)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "হালনাগাদের ইতিহাস দেখাও…">
@@ -110,6 +115,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্রম…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "নিম্নোক্ত ওয়েবসাইট গুলির অফলাইনে ব্যবহার করার জন্য তথ্য সংরক্ষণের অনুমতি আছে">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "অপসারণ করা হবে… R">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -129,11 +135,17 @@ available. -->
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "কার্যকারিতা">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "সুপারিশকৃত কর্মক্ষমতা বিষয়ক সেটিংগুলি ব্যবহার করুন">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "এই সেটিং গুলি আপনার কম্পিউটারের হার্ডওয়ার ও অপারেটিং সিস্টেমের জন্য বিশেষভাবে নির্বাচিত।">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "আরও জানুন">
 <!ENTITY limitContentProcessOption.label "বিষয়বস্তু প্রক্রিয়াকরণ সীমা">
 <!ENTITY limitContentProcessOption.accesskey   "">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "শিখুন, মাল্টিপ্রসেস চালু আছে কিনা কিভাবে পরীক্ষা করতে হয়">
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
 <!ENTITY allowHWAccel.accesskey          "r">

@@ -4,6 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "ফন্ট">
 
+<!ENTITY  fonts.label                             "ভাষা">
 <!ENTITY  fonts.accesskey                         "F">
 
 <!ENTITY  size2.label                             "আকার">
