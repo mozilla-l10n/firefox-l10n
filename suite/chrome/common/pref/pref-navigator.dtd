@@ -28,4 +28,11 @@
 <!ENTITY restoreTabs.label              "Bygg oppatt">
 <!ENTITY restoreTabs.accesskey          "o">
 
+<!ENTITY browseFile.label               "Vel fil…">
+<!ENTITY browseFile.accesskey           "f">
+<!ENTITY useDefault.label               "Still tilbake til standard">
 
+<!ENTITY defaultBrowserGroup.label      "Standardnettlesar">
+<!ENTITY defaultBrowserButton.label     "Vel standardnettlesar">
+<!ENTITY defaultBrowserButton.accesskey "a">
+<!ENTITY alreadyDefaultText             "&brandShortName; er allereie standardnettlesar.">
