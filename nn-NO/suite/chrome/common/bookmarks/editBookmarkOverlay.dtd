@@ -4,6 +4,8 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "Namn:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
+<!ENTITY editBookmarkOverlay.location.label                  "Adresse:">
+<!ENTITY editBookmarkOverlay.location.accesskey              "A">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mappe:">
 <!ENTITY editBookmarkOverlay.description.label               "Skildring:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "S">
@@ -11,3 +13,4 @@
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
 <!ENTITY editBookmarkOverlay.choose.label                    "Vel…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Ny mappe">
+<!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "Lag ny mappe">
