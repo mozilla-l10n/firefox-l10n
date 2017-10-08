@@ -75,6 +75,7 @@
 <!-- preferences -->
 
 <!ENTITY prefs.tree.host.label "Nettstad">
+<!ENTITY prefs.tree.name.label "Innstillingnamn">
 <!ENTITY prefs.tree.value.label "Verdi">
 
 <!ENTITY prefs.ctx.remove.label "Fjern">
