@@ -106,10 +106,20 @@
 <!ENTITY addressBar.tooltip "Adresselinje">
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
 <!ENTITY sendButton.tooltip "Send denne meldingen no"> 
- 
- 
- 
- 
- 
+<!ENTITY sendlaterButton.tooltip "Send denne meldinga seinare"> 
+<!ENTITY addressButton.tooltip "Vel ein mottakar frå adresseboka"> 
+<!ENTITY attachButton.tooltip "Inkluder eit vedlegg"> 
+<!ENTITY saveButton.tooltip "Lagre denne meldinga"> 
+<!ENTITY stopButton.tooltip "Stopp denne overføringa"> 
 
 <!-- context menu items -->
+<!ENTITY openAttachment.label "Opne">
+<!ENTITY openAttachment.accesskey "O">
+<!ENTITY renameAttachment.label "Byt namn…">
+<!ENTITY renameAttachment.accesskey "B">
+<!ENTITY deleteAttachment.accesskey "S">
+<!ENTITY selectAllAttachments.accesskey "a">
+<!ENTITY attachFile.label "Legg ved filer…">
+<!ENTITY attachFile.accesskey "L">
+<!ENTITY attachPage.label "Legg ved nettside…">
+<!ENTITY attachPage.accesskey "v">
