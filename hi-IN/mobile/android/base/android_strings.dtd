@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; वस्तु">
 <!ENTITY bookmark_folder_one_item "1 चीज">
+<!ENTITY bookmark_folder_updated "फ़ोल्डर अद्यतन किया गया">
 <!ENTITY bookmark_parent_folder "मूल फ़ोल्डर">
 <!ENTITY bookmark_add_folder "नया फ़ोल्डर जोड़ें">
 
