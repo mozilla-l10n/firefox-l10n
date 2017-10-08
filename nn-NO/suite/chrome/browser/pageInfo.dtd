@@ -9,9 +9,18 @@
 
 <!ENTITY  copy.label             "Kopier">
 <!ENTITY  selectall.label        "Merk alt">
+<!ENTITY  copyLinks.label           "Kopier lenkje(r)">
+<!ENTITY  copyLinks.accesskey       "l">
+<!ENTITY  openInNewTab.label        "Opne i ny fane">
+<!ENTITY  openInNewTab.accesskey    "f">
+<!ENTITY  openInNewWindow.label     "Opne i nytt vindauge">
+<!ENTITY  openInNewWindow.accesskey "v">
 
 <!ENTITY  generalTab            "Generelt">
+<!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Adresse:">
+<!ENTITY  generalType           "Type:">
+<!ENTITY  generalSize           "Storleik:">
 <!ENTITY  generalModified       "Sist endra:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Namn">
@@ -45,11 +54,16 @@
 <!ENTITY  mediaAddress          "Adresse">
 <!ENTITY  mediaType             "Type">
 <!ENTITY  mediaSize             "Storleik">
+<!ENTITY  mediaCount            "Tal på">
+<!ENTITY  mediaDimensions       "Dimensjonar:">
+<!ENTITY  mediaTitle            "Tittel:">
 <!ENTITY  mediaLongdesc         "Lang skildring:">
 <!ENTITY  mediaBlockImage.accesskey "L">
 <!ENTITY  mediaSaveAs           "Lagre som…">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
+<!ENTITY  feedTab               "Nyhendekjelder">
+<!ENTITY  feedSubscribe         "Abonner">
 
 <!ENTITY  permTab               "Løyve">
 <!ENTITY  permTab.accesskey     "L">
@@ -64,6 +78,8 @@
 <!ENTITY  permGeo               "Del plassering">
 
 <!ENTITY  securityTab           "Sikkerheit">
+<!ENTITY  securityView.certView "Vis sertifikat">
+<!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjent">
 
 
@@ -72,4 +88,9 @@
 <!ENTITY  securityView.identity.verifier "Stadfesta av:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
+<!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
+<!ENTITY  securityView.privacy.viewPasswords            "Vis lagra passord">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
+<!ENTITY  securityView.technical.header                 "Tekniske detaljar">
