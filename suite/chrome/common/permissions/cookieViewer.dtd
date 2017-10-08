@@ -6,7 +6,7 @@
 <!ENTITY     tab.bannedservers.label        "Nettsted for infokapsler">
 <!ENTITY     div.bannedservers.label        "Behandle nettsted som kan og ikke kan lagre infokapsler på datamaskinen din.">
 <!ENTITY     div.cookiesonsystem.label      "Vis og fjern infokapsler som er lagret på datamaskinen din.">
-<!ENTITY     treehead.cookiename.label      "Navn">
+<!ENTITY     treehead.cookiename.label      "Infokapselnavn">
 <!ENTITY     treehead.cookiedomain.label    "Nettsted">
 <!ENTITY     treehead.cookieexpires.label   "Utløper">
 <!ENTITY     treehead.infoselected.label    "Informasjon om valgt infokapsel">
