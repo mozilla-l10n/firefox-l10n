@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Kui ma &brandShortName;ist väljun, siis kustutatakse:">
 
+<!ENTITY clearDataSettings3.label     "Kui ma &brandShortName;ist väljun, siis kustutatakse">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
