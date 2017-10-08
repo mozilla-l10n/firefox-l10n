@@ -7,10 +7,10 @@
 <!ENTITY popupWindowRejectCmd.accesskey "i">
 <!ENTITY popupWindowAllowCmd.label      "Tillåt webbplatsen att öppna extrafönster">
 <!ENTITY popupWindowAllowCmd.accesskey  "e">
-<!ENTITY openLinkCmd.label            "Öppna länken i ett nytt fönster">
-<!ENTITY openLinkCmd.accesskey        "Ö">
 <!ENTITY openLinkCmdInTab.label       "Öppna länken i en ny flik">
 <!ENTITY openLinkCmdInTab.accesskey   "f">
+<!ENTITY openLinkCmd.label            "Öppna länken i ett nytt fönster">
+<!ENTITY openLinkCmd.accesskey        "Ö">
 <!ENTITY openLinkCmdInPrivateWindow.label     "Öppna länken i ett privat fönster">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "v">
 <!ENTITY openLinkInWindowCmd.label    "Öppna">
@@ -21,7 +21,7 @@
 <!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY keywordfield.label           "Lägg till ett nyckelord för denna sökning…">
 <!ENTITY keywordfield.accesskey       "L">
-<!ENTITY showOnlyThisFrameCmd.label   "Visa endast denna ram">
+<!ENTITY showOnlyThisFrameCmd.label     "Visa endast denna ram">
 <!ENTITY showOnlyThisFrameCmd.accesskey "V">
 <!ENTITY goBackCmd.label              "Bakåt">
 <!ENTITY goBackCmd.accesskey          "a">
@@ -103,9 +103,9 @@
 <!ENTITY mediaPause.label             "Paus">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Ljud av">
-<!ENTITY mediaMute.accesskey          "m">
+<!ENTITY mediaMute.accesskey          "a">
 <!ENTITY mediaUnmute.label            "Ljud på">
-<!ENTITY mediaUnmute.accesskey        "m">
+<!ENTITY mediaUnmute.accesskey        "p">
 <!ENTITY mediaPlaybackRate.label        "Uppspelningshastighet">
 <!ENTITY mediaPlaybackRate.accesskey    "p">
 <!ENTITY mediaPlaybackRate050.label     "Slow Motion (½×)">
@@ -113,7 +113,7 @@
 <!ENTITY mediaPlaybackRate100.label     "Normal hastighet">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
 <!ENTITY mediaPlaybackRate125.label     "Ökad hastighet (1¼×)">
-<!ENTITY mediaPlaybackRate125.accesskey "F">
+<!ENTITY mediaPlaybackRate125.accesskey "h">
 <!ENTITY mediaPlaybackRate150.label     "Högre hastighet (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "H">
 <!ENTITY mediaPlaybackRate200.label     "Dubbel hastighet">
