@@ -856,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "वस्तुओं को उन्हें पहुँच के भीतर लेकिन अपने टूलबार से बाहर रखने के लिए यहाँ खींचें और छोड़ें…">
+<!ENTITY customizeMode.overflowList.title2 "अतिप्रवाह मेनू">
 <!ENTITY customizeMode.uidensity "घनत्व">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
