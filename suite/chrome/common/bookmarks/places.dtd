@@ -2,19 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY bookmarksManager.title         "Bokmerkehandsamar">
 <!ENTITY bookmarksManager.width         "700">
 <!ENTITY bookmarksManager.height        "500">
 
+<!ENTITY file.accesskey                 "F">
+<!ENTITY file.close.label               "Lat att">
+<!ENTITY file.close.accesskey           "L">
+<!ENTITY cmd.close.key                  "w">
 
 <!ENTITY view.columns.label             "Vis kolonner">
+<!ENTITY view.columns.accesskey         "V">
 <!ENTITY view.sort.label                "Sorter">
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Usortert">
 <!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "Sorteringsrekkjefølgje A -> Å">
+<!ENTITY view.sortAscending.accesskey   "S">
+<!ENTITY view.sortDescending.label      "Sorteringsrekkjefølgje Å -> A">
+<!ENTITY view.sortDescending.accesskey  "o">
 
+<!ENTITY cmd.findInBookmarks.label      "Finn i bokmerke…">
+<!ENTITY cmd.findInBookmarks.accesskey  "F">
+<!ENTITY cmd.findCurrent.label          "Finn i denne samlinga…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
 
+<!ENTITY cmd.exportHTML.label           "Eksporter HTML…">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importer HTML…">
+<!ENTITY cmd.importHTML.accesskey       "I">
 
+<!ENTITY cmd.backup.label               "Tryggingskopiar…">
+<!ENTITY cmd.backup.accesskey           "T">
+<!ENTITY cmd.restore2.label             "Bygg oppatt">
+<!ENTITY cmd.restore2.accesskey         "B">
+<!ENTITY cmd.restoreFromFile.label      "Vel fil…">
+<!ENTITY cmd.restoreFromFile.accesskey  "V">
 
+<!ENTITY cmd.bookmarkLink.label         "Bokmerk denne sida…">
 <!ENTITY cmd.delete.label               "Slett denne sida">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Gløym denne nettstaden">
