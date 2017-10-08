@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Funktioner">
 <!ENTITY toolsMenu.accesskey          "u">
 
-<!ENTITY keywordfield.label           "Tilføj et stikord til denne søgning…">
+<!ENTITY keywordfield.label           "Tilføj en genvej til denne søgning…">
 <!ENTITY keywordfield.accesskey       "s">
 
 <!ENTITY downloads.label              "Filhentning">
