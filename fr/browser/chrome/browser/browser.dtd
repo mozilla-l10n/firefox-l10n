@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "r">
 <!ENTITY syncToolbarButton.label      "Synchroniser">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Déplacez vos outils favoris vers la barre personnelle ou le menu qui la prolonge.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Déplacez vos outils favoris vers la barre d’outils ou le menu qui la prolonge.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Besoin d’encore plus d’outils ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Faites votre choix parmi des milliers de modules complémentaires">
 <!ENTITY customizeMode.restoreDefaults "Configuration par défaut">
@@ -856,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtenir plus de thèmes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.emptyOverflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
+<!ENTITY customizeMode.overflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
 <!ENTITY customizeMode.uidensity "Densité">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
