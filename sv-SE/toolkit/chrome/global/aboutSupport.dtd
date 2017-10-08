@@ -33,7 +33,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Aktiverad">
 <!ENTITY aboutSupport.experimentEndDate "Slutdatum">
 <!ENTITY aboutSupport.experimentHomepage "Hemsida">
-<!ENTITY aboutSupport.experimentBranch "Branch">
+<!ENTITY aboutSupport.experimentBranch "Gren">
 
 <!ENTITY aboutSupport.appBasicsTitle "Programfakta">
 <!ENTITY aboutSupport.appBasicsName "Namn">
@@ -101,7 +101,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifiera integritet">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementell GC">
 
 <!ENTITY aboutSupport.a11yTitle "Tillgänglighet">
 <!ENTITY aboutSupport.a11yActivated "Aktiverad">
@@ -117,7 +117,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiera text till urklipp">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiera rådata till urklipp">
 
-<!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxTitle "Sandlåda">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Avvisade systemanrop">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Sekunder sedan">
