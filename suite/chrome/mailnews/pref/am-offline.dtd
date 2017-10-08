@@ -28,7 +28,7 @@
 <!ENTITY retentionKeepRecent.label "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!ENTITY retentionApplyToFlagged.label "Behåll alltid flaggade meddelanden">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY retentionApplyToFlagged.accesskey "B">
 <!ENTITY nntpRemoveMsgBody.label "Ta bort innehållet i meddelanden äldre än">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Välj diskussionsgrupper för användning nedkopplad…">
@@ -50,7 +50,7 @@
 <!ENTITY ageAutosync.accesskey           "y">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "dagarna">
-<!ENTITY monthAgeInterval.label          "månaderna">
 <!ENTITY weekAgeInterval.label           "veckorna">
+<!ENTITY monthAgeInterval.label          "månaderna">
 <!ENTITY yearAgeInterval.label           "åren">
 <!ENTITY ageAutosyncAfter.label          "">
