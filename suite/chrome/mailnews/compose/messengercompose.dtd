@@ -3,11 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Skriv: (emnelaus)">
 
+<!ENTITY fromAddr.label "Frå:">
+<!ENTITY fromAddr.accesskey "å">
+<!ENTITY subject.label  "Emne:">
+<!ENTITY subject.accesskey "E">
+<!ENTITY attachments.label "Vedlegg:">
+<!ENTITY attachments.accesskey "d">
 
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.label "Lagre">
+<!ENTITY saveCmd.accesskey "L">
+<!ENTITY saveAsCmd.label "Lagre som">
+<!ENTITY saveAsCmd.accesskey "o">
+<!ENTITY saveAsFileCmd.label "Fil…">
+<!ENTITY saveAsFileCmd.accesskey "F">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 
 <!-- Edit menu items -->
