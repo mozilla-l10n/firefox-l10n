@@ -40,6 +40,7 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "V">
 
 <!ENTITY cmd.bookmarkLink.label         "Bokmerk denne sida…">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "Slett denne sida">
 <!ENTITY cmd.delete.accesskey           "S">
 <!ENTITY cmd.deleteDomainData.label     "Gløym denne nettstaden">
@@ -50,10 +51,28 @@
 <!ENTITY cmd.open_tab.label              "Opne i ny fane">
 <!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_window.label           "Opne i nytt vindauge">
+<!ENTITY cmd.open_window.accesskey       "p">
+<!ENTITY cmd.open_private.label          "Opne i eit privat vindauge">
+<!ENTITY cmd.open_private.accesskey      "v">
+<!ENTITY cmd.open_all_in_tabs.label      "Opne alle i faner">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "a">
 
+<!ENTITY cmd.properties.label      "Eigenskapar">
+<!ENTITY cmd.properties.accesskey  "E">
 
+<!ENTITY cmd.sortby_name.label              "Sorter etter namn">
+<!ENTITY cmd.sortby_name.accesskey          "S">
 
+<!ENTITY cmd.new_bookmark.label            "Nytt bokmerke…">
+<!ENTITY cmd.new_bookmark.accesskey        "b">
+<!ENTITY cmd.new_folder.label              "Ny mappe…">
+<!ENTITY cmd.new_folder.accesskey          "m">
+<!ENTITY cmd.context_new_folder.accesskey  "m">
+<!ENTITY cmd.new_separator.label           "Ny skiljelinje">
+<!ENTITY cmd.new_separator.accesskey       "s">
 
+<!ENTITY cmd.reloadLivebookmark.label      "Oppdater levande bokmerke">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "O">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytt…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
