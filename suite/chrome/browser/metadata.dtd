@@ -16,7 +16,7 @@
 <!ENTITY insdel-sec.label      "Set inn/slett eigenskapar">
 <!ENTITY insdel-cite.label     "Info:">
 <!ENTITY insdel-date.label     "Dato:">
-<!ENTITY link-sec.label        "Lenkeeigenskapar">
+<!ENTITY link-sec.label        "Lenkjeeigenskapar">
 <!ENTITY link-url.label        "Adresse:">
 <!ENTITY link-target.label     "Vert opna i:">
 <!ENTITY link-type.label       "Måltype:">

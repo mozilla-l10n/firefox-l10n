@@ -96,6 +96,7 @@
 
 <!ENTITY  securityTab           "Sikkerheit">
 <!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityHeader        "Tryggingsinfo for denne sida">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjent">
@@ -107,8 +108,11 @@
 <!ENTITY  securityView.identity.verifier "Stadfesta av:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
+<!ENTITY  securityView.privacy.history                  "Har eg besøkt denne nettstaden tidlegare i dag?">
+<!ENTITY  securityView.privacy.cookies                  "Lagrar nettstaden informasjon (infokapslar) på datamaskina mi?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
+<!ENTITY  securityView.privacy.passwords                "Har eg lagra passord for denne nettstaden?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vis lagra passord">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 

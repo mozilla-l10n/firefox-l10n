@@ -41,6 +41,7 @@
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label        "Nettlesarverktøy">
+<!ENTITY browserToolboxMenu.accesskey    "e">
 <!ENTITY browserToolboxCmd.commandkey    "I">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the

@@ -85,7 +85,7 @@
 <!ENTITY findPrevCmd.accesskey "o">
 <!ENTITY findTypeTextCmd.label "Finn tekst medan du skriv">
 <!ENTITY findTypeTextCmd.accesskey "t">
-<!ENTITY findTypeLinksCmd.label "Finn lenker medan du skriv">
+<!ENTITY findTypeLinksCmd.label "Finn lenkjer medan du skriv">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
 <!ENTITY viewMenu.label					"Vis"> 

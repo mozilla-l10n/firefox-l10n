@@ -14,14 +14,14 @@
 <!ENTITY useSystemColors.label             "Bruk systemfargar">
 <!ENTITY useSystemColors.accesskey         "s">
 
-<!ENTITY underlineLinks.label              "Understrek lenker">
+<!ENTITY underlineLinks.label              "Understrek lenkjer">
 <!ENTITY underlineLinks.accesskey          "U">
-<!ENTITY links                             "Lenker">
+<!ENTITY links                             "Lenkjer">
 <!ENTITY linkColor.label                   "Ubesøkte:">
 <!ENTITY linkColor.accesskey               "ø">
-<!ENTITY activeLinkColor.label             "Aktive lenker:">
+<!ENTITY activeLinkColor.label             "Aktive lenkjer:">
 <!ENTITY activeLinkColor.accesskey         "k">
-<!ENTITY visitedLinkColor.label            "Besøkte lenker:">
+<!ENTITY visitedLinkColor.label            "Besøkte lenkjer:">
 <!ENTITY visitedLinkColor.accesskey        "e">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "Når ei nettside har eigne fargar">
