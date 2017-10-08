@@ -39,6 +39,7 @@
 
 <!ENTITY  formsTab              "Skjema">
 <!ENTITY  formsTab.accesskey    "S">
+<!ENTITY  formMethod            "Metode">
 <!ENTITY  formName              "Namn">
 <!ENTITY  formEncoding          "Koding:">
 <!ENTITY  formTarget            "Mål">
@@ -66,6 +67,7 @@
 <!ENTITY  mediaSize             "Storleik">
 <!ENTITY  mediaCount            "Tal på">
 <!ENTITY  mediaDimensions       "Dimensjonar:">
+<!ENTITY  mediaPhysDimensions   "Eigentleg storleik:">
 <!ENTITY  mediaTitle            "Tittel:">
 <!ENTITY  mediaLongdesc         "Lang skildring:">
 <!ENTITY  mediaBlockImage.accesskey "L">
@@ -88,6 +90,7 @@
 <!ENTITY  permBlock             "Blokker">
 <!ENTITY  permissionsFor        "Løyve for:">
 <!ENTITY  permImage             "Laste inn bilde">
+<!ENTITY  permPopup             "Opne sprettoppvindauge">
 <!ENTITY  permNotifications     "Vis varsel">
 <!ENTITY  permGeo               "Del plassering">
 
