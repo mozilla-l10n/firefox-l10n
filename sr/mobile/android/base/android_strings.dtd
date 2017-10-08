@@ -493,14 +493,13 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Закачи на популарне сајтове">
-<!ENTITY contextmenu_unpin_from_top_sites "Откачи са популарних сајтова">
+<!ENTITY contextmenu_unpin_from_top_sites "Откачи са омиљених сајтова">
 <!ENTITY contextmenu_add_search_engine "Додај претраживач">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "Страница закачена на најпопуларније сајтове">
-<!ENTITY unpinned_page_from_top_sites "Страница откачена са најпопуларнијих сајтова">
+<!ENTITY pinned_page_to_top_sites "Страница закачена на омиљене сајтове">
+<!ENTITY unpinned_page_from_top_sites "Страница откачена са омиљених сајтова">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -564,7 +563,7 @@
 <!ENTITY button_clear "Обриши">
 <!ENTITY button_copy "Копирај">
 
-<!ENTITY home_top_sites_title "Популарни сајтови">
+<!ENTITY home_top_sites_title "Омиљени сајтови">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Додај сајт">
@@ -822,10 +821,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Ставке читача забелешки се могу прочитати и ван мреже.">
 <!ENTITY helper_triple_readerview_open_button "Додај забелешкама">
 
-<!ENTITY activity_stream_topsites "Популарни сајтови">
+<!ENTITY activity_stream_topsites "Омиљени сајтови">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Препоручено од стране &brandPocket;-а">
-<!ENTITY activity_stream_highlights "Истакнути">
+<!ENTITY activity_stream_highlights "Истакнуто">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 <!ENTITY activity_stream_link_more1 "MORE">
@@ -835,7 +834,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Забележено">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "Посећене">
+<!ENTITY activity_stream_highlight_label_visited "Посећено">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "У тренду">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
