@@ -16,6 +16,8 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
+<!ENTITY rights.intro-point2b "her">
+<!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
 
@@ -29,8 +31,10 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-b "her">
 
 <!-- add-on related points for branded builds -->
+<!ENTITY rights.addons-a "Utvidingstenester: ">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Trygg nettlesing: ">

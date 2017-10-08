@@ -4,7 +4,7 @@
 
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title           "Musrullehjul">
+<!ENTITY pref.mouseWheel.title           "Musehjul">
 <!ENTITY usingJustTheWheel.label         "Ingen modifikatortast">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
 <!ENTITY usingWheelAndCtrl.label         "&ctrlKey.label;">

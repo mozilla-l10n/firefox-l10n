@@ -26,6 +26,7 @@
 <!ENTITY bookmarksToolbarCmd.accesskey "B">
 
 <!ENTITY closeWindow.label "lat att vindauget">
+<!ENTITY closeWindow.accesskey "v">
 
 <!ENTITY minimizeButton.tooltip       "Minimer">
 <!ENTITY restoreButton.tooltip        "Bygg oppatt">
@@ -58,6 +59,7 @@
 <!ENTITY locationBar.tooltip          "Skriv inn eit søkjeord, nykelord eller ei nettadresse her">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adresse">
+<!ENTITY proxyIcon.tooltip            "Drag og slepp dette ikonet for å opprette ei lenkje til sida">
 
 <!ENTITY searchItem.title             "Søk">
 

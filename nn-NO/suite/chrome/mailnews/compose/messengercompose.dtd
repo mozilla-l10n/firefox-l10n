@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+
+<!-- Edit menu items -->
+
+<!-- View menu items -->
+
+<!-- Format menu items -->
+
+<!-- Options menu items -->
+<!ENTITY optionsMenu.label "Innstillingar">
+<!ENTITY optionsMenu.accesskey "I">
+
+
+
+
+
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- context menu items -->

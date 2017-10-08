@@ -41,7 +41,7 @@
 
 <!ENTITY selectHeaderType.label               "Vel type svar-overskrift:">
 <!ENTITY selectHeaderType.accesskey           "e">
-<!ENTITY noReplyOption.label                  "Inga svar-overskrift">
+<!ENTITY noReplyOption.label                  "Ikkje noko svar-overskrift">
 <!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the
   mailnews.reply_header_authorwrotesingle preference. [Author] needs to be
   translated. -->

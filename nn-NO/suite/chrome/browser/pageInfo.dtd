@@ -7,8 +7,14 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
+<!ENTITY  copy.key               "C">
 <!ENTITY  copy.label             "Kopier">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
 <!ENTITY  selectall.label        "Merk alt">
+<!ENTITY  selectall.accesskey    "M">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Kopier lenkje(r)">
 <!ENTITY  copyLinks.accesskey       "l">
 <!ENTITY  openInNewTab.label        "Opne i ny fane">
@@ -20,7 +26,10 @@
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
+<!ENTITY  generalMode           "Attgjevingsmodus:">
 <!ENTITY  generalSize           "Storleik:">
+<!ENTITY  generalReferrer       "Refererande URL:">
+<!ENTITY  generalSource         "Snøgglagerkjelde:">
 <!ENTITY  generalModified       "Sist endra:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Namn">
@@ -34,6 +43,7 @@
 <!ENTITY  formEncoding          "Koding:">
 <!ENTITY  formTarget            "Mål">
 <!ENTITY  formFields            "Felt:">
+<!ENTITY  formLabel             "Etikett">
 <!ENTITY  formFName             "Feltnamn">
 <!ENTITY  formType              "Type">
 <!ENTITY  formCValue            "Gjeldande verdi">
@@ -60,10 +70,14 @@
 <!ENTITY  mediaLongdesc         "Lang skildring:">
 <!ENTITY  mediaBlockImage.accesskey "L">
 <!ENTITY  mediaSaveAs           "Lagre som…">
+<!ENTITY  mediaSaveAs.accesskey "s">
+<!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
-<!ENTITY  feedTab               "Nyhendekjelder">
+<!ENTITY  feedTab               "Nyheitskjelder">
+<!ENTITY  feedTab.accesskey     "N">
 <!ENTITY  feedSubscribe         "Abonner">
+<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Løyve">
 <!ENTITY  permTab.accesskey     "L">
@@ -78,11 +92,13 @@
 <!ENTITY  permGeo               "Del plassering">
 
 <!ENTITY  securityTab           "Sikkerheit">
+<!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjent">
 
 
+<!ENTITY  securityView.identity.header   "Nettstadsidentitet">
 <!ENTITY  securityView.identity.owner    "Eigar:">
 <!ENTITY  securityView.identity.domain   "Nettstad:">
 <!ENTITY  securityView.identity.verifier "Stadfesta av:">
