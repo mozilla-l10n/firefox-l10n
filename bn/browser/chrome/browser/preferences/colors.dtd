@@ -6,8 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "উপরে নির্বাচিত মানের পরিবর্তে, পাতাগুলো নিজস্ব রং নির্বাচন করতে পারবে:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.label       "আপনার পছন্দ দ্বারা পাতা কর্তৃক নির্ধারিত রং পুনঃস্থাপিত করুণ">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "সর্বদা">
 <!ENTITY  overrideDefaultPageColors.auto.label   "শুধু হাই কনট্রাস্ট থিমের সাথে">
