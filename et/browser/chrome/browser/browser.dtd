@@ -855,6 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hangi rohkem teemasid">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
 <!ENTITY customizeMode.emptyOverflowList.description "Lohista elemente siia, et hoida nad käeulatuses, aga mitte tööriistaribal…">
+<!ENTITY customizeMode.overflowList.title2 "Nurgatagune menüü">
+<!ENTITY customizeMode.overflowList.description "Lohista elemente siia, et hoida nad käeulatuses, aga mitte tööriistaribal…">
 <!ENTITY customizeMode.uidensity "Tihedus">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
