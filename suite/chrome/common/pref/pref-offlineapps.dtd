@@ -7,4 +7,7 @@
 
 <!ENTITY clearOfflineAppCache.label         "Tøm">
 
+<!ENTITY offlineNotifyPermissions.label     "Handsam løyve">
+<!ENTITY offlineNotifyPermissions.accesskey "H">
 
+<!ENTITY offlineAppsListRemove.label        "Tøm data…">

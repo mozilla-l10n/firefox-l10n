@@ -25,3 +25,4 @@
 <!ENTITY migrating.label                 "Følgjande element vert importerte…">
 
 <!ENTITY done.title                      "Import fullført">
+<!ENTITY done.label                      "Følgjande element er importerte:">
