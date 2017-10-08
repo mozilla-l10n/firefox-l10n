@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
+<!ENTITY  http.label                  "HTTP-proxy:">
+<!ENTITY  http.accesskey              "x">
+<!ENTITY  ssl.label                   "SSL-proxy:">
+<!ENTITY  ssl.accesskey               "L">
+<!ENTITY  ftp.label                   "FTP-proxy:">
+<!ENTITY  ftp.accesskey               "F">
+<!ENTITY  reuseProxy.label            "Bruk HTTP proxy for alle protokollane">
+
+<!ENTITY  socks.caption               "Generisk proxy">
