@@ -39,6 +39,7 @@
 
 <!ENTITY  formsTab              "Skjema">
 <!ENTITY  formsTab.accesskey    "S">
+<!ENTITY  formAction            "Skjemahandling">
 <!ENTITY  formMethod            "Metode">
 <!ENTITY  formName              "Namn">
 <!ENTITY  formEncoding          "Koding:">

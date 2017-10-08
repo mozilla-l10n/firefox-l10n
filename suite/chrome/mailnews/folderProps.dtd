@@ -11,6 +11,7 @@
 <!ENTITY offlineNewsgroup.button.label           "Last ned no">
 
 <!ENTITY folderProps.name.label                  "Namn:">
+<!ENTITY folderProps.name.accesskey              "N">
 
 <!ENTITY folderSharingTab.label                  "Deling">
 <!ENTITY privileges.button.label                 "Løyve…">
