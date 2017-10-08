@@ -5,6 +5,7 @@
 <!ENTITY errorConsole.title   "Feilmeldingar">
 
 <!ENTITY errFile.label        "Kjeldefil:">
+<!ENTITY errLine.label        "Linje:">
 <!ENTITY errColumn.label      "Kolonne:">
 
 <!ENTITY all.label            "Alle">
