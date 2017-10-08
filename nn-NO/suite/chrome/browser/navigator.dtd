@@ -59,8 +59,22 @@
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adresse">
 
+<!ENTITY searchItem.title             "Søk">
 
+<!ENTITY bookmarksButton.label        "Bokmerke">
+<!ENTITY bookmarksButton.tooltip      "Bokmerkeliste">
+<!ENTITY homeButton.label             "Heim">
+<!ENTITY bookmarksToolbarItem.label   "Element i bokmerkeverktøylinja">
+<!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 
 <!-- Statusbar -->
+<!ENTITY  statusText.label            "Fullført">
 
+<!ENTITY popupIcon.tooltiptext      "Opphev blokkering av denne nettsida sine sprettoppvindauge">
 
+<!ENTITY viewSecurityInfo.label      "Vis tryggingsinfo">
+<!ENTITY viewSecurityInfo.accesskey  "V">
+<!ENTITY viewCertificate.label       "Vis sertifikat">
+<!ENTITY viewCertificate.accesskey   "s">
+<!ENTITY viewCertManager.label       "Opne sertifikathandsamar">
+<!ENTITY viewCertManager.accesskey   "n">

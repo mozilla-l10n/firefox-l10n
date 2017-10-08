@@ -117,6 +117,19 @@
 <!ENTITY cookieAllowImagesMsg.label "Bilde frå denne nettstaden vil alltid bli lasta ned.">
 <!ENTITY cookieImagesDefaultCmd.label "Bruk standard bildeløyve">
 <!ENTITY cookieImagesDefaultCmd.accesskey "u">
+<!ENTITY cookieImagesDefaultMsg.label "Bilde frå denne nettstaden vil bli lasta ned basert på standardinnstillingar.">
+<!ENTITY cookieBlockImagesCmd.label "Blokker bilde frå denne nettstaden">
+<!ENTITY cookieBlockImagesCmd.accesskey "B">
 
+<!ENTITY popupsManage.label "Handsam sprettoppvindauge">
+<!ENTITY popupsManage.accesskey "H">
 
+<!ENTITY cookieCookieManager.label "Infokapselhandsamar">
+<!ENTITY cookieCookieManager.accesskey "I">
+<!ENTITY cookieImageManager.label "Bildehandsamar">
+<!ENTITY cookieImageManager.accesskey "B">
+<!ENTITY popupsManager.label "Sprettoppvindaugehandsamar">
+<!ENTITY popupsManager.accesskey "o">
 
+<!ENTITY clearPrivateDataCmd.label "Slett private data…">
+<!ENTITY clearPrivateDataCmd.accesskey "S">
