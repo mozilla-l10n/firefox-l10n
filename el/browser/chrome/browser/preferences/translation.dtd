@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Η μετάφραση δεν είναι διαθέσιμη για τις ακόλουθες γλώσσες:">
+<!ENTITY noTranslationForLanguages2.label "Η μετάφραση δεν θα προσφέρεται για τις εξής γλώσσες">
 <!ENTITY treehead.languageName.label      "Γλώσσες">
 <!ENTITY removeLanguage.label             "Αφαίρεση γλώσσας">
 <!ENTITY removeLanguage.accesskey         "π">
 <!ENTITY removeAllLanguages.label         "Αφαίρεση όλων των γλωσσών">
 <!ENTITY removeAllLanguages.accesskey     "λ">
 
-<!ENTITY noTranslationForSites.label      "Η μετάφραση δεν είναι διαθέσιμη για τις ακόλουθες ιστοσελίδες:">
+<!ENTITY noTranslationForSites2.label     "Η μετάφραση δεν θα προσφέρεται για τις εξής ιστοσελίδες">
 <!ENTITY treehead.siteName2.label         "Ιστοσελίδες">
 <!ENTITY removeSite.label                 "Αφαίρεση ιστοσελίδας">
 <!ENTITY removeSite.accesskey             "μ">

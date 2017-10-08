@@ -178,6 +178,7 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 <!ENTITY certerror.wrongSystemTime2 "<p>Το &brandShortName; δεν συνδέθηκε με <span id='wrongSystemTime_URL'/> γιατί το ρολόι του υπολογιστή σας φαίνεται να έχει λανθασμένη ώρα και αυτό δεν επιτρέπει ασφαλή σύνδεση.</p> <p>Ο υπολογιστής σας έχει ημερομηνία <span id='wrongSystemTime_systemDate'/>, ενώ θα έπρεπε να είναι <span id='wrongSystemTime_actualDate'/>. Για να διορθώσετε το πρόβλημα, αλλάξτε την ημερομηνία και ώρα στα σωστά.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Το &brandShortName; δεν συνδέθηκε στο <span id='wrongSystemTimeWithoutReference_URL'/>, επειδή το ρολόι του υπολογιστή σας φαίνεται να εμφανίζει εσφαλμένη ώρα και αυτό εμποδίζει την ασφαλή σύνδεση.</p> <p>Ο υπολογιστής σας έχει ρυθμιστεί στην ημερομηνία <span id='wrongSystemTimeWithoutReference_systemDate'/>. Για να επιδιορθώσετε αυτό το πρόβλημα, αλλάξτε τις ρυθμίσεις ημερομηνίας και ώρας ώστε να αντιστοιχούν στις σωστές.</p>">
 
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτός ο ιστότοπος χρησιμοποιεί ασφάλεια
