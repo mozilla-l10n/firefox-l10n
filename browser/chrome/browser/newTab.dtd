@@ -4,7 +4,7 @@
 
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "Нови језичак">
-<!ENTITY newtab.customize.classic "Прикажи најбоље сајтове">
+<!ENTITY newtab.customize.classic "Прикажи омиљене сајтове">
 <!ENTITY newtab.customize.cog.enhanced "Укључи предложене сајтове">
 <!ENTITY newtab.customize.cog.title2 "КОНТРОЛЕ ЗА НОВИ ЈЕЗИЧАК">
 <!ENTITY newtab.customize.cog.learn "Сазнајте више о новом језичку">
