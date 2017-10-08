@@ -172,7 +172,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "З">
 <!ENTITY bookmarkThisPageCmd.label "Дадаць закладку на старонку">
 <!ENTITY editThisBookmarkCmd.label "Правіць гэтую закладку">
-<!ENTITY bookmarkThisPageCmd.commandkey "в">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
