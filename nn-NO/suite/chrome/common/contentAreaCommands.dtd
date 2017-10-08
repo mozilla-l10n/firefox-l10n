@@ -3,6 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY openLinkCmdInTab.label       "Opne lenkje i ny fane">
+<!ENTITY openLinkCmdInTab.accesskey   "p">
+<!ENTITY openLinkCmd.label            "Opne lenkje i nytt vindauge">
+<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Opne lenkje i privat vindauge">
+<!ENTITY openLinkCmdInPrivateWindow.accesskey "n">
+<!ENTITY openLinkInWindowCmd.label    "Opne">
+<!ENTITY openLinkInWindowCmd.accesskey "O">
+<!ENTITY openFrameCmd.label           "Opne ramme i nytt vindauge">
+<!ENTITY openFrameCmd.accesskey       "O">
+<!ENTITY openFrameCmdInTab.label      "Opne ramme i ny fane">
+<!ENTITY openFrameCmdInTab.accesskey  "f">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY goBackCmd.label              "Tilbake">
@@ -46,6 +58,7 @@
 <!ENTITY bookmarkLinkCmd.label        "Bokmerk denne lenkja…">
 <!ENTITY bookmarkLinkCmd.accesskey    "B">
 <!ENTITY bookmarkFrameCmd.label       "Bokmerk denne ramma…">
+<!ENTITY bookmarkFrameCmd.accesskey   "r">
 <!ENTITY savePageAsCmd.label          "Lagre sida som…">
 <!ENTITY savePageCmd.label            "Lagre sida">
 <!ENTITY savePageCmd.accesskey        "a">

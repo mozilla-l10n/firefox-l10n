@@ -79,9 +79,14 @@
 
 <!ENTITY prefs.ctx.remove.label "Fjern">
 <!ENTITY prefs.ctx.remove.accesskey "F">
+<!ENTITY prefs.ctx.selectAll.label "Merk alt">
+<!ENTITY prefs.ctx.selectAll.accesskey "M">
 
+<!ENTITY prefs.button.remove.label "Fjern">
+<!ENTITY prefs.button.remove.accesskey "F">
 
 <!-- passwords -->
+<!ENTITY pwd.description "Du har lagra følgjande passord for dette domenet:">
 
 <!ENTITY pwd.tree.host.label "Nettstad">
 <!ENTITY pwd.tree.username.label "Brukarnamn">
@@ -98,6 +103,7 @@
 <!ENTITY pwd.button.remove.accesskey "F">
 
 <!-- storage -->
+<!ENTITY storage.description "Dette domenet brukar følgjande datalager på datamaskina:">
 
 <!ENTITY storage.tree.host.label "Nettstad">
 <!ENTITY storage.tree.type.label "Type">
@@ -112,6 +118,7 @@
 <!ENTITY storage.button.remove.accesskey "F">
 
 <!-- form data -->
+<!ENTITY fdata.search.placeholder "Søk i feltdata">
 
 <!ENTITY fdata.tree.fieldname.label "Feltnamn">
 <!ENTITY fdata.tree.value.label "Innskriven verdi">

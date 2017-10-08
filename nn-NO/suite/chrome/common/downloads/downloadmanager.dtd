@@ -13,6 +13,8 @@
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Tøm lista">
+<!ENTITY cmd.clearList.tooltip           "Fjerner fullførte, avbrotne og mislykka nedlastingar frå lista">
+<!ENTITY cmd.clearList.accesskey         "T">
 
 <!ENTITY col.name.label                  "Namn">
 <!ENTITY col.name.accesskey              "N">
@@ -20,6 +22,9 @@
 <!ENTITY col.status.label                "Status">
 <!ENTITY col.status.accesskey            "S">
 <!ENTITY col.status.tooltip              "Status">
+<!ENTITY col.actionPlay.label            "Pause/Fortset/Prøv på nytt">
+<!ENTITY col.actionPlay.accesskey        "u">
+<!ENTITY col.actionPlay.tooltip          "Pause/Fortset/Prøv på nytt">
 <!ENTITY col.actionStop.label            "Avbryt/fjern">
 <!ENTITY col.actionStop.accesskey        "A">
 <!ENTITY col.actionStop.tooltip          "Avbryt/fjern">
@@ -36,6 +41,7 @@
 <!ENTITY col.transferrate.accesskey      "F">
 <!ENTITY col.transferrate.tooltip        "Fart">
 <!ENTITY col.timeelapsed.label           "Tid brukt">
+<!ENTITY col.timeelapsed.accesskey       "b">
 <!ENTITY col.timeelapsed.tooltip         "Tid brukt">
 <!ENTITY col.starttime.label             "Starttid">
 <!ENTITY col.starttime.accesskey         "S">

@@ -6,6 +6,7 @@
 
 <!ENTITY pref.content.title                     "Innhald">
 
+<!ENTITY siteIcons.label                        "Nettsideikon">
 <!ENTITY useSiteIcons.label                     "Vis nettsideikon">
 <!ENTITY useSiteIcons.accesskey                 "V">
 
@@ -26,4 +27,8 @@
 <!ENTITY maxZoom.accesskey                      "i">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY siteSpecific.label                     "Hugs zoom-nivå for kvar nettstad">
+<!ENTITY siteSpecific.accesskey                 "H">
+<!ENTITY textZoomOnly.label                     "Zoom berre tekst i staden for heile sider">
+<!ENTITY textZoomOnly.accesskey                 "Z">
 
