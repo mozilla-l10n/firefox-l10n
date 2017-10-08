@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Attgjevingsmodus:">
 <!ENTITY  generalSize           "Storleik:">
 <!ENTITY  generalReferrer       "Tilvisande URL:">
-<!ENTITY  generalSource         "Kjelde:">
+<!ENTITY  generalSource         "Snøgglagerkjelde:">
 <!ENTITY  generalModified       "Sist endra:">
 <!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Namn">
