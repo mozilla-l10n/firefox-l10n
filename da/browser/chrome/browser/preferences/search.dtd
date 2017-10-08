@@ -23,7 +23,7 @@
 <!ENTITY chooseWhichOneToDisplay2.label         "Vælg de alternative søgetjenester, der vises under adresselinjen og søgelinjen, når du begynder at indtaste en søgeterm.">
 
 <!ENTITY engineNameColumn.label                "Søgetjeneste">
-<!ENTITY engineKeywordColumn.label             "Stikord">
+<!ENTITY engineKeywordColumn.label             "Genvej">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Gendan standard-søgetjenester">
 <!ENTITY restoreDefaultSearchEngines.accesskey "g">
