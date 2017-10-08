@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-scripts.xul -->
+
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+<!ENTITY pref.scripts.title              "Skript og programtillegg">
+
+<!ENTITY navigator.label                 "Nettlesar">
+<!ENTITY navigator.accesskey             "N">
+
+<!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+<!ENTITY enableJavaScript.label          "Slå på JavaScript for">
+<!ENTITY allowScripts.label              "Tillat skript å:">
+<!ENTITY allowScripts.accesskey          "s">
+
+
+<!ENTITY enablePlugins.label             "Tillat programtillegg for">
+<!ENTITY enablePluginForSuite.label      "Suite">
+

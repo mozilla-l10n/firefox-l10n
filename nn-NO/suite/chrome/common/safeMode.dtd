@@ -6,6 +6,8 @@
 <!ENTITY window.width                 "37em">
 
 
+<!ENTITY disableAddons.label          "Slå av alle utvidingar">
+<!ENTITY disableAddons.accesskey      "S">
 
 
 
