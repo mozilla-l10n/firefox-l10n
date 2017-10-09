@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Máme nějaké potíže s obnovením vaší předchozí relace prohlížení. Zvolte Obnovit relaci a zkuste to znovu.">
 <!ENTITY restorepage.tryThis2       "Pořád se nedaří relaci obnovit? Někdy za to může některý z panelů. Podívejte se na předchozí panely, zrušte označení těch, které nepotřebujete obnovit, a pak pokračujte v obnově.">
 
+<!ENTITY restorepage.hideTabs       "Skrýt předchozí panely">
+<!ENTITY restorepage.showTabs       "Zobrazit předchozí panely">
+
 <!ENTITY restorepage.tryagainButton2 "Obnovit relaci">
 <!ENTITY restorepage.restore.access2 "r">
 <!ENTITY restorepage.closeButton2    "Začít novou relaci">
