@@ -12,7 +12,9 @@
 <!ENTITY makeUrlRelative.label "Tansa URL d tamassaɣt ɣer wadig n usebter">
 <!ENTITY makeUrlRelative.accessKey "b">
 <!ENTITY makeUrlRelative.tooltip "Snifel gar tansa URL tamassaɣt akked tmegdezt. Yessefk ad sekelseḍ di tazwara asebter akken ad tesnifleḍ ay-agi.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Sekcem tansa n usebter web, afaylu adigan, neq tamdeyt yettusemman neɣ aqeṛṛu si tebdert n usfaylu udhim:">
 <!ENTITY LinkURLEditField.accessKey "w">
+<!ENTITY LinkURLEditField2.label "Sekcem tansa n usebter web, afaylu adigan, neγ tamdeyt yettusemman neɣ aqeṛṛu si tebdert n usfaylu udhim:">
+<!ENTITY LinkURLEditField2.accessKey "w">
