@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt nniḍen.">
 <!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad terreḍ, sakin err-d.">
 
+<!ENTITY restorepage.hideTabs       "Ffer iccaren yezrin">
+<!ENTITY restorepage.showTabs       "Sken iccaren yezrin">
+
 <!ENTITY restorepage.tryagainButton2 "Err-d tiɣimit">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Senker tiɣimit tamaynut">
