@@ -16,7 +16,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "A">
 <!ENTITY  manualTypeRadio2.label        "Ruční konfigurace proxy serverů">
 <!ENTITY  manualTypeRadio2.accesskey    "k">
-<!ENTITY  autoTypeRadio2.label          "URL pro automatickou konfiguraci proxy serverů">
+<!ENTITY  autoTypeRadio2.label          "URL adresa pro automatickou konfiguraci proxy serverů">
 <!ENTITY  autoTypeRadio2.accesskey      "m">
 <!ENTITY  reload.label                  "Obnovit">
 <!ENTITY  reload.accesskey              "i">
