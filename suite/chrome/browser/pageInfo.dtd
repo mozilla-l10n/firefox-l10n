@@ -93,6 +93,7 @@
 <!ENTITY  permImage             "Laste inn bilde">
 <!ENTITY  permPopup             "Opne sprettoppvindauge">
 <!ENTITY  permNotifications     "Vis varsel">
+<!ENTITY  permInstall           "Installere utvidingar og tema">
 <!ENTITY  permGeo               "Del plassering">
 
 <!ENTITY  securityTab           "Sikkerheit">
