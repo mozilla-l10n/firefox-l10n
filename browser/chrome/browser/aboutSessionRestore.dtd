@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Mamy problemy, waše slědke pśeglědowańske pósejźenje wótnowiś. Wubjeŕśo Pósejźenje wótnowiś a wopytajśo hyšći raz.">
 <!ENTITY restorepage.tryThis2       "Njamóžośo hyšći swójo pósejźenje wótnowiś? Wótergi rejtark problem zawinujo. Pśeglědajśo pjerwjejšne rrjtarki, wótwónoźćo kokulku z rejtarkow, kótarež njetrjebaśo wobchowaś, a wótnowśo pótom.">
 
+<!ENTITY restorepage.hideTabs       "Pjerwjejšne rejtarki schowaś">
+<!ENTITY restorepage.showTabs       "Pjerwjejšne rejtarki pokazaś">
+
 <!ENTITY restorepage.tryagainButton2 "Pósejźenje wótnowiś">
 <!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2    "Nowe pósejźenje zachopiś">
