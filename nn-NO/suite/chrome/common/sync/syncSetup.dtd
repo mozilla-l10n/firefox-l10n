@@ -5,6 +5,8 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY button.createNewAccount.label "Lag ein ny konto">
+<!ENTITY setup.haveAccount.label "Eg har allereie ein &syncBrand.fullName.label;-konto.">
 <!ENTITY button.connect.label "Kople til">
 
 
@@ -88,3 +90,4 @@
 <!ENTITY setup.optionsConfirmPage.title "Stadfest">
 
 <!-- New & Existing Account: Setup Complete -->
+<!ENTITY setup.successPage.title "Konfigurasjonen er fullført">
