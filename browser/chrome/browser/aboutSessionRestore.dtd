@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Mamy problemy, waše poslednje přehladowanske posedźenje wobnowić. Wubjerće Posedźenje wobnowić a spytajće hišće raz.">
 <!ENTITY restorepage.tryThis2       "Njemóžeće hišće swoje posedźenje wobnowić? Druhdy rajtark problem zawinuje. Přehladajće předchadne rajtarki, wotstrońće hóčku z rajtarkow, kotrež njedyrbiće wobchować, a wobnowće potom.">
 
+<!ENTITY restorepage.hideTabs       "Předchadne rajtarki schować">
+<!ENTITY restorepage.showTabs       "Předchadne rajtarki pokazać">
+
 <!ENTITY restorepage.tryagainButton2 "Posedźenje wobnowić">
 <!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2    "Nowe posedźenje započeć">
