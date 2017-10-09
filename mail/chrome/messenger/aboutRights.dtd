@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; menawarkan pilihan perkhidmatan (&quot;Perkhidmatan&quot;), seperti perkhidmatan kemaskini add-ons, yang disediakan untuk kegunaan anda dengan versi binari &brandShortName ini; yang dijelaskan di bawah. Jika anda tidak mahu menggunakan Perkhidmatan atau terma di bawah tidak boleh diterima, anda boleh menyahdayakan perkhidmatan kemaskini add-on dengan membuka keutamaan aplikasi dan pilih ">
+<!ENTITY rights.webservices-a "&brandFullName; menawarkan pilihan (&quot;Perkhidmatan&quot;), seperti perkhidmatan kemaskini add-ons yang disediakan untuk kegunaan anda dengan versi binari &brandShortName; ini yang dijelaskan di bawah. Jika anda tidak mahu menggunakan Perkhidmatan atau terma di bawah tidak boleh diterima, anda boleh menyahdayakan perkhidmatan kemaskini add-on dengan membuka keutamaan aplikasi dan pilih ">
 <!ENTITY rights.webservices-b "Lanjutan">
 <!ENTITY rights.webservices-c " diikuti dengan ">
 <!ENTITY rights.webservices-d "Kemaskini">
