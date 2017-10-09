@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Vi har problem med att återställa din senaste session. Välj Återställ session för att försöka igen.">
 <!ENTITY restorepage.tryThis2       "Kan du fortfarande inte återställa din session? Ibland orsakar en flik problemet. Visa tidigare flikar, ta bort bocken från flikarna som du inte behöver återställa och återställ sedan.">
 
+<!ENTITY restorepage.hideTabs       "Dölj tidigare flikar">
+<!ENTITY restorepage.showTabs       "Visa tidigare flikar">
+
 <!ENTITY restorepage.tryagainButton2 "Återställ session">
 <!ENTITY restorepage.restore.access2 "t">
 <!ENTITY restorepage.closeButton2    "Starta en ny session">
