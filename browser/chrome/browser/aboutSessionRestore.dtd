@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Vi har probleme med å byggje oppatt den siste nettlesarøkta di. Velg Bygg oppatt programøkt for å prøve på nytt.">
 <!ENTITY restorepage.tryThis2       "Kan du framleis ikkje byggje oppat programøkta di? Nokre gongar er ei fane orsak til problemet. Sjå over tidlegare faner, fjern merket frå fanene du ikkje treng å byggje oppatt, og bygg oppatt deretter.">
 
+<!ENTITY restorepage.hideTabs       "Gøym tidlegare faner">
+<!ENTITY restorepage.showTabs       "Vis tidlegare faner">
+
 <!ENTITY restorepage.tryagainButton2 "Bygg oppatt programøkta">
 <!ENTITY restorepage.restore.access2 "B">
 <!ENTITY restorepage.closeButton2    "Start ny programøkt">
