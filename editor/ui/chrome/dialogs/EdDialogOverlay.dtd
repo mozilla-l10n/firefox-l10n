@@ -17,3 +17,4 @@
 <!ENTITY LinkURLEditField.label "Въведете адрес на уеб страница, локален файл, изберете именувана котва или заглавие от списъка:">
 <!ENTITY LinkURLEditField.accessKey "В">
 <!ENTITY LinkURLEditField2.label "Въведете адрес на уеб страница, местен файл, изберете именувана котва или заглавие от контекстуалното меню на полето:">
+<!ENTITY LinkURLEditField2.accessKey "В">
