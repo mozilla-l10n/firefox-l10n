@@ -54,6 +54,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nombre de calendario">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar por nombre de calendario">
 <!ENTITY calendar.unifinder.tree.duration.label            "Vence en">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordenar por duración">
 
 
 
