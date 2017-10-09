@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; položky">
 <!ENTITY bookmark_folder_one_item "1 položka">
+<!ENTITY bookmark_folder_updated "Složka aktualizována">
 <!ENTITY bookmark_parent_folder "Nadřazená složka">
 <!ENTITY bookmark_add_folder "Přidat novou složku">
 
