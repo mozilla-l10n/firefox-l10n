@@ -28,7 +28,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Zapnout frontu karet">
+<!ENTITY firstrun_tabqueue_message_off "Zapnout frontu panelů">
 <!ENTITY firstrun_tabqueue_subtext_off "Uložte si odkazy ve &brandShortName; na později při klepání na ně v jiných aplikacích.">
 
 <!ENTITY firstrun_tabqueue_message_on "Úspěch!">
@@ -138,7 +138,7 @@
 <!ENTITY settings "Nastavení">
 <!ENTITY settings_title "Nastavení">
 <!ENTITY pref_category_general "Obecné">
-<!ENTITY pref_category_general_summary3 "Úvodní stránka, jazyk, pole adresy">
+<!ENTITY pref_category_general_summary3 "Úvodní stránka, jazyk, fronta panelů">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -519,7 +519,7 @@
 <!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
 <!ENTITY pref_scroll_title_bar_summary2 "Při skrolování dolů skrýt lištu prohlížeče &brandShortName;">
 
-<!ENTITY pref_tab_queue_title3 "Fronta karet">
+<!ENTITY pref_tab_queue_title3 "Fronta panelů">
 <!ENTITY pref_tab_queue_summary4 "Uložte si odkazy do příštího otevření aplikace &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
