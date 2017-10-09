@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Estamos teniendo problemas para restaurar tu navegación de la sesión anterior. Selecciona Restaurar Sesión para intentar de nuevo.">
 <!ENTITY restorepage.tryThis2       "¿Aún no puedes restaurar tu sesión? A veces una pestaña causa el problema. Revisa las pestañas anteriores, remueve la marca de las que no necesitas recuperar y luego restaura.">
 
+<!ENTITY restorepage.hideTabs       "Ocultar pestañas anteriores">
+<!ENTITY restorepage.showTabs       "Ver pestañas anteriores">
+
 <!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Iniciar nueva sesión">
