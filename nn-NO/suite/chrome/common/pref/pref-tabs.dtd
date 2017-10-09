@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY tabDisplay.label "Fanevising">
 
+<!ENTITY loadGroupAppend.label "Legg til faner">
+<!ENTITY loadGroupAppend.accesskey "L">
 
 
 <!ENTITY openDataManager.label "Datahandsamar">
