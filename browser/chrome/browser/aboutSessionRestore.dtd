@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Kami menghadapi masalah memulihkan sesi pelayaran anda sebelum ini. Pilih Pulih Sesi dan cuba lagi.">
 <!ENTITY restorepage.tryThis2       "Masih tidak boleh memulihkan sesi anda? Kadang-kadang, tab yang menjadi punca masalah ini. Lihat tab sebelum ini, buangkan tanda pada tab yang anda tidak mahu pulihkan, dan kemudian pulih semula yang lain.">
 
+<!ENTITY restorepage.hideTabs       "Sorok Tab Dahulu">
+<!ENTITY restorepage.showTabs       "Papar Tab Dahulu">
+
 <!ENTITY restorepage.tryagainButton2 "Pulih Sesi">
 <!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2    "Mulakan Sesi Baru">
