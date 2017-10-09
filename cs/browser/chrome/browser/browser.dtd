@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Přetáhněte své oblíbené položky na lištu nebo do rozšiřující nabídky.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Zvolte si některý z tisíce doplňků">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si některý z tisíce doplňků">
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
 <!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Hlavička okna">
