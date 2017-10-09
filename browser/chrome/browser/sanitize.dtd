@@ -23,6 +23,7 @@
 
 <!ENTITY clearDataSettings2.label     "જ્યારે હું &brandShortName; બંધ કરું, ત્યારે તે બધું આપોઆપ સાફ કરતું હોવું જોઈએ:">
 
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
