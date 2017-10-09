@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "A' sgrìobhadh: (gun chuspair)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Faidhle">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ùr">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Clò-bhuail…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "C">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Deasaich">
 <!ENTITY editMenu.accesskey "e">
 <!ENTITY undoCmd.label "Neo-dhèan">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "L">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Sealladh">
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY viewToolbarsMenuNew.label "Na bàraichean-inneal">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Bàr-taoibh an luchd-aithne">
 <!ENTITY addressSidebar.accesskey "o">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Fòrmat">
 <!ENTITY formatMenu.accesskey "F">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Roghainnean">
 <!ENTITY optionsMenu.accesskey "R">
 <!ENTITY checkSpellingCmd2.label "Ceartaich an litreachadh…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Thoir luaidh air an teachdaireachd">
 <!ENTITY quoteCmd.accesskey "T">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Cuir cairt phearsanta ris (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Cuir lethbhreac dheth gu">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Faidhle an-seo">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Innealan">
 <!ENTITY tasksMenu.accesskey "I">
 <!ENTITY messengerCmd.label "Post ⁊ buidhnean-naidheachd">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Lughdaich">
 <!ENTITY bringAllToFront.label "Gluais a h-uile gun a' bheulaibh">
 <!ENTITY zoomWindow.label "Sùm">
 <!ENTITY windowMenu.label "Uinneag">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Cuir">
 <!ENTITY quoteButton.label "Thoir luaidh">
 <!ENTITY addressButton.label "Luchd-aithne">
@@ -207,24 +207,23 @@
 <!ENTITY spellingButton.label "Litreachadh">
 <!ENTITY saveButton.label "Sàbhail">
 <!ENTITY printButton.label "Clò-bhuail">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Cuir an teachdaireachd an-dràsta">
 <!ENTITY sendlaterButton.tooltip "Cuir an teachdaireachd seo uaireigin eile">
 <!ENTITY quoteButton.tooltip "Thoir luaidh air an teachdaireachd roimhe">
 <!ENTITY addressButton.tooltip "Tagh faightear o leabhar nan seòladh">
 <!ENTITY attachButton.tooltip "Cuir ceanglachan ris">
 <!ENTITY spellingButton.tooltip "Ceartaich an litreachadh san taghadh no san teachdaireachd air fad">
-<!ENTITY statusLanguageText.tooltip "Cànan a’ cheartachaidh-litreachaidh">
 <!ENTITY saveButton.tooltip "Sàbhail an teachdaireachd seo">
 <!ENTITY cutButton.tooltip              "Gearr às">
 <!ENTITY copyButton.tooltip             "Dèan lethbhreac">
 <!ENTITY pasteButton.tooltip            "Cuir ann">
 <!ENTITY printButton.tooltip "Clò-bhuail an teachdaireachd seo">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 20em;">
 <!ENTITY fromAddr.label "O:">
 <!ENTITY fromAddr.accesskey "O">
@@ -239,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "c">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Cuir samhla-gnùis ann">
 <!ENTITY smiley1Cmd.label "Fiamh-ghàire">
 <!ENTITY smiley2Cmd.label "Drèin">
@@ -258,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Neo-chiontach">
 <!ENTITY smiley15Cmd.label "Gul">
 <!ENTITY smiley16Cmd.label "Bilean dùinte">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Cha deach moladh sam bith a lorg">
 <!ENTITY spellCheckIgnoreWord.label "Leig seachad am facal seo">
 <!ENTITY spellCheckIgnoreWord.accesskey "i">
@@ -298,14 +297,18 @@
 <!ENTITY convertRegularAttachment.accesskey "b">
 <!ENTITY attachPage.label "Cuir duilleag-lìn ris…">
 <!ENTITY attachPage.accesskey "C">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
 <!ENTITY spellAddDictionaries.accesskey "a">
+
 <!-- Title for the address picker panel -->
-
 <!ENTITY addressesSidebarTitle.label "Luchd-aithne">
-<!-- Identity popup customize menuitem -->
 
+<!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Gnàthaich an seòladh “O”…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Cànan an dearbhadh-litreachaidh">
+<!ENTITY encodingStatusPanel.tooltip "Còdachadh an teacsa">
