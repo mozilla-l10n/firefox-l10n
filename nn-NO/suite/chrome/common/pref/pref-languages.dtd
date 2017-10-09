@@ -4,6 +4,9 @@
 
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
+<!ENTITY languages.customize.title                      "Språk">
+<!ENTITY langtitle.label                                "Språk for nettsider">
+<!ENTITY languages.customize.prefAddLangDescript        "Velg kva for språk du vil leggje til.">
 <!ENTITY languages.customize.addButton.label            "Legg til…">
 <!ENTITY languages.customize.addButton.accesskey        "L">
 <!ENTITY languages.customize.deleteButton.label         "Fjern">
