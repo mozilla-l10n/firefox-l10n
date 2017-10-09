@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Meil esineb raskusi sinu viimase lehitsemise seansi taastamisel. Uuesti proovimiseks klõpsa Taasta seanss.">
 <!ENTITY restorepage.tryThis2       "Seansi taastamisega esineb jätkuvalt probleeme? Mõnikord on põhjuseks vaid üksainus kaart. Vaata taastatavaid kaarte ja eemalda linnuke neilt, mille taastamist sa ei vaja, seejärel proovi uuesti.">
 
+<!ENTITY restorepage.hideTabs       "Peida eelmise seansi kaardid">
+<!ENTITY restorepage.showTabs       "Kuva eelmise seansi kaarte">
+
 <!ENTITY restorepage.tryagainButton2 "Taasta seanss">
 <!ENTITY restorepage.restore.access2 "T">
 <!ENTITY restorepage.closeButton2    "Alusta uut seanssi">
