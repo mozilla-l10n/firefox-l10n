@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Son gezinti oturumunuzdaki sayfayı geri getirmeyi başaramadık. Yeniden denemek için “Oturumu geri getir” seçeneğini seçebilirsiniz.">
 <!ENTITY restorepage.tryThis2       "Yine mi olmadı? Bazen sorun tek bir sekmeden kaynaklanıyor olabilir. Önceki sekmelerinize bir bakın, geri yüklenmesi gerekmeyen sekmelerin işaretini kaldırıp yeniden deneyin.">
 
+<!ENTITY restorepage.hideTabs       "Önceki sekmeleri gizle">
+<!ENTITY restorepage.showTabs       "Önceki sekmeleri göster">
+
 <!ENTITY restorepage.tryagainButton2 "Oturumu geri getir">
 <!ENTITY restorepage.restore.access2 "O">
 <!ENTITY restorepage.closeButton2    "Yeni oturum başlat">
