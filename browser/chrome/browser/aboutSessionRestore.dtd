@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Estamos a ter problemas a restaurar a sua última sessão de navegação. Selecione Restaurar sessão para tentar novamente.">
 <!ENTITY restorepage.tryThis2       "Ainda não consegue restaurar a sua sessão? Ás vezes um separador pode estar a causar o problema. Veja separadores anteriores, remova a marca de verificação dos separadores que não precisa de recuperar, e depois restaure.">
 
+<!ENTITY restorepage.hideTabs       "Ocultar separadores anteriores">
+<!ENTITY restorepage.showTabs       "Ver separadores anteriores">
+
 <!ENTITY restorepage.tryagainButton2 "Restaurar sessão">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Começar nova sessão">
