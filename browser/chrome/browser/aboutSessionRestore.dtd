@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Соңғы сессияны қалпына келтіруде мәселелер орын алды. Қайталап көру үшін, Сессияны қалпына келтіруді таңдаңыз.">
 <!ENTITY restorepage.tryThis2       "Әлі де сессияны қалпына келтіре алмайсыз ба? Кейде бұл мәселе бір беттен болуы мүмкін. Алдыңғы беттерді қарап, керек емес беттерден белгілеуді алып тастап, қалпына келтіріңіз.">
 
+<!ENTITY restorepage.hideTabs       "Алдыңғы беттерді жасыру">
+<!ENTITY restorepage.showTabs       "Алдыңғы беттерді қарау">
+
 <!ENTITY restorepage.tryagainButton2 "Сессияны қалпына келтіру">
 <!ENTITY restorepage.restore.access2 "п">
 <!ENTITY restorepage.closeButton2    "Жаңа сессияны бастау">
