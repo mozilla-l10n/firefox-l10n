@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Při ukončení má &brandShortName; automaticky smazat:">
 
+<!ENTITY clearDataSettings3.label     "Při ukončení aplikace &brandShortName; automaticky vymazat">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
