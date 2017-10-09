@@ -9,12 +9,12 @@
 
 <!ENTITY  notificationsDoNotDisturb.label      "Forstyr ikke">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "o">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist meddelelser, før du genstarter &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Der vil ikke blive vist beskeder, før du genstarter &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Undtagelser…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
-<!ENTITY  notificationPermissions.label                         "Meddelelser">
+<!ENTITY  notificationPermissions.label                         "Beskeder">
 <!ENTITY  notificationSettingsButton.label                      "Indstillinger…">
 <!ENTITY  notificationSettingsButton.accesskey                  "I">
 <!ENTITY  notificationPermissionsLearnMore.label                "Læs mere">
