@@ -35,7 +35,7 @@
 <!ENTITY bookmarks.folder.toolbar.label 'Bogmærkelinjen'>
 <!ENTITY bookmarks.folder.other.label 'Andre bogmærker'>
 <!ENTITY bookmarks.folder.desktop.label 'Bogmærker på desktoppen'>
-<!ENTITY bookmarks.folder.mobile.label 'Bogmærker på mobilen'>
+<!ENTITY bookmarks.folder.mobile.label 'Mobil-bogmærker'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Fastgjort'>
 
@@ -68,6 +68,8 @@
 <!ENTITY fxaccount_status_passwords2 'Logins'>
 <!ENTITY fxaccount_status_tabs 'Åbne faneblade'>
 <!ENTITY fxaccount_status_additional_settings 'Flere indstillinger'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
