@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理设备…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
 
-<!ENTITY appMenuRecentHighlights.label "近期焦点">
+<!ENTITY appMenuRecentHighlights.label "近期聚焦">
 
 <!ENTITY customizeMenu.addToToolbar.label "添加到工具栏">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">

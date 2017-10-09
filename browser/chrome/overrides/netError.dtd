@@ -54,7 +54,7 @@
 
 <!ENTITY malformedURI.pageTitle "无效网址">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "此地址看上去不太对。">
+<!ENTITY malformedURI.title1 "呃…这个网址好像有错。">
 
 <!ENTITY netInterrupt.title "连接中断">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
