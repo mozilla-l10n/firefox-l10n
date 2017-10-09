@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "અમને તમારું છેલ્લું જોયેલું સત્ર પુનઃસંગ્રહિત કરવામાં તકલીફ થઇ રહી છે. ફરીથી પ્રયત્ન કરવા માટે સત્ર પુનઃસંગ્રહો પસંદ કરો.">
 <!ENTITY restorepage.tryThis2       "હજુ સુધી તમારુ સત્ર પુનઃસંગ્રહિત નથી કરી શકતા? કેટલીક વખત ટૅબને કારણે સમસ્યા સર્જાય છે. આગલી ટૅબ્સ જુઓ, તમારે જે ટૅબને પરત લાવવાની જરુર ન હોય તેનાં પરથી પસંદગી ચિહ્ન દૂર કરો, અને પછી પુનઃસંગ્રહિત કરો.">
 
+<!ENTITY restorepage.hideTabs       "પહેલાની ટૅબ્સ છુપાવો">
+<!ENTITY restorepage.showTabs       "પાછલી ટૅબ્સ જુઓ">
+
 <!ENTITY restorepage.tryagainButton2 "સત્ર પુનઃસંગ્રહો">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "નવું સત્ર શરુ કરો">
