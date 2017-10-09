@@ -2,9 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY folderProps.windowtitle.label           "Eigenskapar">
 
+<!ENTITY generalInfo.label                       "Generell informasjon">
+<!ENTITY folderCharsetFallback2.label            "Reserve-teiknkoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 
+<!ENTITY retentionUseAccount.label "Bruk innstillingane frå kontoen min">
+<!ENTITY retentionUseAccount.accesskey "B">
 <!ENTITY daysOld.label "dager gammal">
+<!ENTITY message.label "meldingane">
 
 
 
