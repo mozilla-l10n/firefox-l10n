@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Isara ang Tab na ito">
+<!ENTITY tabCrashed.title "Mangungulat ng mga crash sa tab">
+
+<!ENTITY tabCrashed.closeTab2  "Isara ang Tab">
 <!ENTITY tabCrashed.restoreTab "Ibalik ang Tab na Ito">
 <!ENTITY tabCrashed.restoreAll "Ibalik lahat nang nag-crash na mga Tab">
 
@@ -14,17 +16,12 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 <!ENTITY tabCrashed.header2 "Hala! Ang iyong Tab ay nag-crash.">
-<!ENTITY tabCrashed.offerHelp "Kaya ka namin na tulungan!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Piliin ang &tabCrashed.restoreTab; para ma-load muli ang mga nilalaman ng pahina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Piliin ang &tabCrashed.restoreTab; o &tabCrashed.restoreAll; para ma-load muli ang mga nilalaman ng pahina.">
+<!ENTITY tabCrashed.offerHelp2 "Maaari kaming tumulong!">
 <!ENTITY tabCrashed.requestHelp "Matutulungan mo ba kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Crash reports ay tinutulungan i-diagnose ang mga problema at gagawing &brandShortName; mas maigi.">
 <!ENTITY tabCrashed.requestReport "I-report ang tab na ito">
-<!ENTITY tabCrashed.sendReport2 "Magpadala ng crash report para sa kasalukuyang tab">
 <!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (mga kumento ay nakikita ng publiko)">
-<!ENTITY tabCrashed.includeURL2 "Isama ang page URL sa crash report">
 <!ENTITY tabCrashed.emailPlaceholder "Ibigay ang iyong email address dito">
 <!ENTITY tabCrashed.emailMe "I-email ako kapag may bagong impormasyon">
 <!ENTITY tabCrashed.reportSent "Crash report ay nai-padala na; salamat sa pag tulong gawing mas maayos ang &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "I-report ang background tabs ">
-<!ENTITY tabCrashed.autoSubmit2 "I-update ang iyong mga preferences na kusang mag-send ng mga crash report, kabilang ang mga report tungkol sa mga crashed background tabs galing sa session na ito at sa mga hinaharap na sessions">
