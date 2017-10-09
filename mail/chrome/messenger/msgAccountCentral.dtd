@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Cunntasan">
 <!ENTITY subscribeImapFolders.label   "Rianaich fo-sgrìobhaidhean gu pasgain">
 <!ENTITY settingsLink.label           "Seall roghainnean a' chunntais seo">
-<!ENTITY newAcctLink.label            "Cruthaich cunntas ùr">
-<!ENTITY newAcct.label                "Cruthaich cunntas ùr:">
+<!ENTITY setupNewAcct.label           "Suidhich cunntas:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Feartan adhartach">
 <!ENTITY searchMsgsLink.label         "Rannsaich na teachdaireachdan">

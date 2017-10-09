@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Roghainnean ceangail">
+<!ENTITY  window.width                  "49em">
+<!ENTITY  window.macWidth               "44em">
 
 <!ENTITY  proxyTitle.label              "Rèitich progsaidhean a chum inntrigeadh dhan lìon">
 <!ENTITY  noProxyTypeRadio.label        "Gun phrogsaidh">
@@ -38,3 +40,8 @@
 <!ENTITY  noproxyExplain.label          "Ball-sampaill: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Cleachd am progsaidh seo airson gach pròtocal">
 <!ENTITY  shareproxy.accesskey          "C">
+<!ENTITY  autologinproxy.label          "Na iarr orm mo dhearbhadh ma chaidh am facal-faire a shàbhaladh ann">
+<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Nì an roghainn seo dearbhadh sàmhach as do leth mu choinneamh phrogsaidhean a chaidh ainm is facal-faire a shàbhaladh air an son. Thèid do bhrodadh mur an obraich an dearbhadh.">
+<!ENTITY  socksRemoteDNS.label          "DNS progsaidh nuair a chleachdar SOCKS v5">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
