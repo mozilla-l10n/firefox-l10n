@@ -10,6 +10,12 @@
 <!ENTITY disableAddons.accesskey      "S">
 
 
+<!ENTITY deleteBookmarks.label        "Slett alle bokmerke med unntak av sikkerheitskopiar">
+<!ENTITY deleteBookmarks.accesskey    "t">
 
 
+<!ENTITY restoreSearch.label          "Tilbakestill til standard søkjemotor">
+<!ENTITY restoreSearch.accesskey      "k">
 
+<!ENTITY changeAndRestartButton.label "Utfør endringane og start på nytt">
+<!ENTITY continueButton.label         "Fortset i trygg modus">
