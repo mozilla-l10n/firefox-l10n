@@ -242,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu marcaje">
 <!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală cu marcaje">
 <!ENTITY viewBookmarksToolbar.label         "Vezi bara cu marcaje">
-<!ENTITY searchBookmarks.label              "Caută în marcaje">
+<!ENTITY searchBookmarks.label              "Caută marcaje">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -960,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
 
+<!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate şi mai multe">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
