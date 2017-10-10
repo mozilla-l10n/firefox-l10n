@@ -15,7 +15,7 @@
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "કંઇ આયાત ન કરો">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "સફારી">
+<!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">
 <!ENTITY importFromCanary.accesskey     "n">
