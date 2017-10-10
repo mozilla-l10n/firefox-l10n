@@ -29,3 +29,4 @@
 <!ENTITY tabCrashed.emailMe "Ninvia-me un correu electronico quan bi haiga mas información disponible">
 <!ENTITY tabCrashed.reportSent "Ya s'ha ninviau o informe de fallos; muitas gracias por aduyar a amillorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Informar d'as pestanyas en segundo plano">
+<!ENTITY tabCrashed.autoSubmit3 "Cambiar las preferencias enta ninviar reportes automaticament quan lo &brandShortName; falle.">
