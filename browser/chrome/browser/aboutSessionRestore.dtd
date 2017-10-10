@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "We hebben problemen bij het herstellen van uw laatste browsersessie. Selecteer Sessie herstellen om het opnieuw te proberen.">
 <!ENTITY restorepage.tryThis2       "Kunt u uw sessie nog steeds niet herstellen? Soms veroorzaakt een tabblad het probleem. Bekijk vorige tabbladen, verwijder het vinkje naast de tabbladen die u niet nodig hebt, en herstel daarna.">
 
+<!ENTITY restorepage.hideTabs       "Vorige tabbladen verbergen">
+<!ENTITY restorepage.showTabs       "Vorige tabbladen bekijken">
+
 <!ENTITY restorepage.tryagainButton2 "Sessie herstellen">
 <!ENTITY restorepage.restore.access2 "h">
 <!ENTITY restorepage.closeButton2    "Nieuwe sessie starten">
