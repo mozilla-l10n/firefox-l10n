@@ -2,8 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "இங்கு என்னை வெளியேற்று!">
-<!ENTITY safeb.palm.decline.label "இந்த எச்சரிக்கையை தவிர்">
+<!ENTITY safeb.palm.accept.label2 "பின் செல்">
+<!ENTITY safeb.palm.seedetails.label "விவரத்தைப் பார்">
+
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
@@ -13,24 +14,33 @@
   report-phishing.dtd are never shown at the same time, the same accesskey can
   be used for them. -->
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
-<!ENTITY safeb.palm.reportPage.label "இப்பக்கம் ஏன் தடுக்கப்பட்டது?">
+
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
-<!ENTITY safeb.palm.advisory.desc "<a id='advisory_provider'/> என்பவரால் ஆலோசனை வழங்கப்பட்டது">
 
-<!ENTITY safeb.blocked.malwarePage.title "தாக்கப்பட்ட இணைய தளம் என அறிக்கையிடப்பட்டுள்ளது!">
-<!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "இந்த இணைய தளம் <span id='malware_sitename'/> இல் தாக்கப்பட்டுள்ள தளம் என அறிக்கையிடப்பட்டுள்ளது மற்றும் உங்கள் பாதுகாப்பு முன்னுரிமையைக் கொண்டு தடுக்கப்பட்டுள்ளது.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>தாக்கப்பட்ட தளங்கள் நிரல்களை நிறுவி அந்தரங்க தகவல்களை திருடும், உங்கள் கணினியைப் பயன்படுத்தி மற்றவர்களைத் தாக்கும் அல்லது உங்கள் கணினியைச் சேதப்படுத்தும்.</p><p>சில தாக்குதல் வேண்டுமென்றே பாதிப்படைய செய்யும் மென்பொருளை விநியோகிக்கும், ஆனால் சில உரிமையாளரின் அனுமதியில்லாமல் செயல்படும்.</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "விரும்பத்தகா மென்பொருள் பக்கமென புகார் செய்யப்பட்டது!">
-<!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "இந்த வலைப் பக்கம் <span id='unwanted_sitename'/> இல் தெவையற்ற மென்பொருள்  உல்லது என அறிக்கையிடப்பட்டுள்ளது மற்றும் உங்கள் பாதுகாப்பு முன்னுரிமையைக் கொண்டு தடுக்கப்பட்டுள்ளது.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>தேவையற்ற மென்பொருள் பக்கங்கள் ஏமாற்றக்கூடிய கணினியை எதிர்பாராத வகையில் தாக்கும் மென்பொருட்களை நிறுவ முயல்கிறது.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "ஏமாற்றும் தளம்!">
-<!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "இந்த இணைய தளம் <span id='phishing_sitename'/>இல் ஒரு இணைய மோசடி செய்துள்ளதாக அறிக்கையிடப்பட்டு உங்கள் பாதுகாப்பு முன்னுரிமையின் படி தடுக்கப்பட்டுள்ளது.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ஏமாற்றும் தளங்கள், மென்பொருளை நிறுவல், உங்கள் அந்தரங்க தகவல்களான கடவுச்சொல், கைபேசி எண், கடன் அட்டை வெளிப்படுத்தல் போன்றவற்றை செய்யும் வண்ணம் வடிவமைக்கப்பட்டுள்ளது.</p><p>இந்த தளத்தில் தகவல்களை இடுவது அடையாளத்திருட்டு அல்லது பிற ஏமாற்று வேலைக்கு காரணமாகலாம்.</p>">
+<!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
+
+
+
+<!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
+
 
 <!ENTITY safeb.blocked.harmfulPage.title "முன்புள்ள தளம் தீங்குநிரல் கொண்டிருக்கலாம்">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "உங்கள் தகவலைத் (எடுத்துக்காட்டாக படங்கள், கடவுச்சொற்கள், செய்திகள் மற்றும் கடன் அட்டைகள்) திருட அல்லது அழிக்க முயற்சிக்கும் ஆபத்தான செயலிகளை இந்த பக்கம் நிறுவ முயற்சித்ததால் &brandShortName; முடக்கியது.">
+
+<!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+
+
