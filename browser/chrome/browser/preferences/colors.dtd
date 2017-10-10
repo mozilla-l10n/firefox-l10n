@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "49em">
 
-<!ENTITY  overrideDefaultPageColors.label        "Sobrescribir las colors especificadas por a pachina con as mías seleccions d'alto:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "o">
+<!ENTITY  overrideDefaultPageColors2.label       "Sobrescribir las colors especificadas por a pachina con as tuyas seleccions d'alto">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Siempre">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Nomás con temas d'alto contraste">
 <!ENTITY  overrideDefaultPageColors.never.label  "Nunca">
 
 <!ENTITY  color                           "Texto y fundo">
-
-
-
-
+<!ENTITY  textColor2.label                "Texto">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Fundo">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Utilizar as colors d'o sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Subrayar os vinclos">
 <!ENTITY  underlineLinks.accesskey        "b">
 <!ENTITY  links                           "Color d'os vinclos">
-
-
-
-
+<!ENTITY  linkColor2.label                "Vinclos no vesitaus">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Vinclos vesitaus">
+<!ENTITY  visitedLinkColor2.accesskey     "V">
