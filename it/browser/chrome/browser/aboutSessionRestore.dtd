@@ -5,7 +5,7 @@
 <!ENTITY restorepage.tabtitle "Ripristino della sessione">
 <!ENTITY restorepage.errorTitle2 "Siamo spiacenti, c’è un problema con il ripristino delle pagine.">
 <!ENTITY restorepage.problemDesc2 "Si è verificato un problema durante il ripristino della sessione di navigazione. Selezionare “Ripristina sessione” per riprovare.">
-<!ENTITY restorepage.tryThis2 "Continua a non funzionare? In alcuni casi il problema è causato da una scheda. Prova a visualizzare le schede precedenti, rimuovere la spunta alle schede che non si vuole ripristinare e riprovare.">
+<!ENTITY restorepage.tryThis2 "Continua a non funzionare? In alcuni casi il problema è causato da una scheda. Provare a visualizzare le schede precedenti, rimuovere la spunta dalle schede che non si desidera ripristinare e riprovare.">
 <!ENTITY restorepage.hideTabs "Nascondi schede precedenti">
 <!ENTITY restorepage.showTabs "Mostra schede precedenti">
 <!ENTITY restorepage.tryagainButton2 "Ripristina sessione">
