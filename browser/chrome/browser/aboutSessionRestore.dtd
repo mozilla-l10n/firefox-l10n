@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Mums nepavyksta atkurti jūsų paskutinio naršymo seanso. Pasirinkite „Atkurti seansą“ norėdami pabandyti dar kartą.">
 <!ENTITY restorepage.tryThis2       "Vis tiek nepavyksta atkurti seanso? Kartais taip būna dėl kortelių. Peržiūrėkite ankstesnes korteles ir nuimkite varneles nuo tų, kurių nebūtinai reikia, ir pabandykite atkurti tada.">
 
+<!ENTITY restorepage.hideTabs       "Slėpti ankstesnes korteles">
+<!ENTITY restorepage.showTabs       "Rodyti ankstesnes korteles">
+
 <!ENTITY restorepage.tryagainButton2 "Atkurti seansą">
 <!ENTITY restorepage.restore.access2 "r">
 <!ENTITY restorepage.closeButton2    "Pradėti naują seansą">
