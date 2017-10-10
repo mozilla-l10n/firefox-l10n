@@ -10,6 +10,6 @@
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName; 새로 설정">
 
 <!ENTITY refreshProfile.title                "&brandShortName; 조정">
-<!ENTITY refreshProfile.button.label         "&brandShortName; 새로 설정 중…">
+<!ENTITY refreshProfile.button.label         "&brandShortName; 새로 설정…">
 
 <!ENTITY refreshProfile.cleaning.description "완료 중…">
