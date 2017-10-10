@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "برای بازیابی آخرین نشست مرورگر شما مشکل داریم. با انتخاب بازیابی نشست دوباره امتحان کنید.">
 <!ENTITY restorepage.tryThis2       "هنوز قادر به بازگردانی نشست خود نیستید؟ گاهی اوقات یک زبانه منجر به این اشکال می‌شود. زبانه‌های قبلی را مشاهده کنید،‌ چک تایید از روی زبانه هایی که نیاز به بازگردانی ندارند بردارید و سپس بازگردانی کنید.">
 
+<!ENTITY restorepage.hideTabs       "پنهان کردن زبانه های قبلی">
+<!ENTITY restorepage.showTabs       "دیدن زبانه‌های قبلی">
+
 <!ENTITY restorepage.tryagainButton2 "بازیابی نشست">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "آغاز یک نشست جدید">
