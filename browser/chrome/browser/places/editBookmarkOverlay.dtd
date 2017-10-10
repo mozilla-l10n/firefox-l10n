@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "છુપાવો">
 <!ENTITY editBookmarkOverlay.tags.label                      "ટેગો:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ટેગોને અલ્પવિરામથી અલગ પાડો.">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ટેગોને અલ્પવિરામથી અલગ પાડો">
 <!ENTITY editBookmarkOverlay.description.label               "વર્ણન:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "મુખ્ય શબ્દ:">
