@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Nem tudjuk helyreállítani az előző böngészési munkamenetét. Válassza a Munkamenet helyreállítását az újrapróbálkozáshoz.">
 <!ENTITY restorepage.tryThis2       "Még mindig nem tudja helyreállítani a munkamenetét? Néha egy lap okozza a problémát. Nézze meg az előző lapokat, vegye ki a pipát azoknál a lapoknál, amelyekre nincs szükséges, és aztán állítsa helyre.">
 
+<!ENTITY restorepage.hideTabs       "Előző lapok elrejtése">
+<!ENTITY restorepage.showTabs       "Előző lapok megtekintése">
+
 <!ENTITY restorepage.tryagainButton2 "Munkamenet helyreállítása">
 <!ENTITY restorepage.restore.access2 "h">
 <!ENTITY restorepage.closeButton2    "Új munkamenet indítása">
