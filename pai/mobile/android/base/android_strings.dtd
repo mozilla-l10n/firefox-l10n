@@ -18,7 +18,7 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_signin_message "Sak mtblichka, mnamanka">
 <!ENTITY firstrun_signin_button "Sync mjaabka">
-<!ENTITY  onboard_start_button_browser "chapayt mŕmee mnamaan">
+<!ENTITY  onboard_start_button_browser "Chapayt mŕmee mnamaan">
 <!ENTITY firstrun_button_notnow "Baam pem">
 <!ENTITY firstrun_button_next "Nulkpeeb">
 
@@ -33,10 +33,10 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "chŕkirchu">
-<!ENTITY  history_title "chkjkeech">
+<!ENTITY  bookmarks_title "Chŕkirchu">
+<!ENTITY  history_title "Chkjkeech">
 
-<!ENTITY  switch_to_tab "yuŕumee ujinch">
+<!ENTITY  switch_to_tab "Yuŕumee ujinch">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
@@ -171,9 +171,6 @@
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
@@ -404,7 +401,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 
-<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
