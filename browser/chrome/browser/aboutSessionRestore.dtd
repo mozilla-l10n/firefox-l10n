@@ -9,6 +9,8 @@
 <!ENTITY restorepage.errorTitle2    "Maaf. Kami kesulitan membuat laman Anda kembali.">
 <!ENTITY restorepage.problemDesc2   "Kami kesulitan memulihkan sesi penjelajahan terakhir Anda. Pilih Pulihkan Sesi untuk mencoba lagi.">
 
+<!ENTITY restorepage.hideTabs       "Sembunyikan Tab Sebelumnya">
+
 <!ENTITY restorepage.tryagainButton2 "Pulihkan Sesi">
 <!ENTITY restorepage.restore.access2 "P">
 <!ENTITY restorepage.closeButton2    "Mulai Sesi Baru">
