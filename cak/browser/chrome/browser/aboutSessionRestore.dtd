@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Tajin niqak'ulwachij k'ayewal richin niqatzolij ri ruk'isib'äl rumolojri'ïl awokem pa k'amaya'l. Tacha' Titzolïx Molojri'ïl richin nitojtob'ëx chik.">
 <!ENTITY restorepage.tryThis2       "¿La k'a man yatikïr ta natzolij ri amolojri'ïl? K'o re' jun ruwi' ri nib'ano re k'ayewal re'. Ke'atz'eta' ri taq ruwi' xe'ik'o yan, ke'ayuju' el ri ketal ri taq ruwi' man nawajo' ta ye'aköl, k'a ri' titzolïx.">
 
+<!ENTITY restorepage.hideTabs       "Ke'ewäx ri Chuwäch taq Ruwi'">
+<!ENTITY restorepage.showTabs       "Ketz'et ri Chuwäch taq Ruwi'">
+
 <!ENTITY restorepage.tryagainButton2 "Titzolïx Molojri'ïl">
 <!ENTITY restorepage.restore.access2 "t">
 <!ENTITY restorepage.closeButton2    "Titikirisäx K'ak'a' Molojri'ïl">
