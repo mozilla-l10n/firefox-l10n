@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Proprietar:">
 <!ENTITY  securityView.identity.domain   "Site web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
-<!ENTITY  securityView.identity.validity "Expiră la:">
+<!ENTITY  securityView.identity.validity "Expiră:">
 
 <!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am vizitat acest site web înainte de azi?">
