@@ -22,7 +22,7 @@
 <!ENTITY spellCheckToggle.accesskey "o">
 <!ENTITY spellNoSuggestions.label "(nessun suggerimento ortografico)">
 <!ENTITY spellDictionaries.label "Lingue">
-<!ENTITY spellDictionaries.accesskey "L">
+<!ENTITY spellDictionaries.accesskey "u">
 <!ENTITY searchTextBox.clear.label "Cancella">
 <!ENTITY fillLoginMenu.label "Compila le credenziali di accesso">
 <!ENTITY fillLoginMenu.accesskey "m">
