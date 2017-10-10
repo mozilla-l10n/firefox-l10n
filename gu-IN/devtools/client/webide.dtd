@@ -2,137 +2,129 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "પ્રોજેક્ટ">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "નવી એપ્લિકેશન…">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "યજમાનિત થયેલ એપ્લિકેશન ખોલો…">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "એપ્લિકેશન ખોલો…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ઇન્સ્ટોલ કરો અને ચલાવો">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "એપ્લિકેશન રોકો">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "ડિબગ એપ">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "પ્રોજેક્ટ દૂર કરો">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "પસંદગીઓ">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "ટૅબ્સ તાજુ કરો">
 
+<!ENTITY runtimeMenu_label "રનટાઈમ">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "જોડાણ તોડો">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_takeScreenshot_label "સ્ક્રીનશૉટ">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "રનટાઈમ માહિતી">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "મોનિટર">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "ઉપકરણ પસંદગીઓ">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "ઉપકરણ સુયોજનો">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY viewMenu_label "જુઓ">
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_zoomin_label "મોટું કરો">
+<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomout_label "નાનુ કરો">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "ઝૂમ ફરીથી સેટ કરો">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectButton_label "એપ્લિકેશન ખોલો">
+<!ENTITY runtimeButton_label "રનટાઈમ પસંદ કરો">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
-<!-- toggle sidebar -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectPanel_myProjects "મારા પ્રોજેક્ટ્સ">
+<!ENTITY projectPanel_runtimeApps "રનટાઈમ એપ્સ">
+<!ENTITY projectPanel_tabs "ટૅબ્સ">
+<!ENTITY runtimePanel_usb "USB ઉપકરણો">
+<!ENTITY runtimePanel_wifi "Wi-Fi ઉપકરણો">
+<!ENTITY runtimePanel_other "અન્ય">
+<!ENTITY runtimePanel_noadbhelper "ADB સહાયક ઇન્સ્ટોલ કરો">
+<!ENTITY runtimePanel_nousbdevice "તમારું ઉપકરણ જોઈ શકાતું નથી?">
+<!ENTITY runtimePanel_refreshDevices_label "ઉપકરણો પુનઃતાજાં કરો">
 
 <!-- Lense -->
-
-
-
-
-
-
+<!ENTITY details_valid_header "પ્રમાણભૂત">
+<!ENTITY details_warning_header "ચેતવણી">
+<!ENTITY details_error_header "ભૂલો">
+<!ENTITY details_description "વર્ણન">
+<!ENTITY details_location "સ્થળ">
+<!ENTITY details_manifestURL "એપ્લિકેશન ID">
+<!ENTITY details_removeProject_button "પ્રોજેક્ટ દૂર કરો">
 
 <!-- New App -->
-
+<!ENTITY newAppWindowTitle "નવી એપ્લિકેશન">
+<!ENTITY newAppHeader "નમૂનો પસંદ કરો">
+<!ENTITY newAppLoadingTemplate "નમૂનાઓ લોડ કરી રહ્યું છે…">
+<!ENTITY newAppProjectName "પ્રોજેક્ટનું નામ:">
 
 
 <!-- Decks -->
+
+<!ENTITY deck_close "બંધ કરો">
+
 <!-- Addons -->
+<!ENTITY addons_title "વિશેષ ઘટકો">
+<!ENTITY addons_aboutaddons "ઍડ-ઑન્સ મેનેજર ખોલો">
 
 <!-- Prefs -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_title "પસંદગીઓ">
+<!ENTITY prefs_editor_title "સંપાદક">
+<!ENTITY prefs_general_title "સામાન્ય">
+<!ENTITY prefs_restore "મૂળભૂત પુન: સ્થાપના">
+<!ENTITY prefs_manage_components "વધારાના ઘટકોનું સંચાલન કરો">
+<!ENTITY prefs_options_autoconnectruntime "પાછલા રનટાઇમથી ફરીથી જોડાણ કરો">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "જ્યારે WebIDE શરૂ થાય ત્યારે પાછલા રનટાઇમથી ફરીથી જોડાણ કરો">
+<!ENTITY prefs_options_rememberlastproject "છેલ્લો પ્રોજેક્ટ યાદ રાખો">
+<!ENTITY prefs_options_rememberlastproject_tooltip "જ્યારે WebIDE શરૂ થાય ત્યારે પાછલો પ્રોજેક્ટ પુનઃસ્થાપિત કરો">
+<!ENTITY prefs_options_templatesurl "નમૂનાઓ URL">
+<!ENTITY prefs_options_templatesurl_tooltip "ઉપલબ્ધ નમૂનાઓનું અનુક્રમણિકા">
 
 <!-- Runtime Details -->
-
-
-
-
-
+<!ENTITY runtimedetails_title "રનટાઇમ માહિતી">
+<!ENTITY runtimedetails_adbIsRoot "ADB મૂળ છે: ">
+<!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
 
 <!-- Device Preferences and Settings -->
 
-
-
-
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
 
 <!-- Monitor -->
 
@@ -150,17 +142,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
-
-
-
