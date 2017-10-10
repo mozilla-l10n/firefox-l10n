@@ -26,6 +26,7 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "நகல் கீற்று">
+<!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -99,6 +100,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "பக்க மூலம்">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
+
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -262,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "பதிவிறக்கங்கள்">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "பதிவிறக்கங்கள்">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -376,6 +385,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "ஒத்திசைக்க உள்நுழை">
 <!ENTITY appMenuRemoteTabs.managedevices.label "சாதனங்களை நிர்வகி...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
+
+<!ENTITY appMenuRecentHighlights.label "அண்மைய மிளிர்ப்புகள்">
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.addToToolbar.accesskey "க">
@@ -864,6 +875,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "கைக்கணினி முறைமையில் தொட்டுப் பாவிக்கவும்">
 
+
 <!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய படக்கருவி:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய ஒலிவாங்கி:">
@@ -887,16 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "பாதுகாப்பைச் செயல்படுத்து ">
 <!ENTITY trackingProtection.block2.accesskey "E">
-
-<!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
-<!ENTITY trackingContentBlocked.moreinfo "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் பகுதிகள் இந்த பக்கத்தில் தடுக்கப்பட்டுள்ளன.">
-<!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
-<!ENTITY trackingContentBlocked.options "தேர்வுகள்">
-<!ENTITY trackingContentBlocked.unblock2.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு ">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "கண்காணிப்பு பாதுகாப்பு முடங்கியுள்ளது">
 
 <!ENTITY pluginNotification.showAll.label "அனைத்தையும் காட்டு">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -975,3 +977,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
