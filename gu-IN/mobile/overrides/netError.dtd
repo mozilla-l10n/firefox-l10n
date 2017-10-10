@@ -7,11 +7,10 @@
 
 <!ENTITY loadError.label "પાનું લાવવામાં સમસ્યા">
 <!ENTITY retry.label "ફરી પ્રયાસ કરો">
+
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "જોડાવામાં અસમર્થ">
-
 
 <!ENTITY deniedPortAccess.title "આ સરનામું પ્રતિબંધિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -24,18 +23,14 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li> <li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li> </ul>">
 
 
-
 <!ENTITY generic.title "અરર.">
-
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "જોડાણ તૂટી ગયું હતુ">
 
-
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
-
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -48,10 +43,10 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li> </ul>">
 
 <!ENTITY netReset.title "જોડાણ રીસેટ થઇ ગયું હતુ">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li> </ul>">
 
@@ -69,12 +64,10 @@
 
 <!ENTITY nssFailure2.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 
-
 <!ENTITY nssBadCert.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 
 
 <!ENTITY corruptedContentErrorv2.title "બગડેલ વસ્તુ ક્ષતિ">
@@ -83,11 +76,11 @@
 <!ENTITY securityOverride.linkText "અથવા તમે અપવાદ ઉમેરી શકો…">
 <!ENTITY securityOverride.getMeOutOfHereButton "મને અહીંથી બહાર કાઢો!">
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ ઉમેરો…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>જો તમે એવું ઇન્ટરનેટ જોડાણ વાપરી રહ્યા હોય જેના પર તમને સંપૂર્ણ વિશ્વાસ નહિ હોય અથવા જો તમને આ સર્વર પર આવી ચેતવણી જોવાની આદત નહિ હોય તો તમારે અપવાદ ઉમેરવો જોઇએ નહિ.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
