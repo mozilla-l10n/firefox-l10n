@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Нам не удалось восстановить вашу последнюю сессию. Выберите «Восстановить сессию», чтобы попробовать снова.">
 <!ENTITY restorepage.tryThis2       "Всё ещё не можете восстановить сессию? Иногда причиной является одна вкладка. Посмотрите предыдущие вкладки, уберите отметки с тех, что вам не нужны, и попробуйте восстановить ещё раз.">
 
+<!ENTITY restorepage.hideTabs       "Скрыть предыдущие вкладки">
+<!ENTITY restorepage.showTabs       "Показать предыдущие вкладки">
+
 <!ENTITY restorepage.tryagainButton2 "Восстановить сессию">
 <!ENTITY restorepage.restore.access2 "о">
 <!ENTITY restorepage.closeButton2    "Начать новую сессию">
