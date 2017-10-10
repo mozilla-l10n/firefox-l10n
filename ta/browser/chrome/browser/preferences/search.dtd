@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY searchBar.label                       "தேடும் பட்டை">
+
+<!ENTITY searchBar.hidden.label                "தேடுதல் மற்றும் வழிகாட்டலுக்கு முகவரி பட்டையைப் பயன்படுத்தவும்">
+<!ENTITY searchBar.shown.label                 "கருவிப்பட்டையினுள் தேடும் பட்டையைச் சேர்">
+
 <!ENTITY defaultSearchEngine.label             "முன்னிருப்பு தேடுப்பொறி">
 
 <!ENTITY chooseYourDefaultSearchEngine2.label   "இடப்பட்டையிலும் தேடுபட்டையிலும் பாவிக்க இயல்புநிலைத் தேடுபொறியைத் தேர்ந்தெடு ">
