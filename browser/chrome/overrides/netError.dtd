@@ -26,7 +26,7 @@
 <ul>
   <li>Tentar novamente mais tarde.</li>
   <li>Verificar a sua ligação à rede.</li>
-  <li>Se está ligado(a) atrás de uma firewall, verifique que o &brandShortName; tem permissão para aceder à Web.</li>
+  <li>Se está ligado(a) mas por detrás de uma firewall, verifique que o &brandShortName; tem permissão para aceder à Web.</li>
 </ul>
 ">
 
