@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Vi har problemer med å gjenopprette din siste nettleserøkt. Velg Gjenopprett programøkt for å prøve igjen.">
 <!ENTITY restorepage.tryThis2       "Kan du fortsatt ikke gjenopprette programøkten din? Noen ganger forårsaker en fane problemet. Se over tidligere faner, fjern merket fra fanene du ikke trenger å gjenopprette, og gjenopprett deretter.">
 
+<!ENTITY restorepage.hideTabs       "Skjul tidligere faner">
+<!ENTITY restorepage.showTabs       "Vis tidligere faner">
+
 <!ENTITY restorepage.tryagainButton2 "Gjenopprett programøkt">
 <!ENTITY restorepage.restore.access2 "G">
 <!ENTITY restorepage.closeButton2    "Start ny programøkt">
