@@ -50,3 +50,4 @@
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Pelajari lebih lanjut tentang Perlindungan Pengelabuan dan Perangkat Perusak dari &brandShortName; di <a id='firefox_support'>support.mozilla.org</a>.">
