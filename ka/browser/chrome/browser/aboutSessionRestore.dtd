@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "ბოლო სეანსის აღდგენისას მოხდა შეცდომა. დააჭირეთ აღდგენას, ხელახლა საცდელად.">
 <!ENTITY restorepage.tryThis2       "ისევ ვერ მოხერხდა სეანსის აღდგენა? შესაძლოა რომელიმე ჩანართის ბრალი იყოს. გადახედეთ აღსადგენ ჩანართებს, მოხსენით მონიშვნა იმათ, რომელიც არ გჭირდებათ და შემდეგ დააჭირეთ აღდგენას.">
 
+<!ENTITY restorepage.hideTabs       "ძველი ჩანართების დამალვა">
+<!ENTITY restorepage.showTabs       "ძველი ჩანართების ნახვა">
+
 <!ENTITY restorepage.tryagainButton2 "სეანსის აღდგენა">
 <!ENTITY restorepage.restore.access2 "ღ">
 <!ENTITY restorepage.closeButton2    "ახალი სეანსი">
