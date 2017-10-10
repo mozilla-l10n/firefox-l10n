@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   'Нам не вдається відновити ваш останній сеанс перегляду. Оберіть "Відновити сеанс", щоб спробувати знову.'>
 <!ENTITY restorepage.tryThis2       "Досі не вдається відновити сеанс? Інколи причиною є одна вкладка. Перегляньте попередні вкладки, приберіть позначки з тих, що вам не потрібні, і спробуйте відновити ще раз.">
 
+<!ENTITY restorepage.hideTabs       "Приховати попередні вкладки">
+<!ENTITY restorepage.showTabs       "Показати попередні вкладки">
+
 <!ENTITY restorepage.tryagainButton2 "Відновити сеанс">
 <!ENTITY restorepage.restore.access2 "В">
 <!ENTITY restorepage.closeButton2    "Почати новий сеанс">
