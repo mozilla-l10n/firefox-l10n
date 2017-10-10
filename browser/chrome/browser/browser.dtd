@@ -236,9 +236,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Marcaje">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Marcaje">
 <!ENTITY bookmarksMenuButton.other.label    "Alte marcaje">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcaje mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu marcaje">
+<!ENTITY hideBookmarksSidebar.label         "Ascunde bara laterală cu marcaje">
 <!ENTITY viewBookmarksToolbar.label         "Vezi bara cu marcaje">
 <!ENTITY searchBookmarks.label              "Caută în marcaje">
 
