@@ -23,6 +23,8 @@
 
 <!ENTITY clearDataSettings2.label     "Saat keluar dari &brandShortName;, otomatis hapus semua:">
 
+<!ENTITY clearDataSettings3.label     "Saat keluar dari &brandShortName;, otomatis hapus semua">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
