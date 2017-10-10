@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; உருப்படிகள்">
 <!ENTITY bookmark_folder_one_item "1 உருப்படி">
+<!ENTITY bookmark_folder_updated "அடைவு புதுப்பிக்கப்பட்டது">
 <!ENTITY bookmark_parent_folder "நடப்பிலுள்ள அடைவு">
 <!ENTITY bookmark_add_folder "புதிய அடைவைச் சேர்">
 
