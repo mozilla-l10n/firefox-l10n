@@ -28,8 +28,11 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> એ <a id='error_desc_link'>દૂષિત સૉફ્ટવેર ધરાવતી હોવા તરીકે જાણ કરવામાં આવી છે</a>. તમે <a id='report_detection'>શોધ સમસ્યાની જાણ</a>કરી શકો છો.">
 
+<!ENTITY safeb.blocked.malwarePage.learnMore "વાયરસ અને અન્ય મૉલવેર સહિતના હાનિકારક વેબ સામગ્રી અને <a id='learn_more_link'> StopBadware.org </a> પર તમારા કમ્પ્યુટરને કેવી રીતે સુરક્ષિત કરવું તે વિશે વધુ જાણો. <a id='firefox_support'> સપોર્ટ. Mozilla.org </a> પર & brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "આગળની સાઇટમાં હાનિકારક પ્રોગ્રામ્સ હોઈ શકે છે">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; આ પૃષ્ઠને અવરોધિત કર્યું છે કારણ કે તે તમારા બ્રાઉઝિંગ અનુભવને નુકસાન પહોંચાડતા પ્રોગ્રામ્સ (ઉદાહરણ તરીકે, તમારા હોમપેજને બદલીને અથવા તમે મુલાકાત લો છો તે સાઇટ્સ પર વધારાની જાહેરાતો બતાવીને) ઇન્સ્ટોલ કરવા માટે તમારી સાથે યુક્તિ કરવાનો પ્રયાસ કરી શકે છે.">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 

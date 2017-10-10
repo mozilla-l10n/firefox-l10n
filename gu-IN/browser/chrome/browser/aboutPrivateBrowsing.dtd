@@ -4,7 +4,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "તમે હાલમાં ખાનગી વિન્ડો મા નથી.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ખાનગી વિન્ડો ખોલો">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "પિ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "ખાનગી બ્રાઉઝિંગ">
 <!ENTITY privateBrowsing.title.tracking                  "ટ્રેકિંગ પ્રોટેક્શન સાથે ખાનગી બ્રાઉઝિંગ">
