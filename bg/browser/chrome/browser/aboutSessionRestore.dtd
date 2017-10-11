@@ -7,8 +7,11 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Съжаляваме. Не можем да възстановим разделите.">
-<!ENTITY restorepage.problemDesc2   "Не можахме да възстановим вашата последна сесия. Изберете „Възстановяване на сесия“ за повторен опит.">
-<!ENTITY restorepage.tryThis2       "Все още ли не можете да възстановите сесията? Причината понякога е у някой раздел. Прегледайте предишните раздели, махнете отметката пред тези, които не ви трябват и отново пробвайте да възстановите.">
+<!ENTITY restorepage.problemDesc2   "Не можем да възстановим вашата последна сесия. Изберете „Възстановяване на сесия“ за повторен опит.">
+<!ENTITY restorepage.tryThis2       "Все още ли не можете да възстановите сесията? Причината понякога е у някой раздел. Прегледайте предишните раздели, махнете отметката пред тези, които не ви трябват и отново пробвайте възстановяване.">
+
+<!ENTITY restorepage.hideTabs       "Показване на предишните раздели">
+<!ENTITY restorepage.showTabs       "Скриване на предишните раздели">
 
 <!ENTITY restorepage.tryagainButton2 "Възстановяване на сесия">
 <!ENTITY restorepage.restore.access2 "в">
