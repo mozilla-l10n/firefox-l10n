@@ -14,7 +14,7 @@
 <!ENTITY pref.dateformat.short "Kort"  >
 
 <!ENTITY pref.timezones.caption "Tidssone">
-<!ENTITY pref.timezones.label "Vel næraste by i di tidssone:">
+<!ENTITY pref.timezones.label "Vel nærmaste by i di tidssone:">
 <!ENTITY pref.timezones.accesskey "s">
 
 <!ENTITY pref.defaults.label "Standardverdiar for nye element">
@@ -42,5 +42,5 @@
 <!ENTITY pref.systemcolors.accesskey "O">
 
 <!ENTITY pref.eventsandtasks.label "Hendingar og oppgåver" >
-<!ENTITY pref.editInTab.label "Rediger hendingar og oppgåver i ei fane i staden for i eit dialog rute." >
+<!ENTITY pref.editInTab.label "Rediger hendingar og oppgåver i ei fane i staden for i eit dialovindauge." >
 <!ENTITY pref.editInTab.accesskey "f">
