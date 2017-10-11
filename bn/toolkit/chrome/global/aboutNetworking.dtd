@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "প্রতি ৩ সেকেন্ড এ স্বয়ংক্রিয়ভাবে রিফ্রেশ করুন">
 <!ENTITY aboutNetworking.hostname              "হোস্টনেম">
 <!ENTITY aboutNetworking.port                  "পোর্ট">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "সক্রিয়">
 <!ENTITY aboutNetworking.idle                  "নিষ্ক্রিয়">
@@ -43,16 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "আইপি সমূহ">
 <!ENTITY aboutNetworking.rcwn                  "RCWN পরিসংখ্যান">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN অবস্থা">
-
-
-
-
 <!ENTITY aboutNetworking.rcwnPerfOpen          "খুলুন">
 <!ENTITY aboutNetworking.rcwnPerfRead          "পড়ুন">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "লিখুন">
-
-
-
-
-
-
