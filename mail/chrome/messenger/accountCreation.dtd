@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard2.title         "Opret en eksisterende mailkonto">
 <!ENTITY name.label                      "Dit navn:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Fornavn Efternavn">
@@ -9,6 +10,8 @@
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "mail@eksempel.dk">
+<!ENTITY email.text                      "Din eksisterende mailadresse">
 <!ENTITY password.label                  "Adgangskode:">
 <!ENTITY password.accesskey              "d">
 <!ENTITY password.placeholder            "Adgangskode">
@@ -52,6 +55,7 @@
 <!ENTITY half-manual-test.accesskey      "ø">
 <!ENTITY manual-edit.label               "Manuel konfiguration">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY open-provisioner.label          "Få en ny mailadresse…">
 <!ENTITY open-provisioner.accesskey      "å">
 
 
