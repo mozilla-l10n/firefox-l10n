@@ -673,6 +673,7 @@
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
 <!ENTITY customizeMode.done "Gotowe">
 <!ENTITY customizeMode.titlebar "Pasek tytułu">
+<!ENTITY customizeMode.extraDragSpace "Pasek przeciągania okna">
 <!ENTITY customizeMode.toolbars2 "Paski narzędzi">
 <!ENTITY customizeMode.lwthemes "Motywy">
 <!ENTITY customizeMode.lwthemes.myThemes "Zainstalowane motywy">
