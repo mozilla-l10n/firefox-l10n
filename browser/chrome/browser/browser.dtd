@@ -237,10 +237,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Marcapachinas">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Marcapachinas">
+<!ENTITY bookmarksMenuButton2.label         "Menu de marcapachinas">
 <!ENTITY bookmarksMenuButton.other.label    "Atros marcapachinas ">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcapachinas d'o mobil">
 <!ENTITY viewBookmarksSidebar2.label        "Amostrar a barra lateral de marcapachinas">
+<!ENTITY hideBookmarksSidebar.label         "Amagar la barra lateral de marcapachinas">
 <!ENTITY viewBookmarksToolbar.label         "Veyer a barra de marcapachinas">
+<!ENTITY hideBookmarksToolbar.label         "Amagar la barra de ferramientas de marcapachinas">
+<!ENTITY searchBookmarks.label              "Trobar marcapachinas">
+<!ENTITY addBookmarksMenu.label             "Anyader lo menú de marcapachinas en a barra de ferramientas">
+<!ENTITY removeBookmarksMenu.label          "Eliminar lo menú de marcapachinas de la barra de ferramientas">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -917,6 +924,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Accions de pachina">
 
 
+<!ENTITY libraryButton.tooltip "Veyer lo historial, los marcapachinas alzaus, y mas">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
