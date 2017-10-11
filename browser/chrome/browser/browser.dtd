@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Атрымаць больш тэм">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "А">
 <!ENTITY customizeMode.emptyOverflowList.description "Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…">
+<!ENTITY customizeMode.overflowList.title2 "Меню перапаўнення">
+<!ENTITY customizeMode.overflowList.description "Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…">
 <!ENTITY customizeMode.uidensity "Шчыльнасць">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
