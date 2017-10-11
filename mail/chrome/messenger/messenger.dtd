@@ -281,7 +281,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Søg i meddelelser…">
 <!ENTITY searchMailCmd.accesskey "S">
-<!ENTITY searchMailCmd.key "s">
+<!ENTITY searchMailCmd.key "ø">
 <!ENTITY searchAddressesCmd.label "Søg i adresser…">
 <!ENTITY searchAddressesCmd.accesskey "ø">
 
