@@ -78,6 +78,7 @@
 <!ENTITY pageSourceCmd.label "Źródło strony" >
 <!ENTITY pageSourceCmd.accesskey "d" >
 <!ENTITY pageSourceCmd.commandkey "u" >
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 <!ENTITY pageInfoCmd.label "Informacje o stronie" >
 <!ENTITY pageInfoCmd.accesskey "m" >
 <!ENTITY pageInfoCmd.commandkey "i" >
