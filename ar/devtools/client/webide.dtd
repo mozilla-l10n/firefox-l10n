@@ -43,6 +43,7 @@
 <!ENTITY viewMenu_zoomin_label "قرّب">
 <!ENTITY viewMenu_zoomout_label "بعّد">
 <!ENTITY viewMenu_zoomout_accesskey "ق">
+<!ENTITY viewMenu_resetzoom_label "صفّر مستوى التقريب">
 
 <!ENTITY projectButton_label "افتح تطبيقا">
 <!ENTITY runtimeButton_label "اختر بيئة تشغيل">
@@ -61,9 +62,7 @@
 <!ENTITY projectPanel_tabs "الألسنة">
 <!ENTITY runtimePanel_usb "أجهزة USB">
 <!ENTITY runtimePanel_wifi "أجهزة واي-فاي">
-<!ENTITY runtimePanel_simulator "المحاكيات">
 <!ENTITY runtimePanel_other "أخرى">
-<!ENTITY runtimePanel_installsimulator "نصّب محاكيًا">
 <!ENTITY runtimePanel_noadbhelper "نصّب «مساعد Adb»">
 <!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
 <!ENTITY runtimePanel_refreshDevices_label "أنعش الأجهزة">
@@ -152,16 +151,3 @@
 <!ENTITY wifi_auth_token_request "إن سأل الجهاز الآخر عن رمز بدل مسح رمز QR ضوئيا، فمن فضلك انسخ القيمة أدناه إلى الجهاز الآخر:">
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "خيارات المحاكي">
-<!ENTITY simulator_remove "احذف المحاكي">
-<!ENTITY simulator_reset "استعد الإعدادات المبدئية">
-<!ENTITY simulator_name "الاسم">
-<!ENTITY simulator_software "البرمجيات">
-<!ENTITY simulator_version "النسخة">
-<!ENTITY simulator_hardware "العتاد">
-<!ENTITY simulator_device "جهاز">
-<!ENTITY simulator_screenSize "الشاشة">
-<!ENTITY simulator_pixelRatio "معدل البكسلات">
-<!ENTITY simulator_tv_data_open_button "افتح دليل الضبط…">
