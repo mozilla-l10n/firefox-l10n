@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Vi har problemer med at gendanne dine vinduer og faneblade. Vælg Gendan session for at prøve igen.">
 <!ENTITY restorepage.tryThis2       "Kan du stadig ikke gendanne din session? Nogle gange er et faneblad skyld i problemet. Gennemgå listen med faneblade, fjern fluebenet fra de faneblade, du ikke har behov for at gendanne, og vælg så Gendan.">
 
+<!ENTITY restorepage.hideTabs       "Skjul tidligere faneblade">
+<!ENTITY restorepage.showTabs       "Vis tidligere faneblade">
+
 <!ENTITY restorepage.tryagainButton2 "Gendan session">
 <!ENTITY restorepage.restore.access2 "G">
 <!ENTITY restorepage.closeButton2    "Start en ny session">

@@ -87,6 +87,9 @@
 
 <!ENTITY search.placeholder  "Søg">
 
+<!ENTITY historySearch.placeholder  "Søg i historik">
+<!ENTITY bookmarksSearch.placeholder  "Søg i bogmærker">
+
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Funktioner">
