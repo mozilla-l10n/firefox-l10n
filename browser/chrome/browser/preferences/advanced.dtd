@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Cheneral">
 
@@ -23,18 +23,16 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Triga de datos">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportLearnMore.label     "Saber-ne mas">
 
+<!ENTITY dataCollectionPrivacyNotice.label    "Nota sobre privacidat">
 
-
-
-
-
-
-
+<!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
 
 <!ENTITY networkTab.label                "Ret">
 
@@ -46,13 +44,14 @@ available. -->
 <!ENTITY httpCache.label                 "Conteniu web d'a caché">
 
 <!ENTITY offlineStorage2.label           "Conteniu web sin connexión y datos de l'usuario">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Datos d'o puesto">
 <!ENTITY clearSiteData.label             "Limpiar totz los datos">
 <!ENTITY clearSiteData.accesskey         "L">
 <!ENTITY siteDataSettings.label          "Parametros…">
 <!ENTITY siteDataSettings.accesskey      "P">
+<!ENTITY siteDataLearnMoreLink.label     "Saber-ne mas">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -60,7 +59,6 @@ available. -->
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Limitar o caché a">
 <!ENTITY limitCacheSizeBefore.accesskey  "m">
 <!ENTITY limitCacheSizeAfter.label       "MB d'espacio">
@@ -72,11 +70,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 
 <!ENTITY updateTab.label                 "Esviellar">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Actualizacions d'o &brandShortName;:">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -84,11 +82,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;">
-
-
 <!ENTITY updateCheckChoose2.label        "Comprebar as actualizacions, pero deixar-me trigar si las quiero instalar">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No comprebar nunca las actualizacions">
@@ -122,19 +117,14 @@ available. -->
 <!ENTITY enableOCSP.label                "Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus">
 <!ENTITY enableOCSP.accesskey            "u">
 
-
-
-
-
 <!ENTITY performance.label               "Rendimiento">
-<!ENTITY useRecommendedPerformanceSettings2.label "Usar las caracteristicas de rendimiento recomendadas">
-
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
-
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Usar las caracteristicas de rendimiento recomendadas">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Saber-ne mas">
 <!ENTITY limitContentProcessOption.label "Limite de procesado de conteniu">
-
 <!ENTITY limitContentProcessOption.accesskey   "L">
-
-
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
