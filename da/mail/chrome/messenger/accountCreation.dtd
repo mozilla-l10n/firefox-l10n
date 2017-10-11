@@ -2,14 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Opret mailkonto">
 <!ENTITY name.label                      "Dit navn:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Fornavn Efternavn">
 <!ENTITY name.text                       "Dit navn som andre skal se det">
 <!ENTITY email.label                     "Din mailadresse:">
 <!ENTITY email.accesskey                 "m">
-<!ENTITY email.placeholder               "email@eksempel.dk">
+<!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY password.label                  "Adgangskode:">
 <!ENTITY password.accesskey              "d">
 <!ENTITY password.placeholder            "Adgangskode">
@@ -28,7 +27,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Godkendelse">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP3">
+<!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Find automatisk">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -39,7 +38,6 @@
 
 <!ENTITY advancedSetup.label             "Avanceret konfiguration">
 <!ENTITY advancedSetup.accesskey         "v">
-
 <!ENTITY cancel.label                    "Annuller">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Fortsæt">
@@ -54,8 +52,7 @@
 <!ENTITY half-manual-test.accesskey      "ø">
 <!ENTITY manual-edit.label               "Manuel konfiguration">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "Få en ny konto">
-<!ENTITY switch-to-provisioner.accesskey "å">
+<!ENTITY open-provisioner.accesskey      "å">
 
 
 <!ENTITY warning.label                   "Advarsel!">
@@ -78,11 +75,12 @@
      the settings and try again. -->
 <!ENTITY changeSettings.label            "Rediger indstillinger">
 <!ENTITY changeSettings.accesskey        "R">
+
 <!ENTITY contactYourProvider.description "&brandShortName; lader dig bruge mailkontoen med den angivne konfiguration. Du bør dog kontakte din administrator eller mailudbyder angående disse usikre forbindelsesindstillinger. Se Thunderbirds FAQ for yderligere information.">
+
 <!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikret server.">
 <!ENTITY insecureServer.tooltip.details  "Klik på cirklen for at få flere oplysninger.">
 
 <!ENTITY insecureUnencrypted.description "Din mail og dine log-in-oplysninger sendes ukrypteret, så din adgangskode (og indholdet i dine mails) kan opsnappes af uvedkommende. &brandShortName; lader dig bruge mailkontoen med den angivne konfiguration. Du bør dog kontakte din mailudbyder for at få konfigureret serveren, så der benyttes en sikker forbindelse.">
-
 <!ENTITY insecureSelfSigned.description  "Serveren benytter et certifikat, som vi ikke stoler på. Det betyder, at vi ikke kan være sikre på, at uvedkommende ikke kan få adgang til de sendte data mellem &brandShortName; og serveren. &brandShortName; lader dig bruge forbindelsen, men du bør kontakte din mailudbyder for at få konfigureret serveren med et troværdigt certifikat.">
 <!ENTITY secureServer.description        "Tillykke! Dette er en sikker server.">
