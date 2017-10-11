@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Przywróć domyślną">
 <!ENTITY restoreDefault.accesskey "">
 
+<!ENTITY disableExtension.label "Wyłącz rozszerzenie">
+
 <!ENTITY downloads.label "Pobieranie">
 
 <!ENTITY saveTo.label "Pobierane pliki zapisuj do:">
