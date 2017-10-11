@@ -50,15 +50,11 @@
 <!ENTITY fxaccount_getting_started_get_started 'Bắt đầu'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Bạn đang sử dụng phiên bản cũ của &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Đã đăng nhập với tài khoản'>
-<!ENTITY fxaccount_status_manage_account 'Quản lý tài khoản'>
 <!ENTITY fxaccount_status_auth_server 'Máy chủ tài khoản'>
 <!ENTITY fxaccount_status_sync_now 'Đồng bộ ngay'>
 <!ENTITY fxaccount_status_syncing2 'Đang đồng bộ...'>
 <!ENTITY fxaccount_status_device_name 'Tên thiết bị'>
 <!ENTITY fxaccount_status_sync_server 'Máy chủ đồng bộ'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: đã bật'>
 <!ENTITY fxaccount_status_needs_verification2 'Tài khoản của bạn cần được xác thực. Chạm để gửi lại thư xác thực.'>
 <!ENTITY fxaccount_status_needs_credentials 'Không thể kết nối. Chạm để đăng nhập.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Bạn cần cập nhật &brandShortName; để đăng nhập.'>
@@ -69,6 +65,9 @@
 <!ENTITY fxaccount_status_history 'Lược sử'>
 <!ENTITY fxaccount_status_passwords2 'Đăng nhập'>
 <!ENTITY fxaccount_status_tabs 'Các thẻ đang mở'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Chỉ đồng bộ qua Wi-Fi'>
+<!-- Localization note: Only affects background syncing, user initiated
+     syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_status_legal 'Hợp pháp' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
@@ -76,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'Điều khoản dịch vụ'>
 <!ENTITY fxaccount_status_linkprivacy2 'Chính sách riêng tư'>
-<!ENTITY fxaccount_status_more 'Thêm&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Ngưng kết nối&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến Sync?'>
@@ -101,21 +99,6 @@
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Tùy chọn'>
 <!ENTITY fxaccount_options_configure_title 'Cài đặt &syncBrand.shortName.label;'>
-
-<!-- Localization note: these error messages are shown after a request
-     has been made to the remote server, and an error of some type has
-     been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Bạn cần cập nhật Firefox'>
-
-<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Tài khoản đã tồn tại. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Địa chỉ thư điện tử hoặc mật khẩu không hợp lệ'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Địa chỉ thư điện tử hoặc mật khẩu không hợp lệ'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Tài khoản chưa được xác thực'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Máy chủ bận, làm ơn thử lại sau'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Máy chủ bận, lát nữa hãy thử lại'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Đã có một vấn đề'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Tài khoản đã bị khóa. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; không được kết nối'>
 <!-- Localization note: the format string below will be replaced
