@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY security.label "Bezpieczeństwo">
-<!ENTITY phishingProtection.label "Ochrona przed oszustwami">
 
 <!ENTITY warnOnAddonInstall2.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
 <!ENTITY warnOnAddonInstall2.accesskey "">
 
+<!ENTITY browsingProtection.label "Ochrona przed oszustwami i niebezpiecznym oprogramowaniem">
 <!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
 <!ENTITY enableSafeBrowsing.accesskey "">
 <!ENTITY blockDownloads.label "Blokowanie możliwości pobierania niebezpiecznych plików">
