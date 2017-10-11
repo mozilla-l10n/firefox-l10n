@@ -4,7 +4,7 @@
 
 <!ENTITY searchBar.label                       "অনুসন্ধান বার">
 
-<!ENTITY searchBar.hidden.label                "অনুসন্ধান এবং নেভিগেশন জন্য address বার ব্যবহার করুন">
+<!ENTITY searchBar.hidden.label                "অনুসন্ধান এবং নেভিগেশন জন্য ঠিকানা বার ব্যবহার করুন">
 <!ENTITY searchBar.shown.label                 "টুলবারে অনুসন্ধান বার যুক্ত করুন">
 
 <!ENTITY defaultSearchEngine.label             "ডিফল্ট সার্চ ইঞ্জিন">
