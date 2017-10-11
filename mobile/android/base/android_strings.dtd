@@ -8,6 +8,7 @@
 <!ENTITY firstrun_panel_title_privacy "গোপনীয়তা">
 <!ENTITY firstrun_privacy_message "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে">
 <!ENTITY firstrun_panel_title_customize "স্বনির্ধারণ">
+<!ENTITY firstrun_customize_message "&brandShortName; কে নিজের করুন।">
 <!ENTITY firstrun_bookmarks_title "ইতিহাস">
 <!ENTITY firstrun_bookmarks_message "আপনার পছন্দ, সামনে এবং মাঝখানে">
 <!ENTITY firstrun_bookmarks_subtext "আপনার বুকমার্ক ও ইতিহাস থেকে ফলাফল পান যখন আপনি অনুসন্ধান করছেন।">
@@ -87,6 +88,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; আইটেম">
 <!ENTITY bookmark_folder_one_item "1 টি আইটেম">
+<!ENTITY bookmark_folder_updated "ফোল্ডার আপডেট হয়েছে">
 <!ENTITY bookmark_parent_folder "উর্ধ্বস্থ ফোল্ডার">
 <!ENTITY bookmark_add_folder "নতুন ফোল্ডার যোগ">
 
