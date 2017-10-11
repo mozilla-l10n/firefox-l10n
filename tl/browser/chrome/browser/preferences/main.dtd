@@ -4,8 +4,13 @@
 
 <!ENTITY startup.label             "Nagsisimula">
 
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "Ipakita ang iyong punong pahina">
 <!ENTITY startupBlankPage.label    "Magpakita ng blankong pahina">
+<!ENTITY startupPrevSession.label  "Ipakita ang iyong mga window at tab noong nakaraan">
 
+<!ENTITY homepage2.label           "Punong pahina">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Gamitin ang Kasalukuyang Pahina">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gamitin ang kasalukuyang mga pahina">
@@ -14,13 +19,20 @@
 <!ENTITY restoreDefault.label      "Ibalik sa Default">
 <!ENTITY restoreDefault.accesskey  "I">
 
+
 <!ENTITY downloads.label     "Mga Download">
 
+<!ENTITY saveTo.label "I-save ang mga file sa">
+<!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Browse…">
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "Gawing Default…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
 
 
