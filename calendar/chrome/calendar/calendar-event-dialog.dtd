@@ -362,7 +362,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "november" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "desember" >
 
-<!ENTITY event.recurrence.range.label                   "Lengd på repetisjonen">
+<!ENTITY event.recurrence.range.label                   "Varigheit på repetisjonen">
 <!ENTITY event.recurrence.forever.label                 "Ingen sluttdato" >
 <!ENTITY event.recurrence.repeat.for.label              "Lag" >
 <!ENTITY event.recurrence.appointments.label            "avtalar" >
@@ -375,7 +375,7 @@
 <!ENTITY event.freebusy.suggest.slot            "Føreslå tidsluke:">
 <!ENTITY event.freebusy.button.next.slot        "Neste tidsluke">
 <!ENTITY event.freebusy.button.previous.slot    "Førre tidsluke">
-<!ENTITY event.freebusy.zoom                    "Skalering:">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Oppteken" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Med atterhald" >
@@ -393,7 +393,7 @@
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifiser tidssone">
-<!ENTITY event.timezone.custom.label     "Fleire tidssoner …">
+<!ENTITY event.timezone.custom.label     "Fleire tidssoner…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Generelt">
@@ -410,7 +410,7 @@
 <!ENTITY read.only.accept.label          "Eg deltek">
 <!ENTITY read.only.decline.label         "Eg deltek ikkje">
 <!ENTITY read.only.tentative.label       "Eg deltek kanskje">
-<!ENTITY read.only.needs.action.label    "Eg vil stadfestar seinare">
+<!ENTITY read.only.needs.action.label    "Eg vil stadfeste seinare">
 <!ENTITY read.only.reminder.label        "Påminning:">
 <!ENTITY read.only.attachments.label     "Vedlegg:">
 <!ENTITY read.only.attendees.label       "Deltakarar">
