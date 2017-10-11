@@ -17,3 +17,4 @@
 <!ENTITY LinkURLEditField.label "Introduzca una dirección de página web, un archivo local, o seleccione un enlace con nombre o encabezado de la lista desplegable:">
 <!ENTITY LinkURLEditField.accessKey "L">
 <!ENTITY LinkURLEditField2.label "Introduzca una dirección de página web, un archivo local o seleccione un enlace con nombre o encabezado desde el menú de contexto del campo:">
+<!ENTITY LinkURLEditField2.accessKey "w">
