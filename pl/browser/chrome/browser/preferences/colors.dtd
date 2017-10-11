@@ -6,8 +6,8 @@
 <!ENTITY window.width "38em">
 <!ENTITY window.macWidth "41em">
 
-<!ENTITY overrideDefaultPageColors.label "Nadpisuj kolory określone w treści wybranymi poniżej:">
-<!ENTITY overrideDefaultPageColors.accesskey "">
+<!ENTITY overrideDefaultPageColors2.label "Nadpisuj kolory określone w treści wybranymi powyżej:">
+<!ENTITY overrideDefaultPageColors2.accesskey "">
 <!ENTITY overrideDefaultPageColors.always.label "Zawsze">
 <!ENTITY overrideDefaultPageColors.auto.label "Tylko w motywach o wysokim kontraście">
 <!ENTITY overrideDefaultPageColors.never.label "Nigdy">
