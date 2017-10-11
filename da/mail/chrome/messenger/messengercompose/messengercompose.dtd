@@ -78,13 +78,13 @@
 <!ENTITY pasteCmd.accesskey "æ">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Ombryd igen">
-<!ENTITY editRewrapCmd.key "O">
 <!ENTITY editRewrapCmd.accesskey "m">
-<!ENTITY renameAttachmentCmd.label "Omdøb vedhæftet fil…">
-<!ENTITY renameAttachmentCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Slet">
 <!ENTITY deleteCmd.accesskey "S">
+<!ENTITY editRewrapCmd.label "Ombryd igen">
+<!ENTITY editRewrapCmd.key "O">
+<!ENTITY renameAttachmentCmd.label "Omdøb vedhæftet fil…">
+<!ENTITY renameAttachmentCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "Marker alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -95,13 +95,13 @@
 <!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Find næste">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Find forrige">
+<!ENTITY findPrevCmd.accesskey "d">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis">
@@ -215,11 +215,10 @@
 <!ENTITY addressButton.tooltip "Vælg en modtager fra en adressebog">
 <!ENTITY attachButton.tooltip "Vedhæft en fil">
 <!ENTITY spellingButton.tooltip "Brug stavekontrol i det markerede eller i hele meddelelsen">
-<!ENTITY statusLanguageText.tooltip "Sprog i stavekontrollen">
 <!ENTITY saveButton.tooltip "Gem denne meddelelse">
-<!ENTITY cutButton.tooltip "Klip">
-<!ENTITY copyButton.tooltip "Kopier">
-<!ENTITY pasteButton.tooltip "Sæt ind">
+<!ENTITY cutButton.tooltip              "Klip">
+<!ENTITY copyButton.tooltip             "Kopier">
+<!ENTITY pasteButton.tooltip            "Sæt ind">
 <!ENTITY printButton.tooltip "Udskriv denne meddelelse">
 
 <!-- Headers -->
@@ -236,6 +235,8 @@
 <!ENTITY followupAddr.label "Opfølgning til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
+<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
+     to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "æ">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -307,3 +308,7 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Tilpas afsenderadresse…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Sprog i stavekontrollen">
+<!ENTITY encodingStatusPanel.tooltip "Tegnkodning">

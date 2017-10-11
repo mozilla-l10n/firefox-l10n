@@ -366,7 +366,8 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Rediger kladde">
 <!ENTITY editDraftMsgCmd.accesskey "l">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.label "Ny meddelelse fra skabelon">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Opret filter…">
 <!ENTITY createFilter.accesskey "t">
 <!ENTITY moveMsgToMenu.label "Flyt til">
@@ -735,6 +736,7 @@
 <!ENTITY attachmentColumn2.tooltip "Sorter efter vedhæftede filer">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Ny meddelelse fra skabelon">
 <!ENTITY contextOpenNewWindow.label "Åbn meddelelsen i et nyt vindue">
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
