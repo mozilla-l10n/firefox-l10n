@@ -5,13 +5,14 @@
 <!ENTITY window.title                 "Excepcions">
 <!ENTITY window.width                 "48em">
 
+<!ENTITY treehead.sitename2.label     "Puesto web">
 <!ENTITY treehead.status.label        "Estau">
-
-
-
-
-
-
+<!ENTITY removepermission2.label      "Borrar puesto web">
+<!ENTITY removepermission2.accesskey  "B">
+<!ENTITY removeallpermissions2.label  "Borrar totz los puestos web">
+<!ENTITY removeallpermissions2.accesskey "t">
+<!ENTITY address2.label               "Adreza d'o puesto web">
+<!ENTITY address2.accesskey           "a">
 <!ENTITY block.label                  "Blocar">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "Permitir por ista sesión">
@@ -25,3 +26,4 @@
 <!ENTITY button.ok.label              "Alzar os cambios">
 <!ENTITY button.ok.accesskey          "A">
 
+<!ENTITY searchbox.placeholder        "Mirar puesto web">
