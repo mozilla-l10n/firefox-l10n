@@ -25,24 +25,24 @@
 <!ENTITY newevent.status.needsaction.label        "Treng handling" >
 <!ENTITY newevent.status.inprogress.label         "Under arbeid" >
 <!ENTITY newevent.status.completed.label          "Fullført" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; fullført">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
-<!ENTITY event.attendees.notify.label                "Varsla deltakarar">
+<!ENTITY event.attendees.notify.label                "Varsle deltakarar">
 <!ENTITY event.attendees.notify.accesskey            "V">
 <!ENTITY event.attendees.notifyundisclosed.label     "Eigen invitasjon for kvar deltakar">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "E">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Denne innstillinga sender ein e-postinvitasjon pr. deltakar. Kvar invitasjon inneheld berre informasjon om om den enkelte deltakaren, slik at andre deltakaridentitetar ikkje vert viste.">
 <!ENTITY event.attendees.disallowcounter.label       "Forby teljar">
 <!ENTITY event.attendees.disallowcounter.accesskey   "b">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Indikerer at du ikkje vil godkjenna motforslag">
-<!-- Keyboard Shortcuts -->
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indikerer at du ikkje vil godkjenne motforslag">
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -56,8 +56,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Ny">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Hending">
@@ -70,21 +70,21 @@
 <!ENTITY  event.menu.item.new.contact.accesskey           "A">
 <!ENTITY  event.menu.item.close.label                     "Lat att">
 <!ENTITY  event.menu.item.close.accesskey                 "L">
+
 <!-- LOCALIZATION NOTE
    - event.menu.item.save.accesskey is used for the "Save" menu item
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.save.label                      "Lagra">
 <!ENTITY  event.menu.item.save.accesskey                  "a">
 <!ENTITY  event.menu.item.save.tab.accesskey              "a">
+
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-
 <!ENTITY  event.menu.item.saveandclose.label              "Lagra og lat att">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "r">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
@@ -98,7 +98,7 @@
 
 <!ENTITY  event.menu.edit.label                           "Rediger">
 <!ENTITY  event.menu.edit.accesskey                       "R">
-<!ENTITY  event.menu.edit.undo.label                      "Angra">
+<!ENTITY  event.menu.edit.undo.label                      "Angre">
 <!ENTITY  event.menu.edit.undo.accesskey                  "A">
 <!ENTITY  event.menu.edit.redo.label                      "Gjenta">
 <!ENTITY  event.menu.edit.redo.accesskey                  "G">
@@ -117,7 +117,7 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "V">
 <!ENTITY  event.menu.view.toolbars.event.label            "Hendingsverktøylinje">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "H">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass …">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Tilpass…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "T">
 <!ENTITY  event.menu.view.showlink.label                  "Vis relatert lenke">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
@@ -163,23 +163,24 @@
 <!ENTITY event.remove.attendees.accesskey                 "F">
 <!ENTITY event.remove.attendee.label                      "Fjern deltakarar">
 <!ENTITY event.remove.attendee.accesskey                  "e">
-<!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label2                       "Lagra">
-<!ENTITY  event.toolbar.saveandclose.label                "Lagra og lat att">
+<!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Lagre">
+<!ENTITY  event.toolbar.saveandclose.label                "Lagre og lat att">
 <!ENTITY  event.toolbar.delete.label                      "Slett">
 <!ENTITY  event.toolbar.attendees.label                   "Inviter deltakarar">
 <!ENTITY  event.toolbar.privacy.label                     "Personvern">
 
-<!ENTITY  event.toolbar.save.tooltip2                     "Lagra">
-<!ENTITY  event.toolbar.saveandclose.tooltip              "Lagra og lat att">
+<!ENTITY  event.toolbar.save.tooltip2                     "Lagre">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Lagre og lat att">
 <!ENTITY  event.toolbar.delete.tooltip                    "Slett">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Inviter deltakarar">
 <!ENTITY  event.toolbar.attachments.tooltip               "Nytt vedlegg">
-<!ENTITY  event.toolbar.privacy.tooltip                   "Endra personvern">
-<!ENTITY  event.toolbar.priority.tooltip                  "Endra prioritet">
-<!ENTITY  event.toolbar.status.tooltip                    "Endra status">
-<!ENTITY  event.toolbar.freebusy.tooltip                  "Endra ledig/opptatt-tid">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Endre personvern">
+<!ENTITY  event.toolbar.priority.tooltip                  "Endre prioritet">
+<!ENTITY  event.toolbar.status.tooltip                    "Endre status">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Endre ledig/opptatt-tid">
+
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -187,15 +188,14 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
-
 <!ENTITY counter.button.proposal.label                    "Bruk forslag">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip2                 "Hendingsfelta vert utfylte med verdiane frå motforslaga. Berre lagring, med eller utan ytterlegare endringar, vil varsla alle deltakarane">
+<!ENTITY counter.button.proposal.tooltip2                 "Hendingsfelta vert utfylte med verdiane frå motforslaga. Berre lagring, med eller utan ytterlegare endringar, vil varsle alle deltakarane">
 <!ENTITY counter.button.original.label                    "Bruk originaldata">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Felta vert sette til verdiane frå den opphavlege hendinga, før motforslaget kom">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Tittel:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Stad:" >
@@ -215,12 +215,12 @@
 <!ENTITY task.from.accesskey                              "a">
 <!ENTITY event.to.label                                   "Slutt:" >
 <!ENTITY event.to.accesskey                               "l">
-<!ENTITY task.to.label                                    "Innan:" >
+<!ENTITY task.to.label                                    "Forfallsdato:" >
 <!ENTITY task.to.accesskey                                "n">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "Gjenta:" >
-<!ENTITY event.repeat.accesskey                           "G">
+<!ENTITY event.repeat.label                               "Repeter:" >
+<!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.until.label                                "Til:">
 <!ENTITY event.until.accesskey                            "T">
 <!ENTITY event.reminder.label                             "Hugs:" >
@@ -231,15 +231,15 @@
 <!ENTITY event.attachments.accesskey                      "V" >
 <!ENTITY event.attachments.menubutton.label               "Legg ved">
 <!ENTITY event.attachments.menubutton.accesskey           "L">
-<!ENTITY event.attachments.url.label                      "Nettside …">
+<!ENTITY event.attachments.url.label                      "Nettside…">
 <!ENTITY event.attachments.url.accesskey                  "N">
 <!ENTITY event.attachments.popup.remove.label             "Fjern" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
-<!ENTITY event.attachments.popup.open.label               "Opna" >
+<!ENTITY event.attachments.popup.open.label               "Opne" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "Fjern alle" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Legg ved nettside …" >
+<!ENTITY event.attachments.popup.attachPage.label         "Legg ved nettside…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "v" >
 <!ENTITY event.url.label                                  "Relatert lenke:" >
 <!ENTITY event.priority2.label                            "Prioritet:">
@@ -255,14 +255,14 @@
 <!ENTITY event.reminder.1day.before.label                 "1 dag før" >
 <!ENTITY event.reminder.2days.before.label                "2 dagar før" >
 <!ENTITY event.reminder.1week.before.label                "1 veke før" >
-<!ENTITY event.reminder.custom.label                      "Eigendefinert …" >
+<!ENTITY event.reminder.custom.label                      "Tilpassa…" >
 
-<!ENTITY event.reminder.multiple.label                    "Fleire påminningar …" >
+<!ENTITY event.reminder.multiple.label                    "Fleire påminningar…" >
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Tid som:">
 <!ENTITY event.statusbarpanel.privacy.label               "Personvern:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Rediger oppattaking">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Vert ikkje repetert">
@@ -272,7 +272,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Annakvar veke">
 <!ENTITY event.repeat.monthly.label                     "Kvar månad">
 <!ENTITY event.repeat.yearly.label                      "Kvart år">
-<!ENTITY event.repeat.custom.label                      "Tilpassa …">
+<!ENTITY event.repeat.custom.label                      "Tilpassa…">
 
 <!ENTITY event.recurrence.pattern.label                 "Repeteringsmønster">
 <!ENTITY event.recurrence.occurs.label                  "Repeter" >
@@ -311,6 +311,7 @@
 <!ENTITY event.recurrence.every.label                        "Kvar:" >
 <!ENTITY repeat.units.years.both                             "År" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Kvar" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -318,7 +319,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Januar" >
@@ -368,8 +368,8 @@
 <!ENTITY event.recurrence.appointments.label            "avtalar" >
 <!ENTITY event.repeat.until.label                       "Repeter fram til" >
 <!ENTITY event.recurrence.preview.label                 "Førehandsvising">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Inviter deltakarar">
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Føreslå tidsluke:">
@@ -390,12 +390,12 @@
 <!ENTITY event.attendee.usertype.resource       "Ressurs">
 <!ENTITY event.attendee.usertype.room           "Rom">
 <!ENTITY event.attendee.usertype.unknown        "Ukjend">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Spesifiser tidssone">
 <!ENTITY event.timezone.custom.label     "Fleire tidssoner …">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Generelt">
 <!ENTITY read.only.title.label           "Tittel:">
 <!ENTITY read.only.event.start.label     "Startdato:">
