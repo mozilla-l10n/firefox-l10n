@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Nós estamos tendo problemas ao restaurar sua última sessão. Selecione Restaurar Sessão para tentar novamente.">
 <!ENTITY restorepage.tryThis2       "Ainda não foi possível restaurar sua sessão? Às vezes uma aba está causando o problema. Veja as abas anteriores, remova a marcação das abas que você não precisa recuperar, e em seguida, restaure.">
 
+<!ENTITY restorepage.hideTabs       "Ocultar aba anterior">
+<!ENTITY restorepage.showTabs       "Exibir aba anterior">
+
 <!ENTITY restorepage.tryagainButton2 "Restaurar sessão">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Iniciar nova sessão">
