@@ -27,9 +27,14 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Lo reporte de datos ye desactivau en esta configuración de programa">
 
+<!ENTITY enableHealthReport2.label       "Permitir que &brandShortName; ninvie datos tecnicos y d'interacción ta Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Saber-ne mas">
 
+<!ENTITY dataCollection.label            "Replega de datos y uso de &brandShortName;">
+<!ENTITY dataCollectionDesc.label        "Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  &brandShortName; pa totz. Siempre demandamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Nota sobre privacidat">
 
 <!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
