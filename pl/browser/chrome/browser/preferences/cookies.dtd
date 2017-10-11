@@ -4,7 +4,7 @@
 
 <!ENTITY window.width "32em">
 
-<!ENTITY     cookiesonsystem.label          "Na tym komputerze przechowywane są następujące ciasteczka:">
+<!ENTITY cookiesonsystem2.label "Na tym komputerze przechowywane są następujące ciasteczka:">
 <!ENTITY     cookiename.label               "Nazwa ciasteczka">
 <!ENTITY     cookiedomain.label             "Witryna">
 
