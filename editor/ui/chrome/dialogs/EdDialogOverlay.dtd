@@ -16,3 +16,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Insira o endereço de uma página web, um arquivo local ou, selecione uma Âncora Nomeada ou um Título a partir da lista suspensa:">
 <!ENTITY LinkURLEditField.accessKey "F">
+<!ENTITY LinkURLEditField2.label "Insira um endereço de uma página web, um arquivo local, ou selecione uma âncora ou cabeçalho do campo do menu de contexto:">
+<!ENTITY LinkURLEditField2.accessKey "l">
