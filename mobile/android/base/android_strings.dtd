@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; элементаў">
 <!ENTITY bookmark_folder_one_item "1 элемент">
+<!ENTITY bookmark_folder_updated "Папка абноўлена">
 <!ENTITY bookmark_parent_folder "Бацькоўская папка">
 <!ENTITY bookmark_add_folder "Дадаць новую папку">
 
