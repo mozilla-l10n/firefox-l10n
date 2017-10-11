@@ -17,11 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Hala! Ang iyong Tab ay nag-crash.">
 <!ENTITY tabCrashed.offerHelp2 "Maaari kaming tumulong!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Piliin ang &tabCrashed.restoreTab; upang i-reload ang pahina.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Piliin ang &tabCrashed.restoreTab; o &tabCrashed.restoreAll; upang i-reload ang pahinga/mga pahina.">
 <!ENTITY tabCrashed.requestHelp "Matutulungan mo ba kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Crash reports ay tinutulungan i-diagnose ang mga problema at gagawing &brandShortName; mas maigi.">
 <!ENTITY tabCrashed.requestReport "I-report ang tab na ito">
+<!ENTITY tabCrashed.sendReport3 "Magpadala ng isang awtomatikong ulat ng pag-crash upang maayos namin ang mga isyu tulad nito.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Optional comments (mga kumento ay nakikita ng publiko)">
+<!ENTITY tabCrashed.includeURL3 "Isama ang mga URLs ng mga site na nandoon ka nung &brandShortName; ay nag-crash.">
 <!ENTITY tabCrashed.emailPlaceholder "Ibigay ang iyong email address dito">
 <!ENTITY tabCrashed.emailMe "I-email ako kapag may bagong impormasyon">
 <!ENTITY tabCrashed.reportSent "Crash report ay nai-padala na; salamat sa pag tulong gawing mas maayos ang &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "I-report ang background tabs ">
+<!ENTITY tabCrashed.autoSubmit3 "I-update ang mga kagustuhan upang awtomatikong maisumite ang mga ulat kapag ang &brandShortName; ay nag-crash.">

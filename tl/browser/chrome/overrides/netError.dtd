@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "Ang address na ito ay pinagbabawalan">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Hindi makita ang server">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Hindi makita ang file">
 
@@ -30,7 +30,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Buksan ang Login na Pahina para sa Network">
 
-<!ENTITY malformedURI.title "Ang address na ito ay hindi pwede">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Nasagabal ang koneksyon">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -56,7 +56,9 @@
 <!ENTITY redirectLoop.title "Ang pahina ay hindi nag didirekta ng maayos">
 
 
+<!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
 
+<!ENTITY certerror.longpagetitle1 "Ang iyong koneksyon ay hindi ligtas">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -69,20 +71,26 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Magdagdag ng Exception…">
 
+<!ENTITY errorReporting.automatic2 "Mag-report ng mga error kagaya neto para makatulog sa Mozilla makilala at makilatis ang mga hinihinalaang sites">
 <!ENTITY errorReporting.learnMore "Karagdagan kaalaman…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Hindi maka-konek ng ligtas">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Paunang impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 <!ENTITY certerror.pagetitle1  "Hindi ligtas na Koneksyon">
+<!ENTITY certerror.copyToClipboard.label "Kopyahin sa clipboard">
 
+<!ENTITY inadequateSecurityError.title "Ang iyong koneksyon ay hindi ligtas">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.label "Ibalik ang default settings">

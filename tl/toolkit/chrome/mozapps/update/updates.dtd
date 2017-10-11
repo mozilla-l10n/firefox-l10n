@@ -13,12 +13,14 @@
 <!ENTITY  manualUpdate.title              "Hindi Maka-update">
 <!ENTITY  manualUpdateGetMsg.label        "Makukuha mo ang pinakabagong bersyon ng &brandShortName; sa:">
 
+<!ENTITY  unsupported.title               "Hindi Suportado ang Sistema">
 <!ENTITY  unsupportedLink.label           "matuto ng higit pa.">
 
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
 
 <!ENTITY  evangelism.desc                 "Mahigpit na inirerekomenda na mag-aplay mo ito i-update ang para &brandShortName; sa lalong madaling panahon.">
 
+<!ENTITY  downloadPage.title              "Nag-dadownload ng &brandShortName;">
 <!ENTITY  downloading.intro               "Dina-download na ang update">
 <!ENTITY  connecting.label                "Kumokonek sa update server…">
 
@@ -26,6 +28,7 @@
 
 <!ENTITY  details.link                    "Mga detalye">
 
+<!ENTITY  error.title                     "Nabigo sa Pag-update">
 
 <!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ngupdate. &brandShortName; hindi ma-update dahil:">
                                            

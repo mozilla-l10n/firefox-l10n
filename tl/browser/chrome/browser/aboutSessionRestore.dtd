@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Nagkakaproblema kami sa pagpapanumbalik ng iyong huling sesyon ng pagba-browse. Piliin ang Ibalik ang Session upang subukang muli.">
 <!ENTITY restorepage.tryThis2       "Hindi pa rin kayang ibalik ang iyong session? Kung minsan ang isang tab ay nagiging sanhi ng isyu. Tingnan ang nakaraang mga tab, alisin ang checkmark mula sa mga tab na hindi mo kailangang mabawi, at pagkatapos ay ibalik.">
 
+<!ENTITY restorepage.hideTabs       "Itago ang Nakaraan na mga Tab">
+<!ENTITY restorepage.showTabs       "Tingnan ang Nakaraan na mga Tab">
+
 <!ENTITY restorepage.tryagainButton2 "Ibalik ang Session">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Magsimula ng Bagong Session">

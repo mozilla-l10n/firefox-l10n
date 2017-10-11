@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kumuha pa ng Ibang Themes ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...">
+<!ENTITY customizeMode.overflowList.title2 "I-overflow Menu">
+<!ENTITY customizeMode.overflowList.description "I-drag at i-drop ang mga item dito upang panatilihin ang mga ito sa loob ng maabot ngunit sa labas ng iyong toolbar...">
 <!ENTITY customizeMode.uidensity "Density">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
