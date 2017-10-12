@@ -518,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस् ">
+<!ENTITY openLinkInPrivateWindowCmd.label "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "लिङ्क खोल्नुहोस्">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -526,7 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "नयाँ कन्टेनर ट्याबमा लिङ्क खोल्नुहोस्">
+<!ENTITY openLinkCmdInContainerTab.label "लिङ्कलाई नयाँ कन्टेनर ट्याबमा खोल्नुहोस्">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "यो फ्रेम मात्र देखाउनुहोस्">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -817,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "लिङ्कलाई नयाँ सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस् ">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस्">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यस ट्याबमा पुस्तकचिनो लगाउनुहोस्…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
