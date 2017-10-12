@@ -67,7 +67,7 @@
 <!ENTITY recentWindows.label "Tetingkap Terkini Ditutup">
 <!ENTITY recentWindows.accesskey "T">
 <!ENTITY recentWindows.commandkey "y">
-<!ENTITY historyRestoreLastSession.label "Pulih Sesi Terdahulu">
+<!ENTITY historyRestoreLastSession.label "Pulih Sesi Dahulu">
 <!ENTITY historyRestoreLastSession.accesskey "S">
 <!ENTITY syncTabsMenu.label "Tab Dari Komputer Lain">
 <!ENTITY syncTabsMenu.accesskey "L">
