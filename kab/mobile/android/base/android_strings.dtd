@@ -85,7 +85,7 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Tuṭṭfa n wegdil">
+<!ENTITY screenshot_folder_label_in_bookmarks "Tuṭṭfa n ugdil">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Tabdart n tɣuṛi">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
@@ -163,14 +163,14 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter-agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
-<!ENTITY overlay_share_send_other "Azen ɣer yibenkan nniḍen">
+<!ENTITY overlay_share_send_other "Azen ɣer yibenkan-nniḍen">
 
 <!ENTITY overlay_share_open_browser_btn_label "Ldi deg &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Azen ɣer yibenk nniḍen">
+<!ENTITY overlay_share_send_tab_btn_label "Azen ɣer yibenk-nniḍen">
 <!ENTITY overlay_share_no_url "Ulac aseɣwen yettwafen deg beṭṭu-yagi">
 <!ENTITY overlay_share_select_device "Fren ibenk">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
