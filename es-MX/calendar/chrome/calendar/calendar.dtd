@@ -55,27 +55,107 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ordenar por nombre de calendario">
 <!ENTITY calendar.unifinder.tree.duration.label            "Vence en">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Ordenar por duración">
+<!ENTITY calendar.unifinder.close.tooltip                  "Cerrar el buscador de eventos y la lista de eventos">
 
+<!ENTITY calendar.today.button.tooltip          "Ir a Hoy" >
+<!ENTITY calendar.todaypane.button.tooltip      "Mostrar vista de hoy" >
 
+<!ENTITY calendar.day.button.tooltip            "Cambiar a vista por día" >
+<!ENTITY calendar.week.button.tooltip           "Cambiar a vista por semana" >
+<!ENTITY calendar.month.button.tooltip          "Cambiar a vista por mes" >
+<!ENTITY calendar.multiweek.button.tooltip      "Cambiar a vista multisemana" >
 
+<!ENTITY calendar.nextday.label                 "Día siguiente" >
+<!ENTITY calendar.prevday.label                 "Día anterior" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "Próxima semana" >
+<!ENTITY calendar.prevweek.label                "Semana anterior" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Próximo mes" >
+<!ENTITY calendar.prevmonth.label               "Mes anterior" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Un día después" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Un día atrás" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Una semana después" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Una semana atrás" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes después" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes atrás" >
 
+<!ENTITY calendar.newevent.button.label         "Nuevo evento" >
+<!ENTITY calendar.newtask.button.label          "Nueva tarea" >
+<!ENTITY calendar.print.button.label            "Imprimir" >
+<!ENTITY calendar.print.button.accesskey        "P">
 
+<!ENTITY calendar.day.button.label              "Día" >
+<!ENTITY calendar.week.button.label             "Semana" >
+<!ENTITY calendar.month.button.label            "Mes" >
+<!ENTITY calendar.multiweek.button.label        "Multisemana" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Sólo días laborales" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Tareas en la vista" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar tareas completadas" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
+<!ENTITY calendar.orientation.label "Rotar vista" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
+<!ENTITY calendar.search.options.searchfor " contener">
 
+<!ENTITY calendar.list.header.label                 "Calendario">
 
+<!ENTITY calendar.task.filter.title.label           "Mostrar">
+<!ENTITY calendar.task.filter.all.label             "Todo">
+<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.today.label           "Hoy">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.next7days.label       "Próximos siete días">
+<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.notstarted.label      "Tareas no empezadas">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Tareas vencidas">
+<!ENTITY calendar.task.filter.overdue.accesskey     "O">
+<!ENTITY calendar.task.filter.completed.label       "Tareas completadas">
+<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.open.label            "Tareas incompletas">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Tareas actuales">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
 
+<!ENTITY calendar.task-details.title.label           "título">
+<!ENTITY calendar.task-details.organizer.label       "de">
+<!ENTITY calendar.task-details.priority.label        "prioridad">
+<!ENTITY calendar.task-details.priority.low.label    "Baja">
+<!ENTITY calendar.task-details.priority.normal.label "Normal">
+<!ENTITY calendar.task-details.priority.high.label   "Alta">
+<!ENTITY calendar.task-details.status.label          "estado">
+<!ENTITY calendar.task-details.category.label        "categoría">
+<!ENTITY calendar.task-details.repeat.label          "repetir">
+<!ENTITY calendar.task-details.attachments.label     "adjuntos">
+<!ENTITY calendar.task-details.start.label           "fecha de inicio">
+<!ENTITY calendar.task-details.due.label             "fecha de fin">
 
+<!ENTITY calendar.task.category.button.tooltip  "Categorizar tareas">
+<!ENTITY calendar.task.complete.button.tooltip  "Marcar tareas seleccionadas como completadas">
+<!ENTITY calendar.task.priority.button.tooltip  "Cambiar la prioridad">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrar tareas #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Abrir">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 
 <!-- Task Context Menu -->
 
