@@ -60,6 +60,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Insere geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Clicca duple sur le preferentia geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term4 "Le navigation con localisation geographic es disactivate">
 
 <!-- intro paragraph for unbranded builds -->
 

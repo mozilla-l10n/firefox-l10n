@@ -53,3 +53,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Media curte">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Media longe">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Deviation standard longe">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Conto lente de cache">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Conto non lente de cache">
