@@ -11,7 +11,7 @@
 <!ENTITY restorepage.dueToChrome    "Cuba nyahaktifkan ekstensi yang baru dipasang dari dalam Pengurus Add-ons.">
 <!ENTITY restorepage.dueToContent   "Cuba pulihkan sesi tanpa halaman Web yang anda syak menjadi punca masalah ini:">
 
-<!ENTITY restorepage.restoreButton  "Pulih Sesi Terdahulu">
+<!ENTITY restorepage.restoreButton  "Pulih Sesi Dahulu">
 <!ENTITY restorepage.restore.access "P">
 <!ENTITY restorepage.cancelButton   "Mulakan Sesi Baru">
 <!ENTITY restorepage.cancel.access  "M">

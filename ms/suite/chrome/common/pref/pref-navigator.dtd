@@ -16,7 +16,7 @@
 <!ENTITY homePageRadio.accesskey        "m">
 <!ENTITY lastPageRadio.label            "Halaman terakhir yang dilawati">
 <!ENTITY lastPageRadio.accesskey        "H">
-<!ENTITY restoreSessionRadio.label      "Pulih Sesi Terdahulu">
+<!ENTITY restoreSessionRadio.label      "Pulih Sesi Dahulu">
 <!ENTITY restoreSessionRadio.accesskey  "P">
 
 <!ENTITY restoreSessionIntro.label      "Apabila memulihkan sesi dan tetingkap">

@@ -256,7 +256,7 @@
 <!ENTITY nextUnreadThread.label "Thread Belum Dibaca">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Terdahulu">
+<!ENTITY prevMenu.label "Dahulu">
 <!ENTITY prevMenu.accesskey "T">
 <!ENTITY prevMsgCmd.label "Mesej">
 <!ENTITY prevMsgCmd.accesskey "M">

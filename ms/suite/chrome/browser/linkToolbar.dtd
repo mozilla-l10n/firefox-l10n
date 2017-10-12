@@ -19,7 +19,7 @@
 <!ENTITY topButton.label "Atas">
 <!ENTITY upButton.label "Ke Atas">
 <!ENTITY firstButton.label "Pertama">
-<!ENTITY prevButton.label "Terdahulu">
+<!ENTITY prevButton.label "Dahulu">
 <!ENTITY nextButton.label "Berikut">
 <!ENTITY lastButton.label "Akhir">
 
