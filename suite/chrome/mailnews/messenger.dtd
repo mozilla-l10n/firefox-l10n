@@ -29,7 +29,7 @@
 <!ENTITY closeTabCmd.accesskey "L">
 <!ENTITY newAccountCmd.label "Konto …">
 <!ENTITY newAccountCmd.accesskey "K">
-<!ENTITY openMessageFileCmd.label "Åpne lagret melding …">
+<!ENTITY openMessageFileCmd.label "Åpne fil…">
 <!ENTITY openMessageFileCmd.accesskey "Å">
 <!ENTITY openAttachmentCmd.label "Vedlegg">
 <!ENTITY openAttachmentCmd.accesskey "d">
