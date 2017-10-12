@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Īgiut jaunys temys">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "I">
 <!ENTITY customizeMode.emptyOverflowList.description "Drag and drop items here to keep them within reach but out of your toolbar…">
+<!ENTITY customizeMode.overflowList.title2 "Paldušō izviele">
+<!ENTITY customizeMode.overflowList.description "Porvītoj elements uz šani, kab jī byutu pa rūkai, bet na instrumentu paneļī…">
 <!ENTITY customizeMode.uidensity "Density">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
