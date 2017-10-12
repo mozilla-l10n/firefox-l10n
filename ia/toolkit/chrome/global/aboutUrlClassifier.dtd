@@ -15,12 +15,19 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Clarar">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Nomine del tabella">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Numero de entratas de cache negative">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Numero de entratas de cache positive">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Monstrar le entratas">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entratas de cache">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiration de cache negative">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash complete">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiration de cache positive">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuration">
-<!ENTITY aboutUrlClassifier.debugModuleBtn              "Definir le registro de modulos">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Definir le modulos de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Definir le file de registro">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Definir le registro de JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Modulos de registro de navigation secur">
+<!ENTITY aboutUrlClassifier.debugModules                "Modulos de registro actual">
 <!ENTITY aboutUrlClassifier.debugSBJSModules            "Registro JS de navigation secur">
 <!ENTITY aboutUrlClassifier.debugFile                   "File de diario actual">
