@@ -14,9 +14,13 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Clarar">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nomine del tabella">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Monstrar le entratas">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefixo">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash complete">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuration">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Definir le registro de modulos">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Definir le file de registro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Definir le registro de JS">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Registro JS de navigation secur">
 <!ENTITY aboutUrlClassifier.debugFile                   "File de diario actual">

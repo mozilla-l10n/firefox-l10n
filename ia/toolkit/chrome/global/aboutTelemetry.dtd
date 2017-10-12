@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pingDataSource "Fonte de datos de ping:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Datos de ping actual">
+<!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivate">
+<!ENTITY aboutTelemetry.showSubsessionData "Monstrar le datos del sub-session">
 <!ENTITY aboutTelemetry.choosePing "Eliger le ping:">
 <!ENTITY aboutTelemetry.archivePingType "Typo de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
@@ -19,6 +22,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetria">
 <!ENTITY aboutTelemetry.moreInformations "Cerca tu plus informationes?">
 
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Aperir in le visor JSON">
 
 <!ENTITY aboutTelemetry.homeSection "A casa">
 <!ENTITY aboutTelemetry.generalDataSection "Datos general">
