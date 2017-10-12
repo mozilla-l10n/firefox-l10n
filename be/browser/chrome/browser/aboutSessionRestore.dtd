@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Не ўдаецца аднавіць ваш апошні сеанс аглядання. Выберыце Аднавіць сеанс і паспрабуйце ізноў.">
 <!ENTITY restorepage.tryThis2       "Не ўдаецца ўзнавіць ваш сеанс? Часам пэўная картка можа быць праблемай. Гляньце папярэднія карткі, прыміце пазнакі з тых з іх, якія не трэба вяртаць, і ўзнаўляйце.">
 
+<!ENTITY restorepage.hideTabs       "Схаваць папярэднія карткі">
+<!ENTITY restorepage.showTabs       "Паказаць папярэднія карткі">
+
 <!ENTITY restorepage.tryagainButton2 "Аднавіць сеанс">
 <!ENTITY restorepage.restore.access2 "А">
 <!ENTITY restorepage.closeButton2    "Пачаць новы сеанс">
