@@ -319,6 +319,8 @@
 <!ENTITY appMenuRemoteTabs.managedevices.label "Zarządzaj urządzeniami…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl karty z innych urządzeń w panelu bocznym">
 
+<!ENTITY appMenuRecentHighlights.label "Ostatnio wyróżnione">
+
 <!ENTITY customizeMenu.addToToolbar.label "Dodaj do paska narzędzi">
 <!ENTITY customizeMenu.addToToolbar.accesskey "D">
 <!ENTITY customizeMenu.addToPanel.label "Dodaj do menu">
