@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; këf">
 <!ENTITY bookmark_folder_one_item "1 këf">
+<!ENTITY bookmark_folder_updated "Yeesalees na wayndare bi">
 <!ENTITY bookmark_parent_folder "Waa-juru Wayndare">
 <!ENTITY bookmark_add_folder "Yokk wayndare gu bees">
 
@@ -285,11 +286,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Solo yu jàppandindi">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Làcc yees Kennal">
-<!ENTITY pref_custom_tabs_summary3 "Sañal jëfekaay yi man di ubbi dali web ci njëfandikoo sumb bees kennal bu &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ubbi ci &formatS;">
@@ -831,8 +827,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_topstories "&brandPocket; moo la ko digal">
 <!ENTITY activity_stream_highlights "Gën-gi-fés">
 
-<!-- LOCALIZATION NOET (activity_stream_link_more): Link-like text displayed to take user to a website with more content from Pocket. This string will be displayed in all uppercase. -->
-<!ENTITY activity_stream_link_more "Yeneen">
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "YENEEN">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
