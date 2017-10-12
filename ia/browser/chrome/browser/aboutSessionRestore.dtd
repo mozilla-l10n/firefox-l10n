@@ -2,22 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY restorepage.tabtitle       "Restaurar le session">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Nos lo regretta. Nos ha problemas a recuperar tu paginas.">
+<!ENTITY restorepage.problemDesc2   "Nos ha problemas a restaurar tu ultime session de navigation. Elige Restaurar session pro reprobar.">
 
 <!ENTITY restorepage.hideTabs       "Celar le schedas precedente">
 <!ENTITY restorepage.showTabs       "Vider le schedas precedente">
 
+<!ENTITY restorepage.tryagainButton2 "Restaurar le session">
+<!ENTITY restorepage.closeButton2    "Comenciar un nove session">
 
+<!ENTITY restorepage.restoreHeader  "Restaurar">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Fenestra &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton  "Que nos va!">
 
+<!ENTITY welcomeback2.tabtitle      "Successo!">
 
+<!ENTITY welcomeback2.pageTitle     "Successo!">
 
 
 
