@@ -199,7 +199,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TAXBALUT: Rnu kra n usmel web ɣer tebdart-inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti yines n unadi sakin nnal tignit &formatI;.">
+<!ENTITY pref_search_hint2 "TAXBALUT: Rnu kra n usmel web ɣer tebdart-inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti-yines n unadi sakin nnal tignit &formatI;.">
 <!ENTITY pref_category_advanced "Talqayt">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
