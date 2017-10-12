@@ -29,7 +29,7 @@
 <!ENTITY pref.numberofweeks.label "Bilangan minggu untuk dipaparkan (termasuk minggu terdahulu):">
 <!ENTITY pref.numberofweeks.accesskey "i">
 <!ENTITY pref.numberofpreviousweeks.label "Minggu terdahulu untuk dipaparkan:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "T">
+<!ENTITY pref.numberofpreviousweeks.accesskey "M">
 <!ENTITY pref.numberofweeks.0 "tiada">
 <!ENTITY pref.numberofweeks.1 "1 minggu">
 <!ENTITY pref.numberofweeks.2 "2 minggu">

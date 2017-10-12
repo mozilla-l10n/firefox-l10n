@@ -374,7 +374,7 @@
 <!ENTITY event.organizer.label                  "Penganjur">
 <!ENTITY event.freebusy.suggest.slot            "Cadangan slot masa:">
 <!ENTITY event.freebusy.button.next.slot        "Slot seterusnya">
-<!ENTITY event.freebusy.button.previous.slot    "Slot terdahulu">
+<!ENTITY event.freebusy.button.previous.slot    "Slot dahulu">
 <!ENTITY event.freebusy.zoom                    "Zum:">
 <!ENTITY event.freebusy.legend.free             "Lapang" >
 <!ENTITY event.freebusy.legend.busy             "Sibuk" >
