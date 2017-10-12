@@ -214,7 +214,6 @@
 <!ENTITY pluginDeprecation.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Więcej informacji">
 
-<!ENTITY legacyWarning.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane przez program &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Wyświetl przestarzałe rozszerzenia">
 <!ENTITY legacyExtensions.title "Przestarzałe rozszerzenia">
 <!ENTITY legacyExtensions.description "Te rozszerzenia nie spełniają obecnych standardów programu &brandShortName; i z tego powodu zostały wyłączone.">
