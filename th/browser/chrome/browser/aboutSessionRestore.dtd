@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "เรามีปัญหาในการเรียกคืนวาระการท่องเว็บครั้งล่าสุดของคุณ ให้เลือก เรียกคืนวาระ เพื่อลองอีกครั้ง">
 <!ENTITY restorepage.tryThis2       "ยังไม่สามารถเรียกคืนวาระของคุณได้งั้นหรือ? บางครั้งอาจมีบางแท็บที่กำลังก่อให้เกิดปัญหา ดูแท็บก่อนหน้า, เอาเครื่องหมายออกจากแท็บที่คุณไม่ต้องการเรียกคืน แล้วลองเรียกคืนใหม่">
 
+<!ENTITY restorepage.hideTabs       "ซ่อนแท็บก่อนหน้า">
+<!ENTITY restorepage.showTabs       "ดูแท็บก่อนหน้า">
+
 <!ENTITY restorepage.tryagainButton2 "เรียกคืนวาระ">
 <!ENTITY restorepage.restore.access2 "ร">
 <!ENTITY restorepage.closeButton2    "เริ่มวาระใหม่">
