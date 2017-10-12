@@ -156,6 +156,10 @@
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Abrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
+<!ENTITY calendar.context.modifyorviewtask.label      "Abrir tarea…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
+<!ENTITY calendar.context.newevent.label              "Nuevo evento…">
+<!ENTITY calendar.context.newevent.accesskey          "N">
 
 <!-- Task Context Menu -->
 
