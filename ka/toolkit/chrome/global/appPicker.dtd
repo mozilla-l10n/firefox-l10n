@@ -4,4 +4,4 @@
 
 <!ENTITY NoAppFound.label      "ფაილის ამ ტიპისთვის პროგრამა ვერ მოიძებნა.">
 <!ENTITY BrowseButton.label    "ამორჩევა…">
-<!ENTITY SendMsg.label         "ამ სახის ფაილის გახსნა პროგრამით:">
+<!ENTITY SendMsg.label         "ამ ფაილის გახსნა პროგრამით:">
