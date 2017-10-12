@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Iminig aziraz atrar sɣur Mozilla, d win yeldin yerna baṭel.">
 <!ENTITY firstrun_panel_title_privacy "Tabaḍnit">
 <!ENTITY firstrun_privacy_message "Inig am akken ulac win i k-id-ittmuqqulen">
-<!ENTITY firstrun_privacy_subtext "Tunigin tusligt s usentem n usfuγel ad tsewḥel ineḍfaren di lawan n tunigt, ur tecefu yara γef umazray n tunigin.">
+<!ENTITY firstrun_privacy_subtext "Tunigin tusligt s usentem n usfuɣel ad tsewḥel ineḍfaren di lawan n tunigt, ur tecefu yara γef umazray n tunigin.">
 <!ENTITY firstrun_panel_title_customize "Sagen">
 <!ENTITY firstrun_customize_message "Err&brandShortName; d ayla-k.">
 <!ENTITY firstrun_customize_subtext "Sagen &brandShortName; s izegrar. Sewḥel imerna, rnu timahalin, neγ fren asentel i k-iwatan.">
@@ -56,7 +56,7 @@
 <!ENTITY  tab_offline_version "Sken lqem n war tuqqna">
 
 <!ENTITY  crash_reporter_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
-<!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren deg usebter agejdan n &brandShortName; ticki t-senkreṭ.">
+<!ENTITY  crash_message2 "&brandShortName;  yeɣli. Issefk iccaren-ik ad ttwabedren deg usebter agejdan n &brandShortName; ticki t-tesnekreḍ.">
 <!ENTITY  crash_send_report_message3 "Mmel i &vendorShortName; ɣef uɣelluy-agi akken ad yefru wugur">
 <!ENTITY  crash_include_url2 "Seddu tansa n usebter anda lliɣ">
 <!ENTITY  crash_sorry "Sureft-aγ">
