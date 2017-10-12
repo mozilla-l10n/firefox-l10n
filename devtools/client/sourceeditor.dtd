@@ -16,4 +16,4 @@
 
 <!ENTITY gotoLineCmd.label         "ไปที่บรรทัด…">
 <!ENTITY gotoLineCmd.key           "J">
-<!ENTITY gotoLineCmd.accesskey     "J">
+<!ENTITY gotoLineCmd.accesskey     "ป">
