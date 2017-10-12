@@ -648,7 +648,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已拦截此页面上不安全的内容。">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; 已拦截此页面上部分不安全的内容。">
-<!ENTITY mixed_content_display_loaded1 "此页面的部分不安全的内容（例如图像）。">
+<!ENTITY mixed_content_display_loaded1 "此页面的部分内容（例如图像）不安全。">
 <!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的拦截。">
 
 <!-- Tracking content notifications in site identity popup -->
