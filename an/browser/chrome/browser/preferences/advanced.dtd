@@ -37,10 +37,13 @@ available. -->
 <!ENTITY dataCollectionDesc.label        "Nos esforzamos pa dar-te opcions y replegar nomás lo que necesitamos pa ofrir y amillorar  &brandShortName; pa totz. Siempre demandamos permiso antes de recibir información personal.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Nota sobre privacidat">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Permitir que &brandShortName; ninvie reportes de fallo a Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Saber-ne mas">
 
 <!ENTITY networkTab.label                "Ret">
 
+<!ENTITY networkProxy.label              "Proxy de ret">
 
 <!ENTITY connectionDesc.label            "Configurar cómo o &brandShortName; se connecta ta Internet">
 <!ENTITY connectionSettings.label        "Configuración…">
@@ -87,8 +90,13 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Mantener &brandShortName; a lo día pa tener lo millor rendimiento, estabilidat y seguranza.">
+<!ENTITY updateApplication.version.pre   "Versión ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir a &brandShortName;">
+<!ENTITY updateAuto3.label               "Instalar automaticament las actualizacions (recomendau)">
+<!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Comprebar as actualizacions, pero deixar-me trigar si las quiero instalar">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "No comprebar nunca las actualizacions">
@@ -108,6 +116,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "Los siguients puestos web son autorizaus a almagazenar datos pa uso fuera de linia">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Eliminar…">
 <!ENTITY offlineAppsListRemove.accesskey "l">
@@ -121,15 +130,27 @@ available. -->
 <!ENTITY selectCerts.ask.accesskey       "m">
 <!ENTITY enableOCSP.label                "Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus">
 <!ENTITY enableOCSP.accesskey            "u">
+<!ENTITY viewCerts2.label                "Veyer los certificaus…">
+<!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Dispositivos de seguranza…">
+<!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rendimiento">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Usar las caracteristicas de rendimiento recomendadas">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Estos achustes son adaptaus a lo hardware y lo sistema operativo d'o tuyo ordinador.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Saber-ne mas">
 <!ENTITY limitContentProcessOption.label "Limite de procesado de conteniu">
+<!ENTITY limitContentProcessOption.description
+                                         "Los procesos de conteniu adicional pueden millorar las prestacions quan se fan servir multiples pestanyas, pero tamién usarán mas memoria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificar lo numero de procesos de contenius no ye posible soque con la versión multiproceso de &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Aprender a comprebar si los multiprocesos son activaus">
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
