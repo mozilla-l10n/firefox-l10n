@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Tab Terkini Ditutup">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Tetingkap Terkini Ditutup">
-<!ENTITY historyRestoreLastSession.label "Pulih Sesi Terdahulu">
+<!ENTITY historyRestoreLastSession.label "Pulih Sesi Dahulu">
 
 <!ENTITY showAllHistoryCmd2.label "Papar Semua Sejarah">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -354,7 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Siap Penyesuaian">
 <!ENTITY appMenuHistory.showAll.label "Papar Semua Sejarah">
 <!ENTITY appMenuHistory.clearRecent.label "Buang Sejarah Terkini…">
-<!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Terdahulu">
+<!ENTITY appMenuHistory.restoreSession.label "Pulih Sesi Dahulu">
 <!ENTITY appMenuHistory.viewSidebar.label "Papar Bar sisi Sejarah">
 <!ENTITY appMenuHistory.recentHistory.label "Sejarah Terkini">
 <!ENTITY appMenuHelp.label "Bantuan">
