@@ -718,16 +718,6 @@
 <!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.block2.accesskey "W">
 
-<!ENTITY trackingContentBlocked.message "Śledzenie">
-<!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
-<!ENTITY trackingContentBlocked.learnMore "Więcej informacji">
-<!ENTITY trackingContentBlocked.options "Ustawienia">
-<!ENTITY trackingContentBlocked.unblock2.label "Wyłącz ochronę dla tej witryny">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "W">
-<!ENTITY trackingContentBlocked.block.label "Włącz ochronę">
-<!ENTITY trackingContentBlocked.block.accesskey "W">
-<!ENTITY trackingContentBlocked.disabled.message "Ochrona przed śledzeniem jest wyłączona">
-
 <!ENTITY pluginNotification.showAll.label "Wyświetl wszystkie">
 <!ENTITY pluginNotification.showAll.accesskey "W">
 
