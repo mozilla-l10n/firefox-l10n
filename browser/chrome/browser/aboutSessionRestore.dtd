@@ -11,6 +11,7 @@
 <!ENTITY restorepage.tryThis2       "أما زلت غير قادر على استعادة جلستك؟ في بعض الأحيان يتسبب أحد الألسنة بالمشكلة. اعرض ألسنتك السابقة، وأزِل علامة التأشير من الألسنة التي لا تريد استرجاعها، ومن ثم أجرِ الاستعادة.">
 
 <!ENTITY restorepage.hideTabs       "أخفِ الألسنة السابقة">
+<!ENTITY restorepage.showTabs       "اعرض الألسنة السابقة">
 
 <!ENTITY restorepage.tryagainButton2 "استعِد الجلسة">
 <!ENTITY restorepage.restore.access2 "س">
