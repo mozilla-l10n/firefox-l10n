@@ -301,7 +301,7 @@
 <!ENTITY nextUnreadThread.label "Thread Belum Dibaca">
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
-<!ENTITY prevMenu.label "Terdahulu">
+<!ENTITY prevMenu.label "Dahulu">
 <!ENTITY prevMenu.accesskey "T">
 <!ENTITY prevMsgCmd.label "Mesej">
 <!ENTITY prevMsgCmd.accesskey "M">
@@ -534,9 +534,9 @@
 <!ENTITY nextButton.label "Berikut">
 <!ENTITY nextButtonToolbarItem.label "Belum Dibaca Berikut">
 <!ENTITY nextMsgButton.label "Berikut">
-<!ENTITY previousButton.label "Terdahulu">
+<!ENTITY previousButton.label "Dahulu">
 <!ENTITY previousButtonToolbarItem.label "Belum Dibaca Terdahulu">
-<!ENTITY previousMsgButton.label "Terdahulu">
+<!ENTITY previousMsgButton.label "Dahulu">
 <!ENTITY backButton1.label "Undur">
 <!ENTITY goForwardButton1.label "Kirim semula">
 <!ENTITY deleteItem.title "Buang">
