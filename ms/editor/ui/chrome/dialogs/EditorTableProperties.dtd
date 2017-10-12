@@ -42,8 +42,8 @@
 <!ENTITY cellSelectColumn.label           "Lajur">
 <!ENTITY cellSelectNext.label             "Berikut">
 <!ENTITY cellSelectNext.accessKey         "B">
-<!ENTITY cellSelectPrevious.label         "Terdahulu">
-<!ENTITY cellSelectPrevious.accessKey     "T">
+<!ENTITY cellSelectPrevious.label         "Dahulu">
+<!ENTITY cellSelectPrevious.accessKey     "D">
 <!ENTITY applyBeforeChange.label          "Perubahan semasa akan diterapkan sebelum menukar pilihan.">
 <!ENTITY cellContentAlignment.label       "Jajaran Kandungan">
 <!ENTITY cellHorizontal.label             "Mengufuk:">
