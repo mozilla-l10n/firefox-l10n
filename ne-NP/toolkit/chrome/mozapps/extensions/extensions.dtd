@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "केही एक्सटेन्सनहरू प्रमाणिकरण गर्न सकिएन">
 <!ENTITY showAllExtensions.button.label       "सबै एक्सटेन्सनहरू देखाउनुहोस्">
 <!ENTITY debugAddons.label                    "एडअनहरू डिबग गर्नुहोस्">
@@ -124,7 +125,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "एड-अनहरू के हो ?">
-<!ENTITY discover.description2                "एड-अनहरू तपाईँलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन्।  &brandShortName; लाई  आफ्नै बनाउन समय-बचत ट्याब, मौसम नोटिफायर, वा आवरण हाल्न प्रयास गर्नुहोस्।">
+<!ENTITY discover.description2                "एड-अनहरू तपाईँलाई अतिरिक्त कार्यक्षमता वा शैलीमा &brandShortName;
+  लाई व्यक्तिगत बनाउने अनुप्रयोगहरू हुन् । &brandShortName;
+  लाई आफ्नै बनाउन समय-बचाउने साइडबार. मौसम सूचक, वा आवरण हाल्ने प्रयास गर्नुहोस् ।">
 <!ENTITY discover.footer                      "तपाईँ इन्टरनेटमा जोडिएको बेला, यस पेनले  तपाईंलाई प्रयास गर्नको लागि सर्वोत्तम र सबैभन्दा लोकप्रिय एड-अनहरू प्रदर्शन गर्नेछ।">
 
 <!-- detail view -->
