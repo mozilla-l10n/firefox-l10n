@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "खोज वा ठेगाना राखनुहोस्।">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "विस्तार:">
+<!ENTITY urlbar.extension.label       "एक्सटेन्सन:">
 <!ENTITY urlbar.switchToTab.label     "यस ट्याबमा स्विच गर्नुहोस्:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "के तपाईँ सुझावद्वारा आफ्नो खोज अनुभव सुधार गर्न चाहनुहुन्छ?">
