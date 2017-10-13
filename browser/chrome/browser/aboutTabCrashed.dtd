@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "Fitxen hutsegiteen berriemailea">
 
 <!ENTITY tabCrashed.closeTab2  "Itxi fitxa">
 <!ENTITY tabCrashed.restoreTab "Berreskuratu fitxa">

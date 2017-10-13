@@ -7,6 +7,9 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.hideTabs       "Ezkutatu aurreko fitxak">
+<!ENTITY restorepage.showTabs       "Ikusi aurreko fitxak">
+
 <!ENTITY restorepage.tryagainButton2 "Berreskuratu saioa">
 <!ENTITY restorepage.restore.access2 "B">
 <!ENTITY restorepage.closeButton2    "Hasi saio berria">
