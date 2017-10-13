@@ -27,7 +27,7 @@
 <!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द गर्नुहोस्">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
-<!ENTITY saveChangeSyncDeviceName.label "बचत गर्नुहोस्">
+<!ENTITY saveChangeSyncDeviceName.label "सङ्ग्रह गर्नुहोस्">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->

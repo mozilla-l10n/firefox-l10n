@@ -9,14 +9,14 @@
 <!ENTITY privateBrowsing.title                           "निजी ब्राउजिङ्ग">
 <!ENTITY privateBrowsing.title.tracking                  "ट्रयाकिङ्ग सुरक्षाका साथ निजी ब्राउजिङ्ग">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "जब तपाईँ निजी सञ्झ्यालमा ब्राउज गर्नुहुन्छ, Firefox ले ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "बचत गर्दैन">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "सङ्ग्रह गर्दैन">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "खोलिसकिएका पृष्ठहरू">
 <!ENTITY aboutPrivateBrowsing.info.searches              "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "कुकीज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "अस्थायी फाइलहरू">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox  ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "बचत गर्नेछ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "सङ्ग्रह गर्नेछ">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " तपाईँको:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "पुस्तकचिनोहरू">
