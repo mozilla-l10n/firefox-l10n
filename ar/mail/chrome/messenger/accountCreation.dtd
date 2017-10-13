@@ -10,6 +10,7 @@
 <!ENTITY email.label                     "البريد الإلكتروني:">
 <!ENTITY email.accesskey                 "د">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
+<!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email.text                      "عنوان البريد الإلكتروني">
 <!ENTITY password.label                  "كلمة السر:">
 <!ENTITY password.accesskey              "م">
