@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account 'Изключване&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Изключване от Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'Данните за сърфирането ще останат на това устройство, но няма да бъдат синхронизирани с вашата сметка.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Данните за разглеждаането ще останат на това устройство, но няма да бъдат синхронизирани с вашата сметка.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Firefox Account &formatS; е изключен.'>
