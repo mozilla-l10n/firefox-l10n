@@ -20,7 +20,7 @@
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "कुंजीपट शॉर्टकट‌‌">
+<!ENTITY helpKeyboardShortcuts.label     "कीबोर्ड शॉर्टकट‌‌">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "निष्क्रिय सहयुक्तियों के साथ फिर ‌आरंभ करें…">
