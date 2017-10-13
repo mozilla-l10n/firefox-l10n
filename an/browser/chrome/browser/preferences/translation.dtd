@@ -6,15 +6,15 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "No s'ofrirá garra traducción t'as luengas siguients:">
+<!ENTITY noTranslationForLanguages2.label "No s'ofrirá garra traducción ta las luengas siguients">
 <!ENTITY treehead.languageName.label      "Luengas">
 <!ENTITY removeLanguage.label             "Borrar luenga">
 <!ENTITY removeLanguage.accesskey         "r">
 <!ENTITY removeAllLanguages.label         "Borrar todas as luengas">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "No s'ofrirá garra traducción en os puestos siguients:">
-
+<!ENTITY noTranslationForSites2.label     "No s'ofrirá garra traducción en os puestos siguients">
+<!ENTITY treehead.siteName2.label         "Puestos web">
 <!ENTITY removeSite.label                 "Eliminar o puesto">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Borrar totz os puestos">
