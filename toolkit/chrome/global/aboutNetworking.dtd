@@ -41,18 +41,18 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "Estatisticas de RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Estatus de RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Numero de victorias d'o caché">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Numero de victorias neto">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Numero de demandas totals de ret">
+<!ENTITY aboutNetworking.rcwnOperation         "Operación d'a caché">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ubrir">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Leyer">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Escribir">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Abrir dentrada">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Meya curta">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Meya larga">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Desviación estandard larga">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Numero d'ocasions que la caché ye lenta">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Numero d'ocasions que la caché no ye lenta">

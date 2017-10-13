@@ -4,13 +4,15 @@
 
 <!ENTITY  security.label                 "Seguranza">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Alvertir-te quan bell puesto web mire d'instalar complementos">
+<!ENTITY  warnOnAddonInstall2.accesskey   "v">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  browsingProtection.label        "Protección contra los contenius enganyosos y los programas periglosos">
 <!ENTITY  enableSafeBrowsing.label        "Blocar lo conteniu perigloso y malicioso">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -26,7 +28,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formularios &amp; Claus">
 
-
+<!ENTITY  rememberLogins2.label         "Recordar los inicios y claus pa los puestos web">
+<!ENTITY  rememberLogins2.accesskey     "R">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

@@ -26,10 +26,18 @@
 <!ENTITY changeBlockList2.label               "Cambiar la Lista de Bloqueyo…">
 <!ENTITY changeBlockList2.accesskey           "C">
 
+<!ENTITY  doNotTrack.description        'Ninviar a los webs un sinyal de "No seguir" indicando que no quiers que te fagan garra seguimiento'>
 <!ENTITY  doNotTrack.learnMore.label    "Saber-ne mas">
+<!ENTITY  doNotTrack.default.label      "Nomás quan s'use protección contra seguimiento">
+<!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
+<!ENTITY  permissions.label             "Permisos">
 
+<!ENTITY  addressBar.label              "Barra d'adrezas">
+<!ENTITY  addressBar.suggest.label      "Quan s'use la barra d'adrezas, sucherir">
+<!ENTITY  locbar.history2.label         "Historial de navegación">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Marcapachinas">
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Ubrir as pestanyas">
@@ -39,10 +47,17 @@
 
 <!ENTITY  suggestionSettings2.label     "Cam&amp;biar las preferencias de sucherencias en motors de busca…">
 
+<!ENTITY  acceptCookies2.label          "Acceptar cookies dende puestos webs">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "Accetar cookies de tercers">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "Siempre">
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
 
+<!ENTITY  keepUntil2.label              "Alzar dica">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "que circumduzcan">
 <!ENTITY  close.label                   "que zarre o &brandShortName;">

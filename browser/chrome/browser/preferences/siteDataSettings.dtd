@@ -16,4 +16,4 @@
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Borrar los datos d'o puesto">
 <!ENTITY     removingSelected.description  "Si borrar los datos d'o puesto tamién borrará las cookies relacionadas y lo conteniu offiline. Isto puede sacar-te de sesión en los puestos web. Ye seguro que quiere fer los cambios?">
-<!ENTITY     siteTree.label                "Se van a borrar las siguients cookes d'o puesto web:">
+<!ENTITY     siteTree2.label               "Los cookies d'os siguients puestos web se borrarán">
