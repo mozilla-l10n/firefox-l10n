@@ -326,13 +326,13 @@
 <!ENTITY pinned_page_to_top_sites "Aggiunto ai siti principali">
 <!ENTITY unpinned_page_from_top_sites "Rimosso dai siti principali">
 <!ENTITY doorhanger_login_no_username "[nessun nome utente]">
-<!ENTITY doorhanger_login_edit_title "Modifica accesso">
+<!ENTITY doorhanger_login_edit_title "Modifica credenziali">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
 <!ENTITY doorhanger_login_edit_password_hint "Password">
 <!ENTITY doorhanger_login_edit_toggle "Mostra password">
 <!ENTITY doorhanger_login_select_message "Copiare la password da &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Password copiata negli appunti">
-<!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
+<!ENTITY doorhanger_login_select_action_text "Seleziona altre credenziali di accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary2 "Nascondi la barra degli strumenti di &brandShortName; quando si scorre una pagina verso il basso">
