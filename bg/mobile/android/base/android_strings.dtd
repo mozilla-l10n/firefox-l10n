@@ -22,7 +22,7 @@
 <!ENTITY firstrun_sync_subtext2 "Използвайте Sync, за да намерите отметките, паролите и другите неща, които запазвате в &brandShortName; на всички ваши устройства.">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
 <!ENTITY firstrun_signin_button "Вписване в Sync">
-<!ENTITY  onboard_start_button_browser "Започнете да сърфирате">
+<!ENTITY  onboard_start_button_browser "Започнете да разглеждате">
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
 
@@ -276,7 +276,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; ще казва на сайтовете, че не желаете да бъдете проследявани">
 
 <!ENTITY pref_tracking_protection_enabled "Включено">
-<!ENTITY pref_tracking_protection_enabled_pb "Включено при поверително сърфиране">
+<!ENTITY pref_tracking_protection_enabled_pb "Включено при поверително разглеждане">
 <!ENTITY pref_tracking_protection_disabled "Изключено">
 
 <!ENTITY pref_whats_new_notification "Какво е новото във &brandShortName;">
@@ -579,7 +579,7 @@
 <!ENTITY home_synced_devices_one "1 устройство">
 <!ENTITY home_history_back_to2 "Обратно към История">
 <!ENTITY home_clear_history_button "Изчистване на историята">
-<!ENTITY home_clear_history_confirm "Сигурни ли сте, че желаете да изтриете историята на сърфирането?">
+<!ENTITY home_clear_history_confirm "Сигурни ли сте, че желаете да изтриете историята на разглеждане?">
 <!ENTITY home_bookmarks_empty "Направените отметки се показват тук.">
 <!ENTITY home_closed_tabs_title2 "Наскоро затворени">
 <!ENTITY home_last_tabs_empty "Последните затворени раздели се показват тук.">
@@ -716,12 +716,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Продължаване">
 <!ENTITY guest_session_dialog_cancel "Отказ">
 <!ENTITY new_guest_session_title "&brandShortName; сега ще рестартира">
-<!ENTITY new_guest_session_text2 "Човекът, който го използва няма достъп до вашите данни за сърфиране като запазени регистрации, история или отметки.\n\nКогато гостът приключи неговите данни ще бъдат заличени, а вашата сесия – възстановена.">
+<!ENTITY new_guest_session_text2 "Човекът, който го използва няма достъп до вашите данни за разглеждане като запазени регистрации, история или отметки.\n\nКогато гостът приключи неговите данни ще бъдат заличени, а вашата сесия – възстановена.">
 <!ENTITY guest_browsing_notification_title "Разглеждането като гост е включено">
 <!ENTITY guest_browsing_notification_text "Докоснете за изход">
 
 <!ENTITY exit_guest_session_title "&brandShortName; сега ще рестартира">
-<!ENTITY exit_guest_session_text "Данни за сърфирането от тази сесия ще бъде изтрити.">
+<!ENTITY exit_guest_session_text "Данните за разглеждането от тази сесия ще бъде изтрити.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -753,7 +753,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "Тази препратка ще бъде отворена в &formatS;. Наистина ли желаете да напуснете поверителното сърфиране?">
+<!ENTITY intent_uri_private_browsing_prompt "Тази препратка ще бъде отворена в &formatS;. Наистина ли желаете да напуснете поверителното разглеждане?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -761,7 +761,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Излизане от поверително сърфиране?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Излизане от поверително разглеждане?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -777,7 +777,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Добавки">
 <!ENTITY restrictable_feature_addons_installation_description "Добавя възможности и функции към Firefox. Забележка: Добавки могат да отменят някои ограничения.">
 <!ENTITY restrictable_feature_private_browsing "Поверително разглеждане">
-<!ENTITY restrictable_feature_private_browsing_description "Позволява на близките ви да сърфират без запазване на информация за посетените от тях сайтове и страници.">
+<!ENTITY restrictable_feature_private_browsing_description "Позволява на близките ви да разглеждат без запазване на информация за посетените от тях страници.">
 <!ENTITY restrictable_feature_clear_history "Изчистване на историята">
 <!ENTITY restrictable_feature_clear_history_description "Позволява на близките ви да изтриват информация за посетените от тях сайтове и страници.">
 <!ENTITY restrictable_feature_advanced_settings "Разширени настройки">
