@@ -84,7 +84,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "लिङ्कको स्थान नकल गर्नुहोस्">
+<!ENTITY copyURLCmd.label     "लिङ्कको स्थान प्रतिलिपि गर्नुहोस्">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
