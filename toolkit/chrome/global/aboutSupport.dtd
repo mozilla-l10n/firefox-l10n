@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Información ta solucionar problemas">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ista pachina contiene información tecnica que puede estar util quan prebe de resolver un problema. Si ye buscando respuestas a preguntas freqüents sobre &brandShortName;, mire o <a id='supportLink'>puesto d'asistencia</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Informes de fallos">
@@ -39,9 +39,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Nombre">
 <!ENTITY aboutSupport.appBasicsVersion "Versión">
 <!ENTITY aboutSupport.appBasicsBuildID "Construir ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Esviellar a Canal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historial d'actualizacions">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Amostrar l'historial d'actualizacions">
@@ -58,14 +58,15 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "SO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 <!ENTITY aboutSupport.appBasicsPerformance "Rendimiento">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers rechistraus">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Perfils">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestras multiproceso">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procesos de conteniu web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Clau d'o servicio de plazamiento de Mozilla">
@@ -84,8 +85,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferencias modificadas importants">
 <!ENTITY aboutSupport.modifiedPrefsName "Nombre">
 <!ENTITY aboutSupport.modifiedPrefsValue "Valura">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Preferencias de user.js">
 <!ENTITY aboutSupport.userJSDescription "A suya carpeta de perfil contien un <a id='prefs-user-js-link'>fichero user.js</a> que bi incluye as preferencias que no estioron creyadas por &brandShortName;.">
 
@@ -105,8 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accesibilidat">
 <!ENTITY aboutSupport.a11yActivated "Activau">
 <!ENTITY aboutSupport.a11yForceDisabled "Privar accesibilidat">
-
-
+<!ENTITY aboutSupport.a11yHandlerUsed "S'ha usau un maniador accesible">
+<!ENTITY aboutSupport.a11yInstantiator "Instanciador d'accesibilidat">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions d'a biblioteca">
 
@@ -138,14 +139,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Caracteristicas Crash Guard desactivadas">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Solucions temporals">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.mediaTitle "Multimedia">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispositivos de salida">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispositivos de dentrada">
+<!ENTITY aboutSupport.mediaDeviceName "Nombre">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grupo">
+<!ENTITY aboutSupport.mediaDeviceVendor "Fabricant">
+<!ENTITY aboutSupport.mediaDeviceState "Estau">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferiu">
+<!ENTITY aboutSupport.mediaDeviceFormat "Formato">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canals">
+<!ENTITY aboutSupport.mediaDeviceRate "Freqüencia">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latencia">
