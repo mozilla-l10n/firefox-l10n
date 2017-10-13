@@ -12,5 +12,9 @@
 <!ENTITY makeUrlRelative.label "Relativ URL ift. sidens adresse">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Skift mellem relative og absolutte URL'er. Du skal gemme siden før du ændrer dette.">
+
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Angiv en websideadresse, en lokal fil eller vælg et linkmål eller en overskrift fra pop op-listen:">
 <!ENTITY LinkURLEditField.accessKey "n">
+<!ENTITY LinkURLEditField2.label "Angiv en websideadresse, en lokal fil eller vælg et linkmål eller en overskrift fra feltets genvejsmenu:">
+<!ENTITY LinkURLEditField2.accessKey "n">
