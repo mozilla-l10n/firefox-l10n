@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de pantalla">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Información d'execución">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias d'o dispositivo">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "Ubrir aplicación">
 <!ENTITY runtimeButton_label "Trigar versión d'execución">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "Pestanyas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladors">
 <!ENTITY runtimePanel_other "Atros">
-<!ENTITY runtimePanel_installsimulator "Instalar Simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar l'aduyant ADB">
 <!ENTITY runtimePanel_nousbdevice "No veye o suyo dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar os dispositivos">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "valido">
 <!ENTITY details_warning_header "alvertencias">
 <!ENTITY details_error_header "errors">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Ubicación">
 <!ENTITY details_manifestURL "ID d'Aplicación">
 <!ENTITY details_removeProject_button "Borrar un prochecto">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Nueva aplicación">
 <!ENTITY newAppHeader "Seleccionar una plantilla">
 <!ENTITY newAppLoadingTemplate "Se son cargando as plantillas…">
 <!ENTITY newAppProjectName "Nombre d'o prochecto:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Zarrar">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Components extra">
 <!ENTITY addons_aboutaddons "Ubrir o chestor d'add-ons">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Preferencias">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Cheneral">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar o prochecto previo quan empecipie WebIDE">
 <!ENTITY prefs_options_templatesurl "Plantillas URL">
 <!ENTITY prefs_options_templatesurl_tooltip "Indiz de plantilla disposables">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información de tiempo d'execución">
 <!ENTITY runtimedetails_adbIsRoot "ADB ye radiz: ">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo radiz">
@@ -127,36 +125,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Privilechios DevTools sin restricción: ">
 <!ENTITY runtimedetails_requestPrivileges "demandar privilechios mas altos">
 <!ENTITY runtimedetails_privilegesWarning "(Se reiniciará o dispositivo. Cal un acceso root.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booleano">
 <!ENTITY device_typenumber "Entero">
 <!ENTITY device_typestring "Cadena">
 <!ENTITY device_typeobject "Obchecto">
 <!ENTITY device_typenone "Trigar un fichero">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Preferencias d'o dispositivo">
 <!ENTITY devicepreference_search "Preferencias de busca">
 <!ENTITY devicepreference_newname "Nuevo nombre d'a preferencia">
 <!ENTITY devicepreference_newtext "Nombre d'a preferencia">
 <!ENTITY devicepreference_addnew "Anyader una nueva preferencia">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Achustes de dispositivo">
 <!ENTITY devicesetting_search "Achustes de busca">
 <!ENTITY devicesetting_newname "Nuevo nombre d'achuste">
 <!ENTITY devicesetting_newtext "Valura de l'achuste">
 <!ENTITY devicesetting_addnew "Valura de l'achuste">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Aduya">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Identificación d'o client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +169,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "I l'atro dispositivo demanda un teste en cuenta d'escaniar un codigo QR, por favor, copie a valura d'abaixo en l'atro dispositivo:">
 <!ENTITY wifi_auth_qr_size_note "Si lo codigo QR apareix masiau chicot pa que la connexión se pueda establir bien, mire de fer zoom u fer mas gran la finestra.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Pre-empaquetar os rechistros de comando">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Opcions d'o simulador">
-<!ENTITY simulator_remove "Borrar o simulador">
-<!ENTITY simulator_reset "Restaurar valuras por defecto">
-<!ENTITY simulator_name "Nombre">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versión">
-<!ENTITY simulator_profile "Perfil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Pantalla">
-<!ENTITY simulator_pixelRatio "Ratio de pixels">
-<!ENTITY simulator_tv_data "Simulación de TV">
-<!ENTITY simulator_tv_data_open "Datos de configuración">
-<!ENTITY simulator_tv_data_open_button "Ubrir directorio de configuración…">
