@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Лента с инструменти на календара">
-<!ENTITY lightning.toolbar.calendar.name.accesskey "C">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "к">
 <!ENTITY lightning.toolbar.task.name "Лента инструменти за задачи">
-<!ENTITY lightning.toolbar.task.name.accesskey "T">
+<!ENTITY lightning.toolbar.task.name.accesskey "з">
 
 <!ENTITY lightning.toolbar.sync.label "Синхронизиране">
 <!ENTITY lightning.toolbar.sync.tooltip "Презареждане на календарите и синхронизиране на промените">
