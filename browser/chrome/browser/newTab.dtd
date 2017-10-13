@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are used in the about:newtab page -->
-
 <!ENTITY newtab.pageTitle "Nueva pestanya">
-
+<!ENTITY newtab.customize.classic "Amostrar los tuyos puestos preferius">
 <!ENTITY newtab.customize.cog.enhanced "Inlcuyer os puestos socherius">
 <!ENTITY newtab.customize.cog.title2 "CONTROLS DE NUEVA PESTANYA">
 <!ENTITY newtab.customize.cog.learn "Saber mas sobre Nuevas pestanya">

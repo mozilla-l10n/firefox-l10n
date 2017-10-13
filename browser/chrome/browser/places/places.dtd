@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Calendata d'adición">
 <!ENTITY col.lastmodified.label  "Zaguera modificación">
 
+<!ENTITY historySearch.placeholder  "Buscar en l'historial">
 <!ENTITY bookmarksSearch.placeholder  "Trobar marcapachinas">
 
 <!ENTITY cmd.find.key  "f">
