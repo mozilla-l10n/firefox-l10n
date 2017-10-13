@@ -3,15 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Aplicacions">
-
+<!ENTITY  applications.description "Trigar cómo &brandShortName; tracta los fichers que has descargaus d'o web u las aplicacions que fas servir quan navegas.">
 
 <!ENTITY  typeColumn.label        "Mena de conteniu">
 <!ENTITY  typeColumn.accesskey    "M">
 
 <!ENTITY  actionColumn2.label     "Acción">
 <!ENTITY  actionColumn2.accesskey "A">
-
-<!ENTITY  focusSearch1.key        "f">
-<!ENTITY  focusSearch2.key        "k">
 
 <!ENTITY  filter2.emptytext        "Mirar los tipos de fichers u aplicacions">

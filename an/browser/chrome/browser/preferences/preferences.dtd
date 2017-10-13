@@ -16,6 +16,7 @@
 <!-- LOCALIZATION NOTE: (searchField.width): This is used to determine the width
      of the search field in about:preferences, in order to make entire placeholder
      string visible -->
+<!ENTITY  searchField.width             "15.4em">
 
 <!ENTITY  paneSearchResults.title       "Resultaus de buscar">
 <!ENTITY  paneGeneral.title             "Cheneral">
@@ -25,6 +26,8 @@
 <!ENTITY  paneContainers.title          "Pestanyas contenederas">
 <!ENTITY  paneUpdates.title             "Actualizacions">
 
+<!ENTITY  languageAndAppearance.label   "Idioma y aparición">
+<!ENTITY  filesAndApplications.label    "Fichers y aplicacions">
 <!ENTITY  browserPrivacy.label          "Privacidat d'o navegador">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
