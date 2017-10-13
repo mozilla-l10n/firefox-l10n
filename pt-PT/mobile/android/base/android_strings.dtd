@@ -506,7 +506,7 @@
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Sem nome de utilizador]">
-<!ENTITY doorhanger_login_edit_title "Editar credenciais">
+<!ENTITY doorhanger_login_edit_title "Editar credencial">
 <!ENTITY doorhanger_login_edit_username_hint "Nome de utilizador">
 <!ENTITY doorhanger_login_edit_password_hint "Palavra-passe">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar palavra-passe">
