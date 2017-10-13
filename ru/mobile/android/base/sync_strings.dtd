@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_passwords2 'Логины'>
 <!ENTITY fxaccount_status_tabs 'Открытые вкладки'>
 <!ENTITY fxaccount_status_additional_settings 'Дополнительные параметры'>
-<!ENTITY fxaccount_pref_sync_use_metered2 'Синхронизация только через Wi-Fi'>
+<!ENTITY fxaccount_pref_sync_use_metered2 'Только через Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
 <!ENTITY fxaccount_pref_sync_use_metered_summary2 'Не разрешать &brandShortName; производить синхронизацию через сотовую сеть или лимитное подключение'>
