@@ -16,7 +16,7 @@
 <!ENTITY password.accesskey              "П">
 <!ENTITY password.placeholder            "Парола">
 <!ENTITY password.text                   "По избор, ще се използва само за проверка на името">
-<!ENTITY rememberPassword.label          "Запомняне на парола">
+<!ENTITY rememberPassword.label          "Запомняне на паролата">
 <!ENTITY rememberPassword.accesskey      "а">
 
 <!ENTITY imapLong.label                  "IMAP (отдалечени папки)">
