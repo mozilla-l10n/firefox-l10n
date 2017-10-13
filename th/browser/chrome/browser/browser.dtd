@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.accesskey "ถ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
-<!ENTITY personalbarCmd.accesskey "ค">
+<!ENTITY personalbarCmd.accesskey "บ">
 <!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
@@ -669,7 +669,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "ซูมเข้า">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "ข">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "ม">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
@@ -680,12 +680,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "กลับค่าเดิม">
-<!ENTITY fullZoomResetCmd.accesskey     "ด">
+<!ENTITY fullZoomResetCmd.accesskey     "ก">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ซูมข้อความเท่านั้น">
-<!ENTITY fullZoomToggleCmd.accesskey    "ต">
+<!ENTITY fullZoomToggleCmd.accesskey    "ข">
 <!ENTITY fullZoom.label                 "ซูม">
 <!ENTITY fullZoom.accesskey             "ม">
 
@@ -713,7 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.label "ไม่มีลักษณะ">
 <!ENTITY pageStyleNoStyle.accesskey "ม">
 <!ENTITY pageStylePersistentOnly.label "ลักษณะหน้าพื้นฐาน">
-<!ENTITY pageStylePersistentOnly.accesskey "พ">
+<!ENTITY pageStylePersistentOnly.accesskey "ล">
 
 <!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
