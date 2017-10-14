@@ -23,6 +23,10 @@
 <!ENTITY tabCrashed.requestHelpMessage "ප්‍රශ්න නිර්ණය කිරීමට සහ වඩා හොඳ &brandShortName; ඇති කිරීමට බිඳ වැටුම් වාර්ථා අපට උපකාරී වේ.">
 <!ENTITY tabCrashed.requestReport "මේ ටැබය වාර්ථා කරන්න">
 <!ENTITY tabCrashed.sendReport3 "මෙවැනි ගැටලු විසදීමට ස්වයංක්‍රීය බිදවැටුම් වාර්තා එවන්න.">
+<!ENTITY tabCrashed.commentPlaceholder2 "විකල්ප අදහස් (අදහස් ප්‍රසිද්ධියේ දර්ශනය වේ)">
+<!ENTITY tabCrashed.includeURL3 "&brandShortName; බිද වැටෙන අවස්ථාවේ ඔබ භාවිත කරමින් සිටි වෙබ් අඩවියේ URL එකද ලබා දෙන්න.">
 <!ENTITY tabCrashed.emailPlaceholder "ඔබේ ඊමේල් ලිපිනය මෙහි එක් කරන්න">
 <!ENTITY tabCrashed.emailMe "වැඩිදුර තොරතුරු පවතින විට මා හට ඊමේල් කරන්න">
 <!ENTITY tabCrashed.reportSent "බිඳවැටීම් වාර්ථාව දැනටමත් පළකර ඇත: &brandShortName; වඩා වැඩිදියුණු කිරීමට සහය වූවාට තුති!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "පසුබිම් ටැබ් වාර්ථා කරන්න">
+<!ENTITY tabCrashed.autoSubmit3 "&brandShortName; බිද වැටෙන විට ස්වයංක්‍රීයව බිදවැටුම් වාර්තා ලබා දීම සදහා ඔබේ සැකසුම් යාවත් කරන්න.">
