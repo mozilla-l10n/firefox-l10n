@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "마지막 브라우징 세션을 복원하는데 문제가 발생하였습니다. 다시 시도하기 위해서 세션 복원을 선택해 주세요.">
 <!ENTITY restorepage.tryThis2       "아직도 세션을 복구할 수 없나요? 어떤 탭이 문제를 일으킬 떄가 있습니다. 이전 탭을 보고 다시 되돌릴 필요가 없는 탭의 체크 표시를 없애고 다시 복원해 보세요.">
 
+<!ENTITY restorepage.hideTabs       "이전 탭 숨기기">
+<!ENTITY restorepage.showTabs       "이전 탭 보기">
+
 <!ENTITY restorepage.tryagainButton2 "세션 복원">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "새 세션 시작">
