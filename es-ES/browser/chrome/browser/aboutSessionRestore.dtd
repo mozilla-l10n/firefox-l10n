@@ -6,6 +6,8 @@
 <!ENTITY restorepage.errorTitle2 "Lo sentimos. Tenemos problema para recuperar sus páginas.">
 <!ENTITY restorepage.problemDesc2 "Tenemos problemas para restaurar su última sesión de navegación. Seleccione Restaurar sesión para volver a intentarlo.">
 <!ENTITY restorepage.tryThis2 "¿Todavía no puede restaurar su sesión? A veces una pestaña causa el problema. Vea las pestañas anteriores, elimine la marca de las pestañas que no necesita recuperar, y luego restaure.">
+<!ENTITY restorepage.hideTabs "Ocultar pestañas anteriores">
+<!ENTITY restorepage.showTabs "Ver pestañas anteriores">
 <!ENTITY restorepage.tryagainButton2 "Restaurar sesión">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2 "Iniciar sesión nueva">
