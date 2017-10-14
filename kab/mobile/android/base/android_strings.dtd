@@ -248,19 +248,19 @@
 <!ENTITY pref_header_accessibility "Tuffart">
 <!ENTITY pref_header_notifications "Ilɣuten">
 <!ENTITY pref_header_advanced "Talqayt">
-<!ENTITY pref_header_help "Tallat">
+<!ENTITY pref_header_help "Tallalt">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Inagan n tuqqna">
 <!ENTITY pref_cookies_accept_all "Irmed">
-<!ENTITY pref_cookies_not_accept_foreign "Yttwasireg, ala inagan n tuqqna n wis kraḍ">
+<!ENTITY pref_cookies_not_accept_foreign "Yettwasireg, ḥala inagan n tuqqna n wis kraḍ">
 <!ENTITY pref_cookies_disabled "Arurmid">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Amsekles n isefka">
-<!ENTITY pref_category_media "Allal n teywalt">
+<!ENTITY pref_category_media "Allal n taywalt">
 <!ENTITY pref_category_developer_tools "Ifecka n tneflit">
 
 <!ENTITY pref_tap_to_load_images_title2 "Sken tugniwin">
@@ -289,7 +289,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ldi deg &formatS;">
-<!ENTITY custom_tabs_menu_footer "Isumer-it-d &brandShortName;">
+<!ENTITY custom_tabs_menu_footer "Isumer-it-id &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Tansa URL tettwanγel">
 
