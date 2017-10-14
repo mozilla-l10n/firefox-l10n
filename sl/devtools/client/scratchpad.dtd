@@ -75,8 +75,8 @@
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "Urejanje">
-<!ENTITY editMenu.accesskey           "E">
+<!ENTITY editMenu.label               "Uredi">
+<!ENTITY editMenu.accesskey           "U">
 
 <!ENTITY run.label                    "Poženi">
 <!ENTITY run.accesskey                "P">
