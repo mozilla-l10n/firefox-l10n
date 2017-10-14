@@ -221,8 +221,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Обележувачи">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Обележувачи">
+<!ENTITY bookmarksMenuButton2.label         "Мени за обележувачи">
 <!ENTITY bookmarksMenuButton.other.label    "Други обележувачи">
-<!ENTITY viewBookmarksToolbar.label         "Алатник со обележувачи">
+<!ENTITY bookmarksMenuButton.mobile.label   "Мобилни обележувачи">
+<!ENTITY viewBookmarksSidebar2.label        "Прикажи странична лента со обележувачи">
+<!ENTITY hideBookmarksSidebar.label         "Скриј странична лента со обележувачи">
+<!ENTITY viewBookmarksToolbar.label         "Прикажи алатник со обележувачи">
+<!ENTITY hideBookmarksToolbar.label         "Скриј алатник со обележувачи">
+<!ENTITY searchBookmarks.label              "Барај во обележувачите">
+<!ENTITY bookmarkingTools.label             "Алатки за обележување">
+<!ENTITY addBookmarksMenu.label             "Додај мени за обележувачи во алатник">
+<!ENTITY removeBookmarksMenu.label          "Отстрани мени за обележувачи од алатник">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -258,11 +268,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Датотека">
 <!ENTITY fileMenu.accesskey       "Д">
 <!ENTITY newUserContext.label             "Ново контејнерско јазиче">
+<!ENTITY newUserContext.accesskey         "К">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Нов приватен прозорец">
 <!ENTITY newPrivateWindow.accesskey "П">
+<!ENTITY newNonRemoteWindow.label   "Нов прозорец без е10s">
 
 <!ENTITY editMenu.label         "Уредување">
 <!ENTITY editMenu.accesskey       "е">
@@ -304,12 +316,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "н">
 <!ENTITY viewCustomizeToolbar.label       "Прилагоди…">
 <!ENTITY viewCustomizeToolbar.accesskey     "р">
+<!ENTITY overflowCustomizeToolbar.label       "Прилагоди алатник…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "П">
 
 <!ENTITY historyMenu.label "Историја">
 <!ENTITY historyMenu.accesskey "с">
-<!ENTITY historyUndoMenu.label "Скоро затворени јазичиња">
+<!ENTITY historyUndoMenu.label "Скоро-затворени јазичиња">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Скоро затворени прозорци">
+<!ENTITY historyUndoWindowMenu.label "Скоро-затворени прозорци">
 <!ENTITY historyRestoreLastSession.label "Врати претходна сесија">
 
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
@@ -322,7 +336,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
 <!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
 <!ENTITY appMenuHistory.restoreSession.label "Врати претходна сесија">
+<!ENTITY appMenuHistory.viewSidebar.label "Прикажи странична лента со историја">
+<!ENTITY appMenuHistory.recentHistory.label "Скорешна историја на прелистување">
 <!ENTITY appMenuHelp.label "Помош">
+<!ENTITY appMenuHelp.tooltip "Отвори мени за помош">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -330,8 +347,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворени јазичиња">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Прикажи повеќе">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Прикажи уште јазичиња од овој уред">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Прикажи ги сите">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Прикажи ги сите јазичиња од овој уред">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.">
@@ -339,32 +360,50 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставки за Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од вашите други уреди.">
 <!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Управување со уреди…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи синхронизирани јазичиња во странична лента">
 
+<!ENTITY appMenuRecentHighlights.label "Скорешни интереси">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
+<!ENTITY customizeMenu.addToToolbar.accesskey "А">
 <!ENTITY customizeMenu.addToPanel.label "Додај во мени">
+<!ENTITY customizeMenu.addToPanel.accesskey "М">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Додај во дополнително мени">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "Д">
 <!ENTITY customizeMenu.moveToToolbar.label "Премести во алатник">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "а">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Премести во мени">
+<!ENTITY customizeMenu.moveToPanel.accesskey "м">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Прикачи во дополнително мени">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "П">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачи од дополнително мени">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "О">
 <!ENTITY customizeMenu.removeFromToolbar.label "Отстрани од алатник">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "О">
 <!ENTITY customizeMenu.removeFromMenu.label "Отстрани од мени">
-<!ENTITY customizeMenu.addMoreItems.label "Додадете повеќе елементи …">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "О">
+<!ENTITY customizeMenu.addMoreItems.label "Додај повеќе елементи…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Повеќе">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Барај или внеси адреса">
