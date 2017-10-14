@@ -19,7 +19,7 @@
 <!ENTITY stats.activityEnded "Finite">
 <!ENTITY stats.activitySeeking "(recerca)">
 <!ENTITY stats.volume "Volumine">
-<!ENTITY stats.framesParsed "Photogrammas analysate">
+<!ENTITY stats.framesParsed "Photogrammas interpretate">
 <!ENTITY stats.framesDecoded "Photogrammas decodificate">
 <!ENTITY stats.framesPresented "Photogrammas presentate">
 <!ENTITY stats.framesPainted "Photogrammas designate">

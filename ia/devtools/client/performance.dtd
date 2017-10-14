@@ -103,7 +103,7 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 <!ENTITY performanceUI.flattenTreeRecursion             "Applattar le arbore de recursion">
-<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Applanar le recursion durante que le functiones es inspectate.">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Applanar le recursion durante que le inspection del functiones.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
