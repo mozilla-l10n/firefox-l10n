@@ -13,5 +13,4 @@ localization, please read the info linked below and get in touch with the team.
 ## Important links
 
 - Localization team information https://pontoon.mozilla.org/cs/info/
-- About localization on Mozilla.cz https://www.mozilla.cz/zapojte-se/lokalizace/
-- Localization team contacts https://www.mozilla.cz/o-nas/#kontakt
+- Localization team contacts https://wiki.mozilla.org/L10n:Teams:cs
