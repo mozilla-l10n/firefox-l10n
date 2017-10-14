@@ -390,13 +390,13 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Ticraḍ n isebtar n  yakan">
 <!ENTITY pref_dialog_activitystream_visited "Yettwarzan">
 
-<!ENTITY pref_search_last_toast "Ur tezmireḍ ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday-inek n unadi aneggaru.">
+<!ENTITY pref_search_last_toast "Ur tezmireḍ ara ad tekkseḍ neɣ ad tcekleḍ armad n umsedday-inek n unadi aneggaru.">
 
 <!ENTITY pref_panels_show "Sken">
 <!ENTITY pref_panels_hide "Ffer">
 <!ENTITY pref_panels_reorder "Snifel amizzwer">
 <!ENTITY pref_panels_move_up "Ali d asawen">
-<!ENTITY pref_panels_move_down "Ader d akesser">
+<!ENTITY pref_panels_move_down "Ader d akessar">
 
 <!ENTITY datareporting_notification_title "Tiddadanin &amp; isefka n &brandShortName;">
 <!ENTITY datareporting_notification_action "Fren ayen ara tebḍuḍ">
@@ -500,7 +500,7 @@
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
 <!ENTITY pinned_page_to_top_sites "Asebter inṭṭeḍ deg ismal ifazen">
-<!ENTITY unpinned_page_from_top_sites "Asebter itwakkes seg ismal ifazen">
+<!ENTITY unpinned_page_from_top_sites "Asebter ittwakkes seg ismal ifazen">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -512,7 +512,7 @@
 <!ENTITY doorhanger_login_edit_toggle "Sken awal uffir">
 <!ENTITY doorhanger_login_select_message "Nɣel awal uffir seg &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Awal uffir yettwanɣel ɣef affus">
-<!ENTITY doorhanger_login_select_action_text "Fren anekcam nniḍen">
+<!ENTITY doorhanger_login_select_action_text "Fren anekcam-nniḍen">
 <!ENTITY doorhanger_login_select_title "Nɣel awal uffir seg">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
@@ -548,7 +548,7 @@
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Tiggawin nniḍen">
+<!ENTITY page_action_dropmarker_description "Tiggawin-nniḍen">
 
 <!ENTITY masterpassword_create_title "Rnu awal uffir agejdan">
 <!ENTITY masterpassword_remove_title "Kkes awal uffir agejdan">
@@ -580,7 +580,7 @@
 <!ENTITY home_history_back_to2 "Uɣal ɣer umazray imeṛṛa">
 <!ENTITY home_clear_history_button "Sfeḍ amazray n tunigin">
 <!ENTITY home_clear_history_confirm "Tebɣiḍ ad tsefḍeḍ amazray-inek?">
-<!ENTITY home_bookmarks_empty "Ticraḍ i teskelseḍ ad d-banent d-agi">
+<!ENTITY home_bookmarks_empty "Ticraḍ i teskelseḍ ad d-banent dagi.">
 <!ENTITY home_closed_tabs_title2 "Ttwamedlen melmi kan">
 <!ENTITY home_last_tabs_empty "Iccaren-inek n melmi kan ad d-banen d-agi.">
 <!ENTITY home_restore_all "Err-d akk">
@@ -617,9 +617,9 @@
 <!ENTITY home_pinned_site "Asmel inta">
 <!ENTITY home_unpinned_site "Kkes asmel intan">
 
-<!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer inu?">
-<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren-inek seg ibenkan nniḍen ɣer ugalis ɣef usebter agejdan-inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
-<!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis inu amaynut.">
+<!ENTITY remote_tabs_panel_moved_title "Anda yedda yiccer-inu?">
+<!ENTITY remote_tabs_panel_moved_desc "Newwi iccaren-inek seg ibenkan-nniḍen ɣer ugalis ɣef usebter agejdan-inek i izemren ad tettwakcem s wudem fessusen yal tikelt ara d-teldiḍ iccer amaynut.">
+<!ENTITY remote_tabs_panel_moved_link "Awi-yi ɣer ugalis-inu amaynut.">
 
 <!ENTITY pin_site_dialog_hint "Sekcem awal n tsarut n unadi">
 
@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ifuyla ittwazedmen">
 <!ENTITY updater_downloading_select2 "Nnal akken ad tesneseḍ lqem ticki yettusider-d">
-<!ENTITY updater_downloading_retry2 "Nnal akken ad tɛerḍeḍ tikelt nniḍen.">
+<!ENTITY updater_downloading_retry2 "Nnal akken ad tɛerḍeḍ tikelt-nniḍen.">
 
 <!ENTITY updater_apply_title3 "Lqem n &brandShortName; yellan">
 <!ENTITY updater_apply_select3 "Nal akken ad tesbedded">
@@ -734,7 +734,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_done "Immed">
 
 <!-- Voice search in the awesome bar -->
-<!ENTITY voicesearch_prompt "Mmeslay tura">
+<!ENTITY voicesearch_prompt "Meslay tura">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -766,13 +766,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Asnirem n tengalt QR yettwasken-d ɣef yibenk-inek nniḍen.">
+<!ENTITY devtools_auth_scan_header "Asnirem n tengalt QR yettwasken-d ɣef yibenk-inek-nniḍen.">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Izegrar imernan">
-<!ENTITY restrictable_feature_addons_installation_description "Rnu timeẓliyin neq timahilin ɣer Firefox: Rnu izegrar i yezemren ad kksen armad n kra tsuraf.">
+<!ENTITY restrictable_feature_addons_installation_description "Rnu timeẓliyin neɣ timahilin ɣer Firefox: Rnu izegrar i yezemren ad kksen armad n kra tsuraf.">
 <!ENTITY restrictable_feature_private_browsing "Tunigin tusligt">
 <!ENTITY restrictable_feature_private_browsing_description "Eǧǧ tawacult-ik ad tesnirem s war asekles n telɣut ɣef ismal akked isebtar i walan.">
 <!ENTITY restrictable_feature_clear_history "Sfeḍ amazray">
@@ -780,7 +780,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "Iɣewwaṛen leqqayen">
 <!ENTITY restrictable_feature_advanced_settings_description "Ay-a yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen deg twacult-ik.">
 <!ENTITY restrictable_feature_camera_microphone "Takamirat &amp; usawaḍ">
-<!ENTITY restrictable_feature_camera_microphone_description "Ad isireg i twacult ad mmeslayen lwaḥid ɣef yesmal web.">
+<!ENTITY restrictable_feature_camera_microphone_description "Ad isireg i twacult ad meslayen lwaḥid ɣef yesmal web.">
 <!ENTITY restrictable_feature_block_list "Tabdart n usewḥel">
 <!ENTITY restrictable_feature_block_list_description "Sewḥel ismal igebren agbur ḥessisen.">
 
