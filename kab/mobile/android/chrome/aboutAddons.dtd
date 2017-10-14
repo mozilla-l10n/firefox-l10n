@@ -6,7 +6,7 @@
 <!ENTITY aboutAddons.header2                    "Izegrar-inek ">
 
 <!ENTITY addonAction.enable                     "Rmed">
-<!ENTITY addonAction.disable                    "Disable">
+<!ENTITY addonAction.disable                    "Icekkel">
 <!ENTITY addonAction.uninstall                  "Kkes">
 <!ENTITY addonAction.undo                       "Sefsex">
 <!ENTITY addonAction.update                     "Leqqem">
