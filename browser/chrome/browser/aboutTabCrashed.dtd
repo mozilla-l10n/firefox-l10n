@@ -4,7 +4,7 @@
 
 <!ENTITY tabCrashed.title "Fanekrasjrapportering">
 
-<!ENTITY tabCrashed.closeTab2  "Lukk fane">
+<!ENTITY tabCrashed.closeTab2  "Lat att fane">
 <!ENTITY tabCrashed.restoreTab "Bygg oppatt denne fana">
 <!ENTITY tabCrashed.restoreAll "Bygg oppatt alle krasja faner">
 
