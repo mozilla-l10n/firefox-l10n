@@ -10,3 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "සබධතාවයක් නැත">
 <!ENTITY aboutAccounts.noConnection.description "පිවිසීම සඳහා ඔබ අන්තර්ජාලයට සම්බන්ධ විය යුතුම වේ.">
 <!ENTITY aboutAccounts.noConnection.retry "යළි උත්සාහ කරන්න">
+<!ENTITY aboutAccounts.badConfig.title "වැරදි හැඩ ගැස්වීමක්">
+<!ENTITY aboutAccounts.badConfig.description "ඔබේ Firefox ගිණුම් සේවාදායකයේ වින්‍යාසයන් නිශ්චය කර ගැනීමට නොහැකි විය. කරුණාකර යළි උත්සාහ කරන්න.">
