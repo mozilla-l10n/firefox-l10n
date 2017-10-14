@@ -8,6 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "සමාවන්න.  ඔබේ පිටි යළි ලබා ගැණිමේ ගැටලුවක් අපට ඇත.">
 <!ENTITY restorepage.problemDesc2   "අපිට ඔබේ පෙර සැසිය යළි පිහිටුවිම සම්බන්දව ගැටලුවක් ඇත. සැසිය යළි පිහිටුවන්න තෝරා යළි උත්සාහ කරන්න. ">
+<!ENTITY restorepage.tryThis2       "තවමත් ඔබේ සැසිය යළි පිහිටු විමට නොහැකි ද? සමහරවිට එක් ටැබයක් මෙම ගැටලුව ඇති කරනවා විය හැක. ඔබට යළි පිහිටු විමට අනවශ්‍ය ටැබ් තෝරා ඉවත් කර, යළි පිහිටු වන්න.">
 
 <!ENTITY restorepage.hideTabs       "පෙර ටැබ් සගවන්න">
 <!ENTITY restorepage.showTabs       "පෙර ටැබ් බලන්න">
