@@ -843,6 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Заштита од следење">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делови од оваа страница преку коишто би можело да бидете следени.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ова место содржи елементи преку коишто би можело да се следи вашето прелистување. Ја исклучивте заштитата од следење.">
+<!ENTITY trackingProtection.notDetected3 "Не откривме елементи на оваа страница преку коишто би можело да бидете следени.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -851,9 +852,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Исклучи заштита во текот на оваа сесија">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "И">
+<!ENTITY trackingProtection.block2.label "Активирај заштита">
+<!ENTITY trackingProtection.block2.accesskey "А">
 
+<!ENTITY pluginNotification.showAll.label "Прикажи ги сите">
+<!ENTITY pluginNotification.showAll.accesskey "П">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Дозволи сега">
+<!ENTITY pluginActivateAlways.label "Дозволи и запомни">
+<!ENTITY pluginBlockNow.label "Блокирај приклучок">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -861,10 +871,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
+<!ENTITY uiTour.infoPanel.close "Затвори">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Заборави ги последните:">
+<!ENTITY panicButton.view.5min                    "Пет минути">
+<!ENTITY panicButton.view.2hr                     "Два часа">
+<!ENTITY panicButton.view.day                     "24 часа">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
@@ -872,15 +887,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Ако продолжите:">
 
+<!ENTITY panicButton.view.undoWarning             "Ова дејство не може да се одврати.">
+<!ENTITY panicButton.view.forgetButton            "Заборави!">
 
+<!ENTITY panicButton.thankyou.msg1                "Вашата скорешна историја на прелистување е избришана.">
+<!ENTITY panicButton.thankyou.msg2                "Безбедно прелистување!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ви благодариме!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Дознајте повеќе за DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "Д">
 
+<!ENTITY updateAvailable.message "Надградете го вашиот &brandShorterName; за најдобри перформанси и најголема приватност.">
+<!ENTITY updateAvailable.whatsnew.label "Видете што е ново.">
+<!ENTITY updateAvailable.acceptButton.label "Преземи надградба">
+<!ENTITY updateAvailable.acceptButton.accesskey "П">
+<!ENTITY updateAvailable.cancelButton.label "Не сега">
+<!ENTITY updateAvailable.cancelButton.accesskey "Н">
+<!ENTITY updateAvailable.panelUI.label "Преземи надградба за &brandShorterName;">
 
+<!ENTITY updateManual.message "Преземете свежа копија на &brandShorterName; и ние ќе ви помогнеме да ја инсталирате.">
+<!ENTITY updateManual.whatsnew.label "Видете што е ново.">
+<!ENTITY updateManual.header.message "&brandShorterName; не може да се надгради на најновата верзија.">
+<!ENTITY updateManual.acceptButton.label "Преземи &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "П">
+<!ENTITY updateManual.cancelButton.label "Не сега">
+<!ENTITY updateManual.cancelButton.accesskey "Н">
+<!ENTITY updateManual.panelUI.label "Преземете свежа копија на &brandShorterName;">
 
+<!ENTITY updateRestart.header.message2 "Рестартирај за надградба на &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Рестартирај и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
 <!ENTITY updateRestart.cancelButton.label "Не сега">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateRestart.panelUI.label2 "Рестартирај за надградба на &brandShorterName;">
 
 <!ENTITY pageAction.addToUrlbar.label "Додај во Адресна летна">
 <!ENTITY pageAction.removeFromUrlbar.label "Отстрани од Адресна лента">
@@ -888,6 +927,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Испрати јазиче на уред">
 <!ENTITY sendToDevice.syncNotReady.label "Уредите се синхронизираат…">
 
+<!ENTITY libraryButton.tooltip "Преглед на историјата на прелистување, снимените обележувачи и друго">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
