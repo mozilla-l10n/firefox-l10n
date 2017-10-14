@@ -592,7 +592,7 @@
 <!ENTITY syncReAuthItem.label "Reconectar a &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey "R">
 <!ENTITY syncToolbarButton.label "Sync">
-<!ENTITY customizeMode.menuAndToolbars.header3 "Arrastre sus elementos favoritos en la barra de herramientas o menú superpuesto.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Arrastre sus elementos favoritos a la barra de herramientas o al menú de desborde.">
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
@@ -608,7 +608,7 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
-<!ENTITY customizeMode.overflowList.title2 "Menú superpuesto">
+<!ENTITY customizeMode.overflowList.title2 "Menú de desborde">
 <!ENTITY customizeMode.overflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
 <!ENTITY customizeMode.uidensity "Densidad">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
