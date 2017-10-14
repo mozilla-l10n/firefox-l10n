@@ -880,8 +880,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM පිළිබඳ වැඩිදුර දැනගන්න...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "පසුවට">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 
+<!ENTITY updateManual.whatsnew.label "අලුත් දෑ බලන්න.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ලබා ගන්න">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "පසුවට">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; නැවුම් පිටපතක් ලබා ගන්න">
 
+<!ENTITY updateRestart.acceptButton.label "යළි ඇරබයම සහ යළි පිහිටු වීම">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "පසුවට">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
 
