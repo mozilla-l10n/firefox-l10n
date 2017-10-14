@@ -19,7 +19,7 @@
 <ul>
   <li>Vuelva a intentarlo más tarde.</li>
   <li>Compruebe su conexión de red.</li>
-  <li>Si está conectado a través de un cortafuego, compruebe que &brandShortName; tiene permiso para acceder a la web.</li>
+  <li>Si está conectado a través de un cortafuegos, compruebe que &brandShortName; tiene permiso para acceder a la web.</li>
 </ul>
 ">
 <!ENTITY fileNotFound.title "Archivo no encontrado">
