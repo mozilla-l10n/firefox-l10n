@@ -115,7 +115,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "Talɣut leqqayen: SSL_ERROR_NO_CYPHER_OVERLAP">
 
-<!ENTITY inadequateSecurityError.title "Tuqqna yinek mačči d taɣelsant">
+<!ENTITY inadequateSecurityError.title "Tuqqna-yinek mačči d taɣelsant">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr zzedmat. Aẓeddam yezmer ad yaker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Anedbal n usmel yesra di tazwara ad iseggem aqeddac send ad tizmireḍ ad terzuḍ ɣe usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr ẓẓedmat. Aẓeddam yezmer ad yaker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Anedbal n usmel yesra di tazwara ad iseggem aqeddac send ad tizmireḍ ad terzuḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
