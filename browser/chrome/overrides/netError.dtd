@@ -127,12 +127,12 @@
 <!ENTITY sharedLongDesc "
 <ul>
   <li>El sitio podría estar no disponible temporalmente o
-   demasiado ocupado. Vuelva a intentarlo en unos momentos.</li>
+    demasiado ocupado. Vuelva a intentarlo en unos momentos.</li>
   <li>Si no puede cargar ninguna página, compruebe la conexión
-   de red de su equipo.</li>
+    de red de su equipo.</li>
   <li>Si su equipo o red están protegidos por un cortafuegos
-   o proxy, asegúrese de que &brandShortName; tiene permiso para
-   acceder a la web.</li>
+    o proxy, asegúrese de que &brandShortName; tiene permiso para
+    acceder a la web.</li>
 </ul>
 ">
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
