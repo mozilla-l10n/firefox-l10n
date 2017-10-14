@@ -25,6 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTab.label                 "ටැබ පිටපතක්">
 <!ENTITY  duplicateTab.accesskey             "D">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -49,6 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ඈදුම උපාංගයට යවන්න">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendToDeviceFeedback.label         "යැවිනි!">
 <!ENTITY  moveToNewWindow.label              "නව කවුළුවකට යන්න">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "සියළු ටැබ් පිටුලකුණු කරන්න…">
@@ -103,6 +105,7 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "පිටුවේ තොරතුරු">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -159,6 +162,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.">
+<!ENTITY pointerlockWarning.generic.label "මෙම ලේඛනය හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.">
 
 <!ENTITY closeWindow.label "කවුළුව වසන්න">
 <!ENTITY closeWindow.accesskey "d">
@@ -200,8 +205,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "පණිවිඩ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ස්ථානය ඉල්ලීමේ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "මාර්ගගත නොවන ගබඩා පණිවුඩ පැනලය විවෘත කරන්න">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "සුරැකි මුරපද පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ප්ලගින භාවිතය පාලනය කරන්න">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ඔබට අඩවියෙන් දැන්වීම් ලැබිය හැකිද යන්න වෙනස් කරන්න">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "අනවරත ගබඩාවේ දත්ත ගබඩා කරන්න">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ගවේශකය දුරස්ථ පාලනයේ පවතී">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න">
@@ -218,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ඔබ මෙම අඩවිය සඳහා ස්ථානීය තොරතුරු අවහිර කර ඇත.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "ඔබ මෙම අඩවිය සඳහා දත්ත ගබඩාකිරීම අවහිර කර ඇත.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
@@ -229,10 +239,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "පිටු සලකුණු">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "පිටු සලකුණු">
+<!ENTITY bookmarksMenuButton2.label         "පිටු සලකුණු මෙනුව">
 <!ENTITY bookmarksMenuButton.other.label    "වෙනත් පිටුසලකුණු">
 <!ENTITY bookmarksMenuButton.mobile.label   "ජංගම පිටු සළකුණු">
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
+<!ENTITY hideBookmarksSidebar.label         "පිටු සලකුණු පැති තීරුව සඟවන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
+<!ENTITY hideBookmarksToolbar.label         "පිටු සලකුණු මෙවලම් තීරුව සඟවන්න">
+<!ENTITY searchBookmarks.label              "පිටුසලකුණු සොයන්න">
+<!ENTITY bookmarkingTools.label             "පිටු සලකුණු මෙවලම්">
+<!ENTITY addBookmarksMenu.label             "මෙවලම් තීරුවට පිටුසලකුණු මෙනුව එක් කරන්න">
+<!ENTITY removeBookmarksMenu.label          "මෙවලම් තීරුවෙන් පිටු සලකුණු මෙනුව ඉවත් කරන්න">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -252,6 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "බාගැනිම්">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "බාගැනිම්">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
