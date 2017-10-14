@@ -83,7 +83,7 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY sharedLongDesc3 "<ul> <li>Asmel yezmer ulac-it akka tura neɣ ur yeftufi ara. Ɛreḍ tikelt nniḍen di kra n wakud.</li> <li>ma yella ur tezmireḍ ara ad tessalid asebter, senqed isefka n ibenkan izirazen neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>Asmel yezmer ulac-it akka tura neɣ ur yeftufi ara. Ɛreḍ tikelt-nniḍen di kra n wakud.</li> <li>ma yella ur tezmireḍ ara ad tessalid asebter, senqed isefka n ibenkan izirazen neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Tessewḥel-it tsertit n tɣellist n ugbur">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-yeǧǧi ara.</p>">
