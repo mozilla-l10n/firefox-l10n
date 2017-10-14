@@ -597,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Зумирај само текст">
 <!ENTITY fullZoomToggleCmd.accesskey    "т">
-<!ENTITY fullZoom.label                 "Зум">
+<!ENTITY fullZoom.label                 "Приказ">
 <!ENTITY fullZoom.accesskey             "З">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ја затвора страничната лента">
