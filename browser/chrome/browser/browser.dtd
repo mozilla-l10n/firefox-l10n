@@ -141,6 +141,7 @@
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip "Apri il pannello dei messaggi">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip "Apri il pannello con l’indirizzo della richiesta">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip "Apri il pannello con il messaggio di installazione componente aggiuntivo">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip "Accedere ai dati dei canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip "Apri il pannello con il messaggio relativo all’archiviazione non in linea per le app">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Apri il pannello per il salvataggio delle password">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Gestisci l’utilizzo dei plugin">
