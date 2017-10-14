@@ -780,43 +780,74 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Отвори во нов приватен прозорец">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "П">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Обележи го ова јазиче…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "О">
 <!ENTITY syncedTabs.context.copy.label                       "Копирај">
+<!ENTITY syncedTabs.context.copy.accesskey                   "К">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Отвори ги сите во јазичиња">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "О">
+<!ENTITY syncedTabs.context.managedevices.label              "Управување со уреди…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "У">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Најавете се на &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Н">
 <!ENTITY syncSyncNowItem.label        "Синхронизирај сега">
 <!ENTITY syncSyncNowItem.accesskey    "С">
+<!ENTITY syncReAuthItem.label         "Преповрзете се со &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.empty "Сакате повеќе алатки?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
 <!ENTITY customizeMode.done "Готово">
+<!ENTITY customizeMode.toolbars2 "Алатници">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Мои теми">
 <!ENTITY customizeMode.lwthemes.recommended "Препорачани">
+<!ENTITY customizeMode.lwthemes.menuManage "Управувај">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
+<!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
+<!ENTITY customizeMode.uidensity "Густина">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Нормална">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Нормална густина">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "Н">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Зголемена">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Зголемена густина">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "З">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Намалена">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Намалена густина">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "Н">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Користи Намалена за Приказ на таблет">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Криј автоматски">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера што се споделува:">
 <!ENTITY getUserMedia.selectCamera.accesskey "П">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон што се споделува:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 
+<!ENTITY trackingProtection.title "Заштита од следење">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делови од оваа страница преку коишто би можело да бидете следени.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ова место содржи елементи преку коишто би можело да се следи вашето прелистување. Ја исклучивте заштитата од следење.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Исклучи заштита за ова место">
+<!ENTITY trackingProtection.unblock.accesskey "И">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -846,10 +877,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateRestart.acceptButton.label "Рестартирај и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
+<!ENTITY updateRestart.cancelButton.label "Не сега">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 
+<!ENTITY pageAction.addToUrlbar.label "Додај во Адресна летна">
+<!ENTITY pageAction.removeFromUrlbar.label "Отстрани од Адресна лента">
 
+<!ENTITY pageAction.sendTabToDevice.label "Испрати јазиче на уред">
+<!ENTITY sendToDevice.syncNotReady.label "Уредите се синхронизираат…">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
