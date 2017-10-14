@@ -16,3 +16,5 @@
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Εισάγετε μια τοποθεσία στον web, ένα τοπικό αρχείο ή επιλέξτε ένα όνομα άγκυρας ή κεφαλίδα από τη αναδυόμενη λίστα.">
 <!ENTITY LinkURLEditField.accessKey "θ">
+<!ENTITY LinkURLEditField2.label "Εισάγετε μια τοποθεσία ιστοσελίδας, ένα τοπικό αρχείο, ή επιλέξτε μια επώνυμη άγκυρα ή επικεφαλίδα από το μενού επιλογών του πεδίου:">
+<!ENTITY LinkURLEditField2.accessKey "ι">
