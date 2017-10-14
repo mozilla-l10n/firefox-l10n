@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "קבלת ערכות נושא נוספות">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
 <!ENTITY customizeMode.emptyOverflowList.description "יש לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
+<!ENTITY customizeMode.overflowList.title2 "התפריט הצף">
 <!ENTITY customizeMode.uidensity "צפיפות">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
