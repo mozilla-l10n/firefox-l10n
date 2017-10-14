@@ -6,9 +6,9 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ugur deg usali n usebter">
-<!ENTITY retry.label "Ɛreḍ tikelt nniḍen">
-<!-- Specific error messages -->
+<!ENTITY retry.label "Ɛreḍ tikelt-nniḍen">
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Igguma ad iqqen">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>Senqed tuccḍiwin deg tira n tansiwin am <strong>ww</strong>.example.com deg umḍiq n <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Nadi</button> </div> <li>Ma tekkseḍ armad n usali n yal asebter, senqed isefka n yibenk-inek neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Ulac afaylu">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Senqed isekkilen imeqqṛanen n yisem n ufaylu neɣ tuccḍiwin nniḍen.</li> <li>Wali ma yella afaylu yettwasenkez, yettwasnifel yisem-is neɣ yettwakkes.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Senqed isekkilen imeqqṛanen n yisem n ufaylu neɣ tuccḍiwin-nniḍen.</li> <li>Wali ma yella afaylu yettwasenkez, yettwasnifel yisem-is neɣ yettwakkes.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Anekcum ɣer ufaylu yegdel">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.</li></ul>">
@@ -39,12 +39,12 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Isemli yemmut">
-<!ENTITY notCached.longDesc "<p>Tansa yettwasutren ulac-itt deg tuffirt n &brandShortName;.</p><ul><li>Ɣef sebba n tɣellist, &brandShortName; ur yessutur ara tikelt nniḍen s wudem awurman isemliyen n tbaḍnit.</li><li>Ɛreḍ tikelt nniḍen asuter n isemli seg usmel web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Tansa yettwasutren ulac-itt deg tuffirt n &brandShortName;.</p><ul><li>Ɣef sebba n tɣellist, &brandShortName; ur yessutur ara tikelt-nniḍen s wudem awurman isemliyen n tbaḍnit.</li><li>Ɛreḍ tikelt-nniḍen asuter n isemli seg usmel web.</li></ul>">
 
 <!ENTITY netOffline.title "Askar war tuqqna">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>Ɛreḍ tikelt nniḍen. &brandShortName; ad yeɛreḍ ad d-yeldi tuqqna udiɣ ad d-yesali asebter tikelt nniḍen. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>Ɛreḍ tikelt-nniḍen. &brandShortName; ad yeɛreḍ ad d-yeldi tuqqna udiɣ ad d-yesali asebter tikelt-nniḍen. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
@@ -52,14 +52,14 @@
 <!ENTITY unsafeContentType.title "Tawsit n ufaylu mačči d taɣelsant">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Ma ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
 
-<!ENTITY netReset.title "Tuqqna tettuwennez tikelt nniḍen.">
+<!ENTITY netReset.title "Tuqqna tettuwennez tikelt-nniḍen.">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Tanzagt n uraǧu tezri">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
-<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas nniḍen akken ad tizmired ad teldiḍ tawsit n tansa-agi.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>Ahat issefk ad tesbeddeḍ asnas-nniḍen akken ad tizmired ad teldiḍ tawsit n tansa-agi.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Aqeddacapṛuksi yugi tuqqniwin.">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Senqed ma yella iɣewwaren n upṛuksi d imeɣta.</li> <li>Nermes anedbal-ik n uẓeṭṭa akken ad twaliḍ ma yella apṛuksi itteddu.</li> </ul>">
@@ -79,10 +79,10 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nemzir ara ad nessenqed tilawt n isefka d-ittwaremsen</li><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
 <!ENTITY nssBadCert.title "Tuqqna taɣelsant ur teddi ara">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ayagi yezmer ad yili d ugur n twila n uqeddac neɣ d albaɛḍ i yeɛarḍen ad yakwer tamagit n uqeddac-agi.</li> <li>Ma yella teqqneḍ yakan ɣer uqeddac-agi, tuccḍa tezmer ahat ad tili d taskudant, u tzemreḍ ad tɛerḍeḍ i tikelt nniḍen ticki.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ayagi yezmer ad yili d ugur n twila n uqeddac neɣ d albaɛḍ i yeɛarḍen ad yakwer tamagit n uqeddac-agi.</li> <li>Ma yella teqqneḍ yakan ɣer uqeddac-agi, tuccḍa tezmer ahat ad tili d taskudant, u tzemreḍ ad tɛerḍeḍ i tikelt-nniḍen ticki.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Asmel yezmer ulac-it akka tura neɣ ur yeftufi ara. Ɛreḍ tikelt nniḍen di kra n wakud.</li> <li>ma yella ur tezmireḍ ara ad tessalid asebter, senqed isefka n ibenkan izirazen neɣ tuqqna Wi-Fi. <button id='wifi'>Rmed Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Tessewḥel-it tsertit n tɣellist n ugbur">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Neɣ tzemreḍ ad ternuḍ tasureft…">
 <!ENTITY securityOverride.getMeOutOfHereButton "amek ara ffɣeɣ sya!">
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu Tasureft">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Issefk ad ternuḍ tasureft ma tseqdaceḍ tuqqna ɣer Internet anda tegreḍ taflest neɣ anda ur tuɣeḍ ara tannumi ttawḍen-k-id wulɣuten i uqeddac-agi.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button><button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
