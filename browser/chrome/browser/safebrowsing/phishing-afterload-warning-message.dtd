@@ -20,6 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Visitar questa website po eventualmain donnegiar tes computer">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ha bloccà questa pagina perquai ch'ella emprova eventualmain dad installar software donnegiusa che po engular u stizzar infurmaziuns persunalas sin tes computer.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
