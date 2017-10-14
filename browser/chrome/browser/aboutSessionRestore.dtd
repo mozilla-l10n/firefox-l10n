@@ -7,6 +7,9 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
+<!ENTITY restorepage.hideTabs       "הסתרת הלשוניות הקודמות">
+<!ENTITY restorepage.showTabs       "הצגת הלשוניות הקודמות">
+
 <!ENTITY restorepage.tryagainButton2 "שחזור הפעלה">
 <!ENTITY restorepage.restore.access2 "ש">
 <!ENTITY restorepage.closeButton2    "התחלת הפעלה חדשה">
