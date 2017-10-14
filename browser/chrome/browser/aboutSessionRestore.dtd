@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Imamo težave pri pri obnavljanju vaše zadnje seje brskanja. Izberite Obnovi sejo in poskusite znova.">
 <!ENTITY restorepage.tryThis2       "Še vedno ne morete obnoviti seje? To težavo včasih povzroča zavihek. Oglejte si prejšnje zavihke, odstranite zavihke, ki jih ne boste obnovili, in potem obnovite.">
 
+<!ENTITY restorepage.hideTabs       "Skrij prejšnje zavihke">
+<!ENTITY restorepage.showTabs       "Prikaži prejšnje zavihke">
+
 <!ENTITY restorepage.tryagainButton2 "Obnovi sejo">
 <!ENTITY restorepage.restore.access2 "O">
 <!ENTITY restorepage.closeButton2    "Začni novo sejo">

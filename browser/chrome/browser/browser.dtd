@@ -845,6 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izbirajte med tisoči dodatkov">
 <!ENTITY customizeMode.restoreDefaults "Ponastavi privzeto">
 <!ENTITY customizeMode.done "Končaj">
+<!ENTITY customizeMode.titlebar "Naslovna vrstica">
 <!ENTITY customizeMode.extraDragSpace "Prostor za vlečenje">
 <!ENTITY customizeMode.toolbars2 "Orodne vrstice">
 <!ENTITY customizeMode.lwthemes "Teme">
