@@ -7,7 +7,7 @@
 
 <!ENTITY next.tooltip "Søkjer etter den neste førekomsten av teksten">
 <!ENTITY previous.tooltip "Søkjer etter den førre førekomsten av teksten">
-<!ENTITY findCloseButton.tooltip "Lukk søkjelinja">
+<!ENTITY findCloseButton.tooltip "Lat att søkjelinja">
 <!ENTITY highlightAll.label "Marker alt">
 <!ENTITY highlightAll.accesskey "M">
 <!ENTITY highlightAll.tooltiptext "Marker alle funn av teksten">

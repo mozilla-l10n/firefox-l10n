@@ -8,7 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "Opne nytt vindauge i faner i staden">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "Åtvar meg ved lukking av fleire faner">
+<!ENTITY warnOnCloseMultipleTabs.label      "Åtvar meg ved attlating av fleire faner">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "Å">
 
 <!ENTITY warnOnOpenManyTabs.label       "Åtvar meg når opning av mange faner samstundes kan gjere &brandShortName; treg">

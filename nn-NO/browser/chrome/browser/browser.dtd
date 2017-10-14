@@ -30,9 +30,9 @@ a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Lukk faner til høgre">
+<!ENTITY  closeTabsToTheEnd.label            "Lat att faner til høgre">
 <!ENTITY  closeTabsToTheEnd.accesskey        "u">
-<!ENTITY  closeOtherTabs.label               "Lukk andre faner">
+<!ENTITY  closeOtherTabs.label               "Lat att andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -55,9 +55,9 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
-<!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
+<!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
 <!ENTITY  undoCloseTab.accesskey             "A">
-<!ENTITY  closeTab.label                     "Lukk fana">
+<!ENTITY  closeTab.label                     "Lat att fana">
 <!ENTITY  closeTab.accesskey                 "L">
 
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
@@ -94,7 +94,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "B">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Angre lukking av fane">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Angre attlating av fane">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "n">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
@@ -133,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Bygg oppatt">
-<!ENTITY fullScreenClose.tooltip "Lukk">
+<!ENTITY fullScreenClose.tooltip "Lat att">
 <!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "G">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
@@ -165,7 +165,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "har kontroll over peikaren din. Trykk Esc for å ta tilbake kontrollen.">
 <!ENTITY pointerlockWarning.generic.label "Dette dokumentet har kontroll over musepeikaren. Trykk på Esc for å ta tilbake kontrollen.">
 
-<!ENTITY closeWindow.label "Lukk vindauge">
+<!ENTITY closeWindow.label "Lat att vindauge">
 <!ENTITY closeWindow.accesskey "L">
 
 <!ENTITY bookmarksMenu.label "Bokmerke">
@@ -689,8 +689,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalering">
 <!ENTITY fullZoom.accesskey             "r">
 
-<!ENTITY sidebarCloseButton.tooltip     "Lukk sidestolpen">
-<!ENTITY sidebarMenuClose.label         "Lukk sidestolpen">
+<!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
+<!ENTITY sidebarMenuClose.label         "Lat att sidestolpen">
 
 <!ENTITY quitApplicationCmdWin2.label       "Avslutt">
 <!ENTITY quitApplicationCmdWin2.accesskey   "t">
@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdMac2.label   "Avslutt &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
-<!ENTITY closeCmd.label                 "Lukk">
+<!ENTITY closeCmd.label                 "Lat att">
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "L">
 
@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Om du held fram vil:">
 <!ENTITY panicButton.view.deleteCookies           "Siste <html:strong>infokapslar</html:strong> slettast">
 <!ENTITY panicButton.view.deleteHistory           "Nyleg <html:strong>historikk</html:strong> slettast">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukke alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Lat att alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Opne eit nytt, friskt vindauge">
 
 <!ENTITY panicButton.view.undoWarning             "Denne handlinga kan ikkje angrast.">
