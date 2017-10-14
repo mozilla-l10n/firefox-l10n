@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "භාෂා">
-<!ENTITY languages.customize.description                "වෙබ් පිටු සමහරවිට භාෂා කිහිපයකින් යුක්ත වේ. අභිමතය පරිදි මෙම පිටු දර්ශනය සඳහා භාෂාවන් තෝරන්න:">
+<!ENTITY languages.customize2.description               "ජාල පිටු ඇතැම් විට එක් භාශාවකට වඩා ඉදිරිපත් කරයි. අභිප්‍රේතය පරිදි මෙම ජාල අඩවි පෙන්වීම සඳහා භාශාවන් තෝරන්න">
 <!ENTITY languages.customize.moveUp.label               "ඉහළට ගෙනයන්න">
 <!ENTITY languages.customize.moveUp.accesskey           "U">
 <!ENTITY languages.customize.moveDown.label             "පහලට ගෙනයන්න">
