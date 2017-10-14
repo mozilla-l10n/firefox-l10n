@@ -6,6 +6,7 @@
 <!ENTITY aboutNetworking.warning               "આ ખૂબ પરીક્ષણીય છે. વયસ્કના નીરિક્ષણ વિના વાપરશો નહિ.">
 <!ENTITY aboutNetworking.showNextTime          "આગલા વખતે આ ચેતવણી બતાવો">
 <!ENTITY aboutNetworking.ok                    "બરાબર">
+<!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "સૉકેટ">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -13,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "દર ૩ સેકન્ડો સ્વયં પુનઃતાજું કરો">
 <!ENTITY aboutNetworking.hostname              "યજમાનનામ">
 <!ENTITY aboutNetworking.port                  "પોર્ટ">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "સક્રિય">
 <!ENTITY aboutNetworking.idle                  "ફાજલ">
@@ -27,3 +29,4 @@
 <!ENTITY aboutNetworking.messagesReceived      "સંદેશાઓ મેળવાયા">
 <!ENTITY aboutNetworking.bytesSent             "બાઇટ્સ મોકલાયા">
 <!ENTITY aboutNetworking.bytesReceived         "બાઇટ્સ મેળવાયા">
+<!ENTITY aboutNetworking.logging               "લૉગિંગ">
