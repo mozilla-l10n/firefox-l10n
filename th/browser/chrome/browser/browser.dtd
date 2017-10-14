@@ -178,13 +178,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
 <!ENTITY addCurPagesCmd.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-<!ENTITY recentBookmarks.label "ที่คั่นหน้าที่เพิ่งเพิ่ม">
+<!ENTITY recentBookmarks.label "ที่คั่นหน้าที่เพิ่งเพิ่มล่าสุด">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
-<!ENTITY showRecentlyBookmarked.label     "แสดงที่คั่นหน้าที่เพิ่งเพิ่ม">
+<!ENTITY showRecentlyBookmarked.label     "แสดงที่คั่นหน้าที่เพิ่งเพิ่มล่าสุด">
 <!ENTITY showRecentlyBookmarked.accesskey "ส">
-<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่คั่นหน้าที่เพิ่งเพิ่ม">
+<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่คั่นหน้าที่เพิ่งเพิ่มล่าสุด">
 <!ENTITY hideRecentlyBookmarked.accesskey "อ">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
@@ -340,9 +340,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "ประวัติ">
 <!ENTITY historyMenu.accesskey "ป">
-<!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิด">
+<!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิดล่าสุด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
+<!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิดล่าสุด">
 <!ENTITY historyRestoreLastSession.label "เรียกคืนวาระที่แล้ว">
 
 <!ENTITY showAllHistoryCmd2.label "แสดงประวัติทั้งหมด">
