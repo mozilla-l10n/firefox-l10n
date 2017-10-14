@@ -27,12 +27,17 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Hindi pinagana ang pag-uulat ng data para sa build configuration na ito">
 
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.label       "Payagan ang &brandShortName; na magpadala ng data ng teknikal at pakikipag-ugnayan sa Mozilla">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Karagdagang kaalaman">
 
 <!ENTITY dataCollection.label            "&brandShortName; Koleksyon ng data at ang Paggamit">
+<!ENTITY dataCollectionDesc.label        "Nagsusumikap kami na magbigay sa iyo ng mga pagpipilian at mangolekta lamang kung ano ang kailangan namin upang magbigay at pagbutihin ang &brandShortName; para sa lahat. Lagi kaming humihingi ng pahintulot bago matanggap ang personal na impormasyon.">
+<!ENTITY dataCollectionPrivacyNotice.label    "Abiso pang Sarilinan">
 
+<!ENTITY alwaysSubmitCrashReports1.label  "Payagan ang &brandShortName; na magpadala ng mga ulat ng pag-crash sa Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Karagdagang kaalaman">
 
@@ -40,11 +45,13 @@ available. -->
 
 <!ENTITY networkProxy.label              "Proxy ng Network">
 
+<!ENTITY connectionDesc.label            "I-configure kung paano kokonekta ang &brandShortName; sa Internet">
 <!ENTITY connectionSettings.label        "Settings…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "I-cache ang Nilalaman ng Web">
 
+<!ENTITY offlineStorage2.label           "Offline na Nilalaman ng Web at Datus ng Gumagamit">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Datus ng Site">
@@ -88,6 +95,7 @@ available. -->
 <!ENTITY updateApplication.description   "Payagan ang &brandShortName; na">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Huwag kailan man mag check kung may mga update (hindi rekomendado)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Ipakita ang kasaysayan nang pag-update…">
@@ -100,6 +108,7 @@ available. -->
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Mga ililiban…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList.height          "7em">
@@ -117,6 +126,11 @@ available. -->
 <!ENTITY viewCerts2.accesskey            "C">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
+<!ENTITY performance.label               "Pagganap">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Gamitin ang iminungkahi na performance settings">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Ang mga setting na ito ay pinasadya sa hardware at operating system ng iyong computer.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label

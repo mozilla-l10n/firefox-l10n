@@ -6,8 +6,12 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
+<!ENTITY aboutSupport.crashes.title "Ulat ng mga Crash">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Ulat ID">
+<!ENTITY aboutSupport.crashes.sendDate "Nai-sumite">
+<!ENTITY aboutSupport.crashes.allReports "Lahat ng Ulat ng Pag-crash">
 
 <!ENTITY aboutSupport.extensionName "Pangalan">
 <!ENTITY aboutSupport.extensionVersion "Bersyon">
@@ -18,6 +22,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "Bersyon">
 <!ENTITY aboutSupport.featureId "ID">
 
+<!ENTITY aboutSupport.experimentsTitle "Mga Tampok na Sinusuri">
 <!ENTITY aboutSupport.experimentName "Pangalan">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Paglalarawan">
@@ -26,6 +31,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "Homepage">
 <!ENTITY aboutSupport.experimentBranch "Sangay">
 
+<!ENTITY aboutSupport.appBasicsTitle "Mga panimula ng Aplikasyon">
 <!ENTITY aboutSupport.appBasicsName "Pangalan">
 <!ENTITY aboutSupport.appBasicsVersion "Bersyon">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
@@ -69,9 +75,12 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 
+<!ENTITY aboutSupport.a11yActivated "Isinaaktibo">
 
 
 
+<!ENTITY aboutSupport.copyTextToClipboard.label "Kopyahin ang text sa clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopyahhin ang raw na datus sa clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 

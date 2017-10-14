@@ -2,18 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  permissions.label           "Mga Pahintulot">
 
 <!ENTITY  blockPopups.label           "Harangin ang mga pop-up windows">
 <!ENTITY  blockPopups.accesskey       "H">
 
-<!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsDoNotDisturb.label      "Wag akong istorbohin">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Hindi ipapakita ang abiso hanggang sa i-restart mo ang &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Mga Exceptions...">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  popupExceptions.label                                 "Mga Exceptions...">
+<!ENTITY  popupExceptions.accesskey                             "E">
 
+<!ENTITY  notificationPermissions.label                         "Mga Abiso">
+<!ENTITY  notificationSettingsButton.label                      "Mga Setting…">
+<!ENTITY  notificationSettingsButton.accesskey                  "t">
+<!ENTITY  notificationPermissionsLearnMore.label                "Karagdagang kaalaman">
 
+<!ENTITY  locationPermissions.label                             "Lokasyon">
+<!ENTITY  locationSettingsButton.label                          "Mga Setting…">
+<!ENTITY  locationSettingsButton.accesskey                      "t">
+
+<!ENTITY  cameraPermissions.label                               "Kamera">
+<!ENTITY  cameraSettingsButton.label                            "Mga Setting…">
+<!ENTITY  cameraSettingsButton.accesskey                        "t">
+
+<!ENTITY  microphonePermissions.label                           "Mikropono">
+<!ENTITY  microphoneSettingsButton.label                        "Mga Setting…">
+<!ENTITY  microphoneSettingsButton.accesskey                    "t">
+
+<!ENTITY  fontsAndColors.label        "Mga Font &amp; Kulay">
+
+<!ENTITY  defaultFont2.label          "Default na font">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Sukat">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Advanced…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -22,10 +45,12 @@
 <!ENTITY  colors.accesskey            "M">
 
 
+<!ENTITY language2.label              "Wika">
 <!ENTITY chooseLanguage.label         "Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina">
 <!ENTITY chooseButton.label           "Choose…">
 <!ENTITY chooseButton.accesskey       "o">
 
+<!ENTITY translateWebPages.label      "Isalin ang nilalaman ng web">
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Mga exceptions...">
 <!ENTITY translateExceptions.accesskey "x">
@@ -37,6 +62,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Mga pagsasalin sa pamamagitan ng">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent2.label              "Nilalaman ng Digital Rights Management (DRM)">
 
+<!ENTITY  playDRMContent2.label          "I-play ang DRM na kontroladong nilalaman">
+<!ENTITY  playDRMContent2.accesskey      "P">
+<!ENTITY  playDRMContent.learnMore.label "Karagdagang kaalaman">

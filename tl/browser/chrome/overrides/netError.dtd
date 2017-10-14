@@ -39,6 +39,7 @@
 
 <!ENTITY netOffline.title "Naka-Offline">
 
+<!ENTITY contentEncodingError.title "May mali sa pag-encode na content">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Mangyaring makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Hindi ligtas na file type">
@@ -50,11 +51,15 @@
 <!ENTITY netTimeout.title "Ang koneksyon ay lumagpas sa oras">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Ang address ay hindi naintindihan">
 
+<!ENTITY proxyConnectFailure.title "Ang proxy server ay tinatanggihan ang koneksyon">
 
+<!ENTITY proxyResolveFailure.title "Hindi mahanap ang proxy server">
 
 <!ENTITY redirectLoop.title "Ang pahina ay hindi nag didirekta ng maayos">
 
+<!ENTITY unknownSocketType.title "Hindi inaasahang tugon mula sa server">
 
 <!ENTITY nssFailure2.title "Nabigong Ligtas na Koneksyon">
 

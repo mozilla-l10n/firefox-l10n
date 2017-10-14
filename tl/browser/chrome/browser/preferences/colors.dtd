@@ -6,25 +6,24 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "I-override ang mga kulay na tinukoy ng pahina sa iyong mga pagpipilian sa itaas:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Palagi">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Tanging may mga tema ng High Contrast">
 <!ENTITY  overrideDefaultPageColors.never.label  "Hindi kailanman">
 
 <!ENTITY  color                           "Teksto at Background">
-<!ENTITY  textColor.label                 "Teksto:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Background:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "Teksto">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "Background">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "Gamitin ang mga kulay ng sistema">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "Guhitan ang mga link">
 <!ENTITY  underlineLinks.accesskey        "u">
 <!ENTITY  links                           "Kulay ng Mga Link">
-<!ENTITY  linkColor.label                 "Hindi Nabisitang mga Link:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "Nabisitang mga Link:">
-<!ENTITY  visitedLinkColor.accesskey      "N">
+<!ENTITY  linkColor2.label                "Hindi Nabisitang mga Link">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "Nabisitang mga Link">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

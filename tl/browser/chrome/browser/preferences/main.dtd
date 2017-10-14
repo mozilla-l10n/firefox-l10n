@@ -4,6 +4,7 @@
 
 <!ENTITY startup.label             "Nagsisimula">
 
+<!ENTITY startupPage2.label        "Kapag nagsimula na ang &brandShortName;">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Ipakita ang iyong punong pahina">
 <!ENTITY startupBlankPage.label    "Magpakita ng blankong pahina">
@@ -19,6 +20,7 @@
 <!ENTITY restoreDefault.label      "Ibalik sa Default">
 <!ENTITY restoreDefault.accesskey  "I">
 
+<!ENTITY disableExtension.label    "Huwag Paganahin and Extensyon">
 
 <!ENTITY downloads.label     "Mga Download">
 
@@ -28,11 +30,14 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Laging itanong sa iyo kung saan mag-save ng mga file">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
+<!ENTITY alwaysCheckDefault2.label        "Laging suriin kung ang &brandShortName; ay ang iyong default na browser">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "Gawing Default…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
+<!ENTITY isNotDefault.label               "Ang &brandShortName; ay hindi ang iyong default na browser">
 
 
