@@ -581,13 +581,13 @@
 <!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าต้องการล้างประวัติของคุณ?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่คุณบันทึกไว้จะแสดงที่นี่">
-<!ENTITY home_closed_tabs_title2 "เพิ่งปิด">
+<!ENTITY home_closed_tabs_title2 "เพิ่งปิดล่าสุด">
 <!ENTITY home_last_tabs_empty "แท็บล่าสุดของคุณจะแสดงที่นี่">
 <!ENTITY home_restore_all "เรียกคืนทั้งหมด">
 <!ENTITY home_closed_tabs_number "&formatD; แท็บ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 แท็บ">
-<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเยี่ยมชมล่าสุดจะแสดงที่นี่">
+<!ENTITY home_most_recent_empty "เว็บไซต์ที่คุณเพิ่งเยี่ยมชมล่าสุดจะแสดงที่นี่">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "หมายเหตุ: การใช้ &formatS1;แท็บส่วนตัวใหม่&formatS2; จะไม่บันทึกประวัติของคุณ">
@@ -836,7 +836,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "กำลังนิยม">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "เริ่มการท่องเว็บและเราจะแสดงบทความ, วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณได้เยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่">
+<!ENTITY activity_stream_highlights_empty "เริ่มการท่องเว็บและเราจะแสดงบทความ, วิดีโอ และหน้าอื่น ๆ บางส่วนที่ยอดเยี่ยมที่คุณเพิ่งเยี่ยมชมหรือเพิ่มที่คั่นหน้าไว้ล่าสุดที่นี่">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
