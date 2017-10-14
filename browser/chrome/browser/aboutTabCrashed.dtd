@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.title "ටැබ් බිදවැටුම් වාර්තාකරු">
 
 <!ENTITY tabCrashed.closeTab2  "ටැබය වසන්න">
 <!ENTITY tabCrashed.restoreTab "මෙම ටැබය යළි පිහිටුවන්න">
@@ -14,6 +15,14 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "ඔබේ ටැබය දැන් බිඳ වැටුනි.">
+<!ENTITY tabCrashed.offerHelp2 "අපිට පුලුවන් උදව් වෙන්න!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "පිටුව යළි පූරණයට &tabCrashed.restoreTab; තෝරන්න.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "මෙම පිටුව යළි පූරණය කිරිමට &tabCrashed.restoreTab; හෝ &tabCrashed.restoreAll; තෝරන්න.">
+<!ENTITY tabCrashed.requestHelp "ඔබ අපට උදව් කරනවාද?">
+<!ENTITY tabCrashed.requestHelpMessage "ප්‍රශ්න නිර්ණය කිරීමට සහ වඩා හොඳ &brandShortName; ඇති කිරීමට බිඳ වැටුම් වාර්ථා අපට උපකාරී වේ.">
+<!ENTITY tabCrashed.requestReport "මේ ටැබය වාර්ථා කරන්න">
+<!ENTITY tabCrashed.sendReport3 "මෙවැනි ගැටලු විසදීමට ස්වයංක්‍රීය බිදවැටුම් වාර්තා එවන්න.">
 <!ENTITY tabCrashed.emailPlaceholder "ඔබේ ඊමේල් ලිපිනය මෙහි එක් කරන්න">
 <!ENTITY tabCrashed.emailMe "වැඩිදුර තොරතුරු පවතින විට මා හට ඊමේල් කරන්න">
 <!ENTITY tabCrashed.reportSent "බිඳවැටීම් වාර්ථාව දැනටමත් පළකර ඇත: &brandShortName; වඩා වැඩිදියුණු කිරීමට සහය වූවාට තුති!">
