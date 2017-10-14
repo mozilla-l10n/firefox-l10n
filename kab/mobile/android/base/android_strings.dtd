@@ -291,14 +291,14 @@
 <!ENTITY custom_tabs_menu_item_open_in "Ldi deg &formatS;">
 <!ENTITY custom_tabs_menu_footer "Isumer-it-id &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "Tansa URL tettwanγel">
+<!ENTITY custom_tabs_hint_url_copy "Tansa URL tettwanɣel">
 
 <!ENTITY pref_pwa "Isnasen web n usfari">
-<!ENTITY pref_pwa_summary "Sireg akke isnasen web ad ttwarnun γer uqgil agejdan">
+<!ENTITY pref_pwa_summary "Sireg akken isnasen web ad ttwarnun ɣer uqgil agejdan">
 
 <!ENTITY tracking_protection_prompt_title "Tura s ummesten mgal asfuɣel">
 <!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yettili ara wugur yid-k.">
-<!ENTITY tracking_protection_prompt_tip_text "Wali iɣewwaṛen n tbadnit akken ad tissineḍ ugar">
+<!ENTITY tracking_protection_prompt_tip_text "Wali iɣewwaṛen n tbaḍnit akken ad tissineḍ ugar">
 <!ENTITY tracking_protection_prompt_action_button "Gziɣ!">
 
 <!ENTITY tab_queue_toast_message3 "Iccer yettwasekles deg &brandShortName;">
@@ -308,7 +308,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Tzemreḍ ad tesnifleḍ ay-agi ticki deg iɣewwaṛen">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Rmed asuneɣ deg isnasen nniḍen">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Rmed asuneɣ deg isnasen-nniḍen">
 <!ENTITY tab_queue_prompt_positive_action_button "Irmed">
 <!ENTITY tab_queue_prompt_negative_action_button "Mačči tura">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -326,7 +326,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; deg &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen-nniḍen\&quot; deg &brandShortName;">
 
 <!ENTITY pref_char_encoding "Asettengel n tfinaɣin">
 <!ENTITY pref_char_encoding_on "Sken umuɣ">
@@ -336,7 +336,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Sfeḍ tura">
 <!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek mara tferneḍ \&quot;Ffeɣ\&quot; seg umuɣ agejdan">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek m\&apos;ara tferneḍ \&quot;Ffeɣ\&quot; seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
 <!ENTITY pref_restore_tabs "Err-d iccaren">
 <!ENTITY pref_restore_always "Ttarra-d yal tikelt">
@@ -344,11 +344,11 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "Seqdec teγzi n unagraw n tsefsit">
+<!ENTITY pref_use_system_font_size "Seqdec teɣzi n unagraw n tsefsit">
 <!ENTITY pref_use_system_font_size_summary "Aseggem n ugbur web akken tella teɣzi n tsefsit n unagraw">
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
-<!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
+<!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur-nniḍen s wudem awurman">
 <!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣer/asemẓi">
 <!ENTITY pref_zoom_force_enabled_summary "Ḥettem iɣewwaṛen akken ad tizmireḍ ad tesmeɣreḍ neɣ ad tessemẓiḍ isebtar">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
