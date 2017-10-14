@@ -51,7 +51,7 @@
 <!ENTITY certmgr.email                        "E-postadresse">
 <!ENTITY certmgr.serial                       "Serienummer">
 
-<!ENTITY certmgr.close.label                  "Lukk">
+<!ENTITY certmgr.close.label                  "Lat att">
 <!ENTITY certmgr.close.accesskey              "L">
 <!ENTITY certmgr.view2.label                  "Vis …">
 <!ENTITY certmgr.view2.accesskey              "V">
