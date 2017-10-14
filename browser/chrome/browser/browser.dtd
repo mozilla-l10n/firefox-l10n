@@ -295,8 +295,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "z">
 <!ENTITY newNonRemoteWindow.label   "Novo okno brez e10s">
 
-<!ENTITY editMenu.label         "Urejanje">
-<!ENTITY editMenu.accesskey       "E">
+<!ENTITY editMenu.label         "Uredi">
+<!ENTITY editMenu.accesskey       "U">
 <!ENTITY undoCmd.label            "Razveljavi …">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "Z">
