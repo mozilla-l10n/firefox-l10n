@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Usar le protection contra le traciamento in fenestras private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Usar le protection contra le traciamento in navigation private pro blocar traciatores cognoscite">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saper plus">
@@ -37,7 +38,7 @@
 <!ENTITY  addressBar.suggest.label      "Durante que tu usa le barra de adresse, suggerer">
 <!ENTITY  locbar.history2.label         "Chronologia de navigation">
 <!ENTITY  locbar.history2.accesskey     "H">
-<!ENTITY  locbar.bookmarks.label        "Paginas marcate">
+<!ENTITY  locbar.bookmarks.label        "Marcapaginas">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Schedas aperite">
 <!ENTITY  locbar.openpage.accesskey     "O">
