@@ -170,7 +170,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcapaginas">
 <!ENTITY bookmarksMenu.accesskey "M">
-<!ENTITY bookmarkThisPageCmd.label "Adder marcapaginas sur iste pagina">
+<!ENTITY bookmarkThisPageCmd.label "Adder marcapaginas">
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -382,7 +382,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Desira tu vider le schedas de tu altere apparatos hic?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferentias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
-<!ENTITY appMenuRemoteTabs.signin.label "Authenticar se a Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
 
@@ -560,7 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Definir le imagine como fundo del scriptorio…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Adder marcapaginas sur iste pagina">
+<!ENTITY bookmarkPageCmd2.label       "Adder marcapaginas">
 <!ENTITY bookmarkThisLinkCmd.label      "Adder marcapaginas sur iste ligamine">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Adder marcapaginas sur iste quadro">
