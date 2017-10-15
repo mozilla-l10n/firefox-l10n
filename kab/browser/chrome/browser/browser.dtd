@@ -32,7 +32,7 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Mdel iccaren n uyeffus">
 <!ENTITY  closeTabsToTheEnd.accesskey        "M">
-<!ENTITY  closeOtherTabs.label               "Mdel iccaren nniḍen">
+<!ENTITY  closeOtherTabs.label               "Mdel iccaren-nniḍen">
 <!ENTITY  closeOtherTabs.accesskey           "M">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "b">
 <!ENTITY  sendLinkToDevice.label             "Azen aseɣwen ɣer yibenk">
 <!ENTITY  sendLinkToDevice.accesskey         "b">
-<!ENTITY  sendToDeviceFeedback.label         "Ţwaznen!">
+<!ENTITY  sendToDeviceFeedback.label         "Ttwaznen!">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amayanut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
 <!ENTITY  bookmarkAllTabs.label              "Creḍ akk Iccaren...">
@@ -127,8 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Qqen ɣer &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Ldi ismenyifen n &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Qqen i tikelt nniḍen ɣer &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Senqed amiḍan ik">
+<!ENTITY fxaSignInError.label "Qqen i tikelt-nniḍen ɣer &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Senqed amiḍan-ik">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Semẓi">
@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
-<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebter-a">
+<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreḍṭ n usebter-a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter-a">
@@ -179,7 +179,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
-<!ENTITY otherBookmarksCmd.label "Ticraḍ nniḍen">
+<!ENTITY otherBookmarksCmd.label "Ticraḍ-nniḍen">
 <!ENTITY mobileBookmarksCmd.label "Ticraḍ n isebtar n uziraz">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n isebtar">
 <!ENTITY showRecentlyBookmarked.label     "Wali tid ittwacerḍen melmi kan">
@@ -202,15 +202,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sken talɣut n usmel">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Lddi agalis n yizen ">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Lddi agalis n usuter n wadig">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Lddi agalis n yizen i wesbded n uzegrir">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ldi agalis n yizen">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ldi agalis n usuter n wadig">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ldi agalis n yizen i wesbded n uzegrir">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ldi agalis n yizen n usekles aruqqin">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad d-remseḍ ilɣuten seg usmel">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yetttwaṭṭef s wudem anmeggag">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Iminig yettwaṭṭef s wudem anmeggag">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist-inek d/neɣ asawaḍ-inek d usmel">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-inek d usmel">
@@ -241,15 +241,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksSubview.label             "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenuButton2.label         "Umuɣ n ticraḍ n isebtar">
-<!ENTITY bookmarksMenuButton.other.label    "Ticrad nniḍen">
+<!ENTITY bookmarksMenuButton.other.label    "Ticraḍ-nniḍen">
 <!ENTITY bookmarksMenuButton.mobile.label   "Ticraḍ n isebtar n uziraz">
 <!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n isebtar">
-<!ENTITY hideBookmarksSidebar.label         "Ffer tecraḍ n isebtar">
-<!ENTITY viewBookmarksToolbar.label         "Sken afeggag n tecraḍ">
+<!ENTITY hideBookmarksSidebar.label         "Ffer ticraḍ n isebtar">
+<!ENTITY viewBookmarksToolbar.label         "Sken afeggag n ticraḍ">
 <!ENTITY hideBookmarksToolbar.label         "Ffer afeggag n tecraḍ">
 <!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
 <!ENTITY bookmarkingTools.label             "Ifecka n tecraḍ">
-<!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n isebtar γer ufeggag">
+<!ENTITY addBookmarksMenu.label             "Rnu umuγ n tecraḍ n isebtar ɣer ufeggag">
 <!ENTITY removeBookmarksMenu.label          "Kkes umuγ n tecraḍ n isebtar seg ufeggag">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
