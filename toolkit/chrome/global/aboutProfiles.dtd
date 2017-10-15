@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProfiles.title "O profilech">
-<!ENTITY aboutProfiles.subtitle "Tato stránka vám pomůže spravovat vaše profily. Každý profil funguje jako zcela oddělený svět, obsahující oddělenou historii prohlížení, záložky, nastavení a doplňky.">
+<!ENTITY aboutProfiles.subtitle "Tato stránka vám pomůže spravovat vaše profily. Každý profil funguje jako zcela oddělený svět s vlastní historií prohlížení, záložkami, nastavením i doplňky.">
 <!ENTITY aboutProfiles.create "Vytvořit nový profil">
 <!ENTITY aboutProfiles.restart.title "Restartovat">
 <!ENTITY aboutProfiles.restart.inSafeMode "Restartovat se zakázanými doplňky…">
