@@ -824,6 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
 <!ENTITY customizeMode.done "Готово">
+<!ENTITY customizeMode.extraDragSpace "Простор за влечење">
 <!ENTITY customizeMode.toolbars2 "Алатници">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Мои теми">
@@ -831,7 +832,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage "Управувај">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
+<!ENTITY customizeMode.emptyOverflowList.description "Влечете и спуштете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
+<!ENTITY customizeMode.overflowList.description "Влечете и спуштете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.uidensity "Густина">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
