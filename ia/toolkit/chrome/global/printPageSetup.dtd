@@ -6,13 +6,13 @@
 
 <!ENTITY printSetup.title    "Configurar le pagina">
 
-<!ENTITY basic.tab           "Formato &amp; optiones">
+<!ENTITY basic.tab           "Formato e optiones">
 
 <!ENTITY formatGroup.label   "Formato">
 
 <!ENTITY orientation.label   "Orientation:">
 <!ENTITY portrait.label      "Vertical">
-<!ENTITY portrait.accesskey  "P">
+<!ENTITY portrait.accesskey  "V">
 <!ENTITY landscape.label     "Horizontal">
 <!ENTITY landscape.accesskey "L">
 
@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "Imprimer le fundo (colores e imagines)">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Margines &amp; Testa/Pede de pagina">
+<!ENTITY advanced.tab        "Margines, capite e pede de pagina">
 
 <!ENTITY marginGroup.label   "Margines (#1)">
 <!ENTITY marginUnits.inches  "uncias">
@@ -63,4 +63,4 @@
 <!ENTITY hfCustom            "Personalisation…">
 
 <!ENTITY customPrompt.title  "Personalisar…">
-<!ENTITY customPrompt.prompt "Insere tu texto de testa/pede de pagina personalisate">
+<!ENTITY customPrompt.prompt "Insere tu texto personalisate pro le capite/pede de pagina">
