@@ -122,6 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Прикажи ги сите јазичиња">
 <!ENTITY showAllTabsCmd.accesskey "П">
+<!ENTITY toggleReaderMode.key "Ч">
 
 <!ENTITY fxaSignIn.label "Најавете се на &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отвори поставки на &syncBrand.shortName.label;">
@@ -203,8 +204,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори го панелот со пораки">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управување со користењето на приклучоци">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складирани податоци во Трајно складиште">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Прелистувачот е контролиран далечински">
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Преведи ја оваа страница">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Го блокиравте пристапот до камерата за ова мрежно место.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за ова мрежно место.">
@@ -254,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Преземања">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Преземања">
 <!ENTITY downloads.accesskey          "р">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -318,7 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "н">
 <!ENTITY viewCustomizeToolbar.label       "Прилагоди…">
 <!ENTITY viewCustomizeToolbar.accesskey     "р">
-<!ENTITY overflowCustomizeToolbar.label       "Прилагоди алатник…">
+<!ENTITY overflowCustomizeToolbar.label       "Прилагоди мени…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "П">
 
 <!ENTITY historyMenu.label "Историја">
@@ -721,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "а">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "Додај речници…">
 <!ENTITY spellAddDictionaries.accesskey "а">
@@ -763,8 +768,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхронизирани јазичиња">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани јазичиња">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизирани јазичиња… сѐ уште!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Најавете се за да видите листа на јазичиња од вашите други уреди.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Нема отворени јазичиња">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Отвори поставки на &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Вклучете синхронизација на јазичиња за да видите листа на јазичиња од вашите други уреди.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Пребарај синхронизирани јазичиња">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -839,6 +850,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "П">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон што се споделува:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
+<!ENTITY getUserMedia.audioCapture.label "Звукот од јазичето ќе биде споделен.">
+<!ENTITY getUserMedia.allWindowsShared.message "Сите видливи прозорци на вашиот екран ќе бидат споделени.">
 
 <!ENTITY trackingProtection.title "Заштита од следење">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делови од оваа страница преку коишто би можело да бидете следени.">
@@ -870,6 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Затвори">
 
@@ -886,6 +900,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Ако продолжите:">
+<!ENTITY panicButton.view.deleteCookies           "Избриши скорешни <html:strong>колачиња</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Избриши скорешна <html:strong>историја</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Затвори ги сите <html:strong>јазичиња</html:strong> и <html:strong>прозорци</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Отвори нов чист прозорец">
 
 <!ENTITY panicButton.view.undoWarning             "Ова дејство не може да се одврати.">
 <!ENTITY panicButton.view.forgetButton            "Заборави!">
@@ -899,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "Надградете го вашиот &brandShorterName; за најдобри перформанси и најголема приватност.">
 <!ENTITY updateAvailable.whatsnew.label "Видете што е ново.">
+<!ENTITY updateAvailable.header.message "Достапна е нова надградба за &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Преземи надградба">
 <!ENTITY updateAvailable.acceptButton.accesskey "П">
 <!ENTITY updateAvailable.cancelButton.label "Не сега">
