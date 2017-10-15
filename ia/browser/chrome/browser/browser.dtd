@@ -119,7 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "Exir le modo Plen schermo">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Plen schermo">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Monstrar tote le schedas">
 <!ENTITY showAllTabsCmd.accesskey "A">

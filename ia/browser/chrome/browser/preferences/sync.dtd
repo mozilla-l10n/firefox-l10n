@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
 <!ENTITY signedIn.settings.label       "Parametros de Sync">
-<!ENTITY signedIn.settings.description "Elige lo que tu vole synchronisar in tu dispositivos, per &brandShortName;.">
+<!ENTITY signedIn.settings.description "Elige lo que tu vole synchronisar in tu apparatos usante &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

@@ -9,7 +9,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Motor de recerca predefinite">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "Selige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "Elige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.">
 
 <!ENTITY provideSearchSuggestions.label        "Provider le suggestiones de recerca">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
@@ -20,7 +20,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Motores de recerca a un sol clic">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "Eliger le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia scriber un parola clave.">
+<!ENTITY chooseWhichOneToDisplay2.label         "Elige le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia scriber un parola clave.">
 
 <!ENTITY engineNameColumn.label                "Motor de recerca">
 <!ENTITY engineKeywordColumn.label             "Parola clave">

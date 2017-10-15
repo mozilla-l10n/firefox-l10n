@@ -8,7 +8,7 @@
   - -->
 
 <!ENTITY title      "Connecter">
-<!ENTITY header     "Connecter se a un dispositivo remote">
+<!ENTITY header     "Connecter se a un apparato remote">
 <!ENTITY host       "Hoste:">
 <!ENTITY port       "Porta:">
 <!ENTITY connect    "Connecter">

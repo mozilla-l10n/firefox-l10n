@@ -86,7 +86,7 @@
 <!ENTITY col.lastmodified.label  "Ultime modification">
 
 <!ENTITY historySearch.placeholder  "Chronologia del recercas">
-<!ENTITY bookmarksSearch.placeholder  "Recercar in le marca-paginas">
+<!ENTITY bookmarksSearch.placeholder  "Cercar in le marcapaginas">
 
 <!ENTITY cmd.find.key  "f">
 
