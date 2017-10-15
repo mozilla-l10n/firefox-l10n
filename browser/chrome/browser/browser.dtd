@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
 
-<!ENTITY appMenuRecentHighlights.label "Seneste højdepunkter">
+<!ENTITY appMenuRecentHighlights.label "Seneste fremhævede">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "v">
