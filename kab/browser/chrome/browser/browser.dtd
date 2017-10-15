@@ -796,15 +796,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Iccaren yemtawin">
 
 <!ENTITY syncedTabs.sidebar.label              "Iccaren yemtawin">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg ibenkan nniḍen akken ad sekneḍ iccaren-is nniḍen.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg ibenkan-nniḍen akken ad sekneḍ iccaren-is nniḍen.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ulac iccaren yemtawi…yakan!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan nniḍen?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan-nniḍen?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad sekneḍ tabdart n yiccaren seg ibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ulac iccaren yeldin">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ldi ismenyifen n &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-ik-nniḍen.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Nadi iccaren iltawan">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
@@ -836,17 +836,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Mtawi tura">
 <!ENTITY syncSyncNowItem.accesskey    "M">
-<!ENTITY syncReAuthItem.label         "Qqen i tikelt nniḍen ɣeṛ &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Qqen i tikelt-nniḍen ɣeṛ &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "Q">
 <!ENTITY syncToolbarButton.label      "Mtawi">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Zuγer iferdisen inek ismenyifen γer ufeggag n ifecka neγ γer umuγ n tfuli.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Zuɣer iferdisen-ik ismenyifen ɣer ufeggag n ifecka neɣ ɣer umuɣn tfuli.">
+<!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka-nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
 <!ENTITY customizeMode.done "Immed">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
-<!ENTITY customizeMode.extraDragSpace "Zuγer tallunt">
+<!ENTITY customizeMode.extraDragSpace "Zuɣer tallunt">
 <!ENTITY customizeMode.toolbars2 "Afeggag n ifecka">
 <!ENTITY customizeMode.lwthemes "Isental">
 <!ENTITY customizeMode.lwthemes.myThemes "Isental-iw">
