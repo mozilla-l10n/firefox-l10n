@@ -35,7 +35,7 @@
 <!ENTITY malformedURI.longDesc "<p>Le adresse providite non es in un formato recognoscite. Per favor verifica le barra de adresse pro errores e retenta.</p>">
 
 <!ENTITY netInterrupt.title "Transferimento de datos interrumpite">
-<!ENTITY netInterrupt.longDesc "<p>Le navigator se ha connectite con successo, ma le connexion ha essite interrumpite durante le transferentia de datos.  Per favor retenta.</p><ul><li>Es tu incapace de navigar a altere sitos? Controla le connexion de rete del computator.</li><li>Ancora con problemas? Consulta assistentia del administrator de tu rete o le provisor de accesso a Internet.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Le navigator se ha connectite con successo, ma le connexion ha essite interrumpite durante le transferentia de datos.  Per favor retenta.</p><ul><li>Es tu incapace de navigar a altere sitos? Controla le connexion de rete del computator.</li><li>Ancora con problemas? Consulta assistentia del administrator de tu rete o le fornitor de accesso a Internet.</li></ul>">
 
 <!ENTITY notCached.title "Documento expirate">
 <!ENTITY notCached.longDesc "<p>Le documento requestate non es disponibile in le cache del navigator.</p><ul><li>Como precaution de securitate, le navigator non re-requesta automaticamente documentos sensibile.</li><li>Clicca sur Retentar pro re-requestar le documento del sito web.</li></ul>">
@@ -63,10 +63,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Le adresse specifica un protocollo (pro exemplo, <q>wxyz://</q>) le navigator non lo recognosce, alora le navigator non pote connecter se correctemente al sito.</p><ul><li>Tu tenta acceder a servicios de multimedia o altere servicios que non es de texto? Verifica si le sito ha plus pre-requisitos.</li><li>Alcun protocollos pote requirer softwares de terties o plugins ante que le navigator pote recognoscer les.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Connexion refusate per le servitor proxy">
-<!ENTITY proxyConnectFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy refusava le connexion.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Esque le servicio del proxy consenti le connexiones ab iste rete?</li><li>Ancora problemas? Consulta tu administrator de rete o tu providitor de internet pro assistentia.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy refusava le connexion.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Esque le servicio del proxy consenti le connexiones ab iste rete?</li><li>Ancora problemas? Consulta tu administrator de rete o tu fornitor de internet pro assistentia.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Servitor proxy non trovate">
-<!ENTITY proxyResolveFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy non pote ser trovate.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Es le computer connectite a un rete active?</li><li>Ancora problemas? Consulta tu administrator de rete o tu providitor de Internet pro assistentia.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy non pote ser trovate.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Es le computer connectite a un rete active?</li><li>Ancora problemas? Consulta tu administrator de rete o tu fornitor de Internet pro assistentia.</li></ul>">
 
 <!ENTITY redirectLoop.title "Cyclo de redirection">
 <!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirige le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptar le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
