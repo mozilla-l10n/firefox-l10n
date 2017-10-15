@@ -22,7 +22,7 @@
 <!ENTITY links.label "鏈結行為">
 <!ENTITY download.label "下載">
 
-<!ENTITY security.label "個人隱私與安全">
+<!ENTITY security.label "隱私權與安全性">
 <!ENTITY privatedata.label "隱私資料">
 <!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "圖片">
@@ -46,4 +46,3 @@
 <!ENTITY mousewheel.label "滾輪滑鼠">
 
 <!ENTITY focusSearch.key "f">
-
