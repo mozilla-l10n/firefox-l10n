@@ -202,10 +202,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Видете ги информациите за веб-сајтот">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отвори го панелот со пораки">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управување со користењето на приклучоци">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Менаџирајте го користењето на приклучоци">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складирани податоци во Трајно складиште">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Прелистувачот е контролиран далечински">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Менаџирајте го споделувањето на вашиот микрофон со ова место">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Менаџирајте го споделувањето на вашите прозорци или екран со ова место">
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Преведи ја оваа страница">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Менаџирање со превод на страници">
@@ -808,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Отвори ги сите во јазичиња">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "О">
 <!ENTITY syncedTabs.context.managedevices.label              "Менаџирај уреди…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "У">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "М">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
