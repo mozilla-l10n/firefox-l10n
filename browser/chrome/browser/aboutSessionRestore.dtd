@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Máme nejaké problémy s obnovením vašej predchádzajúcej relácie. Vyberte možnosť Obnoviť reláciu a skúste to znova.">
 <!ENTITY restorepage.tryThis2       "Stále sa nedarí reláciu obnoviť? Niekedy za to môže niektorá z kariet. Pozrite sa na predchádzajúce karty, zrušte označenie tých, ktoré nepotrebujete obnoviť a potom pokračujte v obnove.">
 
+<!ENTITY restorepage.hideTabs       "Skryť predchádzajúce karty">
+<!ENTITY restorepage.showTabs       "Zobraziť predchádzajúce karty">
+
 <!ENTITY restorepage.tryagainButton2 "Obnoviť reláciu">
 <!ENTITY restorepage.restore.access2 "O">
 <!ENTITY restorepage.closeButton2    "Spustiť novú reláciu">
