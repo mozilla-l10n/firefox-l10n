@@ -11,14 +11,14 @@
 <!ENTITY  sizeProportional.accesskey              "G">
 <!ENTITY  sizeMonospace.accesskey                 "r">
 
-<!ENTITY  proportional2.label                     "Proportional">
+<!ENTITY  proportional2.label                     "Proportional:">
 <!ENTITY  proportional2.accesskey                 "P">
 
-<!ENTITY  serif2.label                            "Serif">
-<!ENTITY  serif2.accesskey                        "S">
-<!ENTITY  sans-serif2.label                       "Sans Serif">
+<!ENTITY  serif2.label                            "Serif:">
+<!ENTITY  serif2.accesskey                        "e">
+<!ENTITY  sans-serif2.label                       "Sans Serif:">
 <!ENTITY  sans-serif2.accesskey                   "a">
-<!ENTITY  monospace2.label                        "Feste Breite">
+<!ENTITY  monospace2.label                        "Feste Breite:">
 <!ENTITY  monospace2.accesskey                    "F">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Singhalesisch">
 <!ENTITY  font.langGroup.tibetan                  "Tibetisch">
 <!-- Minimum font size -->
-<!ENTITY minSize2.label                           "Mindestschriftgröße">
+<!ENTITY minSize2.label                           "Mindestschriftgröße:">
 <!ENTITY minSize2.accesskey                       "M">
 <!ENTITY minSize.none                             "Keine">
 
@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUseOwn.accesskey            "d">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Textkodierung für veralteten Inhalt">
-<!ENTITY languages.customize.Fallback3.label      "Ersatz-Textkodierung">
+<!ENTITY languages.customize.Fallback3.label      "Ersatz-Textkodierung:">
 <!ENTITY languages.customize.Fallback3.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Diese Zeichenkodierung wird für veraltete Inhalte verwendet, welche ihre Zeichenkodierung nicht angeben.">
 
