@@ -129,7 +129,7 @@
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Numero integre">
-<!ENTITY device_typestring "Fila de characteres">
+<!ENTITY device_typestring "Catena">
 <!ENTITY device_typeobject "Objecto">
 <!ENTITY device_typenone "Eliger un typo">
 
