@@ -53,10 +53,13 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-a "&brandFullName; usa servicios de informationes web (&quot;Servicios&quot;) pro fornir certe functionalitates fornite pro tu uso con iste version binari de &brandShortName; sub le terminos describite a basso. Si tu non vole usar le un o le altere Servicio(s) o le terminos a basso es inacceptabile, tu pote inactivar le functionalitate o le Servicio(s). Instructiones sur como inactivar un functionalitate o Servicio particular pote esser trovate ">
 <!ENTITY rights2.webservices-b "hic">
+<!ENTITY rights3.webservices-c ". Altere functionalitates e Servicios pote esser inactivate in le preferentias del application.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-b "Inactivar le functionalitate de navigation secur non es recommendate perque illo pote resultar in navigar per sitos insecur.  Si tu desira inactivar le functionalitate completemente, seque iste passos:">
 <!ENTITY rights.safebrowsing-term1 "Aperir le preferentias de application">
 <!ENTITY rights.safebrowsing-term2 "Eliger le selection de securitate">
 <!ENTITY rights2.safebrowsing-term3 "Dismarca le option pro &quot;&enableSafeBrowsing.label;&quot;">
@@ -64,6 +67,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Navigation secundo le geolocalisation: ">
+<!ENTITY rights.locationawarebrowsing-b "es sempre optional.  Nulle information de localisation es inviate sin tu permission.  Si tu desira inactivar le functionalitate completemente, seque iste passos:">
 <!ENTITY rights.locationawarebrowsing-term1a "In barra del URL, insere ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Insere geo.enabled">
@@ -71,6 +75,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Le navigation con localisation geographic es disactivate">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Un resumpto del servicios del sito web que le producto incorpora, accompaniate de instructiones sur como inactivar los, si applicabile, debe esser includite hic.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tote le terminos de servicio applicabile pro iste producto debe ser listate ci.">

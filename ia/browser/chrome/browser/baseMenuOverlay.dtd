@@ -2,21 +2,48 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimisar">
+<!ENTITY bringAllToFront.label    "Apportar toto al plano avante">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Fenestra">
 
- 
- 
+<!ENTITY helpMenu.label           "Adjuta"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
- 
+<!ENTITY helpMenuWin.label        "Adjuta"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "A proposito de &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Adjuta">
+<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Claves pro accesso directe">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpSafeMode.label       "Reinitiar con le additivos inactive…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Reinitiar con le additivos active">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
+<!ENTITY healthReport2.label      "Reporto de sanitate de &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "e">
 
+<!ENTITY helpTroubleshootingInfo.label      "Informationes de diagnostico">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label      "Submitter vostre commentos…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour2.label            "Tour per &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
+<!ENTITY preferencesCmdMac.label        "Preferentias…">
+<!ENTITY preferencesCmdMac.commandkey   ".">
 
+<!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Celar &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
@@ -24,3 +51,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Celar le alteres">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
+<!ENTITY showAllAppsCmdMac.label        "Monstrar toto">
