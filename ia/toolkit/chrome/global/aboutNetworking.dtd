@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Super le traffico de rete">
+<!ENTITY aboutNetworking.warning               "Isto es multo experimental. Non usa lo sin supervision de un adulto.">
 <!ENTITY aboutNetworking.showNextTime          "Monstrar iste advertentia le proxime vice">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">

@@ -4,6 +4,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title "Super tu derectos">
+<!ENTITY rights.intro "&brandFullName; es software gratis e de codice aperite, construite per un communitate de milles de contributores de tote le mundo. Il ha poc cosas que tu deberea saper:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -13,8 +14,11 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; es facite disponibile a te sub le terminos del ">
 <!ENTITY rights.intro-point1b "Licentia public Mozilla">
+<!ENTITY rights.intro-point1c ". Isto significa que tu pote usar, copiar e distribuer &brandShortName; a alteres.  Tu tamben es benvenite de modificar le codice fonte de &brandShortName; comocunque tu vole pro attinger tu necessitates. Le licentia public de Mozilla tamben te da le derecto de distribuer tu versiones modificate.">
 
+<!ENTITY rights.intro-point2-a "Il es concedite a te nulle derecto sur le marcas registrate ni sur le licentias al marcas registrate del fundation Mozilla o de alcun tertie, iste restriction tamben es sur le nomine e le logo de Firefox. Informationes additional sur marcas registrate pote esser trovate ">
 <!ENTITY rights.intro-point2-b "hic">
 <!ENTITY rights.intro-point2-c ".">
 
@@ -22,16 +26,20 @@
 <!ENTITY rights.intro-point2.5 "Alcun functionalitates in &brandShortName;, como le reportator de collapsos, te da le option de provider feedback a &vendorShortName;. Eligente inviar feedback, tu dara a &vendorShortName; permission de usar le feedback pro meliorar su productos, de publicar le feedback in su sitos web e de distribuer le feedback.">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights2.intro-point3a "Como nos usa tu information personal e feedback submittite a &vendorShortName; per &brandShortName; es describite in le ">
 <!ENTITY rights2.intro-point3b "&brandShortName; Regulas de confidentialitate">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Omne politicas de privacitate applicabile pro iste producto debe esser listate hic.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights2.intro-point4a "Alcun functionalitates de &brandShortName; usa servicios de information basate sur le web, totevia nos non garanti que illos es 100&#37; accurate o libere de errores. Plus detalios, incluso informationes sur como inactivar le functionalitates que usa iste servicios pote esser trovate in le ">
 <!ENTITY rights.intro-point4b "terminos de servicio">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Si iste producto incorpora servicios web, qualcunque terminos de servicio applicabile pro le servicio(s) debe esser ligate al ">
 <!ENTITY rights.intro-point4b-unbranded "Servicios de sito web">
 <!ENTITY rights.intro-point4c-unbranded " section.">
 
