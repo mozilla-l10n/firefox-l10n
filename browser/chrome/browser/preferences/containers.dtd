@@ -12,7 +12,7 @@
 <!ENTITY window.title         "Додај нов контејнер">
 
 <!ENTITY name.placeholder     "Внесете име на контејнер">
-<!ENTITY windowClose.key      "њ">
+<!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Готово">
 <!ENTITY button.ok.accesskey  "Д">

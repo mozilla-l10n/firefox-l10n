@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Списоци за блокирање">
 
 <!ENTITY treehead.list.label          "Список">
-<!ENTITY windowClose.key              "њ">
+<!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Откажи">
 <!ENTITY button.cancel.accesskey      "Ц">
