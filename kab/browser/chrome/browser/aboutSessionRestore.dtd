@@ -6,8 +6,8 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Nesḥassef nesɛa uguren akken ad d-nner asebter inek.">
-<!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt nniḍen.">
+<!ENTITY restorepage.errorTitle2    "Nesḥassef. Nesɛa uguren akken ad d-nner asebter-inek.">
+<!ENTITY restorepage.problemDesc2   "Nesɛa uguren akken ad d-nerr tiɣimit-inek n tugniwin taneggarut. Fren err-d tiɣimit akken ad naɛreḍ tikkelt-nniḍen.">
 <!ENTITY restorepage.tryThis2       "Ur tezmireḍ ara ad terreḍ tiɣimit-ik? Tikwal iccer igellu-d s wugur-agi. Wali iccaren yezrin, kkes tacreḍt n rrcem seg iccaren ur tesriḍ ara ad terreḍ, sakin err-d.">
 
 <!ENTITY restorepage.hideTabs       "Ffer iccaren yezrin">
@@ -18,8 +18,8 @@
 <!ENTITY restorepage.closeButton2    "Senker tiɣimit tamaynut">
 <!ENTITY restorepage.close.access2   "N">
 
-<!ENTITY restorepage.restoreHeader  "Errit-id">
-<!ENTITY restorepage.listHeader     "Isfuyla d-yiccaren">
+<!ENTITY restorepage.restoreHeader  "Err-it-id">
+<!ENTITY restorepage.listHeader     "Isfuyla d yiccaren">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Asfaylu &#037;S">
 
@@ -36,7 +36,7 @@
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ihegga.">
 
 <!ENTITY welcomeback2.restoreAll.label  "Err-d akk isfuyla &amp; d yiccaren">
-<!ENTITY welcomeback2.restoreSome.label "Fren ayen tebɣiḍ ad d-rreḍ">
+<!ENTITY welcomeback2.restoreSome.label "Fren ayen tebɣiḍ ad d-terreḍ">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
@@ -45,7 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Aggan akked izegrar inek ttwakksen, iɣewwaṛen n iminig-inek uɣalen ɣer wazalen nsen amezwer. Ma yella ugur-inek ur yefri-ara, tzemreḍ ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Aggan akked izegrar-inek ttwakksen, iɣewwaṛen n iminig-inek uɣalen ɣer wazalen-nsen amezwer. Ma yella ugur-inek ur yefri-ara, tzemreḍ ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "issin ugar ɣef ayen tzemreḍ ad tgeḍ.">

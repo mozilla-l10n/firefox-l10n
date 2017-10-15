@@ -17,16 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Ihuh. Akken kan yeɣli yiccer-inek.">
 <!ENTITY tabCrashed.offerHelp2 "Nezmer ad d-nefk afus!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Fren &tabCrashed.restoreTab; akken ad d-saliḍ asebter.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-saliḍ asebter/pages.">
-<!ENTITY tabCrashed.requestHelp "Aɣ-d-muddeḍ afus?">
-<!ENTITY tabCrashed.requestHelpMessage "Aneqqis n uɣelluy ad aɣ-d-ifek tallalt i wakken ad neg tawassna u daɣen ad nseggem &brandShortName;">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Fren &tabCrashed.restoreTab; akken ad d-tsaliḍ asebter.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-tsaliḍ asebter/pages.">
+<!ENTITY tabCrashed.requestHelp "Ad ɣ-d-muddeḍ afus?">
+<!ENTITY tabCrashed.requestHelpMessage "Aneqqis n uɣelluy ad ɣ-d-yefk tallalt i wakken ad neg tawassna u daɣen ad nseggem &brandShortName;">
 <!ENTITY tabCrashed.requestReport "Azen iccer-a">
 <!ENTITY tabCrashed.sendReport3 "Azen aneqqis n uɣelluy awurman akken ad nizmir ad nefru uguren am wigi.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Iwenniten ifrayanen (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY tabCrashed.includeURL3 "Seddu tansiwin URL n yismal anida telliḍ neɣ melmi i yeɣli &brandShortName;.">
 <!ENTITY tabCrashed.emailPlaceholder "Sekcem da tansa n yimayl-inek">
-<!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
+<!ENTITY tabCrashed.emailMe "Azen-iyi-d imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan aneqqis n uɣelluy; tanemmirt-ik ɣef uttekki deg usnerni n &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Asuter n iccaren nugilal ">
 <!ENTITY tabCrashed.autoSubmit3 "Beddel ismenyifen akken ad tazneḍ aneqqis s wudem awurman ticki &brandShortName; yeɣli.">
