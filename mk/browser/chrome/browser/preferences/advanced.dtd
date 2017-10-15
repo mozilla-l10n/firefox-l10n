@@ -6,12 +6,12 @@
 
 <!ENTITY generalTab.label                "Општо">
 
-<!ENTITY useCursorNavigation.label       "Овозможи сурфање со тастатура">
+<!ENTITY useCursorNavigation.label       "Овозможи прелистување со тастатура">
 <!ENTITY useCursorNavigation.accesskey   "в">
 <!ENTITY useOnScreenKeyboard.label       "Прикажи тастатура за допир кога тоа е потребно">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
-<!ENTITY browsing.label                  "Сурфање">
+<!ENTITY browsing.label                  "Прелистување">
 
 <!ENTITY useAutoScroll.label             "Автоматско лизгање">
 <!ENTITY useAutoScroll.accesskey         "А">
