@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "Додај нов контејнер">
+<!ENTITY addButton.accesskey  "А">
 <!ENTITY preferencesButton.label "Поставки">
 <!ENTITY removeButton.label   "Избриши">
 <!-- &#171; is &laquo; however it's not defined in XML -->
@@ -11,5 +12,7 @@
 <!ENTITY window.title         "Додај нов контејнер">
 
 <!ENTITY name.placeholder     "Внесете име на контејнер">
+<!ENTITY windowClose.key      "њ">
 
 <!ENTITY button.ok.label      "Готово">
+<!ENTITY button.ok.accesskey  "Д">
