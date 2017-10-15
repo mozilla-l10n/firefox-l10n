@@ -496,3 +496,7 @@
 <!ENTITY private_tab_panel_description2 "Non verrà salvata alcuna cronologia, ma i file scaricati e i nuovi segnalibri verranno comunque conservati sul dispositivo." >
 <!ENTITY private_tab_learn_more "Ulteriori informazioni">
 <!ENTITY fullscreen_warning "Attivata modalità schermo intero">
+<!ENTITY pwa_add_to_launcher_confirm "+ Agg. a schermata principale">
+<!ENTITY pwa_add_to_launcher_badge "Agg. PWA a schermata principale">
+<!ENTITY pwa_continue_to_website "Vai al sito web">
+<!ENTITY pwa_onboarding_sumo "È possibile aggiungere questo sito web alla schermata principale, per accedervi più rapidamente e con un’esperienza simile alle app.">
