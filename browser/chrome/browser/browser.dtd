@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "Довлечете ги вашите омилени елементи во алатникот или дополнителното мени.">
+<!ENTITY customizeMode.menuAndToolbars.header3 "Вметнете ги вашите омилени елементи во алатникот или дополнителното мени.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Сакате повеќе алатки?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
@@ -832,9 +832,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage "Управувај">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
-<!ENTITY customizeMode.emptyOverflowList.description "Влечете и спуштете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
+<!ENTITY customizeMode.emptyOverflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
-<!ENTITY customizeMode.overflowList.description "Влечете и спуштете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
+<!ENTITY customizeMode.overflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.uidensity "Густина">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
