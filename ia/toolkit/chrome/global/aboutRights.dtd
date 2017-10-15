@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title "Super tu derectos">
+<!ENTITY rights.title "A proposito de tu derectos">
 <!ENTITY rights.intro "&brandFullName; es software gratis e de codice aperite, construite per un communitate de milles de contributores de tote le mundo. Il ha poc cosas que tu deberea saper:">
 
 <!-- Note on pointa / pointb / pointc form:

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutProfiles.title "Super profilos">
+<!ENTITY aboutProfiles.title "A proposito del profilos">
 <!ENTITY aboutProfiles.subtitle "Iste pagina te adjuta gerer tu profilos. Cata profilo es un mundo separate que contine chronologia, marcapaginas, parametros e additivos separate.">
 <!ENTITY aboutProfiles.create "Crear un nove profilo">
 <!ENTITY aboutProfiles.restart.title "Reinitiar">

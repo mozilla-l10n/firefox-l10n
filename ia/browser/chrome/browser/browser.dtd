@@ -409,7 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Clavar al menu disbordante">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "C">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Disclavar del menu disbordante">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Remover del barra de instrumentos">

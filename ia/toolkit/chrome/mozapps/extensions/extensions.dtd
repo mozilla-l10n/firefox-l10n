@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Ir un pagina retro">
 <!ENTITY cmd.forward.tooltip                  "Ir un pagina avante">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Alcun extensiones non poteva esser verificate">
 <!ENTITY showAllExtensions.button.label       "Monstrar tote le extensiones">
 <!ENTITY debugAddons.label                    "Facer le depuration del additivos">
@@ -84,7 +85,7 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Super">
+<!ENTITY cmd.about.label                      "A proposito de">
 <!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Activar">
