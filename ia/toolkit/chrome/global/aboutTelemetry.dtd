@@ -21,7 +21,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetria">
 <!ENTITY aboutTelemetry.moreInformations "Cerca tu plus informationes?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "Le <a>Firefox Data Documentation</a> contine guidas re le uso de nostre utensiles de dato.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "Le <a>Firefox Data Documentation</a> contine guidas re le uso de nostre instrumentos de dato.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "Le <a>Firefox Telemetry client documentation</a> include definitiones pro conceptos, documentation re le API e referentias de datos.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Le <a>Telemetry dashboards</a> te permitte de visualisar le datos que Mozilla recipe via Telemetry.">
 

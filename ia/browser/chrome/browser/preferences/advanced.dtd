@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY dataCollection.label            "Collecta de datos e utilisation de &brandShortName;">
 <!ENTITY dataCollectionDesc.label        "Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar &brandShortName; a totes. Nos sempre demanda permission ante reciper informationes personal.">
-<!ENTITY dataCollectionPrivacyNotice.label    "Advertentia de privacitate">
+<!ENTITY dataCollectionPrivacyNotice.label    "Advertentia de confidentialitate">
 
 <!ENTITY alwaysSubmitCrashReports1.label  "Permitter que &brandShortName; invia reportos de collapso a Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">

@@ -75,7 +75,7 @@
 <!ENTITY  securityView.identity.verifier "Verificate per:">
 <!ENTITY  securityView.identity.validity "Expira le:">
 
-<!ENTITY  securityView.privacy.header                   "Privacitate e historico">
+<!ENTITY  securityView.privacy.header                   "Confidentialitate e chronologia">
 <!ENTITY  securityView.privacy.history                  "Ha io visitate iste sito web anteriormente?">
 <!ENTITY  securityView.privacy.cookies                  "Esque iste sito web stocka informationes (cookies) in mi computator?">
 <!ENTITY  securityView.privacy.viewCookies              "Vider le cookies">

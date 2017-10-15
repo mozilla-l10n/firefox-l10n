@@ -31,7 +31,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Omne politicas de privacitate applicabile pro iste producto debe esser listate hic.">
+<!ENTITY rights.intro-point3-unbranded "Omne politicas de confidentialitate applicabile pro iste producto debe esser listate hic.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Alcun functionalitates de &brandShortName; usa servicios de information basate sur le web, totevia nos non garanti que illos es 100&#37; accurate o libere de errores. Plus detalios, incluso informationes sur como inactivar le functionalitates que usa iste servicios pote esser trovate in le ">

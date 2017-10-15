@@ -30,7 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "Bytes inviate">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recipite">
 <!ENTITY aboutNetworking.logging               "Registros">
-<!ENTITY aboutNetworking.logTutorial           "Vide <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pro instructiones re como usar iste utensile.">
+<!ENTITY aboutNetworking.logTutorial           "Vide <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> pro instructiones re como usar iste instrumento.">
 <!ENTITY aboutNetworking.currentLogFile        "File de diario actual:">
 <!ENTITY aboutNetworking.currentLogModules     "Modulos de diario actual:">
 <!ENTITY aboutNetworking.setLogFile            "Definir le file de registro">

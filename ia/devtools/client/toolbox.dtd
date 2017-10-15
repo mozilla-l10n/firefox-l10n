@@ -80,13 +80,13 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Activar le depuration remote">
-<!ENTITY options.enableRemote.tooltip2  "Activar iste option consentira al utensiles de disveloppamento de depurar un instantia remote como Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Activar iste option consentira al instrumentos de disveloppamento de depurar un instantia remote como Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Inactivar JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactivara JavaScript pro le scheda currente. Si le scheda o le box del utensiles es clause, iste definitiones essera oblidate.">
+<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactivara JavaScript pro le scheda currente. Si le scheda o le box del instrumentos es clause, iste definitiones essera oblidate.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
@@ -147,7 +147,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "Activar le mappas de codices fonte">
-<!ENTITY options.sourceMaps.tooltip1   "Si tu activa iste option le fontes essera mappate in le utensiles.">
+<!ENTITY options.sourceMaps.tooltip1   "Si tu activa iste option le fontes essera mappate in le instrumentos.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
