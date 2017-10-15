@@ -63,7 +63,7 @@ can reach it easily. -->
 <!ENTITY  listAllTabs.label      "Listar tote le schedas">
 
 <!ENTITY tabCmd.label "Nove scheda">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.accesskey "s">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Marcapaginas">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "M">
 <!ENTITY bookmarkThisPageCmd.label "Adder marcapaginas sur iste pagina">
 <!ENTITY editThisBookmarkCmd.label "Editar iste marcapaginas">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -262,7 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Instrumentos">
-<!ENTITY toolsMenu.accesskey          "T">
+<!ENTITY toolsMenu.accesskey          "I">
 
 <!ENTITY keywordfield.label           "Adder un parola-clave pro iste recerca…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -311,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.accesskey          "C">
 <!ENTITY pasteCmd.label           "Collar">
 <!ENTITY pasteCmd.key           "V">
-<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY pasteCmd.accesskey         "l">
 <!ENTITY deleteCmd.label          "Deler">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
@@ -339,7 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "Chronologia">
-<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyMenu.accesskey "C">
 <!ENTITY historyUndoMenu.label "Schedas claudite recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Fenestras claudite recentemente">
@@ -733,7 +733,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cercar in iste pagina…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "r">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Cercar novemente">
 <!ENTITY findAgainCmd.accesskey "g">

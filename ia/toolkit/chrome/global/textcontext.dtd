@@ -7,7 +7,7 @@
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.accesskey "c">
 <!ENTITY pasteCmd.label "Collar">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "l">
 <!ENTITY undoCmd.label "Disfacer">
 <!ENTITY undoCmd.accesskey "u">
 <!ENTITY selectAllCmd.label "Selectionar toto">
