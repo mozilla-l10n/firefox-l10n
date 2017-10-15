@@ -6,23 +6,23 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "සැමවිටම">
 <!ENTITY  overrideDefaultPageColors.never.label  "කිසිදාක නැත">
 
 <!ENTITY  color                           "පෙළ සහ පසුබිම">
-<!ENTITY  textColor.label                 "පෙළ:">
-<!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "පසුබිම:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  textColor2.label                "පෙළ">
+<!ENTITY  textColor2.accesskey            "T">
+<!ENTITY  backgroundColor2.label          "පසුතලය">
+<!ENTITY  backgroundColor2.accesskey      "B">
 <!ENTITY  useSystemColors.label           "පද්ධති වර්‍ණ භාවිතා කරන්න">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "පුරුක් යටීර">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "පුරුක් වර්‍ණ">
-<!ENTITY  linkColor.label                 "ගමන් නොකළ පුරුක්:">
-<!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "ගමන් කළ පුරුක්:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  linkColor2.label                "ගමන් නොකළ පුරුක්">
+<!ENTITY  linkColor2.accesskey            "L">
+<!ENTITY  visitedLinkColor2.label         "ගමන් කළ පුරුක්">
+<!ENTITY  visitedLinkColor2.accesskey     "V">

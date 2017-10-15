@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Show In Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "බාගත කිරීමේ බහාලුම පෙන්වන්න">
 <!ENTITY cmd.retry.label                  "නැවත උත්සාහ කරන්න">
 <!ENTITY cmd.goToDownloadPage.label       "බාගත කිරීම් පිටුවට යන්න">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -134,7 +135,17 @@
 <!ENTITY downloadsHistory.label           "සියළු බාගත කිරීම් පෙන්වන්න">
 <!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY openDownloadsFolder.label       "බාගත කිරීමේ බහාලුම විවෘත කරන්න">
+<!-- LOCALIZATION NOTE (downloadDetails.label):
+     This string is shown at the top of the Download Details Panel, to indicate
+     that we are showing the details of a single download.
+     -->
+<!ENTITY downloadDetails.label            "භාගත කිරීමේ විස්තර">
+
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "බාගත කිරීමේ බහාලුම විවෘත කරන්න">
 
 <!ENTITY clearDownloadsButton.label       "බාගතකිරීම් පිරිසිදු කරන්න">
 <!ENTITY clearDownloadsButton.tooltip     "සම්පූර්ණ, අවලංගු කළ හා අසාර්ථක බාගැනීම් පිරිසිදු කරයි">
@@ -148,7 +159,7 @@
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
-<!ENTITY downloadsPanelEmpty.label        "මෙම වාරය සඳහා බාගැනීම් නොමැත.">
+<!ENTITY downloadsPanelEmpty.label        "මෙම සැසියට භාගත කිරීම් නැත.">
 
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
