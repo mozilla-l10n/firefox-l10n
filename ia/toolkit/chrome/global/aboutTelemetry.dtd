@@ -46,5 +46,6 @@
 <!ENTITY aboutTelemetry.rawPayloadSection "Carga brute">
 <!ENTITY aboutTelemetry.raw "JSON brute">
 
+<!ENTITY aboutTelemetry.fullSqlWarning "NOTA: Le depuration SQL lente es active. Tote le catenas de characteres SQL pote esser presentate ma illos non essera submittite a telemetria.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recuperar le nomines de functiones pro le pilas">
 <!ENTITY aboutTelemetry.hideStackSymbols "Monstrar le datos brute del pila">
