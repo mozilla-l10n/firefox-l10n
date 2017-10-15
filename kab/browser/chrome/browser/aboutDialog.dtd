@@ -5,7 +5,7 @@
 
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
-# See about:preferences#advanced.
+# See about:preferences#general.
 -->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
@@ -14,14 +14,14 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Nadi ileqman ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-<!ENTITY update.updateButton.label3               "Sker i tikkelt nniḍen akken ad tleqmeḍ&brandShorterName;">
+<!ENTITY update.updateButton.label3               "Sker i tikelt-nniḍen akken ad tleqmeḍ&brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R ">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; d armitan yerna ur yerkid.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talγut γef tmellit, arrum, aseqdec d waggan i &vendorShortName; iwakken ad d-yefk tallelt n usnerni n &brandShortName;. ">
+<!ENTITY warningDesc.telemetryDesc  "Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec d waggan i &vendorShortName; iwakken ad d-yefk tallelt n usnerni n &brandShortName;. ">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -30,7 +30,7 @@
 <!ENTITY community.exp.middle       " d ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "tamezdagnut tamaḍalant ">
-<!ENTITY community.exp.end          " ad nmahel akken  bac ad neǧǧ Web yeldi, d-azayez, d-uffar i yal yiwen.">
+<!ENTITY community.exp.end          " ad nmahel lwaḥid  bac ad neǧǧ Web yeldi, d azayez, d uffar i yal yiwen.">
 
 <!ENTITY community.start2           "&brandShortName; ifeṣl-it  ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -38,20 +38,20 @@
 <!ENTITY community.middle2          ",agraw amaḍlan n  ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "imttekkiyen ">
-<!ENTITY community.end3             " ad nmahel lwaḥid akken ad neǧǧ Web yeldi, d-azayez, d-uffar i yal yiwen. ">
+<!ENTITY community.end3             " ad nmahel lwaḥid akken ad neǧǧ Web yeldi, d azayez, d uffar i yal yiwen. ">
 
-<!ENTITY helpus.start               "Tebγiḍ tallalt? ">
+<!ENTITY helpus.start               "Tebɣiḍ tallalt? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Mudd tawsa ">
-<!ENTITY helpus.middle              " neγ ">
+<!ENTITY helpus.middle              " neɣ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "ttekki! ">
+<!ENTITY helpus.getInvolvedLink     "kki!">
 <!ENTITY helpus.end                 "‌">
 
 <!ENTITY releaseNotes.link          "D acu i d amaynut ">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Talγut n turagt">
+<!ENTITY bottomLinks.license        "Talɣut n turagt">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Izarfan n useqdac ">
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Aleqqem isweḥlit unedbal n unagraw-ik">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqm-it tummant nniḍen ">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; tleqm-it tummant-nniḍen ">
 <!ENTITY update.restarting          "Allus n usenker… ">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -91,7 +91,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Ur tezmireḍ ara ad tleqmeḍ ugar γef unagraw-agi. ">
+<!ENTITY update.unsupported.start    "Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. ">
 <!ENTITY update.unsupported.linkText "Issin ugar ">
 <!ENTITY update.unsupported.end      "">
 
@@ -108,5 +108,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Aqlak tura deg ">
+<!ENTITY channel.description.start  "Aqli-k tura deg ">
 <!ENTITY channel.description.end    " Adabu n uleqqem. ">
