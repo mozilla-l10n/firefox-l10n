@@ -102,7 +102,7 @@
 <!ENTITY useCacheBefore.label            "最多使用">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB 磁碟空間存放快取資料">
-<!ENTITY overrideSmartCacheSize.label    "忽略自動快取管理機制">
+<!ENTITY overrideSmartCacheSize.label    "停用自動快取管理">
 <!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "立刻清除">
 <!ENTITY clearCacheNow.accesskey         "C">
