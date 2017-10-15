@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "韓文">
 <!ENTITY  font.langGroup.cyrillic                 "俄文／西里爾文字">
 <!ENTITY  font.langGroup.el                       "希臘文">
-<!ENTITY  font.langGroup.other                    "其他文字">
+<!ENTITY  font.langGroup.other                    "其他文字系統">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯來文">
 <!ENTITY  font.langGroup.arabic                   "阿拉伯文">

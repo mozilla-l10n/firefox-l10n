@@ -32,6 +32,6 @@
 <!ENTITY manageDevices.accesskey "y">
 
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "選取憑證">
+<!ENTITY certPicker.title "選擇憑證">
 <!ENTITY certPicker.info  "憑證:">
 <!ENTITY certPicker.detailsLabel "所選憑證的詳細資訊:">
