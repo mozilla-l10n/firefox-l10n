@@ -26,7 +26,7 @@
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Cercar">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "F">
+<!ENTITY findCmd.accesskey         "r">
 <!ENTITY findAgainCmd.label        "Cercar le sequente">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">

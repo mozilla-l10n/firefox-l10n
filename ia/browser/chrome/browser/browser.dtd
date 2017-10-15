@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Plus">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Cercar o inserer un adresse">
+<!ENTITY urlbar.placeholder2          "Insere un adresse o un recerca">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extension:">
@@ -669,13 +669,13 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "Approximar">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Distantiar">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "D">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
@@ -684,8 +684,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Applicar zoom solmente al texto">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoomToggleCmd.label        "Zoom al texto solmente">
+<!ENTITY fullZoomToggleCmd.accesskey    "t">
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -709,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stilo del pagina">
-<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleMenu.accesskey "i">
 <!ENTITY pageStyleNoStyle.label "Nulle stilo">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Stilo basic del pagina">
