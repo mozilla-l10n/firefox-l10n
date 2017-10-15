@@ -7,7 +7,11 @@
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Складиште">
 <!ENTITY     searchTextboxPlaceHolder             "Пребарувај мрежни места">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "С">
 <!ENTITY     removeSelected.label          "Отстрани избрани">
+<!ENTITY     removeSelected.accesskey      "р">
 <!ENTITY     save.label                    "Зачувај промени">
+<!ENTITY     save.accesskey                "а">
 <!ENTITY     cancel.label                  "Откажи">
+<!ENTITY     cancel.accesskey              "Ц">
 <!ENTITY     removingDialog.title          "Отстранување на податоци за мрежни места">

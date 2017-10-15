@@ -64,6 +64,7 @@
 <!ENTITY cmd.removeFromHistory.label      "Избриши од историја">
 <!ENTITY cmd.removeFromHistory.accesskey  "б">
 <!ENTITY cmd.clearList2.label             "Исчисти го панелот за преглед">
+<!ENTITY cmd.clearList2.accesskey         "а">
 <!ENTITY cmd.clearDownloads.label         "Исчисти ги преземањата">
 <!ENTITY cmd.clearDownloads.accesskey     "п">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):

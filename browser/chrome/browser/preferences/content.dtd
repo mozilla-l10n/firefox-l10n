@@ -8,6 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "л">
 
 <!ENTITY  notificationsDoNotDisturb.label      "Не ме вознемирувај">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "н">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Нема да се прикажуваат известувања сѐ додека не го рестартирате &brandShortName;">
 
 <!ENTITY  popupExceptions.label                                 "Исклучоци…">
@@ -20,7 +21,9 @@
 <!ENTITY  fontsAndColors.label        "Фонтови и бои">
 
 <!ENTITY  defaultFont2.label          "Основен фонт">
+<!ENTITY  defaultFont2.accesskey      "Д">
 <!ENTITY  defaultSize2.label          "Големина">
+<!ENTITY  defaultSize2.accesskey      "С">
 
 <!ENTITY  advancedFonts.label         "Напредно…">
 <!ENTITY  advancedFonts.accesskey     "Н">
