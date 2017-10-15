@@ -11,13 +11,13 @@
 <!ENTITY aboutNetworking.websockets            "WebSockets">
 <!ENTITY aboutNetworking.refresh               "Actualisar">
 <!ENTITY aboutNetworking.autoRefresh           "Refrescamento automatic cata 3 secundas">
-<!ENTITY aboutNetworking.hostname              "Nomine del servitor hospite">
+<!ENTITY aboutNetworking.hostname              "Nomine del hoste">
 <!ENTITY aboutNetworking.port                  "Porta">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Active">
 <!ENTITY aboutNetworking.idle                  "Inactive">
-<!ENTITY aboutNetworking.host                  "Hospite">
+<!ENTITY aboutNetworking.host                  "Hoste">
 <!ENTITY aboutNetworking.tcp                   "TCP">
 <!ENTITY aboutNetworking.sent                  "Inviate">
 <!ENTITY aboutNetworking.received              "Recipite">
