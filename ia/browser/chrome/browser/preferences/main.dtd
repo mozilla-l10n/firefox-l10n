@@ -33,12 +33,12 @@
 <!ENTITY alwaysAskWhere.label         "Sempre questionar te ubi salvar le files">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
-<!ENTITY alwaysCheckDefault2.label        "Sempre verificar si &brandShortName; es tu navigator ordinari">
+<!ENTITY alwaysCheckDefault2.label        "Sempre verificar si &brandShortName; es tu navigator predefinite">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser3.label     "Predefinir…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
-<!ENTITY isDefault.label                  "&brandShortName; es actualmente tu navigator ordinari">
-<!ENTITY isNotDefault.label               "&brandShortName; non es tu navigator ordinari">
+<!ENTITY isDefault.label                  "&brandShortName; es actualmente tu navigator predefinite">
+<!ENTITY isNotDefault.label               "&brandShortName; non es tu navigator predefinite">
 
 <!ENTITY separateProfileMode.label        "Permitter que &brandShortName; e Firefox exeque al mesme tempore">
 <!ENTITY useFirefoxSync.label             "Consilio: Profilos distincte es utilisate. Usa Sync pro compartir datos inter illos.">

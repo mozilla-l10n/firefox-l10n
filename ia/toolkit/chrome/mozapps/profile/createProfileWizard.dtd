@@ -18,7 +18,7 @@
 <!ENTITY profilePrompt.label            "Inserer le nove nomine del profilo:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "Tu configurationes, preferentias e altere datos relative al usator essera reservate hic:">
-<!ENTITY profileDefaultName             "Usator ordinari">
+<!ENTITY profileDefaultName             "Usator predefinite">
 <!ENTITY button.choosefolder.label      "Eliger un dossier…">
 <!ENTITY button.choosefolder.accesskey  "C">
 <!ENTITY button.usedefault.label        "Usar le dossier predefinite">

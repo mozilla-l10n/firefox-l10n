@@ -8,7 +8,7 @@
 <!ENTITY findField.label "Que cercar:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Distinger majusculas/minusculas">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.accesskey "D">
 <!ENTITY wrapCheckbox.label "Circuir">
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY findButton.label "Trovar le sequente">
