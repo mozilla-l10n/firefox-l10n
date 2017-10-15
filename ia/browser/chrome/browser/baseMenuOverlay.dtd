@@ -9,11 +9,11 @@
 <!ENTITY windowMenu.label         "Fenestra">
 
 <!ENTITY helpMenu.label           "Adjuta"> 
-<!ENTITY helpMenu.accesskey       "H"> 
+<!ENTITY helpMenu.accesskey       "A"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Adjuta"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutProduct2.label      "A proposito de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; Adjuta">

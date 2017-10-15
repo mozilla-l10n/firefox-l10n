@@ -14,14 +14,14 @@
 <!ENTITY portrait.label      "Vertical">
 <!ENTITY portrait.accesskey  "V">
 <!ENTITY landscape.label     "Horizontal">
-<!ENTITY landscape.accesskey "L">
+<!ENTITY landscape.accesskey "H">
 
 <!ENTITY scale.label         "Scala:">
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
 <!ENTITY shrinkToFit.label   "Adaptar se al largor del pagina">
-<!ENTITY shrinkToFit.accesskey "W">
+<!ENTITY shrinkToFit.accesskey "l">
 
 <!ENTITY optionsGroup.label  "Optiones">
 

@@ -36,7 +36,7 @@
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "Modificar">
 <!ENTITY modify.accesskey "M">
-<!ENTITY toggle.label "Inverter">
+<!ENTITY toggle.label "Commutar">
 <!ENTITY toggle.accesskey "T">
 <!ENTITY reset.label "Remontar">
 <!ENTITY reset.accesskey "R">

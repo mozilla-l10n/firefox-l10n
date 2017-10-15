@@ -120,9 +120,9 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 <!ENTITY helpMenu.label               "Adjuta">
-<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenu.accesskey           "A">
 <!ENTITY helpMenuWin.label            "Adjuta">
-<!ENTITY helpMenuWin.accesskey        "H">
+<!ENTITY helpMenuWin.accesskey        "A">
 
 <!ENTITY documentationLink.label      "Adjuta del ardesia sur MDN">
 <!ENTITY documentationLink.accesskey  "D">
