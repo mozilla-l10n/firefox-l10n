@@ -878,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ট্যাবলেট মোডের জন্য স্পর্শ ব্যবহার করুন">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "স্বয়ঙ্ক্রিয়-আড়াল">
 
 <!ENTITY getUserMedia.selectCamera.label "যেসকল ক্যামেরা শেয়ার করা হবে: C">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
