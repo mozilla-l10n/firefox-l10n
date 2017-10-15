@@ -20,14 +20,14 @@
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrie-Daten">
-<!ENTITY aboutTelemetry.moreInformations "Weitere Informationen gewünscht">
+<!ENTITY aboutTelemetry.moreInformations "Weitere Informationen:">
 <!ENTITY aboutTelemetry.firefoxDataDoc "Die <a>Dokumentation von Firefox-Daten</a> enthält Anleitungen zur Verwendung unserer Datenwerkzeuge.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "Die <a>Dokumentation des Telemetrie-Clients von Firefox</a> enthält Definitionen von Konzepten, API-Dokumentationen und Erläuterungen zu den Daten.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Die <a>Telemetrie-Übersicht</a> ermöglicht die Visualisierung der Daten, welche Mozilla mittels der Telemetrie empfängt.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "In JSON-Ansicht öffnen">
 
-<!ENTITY aboutTelemetry.homeSection "Start">
+<!ENTITY aboutTelemetry.homeSection "Einführung">
 <!ENTITY aboutTelemetry.generalDataSection "Allgemeine Daten">
 <!ENTITY aboutTelemetry.environmentDataSection "Umgebungsdaten">
 <!ENTITY aboutTelemetry.sessionInfoSection "Sitzungsinformationen">
