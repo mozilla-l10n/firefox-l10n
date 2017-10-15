@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Прикажи ги сите јазичиња">
 <!ENTITY showAllTabsCmd.accesskey "П">
-<!ENTITY toggleReaderMode.key "Ч">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Најавете се на &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отвори поставки на &syncBrand.shortName.label;">
@@ -754,13 +754,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Активирај заштита">
+<!ENTITY identity.disableMixedContentBlocking.label "Исклучи заштита за сега">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "Д">
 <!ENTITY identity.learnMore "Дознај повеќе">
 
+<!ENTITY identity.removeCertException.label "Отстрани исклучок">
 <!ENTITY identity.removeCertException.accesskey "Д">
 
 <!ENTITY identity.moreInfoLinkText2 "Повеќе информации">
 
 <!ENTITY identity.permissions "Дозволи">
+<!ENTITY identity.permissionsEmpty "Немате активирано специфични дозволи за ова место.">
+<!ENTITY identity.permissionsReloadHint "Можно е да треба да ја превчитате страницата за измените да имаат ефект.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -770,6 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Синхронизирани јазичиња">
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани јазичиња">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Најавете се на Firefox од други уреди за да ги гледате нивните јазичиња овде.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизирани јазичиња… сѐ уште!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Најавете се за да видите листа на јазичиња од вашите други уреди.">
@@ -813,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "Довлечете ги вашите омилени елементи во алатникот или дополнителното мени.">
 <!ENTITY customizeMode.menuAndToolbars.empty "Сакате повеќе алатки?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
