@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY crashReports.title         "錯誤報告">
+<!ENTITY crashReports.title         "錯誤資訊報表">
 <!ENTITY crashesUnsubmitted.label   "未送出的錯誤報告">
 <!ENTITY crashesSubmitted.label     "已送出的錯誤報告">
 <!ENTITY id.heading                 "報表編號">

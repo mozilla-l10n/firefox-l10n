@@ -69,7 +69,7 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "附加元件或 Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "過濾輸出">
+<!ENTITY filterOutput.placeholder "過濾輸出資料">
 <!ENTITY btnClear.label        "清除">
 <!ENTITY btnClear.tooltip      "清除網頁主控台輸出內容">
 <!ENTITY btnClear.accesskey    "r">

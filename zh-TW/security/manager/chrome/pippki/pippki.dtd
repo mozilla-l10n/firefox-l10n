@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "使用者識別需求">
 <!ENTITY clientAuthAsk.message1 "此網站要求您提供可用來識別您自己的憑證:">
 <!ENTITY clientAuthAsk.message2 "選擇一項憑證以做為識別:">
-<!ENTITY clientAuthAsk.message3 "所選憑證細節:">
+<!ENTITY clientAuthAsk.message3 "所選憑證的詳細資訊:">
 
 <!ENTITY pkcs12.setpassword.title  "選擇憑證備份密碼">
 <!ENTITY pkcs12.setpassword.message  "在此設定的憑證備份密碼可保護您要建立的備份。 您必須設定此密碼以繼續備份。">
