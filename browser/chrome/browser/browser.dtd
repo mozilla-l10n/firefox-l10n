@@ -738,6 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Оваа страница е складирана на вашиот компјутер.">
 <!ENTITY identity.connectionVerified2 "Безбедно сте поврзани на овој веб-сајт, во сопственост на:">
 <!ENTITY identity.connectionInternal "Ова е безбедна страница на &brandShortName;.">
+<!ENTITY identity.extensionPage "Оваа страница е вчитана преку проширување.">
 <!ENTITY identity.insecureLoginForms2 "Најавувањата на оваа страница можат да бидат злоупотребени.">
 
 <!-- Strings for connection state warnings. -->
@@ -752,6 +753,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржини што не се безбедни (како на пример: слики).">
 <!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и вашата врска не е приватна.">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Активирај заштита">
 <!ENTITY identity.learnMore "Дознај повеќе">
 
 <!ENTITY identity.removeCertException.accesskey "Д">
