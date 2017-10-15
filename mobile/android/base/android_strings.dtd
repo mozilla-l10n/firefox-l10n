@@ -366,7 +366,7 @@
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "開啟的分頁">
-<!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
+<!ENTITY pref_private_data_history2 "瀏覽紀錄">
 <!ENTITY pref_private_data_searchHistory "搜尋紀錄">
 <!ENTITY pref_private_data_formdata2 "表單填寫紀錄">
 <!ENTITY pref_private_data_cookies2 "Cookie 與目前的網站登入狀態">
