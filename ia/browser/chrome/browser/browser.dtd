@@ -70,7 +70,7 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Aperir adresse…">
 <!ENTITY openFileCmd.label "Aperir un file…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configurar le pagina…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -83,7 +83,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Travaliar disconnectite">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "Barra de Menus">
+<!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de Navigation">
 <!ENTITY personalbarCmd.label "Barra de marcapaginas">
@@ -292,14 +292,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nove fenestra private">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "r">
 <!ENTITY newNonRemoteWindow.label   "Nove fenestra non e10s">
 
 <!ENTITY editMenu.label         "Edition">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "Disfacer">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Refacer">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
@@ -317,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY selectAllCmd.label         "Selectionar toto">
 <!ENTITY selectAllCmd.key         "A">
-<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY selectAllCmd.accesskey       "t">
 <!ENTITY preferencesCmd2.label       "Optiones">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
@@ -570,7 +570,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Inviar le ligamine per email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Salvar le pagina como…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "v">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
