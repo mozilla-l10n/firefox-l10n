@@ -35,7 +35,7 @@
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
-#define firefox_about Super nos
+#define firefox_about A proposito de nos
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name

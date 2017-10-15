@@ -20,8 +20,8 @@
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Claves pro accesso directe">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.label     "Claves de accesso directe">
+<!ENTITY helpKeyboardShortcuts.accesskey "C">
 
 <!ENTITY helpSafeMode.label       "Reinitiar con le additivos inactive…">
 <!ENTITY helpSafeMode.accesskey   "R">
