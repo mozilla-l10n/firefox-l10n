@@ -17,9 +17,11 @@
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Discargante le certificato">
+<!ENTITY downloadCert.message1 "On te ha demandate a confider a un nove autoritate de certification (CA).">
 <!ENTITY downloadCert.trustSSL "Fider iste CA pro identificar sitos del web.">
 <!ENTITY downloadCert.trustEmail "Fider iste CA pro identificar le e-posta del usator.">
 <!ENTITY downloadCert.trustObjSign "Fider pro iste CA pro identificar le disveloppatores de software.">
+<!ENTITY downloadCert.message3 "Ante confider a iste CA pro qualcunque proposito, tu debe examinar su certificato e su politica e proceduras (si disponibile).">
 <!ENTITY downloadCert.viewCert.label "Vider">
 <!ENTITY downloadCert.viewCert.text "Examinar le certificato de CA">
 
@@ -30,16 +32,20 @@
 <!ENTITY clientAuthAsk.message3 "Detalios de certificato seligite:">
 
 <!ENTITY pkcs12.setpassword.title  "Elige un contrasigno de backup de certificato">
+<!ENTITY pkcs12.setpassword.message  "Le contrasigno de backup del certificato que tu ha definite hic protege le file de backup que tu es a crear.  Tu debe definir iste contrasigno pro proceder con le backup.">
 <!ENTITY pkcs12.setpassword.label1 "Contrasigno de backup del certificato:">
 <!ENTITY pkcs12.setpassword.label2 "Contrasigno de backup del certificato (novemente):">
+<!ENTITY pkcs12.setpassword.reminder "Importante: Si tu oblida tu contrasigno de backup del certificato, tu non essera capace de restaurar iste backup postea.  Per favor registra lo in un loco secur.">
 
 <!ENTITY chooseToken.title  "Dialogo de election de token">
 <!ENTITY chooseToken.message1 "Por favor elige un token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generante un clave private">
+<!ENTITY createCertInfo.msg1 "Generation del clave in curso… Isto pote prender alcun minutas….">
 <!ENTITY createCertInfo.msg2 "Per favor attende…">
 
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Authentication a token protegite">
+<!ENTITY protectedAuth.msg "Per favor authentica te al token. Le methodo de authentication depende del typo de tu token.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
