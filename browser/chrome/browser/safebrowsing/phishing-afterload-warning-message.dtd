@@ -19,7 +19,7 @@
 <!ENTITY safeb.palm.advisory.desc2 "Warnung bereitgestellt von <a id='advisory_provider'/>">
 
 
-<!ENTITY safeb.blocked.malwarePage.title2 "Der Aufruf dieser Seite kann Ihnen oder Ihren Computer schaden">
+<!ENTITY safeb.blocked.malwarePage.title2 "Der Aufruf dieser Seite kann Ihnen oder Ihrem Computer schaden">
 <!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; hat diese Seite blockiert, da sie versuchen könnte, schädliche Software zu installieren, welche persönliche Informationen von Ihrem Computer stiehlt oder löscht.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> wurde als <a id='error_desc_link'>Seite mit schädlicher Software gemeldet</a>. Sie können dies <a id='report_detection'>als Fehlerkennung melden</a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "Wenn Sie mehr über schädigende Internetinhalte wie Viruses oder andere Schadsoftware und wie Sie sich und Ihren Computer davor schützen erfahren wollen, so besuchen Sie <a id='learn_more_link'>StopBadware.org</a>. Weitere Informationen zum Schutz vor Betrug und Schadsoftware in &brandShortName; stehen unter <a id='firefox_support'>support.mozilla.org</a> bereit.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Wenn Sie mehr über schädigende Internetinhalte wie Viruse oder andere Schadsoftware und wie Sie sich und Ihren Computer davor schützen erfahren wollen, so besuchen Sie <a id='learn_more_link'>StopBadware.org</a>. Weitere Informationen zum Schutz vor Betrug und Schadsoftware in &brandShortName; stehen unter <a id='firefox_support'>support.mozilla.org</a> bereit.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Diese Seite könnte schädliche Programme enthalten">
@@ -44,7 +44,7 @@
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Betrügerische Website blockiert">
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; hat diese Seite blockiert, da sie versuchen könnte, Sie mittels Tricks dazu zu bringen, Software zu installieren oder persönliche Informationen wie Passwörter oder Kreditkarten Preis zu geben.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; hat diese Seite blockiert, da sie versuchen könnte, Sie mittels Tricks dazu zu bringen, Software zu installieren oder persönliche Informationen wie Passwörter oder Kreditkarteninformationen preiszugeben.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 <!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> wurde als <a id='error_desc_link'>betrügerische Seite gemeldet</a>. Sie können dies <a id='report_detection'>als Fehlerkennung melden</a> oder aber auch <a id='ignore_warning_link'>das Risiko ignorieren</a> und diese nicht sichere Seite aufrufen.">

@@ -566,7 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label    "Lesezeichen für diesen Frame hinzufügen">
 <!ENTITY bookmarkThisFrameCmd.accesskey "z">
 <!ENTITY pageAction.copyLink.label    "Link-Adresse kopieren">
-<!ENTITY copyURLFeedback.label        "Kopieren abgeschlossen">
+<!ENTITY copyURLFeedback.label        "Kopiert">
 <!ENTITY emailPageCmd.label           "Link per E-Mail senden…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Seite speichern unter…">
@@ -805,7 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivieren Sie das Synchronisieren von Tabs, um die Tabs von Ihren anderen Geräten angezeigt zu bekommen.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronisierte Tabs suchen">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Synchronisierte Tabs durchsuchen">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Standard wiederherstellen">
 <!ENTITY customizeMode.done "Fertig">
 <!ENTITY customizeMode.titlebar "Titelleiste">
-<!ENTITY customizeMode.extraDragSpace "Zielflächen für Ziehen">
+<!ENTITY customizeMode.extraDragSpace "Fläche zum Ziehen">
 <!ENTITY customizeMode.toolbars2 "Symbolleisten">
 <!ENTITY customizeMode.lwthemes "Themes">
 <!ENTITY customizeMode.lwthemes.myThemes "Installiert">
@@ -981,7 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "Tab an Gerät senden">
 <!ENTITY sendToDevice.syncNotReady.label "Geräte werden synchronisiert…">
 
-<!ENTITY libraryButton.tooltip "Öffnen von Chronik, gespeicherte Lesezeichen und mehr">
+<!ENTITY libraryButton.tooltip "Öffnen von Chronik, Lesezeichen und mehr">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

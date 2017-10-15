@@ -49,7 +49,7 @@
 <!ENTITY  acceptCookies2.label          "Cookies von Websites akzeptieren">
 <!ENTITY  acceptCookies2.accesskey      "C">
 
-<!ENTITY  acceptThirdParty2.pre.label     "Cookies von Drittanbietern akzeptieren">
+<!ENTITY  acceptThirdParty2.pre.label     "Cookies von Drittanbietern akzeptieren:">
 <!ENTITY  acceptThirdParty2.pre.accesskey "k">
 <!ENTITY  acceptThirdParty.always.label   "Immer">
 <!ENTITY  acceptThirdParty.never.label    "Nie">
