@@ -208,6 +208,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Преведи ја оваа страница">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Менаџирање со превод на страници">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Менаџирање со користење на софтвер со DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Го блокиравте пристапот до камерата за ова мрежно место.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за ова мрежно место.">
@@ -370,7 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставки за Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од вашите други уреди.">
 <!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Управувај со уреди…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Менаџирај уреди…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи синхронизирани јазичиња во странична лента">
 
 <!ENTITY appMenuRecentHighlights.label "Скорешни интереси">
@@ -805,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Отвори ги сите во јазичиња">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "О">
-<!ENTITY syncedTabs.context.managedevices.label              "Управувај со уреди…">
+<!ENTITY syncedTabs.context.managedevices.label              "Менаџирај уреди…">
 <!ENTITY syncedTabs.context.managedevices.accesskey          "У">
 
 
@@ -829,8 +831,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Мои теми">
 <!ENTITY customizeMode.lwthemes.recommended "Препорачани">
-<!ENTITY customizeMode.lwthemes.menuManage "Управувај">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
+<!ENTITY customizeMode.lwthemes.menuManage "Менаџирај">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "М">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
 <!ENTITY customizeMode.emptyOverflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
