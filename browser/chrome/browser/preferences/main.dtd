@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "ආරම්භය">
 
+<!ENTITY startupPage2.label        "&brandShortName; ආරම්භ වන විට">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "ඔබගේ නිවාස පිටුව පෙන්වන්න">
 <!ENTITY startupBlankPage.label    "හිස් පිටුවක් පෙන්වන්න">
 <!ENTITY startupPrevSession.label  "අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න">
 
+<!ENTITY homepage2.label           "මුල්පිටුව">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "දැන් පවතින පිටුව">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "දැන් පවතින පිටුව">
@@ -15,6 +19,8 @@
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "පෙරනිමිය">
 <!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY disableExtension.label    "දිගු ක්‍රියා විරහිත කරන්න">
 
 <!ENTITY downloads.label     "බාගැනිම්">
 
@@ -29,12 +35,14 @@
 
 <!ENTITY alwaysCheckDefault2.label        "සැමවිටම &brandShortName; ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser2.label     "පෙරනිමිය ලෙස සකසන්න">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
+<!ENTITY setAsMyDefaultBrowser3.label     "පෙරනිමිය ලෙස සකසන්න…">
+<!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; is currently your default browser">
 <!ENTITY isNotDefault.label               "&brandShortName; දැනට ඔබේ පෙරනිමි ගවේශකය නොවේ">
 
 <!ENTITY separateProfileMode.label        "&brandShortName; හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න">
 <!ENTITY useFirefoxSync.label             "ඉඟිය: මෙය වෙනස් පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට සම්මුහුර්ත භාවිත කරන්න.">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; වෙත පිවිසෙන්න…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; අභිප්‍රේත විවෘත කරන්න">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; බහු-කාර්යාවලිය සක්‍රීය කරන්න">
