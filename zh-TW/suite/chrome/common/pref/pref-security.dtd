@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Privacy and Security' prefs settings -->
-<!ENTITY pref.security.title              "個人隱私與安全">
+<!ENTITY pref.security.title              "隱私權與安全性">
 
 <!ENTITY tracking.label                   "使用者追蹤">
 <!ENTITY trackingIntro.label              "某些網站可能會追蹤您的使用方式，這可能會影響您的隱私權。">
@@ -37,4 +37,3 @@
 
 <!ENTITY blockWebForgeries.label          "封鎖被回報有詐騙內容 (釣魚) 的網站">
 <!ENTITY blockWebForgeries.accesskey      "P">
-
