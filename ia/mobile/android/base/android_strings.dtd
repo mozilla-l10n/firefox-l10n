@@ -505,7 +505,8 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Navigation in schermo plen">
+<!ENTITY pref_scroll_title_bar2 "Navigation in plen schermo">
+<!ENTITY pref_scroll_title_bar_summary2 "Celar le barra de instrumentos de &brandShortName; quando rolante a basso sur un pagina">
 
 <!ENTITY pref_tab_queue_title3 "Cauda de schedas">
 
