@@ -27,8 +27,8 @@
 <!ENTITY dataCollection.label "Dane zbierane przez program &brandShortName;">
 <!ENTITY dataCollectionDesc.label "Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program &brandShortName; dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem osobistych danych.">
 <!ENTITY dataCollectionPrivacyNotice.label "Uwagi dotyczące prywatności">
-<!ENTITY enableHealthReport1.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
-<!ENTITY enableHealthReport1.accesskey "">
+<!ENTITY enableHealthReport2.label "Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.">
+<!ENTITY enableHealthReport2.accesskey "">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
 <!ENTITY alwaysSubmitCrashReports1.label "Przesyłanie raportów z awarii do Mozilli.">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "">
