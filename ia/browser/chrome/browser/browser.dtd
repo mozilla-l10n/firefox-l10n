@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "Authenticar se a &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Connecter se a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Aperir le preferentias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnecter se a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar tu conto">
@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Authenticar se a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Connecter se a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Synchronisar ora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
