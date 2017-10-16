@@ -4,7 +4,8 @@
 
 <!ENTITY  security.label                 "Ber bedo">
 
-
+<!ENTITY  warnOnAddonInstall2.label       "Niangi ka kakube teme me keto med-ikome">
+<!ENTITY  warnOnAddonInstall2.accesskey   "N">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -26,7 +27,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Pwom ki mung me donyo">
 
-
+<!ENTITY  rememberLogins2.label         "Po ikom donyo iyie ki mung me donyo pi kakube">
+<!ENTITY  rememberLogins2.accesskey     "P">
 <!ENTITY  passwordExceptions.label      "Ma kiweko woko…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 

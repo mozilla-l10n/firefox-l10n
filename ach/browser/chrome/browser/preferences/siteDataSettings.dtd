@@ -4,8 +4,6 @@
 
 <!ENTITY     window.title                  "Ter - Data me Kakube">
 <!ENTITY     hostCol.label                 "Kakube">
-
-
 <!ENTITY     searchTextboxPlaceHolder             "Yeny kakube">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kwany ma kiyero">
@@ -16,4 +14,4 @@
 <!ENTITY     cancel.accesskey              "J">
 <!ENTITY     removingDialog.title          "Kwanyo Data me Kakube">
 <!ENTITY     removingSelected.description  "Kwanyo data me kakube bene bikwanyo angija makwako ki jami me kakube mape iwiyamo. Man twero kwanyi woko ki i kakube. Imoko ada ni imito timo alokaloka?">
-<!ENTITY     siteTree.label                "Angija pi kakube magi ki bi kwanyo gi woko:">
+<!ENTITY     siteTree2.label               "Angija pi kakube magi ki bi kwanyo gi woko">
