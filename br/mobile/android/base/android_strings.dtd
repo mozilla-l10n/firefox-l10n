@@ -448,7 +448,7 @@
 <!ENTITY save_as_pdf "Enrollañ evel PDF">
 <!ENTITY print "Moullañ">
 <!ENTITY find_in_page "Kavout er bajennad">
-<!ENTITY desktop_mode "Goulenn al lec\&apos;hienn evit an urzhiataerioù">
+<!ENTITY desktop_mode "Lec\&apos;hienn urzhiataer">
 <!ENTITY page "Pajenn">
 <!ENTITY tools "Ostilhoù">
 <!ENTITY new_tab "Ivinell nevez">
@@ -485,7 +485,7 @@
 <!ENTITY contextmenu_paste "Pegañ">
 <!ENTITY contextmenu_copyurl "Eilañ ar chomlec\&apos;h">
 <!ENTITY contextmenu_edit_bookmark "Embann">
-<!ENTITY contextmenu_subscribe "Koumanantiñ d\&apos;ar bajenn-mañ">
+<!ENTITY contextmenu_subscribe "Koumanantiñ d\&apos;ar bajenn">
 <!ENTITY contextmenu_site_settings "Embann arventennoù al lec\&apos;hienn">
 <!ENTITY contextmenu_top_sites_edit "Embann">
 <!ENTITY contextmenu_top_sites_pin "Spilhennañ al lec\&apos;hienn">
@@ -493,8 +493,8 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Spilhennañ el lec\&apos;hiennoù gwellañ">
-<!ENTITY contextmenu_unpin_from_top_sites "Dispilhennañ eus al lec\&apos;hiennoù gwellañ">
+<!ENTITY contextmenu_pin_to_top_sites "Spilhennañ al lec\&apos;hienn">
+<!ENTITY contextmenu_unpin_from_top_sites "Dispilhennañ al lec\&apos;hienn">
 <!ENTITY contextmenu_add_search_engine "Ouzhpennañ ur c\&apos;heflusker klask">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
