@@ -2,29 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName;का बारेमा">
+
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
-# See about:preferences#advanced.
+# See about:preferences#general.
 -->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
-
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिकहरूका लागि जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label3               "अद्यावधिक गर्न &brandShorterName; पुन: सुरु गर्नुहोस् ।">
 <!ENTITY update.updateButton.accesskey            "R">
+
+
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-
-
 <!ENTITY warningDesc.version        "&brandShortName; परीक्षणकालमा छ त्यसैले अलि अस्थिर हुन सक्छ।">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "यसले &brandShortName;लाई राम्रो बनाउनको निम्ति कार्य सम्पादन, हार्डवयर, उपयोग र अनुकूलनहरूको जानकारी स्वचालित तरिकाले &vendorShortName;लाई पठाउँछ।">
-<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
-<!ENTITY community.exp.start        "‍ ">
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " एउटा ">
@@ -49,17 +49,17 @@
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "नयाँ के छ">
+
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-
 <!ENTITY bottomLinks.license        "इजाजतपत्रबारे जानकारी">
+
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-
 <!ENTITY bottomLinks.rights         "प्रयोगकर्ता अधिकारहरू">
+
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
-<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
+<!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "अद्यावधिक जाँच गरिँदै छ…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; नयाँ संस्करणमा छ">
@@ -68,45 +68,45 @@
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; लाई अर्को सत्रले अद्यावधिक गर्दैछ">
 <!ENTITY update.restarting          "पुनः सुरू गरिँदै…">
+
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-
 <!ENTITY update.failed.start        "अद्यावधिक असफल भयो। ">
 <!ENTITY update.failed.linkText     "नवीनतम संस्करण डाउनलोड गर्नुहोस्">
-<!ENTITY update.failed.end          "‍">
+<!ENTITY update.failed.end          "">
+
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-
 <!ENTITY update.manual.start        "अद्यावधिकहरू यहाँ उपलब्ध छन् ">
-<!ENTITY update.manual.end          "‍‍">
+<!ENTITY update.manual.end          "">
+
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-
 <!ENTITY update.unsupported.start    "यो सिस्टममा तपाईँले अरू अद्यावधिकहरू गर्न सक्नुहुन्न।">
 <!ENTITY update.unsupported.linkText "अझ जान्नुहोस्">
-<!ENTITY update.unsupported.end      "‍">
+<!ENTITY update.unsupported.end      "">
+
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-
 <!ENTITY update.downloading.start   "अद्यावधिकहरू डाउनलोड हुदैँछन् — ">
-<!ENTITY update.downloading.end     "‍">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "अद्यावधिक लागू गरिँदै…">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-
 <!ENTITY channel.description.start  "तपाईँ अहिले भएको स्थान ">
 <!ENTITY channel.description.end    " अद्यावधिक प्रणालीमा हुनुहुन्छ।">

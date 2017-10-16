@@ -18,7 +18,8 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "निजी सञ्झ्यालहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "ज्ञात ट्रयाकरहरू रोक्न निजि ब्राउजिङ्गमा ट्रयाकिङ्ग सुरक्षा प्रयोग गर्नुहोस्">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
@@ -72,7 +73,7 @@
 <!ENTITY  historyHeader.remember.label     "इतिहास सम्झिनुहोस्">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिनुहोस्">
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
-<!ENTITY  historyHeader.post.label         "‌">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ्ग ,डाउनलोडिङ ,फर्म ,खोजी इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
 

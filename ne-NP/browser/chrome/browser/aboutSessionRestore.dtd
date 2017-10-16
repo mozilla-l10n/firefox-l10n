@@ -46,7 +46,7 @@ Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
 <!ENTITY welcomeback2.beforelink.pageInfo2  "तपाईँको एडअनहरू र अनुकूलनहरू हटाइएको छ र तपाईँको ब्राउजरको पुर्वनिर्धारित सेटिङहरू पुनर्स्थापना गरिएको छ। यदि यसले तपाईँको समस्याको समाधान गरेन भने, ">
-<!ENTITY welcomeback2.afterlink.pageInfo2   "‌">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "तपाईँ के गर्न सक्नुहुन्छ थप जान्नुहोस्।">
 

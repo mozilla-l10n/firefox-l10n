@@ -39,7 +39,7 @@ signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "‌">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "प्रमाणित गरिएको छैन।">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
@@ -48,7 +48,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.beforename.label "कृपया पुनः जडान गर्न साइन-इन गर्नुहोस्">
-<!ENTITY signedInLoginFailure.aftername.label "‌">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "तपाईंँले साइन इन गर्नुभएको छैन।">
 <!ENTITY signIn.label                "साइन इन गर्नुहोस्">

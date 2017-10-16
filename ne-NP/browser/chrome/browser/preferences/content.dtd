@@ -63,7 +63,7 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.beforeLogo "अनुवादकर्ता">
-<!ENTITY translation.options.attribution.afterLogo "‌">
+<!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY  drmContent2.label              "डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री">
 
