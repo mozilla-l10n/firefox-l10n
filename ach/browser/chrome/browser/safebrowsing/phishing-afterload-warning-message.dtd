@@ -20,6 +20,7 @@
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Limo kakube man romo balo kompiuta mamegi">
+<!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; ogengo potbuk man pien twero teme me keto purugram marac ma romo kwalo onyo kwanyo ngec mamegi ma i kompiuta ni.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -27,6 +28,7 @@
 
 
 
+<!ENTITY safeb.blocked.unwantedPage.title2 "Kakube ma tye anyim ni twero bedo ki purugram maraco">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
@@ -34,12 +36,14 @@
 
 
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Kakube me bwola tye anyim">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
 
 
 
+<!ENTITY safeb.blocked.harmfulPage.title "Kakube ma tye anyim ni twero bedo ki purugram marac">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
