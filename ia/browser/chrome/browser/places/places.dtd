@@ -47,11 +47,11 @@
 <!ENTITY cmd.open.label                  "Aperir">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Aperir in un nove fenestra">
-<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_window.accesskey       "f">
 <!ENTITY cmd.open_private_window.label     "Aperir in un nove fenestra private">
-<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_private_window.accesskey "p">
 <!ENTITY cmd.open_tab.label              "Aperir in un nove scheda">
-<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_all_in_tabs.label      "Aperir toto in schedas">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
@@ -85,7 +85,7 @@
 <!ENTITY col.dateadded.label     "Addite">
 <!ENTITY col.lastmodified.label  "Ultime modification">
 
-<!ENTITY historySearch.placeholder  "Chronologia del recercas">
+<!ENTITY historySearch.placeholder  "Cercar in le chronologia">
 <!ENTITY bookmarksSearch.placeholder  "Cercar in le marcapaginas">
 
 <!ENTITY cmd.find.key  "f">
@@ -105,7 +105,7 @@
 <!ENTITY detailsPane.selectAnItemText.description "Selectiona un elemento pro vider e editar su proprietates">
 
 <!ENTITY view.label               "Vider">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "r">
 <!ENTITY byDate.label             "Per data">
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "Per sito">

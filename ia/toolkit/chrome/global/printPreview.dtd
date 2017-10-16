@@ -4,7 +4,7 @@
 
 <!ENTITY print.label          "Impression…">
 <!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Arrangiamento del pagina…">
+<!ENTITY pageSetup.label      "Configurar le pagina…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Pagina:">
 <!ENTITY page.accesskey       "a">
@@ -12,9 +12,9 @@
 <!ENTITY scale.label          "Scala:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "Vertical">
-<!ENTITY portrait.accesskey   "o">
+<!ENTITY portrait.accesskey   "V">
 <!ENTITY landscape.label      "Horizontal">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "H">
 <!ENTITY close.label          "Clauder">
 <!ENTITY close.accesskey      "C">
 <!ENTITY p30.label            "30&#037;">
