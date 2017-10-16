@@ -92,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_folder_updated "Plica actualisate">
 <!ENTITY bookmark_parent_folder "Dossier genitor">
 <!ENTITY bookmark_add_folder "Adder un nove plica">
 
@@ -449,6 +450,9 @@
 <!ENTITY close_private_tabs "Clauder le schedas private">
 <!ENTITY tabs_normal "Schedas">
 <!ENTITY tabs_private "Private">
+<!ENTITY set_image_fail "Impossibile eliger iste imagine">
+<!ENTITY set_image_path_fail "Impossibile salvar le imagine">
+<!ENTITY set_image_chooser_title "Definir le imagine como">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -500,6 +504,7 @@
 <!ENTITY doorhanger_login_edit_password_hint "Contrasigno">
 <!ENTITY doorhanger_login_edit_toggle "Monstrar le contrasigno">
 <!ENTITY doorhanger_login_select_message "Copiar le contrasigno ex &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Contrasigno copiate in le area de tranferentia">
 <!ENTITY doorhanger_login_select_action_text "Eliger un altere conto">
 <!ENTITY doorhanger_login_select_title "Copiar contrasigno ex">
 
@@ -740,6 +745,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation_description "Adder characteristicas o functionalitates a Firefox. Nota: le additivos pote inactivar certe restrictiones.">
 <!ENTITY restrictable_feature_private_browsing "Navigation private">
 <!ENTITY restrictable_feature_clear_history "Clarar le chronologia">
+<!ENTITY restrictable_feature_advanced_settings "Definitiones avantiate">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto include importar le marcapaginas, restaurar le schedas e actualisationes automatisate. Inactiva lo si tu vole parametros simplificate e convenibile pro qualcunque membro del familia.">
 <!ENTITY restrictable_feature_block_list "Lista de blocage">
 
@@ -763,6 +769,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; es actualisate">
+<!ENTITY whatsnew_notification_summary "Discoperi que es nove in iste version">
 
 <!ENTITY promotion_add_to_homescreen "Adder al schermo de initio">
 
