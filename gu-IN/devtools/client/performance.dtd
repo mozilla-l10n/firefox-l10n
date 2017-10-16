@@ -36,6 +36,8 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS ફ્લેમ ચાર્ટ">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "ફાળવણી ફ્લેમ ચાર્ટ">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
