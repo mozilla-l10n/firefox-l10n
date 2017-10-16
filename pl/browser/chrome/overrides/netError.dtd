@@ -16,8 +16,9 @@
 <!ENTITY deniedPortAccess.title "Zastrzeżony adres">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Nie odnaleziono adresu">
-<!ENTITY dnsNotFound.longDesc "<ul><li>Sprawdź, czy adres nie zawiera literówek jak np. <strong>ww</strong>.example.com zamiast <strong>www</strong>.example.com</li><li>Jeśli nie można otworzyć żadnej strony, sprawdź swoje połączenie sieciowe.</li><li>Jeśli ten komputer jest chroniony przez zaporę sieciową lub serwer proxy, sprawdź, czy program &brandShortName; jest uprawniony do łączenia się z Internetem.</li></ul>">
+<!ENTITY dnsNotFound.pageTitle "Nie odnaleziono serwera">
+<!ENTITY dnsNotFound.title1 "Niestety, nie udało się odnaleźć tej strony">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Jeśli adres jest prawidłowy, można jeszcze spróbować:</strong><li>otworzyć stronę później</li><li>sprawdzić połączenie z Internetem</li><li>jeśli ten komputer jest chroniony przez zaporę sieciową, sprawdzić, czy &brandShortName; jest uprawniony do łączenia się z siecią.</li>">
 
 <!ENTITY fileNotFound.title "Nie odnaleziono pliku">
 <!ENTITY fileNotFound.longDesc "<ul><li>Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.</li><li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li></ul>">
