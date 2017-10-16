@@ -8,7 +8,7 @@
 <!ENTITY warnOnAddonInstall2.accesskey "">
 
 <!ENTITY browsingProtection.label "Ochrona przed oszustwami i niebezpiecznym oprogramowaniem">
-<!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
+<!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści.">
 <!ENTITY enableSafeBrowsing.accesskey "">
 <!ENTITY blockDownloads.label "Blokowanie możliwości pobierania niebezpiecznych plików">
 <!ENTITY blockDownloads.accesskey "">

@@ -98,3 +98,5 @@
 <!ENTITY a11yPrivacy.checkbox.label "Blokowanie dostępu do przeglądarki usługom ułatwień dostępu.">
 <!ENTITY a11yPrivacy.checkbox.accesskey "">
 <!ENTITY a11yPrivacy.learnmore.label "Więcej informacji">
+
+<!ENTITY enableSafeBrowsingLearnMore.label "Więcej informacji">
