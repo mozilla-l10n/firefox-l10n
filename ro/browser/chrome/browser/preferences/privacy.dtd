@@ -18,14 +18,15 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Folosește protecția față de urmărire în ferestre private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți">
 <!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Află mai multe">
 <!ENTITY changeBlockList2.label               "Schimbă lista de blocări">
 <!ENTITY changeBlockList2.accesskey           "c">
 
-<!ENTITY  doNotTrack.description        "Trimite site-urilor web un semnal „Do Not Track” prin care nu dorești să fii urmărit">
+<!ENTITY  doNotTrack.description        "Trimite site-urilor web un semnal „Nu urmări” prin care nu dorești să fii urmărit">
 <!ENTITY  doNotTrack.learnMore.label    "Află mai multe">
 <!ENTITY  doNotTrack.default.label      "Doar când se folosește protecția față de urmărire">
 <!ENTITY  doNotTrack.always.label       "Întotdeauna">

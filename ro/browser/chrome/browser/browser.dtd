@@ -83,10 +83,10 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY navbarCmd.label "Bară de navigare">
-<!ENTITY personalbarCmd.label "Bara marcajelor">
+<!ENTITY navbarCmd.label "Bara de navigare">
+<!ENTITY personalbarCmd.label "Bara de marcaje">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Elemente pe bara marcajelor">
+<!ENTITY bookmarksToolbarItem.label "Elemente pe bara de marcaje">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Reîncarcă toate filele">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
