@@ -205,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Berichtpaneel openen">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Paneel voor locatieaanvraag openen">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Berichtpaneel voor add-on-installatie openen">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas-extractietoestemming beheren">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Berichtpaneel voor offlineopslag openen">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Berichtpaneel voor opslaan van wachtwoord openen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plug-in-gebruik beheren">
