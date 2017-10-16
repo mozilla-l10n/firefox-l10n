@@ -75,7 +75,7 @@
 <!ENTITY projectPanel_tabs "Schedas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_other "Alteros">
+<!ENTITY runtimePanel_other "Alteres">
 <!ENTITY runtimePanel_noadbhelper "Installar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu apparato?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le apparatos">

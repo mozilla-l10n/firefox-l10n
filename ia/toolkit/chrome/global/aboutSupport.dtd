@@ -101,7 +101,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Base de datos de locos">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integritate">
-<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica de integritate">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verificar le integritate">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incremental">
@@ -134,7 +134,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinitiar con le additivos inactive…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Functionalitates">
-<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostica">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnostico">
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Registro de falta">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">

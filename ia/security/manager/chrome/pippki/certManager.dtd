@@ -37,7 +37,7 @@
 <!ENTITY certmgr.editcacert.title             "Editar le parametros de confidentia del CA">
 <!ENTITY certmgr.editcert.edittrust           "Rediger le definitiones de confidentialitate:">
 <!ENTITY certmgr.editcert.trustssl            "Iste certificato pote identificar sitos web.">
-<!ENTITY certmgr.editcert.trustemail          "Iste certificato pote identificar usatores de e-posta.">
+<!ENTITY certmgr.editcert.trustemail          "Iste certificato pote identificar usatores de email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Iste certificato pote identificar developpatores de software.">
 
 <!ENTITY certmgr.deletecert.title             "Deler le certificato">

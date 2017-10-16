@@ -12,7 +12,7 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stato del ultime actualisation">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualisation">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
-<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Actualisar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Clarar">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Nomine del tabella">
 <!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Numero de entratas de cache negative">
