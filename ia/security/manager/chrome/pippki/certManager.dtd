@@ -5,10 +5,10 @@
 <!ENTITY certmgr.title                       "Gestor de certificatos">
 
 <!ENTITY certmgr.tab.mine                     "Tu certificatos">
-<!ENTITY certmgr.tab.others2                  "Gente">
+<!ENTITY certmgr.tab.others2                  "Personas">
 <!ENTITY certmgr.tab.websites3                "Servitores">
 <!ENTITY certmgr.tab.ca                       "Autoritates">
-<!ENTITY certmgr.tab.orphan2                  "Alteros">
+<!ENTITY certmgr.tab.orphan2                  "Alteres">
 
 <!ENTITY certmgr.mine2                        "Tu ha certificatos ex iste organisationes que identifica te">
 <!ENTITY certmgr.others2                      "Tu ha certificatos sur le file que identifica iste personas">
@@ -63,10 +63,10 @@
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "Deler o non confider plus…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "Backup…">
-<!ENTITY certmgr.backup2.accesskey            "B">
-<!ENTITY certmgr.backupall2.label             "Backup de toto…">
-<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.backup2.label                "Salveguardar…">
+<!ENTITY certmgr.backup2.accesskey            "S">
+<!ENTITY certmgr.backupall2.label             "Salveguardar toto…">
+<!ENTITY certmgr.backupall2.accesskey         "t">
 <!ENTITY certmgr.restore2.label               "Importar…">
 <!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "Campos del certificato">

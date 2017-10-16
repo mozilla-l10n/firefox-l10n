@@ -34,8 +34,8 @@
 <!ENTITY importOtherBrowser.label          "Importar datos ab un altere navigator…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
-<!ENTITY cmd.backup.label               "Backup…">
-<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.backup.label               "Salveguardar…">
+<!ENTITY cmd.backup.accesskey           "S">
 <!ENTITY cmd.restore2.label             "Restaurar">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Eliger un file…">
@@ -90,18 +90,18 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Importar e facer backup">
+<!ENTITY maintenance.label      "Importar e salveguardar">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importar e facer backup de tu marcapaginas">
+<!ENTITY maintenance.tooltip    "Importar e salveguardar tu marcapaginas">
 
 <!ENTITY backButton.tooltip  "Regressar">
 
 <!ENTITY forwardButton.tooltip  "Avantiar">
 
 <!ENTITY detailsPane.more.label "Plus">
-<!ENTITY detailsPane.more.accesskey "e">
+<!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Minus">
-<!ENTITY detailsPane.less.accesskey "e">
+<!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Selectiona un elemento pro vider e editar su proprietates">
 
 <!ENTITY view.label               "Vider">

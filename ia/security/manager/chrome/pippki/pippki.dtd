@@ -31,11 +31,11 @@
 <!ENTITY clientAuthAsk.message2 "Elige un certificato a presentar como identification:">
 <!ENTITY clientAuthAsk.message3 "Detalios de certificato seligite:">
 
-<!ENTITY pkcs12.setpassword.title  "Elige un contrasigno de backup de certificato">
-<!ENTITY pkcs12.setpassword.message  "Le contrasigno de backup del certificato que tu ha definite hic protege le file de backup que tu es a crear.  Tu debe definir iste contrasigno pro proceder con le backup.">
-<!ENTITY pkcs12.setpassword.label1 "Contrasigno de backup del certificato:">
-<!ENTITY pkcs12.setpassword.label2 "Contrasigno de backup del certificato (novemente):">
-<!ENTITY pkcs12.setpassword.reminder "Importante: Si tu oblida tu contrasigno de backup del certificato, tu non essera capace de restaurar iste backup postea.  Per favor registra lo in un loco secur.">
+<!ENTITY pkcs12.setpassword.title  "Elige un contrasigno de salveguarda de certificato">
+<!ENTITY pkcs12.setpassword.message  "Le contrasigno de salveguarda del certificato que tu ha definite hic protege le file de backup que tu es a crear.  Tu debe definir iste contrasigno pro proceder con le salveguarda.">
+<!ENTITY pkcs12.setpassword.label1 "Contrasigno de salveguarda del certificato:">
+<!ENTITY pkcs12.setpassword.label2 "Contrasigno de salveguarda del certificato (novemente):">
+<!ENTITY pkcs12.setpassword.reminder "Importante: Si tu oblida tu contrasigno de salveguarda del certificato, tu non essera capace de restaurar iste salveguarda postea.  Per favor registra lo in un loco secur.">
 
 <!ENTITY chooseToken.title  "Dialogo de election de token">
 <!ENTITY chooseToken.message1 "Por favor elige un token.">
