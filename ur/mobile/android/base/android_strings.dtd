@@ -285,6 +285,7 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; میں کھولیں">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "نقل شدہ URL">
 
@@ -337,6 +338,7 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "نظام فانٹ استعمال کریں">
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
@@ -490,6 +492,8 @@
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "بہترین سائٹ میں صفہ پن کریں">
+<!ENTITY unpinned_page_from_top_sites "بہترین سائٹ سے ان پن شدہ صفہ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -604,6 +608,7 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "پن شدہ سائٹ">
+<!ENTITY home_unpinned_site "ان پن شدہ سائٹ">
 
 <!ENTITY remote_tabs_panel_moved_title "میرے ٹیب کہاں گئے؟">
 <!ENTITY remote_tabs_panel_moved_desc "ہم نے دیگر آلات سے آپ کی ٹیبیں آپ کے ابتدائی صفحہ کے ایک پینل میں منتقل کر دیے ہیں جو کہ آپ کے نئے ٹیب کھولنے پر آسانی سے رسائی پذیر ہے۔">
@@ -833,3 +838,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY private_tab_panel_description2 "ہم کوئی سابقات یاد نہیں رکھتے، لیکن ڈاؤن لوڈ کی گئ مسلیں اور نئ نشانیاںآپ کے آلہ پر مہفوظ ہونگی۔">
 <!ENTITY private_tab_learn_more "مزید سیکھنا چاہیں گے؟">
 
+<!ENTITY fullscreen_warning "پوری اسکرین میں داخل ہو گیا">
