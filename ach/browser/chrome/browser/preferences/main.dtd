@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "Dwok i makwongo">
 <!ENTITY restoreDefault.accesskey  "D">
 
+<!ENTITY disableExtension.label    "Juk lamed">
+
 <!ENTITY downloads.label     "Gam">
 
 <!ENTITY saveTo.label "Gwok pwail bot">

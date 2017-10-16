@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Angija magi kikano i komputa ni:">
+<!ENTITY     cookiesonsystem2.label         "Kigwoko angija magi i kompiuta mamegi">
 <!ENTITY     cookiename.label               "Nying cookie">
 <!ENTITY     cookiedomain.label             "Kakube">
 
@@ -19,7 +19,6 @@
 <!ENTITY     window.title                   "Angija">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
-<!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Yeny">
 <!ENTITY     searchFilter.accesskey         "Y">

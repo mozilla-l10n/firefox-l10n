@@ -5,7 +5,7 @@
 <!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Leb">
-<!ENTITY languages.customize.description                "Pot buk me kakube kare mukene ki mio i leb makato acel. Yer leb pi yaro pot buk me kakube magi, malube ki miti mamegi:">
+<!ENTITY languages.customize2.description               "Potbuk me kakube kare mogo kikelo i leb makato acel. Yer leb me yaro potbuk magi, kit ma imito">
 <!ENTITY languages.customize.moveUp.label               "Kob Malo">
 <!ENTITY languages.customize.moveUp.accesskey           "M">
 <!ENTITY languages.customize.moveDown.label             "Kob Piny">
