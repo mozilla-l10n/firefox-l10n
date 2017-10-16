@@ -32,8 +32,7 @@
 <!ENTITY captivePortal.longDesc2 "<p>Ta sieć wymaga zalogowania, aby uzyskać dostęp do Internetu.</p>">
 <!ENTITY openPortalLoginPage.label2 "Zaloguj się do sieci">
 
-<!ENTITY malformedURI.title "Nieprawidłowy adres">
-<!ENTITY malformedURI.longDesc "<ul><li>Adresy internetowe są zwykle postaci <strong>http://www.example.com/</strong></li><li>Należy sprawdzić, czy adres zawiera prawidłowe ukośniki (tzn. <strong>/</strong>).</li></ul>">
+<!ENTITY malformedURI.title1 "Niestety, ten adres nie wygląda dobrze">
 
 <!ENTITY netInterrupt.title "Przerwane połączenie">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
