@@ -91,6 +91,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "jami &formatD;">
 <!ENTITY bookmark_folder_one_item "Jami 1">
+<!ENTITY bookmark_folder_updated "Kiketo ngec manyen i boc">
 <!ENTITY bookmark_parent_folder "Boc makwongo">
 <!ENTITY bookmark_add_folder "Med boc manyen">
 
