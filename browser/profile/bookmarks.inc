@@ -4,148 +4,69 @@
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-
 # your locale code, and link to your translated pages as soon as they're
-
 # live.
 
-
 #define bookmarks_title Marcaje
-
-
 #define bookmarks_heading Marcaje
 
-
 #define bookmarks_toolbarfolder Dosarul „Bară pentru marcaje”
-
-
 #define bookmarks_toolbarfolder_description Adaugă marcajele în acest dosar pentru a le vedea afișate pe bara marcajelor
 
-
 # LOCALIZATION NOTE (getting_started):
-
-
 # link title for https://www.mozilla.org/en-US/firefox/central/
-
-
 #define getting_started Ghid pentru începători
 
-
 # LOCALIZATION NOTE (firefox_heading):
-
-
 # Firefox links folder name
-
-
 #define firefox_heading Mozilla Firefox
 
-
 # LOCALIZATION NOTE (firefox_help):
-
-
 # link title for https://www.mozilla.org/en-US/firefox/help/
-
-
 #define firefox_help Ajutor și tutoriale
 
-
 # LOCALIZATION NOTE (firefox_customize):
-
-
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-
-
 #define firefox_customize Personalizează Firefox
 
-
 # LOCALIZATION NOTE (firefox_community):
-
-
 # link title for https://www.mozilla.org/en-US/contribute/
-
-
 #define firefox_community Implicați-vă
 
-
 # LOCALIZATION NOTE (firefox_about):
-
-
 # link title for https://www.mozilla.org/en-US/about/
-
-
 #define firefox_about Despre noi
 
-
 # LOCALIZATION NOTE (nightly_heading):
-
-
 # Firefox Nightly links folder name
-
-
 #define nightly_heading Resurse Firefox Nightly
 
-
 # LOCALIZATION NOTE (nightly_blog):
-
-
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-
-
 #define nightly_blog Blogul Firefox Nightly
 
-
 # LOCALIZATION NOTE (bugzilla):
-
-
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-
-
 #define bugzilla Bug Tracker Mozilla
 
-
 # LOCALIZATION NOTE (mdn):
-
-
 # Nightly builds only, link title for https://developer.mozilla.org/
-
-
 #define mdn Mozilla Developer Network
 
-
 # LOCALIZATION NOTE (nightly_tester_tools):
-
-
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
-
-
-#define nightly_tester_tools Unelte pentru testare Nightly
-
+#define nightly_tester_tools Instrumente pentru testare Nightly
 
 # LOCALIZATION NOTE (crashes):
-
-
 # Nightly builds only, link title for about:crashes
-
-
 #define crashes Toate închiderile neașteptate
 
-
 # LOCALIZATION NOTE (irc):
-
-
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-
-
 #define irc Discută Nightly pe IRC
 
-
 # LOCALIZATION NOTE (planet):
-
-
 # Nightly builds only, link title for https://planet.mozilla.org/
-
-
 #define planet Planeta Mozilla
-
 
 #unfilter emptyLines
