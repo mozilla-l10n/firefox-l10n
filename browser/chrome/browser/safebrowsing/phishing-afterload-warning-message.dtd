@@ -40,6 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> એ <a id='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે </a>.">
 
+<!ENTITY safeb.blocked.unwantedPage.learnMore "હાનિકારક અને અનિચ્છિત સૉફ્ટવેર વિશે <a id='learn_more_link'>અનિચ્છિત સૉફ્ટવેર નીતિ</a>પર વધુ જાણો. <a id='firefox_support'>support.mozilla.org</a>પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "આગળની સાઈટ ભ્રામક છે">
