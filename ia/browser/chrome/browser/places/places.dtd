@@ -19,9 +19,9 @@
 <!ENTITY view.columns.label             "Monstrar le columnas">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Ordinar">
-<!ENTITY view.sort.accesskey            "S">
-<!ENTITY view.unsorted.label            "Non ordinate">
-<!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sort.accesskey            "O">
+<!ENTITY view.unsorted.label            "Sin ordine">
+<!ENTITY view.unsorted.accesskey        "S">
 <!ENTITY view.sortAscending.label       "Ordine crescente">
 <!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "Ordine decrescente">

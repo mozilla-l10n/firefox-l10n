@@ -852,9 +852,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "Mi themas">
 <!ENTITY customizeMode.lwthemes.recommended "Recommendate">
 <!ENTITY customizeMode.lwthemes.menuManage "Gerer">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener plus themas">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.emptyOverflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
 <!ENTITY customizeMode.overflowList.title2 "Menu disbordante">
 <!ENTITY customizeMode.overflowList.description "Trahe e depone le elementos hic pro guardar los a mano, ma foras tu barra de instrumentos…">
