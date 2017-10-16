@@ -40,6 +40,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "કુલ સમય">
+<!ENTITY performanceUI.table.selfDuration             "સ્વયં સમય">
+<!ENTITY performanceUI.table.totalPercentage          "કુલ ખર્ચ">
+<!ENTITY performanceUI.table.selfPercentage           "સ્વયં ખર્ચ">
+<!ENTITY performanceUI.table.samples                  "નમૂનાઓ">
 <!ENTITY performanceUI.table.function                 "કાર્ય">
 <!ENTITY performanceUI.table.function.tooltip         "નમૂનાપૂર્ણ કાર્યનું નામ અને સ્રોત સ્થાન.">
 
@@ -72,10 +76,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "મેમરી રેકોર્ડ કરો">
+<!ENTITY performanceUI.enableMemory.tooltiptext "પ્રોગ્રામિંગ વખતે મેમરી વપરાશ રેકોર્ડ કરો.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableAllocations             "રેકોર્ડ ફાળવણી">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
@@ -90,3 +97,4 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandEnd   "કન્સોલમાં.">
