@@ -69,7 +69,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; debe">
-<!ENTITY  historyHeader2.pre.accesskey     "w">
+<!ENTITY  historyHeader2.pre.accesskey     "d">
 <!ENTITY  historyHeader.remember.label     "Memorisar le chronologia">
 <!ENTITY  historyHeader.dontremember.label "Non memorisar jammais le chronologia">
 <!ENTITY  historyHeader.custom.label       "Usar parametros personalisate pro le chronologia">
@@ -113,7 +113,7 @@
 <!ENTITY  browserContainersEnabled.label        "Activar le schedas contextual">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Parametros…">
-<!ENTITY  browserContainersSettings.accesskey    "i">
+<!ENTITY  browserContainersSettings.accesskey    "P">
 
 <!ENTITY  a11yPrivacy.checkbox.label     "Impedir que le servicios de accessibilitate accede a tu navigator">
 <!ENTITY  a11yPrivacy.checkbox.accesskey "a">

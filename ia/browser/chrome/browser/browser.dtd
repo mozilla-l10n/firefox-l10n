@@ -47,7 +47,7 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.label              "Inviar le scheda a un apparato">
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Inviar le pagina a un apparato">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Inviar le ligamine a un apparato">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "Inviate!">
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimer">
 <!ENTITY printButton.tooltip          "Imprimer iste pagina">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Vider informationes del sito">
+<!ENTITY urlbar.viewSiteInfo.label                      "Vider le informationes del sito">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Aperir le pannello de messages">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Aperi le pannello de requesta de geolocalisation">
@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "Inspectar elemento">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "e">
 
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
@@ -533,16 +533,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recargar le quadro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Vider codice fonte del selection">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vider codice fonte MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Vider le codice fonte del selection">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Vider le codice fonte MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "Vider codice fonte del pagina">
-<!ENTITY viewPageSourceCmd.accesskey  "Y">
-<!ENTITY viewFrameSourceCmd.label     "Vider codice fonte del quadro">
+<!ENTITY viewPageSourceCmd.label      "Vider le codice fonte del pagina">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "Vider le codice fonte del quadro">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Vider informationes del pagina">
+<!ENTITY viewPageInfoCmd.label        "Vider le informationes del pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Vider informationes sur le quadro">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
@@ -550,7 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Vider le imagine">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Vider informationes del imagine">
+<!ENTITY viewImageInfoCmd.label       "Vider le informationes del imagine">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Vider le description">
 <!ENTITY viewImageDescCmd.accesskey   "D">

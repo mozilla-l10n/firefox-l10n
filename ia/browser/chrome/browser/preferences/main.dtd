@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "Initio">
+<!ENTITY startup.label             "A initiar">
 
-<!ENTITY startupPage2.label        "Durante que &brandShortName; initia">
+<!ENTITY startupPage2.label        "Quando &brandShortName; es initiate">
 <!ENTITY startupPage2.accesskey    "i">
 <!ENTITY startupUserHomePage.label "Monstra tu pagina initial">
 <!ENTITY startupBlankPage.label    "Monstra un pagina vacue">
@@ -16,7 +16,7 @@
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Usar le paginas actual">
 <!ENTITY chooseBookmark.label      "Usar un marcapaginas…">
-<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.accesskey  "m">
 <!ENTITY restoreDefault.label      "Restaurar le predefinition">
 <!ENTITY restoreDefault.accesskey  "R">
 

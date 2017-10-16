@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Modificar le contrasigno maestro">
-<!ENTITY setPassword.tokenName.label "Apparato de securitate">
+<!ENTITY setPassword.tokenName.label "Dispositivo de securitate">
 <!ENTITY setPassword.oldPassword.label "Contrasigno actual:">
 <!ENTITY setPassword.newPassword.label "Nove contrasigno:">
 <!ENTITY setPassword.reenterPassword.label "Nove contrasigno (novemente):">

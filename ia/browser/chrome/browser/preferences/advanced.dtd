@@ -132,7 +132,7 @@ available. -->
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts2.label                "Vider le certificatos…">
 <!ENTITY viewCerts2.accesskey            "C">
-<!ENTITY viewSecurityDevices2.label      "Apparatos de securitate…">
+<!ENTITY viewSecurityDevices2.label      "Dispositivos de securitate…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Rendimento">
