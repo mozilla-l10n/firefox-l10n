@@ -697,7 +697,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "т">
 
-<!ENTITY toggleMuteCmd.key              "М">
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Стил на страница">
 <!ENTITY pageStyleMenu.accesskey "л">
