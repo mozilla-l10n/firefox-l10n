@@ -38,7 +38,7 @@
 <!ENTITY  defaultSize2.label          "ზომა">
 <!ENTITY  defaultSize2.accesskey      "ზ">
 
-<!ENTITY  advancedFonts.label         "დამატებითი…">
+<!ENTITY  advancedFonts.label         "დამატებით…">
 <!ENTITY  advancedFonts.accesskey     "დ">
 
 <!ENTITY  colors.label                "ფერები…">
