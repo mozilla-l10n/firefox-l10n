@@ -612,11 +612,13 @@
 
 <!ENTITY remote_tabs_panel_moved_title "Ubi iva mi schedas?">
 <!ENTITY remote_tabs_panel_moved_desc "Nos moveva tu schedas de altere apparatos a un pannello in tu pagina de initio facilemente accessibile cata vice que tu aperi un scheda nove.">
+<!ENTITY remote_tabs_panel_moved_link "Monstrar mi nove pannello.">
 
 <!ENTITY pin_site_dialog_hint "Inserer un parola recercar">
 
 <!ENTITY filepicker_title "Optar un dossier">
 <!ENTITY filepicker_audio_title "Optar o registrar un sono">
+<!ENTITY filepicker_image_title "Eliger o prender un photo">
 <!ENTITY filepicker_video_title "Eligerr o registrar un video">
 
 <!-- Site identity popup -->
@@ -634,8 +636,12 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexion secur">
 <!ENTITY identity_connection_insecure "Connexion insecur">
+<!ENTITY identity_connection_chromeui "Isto es un pagina secur de &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ha blocate contento insecur in iste pagina.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha blocate parte del contento insecur in iste pagina.">
+<!ENTITY mixed_content_display_loaded1 "Partes de iste pagina non es secur (tal como le imagines).">
 <!ENTITY mixed_content_protection_disabled1 "Tu ha disactivate le protection de contento insecur.">
 
 <!-- Tracking content notifications in site identity popup -->
