@@ -63,10 +63,10 @@
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Nove marcapaginas…">
-<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_bookmark.accesskey        "m">
 <!ENTITY cmd.new_folder.label              "Nove dossier…">
 <!ENTITY cmd.new_folder.accesskey          "o">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.context_new_folder.accesskey  "d">
 <!ENTITY cmd.new_separator.label           "Nove separator">
 <!ENTITY cmd.new_separator.accesskey       "S">
 

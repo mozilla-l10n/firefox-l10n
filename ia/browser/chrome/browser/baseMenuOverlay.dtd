@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "A">
 <!ENTITY aboutProduct2.label      "A proposito de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShorterName; Adjuta">
+<!ENTITY productHelp2.label       "Adjuta de &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 

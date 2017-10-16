@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "Initio">
 
 <!ENTITY startupPage2.label        "Durante que &brandShortName; initia">
-<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupPage2.accesskey    "i">
 <!ENTITY startupUserHomePage.label "Monstra tu pagina initial">
 <!ENTITY startupBlankPage.label    "Monstra un pagina vacue">
 <!ENTITY startupPrevSession.label  "Monstra le fenestras e schedas de tu ultime vice">

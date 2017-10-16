@@ -6,7 +6,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "Aperir schedas in vice de fenestras">
-<!ENTITY newWindowsAsTabs.accesskey   "w">
+<!ENTITY newWindowsAsTabs.accesskey   "f">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Advertir te quando tu claude multiple schedas">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
@@ -18,5 +18,5 @@
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Monstrar vistas preliminar del schedas in le barra de cargas de Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY showTabsInTaskbar.accesskey      "v">
 <!ENTITY tabsGroup.label          "Schedas">

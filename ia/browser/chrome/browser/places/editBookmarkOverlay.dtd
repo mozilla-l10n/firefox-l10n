@@ -5,7 +5,7 @@
 <!ENTITY editBookmarkOverlay.name.label                      "Nomine:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Adresse:">
-<!ENTITY editBookmarkOverlay.location.accesskey              "L">
+<!ENTITY editBookmarkOverlay.location.accesskey              "A">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Adresse del feed:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresse del sito:">
@@ -19,10 +19,10 @@
 <!ENTITY editBookmarkOverlay.description.label               "Description:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Parola clave:">
-<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "P">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Monstrar tote le etiquettas">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Cargar iste marcapaginas in le barra lateral">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "l">
 <!ENTITY editBookmarkOverlay.choose.label                    "Eliger…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Nove dossier">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
