@@ -9,7 +9,7 @@
 
 <!ENTITY defaultSearchEngine.label             "ნაგულისხმევი საძიებო სისტემა">
 
-<!ENTITY chooseYourDefaultSearchEngine2.label   "მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართების და ძიების ზოლებში.">
+<!ENTITY chooseYourDefaultSearchEngine2.label   "მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართებისა და ძიების ველებში.">
 
 <!ENTITY provideSearchSuggestions.label        "ძიების შემოთავაზებები">
 <!ENTITY provideSearchSuggestions.accesskey    "ძ">
@@ -20,7 +20,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
-<!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართების და ძიების ზოლების ქვეშ, საძებნი ფრაზის აკრეფისას.">
+<!ENTITY chooseWhichOneToDisplay2.label         "მიუთითეთ სათადარიგო საძიებო სისტემები, რომელიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.">
 
 <!ENTITY engineNameColumn.label                "საძიებო სისტემა">
 <!ENTITY engineKeywordColumn.label             "საკვანძო სიტყვა">
