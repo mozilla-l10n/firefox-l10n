@@ -7,14 +7,14 @@
 
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
 <!ENTITY retry.label "पुनः प्रयास गर्नुहोस्">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जडान गर्न असमर्थ">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "यो ठेगाना प्रतिबन्धित छ">
-<!ENTITY deniedPortAccess.longDesc "‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "सर्भर फेला परेन">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "सुरक्षित जडान असफल भयो">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>यो सर्भरको व्यवस्थासँगको समस्या हुनसक्छ, वा कोहि अरुले सर्भरको नकल गरिरहेको हुन सक्छ।</li> <li>यदि तपाईँले पहिला सफलतापूर्वक यो सर्भरसँग जडान गरिसक्नुभएको छ भने यो समस्या अस्थायी हुनसक्छ र तपाईँले केहि समयपछि पुनः प्रयास गर्न सक्नुहुन्छ।</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>यो साइट अस्थायी अनुपलब्ध अथवा धेरै व्यस्त भएको हुन सक्छ। केही समयमा पुनः प्रयास गर्नुहोला</li> <li>यदि तपाईँले कुनै पृष्ठ लोड गर्न सक्नु भएन भने, तपाईँको यन्त्रको डाटा अथवा Wi-Fi जडान जाँच गर्नुहोस्। <button id='wifi'>Wi-Fi सक्षम पार्नुहोस्</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "सामग्री सुरक्षा नीति द्वारा अवरुद्ध">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "वा तपाईँले अपवाद थप्न सक्नुहुन्छ...">
 <!ENTITY securityOverride.getMeOutOfHereButton "मलाई यहाँबाट बाहिर निकाल्नुहोस्!">
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद थप्नुहोस्...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>यदि यो इन्टरनेट जडानमा तपाईँलाई पूर्ण भरोसा छैन वा यदि तपाईँले पहिले यस किसिमको चेतावनी देख्नुभएको थिएन भने, तपाईँले अपवादमा थप्नु हुँदैन।</p>   <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
