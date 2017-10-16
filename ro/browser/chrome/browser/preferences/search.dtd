@@ -5,7 +5,7 @@
 <!ENTITY searchBar.label                       "Bară de căutare">
 
 <!ENTITY searchBar.hidden.label                "Folosește bara de adresă pentru căutare și navigare">
-<!ENTITY searchBar.shown.label                 "Adaugă bara de căutare în bara cu unelte">
+<!ENTITY searchBar.shown.label                 "Adaugă bara de căutare în bara de instrumente">
 
 <!ENTITY defaultSearchEngine.label             "Motor de căutare implicit">
 
