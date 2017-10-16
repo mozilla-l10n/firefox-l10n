@@ -73,7 +73,7 @@
 <!ENTITY  securityView.identity.owner    "Rwode:">
 <!ENTITY  securityView.identity.domain   "Kakube:">
 <!ENTITY  securityView.identity.verifier "Lamoko ne aye:">
-
+<!ENTITY  securityView.identity.validity "Kare ne bitum i:">
 
 <!ENTITY  securityView.privacy.header                   "Mung ki gin mukato">
 <!ENTITY  securityView.privacy.history                  "Mono alimo kakube man con mapat ki tin?">

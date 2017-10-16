@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Wa tye ka nongo peko i dwoko kare me yeny mamegi ma ogiko. Yer dwok kare mukato cen me temo doki.">
 <!ENTITY restorepage.tryThis2       "Pud pe twero dwoko cen kare mamegi? Kare mukene dirica matidi aye tye ka kelo peko. Nen dirica matino mukato, kwany woko gwet ki i dirica matino ma pe imito dwoko cen, ka dong i dwok cen.">
 
+<!ENTITY restorepage.hideTabs       "Kan dirica matino mukato">
+<!ENTITY restorepage.showTabs       "Nen dirica matino mukato">
+
 <!ENTITY restorepage.tryagainButton2 "Dwok kare">
 <!ENTITY restorepage.restore.access2 "D">
 <!ENTITY restorepage.closeButton2    "Cak kare manyen">

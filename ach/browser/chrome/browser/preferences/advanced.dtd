@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Lumuku">
 
@@ -23,17 +23,18 @@
 <!ENTITY checkUserSpelling.accesskey     "a">
 
 <!ENTITY dataChoicesTab.label            "Yer me tic">
+
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
+<!ENTITY dataCollection.label            "&brandShortName; coko ki tic ki data">
+<!ENTITY dataCollectionPrivacyNotice.label    "Ngec me mung">
 
-
-
-
+<!ENTITY alwaysSubmitCrashReports1.label  "Yee &brandShortName; me cwalo ripot me poto bot Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.accesskey "c">
 <!ENTITY crashReporterLearnMore.label    "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
@@ -46,21 +47,21 @@ available. -->
 <!ENTITY httpCache.label                 "Gin manonge iye me kakube ma kikano">
 
 <!ENTITY offlineStorage2.label           "Gin manonge iye me kakube ma pe iwiyamo kacel ki tic pa ngat matiyo kwede">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Data me kakube">
 <!ENTITY clearSiteData.label             "Jwa data weng">
 <!ENTITY clearSiteData.accesskey         "a">
 <!ENTITY siteDataSettings.label          "Ter…">
 <!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Nong ngec mapol">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Wek kakano obed">
 <!ENTITY limitCacheSizeBefore.accesskey  "W">
 <!ENTITY limitCacheSizeAfter.label       "MB me kabedo">
@@ -72,11 +73,11 @@ available. -->
 <!ENTITY overrideSmartCacheSize.accesskey "K">
 
 <!ENTITY updateTab.label                 "Ngec manyen">
+
 <!-- LOCALIZATION NOTE (updateApplication.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApplication.label         "Ngec manyen me &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
@@ -84,11 +85,10 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Yee ki &brandShortName; me">
-
-
+<!ENTITY updateAuto3.label               "Ket ngec manyen pire kene (kicwako)">
+<!ENTITY updateAuto3.accesskey           "K">
 <!ENTITY updateCheckChoose2.label        "Rot pi ngec manyen, ento weko iyero kace imito keto gi">
 <!ENTITY updateCheckChoose2.accesskey    "R">
 <!ENTITY updateManual2.label             "Pe i rot pi ngec manyen matwal (pe kicwako ber bedo pe gene)">
@@ -108,7 +108,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Ma kiweko woko…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "i">
 
-<!ENTITY offlineAppsList2.label          "Kakube magi ki ye ki gin me kano tic p tic kwedgi ma nongo pe okube iwi yamo:">
+<!ENTITY offlineAppsList3.label          "Ki yee ki kakube magi me gwoko data pi tic kwede ma pe iwiyamo">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kwany…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
@@ -124,18 +124,15 @@ available. -->
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts2.label                "Nen Catibiket…">
 <!ENTITY viewCerts2.accesskey            "C">
-
-
+<!ENTITY viewSecurityDevices2.label      "Nyonyo me ber bedo…">
+<!ENTITY viewSecurityDevices2.accesskey  "N">
 
 <!ENTITY performance.label               "Tic">
-<!ENTITY useRecommendedPerformanceSettings2.label "Tii ki ter me tic ma kicimo.">
-
-<!ENTITY useRecommendedPerformanceSettings2.accesskey "T">
-<!ENTITY performanceSettingsLearnMore.label "Nong ngec mapol">
-
-
-
-
-
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Tii ki ter me tic ma kicimo.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "T">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Nong ngec mapol">
 <!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
 <!ENTITY allowHWAccel.accesskey          "o">

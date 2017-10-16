@@ -241,7 +241,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "Alamabuk me cing">
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
+<!ENTITY hideBookmarksToolbar.label         "Kan gitic me alamabuk">
 <!ENTITY searchBookmarks.label              "Yeny Alamabuk">
+<!ENTITY bookmarkingTools.label             "Gtic me keto alamabuk">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -261,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Gam">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Gam">
 <!ENTITY downloads.accesskey          "G">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -325,6 +328,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.accesskey "n">
 <!ENTITY viewCustomizeToolbar.label       "Yiki…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Y">
+<!ENTITY overflowCustomizeToolbar.label       "Yub gitic…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "Y">
 
 <!ENTITY historyMenu.label "Gin mukato">
 <!ENTITY historyMenu.accesskey "u">
@@ -344,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Jwa gin mukato cokki…">
 <!ENTITY appMenuHistory.restoreSession.label "Dwok kare ma okato ni">
 <!ENTITY appMenuHistory.viewSidebar.label "Nen gintic me gin mukato">
+<!ENTITY appMenuHistory.recentHistory.label "Mukato cokki">
 <!ENTITY appMenuHelp.label "Kony">
 <!ENTITY appMenuHelp.tooltip "Yab lakony me nying gin ayera">
 
@@ -373,6 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Lor nyonyo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
 
+<!ENTITY appMenuRecentHighlights.label "Wiye madito ma cokki">
 
 <!ENTITY customizeMenu.addToToolbar.label "Med bot gintic">
 <!ENTITY customizeMenu.addToToolbar.accesskey "M">
@@ -392,6 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Kob bot nying gin ayera">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kwany ki bot gintic">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.removeFromMenu.label "Kwany ki bot nying gin ayera">
@@ -420,9 +428,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ngec:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Nong kony i yenyo jami! Yeny &#x1F50E; ma inget tam amiya me yeny.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Lok ter…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
@@ -542,6 +552,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Ket alama buk i pem man">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "a">
+<!ENTITY pageAction.copyLink.label    "Lok kakube">
+<!ENTITY copyURLFeedback.label        "Kiloko!">
 <!ENTITY emailPageCmd.label           "Cwal kakube…">
 <!ENTITY emailPageCmd.accesskey       "C">
 <!ENTITY savePageCmd.label            "Gwok pot buk calo…">
@@ -777,6 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Yeny dirica matino ma ki ribo">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -931,7 +944,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
 
+<!ENTITY pageAction.sendTabToDevice.label "Cwal dirica matidi i nyonyo">
+<!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
 
+<!ENTITY libraryButton.tooltip "Nen mukato, alamabuk ma kigwoko, ki mapol">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

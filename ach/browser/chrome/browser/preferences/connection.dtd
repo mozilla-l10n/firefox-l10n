@@ -14,33 +14,19 @@
 <!ENTITY  systemTypeRadio.accesskey     "T">
 <!ENTITY  WPADTypeRadio.label           "Nong pire kene ter me proxy pi kube man">
 <!ENTITY  WPADTypeRadio.accesskey       "b">
-<!ENTITY  manualTypeRadio.label         "Yik me proxy ma ikito kikomi:">
-<!ENTITY  manualTypeRadio.accesskey     "x">
-<!ENTITY  autoTypeRadio.label           "URL me proxy ma ki yiko pire kene:">
-<!ENTITY  autoTypeRadio.accesskey       "i">
 <!ENTITY  reload.label                  "Nwo cano">
 <!ENTITY  reload.accesskey              "o">
-<!ENTITY  ftp.label                     "Proxy me FTP:">
-<!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "Proxy me HTTP:">
-<!ENTITY  http.accesskey                "y">
-<!ENTITY  ssl.label                     "Proxy me SSL:">
-<!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "Lami kube me SOCKS:">
-<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "DNS me proxy ka itye katic ki SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Bur:">
+<!ENTITY  port2.label                   "Bur">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "Petye Proxy pi:">
-<!ENTITY  noproxy.accesskey             "P">
 <!ENTITY  noproxyExplain.label          "Labolle: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Tii ki proxy me lapok tic man pi cik me kube weng">
 <!ENTITY  shareproxy.accesskey          "i">

@@ -7,19 +7,18 @@
 <!ENTITY preferencesButton.label "Ter">
 <!ENTITY removeButton.label   "Kwany">
 <!-- &#171; is &laquo; however it's not defined in XML -->
+<!ENTITY backLink2.label      "&#171; Dok cen">
 
 <!ENTITY window.title         "Med lamak jami manyen">
 <!ENTITY window.width         "45em">
 
-<!ENTITY name.label           "Nying:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name2.label          "Nying">
+<!ENTITY name2.accesskey      "N">
 <!ENTITY name.placeholder     "Ket nying lamak jami">
-<!ENTITY icon.label           "Cal:">
-<!ENTITY icon.accesskey       "C">
-<!ENTITY color.label          "Rangi:">
-<!ENTITY color.accesskey      "a">
+<!ENTITY icon2.label          "Cal">
+<!ENTITY icon2.accesskey      "C">
+<!ENTITY color2.label         "Rangi">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Otum">
 <!ENTITY button.ok.accesskey  "O">
-
