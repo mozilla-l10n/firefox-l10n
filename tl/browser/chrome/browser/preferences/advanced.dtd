@@ -136,4 +136,5 @@ available. -->
 <!ENTITY performanceSettingsLearnMore.label
                                          "Karagdagang kalaaman">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY allowHWAccel.label              "Gumamit ng hardware acceleration kapag maaari">
 <!ENTITY allowHWAccel.accesskey          "r">

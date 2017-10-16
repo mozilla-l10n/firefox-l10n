@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors2.label       "I-override ang mga kulay na tinukoy ng pahina sa iyong mga seleksyon sa itaas">
 <!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Palagi">
