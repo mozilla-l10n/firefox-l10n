@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Mums neizdodas atjaunot jūsu iepriekšējo pārlūkošanas sesiju. Izvēlieties Atjaunot sesiju, lai mēģinātu vēlreiz.">
 <!ENTITY restorepage.tryThis2       "Joprojām neizdodas atjaunot sesiju? Reizēm kāda konkrēta cilne traucē sesijas atjaunošanai. Aplūkojiet cilnes un izņemiet kēksīti no tām, ko jums nevajag atjaunot, tad mēģiniet vēlreiz.">
 
+<!ENTITY restorepage.hideTabs       "Paslēpt iepriekšējās cilnes">
+<!ENTITY restorepage.showTabs       "Rādīt iepriekšējās cilnes">
+
 <!ENTITY restorepage.tryagainButton2 "Atjaunot sesiju">
 <!ENTITY restorepage.restore.access2 "A">
 <!ENTITY restorepage.closeButton2    "Sākt jaunu sesiju">
