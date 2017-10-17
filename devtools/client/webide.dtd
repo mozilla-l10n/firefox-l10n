@@ -121,8 +121,17 @@
 <!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "બુલિયન">
+<!ENTITY device_typenumber "પૂર્ણાંક">
+<!ENTITY device_typestring "શબ્દમાળા">
+<!ENTITY device_typeobject "વસ્તુ">
+<!ENTITY device_typenone "એક પ્રકાર પસંદ કરો">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "ઉપકરણ પસંદગીઓ">
+<!ENTITY devicepreference_search "શોધ પસંદગીઓ">
+<!ENTITY devicepreference_newname "નવું પસંદગી નામ">
+<!ENTITY devicepreference_newtext "પસંદગી મૂલ્ય">
 
 <!-- Device Settings -->
 
