@@ -26,13 +26,14 @@
 <!ENTITY cmd.back.tooltip                     "Mergi cu o pagină în urmă">
 <!ENTITY cmd.forward.tooltip                  "Mergi cu o pagină înainte">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Unele extensii nu au putut fi verificate">
 <!ENTITY showAllExtensions.button.label       "Afișează toate extensiile">
 <!ENTITY debugAddons.label                    "Depanează suplimente">
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Toate suplimentele sunt dezactivate în modul de siguranță.">
+<!ENTITY warning.safemode.label                    "Toate suplimentele sunt dezactivate în modul sigur.">
 <!ENTITY warning.checkcompatibility.label          "Verificarea compatibilității suplimentelor este dezactivată. Ați putea avea suplimente incompatibile.">
 <!ENTITY warning.checkcompatibility.enable.label   "Activează">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Activează verificarea compatibilității suplimentelor">
@@ -255,7 +256,6 @@
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
 
-<!ENTITY legacyWarning.description "Lipsește ceva? Unele extensii nu mai sunt suportate de &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Afișează extensiile obsolete">
 <!ENTITY legacyExtensions.title "Extensii obsolete">
 <!ENTITY legacyExtensions.description "Aceste extensii nu îndeplinesc standardele actuale ale &brandShortName; astfel încât au fost dezactivate.">

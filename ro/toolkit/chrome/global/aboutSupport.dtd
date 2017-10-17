@@ -10,7 +10,7 @@
 <!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "ID raport">
+<!ENTITY aboutSupport.crashes.id "ID-ul raportului">
 <!ENTITY aboutSupport.crashes.sendDate "Trimis">
 <!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de defecțiuni">
 <!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecțiuni.">
@@ -21,11 +21,12 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versiune">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Funcționalități &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nume">
 <!ENTITY aboutSupport.featureVersion "Versiune">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Funcții experimentale">
+<!ENTITY aboutSupport.experimentsTitle "Funcționalități experimentale">
 <!ENTITY aboutSupport.experimentName "Nume">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Descriere">
@@ -65,11 +66,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ferestre multiproces">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "Procese pentru conținut web">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Mod în siguranță">
+<!ENTITY aboutSupport.appBasicsSafeMode "Mod sigur">
 
 <!ENTITY aboutSupport.showDir.label "Deschide directorul">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -104,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Accesibilitate">
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Împiedică accesibilitatea">
+<!ENTITY aboutSupport.a11yHandlerUsed "Handler accesibil folosit">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiuni ale bibliotecii">
 
@@ -118,7 +121,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumente">
 
-<!ENTITY aboutSupport.safeModeTitle "Încearcă modul în siguranță">
+<!ENTITY aboutSupport.safeModeTitle "Încearcă modul sigur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimentele dezactivate…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Funcționalități">
@@ -130,3 +133,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Funcții dezactivate de Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Alternative">
 
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Dispozitive de ieșire">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Dispozitive de intrare">
+<!ENTITY aboutSupport.mediaDeviceName "Nume">
+<!ENTITY aboutSupport.mediaDeviceGroup "Grup">
+<!ENTITY aboutSupport.mediaDeviceVendor "Vânzător">
+<!ENTITY aboutSupport.mediaDeviceState "Stare">
+<!ENTITY aboutSupport.mediaDevicePreferred "Preferat">
+<!ENTITY aboutSupport.mediaDeviceFormat "Format">
+<!ENTITY aboutSupport.mediaDeviceChannels "Canale">
+<!ENTITY aboutSupport.mediaDeviceRate "Rată">
+<!ENTITY aboutSupport.mediaDeviceLatency "Latență">
