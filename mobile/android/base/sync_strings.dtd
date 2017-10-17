@@ -71,6 +71,7 @@
 <!ENTITY fxaccount_pref_sync_use_metered2 'அருகலை வழி ஒத்திசை'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
+<!ENTITY fxaccount_pref_sync_use_metered_summary2 'செல் அல்லது தரவு பிணையத்தில் &brandShortName; உலாவியின் ஒத்திசைவைத் தடு'>
 <!ENTITY fxaccount_status_legal 'சட்டபூர்வ' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
