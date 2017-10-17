@@ -86,7 +86,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Inactivar JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Activar iste option disactivara JavaScript pro le scheda currente. Si le scheda o le box del instrumentos es clause, iste definitiones essera oblidate.">
+<!ENTITY options.disableJavaScript.tooltip   "Activar iste option inactivara JavaScript pro le scheda currente. Si le scheda o le cassa de instrumentos es claudite, iste definitiones essera oblidate.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
