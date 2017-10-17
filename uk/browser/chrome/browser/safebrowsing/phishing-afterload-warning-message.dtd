@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Цей сайт може містити небезпечні програми">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blocked this page because it might try to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; заблокував цю сторінку, тому що вона може спробувати змусити вас встановити програми, які будуть заважати роботі в браузері (наприклад, змінити домівку або показувати зайву рекламу на відвідуваних вами сайтах).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
