@@ -18,7 +18,7 @@
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Tibzimin ibrezen s ticcar">
 <!ENTITY editBookmarkOverlay.description.label               "Aglam:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "m">
-<!ENTITY editBookmarkOverlay.keyword.label                   "Awal n tsaruţAwalrutt">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Awal n tsarutt:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "s">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Sken akk tibzimin">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Sali-d tacreṭ-a n usebter ɣef ugalis adisan">

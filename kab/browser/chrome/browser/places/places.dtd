@@ -20,7 +20,7 @@
 <!ENTITY view.columns.accesskey         "g">
 <!ENTITY view.sort.label                "Smizzwer s">
 <!ENTITY view.sort.accesskey            "z">
-<!ENTITY view.unsorted.label            "(Ur iţusmizzwar ara)">
+<!ENTITY view.unsorted.label            "Ur ittusmizzwar ara">
 <!ENTITY view.unsorted.accesskey        "r">
 <!ENTITY view.sortAscending.label       "Amizzwer igemmen A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">
@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "K">
 <!ENTITY exportBookmarksToHTML.label       "Sifeḍ ticraḍ n isebtar s umasal HTML…:">
 <!ENTITY exportBookmarksToHTML.accesskey   "S">
-<!ENTITY importOtherBrowser.label          "Kter isefka seg iminig nniḍen">
+<!ENTITY importOtherBrowser.label          "Kter isefka seg iminig-nniḍen...">
 <!ENTITY importOtherBrowser.accesskey      "i">
 
 <!ENTITY cmd.backup.label               "Kles…">
@@ -50,7 +50,7 @@
 <!ENTITY cmd.open_window.accesskey       "y">
 <!ENTITY cmd.open_private_window.label     "Ldi ɣef usfaylu uslig amaynut">
 <!ENTITY cmd.open_private_window.accesskey "L">
-<!ENTITY cmd.open_tab.label              "Ldi ɣef iccer aamaynut">
+<!ENTITY cmd.open_tab.label              "Ldi ɣef iccer amaynut">
 <!ENTITY cmd.open_tab.accesskey          "c">
 <!ENTITY cmd.open_all_in_tabs.label      "Ldi merra ɣef yIccaren">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "m">
@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "U">
 <!ENTITY detailsPane.less.label "Ddaw">
 <!ENTITY detailsPane.less.accesskey "d">
-<!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa yines">
+<!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa-yines">
 
 <!ENTITY view.label               "Smizzwer">
 <!ENTITY view.accesskey           "S">
