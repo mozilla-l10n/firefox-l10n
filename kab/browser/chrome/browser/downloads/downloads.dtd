@@ -57,14 +57,14 @@
 <!ENTITY cmd.showMac.label                "Sken-d di Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.showDownloads.label          "Sken-d akaram n isidar">
-<!ENTITY cmd.retry.label                  "Σreḍ i tikelt nniḍen">
+<!ENTITY cmd.retry.label                  "Ɛreḍ i tikelt-nniḍen">
 <!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebter n usider">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">
 <!ENTITY cmd.copyDownloadLink.label       "Nɣel tansa taɣbalut n usider">
 <!ENTITY cmd.copyDownloadLink.accesskey   "n">
 <!ENTITY cmd.removeFromHistory.label      "Kkes seg umazray">
 <!ENTITY cmd.removeFromHistory.accesskey  "K">
-<!ENTITY cmd.clearList2.label             "Sfed agalis n teskant">
+<!ENTITY cmd.clearList2.label             "Sfeḍ agalis n teskant">
 <!ENTITY cmd.clearList2.accesskey         "g">
 <!ENTITY cmd.clearDownloads.label         "Sfeḍ izedman">
 <!ENTITY cmd.clearDownloads.accesskey     "z">
@@ -106,7 +106,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
-<!ENTITY retryDownload.label              "Σreḍ i tikelt nniḍen azdam">
+<!ENTITY retryDownload.label              "Ɛreḍ i tikelt-nniḍen azdam">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
