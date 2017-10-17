@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "Přidat kontejner">
 <!ENTITY addButton.accesskey  "a">
 <!ENTITY preferencesButton.label "Předvolby">
-<!ENTITY removeButton.label   "Odebrat">
+<!ENTITY removeButton.label   "Odstranit">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink2.label      "&#171; Jít zpět">
 

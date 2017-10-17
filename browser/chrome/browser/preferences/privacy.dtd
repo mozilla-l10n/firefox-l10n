@@ -83,7 +83,7 @@
 <!ENTITY  rememberActions.pre.label           "Můžete ">
 <!ENTITY  rememberActions.clearHistory.label  "vymazat nedávnou historii">
 <!ENTITY  rememberActions.middle.label        " nebo ">
-<!ENTITY  rememberActions.removeCookies.label "odebrat některé cookies">
+<!ENTITY  rememberActions.removeCookies.label "odstranit některé cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.">

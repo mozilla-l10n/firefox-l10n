@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "V">
 <!ENTITY identity.learnMore "Zjistit více">
 
-<!ENTITY identity.removeCertException.label "Odebrat výjimku">
+<!ENTITY identity.removeCertException.label "Odstranit výjimku">
 <!ENTITY identity.removeCertException.accesskey "O">
 
 <!ENTITY identity.moreInfoLinkText2 "Více informací">
