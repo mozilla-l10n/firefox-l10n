@@ -52,6 +52,7 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "સર્વર">
+<!ENTITY btnServerLogging.tooltip     "વેબ સર્વરથી પ્રાપ્ત લોગ સંદેશાઓ">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "ભૂલો">
 <!ENTITY btnServerInfo                "માહિતી">
@@ -89,5 +90,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "પરિવર્તનશીલ દ્રશ્યમાં ખોલો">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "વૈશ્વિક વેરીએબલ તરીકે સંગ્રહ કરો">
 <!ENTITY storeAsGlobalVar.accesskey "S">
