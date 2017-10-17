@@ -11,7 +11,7 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "તમને બહુવિધ ટેબ્સ બંધ કરતી વખતે ચેતવશે">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOnOpenManyTabs.label       "તમને ચેતવે છે જ્યારે ઘણી ટેબ્સ ખોલવાનું ધીમું થઈ જાય અને brandShortName;">
+<!ENTITY warnOnOpenManyTabs.label       "તમને ચેતવે છે જ્યારે ઘણી ટેબ્સ ખોલવાનું ધીમું થઈ જાય અને &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "જ્યારે તમે કોઈ નવી ટેબમાં લિંક ખોલો છો, ત્યારે તેને તરત જ સ્વિચ કરો">
