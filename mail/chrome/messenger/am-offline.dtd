@@ -29,7 +29,7 @@
 <!ENTITY retentionKeepRecent.accesskey "S">
 <!ENTITY retentionApplyToFlagged.label "Vždy ukládat zprávy s hvězdičkou">
 <!ENTITY retentionApplyToFlagged.accesskey "u">
-<!ENTITY nntpRemoveMsgBody.label "Odstranit těla zpráv starších než">
+<!ENTITY nntpRemoveMsgBody.label "Smazat těla zpráv starších než">
 <!ENTITY nntpRemoveMsgBody.accesskey "O">
 <!ENTITY offlineSelectNntp.label "Vybrat diskusní skupiny pro použití v režimu offline…">
 <!ENTITY offlineSelectNntp.accesskey "V">
