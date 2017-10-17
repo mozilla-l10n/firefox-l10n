@@ -66,6 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ferestre multiproces">
 
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mod în siguranță">
 
