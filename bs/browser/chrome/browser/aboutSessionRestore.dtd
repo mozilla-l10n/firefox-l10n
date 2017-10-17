@@ -10,6 +10,9 @@
 <!ENTITY restorepage.problemDesc2   "Imamo problema s vraćanjem vaše zadnje sesije surfanja. Izaberite Vrati sesiju za novi pokušaj.">
 <!ENTITY restorepage.tryThis2       "Još uvijek ne možete vratiti sesiju? Ponekad je tab uzrok problema. Pregledajte ranije tabove, uklonite oznaku sa tabova koji vam više ne trebaju, i pokušajte ponovo.">
 
+<!ENTITY restorepage.hideTabs       "Sakrij prethodne tabove">
+<!ENTITY restorepage.showTabs       "Prikaži prethodne tabove">
+
 <!ENTITY restorepage.tryagainButton2 "Vrati sesiju">
 <!ENTITY restorepage.restore.access2 "r">
 <!ENTITY restorepage.closeButton2    "Započni novu sesiju">
