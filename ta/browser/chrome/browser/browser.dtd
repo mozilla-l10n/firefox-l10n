@@ -805,6 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">
+<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ஒத்திசைத்த கீற்றுகளைத் தேடவும்">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -875,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "கைக்கணினி முறைமையில் தொட்டுப் பாவிக்கவும்">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "தானாக மறை">
 
 <!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய படக்கருவி:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -974,6 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.addToUrlbar.label "முகவரி பட்டையில் சேர்">
 <!ENTITY pageAction.removeFromUrlbar.label "முகவரி பட்டையிலிருந்து நீக்கு">
 
+<!ENTITY pageAction.sendTabToDevice.label "சாதனத்திற்கு கீற்றுகளை அனுப்பு">
 <!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
 
 <!ENTITY libraryButton.tooltip "வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்">
@@ -982,3 +985,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "அணுகல்தன்மை வசதி செயற்படுத்தப்பட்டது">
