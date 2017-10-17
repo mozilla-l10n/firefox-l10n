@@ -29,15 +29,15 @@ disabled data sharing options in developer builds or builds with no Telemetry su
 available. -->
 <!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-a n usefsu">
 
-<!ENTITY enableHealthReport2.label       "Sireg &brandShortName; ad yazen isefka itiknikanen γer Mozilla">
+<!ENTITY enableHealthReport2.label       "Sireg &brandShortName; ad yazen isefka itiknikanen ɣer Mozilla">
 <!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "Lmed ugar">
 
 <!ENTITY dataCollection.label            "Alqqaḍ d useqdec n isefka &brandShortName;">
-<!ENTITY dataCollectionDesc.label        "Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n &brandShortName; i yal yiwen. ad k-d-nsuter yal tikkelt tasiregt send ad nawi talγut tudmawant.">
+<!ENTITY dataCollectionDesc.label        "Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n &brandShortName; i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.">
 <!ENTITY dataCollectionPrivacyNotice.label    "Tasertit n tbaḍnit">
 
-<!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; as yazen aneqqis n uɣelluy i Mozilla">
+<!ENTITY alwaysSubmitCrashReports1.label  "Sireg &brandShortName; ad as-yazen aneqqis n uɣelluy i Mozilla">
 <!ENTITY alwaysSubmitCrashReports1.accesskey "R">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
 
@@ -97,7 +97,7 @@ available. -->
 <!ENTITY updateApplication.description   "Sireg &brandShortName; akken ad">
 <!ENTITY updateAuto3.label               "Sebded ileqman s wudem awurman (yelha)">
 <!ENTITY updateAuto3.accesskey           "S">
-<!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman macac ad k-yeǧǧ ad ferneḍ asebded">
+<!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman maca ad k-yeǧǧ ad tferneḍ asebded">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)">
 <!ENTITY updateManual2.accesskey         "N">
