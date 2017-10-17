@@ -18,6 +18,7 @@
 <!ENTITY tabCrashed.header2 "Aduh. Tab Anda baru saja mogok.">
 <!ENTITY tabCrashed.offerHelp2 "Kami dapat membantu!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Pilih &tabCrashed.restoreTab; untuk memuat ulang laman.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Pilih &tabCrashed.restoreTab; atau &tabCrashed.restoreAll; untuk memuat ulang laman.">
 <!ENTITY tabCrashed.requestHelp "Maukah Anda membantu kami?">
 <!ENTITY tabCrashed.requestHelpMessage "Laporan kerusakan membantu kami mendiagnosis masalah dan membuat &brandShortName; lebih baik.">
 <!ENTITY tabCrashed.requestReport "Laporkan tab ini">
