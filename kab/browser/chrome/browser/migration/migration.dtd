@@ -5,15 +5,15 @@
 
 <!ENTITY migrationWizard.title          "Amarag n ukter">
 
-<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen seg:">
-<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka nniḍen seg: ">
+<!ENTITY importFrom.label               "Kter iɣewwaṛen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka-nniḍen seg:">
+<!ENTITY importFromUnix.label           "Kter ismenyifen, ticṛaḍ n isebtar, amazray, awalen uffiren d isefka-nniḍen seg:">
 <!ENTITY importFromBookmarks.label      "Kter ticṛaḍ n isebtar seg: ">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Ur keter-ara kan">
+<!ENTITY importFromNothing.label        "Ur keter ara kan">
 <!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
@@ -31,8 +31,8 @@
 <!ENTITY noMigrationSources.label       "Ulac aseɣẓan i igebren ticraḍ n isebtar, amazray, neɣ awalen uffiren ikelsen.">
 
 <!ENTITY importSource.title             "Aktar n iɣewwaṛen d isefka">
-<!ENTITY importItems.title              "Iferdisen ara yeţwaketren">
-<!ENTITY importItems.label              "Fren iferdisen ara yeţwaketren ">
+<!ENTITY importItems.title              "Iferdisen ara yettwaketren">
+<!ENTITY importItems.label              "Fren iferdisen ara yettwaketren:">
 
 <!ENTITY migrating.title                "Aktar…">
 <!ENTITY migrating.label                "Iferdisen-a la d-ttwaktaren akka tura…">
@@ -43,4 +43,4 @@
 <!ENTITY done.title                     "Aktar immed">
 <!ENTITY done.label                     "Iferdisen-a ttwaketren akken iwata:">
 
-<!ENTITY closeSourceBrowser.label       "Ma ulac aɣilif, wali ma yella iminig inek yemdel send ad tedduḍ deg umahil-inek.">
+<!ENTITY closeSourceBrowser.label       "Ma ulac aɣilif, wali ma yella iminig-inek yemdel send ad tedduḍ deg umahil-inek.">
