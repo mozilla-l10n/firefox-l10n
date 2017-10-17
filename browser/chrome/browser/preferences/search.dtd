@@ -16,7 +16,7 @@
 
 <!ENTITY showURLBarSuggestions2.label           "સરનામાં બાર પરિણામોમાં શોધ સૂચનો બતાવો">
 <!ENTITY showURLBarSuggestions2.accesskey       "I">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "શોધ સૂચનો સ્થાન બાર પરિણામોમાં બતાવવામાં આવશે નહીં કારણ કે તમે &amp; brandShortName; ઇતિહાસ ક્યારેય યાદ નથી">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "શોધ સૂચનો સ્થાન બાર પરિણામોમાં બતાવવામાં આવશે નહીં કારણ કે તમે &brandShortName; ઇતિહાસ ક્યારેય યાદ નથી">
 
 <!ENTITY oneClickSearchEngines.label           "શોધ એન્જિન્સ વન-ક્લિક કરો">
 
