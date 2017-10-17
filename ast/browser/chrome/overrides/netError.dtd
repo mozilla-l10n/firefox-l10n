@@ -18,15 +18,7 @@
 <!ENTITY deniedPortAccess.title "Esta direición ta restrinxida">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Nun s'alcontró'l sirvidor">
-<!ENTITY dnsNotFound.longDesc "
-<ul>
-  <li>Comprueba los fallos d'escritura na direición como
-    <strong>ww</strong>.example.com en cuentes de
-    <strong>www</strong>.example.com</li>
-  <li>Si nun yes a cargar páxina dala, comprueba la conexón a internet del ordenador.</li>
-  <li>Si'l to ordenador o rede tán protexíos por un tornafuéu o proxy, asegúrate que &brandShortName; tien permisu p'acceder a la web.</li>
-</ul>">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
 <!ENTITY fileNotFound.longDesc "
@@ -51,15 +43,7 @@
 <!ENTITY captivePortal.title "Aniciu de sesión na rede">
 
 
-<!ENTITY malformedURI.title "La direición nun ye válida">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Davezu les direiciones web escríbense como
-    <strong>http://www.example.com/</strong></li>
-  <li>Asegúrate que tas usando les barres oblícues (ye
-    dicir, <strong>/</strong>).</li>
-</ul>
-">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Interrumpióse la conexón">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -89,7 +73,7 @@
 ">
 
 <!ENTITY netReset.title "Reanicióse la conexón">
-<!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres se negociaba una conexón. Por favor, vuelvi a intentalo.</p>">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu de conexón">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
