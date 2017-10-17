@@ -7,7 +7,9 @@
 
 <!ENTITY treehead.sitename2.label     "ಜಾಲತಾಣ">
 <!ENTITY treehead.status.label        "ಸ್ಥಿತಿ">
+<!ENTITY removepermission2.label      "ಜಾಲತಾಣವನ್ನು ತೆಗೆದು ಹಾಕು">
 <!ENTITY removepermission2.accesskey  "R">
+<!ENTITY removeallpermissions2.label  "ಎಲ್ಲಾ ಜಾಲತಾಣಗಳನ್ನು ತೆಗೆದು ಹಾಕು">
 <!ENTITY removeallpermissions2.accesskey "e">
 <!ENTITY address2.label               "ಜಾಲತಾಣದ ವಿಳಾಸ">
 <!ENTITY address2.accesskey           "d">
@@ -24,3 +26,4 @@
 <!ENTITY button.ok.label              "Save ಬದಲಾವಣೆಗಳು">
 <!ENTITY button.ok.accesskey          "S">
 
+<!ENTITY searchbox.placeholder        "ಜಾಲತಾಣವನ್ನು ಹುಡುಕು">

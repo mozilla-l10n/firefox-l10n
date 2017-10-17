@@ -10,13 +10,20 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ಇತಿಹಾಸ">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "ಲಾಗಿನ್‍ಗಳು">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "ಆದ್ಯತೆಗಳು">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addresses.label     "ವಿಳಾಸಗಳು">
+<!ENTITY engine.addresses.accesskey "e">
+<!ENTITY engine.creditcards.label   "ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು">
+<!ENTITY engine.creditcards.accesskey "C">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
+<!ENTITY changeSyncDeviceName2.label "ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ…">
 <!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ರದ್ದು ಮಾಡು‍">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
@@ -47,14 +54,24 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "ಒಳಗೆ ಪ್ರವೇಶಿಸು‍">
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
+<!ENTITY verifiedManage.label        "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY signedOut.caption            "ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ">
 <!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
+<!ENTITY signedOut.accountBox.create2 "ನಿಮ್ಮ ಖಾತೆ ಇಲ್ಲವೆ? ಶುರು ಮಾಡಿ">
+<!ENTITY signedOut.accountBox.create2.accesskey "C">
+<!ENTITY signedOut.accountBox.signin2 "ಸೈನ್ ಇನ್…">
+<!ENTITY signedOut.accountBox.signin2.accesskey "I">
 
+<!ENTITY signedIn.settings.label       "ಸಿಂಕ್‍ನ ಸಿದ್ಧತೆಗಳು">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

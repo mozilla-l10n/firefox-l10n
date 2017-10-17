@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ">
 <!ENTITY  trackingProtectionAlways.label       "ಯಾವಾಗಲೂ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Only ಖಾಸಗಿ ಕಿಟಕಿಗಳಲ್ಲಿ">
@@ -15,13 +16,24 @@
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "ಖಾಸಗೀ ಕಿಟಕಿಗಳಲ್ಲಿ ಜಾಡುಹಿಡಿಯುವಿಕೆಯ ಸುರಕ್ಷತೆಯನ್ನು ಬಳಸಿ">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the release and beta channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY changeBlockList2.label               "ನಿರ್ಬಂಧಿತ ಪಟ್ಟಿಯನ್ನು ಬದಲಿಸು…">
+<!ENTITY changeBlockList2.accesskey           "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY  doNotTrack.default.label      "ಜಾಡು ಇರಿಸುವಿಕೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸುವಾಗ ಮಾತ್ರ">
+<!ENTITY  doNotTrack.always.label       "ಯಾವಾಗಲೂ">
 
 <!ENTITY  history.label                 "ಇತಿಹಾಸ">
+<!ENTITY  permissions.label             "ಅನುಮತಿಗಳು">
 
+<!ENTITY  addressBar.label              "ವಿಳಾಸ ಪಟ್ಟಿ">
+<!ENTITY  addressBar.suggest.label      "ವಿಳಾಸ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು">
+<!ENTITY  locbar.history2.label         "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
+<!ENTITY  locbar.history2.accesskey     "H">
 <!ENTITY  locbar.bookmarks.label        "Bookmarks">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Open ಹಾಳೆಗಳು">
@@ -29,11 +41,19 @@
 <!ENTITY  locbar.searches.label         "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ Related ಹುಡುಕಾಟಗಳು">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ">
 
+<!ENTITY  acceptCookies2.label          "ಜಾಲತಾಣಗಳಿಂದ ಕುಕ್ಕಿಗಳನ್ನು ಒಪ್ಪಿಕೊ">
+<!ENTITY  acceptCookies2.accesskey      "A">
 
+<!ENTITY  acceptThirdParty2.pre.label     "ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಕುಕಿಗಳನ್ನು ಅಂಗೀಕರಿಸು">
+<!ENTITY  acceptThirdParty2.pre.accesskey "y">
+<!ENTITY  acceptThirdParty.always.label   "ಯಾವಾಗಲೂ">
 <!ENTITY  acceptThirdParty.never.label    "ಎಂದಿಗೂ ಬೇಡ">
 <!ENTITY  acceptThirdParty.visited.label  "ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ">
 
+<!ENTITY  keepUntil2.label              "ಈವರೆಗೆ ಇರಿಸಿಕೋ">
+<!ENTITY  keepUntil2.accesskey          "u">
 
 <!ENTITY  expire.label                  "ಇದರ ಅವಧಿ ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  close.label                   "&brandShortName; ಅನ್ನು ನಾನು ಮುಚ್ಚುತ್ತೇನೆ">
@@ -44,6 +64,8 @@
 <!ENTITY  showCookies.label             "ಕುಕಿಗಳನ್ನು ತೋರಿಸು...">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ವು">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  historyHeader.dontremember.label "ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ">
 <!ENTITY  historyHeader.custom.label       "ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ">
@@ -89,4 +111,6 @@
 <!ENTITY  browserContainersSettings.label        "ಸಿದ್ಧತೆಗಳು…‍">
 <!ENTITY  browserContainersSettings.accesskey    "i">
 
+<!ENTITY  a11yPrivacy.checkbox.accesskey "a">
 <!ENTITY  a11yPrivacy.learnmore.label    "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY enableSafeBrowsingLearnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">

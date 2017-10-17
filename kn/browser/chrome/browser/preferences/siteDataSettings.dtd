@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     window.title                  "ತಾಣದ ದತ್ತಾಂಶ - ಸಿದ್ಧತೆಗಳು">
+<!ENTITY     hostCol.label                 "ತಾಣ">
+<!ENTITY     statusCol.label               "ಸ್ಥಿತಿ">
+<!ENTITY     usageCol.label                "ಶೇಖರಣೆ">
+<!ENTITY     searchTextboxPlaceHolder             "ಜಾಲತಾಣಗಳನ್ನು ಹುಡುಕು">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "ಆರಿಸಿದ್ದನ್ನು ಅಳಿಸು">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "ರದ್ದು ಮಾಡು">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "ತಾಣದ ದತ್ತಾಂಶವನ್ನು ತೆಗೆಯಲಾಗುತ್ತಿದೆ">

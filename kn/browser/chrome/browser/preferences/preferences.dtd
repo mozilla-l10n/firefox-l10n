@@ -21,10 +21,16 @@
 <!ENTITY  paneSearchResults.title       "ಹುಡುಕು ಫಲಿತಾಂಶಗಳು">
 <!ENTITY  paneGeneral.title             "ಸಾಮಾನ್ಯ">
 <!ENTITY  paneSearch.title              "ಹುಡುಕು">
+<!ENTITY  paneFilesApplications.title   "ಕಡತಗಳು &amp; ಅನ್ವಯಕಗಳು">
 <!ENTITY  panePrivacySecurity.title     "ಗೋಪ್ಯತೆ &amp; ಸುರಕ್ಷತೆ">
 <!ENTITY  paneContainers.title          "ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍">
 <!ENTITY  paneUpdates.title             "ಪರಿಷ್ಕರಣೆಗಳು">
 
+<!ENTITY  languageAndAppearance.label   "ಭಾಷೆ ಮತ್ತು ನೋಟ">
+<!ENTITY  filesAndApplications.label    "ಕಡತಗಳು ಮತ್ತು ಅನ್ವಯಕಗಳು">
+<!ENTITY  browserPrivacy.label          "ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox ಖಾತೆ">
 
+<!ENTITY  helpButton2.label        "&brandShortName; ಸಹಾಯ">

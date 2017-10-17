@@ -56,6 +56,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ತೋರಿಸು">
 <!ENTITY cmd.retry.label                  "ಮರಳಿ ಪ್ರಯತ್ನಿಸು">
 <!ENTITY cmd.goToDownloadPage.label       "ಇಳಿಕೆಯ ಪುಟಕ್ಕೆ ತೆರಳು">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -92,6 +93,7 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
@@ -103,6 +105,7 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+<!ENTITY retryDownload.label              "ಡೌನ್‌ಲೋಡ್ ಮರುಪ್ರಯತ್ನಿಸು">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
@@ -135,11 +138,13 @@
      This string is shown at the top of the Download Details Panel, to indicate
      that we are showing the details of a single download.
      -->
+<!ENTITY downloadDetails.label            "ಡೌನ್‌ಲೋಡ್ ವಿವರಗಳು">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.
      -->
+<!ENTITY openDownloadsFolder.label        "ಡೌನ್‌ಲೋಡ್ ಕಡತಕೋಶವನ್ನು ತೆರೆ">
 
 <!ENTITY clearDownloadsButton.label       "ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು">
 <!ENTITY clearDownloadsButton.tooltip     "ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ">
