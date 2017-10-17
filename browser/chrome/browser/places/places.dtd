@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "ಲೈಬ್ರರಿ">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -85,7 +85,8 @@
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
-<!ENTITY search.placeholder  "ಹುಡುಕು:">
+<!ENTITY historySearch.placeholder  "ಇತಿಹಾಸವನ್ನು ಹುಡ್ಕು">
+<!ENTITY bookmarksSearch.placeholder  "ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹುಡುಕು">
 
 <!ENTITY cmd.find.key  "f">
 

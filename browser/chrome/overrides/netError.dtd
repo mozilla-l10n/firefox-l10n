@@ -8,9 +8,9 @@
 <!ENTITY loadError.label "ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡುವಲ್ಲಿ ತೊಂದರೆ ಎದುರಾಗಿದೆ">
 <!ENTITY retry.label "ಮರಳಿ ಪ್ರಯತ್ನಿಸು">
 <!ENTITY returnToPreviousPage.label "ಹಿಂದೆ ಹೋಗು">
+<!ENTITY advanced.label "ಸುಧಾರಿತ">
 
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -18,8 +18,8 @@
 <!ENTITY deniedPortAccess.title "ಈ ವಿಳಾಸವು ಪ್ರತಿಬಂಧಿಸಲ್ಪಟ್ಟಿದೆ">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
-<!ENTITY dnsNotFound.longDesc "<ul> <li><strong>www</strong>.example.com ನ ಬದಲಿಗೆ  <strong>ww</strong>.example.com ಎಂದಾಗಿರುವ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗೆಗಾಗಿ ಪರೀಕ್ಷಿಸಿ</li><li>ನಿಮ್ಮಿಂದ ಯಾವುದೆ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡಲು ಆಗದೆ ಹೋದಲ್ಲಿ,ನಿಮ್ಮ ಗಣಕದ ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ನಿಮ್ಮ ಗಣಕವು ಅಥವ ಜಾಲಬಂಧ ಒಂದು ಫೈರ್ವಾಲ್‍ನಿಂದ ಅಥವ ಪ್ರಾಕ್ಸಿಯಿಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದಲ್ಲಿ, &brandShortName; ಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿಸಲು ಮರೆಯದಿರಿ.</li> </ul>">
+<!ENTITY dnsNotFound.pageTitle "ಪರಿಚಾರಕವು ಕಂಡುಬಂದಿಲ್ಲ">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "ಕಡತವು  ಕಂಡುಬಂದಿಲ್ಲ">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ಕ್ಯಾಪಿಟಲೈಸೇಶನ್‍ಗಾಗಿ ಅಥವ ಇತರೆ ಬೆರಳಚ್ಚು ದೋಷಗಳಿಗಾಗಿ ಕಡತದ ಹೆಸರನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ಕಡತವು ಸ್ಥಳಾಂತರಿಸಲ್ಪಟ್ಟಿದೆಯೆ, ಹೆಸರು ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿದೆಯೆ ಅಥವ ಅಳಿಸಲ್ಪಟಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ.</li> </ul>">
@@ -30,11 +30,12 @@
 <!ENTITY generic.title "ಓಹ್.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ಕ್ಕೆ ಈ ಪುಟವನ್ನು ಕೆಲವೊಂದು ಕಾರಣದಿಂದಾಗಿ ಲೋಡ್‍ ಮಾಡಲಾಗುವುದಿಲ್ಲ.</p>">
 
+<!ENTITY captivePortal.title "ಜಾಲ ಸಂಪರ್ಕಕ್ಕೆ ಲಾಗಿನ್ ಆಗಿ">
 
+<!ENTITY openPortalLoginPage.label2 "ಜಾಲ ಸಂಪರ್ಕ ಲಾಗಿನ್ ಪುಟವನ್ನು ತೆರೆಯಿರಿ">
 
-
-<!ENTITY malformedURI.title "ವಿಳಾಸವು ಸಮಂಜಸವಾಗಿಲ್ಲ">
-<!ENTITY malformedURI.longDesc "<ul> <li>ಜಾಲ ವಿಳಾಸವು ಸಾಮಾನ್ಯವಾಗಿ     <strong>http://www.example.com/</strong> ರೀತಿಯಲ್ಲಿ  ಬರೆಯಲ್ಪಡುತ್ತದೆ</li> <li>ಮುಮ್ಮುಖವಾಗಿರುವ ಅಡ್ಡಗೆರಗಳನ್ನು ನೀವು ಬಳಸಿದ್ದೀರ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ (ಉದಾ. <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.pageTitle "ಅಮಾನ್ಯವಾದ URL">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "ಸಂಪರ್ಕಕ್ಕೆ ಅಡಚಣೆಯಾಗಿದೆ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -102,10 +103,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ಸುಧಾರಿತ ಮಾಹಿತಿ: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 
 <!ENTITY certerror.pagetitle1  "ಅಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ಈ ತಾಣವು &brandShortName; ನೊಂದಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಹೊಂದು ಎಂದು ಸೂಚಿಸಲು HTTP ಸ್ಟ್ರಿಕ್ಟ್‌ ಟ್ರಾನ್ಸ್‌ಪೋರ್ಟ್ ಸೆಕ್ಯುರಿಟಿ (HSTS) ಅನ್ನು ಮಾತ್ರ ಬಳಸುತ್ತದೆ. ಈ ಕಾರಣದಿಂದಾಗಿ, ಈ ತಾಣದ ಪ್ರಮಾಣಪತ್ರಕ್ಕೆ ವಿನಾಯಿತಿಯನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.">

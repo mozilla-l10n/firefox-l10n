@@ -26,9 +26,10 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY enableHealthReport1.accesskey   "r">
+<!ENTITY enableHealthReport2.accesskey   "r">
 <!ENTITY healthReportLearnMore.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
+<!ENTITY dataCollection.label            "&brandShortName; ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಬಳಕೆ">
 <!ENTITY dataCollectionPrivacyNotice.label    "ಗೌಪ್ಯತಾ ಸೂಚನೆ">
 
 <!ENTITY alwaysSubmitCrashReports1.accesskey "c">
@@ -47,6 +48,7 @@ available. -->
 <!ENTITY offlineStorage2.label           "ಆಫ್‌ಲೈನ್ ಜಾಲದ ವಿಷಯಗಳು ಮತ್ತು ಬಳಕೆದಾರ ಮಾಹಿತಿ">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "ಜಾಲತಾಣ ದತ್ತಾಂಶ">
 <!ENTITY clearSiteData.label             "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "ಸಿದ್ಧತೆಗಳು...">
@@ -75,6 +77,7 @@ available. -->
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApplication.label         "&brandShortName; ನವೀಕರಣಗಳು">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
@@ -83,6 +86,7 @@ available. -->
  -->
 <!ENTITY updateApplication.version.pre   "ಆವೃತ್ತಿ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; ಅನುಮತಿಸು">
 <!ENTITY updateAuto3.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುವ ಆಯ್ಕೆಯನ್ನು ನಿಮಗೆ ಬಿಡುತ್ತದೆ">
 <!ENTITY updateCheckChoose2.accesskey    "C">
@@ -101,6 +105,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "ವಿನಾಯಿತಿಗಳು…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "ಆಫ್‌ಲೈನ್‌ ಬಳಕೆಗಾಗಿ ಮಾಹಿತಿಯನ್ನು ಶೇಖರಿಸಿಟ್ಟುಕೊಳ್ಳಲು ಈ ಕೆಳಗಿನ ಜಾಲತಾಣಗಳಿಗೆ ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ತೆಗೆದು ಹಾಕು…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -124,6 +129,7 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+<!ENTITY limitContentProcessOption.label "ಪರಿವಿಡಿ ಪ್ರಕ್ರೀಯೆ ಮಟ್ಟ">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ಲಭ್ಯವಿದ್ದಾಗ ಯಂತ್ರಾಂಶ ವೇಗವರ್ಧನೆಯನ್ನು ಬಳಸು">
 <!ENTITY allowHWAccel.accesskey          "r">

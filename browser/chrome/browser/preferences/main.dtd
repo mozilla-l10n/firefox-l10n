@@ -4,6 +4,7 @@
 
 <!ENTITY startup.label             "ಆರಂಭಿಕ">
 
+<!ENTITY startupPage2.label        "&brandShortName; ವು ಆರಂಭಗೊಂಡಾಗ">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು">
 <!ENTITY startupBlankPage.label    "ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು">
@@ -19,6 +20,8 @@
 <!ENTITY restoreDefault.label      "ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+
 <!ENTITY downloads.label     "ಡೌನ್‍ಲೋಡ್‍ಗಳು">
 
 <!ENTITY saveTo.label "ಕಡತಗಳನ್ನು ಇಲ್ಲಿ ಉಳಿಸು">
@@ -32,6 +35,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "ಯಾವಾಗಲೂ &brandShortName; ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
+<!ENTITY setAsMyDefaultBrowser3.label     "ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು…">
 <!ENTITY setAsMyDefaultBrowser3.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ">
 <!ENTITY isNotDefault.label               "&brandShortName; ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ">
