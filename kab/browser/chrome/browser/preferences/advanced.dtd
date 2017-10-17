@@ -146,7 +146,7 @@ available. -->
                                          "Issin ugar">
 <!ENTITY limitContentProcessOption.label "Azal afellay n ukala n ugbur">
 <!ENTITY limitContentProcessOption.description
-                                         "Ikalan n ugbur nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.">
+                                         "Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.">
 <!ENTITY limitContentProcessOption.accesskey   "Y">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala &brandShortName;.">
