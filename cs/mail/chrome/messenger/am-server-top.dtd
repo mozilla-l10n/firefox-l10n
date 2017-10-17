@@ -50,7 +50,7 @@
 <!ENTITY modelMoveToTrash.accesskey "n">
 <!ENTITY modelMarkDeleted.label "Označit zprávu jako smazanou">
 <!ENTITY modelMarkDeleted.accesskey "z">
-<!ENTITY modelDeleteImmediately.label "Odstranit zprávu okamžitě">
+<!ENTITY modelDeleteImmediately.label "Okamžitě zprávu smazat">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Při ukončení provést údržbu složky s doručenou poštou">
