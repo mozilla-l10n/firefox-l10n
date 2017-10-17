@@ -62,7 +62,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "e">
 <!ENTITY cmd.copyDownloadLink.label       "Kopírovat stahovaný odkaz">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
-<!ENTITY cmd.removeFromHistory.label      "Odebrat z historie">
+<!ENTITY cmd.removeFromHistory.label      "Odstranit z historie">
 <!ENTITY cmd.removeFromHistory.accesskey  "d">
 <!ENTITY cmd.clearList2.label             "Vymazat tento seznam">
 <!ENTITY cmd.clearList2.accesskey         "m">
@@ -76,19 +76,19 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Odebrat soubor">
+<!ENTITY cmd.removeFile.label             "Odstranit soubor">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Odebrat soubor nebo povolit stažení">
+<!ENTITY cmd.chooseUnblock.label          "Odstranit soubor nebo povolit stažení">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
-<!ENTITY cmd.chooseOpen.label             "Otevřít nebo odebrat soubor">
+<!ENTITY cmd.chooseOpen.label             "Otevřít nebo odstranit soubor">
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to

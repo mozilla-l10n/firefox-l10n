@@ -14,6 +14,6 @@
 <!ENTITY     save.accesskey                "l">
 <!ENTITY     cancel.label                  "Zrušit">
 <!ENTITY     cancel.accesskey              "Z">
-<!ENTITY     removingDialog.title          "Odstraňování dat stránky">
-<!ENTITY     removingSelected.description  "Odstranění dat stránky odstraní také cookies a offline obsah. To může způsobit vaše odhlášení z webové stránky. Opravdu chcete změny provést?">
+<!ENTITY     removingDialog.title          "Mazání dat stránky">
+<!ENTITY     removingSelected.description  "Smazání dat stránky smaže také cookies a offline obsah. To může způsobit vaše odhlášení z webové stránky. Opravdu chcete změny provést?">
 <!ENTITY     siteTree2.label               "Budou odstraněny následující cookies">
