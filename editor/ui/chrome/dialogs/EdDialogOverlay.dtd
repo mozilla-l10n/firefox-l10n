@@ -12,6 +12,9 @@
 <!ENTITY makeUrlRelative.label "URL je relativní k adrese stránky">
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Změní URL na relativní nebo absolutní. Před změnou je nejprve nutné uložit stránku.">
+
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Zadejte adresu stránky, místní soubor nebo vyberte pojmenovanou kotvu nebo záhlaví ze seznamu:">
 <!ENTITY LinkURLEditField.accessKey "m">
+<!ENTITY LinkURLEditField2.label "Zadejte adresu stránky, lokální soubor nebo vyberte pojmenovanou kotvu nebo nadpis z kontextové nabídky:">
+<!ENTITY LinkURLEditField2.accessKey "m">
