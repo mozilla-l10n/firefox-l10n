@@ -856,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Iegūt jaunas tēmas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "I">
 <!ENTITY customizeMode.emptyOverflowList.description "Pārvelciet šeit lietas, ko gribat paturēt tuvumā, bet negribat likt kādā no izvēlnēm…">
+<!ENTITY customizeMode.overflowList.title2 "Pārplūdes izvēlne">
+<!ENTITY customizeMode.overflowList.description "Pārvelciet šeit lietas, ko gribat paturēt tuvumā, bet negribat likt kādā no izvēlnēm…">
 <!ENTITY customizeMode.uidensity "Blīvums">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
