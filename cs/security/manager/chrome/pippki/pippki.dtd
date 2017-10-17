@@ -13,7 +13,7 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Obnovit">
 <!ENTITY resetPassword.title  "Obnovení hlavního hesla">
-<!ENTITY resetPassword.text  "Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto obnovit hlavní heslo?">
+<!ENTITY resetPassword.text  "Pokud obnovíte hlavní heslo, všechna vaše uložená hesla z webových stránek a e-mailů, vyplněná data z formulářů, osobní certifikáty a klíče budou ztraceny. Chcete přesto hlavní heslo obnovit?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Stažení certifikátu">
