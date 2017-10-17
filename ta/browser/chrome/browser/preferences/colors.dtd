@@ -6,6 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors2.label       "மேலே தேர்ந்தெடுக்கப்பட்டதன் மூலம் பக்கத்தில் குறிப்பிடப்பட்ட நிறங்களை மேலெழுதவும்">
 <!ENTITY  overrideDefaultPageColors2.accesskey   "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "எப்போதும்">
