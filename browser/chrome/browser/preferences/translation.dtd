@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "பின்வரும் மொழிகளுக்கு மொழிபெயர்ப்பு வழங்கப்பட மாட்டாது:">
+<!ENTITY noTranslationForLanguages2.label "பின்வரும் மொழிகளுக்கு மொழிபெயர்ப்பு வழங்கப்பட மாட்டாது">
 <!ENTITY treehead.languageName.label      "மொழிகள்">
 <!ENTITY removeLanguage.label             "மொழியை நீக்கு">
 <!ENTITY removeLanguage.accesskey         "R">
 <!ENTITY removeAllLanguages.label         "எல்லா மொழிகளையும் நீக்கு">
 <!ENTITY removeAllLanguages.accesskey     "e">
 
-<!ENTITY noTranslationForSites.label      "பின்வரும் தளங்களுக்கு மொழி பெயர்ப்பு வழங்கப்பட மாட்டாது:">
+<!ENTITY noTranslationForSites2.label     "பின்வரும் தளங்களுக்கு மொழி பெயர்ப்பு வழங்கப்பட மாட்டாது">
 <!ENTITY treehead.siteName2.label         "இணையத்தளங்கள்">
 <!ENTITY removeSite.label                 "தளத்தை நீக்கு">
 <!ENTITY removeSite.accesskey             "S">

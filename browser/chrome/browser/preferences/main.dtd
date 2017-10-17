@@ -20,6 +20,8 @@
 <!ENTITY restoreDefault.label      "முன்னிருப்புக்கு மீட்டமை">
 <!ENTITY restoreDefault.accesskey  "R">
 
+<!ENTITY disableExtension.label    "துணைநிரலை முடக்கவும்">
+
 <!ENTITY downloads.label     "பதிவிறக்கங்கள்">
 
 <!ENTITY saveTo.label "கோப்புகளை இங்கு சேமி">

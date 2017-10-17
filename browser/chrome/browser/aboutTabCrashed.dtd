@@ -17,6 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "ஆகா. உங்கள் கீற்று சேதமடைந்தது.">
 <!ENTITY tabCrashed.offerHelp2 "எங்களால் உதவ முடியும்!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "பக்கத்தை மீளேற்ற &tabCrashed.restoreTab; என்பதைத் தேர்ந்தெடு.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "பக்கம்/pages மீளேற்ற &tabCrashed.restoreTab; அல்லது &tabCrashed.restoreAll; என்பதைத் தேர்ந்தெடு.">
 <!ENTITY tabCrashed.requestHelp "நீங்கள் எங்களுக்கு உதவுவீர்களா?">
 <!ENTITY tabCrashed.requestHelpMessage "பிரச்சனைகளைக் கண்டறிந்து &brandShortName; ஐ மேம்படுத்த சிதைவறிக்கைகள் எங்களுக்கு உதவுகிறது.">
 <!ENTITY tabCrashed.requestReport "இந்தக் கீற்று குறித்து புகாரளி">
