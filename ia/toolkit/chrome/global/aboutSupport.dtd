@@ -97,7 +97,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.lockedPrefsName "Nomine">
 <!ENTITY aboutSupport.lockedPrefsValue "Valor">
 
-<!ENTITY aboutSupport.graphicsTitle "Graphica">
+<!ENTITY aboutSupport.graphicsTitle "Graphicos">
 
 <!ENTITY aboutSupport.placeDatabaseTitle "Base de datos de locos">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integritate">
