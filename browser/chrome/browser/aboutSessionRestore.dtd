@@ -10,6 +10,7 @@
 <!ENTITY restorepage.problemDesc2   'Chúng tôi đang gặp sự cố khi khôi phục lại phiên duyệt web lần cuối của bạn. Chọn "Khôi phục phiên làm việc" để thử lại.'>
 <!ENTITY restorepage.tryThis2       "Vẫn không thể phục hồi phiên làm việc của bạn? Đôi khi một thẻ đang gây ra sự cố. Xem các thẻ trước đó, bỏ chọn các thẻ mà bạn không cần khôi phục, và sau đó khôi phục lại.">
 
+
 <!ENTITY restorepage.tryagainButton2 "Khôi phục phiên làm việc">
 <!ENTITY restorepage.restore.access2 "R">
 <!ENTITY restorepage.closeButton2    "Bắt đầu phiên làm việc mới">
@@ -18,7 +19,7 @@
 <!ENTITY restorepage.restoreHeader  "Khôi phục">
 <!ENTITY restorepage.listHeader     "Cửa Sổ và Thẻ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Cửa sổ &#037;">
+<!ENTITY restorepage.windowLabel    "Cửa sổ &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
