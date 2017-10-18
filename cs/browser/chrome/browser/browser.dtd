@@ -85,7 +85,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "H">
-<!ENTITY navbarCmd.label "Lišta navigace">
+<!ENTITY navbarCmd.label "Navigační lišta">
 <!ENTITY personalbarCmd.label "Lišta záložek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
@@ -848,12 +848,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Hlavička okna">
 <!ENTITY customizeMode.extraDragSpace "Prostor pro chycení okna">
 <!ENTITY customizeMode.toolbars2 "Nástrojové lišty">
-<!ENTITY customizeMode.lwthemes "Motivy">
-<!ENTITY customizeMode.lwthemes.myThemes "Mé motivy">
+<!ENTITY customizeMode.lwthemes "Motivy vzhledu">
+<!ENTITY customizeMode.lwthemes.myThemes "Mé motivy vzhledu">
 <!ENTITY customizeMode.lwthemes.recommended "Doporučené">
 <!ENTITY customizeMode.lwthemes.menuManage "Správa">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů vzhledu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 <!ENTITY customizeMode.emptyOverflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">
 <!ENTITY customizeMode.overflowList.title2 "Rozšiřující nabídka">
