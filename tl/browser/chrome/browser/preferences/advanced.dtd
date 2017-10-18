@@ -90,10 +90,14 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplicationDescription.label
+                                         "Panatilihin ang &brandShortName; na updated para mahusay ang pagtakbo, katatagan, at seguridad.">
 <!ENTITY updateApplication.version.pre   "Bersyon ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Payagan ang &brandShortName; na">
+<!ENTITY updateAuto3.label               "Awtomatikong iinstall ang mga update (rekomendado)">
 <!ENTITY updateAuto3.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "I-check kung may mga update, subalit hayaan ka kung i-install ang mga ito">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Huwag kailan man mag check kung may mga update (hindi rekomendado)">
 <!ENTITY updateManual2.accesskey         "N">
@@ -107,23 +111,28 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "Awtomatikong i-update ang mga search engine">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY offlineStorageNotify.label               "Ipa-alam sayo kung ang website ay mag-save ng data para sa offline na paggamit">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Mga ililiban…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
+<!ENTITY offlineAppsList3.label          "Ang mga sumusunod na mga website ay papayagan na mag-tago ng data para sa offline na paggamit">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">
 <!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
 <!ENTITY certificateTab.label            "Mga sertipiko">
+<!ENTITY certPersonal2.description       "Kapag hiniling ng isang server ang iyong personal na sertipiko">
 <!ENTITY selectCerts.auto                "Pumili agad ng isa">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Magtanong sayo palagi">
 <!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.label                "Tanungin ang mga OCSP responder server upang kumpirmahin ang kasalukuyang bisa ng mga sertipiko">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts2.label                "Tingnan ang mga Sertipiko…">
 <!ENTITY viewCerts2.accesskey            "C">
+<!ENTITY viewSecurityDevices2.label      "Mga device na pang-seguridad…">
 <!ENTITY viewSecurityDevices2.accesskey  "D">
 
 <!ENTITY performance.label               "Pagganap">
@@ -135,6 +144,13 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Karagdagang kalaaman">
+<!ENTITY limitContentProcessOption.label "Nasa limitasyon na ang pag proseso ng content">
+<!ENTITY limitContentProcessOption.description
+                                         "Ang karagdagang mga proseso ng nilalaman ay maaaring mapabuti ang pagganap kapag gumagamit ng maraming mga tab, ngunit gagamit din ito ng mas maraming memorya.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Alamin kung paano i-check kung ang multiprocess ay pinagana">
 <!ENTITY allowHWAccel.label              "Gumamit ng hardware acceleration kapag maaari">
 <!ENTITY allowHWAccel.accesskey          "r">

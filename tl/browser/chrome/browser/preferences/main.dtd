@@ -40,4 +40,9 @@
 <!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
 <!ENTITY isNotDefault.label               "Ang &brandShortName; ay hindi ang iyong default na browser">
 
+<!ENTITY separateProfileMode.label        "Payagan ang &brandShortName; at Firefox na tumakbo nang sabay">
+<!ENTITY useFirefoxSync.label             "Tip: Gumagamit ito ng mga hiwalay na profile. Gumamit ng Sync upang ibahagi ang data sa pagitan nila.">
+<!ENTITY getStarted.notloggedin.label     "Mag-sign in sa &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Buksan ang mga preference ng &syncBrand.shortName.label;">
 
+<!ENTITY e10sEnabled.label                "Paganahin ang multi-process ng &brandShortName;">
