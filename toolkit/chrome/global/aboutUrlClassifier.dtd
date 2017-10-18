@@ -3,4 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "ಒದಗಿಸುವವರು">
+<!ENTITY aboutUrlClassifier.provider                    "ಒದಗಿಸುವವರು">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ಕೊನೆಯ ಬಾರಿಗೆ ನವೀಕರಣ ಮಾಡಿದ್ದು">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "ಮುಂದಿನ ನವೀಕರಣ ಸಮಯ">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "ಹಿಂದೆ-ತೆರಳುವ ಸಮಯ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "ಕೊನೆಯ ಬಾರಿಗೆ ನವೀಕರಿಸಿದ್ಧ ಸ್ಥಿತಿ">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "ನವಿಕರೀಸು">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "ಕ್ಯಾಶೆ">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "ನವೀಕರಿಸು">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "ಅಳಿಸು">
 <!ENTITY aboutUrlClassifier.cacheTableName              "ಕೋಷ್ಟಕದ ಹೆಸರು">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "ಪೂರ್ವಪ್ರತ್ಯಯ">
+<!ENTITY aboutUrlClassifier.debugTitle                  "ದೋಷನಿದಾನ">
