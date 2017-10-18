@@ -58,7 +58,7 @@ available. -->
 <!ENTITY clearSiteData.label             "Vacuar tote le datos">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Parametros…">
-<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteDataLearnMoreLink.label     "Saper plus">
 
 <!-- LOCALIZATION NOTE:
