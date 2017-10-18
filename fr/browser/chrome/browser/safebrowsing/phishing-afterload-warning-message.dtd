@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a été <a id='error_desc_link'>signalé comme comportant un logiciel malveillant</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "Apprenez-en davantage sur les contenus web dangereux comme les virus et autres logiciels malveillants, et apprenez à protéger votre ordinateur en consultant <a id='learn_more_link'>StopBadware.org</a>. Pour en savoir plus sur le système de protection contre le hameçonnage et les logiciels malveillants de &brandShortName;, consultez <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Apprenez-en davantage sur les contenus web dangereux comme les virus et autres logiciels malveillants, et apprenez à protéger votre ordinateur en consultant <a id='learn_more_link'>StopBadware.org</a>. Pour en savoir plus sur le système de protection contre l’hameçonnage et les logiciels malveillants de &brandShortName;, consultez <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Ce site peut contenir des programmes dangereux">
@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> a été <a id='error_desc_link'>signalé comme comportant des logiciels dangereux</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Pour en savoir plus sur les logiciels dangereux et indésirables, consultez le <a id='learn_more_link'>Règlement relatif aux logiciels indésirables</a>. Pour en apprendre davantage sur la protection de &brandShortName; contre les logiciels malveillants et le hameçonnage, consultez <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Pour en savoir plus sur les logiciels dangereux et indésirables, consultez le <a id='learn_more_link'>Règlement relatif aux logiciels indésirables</a>. Pour en apprendre davantage sur la protection de &brandShortName; contre les logiciels malveillants et l’hameçonnage, consultez <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Ce site est trompeur">
@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> a été <a id='error_desc_link'>signalé comme étant un site trompeur</a>. Vous pouvez <a id='report_detection'>signaler une erreur de détection</a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "Consultez <a id='learn_more_link'>www.antiphishing.org</a> pour en savoir plus sur les sites trompeurs et le hameçonnage. Consultez <a id='firefox_support'>support.mozilla.org</a> pour en savoir plus sur le système de protection de &brandShortName; contre le hameçonnage et les logiciels malveillants.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Consultez <a id='learn_more_link'>www.antiphishing.org</a> pour en savoir plus sur les sites trompeurs et le hameçonnage. Consultez <a id='firefox_support'>support.mozilla.org</a> pour en savoir plus sur le système de protection de &brandShortName; contre l’hameçonnage et les logiciels malveillants.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Ce site peut contenir des logiciels malveillants">
@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> a été <a id='error_desc_link'>signalé comme pouvant comporter une application potentiellement dangereuse</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "Pour en savoir plus sur le système de protection contre le hameçonnage et les logiciels malveillants de &brandShortName; vous pouvez consulter <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Pour en savoir plus sur le système de protection contre l’hameçonnage et les logiciels malveillants de &brandShortName; vous pouvez consulter <a id='firefox_support'>support.mozilla.org</a>.">
