@@ -67,7 +67,7 @@
 
 <!ENTITY calendar.nextday.label                 "Esok Hari" >
 <!ENTITY calendar.prevday.label                 "Semalam" >
-<!ENTITY calendar.nextday.accesskey             "l" >
+<!ENTITY calendar.nextday.accesskey             "s" >
 <!ENTITY calendar.prevday.accesskey             "e" >
 <!ENTITY calendar.nextweek.label                "Minggu Depan" >
 <!ENTITY calendar.prevweek.label                "Minggu Lepas" >

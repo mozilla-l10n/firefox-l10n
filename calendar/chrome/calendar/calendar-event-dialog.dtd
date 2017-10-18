@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.label                "Maklumkan peserta">
 <!ENTITY event.attendees.notify.accesskey            "k">
 <!ENTITY event.attendees.notifyundisclosed.label     "Asingkan jemputan bagi setiap peserta">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "s">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Pilihan ini menghantar satu e-mel jemputan kepada setiap peserta. Setiap jemputan hanya mengandungi nama peserta ini supaya identiti peserta lain tidak didedahkan.">
 <!ENTITY event.attendees.disallowcounter.label       "Jangan izinkan pengira">
 <!ENTITY event.attendees.disallowcounter.accesskey   "i">
@@ -94,7 +94,7 @@
 <!ENTITY  event.menu.item.page.setup.label                "Tatacara Halaman">
 <!ENTITY  event.menu.item.page.setup.accesskey            "c">
 <!ENTITY  event.menu.item.print.label                     "Cetak">
-<!ENTITY  event.menu.item.print.accesskey                 "P">
+<!ENTITY  event.menu.item.print.accesskey                 "C">
 
 <!ENTITY  event.menu.edit.label                           "Edit">
 <!ENTITY  event.menu.edit.accesskey                       "E">
@@ -214,7 +214,7 @@
 <!ENTITY task.from.label                                  "Mula:" >
 <!ENTITY task.from.accesskey                              "M">
 <!ENTITY event.to.label                                   "Tamat:" >
-<!ENTITY event.to.accesskey                               "e">
+<!ENTITY event.to.accesskey                               "m">
 <!ENTITY task.to.label                                    "Tarikh Tamat tempoh:" >
 <!ENTITY task.to.accesskey                                "e">
 <!ENTITY task.status.label                                "Status:" >
