@@ -14,6 +14,7 @@
 <!ENTITY sync.subtitle.connect.label 'Để kích hoạt thiết bị mới của bạn, hãy chọn \&quot;&syncBrand.shortName.label;\&quot; trên thiết bị.'>
 <!ENTITY sync.subtitle.pair.label 'Để kích hoạt, chọn “Ghép đôi thiết bị” trên thiết bị khác của bạn.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Tôi không có thiết bị…'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Đăng nhập'>
@@ -61,10 +62,12 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; đã được thiết lập, nhưng không làm việc tự động. Bật “Tự động đồng bộ dữ liệu” trong Cài đặt Android &gt; Sử dụng dữ liệu.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; đã được thiết lập nhưng không làm việc tự động. Bật “Tự động đồng bộ dữ liệu” trong Cài đặt Android &gt; Tài khoản.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Chạm để đăng nhập tài khoản Firefox mới.'>
+<!ENTITY fxaccount_status_choose_what 'Chọn những gì bạn muốn đồng bộ hóa'>
 <!ENTITY fxaccount_status_bookmarks 'Trang đánh dấu'>
 <!ENTITY fxaccount_status_history 'Lược sử'>
 <!ENTITY fxaccount_status_passwords2 'Đăng nhập'>
 <!ENTITY fxaccount_status_tabs 'Các thẻ đang mở'>
+<!ENTITY fxaccount_status_additional_settings 'Cài đặt bổ sung'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'Chỉ đồng bộ qua Wi-Fi'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
