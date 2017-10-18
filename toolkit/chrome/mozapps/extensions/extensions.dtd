@@ -26,6 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Undur satu halaman">
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
+
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat disahkan">
 <!ENTITY showAllExtensions.button.label       "Papar semua ekstensi">
 <!ENTITY debugAddons.label                    "Add-ons Nyahpepijat">
@@ -105,7 +106,7 @@
 <!ENTITY cmd.installAddon.label               "Pasang">
 <!ENTITY cmd.installAddon.accesskey           "g">
 <!ENTITY cmd.uninstallAddon.label             "Buang">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.accesskey         "B">
 <!ENTITY cmd.showPreferencesWin.label         "Pilihan">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
@@ -257,7 +258,6 @@
 <!ENTITY pluginDeprecation.description "Ada sesuatu yang tidak kena? Ada plugin yang tidak lagi disokong oleh &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ketahui Selanjutnya.">
 
-<!ENTITY legacyWarning.description "Ada sesuatu yang tidak kena? Ada ekstensi tidak lagi disokong oleh &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Pamerkan ekstensi legasi">
 <!ENTITY legacyExtensions.title "Ekstensi Legasi">
 <!ENTITY legacyExtensions.description "Ekstensi berikut tidak memenuhi piawai &brandShortName; oleh itu dinyahaktifkan.">

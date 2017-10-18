@@ -9,7 +9,7 @@
 <!ENTITY pasteCmd.label "Tampal">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "Batal">
-<!ENTITY undoCmd.accesskey "e">
+<!ENTITY undoCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Pilih Semua">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Buang">
