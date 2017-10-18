@@ -42,9 +42,9 @@
 <!ENTITY calendar.unifinder.tree.enddate.label             "Konec">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Seřadíte podle konce">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Splnit do">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Seřadíte podle splnit do">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Seřadíte podle termínu splnění">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Dokončeno">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Seřadit podle data dokončení">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Seřadíte podle data dokončení">
 <!ENTITY calendar.unifinder.tree.categories.label          "Kategorie">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Seřadíte podle kategorie">
 <!ENTITY calendar.unifinder.tree.location.label            "Místo">
