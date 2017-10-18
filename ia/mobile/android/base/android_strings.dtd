@@ -423,6 +423,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Reportator de collapso">
 <!ENTITY datareporting_wifi_title2 "Servicio de localisation de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Adjuta &vendorShortName; a mappar le mundo! Comparti le position approximative de Wi-Fi e cellular de tu apparato pro melior nostre servicio de geolocalisation.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -520,6 +521,7 @@
 <!ENTITY pref_scroll_title_bar_summary2 "Celar le barra de instrumentos de &brandShortName; quando rolante a basso sur un pagina">
 
 <!ENTITY pref_tab_queue_title3 "Cauda de schedas">
+<!ENTITY pref_tab_queue_summary4 "Salvar le ligamines usque le proxime vice que tu aperi &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -585,6 +587,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; schedas">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 scheda">
+<!ENTITY home_most_recent_empty "Le sitos web que tu ha visitate plus recentemente appare hic.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: usante un &formatS1;nove scheda private&formatS2; non salvara tu chronologia.">
@@ -652,6 +655,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Protection contra le traciamento">
 <!ENTITY doorhanger_tracking_state_enabled "Habilitate">
 <!ENTITY doorhanger_tracking_state_disabled "Dishabilitate">
+<!ENTITY doorhanger_tracking_message_enabled1 "Le tentativas de traciar tu comportamento in rete ha essite blocate.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Iste pagina include elementos que potera traciar tu navigation.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Apprender plus">
@@ -659,6 +664,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY disable_protection "Disactivar le protection">
 
 <!ENTITY private_data_success "Datos private clarate">
+<!ENTITY private_data_fail "Alicun datos private non pote ser clarate">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importante le marcapaginas e le chronologia
@@ -669,6 +675,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                          de Android">
 <!ENTITY bookmarkhistory_import_wait "Per favor attende…">
 
+<!ENTITY suggestions_prompt3 "Esque tu gustarea activar suggestiones de recerca?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -680,12 +687,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Recercar &formatS1; pro &formatS2;">
 
 <!ENTITY searchable_description "Marcapaginas e chronologia">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Actualisation disponibile pro &brandShortName;">
 <!ENTITY updater_start_select2 "Toccar pro discargar">
 
+<!ENTITY updater_downloading_title2 "Discargamento de &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Discargamento fallite">
 <!ENTITY updater_downloading_select2 "Toccar pro applicar le actualisationes, depost que illos es discargate">
 <!ENTITY updater_downloading_retry2 "Toccar pro reprobar">
@@ -773,7 +783,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "Definitiones avantiate">
 <!ENTITY restrictable_feature_advanced_settings_description "Isto include importar le marcapaginas, restaurar le schedas e actualisationes automatisate. Inactiva lo si tu vole parametros simplificate e convenibile pro qualcunque membro del familia.">
 <!ENTITY restrictable_feature_camera_microphone "Camera &amp; microphono">
+<!ENTITY restrictable_feature_camera_microphone_description "Permitter al membros del familia de ingagiar, in tempore real, le communication sur le sitos Web.">
 <!ENTITY restrictable_feature_block_list "Lista de blocage">
+<!ENTITY restrictable_feature_block_list_description "Blocar le sitos Web que include contento sensibile.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -792,6 +804,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Pardono! Iste &brandShortName; non functionara in iste apparato (&formatS1;,&formatS2;). Per favor discarga le version correcte.">
 
+<!ENTITY eol_notification_title2 "&brandShortName; non essera plus actualisante">
 <!ENTITY eol_notification_summary "Tocca pro apprender plus">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
