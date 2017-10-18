@@ -176,7 +176,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-<!ENTITY options.screenshot.audio.label      "Ton einer Kameraverschlusses abspielen">
+<!ENTITY options.screenshot.audio.label      "Ton eines Kameraverschlusses abspielen">
 <!ENTITY options.screenshot.audio.tooltip    "Toneffekt eines Kameraverschlusses während der Aufnahme eines Bildschirmfotos wiedergeben">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
