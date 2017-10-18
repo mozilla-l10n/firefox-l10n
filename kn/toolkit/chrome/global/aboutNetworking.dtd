@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "ಪ್ರತಿ 3 ಸೆಕೆಂಡುಗಳಿಗೆ ಸ್ವತ:ಪುನಶ್ಚೇತನಗೊಳ್ಳು">
 <!ENTITY aboutNetworking.hostname              "ಅತಿಥೇಯ ಗಣಕದ ಹೆಸರು">
 <!ENTITY aboutNetworking.port                  "ಪೋರ್ಟ್">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ಸಕ್ರಿಯ">
 <!ENTITY aboutNetworking.idle                  "ನಿಷ್ಕ್ರಿಯ">
@@ -29,6 +30,7 @@
 <!ENTITY aboutNetworking.bytesSent             "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.bytesReceived         "ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ">
 <!ENTITY aboutNetworking.logging               "ದಾಖಲಾತಿ‍">
+<!ENTITY aboutNetworking.currentLogFile        "ಪ್ರಸ್ತುತ ಲಾಗ್ ಕಡತ:">
 <!ENTITY aboutNetworking.startLogging          "ದಿನಚರಿತುಂಬುವುದನ್ನು ಪ್ರಾರಂಭಿಸು">
 <!ENTITY aboutNetworking.stopLogging           "ದಿನಚರಿ ಪೇರಿಸುವುದನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY aboutNetworking.dnsLookup             "DNS ಲುಕ್ಅಪ್">
