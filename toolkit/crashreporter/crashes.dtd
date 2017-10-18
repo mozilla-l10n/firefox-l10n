@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY crashReports.title         "ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿಗಳು">
+<!ENTITY crashesUnsubmitted.label   "ಸಲ್ಲಿಸಲಾಗಿದ ಕುಸಿತ ವರದಿಗಳು">
 <!ENTITY crashesSubmitted.label     "ಕುಸಿತ ವರದಿಗಳನ್ನು ಸಲ್ಲಿಸಲಾಗಿದೆ">
 <!ENTITY id.heading                 "ವರದಿ ID">
 <!ENTITY dateCrashed.heading        "ಕುಸಿತಗೊಂಡ ದಿನಾಂಕ">
