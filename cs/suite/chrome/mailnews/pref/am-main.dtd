@@ -36,7 +36,7 @@
 <!ENTITY manageIdentities.accesskey "r">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
-<!ENTITY smtpName.label "Odchozí server (SMTP)">
+<!ENTITY smtpName.label "Odchozí server (SMTP):">
 <!ENTITY smtpName.accesskey "O">
 <!ENTITY smtpDefaultServer.label "Použít výchozí server">
 
