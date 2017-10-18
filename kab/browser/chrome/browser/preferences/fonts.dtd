@@ -7,7 +7,7 @@
 <!ENTITY  fonts.label                             "Tisefsiyin i">
 <!ENTITY  fonts.accesskey                         "S">
 
-<!ENTITY  size2.label                             "Teγzi">
+<!ENTITY  size2.label                             "Teɣzi">
 <!ENTITY  sizeProportional.accesskey              "T">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Takurit">
 <!ENTITY  font.langGroup.cyrillic                 "Tasirilikt">
 <!ENTITY  font.langGroup.el                       "Tagrigit">
-<!ENTITY  font.langGroup.other                    "Inagrawen n tira nniḍen">
+<!ENTITY  font.langGroup.other                    "Inagrawen n tira-nniḍen">
 <!ENTITY  font.langGroup.thai                     "Taṭaylant">
 <!ENTITY  font.langGroup.hebrew                   "Taɛebranit">
 <!ENTITY  font.langGroup.arabic                   "Taɛrabt">
@@ -104,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Tavyiṭnamit">
-<!ENTITY languages.customize.Fallback.other       "Ayen nniḍen (Yedda Uṛup n umalu)">
+<!ENTITY languages.customize.Fallback.other       "Ayen-nniḍen (Yedda Uṛup n umalu)">

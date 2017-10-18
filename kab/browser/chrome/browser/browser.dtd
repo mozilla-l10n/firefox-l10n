@@ -856,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n isental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Zuɣer sakin sers iferdisen akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka...">
+<!ENTITY customizeMode.overflowList.title2 "Umuɣ n usiɣzef n ufeggag n ifecka">
 <!ENTITY customizeMode.overflowList.description "Zuɣer sakin sers iferdisen dagi akken ad ten-teǧǧeḍ ɣef afus, acu kan beṛṛa n ufeggag-ik n ifecka…">
 <!ENTITY customizeMode.uidensity "Taneẓẓi">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
