@@ -9,6 +9,7 @@
 <!ENTITY addonAction.disable                    "ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY addonAction.uninstall                  "ತೆಗೆದುಹಾಕು">
 <!ENTITY addonAction.undo                       "ರದ್ದು ಮಾಡು">
+<!ENTITY addonAction.update                     "ಪರಿಷ್ಕರಿಸು">
 
 <!ENTITY addonUnsigned.message                  "ಈ ಆಡ್-ಆನ್ ‌ಅನ್ನು &brandShortName; ನಿಂದ ಧೃಡಪಡಿಸಲಾಗಿಲ್ಲ.">
 <!ENTITY addonUnsigned.learnMore                "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">

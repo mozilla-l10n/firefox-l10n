@@ -4,9 +4,13 @@
 
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 <!ENTITY firstrun_urlbar_message2 "ಆಯ್ಕೆ ಮಾಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು &brandShortName;‍">
+<!ENTITY firstrun_urlbar_subtext2 "ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ಜಾಲಕ್ಕಾಗಿ ಬದ್ಧವಾಗಿರುವ ಲಾಭರಹಿತವಾದ ಮೊಜಿಲ್ಲಾದಿಂದ ಒಂದು ಆಧುನಿಕ ಮೊಬೈಲ್ ಬ್ರೌಸರ್.">
 <!ENTITY firstrun_panel_title_privacy "ಗೌಪ್ಯತೆ">
 <!ENTITY firstrun_privacy_message "ಯಾರೂ ನೋಡದಿರುವಂತೆ ಜಾಲಾಡಿ">
+<!ENTITY firstrun_privacy_subtext "ನೀವು ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯೊಂದಿಗೆ ಖಾಸಗಿ ಜಾಲಾಟ ಮಾಡುವುದರಿಂದ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ವರ್ತನೆಯ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವ ಟ್ರ್ಯಾಕರ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನೀವು ಜಾಲವೀಕ್ಷಣೆಯನ್ನು ಮುಗಿಸಿದಾಗ ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸವನ್ನು ಮರೆಯುತ್ತದೆ.">
 <!ENTITY firstrun_panel_title_customize "ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
+<!ENTITY firstrun_customize_message "&brandShortName; ಅನ್ನು ನಿಮ್ಮದಾಗಿಸಿಕೊಳ್ಳಿ.">
+<!ENTITY firstrun_customize_subtext "ಆಡ್-ಆನ್‍ಗಳೊಂದಿಗೆ &brandShortName; ಅನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿ. ಜಾಹಿರಾತುಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ, ವೈಶಿಷ್ಟ್ಯತೆಯನ್ನು ಸೇರಿಸಿ, ಅಥವಾ ನಿಮ್ಮ ವ್ಯಕ್ತಿತ್ವವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವಂತೆ ಹೊಸ ಥೀಮ್ಅನ್ನು ಆಯ್ಕೆಮಾಡಿಕೊಳ್ಳಿ.">
 <!ENTITY firstrun_bookmarks_title "ಇತಿಹಾಸ">
 <!ENTITY firstrun_bookmarks_message "ನಿಮ್ಮ ಮೆಚ್ಚಿನವು, ಮುಂ‍ಭಾಗ ಮತ್ತು ಮಧ್ಯೆ">
 <!ENTITY firstrun_bookmarks_subtext "ನೀವು ಹುಡುಕುವಾಗ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸದಿಂದ ಫಲಿತಾಂಶ ಪಡೆಯಿರಿ.">
@@ -15,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "‍ನೀವು ವಿಹರಿಸುವ ಪ್ರತಿಯೊಂದೂ ತಾಣದಲ್ಲಿ ಕಡಿಮೆ ಡೇಟಾ ವ್ಯಯಿಸಲು ಚಿತ್ರಗಳನ್ನು ಅಡಗಿಸಿ. ">
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
 <!ENTITY firstrun_sync_message2 "ನೀವು ಬಿಟ್ಟು ಹೋದಲ್ಲಿಂದ ಮುಂದುವರೆಸಿ.">
+<!ENTITY firstrun_sync_subtext2 "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ &brandShortName; ಗೆ ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಮತ್ತು ಇತರ ವಿಷಯಗಳನ್ನು ಹುಡುಕಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.">
 <!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
@@ -87,6 +92,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ಅಂಶಗಳು">
 <!ENTITY bookmark_folder_one_item "೧ ಅಂಶ">
+<!ENTITY bookmark_folder_updated "ಕಡತಕೋಶದ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_parent_folder "ಪೋಷಕ ಕಡತಕೋಶ">
 <!ENTITY bookmark_add_folder "ಕಡತ ಕೋಶ ಸೇರಿಸು">
 
@@ -266,7 +272,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "ಪುಟವನ್ನು ತುಂಬಿಸುವಾಗ ದೂರದ ಅಕ್ಷರ ಶೈಲಿಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊ">
 
 <!ENTITY pref_tracking_protection_title2 "ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ">
-<!ENTITY pref_tracking_protection_summary3 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
@@ -281,11 +286,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "ಪ್ರಯೋಗಾತ್ಮಕ ವೈಶಿಷ್ಟ್ಯಗಳು">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "ಇಚ್ಛೆಯ ಟ್ಯಾಬ್‍‍‍ಗಳು">
-<!ENTITY pref_custom_tabs_summary3 "ಅನ್ವಯಗಳನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿದ &brandShortName; ನ ಆವೃತ್ತಿಯಲ್ಲಿ ಜಾಲತಾಣಗಳನ್ನು‍ ತೆರೆಯಲು ಅನುಮತಿಸು‍">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; ನಲ್ಲಿ ">
@@ -493,10 +493,14 @@
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
+<!ENTITY contextmenu_pin_to_top_sites "ಅಗ್ರತಾಣಗಳಿಗೆ ಪಿನ್ ಮಾಡಿ">
+<!ENTITY contextmenu_unpin_from_top_sites "ಅಗ್ರತಾಣಗಳಿಂದ ಪಿನ್ ಮಾಡಿರುವುದನ್ನು ತೆಗೆಯಿರಿ">
 <!ENTITY contextmenu_add_search_engine "ಹುಡುಕು ಸಾಧನವನ್ನು ಸೇರಿಸಿ">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
+<!ENTITY pinned_page_to_top_sites "ಪುಟವನ್ನು ಅಗ್ರತಾಣಗಳಿಗೆ ಪಿನ್ ಮಾಡಿ">
+<!ENTITY unpinned_page_from_top_sites "ಪುಟವನ್ನು ಅಗ್ರತಾಣಗಳಿಂ ತೆಗೆಯಿರಿ">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -817,7 +821,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "ಪ್ರಮುಖ ತಾಣಗಳು">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
+<!ENTITY activity_stream_topstories "&brandPocket; ಇಂದ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ">
 <!ENTITY activity_stream_highlights "ಮುಖ್ಯಾಂಶಗಳು">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "ಹೆಚ್ಚು">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -828,6 +836,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "ಪ್ರಚಲಿತ">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
+<!ENTITY activity_stream_highlights_empty "ವೀಕ್ಷಣೆ ಮಾಡಲು ಶುರುಮಾಡಿ, ಮತ್ತು ನಾವು ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲಾದ ಕೆಲವು ಶ್ರೇಷ್ಠ ಲೇಖನಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಇತರ ಪುಟಗಳನ್ನು ನಾವು ತೋರಿಸುತ್ತೇವೆ.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
