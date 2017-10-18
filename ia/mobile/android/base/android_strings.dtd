@@ -326,6 +326,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Pro \&quot;Aperir ligamines multiple\&quot;, per favor activa le permission de \&apos;Designar super altere applicationes\&apos; de &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codification de characteres">
 <!ENTITY pref_char_encoding_on "Monstrar menu">
@@ -347,7 +348,9 @@
 <!ENTITY pref_use_system_font_size_summary "Scalar le contento del web secundo le dimensiones de typos de characteres del systema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitter le auto-reprodution">
+<!ENTITY pref_media_autoplay_enabled_summary "Controla si le sitos web pote auto-reproducer videos e altere contento de medios">
 <!ENTITY pref_zoom_force_enabled "Sempre activar le zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Fortiar le super-scriptura proque tu pote facer zoom in qualcunque pagina">
 <!ENTITY pref_voice_input "Entrata de voce">
 <!ENTITY pref_voice_input_summary2 "Permitter dictato pro voce in le barra de URL">
 <!ENTITY pref_qrcode_enabled "Lector de codices QR">
@@ -395,6 +398,7 @@
 <!ENTITY pref_panels_move_up "Ascender">
 <!ENTITY pref_panels_move_down "Descender">
 
+<!ENTITY datareporting_notification_title "Statisticas &amp; datos de &brandShortName;">
 <!ENTITY datareporting_notification_action "Elige que compartir">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Elige que information compartir">
