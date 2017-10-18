@@ -19,7 +19,7 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "Direktori LDAP…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newIM.label                                    "">
+<!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Cetak Kenalan…">
 <!ENTITY printContactViewCmd.accesskey                  "k">
 <!ENTITY printPreviewContactViewCmd.label               "Previu Cetakan Kenalan">
