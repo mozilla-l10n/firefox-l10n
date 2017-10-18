@@ -39,7 +39,7 @@
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Sekiranya produk ini merangkumi perkhidmatan web, sebarang terma perkhidmatan yang diguna pakai untuk perkhidmatan ini perlu dihubungkan ke bahagian ">
 <!ENTITY rights.intro-point4b-unbranded "Web Site Services">
-<!ENTITY rights.intro-point4c-unbranded " .">
+<!ENTITY rights.intro-point4c-unbranded " bahagian.">
 
 <!ENTITY rights.webservices-header "Perkhidmatan Laman Web &brandFullName;">
 
