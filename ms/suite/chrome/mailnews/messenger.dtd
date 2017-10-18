@@ -97,7 +97,7 @@
 <!ENTITY folderPropsCmd.label "Sifat…">
 <!ENTITY folderPropsFolderCmd.label "Sifat Folder…">
 <!ENTITY folderPropsNewsgroupCmd.label "Sifat Kumpulan berita…">
-<!ENTITY folderPropsCmd.accesskey "b">
+<!ENTITY folderPropsCmd.accesskey "f">
 <!ENTITY accountManagerCmd.label "Tetapan Akaun Mel &amp; Kumpulan berita…">
 <!ENTITY accountManagerCmd.accesskey "M">
 <!ENTITY undoDeleteMsgCmd.label "Batal Membuang Mesej">
@@ -257,7 +257,7 @@
 <!ENTITY nextUnreadThread.accesskey "T">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Dahulu">
-<!ENTITY prevMenu.accesskey "T">
+<!ENTITY prevMenu.accesskey "D">
 <!ENTITY prevMsgCmd.label "Mesej">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">

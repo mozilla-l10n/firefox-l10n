@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "Tandakan Mesej sebagai sudah Dibaca mengikut Tarikh">
 <!ENTITY markByDateLower.label "Tandakan mesej sebagai dibaca daripada:">
 <!ENTITY markByDateLower.accesskey "D">
-<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.accesskey "K">
 <!ENTITY markByDateUpper.label "Kepada:">
